@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2024-07-22"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -103,33 +103,53 @@ I. La cultura física y la práctica del deporte son un derecho fundamental para
 
 II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
 
-III. El derecho a la cultura física y al deporte constituye (sic) un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
+III. El derecho a la cultura física y al deporte constituyen un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
 
-V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+IV. El fomento a la cultura física y al deporte constituyen una alternativa óptima para prevenir y atender adicciones, así como a diversas conductas patológicas en la sociedad;
 
-VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+V. El derecho a la cultura física y al deporte fomenta el libre desarrollo de la persona, el derecho a la salud en un estado de bienestar, así como diversos derechos humanos consagrados en la Constitución Política del Estado de Aguascalientes, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en los que el Estado Mexicano sea Parte, y demás normatividad en la materia aplicable;
 
-IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+VI. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+VII. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XII. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y
+VIII. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. La igualdad sustantiva entre mujeres y hombres y la no discriminación por razón de género.
+IX. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+X. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XI. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XII. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte, y;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte.
 
 ###### Artículo 3°.
 
@@ -2324,3 +2344,11 @@ A partir de la aprobación del presente Decreto, el H. Congreso del Estado de Ag
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 791.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
