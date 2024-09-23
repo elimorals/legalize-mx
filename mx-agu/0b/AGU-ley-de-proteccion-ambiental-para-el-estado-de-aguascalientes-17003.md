@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-07-15"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -128,6 +128,10 @@ X. AUDITORÍA AMBIENTAL: Proceso de revisión metodológico de las actividades y
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XI. AUTORREGULACIÓN: Proceso voluntario mediante el cual, respetando la legislación y normatividad vigente que le aplique, la Empresa se establece un conjunto de actividades y se adoptan normas complementarias o más estrictas, a través de las cuales se mejora el Desempeño Ambiental y se obtienen mayores logros en materia de protección ambiental;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XI BIS. AZOTEA VERDE: Cubierta ajardinada con vegetación que se instala de manera total o parcial sobre los techos de edificaciones públicas y privadas, nuevas o existentes, de acuerdo a la disposición del Código Urbano Estatal;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -4629,35 +4633,13 @@ En un plazo de 180 días naturales, contados a partir de la publicación de esta
 
 En un plazo de 90 días naturales, contados a partir de la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes, se deberán instalar la Comisión Estatal de Educación Ambiental.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 47/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO, DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO EN EL ESTADO DE CHIAPAS, ASÍ COMO DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO”.]
+P.O. 23 DE SEPTIEMBRE DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el catorce de noviembre de dos mil dieciséis, con excepción de lo dispuesto en los transitorios CUARTO y QUINTO que entrarán en vigor al día siguiente de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 793.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO UNICO.
 
-TERCERO. Los órganos jurisdiccionales a que se refiere el presente Acuerdo y la oficina de correspondencia común que les presta servicio, deberán colocar avisos en lugares visibles en relación a su cambio de residencia y domicilio.
-
-CUARTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, adoptará las medidas necesarias para que los órganos jurisdiccionales y la oficina de correspondencia común a que se refiere este Acuerdo, inicien funciones en su nuevo domicilio el catorce de noviembre de dos mil dieciséis.
-
-SEXTO. Se reforma el numeral SEGUNDO, fracción XX, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a XIX. …
-
-XX. …
-
-1. …
-
-2. Dos tribunales unitarios con sede en Cintalapa de Figueroa, Chiapas.
-
-3. …
-
-XXI. a XXXII. …”.
-
-D.O.F. 30 DE NOVIEMBRE DE 2016.
+El presente Decreto entrará en vigor al día siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 49/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS SEXTO Y SÉPTIMO DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TUXTLA GUTIÉRREZ, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS REFERIDOS ÓRGANOS JURISDICCIONALES Y LOS JUZGADOS DE DISTRITO DE AMPARO Y JUICIOS FEDERALES, EN LA MISMA ENTIDAD FEDERATIVA Y SEDE”.]
 
