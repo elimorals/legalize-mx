@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2024-06-03"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -111,15 +111,21 @@ XIV. Preservar y fomentar los valores cívicos, culturales y artísticos del Mun
 
 XV. Los demás que se determinen en las leyes aplicables o el Ayuntamiento, en su caso.
 
-### CAPÍTULO IV. Nombre y Escudo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. Nombre, Escudo y Bandera
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 8°.
 
-El Nombre y Escudo del Municipio de San José de Gracia son su signo de identidad y sus símbolos representativos, respectivamente. Sin perjuicio de lo anterior, el Municipio puede utilizar un logotipo institucional, característico de su período de gobierno.
+El Nombre, el Escudo y la Bandera del Municipio de San José de Gracia son su signo de identidad y sus símbolos representativos, respectivamente. Sin perjuicio de lo anterior, el Municipio puede utilizar un logotipo institucional, característico de su período de gobierno.
 
 ###### ARTÍCULO 9°.
 
 El Municipio conservará su nombre oficial actual, que de conformidad con el artículo 7º de la Ley Municipal para el Estado de Aguascalientes será el nombre de San José de Gracia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 10.
 
@@ -133,9 +139,37 @@ En la parte superior izquierda, se simbolizan la fauna y la flora silvestre del 
 
 En la parte superior derecha, se simbolizan con el sol, la fuerza de voluntad de los habitantes por mejorar las condiciones adversas, con obras como la presa "50 ANIVERSARIO", para mejorar la agricultura y ganadería: CAÑA Y CABEZA DE BOVINO.
 
-En la parte central, una cabeza de águila simbolizando la independencia.
+En la parte central, una cabeza de águila simbolizando la independencia. Y en torno al óvalo, la inscripción de su lema: "ANTE LA ADVERSIDAD: CONCIENCIA, ESFUERZO, PATRIA. SAN JOSÉ DE GRACIA".
 
-Y en torno al óvalo, la inscripción de su lema: "ANTE LA ADVERSIDAD: CONCIENCIA, ESFUERZO, PATRIA. SAN JOSÉ DE GRACIA".
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 10 BIS.- La Bandera Oficial del Municipio consiste en un pabellón rectangular en las mismas proporciones que la Bandera Nacional, dividido de manera diagonal en dos campos de medidas idénticas, con los colores en verde a partir del asta que representa la esperanza, y en blanco el segundo campo diagonal que representa la unidad.
+
+Los elementos que componen las banderas están acomodados en el sentido de los cuatro puntos cardinales, en la parte inferior se presenta un toro que simboliza una de las principales actividades económicas de la región y sus tradiciones agropecuarias.
+
+A los costados se ven dos peces que representan los dos ríos que alimentan de agua a la pesa (sic) calles (el rio prieto y el rio blanco), además estos elementos pueden verse como una referencia.
+
+En la parte superior se representa un águila que simboliza la patria y el vuelo de la libertad
+
+El maíz como piedra angular que ha acompañado toda la historia de nuestro lugar de origen, como una de las principales actividades agrícolas, es como una muestra del esfuerzo y trabajo de nuestra tierra.
+
+"CONCIENCIA- ESFUERZO- PATRIA"
+
+Lema extraído del escudo municipal que hace alusión a nuestra identidad como municipio.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 10 TER.- Toda reproducción de los símbolos representativos del municipio, en específico del Escudo y la Bandera debe corresponder fielmente a las características establecidas en este Código.
+
+Los honores a la Bandera Municipal serán posteriores a los correspondientes a la Bandera Nacional y, en su caso, de la Bandera Estatal.
+
+La Bandera Municipal debe izarse a toda o media asta, según se trate de festividad o duelo, respectivamente, en todos los espacios públicos del municipio, incluidas las escuelas, oficinas municipales, plazas cívicas, y otros sitios designados, en las siguientes fechas solemnes:
+
+a) 6 de enero: Aniversario de la Promulgación de la Reforma Agraria de 1915;
+
+b) 29 de enero: Aniversario del izamiento Oficial de la Bandera Municipal; y
+
+c) 1 de agosto: Aniversario de la Reerección del Municipio.
 
 ###### ARTÍCULO 11.
 
@@ -15080,3 +15114,9 @@ P.O. 3 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “Proyecto de Reforma a las Fracciones III y V del Artículo 143 B de! Código Municipal de San José de Gracia”.]
 
 PRIMERO. El proyecto de reforma a la fracción III y V del artículo 143 B, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA".]
+
+PRIMERO: La reforma al Capítulo IV del Código Municipal de San José de Gracia en materia del nombre, escudo y bandera, en el que se adicionan los artículos 10 bis y 10 ter, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
