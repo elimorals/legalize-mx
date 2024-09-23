@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-para-magistrados-de-85877"
 country: "mx"
 rank: "otro"
 publication_date: "2009-09-09"
-last_updated: "2016-08-24"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-09"
 
 CONDICIONES GENERALES DE TRABAJO PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 24 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2024.
 
 Condiciones publicadas en el Semanario Judicial de la Federación y su Gaceta, Tomo XXX, Noviembre de 2009, páginas de la 965 a la 982.
 
@@ -475,9 +475,15 @@ La jubilación es el retiro del servicio activo por haber cumplido con los requi
 
 La jubilación será forzosa cuando el Magistrado de Circuito o Juez de Distrito cumpla la edad límite de setenta y cinco años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES RELACIONADAS CON EL PLAN DE PENSIONES COMPLEMENTARIAS, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 73.
 
-La jubilación puede ser anticipada cuando los Magistrados de Circuito o Jueces de Distrito tengan la posibilidad de solicitar su retiro voluntario, por haber cumplido sesenta y cinco años de edad y veinticinco años de servicio.
+La jubilación puede ser anticipada cuando los magistrados de Circuito o jueces de Distrito tengan la posibilidad de solicitar su retiro voluntario cuando cuenten con alguna de las pensiones otorgadas en términos de la Ley del Instituto.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES RELACIONADAS CON EL PLAN DE PENSIONES COMPLEMENTARIAS, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Lo anterior, siempre que cuenten con al menos veinticinco años de servicios en el Poder Judicial de la Federación y hayan sido ratificados.
 
 ###### Artículo 74.
 
@@ -572,3 +578,13 @@ S.J.F. Y G. 24 DE AGOSTO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES RELACIONADAS CON EL PLAN DE PENSIONES COMPLEMENTARIAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación. Publíquese este Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su mayor difusión, publíquese en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
