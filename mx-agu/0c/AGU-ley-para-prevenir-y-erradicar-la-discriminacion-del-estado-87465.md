@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2024-05-06"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -49,9 +49,13 @@ LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público, interés social y observancia obligatoria en el Estado de Aguascalientes, sin perjuicio, en su caso, de las leyes generales expedidas por el Congreso de la Unión en la materia.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-Es obligación de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos y Organismos Autónomos, impulsar, promover y garantizar la eliminación de obstáculos que limiten a las personas en el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación en la vida civil, política, económica, cultural y social, impulsando y fortaleciendo la igualdad de trato con la promoción de una cultura de sensibilización, de respeto y de no violencia en contra de las persona (sic), grupos y comunidades en situación de discriminación.
+###### Artículo 2°.
+
+Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sea real y efectiva. Es obligación de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos y Organismos Constitucionales Autónomos, impulsar, promover y garantizar la eliminación de obstáculos que limiten a las personas en el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación en la vida civil, política, económica, cultural y social.
+
+Asimismo, impulsarán, fortalecerán y garantizarán la participación de las autoridades de los demás órdenes de Gobierno y de las personas particulares en la eliminación de dichos obstáculos.
 
 ###### ARTÍCULO 3º.
 
@@ -97,7 +101,9 @@ XII. Impedir el ejercicio de los derechos de propiedad, administración y dispos
 
 XIII. Impedir, negar, retardar u obstaculizar el derecho de acceso a la procuración e impartición de justicia;
 
-XIV. Impedir que se les escuche en cualquier procedimiento jurisdiccional o administrativo en que se vean involucrados, incluyendo a las niñas y los niños en los casos que la ley así lo disponga, así como negar la asistencia de intérpretes en dichos procedimientos;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Impedir que se les escuche en cualquier procedimiento jurisdiccional o administrativo en que se vean involucrados, incluyendo a las niñas, niños y adolescentes, en los casos que la ley así lo disponga, así como negar la asistencia de intérpretes en dichos procedimientos;
 
 XV. Incitar o cometer actos de violencia, maltrato, tortura o detención arbitraria;
 
@@ -111,7 +117,9 @@ XIX. Limitar la libre expresión de las ideas, creencias, conciencia o religión
 
 XX. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes en la materia e instrumentos jurídicos internacionales aplicables;
 
-XXI. Obstaculizar el disfrute y ejercicio de las condiciones mínimas necesarias para el crecimiento y desarrollo saludable, especialmente de las niñas y niños;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Obstaculizar el disfrute y ejercicio de las condiciones mínimas necesarias para el crecimiento y desarrollo saludable, especialmente de las niñas y niños y adolescentes;
 
 XXII. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
@@ -143,13 +151,13 @@ XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclus
 
 XXXIV. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XXXV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento, de la Ley para la protección de la niñez y la adolescencia del Estado de Aguascalientes, de la Ley para la protección especial de los adultos mayores del Estado de Aguascalientes y la Ley de acceso de las mujeres a una vida libre de violencia; y
+XXXV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento, de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes, de la Ley para la Protección especial de las personas Adultas Mayores del Estado de Aguascalientes y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes; y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XXXVI.- El no garantizar por parte de las dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Organismos Constitucionales Autónomos, así como los Municipios, la atención especializada en lenguaje de señas para las personas que así lo requieran, o carecer de los señalamientos e información que utilice el lenguaje del sistema de escritura braille.
+XXXVI. El no garantizar por parte de las dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Organismos Constitucionales Autónomos, así como los Municipios, la atención especializada en lenguaje de señas para las personas que así lo requieran, o carecer de los señalamientos e información que utilice el lenguaje del sistema de escritura braille.
 
 ###### ARTÍCULO 6º.
 
@@ -478,6 +486,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 6 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 632.- SE REFORMA LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 789.- SE REFORMA LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
