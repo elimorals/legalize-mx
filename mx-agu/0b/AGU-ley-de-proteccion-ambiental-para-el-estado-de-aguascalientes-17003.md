@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-07-15"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -128,6 +128,10 @@ X. AUDITORÍA AMBIENTAL: Proceso de revisión metodológico de las actividades y
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XI. AUTORREGULACIÓN: Proceso voluntario mediante el cual, respetando la legislación y normatividad vigente que le aplique, la Empresa se establece un conjunto de actividades y se adoptan normas complementarias o más estrictas, a través de las cuales se mejora el Desempeño Ambiental y se obtienen mayores logros en materia de protección ambiental;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XI BIS. AZOTEA VERDE: Cubierta ajardinada con vegetación que se instala de manera total o parcial sobre los techos de edificaciones públicas y privadas, nuevas o existentes, de acuerdo a la disposición del Código Urbano Estatal;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -4628,3 +4632,11 @@ En un plazo de 180 días naturales, contados a partir de la publicación de esta
 ###### ARTÍCULO TERCERO.
 
 En un plazo de 90 días naturales, contados a partir de la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes, se deberán instalar la Comisión Estatal de Educación Ambiental.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 793.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
