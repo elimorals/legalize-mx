@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-mental-del-estado-y-municipios-de-san-luis-130400"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2024-02-07"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -199,11 +199,15 @@ XI. Coordinarse así como las instancias que resulten competentes en la atenció
 
 XII. Coordinar con otras dependencias del Estado y de los municipios, acciones de prevención y en su caso, impulsar la remediación de sitios expuestos a neurotóxicos;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Elaborar y revisar periódicamente protocolos de intervención en casos de personas con conducta suicida, para su seguimiento por parte de servicios de emergencia médica, y de elementos de seguridad pública. Para la conformación de los protocolos destinados a seguridad pública se deberá contar con la participación de la autoridad en la materia, y
+XIII. Elaborar y revisar periódicamente protocolos de intervención en casos de personas con conducta suicida, para su seguimiento por parte de servicios de emergencia médica, y de elementos de seguridad pública. Para la conformación de los protocolos destinados a seguridad pública se deberá contar con la participación de la autoridad en la materia;
 
-XIV. Las demás que se desprendan de las leyes en general y del Reglamento de este ordenamiento.
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Realizar acciones de vigilancia específica en las unidades donde se encuentren niñas, niños y adolescentes, con el objetivo de corroborar la observación de los derechos aplicables, y
+
+XV. Las demás que se desprendan de las leyes en general y del Reglamento de este ordenamiento.
 
 ###### ARTÍCULO 6°.
 
@@ -478,6 +482,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 7 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1003.- SE ADICIONA AL ARTÍCULO 3º LA FRACCIÓN IX BIS, Y EN EL TÍTULO SEGUNDO EL CAPÍTULO V BIS CON LOS ARTÍCULOS 23 BIS, Y 23 TER, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1122.- SE REFORMA LA FRACCIÓN XIII Y ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 5°, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
