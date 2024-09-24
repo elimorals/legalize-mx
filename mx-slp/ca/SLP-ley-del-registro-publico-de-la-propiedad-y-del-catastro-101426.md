@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2021-12-09"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -731,15 +731,15 @@ I. Administrar el catastro de conformidad con lo establecido en esta Ley y los o
 
 II. Observar las normas técnicas y administrativas aplicables a la ejecución de los trabajos catastrales, expedidas en términos del artículo 141 fracción III inciso e) de este Ordenamiento;
 
-III. Proponer al Congreso del Estado a más tardar el quince de octubre de cada año, los proyectos de las tablas de valores unitarios de suelo y construcción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Proponer al Congreso del Estado a más tardar el 15 de noviembre de cada año, los proyectos de las tablas de valores unitarios de suelo y construcción.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
 
 En caso de no presentarlos en los términos referidos en el párrafo anterior y posterior, el Congreso autorizará como tales, los valores unitarios de suelo y construcción que hayan regido durante el año inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2015)</small>
-
-Empero, cuando inicie la gestión de los ayuntamientos, los proyectos de valores unitarios de suelo y construcción se entregarán a más tardar el treinta y uno de octubre del año que corresponda;
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
 IV. Suscribir acuerdos de coordinación con otros ayuntamientos y con el Instituto;
 
@@ -1844,3 +1844,11 @@ P.O. 9 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1124.- SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN III DEL ARTÍCULO 78; Y SE DEROGA EL PÁRRAFO TERCERO, DE LA FRACCIÓN III DEL ARTÍCULO 78 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
