@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1743
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-07"
-last_updated: "2024-09-07"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Suplemento 6 al Número 72 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de septiembre de 2024.
 
@@ -1311,7 +1311,27 @@ III. Una vez analizada su viabilidad, dicha Comisión emitirá el dictamen que c
 
 IV. De ser aprobada la iniciativa será suscrita por la Presidencia y las Secretarías de la Mesa Directiva y remitida al Congreso de la Unión para los efectos del artículo 71 fracción III de la Constitución federal.
 
-#### Sección segunda. Reformas a la Constitución estatal
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+#### Sección segunda. Reformas a la Constitución Federal remitidas por el Congreso de la Unión
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+Procedimiento
+
+###### Artículo 104 Bis.
+
+El procedimiento que deberá seguirse para para la discusión y, en su caso, aprobación de la minuta de decreto de reformas o adiciones a la Constitución Federal remitida por el Congreso de la Unión, se realizará conforme a lo siguiente:
+
+I. Recibida la minuta, se dará lectura en la primera sesión del Pleno inmediata a la de su recepción; si la Legislatura estuviere en receso, será convocada a sesión extraordinaria por la Comisión Permanente, para los efectos precisados en el presente artículo;
+
+II. Concluida la lectura, el Presidente de la Mesa Directiva someterá a la aprobación del Pleno la dispensa de los trámites legislativos, la que deberá ser aprobada por mayoría simple.
+
+En caso de que no se apruebe la dispensa de trámites, la minuta se turnará a la Comisión de Puntos Constitucionales, la que dictaminará en términos de la presente Ley, y
+
+III. Aprobada la dispensa de los trámites legislativos, la minuta se someterá a discusión del Pleno y se entenderá aprobada cuando así lo manifieste el voto de la mayoría de las diputadas y los diputados presentes en la sesión, en consecuencia, será suscrita por la Presidencia y las Secretarías de la Mesa Directiva, y se remitirá al Congreso de la Unión para los efectos del artículo 135, segundo párrafo, de la Constitución Federal.
+
+#### Sección tercera. Reformas a la Constitución estatal
 
 Procedimiento
 
@@ -3268,3 +3288,13 @@ Se derogan las normas que se opongan al presente Decreto.
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PUBLICACIÓN.
 
 DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del Estado de Zacatecas, a los veintiséis días del mes de agosto del año dos mil veinticuatro. DIPUTADA PRESIDENTA.- MARIBEL GALVÁN JIMÉNEZ. DIPUTADO SECRETARIO.- JOSÉ GUADALUPE CORREA VALDEZ. DIPUTADA SECRETARIA.- MARTHA ELENA RODRÍGUEZ CAMARILLO. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 03.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
