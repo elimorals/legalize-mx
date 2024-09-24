@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-superior-de-guerra-21170"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2001-05-16"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21170&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DE LA ESCUELA SUPERIOR DE GUERRA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -43,49 +43,55 @@ Se expide el Reglamento de la Escuela Superior de Guerra para quedar como sigue:
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 1o.
 
-La Escuela Superior de Guerra es un establecimiento de educación militar de nivel superior donde se realizan estudios militares de índole profesional para el desarrollo científico, humanístico y tecnológico de las Fuerzas Armadas, cuya misión es formar oficiales de Estado Mayor para desempeñarse como comandantes en los diferentes niveles de mando y como colaboradores y asesores de los mandos de escalones superiores, tanto en tiempo de paz como en tiempo de guerra.
+La Escuela Superior de Guerra es un Centro de Estudios Militares, con la misión de capacitar, profesionalizar, especializar y actualizar al personal de las Fuerzas Armadas mexicanas y extranjeras, así como al personal que determine la Secretaría de la Defensa Nacional, con sólidos principios y valores y apego irrestricto a los derechos humanos, capaces de desempeñarse como personas asesoras, comandantes y líderes que dominen la ciencia, el arte militar y la Administración Pública Federal.
 
 ###### ARTÍCULO 2o.
 
 La Escuela Superior de Guerra depende del Alto Mando del Ejército y Fuerza Aérea Mexicanos a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 3o.
 
 La Escuela Superior de Guerra tiene los objetivos siguientes:
 
-I. Formar oficiales de Estado Mayor;
+I. Especializar al personal militar con el grado jerárquico de Jefes y Oficiales en Estado Mayor;
 
-II. Especializar a personal Diplomado de Estado Mayor en actividades militares de carácter conjunto y combinado;
+II. Especializar al personal militar De Estado Mayor en la planeación de operaciones militares conjuntas y combinadas;
 
-III. Capacitar a oficiales egresados de escuelas militares de formación para el ejercicio del Mando;
+III. Capacitar al personal militar con el grado jerárquico de Jefes y Oficiales que hayan egresado de escuelas militares de formación, para el ejercicio del Mando;
 
-IV. Capacitar a jefes no Diplomados de Estado Mayor para ejercer el mando de unidades tipo corporación, dependencia o instalación;
+IV. Capacitar al personal militar con el grado jerárquico de Jefes que no sean De Estado Mayor, para ejercer el mando de unidades tipo corporación;
 
-V. Capacitar a jefes no Diplomados de Estado Mayor para desempeñarse como segundos comandantes y jefes de Grupo de Comando de unidades de nivel corporación;
+V. Capacitar al personal militar con el grado jerárquico de Jefes que no sean De Estado Mayor para desempeñarse como titulares de la Segunda Comandancia y de las Jefaturas del Grupo de Comando de unidades de nivel corporación;
 
-VI. Promover y desarrollar la investigación de conocimientos militares y de carácter general que contribuyan al mejoramiento profesional del personal docente y en instrucción;
+VI. Promover y desarrollar la investigación sobre el conocimiento de la doctrina militar que contribuya al mejoramiento profesional del personal docente y discente;
 
-VII. Participar en la creación, conservación, encauzamiento y difusión de la doctrina militar;
+VII. Participar en la generación, actualización, conservación, encauzamiento y difusión de la doctrina militar;
 
-VIII. Fortalecer las características físicas, morales e intelectuales del personal cursante y en instrucción del plantel, y
+VIII. Fortalecer las características físicas, morales e intelectuales del personal discente del plantel, y
 
-IX. Apoyar la enseñanza y el adiestramiento táctico con tecnología de simulación computacional, ejercitando las técnicas de concepción, preparación y conducción de las operaciones militares para los mandos de las unidades y sus auxiliares del Ejército y Fuerza Aérea, personal docente y en instrucción de la Escuela Superior de Guerra y demás planteles militares que se ordene.
+IX. Apoyar la especialización, la capacitación y el adiestramiento operacional y estratégico con tecnología de simulación computacional que permita la concepción, preparación y conducción de operaciones militares y de apoyo interinstitucional, en los ámbitos estratégico, operacional y táctico para el cumplimiento de las misiones establecidas para las Fuerzas Armadas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 4o.
 
-Para cumplir con los objetivos del plantel se imparten los cursos siguientes:
+La Escuela Superior de Guerra, para cumplir con sus objetivos, imparte los posgrados y cursos siguientes:
 
-I. De Mando y Estado Mayor General;
+I. Maestría en Administración Militar con Especialidad en Estado Mayor;
 
-II. De Mando y Estado Mayor Aéreo;
+II. Maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto, en las modalidades presencial y mixta;
 
-III. Superior de Guerra;
+III. Superior de las Armas y Servicios;
 
-IV. Superior de las Armas y Servicios, y
+IV. Básico de las Armas y Servicios, y
 
-V. Básico de las Armas y Servicios.
+V. Otros que disponga la Secretaría de la Defensa Nacional.
 
 ## TÍTULO SEGUNDO. Organización
 
@@ -101,21 +107,25 @@ Para su funcionamiento la Escuela Superior de Guerra se integra con los órganos
 
 I. Dirección:
 
-A. Director;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+A. La persona titular de la Dirección;
 
 B. Asesoría Jurídica;
 
-C. Secretaría Particular, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-D. Ayudantía.
+C. Oficina de Calidad, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+D. Grupo de Enlace;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 II. Subdirección:
 
-A. Subdirector;
-
-B. Secretaría Particular, y
-
-C. Ayudantía.
+A. La persona titular de la Subdirección;. (sic)
 
 III. Sección Pedagógica:
 
@@ -127,25 +137,29 @@ C. Subsección de Control de Estudios;
 
 D. Subsección Psicopedagógica;
 
-E. Subsección de Informática, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-F. Subsección de Apoyos Didácticos.
+E. Subsección de Informática;
+
+F. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 IV. Sección Académica:
 
 A. Jefatura;
 
-B. Subsección de Materias Prácticas;
+B. Subsección de Control Académico;
 
-C. Subsección del Curso de Mando y Estado Mayor General;
+C. Subsección de Maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto;
 
-D. Subsección del Curso de Mando y Estado Mayor Aéreo;
+D. Subsección de Maestría en Administración Militar con Especialidad en Estado Mayor;
 
-E. Subsección del Curso Superior de Guerra;
+E. Subsección de Cursos de Capacitación y Especialización;
 
-F. Subsección del Curso Superior de las Armas y Servicios, y
+F. Subsección de Idiomas y Traducción, y
 
-G. Subsección del Curso Básico de las Armas y Servicios.
+G. Coordinación Naval;
 
 V. Sección de Investigación y Doctrina Militar:
 
@@ -155,9 +169,9 @@ B. Subsección de Investigación;
 
 C. Subsección de Doctrina Militar;
 
-D. Subsección de Cultura General, y
+D. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-E. Subsección de Traducción.
+E. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 VI. Sección de Difusión y Relaciones Públicas:
 
@@ -171,25 +185,45 @@ D. Subsección de Admisión, y
 
 E. Subsección de Editorial.
 
-VII. Centro de Entrenamiento Táctico Computarizado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Centro Militar de Entrenamiento Sistematizado:
 
 A. Jefatura;
 
 B. Subjefatura;
 
-C. Subsección de Coordinación de Estado Mayor;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. Subsección de Aplicación y Evaluación de Ejercicios;
 
 D. Subsección de Operación;
 
-E. Subsección de Desarrollo, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-F. Subsección de Mantenimiento.
+E. Subsección de Investigación y Desarrollo de Sistemas;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+F. Subsección de Mantenimiento, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+G. Subsección de Coordinación, Apoyo Académico y Capacitación;
 
 VIII. Ayudantía General:
 
 A. Ayudante General;
 
 B. Subayudantía;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+a. Grupo Administrativo, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+b. Grupo Operativo.
 
 C. Servicios Técnicos:
 
@@ -199,19 +233,23 @@ b. Materiales de Guerra;
 
 c. Sanidad;
 
-d. Transmisiones;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+d. Transmisiones, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 e. Transportes, y
 
-f. Ingenieros.
+f. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-D. Servicios administrativos y generales:
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-a. Policía Militar;
+D. Servicios de seguridad y generales:
 
-b. Generales, y
+a. Compañía de Policía Militar, y
 
-c. De administración.
+b. Compañía de Servicios Generales.
 
 IX. Sección Administrativa:
 
@@ -237,13 +275,17 @@ Además de los órganos citados en el artículo anterior, la Escuela Superior de
 
 ### CAPÍTULO I. De la Dirección
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 8o.
 
-La Dirección es el órgano rector de la Escuela Superior de Guerra a cargo de un General procedente de Arma, Diplomado de Estado Mayor, egresado del propio plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
+La Dirección es el órgano rector de la Escuela Superior de Guerra a cargo de una persona con el grado de General procedente de Arma, De Estado Mayor, nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 9o.
 
-El Director de la Escuela Superior de Guerra tiene las mismas atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
+La persona titular de la Dirección de la Escuela Superior de Guerra tiene, además de las facultades y responsabilidades correspondientes a la persona titular de una Comandancia de Cuerpo de Tropa de conformidad con las leyes y reglamentos militares, las siguientes:
 
 I. Representar a la Escuela Superior de Guerra;
 
@@ -253,15 +295,23 @@ III. Administrar los recursos humanos y materiales puestos a su disposición;
 
 IV. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio de los cursos que se imparten en el plantel;
 
-V. Difundir, fomentar y mantener la unidad de doctrina militar en el plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Impulsar permanentemente la investigación relacionada con la estrategia, táctica, orgánica, logística, de doctrina de las fuerzas armadas y problemática de orden interno;
+V. Generar, actualizar, difundir y mantener la unidad de doctrina militar en el plantel;
 
-VII. Evaluar el funcionamiento y rendimiento de los órganos del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Convocar a la Junta Técnica Consultiva;
+VI. Impulsar permanentemente la investigación relacionada con la doctrina de las Fuerzas Armadas para la seguridad nacional y el desarrollo;
 
-IX. Conferir los cargos que desempeña el personal académico, docente, administrativo y de la planta, excepto aquellos que sean designados por el Alto Mando;
+VII. (DEROGADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Convocar a la Junta Técnica Consultiva, con objeto de revisar las controversias que se generen en el ámbito académico y disciplinario;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Conferir los cargos que debe desempeñar el personal docente, administrativo y de la planta, excepto aquellos cargos que sean ordenados por el Alto Mando del Ejército y Fuerza Aérea;
 
 X. Proponer al personal del plantel que se haga acreedor a recompensas, premios y diplomas;
 
@@ -281,39 +331,99 @@ XVII. Proponer a la Dirección General de Educación Militar y Rectoría de la U
 
 XVIII. Las que le sean asignadas por el Secretario de la Defensa Nacional.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 9o. Bis.
+
+La persona titular de la Asesoría Jurídica tiene las facultades siguientes:
+
+I. Asesorar a la persona titular de la Dirección del plantel en los asuntos legales relacionados con el Centro de Estudios Militares;
+
+II. Fungir como representante legal de la Escuela Superior de Guerra, previa designación de la Sección Primera del Estado Mayor Conjunto de la Defensa Nacional y de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional;
+
+III. Representar legalmente al personal directivo, académico y docente en los asuntos jurídicos en los que sean parte a consecuencia de su cargo, en términos de las disposiciones jurídicas aplicables;
+
+IV. Revisar y analizar los instrumentos jurídicos que deben ser suscritos por la persona titular de la Dirección, así como emitir opinión jurídica a dichos instrumentos;
+
+V. Atender y desahogar los requerimientos judiciales y ministeriales relacionados con el plantel, a efecto de evitar que se incurra en alguna responsabilidad penal o administrativa;
+
+VI. Asistir previa designación o autorización de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional, a las audiencias de los juicios en los que estén involucrados los intereses del plantel y de dicha secretaría, y
+
+VII. Atender otros asuntos en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 9o. Ter.
+
+La Oficina de Calidad es un órgano permanente de asesoría de la Dirección sobre aspectos de gestión de calidad. Esta oficina está a cargo de una persona con el grado de Teniente Coronel de Arma o de Servicio De Estado Mayor.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 9o. Quater.
+
+La persona titular de la Jefatura de la Oficina de Calidad tiene las facultades siguientes:
+
+I. Asesorar a la persona titular de la Dirección sobre la administración de la calidad de la educación en el plantel;
+
+II. Asesorar a los órganos de la Escuela Superior de Guerra en la elaboración y ejecución de proyectos, planes y programas relativos a la calidad de la educación;
+
+III. Implementar y administrar un modelo de calidad tendiente a lograr una mejora continua en el proceso educativo, y
+
+IV. Las demás que le señale el Manual de Organización y Funcionamiento de la Escuela Superior de Guerra, así como aquellas funciones que le encomiende la persona titular de la Dirección del plantel.
+
 ### CAPÍTULO II. De la Subdirección
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 10.
 
-La Subdirección de la Escuela Superior de Guerra es un órgano de dirección del plantel y está a cargo de un General procedente de Arma o Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección de la Escuela Superior de Guerra es un órgano de dirección y está a cargo de una persona con el grado de General procedente de Arma o de Coronel de Arma, De Estado Mayor, nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-El Subdirector de la Escuela Superior de Guerra tiene las mismas atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
+La persona titular de la Subdirección de la Escuela Superior de Guerra, tiene además de las facultades y responsabilidades correspondientes a la persona titular de una Segunda Comandancia de Cuerpo de Tropa de conformidad con las leyes y reglamentos militares, las siguientes:
 
-I. Suplir las ausencias temporales del Director en el ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-II. Auxiliar al Director en las funciones de su cargo;
+I. Suplir las ausencias temporales de la persona titular de la Dirección en el ejercicio de sus facultades;
 
-III. Desempeñarse como Jefe de estudios del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Auxiliar a la persona titular de la Dirección en las funciones de su cargo;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Fungir como titular de la Jefatura de Estudios del plantel;
 
 IV. Presidir la Junta Técnica Consultiva;
 
 V. Dirigir, coordinar y supervisar las actividades de los órganos subordinados;
 
-VI. Proponer al Director los cargos y comisiones que desempeñará el personal académico, docente y administrativo del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Dirigir y someter a la consideración del Director, los proyectos de enmiendas a los planes y programas de estudio;
+VI. Proponer a la persona titular de la Dirección los cargos y comisiones que debe desempeñar el personal académico, docente y administrativo del plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Dirigir y someter a consideración de la persona titular de la Dirección, los proyectos de modificaciones a los planes y programas de estudio a cargo del plantel;
 
 VIII. Dirigir el proceso enseñanza-aprendizaje;
 
-IX. Proponer al Director los jurados y comités que deban integrarse para las actividades que lo requieran;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Proponer a la persona titular de la Dirección los jurados y comités que deban integrarse para las actividades que lo requieran;
 
 X. Supervisar la aplicación del contenido del presente Reglamento;
 
-XI. Coordinar e integrar los informes de los diferentes órganos que integran el plantel para presentarlos al Director;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XII. Firmar los certificados de estudios de los cursos que se imparten en el plantel;
+XI. Coordinar e integrar los informes de los órganos que integran la Escuela Superior de Guerra;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Certificar los estudios realizados en el plantel;
 
 XIII. Coordinar y supervisar el trámite oportuno de la documentación que se genere en el plantel;
 
@@ -323,31 +433,45 @@ XV. Coordinar y supervisar la elaboración y aplicación del proyecto del calend
 
 XVI. Coordinar y supervisar la elaboración de los programas de viajes, visitas a instalaciones militares y civiles, conferencias y estadas de trabajo;
 
-XVII. Presentar al Director el anteproyecto de presupuesto de la escuela;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XVIII. Coordinar y supervisar la actualización permanente del Manual de Organización y Funcionamiento del plantel, recomendando al Director los cambios necesarios;
+XVII. Presentar a la persona titular de la Dirección el anteproyecto de presupuesto de la Escuela Superior de Guerra;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Coordinar y supervisar la actualización permanente del Manual de Organización y Funcionamiento de la Escuela Superior de Guerra, así como proponer sus modificaciones;
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII Bis. Supervisar que los estudios que se imparten en el plantel por el personal docente se realicen con calidad y oportunidad;
 
 XIX. Coordinar y supervisar la preparación y el desarrollo oportuno de las actividades de graduación, y
 
 XX. Las que le sean asignadas por el Secretario de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-El Subdirector del plantel será suplido en el ejercicio de sus funciones durante las ausencias temporales por el jefe de Arma, Diplomado de Estado Mayor con mayor jerarquía y antigüedad.
+La persona titular de la Subdirección de la Escuela Superior de Guerra debe ser suplida en el ejercicio de sus facultades, durante sus ausencias temporales, por la persona con el grado de Jefe de Arma, De Estado Mayor, con mayor jerarquía y antigüedad.
 
 ### CAPÍTULO III. De la Sección Pedagógica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Superior de Guerra, a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, a quien se denomina Jefe de la Sección Pedagógica, mismo que además debe reunir cualquiera de los requisitos siguientes:
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Superior de Guerra, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor y, además, debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica, o
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
-El Jefe de la Sección Pedagógica de la Escuela Superior de Guerra tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Jefatura de la Sección Pedagógica de la Escuela Superior de Guerra tiene las facultades y responsabilidades siguientes:
 
 I. Planear, coordinar y controlar las actividades pedagógicas del plantel;
 
@@ -363,15 +487,23 @@ VI. Proponer los programas de capacitación y actualización pedagógica del per
 
 VII. Coordinar, controlar y supervisar la recepción, proceso y divulgación de las calificaciones;
 
-VIII. Controlar la estadística de aprobados y reprobados del personal cursante y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-IX. Coordinar y supervisar la elaboración de los exámenes de admisión al plantel;
+VIII. Controlar la estadística de aprobados y reprobados del personal discente del plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Coordinar y supervisar la elaboración de las evaluaciones de admisión al plantel;
 
 X. Controlar el archivo pedagógico;
 
-XI. Registrar y computarizar las faltas académicas del personal docente, cursante y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XII. Dar a conocer periódicamente el cómputo de faltas al personal en instrucción;
+XI. Registrar y computarizar las faltas académicas del personal docente y discente del plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Dar a conocer periódicamente el cómputo de faltas al personal discente del plantel;
 
 XIII. Elaborar la documentación correspondiente al proceso enseñanza-aprendizaje al término de cada ciclo lectivo de los cursos que se imparten en el plantel;
 
@@ -381,7 +513,9 @@ XV. Formular los informes de carácter pedagógico que ordene el Director del pl
 
 XVI. Supervisar el seguimiento psicológico que se realice al personal del plantel;
 
-XVII. Seleccionar y proponer al personal docente titular y adjunto;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Seleccionar y proponer al personal docente, tanto titular como adjunto, de cada una de las asignaturas que se imparten en el plantel;
 
 XVIII. Organizar los diferentes grupos pedagógicos para la impartición de la enseñanza;
 
@@ -391,21 +525,27 @@ XX. Coordinar y controlar las actividades que realicen las subsecciones que de e
 
 XXI. Coordinar sus actividades con los demás órganos del plantel, y
 
-XXII. Las que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Las funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO IV. De la Sección Académica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Superior de Guerra, a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, a quien se denomina Jefe de la Sección Académica, mismo que además debe reunir cualquiera de los requisitos siguientes:
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Superior de Guerra, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor y, además, debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica, o
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Cada curso se integrará con los grupos pedagógicos que le competen y el Jefe de Curso no desempeñará simultáneamente la función de un Jefe de Grupo, siendo los Jefes de Curso los responsables de presentar ante la Sección Pedagógica del plantel los planes y programas de estudio de sus cursos respectivos para cada ciclo escolar.
+Cada posgrado o curso debe integrarse con los grupos pedagógicos que le competen y la persona titular de la Jefatura de Posgrado o Curso es la responsable de presentar ante la Sección Pedagógica los planes y programas de estudio de sus posgrados o cursos para cada ciclo escolar.
 
 ###### ARTÍCULO 17.
 
@@ -419,15 +559,23 @@ III. Coordinar y supervisar la aplicación de los programas de viajes de estudio
 
 IV. Supervisar la aplicación de los instrumentos de evaluación;
 
-V. Coordinar y controlar las actividades académicas del personal docente, cursante y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Coordinar y supervisar la aplicación de los programas de capacitación o actualización pedagógica del personal docente;
+V. Coordinar y controlar las actividades académicas del personal docente y discente del plantel;
 
-VII. Informar al personal directivo las faltas académicas del personal docente, cursante y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Coordinar y supervisar la aplicación de los programas de capacitación o actualización pedagógica del personal docente del plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Informar al personal directivo las faltas académicas del personal docente y discente del plantel;
 
 VIII. Proponer la realización de juntas de coordinación con el personal docente;
 
-IX. Formular los informes académicos que ordene el Director del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Formular los informes académicos que ordene la persona titular de la Dirección del plantel;
 
 X. Informar el estado del avance programático de los diferentes cursos que se imparten en el plantel;
 
@@ -437,21 +585,27 @@ XII. Coordinar las actividades de la sección con los demás órganos del plante
 
 XIII. Aplicar y coordinar el desarrollo de los programas de las materias prácticas, y
 
-XIV. Las que le sean asignadas por el Director de la Escuela Superior de Guerra.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Las funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO V. De la Sección de Investigación y Doctrina Militar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-La Sección de Investigación y Doctrina Militar de la Escuela Superior de Guerra es un órgano de ejecución para la investigación y desarrollo de la doctrina militar en las Fuerzas Armadas a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, a quien se le denomina Jefe de la Sección de Investigación y Doctrina Militar, mismo que además debe reunir cualquiera de los requisitos siguientes:
+La Sección de Investigación y Doctrina Militar de la Escuela Superior de Guerra es el órgano de ejecución para la investigación y desarrollo de la doctrina militar en las Fuerzas Armadas, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor y, además, debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica, o
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 19.
 
-La Sección de Investigación y Doctrina Militar de la Escuela Superior de Guerra tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Jefatura de la Sección de Investigación y Doctrina Militar tiene las facultades y responsabilidades siguientes:
 
 I. Coordinar y supervisar la enseñanza y aplicación de la doctrina militar a través de las materias castrenses que se imparten en el plantel;
 
@@ -465,23 +619,35 @@ V. Mantener actualizada la doctrina militar y proponer su difusión;
 
 VI. Actualizar y elaborar proyectos de manuales, compendios y otro material en apoyo de la enseñanza conforme a la doctrina militar;
 
-VII. Organizar, planear y dirigir los trabajos de los proyectos de investigación y diseño de tesis, así como las actividades complementarias, en coordinación y con el apoyo de los jefes de los grupos que elaboren este documento;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Traducir el material bibliográfico de procedencia extranjera;
+VII. Organizar, planear y dirigir los trabajos de los proyectos de investigación y diseño de tesis, así como las actividades complementarias, en coordinación con las demás Jefaturas del plantel involucradas en los temas;
 
-IX. Formular los informes respecto a la doctrina militar que ordene el Director del plantel;
+VIII. (DEROGADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-X. Coordinar y controlar las actividades que realicen las subsecciones que de ella dependen;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Coordinar las actividades de la sección con los demás órganos del plantel, y
+IX. Formular los informes respecto a la doctrina militar que ordene la Dirección del plantel;
 
-XII. Las que le sean asignadas por el Director de la Escuela Superior de Guerra.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+X. Coordinar y controlar las actividades que realicen las subsecciones a su cargo;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Coordinar sus actividades con los demás órganos del plantel, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Formular los informes respecto a la doctrina militar que ordene la Dirección del plantel.
 
 ### CAPÍTULO VI. De la Sección de Difusión y Relaciones Públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-La Sección de Difusión y Relaciones Públicas de la Escuela Superior de Guerra es un órgano de ejecución para la divulgación y enlace de las actividades dentro y fuera del plantel a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, a quien se le denomina Jefe de la Sección de Difusión y Relaciones Públicas, mismo que además debe reunir cualquiera de los requisitos siguientes:
+La Sección de Difusión y Relaciones Públicas de la Escuela Superior de Guerra es el órgano de ejecución para la divulgación y enlace de las actividades dentro y fuera del plantel, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor y, además, debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica, o
 
@@ -511,85 +677,101 @@ IX. Organizar y controlar el archivo histórico del plantel;
 
 X. Coordinar y controlar el material que se edite para difundir la Doctrina Militar autorizada;
 
-XI. Formular los informes de difusión y relaciones públicas que ordene el Director del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Formular los informes de difusión y relaciones públicas que ordene la Dirección del plantel;
 
 XII. Coordinar y controlar las actividades que realicen las subsecciones que de ella dependen;
 
 XIII. Coordinar las actividades de la sección con los demás órganos del plantel, y
 
-XIV. Las que le sean asignadas por el Director de la Escuela Superior de Guerra.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO VII. Del Centro de Entrenamiento Táctico Computarizado
+XIV. Las funciones que le encomiende la persona titular de la Dirección del plantel.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO VII. Del Centro Militar de Entrenamiento Sistematizado
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-El Centro de Entrenamiento Táctico Computarizado (C.E.TA.C.) de la Escuela Superior de Guerra es el órgano de ejecución para proporcionar capacitación en la toma de decisiones en un ambiente simulado de combate a través de ejercicios de simple o doble acción, a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, a quien se denomina Jefe del Centro de Entrenamiento Táctico Computarizado, mismo que además debe reunir cualquiera de los requisitos siguientes:
+El Centro Militar de Entrenamiento Sistematizado es el órgano que proporciona capacitación en la toma de decisiones en un ambiente simulado de combate a través de ejercicios de simple o doble acción, el cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor y, además, debe reunir cualquiera de los requisitos siguientes:
 
-I. Tener experiencia académica, o
+I. Tener experiencia académica o docente, y
 
-II. Tener experiencia docente.
+II. Tener conocimientos técnicos relacionados con las tecnologías de la información de las comunicaciones.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-El Jefe del Centro de Entrenamiento Táctico Computarizado de la Escuela Superior de Guerra tiene las atribuciones y responsabilidades siguientes:
+La persona titular del Centro Militar de Entrenamiento Sistematizado tiene las facultades y responsabilidades siguientes:
 
-I. Administrar al Centro de Entrenamiento Táctico Computarizado;
+I. Administrar el Centro Militar de Entrenamiento Sistematizado;
 
-II. Dirigir y supervisar la administración de los sistemas computacionales que se operen en el Centro de Entrenamiento Táctico Computarizado;
+II. Dirigir y supervisar la administración de los sistemas computacionales que se operen en el Centro Militar de Entrenamiento Sistematizado;
 
-III. Dirigir, coordinar y supervisar la operación del sistema de entrenamiento táctico computarizado para apoyar la enseñanza y el adiestramiento táctico;
+III. Dirigir y supervisar la operación del Simulador Militar Táctico, con el propósito de fortalecer el proceso de enseñanza-aprendizaje y el adiestramiento en el personal discente que está realizando sus estudios en el plantel;
 
-IV. Dirigir, coordinar y supervisar las actividades de mantenimiento a los equipos eléctricos y electrónicos, a las redes de cómputo, red telefónica y redes eléctricas, a la base de datos, a los programas de cómputo, a los sistemas de videoproyección, de iluminación y de sonido;
+IV. Dirigir y supervisar las actividades de mantenimiento a los equipos electrónicos, redes de cómputo, redes telefónicas y eléctricas, bases de datos, programas de cómputo, y sistemas de video proyección y de iluminación y sonido que se encuentran en las instalaciones del plantel;
 
-V. Supervisar la correcta ejecución de las obligaciones de los prestadores de servicios que la Secretaría de la Defensa Nacional contrate para realizar trabajos de mantenimiento o de otro tipo en beneficio del Centro de Entrenamiento Táctico Computarizado;
+V. Supervisar el cumplimiento de las obligaciones a cargo de los prestadores de servicios que la Secretaría de la Defensa Nacional contrate para realizar trabajos de mantenimiento o de otro tipo en beneficio del Centro Militar de Entrenamiento Sistematizado;
 
-VI. Proponer, dirigir, coordinar y supervisar las actividades de perfeccionamiento del sistema de entrenamiento táctico computarizado;
+VI. Proponer y dirigir la investigación y desarrollo del Simulador Militar Táctico y otros sistemas similares para apoyar la enseñanza-aprendizaje, el adiestramiento y la capacitación para las operaciones militares del Ejército y Fuerza Aérea Mexicanos;
 
-VII. Proponer todos los aspectos que coadyuven al mejor aprovechamiento de la tecnología de simulación computacional en beneficio de la enseñanza y el adiestramiento táctico;
+VII. Proponer los aspectos que coadyuven al mejor aprovechamiento de la tecnología de simulación computacional en beneficio de la enseñanza y el adiestramiento táctico para el personal discente del plantel;
 
-VIII. Proponer la actualización o sustitución de equipos y programas de cómputo, para mantener e incrementar la capacidad operativa del Centro de Entrenamiento Táctico Computarizado;
+VIII. Proponer la actualización o sustitución de equipos y programas de cómputo, con el objeto de mantener e incrementar la capacidad operativa del Centro Militar de Entrenamiento Sistematizado;
 
-IX. Proponer, dirigir y coordinar la investigación y desarrollo de sistemas de simulación computacional y otros afines para apoyar la enseñanza, el adiestramiento y las operaciones tácticas en el instituto armado;
+IX. Proponer, dirigir y supervisar las actividades de perfeccionamiento del Simulador Militar Táctico;
 
-X. Asesorar a los directores generales de ejercicio en las fases de preparación, ejecución, evaluación y crítica de los ejercicios didácticos y de adiestramiento que se desarrollen en el Centro de Entrenamiento Táctico Computarizado;
+X. Asesorar a la persona que dirija las fases de preparación, ejecución, evaluación y crítica de los ejercicios didácticos y de adiestramiento que se desarrollen en el Centro Militar de Entrenamiento Sistematizado;
 
-XI. Asesorar al Jefe de la Sección de Investigación y Doctrina Militar del plantel en el estudio de los resultados y experiencias obtenidas en cada ejercicio de la Escuela Superior de Guerra en el Centro de Entrenamiento Táctico Computarizado, para su explotación posterior;
+XI. Asesorar a la persona titular de la Jefatura de la Sección de Investigación y Doctrina Militar del plantel en el análisis de los resultados y experiencias obtenidas en cada ejercicio que se realice en el Centro Militar de Entrenamiento Sistematizado, para su utilización posterior;
 
-XII. Proponer los cursos que deba efectuar el personal del centro tanto en el país como en el extranjero para mejorar sus capacidades;
+XII. Proponer los cursos que deban efectuar el personal del Centro Militar de Entrenamiento Sistematizado, con el fin de incrementar sus capacidades;
 
-XIII. Impartir cursos teórico-prácticos para capacitar al personal docente de alta reciente en el plantel en el empleo del Sistema de Entrenamiento Táctico Computarizado, en beneficio del proceso enseñanza-aprendizaje y para actualizar a todo el personal académico y docente cuando se haya realizado algún perfeccionamiento en el sistema que lo amerite;
+XIII. Impartir cursos teórico-prácticos para capacitar y actualizar al personal directivo, académico y docente del plantel, en la utilización del Simulador Militar Táctico en beneficio del proceso enseñanza-aprendizaje de la Escuela Superior de Guerra;
 
-XIV. Dirigir la elaboración y supervisar la ejecución del programa permanente de capacitación para el personal asignado al Centro de Entrenamiento Táctico Computarizado orientándolo al incremento de la productividad;
+XIV. Dirigir la elaboración y supervisión del programa permanente de capacitación para el personal asignado al Centro Militar de Entrenamiento Sistematizado, así como ejecutar dicho programa que permita incrementar la productividad;
 
-XV. Dirigir y supervisar la capacitación del personal de sistematización de datos de la subsección de informática en coordinación con su jefe para la operación del Sistema de Entrenamiento Táctico Computarizado, con el fin de estar en condiciones de cubrir vacantes en el Centro de Entrenamiento Táctico Computarizado o de rotación de personal;
+XV. Dirigir y supervisar la capacitación del personal de la Subsección de Informática, con el propósito de coadyuvar en la operación del Simulador Militar Táctico;
 
-XVI. Capacitar a los usuarios del Sistema de Entrenamiento Táctico Computarizado en la operación de los equipos e interfaces necesarios para su enseñanza o adiestramiento táctico;
+XVI. Capacitar a las personas usuarias del Simulador Militar Táctico en la operación de los equipos e interfaces;
 
-XVII. Coordinar y programar las actividades del centro con los órganos que correspondan del plantel, de otros planteles militares y los cuarteles generales directores de ejercicios tácticos en que participen unidades del Ejército y Fuerza Aérea Mexicanos;
+XVII. Coordinar y programar las actividades del Centro Militar de Entrenamiento Sistematizado con los demás órganos del plantel, de otros planteles militares y los cuarteles generales de ejercicios militares, en que participen unidades del Ejército y Fuerza Aérea Mexicanos;
 
-XVIII. Dirigir, coordinar y supervisar la elaboración y actualización de la bibliografía relativa al empleo del Sistema de Entrenamiento Táctico Computarizado para la enseñanza y el adiestramiento, así como la de apoyo para los usuarios y los operadores;
+XVIII. Dirigir y supervisar la elaboración y actualización de la bibliografía relativa al uso del Simulador Militar Táctico, para el proceso enseñanza-aprendizaje y el adiestramiento del personal discente del plantel;
 
-XIX. Dirigir y supervisar la integración de la biblioteca técnica del Centro de Entrenamiento Táctico Computarizado;
+XIX. Dirigir y supervisar la integración de la biblioteca técnica del Centro Militar de Entrenamiento Sistematizado;
 
-XX. Gestionar la ministración de cartografía digital e imagen satelital necesarias para la operación del Sistema de Entrenamiento Táctico Computarizado y desarrollo de otros sistemas;
+XX. Gestionar la ministración de cartografía digital e imagen satelital necesarias para la operación del Simulador Militar Táctico y desarrollo de otros sistemas;
 
-XXI. Establecer y supervisar la ejecución de las normas relativas a la seguridad física, computacional y de la información dentro del Centro de Entrenamiento Táctico Computarizado;
+XXI. Establecer y supervisar la ejecución de las normas relativas a la seguridad física, computacional y de la información dentro del Centro Militar de Entrenamiento Sistematizado;
 
-XXII. Establecer contacto, coordinación y bases de cooperación con instituciones educativas y centros de investigación militares y civiles de alta capacidad tecnológica para fortalecer los proyectos de desarrollo, previa autorización de la autoridad militar correspondiente, y
+XXII. Establecer contacto, coordinación y cooperación con instituciones educativas y centros de investigación militares y civiles de alta capacidad tecnológica para fortalecer los proyectos de desarrollo del plantel, previa autorización de la autoridad militar correspondiente, y
 
-XXIII. Las que le sean asignadas por el Director de la Escuela Superior de Guerra.
+XXIII. Las funciones que le encomiende la Dirección del plantel.
 
 ### CAPÍTULO VIII. De la Ayudantía General
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 24.
 
-La Ayudantía General de la Escuela Superior de Guerra está a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor, egresado del propio plantel, a quien se denomina Ayudante General.
+La Ayudantía General está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-El Ayudante General de la Escuela Superior de Guerra tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Ayudantía General tiene las facultades y responsabilidades siguientes:
 
-I. Las de un Ayudante y de un Jefe de Instrucción de un Cuerpo de Tropa respecto al personal de la planta de la Escuela Superior de Guerra perteneciente a los servicios administrativos, técnicos y generales;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Las que corresponden a la Ayudantía y a la Jefatura del Cuerpo de Tropa respecto al personal de la planta de la Escuela Superior de Guerra perteneciente a los servicios técnicos y generales;
 
 II. Vigilar el cumplimiento de las órdenes que emita la superioridad con respecto al servicio, del régimen interior, seguridad y del mantenimiento, conservación y aseo de las instalaciones del plantel;
 
@@ -605,23 +787,31 @@ VII. Organizar la circulación y control de tránsito en las instalaciones del p
 
 VIII. Controlar el depósito de armamento y municiones;
 
-IX. Formular los informes de su competencia que ordene el Director del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Formular los informes de su competencia que ordene la Dirección del plantel;
 
 X. Coordinar las actividades de la sección con los demás órganos del plantel;
 
 XI. Coordinar y controlar las actividades que realicen sus órganos subordinados, y
 
-XII. Las que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Las funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO IX. De la Sección Administrativa
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-La Sección Administrativa de la Escuela Superior de Guerra está a cargo de un jefe oficinista del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa está a cargo de una persona con el grado de Teniente Coronel Oficinista.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-El Jefe de la Sección Administrativa de la Escuela Superior de Guerra tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Jefatura de la Sección Administrativa tiene las facultades y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación administrativa del personal del plantel;
 
@@ -643,33 +833,55 @@ IX. Elaborar el proyecto de presupuesto anual del plantel;
 
 X. Elaborar las listas de revista de inspección administrativa mensual y la documentación complementaria;
 
-XI. Formular los informes de carácter administrativo que ordene el Director del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Formular los informes de carácter administrativo que ordene la Dirección del plantel;
 
 XII. Coordinar las actividades de la sección con los demás órganos del plantel;
 
-XIII. Coordinar, supervisar y controlar las actividades que realicen sus órganos subordinados, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Las que le sean asignadas por el Director del plantel.
+XIII. Coordinar, supervisar y controlar las actividades que realicen sus órganos subordinados;
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII Bis. Elaborar y tramitar ante el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y la Dirección General de Seguridad Social Militar de la Secretaría de la Defensa Nacional, la afiliación del personal militar y sus derechohabientes;
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII Ter. Elaborar y tramitar las becas de los derechohabientes del personal militar de la Escuela Superior de Guerra ante el Sistema de Gestión de Becas y el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Las funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO X. De la Unidad Ejecutora de Pago
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-La Unidad Ejecutora de Pago de la Escuela Superior de Guerra está a cargo de un jefe u oficial pagador, nombrado por el Alto Mando del Ejército y Fuerza Aérea a quien se denomina Jefe de la Unidad Ejecutora de Pago.
+La Unidad Ejecutora de Pago está a cargo de una persona con la jerarquía de Teniente Coronel Pagador.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+La persona titular de la Jefatura de la Unidad Ejecutora de Pago tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de la Escuela Superior de Guerra, de conformidad con las directivas de la Secretaría de la Defensa Nacional y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO XI. De la Junta Técnica Consultiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 30.
 
-La Junta Técnica Consultiva es el órgano colegiado que tiene por finalidad asesorar en materia pedagógica y académica al Director del plantel y se integra con:
+La Junta Técnica Consultiva es el órgano colegiado que tiene como finalidad asesorar a la persona titular de la Dirección en materia pedagógica, académica y cuando una persona discente se ubique en alguna causal que amerite la baja de la Escuela Superior de Guerra, y se integra conforme a lo siguiente:
 
 I. Presidente:
 
-El Subdirector de la escuela.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección.
 
 II. Vocales:
 
@@ -687,17 +899,21 @@ III. El Secretario es el vocal de menor jerarquía y antigüedad.
 
 Los vocales de la Junta Técnica Consultiva son suplidos en sus ausencias por un jefe de subsección de la sección correspondiente.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
 La Junta Técnica Consultiva tiene las funciones siguientes:
 
 I. Analizar y determinar soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
-II. Analizar las propuestas de enmiendas a los planes y programas de estudio de cada uno de los cursos que se imparten en el plantel;
+II. Analizar las propuestas de modificaciones a los planes y programas de estudio de cada uno de los posgrados y cursos que se imparten en el plantel;
 
-III. Analizar los manuales, compendios y demás material bibliográfico en apoyo de la enseñanza, y
+III. Analizar los manuales, compendios y demás material bibliográfico en apoyo del proceso enseñanza-aprendizaje del plantel;
 
-IV. Proponer al término de cada año lectivo al personal que reúna los requisitos para hacerse acreedor al otorgamiento de las condecoraciones al mérito docente y al mérito facultativo.
+IV. Proponer al término de cada año lectivo al personal que reúna los requisitos para hacerse acreedor al otorgamiento de las condecoraciones al mérito docente y al mérito facultativo, y
+
+V. Elaborar el acta correspondiente cuando una persona discente se ubique en una causal de baja del plantel.
 
 ###### ARTÍCULO 33.
 
@@ -713,91 +929,125 @@ El personal de la Escuela Superior de Guerra se clasifica como sigue:
 
 I. Directivo:
 
-A. Director, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Subdirector.
+A. La persona titular de la Dirección, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. La persona titular de la Subdirección.
 
 II. Académico:
 
-A. Jefes de las secciones Pedagógica, Académica, de Investigación y Doctrina Militar, de Difusión y Relaciones Públicas, así como el Jefe del Centro de Entrenamiento Táctico Computarizado, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Jefes de las subsecciones de las secciones Pedagógica, Académica, de Investigación y Doctrina Militar, de Difusión y Relaciones Públicas, Subjefe del Centro de Entrenamiento Táctico Computarizado y Jefes de Grupo.
+A. Las personas titulares de las jefaturas de las secciones Pedagógica, Académica, de Investigación y Doctrina Militar, de Difusión y Relaciones Públicas y del Centro Militar de Entrenamiento Sistematizado, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. Las personas titulares de las subsecciones de las secciones Pedagógica, Académica, de Investigación y Doctrina Militar y de Difusión y Relaciones Públicas, así como la persona titular de la Subjefatura del Centro Militar de Entrenamiento Sistematizado y las personas titulares de las jefaturas de Grupo.
 
 III. Docente:
 
-A. Profesores, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Instructores.
+A. Las personas militares con la jerarquía de Generales, Jefes y Oficiales así como las personas civiles que imparten cátedra al personal discente del plantel.
 
-IV. Cursante:
+B. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-Jefes que efectúan los cursos de especialización.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-V. En Instrucción:
+IV. Discente:
 
-Jefes y oficiales que efectúan los cursos de Mando y Estado Mayor y otros que se imparten en el plantel.
+Las personas militares nacionales con la jerarquía de Jefes y Oficiales, así como las personas militares extranjeras que están realizando sus estudios en el plantel.
+
+V. (DEROGADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 VI. Administrativo:
 
 A. Ayudante General;
 
-B. Jefe de la Sección Administrativa, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-C. Jefe de la Unidad Ejecutora de Pago.
+B. La persona titular de la Jefatura de la Sección Administrativa, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. La persona titular de la Jefatura de la Unidad Ejecutora de Pago, y
 
 VII. De la planta, comprende al personal perteneciente a los servicios técnicos, generales y de policía militar del plantel y aquel no incluido en la clasificación anterior.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 35.
 
-El personal directivo y académico de la Escuela Superior de Guerra tiene las atribuciones y responsabilidades que establecen las leyes y reglamentos militares para los de su jerarquía, las señaladas en el presente Reglamento y disposiciones aplicables que emita el Secretario de la Defensa Nacional.
+El personal directivo y académico tiene las facultades y responsabilidades que establecen las leyes y reglamentos militares para los de su jerarquía, las señaladas en el presente reglamento y las disposiciones que emita la persona titular de la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 36.
 
-Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita el Director del plantel, este personal puede ser profesor o instructor.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, y tiene las facultades y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las señaladas en el presente reglamento y demás disposiciones que emita la Dirección del plantel.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-Es profesor el militar o civil que tienen a su cargo con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la o las asignaturas por impartir.
+El personal docente titular o adjunto corresponde a militares o civiles que tienen a su cargo labores permanentes en el proceso enseñanza-aprendizaje, previa acreditación de su título profesional que avale el dominio de las asignaturas que imparten en el plantel.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento de la materia que vayan a impartir.
+El personal docente militar que deba impartir conocimientos sobre asignaturas que requieren habilidad, pericia y destreza, deberá acreditar su dominio y conocimiento ante la Sección Académica.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
-Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
+El personal docente civil honorario es el que imparte conocimientos o prácticas sin percibir remuneración, por lo que se le debe extender un nombramiento como estímulo a sus actividades.
 
 ###### ARTÍCULO 40.
 
 El personal docente militar debe tener como mínimo dos años de haber egresado del plantel como Oficial de Estado Mayor.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-El personal docente militar en función de coordinador militar del Curso Superior de Guerra debe ser egresado del propio curso.
+La persona docente militar que tenga a su cargo la Coordinación de la Maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto debe ser egresada de esta maestría.
 
 ###### ARTÍCULO 42.
 
-Serán considerados como cursantes los jefes que realicen el curso superior de guerra y como personal en instrucción los jefes y oficiales nacionales y extranjeros que efectúen cualquiera de los otros cursos que se imparten en el plantel.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 43.
 
-Los militares de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables, en el presente Reglamento y disposiciones particulares del plantel, no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
+Las personas militares extranjeras que ingresen al plantel deben ser consideradas como becarias y se regirán por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, en el presente reglamento y demás disposiciones del plantel. El personal becario no estará sujeto al fuero de guerra que comprende las faltas y delitos contra la disciplina militar, por lo que su situación disciplinaria, en cada caso, se regulará como lo determine la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 44.
 
-El personal en instrucción que cada año ingrese a los cursos de Mando y Estado Mayor General y de Mando y Estado Mayor Aéreo forma una promoción que se designa con el número ordinal progresivo correspondiente.
+El personal discente que cada año ingrese a algún posgrado o curso que se imparte en la Escuela Superior de Guerra debe integrar una antigüedad, la cual se designa con el número ordinal progresivo correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 45.
 
-Se denomina secretario de la promoción o antigüedad al oficial o jefe en instrucción o cursante según corresponda de menor grado y antigüedad, quien auxilia al jefe de ésta, en todas las actividades relacionadas con el curso.
+La persona discente con el grado de Jefe u Oficial de menor grado y antigüedad tiene a su cargo la secretaría de la antigüedad, y le corresponde auxiliar a la persona titular de la Jefatura de la antigüedad en todas las actividades relacionadas con los estudios que realizan en el plantel.
 
 ###### ARTÍCULO 46.
 
-El personal cursante o en instrucción de los demás cursos que se imparten en el plantel integran una antigüedad que se designa con el número ordinal progresivo correspondiente.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 47.
 
-El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
+El personal discente tiene, además de lo establecido en otras disposiciones jurídicas, las facultades y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señale la distribución de tiempo respectiva;
 
@@ -807,17 +1057,21 @@ III. Participar en actividades oficiales programadas;
 
 IV. Desempeñar servicios y comisiones inherentes a su jerarquía, y
 
-V. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Conocer y cumplir lo previsto en el presente reglamento.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 48.
 
-Se denomina Jefe de Promoción o de Antigüedad según corresponda, al oficial o jefe en instrucción o cursante de Arma designado por el Director del plantel de entre los de mayor jerarquía, quien tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Jefatura de la antigüedad debe tener el grado de Jefe u Oficial de Arma designada por la Dirección del plantel, de entre las personas discentes de mayor jerarquía y antigüedad, y tiene las facultades y responsabilidades siguientes:
 
-I. Ser el conducto por medio del cual el personal directivo, académico y docente del plantel mantiene comunicación con el personal en instrucción para todo tipo de disposiciones y asuntos relativos a las actividades académicas y del servicio;
+I. Mantener comunicación entre el personal directivo, académico y docente del plantel con el personal discente de su antigüedad para difundir las disposiciones y asuntos relativos a sus actividades académicas y del servicio;
 
-II. Desarrollar y fomentar entre los elementos de su promoción y de la escuela los lazos de amistad, compañerismo, espíritu de cuerpo, disciplina y devoción por el estudio, y
+II. Desarrollar y fomentar entre las personas discentes de su antigüedad y del plantel los lazos de amistad, compañerismo, espíritu de cuerpo, disciplina y devoción por el estudio, y
 
-III. Tomar nota del personal en instrucción que falte, a fin de dar parte al profesor o instructor y jefe de grupo cuando hayan transcurrido 10 minutos de la hora fijada para el inicio de la clase, asimismo informar a la Jefatura de Grupo cuando el profesor o instructor no se presente a impartir su cátedra.
+III. Tomar nota de las personas discentes que falten, con objeto de informar al personal docente y a la persona titular de la Jefatura de Grupo cuando hayan transcurrido 10 minutos de la hora fijada para el inicio de la clase, e informar a la Jefatura de Grupo cuando la persona docente no se presente a impartir su cátedra.
 
 ###### ARTÍCULO 49.
 
@@ -827,35 +1081,47 @@ El personal administrativo y de la planta tiene las atribuciones y responsabilid
 
 ### CAPÍTULO I. De la Admisión
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-Para los cursos de Mando y Estado Mayor General y de Mando y Estado Mayor Aéreo, los requisitos serán establecidos en la convocatoria correspondiente.
+Los requisitos para ingresar a la maestría en Administración Militar con Especialidad en Estado Mayor deben ser establecidos en la convocatoria correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 51.
 
-Para los cursos Superior de Guerra, Superior y Básico de las Armas y Servicios el ingreso se realizará conforme a las disposiciones que sobre el particular emita la Secretaría de la Defensa Nacional.
+Los requisitos para ingresar a la maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto, a los cursos Superior y Básico de las Armas y Servicios, y a otros estudios que se impartan en la Escuela Superior de Guerra deben establecerse en las disposiciones que para tal efecto emita la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 52.
 
-Es facultad del Alto Mando autorizar el ingreso a personal perteneciente a la Armada de México para efectuar los estudios de los cursos que se imparten en el plantel y obtener la acreditación respectiva; durante su estancia quedará sujeto al Reglamento del plantel y a las leyes aplicables.
+Es facultad del Alto Mando autorizar el ingreso al personal perteneciente a la Armada de México, para efectuar los estudios de posgrado y cursos que se imparten en el plantel y, durante su estancia, este personal queda sujeto al presente reglamento, a las leyes aplicables y demás disposiciones jurídicas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 53.
 
-Es facultad del Alto Mando autorizar el ingreso al plantel a personal extranjero a solicitud del gobierno de su país ante el de México a través de la Secretaría de la Defensa Nacional, para efectuar los estudios y obtener la acreditación correspondiente; durante su estancia, quedará sujeto al presente Reglamento, disposiciones particulares del plantel y a la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables.
+Es facultad del Alto Mando autorizar el ingreso al plantel a personas extranjeras, a solicitud del gobierno de su país a la Secretaría de la Defensa Nacional y, durante su estancia, este personal queda sujeto a la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, al presente reglamento, a las disposiciones del plantel y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 54.
 
-El personal Militar Extranjero que asista como becario al plantel por el término de un año, únicamente efectuará el segundo año del Curso de Mando y Estado Mayor General o el primer año del Curso de Mando y Estado Mayor Aéreo según corresponda; siendo facultad de la Secretaría de la Defensa Nacional autorizar el ingreso de este personal al primer o tercer año de estudio del Curso de Mando y Estado Mayor General o al 2/o. año del Curso de Mando y Estado Mayor Aéreo respectivamente.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
-El personal de becarios extranjeros se sujetarán a los planes y programas de estudio con las enmiendas que a propuesta de la Junta Técnica Consultiva determine el Director del plantel.
+Los becarios extranjeros deben sujetarse a los planes y programas de estudio con las modificaciones que, a propuesta de la Junta Técnica Consultiva, determine la Dirección del plantel.
 
 ### CAPÍTULO II. Del Proceso Enseñanza-Aprendizaje
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 56.
 
-La formación del personal en instrucción de la Escuela Superior de Guerra se realiza mediante el proceso enseñanza-aprendizaje en sus tres fases: Planeación, ejecución y evaluación.
+La formación del personal discente se realiza mediante el proceso enseñanza-aprendizaje que consta de tres fases: planeación, ejecución y evaluación.
 
 ###### ARTÍCULO 57.
 
@@ -865,81 +1131,125 @@ La planeación del proceso enseñanza-aprendizaje se lleva a cabo de acuerdo con
 
 La planeación didáctica es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos prescritos en los planes y programas de estudio del plantel.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 59.
 
-La ejecución de la enseñanza tiene por objeto la correcta coordinación y aplicación del contenido de los planes y programas de estudio a través de la interacción del personal docente y en instrucción.
+La ejecución del proceso enseñanza-aprendizaje tiene por objeto la correcta coordinación y aplicación del contenido de los planes y programas de estudio, a través de la interacción del personal docente y discente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-La evaluación académica tiene por objeto verificar el nivel de aprovechamiento del personal cursante y en instrucción en el proceso enseñanza-aprendizaje; así como la eficiencia del personal docente y de la programación.
+La evaluación académica tiene por objeto verificar el nivel de aprovechamiento del personal discente en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y la efectividad de la programación.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-Los docentes evalúan al personal en instrucción mediante la aplicación de diversos exámenes.
+El personal docente debe evaluar al personal discente mediante ensayos y la aplicación de evaluaciones teóricas y prácticas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 62.
 
-Para evaluar el aprovechamiento del personal cursante se dispondrá de los elementos siguientes:
+Los elementos que deben considerarse para evaluar el aprovechamiento del personal son los siguientes:
 
-I. Trabajos individuales, y
+I. Trabajos individuales;
 
-II. Trabajos de grupo.
+II. Trabajos en equipo, y
+
+III. Ejercicios prácticos de la especialidad.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 63.
 
-Los exámenes que se aplican al personal cursante y en instrucción en la Escuela Superior de Guerra son:
+Las evaluaciones que se aplican al personal discente son:
 
-I. Parciales, los que se aplican al personal en instrucción para comprobar el grado de aprovechamiento en una o varias partes del programa de cualquier asignatura, debiendo comprender cada una de ellas un mínimo de 3 exámenes;
+I. Parciales, las que se realizan para comprobar el grado de aprovechamiento en una o varias partes del programa de la asignatura;
 
-II. Finales, los que se aplican al personal en instrucción al final de cada año escolar o curso para evaluar el aprovechamiento global que haya obtenido de las asignaturas correspondientes;
+II. Finales, las que se realizan al final de cada asignatura para evaluar el aprovechamiento global que haya obtenido;
 
-III. Profesional o de especialización, el que sustenta el personal en instrucción o cursante en forma individual o en grupo después de haber cubierto el contenido de los programas de estudio de una carrera y haber elaborado una tesis o su equivalente, tiene por objeto evaluar su nivel académico y sirve para hacerse acreedor al título profesional o al diploma correspondiente;
+III. Profesional o de especialización, la que sustenta el personal discente en forma individual o en grupo después de haber cubierto el contenido de sus programas de estudio y haber elaborado una tesis o su equivalente. Esta evaluación tiene por objeto valorar su nivel académico y sirve para hacerse acreedor al título profesional o al diploma correspondiente;
 
-IV. Especiales, los que se aplican por una sola vez al personal en instrucción que solicita reingresar al plantel bajo las condiciones que establece el presente Reglamento;
+IV. Especiales, las que se realizan, por una sola vez, al personal discente que solicita reingresar al plantel, bajo las condiciones que establece el presente reglamento;
 
-V. Evaluación documental exploratoria al personal cursante para apreciar su aprovechamiento; consistirá en planteamientos de carácter conceptual, de opinión y análisis relacionados con los temas vistos durante el curso; será contestada a domicilio y devuelta al coordinador de la materia con las respuestas a los planteamientos 24 horas después de su entrega, y
+V. Documental exploratoria, para apreciar su aprovechamiento; consiste en realizar planteamientos de carácter conceptual, de opinión y de análisis relacionados con los temas vistos durante el posgrado o curso. Esta evaluación debe ser contestada a domicilio y devuelta a la persona coordinadora de la asignatura con las respuestas a los planteamientos, dentro de las 24 horas siguientes a su entrega, y
 
-VI. Evaluación por observación al personal cursante para valorar la conducta y aprovechamiento individual durante su desempeño en los trabajos grupales; estará integrada por las apreciaciones del coordinador sobre las actividades del cursante en cuanto a su capacidad de organización y desarrollo.
+VI. Por observación al personal discente, para valorar la conducta y aprovechamiento individual durante su desempeño en los trabajos de equipo. Esta evaluación debe estar integrada por las apreciaciones de la persona coordinadora de la asignatura sobre las actividades de la persona discente en cuanto a su capacidad de organización y desarrollo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
-Los exámenes mencionados en el artículo anterior pueden ser:
+Las evaluaciones pueden ser:
 
 I. Orales;
 
-II. Escritos;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Escritas;
 
 III. De aplicación, o
 
-IV. Una combinación de ellos.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Una combinación de ellas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-Para calificar los exámenes del personal en instrucción de los cursos de Mando y Estado Mayor General y Aéreo y los cursos Superior y Básico de las Armas y Servicios se utiliza la escala numérica de cero a diez puntos utilizando decimales, siendo la calificación mínima aprobatoria de 6.0 puntos para los exámenes parciales o especiales y de 7.0 puntos para los exámenes finales. La calificación mínima aprobatoria para el personal cursante del Curso Superior de Guerra es de 8.0 puntos.
+Para calificar las evaluaciones del personal discente se utiliza la escala numérica de 0 a 10 puntos, como sigue:
+
+I. Posgrados:
+
+A. En evaluaciones parciales la calificación mínima aprobatoria es de 7.0 puntos, y
+
+B. En evaluaciones finales la calificación mínima aprobatoria es de 8.0 puntos.
+
+II. Cursos Superior y Básico de las Armas y Servicios:
+
+A. En evaluaciones parciales la calificación mínima aprobatoria es de 6.0 puntos, y
+
+B. En evaluaciones finales la calificación mínima aprobatoria es de 7.0 puntos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 66.
 
-Para tener derecho a presentar los exámenes finales, el promedio mínimo aprobatorio en la totalidad de los exámenes parciales en cada una de las asignaturas es de seis puntos.
+El personal discente, para tener derecho a presentar las evaluaciones finales, debe tener el promedio mínimo aprobatorio en cada una de las asignaturas de 7.0 puntos o 6.0 puntos, según corresponda, en sus evaluaciones parciales.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 67.
 
-Al finalizar el año escolar la calificación definitiva en cada materia será el promedio resultante de la calificación del examen final y el promedio total de los exámenes parciales.
+Al finalizar el año escolar la calificación definitiva en cada asignatura será el promedio resultante de la calificación de la evaluación final y el promedio total de las evaluaciones parciales.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 68.
 
-La calificación obtenida en un examen especial se asienta en el registro de calificaciones con la anotación; "obtenida en examen especial", excluyendo estadísticamente al personal en instrucción o cursante para obtener algún premio académico.
+La calificación obtenida en una evaluación especial se asienta en el registro de calificaciones con la anotación: “obtenida en evaluación especial”. El personal discente que obtenga su calificación en una evaluación especial queda excluido para obtener algún premio académico.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-El personal cursante y en instrucción que utilice medios no lícitos para resolver un examen, será suspendido del mismo y calificado con cero.
+El personal discente que utilice medios fraudulentos para resolver una evaluación, quedará suspendida su aplicación y tendrá calificación con cero.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-El personal cursante y en instrucción que falte sin causa justificada a cualquiera de los exámenes establecidos en el presente Reglamento o que no entregue contestada una evaluación documental exploratoria será calificado con cero.
+El personal discente que falte sin causa justificada a cualquiera de las evaluaciones establecidas en el presente reglamento o que no entregue contestada una evaluación documental exploratoria debe ser calificado con cero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 71.
 
-El examen profesional será calificado en los términos siguientes:
+La evaluación profesional debe ser calificada en los términos siguientes:
 
 I. Aprobado por unanimidad;
 
@@ -947,97 +1257,119 @@ II. Aprobado por mayoría, o
 
 III. Reprobado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 72.
 
-El examen profesional que por su calidad merezca a juicio del jurado una distinción, se le concederá "Mención Honorífica", anotando tal concepto en el acta respectiva, siendo indispensable para otorgarla, lo siguiente:
+La evaluación profesional que por su calidad merezca a juicio del jurado una distinción, se le podrá conceder “Mención Honorífica”. Esta distinción debe anotarse en el acta respectiva y será otorgada si se cumple con lo siguiente:
 
 I. Elaborar una tesis o su equivalente de nivel de excelencia por su contenido, argumentación y originalidad;
 
-II. Haber cubierto el contenido de los programas de estudio del curso correspondiente con un promedio final de 8.5 puntos o más, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-III. No haber presentado algún examen especial.
+II. Haber cubierto el contenido de los programas de estudio del posgrado o curso correspondiente, con un promedio final de 9.0 puntos o más, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. No haber presentado alguna evaluación especial.
 
 ### CAPÍTULO III. De los Jurados
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 73.
 
-Los jurados son organismos colegiados, integrados con tres miembros propietarios y uno suplente de entre el personal Diplomado de Estado Mayor y de Estado Mayor Aéreo según corresponda que se designan para aplicar y evaluar los exámenes finales, profesionales, de especialización y especiales, al personal de cursantes y en instrucción, normando su actuación de acuerdo a lo establecido en el presente Reglamento, sus miembros tendrán voz y voto.
+Los jurados son organismos colegiados integrados con tres personas propietarias y una suplente de entre el personal militar De Estado Mayor, los cuales tienen derecho a voz y voto. Los jurados deben designarse para aplicar las evaluaciones finales, profesionales, de especialización y especiales y su actuación debe observar lo establecido en el presente reglamento.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 74.
 
-Los jurados para los grupos de primero y segundo años del curso de Mando y Estado Mayor General y de primer año del curso de Mando y Estado Mayor Aéreo, son designados por el Director de la escuela, mismos que están integrados por cinco miembros propietarios y un suplente, debiendo desempeñarse como Presidente los jefes de las secciones Pedagógica, Académica, de Investigación y Doctrina Militar, así como el de Difusión y Relaciones Públicas indistintamente.
+El jurado para primer año de la maestría en Administración Militar con Especialidad en Estado Mayor son designados por la Dirección. Este jurado debe integrarse con cinco personas propietarias y una suplente. Las personas titulares de las Jefaturas de las secciones Pedagógica, Académica, de Investigación y Doctrina Militar y de Difusión y Relaciones Públicas tienen a su cargo la Presidencia del Jurado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 75.
 
-Los jurados para el grupo de tercer año del curso de Mando y Estado Mayor General, están integrados por un Presidente, diez vocales propietarios y un suplente, a quienes se les denomina Sinodales, en la forma siguiente:
+El jurado para segundo año de la maestría en Administración Militar con Especialidad en Estado Mayor debe integrarse con 12 sinodales, conforme a lo siguiente:
 
-I. Presidente: el Director del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. La persona titular de la Dirección del plantel, quien lo preside;
 
 II. Cinco vocales designados por el Alto Mando, debiendo ser por lo menos uno de ellos de la jerarquía de General, y
 
-III. Cinco vocales y un suplente, profesores de la propia escuela nombrados por el Director del plantel; el secretario es el vocal de menor jerarquía.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Cinco personas vocales y una suplente, las cuales son designadas por la Dirección del plantel de entre su personal docente. La persona vocal con menor jerarquía tiene a su cargo la secretaría del Jurado.
 
 ###### ARTÍCULO 76.
 
-El jurado para el grupo de segundo año del curso de Mando y Estado Mayor Aéreo estará integrado por un Presidente, diez vocales propietarios y un suplente, a quienes se les denominará Sinodales, en la forma siguiente:
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-I. Presidente: El Subdirector del plantel;
-
-II. Cinco vocales designados por el Alto Mando, debiendo ser por lo menos uno de ellos de igual jerarquía que el Subdirector, y
-
-III. Cinco vocales y un suplente, profesores de la propia escuela nombrados por el Director del plantel; el secretario es el vocal de menor jerarquía.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-El jurado para el curso Superior de Guerra, está integrado por un presidente, cuatro vocales propietarios y un suplente, a quienes se les denomina Sinodales, en la forma siguiente:
+El jurado para la maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto debe integrase con seis sinodales, conforme a lo siguiente:
 
-I. Presidente: El Director del plantel;
+I. La persona titular de la Dirección del plantel, quien lo preside;
 
-II. Cuatro vocales con el grado de General o Coronel de Arma, Diplomados de Estado Mayor, designados por el Alto Mando, y
+II. Cuatro personas vocales con el grado de General o Coronel de Arma, De Estado Mayor, designadas por el Alto Mando, y
 
-III. Un vocal suplente, profesor de la propia escuela, nombrado por el Director del plantel; el secretario es el de menor jerarquía.
+III. Una persona vocal suplente, la cual es designada por la Dirección del plantel de entre su personal docente. La persona vocal con menor jerarquía tiene a su cargo la secretaría del Jurado.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-El Presidente de un jurado es sustituido en caso de fuerza mayor, por el vocal de mayor jerarquía.
+La persona titular de la Presidencia del Jurado es sustituida, en caso de fuerza mayor, por la persona vocal de mayor jerarquía.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 79.
 
-En la plaza donde concluyan los exámenes finales, el Presidente del jurado levantará un acta de examen para dar fe y cuenta a la superioridad, en la que se asentará quienes resultaron aprobados o no en el año escolar o curso de que se trate; firmarán al calce los miembros del jurado que en ella intervinieron y a continuación, el acta se dará a conocer al personal examinado.
+Una vez que concluyan las evaluaciones finales, la persona titular de la Presidencia del Jurado debe levantar un acta de la evaluación para dar fe y cuenta a la Secretaría de la Defensa Nacional. En dicha acta debe asentarse las personas discentes que resultaron aprobadas o no en el año escolar o curso de que se trate y debe estar firmada al calce por las personas integrantes del Jurado que hayan intervenido. Levantada el acta se debe dar a conocer al personal discente examinado.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 80.
 
-Los Presidentes de jurado en los exámenes finales del tercer año del curso de Mando y Estado Mayor General y de segundo año del curso de Mando y Estado Mayor Aéreo, reunirán a los integrantes de este organismo y al personal en instrucción que haya resultado aprobado para dar lectura al acta de examen profesional, a continuación se tomará la protesta a los jefes y oficiales en instrucción de las Fuerzas Armadas Mexicanas, en los términos siguientes:
+La persona titular de la Presidencia del Jurado en las evaluaciones finales de segundo año de la maestría en Administración Militar con Especialidad en Estado Mayor debe reunir a los demás integrantes del Jurado y al personal discente que haya resultado aprobado para dar lectura al acta de evaluación profesional. Una vez concluida la lectura, se debe tomar la protesta al personal discente militar que tenga el grado de Jefe u Oficial, en los términos siguientes:
 
-"El jurado aquí reunido para calificar sus conocimientos militares, los ha considerado dignos de recibir el Diploma de Estado Mayor que los acredita para desempeñar la importante función de colaboradores y asesores del Mando".
+“El jurado aquí reunido para calificar sus conocimientos militares, los ha considerado dignos de recibir el certificado de la especialidad De Estado Mayor que los acredita para desempeñar la importante función de colaborar y asesorar al Mando”.
 
 En el ejercicio de funciones de tal responsabilidad, tengan presente, ante todo, que no deben emplear sus conocimientos, sino en servicio de la Patria y de las Fuerzas Armadas.
 
-No olviden que quien pone en sus manos esta gran responsabilidad, confía no sólo en su saber, sino también y acaso más, en su lealtad y patriotismo, estimando serían incapaces de anteponer su interés personal al de la patria.
+“No olviden que quien pone en sus manos esta gran responsabilidad, confía en su saber, en su lealtad y en su patriotismo, por lo tanto, sabemos que serán incapaces de anteponer sus intereses personales a los de la patria.”
 
-Recuerden así los principales deberes que les impondrá el diploma de oficial de Estado Mayor que recibirán en breve, solamente les falta prometer su debido cumplimiento.
+“Recuerden los principales deberes que les impondrá la especialidad De Estado Mayor, por lo que, previo a su recibimiento, es necesario que prometan su debido cumplimiento.”
 
-¿Protestan solemnemente bajo su honor de soldados que al ejercer las funciones de oficial de Estado Mayor tendrán como norma suprema de su actuación, la rectitud, la lealtad, la honradez, la dedicación y el espíritu de constante superación en beneficio de las Fuerzas Armadas y de la Patria?.
+“¿Protestan bajo su honor de militares que al ejercer la especialidad De Estado Mayor tienen como norma suprema de actuación, la rectitud, la lealtad, la honradez, el sacrificio, la dedicación y la constante superación en beneficio de las Fuerzas Armadas y de la Patria?.”
 
-Los interrogados contestarán: "Sí, protesto".
+Los interrogados contestarán: “Sí, protesto”.
 
-Una vez rendida la protesta, el Presidente del jurado examinador responderá:
+Una vez rendida la protesta, la persona titular de la Presidencia del Jurado examinador debe responder:
 
-Si no lo hacen así, que la nación los (sic) demande.
+“Si no lo hacen así, que la Nación se los demande.”
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 81.
 
-Después de tomar la protesta que se señala en el artículo anterior, el Presidente del jurado y los vocales de éste, procederán a imponer los escudos de Estado Mayor con escuadras de técnico al personal que concluya satisfactoriamente el curso respectivo.
+Después de tomar la protesta, las personas integrantes del Jurado deben imponer los escudos De Estado Mayor con escuadras al personal discente militar que concluya satisfactoriamente la maestría en Administración Militar con Especialidad en Estado Mayor.
 
 ## TÍTULO SEXTO. De las Faltas, Bajas y Reingresos
 
 ### CAPÍTULO I. De las Faltas de Asistencia Académica
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 82.
 
-Son faltas de asistencia académica, las ausencias del personal cursante y en instrucción a cualquier actividad académica, teórica o práctica, las faltas de asistencia pueden ser:
+Son faltas de asistencia académica, las ausencias del personal discente a cualquier actividad académica, teórica o práctica considerada en los planes y programas de estudio. Las faltas de asistencia académica pueden ser:
 
-I. Justificadas, cuando se deban a comisiones del servicio, motivos de salud, razones de carácter legal y las que a juicio del Director se consideren como tales, y
+I. Justificadas, cuando se deban a comisiones del servicio, motivos de salud, razones de carácter legal y aquellas que a juicio de la persona titular de la Dirección sean consideradas como tales, y
 
 II. Injustificadas, cuando no se encuentren comprendidas en el párrafo anterior.
 
@@ -1051,151 +1383,227 @@ II. Una falta por cada hora en ejercicios militares de aplicación de una sola a
 
 III. Una falta por cada asignatura en el día que se trate, mientras dure ausente en ejercicios militares de aplicación del conjunto de asignaturas;
 
-IV. Las faltas justificadas a la clase de instrucción práctica, concurso de selección para el ascenso y las comisiones nombradas por el Alto Mando, no serán acumuladas;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-V. Las faltas justificadas por motivos de salud, razones de carácter legal y las que a juicio del Director considere como tales, serán acumuladas;
+IV. Las faltas justificadas por acudir al concurso de selección para el ascenso, a las comisiones nombradas por el Alto Mando y las de carácter legal derivadas de actos del servicio, no serán acumuladas;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Las faltas justificadas por motivos de salud, razones de carácter legal fuera de actos del servicio y aquellas que a juicio de la persona titular de la Dirección sean consideradas como tales, serán acumuladas;
 
 VI. Las faltas injustificadas serán acumuladas, y
 
-VII. El registro y cómputo de faltas se dará a conocer al personal en instrucción, oportuna y periódicamente por la Sección Pedagógica.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. El registro y cómputo de las faltas académicas se debe dar a conocer al personal discente, oportuna y periódicamente por la Sección Pedagógica.
 
 ### CAPÍTULO II. De las Bajas y Reingresos
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 84.
 
-Son causales de baja del plantel para el personal cursante y en instrucción las siguientes:
+El personal discente con el grado de Jefes causa baja de la Escuela Superior de Guerra, por propuesta de la persona titular de la Dirección del plantel al Alto Mando del Ejército y Fuerza Aérea, cuando se encuentre en alguna de las situaciones siguientes:
 
-I. Terminar satisfactoriamente sus estudios;
+I. Por cometer faltas muy graves que afecten la disciplina militar siguientes:
 
-II. Reprobar tres exámenes parciales de una misma asignatura durante el año lectivo;
+A. Golpear a un discente;
 
-III. De los cursos de Mando y Estado Mayor General y Aéreo reprobar diez exámenes parciales en el conjunto de las asignaturas durante el año lectivo; de los cursos Superior y Básico de las Armas y Servicios reprobar cinco exámenes parciales en el conjunto de las asignaturas durante el curso; del Curso Superior de Guerra reprobar cinco evaluaciones en el conjunto de las asignaturas durante el curso;
+B. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de una persona discente;
 
-IV. De los cursos de Mando y Estado Mayor General y Aéreo y cursos Superior y Básico de las Armas y Servicios resultar reprobado en el promedio de todos los exámenes parciales en el conjunto de las asignaturas durante el año lectivo o curso; para el curso Superior de Guerra resultar reprobado en el promedio de todas las evaluaciones en el conjunto de las asignaturas durante el curso;
+C. Exigir dádivas o cooperaciones, suscribir colectas o realizar cualquier tipo de actividades de agio, mediante el aprovechamiento de su antigüedad, jerarquía o cargo;
 
-V. Reprobar uno o más exámenes finales;
+D. Resultar no apto por dar positivo al consumo de narcóticos en un examen toxicológico o negarse a proporcionar las tomas de muestra sanguínea o de orina para descartar el consumo de sustancias psicotrópicas, estupefacientes u otras controladas, y
 
-VI. Reprobar el examen profesional o de especialización;
+E. Realizar acciones que desprestigien la imagen de la Escuela Superior de Guerra o de la Secretaría;
+
+II. Reprobar tres evaluaciones parciales de una misma asignatura durante el año lectivo;
+
+III. Reprobar cinco evaluaciones parciales en el conjunto de las asignaturas durante el año lectivo en la Maestría en Administración Militar con Especialidad en Estado Mayor; así como reprobar cinco evaluaciones parciales en el conjunto de las asignaturas durante los cursos Superior y Básico de las Armas y Servicios;
+
+IV. Estar reprobado en el promedio general de las evaluaciones parciales durante el tiempo que duren sus estudios;
+
+V. Reprobar una o más evaluaciones finales;
+
+VI. Reprobar la evaluación profesional;
 
 VII. Acumular diez faltas injustificadas en una sola asignatura durante el año lectivo o curso;
 
-VIII. Acumular veinticinco faltas injustificadas en el conjunto de las asignaturas durante el año lectivo o curso;
+VIII. Acumular en total veinticinco faltas académicas en el conjunto de las asignaturas durante el año lectivo o curso, ya sean justificadas o injustificadas;
 
-IX. Acumular cincuenta faltas justificadas en el conjunto de las asignaturas durante el año lectivo o curso;
+IX. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
-X. Acumular cincuenta faltas entre justificadas e injustificadas en el conjunto de las asignaturas durante el año lectivo o curso;
+X. Faltar injustificadamente a sus labores académicas durante tres días para el personal becario extranjero, y
 
-XI. Observar mala conducta, determinada por el Consejo de Honor para los oficiales y por el Director de la Escuela Superior de Guerra para los jefes a propuesta de la Junta Técnica Consultiva;
+XI. Incurrir en las conductas previstas en las fracciones I, II, VI, VIII, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
-XII. Enfermedad, impedimento físico o situación legal que lo imposibilite para cumplir con lo establecido en este Reglamento;
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Existir irregularidades en la documentación presentada al ingresar al plantel;
+###### ARTÍCULO 84 Bis.
 
-XIV. Encontrarse en alguna situación de baja establecida en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+El personal discente con el grado de Oficiales causa baja de la Escuela Superior de Guerra por:
 
-XV. Solicitud del interesado que sea aceptada por la superioridad;
+I. Observar mala conducta determinada por el Consejo de Honor, por cometer las faltas muy graves que afecten la disciplina militar siguientes:
 
-XVI. Para el personal becario extranjero faltar injustificadamente a sus labores académicas durante tres días consecutivos;
+A. Golpear a un discente;
 
-XVII. Adquirir otra nacionalidad, y
+B. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de una persona discente;
 
-XVIII. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+C. Exigir dádivas o cooperaciones, suscribir colectas o realizar cualquier tipo de actividades de agio, mediante el aprovechamiento de su antigüedad, jerarquía o cargo;
+
+D. Resultar no apto por dar positivo al consumo de narcóticos en un examen toxicológico o negarse a proporcionar las tomas de muestra sanguínea o de orina para descartar el consumo de sustancias psicotrópicas, estupefacientes u otras controladas, y
+
+E. Realizar acciones que desprestigien la imagen de la Escuela Superior de Guerra o de la Secretaría;
+
+II. Reprobar tres evaluaciones parciales de una misma asignatura durante el año lectivo;
+
+III. Reprobar cinco evaluaciones parciales en el conjunto de las asignaturas durante el año lectivo en la Maestría en Administración Militar con Especialidad en Estado Mayor; así como reprobar cinco evaluaciones parciales en el conjunto de las asignaturas durante los cursos Superior y Básico de las Armas y Servicios;
+
+IV. Estar reprobado en el promedio general de las evaluaciones parciales durante el tiempo que duren sus estudios;
+
+V. Reprobar una o más evaluaciones finales;
+
+VI. Reprobar la evaluación profesional;
+
+VII. Acumular diez faltas injustificadas en una sola asignatura durante el año lectivo o curso;
+
+VIII. Acumular en total veinticinco faltas académicas en el conjunto de las asignaturas durante el año lectivo o curso, ya sean justificadas o injustificadas;
+
+IX. Existir irregularidades en la documentación presentada al ingresar al plantel;
+
+X. Faltar injustificadamente a sus labores académicas durante tres días para el personal becario extranjero, y
+
+XI. Incurrir en las conductas previstas en las fracciones I, II, VI, VIII, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 85.
 
-Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste ante el Director del plantel, lo que a sus intereses convenga sobre el particular.
+El personal discente que por cualquier motivo vaya a ser dado de baja de la Escuela Superior de Guerra, se le debe comunicar previamente por escrito esta circunstancia, así como los motivos y fundamentos jurídicos de dicha baja. Se le debe conceder un término de 15 días naturales, contado a partir de la fecha en que sea notificado, a efecto de que manifieste ante la Dirección del plantel, lo que a sus intereses convenga.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 86.
 
-El personal en instrucción de los cursos de Mando y Estado Mayor General y de Mando y Estado Mayor Aéreo que cause baja del plantel, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan. El personal cursante del Curso Superior de Guerra y en instrucción de los cursos Superior de las Armas y Servicios y Básico de las Armas y Servicios al concluir satisfactoriamente sus cursos se incorporarán de inmediato a sus respectivos destinos de origen.
+El personal discente de las maestrías en Administración Militar con Especialidad en Estado Mayor y en Dirección Estratégica con Especialidad en Estado Mayor Conjunto que causen baja de la Escuela Superior de Guerra, quedan a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan. El personal discente de los cursos Superior de las Armas y Servicios, y Básico de las Armas y Servicios, al concluir satisfactoriamente sus estudios, se deben reincorporar de inmediato a sus respectivos destinos de origen.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 87.
 
-Para efectos del presente Reglamento se considera como reingreso, el acto mediante el cual el personal en instrucción que habiendo causado baja de la Escuela Superior de Guerra antes de terminar los estudios es admitido nuevamente para continuarlos.
+Para efectos del presente reglamento, se considera como reingreso, el acto mediante el cual el personal discente que habiendo causado baja de la Escuela Superior de Guerra antes de terminar los estudios, es admitido nuevamente para continuarlos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 88.
 
-El personal en instrucción que cause baja del plantel durante el primer año del curso de Mando y Estado Mayor General o del curso de Mando y Estado Mayor Aéreo no podrá reingresar a la escuela.
+El personal discente que cause baja de la Escuela Superior de Guerra durante el primer año de la maestría en Administración Militar con Especialidad en Estado Mayor, no podrán reingresar a dicha Escuela, salvo los casos previstos en los artículos 84, fracción XIV, y 89, de este reglamento.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 89.
 
-Podrá reingresar al plantel por una sola vez y bajo las condiciones que establece el presente Reglamento únicamente el personal en instrucción que haya causado baja por los motivos siguientes:
+El personal discente puede reingresar a la Escuela Superior de Guerra, por una sola vez y bajo las condiciones que establece el presente reglamento, cuando la baja haya sido por los motivos siguientes:
 
 I. Faltas justificadas;
 
-II. Motivos de salud, y
+II. Motivos de salud;
 
-III. Haberse encontrado sujeto a proceso en el fuero de guerra, común o federal y haya resultado absuelto.
+III. Haber estado vinculado a un proceso penal, ya sea en el fuero militar o del orden común o federal, y haya sido absuelto, y
+
+IV. Haber reprobado una o más evaluaciones parciales y finales, además de reprobar la evaluación profesional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 90.
 
-El personal en instrucción señalado en el artículo anterior reingresará al plantel previa aprobación del examen especial correspondiente, al inicio del ciclo escolar y al año que cursaba, reanudando sus estudios como máximo con una promoción de intervalo a aquélla con la que ingresó.
+El personal discente que pueda reingresar al plantel conforme al artículo anterior, debe presentar solicitud en una sola ocasión en el siguiente ciclo lectivo y aprobar el examen de reingreso. El reingreso debe corresponder al año que cursaba.
+
+El personal discente que haya causado baja por motivos de salud, para reingresar debe acreditar que el padecimiento que motivó su baja haya desaparecido, mediante los documentos comprobatorios de conformidad con la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y a los lineamientos establecidos en la convocatoria de admisión a la Escuela Superior de Guerra.
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos, Premios y Recompensas
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 91.
 
-El personal de cursantes y en instrucción de nacionalidad mexicana que termine satisfactoriamente los estudios de los cursos que se imparten en el plantel recibirá:
+El personal discente de nacionalidad mexicana que termine satisfactoriamente los posgrados y cursos que se imparten en el plantel debe recibir:
 
-I. Curso de Mando y Estado Mayor General: Diploma de Estado Mayor, título de Licenciado en Administración Militar, certificado de estudios que indique las calificaciones obtenidas en las asignaturas de estudio, placa distintiva y cordones de mando;
+I. Para la maestría en Administración Militar con Especialidad en Estado Mayor: Título de Maestría en Administración Militar, certificado de la especialidad en Estado Mayor que indique las calificaciones obtenidas en sus asignaturas, placa distintiva y cordones de mando;
 
-II. Curso de Mando y Estado Mayor Aéreo: Diploma de Estado Mayor, título de Licenciado en Administración Militar, certificado de estudios que indique las calificaciones obtenidas en las asignaturas de estudio, placa distintiva y cordones de mando;
+II. Para la maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto: Título de Maestría en Dirección Estratégica con Especialidad en Estado Mayor Conjunto, certificado de estudios que indique las calificaciones obtenidas en sus asignaturas y placa distintiva;
 
-III. Curso Superior de Guerra: Diploma y gafete;
+III. Para el curso Superior de las Armas y Servicios: certificado de estudios que indique las calificaciones obtenidas en sus asignaturas y gafete, y
 
-IV. Curso Superior de las Armas y Servicios: Certificado de estudios que indique las calificaciones obtenidas en las asignaturas de estudio y gafete, y
+IV. Para el curso Básico de las Armas y Servicios: certificado de estudios que indique las calificaciones obtenidas en sus asignaturas y gafete.
 
-V. Cursos Básico de las Armas y Servicios: Certificado de estudios, que indique las calificaciones obtenidas en las asignaturas de estudio y gafete.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 92.
 
-Al personal militar extranjero que termine satisfactoriamente el periodo de estudio conferido en la beca respectiva se le otorgará lo siguiente:
+Al personal discente extranjero que termine satisfactoriamente el periodo de estudios conferido en su beca, se le debe otorgar lo siguiente:
 
-I. Los que asistan por el término de un año a los cursos de Mando y Estado Mayor General o de Mando y Estado Mayor Aéreo recibirán:
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-A. Diploma de Estado Mayor, y
+I. Los que asistan a la maestría en Administración Militar con Especialidad en Estado Mayor deben recibir:
 
-B. Certificado de estudios que indiquen las calificaciones obtenidas en las asignaturas de estudio y placa respectiva.
+A. Título de Maestría en Administración Militar;
 
-II. Los que asistan y realicen el curso completo de conformidad con los planes y programas de estudio de los cursos de Mando y Estado Mayor General o Aéreo, además de lo anterior recibirán el título de Licenciado en Administración Militar.
+B. Certificado de estudios que indique las calificaciones obtenidas en sus asignaturas y placa, y
+
+C. Certificado de la especialidad en Estado Mayor.
+
+II. (DEROGADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 93.
 
-El personal de cursantes y en instrucción que al término de cada ciclo lectivo obtenga las 3 calificaciones más altas de su antigüedad o promoción recibirá el diploma de lugar correspondiente, el cual servirá de fundamento para la determinación de los premios a que se refiere el capítulo siguiente.
+Las personas discentes, que al término de cada ciclo lectivo obtengan los tres mejores promedios, deben recibir el diploma del lugar correspondiente. Las personas discentes que durante sus estudios hayan obtenido en todos los ciclos escolares, primeros o segundos lugares, deben recibir el Mérito Facultativo de Primera Clase o Segunda Clase, respectivamente.
 
 ###### ARTÍCULO 94.
 
 Al jefe u oficial que no concluya satisfactoriamente sus estudios se le expedirá a solicitud del interesado, certificado parcial de estudios previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 95.
 
-Premio es el reconocimiento que para los efectos de la condecoración al mérito facultativo establecido en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales, otorga anualmente la Escuela Superior de Guerra a los jefes cursantes y oficiales en instrucción que en forma destacada concluyen los estudios de sus cursos o del año lectivo correspondiente, siendo los siguientes:
+El premio es el reconocimiento que, para los efectos de la condecoración al Mérito Facultativo establecido en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, otorga la Escuela Superior de Guerra a las personas discentes que en forma destacada concluyen sus estudios, conforme a lo siguiente:
 
-I. Primer premio a los que obtengan el primer lugar con un promedio de 8.5 puntos o más, y
+I. Primer premio a las que obtengan el primer lugar con un promedio de 9.5 puntos o más, y
 
-II. Segundo premio a quienes obtengan primeros, segundos y terceros lugares, con promedio de 8.0 puntos o más.
+II. Segundo premio a las que obtengan primeros o segundos lugares, con promedio de 8.5 puntos o más.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 96.
 
-El cuadro de honor se conformará cada mes para distinguir al personal en instrucción o cursante que en cada antigüedad o promoción obtengan los tres primeros lugares con un promedio mayor de 8.0 puntos y sin haber reprobado alguna asignatura.
+El cuadro de honor se debe conformar cada mes para distinguir a las personas discentes que en cada antigüedad obtengan los tres primeros lugares con un promedio mayor de 9.0 puntos y sin haber reprobado alguna asignatura.
 
 ## TÍTULO OCTAVO. Disposiciones Complementarias
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 97.
 
-Al personal en instrucción que utilice medios no lícitos en la resolución de algún examen además de la sanción académica prevista en el presente Reglamento, se le impondrá el correctivo disciplinario correspondiente.
+El personal discente que utilice medios fraudulentos para resolver una evaluación, además de la sanción académica prevista en el presente reglamento, se le impondrá el correctivo disciplinario correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 98.
 
-El personal cursante y en instrucción que ostente grado jerárquico superior al docente, deberá guardar a éste las consideraciones que por su calidad y comisión merece.
+El personal discente que ostente un grado superior de la persona docente, debe guardarle las consideraciones que por su calidad y cargo amerita la persona docente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 99.
 
-La escuela recibirá como coordinadores, profesores o instructores a militares de la Armada de México o de Fuerzas Armadas Extranjeras, cuando así lo determine el Alto Mando del Ejército y Fuerza Aérea”.
+La Escuela Superior de Guerra puede recibir como coordinadoras, a personas docentes militares de la Armada de México o de Fuerzas Armadas extranjeras, cuando así lo determine el Alto Mando del Ejército y Fuerza Aérea.
 
 ## TRANSITORIOS
 
@@ -1206,3 +1614,15 @@ SEGUNDO.- Se abrogan los Reglamentos siguientes: del Colegio de Defensa Nacional
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA ESCUELA SUPERIOR DE GUERRA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
