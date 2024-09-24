@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-08-20"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE SEPTIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -109,9 +111,11 @@ LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIB
 
 3. Los diputados son responsables por los delitos que cometan durante el tiempo de su encargo, pero no podrán ser detenidos ni ejercerse en su contra la acción penal hasta que, seguidos los procedimientos constitucionales, se decida la separación del cargo y la sujeción a la acción de los tribunales comunes.
 
-###### ARTICULO 8.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado destinados al servicio del Congreso, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los diputados en el Salón de Sesiones, en el Recinto o en las instalaciones del Congreso.
+###### ARTÍCULO 8.
+
+Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado destinados al servicio del Congreso, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de las y los diputados en el Salón de Sesiones, en el Recinto o en las instalaciones del Congreso. Tratándose de ejecución de resoluciones judiciales o administrativas, éstas podrán realizarse, sobre cualquier persona, previa autorización de la Mesa Directiva o de la Diputación Permanente, según corresponda.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION INTERNA DEL CONGRESO
 
@@ -119,15 +123,17 @@ Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado d
 
 ###### ARTICULO 9.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-1. En sesión solemne de la Legislatura que concluye sus funciones y que se celebrará a las 12:00 horas del 30 de septiembre del año de la elección, se dará lectura al informe del Consejo General del Instituto Electoral de Tamaulipas sobre la legitimidad de los comicios y de los diputados electos conforme a los mismos. Estos otorgarán la protesta constitucional ante la Mesa Directiva del Congreso o ante la Diputación Permanente según sea el caso.
+1. En sesión solemne de la Legislatura que concluye sus funciones y que se celebrará, preferentemente, a las 14:00 horas del 30 de septiembre del año de la elección, se dará lectura al informe del Consejo General del Instituto Electoral de Tamaulipas sobre la legitimidad de los comicios y de las y los diputados electos conforme a los mismos. Estos otorgarán la protesta constitucional ante la Mesa Directiva del Congreso o ante la Diputación Permanente según sea el caso.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-2. Los diputados electos con motivo de los comicios ordinarios para la renovación del Congreso que tengan ese carácter en términos del informe del Consejo General del Instituto Electoral de Tamaulipas, se reunirán en el Salón de Sesiones del Congreso del Estado en la fecha y hora señaladas en el párrafo anterior sin necesidad de cita previa.
+2. Las y los diputados electos con motivo de los comicios ordinarios para la renovación del Congreso que tengan ese carácter en términos del informe del Consejo General del Instituto Electoral de Tamaulipas, se reunirán en el Salón de Sesiones del Congreso del Estado en la fecha y hora señaladas en el numeral anterior, salvo que sean citados en hora distinta y previa acreditación a que se refiere el artículo 9 BIS de esta Ley.
 
-3. Los diputados electos tomarán lugar en el Salón de Sesiones, sin preferencia alguna y, los integrantes de la Mesa Directiva del Congreso o de la Diputación Permanente, según el caso, lo harán en el presidium y conforme a su cargo.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+3. Las y los diputados electos tomarán lugar en el Salón de Sesiones, sin preferencia alguna y, los integrantes de la Mesa Directiva del Congreso o de la Diputación Permanente, según el caso, lo harán en el presidium y conforme a su cargo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -135,9 +141,29 @@ Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado d
 
 5. Comprobado el quórum, se procederá a tomar la protesta constitucional a los diputados electos.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 9 BIS.
+
+1. Para efectos de lo previsto en el artículo anterior, las y los diputados electos deberán presentarse en el Recinto Legislativo dentro de los tres días previos al inicio de la legislatura, en la fecha y horarios que defina la Presidencia de la Mesa Directiva o la Diputación Permanente, según sea el caso, cuyo aviso, para su conocimiento, deberá publicarse en los medios de difusión con que cuenta el Congreso del Estado, ello a efecto de realizar el trámite de verificación de identidad, mismo que se sujetará al siguiente procedimiento:
+
+a) Las y los diputados electos deberán comparecer de forma presencial e indelegable al Congreso del Estado, en el horario y fecha que al efecto sea definida por la Presidencia de la Mesa Directiva o la Diputación Permanente;
+
+b) El procedimiento de verificación de identidad será responsabilidad de la Presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, tomando como base el informe del Consejo General del Instituto Electoral de Tamaulipas sobre la legitimidad de los comicios y de las y los diputados electos conforme a los mismos;
+
+c) Las y los diputados electos deberán presentarse con documentación oficial que contenga fotografía a través de la cual acredite su identidad; y
+
+d) La Presidencia de la Mesa Directiva o la Diputación Permanente, según sea el caso, emitirá la acreditación que certifique la identidad correspondiente, así como las respectivas credenciales a las y los diputados electos; dicha credencial será necesaria para acceder a la toma de protesta que se verificará en el salón de sesiones del Congreso.
+
+2. En caso de ausencia de algún legislador en la fecha señalada en el numeral 1 del presente artículo, o bien cuando no presente la documentación suficiente para acreditar su identidad, se podrá solicitar en cualquier momento a la Presidencia de la Mesa Directiva o de la Diputación Permanente en funciones, señale fecha y hora para la certificación correspondiente, una vez que esté en condiciones de presentarse, o bien sean subsanados los requisitos necesarios.
+
+3. Solo los legisladores que cuenten con la acreditación prevista en los incisos que anteceden podrán rendir la protesta de ley, la cual se verificará de manera presencial e indelegable.
+
 ###### ARTICULO 10.
 
-1. Los diputados electos otorgarán la protesta constitucional ante el presidente de la Mesa Directiva o de la Diputación Permanente, según sea el caso. A quien corresponda tomarla preguntará a los diputados electos: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del pueblo tamaulipeco?" Puestos de pie en sus respectivos lugares, al iniciarse la toma de protesta los diputados levantarán la mano derecha hacia el frente a la altura del pecho y, en su oportunidad, contestarán: "Sí, protesto".
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+1. Las y los diputados electos otorgarán la protesta constitucional ante el presidente de la Mesa Directiva o de la Diputación Permanente, según sea el caso. A quien corresponda tomarla preguntará a los diputados electos: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del pueblo tamaulipeco?"
 
 > <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
@@ -147,7 +173,9 @@ El Presidente dirá entonces: "Si así lo hicieran, la nación y el Estado se lo
 
 3. El desarrollo de la sesión se sujetará a lo previsto en éste y el artículo anterior. En todo caso, el diputado electo que sea nombrado para presidirla, rendirá en primer término su protesta conforme a lo previsto en el párrafo 1 de este precepto, y enseguida la tomará a los diputados presentes de la nueva Legislatura.
 
-4. Los diputados electos que no hubieren asistido a la sesión a la que se refiere este artículo, rendirán su protesta ante el presidente de la Mesa Directiva en funciones en la primera sesión a que concurran.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+4. Las y los diputados electos que no hubieren asistido a la sesión a la que se refiere este artículo, rendirán su protesta ante la presidencia de la Mesa Directiva en funciones en la primera sesión a que concurran, previo el cumplimiento del procedimiento previsto en el artículo 9 BIS de la presente ley.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -1835,9 +1863,17 @@ c) La formulación de un apercibimiento por parte del presidente de la Mesa Dire
 
 a) Se le otorgue licencia para separarse del cargo;
 
-b) Se decrete la declaración de procedencia en términos de las disposiciones aplicables de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, y
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-c) Se declare su estado de interdicción o ausencia mediante sentencia judicial firme.
+b) Se decrete la declaración de procedencia en términos de las disposiciones aplicables de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+c) Se declare su estado de interdicción o ausencia mediante sentencia judicial firme; y
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+d) Se declare suspendido en sus derechos políticos por alguna de las causas previstas en el artículo 38 de la Constitución General de la República.
 
 2. Cuando ocurra alguno de los supuestos mencionados en el párrafo anterior, el presidente de la Mesa Directiva llamará al suplente del diputado con objeto de que se presente al desempeño del cargo, se le tome la protesta constitucional y entre en funciones hasta en tanto el diputado propietario esté en posibilidad de reasumirlas.
 
@@ -1904,6 +1940,10 @@ e) Sobrevenga la muerte del representante popular.
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
 9. Durante el desarrollo de las sesiones del Congreso, podrán ingresar al Salón de Sesiones y permanecer en él los miembros de los servicios parlamentarios y administrativos que se requieran. Los asesores de las diversas formas de agrupación por afiliación partidista no podrán acercarse a la Mesa Directiva ni interrumpir el desarrollo de las sesiones.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+En todos los casos la Presidencia de la Mesa Directiva instruirá las medidas que deban tomarse para el acceso al salón de Sesiones, a través de la Secretaría General.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -4238,3 +4278,11 @@ P.O. 20 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-911 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8; 9, NUMERALES 1, 2 Y 3; 10, NUMERAL 1 Y 4; 73, NUMERAL 1, INCISOS B) Y C); Y SE ADICIONAN EL ARTÍCULO 9 BIS; EL INCISO D) AL NUMERAL 1 DEL ARTÍCULO 73 Y EL SEGUNDO PÁRRAFO AL NUMERAL 9 DEL ARTÍCULO 77, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
