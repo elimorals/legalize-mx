@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-del-colegio-del-aire-40532"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-30"
-last_updated: "2011-08-01"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40532&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-08-27"
 
 REGLAMENTO GENERAL DEL COLEGIO DEL AIRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 30 de agosto de 2004.
 
@@ -39,19 +39,71 @@ Del Colegio del Aire
 
 ### CAPÍTULO I. De la Finalidad y Misión
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 1o.
 
-El presente Reglamento tiene por objeto establecer la organización y el funcionamiento del Colegio del Aire y de los establecimientos de Educación Militar que del mismo dependen.
+Las disposiciones del presente ordenamiento tienen por objeto establecer la organización y funcionamiento del Colegio del Aire y de los planteles que le dependen en lo relativo a la educación militar aérea, así como regular el proceso educativo y los procesos de admisión, de altas, de bajas y de reingresos, además de la acreditación, certificación y revalidación de estudios por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 1o. Bis.
+
+El Colegio de Aire depende de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 1o. Ter.
+
+Las direcciones del Colegio del Aire y de los planteles educativos deben vigilar el cumplimiento de las disposiciones contenidas en este reglamento.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 2o.
 
-El Colegio del Aire es una institución educativa militar que tiene como misión regir la formación profesional de los oficiales Pilotos Aviadores y de los servicios de la Fuerza Aérea para satisfacer las necesidades de ésta.
+El Colegio del Aire es una institución educativa militar que tiene como misión regir la formación profesional del personal con el grado de Oficial Piloto Aviador y de los servicios técnicos de la Fuerza Aérea, con base en los principios de honor, valor y lealtad como fundamentos de su educación axiológica.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 2o. Bis.
+
+Para efectos de este reglamento, se entienden como planteles, las instituciones educativas militares que dependen del Colegio del Aire.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 2o. Ter.
+
+Al Colegio del Aire le corresponde implementar la educación militar aérea de conformidad con lo establecido en el presente reglamento.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 2o. Quater.
+
+Los planteles tienen las misiones siguientes:
+
+I. Escuela Militar de Aviación es una institución de educación militar de tipo superior que tiene la misión de formar a las personas de la Fuerza Aérea como Oficiales Pilotos Aviadores, con las licenciaturas de Administración Militar y Pilotos Aviadores y de Seguridad Pública para satisfacer las necesidades de dicha Fuerza Armada y de la Secretaría de la Defensa Nacional;
+
+II. Escuela Militar de Mantenimiento y Abastecimiento es una institución de educación militar de tipo medio superior y superior que tiene la misión de formar a las personas de la Fuerza Aérea como Oficiales del Servicio de Material Aéreo para ejercer con liderazgo y profesionalismo el Mando de los Servicios Técnicos de la Fuerza Aérea Mexicana, que apoyen al cumplimiento de las misiones generales de las Fuerzas Armadas Mexicanas, además de contribuir al desarrollo aeronáutico del país, y
+
+III. Escuela Militar de Especialistas de Fuerza Aérea es una institución de educación militar de tipo superior que tiene la misión de formar a las personas de la Fuerza Aérea como Oficiales Meteorólogos, con las licenciaturas de Meteorología Militar y de Control de Vuelo, y de Aeronáutica Militar, así como Oficiales y Jefes Meteorólogos, con maestría en Ciencias en Meteorología.
 
 ### CAPÍTULO II. De la Dependencia
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 3o.
 
-El Colegio del Aire depende del Alto Mando del Ejército y Fuerza Aérea, a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+El Colegio del Aire depende del Alto Mando del Ejército y Fuerza Aérea, a través de la Dirección General, el cual tiene las atribuciones siguientes:
+
+I. Implementar la educación militar aérea, a través de los planteles;
+
+II. Proponer a la Dirección General la acreditación, certificación y revalidación de conocimientos militares, científicos, técnicos y humanísticos;
+
+III. Realizar investigaciones relacionadas con el arte y la ciencia de la guerra y con otras áreas científicas en el ramo aeronáutico;
+
+IV. Difundir la educación y cultura militar aérea, y
+
+V. Promover la práctica docente y la investigación.
 
 ### CAPÍTULO III. De los Objetivos
 
@@ -71,6 +123,28 @@ V. Estimular la superación profesional tanto individual como de conjunto y fome
 
 VI. Promover y fomentar la cultura de la seguridad aérea en todas las actividades propias del vuelo y en los servicios técnicos conexos, dentro del proceso enseñanza-aprendizaje que se imparte en los establecimientos de Educación Militar que del mismo dependen.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 4o. Bis.
+
+Los planteles tienen los objetivos siguientes:
+
+I. Proporcionar formación militar al personal discente en los aspectos disciplinarios e intelectuales;
+
+II. Desarrollar en el personal discente una formación axiológica sólida que fortalezca los valores nacionales y las virtudes militares;
+
+III. Proporcionar la formación militar para el ejercicio del Mando, con base en los principios de honor, valor y lealtad;
+
+IV. Preparar al personal discente para ejercer funciones operativas y administrativas en las unidades de vuelo;
+
+V. Formar personas pilotos aviadores militares;
+
+VI. Preparar al personal discente para desempeñarse como especialista en las áreas del servicio de material aéreo y asesorar al Mando en asuntos de su especialidad;
+
+VII. Preparar al personal discente para desempeñarse como especialista en las áreas de Control de Vuelo, Meteorología y como asesor del Mando en asuntos de su competencia, y
+
+VIII. Formar al personal discente en mantenimiento de aviación, abastecimiento de material aéreo, especialista en electrónica de aviación, y armamento aéreo.
+
 ## TÍTULO SEGUNDO. De la Organización
 
 ###### ARTÍCULO 5o.
@@ -83,11 +157,15 @@ Para su funcionamiento, el Colegio del Aire se integra con los siguientes órgan
 
 I. Dirección:
 
-Director.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Dirección;
 
 II. Subdirección:
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección;
 
 III. Sección Pedagógica:
 
@@ -173,11 +251,13 @@ E. Compañía de Servicios Técnicos, y
 
 F. Servicios Especiales.
 
-X. Unidad Ejecutora de Pagos.
+X. (DEROGADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 7o.
 
-Además de los órganos citados en el artículo anterior, se constituirá una Junta Técnica-Consultiva, con la finalidad de conocer y asesorar al Director del Colegio del Aire sobre problemas académicos y pedagógicos.
+El Colegio del Aire cuenta con una Junta Técnica-Consultiva cuyo objeto es asesorar a la Dirección de dicho Colegio sobre problemas académicos y pedagógicos.
 
 ###### ARTÍCULO 8o.
 
@@ -199,13 +279,17 @@ La organización y funcionamiento de cada uno de los establecimientos de Educaci
 
 ### CAPÍTULO I. De la Dirección
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-La Dirección es el órgano rector del Colegio del Aire, a cargo de un General de División o de Ala Piloto Aviador, Diplomado de Estado Mayor Aéreo, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
+La Dirección es el órgano rector del Colegio del Aire, la cual está a cargo de una persona con el grado de General de División o de Ala Piloto Aviador, De Estado Mayor, y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-El Director del Colegio del Aire tiene las atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo estipulado en las leyes y reglamentos militares, y además las siguientes:
+La Dirección del Colegio del Aire tiene, además de las atribuciones y responsabilidades que señalan las leyes y reglamentos militares aplicables para la Comandancia de Cuerpo de Tropa, las siguientes:
 
 I. Representar al Colegio del Aire;
 
@@ -247,25 +331,35 @@ XV. Promover la afiliación del personal del Colegio del Aire al Instituto de Se
 
 XVI. Conceder licencias ordinarias hasta por cuarenta y ocho horas cuando sea en plaza, debiendo verificar el motivo que originó la solicitud e informar a la Dirección General de Educación Militar y a la Sección Primera de los Estados Mayores de la Defensa Nacional y de la Fuerza Aérea, y
 
-XVII. Las demás que le sean asignadas por la Secretaría de la Defensa Nacional.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Las demás funciones que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPÍTULO II. De la Subdirección
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-La Subdirección del Colegio del Aire es un órgano de dirección del mismo, a cargo de un General de Grupo o Coronel Piloto Aviador, Diplomado de Estado Mayor Aéreo, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección es un órgano de Dirección del Colegio del Aire, la cual está a cargo de una persona con el grado de General de Grupo o Coronel Piloto Aviador, De Estado Mayor, y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-El Subdirector del Colegio del Aire tiene las atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo estipulado en las leyes y reglamentos militares, y además las siguientes:
+La Subdirección del Colegio del Aire tiene, además de las atribuciones y responsabilidades que señalan las leyes y reglamentos militares aplicables para la Segunda Comandancia de Cuerpo de Tropa, las siguientes:
 
-I. Suplir al Director del Colegio del Aire en el ejercicio de sus funciones durante sus ausencias temporales;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Suplir a la persona titular de la Dirección en el ejercicio de sus atribuciones durante sus ausencias;
 
 II. Presidir la Junta Técnica-Consultiva;
 
 III. Coordinar y supervisar las actividades de los diversos órganos subordinados;
 
-IV. Revisar y someter a consideración del Director los proyectos de planes y programas de estudios, así como los de prácticas y visitas de los establecimientos de Educación Militar que dependen del Colegio del Aire y supervisar su aplicación;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Revisar y someter a consideración de la Dirección, las altas, bajas y cambios del personal del Colegio del Aire y sus planteles, así como de los proyectos de prácticas y visitas de estos, y supervisar su aplicación;
 
 V. Supervisar que en los establecimientos de Educación Militar que dependen del Colegio del Aire se apliquen las directivas que en materia de educación emita la superioridad;
 
@@ -279,19 +373,27 @@ IX. Coordinar y consolidar los informes de los órganos que integran el Colegio 
 
 X. Recomendar los cambios necesarios en la organización y funcionamiento del Colegio del Aire;
 
-XI. Coordinar la elaboración y consolidación del proyecto de presupuesto del Colegio del Aire y de los establecimientos de Educación Militar que del mismo dependen, para presentarlo al Director, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XII. Las demás que le sean asignadas por el Director del Colegio del Aire.
+XI. Coordinar la elaboración y consolidación del proyecto de presupuesto del Colegio del Aire y de sus planteles, para someterlos a consideración de la Dirección, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO III. De la Sección Pedagógica
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa del Colegio del Aire, a cargo de un Teniente Coronel de Fuerza Aérea Piloto Aviador, Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección Pedagógica, mismo que además deberá tener experiencia docente o académica.
+La Sección Pedagógica es el órgano de planeación y evaluación educativa del Colegio del Aire, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea Piloto Aviador, De Estado Mayor y tener experiencia docente o académica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-El Jefe de la Sección Pedagógica del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección Pedagógica del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas de los establecimientos de Educación Militar que dependen del Colegio del Aire;
 
@@ -299,7 +401,9 @@ II. Supervisar y revisar la actualización de los planes generales de estudios y
 
 III. Seleccionar y recomendar los métodos y técnicas de enseñanza más apropiados para cada caso, realizando para el efecto una permanente investigación educativa que garantice su actualización y viabilidad;
 
-IV. Proponer al Director del Colegio del Aire:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Proponer a la Dirección del Colegio del Aire:
 
 A. Las adecuaciones y enmiendas al Plan General de Educación Militar en asuntos de su competencia;
 
@@ -311,7 +415,9 @@ D. Las adecuaciones o modificaciones a la organización y funciones del Colegio 
 
 E. El desarrollo integral de los cursos de las especialidades que se imparten en los establecimientos de Educación Militar que dependen del Colegio del Aire.
 
-V. Evaluar los resultados del proceso enseñanza-aprendizaje de los establecimientos de Educación Militar que dependen del Colegio del Aire y proponer medidas para mejorar el rendimiento del personal docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Evaluar los resultados del proceso enseñanza-aprendizaje de los planteles y proponer medidas para mejorar el rendimiento del personal docente y discente;
 
 VI. Llevar el control estadístico del proceso enseñanza-aprendizaje y recomendar medidas para su mejoramiento;
 
@@ -337,17 +443,23 @@ XVI. Proponer y promover programas y actividades de investigación científica y
 
 XVII. Proponer, organizar y participar en la integración de comités para investigar y actualizar aspectos relacionados con la educación, cultura y doctrina militar, y
 
-XVIII. Las demás que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO IV. De la Sección Académica
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-La Sección Académica es el órgano de control de ejecución y materialización de los planes y programas de estudio de los establecimientos de Educación Militar que dependen del Colegio del Aire, a cargo de un Teniente Coronel de Fuerza Aérea Piloto Aviador, Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección Académica, mismo que además deberá tener experiencia docente o académica.
+La Sección Académica es el órgano de control de ejecución y materialización de los planes de estudio de los planteles, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea Piloto Aviador, De Estado Mayor y tener experiencia docente o académica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 17.
 
-El Jefe de la Sección Académica del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección Académica del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades académicas de los establecimientos de Educación Militar que dependen del Colegio del Aire;
 
@@ -361,7 +473,9 @@ V. Supervisar la aplicación de la distribución de tiempo mensual de los establ
 
 VI. Coordinar y controlar al personal docente de los establecimientos de Educación Militar que dependen del Colegio del Aire;
 
-VII. Coordinar y supervisar el desarrollo de los trabajos relacionados con las tesis y los exámenes profesionales o sus equivalentes;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Coordinar y supervisar el desarrollo de los trabajos relacionados con las tesis y las evaluaciones profesionales o sus equivalentes;
 
 VIII. Llevar el seguimiento del programa socio-cultural de cada uno de los establecimientos de Educación Militar que dependen del Colegio del Aire y verificar su cumplimiento;
 
@@ -387,17 +501,23 @@ XVIII. Controlar, coordinar y supervisar el adecuado empleo de los laboratorios,
 
 XIX. Evaluar los conocimientos del área de idiomas en los establecimientos de Educación Militar que dependen del Colegio del Aire, y supervisar su correcta enseñanza, y
 
-XX. Las demás que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Las demás atribuciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO V. De la Sección de Difusión Cultural y Relaciones Públicas
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-La Sección de Difusión Cultural y Relaciones Públicas es un órgano de ejecución para la divulgación y enlace de las actividades dentro y fuera del plantel a cargo de un Teniente Coronel de Fuerza Aérea, Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección de Difusión Cultural y Relaciones Públicas, mismo que además deberá tener experiencia docente o académica.
+La Sección de Difusión Cultural y Relaciones Públicas es un órgano de ejecución para la divulgación y enlace de las actividades dentro y fuera del Colegio del Aire, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea, De Estado Mayor y tener experiencia docente o académica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-El Jefe de la Sección de Difusión Cultural y Relaciones Públicas del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección de Difusión Cultural y Relaciones Públicas del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
 I. Difundir la doctrina militar autorizada;
 
@@ -415,7 +535,9 @@ VII. Coordinar y controlar el material que se edite para difundir la doctrina mi
 
 VIII. Coordinar y supervisar la elaboración de artículos para ser publicados en la Revista del Ejército y Fuerza Aérea Mexicanos;
 
-IX. Formular los informes de la sección que sean ordenados por el Director del Colegio del Aire;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Formular los informes de la sección que sean ordenados por la Dirección del Colegio del Aire;
 
 X. Coordinar y controlar las actividades que realicen las subsecciones que del mismo dependen;
 
@@ -423,17 +545,23 @@ XI. Planear, coordinar, organizar y supervisar las ceremonias militares y evento
 
 XII. Difundir los principios, normas y procedimientos de seguridad aérea en los establecimientos de Educación Militar que dependen del Colegio del Aire, y
 
-XIII. Las demás que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO VI. De la Sección de Presupuesto y Contabilidad
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-La Sección de Presupuesto y Contabilidad del Colegio del Aire es el órgano contable y logístico del plantel, a cargo de un Teniente Coronel de Fuerza Aérea a quien se denomina Jefe de la Sección de Presupuesto y Contabilidad, que depende directamente del Director del Colegio del Aire.
+La Sección de Presupuesto y Contabilidad es el órgano contable y logístico del Colegio del Aire, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea y depende directamente de la persona titular de la Dirección del Colegio del Aire.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
-El Jefe de la Sección de Presupuesto y Contabilidad del Colegio del Aire tiene las siguientes atribuciones y responsabilidades:
+La Jefatura de la Sección de Presupuesto y Contabilidad del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar el proyecto del presupuesto anual del Colegio del Aire;
 
@@ -457,13 +585,17 @@ X. Controlar el depósito de abastecimientos comunes del Colegio del Aire.
 
 ### CAPÍTULO VII. De la Sección Administrativa
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-La Sección Administrativa del Colegio del Aire es el órgano de apoyo administrativo del plantel a cargo de un Teniente Coronel de Fuerza Aérea, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa es el órgano de apoyo administrativo del Colegio del Aire, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-El Jefe de la Sección Administrativa del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección Administrativa del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos de personal del Colegio del Aire y mantener completos y actualizados los expedientes del mismo;
 
@@ -489,19 +621,27 @@ XI. Recibir, tramitar y despachar la correspondencia oficial y particular de la 
 
 XII. Atender los asuntos oficiales de la Dirección, y
 
-XIII. Las demás que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO VIII. De la Sección de Transportes Terrestres
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 24.
 
-La Sección de Transportes Terrestres del Colegio del Aire es el órgano encargado de satisfacer las necesidades de transporte del plantel, a cargo de un Teniente Coronel de Fuerza Aérea, a quien se denomina Jefe de la Sección de Transportes Terrestres.
+La Sección de Transportes Terrestres es el órgano encargado de satisfacer las necesidades de transporte del Colegio del Aire, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-El Jefe de la Sección de Transportes Terrestres del Colegio del Aire tiene las siguientes atribuciones y responsabilidades:
+La Jefatura de la Sección de Transportes Terrestres del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
-I. Asesorar al Director en todos los asuntos relacionados con sus funciones;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Asesorar a la Dirección en todos los asuntos relacionados con sus atribuciones;
 
 II. Supervisar y vigilar que las licencias de los conductores estén vigentes y que sean renovadas oportunamente;
 
@@ -517,21 +657,31 @@ VII. Gestionar oportunamente la ministración de llantas, pintura, partes y refa
 
 VIII. Supervisar que el personal de conductores efectúe los cursos de capacitación respectivos, a fin de que conduzcan únicamente los vehículos militares para los que fueron capacitados, y
 
-IX. Las demás que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO IX. De la Ayudantía General
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-La Ayudantía General del Colegio del Aire es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Coronel de Fuerza Aérea Piloto Aviador, a quien se denomina Ayudante General.
+La Ayudantía General es el órgano encargado de satisfacer las necesidades internas del Colegio del Aire, la cual está a cargo de una persona con el grado de Coronel de Fuerza Aérea Piloto Aviador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-El Ayudante General del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
+La Ayudantía General del Colegio del Aire tiene las atribuciones y responsabilidades siguientes:
 
-I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta del Colegio del Aire;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-II. Representar en sus ausencias temporales al Subdirector del Colegio;
+I. Las correspondientes a la persona titular de la Ayudantía y de la Jefatura de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta del Colegio del Aire;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Representar en sus ausencias a la persona titular de la Subdirección del Colegio del Aire;
 
 III. Fungir como controlador de bienes inmuebles;
 
@@ -559,43 +709,59 @@ XIV. Participar en la elaboración del proyecto de presupuesto anual del Colegio
 
 XV. Supervisar el control de circulación y tránsito vehicular en el interior del plantel, y
 
-XVI. Las que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO X. De la Unidad Ejecutora de Pagos
 
 ###### ARTÍCULO 28.
 
-La Unidad Ejecutora de Pagos del Colegio del Aire está a cargo de un Jefe u Oficial pagador, a quien se denomina Jefe de la Unidad Ejecutora de Pagos, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 29.
 
-El Jefe de la Unidad Ejecutora de Pagos del Colegio del Aire, tiene la responsabilidad de proporcionar el servicio de pago de la Percepción Recreativa Estudiantil, haberes y demás percepciones al personal del mismo y al de los establecimientos de Educación Militar que del mismo dependen, y que se encuentren en la misma jurisdicción militar, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 30.
 
-La Unidad Ejecutora de Pagos normará sus actividades de conformidad con los ordenamientos respectivos.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO XI. De la Junta Técnica-Consultiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 31.
 
-La Junta Técnica-Consultiva del Colegio del Aire es el órgano colegiado que tiene por finalidad asesorar en materia pedagógica y académica al Director y se integra con:
+La Junta Técnica-Consultiva del Colegio del Aire es el órgano colegiado que tiene por finalidad asesorar en materia pedagógica y académica a la Dirección. Se integra con:
 
 I. Presidente:
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección;
 
 II. Vocales:
 
-A. Jefe de la Sección Pedagógica, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Jefe de la Sección Académica.
+A. La persona titular de la Jefatura de la Sección Pedagógica, y
 
-III. Secretario, que será el vocal de menor jerarquía y antigüedad.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. La persona titular de la Jefatura de la Sección Académica, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Secretaría, la cual está a cargo de la persona vocal de menor jerarquía y antigüedad.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 32.
 
-Los vocales de la Junta Técnica-Consultiva serán suplidos en sus ausencias, por un Jefe de Subsección de la Sección correspondiente.
+Las personas vocales de la Junta Técnica-Consultiva deben ser suplidos en sus ausencias, por la persona titular de la Jefatura de Subsección de su Sección.
 
 ###### ARTÍCULO 33.
 
@@ -617,9 +783,13 @@ V. Recomendar los cambios necesarios al Manual de Organización y Funcionamiento
 
 VI. Proponer al personal directivo y académico del Colegio del Aire que se haga acreedor a recibir alguna recompensa;
 
-VII. Recibir en audiencia al personal en instrucción que se le haya dictaminado la baja de alguno de los establecimientos de Educación Militar que dependen del Colegio del Aire por motivos académicos, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Las demás que en materia pedagógica y académica le asigne el Director del Colegio del Aire.
+VII. Recibir en audiencia al personal discente que se le haya dictaminado la baja de alguno de los planteles por motivos académicos, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Las demás atribuciones que en materia pedagógica y académica le asigne la Dirección del Colegio del Aire.
 
 ## TÍTULO CUARTO. Del Personal
 
@@ -629,15 +799,23 @@ El personal del Colegio del Aire se clasifica como sigue:
 
 I. Directivo:
 
-A. Director, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Subdirector.
+A. La persona titular de la Dirección, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. La persona titular de la Subdirección;
 
 II. Académico:
 
-A. Jefes de las Secciones Pedagógica, Académica y de Difusión Cultural y Relaciones Públicas;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Jefes de las Subsecciones de las Secciones Pedagógica, Académica y de Difusión Cultural y Relaciones Públicas, y
+A. Las personas titulares de las jefaturas de las secciones Pedagógica, Académica, y de Difusión Cultural y Relaciones Públicas;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. Las personas titulares de las jefaturas de las subsecciones de las secciones Pedagógica, Académica, y de Difusión Cultural y Relaciones Públicas, y
 
 C. Docentes:
 
@@ -645,23 +823,23 @@ a. Profesores, y
 
 b. Instructores.
 
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 III. Administrativo:
 
-A. Ayudante General;
+A. La persona titular de la Ayudantía General;
 
-B. Jefe de la Sección Administrativa;
+B. La persona titular de la Jefatura de la Sección Administrativa;
 
-C. Jefe de la Sección de Presupuesto y Contabilidad;
+C. La persona titular de la Jefatura de la Sección de Presupuesto y Contabilidad;
 
-D. Jefe de la Unidad Ejecutora de Pagos;
+D. La persona titular de la Jefatura de la Sección de Transportes Terrestres;
 
-E. Jefe de la Sección de Transportes Terrestres;
+E. Las personas titulares de las jefaturas de las subsecciones de la Sección Administrativa;
 
-F. Jefes de las Subsecciones de la Sección Administrativa;
+F. Las personas titulares de las jefaturas de las subsecciones de la Sección de Transportes Terrestres, y
 
-G. Jefes de las Subsecciones de la Sección de Transportes Terrestres, y
-
-H. Jefes de las Subsecciones de la Sección de Presupuesto y Contabilidad.
+G. Las personas titulares de las jefaturas de las subsecciones de la Sección de Presupuesto y Contabilidad, y
 
 IV. De los Servicios:
 
@@ -687,19 +865,29 @@ La Escuela Militar de Aviación se integra con los órganos siguientes:
 
 I. Dirección:
 
-Director.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Dirección;
 
 II. Subdirección:
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-III. Cuerpo de Cadetes y Oficiales en Instrucción:
+La persona titular de la Subdirección;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Cuerpo de Cadetes:
 
 A. Comandante y Grupo de Comando;
 
-B. Jefes y Oficiales del Cuerpo, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-C. Personal en Instrucción.
+B. Las personas con el grado de Jefes y Oficiales del Cuerpo, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. Personal discente;
 
 IV Sección Pedagógica:
 
@@ -785,19 +973,27 @@ La Escuela Militar de Mantenimiento y Abastecimiento se integra con los órganos
 
 I. Dirección:
 
-Director.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Dirección;
 
 II. Subdirección.
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-III. Cuerpo de Cadetes y Clases en Instrucción:
+La persona titular de la Subdirección;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Cuerpo de Cadetes:
 
 A. Comandante y Grupo de Comando;
 
 B. Oficiales del Cuerpo, y
 
-C. Personal en Instrucción.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. Personal discente;
 
 IV. Sección Pedagógica:
 
@@ -885,19 +1081,27 @@ La Escuela Militar de Especialistas de Fuerza Aérea se integra con los órganos
 
 I. Dirección:
 
-Director.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Dirección;
 
 II. Subdirección:
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-III. Cuerpo de Cadetes y Oficiales en Instrucción:
+La persona titular de la Subdirección;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Cuerpo de Cadetes:
 
 A. Comandante y Grupo de Comando;
 
 B. Oficiales del Cuerpo, y
 
-C. Personal en Instrucción.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. Personal discente;
 
 IV. Sección Pedagógica:
 
@@ -909,11 +1113,15 @@ C. Subsección de Estadística y Evaluación;
 
 D. Subsección Psicopedagógica;
 
-E. Subsección de la Carrera de Meteorólogo Militar;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-F. Subsección del Curso de Formación de Oficiales Aerologistas, y
+E. Subsección del Curso de Formación del Personal de Oficiales de Fuerza Aérea Meteorólogos, Licenciatura de Meteorología Militar, y
 
-G. Subsección del Curso de Formación de Oficiales Controladores de Vuelo.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+F. Subsección del Curso de Formación del Personal de Oficiales de Fuerza Aérea, Controladores de Vuelo, Licenciatura de Aeronáutica Militar;
+
+G. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 V. Sección Académica:
 
@@ -923,11 +1131,15 @@ B. Subsección de Control Académico y Recursos Didácticos;
 
 C. Subsección de Difusión Cultural y Relaciones Públicas;
 
-D. Subsección de la Carrera de Meteorólogo Militar;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-E. Subsección del Curso de Formación de Oficiales Aerologistas, y
+D. Subsección del Curso de Formación del Personal de Oficiales de Fuerza Aérea Meteorólogos, Licenciatura de Meteorología Militar, y
 
-F. Subsección del Curso de Formación de Oficiales Controladores de Vuelo.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+E. Subsección del Curso de Formación del Personal de Oficiales de Fuerza Aérea, Controladores de Vuelo, Licenciatura de Aeronáutica Militar;
+
+F. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 VI. Ayudantía:
 
@@ -965,15 +1177,19 @@ C. Laboratorio de Control de Tránsito Aéreo.
 
 Además de los órganos señalados para cada uno de los establecimientos de Educación Militar que dependen del Colegio del Aire, en cada uno se integrará una Junta Técnica-Consultiva, con la finalidad de conocer y asesorar a la Dirección del plantel correspondiente sobre problemas académicos y pedagógicos.
 
-En la Escuela Militar de Aviación, se integrará un Comité Investigador de Accidentes Aéreos, con el objeto de auxiliar al Director de este plantel en la investigación de incidentes y accidentes aéreos que se registren, para su empleo en la seguridad aérea.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+En la Escuela Militar de Aviación debe integrarse un Comité Investigador de Accidentes Aéreos, con el objeto de auxiliar a la Dirección de este plantel en la investigación de incidentes y accidentes aéreos que se registren, para su empleo en la seguridad aérea.
 
 ## TÍTULO SEGUNDO. De las Funciones Genéricas
 
 ### CAPÍTULO I. De las Direcciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
-Los Directores de las escuelas militares que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo estipulado en las leyes y reglamentos militares, y además las siguientes:
+Las personas titulares de las direcciones de los planteles tienen, además de las facultades y responsabilidades que señalan las leyes y reglamentos militares aplicables para la persona titular de la Comandancia de Cuerpo de Tropa, las siguientes:
 
 I. Representar a la escuela militar correspondiente;
 
@@ -987,7 +1203,9 @@ V. Convocar a la Junta Técnica-Consultiva y al Comité Investigador de Accident
 
 VI. Conferir los cargos que desempeñe el personal académico, administrativo y de la planta de la escuela, excepto aquellos que sean designados por el Alto Mando;
 
-VII. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros del Cuerpo de Cadetes y Oficiales en Instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros del Cuerpo de Cadetes;
 
 VIII. Vigilar permanentemente el bienestar del personal del plantel, promoviendo su afiliación al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a las disposiciones aplicables, así como el desarrollo de actividades para elevar su moral;
 
@@ -1013,29 +1231,43 @@ XIV. Presentar a la Dirección del Colegio del Aire el proyecto de presupuesto d
 
 XV. Firmar la documentación oficial que se genere con motivo de las actividades académicas y administrativas del plantel, y
 
-XVI. Las demás que le sean asignadas por el Director del Colegio del Aire.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Las demás funciones que le asigne la persona titular de la Dirección del Colegio del Aire.
 
 ### CAPÍTULO II. De las Subdirecciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Los Subdirectores de las escuelas militares que dependen del Colegio del Aire tienen las atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo estipulado en las leyes y reglamentos militares, y además las siguientes:
+Las subdirecciones de los planteles tienen, además de las atribuciones y responsabilidades que señalan las leyes y reglamentos militares aplicables para la Segunda Comandancia de Cuerpo de Tropa, las siguientes:
 
-I. Suplir al Director del plantel en el ejercicio de sus funciones durante sus ausencias temporales;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-II. Desempeñarse como Jefe de Estudios del plantel;
+I. Suplir a la persona titular de la Dirección de su plantel en el ejercicio de sus facultades durante sus ausencias;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Tener a su cargo la Jefatura de Estudios de su plantel;
 
 III. Presidir la Junta Técnica-Consultiva y el Comité Investigador de Accidentes Aéreos en el caso de la Escuela Militar de Aviación;
 
 IV. Coordinar y supervisar las actividades de los diversos órganos subordinados;
 
-V. Coordinar la elaboración y someter a la consideración del Director del plantel, los planes y programas de estudios, así como los de prácticas y visitas;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Coordinar la elaboración y someter a la consideración de la persona titular de la Dirección de su plantel, los planes de estudios, así como los de prácticas y visitas;
 
 VI. Proponer programas y cursos de capacitación y actualización pedagógica para el personal académico;
 
-VII. Coordinar y supervisar la elaboración y actualización permanente del Manual de Organización y Funcionamiento del plantel, así como recomendar al Director los cambios necesarios;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Coordinar y consolidar los informes de los diferentes órganos que integran el plantel, para presentarlos al Director;
+VII. Coordinar y supervisar la elaboración y actualización permanente del Manual de Organización y Funcionamiento de su plantel, así como recomendar a la persona titular de la Dirección las modificaciones correspondientes;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Coordinar y consolidar los informes de los diferentes órganos que integran su plantel, para presentarlos a la persona titular de la Dirección;
 
 IX. Recomendar los cambios necesarios en la organización y funcionamiento del plantel;
 
@@ -1049,61 +1281,97 @@ XIII. Proponer la designación de profesores titulares y adjuntos;
 
 XIV. Coordinar y certificar la elaboración de la documentación que se genere con motivo de las actividades pedagógicas, académicas y de graduación;
 
-XV. Coordinar la elaboración del proyecto de presupuesto del plantel y presentarlo al Director;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XVI. Proponer el personal de los Jurados que deben integrarse para los exámenes señalados en el presente Reglamento, así como para aquellos comités en actividades que lo requieran;
+XV. Coordinar la elaboración del proyecto de presupuesto de su plantel y presentarlo a la persona titular de la Dirección;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Proponer el personal de los jurados que deben integrarse para las evaluaciones señaladas en el presente reglamento, así como para aquellos comités en actividades que lo requieran;
 
 XVII. Presidir el Comité Interno, responsable de elaborar la evaluación institucional del plantel, y
 
-XVIII. Las demás que sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO III. De los Comandantes de Cuerpo de Cadetes, Oficiales y Clases en Instrucción
+XVIII. Las demás atribuciones que le asigne la persona titular de la Dirección de su plantel.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. De las Comandancias de los Cuerpos de Cadetes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 44.
 
-Los Comandantes de los diferentes cuerpos del personal en instrucción de las escuelas militares que dependen del Colegio del Aire tienen las atribuciones y responsabilidades siguientes:
+Las Comandancias de los Cuerpos de Cadetes de los planteles tienen las atribuciones y responsabilidades siguientes:
 
-I. Ejercer el mando del personal en instrucción del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-II. Suplir en sus ausencias temporales al Subdirector del plantel, con excepción de la Escuela Militar de Aviación, la cual se sujetará a lo establecido en la fracción I del artículo 49 de este Reglamento;
+I. Ejercer el Mando del personal discente de su plantel;
 
-III. Contribuir en la educación integral del personal en instrucción en los aspectos militar, intelectual, moral y físico;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Suplir en sus ausencias a la persona titular de la Subdirección del plantel, con excepción de la Escuela Militar de Aviación, la cual se sujeta a lo establecido en la fracción I del artículo 49 de este reglamento;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Contribuir en la educación integral del personal discente de su plantel en los aspectos militar, intelectual, ético y físico;
 
 IV. Planear, coordinar y supervisar la instrucción militar en sus diferentes niveles, con base en las directivas que sobre el particular reciba de la superioridad;
 
-V. Supervisar la buena presentación del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Supervisar la buena presentación del personal discente;
 
 VI. Proponer la reunión del Consejo de Honor cuando corresponda;
 
-VII. Supervisar el pago oportuno de la Percepción Recreativa Estudiantil o haberes al personal en instrucción, según corresponda;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Supervisar la conservación del armamento y municiones, vestuario, equipo y demás cargos del personal en instrucción;
+VII. Supervisar el pago oportuno de la Pensión Recreativa Estudiantil o haberes al personal discente, según corresponda;
 
-IX. Supervisar que el personal en instrucción que se encuentre en el cuadro de desaplicados cumpla con el programa de estudios controlado;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-X. Vigilar que el personal en instrucción se encuentre permanentemente en óptimas condiciones físicas;
+VIII. Supervisar la conservación del armamento y municiones, así como del vestuario, equipo y demás cargos del personal discente;
 
-XI. Controlar estadísticamente los correctivos disciplinarios impuestos al personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Supervisar que el personal discente que se encuentre en el cuadro de desaplicados cumpla con el programa de estudio controlado;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+X. Vigilar que el personal discente se encuentre permanentemente en óptimas condiciones físicas;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Controlar estadísticamente los correctivos disciplinarios impuestos al personal discente;
 
 XII. Capacitar y supervisar al personal de Oficiales asignados al cuerpo, respecto de las funciones y responsabilidades que desarrollan en el mismo;
 
-XIII. Controlar y supervisar el desempeño de los servicios de arma, económicos y especiales que realice el personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Controlar y supervisar el desempeño de los servicios de arma, económicos y especiales que realice el personal discente;
 
 XIV. Participar en la elaboración del Plan de Seguridad y Defensa del plantel y otros que sean necesarios;
 
-XV. Proponer a la superioridad al personal en instrucción que por su don de mando, aprovechamiento y disciplina se haga acreedor a recibir distinción o grado jerárquico;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Proponer, a la Dirección de su plantel, al personal discente que por su don de mando, aprovechamiento y disciplina sea acreedor a recibir una distinción o grado jerárquico;
 
 XVI. Formular los informes de su competencia;
 
 XVII. Coordinar las actividades del Cuerpo con las de los demás órganos del plantel, y
 
-XVIII. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Las demás funciones que le asigne la persona titular de la Dirección de su plantel.
 
 ### CAPÍTULO IV. De las Secciones Pedagógicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 45.
 
-Los Jefes de las Secciones Pedagógicas de las escuelas militares que dependen del Colegio del Aire tienen las atribuciones y responsabilidades siguientes:
+Las jefaturas de las secciones pedagógicas de los planteles tienen las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -1111,9 +1379,13 @@ II. Formular, revisar y actualizar los planes y programas de estudio, así como 
 
 III. Seleccionar y especificar los métodos y técnicas de enseñanza por aplicarse en la escuela;
 
-IV. Evaluar los resultados del proceso enseñanza-aprendizaje y proponer medidas para mejorar el rendimiento del personal docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-V. Concentrar, procesar y publicar las calificaciones del personal en instrucción;
+IV. Evaluar los resultados del proceso enseñanza-aprendizaje y proponer medidas para mejorar el rendimiento del personal docente y discente de su plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Concentrar, procesar y publicar las calificaciones del personal discente de su plantel;
 
 VI. Integrar los diferentes grupos pedagógicos, de conformidad con las directivas que reciban de la superioridad;
 
@@ -1123,7 +1395,9 @@ VIII. Coordinar con la Sección de Vuelos del plantel correspondiente, los méto
 
 IX. Proponer la adquisición de bibliografía acorde con el avance militar, científico y tecnológico;
 
-X. Llevar el seguimiento psicológico del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+X. Llevar el seguimiento psicológico del personal discente de su plantel;
 
 XI. Elaborar la documentación que corresponda al término de cada ciclo lectivo;
 
@@ -1135,7 +1409,9 @@ XIV. Proponer el programa de actividades psicopedagógicas;
 
 XV. Controlar el archivo pedagógico;
 
-XVI. Coordinar la formulación de los exámenes profesionales y supervisar su aplicación;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Coordinar la formulación de las evaluaciones profesionales y supervisar su aplicación;
 
 XVII. Coordinar sus actividades con los demás órganos del plantel;
 
@@ -1145,7 +1421,9 @@ XIX. Generar la información estadística del plantel;
 
 XX. Realizar actividades de investigación y actualización de la doctrina militar aérea vigente;
 
-XXI. Elaborar el registro y cómputo de las faltas académicas, así como de las asignaturas reprobadas por el personal en instrucción, las cuales se darán a conocer periódicamente al personal afectado;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Elaborar el registro y cómputo de las faltas académicas, así como de las asignaturas reprobadas por el personal discente, las cuales deben darse a conocer periódicamente al personal discente afectado;
 
 XXII. Llevar a cabo actividades académicas para la recuperación del personal reprobado, por medio de un programa que se aplicará en horas no laborables;
 
@@ -1157,13 +1435,17 @@ XXV. Crear estímulos para el personal sobresaliente en actividades pedagógicas
 
 XXVI. Planear, coordinar y conducir las actividades de admisión al plantel, y
 
-XXVII. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII. Las demás funciones que le asigne la persona titular de la Dirección de su plantel.
 
 ### CAPÍTULO V. De las Secciones Académicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 46.
 
-Los Jefes de las Secciones Académicas de las escuelas militares que dependen del Colegio del Aire tienen las atribuciones y responsabilidades siguientes:
+Las jefaturas de las secciones académicas de los planteles tienen las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar el desarrollo de los planes y programas de estudio del plantel;
 
@@ -1185,9 +1467,13 @@ IX. Aplicar y supervisar el desarrollo de la distribución de tiempo mensual y s
 
 X. Coordinar y controlar al personal docente del plantel;
 
-XI. Coordinar y supervisar las actividades académicas del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XII. Organizar, controlar y conducir los trabajos relacionados con las tesis y los exámenes profesionales;
+XI. Coordinar y supervisar las actividades académicas del personal discente de su plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Organizar, controlar y conducir los trabajos relacionados con las tesis y las evaluaciones profesionales;
 
 XIII. Llevar el seguimiento del programa socio-cultural del plantel y verificar su cumplimiento;
 
@@ -1203,17 +1489,35 @@ XVIII. Coordinar sus actividades con los demás órganos del plantel;
 
 XIX. Regir la utilización de los diferentes laboratorios y talleres;
 
-XX. Coordinar conferencias sobre temas de interés profesional para el personal del plantel, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XXI. Las demás que le sean asignadas por el Director del plantel.
+XX. Coordinar conferencias sobre temas de interés profesional para el personal de su plantel;
 
-### CAPÍTULO VI. De los Ayudantes
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Coordinar y aplicar las evaluaciones al personal discente y a las personas aspirantes a docentes y de apoyo a la educación de la asignatura relativa a un idioma distinto al español, así como remitir los resultados a la Sección Pedagógica y proponer los métodos de evaluación, para lo cual debe actualizar la base de datos y registros que correspondan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Implementar el Centro de Control de la Educación No Escolarizada, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Las demás funciones que les encomiende la persona titular de la Dirección de su plantel.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO VI. De las Ayudantías
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 47.
 
-Los Ayudantes de las escuelas militares que dependen del Colegio del Aire tienen las atribuciones y responsabilidades siguientes:
+Las ayudantías de los planteles tienen las atribuciones y responsabilidades siguientes:
 
-I. Las correspondientes a las de un Ayudante y a las de un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la escuela;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Las correspondientes a las de una Ayudantía y a las de una Jefatura de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de su plantel;
 
 II. Vigilar el cumplimiento de las diferentes órdenes que emita la superioridad con respecto al servicio de régimen interior;
 
@@ -1231,25 +1535,35 @@ VIII. Coordinar y controlar la aplicación del rol de vacaciones del personal pe
 
 IX. Formular los informes de su competencia;
 
-X. Coordinar sus actividades con los demás órganos del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Nombrar a las comisiones que deban representar a la escuela, conforme a las directivas emanadas del Director;
+X. Aplicar y supervisar las medidas de contra inteligencia, de conformidad con las directivas que emita la Secretaría de la Defensa Nacional;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Nombrar a las comisiones que deban representar a su plantel, conforme a las directivas emitidas por la Dirección;
 
 XII. Controlar las actividades que deban realizar los servicios técnicos y generales;
 
-XIII. Organizar y supervisar la circulación y control de tránsito en el interior del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Supervisar que el pelotón de Sanidad garantice la atención médica de calidad al personal discente y de la planta de su plantel;
 
 XIV. Participar en la elaboración del proyecto de presupuesto anual del plantel, en el ámbito de su competencia;
 
 XV. Coordinar y supervisar la elaboración de la documentación relacionada con los vehículos terrestres de cargo en el plantel, y
 
-XVI. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Las demás funciones que les encomiende la persona titular de la Dirección de su plantel.
 
 ### CAPÍTULO VII. De las Secciones Administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Los Jefes de las Secciones Administrativas de las escuelas militares que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
+Las jefaturas de las secciones administrativas de los planteles tienen las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
 
@@ -1285,17 +1599,25 @@ XVI. Recibir, tramitar y despachar la correspondencia oficial y particular de la
 
 XVII. Atender los asuntos oficiales de la Dirección, y
 
-XVIII. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Las demás funciones que les encomiende la persona titular de la Dirección de su plantel.
 
 ### CAPÍTULO VIII. De la Sección de Vuelos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-El Jefe de la Sección de Vuelos de la Escuela Militar de Aviación tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección de Vuelos de la Escuela Militar de Aviación tiene las atribuciones y responsabilidades siguientes:
 
-I. Suplir en sus ausencias temporales al Subdirector del plantel;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-II. Planear, conducir y evaluar el adiestramiento de vuelo en sus diferentes fases, del personal en instrucción e instructores de vuelo del plantel;
+I. Suplir en sus ausencias a la persona titular de la Subdirección del plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Planear, conducir y evaluar el adiestramiento de vuelo en sus diferentes fases, del personal discente y de las personas instructoras de vuelo del plantel;
 
 III. Supervisar la aplicación de directivas y procedimientos para la ejecución y seguridad de los vuelos;
 
@@ -1311,13 +1633,17 @@ VIII. Formular los informes de la Sección;
 
 IX. Coordinar sus actividades con los demás órganos del plantel, y
 
-X. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+X. Las demás funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO IX. De la Sección de Seguridad Aérea
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-El Jefe de la Sección de Seguridad Aérea de la Escuela Militar de Aviación tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección de Seguridad Aérea de la Escuela Militar de Aviación tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar los programas de seguridad aérea y prevención de accidentes del plantel;
 
@@ -1337,13 +1663,17 @@ VIII. Supervisar el cumplimiento de los Procedimientos Sistemáticos de Operar e
 
 IX. Evaluar y estandarizar los procedimientos aplicados en el desarrollo de las operaciones aéreas y los trabajos relacionados, y
 
-X. Las demás que le sean asignadas por la Dirección del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+X. Las demás funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO X. De la Sección de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 51.
 
-El Jefe de la Sección de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea de la Escuela Militar de Aviación tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea de la Escuela Militar de Aviación tiene las atribuciones y responsabilidades siguientes:
 
 I. Aplicar programas de mantenimiento del material aéreo y bélico de Fuerza Aérea de cargo en el plantel;
 
@@ -1369,13 +1699,17 @@ XI. Formular los informes de la Sección;
 
 XII. Coordinar sus actividades con los demás órganos del plantel, y
 
-XIII. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Las demás funciones que le encomiende la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO XI. De las Secciones de Laboratorios y Talleres
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 52.
 
-Los Jefes de las Secciones de Laboratorios y Talleres de las escuelas militares que dependen del Colegio del Aire tienen las atribuciones y responsabilidades siguientes:
+Las jefaturas de las secciones de laboratorios y talleres de los planteles tienen las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar el empleo de los laboratorios y talleres con que cuenta el plantel;
 
@@ -1387,9 +1721,13 @@ IV. Supervisar que las prácticas en los laboratorios se lleven a cabo conforme 
 
 V. Vigilar el adecuado desarrollo de las prácticas, trabajos y otras actividades que se desarrollen en los laboratorios y talleres;
 
-VI. Supervisar la aplicación de exámenes prácticos que realice el personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Proponer la elaboración de ayudas didácticas para facilitar la impartición de las materias al personal en instrucción;
+VI. Supervisar la aplicación de evaluaciones prácticas que realice el personal discente de su plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Proponer la elaboración de ayudas didácticas para facilitar la impartición de las materias al personal discente de su plantel;
 
 VIII. Proporcionar y gestionar, en su caso, el mantenimiento preventivo y correctivo de los equipos y material de cargo en los laboratorios y talleres;
 
@@ -1397,33 +1735,49 @@ IX. Proponer la adquisición y actualización de equipo, material didáctico y h
 
 X. Formular los informes de competencia de la Sección, y
 
-XI. Las demás que le sean asignadas por el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Las demás funciones que le asigne la persona titular de la Dirección de su plantel.
 
 ### CAPÍTULO XII. De las Juntas Técnicas-Consultivas y del Comité Investigador de Accidentes Aéreos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 53.
 
-Las Juntas Técnicas-Consultivas de las escuelas militares que dependen del Colegio del Aire, son órganos colegiados que tienen por finalidad asesorar en materia pedagógica y académica al Director del plantel y se integran con:
+Las juntas técnico-consultivas de los planteles son órganos colegiados que tienen por finalidad asesorar en materia pedagógica y académica a la Dirección de su plantel y se integran con:
 
 I. Presidente:
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección;
 
 II. Vocales:
 
-A. Jefe de la Sección Pedagógica;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Jefe de la Sección Académica, y
+A. La persona titular de la Jefatura de la Sección Pedagógica;
 
-C. Comandante del Cuerpo de Cadetes, Oficiales y Clases en Instrucción.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-En el caso de la Escuela Militar de Aviación, además formarán parte de la Junta Técnica-Consultiva, como vocales, el Jefe de la Sección de Vuelos y el Jefe de la Sección de Seguridad Aérea.
+B. La persona titular de la Jefatura de la Sección Académica, y
 
-III. Secretario, que será el vocal de menor jerarquía y antigüedad.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. La persona titular de la Comandancia del Cuerpo de Cadetes.
+
+En el caso de la Escuela Militar de Aviación, además deben formar parte de la Junta Técnica-Consultiva, como vocales, la persona titular de la Jefatura de la Sección de Vuelos y la persona titular de la Jefatura de la Sección de Seguridad Aérea, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Secretaría, la cual está a cargo de la persona vocal de menor jerarquía y antigüedad.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-Los Vocales de las Juntas Técnicas-Consultivas serán suplidos en sus ausencias, por un jefe de Subsección de la Sección correspondiente y por el Jefe del Grupo de Comando del Cuerpo de Cadetes, Oficiales y Clases en instrucción, según corresponda.
+Las personas vocales de las juntas técnico-consultivas deben ser suplidas en sus ausencias por la persona titular de la Jefatura de Subsección de su Sección y por la persona titular de la Jefatura del Grupo de Comando del Cuerpo de Cadetes, según corresponda.
 
 ###### ARTÍCULO 55.
 
@@ -1435,19 +1789,29 @@ Las funciones de las Juntas Técnicas-Consultivas son:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
-II. Analizar los planes y programas de estudios del plantel y recomendar a la Dirección del mismo su actualización, para que respondan al perfil profesional de egreso del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Analizar los planes de estudio de su plantel y recomendar a la persona titular de la Dirección su actualización, para que respondan al perfil profesional de egreso del personal discente;
 
 III. Recomendar los cambios necesarios al Manual de Organización y Funcionamiento del plantel;
 
-IV. Evaluar la actuación del personal académico, docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Evaluar la actuación del personal académico, docente y discente de su plantel;
 
 V. Analizar los resultados de la evaluación institucional, para mejorar los aspectos académicos y pedagógicos;
 
-VI. Proponer al personal directivo, académico y en instrucción, que se haga acreedor a recibir alguna recompensa;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Recibir en audiencia al personal en instrucción que se le haya determinado baja del plantel correspondiente por motivos académicos, y
+VI. Proponer al personal directivo, académico y discente de su plantel, que sea acreedor a recibir alguna recompensa;
 
-VIII. Las que en materia pedagógica y académica les asigne el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Recibir en audiencia al personal discente que se le haya determinado baja de su plantel por motivos académicos, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Las demás funciones que en materia pedagógica y académica les encomiende la persona titular de la Dirección de su plantel.
 
 ###### ARTÍCULO 57.
 
@@ -1455,23 +1819,35 @@ El Comité Investigador de Accidentes Aéreos de la Escuela Militar de Aviación
 
 I. Presidente:
 
-Subdirector.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección;
 
 II. Vocales:
 
-A. Jefe de la Sección de Vuelos;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Jefe de la Sección de Seguridad Aérea;
+A. La persona titular de la Jefatura de la Sección de Vuelos;
 
-C. Jefe de la Sección de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. La persona titular de la Jefatura de la Sección de Seguridad Aérea;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. La persona titular de la Jefatura de la Sección de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea, y
 
 D. Comandante del Escuadrón de Vuelo respectivo.
 
-III. Secretario, que será el vocal de menor jerarquía y antigüedad.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Secretaría, la cual está a cargo de la persona vocal de menor jerarquía y antigüedad.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 58.
 
-Los vocales del Comité Investigador de Accidentes Aéreos, serán suplidos en sus ausencias por un Jefe de Subsección y por el oficial de operaciones del escuadrón, según corresponda.
+Las personas vocales del Comité Investigador de Accidentes Aéreos deben ser suplidas en sus ausencias por la persona titular de la Jefatura de su Subsección y por la persona titular de la Oficialía de operaciones del escuadrón, según corresponda.
 
 ###### ARTÍCULO 59.
 
@@ -1485,7 +1861,9 @@ III. Proponer medidas tendientes a evitar incidentes y accidentes aéreos en el 
 
 IV. Llevar el registro y estadística de los incidentes y accidentes aéreos de las operaciones aéreas realizadas por la escuela, y
 
-V. Las demás que en materia de vuelos le asigne el Director del plantel.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Las demás funciones que en materia de vuelos le encomiende la Dirección del plantel.
 
 ## TÍTULO TERCERO. Del Personal
 
@@ -1497,15 +1875,23 @@ El personal de las escuelas militares que dependen del Colegio del Aire, se clas
 
 I. Directivo:
 
-A. Director, y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Subdirector.
+A. La persona titular de la Dirección, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. La persona titular de la Dirección;
 
 II. Académico:
 
-A. Jefes de las Secciones Pedagógica, Académica, de Vuelos, de Seguridad Aérea y de Laboratorios y Talleres; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Jefes de las Subsecciones de las Secciones Pedagógica, Académica, de Vuelos, de Seguridad Aérea y de Laboratorios y Talleres;
+A. Las personas titulares de las jefaturas de las secciones Pedagógica, Académica, de Vuelos, de Seguridad Aérea y de Laboratorios y Talleres, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+B. Las personas titulares de las jefaturas de las subsecciones de las secciones Pedagógica, Académica, de Vuelos, de Seguridad Aérea y de Laboratorios y Talleres;
 
 C. Docente:
 
@@ -1513,13 +1899,17 @@ a. Profesores, y
 
 b. Instructores.
 
-III. Del Cuerpo de Cadetes, Oficiales y Clases en Instrucción:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Del Cuerpo de Cadetes:
 
 A. Comandante y Grupo de Comando;
 
 B. Oficiales del Cuerpo, y
 
-C. Personal en Instrucción.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+C. Personal discente;
 
 IV. Administrativo:
 
@@ -1527,11 +1917,17 @@ A. Ayudante;
 
 B. Subayudante;
 
-C. Jefe de la Sección Administrativa;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-D. Jefe de la Sección de Mantenimiento y Abastecimiento, y
+C. La persona titular de la Jefatura de la Sección Administrativa;
 
-E. Jefes de las Subsecciones de las Secciones Administrativa y de Mantenimiento y Abastecimiento.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+D. La persona titular de la Jefatura de la Sección de Mantenimiento y Abastecimiento, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+E. Las personas titulares de las jefaturas de las subsecciones de las secciones Administrativa y de Mantenimiento y Abastecimiento;
 
 V. De los Servicios:
 
@@ -1539,9 +1935,11 @@ Personal de los servicios técnicos, administrativos y generales y aquel otro no
 
 ### CAPÍTULO II. Del Personal Docente
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 61.
 
-Al personal docente le corresponde el proceso enseñanza-aprendizaje de las asignaturas a su cargo y tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y en las disposiciones que emita la superioridad. Este personal puede ser profesor o instructor.
+Se considera personal docente a las personas militares y civiles, nacionales o extranjeras, que tienen a su cargo la aplicación del proceso educativo en los planteles, conforme a las disposiciones emitidas por la Dirección y Rectoría y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 62.
 
@@ -1555,27 +1953,39 @@ Es instructor el militar a quien se encomienda la impartición de conocimientos 
 
 Los profesores e instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo por dichas actividades.
 
-### CAPÍTULO III. Del Personal en Instrucción
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. Del Personal Discente
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-El personal en instrucción perteneciente a las escuelas militares que dependen del Colegio del Aire, será denominado como sigue:
+Se considera personal discente a las personas militares o civiles, nacionales y extranjeras, que hayan sido aceptadas, inscritas y se encuentren cursando los estudios que se imparten en los planteles. El personal discente de los planteles se denomina conforme a lo siguiente:
 
-I. Los Oficiales y Clases de la Fuerza Aérea y del Ejército, como Oficiales y Clases en Instrucción, respectivamente, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Los Oficiales y Clases de la Fuerza Aérea y del Ejército, como Oficiales y Clases Discentes, respectivamente, y
 
 II. El personal procedente de tropa y los civiles en los cursos de formación de oficiales, como Cadetes.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 66.
 
-Los militares y civiles de nacionalidad extranjera que ingresen a alguna de las escuelas militares que dependen del Colegio del Aire, lo harán en calidad de becarios y se regirán durante su estancia en éstos por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento. Este personal no estará sujeto al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria en cada caso, como lo determine la Secretaría de la Defensa Nacional.
+Las personas militares y civiles de nacionalidad extranjera que ingresen a los planteles deben hacerlo en calidad de becarias y se rigen durante su estancia por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, su reglamento y el presente reglamento. Este personal no está sujeto al fuero de guerra respeto de las faltas y delitos contra la disciplina militar, por lo que su situación disciplinaria se regula, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 67.
 
-El personal en instrucción, además de lo establecido en la legislación militar y disposiciones aplicables que emita la Secretaría de la Defensa Nacional tiene las atribuciones y responsabilidades siguientes:
+El personal discente tiene, además de lo establecido en las disposiciones militares y de las que emita la Secretaría de la Defensa Nacional, las facultades y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
-II. Acatar las disposiciones académicas establecidas;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Acatar las disposiciones académicas y disciplinarias que para tal efecto se establezcan, a fin de cumplir con los objetivos formativos y educativos señalados en los planes de estudio respectivos y lo previsto en las leyes y reglamentos militares;
 
 III. Participar en las actividades oficiales programadas;
 
@@ -1583,17 +1993,23 @@ IV. Desempeñar los servicios y comisiones inherentes a su jerarquía, y
 
 V. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 68.
 
-El personal en instrucción que cada año ingrese al plantel, integrará una antigüedad que será designada con el año de inicio y término del curso o carrera.
+El personal discente que cada año ingrese al plantel, se debe integrar en una antigüedad, la cual debe ser designada con el año de inicio y término de los estudios correspondientes.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-El personal en instrucción de las escuelas militares que dependen del Colegio del Aire, tendrá como norma en todos los actos del servicio y en sus actividades en la vida civil y familiar, su lealtad a las instituciones, el exacto cumplimiento a la palabra empeñada, el estudio y superación permanentes, el valor, la disciplina, el buen comportamiento y la discreción, por lo que pondrá toda su atención, voluntad y esfuerzo para cumplir con estos preceptos.
+El personal discente de los planteles debe tener como norma en todos los actos del servicio y en sus actividades en la vida civil y familiar, su lealtad a las instituciones, el exacto cumplimiento a la palabra empeñada, el estudio y superación permanentes, el valor, la disciplina, el buen comportamiento y la discreción, por lo que debe poner toda su atención, voluntad y esfuerzo para cumplir con estos preceptos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-El personal directivo, académico, del Cuerpo de Cadetes, Oficiales y Clases en instrucción, administrativo y de los servicios pertenecientes a las escuelas militares que dependen del Colegio del Aire, está sujeto a lo establecido en las leyes y reglamentos militares y en las disposiciones de la superioridad.
+El personal directivo, académico, del Cuerpo de Cadetes, Oficiales y Clases discentes, administrativo y de los servicios de los planteles está sujeto a lo establecido en las leyes y reglamentos militares y en las disposiciones que emita la Secretaría de la Defensa Nacional.
 
 ## TÍTULO CUARTO. De la Admisión
 
@@ -1609,9 +2025,11 @@ Es facultad del Alto Mando del Ejército y Fuerza Aérea autorizar el ingreso de
 
 ### CAPÍTULO I. De las Generalidades
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 73.
 
-La formación del personal en instrucción de las escuelas militares que dependen del Colegio del Aire, se realizará mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
+La formación del personal discente de los planteles debe realizarse mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
 
 ### CAPÍTULO II. De la Planeación
 
@@ -1621,243 +2039,287 @@ La planeación didáctica es el conjunto de acciones que permiten establecer la 
 
 ### CAPÍTULO III. De la Ejecución
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 75.
 
-La ejecución del proceso enseñanza-aprendizaje tiene por objeto desarrollar el contenido de los planes y programas de estudio a través de la interacción del personal docente y en instrucción.
+La ejecución del proceso enseñanza-aprendizaje tiene por objeto desarrollar el contenido de los planes de estudio a través de la interacción del personal docente y discente.
 
 ### CAPÍTULO IV. De la Evaluación
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 76.
 
-La evaluación académica tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y de los planes y programas de estudio.
+La evaluación académica tiene por objeto verificar el nivel de aprovechamiento del personal discente en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y de los planes de estudio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-El personal docente evaluará al personal en instrucción a través de:
+El personal docente debe evaluar al personal discente a través de:
 
 I. La apreciación de los conocimientos y aptitudes adquiridas mediante su participación en clases, su desempeño en los ejercicios, trabajos prácticos y sesiones de vuelo cuando corresponda, y
 
-II. La aplicación de diversos exámenes.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. La aplicación de diversas evaluaciones.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-Los exámenes que se aplican en las escuelas militares que dependen del Colegio del Aire son:
+Las evaluaciones que se aplican en las escuelas militares que dependen del Colegio del Aire son:
 
-I. Parciales:
+I. Parciales: son aquellas que realiza el personal discente para comprobar su grado de aprovechamiento en una o varias partes del plan de estudio de cualquier asignatura, durante el semestre correspondiente;
 
-Son aquellos que realiza el personal en instrucción para comprobar su grado de aprovechamiento en una o varias partes del programa de estudios de cualquier asignatura, durante el semestre correspondiente.
+II. Final ordinaria: es la que se aplica a todo el personal discente al término de la asignatura correspondiente y cubre la totalidad del plan de estudio;
 
-II. Final Ordinario:
+III. Extraordinaria: es la que se aplica al personal discente cuya calificación final de la asignatura sea menor a la establecida en el artículo 81 del presente reglamento y calculada de acuerdo con el artículo 82 de este ordenamiento.
 
-Es el que se aplica a todo el personal en instrucción al término de la asignatura correspondiente y cubre la totalidad del programa.
+En la Escuela Militar de Aviación la evaluación extraordinaria es la equivalente a la evaluación de eliminación que se aplica en las fases de vuelo, así como la que se aplica al personal discente que no alcance la calificación aprobatoria en la evaluación final ordinaria del manual de ingeniería y procedimientos del avión;
 
-III. Extraordinario:
+IV. Profesional: es la que sustenta el personal discente que realizó el curso de Piloto Aviador Militar en la Escuela Militar de Aviación o la licenciatura de Meteorología Militar en la Escuela Militar de Especialistas de Fuerza Aérea, después de haber cubierto el contenido de los planes de estudio del curso o licenciatura correspondiente y haber elaborado una tesis o su equivalente. Dicha evaluación sirve para obtener el título profesional respectivo;
 
-Es el que se aplica al personal en instrucción, cuya calificación final de la asignatura sea menor de la estipulada en el artículo 81 y calculada de acuerdo a lo establecido en el artículo 82 de este Reglamento. Respecto a la Escuela Militar de Aviación es el equivalente al examen de eliminación que se aplica en las fases de vuelo, así como el que se aplica al personal en instrucción que no alcance la calificación aprobatoria en el examen final ordinario del manual de ingeniería y procedimientos del avión.
+V. Especial: es la que se aplica bajo las condiciones que establece el presente reglamento al personal discente que causó baja de los planteles sin terminar sus estudios y que tiene derecho a reingresar. En la Escuela Militar de Aviación la evaluación especial debe ser invariablemente teórica y práctica de vuelo y esta última evaluación solo se aplica si se aprueba la primera, y
 
-IV. Profesional:
+VI. De vuelo, la cual únicamente aplica para la Escuela Militar de Aviación:
 
-Es el que sustenta el personal en instrucción que realizó el curso de Piloto Aviador Militar en la Escuela Militar de Aviación o la carrera de Meteorólogo Militar en la Escuela Militar de Especialistas de Fuerza Aérea, después de haber cubierto el contenido de los programas de estudio del curso o carrera respectivo y haber elaborado una tesis o su equivalente; sirve para hacerse acreedor al título profesional correspondiente.
+A. Teórica:
 
-V. Especial:
+a. De Ingeniería y Procedimientos del Avión: es la que se aplica al personal discente en forma escrita y práctica, con la finalidad de evaluar los conocimientos teóricos de ingeniería y procedimientos del avión, antes de iniciar su adiestramiento de vuelo. Esta evaluación tiene la equivalencia de una evaluación final ordinaria de cualquier asignatura, y
 
-Es el que se aplica bajo las condiciones que establece el presente Reglamento al personal en instrucción que causó baja de las escuelas militares que dependen del Colegio del Aire sin terminar sus estudios y que tenga derecho a reingresar. En la Escuela Militar de Aviación será invariablemente teórico y práctico de vuelo; este último examen se aplicará sólo en caso de aprobar el primero.
+b. Preliminar de Fase: es la que se aplica al personal discente en forma escrita, práctica o una combinación de ambas formas y tiene la finalidad de evaluar los conocimientos adquiridos de las diferentes sesiones de vuelo por realizar, antes de iniciar cada fase de adiestramiento. Esta evaluación tiene la equivalencia de una evaluación parcial de cualquier asignatura, y
 
-VI. De vuelo, el cual únicamente aplica para la Escuela Militar de Aviación.
+B. Práctica:
 
-A. Teórico:
+a. De progreso: tiene como finalidad evaluar en la práctica, al personal discente de las maniobras que establezca el programa de vuelo respectivo y para comprobar el grado de avance en el control de operaciones de la aeronave. Esta evaluación debe ser aplicada por la persona titular de la Jefatura del Grupo Pedagógico o la persona instructora de vuelo que designe la Dirección del plantel y será equivale (sic) a una evaluación parcial de cualquier asignatura;
 
-a. De Ingeniería y Procedimientos del Avión.
-
-Es el que se aplica al personal en instrucción en forma escrita y práctica, con la finalidad de evaluar los conocimientos teóricos de ingeniería y procedimientos del avión, antes de iniciar su adiestramiento de vuelo; tendrá la equivalencia de un examen final ordinario de cualquier asignatura.
-
-b. Preliminar de Fase.
-
-Es el que se aplica al personal en instrucción en forma escrita, práctica o una combinación de ambos y tiene la finalidad de evaluar los conocimientos adquiridos de las diferentes sesiones de vuelo por realizar, antes de iniciar cada fase de adiestramiento; tendrá la equivalencia a un examen parcial de cualquier asignatura.
-
-B. Práctico:
-
-a. De progreso.
-
-Tiene como finalidad evaluar en la práctica, al personal en instrucción de las maniobras que establezca el programa de vuelo respectivo y para comprobar el grado de avance en el control de operaciones de la aeronave. Este examen será aplicado por el Jefe del Grupo Pedagógico o instructor de vuelo que designe el Director del plantel y equivale a una evaluación parcial de cualquier asignatura.
-
-b. Especial de progreso.
-
-Es una evaluación práctica que tiene la finalidad de confirmar y examinar el avance y capacidad para desarrollar maniobras de vuelo y será aplicado indistintamente por el Comandante y el Segundo Comandante del escuadrón respectivo al personal en instrucción que:
+b. Especial de progreso: es una evaluación práctica que tiene la finalidad de confirmar y examinar el avance y capacidad para desarrollar maniobras de vuelo y debe ser aplicada indistintamente por la persona titular de la Comandancia o la persona titular de la Segunda Comandancia del escuadrón respectivo al personal discente que:
 
 1. No apruebe la evaluación de progreso;
 
 2. Resulte "No Apto" para realizar el vuelo en "solo";
 
-3. Sea reportado por el instructor con bajo rendimiento durante el desarrollo de tres sesiones de vuelo en una misma fase de vuelo, o
+3. Sea reportado por la persona instructora con bajo rendimiento durante el desarrollo de tres sesiones de vuelo en una misma fase de vuelo, o
 
-4. Durante una sesión de vuelo en "solo" ponga en riesgo su vida, la de otras personas, el material de vuelo o bien, cometa alguna indisciplina en vuelo.
+4. Durante una sesión de vuelo en "solo" ponga en riesgo su vida, la de otras personas, el material de vuelo o bien, cometa alguna indisciplina en vuelo, y
 
-c. De eliminación.
+c. De eliminación: es aquella evaluación práctica que tiene la finalidad de verificar la capacidad para operar y conducir una aeronave con seguridad y eficiencia durante las diferentes maniobras antes practicadas y debe ser aplicada por la persona titular de la Comandancia del escuadrón de vuelo o la persona titular de la Jefatura de la Sección de Vuelos al personal discente que:
 
-Es aquella evaluación práctica que tiene la finalidad de verificar la capacidad para operar y conducir una aeronave con seguridad y eficiencia durante las diferentes maniobras antes practicadas y será aplicada por el Comandante del escuadrón de vuelo o Jefe de la Sección de Vuelos al personal que:
-
-1. Repruebe un examen especial de progreso;
+1. Repruebe una evaluación especial de progreso;
 
 2. Tenga un incidente o accidente de vuelo o en tierra, durante la sesión en "solo", poniendo en riesgo su vida, la de otras personas y la seguridad del material de vuelo, o
 
 3. Haya presentado dos evaluaciones de eliminación en el desarrollo del curso de vuelo y resulte reprobado en la evaluación de progreso, durante cualquier fase del adiestramiento de vuelo.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 79.
 
-Los exámenes mencionados en el artículo anterior pueden ser:
+Las evaluaciones mencionadas en el artículo anterior pueden ser:
 
 I. Orales;
 
-II. Escritos;
+II. Escritas;
 
-III. Prácticos, o
+III. Prácticas;
 
-IV. Una combinación de los anteriores.
+IV. Proyectos, o
+
+V. Una combinación de las anteriores.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 80.
 
-Para calificar todos los exámenes excepto el Profesional, se utilizará la escala numérica de CERO a DIEZ puntos, incluyendo decimales.
+Para calificar todas las evaluaciones, excepto la profesional, se utiliza la escala numérica de cero a diez puntos con decimales.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 81.
 
-La calificación mínima aprobatoria será de SEIS PUNTOS para las materias comunes, SIETE PUNTOS para las materias técnico-profesionales y OCHO PUNTOS para los exámenes de vuelo. El personal en instrucción que no alcance la calificación mínima aprobatoria estará sujeto al programa de estudio dirigido, de conformidad con la directiva respectiva.
+La calificación mínima aprobatoria es de seis puntos para las asignaturas comunes, de siete puntos para las asignaturas técnico-profesionales, y de ocho puntos para las evaluaciones de vuelo. El personal discente que no alcance la calificación mínima aprobatoria está sujeto al programa de estudio dirigido, de conformidad con la directiva respectiva.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 82.
 
-La calificación final de cada asignatura quedará integrada de la manera siguiente: las calificaciones de las evaluaciones parciales se promediarán con la calificación del examen final ordinario.
+La calificación final de cada asignatura debe quedar integrada de la manera siguiente: las calificaciones de las evaluaciones parciales se promedian con la calificación de la evaluación final ordinaria.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 83.
 
-La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "OBTENIDA EN EXAMEN EXTRAORDINARIO" u "OBTENIDA EN EXAMEN ESPECIAL", excluyendo al personal en instrucción para obtener algún premio académico.
+La calificación obtenida en una evaluación extraordinaria o especial debe asentarse en el registro de calificaciones con la anotación "obtenida en evaluación extraordinaria" u "obtenida en evaluación especial". El personal discente que presente una evaluación extraordinaria o especial no puede obtener algún premio académico.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 84.
 
-El personal en instrucción que utilice medios fraudulentos para resolver un examen, será suspendido del mismo y calificado con CERO puntos.
+El personal discente que utilice medios fraudulentos para resolver una evaluación, debe suspenderse su aplicación y calificado con cero puntos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 85.
 
-El examen Profesional será calificado en los siguientes términos:
+La evaluación profesional es calificada en los siguientes términos:
 
 I. Aprobado por unanimidad;
 
-II. Aprobado por mayoría, o
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Aprobado por mayoría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II Bis. Aprobado por aclamación, o
 
 III. Reprobado.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 86.
 
-Al sustentante de un examen profesional que por su calidad merezca a juicio del jurado calificación especial, se le concederá "Mención Honorífica", anotando tal concepto en el acta respectiva, siendo indispensable para otorgarla lo siguiente:
+Al personal discente sustentante de una evaluación profesional que por su calidad merezca a juicio del jurado la calificación aprobatoria por aclamación, se le puede conceder "Mención Honorífica". Esta distinción debe anotarse en el acta respectiva y se le otorga si se cumple con lo siguiente:
 
-I. Elaborar una tesis o su equivalente con alta calidad académica y originalidad;
+I. Elaborar una tesis o su equivalente con calidad académica y originalidad, la cual debe apegarse a los lineamientos que emita la Dirección del plantel para evitar sanciones o responsabilidades legales en las que pueda incurrir las personas discente y asesora;
 
-II. No haber presentado exámenes extraordinarios durante el curso, y
+II. No haber presentado evaluaciones extraordinarias durante el curso, y
 
-III. Tener un promedio general mínimo de NUEVE puntos durante el curso o carrera.
+III. Tener un promedio general mínimo de nueve puntos durante el curso o carrera.
 
 ### CAPÍTULO V. De los Jurados
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 87.
 
-Los Jurados para la aplicación y evaluación de los diferentes tipos de exámenes mencionados en este Reglamento, estarán integrados por personal docente del plantel correspondiente y el que determine la superioridad.
+Los jurados para la aplicación de las diferentes evaluaciones mencionadas en este reglamento, deben de estar integrados por personal docente del plantel correspondiente y el que determine la superioridad.
 
 ## TÍTULO SEXTO. De las Faltas, Bajas y Reingresos
 
 ### CAPÍTULO I. De las Faltas de Asistencia Académica
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 88.
 
-Son faltas de asistencia académica, las ausencias del personal en instrucción a cualquier actividad académica, teórica o práctica; pueden ser justificadas o injustificadas.
+Son faltas de asistencia académica, las ausencias del personal discente a cualquier actividad académica, teórica o práctica. Estas faltas pueden ser justificadas o injustificadas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 89.
 
-Son faltas justificadas las ausencias del personal en instrucción que se deban a comisiones del servicio, motivos de salud, problemas de carácter legal y las que el Director del plantel correspondiente considere como tales.
+Son faltas justificadas, las ausencias del personal discente que se encuentran en comisiones del servicio, por motivos de salud, problemas de carácter legal y las que la persona titular de la Dirección del plantel correspondiente considere como tales.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 90.
 
-Son faltas injustificadas, las ausencias del personal en instrucción que no se encuentren comprendidas en el artículo anterior.
+Son faltas injustificadas, las ausencias del personal discente que no se encuentren comprendidas en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 91.
 
-Las faltas de asistencia académica se computarán a razón de una falta por cada inasistencia a una sesión de clase de cualquier materia. Serán acumulables las faltas injustificadas y justificadas, salvo las motivadas por actos del servicio.
+Las faltas de asistencia académica deben computarse a razón de una falta a una sesión de clase de cualquier asignatura, sin importar si se trata de una actividad académica, teórica o práctica. Las faltas injustificadas y justificadas deben acumularse, salvo las motivadas por actos del servicio.
+
+Para efectos del párrafo anterior, una sesión de clase equivale a una hora.
 
 ### CAPÍTULO II. De las Bajas
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 92.
 
-Son causales de baja de las escuelas militares que dependen del Colegio del Aire para el personal en instrucción, las siguientes:
+El personal discente causa baja de los planteles militares del Colegio del Aire por:
 
-I. Haber terminado satisfactoriamente sus estudios;
+I. Reprobar tres evaluaciones parciales en una misma asignatura;
 
-II. Reprobar tres exámenes parciales en una misma asignatura;
+II. Reprobar un total de diez evaluaciones parciales de diferentes asignaturas en el mismo semestre;
 
-III. Reprobar un total de diez exámenes parciales de diferentes asignaturas en el mismo semestre;
+III. Reprobar una o más evaluaciones extraordinarias;
 
-IV. Reprobar uno o más exámenes extraordinarios;
+IV. Reprobar la evaluación de eliminación en la fase de vuelo para el personal discente de la Escuela Militar de Aviación;
 
-V. Reprobar el examen de eliminación en la fase de vuelo para el personal en instrucción de la Escuela Militar de Aviación;
+V. Reprobar la evaluación profesional en el plantel correspondiente;
 
-VI. Reprobar el examen profesional en el plantel correspondiente;
+VI. Acumular las faltas injustificadas siguientes:
 
-VII. Acumular las faltas injustificadas siguientes:
+A. El personal discente cuando en un semestre acumule el 10% o más de faltas en una sola asignatura, o el 15% o más en el conjunto de sus asignaturas, y
 
-A. El personal de cadetes: en un semestre el 10% o más de faltas en una sola asignatura o el 15% o más en el conjunto de ellas, y
+B. El personal discente con el grado de Oficial o Clases cuando acumulen 15 faltas en el conjunto de sus asignaturas;
 
-B. El personal de oficiales y clases en instrucción: 15 faltas en el conjunto de las asignaturas.
+VII. Acumular las faltas justificadas siguientes:
 
-VIII. Acumular las faltas justificadas siguientes:
+A. El personal discente cuando en un semestre acumule el 30% o más de faltas en una sola asignatura o en el conjunto de sus asignaturas;
 
-A. El personal de cadetes: en un semestre el 30% o más de faltas en una sola asignatura o en el conjunto de ellas, y
+B. El personal discente con el grado de Oficial o Clases cuando acumule el 50% o más de faltas en el conjunto de sus asignaturas durante el año lectivo, y
 
-B. El personal de oficiales y clases en instrucción: 50 o más faltas en el conjunto de las asignaturas durante el año lectivo.
+C. Las faltas justificadas motivadas por actos del servicio no serán acumuladas;
 
-IX. Por encontrarse en una de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+VIII. Acumular 500 puntos de demérito en el ciclo lectivo, previa determinación de mala conducta determinada por el Consejo de Honor;
 
-X. Acumular 500 puntos de demérito en el ciclo lectivo, previa determinación de mala conducta dictada por el Consejo de Honor;
+IX. Por existir irregularidades en la documentación presentada al ingresar al plantel;
 
-XI. Por inutilidad, de acuerdo con las Tablas Anexas de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+X. Faltar injustificadamente a sus labores académicas durante tres días consecutivos, solo para el personal becario extranjero;
 
-XII. Por violar las cláusulas establecidas en el Contrato de Filiación;
+XI. Acumular cinco faltas injustificadas a las sesiones de vuelo o retrasarse durante una fase completa del programa de adiestramiento de vuelo;
 
-XIII. Por existir irregularidades en la documentación presentada al ingresar al plantel;
+XII. Incurrir en una indisciplina de vuelo en la que de manera dolosa se aparte de lo establecido en la orden de vuelo, y que ponga en riesgo su vida o la de terceras personas, y el material de vuelo;
 
-XIV. Para el personal becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos;
+XIII. Estar al mando de una nave y provoque daños al material de vuelo y la Comisión Investigadora y Dictaminadora de Accidentes Aéreos de la Fuerza Aérea determine que la causa probable fue descuido, negligencia, apatía u omisión imputable al personal discente, independientemente de las responsabilidades legales que resulten, y
 
-XV. Por solicitud del interesado que sea aceptada por la superioridad;
+XIV. Incurrir en las conductas previstas en las fracciones I; II; V Bis, inciso b; VI; VIII; IX; X; XI; XII; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII y XXIV, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
-XVI. Acumular un máximo de cinco faltas injustificadas a las sesiones de vuelo o retrasarse durante una fase completa del programa de adiestramiento de vuelo;
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XVII. Incurrir en una indisciplina de vuelo en la que de manera dolosa se aparte de lo establecido en la orden de vuelo, poniendo en riesgo su vida, la de los demás y el material de vuelo;
+###### ARTÍCULO 92 Bis.
 
-XVIII. Cuando al encontrarse al mando de una nave provoque daños al material de vuelo y la Comisión Investigadora y Dictaminadora de Accidentes Aéreos de la Fuerza Aérea, determine que la causa probable fue descuido, negligencia, apatía u omisión imputable al personal en instrucción, independientemente de las responsabilidades legales que resulten;
+Para efectos de la resolución del Consejo de Honor es mala conducta de la persona discente antigua, el maltrato físico que cause lesiones que tarden en sanar menos de quince días.
 
-XIX. Por adquirir otra nacionalidad, y
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Por encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+###### ARTÍCULO 92 Ter.
+
+El personal discente de primer año y la persona discente que en su calidad de antigua inflija maltrato físico y genere lesiones que por su naturaleza tarden en sanar más de 15 días debe ser juzgado conforme al Código de Justicia Militar y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 93.
 
-El personal en instrucción que cause baja de las escuelas militares que dependen del Colegio del Aire, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+El personal discente que cause baja de los planteles deben quedar a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 94.
 
-Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+El personal discente que por cualquier motivo vaya a ser dado de baja del plantel, se le debe comunicar previamente por escrito esta circunstancia, así como los motivos y fundamentos jurídicos de dicha baja. Asimismo, se le debe conceder un término de quince días naturales, contado a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 95.
 
-El personal en instrucción que cause baja en el primer año lectivo de las Escuelas Militares de Aviación, de Mantenimiento y Abastecimiento y de Especialistas de Fuerza Aérea, no podrá reingresar al plantel correspondiente.
+El personal discente que cause baja en el primer semestre del primer año lectivo de los planteles no puede reingresar.
 
 ### CAPÍTULO III. De los Reingresos
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 96.
 
-Para efectos del presente Reglamento se considera como reingreso, el acto mediante el cual el personal en instrucción que habiendo causado baja de alguna de las escuelas militares que dependen del Colegio del Aire antes de terminar los estudios, es admitido nuevamente para continuarlos, previa solicitud del interesado.
+Para efectos del presente reglamento se considera como reingreso, el acto mediante el cual el personal discente que haya causado baja de alguno de los planteles antes de terminar los estudios, es admitido nuevamente para continuarlos, previa solicitud de la persona interesada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 97.
 
-Podrá reingresar al plantel por una sola vez, el personal en instrucción que haya causado baja por los siguientes motivos y bajo las condiciones que establece el presente Reglamento:
+El personal discente que haya causado baja puede reingresar a los planteles por una sola vez, en los casos siguientes:
 
-I. Por motivos académicos, excepto por reprobar el examen de eliminación en la fase de vuelo;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Por motivos académicos, excepto por reprobar la evaluación de eliminación en la fase de vuelo;
 
 II. Por faltas justificadas;
 
@@ -1865,65 +2327,89 @@ III. Por motivos de salud, o
 
 IV. Por haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal, y haya resultado absuelto.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 98.
 
-El personal en instrucción que del segundo año en adelante cause baja por los motivos citados en el artículo anterior, será puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios donde ésta lo determine y por el tiempo necesario para regresar al siguiente periodo de exámenes extraordinarios del semestre que cursaba.
+El personal discente que del segundo año en adelante cause baja por los motivos a que se refiere el artículo anterior, debe ser puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios en la dirección del arma o servicio afín a los estudios que se encontraba realizando, siempre que exista vacante y por el tiempo necesario para regresar al siguiente periodo de evaluaciones extraordinarias del semestre que cursaba para que presente la evaluación especial.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 99.
 
-El personal en instrucción que se sitúe en lo establecido en el artículo 92, fracción IV, del presente Reglamento podrá reingresar por una sola vez al inicio del siguiente semestre correspondiente, siempre y cuando apruebe las asignaturas que originaron su baja temporal del plantel, a través del examen especial respectivo.
+El personal discente que haya causado baja por la causal prevista en el artículo 92, fracción III, del presente reglamento puede reingresar por una sola vez al inicio del siguiente semestre correspondiente, siempre y cuando apruebe las asignaturas que originaron su baja del plantel, a través de la evaluación especial respectiva.
 
-El personal en instrucción que se sitúe en lo establecido en la fracción VI, del artículo 92, del presente Reglamento, podrá reingresar por una sola vez, únicamente para efectos de presentar su examen especial en el periodo de exámenes profesionales del siguiente ciclo lectivo.
+El personal discente que haya causado baja por la causal prevista en la fracción V del artículo 92 del presente reglamento puede reingresar por una sola vez, únicamente para efectos de presentar su evaluación especial en el periodo de evaluaciones profesionales del siguiente ciclo lectivo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 100.
 
-El personal en instrucción que se sitúe en cualquiera de los supuestos señalados en el artículo 92 fracciones II, III y VIII del presente Reglamento, podrá reingresar al plantel por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+El personal discente que haya causado baja por las causales previstas en las fracciones I, II y VII del artículo 92 del presente reglamento puede reingresar por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 101.
 
-El personal en instrucción que haya causado baja de las escuelas militares que dependen del Colegio del Aire por motivos de salud o por haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal y haya resultado absuelto, podrá reingresar por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+El personal discente que haya causado baja de los planteles por motivos de salud o por haberse encontrado sujeto a un proceso penal y haya resultado absuelto puede reingresar siempre y cuando no hayan transcurrido más de tres semestres desde la fecha en que causó baja.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 102.
 
-El personal en instrucción que repruebe un examen especial no podrá reingresar al plantel.
+El personal discente que repruebe una evaluación especial no puede reingresar al plantel.
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos
 
 ### CAPÍTULO I. De los Títulos, Certificados y Patentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 103.
 
-El personal en instrucción de las escuelas militares que dependen del Colegio del Aire que terminen satisfactoriamente sus estudios, recibirá según corresponda:
+El personal discente que termine satisfactoriamente sus estudios en los planteles debe recibir, según corresponda, lo siguiente:
 
 I. Personal Nacional:
 
 A. Certificado de Estudios;
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-B. Título:
+B. Título de licenciatura en Ingeniería conforme a los planes de estudio reconocidos ante la Secretaria de Educación Pública y contenidos en el Plan General de Educación Militar;
 
-a. Para el Curso de Formación de Pilotos Aviadores:
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-Licenciado conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar.
+C. Grado de Subteniente de Fuerza Aérea:
 
-b. Para el curso de Meteorólogos:
+a. Piloto Aviador, Meteorólogo, Controlador de Vuelo al finalizar sus estudios;
 
-Licenciado conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar.
+b. Con licenciatura en Aeronáutica Militar, Abastecedor de Material Aéreo y licenciatura en Aeronáutica Militar, Armamento Aéreo, al finalizar sus estudios;
 
-C. Grado de Subteniente de Fuerza Aérea Piloto Aviador, Aerologista, Controlador de Vuelo, Electrónica de Aviación, Mantenimiento de Aviación o Armamento Aéreo, según corresponda;
+c. Especialistas en Mantenimiento de Aviación, Abastecedor de Material Aéreo y especialistas en Electrónica de Aviación o de Armamento Aéreo, al finalizar sus estudios, y
 
-D. Patente, y
+d. Carta de Pasante para la licenciatura en Ingeniería en Aeronáutica y la licenciatura en Ingeniería en Electrónica de Aviación al finalizar el cuarto año de estudio, según los estudios realizados;
 
-E. Placa del curso o Gafete distintivo y Alas del curso.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+D. Patente de Subteniente de Fuerza Aérea:
+
+a. Piloto Aviador, Meteorólogo, Controlador de Vuelo, al finalizar sus estudios;
+
+b. Carta de Pasante para la licenciatura en Ingeniería en Aeronáutica y la licenciatura en Ingeniería en Electrónica de Aviación, al finalizar el cuarto año de estudio, según los estudios realizados;
+
+c. Con licenciatura en Aeronáutica Militar, Abastecedor de Material Aéreo y licenciatura en Aeronáutica Militar, Armamento Aéreo, al finalizar sus estudios, y
+
+d. Especialistas en Mantenimiento de Aviación, Abastecedor de Material Aéreo y especialistas en Electrónica de Aviación o de Armamento Aéreo, al finalizar sus estudios, y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+E. Placa del curso o gafete distintivo y alas del curso, y
 
 II. Personal de Nacionalidad Extranjera:
 
 A. Certificado de Estudios;
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
-
-B. Título:
+B. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 a. Para el Curso de Formación de Pilotos Aviadores:
 
@@ -1935,55 +2421,79 @@ Licenciado conforme a los planes y programas reconocidos ante la Secretaría de 
 
 C. Placa del curso o carrera, Gafete distintivo y Alas del curso.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 104.
 
-Al personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, Certificado Parcial de Estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+Al personal discente que no concluya satisfactoriamente sus estudios se le debe expedir, a solicitud de la persona interesada, el Certificado Parcial de Estudios, previa aprobación de la Dirección General.
 
 ### CAPÍTULO II. De los Premios y Recompensas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 105.
 
-Los premios y recompensas que se otorgan al personal en instrucción por el aprovechamiento en sus estudios, en cada curso o carrera de las escuelas militares que dependen del Colegio del Aire, son los siguientes:
+Los premios y recompensas que se otorgan al personal discente por el aprovechamiento en sus estudios realizados en los planteles, son los siguientes:
 
 I. Primer Premio: Al que obtenga exclusivamente el primer lugar por mayor promedio, al término de cada uno de los ciclos escolares, siempre y cuando su promedio sea de OCHO PUNTO CINCO puntos o superior;
 
 II. Segundo Premio: A quienes hayan obtenido primeros, segundos y terceros lugares, al término de cada uno de los ciclos escolares, siempre y cuando su promedio sea de OCHO PUNTO CINCO puntos o superior;
 
-III. Figurar en el Cuadro de Honor en el mes siguiente: Al que haya obtenido en el periodo de que se trate un promedio de NUEVE puntos de calificación o más. Además, tendrá derecho a disfrutar de franquicia extraordinaria, otorgada por la Dirección del plantel correspondiente, los días miércoles de las 1300 a las 2100 horas del mismo día, durante el mes de que se trate. Se otorgará boleta de Cuadro de Honor a los tres primeros lugares de cada plantel en el periodo de que se trate;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Diploma de Primero, Segundo o Tercer lugar: Al personal en instrucción que obtenga los tres promedios más altos en cada ciclo escolar;
+III. Por estar en el Cuadro de Honor en el mes siguiente al que haya obtenido en el periodo de que se trate un promedio de nueve puntos de calificación o más, el derecho a disfrutar de franquicia extraordinaria otorgada por la Dirección del plantel correspondiente, la cual debe aplicarse los días jueves de las 13:00 a 21:00 horas, durante el mes de que se trate. Asimismo, se le debe otorgar boleta de Cuadro de Honor a los tres primeros lugares de cada plantel en el periodo de que se trate;
 
-V. Exención de realizar el examen final ordinario: Al personal en instrucción que obtenga un promedio mínimo de NUEVE puntos en una materia, después de haber sustentado los exámenes parciales de la misma. En este caso se asentará la calificación obtenida en el promedio, quedando a su elección la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Premio "ALAS DE ORO": Al personal en instrucción que obtenga el primer lugar general, en las prácticas de vuelo en la Escuela Militar de Aviación.
+IV. Diploma de Primero, Segundo o Tercer lugar: al personal discente que obtenga los tres promedios más altos en cada ciclo escolar;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Exención de realizar la evaluación final ordinaria: al personal discente que obtenga un promedio mínimo de nueve puntos en una asignatura, después de haber sustentado las evaluaciones parciales de dicha asignatura. En este caso debe asentarse la calificación obtenida en el promedio, y queda a su elección la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Premio “Alas de Oro”: al personal discente que obtenga el primer lugar general, en las prácticas de vuelo en la Escuela Militar de Aviación.
 
 ## TÍTULO OCTAVO. De las Disposiciones Complementarias
 
 ### CAPÍTULO I. De la Disciplina
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 106.
 
-Los arrestos que se impongan al personal en instrucción en calidad de externo, serán graduados por el Director del plantel correspondiente, conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se comunique dicho correctivo disciplinario al personal afectado.
+Los arrestos que se impongan al personal discente en calidad de externo deben ser graduados por la persona titular de la Dirección del plantel correspondiente, conforme a lo establecido en la legislación militar y deben cumplirse a partir del momento en que se comunique dicho correctivo disciplinario al personal discente afectado.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 107.
 
-Los Directores de las escuelas militares que dependen del Colegio del Aire, podrán arrestar hasta por 300 puntos de demérito al personal de cadetes en el interior del plantel correspondiente, sin detrimento de los puntos acumulados por faltas anteriores.
+Las personas titulares de las direcciones de los planteles pueden arrestar hasta por 300 puntos de demérito al personal discente en el interior del plantel correspondiente, sin detrimento de los puntos acumulados por faltas anteriores.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 108.
 
-El personal en instrucción en calidad de interno, cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la dirección del plantel correspondiente.
+El personal discente en calidad de interno debe cumplir su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 109.
 
-La graduación de arrestos impuestos al personal en instrucción de las escuelas militares que dependen del Colegio del Aire, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 en un ciclo lectivo, será motivo de baja del plantel correspondiente, siempre y cuando determine mala conducta el Consejo de Honor respectivo.
+La graduación de arrestos impuestos al personal discente de los planteles debe contabilizarse con puntos de demérito, los cuales sirven de base para el control y registro de su conducta. Cuando se acumulen 500 puntos de demérito en un ciclo lectivo, es motivo de baja del plantel, con excepción de los cursos con duración de un año y medio, en los cuales es de 250 puntos de demérito por semestre.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 110.
 
-Los arrestos impuestos al personal en instrucción, se computarán con 20 puntos de demérito por cada veinticuatro horas.
+Los arrestos impuestos al personal discente deben computarse con 20 puntos de demérito por cada veinticuatro horas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 111.
 
-El personal en instrucción de calidad de interno, cumplirá su arresto en las semanas laborables de la siguiente manera:
+El personal discente de calidad de interno debe cumplir su arresto en las semanas laborables conforme a lo siguiente:
 
 I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo: 20 puntos de demérito;
 
@@ -1993,9 +2503,11 @@ III. Sin disfrutar la franquicia del sábado y domingo: 40 puntos de demérito, 
 
 IV. Los arrestos graduados con más de 80 puntos de demérito se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 112.
 
-El personal en instrucción en calidad de interno cumplirá su arresto ininterrumpidamente conforme al cómputo establecido, en los días inhábiles correspondientes a semanas no laborables.
+El personal discente en calidad de interno debe cumplir su arresto ininterrumpidamente conforme al cómputo establecido en los días inhábiles correspondientes a semanas no laborables.
 
 ###### ARTÍCULO 113.
 
@@ -2005,31 +2517,37 @@ La acumulación de 200 puntos de demérito en un ciclo lectivo, implica la pérd
 
 La acumulación de 300 puntos de demérito en un ciclo lectivo, implica la destitución de grado para las clases de cadetes.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 115.
 
-El personal en instrucción que utilice medios fraudulentos en la resolución de algún examen, además de la sanción académica prevista en el artículo 84 de este Reglamento se le impondrá el correctivo disciplinario correspondiente.
+El personal discente que utilice medios fraudulentos para resolver una evaluación, además de la sanción académica prevista en el presente reglamento, se le debe imponer el correctivo disciplinario correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 116.
 
-El Comandante del Cuerpo de Cadetes, Oficiales y Clases en Instrucción, propondrá la distribución de tiempo que deba regir las actividades del personal en instrucción que se encuentre arrestado.
+La persona titular de la Comandancia del Cuerpo de Cadetes debe proponer la distribución de tiempo que deba regir las actividades del personal discente que se encuentre arrestado.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 117.
 
-El personal en instrucción que ostente grado jerárquico superior al del docente, deberá guardar a éste las consideraciones que por su calidad y comisión merece.
+El personal discente que ostente un grado superior al de la persona docente, debe guardarle las consideraciones que por su calidad y comisión merece.
 
 ### CAPÍTULO II. De la Garantía de Permanencia
 
 ###### ARTÍCULO 118.
 
-Los civiles y el personal de tropa que causen alta en el plantel correspondiente como cadetes, excepto sargentos y cabos de la Fuerza Aérea y del Ejército, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 119.
 
-El importe del depósito otorgado se hará efectivo a favor del interesado, cuando éste cause baja del plantel correspondiente, por inutilización en actos del servicio antes de terminar sus estudios o por graduarse.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 120.
 
-Cuando el cadete cause baja del plantel correspondiente antes de terminar sus estudios por causas imputables a éste, el importe del depósito se hará efectivo a favor del Erario Nacional.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 TERCERA PARTE
 
@@ -2039,39 +2557,19 @@ De las Funciones Específicas de los Establecimientos de Educación Militar que 
 
 ### CAPÍTULO I. De la Misión
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
-
 ###### ARTÍCULO 121.
 
-La Escuela Militar de Aviación es una Institución de Educación Militar con la misión de formar Oficiales de Fuerza Aérea Pilotos Aviadores para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos, para lo cual impartirá educación Tipo Superior de Nivel Licenciatura.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO II. De los Objetivos
 
 ###### ARTÍCULO 122.
 
-La Escuela Militar de Aviación tiene los siguientes objetivos:
-
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
-
-I. Formar Pilotos Aviadores, Licenciados conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
-
-II. Preparar al personal en instrucción para ejercer funciones operativas y administrativas en las unidades de vuelo;
-
-III. Proporcionar formación militar al personal en instrucción en los aspectos disciplinario e intelectual;
-
-IV. Desarrollar en el personal en instrucción una formación moral sólida, para consolidar los valores nacionales y las virtudes militares, y
-
-V. Preparar físicamente al personal en instrucción.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 123.
 
-Para cumplir con los objetivos del plantel se imparten los siguientes cursos:
-
-I. De Formación de Oficiales de Fuerza Aérea Piloto Aviador Militar;
-
-II. De Formación de Piloto Aviador Militar, y
-
-III. Otros que determine el Alto Mando del Ejército y Fuerza Aérea.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO III. De los Cargos
 
@@ -2079,25 +2577,35 @@ III. Otros que determine el Alto Mando del Ejército y Fuerza Aérea.
 
 La Dirección es el órgano rector de la Escuela Militar de Aviación, a cargo de un Coronel Piloto Aviador nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 125.
 
-La Subdirección de la Escuela Militar de Aviación es un órgano de dirección de la misma, a cargo de un Teniente Coronel Piloto Aviador Diplomado de Estado Mayor Aéreo, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección es un órgano de Dirección de la Escuela Militar de Aviación, la cual está a cargo de una persona que debe tener el grado de Teniente Coronel, Piloto Aviador, De Estado Mayor, y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 126.
 
-El Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Aviación, está a cargo de un Teniente Coronel o Mayor Piloto Aviador, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
+El Cuerpo de Cadetes de la Escuela Militar de Aviación está a cargo de una persona que debe tener el grado de Teniente Coronel o Mayor, Piloto Aviador y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 127.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa del plantel a cargo de un Mayor Piloto Aviador Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección Pedagógica, mismo que además deberá tener experiencia docente o académica.
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Aviación, la cual está a cargo de una persona con el grado de Mayor, Piloto Aviador, de Estado Mayor y tener experiencia docente o académica.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 128.
 
-La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio del plantel, a cargo de un Mayor Piloto Aviador Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección Académica, mismo que además deberá tener experiencia docente o académica.
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Militar de Aviación, la cual está a cargo de una persona con el grado de Mayor, Piloto Aviador, De Estado Mayor y tener experiencia docente o académica.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 129.
 
-La Sección de Vuelos es el órgano encargado de elaborar, aplicar y evaluar los programas de adiestramiento de vuelos, a cargo de un Teniente Coronel Piloto Aviador Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección de Vuelos, mismo que además debe tener experiencia como instructor de vuelo.
+La Sección de Vuelos es el órgano encargado de elaborar, aplicar y evaluar los programas de adiestramiento de vuelos, la cual está a cargo de una persona con el grado de Teniente Coronel, Piloto Aviador, De Estado Mayor y tener experiencia como instructora de vuelo.
 
 ###### ARTÍCULO 130.
 
@@ -2121,45 +2629,17 @@ La Sección Administrativa del plantel está a cargo de un Mayor de Fuerza Aére
 
 ###### ARTÍCULO 134.
 
-La Escuela Militar de Mantenimiento y Abastecimiento es un establecimiento de Educación Militar de nivel medio superior que tiene como misión formar Oficiales en Electrónica de Aviación, Abastecimiento de Material Aéreo, Mantenimiento de Aviación y Armamento Aéreo, para satisfacer las necesidades que de este personal tienen los organismos de la Fuerza Aérea.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO II. De los Objetivos
 
 ###### ARTÍCULO 135.
 
-La Escuela Militar de Mantenimiento y Abastecimiento tiene los siguientes objetivos:
-
-I. Formar Subtenientes de:
-
-A. Fuerza Aérea Especialistas en Electrónica de Aviación;
-
-B. Fuerza Aérea Abastecedores de Material Aéreo;
-
-C. Fuerza Aérea Especialistas en Mantenimiento de Aviación, y
-
-D. Fuerza Aérea de Armamento Aéreo.
-
-II. Proporcionar formación militar y profesional al personal en instrucción en los aspectos disciplinario e intelectual;
-
-III. Preparar al personal en instrucción para desempeñarse como especialista en las áreas de Mantenimiento de Material Aéreo, Abastecimiento de Material Aéreo, Electrónica de Aviación y de Armamento Aéreo; así como asesorar al mando en asuntos de su especialidad;
-
-IV. Preparar al personal de Abastecimiento de Material Aéreo para desempeñarse como auxiliar de los mandos en la administración de las unidades, dependencias e instalaciones aéreas;
-
-V. Desarrollar en el personal en instrucción una formación moral sólida, para consolidar los valores nacionales y las virtudes militares, y
-
-VI. Preparar físicamente al personal en instrucción.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 136.
 
-Para cumplir con los objetivos del plantel, se imparten los siguientes Cursos de Formación de Oficiales de Fuerza Aérea:
-
-I. Especialistas en Electrónica de Aviación;
-
-II. Abastecedores de Material Aéreo;
-
-III. Especialistas de Mantenimiento de Aviación, y
-
-IV. De Armamento Aéreo.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO III. De los Cargos
 
@@ -2167,21 +2647,29 @@ IV. De Armamento Aéreo.
 
 La Dirección es el órgano rector de la Escuela Militar de Mantenimiento y Abastecimiento, a cargo de un Coronel de Fuerza Aérea de servicio, egresado del plantel y nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 138.
 
-La Subdirección de la Escuela Militar de Mantenimiento y Abastecimiento es un órgano de dirección de la misma, a cargo de un Teniente Coronel de Fuerza Aérea de servicio, Diplomado de Estado Mayor Aéreo, egresado del plantel y nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección es un órgano de Dirección de la Escuela Militar de Mantenimiento y Abastecimiento, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea de Servicio, De Estado Mayor, egresada de dicho plantel y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 139.
 
-El Cuerpo de Cadetes y Clases en Instrucción de la Escuela Militar de Mantenimiento y Abastecimiento, está a cargo de un Mayor de Fuerza Aérea de servicio, egresado del plantel y nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Clases en Instrucción.
+El Cuerpo de Cadetes de la Escuela Militar de Mantenimiento y Abastecimiento está a cargo una persona con el grado de Mayor de Fuerza Aérea de Servicio, egresada de dicho plantel y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 140.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa del plantel, a cargo de un Mayor de Fuerza Aérea de servicio, Diplomado de Estado Mayor Aéreo y egresado del plantel, a quien se denomina Jefe de la Sección Pedagógica, mismo que además deberá tener experiencia docente o académica.
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Mantenimiento y Abastecimiento, la cual está a cargo de una persona con el grado de Mayor de Fuerza Aérea de Servicio, De Estado Mayor, egresada de dicho plantel y tener experiencia docente o académica.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 141.
 
-La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudios del plantel, a cargo de un Mayor de Fuerza Aérea de servicio, Diplomado de Estado Mayor Aéreo y egresado del plantel, a quien se denomina Jefe de la Sección Académica, mismo que además deberá tener experiencia docente o académica.
+La Sección Académica es el órgano de ejecución y materialización de los planes de estudio de la Escuela Militar de Mantenimiento y Abastecimiento, la cual está a cargo de una persona con el grado de Mayor de Fuerza Aérea de Servicio, De Estado Mayor, egresada de dicho plantel y tener experiencia docente o académica.
 
 ###### ARTÍCULO 142.
 
@@ -2201,37 +2689,17 @@ La Sección de Laboratorios y Talleres del plantel está a cargo de un Mayor de 
 
 ###### ARTÍCULO 145.
 
-La Escuela Militar de Especialistas de Fuerza Aérea es un establecimiento de Educación Militar de nivel medio superior y superior, que tiene como misión formar Oficiales Aerologistas y de Control de Vuelo, así como capacitar a los Oficiales Aerologistas como Meteorólogos, para satisfacer las necesidades de apoyo de las operaciones aéreas militares.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO II. De los Objetivos
 
 ###### ARTÍCULO 146.
 
-La Escuela Militar de Especialistas de Fuerza Aérea tiene los siguientes objetivos:
-
-I. Formar Oficiales Aerologistas y de Control de Vuelo;
-
-II. Capacitar Oficiales Aerologistas como Meteorólogos;
-
-III. Proporcionar formación militar al personal en instrucción en los aspectos disciplinario e intelectual;
-
-IV. Preparar al personal en instrucción para desempeñarse como especialista en las áreas de Control de Vuelo, Meteorología y como asesor del mando en asuntos de su competencia;
-
-V. Desarrollar en el personal en instrucción una formación moral sólida, para consolidar los valores nacionales y las virtudes militares, y
-
-VI. Preparar físicamente al personal en instrucción.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 147.
 
-Para cumplir con los objetivos del plantel se imparten los siguientes cursos y carrera:
-
-I. Curso de Formación de Oficiales de Fuerza Aérea Controladores de Vuelo;
-
-II. Curso de Formación de Oficiales de Fuerza Aérea Aerologistas;
-
-III. Carrera de Meteorólogo Militar, y
-
-IV. Otros que determine el Alto Mando del Ejército y Fuerza Aérea.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO III. De los Cargos
 
@@ -2239,21 +2707,29 @@ IV. Otros que determine el Alto Mando del Ejército y Fuerza Aérea.
 
 La Dirección es el órgano rector de la Escuela Militar de Especialistas de Fuerza Aérea, a cargo de un Coronel de Fuerza Aérea de servicio, egresado del propio plantel y nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 149.
 
-La Subdirección de la Escuela Militar de Especialistas de Fuerza Aérea, es un órgano de dirección de la misma, a cargo de un Teniente Coronel de Fuerza Aérea de servicio, Diplomado de Estado Mayor Aéreo, egresado del propio plantel y nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección es un órgano de Dirección de la Escuela Militar de Especialistas de Fuerza Aérea, la cual está a cargo de una persona con el grado de Teniente Coronel de Fuerza Aérea de Servicio, De Estado Mayor, egresada de dicho plantel y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 150.
 
-El Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Especialistas de Fuerza Aérea, está a cargo de un Mayor de Fuerza Aérea de servicio, egresado del propio plantel y nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
+El Cuerpo de Cadetes de la Escuela Militar de Especialistas de Fuerza Aérea está a cargo de una persona con el grado de Mayor de Fuerza Aérea de Servicio, egresada de dicho plantel y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 151.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa del plantel a cargo de un Mayor de Fuerza Aérea de servicio, Diplomado de Estado Mayor Aéreo y egresado del propio plantel, a quien se denomina Jefe de la Sección Pedagógica, mismo que además deberá tener experiencia docente o académica.
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Especialistas de Fuerza Aérea, la cual está a cargo de una persona con el grado de Mayor de Fuerza Aérea de Servicio, De Estado Mayor, egresada de dicho plantel y tener experiencia docente o académica.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 152.
 
-La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudios del plantel, a cargo de un Mayor de Fuerza Aérea de servicio, Diplomado de Estado Mayor Aéreo y egresado del propio plantel, a quien se denomina Jefe de la Sección Académica, mismo que además deberá tener experiencia docente o académica.
+La Sección Académica es el órgano de ejecución y materialización de los planes de estudio de la Escuela Militar de Especialistas de Fuerza Aérea, la cual está a cargo de una persona con el grado de Mayor de Fuerza Aérea de Servicio, De Estado Mayor, egresada de dicho plantel y tener experiencia docente o académica.
 
 ###### ARTÍCULO 153.
 
@@ -2286,3 +2762,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los recursos adicionales que requiera la Secretaría de la Defensa Nacional por las modificaciones al Plan General de Educación Militar derivado de un incremento en costos por pasar de un tipo superior nivel técnico superior universitario a un tipo superior nivel licenciatura, serán cubiertos, mediante movimientos compensados, con cargo al presupuesto autorizado de dicha Secretaría.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO GENERAL DEL COLEGIO DEL AIRE”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
