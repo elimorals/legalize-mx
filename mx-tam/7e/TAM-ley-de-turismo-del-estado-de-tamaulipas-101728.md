@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2023-12-20"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -146,6 +146,10 @@ XXIV. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turi
 > <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
 
 XXIV Bis. Turismo Gastronómico: Es aquel que tiene como objetivo que el turista conozca y experimente de la diversidad culinaria del Estado a través de la promoción de los platillos típicos, productos alimenticios locales, asistencia a eventos gastronómicos, mercados populares, restaurantes, locales y lugares específicos para su degustación;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV Ter. El Turismo Espacial es el conjunto de actividades que posibilita la exploración más allá de la atmósfera terrestre, es una oportunidad para el desarrollo e innovación en la tecnología espacial nacional y para potenciar la inversión;
 
 XXV. Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico puedan participar de los beneficios de la actividad turística, en condiciones adecuadas de economía, seguridad y comodidad;
 
@@ -647,6 +651,48 @@ ARTÍCULO 44 SEXIES.
 
 La Secretaría podrá fomentar con la concurrencia de los sectores público, social y privado, el turismo gastronómico en ferias, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover las tradiciones gastronómicas del Estado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+## TÍTULO QUINTO QUATER. DEL TURISMO ESPACIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO ESPACIAL
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 SEPTIES.
+
+El Turismo Espacial es el conjunto de actividades que posibilita la exploración más allá de la atmósfera terrestre, es una oportunidad para el desarrollo e innovación en la tecnología espacial nacional, a fin de potenciar la inversión.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 OCTIES.
+
+La Secretaría podrá coordinarse con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para apoyar a los Prestadores de Servicios Turísticos que, eventualmente, se dediquen al Turismo espacial, y para promover la constitución de empresas, mediante inversión nacional y extranjera, que tengan por objeto la prestación de servicios turísticos.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 NONIES.
+
+La Secretaría fomentará la conjunción de esfuerzos para mejorar la atención y desarrollo de infraestructura en aquellos lugares que puedan ser susceptibles de elevar su nivel económico y de vida, mediante la inversión en la industria turística espacial y las actividades relacionadas con esta.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 DECIES.
+
+Se consideran acciones primordiales para lograr el desarrollo del Turismo espacial en el Estado las siguientes:
+
+I. Sentar las bases para favorecer, propiciar o incrementar la participación de los Prestadores de Servicios Turísticos, organismos públicos y privados, sociales nacionales y extranjeros en este tipo de Turismo;
+
+II. Fomentar programas turísticos destinados al sector espacial, con propósitos de investigación y esparcimiento, en los que se tomen en consideración sus necesidades y características específicas;
+
+III. Estimular las inversiones destinadas a programas de Turismo espacial, a través de la formación de sociedades cooperativas, asociaciones, comités y patronatos, asociaciones público privadas (APPs), así como proporcionar la asesoría y capacitación necesaria que requieran las personas físicas o morales interesadas en este tipo de inversiones;
+
+IV. Propiciar la celebración de reuniones, congresos y seminarios regionales, estatales, nacionales e internacionales sobre el Turismo espacial; y
+
+V. Las demás que la Secretaría considere.
+
 ## TÍTULO SEXTO. DE LA PROMOCIÓN Y FOMENTO DEL TURISMO
 
 ### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
@@ -654,10 +700,6 @@ La Secretaría podrá fomentar con la concurrencia de los sectores público, soc
 ## TÍTULO SÉPTIMO. DE LOS SISTEMAS DE INFORMACIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ### CAPÍTULO II. DEL FOMENTO AL TURISMO
-
-## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
-
-### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
 
 ###### ARTÍCULO 45.
 
@@ -697,7 +739,7 @@ VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva par
 
 En la Promoción Turística y material promocional que edite la Secretaría, se dará preferencia a aquellos prestadores de servicios turísticos que en sus productos, servicios e instalaciones, así como en sus materiales gráficos y audiovisuales utilicen la marca turística de Tamaulipas.
 
-### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
+### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
 
 ###### ARTÍCULO 50.
 
@@ -757,9 +799,9 @@ II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incid
 
 III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
 
-## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
+## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
 
 ###### ARTÍCULO 55.
 
@@ -857,11 +899,11 @@ III. Se negará su renovación de inscripción al mismo.
 
 8. Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes a su dimensión física.
 
+### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
+
 ### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
-
-## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
-
-### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 69.
 
@@ -909,7 +951,7 @@ VII. Proporcionar al prestador de servicios turísticos los datos de entrada, pe
 
 VIII. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 71.
 
@@ -985,7 +1027,9 @@ ARTÍCULO 72 TER.
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
 
-## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 73.
 
@@ -1050,6 +1094,8 @@ VII. Observar las disposiciones legales existentes en materia de turismo, salud,
 ###### ARTÍCULO 79.
 
 El prestador de servicios turísticos que brinde un servicio en un área natural protegida, sujeta a la jurisdicción del Estado, por el que se causen derechos, será solidariamente responsable de su pago y del pago del derecho causado por el acceso de su cliente al área natural protegida. En su caso, se hará acreedor a las sanciones que procedan, independientemente de que realice el pago correspondiente, si presta el servicio sin cerciorarse de que hayan sido pagados dichos derechos en términos de la Ley de Hacienda para el Estado.
+
+## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 80.
 
@@ -1206,6 +1252,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-745 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXXII BIS, AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-914 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXIV TER AL ARTÍCULO 3; UN TÍTULO QUINTO QUÁTER DENOMINADO “DEL TURISMO ESPACIAL”; Y LOS ARTÍCULOS 44 SEPTIES, 44 OCTIES, 44 NONIES Y 44 DECIES, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
