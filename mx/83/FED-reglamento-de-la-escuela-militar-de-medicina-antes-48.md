@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-medicina-antes-48"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2011-08-19"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MEDICO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 2024.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el martes 13 de abril de 1993.
 
@@ -35,33 +35,35 @@ REGLAMENTO DE LA ESCUELA MEDICO MILITAR
 
 ### CAPITULO I. Misión
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 1o.
 
-La Escuela Médico Militar es un establecimiento de educación militar de nivel superior, que tiene como misión formar médicos cirujanos militares para satisfacer las necesidades del Ejército y Fuerza Aérea en materia de salud, así como realizar actividades de investigación técnica y científica en el área de la ciencia médica.
+La Escuela Militar de Medicina es una institución de educación militar que tiene como misión la formación de personas médicas cirujanas militares de excelencia, competentes para desempeñarse en el primer nivel de atención médica del Ejército y Fuerza Aérea Mexicanos, bajo los principios científicos, éticos, humanísticos y de doctrina militar, así como para realizar actividades de investigación técnica y científica en el área de la ciencia Médica.
 
 ### CAPITULO II. Dependencia
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 2o.
 
-La Escuela Médico Militar depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+La Escuela Militar de Medicina depende del Alto Mando del Ejército y Fuerza Aérea, a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 3o.
 
-La Escuela Médico Militar tiene como objetivos:
+La Escuela Militar de Medicina tiene como objetivos:
 
-I. Formar médicos cirujanos militares capaces de efectuar la prevención, promoción y, recuperación de la salud, así como favorecer la rehabilitación del personal del Ejército y Fuerza Aérea y de sus derechohabientes;
+I. Formar a personas médicas cirujanas militares para que sean capaces de efectuar la prevención, promoción y, recuperación de la salud, así como favorecer la rehabilitación del personal del Ejército y Fuerza Aérea y de sus derechohabientes;
 
-II. Formar médicos cirujanos militares capaces de ejercer el mando en las unidades y escalones del servicio de sanidad, fungir como asesores de los mandos para el empleo del servicio y administrar los recursos humanos y materiales bajo su responsabilidad;
+II. Formar a personas médicas cirujanas militares para que sean capaces de ejercer el mando en las unidades y escalones del servicio de sanidad, así como fungir como asesoras de los mandos para el empleo del servicio y administrar los recursos humanos y materiales bajo su responsabilidad;
 
-III. Promover y desarrollar la investigación en la ciencia médica para contribuir a conservar el organismo del ser humano en estado de óptimo funcionamiento según lo requieran el Ejército y Fuerza Aérea; y
+III. Promover y desarrollar la investigación en la ciencia médica para conservar el cuerpo humano en estado de óptimo funcionamiento conforme a las necesidades del Ejército y Fuerza Aérea, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IV. Desarrollar en el personal en instrucción una formación militar y moral sólidas que le permitan lograr la afirmación de su ética profesional y de los valores nacionales y tradicionales del Ejército y Fuerza Aérea.
+IV. Desarrollar en el personal discente una formación militar y moral sólidas que le permitan lograr la afirmación de su ética profesional y de los valores nacionales y tradicionales del Ejército y Fuerza Aérea Mexicanos.
 
 ###### ARTICULO 4o.
 
@@ -71,37 +73,47 @@ Para alcanzar sus objetivos, el plantel imparte la carrera de Médico Cirujano c
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 5o.
 
-La Escuela Médico Militar estará constituida de conformidad con la planilla orgánica correspondiente, quedando sujeta su integración a la disponibilidad de recursos presupuestales.
+La Escuela Militar de Medicina está constituida de conformidad con la planilla orgánica correspondiente, la cual se integra con base en la disponibilidad de recursos presupuestales.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 6o.
 
-Para su funcionamiento, la Escuela Médico Militar se integra con los siguientes órganos:
+La Escuela Militar de Medicina se integra con los órganos siguientes:
 
 I. Dirección:
 
-A. Director: y
+A. La persona titular de la Dirección;
 
-B. Secretaría Particular;
+B. Oficina de Calidad Educativa;
+
+C. Célula de Contrainteligencia, y
+
+D. Asesoría Jurídica;
 
 II. Subdirección:
 
-A. Subdirector; y
+A. La persona titular de la Subdirección;
 
-B. Secretaría Particular;
+B. Sección de Relaciones Públicas, y
 
-III. Cuerpo de Cadetes y Oficiales en Instrucción:
+C. Coordinación de Género;
 
-A. Comandante, auxiliado por un Grupo de Comando;
+III. Cuerpo de Cadetes:
 
-B. Oficiales del Cuerpo;
+A. La persona titular de la Comandancia del Cuerpo de Cadetes;
 
-C. Oficiales en Instrucción; y
+B. Grupo de Comando;
 
-D. Compañías de cadetes
+C. Compañía de Oficiales Discentes, y
 
-IV. Sección Pedagógica
+D. Compañías de Cadetes;
+
+IV. Sección Pedagógica:
 
 A. Jefatura;
 
@@ -109,71 +121,79 @@ B. Subsección de Planes y Programas;
 
 C. Subsección Psicopedagógica;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+D. Subsección de Biblioteca y Hemeroteca;
 
-D. Subsección de Evaluación Educativa;
+E. Subsección de Servicios Escolares, y
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-E. Subsección de Investigación, Difusión y Doctrina Militar, y
-
-F. Subsección de Informática
+F. Subsección de Difusión Cultural;
 
 V. Sección Académica:
 
-A. Jefatura
+A. Jefatura;
 
 B. Subsección de Control Académico;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+C. Subsección de Evaluación;
 
-C. Subsección de Evaluación del Aprendizaje;
+D. Subsección de Coordinación de Campos Clínicos;
 
-D. Subsección de Materias Militares;
+E. Subsección de Estadística;
 
-E. Subsección de Materias Básicas;
+F. Subsección de Idioma Extranjero;
 
-F. Subsección de Materias Clínicas;
+G. Subsección de Docentes, y
 
-G. Subsección de Materias de Salud Pública y Complementarias:
+H. Subsección de Educación Física;
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-H. Subsección de Educación Física.
-
-> <small>(REFORMADA D.O.F. 22 DE JUNIO DE 2001)</small>
-
-VI. Sección de Laboratorios y Apoyos Didácticos;
+VI. Sección de Investigación y Doctrina Militar;
 
 A. Jefatura;
 
-B. Subsección de Biblioteca y Hemeroteca;
+B. Subsección de Investigación, y
 
-C. Subsección de Apoyos Audiovisuales;
+C. Subsección de Doctrina Militar;
 
-D. Subsección de Impresión, Diseño y Fotografía; y
+VII. Sección de Laboratorios:
 
-E. Subsección de Laboratorios y Bioterio;
+A. Jefatura;
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+B. Subsección de Anatomía;
 
-F. Subsección de Salud Pública.
+C. Subsección de Microbiología;
 
-VII. Ayudantía General:
+D. Subsección de Bioquímica;
 
-A. Ayudante General:
+E. Subsección de Laboratorio de Investigación y Bioterio;
 
-B. Subayudantes;
+F. Subsección de Salud Pública;
+
+G. Subsección de Embriología;
+
+H. Subsección de Biología Celular y Tisular;
+
+I. Subsección de Fisiología;
+
+J. Subsección de Farmacología;
+
+K. Subsección de Simulación, y
+
+L. Subsección de Cirugía;
+
+VIII. Ayudantía General:
+
+A. La persona titular de la Ayudantía General;
+
+B. La persona titular de la Subayudantía;
 
 C. Servicios Técnicos;
 
-D. Servicios Administrativos y Generales; y
+D. Servicios Administrativos y Generales, y
 
-E. Residencia de Ingenieros;
+E. Residencia de Ingenieros, y
 
-VIII. Sección Administrativa:
+IX. Sección Administrativa:
 
-A. Jefatura;
+A. La persona titular de la Sección Administrativa;
 
 B. Subsección de Personal;
 
@@ -183,43 +203,67 @@ D. Subsección de Contabilidad;
 
 E. Subsección de Control de Inventarios;
 
-F. Subsección de Archivo y Correspondencia; y
+F. Subsección de Archivo y Correspondencia, y
 
-IX. Unidad Ejecutora de Pago.
+G. Subsección del Depósito de Vestuario y Equipo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 7o.
 
-Además de los órganos señalados en el artículo anterior, deberá existir una Junta Técnico-Consultiva que se convoca por disposición del director y se integra de la siguiente forma:
+La Escuela Militar de Medicina, además de los órganos señalados en el artículo anterior, debe contar con una Junta Técnico Consultiva, la cual es convocada por la persona titular de la Dirección y se integra por:
 
-I. Presidente
+I. La presidencia, a cargo de la persona titular de la Subdirección del plantel;
 
-Subdirector del plantel;
+II. Las vocalías, las cuales están a cargo de personas titulares de:
 
-II. Vocales:
+A. La Oficina de Calidad;
 
-Jefes de las Secciones Pedagógica, Académica, Comandante del Cuerpo de Cadetes y Oficiales en instrucción y los Jefes de las Subsecciones de materias que son: básicas, militares, clínicas y de salud pública y complementarias;
+B. La Jefatura de la Sección Pedagógica;
 
-III. El Secretario será el vocal de menor jerarquía y antigüedad;
+C. La Jefatura de la Sección Académica;
 
-IV. En casos especiales, podrá recurrirse a otras fuentes de asesoramiento; y
+D. La Comandancia del Cuerpo de Cadetes;
 
-V. Los vocales de la Junta Técnico-Consultiva, serán suplidos en sus ausencias, por un Jefe de Subsección de la Sección correspondiente o por el Jefe del Grupo de Comando del Cuerpo de Cadetes y Oficiales en instrucción.
+E. La Subsección Psicopedagógica;
+
+F. La Subsección de Coordinación de Campos Clínicos;
+
+G. La Subsección de Docentes;
+
+H. La Subsección de Idioma Extranjero;
+
+I. La Subsección de Estadística, y
+
+J. La Subsección de Salud Pública.
+
+Las personas vocales cuentan con voz y voto;
+
+III. La Secretaría de la Junta Técnico Consultiva está a cargo de la persona vocal de menor jerarquía y antigüedad;
+
+IV. En casos especiales puede recurrirse a otras fuentes de asesoramiento, y
+
+V. Las personas vocales titulares de jefaturas de sección o subsección deben ser suplidas en sus ausencias, por una persona con el grado de Jefe u Oficial perteneciente a la Sección o Subsección correspondiente, y la persona titular de la Comandancia del Cuerpo de Cadetes por la persona titular de la Jefatura del Grupo de Comando de dicho Cuerpo.
 
 ## TITULO TERCERO. Funciones
 
 ### CAPITULO I. De la Dirección
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 8o.
 
-La Dirección, es el órgano rector de la Escuela Médico Militar a cargo de un General o Coronel Médico Cirujano, egresado del propio plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
+La Dirección es el órgano rector de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de General o Coronel Médico Cirujano, egresada de la misma Escuela y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 9o.
 
-El Director del plantel tiene las atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de tropa de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
+La Dirección del plantel tiene, además de las atribuciones y responsabilidades que señalan las leyes y reglamentos militares aplicables para la Comandancia de Cuerpo de Tropa, las siguientes:
 
-I. Representar a la Escuela Médico Militar;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Representar a la Escuela Militar de Medicina;
 
 II. Hacer cumplir las directivas que determine el Alto Mando del Ejército y Fuerza Aérea y las señaladas en el Plan General de Educación Militar;
 
@@ -247,7 +291,9 @@ IX. Proponer a la Dirección General de Educación Militar y Rectoría de la Uni
 
 X. Someter a consideración de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de convocatoria y el instructivo de admisión;
 
-XI. Conferir los cargos que desempeñe el personal académico, docente, del cuerpo de cadetes y oficiales en instrucción, administrativo y de la planta de la escuela, excepto aquellos que sean designados por el Alto Mando;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Conferir los cargos que debe desempeñar el personal académico, docente, del Cuerpo de Cadetes, administrativo y de la planta de la escuela, excepto aquellos que sean designados por el Alto Mando;
 
 XII. Otorgar los nombramientos y distinciones necesarios para cubrir los cuadros en las unidades de cadetes;
 
@@ -271,21 +317,27 @@ XVIII. Promover la afiliación del personal militar y sus derechohabientes confo
 
 XIX. Investigar, difundir, fomentar y mantener la unidad de doctrina militar en el plantel, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Las que le sean asignadas por la Secretaría de la Defensa Nacional.
+XX. Las demás que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO II. De la Subdirección
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 10.
 
-La Subdirección de la Escuela Médico Militar, es un órgano de dirección de la misma, a cargo de un Coronel o Teniente Coronel Médico Cirujano, egresado del plantel, que haya sido profesor del mismo, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección es un órgano de dirección de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel Médico Cirujano, egresada de este plantel, que haya sido docente de dicha escuela y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 11.
 
-El Subdirector de la Escuela Médico Militar tiene las atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
+La Subdirección de la Escuela Militar de Medicina tiene, además de las atribuciones y responsabilidades que señalan las leyes y reglamentos militares aplicables para la Segunda Comandancia de Cuerpo de Tropa, las siguientes:
 
-I. Suplir en sus ausencias temporales al Director del plantel en el ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Suplir las ausencias de la persona titular de la Dirección del plantel en el ejercicio de sus facultades;
 
 II. Desempeñarse como Jefe de Estudios del plantel;
 
@@ -311,37 +363,55 @@ XII. Convocar y presidir juntas de coordinación con el personal docente del pla
 
 XIII. Proponer a los integrantes de los jurados para los exámenes señalados en el presente reglamento;
 
-XIV. Efectuar reuniones con el personal en instrucción para tratar asuntos académicos o disciplinarios;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Informar oportunamente al Director del plantel acerca del personal en instrucción que se encuentre comprendido en alguna causal de baja;
+XIV. Efectuar reuniones con el personal discente para tratar asuntos académicos o disciplinarios;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Informar oportunamente a la persona titular de la Dirección del plantel acerca del personal discente que se encuentre comprendido en alguna causal de baja;
 
 XVI. Proponer a la Dirección los movimientos internos del personal; y
 
-XVII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPITULO III. Del Cuerpo de Cadetes y Oficiales en instrucción
+XVII. Las demás atribuciones que le sean asignadas por la persona titular de la Dirección del plantel.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPITULO III. Del Cuerpo de Cadetes
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12.
 
-El Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Médico Militar, está a cargo de un Teniente Coronel o Mayor de Arma Diplomado de Estado Mayor, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
+La Comandancia del Cuerpo de Cadetes de la Escuela Militar de Medicina está a cargo de una persona con el grado de Teniente Coronel o Mayor de Arma, De Estado Mayor y nombrada por el Alto Mando del Ejército y Fuerza Aérea.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 13.
 
-El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción del plantel tiene las atribuciones y responsabilidades siguientes:
+La Comandancia del Cuerpo de Cadetes del plantel tiene las atribuciones y responsabilidades siguientes:
 
-I. Ejercer el mando del Cuerpo de Cadetes y Oficiales en Instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-II. Suplir en sus ausencias temporales al Subdirector del plantel;
+I. Ejercer el mando del Cuerpo de Cadetes;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Suplir en sus ausencias a la persona titular de la Subdirección del plantel;
 
 III. Asesorar en asuntos de su competencia;
 
-IV. Mantener la disciplina y exigir la buena presentación del personal en instrucción, de acuerdo con lo señalado en las leyes y reglamentos militares;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Mantener la disciplina y exigir la buena presentación del personal discente, de acuerdo con las leyes y reglamentos militares;
 
 V. Proponer a la Dirección del plantel al personal de cadetes nacionales que por su aprovechamiento y disciplina sea acreedor a recibir distinción o algún grado para cubrir los cuadros de clases en las unidades del Cuerpo;
 
-VI. Contribuir en la educación integral del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Contribuir en la educación integral del personal discente;
 
 VII. Aplicar el programa de instrucción de orden cerrado;
 
@@ -351,15 +421,23 @@ IX. Aplicar el programa de tiro;
 
 X. Supervisar el mantenimiento del armamento, municiones, vestuario y equipo del personal del Cuerpo;
 
-XI. Capacitar y supervisar al personal de oficiales del cuerpo de cadetes y oficiales en instrucción respecto de sus funciones y responsabilidades;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Capacitar y supervisar al personal discente respecto de sus funciones y responsabilidades;
 
 XII. Controlar y supervisar el desempeño de los servicios de armas, económicos y especiales que realice el personal del Cuerpo;
 
-XIII. Presentar a la Dirección del plantel las órdenes de arresto del personal en instrucción para su graduación y elaborar los registros de control de la conducta;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Efectuar reuniones con el personal en instrucción para tratar asuntos disciplinarios;
+XIII. Presentar a la Dirección del plantel las órdenes de arresto del personal discente para su graduación y elaborar los registros del control de la conducta;
 
-XV. Supervisar el pago del PRE al personal de cadetes;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Efectuar reuniones con el personal discente para tratar asuntos disciplinarios;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Supervisar el pago de la Pensión Recreativa Estudiantil al personal de cadetes;
 
 XVI. En coordinación con el Ayudante General, elaborar y aplicar los planes de defensa y de contingencias del plantel;
 
@@ -367,33 +445,41 @@ XVII. Formular los informes de su competencia;
 
 XVIII. Coordinar las actividades del Cuerpo con los demás órganos del plantel; y
 
-XIX. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Las demás atribuciones que le sean asignadas por la persona titular de la Dirección del plantel.
 
 ### CAPITULO IV. De la Sección Pedagógica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 14.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Médico Militar, a cargo de un Teniente Coronel o Mayor Médico Cirujano egresado del plantel, a quien se denomina Jefe de la Sección Pedagógica, mismo que además debe reunir al menos uno de los siguientes requisitos:
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de Teniente Coronel o Mayor Médico Cirujano, egresada del plantel y contar con al menos uno de los requisitos siguientes:
 
 I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 15.
 
-El Jefe de la Sección Pedagógica del plantel tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección Pedagógica tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
 II. Elaborar los proyectos de planes y programas de estudio de conformidad con el Plan General de Educación Militar;
 
-III. Evaluar los resultados del proceso enseñanza-aprendizaje y proponer medidas para mejorar el rendimiento del personal docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Evaluar los resultados del proceso enseñanza-aprendizaje y proponer medidas para mejorar el rendimiento del personal docente y discente;
 
 IV. Elaborar y coordinar los programas de prácticas y visitas a instituciones militares y civiles, así como otras actividades académicas;
 
-V. Realizar la evaluación psicológica del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+V. Realizar la evaluación psicológica del personal discente;
 
 VI. Evaluar el desempeño académico del personal docente;
 
@@ -411,7 +497,7 @@ XI. Controlar el archivo pedagógico;
 
 XII. Coordinar la formulación de los exámenes profesionales;
 
-XIII. Proponer y coordinar los proyectos de trabajos de investigación del personal docente y en instrucción;
+XIII. (DEROGADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 XIV. Participar en el proceso de admisión al plantel;
 
@@ -433,33 +519,43 @@ XX. Coordinar sus actividades con los demás órganos del plantel; y
 
 XXI. Atender asuntos de educación, cultura y doctrina militar, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XXII. Las que le sean asignadas por la Dirección del plantel.
+XXII. Las demás atribuciones que le sean asignadas por la persona titular de la Dirección del plantel.
 
 ### CAPITULO V. De la Sección Académica
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 16.
 
-La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Médico Militar, a cargo de un Teniente Coronel del Servicio de Sanidad o Médico Cirujano egresado del plantel, a quien se denomina Jefe de la Sección Académica, mismo que además debe reunir cualquiera de los requisitos siguientes:
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de Teniente Coronel del Servicio de Sanidad o Médico Cirujano, egresada del plantel y, reunir cualquiera de los requisitos siguientes:
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 I. Tener experiencia docente, o
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 II. Tener experiencia académica.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 17.
 
-El Jefe de la Sección Académica del plantel tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección Académica tiene las atribuciones y responsabilidades siguientes:
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio del plantel;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 II. Controlar el avance programático de las diferentes asignaturas del plan de estudios;
 
-III. Coordinar y supervisar las actividades que realice el personal en instrucción en las instituciones civiles, estadías, visitas y congresos como parte del desarrollo programático correspondiente;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+III. Coordinar y supervisar las actividades que realice el personal discente en las instituciones civiles, estadías, visitas y congresos como parte del desarrollo de los planes y programas de estudio correspondientes;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -469,49 +565,93 @@ IV. Coordinar la elaboración oportuna de los títulos, certificados, diplomas y
 
 V. Coordinar y supervisar las evaluaciones parciales y finales que se aplican en los grupos pedagógicos del plantel;
 
-VI. Elaborar la documentación estadística en relación con el rendimiento académico de cada grupo pedagógico y de cada alumno en particular;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Elaborar la documentación estadística en relación con el rendimiento académico de cada grupo pedagógico y del personal discente;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 VII. Generar la información estadística del plantel;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 VIII. Supervisar la aplicación de los instrumentos de evaluación;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Concentrar, procesar y controlar en el archivo digital las calificaciones del personal discente;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IX. Concentrar, procesar y controlar en archivo las calificaciones del personal en instrucción;
-
 X. Controlar el archivo académico del plantel;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 XI. Proponer la realización de juntas de coordinación con el personal docente;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 XII. Informar los casos de bajo rendimiento escolar;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 XIII. Coordinar sus actividades con los demás órganos del plantel;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 XIV. Desarrollar funciones de enlace para actividades académicas fuera del plantel; y
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Supervisar y elaborar las historias académicas del personal en instrucción, y
+XV. Supervisar y elaborar el historial académico del personal discente, y
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 XVI. Las que le sean asignadas por la Dirección del plantel.
 
-### CAPITULO VI. De la Sección de Apoyos Didácticos
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### ARTICULO 17 Bis.
+
+La Sección de Investigación y Doctrina Militar es el órgano encargado de realizar las actividades académicas y administrativas de investigación para la eficiencia terminal del personal discente próximo a graduarse, la cual está a cargo de una persona con el grado de Teniente Coronel o Mayor Médico Cirujano y egresada del plantel o del Servicio de Sanidad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 17 Ter.
+
+La Sección de Investigación y Doctrina Militar tiene como misión desarrollar y coordinar investigaciones en el ámbito médico y militar con el fin de crear y difundir conocimientos actualizados de la ciencia médica que fortalezca la operatividad del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 17 Quater.
+
+La Jefatura de la Sección de Investigación y Doctrina Militar tiene las atribuciones y responsabilidades siguientes:
+
+I. Programar y proponer a la Dirección del plantel las líneas de investigación con base en las necesidades del sistema de salud y de la Secretaría de la Defensa Nacional;
+
+II. Verificar que los proyectos de investigación y tesis cumplan con la normativa vigente;
+
+III. Supervisar los avances de los proyectos de investigación de tesis;
+
+IV. Evaluar la presentación final del proyecto de investigación, y
+
+V. Registrar los proyectos de investigación ante la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPITULO VI. De la Sección de Laboratorios
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 18.
 
-La Sección de Laboratorios y Apoyos Didácticos es el órgano encargado de proveer, controlar y mantener el material didáctico necesario para la materialización del proceso educativo de la Escuela Médico Militar, a cargo de un Teniente Coronel del Servicio de Sanidad o Médico Cirujano, egresado del plantel, a quien se denomina Jefe de la Sección de Laboratorios y Apoyos Didácticos.
+La Sección de Laboratorios es el órgano encargado de proveer, controlar y mantener el material didáctico necesario para la materialización del proceso educativo de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de Teniente Coronel del Servicio de Sanidad o Médico Cirujano, egresada del mismo plantel.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 19.
 
-El Jefe de la Sección de Laboratorios y Apoyos Didácticos del plantel tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección de Laboratorios tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar la selección, diseño, producción y adquisición de los apoyos didácticos necesarios para el proceso enseñanza-aprendizaje;
 
@@ -525,11 +665,11 @@ V. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO VII. De la Ayudantía General
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 20.
 
-La Ayudantía de la Escuela Médico Militar, es el órgano encargado de satisfacer las necesidades de vida interna del plantel a cargo de un Teniente Coronel de arma o servicio, a quien se denomina Ayudante General.
+La Ayudantía es el órgano encargado de satisfacer las necesidades internas de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de Teniente Coronel de Arma o de Servicio.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -563,17 +703,17 @@ XII. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO VIII. De la Sección Administrativa
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 22.
 
-La Sección Administrativa del plantel es el órgano de apoyo administrativo del mismo, a cargo de un Teniente Coronel o Mayor del Servicio de Sanidad u oficinista, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa es el órgano de apoyo administrativo de la Escuela Militar de Medicina, la cual está a cargo de una persona con el grado de Teniente Coronel o Mayor del Servicio de Sanidad u Oficinista.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 23.
 
-El Jefe de la Sección Administrativa del plantel tiene las atribuciones y responsabilidades siguientes:
+La Jefatura de la Sección Administrativa tiene las atribuciones y responsabilidades siguientes:
 
 I. Reclutar al personal que se requiera para cubrir las necesidades del plantel;
 
@@ -611,13 +751,11 @@ XVI. Las que le sean asignadas por la superioridad.
 
 ###### ARTICULO 24.
 
-La Unidad Ejecutora de Pago de la Escuela Médico Militar, está a cargo de un Jefe u Oficial Pagador a quien se denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 25.
 
-El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal del mismo, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 26.
 
@@ -625,91 +763,107 @@ El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de p
 
 ### CAPITULO X. De la Junta Técnico-Consultiva
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 27.
 
-La Junta Técnico-Consultiva es el órgano colegiado que asesora al Director en materia Pedagógica y Académica.
+La Junta Técnico Consultiva es el órgano colegiado que asesora a la persona titular de la Dirección en materia pedagógica y académica, así como en los casos en que una persona discente se coloque en alguna causal que amerite la baja de la Escuela Militar de Medicina.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 28.
 
-La Junta Técnica Consultiva tiene las atribuciones y responsabilidades siguientes:
+La Junta Técnico Consultiva tiene las atribuciones y responsabilidades siguientes:
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 II. Analizar los planes y programas de estudio del plantel recomendando cuando corresponda su actualización, para que respondan al perfil profesional de egreso del personal en instrucción;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 III. Recomendar los cambios necesarios al Manual de Organización y Funcionamiento del plantel;
 
-IV. Evaluar la actuación del personal académico, docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Evaluar la actuación del personal académico, docente, discente y de apoyo a la educación;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 V. Analizar los resultados de la evaluación académica para mejorar el proceso enseñanza-aprendizaje;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 VI. Proponer al personal directivo, académico, docente y en instrucción que se haga acreedor a recibir alguna recompensa;
 
-VII. Proponer normas y disposiciones orientadas a la mejor organización y funcionamiento académico y pedagógico del establecimiento, y
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Las que en materia pedagógica y académica le asigne el Director del plantel.
+VII. Proponer normas y disposiciones orientadas a la mejor organización y funcionamiento académico y pedagógico del plantel;
+
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Elaborar el acta correspondiente cuando el personal discente se ubique en alguna causal de baja del plantel, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Las demás funciones que en materia pedagógica y académica le encomiende la persona titular de la Dirección del plantel.
 
 ## TITULO CUARTO. Del personal
 
 ### CAPITULO I. Clasificación
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 29.
 
-El personal de la Escuela Médico Militar se clasifica como sigue:
+El personal de la Escuela Militar de Medicina se clasifica en:
 
-I. Directivo
+I. Directivo:
 
-A. Director; y
+A. La persona titular de la Dirección, y
 
-B. Subdirector;
+B. La persona titular de la Subdirección;
 
 II. Académico:
 
-A. Jefe de la Sección Pedagógica;
+A. La persona titular de la Jefatura de la Sección Pedagógica;
 
-B. Jefe de la Sección Académica; y
+B. La persona titular de la Jefatura de la Sección Académica;
 
-C. Jefes de Subsección de las Secciones Pedagógica y Académica;
+C. Las personas titulares de las jefaturas de las subsecciones Pedagógica y Académica, y
+
+D. La persona titular de la Jefatura de la Sección de Investigación y Doctrina Militar;
 
 III. Docente:
 
-A. Profesores; e
+A. El personal profesorado, y
 
-B. Instructores;
+B. El personal instructor;
 
-IV. Del Cuerpo de Cadetes y Oficiales en Instrucción:
+IV. Del Cuerpo de Cadetes:
 
-A. Comandante y Grupo de Comando;
+A. La persona titular de la Comandancia;
 
-B. Oficiales del Cuerpo,
+B. La persona titular del Grupo de Comando del Cuerpo de Cadetes;
 
-C. Personal en Instrucción:
+C. Las personas con el grado de Oficial del Cuerpo de Cadetes, y
 
-A. Oficiales en, Instrucción; y
-
-B. Cadetes;
+D. El personal discente;
 
 V. Administrativo:
 
-A. Ayudante General;
+A. La persona titular de la Ayudantía General;
 
-B. Jefe de la Sección Administrativa;
+B. La persona titular de la Jefatura de la Sección Administrativa;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+C. La persona titular de la Jefatura de la Sección de Laboratorios;
 
-C. Jefe de la Sección de Laboratorios y Apoyos Didácticos;
+D. Las personas titulares de las jefaturas de las subsecciones respectivas, y
 
-D. Jefe de la Unidad Ejecutora de Pago; y
-
-E. Jefes de las Subsecciones respectivas; y
-
-VI. De la Planta:
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-Está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación anterior.
+VI. De la Planta, constituido por el personal de los servicios técnicos, administrativos y generales.
 
 ### CAPITULO II. Del Personal Directivo y Académico
 
@@ -725,39 +879,21 @@ El personal directivo y académico tiene las atribuciones y responsabilidades qu
 
 Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento, disposiciones aplicables que emita la superioridad y contrato respectivo, este personal puede ser profesor o instructor.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 32.
 
-Son profesores, los elementos militares o civiles que habiendo cubierto los requisitos establecidos por el plantel, imparten materias militares, profesionales o culturales, pudiendo ser:
+El personal docente son militares o civiles que han cubierto los requisitos establecidos por las disposiciones emitidas por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea y por el plantel, las cuales imparten las asignaturas militares, profesionales o culturales. Este personal puede ser:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Titular: se caracteriza por sus conocimientos y experiencia, así como por su capacidad docente e imparte como mínimo el 60 % de las clases programadas;
 
-I. Titular:
+II. Asociada: es la que colabora directamente con la titular, la sustituye en sus ausencias e imparte el 40% de las clases programadas y está en condiciones de asumir la titularidad cuando sea necesario;
 
-Es el más caracterizado por sus conocimientos y experiencia, así como su capacidad docente e imparte como mínimo el 60 % de las clases programadas.
+III. Adjunta: es quien desarrolla las funciones que le asigne la titular y sustituye a la titular o a la asociada;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+IV. Ayudante: es quien desempeña las distintas comisiones o trabajos técnicos que le son designados por la titular o la adjunta, y
 
-II. Asociado:
-
-Colabora directamente con el profesor titular, lo sustituye en sus ausencias e imparte el 40% de las clases programadas y está en condiciones de asumir la titularidad cuando sea necesario.
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-III. Adjunto:
-
-Desarrolla las funciones que le asigne el profesor titular, asimismo sustituye al profesor titular o asociado.
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IV. Ayudante:
-
-Desempeña las distintas comisiones o trabajos técnicos que le son designados por el profesor titular o adjunto.
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-V. Emérito:
-
-Son profesores titulares que cumplan 60 años de edad, con carrera docente de 20 años o más y con labor especialmente meritoria en la escuela.
+V. El personal emérito: son titulares que cumplan 60 años de edad, con carrera docente de 20 años o más y con labor especialmente meritoria en la escuela.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -771,39 +907,49 @@ Son instructores los militares a quienes se encomienda la impartición de conoci
 
 Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
-### CAPITULO IV. Del Personal del Cuerpo de Cadetes y Oficiales en instrucción
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-#### SECCION I. Del Comandante, Grupo de Comando y Oficiales del Cuerpo
+### CAPÍTULO IV. Del personal del Cuerpo de Cadetes
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCION I. De la Comandancia, Grupo de Comando y Compañías del Cuerpo de Cadetes
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 35.
 
-El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción, el personal del Grupo de Comando y los Oficiales del Cuerpo, tienen las atribuciones y responsabilidades que establecen las leyes y reglamentos militares para su jerarquía y cargo, las estipuladas en el presente Reglamento y disposiciones aplicables que emita la superioridad.
+La persona titular de la Comandancia del Cuerpo de Cadetes, el personal del Grupo de Comando y las personas con el grado de Oficiales que pertenecen al Cuerpo de Cadetes tienen las facultades y responsabilidades que establecen las leyes y reglamentos militares para su jerarquía y cargo, incluidas las previstas en el presente reglamento y las disposiciones emitidas por la Secretaría de la Defensa Nacional.
 
-#### SECCION II
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-Del Personal en Instrucción.
+#### SECCION II. Del personal discente
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 36.
 
-El personal de oficiales, tropa y civiles que cause alta en la Escuela Médico Militar para realizar estudios, recibe la denominación de personal en instrucción.
+Son discentes las personas con el grado de Oficiales, de Tropa y personas civiles que causen alta en la Escuela Militar de Medicina, para realizar estudios.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 37.
 
-El personal en instrucción será designado como sigue:
+El personal discente es designado conforme a lo siguiente:
 
-I. Los Oficiales del Ejército y Fuerza Aérea, como Oficiales en Instrucción en calidad de externos; y
+I. Oficiales discentes en calidad de externos, a los Oficiales del Ejército y Fuerza Aérea, y
 
-II. El personal procedente de tropa del Ejército y Fuerza Aérea y los civiles, como Cadetes en calidad de internos.
+II. Cadetes en calidad de internos, al personal procedente de Tropa del Ejército y Fuerza Aérea, así como a civiles.
 
 ###### ARTICULO 38.
 
 Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia en él, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 39.
 
-El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las responsabilidades siguientes:
+El personal discente tiene, además de lo establecido en la legislación militar y las disposiciones que emita la Secretaría de la Defensa Nacional, las responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -821,9 +967,11 @@ V. Observar el mayor respeto a sus superiores, subalternos e iguales, evitando r
 
 VI. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 40.
 
-El personal en instrucción que cada año ingrese a la Escuela Médico Militar, integrará una generación que será designada con el año de inicio y término de la carrera.
+El personal discente que cada año ingrese a la Escuela Militar de Medicina integra una generación que debe designarse con el año de inicio y término de la carrera.
 
 ### CAPITULO V. Del Personal Administrativo y de la Planta
 
@@ -835,35 +983,47 @@ El personal Administrativo y de la planta de la Escuela Médico Militar tiene la
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 42.
 
-Las actividades de admisión a la Escuela Médico Militar se realizan con base en las disposiciones que sobre el particular emite la Secretaría de la Defensa Nacional.
+En la Escuela Militar de Medicina la admisión debe realizarse de conformidad con las disposiciones que emite la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 43.
 
-El ingreso a la Escuela Médico Militar debe ser únicamente al primer año de estudios y por riguroso concurso de selección.
+En la Escuela Militar de Medicina el ingreso debe ser únicamente al primer año de estudios y por riguroso concurso de selección.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 44.
 
-Los concursantes que cumplan con los requisitos de admisión y obtengan en sus exámenes las puntuaciones más altas para cubrir las plazas autorizadas, causan alta como Oficiales en Instrucción o Cadetes, previa firma del compromiso o contrato filiación respectivamente, con la Secretaría de la Defensa Nacional.
+Las personas concursantes que cumplan con los requisitos de admisión y obtengan en sus exámenes las puntuaciones más altas para cubrir las plazas autorizadas, causan alta como Oficiales discentes o Cadetes, previa firma del compromiso o contrato filiación respectivamente, con la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 45.
 
-Es facultad del Alto Mando, autorizar el ingreso a la Escuela Médico Militar a personal de nacionalidad extranjera a solicitud del gobierno de su país ante el de México a través de la Secretaría de la Defensa Nacional. Su estancia en el plantel será exclusivamente para efectuar estudios y obtener el título de Médico Cirujano.
+El Alto Mando tiene la facultad de autorizar el ingreso a la Escuela Militar de Medicina a personal de nacionalidad extranjera a solicitud del gobierno de su país ante el de México, a través de la Secretaría de la Defensa Nacional. Su estancia en el plantel debe ser exclusivamente para efectuar estudios y obtener el título de Médico Cirujano.
 
 ## TITULO SEXTO. Del Proceso Enseñanza-Aprendizaje
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 46.
 
-La formación del personal en instrucción se realiza mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
+La formación del personal discente debe realizarse mediante el proceso de enseñanza-aprendizaje, a través de sus tres fases: planeación, ejecución y evaluación.
 
 ### CAPITULO II. De la Planeación
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 47.
 
-La planeación del proceso enseñanza-aprendizaje en la Escuela Médico Militar se lleva a cabo de acuerdo con el Plan General de Educación Militar y el Calendario General Escolar.
+El proceso de enseñanza-aprendizaje del plantel se basa en el modelo educativo establecido en el Plan General de Educación Militar y el Calendario General Escolar.
 
 ###### ARTICULO 48.
 
@@ -871,51 +1031,49 @@ La planeación didáctica, es el conjunto de acciones que permiten establecer la
 
 ### CAPITULO III. De la Ejecución
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 49.
 
-La ejecución del proceso enseñanza-aprendizaje, tiene por objeto la correcta coordinación y aplicación del contenido de los planes y programas de estudio a través de la interacción del personal docente y en instrucción.
+La ejecución del proceso de enseñanza-aprendizaje tiene por objeto la coordinación y aplicación del contenido de los planes y programas de estudio de la Escuela Militar de Medicina, a través de la interacción del personal docente y discente.
 
 ### CAPITULO IV. De la Evaluación
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 50.
 
-La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y la de los planes y programas de estudio.
+La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal discente, en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y la de los planes y programas de estudio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 51.
 
-El personal docente evalúa al personal en instrucción en las siguientes formas:
+El personal docente evalúa al personal discente conforme a lo siguiente:
 
 I. Apreciación de conocimientos y aptitudes adquiridos, mediante su participación en clase y su desempeño en ejercicios y trabajos prácticos; y
 
-II. Aplicación de diversos exámenes.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+II. Aplicación de diversas evaluaciones.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 52.
 
-Los exámenes que se aplican en la Escuela Médico Militar son los siguientes:
+Las evaluaciones que se aplican en la Escuela Militar de Medicina son las siguientes:
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Parciales: aquellas que realiza el personal discente de una o varias partes del programa de estudios de cualquier asignatura durante el semestre correspondiente. Para cada asignatura debe aplicarse un mínimo de tres evaluaciones;
 
-I. Parciales:
+II. Final ordinaria: las que se aplican al personal discente al término del semestre correspondiente y cubre la totalidad del programa de estudios de cada asignatura;
 
-Son aquellos que realiza el personal en instrucción de una o varias partes del programa de estudio de cualquier asignatura durante el semestre correspondiente; para cada materia debe aplicarse un mínimo de tres exámenes en ese lapso.
+III. Extraordinaria: las que se aplican al personal discente cuya calificación final de la asignatura es menor de 6.0 puntos, conforme a lo establecido en el artículo 56 de este reglamento;
 
-II. Final Ordinario:
+IV. De defensa de tesis: La que sustenta el personal discente, la cual consiste en la presentación final de su trabajo de investigación, para tener derecho a obtener el título de pasante de medicina;
 
-Es aquel que se aplica al personal en instrucción al término del semestre correspondiente y cubre la totalidad del programa de cada asignatura;
+V. Profesional: La que sustenta el personal discente pasante de medicina después de acreditar el contenido de los programas de estudio de la carrera de Médico Cirujano, para tener derecho a obtener el título de Médico Cirujano, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-III. Extraordinario:
-
-Es aquel que se aplica al personal en instrucción cuya calificación final de la asignatura es menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 56 de este Reglamento.
-
-IV. Profesional:
-
-Es aquel que sustenta el personal en instrucción después de acreditar el contenido de los programas de estudio de la carrera de Médico Cirujano y aprobar el examen de la tesis que haya elaborado. Lo anterior, da derecho a obtener el título de Médico Cirujano; y
-
-V. Especial:
-
-Es aquel que se aplica bajo las condiciones que establece el presente reglamento al personal que estuvo en instrucción y causó baja del plantel sin terminar los estudios.
+VI. Especiales: Son las que se aplican bajo las condiciones que establece el presente reglamento al personal discente que haya causado baja del plantel sin terminar sus estudios.
 
 ###### ARTICULO 53.
 
@@ -953,9 +1111,11 @@ II. El resultado del examen final ordinario constituirá el 40% de la calificaci
 
 La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "OBTENIDA EN EXAMEN EXTRAORDINARIO" u, "OBTENIDA EN EXAMEN ESPECIAL". Esta situación excluye al alumno de la posibilidad de obtener algún premio académico.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 58.
 
-El personal en instrucción que utilice medios fraudulentos para la resolución de algún examen, será suspendido del mismo y calificado con CERO.
+Al personal discente que utilice medios fraudulentos para resolver una evaluación, debe suspenderse su aplicación y ser calificada con cero.
 
 ###### ARTICULO 59.
 
@@ -1007,9 +1167,11 @@ Los jurados para aplicar y evaluar los diferentes tipos de exámenes mencionados
 
 Son faltas de asistencia académica, las ausencias del personal en instrucción a cualquier actividad académica teórica o práctica. Las faltas de asistencia académica pueden ser justificadas o injustificadas.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 63.
 
-Son faltas justificadas, las que se deban a comisiones del servicio, motivos de salud, razones de carácter legal y las que a juicio del Director considere como tales.
+Son faltas justificadas, las ausencias del personal discente por comisiones del servicio, motivos de salud, razones de carácter legal y las que a juicio de la persona titular de la Dirección se consideren como tales.
 
 ###### ARTICULO 64.
 
@@ -1023,9 +1185,11 @@ Las faltas de asistencia académica se computarán a razón de una falta, por ca
 
 Las faltas justificadas por actos del servicio, no serán acumuladas.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 67.
 
-Las faltas injustificadas y las justificadas por motivos de salud, razones de carácter legal y las que a juicio del Director se consideren como tales, serán acumuladas.
+Las faltas injustificadas y las justificadas por motivos de salud, razones de carácter legal y las que a juicio de la persona titular de la Dirección se consideren como tales, deben acumularse.
 
 ###### ARTICULO 68.
 
@@ -1037,59 +1201,67 @@ El registro y cómputo de faltas se dará a conocer periódicamente al personal 
 
 El personal que concluye satisfactoriamente sus estudios, causa baja del plantel y queda a disposición de la Secretaría de la Defensa Nacional para los efectos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 70.
 
-Son causales de baja del plantel para el personal en instrucción las siguientes:
+El personal discente causa baja de la Escuela Militar de Medicina por:
 
-I. Reprobar el 40 % o más del total de exámenes parciales en un mismo período de evaluación;
+I. Reprobar el 40% o más del total de evaluaciones parciales en un mismo período de evaluación;
 
-II. Reprobar tres exámenes parciales de una misma asignatura;
+II. Reprobar tres evaluaciones parciales de una misma asignatura;
 
-III. Reprobar el 40 % o más del total de los exámenes finales ordinarios en un semestre;
+III. Reprobar el 40% o más del total de las evaluaciones finales ordinarias en un semestre;
 
-IV. Reprobar uno o más exámenes extraordinarios;
+IV. Reprobar una o más evaluaciones extraordinarias;
 
-V. Reprobar el examen profesional;
+V. Reprobar la evaluación de defensa de tesis;
 
-VI. Acumular el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas en un semestre;
+VI. Reprobar la evaluación profesional;
 
-VII. Acumular el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas en un semestre;
+VII. Acumular el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas en un semestre;
 
-VIII. Acumular 500 puntos de demérito durante el año lectivo, previa determinación de mala conducta por el Consejo de Honor;
+VIII. Acumular el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas en un semestre;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IX. Infringir cualquiera de las cláusulas establecidas en el compromiso filiación;
+IX. Acumular 500 puntos de demérito durante el año lectivo, previa determinación de mala conducta por el Consejo de Honor;
 
 X. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
-XI. Estar comprendido en alguna de las categorías de inutilidad, de acuerdo con las tablas anexas a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+XI. Faltar injustificadamente a sus labores académicas durante tres días consecutivos, solo para el personal becario extranjero, y
 
-XII. Quedar comprendido en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y
+XII. Incurrir en las conductas previstas en las fracciones I; II; V Bis, inciso b; VI; VIII; IX; X; XI; XII; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII y XXIV, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
-XIII. Para el personal becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XIV. Adquirir otra nacionalidad;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XV. Solicitud del interesado que sea aceptada por la superioridad, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XVI. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 71.
 
-El personal en instrucción que cause baja del plantel quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+El personal discente que cause baja del plantel debe quedar a disposición de la Secretaría de la Defensa Nacional, para los efectos que correspondan.
 
-> <small>(ADICIONADO D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 71 Bis.
 
-Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+Al personal discente que por cualquier motivo vaya a ser dado de baja del plantel, se le debe comunicar previamente por escrito esta circunstancia. Dicho escrito debe señalar los motivos y fundamentos jurídicos para su baja, así como concederle un término de quince días naturales, contado a partir de la fecha en que sea notificado, para que manifieste lo que a sus intereses convenga.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 71 Ter.
+
+El personal discente que haya causado baja del plantel se le debe otorgar los grados siguientes:
+
+I. El personal discente con el grado de Ofíciales debe conservar el grado y empleo que en ese momento tenga, y
+
+II. El demás personal discente conforme a lo siguiente:
+
+A. Primero año, como Soldado de Sanidad;
+
+B. Segundo año, como Cabo de Sanidad;
+
+C. Tercer año, como Sargento Segundo de Sanidad;
+
+D. Cuarto año, como Sargento Primero de Sanidad, y
+
+E. Quinto y sexto año, debe conservar la misma jerarquía que en ese momento ostente.
 
 ### CAPITULO III. De los Reingresos
 
@@ -1099,71 +1271,89 @@ Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del
 
 Para efectos del presente Reglamento se considera como reingreso, el acto mediante el cual el personal en instrucción que habiendo causado baja del plantel antes de terminar sus estudios es admitido nuevamente para continuarlos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 73.
 
-Podrá reingresar al plantel por una sola vez bajo las condiciones que establece el presente Reglamento, el personal en instrucción que haya causado baja por los siguientes motivos:
+El personal discente que haya causado baja de la Escuela Militar de Medicina puede reingresar por una sola vez en los casos siguientes:
 
 I. Académicos;
 
 II. Faltas justificadas;
 
-III. De salud; o
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal y haya resultado absuelto.
+III. De salud, o
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Estar vinculado a un proceso penal ante un tribunal militar, común o federal y haya resultado absuelto.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 74.
 
-El personal en instrucción que encontrándose cursando el 3/er. año de la carrera o subsiguientes cause baja del plantel por los motivos citados en el artículo anterior, será puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios donde ésta lo determine como oficial o clase del servicio de Sanidad y por el tiempo necesario para regresar al siguiente periodo de exámenes extraordinarios o al inicio del semestre que cursaba en el siguiente año lectivo como a continuación se indica:
+El personal discente que haya causado baja del plantel a partir del segundo año de la carrera, por los casos previstos en el artículo anterior, debe ser puesto a disposición de la Secretaría de la Defensa Nacional para que esta lo destine a prestar sus servicios conforme a las necesidades de las unidades, dependencias o instalaciones militares en áreas afines a los estudios que realizó, con el fin de apoyar al personal Médico Cirujano y de Sanidad, por el tiempo que se requiera para presentar sus evaluaciones especiales y, en su caso, debe incorporarse al inicio del semestre respectivo, por una sola ocasión, conforme a lo siguiente:
 
-El personal que se sitúe en lo establecido en el artículo 70 fracciones III ó IV del presente Reglamento, podrá reingresar al inicio del siguiente semestre correspondiente, siempre y cuando apruebe examen especial de la o las asignaturas que originaron su baja del plantel;
+I. El personal discente que se ubique en lo establecido en el artículo 70, fracciones III o IV, del presente reglamento, puede reingresar al inicio del siguiente semestre correspondiente, siempre y cuando apruebe la evaluación especial de las asignaturas que originaron su baja del plantel;
 
-II. El personal que se sitúe en lo establecido en el artículo 70 fracciones I, II ó VII del presente Reglamento, podrá reingresar al inicio del semestre que cursaba en el siguiente año lectivo;
+II. El personal discente que se ubique en lo establecido en el artículo 70, fracciones I, II o VIII, del presente reglamento, puede reingresar al inicio del semestre que cursaba en el siguiente año lectivo;
 
-III. El personal que se sitúe en lo establecido en el artículo 70 fracción V del presente Reglamento, regresará al siguiente período de exámenes profesionales para presentar examen profesional especial; y
+III. El personal discente que se ubique en lo establecido en el artículo 70, fracción V o VI, del presente reglamento, puede regresar al siguiente periodo de evaluaciones profesionales o de defensa de tesis para presentar su evaluación especial correspondiente, y
 
-IV. El personal que haya causado baja del plantel por motivos de salud o por haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal y haya resultado absuelto, podrá reingresar al plantel al inicio del semestre que cursaba en el siguiente año lectivo.
+IV. El personal discente que haya causado baja del plantel por motivo de salud o por estar sujeto a un proceso penal ya sea en el fuero militar, o del orden común o federal, en el que se le haya absuelto, puede reingresar al inicio del semestre que cursaba en el siguiente año lectivo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 75.
 
-El personal en instrucción que cause baja del plantel en 1/o. ó 2/o. año de la carrera, no podrá reingresar.
+El personal discente que cause baja del plantel en el primer año de la carrera, no puede reingresar al plantel.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 76.
 
-El personal que repruebe un examen especial, no podrá reingresar al plantel.
+El personal de Oficiales del Ejército y Fuerza Aérea Mexicanos discentes que reprueben la evaluación especial no puede reingresar, conservan el grado y empleo que tienen al ubicarse en esta situación y quedan a disposición de la Secretaría de la Defensa Nacional.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 76 Bis.
+
+El personal de Oficiales discentes pasantes de medicina que repruebe la evaluación especial no puede reingresar, en cuyo caso debe ser reclasificado como Oficial de Sanidad con el grado que tenga al momento de causar baja del plantel, y queda a disposición de la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 77.
 
-El personal en instrucción que cause baja por situarse en lo establecido en el artículo 70, fracciones VI, VIII, IX, X, XI, XII, XIII, XIV, XV (por falta de vocación), del presente Reglamento no podrá reingresar al plantel.
+El personal discente que cause baja del plantel por ubicarse en lo establecido en el artículo 70, fracciones VI, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI, del presente reglamento, no puede reingresar al plantel.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
 ### CAPITULO I. De los Títulos, Certificados y Patentes
 
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 78.
+###### ARTICULO 78.
 
-El personal en instrucción que termine satisfactoriamente sus estudios y apruebe el examen profesional obtendrá:
+El personal discente que termine satisfactoriamente sus estudios y apruebe la evaluación profesional obtiene:
 
-I. Personal Nacional:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+I. Personal nacional:
 
 A. Certificado de Estudios;
 
 B. Título de Médico Cirujano Militar;
 
-> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
+C. El grado jerárquico autorizado por la Secretaría de la Defensa Nacional como Médico Cirujano;
 
-> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2011)</small>
+D. Patente;
 
-C. Grado de Subteniente Médico Cirujano; el personal de Oficiales en Instrucción conservará el grado jerárquico que ostente, como Médico Cirujano;
+E. Placa distintiva de la escuela, y
 
-D. Patente, y
+F. Gafete, y
 
-E. Placa distintiva de la escuela.
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 II. Personal de Nacionalidad Extranjera:
 
@@ -1173,19 +1363,25 @@ B. Título de Médico Cirujano, y
 
 C. Placa distintiva de la escuela.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 78 Bis.
+
+El personal becario extranjero que requiera que las autoridades de su país les otorgue validez oficial a los estudios realizados en la Escuela Militar de Medicina, debe realizar las gestiones necesarias para su obtención.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79.
 
-Al personal en instrucción que no concluya satisfactoriamente sus estudios se le expedirá a solicitud del interesado certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+Al personal discente que no concluya satisfactoriamente sus estudios se le puede expedir, a petición de la persona interesada, el certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO II. De los Premios y Recompensas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 80.
 
-Los premios y recompensas que se otorgan al personal en instrucción de la Escuela Médico Militar por el aprovechamiento en sus estudios son los siguientes:
+Los premios y recompensas que se otorgan al personal discente de la Escuela Militar de Medicina por el aprovechamiento en sus estudios son los siguientes:
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1197,23 +1393,21 @@ II. Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres prom
 
 III. Figurar en el cuadro de honor durante el mes siguiente al periodo de evaluación en que haya obtenido un promedio de 8.5 puntos o más;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Exento de realizar el examen final ordinario el personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general;
+IV. Exento de realizar el examen final ordinario el personal discente que obtenga un promedio mínimo de 9.0 puntos en una asignatura, después de haber sustentado las evaluaciones parciales correspondientes, para lo cual debe asentarse la calificación obtenida en el promedio, y queda a su elección de presentar o no la evaluación final para incrementar su promedio general;
 
-> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2011)</small>
+V. El personal discente nacional que termine satisfactoriamente el cuarto año de estudios debe recibir el grado de Subteniente Pasante de Medicina mientras permanezca en el plantel.
 
-V. El personal nacional en instrucción que termine satisfactoriamente el cuarto año de estudios, recibirá el grado de Subteniente Pasante de Medicina mientras permanezca en la escuela.
+El personal discente con el grado de Oficiales que termine satisfactoriamente el cuarto año de estudios debe conservar el grado jerárquico que ostente y se le debe expedir una constancia que lo acredite como Pasante de Medicina, la cual tiene validez por un año en el ámbito militar.
 
-El personal de Oficiales en Instrucción que termine satisfactoriamente el cuarto año de estudios, conservará el grado jerárquico que ostente, como Pasante de Medicina, mientras permanezca en la escuela.
+El personal de Pasante de Medicina, al causar baja del plantel por ubicarse en lo establecido en el artículo 70, fracciones IV, V y VII, del presente reglamento, puede ser reclasificado y asignado al organismo que determine la Secretaría de la Defensa Nacional, con la finalidad de que pueda brindar apoyo al personal médico;
 
-El personal de Pasantes de Medicina, al causar baja del plantel por situarse en lo establecido en el artículo 70, fracciones I, II, III, IV, V y VII del presente Reglamento podrá ser reclasificado y asignado al organismo que determine la Secretaría de la Defensa Nacional.
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-VI. El personal extranjero que termine satisfactoriamente el quinto año de estudios, permanecerá con el grado que ostente o el que le otorgue su país y si es de procedencia civil con el de cadete pero en las dos situaciones se les denominará pasantes de medicina, y
+VI. El personal becario extranjero que termine satisfactoriamente el cuarto año de estudios debe permanecer con el grado que ostente o el que le otorgue su país y si es de procedencia civil con el grado de cadete, en ambas situaciones se les denomina pasante de medicina, y
 
 VII. Otros que determine la Secretaría de la Defensa Nacional.
 
@@ -1225,33 +1419,41 @@ VII. Otros que determine la Secretaría de la Defensa Nacional.
 
 ### CAPITULO I. De la Disciplina
 
-###### ARTICULO 82.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-Los arrestos que se impongan al personal de Oficiales en Instrucción, serán graduados por el Director del plantel conforme a lo establecido en la Legislación Militar y se cumplirán a partir del momento en que se comunique.
+###### ARTÍCULO 82.
 
-###### ARTICULO 83.
+Los arrestos que se impongan al personal discente con el grado de Oficial deben ser graduados por la persona titular de la Dirección del plantel de conformidad con las disposiciones jurídicas militares y deben cumplirse a partir del momento en que se le comunique dicho arresto.
 
-La graduación de arrestos impuestos al personal en instrucción se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### ARTÍCULO 83.
 
-###### ARTICULO 84.
+La graduación de arrestos impuestos al personal discente se debe contabilizar con puntos de demérito, los cuales sirven como base para el control y registro de su conducta.
 
-Los arrestos impuestos al personal de oficiales en instrucción se computarán con veinte puntos de demérito por cada veinticuatro horas.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### ARTÍCULO 84.
 
-###### ARTICULO 85.
+Los arrestos impuestos al personal discente con el grado de Oficiales se computan con 20 puntos de demérito por cada veinticuatro horas.
 
-El Director del plantel podrá graduar los arrestos que se impongan al personal de cadetes hasta por 300 puntos de demérito en el interior del mismo.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTICULO 86.
+###### ARTÍCULO 85.
 
-El personal de Cadetes cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel.
+La persona titular de la Dirección del plantel debe graduar los arrestos que se impongan al personal de Cadetes hasta por 300 puntos de demérito.
 
-###### ARTICULO 87.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-Los Cadetes cumplirán sus arrestos en las semanas laborables de la siguiente manera:
+###### ARTÍCULO 86.
+
+El personal de Cadetes debe cumplir su arresto los sábados y domingos de franquicia y los días inhábiles del año lectivo que determine la Dirección del plantel.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 87.
+
+El personal de Cadetes debe cumplir su arresto en las semanas laborales conforme a lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1281,23 +1483,33 @@ La acumulación de 200 (doscientos) puntos de demérito durante el año lectivo,
 
 La acumulación de 300 (trescientos) puntos de demérito durante el año lectivo, implica la destitución de grado para las Clases de Cadetes.
 
-###### ARTICULO 91.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
-Al personal en instrucción que utilice medios fraudulentos en la resolución de algún examen, además de la sanción académica prevista en el artículo 58 de este Reglamento, se le impondrá el correctivo disciplinario correspondiente.
+###### ARTÍCULO 91.
+
+El personal discente que utilice medios fraudulentos para resolver una evaluación, además de la sanción académica prevista en el artículo 58 de este reglamento, se le debe imponer el correctivo disciplinario correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 91 Bis.
+
+El personal discente del plantel debe cumplir con las leyes y reglamentos militares, así como con las disposiciones que emita la Dirección General de Educación Militar y Rectoría de Universidad del Ejército y Fuerza Aérea.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPITULO II. De la Garantía de Permanencia
 
-###### ARTICULO 92.
+###### ARTÍCULO 92.
 
-Los civiles y el personal de tropa que causen alta en la Escuela Médico Militar como Cadetes, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-###### ARTICULO 93.
+###### ARTÍCULO 93.
 
-El importe del depósito otorgado se hará efectivo a favor del interesado, cuando éste cause baja del plantel por inutilización en actos del servicio antes de terminar sus estudios o por graduarse.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
-###### ARTICULO 94.
+###### ARTÍCULO 94.
 
-Cuando el Cadete cause baja del plantel antes de terminar sus estudios por causas imputables al propio Cadete, el importe del depósito se hará efectivo a favor del Erario Nacional.
+(DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 2024)
 
 ## TRANSITORIOS.
 
@@ -1340,3 +1552,13 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
 CUARTO.- La reforma de los artículos 78, fracción I, inciso C y 80, fracción V del Reglamento de la Escuela Médico Militar; 77, fracción III del Reglamento de la Escuela Militar de Odontología y 78, fracción III y la derogación del 42 BIS del Reglamento de la Escuela Militar de Ingenieros, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura en dichas Instituciones Educativas Militares.
 
 QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA ESCUELA MÉDICO MILITAR”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
