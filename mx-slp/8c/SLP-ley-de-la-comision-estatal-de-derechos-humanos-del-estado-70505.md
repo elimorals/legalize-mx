@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2024-07-05"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -721,9 +721,11 @@ VII. El Pleno podrá pedir a la Comisión Legislativa que presente más detalles
 
 El Congreso del Estado recurrirá a la aplicación de los instrumentos internacionales relacionados con los principios y funcionamiento de las instituciones nacionales de protección y promoción de los Derechos Humanos, en la selección de las personas que integren el Consejo de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 43.
 
-El Congreso procurará la representación plural de la sociedad civil al elegir a las personas que integren el Consejo. Por lo mismo, buscará que haya representación de todas las regiones del Estado, paridad de género y que haya representación de los pueblos indígenas del Estado.
+El Congreso procurará la representación plural de la sociedad civil al elegir a las personas que integren el Consejo. Por lo mismo, buscara que haya representación de todas las regiones del Estado, paridad de género y que haya representación de los pueblos indígenas del Estado. Asimismo, procurara que se integren personas bajo el criterio de vulnerabilidad y diversidad, en términos de lo establecido en el artículo 2º, fracción I Bis de la presente ley.
 
 Asimismo, evitará la exclusión de quienes no tengan estudios profesionales.
 
@@ -2058,3 +2060,11 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1123.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 43, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
