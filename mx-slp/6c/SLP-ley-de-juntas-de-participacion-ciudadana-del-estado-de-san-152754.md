@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juntas-de-participacion-ciudadana-del-estado-de-san-1527
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-02"
-last_updated: "2023-12-11"
+last_updated: "2024-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 2 de diciembre de 2021.
 
@@ -84,6 +84,10 @@ VIII. Vicepresidencia. La vicepresidencia de la Junta de Participación Ciudadan
 ###### ARTÍCULO 4º.
 
 Los cargos que desempeñan las personas que integran las Juntas, son honoríficos y voluntarios. Se prohíbe para quienes las conforman, acuerden para sí percepción alguna, o algún otro concepto de forma directa o indirecta.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas que integran las Juntas, podrán ser reelectas de manera consecutiva en su encargo por un periodo adicional.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -171,11 +175,13 @@ El CEEPAC recibirá y resolverá denuncias sobre el incumplimiento de esta Ley y
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN DE LAS JUNTAS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-La convocatoria para la integración de las Juntas se expedirá por las autoridades municipales respectivas, en coordinación con el CEEPAC antes del uno de noviembre del año inmediato anterior al de la elección constitucional, las cuales deberán de quedar conformadas a más tardar el uno de diciembre de la anualidad citada.
+La convocatoria para la integración de las Juntas se expedirá por las autoridades municipales respectivas, en coordinación con el CEEPAC antes del uno de noviembre del año de la elección constitucional, las cuales deberán de quedar conformadas a más tardar el treinta y uno de diciembre de la anualidad citada.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 En la composición de las Juntas, las autoridades municipales observarán el principio de paridad de género vertical y horizontal.
 
@@ -552,5 +558,13 @@ P.O. 11 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0886.- SE ADICIONA A Y LOS ARTÍCULOS 3° UNA FRACCIÓN, ÉSTA COMO II, 17 BIS, 17 TER, 17 QUÁTER Y 23 UNA FRACCIÓN, ÉSTA COMO XII, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del uno de octubre de dos mil veinticuatro, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1125.- SE REFORMA EL ARTÍCULO 13 EN SU PÁRRAFO PRIMERO; Y ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 4°, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
