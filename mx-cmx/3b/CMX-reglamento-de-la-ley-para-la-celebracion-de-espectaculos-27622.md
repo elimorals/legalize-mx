@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-para-la-celebracion-de-espectaculos-27622"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-14"
-last_updated: "2003-01-14"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27622&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-11-27"
 
 REGLAMENTO DE LA LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS DEL DISTRITO FEDERAL EN MATERIA DE ESPECTACULOS MASIVOS Y DEPORTIVOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 14 de enero de 2003.
 
@@ -344,41 +344,37 @@ La venta de boletos no autorizada o en la vía pública, se sancionará de confo
 
 #### Sección I. Del establecimiento
 
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-El establecimiento contará con el visto bueno del Cuerpo de Bomberos, en lo relativo a extintores, señalamientos para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia.
+El establecimiento contará con el visto bueno para la celebración de espectáculos públicos masivos y deportivos del Heroico Cuerpo de Bomberos, en lo relativo a extintores, señalamientos para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia.
+
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
-Previo al desarrollo de cada espectáculo masivo, el Cuerpo de Bomberos realizará supervisiones de campo, con el objeto de revisar que en el establecimiento no se encuentren bultos o artefactos que puedan poner en peligro la integridad física de los espectadores y asistentes al espectáculo deportivo.
+Previo al desarrollo de cada espectáculo masivo y deportivo, el Heroico Cuerpo de Bomberos realizará supervisiones de campo, con el objeto de revisar que en el establecimiento no existan anomalías o condiciones que puedan poner en peligro que puedan poner en peligro (sic) la integridad física de los espectadores y asistentes al espectáculo deportivo.
 
-Al término de las visitas de inspección, el Cuerpo de Bomberos determinará lo que corresponda e informará de los resultados de la misma a las autoridades competentes.
+Al término de las visitas de inspección, el Heroico Cuerpo de Bomberos determinará lo que corresponda e informará de los resultados de la misma a las autoridades competentes.
+
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 37.
 
-En las visitas de inspección que realice el Cuerpo de Bomberos, se elaborará una bitácora de control, que contendrá como mínimo:
+En las visitas de inspección que realice personal del Heroico Cuerpo de Bomberos, se elaborará una bitácora de control, cuyas características se señalan en el Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-I. Fecha y hora del espectáculo que se pretende celebrar;
-
-II. Día y hora de la reunión de trabajo, supervisión y/o inspección así como los participantes en la misma inspección;
-
-III. Nombre y cargo del oficial que lleve a cabo la supervisión y/o inspección.
-
-IV. Nombre y cargo del representante del titular que participó en la supervisión y la inspección; y
-
-V. Capitulo de observaciones.
-
-> <small>(F. DE E., G.O. 11 DE NOVIEMBRE DE 2003)</small>
-
-La bitácora de control se hará del conocimiento de la Secretaría y de la Delegación para los efectos a que haya lugar.
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
-Las observaciones contenidas en la bitácora serán sobre situaciones que pudiesen poner en peligro a los espectadores, participantes y demás asistentes o que perturben el desarrollo del espectáculo.
+Las observaciones contenidas en la bitácora de control serán sobre situaciones que pongan en peligro a los espectadores, participantes y demás asistentes o que perturben el desarrollo del evento o espectáculo.
+
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-El titular cumplirá con las observaciones derivadas de las visitas de inspección y será responsable de cualquier situación anormal o extraordinaria que pudiera presentarse durante el desarrollo del espectáculo por su incumplimiento. Cuando así se estime conveniente, la Delegación tomará las medidas necesarias para que se corrijan las irregularidades detectadas.
+La persona responsable del evento deberá cumplir con las observaciones derivadas de las visitas de inspección para visto bueno y supervisión de campo respectivamente, del Heroico Cuerpo de Bomberos y será responsable de cualquier situación anormal o extraordinaria que pudiera presentarse durante el desarrollo del evento o espectáculo por su incumplimiento. Cuando así se estime conveniente, la Alcaldía tomará las medidas necesarias para que se corrijan las irregularidades detectadas.
 
 #### Sección II. De la Seguridad al interior del establecimiento
 
@@ -603,3 +599,17 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los titulares a que se refiere este Reglamento contarán con treinta días naturales siguientes a la entrada en vigor del presente, para presentar su Programa Especial de Seguridad, así como para realizar las adecuaciones necesarias a los establecimientos.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de noviembre del año dos mil dos. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL HEROICO CUERPO DE BOMBEROS, EL REGLAMENTO DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS, ASÍ COMO EL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, TODOS VIGENTES EN LA CIUDAD DE MÉXICO; EN MATERIA DE ESPECTÁCULOS MASIVOS Y DEPORTIVOS".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Todas las referencias hechas en otros ordenamientos al visto bueno para la celebración de espectáculos públicos masivos y deportivos, se entenderá la referencia al visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia previsto en el artículo 256 fracción I del Código Fiscal de la Ciudad de México.
