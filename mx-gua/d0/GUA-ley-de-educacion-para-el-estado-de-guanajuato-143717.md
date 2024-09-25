@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2024-06-07"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -541,9 +541,9 @@ X. Realizarán programas educativos que tiendan a elevar los niveles académicos
 
 XI. Desarrollarán programas con perspectiva de género, para otorgar becas y demás apoyos económicos, preferentemente a educandos que enfrenten condiciones económicas y sociales desfavorables, a efecto de que puedan ejercer su derecho a la educación;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
-XI bis. Coordinarse con la Secretaría de Salud para realizar acciones afirmativas para impulsar la educación menstrual en las escuelas pertenecientes al Sistema Educativo Estatal;
+XI. bis. Coordinarse con la Secretaría de Salud para realizar acciones afirmativas para impulsar la educación menstrual, la prevención del embarazo infantil y adolescente, y facilitarles continuar su proceso educativo en el caso de embarazo, sin discriminación en las escuelas pertenecientes al Sistema Educativo Estatal;
 
 XII. Impulsarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijas, hijos o pupilos, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
@@ -721,9 +721,9 @@ VIII. Gestionar los recursos para el apoyo de los servicios educativos de su com
 
 IX. Vigilar el cumplimiento del calendario escolar aplicable a la educación básica;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
-X. Promover en los educandos el conocimiento y formación en materia de educación sexual, orientación vocacional con perspectiva de género y métodos de estudio, que contribuya al desarrollo de sus proyectos de vida;
+X. Promover de manera progresiva conforme a su edad, desarrollo educativo, cognoscitivo y madurez en los educandos, el conocimiento y formación en materia de educación sexual, prevención del embarazo infantil y adolescente, orientación vocacional con perspectiva de género y métodos de estudio, que contribuya al desarrollo de sus proyectos de vida;
 
 XI. Establecer los mecanismos administrativos para que el Sistema Educativo Estatal opere en forma integrada, con el seguimiento y evaluación de su ejecución;
 
@@ -767,7 +767,9 @@ XXIX. Prohibir la comercialización o la distribución dentro de las institucion
 
 XXX. Diseñar, implementar, promover, organizar y apoyar programas de actividades físicas, deportivas, de recreación y nutrimentales para preservar la salud física y mental de los educandos;
 
-XXXI. Implementar programas de formación, dirigidos a los padres de familia, tutores o quienes ejerzan la patria potestad, para impulsar el desarrollo familiar y de competencias socioemocionales que favorezcan la formación integral de sus hijas, hijos o pupilos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XXXI. Implementar programas de formación, dirigidos a los padres de familia, tutores o quienes ejerzan la patria potestad, para la prevención del embarazo infantil y adolescente, así como impulsar el desarrollo familiar y de competencias socioemocionales que favorezcan la formación integral de sus hijas, hijos o pupilos;
 
 XXXII. Promover en los educandos e instituciones educativas la práctica de una cultura sobre el uso racional del agua y los recursos naturales;
 
@@ -791,7 +793,9 @@ XLI. Vigilar que las autoridades escolares en instituciones educativas de educac
 
 XLII. Ejecutar, en coordinación con los gobiernos federal y municipal programas permanentes de educación para adultos, alfabetización y demás programas especiales, directamente o por conducto del organismo competente;
 
-XLIII. Implementar las acciones necesarias a fin de disminuir el ausentismo, abandono y la deserción escolar, y establecer los mecanismos para notificar a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes de los casos identificados conforme a la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XLIII. Implementar las acciones necesarias a fin de disminuir el ausentismo, abandono y la deserción escolar, así como facilitar la continuación de los estudios de niñas y adolescentes embarazadas sin discriminación y establecer los mecanismos para notificar a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes de los casos identificados conforme a la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
 XLIV. Coordinar, en concordancia con la política educativa nacional y estatal, la presupuestación y gestión estratégica, a fin de ampliar la oferta, cobertura, pertinencia, excelencia y equidad educativa;
 
@@ -837,7 +841,9 @@ XI. Coadyuvar con las demás autoridades educativas en la promoción e impulso d
 
 XII. Aplicar la totalidad de los recursos destinados o aprobados para la promoción o prestación de servicios educativos, sin modificar su finalidad o asignación, en los términos de esta Ley;
 
-XIII. Colaborar con las autoridades competentes en la realización de programas de educación para la salud y el mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar las adicciones, de conformidad con los convenios que para tal efecto se celebren; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Colaborar con las autoridades competentes en la realización de programas de educación para la salud, prevención del embarazo infantil y adolescente, el mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar las adicciones, de conformidad con los convenios que para tal efecto se celebren; y
 
 XIV. Las demás que le señalen otras disposiciones legales.
 
@@ -1971,11 +1977,13 @@ Los padres de familia de las hijas, hijos o pupilos menores de dieciocho años, 
 
 Además, colaborarán con las autoridades educativas y escolares, para que sus hijas, hijos o pupilos hagan un uso responsable durante la jornada escolar, de los aparatos relacionados a las tecnologías de la comunicación y de la información que les sean proporcionadas para su desarrollo y aprendizaje.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 Orientación para las familias de los educandos
 
 ###### Artículo 160.
 
-En el ámbito de sus respectivas competencias, las autoridades educativas de la Entidad desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, vínculo afectivo, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a los padres de familia, proporcionar una mejor atención y educación a sus hijas, hijos o pupilos.
+En el ámbito de sus respectivas competencias, las autoridades educativas de la Entidad desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, vínculo afectivo, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, prevención del embarazo infantil y adolescente, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a los padres de familia, proporcionar una mejor atención y educación a sus hijas, hijos o pupilos.
 
 Derechos de los padres de familia
 
@@ -2029,7 +2037,13 @@ VII. Respetar la organización y gestión escolar de los centros escolares, abst
 
 VIII. Conocer la normativa aplicable de los centros escolares y coadyuvar en su cumplimiento; y
 
-XI. Conducirse en un marco de respeto ante la comunidad educativa; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Conducirse en un marco de respeto ante la comunidad educativa;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+IX. bis. Tomar la capacitación que les proporcionen las autoridades educativas y de salud en materia de prevención del embarazo infantil y adolescente; y
 
 X. Las demás que se desprendan de las disposiciones aplicables.
 
@@ -2108,6 +2122,10 @@ XI. Alentar el interés familiar y comunitario para el desempeño del educando;
 XII. Colaborar con las autoridades educativas en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades;
 
 XIII. Presentar quejas por presuntas irregularidades que cometan las autoridades educativas en sus funciones, conforme a las leyes y reglamentos respectivos;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XIII bis. Socializar la importancia de las acciones orientadas a la prevención del embarazo infantil y adolescente;
 
 XIV. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y
 
@@ -3310,3 +3328,9 @@ P.O. 7 DE JUNIO DE 2024.
 Inicio de vigencia del Decreto
 
 Único. La vigencia del presente decreto iniciará a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 346, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 34 EN SU FRACCIÓN XI BIS; 42 EN SUS FRACCIONES X, XXXI Y XLIII; 43 EN SU FRACCIÓN XIII; 160 Y 162 EN SU FRACCIÓN IX; Y SE ADICIONAN A LOS ARTÍCULOS 162 LA FRACCIÓN IX BIS; Y 169 LA FRACCIÓN XIII BIS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
