@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-establecimientos-mercantiles-del-80133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-04"
-last_updated: "2011-03-04"
+last_updated: "2024-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80133&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-03-03"
 ---
 # REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL EN MATERIA DE AFORO Y DE SEGURIDAD EN ESTABLECIMIENTOS DE IMPACTO ZONAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL EN MATERIA DE AFORO Y DE SEGURIDAD EN ESTABLECIMIENTOS DE IMPACTO ZONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 4 de marzo de 2011.
 
@@ -237,3 +239,23 @@ Artículo Sexto.- Los establecimientos de impacto zonal que inicien operaciones 
 Artículo Séptimo.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los 3 días de marzo de 2011.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA. EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de Estacionamientos Públicos del Distrito Federal, publicado en el Diario Oficial de la Federación el 27 de marzo de 1991.
+
+CUARTO. Se abroga el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal, publicado el 4 de marzo de 2011 en la Gaceta Oficial del -entonces-Distrito Federal no. 1046.
+
+QUINTO. Se abroga el Reglamento del artículo 28 de la Ley de Establecimientos Mercantiles para la Ciudad de México, en Materia de Atención e Información al Cliente sobre el Servicio de Venta de Alimentos Preparados y Bebidas, publicado el 28 de febrero de 2023 en la Gaceta Oficial de la Ciudad de México no. 1054 Bis.
+
+SEXTO. Se abrogan los Lineamientos Generales para la Operación del Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles del Distrito Federal, publicados el 31 de julio de 2013 en la Gaceta Oficial del -entonces-Distrito Federal no. 1659.
+
+SÉPTIMO. La Secretaría de Movilidad de la Ciudad de México y la Autoridad del Centro Histórico tendrán un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Reglamento para emitir las especificaciones técnicas para la colocación de enseres en vía pública.
