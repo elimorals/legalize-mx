@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-cultura-civica-del-distrito-federal-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-20"
-last_updated: "2017-02-16"
+last_updated: "2024-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41948&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2004-11-19"
 ---
 # REGLAMENTO DE LA LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL Y SE EXPIDE EL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO Y EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO, PUBLICADOS EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2004.
 
@@ -1431,3 +1433,25 @@ G.O. 16 DE FEBRERO DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto surtirá sus efectos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL Y SE EXPIDE EL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Reglamento de la Ley de Cultura Cívica del Distrito Federal, publicado el 20 de diciembre de 2004 en la Gaceta Oficial del entonces Distrito Federal.
+
+SEGUNDO. Se expide el Reglamento de la Ley de Cultura Cívica de la Ciudad de México, para quedar como sigue:
+
+[…]
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL Y SE EXPIDE EL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto y su Reglamento anexo entrarán en vigor al día siguiente de su publicación.
+
+TERCERO. En tanto se implementa el sistema informático del Registro de Infractores, el personal adscrito a los Juzgados llevarán el registro bajo los lineamientos que dicte la Dirección, dentro de los treinta días naturales siguientes a que entre en vigor el presente ordenamiento.
+
+CUARTO. Se abroga el Reglamento de la Ley de Cultura Cívica del Distrito Federal.
+
+QUINTO. Los procedimientos que hayan sido iniciados bajo la regulación de la legislación anterior deberán concluirse en términos de la misma.
