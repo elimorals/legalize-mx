@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-articulo-28-de-la-ley-de-establecimientos-164718
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-02-28"
-last_updated: "2023-02-28"
+last_updated: "2024-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164718&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2023-02-27"
 ---
 # REGLAMENTO DEL ARTICULO 28 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MEXICO, EN MATERIA DE ATENCION E INFORMACION AL CLIENTE SOBRE EL SERVICIO DE VENTA DE ALIMENTOS PREPARADOS Y BEBIDAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL ARTÍCULO 28 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, EN MATERIA DE ATENCIÓN E INFORMACIÓN AL CLIENTE SOBRE EL SERVICIO DE VENTA DE ALIMENTOS PREPARADOS Y BEBIDAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Número 1054 Bis de la Gaceta Oficial de la Ciudad de México, el martes 28 de febrero de 2023.
 
@@ -129,3 +131,23 @@ II. Multa de $6,483.75 o el equivalente de hasta 125 veces el valor diario de la
 Tratándose de giros de bajo impacto que no vendan bebidas alcohólicas, la sanción económica podrá ser de $1,620.93 o el equivalente de hasta 25 veces el valor diario de la Unidad de Medida de Actualización vigente.
 
 Lo anterior, sin perjuicio de cualquier otra sanción a que hubiere lugar por incumplimiento a las disposiciones en materia de protección al consumidor, por parte de la autoridad del ámbito federal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de Estacionamientos Públicos del Distrito Federal, publicado en el Diario Oficial de la Federación el 27 de marzo de 1991.
+
+CUARTO. Se abroga el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal, publicado el 4 de marzo de 2011 en la Gaceta Oficial del -entonces- Distrito Federal no. 1046.
+
+QUINTO. Se abroga el Reglamento del artículo 28 de la Ley de Establecimientos Mercantiles para la Ciudad de México, en Materia de Atención e Información al Cliente sobre el Servicio de Venta de Alimentos Preparados y Bebidas, publicado el 28 de febrero de 2023 en la Gaceta Oficial de la Ciudad de México no. 1054 Bis.
+
+SEXTO. Se abrogan los Lineamientos Generales para la Operación del Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles del Distrito Federal, publicados el 31 de julio de 2013 en la Gaceta Oficial del -entonces- Distrito Federal no. 1659.
+
+SÉPTIMO. La Secretaría de Movilidad de la Ciudad de México y la Autoridad del Centro Histórico tendrán un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Reglamento para emitir las especificaciones técnicas para la colocación de enseres en vía pública
