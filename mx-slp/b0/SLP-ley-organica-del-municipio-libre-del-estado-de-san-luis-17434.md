@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2024-09-18"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1271,13 +1271,21 @@ Para el despacho de los asuntos y para auxiliar a la o el presidente municipal, 
 
 I. Ser ciudadana o ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
-II. Contar con título y cédula profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión. Respecto a los municipios con población de más de cien mil habitantes, deberá ser Licenciado o Licenciada en Derecho, abogado o abogada;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+II. Contar con título y cédula profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión;
 
 III. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de las o los integrantes del Ayuntamiento, y
 
-(NOTA: EL 24 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
-IV. MANIFESTAR BAJO PROTESTA DE DECIR VERDAD, NO HABER SIDO CONDENADA O CONDENADO POR SENTENCIA FIRME POR LA COMISIÓN DE DELITOS DOLOSOS QUE HAYAN AMERITADO PENA DE PRISIÓN.
+IV. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 ###### ARTICULO 78.
 
@@ -3534,5 +3542,13 @@ P.O. 18 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1120.- SE REFORMAN LOS ARTÍCULOS 91 SU PÁRRAFO TERCERO Y 91 BIS SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1132.- SE REFORMA EL ARTÍCULO 77 EN SUS FRACCIONES II Y IV, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
