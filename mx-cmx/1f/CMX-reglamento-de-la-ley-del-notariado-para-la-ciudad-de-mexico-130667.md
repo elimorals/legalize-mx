@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-notariado-para-la-ciudad-de-mexico-130
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-10-01"
-last_updated: "2019-12-27"
+last_updated: "2024-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130667&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2018-09-17"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, A PARTIR DEL 31 DE DICIEMBRE DE 2019 ENTRAN EN VIGOR LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, A QUE HACE REFERENCIA EN EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA LA LEY DEL NOTARIADO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 11 DE JUNIO DE 2018; ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, EN TODO LO RELATIVO AL "SISTEMA INFORMÁTICO", "ARCHIVO ELECTRÓNICO", "ÍNDICE ELECTRÓNICO" Y "APÉNDICE ELECTRÓNICO DE COTEJOS", CONFORME A LO DISPUESTO POR LOS ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 01 DE OCTUBRE DE 2018".]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DEL NOTARIADO EN LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 1 de octubre de 2018.
 
@@ -1101,3 +1101,17 @@ OCTAVO.- Para el inicio del nuevo Libro de Registro de Cotejos a que se refiere 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente acuerdo entrará en vigor a partir del 31 de diciembre de 2019.
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DEL NOTARIADO EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de la Ley del Notariado para la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 1° de octubre de 2018 y se derogan las demás disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Los notarios contarán con un plazo de diez días hábiles a partir del inicio de la vigencia del presente Reglamento para dar aviso a la Dirección General Jurídica y de Estudios Legislativos respecto de los y personas que prestan asesoría jurídica en las notarías a su cargo.
+
+QUINTO El Colegio emitirá las normas internas necesarias para cumplir con lo dispuesto por este Reglamento, dentro de los sesenta días hábiles siguientes a su publicación y las hará del conocimiento a la Dirección General.
