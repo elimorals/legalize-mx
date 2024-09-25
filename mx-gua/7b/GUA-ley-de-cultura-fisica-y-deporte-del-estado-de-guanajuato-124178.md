@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-124178
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-03"
-last_updated: "2021-07-19"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Cuarta Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 3 de noviembre de 2017.
 
@@ -69,7 +69,9 @@ IV. Fomentar el desarrollo de la activación física, la cultura física y el de
 
 V. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
 
-VI. Promover las medidas preventivas necesarias para erradicar la violencia en el deporte;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Promover las medidas preventivas necesarias para erradicar la violencia en el deporte y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas;
 
 VII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas del Estado;
 
@@ -107,9 +109,17 @@ IX. La distinción entre las diversas manifestaciones o modalidades del deporte 
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
-XII. La existencia de una adecuada cooperación a nivel internacional, nacional, regional, estatal y municipal son necesarias para el desarrollo equilibrado y universal de la cultura física y deporte.
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XII. La existencia de una adecuada cooperación a nivel internacional, nacional, regional, estatal y municipal son necesarias para el desarrollo equilibrado y universal de la cultura física y deporte; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 Glosario de Términos
 
@@ -1586,3 +1596,9 @@ P.O. 19 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 331 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXI Y SE ADICIONA UNA FRACCIÓN XXXII, RECORRIÉNDOSE LA SUBSECUENTE PARA QUEDAR COMO XXXIII DEL ARTÍCULO 18 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 347, POR EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 2, Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 3; Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
