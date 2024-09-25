@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-establecer-las-suplencias-en-la-fiscalia-169426
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-01-09"
-last_updated: "2024-01-09"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169426&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-01-08"
 
 REGLAMENTO PARA ESTABLECER LAS SUPLENCIAS EN LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en el Número 1272 Bis de la Gaceta Oficial de la Ciudad de México, el martes 9 de enero de 2024.
 
@@ -62,7 +62,7 @@ III. Congreso: Congreso de la Ciudad de México;
 
 IV. Constitución: Constitución Política de la Ciudad de México;
 
-V. Fiscal Especializado Suplente: La persona que ejerce la suplencia de las Fiscalías de Combate a la Corrupción y Fiscalías de Atención a Delitos Electorales, ante la falta temporal o ausencia definitiva de su titular;
+V. (DEROGADA, G.O. 25 DE SEPTIEMBRE DE 2024)
 
 VI. Fiscal General: Persona Titular de la Fiscalía General de Justicia de la Ciudad de México;
 
@@ -116,23 +116,31 @@ Ante la ausencia definitiva de cualquiera de las o los titulares de las Coordina
 
 Ante la falta temporal de cualquiera de las o los titulares de las Coordinaciones Generales, Supervisiones Generales, Órganos, Jefaturas, Fiscalías, Direcciones Generales, Direcciones Ejecutivas, Direcciones de Área y demás unidades administrativas, cuya designación no esté prevista de otra forma en la Constitución o la Ley, la persona titular de la Fiscalía General o quien ejerza su suplencia, designará de entre las personas servidoras públicas adscritas a la persona suplida, a quienes ejerzan la suplencia durante la ausencia de su titular, quienes gozarán del cúmulo de facultades y obligaciones inherentes a la persona suplida, además de las facultades y obligaciones inherentes al cargo que ocupan en el momento de la designación como suplente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 ### CAPÍTULO CUARTO
 
-DE LA SUPLENCIA DE LAS PERSONAS TITULARES DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES Y DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN
+DE LA SUPLENCIA DE LAS PERSONAS TITULARES DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES; DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN Y DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 9.
 
-Ante la falta temporal de las personas titulares de la Fiscalía Especializada para la Atención de Delitos Electorales y de la Fiscalía Especializada en Combate a la Corrupción, ejercerán la suplencia como Fiscal Especializado Suplente, quien ellos mismos designen de entre las personas titulares de las fiscalías adscritas a ellos.
+Ante la falta temporal de las personas titulares de la Fiscalía Especializada para la Atención de Delitos Electorales, de la Fiscalía Especializada en Combate a la Corrupción y del Órgano Interno de Control ejercerá la suplencia quien ellos mismos designen de entre las personas servidoras públicas adscritas a su respectiva Unidad Administrativa.
 
-Ante la ausencia definitiva de las personas titulares de la Fiscalía Especializada para la Atención de Delitos Electorales y de la Fiscalía Especializada en Combate a la Corrupción, ejercerán como Fiscal Especializado Suplente, quien designe en dicho carácter la persona titular de la Fiscalía General o quien ejerza su suplencia de esta de entre las personas titulares de las fiscalías adscritas a los ausentes.
+Ante la ausencia definitiva de las personas titulares de la Fiscalía Especializada para la Atención de Delitos Electorales, de la Fiscalía Especializada en Combate a la Corrupción y del Órgano Interno de Control, ejercerá como Suplente, quien designe en dicho carácter la persona titular de la Fiscalía General o quien ejerza la suplencia de esta de entre las personas servidoras públicas adscritas a su respectiva Unidad Administrativa.
+
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 10.
 
-La persona que ejerza como Fiscal Especializado Suplente de las fiscalías señaladas en el artículo anterior, además de continuar ejerciendo sus funciones como titular de la Fiscalía a su cargo, tienen el cúmulo de facultades y atribuciones inherentes al cargo de la persona suplida en términos del marco jurídico de su actuación, durante la ausencia de este o hasta el nombramiento de un nuevo titular, en términos de la Constitución, de la Ley y demás normatividad aplicable.
+La persona que ejerza la Suplencia de las Unidades Administrativas señaladas en el artículo anterior, además de continuar ejerciendo sus funciones como titular de la Fiscalía o área a su cargo, tienen el cúmulo de facultades y atribuciones inherentes al cargo de la persona suplida en términos del marco jurídico de su actuación, durante la ausencia de este o hasta el nombramiento de un nuevo titular, en términos de la Constitución, de la Ley y demás normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-Quien ejerza como Fiscal Especializado Suplente para la Atención de Delitos Electorales o de la Fiscalía Especializada en Combate a la Corrupción, dentro el (sic) primer día hábil en que se actualice la hipótesis de ausencia definitiva, tiene la obligación de dirigir oficio a la persona que ejerza la Presidencia de la Mesa Directiva del Congreso para que proceda conforme a lo dispuesto en la Constitución, la Ley y demás normatividad aplicable.
+Quien ejerza como Fiscal Especializado Suplente para la Atención de Delitos Electorales o de la Fiscalía Especializada en Combate a la Corrupción o del Órgano Interno de Control, dentro del primer día hábil en que se actualice la hipótesis de ausencia definitiva, tiene la obligación de dirigir oficio a la persona que ejerza la Presidencia de la Mesa Directiva del Congreso para que proceda conforme a lo dispuesto en la Constitución, la Ley y demás normatividad aplicable.
 
 T R A N S I T O R I O S
 
@@ -147,3 +155,15 @@ Ciudad de México, a 08 de enero de 2024
 LIC. ERNESTINA GODOY RAMOS
 
 FISCAL GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO FGJCDMX/08/2024 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA ESTABLECER LAS SUPLENCIAS EN LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Con la entrada en vigor del presente Acuerdo, quedan sin efectos todas aquellas disposiciones legales que contravengan lo dispuesto en el Reglamento para Establecer las Suplencias en la Fiscalía General de Justicia de las (sic) Ciudad de México.
