@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-turismo-del-distrito-federal-86912"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-29"
-last_updated: "2016-05-26"
+last_updated: "2024-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86912&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2012-03-26"
 ---
 # REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL, PUBLICADO EL 29 DE MARZO DEL 2012 EN LA GACETA OFICIAL DEL -ENTONCES- DISTRITO FEDERAL, NO. 1319; Y SE EXPIDE EL REGLAMENTO DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO Y EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de marzo de 2012.
 
@@ -877,3 +879,21 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El Fondo Mixto de Promoción Turística del Distrito Federal, deberá publicar los Lineamientos para la Utilización, Comercialización y Explotación de la Marca Ciudad de México dentro de los cuarenta días hábiles siguientes a la fecha de entrada en vigor del presente Decreto.
 
 CUARTO.- El Fondo Mixto de Promoción Turística del Distrito Federal, deberá realizar las acciones necesarias para formalizar las adecuaciones necesarias a su Contrato Constitutivo y sus Reglas de Operación dentro de los sesenta días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL, PUBLICADO EL 29 DE MARZO DEL 2012 EN LA GACETA OFICIAL DEL -ENTONCES- DISTRITO FEDERAL, NO. 1319; Y SE EXPIDE EL REGLAMENTO DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Reglamento de la Ley de Turismo del Distrito Federal publicado el 29 de marzo del 2012 en la Gaceta Oficial del -entonces- Distrito Federal, no. 1319.
+
+SEGUNDO. Se expide el Reglamento de la Ley de Turismo de la Ciudad de México, para quedar de la siguiente manera:
+
+[…]
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL, PUBLICADO EL 29 DE MARZO DEL 2012 EN LA GACETA OFICIAL DEL -ENTONCES- DISTRITO FEDERAL, NO. 1319; Y SE EXPIDE EL REGLAMENTO DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de la Ley de Turismo del Distrito Federal publicado el 29 de marzo del 2012 en la Gaceta Oficial del -entonces- Distrito Federal, número 1319, de la Décima Séptima Época.
