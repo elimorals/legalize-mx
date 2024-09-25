@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-estacionamientos-publicos-del-distrito-federal-14
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-03-27"
-last_updated: "1991-06-05"
+last_updated: "2024-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,19 +20,15 @@ issue_date: "1991-01-14"
 ---
 # REGLAMENTO DE ESTACIONAMIENTOS PUBLICOS DEL DISTRITO FEDERAL
 
-[NOTA 1: ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL DIARIO OFICIAL DE LA FEDERACIÓN NÚMERO 18 DE FECHA 27 DE MARZO DE 1991.]
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 REGLAMENTO DE ESTACIONAMIENTOS PÚBLICOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE JUNIO DE 1991.]</small>
-
-Reglamento publicado en el Número 18 del Diario Oficial de la Federación, el miércoles 27 de marzo de 1991. (REPUBLICADO EN LA G.O. 15 DE ABRIL DE 1991).
+Reglamento publicado en el Número 18 del Diario Oficial de la Federación, el miércoles 27 de marzo de 1991.
 
 Al margen un logotipo, que dice: I Asamblea de Representantes del Distrito Federal 88-91.- Oficialía Mayor.
 
@@ -577,3 +573,21 @@ Segundo.- A partir de la fecha en que entre en vigor, quedará abrogado el Regla
 Tercero.- Los estacionamientos públicos que se encuentren funcionando de acuerdo con las concesiones, permisos o licencias obtenidas con anterioridad, podrán seguirlo haciendo sin que para ello sea necesario presentar la declaración de apertura que se establece en el artículo 5, siempre que se ajusten en lo demás a lo dispuesto por el presente reglamento.
 
 Cuarto.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal y, por ser interés general, en el Diario Oficial de la Federación.
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de Estacionamientos Públicos del Distrito Federal, publicado en el Diario Oficial de la Federación el 27 de marzo de 1991.
+
+CUARTO. Se abroga el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal, publicado el 4 de marzo de 2011 en la Gaceta Oficial del -entonces- Distrito Federal no. 1046.
+
+QUINTO. Se abroga el Reglamento del artículo 28 de la Ley de Establecimientos Mercantiles para la Ciudad de México, en Materia de Atención e Información al Cliente sobre el Servicio de Venta de Alimentos Preparados y Bebidas, publicado el 28 de febrero de 2023 en la Gaceta Oficial de la Ciudad de México no. 1054 Bis.
+
+SEXTO. Se abrogan los Lineamientos Generales para la Operación del Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles del Distrito Federal, publicados el 31 de julio de 2013 en la Gaceta Oficial del -entonces- Distrito Federal no. 1659.
+
+SÉPTIMO. La Secretaría de Movilidad de la Ciudad de México y la Autoridad del Centro Histórico tendrán un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Reglamento para emitir las especificaciones técnicas para la colocación de enseres en vía pública.
