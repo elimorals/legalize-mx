@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-gestion-integral-de-riesgos-y-137465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-08-07"
-last_updated: "2024-06-25"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2019-08-06"
 
 REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 25 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de agosto de 2019.
 
@@ -1190,11 +1188,11 @@ Previo al evento y durante el mismo, la Secretaría o la Alcaldía según corres
 
 La Secretaría o la Alcaldía correspondiente podrá suspender o cancelar, parcial o totalmente, tanto las instalaciones temporales como las actividades, de eventos o espectáculos públicos de afluencia masiva, incluidos los tradicionales o circenses, cuando la persona promotora u organizadora incumpla la Ley, el Reglamento, los Términos de Referencia y/o las Normas Técnicas, que para tal efecto emita la Secretaría.
 
-> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 59 Bis.
 
-Además de las obligaciones a que se refiere el artículo anterior, tratándose de eventos o espectáculos públicos masivos, las personas promotoras, organizadoras, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México están obligadas a contar con el Visto Bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia que emite el Heroico Cuerpo de Bomberos de la Ciudad de México, previsto en la normativa para la celebración de espectáculos públicos.
+Además de las obligaciones a que se refiere el artículo anterior, tratándose de eventos o espectáculos públicos masivos y deportivos, las personas promotoras, organizadoras, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México están obligadas a contar con el Visto Bueno para la celebración de espectáculos públicos masivos y deportivos que emite el Heroico Cuerpo de Bomberos de la Ciudad de México, previsto en la normativa para la celebración de espectáculos públicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2023)</small>
 
@@ -1272,11 +1270,11 @@ IV. Póliza de seguro de responsabilidad civil, y
 
 V. Permiso general expedido por la Secretaría de la Defensa Nacional.
 
-> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 62 Ter.
 
-Tratándose de eventos o espectáculos públicos, las personas promotoras, organizadoras, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México donde se utilice pirotécnica, deberán contar con el visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y/o sismos, rutas de evacuación y salidas de emergencia que emite el Heroico Cuerpo de Bomberos de la Ciudad de México.
+Tratándose de eventos o espectáculos públicos, las personas promotoras, organizadoras, dependencias, órganos desconcentrados o entidades de la Administración Pública Federal y de la Ciudad de México donde se utilice pirotécnica, deberán contar con el Visto Bueno para la celebración de espectáculos públicos masivos y deportivos, que emite el Heroico Cuerpo de Bomberos de la Ciudad de México.
 
 ###### Artículo 63.
 
@@ -3587,3 +3585,15 @@ G.O. 25 DE JUNIO DE 2024.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- La presente Nota Aclaratoria entrará en vigor el día de su publicación.
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL HEROICO CUERPO DE BOMBEROS, EL REGLAMENTO DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS, ASÍ COMO EL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, TODOS VIGENTES EN LA CIUDAD DE MÉXICO; EN MATERIA DE ESPECTÁCULOS MASIVOS Y DEPORTIVOS”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Todas las referencias hechas en otros ordenamientos al visto bueno para la celebración de espectáculos públicos masivos y deportivos, se entenderá la referencia al visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia previsto en el artículo 256 fracción I del Código Fiscal de la Ciudad de México.
