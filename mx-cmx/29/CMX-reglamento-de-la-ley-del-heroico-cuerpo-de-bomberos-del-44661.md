@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-heroico-cuerpo-de-bomberos-del-44661"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-06"
-last_updated: "2005-05-06"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44661&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-03-28"
 
 REGLAMENTO DE LA LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 6 de mayo de 2005.
 
@@ -66,9 +66,19 @@ X. Patronato: Órgano conformado con el propósito de coadyuvar en la integraci�
 
 XI. Consejo: El Consejo de Lealtad y Disciplina;
 
-XII. Junta: La Junta de Gobierno del HCBDF ; y
+> <small>(REFORMADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Junta: La Junta de Gobierno del HCBDF;
 
 XIII. Consejo del HCBDF: Consejo del Heroico Cuerpo de Bomberos del D.F.
+
+> <small>(ADICIONADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Dictamen Técnico: Dictamen Técnico de Prevención de Incendios, previsto en el Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México el cual es un instrumento de prevención que determina las acciones mínimas para mitigar el riesgo de incendio así como los efectos destructivos ante la eventualidad de un incendio cuya finalidad es salvaguardar la vida de las personas, sus bienes y entorno; y
+
+> <small>(ADICIONADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Visto Bueno: Visto Bueno para la celebración de Espectáculos Públicos Masivos y Deportivos, emitido por el HCBDF una vez que el establecimiento o lugar donde se realizará el espectáculo cumple con las condiciones de protección contra incendio en materia de extintores y señalización para el caso de incendio y/o sismos, rutas de evacuación y salidas de emergencia de acuerdo con el riesgo del espectáculo masivo a realizar.
 
 ###### Artículo 3°.
 
@@ -154,9 +164,21 @@ IV. Designar, remover y reubicar de acuerdo a las necesidades del HCBDF al perso
 
 V. Expedir nombramientos y credenciales de identificación del personal operativo y administrativo del HCBDF;
 
-VI. Celebrar toda clase de actos inherentes al objeto del HCBDF; y
+> <small>(REFORMADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Las demás que establece la Ley.
+VI. Celebrar toda clase de actos inherentes al objeto del HCBDF;
+
+> <small>(ADICIONADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+VI Bis. Expedir los lineamientos para la obtención del Dictamen Técnico, del Visto Bueno y demás relativos en el ámbito de su competencia y del HCBDF;
+
+> <small>(ADICIONADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+VI Ter. Proponer medidas, políticas, acciones y procedimientos de vinculación al Programa General de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, especialmente respecto a los agentes perturbadores derivados de los fenómenos geológicos, químico-tecnológicos e hidrometeorológicos; y,
+
+> <small>(REFORMADA, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Las demás que establece la Ley y la normativa aplicable.
 
 ### CAPÍTULO III. DE LAS DIRECCIONES DE ÁREA
 
@@ -182,9 +204,11 @@ VI. Coordinar la elaboración del plan de trabajo anual e informe de actividades
 
 VII. Coadyuvar con las demás Direcciones para el cumplimiento de los objetivos del HCBDF.
 
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-La Dirección Técnica es el área responsable de proponer y elaborar los dictámenes de equipos de nuevas tecnologías para optimizar el funcionamiento del HCBDF, así como elaborar dictámenes de prevención de incendios y organizar los sistemas de información y estadísticas de los servicios y acciones proporcionadas por el HCBDF.
+La Dirección Técnica es el área responsable de proponer y elaborar los dictámenes de equipos de nuevas tecnologías para optimizar el funcionamiento del HCBDF, así como elaborar dictámenes sobre prevención de incendios y organizar los sistemas de información y estadísticas de los servicios y acciones proporcionadas por el HCBDF.
 
 ###### Artículo 14.
 
@@ -320,7 +344,7 @@ El Consejo del HCBDF es el órgano asesor, de consulta y análisis, que busca el
 
 Además de las facultades que señala la Ley, el Consejo del HCBDF, tiene las atribuciones siguientes:
 
-I. Proponer medidas, políticas, acciones y procedimientos de vinculación al Programa General de Protección Civil para el Distrito Federal, por lo que hace al Subprograma de Prevención y Auxilio, especialmente respecto a los agentes perturbadores derivados de los fenómenos geológicos, fisicoquímicos e hidrometeorológicos; y
+I. (DEROGADA, G.O. 25 DE SEPTIEMBRE DE 2024)
 
 II. Proponer las estrategias de coordinación interinstitucional, en materia de protección civil y otras acordes a las funciones del HCBDF.
 
@@ -398,13 +422,15 @@ Toda persona que no respete lo señalado en el presente artículo deberá ser pr
 
 Las autoridades y los demás integrantes de los cuerpos de auxilio coordinarán su participación en la emergencia a través del puesto de coordinación que al efecto se instale.
 
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-Los particulares podrán solicitar al HCBDF los servicios de prevención de incendios con motivo de eventos donde se requiera de ese servicio. Dicha solicitud deberá ser presentada por escrito debidamente firmada por el interesado.
+Los particulares podrán solicitar al HCBDF los servicios de prevención de incendios con motivo de eventos donde se requiera de ese servicio. Dicha solicitud deberá ser presentada por escrito debidamente firmada por el interesado y dirigida al Director.
 
-El Director realizará la evaluación y diagnóstico de esa solicitud en comento, con la finalidad de determinar las características del servicio requerido. Estos servicios se proporcionarán siempre que las posibilidades y recursos del HCBDF lo permitan, contando con la autorización del Presidente de la Junta de Gobierno.
+La Dirección Técnica del HCBDF realizará la evaluación y diagnóstico de la solicitud con la finalidad de determinar las características del servicio requerido. Estos servicios se proporcionarán siempre que las posibilidades y recursos del HCBDF lo permitan.
 
-El pago de derechos de los servicios establecidos en el presente artículo estarán determinadas (sic) por la normatividad aplicable.
+El pago de derechos de los servicios establecidos en el presente artículo estará determinado por el Código Fiscal de la Ciudad de México.
 
 ###### Artículo 47.
 
@@ -716,9 +742,11 @@ Las estaciones o subestaciones del HCBDF, deberán contar con áreas específica
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 99.
 
-La Dirección General elaborará con la participación de la Dirección Técnica los lineamientos para la elaboración del Dictamen de Prevención de Incendios, mismos que deberán estar contenidos en el instrumento que para tal efecto apruebe la Junta.
+La Dirección General emitirá, con la participación de la Dirección Técnica, los lineamientos para la elaboración del Dictamen Técnico en prevención de incendios.
 
 ###### Artículo 100.
 
@@ -728,9 +756,11 @@ Los lineamientos a que se refiere el artículo anterior, deberán contemplar las
 
 La Academia de Bomberos, además de contar con las aulas, laboratorios, oficinas, instalaciones deportivas y campos de práctica o simulación necesarios para la capacitación del personal, deberá contar con una Estación de Bomberos, que además de funcionar como instalación académica, preste los servicios de emergencia como cualquier otra estación del HCBDF.
 
+> <small>(REFORMADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 102.
 
-La Dirección General supervisará los mecanismos de seguimiento, control y evaluación de los Dictámenes de Prevención contra incendio, de conformidad con lo establecido en los lineamientos para la elaboración del Dictamen de Prevención de Incendios.
+La Dirección General supervisará los mecanismos de seguimiento, control y evaluación de los Dictámenes Técnicos en Prevención de incendios, de conformidad con lo establecido en los lineamientos correspondientes.
 
 ###### Artículo 103.
 
@@ -756,6 +786,186 @@ La función del Cuerpo de Bomberos Voluntarios será de difusión a la comunidad
 
 En caso de que algún bombero voluntario incurra en alguna falta, delito o abuso amparado en su nombramiento será denunciado y en su caso presentado ante la autoridad competente.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+## TÍTULO SEXTO
+
+DISPOSICIONES GENERALES PARA LA OBTENCIÓN DEL DICTAMEN TÉCNICO DE PREVENCIÓN DE INCENDIOS Y VISTO BUENO PARA PREVENCIÓN DE INCENDIOS EN ESPECTÁCULOS MASIVOS Y DEPORTIVOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. DICTAMEN TÉCNICO EN PREVENCIÓN DE INCENDIOS
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 108.
+
+Para la obtención del Dictamen Técnico, las personas físicas o morales obligadas deberán presentar ante la Dirección General los siguientes documentos:
+
+I. Análisis de riesgo de incendio conforme la NOM-002-STPS-2010 o la que la sustituya, elaborado por un Responsable Oficial de Protección Civil con registro y autorización de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México que determine grado de riesgo alto para el establecimiento mercantil, industria o inmueble obligado;
+
+II. Póliza de seguro de cobertura amplia de responsabilidad civil y daños a terceros que ampare su actividad;
+
+III. Croquis o planos arquitectónicos del establecimiento o inmueble;
+
+IV. Documentación que ampare la capacitación de los trabajadores del inmueble en brigadas de prevención y combate de incendios y evacuación de inmuebles;
+
+V. Póliza de la última recarga de extintores;
+
+VI. Carta Responsiva de la instalación de sistemas fijos y/o especiales contra incendios;
+
+VII. Constancia de Seguridad Estructural del inmueble emitida por un Corresponsable en Seguridad Estructural, respecto de todas y cada una de las construcciones que lo conformen, de acuerdo a lo establecido al Reglamento de Construcciones y sus Normas Técnicas Complementarias;
+
+VIII. Visto Bueno de Seguridad y Operación de las Instalaciones del establecimiento mercantil, industria o inmueble obligado, de acuerdo con lo establecido en el Reglamento de Construcciones;
+
+IX. Dictamen en materia de gas emitido por una unidad verificadora de gas;
+
+X. Comprobante de pago de Derechos emitido por la Tesorería de la Ciudad de México; y,
+
+XI. Las demás que se establezcan en los Lineamientos
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 109.
+
+Los lineamientos para la emisión del Dictamen Técnico en Prevención de Incendios establecerán los mecanismos de seguimiento, control y evaluación correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. VISTO BUENO PARA PREVENCIÓN DE INCENDIOS EN ESPECTÁCULOS MASIVOS Y DEPORTIVOS
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 110.
+
+En los Lineamientos para la obtención del Visto Bueno se describirá el procedimiento que permita dar el seguimiento previo, durante y posterior al evento o espectáculo público masivo o deportivo de que se trate.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 111.
+
+Las personas promotoras, organizadoras o productoras de espectáculos públicos masivos o deportivos, así como las Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública Federal y de la Ciudad de México que de acuerdo a la normativa en materia de espectáculos públicos y de gestión integral de riesgos y protección civil estén obligados a elaborar un Programa Especial de Protección Civil deberán obtener el Visto Bueno con al menos 10 días de anticipación al evento pero no más de 30 días hábiles previos a su celebración.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 112.
+
+El Visto Bueno considerará la evaluación de los siguientes rubros:
+
+I. La implementación de acciones, mecanismos y dispositivos contra el fuego;
+
+II. La protección adecuada contra peligros causados por el fuego;
+
+III. La determinación de acciones de evacuación y repliegue en caso de alguna contingencia; y,
+
+IV. Los demás que se señalen en los Lineamientos para su emisión.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 113.
+
+El Visto Bueno tendrá vigencia conforme las siguientes modalidades:
+
+I. Por la duración del espectáculo: cubrirá la realización de actividades, eventos o espectáculos públicos de afluencia masiva unitarios, es decir, que se lleven de una a cinco funciones en el mismo sitio, desarrollados en áreas o inmuebles diferentes a su uso habitual y que lleva a cabo cualquier persona física o moral, pública o privada en la cual se llevará a cabo una inspección de campo;
+
+II. Por temporada: cuando el espectáculo a desarrollar se conforme por una temporada con el mismo programa o se lleven a cabo 6 funciones o más, pudiendo prolongarse siempre y cuando se cumpla con una supervisión de campo mensual y cuya duración no sobrepase el año fiscal, en caso de sobrepasarlo se tendrá que solicitar un nuevo Visto Bueno; y
+
+III. Por semestre: Los establecimientos mercantiles donde se organicen los eventos masivos o deportivos deberán ser supervisados en campo de manera obligatoria para cada espectáculo cuando cambie el programa, la conformación, escenario, materiales combustibles, disposición y/o colocación de aforo en los inmuebles, los cuales deberán cumplir con los (sic) señalado en los incisos a) y b) del artículo 114 del presente Reglamento.
+
+Las especificaciones de cada modalidad se establecerán en los Lineamientos para la obtención del Visto Bueno que emita el HCBDF para tal efecto.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 114.
+
+Tratándose de establecimientos mercantiles que tengan por objeto la presentación de eventos o espectáculos públicos o deportivos en inmuebles como uso habitual del mismo y que de conformidad a la normatividad de Gestión Integral de Riesgos y Protección Civil estén obligados a contar con Dictamen sobre prevención de incendios, una vez otorgado éste, se les podrá otorgar el Visto Bueno por la vigencia del Dictamen Técnico.
+
+En estos casos, además de los requisitos a que se refiere el artículo 115 deberán adjuntar a la solicitud:
+
+a) Licencia de funcionamiento, y
+
+b) Constancia de Registro del Programa Interno de Protección Civil en la Plataforma Digital administrada por la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México.
+
+Adicionalmente, para mantener la vigencia del Visto Bueno, el promotor, organizador o productor deberá solicitar al HCBDF una supervisión de campo cada que:
+
+I. Se modifique la conformación de escenario;
+
+II. Se modifiquen los asientos para el público que incrementen el aforo autorizado;
+
+III. Se modifique el evento o espectáculo, así como la cantidad y tipo de materiales combustibles, o
+
+IV. Se haga utilización de artificios pirotécnicos.
+
+La emisión del Visto Bueno, cuando ésta no sea la primera vez, estará condicionado (sic) a que en el proceso inmediato anterior se haya cumplido cabalmente con todos los requerimientos y observaciones emitidas por el HCBDF.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 115.
+
+Para la obtención del Visto Bueno, las personas promotoras, organizadoras o productoras, deberán cumplir con lo siguiente:
+
+I. Realizar la solicitud de Visto Bueno y Supervisión de Campo para el evento o espectáculo público con al menos 10 días hábiles a la realización del evento pero no más de 30 días hábiles, ya sea de forma electrónica en el portal de Trámites y Servicios de la Ciudad de México o de manera presencial en las instalaciones del HCBDF;
+
+II. Realizar el pago de derechos correspondiente ante la Tesorería de la Ciudad de México de conformidad con el Código Fiscal para la Ciudad de México;
+
+III. Recibir al personal de bomberos en el lugar, fecha y hora determinados previamente a efecto de realizar la (sic) las visitas para inspección para visto bueno y supervisión de campo respectivamente, y
+
+IV. Dar cumplimiento a lo establecido en los Lineamientos para la obtención del Visto Bueno.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 116.
+
+Serán causas de denegación del Visto Bueno los siguientes supuestos:
+
+I. El incumplimiento a las observaciones derivadas de la visita de inspección;
+
+II. La omisión de solicitud de supervisión de campo tal (sic) de conformidad con el artículo 115 del presente Reglamento;
+
+III. Hacer caso omiso del requerimiento de Servicio de Prevención de Incendios;
+
+IV. Cuando al término de alguna supervisión de campo el organizador, promotor o productor, por sí o a través de la persona designada para atender al personal de, HCBDF se rehúse a firmar o recibir las bitácoras de control, y
+
+V. Negar el acceso o la atención al personal del HCBDF, una vez que se presente en el inmueble o lugar donde se pretenda llevar a cabo la presentación de un evento o espectáculo público masivo o deportivo.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 117.
+
+En las visitas de supervisión de campo que realice el HCBDF, se elaborará una bitácora de control, que contendrá como mínimo:
+
+I. Nombre oficial del evento o espectáculo público masivo o deportivo;
+
+II. Fecha y hora del evento o espectáculo público masivo o deportivo que se pretende celebrar;
+
+III. Día y hora de la reunión de trabajo, supervisión de campo, así como los participantes en la misma;
+
+IV. Nombre y cargo del elemento del HCBDF que llevará a cabo la supervisión de campo;
+
+V. Nombre y cargo del representante legal de la persona promotora, organizadora o productora o, en su caso servidora pública adscrita a las Dependencias, Órganos Desconcentrados, Organismos Descentralizados, Autónomos o Entidades de la Administración Pública Federal y de la Ciudad de México que haya atendido la supervisión de campo y que esté legalmente facultado para ello, y
+
+VI. Capítulo de observaciones.
+
+La bitácora de control se hará del conocimiento de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y de la Alcaldía correspondiente para los efectos a que haya lugar.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 118.
+
+En caso de presentarse cualquiera de los supuestos a que se refiere el artículo anterior, se dará vista a la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México para los efectos legales y administrativos a que haya lugar.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 119.
+
+En caso de que las personas físicas o morales no cuenten con el Dictamen Técnico estando obligados a contar con el mismo, el Instituto de Verificación Administrativa en un plazo no mayor de 20 días naturales dará vista a la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y al HCBDF, a fin de que se establezcan las sanciones correspondientes.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 120.
+
+En caso de que las personas físicas o morales no cuenten con el Visto bueno estando obligados a contar con el mismo, el HCBDF en un plazo no mayor de 20 días naturales dará vista a la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México a fin de que se establezcan las sanciones correspondientes.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -771,3 +981,17 @@ QUINTO.- Los manuales de operación y demás instrumentos señalados en el prese
 SEXTO.- De manera excepcional y por única ocasión el Presidente del extinto Consejo de Honor y Justicia fungirá como Presidente del Consejo de Lealtad y Disciplina.
 
 Dado en la Residencia Oficial del Jefe de Gobierno, en la Ciudad de México, a los 28 días del mes de marzo del año dos mil cinco..- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL HEROICO CUERPO DE BOMBEROS, EL REGLAMENTO DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS, ASÍ COMO EL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, TODOS VIGENTES EN LA CIUDAD DE MÉXICO; EN MATERIA DE ESPECTÁCULOS MASIVOS Y DEPORTIVOS".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Todas las referencias hechas en otros ordenamientos al visto bueno para la celebración de espectáculos públicos masivos y deportivos, se entenderá la referencia al visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia previsto en el artículo 256 fracción I del Código Fiscal de la Ciudad de México.
