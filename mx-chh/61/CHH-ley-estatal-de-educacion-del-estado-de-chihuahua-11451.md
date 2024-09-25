@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2024-08-31"
+last_updated: "2024-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1970,6 +1970,22 @@ La Autoridad Educativa Estatal procurará desarrollar Programas de Superación P
 La Autoridad Educativa Estatal procurará incrementar la inversión económica para favorecer el desarrollo de la investigación y la difusión para la innovación de las prácticas educativas; así mismo, autorizar la diversificación de las fuentes de financiamiento y dar autonomía institucional para la utilización de los ingresos propios.
 
 Las instituciones de enseñanza superior, mediante convenio con las Autoridades Educativas del Estado, podrán realizar entre el sector educativo tareas de promoción acerca de las ciudades del conocimiento con la finalidad de generar un ambiente propicio para una futura educación apegada a este principio.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 111 BIS.- El Estado reconoce la importancia y coadyuvará a procurar que las instituciones de educación superior se constituyan como espacios libres de todo tipo y modalidad de violencia y de discriminación, para garantizar el acceso pleno al derecho a la educación superior.
+
+En el ámbito de su competencia, conforme a sus procedimientos normativos y de acuerdo con sus características, las instituciones de educación superior promoverán, entre otras, la adopción de las siguientes medidas:
+
+I. Emisión de diagnósticos, programas y protocolos para la prevención, atención, sanción y erradicación de todos los tipos y modalidades de violencia.
+
+II. Desarrollo de investigación multidisciplinaria encaminada a crear modelos para la detección y erradicación de la violencia en las instituciones de educación superior.
+
+III. Emisión de programas, protocolos y realización de acciones que garanticen el acceso, la continuidad y culminación de la educación superior de las mujeres, y que promuevan la lactancia materna durante los primeros seis meses de nacimiento de su hija o hijo, respetando su autonomía y decisión.
+
+Bajo ninguna circunstancia, las instituciones de educación superior podrán prohibir la entrada a las hijas e hijos, en etapa de primera infancia, de madres y padres estudiantes, así como a sus redes de apoyo. Debiendo proveer, en coordinación con el Estado, la construcción de espacios de atención infantil dentro de los recintos para ofrecer un lugar donde resguardar a sus niñas o niños mientras estudian.
+
+Cuando las instalaciones no cuenten con el espacio para albergar esta infraestructura o personal requerido, se deberán gestionar los convenios pertinentes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4690,3 +4706,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0894/2024 XIII P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 111 BIS A LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
