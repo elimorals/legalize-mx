@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-09-23"
+last_updated: "2024-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "AGU"
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 26 DE SEPTIEMBRE DE 2024.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1049,9 +1051,9 @@ En el caso de los Tipos Penales Protectores de la Libertad Sexual, la Seguridad 
 
 En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE SEPTIEMBRE DE 2024) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2024)
 
-El ejercicio de la acción penal también será imprescriptible si el lecho (sic) encuadra en el tipo penal de incumplimiento de las obligaciones de asistencia familiar.
+El ejercicio de la acción penal también será imprescriptible si el echo (sic) encuadra en el tipo penal de incumplimiento de las obligaciones de asistencia familiar.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
 
