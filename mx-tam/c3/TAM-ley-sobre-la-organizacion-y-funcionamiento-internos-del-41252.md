@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-09-24"
+last_updated: "2024-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE SEPTIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 26 DE SEPTIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2024.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -164,6 +164,8 @@ d) La Presidencia de la Mesa Directiva o la Diputación Permanente, según sea e
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
 1. Las y los diputados electos otorgarán la protesta constitucional ante el presidente de la Mesa Directiva o de la Diputación Permanente, según sea el caso. A quien corresponda tomarla preguntará a los diputados electos: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del pueblo tamaulipeco?"
+
+Puestos de pie en sus respectivos lugares, al iniciarse la toma de protesta los diputados levantarán la mano derecha hacia el frente a la altura del pecho y, en su oportunidad, contestarán: "Si, protesto".
 
 > <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
