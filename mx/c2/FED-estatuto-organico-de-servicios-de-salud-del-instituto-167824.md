@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2024-07-30"
+last_updated: "2024-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE SEPTIEMBRE DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -449,21 +449,33 @@ c) Coordinación de Finanzas.
 
 d) Coordinación de Servicios Generales.
 
-e) Coordinación de Abasto.
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
 
-f) Coordinación de Recursos Humanos.
+e) Coordinación de Planeación y Control del Abasto.
 
-g) Coordinación de Administración de Nómina Federalizada e IMSS-BIENESTAR.
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
 
-h) Coordinación de Tecnologías de la Información.
+f) Coordinación de Control Presupuestal del Abasto.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
 
-i) Coordinación de Recursos Materiales.
+g) Coordinación de Recursos Humanos.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
 
-j) Coordinación de Adquisiciones.
+h) Coordinación de Administración de Nómina Federalizada e IMSS-BIENESTAR.
+
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
+
+i) Coordinación de Tecnologías de la Información.
+
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
+
+j) Coordinación de Recursos Materiales.
+
+> <small>(ADICIONADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
+
+k) Coordinación de Adquisiciones.
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
@@ -1473,59 +1485,91 @@ V. Llevar a cabo los procedimientos de contratación, desde la investigación de
 
 VI. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previa validación de la Unidad Jurídica.
 
+> <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 40.
 
-Son facultades y atribuciones de la Coordinación de Abasto:
+Son facultades y atribuciones de la Coordinación de Planeación y Control del Abasto:
 
-I. Establecer las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir los procesos y procedimientos de abasto, tanto en el nivel central como en las entidades federativas, así como darles seguimiento y verificar su observancia de conformidad con la política que determine la persona titular de la Dirección General y las autoridades correspondientes.
+I. Coordinar y evaluar el proceso de abasto institucional de bienes de consumo y servicios.
 
-II. Proponer y supervisar el cumplimiento de las políticas de operación para las áreas almacenarías en el ámbito central y en las entidades federativas que le sea aplicable.
+II. Proponer la normatividad en materia de abasto institucional, acorde a las políticas de IMSS-BIENESTAR.
 
-III. Coordinar y difundir los planes estratégicos de abastecimiento de bienes de consumo y servicios a nivel nacional.
+III. Coordinar la aplicación de los planes, programas y proyectos estratégicos de abastecimiento emitidos por las dependencias consolidadoras y los que determine la Unidad de Administración y Finanzas.
 
-IV. Supervisar la ejecución y evaluación del proceso de abasto de bienes de consumo y servicios a través del diseño de indicadores, parámetros y la información que se genere en el desempeño de las atribuciones del área.
+IV. Coordinar el diseño de los indicadores que permitan evaluar el proceso de abasto a nivel nacional.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+V. Coordinar las acciones de evaluación del proceso de abasto institucional de medicamentos e insumos para la salud y contratación de servicios, promoviendo la eficiencia y eficacia del mismo y en su caso proponer medidas preventivas y correctivas.
 
-V. Coordinar la elaboración y evaluación del presupuesto anual de gastos de bienes y servicios a nivel nacional, en el ámbito de su competencia, a efecto de someterlo a consideración de la Unidad de Administración y Finanzas.
+VI. Instrumentar el establecimiento de políticas de operación para las áreas almacenarias en los ámbitos: central, sus Coordinaciones Estatales, HRAE’S y unidades médicas administradas y/o transferidas al IMSS-BIENESTAR.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+VII. Promover la modernización en el ámbito de su competencia, mediante la simplificación de procedimientos, automatización de sistemas y racionalización de los recursos y nuevos esquemas de abastecimiento que mejoren la calidad de los servicios.
 
-VI. Coordinar las acciones de evaluación y contratación en el proceso de abasto institucional de bienes y servicios, promoviendo la eficiencia y eficacia de este y en su caso proponer medidas preventivas y correctivas.
+VIII. Supervisar la operación del Sistema de Abasto Institucional y demás sistemas relacionados con el abasto nacional y proponer las mejoras que se requieran.
 
-VII. Supervisar la operación del sistema de abasto de IMSS-BIENESTAR y demás sistemas relacionados con el abasto nacional y proponer las mejoras que se requieran.
+IX. Contribuir con las comisiones, comités y cuerpos colegiados que en materia de abastecimiento y servicios se integren, o en su caso, instruir a su personal para que se integre a los mismos.
 
-VIII. Coordinar y supervisar la operación de recepción, registro y suministro de almacenes a nivel central.
+X. Coordinar que se atiendan oportunamente los requerimientos de información e indicadores de abasto.
 
-IX. Coordinar y controlar la recepción, registro y suministro de bienes de consumo e inversión, en el ámbito de su competencia, a las diversas unidades médicas de todos los niveles de atención.
+XI. Coordinar y supervisar la capacitación a nivel nacional, respecto a las etapas del proceso de abasto.
 
-X. Supervisar el nivel de abasto de bienes terapéuticos y no terapéuticos en las unidades médicas de todos los niveles de atención y proponer las medidas preventivas o correctivas que se requieran, para mantener el abasto dentro de los parámetros establecidos.
+XII. Consolidar el cálculo del requerimiento de necesidades conforme a las políticas y estrategias de abasto.
 
-XI. Autorizar el canje o devolución de bienes recibidos en nivel central con las y los proveedores que no cubran las especificaciones establecidas en los contratos o pedidos, con base en los términos, fianzas y garantías correspondientes.
+XIII. Supervisar el suministro de los medicamentos e insumos que se realiza a nivel central, y en coordinación con las coordinaciones estatales, HRAE’S y las unidades médicas transferidas al IMSS-BIENESTAR
 
-XII. Coordinar la distribución de los bienes requeridos para los Programas Nacionales de Vacunación y campañas especiales en coordinación con la Unidad de Atención a la Salud y vigilar el arribo de productos a las unidades almacenarías del sistema de abasto.
+XIV. Coordinar y controlar la recepción, registro y suministro de medicamentos e insumos médicos, en el ámbito de su competencia, a las diversas unidades del IMSS BIENESTAR.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+XV. Coordinar la determinación de necesidades de los servicios de transporte de carga y paquetería que se requieren para la distribución de los bienes de consumo entre los Almacenes Centrales a los de las Coordinaciones Estatales y/o HRAE’S, a efecto de que se realicen los procesos licitatorios.
 
-XIII. Determinar los servicios que se requieren para la distribución de los bienes de consumo en los almacenes centrales de las unidades médicas y representaciones estatales, a efecto de realizar los procesos licitatorios.
+XVI. Coordinar que la recepción, almacenamiento y distribución de los diferentes bienes de consumo adquiridos centralmente, se realice conforme a las normas y procedimientos establecidos para la optimización de los servicios del nivel central.
 
-XIV. Coordinar el seguimiento al grado de cumplimiento de las entregas programadas que realicen las y los proveedores en los almacenes de nivel central.
+XVII. Coordinar que la revisión para la emisión de altas de almacén a las remisiones de entrega de los contratos y/o pedidos por bienes recibidos, se otorguen y se realicen en el Sistema de Abasto Institucional.
 
-XV. Verificar el cumplimiento de las normas y procedimientos establecidos para la recepción, almacenamiento y distribución de los diferentes bienes de consumo adquiridos.
+XVIII. Coordinar que se instruya al personal para que se dé cumplimiento a las entregas programadas que realicen los proveedores en los almacenes de nivel central, vigilando sistemáticamente el grado de cumplimiento de cada proveedor.
 
-XVI. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
+XIX. Coordinar con la Unidad de Atención a la Salud, la distribución de los productos biológicos para el cumplimiento oportuno de los programas nacionales de vacunación y campañas especiales.
 
-XVII. Contribuir con las comisiones, comités y cuerpos colegiados que en materia de abastecimiento se integren, o en su caso, instruir a su personal para que se integre a los mismos.
+> <small>(ADICIONADO, D.O.F. 26 DE SEPTIEMBRE DE 2024)</small>
 
-XVIII. Coordinar la comunicación con las unidades de representación estatal para proponer las acciones, difundir los ordenamientos vigentes, establecer los indicadores y dar seguimiento a la operación en materia de abasto.
+###### Artículo 40 Bis.
 
-XIX. Coordinar y supervisar la capacitación a nivel nacional, respecto a las etapas del proceso de abasto, con apoyo de la Coordinación de Recursos Humanos.
+Son facultades y atribuciones de la Coordinación de Control Presupuestal del Abasto:
 
-XX. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
+I. Coordinar la evaluación del ejercicio del presupuesto de bienes de consumo, de las partidas de abastecimiento del capítulo de materiales y suministro, para la aplicación de un solo criterio institucional.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+II. Supervisar que las Jefaturas de Servicios Administrativos y Finanzas en las Coordinaciones Estatales y las Coordinaciones de los HRAE’S realicen anualmente la distribución del presupuesto de abasto de medicamentos, considerando las estrategias de compra de la Coordinación de Planeación y Control del Abasto, a fin de optimizar el recurso disponible.
 
-XXI. Proponer criterios generales y específicos para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, en colaboración con las áreas competentes del organismo.
+III. Aprobar el anteproyecto del presupuesto de abasto de medicamentos, material de curación, bienes no terapéuticos y servicios integrales que se presenta a las personas titulares de la Dirección General y de la Unidad de Administración y Finanzas de IMSS-BIENESTAR para su aplicación ante dependencias gubernamentales y financieras.
+
+IV. Supervisar y autorizar las transferencias presupuestales de las partidas de abasto.
+
+V. Sancionar el nivel de inversión contable de los almacenes centrales, de las Coordinaciones Estatales y establecimientos de salud, para emitir informes de su comportamiento para la toma de decisiones.
+
+VI. Coordinar la evaluación del comportamiento contable de las bajas de bienes de consumo, realizadas por los almacenes institucionales y los inventarios en tránsito, emitiendo las recomendaciones pertinentes.
+
+VII. Coordinar la operación sistematizada de control de compromisos y la capacitación de las Coordinaciones Estatales y HRAE’S para su operación.
+
+VIII. Instrumentar las estadísticas por acción de compra en los formatos que correspondan para la Secretaría de Hacienda y Crédito Público.
+
+IX. Coordinar y supervisar el intercambio de medicamentos con otras dependencias y entidades de la Administración Pública, así como las entidades federativas en términos de los convenios que se celebren para tal efecto.
+
+X. Coordinar la compra emergente de medicamentos realizada por los establecimientos de salud, las Coordinaciones Estatales y los HRAE’S, así como evaluar su gestión.
+
+XI. Coordinar los procesos de canje o de bienes recibidos en nivel central con los proveedores que no cubran las especificaciones establecidas en los contratos o pedidos, con base en los términos, fianzas y garantías correspondientes.
+
+XII. Supervisar el informe de las adquisiciones por compra emergente realizado por los establecimientos de salud, para evaluar la gestión de las Coordinaciones Estatales.
+
+XIII. Supervisar el seguimiento de las medidas preventivas y correctivas, que se encuentran pendiente (sic) de atención por las Coordinaciones Estatales y HRAE’S.
+
+XIV. Supervisar que se realicen los trámites para el pago de abasto de medicamentos, material de curación, bienes no terapéuticos y servicios integrales, fletes y maniobras de los bienes de consumo que se adquieran y almacenen centralmente.
+
+XV. Asesorar técnicamente al personal normativo, de las Coordinaciones Estatales y de los establecimientos de salud en la operación del ciclo de abasto, agregando valor sustantivo y de solución de problemas.
+
+XVI. Coordinar las visitas de supervisión a las Coordinaciones Estatales y HRAE’S, y mantener una estrecha comunicación que permita actualizar la situación real, veraz y oportuna del proceso de abasto institucional.
+
+XVII. Supervisar que los titulares de Unidad y sus coordinaciones sean retroalimentadas, respecto a la problemática existente en el proceso del abasto, su seguimiento y alternativas de solución.
+
+XVIII. Gestionar de manera conjunta con las Coordinaciones de Programación y Presupuesto y la Coordinación de Contabilidad y Trámite de Erogaciones oportunamente, los lineamientos de trámites de pago a la proveeduría.
 
 ###### Artículo 41.
 
@@ -3214,3 +3258,11 @@ SEGUNDO. Cualquier referencia que se realice a la Coordinación de Servicios de 
 TERCERO. Cualquier procedimiento administrativo que a la fecha se encuentren (sic) en trámite ante la Coordinación de Servicios de Administración será concluido por las Coordinaciones de Servicios Generales, Recursos Materiales o Adquisiciones, según corresponda al ámbito de sus atribuciones, de conformidad con las disposiciones jurídicas aplicables.
 
 CUARTO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
