@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-devolver-al-pueblo-lo-1392
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-28"
-last_updated: "2020-05-04"
+last_updated: "2024-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-07"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO -- ANTES ESTATUTO ORGANICO DEL INSTITUTO DE ADMINISTRACION DE BIENES Y ACTIVOS --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO, PUBLICADO EN EL D.O.F. DE 26 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Estatuto publicado en el Número 23 del Diario Oficial de la Federación, el jueves 28 de noviembre de 2019.
 
@@ -2324,3 +2326,25 @@ TERCERO. Todas las referencias que hagan mención a las Coordinaciones Regionale
 CUARTO. La unidad administrativa que brinde atención a los diversos asuntos de su competencia antes de la entrada en vigor del presente, continuará atendiéndolos hasta en tanto no transfiera formalmente dicha responsabilidad y todos los documentos necesarios para su atención a la unidad administrativa que deba asumirlas.
 
 QUINTO. Las unidades administrativas que conforme a los acuerdos de circunscripción a que hace referencia el artículo SEGUNDO transitorio del presente, asuman competencia en asuntos que anteriormente correspondían a otras unidades administrativas, darán la atención y resolución que corresponda a los mismos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO”.]
+
+Primero. El presente Estatuto Orgánico entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con la entrada en vigor del presente Estatuto Orgánico se abroga el Estatuto Orgánico del Instituto de Administración de Bienes y Activos, publicado en el Diario Oficial de la Federación el 28 de noviembre de 2019 y su reforma publicada en dicho medio de difusión oficial el 4 de mayo de 2020, a partir de la cual cambió su denominación a Estatuto Orgánico del Instituto para Devolver al Pueblo lo Robado.
+
+Tercero. Las unidades administrativas que con motivo de la entrada en vigor del presente Estatuto Orgánico dejan de realizar determinadas facultades que ahora deben ser realizadas por otra unidad administrativa, contarán con un plazo no mayor a 120 días naturales para transferir archivos y, en su caso, recursos humanos, adecuar sistemas y cualquier otra actividad inherente que repercuta en las unidades administrativas que incorporan nuevas facultades con motivo de la expedición del nuevo Estatuto Orgánico. Lo anterior, en coordinación con las unidades administrativas de tecnologías de la información, recursos humanos y recursos materiales, para facilitar dichas actividades.
+
+Las unidades administrativas a las que se refiere el párrafo anterior continuarán brindando atención a los diversos asuntos que eran de su competencia hasta en tanto no transfieran dicha responsabilidad y todos los documentos necesarios para su atención a la unidad administrativa que deba asumirlas.
+
+Cuarto. Las unidades administrativas que conforme al presente Estatuto Orgánico asuman competencia en asuntos que anteriormente correspondían a otras unidades administrativas, darán la atención y resolución que corresponda a los mismos en términos de lo dispuesto en el presente Estatuto Orgánico a partir de su entrada en vigor, salvo que se encuentre en el supuesto del último párrafo del transitorio tercero.
+
+Quinto. Las referencias realizadas a las unidades administrativas que cambian de denominación se entenderán realizadas a la unidad administrativa que asume las facultades que correspondan, salvo que se encuentre en el supuesto del último párrafo del transitorio tercero.
+
+Sexto. En cumplimiento a los artículos 15, tercer párrafo, 24 y 25, fracción I, de la Ley Federal de las Entidades Paraestatales, el Estatuto Orgánico del Instituto para Devolver al Pueblo lo Robado deberá inscribirse en el Registro Público de Organismos Descentralizados dentro de los treinta días naturales siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
+
+Séptimo. El Instituto contará con un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Estatuto Orgánico, para armonizar su normativa conforme a lo dispuesto en el mismo.
