@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-las-mujeres-antes-ley-del-instituto-168
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-24"
-last_updated: "2023-11-24"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE LA SECRETARIA DE LAS MUJERES -- ANTES LEY DEL INSTITUTO QUERETANO DE LAS MUJERES --
 
-LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 93 del Periódico Oficial del Estado de Querétaro, el viernes 24 de noviembre de 2023.
 
@@ -39,19 +41,25 @@ CONSIDERANDO
 
 Por lo anteriormente expuesto, la Sexagésima Legislatura del Estado de Querétaro, expide la siguiente:
 
-LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+LEY DE LA SECRETARÍA DE LAS MUJERES
 
 ## Título Primero. Disposiciones Generales
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés general y observancia obligatoria en el Estado de Querétaro, y tiene por objeto establecer el objetivo, organización, estructura y funcionamiento del Instituto Queretano de las Mujeres.
+La presente Ley es de orden público, interés general y observancia obligatoria en el Estado de Querétaro, y tiene por objeto establecer el objetivo, organización, estructura y funcionamiento de la Secretaría de las Mujeres.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 2.
 
-El Instituto Queretano de las Mujeres es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica y de gestión para el cumplimiento de sus objetivos y atribuciones. El Instituto Queretano de las Mujeres tendrá su domicilio legal en el municipio de Querétaro; y conforme a su capacidad presupuestal, podrá contar para el cumplimiento de su objeto, con unidades administrativas en otros municipios, las cuales se podrán crear a través de los Convenios de coordinación y colaboración que se suscriban con los municipios, organismos o mediante los Acuerdos que al efecto se emitan.
+La Secretaría de las Mujeres es la dependencia del Poder Ejecutivo del Estado de Querétaro, a la que le corresponde el despacho de las materias relativas al pleno goce, promoción y difusión de los derechos humanos de las mujeres y niñas; la igualdad sustantiva entre mujeres y hombres: el desarrollo y participación social de las mujeres; la transversalización de la perspectiva de género, la erradicación de la discriminación y todo tipo de violencia contra las mujeres.
 
 ###### Artículo 3.
 
@@ -61,11 +69,13 @@ I. Acciones afirmativas: las medidas específicas de carácter temporal, encamin
 
 II. Atención: conjunto de servicios integrales y especializados proporcionados a las mujeres y a sus hijas e hijos, con la finalidad de atender el impacto de las violencias, incluye servicios interdisciplinarios de orientación, atención especializada, y alojamiento desde la perspectiva de género, la interseccionalidad, multiculturalidad y el enfoque de derechos humanos, brindados por el Instituto a mujeres en situación de violencia por razones de género;
 
-III. Centro de Atención Externa: la Unidad Local de Atención ubicada en las instalaciones del Instituto;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+III. Centro de Atención Externa: la Unidad Local de Atención ubicada en las instalaciones de la Secretaría;
 
 IV. Conciliación de vida laboral y familiar: el conjunto de políticas públicas y acciones afirmativas dirigidas a propiciar que las mujeres con responsabilidades familiares, que desempeñen o deseen desempeñar un empleo, ejerzan su derecho a prepararse y acceder al mismo, con igualdad sustantiva de oportunidades y trato, sin ser objeto de discriminación, y sin conflicto entre sus responsabilidades familiares y laborales;
 
-V. Directora General: la titular de la Dirección General del Instituto Queretano de las Mujeres;
+V. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 VI. Dirección del Refugio: la Dirección del Refugio para Mujeres Víctimas de Violencia;
 
@@ -83,27 +93,39 @@ XII. Igualdad sustantiva: el acceso al mismo trato y oportunidades, para el reco
 
 XIII. Institucionalización: proceso sistemático de integración de la perspectiva de género en las rutinas del quehacer público, a través de la reorganización de las prácticas institucionales en función de los principios de igualdad jurídica y sustantiva;
 
-XIV. Instituto: el Instituto Queretano de las Mujeres;
+XIV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 XV. Interseccionalidad: herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias concretas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
-XVI. Junta de Gobierno: la Junta de Gobierno del Instituto Queretano de las Mujeres;
+XVI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 XVII. Justicia social: la obligación de procurar el equilibrio y la equidad en el acceso y la distribución de los recursos y las oportunidades;
 
 XVIII. Multiculturalidad: el reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 
-XIX. Módulos de Atención Psicojurídica: las Unidades Locales de Atención operadas por el Instituto Queretano de las Mujeres en coordinación con las instancias municipales respectivas, y establecidas en los municipios del Estado, previo acuerdo con las autoridades municipales;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Módulos de Atención Psicojurídica: las Unidades Locales de Atención operadas por la Secretaría en coordinación con las instancias municipales respectivas, y establecidas en los municipios del Estado, previo acuerdo con las autoridades municipales;
 
 XX. Perspectiva de género: concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
 
-XXI. Plan de seguridad: conjunto de estrategias, elementos y actividades prácticas a implementar por la usuaria y sus personas allegadas, de manera alternativa a su rutina, diseñado en conjunto con el personal de los servicios de atención del Instituto, mediante el análisis de la información proporcionada por la usuaria en relación a su situación específica de violencia, con la finalidad de evitar que sufra nuevos eventos de violencia y disminuir el estado de riesgo por la cercanía con el agresor;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Plan de seguridad: conjunto de estrategias, elementos y actividades prácticas a implementar por la usuaria y sus personas allegadas, de manera alternativa a su rutina, diseñado en conjunto con el personal de los servicios de atención de la Secretaría, mediante el análisis de la información proporcionada por la usuaria en relación a su situación específica de violencia, con la finalidad de evitar que sufra nuevos eventos de violencia y disminuir el estado de riesgo por la cercanía con el agresor;
 
 XXII. Programa Estatal: el Programa Estatal de las Mujeres;
 
-XXIII. Refugio: el Refugio para Mujeres Víctimas de Violencia, operado por el Instituto;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXIV. Reglamento Interno: el Reglamento Interno del Instituto Queretano de las Mujeres;
+XXIII. Refugio: el Refugio para Mujeres Víctimas de Violencia, operado por la Secretaría;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV. Reglamento Interno: el Reglamento Interno de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV BIS. Secretaría: La Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro;
 
 XXV. Transparencia: la obligación de privilegiar en el ejercicio de las funciones el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso a la misma, y proporcionando la documentación que se genere, obtenga, adquiera, transforme o conserve, y en el ámbito de su competencia, difundir de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia;
 
@@ -131,21 +153,31 @@ VI. Transparencia, y
 
 VII. Transversalidad.
 
-## Título Segundo. Del Instituto Queretano de las Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-### Capítulo Primero. Del objeto y atribuciones del Instituto
+## Título Segundo. De la Secretaría de las Mujeres
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+### Capítulo Primero. Del objeto y atribuciones de la Secretaría
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 5.
 
-El objeto general del Instituto es formular, coordinar, promover, ejecutar y evaluar políticas públicas, programas y acciones para la transversalidad e institucionalización de la perspectiva de género como herramienta para alcanzar la igualdad sustantiva entre mujeres y hombres, diseñando, implementando y dando seguimiento a los mecanismos, estrategias y acciones orientadas a la promoción, protección, respeto y garantía de los derechos humanos de las mujeres.
+El objeto general de la Secretaría es formular, coordinar, promover, ejecutar y evaluar políticas públicas, programas y acciones para la transversalidad e institucionalización de la perspectiva de género como herramienta para alcanzar la igualdad sustantiva entre mujeres y hombres, diseñando, implementando y dando seguimiento a los mecanismos, estrategias y acciones orientadas a la promoción, protección, respeto y garantía de los derechos humanos de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, además de la competencia que prevé la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, la Secretaría tendrá las siguientes atribuciones:
 
 I. Diseñar, ejecutar e impulsar acciones de transversalidad con perspectiva de género en materia de salud, educación, trabajo, economía, seguridad, desarrollo social, participación política, ciudadanía, fortalecimiento comunitario, prevención y atención de la violencia, acceso a la justicia, conciliación vida laboral y familiar, derechos humanos y en general, todas aquellas que estén orientadas al desarrollo integral de las mujeres en el Estado;
 
-II. Elaborar con estricto apego al Plan Estatal de Desarrollo el proyecto de Programa Estatal y someterlo a la aprobación de la Junta de Gobierno, y una vez emitido, ejecutarlo, darle seguimiento y evaluarlo;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. Elaborar y expedir con estricto apego al Plan Estatal de Desarrollo y las disposiciones legales aplicables, el Programa Estatal y una vez emitido, ejecutarlo, darle seguimiento y evaluarlo;
 
 III. Formular el proyecto del Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres, con estricto apego al Plan Estatal de Desarrollo, tomando en cuenta las condiciones sociales y culturales de la Entidad, las particularidades de la desigualdad en cada región del Estado con enfoque interseccional, y abordaje multicultural;
 
@@ -165,7 +197,9 @@ X. Operar como órgano de consulta, capacitación y asesoría, a petición de la
 
 XI. Coadyuvar a la institucionalización de la perspectiva de género en las dependencias y entidades de la administración pública estatal y municipal cuando así lo requieran, así como en los sectores social y privado, impulsando la implementación de mecanismos, sistemas, creación de unidades y espacios, emisión de programas, instrumentos normativos, manuales, modelos, protocolos y documentos administrativos que tengan por objetivo orientar la actividad del ente público o privado, así como las acciones para el pleno acceso de las mujeres al desarrollo integral;
 
-XII. Operar como órgano de consulta, capacitación, asesoría y certificación, tanto para las dependencias y entidades de la Administración Pública, como para el sector privado en Normas Mexicanas y estándares de competencia en materia de igualdad, atención a la violencia de género y aquellos correlativos a las atribuciones del Instituto de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Operar como órgano de consulta, capacitación, asesoría y certificación, tanto para las dependencias y entidades de la Administración Pública, como para el sector privado en Normas Mexicanas y estándares de competencia en materia de igualdad, atención a la violencia de género y aquellos correlativos a las atribuciones de la Secretaría de conformidad con las disposiciones aplicables;
 
 XIII. Fortalecer la participación de las mujeres en actividades económico-productivas y fomentar el desarrollo de sus capacidades mediante la implementación de estrategias de formación, capacitación y certificación en materias financieras, laborales y empresariales, que les permitan la incorporación en el sector productivo, actividades remuneradas, el acceso a un trabajo digno y a la obtención de ingresos;
 
@@ -197,7 +231,9 @@ XXVI. Diseñar, impartir, participar y difundir actividades didácticas, para la
 
 XXVII. Impartir formación, sensibilización y capacitación en materia de igualdad sustantiva entre mujeres y hombres, prevención de la violencia de género, y en general en materia de derechos humanos de las mujeres de manera presencial y a través de entornos virtuales de aprendizaje;
 
-XXVIII. Celebrar con los tres órdenes de gobierno, así como con organismos constitucionales autónomos y de la sociedad civil, convenios de coordinación y colaboración para diseñar, promover y ejecutar acciones afirmativas con perspectiva de género;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXVIII. Participar en la suscripción de los convenios o contratos que celebre el Gobernador del Estado, cuando incluyan aspectos correspondientes a su competencia;
 
 XXIX. Promover la creación y fortalecimiento de instancias municipales de las mujeres en el Estado y operar como órgano de consulta y capacitación de dichas instancias, en asuntos de su competencia;
 
@@ -219,151 +255,83 @@ XXXVII. Colaborar con las autoridades de los ámbitos de salud del Estado, en el
 
 XXXVIII. Promover, realizar y participar en cursos, talleres, foros, encuentros y eventos en general relacionados con la mujer de la entidad,
 
-XXXIX. Realizar acciones de capacitación, formación académica y certificación en materia de perspectiva de género, derechos humanos, prevención, atención, sanción y erradicación de la violencia de género, así como temas afines al objeto del Instituto, pudiendo obtener cuotas de recuperación por los servicios que al efecto preste, de conformidad con el tabulador que autorice la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXXIX. Realizar acciones de capacitación, formación académica y certificación en materia de perspectiva de género, derechos humanos, prevención, atención, sanción y erradicación de la violencia de género, así como temas afines al objeto de la Secretaría;
 
 XL. Elaborar y emitir el documento normativo que oriente la actividad gubernamental para prevenir, atender y erradicar el acoso y hostigamiento por razón de género en el ámbito laboral, a fin de promover un entorno sano que favorezca el desarrollo de las mujeres e impulse su incorporación en el ámbito económico;
 
-XLI. Elaborar y proponer a la Junta, el proyecto de Reglamento Interno del Instituto, así como sus modificaciones;
+XLI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 XLII. Elaborar el Protocolo de Atención Integral;
 
-XLIII. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interno del Instituto.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XLIII. Las demás que establezca esta Ley, la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el Reglamente Interno de la Secretaría y demás disposiciones aplicables.
 
 ### Capítulo Segundo. Del Programa Estatal de las Mujeres
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-La actuación del Instituto se sustentará en el instrumento denominado Programa Estatal de las Mujeres, que contendrá las políticas generales, las líneas estratégicas y las acciones concretas para la transversalidad e institucionalización de la perspectiva de género en la administración pública estatal, el impulso a la igualdad sustantiva, la prevención, atención y erradicación de la violencia de género y el desarrollo integral de las mujeres en los ámbitos civil, político, económico, cultural y social.
+La actuación de la Secretaría se sustentará en el instrumento denominado Programa Estatal de las Mujeres, que contendrá las políticas generales, las líneas estratégicas y las acciones concretas para la transversalidad e institucionalización de la perspectiva de género en la administración pública estatal, el impulso a la igualdad sustantiva, la prevención, atención y erradicación de la violencia de género y el desarrollo integral de las mujeres en los ámbitos civil, político, económico, cultural y social.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-Para la elaboración del Programa Estatal y su presentación y aprobación ante la Junta de Gobierno, conforme a la normatividad aplicable, dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo, el Instituto, en vinculación con el Comisionado General de Entidades Paraestatales, deberá llevar a cabo un proceso de participación ciudadana, a fin de allegarse de elementos para la formulación con visión interseccional, multicultural y perspectiva de género, de los objetivos a alcanzar y las estrategias y líneas de acción a implementar mediante el Programa Estatal.
+Para la elaboración del Programa Estatal conforme a la normatividad aplicable, dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo, la Secretaría, en vinculación con la Secretaría de Planeación y Participación Ciudadana, deberá llevar a cabo un proceso de participación ciudadana, a fin de allegarse de elementos para la formulación con visión interseccional, multicultural y perspectiva de género, de los objetivos a alcanzar y las estrategias y líneas de acción a implementar mediante el Programa Estatal.
 
-Habiendo finalizado el proceso, con sustento en las aportaciones vertidas, el Instituto elaborará un proyecto de Programa Estatal, para su presentación y aprobación conforme a la normatividad aplicable.
+Habiendo finalizado el proceso, con sustento en las aportaciones vertidas, la Secretaría elaborará y expedirá el Programa Estatal conforme a la normatividad aplicable.
 
-El Programa Estatal deberá contar con el acuerdo de autorización, la suficiencia presupuestal para su ejercicio, así como con las Reglas de Operación correspondientes, y deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+El Programa Estatal deberá contar con la suficiencia presupuestal para su ejercicio, así como con las Reglas de Operación correspondientes, y deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga".
 
-### Capítulo Tercero. De la estructura orgánica y funcionamiento del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+### Capítulo Tercero. De la estructura orgánica y funcionamiento de la Secretaría
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 9.
 
-El Instituto contará con los siguientes órganos de administración:
-
-I. Una Junta de Gobierno;
-
-II. Una Dirección General; y
-
-III. Un Órgano Interno de Control.
-
-El Instituto contará además con una Dirección Técnica, una Dirección del Refugio para Mujeres Víctimas de Violencia y las demás unidades administrativas que resulten necesarias para el debido cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y la suficiencia presupuestal autorizada
+La Secretaría para el cumplimiento de sus funciones contará las unidades administrativas que le resulten necesarias e indispensables para el debido cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y la suficiencia presupuestal autorizada.
 
 ###### Artículo 10.
 
-La Junta de Gobierno estará integrada por:
-
-I. Una Presidencia con derecho a voz y voto, que será la persona titular del Poder Ejecutivo del Estado o el Comisionado General de Entidades Paraestatales;
-
-II. Una Secretaria Técnica con derecho a voz, que será la Directora General;
-
-III. Las personas titulares de las siguientes dependencias y entidades, quienes tendrán derecho a voz y voto:
-
-a. Secretaría de Gobierno;
-
-b. Secretaría de Salud;
-
-c. Secretaría de Educación;
-
-d. Secretaría de Finanzas;
-
-e. Secretaría de la Contraloría;
-
-f. Secretaría de Desarrollo Sustentable;
-
-g. Secretaría de Desarrollo Social;
-
-h. Secretaría de Seguridad Ciudadana;
-
-i. Secretaría de la Juventud;
-
-j. Secretaría del Trabajo;
-
-k. Secretaría de Desarrollo Agropecuario;
-
-l. Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia;
-
-IV. La persona titular de la Fiscalía General del Estado, quien tendrá derecho a voz y voto, y
-
-V. Cuatro mujeres representantes de la Sociedad Civil Organizada, que se hayan distinguido por su actividad a favor del impulso a la igualdad sustantiva o los derechos humanos de las mujeres, quienes fungirán como vocales, teniendo derecho a voz, pero sin voto.
-
-La Junta de Gobierno, de acuerdo al tema que se trate en su agenda, podrá invitar a representantes de otras dependencias, instituciones y organizaciones públicas o privadas relacionadas con su objeto de trabajo, quienes tendrán derecho a voz, pero no a voto.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 11.
 
-El cargo de miembro de la Junta de Gobierno será honorífico.
-
-Las personas integrantes de la Junta de Gobierno señaladas en las fracciones I, II, III y IV del artículo 10 de esta Ley, formarán parte de aquélla mientras continúen en el ejercicio del cargo y podrán nombrar suplentes, quienes ejercerán el derecho a voz y voto correspondiente.
-
-Las personas integrantes de la Junta de Gobierno que se establecen en la fracción V del artículo 10 de esta Ley, serán nombradas por la Junta de Gobierno de entre mujeres en pleno ejercicio de sus derechos, representantes de organizaciones sindicales, campesinas, no gubernamentales, empresariales, profesoras e investigadoras destacadas en la docencia, profesionistas, empleadas, maestras y, en general, mujeres representativas de la sociedad civil organizada, y durarán en su encargo un año, pudiendo ser reelegidas por un periodo igual adicional.
-
-La designación de suplencia deberá ser realizada informando por escrito a la Secretaria Técnica de la Junta de Gobierno con al menos veinticuatro horas de anticipación a la fecha de celebración de la sesión respectiva.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 12.
 
-Para el cumplimiento de las atribuciones del Instituto, la Junta de Gobierno tendrá las siguientes facultades:
-
-I. Proponer una terna a la persona titular del Poder Ejecutivo del Estado de Querétaro, para la designación de la Directora General;
-
-II. Colaborar en la formulación del Programa Estatal, en congruencia con el Plan Estatal de Desarrollo;
-
-III. Aprobar el anteproyecto de presupuesto de egresos del Instituto;
-
-IV. Aprobar el informe relativo a la aplicación de recursos financieros erogados por el Instituto en el cumplimiento de sus fines;
-
-V. Aprobar los programas y presupuestos del Instituto, así como sus modificaciones, en los términos de la legislación aplicable;
-
-VI. Analizar y, en su caso, aprobar los informes periódicos y estados financieros que presente la Directora General, con la intervención que corresponda al Órgano Interno de Control del Instituto;
-
-VII. Aprobar, de acuerdo con las disposiciones legales, la elaboración de las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros, en materia de obras de equipamiento e infraestructura, adquisiciones, arrendamientos y prestación de servicios que correspondan al objeto del Instituto;
-
-VIII. Aprobar, con sujeción a las disposiciones legales, las normas necesarias para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto requiera;
-
-IX. Crear Comités de Apoyo y determinar sus bases de funcionamiento;
-
-X. Designar y remover, a propuesta de la Directora General, a los servidores públicos de los dos niveles administrativos inferiores al de aquélla;
-
-XI. Aprobar el Reglamento Interno del Instituto, turnándolo por conducto del Comisionado General de Entidades Paraestatales al Secretario de Gobierno para su trámite;
-
-XII. Aprobar el proyecto de estructura orgánica, salarial y ocupacional del Instituto, así como su plantilla de personal y las modificaciones que procedan a las mismas, previa verificación de la disponibilidad de los recursos presupuestales;
-
-XIII. Aprobar el Manual de Organización General y los correspondientes de Procedimientos y Servicios al Público del Instituto, turnándolos por conducto del Comisionado General de Entidades Paraestatales a la Oficialía Mayor para su conocimiento y divulgación;
-
-XIV. Aprobar la fijación de sueldos y prestaciones, y conceder licencias de las personas servidoras públicas que ocupen cargos correspondientes a las dos jerarquías administrativas inferiores a la Directora General; y
-
-XV. Las demás previstas en las disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 13.
 
-La Junta de Gobierno celebrará sesiones ordinarias, por lo menos dos veces por año y extraordinarias siempre que su Presidencia las considere indispensables y expida la convocatoria correspondiente.
-
-La Presidencia de la Junta de Gobierno, a través de la Secretaría Técnica, convocará a sesiones ordinarias de la Junta de Gobierno cuando menos con cinco días naturales de anticipación a su celebración, y a las extraordinarias cuando sea necesario, cuando menos con tres días hábiles de anticipación.
-
-Ambas convocatorias deberán contener como requisitos mínimos: fecha, hora, lugar de celebración, tipo de sesión, orden del día y la documentación necesaria para la discusión de los asuntos, dichas convocatorias serán notificadas por escrito a cada uno (sic) de las personas integrantes de la Junta de Gobierno.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 14.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno del total de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes y la Presidencia tendrá voto de calidad en caso de empate.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
-En cada sesión, la Secretaría Técnica levantará un acta circunstanciada, que deberá ser firmada por quienes hayan asistido a la misma.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-### Capítulo Cuarto. De la Directora General
+### Capítulo Cuarto. De la persona Titular de la Secretaría
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-La Dirección General del Instituto estará a cargo de una mujer, que será designada y removida por la persona titular del Poder Ejecutivo del Estado o el Comisionado General de Entidades Paraestatales.
+La Secretaría estará a cargo de una mujer, que será designada y removida por la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-Para ser Directora General se requiere:
+Para ser titular de la Secretaría se requiere:
 
 I. Ser ciudadana mexicana, en ejercicio pleno de sus derechos políticos y civiles;
 
@@ -375,53 +343,75 @@ IV. Haber destacado por su labor nacional o estatal en favor de la igualdad sust
 
 V. Contar con al menos dos años de experiencia en la administración pública, ya sea municipal, estatal o federal, y
 
-VI. Cumplir con los requisitos que establece la Ley de la Administración Pública Paraestatal del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Cumplir con los requisitos que establece la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-La Directora General tendrá las siguientes facultades:
+La persona titular de la Secretaría tendrá las siguientes facultades:
 
-I. Administrar y representar legalmente al Instituto;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-II. Formular y presentar para su aprobación a la Junta de Gobierno, las políticas públicas de transversalidad y acciones afirmativas relacionadas con el objeto y atribuciones del Instituto, incluido el anteproyecto del Programa Estatal;
+I. Establecer y dirigir las actividades de la Secretaría en forma congruente con las políticas, lineamientos, acciones, mecanismos e instrumentos, que al respecto se fijen para el logro de las metas y objetivos establecidos en el Plan Estatal de Desarrollo y demás instrumentos que de él se deriven;
 
-III. Proponer para la consideración y, en su caso, aprobación de la Junta de Gobierno, el anteproyecto de Reglamento Interno, los manuales administrativos y demás normatividad interna que requiera su correcta operación;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Formular anualmente el anteproyecto de presupuesto del Instituto, para someterlo a la aprobación de la Junta de Gobierno;
+II. Formular las políticas públicas de transversalidad y acciones afirmativas relacionadas con el objeto y atribuciones de la Secretaría; incluido el del Programa Estatal;
 
-V. Fungir como Secretaria Técnica de la Junta de Gobierno e instrumentar, ejecutar y vigilar el cumplimiento de los acuerdos que de la misma deriven;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Ejecutar y vigilar el cumplimiento de los acuerdos de la Junta de Gobierno, así como atender las recomendaciones del Órgano Interno de Control;
+III. Expedir conforme a las disposiciones legales aplicables los manuales administrativos y demás normatividad Interna que requiera la Secretaría para su correcta operación;
 
-VII. Dirigir las actividades del Instituto, así como definir las medidas necesarias para garantizar la congruencia y eficacia de sus atribuciones, y ejercer su presupuesto;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Proponer a la Junta de Gobierno el nombramiento y remoción de los servidores públicos del Instituto que ocupen cargos hasta de dos jerarquías administrativas inferiores a la suya, así como la estructura organizacional y administrativa necesaria para el cumplimiento de las atribuciones del Instituto, en todo aquello que no contravenga lo dispuesto en esta Ley y demás disposiciones normativas vigentes;
+IV. Formular anualmente el anteproyecto de presupuesto de la Secretaría, para ser incluido al Decreto de Presupuesto de Egresos del Poder Ejecutivo del Estado, en términos de las disposiciones legales aplicables.; (sic)
 
-IX. Nombrar, remover y aprobar las licencias de las personas servidoras públicas del Instituto, con excepción de las atribuciones que en esta materia tiene la Junta de Gobierno;
+V. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
-X. Someter a la aprobación de la Junta de Gobierno, los informes periódicos y estados financieros del Instituto, con la intervención que corresponda al Órgano Interno de Control y publicarlos cuando aquélla lo autorice;
+VI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
-XI. Recabar información y elementos estadísticos sobre las atribuciones del Instituto, para mejorar su desempeño;
+VII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
 
-XII. Proporcionar a la Junta de Gobierno la información que requiera para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Informar semestralmente a las Secretarías de Finanzas y de la Contraloría del Poder Ejecutivo del Estado, sobre la disposición de los activos del Instituto, cuando haya ejercido esta facultad, previa autorización de la Junta de Gobierno; y
+VIII. Nombrar y remover a los servidores públicos de la Secretaría hasta el nivel de jefe de departamento, así como resolver sobre las propuestas que éstos formulen para la designación de su personal de confianza;
 
-XIV. Las demás que no sean expresas de la Junta de Gobierno y sean necesarias para el cumplimiento del objeto y atribuciones del Instituto, así como las demás que establezca esta Ley, la Ley de la Administración Pública Paraestatal del Estado de Querétaro, el Reglamento Interno del Instituto y otros ordenamientos legales aplicables.
+IX. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
+
+X. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Recabar información y elementos estadísticos sobre las atribuciones de la Secretaría, para mejorar su desempeño;
+
+XII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
+
+XIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Las demás que le correspondan en términos de las leyes aplicables, su Reglamento Interno y las que determine la persona titular del Poder Ejecutivo del Estado.
 
 ### Capítulo Quinto. Del Refugio para Mujeres Víctimas de Violencia
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-El Refugio para Mujeres Víctimas de Violencia es el espacio temporal, seguro y gratuito destinado a proporcionar protección, atención integral, multidisciplinaria y especializada, con enfoque sistémico, de derechos humanos y perspectiva de género, a las mujeres mayores de edad, víctimas de violencia de género, la cual sea valorada como de riesgo alto y magnitud extrema acorde con los lineamientos para la valoración del estado de riesgo que emita la Junta de Gobierno del Instituto, a fin de salvaguardar su vida e integridad física y favorecer su resiliencia, autonomía y el acceso a una vida libre de violencia.
+El Refugio para Mujeres Víctimas de Violencia es el espacio temporal, seguro y gratuito destinado a proporcionar protección, atención integral, multidisciplinaria y especializada, con enfoque sistémico, de derechos humanos y perspectiva de género, a las mujeres mayores de edad, víctimas de violencia de género, la cual sea valorada como de riesgo alto y magnitud extrema acorde con los lineamientos para la valoración del estado de riesgo que emita la Secretaría, a fin de salvaguardar su vida e integridad física y favorecer su resistencia, autonomía y el acceso a una vida libre de violencia.
 
 ###### Artículo 19.
 
 La ubicación del Refugio es confidencial, por lo que las personas que por cualquier circunstancia sean conocedoras de su dirección, ubicación o bien, de, cualquier dato que conduzca a su localización, tendrán la obligación, de guardar estricto secreto, debiendo al efecto implementarse las medidas que sean necesarias para evitar que personas ajenas a su operación tengan conocimiento de cualquier dato que pudiere poner en riesgo su operación, a las usuarias del mismo, a su progenie, o a las personas que prestan sus servicios en dicho lugar.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 20.
 
-La Dirección del Refugio estará a cargo de una mujer, quien será designada por la Junta de Gobierno del Instituto, a propuesta de la Directora General.
+La Dirección del Refugio estará a cargo de una mujer, quien será designada por la persona titular de la Secretaría.
 
 ###### Artículo 21.
 
@@ -443,53 +433,51 @@ V. Encontrarse certificada en el Estándar de Competencia EC0433- Coordinación 
 
 Al frente del Órgano Interno de Control habrá un titular, designado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
-El Titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por la Junta de Gobierno del Instituto, a propuesta de la Secretaría de la Contraloría; el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por la persona titular de la Secretaría, a propuesta de la Secretaría de la Contraloría; el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
 
 Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Querétaro, Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
 
-La Dirección General, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto, están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría, están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ### Capítulo Séptimo. Del patrimonio del Instituto
 
 ###### Artículo 23.
 
-El patrimonio del Instituto se constituirá por:
-
-I. Los recursos que anualmente se le asignen en el Decreto de Presupuesto de Egresos del Estado de Querétaro;
-
-II. Los bienes muebles e inmuebles que adquiera con base en cualquier título legal;
-
-III. Los subsidios, legados, donaciones y demás liberalidades que reciba de los sectores público, social y privado, nacionales o internacionales, a través de fundaciones, organizaciones no gubernamentales siempre que sean lícitas, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto;
-
-IV. Las aportaciones y demás ingresos que transfieran a su favor los Gobiernos Federal, Estatal o Municipal;
-
-V. Los fondos obtenidos para el financiamiento de programas específicos;
-
-VI. Los rendimientos que obtenga de la inversión de los recursos, y
-
-VII. Los que adquiera legalmente por cualquier otro concepto.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 24.
 
-La canalización de fondos por parte del Instituto para proyectos, estudios, programas e investigaciones relacionadas con su objeto, estará sujeta a la celebración de un contrato o convenio, que asegure su debido cumplimiento, así como a la suficiencia presupuestal respectiva.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ### Capítulo Octavo. Del régimen laboral del Instituto
 
 ###### Artículo 25.
 
-Las relaciones laborales entre el Instituto y su personal se regirán por la Ley de los Trabajadores del Estado de Querétaro, así como lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2024)
 
-La organización administrativa y laboral del Instituto deberá de atender a la conciliación de la vida laboral y familiar.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-### Capítulo Noveno. De las suplencias de los servidores públicos del Instituto
+### Capítulo Noveno. De las suplencias de los servidores públicos de la Secretaría
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 26.
 
-Durante las ausencias de la Directora General que no excedan quince días hábiles, el despacho y resolución de los asuntos quedará a cargo de la persona titular de la Dirección Técnica o por el servidor público o la servidora pública de la jerarquía inmediata inferior que la misma designe, si exceden de este plazo, será suplida por quien designe la Junta de Gobierno.
+Durante las ausencias de la persona titular de la Secretaría que no excedan quince días hábiles, el despacho y resolución de los asuntos quedará a cargo de la persona servidora pública de la jerarquía inmediata inferior que la misma designe, si exceden de este plazo, será suplida por quien designe el Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 27.
 
-Las personas titulares de las unidades administrativas durante sus ausencias temporales de hasta quince días hábiles, serán suplidas por la servidora pública o el servidor público que designen; si exceden de ese plazo serán suplidas por quien designe la Directora General.
+Las personas titulares de las unidades administrativas durante sus ausencias temporales de hasta quince días hábiles, serán suplidas por la servidora pública o el servidor público que designen; si exceden de ese plazo serán suplidas por quien designe la persona titular de la Secretaría.
 
 ###### Artículo 28.
 
@@ -499,13 +487,17 @@ La persona Titular del Órgano Interno de Control, será suplida en los término
 
 ### Capítulo Único. De las responsabilidades y sanciones
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 29.
 
-Las personas pertenecientes al servicio públicos (sic) del Instituto son responsables de las acciones u omisiones en que incurran en el desempeño de sus funciones y están sujetos a las disposiciones del Título Cuarto de la Constitución Política del Estado Libre y Soberano de Querétaro, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Querétaro, el Código Penal para el Estado de Querétaro y demás ordenamientos aplicables.
+Las personas pertenecientes al servicio público de la Secretaría son responsables de las acciones u omisiones en que incurran en el desempeño de sus funciones y están sujetos a las disposiciones del Título Cuarto de la Constitución Política del Estado Libre y Soberano de Querétaro, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Querétaro, el Código Penal para el Estado de Querétaro y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 30.
 
-Las faltas en que incurran las servidoras públicas y los servidores públicos del Instituto, serán sancionadas en los términos previstos por la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Querétaro y demás ordenamientos aplicables.
+Las faltas en que incurran las servidoras públicas y los servidores públicos de la Secretaría, serán sancionadas en los términos previstos por la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Querétaro y demás ordenamientos aplicables.
 
 ## TRANSITORIOS
 
@@ -570,3 +562,35 @@ Rúbrica
 María Guadalupe Murguía Gutiérrez
 
 Secretaria de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES CON MOTIVO DE LA CREACIÓN DE LA SECRETARÍA DE LAS MUJERES”.]
+
+Artículo Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. La presente Ley entrará en vigor a partir del 01 de enero del año 2025.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Se deberán realizar las gestiones administrativas que correspondan ante la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para el cumplimiento de lo previsto en la presente Ley, a fin de que ésta contemple y asigne los recursos correspondientes conforme a la autorización y disponibilidad con que se cuente para la operación de la Secretaría de las Mujeres, dentro del Decreto del presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2025 y ejercicios fiscales subsecuentes que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+Artículo Quinto. A la entrada en vigencia de la presente Ley, se trasladarán los recursos materiales, humanos y financieros con los que cuenta el Instituto Queretano de las Mujeres a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de las Mujeres, se trasladarán al Poder Ejecutivo del Estado de Querétaro, para el funcionamiento de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro conservando los de base sus derechos labórales, de conformidad con las disposiciones aplicables.
+
+Artículo Sexto. A partir de la entrada en vigencia de la presente Ley todas las referencias en las disposiciones jurídicas y administrativas del Instituto Queretano de las Mujeres, se entenderán realizadas en lo conducente a favor de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento de Instituto Queretano de las Mujeres, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan, en todo aquello que no se oponga a lo dispuesto en la presente Ley.
+
+Artículo Octavo. Los programas, procedimientos, trámites que hasta antes de la entrada en vigor de la presente Ley hayan sido iniciados, aprobados y ejecutados por el Instituto Queretano de las Mujeres, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, atendiendo a su competencia.
+
+Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de las Mujeres sustituirá Instituto Queretano de las Mujeres, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por este último lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la referida Secretaría.
+
+Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
+
+Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
