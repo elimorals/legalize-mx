@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-69725"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-24"
-last_updated: "2020-02-25"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69725&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-08-20"
 ---
 # REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 27 DE SEPTIEMBRE DE 2024, ENTRA EN VIGOR AL DÍA HÁBIL SIGUIENTE A SU PUBLICACIÓN; EXCEPTO LA FRACCIÓN IV BIS DEL ARTÍCULO 68 QUE ENTRA EN VIGOR UNA VEZ QUE LA COMISIÓN, MEDIANTE DISPOSICIONES DE CARÁCTER GENERAL, ESTABLEZCA LA REGULACIÓN RELATIVA AL PROCESO DE IDENTIFICACIÓN DE LAS CUENTAS INDIVIDUALES DE LOS TRABAJADORES Y DE LOS TRABAJADORES NO AFILIADOS QUE HAYAN FALLECIDO.]</small>
+
 REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de agosto de 2009.
 
@@ -271,11 +273,13 @@ En las operaciones celebradas en mercados del exterior se estará a las normas d
 
 Cuando las asambleas de tenedores de valores que formen parte del portafolio de las Sociedades de Inversión determinen válidamente conforme al prospecto de la emisión y las disposiciones legales aplicables, la sustitución de dichos valores por otros activos objeto de inversión o bienes, las Sociedades de Inversión podrán conservar estos últimos. En este caso, la Comisión deberá determinar en los programas de recomposición de cartera, que se presenten al efecto por las Sociedades de Inversión, el tratamiento que se deberá dar a dichos activos objeto de inversión o bienes, atendiendo a los intereses de los Trabajadores y de los Trabajadores no Afiliados.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-Las Administradoras deberán registrar diariamente en la Bolsa Mexicana de Valores, todas las operaciones que realicen con acciones de las Sociedades de Inversión que operen, su volumen diario operado por cada una de dichas Sociedades de Inversión y el precio vigente resultado de la valuación de las mismas.
+Las Administradoras deben registrar diariamente en una bolsa de valores autorizada en términos de la Ley del Mercado de Valores todas las operaciones que realicen con acciones de las Sociedades de Inversión que operen, su volumen diario operado por cada una de dichas Sociedades de Inversión y el precio vigente que resulte de la valuación de estas.
 
-Cuando se presenten las minusvalías previstas en el artículo 44 de la Ley, las Administradoras deberán realizar los ajustes necesarios, a más tardar el día hábil siguiente al que se haya dictaminado la minusvalía, a efecto de registrar el precio de las acciones de las Sociedades de Inversión que operen, en la Bolsa Mexicana de Valores.
+Cuando se presenten las minusvalías previstas en el artículo 44 de la Ley, las Administradoras deben realizar los ajustes necesarios, a más tardar el día hábil siguiente al que se haya dictaminado la minusvalía, a efecto de registrar el precio de las acciones de las Sociedades de Inversión que operen en una bolsa de valores autorizada en términos de la Ley del Mercado de Valores.
 
 ###### ARTÍCULO 23.
 
@@ -379,11 +383,19 @@ XII. Realizar retiros de su Cuenta Individual conforme a lo establecido en la Le
 
 XIII. A que las Empresas Operadoras tengan la información de las Cuentas Individuales en la Base de Datos Nacional SAR;
 
-XIV. Que el IMSS, INFONAVIT e ISSSTE proporcionen de manera continua a los Participantes en los Sistemas de Ahorro para el Retiro, la información relacionada con el Trabajador y con las resoluciones otorgadas a éstos o a sus beneficiarios para la procedencia de disposición de los recursos de la Cuenta Individual, en su caso, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Los demás que establezcan las disposiciones aplicables.
+XIV. A que se les proporcione la información relacionada con ellos y con las resoluciones otorgadas a estos o a sus beneficiarios para la procedencia de disposición de los recursos de la Cuenta Individual. Para tal efecto, el IMSS, INFONAVIT e ISSSTE deben proporcionar de manera continua dicha información a los Participantes en los Sistemas de Ahorro para el Retiro;
 
-B. Los Trabajadores no Afiliados tendrán los derechos a que se refieren las fracciones I, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII y XV del inciso A anterior; lo anterior, sin perjuicio de los demás derechos que se establezcan en el presente Reglamento.
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XV. A recibir asesoría e información de su Cuenta Individual conforme a las disposiciones de carácter general que para tal efecto emita la Comisión, y
+
+XVI. Los demás que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+B. Los Trabajadores no Afiliados tienen los derechos a que se refieren las fracciones I, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV y XVI del apartado A de este artículo. Lo anterior, sin perjuicio de los demás derechos que se establezcan en el presente reglamento.
 
 Los derechos a que se refiere el presente artículo deberán considerarse en forma enunciativa más no limitativa.
 
@@ -489,6 +501,10 @@ Para efecto de lo previsto en el presente inciso, el derecho de Traspaso sólo c
 
 En el proceso de Traspaso prevalecerá siempre el principio de respeto a la libre decisión y voluntad del trabajador en relación con la Administradora que elija.
 
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Traspaso será improcedente cuando el Trabajador ya se encuentre pensionado, se afecte la continuidad del pago de su pensión y se disminuyan los recursos de la cuenta individual correspondiente.
+
 Asimismo, el proceso de Traspaso se llevará a cabo de conformidad con las reglas generales emitidas por la Comisión y demás normativa que resulte aplicable.
 
 A efecto de dar cumplimiento con lo previsto en el artículo 74 de la Ley, las Administradoras deberán establecer en sus correspondientes manuales operativos las medidas de control interno que les permitan cerciorase que el proceso de Traspaso de las Cuentas Individuales se realiza con apego a la libre decisión y voluntad del trabajador.
@@ -578,6 +594,14 @@ Las Administradoras deberán aplicar a las Cuentas Individuales de los Trabajado
 Las Administradoras podrán renunciar en cualquier momento a las Cuentas Individuales que les sean asignadas de conformidad con la presente sección, en cuyo caso deberán hacerlo del conocimiento de la Comisión a efecto de que esta reasigne las cuentas correspondientes.
 
 Las Administradoras deberán localizar y registrar a los Trabajadores titulares de las Cuentas Individuales que les hayan sido asignadas en un plazo máximo de dos años contados a partir de la fecha en que se efectúe la Asignación, en caso de que las Administradoras no efectúen el registro correspondiente, la Asignación caducará y las Cuentas Individuales que no hayan sido registradas se reasignarán en la siguiente Asignación que se efectúe.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Las Administradoras, para llevar a cabo la localización de los Trabajadores a que se refiere el párrafo anterior, y las Empresas Operadoras, para complementar la base de datos a que se refiere el segundo párrafo del artículo 52 de este reglamento, deben suscribir instrumentos jurídicos con entidades, dependencias o particulares, para que, en términos de las disposiciones aplicables, puedan obtener datos de localización que faciliten el registro de las Cuentas Individuales que tuvieran asignadas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Lo anterior debe atender a lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 
 #### Sección IX. De las Prestadoras de Servicio
 
@@ -719,7 +743,11 @@ IX. La información de los Trabajadores que no hayan elegido Administradora, en 
 
 X. La información relativa a las Cuentas Individuales Inactivas de Trabajadores, considerándose como tales a aquellas cuentas que no hayan tenido movimientos por depósitos de cuotas y aportaciones durante el periodo de un año calendario contado a partir del último depósito realizado;
 
-XI. La información relativa a las cuentas inhabilitadas de Trabajadores y de los Trabajadores no Afiliados, considerándose como tales a aquellas cuentas que una Administradora haya dejado de operar y cuyo saldo en todas sus subcuentas sea cero, derivado de un proceso de disposición de recursos, unificación, Separación de Cuentas o de Traspaso de cuentas;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XI. La información relativa a las cuentas inhabilitadas de Trabajadores y de los Trabajadores no Afiliados.
+
+Se entiende por cuentas inhabilitadas a aquellas que una Administradora haya dejado de operar y cuyo saldo en todas sus subcuentas se mantenga en cero durante al menos un plazo de seis bimestres consecutivos, derivado de procesos de disposición de recursos, de unificación o separación de cuentas, de traspaso de cuentas o cuando, desde su apertura, no hubiesen recibido aportaciones de cualquier tipo;
 
 XII. La información relativa a los agentes promotores en las Administradoras, y
 
@@ -742,6 +770,10 @@ II. Promover un ordenado proceso de elección de Administradora por los Trabajad
 III. Proporcionar a los Trabajadores y a los Trabajadores no Afiliados información sobre los Sistemas de Ahorro para el Retiro a través de equipos y sistemas automatizados o de telecomunicación;
 
 IV. Identificar las Cuentas Individuales de los Trabajadores y de los Trabajadores no Afiliados en las Administradoras;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+IV Bis. Identificar las cuentas individuales de los trabajadores y de los trabajadores no afiliados que hubieren fallecido. Para tal efecto deben desarrollar mecanismos de consulta o suscribir instrumentos jurídicos con los registros civiles correspondientes;
 
 V. Certificar los registros de los Trabajadores y de los Trabajadores no Afiliados en las Administradoras;
 
@@ -1071,9 +1103,11 @@ Las Administradoras, Sociedades de Inversión y Empresas Operadoras estarán obl
 
 Las Sociedades de Inversión que pretendan introducir nuevas cuentas al catálogo autorizado por la Comisión, deberán anexar a su solicitud el proyecto de cuentas y la justificación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 108.
 
-Los estados financieros trimestrales deberán publicarse dentro del mes siguiente al periodo al que correspondan, en dos periódicos de circulación nacional, con excepción del último trimestre del ejercicio, que se publicará con los estados financieros anuales dentro de los noventa días naturales siguientes al día treinta y uno de diciembre del año respectivo. En los mismos plazos, las Administradoras y Sociedades de Inversión deberán proporcionar a la Comisión y al Banco de México la demás información contable que la Comisión les requiera.
+Los estados financieros trimestrales deben publicarse dentro del mes siguiente al periodo al que correspondan en dos periódicos de mayor circulación nacional y en la página oficial electrónica de la Administradora. La publicación en los periódicos de mayor circulación nacional puede hacerse en versiones impresas, electrónicas o en ambas. En el último trimestre deben publicarse los estados financieros anuales dentro de los noventa días naturales siguientes al día treinta y uno de diciembre del año respectivo. En los mismos plazos, las Administradoras y Sociedades de Inversión deben proporcionar a la Comisión y al Banco de México la demás información contable que la Comisión les requiera.
 
 Los estados financieros se publicarán bajo la responsabilidad de los administradores y comisarios que hayan aprobado la autenticidad de los datos contenidos en los mismos.
 
@@ -1159,9 +1193,11 @@ Las notificaciones por correo electrónico, podrán ser practicadas a través de
 
 La Comisión deberá designar a los servidores públicos que estarán facultados para la práctica de notificaciones a través de correo electrónico.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 120.
 
-La práctica de las notificaciones, así como el envío de documentos digitales en términos del artículo 114 del presente Reglamento, deberá efectuarse en días y horas hábiles. Se considerarán días hábiles los que labore la Comisión, y horas hábiles las comprendidas entre las 7:30 y las 18:00 horas.
+La práctica de las notificaciones, así como el envío de documentos digitales en términos del artículo 114 del presente reglamento, debe efectuarse en días y horas hábiles. Son días hábiles los que labore la Comisión y horas hábiles las comprendidas entre las 09:00 y las 18:00 horas.
 
 ###### ARTÍCULO 121.
 
@@ -1241,7 +1277,9 @@ II. La fundamentación y motivación del acto;
 
 III. El periodo sujeto a revisión, precisando la fecha cierta y determinada de inicio y fin de dicho periodo;
 
-IV. La indicación del lugar o lugares donde deba efectuarse la visita de inspección. El incremento de lugares a visitar deberá notificarse a la persona visitada;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+IV. La indicación del lugar o lugares donde deba efectuarse la visita de inspección. El incremento de lugares a visitar debe notificarse a la persona visitada personalmente o por correo certificado o electrónico, con acuse de recibo;
 
 V. El nombre de los inspectores o visitadores que efectuarán la visita de inspección, quienes la podrán realizar en forma conjunta o separada;
 
@@ -1249,9 +1287,11 @@ VI. El nombre del inspector o visitador que coordine la visita de inspección, y
 
 VII. Nombre, cargo y firma del servidor público competente que la expide.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 129.
 
-Los inspectores o visitadores designados para realizar la visita de inspección podrán sustituirse o incrementarse en número por la autoridad emisora de la orden. La sustitución o incremento de inspectores o visitadores se notificará por escrito a la persona visitada.
+Las personas inspectoras o visitadoras designadas para realizar la visita de inspección podrán sustituirse o incrementarse en número mediante oficio de la autoridad emisora de la orden. La sustitución o incremento de personas inspectoras o visitadoras debe notificarse a la persona visitada, previo al levantamiento del acta correspondiente. El acta debe cumplir con las formalidades previstas en el artículo 131, párrafos primero, fracción IV, y segundo, de este reglamento.
 
 ###### ARTÍCULO 130.
 
@@ -1299,19 +1339,25 @@ Asimismo, en el acta de inicio de visita, se hará constar en su caso, las accio
 
 Los inspectores o visitadores asignados para practicar la visita de inspección, levantarán las actas circunstanciadas que estimen necesarias para hacer constar los hechos u omisiones de que tengan conocimiento y, en su caso, las acciones de la visitada tendientes a obstaculizar el desarrollo de la visita debiendo observar las formalidades previstas en este artículo.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 132.
 
-Los inspectores y visitadores realizarán sus funciones sujetándose al horario de labores de la visitada; no obstante lo anterior, la Comisión podrá habilitar días y horas cuando lo estime necesario para el desarrollo de la visita.
+Las personas inspectoras y visitadoras deben realizar sus funciones durante el horario de labores de la persona visitada. La Comisión podrá habilitar días y horas cuando lo estime necesario para el desarrollo de la visita de inspección, para lo cual debe notificarse a la persona visitada personalmente o por correo certificado o electrónico, con acuse de recibo.
 
 ###### ARTÍCULO 133.
 
 Al inicio y durante el desarrollo de la visita de inspección, los inspectores o visitadores que en ella intervengan podrán requerir la información o documentación que estimen necesaria para la realización del objeto de la visita, dicho requerimiento deberá constar por escrito y será entregado al representante legal de la visitada o a la persona con quien se entienda la visita, para que en el plazo que se señale en dicho requerimiento sea entregada a los inspectores la información o documentación solicitadas.
 
-A petición del interesado, los inspectores o visitadores podrán prorrogar el plazo para que la visitada entregue la información o documentación solicitada.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+A petición de la parte interesada, la persona inspectora o visitadora puede ampliar el plazo para que la persona visitada entregue la información o documentación requerida, lo cual debe notificarse en términos de la fracción II del artículo 111 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 134.
 
-Para el levantamiento de las actas circunstanciadas a que se refiere el artículo 131 último párrafo, de este Reglamento, el inspector o visitador formulará citatorio al representante legal de la visitada para que éste lo espere a una hora determinada del día hábil siguiente y, en caso de su ausencia, se levantará con el empleado de la visitada con quien se entienda la visita de inspección.
+Para el levantamiento de las actas circunstanciadas a que se refiere el artículo 131, párrafo último, de este reglamento, el personal inspector o visitador debe practicar la diligencia con la persona representante legal de la visitada. En caso de no encontrarse, formulará citatorio al representante legal de la visitada para que lo espere a una hora determinada del día hábil siguiente. En caso de ausencia de representante legal, la diligencia se entenderá con quien se encuentre en el domicilio de la persona visitada y se levantará el acta correspondiente.
 
 Una vez consignados en el acta circunstanciada los hechos u omisiones que dieron lugar a su levantamiento, se hará constar en la misma que la visitada tendrá un plazo máximo de cinco días hábiles contados a partir del día hábil siguiente a aquel en que se haya levantado el acta, para que manifieste por escrito lo que a su interés convenga, acompañando al efecto la documentación que soporte sus argumentos.
 
@@ -1339,9 +1385,9 @@ La Comisión supervisará el cumplimiento de estas medidas, con independencia de
 
 Cuando la naturaleza de las irregularidades de que se tenga conocimiento así lo requiera, el Presidente de la Comisión dictará las medidas necesarias para su regularización y podrá designar por el tiempo que estime conveniente a uno o más inspectores o visitadores para que efectúen la supervisión respectiva, careciendo estos últimos de facultades de resolución, limitándose a informar periódicamente sobre los avances de la regularización ordenada.
 
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 138 BIS. Cuando al practicar las visitas de inspección, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tendrá un plazo de seis meses contado a partir de la fecha en que finalice el levantamiento del acta de conclusión, para imponer a través del procedimiento correspondiente, las sanciones en términos de la Ley.
+ARTÍCULO 138 BIS. Cuando al practicar las visitas de inspección, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tiene un plazo de 4 meses, a partir de la fecha en que finalice el levantamiento del acta de conclusión, para iniciar el procedimiento sancionador previsto en el artículo 99 de la Ley.
 
 ### CAPÍTULO XIV. DE LA VIGILANCIA DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
@@ -1375,7 +1421,11 @@ IV. La Comisión como consecuencia de la revisión que realice de los informes, 
 
 V. Cuando no hubiera observaciones, la Comisión comunicará mediante oficio la conclusión de la revisión de vigilancia de los informes, datos y demás documentos presentados;
 
-VI. El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará cumpliendo con lo señalado en este mismo artículo. El Participante en los Sistemas de Ahorro para el Retiro, así como las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, tendrán un plazo de veinte días contado a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros, registros y demás información que desvirtúen los hechos u omisiones asentados en dicho oficio, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VI. El oficio de observaciones debe notificarse conforme a lo señalado en la fracción IV de este artículo.
+
+El Participante en los Sistemas de Ahorro para el Retiro, así como las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión tienen un plazo de veinte días hábiles, a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros, registros y demás información que desvirtúen los hechos u omisiones asentados en dicho oficio, y
 
 VII. Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones si, en el plazo probatorio a que se refiere la fracción anterior, el Participante en los Sistemas de Ahorro para el Retiro de que se trate o las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión no presentan información o documentación comprobatoria que los desvirtúe, situación que se hará del conocimiento del interesado.
 
@@ -1383,13 +1433,39 @@ VII. Se tendrán por consentidos los hechos u omisiones consignados en el oficio
 
 La corrección de las irregularidades que se detecten, como consecuencia del ejercicio de las facultades de vigilancia, se llevará a cabo mediante el establecimiento de programas especiales, los cuales serán obligatorios para los Participantes en los Sistemas de Ahorro para el Retiro.
 
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 141 BIS. Cuando al ejercer sus facultades de vigilancia, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tendrá un plazo de seis meses contado a partir de la fecha en que concluya el plazo señalado en la fracción VI del artículo 140 BIS de este Reglamento, para imponer a través del procedimiento correspondiente, las sanciones en términos de la Ley.
+ARTÍCULO 141 BIS. Cuando al ejercer sus facultades de vigilancia, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tiene un plazo de 4 meses, a partir de la fecha en que concluya el plazo señalado en la fracción VI del artículo 140 BIS de este reglamento, para iniciar el procedimiento sancionador en términos de lo que establece el artículo 99 de la Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO XIV BIS. PROCEDIMIENTO SANCIONADOR
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 141 TER. El procedimiento sancionador, de conformidad con el artículo 99 de la Ley, debe ajustarse a lo siguiente:
+
+I. Las notificaciones que se deriven del procedimiento sancionador deben realizarse en términos del artículo 111 de la Ley;
+
+II. La Comisión debe notificar a la persona interesada las causas por las cuales considera existen irregularidades.
+
+En el escrito de respuesta deben ofrecerse, dentro del plazo previsto en la Ley, las pruebas pertinentes relacionadas con los hechos que se pretenden acreditar. Se acompañarán de los elementos necesarios para su desahogo.
+
+Las pruebas documentales deben presentarse en original o copia certificada y, en su caso, con la traducción oficial correspondiente.
+
+Cuando se trate de documentales públicas, a petición de la persona interesada, deben presentarse para su cotejo, previo pago de derechos correspondientes;
+
+III. Una vez admitidas y desahogadas las pruebas, la Comisión debe notificar el plazo para formular alegatos, y
+
+IV. Concluida la etapa de alegatos, con alegatos o sin ellos, queda cerrada la instrucción, y a partir del día hábil siguiente se computa el plazo de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador a que se refiere el artículo 99 de la Ley.
+
+Para el trámite de las actuaciones procesales establecidas en el presente artículo, de manera supletoria se estará a lo previsto en el Código Fiscal de la Federación y en lo no previsto por este, a lo establecido en el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 141 QUÁTER. La Comisión, para mejor proveer, puede allegarse de cualquier elemento que tenga relación con las posibles irregularidades, así como ordenar la práctica de cualquier diligencia en caso de estimarlo necesario, antes del cierre de instrucción correspondiente.
 
 ### CAPÍTULO XV. DE LA INTERVENCIÓN ADMINISTRATIVA Y GERENCIAL
-
-### CAPÍTULO XVI. DE LA DISOLUCIÓN Y LIQUIDACIÓN DE LAS ADMINISTRADORAS
 
 ###### ARTÍCULO 142.
 
@@ -1437,7 +1513,7 @@ El interventor deberá rendir un informe sobre las actividades realizadas con mo
 
 Cuando los objetivos de la intervención se hubieren alcanzado y las operaciones irregulares que la motivaron se hayan normalizado, la Comisión procederá a levantarla. Lo anterior será comunicado al representante legal de la persona intervenida mediante oficio que expida el Presidente de la Comisión.
 
-### CAPÍTULO XVII. DISPOSICIONES GENERALES
+### CAPÍTULO XVI. DE LA DISOLUCIÓN Y LIQUIDACIÓN DE LAS ADMINISTRADORAS
 
 ###### ARTÍCULO 149.
 
@@ -1448,6 +1524,8 @@ Asimismo, para tomar todas las medidas necesarias para la protección de los int
 ###### ARTÍCULO 150.
 
 En el caso de que se ordene la intervención administrativa o gerencial de una Administradora o de una Sociedad de Inversión, que tenga como consecuencia la revocación de su autorización, se procederá de conformidad con lo dispuesto en el artículo 56 de la Ley, así como con lo previsto para la disolución y liquidación de las Administradoras por el artículo anterior.
+
+### CAPÍTULO XVII. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 151.
 
@@ -1461,11 +1539,11 @@ En la celebración de actos, contratos y operaciones que realicen las Administra
 
 Para efectos del conocimiento y resolución de las controversias que pudieran derivar de los actos, contratos y operaciones a que se refiere el párrafo anterior, realizados por las Administradoras y las Sociedades de Inversión con entidades extranjeras o en mercados del exterior, podrán sujetarse al arbitraje o al tribunal u órgano jurisdiccional que determinen las partes o al que, además de tener competencia por razón de la materia, se encuentre ubicado en el lugar de celebración de los actos, contratos y operaciones de que se trate, de conformidad con lo que establezcan las leyes mexicanas aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 153.
 
-El límite a la participación en el mercado de los Sistemas de Ahorro para el Retiro previsto en el artículo 26 de la Ley se deberá calcular sobre el total de afiliados al IMSS e ISSSTE.
-
-La Comisión dará a conocer el límite a la participación en el mercado y la base sobre la que se haya calculado.
+El límite a la participación de las Administradoras en el mercado de los Sistemas de Ahorro para el Retiro previsto en el artículo 26 de la Ley se debe calcular conforme a la metodología que determine la Comisión, ya sea a través del número de cuentas individuales o de los recursos administrados por el Sistema de Ahorro para el Retiro, según sea el caso. La Comisión debe dar a conocer dicho límite y la metodología con la que se haya calculado.
 
 ###### ARTÍCULO 154.
 
@@ -1491,7 +1569,9 @@ V. La infracción que en términos de lo establecido en el artículo 100 de la L
 
 VI. Los demás requisitos que determine la Comisión.
 
-La Comisión, en un plazo de 30 días hábiles contados a partir de la fecha de recepción del programa de corrección, deberá notificar al Participante en los Sistemas de Ahorro para el Retiro de que se trate, la procedencia o no del programa presentado, así como la clasificación de la infracción que lo motiva.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+La Comisión, en un plazo de cuarenta y cinco días hábiles contados a partir de la fecha de recepción del programa de corrección, debe notificar al Participante en los Sistemas de Ahorro para el Retiro de que se trate, la procedencia o no del programa presentado, así como la clasificación de la infracción que lo motiva.
 
 De resultar procedente el programa de corrección, la Comisión impondrá como multa la cantidad que corresponda al 25% de la multa mínima prevista en la Ley conforme a la clasificación de la infracción que haya motivado dicho programa. El Participante en los Sistemas de Ahorro para el Retiro, dentro de los 15 días hábiles siguientes a la fecha en que surta efectos la notificación, deberá proceder al pago de la multa respectiva, así como presentar ante la Comisión el comprobante de pago correspondiente en el plazo señalado en el primer párrafo del artículo 101 de la Ley.
 
@@ -1502,6 +1582,16 @@ En caso de que el programa de corrección presentado no cumpla con los requisito
 ###### ARTÍCULO 156.
 
 El horario de recepción de documentos en la oficialía de partes de la Comisión, será el comprendido de las 9:00 a las 18:00 horas de los días considerados como hábiles, conforme a las disposiciones de carácter general que para tal efecto emita la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 157.
+
+Cuando las Cuentas Individuales queden inhabilitadas conforme al artículo 67, fracción XI, de este reglamento, se extinguirá la obligación fiduciaria y de administración de fondos para el retiro por parte de las Administradoras, en los términos de las leyes y de sus instrumentos De constitución; sin embargo, se deben conservar los registros y la información de dichas cuentas en la Base de Datos Nacional SAR, en términos de las disposiciones de carácter general emitidas por la Comisión.
+
+Las Cuentas Individuales inhabilitadas a que se refiere este artículo deben dejar de ser consideradas para los efectos previstos en los artículos 26 y 76 de la Ley y para cualquier otro proceso análogo.
+
+Cuando las Cuentas Individuales reflejen cualquier tipo de aportación, pierden la calidad de inhabilitadas. En este supuesto, serán consideradas para los efectos de los preceptos legales invocados en el párrafo anterior. La Administradora que en su caso elija el Trabajador debe celebrar con este un nuevo contrato de administración de fondos para el retiro, en los términos establecidos en la Ley, en este reglamento y en las demás disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -1528,3 +1618,11 @@ D.O.F. 25 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. A partir de la entrada en vigor del presente Decreto se derogan todas las disposiciones que se opongan al mismo.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO”.]
+
+PRIMERO. El presente decreto entra en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de la adición de la fracción IV Bis al artículo 68 a que se refiere el presente decreto, que entrará en vigor una vez que la Comisión, mediante disposiciones de carácter general, establezca la regulación relativa al proceso de identificación de las Cuentas Individuales de los Trabajadores y de los Trabajadores no Afiliados que hayan fallecido.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
