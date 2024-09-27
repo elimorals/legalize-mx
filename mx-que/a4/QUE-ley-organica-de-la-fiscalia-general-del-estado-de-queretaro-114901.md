@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2023-10-20"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2025 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -31,7 +33,9 @@ FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habita
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -1427,9 +1431,9 @@ IX. Inscribir en el Sistema Nacional de Servidores Públicos y Particulares Sanc
 
 X. Realizar las visitas de inspección y verificación de las áreas que integran la Fiscalía General, a fin de generar acciones preventivas, correctivas, propuestas de mejora o bien, instaurar la investigación de presunta responsabilidad administrativa que resulte procedente;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Participar en la validación de la correcta aplicación de la norma y en los procesos en los que se solicite su intervención por cualquier área de la Fiscalía General;
+XI. Verificar el cumplimiento del Código de Ética y del Código de Conducta, así como de las demás disposiciones en materia de responsabilidades administrativas aplicables al personal de la Fiscalía General;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1455,9 +1459,9 @@ XVI. Conocer de las quejas presentadas por cualquier interesado, derivadas de co
 
 XVII. Inscribir en el Sistema Nacional de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Nacional las constancias de sanción o de inhabilitación que se encuentren firmes en contra de los servidores públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XVIII. Conocer de las reclamaciones a cargo de la Fiscalía General, en términos de la Ley de Responsabilidad Patrimonial del Estado de Querétaro;
+XVIII. Substanciar y resolver las reclamaciones a cargo de la Fiscalía General, en términos de la Ley de Responsabilidad Patrimonial del Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1479,13 +1483,13 @@ XXII. Expedir las constancias de No inhabilitación respecto de servidores públ
 
 XXIII. Llevar a cabo el procedimiento administrativo de ejecución derivado de sanciones pecuniarias o multas administrativas impuestas al personal de la Fiscalía General, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXIV. Investigar por medio de la visitaduría de investigación las conductas de los servidores públicos de la Fiscalía General que puedan constituir responsabilidades administrativas;
+XXIV. Investigar las conductas de los servidores públicos de la Fiscalía General que puedan construir (sic) responsabilidades administrativas;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXV. Iniciar y substanciar por medio de la visitaduría de sustanciación los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
+XXV. Iniciar y substanciar los procedimientos (sic) responsabilidad administrativa, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1507,9 +1511,9 @@ XXIX. Solicitar la aclaración de las declaraciones de situación patrimonial;
 
 XXX. Realizar el cobro de derechos por los servicios de expedición de constancias de no inhabilitación;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXXI. Ejercer las acciones que den inicio al procedimiento de responsabilidad administrativa ante el Tribunal competente cuando se trate de faltas administrativas graves; y
+XXXI. Substanciar y presentar ante el Tribunal de Justicia Administrativa del Estado de Querétaro, el expediente de presunta responsabilidad administrativa que le remita la autoridad investigadora, en los casos de faltas administrativas graves o de particulares; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1669,6 +1673,10 @@ III. Donaciones gubernamentales;
 
 IV. Decomiso y aseguramiento de bienes, derivado de medida cautelar o por sentencia para su enajenación;
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+IV Bis. Donaciones, abandonos y pagos por concepto de reparación del daño en aquellos casos que la Fiscalía General figure como ofendida;
+
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 V. Ingresos por el cobro de derechos conforme a la normatividad;
@@ -1739,6 +1747,10 @@ II. Por los servicios comprendidos en la fracción IV, los servidores públicos 
 
 III. Por los servicios comprendidos en la fracción V, las instituciones públicas y privadas, que lo soliciten;
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+III Bis. Por los servicios comprendidos en la fracción V y los servicios relacionados con actividades académicas, las personas que así lo soliciten;
+
 IV. Por los servicios comprendidos en la fracción VI, los servidores públicos y personas que hayan participado en actividades de formación inicial, continua, de profesionalización y capacitación en el Instituto;
 
 V. Por los servicios comprendidos en las fracciones VII, VIII y IX, las instituciones de seguridad pública o empresas de seguridad privada que soliciten la aplicación de evaluaciones para aspirantes o sus integrantes;
@@ -1747,15 +1759,23 @@ VI. Por las bases de licitación, todos los proveedores interesados en participa
 
 VII. Por procesos de obtención de perfil genético, los integrantes de las instituciones de seguridad, de seguridad privada o del Sistema Estatal de Protección Civil de Querétaro, así como personas involucradas en procesos de ingreso a las mismas, cuando sea solicitado por el Centro Estatal de Evaluación y Control de Confianza.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El personal de la Fiscalía General que curse los distintos niveles educativos o certificaciones que se imparten en el Instituto del Servicio Profesional de Carrera, quedarán exentos del pago por concepto de actividades académicas.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+La Fiscalía General podrá celebrar convenios de colaboración para la realización de actividades académicas con instituciones, organismos y entes públicos o privados.
+
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 ###### Artículo 53.
 
 Por los servicios prestados por la Fiscalía General del Estado de Querétaro, se causarán y pagarán derechos conforme a las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 28582 A LA 28583. PÁGINAS DE LA 17849 A LA 17851]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 28582 A LA 28583. ]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS DE LA TABLA EN EL P.O. DE 2 DE JUNIO DE 2021, PÁGINAS DE LA 17849 A LA 17851]</small>
+> <small>[N. DE E. VÉASE REFORMAS DE LA TABLA EN EL P.O. DE 2 DE JUNIO DE 2021, PÁGINAS DE LA 17849 A LA 17851; 27 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 49262 A LA 49263.]</small>
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 27 DE AGOSTO DE 2021, PÁGINA 37058.]</small>
 
@@ -2130,3 +2150,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
