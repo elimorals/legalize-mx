@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2024-07-16"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -459,19 +459,23 @@ En los criterios generales de política económica se incluirá el Producto Inte
 
 Artículo 11 D. En términos del artículo 17 de la Ley, se podrá rebasar el límite máximo del gasto corriente estructural cuando:
 
-I. Se prevea un incremento en el nivel de ingresos permanentes del sector público que implique al menos un incremento equivalente al 1 por ciento del Producto Interno Bruto. En dicho caso, el gasto corriente estructural deberá mantener una proporción respecto al gasto neto total igual o menor a la observada en el ejercicio fiscal previo, y
+I. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2024)
 
 II. En los casos excepcionales que el Ejecutivo Federal exponga para su aprobación al Congreso de la Unión. En estos casos, se deberá presentar un plan de ajuste del gasto corriente estructural que exponga las acciones que se deberán llevar a cabo para lograr que, en un plazo no mayor a tres años, el gasto corriente estructural como proporción del Producto Interno Bruto Potencial recupere el nivel observado antes de la desviación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 12.
 
-A cuenta del monto anual de los ingresos excedentes correspondientes a las aportaciones a los fondos de Estabilización de los Ingresos de las Entidades Federativas y de Estabilización de los Ingresos Presupuestarios, a que se refiere el artículo 19, fracción IV, incisos a) y c), de la Ley, se realizará un anticipo el primer semestre del año, con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre y un anticipo a más tardar el último día hábil del año, una vez que la Secretaría con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales.
+A cuenta del monto anual de los ingresos excedentes correspondientes a las aportaciones al Fondo de Estabilización de los Ingresos de las Entidades Federativas, al Fondo de Estabilización de los Ingresos Presupuestarios y al Fondo Mexicano del Petróleo, que refieren los artículos 19, fracciones IV, incisos a y c y V, y 93 de la Ley, se realizará un anticipo el primer semestre de cada año, con base en la proyección de las finanzas públicas que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre, y otro anticipo, a más tardar el último día hábil del año, una vez que la Secretaría, con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales.
 
-En caso de que el anticipo correspondiente al primer semestre genere un saldo a favor de la Federación, el fiduciario de cada uno de los fondos señalados en el párrafo anterior, por instrucciones del Comité Técnico, enterará al Gobierno Federal los recursos determinados bajo el concepto de reintegro al Presupuesto de Egresos. Para la determinación de este reintegro no se considerarán actualizaciones ni rendimientos financieros. Dicho reintegro se realizará a más tardar a los 10 días hábiles posteriores a la determinación del saldo a favor.
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+De manera previa a la entrega de dichos anticipos, la Secretaría realizará las compensaciones a que se refieren los artículos 19, fracción I y 21, fracción I de la Ley, con cargo a los ingresos excedentes petroleros y, en caso de que estos fueran insuficientes, con cargo a los ingresos excedentes no petroleros.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de que el anticipo del primer semestre genere un saldo a favor de la Federación en alguno de los fondos señalados en párrafo primero de este artículo, el fiduciario, por instrucciones del Comité Técnico, enterará al Gobierno Federal esa cantidad, bajo el concepto de reintegro, al Presupuesto de Egresos. Para la determinación de este reintegro no se considerarán actualizaciones ni rendimientos financieros. Dicho reintegro se realizará a más tardar a los 10 días hábiles posteriores a la determinación del saldo a favor.
 
 Una vez presentado el informe correspondiente al cuarto trimestre, la Secretaría realizará el cálculo anual definitivo de las aportaciones mencionadas en el primer párrafo de este artículo y determinará la diferencia que, en su caso, resulte entre el monto anual definitivo y los anticipos cubiertos.
 
@@ -545,11 +549,11 @@ La disminución de ingresos distintos de aquellos que se cubran con recursos del
 
 Para los cálculos de las compensaciones por la disminución de los ingresos, se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 12 B. Los recursos del Fondo Mexicano del Petróleo a los que se refiere el artículo 93, párrafo tercero, de la Ley deben ser determinados por el Comité Técnico de dicho Fondo y los recursos excedentes que durante el ejercicio fiscal reciba el Fondo los debe determinar la Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
-
-Artículo 12 B. Los recursos del Fondo Mexicano del Petróleo a los que se refiere el artículo 93, párrafo tercero, de la Ley serán determinados por el Comité Técnico de dicho Fondo.
 
 La orden del Comité Técnico a que se refiere el artículo 96 de la Ley deberá realizarse cuando el saldo acumulado de la Reserva del Fondo al 31 de diciembre del año previo supere el 10 por ciento del Producto Interno Bruto. Dicha orden deberá incluir un calendario que detalle la periodicidad con la que el Fondo Mexicano del Petróleo deba transferir los rendimientos financieros reales anuales a la Tesorería de la Federación, de conformidad con la instrucción que para tal efecto emita la Secretaría.
 
@@ -4585,9 +4589,9 @@ II. Serán responsables de la calidad y oportunidad de la información reportada
 
 III. Deberán calcular, conforme a la metodología que para la elaboración de las estadísticas de finanzas públicas dé a conocer la Secretaría, los principales indicadores de la postura fiscal, de ingreso y de gasto públicos.
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 283 A. Para efectos de consolidación del gasto público y la preparación de informes, en el caso de registros presupuestarios que impliquen una duplicación de los mismos, la Secretaría podrá reflejar montos netos en los conceptos correspondientes, así como el monto neto por concepto de intereses derivados del costo financiero de la deuda pública.
+Artículo 283 A. Para efectos de consolidación del gasto público y la preparación de informes, en el caso de registros presupuestarios que impliquen una duplicación de los mismos, la Secretaría puede reflejar montos netos en los conceptos correspondientes, así como el monto neto por concepto de intereses derivados del costo financiero de la deuda pública y operaciones de coberturas de la deuda pública.
 
 > <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2014)</small>
 
@@ -5062,3 +5066,9 @@ D.O.F. 16 DE JULIO DE 2024.
 PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La Secretaría de Hacienda y Crédito Público debe realizar las modificaciones necesarias a las reglas de operación del Fondo de Estabilización de los Ingresos Presupuestarios y al contrato de Fideicomiso constituido para la administración de los recursos aportados a dicho fondo, dentro de los noventa días naturales posteriores a la entrada en vigor del presente decreto, en términos de lo dispuesto por el Transitorio Tercero del Decreto por el que se adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 17 de abril de 2024.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+ÚNICO. El presente decreto entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
