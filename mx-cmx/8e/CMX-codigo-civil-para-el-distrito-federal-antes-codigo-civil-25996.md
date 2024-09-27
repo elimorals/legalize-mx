@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-08-28"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -14013,9 +14013,9 @@ De los efectos de las anotaciones
 
 ARTICULO 3,044.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquella, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
 
-> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-En los casos de las fracciones IV y VIII del artículo 3043 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI la anotación no producirá otro efecto que el fijado por el artículo 2854. Tratándose del caso de la fracción VII, se producirá igualmente el cierre del registro si así fue acordado por los mediados en el convenio respectivo, a efecto de garantizar su cumplimiento. El mediador, Secretario Actuario o funcionario del centro de justicia alternativa según corresponda, solicitará la cancelación de dicho cierre, una vez que las partes se den por satisfechas del cumplimiento de dicho convenio.
+En los casos de las fracciones IV y VIII del artículo 3043 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI la anotación no producirá otro efecto que el fijado por el artículo 2854. Tratándose del caso de la fracción VII, el mediador, Secretario Actuario o funcionario del Centro de Justicia Alternativa según corresponda, solicitará la cancelación de la anotación una vez que las partes se den por satisfechas del cumplimiento de dicho convenio.
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -15364,3 +15364,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El registro a que se refiere el último párrafo del artículo 2448 F del Código Civil para el Distrito Federal, se llevará a cabo de conformidad con el mecanismo que el Gobierno de la Ciudad de México establezca, en un plazo no mayor a 30 días posteriores a la entrada en vigor del presente decreto.
 
 Los contratos de arrendamiento que se encuentren en curso a la entrada en vigor del presente decreto deberán registrarse por el arrendador en un plazo no mayor a 90 días posteriores a lo señalado en el párrafo anterior.
+
+G.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3044 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 50 Y EL ARTÍCULO 79 DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
