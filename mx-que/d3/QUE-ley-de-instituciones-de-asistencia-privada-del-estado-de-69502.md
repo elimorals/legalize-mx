@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-instituciones-de-asistencia-privada-del-estado-de-69502"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2024-09-20"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -383,7 +383,9 @@ No podrán desempeñar el cargo de patrono o consejero de una institución;
 
 I. Quienes estén impedidos por la ley;
 
-II. Las personas que desempeñen cargo de elección popular, los titulares de las dependencias de los Poderes Ejecutivo y Judicial del Estado, oficiales mayores y directores o coordinadores de Gobierno del Estado y ayuntamientos; directores, coordinadores, gerentes generales o similares, de los organismos descentralizados y de las empresas de participación estatal; el presidente y el delegado ejecutivo de la Junta, los funcionarios y los empleados de la misma;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. Las personas que desempeñen cargo de elección popular, los titulares de las dependencias de los Poderes Ejecutivo y Judicial del Estado, oficiales mayores y directores o coordinadores de Gobierno del Estado y ayuntamientos; directores, coordinadores, gerentes generales o similares, de los organismos descentralizados y de las empresas de participación estatal; el Director y el Subdirector de la Junta, los funcionarios y los empleados de la misma;
 
 III. Las personas morales;
 
@@ -507,9 +509,11 @@ En el supuesto que un miembro del Patronato o Consejo Directivo, decida dejar su
 
 ### Capítulo Tercero. De los informes de ingresos y egresos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 45.
 
-Las instituciones deberán entregar a la Junta, cada seis meses, un informe en el que se establezcan sus ingresos, egresos, inversiones realizadas y cualquier otra situación relativa a su patrimonio.
+Las instituciones deberán entregar a la Junta, durante el mes de marzo de cada año, un informe anual en el que se establezcan sus ingresos, egresos, inversiones realizadas y cualquier otra situación relativa a su patrimonio. La Junta establecerá la forma en que deberá entregarse dicho informe, privilegiando los medios electrónicos o plataformas digitales para ello.
 
 La Junta deberá asesorar a las instituciones que lo soliciten, a efecto de que rindan el informe referido.
 
@@ -547,79 +551,125 @@ La Junta apoyará a las instituciones en los trámites necesarios a efecto de qu
 
 ### Capítulo Primero. De la Junta de Asistencia Privada
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-La Junta de Asistencia Privada es un órgano administrativo desconcentrado de la Secretaría de Desarrollo Social, para el fomento y regulación de las instituciones de asistencia privada, con las funciones que esta Ley le encomienda y en la que dichas instituciones participan para asegurar su buen funcionamiento.
+La Junta de Asistencia Privada es un órgano administrativo desconcentrado de la Secretaría de Desarrollo Social, cuyo objeto es impulsar, vigilar, asesorar, coordinar, fomentar y regular a las instituciones de asistencia privada, con las funciones que esta Ley le encomienda y en la que dichas instituciones participan para asegurar su buen funcionamiento.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 51.
 
 La Junta se integra por:
 
-I. Un presidente, que será designado por el titular del Poder Ejecutivo del Estado, de entre la terna que al efecto le propongan las instituciones; eligiendo, asimismo a un suplente; y
+I. El Consejo Directivo;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+II. Un Director;
 
-II. Nueve vocales, los cuales podrán designar un suplente para que asista a las sesiones de la Junta.
+III. Un Subdirector, y
 
-Las instituciones designarán cuatro vocales, quienes podrán o no ser patronos de éstas.
+IV. Las áreas que sean necesarias para el buen desempeño de la Junta.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+El Consejo Directivo es la autoridad máxima de la Junta y se integra por:
 
-La designación de los vocales que representen a las instituciones se realizará en una convención.
+I. Un Presidente, cuyo encargo recaerá en el Director de la Junta;
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+II. Siete vocales de instituciones públicas, que serán los siguientes:
 
-El Presidente de la Junta emitirá la convocatoria de la convención, con quince días de anticipación a la fecha de celebración, misma que deberá publicarse en dos de los periódicos de mayor circulación en el Estado.
+a) Un representante de la Secretaría de Desarrollo Social;
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+b) Un representante de la Secretaría de Desarrollo Sustentable;
 
-Los vocales que representen a las instituciones, serán elegidos mediante votación de las instituciones legalmente representadas y registradas ante la Junta, que comparezcan a la convención.
+c) Un representante de la Secretaría de Finanzas;
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+d) Un representante de la Secretaría de Gobierno;
 
-Se levantará acta debidamente circunstanciada de la convención y lista de asistencia de las instituciones registradas ante la Junta que comparezcan a la convención.
+e) Un representante de la Secretaría de Salud;
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 17 DE OCTUBRE DE 2018)</small>
+f) Un representante del Sistema Estatal para el Desarrollo Integral de la Familia; y
 
-Los cinco vocales restantes, se integran de la manera siguiente:
+g) Un representante de la Secretaría Ejecutiva del Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro.
 
-a) Un representante del Sistema Estatal para el Desarrollo Integral de la Familia;
+III. Cuatro vocales de las instituciones, quienes podrán ser o no patronos de éstas; y
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+IV. Un Secretario Técnico, que será el Subdirector de la Junta, quien solo tendrá voz.
 
-b) Un representante de la Secretaría de Finanzas;
+Por cada miembro titular habrá un suplente, excepto en el caso del Presidente, el cual no podrá contar con suplencia en las reuniones del Consejo.
 
-c) Un representante de la Secretaría de Salud;
+En caso de ser necesario, por los temas que se discutan en la sesión, se podrá invitar a otras personas o instituciones, quienes solo tendrán derecho a voz.
 
-d) Un representante de la Secretaría de Desarrollo Social; y
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-e) El titular de la Secretaría Ejecutiva del Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro.
+###### Artículo 51 Bis.
+
+La propuesta de designación del Director y la designación de los vocales que representen a las instituciones, así como de los suplentes de éstos, se realizará en una convención, de acuerdo con el siguiente procedimiento:
+
+I. Tres meses antes de que concluya el periodo para el que fue elegido, el Director de la Junta emitirá la convocatoria a la convención, con al menos veinte días hábiles de anticipación a la fecha de celebración, misma que deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y dos de los periódicos de mayor circulación en el Estado;
+
+II. En caso de que el Director no emitiera la convocatoria en el tiempo señalado en la fracción anterior, la persona titular de la Secretaría de Desarrollo Social lo hará sin necesidad de convocar a sesión del Consejo Directivo;
+
+III. A la convención podrán acudir con voz y voto, representantes legales de todas las instituciones que estén certificadas por la Junta;
+
+IV. Las instituciones podrán proponer candidatos a la Dirección de la Junta y a los cargos de vocal y de vocal suplente de las instituciones del Consejo Directivo;
+
+V. En la convención, los representantes legales de las instituciones elegirán, por el voto de la mayoría de los representantes presentes, a una terna de aspirantes a la Dirección de la Junta, así como a los vocales y sus suplentes.
+
+Los vocales y suplentes de las instituciones deberán provenir de instituciones que estén certificadas por la Junta y no perder dicha certificación durante su encargo.
+
+Se levantará acta debidamente circunstanciada de la convención y lista de asistencia de las instituciones que a ella comparezcan;
+
+VI. Una vez elegida la terna de aspirantes a la Dirección de la Junta, el Director de la Junta la remitirá de inmediato a la persona titular de la Secretaría de Desarrollo Social, para que ésta determine sobre el cumplimiento de los requisitos legales y sobre la validez de la elección.
+
+VII. La persona titular de la Secretaría de Desarrollo Social podrá devolver la terna a la Junta motivando y fundamentando su determinación, en cuyo caso los integrantes de la terna rechazada no podrán participar en el nuevo procedimiento que al efecto se lleve a cabo, o bien, someterla a consideración de la persona titular del Poder Ejecutivo del Estado;
+
+VIII. La persona titular del Poder Ejecutivo del Estado podrá elegir, de entre la terna propuesta, al Director de la Junta; y
+
+IX. La persona titular del Poder Ejecutivo del Estado podrá rechazar la terna, devolviéndola a la persona titular de la Secretaría de Desarrollo Social, a fin de que se realice nuevo procedimiento de elección. Los integrantes de la terna rechazada no podrán participar en el nuevo procedimiento.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 52.
 
-El presidente de la Junta y los vocales durarán en su encargo tres años, pudiendo ser renovado su nombramiento. Las vacantes definitivas o temporales de los miembros de la Junta, serán cubiertas por sus respectivos suplentes.
+El Director de la Junta y los vocales de las Instituciones durarán en su encargo tres años, pudiendo ser renovado su nombramiento por una sola vez, por un periodo igual, mediante el mismo procedimiento por el que fueron elegidos. Las vacantes definitivas o temporales de los miembros de la Junta, serán cubiertas por sus respectivos suplentes.
+
+En caso de ausencia temporal o definitiva del Director de la Junta, la persona titular de la Secretaría de Desarrollo Social designará a un Director interino, para garantizar la continuidad de sus labores. En caso de que la ausencia sea definitiva, el director interino permanecerá en funciones en tanto se lleva a cabo el proceso de elección establecido en el artículo anterior.
+
+En caso de que alguno de los vocales de las Instituciones provenga de instituciones que pierdan su certificación anual ante la Junta, cesarán de inmediato en su encargo, debiéndose llamar a su suplente para que lo asuma por el tiempo restante del periodo para el que fue elegido.
+
+En caso de que el suplente del vocal de las Instituciones que haya sido cesado en su encargo en virtud de lo establecido en el párrafo anterior, provenga de una institución que tampoco cuente con la certificación anual vigente ante la Junta o, durante su encargo la pierda, el Director de la Junta notificará dicha situación a la persona titular de la Secretaría de Desarrollo Social para que ésta, a su vez, designe a una persona como vocal interino y a una persona como vocal suplente interino, en tanto se lleva a cabo el proceso de elección correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 53.
 
-La Junta celebrará el número de sesiones que resulten necesarias para el cumplimiento oportuno y eficiente de sus facultades y obligaciones debiendo celebrarse por lo menos una sesión trimestral. Las sesiones serán convocadas por su Presidente y a ellas asistirá con carácter informativo, en su caso, el delegado ejecutivo.
+El Consejo Directivo de la Junta celebrará el número de sesiones que resulten necesarias para el cumplimiento oportuno y eficiente de sus facultades y obligaciones, debiendo celebrarse por lo menos una sesión trimestral. Las sesiones serán convocadas por su Director.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-Para que exista quórum legal para sesionar en la Junta, se requiere de la asistencia de cuando menos 6 vocales.
+Para que exista quorum legal para que el Consejo Directivo de la Junta sesione, se requiere de la asistencia de cuando menos seis de sus integrantes con derecho a voto, siempre y cuando se encuentre presente el Director.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 Las determinaciones y acuerdos durante la sesión, se tomarán por mayoría de los integrantes presentes de la Junta.
 
-Los vocales y Presidente de la Junta tendrán derecho a voz y voto en las sesiones.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-El Presidente tiene voto de calidad en los casos de empate.
+Los vocales y el Director tendrán derecho a voz y voto en las sesiones.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Director tiene voto de calidad en los casos de empate.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 Si un miembro de la Junta fuera patrono, consejero o empleado de una institución de asistencia privada, deberá de abstenerse de opinar y votar en cualquier asunto relacionado con ella.
 
-Obligatoriamente deberá levantarse un acta circunstanciada de las sesiones de la Junta.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Obligatoriamente deberá levantarse un acta circunstanciada de las sesiones del Consejo Directivo de la Junta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -641,7 +691,9 @@ IV. Promover ante las autoridades competentes el otorgamiento de estímulos y be
 
 V. Recibir y revisar el informe de actividades de las instituciones;
 
-VI. Formular su proyecto de presupuesto, así como sus programas, considerando honorarios que, en su caso, devenguen el Presidente y los Vocales, cuando los mismos no ejerzan el servicio público;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Formular su proyecto de presupuesto, así como sus programas, considerando honorarios que, en su caso, devenguen los Vocales, cuando los mismos no ejerzan el servicio público;
 
 VII. Elaborar anualmente un informe general de los trabajos realizados durante el periodo;
 
@@ -667,9 +719,9 @@ XII. Requerir a las instituciones la información y documentación necesaria par
 
 XIII. Practicar visitas en el domicilio y establecimientos de las instituciones con el objeto de revisar el cumplimiento de las obligaciones previstas en esta Ley y en sus estatutos;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Proponer al titular del Poder Ejecutivo del Estado, la celebración de convenios y demás instrumentos jurídicos de coordinación, que favorezcan la creación y desarrollo de las instituciones;
+XIV. Proponer, a través de la persona titular de la Secretaría de Desarrollo Social, a la persona titular del Poder Ejecutivo del Estado, la celebración de convenios y demás instrumentos jurídicos de coordinación, que favorezcan la creación y desarrollo de las instituciones;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -687,7 +739,9 @@ XVII. Fomentar la obtención de aportaciones y donativos a favor de las instituc
 
 XVIII. Emitir la certificación anual de cada una de las Instituciones de Asistencia Privada, siempre que éstas cumplan con los requisitos siguientes:
 
-a) Haber entregado su informe anual de actividades, dentro del plazo previsto en el artículo 43, fracción XII de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+a. Haber entregado sus informes anuales, dentro del plazo previsto en los artículos 43, fracción XII y 45, primer párrafo, de la presente Ley.
 
 b) Acreditar el cumplimiento de las obligaciones en materia de protección civil, de conformidad con su objeto y las disposiciones aplicables.
 
@@ -695,7 +749,9 @@ c) Acreditar contar con las licencias y permisos emitidos por las autoridades co
 
 La certificación anual podrá servir de constancia de que una persona moral fue constituida como una Institución de Asistencia Privada y que se mantiene operando, con independencia de que las distintas autoridades en el ámbito de su competencia puedan ejercer sus facultades de verificación conforme a las disposiciones aplicables.
 
-El Presidente de la Junta podrá emitir lineamientos para establecer el formato que deberá cumplir la documentación que exhiban las instituciones, a fin de obtener su certificación anual.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Director de la Junta podrá emitir lineamientos para establecer el formato que deberá cumplir la documentación que exhiban las instituciones, a fin de obtener su certificación anual.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2023)</small>
 
@@ -737,6 +793,10 @@ XXVIII. Organizar actividades de capacitación para las instituciones; y
 
 XXIX. Las demás que establezcan otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Consejo Directivo de la Junta podrá delegar en el Director, mediante acuerdo que deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”, cualquiera de las funciones contenidas en el presente artículo.
+
 ###### Artículo 56.
 
 Es función prioritaria de la Junta, el fomento, el desarrollo y la preservación de las instituciones mediante un programa que incluya:
@@ -763,23 +823,37 @@ X. Promover reuniones y visitas de intercambio entre instituciones similares, co
 
 XI. Las demás que se requieran para la aplicación de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-Son facultades y obligaciones del Presidente de la Junta:
+Son facultades y obligaciones del Director de la Junta:
 
 I. Representar legalmente a la Junta;
 
-II. Convocar a la Junta para la resolución de los asuntos de su competencia e informarle sobre las actividades a su cargo;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-III. Informar al titular del Poder Ejecutivo del Estado, con la regularidad que éste señale, el estado de los asuntos que competan a la Junta;
+II. Convocar al Consejo Directivo de la Junta para la resolución de los asuntos de su competencia e informarle sobre las actividades a su cargo;
 
-IV. Resolver y despachar, bajo su responsabilidad, en los casos urgentes, los asuntos concretos que sean de la competencia de la Junta, dando cuenta a ésta de sus resoluciones en la sesión inmediata;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-V. Autorizar con el secretario de actas, las actas de las sesiones que se celebren;
+III. Informar a la persona titular del Poder Ejecutivo del Estado y a la persona titular de la Secretaría de Desarrollo Social, con la regularidad que éstas señalen, el estado de los asuntos que competan a la Junta;
 
-VI. Certificar, conjuntamente con el secretario de actas, las constancias que se soliciten a la Junta;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Desempeñar las comisiones y realizar los actos que le encomiende la Junta y cuidar de la debida ejecución de sus acuerdos;
+IV. Resolver y despachar, bajo su responsabilidad, en los casos urgentes, los asuntos concretos que sean de la competencia de la Junta, dando cuenta al Consejo Directivo de sus resoluciones en la sesión inmediata;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+V. Autorizar con el Secretario Técnico, las actas de las sesiones que se celebren;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Certificar, conjuntamente con el Secretario Técnico, las constancias que se soliciten a la Junta;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Desempeñar las comisiones, ejercitar las facultades que le delegue y realizar los actos que le encomiende el Consejo Directivo de la Junta y cuidar de la debida ejecución de sus acuerdos;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -793,17 +867,17 @@ IX. Designar al personal que deberá realizar las visitas domiciliarias, verific
 
 X. Emitir los requerimientos de información y documentación necesaria para verificar el debido cumplimiento de esta Ley y los estatutos de las instituciones;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Gestionar la publicación del directorio de instituciones de asistencia privada registradas ante la Junta;
+XI. Gestionar la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”, del listado de Instituciones de Asistencia Privada que obtuvieron su certificación anual;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 XII. Atender y responder las peticiones formuladas por las instituciones;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Ejecutar y dar seguimiento a los acuerdos tomados por la Junta;
+XIII. Ejecutar y dar seguimiento a los acuerdos tomados por el Consejo Directivo de la Junta;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -825,13 +899,19 @@ XVII. Dar atención y seguimiento a las quejas y denuncias de los beneficiarios 
 
 XVIII. Las demás que dispongan otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 58.
 
-La Junta, a propuesta de su Presidente, podrá designar a un Delegado Ejecutivo, quien tendrá las siguientes facultades:
+La Junta, a propuesta de su Director, podrá designar a un Subdirector, quien tendrá las siguientes facultades:
 
-I. Desempeñar las comisiones y realizar los actos que le encomiende el Presidente de la Junta, de acuerdo a esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-II. Asumir el carácter de secretario de actas en las sesiones de la Junta;
+I. Desempeñar las comisiones y realizar los actos que le encomiende el Director de la Junta, de acuerdo a esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. Asumir el carácter de Secretario Técnico en las sesiones de la Junta;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -845,11 +925,11 @@ IV. Sistematizar los archivos, expedientes y demás documentos de la Junta; y
 
 V. Las demás que establezcan otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-La Junta o su Presidente podrán ordenar visitas a las instituciones, que tengan por objeto comprobar:
+La Junta o su Director podrán ordenar visitas a las instituciones, que tengan por objeto comprobar:
 
 I. Si los fines de la institución están siendo realizados;
 
@@ -863,7 +943,9 @@ V. Si los beneficiarios reúnen los requisitos señalados en los estatutos y, en
 
 VI. La situación real en que se encuentren las instituciones, así como sus necesidades.
 
-De los informes respectivos, el presidente dará cuenta a la Junta la que acordará las medidas que procedan conforme a esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+De los informes respectivos, el Director dará cuenta a la Junta la que acordará las medidas que procedan conforme a esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -885,9 +967,13 @@ Una vez finalizada la visita en el domicilio, la institución gozará de un plaz
 
 En el supuesto de que la Institución visitada no cumpla las observaciones y requerimientos dentro del plazo que se le conceda en el oficio respectivo o que lo haga en forma incompleta, la Junta podrá emitir un nuevo requerimiento.
 
-De persistir el incumplimiento se informará al Presidente para que dé cuenta a la Junta a fin de que acuerde las sanciones que procedan conforme a la Ley.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen visitas de que se trata esta Ley o no proporcionen los datos que ella exige, el Presidente de la Junta podrá aplicar las medidas de apremio previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
+De persistir el incumplimiento se informará al Director para que dé cuenta a la Junta a fin de que acuerde las sanciones que procedan conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen visitas de que se trata esta Ley o no proporcionen los datos que ella exige, el Director de la Junta podrá aplicar las medidas de apremio previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -1037,15 +1123,17 @@ VIII. Aceptar o exigir de los beneficiarios de la institución, regalos o retrib
 
 Las responsabilidades en que incurran, se sancionarán de conformidad con las leyes que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen visitas de que se trata esta Ley o no proporcionen los datos que ella exige, el Presidente de la Junta podrá aplicar las medidas de apremio previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
+Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen visitas de que se trata esta Ley o no proporcionen los datos que ella exige, el Director de la Junta podrá aplicar las medidas de apremio previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ### Capítulo Tercero. De la responsabilidad de los miembros y empleados de la Junta
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 77.
 
-Son causas de responsabilidad del Presidente, de los Consejeros, del Delegado Ejecutivo y del personal técnico de la Junta:
+Son causas de responsabilidad del Director, de los Vocales, del Subdirector y del personal adscrito a la Junta:
 
 I. Faltar sin causa justificada a las sesiones;
 
@@ -1057,7 +1145,9 @@ IV. Usar, distraer o disponer de fondos de la Junta o de cualquier institución 
 
 V. Faltar al cumplimiento de las demás obligaciones que les imponga esta Ley.
 
-El Consejo podrá acordar su remoción, independientemente de ser sancionados de acuerdo con las leyes aplicables con motivo de las responsabilidades en que incurran.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Consejo Directivo podrá acordar su remoción, independientemente de ser sancionados de acuerdo con las leyes aplicables con motivo de las responsabilidades en que incurran.
 
 ###### Artículo 78.
 
@@ -1304,3 +1394,15 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Las personas que actualmente ocupan el cargo de Presidente y Delegado Ejecutivo de la Junta de Asistencia Privada respectivamente, continuarán en el ejercicio del cargo para el periodo para el que fueron designadas.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones jurídicas de igual o menor jerarquía que se contrapongan a la presente.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
