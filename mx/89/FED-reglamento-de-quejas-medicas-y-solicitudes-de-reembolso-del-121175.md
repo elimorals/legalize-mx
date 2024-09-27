@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-medicas-y-solicitudes-de-reembolso-del-121
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2017-04-28"
+last_updated: "2024-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121175&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-03-31"
 ---
 # REGLAMENTO DE QUEJAS MEDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA DICTAMINACIÓN DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 27 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -752,3 +754,39 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 Ciudad de México, 31 de marzo de 2017.- La Prosecretaria de la Junta Directiva de conformidad con el artículo 19 del Estatuto Orgánico del Instituto, María Guadalupe Chacón Monárrez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE INFORMA LA PUBLICACIÓN DEL REGLAMENTO PARA LA DICTAMINACIÓN DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]</small>
+
+AVISO MEDIANTE EL CUAL SE INFORMA LA PUBLICACIÓN DEL REGLAMENTO PARA LA DICTAMINACIÓN DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+###### ARTICULO PRIMERO.
+
+Se expide el Reglamento para la Dictaminación de Quejas Médicas y Solicitudes de Reembolso del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el cual formará parte de la normatividad vigente, y por lo tanto serán de observancia obligatoria.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento para la Dictaminación de Quejas Médicas y Solicitudes de Reembolso del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, que se expide, estará a disposición de los interesados para su consulta en la Subdirección de lo Consultivo de la Dirección Jurídica y en medios magnéticos u ópticos en la Normateca Electrónica Institucional, a través de la dirección electrónica, https://normateca.issste.gob.mx:8187/normateca/ng/landingpage y en la página www.dof.gob.mx/2024/ISSSTE/Reglamento-Dictaminacion-Quejas-y-Reembolsos.pdf.
+
+## TRANSITORIOS
+
+PRIMERO.- El Reglamento para la Dictaminación de Quejas Médicas y Solicitudes de Reembolso del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado entrará en vigor a partir del día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Queda sin efecto el Acuerdo 38.1357.2017 de la Junta Directiva, relativo a la aprobación del Reglamento de Quejas Médicas y Solicitudes de Reembolso del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 28 de abril de 2017.
+
+TERCERO.- La Dirección Jurídica del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado realizará los trámites correspondientes, para que el contenido del instrumento sea incluido en la Normateca Electrónica Institucional, dentro de los cinco días hábiles siguientes al de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS TRANSITORIOS DEL "REGLAMENTO PARA LA DICTAMINACIÓN DE QUEJAS MÉDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]</small>
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Quejas Médicas y Solicitudes de Reembolso del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, aprobado mediante Acuerdo 38.1357.2017 de la Junta Directiva, publicado en el Diario Oficial de la Federación el 28 de abril de 2017.
+
+Tercero.- Las Quejas Médicas, las Solicitudes de Reembolso y los Recursos de Reconsideración que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán sustanciados y resueltos por el Comité o las Comisiones según corresponda y deberán resolverse conforme a la normatividad vigente al momento de su presentación.
+
+Cuarto.- El Instituto expedirá el Manual de Integración y Funcionamiento que regule al Comité, Subcomité, Comisiones y Subcomisiones de Quejas Médicas y Solicitudes de Reembolso del ISSSTE, en un término no mayor a 180 días, a partir de la entrada en vigor del Reglamento.
+
+Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
