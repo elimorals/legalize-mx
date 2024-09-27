@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2024-09-20"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -257,13 +257,17 @@ XIV. La Secretaría de Juventud;
 
 XV. La Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XVI. Jefatura de Gabinete; y
+XVI. Jefatura de Gabinete;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XVII. La Secretaría de Cultura.
+XVII. La Secretarla de Cultura; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. La Secretaría de las Mujeres.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1530,6 +1534,60 @@ XVII. Propiciar e institucionalizar un diálogo permanente con los ciudadanos; y
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
 
 XVIII. Las demás establecidas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 39.
+
+La Secretaría de las Mujeres, es la dependencia encargada de formular, coordinar, promover, ejecutar y evaluar políticas públicas, programas y acciones para la transversalidad e institucionalización de la perspectiva de género, y le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, conducir y evaluar la política de igualdad sustantiva entre hombres y mujeres, fomentando el desarrollo social, cultural, político y económico de las mujeres, procurando la eliminación de la discriminación y violencia hacia éstas;
+
+II. Impulsar, en coordinación con las demás dependencias y entidades de la administración pública estatal, la incorporación transversal de la perspectiva de género y de derechos humanos de las mujeres en todas las políticas y programas institucionales;
+
+III. Impulsar en la población la erradicación de los estereotipos que generan desigualdad para las mujeres y niñas;
+
+IV. Promover y difundir información en materia de igualdad y no discriminación, violencia de género y desarrollo social con perspectiva de género en el Estado;
+
+V. Promover, fomentar, implementar y ejecutar políticas y programas para difundir y proteger los derechos de las mujeres y niñas;
+
+VI. Integrar diagnósticos y estudios con enfoque de género, que permitan tener una imagen actualizada de la problemática en los municipios y de la entidad en general;
+
+VII. Impulsar acciones de transversalidad con perspectiva de género en materia de salud, educación, trabajo, economía, seguridad, desarrollo social, participación política, ciudadanía, fortalecimiento comunitario, prevención y atención de la violencia, acceso a la justicia, conciliación vida laboral y familiar, derechos humanos y en general, todas aquellas que estén orientadas al desarrollo integral de las mujeres en el Estado;
+
+VIII. Crear mecanismos de coordinación institucional con instancias del Gobierno Federal, Estatal y Municipal, organismos no gubernamentales, instituciones de educación o investigación públicas o privadas para la promoción de la inclusión social e igualdad de género, en los programas y políticas públicas;
+
+IX. Impulsar de manera coordinada con las instancias competentes de los diferentes órdenes de gobierno, estrategias y acciones encaminadas a la prevención, detección, atención de la violencia de género contra las mujeres y niñas;
+
+X. Proponer la creación de refugios seguros para víctimas de la violencia en términos de la normatividad aplicable;
+
+XI. Proporcionar en el ámbito de su competencia, atención integral, asistencia jurídica y psicológica a las mujeres en contexto de vulnerabilidad, que afronten un conflicto relacionado con violencia de género o discriminación en el Estado;
+
+XII. Coadyuvar con las instancias competentes mediante acciones que promuevan los derechos sexuales y reproductivos de las mujeres;
+
+XIII. Convocar a las diferentes organizaciones civiles y sociales, así como a los sectores académicos y educativos a fin de elaborar propuestas, planes y programas para fomentar la equidad y la igualdad de género, la inclusión y todos aquellos derechos encaminados al desarrollo social de las mujeres;
+
+XIV. Proponer al titular del Poder Ejecutivo iniciativas de reforma al marco jurídico estatal que permitan el avance hacia la igualdad sustantiva, perspectiva de género y vida libre de violencia y que garanticen el ejercicio de los derechos de las mujeres;
+
+XV. Participar en la celebración de convenios y acuerdos de colaboración y coordinación, en el ámbito de su competencia, con dependencias y entidades del Gobierno Federal, Estatal y Municipal y de la sociedad civil;
+
+XVI. Promover, diseñar e implementar programas de formación, capacitación, sensibilización y profesionalización en materia de perspectiva de género, derechos humanos, vida libre de violencia e igualdad sustantiva entre mujeres y hombres;
+
+XVII. Propiciar el acceso de todas las mujeres a los programas sociales y culturales que se establezcan en la entidad;
+
+XVIII. Promover la participación de las mujeres y las organizaciones sociales, políticas y económicas en los diferentes aspectos del desarrollo en la entidad;
+
+XIX. Fungir como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Estatal, así como de las autoridades municipales y de los sectores social y privado, en materia de igualdad de género y de igualdad de oportunidades para las mujeres, cuando así lo requieran;
+
+XX. Coadyuvar en la observancia del debido cumplimiento de las disposiciones legales que forman parte del orden jurídico estatal, nacional e internacional en materia de protección a los derechos humanos de las mujeres;
+
+XXI. Definir, conducir o ejecutar acciones, políticas, programas, proyectos o actividades de desarrollo social con perspectiva de género relacionadas con su competencia;
+
+XXII. Promover y gestionar ante las instancias correspondientes, la asignación de recursos financieros para la elaboración y ejecución (sic) programas sociales, proyectos productivos, y de inversión que promuevan el empoderamiento de las mujeres y contribuyan al mejoramiento de las condiciones económicas, políticas, culturales que garanticen su bienestar integral y el avance de las mujeres en todos los ámbitos;
+
+XXIII. Generar y coordinar la operación de los programas sociales tendentes a promover la igualdad e inclusión de género, así como gestionar con las dependencias y entidades de los tres órdenes de gobierno y la iniciativa privada, la promoción de acciones a favor de las mujeres y niñas, y
+
+XXIV. Las demás que, le confieran las leyes y otros ordenamientos jurídicos.
 
 ## TRANSITORIOS
 
@@ -3068,3 +3126,33 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES CON MOTIVO DE LA CREACIÓN DE LA SECRETARÍA DE LAS MUJERES".]
+
+Artículo Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. La presente Ley entrará en vigor a partir del 01 de enero del año 2025.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Se deberán realizar las gestiones administrativas que correspondan ante la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para el cumplimiento de lo previsto en la presente Ley, a fin de que ésta contemple y asigne los recursos correspondientes conforme a la autorización y disponibilidad con que se cuente para la operación de la Secretaría de las Mujeres, dentro del Decreto del Presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2025 y ejercicios fiscales subsecuentes que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+Artículo Quinto. A la entrada en vigencia de la presente Ley, se trasladarán los recursos materiales, humanos y financieros con los que cuenta el Instituto Queretano de las Mujeres a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de las Mujeres, se trasladarán al Poder Ejecutivo del Estado de Querétaro, para el funcionamiento de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Sexto. A partir de la entrada en vigencia de la presente Ley todas las referencias en las disposiciones jurídicas y administrativas del Instituto Queretano de las Mujeres, se entenderán realizadas en lo conducente a favor de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento de (sic) Instituto Queretano de las Mujeres, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan, en todo aquello que no se oponga a lo dispuesto en la presente Ley.
+
+Artículo Octavo. Los programas, procedimientos, trámites que hasta antes de la entrada en vigor de la presente Ley hayan sido iniciados, aprobados y ejecutados por el Instituto Queretano de las Mujeres, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, atendiendo a su competencia.
+
+Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de las Mujeres sustituirá al Instituto Queretano de las Mujeres, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la referida Secretaría.
+
+Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
+
+Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
