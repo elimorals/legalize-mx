@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-establece-las-bases-para-la-prevencion-y-la-65070"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY QUE ESTABLECE LAS BASES PARA LA PREVENCION Y LA ATENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE ESTABLECE LAS BASES PARA LA PREVENCION Y LA ATENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -99,7 +101,9 @@ VI. El titular de la Procuraduría de la Defensa del Menor y la Familia del Sist
 
 VII. El titular de la Comisión Estatal de Derechos Humanos;
 
-VIII. El titular del Instituto Estatal de la Mujer;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. La persona Titular de la Secretaría de las Mujeres;
 
 IX. Un representante de la Junta de Asistencia Privada; y
 
@@ -295,9 +299,11 @@ II. Integrar un sistema de registro de los casos de violencia familiar detectado
 
 III. Coadyuvar con el Sistema Estatal para el Desarrollo Integral de la Familia, dentro de su ámbito de competencia, para el logro de sus fines, en materia de violencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 19.
 
-En la aplicación de esta Ley, el Instituto Estatal de la Mujer, tendrá las siguientes obligaciones:
+En la aplicación de esta Ley, la Secretaría de las Mujeres, tendrá las siguientes obligaciones:
 
 I. Brindar atención psicológica, asesoría y representación jurídica a las personas en riesgo o víctimas de violencia familiar;
 
@@ -368,3 +374,35 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES CON MOTIVO DE LA CREACIÓN DE LA SECRETARÍA DE LAS MUJERES".]
+
+Artículo Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. La presente Ley entrará en vigor a partir del 01 de enero del año 2025.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Se deberán realizar las gestiones administrativas que correspondan ante la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para el cumplimiento de lo previsto en la presente Ley, a fin de que ésta contemple y asigne los recursos correspondientes conforme a la autorización y disponibilidad con que se cuente para la operación de la Secretaría de las Mujeres, dentro del Decreto del Presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2025 y ejercicios fiscales subsecuentes que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+Artículo Quinto. A la entrada en vigencia de la presente Ley, se trasladarán los recursos materiales, humanos y financieros con los que cuenta el Instituto Queretano de las Mujeres a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de las Mujeres, se trasladarán al Poder Ejecutivo del Estado de Querétaro, para el funcionamiento de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Sexto. A partir de la entrada en vigencia de la presente Ley todas las referencias en las disposiciones jurídicas y administrativas del Instituto Queretano de las Mujeres, se entenderán realizadas en lo conducente a favor de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento de (sic) Instituto Queretano de las Mujeres, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan, en todo aquello que no se oponga a lo dispuesto en la presente Ley.
+
+Artículo Octavo. Los programas, procedimientos, trámites que hasta antes de la entrada en vigor de la presente Ley hayan sido iniciados, aprobados y ejecutados por el Instituto Queretano de las Mujeres, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, atendiendo a su competencia.
+
+Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de las Mujeres sustituirá al Instituto Queretano de las Mujeres, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la referida Secretaría.
+
+Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
+
+Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
