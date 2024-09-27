@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-penitenciarios-de-la-ciudad-de-mexico-150946"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-02"
-last_updated: "2022-10-27"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150946&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-08-31"
 ---
 # LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE LA CIUDAD DE MÉXICO: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE LA CIUDAD DE MÉXICO: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 675 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 2 de septiembre de 2021.
 
@@ -846,11 +848,11 @@ La persona privada de la libertad deberá contar previamente a la notificación 
 
 Las mujeres deberán estar en Centros Penitenciarios diferentes a los de los hombres.
 
-(NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE SEPTIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-La Subsecretaría garantizará espacios adecuados y separados de la población general en los Centros Penitenciarios femeniles para las madres privadas de la libertad cuyos hijos menores de edad permanezcan con ellas, asegurando las condiciones necesarias para su estancia. En toda determinación o resolución relativa a madres privadas de la libertad cuyos hijos permanezcan con ellas, se garantizará el interés superior de la niñez.
+La Subsecretaría garantizará espacios dignos, adecuados y separados de la población general en los Centros Penitenciarios femeniles para las madres privadas de la libertad cuyos hijos menores de edad permanezcan con ellas, proporcionando las condiciones de vida que garanticen su sano desarrollo y asegurando sus necesidades de higiene, esparcimiento, educación, atención médica, así como alimentación adecuada y saludable para su estancia. En toda determinación o resolución relativa a madres privadas de la libertad cuyos hijos permanezcan con ellas, se garantizará el interés superior de la niñez.
 
 La Subsecretaría destinará personal técnico calificado en disciplinas específicas para la atención y desarrollo integral de niñas y niños, el cual se encargará de dar seguimiento a los infantes que permanecen con sus madres privadas de la libertad. Asimismo, se garantizará que en toda determinación que afecte o modifique la situación de un niño o niña se tome en cuenta la opinión de la madre.
 
@@ -867,6 +869,10 @@ Cuando se separe a niñas y niños de sus madres antes de que cumplan seis años
 ###### Artículo 61.
 
 La Secretaría de Salud adoptará las medidas necesarias para que los hijos de las personas privadas de la libertad embarazadas nazcan en instituciones hospitalarias fuera de los Centros Penitenciarios y de segundo nivel que cuenten con especialistas en pediatría y gineco-obstetricia.
+
+> <small>(ADICIONADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Si la hija o el hijo tuvieran alguna discapacidad, la madre privada de la libertad podrá solicitar a la autoridad penitenciaria la ampliación del plazo de estancia a su cuidado, la cual podrá otorgarla considerando la opinión de la Secretaría de Salud por el tiempo que sea necesario. En todo caso, se resolverá ponderando el interés superior de la niñez.
 
 ### CAPÍTULO IX. Del Tratamiento a Personas Inimputables y con Trastornos Psiquiátricos
 
@@ -1701,3 +1707,11 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 59 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, AMBOS DE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el 1º de enero de 2030, no obstante, a partir de su publicación el Gobierno de la Ciudad de México generará las condiciones para su pleno cumplimiento en la fecha señalada.
