@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2023-10-20"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -175,7 +175,19 @@ VI. Fiscalía General: La Fiscalía General del Estado de Querétaro;
 
 VII. Instituciones de Seguridad: Las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad a nivel federal, estatal y municipal;
 
-VIII. (DEROGADA, P.O. 17 DE AGOSTO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Personal Operativo de las Instituciones de Seguridad: Los servidores públicos que se mencionan a continuación:
+
+a) Guías técnicos adscritos a la autoridad en materia de justicia para adolescentes;
+
+b) Evaluadores de riesgos y supervisores de medidas cautelares de la autoridad de supervisión de medidas cautelares y suspensión condicional del proceso;
+
+c) Técnicos en prevención social, invitadores y facilitadores del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;
+
+d) Asesores jurídicos, médicos, trabajadores sociales y psicólogos de los mecanismos de la Comisión Estatal de Atención Integral a Víctimas;
+
+e) El personal de atención a las líneas de emergencia 9-1-1, 089, despacho, videovigilancia o cualquier otra semejante de gestión, atención y respuesta de emergencias estatal o municipales;
 
 IX. Medidas cautelares: Condiciones impuestas mediante resolución judicial, por el tiempo indispensable, para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento;
 
@@ -187,9 +199,9 @@ XII. Protección civil: La acción solidaria y participativa, que en consideraci
 
 XIII. Secretaría de Seguridad: La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Servicio de carrera: El Servicio Profesional de Carrera, del personal operativo facultado para el uso legal de la fuerza de las instituciones de seguridad;
+XIV. Servicio de carrera: El Servicio Profesional de Carrera, del personal operativo facultado para el uso legal de la fuerza, así como el Personal Operativo de las Instituciones de Seguridad;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -263,6 +275,10 @@ VI. Gestionar y obtener la Firma Electrónica Avanzada en el ejercicio de sus fu
 
 VII. Las demás que se establezcan en las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Las Instituciones del Sistema Estatal de Seguridad tendrán la obligación de informar de manera permanente al Centro de Evaluación y Control de Confianza del Estado las acciones tomadas respecto de las evaluaciones de control de confianza en un plazo no mayor a treinta días hábiles posteriores a darse por debidamente notificadas de los resultados.
+
 ###### Artículo 11.
 
 Los integrantes de las instituciones de seguridad se sujetarán a las siguientes obligaciones:
@@ -327,11 +343,15 @@ XXVI. No permitir que personas ajenas a sus instituciones realicen actos inheren
 
 XXVII. Proporcionar atención integral y asistencia inmediata a las víctimas de un hecho que la ley señale como delito;
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXVIII. Proporcionar a la autoridad competente cuando les sean solicitadas, sus muestras médicas, toxicológicas, biológicas, poligráficas, psicológicas y socioeconómicas para la evaluación correspondiente, así como la obtención del perfil genético; y
+XXVIII. Proporcionar a la autoridad competente cuando les sean solicitadas, sus muestras médicas, toxicológicas, biológicas, poligráficas, psicológicas y socioeconómicas para la evaluación correspondiente, así como la obtención del perfil genético;
 
-XXIX. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXIX. Aplicar las herramientas, mecanismos, protocolos y procedimientos que aseguren la coordinación interinstitucional para los fines en materia de seguridad que hayan sido desarrollados por la autoridad competente y que hayan sido motivo de acuerdo en términos de las disposiciones jurídicas aplicables; y
+
+XXX. Las demás que establezcan las disposiciones legales aplicables.
 
 ### Capítulo Segundo. De la estructura del Sistema Estatal de Seguridad
 
@@ -575,11 +595,21 @@ V. El Centro de Evaluación y Control de Confianza del Estado de Querétaro.
 
 VI. El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro;
 
-VII. La Comisión Estatal del Sistema Penitenciario de Querétaro, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Los titulares de las instituciones públicas, privadas o sociales que sean invitadas a participar para cumplir con los objetivos de la coordinación.
+VII. La Comisión Estatal del Sistema Penitenciario de Querétaro;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro; y
+
+IX. Los titulares de las instituciones públicas, privadas o sociales que sean invitadas a participar para cumplir con los objetivos de la coordinación.
 
 Los integrantes del Grupo de Coordinación Estatal para la Seguridad, serán coordinados por el Secretario de Seguridad Ciudadana del Estado y desarrollarán sus actividades conforme al protocolo que expidan.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Grupo de Coordinación Estatal para la Seguridad tendrá como un objetivo de la proximidad el fomentar la participación ciudadana en cualquiera de los programas, acciones y actividades que realice o implemente.
 
 Artículo 28 bis. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
@@ -625,7 +655,9 @@ III. La asesoría jurídica a víctimas; y
 
 IV. El Fondo Compensatorio.
 
-La operación de estos mecanismos se regirá conforme a lo dispuesto en la normatividad aplicable.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+La operación de estos mecanismos se regirá conforme a lo dispuesto en la normatividad aplicable, en los supuestos procedentes, para el Personal Operativo de las Instituciones de Seguridad en los términos de esta Ley y las demás disposiciones jurídicas correspondientes al servicio profesional de carrera que se establezca para el efecto, garantizando el servicio bajo los principios de formación especializada, certificación, capacitación permanente y estabilidad y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -661,17 +693,21 @@ Para el alcance de sus objetivos, el Centro de Prevención Social del Delito y l
 
 #### Sección Primera. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-El desarrollo profesional del personal operativo facultado para el uso legal de la fuerza pública en el Estado y municipios, es un conjunto integral de reglas y procesos, que comprenden el Servicio Profesional de Carrera, los esquemas de profesionalización, la certificación y el régimen disciplinario.
+El desarrollo profesional del personal operativo facultado para el uso legal de la fuerza pública y el Personal Operativo de las Instituciones de Seguridad en el Estado y municipios, es un conjunto integral de reglas y procesos, que comprenden el Servicio Profesional de Carrera, los esquemas de profesionalización, la certificación y el régimen disciplinario.
 
-Tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades del personal operativo facultado para el uso legal de la fuerza pública, con la finalidad de elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
+Tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades del personal operativo facultado para el uso legal de la fuerza pública, así como del Personal Operativo de las Instituciones de Seguridad, con la finalidad de elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
 
 #### Sección Segunda. Del Servicio Profesional de Carrera
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-El Servicio Profesional de Carrera es un mecanismo de carácter obligatorio y permanente, conforme al cual se planifican y organizan las bases que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública, para garantizar la igualdad de oportunidades en el desarrollo profesional con base en el mérito, la capacidad y la evaluación periódica y continua.
+El Servicio Profesional de Carrera es un mecanismo de carácter obligatorio y permanente, conforme al cual se planifican y organizan las bases que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública y del Personal Operativo de las Instituciones de Seguridad, para garantizar la igualdad de oportunidades en el desarrollo profesional con base en el mérito, la capacidad y la evaluación periódica y continua.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
@@ -713,9 +749,11 @@ La profesionalización es la adquisición, desarrollo y aplicación con eficienc
 
 La profesionalización del personal facultado para el uso de la fuerza pública, se realizará sobre las bases de la disciplina, el respeto a la vida, las libertades, la integridad y el patrimonio de los ciudadanos, así como el respeto al orden público y a la paz social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 40.
 
-La profesionalización se hará a través de la formación inicial única, la capacitación, actualización, la especialización y la evaluación del personal facultado para el uso legal de la fuerza pública y de las empresas de seguridad privada que prestan sus servicios en el Estado.
+La profesionalización se hará a través de la formación inicial única, la capacitación, actualización, la especialización y la evaluación del personal facultado para el uso legal de la fuerza pública, así como del Personal Operativo de las Instituciones de Seguridad y de las empresas de seguridad privada que prestan sus servicios en el Estado.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
@@ -731,9 +769,11 @@ El Centro de Capacitación, Formación e Investigación para la Seguridad del Es
 
 #### Sección Cuarta. De la conclusión del servicio
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 41 bis. Con la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública, se da por terminado el Servicio Profesional de Carrera y la relación jurídico-administrativa entre el policía y la institución correspondiente.
+Artículo 41 bis. Con la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública y del Personal Operativo de las Instituciones de Seguridad, se da por terminado el Servicio Profesional de Carrera y la relación jurídico administrativa entre el policía y la institución correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 Son causas de la conclusión del servicio, las siguientes:
 
@@ -747,7 +787,9 @@ a) Renuncia.
 
 b) Muerte o incapacidad permanente.
 
-c) Jubilación por haberse cumplido el tiempo de servicios, que en los policías será de 25 años, o
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+c) Jubilación por haberse cumplido el tiempo de servicios, que en los policías y en el Personal Operativo de las Instituciones de Seguridad será de 25 años, o
 
 d) Vejez, por haber llegado a los 60 años de edad y 18 años de servicio.
 
@@ -903,7 +945,9 @@ Cada operador tendrá acceso ilimitado a la información que genera y requiera c
 
 Artículo 50 quinquies. Los Centros de comando operación, monitoreo y control de video vigilancia estatales y municipales se regirán por los principios que establece la presente Ley.
 
-El personal adscrito a las áreas de despacho y video vigilancia del Centro de Información y Análisis para la Seguridad de Querétaro, así como el personal de atención a las líneas de emergencia 9-1-1, 089 o cualquier otra semejante para brindar atención y respuesta a la ciudadanía, deberán contar con las certificaciones que establezcan los Centros de formación correspondientes en los términos de la ley aplicable y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El personal adscrito a las áreas de despacho y video vigilancia del Centro de Información y Análisis para la Seguridad de Querétaro, así como el personal de atención a las líneas de emergencia 9-1-1, 089 o cualquier otra semejante de gestión, atención y respuesta de emergencias estatal o municipales, deberá de regirse por los procesos de selección, evaluación y control de confianza que apliquen al personal operativo del Sistema Estatal de Seguridad en los términos de esta Ley y conforme al servicio profesional de carrera que establezca cada institución para el personal adscrito a las mismas, quienes deberán contar con las certificaciones que establezcan los Centros de formación correspondientes en los términos de la ley aplicable y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
 
 ### Capítulo Octavo. De las instalaciones estratégicas
 
@@ -1030,6 +1074,12 @@ La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del 
 ###### Artículo 68.
 
 La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro, se coordinará o auxiliará de los organismos gubernamentales, no gubernamentales o de la sociedad civil que correspondan, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal la Ley de Seguridad para el Estado de Querétaro y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 68 Bis.
+
+Los evaluadores de riesgos y los supervisores de medidas cautelares de la Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro, deberán someterse a los principios y mecanismos del Servicio Profesional de Carrera, certificación y capacitación que establezcan los Centros de formación correspondientes en los términos de la normatividad aplicable y la suficiencia presupuestaria y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
 
 ## Título Cuarto. De la transparencia y acceso a la información
 
@@ -1404,3 +1454,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN MATERIA DE PROFESIONALIZACIÓN PARA LAS INSTITUCIONES DE SEGURIDAD EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
