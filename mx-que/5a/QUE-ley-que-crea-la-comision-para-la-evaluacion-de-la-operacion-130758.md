@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion-130
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-03"
-last_updated: "2022-06-10"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA LA COMISIÓN PARA LA EVALUACIÓN DE LA OPERACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO DEL ESTADO DE QUERÉTARO, DENOMINADA "COSMOS"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 87 del Periódico Oficial del Estado de Querétaro, el miércoles 3 de octubre de 2018.
 
@@ -265,7 +265,9 @@ c) Un representante técnico especializado de la Secretaría de Seguridad Ciudad
 
 d) Un representante técnico especializado de la Fiscalía General del Estado.
 
-III. De Capacitación, la cual se integrará con los siguientes miembros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+III. De Servicio Profesional de Carrera, la cual se integrará con los siguientes miembros:
 
 a) Un representante del Poder Judicial;
 
@@ -401,7 +403,9 @@ I. De Normatividad: Tiene a su cargo la construcción de propuestas para la adec
 
 II. De Tecnologías de la Información: Tiene a su cargo la atención de las actividades necesarias para lograr la interconexión, uso de tecnología y coordinación de las Instituciones y autoridades que operan el Sistema de Justicia Penal Acusatorio a través del Sistema Informático Único (SIU);
 
-III. De Capacitación: Tiene a su cargo la promoción de la capacitación de los operadores en formación inicial y básica, tendientes a consolidar el servicio profesional de carrera en el ámbito de la competencia de los operadores del Sistema de Justicia Penal Acusatorio del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+III. De Servicio Profesional de Carrera: Tiene a su cargo la promoción de la capacitación de los operadores en formación inicial y básica, tendientes a consolidar el servicio profesional de carrera en el ámbito de la competencia de los operadores del Sistema de Justicia Penal Acusatorio del Estado de Querétaro;
 
 IV. De Justicia para Adolescentes: Tiene a su cargo la elaboración de propuestas de acciones que garanticen los derechos de las niñas, niños y adolescentes en los procesos jurisdiccionales en materia penal;
 
@@ -604,3 +608,13 @@ El Director General del organismo público descentralizado denominado Centro de 
 ###### ARTÍCULO SÉPTIMO.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN MATERIA DE PROFESIONALIZACIÓN PARA LAS INSTITUCIONES DE SEGURIDAD EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
