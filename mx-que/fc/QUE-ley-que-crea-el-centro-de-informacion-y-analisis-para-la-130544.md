@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-centro-de-informacion-y-analisis-para-la-130544
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-17"
-last_updated: "2023-10-20"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 17 de agosto de 2018.
 
@@ -127,7 +127,9 @@ IX. Resguardar las bases de datos de seguridad en los términos y disposiciones 
 
 X. Mantener y gestionar la actualización permanente de las bases de datos en materia de seguridad;
 
-XI. Establecer y operar un sistema de operación cibernética, con el fin de detectar actividades ilícitas y riesgos para la sociedad;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Establecer y operar un sistema de seguridad cibernética para detectar actividades de riesgo o daño a las bases de datos y sistemas de información de los centros de comunicación, comando operación, monitoreo y control de video vigilancia estatales y municipales y los Centros de Atención de Llamadas de Emergencia;
 
 XII. Garantizar la integridad de la información recabada, generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y que forme parte del banco estatal de datos sobre seguridad;
 
@@ -165,13 +167,21 @@ XXV. Compartir la información, sobre seguridad pública que corresponda, a trav
 
 XXVI. Coordinar el Registro Público Vehicular en el Estado;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXVII. Establecer los lineamientos para la instalación de los arcos lectores de identificación por radiofrecuencias (RFID) y sistemas de lectura de matrículas (LPR), que se pretendan colocar y poner en funcionamiento en el estado de Querétaro; y
+XXVII. Establecer los lineamientos para la instalación de los arcos lectores de identificación por radiofrecuencias (RFID) y sistemas de lectura de matrículas (LPR), que se pretendan colocar y poner en funcionamiento en el estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXVIII. Promover la implementación y ejecución, en los términos de las disposiciones jurídicas aplicables y la suficiencia presupuestaria, el servicio profesional de carrera para el personal adscrito al Centro cuyas funciones sean de atención a las líneas de emergencia 9-1-1, 089, despacho, videovigilancia o cualquier otra semejante de gestión, atención y respuesta de emergencias.
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXIX. Proponer, en el marco de la coordinación interinstitucional, los lineamientos para que los Centros de comando operación, monitoreo y control de video vigilancia estatales y municipales y los Centros de Atención de Llamadas de Emergencia, establezcan el servicio profesional de carrera para el personal que atienda las líneas de emergencia 9-1-1, 089, despacho, videovigilancia o cualquier otra semejante de gestión, atención y respuesta de emergencias
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XXVIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+XXX. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -606,3 +616,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga”.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN MATERIA DE PROFESIONALIZACIÓN PARA LAS INSTITUCIONES DE SEGURIDAD EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
