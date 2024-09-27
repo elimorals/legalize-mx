@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2023-06-12"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -155,6 +155,10 @@ VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un part
 
 IX. Dañar en cualquier forma el desarrollo de la campaña electoral en la que participe una mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad.
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+X. Cuando se acrediten aquellas acciones que lesionen o dañen la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
+
 ### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
@@ -170,6 +174,10 @@ Es derecho de los ciudadanos ser votado para todos los puestos de elección popu
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
 Aquellas personas que vivan con una discapacidad que las imposibilite para emitir su derecho al voto, podrán ser asistidas por una persona de su confianza, siempre y cuando no sea representante de casilla.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Los derechos político-electorales, se ejercerán libres de violencia política en razón de género, sin discriminación por origen étnico o nacional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -1343,6 +1351,10 @@ El titular del Órgano Interno de Control del Instituto deberá presentar al Con
 
 El titular del Órgano Interno de Control deberá acudir ante el Consejo General cuando así lo requiera el Consejero Presidente o a solicitud de la mayoría de los integrantes de aquel.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+En la designación del titular del Órgano Interno de Control del Instituto, se deberá garantizar la participación de la mujer mediante la aplicación del principio de paridad de género de manera alternada, por lo anterior, la convocatoria deberá de ser pública de manera exclusiva para mujeres u hombres según corresponda el periodo para ocupar la titularidad del órgano interno de control.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
 APARTADO TERCERO
@@ -1953,25 +1965,31 @@ El Órgano Interno de Control contará con la estructura orgánica, personal y r
 
 El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 69 d). El Tribunal contará con una Defensoría Jurídica para la Protección de los Derechos Político-Electorales, con autonomía técnica y operativa, cuya finalidad es brindar de manera gratuita a los ciudadanos que ejerzan cargos públicos de elección popular, los servicios de asesoría y defensa de su derecho político electoral en la vertiente del ejercicio del cargo.
+En la designación del titular del Órgano Interno de Control del Tribunal, se deberá garantizar la participación de la mujer mediante la aplicación del principio de paridad de género de manera alternada, por lo anterior, la convocatoria deberá de ser pública de manera exclusiva para mujeres u hombres según corresponda el periodo para ocupar la titularidad del órgano interno de control.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 69 e). La Defensoría tiene por objeto ser una instancia accesible a (sic) para trámite, seguimiento y conclusión del Juicio para la protección de los derechos político-electorales.
+ARTÍCULO 69 d). El Tribunal contará con una Defensoría Jurídica para la Protección de los Derechos Político-Electorales, con autonomía técnica y operativa, con independencia en sus decisiones, cuya finalidad es brindar de manera gratuita, los servicios de orientación, asesoría y representación jurídica en los supuestos que determinan las leyes.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+Los servicios se prestarán a favor de personas en situación de vulnerabilidad, antes, durante y después de los procesos electorales y de los mecanismos de participación ciudadana, siempre y cuando sea competencia de la Defensoría.
 
-ARTÍCULO 69 f). Los servicios de la Defensoría sólo se brindarán a todos los ciudadanos en el ámbito local, no así en el federal, ni a los partidos políticos o sus representantes. La representación se hará únicamente ante el Tribunal Electoral del Estado de Michoacán.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 69 e). La Defensoría tiene por objeto ser una instancia accesible para trámite, seguimiento y conclusión de los juicios ante las instancias que deriven de la cadena impugnativa.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 69 f). Los servicios de la Defensoría se brindarán a los ciudadanos con residencia en el Estado de Michoacán, siempre que se cumplan los requisitos para ello, pero se abstendrá de prestarlos a los dirigentes de partidos políticos o sus representantes. La representación se hará ante el Tribunal Electoral del Estado de Michoacán y organismos jurisdiccionales que deriven de la cadena impugnativa, y, ante el Instituto Electoral de Michoacán, en casos de paridad y violencia política en razón de género, o en aquellos casos que sean de su competencia.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 69 g). Los servicios de la Defensoría deberán prestarse bajo los principios de legalidad, certeza, objetividad, máxima publicidad, austeridad, probidad, honestidad, honradez, imparcialidad, independencia, rendición de cuentas y transparencia.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 69 h). El servicio de la Defensoría en materia electoral, se prestará cuando medie solicitud expresa de la parte interesada de quien aspire o ejerza algún cargo de elección popular, ya sea por sistema normativo indígena o de partidos políticos.
+ARTÍCULO 69 h). El servicio de la Defensoría, se prestará cuando medie solicitud expresa de la parte interesada, acreditando el interés jurídico y se cumplan con los requisitos establecidos para tal efecto. Además el servicio se prestará cuando sea necesario, con los intérpretes y traductores en lengua de señas mexicanas y lengua materna indígena, sistema braille y las medidas necesarias para un mejor servicio.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -2975,9 +2993,9 @@ Los partidos políticos harán uso del tiempo en radio y televisión que conform
 
 Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato o, en su caso, con la cancelación de dicho registro. De comprobarse la violación a esta norma en fecha posterior a la de postulación del candidato por el partido de que se trate, el Instituto negará el registro legal del infractor.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Las y los precandidatos, partidos políticos y coaliciones, deberán abstenerse de expresiones que impliquen calumnia, que discriminen o ejerzan actos que constituyan violencia política por razones de género durante las precampañas y en la propaganda política que se utilice durante las mismas. Por lo tanto, su propaganda no deberá atentar contra los derechos fundamentales de la honra y dignidad de las personas, ni contener elementos que configuren la violencia política por razones de género.
+Las y los aspirantes, precandidatos y candidatos incluidos los independientes, partidos políticos y coaliciones, deberán abstenerse de expresiones que impliquen calumnia, degraden, denigren, discriminen o ejerzan actos u omisiones que constituyan violencia política por razones de género durante las precampañas, campañas y en la propaganda política o electoral que se utilice durante las mismas. Por lo tanto, su propaganda no deberá atentar contra los derechos fundamentales de la honra y dignidad de las personas, ni contener elementos que configuren la violencia política por razones de género.
 
 ###### ARTÍCULO 159.
 
@@ -4299,6 +4317,10 @@ e) La utilización de programas sociales y de sus recursos, del ámbito federal,
 
 f) El incumplimiento de las disposiciones aplicables en materia de mecanismos de participación ciudadana, conforme a lo establecido en el presente Código, la Ley de la materia y/o su Reglamento, así como cualquiera de las disposiciones contenidas en este Código.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+g) Cuando se acredite el hecho de menoscabar, limitar o impedir el ejercicio de los derechos político-electorales de las mujeres o se incurra en actos u omisiones constitutivos de violencia política en razón de género, en términos del presente Código.
+
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 VIII. Constituyen infracciones al presente Código de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección. Se considerará infracción de los notarios públicos, negarse injustificadamente a dar fe de hechos u omisiones cometidos en contra de una mujer en el ejercicio de su derecho al voto y su derecho a ser votada en los cargos de elección popular, así como negarse a certificar documentos concernientes con los actos u omisiones que constituyen la violencia política por razones de género.
@@ -5268,6 +5290,10 @@ c) Disculpa pública; y,
 d) Medidas de no repetición.
 
 Las autoridades vinculadas en las medidas deberán dar cumplimiento en sus términos a las medidas que se dicten en los procedimientos y en caso de incumplimiento se impondrá una medida de apremio.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Cuando la víctima ejerza un cargo público, la autoridad electoral tiene el deber de consultar a la víctima de violencia política en razón de género, si requiere que continúen vigentes las medidas de protección ordenadas en su favor a pesar de que haya conclnido (sic) su encargo, hasta en tanto las requiera la víctima o así lo considere la autoridad competente, a fin de garantizar el respeto a sus derechos humanos y salvaguardar plenamente su integridad.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
@@ -6822,3 +6848,21 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento.
 
 Tercero. Notifíquese el presente Decreto a todas las comunidades y pueblos indígenas del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 406.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 69 D), 69 E); 69 F) Y 69 H) DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 408.- ARTÍCULO ÚNICO.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 69 C) DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 409.- ARTÍCULO ÚNICO.- SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 3 BIS Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4; SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 158; Y, SE ADICIONA EL INCISO G) A LA FRACCIÓN VII DEL ARTÍCULO 230 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 264 OCTIES, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
