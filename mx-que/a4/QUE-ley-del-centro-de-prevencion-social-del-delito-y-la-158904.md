@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-centro-de-prevencion-social-del-delito-y-la-158904"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-10"
-last_updated: "2022-10-31"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 42 del Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2022.
 
@@ -117,9 +117,15 @@ XVII. Propiciar que las instituciones públicas estatales y municipales implemen
 
 XVIII. Fomentar la implementación de acciones y estrategias relacionadas con los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa de conformidad con las leyes aplicables en la materia;
 
-XIX. Coadyuvar en la integración del registro de las personas que incumplen los acuerdos celebrados por los medios alternativos de solución de controversias o conflictos, para su seguimiento; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Las demás que le sean conferidas en esta Ley y en otros ordenamientos jurídicos que resulten aplicables.
+XIX. Coadyuvar en la integración del registro de las personas que incumplen los acuerdos celebrados por los medios alternativos de solución de controversias o conflictos, para su seguimiento;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Promover la implementación y ejecución, en los términos de las disposiciones jurídicas aplicables y la suficiencia presupuestaria, el servicio profesional de carrera para técnicos en prevención social, facilitadores e invitadores adscritos al Centro, y
+
+XXI. Las demás que le sean conferidas en esta Ley y en otros ordenamientos jurídicos que resulten aplicables.
 
 ### CAPÍTULO II. DEL PATRIMONIO DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
@@ -407,6 +413,20 @@ Los titulares de las unidades administrativas del Centro, durante sus ausencias 
 
 Todos los servidores públicos adscritos al Centro que en el ejercicio de sus funciones incumplan las obligaciones que legalmente les corresponden, serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro y las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+## TÍTULO QUINTO. DEL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 26.
+
+Los técnicos en prevención social, facilitadores e invitadores adscritos al Centro deberán someterse a los principios y mecanismos del Servicio Profesional de Carrera, certificación y capacitación que establezcan los Centros de formación correspondientes en los términos de la normatividad aplicable y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -498,3 +518,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. Los asuntos que en materia forestal se encuentren en trámite por parte de la Secretaría de Desarrollo Sustentable del Poder Ejecutivo, así como de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo, al momento de la entrada en vigor de la presente ley, continuarán sustanciándose hasta su total conclusión.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro la "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN MATERIA DE PROFESIONALIZACIÓN PARA LAS INSTITUCIONES DE SEGURIDAD EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
