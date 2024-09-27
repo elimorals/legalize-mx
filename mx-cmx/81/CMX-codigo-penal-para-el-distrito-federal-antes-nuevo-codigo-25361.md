@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2024-08-23"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -4670,9 +4670,9 @@ Si el responsable de los delitos previstos en este artículo es un defensor o as
 
 Se impondrán de seis meses a cinco años de prisión y de cien a quinientos días multa, a quien después de la ejecución de un delito y sin haber participado en éste:
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-I.- Ayude en cualquier forma al delincuente a eludir las investigaciones o a sustraerse de ésta;
+I.- Ayude directa o indirectamente en cualquier forma a un presunto responsable de la comisión de un delito o a un delincuente a eludir las investigaciones o a evadir la acción de la justicia;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4689,6 +4689,14 @@ V.- No procure por los medios lícitos que tenga a su alcance y sin riesgo para 
 ###### ARTÍCULO 321.
 
 No comete el delito a que se refiere al artículo anterior, quien oculte al responsable de un hecho calificado por la ley como delito o impida que se averigüe, siempre que el sujeto tenga la calidad de defensor, ascendiente o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, por adopción, por afinidad hasta el segundo grado, cónyuge, concubina o concubinario o persona ligada con el delincuente por amor, respeto, gratitud o estrecha amistad.
+
+> <small>(ADICIONADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Las excusas absolutorias previstas en el párrafo anterior no serán aplicables cuando el infractor que se oculte sea responsable de los delitos de feminicidio, transfeminicidio u homicidio.
+
+> <small>(ADICIONADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 321 BIS.- La pena establecida en el artículo 320 será de 2 a 8 años de prisión y de 500 a 1000 días de multa cuando el delito encubierto sea el de feminicidio o transfeminicidio.
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
@@ -6927,3 +6935,11 @@ G.O. 23 DE AGOSTO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 320; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 321 Y SE ADICIONA UN ARTÍCULO 321 BIS AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
