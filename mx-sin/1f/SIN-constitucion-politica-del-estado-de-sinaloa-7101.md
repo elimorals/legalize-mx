@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2023-10-25"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -749,11 +749,11 @@ d) Las personas que habiendo ejercido algún cargo de elección popular o dentro
 
 Los Diputados en funciones podrán ser nuevamente electos hasta completar un máximo de cuatro periodos consecutivos de ejercicio. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiese postulado originalmente, salvo que el interesado haya renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para una nueva postulación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se instalará invariablemente el día primero de octubre del año que corresponda a la elección del mismo, en el recinto que para el efecto determine la Ley.
+El Congreso del Estado se instalará el día treinta de septiembre del año que corresponda a la elección del mismo, en el recinto que para el efecto determine la Ley.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
 
@@ -823,11 +823,11 @@ Los delitos, actos u omisiones en que incurran los Diputados serán sancionados 
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Art. 36.
 
-El Congreso del Estado tendrá por cada año de ejercicio constitucional, dos períodos ordinarios de sesiones. El primero iniciará el primero de octubre y concluirá el treinta y uno de enero del siguiente año; y el segundo se abrirá el primero de abril y concluirá el treinta y uno de julio inmediato.
+El Congreso del Estado tendrá por cada año de ejercicio constitucional, dos períodos ordinarios de sesiones. El primero iniciará el día treinta de septiembre y concluirá a más tardar el treinta y uno de enero del siguiente año; y el segundo se abrirá el primero de abril y concluirá a más tardar el treinta y uno de julio inmediato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -4818,3 +4818,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos con representación indígena deberán facilitar los elementos y recursos materiales que se requieran para el desempeño de las actividades esenciales e indispensables del representante indígena.
 
 TERCERO. En un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, este H. Congreso deberá llevar a cabo las reformas que se deriven del mismo.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 878 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LOS ARTÍCULOS 26 Y 36 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
