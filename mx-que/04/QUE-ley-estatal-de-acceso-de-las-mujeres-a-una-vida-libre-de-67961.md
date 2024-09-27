@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-67961"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2023-03-07"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -33,7 +33,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -291,7 +293,9 @@ V. Negar injustificadamente la representación jurídica en cualquier materia qu
 
 VI. Someter a procedimientos de conciliación, negociación, mediación o acuerdo entre las partes, existiendo la presunción de alguna modalidad o tipo de violencia;
 
-VII. Proporcionar psicoterapia de agresores de violencia familiar sin la validación del Instituto Queretano de las Mujeres o sin supervisión clínica y registro del modelo terapéutico que haya probado su eficacia; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Proporcionar psicoterapia de agresores de violencia familiar sin la validación de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro o sin supervisión clínica y registro del modelo terapéutico que haya probado su eficacia; y
 
 VIII. Proporcionar a las víctimas psicoterapia de pareja o familiar sin estar debidamente acreditado para ello.
 
@@ -417,7 +421,9 @@ El Sistema Estatal estará integrado por:
 
 I. El Gobernador del Estado, quien presidirá el Sistema Estatal;
 
-II. El Titular del Instituto Queretano de la Mujer, quien ejercerá la Secretaría Técnica;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. La persona Titular de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, quien ejercerá como Secretaria Técnica;
 
 III. El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -449,9 +455,9 @@ XI. El Presidente de la Comisión de la Legislatura del Estado que sea el encarg
 
 XII. Un representante designado por cada grupo de los Municipios que correspondan a los Distritos Judiciales del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Tres representantes de Organizaciones Civiles especializadas, con un probado currículo en trabajo relativo a los derechos humanos y un minino (sic) de experiencia de cinco años, designados por la Legislatura del Estado a propuesta del Instituto Queretano de las Mujeres;
+XIII. Tres representantes de Organizaciones Civiles especializadas, con un probado currículo en trabajo relativo a los derechos humanos y un minino de experiencia de cinco años, designados por la Legislatura del Estado a propuesta de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -605,7 +611,9 @@ La atención que se proporcione al agresor en todas y cada una de las dependenci
 
 I. Se diferenciarán los talleres reeducativos de formación que se imparten a hombres en general, incluyendo a aquellos que asumen su violencia, pero que no la han ejercido, de los programas de rehabilitación o reeducación de agresores; y
 
-II. La atención a agresores se proporcionará con la supervisión del Instituto Queretano de las Mujeres, con la supervisión clínica respectiva, de conformidad a lo señalado en el Reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. La atención a agresores se proporcionará con la supervisión de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, con la supervisión clínica respectiva, de conformidad a lo señalado en el Reglamento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -627,11 +635,11 @@ IV. Incluir en la iniciativa de Presupuesto de Egresos del Estado, los recursos 
 
 V. Las demás facultades y obligaciones que le confieran esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 37.
 
-Corresponde al Instituto Queretano de las Mujeres:
+Corresponde a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro:
 
 I. Elaborar y ejecutar programas y acciones tendientes a la atención, protección y canalización de las mujeres receptoras de violencia;
 
@@ -777,9 +785,9 @@ En el caso de los agresores de violencia familiar, no serán atendidos en los mi
 
 III. Coadyuvar con la federación y los poderes del estado, así como celebrar convenios con instituciones públicas y privadas, a fin de otorgar a los receptores o generadores de violencia contra la mujer, los servicios de atención médica, psicológica o de cualquier otro tipo que sea necesaria para combatir la fuente de violencia;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Proporcionar atención médica urgente, así como promocionar, proteger y restaurar la salud física de las mujeres víctimas de violencia de género, a través del tratamiento integral e interdisciplinario, en coordinación con el Instituto Queretano de las Mujeres, la rehabilitación o referencia a instancias especializadas, información de medidas médicas alternativas si el caso lo requiere, teniendo la inexcusable obligación de dar oportuno aviso de los hechos a las instancias correspondientes;
+IV. Proporcionar atención médica urgente, así como promocionar, proteger y restaurar la salud física de las mujeres víctimas de violencia de género, a través del tratamiento integral e interdisciplinario, en coordinación con la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, la rehabilitación o referencia a instancias especializadas, información de medidas médicas alternativas si el caso lo requiere, teniendo la inexcusable obligación de dar oportuno aviso de los hechos a las instancias correspondientes;
 
 V. Coordinar sus acciones con las demás instituciones competentes en la materia, a fin de alcanzar los objetivos planteados en esta Ley;
 
@@ -911,9 +919,9 @@ VIII. Capacitar al personal de la Secretaría en materia de perspectiva de géne
 
 IX. Dar a conocer las disposiciones de la Ley Federal del Trabajo en materia de igualdad sustantiva y de obligaciones de los patrones en los casos de acoso y hostigamiento sexual a las pequeñas y medianas empresas del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-X. Establecer un comité conjunto con el Instituto Queretano de las Mujeres, para la elaboración de valoraciones e impresiones diagnósticas, que establezcan el impacto en las víctimas del acoso y hostigamiento sexual, para los efectos de los despidos y separaciones por causa justificada, previstos en la Ley Federal de la materia;
+X. Establecer un comité conjunto con la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, para la elaboración de valoraciones e impresiones diagnósticas, que establezcan el impacto en las víctimas del acoso y hostigamiento sexual, para los efectos de los despidos y separaciones por causa justificada, previstos en la Ley Federal de la materia;
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
 
@@ -1369,11 +1377,11 @@ IX. Los demás previstos en esta Ley.
 
 ### Capítulo Segundo. Del Refugio para Mujeres Víctimas de Violencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-Las autoridades que conozcan de los actos de violencia contra las mujeres previstos en esta Ley, deberán considerar el estado de riesgo en que se encuentre la víctima, por lo que de ser necesario, deberán canalizarla al Instituto Queretano de las Mujeres para ser remitidas al Refugio para Mujeres del Estado.
+Las autoridades que conozcan de los actos de violencia contra las mujeres previstos en esta Ley, deberán considerar el estado de riesgo en que se encuentre la víctima, por lo que, de ser necesario, deberán canalizarla a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro para ser remitidas al Refugio para Mujeres del Estado.
 
 El Poder Ejecutivo del Estado y los municipios, podrán celebrar convenios de colaboración con los diversos sectores social y privado con el objeto de impulsar el establecimiento, operación y permanencia de refugios destinados a este fin.
 
@@ -1508,3 +1516,33 @@ Artículo Primero. La reforma a la presente Ley entrará en vigor al día siguie
 La implementación de las disposiciones previstas en la presente Ley, se realizarán gradualmente atendiendo a la suficiencia presupuestal autorizada, en términos de las disposiciones jurídicas aplicables.
 
 Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente Ley.
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES CON MOTIVO DE LA CREACIÓN DE LA SECRETARÍA DE LAS MUJERES".]
+
+Artículo Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. La presente Ley entrará en vigor a partir del 01 de enero del año 2025.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Se deberán realizar las gestiones administrativas que correspondan ante la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para el cumplimiento de lo previsto en la presente Ley, a fin de que ésta contemple y asigne los recursos correspondientes conforme a la autorización y disponibilidad con que se cuente para la operación de la Secretaría de las Mujeres, dentro del Decreto del Presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2025 y ejercicios fiscales subsecuentes que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+Artículo Quinto. A la entrada en vigencia de la presente Ley, se trasladarán los recursos materiales, humanos y financieros con los que cuenta el Instituto Queretano de las Mujeres a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de las Mujeres, se trasladarán al Poder Ejecutivo del Estado de Querétaro, para el funcionamiento de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Sexto. A partir de la entrada en vigencia de la presente Ley todas las referencias en las disposiciones jurídicas y administrativas del Instituto Queretano de las Mujeres, se entenderán realizadas en lo conducente a favor de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento de (sic) Instituto Queretano de las Mujeres, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan, en todo aquello que no se oponga a lo dispuesto en la presente Ley.
+
+Artículo Octavo. Los programas, procedimientos, trámites que hasta antes de la entrada en vigor de la presente Ley hayan sido iniciados, aprobados y ejecutados por el Instituto Queretano de las Mujeres, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, atendiendo a su competencia.
+
+Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de las Mujeres sustituirá al Instituto Queretano de las Mujeres, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la referida Secretaría.
+
+Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
+
+Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
