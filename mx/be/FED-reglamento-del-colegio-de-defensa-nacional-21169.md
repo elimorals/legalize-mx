@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-colegio-de-defensa-nacional-21169"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2024-09-19"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2001-05-15"
 ---
 # REGLAMENTO DEL COLEGIO DE DEFENSA NACIONAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2024 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL COLEGIO DE DEFENSA NACIONAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 27 DE SEPTIEMBRE DE 2024.]</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de mayo de 2001.
 
@@ -1017,9 +1017,7 @@ La persona titular de la Sección Administrativa para el ejercicio de sus facult
 
 > <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 36 Bis.
-
-La persona titular de la Oficina de Calidad, que debe tener el grado de Capitán Segundo Oficinista, tiene las facultades siguientes:
+ARTÍCULO 36 BIS.- La persona titular de la Oficina de Calidad, que debe tener el grado de Capitán Segundo Oficinista, tiene las facultades siguientes:
 
 I. Asesorar a la persona titular de la Dirección en lo concerniente a los aspectos de calidad;
 
@@ -1027,9 +1025,9 @@ II. Intervenir en las políticas y procedimientos para la gestión y mejora de p
 
 III. Auxiliar a las diferentes áreas del plantel en la elaboración, ejecución, administración de proyectos, planes y programas relativos a la calidad;
 
-> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024) (F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 2024)
 
-ARTÍCULO 36 Bis (SIC).- La persona titular de la Oficina de Calidad para el desempeño de sus funciones cuenta con:
+ARTÍCULO 36 TER.- La persona titular de la Oficina de Calidad para el desempeño de sus funciones cuenta con:
 
 I. Grupo de planeación y coordinación, a cargo de un elemento de tropa con el grado de Sargento Primero Oficinista, quien debe coordinar, implementar, administrar, elaborar, participar y apoyar a las secciones y subsecciones en la elaboración y ejecución de proyectos, planes y programas, y
 
@@ -1735,7 +1733,9 @@ Las condecoraciones del mérito facultativo consideradas en la Ley de Ascensos y
 
 I. Primer premio, al que obtenga el primer lugar en el promedio final de sus calificaciones;
 
-I (SIC). Segundo premio, al que obtenga el segundo lugar en el promedio final de sus calificaciones, y
+> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. Segundo premio, al que obtenga el segundo lugar en el promedio final de sus calificaciones, y
 
 III. En ambos casos los promedios no pueden ser menores al 9.0.
 
