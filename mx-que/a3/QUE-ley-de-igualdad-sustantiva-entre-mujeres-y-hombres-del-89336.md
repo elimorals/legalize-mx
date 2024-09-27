@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-del-89336"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2016-10-28"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes de 10 de septiembre de 2012.
 
@@ -45,9 +45,11 @@ LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO.
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Querétaro y tienen por objeto regular, proteger y garantizar la igualdad sustantiva entre mujeres y hombres; así como proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo acciones afirmativas a favor de la equidad de género.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 2.
 
-Son principios rectores de la presente Ley: la igualdad sustantiva, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Querétaro, la Ley de Derechos Humanos del Estado de Querétaro, la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, Ley para Prevenir y Eliminar toda forma de Discriminación en el Estado de Querétaro, la Ley del Instituto Queretano de las Mujeres, los instrumentos internacionales de los que México sea parte y la legislación general en la materia.
+Son principios rectores de la presente Ley: la igualdad sustantiva, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Querétaro, la Ley de Derechos Humanos del Estado de Querétaro, la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, Ley para Prevenir y Eliminar toda forma de Discriminación en el Estado de Querétaro, la Ley de la Secretaría de las Mujeres, los instrumentos internacionales de los que México sea parte y la legislación general en la materia.
 
 ###### Artículo 3.
 
@@ -91,9 +93,11 @@ La igualdad entre mujeres y hombres implica la eliminación de toda forma de dis
 
 Los Poderes Ejecutivo, Legislativo, Judicial y los municipios del Estado ejercerán sus atribuciones en materia de igualdad sustantiva, de conformidad con la distribución de competencias previstas en la misma y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-La persona titular del Poder Ejecutivo del Estado de Querétaro, será la responsable de formular, conducir y evaluar la política de igualdad sustantiva entre mujeres y hombres en el Estado; fortalecer los mecanismos institucionales de su promoción y cumplimiento, bajo el principio de transversalidad, así como al Instituto Queretano de las Mujeres, impulsando acciones afirmativas o medidas compensatorias con perspectiva de género.
+La persona titular del Poder Ejecutivo del Estado de Querétaro, será la responsable de formular, conducir y evaluar la política de igualdad sustantiva entre mujeres y hombres en el Estado; fortalecer los mecanismos institucionales de su promoción y cumplimiento, bajo el principio de transversalidad, así como a la Secretaría de las Mujeres, impulsando acciones afirmativas o medidas compensatorias con perspectiva de género.
 
 Para el ejercicio de sus facultades, en materia de igualdad sustantiva entre mujeres y hombres, la persona titular del Poder Ejecutivo del Estado de Querétaro, deberá incluir en el proyecto de presupuesto de egresos del ejercicio fiscal que corresponda, una partida presupuestal suficiente que garantice la permanencia de los programas que al efecto se formulen.
 
@@ -165,9 +169,11 @@ II. El Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-El Poder Ejecutivo del Estado será el responsable de la aplicación de los instrumentos para la igualdad sustantiva entre mujeres y hombres, a través del Instituto Queretano de las Mujeres.
+El Poder Ejecutivo del Estado será el responsable de la aplicación de los instrumentos para la igualdad sustantiva entre mujeres y hombres, a través de la Secretaría de las Mujeres.
 
 ### Capítulo Segundo. Del Sistema para la Igualdad Sustantiva entre Mujeres y Hombres
 
@@ -185,7 +191,9 @@ El Sistema se integrará de la siguiente manera:
 
 I. Un Presidente, que será la persona titular del Poder Ejecutivo o la que ésta determine;
 
-II. Una Secretaria Técnica, que será la Directora del Instituto Queretano de las Mujeres;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+II. Una Secretaria Técnica, que será la persona Titular de la Secretaría de las Mujeres;
 
 III. La Secretaría de Desarrollo Sustentable;
 
@@ -207,9 +215,11 @@ XI. Cuatro representantes de la sociedad civil e instituciones académicas.
 
 El Sistema sesionará de manera ordinaria como mínimo cada seis meses y de manera extraordinaria cuando sea convocado. Ejercerá sus funciones, en los términos del Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-El Instituto Queretano de las Mujeres coordinará las acciones que el Sistema genere para la organización y el funcionamiento del Sistema, así como las disposiciones necesarias para vincularlo con otros similares de carácter local o nacional.
+La Secretaría de las Mujeres coordinará las acciones que el Sistema genere para la organización y el funcionamiento del Sistema, así como las disposiciones necesarias para vincularlo con otros similares de carácter local o nacional.
 
 ###### Artículo 19.
 
@@ -227,11 +237,15 @@ V. Promover el desarrollo de programas y servicios que fomenten la igualdad entr
 
 ### Capítulo Tercero. Del Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 20.
 
-El Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres, será elaborado y propuesto por el Instituto Queretano de las Mujeres y tomará en cuenta las condiciones sociales y culturales de la Entidad, así como las particularidades de la desigualdad en cada región del Estado. Este Programa deberá ajustarse al Plan Estatal de Desarrollo.
+El Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres, será elaborado y propuesto por la Secretaría de las Mujeres y tomará en cuenta las condiciones sociales y culturales de la Entidad, así como las particularidades de la desigualdad en cada región del Estado. Este Programa deberá ajustarse al Plan Estatal de Desarrollo.
 
-El Programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley y deberá ser revisado cada tres años por el Instituto Queretano de las Mujeres para adecuarse a los objetivos del Sistema.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+El Programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley y deberá ser revisado cada tres años por la Secretaría de las Mujeres para adecuarse a los objetivos del Sistema.
 
 En aras de lograr la transversalidad, propiciará que los programas sectoriales, institucionales y especiales del Estado de Querétaro tomen en cuenta los criterios e instrumentos de esta Ley.
 
@@ -417,9 +431,11 @@ IV. Promover la utilización de un lenguaje con perspectiva de género en la tot
 
 Toda persona tendrá derecho a que las autoridades y organismos públicos estatales y municipales, previo cumplimiento de los requisitos que la ley de la materia establezca, le proporcionen la información que les solicite sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-La persona titular del Poder Ejecutivo del Estado de Querétaro, por conducto del Instituto Queretano de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
+La persona titular del Poder Ejecutivo del Estado de Querétaro, por conducto de la Secretaría de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
 
 ###### Artículo 37.
 
@@ -429,13 +445,17 @@ Los acuerdos y convenios que en materia de igualdad celebren el Gobierno del Est
 
 ### Capítulo Primero. Del seguimiento, evaluación y monitoreo
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 38.
 
-El Instituto Queretano de las Mujeres, con base en lo dispuesto en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Estado de Querétaro.
+La Secretaría de las Mujeres, con base en lo dispuesto en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-El Instituto Queretano de las Mujeres contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres y el efecto de las políticas públicas aplicadas en esta materia en el Estado de Querétaro.
+La Secretaría de las Mujeres contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres y el efecto de las políticas públicas aplicadas en esta materia en el Estado de Querétaro.
 
 ###### Artículo 40.
 
@@ -510,3 +530,33 @@ Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publ
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase la presente al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES CON MOTIVO DE LA CREACIÓN DE LA SECRETARÍA DE LAS MUJERES"]
+
+Artículo Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. La presente Ley entrará en vigor a partir del 01 de enero del año 2025.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Se deberán realizar las gestiones administrativas que correspondan ante la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para el cumplimiento de lo previsto en la presente Ley, a fin de que ésta contemple y asigne los recursos correspondientes conforme a la autorización y disponibilidad con que se cuente para la operación de la Secretaría de las Mujeres, dentro del Decreto del Presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2025 y ejercicios fiscales subsecuentes que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+Artículo Quinto. A la entrada en vigencia de la presente Ley, se trasladarán los recursos materiales, humanos y financieros con los que cuenta el Instituto Queretano de las Mujeres a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de las Mujeres, se trasladarán al Poder Ejecutivo del Estado de Querétaro, para el funcionamiento de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Sexto. A partir de la entrada en vigencia de la presente Ley todas las referencias en las disposiciones jurídicas y administrativas del Instituto Queretano de las Mujeres, se entenderán realizadas en lo conducente a favor de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento de (sic) Instituto Queretano de las Mujeres, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan, en todo aquello que no se oponga a lo dispuesto en la presente Ley.
+
+Artículo Octavo. Los programas, procedimientos, trámites que hasta antes de la entrada en vigor de la presente Ley hayan sido iniciados, aprobados y ejecutados por el Instituto Queretano de las Mujeres, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, atendiendo a su competencia.
+
+Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de las Mujeres sustituirá al Instituto Queretano de las Mujeres, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la referida Secretaría.
+
+Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
+
+Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
