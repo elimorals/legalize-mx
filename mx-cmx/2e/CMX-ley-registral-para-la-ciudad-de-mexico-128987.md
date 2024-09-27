@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-la-ciudad-de-mexico-128987"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2018-06-11"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128987&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-31"
 
 LEY REGISTRAL PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -672,7 +672,9 @@ III. El nombre del Director General, Director de Mediación, Subdirector de Medi
 
 IV. La fecha de celebración del convenio, número del convenio y número de registro que le corresponda en su caso;
 
-V. El acuerdo de los mediados relativo a la voluntad de inscripción del convenio y sus efectos de conformidad con lo dispuesto por el segundo párrafo del artículo 3044 del Código;
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+V. El acuerdo de los mediados relativo a la voluntad de inscripción del convenio;
 
 VI. Los acuerdos donde consten las obligaciones de dar, hacer o no hacer a que se refiere la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México; y
 
@@ -902,9 +904,11 @@ Las anotaciones preventivas a que se refiere el artículo 3035 del Código caduc
 
 No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea presentada al Registro Público de la Propiedad de la Ciudad de México antes de que caduque el asiento.
 
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 79.
 
-Las anotaciones preventivas que se originen por resoluciones judiciales o administrativas de carácter definitivo, así como las declaraciones de utilidad pública y los convenios emanados del procedimiento de mediación a que se refiere la fracción VII del artículo 3043 del Código que tengan efectos definitivos, no caducan.
+Las anotaciones preventivas que se originen por resoluciones judiciales o administrativas de carácter definitivo, que tengan efectos definitivos, no caducan.
 
 ### CAPÍTULO QUINTO. DE LA PUBLICIDAD Y DE LAS NOTIFICACIONES
 
@@ -1153,3 +1157,13 @@ QUINTO.- Las alusiones a la Dependencia encargada del control Interno del Gobier
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiséis días del mes de abril del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIP. IVÁN TEXTA SOLIS, PRESIDENTE.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA.- DIP. FRANCIS IRMA PIRIN CIGARRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de mayo del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, JOSÉ RAMÓN AMIEVA GÁLVEZ, FIRMA.- EL SECRETARIO DE GOBIERNO, GUILLERMO OROZCO LORETO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3044 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 50 Y EL ARTÍCULO 79 DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
