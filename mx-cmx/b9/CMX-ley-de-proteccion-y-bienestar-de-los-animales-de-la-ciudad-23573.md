@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2024-06-07"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -122,9 +122,9 @@ IV. Deportivos;
 
 V. Adiestrados;
 
-> <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Perros de Asistencia.
+VI. Perros de Asistencia a personas con discapacidad y otras condiciones;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -154,9 +154,9 @@ XII. Para utilización en investigación científica;
 
 XIII. Seguridad y Guarda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Animaloterapía;
+XIV. Animales de asistencia en terapia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -202,9 +202,13 @@ II. Animal: Ser vivo no humano, pluricelular, sintiente, consciente, constituido
 
 III. Animal abandonado o en situación de abandono: El que queda sin el cuidado o protección de sus personas tutoras responsables, poniendo en riesgo su integridad física o vida, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto que éstos realicen funciones de vigilancia, protección, guardia detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
+IV. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por la autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto de que éstos realicen funciones de vigilancia, protección, guardia, detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, asistencia a personas con discapacidad u otras condiciones que lo requieran, asistencia en terapia, entretenimiento y demás acciones análogas;
+
+> <small>(ADICIONADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+IV BIS. Animal de apoyo emocional: animal de compañía que brinda apoyo emocional o terapéutico a una persona con una condición de salud mental o trastorno emocional por el simple hecho de estar presente.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -232,9 +236,9 @@ Los animales de compañía de especies de fauna silvestre estarán sujetos a lo 
 
 VII. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establecen en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
-> <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Perro de Asistencia y sus clasificaciones: el adiestrado individualmente en instituciones y centros especializados, nacionales o del extranjero, para llevar a cabo actividades de apoyo a personas con discapacidad física, mental y sensorial;
+VIII. Perro de asistencia: Ejemplar canino adiestrado individualmente en instituciones y/o centros especializados legalmente constituidos, nacionales o del extranjero con el fin de realizar tres o más habilidades para mitigar los efectos de la discapacidad física, sensorial, intelectual, orgánica y psicosocial.
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -244,9 +248,9 @@ IX. Animal para abasto: todo aquel que de acuerdo con su función zootécnica pr
 
 X. Animal para espectáculos. Los animales, que son utilizados para o en un espectáculo público o privado, fijo o itinerante, bajo el adiestramiento del ser humano, o en la práctica de algún deporte;
 
-> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-X BIS. Perro de Asistencia en proceso de entrenamiento: el que acompañado por un adiestrador debidamente acreditado por institución o centro especializado, nacional o del extranjero, se encuentra haciendo uso del Espacio Público, establecimientos mercantiles y transportes, sean de carácter público o privado, para reforzar las habilidades para las que fue adiestrado y reconocer entornos específicos;
+X BIS. Perro de asistencia en proceso de adiestramiento: el que, acompañado por un adiestrador debidamente acreditado por institución o centro especializado, nacional o del extranjero, se encuentra haciendo uso del Espacio Público, establecimientos mercantiles y transportes, sean de carácter público o privado, para reforzar las habilidades para las que fue adiestrado.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -288,9 +292,9 @@ XVI. Aves de presa: Aves carnívoras depredadoras y que pueden ser adiestradas;
 
 XVII. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana;
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XVII BIS. Animales para Zooterapia. Son aquellos que conviven con una persona o con un grupo humano, con fines terapéuticos, para algún tipo de enfermedades neurológicas, psicológicas o siquiátricas, entre otras;
+XVII BIS. Animales de terapia: Son aquellos animales domésticos, adiestrados para apoyar en sesiones de terapia, planteadas con objetivos claros y supervisadas de manera conjunta entre profesionales de la salud y el adiestrador, para atender condiciones físicas, neurológicas, psiquiátricas o psicoemocionales.
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -486,9 +490,13 @@ XXXIV BIS 1 RUAC: Registro Único de Animales de Compañía de la Ciudad de Méx
 
 XXXV. Reglamento: El Reglamento de la Ley de Protección a los Animales del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-XXXV BIS. Registro de Perros de Asistencia: instrumento creado y administrado por la Secretaría de Salud, en el que se integran los datos de los ejemplares, sus usuarios y usuarias. En caso de menores de edad o incapaces, de quien jurídicamente los represente;
+XXXV BIS. Registro de Animales de Asistencia: instrumento creado y administrado por la Agencia, en el que se integran los datos de los perros de asistencia y las personas asistidas por ellos. En los casos de incapacidad natural y legal, el nombre del tutor también será registrado.
+
+> <small>(ADICIONADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXXV TER. Registro de Animales de Terapia: instrumento creado y administrado por la Agencia, en el que se integran los datos de los animales de terapia y de las instituciones legalmente constituidas para realizar estas intervenciones.
 
 XXXVI. (DEROGADA, G.O. 27 DE MARZO DE 2024)
 
@@ -1688,89 +1696,109 @@ Cuando el perro o gato no cuente con mecanismo de identificación, se procederá
 
 La posesión de un animal de compañía de vida silvestre requiere de autorización de las autoridades administrativas competentes. Si la persona tutora responsable o encargada no cumplimenta esta disposición o permite que deambule libremente en la vía pública sin tomar las medidas y precauciones a efecto de no causar daño físico a terceras personas, será sancionada en términos de esta Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 34.
 
-Todo Perro de Asistencia tiene acceso libre e irrestricto al Espacio Público, establecimientos mercantiles, instalaciones, o transportes, individuales o colectivos, sean de carácter público o privado, siempre que vaya acompañado de la persona a la que asiste. Esta disposición aplica igualmente al Perro de Asistencia en proceso de entrenamiento.
+Todo perro de asistencia tiene acceso libre e irrestricto al Espacio Público, establecimientos mercantiles, instalaciones o transportes, individuales o colectivos, sean de carácter público o privado, siempre que vaya acompañado de la persona a la que asiste. Esta disposición aplica igualmente al Perro de asistencia en proceso de adiestramiento.
 
-Los Perros de Asistencia no serán considerados como animales de compañía, a efecto de los reglamentos o disposiciones para la vivienda de renta o bajo régimen de condominio, y para los padrones respectivos.
+Los perros de asistencia no serán considerados como animales de compañía, a efecto de los reglamentos o disposiciones para la vivienda de renta o bajo régimen de condominio y para los padrones respectivos.
 
-Los Perros de Asistencia tendrán acceso libre al área de trabajo de su usuario o usuaria. Esta medida aplica por igual a los centros escolares.
+Los perros de asistencia tendrán acceso libre al área de trabajo de la persona asistida. Esta medida aplica por igual a los centros escolares.
 
-Al usuario o usuaria de los Perros de Asistencia, no se le podrá exigir en ningún momento el uso de bozal en su ejemplar.
+A las personas así asistidas no se les podrá exigir en ningún momento el uso de bozal en su ejemplar.
 
-Los Perros de Asistencia podrán acceder a hospitales, públicos y privados, con excepción de las zonas restringidas por disposiciones higiénico sanitarias, siempre y cuando el usuario o usuaria del ejemplar no pueda ser auxiliado individualmente por algún familiar o el centro hospitalario no disponga de personal para dar el apoyo necesario.
+Los perros de asistencia podrán acceder a hospitales públicos y privados, con excepción de las zonas restringidas por disposiciones higiénico sanitarias, siempre y cuando la persona asistida no pueda ser auxiliada individualmente por algún familiar o el centro hospitalario no disponga de personal para dar el apoyo necesario.
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+La persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio o cobre por ello una tarifa adicional cuando se incluya un perro de asistencia, se hará acreedor a una multa de cincuenta a doscientas Unidades de Medida y Actualización vigentes en la Ciudad de México, independientemente de los delitos que se configuren por la negativa a prestar servicios que se ofrecen al público en general.
 
-La persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio o cobre por ello una tarifa adicional cuando se incluya un Perro de Asistencia, se hará acreedor a una multa de cincuenta a doscientas Unidades de Medida (sic) Actualización vigentes en la Ciudad de México, independientemente de los delitos que se configuren por la negativa a prestar servicios que se ofrecen al público en general.
+Ninguna persona debe tocar o interrumpir a un perro de asistencia que esté de servicio, en espera o en descanso, salvo que la persona asistida lo autorice.
 
-Ninguna persona debe tocar o interrumpir a un Perro de Asistencia que esté de servicio, en espera o reposando, salvo que su usuario o usuaria lo autoricen.
-
-> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 34 Bis.
 
-La Secretaría de Salud concentrará los datos de los usuarios y usuarias de un Perro de Asistencia, conforme al artículo 34 TER, creará el registro correspondiente y expedirá una identificación oficial, individual e intransferible, por persona y ejemplar.
+La Secretaría a través de la Agencia concentrará los datos de personas asistidas por perros de asistencia, así como de las personas a cargo de animales de terapia y conforme al artículo 34 Ter creará el registro correspondiente y expedirá una identificación oficial, individual e intransferible, por persona y ejemplar.
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+La Agencia podrá suscribir Convenios de Colaboración con las dependencias y entidades de la Administración Pública de la Ciudad de México, con la finalidad de coadyuvar en la captación del Registro de Perros de Asistencia.
 
-La Secretaría de Salud podrá suscribir Convenios de Colaboración con las dependencias y entidades de la Administración Pública de la Ciudad de México, con la finalidad de coadyuvar en la captación del Registro de Perros de Asistencia.
-
-> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 34 Ter.
 
-Todo Perro de Asistencia debe quedar inscrito en el registro a cargo de la Secretaría de Salud, y es obligación del usuario o usuaria o de quien jurídicamente represente a menores o incapaces que hagan uso de estos ejemplares, proporcionar para lo consecuente los siguientes datos:
+Todo perro de asistencia debe quedar inscrito en el registro a cargo de la Secretaría a través de la Agencia y es obligación de las personas asistidas o de quien jurídicamente represente a menores o a personas que requieran de la asistencia de un perro, proporcionar para lo consecuente los siguientes datos:
 
-I. Nombre, fecha de nacimiento, sexo, domicilio particular, y número de teléfono de la persona que hace uso del ejemplar;
+I. Datos de la persona asistida: nombre, fecha de nacimiento, sexo, domicilio particular, número de teléfono, comprobante de registro ante el Instituto de Personas con Discapacidad de la Ciudad de México;
 
-II. Nombre, edad, sexo, raza y clasificación del ejemplar;
+II. Datos del animal: nombre, edad, sexo, raza, clasificación del tipo de asistencia, número de registro en el Registro de animales de asistencia y de terapia, tipo y código de identificación permanente como tatuaje o microchip, además de certificado de salud y cartilla médica.
 
-III. Acreditación de la institución o centro especializado, nacional o del extranjero, que haya llevado a cabo el adiestramiento del ejemplar, y
+III. Documento que acredite que el animal ha sido adiestrado, emitido por una institución o centro especializado legalmente constituido, nacional o del extranjero;
 
-IV. Nombre, Cédula Profesional y un número de teléfono para contacto inmediato del Médico Veterinario encargado de la salud del ejemplar.
+IV. Nombre, Cédula Profesional y un número de teléfono para contacto inmediato del Médico Veterinario encargado de la salud del perro; y
 
-> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+V. Datos de contacto de la persona asistida, en caso de emergencia.
 
-###### Artículo 34 Quater.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Los usuarios o usuarias de un Perro de Asistencia, además de cumplir con las disposiciones de la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables, tienen obligación de:
+###### Artículo 34 Quáter.
 
-I. Portar para su apoyo la credencial emitida por la Secretaría de Salud, con el objeto de constar que el ejemplar responde a las características de su adiestramiento;
+Las personas asistidas por el perro de asistencia, así como las personas a cargo de animales de terapia, además de cumplir con las disposiciones de la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables, tienen obligación de:
+
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+I. Portar para su apoyo la credencial emitida por la Agencia, con el objeto de hacer constar que el ejemplar responde a las características de su adiestramiento;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
 II. Llevar al ejemplar a revisión médico veterinaria cuando menos tres veces al año, o tantas veces como lo requiera;
 
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+
 III. Respetar y cumplir el calendario de medicina preventiva establecido por el Médico Veterinario encargado de la salud del ejemplar, mismo que incluirá:
 
-IV. Desparasitación interna y externa cada seis meses o antes si fuera necesario;
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-V. Las vacunaciones correspondientes, y
+IV. Desparasitación interna y externa con la frecuencia que el Médico Veterinario encargado determine;
 
-VI. Limpieza dental.
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+V. Las vacunaciones correspondientes;
+
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Profilaxis dental;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
 VII. Brindar al ejemplar la atención higiénica y estética que requiera y mantenerlo cepillado;
 
-VIII. Acreditar que el ejemplar tiene implantada la identificación electrónica o microchip, y documentar el código que lo identifica unívocamente;
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-IX. Respetar estrictamente la dieta y horarios de alimentación del ejemplar;
+VIII. Acreditar, en el caso de perros y gatos, que el ejemplar se encuentra registrado en el RUAC y que además cuenta con una forma de identificación permanente, como un tatuaje o un implante electrónico, y documentar el código que lo identifica unívocamente;
+
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Respetar estrictamente la dieta y horarios de alimentación del ejemplar, de acuerdo a las recomendaciones del Médico Veterinario;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
 X. Respetar el periodo de recuperación del ejemplar cuando no se encuentre en condiciones aptas para desempeñar su actividad, y así lo indique el Médico Veterinario encargado de su salud, y
 
-XI. Permitir al ejemplar periodos de juego conforme a su adiestramiento, así como de descanso en lugar confortable y seguro, manteniendo en todo momento su control y cuidado.
+> <small>(REFORMADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Todo Perro de Asistencia, independientemente de su sexo, debe estar esterilizado.
+XI. Permitir al ejemplar periodos de juego conforme a su adiestramiento, así como de descanso en lugar cómodo y seguro, manteniendo en todo momento su control y cuidado.
 
-> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 34 Quintus.- La Secretaría de Salud, creará y administrará un Padrón de las instituciones o centros nacionales que se dediquen al adiestramiento de Perros de Asistencia.
+Todo perro de asistencia, independientemente de su sexo, debe estar esterilizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2023)</small>
+Artículo 34 Quintus. (DEROGADO, G.O. 27 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 35.
 
-Toda persona física o moral que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización correspondiente y a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios, a fin de que los animales reciban un trato digno y respetuoso y mantengan un estado de bienestar de acuerdo con los adelantos científicos en uso. Además, deberá cumplir con las normas oficiales mexicanas correspondientes. La tutela responsable de cualquier animal obliga a la persona tutora a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico propias de la especie. Asimismo, deberá tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y malos olores.
+Toda persona física o moral que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización correspondiente y a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios, a fin de que los animales reciban un trato digno y respetuoso y mantengan niveles adecuados de bienestar de acuerdo con los adelantos científicos en uso. Además, deberá cumplir con las normas oficiales mexicanas correspondientes. La tutela responsable de cualquier animal obliga a la persona tutora a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico propias de la especie. Asimismo, deberá tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y malos olores.
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2216,9 +2244,9 @@ III. Corresponde a los Juzgados Cívicos, siguiendo el procedimiento regulado po
 
 a). Multa de 1 a 10 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 6 a 12 horas, además de lo previsto en el último párrafo del artículo 63, por violaciones a lo dispuesto por el artículo 25 fracciones I y XI de la presente Ley;
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-b). Multa de 1 a 150 veces la Unidad de Medida y Actualización vigente, o arresto administrativo de 24 a 36 horas por violaciones a lo dispuesto por los artículos 24; fracciones VI, VIII, IX, 25, fracciones IV, V, IX, X, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXIII; 27 BIS, 28 BIS, 28 BIS 1, 32 BIS, 34, 49 y 129 de la presente Ley;
+b). Multa de 1 a 150 veces la Unidad de Medida y Actualización vigente, o arresto administrativo de 24 a 36 horas por violaciones a lo dispuesto por los artículos 24; fracciones VI, VIII, IX, 25, fracciones IV, V, IX, X, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXIII; 27 BIS, 28 BIS, 28 BIS 1, 32 BIS, 34, 34 Ter, 34 Quáter, 49 y 129 de la presente Ley;
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2461,6 +2489,14 @@ XXV. Realizar el registro estadístico de las sentencias firmes relacionadas a d
 > <small>(ADICIONADA, G.O.17 DE DICIEMBRE DE 2019)</small>
 
 XXVI. Coordinar, supervisar y administrar la operación y regulación del funcionamiento del Hospital Veterinario de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXVI Bis. Crear, integrar y mantener actualizado el Registro de datos de perros de asistencia, así como de animales de terapia; de las personas asistidas por ellos, o bien del manejador que participa en las intervenciones;
+
+> <small>(ADICIONADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XXVI Ter. Crear y administrar un Padrón de las instituciones o centros nacionales que se dediquen al adiestramiento de perros de asistencia, y;
 
 (REUBICADA [N. DE E. REUBICADA Y REFORMADA], G.O.17 DE DICIEMBRE DE 2019)
 
@@ -2871,3 +2907,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso de la Ciudad de México deberá aprobar las modificaciones necesarias a la legislación aplicable para hacerlas congruentes con disposiciones contenidas en el presente Decreto.
 
 CUARTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+G.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES VI Y XIV DEL ARTÍCULO 2; LAS FRACCIONES IV, VIII, X BIS, XVII BIS Y XXXV BIS DEL ARTÍCULO 4; EL ARTÍCULO 34; EL ARTÍCULO 34 BIS; EL ARTÍCULO 34 TER; EL PÁRRAFO PRIMERO, LAS FRACCIONES I, IV, V, VI, VIII, IX, XI Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 QUÁTER; EL PÁRRAFO PRIMERO DEL ARTÍCULO 35 Y EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 65; ASIMISMO, SE ADICIONAN LAS FRACCIONES IV BIS Y XXXV TER AL ARTÍCULO 4 Y LAS FRACCIONES XXVI BIS Y XXVI TER AL ARTÍCULO 73; Y, SE DEROGA EL ARTÍCULO 34 QUINTUS, TODO ELLO DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Dentro de los 90 días hábiles siguientes a la publicación del presente decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
