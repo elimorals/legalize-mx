@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-centro-de-prevencion-social-del-delito-y-la-158904"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-10"
-last_updated: "2022-10-31"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,479 +21,379 @@ state: "QUE"
 ---
 # LEY DEL CENTRO DE PREVENCION SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERETARO
 
-REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE DESARROLLO MUNICIPAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
-Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de diciembre de 2009.
+Ley publicada en el Número 42 del Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2022.
 
-Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal del Estado de Veracruz de Ignacio de la Llave
+MAURICIO KURI GONZÁLEZ, Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
-La Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal, en cumplimiento a lo dispuesto por el artículo 10, fracción I, de la Ley número 224 del Instituto Veracruzano de Desarrollo Municipal, tenemos a bien expedir el siguiente:
+LA SEXAGÉSIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-Reglamento Interior del Instituto Veracruzano de Desarrollo Municipal del Estado de Veracruz de Ignacio de la Llave
+CONSIDERANDO
+
+[...]
+
+Por lo anteriormente expuesto, la Sexagésima Legislatura del Estado de Querétaro, expide la siguiente:
+
+[...]
+
+Artículo Noveno. Se crea la Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, para quedar como sigue:
+
+LEY DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-El presente reglamento tiene por objeto establecer las bases para la organización, funcionamiento y operación del Instituto, conforme a lo que establecen los artículos 1 y 2 de la Ley No. 224 del Instituto Veracruzano de Desarrollo Municipal del Estado de Veracruz de Ignacio de la Llave, la distribución de atribuciones entre sus áreas, así como establecer el régimen de suplencias de sus titulares y los requisitos para su nombramiento.
+Las disposiciones contenidas en la presente ley son de orden público, interés general y observancia obligatoria en todo el Estado y tiene por objeto crear el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, y establecer su objetivo, estructura, organización y funcionamiento.
 
 ###### Artículo 2.
 
-Para los efectos de este reglamento, se entenderá por:
+Se crea el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, como un Organismo Público Descentralizado del Poder Ejecutivo del Estado de Querétaro, dotado de autonomía técnica, operativa y de gestión, con personalidad jurídica y patrimonio propios, con domicilio legal en la ciudad de Querétaro, Querétaro, y sectorizado a la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
 
-I. Contraloría Interna: Contraloría Interna del Instituto Veracruzano de Desarrollo Municipal.
-
-II. Contralor: Contralor Interno del Instituto Veracruzano de Desarrollo Municipal.
-
-III. Dirección General: La Dirección General del Instituto Veracruzano de Desarrollo Municipal.
-
-IV. Director General: El Director General del Instituto Veracruzano de Desarrollo Municipal.
-
-V. Instituto: El Instituto Veracruzano de Desarrollo Municipal.
-
-VI. Junta: La Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal.
-
-VII. Ley: La Ley Número 224 del Instituto Veracruzano de Desarrollo Municipal.
-
-VIII. Reglamento: El Reglamento Interior del Instituto Veracruzano de Desarrollo Municipal.
-
-IX. Áreas: Las previstas en el artículo 7 del Reglamento.
+Las relaciones laborales entre el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro y su personal se regirán por la Ley de los Trabajadores del Estado de Querétaro, así como lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3.
 
-El Instituto Veracruzano de Desarrollo Municipal es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, autonomía de gestión y sectorizado a la Secretaría de Gobierno, que tiene por objeto, contribuir al desarrollo de sistemas locales de profesionalización, formación y capacitación de personal, a través de la investigación, asesoría técnica, administrativa y el fomento de la cooperación intermunicipal.
+El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro tiene por objeto planear, diseñar, implementar, coordinar, supervisar, evaluar, difundir y promover políticas públicas, programas y acciones orientadas a la cultura para la paz, la prevención social de la violencia y de la delincuencia con participación comunitaria o ciudadana y fomentar la implementación de los mecanismos alternativos de solución de controversias y conflictos.
 
 ###### Artículo 4.
 
-Las áreas del Instituto, desempeñarán sus atribuciones de conformidad con las políticas, programas, criterios y lineamientos que, de conformidad con las disposiciones aplicables y sus respectivos ámbitos de competencia, ordenen la Junta y el Director General.
+Para los efectos de la presente Ley, se entenderá por:
+
+I. Centro: El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;
+
+II. Director General: el Director General del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;
+
+III. Junta de Gobierno: la Junta de Gobierno del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro; y
+
+IV. Ley: la Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
 
 ## TÍTULO SEGUNDO. DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
-### CAPÍTULO II. De la Junta de Gobierno
+### CAPÍTULO I. DE LAS ATRIBUCIONES
 
 ###### Artículo 5.
 
-La planeación, presupuestación, metas y objetivos del instituto, así como su ejecución, se realizarán conforme los principios de racionalidad, austeridad y disciplina que establecen la Constitución, la Ley, las normas, decretos y demás ordenamientos legales aplicables en el Estado.
+El Centro tendrá las siguientes atribuciones:
 
-### CAPÍTULO III. Del Director General
+I. Promover la cultura de paz, la legalidad, la prevención social del delito y la violencia, la participación comunitaria, la justicia cívica y cotidiana, y el respeto a los derechos humanos;
 
-###### Artículo 28.
+II. Establecer mecanismos efectivos de coordinación con los sectores público, privado, social y la comunidad en general, para la planeación, la implementación, el seguimiento y la evaluación de acciones en materia de prevención social del delito y la violencia;
 
-Son atribuciones del Director General del instituto, además de las establecidas en la Ley, las siguientes:
+III. Diseñar, implementar, difundir y promover políticas, programas y acciones que fomenten en la sociedad valores cívicos y culturales, fortalezcan el tejido social, induzcan conductas apegadas a la legalidad, promuevan la paz, igualdad, el respeto a los derechos humanos, la participación comunitaria y una vida libre de violencia;
 
-I. Representar legalmente al Instituto ante cualquier instancia administrativa, fiscal o jurisdiccional, de carácter federal, estatal o municipal; presentar, contestar y reconvenir demandas, oponer excepciones, comparecer en las audiencias, ofrecer y rendir pruebas, presentar alegatos, nombrar delegados o autorizados en los juicios en que el Instituto sea parte, recibir documentos y formular otras promociones en juicios civiles, fiscales, administrativos, laborales, penales o de cualquier naturaleza; así como intervenir en actos y procedimientos en general, recusar jueces o magistrados, interponer recursos, y conferir y revocar poderes generales y especiales a quien designe como mandatario del Instituto;
+IV. Impulsar la elaboración de estudios e investigaciones, e integrar la información que permita conocer el contexto de seguridad pública del estado relacionado con las causas generadoras de conductas delictivas o antisociales, su distribución geográfica y su comportamiento histórico;
 
-II. Dirigir al personal del Instituto;
+V. Publicar y difundir sus trabajos de investigación;
 
-III. Asistir a las sesiones de la Junta y fungir como Secretario Técnico de la misma;
+VI. Brindar asesoría técnica a las diversas instancias de la Administración Pública, en las materias que le competan;
 
-IV. Proponer a la Junta la política en materia de desarrollo municipal y para la cumplimentación del Plan Veracruzano de Desarrollo;
+VII. Sugerir lineamientos, en los que participen los sectores académico y de investigación, que puedan ser considerados en el diagnóstico, diseño y evaluación de las políticas aplicadas a la prevención del delito y la violencia;
 
-V. Informar a la Junta sobre los programas regionales y especiales necesarios para la ampliación y el mejoramiento de los servicios que se prestan;
+VIII. Implementar, con base en el análisis del contexto de seguridad pública del estado, acciones en materia de prevención social del delito y la violencia, y evaluar sus resultados;
 
-VI. Establecer criterios para el control de calidad en la prestación de los servicios;
+IX. Efectuar propuestas que coadyuven a la definición de objetivos, metas, indicadores, políticas, estrategias y acciones en materia de prevención social del delito y la violencia;
 
-VII. Acordar con los Jefes de Departamento del Instituto, sobre la gestión y resolución de los asuntos de sus respectivas áreas del Instituto;
+X. Emitir opiniones y recomendaciones tendientes a fortalecer la prevención social del delito y la violencia, y la participación comunitaria en materia de seguridad pública;
 
-VIII. Delegar atribuciones o facultades en los titulares de las áreas administrativas y operativas del instituto. Para su validez, los acuerdos de delegación deberán publicarse en la Gaceta Oficial del estado, con excepción de aquellas atribuciones que, conforme al presente reglamento, son conferidas a los Jefes de Departamento;
+XI. Gestionar la celebración de eventos académicos que difundan y promuevan la prevención del delito y la violencia, la participación comunitaria, la justicia cívica y cotidiana;
 
-IX. Suscribir toda clase de acuerdos, convenios y contratos con personas físicas o morales, tanto públicas como privadas, así como con el sector social para el adecuado ejercicio de las atribuciones y el correcto funcionamiento del Instituto, previa autorización de la Junta;
+XII. Desarrollar políticas públicas y programas interdisciplinarios de prevención social del delito y la violencia;
 
-X. Ordenar la implementación de los métodos y políticas que permitan el óptimo aprovechamiento de los bienes y recursos del Instituto;
+XIII. Presentar al Consejo Estatal de Seguridad el Programa Estatal de Prevención Social del Delito y Participación Comunitaria.
 
-XI. Instrumentar y supervisar programas de modernización y simplificación administrativa del Instituto;
+XIV. Establecer un banco de datos que integre información especializada, que apoye a las instancias encargadas de prevenir conductas antisociales en el desarrollo de sus funciones, pudiendo hacer uso de las tecnologías;
 
-XII. Coordinar los programas del Gobierno del Estado en materia de capacitación, profesionalización, asesoría, seguimiento y evaluación que soliciten o requieran los gobiernos municipales;
+XV. Crear una Red Ciudadana de Prevención del Delito con múltiples modalidades cuyo objetivo principal sea la promoción de la prevención del delito y la participación comunitaria;
 
-XIII. Establecer normas y políticas mediante las cuales el Instituto proporcionará datos y cooperación técnica que sean requeridos por las dependencias y entidades de la administración pública estatal y municipal;
+XVI. Gestionar la generación de espacios y apoyos institucionales para el correcto desempeño de la Red Ciudadana de Prevención del Delito de conformidad con las disposiciones jurídicas aplicables y la suficiencia presupuestaria, y coadyuvar a la publicación y difusión de obras, estudios y servicios, que deriven de la Red Ciudadana de Prevención del Delito;
 
-XIV. Instrumentar y supervisar los programas de modernización y servicios del Instituto; y
+XVII. Propiciar que las instituciones públicas estatales y municipales implementen programas y acciones en materia de participación comunitaria;
 
-XV. Las demás que le atribuyan las leyes, el presente reglamento, así como por acuerdo de la Junta o su Presidente.
+XVIII. Fomentar la implementación de acciones y estrategias relacionadas con los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa de conformidad con las leyes aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Coadyuvar en la integración del registro de las personas que incumplen los acuerdos celebrados por los medios alternativos de solución de controversias o conflictos, para su seguimiento;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Promover la implementación y ejecución, en los términos de las disposiciones jurídicas aplicables y la suficiencia presupuestaria, el servicio profesional de carrera para técnicos en prevención social, facilitadores e invitadores adscritos al Centro, y
+
+XXI. Las demás que le sean conferidas en esta Ley y en otros ordenamientos jurídicos que resulten aplicables.
+
+### CAPÍTULO II. DEL PATRIMONIO DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
 ###### Artículo 6.
 
-Los servidores públicos del Instituto estarán obligados a prestarse mutua cooperación, apoyo y asesoría para el desempeño de sus atribuciones y funciones.
+El patrimonio del Centro estará integrado por:
+
+I. Los recursos financieros que se le asignen en el Presupuesto de Egresos del Poder Ejecutivo del Estado de Querétaro para su funcionamiento;
+
+II. Los subsidios y apoyos que en efectivo o en especie, le otorguen los gobiernos federal, estatal y municipal;
+
+III. Las aportaciones que perciba conforme a los convenios o contratos que celebre;
+
+IV. Los ingresos propios que reciba por los servicios prestados;
+
+V. Los bienes muebles e inmuebles de su propiedad, los que le sean transmitidos y los que adquiera por cualquier título legal;
+
+VI. Los rendimientos que obtenga de la inversión de los recursos;
+
+VII. Las donaciones o legados que se otorguen a su favor; y
+
+VIII. Todos los demás bienes o derechos que perciba en el cumplimiento de su objeto.
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
-### CAPÍTULO IV. De las Jefaturas de Departamento
-
-###### Artículo 29.
-
-Los jefes de departamento tendrán las atribuciones generales siguientes:
-
-I. Coadyuvar en la aplicación de las políticas, estrategias y objetivos, de acuerdo con lo establecido en el Plan Veracruzano de Desarrollo;
-
-II. Acordar con el Director General, la solución de los asuntos encomendados al departamento y demás áreas de su adscripción;
-
-III. Colaborar con los demás jefes de departamento, conforme a las instrucciones del Director General para el mejor desempeño de sus actividades;
-
-IV. Dirigir el departamento, oficinas y personal de su adscripción cuidando que se desarrollen eficientemente y con sujeción a lo dispuesto por este reglamento, los manuales de organización, procedimientos y servicios al público;
-
-V. Observar el cumplimiento y apego del ejercicio de las atribuciones que este reglamento les confiere;
-
-VI. Planear, programar, organizar, dirigir y evaluar las actividades de las oficinas a su cargo, conforme a las disposiciones del Director General, así como en términos de los manuales administrativos correspondientes;
-
-VII. Coordinarse con los diversos organismos federal y estatales, competentes en materia de desarrollo municipal, para propiciar el intercambio y aprovechamiento de la información y documentación sobre programas, proyectos y acciones de carácter institucional conforme a sus ámbitos de competencia;
-
-VIII. Propiciar la vinculación con dependencias y entidades de los gobiernos federal, estatal y municipal, así como con organismos públicos o privados, instituciones académicas o asociaciones, para la implementación de programas y acciones comunes en materia de desarrollo municipal;
-
-IX. Presentar al Director General, por conducto del Departamento Administrativo del Instituto, los informes mensuales acerca de las actividades realizadas por el departamento a su cargo, sobre los avances en el cumplimiento de los objetivos y metas del Programa Operativo Anual;
-
-X. Emitir opinión sobre los acuerdos, convenios o contratos que celebre el Instituto en asuntos de su competencia;
-
-XI. Proponer acciones que simplifiquen y modernicen el funcionamiento de los servicios a su cargo;
-
-XII. Proporcionar la información, datos o cooperación técnica requerida internamente, o por otras instituciones previo acuerdo del Director General, y de conformidad con las políticas y disposiciones aplicables;
-
-XIII. Formar parte de las comisiones o comités internos de su competencia o de los que ordene el Director General;
-
-XIV. Colaborar en el diseño e instrumentación de programas destinados a incrementar la calidad y la eficiencia en las áreas a su cargo, así como en la adecuada evaluación del desempeño de los servidores públicos a su cargo;
-
-XV. Acordar con el Director General sobre el despacho, trámite y atención de los asuntos de su competencia;
-
-XVI. Promover la capacitación y el desarrollo del personal a su cargo;
-
-XVII. Proporcionar a las áreas correspondientes, previo acuerdo del Director General, los productos de las acciones generadas y proyectadas por el área a su cargo, para su adecuada promoción y difusión;
-
-XVIII. Entregar en medios electrónicos los informes de las actividades conforme a sus competencias a la unidad de acceso a la información pública, para que de conformidad con las disposiciones en materia de transparencia y acceso a la información se difundan en la página electrónica del instituto;
-
-XIX. Resguardar los archivos impresos y electrónicos de los programas, recursos y materiales autorizados, para integrar la memoria de la Institución; y
-
-XX. Las demás que le atribuyan la Ley, el presente reglamento y demás disposiciones legales aplicables, así como las que le sean conferidas por el Director General.
-
-#### SECCIÓN PRIMERA. Del Departamento de Fortalecimiento Municipal
-
-###### Artículo 30.
-
-Son atribuciones del Jefe del Departamento de Fortalecimiento Municipal:
-
-I. Diseñar, promover y ejecutar el Programa Integral de Capacitación y Profesionalización para los Servidores Públicos Municipales, previo acuerdo del Director General;
-
-II. Vigilar el cumplimiento de los requisitos para la expedición de constancias a los ponentes y participantes en los Programas de Capacitación y Profesionalización para los Servidores Públicos Municipales, con el fin de fomentar el servicio profesional de carrera en el ámbito municipal;
-
-III. Proponer al Director General acuerdos de colaboración en materia de formación de servidores públicos municipales, con instituciones educativas y organismos especializados nacionales e internacionales;
-
-IV. Presentar al Director General informes ejecutivos mensuales de las actividades en materia de capacitación, profesionalización y desarrollo institucional;
-
-V. Supervisar el diseño, elaboración y aplicación de diagnósticos municipales que permitan identificar las necesidades prioritarias de cada municipio;
-
-VI. Identificar, clasificar y canalizar el resultado de las necesidades detectadas de los municipios, a las áreas correspondientes para su atención;
-
-VII. Atender de forma oportuna las necesidades de formación institucional de los servidores públicos municipales, con base en los resultados de los diagnósticos sobre la materia;
-
-VIII. Vigilar la aplicación de herramientas de evaluación para la medición del impacto de la capacitación;
-
-IX. Proponer al Director General, el diseño de nuevas herramientas tecnológicas que tiendan a lograr un desempeño más eficiente de las administraciones públicas municipales;
-
-X. Proponer al Director General la realización de seminarios, conferencias y mesas redondas, a fin de proporcionar a los servidores públicos municipales, conocimientos en diferentes ámbitos de la Administración Municipal; y
-
-XI. Las demás que le atribuyan la Ley, el presente reglamento y demás disposiciones legales aplicables, así como las que le sean conferidas por el Director General.
-
-###### Artículo 31.
-
-A la Jefatura del Departamento de Fortalecimiento Municipal estarán adscritas la Oficina de Capacitación y Profesionalización y la Oficina de Desarrollo Institucional Municipal, que tendrán las funciones que derivan de su denominación y que les encomiende el titular de la Jefatura, en el ámbito de su competencia, así como las que señale el manual de organización del Instituto y las que por delegación deban cumplir.
-
-#### SECCIÓN SEGUNDA. Del Departamento de Estudios e Información Municipal
-
-###### Artículo 32.
-
-El Jefe del Departamento de Estudios e Información Municipal, tendrá las siguientes atribuciones:
-
-I. Promover las relaciones institucionales con y entre los municipios del Estado, así como con los de otros Estados de la República y del extranjero, con fines de intercambio de experiencias exitosas, gestión y aprovechamiento de los recursos municipales;
-
-II. Impulsar programas y acciones interinstitucionales con organismos públicos o privados, especializados en materia de desarrollo y fortalecimiento municipal, nacional o de las entidades federativas;
-
-III. Proponer al Director General los procedimientos, criterios y lineamientos para la difusión de la información Municipal;
-
-IV. Coordinar el diseño y aplicación de mecanismos que generen información estadística, económica, política, organizacional y financiera de los municipios de la entidad;
-
-V. Proporcionar asesoría a los municipios que así lo soliciten, sobre la elaboración e instrumentación de los planes municipales de desarrollo, Reglamentación, así como en temas relacionados con la administración pública y servicios públicos municipales;
-
-VI. Asesorar a los municipios que lo soliciten, sobre la integración de propuestas, proyectos, programas y acciones con base en su planeación;
-
-VII. Vigilar la planeación, diseño y ejecución de los programas de estudio, investigación y consulta de datos, para el análisis situacional de los Municipios;
-
-VIII. Proponer a la Dirección General la edición y publicación de materiales y herramientas metodológicas, así como manuales, guías, estudios, ensayos y editoriales que permitan conocer y difundir contenidos municipalistas para fortalecer la administración pública de este orden de gobierno;
-
-IX. Coordinar las actividades para la supervisión, organización, conservación, actualización, consulta y difusión del acervo bibliográfico y documental, en materia municipal;
-
-X. Promover el estudio, análisis y la investigación de políticas públicas, desarrollo regional, administración pública municipal, gobierno local, servicios públicos, desarrollo y fortalecimiento municipal, y en su caso la difusión de los mismos;
-
-XI. Proponer a la Dirección General los criterios para la consulta del material del Instituto que se hará público en su página electrónica, de conformidad con las disposiciones en materia de transparencia y acceso a la información;
-
-XII. Promover el intercambio de información y colaboración con otros organismos e instituciones;
-
-XIII. Proporcionar a solicitud de los ayuntamientos, instrumentos técnicos-jurídicos para la elaboración, adecuación y actualización del marco normativo municipal; y
-
-XIV. Las demás que le atribuyan la Ley, el presente reglamento y demás disposiciones legales aplicables, así como las que le sean conferidas por el Director General.
-
-###### Artículo 33.
-
-A la Jefatura del Departamento de Estudios e Información Municipal estarán adscritas la Oficina de Análisis y Evaluación de Proyectos, la Oficina de Investigación y Servicios Documentales, que tendrán las funciones que derivan de su denominación y que les encomiende el titular de la Jefatura, en el ámbito de su competencia, así como las que señale el manual de organización del Instituto y las que por delegación deban cumplir.
-
-#### SECCIÓN TERCERA. Del Departamento Administrativo
-
-###### Artículo 34.
-
-Son atribuciones del Jefe del Departamento Administrativo, además de las establecidas en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave y demás disposiciones, criterios y lineamientos expedidos en la materia, las siguientes:
-
-I. Representar legalmente al Instituto, para efectos del cumplimiento de sus obligaciones fiscales ante autoridades hacendarias federales, estatales o municipales, así como para la atención de las disposiciones en materia de fiscalización superior;
-
-II. Establecer, difundir y vigilar, de conformidad con las políticas institucionales, el cumplimiento de criterios y procedimientos que rijan los sistemas de recursos humanos, financieros y materiales del Instituto;
-
-III. Llevar un estricto control de los ingresos y egresos del Instituto, a través de cuentas bancarias, de conformidad con las disposiciones normativas vigentes;
-
-IV. Proporcionar a las áreas del Instituto, los recursos necesarios para la operación de los programas y servicios institucionales, de conformidad con las disposiciones normativas vigentes, previa autorización del Director General;
-
-V. Formular y presentar al Director General los manuales de organización y procedimientos del Instituto;
-
-VI. Integrar el Programa Anual de Adquisiciones del Instituto y coordinar su aplicación;
-
-VII. Fungir como Presidente del Comité de Adquisiciones del Instituto, así como administrar, controlar y vigilar la adquisición y uso adecuado de los bienes y recursos necesarios para el funcionamiento del instituto;
-
-VIII. Planear, controlar y ejecutar, previo acuerdo del Director General, las actividades de reclutamiento, selección, contratación, remuneraciones y demás incidencias del personal del Instituto, apegándose a los niveles establecidos en los tabuladores de sueldos, cuotas, tarifas y demás disposiciones aplicables;
-
-IX. Elaborar y proponer al Director General el formato para la debida fundamentación y motivación de los nombramientos de los jefes de las áreas administrativas, aplicar las sanciones administrativas correspondientes y, en su caso, proponer el cese o rescisión de la relación laboral cuando así proceda; además de proponer al Director General los cambios de adscripción del personal conforme a los perfiles, experiencia y necesidades operativas del instituto;
-
-X. Apoyar a la Dirección General en el seguimiento y atención de los conflictos y juicios de carácter laboral;
-
-XI. Presentar las declaraciones de impuestos y expedir, en su caso, las constancias de retención a los trabajadores del Instituto, de acuerdo con las disposiciones fiscales en vigor;
-
-XII. Realizar, previa autorización del Director General o de las instancias correspondientes, las gestiones necesarias para la celebración de contratos de arrendamiento, comodato o compra-venta, de conformidad con las leyes aplicables;
-
-XIII. Llevar el control y registro de los bienes muebles e inmuebles del Instituto, y del parque vehicular mediante la actualización de los expedientes y resguardos respectivos, así como programar su mantenimiento y vigilancia, y el pago de los derechos, permisos e impuestos correspondientes;
-
-XIV. Formular mensualmente los Estados Financieros del Instituto, así como el informe pormenorizado relativo a la conclusión de cada ejercicio;
-
-XV. Resguardar y custodiar la documentación contable y presupuestal comprobatoria del gasto y de los bienes patrimonio del Instituto;
-
-XVI. Verificar que se realice, oportuna y correctamente, el registro de los ingresos y egresos del Instituto;
-
-XVII. Vigilar la correcta aplicación del manual de políticas para el trámite y control de viáticos y pasajes de la Administración Pública del Estado;
-
-XVIII. Atender e informar a los auditores externos e internos y demás autoridades competentes, en la elaboración del dictamen de los estados financieros y solventar las observaciones, en coordinación con las áreas sustantivas del Instituto;
-
-XIX. Realizar el análisis, seguimiento y control de las metas, las modificaciones programático-presupuestales y las ministraciones autorizadas para el Instituto;
-
-XX. Controlar el ejercicio del presupuesto autorizado de conformidad con la normatividad vigente;
-
-XXI. Proponer las afectaciones, transferencias y recalendarizaciones presupuestales, de acuerdo con las disposiciones y lineamientos establecidos por la Secretaría de Finanzas y Planeación;
-
-XXII. Diseñar, establecer y difundir, de conformidad con las políticas institucionales y los lineamientos normativos, criterios y procedimientos, las actividades relativas a la planeación y programación de las actividades del Instituto;
-
-XXIII. Integrar los objetivos, metas e indicadores del Instituto, así como los planes y programas a corto, mediano y largo plazo, en coordinación con las áreas sustantivas, en apego a las líneas estratégicas de los planes estatal y sectorial;
-
-XXIV. Diseñar y proponer políticas y lineamientos internos para el seguimiento y evaluación del Programa Operativo Anual;
-
-XXV. Evaluar el cumplimiento de los programas institucionales y proponer al Director General, las acciones que permitan corregir y, en su caso, reorientar las acciones del Instituto; y
-
-XXVI. Las demás que le atribuyan la Ley, el presente reglamento y demás disposiciones legales aplicables, así como las que le sean conferidas por el Director General.
-
-###### Artículo 35.
-
-A la Jefatura del Departamento Administrativo estarán adscritas la Oficina de Recursos Humanos y Materiales y la Oficina de Recursos Financieros, que tendrán las funciones que derivan de su denominación y que les encomiende el titular de la Jefatura, en el ámbito de su competencia, así como las que señale el manual de organización del Instituto y las que por delegación deban cumplir.
-
-#### SECCIÓN CUARTA. De la Unidad de Acceso a la Información Pública
-
-###### Artículo 36.
-
-El funcionamiento de la Unidad de Acceso a la Información Pública del Instituto, se regirá por lo dispuesto en su Reglamento de Operación.
-
-#### SECCIÓN PRIMERA (SIC). De la Contraloría Interna
-
-###### Artículo 37.
-
-El Contralor Interno del Instituto será el servidor público designado con tal carácter por la Contraloría General a la Secretaría de Gobierno, y ejercerá las atribuciones establecidas conforme a lo dispuesto en el Reglamento Interior de la Contraloría General, además deberá:
-
-I. Establecer mecanismos de control que aseguren la eficiencia de la administración de los recursos del Instituto;
-
-II. Practicar revisiones financieras y administrativas a las áreas del Instituto que aseguren el correcto manejo de los programas y recursos;
-
-III. Vigilar el cumplimiento de la normatividad establecida en este reglamento y en los manuales administrativos por las áreas administrativas del Instituto;
-
-IV. Emitir, las recomendaciones pertinentes para los casos de incumplimiento de las disposiciones normativas; y
-
-V. Atender las quejas y denuncias presentadas en contra de los servidores públicos del instituto.
-
-La Contraloría Interna es la responsable de vigilar el cumplimiento de los servidores públicos de las disposiciones legales de su competencia.
+### CAPÍTULO I. DE LA ESTRUCTURA DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO
 
 ###### Artículo 7.
 
-El Instituto contará con la estructura administrativa y operativa siguiente:
+Para el cumplimiento de su objeto y desempeño de sus funciones, el Centro contará con la siguiente estructura:
 
-I. Dirección General
+I. La Junta de Gobierno;
 
-II. Departamento de Fortalecimiento Municipal
+II. La Dirección General;
 
-a) Oficina de Capacitación y Profesionalización
+III. El Órgano Interno de Control; y
 
-b) Oficina de Desarrollo Institucional Municipal
+IV. Las demás unidades administrativas que se requieran para el cumplimiento de sus objetivos, de conformidad con las disposiciones jurídicas aplicables y la suficiencia presupuestaria existente.
 
-III. Departamento de Estudios e Información Municipal
-
-a) Oficina de Análisis y Evaluación de Proyectos
-
-b) Oficina de Investigación y Servicios Documentales
-
-IV. Departamento Administrativo
-
-a) Oficina de Recursos Humanos y Materiales
-
-b) Oficina de Recursos Financieros
-
-V. Unidad de Acceso a la Información Pública
-
-### CAPÍTULO V. De las Suplencias de los Funcionarios del Instituto
-
-###### Artículo 38.
-
-El Director General, en sus ausencias temporales que no excedan de 15 días, será suplido por el Jefe de Departamento que él designe; cuando su ausencia sea por un término mayor, la Junta de Gobierno designará a un suplente, de entre los Jefes de Departamento del Instituto.
-
-###### Artículo 39.
-
-Los Jefes de Departamento del Instituto, en sus ausencias temporales, serán sustituidos por el servidor público que en cada caso designe el Director General.
-
-T R A N S I T O R I O S
-
-Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
-
-Artículo Segundo. Los asuntos pendientes de resolver a la entrada en vigor de este ordenamiento, continuarán su trámite y serán resueltos por el área que deba conocer de ellos conforme a este Reglamento.
-
-Artículo Tercero. En tanto se expiden los manuales de Organización, de Procedimientos y de Servicios del Instituto, el Director General estará facultado para resolver las cuestiones que dichos Manuales deben regular.
-
-Así lo aprobaron por unanimidad de votos los integrantes de la H. Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal, en la ciudad de Xalapa-Enríquez, del Estado de Veracruz de Ignacio de la Llave, por acuerdo tomado en sesión ordinaria de fecha dos de octubre de dos mil nueve.
-
-Lic. Reynaldo G. Escobar Pérez, Presidente Suplente de la Junta de Gobierno del Instituto Veracruzano de Desarrollo Municipal.- Rúbrica.
-
-Dr. Jerónimo Francisco Folgueras Gordillo, Secretario Técnico de la Junta de Gobierno.- Rúbrica.
-
-C.P. Jorge López Díaz, Suplente del Secretario de Finanzas y Planeación.- Rúbrica.
-
-Dip. Marilda Elisa Rodríguez Aguirre, Representante del Congreso del Estado integrante de la Junta de Gobierno.- Rúbrica.
-
-Mtro. José Alberto Hernández Melgarejo, Vocal Suplente del Presidente Municipal del Ayuntamiento de Xalapa.- Rúbrica.
-
-M.V.Z. Gilberto Zamorano Morfín, Vocal Suplente del Presidente Municipal del H. Ayuntamiento de Veracruz.- Rúbrica.
-
-C.P. Juan Carlos García Gutiérrez, Vocal Suplente del Presidente Municipal del H. Ayuntamiento de Córdoba.- Rúbrica.
-
-Prof. Teodoro Jiménez Reyes, Presidente Municipal del Ayuntamiento de Tancoco y Vocal de la Junta de Gobierno.- Rúbrica.
-
-C.P. David Castro Cruz, Vocal Suplente del Presidente Municipal del Ayuntamiento de Alvarado.- Rúbrica.
-
-Lic. Víctor Hugo Cuevas Rosas, Comisario Público Suplente.- Rúbrica.
-
-LAE. Alejandro Sergio López Contreras, Titular del Órgano Interno de Control de la Segob.- Rúbrica.
+### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
 ###### Artículo 8.
 
-Los servidores públicos titulares de las áreas administrativas y operativas a que refiere el artículo anterior, serán nombrados o removidos conforme a lo dispuesto por la Ley del Instituto Veracruzano de Desarrollo Municipal y la Ley Orgánica del Poder Ejecutivo del Estado.
+La Junta de Gobierno del Centro, es su órgano máximo de gobierno y se integra por:
+
+I. Un Presidente, que será el Gobernador o el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro.
+
+II. Un Secretario Técnico, que será el Director General del Centro;
+
+III. Vocales, que serán los titulares o sus respectivos representantes de las siguientes dependencias y organismos:
+
+a) El titular de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
+
+b) El titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro;
+
+c) El titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro;
+
+d) El titular de la Secretaría de Salud del Poder Ejecutivo del Estado de Querétaro;
+
+e) El titular de la Secretaría de la Juventud del Poder Ejecutivo del Estado de Querétaro;
+
+f) El titular de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro;
+
+g) El titular de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Querétaro;
+
+h) El Director General del Instituto del Deporte y la Recreación del Estado de Querétaro;
+
+i) El titular de la Defensoría de los Derechos Humanos de Querétaro, y
+
+j) La persona titular de la Secretaria Ejecutiva del Sistema Estatal de Protección a Niñas, Niños y Adolescentes del Estado de Querétaro.
+
+Cuando el Secretario de Seguridad Ciudadana funja como Presidente de la Junta de Gobierno, su suplente se integrará a la Junta.
 
 ###### Artículo 9.
 
-Cuando las necesidades del servicio lo requieran, podrán crearse nuevas áreas, por acuerdo del Director General, previa aprobación de la Junta, que deberá publicarse en la Gaceta Oficial del Estado, observando las disposiciones legales, reglamentarias y presupuestales aplicables. El acuerdo señalará expresamente las atribuciones, naturaleza, clasificación y adscripción de las áreas creadas.
+El cargo como miembro de la Junta de Gobierno es de carácter honorífico, por lo que no recibirán salario, prestación o emolumento alguno por su desempeño.
+
+Se exceptúa de lo anterior al Director General del Centro, quien recibirá la remuneración correspondiente a su encargo.
+
+Los vocales durarán en su cargo el término durante el cual conserven la representación de las dependencias y organismos de que se trate.
+
+El Presidente contará con voz y voto de calidad. Asimismo, los vocales tendrán derecho a voz y voto, a excepción del Secretario Técnico, quien podrá participar con voz, pero sin voto.
+
+Cada integrante de la Junta de Gobierno podrá ser suplido por el representante que designen.
 
 ###### Artículo 10.
 
-No se considerarán servidores públicos del instituto, los profesionistas independientes, prestadores de servicios por honorarios, asimilados a salarios, o los que formen parte de despachos externos que, en el ejercicio libre de la profesión, sean contratados por el instituto para desempeñar o prestar un servicio o asesoría.
+La Junta de Gobierno se reunirá en sesiones ordinarias por lo menos dos veces al año. Se podrá convocar a reuniones extraordinarias en razón de que exista algún asunto que así lo amerite, a juicio del Presidente de la Junta de Gobierno o del Secretario Técnico.
+
+Por instrucciones del Presidente, el Secretario Técnico podrá invitar a especialistas en la materia y académicos a las sesiones, quienes tendrán derecho a voz, pero sin voto.
 
 ###### Artículo 11.
 
-Todos los servidores públicos del instituto, así como las personas que señala el artículo anterior, estarán obligados a guardar estricta reserva y confidencialidad sobre la información de que tengan conocimiento con motivo del ejercicio de sus funciones y de conformidad con lo dispuesto por las disposiciones en materia de transparencia y acceso a la información.
+Corresponde al Secretario Técnico de la Junta de Gobierno, convocar por instrucciones de su Presidente a las sesiones de la misma, proponiendo para tal efecto el orden del día correspondiente, y levantar las actas respectivas, debiendo notificar de manera oportuna a sus miembros cuando menos con 72 horas de anticipación para sesiones ordinarias y con 48 horas para sesiones extraordinarias.
 
 ###### Artículo 12.
 
-Los jefes de departamento del instituto, deberán presentar al Director General, para su aprobación, el programa operativo del área a su cargo, correspondiente al ejercicio del año inmediato posterior, con el propósito de integrar el Programa Operativo Anual del Instituto, de acuerdo a los lineamientos que para tal efecto, emita la Secretaría de Finanzas y Planeación.
+Para la validez de los acuerdos de la Junta de Gobierno, se requerirá de la presencia de cuando menos la mitad más uno de sus miembros titulares o suplentes con derecho a voz y voto, incluidos entre ellos el Presidente.
 
 ###### Artículo 13.
 
-Los jefes de departamento del instituto deberán presentar, mensualmente el reporte del avance del programa operativo autorizado al Departamento Administrativo. Al efecto el avance se entregará, de manera escrita, dentro de los primeros tres días hábiles del mes siguiente al que se reporta, e incluirá una comparación entre los objetivos y metas contenidos en el programa y los alcanzados, para la evaluación del desempeño.
+Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos de quienes concurran a sus sesiones, en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 14.
 
-La Junta tendrá las atribuciones que señala la Ley, este reglamento y demás disposiciones aplicables.
+Son atribuciones de la Junta de Gobierno:
+
+I. Fijar las políticas y lineamientos generales a los que deberá sujetarse el Centro y definir las acciones y proyectos de trabajo, así como aprobar su estructura básica y las modificaciones que a la misma procedan, incluyendo la plantilla de personal de conformidad con las disposiciones jurídicas aplicables y la suficiencia presupuestaria;
+
+II. Aprobar los proyectos de Reglamento y sus modificaciones para turnarse por conducto del Comisionado General de Entidades Paraestatales a la persona titular de la Secretaría de Gobierno para su trámite;
+
+III. Aprobar el proyecto de ingresos y egresos del Centro y remitirlos a la Secretaría de Finanzas del Poder Ejecutivo, en términos de las disposiciones aplicables;
+
+IV. Analizar, y en su caso, aprobar los estados financieros del Centro;
+
+V. Recibir el informe anual de actividades presentado por el Director General;
+
+VI. Aprobar los programas del Centro;
+
+VII. Aprobar el calendario de sesiones; y
+
+VIII. Las demás que le sean conferidas en esta Ley y en otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 15.
 
-La Junta celebrará sus sesiones ordinarias y extraordinarias en los términos previstos por la Ley.
+Son obligaciones de los miembros de la Junta de Gobierno:
 
-En las sesiones ordinarias se tratarán asuntos relativos a la planeación, programación, presupuestación, ejecución, operación y evaluación general de las actividades del Instituto. El orden del día de las sesiones ordinarias comprenderá siempre un punto para tratar asuntos generales.
+I. Asistir puntualmente a las sesiones ordinarias y extraordinarias a las que se les convoque;
+
+II. Discutir y en su caso aprobar los asuntos y programas que sean presentados en las sesiones;
+
+III. Tomar las decisiones y medidas que en cada caso se requieran de conformidad con las disposiciones aplicables, a efecto de que el Centro cumpla con los objetivos que le competen; y
+
+IV. Las demás que determine la Junta de Gobierno.
 
 ###### Artículo 16.
 
-En las sesiones extraordinarias, se tratarán aspectos que requieran de rápida atención o solución inmediata, en función de asuntos inherentes a las funciones del organismo o de carácter contingente y que, por su importancia, impacto o por no haber podido desahogarse en sesión ordinaria, requiera someter a su consideración el Director General. Las sesiones extraordinarias se limitarán a tratar los asuntos para los que hubieran sido convocadas expresamente y el orden del día no contendrá punto alguno sobre asuntos generales.
+El Secretario Técnico, en el desempeño de sus funciones, será el responsable de ejecutar las decisiones y acuerdos que tome la Junta de Gobierno.
 
 ###### Artículo 17.
 
-La convocatoria para la celebración de las sesiones sean estas ordinarias o extraordinarias, serán notificadas por el Secretario Técnico de la Junta, a los integrantes mediante formal oficio.
+El Secretario Técnico, para el desarrollo de las sesiones, tendrá las obligaciones y atribuciones siguientes:
 
-Tratándose de sesión ordinaria, la convocatoria deberá hacerse con una anticipación de cuando menos diez días hábiles. En el caso de sesión extraordinaria, la convocatoria podrá notificarse con dos días de anticipación al de su celebración.
+I. Elaborar y proponer el orden del día de las sesiones ordinarias y extraordinarias, y las convocatorias respectivas;
+
+II. Entregar con toda oportunidad a los miembros, la convocatoria de cada sesión, así como obtener y entregar los documentos y anexos necesarios, vía electrónica o en físico, para el estudio y discusión de los asuntos contenidos en el orden del día y recabar la constancia de recibido;
+
+III. Organizar las sesiones basándose en las instrucciones de logística del Presidente, elaborar las actas correspondientes de cada sesión y remitiéndolas a revisión de sus miembros para su firma;
+
+IV. Auxiliar al Presidente en el desarrollo de las sesiones;
+
+V. Elaborar la lista de asistencia de los miembros y recabar su firma, que será parte integral del acta de la sesión respectiva;
+
+VI. Circular previamente a los miembros y presentar el proyecto de acta de la sesión o cualquier acuerdo y someterlo a la aprobación de la Junta de Gobierno, tomando en cuenta las observaciones realizadas;
+
+VII. Dar cuenta de los escritos presentados a la Junta de Gobierno;
+
+VIII. Tomar las votaciones de los miembros e informar al Presidente del resultado de las mismas;
+
+IX. Informar sobre el cumplimiento de los acuerdos de la Junta de Gobierno;
+
+X. Firmar, junto con el Presidente, todos los acuerdos tomados, sin perjuicio del derecho de los demás miembros de firmarlos;
+
+XI. Llevar el archivo de la Junta de Gobierno y un registro de las actas y acuerdos aprobados por ésta; y
+
+XII. Las demás que le sean conferidas por la presente Ley o la Junta de Gobierno.
 
 ### CAPÍTULO III. DEL DIRECTOR GENERAL DEL CENTRO
 
 ###### Artículo 18.
 
-La convocatoria para las sesiones de la Junta deberán contener:
+Al frente del Centro estará un Director General, quien será el representante legal del Centro.
 
-I. El lugar, fecha y hora en que se llevará a cabo la sesión;
+El Director General será nombrado y removido libremente por la persona Titular del Poder Ejecutivo.
 
-II. El carácter y número de la sesión;
-
-III. El orden del día; y
-
-IV. El nombre y firma de quien convoca a sesión.
+No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados.
 
 ###### Artículo 19.
 
-Se considera que existe quórum para celebrar sesiones ordinarias o extraordinarias, cuando se encuentran presentes, por lo menos, la mitad más uno de sus miembros en primera convocatoria. Cuando no se reúna el quórum necesario se procederá a realizar una segunda convocatoria y, en caso de no alcanzarse el quórum, la sesión se realizará con el número de miembros presentes. Las resoluciones se tomaran por mayoría de los miembros presentes, teniendo el presidente voto de calidad en caso de empate.
+Son requisitos para ser Director General los siguientes:
+
+I. Ser de nacionalidad mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con el grado mínimo de licenciatura en áreas afines a las ciencias sociales;
+
+III. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia jurídica;
+
+IV. Gozar de buena reputación; y
+
+V. Acreditar cuando menos cinco años de experiencia en el sector público o privado, en áreas afines a la prevención del delito y la seguridad pública.
 
 ###### Artículo 20.
 
-Las sesiones y acuerdos de la Junta se harán constar en acta circunstanciada que contendrá al menos:
+El Director General tendrá las siguientes atribuciones:
 
-I. Carácter y número de la sesión;
+I. Proponer políticas y estrategias en materia de prevención social del delito y la violencia, y la participación comunitaria;
 
-II. Lugar, fecha y hora;
+II. Promover en el ámbito de su competencia acciones afirmativas en educación, cultura, hábitos de vida saludable, con perspectiva de género y participación comunitaria, para generar entornos que favorezcan la convivencia, la paz, la cohesión social, la seguridad ciudadana y la justicia cotidiana, con respeto a los derechos humanos y no discriminación;
 
-III. Nombre y cargo de los miembros presentes;
+III. Coordinar y dirigir las acciones y políticas estatales en materia de mecanismos alternativos de solución de controversias y conflictos, justicia restaurativa y justicia cotidiana;
 
-IV. Declaración de quórum;
+IV. Promover la cultura de la paz y la legalidad;
 
-V. Orden del día;
+V. Coordinar, evaluar y dar seguimiento a las políticas, programas, proyectos y acciones transversales con enfoque diferencial y especializado de prevención de la violencia y la delincuencia, ejecutados por las instituciones integrantes del Sistema Estatal de Seguridad;
 
-VI. Acuerdo;
+VI. Establecer mecanismos de coordinación e intercambio de información y experiencias, con otras instancias gubernamentales y demás organizaciones de la sociedad relacionadas con la seguridad, para generar propuestas que tiendan a mejorar la seguridad y cohesión social;
 
-VII. Cierre de sesión y firma de los asistentes; y
+VII. Proponer y celebrar acuerdos de colaboración con los integrantes del Sistema Estatal de Seguridad y otras instituciones en términos de la normatividad aplicable;
 
-VIII. Número de páginas de que consta.
+VIII. Promover la creación de programas tendientes a la implementación de medios alternativos de solución de conflictos vecinales, con un enfoque de participación comunitaria;
+
+IX. Suscribir convenios con los ayuntamientos de los municipios, en términos de las disposiciones jurídicas aplicables, para coordinar la implementación de acciones y estrategias tendientes a la resolución de conflictos de naturaleza vecinal con base en el empleo de medios alternativos, a través de las autoridades competentes, en términos de la normatividad en la materia;
+
+X. Generar estrategias para la correcta calificación de los convenios conciliatorios que se realicen por la policía de proximidad en términos de las disposiciones aplicables;
+
+XI. Dirigir, programar y coordinar las acciones que la Junta de Gobierno le ordene realizar, para el debido cumplimiento de las funciones que le competen al Centro, de conformidad con la presente Ley y otros ordenamientos aplicables;
+
+XII. Administrar y representar legalmente al Centro ante todo tipo de autoridades, como apoderado general y actos de administración, así como a las atribuciones y limitaciones previstas en las leyes que regulen su actuación incluyendo todas aquellas facultades que requiera cláusula especial;
+
+XIII. Celebrar, otorgar y suscribir toda clase de actos y documentos jurídicos inherentes al objeto del Centro, y en cumplimiento a las instrucciones que la Junta de Gobierno le señale;
+
+XIV. Proponer a la Junta de Gobierno los precios de los bienes y servicios que el Centro puede ofertar;
+
+XV. Formular denuncias y querellas, cuando se presenten los elementos necesarios que así lo exijan, informando en la sesión inmediata que celebre la Junta de Gobierno, respecto de dichos asuntos;
+
+XVI. Ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo;
+
+XVII. Designar y remover de conformidad con las disposiciones legales aplicables al personal que requiera el Centro para su funcionamiento;
+
+XVIII. Delegar en los servidores del Centro, las atribuciones que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa;
+
+XIX. Presentar a la Junta de Gobierno, un informe anual de actividades, y los que le sean solicitados por la misma; y
+
+XX. Las demás que se (sic) le sean conferidas en la presente Ley, en otras disposiciones jurídicas aplicables o por acuerdo de la Junta de Gobierno.
 
 ### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 21.
 
-Los acuerdos que tome la Junta se registrarán con un número consecutivo, constituido por el tipo, número y año de sesión, así como por el número progresivo que le corresponda.
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro, con el objeto de apoyar la función directiva, promover los sistemas de control interno, la mejora de la gestión, competencia, facultades y atención en los procedimientos de responsabilidad administrativa.
+
+El titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Director General. El demás personal adscrito será nombrado en términos de las disposiciones jurídicas aplicables.
+
+Los servidores públicos referidos en el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, y demás disposiciones legales y administrativas aplicables.
+
+El Centro proporcionará al titular del Órgano Interno de Control, los recursos humanos y materiales requeridos para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Centro están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 ###### Artículo 22.
 
-El presidente de la Junta tendrá las siguientes atribuciones:
+El titular del Órgano Interno de Control tendrá las atribuciones siguientes:
 
-I. Presidir las sesiones de la Junta;
+I. Recibir denuncias, practicar investigaciones y, en su caso, determinar la responsabilidad administrativa de los servidores públicos de la entidad e impondrá las sanciones aplicables en los términos previstos en la ley de la materia, así como dictará las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas;
 
-II. Invitar a las sesiones a servidores públicos Federales, Estatales y Municipales;
+II. Realizar la defensa jurídica de las resoluciones que emitan en su esfera administrativa y ante los Tribunales Federales y Estatales;
 
-III. Convocar a sesiones, a través del Secretario Técnico de la Junta;
+III. Ejecutar sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
 
-IV. Resolver, en caso de empate, con su voto de calidad; y
+IV. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; a través de revisiones y auditorías, vigilando que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentando al Director General del Centro, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados;
 
-V. Firmar las actas de las sesiones.
+V. Apoyar dentro del Centro, la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos adscritos al Centro, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos;
 
-En caso de ausencia del Presidente de la Junta, será suplido por el Secretario de Gobierno.
+VI. Ejercer función de auditoría, rigiéndose por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y demás que resulten aplicables, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción, el Sistema Estatal Anticorrupción de Querétaro y la Secretaría de la Contraloría respecto de dichos asuntos;
+
+VII. Observar y promover en su función las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema o emita la Secretaría de la Contraloría;
+
+VIII. Expedir certificaciones de los expedientes, documentos o bases de datos que lleven, y que obren en sus archivos o tengan acceso en ejercicio de sus funciones; y
+
+IX. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 ## TÍTULO CUARTO. DE LAS SUPLENCIAS Y LA DESIGNACIÓN DE SUPLENTES
 
@@ -501,69 +401,31 @@ En caso de ausencia del Presidente de la Junta, será suplido por el Secretario 
 
 ###### Artículo 23.
 
-Con la notificación de la convocatoria a sesiones ordinarias o extraordinarias de la Junta, el Secretario Técnico deberá anexar el orden del día y el expediente que contenga la documentación e información a tratar en cada sesión.
+Durante las ausencias de hasta quince días hábiles, el Director General será suplido por el servidor público que éste designe. En las ausencias mayores a quince días hábiles, será suplido por quien designe el Secretario de Seguridad Ciudadana.
 
 ###### Artículo 24.
 
-Los acuerdos y resoluciones de la Junta se considerarán válidos cuando la votación correspondiente sea de la mitad más uno de los miembros presentes.
+Los titulares de las unidades administrativas del Centro, durante sus ausencias temporales, serán suplidos por el servidor público que designe el Director General del Centro.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 25.
 
-Son atribuciones y funciones de la Junta:
+Todos los servidores públicos adscritos al Centro que en el ejercicio de sus funciones incumplan las obligaciones que legalmente les corresponden, serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro y las demás disposiciones jurídicas aplicables.
 
-I. Aprobar y emitir el reglamento interno del Instituto, los manuales de organización, procedimientos y demás instrumentos normativos que lo regirán, a propuesta de la Dirección General;
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-II. Conocer la aplicación del reglamento interno; así como del tabulador de sueldos y salarios de los servidores públicos del Instituto, en los términos que determine el Presupuesto de Egresos del Estado y demás disposiciones aplicables;
+## TÍTULO QUINTO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-III. Aprobar el Programa Operativo Anual, proyectos de presupuestos anuales de ingresos y egresos, así como los planes e informes que le presente la Dirección General;
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Aprobar, previo informe de la Contraloría Interna, los estados financieros del Instituto y disponer la publicación de los mismos en cumplimiento a las disposiciones legales correspondientes;
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-V. Aprobar las estrategias para la gestión y obtención de recursos, así como para su aplicación y recuperación, propuesta por la Dirección General, de acuerdo a lo establecido en la fracción VIII del artículo 7 de la Ley;
-
-VI. Resolver los asuntos que someta a su consideración el Director General;
-
-VII. Vigilar el cumplimiento de las obligaciones de transparencia y acceso a la información del Instituto;
-
-VIII. Aprobar los acuerdos y dar seguimiento a los asuntos tomados en las sesiones de la propia Junta; y
-
-IX. Las demás que establezca la Ley, el presente Reglamento o determine la Junta, para el estricto cumplimiento de los fines del Instituto.
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 26.
 
-Son atribuciones del Secretario técnico de la junta:
-
-I. Conocer y tramitar los asuntos, acuerdos y resoluciones de la Junta, así como el calendario de las sesiones ordinarias;
-
-II. Organizar las sesiones y redactar las actas correspondientes, con el registro de los acuerdos y resoluciones aprobados, y recabar la firma de los miembros de la Junta;
-
-III. Convocar a los integrantes de la Junta a las sesiones ordinarias y extraordinarias;
-
-IV. Exponer al pleno de la Junta, los asuntos correspondientes a la organización y funcionamiento del Instituto;
-
-V. Proponer a los integrantes de la Junta el desahogo de los asuntos prioritarios y la aprobación de los acuerdos correspondientes;
-
-VI. Proponer el orden del día de las sesiones ordinarias y extraordinarias, así como la asistencia de personal de apoyo a las sesiones, cuando sea necesario, para el adecuado cumplimiento de las atribuciones de la Junta;
-
-VII. Remitir, a los integrantes de la Junta, el orden del día y el expediente que contiene los documentos e informes correspondientes a los asuntos a tratar;
-
-VIII. Someter a consideración de los integrantes de la Junta, en la sesión correspondiente el proyecto de acta de la sesión anterior, para los ajustes y comentarios procedentes;
-
-IX. Dar seguimiento y cumplir puntualmente los acuerdos y resoluciones de la Junta;
-
-X. Llevar el libro de actas de las sesiones de la Junta;
-
-XI. Las demás que expresamente le atribuyan la Ley, este reglamento y demás disposiciones aplicables.
-
-###### Artículo 27.
-
-El Comisario o su Suplente, representará a la Contraloría General ante la Junta de Gobierno del Instituto; Evaluará el desempeño general y por funciones, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas específicas que les asigne el Contralor General o el Director General de Auditoría Gubernamental; observará lo dispuesto en las bases generales para el funcionamiento y actuación de los Comisarios Públicos de las Entidades.
-
-El Comisario tendrá las demás facultades que le atribuyan las leyes, reglamentos y otras disposiciones legales aplicables, así como las que le sean conferidas por el Contralor General.
-
-El Comisario Propietario, será el titular de la Contraloría General, quien podrá nombrar un suplente, previo acuerdo del Gobernador del Estado.
+Los técnicos en prevención social, facilitadores e invitadores adscritos al Centro deberán someterse a los principios y mecanismos del Servicio Profesional de Carrera, certificación y capacitación que establezcan los Centros de formación correspondientes en los términos de la normatividad aplicable y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -599,9 +461,11 @@ Los procedimientos iniciados con anterioridad a la vigencia de la presente refor
 
 El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+Durante el presente ejercicio fiscal 2022, los recursos humanos, materiales y financieros del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, serán designados y ejercidos por el Poder Ejecutivo del Estado de Querétaro, a través de la Secretaría de Seguridad Ciudadana y la Oficialía Mayor de acuerdo a su disponibilidad financiera.
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -640,3 +504,27 @@ María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Los asuntos que en materia forestal se encuentren en trámite por parte de la Secretaría de Desarrollo Sustentable del Poder Ejecutivo, así como de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo, al momento de la entrada en vigor de la presente ley, continuarán sustanciándose hasta su total conclusión.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro la "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN MATERIA DE PROFESIONALIZACIÓN PARA LAS INSTITUCIONES DE SEGURIDAD EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
