@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-09-02"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2079,11 +2079,11 @@ APARTADO SEGUNDO
 
 Del Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 100.
 
-El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, con auxilio de la Dirección General del Sistema para el Desarrollo Integral de la Familia, promoverán el bienestar social para lograr el desarrollo integral de la familia y otorgarán asistencia social, con las siguientes atribuciones:
+El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, promoverán el bienestar social para lograr el desarrollo integral de la familia y otorgarán asistencia social, con las siguientes atribuciones:
 
 I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general.
 
@@ -2126,6 +2126,10 @@ XII. Nombrará un enlace de género para la debida coordinación de acciones con
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
 
 XIII. Formará parte de los Sistemas Municipales, de Prevención, atención, sanción y erradicación de la violencia contra las mujeres, y de igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Colaborar con los bancos de alimentos.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -3033,7 +3037,9 @@ XIX. Celebrar y suscribir convenios de colaboración con autoridades federales y
 
 Para efectos del párrafo anterior, una vez que se celebren o suscriban convenios de colaboración, se deberá notificar a la Dirección Jurídica del H. Ayuntamiento;
 
-XX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Fomentar, apoyar e incentivar los bancos de alimentos. Para ello, podrá coordinarse con las demás instancias municipales.
 
 XXI. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
@@ -20381,15 +20387,39 @@ IV. Tianguis.- lugar o espacio determinado en la vía pública ó terreno espec�
 
 V. Credencial o Gafete.- Es el documento que acredita el registro dentro del padrón de comerciantes de la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes, el cual, por sí solo no representa o acredita el permiso vigente para ejercer la actividad comercial en la vía pública, mismo documento que no genera ni ampara ningún derecho o antigüedad superior a los señalados dentro del presente título.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública, exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo. Así mismo tendrá la facultad de ordenar la disposición final de bienes no perecederos que por su condición o estado no puedan ser objeto de donación, conforme a lo dispuesto por el artículo 1596 del presente Código.
+VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública, exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo. Para efectos de lo anterior se tomará en cuenta el impacto social, cultural y tradicional.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE ABRIL DE 2023)</small>
+Así mismo el Comité tendrá la facultad de:
+
+a) Ordenar la disposición final de bienes no perecederos que por su condición o estado no puedan ser objeto de donación, conforme a lo dispuesto por el artículo 1596 del presente Código.
+
+b) En caso de que se utilice un remolque, vehículo no motorizado o cualquier tipo de estructura semi-fija para el ejercicio del comercio podrá autorizar medidas superiores a las permitidas por el presente ordenamiento.
+
+c) En caso de que se utilice un vehículo gastronómico para el ejercicio del comercio podrá autorizar medidas superiores a las permitidas por el presente ordenamiento.
+
+Para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Comité lo determine, requiriendo de la presencia del cincuenta por ciento más uno de los miembros integrantes. Las decisiones serán válidas cuando se tomen por mayoría de votos de los presentes.
 
 Estará integrado por:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE ABRIL DE 2023)</small>
+a) El Regidor o Regidora Presidente de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, y Estacionamientos, quien lo presidirá.
+
+b) El Director de Mercados, Estacionamientos y Áreas Comerciales.
+
+c) Un representante de la Secretaría de Desarrollo Urbano.
+
+d) Un representante de cada una de las Delegaciones Municipales.
+
+e) Un representante de Protección Civil Municipal.
+
+f) Un representante de los Locatarios de Mercados Municipales.
+
+g) Un representante de los Tianguistas y Comercio Informal.
+
+h) Un representante de los Comercios Formales.
+
+i) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
 
 a) El Regidor Presidente de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos.
 
@@ -20397,37 +20427,21 @@ b) El Director de Mercados, Estacionamientos y Áreas Comerciales.
 
 c) Un representante de la Secretaría de Desarrollo Urbano.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2008)</small>
-
 d) Un representante de cada una de las Delegaciones Municipales.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2008)</small>
 
 e) Un representante de Protección Civil Municipal.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2008)</small>
-
 f) Un representante de los Locatarios de Mercados Municipales.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2008)</small>
 
 g) Un representante de los Tianguistas y Comercio Informal.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
-
 h) Un representante de los Comercios Formales.
-
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2021)</small>
 
 i) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
-
 El Comité Dictaminador podrá citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
-
-La vigencia en las funciones de los miembros del Comité Dictaminador a que se refiere este apartado, subsistirá para los servidores públicos, el tiempo que permanezcan en el cargo. Los Integrantes Ciudadanos durarán en sus funciones el término de tres años y serán electos, nombrados o ratificados, según el cargo que ocupen por la Comisión Permanente de Control Reglamentario durante el semestre anterior a la conclusión del periodo.
+La vigencia en las funciones de los miembros ciudadanos del Comité Dictaminador a que se refiere este apartado, subsistirá para los servidores públicos, el tiempo que permanezcan en el cargo. Los Integrantes Ciudadanos tendrán un cargo honorífico y durarán en sus funciones el término de tres años siendo electos, nombrados o ratificados, según el cargo que ocupen por la Comisión Permanente de Control Reglamentario durante el semestre anterior a la conclusión del periodo.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE AGOSTO DE 2019)</small>
 
@@ -20464,6 +20478,10 @@ XV. Recibo de Pago.- Es el documento expedido por la Secretaría de Finanzas Pú
 XVI. Se considera como Zona de Restricción Comercial dentro del Centro Histórico de la Ciudad de Aguascalientes, la que corresponde a las siguientes colindancias:
 
 El primer punto inicia rumbo norte entre el INADE y el fraccionamiento cerrado llamado La Mancha, el punto 2 al 10 en línea quebrada al nor-poniente con la Calle Urbanistas junto al INADE, el punto 11 y 12 en línea quebrada al sur-oriente sobre Avenida Tecnológico, el punto 13 subiendo en línea recta al nor-oriente por la Calle Balnearios contiguo al Condominio Misión La Alameda, punto 14 en línea recta rumbo nor-poniente sobre avenida tecnológico contiguo al Ejido Ojocaliente, punto 15 en línea recta entre manzanas rumbo nor-oriente hasta Alameda, punto 16 en línea recta rumbo al nor-oriente sobre Alameda, punto 17 y 18 en quebrada rumbo al nor-poniente sobre Avenida Aguascalientes junto al fraccionamiento Fidel Velázquez, punto 19, 20 y 21 en quebrada entre manzanas rumbo al nor-poniente entre La Pona y el fraccionamiento Lomas de Santa Anita, punto 22 y 23 rumbo al sur-poniente entre manzanas en Bosques de la Alameda III y el condominio Bosques de la Alameda, punto 24 rumbo al nor-poniente sobre Canal Interceptor contiguo al fraccionamiento Nueva Alameda, punto 25 rumbo sur-poniente sobre la calle 1810 por Lomas de Santa Anita, punto 26 rumbo nor-poniente sobre la calle Paileros entre Lomas de Santa Anita y Colonia Del Trabajo, punto 27 sobre la Avenida Siglo XIX rumbo sur poniente entre Lomas de Santa Anita y Colonia Del Trabajo, punto 28, 29, 30 y 31 en quebrada sobre Avenida Convención de 1914 Ote en el Fraccionamiento Santa Anita, punto 32 sobre la calle Albéniz al sur-poniente, punto 33, 34, 35 36, y 37 en quebrada al nor-poniente sobre Heroico Colegio Militar en el fraccionamiento Lomas de Santa Anita, punto 38, 39, 40 y 41 en quebrada al sur-poniente sobre Gabriela Mistral entre fraccionamiento Lomas de Santa Anita y Colonia Gremial, punto 42 rumbo al poniente sobre la Avenida Lic. Manuel Gómez Morín entre fraccionamiento Lomas de Santa Anita y Colonia Gremial, punto 43, 44, 45, 46, 47 en quebrada sobre la calle 28 de Agosto al sur-oriente entre las vías férreas y colonia Gremial, punto 48 rumbo al sur-poniente sobre la calle Decreto 27 de Septiembre entre colonia Gremial y colonia La Purísima, punto 49 rumbo al nor-poniente sobre la calle General Francisco Villa entre la colonia Gremial y Zona Centro, punto 50 rumbo al sur-poniente sobre la calle Independencia de México entre la colonia Gremial y Zona Centro, punto 51 rumbo al nor-poniente sobre la calle Liberato Santacruz a un lado de la colonia Primavera, punto 52 rumbo al sur-poniente sobre la calle Doctor Gerónimo de Orozco colindante a la colonia Primavera, punto 53 rumbo al nor-poniente sobre la calle Gran Avenida entre la colonia Gremial y la colonia La Fe, punto 54, 55 y 56 en quebrada sobre la calle Petróleos Mexicanos rumbo al nor-oriente entre la colonia Gremial y colonia La Fe, punto 57 rumbo al sur-poniente sobre la calle Norberto Gómez Hornedo Ote en la colonia Industrial, punto 58 rumbo al sur-oriente sobre la calle José Bolado en la colonia Industrial, punto 59 rumbo al sur-poniente sobre la calle Saltillo en la colonia Industrial, punto 60 rumbo al sur-poniente sobre la Avenida Independencia en la colonia Industrial, punto 61 rumbo al sur-poniente en Sección entre manzanas entre colonia La Fe y condominio vertical Bugambilias, punto 62 rumbo al nor-poniente sobre la calle General Ignacio Zaragoza en la colonia San Pablo, punto 63 rumbo al poniente sobre la calle Rio Morcinique en la colonia San Pablo, punto 64 con rumbo al nor-poniente sobre la calle Marina Nacional en la colonia San Pablo, punto 65 y 66 en quebrada rumbo al sur-poniente sobre la calle Rio Papaloapan entre la colonia Altavista y San Pablo, punto 67 rumbo al sur-poniente sobre la calle Alberto Davalos en la colonia Del Carmen, punto 68 con rumbo al sur-poniente sobre la calle Alaman en la colonia Altavista, punto 69 y 70 en quebrada rumbo al nor-poniente sobre la calle La Luz en la colonia Del Carmen, punto 71, 72, 73 y 74 en quebrada rumbo al sur-poniente sobre la calle Arroyo de los Arellano en la colonia Miravalle, punto 75 rumbo al sur sobre la Avenida Convención de 1914 PTE en la colonia Miravalle, punto 76 sección entre manzanas rumbo al oriente hacia el fraccionamiento Heliodoro García, punto 77 y 78 en quebrada rumbo al sur-poniente sobre la calle Felipe Ángeles en el fraccionamiento Heliodoro García, punto 79 con rumbo al sur-oriente sobre la calle Guadalupe en el fraccionamiento Heliodoro García, punto 80 y 81 quebrada entre manzanas rumbo al sur-poniente entre la colonia San Marcos y la colonia Gómez, punto 82 con rumbo al sur-oriente sobre la calle General Emiliano Zapata en la colonia San Marcos, punto 83, 84, 85, 86, 87 y 88 en quebrada rumbo al sur-oriente sobre la calle Doctor Pedro de Alba entre la colonia San Marcos, fraccionamiento Modelo, Barrio de San Marcos y fraccionamiento Vivienda Popular, punto 89 rumbo al sur-poniente sobre la calle Rafael Rodríguez Domínguez en el fraccionamiento Vivienda Popular, punto 90 y 91 en quebrada rumbo al sur-poniente sobre la calle Nogal en la colonia Circunvalación Poniente, punto 92, 93, 94 y 95 en quebrada rumbo al sur-oriente sobre la Avenida Lienzo Charro colindante al Perímetro Ferial, punto 96 y 97 en quebrada rumbo al nor-oriente sobre la calle Los Laureles en el fraccionamiento Las Flores, punto 98 y 99 en quebrada rumbo al sur-oriente sobre la calle José F. Elizondo en la colonia Las Flores, punto 100 sección entre manzanas rumbo al sur-oriente entre colonia Obraje y fraccionamiento Santa Elena, punto 101 rumbo al sur-oriente sobre la calle República de Chile en el fraccionamiento Santa Elena, punto 102, 103, 104, 105 y 106 en quebrada entre manzanas rumbo al sur-oriente entre la colonia Obraje y fraccionamiento Santa Elena, punto 107 rumbo al sur-oriente sobre la calle Bogotá en el fraccionamiento Santa Elena, punto 108, 109, 110 y 111 sección entre manzanas rumbo al sur-oriente entre la colonia Obraje y fraccionamiento Las Américas, punto 112 y 113 en quebrada rumbo al poniente sobre la calle Republica de Ecuador en el fraccionamiento Las Américas, punto 114 rumbo al sur-poniente sobre la calle Republica de Brasil en el fraccionamiento Las Américas, punto 115 sección entre manzanas rumbo al oriente entre colonia Obraje y fraccionamiento Las Américas, punto 116 y 117 en quebrada rumbo al nor-oriente sobre la calle Quinta Avenida en la colonia Obraje y fraccionamiento Las Américas, punto 118 rumbo al nor-oriente sobre la calle Republica de Ecuador en el fraccionamiento Las Américas, punto 119 y 120 en quebrada rumbo al sur-poniente sobre la calle República de Argentina entre la colonia Obraje y fraccionamiento Las Américas, punto 121 y 122 sección entre manzanas en quebrada rumbo al oriente e (sic) entre la colonia Obraje y fraccionamiento Las Américas, punto 123, 124 y 125 en quebrada rumbo al nor-oriente sobre la Avenida Mahatma Gandhi en la colonia Obraje, punto 126, 127, 128 y 129 en quebrada rumbo al norte sobre la calle José María Chávez colindante a la colonia Los Cedros, punto 130, 131, 132 y 133 en quebrada rumbo al sur-oriente sobre la Avenida Ayuntamiento entre el Barrio El Encino y Los Cedros, punto 134 rumbo al sur-oriente en intersección entre Avenida Ayuntamiento y Avenida Paseo de la Cruz en el Barrio El Encino, punto 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146 y 147 en quebrada rumbo al sur-oriente sobre la Avenida Ayuntamiento entre la colonia Los Cerdos, el Barrio El Encino, Caminero, Barrio de La Salud y Lindavista, punto 148 con rumbo al poniente sobre Avenida Convención de 1914 Sur en la colonia Caminero y Barrio de La Salud, punto 149, 150, 151, 152, 153 y 154 en quebrada rumbo al sur-oriente en la calle Fuente del Ebro en el fraccionamiento Jardines de Las Fuentes y Barrio de La Salud, punto 155 rumbo al norte sobre Avenida Héroe de Nacozari Sur en el fraccionamiento INFONAVIT Ojo de Agua, punto 156, 157, 158, 159, 160, 161, 162, 163, 164 y 165 con rumbo al nor-oriente en la Avenida Ayuntamiento entre la colonia Ojo de agua y el fraccionamiento INFOVANIT Ojo de Agua, punto 166 con rumbo al sur-oriente en la intersección con vías del tren entre el fraccionamiento Jardines del Sol y la Colonia Ojo de Agua, punto 167, 168, 169, 170 y 171 en quebrada con rumbo al nor-oriente sobre Arroyo del Cedazo en el fraccionamiento Jardines del Sol, punto 172 con rumbo al nor-oriente sobre la Avenida General Mariano Escobedo en la colonia La Cruz, punto 173, 174, 175 y 176 en quebrada rumbo al nor-oriente sobre el Arroyo del Cedazo en el fraccionamiento Misión de Santa Fe, punto 177, 178, 179, 180 y 181 en quebrada rumbo al nor-oriente sobre la Avenida Misioneros en el fraccionamiento Misión de Santa Fe, punto 182 con rumbo al nor-oriente sobre la Avenida Arqueros en el fraccionamiento Vista del Sol III, punto 183, 184, 185 y 186 en quebrada rumbo al nor-oriente sobre la Avenida Misioneros en el fraccionamiento Vista del Sol III, punto 187, 188 y 189 en quebrada con rumbo al sur-oriente en el Arroyo del Cedazo con la empresa Sensata, punto 190, 191, 192 y 193 en quebrada con rumbo al norte sobre el Arroyo del Cedazo contiguo al Parque el Cedazo, punto 194 con rumbo al nor-poniente sobre la Avenida Paseo Ojocaliente en el fraccionamiento Jesús Gomes Portugal, punto 195, 196, 197, 198, 199, 200, 201, 202 y 203 en quebrada con rumbo al poniente sobre la calle Cáncer en el fraccionamiento Jesús Gómez Portugal, punto 204 sección entre manzanas con rumbo al sur-poniente en el fraccionamiento Jesús Gómez Portugal, punto 205, 206, 207, 208 y 209 en quebrada con rumbo al sur-poniente en el Arroyo del Cedazo en el fraccionamiento Jesús Gómez Portugal, punto 210 con rumbo al sur-poniente sobre la Avenida Arqueros entre el condominio vertical Primo Verdad INEGI y el fraccionamiento Jesús Gómez Portugal, punto 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226 y 227 en quebrada con rumbo al sur-oriente sobre el Arroyo del Cedazo en el condominio vertical Primo Verdad INEGI, punto 228, 229 y 230 sección entre manzanas en quebrada con rumbo al sur-poniente en el condominio vertical Primo Verdad INEGI, punto 231 con rumbo al sur-poniente sobre el Arroyo del Cedazo en la colonia Jardines de la Convención 2ª Sección, punto 232 y 233 sección entre manzanas quebrada con rumbo al sur-poniente en la Rinconada los Manantiales, punto 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245 y 246 en quebrada con rumbo al sur-poniente sobre el Arroyo del Cedazo entre Rinconada los Manantiales y colonia Ojo de Agua, punto 247 y 248 sección entre manzanas en quebrada con rumbo al nor-poniente en la colonia Ojo de Agua, punto 249 con rumbo al poniente en la intersección de las vías férreas entre colonia Ojo de Agua y Condominio Horizontal Rinconada del Cedazo, punto 250 y 251 sección entre manzanas en quebrada con rumbo al nor-poniente entre colonia Ojo de Agua y Condominio Horizontal Rinconada del Cedazo, punto 252 con rumbo al nor-poniente sobre la calle Nayarit en el Condominio Horizontal Rinconada del Cedazo, punto 253 sección entre manzanas con rumbo al nor-poniente en la colonia Ojo de Agua, punto 254 con rumbo al nor-poniente sobre la calle Los Díaz en la colonia Ojo de Agua, punto 255, 256, 257, 258, 259, 260, 261 y 262 sección entre manzanas en quebrada con rumbo al nor-poniente en la colonia Ojo de Agua, punto 263 con rumbo al nor-oriente sobre la Avenida Convención de 1914 Sur entre colonia Ojo de Agua y el Barrio de La Salud, punto 264, 265, 266 y 267 en quebrada con rumbo al nor-poniente sobre la calle Delicias en la U. H. IV Centenario, punto 268 con rumbo al norte sobre la Avenida Héroes de Nacozari Sur entre el Barrio de La Salud, U. H. IV Centenario, La Huerta, Gámez, Héroes de Aguascalientes y Lázaro Cárdenas, punto 269 con rumbo al oriente sobre la Avenida Licenciado Adolfo López Mateos OTE entre la Colonia Jardines de la Cruz, Colonia Héroes, Colonia San Luis, Barrio de la Estación y fraccionamiento Bona Gens, punto 270 sección entre manzanas con rumbo al nor-oriente entre el INADE y la Hacienda.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Vehículo Gastronómico: Unidad móvil motorizada, equipada exclusivamente para la oferta de alimentos en espacios públicos determinados y permitidos por el Comité Dictaminador.
 
 ### CAPÍTULO II. De los Mercados y las Actividades Comerciales
 
@@ -20839,17 +20857,23 @@ g) Escrito bajo protesta de decir verdad que la mercancía que se pretende comer
 
 h) Documento donde se garantice cubrir los probables daños o deterioros que se pudieren ocasionar en las instalaciones, infraestructura, servicios públicos y demás bienes del Municipio por la actividad comercial en la vía pública;
 
-V.- El horario para ejercer la actividad comercial en la vía pública, no deberá de exceder de ocho horas continúas por día.
+V. El horario para ejercer la actividad comercial en la vía pública, no deberá de exceder de ocho horas continúas por día.
 
-VI.- Cuando el comerciante con puesto fijo o semifijo se encuentre en esquina con una avenida primaria o principal, deberá recorrerse a una distancia de cinco metros de dicha avenida principal, exceptuando a los vendedores de periódicos y revistas; y
+VI. Cuando el comerciante con puesto fijo o semifijo se encuentre en esquina con una avenida primaria o principal, deberá recorrerse a una distancia de cinco metros de dicha avenida principal, exceptuando a los vendedores de periódicos y revistas; y
 
-VII. El metraje máximo que se deberá de autorizar para ejercer el comercio en la vía pública, será de 3 metros de frente por 2 metros de fondo, y con una altura no mayor a dos metros.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VII. El metraje máximo que se deberá de autorizar para ejercer el comercio en la vía pública, será de 3 metros de frente por 2 metros de fondo, y con una altura no mayor a dos metros. A excepción de lo establecido por el artículo 1394.
 
 VIII. La ubicación solicitada deberá de estar fuera de las restricciones que contempla el artículo 1384 del Código Municipal de Aguascalientes;
 
-IX.- No deberá entorpecer el tránsito ni obstruir la visibilidad del arroyo vial, la vista o luz de las fincas inmediatas, el paso peatonal, no invadir áreas verdes, banquetas, glorietas, camellones y pasos señalados por la autoridad. Debiendo mantener limpia un área mínima de 5 metros alrededor del lugar autorizado.
+IX. No deberá entorpecer el tránsito ni obstruir la visibilidad del arroyo vial, la vista o luz de las fincas inmediatas, el paso peatonal, no invadir áreas verdes, banquetas, glorietas, camellones y pasos señalados por la autoridad. Debiendo mantener limpia un área mínima de 5 metros alrededor del lugar autorizado.
 
 Por ningún motivo, se otorgará por anticipado ningún permiso, si no se ha cumplido con la solicitud, documentación, procedimiento o dictamen de aprobación.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+X. Para el caso de vehículos gastronómicos; Superficie total del vehículo gastronómico donde operará, el giro comercial, indicando marca del vehículo, modelo, propietario, documentos de obligaciones ambientales y de tránsito.
 
 ### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
 
@@ -21241,9 +21265,9 @@ IX. Cubrir el pago del gafete y los derechos correspondientes por el uso de piso
 
 X. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales; y
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XI. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
+XI. En caso de que se utilice un vehículo no motorizado, remolque o cualquier tipo de estructura semi-fija para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Para el caso de los vehículos gastronómicos sus dimensiones no podrán ser mayores a cuatro metros de largo por dos metros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta así como el debido cumplimiento de los requisitos para ejercer el comercio en vía pública.
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
 
@@ -25812,3 +25836,15 @@ P.O. 2 DE SEPTIEMBRE DE 2024.
 PRIMERO.- Las presentes reformas y adiciones, así como el Reglamento Interno de la Coordinación General de Salud del Municipio de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- El Reglamento para la Protección y Trato Digno a los Animales del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 3 de octubre de 2011, quedó abrogado tácitamente mediante la expedición del Reglamento Sanitario de Control, Protección y Tratamiento Digno a los Animales del Municipio de Aguascalientes publicado en el Periódico Oficial del Estado el 21 de octubre de 2019.
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA A LA FRACCIÓN XX DEL ARTÍCULO 111; Y SE ADICIONA UNA FRACCIÓN XIV DEL ARTÍCULO 100 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA A LOS ARTÍCULOS 1358 FRACCIÓN VI, 1373 FRACCIÓN VII, Y 1394 FRACCIÓN XI, Y POR EL QUE SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 1358 Y FRACCIÓN X DEL ARTÍCULO 1373, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
