@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2024-09-04"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -247,9 +247,11 @@ IV.- La evaluación de sus políticas públicas.
 
 La violencia en el ámbito institucional comprende las acciones, prácticas u omisiones de las y los servidores públicos del Estado y Municipios que discriminen, utilicen estereotipos de género, dilaten, obstaculicen o impidan que las mujeres accedan a los medios o mecanismos para el goce y ejercicio pleno de sus derechos fundamentales o políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia contra las mujeres o aquellas necesarias para su desarrollo, de conformidad a lo dispuesto en la CEDAW.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 15.
 
-Los servidores públicos que presten sus servicios para el Estado y los municipios, deberán abstenerse de cualquier práctica discriminatoria o tolerancia de la violencia contra las mujeres, en el ejercicio de su cargo o comisión pudiendo incurrir en los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de los procedimientos de queja o reclamación que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
+Los servidores públicos que presten sus servicios para el Estado y los municipios, deberán abstenerse de cualquier práctica discriminatoria o tolerancia de la violencia contra las mujeres, en el ejercicio de su cargo o comisión pudiendo incurrir en los supuestos que señala la Ley de Responsabilidades Administrativas para el Estado de Morelos, independientemente de los procedimientos de queja o reclamación que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
 
 ###### Artículo 16.
 
@@ -771,9 +773,9 @@ El agravio comparado implica un trato inequitativo de las mujeres dentro del mar
 
 Para los efectos anticipados de cualquier agravio comparado, se conformará la Mesa de Armonización Legislativa, con el objeto de revisar semestralmente los avances legislativos en el país, en la materia, a fin de evitar cualquier declaratoria de alerta de violencia contra las mujeres.
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-La Mesa de Armonización Legislativa estará presidida y coordinada por el Instituto de la Mujer para el Estado de Morelos, participando como integrantes de ella el Congreso del Estado y la Consejería Jurídica del Poder Ejecutivo Estatal. A sus sesiones se podrá invitar a instituciones, academias y organizaciones de la sociedad civil que se considere que su participación pueda aportar en el desarrollo de la misma.
+La Mesa de Armonización Legislativa estará presidida y coordinada por el Instituto de la Mujer para el Estado de Morelos, participando como integrantes de ella el Congreso del Estado, el Poder Ejecutivo Estatal, a través de la Consejería Jurídica y la Secretaría de las Mujeres, del Poder Ejecutivo Estatal. A sus sesiones se podrá invitar a instituciones, academias y organizaciones de la sociedad civil que se considere que su participación pueda aportar en el desarrollo de la misma.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -1063,51 +1065,43 @@ El Sistema Estatal tendrá cuatro comisiones, una por cada eje de acción, adem�
 
 Dichas comisiones estarán integradas por los miembros del Sistema Estatal, con arreglo a la presente ley y los que determinen los ordenamientos que crean los consejos temáticos, que mediante el acuerdo respectivo se adhieran a dicho Sistema.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 46.
 
-El Sistema Estatal estará integrado por las personas titulares de las siguientes Secretarías, Dependencias y Entidades, recayendo su suplencia en el servidor público que designe al efecto con nivel jerárquico necesario para la toma de decisiones:
+El Sistema Estatal estará integrado por las personas titulares de las siguientes Secretarías, Dependencias y organismos auxiliares, recayendo su suplencia en el servidor público que designe al efecto con nivel jerárquico necesario para la toma de decisiones:
 
-I.- La Secretaría de Gobierno, que lo presidirá;
+I. La Secretaría de Gobierno, quien lo presidirá;
 
-II.- La Secretaría de Hacienda;
+II. La Secretaría de las Mujeres;
 
-III.- La Secretaría de Educación;
+III. La Secretaría de Hacienda;
 
-IV.- La Secretaría de Salud;
+IV. La Secretaría de Educación;
 
-V.- La Comisión Estatal de Seguridad Pública;
+V. La Secretaría de Salud;
 
-VI.- La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
+VI. La Secretaría de Seguridad y Protección Ciudadana;
 
-VII.- La Fiscalía General del Estado de Morelos;
+VII. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
 
-VIII.- El Instituto de la Mujer para el Estado de Morelos, que ocupará la Secretaría Ejecutiva del Sistema;
+VIII. La Fiscalía General del Estado de Morelos;
 
-IX.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+IX. El Instituto de la Mujer para el Estado de Morelos, que ocupará la Secretaría Ejecutiva del Sistema;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+X. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-X.- La Secretaría de Desarrollo Económico y del Trabajo;
+XI. La Secretaría de Desarrollo Económico y del Trabajo;
 
-XI.- La Secretaría de Desarrollo Social;
+XII. La Secretaría de Bienestar;
 
-XII.- La Secretaría de Desarrollo Agropecuario;
+XIII. La Secretaría de Desarrollo Agropecuario;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+XIV. El Instituto de Desarrollo y Fortalecimiento Municipal, y
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+XV. La Comisión de Igualdad de Género del Congreso del Estado de Morelos.
 
-XIII.- EL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA;
-
-XIV.- El Instituto de Desarrollo y Fortalecimiento Municipal, y
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
-
-XV.- La Comisión de Igualdad de Género del Congreso del Estado de Morelos.
-
-Lo anterior sin perjuicio de la participación que se requiera de las personas titulares del resto de las Secretarías, Dependencias y Entidades que forman parte de la Administración Pública Estatal, quienes podrán ser convocadas cuando los asuntos a tratar en las sesiones correspondientes sean de su competencia y conforme a lo dispuesto en el Reglamento de la presente Ley.
+Lo anterior sin perjuicio de la participación que se requiera de las personas titulares del resto de las Secretarías, Dependencias y organismos auxiliares que forman parte de la Administración Pública Estatal, quienes podrán ser convocadas cuando los asuntos a tratar en las sesiones correspondientes sean de su competencia y conforme a lo dispuesto en el Reglamento de la presente Ley.
 
 El Sistema Estatal sesionará de forma ordinaria cuando menos tres veces al año, sin perjuicio de que celebre sesiones extraordinarias de acuerdo a lo que señale el Reglamento de la presente Ley.
 
@@ -1181,29 +1175,41 @@ XI.- Las acciones y programas a ejecutar para la atención y rehabilitación de 
 
 ### CAPÍTULO III. DEL REGISTRO ESTATAL DE AGRESORES SEXUALES
 
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 50 bis.- Se crea el Registro Estatal de Agresores Sexuales, como un instrumento que sólo puede ser consultado por las autoridades competentes y dependerá su operación de la Comisión Estatal de Seguridad Pública, el cual contendrá datos de las personas sentenciadas por los delitos de naturaleza sexual previstos por los artículos 150 BIS, 152, 156, 157, 158, 158 bis, 159, 161, 162, 162 bis, 211, 211 bis, 211 ter, 211 quater, 212 y 212 ter, del 211 (sic), del Código Penal para el Estado de Morelos.
+Artículo 50 bis.- Se crea el Registro Estatal de Agresores Sexuales, como un instrumento que sólo puede ser consultado por las autoridades competentes y dependerá su operación de la Secretaría de Seguridad y Protección Ciudadana, el cual contendrá datos de las personas sentenciadas por los delitos de naturaleza sexual previstos por los artículos 150 BIS, 152, 156, 157, 158, 158 bis, 159, 161, 162, 162 bis, 211, 211 bis, 211 ter, 211 quater, 212 y 212 ter, del 211 (sic), del Código Penal para el Estado de Morelos.
 
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 50 ter. Las autoridades jurisdiccionales competentes notificarán de inmediato a la Comisión Estatal de Seguridad Pública, de los agresores que tengan sentencia firme por alguno de los delitos previstos en el artículo anterior.
+Artículo 50 ter. Las autoridades jurisdiccionales competentes notificarán de inmediato a la Secretaría de Seguridad y Protección Ciudadana, de los agresores que tengan sentencia firme por alguno de los delitos previstos en el artículo anterior.
 
 También deberán notificar sobre los acuerdos de reparación celebrados y las sentencias derivadas de procedimiento abreviado.
 
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 50 quater.- La Comisión Estatal de Seguridad Pública, integrará una ficha del agresor sentenciado que deberá contener, cuando menos, lo siguiente:
+Artículo 50 quater.- La Secretaría de Seguridad y Protección Ciudadana integrará una ficha del agresor sentenciado que deberá contener, cuando menos, lo siguiente:
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
 I. Nombre completo;
 
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
 II. Alias;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
 III. Clave Única de Registro de Población;
 
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
 IV. Fotografía reciente;
 
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
 V. Delito por el que fue condenado, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
 VI. Pena privativa de libertad estipulada.
 
@@ -1371,15 +1377,15 @@ XI.- Establecer programas temáticos sobre la no discriminación y erradicación
 
 XII.- Las demás previstas para el cumplimiento de la presente ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEXTA. DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEXTA. DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 56.
 
-Corresponde a la Comisión Estatal de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
 
 I.- Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres en el marco de la política integral con perspectiva de género;
 
@@ -1619,31 +1625,49 @@ VII.- Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 VIII.- Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+#### SECCIÓN DÉCIMA PRIMERA. DE LA SECRETARÍA DE BIENESTAR
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 59 Ter.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar:
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 I.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 II.- Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 III.- Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 IV.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 V.- Promover, en coordinación con las demás autoridades competentes, las políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 VI.- Promover políticas de prevención y atención de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 VII.- Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 VIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 IX.- Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -1668,6 +1692,38 @@ IV. Diseñar y difundir materiales que promuevan la prevención, atención y err
 V. Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal, y
 
 VI. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN DÉCIMA TERCERA. DE LA SECRETARÍA DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 59 Quintus.- Corresponde a la Secretaría de las Mujeres desempeñar las siguientes facultades:
+
+I. Promover la cultura de respeto a los derechos de las mujeres al interior de la Administración Pública Estatal;
+
+II. Realizar acciones tendientes a mejorar las condiciones de las mujeres servidoras públicas al interior del Poder Ejecutivo Estatal;
+
+III. Generar estadísticas, dentro del ámbito de su competencia, en materia de prevención, atención y erradicación de la violencia contra las mujeres y presentarlas en las sesiones ordinarias del Sistema Estatal;
+
+IV. Incluir en sus programas, acciones y estrategias, los ejes de acción de prevención y erradicación de la violencia contra las mujeres;
+
+V. Adherirse a los protocolos o acuerdos internacionales signados por el Estado Mexicano sobre la erradicación de la violencia contra las mujeres que se considere procedente;
+
+VI. Difundir, en coordinación con la instancia competente, información y materiales referentes a la prevención, atención y sanción de la violencia contra las mujeres;
+
+VII. Participar en la elaboración del Programa Estatal en coordinación, con las demás autoridades integrantes del Sistema Estatal;
+
+VIII. Participar como integrante de la Mesa de Armonización Legislativa, a fin de revisar semestralmente los avances legislativos en el país, en la materia, con el propósito de evitar cualquier declaratoria de alerta de violencia contra las mujeres;
+
+IX. Colaborar con el Instituto de la Mujer para el Estado de Morelos y con la Administración Pública Estatal respecto a la ejecución de las políticas públicas en materia de erradicación de la violencia contra las mujeres;
+
+X. Coadyuvar con la Secretaría de Gobierno en el diseño de la política de sanción y erradicación de los delitos violentos contra las mujeres;
+
+XI. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+XII. Las demás previstas para el cumplimiento de la presente ley.
 
 ### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
 
@@ -2262,3 +2318,33 @@ PRIMERO.– Aprobado el presente Decreto por las diputadas y diputados integrant
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERO.– Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CINCO.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES EN MATERIA DE REINGENIERÍA ADMINISTRATIVA”.]
+
+PRIMERA. Remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5641, de fecha 04 de octubre de 2018.
+
+CUARTA. Se derogan todas aquellas disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+QUINTA. Dentro de un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes y reglamentos que resulten aplicables, para su armonización correspondiente; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por el presente Decreto.
+
+SEXTA. Para el cumplimiento de la presente Ley, la Persona Titular del Poder Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura orgánica de las Secretarías o Dependencias estatales, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, pudiendo realizar las adecuaciones presupuestales dentro de las mismas, de conformidad con lo previsto en el Presupuesto de Egresos del Estado de Morelos para el ejercicio fiscal correspondiente. Por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+SÉPTIMA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos que se refieran a la Secretaría de Obras Públicas, Secretaría de Turismo y Cultura, a la Secretaría de Desarrollo Social y a la Comisión Estatal de Seguridad Pública, se entenderán asignadas y referidas a la Secretaría de Infraestructura, a la Secretaría de Turismo, a la Secretaría de Cultura, a la Secretaría de Bienestar y a la Secretaría de Seguridad y Protección Ciudadana, respectivamente; lo que implica también la asignación correspondiente de todos los recursos humanos, materiales, organizacionales, financieros y presupuestarios, en términos de la normativa aplicable.
+
+OCTAVA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Movilidad y Transporte, y a la Comisión Estatal de Seguridad Pública en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de la Secretaría de Infraestructura, de la Secretaría de Bienestar, de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana, respectivamente, por virtud de las facultades y atribuciones conferidas a éstas mediante el presente Decreto.
+
+NOVENA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga pase a otra dependencia, se transferirán también los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente Decreto; lo cual será coordinado y supervisado por las Secretarías de Hacienda, de Administración y de la Contraloría, así como de la Jefatura de la Oficina de la Gubernatura del Estado, en el ámbito de sus atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMA. El día de la entrada en vigor del presente Decreto, la extinta Secretaría de Turismo y Cultura procederá a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los asuntos que se encuentren en trámite o en proceso, a la ahora Secretaría de Cultura, a efecto de que sea esta Secretaría de Despacho quien, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, determine la reasignación y lleve a cabo la transferencia de dichos asuntos, conforme al ámbito de competencias conferidas por virtud del presente Decreto, a la ahora Secretaría de Turismo a fin de que dé continuidad en su trámite, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de dicha redistribución pueda modificar o alterar su curso y resultado.
+
+DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga, cuyas atribuciones se trasladen a otras Secretarías o Dependencias, con motivo del presente Decreto, continuarán tramitándose hasta su conclusión en los términos establecidos en normativa que les dio origen, sin que el traspaso modifique o altere su curso y resultado.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
+
+DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
