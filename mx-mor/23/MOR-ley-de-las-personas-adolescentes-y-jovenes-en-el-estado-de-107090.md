@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-1070
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-01"
-last_updated: "2024-09-04"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2015.
 
@@ -93,7 +93,11 @@ XIV. Consulta: Consultas Regionales;
 
 XV. Diagnóstico: Diagnóstico Estatal con las juventudes y desde las juventudes; y
 
-XVI. Sistema: Sistema Estatal de Políticas con las juventudes y desde las juventudes.
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Secretaría: Secretaría de Bienestar, y
+
+XVII. Sistema: Sistema Estatal de Políticas con las juventudes y desde las juventudes.
 
 ###### Artículo 4.
 
@@ -155,7 +159,9 @@ Los Planes y Programas que se realicen en beneficio de las personas adolescentes
 
 Los Planes y Programas realizados por las diversas instancias de Gobierno deberán trabajar para que las condiciones económicas, culturales y sociales que generan inequidad, explotación y abuso de las personas adolescentes y jóvenes sean atendidas y solucionadas.
 
-Las instancias de gobierno del Estado de Morelos deberán trabajar para lograr la equidad de género al interior de las familias, erradicando los patrones de agresión.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La Administración Pública Estatal deberá trabajar para lograr la equidad de género al interior de las familias, erradicando los patrones de agresión.
 
 Queda totalmente prohibida la distinción, exclusión o restricción, basada en la condición de género que tenga como objetivo suspender, restringir o desconocer el goce o el ejercicio de los derechos humanos y libertades fundamentales de las personas adolescentes y jóvenes.
 
@@ -357,13 +363,17 @@ La educación en sexualidad deberá incluir información sobre los comportamient
 
 La sexualidad deberá regirse por los mismos principios y derechos fundamentales que rigen a la educación en el marco constitucional federal, tomando en cuenta las necesidades específicas de las personas adolescentes y jóvenes, fomentando una conducta informada y responsable en el ejercicio de la sexualidad, orientada a su plena aceptación e identidad, así como, a la prevención de las infecciones de transmisión sexual, el VIH/SIDA/ITS, los embarazos no planeado (sic) y el abuso o violencia sexual.
 
-El Ejecutivo adoptará e implementará políticas con las juventudes y desde las juventudes, de información sobre sexualidad dentro y fuera de los planteles de educación formal, estos últimos siempre y cuando estén incorporados a un órgano del propio Gobierno del Estado, estableciendo Planes, campañas y Programas que aseguren la información, la divulgación científica y el pleno y responsable ejercicio de dicha información. Para ello el sector salud dará legitimidad, espacio y recursos para las personas adolescentes y jóvenes como parte activa de los programas de salud sexual.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La Administración Pública Estatal adoptará e implementará políticas con las juventudes y desde las juventudes, de información sobre sexualidad dentro y fuera de los planteles de educación formal, estos últimos siempre y cuando estén incorporados a un órgano del propio Poder Ejecutivo Estatal, estableciendo Planes, campañas y Programas que aseguren la información, la divulgación científica y el pleno y responsable ejercicio de dicha información. Para ello el sector salud dará legitimidad, espacio y recursos para las personas adolescentes y jóvenes como parte activa de los programas de salud sexual.
 
 El estado aplicará y desarrollará políticas con las juventudes y desde las juventudes, con base en programas sobre sexualidad, a través de los planes, campañas y programas que aseguren la información completa, científica, psicológica y afectiva, fundamentada en evidencia, libre de prejuicios, apropiada y no sesgada, acorde a la edad de las personas adolescentes y jóvenes que participen de esta educación. Ésta debe incluir oportunidades estructuradas que les permitan conocer y asumir decisiones responsables sobre su sexualidad en una edad madura, así como poner en práctica la toma de decisiones y otras competencias necesarias para realizar elecciones fundamentadas acerca de su vida sexual, permitiendo así, el pleno y responsable ejercicio de la misma.
 
 El Estado recopilará evidencia para prevenir embarazos no planeados y asumirá la responsabilidad del acompañamiento para las madres y padres jóvenes que asuman una paternidad a temprana edad en las condiciones que sea, además de aquella evidencia dirigida a aumentar el empleo, la retención escolar, la disponibilidad educativa y el apoyo social; asimismo, llevará a cabo investigaciones en diversos contextos socioculturales para identificar programas factibles para reducir el embarazo no planeado en las personas adolescentes.
 
-El Ejecutivo garantizará el acceso universal de las personas adolescentes y jóvenes a los servicios de promoción, prevención, detección oportuna y tratamiento temprano de VIH/ SIDA/ ITS; dado por la oferta institucional en educación sexual y en el conocimiento del estatus serológico.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+El Poder Ejecutivo Estatal garantizará el acceso universal de las personas adolescentes y jóvenes a los servicios de promoción, prevención, detección oportuna y tratamiento temprano de VIH/ SIDA/ ITS; dado por la oferta institucional en educación sexual y en el conocimiento del estatus serológico.
 
 Las autoridades del sector salud en el Estado crearán Programas de Orientación, Educación, y Rehabilitación Sexual y Reproductiva para las personas adolescentes y jóvenes con discapacidad y sus familias.
 
@@ -383,9 +393,13 @@ El Estado generará políticas con las juventudes y desde las juventudes para es
 
 Las instituciones encargadas del arte y la cultura en el Estado deberán generar y difundir entre la sociedad el respeto a la diversidad y participación de las personas adolescentes y jóvenes, y de las personas adolescentes y jóvenes con discapacidad en el arte y la cultura; estableciendo condiciones de inclusión de las personas adolescentes y jóvenes, y de las personas adolescentes y jóvenes con discapacidad para lograr equidad en la promoción, el disfrute y la producción de servicios artísticos y culturales.
 
-A través de las dependencias de gobierno pertinentes el Poder Ejecutivo impulsará el reconocimiento y el apoyo de la identidad cultural y lingüística específica de las personas adolescentes y jóvenes con discapacidad, incluidas la Lengua de Señas Mexicana y la cultura de los sordos; para ello deberá partir de la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales; fomentando la elaboración de materiales de lectura, inclusive en Sistema Braille u otros formatos accesibles.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-La autoridad promoverá y garantizará, por todos los medios a su alcance, la promoción de las expresiones culturales de las personas adolescentes y jóvenes, y el intercambio cultural a nivel nacional e internacional; contemplará mecanismos para el acceso de las personas adolescentes y jóvenes a distintas manifestaciones culturales, además de un sistema promotor de iniciativas culturales juveniles, poniendo énfasis en rescatar elementos culturales de los sectores populares y de los pueblos indígenas asentados en el Estado.
+La Administración Pública Estatal impulsará el reconocimiento y el apoyo de la identidad cultural y lingüística específica de las personas adolescentes y jóvenes con discapacidad, incluidas la Lengua de Señas Mexicana y la cultura de los sordos; para ello deberá partir de la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales; fomentando la elaboración de materiales de lectura, inclusive en Sistema Braille u otros formatos accesibles.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La autoridad correspondiente, conforme al ámbito de sus respectivas competencias, promoverá y garantizará, por todos los medios a su alcance, la promoción de las expresiones culturales de las personas adolescentes y jóvenes, y el intercambio cultural a nivel nacional e internacional; contemplará mecanismos para el acceso de las personas adolescentes y jóvenes a distintas manifestaciones culturales, además de un sistema promotor de iniciativas culturales juveniles, poniendo énfasis en rescatar elementos culturales de los sectores populares y de los pueblos indígenas asentados en el Estado.
 
 ###### Artículo 26.
 
@@ -463,7 +477,9 @@ Las personas adolescentes y jóvenes tienen derecho a vivir en un ambiente sano 
 
 El Estado reconoce la importancia de proteger y utilizar adecuadamente los recursos naturales, con el objeto de satisfacer las necesidades actuales sin comprometer los requerimientos de las generaciones futuras e impulsando el desarrollo sustentable.
 
-El Ejecutivo garantizará la participación corresponsable de las personas adolescentes y jóvenes, en forma individual o colectiva, en la preservación y restauración del equilibrio ecológico y la protección al ambiente; para ello las autoridades educativas promoverán la incorporación de contenidos ecológicos, conocimientos y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de las personas adolescentes y jóvenes. Asimismo, propiciarán la participación comprometida de las juventudes en el fortalecimiento de la conciencia ecológica, y la socialización de Proyectos de Desarrollo Sustentable.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La Administración Pública Estatal garantizará la participación corresponsable de las personas adolescentes y jóvenes, en forma individual o colectiva, en la preservación y restauración del equilibrio ecológico y la protección al ambiente; para ello las autoridades educativas promoverán la incorporación de contenidos ecológicos, conocimientos y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de las personas adolescentes y jóvenes. Asimismo, propiciarán la participación comprometida de las juventudes en el fortalecimiento de la conciencia ecológica, y la socialización de Proyectos de Desarrollo Sustentable.
 
 El Estado debe comprometerse a fomentar y promover la conciencia, la responsabilidad, la solidaridad, la participación y la educación e información ambiental, entre las personas adolescentes y jóvenes.
 
@@ -489,9 +505,13 @@ Las personas adolescentes y jóvenes tienen derecho a la educación física y a 
 
 El Estado fomentará, en igualdad de oportunidades, actividades que contribuyan al desarrollo de las personas adolescentes y jóvenes en los planos físico, intelectual y social, garantizando los recursos humanos y la infraestructura necesaria para el ejercicio de estos derechos.
 
-Las dependencias correspondientes impulsarán los mecanismos para el acceso de todas las personas adolescentes y jóvenes con discapacidad, a la práctica deportiva, a la actividad física y al disfrute de espectáculos deportivos; así como un programa de promoción y apoyo para las iniciativas deportivas juveniles.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-El Ejecutivo promoverá a través de políticas públicas, programas y acciones, aquellos mecanismos de acceso a los recursos de las instancias necesarias, para impulsar el deporte o actividades físicas y espacios adecuados para los mismos.
+Las autoridades correspondientes, conforme al ámbito de sus respectivas competencias, impulsarán los mecanismos para el acceso de todas las personas adolescentes y jóvenes con discapacidad, a la práctica deportiva, a la actividad física y al disfrute de espectáculos deportivos; así como un programa de promoción y apoyo para las iniciativas deportivas juveniles.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La Administración Pública Estatal promoverá a través de políticas públicas, programas y acciones, aquellos mecanismos de acceso a los recursos de las instancias necesarias, para impulsar el deporte o actividades físicas y espacios adecuados para los mismos.
 
 ###### Artículo 33.
 
@@ -543,59 +563,71 @@ XV. Transparencia y Rendición de Cuentas: Es obligación de las autoridades de 
 
 ### CAPÍTULO IV. DEL SISTEMA ESTATAL DE POLÍTICAS CON LAS JUVENTUDES Y DESDE LAS JUVENTUDES
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-Se establece el Sistema Estatal de Políticas con las juventudes y desde las juventudes como el mecanismo de planeación, coordinación, seguimiento y evaluación de las políticas con las juventudes y desde las juventudes, de la Administración Pública del Estado de Morelos.
+Se establece el Sistema Estatal de Políticas con las juventudes y desde las juventudes como el mecanismo de planeación, coordinación, seguimiento y evaluación de las políticas con las juventudes y desde las juventudes, de la Administración Pública Estatal.
 
 Las funciones del Sistema son:
 
-I. Aprobar los Lineamientos Generales de Políticas con las juventudes y desde las juventudes, de la Administración Pública del Estado de Morelos;
+I. Aprobar los Lineamientos Generales de Políticas con las juventudes y desde las juventudes, de la Administración Pública Estatal;
 
-II. Coadyuvar en la planeación de las Políticas, Programas, Proyectos, Acciones y Campañas con las juventudes y desde las juventudes, de la Administración Pública del Estado de Morelos;
+II. Coadyuvar en la planeación de las Políticas, Programas, Proyectos, Acciones y Campañas con las juventudes y desde las juventudes, de la Administración Pública Estatal;
 
 III. Aprobar y dar seguimiento al Programa Estatal con las juventudes y desde las juventudes, para el período de Gobierno, mismo que deberá ser publicado en el Periódico Oficial del Estado;
 
 IV. Establecer programas, proyectos, acciones y campañas transversales entre los miembros del Sistema para garantizar los Derechos de las personas adolescentes y jóvenes;
 
-V. Recibir de los titulares de las secretarías, organismos y dependencias de la Administración Pública del Estado un informe detallado, de carácter anual, de los Programas, Proyectos, Acciones y Campañas que entre su población objetivo se encuentren las personas adolescentes y jóvenes;
+V. Recibir de las personas titulares de las Secretarías, Dependencias y Organismos Auxiliares de la Administración Pública Estatal un informe detallado, de carácter anual, de los Programas, Proyectos, Acciones y Campañas que entre su población objetivo se encuentren las personas adolescentes y jóvenes;
 
 VI. Recibir los reportes, informes y recomendaciones que presente el Instituto Morelense de las Personas Adolescentes y Jóvenes; y
 
-VII. Cualquier otra que le asigne la Ley.
+VIII. Cualquier otra que le asigne la Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 37.
 
-El Sistema Estatal de Políticas con las juventudes y desde las juventudes será presidido por el Gobernador del Estado y el Director General del Instituto será el Secretario del Sistema.
+El Sistema Estatal de Políticas con las juventudes y desde las juventudes será presidido por la Persona Titular del Poder Ejecutivo Estatal y la persona titular de la Dirección General del Instituto ocupará a (sic) Secretaría del Sistema.
 
-Los integrantes del Sistema serán las Secretarías, Organismos y Dependencias que señale la Ley Orgánica de la Administración Pública del Estado de Morelos, su participación será normada de acuerdo al Reglamento que se expida para la presente Ley.
+Los integrantes del Sistema serán las Secretarías, Dependencias y organismos auxiliares que señale la Ley Orgánica de la Administración Pública Estatal, su participación será normada de acuerdo al Reglamento que se expida para la presente Ley.
 
-Los titulares de los Poderes Legislativo y Judicial, los titulares de los Órganos Autónomos del Estado, así como los integrantes del Concejo de las Juventudes del Estado de Morelos, la conferencia Municipal de Adolescencia y Juventud y de la Oficina podrán asistir a las sesiones del Sistema con carácter de invitados en caso que la temática de la agenda y las sesiones del Sistema así lo ameriten. El Secretario del Sistema hará la invitación correspondiente.
+Las personas titulares de los Poderes Legislativo y Judicial, las personas titulares de los Órganos Autónomos del Estado, así como las personas integrantes del Concejo de las Juventudes del Estado de Morelos, la conferencia Municipal de Adolescencia y Juventud y de la Oficina podrán asistir a las sesiones del Sistema con carácter de invitados en caso de que la temática de la agenda y las sesiones del Sistema así lo ameriten. La persona encargada de la Secretaría del Sistema hará la invitación correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
-El Sistema Estatal de Políticas con las juventudes y desde las juventudes deberá ser instalado a más tardar a los tres meses del inicio de la administración, con la presencia del Gobernador del Estado, y de los titulares de las Secretarías, Organismos y Dependencias señalados anteriormente. Serán invitados los titulares de los Poderes Legislativo y Judicial, los titulares de los Órganos Autónomos del Estado, así como los integrantes del Concejo de las Juventudes del Estado de Morelos, la conferencia Municipal de Adolescencia y Juventud y de la Oficina.
+El Sistema Estatal de Políticas con las juventudes y desde las juventudes deberá ser instalado a más tardar a los tres meses del inicio de la administración, con la presencia de la Persona Titular del Poder Ejecutivo Estatal, y de las personas titulares de las Secretarías, Organismos y Dependencias señalados anteriormente. Serán invitados las personas titulares de los Poderes Legislativo y Judicial, los titulares de los Órganos Autónomos del Estado, así como las personas integrantes del Concejo de las Juventudes del Estado de Morelos, la conferencia Municipal de Adolescencia y Juventud y de la Oficina.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-El Secretario del Sistema Estatal de Políticas con las juventudes y desde las juventudes tendrá por funciones:
+La persona que ocupe la Secretaría del Sistema Estatal de Políticas con las juventudes y desde las juventudes tendrá por funciones:
 
-I. Proponer la agenda y las sesiones del Sistema al Gobernador del Estado para su aprobación;
+I. Proponer la agenda y las sesiones del Sistema a la Persona Titular del Poder Ejecutivo Estatal para su aprobación;
 
 II. Citar a las sesiones ordinarias y extraordinarias del Sistema;
 
-III. Presidir la sesión del Sistema en caso de ausencia del Gobernador del Estado;
+III. Presidir la sesión del Sistema en caso de ausencia de la Persona Titular del Poder Ejecutivo Estatal;
 
-IV. Dar cuenta de los acuerdos tomados en el Sistema; y
+IV. Dar cuenta de los acuerdos tomados en el Sistema, y
 
 V. Cualquier otra que la presente Ley y su reglamento le asigne.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 40.
 
-El Secretario del Sistema citará según la temática de las sesiones del Sistema a los funcionarios públicos de las entidades miembros del Sistema que considere pertinentes.
+La persona que ocupe la Secretaría del Sistema citará según la temática de las sesiones del Sistema a las personas funcionarias públicas de las entidades miembros del Sistema que considere pertinentes.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 41.
 
-Los integrantes del Sistema deberán definir cuáles de los Programas, Proyectos, acciones o campañas que realizan son clasificables como políticas con las juventudes y desde las juventudes. La Oficina por conducto del Director General del Instituto podrá recomendar a las entidades del Sistema clasificar los Programas, Proyectos, acciones o campañas que consideren cumplen con esos criterios.
+Las personas integrantes del Sistema deberán definir cuáles de los Programas, Proyectos, acciones o campañas que realizan son clasificables como políticas con las juventudes y desde las juventudes. La Oficina por conducto (sic) la persona titular de la Dirección General del Instituto podrá recomendar a las entidades del Sistema clasificar los Programas, Proyectos, acciones o campañas que consideren cumplen con esos criterios.
 
 ###### Artículo 42.
 
@@ -603,9 +635,11 @@ Las Políticas con las juventudes y desde las juventudes así clasificadas por e
 
 ### CAPÍTULO V. DE LOS MECANISMOS DE PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 43.
 
-Los integrantes del Sistema realizarán congresos, consultas, foros, conferencias, encuestas, sondeos, grupos focales, y toda clase de espacios para la participación social de la ciudadanía morelense, y en especial de las personas adolescentes y jóvenes para el diseño y la evaluación de las políticas públicas con las juventudes y desde las juventudes.
+Las personas integrantes del Sistema realizarán congresos, consultas, foros, conferencias, encuestas, sondeos, grupos focales, y toda clase de espacios para la participación social de la ciudadanía morelense, y en especial de las personas adolescentes y jóvenes para el diseño y la evaluación de las políticas públicas con las juventudes y desde las juventudes.
 
 ###### Artículo 44.
 
@@ -615,23 +649,29 @@ El Plan Estatal de Desarrollo, el Programa Sectorial y el Programa Estatal con l
 
 El Sistema deberá elaborar y aprobar el Proyecto del Programa Estatal con las juventudes y desde las juventudes en un plazo no mayor de un año contado a partir de la fecha de la publicación del Plan Estatal de Desarrollo. El Programa Estatal con las juventudes y desde las juventudes no podrá exceder la vigencia del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-El Concejo de las Juventudes del Estado de Morelos, en conjunto con el Instituto Morelense de las Personas Adolescentes y Jóvenes, deberá diseñar la metodología de los Foros de Consulta Regionales de Participación Social sobre Adolescencia y Juventud para recoger las opiniones de las personas adolescentes y jóvenes, y la ciudadanía interesada para la elaboración del Programa Estatal con las juventudes y desde las juventudes. El Concejo de las Juventudes del Estado de Morelos, presentará y hará entrega de la relatoría de los Foros Regionales al Instituto.
+El Concejo de las Juventudes del Estado de Morelos, en conjunto con el Instituto Morelense de las Personas Adolescentes y Jóvenes, deberá diseñar la metodología de los Foros de Consulta, mismos que podrán ser Municipales, Regionales o Estatales de Participación Social sobre Adolescencia y Juventud para recoger las opiniones de las personas adolescentes y jóvenes, y la ciudadanía interesada para la elaboración del Programa Estatal con las juventudes y desde las juventudes. El Concejo de las Juventudes del Estado de Morelos, presentará y hará entrega de la relatoría de los Foros al Instituto.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 47.
 
 El Instituto Morelense de las Personas Adolescentes y Jóvenes elaborará el Proyecto de Programa Estatal con las juventudes y desde las juventudes, el cual contendrá un diagnóstico de la situación de la adolescencia y las Juventudes en el Estado y el conjunto de los Ejes, Líneas Estratégicas y Acciones específicas a realizarse durante la administración del Gobierno del Estado como resultado de los Foros y dará a conocer los indicadores generales de medición de los objetivos del Programa.
 
-El Proyecto del Programa Estatal con las juventudes y desde las juventudes será presentado, previa opinión favorable de la Oficina al Pleno del Sistema, los integrantes del Sistema podrán realizar observaciones y, en su caso, propondrán los cambios que consideren convenientes, el Gobernador del Estado definirá si las observaciones y propuestas son de aceptarse o rechazarse.
+El Proyecto del Programa Estatal con las juventudes y desde las juventudes será presentado, previa opinión favorable de la Oficina al Pleno del Sistema, los integrantes del Sistema podrán realizar observaciones y, en su caso, propondrán los cambios que consideren convenientes, la Persona Titular del Poder Ejecutivo Estatal definirá si las observaciones y propuestas son de aceptarse o rechazarse.
 
 ### CAPÍTULO VI. DEL INSTITUTO MORELENSE DE LAS PERSONAS ADOLESCENTES Y JÓVENES
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 48.
 
 Se crea el Instituto Morelense de las Personas Adolescentes y Jóvenes como órgano desconcentrado del Poder Ejecutivo con autonomía de gestión. Teniendo como finalidad la rectoría sobre las políticas de la Administración Pública del Estado dirigidas a las personas adolescentes y jóvenes, y el cumplimiento de las disposiciones de la presente Ley.
 
-Tendrá su domicilio en la Ciudad de Cuernavaca, Morelos.
+Tendrá su domicilio en el Estado de Morelos.
 
 ###### Artículo 49.
 
@@ -671,7 +711,9 @@ X. Organizar las actividades voluntariado y trabajo comunitario de las personas 
 
 XI. Difundir los derechos de las personas adolescentes y jóvenes, así como de la perspectiva de juventud y la política pública entre los ciudadanos del Estado; y
 
-XII. Fomentar la creación de Instancias de Juventud en cada uno de los Municipios del Estado, en coordinación con cada Ayuntamiento.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Fomentar la creación de Instancias de Juventud en cada uno de los Municipios del Estado, en coordinación con cada Ayuntamiento en términos de la Ley Orgánica Municipal del Estado de Morelos;
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 2020)</small>
 
@@ -687,29 +729,35 @@ b).- Una Dirección General; y
 
 c).- Las Unidades Administrativas que se establezcan en el Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 52.
 
 El Consejo Técnico se integrará por:
 
-a).- El Gobernador del Estado; quien será Presidente;
+a).- La Persona Titular del Poder Ejecutivo Estatal; quien lo presidirá;
 
-b).- El Titular de la Secretaría de Desarrollo Social; Vocal (sic);
+b).- La persona titular de la Secretaría; como Vocal;
 
-c).- El Titular de la Secretaría de Hacienda, quien será Vocal;
+c).- La persona titular de la Secretaría de Hacienda, como Vocal;
 
-d).- El Titular de la Secretaría de Administración, quien será Vocal; y
+d).- La persona titular de la Secretaría de Administración, como Vocal;
 
-e).- El Titular de la Secretaría de la Contraloría, quien será Vocal.
+e).- La persona titular de la Secretaría de la Contraloría, como Vocal; y
 
-El Director General del Instituto asistirá con el carácter de Secretario Técnico.
+f).- La persona titular de la Secretaría de la Mujer; como Vocal.
 
-El desempeño de los miembros del Consejo Técnico será honorífico. Los integrantes del Consejo podrán designar representantes que les sustituyan en sus ausencias, en ningún caso podrán nombrar representantes con cargo inferior al de Director General o su equivalente.
+La persona titular de la Dirección General del Instituto ocupará la Secretaría Técnica.
+
+El desempeño de las personas integrantes del Consejo Técnico será honorífico. Las personas integrantes del Consejo podrán acreditar representantes que les sustituyan en sus ausencias, en ningún caso podrán acreditar representantes con cargo inferior al de una Dirección General o su equivalente.
 
 ###### Artículo 53.
 
 Son atribuciones del Consejo Técnico:
 
-I. Aprobar y modificar, en su caso, el Reglamento Interior del Instituto a propuesta del Director y remitirlo al Ejecutivo para su publicación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+I. Aprobar y modificar, en su caso, el Reglamento Interior del Instituto a propuesta (sic) la persona titular de la Dirección General y remitirlo al Ejecutivo para su publicación;
 
 II. Aprobar los Programas Operativos Anuales;
 
@@ -719,19 +767,25 @@ IV. Aprobar, de acuerdo con las disposiciones legales aplicables, la elaboració
 
 V. Vigilar el cumplimiento de los fines del Instituto;
 
-VI. Aprobar el informe anual de actividades que le presente el Director General; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Aprobar el informe anual de actividades que le presente la persona titular de la Dirección General; y
 
 VII. Las demás que se establezcan en la presente Ley y los demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 54.
 
-El Consejo Técnico celebrará sesiones ordinarias por lo menos cuatro veces por año y las extraordinarias a que convoque su Presidente, el Secretario Técnico o la mayoría de los integrantes.
+El Consejo Técnico celebrará sesiones ordinarias por lo menos cuatro veces por año y las extraordinarias a que convoque la persona titular de la Presidencia, la Secretaría Técnica o la mayoría de las personas integrantes.
 
 El Consejo Técnico, sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 55.
 
-Corresponde al Presidente del Consejo Técnico:
+Corresponde a la Presidencia del Consejo Técnico:
 
 I. Instalar y presidir las sesiones ordinarias y extraordinarias del Consejo Técnico;
 
@@ -743,31 +797,37 @@ IV. Delegar en los miembros del Consejo Técnico la ejecución y realización de
 
 V. Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 56.
 
-El Director General del Instituto será nombrado y removido libremente por el o la titular del Poder Ejecutivo.
+La persona titular de la Dirección General del Instituto será nombrada y removida libremente por la Persona Titular del Poder Ejecutivo Estatal.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-Para ser director general del instituto se requiere:
+Para ser titular de la Dirección General del instituto se requiere:
 
-I. Ser morelense en pleno ejercicio de sus derechos, de dieciocho a veintinueve años cumplidos, al momento de su designación, de conformidad con lo establecido en el artículo 3, fracción II de la ley;
+I. Ser morelense en pleno ejercicio de sus derechos, preferentemente de dieciocho a veintinueve años cumplidos, al momento de su designación, de conformidad con lo establecido en el artículo 3, fracción II de la ley;
 
-II. Contar con los conocimientos y experiencia en Programas y políticas con las juventudes y desde las juventudes; y,
+II. Contar con los conocimientos y experiencia en Programas, planes y políticas con las juventudes y desde las juventudes, y
 
-III. Cumplir con los requerimientos que establece la normatividad aplicable a los servidores públicos.
+III. Cumplir con los requerimientos que establece la normatividad aplicable a las personas servidoras públicas.
 
 En la designación de la persona titular de la Dirección General se deberá garantizar, bajo el principio de representación paritaria, la alternancia entre hombres y mujeres en la titularidad del Instituto, por lo que se asignará género distinto al de la persona que haya ostentado el cargo en el periodo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 58.
 
-El Director General del Instituto tendrá las siguientes atribuciones:
+La persona titular de la Dirección General del Instituto tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Instituto;
 
-II. Asistir con carácter de secretario a las sesiones que se (sic) celebre el Consejo Técnico con voz y voto, así como también ejecutar los acuerdos y disposiciones del Consejo Técnico;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. Ocupar la Secretaría en las sesiones que se (sic) celebre el Consejo Técnico con voz y voto, así como también ejecutar los acuerdos y disposiciones del Consejo Técnico;
 
 III. Elaborar y someter a la consideración del Consejo Técnico los anteproyectos institucionales, de presupuesto y operativo anual del Instituto;
 
@@ -775,7 +835,9 @@ IV. Presentar ante el Consejo Técnico los Manuales de Organización;
 
 V. Presentar al Consejo Técnico, un Informe Anual de las actividades, avance de Programas y Estados Financieros con las observaciones que estime pertinentes y que permitan conocer el estado administrativo y operativo del Instituto. Asimismo, presentará los informes que le solicite al Consejo Técnico;
 
-VI. Nombrar y remover libremente a los servidores públicos de las Unidades Administrativas establecidas por el Reglamento Interior con apego a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Nombrar y remover libremente a las personas servidoras públicas de las Unidades Administrativas establecidas por el Reglamento Interior con apego a la normatividad aplicable;
 
 VII. Fungir como representante del Gobierno Estatal en materia de juventud, ante los Gobiernos Federal y Municipales, Organizaciones No Gubernamentales y Organismos Internacionales, así como en los Foros, Convenciones, encuentros y demás reuniones, en las que el Ejecutivo indique su participación;
 
@@ -813,21 +875,27 @@ VII. Emitir anualmente recomendaciones a la Administración Pública Estatal y M
 
 VIII. Las demás que se establezcan en la presente Ley y demás ordenamientos jurídicos y disposiciones administrativas.
 
-Los reportes, evaluaciones y recomendaciones de la Oficina que por conducto del Director General sean presentadas al Sistema deberán ser respondidos y en su caso adoptados de manera parcial, completa, o ser rechazados. En caso de su adopción los integrantes del Sistema deberán informar al Instituto del avance de su cumplimiento.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Los reportes, evaluaciones y recomendaciones de la Oficina que por conducto de la persona titular de la Dirección General sean presentadas al Sistema deberán ser respondidos y en su caso adoptados de manera parcial, completa, o ser rechazados. En caso de su adopción los integrantes del Sistema deberán informar al Instituto del avance de su cumplimiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 62.
 
 La Oficina estará conformada por tres profesionales en materia de juventud o evaluación de políticas públicas con las juventudes y desde las juventudes.
 
-El Director General del Instituto emitirá Convocatoria Pública para la selección por concurso de oposición de los profesionales señalados en este artículo, la cual deberá establecer los requisitos de elegibilidad que disponga el Reglamento de la presente Ley. El Director del Instituto presentará una terna, de entre quienes hayan acreditado el proceso de selección, para su designación por el Gobernador del Estado.
+La persona titular de la Dirección General del Instituto emitirá Convocatoria Pública para la selección por concurso de oposición de los profesionales señalados en este artículo, la cual deberá establecer los requisitos de elegibilidad que disponga el Reglamento de la presente Ley. La persona titular de la Dirección General del Instituto presentará una terna, de entre quienes hayan acreditado el proceso de selección, para su designación por la Persona Titular del Poder Ejecutivo Estatal.
 
-Los profesionales de la Oficina sólo podrán ser removidos de sus funciones por el Gobernador del Estado cuando en el ejercicio de sus funciones transgredan en forma grave o reiterada las disposiciones contenidas en las Leyes.
+Las personas profesionales de la Oficina sólo podrán ser removidos de sus funciones por la Persona Titular del Poder Ejecutivo Estatal cuando en el ejercicio de sus funciones transgredan en forma grave o reiterada las disposiciones contenidas en las Leyes.
 
-Los profesionales que se incorporen a la Oficina serán nombrados por tiempo determinado para permitir su salida y el nombramiento de nuevos integrantes de manera escalonada. Un integrante será nombrado por un periodo de cuatro años, un miembro será nombrado por un período de cinco años y un miembro será nombrado por un período de seis años.
+Las personas profesionales que se incorporen a la Oficina serán nombrados por tiempo determinado para permitir su salida y el nombramiento de nuevos integrantes de manera escalonada. Un integrante será nombrado por un periodo de cuatro años, un miembro será nombrado por un período de cinco años y un miembro será nombrado por un período de seis años.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 63.
 
-El Director General del Instituto proporcionará todos los elementos técnicos y administrativos para el buen funcionamiento de la Oficina.
+La persona titular de la Dirección General del Instituto proporcionará todos los elementos técnicos y administrativos para el buen funcionamiento de la Oficina.
 
 ###### Artículo 64.
 
@@ -843,61 +911,61 @@ La Oficina, para efectos de sus reportes, evaluaciones y recomendaciones no esta
 
 Se crea el Concejo de las Juventudes del Estado de Morelos como Órgano Consultivo del Instituto para la participación de las personas adolescentes y jóvenes. Tiene por objeto incluir propuestas de un grupo plural de personas adolescentes y jóvenes sobre las Políticas, Planes, Programas, Proyectos, Acciones y campañas de juventud, además de cumplir con las actividades que establezca la presente Ley.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 67.
 
 El Concejo de las Juventudes del Estado de Morelos estará integrado de la siguiente manera con miembros con derecho a voz y voto:
 
-I. Una presidenta o un presidente que será el Director General del Instituto;
+I. Una Presidencia que será ocupada por la persona titular de la Dirección General del Instituto;
 
-II. Una secretaria o secretario técnico, que será nombrado por el presidente del Concejo de las Juventudes del Estado de Morelos; y
+II. Una secretaría técnica, que será nombrada por la presidencia del Concejo de las Juventudes del Estado de Morelos; y
 
 III. Las y los integrantes del Pleno que serán:
 
-a) Un representante estudiantil;
+a) Una persona representante estudiantil;
 
-b) Un representante de la comunidad LGBTI;
+b) Una persona representante de la comunidad LGBTI;
 
-c) Un representante de las juventudes indígenas;
+c) Una persona representante de las juventudes indígenas;
 
-d) Un representante promovente de la cultura;
+d) Una persona representante promovente de la cultura;
 
 e) Dos representantes que promuevan los derechos de las mujeres;
 
-f) Un representante de jóvenes con discapacidad;
+f) Una persona representante de jóvenes con discapacidad;
 
-g) Un representante del deporte;
+g) Una persona representante del deporte;
 
-h) Un representante que promueva la salud integral de las personas adolescentes y jóvenes;
+h) Una persona representante que promueva la salud integral de las personas adolescentes y jóvenes;
 
-i) Un representante del ámbito científico, tecnológico o académico;
+i) Una persona representante del ámbito científico, tecnológico o académico;
 
-j) Un representante empresarial;
+j) Una persona representante empresarial;
 
-k) Un representante de seguridad pública;
+k) Una persona representante de seguridad pública;
 
-l) Un representante del sector campesino;
+l) Una persona representante del sector campesino;
 
-m) Un representante del sector ambientalista;
+m) Una persona representante del sector ambientalista;
 
 n) Dos representantes que promuevan los Derechos Humanos;
 
-o) Un representante que promueva la participación ciudadana,
+o) Una persona representante que promueva la participación ciudadana,
 
-p) Un representante de asociaciones religiosas.
+p) Una persona representante de asociaciones religiosas.
 
-La integración del consejo deberá estar conformado por lo menos de tres adolescentes, con el objetico (sic) de dar voz al interior de la toma de decisiones del Consejo de las Juventudes del Estado de Morelos.
+La integración del consejo deberá estar conformado por lo menos de tres adolescentes, con el objetico (sic) de dar voz al interior de la toma de decisiones del Consejo (sic) de las Juventudes del Estado de Morelos.
 
-La directora o director general del instituto emitirá convocatoria pública para la selección de los integrantes señalados en la fracción III de este artículo, en la cual deberán establecerse los requisitos de elegibilidad, atendiendo a criterios de representatividad y desempeño.
+La persona titular de la Dirección General del Instituto emitirá convocatoria pública para la selección de los integrantes señalados en la fracción III de este artículo, en la cual deberán establecerse los requisitos de elegibilidad, atendiendo a criterios de representatividad y desempeño.
 
-Las y los postulantes de cada categoría que hayan cumplido con los requisitos serán convocados por el Instituto y deberán elegir por consenso a quien ocupará cada uno de los asientos del Concejo, en caso de no haber llegado al consenso en el periodo que señale la convocatoria el director general del instituto someterá a consideración del gobernador del estado una terna para ocupar el espacio de representación en cuestión. Una vez resueltos la totalidad de los asientos del concejo, el director general del instituto enviará al gobernador del estado la relación de integrantes del concejo para ser ratificada y publicada en el Periódico Oficial.
+Las y los postulantes de cada categoría que hayan cumplido con los requisitos serán convocados por el Instituto y deberán elegir por consenso a quien ocupará cada uno de los asientos del Concejo, en caso de no haber llegado al consenso en el periodo que señale la convocatoria la persona titular de la Dirección General del Instituto someterá a consideración de la Persona Titular del Poder Ejecutivo Estatal una terna para ocupar el espacio de representación en cuestión. Una vez resueltos la totalidad de los asientos del concejo, la persona titular de la Dirección General del Instituto enviará a la Persona Titular del Poder Ejecutivo Estatal la relación de personas integrantes integrantes (sic) del concejo para ser ratificada y publicada en el Periódico Oficial.
 
 Las y los miembros del concejo serán designados en carácter honorífico y no recibirán remuneración alguna. Su período será de tres años sin posibilidad de reelección.
 
 Quienes hayan participado en el proceso de selección y no resultaran integrantes del concejo podrán formar mesas de trabajo temáticas que servirán de apoyo a quienes ocupen los asientos del Concejo.
 
-La presidenta o presidente del concejo podrá invitar sin derecho a voto a representantes de organizaciones juveniles o jóvenes destacados para opinar sobre asuntos que puedan interesar al concejo.
+La presidencia del concejo podrá invitar sin derecho a voto a representantes de organizaciones juveniles o jóvenes destacados para opinar sobre asuntos que puedan interesar al concejo.
 
 La integración del concejo y el Pleno en mención deberá de garantizar la paridad de género, esto con el objetivo de que mujeres y hombres tengan las mismas oportunidades de representar a los adolescentes y jóvenes del estado.
 
@@ -929,9 +997,11 @@ Lo relativo a la organización y funcionamiento del Concejo será regulado por e
 
 La conferencia Municipal de Adolescencia y Juventud se constituye como órgano de consulta y coordinación entre las Instancias Municipales de Juventud de los Ayuntamientos del Estado y el Instituto Morelense de las Personas Adolescentes y Jóvenes con el objetivo de planear y coordinar las Políticas, Planes, Programas, Proyectos, acciones y campañas de adolescencia y juventud a nivel estatal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 71.
 
-La conferencia Municipal de Adolescencia y Juventud estará integrada por los titulares de las Instancias Municipales de Juventud y el Director General del Instituto Morelense de las Personas Adolescentes y Jóvenes.
+La conferencia Municipal de Adolescencia y Juventud estará integrada por las personas titulares de las Instancias Municipales de Juventud y la persona titular de la Dirección General del Instituto Morelense de las Personas Adolescentes y Jóvenes.
 
 ###### Artículo 72.
 
@@ -949,21 +1019,23 @@ Se destinará al menos el treinta por ciento de los recursos del Fondo a financi
 
 El Instituto publicará la convocatoria para la presentación de proyectos para ser financiados por el Fondo, mediante los criterios de pertinencia, impacto social y viabilidad técnica, asimismo deberán cumplir con los Criterios Generales de Política de Juventud y el Programa Estatal con las juventudes y desde las Juventudes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 75.
 
 Los proyectos serán seleccionados por un Comité Técnico integrado de la siguiente manera:
 
-a).- El Titular de la Secretaría de Hacienda o en su representación el titular de la Subsecretaría de Planeación; que será Presidente;
+a).- La persona titular de la Secretaría de Hacienda o en su representación la persona titular de la Subsecretaría de Planeación; que ocupará la Presidencia;
 
-b).- El Titular de la Dirección General del Instituto, quien fungirá como Secretario Técnico y sólo tendrá voz;
+b).- La persona titular de la Dirección General del Instituto, quien ocupará la Secretaría Técnica y sólo tendrá voz;
 
-c).- Un representante de la conferencia Municipal de Adolescencia y Juventud;
+c).- Una persona representante de la conferencia Municipal de Adolescencia y Juventud;
 
-d).- Un representante de los integrantes del Sistema;
+d).- Una persona representante de los integrantes del Sistema;
 
-e).- Los integrantes de la Oficina; y
+e).- Las personas integrantes de la Oficina; y
 
-f).- Un representante del Concejo de las Juventudes del Estado de Morelos.
+f).- Una persona representante del Concejo de las Juventudes del Estado de Morelos.
 
 ###### Artículo 76.
 
@@ -979,9 +1051,11 @@ Lo relativo a la organización y funcionamiento del Comité Técnico del Fondo, 
 
 El Premio Estatal de la Juventud, es un reconocimiento que otorga el Gobierno del Estado de Morelos, a la persona joven o colectivo de personas jóvenes que hayan realizado contribuciones trascendentes para la vida del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 79.
 
-El Premio Estatal de la Juventud será otorgado anualmente por el Poder Ejecutivo, por conducto del Instituto Morelense de las Personas Adolescentes y Jóvenes en las siguientes distinciones:
+El Premio Estatal de la Juventud será otorgado anualmente por el Poder Ejecutivo Estatal, por conducto del Instituto Morelense de las Personas Adolescentes y Jóvenes en las siguientes distinciones:
 
 a).- Inclusión y Desarrollo de las Juventudes;
 
@@ -1017,7 +1091,9 @@ m).- Promoción de la equidad de género, y
 
 n).- Activismo en favor de los derechos de la diversidad sexual.
 
-Cada distinción será premiada mediante recompensa económica, de acuerdo con la capacidad presupuestal, diploma firmado por el Gobernador del Estado y será otorgado en ceremonia oficial el día 12 de agosto de cada año.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Cada distinción será premiada mediante recompensa económica, de acuerdo con la capacidad presupuestal, diploma firmado por la Persona Titular del Poder Ejecutivo Estatal y será otorgado en ceremonia oficial el día 12 de agosto de cada año.
 
 ###### Artículo 80.
 
@@ -1045,9 +1121,11 @@ Las Instancias Municipales de Juventud dependerán presupuestalmente del Ayuntam
 
 La Instancia de Juventud Municipal tendrá la denominación que el ayuntamiento le asigne. Las Instancias no deberán tener en su denominación el concepto Deporte.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 84.
 
-Los titulares de las Instancias de Juventud de los Ayuntamientos serán nombrados en la primera Sesión de Cabildo.
+Las personas titulares de las Instancias de Juventud de los Ayuntamientos serán nombrados en la primera Sesión de Cabildo.
 
 ### CAPÍTULO XIII. DEL PODER LEGISLATIVO
 
@@ -1089,7 +1167,9 @@ m. Grupos de Ayudantías, colonias y barrios; y
 
 n. Adolescentes y Jóvenes no organizados.
 
-II. El Presidente de la Comisión de Juventud, convocará dos veces por período legislativo, mismas que sesionarán ordinariamente, generando una memoria de los temas tratados.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. La Presidencia de la Comisión de Juventud, convocará dos veces por período legislativo, mismas que sesionarán ordinariamente, generando una memoria de los temas tratados.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1191,17 +1271,19 @@ Los Órganos Autónomos del Estado, deberán incluir entre sus actividades, acci
 
 Las violaciones a los preceptos de esta Ley serán sancionadas penal, política y administrativamente por la autoridad competente, conforme a la Ley Estatal de Responsabilidades de los Servidores Públicos y sus disposiciones que en la materia se apliquen.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 90.
 
-Son autoridades sancionadoras en los términos que establece la presente Ley y en el ámbito de su competencia:
+Son autoridades sancionadoras en los términos que establece la presente Ley y en el ámbito de sus respectivas competencias:
 
-I. La Auditoría Superior de Fiscalización.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Legislativo del Gobierno del Estado y de los titulares de los órganos autónomos constitucionales;
+I. La Entidad Superior de Auditoría y Fiscalización.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Legislativo del Gobierno del Estado y de los titulares de los órganos autónomos constitucionales;
 
-II. La Secretaría de la Contraloría.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Ejecutivo del Gobierno del Estado de Morelos y de las Entidades Paraestatales, así como de aquellos que ejerzan recursos federales y estatales a través de Convenios;
+II. La Secretaría de la Contraloría.- Para conocer de las quejas o denuncias en contra de las personas servidoras públicas de la Administración Pública Estatal, así como de aquellos que ejerzan recursos federales y estatales a través de Convenios;
 
-III. El Consejo de la Judicatura.- Para conocer de las quejas o denuncias en contra de los Servidores Públicos del Poder Judicial del Gobierno del Estado;
+III. La Junta de Administración, Vigilancia y Disciplina.- Para conocer de las quejas o denuncias en contra de los Servidores Públicos del Poder Judicial del Gobierno del Estado;
 
-IV. Las Contralorías Municipales.- Para conocer quejas o denuncias en contra de los servidores públicos de los Ayuntamientos; y
+IV. Las Contralorías Municipales.- Para conocer quejas o denuncias en contra de los servidores públicos de los Ayuntamientos, y
 
 V. El Tribunal Superior de Justicia.- Para conocer del juicio político como jurado de sentencia.
 
@@ -1308,3 +1390,33 @@ TERCERA.- Con relación al segundo artículo del presente decreto, entrará en v
 CUARTA.- Las erogaciones que deban efectuarse para cubrir los gastos que se originen con motivo del Parlamento Juvenil del Congreso del Estado de Morelos deberán ser consideradas y aprobadas por la Junta Política y de Gobierno dentro del presupuesto anual autorizado para el Congreso del estado de Morelos; en cuyo caso no podrá ser menor a siete veces el valor anual de la Unidad de Medida y Actualización del año que corresponda y, de este presupuesto, la Conferencia para la Dirección y Programación de los Trabajos Legislativos y Parlamentarios determinará el monto en numerario para reconocer a los diputados juveniles que se distingan por su desempeño.
 
 QUINTA.- Se abroga el Decreto Número Seiscientos Treinta y Cinco. Que abroga el Decreto Número 149 por el cual se instituye la figura de Diputado por un Día para integrar el Parlamento Juvenil del Congreso del Estado de Morelos, y crea el Decreto que da origen al Congreso Juvenil Morelense, por el que se instaura la figura de Diputado por un Día para integrar el Parlamento Juvenil.
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CINCO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES EN MATERIA DE REINGENIERÍA ADMINISTRATIVA".]
+
+PRIMERA. Remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5641, de fecha 04 de octubre de 2018.
+
+CUARTA. Se derogan todas aquellas disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+QUINTA. Dentro de un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes y reglamentos que resulten aplicables, para su armonización correspondiente; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por el presente Decreto.
+
+SEXTA. Para el cumplimiento de la presente Ley, la Persona Titular del Poder Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura orgánica de las Secretarías o Dependencias estatales, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, pudiendo realizar las adecuaciones presupuestales dentro de las mismas, de conformidad con lo previsto en el Presupuesto de Egresos del Estado de Morelos para el ejercicio fiscal correspondiente. Por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+SÉPTIMA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos que se refieran a la Secretaría de Obras Públicas, Secretaría de Turismo y Cultura, a la Secretaría de Desarrollo Social y a la Comisión Estatal de Seguridad Pública, se entenderán asignadas y referidas a la Secretaría de Infraestructura, a la Secretaría de Turismo, a la Secretaría de Cultura, a la Secretaría de Bienestar y a la Secretaría de Seguridad y Protección Ciudadana, respectivamente; lo que implica también la asignación correspondiente de todos los recursos humanos, materiales, organizacionales, financieros y presupuestarios, en términos de la normativa aplicable.
+
+OCTAVA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Movilidad y Transporte, y a la Comisión Estatal de Seguridad Pública en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de la Secretaría de Infraestructura, de la Secretaría de Bienestar, de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana, respectivamente, por virtud de las facultades y atribuciones conferidas a éstas mediante el presente Decreto.
+
+NOVENA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga pase a otra dependencia, se transferirán también los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente Decreto; lo cual será coordinado y supervisado por las Secretarías de Hacienda, de Administración y de la Contraloría, así como de la Jefatura de la Oficina de la Gubernatura del Estado, en el ámbito de sus atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMA. El día de la entrada en vigor del presente Decreto, la extinta Secretaría de Turismo y Cultura procederá a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los asuntos que se encuentren en trámite o en proceso, a la ahora Secretaría de Cultura, a efecto de que sea esta Secretaría de Despacho quien, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, determine la reasignación y lleve a cabo la transferencia de dichos asuntos, conforme al ámbito de competencias conferidas por virtud del presente Decreto, a la ahora Secretaría de Turismo a fin de que dé continuidad en su trámite, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de dicha redistribución pueda modificar o alterar su curso y resultado.
+
+DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga, cuyas atribuciones se trasladen a otras Secretarías o Dependencias, con motivo del presente Decreto, continuarán tramitándose hasta su conclusión en los términos establecidos en normativa que les dio origen, sin que el traspaso modifique o altere su curso y resultado.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
+
+DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
