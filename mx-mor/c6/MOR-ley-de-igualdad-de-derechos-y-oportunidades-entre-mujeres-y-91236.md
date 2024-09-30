@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y-912
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-16"
-last_updated: "2024-02-28"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de enero del 2013.
 
@@ -457,47 +457,95 @@ El Sistema Estatal es el mecanismo de integración interinstitucional, dirigido 
 
 Formarán parte del Sistema Estatal para la Igualdad entre Mujeres y Hombres a través de sus titulares:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 I. El Poder Ejecutivo, recayendo el seguimiento en la Secretaría de Gobierno;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 II. El Instituto de la Mujer para el Estado de Morelos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 III. El Poder Legislativo, representado por la persona titular de la Presidencia de la Mesa Directiva, recayendo el seguimiento en la Comisión de Igualdad de Género;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 IV. El Poder Judicial, representado por la persona titular de la Comisión de la Unidad de Igualdad de Género y Derechos Humanos, recayendo el seguimiento en la persona titular de la Unidad de Igualdad de Género y Derechos Humanos, ambas del Tribunal Superior de Justicia del Estado de Morelos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 V. Comisión de Derechos Humanos del Estado de Morelos;
 
-VI. Secretaría de Administración;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Secretaría de Desarrollo Social;
+VI. Secretaría de las Mujeres;
 
-VIII. Secretaría de la Contraloría;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-IX. Secretaría de Desarrollo Agropecuario;
+VII. Secretaría de Administración;
 
-X. Secretaría de Obras Públicas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Secretaría de Turismo y Cultura;
+VIII. Secretaría de Bienestar;
 
-XII. Secretaría del Trabajo y Desarrollo Económico;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Secretaría de Desarrollo Sustentable;
+IX. Secretaría de la Contraloría;
 
-XIV. Secretaría de Movilidad y Transporte;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Instituto Morelense de las Personas Adolescentes y Jóvenes;
+X. Secretaría de Desarrollo Agropecuario;
 
-XVI. Instituto del Deporte y Cultura Física del Estado de Morelos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XVII. Instituto Morelense de Radio y Televisión;
+XI. Secretaría de Infraestructura;
 
-XVIII. Coordinación de Comunicación Social del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XIX. El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a través de la persona titular y la persona que represente la presidencia de la Junta de Gobierno, y
+XII. Secretaría de Turismo;
 
-XX. El número que determine el Sistema de personas representantes de las organizaciones civiles estatales y academia, que acrediten trabajo relacionado con la materia de igualdad, se integrarán al mismo especificada (sic) su participación mediante acuerdo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Secretaría de Cultura;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Secretaría del Trabajo y Desarrollo Económico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Instituto Morelense de las Personas Adolescentes y Jóvenes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Instituto del Deporte y Cultura Física del Estado de Morelos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Instituto Morelense de Radio y Televisión;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Coordinación de Comunicación Social del Poder Ejecutivo Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XX. El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a través de la persona titular y la persona que represente la presidencia de la Junta de Gobierno, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. El número que determine el Sistema de personas representantes de las organizaciones civiles estatales y academia, que acrediten trabajo relacionado con la materia de igualdad, se integrarán al mismo especificada su participación mediante acuerdo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 Cada integrante podrá nombrar para las sesiones, reuniones o mesas de trabajo a representantes con grado jerárquico inferior inmediato, y capacidad de toma de decisiones, dando aviso a la Secretaría Ejecutiva y haciéndolo constar por escrito.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 Las atribuciones y responsabilidades, de cada integrante serán definidas en el Reglamento de la Ley.
 
@@ -817,7 +865,7 @@ IV. Difundirá información sobre los diversos aspectos relacionados con la igua
 
 V. Las demás que sean necesarias para cumplir con los objetivos de esta Ley.
 
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 47 Quater.
 
@@ -825,25 +873,27 @@ El Comité referido en el artículo que antecede, será conformado de la manera 
 
 I. La Secretaría de Gobierno;
 
-II. La Secretaría de hacienda;
+II. La Secretaría de las Mujeres;
 
-III. La Secretaría de Administración;
+III. La Secretaría de Hacienda;
 
-IV. El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
+IV. La Secretaría de Administración;
 
-V. El instituto de la Mujer para el Estado de Morelos, y
+V. El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
 
-VI. La Comisión de Derechos Humanos del Estado de Morelos.
+VI. El instituto de la Mujer para el Estado de Morelos, y
+
+VII. La Comisión de Derechos Humanos del Estado de Morelos.
 
 Debiendo participar sociedad civil y Academia, conforme lo señale el Reglamento de esta Ley.
 
 ## TÍTULO VI. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 48.
 
-El incumplimiento a los principios y programas que esta Ley dispone, por parte de las autoridades de los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, y Órganos Constitucionales Autónomos, será sancionado de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos, la Ley de Responsabilidades Administrativas para el Estado de Morelos y Ley para Prevenir y Eliminar la Discriminación en el Estado; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en la legislación aplicable.
+El incumplimiento a los principios y programas que esta Ley dispone, por parte de las autoridades de los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, y Órganos Constitucionales Autónomos, será sancionado de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Morelos y Ley para Prevenir y Eliminar la Discriminación en el Estado; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
@@ -956,3 +1006,33 @@ SEXTA: Para efectos de la instalación del Sistema, el Poder Ejecutivo Estatal y
 SÉPTIMA: La designación de la persona a cargo de la Unidad de Igualdad de Género, en las administraciones actuales, será preferentemente una persona trabajadora en activo, con el propósito de no generar un impacto presupuestal en sus finanzas en el presente ejercicio fiscal; por lo que respecta a los subsecuentes ejercicios fiscales deberá garantizarse la suficiencia presupuestal para el cumplimiento de esta Ley.
 
 OCTAVA: Se derogan todas aquellas disposiciones que contravengan la presentereforma (sic).
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CINCO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES EN MATERIA DE REINGENIERÍA ADMINISTRATIVA".]
+
+PRIMERA. Remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5641, de fecha 04 de octubre de 2018.
+
+CUARTA. Se derogan todas aquellas disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+QUINTA. Dentro de un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes y reglamentos que resulten aplicables, para su armonización correspondiente; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por el presente Decreto.
+
+SEXTA. Para el cumplimiento de la presente Ley, la Persona Titular del Poder Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura orgánica de las Secretarías o Dependencias estatales, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, pudiendo realizar las adecuaciones presupuestales dentro de las mismas, de conformidad con lo previsto en el Presupuesto de Egresos del Estado de Morelos para el ejercicio fiscal correspondiente. Por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+SÉPTIMA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos que se refieran a la Secretaría de Obras Públicas, Secretaría de Turismo y Cultura, a la Secretaría de Desarrollo Social y a la Comisión Estatal de Seguridad Pública, se entenderán asignadas y referidas a la Secretaría de Infraestructura, a la Secretaría de Turismo, a la Secretaría de Cultura, a la Secretaría de Bienestar y a la Secretaría de Seguridad y Protección Ciudadana, respectivamente; lo que implica también la asignación correspondiente de todos los recursos humanos, materiales, organizacionales, financieros y presupuestarios, en términos de la normativa aplicable.
+
+OCTAVA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Movilidad y Transporte, y a la Comisión Estatal de Seguridad Pública en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de la Secretaría de Infraestructura, de la Secretaría de Bienestar, de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana, respectivamente, por virtud de las facultades y atribuciones conferidas a éstas mediante el presente Decreto.
+
+NOVENA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga pase a otra dependencia, se transferirán también los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente Decreto; lo cual será coordinado y supervisado por las Secretarías de Hacienda, de Administración y de la Contraloría, así como de la Jefatura de la Oficina de la Gubernatura del Estado, en el ámbito de sus atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMA. El día de la entrada en vigor del presente Decreto, la extinta Secretaría de Turismo y Cultura procederá a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los asuntos que se encuentren en trámite o en proceso, a la ahora Secretaría de Cultura, a efecto de que sea esta Secretaría de Despacho quien, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, determine la reasignación y lleve a cabo la transferencia de dichos asuntos, conforme al ámbito de competencias conferidas por virtud del presente Decreto, a la ahora Secretaría de Turismo a fin de que dé continuidad en su trámite, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de dicha redistribución pueda modificar o alterar su curso y resultado.
+
+DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga, cuyas atribuciones se trasladen a otras Secretarías o Dependencias, con motivo del presente Decreto, continuarán tramitándose hasta su conclusión en los términos establecidos en normativa que les dio origen, sin que el traspaso modifique o altere su curso y resultado.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
+
+DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
