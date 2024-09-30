@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-evaluacion-academica-del-instituto-estatal-de-130
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2024-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE EVALUACION ACADEMICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA, DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE EVALUACIÓN ACADÉMICA DE LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE EVALUACION ACADÉMICA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA, DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de septiembre de 2018.
 
@@ -33,7 +35,7 @@ Los integrantes de la JUNTA DE GOBIERNO DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBL
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto es la razón por la cual la Junta de Gobierno del Instituto Estatal de Seguridad Pública se sirve expedir el siguiente:
 
@@ -742,3 +744,21 @@ DIRECTOR DE DERECHOS HUMANOS DE LA FISCALÍA EN REPRESENTACIÓN DEL FISCAL GENER
 PROF. MARTÍN NOÉ HERNÁNDEZ RODR1GUEZ
 
 SECRETARIO DE AYUNTAMIENTO EN REPRESENTACIÓN DE LA PRESIDENTA MUNICIPAL DE SAN JOSÉ DE GRACIA, AGS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE EVALUACIÓN ACADÉMICA DE LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento de Evaluación Académica del Instituto Estatal de Seguridad Pública de fecha 17 de septiembre de 2018. Quedará abrogado una vez que sea declarada la Extinción del Instituto Estatal de Seguridad Pública de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir el presente Reglamento de Evaluación Académica de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes en el Registro Público del Comercio y del Estado en el libro correspondiente a las Entidades Paraestatales.
