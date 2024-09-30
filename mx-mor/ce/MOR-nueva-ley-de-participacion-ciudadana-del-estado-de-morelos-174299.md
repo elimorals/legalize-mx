@@ -4,7 +4,7 @@ identifier: "MOR-nueva-ley-de-participacion-ciudadana-del-estado-de-morelos-1742
 country: "mx"
 rank: "otro"
 publication_date: "2024-09-04"
-last_updated: "2024-09-04"
+last_updated: "2024-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 NUEVA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Número 6343 del Periódico Oficial del Estado de Morelos, el miércoles 4 de septiembre de 2024.
 
@@ -79,7 +79,9 @@ VII. Iniciativa Ciudadana
 
 VIII. Plebiscito
 
-IX. Presupuesto Participativo
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Presupuesto Participativo, conforme a lo dispuesto en la Ley de Presupuesto Participativo del Estado de Morelos.
 
 X. Proyectos Sociales
 
@@ -165,7 +167,9 @@ XI. Tribunal Electoral: al Tribunal Electoral del Estado de Morelos.
 
 XII. Consulta Ciudadana: instrumento que contempla someter a la consideración de los ciudadanos actos o decisiones de gobierno que tengan impacto directo dentro de su demarcación territorial, que pueden ser colonias, poblados, fraccionamientos, delegaciones municipales, o en su ámbito estatal.
 
-XIII. Presupuesto Participativo: instrumento que se enfoca de manera primordial a permitir que los ciudadanos decidan sobre el destino de los recursos públicos a aplicarse dentro de su entorno social.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Presupuesto Participativo: instrumento que se enfoca de manera primordial a permitir que los ciudadanos decidan sobre el destino de los recursos públicos a aplicarse dentro de su entorno social y que se regula en términos de la Ley de Presupuesto Participativo del Estado de Morelos.
 
 XIV. Comparecencia Pública: instrumento a través del cual los habitantes de un determinado territorio dialogan con los funcionarios de gobierno con el objetivo de solicitar información, formular propuestas o acciones o toma de acuerdos en determinados asuntos.
 
@@ -1047,57 +1051,45 @@ El resultado del plebiscito tendrá carácter vinculatorio cuando una de las opc
 
 Las controversias que se generen en cualquiera de las etapas del plebiscito serán resueltas por el Tribunal Electoral del Estado de Morelos, de conformidad con las reglas previstas en la legislación electoral del estado de Morelos.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ### CAPÍTULO IX. PRESUPUESTO PARTICIPATIVO
 
 ###### Artículo 97.
 
-El Presupuesto Participativo es un instrumento de participación directa, a través del cual los ciudadanos ejercen su derecho sobre el destino de un porcentaje predeterminado de los recursos públicos.
-
-El Gobierno del Estado está obligado a realizar anualmente la consulta de Presupuesto Participativo, para el caso de los Municipios en Sesión de Cabildo Abierto y por Acuerdo de Mayoría Calificada, se aplicará en cada ejercicio fiscal que corresponda, en los términos de esta Ley.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 98.
 
-El monto de los recursos públicos que se someterán a consideración de los ciudadanos en la consulta de Presupuesto Participativo corresponderá al 85% del Presupuesto de Egresos del Estado de Morelos o del municipio, del ejercicio fiscal correspondiente.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 99.
 
-El Instituto Morelense de Procesos Electorales y Participación Ciudadana en conjunto convocará y organizara Foros Ciudadanos son espacios públicos de diálogo en donde las autoridades estatales y/o municipales, y los ciudadanos; en ellos se conocen, analizan, discuten y proponen los proyectos y obras que se podrían llevar a cabo con los recursos públicos del Presupuesto Participativo.
-
-Los Foros Ciudadanos deberán realizarse en cada uno de los municipios del Estado durante los meses de mayo y junio del año inmediato anterior al que se decida el ejercicio del Presupuesto Participativo.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 100.
 
-El Consejo Estatal de Participación Ciudadana, en coordinación con el Gobierno del Estado y de los Municipios, posterior a los Foros Ciudadanos, definirán las obras que serán puestas a votación, dando prioridad a las zonas más marginadas del Estado, con mayores carencias o índices de rezago social, así como a las obras que tengan mayor impacto regional.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 101.
 
-El Instituto Morelense de Procesos Electorales y Participación Ciudadana emitirá una convocatoria dirigida a todos los habitantes del Estado y/o municipio, y se publicará en el Periódico Oficial “Tierra y Libertad” y se difundirá durante 15 días hábiles previos a realizarse la consulta en al menos dos de los periódicos de mayor circulación en el Estado, en medios radiofónicos, televisivos y electrónicos y además se difundirá en los lugares de mayor afluencia de habitantes del municipio, ayudantías y delegaciones municipales.
-
-La convocatoria incluirá:
-
-I. Una descripción de las obras que se someterán a votación de los ciudadanos para su posterior inclusión en el Presupuesto Participativo; y
-
-II. Fecha, horarios y lugares donde podrán votar los ciudadanos.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 102.
 
-En la consulta de Presupuesto Participativo solo podrán participar los ciudadanos que acrediten su residencia en el Estado o en su caso, en el municipio del que se trate con su credencial para votar vigente.
-
-En la boleta respectiva, y en votación directa, el ciudadano decidirá alguna de las opciones que contengan obras o proyectos para incluir en el Presupuesto Participativo.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 103.
 
-El Instituto Morelense de Procesos Electorales y Participación Ciudadana realizará los trabajos de organización e implementación de la consulta de Presupuesto Participativo, así como el cómputo y validez de los resultados, y garantizará la más amplia difusión del mismo.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 104.
 
-El Instituto Morelense de Procesos Electorales y Participación Ciudadana en sesión pública validará lo resultados en un plazo no mayor a siete días naturales, contados a partir de haberse realizado la consulta, remitirá el resultado al Consejo Estatal de Participación Ciudadana quien declarará de conformidad con lo señalado en la convocatoria y en esta Ley. Los resultados y la declaración de los efectos del Presupuesto Participativo se publicarán en el Periódico Oficial “Tierra y Libertad” y en al menos dos de los periódicos de mayor circulación en el Estado, en medios radiofónicos, televisivos y electrónicos y en los lugares de mayor afluencia de habitantes del municipio, ayudantías y delegaciones municipales.
-
-Las controversias que se generen en cualquiera de las etapas de la consulta de presupuesto participativo serán resueltas por el tribunal estatal electoral del Estado de Morelos.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 105.
 
-El Gobierno del Estado y/ o municipio, tendrán que ejecutar las obras ganadoras del Presupuesto participativo en el siguiente ejercicio fiscal, estableciendo un calendario de realización indicando el inicio y fecha de finalización, en observancia a todas las disposiciones que en la materia sean aplicables en los proyectos de referencia.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO X. PROYECTO SOCIAL
 
@@ -1520,3 +1512,35 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CINCO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES EN MATERIA DE REINGENIERÍA ADMINISTRATIVA".]
+
+PRIMERA. Remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 5641, de fecha 04 de octubre de 2018.
+
+CUARTA. Se derogan todas aquellas disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+QUINTA. Dentro de un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes y reglamentos que resulten aplicables, para su armonización correspondiente; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por el presente Decreto.
+
+SEXTA. Para el cumplimiento de la presente Ley, la Persona Titular del Poder Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura orgánica de las Secretarías o Dependencias estatales, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, pudiendo realizar las adecuaciones presupuestales dentro de las mismas, de conformidad con lo previsto en el Presupuesto de Egresos del Estado de Morelos para el ejercicio fiscal correspondiente. Por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+SÉPTIMA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos que se refieran a la Secretaría de Obras Públicas, Secretaría de Turismo y Cultura, a la Secretaría de Desarrollo Social y a la Comisión Estatal de Seguridad Pública, se entenderán asignadas y referidas a la Secretaría de Infraestructura, a la Secretaría de Turismo, a la Secretaría de Cultura, a la Secretaría de Bienestar y a la Secretaría de Seguridad y Protección Ciudadana, respectivamente; lo que implica también la asignación correspondiente de todos los recursos humanos, materiales, organizacionales, financieros y presupuestarios, en términos de la normativa aplicable.
+
+OCTAVA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Movilidad y Transporte, y a la Comisión Estatal de Seguridad Pública en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de la Secretaría de Infraestructura, de la Secretaría de Bienestar, de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana, respectivamente, por virtud de las facultades y atribuciones conferidas a éstas mediante el presente Decreto.
+
+NOVENA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga pase a otra dependencia, se transferirán también los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente Decreto; lo cual será coordinado y supervisado por las Secretarías de Hacienda, de Administración y de la Contraloría, así como de la Jefatura de la Oficina de la Gubernatura del Estado, en el ámbito de sus atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMA. El día de la entrada en vigor del presente Decreto, la extinta Secretaría de Turismo y Cultura procederá a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los asuntos que se encuentren en trámite o en proceso, a la ahora Secretaría de Cultura, a efecto de que sea esta Secretaría de Despacho quien, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, determine la reasignación y lleve a cabo la transferencia de dichos asuntos, conforme al ámbito de competencias conferidas por virtud del presente Decreto, a la ahora Secretaría de Turismo a fin de que dé continuidad en su trámite, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de dicha redistribución pueda modificar o alterar su curso y resultado.
+
+DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga, cuyas atribuciones se trasladen a otras Secretarías o Dependencias, con motivo del presente Decreto, continuarán tramitándose hasta su conclusión en los términos establecidos en (sic) normativa que les dio origen, sin que el traspaso modifique o altere su curso y resultado.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
+
+DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
