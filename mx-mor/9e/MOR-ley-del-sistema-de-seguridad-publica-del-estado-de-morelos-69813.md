@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2020-08-12"
+last_updated: "2024-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -55,13 +55,11 @@ La seguridad pública es una función a cargo del Estado y los Municipios, la cu
 
 Comprende la prevención especial y general de los delitos; la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de delitos y conductas antisociales tipificadas como tales; la reinserción social del individuo y la reintegración social y familiar del adolescente, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, y las demás leyes aplicables a la materia.
 
-(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 2 Bis.
 
-El Gobernador Constitucional del Estado, como Jefe de la Fuerza Pública Estatal, ejerce las atribuciones legales en materia de Seguridad Pública, por conducto de la Comisión Estatal de Seguridad Pública, la que estará integrada por los elementos de Seguridad Pública Estatal, así como por los Órganos Desconcentrados creados por Decreto legislativo o gubernativo, bajo el mando directo de un Comisionado Estatal de Seguridad Pública, dependiente del Gobernador Constitucional del Estado.
+La Persona Titular del Poder Ejecutivo Estatal, como Jefe de la Fuerza Pública Estatal, ejerce las atribuciones legales en materia de Seguridad Pública, por conducto de la Secretaría de Seguridad y Protección Ciudadana, la que estará integrada por los elementos de Seguridad Pública Estatal, así como por los Órganos Desconcentrados creados por Decreto legislativo o gubernativo, bajo el mando directo de la persona titular de la Secretaría de Seguridad y Protección Ciudadana, dependiente del Gobernador Constitucional del Estado.
 
 ###### Artículo 3.
 
@@ -79,7 +77,7 @@ II. Centro Estatal, al Centro Estatal de Análisis de Información sobre Segurid
 
 III. Colegio, al Colegio Estatal de Seguridad Pública del Estado de Morelos. También se entenderá como tal a la institución de formación, capacitación y profesionalización policial a que hace referencia el artículo 5, fracción I, de la Ley General del Sistema Nacional de Seguridad Pública;
 
-IV. Comisionado Estatal, al Comisionado Estatal de Seguridad Pública;
+IV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 V. Consejo Estatal, al Consejo Estatal de Seguridad Pública;
 
@@ -91,7 +89,7 @@ VIII. Constitución General, a la Constitución Política de los Estados Unidos 
 
 IX. Constitución Local, a la Constitución Política del Estado Libre y Soberano de Morelos;
 
-X. Comisión Estatal de Seguridad Pública, a la Unidad Administrativa perteneciente a la Secretaría de Gobierno, en la que se integran las fuerzas públicas estatales, bajo el mando del Comisionado Estatal de Seguridad Pública;
+X. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 XI. Estado, al Estado Libre y Soberano de Morelos;
 
@@ -105,7 +103,9 @@ XV. Instituciones de Seguridad Pública, a las instituciones Policiales, de Proc
 
 XVI. Instituciones Policiales, a los elementos de Policía Preventiva Estatal con sus grupos de investigación, y municipal, de Policía Ministerial, a los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolescentes como de adultos, bomberos y de rescate; y en general, todas las dependencias encargadas de la seguridad pública a nivel Estatal y Municipal;
 
-XVII. Ley de Responsabilidades, a la Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Ley de Responsabilidades, a la Ley de Responsabilidades Administrativas para el Estado de Morelos;
 
 XVIII. Ley General, a la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -117,7 +117,9 @@ XX. Fiscalía, a la Fiscalía General del Estado de Morelos, organismo constituc
 
 XXI. Programa Estatal, al Programa Estatal de Seguridad Pública;
 
-XXII. Secretaría, a la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Secretaría, a la Secretaría de Seguridad y Protección Ciudadana en la que se integran las fuerzas públicas estatales, bajo el mando de la persona titular de la Secretaría;
 
 XXIII. Secretariado Ejecutivo, a al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
@@ -125,7 +127,9 @@ XXIV. Secretario Ejecutivo Municipal, al Secretario Ejecutivo del Consejo Munici
 
 XXV. Secretario Ejecutivo, a la persona titular del Secretariado Ejecutivo;
 
-XXVI. Secretario, a la persona titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXVI. Secretario, a la persona titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 XXVII. Servicio Profesional de Carrera, al Servicio Profesional de Carrera Policial, Ministerial y Pericial;
 
@@ -163,7 +167,9 @@ Las acciones que desarrollen las autoridades competentes de la Seguridad Públic
 
 El Sistema Estatal de Seguridad Pública se integrará por:
 
-I. El Consejo Estatal;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+I. Secretaría de Seguridad y Protección Ciudadana:
 
 (NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA EL INCISO j) A LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
@@ -191,75 +197,61 @@ Los integrantes de las instituciones policiales, peritos y ministerios públicos
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 9.
 
 El Consejo Estatal es el órgano colegiado que constituye la instancia superior de coordinación y consulta del Sistema Estatal y estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario de Gobierno;
+II. El Secretario;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
-
-III. El Comisionado Estatal;
-
-> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2013)</small>
+III. La persona titular de la Secretaría de Gobierno;
 
 IV. El Secretario Ejecutivo;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+V. La persona titular de la Fiscalía General del Estado de Morelos;
 
-V. El Fiscal General del Estado de Morelos;
+VI. La persona titular de la Secretaría de Hacienda;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+VII. La persona titular de la Secretaría de Educación;
 
-VI. El Secretario de Hacienda;
+VIII. La persona titular de la Secretaría de Economía;
 
-VII. El Secretario de Educación;
+IX. La persona titular de la Secretaría de Desarrollo Agropecuario;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+X. La persona titular de la Secretaría de Salud;
 
-VIII. El Secretario de Economía;
+XI. La persona titular de la Secretaría de Turismo;
 
-IX. El Secretario de Desarrollo Agropecuario;
+XII. La persona titular de la Presidencia del Tribunal Superior de Justicia, como representante del Poder Judicial y coadyuvante en el cumplimiento de los fines de la seguridad pública;
 
-X. El Secretario de Salud;
+XIII. La o el Diputado Presidente de la Comisión de Seguridad Pública y Protección Civil del Congreso del Estado;
 
-XI. El Secretario de Turismo;
+XIV. La o el Diputado Presidente de la Comisión de Justicia y Derechos Humanos del Congreso del Estado;
 
-XII. El Presidente del Tribunal Superior de Justicia, como representante del Poder Judicial y coadyuvante en el cumplimiento de los fines de la seguridad pública;
+XV. Seis personas titulares de las Presidencias Municipales representantes de los Municipios del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+XVI. La persona Comandante de la 24/a Zona Militar;
 
-XIII. El Diputado Presidente de la Comisión de Seguridad Pública y Protección Civil del Congreso del Estado;
+XVII. La persona Delegada de la Fiscalía General de la República en el Estado;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+XVIII. La persona Coordinadora Regional en Morelos del Sistema Nacional de Seguridad Pública;
 
-XIV. El Diputado Presidente de la Comisión de Justicia y Derechos Humanos del Congreso del Estado;
+XIX. La persona Coordinadora Estatal de la Guardia Nacional en el Estado;
 
-XV. Seis Presidentes Municipales representantes de los Municipios del Estado;
+XX. La persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Morelos; y
 
-XVI. El Comandante de la 24/a Zona Militar;
+XXI. Hasta ocho personas representantes que fungirán como consejeros ciudadanos de los sectores productivos y sociales debidamente organizados, con amplia representación estatal o regional, así como los que a título personal representen algún sector de la población y que cumplan con los requisitos para ser consejero.
 
-XVII. El Delegado de la Procuraduría General de la República en el Estado;
+Todas las personas consejeras tendrán derecho a voz y voto, respecto de todos los asuntos que sean tratados en el seno del Consejo.
 
-XVIII. El Coordinador Regional en Morelos del Sistema Nacional de Seguridad Pública;
+La designación de las personas consejeras a que se refiere la fracción XV de este artículo, se deberá hacer a través del Secretariado Ejecutivo, buscando preferentemente la representación de las tres regiones del Estado; estas personas consejeras durarán seis meses en el cargo, propiciando que, en su rotación, tengan acceso en la integración del Consejo todas las personas titulares de las Presidencias Municipales del Estado.
 
-XIX. El Coordinador Estatal de la Policía Federal en el Estado;
+La persona titular de la Presidencia del Consejo y el Secretario Ejecutivo podrán invitar a especialistas en la materia, quienes no serán considerados como personas integrantes del Consejo y únicamente tendrán derecho a voz.
 
-XX. El Presidente de la Comisión de Derechos Humanos del Estado de Morelos; y
-
-XXI. Hasta ocho representantes que fungirán como consejeros ciudadanos de los sectores productivos y sociales debidamente organizados, con amplia representación estatal o regional, así como los que a título personal representen algún sector de la población y que cumplan con los requisitos para ser consejero.
-
-Todos los consejeros tendrán derecho a voz y voto, respecto de todos los asuntos que sean tratados en el seno del Consejo.
-
-La designación de los consejeros a que se refiere la fracción XV de este artículo, se deberá hacer a través del Secretariado Ejecutivo, buscando preferentemente la representación de las tres regiones del Estado; estos Consejeros durarán seis meses en el cargo, propiciando que, en su rotación, tengan acceso en la integración del Consejo todos los Presidentes Municipales del Estado.
-
-El Presidente del Consejo y el Secretario Ejecutivo podrán invitar a especialistas en la materia, quienes no serán considerados como miembros del Consejo y únicamente tendrán derecho a voz.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
-
-La función de consejero será honorífica.
+La función de persona consejera será honorifica.
 
 La mecánica para tener una participación ordenada, incluyente y eficiente en las sesiones del Consejo Estatal, será definida en las disposiciones que determine el Secretario Ejecutivo.
 
@@ -289,7 +281,9 @@ El Consejo Estatal sesionará trimestralmente en forma ordinaria y en casos de u
 
 Al inicio de cada sesión, se pasará lista de asistencia, se verificará el quórum y se desarrollará la sesión conforme al orden del día.
 
-El Presidente del Consejo Estatal será sustituido en sus ausencias por el Secretario de Gobierno. El resto de los integrantes del Consejo deberá asistir personalmente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Presidencia del Consejo Estatal será sustituida en sus ausencias por el Secretario. El resto de los integrantes del Consejo deberá asistir personalmente.
 
 Para la integración del quórum se contará con los miembros considerados en las fracciones de la I a la XI del artículo 9 de la presente ley, una vez instalado sus acuerdos serán tomados por mayoría de los miembros presentes y en caso de empate, el Presidente tendrá voto de calidad. Su cumplimiento deberá ser reconocido o sancionado por el Consejo Estatal.
 
@@ -377,25 +371,43 @@ VII. Solicitar a través del Secretario Ejecutivo, cualquier tipo de informació
 
 En cada Sesión Ordinaria del Consejo Estatal, las Instituciones de Seguridad Pública entregarán con cinco días de anticipación, un informe actualizado que deberá contener datos precisos que permitan medir su desempeño, sobre lo siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-I. Comisión Estatal de Seguridad Pública:
+I. Secretaría de Seguridad y Protección Ciudadana:
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 a) Estadística general del índice delictivo registrado derivado de sus funciones;
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 b) Estadística de los operativos implementados en el Estado, así como los resultados obtenidos;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 c) Estadística de las puestas a disposición realizadas ante las autoridades competentes;
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 d) Estadística de los asuntos en los que ha participado en la investigación de delitos o conductas antisociales bajo la dirección del Ministerio Público y los resultados obtenidos de la misma;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 e) Estadística de las audiencias en las que se ha rendido testimonio sobre las actuaciones e investigaciones policiales;
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 f) Estadística del nivel promedio de educación de elementos policiales, mandos medios y superiores;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 g) Acciones implementadas en materia de Prevención del Delito y cumplimiento de programas y metas;
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 h) En su caso, aquellas medidas que en lo general se hayan adoptado para el mejor desempeño de la Institución y en beneficio de la ciudadanía, y
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 i) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo;
 
@@ -521,7 +533,9 @@ El Estado y los Municipios se integrarán al Sistema Nacional, mediante instanci
 
 El Secretariado Ejecutivo, es el Órgano Desconcentrado de la Secretaría, operativo del Sistema Estatal de Seguridad Pública, que gozará de autonomía técnica, de gestión presupuestal, y se integrará por las Unidades Administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento de su pluralidad funcional y dada su naturaleza, de conformidad con el presupuesto autorizado.
 
-El órgano desconcentrado estará a cargo del Secretario Ejecutivo; durante sus ausencias temporales o indefinidas, la función será asumida, de manera integral, por el Comisionado Estatal de Seguridad Pública. Su organización y procedimientos específicos se establecerán en el Reglamento Interno que para tal efecto se expida.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+El órgano desconcentrado estará a cargo del Secretario Ejecutivo; durante sus ausencias temporales o indefinidas, la función será asumida, de manera integral, por el Secretario. Su organización y procedimientos específicos se establecerán en el Reglamento Interno que para tal efecto se expida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -603,9 +617,9 @@ XXII. Informar periódicamente al Consejo Estatal de sus actividades;
 
 XXIII. Coadyuvar y en su caso proponer las medidas pertinentes y necesarias para eficientar la seguridad del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XXIV. Coadyuvar en la instrumentación, preparación, ejecución y evaluación del Mando Único Policial en el Estado, atendiendo las indicaciones que le transmita el Gobernador del Estado, el Secretario o el Comisionado Estatal, y
+XXIV. Coadyuvar en la instrumentación, preparación, ejecución y evaluación del Mando Único Policial en el Estado, atendiendo las indicaciones que le transmita el Gobernador del Estado o el Secretario, y
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
@@ -893,11 +907,11 @@ I. Estatales:
 
 a) El Gobernador;
 
-b) El Secretario de Gobierno;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+b) El Secretario;
 
-c) El Comisionado Estatal;
+c) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -921,9 +935,9 @@ Son Instituciones en materia de Seguridad Pública:
 
 I. Estatales:
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-a) La Comisión Estatal de Seguridad Pública;
+a) La Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -935,29 +949,21 @@ II. Municipales:
 
 a) El área responsable de la seguridad pública en los Municipios.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 44.
 
-El Comisionado Estatal de Seguridad Pública deberá satisfacer los siguientes requisitos:
+Además de los requisitos señalados en el artículo 75 de la Constitución Política para el Estado Libre y Soberano de Morelos, la Persona Titular de la Secretaría, deberá contar con los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y no tener otra nacionalidad así como encontrarse en pleno goce de sus derechos;
+I. Contar con título y cédula profesional, legalmente expedidos;
 
-II. Tener treinta años de edad, cumplidos a la fecha de su designación;
+II. Acreditar fehacientemente haber servido en alguna corporación de seguridad pública del país, durante al menos cinco años;
 
-III. Contar con título y cédula profesional, legalmente expedidos;
+III. No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
 
-IV. Ser de reconocida honorabilidad y honradez;
+El Secretario no desempeñará, simultáneamente, otro cargo, empleo o comisión en el ámbito Federal, Estatal o Municipal, aunque sea sin goce de sueldo, excepto empleos y comisiones de educación, beneficencia pública y seguridad pública.
 
-V. No haber sido sentenciado a pena privativa de libertad por delito doloso. De tratarse de ilícitos que lesionen seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo, cualquiera que haya sido la penalidad impuesta;
-
-VI. Acreditar fehacientemente haber servido en alguna corporación de seguridad pública del país, durante al menos cinco años, y
-
-VII. No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
-
-El Comisionado Estatal no desempeñará, simultáneamente, otro cargo, empleo o comisión en el ámbito Federal, Estatal o Municipal, aunque sea sin goce de sueldo, excepto empleos y comisiones de educación, beneficencia pública y seguridad pública.
-
-El Comisionado Estatal, tampoco podrá poseer por sí o por interpósita persona acciones o cualquier tipo de derecho en empresas o servicios auxiliares de seguridad pública.
+El Secretario, tampoco podrá poseer por sí o por interpósita persona acciones o cualquier tipo de derecho en empresas o servicios auxiliares de seguridad pública.
 
 ###### Artículo 45.
 
@@ -1031,11 +1037,11 @@ Las atribuciones de la Policía Preventiva Estatal, Policía Industrial, Bancari
 
 A la Policía Ministerial le competen las facultades que determinen la presente ley, la legislación procesal aplicable, y los demás reglamentos respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-El mando supremo de las Instituciones de Seguridad Pública del Gobierno del Estado, corresponde al Gobernador, quien delega el ejercicio de esta función en el ámbito de sus competencias en el Secretario de Gobierno, en el Comisionado Estatal de Seguridad Pública y en el Fiscal General del Estado de Morelos, para los efectos de llevar a cabo lo dispuesto en el presente ordenamiento y las demás leyes aplicables.
+El mando supremo de las Instituciones de Seguridad Pública del Gobierno del Estado, corresponde a la Persona Titular del Poder Ejecutivo Estatal, quien delega el ejercicio de esta función en el ámbito de sus competencias en el Secretario y en el Fiscal General del Estado de Morelos, para los efectos de llevar a cabo lo dispuesto en el presente ordenamiento y las demás leyes aplicables.
 
 El mando directo e inmediato de la policía municipal corresponde a los Presidentes Municipales, de conformidad con lo establecido en esta Ley y los reglamentos que de ella deriven, en los cuales se establecerán entre otros rubros los siguientes:
 
@@ -1129,9 +1135,11 @@ VII. Las personas físicas o morales que presten los servicios de sistemas de al
 
 VIII. En general toda persona física o moral de derecho privado, que en virtud de sus funciones, realice actividades relacionadas con la seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 59.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán obtener la autorización y el registro de la Secretaría para prestar sus servicios.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán obtener la autorización y el registro de la Secretaría de Gobierno del Poder Ejecutivo Estatal para prestar sus servicios.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
@@ -1171,11 +1179,11 @@ Las empresas de seguridad privada serán directamente responsables de la relaci�
 
 Para todo lo relativo a la integración, registro y funcionamiento de los prestadores del servicio de seguridad privada, se estará a lo dispuesto por la presente ley y por el reglamento que rige esta actividad.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 64.
 
-El Comisionado Estatal, proporcionará al Secretariado Ejecutivo, cuando así resulte necesario, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
+La Secretaría proporcionará al Secretariado Ejecutivo, cuando así resulte necesario, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
@@ -1611,51 +1619,11 @@ La imposición de las sanciones que determinen las autoridades correspondientes 
 
 La institución de procuración de justicia aplicará, operará y supervisará su régimen disciplinario a través de la instancia que para tal efecto determine, sobre las bases de la presente ley en concordancia con su normatividad interna.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 99 Bis.
 
-La Secretaría, a propuesta del Comisionado Estatal, es la facultada exclusivamente para dictar los lineamientos o protocolos del uso de la fuerza pública en el Estado y que deberán asumir la institución de Procuración de Justicia, las propias Instituciones de Seguridad Pública y las Instituciones Policiales, de conformidad con las bases siguientes:
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-I. Señalará con toda precisión qué tipo de armas pueden usar los elementos para atender cada caso o situación particular y la gradualidad del uso de las armas.
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-II. Establecerá disposiciones tendientes a fomentar el uso de las armas menos lesivas;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-III. Contemplará mecanismos de control tanto para el almacenamiento como para la distribución de las armas;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-IV. Precisará la obligación de dar avisos de advertencia, previos al uso de las armas;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-V. Preverá los lineamientos para la planeación estratégica y coordinada de los operativos, identificando tácticas y fuerzas a emplear en los diferentes escenarios, a fin de ajustarse al principio de proporcionalidad del uso de la fuerza;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-VI. Plasmará las condicionantes que justifican los operativos y las causas de suspensión de los mismos;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-VII. Preverá los riesgos que pudieran presentarse en las acciones y sus respectivas alternativas de solución;
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-VIII. Especificará el curso de acción luego de una detención; y
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-IX. Contemplará, en caso de llegar al uso de la fuerza, que trato y cuidado deben darse a las personas heridas y el aviso inmediato a sus familiares como una prioridad.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
-
-El Comisionado Estatal está obligado a actualizar de manera mensual cada lineamiento o protocolo respectivo y de notificar fehacientemente a cada Institución su contenido, con las autorizaciones que correspondan.
+Las Instituciones de Seguridad Publica adoptarán, emitirán aplicaran los protocolos homologados para el uso de la fuerza, conforme a los (sic) previsto en la Ley Nacional sobre Uso de la Fuerza.
 
 ## TÍTULO SÉPTIMO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
@@ -1859,11 +1827,11 @@ Las Instituciones de Seguridad Pública, conforme a lo dispuesto en la ley que p
 
 ### CAPÍTULO III. DEL COLEGIO ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 107.
 
-La Secretaría, en coordinación con el Comisionado Estatal, establecerá y operará Academias o Institutos que serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
+La Secretaría establecerá y operará Academias o Institutos que serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
 
 I. Aplicar los procedimientos homologados del Sistema;
 
@@ -1901,11 +1869,11 @@ XVI. Supervisar que los aspirantes e integrantes de las Instituciones Policiales
 
 XVII. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 108.
 
-En materia de planes y programas de profesionalización para las Instituciones Policiales, la Comisión Estatal de Seguridad Pública, tendrá la facultad de proponer a las Instancias de Coordinación de esta Ley lo siguiente:
+En materia de planes y programas de profesionalización para las Instituciones Policiales, la Secretaría, tendrá la facultad de proponer a las Instancias de Coordinación de esta Ley lo siguiente:
 
 I. Los contenidos básicos de los programas para la formación, capacitación y profesionalización de los mandos de las Instituciones policiales;
 
@@ -2001,9 +1969,9 @@ IV. El fortalecimiento económico, cultural y educativo de los morelenses;
 
 V. El fortalecimiento de la participación ciudadana para el cumplimiento de los fines de la seguridad pública;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Implementar, expedir y ejecutar programas y operativos que permitan prevenir los delitos y faltas administrativas, con la participación de las autoridades competentes, conforme a la normativa aplicable y a través de la Secretaría de Gobierno, por conducto de la Comisión Estatal de Seguridad Pública; y
+VI. Implementar, expedir y ejecutar programas y operativos que permitan prevenir los delitos y faltas administrativas, con la participación de las autoridades competentes, conforme a la normativa aplicable y a través de la Secretaría; y
 
 VII. La aplicación de los conocimientos y descubrimientos científicos para el logro de lo expuesto en las fracciones anteriores del presente artículo.
 
@@ -2035,9 +2003,9 @@ Las instituciones de seguridad pública realizarán las acciones necesarias para
 
 Promoverán el establecimiento de un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-El servicio tendrá comunicación directa con la Comisión Estatal de Seguridad Pública, la cual inmediatamente canalizará a las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas que corresponda, para su efectiva atención.
+El servicio tendrá comunicación directa con la Secretaría, la cual inmediatamente canalizará a las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas que corresponda, para su efectiva atención.
 
 ###### Artículo 117.
 
@@ -2365,11 +2333,11 @@ Las instituciones de seguridad pública integrarán instrumentos, políticas y a
 
 Toda institución de seguridad pública, está obligada a suministrar la información necesaria a las bases de datos del Sistema Nacional, en los términos de la Ley General y acuerdos de los Consejos Nacional y Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 140.
 
-Para los efectos del artículo anterior, el Análisis de la Información, estará a cargo de la Comisión Estatal de Seguridad Pública, por conducto de la Unidad Administrativa denominada Centro Estatal de Análisis de Información sobre Seguridad Pública, la que será la encargada de concentrar la información con el fin de contar con estadísticas, índices delictivos, estrategias, programas y estudios especializados, que permitan cumplir con los objetivos y metas propuestas, en materia de seguridad pública.
+Para los efectos del artículo anterior, el Análisis de la Información, estará a cargo de la Secretaría, por conducto de la Dirección General del Centro Estatal de Análisis de Información sobre Seguridad Pública, la que será la encargada de concentrar la información con el fin de contar con estadísticas, índices delictivos, estrategias, programas y estudios especializados, que permitan cumplir con los objetivos y metas propuestas, en materia de seguridad pública.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -2377,9 +2345,9 @@ La información se enlazará con el sistema de información sobre seguridad púb
 
 El Coordinador del Centro Estatal, deberá contar con licenciatura y cédula profesional debidamente registrada y experiencia en el análisis de la información y con experiencia acreditada en la materia.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-El Comisionado Estatal dispondrá la evaluación periódica del funcionamiento del Centro Estatal y ordenará las acciones procedentes.
+El Secretario dispondrá la evaluación periódica del funcionamiento de la Dirección General del Centro Estatal y ordenará las acciones procedentes.
 
 ###### Artículo 141.
 
@@ -2461,31 +2429,53 @@ Para el acceso del público en general el principio que prevalecerá es que todo
 
 El Estado administrara la información de las bases de datos estatal y municipal.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 147.
 
-El Secretario Ejecutivo, con la información que le proporcione la Comisión Estatal de Seguridad Pública, deberá presentar al Consejo Estatal en forma trimestral, un informe estadístico delincuencial con los siguientes aspectos:
+El Secretario Ejecutivo, con la información que le proporcione la Secretaría, deberá presentar al Consejo Estatal en forma trimestral, un informe estadístico delincuencial con los siguientes aspectos:
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 I. Incidencias delictivas en faltas administrativas;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 II. Incidencia de delitos denunciados del fuero común en general;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 III. Incidencia por cada tipo de delito del fuero común;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 IV. Incidencia de delitos denunciados del fuero común en general por municipio;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 V. Incidencia por cada tipo de delito del fuero común por municipio;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 VI. Número de averiguaciones previas consignadas con detenido y sin detenido por cada tipo de delito, así como carpetas de investigación vinculadas a proceso sin detenido y por cada tipo de delito;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 VII. Número de averiguaciones previas y carpetas de investigación remitidas a la reserva;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 VIII. Número de órdenes de aprehensión solicitadas, obsequiadas, ejecutadas, canceladas y pendientes de ejecución;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 IX. Adolescentes presentados ante el Ministerio Público; libertadas (sic), sujetos a proceso o medidas cautelares;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 X. Adolescentes sujetos a medidas cautelares;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 XI. Antecedentes y series históricas de los conceptos antes expuestos;
 
@@ -2507,6 +2497,8 @@ XIII. REPORTE DEL SEGUIMIENTO DE DENUNCIAS ANÓNIMAS CAPTADAS POR EL 089, DE EME
 
 XIV. INDICADORES DE MEDICIÓN DE LAS ESTADÍSTICAS OBTENIDAS DE LOS RESULTADOS DE LA IMPLEMENTACIÓN DE LOS SISTEMAS, EQUIPOS Y MEDIOS DE VIDEOVIGILANCIA IMPLEMENTADOS PARA GARANTIZAR LA SEGURIDAD PÚBLICA EN EL ESTADO.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 Dicha información podrá ser utilizada para generar indicadores de medición del desempeño de las instituciones de seguridad pública.
 
 ###### Artículo 148.
@@ -2521,9 +2513,13 @@ Por lo que respecta al Tribunal Superior de Justicia están obligados a proporci
 
 Las Instituciones de Seguridad Pública, cumplirán y mantendrán actualizados los registros previstos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
-En el Estado el responsable de la operación y seguimiento de los Registros Nacionales de Seguridad Pública será la Comisión Estatal de Seguridad Pública en coordinación con el Secretariado Ejecutivo, siguiendo las políticas del Sistema Nacional y dando cumplimiento a los acuerdos nacionales.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-La Comisión Estatal de Seguridad Pública, entregará un informe de los avances y nivel de actualización de los registros de las Instituciones de Seguridad Pública al Secretariado Ejecutivo para hacerlo del conocimiento del Consejo Estatal.
+En el Estado el responsable de la operación y seguimiento de los Registros Nacionales de Seguridad Pública será la Secretaría en coordinación con el Secretariado Ejecutivo, siguiendo las políticas del Sistema Nacional y dando cumplimiento a los acuerdos nacionales.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría entregará un informe de los avances y nivel de actualización de los registros de las Instituciones de Seguridad Pública al Secretariado Ejecutivo para hacerlo del conocimiento del Consejo Estatal.
 
 ### CAPÍTULO IV. DEL REGISTRO NACIONAL DEL PERSONAL EN SEGURIDAD PÚBLICA
 
@@ -2555,9 +2551,9 @@ II. Las armas y municiones que les hayan sido autorizadas por las dependencias c
 
 Los integrantes de las instituciones de Seguridad Pública y los prestadores del servicio de seguridad privada, sólo podrán portar las armas de cargo que les hayan sido autorizadas individualmente o aquéllas que se les hubiesen asignado en lo particular y que estén registradas colectivamente para la institución de seguridad pública a que pertenezca, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-A través de la Comisión Estatal de Seguridad Pública, mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a sus integrantes. Dicha huella deberá registrarse en una base de datos del Sistema.
+A través de la Secretaría, mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a sus integrantes. Dicha huella deberá registrarse en una base de datos del Sistema.
 
 ###### Artículo 155.
 
@@ -2675,11 +2671,11 @@ Las sanciones que determine el Consejo de Honor y Justicia o la instancia corres
 
 En la Procuraduría, existirá una unidad administrativa que fungirá como órgano de control interno, investigación, vigilancia, supervisión y evaluación técnica-jurídica, denominada Visitaduría General, la cual, previa la investigación de los hechos denunciados, y en su caso, el desahogo del procedimiento administrativo correspondiente, someterá al Consejo de Honor y Justicia que para tal efecto se constituya, la propuesta de sanción derivada del procedimiento previsto en su propia Ley Orgánica en concordancia con lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 163.
 
-En la Comisión Estatal de Seguridad Pública, en la Coordinación Estatal de Reinserción Social y en las demás áreas de Seguridad Pública Estatal y Municipales existirá una Unidad de Asuntos Internos, que estará bajo el mando inmediato de sus Titulares.
+En la Secretaría, en la Coordinación del Sistema Penitenciario y en las demás áreas de Seguridad Pública Estatal y Municipales existirá una Unidad de Asuntos Internos, que estará bajo el mando inmediato de sus Titulares.
 
 Serán observadores y conocerán de aquellas actuaciones que ameriten algún reconocimiento o sanción para los elementos de las instituciones policiales, ya sea de oficio o a petición de algún mando.
 
@@ -2695,9 +2691,9 @@ I. Cuando se reciban quejas y denuncias por cualquier medio, interpuestas contra
 
 II. Cuando el superior jerárquico inmediato considere que el elemento infringió los principios de actuación, obligaciones ó deberes establecidos en la presente Ley u otros ordenamientos legales;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-III. Aquellos que instruya el Comisionado Estatal, el Coordinador Estatal de Reinserción Social o el titular de Seguridad Pública Municipal en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio titular, y
+III. Aquellos que instruya el Secretario, el Coordinador del Sistema Penitenciario o el titular de Seguridad Pública Municipal en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio titular, y
 
 IV. Por acuerdos emitidos de los Consejos Municipales y Estatal de Seguridad Pública.
 
@@ -2783,19 +2779,29 @@ La Visitaduría General y las Unidades de Asuntos Internos, ejecutarán las reso
 
 ### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 176.
 
-La Fiscalía, la Comisión Estatal de Seguridad Pública, la Coordinación Estatal de Reinserción Social y las áreas de Seguridad Pública Estatal y Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos, una vez que se haya agotado todo el procedimiento establecido en esta Ley y las demás aplicables, dentro de los plazos establecidos por la misma.
+La Fiscalía, la Secretaría, la Coordinación del Sistema Penitenciario y las áreas de Seguridad Pública Estatal y Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos, una vez que se haya agotado todo el procedimiento establecido en esta Ley y las demás aplicables, dentro de los plazos establecidos por la misma.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2018)</small>
 
 El Consejo de Honor y Justicia confirmará, modificará o negará la propuesta de sanción, por unanimidad o mayoría simple de sus miembros, respecto de los siguientes asuntos:
 
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
 I. La destitución o remoción de la relación administrativa;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
 II. La suspensión temporal de funciones;
 
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+
 III. Cambio de adscripción; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
 IV. Los recursos de queja y rectificación.
 
@@ -2937,11 +2943,13 @@ Las resoluciones del Consejo de Honor y Justicia que recaigan sobre el Recurso d
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 194.
 
-Los titulares, mandos superiores y mandos medios de la Comisión Estatal de Seguridad Pública, Fiscalía, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de Seguridad Pública Municipal se considerarán personal de seguridad pública; serán de libre designación y remoción, sujetándose para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
+Los titulares, mandos superiores y mandos medios de la Secretaría, Fiscalía, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de Seguridad Pública Municipal se considerarán personal de seguridad pública; serán de libre designación y remoción, sujetándose para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
 
 La Fiscalía, como organismo constitucional autónomo, integrará el órgano colegiado estatal y nacional en el Estado, del sistema de seguridad pública. Sin embargo, su titular será nombrado y removido de acuerdo a lo estipulado por la Constitución local y no estará supeditado o bajo las órdenes de ninguna institución, corporación o Poder del Estado.
 
@@ -3280,3 +3288,33 @@ OCTAVA. En tanto se emiten los lineamientos previstos en el artículo transitori
 NOVENA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
 
 DÉCIMA. Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CINCO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES EN MATERIA DE REINGENIERÍA ADMINISTRATIVA".]
+
+PRIMERA. Remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5641, de fecha 04 de octubre de 2018.
+
+CUARTA. Se derogan todas aquellas disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+QUINTA. Dentro de un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes y reglamentos que resulten aplicables, para su armonización correspondiente; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por el presente Decreto.
+
+SEXTA. Para el cumplimiento de la presente Ley, la Persona Titular del Poder Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura orgánica de las Secretarías o Dependencias estatales, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, pudiendo realizar las adecuaciones presupuestales dentro de las mismas, de conformidad con lo previsto en el Presupuesto de Egresos del Estado de Morelos para el ejercicio fiscal correspondiente. Por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+SÉPTIMA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos que se refieran a la Secretaría de Obras Públicas, Secretaría de Turismo y Cultura, a la Secretaría de Desarrollo Social y a la Comisión Estatal de Seguridad Pública, se entenderán asignadas y referidas a la Secretaría de Infraestructura, a la Secretaría de Turismo, a la Secretaría de Cultura, a la Secretaría de Bienestar y a la Secretaría de Seguridad y Protección Ciudadana, respectivamente; lo que implica también la asignación correspondiente de todos los recursos humanos, materiales, organizacionales, financieros y presupuestarios, en términos de la normativa aplicable.
+
+OCTAVA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Movilidad y Transporte, y a la Comisión Estatal de Seguridad Pública en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de la Secretaría de Infraestructura, de la Secretaría de Bienestar, de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana, respectivamente, por virtud de las facultades y atribuciones conferidas a éstas mediante el presente Decreto.
+
+NOVENA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga pase a otra dependencia, se transferirán también los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente Decreto; lo cual será coordinado y supervisado por las Secretarías de Hacienda, de Administración y de la Contraloría, así como de la Jefatura de la Oficina de la Gubernatura del Estado, en el ámbito de sus atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMA. El día de la entrada en vigor del presente Decreto, la extinta Secretaría de Turismo y Cultura procederá a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los asuntos que se encuentren en trámite o en proceso, a la ahora Secretaría de Cultura, a efecto de que sea esta Secretaría de Despacho quien, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, determine la reasignación y lleve a cabo la transferencia de dichos asuntos, conforme al ámbito de competencias conferidas por virtud del presente Decreto, a la ahora Secretaría de Turismo a fin de que dé continuidad en su trámite, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de dicha redistribución pueda modificar o alterar su curso y resultado.
+
+DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga, cuyas atribuciones se trasladen a otras Secretarías o Dependencias, con motivo del presente Decreto, continuarán tramitándose hasta su conclusión en los términos establecidos en normativa que les dio origen, sin que el traspaso modifique o altere su curso y resultado.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
+
+DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
