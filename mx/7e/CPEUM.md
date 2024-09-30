@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2024-09-15"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -66,79 +66,255 @@ Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del 
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Art. 2o.
 
-La Nación Mexicana es única e indivisible.
+La Nación Mexicana es única e indivisible, basada en la grandeza de sus pueblos y culturas.
 
-La Nación tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La Nación tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio nacional; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las constituciones y leyes de las entidades federativas, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
+Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE AGOSTO DE 2001)</small>
 
 A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
-I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+I. Decidir, conforme a sus sistemas normativos y de acuerdo con esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de esta Constitución y leyes aplicables.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía de los Estados y la autonomía de la Ciudad de México. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+V. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Participar, en términos del artículo 3o. constitucional, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia.
+
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2001)</small>
+
+IX. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+X. Elegir, en los municipios con población indígena, representantes en los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en esta Constitución.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO DE ESTE APARTADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+B. La Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Para tal efecto, dichas autoridades tienen la obligación de:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
+
+a) La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
+
+b) La formación de profesionales indígenas y la implementación de la educación comunitaria;
+
+c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+
+d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
+
+e) La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+V. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+X. Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales.
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena.
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Establecer políticas públicas para proteger a las comunidades y personas indígenas migrantes, tanto en el territorio nacional como en el extranjero, en especial, mediante acciones destinadas a:
+
+a) Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;
+
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+
+d) Velar permanentemente por el respeto de sus derechos humanos, y
+
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
+
+La ley establecerá los mecanismos para que las personas indígenas residentes y las migrantes, puedan mantener la ciudadanía mexicana y el vínculo con sus comunidades de origen.
 
 > <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía de los Estados y la autonomía de la Ciudad de México. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+XIV. Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los planes de las entidades federativas, de los Municipios y, cuando proceda, de las demarcaciones territoriales de la Ciudad de México y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 
-IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en esta Constitución.
+XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo.
 
-VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JUNIO DE 2019)</small>
+La Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
 
-VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables.
-
-Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos en los municipios, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
-
-VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
-
-Las constituciones y leyes de las entidades federativas establecerán las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada entidad, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
-
-B. La Federación, las entidades federativas y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
-
-Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
-
-I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos.
-
-II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación.
-
-III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
-
-IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
-
-V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
-
-VI. Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen.
-
-VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
-
-VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
-
-> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
-
-IX. Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los planes de las entidades federativas, de los Municipios y, cuando proceda, de las demarcaciones territoriales de la Ciudad de México y, en su caso, incorporar las recomendaciones y propuestas que realicen.
-
-Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
+C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio nacional desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Los pueblos y comunidades afromexicanas tienen el carácter de sujetos de derecho público, con personalidad jurídica y patrimonio propio. Tienen además derecho a:
+
+I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;
+
+II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y a la diversidad cultural de la Nación, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Nacional, y
+
+III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+> <small>(ADICIONADO [N. DE E. CON SUS PÁRRAFOS], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+> <small>[N. DE E. PERTENECE AL APARTADO D, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
+
+> <small>[N. DE E. PERTENECE AL APARTADO D, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+La Federación, las entidades federativas y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
+
+> <small>[N. DE E. PERTENECE AL APARTADO D, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+La ley general debe establecer las normas y mecanismos que aseguren el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en esta Constitución.
+
+> <small>[N. DE E. PERTENECE AL APARTADO D, D.O.F. 30 DE SEPTIEMBRE DE 2024]</small>
+
+Las constituciones y leyes de las entidades federativas establecerán las bases y mecanismos para asegurar la efectiva observancia de todo lo dispuesto en el presente artículo, en sus respectivos ámbitos de competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE MAYO DE 2019)</small>
 
@@ -554,9 +730,11 @@ Toda persona tiene derecho a buscar y recibir asilo. El reconocimiento de la con
 
 En los Estados Unidos Mexicanos no se concederán títulos de nobleza, ni prerrogativas y honores hereditarios, ni se dará efecto alguno a los otorgados por cualquier otro país.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Art. 13.
 
-Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. Ninguna persona o corporación puede tener fuero, ni gozar más emolumentos que los que sean compensación de servicios públicos y estén fijados por la ley. Subsiste el fuero de guerra para los delitos y faltas contra la disciplina militar; pero los tribunales militares en ningún caso y por ningún motivo podrán extender su jurisdicción sobre personas que no pertenezcan al Ejército. Cuando en un delito o falta del orden militar estuviese complicado un paisano, conocerá del caso la autoridad civil que corresponda.
+Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. Ninguna persona o corporación puede tener fuero, ni gozar más emolumentos que los que sean compensación de servicios públicos y estén fijados por la ley. Subsiste el fuero de guerra para los delitos y faltas contra la disciplina militar; pero los tribunales militares en ningún caso y por ningún motivo podrán extender su jurisdicción sobre personas que no pertenezcan al Ejército, Fuerza Aérea, Armada y Guardia Nacional. Cuando en un delito o falta del orden militar estuviese complicado (sic) un paisano, conocerá del caso la autoridad civil que corresponda.
 
 ###### Art. 14.
 
@@ -646,9 +824,9 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 La correspondencia que bajo cubierta circule por las estafetas estará libre de todo registro, y su violación será penada por la ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
+En tiempo de paz ningún miembro de la Fuerza Armada permanente -el Ejército, la Fuerza Aérea, la Armada y la Guardia Nacional- podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -828,23 +1006,37 @@ VI. Solicitar las medidas cautelares y providencias necesarias para la protecci�
 
 VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Art. 21.
 
-La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+La investigación de los delitos corresponde al Ministerio Público, a las policías y a la Guardia Nacional, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará esta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconocer la jurisdicción de la Corte Penal Internacional.
 
@@ -852,9 +1044,13 @@ El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconoc
 
 La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 26 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-Las instituciones de seguridad pública, incluyendo la Guardia Nacional, serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los fines de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
+Las instituciones de seguridad pública serán disciplinadas, profesionales y de carácter civil.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno, incluida la Guardia Nacional, deben coordinarse entre sí para cumplir los fines de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -864,19 +1060,25 @@ a) La regulación de la selección, ingreso, formación, permanencia, evaluació
 
 b) El establecimiento de un sistema nacional de información en seguridad pública a cargo de la Federación al que ésta, las entidades federativas y los Municipios, a través de las dependencias responsables de la seguridad pública, proporcionarán la información de que dispongan en la materia, conforme a la ley. El sistema contendrá también las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificada y registrada en el sistema.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 c) La formulación de políticas públicas tendientes a prevenir la comisión de delitos.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+
 e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
 
-> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-La Federación contará con una institución policial de carácter civil denominada Guardia Nacional, cuyos fines son los señalados en el párrafo noveno de este artículo, la coordinación y colaboración con las entidades federativas y Municipios, así como la salvaguarda de los bienes y recursos de la Nación.
+La Federación contará con la Guardia Nacional, fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial, dependiente de la secretaría del ramo de defensa nacional, para ejecutar la Estrategia Nacional de Seguridad Pública en el ámbito de su competencia. Los fines de la Guardia Nacional son los señalados en el párrafo noveno de este artículo, la coordinación y colaboración con las entidades federativas y Municipios, así como la salvaguarda de los bienes y recursos de la Nación. La ley determinará la estructura orgánica y de dirección de la Guardia Nacional.
 
-> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-La ley determinará la estructura orgánica y de dirección de la Guardia Nacional, que estará adscrita a la secretaría del ramo de seguridad pública, que formulará la Estrategia Nacional de Seguridad Pública, los respectivos programas, políticas y acciones.
+La secretaría del ramo de seguridad pública formulará la Estrategia Nacional de Seguridad Pública, y los programas, políticas y acciones respectivos.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2019)</small>
 
@@ -1430,7 +1632,9 @@ La Ley regulará el ejercicio de los derechos que la legislación mexicana otorg
 
 El ejercicio de los cargos y funciones para los cuales, por disposición de la presente Constitución, se requiera ser mexicano por nacimiento, se reserva a quienes tengan esa calidad y no adquieran otra nacionalidad. Esta reserva también será aplicable a los casos que así lo señalen otras leyes del Congreso de la Unión.
 
-En tiempo de paz, ningún extranjero podrá servir en el Ejército, ni en las fuerzas de policía o seguridad pública. Para pertenecer al activo del Ejército en tiempo de paz y al de la Armada o al de la Fuerza Aérea en todo momento, o desempeñar cualquier cargo o comisión en ellos, se requiere ser mexicano por nacimiento.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+En tiempo de paz, ningún extranjero podrá servir en la Fuerza Armada permanente, ni en las fuerzas de policía o seguridad pública. Para pertenecer al activo del Ejército en tiempo de paz y al de la Armada o al de la Fuerza Aérea o al de la Guardia Nacional en todo momento, o desempeñar cualquier cargo o comisión en ellos, se requiere ser mexicano por nacimiento.
 
 Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinistas, mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria para desempeñar los cargos de capitán de puerto y todos los servicios de practicaje y comandante de aeródromo.
 
@@ -2166,7 +2370,9 @@ Para poder figurar en las listas de las circunscripciones electorales plurinomin
 
 La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
 
-IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- No estar en servicio activo en el Ejército, Fuerza Aérea, Armada o Guardia Nacional, ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
 > <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2007)</small>
 
@@ -2726,13 +2932,17 @@ XXIX-Y. Para expedir la ley general que establezca los principios y bases a los 
 
 XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
 
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XXX. Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución, y
+XXX.- Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXXI.- Para expedir leyes que regulen y establezcan requisitos y límites para la participación del Ejército, Armada y Fuerza Aérea en materia de seguridad interior y en tareas de apoyo a la seguridad pública, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
-XXXI.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+XXXII.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
 ###### Art. 74.
 
@@ -2834,9 +3044,9 @@ I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con bas
 
 Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos.
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones; de los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía, competencia económica, y coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
+II.- Ratificar los nombramientos que el mismo funcionario haga de los Secretarios de Estado, en caso de que éste opte por un gobierno de coalición, con excepción de los titulares de los ramos de Defensa Nacional y Marina; del Secretario responsable del control interno del Ejecutivo Federal; del Secretario de Relaciones; de los embajadores y cónsules generales; de los empleados superiores del ramo de Relaciones; de los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía, competencia económica, y coroneles y demás jefes superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional, en los términos que la ley disponga;
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -2930,9 +3140,9 @@ V. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2014)
 
 VI. Conceder licencia hasta por sesenta días naturales al Presidente de la República;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, integrantes del órgano colegiado encargado de la regulación en materia de energía, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
+VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, integrantes del órgano colegiado encargado de la regulación en materia de energía, coroneles y demás jefes superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional, en los términos que la ley disponga, y
 
 VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 
@@ -3086,9 +3296,9 @@ III.- Haber residido en el país durante todo el año anterior al día de la ele
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
-> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1943)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-V.- No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección;
+V.- No estar en servicio activo, en caso de pertenecer al Ejército, Fuerza Aérea, Armada y Guardia Nacional, seis meses antes del día de la elección.
 
 > <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -3190,21 +3400,21 @@ En los supuestos de la ratificación de los Secretarios de Relaciones y de Hacie
 
 III.- Nombrar, con aprobación del Senado, a los embajadores, cónsules generales, empleados superiores de Hacienda y a los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Nombrar, con aprobación del Senado, los Coroneles y demás oficiales superiores del Ejército, Armada y Fuerza Aérea Nacionales;
+IV.- Nombrar, con aprobación del Senado, a los Coroneles y demás oficiales superiores del Ejército, Armada, Fuerza Aérea y Guardia Nacional;
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Nombrar a los demás oficiales del Ejército, Armada y Fuerza Aérea Nacionales, con arreglo a las leyes.
+V.- Nombrar a los demás oficiales del Ejército, Armada, Fuerza Aérea y Guardia Nacional, con arreglo a las leyes;
 
-> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VI.- Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente o sea del Ejército, de la Armada y de la Fuerza Aérea para la seguridad interior y defensa exterior de la Federación.
+VI.- Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente, o sea del Ejército, de la Armada, de la Fuerza Aérea y de la Guardia Nacional para la seguridad interior y defensa exterior de la Federación;
 
-> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- Disponer de la Guardia Nacional en los términos que señale la ley;
+VII.- Disponer del Ejército, de la Armada y de la Fuerza Aérea, en tareas de apoyo a la seguridad pública, en los términos que señale la ley;
 
 VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 
@@ -5368,9 +5578,9 @@ XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos
 
 Los conflictos entre el Poder Judicial de la Federación y sus servidores, así como los que se susciten entre la Suprema Corte de Justicia y sus empleados, serán resueltos por el Tribunal de Disciplina Judicial.
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XIII.- Los militares, marinos, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes.
+XIII.- Los militares, marinos, integrantes de la Guardia Nacional, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -5380,7 +5590,9 @@ Los agentes del Ministerio Público, los peritos y los miembros de las instituci
 
 Las autoridades federales, de las entidades federativas y municipales, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
 
-El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones;
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional, las prestaciones a que se refiere el inciso f) de la fracción XI de este apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones;
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
@@ -5448,9 +5660,11 @@ VI. El Congreso de la Unión y las Legislaturas de las entidades federativas, en
 
 Todo funcionario público, sin excepción alguna, antes de tomar posesión de su encargo, prestará la protesta de guardar la Constitución y las leyes que de ella emanen.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Art. 129.
 
-En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
+En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tenga previstas en esta Constitución y las leyes que de ella emanen. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
@@ -9209,3 +9423,53 @@ Los recursos federales a que se refiere el párrafo anterior deberán ser concen
 Décimo Primero.- Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
 Décimo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 13, 16, 21, 32, 55, 73, 76, 78, 82, 89, 123 Y 129 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Dentro del plazo de 180 días siguientes a la entrada en vigor de este Decreto, el Congreso de la Unión debe armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto. En tanto se realice la armonización del marco jurídico correspondiente, la organización y funcionamiento de la Guardia Nacional continuará operando con apego a las disposiciones legales vigentes antes de la entrada en vigor del presente Decreto.
+
+Tercero.- El personal militar y naval que integra la Guardia Nacional, será reclasificado de la Fuerza Armada a la que pertenezca a dicha Guardia Nacional; la nueva patente o nombramiento se expedirá con la antigüedad que posea el interesado en su grado, conforme a la escala jerárquica del Ejército y Fuerza Aérea, adicionando su nueva especialidad. Deben respetarse en todo momento los derechos que posea el interesado en la Fuerza Armada de su origen.
+
+Cuarto.- La persona titular de la Comandancia de la Guardia Nacional, que debe ostentar el grado de General de División de la Guardia Nacional en activo, será designada por la persona titular de la Presidencia de la República, a propuesta de la persona titular de la Secretaría de la Defensa Nacional.
+
+En tanto no exista personal con formación de Guardia Nacional con la mencionada jerarquía, dicha designación recaerá en un General de División del Ejército, capacitado en materia de seguridad pública.
+
+Quinto.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+
+Sexto.- El Ejecutivo Federal dispondrá lo conducente para que:
+
+I. El personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional y quede adscrito a la Secretaría del ramo de Seguridad Pública, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados, podrá continuar prestando sus servicios en la Guardia Nacional de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y la de Seguridad y Protección Ciudadana.
+
+II. Se transfieran a la Secretaría de la Defensa Nacional, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales de la última plantilla general de plazas aprobada a la extinta Policía Federal y de confianza, así como los gastos de operación de la Guardia Nacional y los recursos materiales destinados a su operación, con excepción de aquellos requeridos para el personal que continuará, bajo la adscripción de la Secretaría del ramo de Seguridad Pública.
+
+Conforme se queden vacantes las plazas de los integrantes de la extinta Policía Federal, la Secretaría del ramo de Seguridad Pública, debe transferir los recursos presupuestales a la Secretaría de la Defensa Nacional.
+
+III. El personal naval que actualmente forma parte de la Guardia Nacional permanecerá integrado a esta, conforme a la reclasificación señalada en el Transitorio Tercero del presente Decreto.
+
+Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Octavo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, establecidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 2o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANOS".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Tercero.- El Congreso de la Unión, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, debe expedir la ley general de la materia y armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto.
+
+Cuarto.- El Poder Ejecutivo Federal debe realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor de la ley general que refiere el presente Decreto.
+
+Quinto.- Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, deben realizar las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, en el marco de la unidad nacional en los términos que establece esta Constitución, así como su reconocimiento como sujetos de derecho público y el respeto irrestricto a sus derechos; lo anterior, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Sexto.- Las erogaciones que se generen con motivo de la reforma efectuada por este Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los ejecutores, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos en el presente ejercicio fiscal.
+
+Séptimo.- El Poder Ejecutivo Federal dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
+
+Octavo.- Para la interpretación de lo dispuesto en este Decreto, se tomarán en cuenta lo previsto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte, así como las consideraciones del dictamen.
