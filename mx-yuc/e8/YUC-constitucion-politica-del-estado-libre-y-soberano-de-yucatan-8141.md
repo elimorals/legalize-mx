@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2024-08-20"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "YUC"
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 30 DE SEPTIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 773/24 PUBLICADO EN EL D.O. DE 27 DE JUNIO DE 2024.]</small>
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
