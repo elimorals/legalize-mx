@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2024-02-19"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2499,7 +2499,7 @@ Los titulares de las dependencias ejercerán la competencia correspondiente a su
 
 ### CAPÍTULO II. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 304.
 
@@ -2575,6 +2575,10 @@ XVII.- Instituto de la Mujer;
 
 XVIII.- Instituto del Deporte.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIX.- Instituto de la Juventud.
+
 ###### Artículo 305.
 
 Cada una de las dependencias que integran la Administración Pública Municipal tendrá la competencia, facultades y atribuciones establecidas en el presente Código y demás disposiciones jurídicas aplicables y contará con la estructura orgánica que se describe en el presente ordenamiento y el número de servidores públicos que autorice el Presupuesto de Egresos.
@@ -2599,7 +2603,7 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 311.
 
@@ -2735,13 +2739,17 @@ a). Dirección de Obras Públicas,
 
 5). Departamento de Parque de Maquinaria.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-b). Dirección de Desarrollo Urbano.
+b) Subsecretaría de Obras Públicas
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 1). Departamento de Desarrollo Urbano e Imagen Urbana,
 
 2). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 3). Departamento Jurídico Administrativo.
 
@@ -2769,7 +2777,7 @@ e). Departamento del Rastro Municipal.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-VII.- Secretaría de Desarrollo Social:
+VII. Secretaría de Desarrollo Social:
 
 a). Departamento de Desarrollo Social,
 
@@ -2779,7 +2787,7 @@ b). Departamento de Participación Ciudadana,
 
 c). Departamento de Desarrollo Humano; y
 
-d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
+d) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2024)
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2015)</small>
 
@@ -2891,7 +2899,7 @@ c). Departamento de Imagen Institucional
 
 > <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-XVI.- Secretaría Ejecutiva
+XVI. Secretaría Ejecutiva
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -2907,7 +2915,7 @@ c). Coordinación de enlace con la ciudadanía
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS Y NUMERALES], P.O. 14 DE JUNIO DE 2021)</small>
 
-XVII.- Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
+XVII. Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
 
 a). Dirección de Ordenamiento Territorial e Imagen Urbana.
 
@@ -2929,7 +2937,7 @@ d). Departamento Jurídico Administrativo,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-XVIII.- Instituto de Cultura
+XVIII. Instituto de Cultura
 
 a) Departamento de promoción y difusión cultural
 
@@ -2937,17 +2945,23 @@ b) Departamento de enseñanza artística
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-XIX.- Instituto de la Mujer
+XIX. Instituto de la Mujer
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-XX.- Instituto del Deporte.
+XX. Instituto del Deporte.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISO], P.O. 24 DE ABRIL DE 2023)</small>
 
 XXI. Instituto Municipal del Migrante.
 
 a) Atención al migrante.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Instituto de la Juventud.
+
+a) Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
 ###### Artículo 312.
 
@@ -25094,3 +25108,13 @@ P.O. 19 DE FEBRERO DE 2024.
 Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
 
 Artículo Tercero.- Cúmplase.
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CALVILLO, AGS.", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
