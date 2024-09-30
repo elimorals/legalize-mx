@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-planeacion-para-el-estado-de-morelos-173874"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-31"
-last_updated: "2024-07-31"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 6335 Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 31 de julio de 2024.
 
@@ -89,19 +89,27 @@ III. El mejoramiento económico, social y cultural de los morelenses, a través 
 
 IV. La igualdad y el respeto irrestricto a los derechos humanos de todos los morelenses;
 
-V. La integración de los Objetivos de Desarrollo en el ámbito estatal y municipal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+V. La integración de los Objetivos de Desarrollo Sostenible en el ámbito estatal y municipal;
 
 VI. El fortalecimiento de los municipios para que sean la base de la planeación del desarrollo sostenible;
 
-VII. El mejoramiento de las condiciones de vida y el desarrollo integral de los pueblos y comunidades indígenas, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. La perspectiva de género en todos los procesos de planeación en Morelos.
+VII. El mejoramiento de las condiciones de vida y el desarrollo integral de los pueblos y comunidades indígenas, afromexicanos y grupos de atención prioritaria.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. La perspectiva de género e intercultural en todos los procesos de planeación en Morelos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 3.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Agenda 2030, al plan de acción a favor de las personas, el planeta y la prosperidad, para fortalecer la paz universal y el acceso a la justicia, que fue adoptado por la asamblea general de la Organización de las Naciones Unidas, y que plantea 17 Objetivos con 169 metas y 232 indicadores, integrados e indivisibles, que abarcan las esferas económica, social y ambiental;
+I. Consejos para el Desarrollo Metropolitano, son los órganos consultivos previstos en la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Morelos;
 
 II. COPLADEMOR, al Comité de Planeación para el Desarrollo del Estado de Morelos, el cual forma parte del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible;
 
@@ -109,41 +117,41 @@ III. COPLADEMUN, al Comité de Planeación para el Desarrollo Municipal, el cual
 
 IV. Desarrollo sostenible, al proceso que busca satisfacer las necesidades económicas, sociales, de diversidad cultural y de un medio ambiente sano de la actual generación, sin poner en riesgo la satisfacción de esas mismas necesidades para las generaciones futuras, contemplando tres dimensiones claves para una adecuada planeación: sociedad, economía y medio ambiente, programadas con un horizonte mínimo de una generación;
 
-V. Evaluación, al conjunto de mecanismos sistémicos para medir el desempeño de la gestión pública, mediante el análisis del impacto de los resultados de las acciones de gobierno, en apego al cumplimiento de los objetivos y compromisos establecidos en los planes y programas;
+V. Evaluación, al conjunto de mecanismos sistémicos para medir el desempeño de la gestión pública, mediante el análisis de los resultados de las acciones de gobierno, en apego al cumplimiento de los objetivos y compromisos establecidos en los planes y programas;
 
-VI. Gestión por resultados, al sistema de evaluación que asigna responsabilidades por participante y facilita el óptimo funcionamiento de un proceso de planeación;
+VI. Gestión para Resultados, al modelo de gestión pública centrada en el cumplimiento de las acciones estratégicas contenidas en el Plan Estatal de Desarrollo y en las mejoras sostenibles de los resultados;
 
-VII. Indicadores estratégicos, aquellos que permiten conocer el estatus de la misión y visión de la gestión pública y su impacto, expresando numéricamente el desempeño institucional o de un sector, respecto de una actividad específica durante un periodo determinado;
+VII. IMOPLAN, al Instituto Morelense de Planeación;
 
-VIII. IMOPLAN, al Instituto Morelense de Planeación;
+VIII. Indicadores estratégicos, aquellos que permiten conocer el grado de cumplimiento de los objetivos de las políticas públicas y de los programas;
 
-IX. Juntas Ciudadanas de Planeación, a los órganos integrados por representantes de la sociedad civil organizada, ya sea a nivel estatal o municipal, que coadyuvan en la elaboración, evaluación y reconducción de los planes y programas y forman parte del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible;
+IX. Juntas Ciudadanas de Planeación, a los órganos integrados por representantes de la sociedad civil organizada, ya sea a nivel estatal o municipal, que coadyuvan en la elaboración y reconducción de los planes y programas que forman parte del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible;
 
-X. ODS, a los 17 Objetivos de Desarrollo Sostenible que conforman la Agenda 2030, adoptada por la Organización de las Naciones Unidas;
+X. ODS. Objetivos de Desarrollo Sostenible; a los objetivos y metas de desarrollo Sostenible que establezcan los tratados internacionales y normativa vigente en la materia;
 
-XI. Plan Rector, al documento que contiene las proyecciones a largo plazo, es decir, a 24 años y servirá de guía para la elaboración de los Planes Estatales y Municipales de Desarrollo;
+XI. Plan Estatal de Desarrollo, al instrumento rector de políticas públicas el cual contiene objetivos, estrategias, líneas de acción, metas e indicadores para encaminar y unir esfuerzos en todos los niveles gubernamentales para la atención de las prioridades de desarrollo estatal;
 
-XII. Plan Estatal de Desarrollo, al Plan de Desarrollo del Estado de Morelos;
+XII. Plan Municipal de Desarrollo, al instrumento rector de políticas públicas el cual contiene objetivos, estrategias, líneas de acción, metas e indicadores para encaminar y unir esfuerzos en todos los niveles gubernamentales para la atención de las prioridades de desarrollo municipal;
 
-XIII. Plan Municipal de Desarrollo, al Plan de Desarrollo de cada municipio del estado de Morelos;
+XIII. Plan Rector, al documento que contiene las proyecciones a largo plazo, es decir, a 24 años y servirá de guía para la elaboración de los Planes Estatales y Municipales de Desarrollo;
 
-XIV. Planeación del desarrollo sostenible, al orden de objetivos y acciones en materia de promoción, fomento y regulación de las actividades medioambientales, económicas, sociales, políticas y culturales que desarrolle el Poder Ejecutivo tanto estatal como municipal, a fin de garantizar a las generaciones actuales los medios necesarios para lograr un desarrollo sin comprometer sin comprometer las posibilidades de las generaciones futuras de satisfacer sus necesidades, de acuerdo con las normas, principios y objetivos establecidos por las Constituciones Federal y Estatal y las demás leyes relativas;
+XIV. Planeación del desarrollo sostenible, al orden de objetivos en materia de promoción, fomento y regulación de las actividades medioambientales, económicas y sociales, que desarrolle el Poder Ejecutivo y los Ayuntamientos a fin de garantizar a las generaciones actuales los medios necesarios para lograr un desarrollo sin comprometer las posibilidades de las generaciones futuras de satisfacer sus necesidades, de acuerdo con las normas, principios y objetivos establecidos por las Constituciones Federal y Estatal y las demás leyes relativas;
 
-XV. Planeación estratégica, a la que se realiza a través de un proceso de alineación de objetivos, acciones y metas en un tiempo determinado, para efectos de la presente Ley, ese plazo será de al menos cuatro sexenios;
+XV. Planeación estratégica, a la planificación estratégica es un proceso sistemático de desarrollo e implementación de planes para alcanzar propósitos u objetivos;
 
-XVI. Planeación proyectada a corto, mediano y largo plazo, a la prevista en un periodo de 1 a 3 años, de 3 a 6 años y a 24 años, respectivamente
+XVI. Políticas públicas, a las acciones de gobierno con objetivos de interés público, surgidas de un proceso de diagnóstico y análisis de factibilidad, para la atención efectiva de problemas públicos específicos, en donde es fundamental y necesaria la participación organizada de la ciudadanía directamente afectada, en la definición de sus problemas y soluciones;
 
-XVII. Políticas públicas, a las acciones de gobierno con objetivos de interés público, surgidas de un proceso de diagnóstico y análisis de factibilidad, para la atención efectiva de problemas públicos específicos, en donde es fundamental y necesaria la participación organizada de la ciudadanía directamente afectada, en la definición de sus problemas y soluciones.
+XVII. Programas, a los diferentes tipos de programas que deriven del Plan Estatal de Desarrollo y los Planes Municipales, según correspondan;
 
-XVIII. Programa sectorial, al que comprende aspectos relativos a un tema específico del desarrollo, es coordinado por una o varias Secretarías o Dependencias, e incorpora las propuestas de desarrollo del sector público, social y privado;
+XVIII. Sistema Estatal, al Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible, y
 
-XIX. Sistema Estatal, al Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible, y
+XIX. Subsistema, al Subsistema Estatal de Evaluación.
 
-XX. Subsistema, al Subsistema Estatal de Evaluación.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 4.
 
-Es responsabilidad del Poder Ejecutivo Estatal y Municipal conducir la Planeación del Desarrollo Sostenible basándose en la participación ciudadana, de conformidad con lo dispuesto en la presente Ley.
+Es responsabilidad del Poder Ejecutivo Estatal y los Ayuntamientos, conducir la Planeación del Desarrollo Sostenible basándose en la participación ciudadana, de conformidad con lo dispuesto en la presente Ley.
 
 ###### Artículo 5.
 
@@ -153,39 +161,51 @@ El Sistema Estatal deberá informar al Congreso del Estado, cada dos años, sobr
 
 Asimismo, realizarán las propuestas para su modificación y reconducción correspondiente, en los mismos términos que para su elaboración.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 6.
 
 La persona Titular del Poder Ejecutivo Estatal remitirá al Congreso del Estado, en el primer cuatrimestre del primer año de ejercicio constitucional, para su examen y opinión el Plan Estatal de Desarrollo y los criterios que sirvieron de base para su formulación en los términos que establece la Ley.
 
-Asimismo, deberá informar anualmente a dicho Congreso del Estado sobre el estado general que guarda la administración pública, así como las decisiones adoptadas para la ejecución del Plan Estatal de Desarrollo y los demás programas que de él se deriven.
+Asimismo, deberá remitir anualmente a dicho Congreso del Estado, un informe de seguimiento del avance del Plan Estatal de Desarrollo, a través del informe anual de gobierno.
 
-Este informe, deberá contener, cuando menos, el seguimiento sobre el avance, las actualizaciones de los Programas Presupuestarios, las modificaciones derivadas del cumplimiento de los ODS, los criterios que le sirvan de base para su formulación, así como la medición y evaluación de sus impactos en la población.
+Adicionalmente, de forma semestral se publicará una evaluación del avance del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 7.
 
-La persona titular del poder Ejecutivo Municipal remitirá el Plan Municipal de Desarrollo y el Programa Presupuestario al Congreso del Estado, para su examen y opinión.
+Los municipios remitirán el Plan Municipal de Desarrollo y el Programa Presupuestario al Congreso del Estado, para su examen y opinión.
 
 Documentos que deberán ser publicados en el Periódico Oficial “Tierra y Libertad”, una vez atendidas las observaciones que, en su caso, el Municipio considere oportunas.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los Municipios deberá relacionarse en lo conducente, con la finalidad de permitir al Congreso del Estado el análisis de las cuentas, en concordancia con los fines y prioridades de la Planeación Estatal del Desarrollo y dar así mismo cumplimiento al Acuerdo por el que se armoniza la estructura de las cuentas públicas de la CONAC.
+El contenido de las cuentas públicas de la Hacienda Pública Estatal y de los Municipios deberá relacionarse en lo conducente, con la finalidad de permitir al Congreso del Estado el análisis de las cuentas, en concordancia con los fines y prioridades de la Planeación Estatal del Desarrollo y dar así mismo cumplimiento al Acuerdo por el que se armoniza la estructura de las cuentas públicas de la CONAC.
 
 ###### Artículo 9.
 
 La persona titular del Poder Ejecutivo Estatal al enviar al Congreso del Estado la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, informará sobre el contenido general de estos documentos, relacionándolos con los Programas Presupuestarios para el cumplimiento del Plan Rector y del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-Las personas titulares de las Secretarías y Dependencias de la Administración Pública Estatal, a solicitud del Congreso, darán cuenta del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en el Plan Estatal de Desarrollo o sus similares en el ámbito municipal, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de Política Económica y Social de acuerdo con dichos objetivos y prioridades, precisando el impacto específico, con perspectiva de género.
+Las personas titulares de las Secretarías y Dependencias de la Administración Pública Estatal, a solicitud del Congreso, darán cuenta del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en el Plan Estatal de Desarrollo o sus similares en el ámbito municipal, así como de los resultados de las acciones previstas.
 
-Lo harán de igual forma las personas titulares de las Secretarías y Dependencias de la Administración Pública municipal a solicitud del Cabildo correspondiente.
+También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de Política Económica y Social de acuerdo con dichos objetivos y prioridades, precisando el impacto específico, con perspectiva de género e intercultural.
 
-En su caso, explicarán las desviaciones ocurridas de acuerdo con la evaluación efectuada por la Junta Ciudadana de Planeación de la esfera gubernamental correspondiente de que se trate, así como las medidas que serán adoptadas para corregirlas, en concordancia con los indicadores, metodologías y procedimientos del Subsistema Estatal de Evaluación, en términos de lo establecido por esta Ley y su Reglamento.
+Lo harán de igual forma las personas titulares de las Dependencias de la Administración Pública municipal a solicitud del Ayuntamiento correspondiente.
+
+En su caso, explicarán las desviaciones ocurridas de acuerdo con la evaluación efectuada por el Subsistema, así como las medidas que serán adoptadas para corregirlas, en concordancia con los indicadores, metodologías y procedimientos establecidos por esta Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-Las Secretarías y Dependencias de la Administración Pública Estatal y Municipal, deberán elaborar sus programas sectoriales incluyendo los Regionales si los hubiere, con base en los objetivos, estrategias, metas, acciones, prioridades, indicadores y mecanismos de evaluación estipulados en el Plan Rector. Para este efecto, establecerán mecanismos de administración, coordinación y evaluación, con perspectiva intercultural y de género, que garantice el desarrollo equitativo, incluyente, integral, sustentable, sostenible y con visión de largo plazo.
+Las Secretarías y Dependencias de la Administración Pública Estatal y Municipal, deberán elaborar sus programas sectoriales, institucionales, especiales, subregionales y presupuestarios, según correspondan, con base en los objetivos, estrategias, líneas de acción, metas, e indicadores vinculados a los planes estatal, municipal y Plan Rector. Para este efecto, establecerán mecanismos de administración, coordinación y evaluación, con perspectiva intercultural y de género, que garantice el desarrollo equitativo, incluyente, integral, sustentable, sostenible y con visión de largo plazo.
 
 Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Administración Pública Paraestatal y a los Organismos Autónomos. A este efecto, las personas titulares de las Secretarías proveerán lo conducente en el ejercicio de las atribuciones legales como coordinadores del sector.
 
@@ -197,23 +217,33 @@ Las iniciativas de Ley y Reglamentos, decretos y acuerdos que formule el Poder E
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-El Sistema Estatal es un mecanismo permanente de planeación integral, estratégica y participativa, a través del cual el Poder Ejecutivo Estatal y Municipal y la sociedad civil organizada, establecen procesos para lograr el Desarrollo Sostenible de Morelos, en congruencia con lo dispuesto por los artículos 21, 21 Bis, 21 Ter y Quinto Transitorio de la Ley de Planeación Federal.
+El Sistema Estatal es un mecanismo permanente de planeación integral, estratégica y participativa, a través del cual el Poder Ejecutivo Estatal, los Ayuntamientos y la sociedad civil organizada, establecen procesos para lograr el Desarrollo Sostenible de Morelos, en congruencia con lo dispuesto por los Artículos 21, 21 Bis, 21 Ter y Quinto Transitorio de la Ley de Planeación Federal.
 
 ###### Artículo 14.
 
 El Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible, estará integrado por:
 
-I. La persona titular del IMOPLAN;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-II. La persona titular del Subsistema,
+I. El IMOPLAN;
 
-III. La persona titular de la presidencia del COPLADERMOR;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. El Subsistema,
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. El COPLADEMOR;
 
 IV. La persona titular de la presidencia de cada COPLADEMUN;
 
-V. La Junta Ciudadana de Planeación, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+V. La Junta Ciudadana de Planeación Estatal, y
 
 VI. Las Juntas de Planeación Municipal, en su caso.
 
@@ -225,7 +255,9 @@ I. IMOPLAN;
 
 II. Secretaría de Hacienda;
 
-III. Secretaría Desarrollo Social;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Secretaría de Bienestar;
 
 IV. Secretaría de Desarrollo Sustentable;
 
@@ -251,7 +283,9 @@ I. Elaborar el Plan Rector utilizando la metodología del marco lógico;
 
 II. Establecer los lineamientos técnicos para la elaboración de los Planes de Desarrollo Estatal y Municipales;
 
-III. Asesorar a las personas titulares de los Poderes Ejecutivos estatal y municipal, al inicio de su administración, sobre los objetivos, metas y lineamientos del Plan Rector, para la elaboración de sus Planes de Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Asesorar a la persona titular del Poder Ejecutivo Estatal y a solicitud expresa de los Ayuntamientos, al inicio de su administración, sobre los objetivos, metas y lineamientos del Plan Rector, para la elaboración de sus Planes de Desarrollo;
 
 IV. Dar seguimiento a las acciones encaminadas al cumplimiento del Plan Rector;
 
@@ -261,13 +295,19 @@ VI. Ejecutar las acciones necesarias de reconducción, una vez que el Subsistema
 
 VII. Las demás que establezcan las disposiciones reglamentarias respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 17.
 
-La Secretaría de Hacienda, dentro del Sistema Estatal y en coordinación con las unidades administrativas competentes, las siguientes atribuciones:
+La Secretaría de Hacienda, a través de las unidades y órganos administrativos competentes, cuenta con las siguientes atribuciones:
 
-I. Coordinar las acciones en el proceso de elaboración del Plan Estatal de Desarrollo correspondiente a su período de gobierno y de los Programas Presupuestarios requeridos para su ejecución;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-II. Coordinar el seguimiento, control, evaluación y reconducción del Plan Estatal de Desarrollo y los Programas Presupuestarios elaborados a efecto del dar cumplimiento a los objetivos y metas del mismo, escuchando la opinión y tomando en cuenta las propuestas de las demás dependencias del Ejecutivo, de las dependencias Federales, de los Ayuntamientos y de los sectores de la sociedad civil organizada, garantizando siempre, el respeto irrestricto a los Derechos Humanos, la inclusión absoluta y la igualdad de género;
+I. Coordinar las acciones en el proceso de diseño de los Programas Presupuestarios requeridos para la ejecución del Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. Coordinar el seguimiento y evaluación de los programas presupuestarios, del Poder Ejecutivo, diseñados a efecto de dar cumplimiento a los objetivos y metas del Plan Estatal de Desarrollo;
 
 III. Definir las políticas financieras, fiscales y crediticias del Plan Estatal de Desarrollo, estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
 
@@ -275,7 +315,9 @@ IV. Asesorar y coordinar la planeación municipal, con la participación que cor
 
 V. Integrar los programas que solicite la persona titular del Poder Ejecutivo Estatal, en cumplimiento de los objetivos y prioridades del Plan Estatal, con absoluto apego al Plan Rector;
 
-VI. Integrar el programa anual para la ejecución del Plan Estatal, los Programas Sectoriales y los programas presupuestarios que se establezcan, tomando en cuenta las propuestas que para el efecto realicen las Secretarías de la Administración Pública Estatal y los respectivos Gobiernos Municipales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Ejecutar el Plan Estatal conforme a los Programas que para tal efecto realicen las Secretarías de la Administración Pública Estatal y los respectivos Gobiernos Municipales;
 
 VII. Asegurar la congruencia de la planeación del Desarrollo Sostenible del Estado, con las disposiciones nacionales en materia de implementación de los ODS y poner en práctica mecanismos eficaces de control, seguimiento, evaluación y, en su caso, reformulación de los planes y programas;
 
@@ -293,7 +335,9 @@ XIII. Procurar el cumplimiento de los objetivos y prioridades del Plan Rector co
 
 XIV. Considerar los efectos de la Política crediticia adoptada para el logro de los objetivos y prioridades del Plan Rector, del Plan Estatal de Desarrollo y los Programas que de él resulten;
 
-XV. Diseñar, coordinar y operar un Sistema Estatal de Seguimiento y Evaluación, determinando metodologías y procedimientos para el seguimiento y evaluación de los resultados del Plan Estatal de Desarrollo y sus programas respectivos.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Diseñar, coordinar y operar un Sistema Estatal de Seguimiento y Evaluación, determinando metodologías y procedimientos para el seguimiento y evaluación de los resultados del Plan Estatal de Desarrollo y sus programas;
 
 XVI. Fungir como órgano de consulta en los procesos de diagnóstico, planeación, seguimiento y evaluación de la planeación;
 
@@ -303,15 +347,23 @@ XVIII. Diseñar y adecuar un sistema de contabilidad congruente con los objetivo
 
 XIX. Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas Dependencias de la Administración Pública, los resultados de su ejecución y las operaciones en el uso del crédito público con el cumplimiento de los objetivos y prioridades del Plan Rector, del Plan Estatal de Desarrollo y sus Programas, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y de reconducir, en su caso, el Plan Estatal de Desarrollo y los Programas respectivos;
 
-XX. Evaluar bimestralmente, el destino y los resultados de las asignaciones presupuestales del Plan Estatal de Desarrollo y de los Programas Sectoriales, promoviendo las medidas conducentes a la corrección de las insuficiencias y desviaciones detectadas. Estas acciones, deberán ser realizadas también, en el ámbito municipal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XXI. Incorporar al Plan Estatal de Desarrollo indicadores que faciliten el diagnóstico del impacto de las políticas y programas públicos con perspectiva de género y haciendo énfasis en la población de niños, niñas y adolescentes, y
+XX. Verificar los resultados de las asignaciones presupuestales del Plan Estatal de Desarrollo y de los Programas, promoviendo las medidas conducentes a la corrección de las insuficiencias y desviaciones detectadas. Estas acciones, deberán ser realizadas también, en el ámbito municipal;
 
-XXII. Propiciar vínculos de coordinación con otras estructuras de planeación para el Desarrollo Sostenible, nacionales e internacionales, a fin de intercambiar experiencias y buenas prácticas para programas y proyectos que propicien la integración y desarrollo de regiones intermunicipales, interestatales, metrópolis o conurbaciones y su eventual financiamiento proveniente de fuentes alternativas derivadas de Alianzas estratégicas nacionales e internacionales integradas en el Pacto Mundial.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Incorporar al Plan Estatal de Desarrollo indicadores que faciliten el diagnóstico del resultado de las políticas y programas públicos con perspectiva de género, intercultural y haciendo énfasis en los grupos de atención prioritaria, y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Propiciar vínculos de coordinación con otras estructuras de planeación para el Desarrollo Sostenible, nacionales e internacionales, a fin de intercambiar experiencias y buenas prácticas para programas y proyectos que propicien la integración y desarrollo de regiones intermunicipales, interestatales, metrópolis o conurbaciones y su eventual financiamiento proveniente de fuentes alternativas derivadas de Alianzas estratégicas nacionales e internacionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 18.
 
-A las Dependencias de la Administración Pública Estatal, corresponde:
+A las Secretarías y Dependencias de la Administración Pública Estatal, corresponde:
 
 I. Intervenir en las materias que les competen en la elaboración del Plan Estatal de Desarrollo;
 
@@ -325,7 +377,9 @@ V. Elaborar los Programas Presupuestarios con enfoque de desarrollo sostenible;
 
 VI. Considerar el ámbito territorial de las acciones previstas en su programa, procurando congruencia con los objetivos y prioridades de los Planes y programas de los Gobiernos Federal y municipales;
 
-VII. Vigilar que las entidades del sector que coordinen conduzcan sus actividades conforme al Plan Estatal de Desarrollo y el Programa Sectorial correspondiente, y cumpla con lo previsto en el Programa Institucional a que se refiere el artículo anterior, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Vigilar que las entidades del sector que coordinen, conduzcan sus actividades conforme al Plan Estatal de Desarrollo y el Programa Sectorial correspondiente;
 
 VIII. Verificar periódicamente la relación que guarden los programas y presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones observadas y reformar, en su caso los programas respectivos
 
@@ -335,9 +389,13 @@ Las entidades paraestatales deberán:
 
 I. Participar en la elaboración de los Programas Sectoriales, mediante la presentación de las propuestas que procedan en relación con sus funciones y objetivos, a la Secretaría o Dependencia del ramo a que pertenezcan;
 
-II. Elaborar y expedir su respectivo programa institucional, atendiendo a las previsiones contenidas en el Programa Sectorial correspondiente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-III. Elaborar los Programas Presupuestarios Anuales para la ejecución de los Programas Sectoriales y, en su caso, institucionales;
+II. Elaborar y expedir, en su caso, su respectivo programa institucional, atendiendo a las previsiones contenidas en el Programa Sectorial;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Elaborar los Programas Presupuestarios para la ejecución de los Programas Sectoriales y, en su caso, institucionales;
 
 IV. Considerar el ámbito territorial de sus acciones, atendiendo a las propuestas de los Ayuntamientos, a través de la dependencia coordinadora del sector, conforme a los lineamientos que al efecto señale esta última;
 
@@ -355,35 +413,37 @@ I. Participar como consultores en la integración del Plan Rector, en lo que a s
 
 II. Elaborar y expedir su respectivo Programa Institucional, atendiendo a las necesidades y previsiones requeridas para el mejor funcionamiento de su institución;
 
-III. Elaborar los Programas Presupuestarios Anuales para la ejecución de los Programas institucionales de su competencia;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Elaborar los Programas Presupuestarios para la ejecución de los Programas institucionales de su competencia;
 
 IV. Asegurar la congruencia de su Programa Institucional con el Plan Estatal de Desarrollo, y
 
 V. Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del Programa Institucional.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 21.
 
 Son autoridades encargadas de la aplicación de esta Ley, dentro de su ámbito de competencia:
 
-I. La persona titular del Poder Ejecutivo Estatal;
+I. El Poder Ejecutivo Estatal;
 
 II. El Congreso del Estado;
 
-III. El IMOPLAN;
+III. El IMOPLAN
 
-IV. Los Ayuntamientos de la Entidad;
+IV. Los Municipios;
 
-V. Los Cabildos municipales;
+V. Las Juntas Ciudadanas de Planeación, y
 
-VI. Las unidades de planeación municipal;
+VI. Los consejos para el desarrollo Metropolitano que se creen.
 
-VII. Los componentes ciudadanos de los grupos de trabajo municipales y los órganos auxiliares que de ellos se deriven, y
-
-VIII. Las comisiones de conurbación o metropolitanas que se creen.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 22.
 
-La Secretaría de la Contraloría del Poder Ejecutivo Estatal y las unidades administrativas equivalentes en los municipios vigilarán la publicación del Plan Estatal y los Planes Municipales, respectivamente, así como de los Programas que de ellos se deriven, en el Periódico Oficial “Tierra y Libertad”.
+La Secretaría de la Contraloría del Poder Ejecutivo Estatal y las Contralorías Municipales, vigilarán la publicación del Plan Estatal y los Planes Municipales, respectivamente, así como de los Programas, en el Periódico Oficial "Tierra y Libertad".
 
 ###### Artículo 23.
 
@@ -409,9 +469,11 @@ En cada municipio del Estado funcionará un COPLADEMUN que, coordinado por el CO
 
 #### SECCIÓN TERCERA. DEL SUBSISTEMA ESTATAL DE EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-El Subsistema Estatal de Evaluación es parte del Sistema Estatal, su operación es competencia exclusiva de la Junta Ciudadana de Planeación y se integrará por personas con experiencia probada en planeación y evaluación.
+El Subsistema Estatal de Evaluación es parte del Sistema Estatal, su operación es competencia del IMOPLAN en coordinación con la Junta Ciudadana de Planeación Estatal.
 
 Tiene como misión central procesar la información que le proporcione el Sistema Estatal, a fin de generar reportes sobre cumplimiento de las metas establecidas en el Plan Rector, desviaciones e insuficiencias detectadas, así como sus posibles causas y alternativas de solución.
 
@@ -421,9 +483,11 @@ Los reportes que genere el Subsistema serán base para las decisiones de recondu
 
 El Subsistema Estatal de Evaluación deberá operar a partir de las premisas de mejora continua, transparencia y oportuna rendición de cuentas establecidas en el Plan Rector, y es la herramienta principal para entender cómo funcionan las políticas públicas y qué impacto tienen sobre la población.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 29.
 
-El Sistema Estatal deberá generar los instrumentos tecnológicos y técnicos para llevar a cabo la evaluación del cumplimiento de los objetivos de la planeación y poner en marcha el Subsistema, mediante la creación de una plataforma de información con el apoyo de las dependencias, los municipios, las instituciones generadoras de información, así como de las Juntas Ciudadanas de Planeación para mantener la ruta del Plan Rector.
+El Sistema Estatal, a través del IMOPLAN, deberá generar los instrumentos metodológicos e informáticos para llevar a cabo la evaluación del cumplimiento de los objetivos de la planeación, y poner en marcha el Subsistema, mediante la creación de una plataforma de información con el apoyo de las dependencias, los municipios, las instituciones generadoras de información, así como de las Juntas Ciudadanas de Planeación para mantener la ruta del Plan Rector.
 
 ###### Artículo 30.
 
@@ -441,25 +505,21 @@ I. Seguimiento: Es un procedimiento para detectar e identificar a tiempo los fac
 
 II. Evaluación: Es la parte final del proceso de planeación y hace referencia al método de cuantificación de los resultados obtenidos, las fechas establecidas para ello y la descripción y análisis de impacto de lo arriba planteado. Sirve para detectar causa y origen de las desviaciones de los objetivos del Plan Rector.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-El Subsistema, en lo referente a la medición del desempeño, requiere de un conjunto armónico y sistemático de mediciones e indicadores estratégicos y de gestión tanto cuantitativos como cualitativos, que ponderen adecuadamente cada una de estas dimensiones.
+El Subsistema, en lo referente a la medición del desempeño, requiere de un conjunto armónico y sistemático de indicadores cuantitativos y cualitativos, para asegurar la valoración de los resultados obtenidos.
 
-Los tipos de indicadores que utilizará el Subsistema son los siguientes:
+Los indicadores que utilizará el subsistema se clasificarán en estratégicos y de gestión, considerando las dimensiones de eficacia, eficiencia, economía y calidad.
 
-I. Impacto, los lineamientos de gobierno se expresan en términos de hipótesis teóricas que vinculan lo deseable con la definición de política pública, expresados en términos de los resultados que se esperan obtener. En este sentido, los indicadores de impacto deberán mostrar de manera indubitable los resultados alcanzados en comparación con los esperados;
-
-II. Eficacia, el concepto de eficacia se refiere al grado de cumplimiento de los objetivos planteados, o en qué medida se está cumpliendo con los objetivos fundamentales;
-
-III. Eficiencia, el concepto de eficiencia describe la relación entre dos magnitudes: la producción física de un bien o servicio y los insumos que se utilizaron para alcanzar ese nivel de producto. La eficiencia es producir la mayor cantidad de servicios o bienes posibles, con los de recursos disponibles o, alternativamente, alcanzar un nivel determinado de servicios, utilizando la menor cantidad de recursos posible, y
-
-IV. Calidad, es una dimensión específica del desempeño, que se refiere a la capacidad de los gobiernos para responder en forma rápida y directa a las necesidades de sus gobernados. Deben tenerse en cuenta al menos dos clasificaciones relevantes de los tiempos de respuesta: los tiempos de espera, asociados por lo general al tiempo que los usuarios ocupan en los lugares de atención para la realización de un primer trámite y los tiempos para entrega del servicio, relacionados con el tiempo global transcurrido entre que el usuario presenta una solicitud y obtiene una solución satisfactoria a su problema.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 33.
 
-La eficacia del Subsistema dependerá de la capacidad del Sistema Estatal para captar y sistematizar información que permita medir el desempeño de los responsables de la ejecución de las acciones programadas, a partir de indicadores que permitan visualizar transformaciones en los indicadores de desarrollo humano.
+La eficacia del Subsistema dependerá de la capacidad del Sistema Estatal para captar y sistematizar información que permita medir los cambios en las condiciones de la población como resultado de la ejecución de las acciones programadas.
 
-La estructura del y las características de su operación se establecerán en las disposiciones reglamentarias de esta Ley.
+La estructura del subsistema y las características de su operación se establecerán en las disposiciones reglamentarias de esta Ley.
 
 #### SECCIÓN CUARTA. DEL INSTITUTO MORELENSE DE PLANEACIÓN DEL DESARROLLO SOSTENIBLE
 
@@ -473,31 +533,43 @@ El IMOPLAN es un órgano técnico responsable de la elaboración del Plan Estata
 
 La estructura organizacional y atribuciones de las unidades administrativas del IMOPLAN estarán establecidas en el Reglamento de esta Ley y el Decreto correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-En cada Ayuntamiento existirá una unidad de planeación municipal con el nivel jerárquico que sea determinado por el propio municipio, la cual estará en coordinación directa con el IMOPLAN para el desarrollo de las obligaciones en materia de planeación y coordinará las actividades del COPLADEMUN.
+En cada Municipio existirá una unidad de planeación municipal con el nivel jerárquico que sea determinado por el propio Ayuntamiento, la cual estará en coordinación directa con el IMOPLAN, para el desarrollo de las obligaciones en materia de planeación, y coordinará las actividades del COPLADEMUN.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
-El IMOPLAN de manera coordinada con los diversos miembros de la sociedad civil organizada elaborará el Plan Estatal de Desarrollo, a partir de diagnósticos de cada municipio que permitan tener una visión clara de un proyecto de Estado, trazando objetivos y metas con horizonte al periodo de administración sexenal, que sirvan de rectoría de los programas sectoriales y regionales que de ellos se deriven, siempre, con el seguimiento, la evaluación, la corrección de las desviaciones y, en su caso, la actualización de indicadores y metas.
+El IMOPLAN de manera coordinada con los diversos sectores de la sociedad civil organizada, elaborará el Plan Estatal de Desarrollo, a partir del Plan Rector y de un diagnóstico general sobre la situación actual del Estado con un enfoque municipal; que permita tener una visión clara de un proyecto de Estado, trazando objetivos y metas con horizonte al periodo de administración sexenal, que sirvan de rectoría de los programas sectoriales y regionales que de ellos se deriven, siempre, con el seguimiento, la evaluación, la corrección de las desviaciones y, en su caso, la actualización de indicadores y metas.
 
 #### SECCIÓN QUINTA. DE LA PARTICIPACIÓN CIUDADANA EN LA PLANEACIÓN Y EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 37.
 
-Dentro del Sistema Estatal existirá la participación de todos sectores de la sociedad civil organizada: privada, académica y organizaciones no gubernamentales, que se constituirán como Juntas Ciudadanas de Planeación; las cuales participarán en el diseño de los objetivos, metas, acciones e indicadores de gestión y de manera particular en la operación del Subsistema para el cumplimiento de los objetivos y metas establecidos en el Plan Rector.
+Dentro del Sistema Estatal existirá la participación de todos sectores de la sociedad civil organizada, que se constituirán como Juntas Ciudadanas de Planeación; las cuales coadyuvarán en la elaboración, evaluación y reconducción de los Planes Estatal y municipales respectivamente, con base en lo establecido en el reglamento de esta ley y demás disposiciones legales en materia de participación ciudadana.
 
-Las Juntas Ciudadanas de Participación podrán detectar oportunamente, dentro del Plan Estatal y de los Programas Sectoriales, desviaciones o insuficiencias que pudieran existir, así como determinar las acciones a desarrollar para corregirlas y, en caso necesario, establecer la reconducción del Plan Rector en la parte conducente, con el propósito de construir políticas públicas planeadas y elaboradas a partir de diagnósticos municipales de necesidades y con la participación de dichos sectores, quienes ejercerán el seguimiento, actualización y evaluación de las mismas, en las diversas etapas de la planeación estratégica, a corto, mediano y largo plazo, de acuerdo con los distintos planes y programas.
+Las Juntas Ciudadanas podrán emitir opiniones sobre los objetivos, metas e indicadores que se establezcan en el Plan Rector, Plan Estatal y planes municipales, con el objetivo de que se reorienten las acciones de gobierno hacia los intereses públicos que identifique la ciudadanía.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
-La participación ciudadana en la planeación tendrá como característica la planeación por competencias, que es la colaboración directa de expertos en cada materia y en cada uno de los procesos de la elaboración y evaluación del plan de que se trate.
+La participación ciudadana en la planeación tendrá como característica la planeación por competencias, con base en los lineamientos que se expidan para el efecto. El IMOPLAN podrá solicitar la opinión, asesoría, análisis y consulta de expertos, instituciones académicas y de investigación en las diversas materias que inciden en los planes y programas.
 
-Los cargos de los integrantes de la Junta Ciudadana de Planeación y del Subsistema, serán honoríficos y de manera voluntaria, y por lo tanto no recibirán remuneración alguna, por lo que no estarán sujetos a relación laboral alguna, tanto del Ejecutivo Estatal como de los Municipales.
+Los cargos de los integrantes de la Junta Ciudadana de Planeación y del Subsistema, serán honoríficos y voluntarios, por lo tanto no recibirán remuneración alguna y no estarán sujetos a relación laboral alguna con el Ejecutivo Estatal ni con los Municipios.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-Existirá una Junta Ciudadana de Planeación Estatal y, en su caso, podrá existir una Junta de Planeación por cada municipio; las cuales estarán integradas por hasta cinco expertos en los siguientes temas:
+Existirá una Junta Ciudadana de Planeación Estatal y, en su caso, podrá existir una Junta Ciudadana de Planeación por cada municipio; las cuales estarán integradas por lo menos por cinco miembros.
+
+De manera enunciativa más no limitativa, los temas que se podrán incluir en el análisis y discusión de las Juntas Ciudadanas de Planeación Estatal y Municipales serán los siguientes:
 
 I. Desarrollo económico;
 
@@ -507,11 +579,11 @@ III. Desarrollo del medio ambiente, y
 
 IV. Desarrollo social.
 
-La Junta también emitirá opinión respecto del Plan Estatal y de los Planes Municipales de Desarrollo, en un plazo que no exceda de 15 días hábiles, a partir de que sean recibidos dichos documentos.
+Las Juntas Ciudadanas de Planeación Estatal y Municipales también emitirán opinión respecto del Plan Estatal y de los Planes Municipales de Desarrollo, respectivamente, en un plazo que no exceda de 15 días hábiles, a partir de que sean recibidos dichos documentos.
 
 La conformación de las Juntas Ciudadanas Municipales de Planeación obedecerá a las necesidades particulares de cada una de ellas.
 
-Las demás modalidades y formas de participación de las mencionadas organizaciones y sectores de la sociedad civil organizada, estarán determinadas en la legislación reglamentaria de esta ley.
+Las demás modalidades y formas de participación de las mencionadas organizaciones y sectores de la sociedad civil organizada estarán determinadas en la normativa reglamentaria de esta ley.
 
 ### CAPÍTULO III. DE LOS PLANES Y PROGRAMAS
 
@@ -521,13 +593,17 @@ Las demás modalidades y formas de participación de las mencionadas organizacio
 
 La denominación de Plan queda reservada, exclusivamente, para el Plan Rector, Plan Estatal de Desarrollo y para los Planes Municipales de Desarrollo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-Los planes y programas a que se refiere este Capítulo especificarán las acciones que serán objeto de coordinación entre los Gobiernos de los Municipios, del Estado y de la Federación, así como la inducción o concertación con los grupos sociales interesados.
+Los planes y programas a que se refiere este Capítulo especificarán las acciones que serán objeto de coordinación entre los Gobiernos de los Municipios, del Estado y de la Federación, así como la inducción o concertación con los sectores de la sociedad civil organizada.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 42.
 
-Los Planes y Programas son instrumentos mediante los que el Ejecutivo del Estado y de los Municipios proveen en la esfera administrativa, la exacta observancia de esta Ley. En tal virtud, tendrán el carácter de Reglamentos que deberán ser expedidos por la autoridad que corresponda y publicados en el Periódico Oficial “Tierra y Libertad”.
+Los Planes y Programas son instrumentos mediante los que el Ejecutivo del Estado y los Municipios proveen en la esfera administrativa, la exacta observancia de esta Ley. En tal virtud, tendrán el carácter de Reglamentos que deberán ser expedidos por la autoridad que corresponda y publicados en el Periódico Oficial "Tierra y Libertad".
 
 #### SECCIÓN SEGUNDA. DEL PLAN RECTOR
 
@@ -539,9 +615,11 @@ Sus previsiones se referirán al conjunto de la actividad económica, social, me
 
 Además de las precisiones señaladas en el párrafo anterior, el Plan Rector se construirá utilizando el enfoque de planeación prospectiva, a partir de un minucioso análisis de los aspectos social, demográfico, económico y medioambiental del Estado y desde el ámbito municipal; estableciendo indicadores estratégicos que permitan evaluar periódicamente el avance respecto de las metas y objetivos planteados y su impacto en los niveles de bienestar de la población del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 44.
 
-El Plan Rector será elaborado en el seno del Sistema Estatal por la Junta Ciudadana de Planeación Estatal de manera conjunta con el IMOPLAN y será base para la elaboración del Plan Estatal y los Planes Municipales de Desarrollo, para la planeación a corto, mediano y largo plazo que desarrollan el COPLADE y COPLADEMUN.
+El Plan Rector será elaborado en el seno del Sistema Estatal, coordinado por el IMOPLAN, con la coadyuvancia de la Junta Ciudadana de Planeación Estatal, y será la base para la elaboración del Plan Estatal y los Planes Municipales de Desarrollo, para la planeación a corto, mediano y largo plazo que desarrollan el COPLADEMOR y COPLADEMUN.
 
 Su evaluación se llevará a cabo de manera anual y sus resultados serán remitidos para conocimiento tanto de la persona titular del Poder Ejecutivo Estatal como del Congreso del Estado, siendo el Poder Ejecutivo responsable de ejecutar las acciones necesarias para corregir las desviaciones o insuficiencias detectadas, e informar de éstas a los miembros del Sistema Estatal, con el objeto de llevar a cabo las acciones de reconducción respectivas.
 
@@ -553,21 +631,33 @@ I. En el ámbito estatal:
 
 a) El Plan Estatal de Desarrollo, que es el instrumento de planeación del Poder Ejecutivo Estatal, elaborado por el IMOPLAN con la asesoría del Sistema Estatal, que precisará los objetivos generales, estrategias, líneas de acción, indicadores así como metas vinculadas a éstos;
 
-b) Los Programas Sectoriales, que son instrumentos programáticos de política pública elaborados con base en los diagnósticos de necesidades de cada uno de los municipios, así como de los objetivos, políticas, metas e indicadores, establecidos en los planes municipales de desarrollo y que servirán de sustento a la planeación a corto, mediano y largo plazo, orientados al fomento de las actividades de sectores o ramas específicas y su vigencia será de seis años, debiendo ser evaluados y en su caso reconducidos, de manera semestral a partir del inicio de la gestión del Poder Ejecutivo del Estado y publicados en el Periódico Oficial “Terra y Libertad”;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+b) Los Programas Sectoriales, que son los instrumentos de planeación estratégica donde se establecen prioridades y proyectos específicos que promueven y fortalecen el desarrollo del estado en concordancia con lo previsto en el Plan Estatal;
 
 c) El Programa Estatal de Ordenamiento Ecológico y Territorial, que es el instrumento del Sistema Estatal que posibilita el uso adecuado, presente y futuro, de los recursos naturales, a partir de la planificación del uso del territorio tanto urbano como rural, buscando la compatibilidad entre el manejo de los recursos naturales, las actividades productivas y los requerimientos más urgentes de la población, a partir de recomendaciones técnicas emitidas por expertos debidamente acreditados.
 
 La elaboración de este programa será coordinada por la Secretaría de Desarrollo Sustentable, deberá contener proyecciones de mediano y largo plazo. Las subsecuentes administraciones lo actualizarán tomando esto en cuenta para darle continuidad y lo publicarán durante el primer año de ejercicio, debiendo ser nuevamente actualizado al término del tercer año del período de gobierno de que se trate;
 
-d) Los Programas Presupuestales Anuales, que son categorías programáticas que permiten organizar, en forma representativa y homogénea, la asignación de recursos a los programas sectoriales; son instrumentos de planeación financiera, de corto plazo, formulados por los gobiernos estatal y municipal, con vigencia anual y que se vinculan a los presupuestos anuales de las dependencias y entidades del Poder Ejecutivo Estatal y de los municipios, dentro del proceso de presentación de sus presupuestos anuales en términos de la Ley de la materia; los Programas Presupuestales Anuales deberán ser previamente validados por las instancias de Planeación y Finanzas respectivas, en lo concerniente a la viabilidad presupuestaria;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
-e) Los Programas de Desarrollo Regional, que son los instrumentos de planeación para:
+d) Los Programas Presupuestarios, que son categorías programáticas que permiten organizar, en forma representativa y homogénea, las asignaciones de recursos para programas, proyectos y actividades;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+e) Los Programas de Desarrollo Subregional, que son los instrumentos de planeación para:
 
 1. Las regiones conformadas por dos o más entidades federativas, y
 
 2. Por dos o más Municipios al interior del Estado; serán elaborados por los órganos mencionados en el apartado A de este mismo artículo, en términos de los convenios de asociación y coordinación, y
 
-f) El Programa de Desarrollo de las Zonas Metropolitanas, que es el instrumento de planeación regional para los municipios que conforman las tres zonas metropolitanas del estado de Morelos, en términos de los convenios de asociación y coordinación y de las determinaciones de los entes que se creen para tal efecto, bajo la coordinación del Instituto Estatal de Planeación, y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+f) El Programa de Desarrollo de las Zonas Metropolitanas, que es el instrumento de planeación regional para los municipios que conforman las tres zonas metropolitanas del estado de Morelos, en términos de los convenios de asociación y coordinación y de las determinaciones de los entes que se creen para tal efecto, bajo la coordinación del IMOPLAN, y
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+g) Programas institucionales, que deberán elaborar las entidades paraestatales y paramunicipales, se sujetarán a las previsiones contenidas en los programas y en el plan sectorial correspondiente. Las entidades, al elaborar sus programas institucionales, se ajustarán en lo conducente a la ley que regule su organización y funcionamiento.
 
 II. En el ámbito municipal:
 
@@ -577,43 +667,39 @@ b) Los Programas de Desarrollo Regional, que son los instrumentos de planeación
 
 c) Los Programas Especiales derivados de los Planes Municipales, que son elaborados en términos de lo dispuesto por la Ley Orgánica Municipal para el Estado de Morelos y por la presente Ley.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
 El Plan Rector deberá contener por lo menos:
 
-I. Un diagnóstico general sobre la situación actual del Estado, integrado por los diagnósticos de cada uno de los municipios, priorizando los temas señalados mediante la participación de la sociedad civil organizada de cada comunidad;
+I. Un diagnóstico general sobre la situación actual del Estado con un enfoque municipal; priorizando los temas señalados mediante la participación de la sociedad civil organizada de cada comunidad;
 
 II. Los ejes generales que agrupen los temas prioritarios referidos en la fracción anterior para una mejor atención;
 
-III. El objetivo general y los objetivos específicos que hagan referencia al impacto positivo que se pretenda alcanzar para atender cada necesidad social identificada;
+III. El objetivo general y los objetivos específicos que hagan referencia al impacto positivo que se pretenda alcanzar para atender las necesidades identificadas;
 
-IV. La metodología empleada y las estrategias para ejecutar las acciones que permitan lograr los objetivos específicos señalados en el Plan;
+IV. La metodología estrategias empleada y las para ejecutar las acciones que permitan lograr los objetivos específicos señalados en el Plan;
 
-V. Los indicadores de desempeño y de impacto en sus metas, que permitan dar seguimiento al logro de los objetivos definidos en el Plan, y
+V. Las metas y los indicadores de desempeño, que permitan dar seguimiento al logro de los objetivos definidos en el Plan;
 
-VI. Los demás elementos que se establezcan en las disposiciones jurídicas aplicables.
+VI. Los lineamientos de política de carácter global, sectorial y municipal y sus previsiones, que se referirán al conjunto de la actividad económica y social, y
+
+VII. Los demás elementos que se establezcan en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 47.
 
-El Plan Rector precisará:
-
-I. Los objetivos generales y específicos, las estrategias, metas, acciones e indicadores de gestión;
-
-II. Las prioridades de la política de fomento económico que sirvan de impulso permanente al Desarrollo Sostenible Integral del Estado, para propiciar un crecimiento económico incluyente y sustentable, mediante el incremento de la productividad y la competitividad, y la implementación de políticas estatales de fomento económico, incluyendo vertientes sectoriales y/o regionales;
-
-III. Los mecanismos, instrumentos y personal más adecuados para su ejecución;
-
-IV. Los indicadores de impacto o de resultados para los objetivos y metas del Plan Rector, y
-
-V. Los lineamientos de política de carácter global, sectorial y municipal y sus previsiones, que se referirán al conjunto de la actividad económica y social.
-
-Los objetivos establecidos en el Plan Rector no podrán ser modificados por el Poder Ejecutivo Estatal ni Municipal de que se trate, en tanto que los objetivos que correspondan a los Planes de Desarrollo deberán ser fijados por éstos, así como las políticas y acciones resultantes, debiendo contener previsiones sobre los recursos que serán asignados a tales fines.
+Los objetivos establecidos en el Plan Rector no podrán ser modificados por el Poder Ejecutivo Estatal ni por los municipios, en tanto que los objetivos que correspondan a los Planes de Desarrollo deberán ser fijados por éstos, así como las políticas y acciones resultantes, debiendo contener previsiones sobre los recursos que serán asignados a tales fines.
 
 Los programas derivados del Plan Estatal de Desarrollo, así como de los Planes Municipales de Desarrollo deberán ser congruentes con lo establecido en el Plan Rector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 48.
 
-La eficacia del Plan Rector se medirá por medio de la gestión por resultados a través del comportamiento periódico mostrado por los Planes de Desarrollo Estatal y Municipales.
+La eficacia del Plan Rector se medirá por medio de la Gestión para Resultados a través del comportamiento periódico mostrado por los Planes de Desarrollo Estatal y Municipales.
 
 Las evaluaciones de cumplimiento de las metas e indicadores establecidos deberán actualizarse en cada caso, con el fin de orientar el rumbo del Sistema Estatal.
 
@@ -623,7 +709,9 @@ Las evaluaciones de cumplimiento de las metas e indicadores establecidos deberá
 
 El Plan Estatal de Desarrollo precisará los objetivos generales, estrategias, líneas de acción, indicadores, así como metas vinculadas a éstos, además de las prioridades del desarrollo integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución.
 
-Asimismo, establecerá un mecanismo de seguimiento basado en indicadores de impacto o resultado para los objetivos generales; establecerá los lineamientos de política de carácter global, sectorial y municipal, sus previsiones se referirán al conjunto de la actividad económica y social y se regirá el contenido de los programas que generen en el Sistema Estatal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Asimismo, establecerá un mecanismo de seguimiento basado en indicadores de desempeño para los objetivos generales; establecerá los lineamientos de política de carácter global, sectorial y municipal, sus previsiones se referirán al conjunto de la actividad económica y social y se regirá el contenido de los programas que generen en el Sistema Estatal.
 
 ###### Artículo 50.
 
@@ -643,61 +731,81 @@ El Plan Estatal de Desarrollo deberá ser evaluado de manera semestral y, en su 
 
 Los Planes Municipales de Desarrollo son los instrumentos de planeación de la gestión de los municipios. Deberán elaborarse empleando la metodología del marco lógico y contener los ODS que corresponda atender a cada municipio, sus metas, indicadores, estrategias y líneas de acción.
 
-La unidad de planeación de cada municipio será la encargada de elaborar el Plan Municipal de Desarrollo en coordinación con el IMPOLAN y con la asesoría del Sistema Estatal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+La unidad de planeación de cada municipio será la encargada de elaborar el Plan Municipal de Desarrollo, con el asesoramiento del IMOPLAN y del Sistema Estatal, a solicitud expresa.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-Los Planes Municipales de Desarrollo deberán aprobarse por los cabildos respectivos en un plazo que no exceda de treinta días hábiles a partir del inicio de la administración municipal, y serán remitidos al Congreso del Estado en un plazo máximo de quince días hábiles, para su conocimiento y opinión; dicho Poder dará respuesta en un término no mayor a treinta días hábiles, señalando las observaciones que considere pertinentes o, en su caso, opinión favorable para su inmediata publicación en el Periódico Oficial “Tierra y Libertad”.
+Los Planes Municipales de Desarrollo deberán aprobarse por los Ayuntamientos, en un plazo que no exceda de 4 meses a partir del inicio de la administración municipal, y serán remitidos al Congreso del Estado en un plazo máximo de quince días hábiles, para su conocimiento y opinión; dicho Poder dará respuesta en un término no mayor a treinta días hábiles, señalando las observaciones que considere pertinentes o, en su caso, opinión favorable para su inmediata publicación en el Periódico Oficial "Tierra y Libertad".
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 55.
 
-Los Planes Municipales de Desarrollo tendrán una vigencia de 3 años que no excederá el período constitucional que le corresponda y contendrá proyecciones de largo plazo que sirvan de base a las siguientes administraciones municipales en congruencia con los objetivos del Plan Rector.
+Los Planes Municipales de Desarrollo tendrán una vigencia de 3 años que no excederá el período constitucional que le corresponda y contendrá proyecciones de largo plazo que sirvan de base a las siguientes administraciones municipales en congruencia con los objetivos del Plan Rector y el Plan Estatal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 56.
 
-Los Planes Municipales de Desarrollo indicarán las prioridades del desarrollo sostenible integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, preverán un mecanismo de seguimiento basado en indicadores de impacto o resultado para los objetivos generales y establecerán los lineamientos de política global, sectorial y de servicios municipales; la evaluación y reconducción será responsabilidad de la Junta Ciudadana de Planeación.
+Los Planes Municipales de Desarrollo indicarán las prioridades del desarrollo sostenible integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, preverán un mecanismo de seguimiento basado en indicadores de desempeño para los objetivos generales y establecerán los lineamientos de política global, sectorial y de servicios municipales; la evaluación y reconducción será responsabilidad de la unidad de planeación de cada municipio, en coordinación con la Junta Ciudadana de Planeación municipal.
 
-Sus previsiones se referirán al conjunto de la actividad económica y social de sus territorios; servirán de base para la elaboración de los programas sectoriales y presupuestarios anuales, debiendo alinearse con el Plan Rector.
+Sus previsiones se referirán al conjunto de la actividad económica y social de sus territorios; servirán de base para la elaboración de los programas sectoriales y presupuestarios, debiendo alinearse con el Plan Rector y el Plan Estatal.
 
 #### SECCIÓN QUINTA. DE LOS PROGRAMAS
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-Los Programas a que se refiere esta Ley tendrán como base el Plan Rector y deberán estar contenidos en el Plan Estatal y los Planes Municipales de Desarrollo, respectivamente, los cuales servirán de guía para su elaboración conforme a los diagnósticos económicos y las proyecciones a largo plazo, su vigencia no excederá del período de la gestión gubernamental en que se apruebe, aunque contenga previsiones y proyecciones a largo plazo.
+Los Programas a que se refiere esta Ley tendrán como base el Plan Rector y deberán estar contenidos en el Plan Estatal y los Planes Municipales de Desarrollo, respectivamente, los cuales servirán de guía para su elaboración conforme a los diagnósticos y las proyecciones a largo plazo, su vigencia no excederá del período de la gestión gubernamental en que se apruebe, aunque contenga previsiones y proyecciones a largo plazo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 58.
 
-Los Programas a que se refiere esta Ley deberán elaborarse observando los principios de inclusión universal, con énfasis en los grupos vulnerables de la sociedad, con perspectiva de género y con respeto irrestricto a los derechos humanos, como ejes transversales de las políticas públicas en el Estado.
+Los Programas a que se refiere esta Ley deberán elaborarse observando los principios de inclusión universal, con énfasis en los grupos de atención prioritaria de la sociedad, con perspectiva de género, interculturalidad y con respeto irrestricto a los derechos humanos, como ejes transversales de las políticas públicas en el Estado.
 
-Asimismo, especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate; contendrán también, estimaciones de recursos y determinaciones sobre instrumentos, los responsables de su ejecución y un mecanismo de seguimiento basado en indicadores de impacto o resultado para los objetivos generales y específicos.
+Asimismo, especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate; contendrán también, estimaciones de recursos y determinaciones sobre instrumentos, los responsables de su ejecución y un mecanismo de seguimiento basado en indicadores de desempeño para los objetivos generales y específicos.
 
 ###### Artículo 59.
 
 Los programas que elaboren las entidades Paraestatales, Paramunicipales y Organismos Autónomos, se sujetarán a las previsiones contenidas en los Planes y en el Programa Sectorial correspondiente. Las entidades, al elaborar sus programas se ajustarán, en lo conducente, a la Ley que regule su organización y funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-Los Programas Sectoriales deberán elaborarse al inicio del ejercicio constitucional y presentarse al Congreso del Estado dentro del primer semestre, y en los subsecuentes ejercicios a más tardar el 30 de noviembre del año anterior en que deberán operar. Las modificaciones que a los mismos proponga, con toda oportunidad serán sometidos a la consideración del Congreso.
+Los Programas Sectoriales y los Presupuestarios deberán elaborarse al inicio del ejercicio constitucional y presentarse al Congreso del Estado dentro del primer semestre, y en los subsecuentes ejercicios se tendrán que presentar los programas presupuestarios a más tardar el 30 de noviembre del año anterior en que deban operar. Las modificaciones que a los mismos se proponga, con toda oportunidad serán sometidos a la consideración del Congreso.
 
 Dichos Programas deberán ser publicados en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 61.
 
-Las dependencias encargadas de elaborar sus Programas Presupuestarios Anuales incluirán los aspectos administrativos y de política económica y social correspondientes. Estos programas presupuestarios, deberán ser congruentes entre sí, regirán durante el año respectivo las actividades de la administración pública en su conjunto y servirán de base para la integración de los proyectos de presupuesto anual que las propias Dependencias, Entidades y Municipios deberán elaborar conforme a la normativa aplicable.
+Las dependencias encargadas de elaborar sus Programas Presupuestarios incluirán los aspectos administrativos y de política económica y social correspondientes. Estos programas presupuestarios, deberán ser congruentes entre sí, regirán durante el año respectivo las actividades de la administración pública en su conjunto y servirán de base para la integración de los proyectos de presupuesto anual que las propias Dependencias, Entidades y Municipios deberán elaborar conforme a la normativa aplicable.
 
 ###### Artículo 62.
 
 Los Programas que elaboren las Secretarías, Dependencias u Organismos Estatales deberán ser sometidos a revisión de la Secretaría de Hacienda del Poder Ejecutivo Estatal, a través del IMOPLAN, quien los validará y devolverá a la unidad administrativa que corresponda para la publicación en el Periódico Oficial “Tierra y Libertad” y su ejecución.
 
-Los Programas elaborados por las Entidades Paraestatales o Paramunicipales deberán ser sometidos al conocimiento para su aprobación a sus Órganos de Gobierno, así como a la validación del titular de la Secretaría o Dependencia coordinadora del sector, en el primer caso, y al cabildo municipal en el segundo. Si la entidad Paraestatal no estuviera agrupada en un sector específico, su validación corresponderá a la Secretaría de Hacienda, a través del IMOPLAN.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Los Programas elaborados por las Entidades Paraestatales o Paramunicipales deberán ser sometidos para conocimiento y aprobación a sus Órganos de Gobierno, así como a la validación del titular de la Secretaría o Dependencia coordinadora del sector, en el primer caso, y al Ayuntamiento en el segundo. Si la entidad Paraestatal no estuviera agrupada en un sector específico, su validación corresponderá a la Secretaría de Hacienda, a través del IMOPLAN.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 63.
 
-Las Secretarías, Dependencias y Entidades, a partir de lo establecido en el Plan Rector, además de desarrollar los Programas a que se refiere esta Ley, podrán expedir estrategias de desarrollo que se convertirán en proyectos multianuales enfocados a definir objetivos y actividades que detonen el Desarrollo Sostenible del Estado; estas labores, se harán con horizontes de ejecución de corto, mediano y largo plazo, mismos que serán flexibles para su formulación, y deberán ser remitidos al Sistema Estatal para su conocimiento.
+En caso de contingencias que requieren respuestas inmediatas del gobierno, las Secretarías, Dependencias y Entidades, podrán establecer estrategias para su atención, las cuales dadas su naturaleza podrán tener el carácter de programa. Estas deberán contar con el visto bueno del IMOPLAN y la autorización presupuestal de la Secretaría de Hacienda.
 
-Para la formulación de dichas estrategias, en caso de que su aplicación incluya a varias Secretarías, Dependencias y Entidades, será necesaria la opinión y, en su caso, validación de éstas, por lo que su ejecución será de manera interinstitucional y coordinada.
+Asimismo, cuando las Secretarías, Dependencias y Entidades identifiquen problemas concurrentes que no estén contenidos en los Planes, podrán crear programas especiales, previa autorización de las autoridades competentes de acuerdo con su normatividad, el análisis y revisión del IMOPLAN y la autorización presupuestal de Secretaría de Hacienda.
 
-Estas estrategias no tendrán el carácter de Programa y, por ende, tampoco el nivel de reglamento; sin embargo, preferentemente deberán contar con el visto bueno del IMOPLAN.
+En cualquiera de los casos señalados en los párrafos anteriores, tanto las estrategias como los programas especiales, deberán de estar alineadas al Plan Rector y Plan Estatal.
 
 #### SECCIÓN SEXTA. DE LA EVALUACIÓN DE LOS PLANES Y PROGRAMAS
 
@@ -705,17 +813,21 @@ Estas estrategias no tendrán el carácter de Programa y, por ende, tampoco el n
 
 Los planes Estatal y Municipales, así como los programas que de ellos se deriven, serán revisados y evaluados con la periodicidad y el procedimiento que determinen las disposiciones reglamentarias; los resultados de las revisiones deberán ser publicados en el Periódico Oficial “Tierra y Libertad”.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 65.
 
-En caso de no alcanzarse los objetivos, metas y líneas de acción contenidas en los Planes y Programas regulados por esta Ley, previo análisis del Sistema Estatal, los mismos serán actualizados mediante un Acuerdo de Reconducción que deberá expedir la autoridad estatal o municipal, según corresponda y deberá publicarse en el Periódico Oficial “Tierra y Libertad”.
+En caso de no alcanzarse los objetivos, metas y líneas de acción contenidas en los Planes y Programas regulados por esta Ley, previo análisis del IMOPLAN y validación del Sistema Estatal, los mismos serán actualizados mediante un Acuerdo de Reconducción que deberá expedir la autoridad estatal o municipal, según corresponda y deberá publicarse en el Periódico Oficial "Tierra y Libertad".
 
 ###### Artículo 66.
 
 Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad del Plan Estatal y de los Programas que de él se deriven, se hará extensiva a las entidades paraestatales, para estos efectos, los titulares de las Dependencias en el ejercicio de atribuciones de coordinadoras de sector que les confiere la Ley, proveerán lo conducente ante los órganos de Gobierno y Administración de las propias entidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 67.
 
-Una vez publicados el Plan Estatal y los programas que de él se deriven, serán obligatorios para las Secretarías, Dependencias y Entidades de la Administración Pública, en el ámbito de sus respectivas competencias.
+Una vez publicados el Plan Estatal y los programas que de él se deriven, serán obligatorios para las Secretarías, Dependencias y Entidades de la Administración Pública y paraestatales, en el ámbito de sus respectivas competencias.
 
 Lo establecido en el párrafo que antecede será aplicable en lo conducente en el ámbito municipal y se extenderá a las Entidades paramunicipales.
 
@@ -769,7 +881,9 @@ II. Mantener la congruencia de las acciones gubernamentales en la planeación y 
 
 III. Lograr la autosuficiencia económica y financiera de los Ayuntamientos para la eficaz prestación de los servicios encomendados a su cuidado, a fin de estimular el crecimiento económico y promover el desarrollo social de los Municipios;
 
-IV. Proporcionar a los Ayuntamientos, en el marco del Sistema Estatal, asesoría y apoyo técnico en materia de programación y Presupuestación hacendaria, jurídica, administrativa y financiera, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Proporcionar, a solicitud expresa de los municipios, en el marco del Sistema Estatal, asesoría y apoyo técnico en materia de programación y Presupuestación hacendaria, jurídica, administrativa y financiera, y
 
 V. Impulsar el Desarrollo Interregional.
 
@@ -783,9 +897,11 @@ La persona titular del Poder Ejecutivo Estatal ordenará la publicación en el P
 
 ### CAPÍTULO V. DE LA CONCERTACIÓN E INDUCCIÓN
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 75.
 
-El Ejecutivo del Estado, por sí, o a través de sus dependencias integrantes del Sistema Estatal, deberá concertar la ejecución de las acciones previstas en el Plan Rector y plasmadas en el Plan Estatal de Desarrollo correspondiente a su administración, con los integrantes de la Junta Ciudadana de Planeación Estatal.
+El Ejecutivo del Estado, por sí, o a través de sus dependencias integrantes del Sistema Estatal, deberá concertar con la Junta Ciudadana de Planeación Estatal, la priorización de las acciones a ejecutar previstas en el Plan Rector y plasmadas en el Plan Estatal de Desarrollo correspondiente a su administración.
 
 ###### Artículo 76.
 
@@ -807,9 +923,11 @@ El Poder Ejecutivo Estatal, las Entidades Paraestatales y los Organismos autóno
 
 Los Ayuntamientos y las Entidades paramunicipales observarán asimismo dichos objetivos y prioridades en la concertación de acciones previstas en los planes Municipales y en los programas de que ellos se deriven, con las Juntas Ciudadanas de Planeación del ámbito municipal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 80.
 
-Las políticas que normen el ejercicio de las atribuciones que las Leyes confieran al Ejecutivo para fomentar, promover, regular, restringir, orientar, prohibir y en general inducir acciones de los particulares en materia económica, social, y medioambiental, se ajustarán a los objetivos y prioridades del Plan Rector, mismo del que resultarán el Plan Estatal y los Planes Municipales, así como los Programas que de ellos se deriven.
+Las políticas que normen el ejercicio de las atribuciones que las Leyes confieran al Ejecutivo para fomentar, promover, regular, restringir, orientar, prohibir y en general inducir acciones de los particulares en materia económica, social, y medioambiental, se ajustarán a los objetivos y prioridades del Plan Rector, del que resultarán el Plan Estatal y los Planes Municipales, así como los Programas que de ellos se deriven.
 
 ### CAPÍTULO IX (SIC). DE LAS RESPONSABILIDADES
 
@@ -841,7 +959,9 @@ SÉPTIMA. El Sistema Estatal de Planeación Democrática para el Desarrollo Sost
 
 OCTAVA. Una vez integrado el Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible, contará con treinta días hábiles para integrar el Subsistema Estatal de Evaluación.
 
-NOVENA. El Plan Rector deberá ser elaborado en un plazo que no exceda los seis meses, contados a partir de la integración del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible en los términos dispuestos por esta Ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+
+NOVENA. Por única ocasión, exceptuando el plazo previsto en el artículo 5 de la presente Ley, el Plan Rector deberá ser elaborado y remitido, a través de la persona Titular del Poder Ejecutivo Estatal, al Congreso del Estado para su examen y opinión, en un plazo que no exceda los nueve meses, contados a partir de la integración del Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible en los términos dispuestos por esta Ley.
 
 DÉCIMA. El Sistema Estatal de Planeación Democrática para el Desarrollo Sostenible deberá establecer su Plataforma de información, dentro de los tres primeros meses, contados a partir de la creación del Subsistema de Evaluación.
 
@@ -864,3 +984,35 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CINCO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES EN MATERIA DE REINGENIERÍA ADMINISTRATIVA”.]
+
+PRIMERA. Remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5641, de fecha 04 de octubre de 2018.
+
+CUARTA. Se derogan todas aquellas disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+QUINTA. Dentro de un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes y reglamentos que resulten aplicables, para su armonización correspondiente; hasta en tanto, seguirán vigentes los actuales en lo que no se contrapongan a lo dispuesto por el presente Decreto.
+
+SEXTA. Para el cumplimiento de la presente Ley, la Persona Titular del Poder Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura orgánica de las Secretarías o Dependencias estatales, así como crear, fusionar o disolver las áreas o unidades administrativas necesarias, pudiendo realizar las adecuaciones presupuestales dentro de las mismas, de conformidad con lo previsto en el Presupuesto de Egresos del Estado de Morelos para el ejercicio fiscal correspondiente. Por cuanto a los recursos humanos adscritos a las Unidades Administrativas que desaparecen por virtud del presente Decreto, se estará a lo previsto en la Ley del Servicio Civil del Estado de Morelos.
+
+SÉPTIMA. Las atribuciones conferidas en otros ordenamientos jurídicos o instrumentos que se refieran a la Secretaría de Obras Públicas, Secretaría de Turismo y Cultura, a la Secretaría de Desarrollo Social y a la Comisión Estatal de Seguridad Pública, se entenderán asignadas y referidas a la Secretaría de Infraestructura, a la Secretaría de Turismo, a la Secretaría de Cultura, a la Secretaría de Bienestar y a la Secretaría de Seguridad y Protección Ciudadana, respectivamente; lo que implica también la asignación correspondiente de todos los recursos humanos, materiales, organizacionales, financieros y presupuestarios, en términos de la normativa aplicable.
+
+OCTAVA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Movilidad y Transporte, y a la Comisión Estatal de Seguridad Pública en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de la Secretaría de Infraestructura, de la Secretaría de Bienestar, de la Secretaría de Gobierno y de la Secretaría de Seguridad y Protección Ciudadana, respectivamente, por virtud de las facultades y atribuciones conferidas a éstas mediante el presente Decreto.
+
+NOVENA. Cuando alguna atribución de las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga pase a otra dependencia, se transferirán también los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente Decreto; lo cual será coordinado y supervisado por las Secretarías de Hacienda, de Administración y de la Contraloría, así como de la Jefatura de la Oficina de la Gubernatura del Estado, en el ámbito de sus atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMA. El día de la entrada en vigor del presente Decreto, la extinta Secretaría de Turismo y Cultura procederá a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los asuntos que se encuentren en trámite o en proceso, a la ahora Secretaría de Cultura, a efecto de que sea esta Secretaría de Despacho quien, en un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, determine la reasignación y lleve a cabo la transferencia de dichos asuntos, conforme al ámbito de competencias conferidas por virtud del presente Decreto, a la ahora Secretaría de Turismo a fin de que dé continuidad en su trámite, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de dicha redistribución pueda modificar o alterar su curso y resultado.
+
+DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las Secretarías o Dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos que se abroga, cuyas atribuciones se trasladen a otras Secretarías o Dependencias, con motivo del presente Decreto, continuarán tramitándose hasta su conclusión en los términos establecidos en (sic) normativa que les dio origen, sin que el traspaso modifique o altere su curso y resultado.
+
+DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
+
+DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
