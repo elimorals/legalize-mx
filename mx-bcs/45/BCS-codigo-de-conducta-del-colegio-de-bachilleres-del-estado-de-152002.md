@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-conducta-del-colegio-de-bachilleres-del-estado-de-152
 country: "mx"
 rank: "codigo"
 publication_date: "2021-10-20"
-last_updated: "2021-10-20"
+last_updated: "2024-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CODIGO DE CONDUCTA DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 30 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 41 del Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de octubre de 2021.
 
@@ -722,3 +724,13 @@ Por lo anterior, suscribo la presente carta a los _ días del mes de _____ del a
 Nombre completo
 
 Firma
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Código de Conducta entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur. Asimismo se publicará en el Portal de Transparencia del Colegio de Bachilleres del Estado de Baja California Sur.
+
+Segundo.- Se abroga el Código de Conducta del Colegio de Bachilleres del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 41 de fecha 20 de octubre de 2021.
