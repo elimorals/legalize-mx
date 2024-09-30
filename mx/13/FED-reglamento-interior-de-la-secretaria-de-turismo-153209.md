@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-153209"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-12-16"
-last_updated: "2021-12-16"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153209&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-12-13"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 16 de diciembre de 2021.
 
@@ -55,29 +55,53 @@ c) Dirección General de Certificación Turística;
 
 d) Dirección General de Desarrollo Regional y Fomento Turístico;
 
-e) Dirección General de Normalización y Verificación;
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-f) Dirección General de Sustentabilidad Turística;
+e) Dirección General de Normalización y Verificación, y
 
-g) Dirección General de Profesionalización y Competitividad Turística, y
+f) (DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+g) (DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
 h) Dirección General de Servicios al Turista Ángeles Verdes;
 
-II. Unidad de Innovación y Política Turística, a la cual se adscriben las unidades administrativas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+II. Unidad de Innovación, Sustentabilidad y Profesionalización Turística, a la cual se adscriben las unidades administrativas siguientes:
 
 a) Dirección General de Innovación del Producto Turístico;
 
-b) Dirección General de Gestión Social de Destinos, y
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-c) Dirección General de Política Turística;
+b) Dirección General de Gestión Social de Destinos;
 
-III. Unidad de Información y Seguimiento, a la cual se adscriben las unidades administrativas siguientes:
+c) (DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+d) Dirección General de Sustentabilidad Turística, y
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+e) Dirección General de Profesionalización y Competitividad Turística;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+III. Unidad de Información y Política Turística, a la cual se adscriben las unidades administrativas siguientes:
 
 a) Dirección General de Planeación;
 
-b) Dirección General de Integración de Información Sectorial, y
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-c) Dirección General de Seguimiento y Evaluación;
+b) Dirección General de Integración de Información Sectorial;
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+c) Dirección General de Seguimiento y Evaluación, y
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+d) Dirección General de Política Turística;
 
 IV. Unidad de Administración y Finanzas, a la cual se adscriben las unidades administrativas siguientes:
 
@@ -265,7 +289,7 @@ XI. Realizar acciones y establecer mecanismos de colaboración, de coordinación
 
 La Subsecretaría de Turismo tiene las atribuciones siguientes:
 
-I. Coadyuvar con las autoridades competentes de los tres órdenes de gobierno, para el desarrollo turístico sustentable en zonas arqueológicas, parques naturales y demás segmentos y productos turísticos relacionados con la naturaleza;
+I. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
 II. Coordinar con las autoridades de los tres órdenes de gobierno y con organismos de los sectores social y privado, nacionales e internacionales, las acciones necesarias para fomentar y facilitar el flujo de turistas en el territorio nacional;
 
@@ -289,7 +313,9 @@ XI. Coordinar las gestiones requeridas para el pago de las cuotas de inscripció
 
 XII. Establecer las directrices para recopilar, analizar y difundir la información y estudios de opinión pública que sobre la Secretaría y la actividad turística en general, se exprese en cualquier medio de comunicación, de conformidad con las disposiciones jurídicas aplicables;
 
-XIII. Coadyuvar con las demás unidades administrativas, en la conducción de las relaciones públicas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Coordinar con las demás unidades administrativas, la conducción de las relaciones públicas de la Secretaría, conforme a las disposiciones jurídicas que rigen la materia;
 
 XIV. Determinar e impulsar los programas y mecanismos de colaboración para la realización de estrategias, ferias, campañas y otros eventos, en materia de promoción turística a nivel nacional e internacional, conforme a las políticas que establezca la persona Titular de la Secretaría;
 
@@ -301,13 +327,13 @@ XVII. Coordinar el desarrollo de programas especiales de información, orientaci
 
 XVIII. Proponer e implementar los lineamientos de fomento turístico para el desarrollo regional, que deberán aplicar las unidades administrativas competentes de la Secretaría y las entidades paraestatales sectorizadas a esta;
 
-XIX. Definir los criterios de la planeación turística regional, a fin de identificar propuestas y proyectos para determinar zonas de desarrollo turístico sustentable y para impulsar el desarrollo turístico, en los términos establecidos en la Ley General de Turismo y su Reglamento;
+XIX. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-XX. Determinar, en coordinación con las entidades federativas, y previo acuerdo con la persona Titular de la Secretaría, las prioridades en materia de desarrollo turístico, así como los proyectos de zonas de desarrollo turístico sustentable, previa opinión de otras autoridades competentes cuando proceda;
+XX. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-XXI. Definir los lineamientos para el aprovechamiento sustentable turístico de los recursos naturales y culturales del país, y para determinar la capacidad de carga en materia turística de dichos recursos, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+XXI. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-XXII. Establecer las estrategias de ordenamiento turístico territorial de acuerdo a lo dispuesto en la Ley General de Turismo y su Reglamento, y en las demás disposiciones jurídicas aplicables;
+XXII. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
 XXIII. Proponer a las autoridades competentes de la Administración Pública Federal la afectación y desincorporación del patrimonio inmobiliario de dominio público de la Federación, susceptible de ser incorporado a zonas de interés y destinos turísticos para el desarrollo de infraestructura de apoyo a la actividad turística;
 
@@ -341,43 +367,79 @@ XXXVII. Resolver los procedimientos de verificación y, en su caso, imponer las 
 
 XXXVIII. Determinar, de conformidad con la Ley General de Turismo y demás disposiciones jurídicas aplicables, las formalidades y mecanismos de coordinación con las autoridades competentes para el desahogo de los procedimientos administrativos, y sustanciar y resolver los recursos administrativos que le corresponda, así como la instrumentación de los actos administrativos correspondientes, de acuerdo con la falta administrativa o delito de que se trate;
 
-XXXIX. Identificar zonas, regiones y destinos susceptibles de desarrollo turístico, a fin de formular proyectos de desarrollo de productos, destinos, regiones y rutas turísticas que incorporen la participación de las comunidades receptoras en su ejecución y operación;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XL. Establecer directrices relativas al auxilio que la Secretaría debe prestar, en colaboración con las autoridades competentes, en materia de seguridad y auxilio a los turistas nacionales y extranjeros, cuando se trate de actos o hechos que afecten corporal o patrimonialmente a los turistas o sujetos del sector, y
+XXXIX. Identificar zonas, regiones y destinos susceptibles de desarrollo turístico, a fin de formular proyectos de desarrollo de productos, destinos, regiones y rutas turísticas que incorporen la participación de las comunidades receptoras en su ejecución y operación, y
 
-XLI. Proponer estrategias para la capacitación de los prestadores de servicios turísticos, así como para la validación y registro de diplomados de formación.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XL. Establecer directrices relativas al auxilio que la Secretaría debe prestar, en colaboración con las autoridades competentes, en materia de seguridad y auxilio de turistas nacionales y extranjeros, cuando se trate de actos o hechos que afecten corporal o patrimonialmente a dichas personas o sujetos del sector.
+
+XLI. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS UNIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.OF. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
-La Unidad de Innovación y Política Turística tiene las atribuciones siguientes:
+La Unidad de Innovación, Sustentabilidad y Profesionalización Turística tiene las atribuciones siguientes:
 
-I. Proponer a la persona Titular de la Secretaría políticas públicas, estrategias y esquemas de gestión del desarrollo turístico nacional que permitan fomentar la colaboración y coordinación entre esta dependencia y las autoridades competentes de los tres órdenes de gobierno, así como con organismos privados, académicos y sociales, nacionales e internacionales que intervienen en la actividad turística;
+I. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-II. Definir los mecanismos de interlocución entre la Secretaría y la Oficina de la Presidencia de la República, dando seguimiento a las acciones implementadas;
+II. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-III. Diseñar los modelos de los convenios de coordinación previstos en la Ley General de Turismo, y promover su formalización con las autoridades competentes de las entidades federativas, los municipios y las alcaldías de la Ciudad de México;
+III. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-IV. Proponer a la persona Titular de la Secretaría los mecanismos para incorporar la actividad turística en las políticas y programas sectoriales de las dependencias y entidades de la Administración Pública Federal y, una vez aprobados, realizar su implementación, así como impulsar los proyectos transversales y de coordinación intersectorial que resulten necesarios;
+IV. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
 V. Definir los lineamientos para el desarrollo de modelos integrales de gestión de destinos turísticos;
 
 VI. Proponer a la persona Titular de la Secretaría las políticas públicas, acciones, programas y proyectos estratégicos que incentiven el turismo social, incluyente y accesible, y que promuevan la consolidación de cadenas productivas y redes de valor;
 
-VII. Dar seguimiento a los mecanismos de colaboración celebrados con la Secretaría de Gobernación y los órganos legislativos, así como coordinar las propuestas legislativas de las unidades administrativas de la Secretaría;
+VII. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
-VIII. Coordinar la integración de la agenda legislativa de la Secretaría, conforme a lo que establezca su Titular;
+VIII. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
 
 IX. Establecer las directrices para la realización de estudios e investigaciones relacionadas con el sector turístico que promuevan la innovación, el desarrollo tecnológico, la capacitación y la difusión del conocimiento entre los agentes sociales que participan en dicho sector;
 
-X. Establecer los lineamientos para impulsar la innovación, el desarrollo y la diversificación de productos turísticos competitivos, que respondan a las tendencias de los mercados nacional e internacional, y
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Proponer a la persona Titular de la Secretaría, las políticas públicas que propicien la innovación, el desarrollo y la diversificación de los productos turísticos del país y el fortalecimiento de la oferta turística.
+X. Establecer los lineamientos para impulsar la innovación, el desarrollo y la diversificación de productos turísticos competitivos, que respondan a las tendencias de los mercados nacional e internacional;
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Proponer a la persona titular de la Secretaría, las políticas públicas que propicien la innovación, el desarrollo y la diversificación de los productos turísticos del país y el fortalecimiento de la oferta turística;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Coadyuvar con las autoridades competentes de los tres órdenes de gobierno, para el desarrollo turístico sustentable en zonas arqueológicas, parques naturales y demás segmentos y productos turísticos relacionados con la naturaleza;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Definir los criterios de la planeación turística regional, a fin de identificar propuestas y proyectos para determinar zonas de desarrollo turístico sustentable y para impulsar el desarrollo turístico, en los términos establecidos en la Ley General de Turismo y su reglamento;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Determinar, previo acuerdo con la persona titular de la Secretaría y opinión de las autoridades competentes, y en coordinación con las entidades federativas, las prioridades en materia de desarrollo turístico, así como los proyectos de zonas de desarrollo turístico sustentable;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Definir los lineamientos para el aprovechamiento sustentable turístico de los recursos naturales y culturales del país, y para determinar la capacidad de carga en materia turística de dichos recursos, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Establecer las estrategias de ordenamiento turístico territorial de acuerdo con la Ley General de Turismo, su reglamento y demás disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Proponer estrategias para la capacitación de los prestadores de servicios turísticos, así como para la validación y registro de diplomados de formación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 12.
 
-La Unidad de Información y Seguimiento tiene las atribuciones siguientes:
+La Unidad de Información y Política Turística tiene las atribuciones siguientes:
 
 I. Dirigir los procesos de planeación institucional, con el apoyo de las unidades administrativas de la Secretaría;
 
@@ -391,7 +453,9 @@ V. Diseñar los instrumentos, procedimientos y mecanismos de evaluación, monito
 
 VI. Dirigir la participación de la Secretaría, en la evaluación de los programas y proyectos turísticos a cargo de las unidades administrativas de la Secretaría y de las entidades paraestatales sectorizadas a esta, e incluir aquellos que se operan en forma conjunta con otras autoridades competentes;
 
-VII. Establecer la focalización de acciones y estrategias turísticas, considerando, entre otros aspectos, polígonos de actuación, centros o regiones turísticas, pueblos mágicos, destinos prioritarios o saturados y zonas de desarrollo turístico sustentable, con la participación que corresponda a la Subsecretaría de Turismo y la Unidad de Innovación y Política Turística;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Establecer la focalización de acciones y estrategias turísticas, considerando, entre otros aspectos: polígonos de actuación, centros o regiones turísticas, pueblos mágicos, destinos prioritarios o saturados, y zonas de desarrollo turístico sustentable, con la participación que corresponda a la Subsecretaría de Turismo y la Unidad de Innovación, Sustentabilidad y Profesionalización Turística;
 
 VIII. Definir, en coordinación con las unidades administrativas competentes de la Secretaría, las directrices y lineamientos para cumplir con las acciones de seguimiento y evaluación de dichas unidades administrativas que tengan a su cargo la operación de programas y proyectos turísticos;
 
@@ -409,9 +473,37 @@ XIV. Coordinar la elaboración de los informes de trabajo de la Secretaría;
 
 XV. Coordinar la integración, administración, operación y actualización del Atlas Turístico de México;
 
-XVI. Diseñar y proponer lineamientos para la difusión, procesamiento, seguimiento, control y evaluación de la información estadística y económica en materia turística, en coordinación con las autoridades competentes, y
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-XVII. Vigilar la operación y actualización del Registro Nacional de Turismo, en los términos establecidos en la Ley General de Turismo y su Reglamento.
+XVI. Diseñar y proponer lineamientos para la difusión, procesamiento, seguimiento, control y evaluación de la información estadística y económica en materia turística, en coordinación con las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Vigilar la operación y actualización del Registro Nacional de Turismo, en los términos establecidos en la Ley General de Turismo y su reglamento;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Proponer a la persona titular de la Secretaría políticas públicas, estrategias y esquemas de gestión del desarrollo turístico nacional que permitan fomentar la colaboración y coordinación entre esta dependencia y las autoridades competentes de los tres órdenes de gobierno, así como con organismos privados, académicos y sociales, nacionales e internacionales, que intervienen en la actividad turística;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Definir los mecanismos de interlocución entre la Secretaría y la Oficina de la Presidencia de la República, así como dar seguimiento a las acciones implementadas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Diseñar los modelos de los convenios de coordinación previstos en la Ley General de Turismo, y promover su formalización con las autoridades competentes de las entidades federativas, los municipios y las demarcaciones territoriales de Ciudad de México;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Proponer a la persona titular de la Secretaría los mecanismos para incorporar la actividad turística en las políticas y programas sectoriales de las dependencias y entidades de la Administración Pública Federal y, una vez aprobados, realizar su implementación, así como impulsar los proyectos transversales y de coordinación intersectorial que resulten necesarios;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Dar seguimiento a los mecanismos de colaboración celebrados con la Secretaría de Gobernación y los órganos legislativos, así como coordinar las propuestas legislativas de las unidades administrativas de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Coordinar la integración de la agenda legislativa de la Secretaría, conforme a lo que establezca su titular.
 
 ###### Artículo 13.
 
@@ -683,7 +775,9 @@ VI. Coordinar acciones que permitan fortalecer, difundir y divulgar la investiga
 
 VII. Coordinar con instituciones de capacitación y de educación, el establecimiento y aplicación de programas y acciones en favor de la cultura turística, y de la profesionalización del factor humano en el sector turístico;
 
-VIII. Participar con la Unidad de Innovación y Política Turística en el fomento del desarrollo tecnológico y la innovación en el sector turístico;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Fomentar el desarrollo tecnológico y la innovación en el sector turístico;
 
 IX. Emitir opinión técnica sobre el diseño, actualización y validación del registro de planes y programas de estudios en materia del sector turístico que desarrollen las instituciones educativas, de conformidad con las disposiciones jurídicas aplicables, y
 
@@ -795,7 +889,9 @@ V. Proponer e implementar, en coordinación con la Dirección General de Innovac
 
 VI. Generar e implementar proyectos y estrategias para incentivar el turismo doméstico, social, escolar, de pueblos originarios, incluyente y accesible a la población desfavorecida;
 
-VII. Proponer a la persona Titular de la Unidad de Innovación y Política Turística, programas y proyectos de intervención que permitan incentivar la infraestructura, calidad, promoción, productividad, información, uso de tecnologías y certificación de los servicios en los destinos turísticos;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Proponer a la persona titular de la Unidad de Información y Política Turística, programas y proyectos de intervención que permitan incentivar la infraestructura, calidad, promoción, productividad, información, uso de tecnologías y certificación de los servicios en los destinos turísticos;
 
 VIII. Proponer y dirigir, en coordinación con las unidades administrativas competentes de la Secretaría, la implementación de programas y proyectos de intervención estratégica que incentiven el desarrollo y fortalecimiento de cadenas productivas y de valor en el sector turístico, en los destinos turísticos y regiones prioritarias;
 
@@ -903,7 +999,9 @@ VIII. Elaborar los criterios y procedimientos para evaluar el cumplimiento de la
 
 IX. Organizar y realizar la verificación, análisis y emitir opinión sobre la metodología y criterios de evaluación que utilicen los evaluadores externos de los programas y proyectos que opere la Secretaría, así como conocer el informe y resultados de dichas evaluaciones, para efectos de su implementación y seguimiento;
 
-X. Proponer a la persona Titular de la Unidad de Información y Seguimiento los cursos, talleres y seminarios en materia de evaluación y monitoreo a los programas y proyectos turísticos, para mejorar su eficacia e impacto económico y social, además de potencializar capacidades institucionales de las unidades administrativas de la Secretaría y de las entidades paraestatales sectorizadas a esta;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+X. Proponer a la persona titular de la Unidad de Información y Política Turística los cursos, talleres y seminarios en materia de evaluación y monitoreo a los programas y proyectos turísticos, para mejorar su eficacia e impacto económico y social, así como potencializar las capacidades institucionales de las unidades administrativas de la Secretaría y de las entidades paraestatales sectorizadas a esta;
 
 XI. Promover, impulsar y fortalecer la cultura de la evaluación con indicadores y sistemas seleccionados de programas y proyectos turísticos a cargo de la Secretaría;
 
@@ -1175,13 +1273,17 @@ La Secretaría proporcionará el auxilio que requiera el Órgano Interno de Cont
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 33.
 
-La persona Titular de la Secretaría será suplida en sus ausencias por la persona Titular de la Subsecretaría de Turismo, por la persona Titular de la Unidad de Innovación y Política Turística, por la persona Titular de la Unidad de Información y Seguimiento o por la persona Titular de la Unidad de Administración y Finanzas, en el orden de prelación mencionado.
+La persona titular de la Secretaría debe ser suplida en sus ausencias por la persona titular de la Subsecretaría de Turismo, por la persona titular de la Unidad de Innovación, Sustentabilidad y Profesionalización Turística, por la persona titular de la Unidad de Información y Política Turística o por la persona titular de la Unidad de Administración y Finanzas, en el orden de prelación mencionado.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 34.
 
-Las ausencias de las personas titulares de la Subsecretaría de Turismo y de las unidades de Innovación y Política Turística, de Información y Seguimiento, y de Administración y Finanzas, serán suplidas por las personas titulares de las direcciones generales que tengan adscritas, con la prelación que se cita en el artículo 3 de este Reglamento.
+Las ausencias de las personas titulares de la Subsecretaría de Turismo y de las unidades de Innovación, Sustentabilidad y Profesionalización Turística, de Información y Política Turística, y de Administración y Finanzas, deben ser suplidas por las personas titulares de las direcciones generales que tengan adscritas, con la prelación que se establece en el artículo 3 de este reglamento.
 
 ###### Artículo 35.
 
@@ -1214,3 +1316,15 @@ OCTAVO.- Cuando en términos del último párrafo del artículo 32 de este Regla
 NOVENO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, se llevarán a cabo mediante movimientos compensados y no se requerirán recursos adicionales, por lo que la Secretaría de Turismo deberá sujetarse a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementará su presupuesto regularizable.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a 13 de diciembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Turismo, Miguel Tomás Torruco Marqués.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas a las unidades administrativas que cambian de denominación por virtud de este decreto, se deben entender hechas o conferidas a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+TERCERO. Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente decreto, deben ser atendidos y resueltos por las unidades administrativas a las que se les otorga la atribución o competencia correspondiente en este ordenamiento, y de conformidad con las disposiciones vigentes al momento en el que se iniciaron.
