@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2024-09-13"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -159,9 +159,9 @@ II. SEGUNDO CIRCUITO:
 
 2. Tres tribunales colegiados de apelación: dos con residencia en Toluca y uno con residencia en Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 16/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 20/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-3. Treinta y dos Juzgados de Distrito en el Estado de México; cuatro de Procesos Penales Federales, nueve especializados en materia de Amparo y Juicios Federales y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cinco con sede en Nezahualcóyotl.
+3. Treinta y dos Juzgados de Distrito en el Estado de México; cuatro Penales, nueve especializados en materias Administrativa, Civil y de Trabajo y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cinco con sede en Nezahualcóyotl.
 
 III. TERCER CIRCUITO:
 
@@ -11232,3 +11232,25 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado de Distrito en Materia Mercantil Federal en el Estado de Veracruz, con residencia en Coatzacoalcos, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 20/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DE LOS JUZGADOS PRIMERO, SEGUNDO, TERCERO Y QUINTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN TOLUCA, E INICIO DE FUNCIONES COMO JUZGADOS PRIMERO, SEGUNDO, TERCERO Y CUARTO DE DISTRITO EN MATERIA PENAL EN EL MISMO ESTADO Y RESIDENCIA; ASÍ COMO EL CAMBIO DE DENOMINACIÓN DE LOS JUZGADOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN TOLUCA E INICIO DE FUNCIONES COMO JUZGADOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL MISMO ESTADO Y RESIDENCIA, AL IGUAL QUE SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración y de Creación de Nuevos Órganos, así como las Direcciones Generales de Recursos Humanos, Gestión Judicial, Estadística Judicial y de Tecnologías de la Información, en el ámbito de sus competencias, llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+QUINTO. A partir de la fecha señalada en el artículo 1 del presente Acuerdo, las comunicaciones oficiales urgentes de procesos penales federales que se presenten en días y horas inhábiles serán del conocimiento de los órganos jurisdiccionales ahora especializados en materia penal, para lo cual se observará el calendario de guardias aquí dispuesto.
+
+SEXTO. Las Oficinas de Correspondencia Común de los Juzgados de Distrito en el Estado de México, con residencia en Toluca, colocarán avisos en lugares visibles de su acceso, informando al público lo determinado en el presente Acuerdo.
+
+SÉPTIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los respectivos juzgados conforme a su nueva denominación.
+
+OCTAVO. La Coordinación de Administración Regional brindará todo el apoyo a los órganos jurisdiccionales para el traslado y recepción de los expedientes, y de sus anexos.
+
+NOVENO. El cambio de denominación y competencia de los órganos jurisdiccionales de que se trata se realizará respetando los derechos laborales de las personas servidoras públicas, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal, instrumentará las acciones administrativas correspondientes.
