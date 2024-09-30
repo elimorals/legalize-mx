@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-comercio-exterior-469
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2020-03-27"
+last_updated: "2024-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46902&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -87,11 +87,11 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 7o.
 
-El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $45,000’000,000.00 (cuarenta y cinco mil millones de pesos 00/100 M.N.). Dicho capital social autorizado estará representado por 297’000,000 (doscientos noventa y siete millones) de certificados de aportación patrimonial de la Serie "A" con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno y por 153’000,000 (ciento cincuenta y tres millones) de certificados de aportación patrimonial de la Serie "B", con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno.
+El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $60,000'000,000.00 (sesenta mil millones de pesos 00/100 M.N.). Dicho capital social autorizado estará representado por 396'000,000 (trescientos noventa y seis millones) de certificados de aportación patrimonial de la Serie "A" con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno y por 204'000,000 (doscientos cuatro millones) de certificados de aportación patrimonial de la Serie "B", con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -223,9 +223,13 @@ El cargo de consejero es personal y no podrá ser desempeñado por medio de repr
 
 Las sesiones del Consejo Directivo deberán celebrarse cuando menos trimestralmente en los días y horas que previamente acuerde el propio Consejo; en caso necesario se celebrarán por acuerdo del Presidente o a petición de cuando menos dos consejeros de la Serie "A".
 
-Invariablemente se requerirá escrito dirigido a los consejeros para la celebración de las sesiones.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-El Consejo Directivo sesionará válidamente con la asistencia de por lo menos siete de sus miembros, siempre y cuando, entre ellos se encuentren por lo menos cuatro de los nombrados por la Serie "A".
+Invariablemente, las convocatorias a las sesiones del Consejo Directivo se harán por el Secretario o Prosecretario del Consejo Directivo mediante escrito dirigido a los consejeros, el cual podrá hacerse llegar por medios electrónicos, con una anticipación de por lo menos cinco días hábiles en el caso de las sesiones ordinarias, y de por lo menos tres días hábiles tratándose de las sesiones extraordinarias; en ambos casos, la documentación e información relacionada con los temas a tratar durante la sesión será entregada con la misma antelación en que se convoca a ésta.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+
+El Consejo Directivo sesionará válidamente con la asistencia de por lo menos siete de sus miembros, siempre y cuando, entre ellos se encuentren por lo menos cuatro de los nombrados por la Serie "A". La asistencia de los miembros podrá acreditarse con su presencia a través de conferencia telefónica o videoconferencia, siempre y cuando sea realizada en tiempo real.
 
 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
@@ -463,29 +467,29 @@ El Consejo Directivo acordará la fecha en la cual los tenedores de los Certific
 
 Si algún tenedor de Certificados de Aportación Patrimonial no cobra las utilidades que le correspondan en el término de cinco años contados a partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
 
-### CAPITULO SEXTO. Del Ejercicio Social y la Distribución del Remanente
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTICULO 38.
+### CAPÍTULO SEXTO. Disposiciones Generales
 
-Con la autorización expresa de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento de su objeto.
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-Por lo menos se constituirán las siguientes reservas:
+###### ARTÍCULO 38.
 
-I.- Hasta un 20% de los pasivos a cargo de la Institución en moneda extranjera para cubrir riesgos cambiarios, y
+De conformidad con lo dispuesto por el artículo 25, fracción I de la Ley Orgánica, el Director General tendrá la representación legal de la Sociedad para intervenir en los procedimientos judiciales, administrativos o laborales en los que la Sociedad sea parte o pueda resultar afectada. Dicho servidor público podrá designar apoderados para llevar a cabo la tramitación de los referidos procedimientos.
 
-II.- Las que determine la Secretaría de Hacienda y Crédito Público.
+El Titular de la Unidad Jurídica y Fiduciaria o su equivalente y el Director Jurídico Contencioso y Corporativo o su equivalente, indistintamente, representarán al Director General de la Sociedad, Titulares de Unidad, Coordinadores y Directores de Área, para intervenir en los juicios de amparo en los que éstos figuren como autoridad responsable, para efectos del artículo 9 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Fijado el monto del remanente se tomará por lo menos un 10% para constituir el Fondo de Reserva legal, hasta que dicha reserva alcance un importe por lo menos igual al capital social pagado; se separará la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Sociedad, el saldo se aplicará de la siguiente manera:
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-A).- Del remanente se tomará la cantidad que el Consejo Directivo acuerde para destinarse a ser distribuida como utilidad entre los tenedores de certificados de aportación patrimonial a prorrata, y
+###### ARTÍCULO 39.
 
-B).- El saldo, si lo hubiere, se aplicará en la forma que acuerde el Consejo Directivo.
+Cuando por cualquier motivo las Unidades quedaran vacantes, el Director General de la Sociedad podrá designar a un encargado del despacho, de entre los servidores públicos adscritos a la unidad administrativa de que se trate.
 
-###### ARTICULO 39.
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
-El Consejo Directivo acordará la fecha en la cual los tenedores de los certificados de aportación patrimonial podrán cobrar las utilidades que les correspondan y mandará anunciar oportunamente la fecha y las utilidades acordadas, mediante publicación en un periódico de amplia circulación en la República Mexicana.
+###### ARTÍCULO 40.
 
-Si algún tenedor de certificados de aportación patrimonial no cobra las utilidades que le correspondan en el término de cinco años contados a partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
+Los Titulares de Unidad y Directores de Área están facultados para expedir certificaciones de constancias de documentos relativos a los asuntos de su competencia.
 
 ## TRANSITORIOS
 
@@ -582,3 +586,23 @@ El Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Instituci
 ###### ARTÍCULO CUARTO.
 
 El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $45,000’000,000.00 (cuarenta y cinco mil millones de pesos 00/100 M.N.), y el capital social suscrito y pagado es de $30,470’105,800.00 (treinta mil cuatrocientos setenta millones ciento cinco mil ochocientos pesos 00/100 M.N.).
+
+D.O.F. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor, el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+De conformidad con lo establecido por el último párrafo de artículo 30 de la Ley de Instituciones de Crédito, el Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que, por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
+
+###### ARTÍCULO TERCERO.
+
+El Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+###### ARTÍCULO CUARTO.
+
+El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $60,000’000,000.00 (sesenta mil millones de pesos 00/100 M.N.) y el capital social suscrito y pagado es de $44,460’776,500.00 (cuarenta y cuatro mil cuatrocientos sesenta millones setecientos setenta y seis mil quinientos pesos 00/100 M.N.).
