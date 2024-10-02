@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-administracion-del-1354
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-05"
-last_updated: "2018-12-05"
+last_updated: "2024-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 2 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Número 5655 del Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2018.
 
@@ -772,3 +774,25 @@ MIRNA ZAVALA ZÚÑIGA
 LA PRESENTE HOJA DE FIRMAS ES PARTE INTEGRAL DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN.
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL PODER EJECUTIVO ESTATAL".]
+
+PRIMERA. El presente Reglamento iniciará su vigencia el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Administración del Poder Ejecutivo Estatal deberá actualizar los Manuales Administrativos, descripciones y perfiles de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Administración publicado en el Periódico Oficial “Tierra y Libertad”, número 5655, el 05 de diciembre de 2018. Asimismo, se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. Dentro del plazo de cinco días hábiles contados a partir de la entrada en vigor del presente instrumento, la Secretaría de Administración del Poder Ejecutivo Estatal deberá registrar, conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno del Poder Ejecutivo Estatal, las firmas autógrafas de las personas servidoras públicas titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar, lo anterior de conformidad con lo dispuesto en el artículo 23, fracción XXV, de la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Administración del Poder Ejecutivo Estatal deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las diversas Unidades Administrativas cuya denominación se modifica, serán continuados en su tramitación por la Unidad Administrativa competente que corresponda.
+
+SÉPTIMA. Las referencias y facultades previstas en otros ordenamientos para las Unidades Administrativas de la Secretaría de Administración del Poder Ejecutivo Estatal que hayan cambiado su denominación por disposición de este reglamento, se entenderán hechas y atribuidas, respectivamente, a las unidades administrativas competentes por disposición de este mismo Reglamento.
+
+OCTAVA.- Para efecto del cumplimiento de las modificaciones que establece la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos respecto de las atribuciones que le son conferidas a la Jefatura de la Oficina de la Gubernatura que conllevan la implementación, cumplimiento y operación de la Agencia de Transformación Digital, está continuará funcionando administrativamente por conducto de la Secretaría de Administración tomando como base la Dirección General de Tecnologías de la Información y Comunicaciones hasta en tanto la Jefatura de la Oficina de la Gubernatura publique su Reglamento Interior y cuente con su estructura orgánica, esto con fundamento en la Disposición Transitoria Quinta del Decreto por el que se expide la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos; y se reforman diversas disposiciones en materia de reingeniería administrativa.
