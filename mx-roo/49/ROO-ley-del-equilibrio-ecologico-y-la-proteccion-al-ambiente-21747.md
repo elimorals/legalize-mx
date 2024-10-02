@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2023-12-21"
+last_updated: "2024-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de junio de 2001.
 
@@ -883,9 +883,13 @@ Las autoridades administrativas tomarán en cuenta y se sujetarán en sus decisi
 
 La realización de las obras o actividades a que se refiere este artículo, se sujetarán al procedimiento de evaluación de la manifestación de impacto ambiental, mismo que será autorizado por el Instituto conforme al procedimiento previsto en el Reglamento correspondiente:
 
-I.- Obra pública;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-II.- Vías de comunicación estatales y caminos rurales;
+I.- Obra pública, construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un Municipio;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+II.- Vías de comunicación estatales, caminos rurales y vialidades primarias, tales como periféricos y libramientos;
 
 III.- Procesadoras de alimentos, rastros y frigoríficos; procesadoras de hule natural y sus derivados; procesadoras de bebidas, ladrilleras, textiles, maquiladoras, curtidurías, industria automotriz y del vidrio y sus derivados;
 
@@ -895,7 +899,9 @@ V.- Instalaciones para captación de agua, para extraer volúmenes considerables
 
 VI.- Corredores Industriales, Parques y Zonas Industriales, a excepción de aquellas en las que se prevean la realización de actividades altamente riesgosas de competencia federal;
 
-VII.- Exploración, explotación, extracción y procesamiento físico de sustancias que constituyan depósitos de naturaleza semejante a los componentes de los terrenos; tales como la roca y demás materiales pétreos, o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales, construcción u ornamento de obras;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+VII.- Bancos de extracción de materiales pétreos;
 
 > <small>(REFORMADA. P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -905,13 +911,21 @@ VIII.- Sistemas de manejo y disposición de residuos de manejo especial;
 
 IX.- Confinamientos, instalaciones de tratamiento o de eliminación de residuos sólidos urbanos y de manejo especial;
 
-X.- Fraccionamientos y unidades habitacionales, desarrollos inmobiliarios que no se encuentren en ecosistemas costeros y nuevos centros de población;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-XI.- Hoteles, restaurantes y centros comerciales que no se encuentren en zonas de jurisdicción Federal;
+X.- Fraccionamientos, unidades habitacionales, conjuntos urbanos en cualquiera de sus modalidades, nuevos centros de población y desarrollos inmobiliarios que no se encuentren en ecosistemas costeros;
 
-XII.- Centrales de autotransporte público y privado de carácter estatal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-XIII.- Hospitales y establecimientos en donde se realicen actividades riesgosas;
+XI.- Hoteles mayores de mil doscientos metros cuadrados de superficie o de construcción, restaurantes y centros comerciales que no se encuentren en zonas de jurisdicción Federal;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+XII.- Centrales de autotransporte público y privado, centrales de carga, terminales multimodales, centrales de autobuses, ferrocarriles o aeropuertos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+XIII.- Desarrollos y centros educativos, de salud, abasto, comercio, religiosos o recreación mayores de mil metros cuadrados de superficie o de construcción;
 
 XIV.- Las que se susciten de convenios o acuerdos de coordinación con el objeto de que el Estado asuma funciones de la Federación;
 
@@ -921,13 +935,25 @@ XVI.- Granjas agrícolas o pecuarias de explotación intensiva;
 
 XVII.- Obras y actividades en áreas naturales protegidas de competencia estatal o municipal;
 
-XVIII.- Cambio de uso del suelo en terrenos considerados como acahuales; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-XIX.- Obras o actividades que correspondan a asuntos de competencia estatal, que puedan causar desequilibrios ecológicos graves e irreparables daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y protección al ambiente.
+XVIII.- Cambio de uso del suelo en terrenos considerados como acahuales y la relotificación, parcelación o subdivisión de terrenos con superficie igual o mayor a los cinco mil quinientos metros cuadrados, y
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-La Secretaría, en coordinación con la Secretaría de Desarrollo Territorial Urbano Sustentable, expedirán las disposiciones administrativas que permitan unificar, armonizar, simplificar y evitar la duplicidad de trámites, costos y tiempos de gestión de las manifestaciones de impacto ambiental y los dictámenes de impacto urbanístico a que hacen referencia esta ley y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+XIX.- Obras o actividades que correspondan a asuntos de competencia estatal, que puedan causar desequilibrios ecológicos graves e irreparables daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y protección al ambiente, así como todas las acciones urbanísticas contempladas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo que sean mayores de dos mil quinientos metros cuadrados de superficie o de mil quinientos metros cuadrados de construcción.
+
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 471/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+La Secretaría, en coordinación con la Secretaría de Desarrollo Territorial Urbano Sustentable, expedirán las disposiciones administrativas que permitan unificar, armonizar, simplificar y evitar la duplicidad de trámites, costos y tiempos de gestión de las manifestaciones de impacto ambiental Y LOS DICTÁMENES DE IMPACTO TERRITORIAL a que hacen referencia esta Ley y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+Las dependencias y entidades públicas no podrán llevar a cabo la inscripción al Registro Público de la Propiedad y el Comercio del Estado de Quintana Roo sin contar con la autorización en materia de impacto ambiental correspondiente.
 
 ###### Artículo 25.
 
@@ -1113,6 +1139,12 @@ Cuando las obras o actividades señaladas en el artículo 24 de esta Ley requier
 
 El Instituto, a solicitud del promovente, integrará en la resolución de la autorización en materia de impacto ambiental, los demás permisos, licencias y autorizaciones de su competencia, que se requieran para la realización de las obras y actividades a que se refiere este capítulo.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 37 Bis.
+
+Las personas titulares de las notarías y el Registro Público de la Propiedad y el Comercio del Estado sólo podrán intervenir en dar fe pública y la inscripción registral correspondiente de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles destinados a la realización de obras o actividades establecidos en los artículos 24 y 25 de la presente Ley, previa comprobación de la existencia de las autorizaciones en materia de impacto ambiental expedidas por la autoridad competente; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 38.
@@ -1228,6 +1260,14 @@ IV.- Los programas estatales y municipales sobre infraestructura, equipamiento u
 V.- El aprovechamiento de agua para usos urbanos deberá incorporar los costos de tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice; y
 
 VI.- El establecimiento de áreas de conservación ecológica en torno a los asentamientos humanos.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 45 Bis.
+
+Los asentamientos humanos deberán contar con las autorizaciones correspondientes, incluyendo las autorizaciones en materia de impacto ambiental, que emita la autoridad competente relativas a la realización de obras o actividades a que se refieren los artículos 24 y 25 de la presente Ley.
+
+El Registro Público de la Propiedad y el Comercio del Estado no podrá inscribir título de propiedad alguno de fraccionamiento, conjunto urbano, subdivisión, lotificación, parcelación, construcción o incorporación al desarrollo urbano de predios ejidales o comunales, si no se cuenta con las autorizaciones expresas a que alude el párrafo anterior. Las personas titulares de las Notarías Públicas, no podrán dar fe ni intervenir en este tipo (sic) operaciones, a menos de que ante ellos se demuestre que se cuenta con las autorizaciones de impacto ambiental a que se refiere el párrafo anterior, para lo cual estarán obligados a efectuar la verificación correspondiente.
 
 ###### Artículo 46.
 
@@ -3666,3 +3706,11 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 001 POR EL QUE SE REFORMAN: LAS FRACCIONES I, II, VII, X, XI, XII, XIII, XVIII Y X1X DEL ARTÍCULO 24 SE ADICIONAN: UN ÚLTIMO PÁRRAFO AL ARTÍCULO 24; EL ARTÍCULO 37 BIS Y EL ARTÍCULO 45 BIS, TODOS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
