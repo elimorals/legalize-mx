@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1252
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-30"
-last_updated: "2022-05-04"
+last_updated: "2024-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2024.
 
 Ley publicada en el Suplemento al Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2017.
 
@@ -39,7 +39,7 @@ LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACA
 
 RESULTANDOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -369,23 +369,35 @@ II. Brindar información sobre el funcionamiento y prestación de servicios de l
 
 Apartado K. Por conducto de la Fiscalía Especializada en Combate a la Corrupción, se ejercerán las atribuciones en materia de combate a la corrupción que establezcan las leyes generales aplicables, la Constitución del Estado y la legislación estatal correspondiente:
 
-I. Ejercer las atribuciones que la Constitución, los Instrumentos Internacionales de Derechos Humanos, la Constitución del Estado, este ordenamiento y demás disposiciones normativas aplicables le otorguen al Fiscal General, en materia de investigación y persecución de delitos relacionados con hechos de corrupción;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-II. Diseñar e implementar estrategias y líneas de acción para combatir los delitos en materia de corrupción;
+I. Conducir y supervisar, en el ámbito de su competencia, la investigación, persecución y litigación de los hechos señalados como delitos en los Títulos Séptimo Bis, Octavo, Noveno, Vigésimo Primero y Vigésimo Segundo del Libro Segundo del Código Penal para el Estado de Zacatecas, así como los contemplados en la Ley General de Contabilidad Gubernamental, cometidos en el desempeño o con motivo de sus funciones por las personas servidoras públicas del estado, municipios, organismos autónomos, con excepción de los que prestan sus servicios en la Fiscalía General, así como por particulares;
 
-III. Implementar planes y programas para detectar la comisión de los hechos que se consideran como delitos en materia de corrupción en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-IV. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los delitos en materia de corrupción;
+II. Establecer, en el ámbito de su competencia, los planes y programas destinados a detectar la comisión de hechos que la ley señale como delitos en materia de corrupción;
 
-V. Implementar y fortalecer, en el ámbito de su competencia, mecanismos de cooperación y coordinación con las autoridades de los tres órdenes de gobierno, para la investigación de los delitos en materia de corrupción;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-VI. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad;
+III. Diseñar e implementar mecanismos de colaboración con autoridades estatales y federales que ejerzan facultades de fiscalización, con el objeto de fortalecer el desarrollo de las investigaciones, así como prevenir la incidencia delictiva;
 
-VII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable, para que pueda ser utilizada en las investigaciones;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-VIII. Celebrar convenios con instituciones y organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, para prevenir y combatir delitos en materia de corrupción, y
+IV. Elaborar programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de hechos relacionados con delitos de corrupción;
 
-IX. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+V. Diseñar, integrar e implementar mecanismos de análisis de la información fiscal, financiera y contable, que resulte útil, pertinente e idónea en la investigación de los delitos de su competencia;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+VI. Las demás que en su caso le confieran otras disposiciones legales sobre la materia;
+
+VII. (DEROGADA, P.O. 2 DE OCTUBRE DE 2024)
+
+VIII. (DEROGADA, P.O. 2 DE OCTUBRE DE 2024)
+
+IX. (DEROGADA, P.O. 2 DE OCTUBRE DE 2024)
 
 Apartado L. Son atribuciones en materia de ejecución penal, la intervención en los procesos de ejecución de las sanciones penales y medidas de seguridad, de conformidad con las disposiciones jurídicas aplicables.
 
@@ -443,9 +455,27 @@ X. Coordinarse con la Federación y otros Estados, con el objeto de generar prev
 
 XI. Las demás aplicables a la materia, que les confiera esta Ley u otros ordenamientos legales.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE OCTUBRE DE 2024)</small>
+
+Apartado Ñ. Atribuciones en materia de Control y Supervisión Interna:
+
+I. Conducir y supervisar la investigación, persecución y litigación de los hechos que la ley señale como delitos del orden común, previstos en los Títulos Séptimo Bis, Octavo, Noveno, Vigésimo Primero y Vigésimo Segundo del Libro Segundo del Código Penal para el Estado de Zacatecas, así como los contemplados en la Ley General de Contabilidad Gubernamental, cometidos en ejercicio o con motivo del cumplimiento de su encargo, por las personas servidoras públicas de la Fiscalía General;
+
+II. Recibir quejas y denuncias por posibles irregularidades de carácter administrativo o penal, atribuibles a las personas servidoras públicas de la Fiscalía General;
+
+III. Derivar al Órgano Interno de Control, aquellas quejas o denuncias que pudieren constituir faltas administrativas;
+
+IV. Emitir lineamientos técnicos jurídicos a los que deban sujetarse las Unidades Administrativas para la operación del sistema de inspección interna, supervisión, investigación y seguimiento de las personas servidoras públicas de la institución en materia sustantiva;
+
+V. Supervisar y realizar evaluaciones técnico-jurídicas a las unidades, áreas y personas servidoras públicas de la Fiscalía General;
+
+VI. Establecer acciones correctivas con base en los resultados de las evaluaciones que se realicen a las unidades, y
+
+VII. Las demás que en su caso le confieran otras disposiciones legales sobre la materia.
+
 ###### Artículo 12.
 
-El Fiscal General emitirá los reglamentos, circulares, instructivos, manuales de organización y de procedimientos, acuerdos, y demás disposiciones que rijan la actuación de los órganos, servidores públicos y funcionarios que integran la Fiscalía General.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2024)
 
 ### Capítulo II. Organización
 
@@ -459,15 +489,23 @@ II. Vicefiscalía de Investigación, Litigación y Justicia Alternativa;
 
 III. Vicefiscalía de Apoyo Procesal;
 
-IV. Fiscalías Especializadas;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-V. Dirección General de Administración;
+IV. Vicefiscalía Distrital de Fresnillo;
 
-VI. Dirección General de Desarrollo y Evaluación;
+V. Fiscalías Especializadas;
 
-VII. Dirección General del Servicio Profesional de Carrera, y
+VI. Dirección General de Administración;
 
-VIII. Los demás que establezca (sic) los reglamentos y otras disposiciones aplicables.
+VII. Dirección General de Desarrollo y Evaluación;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+VIII. Dirección General de Análisis, Estadística, Tecnologías de la Información y Comunicaciones;
+
+IX. Dirección General del Servicio Profesional de Carrera, y
+
+X. Los demás que establezca (sic) los reglamentos y otras disposiciones aplicables.
 
 Cada una de estas áreas estará compuesta según la estructura prevista en los capítulos específicos previstos en la presente Ley Orgánica.
 
@@ -609,9 +647,13 @@ Deberá observar el cumplimiento de los lineamientos para el uso de las facultad
 
 La Vicefiscalía se integrará por una Dirección General de Investigación y Litigación y una Dirección General de Atención Temprana y Justicia Alternativa, cuyos titulares tendrán las atribuciones y obligaciones señaladas en la presente Ley.
 
-La Dirección General de Investigación y Litigación se integrará con las direcciones regionales necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-La Dirección General de Atención Temprana y Justicia Alternativa ejercerá sus funciones a través de la Dirección de Atención Temprana y la Dirección de Justicia Alternativa, mismas que podrán tener representaciones regionales para la prestación de sus servicios.
+La Dirección General de Investigación y Litigación se integrará con las Coordinaciones Regionales necesarias para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+La Dirección General de Atención Temprana y Justicia Alternativa ejercerá sus funciones a través de la Dirección de Atención Temprana y la Dirección de Justicia Alternativa, mismas que podrán tener Coordinaciones Regionales para la prestación de sus servicios.
 
 ###### Artículo 24.
 
@@ -633,9 +675,11 @@ VII. Las demás que les otorguen las leyes correspondientes.
 
 #### Sección Segunda. Vicefiscalía de Apoyo Procesal
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-La Vicefiscalía de Apoyo Procesal estará a cargo de un Vicefiscal, que será nombrado por el Fiscal General.
+La Vicefiscalía de Apoyo Procesal estará a cargo de un Vicefiscal, que será nombrado y removido por el Fiscal General.
 
 ###### Artículo 26.
 
@@ -675,9 +719,7 @@ Cuando preste sus servicios a los particulares que así lo soliciten, previa aut
 
 ###### Artículo 31.
 
-La Fiscalía General ejercerá la conducción y mando de la Policía de Investigación, misma que se organizará en la Dirección General de Policía Investigadora que auxiliará a los fiscales.
-
-Su estructura orgánica y la forma en la que intervendrá se determinará en esta Ley y su Reglamento, así como en los manuales, acuerdos y circulares expedidos por el Fiscal General.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2024)
 
 ###### Artículo 32.
 
@@ -693,17 +735,63 @@ La Policía de Investigación actuará bajo la conducción de la Institución de
 
 Acatarán las instrucciones que se les dicten para tal efecto, cumplirán las actuaciones que les encomienden durante la investigación y deberán hacer cumplir las citaciones, presentaciones y notificaciones que se le ordenen. También ejecutarán las órdenes de aprehensión, cateos y otros mandamientos que dispongan los órganos jurisdiccionales, recepción de denuncias y cumplirán con las responsabilidades de primer respondiente, conforme a las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 33 Bis.
+
+La Vicefiscalía Distrital Fresnillo estará a cargo de una o un Vicefiscal, cuyo nombramiento y remoción serán facultad del Fiscal General.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 33 Ter.
+
+La Vicefiscalía Distrital Fresnillo será la encargada de la atención, investigación, litigación y persecución de aquellos delitos del fuero común cometidos en el territorio del Distrito Judicial de Fresnillo que no sean competencia de las Fiscalías Especializadas.
+
 ### Capítulo V. Fiscalías Especializadas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 34.
 
-Los Fiscales Especializados en Materia de Delitos Electorales, de Combate a la Corrupción; de Derechos Humanos, Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes; de Desaparición forzada de personas y desaparición cometida por particulares, y Trata de Personas, serán nombrados y removidos en los términos establecidos en la Constitución del Estado y en esta Ley. El plazo que tendrá la Legislatura del Estado para objetar la decisión del Fiscal General será de diez días hábiles.
+La Fiscalía General contará con Fiscalías Especializadas en:
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2022)</small>
+I. Atención en Delitos Electorales;
 
-Al momento de su designación, los Fiscales Especializados deberán tener 30 años cumplidos y contar con titulo profesional de grado académico maestría en área del derecho o afin y cédula profesional debidamente registrados.
+II. Combate a la Corrupción;
+
+III. Derechos Humanos, Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+IV. Delitos contra las Mujeres por Razones de Género;
+
+V. Desaparición Forzada de Personas y Desaparición Cometida por Particulares;
+
+VI. Trata de Personas;
+
+VII. Combate al Secuestro, Extorsión y Delitos de Alto Impacto, y
+
+VIII. Asuntos Internos.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 34 Bis.
+
+Los titulares de las Fiscalías Especializadas previstas en las fracciones I, II y III serán nombrados y removidos en los términos establecidos en la Constitución del Estado. El plazo que tendrá la Legislatura del Estado para objetar la decisión del Fiscal General será de diez días hábiles.
+
+Los titulares de las Fiscalías Especializadas previstas en las fracciones IV, V, VI, VII y VIII serán nombrados y removidos por el Fiscal General.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 34 Ter.
+
+Para ser persona titular de alguna de las Fiscalías Especializadas se requiere:
+
+I. Ser ciudadana o ciudadano mexicano;
+
+II. Tener cuando menos treinta años cumplidos el día de la designación;
+
+III. No haber sido condenada o condenado por sentencia ejecutoriada como responsable de un delito doloso, y
+
+IV. Contar con experiencia profesional acreditable en el ejercicio de la materia relacionada con la función que desempeñará.
 
 #### Sección Primera. Fiscalía Especializada en Atención de Delitos Electorales
 
@@ -743,43 +831,33 @@ Para ser Fiscal Especializado en Atención de Delitos Electorales se requiere cu
 
 #### Sección Segunda. Fiscalía Especializada en Combate a la Corrupción
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 37.
 
-Corresponderá a la Fiscalía Especializada en Combate a la Corrupción, la atención, investigación, litigación y persecución de aquellos delitos de su competencia. Cumplirá con las obligaciones impuestas por la Constitución del Estado y las disposiciones del Sistema Estatal Anticorrupción.
-
-Son atribuciones de la Fiscalía Especializada en Combate a la Corrupción:
-
-I. Ejercer las atribuciones que la Constitución, las Leyes Generales, la Constitución del Estado y las demás leyes y los Reglamentos que resulten aplicables;
-
-II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 138 de la Constitución del Estado, en la Ley del Sistema Estatal Anticorrupción y en las demás leyes correspondientes;
-
-III. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que las leyes consideran como delitos en materia de corrupción;
-
-IV. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de corrupción en el ámbito de su competencia;
-
-V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que la ley considera como delitos en materia de corrupción;
-
-VI. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
-
-VII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
-
-VIII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
-
-IX. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
-
-X. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Fiscalía, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
-
-XI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
-
-XII. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos del fuero común en materia de su competencia;
-
-XIII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado, y
-
-XIV. Las demás que de acuerdo a la naturaleza de su función le señalen otras leyes vigentes en el Estado y las que le encomiende el Fiscal General.
+Corresponderá a la Fiscalía Especializada en Combate a la Corrupción, la atención, investigación, litigación y persecución de aquellos delitos previstos en los Títulos Séptimo Bis, Octavo, Noveno, Vigésimo Primero y Vigésimo Segundo del Libro Segundo del Código Penal para el Estado de Zacatecas, así como en la Ley General de Contabilidad Gubernamental, cometidos por las personas servidoras públicas del estado, municipios, organismos autónomos, con excepción de los que prestan sus servicios en la Fiscalía General. Cumplirá con las obligaciones impuestas por la Constitución del Estado y las disposiciones del Sistema Estatal Anticorrupción.
 
 ###### Artículo 38.
 
 Para ser Fiscal Especializado en Combate a la Corrupción se requiere cumplir con los requisitos previstos para los Fiscales Especializados, además deberá contar con conocimiento en los ámbitos de procuración o impartición de justicia, proceso penal acusatorio, así como transparencia, rendición de cuentas o combate a la corrupción; y será nombrado y removido por el Fiscal General en los términos que establece la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 38 Bis.
+
+Corresponderá a la Fiscalía Especializada en Asuntos Internos, la atención, investigación, litigación y persecución de aquellos hechos posiblemente constitutivos de delito, en los que en ejercicio o con motivo de sus funciones hayan intervenido personas servidoras públicas de la Fiscalía General.
+
+Son atribuciones de la Fiscalía Especializada en Asuntos Internos las siguientes:
+
+I. Recibir y gestionar las quejas y denuncias que sean presentadas con motivo de posibles hechos ilícitos de su competencia;
+
+II. Supervisar y realizar evaluaciones técnico-jurídicas a las unidades, áreas y personas servidoras públicas de la Fiscalía General;
+
+III. Investigar y, en su caso, ejercer acción penal y litigar los delitos cometidos por las personas servidoras públicas adscritas a las áreas y unidades de la institución;
+
+IV. Plantear al Fiscal General acciones de mejora con base en los resultados de las supervisiones y evaluaciones técnico-jurídicas que realicen, y
+
+V. Las demás que señalen esta y otras leyes, así como las que le encomiende el Fiscal General.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1273,6 +1351,42 @@ XIV. Colaborar con los Centros de Justicia para las Mujeres de otros Estados de 
 
 XV. Las demás que de acuerdo a la naturaleza de su función le señalen otras leyes y reglamentos vigentes en el Estado y las que le encomiende el Fiscal General.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 44 Bis.
+
+La Fiscalía Especializada en Combate al Secuestro, Extorsión y Delitos de Alto Impacto, contará con autonomía técnica y estará encargada de la atención, investigación, litigación y persecución de los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, así como de los delitos de extorsión en sus diversas modalidades, homicidio doloso, privación ilegal de la libertad y aquellos delitos que lo ameriten por su complejidad técnica, impacto social o mediático que determine el Fiscal General.
+
+Son atribuciones de la Fiscalía Especializada en Combate al Secuestro, Extorsión y Delitos de Alto Impacto, las siguientes:
+
+I. Recibir y dar trámite a las denuncias por hechos que la ley señale como constitutivos de los delitos de su competencia;
+
+II. Coordinar a las Policías y a los servicios periciales durante la investigación;
+
+III. Atraer y recibir las investigaciones que se hayan iniciado en Fiscalías Especializadas o unidades distintas, por los delitos de su competencia, para continuar con su atención e investigación;
+
+IV. Diseñar e implementar estrategias para combatir los hechos que las leyes consideran como delitos en el ámbito de su competencia;
+
+V. Proponer la emisión de lineamientos y protocolos para la investigación y persecución de los delitos de su competencia;
+
+VI. Mantener coordinación con la Coordinación Nacional Antisecuestro para generar acciones conjuntas que abonen a combatir y erradicar el delito de privación ilegal de la libertad, conforme a los Protocolos y Convenios suscritos en la materia;
+
+VII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera delitos de su competencia;
+
+VIII. Establecer mecanismos de coordinación y de interrelación con otras áreas y órganos auxiliares de la Fiscalía General para el óptimo cumplimiento de sus atribuciones, facultades y competencias;
+
+IX. Vigilar que el personal a su cargo se conduzca con estricto apego a la normatividad aplicable en materia penal, de derechos humanos y observe el marco jurídico interno, y
+
+X. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 44 Ter.
+
+El nombramiento y remoción de la persona titular de la Fiscalía Especializada en Combate al Secuestro, Extorsión y de Delitos de Alto Impacto corresponderá al Fiscal General.
+
+Para ser Fiscal Especializado en Combate al Secuestro, Extorsión y Delitos de Alto Impacto, se deberá cumplir con los requisitos previstos en el artículo 34 Ter de esta Ley, así como contar con experiencia en los ámbitos de procuración de justicia, especialmente relacionada con los delitos de secuestro, extorsión o en la investigación en hechos relacionados con delincuencia organizada.
+
 ### Capítulo VI. Direcciones
 
 #### Sección Primera. Dirección General de Administración
@@ -1341,9 +1455,41 @@ VIII. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
 #### Sección Segunda. Dirección General de Desarrollo y Evaluación
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 50.
 
-La Dirección General de Desarrollo y Evaluación dependerá directamente del Fiscal General. Tendrá a su cargo el desarrollo y modernización institucionales a través de la recopilación y el análisis de la información estadística del delito y de los factores económicos, sociales y normativos, que permita el diseño de la política de persecución de la Entidad; así como la implementación de la gestión por resultados en la Fiscalía General, como cultura organizacional sustentada en el presupuesto basado en resultados y la evaluación del desempeño institucional. Sus facultades, funciones y organización quedarán establecidas en el Reglamento.
+La Dirección General de Desarrollo y Evaluación dependerá directamente del Fiscal General; tendrá a su cargo el desarrollo y modernización institucionales que permita el diseño de la política de persecución de la Entidad; así como la implementación de la gestión por resultados en la Fiscalía General, como cultura organizacional sustentada en el presupuesto basado en resultados y la evaluación del desempeño institucional. Sus facultades, funciones y organización quedarán establecidas en el Reglamento.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+#### Sección Segunda Bis. Dirección General de Análisis, Estadística, Tecnologías de la Información y Comunicaciones
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 50 Bis.
+
+La Dirección General de Análisis, Estadística, Tecnologías de la Información y Comunicaciones dependerá directamente del Fiscal General, quien nombrará y removerá a su titular. Será la encargada de concentrar los indicadores estadísticos sobre incidencia delictiva, operación policial y resultados.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 50 Ter.
+
+La Dirección General de Análisis, Estadística, Tecnologías de la Información y Comunicaciones tendrá las siguientes atribuciones:
+
+I. Recopilar información sobre operación delictiva;
+
+II. Elaborar productos de inteligencia y realizar análisis de contexto, para elevar la efectividad de las operaciones policiales y de las acciones sustantivas;
+
+III. Diseñar estrategias y operaciones tácticas para la investigación y persecución de los delitos;
+
+IV. Suministrar información a las áreas de la Fiscalía General encargadas de la investigación y persecución de los delitos, así como auxiliarlas en la aplicación de herramientas tecnológicas;
+
+V. Administrar, asegurar y monitorear la infraestructura de telecomunicaciones de la Fiscalía General;
+
+VI. Generar y coadyuvar en la elaboración e integración de informes estadísticos de incidencia delictiva, operación policial y resultados institucionales, y
+
+VII. Proponer el uso, desarrollo o adquisición de tecnología que abone a los fines institucionales.
 
 #### Sección Tercera. Dirección General del Servicio Profesional de Carrera
 
@@ -1367,9 +1513,17 @@ I. Fiscales;
 
 II. Policías de Investigación;
 
-III. Peritos, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-IV. Facilitadores.
+III. Peritos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+IV. Facilitadores, y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+V. Analistas.
 
 El Servicio Profesional de Carrera de la Fiscalía General contará con tres subsistemas divididos en función de los servidores públicos señalados en el párrafo anterior.
 
@@ -1463,13 +1617,85 @@ Las disposiciones reglamentarias del Servicio Profesional de Carrera se encamina
 
 Las demás disposiciones en materia del Servicio Profesional de Carrera serán establecidas en el Reglamento.
 
-### Capítulo Único. Consejo de la Fiscalía General
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2024)</small>
 
-### Capítulo Único
+### Capítulo V (SIC). Personas analistas
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 61 Bis.
+
+Las personas analistas actuarán bajo la autoridad, conducción y mando de las personas Fiscales del Ministerio Público, en el ejercicio de las siguientes facultades:
+
+I. Realizar el análisis de información estratégica, a través de la elaboración de productos de inteligencia que permitan contar con elementos de información integral para una efectiva integración de los indicios, datos y medios de prueba suficientes que fortalezcan las investigaciones a cargo de la institución;
+
+II. A solicitud de la persona Fiscal del Ministerio Público, analizará el contenido de las carpetas de investigación para sugerir líneas de investigación que posibiliten el esclarecimiento de los hechos y la probable autoría o participación de los responsables;
+
+III. Realizar análisis de contexto sobre fenómenos criminales, reiterados o emergentes para contribuir a la política de persecución penal;
+
+IV. Instrumentar el control y seguimiento de resultados del análisis de la información con el fin de proponer a la persona Fiscal del Ministerio Público el vínculo entre las investigaciones relacionadas con organizaciones delictivas;
+
+V. Realizar reportes estratégicos sobre criminalidad nacional, trasnacional o internacional a efecto de identificar patrones, estructuras, organizaciones, modos de operación, así como cualquier otra información que se considere necesaria, oportuna o útil para la formulación, seguimiento, evaluación y replanteamiento de la Política de Persecución Penal y la investigación de los delitos;
+
+VI. Analizar la información derivada de los sistemas de comunicación inherente a las investigaciones relacionadas con delitos cometidos por organizaciones delictivas;
+
+VII. Implementar y administrar bancos de datos y sistemas de información delincuencial que permitan la consulta, integración y clasificación adecuada de medios de convicción que fortalezcan las investigaciones, así como la investigación y persecución de delitos;
+
+VIII. Efectuar el mantenimiento y control documental de los bancos de datos y de los sistemas de información delincuencial para generar y procesar información relacionada con las investigaciones y persecución de delitos;
+
+IX. Clasificar la información, integrar fichas técnicas y elaborar mapas delincuenciales para la compilación de datos de carácter sensible que permitan vincular e integrar los indicios existentes que fortalezcan las investigaciones a cargo de la Fiscalía General, y
+
+X. Las demás que les confieran otras disposiciones, las que deberán ser compatibles con las atribuciones constitucionales de la Fiscalía General.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+### Capítulo VI. Personas Facilitadoras
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 61 Ter.
+
+Se entiende por persona facilitadora a la persona física certificada, cuya función es propiciar la comunicación y avenencia para la solución de controversias entre las partes a través de los mecanismos alternativos de solución de controversias.
+
+Las y los facilitadores estarán adscritos a la Dirección General de Atención Temprana y Justicia Alternativa y tendrán las siguientes facultades:
+
+I. Participar y acreditar la certificación en los términos de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+II. Actuar con voluntariedad, confidencialidad, flexibilidad, simplicidad, imparcialidad, equidad y honestidad, en congruencia con los principios que establece la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y demás disposiciones aplicables;
+
+III. Vigilar que en los mecanismos alternativos no se afecten derechos de terceras personas, intereses de personas menores de edad, o personas mayores de edad que por alguna discapacidad así lo requieran, disposiciones de orden público o interés social y que estos procuren la reparación del daño;
+
+IV. Abstenerse de participar como testigos, asesores, representantes, patronos o abogados, de las personas intervinientes en los mecanismos alternativos de los cuales conozcan;
+
+V. Excusarse de intervenir en asuntos en los que se vea afectada su imparcialidad, por las causas y en los términos previstos en el Código Nacional;
+
+VI. Solicitar a las personas intervinientes la información necesaria para el cumplimiento eficaz de la función encomendada;
+
+VII. Cerciorarse de que las personas intervinientes comprendan el alcance del acuerdo, así como los derechos y obligaciones que de éste se deriven;
+
+VIII. Verificar que las personas intervinientes participen de manera libre y voluntaria, exentos de coacciones o de cualquier otra influencia que vicie su voluntad;
+
+IX. Mantener el buen desarrollo de los mecanismos alternativos y solicitar respeto de las personas intervinientes durante el desarrollo de estos;
+
+X. Asegurarse de que los acuerdos a los que lleguen las personas intervinientes sean apegados a la legalidad;
+
+XI. Obtener la reparación del daño para las personas víctimas y ofendidos, como resultado de los acuerdos;
+
+XII. Abstenerse de coaccionar a las personas intervinientes para acudir, permanecer o retirarse del mecanismo alternativo;
+
+XIII. Mantener la confidencialidad de la información a la que tengan acceso en el ejercicio de su función, salvo las excepciones previstas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+XIV. Informar de manera periódica, el avance y cumplimiento de los acuerdos, así como su incumplimiento a la persona Fiscal del Ministerio Público o al Juez de Control;
+
+XV. Solicitar a la persona Fiscal del Ministerio Público, la aprobación del acuerdo reparatorio;
+
+XVI. Mantener un registro respecto a los asuntos derivados a justicia alternativa, y
+
+XVII. Las demás que señalen otras disposiciones legales.
 
 ## TÍTULO CUARTO. ÓRGANOS AUXILIARES
 
-### Capítulo Único
+### Capítulo Único. Consejo de la Fiscalía General
 
 ###### Artículo 62.
 
@@ -1507,7 +1733,7 @@ El Consejo de la Fiscalía General estará regulado en el reglamento que para ta
 
 ## TÍTULO QUINTO. ÓRGANO INTERNO DE CONTROL
 
-### Capítulo I. Obligaciones
+### Capítulo Único
 
 ###### Artículo 65.
 
@@ -1515,9 +1741,11 @@ La Fiscalía General contará con un Órgano Interno de Control y el titular ser
 
 El titular del Órgano Interno de Control deberá ser, preferentemente, profesional en derecho y tener una reconocida experiencia en el sistema de justicia penal acusatorio, fiscalización de recursos públicos o rendición de cuentas.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-El Órgano Interno de Control tendrá como encargo prevenir, detectar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas que son distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; así como revisar el ingreso, egreso, manejo, custodia y aplicación de recursos de la Fiscalía General; y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+El Órgano Interno de Control tendrá como encargo prevenir, detectar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas que son distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; así como revisar el ingreso, egreso, manejo, custodia y aplicación de recursos de la Fiscalía General; y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Asuntos Internos.
 
 ###### Artículo 67.
 
@@ -1577,7 +1805,9 @@ XXVI. Atender las quejas e inconformidades que presenten los particulares con mo
 
 XXVII. Conocer e investigar las conductas de los servidores públicos de la Fiscalía General que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Zacatecas y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante dicho Tribunal;
 
-XXVIII. Presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+XXVIII. Presentar las denuncias correspondientes ante la Fiscalía Especializada en Asuntos Internos, en términos de las disposiciones aplicables;
 
 XXIX. Establecer mecanismos, en coordinación con la Dirección General del Servicio Profesional de Carrera, que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
@@ -1605,23 +1835,25 @@ V. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el ser
 
 VI. No haber sido Secretario de Estado, Procurador de Justicia, dirigente o miembro de órgano responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los dos años anteriores a la propia designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 69.
 
-El titular del órgano interno de control de la Fiscalía General, en coordinación con el Director General de Desarrollo y Evaluación, serán responsables de mantener el control de la Fiscalía
-
-General. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y áreas, a la modernización continua y eficiente de la gestión administrativa y al correcto manejo de los recursos.
+La persona titular del Órgano Interno de Control de la Fiscalía General, en coordinación con las personas titulares de la Fiscalía Especializada en Asuntos Internos, de la Dirección General de Desarrollo y Evaluación, de la Dirección General del Servicio Profesional de Carrera y la Dirección General de Administración, tendrá como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y áreas, a la modernización continua y eficiente de la gestión administrativa y al correcto manejo de los recursos en la Fiscalía General.
 
 El Órgano Interno de Control de la Fiscalía se regirá por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción. También se regirá por las normas de organización, funcionamiento de control interno y lineamientos de mejora de gestión interna y los informes que se presenten.
 
 El Órgano Interno de Control deberá presentar en el mes de noviembre su plan anual de trabajo y de evaluación.
 
-El titular del Órgano Interno de Control en coordinación con las áreas de la Fiscalía que le deberán proporcionar información, especialmente con la Dirección General de Desarrollo y Evaluación respecto de los temas de gestión institucional, deberá presentar en los meses de mayo y noviembre un informe al Fiscal General, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por el Tribunal de Justicia Administrativa del Estado y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada de Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por el Órgano Interno de Control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2024)</small>
+
+El titular del Órgano Interno de Control en coordinación con las áreas de la Fiscalía que le deberán proporcionar información, especialmente con la Dirección General de Desarrollo y Evaluación y la Dirección General de Análisis, Estadística, Tecnologías de la Información y Comunicaciones, respecto de los temas de gestión y resultados institucionales, deberá presentar en los meses de mayo y noviembre un informe al Fiscal General, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por el Tribunal de Justicia Administrativa del Estado y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada de Combate a la Corrupción y ante la Fiscalía Especializada en Asuntos Internos, así como un informe detallado del porcentaje de los procedimientos iniciados por el Órgano Interno de Control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
 
 Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, la Fiscalía General implementará las acciones pertinentes para la mejora de la gestión.
 
 ## TÍTULO SEXTO. RESPONSABILIDADES ADMINISTRATIVAS
 
-### Capítulo II. Excusas y Recusaciones
+### Capítulo Único
 
 ###### Artículo 70.
 
@@ -1645,7 +1877,7 @@ VI. Abstenerse de ejercer la acción de extinción de dominio en los casos y en 
 
 La responsabilidad en que incurra el Fiscal General se sujetará a lo establecido en el Título VII, Capítulo Primero, de la Constitución del Estado.
 
-### Capítulo Único. Integración del patrimonio
+### Capítulo I. Obligaciones
 
 ###### Artículo 72.
 
@@ -1739,6 +1971,8 @@ Los servidores públicos que incurran en alguna falta administrativa serán acre
 
 Los servidores públicos sujetos a procedimientos administrativos de responsabilidad, aplicados por el Órgano Interno de Control, podrán recurrir las resoluciones de éste, en los términos establecidos en la Ley General de Responsabilidades Administrativas.
 
+### Capítulo II. Excusas y Recusaciones
+
 ###### Artículo 77.
 
 Todo servidor público de la Fiscalía General deberá excusarse en los asuntos en que intervenga, cuando incurran en una o más de las causas que motivan la excusa de los funcionarios del Poder Judicial, contempladas en el Código Nacional. La excusa deberá ser calificada en definitiva por el Fiscal General.
@@ -1750,6 +1984,8 @@ Cuando, a pesar de tener algún impedimento, el servidor público de quien se tr
 Ningún funcionario o empleado de la Fiscalía General podrá desempeñar otro puesto oficial o ejercer la abogacía, sino en causa propia, de su cónyuge, concubinario o concubinaria, ascendientes o descendientes; tampoco podrá ser corredor, comisionista, apoderado judicial, tutor, curador, albacea judicial, a no ser que tenga interés en la herencia; interventor en una quiebra o concurso, ni árbitro o arbitrador. No quedan comprendidos en esta prohibición los puestos de carácter docente.
 
 ## TÍTULO SÉPTIMO. PATRIMONIO DE LA FISCALÍA GENERAL
+
+### Capítulo Único. Integración del patrimonio
 
 ###### Artículo 79.
 
@@ -1912,3 +2148,27 @@ P.O. 4 DE MAYO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 664.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado Libre y Soberano de Zacatecas, sin perjuicio de lo previsto en los siguientes artículos.
+
+Artículo segundo. La Fiscalía Especializada en Asuntos Internos comenzará a operar dentro de los noventa días naturales posteriores a la publicación del presente Decreto.
+
+Artículo tercero. Dentro de un plazo de sesenta días siguientes a la publicación del presente Decreto, la Fiscalía General de Justicia del Estado de Zacatecas deberá adecuar sus disposiciones normativas internas al contenido de este instrumento legislativo.
+
+Artículo cuarto. Con la finalidad de observar las disposiciones en materia de austeridad, disciplina y responsabilidad financiera, la Fiscalía General de Justicia del Estado deberá observar las reglas siguientes:
+
+a) En el presente ejercicio fiscal, para atender las necesidades de recursos humanos y materiales de las unidades administrativas que se crean mediante el presente Decreto, deberá readscribir personal de otras áreas, con el perfil adecuado; asimismo, las dotará con el equipo y mobiliario disponible de otras áreas y que resulte indispensable para el ejercicio de sus funciones;
+
+b) Con la finalidad de evitar duplicidad de funciones, la Fiscalía General podrá fusionar unidades administrativas y precisar en su reglamentación interna las atribuciones de cada una de ellas;
+
+c) En el proyecto de presupuesto de egresos para el ejercicio fiscal de 2025, la Fiscalía General deberá prever las partidas y recursos necesarios para consolidar las nuevas unidades administrativas, y
+
+d) El Órgano Interno de Control deberá supervisar la observancia de las presentes reglas.
+
+Artículo quinto. Los asuntos en trámite relacionados con hechos de corrupción presuntamente cometidos por servidores públicos de la Fiscalía General de Justicia del Estado de Zacatecas, que actualmente son del conocimiento de la Fiscalía Especializada en Combate a la Corrupción, serán remitidos a la Fiscalía Especializada en Asuntos Internos una vez que entre en funciones, para que se continúe con su debido trámite.
+
+Artículo sexto. Se derogan las disposiciones que contravengan el presente instrumento.
