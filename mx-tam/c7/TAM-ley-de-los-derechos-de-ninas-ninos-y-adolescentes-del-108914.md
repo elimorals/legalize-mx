@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-08-22"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1017,9 +1017,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2024)</small>
 
-XIX. Inculcar en niñas, niños y adolescentes el fomento de hábitos dirigidos a respetar, valorar, proteger y conservar el medio ambiente y el desarrollo sustentable, así como la sensibilización sobre las causas y efectos del cambio climático y el cuidado de los animales.
+XIX. Educar a niñas, niños y adolescentes el fomento de hábitos dirigidos a respetar, valorar, proteger y conservar el medio ambiente y el desarrollo sustentable, así como concientizarlos sobre las causas y efectos del cambio climático y el cuidado de los animales;
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
@@ -1081,13 +1081,17 @@ VIII.- Impartir y promover la educación sexual integral, así como conocimiento
 
 IX.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2024)</small>
 
-X.- Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos; y
+X.- Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2024)</small>
 
-XI.- Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación, asesoría y en su caso, canalización de aquellas personas que lo necesiten a las instancias de salud correspondientes.
+XI.- Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación, asesoría y en su caso, canalización de aquellas personas que lo necesiten a las instancias de salud correspondientes; e
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2024)</small>
+
+XII.- Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
 
@@ -2316,6 +2320,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 22 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-896 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 32 QUATER, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-5 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFO 3, FRACCIÓN XIX; Y SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
