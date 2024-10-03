@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2024-04-11"
+last_updated: "2024-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -107,9 +107,11 @@ El Gobernador determinará cuáles dependencias y entidades de la Administració
 
 El Gobernador procurará que la prestación de los trámites o servicios convenidos se puedan solicitar en línea, conforme a la Estrategia Digital del Estado y a las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-El Gobernador establecerá el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla y la demás legislación aplicable.
+El Gobernador implementará los mecanismos necesarios para regular el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos en términos de lo dispuesto por el artículo 79 de la Constitución Política del Estado Libre y Soberano de Puebla y la demás legislación aplicable.
 
 Asimismo, implementará un sistema de modernización administrativa a través de la innovación gubernamental, la cual tendrá como base el uso general y coordinado de las tecnologías de la información a través de la Estrategia Digital del Gobierno del Estado.
 
@@ -133,7 +135,9 @@ En caso de que el titular de una dependencia o entidad se ausente por más de qu
 
 Los titulares de las dependencias y entidades a que se refiere esta Ley, a través de la unidad administrativa competente, deberán procurar el desarrollo integral de los aspectos mental, técnico, cultural, social y deportivo de los servidores públicos bajo su responsabilidad, de conformidad con lo que dispongan los reglamentos interiores y los ordenamientos legales aplicables.
 
-Deberán asimismo desarrollar e impulsar el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, la modernización administrativa y los principios de gobierno abierto, conforme a lo dispuesto en los tratados internacionales, leyes, reglamentos, programas y disposiciones respectivas.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2024)</small>
+
+Deberán asimismo desarrollar e impulsar los mecanismos para regular el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos, la modernización administrativa y los principios de gobierno abierto, conforme a lo dispuesto en los tratados internacionales, leyes, reglamentos, programas y disposiciones respectivas.
 
 Para el cabal desempeño de sus atribuciones, los titulares fomentarán, en el ámbito de su competencia, la participación ciudadana en los asuntos de interés público.
 
@@ -541,6 +545,10 @@ I. Elaborar y proponer al Gobernador el Plan Estatal de Desarrollo, incluyendo c
 
 II. Llevar a cabo la evaluación del Plan Estatal de Desarrollo y de los programas sectoriales, institucionales, regionales, especiales y anuales, así como de las políticas públicas, conjuntamente con la Secretaría de la Función Pública;
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2024)</small>
+
+II BIS. Coadyuvar con la Secretaría de la Función Pública en el diseño, instrumentación, coordinación y operación del Sistema de Evaluación del Desempeño de la Administración Pública Estatal, así como el monitoreo de indicadores estratégicos;
+
 III. Establecer políticas en materia hacendaría; así como recaudar y administrar los ingresos del estado, de conformidad con los ordenamientos legales vigentes, y los convenios y sus anexos celebrados, entre la Administración Pública Estatal con la Federal o Municipal;
 
 IV. Recibir, concentrar y administrar los ingresos y recursos financieros transferidos por la Federación al estado, así como aquellos que se reciban mediante convenios celebrados con la Federación, otras entidades federativas, los municipios y otras instancias;
@@ -689,7 +697,7 @@ IV. Coordinar y supervisar las áreas que realicen funciones de coordinación ad
 
 V. Analizar y, en su caso, autorizar las propuestas de modificación de las estructuras orgánicas y los sistemas administrativos de las dependencias y entidades, previo análisis y determinación favorable por parte de la Secretaría de Planeación y Finanzas en el ámbito presupuestal; así como verificar su funcionamiento u operación, llevar los registros correspondientes y proponer adecuaciones o nuevos métodos, sistemas, procedimientos, controles y estructuras, con el fin de asegurar una mayor eficiencia en el desarrollo de los programas de gobierno y la modernización constante del mismo;
 
-VI. Coadyuvar con la Secretaría de la Función Pública y con la instancia técnica competente, en el diseño, instrumentación, coordinación y operación del Sistema de Evaluación del Desempeño de la Administración Pública Estatal, así como el monitoreo de indicadores estratégicos, e informar pormenorizadamente a la Secretaría de la Función Pública sobre los resultados de desempeño y su incorporación al proceso de programación y presupuestación;
+VI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2024)
 
 VII. Proporcionar asesoría para la interpretación y aplicación de las leyes administrativas de su competencia, que le sea solicitada por las dependencias y entidades de la Administración Pública, por los ayuntamientos y por los particulares, así como realizar una labor permanente de difusión y orientación administrativa;
 
@@ -699,7 +707,9 @@ IX. Proponer al Gobernador y, en su caso, instrumentar conjuntamente con las Sec
 
 X. Intervenir y asesorar a las demás dependencias en la elaboración de los manuales administrativos y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores;
 
-XI. Dirigir y vigilar en el ámbito administrativo los asuntos del personal al servicio de la Administración Pública del Estado, así como normar y administrar el Servicio Civil de Carrera con base en las disposiciones legales y demás lineamientos en la materia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2024)</small>
+
+XI. Dirigir y vigilar en el ámbito administrativo los asuntos del personal al servicio de la Administración Pública del Estado, así como normar el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos, con base en las disposiciones legales y demás lineamientos en la materia;
 
 XII. Emitir las normas, políticas y lineamientos en materia de administración, remuneración, desarrollo de recursos humanos, que deban observar las dependencias y entidades de la Administración Pública Estatal;
 
@@ -735,7 +745,7 @@ XXVII. Coordinar y ejecutar las acciones establecidas en la Estrategia Digital d
 
 XXVIII. Participar, de manera coordinada con las dependencias y entidades responsables de su integración y administración, en el establecimiento y control de plataformas, sistemas y registros electrónicos o informáticos, de conformidad con sus atribuciones en materia de desarrollo administrativo, mejora regulatoria, gobierno electrónico e innovación tecnológica;
 
-XXIX. Intervenir, en conjunto con la Secretaría de Planeación y Finanzas en los actos o contratos que resulten de los programas de inversión del Gobierno del Estado;
+XXIX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2024)
 
 XXX. Ejecutar, en conjunto con la Secretaría de Planeación y Finanzas, las acciones que resulten necesarias para la instrumentación de proyectos para la prestación de servicios a largo plazo;
 
@@ -753,7 +763,9 @@ A la Secretaría de la Función Pública le corresponde el despacho de los sigui
 
 I. Auditar e inspeccionar el ejercicio del gasto público estatal y su congruencia con la Ley de Egresos del Estado, así como con la debida adecuación del marco normativo que debe regir su ejercicio y el cumplimiento de los objetivos de la planeación; concertar con las dependencias y entidades de la Administración Pública Estatal y solicitar a la autoridad competente o a terceros, dictámenes, peritajes, avalúos y cualquier valoración técnica o económica de documentos e información relacionada con las acciones a que se refiere esta fracción;
 
-II. Organizar, supervisar y coordinar el Sistema de Control Interno de la Administración Pública del Estado y coadyuvar con la Secretaría de Administración y la instancia técnica competente, en la implementación del Sistema de Evaluación del Desempeño y del programa de mejora regulatoria y desregulación en la Administración Pública Estatal, así como recibir los informes de resultados y recomendar el mejoramiento de los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2024)</small>
+
+II. Organizar, supervisar y coordinar el Sistema de Control Interno de la Administración Pública del Estado y coadyuvar con la Secretaría de Planeación y Finanzas como instancia técnica competente, en la implementación del Sistema de Evaluación del Desempeño; así como coadyuvar con la Secretaría de Administración respecto del programa de mejora regulatoria y desregulación en la Administración Pública Estatal, además de recibir los informes de resultados y recomendar el mejoramiento de los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
 III. Expedir las normas y políticas que regulen los instrumentos, procedimientos de control interno y de contraloría social en la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes que expidan normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción y el Comité Coordinador Estatal del Sistema Estatal Anticorrupción;
 
@@ -2248,3 +2260,11 @@ SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido 
 OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado, así como de los lineamientos para el Servicio Civil de Carrera vigentes.
 
 NOVENO. El Gobernador del Estado de Puebla, dentro los noventa días naturales a partir de la entrada en vigor del presente Decreto, expedirá las reformas a los reglamentos interiores correspondientes y en tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
+
+P.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 11; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14; LA FRACCIÓN XI DEL ARTÍCULO 34, LA FRACCIÓN II DEL ARTÍCULO 35, ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 33, Y DEROGA LAS FRACCIONES VI Y XXIX AL ARTÍCULO 34, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
