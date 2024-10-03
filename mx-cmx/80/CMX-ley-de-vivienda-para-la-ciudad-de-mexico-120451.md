@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2024-08-28"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -720,6 +720,14 @@ III. Se garantice el equipamiento urbano básico.
 
 Los Programas de Vivienda deberán apegarse a lo establecido en los ordenamientos jurídicos aplicables en la materia.
 
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+Con la finalidad de dotar de certeza jurídica la ocupación de los inmuebles en los programas de vivienda de carácter popular, social y en arrendamiento, se establecerá expresamente que no podrán ser destinados para fines diversos al objetivo del programa; entre otros, no podrán ser utilizados para los esquemas de estancia turística eventual previstos en la Ley de Turismo de la Ciudad de México.
+
+La restricción prevista en el párrafo anterior, también será aplicable para el caso de vivienda de interés social, popular y sustentable, construida bajo la aplicación de la Norma de Ordenación Número 26.
+
 ### CAPÍTULO III. DEL CONSEJO DE VIVIENDA
 
 ###### Artículo 37.
@@ -1389,3 +1397,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El registro a que se refiere el último párrafo del artículo 2448 F del Código Civil para el Distrito Federal, se llevará a cabo de conformidad con el mecanismo que el Gobierno de la Ciudad de México establezca, en un plazo no mayor a 30 días posteriores a la entrada en vigor del presente decreto.
 
 Los contratos de arrendamiento que se encuentren en curso a la entrada en vigor del presente decreto deberán registrarse por el arrendador en un plazo no mayor a 90 días posteriores a lo señalado en el párrafo anterior.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 61 SEXIES DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO; SE ADICIONA EL ARTÍCULO 36 BIS A LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 22 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación y promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
