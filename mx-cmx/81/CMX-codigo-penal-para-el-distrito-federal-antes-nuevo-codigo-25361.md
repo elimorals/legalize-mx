@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2024-09-27"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -4122,7 +4122,7 @@ Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de la
 
 ### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
 
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2024)</small>
 
 ### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
@@ -4218,11 +4218,13 @@ Cuando el delito se cometa por varias personas de común acuerdo, se impondrá d
 
 ### CAPÍTULO I. DENEGACIÓN O RETARDO DE JUSTICIA Y PREVARICACIÓN
 
-###### Artículo 286.
+###### ARTÍCULO 286.
 
-Al que quebrante los sellos puestos por orden de la autoridad competente, se le impondrán de dos a siete años de prisión y de cien a quinientos días multa.
+Al que altere, destruya o desaparezca los sellos puestos por orden de la autoridad competente, o al que, valiéndose de cualquier medio, quebrante la salvaguarda de los objetos, espacios o inmuebles asegurados por orden de autoridad competente, se le impondrán de dos a siete años de prisión y de cien a quinientos días multa.
 
-Se equipara al delito de quebrantamiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de una construcción de obra, anuncio o establecimiento mercantil, en estado de clausura, que explote comercialmente, realice o promueva actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan incólumes.
+Se equipara al delito de quebrantamiento de sellos y se sancionará con una pena de prisión de seis a doce años y de mil a cinco mil días multa, al titular, propietario, poseedor, representante o responsable de una construcción, edificación, medio publicitario o establecimiento mercantil, en estado de clausura, suspensión de actividades, medida de seguridad o aseguramiento que permita, realice o promueva actos de comercio, construcción o prestación de un servicio, aun cuando los sellos permanezcan incólumes. La misma pena se aplicará, cuando se quebranten los sellos en inmuebles catalogados como de valor histórico, artístico o patrimonial.
+
+A quienes cometan en forma reiterada las conductas previstas en el segundo párrafo, se aumentará en una cuarta parte de la pena de prisión.
 
 Al titular o propietario de una casa habitación en construcción que quebrante los sellos de clausura, se aplicará pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
@@ -6943,3 +6945,9 @@ G.O. 27 DE SEPTIEMBRE DE 2024.
 PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 28 Y SE MODIFICA EL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 286 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
