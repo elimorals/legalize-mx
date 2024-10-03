@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-reconstruccion-integral-de-la-ciudad-de-mexico-1319
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-07"
-last_updated: "2022-10-27"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131975&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-07"
 
 LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 7 de diciembre de 2018.
 
@@ -284,6 +284,10 @@ Se garantizará el apoyo en renta para las personas damnificadas desplazadas, ha
 
 Los modelos de atención serán los mecanismos para llevar a cabo la Reconstrucción de los Inmuebles Afectados unifamiliares y multifamiliares con la finalidad de determinar las acciones para rehabilitación, demolición y reconstrucción.
 
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+Queda prohibido destinar las viviendas que se reconstruyan a partir de lo establecido por esta Ley, a otros fines que no sean los objetivos previstos en los programas de reconstrucción; entre otros, no podrán ser utilizados para los esquemas de estancia turística eventual previstos en la Ley de Turismo de la Ciudad de México.
+
 ###### Artículo 23.
 
 El modelo de atención para rehabilitar, demoler y reconstruir vivienda unifamiliar, contemplará las etapas siguientes:
@@ -332,13 +336,13 @@ b) La redensificación necesaria para distribuir la misma superficie de edificac
 
 Ambos mecanismos se detallarán en el Plan Integral para la Reconstrucción y se garantizará en conjunto con las Personas Damnificadas la opción más adecuada.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], G.O. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2024)</small>
 
-Las Personas Damnificadas que elijan la opción a que se refiere el inciso a), deberán hacer la donación de dicho porcentaje a la Ciudad de México, cuando se trate de inversión pública, para su posterior comercialización y venta por parte de esta. Los recursos que por tal concepto se obtengan, deberán aportarse finalmente al Fideicomiso.
+Las Personas Damnificadas que elijan la opción a que se refiere el inciso a), deberán hacer la donación de dicho porcentaje a la Ciudad de México, cuando se trate de inversión pública, para su posterior comercialización y venta por parte de esta.
 
-> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2024)</small>
 
-La donación a que se refiere el párrafo anterior, la administración, la comercialización y la venta, entre otros relacionados con los inmuebles resultantes del incremento hasta del 35% reconstruidos con inversión pública, se realizarán sin que sean aplicables las disposiciones de la Ley (sic) Régimen Patrimonial y del Servicio Público y de la normatividad que derive de dicho ordenamiento legal.
+Los recursos que por tal concepto se obtengan, deberán aportarse finalmente al Fideicomiso. La donación a que se refiere el párrafo anterior, la administración, la comercialización, la venta y la renta, entre otros relacionados con los inmuebles resultantes del incremento hasta del 35% reconstruidos con inversión pública, se realizarán sin que sean aplicables las disposiciones de la Ley (sic) Régimen Patrimonial y del Servicio Público y de la normatividad que derive de dicho ordenamiento legal.
 
 > <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -531,3 +535,19 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ANTEPENÚLTIMO PÁRRAFO DEL ARTÍCULO 26 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 61 SEXIES DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO; SE ADICIONA EL ARTÍCULO 36 BIS A LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 22 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación y promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
