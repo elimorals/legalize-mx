@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-de-la-ciudad-de-mexico-antes-ley-de-turismo-7627
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-30"
-last_updated: "2024-04-04"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-23"
 
 LEY DE TURISMO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de agosto de 2010.
 
@@ -1292,6 +1292,10 @@ Los anfitriones que inscriban más de tres inmuebles en el Padrón, además de l
 
 La Secretaría podrá eliminar aquellos registros del cuarto inmueble en adelante, de aquel anfitrión cuyo aviso de funcionamiento no sea válido según el Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles o cuyo uso de suelo no permita el giro que señala el aviso o permiso presentado y deberá dar aviso al Instituto de Verificación Administrativa de la Ciudad de México para los efectos que estime pertinentes.
 
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+No se renovará el registro a aquellos inmuebles que hayan tenido ocupación de más del 50 por ciento de las noches del año; en caso de requerir ofertar más inmuebles o por períodos más largos, se estará a lo dispuesto en la Ley de Establecimientos Mercantiles para la Ciudad de México. Los inmuebles que no se puedan renovar por exceder el porcentaje anual de ocupación establecido, podrán registrarse nuevamente pasado un año de la negativa.
+
 Los establecimientos mercantiles que ya se encontraban en operación previo a la creación del padrón de anfitriones, no podrán ser registrados como inmuebles en los términos de la presente Ley por ningún anfitrión.
 
 Estarán exentos de las restricciones establecidas en este artículo, respecto de la cantidad de habitaciones que se pueden registrar, los anfitriones que habiten el inmueble donde se encuentren las habitaciones o cuartos que se oferten en las plataformas tecnológicas, siempre y cuando el inmueble se trate de una casa o departamento, debiendo acreditar esto con el comprobante de domicilio correspondiente que coincida con su identificación oficial o con la carta bajo protesta a que se refiere la fracción II del artículo 61 Quinquies.
@@ -1545,3 +1549,11 @@ QUINTO.- A partir de la fecha de creación del sistema electrónico para el regi
 A partir de su registro las Plataformas Tecnológicas podrán solicitar una prórroga, por única ocasión, para la entrega del reporte referido en la fracción IV del artículo 61 Quáter hasta por 90 días naturales.
 
 SEXTO.- A partir de la fecha de creación del sistema electrónico para el registro de Anfitriones, éstos tendrán un plazo de noventa días naturales para registrarse e incorporar sus inmuebles a dicho Padrón, así como para registrar su constancia y folio dentro de las Plataformas en las que se encuentren ofreciendo sus inmuebles, con lo cual estarán en posibilidad de presentar los informes referidos en el artículo 61 Ter fracción V de la presente Ley.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 61 SEXIES DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO; SE ADICIONA EL ARTÍCULO 36 BIS A LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 22 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación y promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
