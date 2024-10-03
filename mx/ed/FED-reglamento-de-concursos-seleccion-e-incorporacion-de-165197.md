@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-concursos-seleccion-e-incorporacion-de-165197"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-03-23"
-last_updated: "2023-03-23"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165197&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2023-03-07"
 ---
 # REGLAMENTO DE CONCURSOS, SELECCION, E INCORPORACION DE PERSONAL DE CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2023/TSA/reglamentoconcursos-selecciondepersonal-t-agrarios-7032023.pdf.]</small>
+[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN
+
+www.dof.gob.mx/2024/TSA/ReformasReglamentoConcursos-T-agrarios27-08-2024.pdf
 
 REGLAMENTO DE CONCURSOS, SELECCIÓN, E INCORPORACIÓN DE PERSONAL DE CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2023.
 
 Reglamento publicado en el Número 20 del Diario Oficial de la Federación, el jueves 23 de marzo de 2023.
 
@@ -179,7 +181,9 @@ Modalidades de los concursos. Las modalidades de los concursos de oposición a l
 
 I. Cerrados: Son aquellos concursos en los que sólo podrá participar personal que preste sus servicios en los Tribunales Agrarios y que cumplan con los requisitos para ingresar establecidos en la Ley, en este Acuerdo y en la convocatoria respectiva.
 
-En el caso de que se desee participar en un concurso para adquirir una plaza de mayor jerarquía, se debe contar con el nombramiento definitivo, con una antigüedad mínima de un año, mismo que se exhibirá en copia certificada.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
+En el caso de querer participar en un concurso para adquirir una plaza de mayor jerarquía al cargo que venía desempeñando, se debe contar con el nombramiento definitivo con una antigüedad mínima de seis meses.
 
 II. Abiertos: En estos concursos podrá participar cualquier persona que cumpla con los requisitos señalados en la Ley y en el presente Acuerdo.
 
@@ -217,11 +221,13 @@ XII. El desempeño de labores de cuidados familiares para que esta circunstancia
 
 XIII. Las demás que se señalen en el presente Acuerdo.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Publicidad de las convocatorias. Con base en la que se celebren los concursos abiertos, de acuerdo con la disponibilidad presupuestal, se publicarán en el Diario Oficial de la Federación, en el Boletín Judicial Agrario, en uno de los diarios de mayor circulación en el país, así como en la página web de los Tribunales Agrarios.
+Difusión de las convocatorias. Cuando se trate de concursos abiertos y de acuerdo con la disponibilidad presupuestal, se publicarán de manera indistinta en el Diario Oficial de la Federación, en el Boletín Judicial Agrario, en uno de los diarios de mayor circulación en el país, en la página web de los Tribunales Agrarios y en los tableros de avisos de los Tribunales Unitarios, así como en sus sedes alternas.
 
-Las convocatorias internas para la celebración de concursos cerrados se fijarán en los estrados y tableros de avisos de los Tribunales Unitarios, así como en sus sedes alternas, el Tribunal Superior Agrario y el portal de Internet de la institución.
+Las convocatorias internas para la celebración de concursos cerrados se fijarán en los estrados y tableros de avisos de los Tribunales Unitarios, así como en sus sedes alternas, en el Tribunal Superior Agrario y en el portal de internet de la institución.
 
 ###### ARTÍCULO 17.
 
@@ -243,9 +249,23 @@ V. Escrito no mayor de dos cuartillas, en el que conste la exposición de motivo
 
 VI. Escrito bajo protesta de decir verdad en el que manifieste no tener condena por delito intencional que amerite pena privativa de libertad; no estar inhabilitado para desempeñar el servicio público, y que la documentación que presenta, es auténtica.
 
+> <small>(ADICIONADA, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
+VII. Constancia de No Inhabilitación expedida por autoridad competente.
+
+> <small>(ADICIONADA, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
+VIII. Constancia de Antecedentes Penales Federales.
+
 Cuando el Tribunal Superior determine la designación -mediante concurso- de las personas servidoras públicas para ocupar categorías no previstas en forma expresa en este Reglamento, señalará los requisitos necesarios para la inscripción de los participantes.
 
-La Dirección de Recursos Humanos del Tribunal Superior recabará información sobre los antecedentes laborales, integrando el expediente de cada sustentante y verificando que acrediten los requisitos establecidos por la Ley. Quienes hayan cumplido con los mismos, serán notificados por lo menos diez días hábiles anteriores a la celebración de los exámenes.
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
+La Dirección de Recursos Humanos del Tribunal Superior, desde la primera etapa recabará información sobre los antecedentes laborales de la persona sustentante; misma que también estará integrada con la información que sea considerada como relevante por el Órgano Interno de Control y la Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
+Se integrará un expediente por cada persona sustentante, verificando que acrediten los requisitos establecidos por la ley. Quienes hayan cumplido con los mismos, serán notificadas por lo menos 10 días hábiles anteriores a la celebración de los exámenes.
 
 ###### ARTÍCULO 19.
 
@@ -261,59 +281,167 @@ II. Tres Vocalías, integradas por dos Magistraturas de Tribunales Unitarios Agr
 
 III. Secretaría, cuyo nombramiento se dará por medio del Tribunal Superior, atendiendo a la materia o especialidad de las plazas motivo del concurso.
 
+> <small>(ADICIONADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 20 bis. Responsabilidades específicas respecto del Jurado.
+
+Corresponde a:
+
+I. Pleno del Tribunal Superior Agrario
+
+A. Designar de entre sus integrantes a quien presidirá el Jurado.
+
+B. Designar a quienes integren las vocalías, la secretaría técnica y demás personal de apoyo.
+
+C. Conocer la metodología de evaluación.
+
+D. Realizar los nombramientos.
+
+II. Al Jurado
+
+A. Emitir la convocatoria.
+
+B. Dar seguimiento a todas y cada una de las etapas del concurso.
+
+C. Participar en las reuniones que les convoquen.
+
+D. Firmar la documentación de soporte del concurso.
+
+E. Elaborar las evaluaciones que les designen.
+
+F. Intervenir en la forma establecida en cada una de las etapas.
+
+G. Resolver los casos no previstos.
+
+H. Participar en la aplicación de los exámenes, pudiendo estar la totalidad de sus integrantes o sólo la mayoría.
+
+III. A la Presidencia del Jurado
+
+A. Convocar a reuniones.
+
+B. Presidir las sesiones de jurado.
+
+C. Participar en la modalidad aprobada -presencial o virtual- en el desarrollo de las diversas etapas en las que se aplican las evaluaciones.
+
+D. Informar al Pleno del Tribunal Superior Agrario sobre la metodología de evaluación.
+
+La presidencia del jurado debe presentar al Pleno del Tribunal Superior la metodología específica de evaluación para cada una de las plazas, debiendo observar lo dispuesto por este reglamento.
+
+IV. A las Vocalías
+
+A. Asistir a las reuniones a las que les convoquen.
+
+B. Realizar las evaluaciones y proponer los casos prácticos que les sean encomendados.
+
+C. Participar en las reuniones con voz y voto.
+
+D. Desarrollar las comisiones y encargos que les asigne el jurado.
+
+E. Participar en la modalidad aprobada -presencial o virtual- en el desarrollo de las diversas etapas en las que se aplican las evaluaciones.
+
+V. A la Secretaría Técnica
+
+A. Controlar y registrar todas las etapas y acciones previstas en la convocatoria y en el desarrollo del concurso.
+
+B. Participar en las reuniones con voz, pero sin voto.
+
+C. Asentar el resultado de las votaciones en los casos que ameriten aprobación del jurado.
+
+D. Dar cuenta a la presidencia del jurado de todos los actos que ameriten su intervención.
+
+E. Mantener la comunicación con las personas concursantes a través de las áreas correspondientes cuando así lo amerite en cumplimiento a la convocatoria.
+
+F. Prever los espacios físicos para el desarrollo de las reuniones del jurado.
+
+G. Resguardar la documentación que se genere en todas las etapas y crear el expediente al concurso del que se trate.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
-Exámenes. Para cada concurso se deberán de formular los exámenes teóricos y prácticos correspondientes, mismos que se guardarán en sobre cerrado. Los exámenes serán diferentes para cada categoría de plazas que se concursen, tomando en cuenta el perfil necesario para cada puesto. Los exámenes podrán ser de forma presencial o vía remota.
+Exámenes. Para su formulación y aplicación se considerará lo siguiente:
+
+I. Respecto los exámenes
+
+A. Para cada concurso se deberán formular los exámenes teóricos y prácticos correspondientes, mismos que se guardarán en sobre cerrado. Los exámenes serán diferentes para cada categoría de plazas que se concursen, y se elaborarán tomando en cuenta el perfil necesario para cada puesto y tendrán relación con los temas impartidos en los cursos propedéuticos.
+
+B. Se integrarán todas las condiciones tecnológicas necesarias para garantizar que la aplicación de exámenes se haga de manera segura y las respuestas sean otorgadas solo por la persona sustentante.
+
+C. Sin importar del tipo de examen del que se trate, queda prohibido el uso de teléfonos celulares, iPad, y demás dispositivos tecnológicos personales. Excepto aquellos casos que sean indispensables para el desarrollo de la evaluación.
+
+D. Podrán realizarse de forma presencial o vía remota.
+
+II. Corresponde a la Escuela Judicial Agraria
+
+A. Impartir los cursos propedéuticos de preparación a las personas participantes registradas en las convocatorias de selección e incorporación de personal jurisdiccional y carrera jurisdiccional de los Tribunales Agrarios.
+
+B. Organizar e impartir cursos de preparación para los concursos correspondientes a las distintas categorías que componen la carrera judicial de acuerdo con la disponibilidad presupuestal.
+
+C. Elaborar los planes de estudio y las propuestas de temarios.
+
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-Etapas del proceso de selección. Constarán en tres etapas.
+Etapas del proceso de selección
 
-I. Primera etapa. Se conformará por:
+Constará de cuatro etapas:
 
-A. Examen teórico, se basa en reactivos de opción múltiple sobre conocimientos generales de derecho, ingeniería o contaduría -según sea el caso-, relacionados con el cargo a que se aspire, así como temas relativos a las funciones de la categoría que se concurse.
+I. Primera etapa.
 
-B. Únicamente quienes obtengan una calificación igual o superior a ochenta, realizarán los siguientes exámenes:
+A. Examen teórico. Se basa en reactivos de opción múltiple sobre conocimientos generales de derecho, ingeniería o contaduría -según sea el caso- respecto de temas relativos a las funciones de la categoría que se concurse.
 
-1. Examen sobre el uso de computadoras, en especial respecto de los programas de Office.
+B. Sólo quienes obtengan una calificación igual o superior a 80, están autorizadas a pasar a las siguientes etapas.
 
-2. Examen psicométrico, relativo al perfil idóneo para cada puesto. Solamente las personas aspirantes que hayan obtenido una calificación igual o superior a ochenta, pasarán a la siguiente etapa.
+II. Segunda etapa.
 
-II. Segunda etapa. Se compone de la siguiente manera:
+A. Examen sobre el uso de computadoras. En especial respecto los programas de Office.
 
-A. Examen práctico. Consiste en resolver un problema que se planteará sobre cuestiones propias de la categoría a la que se aspire.
+B. Examen psicométrico. Relativo al perfil idóneo para cada puesto.
 
-B. Examen oral. Los integrantes del jurado efectúan preguntas e interpelaciones acerca de cuestiones relacionadas con la función del puesto que se concursa, en referencia a un caso práctico.
+C. Examen práctico. Relativo a resolver problemas que se plantearán sobre funciones propias de la categoría a la que se aspira.
 
-La presidencia del jurado deberá presentar al Pleno del Tribunal Superior la metodología específica de evaluación para cada una de las plazas, debiendo observar lo dispuesto por este Reglamento.
+III. Tercera etapa.
 
-C. Precisiones sobre la evaluación.
+A. Examen oral. Consistente en la realización de preguntas por parte de quienes integran el jurado, acerca de cuestiones relacionadas con la función del puesto que se concursa, en referencia a un caso práctico y a conocimientos generales.
+
+B. Precisiones sobre la evaluación
 
 1. Respecto del caso práctico se considerará el cumplimiento de las formalidades generales y específicas fijadas por las leyes, así como la comprensión de la materia en el problema planteado, tomando en cuenta los siguientes aspectos:
 
-a. Consideraciones relacionadas con la procedencia, forma y fondo;
+A. Consideraciones relacionadas con la procedencia, forma y fondo.
 
-b. Estructura, orden, exhaustividad y congruencia;
+B. Estructura, orden, exhaustividad y congruencia.
 
-c. Argumentación, atendiendo a la solidez de los razonamientos en su vinculación con las leyes y la jurisprudencia aplicables,
+C. Argumentación, atendiendo a la solidez de los razonamientos en su vinculación con las leyes y la jurisprudencia aplicables.
 
-d. Redacción.
+D. Redacción.
 
-2. El resultado de la evaluación oral se determinará con base en el promedio obtenido en las calificaciones que cada miembro del jurado le asigne al sustentante.
+2. El resultado de la evaluación oral se determinará con base en el promedio obtenido en las calificaciones que cada miembro del jurado le asigne a la persona sustentante.
 
-III. Tercera etapa. Comprende lo siguiente:
+IV. Cuarta etapa.
 
-A. Práctica forense. Que consiste en cinco meses en el cargo para el cual se concursó.
+A. Práctica forense. Consiste en el desarrollo del cargo para el cual se concursó por 5 meses.
 
-B. Opinión sobre el desempeño. Al cumplir dicho plazo, la o el titular del Tribunal al que se encuentre adscrita la persona aspirante opinará sobre su desempeño y aptitudes en el servicio público, conforme a los lineamientos determinados por el Tribunal Superior. Tal opinión es considerada como elemento de valoración para la calificación y decisión del Pleno, respecto de su permanencia y definitividad en la plaza. Los lineamientos a considerar son los siguientes: conocimientos, productividad, cumplimiento de los principios de la ética judicial.
+B. Opinión sobre el desempeño. Al cumplir dicho plazo, la persona titular del tribunal al que se encuentre adscrita la persona aspirante opinará sobre su desempeño y aptitudes en el servicio público, conforme a la normatividad que aplica a los Tribunales Agrarios. Se considerarán conocimientos, productividad, cumplimiento de los principios de ética judicial, habilidades prácticas y resultados obtenidos.
 
-C. Indicadores para la opinión sobre el desempeño. Se realizará bajo los siguientes elementos:
+Tal opinión será considerada como un elemento de valoración para la calificación y decisión del pleno, respecto de su permanencia y definitividad en la plaza.
 
-1. Objetividad,
+C. Indicadores para la opinión sobre el desempeño. Tienen como propósito generar estándares objetivos e imparciales para dicha valoración. Considerará de manera enunciativa más no limitativa los siguientes elementos:
+
+1. Objetividad.
 
 2. Cumplimiento de metas.
 
-3. Cumplimiento de principios de ética judicial.
+3. Manejo de estrés y solución de conflictos.
+
+4. Manejo de crisis.
+
+5. Trabajo en equipo.
+
+6. Disposición al trabajo designado.
+
+7. Eficiencia.
 
 ###### ARTÍCULO 23.
 
@@ -337,9 +465,13 @@ Dictamen. El jurado elaborará un acta donde consten los resultados de todos los
 
 El dictamen referido en el párrafo anterior se someterá al Pleno junto con la propuesta de adscripción, con el propósito de que se ordene la expedición del nombramiento correspondiente, el cual se emitirá respetando el principio de paridad y la perspectiva de género.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Comunicación de resultados. Los resultados del proceso se comunicarán por escrito a las personas examinadas y se publicarán en el Boletín Judicial Agrario, en los estrados del Tribunal Superior, así como en las sedes principales y alternas de los Tribunales Unitarios y en la página web oficial, ocho días hábiles posteriores a la celebración de los exámenes.
+Comunicación de resultados. Al término de cada fase se darán a conocer los resultados para continuar en la siguiente etapa.
+
+Los resultados del proceso se comunicarán a las personas examinadas por vía electrónica, y se publicarán en el Boletín Judicial Agrario, en los estrados del Tribunal Superior, así como en los estrados y tableros de avisos en las sedes principales y alternas de los Tribunales Unitarios, y en la página web del Tribunal Superior Agrario, 8 días hábiles posteriores a la celebración de los exámenes.
 
 ###### ARTÍCULO 28.
 
@@ -367,9 +499,11 @@ Inconformidades. La resolución del concurso de selección, así como la adscrip
 
 Las inconformidades respecto a la aceptación de los requisitos, evaluación integral y adscripción serán atendidas por el Jurado, quien personalmente escuchará a la persona inconforme y resolverá de inmediato una vez que tenga conocimiento del caso.
 
+> <small>(REFORMADO, D.O.F. 3 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-Falsedad. Si durante el desarrollo del proceso de selección, o una vez terminado el mismo, se detectase que alguna persona aspirante presentó documentación alterada, ocultó información, o ésta no fue veraz, quedará sin efecto su inscripción y no se le permitirá su permanencia en el proceso. En este caso, no será motivo de selección ni de la emisión de un nombramiento en su favor. De haber sido expedido éste, el Tribunal Superior Agrario procederá en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Falsedad. Si durante el desarrollo del proceso de selección o una vez terminado el mismo, se detectase que alguna persona aspirante presentó documentación alterada, ocultó información o está no fue veraz, o se apoyó de aditamentos tecnológicos sin estar autorizado para ello, quedará sin efecto su inscripción y no se le permitirá su permanencia en el proceso. En este caso, no será motivo de selección, ni de la emisión de un nombramiento en su favor. De haber sido expedido este, el Tribunal Superior Agrario procederá en términos de la Ley General de Responsabilidades Administrativas.
 
 ###### ARTÍCULO 34.
 
@@ -400,3 +534,15 @@ LIC. CARMEN LAURA LÓPEZ ALMARAZ
 SECRETARIO GENERAL DE ACUEDROS
 
 LIC. EUGENIO ARMENTA AYALA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 14/2024 POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL REGLAMENTO DE CONCURSOS, SELECCIÓN E INCORPORACIÓN DE PERSONAL DE CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS”.]
+
+PRIMERO.- Se abrogan todas las disposiciones contrarias al presente acuerdo.
+
+SEGUNDO. Publíquese este acuerdo en los estrados del Tribunal Superior Agrario, en el Diario Oficial de la Federación, así como en la página web del Tribunal Superior Agrario.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
