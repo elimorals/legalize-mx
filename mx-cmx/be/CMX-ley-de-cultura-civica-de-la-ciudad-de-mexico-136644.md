@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2023-03-01"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -622,6 +622,10 @@ IV. Apagar, sin autorización el alumbrado público o afectar algún elemento de
 
 V. Ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra por la posesión de los estupefacientes, psicotrópicos, enervantes o sustancias toxicas;
 
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+V BIS. Vender bebidas alcohólicas en la vía pública a excepción de aquellos casos ubicados dentro de ferias, romerías o festividades, que cuenten con autorización de las instancias administrativas competentes.
+
 VI. Portar, transportar o usar, sin precaución objetos o sustancias que por su naturaleza sean peligrosas y sin observar, en su caso las disposiciones legales aplicables;
 
 VII. Detonar o encender cohetes, juegos pirotécnicos, fogatas o elevar aeróstatos sin permiso de la autoridad competente;
@@ -742,7 +746,7 @@ Para efectos del artículo anterior las infracciones se clasificarán de acuerdo
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 25.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49; 1 DE AGOSTO DE 2019, PÁGINA 50; 1 DE MARZO DE 2023, PÁGINA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49; 1 DE AGOSTO DE 2019, PÁGINA 50; 1 DE MARZO DE 2023, PÁGINA 7; 3 DE OCTUBRE DE 2024, PÁGINA 20.]</small>
 
 ###### Artículo 33.
 
@@ -1835,3 +1839,9 @@ PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de un plazo de 180 días naturales, posteriores a la publicación del presente Decreto, la persona titular de la Jefatura de Gobierno deberá realizar las adecuaciones reglamentarias y normativas correspondientes con la finalidad de dar cumplimiento al mismo.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 28 Y SE MODIFICA EL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 286 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
