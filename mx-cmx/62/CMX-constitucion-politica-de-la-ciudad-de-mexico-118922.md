@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-09-11"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1086,9 +1086,11 @@ h) El acceso gratuito al agua potable para beber en espacios públicos, e
 
 i) El uso de materiales favorables en la construcción y rehabilitación de espacios públicos, incluyendo obras de pavimentación para captación y aprovechamiento de agua pluvial, aguas grises y aguas servidas, así como para la prevención de inundaciones y, si es el caso, también para su infiltración.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 3 DE OCTUBRE DE 2024)</small>
 
-4. El servicio público de potabilización, distribución, abasto de agua y drenaje será prestado por el Gobierno de la Ciudad a través de un organismo público con personalidad jurídica y patrimonio propio, autonomía técnica y de gestión, coordinará las acciones de las instituciones locales con perspectiva innovadora, técnica, científica y metropolitana, así como con visión de cuenca, propiciando minimizar la huella hídrica de la Ciudad. Este servicio de aguas no podrá ser privatizado y deberá contar con un enfoque de gestión basado en datos, para lo cual se deberán crear sistemas de captación de información automatizados en tiempo real, medidores inteligentes y dispositivos de detección de fugas que permitan disminuir paulatinamente las tasas de pérdidas de agua y el incremento del uso eficiente y la disminución per cápita.
+4. El servicio público de potabilización, distribución, abasto de agua y drenaje será prestado por el Gobierno de la Ciudad el cual coordinará las acciones de las instituciones locales con perspectiva innovadora, técnica, científica y metropolitana, así como con visión de cuenca, propiciando minimizar la huella hídrica de la Ciudad. Este servicio de aguas no podrá ser privatizado y deberá contar con un enfoque de gestión basado en datos, para lo cual se deberán crear sistemas de captación de información automatizados en tiempo real, medidores inteligentes y dispositivos de detección de fugas que permitan disminuir paulatinamente las tasas de pérdidas de agua y el incremento del uso eficiente y la disminución per cápita.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
 
 Los nuevos desarrollos residenciales y aquellas obras que por su magnitud, particularidades y actividades que desarrollen, deberán estar obligados a contar con mecanismos de captación de agua de lluvia, así como redes internas de doble tubería que permitan su uso no potable.
 
@@ -4593,3 +4595,11 @@ G.O. 11 DE SEPTIEMBRE DE 2024.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, NUMERAL 4, APARTADO B DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
