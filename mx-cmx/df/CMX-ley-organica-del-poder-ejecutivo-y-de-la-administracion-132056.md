@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2024-05-03"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -288,19 +288,29 @@ I. Secretaría de Gobierno;
 
 II. Secretaría de Administración y Finanzas;
 
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+II BIS. Secretaría de Atención y Participación Ciudadana;
+
 III. Secretaría de la Contraloría General;
 
 IV. Secretaría de Cultura;
 
 V. Secretaría de Desarrollo Económico;
 
-VI. Secretaría de Desarrollo Urbano y Vivienda;
+VI. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 VII. Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
 VIII. Secretaría de Gestión Integral de Riesgos y Protección Civil;
 
-IX. Secretaría de Inclusión y Bienestar Social;
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+VIII BIS. Secretaría de Gestión Integral del Agua;
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+IX. Secretaría de Bienestar e Igualdad Social de la Ciudad de México;
 
 X. Secretaría del Medio Ambiente;
 
@@ -309,6 +319,10 @@ XI. Secretaría de Movilidad;
 XII. Secretaría de las Mujeres;
 
 XIII. Secretaría de Obras y Servicios;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XIII BIS. Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
 XIV. Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes;
 
@@ -320,7 +334,13 @@ XVII. Secretaría de Trabajo y Fomento al Empleo;
 
 XVIII. Secretaría de Turismo; y
 
-XIX. Consejería Jurídica y de Servicios Legales.
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XVIII BIS. Secretaría de Vivienda; y
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XIX. Consejería Jurídica y de Servicios Legales
 
 La Secretaría de Seguridad Ciudadana se ubica en el ámbito orgánico del Poder Ejecutivo y la Administración Pública de la Ciudad de México y se regirá por los ordenamientos específicos que le correspondan.
 
@@ -444,17 +464,19 @@ Cuando alguna Dependencia requiera informes, datos o la cooperación técnica de
 
 ### CAPÍTULO III. De la Competencia de las Dependencias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 26.
 
-A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno, relaciones con órganos y poderes públicos locales y federales, así como la coordinación metropolitana y regional.
+A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno, relaciones con órganos y poderes públicos locales y federales.
 
 Específicamente cuenta con las siguientes atribuciones:
 
 I. Suplir las faltas temporales y absolutas de la persona titular de la Jefatura de Gobierno conforme a lo establecido en el artículo 32, apartado D, numerales 3, 4, 5 y 6 de la Constitución Local;
 
-II. Conducir las relaciones de la persona titular de la Jefatura de Gobierno con los organismos y poderes públicos locales y federales, los gobiernos de las Alcaldías, los órganos de representación ciudadana y los órganos de coordinación metropolitana y regional;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+II. Conducir las relaciones de la persona titular de la Jefatura de Gobierno con los organismos y poderes públicos locales y federales, así como los gobiernos de las alcaldías;
 
 III. Remitir al Congreso Local las iniciativas de leyes y de decretos de la persona titular de la Jefatura de Gobierno;
 
@@ -498,11 +520,13 @@ XXII. Proponer y coordinar, en su caso, las acciones de la persona titular de la
 
 XXIII. Emitir la Alerta por Violencia contra las Mujeres correspondiente, a petición de la Secretaría de las Mujeres de la Ciudad de México;
 
-XXIV. Estrechar y fortalecer la coordinación de la Ciudad de México con los niveles de gobierno que inciden en la zona metropolitana;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2024)</small>
 
-XXV. Coordinar operativamente la planeación metropolitana con la participación de las autoridades locales correspondientes y representar al Gobierno de la Ciudad en la concertación con los gobiernos estatales y municipales de la zona metropolitana, así como con el Consejo de Desarrollo Metropolitano y las demás dependencias competentes en las materias señaladas en la Constitución Federal; la Constitución Local; la Ley de Desarrollo Metropolitano y las demás disposiciones relativas, de acuerdo con los diversos instrumentos de planeación y los estudios y diagnósticos que favorezcan la armonización entre políticas y proyectos, su seguimiento y evaluación;
+XXIV. Estrechar y fortalecer la coordinación de la Ciudad de México con los niveles de gobierno que inciden en la zona metropolitana, en coordinación con la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en los asuntos de su competencia;
 
-XXVI. Impulsar la formulación de instrumentos en los que se concerte la voluntad política de los gobiernos implicados en la coordinación y gestión regional y metropolitana;
+XXV. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
+
+XXVI. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 XXVII. Formular y coordinar la implementación de las políticas de desarrollo cívico, así como organizar los actos cívicos del Gobierno de la Ciudad en coordinación con las Alcaldías;
 
@@ -530,13 +554,39 @@ XXXVII. Emitir, en el ámbito de su competencia y en coordinación con las Alcal
 
 XXXVIII. Vigilar, sistematizar e impulsar la actualización del padrón del comercio en la vía pública en coordinación con las Alcaldías;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2024)</small>
+XXXVIII. Bis. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
-XXXVIII. Bis. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de prevención, atención y promoción a la igualdad y combate a la discriminación, exclusión social, todas las formas de violencia, garantizando el ejercicio de los derechos económicos, sociales, culturales y ambientales, los derechos humanos y libertades fundamentales de las personas LGBTTTI+.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2024)</small>
 
-Proporcionar atención psicosocial y acompañamiento a las personas LGBTTTI+ que sufren violencia y discriminación por orientación sexual, identidad, expresión de género, características sexuales o estatus serológico, y
+XXXIX. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de prevención, atención y promoción a la igualdad y combate a la discriminación, exclusión social, y a todas las formas de violencia, garantizando el ejercicio de los derechos económicos, sociales, culturales y ambientales, los derechos humanos y libertades fundamentales de las personas LGBTTTIQ+;
 
-XXXIX. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XL. Coordinar la atención psicosocial y acompañamiento a las personas LGBTTTIQ+ que sufren violencia y discriminación por orientación sexual, identidad, expresión de género, características sexuales o estatus serológico;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XLI. Coordinar la política que deberá aplicar la Secretaría a efecto de vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país, especialmente en lo que se refiere a los derechos humanos;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XLII. Establecer las comisiones, consejos y comités internos que sean necesarios para el buen funcionamiento de la Secretaría, así como designar a los integrantes de estos;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XLIII. Aprobar la organización y funcionamiento de la Secretaría, adscribir orgánicamente las unidades y órganos administrativos desconcentrados de la Secretaría, e intervenir en las entidades paraestatales agrupadas en el sector coordinado por ésta, en los términos establecidos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XLIV. Determinar la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XLV. Coordinar en el ámbito de competencia de la Ciudad, la atención a personas migrantes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XLVI. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 27.
 
@@ -651,6 +701,32 @@ XLIX. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 Para efectos de lo dispuesto en este artículo, la administración de los recursos financieros por parte de la Secretaría de Administración y Finanzas no excluye, sustituye ni limita la responsabilidad o las atribuciones en el manejo y aplicación de los recursos que corresponda a las Unidades Responsables del Gasto, sus titulares y las personas servidoras públicas encargadas de su administración adscritos a la misma Unidad Responsable del Gasto, así como de las correspondientes a las Alcaldías, sus titulares y las personas servidoras públicas encargadas de la administración en la Alcaldía, en los términos previstos por la legislación aplicable.
 
 Las anteriores atribuciones serán ejercidas sin perjuicio de las conferidas en la materia a las Alcaldías.
+
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+Artículo 27 BIS. A la Secretaría (sic) Atención y Participación Ciudadana le corresponde el despacho de las materias relativas a la atención ciudadana relacionada con el derecho a la buena administración, con base en los principios de interés social, subsidiariedad y la proximidad gubernamental.
+
+Específicamente cuenta con las siguientes atribuciones:
+
+I. Establecer mecanismos que permitan conocer la opinión de la ciudadanía sobre la calidad de los servicios públicos;
+
+II. Establecer mecanismos de desarrollo, promoción y fortalecimiento del diálogo social, respecto de los servicios y políticas públicas de la Ciudad;
+
+III. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de estrategias y acciones que fomenten el involucramiento ciudadano en asuntos públicos y en la solución de problemas comunes o en aquellos que la ley así lo disponga, basado en una cultura de corresponsabilidad con el gobierno;
+
+IV. Coordinar procesos de atención y seguimiento de demandas sociales en la Ciudad de México;
+
+V. Coordinar las acciones necesarias para garantizar el ejercicio pleno de la democracia directa y participativa en los términos previstos por la Constitución y las leyes respectivas;
+
+VI. Coadyuvar con las Secretarías en los procesos de atención y seguimiento de demandas sociales en la Ciudad de México;
+
+VII. Establecer mecanismos de coordinación con las Alcaldías, las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Entidades competentes y con la ciudadanía;
+
+VIII. Coordinar los procesos de planeación y difusión de los programas y acciones del Gobierno de la Ciudad de México que faciliten y promuevan el fortalecimiento del vínculo entre ciudadanía y Gobierno;
+
+IX. Representar a la persona titular de la Jefatura de Gobierno, ante las autoridades, comisiones, comités, grupos de trabajo y demás organismos que se ocupen de temas relativos a la atención y participación ciudadana; y
+
+X. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 28.
 
@@ -882,9 +958,11 @@ XXVI bis. Proponer a la persona titular de la Jefatura de Gobierno mecanismos y 
 
 XXVII. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 31.
 
-A la Secretaría de Desarrollo Urbano y Vivienda corresponde el despacho de las materias relativas al ordenamiento territorial, desarrollo urbano sustentable y coadyuvar a la protección del derecho humano a la vivienda.
+A la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana corresponde el despacho de las materias relativas al ordenamiento territorial y desarrollo urbano sustentable.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -926,7 +1004,7 @@ XVIII. Registrar y supervisar las actividades de los peritos y directores respon
 
 XIX. Autorizar y vigilar los trabajos de explotación de yacimientos de arena, cantera, tepetate, piedra y arcilla; revocar las autorizaciones, cuando los particulares no cumplan las disposiciones legales y administrativas aplicables, así como rehabilitar las zonas minadas para el desarrollo urbano;
 
-XX. Formular la política habitacional para la Ciudad y promover y coordinar la gestión y ejecución de programas públicos de vivienda;
+XX. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 XXI. Conocer y resolver los estudios de impacto urbano e impacto urbano ambiental;
 
@@ -934,7 +1012,7 @@ XXII. Generar criterios técnicos, para realizar diagnósticos en materia de des
 
 XXIII. Generar, en coordinación con las dependencias y entidades competentes, el sistema de información geográfica del patrimonio ambiental y urbano de la Ciudad;
 
-XXIV. Realizar la planeación metropolitana, en coordinación con las instancias gubernamentales competentes;
+XXIV. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 XXV. Elaborar y operar un registro de los instrumentos de planeación del desarrollo urbano;
 
@@ -944,7 +1022,79 @@ XXVI. Conducir, normar y ejecutar la política de espacio público en la Ciudad;
 
 XXVII. Proveer a la autoridad competente la información y datos sobre el patrimonio cultural y natural de la ciudad, para su registro; y
 
-XXVIII. Las demás que le atribuyan las leyes y otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXVIII. Promover, apoyar y ejecutar las acciones y programas de regularización de la tenencia de la tierra y en su caso, proponer a la persona titular de la Jefatura de Gobierno por conducto de la Secretaría de Gobierno, que emita la declaratoria correspondiente de expropiación u ocupación en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXIX. Crear y conducir la Comisión Interinstitucional de la Regularización Territorial;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXX. Revisar el marco normativo en las materias competencia de la Secretaría, y proponer proyectos de iniciativas y reformas a las leyes y demás instrumentos jurídicos necesarios, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXI. Coordinar el Sistema Integral de información de Regularización Territorial, para el cual se deberá privilegiar el uso de las tecnologías de la información, así como con la Consejería Jurídica y de servicios legales para una eficientización de los trámites;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXII. Conducir en materia de coordinación metropolitana y regional, las relaciones de la persona titular de la Jefatura de Gobierno con los organismos y poderes públicos locales y federales, los gobiernos de las Alcaldías y los órganos de representación ciudadana;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXIII. Estrechar y fortalecer la coordinación de la Ciudad de México con los niveles y poderes de gobierno que inciden en la zona metropolitana;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXIV. Coordinar operativamente la planeación metropolitana con la participación de las autoridades correspondientes y representar al Gobierno de la Ciudad en la concertación con los gobiernos estatales, municipales y los que correspondan.
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXV. Realizar en coordinación con el Colegio de Notarios de la Ciudad de México a través de la Consejería Jurídica y de Servicios Legales y con las autoridades fiscales y administrativas competentes, la Jornada Notarial en términos de lo dispuesto por la Ley del Notariado de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXVI. Establecer, coordinar, ejecutar y evaluar las políticas, estrategias y acciones para la instalación, mantenimiento, distribución, permanencia y retiro de los medios publicitarios de su competencia;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXVII. Otorgar y revocar las licencias relativas a la instalación de medios publicitarios conforme a lo dispuesto en la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXVIII. Determinar los corredores publicitarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXIX. Las demás que le atribuyan las leyes y otros ordenamientos.
+
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+Artículo 31 BIS. A la Secretaría de Gestión Integral del Agua le corresponde el diseño de las políticas públicas que garanticen el derecho humano al agua y saneamiento, la prestación del servicio público de agua potable, drenaje, saneamiento, alcantarillado, tratamiento y reúso de aguas residuales, así como el uso eficiente de aguas pluviales, para la gestión de las aguas de la Ciudad.
+
+Específicamente, cuenta con las siguientes atribuciones:
+
+I. Prestar, planear, gestionar, regular, supervisar, construir y coordinar los servicios de agua potable, de drenaje, alcantarillado, saneamiento tratamiento y reúso de las aguas residuales que correspondan a la Ciudad de México, conforme a los instrumentos legales y normativos aplicables;
+
+II. Proponer a la persona titular del Poder Ejecutivo de la Ciudad de México, la Política Hídrica integral de la entidad y el Programa Hídrico de la Ciudad de México; así como la emisión de normativa en materia de aguas de jurisdicción de la Ciudad y alcaldías, que deberán contar con perspectiva de género y derechos humanos.
+
+III. Coordinar el Sistema Meteorológico e Hidrométrico de la Ciudad de México en coordinación con las dependencias relacionadas, conforme a la legislación aplicable;
+
+IV. Formular y ejecutar programas de obras de abastecimiento de agua potable, drenaje, alcantarillado, saneamiento, tratamiento y reúso de aguas residuales, captación, así como la realización de todas aquellas obras relacionadas con su objeto;
+
+V. Coordinarse con la Federación, en el diseño y ejecución de los planes y programas para el abastecimiento de aguas, tratamiento, servicios de drenaje y alcantarillado, así como la captación y uso eficiente de aguas pluviales;
+
+VI. Gestionar la celebración de convenios de coordinación y colaboración, para el cumplimiento de sus atribuciones.
+
+VII. Representar al Gobierno de la Ciudad de México ante los Consejos de Cuenca hidrológica que se encuentren constituidos por la Comisión Nacional del Agua, dentro de (sic) territorio de la Entidad o en conjunto con otros estados;
+
+VIII. Planear, coordinar y ejecutar, acciones y programas para la sustentabilidad y resiliencia de las fuentes actuales y futuras de abastecimiento de agua para la Ciudad de México.
+
+IX. Participar en el Gabinete Metropolitano del Agua para evaluar y atender la estrategia hídrica del Valle de México; y
+
+X. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
 
 ###### Artículo 32.
 
@@ -1204,9 +1354,11 @@ XXXVI. Participar en la integración de la Junta de Gobierno del Heroico Cuerpo 
 
 XXXVII. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 34.
 
-A la Secretaría de Inclusión y Bienestar Social corresponde el despacho de las materias relativas a bienestar social, política social, alimentación, igualdad, inclusión, recreación, deporte, información social, servicios sociales, y comunitarios, garantías y promoción de derechos económicos, sociales, culturales y ambientales.
+A la Secretaría de Bienestar e Igualdad Social de la Ciudad de México le corresponde el despacho de las materias relativas a bienestar social, política social, alimentación, igualdad, inclusión, recreación, deporte, información social, servicios sociales, y comunitarios, garantías y promoción de derechos económicos, sociales, culturales y ambientales.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1246,13 +1398,17 @@ XIV. Coordinar y participar en programas y actividades recreativas y culturales,
 
 XV. Establecer, ejecutar, orientar y coordinar políticas, programas y acciones en materia de política social y derechos económicos, sociales, culturales y ambientales en la Ciudad, para planear, conducir y operar un sistema general de bienestar social al que concurrirán las instancias encargadas de las materias correspondientes;
 
-XVI. Establecer mecanismos para la planeación, documentación, monitoreo; evaluación, comunicación para el desarrollo, promoción de la contraloría social, y la coordinación interinstitucional para el cumplimiento de normas, sistemas y modelos diseñados en materia de la política social y derechos económicos, sociales, culturales y ambientales en la Ciudad;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XVI. Establecer la coordinación interinstitucional para el cumplimiento de normas, sistemas y modelos diseñados en materia de la política social;
 
 XVII. Establecer, fomentar, coordinar, crear y ejecutar políticas públicas, programas y medidas de nivelación, inclusión y acción afirmativa de manera transversal encaminadas a preservar, ampliar, promover, proteger y garantizar los derechos económicos, sociales, culturales y ambientales establecidos dentro de la Constitución Local, de conformidad con los principios de universalidad, interdependencia, indivisibilidad, complementariedad, integralidad, progresividad y no regresividad.
 
 XVIII. Establecer, fomentar, coordinar, crear, ejecutar y evaluar programas para todos aquellos que habiten en un condominio y/o unidad habitacional privilegiando la sana convivencia a través de la Procuraduría Social; de conformidad con la legislación aplicable en la Ciudad; y
 
 XIX. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 3 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 35.
 
@@ -1278,9 +1434,9 @@ VIII. Establecer y operar los sistemas de monitoreo de contaminantes de cualquie
 
 IX. Establecer, autorizar y operar, en coordinación con las autoridades federales y locales competentes, los programas y medidas para prevenir y controlar contingencias y emergencias ambientales;
 
-X. Dictar, en coordinación con el organismo público correspondiente, las políticas públicas y normatividad que garanticen el derecho humano al agua y saneamiento, así como supervisar los programas de ahorro, tratamiento y reúso de agua en la Ciudad;
+X. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
-XI. Coordinar al organismo público responsable de la construcción y operación hidráulica y de prestar el servicio público de potabilización, distribución, abasto de agua y drenaje, así como analizar y proponer las tarifas correspondientes;
+XI. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 XII. Regular todas las actividades relacionadas con los residuos de manejo especial y los sólidos municipales, así como el ejercicio de las atribuciones locales en materia de residuos peligrosos;
 
@@ -1296,7 +1452,7 @@ XVII. Desarrollar programas que fomenten la autorregulación y la auditoría amb
 
 XVIII. Expedir normas ambientales para la Ciudad en materias de competencia local;
 
-XIX. Establecer y actualizar el registro de emisiones y transferencia de contaminantes, el registro de las fuentes fijas de competencia de la Ciudad y el registro de descargas de aguas residuales que se viertan en los sistemas de drenaje y alcantarillado o a cuerpos receptores de competencia de la Ciudad;
+XIX. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 XX. Crear y regular el Sistema de Certificación y Acreditación Ambiental;
 
@@ -1728,9 +1884,45 @@ XV. Comercializar derivaciones de la marca turística de la CDMX; y
 
 XVI. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+Artículo 42 BIS. A la Secretaría de Vivienda, le corresponde el despacho de la materia de vivienda, así como planear, coordinar el diseño, la elaboración, la promoción, la ejecución, la supervisión y la evaluación de la política y los programas de vivienda aplicables, con la participación de los sectores público, privado, social, colegios, académicos, entre otros.
+
+Específicamente cuenta con las siguientes atribuciones:
+
+I. Proponer la integración, coordinación, análisis y ejecución de la política de vivienda de la Ciudad de México;
+
+II. Contribuir con la Administración Pública en la proyección, diseño y ejecución del Programa de Vivienda de la Ciudad de México, incluyendo a los que formen parte de comunidades indígenas, personas jóvenes, personas mayores, madres solteras, mujeres jefas de familia y personas con discapacidad, o que habitan en sitios de alto riesgo, así como a población asentada en campamentos o en inmuebles con valor patrimonial, incentivando al mismo tiempo la producción social de vivienda en favor de la población de escasos recursos económicos de la Ciudad de México, así como en la coordinación con los organismos de vivienda de la Ciudad de México;
+
+III. Fomentar la creación, uso, mejoramiento y modificación de los espacios urbanos requeridos para el Programa de Vivienda, así como del Programa General de Desarrollo Urbano de la Ciudad de México;
+
+IV. Formar parte de la Comisión de Evaluación de Asentamientos Humanos Irregulares y/u otros órganos colegiados que le competan;
+
+V. Celebrar los actos jurídicos, contratos y convenios, que sean necesarios para el cumplimiento de su objeto, en coordinación con la Consejería Jurídica y de Servicios Legales;
+
+VI. Coordinar con la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana para la promoción y apoyo de las acciones de regularización de la tenencia de la tierra en la Ciudad de México, así como en los casos que dicha regularización, requiera la tramitación ante instancias judiciales de procedimientos específicos;
+
+VII. Crear en coordinación con la Agencia de Innovación Digital, sistemas informáticos para la simplificación administrativa, transparencia y combate a la corrupción en las solicitudes que realice la ciudadanía para la adquisición y entrega de vivienda social;
+
+VIII. Establecer programas que fomenten el derecho a la vivienda asequible a la población de la Ciudad de México, priorizando a las personas de menores ingresos;
+
+IX. Coordinar las acciones que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías, realicen con motivo de la demolición, rehabilitación, y/o reconstrucción de infraestructura, equipamiento y vivienda, afectados por el sismo a que se refiere la Ley para la Reconstrucción Integral de la Ciudad de México.
+
+X. Coordinar el seguimiento de las acciones en materia de reconstrucción que se realicen para la atención de las personas damnificadas por el sismo;
+
+XI. Coordinar las acciones que adopten otros organismos públicos relacionados con la vivienda de interés social y popular;
+
+XII. Procurar el cumplimiento de la Ley de Propiedad en Condominios de Inmuebles del Distrito Federal y participar en la aplicación de mecanismos de participación ciudadana y convivencia armónica entre vecinos;
+
+XIII. Proponer a la persona titular de la Jefatura de Gobierno, que emita la declaratoria correspondiente de expropiación en los términos de las disposiciones jurídicas aplicables; y
+
+XIV. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 43.
 
-A la Consejería Jurídica y de Servicios Legales corresponde el despacho de las materias relativas a las funciones de orientación, asistencia, publicación oficial y coordinación de asuntos jurídicos; regularización de la tenencia de la tierra; elaboración y revisión de los proyectos de iniciativas de leyes y decretos que presente la persona titular de la Jefatura de Gobierno al Congreso Local, así como de los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos y administrativos que se sometan a consideración de la persona titular de la Jefatura de Gobierno, y la prestación de los servicios relacionados con el Registro Civil, el Registro Público de la Propiedad y de Comercio, el Archivo General de Notarías y Justicia Cívica.
+A la Consejería Jurídica y de Servicios Legales corresponde el despacho de las materias relativas a las funciones de orientación, asistencia, publicación oficial y coordinación de asuntos jurídicos; elaboración y revisión de los proyectos de iniciativas de leyes y decretos que presente la persona titular de la Jefatura de Gobierno al Congreso Local, así como de los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos y administrativos que se sometan a consideración de la persona titular de la Jefatura de Gobierno, y la prestación de los servicios relacionados con el Registro Civil, el Registro Público de la Propiedad y de Comercio, el Archivo General de Notarías y Justicia Cívica.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1790,13 +1982,31 @@ XXVII. Tramitar los indultos que se vayan a conceder a los reos sentenciados por
 
 XXVIII. Presidir la Comisión de Estudios Jurídicos del Gobierno de la Ciudad de México, integrada por los responsables de las áreas de asuntos jurídicos de las Dependencias, que tendrá por objeto la coordinación en materia jurídica; también podrá invitarse a participar en la Comisión a los responsables de las áreas jurídicas de los Órganos Desconcentrados y Entidades cuando así lo estime conveniente la persona titular de la Consejería Jurídica y de Servicios Legales;
 
-XXIX. Promover, apoyar y ejecutar las acciones y programas de regularización de la tenencia de la tierra y en su caso, proponer a la persona titular de la Jefatura de Gobierno por conducto de la Secretaría de Gobierno, que emita la declaratoria correspondiente de expropiación u ocupación en los términos de las disposiciones jurídicas aplicables;
+XXIX. (DEROGADA, G.O. 3 DE OCTUBRE DE 2024)
 
 XXX. Celebrar, otorgar y suscribir contratos, convenios, escrituras públicas y demás actos jurídicos de cualquier índole en el ámbito de su competencia;
 
 XXXI. Realizar en coordinación con el Colegio de Notarios de la Ciudad de México y con las autoridades fiscales y administrativas competentes, la Jornada Notarial en términos de lo dispuesto por la Ley del Notariado de la Ciudad de México; y
 
-XXXII. Las demás que le atribuyan las Leyes y otros ordenamientos jurídicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXII. Llevar el registro de los nombramientos de las personas titulares de las unidades encargadas del apoyo jurídico de las dependencias, incluso a las de sus órganos administrativos desconcentrados, y de las entidades paraestatales de la Administración Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXIII. Emitir los lineamientos a los que deban sujetarse las dependencias y entidades de la Administración Pública de la Ciudad de México, para la elaboración, revisión y trámite de proyectos de iniciativas de reformas Constitucionales o legales, leyes reglamentos, decretos, acuerdos y demás instrumentos de carácter jurídico que deban ser sometidos a la consideración y, en su caso a firma de la persona Titular de la Jefatura de Gobierno;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXIV. Llevar el registro de los contratos y convenios suscritos por las Dependencias, órganos administrativos de la Administración Pública de la Ciudad de México, en coordinación de aquellos que son competencia de la Secretaría de Administración y Finanzas;
+
+> <small>(ADICIONADA, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXV. Llevar el registro de los procedimientos de carácter contencioso que se encuentren en trámite a nivel federal y local, en donde sea (sic) parte las Dependencias y Órganos de la Administración Pública de la Ciudad de México; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE OCTUBRE DE 2024)</small>
+
+XXXVI. Las demás que le atribuyan las Leyes y otros ordenamientos jurídicos.
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -2433,3 +2643,71 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Secretaría de Inclusión y Bienestar de la Ciudad de México, habrá de concluir las acciones y programas en curso en la materia de la reforma del presente decreto, a más tardar en el ejercicio 2024.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LAS (SIC) FRACCIÓN IX, SE ADICIONAN LAS FRACCIONES II BIS, VIII BIS, XIII BIS, XVIII Y SE DEROGA LA FRACCIÓN VI AL ARTÍCULO 16; SE REFORMAN EL PÁRRAFO PRIMERO Y LAS FRACCIONES II, XXIV Y XXXIX, SE ADICIONAN LAS FRACCIONES XL, XLI, XLII, XLIII, XLIV, XLV Y XLVI Y SE DEROGAN LAS FRACCIONES XXV Y XXVI Y XXXVIII BIS AL ARTÍCULO 26; SE REFORMAN EL PÁRRAFO PRIMERO Y LA FRACCIÓN XXVIII, SE DEROGAN LAS FRACCIONES XX Y XXIV Y SE ADICIONAN LAS FRACCIONES XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII Y XXXIX, AL ARTÍCULO 31; SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN XVI DEL ARTÍCULO 34; SE REFORMA EL PRIMER PÁRRAFO, SE DEROGAN LAS FRACCIONES X, XI Y XIX DEL ARTÍCULO 35; SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN XXXII, SE DEROGA LA FRACCIÓN XXIX Y SE LE ADICIONAN LAS FRACCIONES XXXIII, XXXIV, XXXV Y XXXVI AL ARTÍCULO 43; Y SE ADICIONAN LOS ARTÍCULOS 27 BIS, 31 BIS Y 42 BIS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Congreso de la Ciudad de México, en un plazo no mayor a 90 días hábiles a partir de la entrada en vigor del presente Decreto, realizará las reformas necesarias a las leyes respectivas, en relación con las atribuciones que se confieren a las dependencias que se crean o modifican por virtud del presente Decreto.
+
+CUARTO.- La Secretaría de Administración y Finanzas y la Secretaría de la Contraloría General, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente Decreto, escuchando previamente la opinión de la Secretaría u organismo involucrado.
+
+QUINTO.- Los recursos humanos, tecnológicos, financieros y materiales con que cuenten las Secretarías u organismos cuya adscripción cambia por disposición o a consecuencia del presente Decreto serán transferidos o reasignados a su nueva dependencia en un plazo máximo de 180 días hábiles a partir de la entrada en vigor del mismo. Concluido este proceso se realizarán los registros correspondientes.
+
+SEXTO.- Los titulares de las dependencias a que se refiere el presente Decreto serán coordinadores del proceso de transferencia o reasignación de los recursos mencionados en el artículo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública en el ámbito de su competencia.
+
+SÉPTIMO.- Los recursos materiales, tecnológicos, financieros y humanos de la Coordinación General de Participación Ciudadana de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México, se transferirán o reasignarán a la Secretaría de Atención y Participación Ciudadana de la Ciudad de México, junto con los expedientes, archivos, acervos y demás documentación que se encuentre bajo su resguardo en cualquier tipo de formato.
+
+OCTAVO.- Los asuntos y trámites administrativos que con motivo de este decreto deban pasar de la Coordinación General de Participación Ciudadana de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México a la Secretaría de Atención y Participación Ciudadana de la Ciudad de México, permanecerán en el último trámite que hubieren alcanzado y serán substanciados por la nueva dependencia de adscripción según corresponda en los términos que establezca la ley.
+
+NOVENO.- Las disposiciones, lineamientos, criterios y demás normativa expedida por la Coordinación General de Participación Ciudadana de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México deberán continuar vigentes en lo que no se oponga al presente Decreto, en tanto la Secretaría de Atención y Participación Ciudadana determine su modificación o abrogación.
+
+DÉCIMO.- Los recursos materiales, tecnológicos, financieros y humanos del Sistema de Aguas de la Ciudad de México se transferirán con la participación de la Secretaría del Medio Ambiente, a la Secretaría de Gestión Integral del Agua, junto con los expedientes, archivos, acervos y demás documentación, que se encuentre bajo su resguardo en cualquier tipo de formato, de conformidad con las disposiciones legales y administrativas aplicables.
+
+DÉCIMO PRIMERO.- Los asuntos y trámites administrativos que con motivo de este decreto deban pasar del Sistema de Aguas de la Ciudad de México a la Secretaría de Gestión Integral del Agua, permanecerán en el último trámite que hubieren alcanzado y serán substanciados por la nueva dependencia de adscripción según corresponda, en los términos que establezcan las disposiciones legales y administrativas aplicables.
+
+DÉCIMO SEGUNDO.- Las disposiciones, lineamientos, criterios y demás normativa expedida por el Sistema de Aguas de la Ciudad de México, deberán continuar vigentes en lo que no se oponga al presente Decreto, en tanto la Secretaría de Gestión Integral del Agua determine su modificación o abrogación.
+
+DÉCIMO TERCERO.- El Sistema de Aguas de la Ciudad de México quedará sectorizado a la Secretaría de Gestión Integral del Agua, ejerciendo las facultades que le correspondan de conformidad con las disposiciones legales y administrativas aplicables.
+
+DÉCIMO CUARTO.- La Comisión de Reconstrucción quedará adscrita a la Secretaría de Vivienda de la Ciudad de México.
+
+DÉCIMO QUINTO.- Las referencias hechas a la Secretaría de Salud se entenderán referidas a la Secretaría de Salud Pública de la Ciudad de México.
+
+DÉCIMO SEXTO.- Los recursos materiales, tecnológicos, financieros y humanos de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México se transferirán o reasignarán a la Secretaría (sic) Planeación, Desarrollo Territorial y Metropolitano de la Ciudad de México, junto con los expedientes, archivos, acervos y demás documentación, que se encuentre bajo su resguardo en cualquier tipo de formato.
+
+DÉCIMO SÉPTIMO.- Los asuntos y trámites administrativos que con motivo de este decreto deban pasar de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, permanecerán en el último trámite que hubieren alcanzado y serán substanciados por la nueva dependencia de adscripción según corresponda en los términos que establezca la ley.
+
+DÉCIMO OCTAVO.- Las referencias hechas a la Coordinación General de Participación Ciudadana de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México en otros ordenamientos deberán entenderse hechas a la Secretaría de Atención y Participación Ciudadana de la Ciudad de México, a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO NOVENO.- Las referencias hechas al Sistema de Aguas de la Ciudad de México en otros ordenamientos deberán entenderse hechas a la Secretaría de Gestión Integral del Agua, a partir de la entrada en vigor de este Decreto, en los términos que establezcan las disposiciones legales y administrativas aplicables.
+
+VIGÉSIMO.- El Instituto de la Vivienda quedará sectorizado a la Secretaría de Vivienda de la Ciudad de México.
+
+VIGÉSIMO PRIMERO.- Las referencias hechas a la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México deberán entenderse hechas a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana de la Ciudad de México, en lo relativo a las atribuciones que se le otorgan con motivo de la entrada en vigor del presente Decreto.
+
+VIGÉSIMO SEGUNDO.- Las referencias hechas a la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México deberán entenderse hechas a la Secretaría de Vivienda de la Ciudad de México, en lo relativo a las atribuciones que se le otorgan con motivo de la entrada en vigor del presente Decreto.
+
+VIGÉSIMO TERCERO.- Los derechos de las personas trabajadoras pertenecientes a los organismos y dependencias que señala este decreto, serán respetados en los términos que establecen las leyes aplicables.
+
+VIGÉSIMO CUARTO.- La persona titular de la Jefatura de Gobierno de la Ciudad de México deberá en un plazo máximo de 90 días hábiles, contado a partir de la entrada en vigor del presente Decreto expedir las modificaciones al Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, y una vez que se hayan llevado a cabo los ajustes jurídico-administrativos y presupuestales necesarios y se dictamine la nueva estructura de la Administración Pública de la Ciudad.
+
+Las atribuciones con que cuentan las dependencias y entidades que por virtud del presente Decreto se modifican continuarán vigentes y se entenderán competencia de las nuevas dependencias y entidades en términos de las disposiciones que las rigen, hasta en tanto, sean publicadas las reformas a los mismos.
+
+VIGÉSIMO QUINTO.- Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de las respectivas dependencias y cualquier modificación deberá realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2024 o subsecuentes.
+
+Los programas aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2024 continuarán siendo ejecutados hasta el final del ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones.
+
+VIGÉSIMO SEXTO.- El Congreso de la Ciudad de México, deberá asignar las partidas presupuestales correspondientes para el ejercicio fiscal del año 2025 a las Secretarías de Atención y Participación Ciudadana, de Gestión Integral del Agua, de Vivienda y de Planeación, Desarrollo Territorial y Metropolitano, para el cumplimiento de las atribuciones conferidas en el presente Decreto.
+
+VIGÉSIMO SÉPTIMO.- Las referencias hechas en la Ley de Propiedad en Condominios de Inmuebles para el Distrito Federal a la Procuraduría Social de la Ciudad de México serán atribución de la Secretaría de Vivienda, a la entrada en vigor del presente Decreto.
+
+VIGÉSIMO OCTAVO.- No será aplicable lo previsto en el artículo 114 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México, hasta en tanto se apruebe y emita el dictamen a las estructuras orgánicas básicas o las modificaciones a las mismas que sean necesarias como consecuencia de este Decreto, dicho dictamen deberá aprobarse y emitirse a más tardar el 31 de diciembre de 2024.
+
+VIGÉSIMO NOVENO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+para quedar como siguen: (sic)
