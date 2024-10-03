@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-conducta-para-las-y-los-servidores-publicos-de-la-152
 country: "mx"
 rank: "codigo"
 publication_date: "2021-06-18"
-last_updated: "2021-06-18"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DEL GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ, SEGE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 18 de junio de 2021.
 
@@ -65,13 +65,17 @@ La Secretaría de Educación de Gobierno del Estado elabora el presente Código 
 
 MISIÓN Y VISIÓN INSTITUCIONAL
 
-MISIÓN
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2024)</small>
 
-“Asegurar una educación integral de calidad para todas las personas y lograr que esta sea uno de los ejes fundamentales del desarrollo del Estado de San Luis Potosí”.
+Misión.
 
-VISIÓN
+Asegurar y garantizar una educación integral con excelencia, inclusión y equidad para todos y todas y hacer que sea eje fundamental del desarrollo del Estado.
 
-“Posicionar al Estado de San Luis Potosí como líder en materia educativa, por la calidad de sus maestros e instituciones y la pertinencia, aplicación e innovación de sus programas, implementando una cultura de evaluación y mejora continua”.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2024)</small>
+
+Visión.
+
+La Visión de la Secretaría de Educación de Gobierno del Estado es consolidar una estructura organizacional mediante el recurso humano, administrativo y financiero, con el fin de brindar una educación moderna, incluyente y de calidad en todas las regiones del Estado, con espacios dignos, profesores comprometidos y con vocación de servicio, capacitados y competentes en las distintas áreas del conocimiento, mediante el uso de métodos innovadores, para fortalecer el proceso de enseñanza-aprendizaje, formando ciudadanos con alto nivel de conocimiento, destrezas y valores, con sentido comunitario y de solidaridad ambiental, respeto y conciencia a la diversidad cultural y un profundo amor a la Patria, además de darles herramientas para ampliar sus oportunidades de integración con éxito a la vida productiva y de apoyo a la economía global.
 
 B. MARCO JURÍDICO
 
@@ -314,3 +318,11 @@ Cargo:
 Dependencia o Entidad:
 
 Fecha y Firma:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO ADMINISTRATIVO MEDIANTE EL CUAL, SE MODIFICA EL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN”.]
+
+ÚNICO. La presente modificación al Acuerdo por el que se emite el Código de Conducta para las y los Servidores Públicos de la Secretaría de Educación de Gobierno del Estado de San Luis Potosí, entrarán en vigor al día siguiente de su publicación.
