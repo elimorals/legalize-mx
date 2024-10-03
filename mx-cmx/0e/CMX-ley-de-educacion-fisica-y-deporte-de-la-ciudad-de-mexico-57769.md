@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2023-05-15"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -1148,6 +1148,10 @@ DEL DEPORTE ADAPTADO.
 
 Las personas a que se refiere este título recibirán sin discriminación alguna, los estímulos y demás beneficios que se establecen en esta ley y su reglamento.
 
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2024)</small>
+
+La persona deportista que gane una medalla en los juegos paralímpicos, tendrá derecho a apoyo económico vitalicio por parte del Gobierno de la Ciudad.
+
 > <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 88.
@@ -1287,3 +1291,15 @@ G.O. 15 DE MAYO DE 2023.
 PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 87 DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Gobierno de la Ciudad por conducto de la Secretaría de Finanzas, deberá realizar las previsiones presupuestales correspondientes para dar cumplimiento al presente Decreto.
+
+CUARTO. La persona titular de la Jefatura de Gobierno, por conducto del Instituto del Deporte de la Ciudad de México, en un término que no exceda de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir los lineamientos correspondientes para dar cumplimiento al presente Decreto.
