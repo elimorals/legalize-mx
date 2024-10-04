@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2020-07-29"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -7133,7 +7135,9 @@ VII.- En contra de los actos y resoluciones que violenten el derecho para integr
 
 El Tribunal tiene que garantizar la tutela jurisdiccional de los derechos político-electorales de las y los ciudadanos que participen en los procesos electorales que se celebren en el Estado.
 
-El plazo para la interposición del juicio será de tres días contados a partir del día siguiente a aquel en (sic) se tenga conocimiento del acto que se recurre.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+El plazo para la interposición del juicio será de cuatro días contados a partir del día siguiente a aquel en (sic) se tenga conocimiento del acto que se recurre.
 
 Tratándose de controversias relacionadas con los asuntos internos de los partidos políticos éstas serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Solo una vez que se agoten los medios partidistas de defensa los militantes tendrán derecho de acudir ante el Tribunal.
 
@@ -8750,3 +8754,11 @@ QUINTO. Las quejas y denuncias presentadas por actos u omisiones que impliquen v
 SEXTO. Las modificaciones contenidas dentro de los artículos 16, 201 y 320 del presente Decreto, surtirán efectos con la entrada en vigor de las reformas realizadas al artículo 35 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, con relación a la eliminación de la asignación de la primera diputación de representación proporcional, a la fórmula de candidatas o candidatos de mayoría relativa que no hubiesen obtenido la constancia respectiva.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO POSTERIOR A LA FRACCIÓN VII DEL ARTÍCULO 353 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 90 días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
