@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2023-10-06"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -233,7 +233,9 @@ XI.- Disfrutar de asistencia social, de acuerdo con lo establecido en las leyes 
 
 XII.- Alcanzar los beneficios a la salud, para lograr el bienestar físico y mental, así como recibir orientación y capacitación para tener una nutrición e higiene adecuadas y apropiadas;
 
-XIII.- Obtener atención de calidad con componentes gerontológicos y geriátricos en los diversos niveles de atención a la salud;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+XIII.- Obtener atención de calidad con componentes gerontológicos y geriátricos, en los diversos niveles de atención a la salud, así como tener acceso a servicios en materia de cuidados paliativos y de control del dolor;
 
 XIV.- Estar informados de las condonaciones y descuentos a que se refiere el artículo anterior;
 
@@ -766,6 +768,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 6 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, XI Y XII DEL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 3 BIS, LA FRACCIÓN I DEL ARTÍCULO 4 Y ADICIONA LA FRACCIÓN XIII AL 3, DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
