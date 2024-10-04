@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2023-12-01"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -169,7 +169,9 @@ La persona titular de la Presidencia de la Comisión lo será también del Conse
 
 Las personas integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado serán electas por el Honorable Congreso del Estado; mediante el voto de las dos terceras partes de las personas integrantes presentes en la sesión de Pleno correspondiente, debiendo ser sustituidas cada dos años.
 
-La Comisión General de Derechos Humanos convocará con un mes de anticipación a la conclusión del cargo de la persona integrante que corresponda y a través de los medios de comunicación electrónicos y al menos en dos medios impresos de mayor circulación en el Estado, a todas aquellas personas que estén interesadas y reúnan los requisitos mencionados en el presente artículo a efecto de que se inscriban ante ella y participen en la selección que hará la propia Comisión.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+La Comisión General de Derechos Humanos convocará con un mes de anticipación a la conclusión del cargo de la persona integrante que corresponda y a través de los medios de comunicación electrónicos y al menos en dos medios impresos de mayor circulación en el Estado, a todas aquellas personas que estén interesadas y reúnan los requisitos mencionados en el presente artículo a efecto de que se inscriban ante ella y participen en la selección que hará la propia Comisión, privilegiando la integración del Consejo bajo los principios de inclusión y no discriminación, en términos de lo dispuesto por el quinto párrafo del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos.
 
 La Comisión General contará con un plazo de quince días para emitir dictamen y presentarlo a la Junta de Gobierno y Coordinación Política para su aprobación y presentación al Pleno del Congreso.
 
@@ -840,6 +842,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 8 Y 10 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 10 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
