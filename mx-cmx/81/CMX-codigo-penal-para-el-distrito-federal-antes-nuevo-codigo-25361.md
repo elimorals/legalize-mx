@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2024-10-03"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1234,11 +1234,13 @@ III. El día en que se realizó la última conducta, si el delito es continuado;
 
 IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa; y
 
-V. El día en que el Ministerio Público de la adscripción haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2021)</small>
+V. El día en que el Ministerio Público de la adscripción haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia, y
 
-VI. En los delitos tipificados en el Libro Segundo, Títulos Quinto y Sexto de este Código, cuando la víctima fuere menor de edad, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla treinta años de edad.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2024)</small>
+
+VI. Los delitos tipificados en el Libro Segundo, Títulos Quinto y Sexto de este Código, cuando la víctima fuere menor de edad, no prescribirán.
 
 ARTÍCULO 109 (Plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad). Los plazos para la prescripción de la potestad para ejecutar las penas y las medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se sustraiga de la acción de la justicia, si las penas o las medidas de seguridad fueren privativas o restrictivas de la libertad. En caso contrario, desde la fecha en que cause ejecutoria la sentencia.
 
@@ -1254,9 +1256,9 @@ Esta regla se aplicará cuando la pena privativa de la libertad esté señalada 
 
 II. En un año, si el delito se sanciona con pena no privativa de la libertad.
 
-> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2024)</small>
 
-III. Tratándose de las conductas descritas en el primero, segundo y tercer párrafo del artículo 181 BIS de este Código, las penas serán imprescriptibles.
+III. Tratándose de los delitos tipificados en el Libro Segundo, Títulos Quinto y Sexto de este Código, cuando la víctima fuere menor de edad, serán imprescriptibles.
 
 > <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2021)</small>
 
@@ -6951,3 +6953,11 @@ G.O. 3 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 28 Y SE MODIFICA EL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 286 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 108 Y LA FRACCIÓN III DEL ARTÍCULO 111 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
