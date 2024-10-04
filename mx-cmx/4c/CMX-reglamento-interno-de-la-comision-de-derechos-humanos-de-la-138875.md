@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2024-03-15"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -740,11 +740,15 @@ V. Remitir a la Comisión de Atención a Víctimas de la Ciudad de México o a l
 
 VI. Solicitar a la Comisión de Atención a Víctimas de la Ciudad de México, o a la Comisión Ejecutiva de Atención a Víctimas, que las víctimas reconocidas en las Recomendaciones no aceptadas, sean incluidas en el registro correspondiente; y en su caso, la reconsideración de su negativa;
 
-VII. Dar seguimiento a las Recomendaciones aceptadas por las autoridades responsables y a las Recomendaciones Generales emitidas por esta Comisión. Para tal efecto, solicitará información a las autoridades recomendadas y realizará visitas, reuniones, mesas de trabajo con autoridades, o cualquier otro tipo de actuaciones que resulten conducentes;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2024)</small>
+
+VII. Dar seguimiento a las Recomendaciones y a las Recomendaciones Generales emitidas por esta Comisión. Para tal efecto, solicitará información a las autoridades recomendadas y realizará visitas, reuniones, mesas de trabajo con autoridades, o cualquier otro tipo de actuaciones que resulten conducentes;
 
 VIII. Corroborar y valorar las pruebas relativas al cumplimiento de las Recomendaciones;
 
-IX. Brindar acompañamiento a las víctimas a reuniones o diligencias con autoridades, en los casos que se considere necesario para impulsar el cumplimiento de las Recomendaciones;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2024)</small>
+
+IX. Brindar a las víctimas acompañamiento en reuniones o diligencias con autoridades en los casos que se considere necesario para prevenir y evitar su criminalización, impulsar el cumplimiento de las Recomendaciones, así como la asesoría jurídica necesaria a víctimas reconocidas en las Recomendaciones con motivo de los procedimientos que surjan en la etapa de seguimiento. Para tales fines, podrá promover espacios de atención para que la autoridad informe los razonamientos jurídicos de sus determinaciones y puedan llevarse a cabo procesos de diálogo y acuerdo.
 
 X. Informar a las víctimas sobre el cumplimiento de las Recomendaciones emitidas por esta Comisión, incluyendo su conclusión;
 
@@ -758,7 +762,9 @@ XIV. Solicitar a las autoridades instructoras pruebas de cumplimiento de la ejec
 
 XV. Brindar acompañamiento a las presuntas víctimas y víctimas a diligencias o audiencias relacionadas con procedimientos incorporados al Programa de Lucha Contra la Impunidad, previa valoración de las circunstancias del caso;
 
-XVI. Dar vista a las autoridades competentes cuando, derivado del seguimiento a los procedimientos administrativos o penales incorporados al Programa de Lucha Contra la Impunidad, se detecten irregularidades;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2024)</small>
+
+XVI. Dar vista a las autoridades competentes cuando, derivado del seguimiento a las Recomendaciones se detecten irregularidades.
 
 XVII. Sistematizar la información de los procedimientos incorporados al Programa de Lucha Contra la Impunidad, a fin de detectar patrones de conducta o personas servidoras públicas de las que resulte evidente la frecuencia de posibles o presuntas violaciones a derechos humanos. Dicha información se remitirá a las Visitadurías Generales correspondientes, como apoyo para el ejercicio de sus funciones;
 
@@ -2196,11 +2202,15 @@ En atención a lo dispuesto en el artículo 80 de la Ley, a fin de tener certeza
 
 ### Capítulo XI. Del Programa de Lucha Contra la Impunidad
 
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 140.
 
 Programa de Lucha Contra la Impunidad
 
-La Comisión contará con un Programa de Lucha Contra la Impunidad, adscrito a la Dirección Ejecutiva de Seguimiento, que dará seguimiento a procedimientos de investigación administrativos y/o penales contra las personas servidoras públicas de la Ciudad de México, que deriven de expedientes de queja o que guarden relación con puntos recomendatorios, o con los hechos violatorios de derechos humanos señalados en una Recomendación.
+La Comisión contará con un Programa de Lucha Contra la Impunidad, adscrito a la Dirección Ejecutiva de Seguimiento, que dará seguimiento a procedimientos de investigación contra las personas servidoras públicas de la Ciudad de México que deriven de expedientes de queja o que guarden relación con puntos recomendatorios.
+
+De manera principal, el Programa coordinará la atención, acompañamiento y asesoría jurídica a las víctimas identificadas en las investigaciones realizadas por la Comisión y dará seguimiento a su vinculación con las autoridades y los procedimientos instaurados.
 
 ###### Artículo 141.
 
@@ -2216,17 +2226,19 @@ III. Que se conozca la autoridad a cargo del procedimiento, la autoridad presunt
 
 IV. Que se tenga identificada a la víctima relacionada con el procedimiento y sus datos de contacto.
 
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 142.
 
 De la incorporación al Programa
 
-La incorporación de procedimientos al Programa de Lucha Contra la Impunidad será competencia exclusiva de la persona titular de la Dirección Ejecutiva de Seguimiento y se realizará bajo los siguientes términos:
+El registro de procedimientos al Programa de Lucha Contra la Impunidad se realizará:
 
 I. A solicitud de las Visitadurías Generales, cuando se trate de procedimientos de investigación derivados de las vistas o denuncias que se hubieren realizado ante los órganos competentes o de procedimientos identificados durante la etapa de investigación;
 
-II. Si se da inicio a una investigación, derivado del cumplimiento de puntos recomendatorios o relacionado con los hechos victimizantes abordados en una Recomendación; y
+II. Derivado del cumplimiento de puntos recomendatorios o relacionado con los hechos victimizantes abordados en una Recomendación;
 
-III. Cuando derivado de un procedimiento de investigación al que se le esté dando seguimiento, o de las vistas o denuncias interpuestas por el Programa de Lucha Contra la Impunidad, se inicien nuevos expedientes relacionados con el caso, será el propio programa quien incorpore este nuevo procedimiento.
+El objetivo primordial del registro será activar las acciones de atención, acompañamiento y asesoría jurídica a las víctimas determinadas en las investigaciones.
 
 ###### Artículo 143.
 
@@ -2242,15 +2254,13 @@ Baja de procedimientos
 
 Se determinará la baja de un procedimiento de investigación incorporado al Programa de Lucha Contra la Impunidad, cuando la resolución, acuerdo o sentencia recaída al procedimiento, haya causado estado y se cuente con la documentación soporte respectiva.
 
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 145.
 
 Cambio de instancia
 
-Se determinará cambio de instancia, cuando la determinación de un procedimiento deje de ser facultad de una autoridad por cambio de competencia, y una diversa sea la encargada de resolver el asunto en cuestión.
-
-En estos casos, el Programa de Lucha Contra la Impunidad continuará dando seguimiento ante la autoridad competente hasta la determinación.
-
-Se notificará a las autoridades tanto la baja de un procedimiento, como la conclusión de instancia.
+Cuando la determinación de un procedimiento deje de ser facultad de una autoridad por cambio de competencia, el Programa de Lucha Contra la Impunidad continuará dando seguimiento ante la autoridad competente hasta la determinación.
 
 ## TÍTULO QUINTO. De los Recursos
 
@@ -2431,3 +2441,11 @@ SEGUNDO. Las modificaciones antes mencionadas entrarán en vigor el día 16 de m
 PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
+
+G.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 10/2024 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA REFORMAR EL REGLAMENTO INTERNO DE ESTE ORGANISMO”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México, el presente Acuerdo y su Anexo.
+
+Segundo. La presente reforma al Reglamento Interno fue aprobada por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en la Sesión Ordinaria 10/2024 de fecha dieciocho de septiembre de dos mil veinticuatro, entrará en vigor al día siguiente de la publicación en la Gaceta Oficial de la Ciudad de México.
