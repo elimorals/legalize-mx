@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2024-08-05"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1787,7 +1787,9 @@ XXXVII.- Formar mensualmente una noticia administrativa y estadística con la qu
 
 XXXVIII.- Aceptar herencias, legados y donaciones que se hagan al Municipio, a los pueblos de su jurisdicción o a los establecimientos públicos municipales;
 
-XXXIX.- Procurar el entubamiento y limpieza de las aguas potables, así como la conservación de los manantiales, fuentes, pozos, aljibes, acueductos, ríos, y los demás que sirvan para el abastecimiento de la población;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+XXXIX.- Procurar el entubamiento y limpieza de las aguas potables, así como la conservación de los manantiales, fuentes, pozos, aljibes, acueductos, ríos, y los demás que sirvan para el abastecimiento de la población; promover el cuidado del agua, así como coadyuvar en el fortalecimiento de la infraestructura hídrica y de captación pluvial;
 
 XL.- Procurar la construcción y conservación de las fuentes y surtidores públicos de agua y que haya abundancia de este líquido tanto para el consumo de las personas como para abrevadero de los ganados;
 
@@ -4682,3 +4684,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán crear dentro de su estructura orgánica, las instancias señaladas en el presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXIX DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
