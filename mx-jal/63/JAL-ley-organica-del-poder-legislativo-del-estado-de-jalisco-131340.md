@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2023-01-14"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -905,7 +905,9 @@ XX. Las demás que señalen esta ley y las disposiciones reglamentarias.
 
 I. Ser mexicano y estar en pleno goce de sus derechos;
 
-II. Contar con título profesional en las áreas de ciencias sociales, humanidades o económico administrativas con una antigüedad mínima de cinco años;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+II. Contar con título profesional en las áreas de ciencias sociales, humanidades o económico administrativas;
 
 III. Acreditar conocimientos y experiencia para el desempeño de las tareas inherentes al cargo; y
 
@@ -2090,6 +2092,10 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 ###### Artículo 113.
 
 1. El Congreso del Estado debe sesionar cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia y cuando menos con la periodicidad que señala la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+2. Las sesiones se convocarán preferentemente para desahogarse en horarios que garanticen la perspectiva de cuidados en los términos de la ley de la materia.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -4068,3 +4074,9 @@ P.O. 14 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29125/LXIII/22 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y REFORMA EL ARTÍCULO 47 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29568/LXIII/24 QUE REFORMA LOS ARTÍCULOS 53 Y 113 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO EN MATERIA DE SESIONES CON HORARIOS DE PERSPECTIVA DE CUIDADOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
