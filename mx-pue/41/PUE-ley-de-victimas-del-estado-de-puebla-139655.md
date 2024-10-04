@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-victimas-del-estado-de-puebla-139655"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-06"
-last_updated: "2019-12-06"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE VÍCTIMAS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sexta Sección al Número 5 del Periódico Oficial del Estado de Puebla, el viernes 6 de diciembre de 2019.
 
@@ -525,9 +525,11 @@ Los programas, mecanismos y servicios a que se refiere la presente Ley tomarán 
 
 Las medidas de ayuda inmediata previstas en el presente Capítulo deberán atender las necesidades que tengan relación directa con el hecho victimizante a partir del momento de la comisión del delito o de la violación de los derechos de la víctima podrán cubrirse con cargo a los Recursos de Ayuda de la Comisión Estatal y en coordinación con las autoridades federales, estatales y municipales correspondientes en el ámbito de sus competencias.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-Las instituciones hospitalarias públicas del Estado y, en su caso, las unidades de salud públicas del Estado y los municipios tienen la obligación de dar atención de emergencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
+Las instituciones hospitalarias públicas del Estado y, en su caso, las unidades de salud públicas del Estado y los municipios tienen la obligación de dar atención de emergencia de manera inmediata y permanente a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
 
 ###### ARTÍCULO 27.
 
@@ -571,11 +573,15 @@ El Gobierno del Estado, a través de sus organismos, dependencias y entidades de
 
 El proceso de credencialización se realizará de manera gradual y progresiva dando prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicha credencial y requieran asistencia de urgencia deberán ser atendidas de manera prioritaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 31.
 
-En materia de asistencia médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud para los Usuarios de los Servicios de Salud y tendrá los siguientes derechos adicionales:
+En materia de servicios, asistencia, atención médica, psicológica, psiquiátrica y odontológica y protección a la víctima, esta última tendrá todos los derechos establecidos por la Ley General de Salud para los Usuarios de los Servicios de Salud y tendrá los siguientes derechos adicionales:
 
-I. A que se proporcione gratuitamente asistencia médica y psicológica permanente de calidad en cualquiera de los hospitales públicos del Estado o, en su caso, por los municipios de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridas. Estos servicios se brindarán de manera permanente, cuando así se requiera y no serán negados, aunque la víctima haya recibido las medidas de ayuda inmediata y ayuda que se establecen en la presente Ley, las cuales, si así lo determina el médico, se continuarán brindando hasta el final del tratamiento;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+I. A que se proporcionen gratuitamente servicios, asistencia, atención médica, psicológica, psiquiátrica y odontológica permanente y de calidad, así como protección a la víctima en cualquiera de los hospitales públicos del Estado o, en su caso, por los municipios de acuerdo a su competencia, cuando se trate de lesiones, enfermedades o traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridas. Estos servicios se brindarán de manera permanente, cuando así se requiera y no serán negados, aunque la víctima haya recibido las medidas de ayuda inmediata y ayuda que se establecen en la presente Ley, las cuales, si así lo determina el médico, se continuarán brindando hasta el final del tratamiento;
 
 II. El Gobierno del Estado, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias, deberán otorgar citas médicas en un periodo no mayor a ocho días a las víctimas que así lo soliciten, salvo que sean casos de urgencia en salud, en cuyo caso la asistencia será prioritaria;
 
@@ -1932,3 +1938,13 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de octubre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de octubre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica. El Secretario de Salud. CIUDADANO JORGE HUMBERTO URIBE TÉLLEZ. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica. El Secretario de Seguridad Pública. VICEALMIRANTE MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 26, EL ACÁPITE Y LA FRACCIÓN I DEL 31 DE LA LEY DE VÍCTIMAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas y legales contrarias o que se opongan al presente Decreto.
