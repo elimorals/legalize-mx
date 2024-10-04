@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2023-12-08"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -153,9 +153,25 @@ b) Conformar, asociar, detonar o desarrollar la integración de ecosistemas de n
 
 c) Fomentar la implementación permanente, en todos los municipios del Estado, de un sistema de apertura rápida de empresas.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+d) Fomentar políticas y programas que faciliten la incorporación de procesos y tecnologías limpias, así como la transición de las pequeñas y medianas empresas hacia un desarrollo más sostenible e inclusivo.
+
 II. A la Secretaría de Educación: la promoción y facilitación de la incorporación de la temática de investigación, desarrollo e innovación tecnológica; incluyendo la incorporación de contenidos y desarrollo de competencias en aspectos económicos, financieros, de negocios y de desarrollo humano necesarios para el fomento de una cultura emprendedora; a través de programas educativos para el desarrollo integral de emprendedores en el sistema de educación estatal; en todos los niveles, desde primaria a posgrado, tanto en instituciones públicas como privadas; y
 
 III. A las Secretarías y demás entidades del Gobierno del Estado de Coahuila de Zaragoza: la promoción de programas, proyectos, presupuestos y mecanismos necesarios para impulsar la formación de capital humano, la investigación científica y la innovación tecnológica necesarias para el fomento de la cultura emprendedora, el impulso a los emprendedores y las empresas de reciente creación de la entidad.
+
+> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN], P.O. 4 DE OCTUBRE DE 2024)</small>
+
+IV. A los municipios: instrumentar, ejecutar y coordinar la política municipal de emprendimiento para:
+
+a) Desarrollar e implementar programas, proyectos y mecanismos para facilitar financiamiento, capacitación, asesoría y vinculación a las personas emprendedoras y a los micro, pequeños y medianos negocios;
+
+b) Promover la creación de unidades, institutos u organismos que funjan como instancias de promoción e impulso de los servicios requeridos por las personas emprendedoras y los micro, pequeños y medianos negocios;
+
+c) Desarrollar e impulsar planes, programas y proyectos acordes a las necesidades, el potencial y las vocaciones regionales y municipales, atendiendo la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres;
+
+d) Fomentar la creación de redes de emprendimiento e innovación que integren instituciones educativas, incubadoras de empresas, consultores de negocios, asociaciones y organizaciones civiles, entre otros.
 
 ###### Artículo 6.
 
@@ -223,9 +239,13 @@ f) Secretaría de Medio Ambiente;
 
 g) Consejo Estatal de Ciencia y Tecnología; e
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
 
-h) Instituto Coahuilense de las Mujeres.
+h) Secretaría de las Mujeres; y
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+i) Secretaría de Inclusión y Desarrollo Social
 
 V. Por el sector no gubernamental, 5 representantes de organizaciones empresariales, académicas y/o sociales, invitados por el Titular del Ejecutivo del Estado, buscando mantener representatividad de las diferentes regiones del Estado.
 
@@ -377,7 +397,9 @@ El Programa Estratégico será formulado, aprobado, revisado, actualizado y eval
 
 El Secretario Ejecutivo del Consejo General Ciudadano formulará el proyecto de Programa Estratégico, su revisión y actualización, proyectándose con una visión de largo plazo con un horizonte temporal de hasta veinte años.
 
-La Administración Pública Estatal implementará y dará seguimiento a las acciones y proyectos previstos en el Programa Estratégico, participando en su formulación, revisión, actualización y evaluación.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+La Administración Pública Estatal y los municipios, implementarán y darán seguimiento a las acciones y proyectos previstos en el Programa Estratégico, participando en su formulación, revisión, actualización y evaluación.
 
 Así mismo, las dependencias y entidades de la Administración Pública Estatal colaborarán en lo previsto en el Programa Estratégico.
 
@@ -401,7 +423,9 @@ d) Aeroespacial;
 
 e) Manufacturas;
 
-f) Energético;
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+f) Energético, con especial énfasis en energías limpias y renovables;
 
 g) Minero;
 
@@ -427,7 +451,9 @@ a) Identificación de sectores prioritarios y vocaciones competitivas para el de
 
 b) Incentivos a la reinversión de utilidades de las empresas en el estado para apoyar la creación de nuevas empresas, desarrollo de empresas de reciente creación, programas de emprendedores y entidades de financiamiento a emprendedores;
 
-c) Innovaciones tecnológicas estratégicas y aplicables a necesidades de mercado;
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+c) Innovaciones tecnológicas estratégicas y aplicables a necesidades de mercado con un enfoque de gestión ambiental;
 
 d) Vinculación y articulación de los sectores científico y tecnológico con los sectores productivos y financieros para la implementación;
 
@@ -549,7 +575,9 @@ La Dirección General para las Micros, Pequeñas y Medianas Empresas ejecutará 
 
 I. Las áreas prioritarias que se establezcan en el Programa Estratégico aprobado por el Consejo General Ciudadano;
 
-II. Las necesidades de desarrollo de la industria, comercio y servicios en el Estado;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2024)</small>
+
+II. Las necesidades de desarrollo e implementación de procesos de innovación sustentable en la industria, comercio y servicios en el Estado;
 
 III. Los impedimentos y las barreras regulatorias, administrativas, fiscales y financieras que afectan o desalientan la cultura emprendedora, impulso a emprendedores y empresas de reciente creación en el Estado;
 
@@ -840,3 +868,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presentedecreto (sic).
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 103.- SE ADICIONAN EL INCISO D) A LA FRACCIÓN I, ASÍ COMO LOS INCISOS DE LA A) A LA D) A LA FRACCIÓN IV DEL ARTÍCULO 5 Y EL INCISO I) A LA FRACCIÓN IV DEL ARTÍCULO 8; Y SE REFORMAN EL INCISO H) DE LA FRACCIÓN IV DEL ARTÍCULO 8, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL INCISO F) DE LA FRACCIÓN II Y EL INCISO C) DE LA FRACCIÓN V DEL ARTÍCULO 18 Y LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
