@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-de-la-judicatura-del-estado-125
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-23"
-last_updated: "2003-11-14"
+last_updated: "2024-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el día 23 de octubre de 1998.
 
@@ -390,3 +392,19 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 14 DE NOVIEMBRE DE 2003.
 
 UNICO.- Las presentes reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Publíquese el presente Reglamento en el Boletín Judicial del Estado para los efectos correspondientes.
+
+TERCERO. Se abroga el Reglamento Interior del Consejo de la Judicatura del Estado de Baja California, publicado en el Periódico Oficial del Estado, el veintitrés de octubre de mil novecientos noventa y ocho, así como sus reformas.
+
+CUARTO. Se derogan las disposiciones reglamentarias, administrativas o normativas que se opongan a lo establecido en este Reglamento.
+
+QUINTO. Los reglamentos, acuerdos y demás disposiciones normativas que rigen el funcionamiento de las unidades administrativas del Consejo de la Judicatura continuarán vigentes, salvo en lo que se opongan a lo previsto en este Reglamento.
+
+SEXTO. El Consejo de la Judicatura realizará las adecuaciones a las disposiciones reglamentarias, administrativas y normativas o, en su caso, emitirá los nuevos ordenamientos que sean necesarios para la eficacia de este Reglamento.
