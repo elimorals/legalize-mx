@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2024-09-14"
+last_updated: "2024-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -993,9 +993,9 @@ V. Integrar, administrar y actualizar el padrón único de beneficiarios, median
 
 VI. Elaborar el Programa Estatal de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
 
-VII. Expedir las reglas de operación de los programas sociales. Por tal motivo, elaborará y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación del presupuesto anual de egresos. El Órgano Superior de Fiscalización del Estado, vigilará el cumplimiento eficaz de esta medida;
+VII. Expedir las reglas de operación de los programas sociales. Por tal motivo, elaborará y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación del presupuesto anual de egresos. La Auditoría Superior de Fiscalización del Estado, vigilará el cumplimiento eficaz de esta medida;
 
 VIII. Establecer y dar a conocer los indicadores y sus resultados sobre el progreso en el cumplimiento de los derechos sociales de la población de Oaxaca;
 
@@ -1043,9 +1043,9 @@ VII. Ejercer los fondos y recursos federales descentralizados o convenidos en ma
 
 VIII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades con mayor pobreza del Municipio;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
 
-IX. Hacer públicos, la inversión y las bases de los programas sociales. Por tal motivo, elaborarán y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación de sus respectivos presupuestos de egresos anuales. El Órgano Superior de Fiscalización del Estado, vigilará el cumplimiento eficaz de esta medida;
+IX. Hacer públicos, la inversión y las bases de los programas sociales. Por tal motivo, elaborarán y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación de sus respectivos presupuestos de egresos anuales. La Auditoría Superior de Fiscalización del Estado, vigilará el cumplimiento eficaz de esta medida;
 
 X. Fomentar actividades productivas para la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas;
 
@@ -1834,3 +1834,13 @@ P.O. 14 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2415.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VII DEL ARTÍCULO 61 Y LA FRACCIÓN IX DEL ARTÍCULO 62 DE LA LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
