@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-infraestructura-fisica-64486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2021-09-04"
+last_updated: "2024-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -97,15 +97,19 @@ La infraestructura física educativa del Estado deberá cumplir requisitos de ca
 
 Las autoridades educativas promoverán la participación de sectores sociales para optimizar y elevar la calidad de la INFE, en los términos que señalan esta Ley y las disposiciones que de la misma se deriven.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 6°.
 
-Al realizarse actividades de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE pública o privada, deberán cumplirse los lineamientos generales que expida el Instituto, los reglamentos que en su caso se deriven de esta Ley, y la normatividad en materia de obras.
+Al realizarse actividades de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE pública o privada, deberán cumplirse los lineamientos generales que expida el Instituto, los reglamentos que en su caso se deriven de esta Ley, y la normatividad en materia de obras públicas, servicios relacionados con las mismas y adquisición de bienes, arrendamientos y contratación de servicios.
 
 ###### ARTÍCULO 7°.
 
 Para que en un inmueble puedan prestarse servicios educativos, deberán obtenerse las licencias, avisos de funcionamiento y, en su caso, el certificado, para garantizar el cumplimiento de los requisitos de construcción, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones de la normatividad municipal, estatal y federal aplicable.
 
-Respecto de la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, deberá demostrarse además el cumplimiento de las obligaciones en materia de infraestructura señaladas en los artículos 55, fracción II, y 59 de la Ley General de Educación y sus correlativos o aplicables de la Ley Estatal de Educación.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+Respecto de la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, deberá demostrarse además el cumplimiento de las obligaciones en materia de infraestructura, señaladas en el artículo 147 de la Ley General de Educación y sus correlativos o aplicables de la Ley Estatal de Educación.
 
 Los usuarios de los servicios educativos podrán solicitar los documentos que acrediten que la INFE cumple los elementos de calidad técnica.
 
@@ -137,7 +141,9 @@ La certificación de la calidad de la INFE la llevará a cabo el Instituto en lo
 
 Son atribuciones del Instituto, las siguientes:
 
-I.- Elaborar estudios, proyectos, obras e instalaciones y, en su caso, opinar en las Sesiones respectivas o por los conductos procedentes, en la elaboración de normas mexicanas y normas oficiales mexicanas, en los términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización, así como proponer su emisión y difusión, en materia de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción, reconversión y habilitación de los inmuebles e instalaciones destinados al servicio del sistema educativo estatal;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+I. Elaborar estudios, proyectos, obras e instalaciones y, en su caso, opinar en las Sesiones respectivas o por los conductos procedentes, en la elaboración de normas mexicanas y normas oficiales mexicanas, en los términos de lo dispuesto en la Ley de Infraestructura de la Calidad, así como proponer su emisión y difusión, en materia de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción, reconversión y habilitación de los inmuebles e instalaciones destinados al servicio del sistema educativo estatal.
 
 II.- Crear y actualizar permanentemente un sistema de información del estado físico de las instalaciones que forman la INFE, en colaboración y coordinación con las autoridades municipales a través de los mecanismos legales correspondientes, para lo cual tendrá las atribuciones siguientes:
 
@@ -217,7 +223,9 @@ d) Realizar estudios y proyectos que permitan definir las políticas y consolida
 
 e) Supervisar las obras de infraestructura educativa para que éstas se ejecuten conforme a las especificaciones, proyectos, precios y programas aprobados y, en su caso, conforme a lo estipulado en los contratos de obra.
 
-f) Vigilar el debido cumplimiento de los contratos, convenios y acuerdos celebrados por el Instituto en materia de INFE, basado en leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+f) Vigilar el debido cumplimiento de los contratos, convenios y acuerdos celebrados por el Instituto en materia de INFE, así como de equipamiento y contratación de servicios, basado en leyes, reglamentos y demás disposiciones aplicables.
 
 g) Vigilar y aplicar la normatividad en el ejercicio correcto de los presupuestos autorizados en el proceso de ejecución de las obras de INFE.
 
@@ -229,11 +237,19 @@ i) Señalar normas y lineamientos a particulares para la ejecución de obras de 
 
 J) Otorgar las facilidades e información que requiera la Secretaría de Educación y Deporte, como coordinadora de sector.
 
-XXI.- Llevar a cabo los procedimientos de Contratación de Obra Pública, ya sea Licitación Pública, Invitación Restringida o Adjudicación Directa, de acuerdo con las leyes de la materia que sean aplicables;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
 
-Además, solicitar al Comité de Compras del Gobierno del Estado, la elaboración de los procesos de Contratación para las Adquisiciones y Arrendamientos de bienes muebles y la prestación de servicios de cualquier naturaleza, salvo los relacionados con la obra pública, que sean necesarios para el cumplimiento de sus funciones.
+XXI. Llevar a cabo los procedimientos de Contratación de Obra Pública, ya sea licitación pública, invitación a cuando menos tres contratistas o adjudicación directa, a través del Comité Central de Obras Públicas y Servicios Relacionados con las Mismas del Poder Ejecutivo y del Comité de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Chihuahuense de Infraestructura Física Educativa, de acuerdo con las leyes de la materia que sean aplicables.
 
-XXII.- Las demás que para el cumplimiento de su objeto le señale esta Ley, su reglamento, así como la Ley de Entidades Paraestatales del Estado de Chihuahua.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XXII. Llevar a cabo los procedimientos de adquisición de bienes, arrendamientos y servicios, ya sea licitación pública, invitación a cuando menos tres proveedores o adjudicación directa, a través del Comité de Adquisiciones, Arrendamientos y Servicios del Instituto Chihuahuense de Infraestructura Física Educativa, de acuerdo con las leyes de la materia que sean aplicables.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XXII], P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XXIII. Las demás que para el cumplimiento de su objeto le señale esta ley, su estatuto orgánico, la Ley de Entidades Paraestatales del Estado de Chihuahua, así como otras leyes.
 
 ###### ARTÍCULO 13.
 
@@ -262,6 +278,10 @@ I.- La Junta de Gobierno;
 II.- El Director General, y
 
 III.- Las áreas, unidades administrativas o direcciones necesarias para su adecuado funcionamiento que apruebe la Junta de Gobierno, de conformidad con el presupuesto autorizado.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+Además de las unidades señaladas en el párrafo anterior, el Instituto contará con un Órgano Interno de Control, mismo que se regirá conforme a lo dispuesto por el artículo 25 de esta Ley.
 
 ###### ARTÍCULO 16.
 
@@ -297,6 +317,18 @@ e) (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 f) A invitación previa de quien sea titular de la Presidencia, una persona representante de la Secretaría de Educación Pública del Poder Ejecutivo Federal en el Estado.
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+IV. La persona titular de la Secretaría de Actas y Acuerdos, la cual será nombrada por quien ocupe la Dirección General, misma que participará con voz, pero no con voto.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 5 DE OCTUBRE DE 2024)</small>
+
+V. A invitación previa de quien sea titular de la Presidencia, las siguientes personas invitadas, que participarán con voz, pero no con voto:
+
+a) Una representante de la Secretaría de la Función Pública.
+
+b) La titular del Órgano Interno de Control.
+
 Cada integrante podrá nombrar su respectivo suplente, mediante formal oficio.
 
 El cargo de integrante de la Junta de Gobierno será honorario, por lo que no habrá lugar a remuneración alguna, y su duración dependerá de la del cargo respectivo. Igualmente, su ratificación o no dependerá de quien esté facultado para expedir los nombramientos originarios de los que se deriva el respectivo carácter de integrante de dicho Órgano de Gobierno.
@@ -309,9 +341,11 @@ Quien ocupe la Dirección General participará en las sesiones de la Junta de Go
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-La Junta de Gobierno celebrará sesiones ordinarias una vez cada dos meses. El Presidente de la Junta de Gobierno podrá convocar a sesiones extraordinarias para tratar asuntos cuya naturaleza lo amerite.
+La Junta de Gobierno celebrará sesiones ordinarias una vez cada dos meses, de conformidad con lo dispuesto en el artículo 19 de la Ley de Entidades Paraestatales del Estado de Chihuahua. La persona titular de la Presidencia de la Junta de Gobierno podrá convocar a sesiones extraordinarias para tratar asuntos cuya naturaleza lo amerite.
 
 ###### ARTÍCULO 19.
 
@@ -327,7 +361,9 @@ III.- Aprobar el anteproyecto de ingresos, el anteproyecto de presupuesto de egr
 
 IV.- Aprobar los informes de actividades y los estados financieros que le presente el Director General;
 
-V.- Conocer los dictámenes que emita el Comisario y, en su caso, ordenar las medidas necesarias para solventar las observaciones realizadas;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+V. Conocer los informes que emita la persona titular del Órgano Interno de Control, en materia de control y auditoría y, en su caso, ordenar las medidas necesarias para solventar las observaciones realizadas.
 
 VI.- Aprobar, a propuesta del Director General, el nombramiento de los titulares de las áreas, unidades, departamentos o direcciones que le auxilien en el despacho de los asuntos dentro de las dos jerarquías inmediatas inferiores a las del propio Director General;
 
@@ -359,7 +395,9 @@ V.- Las demás que señale la Ley de Entidades Paraestatales y demás ordenamien
 
 Son Facultades y Obligaciones del Director General, las siguientes:
 
-I.- Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente. Interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes. El Director General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+I. Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente. Interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes. La persona titular de la Dirección General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas, y actos de administración, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto.
 
 II.- Formular el programa institucional y sus respectivos proyectos de actividades, así como los presupuestos, y presentarlos para su aprobación a la Junta de Gobierno;
 
@@ -381,7 +419,29 @@ X.- Nombrar al Secretario de Actas y Acuerdos de la Junta de Gobierno;
 
 XI.- Establecer, con aprobación de la Junta de Gobierno, las unidades técnicas y administrativas necesarias para el desarrollo de las actividades del Instituto, cuando los recursos propios lo permitan, y
 
-XII.- Las demás que le otorguen la Junta de Gobierno, dentro de su esfera de competencia, y las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XII. Fomentar y suscribir convenios de coordinación y colaboración con entes públicos y privados, que tiendan a impulsar la mejora en la infraestructura física educativa o que se encuentren relacionados al ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones, de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XIV. Rescindir y/o terminar anticipadamente los contratos de obras públicas y servicios relacionados con las mismas, adquisición de bienes, arrendamientos y contratación de servicios, que se hubieren celebrado con motivo de sus funciones, de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XV. Expedir las constancias y certificaciones de los documentos que se encuentren en los archivos del Instituto, inherentes al cumplimiento de los objetivos del organismo, así como delegar esta facultad a las unidades administrativas que determine.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XVI. Proponer para aprobación de la Junta de Gobierno, la creación de los comités y subcomités necesarios para el cumplimiento de los objetivos del Instituto.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 5 DE OCTUBRE DE 2024)</small>
+
+XVII. Las demás que señale la Ley de Entidades Paraestatales del Estado de Chihuahua, así como las que le otorgue la Junta de Gobierno, dentro de su esfera de competencia, y las disposiciones jurídicas aplicables.
 
 En las ausencias temporales del Director General, menores de quince días, será suplido por el servidor público que designe la Junta de Gobierno a propuesta del Titular del Ejecutivo Estatal. En las ausencias mayores a quince días, la suplencia será a cargo de quien designe el propio Gobernador del Estado.
 
@@ -397,27 +457,25 @@ II.- El Director General definirá las políticas de instrumentación de los sis
 
 En su caso, los responsables de los sistemas de control y evaluación internos, podrán participar en las sesiones de la Junta de Gobierno con voz, pero no con voto.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Secretaría de la Función Pública del Estado.
+El órgano de vigilancia del Instituto será el Órgano Interno de Control, cuyas funciones serán las que se establezcan en la Ley de Entidades Paraestatales del Estado de Chihuahua y el Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-El Comisario Público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública y de acuerdo a las siguientes bases:
+Al frente del Órgano Interno de Control habrá una persona titular, que será designada en los términos del artículo 34, fracción XII, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, y dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública, y quien en el ejercicio de sus facultades se auxiliará por las personas titulares de las áreas de Auditoría Interna de Desarrollo y de Mejora de la Gestión, de Denuncias e Investigaciones y de Responsabilidades, quienes serán designadas en los mismos términos.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2024)</small>
 
-I.- Dependerá del Secretario de la Función Pública.
+El personal adscrito a que se refiere el párrafo anterior, ejercerá en el ámbito de sus respectivas competencias, las facultades previstas en la Ley General de Responsabilidades Administrativas, u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con la misma correspondientes, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública y demás normatividad aplicable.
 
-II.- Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE OCTUBRE DE 2024)</small>
 
-III.- Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables; presentará al Director General y a la Junta de Gobierno los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
-
-El Comisario Público podrá participar en las sesiones de la Junta de Gobierno con voz, pero no con voto.
+La persona titular del Órgano Interno de Control podrá asistir a las sesiones de la Junta de Gobierno, con voz, pero sin voto.
 
 ### CAPÍTULO NOVENO. DEL PATRIMONIO
 
@@ -652,3 +710,19 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLEY/0914/2024 XIV P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias contrarias a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la entrada en vigor de este Decreto, se seguirán aplicando en todo lo que no se opongan al presente Decreto.
