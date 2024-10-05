@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2024-04-20"
+last_updated: "2024-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -191,9 +191,11 @@ La Comisión Instaladora, una vez comprobada la identidad del Diputado Electo ex
 
 Por cuestiones de seguridad, no se permitirá el acceso a la sesión de instalación a ninguna persona que no cuente con la credencial o acreditación correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 7.
 
-El día 13 de noviembre del año del que se trate, a las nueve horas, presentes en el Recinto Legislativo, la Comisión Instaladora y los Diputados Electos acreditados, procederán a instalar formalmente la nueva Legislatura, en los términos señalados en este Reglamento.
+El día 13 de noviembre del año del que se trate, a las diez horas presentes en el Recinto Legislativo, la Comisión Instaladora y los Diputados Electos acreditados, procederán a instalar formalmente la nueva Legislatura, en los términos señalados en este Reglamento.
 
 ###### ARTÍCULO 8.
 
@@ -3204,3 +3206,11 @@ P.O. 20 DE ABRIL DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 5 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2423.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
