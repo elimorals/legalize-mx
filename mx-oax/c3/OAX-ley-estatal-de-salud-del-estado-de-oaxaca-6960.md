@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-09-14"
+last_updated: "2024-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -257,9 +257,9 @@ VI.- Impulsar, en el ámbito estatal un sistema racional de administración y de
 
 VII.- Promover el conocimiento y desarrollo de la medicina tradicional indígena acorde a las características específicas de cada región, su aplicación y práctica en condiciones adecuadas, así como la formación y capacitación de los recursos humanos necesarios;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
 
-VIII.- Fomentar un estilo de vida saludable para prevenir y combatir la obesidad y la desnutrición;
+VIII.- Diseñar y realizar políticas públicas para prevenir y combatir la desnutrición, obesidad y sobrepeso, así como los trastornos de la conducta alimentaria, a través del fomento y promoción de un estilo de vida saludable que incluya la alimentación nutritiva, suficiente y de calidad y el ejercicio físico;
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
 
@@ -569,7 +569,9 @@ VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salu
 
 IX.- La promoción del mejoramiento de la nutrición;
 
-X.- La asistencia social a los grupos más vulnerables;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2024)</small>
+
+X.- La asistencia social a los grupos en situación de vulnerabilidad, y, de éstos en especial, a los pertenecientes a las comunidades indígenas y afromexicanas;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
 
@@ -3287,11 +3289,11 @@ ARTICULO 260 TER.- El certificado de nacimiento será requerido por las autorida
 
 El certificado médico prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones generales aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 262.
 
-Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud del Estado.
+Los certificados de defunción y de muerte fetal serán expedidos de forma gratuita, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la autoridad sanitaria correspondiente.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4508,6 +4510,30 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 14 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2392.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XII DEL ARTÍCULO 29 Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 31; SE ADICIONA LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 29, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2424.- MEDIANTE CUAL REFORMA LA FRACCIÓN X DEL ARTÍCULO 29 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2425.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 262 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2426.- MEDIANTE (SIC) CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 6 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
