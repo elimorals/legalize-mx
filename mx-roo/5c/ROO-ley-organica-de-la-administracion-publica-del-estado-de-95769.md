@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2024-07-24"
+last_updated: "2024-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -229,9 +229,9 @@ II. Ser nativo o nativa de la entidad o tener residencia efectiva no menos de ci
 
 III. Tener un modo honesto de vivir.
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
 
-IV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijurídicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+IV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y por delitos que sean considerados actos de corrupción, y
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
 
@@ -329,6 +329,10 @@ VI. Proponer al Ejecutivo Estatal iniciativas y proyectos de reforma y actualiza
 
 VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que sean señalados por delegación o le corresponda por suplencia;
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+VII Bis. Certificar los documentos que obren en los archivos de las dependencias a su cargo y los expedidos por las personas servidoras públicas que les estén subordinadas en el ejercicio de sus atribuciones;
+
 VIII. Promover y dar seguimiento a las demandas jurisdiccionales que tengan por objeto la defensa de los intereses de la propia dependencia; rendir los respectivos informes previos y justificados en los juicios de amparo en que tenga el carácter de autoridad responsable; y conocer y resolver los recursos administrativos que le sean interpuestos cuando legalmente procedan;
 
 IX. Apoyar al Gobernador del Estado, en la adecuación, operación y retroalimentación de los consejos consultivos de participación social, vinculados con el sector de su responsabilidad;
@@ -385,7 +389,9 @@ VI. Ordenar y vigilar la publicación en el Periódico Oficial del Estado de las
 
 VII. Coadyuvar en la elaboración de los convenios, contratos y demás instrumentos jurídicos y administrativos, relativos a la coordinación con la Administración Pública Federal y con los Gobiernos Estatales y sancionar, en su caso, los mismos;
 
-VIII. Ejercer, por acuerdo del Gobernador del Estado, y en su caso, con la participación que corresponda a otras autoridades competentes, el derecho de expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública, así como, refrendar los títulos de propiedad que expida el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+VIII. Refrendar los títulos de propiedad que expida el Gobierno del Estado.
 
 IX. Regular y coordinar la organización y el funcionamiento del sistema notarial del Estado; asimismo organizar, conducir y supervisar el funcionamiento del Archivo General de Notarías;
 
@@ -406,6 +412,10 @@ XIV. Propiciar la coordinación interinstitucional para la realización de progr
 XV. En lo concerniente a los Derechos Humanos, vigilar el cumplimiento de las recomendaciones de medidas administrativas que requiera su cumplimiento; proporcionando, la adecuada colaboración con las Comisiones Nacional y Estatal de Derechos Humanos;
 
 XVI. (DEROGADA, P.O. 19 DE JULIO DE 2017)
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XVI Bis. Formular y coordinar la política de prevención social de la violencia y la delincuencia, así como las demás que resulten necesarias para el correcto funcionamiento del Secretariado Ejecutivo de Seguridad Ciudadana;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -428,6 +438,18 @@ XXIV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2018)
 XXV. Instrumentar la política de protección civil en el Estado, organizando y coordinando las acciones y funciones de la Coordinación Estatal de Protección Civil y su vinculación con los Sistemas Nacional y Estatal de Protección Civil;
 
 XXVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XXVI Bis. Coordinar las acciones y medidas necesarias para la realización efectiva de los procesos de evaluación de las personas integrantes de las Instituciones de Seguridad Ciudadana y las Instituciones de Procuración de Justicia del Estado, de conformidad con la Ley de Seguridad Ciudadana del Estado de Quintana Roo y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XXVI Ter. Organizar y administrar al Centro Estatal de Evaluación y Control de Confianza, bajo la normativa correspondiente que permita el desarrollo de una función desconcentrada en este rubro;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XXVI Quáter. Aprobar la estructura orgánica, Reglamento Interior, Lineamientos y demás normatividad aplicable de sus órganos desconcentrados, así como del Centro Estatal de Evaluación y Control de Confianza;
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -801,7 +823,7 @@ X. Establecer y vigilar el cumplimiento de los programas relacionados con las re
 
 XI. Otorgar los Dictámenes en materia de Impacto Territorial, de Verificación de Congruencia, así como las Constancias de Compatibilidad Territorial en su caso, de conformidad con las disposiciones legales aplicables; así como otorgar las escrituras públicas y los títulos de propiedad sobre los predios que enajene, comercialice o que regularice en todo o en parte de conformidad con las disposiciones legales aplicables;
 
-XII. Elaborar los anteproyectos de decretos de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública en materia de desarrollo urbano y promoverlos para su aprobación y posterior promulgación ante la Secretaría de Gobierno;
+XII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -835,7 +857,9 @@ XXIV. Promover, gestionar y asesorar técnica y jurídicamente la regularizació
 
 XXV. Convenir con los órganos de representación de los ejidos y comunidades, la realización de las acciones necesarias para la desincorporación de las tierras de régimen ejidal y la incorporación de las mismas al desarrollo urbano, de manera ordenada y con estricto apego a las disposiciones agrarias y de desarrollo urbano aplicables;
 
-XXVI. Promover, gestionar y realizar técnica y jurídicamente, con la anuencia de las asambleas ejidales y comunales que corresponda, y con estricta observancia de las disposiciones legales correspondientes, las acciones necesarias para tramitar, según sea el caso, procedimientos para la adopción del dominio pleno, tratándose de tierra ejidal formalmente parcelada; expropiación por causa de utilidad pública; terminación del régimen ejidal y regularización de las tierras ejidales;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XXVI. Promover, gestionar y realizar técnica y jurídicamente, con la anuencia de las asambleas ejidales y comunales que corresponda, y con estricta observancia de las disposiciones legales correspondientes, las acciones necesarias para tramitar, según sea el caso, procedimientos para la adopción del dominio pleno, tratándose de tierra ejidal formalmente parcelada; terminación del régimen ejidal y regularización de las tierras ejidales;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -1121,9 +1145,7 @@ IV. Consolidar y regular los servicios asociados a las actividades económicas, 
 
 V. Coordinar, operar y supervisar el Sistema de Información Económica y de Mercado de Quintana Roo, con el objeto de apoyar en la toma de decisiones en materia económica a los diversos agentes económicos y sociales del Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
-
-VI. Implementar y conducir en coordinación con las Dependencias y Entidades involucradas de los tres niveles de gobierno las políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites y servicios en general y demás objetivos que contenga la ley de la materia, destinados principalmente a promover el desarrollo económico de la entidad; procurando los mayores beneficios para la sociedad, con los menores costos posibles;
+VI. (DEROGADA, P.O. 7 DE OCTUBRE DE 2024)
 
 VII. Promover y coordinar los programas de promoción del comercio exterior y la inversión extranjera en los diversos sectores de la economía de la Entidad con base en la Legislación y normatividad aplicable;
 
@@ -1663,9 +1685,13 @@ XXXV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 A la Secretaría de la Contraloría corresponde el despacho de los siguientes asuntos:
 
-I.- Consolidar, coordinar, regular y difundir el Sistema Estatal de Fiscalización del Estado y formular los programas del mismo, con base en la legislación, normatividad y criterios que regulan la materia.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
 
-II.- Fiscalizar directamente o a través de los Órganos Internos de Control, que las dependencias y entidades paraestatales de la administración pública del Estado, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la administración pública del Estado.
+I.- Participar, en el ámbito de su competencia, en el Sistema Nacional de Fiscalización, como su integrante;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+II.- Fiscalizar directamente o a través de los Órganos Internos de Control, que las dependencias y entidades paraestatales de la administración pública del Estado, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la administración pública del Estado, y que el otorgamiento de concesiones para el uso, aprovechamiento o explotación de bienes del dominio público del Estado, o el establecimiento y explotación de servicios públicos, sean realizados conforme a las disposiciones aplicables;
 
 III.- Organizar y coordinar el sistema de control interno y fiscalizar el ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como concertar con las dependencias y entidades paraestatales de la administración pública del Estado, y validar los indicadores, en los términos de las disposiciones aplicables; de igual forma vigilar el cumplimiento de las normas y políticas del Estado en materia de austeridad, racionalidad y disciplina presupuestal.
 
@@ -1683,9 +1709,13 @@ IX.- Emitir la normatividad que regule los Reglamentos Interiores, Manuales Admi
 
 X.- Participar en la Planeación del Desarrollo del Estado en el ámbito de su competencia.
 
-XI.- Vigilar y verificar en el ámbito de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas con el Poder Ejecutivo del Estado, solicitándoles la información de las operaciones que realice.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
 
-XII.- Promover la transparencia en la elaboración y aplicación de las regulaciones en la entidad y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad, para lo cual deberá coordinar, regular, supervisar, vigilar y ejecutar el proceso de mejora regulatoria en el Estado.
+XI.- Vigilar y verificar en el ámbito de su competencia, el cumplimiento de las obligaciones de proveedores, contratistas y concesionarios del Estado, solicitándoles la información de las operaciones que realicen;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XII.- Promover, en coordinación con la Consejería Jurídica del Poder Ejecutivo, que la elaboración y aplicación de las regulaciones en la entidad generen beneficios superiores a sus costos y el máximo beneficio para la sociedad; así como emitir opinión técnica dentro del ámbito de su competencia;
 
 XIII.- Promover, ante las dependencias y entidades paraestatales de la administración pública del Estado, los mecanismos para informar a la población de los trámites y servicios que prestan.
 
@@ -1785,7 +1815,9 @@ XLII.- Emitir las normas para que los recursos humanos, patrimoniales y los proc
 
 XLIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
-El nombramiento del Secretario de la Contraloría que someta el Ejecutivo del Estado a ratificación de la Legislatura del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+El nombramiento de persona titular de la Secretaría de la Contraloría que someta la persona Titular del Ejecutivo del Estado a ratificación de la Legislatura del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -1869,6 +1901,10 @@ XII. Participar, por acuerdo del Gobernador del Estado, como coadyuvante en los 
 
 XIII. Coordinar y participar, junto con las Dependencias, Entidades y demás organismos auxiliares de la Administración Pública estatal o municipal en la actualización y simplificación del marco jurídico del Estado;
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XIII Bis. Coordinar, operar, supervisar, regular, vigilar y ejecutar las políticas y el proceso en materia de mejora regulatoria en el Estado de conformidad con lo establecido en la ley de la materia;
+
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
 XIV. Intervenir en los juicios de amparo, cuando el Gobernador tenga el carácter de autoridad responsable, exista solicitud de la autoridad responsable o medie instrucción del Gobernador, así como supervisar todas las etapas de su proceso y la elaboración de los informes previos y con justificación cuando la importancia del asunto lo amerite;
@@ -1881,9 +1917,9 @@ XV. Tramitar y substanciar para poner en estado de resolución los recursos admi
 
 XVI. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado y solicitar ante las autoridades competentes la reparación del daño cuando resulte procedente, de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
 
-XVII. Intervenir conjuntamente con las Secretarías de Gobierno, y demás instancias competentes, en la tramitación e integración de los expedientes de expropiación, ocupación temporal o limitación de dominio;
+XVII. Llevar a cabo los procedimientos de expropiación, ocupación temporal o limitación de dominio, que en su caso se inicien a petición de autoridad competente, de conformidad con la Ley en la materia;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -1916,6 +1952,10 @@ XXIV. Requerir a las dependencias y entidades paraestatales de la Administració
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
 
 XXV. Emitir las disposiciones a las que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal para la elaboración, revisión y trámite de proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico que deban ser sometidos a la consideración y, en su caso, firma del Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XXV Bis. Proporcionar capacitación en materia jurídica y normativa con perspectiva de género y de derechos humanos, a las Dependencias y Entidades de la Administración Pública Estatal, a los Municipios, así como a los Sectores Social o Privado, así como emitir las certificaciones necesarias en estas materias;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -2037,9 +2077,7 @@ XXVIII. Implementar, administrar, supervisar, operar y dar mantenimiento a la in
 
 XXIX. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de Vigilancia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
-
-XXX. Organizar y administrar al Centro Estatal de Evaluación y Control de Confianza, bajo la normativa correspondiente que permita el desarrollo de una función desconcentrada en este rubro, y
+XXX. (DEROGADA, P.O. 7 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -2522,3 +2560,27 @@ QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Admi
 SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
 
 SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del “Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023”, publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
+
+P.O. 7 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 008 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo, la Secretaría de Gobierno y la Consejería Jurídica del Poder Ejecutivo, en el ámbito de sus facultades, llevarán a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana, del Centro Estatal de Evaluación y Control de Confianza (C3), como organismo desconcentrado de la Secretaría de Gobierno y de la Comisión Estatal de Mejora Regulatoria, como organismo desconcentrado de la Consejería Jurídica del Poder Ejecutivo.
+
+TERCERO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+CUARTO. Los recursos humanos, materiales y financieros que correspondan al Centro Estatal de Evaluación y Control de Confianza (C3), pasarán íntegramente como órgano desconcentrado de la Secretaría de Gobierno, para lo cual la Secretaría de Gobierno, la Secretaría de Seguridad Ciudadana, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores del Centro Estatal de Evaluación y Control de Confianza (C3), quienes pasarán a formar parte como órgano desconcentrado de la Secretaría de Gobierno.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan a la Comisión Estatal de Mejora Regulatoria, pasarán íntegramente como órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo, para lo cual la Secretaría de Desarrollo Económico, la Consejería Jurídica del Poder Ejecutivo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores de la Comisión Estatal de Mejora Regulatoria, quienes pasarán a formar parte como órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo.
+
+SEXTO. Los asuntos, procedimientos y demás trámites vigentes a cargo del Centro Estatal de Evaluación y Control de Confianza (C3) y que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, serán informados y asumidos de inmediato por la Secretaría de Gobierno, para su atención.
+
+SÉPTIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
