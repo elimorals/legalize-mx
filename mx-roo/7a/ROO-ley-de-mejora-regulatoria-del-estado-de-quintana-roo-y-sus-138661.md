@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-mejora-regulatoria-del-estado-de-quintana-roo-y-sus-1386
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-11"
-last_updated: "2019-10-11"
+last_updated: "2024-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 117 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 11 de octubre de 2019.
 
@@ -457,9 +457,11 @@ XIX. Las demás que se deriven de esta Ley y otras disposiciones jurídicas apli
 
 ### Capítulo IV. De la Comisión Estatal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-La Comisión Estatal de Mejora Regulatoria, es un órgano desconcentrado de la Secretaría de Desarrollo Económico, con autonomía técnica y operativa, tiene como objetivo promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+La Comisión Estatal de Mejora Regulatoria, es un órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo del Estado, con autonomía técnica y operativa, tiene como objetivo promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
 
 ###### Artículo 26.
 
@@ -517,11 +519,13 @@ XXV. Supervisar que los sujetos obligados de la Administración Pública Estatal
 
 XXVI. Las demás facultades que establezcan esta ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-La Comisión Estatal estará presidida por un Comisionado, quien será designado por el Titular del Ejecutivo Estatal, a propuesta de la persona titular de la Secretaría de Desarrollo Económico. El Comisionado tendrá nivel de Subsecretario, Oficial Mayor o equivalente y durará en su encargo seis años.
+La Comisión Estatal estará presidida por una persona Comisionada, quien será designada por la persona Titular del Ejecutivo Estatal, a propuesta de la persona titular de la Consejería Jurídica del Poder Ejecutivo. La persona Comisionada tendrá nivel de Subsecretario, Oficial Mayor o equivalente y durará en su encargo seis años.
 
-El Comisionado deberá contar con título profesional en materias afines al objeto de la Comisión Estatal, tener al menos treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales del sector empresarial, de servicio público o académicas relacionadas con el objeto de la Comisión Estatal.
+La persona Comisionada deberá contar con título profesional en materias afines al objeto de la Comisión Estatal, tener al menos treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales del sector empresarial, de servicio público o académicas relacionadas con el objeto de la Comisión Estatal.
 
 ###### Artículo 28.
 
@@ -737,7 +741,9 @@ Para tal efecto, el Consejo Estatal expedirá los lineamientos para que los Suje
 
 El Registro Estatal y los Municipales tendrán carácter público y contendrán la misma información que estará inscrita en el Registro Nacional de Regulaciones previsto en la Ley General de Mejora Regulatoria.
 
-Corresponde a la Comisión Estatal, en coordinación con la Consejería Jurídica del Poder Ejecutivo del Estado, la integración y administración del Registro Estatal de Regulaciones.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2024)</small>
+
+Corresponde a la Comisión Estatal, la integración y administración del Registro Estatal de Regulaciones.
 
 ###### Artículo 44.
 
@@ -1308,3 +1314,29 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISIETE DÍAS DEL MES DE MAYO DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 008 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo, la Secretaría de Gobierno y la Consejería Jurídica del Poder Ejecutivo, en el ámbito de sus facultades, llevarán a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana, del Centro Estatal de Evaluación y Control de Confianza (C3), como organismo desconcentrado de la Secretaría de Gobierno y de la Comisión Estatal de Mejora Regulatoria, como organismo desconcentrado de la Consejería Jurídica del Poder Ejecutivo.
+
+TERCERO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+CUARTO. Los recursos humanos, materiales y financieros que correspondan al Centro Estatal de Evaluación y Control de Confianza (C3), pasarán íntegramente como órgano desconcentrado de la Secretaría de Gobierno, para lo cual la Secretaría de Gobierno, la Secretaría de Seguridad Ciudadana, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores del Centro Estatal de Evaluación y Control de Confianza (C3), quienes pasarán a formar parte como órgano desconcentrado de la Secretaría de Gobierno.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan a la Comisión Estatal de Mejora Regulatoria, pasarán íntegramente como órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo, para lo cual la Secretaría de Desarrollo Económico, la Consejería Jurídica del Poder Ejecutivo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores de la Comisión Estatal de Mejora Regulatoria, quienes pasarán a formar parte como órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo.
+
+SEXTO. Los asuntos, procedimientos y demás trámites vigentes a cargo del Centro Estatal de Evaluación y Control de Confianza (C3) y que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, serán informados y asumidos de inmediato por la Secretaría de Gobierno, para su atención.
+
+SÉPTIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
