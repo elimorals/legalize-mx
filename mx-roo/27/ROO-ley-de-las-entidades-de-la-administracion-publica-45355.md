@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-las-entidades-de-la-administracion-publica-45355"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-22"
-last_updated: "2023-07-13"
+last_updated: "2024-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 4 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el 22 de enero de 2003.
 
@@ -585,9 +585,17 @@ X. Presentar periódicamente al órgano colegiado de gobierno, en su caso, el in
 
 XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeña la entidad y presentar al órgano colegiado de gobierno, en su caso, por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano y escuchando al comisario público.
 
-XII. Ejecutar los acuerdos que dicte el órgano colegiado de gobierno.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
 
-XIII. Las que señalen las otras leyes, decretos, reglamentos, acuerdos y demás disposiciones administrativas aplicables, con las salvedades que advierte este ordenamiento.
+XII. Ejecutar los acuerdos que dicte el órgano colegiado de gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XIII. Certificarlos documentos que obren en sus archivos y los expedidos por las personas servidoras públicas que les estén subordinadas en el ejercicio de sus atribuciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2024)</small>
+
+XIV. Las que señalen las otras leyes, decretos, reglamentos, acuerdos y demás disposiciones administrativas aplicables, con las salvedades que advierte este ordenamiento.
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACIÓN
 
@@ -802,3 +810,27 @@ P.O. 13 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 008 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo, la Secretaría de Gobierno y la Consejería Jurídica del Poder Ejecutivo, en el ámbito de sus facultades, llevarán a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana, del Centro Estatal de Evaluación y Control de Confianza (C3), como organismo desconcentrado de la Secretaría de Gobierno y de la Comisión Estatal de Mejora Regulatoria, como organismo desconcentrado de la Consejería Jurídica del Poder Ejecutivo.
+
+TERCERO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+CUARTO. Los recursos humanos, materiales y financieros que correspondan al Centro Estatal de Evaluación y Control de Confianza (C3), pasarán íntegramente como órgano desconcentrado de la Secretaría de Gobierno, para lo cual la Secretaría de Gobierno, la Secretaría de Seguridad Ciudadana, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento (sic) al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores del Centro Estatal de Evaluación y Control de Confianza (C3), quienes pasarán a formar parte como órgano desconcentrado de la Secretaría de Gobierno.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan a la Comisión Estatal de Mejora Regulatoria, pasarán íntegramente como órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo, para lo cual la Secretaría de Desarrollo Económico, la Consejería Jurídica del Poder Ejecutivo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores de la Comisión Estatal de Mejora Regulatoria, quienes pasarán a formar parte como órgano desconcentrado de la Consejería Jurídica del Poder Ejecutivo.
+
+SEXTO. Los asuntos, procedimientos y demás trámites vigentes a cargo del Centro Estatal de Evaluación y Control de Confianza (C3) y que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, serán informados y asumidos de inmediato por la Secretaría de Gobierno, para su atención.
+
+SÉPTIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
