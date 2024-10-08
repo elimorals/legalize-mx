@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-primer-empleo-del-estado-de-puebla-119013"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2024-02-21"
+last_updated: "2024-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de enero de 2017.
 
@@ -139,9 +139,11 @@ Para determinar el número base de los registros cuyo incremento se considerará
 
 Los puestos de nueva creación deberán permanecer existentes por un periodo mínimo de veinticuatro meses continuos, contados a partir del momento en que sean creados, plazo durante el cual el puesto deberá ser ocupado por un trabajador de primer empleo. Transcurrido dicho periodo, los puestos de nueva creación dejarán de tener los beneficios a que se refiere el artículo 8 de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-Para tener derecho al estímulo a que se refiere el artículo 8 de la presente Ley, el patrón deberá cumplir respecto de la totalidad de los trabajadores de primer empleo que se contraten con los requisitos que para tal efecto establezca la legislación aplicable.
+Para tener derecho al estímulo a que se refiere el artículo 8 de la presente Ley, el patrón deberá cumplir respecto de la totalidad de los trabajadores de primer empleo que se contraten con los requisitos que para tal efecto establezca la legislación aplicable, y observar criterios de inclusión y no discriminación.
 
 ###### ARTÍCULO 12.
 
@@ -290,3 +292,11 @@ P.O. 21 DE FEBRERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO11 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas y legales contrarias o que se opongan al presente Decreto.
