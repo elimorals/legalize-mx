@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-organismo-publico-descentralizado-del-poder-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2024-07-16"
+last_updated: "2024-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2024.
 
 Ley publicada en la sección X del Periódico Oficial del Estado de Jalisco, el martes 24 de diciembre de 2013.
 
@@ -183,21 +183,25 @@ e) Un representante del municipio de El Salto;
 
 f) Un representante del municipio de Juanacatlán;
 
-g) Un representante de la Secretaría General de Gobierno;
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2024)</small>
 
-h) Un representante de la Secretaría de Infraestructura y Obra Pública;
+g) Un representante del municipio de Tlajomulco de Zúñiga;
 
-i) Dos representantes de la Secretaría de Medio Ambiente y Desarrollo Territorial;
+h) Un representante de la Secretaría General de Gobierno;
 
-j) Dos representantes de la Secretaría de Administración así como un representante de la Secretaría de la Hacienda Pública;
+i) Un representante de la Secretaría de Infraestructura y Obra Pública;
 
-k) Dos representantes de la Comisión Estatal del Agua;
+j) Dos representantes de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-l) Un representante de asociaciones vecinales que será el Presidente de la Asamblea General de las asociaciones de vecinos del Municipio con mayor registro de usuarios del área metropolitana de Guadalajara;
+k) Dos representantes de la Secretaría de Administración así como un representante de la Secretaría de la Hacienda Pública;
 
-m) Un representante de la universidad de mayor matricula; y
+l) Dos representantes de la Comisión Estatal del Agua;
 
-n) Un representante del Consejo de Cámaras Industriales de Jalisco, A.C.
+m) Un representante de asociaciones vecinales que será el Presidente de la Asamblea General de las asociaciones de vecinos del Municipio con mayor registro de usuarios del área metropolitana de Guadalajara;
+
+n) Un representante de la universidad de mayor matricula; y
+
+o) Un representante del Consejo de Cámaras Industriales de Jalisco, A.C.
 
 ###### Artículo 7.
 
@@ -644,3 +648,13 @@ Artículo Segundo. La Junta de Gobierno del organismo operador de los servicios 
 Artículo Tercero. En los términos de la fracción XI del artículo 35 de la Constitución Política del Estado de Jalisco , se autoriza al municipio de El Salto, Jalisco, a suscribir el convenio de incorporación al organismo operador de los servicios de agua potable, drenaje, alcantarillado, tratamiento, reutilización, disposición de aguas residuales y manejo de aguas pluviales en el área metropolitana de Guadalajara.
 
 Artículo Cuarto. En los términos de la fracción XI del artículo 35 de la Constitución Política del Estado de Jalisco , se autoriza al municipio de Juanancatlán (sic), Jalisco, a suscribir el convenio de incorporación al organismo operador de los servicios de agua potable , drenaje, alcantarillado, tratamiento , reutilización, disposición de aguas residuales y manejo de aguas pluviales en el área metropolitana de Guadalajara.
+
+P.O. 8 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29570/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 6°, ADICIONANDO EL INCISO G) RECORRIENDO LOS DEMÁS INCISOS EN SU ORDEN, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARRILLADO (SIC)”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Artículo Segundo. La Junta de Gobierno del organismo operador de los servicios de agua potable, drenaje, alcantarillado, tratamiento, reutilización, disposición de aguas residuales y manejo de aguas pluviales en el área metropolitana de Guadalajara, deberá formalizar la incorporación a la Junta de Gobierno dentro de los días siguientes a la entrada en vigor de este decreto o a que se suscriba el convenio de incorporación.
+
+Artículo Tercero. En los términos de la fracción XI del artículo 35 de la Constitución Política del Estado de Jalisco, se autoriza al municipio de Tlajomulco de Zúñiga, Jalisco, a suscribir el convenio de incorporación al organismo operador de los servicios de agua potable, drenaje, alcantarillado, tratamiento, reutilización, disposición de aguas residuales y manejo de aguas pluviales en el área metropolitana de Guadalajara.
