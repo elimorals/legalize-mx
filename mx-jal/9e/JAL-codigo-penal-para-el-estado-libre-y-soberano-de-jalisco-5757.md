@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2024-06-25"
+last_updated: "2024-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4365,39 +4365,45 @@ Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la 
 
 ###### Art. 227.
 
-Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
+(DEROGADO, P.O. 8 DE OCTUBRE DE 2024)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2024)</small>
 
 ###### Art. 228.
 
-Se impondrán de cuatro meses a un año de prisión a la madre que, voluntariamente, procure el aborto o consienta en que otra persona la haga abortar con ese fin y que el aborto se efectúe dentro de los primeros cinco meses del embarazo.
+Se impondrán de cuatro meses a un año de prisión a la mujer embarazada que, voluntariamente, procure la interrupción de un embarazo o consienta que otra persona la practique y que ésta se efectúe después de la decimosegunda semana del embarazo. En este caso, no será punible la tentativa.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2024)</small>
 
-Si el aborto se efectúa después de los primeros cinco meses del embarazo se duplicará la pena.
+###### Art. 228 Bis.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE OCTUBRE DE 2012)</small>
+Se impondrán de tres a seis años de prisión a quien haga que una mujer embarazada interrumpa el embarazo, en cualquier momento de la gestación, sin su consentimiento o en contra de su voluntad. Si además mediare violencia física o psicológica, la sanción será de cuatro a seis años de prisión.
 
-La misma sanción se impondrá al que haga abortar a una mujer a solicitud de ésta, siempre que no se trate de un abortador habitual o de persona ya condenada por aborto, pues en tal caso la sanción será de dos a cinco años de prisión.
+Si la interrupción del embarazo la causare personal médico, pasante o estudiante de medicina o de enfermería, profesional de partería o comadrona en los términos del párrafo anterior, además de las sanciones que le correspondan, se le suspenderá de uno a cinco años en el ejercicio de su profesión, oficio o respectiva actividad.
 
-Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de tres a seis años, y, si mediare violencia física o moral, de cuatro a seis años de prisión.
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2024)</small>
 
-Si el aborto lo causare un médico cirujano, pasante o estudiante de medicina, partera, comadrona o enfermero, además de las sanciones que le correspondan, se le suspenderá de uno a cinco años en el ejercicio de su profesión, oficio o respectiva actividad.
+###### Art. 228 Ter.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2009)</small>
+Las sanciones a que se refiere este Capítulo aplicables a la mujer embarazada serán sustituidas por un proceso de atención integral siempre que ésta lo solicite.
 
-Tratándose de las sanciones a que se refiere este artículo aplicables a la mujer que, voluntariamente, procure el aborto o consienta en que otra persona la haga abortar con ese fin, el juez queda facultado para sustituirlas por un tratamiento médico integral; bastará que lo solicite y ratifique la responsable; lo anterior, siempre y cuando no se presente reincidencia de su parte.
+El juez también podrá determinar la sustitución aun cuando no se solicite.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2009)</small>
+El proceso de atención integral será provisto por instituciones del estado.
 
-El tratamiento referido en este precepto será provisto por las instituciones de salud del estado y tendrá como objeto la atención integral de las consecuencias generadas con motivo de la práctica del aborto provocado, así como el de reafirmar los valores humanos por la maternidad, procurando el fortalecimiento de la familia.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2024)</small>
 
 ###### Art. 229.
 
-No es punible el aborto culposo causado por la mujer embarazada ni cuando el embarazo sea resultado de una violación.
+Son excluyentes de responsabilidad penal en el delito de aborto:
 
-Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+I. Cuando el aborto culposo sea causado por la mujer embarazada;
+
+II. Cuando el embarazo sea resultado de una violación, un abuso sexual infantil o una inseminación artificial no consentida;
+
+III. Cuando de no provocarse la interrupción del embarazo, la mujer embarazada corra peligro de muerte o riesgo de afectación a su salud, a juicio del médico que la asista; o
+
+IV. Cuando a juicio de un médico exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales graves, siempre que se tenga el consentimiento de la mujer embarazada.
 
 ### CAPITULO X. Feminicidio
 
@@ -7382,5 +7388,11 @@ P.O. 9 DE MARZO DE 2024.
 P.O. 25 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29545/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO PENAL, CÓDIGO CIVIL, TODAS LAS LEYES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29572/LXIII/24 DEL CONGRESO DEL ESTADO QUE DEROGA, REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
