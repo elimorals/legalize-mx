@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1733
 country: "mx"
 rank: "ley"
 publication_date: "2024-05-30"
-last_updated: "2024-05-30"
+last_updated: "2024-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173332&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Sexta del Número 104 del Periódico Oficial del Estado de Nayarit, el jueves 30 de mayo de 2024.
 
@@ -61,9 +61,11 @@ La persona Titular del Poder Ejecutivo Estatal y los Ayuntamientos que integran 
 
 Los Prestadores de Servicios de Cuidado Infantil, en cualquiera de sus modalidades y tipos, quedan sujetos a lo dispuesto en la presente Ley, Reglamentos y en su caso, a las disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 4.
 
-En los casos no previstos por la presente Ley y su Reglamento, serán de aplicación supletoria las disposiciones contenidas en los tratados y convenios internacionales suscritos y ratificados por México en materia de protección de los derechos de la infancia, la Ley General y su Reglamento, las normas en materia de salud, protección civil, educación de ser el caso, el Código Civil para el Estado de Nayarit y demás ordenamientos vigentes en el Estado de Nayarit.
+En lo no previsto por la presente Ley y su Reglamento, serán de aplicación supletoria, la Ley de los Derechos de niñas, niños y adolescentes para el Estado de Nayarit, las normas estatales en materia de salud, protección civil, educación de ser el caso, el Código Civil para el Estado de Nayarit y demás ordenamientos vigentes en el Estado de Nayarit.
 
 ###### Artículo 5.
 
@@ -1182,3 +1184,11 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Sergio Arturo Castillo Alfaro, Presidente.- Rúbrica.- Dip. Tania Montenegro Ibarra, Secretaria.- Rúbrica.- Dip. Alejandro Regalado Curiel, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintinueve días del mes de mayo de dos mil veinticuatro.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Dra. en D. Rocío Esther González García, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 4 DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
