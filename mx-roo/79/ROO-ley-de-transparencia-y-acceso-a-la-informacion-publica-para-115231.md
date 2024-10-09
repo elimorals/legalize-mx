@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2023-07-13"
+last_updated: "2024-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -144,6 +144,10 @@ XVII. Instituto Nacional: Instituto Nacional de Transparencia, Acceso a la Infor
 XVIII. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo;
 
 XIX. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIX Bis. Ley de Responsabilidades Administrativas del Estado: La Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios;
 
 XX. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General;
 
@@ -487,7 +491,9 @@ I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercic
 
 II. Estar inscrito en el padrón electoral y contar con credencial para votar;
 
-III. No tener menos de treinta y cinco años de edad el día de la designación;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+III. Tener treinta años de edad cumplidos el día de su designación;
 
 IV. Poseer, al día de su designación, título y cédula profesionales de nivel licenciatura;
 
@@ -575,9 +581,13 @@ VIII. La designación del Comisionado se mandará a publicar en el Periódico Of
 
 La Legislatura del Estado, o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán remover de su cargo a los Comisionados, en términos del Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo y serán sujetos de juicio político.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 38.
 
-En la elección de los Comisionados se procurará privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales y atender la igualdad de género.
+En la elección de los Comisionados se procurará privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales y en apego al principio de paridad de género.
+
+La estructura orgánica del Instituto privilegiará el principio de paridad de género en su conformación.
 
 ###### Artículo 39.
 
@@ -855,7 +865,9 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 
 El Instituto contará con un Consejo Consultivo, que fungirá como su órgano colegiado y plural, de asesoría y apoyo, estará integrado por cuatro consejeros, uno de los cuales fungirá como Presidente, a elección de sus miembros, el cual durará dos años con posibilidad de reelección.
 
-Los Consejeros serán elegidos por el voto de las dos terceras partes de los integrantes presentes de la Legislatura del Estado, tendrán el carácter honorífico y durarán en sus respectivos cargos un período de cuatro años.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Las Consejeras y los Consejeros serán elegidos por el voto de las dos terceras partes de los integrantes presentes de la Legislatura del Estado, tendrán el carácter honorífico y durarán en sus respectivos cargos un periodo de cuatro años. Cada uno de los nombramientos se realizarán en apego al principio de paridad de género.
 
 Los Consejeros deben cumplir los siguientes requisitos:
 
@@ -1021,55 +1033,41 @@ XXI. Inscribir y mantener actualizada la información correspondiente del Sistem
 
 XXII. Las demás que le confieran otros ordenamientos.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 73 Quáter.
 
-El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+La persona titular del Órgano Interno de Control, durará en su encargo siete años con posibilidad de reelección por un periodo adicional y deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución del Estado.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+La retribución que perciba la persona titular del Órgano Interno de Control será la equivalente a la de un Comisionado.
 
-II. Tener treinta años de edad cumplidos el día de la designación;
-
-III. Gozar de buena reputación y no haber sido condenado por delito doloso;
-
-IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
-
-V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
-
-VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
-
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público,
-
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijurídicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-X. No ser declarada persona deudora alimentaria morosa.
-
-El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 73 Quinquies.
 
-La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+La designación de la persona titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
-I. La Mesa Directiva de la Legislatura o la Diputación Permanente, en su caso, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+I. La Mesa Directiva en funciones de la Legislatura, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección de la persona titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo y en dos periódicos de mayor circulación en el Estado, además en las redes sociales del Poder Legislativo para mayor publicidad;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo;
 
-Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por los candidatos que resulten idóneos, ante la Legislatura del Estado o la Diputación Permanente, en su caso, para la designación correspondiente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente, en su caso.
+Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por las personas candidatas que resulten idóneas, ante la Legislatura del Estado, para la designación correspondiente.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IV. Aprobada la designación, la persona titular rendirá la protesta de ley ante la Legislatura del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
@@ -1081,41 +1079,63 @@ El titular del Órgano Interno de Control del Instituto será sujeto de responsa
 
 Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 73 Sépties.
 
-El Órgano Interno de Control será removido de su cargo por la Legislatura por la Diputación Permanente, o en su caso, por las siguientes causas:
+La persona titular del Órgano Interno de Control será removida de su cargo por la Legislatura del Estado, por las siguientes causas:
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 II. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 III. Haber sido condenado por delito doloso;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 IV. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 V. Abstenerse de resolver sin causa justificada y en forma reiterada, los asuntos de su competencia dentro (sic) los plazos previstos por la Ley;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+
 VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Federación o el Estado causando perjuicios graves a las instituciones democráticas del país, a la sociedad, o motivar alguna deficiencia en el funcionamiento normal de las instituciones del Estado Mexicano, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
 VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 73 Octies.
 
-En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Pleno del Instituto, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o de la Diputación Permanente, en su caso, acompañando el expediente del asunto.
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Pleno del Instituto, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente a la presidencia de la Mesa Directiva en funciones de la Legislatura, acompañando el expediente del asunto.
 
-El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+La Presidencia de la Mesa Directiva en funciones turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Dicha Comisión citará a la Persona titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
 
-Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o a la Diputación Permanente, en su caso, quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Pleno del Instituto para los efectos legales que correspondan.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el período.
+Concluida la audiencia, se concederá a la persona titular del Órgano Interno de Control sujeta al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura del Estado, en su caso, quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Pleno del Instituto para los efectos legales que correspondan y la Legislatura iniciará el procedimiento para la designación de la persona titular del Órgano Interno de Control.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ## TÍTULO CUARTO. PLATAFORMA NACIONAL DE TRANSPARENCIA
 
@@ -2641,9 +2661,13 @@ III. El sujeto obligado responsable del acto lo modifique o revoque de tal maner
 
 IV. Admitido el recurso de revisión, aparezca alguna causal de improcedencia en los términos del presente Capítulo.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 185.
 
-Las resoluciones del Instituto son vinculatorias, definitivas e inatacables para los sujetos obligados.
+Las resoluciones que emita el Instituto serán vinculatorias, definitivas, inatacables y obligatorias para los sujetos obligados.
+
+El Instituto adoptará para el ejercicio de sus atribuciones el principio de Justicia Abierta, que contemplará cuando menos, la transparencia, la perspectiva de género y de derechos humanos, la rendición de cuentas, la participación ciudadana y la implementación de tecnologías de información.
 
 ###### Artículo 186.
 
@@ -2793,11 +2817,11 @@ Una vez analizadas las pruebas y demás elementos de convicción, el Instituto r
 
 Cuando haya causa justificada por acuerdo indelegable del Pleno del Instituto, podrá ampliar por una sola vez y hasta por un período igual el plazo de resolución.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 202.
 
-El Instituto aplicará de manera supletoria la ley en materia de responsabilidades administrativas que corresponda en el ámbito local, para desahogar el procedimiento sancionatorio previsto en el artículo anterior de esta Ley.
+Para dar cumplimiento al artículo anterior el Instituto aplicará de manera supletoria la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios.
 
 ###### Artículo 203.
 
@@ -2988,3 +3012,13 @@ P.O. 13 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Su derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 012 POR El QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Pleno del Tribunal Electoral de Quintana Roo llevará acabo el procedimiento previsto en la Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo, para la designación de la Persona Titular de su Órgano Interno de Control, quien deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución Política del Estado Libre y Soberano de Quintana Roo y deberá ser designado para un periodo de siete años en el cargo con posibilidad de reelección por un periodo adicional de igual duración. La designación se realizará en el mismo plazo a que se refiere el párrafo primero del artículo tercero transitorio del Decreto 002 expedido por la H. XVIII Legislatura del Estado y publicado en fecha 09 de septiembre de 2024.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
