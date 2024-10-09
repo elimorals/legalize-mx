@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-103935"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-01"
-last_updated: "2022-07-11"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -79,7 +79,9 @@ X. Policía Facultada: la policía con capacidades para procesar la escena del h
 
 XI. Policía Procesal: aquella a la que le corresponda coadyuvar con las autoridades jurisdiccionales para garantizar el mantenimiento del orden y la seguridad en las audiencias y diligencias que ordenen los jueces de control y de juicio cuando en ella concurran personas que se encuentren privadas de su libertad;
 
-XII. Secretaría: Secretaría de Seguridad Pública y Protección a la Comunidad;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XII. Secretaría: Secretaría de Protección y Seguridad Ciudadana;
 
 XIII. Sistema Nacional: Sistema Nacional de Seguridad Pública; y
 
@@ -271,9 +273,11 @@ Los programas en materia de desarrollo policial serán elaborados por la Secreta
 
 ### CAPÍTULO I. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-Se establece el Consejo Estatal de Seguridad Pública como órgano desconcentrado de la Secretaría de Gobierno e instancia superior de coordinación, supervisión, planeación y deliberación de políticas públicas del Sistema Estatal, así como de colaboración y participación ciudadana en la materia.
+Se establece el Consejo Estatal de Seguridad Pública como órgano desconcentrado de la Secretaría e instancia superior de coordinación, supervisión, planeación y deliberación de políticas públicas del Sistema Estatal, así como de colaboración y participación ciudadana en la materia.
 
 ###### ARTÍCULO 21.
 
@@ -317,31 +321,33 @@ XVIII. Las demás cuestiones que en adición a las anteriores se requieran para 
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
 El Consejo Estatal de Seguridad Pública se integra por:
 
-I. El Gobernador del Estado, que lo preside;
+I. La Gobernadora o Gobernador del Estado, que lo preside;
 
-II. El Secretario de Gobierno, en su carácter de vicepresidente;
+II. La persona titular de la Secretaría de Protección y Seguridad Ciudadana, en su carácter de vicepresidente;
 
-III. El Secretario de Seguridad Pública y Protección a la Comunidad;
+III. La persona titular de la Secretaría de Gobierno;
 
-IV. El Fiscal General del Estado;
+IV. La persona titular de la Fiscalía General del Estado;
 
-V. El Secretario de Finanzas;
+V. La persona titular de la Secretaría de Administración y Finanzas;
 
-VI. El Secretario de Administración e Innovación Gubernamental;
+VI. La persona titular de la Secretaría de Modernización Administrativa e Innovación Gubernamental;
 
-VII. El Secretario de Desarrollo Urbano y Obras Públicas;
+VII. La persona titular de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
 
-VIII. El Secretario de la Contraloría;
+VIII. La persona titular de la Secretaría de la Contraloría;
 
-IX. El Secretario Ejecutivo del Consejo Estatal;
+IX. La persona titular del Secretariado Ejecutivo del Consejo Estatal;
 
-X. Los titulares de los órganos de apoyo adscritos al Consejo Estatal; y
+X. Las y los titulares de los Órganos de Apoyo adscritos al Consejo Estatal; y
 
-XI. Los Presidentes Municipales.
+XI. Las y los Presidentes Municipales.
 
 ###### ARTÍCULO 23.
 
@@ -689,23 +695,23 @@ El funcionamiento interno del Consejo Consultivo de Participación Ciudadana est
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS DE APOYO A LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 56.
 
-Las instituciones que participan en el Sistema Estatal, o municipales, contarán con el apoyo de los siguientes órganos, los cuales dependerán directamente del Consejo Estatal:
+Las instituciones que participan en el Sistema Estatal, o Municipales, contarán con el apoyo de los siguientes Órganos, los cuales dependerán directamente del Consejo Estatal:
 
 I. El Centro de Estudios en Seguridad Pública, como órgano de capacitación, profesionalización y desarrollo del servicio civil de carrera de las instituciones de seguridad pública del Estado y los Municipios;
 
 II. El Centro de Enlace Informático, como encargado de administrar las bases de datos e información que las distintas instituciones generen y que sea útil para el combate a la delincuencia y a las conductas antisociales, así como llevar el registro estadístico de la seguridad pública;
 
-III. El Centro Estatal de Evaluación y Control de Confianza, que tiene como finalidad regular el funcionamiento de organismos públicos y privados mediante la evaluación permanente y prácticas de exámenes de control de confianza, polígrafos, psicológicos, de entorno social y médico-toxicológicos, al personal de las instituciones policiales, de procuración de justicia y centros de reinserción social, para la selección, ingreso, promoción, formación, permanencia, reconocimiento y certificación del personal de las mismas; y
+III. El Centro de Control, Comando, Comunicaciones y Cómputo, como instancia que administra el sistema de atención de llamadas de emergencia, coordina la respuesta policial y mantiene en operación el enlace con la red nacional y estatal de telecomunicaciones al servicio de las instituciones de seguridad pública del Estado;
 
-IV. El Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que tiene como finalidad formular, establecer, planear, coordinar, diseñar, implementar y dar seguimiento a las políticas públicas en materia de prevención social de la violencia y la delincuencia, así como fomentar en el Estado la cultura de la paz, la legalidad y el respeto a los derechos humanos.
+IV. El Centro Estatal de Evaluación y Control de Confianza, que tiene como finalidad regular el funcionamiento de organismos públicos y privados mediante la evaluación permanente y prácticas de exámenes de control de confianza, polígrafos, psicológicos, de entorno social y médico-toxicológicos, al personal de las instituciones policiales, de procuración de justicia y centros de reinserción social, para la selección, ingreso, promoción, formación, permanencia, reconocimiento y certificación del personal de las mismas; y
+
+V. El Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que tiene como finalidad formular, establecer, planear, coordinar, diseñar, implementar y dar seguimiento a las políticas públicas en materia de prevención social de la violencia y la delincuencia, así como fomentar en el Estado la cultura de la paz, la legalidad y el respeto a los derechos humanos.
 
 La o el Presidente del Consejo Estatal designará a las o los titulares de cada uno de los organismos señalados, salvo el caso de la o el titular del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que será designado conforme lo establezca la Ley en la materia.
-
-Asimismo, las instituciones que participan en el Sistema Estatal, o municipales, contarán con el apoyo del Centro de Control, Comando, Comunicaciones y Cómputo, como instancia que administra el sistema de atención de llamadas de emergencia, coordina la respuesta policial y mantiene en operación el enlace con la red nacional y estatal de telecomunicaciones al servicio de las instituciones de seguridad pública del Estado, el cual dependerá directamente de la Secretaría de Protección y Seguridad Ciudadana del Poder Ejecutivo del Estado de Campeche.
 
 ###### ARTÍCULO 57.
 
@@ -2834,3 +2840,15 @@ De igual forma, realizará las modificaciones que correspondan en el Reglamento 
 TERCERO.- Los Municipios deberán realizar las modificaciones que correspondan en sus ordenamientos para adecuarlos al contenido del presente Decreto, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 410 POR EL QUE "SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 3 Y LOS ARTÍCULOS 20, 22 Y 56, TODOS DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo Estatal de Seguridad Pública, que actualmente se encuentra en la Secretaría de Gobierno, quedará adscrito a la Secretaría de Protección y Seguridad Ciudadana, por lo que, en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente decreto, serán transferidos todos los recursos presupuestales, financieros, materiales y humanos de dicho Órgano Desconcentrado a la Secretaría de Protección y Seguridad Ciudadana.
+
+TERCERO.- En un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, la Gobernadora del Estado deberá realizar las modificaciones a los reglamentos interiores de la Secretaría de Gobierno, de la Secretaría de Protección y Seguridad Ciudadana y del Consejo Estatal de Seguridad Pública, para su implementación.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
