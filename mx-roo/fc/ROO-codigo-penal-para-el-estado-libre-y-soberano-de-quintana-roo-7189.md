@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-07-10"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1291,6 +1291,10 @@ La prescripción de la potestad para ejecutar las demás penas y medidas de segu
 
 Al que prive de la vida a otro se le impondrá de diez a veinticinco años de prisión y de setecientos cincuenta a mil quinientos días multa.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluido (sic) los de carácter sucesorio. En su caso, también perderá todo derechos (sic) con relación a las hijas e hijos de la víctima, incluyendo la perdida de la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, no obstante lo cual, subsistirá la obligación de ministrar alimentos, en los términos que corresponda, garantizando el interés superior de la niñez en términos de la Ley de la materia.
+
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 87.
@@ -1355,9 +1359,9 @@ VIII. Que la víctima haya sido incomunicada, cualquiera que sea el tiempo previ
 
 IX. Cuando la muerte haya sido provocada por lesiones hechas mediante el uso de cualquier sustancia corrosiva, ácida o agente físico.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluido los de carácter sucesorio. En su caso, también perderá todo derecho con relación a los hijos de la víctima, garantizando el interés superior de la niñez en términos de la Ley de la materia.
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluido (sic) los de carácter sucesorio. En su caso, también perderá todo derecho con relación a las hijas e hijos de la víctima, incluyendo la perdida de la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, no obstante lo cual, subsistirá la obligación de ministrar alimentos, en los términos que corresponda, garantizando el interés superior de la niñez en términos de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1439,19 +1443,19 @@ Para los efectos de este Código, el embarazo es el proceso de la reproducción 
 
 Para los efectos de este Código, se entiende por persona gestante cualquier persona con aparato reproductor femenino y con capacidad de gestar, independientemente de su edad, apariencia física u orientación sexual.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 93.
 
-A la persona gestante que se le procure el aborto o consienta en que otro la haga abortar, se le impondrá de seis meses a dos años de prisión. Igual pena se le aplicará al que haga abortar a la persona gestante con su consentimiento.
+A la mujer o persona gestante que se le procure el aborto o consienta en que otro la haga abortar, se le impondrá de seis meses a dos años de prisión. Igual pena se le aplicará al que haga abortar a la mujer o persona gestante en su consentimiento.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 94.
 
-Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la persona gestante.
+Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer o persona gestante.
 
-Al que realice aborto forzado, se le impondrá de tres a ocho años de prisión; y si mediare violencia, de cuatro a nueve años.
+Al que realice aborto forzado, se le impondrá de cinco a ocho años de prisión, y si mediare violencia, de ocho a diez años.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
@@ -1467,19 +1471,25 @@ Si en el aborto punible o forzado interviniere personal médico, personas parter
 
 El aborto no será punible:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-I. Cuando sea resultado de una conducta culposa de la persona gestante.
+I. Cuando sea resultado de una conducta culposa de la mujer o persona gestante;
 
-II. (DEROGADA, P.O. 28 DE OCTUBRE DE 2022).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+II. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida en términos del artículo 113-BIS de este Código;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
 
 III. Cuando a juicio de un médico o una médica exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves, o
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV. Cuando a juicio del médico o la médica que la asista, de no interrumpirse el embarazo, la persona gestante, se encuentre en peligro de muerte o en riesgo de una afectación a su salud.
+IV. Cuando a juicio del médico o la médica que le asista, de no interrumpirse el embarazo, la mujer o persona gestante, se encuentre en peligro de muerte o en riesgo de una afectación a su salud.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+En los casos contemplados en las fracciones II, III y IV las personas médicas tendrán la obligación de proporcionar a la mujer o persona gestante, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos de los mismos; así como de los apoyos y alternativas existentes, para que la mujer o persona gestante pueda tomar la decisión de manera libre e informada.
 
 ### CAPITULO IV. LESIONES
 
@@ -1965,6 +1975,10 @@ IV.- Cuando la violación sea cometida aprovechando la confianza depositada en e
 
 V.- Cuando la violación sea cometida en medios de transportes públicos o lugares solitarios o carreteras.
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VI.- Mediante la administración en contra de la voluntad de la víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad.
+
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
@@ -1989,13 +2003,13 @@ Para efectos de este artículo se entiende por actos sexuales los tocamientos o 
 
 También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
+Si se hiciera uso de violencia física, psicológica, o mediante la administración en contra de la voluntad de la víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad, la pena se aumentará en una mitad más en su mínimo y máximo.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo en sí o en otra persona se le impondrá prisión de seis a trece años y hasta quinientos días multa. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda; o cuando los actos sean cometidos aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce para tal efecto.
+A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo en sí o en otra persona se le impondrá prisión de seis a trece años y hasta quinientos días multa. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda; o cuando los actos sean cometidos aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce para tal efecto; o mediante la administración en contra de la voluntad de la víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
@@ -2306,6 +2320,10 @@ VIII.- En agravio de bienes que pertenezcan o estén destinados al servicio educ
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2023)</small>
 
 IX.- Haciendo uso de objetos o réplicas de armas que por sus características físicas simulen la apariencia de ser armas auténticas o se perciban como tales, con la finalidad de someter, intimidar, amenazar o amagar, con causar daño al sujeto pasivo.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+X.- Mediante la administración en contra de la voluntad de la víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
@@ -3487,11 +3505,23 @@ Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaj
 
 Al que sin ánimo de lucro o de explotación concierte o facilite la explotación sexual de una persona menor de dieciocho años a través de la pornografía o exhibiciones corporales públicas o privadas, se le aplicará una sanción de cuatro a diez años de prisión y de mil a mil quinientos días (sic) multa.
 
-### CAPITULO III. TRATA DE PERSONAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+### CAPITULO III
+
+COHABITACIÓN FORZADA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 194.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2014)
+Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin consentimiento con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+A la persona responsable de este delito se le impondrá pena de ocho a quince años de prisión y de mil a dos mil quinientos días multa.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
+
+El delito previsto por este artículo en todo caso será perseguido de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -5618,5 +5648,41 @@ P.O. 10 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 247 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 219 POR EL QUE SE REFORMAN LOS ARTÍCULOS 93, 94 Y LAS FRACCIONES I, II Y IV DEL ARTÍCULO 97; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 97, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 220 POR EL QUE SE REFORMAN LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 129; Y SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 128 Y LA FRACCIÓN X AL ARTÍCULO 145-BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 242 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 250 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO CUARTO Y EL ARTÍCULO 194 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
