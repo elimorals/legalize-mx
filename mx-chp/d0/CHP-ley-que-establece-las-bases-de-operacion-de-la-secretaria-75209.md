@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2022-10-05"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -233,33 +233,35 @@ VI. Comisión del Servicio Profesional de Carrera.
 
 ### Capítulo II. De las Unidades de Apoyo al Secretario
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 8.
 
 De conformidad con la fracción II del artículo 7 de la presente Ley, las Unidades de Apoyo al Secretario son las siguientes:
 
-I. Estado Mayor.
+I. Coordinación Técnica.
 
 II. Coordinación de Administración.
 
-III. (DEROGADA, P.O. 5 DE OCTUBRE DE 2022)
-
-IV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2019)
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 9.
 
-El Estado Mayor de la Secretaría es el órgano técnico operativo, colaborador inmediato del Secretario, a quien auxilia en las funciones de organización, planeación, preparación y conducción de las operaciones y los asuntos relacionados con la Seguridad Pública y la Reinserción Social, al mando de un Comisario Jefe denominado Jefe del Estado Mayor.
+La Coordinación Técnica de la Secretaría es el órgano técnico operativo, colaborador inmediato del Secretario, a quien auxilia en las funciones de organización, planeación, preparación y conducción de las operaciones y los asuntos relacionados con la Seguridad Pública y la Reinserción Social, al mando de un Comisario Jefe denominado Coordinador Técnico.
 
-Este órgano transforma las decisiones y órdenes del Secretario en directivas, instrucciones, planes operativos y órdenes generales de operación, según sea el caso, verificando su más estricto cumplimiento. Para las disposiciones de formación y operación del Estado Mayor se atenderá a la presente Ley, su Reglamento y manual de operación correspondiente.
+Este órgano transforma las decisiones y órdenes del Secretario en directivas, instrucciones, planes operativos y órdenes generales de operación, según sea el caso, verificando su más estricto cumplimiento. Para las disposiciones de formación y operación la Coordinación Técnica se atenderá a la presente Ley, su Reglamento y manual de operación correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 10.
 
-El Estado Mayor para su funcionamiento estará conformado por cuatro aspectos fundamentales para la toma de decisiones: personal, inteligencia e información, operaciones y adiestramiento y logística; cada aspecto estará a cargo de un elemento operativo o de servicio con grado de inspector.
+La Coordinación Técnica para su funcionamiento estará conformado por cuatro aspectos fundamentales para la toma de decisiones: personal, inteligencia e información, operaciones y adiestramiento y logística; cada aspecto estará a cargo de un elemento operativo o de servicio con grado de inspector.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-El Estado Mayor podrá integrar los aspectos que se requieran y especializarlas en asuntos específicos a fin de estar en condiciones de cumplir con las exigencias del Secretario en materia de asesoría e información.
+La Coordinación Técnica podrá integrar los aspectos que se requieran y especializarlas en asuntos específicos a fin de estar en condiciones de cumplir con las exigencias del Secretario en materia de asesoría e información.
 
 ###### Artículo 12.
 
@@ -1208,3 +1210,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero. El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al reglamento de la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas, y demás normatividad que resulte aplicable, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 460 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
