@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-de-campeche-122763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-13"
-last_updated: "2018-08-10"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en la Tercera Sección al Número 0478 del Periódico Oficial del Estado de Campeche, el jueves 13 de julio de 2017.
 
@@ -699,7 +699,7 @@ I. Tener, cuando menos, treinta años de edad el día de su designación;
 
 II. Acreditar, como mínimo, cinco años de práctica profesional Judicial;
 
-III. Haber residido en el Estado durante los cinco años anteriores al día de su designación; y
+III. (DEROGADA, P.O. 9 DE OCTUBRE DE 2024)
 
 IV. No haber ocupado un cargo de elección popular ni haber participado como candidato en el proceso electoral anterior a su designación.
 
@@ -1365,7 +1365,9 @@ Por cada Juez y secretario propietarios habrá un suplente, quienes también ser
 
 Para ser Juez conciliador o secretario, propietarios o suplentes se requerirá:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y con residencia no menor de dos años en el lugar;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Entender y hablar con soltura la lengua indígena de mayor predominio en la respectiva población;
 
@@ -4362,3 +4364,11 @@ CUARTO.- En la Ley de Presupuesto de Egresos del Estado se deberá destinar los 
 QUINTO.- El Consejo de la Judicatura Local emitirá las disposiciones reglamentarias, acuerdos y demás normativa, que sean necesarias para la correcta implementación de las presentes reformas y adiciones, en un plazo que no deberá exceder del día en que entren en vigor las disposiciones a las modificaciones respectivas a la Ley Federal del Trabajo.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 408 POR EL QUE "SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 94 Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 50 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto por el que se derogan las fracciones XII y XIII y se reforma la fracción XIV del artículo 54; se derogan las fracciones II, III y IV del artículo 71; se reforman los artículos 77, 78, 78 bis, 79 y el último párrafo del artículo 80, los artículos 82, 83, 84, 85, 86, 87 y la fracción I del artículo 101 quáter de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
