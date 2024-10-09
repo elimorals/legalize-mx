@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2016-del-pleno-del-consejo-de-la-115056"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-06-09"
-last_updated: "2023-07-14"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115056&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-06-02"
 
 ACUERDO GENERAL 33/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN LAS CIUDADES DE MEXICALI Y TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2024.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2016.
 
@@ -131,11 +131,15 @@ Los jueces de Ejecución tendrán la competencia que establece la Ley Nacional d
 
 La jurisdicción territorial de los juzgadores de los Centros comprenderá los municipios del Estado de Baja California de acuerdo a lo siguiente:
 
-I. Centro de Justicia Penal Federal con sede en Mexicali: En dicho municipio, y el (sic) San Luis Río Colorado, Sonora; y
+> <small>(REFORMADA POR EL ARTÍCULO 19 DEL ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 2024)</small>
+
+I. Centro de Justicia Penal Federal con sede en Mexicali: En dicho municipio, así como en el de San Felipe en la misma entidad federativa, y en el de San Luis Río Colorado, Sonora;
 
 II. Centro de Justicia Penal Federal con sede en Tijuana: En dicho municipio y los diversos de Tecate y Playas de Rosarito.
 
-III. Centro de Justicia Penal Federal con sede en Ensenada. En dicho municipio.
+> <small>(REFORMADA POR EL ARTÍCULO 19 DEL ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 2024)</small>
+
+III. Centro de Justicia Penal Federal con sede en Ensenada. En dicho municipio y San Quintín.
 
 ###### Artículo 7.
 
@@ -960,3 +964,15 @@ D.O.F. 14 DE JULIO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADOS DE DISTRITO, TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES Y CENTROS DE JUSTICIA PENAL FEDERAL, PARA INCLUIR Y MODIFICAR LA DENOMINACIÓN DE DIVERSOS MUNICIPIOS EN LOS CIRCUITOS JUDICIALES CORRESPONDIENTES A LOS ESTADOS DE: ESTADO DE MÉXICO, VERACRUZ, MICHOACÁN, SINALOA, OAXACA, BAJA CALIFORNIA, GUANAJUATO, CHIAPAS, GUERRERO, QUINTANA ROO Y CAMPECHE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos recibidos por los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula y por el Centro de Justicia Penal Federal de la misma entidad federativa y ciudad, cuyo origen y procedencia sean del municipio de Capitán Luis Ángel Vidal, continuarán conociendo hasta su conclusión y archivo definitivo.
+
+CUARTO. Las direcciones generales de Gestión Judicial; de Estadística Judicial y de Tecnologías de la Información, en coordinación con la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal y la Unidad de Implementación de la Reforma en Materia de Justicia Laboral, realizarán las modificaciones en los sistemas tecnológicos del Consejo de la Judicatura Federal en los que se requiera incluir los municipios materia de este Acuerdo.
