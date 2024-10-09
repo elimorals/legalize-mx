@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2015-del-pleno-del-consejo-de-la-110607"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2023-07-14"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110607&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 48/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2024.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -123,11 +123,11 @@ Los órganos jurisdiccionales del sistema penal acusatorio del Centro conocerán
 
 El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro; el cual podrá ser del sistema mixto cuando haya una integración por lo menos de tres jueces del sistema penal acusatorio en el Centro.
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-La jurisdicción territorial de los Juzgadores del Centro comprenderá los siguientes municipios: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+La jurisdicción territorial de los Juzgadores del Centro comprenderá los siguientes municipios: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Capitán Luis Ángel Vidal, Catazajá, Cintalapa de Figueroa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, El Parral, Emiliano Zapata, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mezcalapa, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Rincón Chamula San Pedro, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
 
 ###### Artículo 7.
 
@@ -952,3 +952,15 @@ D.O.F. 14 DE JULIO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADOS DE DISTRITO, TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES Y CENTROS DE JUSTICIA PENAL FEDERAL, PARA INCLUIR Y MODIFICAR LA DENOMINACIÓN DE DIVERSOS MUNICIPIOS EN LOS CIRCUITOS JUDICIALES CORRESPONDIENTES A LOS ESTADOS DE: ESTADO DE MÉXICO, VERACRUZ, MICHOACÁN, SINALOA, OAXACA, BAJA CALIFORNIA, GUANAJUATO, CHIAPAS, GUERRERO, QUINTANA ROO Y CAMPECHE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos recibidos por los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula y por el Centro de Justicia Penal Federal de la misma entidad federativa y ciudad, cuyo origen y procedencia sean del municipio de Capitán Luis Ángel Vidal, continuarán conociendo hasta su conclusión y archivo definitivo.
+
+CUARTO. Las direcciones generales de Gestión Judicial; de Estadística Judicial y de Tecnologías de la Información, en coordinación con la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal y la Unidad de Implementación de la Reforma en Materia de Justicia Laboral, realizarán las modificaciones en los sistemas tecnológicos del Consejo de la Judicatura Federal en los que se requiera incluir los municipios materia de este Acuerdo.
