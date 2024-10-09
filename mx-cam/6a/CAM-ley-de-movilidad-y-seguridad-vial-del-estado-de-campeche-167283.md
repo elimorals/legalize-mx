@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2023-07-28"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -1797,6 +1797,10 @@ B. De Alquiler; y
 
 C. BRT;
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+D. DRT.
+
 II. Servicio Público Especial:
 
 A. Mototaxis;
@@ -1860,6 +1864,10 @@ El Servicio de Transporte Mixto será el Servicio Público que se preste con veh
 ###### Artículo 132.
 
 Para efectos de la presente Ley, se entiende por sistema BRT (Bus Rapid Transit) al servicio de transporte público de pasajeros, con operación regulada, controlada y con un recaudo centralizado, que opera de manera preferencial o exclusiva en una vialidad, total o parcialmente confinados, que cuenta con paradas predeterminadas y con una infraestructura para el ascenso y descenso de pasajeros, terminales en su origen y destino, con una organización para la prestación del servicio con personas morales.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+De igual forma, para efectos de la presente Ley, se entiende por DRT (Digital Rail Transit) al o los vehículos del tipo BRT eléctrico con sistema de guiado semiautomático, sin catenaria ni rieles, que utiliza neumáticos de caucho común para el transporte urbano de pasajeros, similar a otros autobuses guiados.
 
 #### SECCIÓN III. DEL INSTITUTO ESTATAL DEL TRANSPORTE
 
@@ -1968,6 +1976,14 @@ Cualquier persona física o moral que aspire a obtener una concesión, deberá p
 En el Reglamento de transporte que emane de la presente Ley, se detallará todo lo relativo a concesiones, su vigencia, prórroga, los derechos y obligaciones, las condiciones para su otorgamiento, las causas de extinción, la suspensión del servicio público de transporte, así como cualquier disposición relativa a las concesiones; todo lo anterior de conformidad con la presente Ley y lo dispuesto en este artículo.
 
 Las concesiones para la prestación del servicio de BRT, únicamente se otorgarán a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en este artículo, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social. La acreditación de la capacidad técnica, administrativa y financiera para la prestación del servicio de corredores de transporte, deberá asegurar la prestación del servicio en condiciones de calidad, seguridad, oportunidad y permanencia.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 135 Bis.
+
+Para la prestación del servicio público de transporte de pasajeros, a través del DRT, se podrán otorgar concesiones a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en el artículo anterior, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social.
+
+En el Reglamento correspondiente, se deberá establecer las características de esta modalidad de servicio, las especificaciones técnicas, los horarios y rutas, el establecimiento de terminales y todo aquello que sea necesario para la adecuada prestación del servicio.
 
 ###### Artículo 136.
 
@@ -2222,3 +2238,15 @@ Que la LXIV Legislatura del H. Congreso del Estado Libre y Soberano de Campeche 
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veinticinco días del mes de julio del año dos mil veintitrés.
 
 LA GOBERNADORA DEL ESTADO DE CAMPECHE, LICDA. LAYDA ELENA SANSORES SAN ROMÁN. RÚBRICA.- EL SECRETARIO DE GOBIERNO, PROF. ANIBAL OSTOA ORTEGA. RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 411 POR EL QUE “SE ADICIONAN EL INCISO D A LA FRACCIÓN I DEL ARTÍCULO 129, UN PÁRRAFO SEGUNDO AL ARTÍCULO 132 Y EL ARTÍCULO 135 BIS, TODOS A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal, a partir de la entrada en vigor del presente decreto, cuenta con un plazo de noventa días naturales para modificar el Reglamento en Materia de Transporte de la Ley de Movilidad y Seguridad Vial del Estado de Campeche.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
