@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-fiscalia-general-del-estado-de-campeche-1039
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-01"
-last_updated: "2014-12-01"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -49,7 +51,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Fiscalía General: a la Fiscalía General del Estado de Campeche;
 
-II. Fiscal General: al Titular de la Fiscalía General del Estado de Campeche;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+II. Fiscal General: a la persona Titular de la Fiscalía General del Estado de Campeche;
 
 III. Institución: a la Institución del Ministerio Público;
 
@@ -63,11 +67,15 @@ VII. Leyes Generales: todas aquellas expedidas por el H. Congreso de la Unión d
 
 VIII. Leyes Especiales: todas las expedidas por el H. Congreso de la Unión o por el H. Congreso del Estado de Campeche que contemplen algún delito especial;
 
-IX. Agentes del Ministerio Público: son los integrantes de una fiscalía, encargados de la investigación y persecución de los delitos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IX. Agentes del Ministerio Público: son las personas integrantes de una fiscalía, encargadas de la investigación y persecución de los delitos;
 
 X. Fiscal: Es el Agente del Ministerio Público titular de una fiscalía, que ejerce, además de las funciones de investigación y representación social, las funciones de coordinación y mando de los demás Agentes del Ministerio Público que integran la correspondiente fiscalía;
 
-XI. Fiscalías Especializadas: Cada una de la (sic) fiscalías que tiene a su cargo la investigación y persecución de algún delito en particular;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XI. Fiscalías Especializadas: Cada una de las fiscalías que tiene a su cargo la investigación y persecución de algún delito en particular;
 
 XII. Policía Ministerial de Investigación Facultada: la policía que actúa bajo la conducción y mando del Ministerio Público con capacidades para procesar la escena del hecho que la ley señale como delito e investigar;
 
@@ -217,7 +225,9 @@ Las atribuciones de la Institución en materia de prevención del delito serán 
 
 I. Participar con las instancias correspondientes para la coordinación de acciones en materia de seguridad pública y participación ciudadana;
 
-II. Llevar la estadística de incidencia y mapeo delictivo, analizarla y proponer acciones para combatir la incidencia criminal; y }
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+II. Llevar la estadística de incidencia y mapeo delictivo, analizarla y proponer acciones para combatir la incidencia criminal; y
 
 III. Las demás que señale esta Ley, el Reglamento, así como otras disposiciones legales aplicables en la materia.
 
@@ -303,9 +313,11 @@ La Institución, a efecto de establecer líneas de acción para la debida procur
 
 ### CAPÍTULO III. DEL FISCAL GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 19.
 
-El Fiscal General tendrá las siguientes atribuciones:
+La o el Fiscal General tendrá las siguientes atribuciones:
 
 I. Dirigir y coordinar la política general de la Institución, así como vigilar y evaluar la operación de las unidades administrativas que la integran;
 
@@ -331,15 +343,21 @@ XI. Formular estudios y ejecutar lineamientos de política pública en materia d
 
 XII. Efectuar visitas a los Centros de Reinserción Social y mantener bancos actualizados de información delictiva;
 
-XIII. Acordar con el Gobernador del Estado, los asuntos inherentes a su encargo;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-XIV. Desempeñar las comisiones y funciones específicas que el Gobernador del Estado le confiera, así como informarle sobre el desarrollo de éstas;
+XIII. Acordar con la Gobernadora o Gobernador del Estado, los asuntos inherentes a su encargo;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIV. Desempeñar las comisiones y funciones específicas que la o el Gobernador del Estado le confiera, así como informarle sobre el desarrollo de éstas;
 
 XV. Suscribir dentro del ámbito de su competencia acuerdos y convenios de colaboración con instituciones locales, de la Federación y de otras entidades federativas;
 
 XVI. Autorizar los lineamientos y bases del servicio público de carrera de la Institución, de conformidad con la normatividad aplicable, así como todo lo relativo a nombramientos y remover libremente al personal de la Institución;
 
-XVII. Proponer al Gobernador del Estado la designación de los Vice fiscales Generales y, en su caso, removerlos conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XVII. Proponer a la Gobernadora o Gobernador del Estado la designación de los Vice fiscales Generales y, en su caso, removerlos conforme a las disposiciones legales aplicables;
 
 XVIII. Dirigir y supervisar la actuación de la Agencia Estatal de Investigaciones, del Instituto, del Instituto Pericial y demás unidades administrativas que integren la Institución;
 
@@ -355,7 +373,9 @@ XXIII. Proponer el anteproyecto de presupuesto anual de egresos de la Instituci�
 
 XXIV. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de esta Ley o el Reglamento, así como emitir las instrucciones para dirimir los conflictos de competencia que se presenten entre las unidades administrativas de la Institución;
 
-XXV. Proponer al Gobernador del Estado, los proyectos de leyes, acuerdos y reglamentos relacionados con la investigación del delito, así como para una debida procuración de justicia;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XXV. Proponer a la Gobernadora o Gobernador del Estado, los proyectos de leyes, acuerdos y reglamentos relacionados con la investigación del delito, así como para una debida procuración de justicia;
 
 XXVI. Comparecer ante el Congreso del Estado cuando sea requerido, para informar de los asuntos a su cargo;
 
@@ -391,23 +411,31 @@ El auxilio se autorizará mediante el acuerdo u oficio de colaboración respecti
 
 Para ser Fiscal General del Estado se requiere:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+I. Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos 30 años de edad el día del nombramiento;
 
-III. Poseer el día del nombramiento, con antigüedad mínima de cinco años, título y cédula profesional de licenciado en derecho, expedido por la autoridad o entidad legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite sanción privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la sanción;
+III. Poseer el día del nombramiento, con antigüedad mínima de cinco años, título y cédula profesional de licenciatura en derecho, expedido por la autoridad o entidad legalmente facultada para ello;
 
-V. Haber residido en el Estado durante los últimos cinco años;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IV. Gozar de buena reputación y no haber sido condenada o condenado por delito que amerite sanción privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la sanción;
+
+V. (DEROGADA, P.O. 9 DE OCTUBRE DE 2024)
 
 VI. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
 
 VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas legales aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-El Fiscal General será designado y removido por el Gobernador del Estado.
+La o el Fiscal General será designado y removido por la Gobernadora o Gobernador del Estado.
 
 ###### ARTÍCULO 23.
 
@@ -725,9 +753,13 @@ Los aspirantes a ingresar a la Institución, deberán cumplir, cuando menos, con
 
 Para ser Agente del Ministerio Público:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional;
+I. Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+II. Contar con título de licenciatura en derecho expedido y registrado legalmente, con la correspondiente cédula profesional;
 
 III. En su caso, tener acreditado el Servicio Militar Nacional;
 
@@ -743,7 +775,9 @@ VIII. Aprobar las evaluaciones de control de confianza consistentes en exámenes
 
 IX. Los demás que señale esta Ley, el Reglamento, así como otras disposiciones legales aplicables en la materia.
 
-Para ser Agente de la Policía Ministerial Investigadora deberá cumplir con los requisitos para ser Agente del Ministerio Público, con excepción del título de licenciado en derecho, pero deberá acreditar que cuenta con una escolaridad de licenciatura afín a la función de la Institución.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Para ser Agente de la Policía Ministerial Investigadora deberá cumplir con los requisitos para ser Agente del Ministerio Público, con excepción del título de licenciatura en derecho, pero deberá acreditar que cuenta con una escolaridad de licenciatura afín a la función de la Institución.
 
 Para ser Perito, además de los requisitos señalados para ser Agente del Ministerio Público, con excepción de la fracción II, deberá contar con experiencia mínima de un año en la práctica de la materia sobre la que va a dictaminar, así como acreditar, con constancia emitida por una institución de enseñanza, que se encuentra facultado para ejercer la ciencia, técnica, arte o disciplina de que se trate y que, además, cuenta con los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio.
 
@@ -1120,3 +1154,13 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, el primer día del mes de diciembre del ano dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 408 POR EL QUE “SE REFORMAN LAS FRACCIONES II, IX Y XI DEL ARTÍCULO 2; LA FRACCIÓN II DEL ARTÍCULO 14; LAS FRACCIONES XIII, XIV, XVII Y XXV DEL ARTÍCULO 19; LAS FRACCIONES I, III Y IV DEL ARTÍCULO 21; EL ARTÍCULO 22; LAS FRACCIONES I Y II Y EL PÁRRAFO CUARTO DEL ARTÍCULO 47; Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 21, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto por el que se derogan las fracciones XII y XIII y se reforma la fracción XIV del artículo 54; se derogan las fracciones II, III y IV del artículo 71; se reforman los artículos 77, 78, 78 bis, 79 y el último párrafo del artículo 80, los artículos 82, 83, 84, 85, 86, 87 y la fracción I del artículo 101 quáter de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
