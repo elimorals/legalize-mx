@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-mejora-regulatoria-del-estado-de-quintana-roo-y-sus-1386
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-11"
-last_updated: "2024-10-07"
+last_updated: "2024-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 117 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 11 de octubre de 2019.
 
@@ -277,6 +277,12 @@ En caso de que el Sujeto Obligado no cuente con servidores públicos de dicho ni
 
 La coordinación y comunicación entre el Sujeto Obligado y la Autoridad de Mejora Regulatoria correspondiente se llevará a cabo a través del responsable oficial de mejora regulatoria.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 14 Bis.
+
+La persona responsable oficial de mejora regulatoria designada procurará la coordinación de acciones en materia de mejora regulatoria en las comunidades que lo requieren o que así lo determine el Consejo Estatal.
+
 ### Capítulo II. Del Consejo Estatal de Mejora Regulatoria
 
 ###### Artículo 15.
@@ -375,7 +381,13 @@ XVI. Conocer y dar seguimiento de los asuntos que sometan a su consideración lo
 
 XVII. Recibir y conocer los informes de la Autoridad de Mejora Regulatoria;
 
-XVIII. Las demás que establezcan esta Ley u otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XVIII. Determinar las comunidades en donde aún no se cuentan con la ejecución de las políticas públicas de mejora regulatoria, lo anterior para cumplir con el principio de máxima publicidad y con todos los objetivos de la presente Ley.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIX. Las demás que establezcan esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -1340,3 +1352,11 @@ La entrada en vigor del presente Decreto, no afectará el régimen ni los derech
 SEXTO. Los asuntos, procedimientos y demás trámites vigentes a cargo del Centro Estatal de Evaluación y Control de Confianza (C3) y que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, serán informados y asumidos de inmediato por la Secretaría de Gobierno, para su atención.
 
 SÉPTIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 234 POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 18; Y SE ADICIONAN EL ARTÍCULO 14 BIS Y LA FRACCIÓN XIX AL ARTÍCULO 18, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
