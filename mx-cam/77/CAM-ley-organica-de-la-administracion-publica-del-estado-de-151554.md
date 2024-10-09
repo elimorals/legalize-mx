@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-151554"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-14"
-last_updated: "2023-12-29"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Número 1519 del Periódico Oficial del Estado de Campeche, el martes 14 de septiembre de 2021.
 
@@ -131,9 +131,11 @@ En casos extraordinarios o cuando exista duda sobre la competencia de algún Org
 
 Cuando la Gobernadora o el Gobernador del Estado, de manera directa o a través de las unidades administrativas adscritas a los Organismos Centralizados o a las Entidades Paraestatales, requiera información, datos o la cooperación técnica de alguna de las unidades administrativas que integran la Administración Pública Estatal, centralizada o paraestatal, aquella tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a lo que determine la Secretaría de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 12.
 
-La Gobernadora o el Gobernador del Estado, conforme a la Constitución Política del Estado de Campeche, tiene la facultad de nombrar y remover a las y los servidores públicos de la administración pública estatal, con las salvedades que establezcan las leyes relativas, observando el principio de la paridad de género.
+La Gobernadora o el Gobernador del Estado, conforme a la Constitución Política del Estado de Campeche, tiene la facultad de nombrar y remover a las y los servidores públicos de la administración pública estatal, con las salvedades que establezca (sic) la fracción V del artículo 21 de la Constitución Política del Estado de Campeche, así como las leyes relativas, observando el principio de la paridad de género.
 
 La Gobernadora o el Gobernador del Estado está facultado para conceder licencia a las personas titulares de los Organismos Centralizados a las que se refiere el artículo 22 y designar a quien deba sustituirlas en casos de ausencias temporales, accidentales o definitivas.
 
@@ -1948,3 +1950,13 @@ A partir de la entrada en vigor del presente decreto, se tendrá un plazo no may
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 415 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Lo previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
