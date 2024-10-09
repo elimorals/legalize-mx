@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-justicia-administrativa-del-estado-de-quintana-roo-12
 country: "mx"
 rank: "codigo"
 publication_date: "2017-12-27"
-last_updated: "2023-07-13"
+last_updated: "2024-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS Y JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 146 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -3288,3 +3290,21 @@ P.O. 13 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE PROCEDIMIENTOS Y JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación (sic) el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Código de Justicia Administrativa del Estado de Quintana Roo, expedido mediante Decreto Número 141 publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 27 de diciembre de 2017.
+
+TERCERO. Las disposiciones relativas al juicio sumario, entrarán en vigor en un plazo de 180 días naturales a partir de la vigencia del presente Decreto.
+
+CUARTO. Las disposiciones relativas al Sistema de Justicia en línea, entrarán en vigor en un plazo que no podrá exceder a un año posterior a la entrada en vigor del presente Decreto.
+
+QUINTO. Los procedimientos, recursos y juicios que se hayan iniciado y se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, continuarán su desarrollo conforme a las disposiciones vigentes al momento de su inicio.
+
+SEXTO. El Presupuesto de Egresos del Tribunal de Justicia Administrativa y Anticorrupción para el Ejercicio Fiscal que corresponda, establecerá los recursos correspondientes para el funcionamiento del Juicio en Línea y del Boletín Jurisdiccional.
+
+SÉPTIMO. El Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, deberá emitir los lineamientos técnicos y formales para el desarrollo e instrumentación del juicio en línea a través del Sistema de Justicia en Línea y la implementación del Boletín Jurisdiccional en un plazo que no excederá de los 180 días naturales siguientes días a la entrada en vigor del presente Decreto.
