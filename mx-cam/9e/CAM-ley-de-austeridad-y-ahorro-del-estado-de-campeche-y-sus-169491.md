@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-austeridad-y-ahorro-del-estado-de-campeche-y-sus-169491"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-29"
-last_updated: "2023-12-29"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Número 2079 del Periódico Oficial del Estado de Campeche, el viernes 29 de diciembre de 2023.
 
@@ -65,51 +65,53 @@ V. Establecer medidas que permitan generar ahorros en el gasto público para ori
 
 VI. Crear el mecanismo de operación y evaluación de la política de austeridad.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 4.
 
-Los sujetos obligados al cumplimiento de la presente Ley son:
+El cumplimiento de la presente Ley recaerá sobre cada uno de los Entes Públicos, quienes para su vigilancia se apoyarán de la instancia encargada del control interno.
 
-I. Los Poderes del Estado, así como sus dependencias y entidades;
-
-II. Las personas de derecho público a las que la Constitución Política del Estado de Campeche les otorgue autonomía, las Universidades y demás Instituciones de Educación Superior del Estado a las que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche u otras Leyes otorguen también autonomía;
-
-III. Los ayuntamientos, así como sus dependencias y entidades; y
-
-IV. Los sindicatos, particulares y cualquier instancia que reciba o administre recursos públicos, sólo respecto a dichos recursos.
-
-Los sujetos obligados deberán destinar del presupuesto asignado para cada ejercicio fiscal un porcentaje para la capacitación de mujeres y el fomento de la igualdad sustantiva entre mujeres y hombres. Asimismo, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las facultades y atribuciones conferidas en las normas.
-
-Los sujetos obligados en el ámbito de sus respectivas atribuciones y competencias emitirán las disposiciones administrativas generales en materia de austeridad, conforme a los criterios generales establecidos en la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 5.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Austeridad: conducta y política de estado que los entes públicos están obligados a acatar de conformidad con su orden jurídico, para combatir la desigualdad social y la corrupción; administrando los bienes y recursos con moderación, ausencia de dispendios en su uso y disposición, bajo los principios de eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados;
+I. Austeridad: conducta y política de Estado que los Entes Públicos están obligados a acatar de conformidad con su orden jurídico, para combatir la desigualdad social y la corrupción; administrando los bienes y recursos con moderación, ausencia de dispendios en su uso y disposición, bajo los principios de eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados;
 
-II. Calidad del Gasto: Aquellos elementos que garantizan el uso eficaz y eficiente de los recursos públicos, con el objetivo de elevar el potencial de crecimiento de la economía;
+II. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas para cada ejercicio fiscal;
 
-III. Comité de Evaluación: órgano interinstitucional encargado en el ámbito de la administración pública estatal, en su caso municipal, de evaluar las medidas de austeridad;
+III. Calidad del Gasto: Aquellos elementos que garantizan el uso eficaz y eficiente de los recursos públicos, con el objetivo de elevar el potencial de crecimiento de la economía;
 
-IV. Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los entes públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, con una perspectiva de austeridad;
+IV. Comité de Evaluación: Órgano encargado en el ámbito de la administración pública estatal, en su caso municipal, de evaluar la aplicación de las medidas de austeridad;
 
-V. Ejecución del Gasto: es la utilización de los gastos autorizados en el presupuesto.
+V. Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, con una perspectiva de austeridad;
 
-VI. Entes Públicos: los Poderes Legislativo, Ejecutivo y Judicial, los organismos autónomos del Estado; los municipios; las entidades de la administración pública paraestatal, paramunicipal e intermunicipal; empresas de participación estatal o municipal mayoritarias y fideicomisos del estado y los municipios, así como cualquier otro ente sobre el que el Estado y los municipios tengan control sobre sus decisiones o acciones;
+VI. Ejecución del Gasto: Es la utilización de los gastos autorizados en el presupuesto;
 
-VII. Informe de Austeridad: El integrado por los resultados que se obtengan con la aplicación de la política de austeridad a los programas, en donde se especifique el ahorro y la calidad del gasto, los cuales serán evaluados por el Comité, en términos de la normatividad aplicable;
+VII. Entes Públicos: Los Poderes Legislativo, Ejecutivo y Judicial, los organismos autónomos del Estado; los municipios; las entidades de la administración pública paraestatal, paramunicipal e intermunicipal; empresas de participación estatal o municipal mayoritarias y fideicomisos del Estado y los municipios, así como cualquier otro ente sobre el que el Estado y los municipios tengan control sobre sus decisiones o acciones;
 
-VIII. Ley: Ley de Austeridad y Ahorro del Estado de Campeche y sus Municipios;
+VIII. Informe de Austeridad: El integrado por los resultados que se obtengan con la aplicación de la política de austeridad a los programas, en donde se especifique el ahorro y la calidad del gasto, los cuales serán evaluados por el Comité, en términos de la presente Ley y demás normatividad aplicable;
 
-IX. Racionalidad: principio basado en la razón y la congruencia en el uso y disposición de los recursos públicos y en la búsqueda de ahorro en la operación del gobierno; y
+IX. Informe de Evaluación: Al informe de evaluación de la política de austeridad y ahorro que entrega el Comité de Evaluación al H. Congreso del Estado, con base en lo establecido en el artículo 15 Bis de la presente Ley;
 
-X. Secretaría: la Secretaría de Administración y Finanzas del Poder Ejecutivo.
+X. Ley: Ley de Austeridad y Ahorro del Estado de Campeche y sus Municipios;
+
+XI. Poder Ejecutivo: Secretarías, Dependencias y Entidades de la Administración Pública del Estado de Campeche;
+
+XII. Programa Anual de Austeridad y Ahorro: Al informe de austeridad y ahorro que deberán entregar anualmente todos los Entes Públicos al cumplimiento de la Ley al momento de presentar su proyecto de presupuesto de egresos, y que deberá cumplir con los requisitos previstos en el artículo 14 de la presente Ley;
+
+XIII. Unidades de Administración: Aquellas direcciones, coordinaciones o sus equivalentes que realicen funciones de administración y ejercicio de recursos dentro de cada Ente Público;
+
+XIV. Racionalidad: Principio basado en la razón y la congruencia en el uso y disposición de los recursos públicos y en la búsqueda de ahorro en la operación del gobierno; y
+
+XV. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-La Secretaría de Administración y Finanzas del Estado de Campeche y la Secretaría de la Contraloría del Estado de Campeche serán las dependencias facultadas para interpretar la presente Ley.
-
-Los entes públicos estarán sujetos al cumplimiento de lo establecido en esta Ley, quienes para su vigilancia quedarán a cargo de sus órganos internos de control.
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche y la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Campeche serán las facultadas para interpretar la presente Ley.
 
 ###### Artículo 7.
 
@@ -133,77 +135,155 @@ En todo momento se observará el desarrollo de indicadores, el respeto irrestric
 
 Durante la realización del diagnóstico establecido en el párrafo anterior, todos los entes públicos se abstendrán de crear nuevas plazas o proponer aumentos no justificados.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 9.
 
-Los entes públicos, al final de cada ejercicio y dentro del ámbito de su competencia, entregarán a la Legislatura del Estado y al Comité de Evaluación, un informe de austeridad.
+Los Entes Públicos, al final de cada ejercicio y dentro del ámbito de su competencia, entregarán al Comité de Evaluación, un Informe de Austeridad. Los Entes Públicos deberán remitir su Informe de Austeridad al Comité de Evaluación en un plazo de 10 días hábiles posteriores a la presentación de la Cuenta Pública de cada ejercicio fiscal. El Informe de Austeridad deberá contener lo siguiente:
+
+a) Las acciones concretas de racionalidad, austeridad y disciplina financiera que implementaron al interior del ente público, durante el ejercicio fiscal;
+
+b) Los proyectos de optimización de procesos internos, así como aquellos relacionados con trámites y servicios, impulsando acciones de automatización, a fin de disminuir costos de operación como papelería, artículos de oficina, materiales de impresión, combustibles, lubricantes, energía eléctrica, agua potable, telefonía, servicio de fotocopiado, entre otros, enfocados a maximizar el desempeño organizacional y la calidad del servicio, sin menoscabo en el servicio público;
+
+c) Señalar, por capítulo de gasto y partida específica, el importe generado como ahorro por aplicación de las medidas de austeridad, así como el monto acumulado al periodo informado y porcentaje que representa con respecto a la meta anual; y
+
+d) La cuantificación de los recursos resultantes de excepciones autorizadas a estas medidas de austeridad, describiendo la justificación de la no aplicación a lo estipulado en las mismas, así como los resultados y el impacto de la utilización de dichos recursos.
+
+La Secretaría de Administración y Finanzas será la instancia responsable de integrar la información que corresponda al Informe de Austeridad del Poder Ejecutivo, por lo que queda facultada para requerir toda la información que considere necesaria.
+
+En el caso del Poder Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, serán sus Unidades Financieras u homologas las encargadas de integrar el Informe de Austeridad y requerir la información que corresponda.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 10.
 
-Los sujetos obligados que reciban recursos públicos estatales deberán anexar en su anteproyecto de presupuesto un informe de austeridad donde se especifique la ejecución del gasto durante el ejercicio fiscal que corresponda, informando a la Secretaría, para que ésta contemple, en su caso, el ahorro proyectado por los sujetos obligados en la elaboración del paquete presupuestal para el ejercicio fiscal siguiente, en los términos de la Ley de Presupuesto de Egresos.
-
-En el caso de los ayuntamientos, y en apego a su autonomía, se deberán elaborar estos informes de austeridad para ser considerados en el presupuesto de egresos de cada municipio, en los términos de esta Ley y su reglamento respectivo.
+En el caso de los Ayuntamientos, y en apego a su autonomía, se deberán elaborar los informes de austeridad para ser considerados en el presupuesto de egresos de cada municipio, en los términos de esta Ley.
 
 ###### Artículo 11.
 
 En la elaboración de los Presupuestos de Egresos, y en los términos de la legislación aplicable, la Secretaría, así como los municipios, en términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, podrán dirigir los recursos obtenidos a partir de las políticas y lineamientos de austeridad y ahorro que se determinen para tal efecto.
 
-Los ahorros generados a que se refiere esta Ley se destinarán preferentemente a áreas de seguridad pública, salud y educación e impartición de justicia. Cuando las circunstancias particulares en la ejecución del gasto lo permitan, previa dictaminación de la Secretaría, sobre su viabilidad, se podrá autorizar el destino a diversos capítulos relacionados al gasto público.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Los ahorros generados a que se refiere esta Ley deberán destinarse a áreas prioritarias en los términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios y la demás normatividad aplicable. Cuando las circunstancias particulares en la ejecución del gasto lo permitan, previa justificación y dictaminación de la Secretaría sobre su viabilidad, se podrá autorizar el destino a diversos capítulos relacionados al gasto público para cumplir las metas y objetivos del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 12.
 
-Todos los sujetos obligados deberán establecer mecanismos de control y seguimiento del ejercicio presupuestal, bajo los principios de austeridad, racionalidad y disciplina financiera en el manejo de los recursos.
+Los Entes Públicos deberán establecer mecanismos de control y seguimiento del ejercicio presupuestal, bajo los principios de austeridad, racionalidad, optimización de los recursos públicos, disciplina y responsabilidad financiera en el manejo de los recursos. Para tal efecto, podrán emitir, lineamientos, acuerdos, circulares y cualquier otro instrumento de aplicación y de observancia en el ámbito de su competencia.
 
-Para tal efecto, podrán emitir, lineamientos, acuerdos, circulares y cualquier otro instrumento de aplicación y de observancia en el ámbito de su competencia.
+Adicionalmente, será responsabilidad de las y los titulares de los Entes Públicos promover medidas y acciones tendientes a eliminar los trámites innecesarios, agilizar los procesos internos y reducir los costos de operación y administración.
 
-Adicionalmente, será responsabilidad de los titulares de los sujetos obligados señalados en esta Ley promover medidas y acciones tendientes a eliminar los trámites innecesarios, agilizar los procesos internos y reducir los costos de operación y administración.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 13.
 
-El ejercicio del gasto público se realizará bajo principios de austeridad, racionalidad y optimización de los recursos, ajustándose a los objetivos y metas de desarrollo, cumpliendo un fin determinado y sujetándose a los montos autorizados en los presupuestos de egresos.
+La Secretaría contará con un registro de fideicomisos, mandatos o contratos análogos que manejen recursos públicos en el cual las Secretarías, Dependencias y Entidades del Poder Ejecutivo inscribirán la información de la totalidad de los instrumentos jurídicos y financieros respectivos.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 14.
 
-Los sujetos obligados deberán elaborar un Programa Anual de Austeridad y Ahorro. Dicha información y los resultados obtenidos a partir de su aplicación serán considerados información pública fundamental en los términos de la normatividad aplicable.
+Los Entes Públicos deberán elaborar un Programa Anual de Austeridad y Ahorro. Dicha información y los resultados obtenidos a partir de su aplicación serán considerados información pública fundamental en los términos de la normatividad aplicable.
+
+El Programa Anual de Austeridad y Ahorro deberá ser presentado por los Entes Públicos de forma conjunta con su Proyecto de Presupuesto de Egresos de cada Ejercicio Fiscal que se presente ante la Secretaría.
+
+El Programa Anual de Austeridad y Ahorro deberá contener, por lo menos, lo siguiente:
+
+I. Un diagnóstico del gasto público anual, de forma que le permita identificar las medidas necesarias que se deberán aplicar para hacer efectiva la política de austeridad, así como su compatibilidad con la planeación federal y estatal;
+
+II. Justificar el apego a los programas sectoriales de desarrollo regional, territorial, especiales, institucionales y presupuestarios conforme a lo previsto en la Ley de Planeación del Estado de Campeche y sus Municipios, así como en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios; y
+
+III. El ahorro proyectado para el ejercicio fiscal siguiente, en su caso, por el Ente Público.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-Se formará un comité de evaluación de conformidad con los lineamientos que emita la Secretaría, quien lo presidirá y será responsable de promover y evaluar las políticas y medidas de austeridad de los entes públicos.
+El Comité de Evaluación será el Órgano Colegiado encargado de promover y evaluar las políticas y medidas de austeridad y ahorro a cuyo cumplimiento están obligados los Entes Públicos.
 
-El comité de evaluación deberá entregar informes de evaluación de forma anual, los cuales deberán ser remitidos a la Legislatura del Estado para su conocimiento y contener al menos los siguientes elementos:
+Dicho órgano funcionará y operará de conformidad con la presente Ley y con base en los Lineamientos que emita la Secretaría.
 
-I. Medidas tomadas por la administración pública estatal;
+El Comité de Evaluación estará integrado de la siguiente forma:
+
+I. Un presidente, que será la persona titular de la Secretaría de Administración y Finanzas;
+
+II. Un vicepresidente, que será la persona titular de la Secretaría de la Contraloría;
+
+III. Tres vocales, que serán:
+
+a) Un representante de la Secretaría de Modernización e Innovación Gubernamental;
+
+b) Un representante de la Secretaría de la Contraloría; y
+
+c) Un representante de la Secretaría de Administración y Finanzas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 15 Bis.
+
+El Comité de Evaluación deberá entregar informes de evaluación, de forma anual, los cuales deberán ser remitidos al H. Congreso del Estado de Campeche para su conocimiento y contener al menos los siguientes elementos:
+
+I. Medidas tomadas por los Entes Públicos, según corresponda;
 
 II. Impacto presupuestal de las medidas;
 
 III. Temporalidad de los efectos de ahorro;
 
-IV. Posibles mejoras a las medidas de austeridad, y
+IV. Posibles mejoras a las medidas de austeridad; y
 
 V. Destino del ahorro obtenido.
 
-Los resultados de dicha evaluación serán presentados ante el Ejecutivo Estatal y deberán servir para retroalimentar y mejorar futuras medidas de austeridad.
+Los resultados de dicha evaluación serán presentados, además, ante la persona depositaria del Ejecutivo Estatal y deberán servir para retroalimentar y mejorar futuras medidas de austeridad.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 15 Ter.
+
+El Comité de Evaluación tendrá las facultades siguientes:
+
+I. Promover la adopción de las medidas de austeridad dispuestas en esta Ley;
+
+II. Evaluar las medidas de austeridad y ahorro adoptadas en el Estado;
+
+III. Analizar, evaluar y, en su caso, proponer posibles mejoras a las medidas de austeridad y ahorro adoptadas por los Entes Públicos;
+
+IV. Presentar, por conducto de su Presidencia, los resultados de la evaluación de la política y las medidas de austeridad a la persona Depositaria del Poder Ejecutivo Estatal;
+
+V. Dar seguimiento periódico y evaluar los resultados de los indicadores de desempeño establecidos para evaluar la política de austeridad;
+
+VI. Recibir el Informe de Austeridad remitido por cada uno de los Entes Públicos, dentro de los 10 días posteriores a la presentación de la Cuenta Pública de cada ejercicio fiscal;
+
+VII. Asesorar, a solicitud expresa, a los Entes Públicos para la elaboración de su correspondiente Informe de Austeridad;
+
+VIII. Integrar y presentar al H. Congreso del Estado, por conducto de la Presidencia del Comité, el Informe de Evaluación, una vez analizados los Informes de Austeridad;
+
+IX. Recomendar a los Entes Públicos la ampliación de la información contenida en los Informes de Austeridad, cuando considere que la información faltante no cumple con los criterios de claridad, precisión y transparencia de la información financiera; y
+
+X. Las demás atribuciones establecidas en los Lineamientos y en las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. SERVICIOS PERSONALES
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 16.
 
-Los responsables de las áreas de finanzas, administración, planeación, contraloría, oficialía mayor y las áreas o unidades de transparencia de cada ente público, en el ámbito de su competencia, aplicarán las políticas de austeridad y ahorro que se determinen a partir de esta Ley, así como sus programas y reglamentos internos.
+Los responsables de las áreas de finanzas, administración, planeación, contraloría, oficialía mayor o similar de cada Ente Público, en el ámbito de su competencia, aplicarán las políticas de austeridad y ahorro que se determinen a partir de esta Ley.
 
-Las responsabilidades a que se refiere esta ley se constituirán de manera directa a los sujetos auditables que hayan ejecutado los actos o incurran en las omisiones que las hayan originado; y, en su caso, subsidiariamente, al servidor público o elemento operativo jerárquicamente inmediato que por la índole de sus funciones haya omitido la revisión o autorizado tales actos, por causas que impliquen dolo, culpa o negligencia por parte de estos.
-
-En los órganos que sean colegiados, las responsabilidades que resulten se aplicarán de manera solidaria entre todos los integrantes que hayan incurrido en el acto u omisión generador.
+Corresponderá a la Secretaría, en el ámbito del Poder Ejecutivo, emitir las disposiciones que en materia de control presupuestal regirán la implementación de la presente Ley.
 
 ###### Artículo 17.
 
 Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad. Se eliminarán todo tipo de duplicidades y se atenderán las necesidades de mejora y modernización de la gestión pública.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-En el Poder Ejecutivo, se elimina la contratación en servicios de asesoría, consulta, despachos externos, asistencia e intercambio en materia jurídica, económica, contable, de ingeniería, arquitectónica, entre otras, para elaborar estudios, investigaciones, proyectos de ley, planes de desarrollo, o cualquier tipo de análisis o recomendaciones, que pudiesen ser requeridas para el cumplimiento de las obligaciones del Poder Ejecutivo; salvo los casos que se encuentren debidamente justificados y sólo con la autorización presupuestaria de la Secretaría.
+Los Entes Públicos no podrán contratar servicios de asesoría, consulta, despachos externos, asistencia e intercambio en materia jurídica, económica, contable, de ingeniería, arquitectónica, entre otras, para elaborar estudios, investigaciones, proyectos de ley, planes de desarrollo, o cualquier tipo de análisis o recomendaciones, que pudiesen ser requeridas para el cumplimiento de las obligaciones de los Entes Públicos; salvo los casos que se encuentren debidamente justificados, siempre que cuenten con el presupuesto suficiente para tales contrataciones y sean necesarias para el cumplimiento de sus programas, metas y objetivos relacionados con el Plan Estatal de Desarrollo.
 
-El ente público contratante deberá acreditar para obtener la autorización, que las personas físicas o morales que presten los servicios no desempeñen funciones similares, iguales o equivalentes a las del personal de plaza presupuestaria, que no se puede realizar con la fuerza de trabajo y capacidad profesional de los servidores públicos y sean indispensables para el cumplimiento de los programas autorizados.
-
-Respecto de las entidades, la contratación de servicios podrá realizarse, solo cuando se encuentren debidamente justificados y con la autorización de sus juntas u órganos de gobierno, bajo su estricta responsabilidad.
+Para considerar que la contratación se encuentra debidamente justificada, el Ente Público que ejerza los recursos deberá acreditar que los servicios contratados que presten las personas físicas o morales no se pueden realizar con la fuerza de trabajo y capacidad profesional de los servidores públicos adscritos a dicho Ente Público; que los productos y servicios derivados de la contratación son proporcionales al pago y señalar el programa, meta y objetivo del Plan Estatal de Desarrollo en el que impacta positivamente dicha contratación. La debida justificación deberá constar por escrito y será responsabilidad del titular del Ente Público.
 
 ###### Artículo 19.
 
@@ -231,9 +311,11 @@ Queda prohibida la obtención de algún privilegio económico adicional a lo est
 
 Se prohíben contrataciones de seguros de ahorro en beneficio de los servidores públicos con recursos del Estado, tal como el seguro de separación individualizado, o las cajas de ahorro especiales; lo anterior, con excepción de aquellos cuya obligación de otorgarlos derive de ley, contratos colectivos de trabajo o condiciones generales de trabajo.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-Queda prohibida la contratación de secretarios privados. Sólo podrán contar con estos servicios los titulares de los Poderes y quienes encabezan las dependencias y entidades del Poder Ejecutivo, los presidentes municipales y los titulares de los organismos autónomos.
+Queda prohibida la contratación de personal para ejercer funciones de secretarios privados. Sólo podrán contar con estos servicios la o el Gobernador del Estado y quienes encabezan las Secretarías, Dependencias y Entidades del Poder Ejecutivo; las personas titulares de los Poderes Legislativo y Judicial; las y los presidentes municipales y las personas titulares de los Organismos Constitucionales Autónomos.
 
 ### CAPÍTULO IV. GASTOS EN SERVICIOS GENERALES, MATERIALES Y SUMINISTROS
 
@@ -241,19 +323,25 @@ Queda prohibida la contratación de secretarios privados. Sólo podrán contar c
 
 Ningún servidor público podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezca la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-Se elimina la contratación de servicios de limpieza u otros servicios de mantenimiento similares que puedan realizarse con el personal con que actualmente cuenta el Poder Ejecutivo del Estado, salvo los casos de limpieza u otros servicios de mantenimiento similares especializados que se encuentren debidamente justificados y sólo con la autorización presupuestaria de la Secretaría.
+Se elimina la contratación de servicios de limpieza u otros servicios especializados que puedan realizarse con el personal con que actualmente cuentan los Entes Públicos, salvo los casos de limpieza u otros servicios especializados que se encuentren debidamente justificados y que cuenten con el presupuesto para cubrir las erogaciones que correspondan para tales efectos.
 
-Los entes públicos diferentes al Poder Ejecutivo deberán normar y establecer condiciones para estas contrataciones, que permitan el ahorro y la austeridad.
+Los Entes Públicos deberán normar y establecer condiciones para estas contrataciones, que permitan el ahorro y la austeridad. Las condiciones establecidas para esos efectos serán susceptibles de evaluación.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 28.
 
-No se realizarán gastos de oficina innecesarios. En ningún caso se autorizará la compra de bienes e insumos mientras haya suficiencia de estos en las oficinas o almacenes, considerando el tiempo de reposición. Asimismo, se prohíbe remodelar oficinas por cuestiones estéticas o comprar mobiliario de lujo.
+Los Entes Públicos no realizarán gastos de oficina innecesarios. En ningún caso se autorizará la compra de bienes e insumos mientras haya suficiencia de estos en las oficinas o almacenes, considerando el tiempo de reposición. Asimismo, se prohíbe remodelar oficinas por cuestiones estéticas, salvo que su deterioro estético resulte perjudicial para la salud e integridad de las personas que laboran en los inmuebles o por alguna otra causa justificada. También queda estrictamente prohibida la compra de mobiliario innecesario y de mobiliario de lujo.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 29.
 
-Los pasajes aéreos y terrestres, así como los servicios de hospedaje, deberán adquirirse garantizando los esquemas, programas o paquetes que resulten más económicos en su contratación, conforme a las políticas establecidas en los documentos jurídicos que normen la ejecución del gasto de los entes públicos.
+Los pasajes aéreos y terrestres, así como los servicios de hospedaje, deberán adquirirse garantizando los esquemas, programas o paquetes que resulten más económicos en su contratación, conforme a las políticas establecidas en los instrumentos jurídicos que normen la ejecución del gasto de los Entes Públicos.
 
 ###### Artículo 30.
 
@@ -343,9 +431,11 @@ Los servidores públicos o elementos operativos podrán realizar visitas oficial
 
 Sólo pueden otorgarse viáticos al personal en servicio activo. En ningún caso pueden otorgarse viáticos a servidores públicos o elementos operativos que se encuentren disfrutando de su periodo vacacional o que cuenten con cualquier tipo de licencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 44.
 
-Para el control de los gastos en viáticos, los sujetos obligados deberán elaborar y publicar un tabulador que contemple las erogaciones en el interior del Estado como en el resto de la República Mexicana, bajo criterios de austeridad y ahorro.
+Para el control de los gastos en viáticos, los Entes Públicos deberán elaborar y publicar un tabulador que contemple las erogaciones tanto en el interior del Estado como en el resto de la República Mexicana, bajo criterios de austeridad y ahorro. Lo anterior, sin perjuicio de la autonomía presupuestaria con la que cuenten algunos Entes Públicos en razón de su naturaleza.
 
 Para gastos en viáticos, sin incluir alimentos, en el interior del Estado, el tope máximo no podrá superar el equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización por día y en el caso del resto de la República Mexicana no podrán superar el equivalente a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, por día.
 
@@ -361,9 +451,11 @@ Sólo en aquellas situaciones de urgencia y de falta de tiempo oportuno para la 
 
 En caso de requerir hospedaje, se evitará la contratación de hoteles de lujo o gran turismo, salvo causa justificada.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 47.
 
-Los servidores públicos o elementos operativos que realicen gastos por concepto de viáticos y no cumplan con estas disposiciones, deberán reembolsar al sujeto obligado los gastos que se le hubiesen cubierto o, en su caso, no tendrán derecho al reembolso.
+Las personas servidoras públicas o elementos operativos que realicen gastos por concepto de viáticos y no cumplan con estas disposiciones, deberán reembolsar al Ente Público los gastos que se le hubiesen cubierto.
 
 ### CAPÍTULO VI. DENUNCIAS, SANCIONES E INCENTIVOS
 
@@ -383,17 +475,23 @@ Las autoridades conocedoras de las denuncias deberán turnarlas a las instancias
 
 La autoridad competente está obligada a realizar la investigación, instaurar el procedimiento y, en su caso, sancionar al servidor público o elemento operativo denunciado.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 50.
 
-El incumplimiento de las disposiciones contenidas en la presente ley por parte de los sujetos obligados, serán sancionados de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas, independientemente de las posibles responsabilidades de tipo penal en que, en su caso, hubiere incurrido con motivo del desempeño de su función.
+El incumplimiento de las disposiciones contenidas en la presente Ley por parte del personal de los Entes Públicos será sancionado de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas, independientemente de las posibles responsabilidades de tipo penal en las que, en su caso, se hubiere incurrido con motivo del desempeño de su función.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 51.
 
-Los sujetos obligados que cumplan con lo dispuesto en esta ley y apliquen lineamientos y políticas de austeridad y ahorro exitosas, podrán ser beneficiados con programas de capacitación, becas y otros estímulos que defina la Secretaría. En el caso de los municipios se estará a lo dispuesto en sus disposiciones reglamentarias.
+Los Entes Públicos que cumplan con lo dispuesto en esta Ley y apliquen lineamientos y políticas de austeridad y ahorro exitosas, podrán ser beneficiados con programas de capacitación, becas y otros estímulos que defina la Secretaría. En el caso de los Municipios se estará a lo dispuesto en sus disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 52.
 
-El Órgano Interno de Control correspondiente o, en su caso, la Contraloría del Estado, estarán facultados para vigilar el cumplimiento de lo señalado por esta Ley durante la gestión gubernamental de los entes públicos.
+El Órgano Interno de Control correspondiente, la Secretaría de la Contraloría, para el caso del Poder Ejecutivo Estatal, y la Auditoría Superior del Estado para todos los Entes Públicos, estarán facultados para vigilar el cumplimiento de lo señalado por esta Ley.
 
 En caso de advertir omisiones, infracciones o actos de corrupción que contravengan la presente Ley, deberá presentar las denuncias correspondientes, ante la o las autoridades competentes.
 
@@ -422,3 +520,15 @@ Que la LXIV Legislatura del H. Congreso del Estado Libre y Soberano de Campeche 
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiún días del mes de diciembre del año dos mil veintitrés.
 
 LA GOBERNADORA DEL ESTADO DE CAMPECHE, LICDA. LAYDA ELENA SANSORES SAN ROMÁN. RÚBRICA.- EL SECRETARIO DE GOBIERNO, ING. ARMANDO CONSTANTINO TOLEDO JAMIT.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 412 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4, 5, 6, 9, 10, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11, LOS ARTÍCULOS 12, 13, 14, 15, 16, 18, 25, 27, 28, 29, EL PÁRRAFO PRIMERO DEL ARTÍCULO 44, LOS ARTÍCULOS 47, 50, 51 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 52, TODOS DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de noventa días naturales contados a partir de la entrada en vigor del presente decreto, el Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas, deberá realizar las modificaciones respectivas a los Lineamientos para la Integración, Operación y Funcionamiento del Comité de Evaluación en materia de Austeridad y Ahorro, publicados en el Periódico Oficial del Estado con fecha 03 de abril de 2024.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente decreto.
