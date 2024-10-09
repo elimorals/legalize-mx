@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-quintanarroense-de-la-mujer-61491"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-02"
-last_updated: "2021-07-16"
+last_updated: "2024-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO: 022, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Número 57 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 2 de junio de 2008.
 
@@ -784,3 +786,39 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 022 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, quedará abrogada la Ley del Instituto Quintanarroense de la Mujer, publicada en el Periódico Oficial del Estado de Quintana Roo el 02 de junio de 2008.
+
+TERCERO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, convenios, contratos, programas y demás documentación al Instituto Quintanarroense de la Mujer se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+CUARTO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan al Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Secretaría de Gobierno, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género, quienes pasarán a formar parte de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SEXTO. Los recursos humanos, materiales y financieros que correspondan a la Coordinación General del Programa General Mujer es Poder, sus Direcciones y demás unidades administrativas de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, quienes pasarán a formar (sic) de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SÉPTIMO. Los convenios, contratos y acuerdos suscritos por el Instituto Quintanarroense de la Mujer, seguirán teniendo vigencia en los términos acordados y en lo sucesivo, constituirán parte de los derechos y obligaciones de la Secretaría de las Mujeres que se crea mediante el presente Decreto, lo anterior sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos.
+
+OCTAVO. El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, continuarán rigiéndose por sus respectivas disposiciones jurídicas y serán coordinados y/o presididos, respectivamente, por la Secretaría de las Mujeres.
+
+Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo celebrados con anterioridad a la entrada en vigor del presente Decreto quedarán convalidados y continuarán su trámite bajo las disposiciones jurídicas vigentes, para lo cual la Secretaría de las Mujeres como ente coordinador, dará puntual seguimiento a los acuerdos emanados de dichos sistemas, en los términos que disponen sus leyes.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
+
+DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
