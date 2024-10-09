@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2023-06-01"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -231,9 +231,21 @@ II. No ser Jueza o Juez, Secretaria o Secretario General o Magistrada o Magistra
 
 III. No ser Consejera o Consejero Electoral o Secretaria o Secretario en los Consejos General, distritales o municipales del Instituto Electoral o pertenecer al personal profesional del mismo Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-IV. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género, y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-V. Los demás que establezcan la normatividad electoral vigente.
+IV. No estar condenada o condenado por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+V. No haber sido sentenciado o sancionado penal o administrativamente por actos de discriminación por género, identidad o expresión de género, y/u orientación sexual;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VI. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VII. Los demás que establezcan la normatividad electoral vigente.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -2083,7 +2095,9 @@ III. Copia fotostática legible del anverso y reverso de la credencial para vota
 
 IV. Escrito bajo protesta que acredite su residencia;
 
-V. (DEROGADA, P.O. 29 DE MAYO DE 2020)
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+V. Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -4617,11 +4631,11 @@ j. No deberán retener la credencial para votar como condición para la entrega 
 
 k. Cumplir en todo momento con el artículo 134, párrafos séptimo y octavo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 395.
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia legible del acta de nacimiento, copia fotostática legible del anverso y reverso de la credencial para votar vigente y del escrito bajo protesta con que acredite su residencia.
+La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia legible del acta de nacimiento, copia fotostática legible del anverso y reverso de la credencial para votar vigente; del escrito bajo protesta con que acredite su residencia, así como de no encontrarse en ninguna de las hipótesis de impedimento previstas en la Constitución Estatal o en esta Ley de Instituciones para ocupar cargo de elección popular y el Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 396.
 
@@ -8154,3 +8168,13 @@ Cuarto.- Dada la modificación de la fecha de inicio del próximo proceso electo
 Por consecuencia de lo previsto en el párrafo anterior, el Consejo General del Instituto Electoral del Estado de Campeche remitirá en un plazo no mayor a 30 días naturales a la Secretaría de Administración y Finanzas del Estado, los ajustes presupuestales que se deriven del presente decreto, para su análisis y actualizaciones correspondientes, ésta a su vez remitirá al Congreso del Estado para los tramites que de éste resulten en el Presupuesto de Egresos 2023.
 
 Quinto.- El Instituto Electoral del Estado de Campeche, deberá tener presente al momento de la integración del anteproyecto de Presupuesto de Egresos 2024, los arreglos contenidos en el presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 415 POR EL QUE SE “SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 11 Y EL ARTÍCULO 395; SE REPONE CON NUEVO TEXTO LA FRACCIÓN V DEL ARTÍCULO 210; Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 11, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Lo previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
