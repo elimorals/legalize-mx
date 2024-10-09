@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2024-10-07"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -169,51 +169,63 @@ Para el despacho, estudio y planeación de los asuntos que correspondan a los di
 
 I. Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-II. Secretaría de Bienestar;
+II. Secretaría de las Mujeres;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-III. Secretaría de Finanzas y Planeación;
+III. Secretaría de Bienestar;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV. Secretaría de Desarrollo Territorial Urbano Sustentable.
+IV. Secretaría de Finanzas y Planeación;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-V. Secretaría de Obras Públicas.
+V. Secretaría de Desarrollo Territorial Urbano Sustentable;
 
-VI. Secretaría de Ecología y Medio Ambiente;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-VII. Secretaría de Desarrollo Económico;
+VI. Secretaría de Obras Públicas;
 
-VIII. Secretaría de Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+VII. Secretaría de Ecología y Medio Ambiente;
 
-IX. Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+VIII. Secretaría de Desarrollo Económico;
 
-X. Secretaría de Educación;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-XI. Secretaría de Salud;
+IX. Secretaría de (sic) Trabajo y Previsión Social;
 
-XII. Secretaría de Turismo;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+X. Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
-XIII. Secretaría de la Contraloría.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-XIV. (DEROGADA, P.O. 16 DE JULIO DE 2021)
+XI. Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-XV. Consejería Jurídica del Poder Ejecutivo;
+XII. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIII. Secretaría de Turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIV. Secretaría de la Contraloría;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XV. Consejería Jurídica del Poder Ejecutivo, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
 
 XVI. Secretaría de Seguridad Ciudadana.
 
@@ -244,6 +256,10 @@ En el caso de la persona Titular de la Consejería Jurídica del Poder Ejecutivo
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Tratándose de lo dispuesto en la fracción II del presente artículo, podrá ser dispensable únicamente para el cargo de la persona titular de la Secretaría de Seguridad Ciudadana.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La persona Titular de la Secretaría de las Mujeres, además de cumplir con los requisitos señalados en las fracciones anteriores, deberá ser mujer.
 
 ###### ARTÍCULO 21.
 
@@ -466,6 +482,120 @@ XXIX. Administrar, normar, conducir y supervisar los servicios que presta el Reg
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2018)</small>
 
 XXX. Las demás que le encomienden expresamente las Leyes y Reglamentos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 31 BIS. La Secretaría de las Mujeres será la encargada de promover, coordinar, impulsar, formular, ejecutar y evaluar las políticas públicas, programas y acciones para garantizar la igualdad de género, la transversalización de la perspectiva de género, la prevención, atención, sanción y erradicación de la violencia contra las mujeres en todos los ámbitos, la implementación de acciones afirmativas que acorten las brechas sociales, la protección integral de las mujeres, la eliminación de cualquier tipo de discriminación que obstaculice el acceso igualitario a las oportunidades, el empoderamiento y el ejercicio de sus derechos, y ser la instancia coordinadora y ejecutora de las obligaciones establecidas en el artículo 13 en sus párrafos cuarto, quinto y sexto de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+A la Secretaría de las Mujeres le corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar, proponer y coordinar políticas públicas con perspectiva de género, asegurando su incorporación en todos los niveles de gobierno y en las distintas áreas de la administración pública;
+
+II. Desarrollar estrategias y programas que promuevan la igualdad de género en los sectores público y privado, eliminando las brechas de desigualdad en todos los sectores de la sociedad;
+
+III. Coordinar, instrumentar, elaborar y actualizar con base en los diagnósticos de cada sector involucrado en el Plan Estatal de Desarrollo, el documento que oriente la conducción del quehacer público, privado, social, político, académico y económico para mejorar la condición social de las mujeres;
+
+IV. Impulsar la incorporación de la perspectiva de género en el Plan Estatal de Desarrollo, programación y presupuesto del Estado, a través de la capacitación y actualización de las personas servidoras públicas responsables de la planeación y de emitir políticas públicas de cada sector del Estado, sobre los mecanismos y procedimientos para tal fin;
+
+V. Fomentar el acceso de las mujeres a oportunidades económicas, incluyendo la capacitación para el emprendimiento, la educación financiera, el acceso a recursos productivos y el desarrollo de proyectos sustentables;
+
+VI. Diseñar e implementar programas integrales para la prevención, atención, sanción y erradicación de la violencia de género en sus diversas formas, garantizando el acceso a servicios de atención y protección para las víctimas;
+
+VII. Coordinar capacitaciones con las dependencias gubernamentales, así como con los sectores privado y social, para incorporar la perspectiva de género en sus políticas, acciones y decisiones;
+
+VIII. Promover la protección de los derechos humanos de las mujeres en todos los ámbitos, incluyendo los derechos sexuales y reproductivos, el derecho a una vida libre de violencia y la igualdad de oportunidades en el acceso a recursos y toma de decisiones;
+
+IX. Diseñar y coordinar campañas estatales de concientización sobre igualdad de género y derechos de las mujeres, promoviendo la educación en todos los niveles para erradicar estereotipos de género y fomentar el respeto y la igualdad;
+
+X. Llevar a cabo evaluaciones periódicas de las políticas públicas con perspectiva de género, mediante la recolección y análisis de datos desagregados por sexo, para medir el impacto y la efectividad de las acciones implementadas;
+
+XI. Promover la participación activa de las mujeres en la vida política y pública, incentivando su representación en cargos de elección popular y en espacios de toma de decisiones en el ámbito público y privado;
+
+XII. Establecer alianzas con organismos internacionales, gobiernos locales, organizaciones de la sociedad civil y el sector privado para desarrollar estrategias conjuntas que fomenten la igualdad de género y el empoderamiento de las mujeres;
+
+XIII. Desarrollar y ejecutar programas específicos dirigidos a mujeres en situaciones de vulnerabilidad y en situación de pobreza;
+
+XIV. Difundir y promover el cumplimiento de las disposiciones jurídicas y administrativas vigentes en el ámbito internacional, nacional y local a favor de las mujeres;
+
+XV. Fungir como dependencia rectora de las políticas transversales en materia de igualdad de género; de prevención, atención, sanción y erradicación de la violencia contra las mujeres y de empoderamiento de las mujeres en la administración pública estatal, así como coadyuvar con los municipios, los poderes Legislativo y Judicial, los organismos autónomos cuando así lo soliciten; así como actuar como órgano de consulta, asesoría, capacitación y formación de las dependencias y entidades de la administración pública;
+
+XVI. Diseñar, coordinar, aplicar y evaluar el Programa Estatal para la Igualdad de Género;
+
+XVII. Conocer de actos de discriminación que se hayan hecho del conocimiento de las instituciones y autoridades del sector privado y social;
+
+XVIII. Promover en los órdenes estatal y municipal, así como en los diversos sectores de la sociedad, acciones afirmativas dirigidas a mejorar la condición social de las mujeres y la erradicación de todas las formas de discriminación contra las mismas;
+
+XIX. Vincular las acciones con los órganos legislativos estatales y nacionales, para impulsar disposiciones legales que garanticen a las mujeres el acceso igualitario, equitativo y no discriminatorio a las oportunidades, al trato, a la toma de decisiones y a los beneficios del desarrollo;
+
+XX. Propiciar las condiciones necesarias para legitimar, ante las instituciones del Estado, la relevancia de impulsar políticas públicas con perspectiva de género, que contribuyan a la superación de las diversas formas de discriminación contra las mujeres y, promuevan las condiciones sociales adecuadas para garantizarles el ejercicio efectivo de sus derechos;
+
+XXI. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
+
+XXII. Establecer vinculación permanente con la Comisión de los Derechos Humanos del Estado de Quintana Roo en materia de prevención, atención, erradicación y sanción de actos u omisiones de discriminación hacia las mujeres;
+
+XXIII. Impulsar a través del sistema educativo y los medios de comunicación, una cultura que favorezca la eliminación de imágenes nocivas o estereotipadas sobre las mujeres y promover el respeto a la dignidad de las personas;
+
+XXIV. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, haciendo énfasis en el medio rural;
+
+XXV. Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas; organizaciones privadas y sociales; organismos nacionales, internacionales y regionales; gobiernos de otros países y particulares interesados en apoyar el logro para la igualdad de género;
+
+XXVI. Promover la institucionalización de la igualdad y la perspectiva de género en cada dependencia o entidad de la Administración Pública Estatal;
+
+XXVII. Formular recomendaciones sobre la asignación de presupuestos específicos para la ejecución de programas relacionados con la igualdad de género y el empoderamiento de las mujeres, en cada una de las dependencias y entidades de la Administración Pública Estatal;
+
+XXVIII. Proporcionar, en el ámbito de su competencia, los servicios de asesoría, orientación y capacitación integral a las mujeres en general;
+
+XXIX. Abrir espacios de participación igualitaria para las mujeres e impulsar su incorporación en la toma de decisiones en los diversos sectores políticos, sociales, económicos y culturales;
+
+XXX. Diseñar e implementar medidas de capacitación e información destinadas a mujeres y hombres con la finalidad de sensibilizar el respeto a sus derechos en igualdad de condiciones;
+
+XXXI. Promover en el marco del Plan Estatal de Desarrollo la creación de instancias de atención integral de la mujer, principalmente en los aspectos jurídico asistenciales, médico y psicológico, dirigidas principalmente a combatir y eliminar toda forma de violencia y discriminación basada en cuestiones de género;
+
+XXXII. Generar proyectos productivos con especial atención a las mujeres de las comunidades indígenas, promoviendo entre ellas, el respeto a los derechos humanos y la revaloración de los derechos específicos al género y fomentar movimientos sociales que favorezcan una nueva cultura de participación femenil;
+
+XXXIII. Promover la protección y atención especial de las mujeres con discapacidad, así como las que se encuentren en situaciones de vulnerabilidad;
+
+XXXIV. Elaborar programas especiales de atención a madres solteras y madres adolescentes;
+
+XXXV. Realizar programas específicos de atención a las mujeres que se dedican a la prostitución o que son víctimas de la explotación sexual, con enfoque preventivo en la infancia;
+
+XXXVI. Mantener un contacto permanente con las autoridades encargadas de los centros penitenciarios, para garantizar el respeto irrestricto de los derechos humanos de las mujeres reclusas; así como realizar visitas periódicas a los mismos para brindar servicios de capacitación y asesoría;
+
+XXXVII. Impulsar acciones para garantizar la libertad sexual y reproductiva de las mujeres;
+
+XXXVIII. Realizar estudios e investigaciones para atender el tema de mujeres migrantes y sus efectos; así como también articular acciones con las autoridades competentes para prevenir la trata de personas;
+
+XXXIX. Realizar acciones concretas en favor de las trabajadoras domésticas, la defensa de sus derechos y la revalorización de su labor económicamente activa;
+
+XL. Realizar programas específicos que tiendan a prevenir, atender, sancionar y erradicar todos los tipos de violencia y discriminación hacia la mujer;
+
+XLI. Impulsar en colaboración con las dependencias y Entidades de la Administración Pública del Estado, acciones de combate a la pobreza, marginación y exclusión de las mujeres, en las actividades económicas, sociales y culturales de la entidad, especialmente en las áreas rurales y urbanas de menor desarrollo;
+
+XLII. Promover acciones concretas para combatir y erradicar el hostigamiento y acoso sexual contra la mujer en sus centros de trabajo, a través de planes de acción específicos para ello;
+
+XLIII. Proponer estímulos fiscales para la capacitación y adiestramiento de las trabajadoras, así como proponer programas de capacitación dirigidos a las desempleadas;
+
+XLIV. Impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios;
+
+XLV. Proponer a las autoridades Federales, Estatales o Municipales, según corresponda, la facilitación y simplificación de trámites para el establecimiento y operación de empresas, microempresas y proyectos productivos a cargo de mujeres o para su beneficio directo;
+
+XLVI. Promover esquemas de ampliación del número de guarderías y estancias infantiles y sus horarios, acordes a las necesidades laborales y educativas de las mujeres;
+
+XLVII. Elaborar y mantener actualizado el Sistema Estatal de Indicadores de Género, el cual deberá contener diversos indicadores que busquen dar cuenta de los recursos y oportunidades de los que de manera diferencial, disponen mujeres y hombres para su desarrollo individual, familiar y social en Quintana Roo;
+
+XLVIII. Establecer relaciones permanentes de colaboración con las autoridades encargadas de la seguridad ciudadana, así como de la procuración e impartición de justicia, para proponer medidas de prevención y atención oportuna del respeto de los derechos humanos de las mujeres víctimas de un delito;
+
+XLIX. Fungir como coordinadora de los programas sociales dirigidos al empoderamiento y mejoramiento de las condiciones de vida de las Mujeres, niñas y adolescentes en el Estado de Quintana Roo, así como el enlace en los temas referentes a la mujer ante autoridades estatales y federales;
+
+L. Presidir el Subcomité de Planeación Especial de la Mujer, en el seno del Comité de Planeación para el Desarrollo del Estado de Quintana Roo;
+
+LI. Coordinar y apoyar la creación dentro de los Comités de Planeación para el Desarrollo Municipal, del Subcomité de la Mujer, previo convenio que se celebre con los Municipios;
+
+LII. Promover en el marco del Plan Estatal de Desarrollo, la participación de las mujeres en los Consejos de Desarrollo Municipal y Comités Comunitarios;
+
+LIII. Las establecidas en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, y
+
+LIV. Las que en el ámbito de su competencia le confiere directamente la persona titular del Poder Ejecutivo del Estado, las Leyes, Reglamentos y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
@@ -2584,3 +2714,39 @@ La entrada en vigor del presente Decreto, no afectará el régimen ni los derech
 SEXTO. Los asuntos, procedimientos y demás trámites vigentes a cargo del Centro Estatal de Evaluación y Control de Confianza (C3) y que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, serán informados y asumidos de inmediato por la Secretaría de Gobierno, para su atención.
 
 SÉPTIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 022 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, quedará abrogada la Ley del Instituto Quintanarroense de la Mujer, publicada en el Periódico Oficial del Estado de Quintana Roo el 02 de junio de 2008.
+
+TERCERO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, convenios, contratos, programas y demás documentación al Instituto Quintanarroense de la Mujer se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+CUARTO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan al Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Secretaria de Gobierno, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género, quienes pasarán a formar parte de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SEXTO. Los recursos humanos, materiales y financieros que correspondan a la Coordinación General del Programa General Mujer es Poder, sus Direcciones y demás unidades administrativas de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, quienes pasarán a formar (sic) de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SÉPTIMO. Los convenios, contratos y acuerdos suscritos por el Instituto Quintanarroense de la Mujer, seguirán teniendo vigencia en los términos acordados y en lo sucesivo, constituirán parte de los derechos y obligaciones de la Secretaría de las Mujeres que se crea mediante el presente Decreto, lo anterior sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos.
+
+OCTAVO. El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, continuarán rigiéndose por sus respectivas disposiciones jurídicas y serán coordinados y/o presididos, respectivamente, por la Secretaría de las Mujeres.
+
+Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo celebrados con anterioridad a la entrada en vigor del presente Decreto quedarán convalidados y continuarán su trámite bajo las disposiciones jurídicas vigentes, para lo cual la Secretaría de las Mujeres como ente coordinador, dará puntual seguimiento a los acuerdos emanados de dichos sistemas, en los términos que disponen sus leyes.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
+
+DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
