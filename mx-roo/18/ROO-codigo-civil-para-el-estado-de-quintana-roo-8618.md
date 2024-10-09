@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2024-07-10"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -6069,7 +6069,7 @@ IV.- Por resolución judicial que determine su pérdida.
 
 La patria potestad se pierde únicamente mediante resolución judicial, si decretada su suspensión por la causal prevista en la fracción III del artículo 1019 de éste Código, se cometiere alguno de los supuestos siguientes:
 
-I.- En el caso de violencia familiar reiterada en contra de la persona menor de edad así como del· cónyuge, por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar;
+I.- En el caso de violencia familiar reiterada en contra de la persona menor de edad así como del cónyuge, por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar;
 
 II.- Cuando el que la ejerza hubiera cometido en contra de la integridad física, sexual emocional o psicológica de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
 
@@ -6085,7 +6085,15 @@ Las visitas ocasionales o intermitentes, no interrumpen el término de tres mese
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-V. Cuando sus hijos o hijas menores de edad han sido o están siendo utilizados como medio para cometer violencia vicaria.
+V.- Cuando sus hijos o hijas menores de edad han sido o están siendo utilizados como medio para cometer violencia vicaria.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VI.- En caso de que la persona progenitora haya sido sentenciada por algún delito del Título Cuarto "Delitos Contra la Libertad y Seguridad Sexual" del Código Penal para el Estado Libre y Soberano de Quintana Roo, a petición de la otra persona progenitora, si la persona juzgadora considera perjudicial para las niñas, niños o adolescentes, mantener una relación con tal persona.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VII.- Cuando quien la ejerza sea condenada por el delito de feminicidio u homicidio en contra de la madre o el padre de las niños (sic), niños y adolescentes sujetos a patria potestad.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -6104,6 +6112,20 @@ III.- Por sentencia condenatoria que imponga como pena la suspensión;
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 IV.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+V.- Por incumplimiento parcial o total de la obligación alimentaria provisional, por cualquiera de las partes, por más de sesenta días sin causa justificada a consideración de la persona juzgadora.
+
+Quien haya sido suspendido en el goce de la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe ante la autoridad que ha cumplido con esta obligación, quedando a consideración de la persona juzgadora, el otorgamiento de una garantía anual.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VI.- Por auto de vinculación a proceso dictado por delito de feminicidio u homicidio en contra de la madre o el padre de las niñas, niños y adolescentes sujetos a patria potestad.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VII.- Por auto de vinculación a proceso dictado por algún delito del Título Cuarto "Delitos contra la libertad y seguridad Sexual" del Código Penal para el Estado Libre y Soberano de Quintana Roo, a petición de la otra persona progenitora, si la persona juzgadora considera perjudicial para las niñas, niños o adolescentes, mantener una relación con tal persona.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -18182,3 +18204,11 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 242 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
