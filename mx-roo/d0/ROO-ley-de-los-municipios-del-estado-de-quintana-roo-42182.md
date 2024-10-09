@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2024-06-06"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -947,7 +947,19 @@ d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su 
 
 e) Intervenir en la regulación de la tenencia de la tierra urbana;
 
-f) Otorgar licencias y permisos para construcciones;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+f) Otorgar licencias y permisos para construcciones, de conformidad a lo dispuesto por los ordenamientos jurídicos y disposiciones normativas aplicables.
+
+Para tal efecto, las autorizaciones correspondientes para la construcción de nuevos edificios destinados a la prestación de servicios al público de cualquier naturaleza, ya sea de carácter público o privado, así como, en lo conducente, de nuevos desarrollos o acciones urbanísticas, deberán contemplar, al menos, lo siguiente:
+
+1. Las medidas pertinentes para asegurar el libre acceso y facilidad de desplazamiento en condiciones de igualdad de todas las personas usuarias, eliminando cualquier barrera u obstáculo que dificulte, entorpezca o impida su libre tránsito o el uso de herramientas, dispositivos o servicios comunitarios.
+
+2. En materia de Protección Civil, la mitigación o prevención de los riesgos y contingencias de cualquier tipo, inherentes a las características propias o naturaleza particular del inmueble o desarrollo de la acción urbanística de la que se trate.
+
+3. La implementación de acciones para la preservación o restauración, en su caso, del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, así como la protección del medio ambiente, a efecto de posibilitar un entorno humano seguro, saludable y vivible.
+
+En el caso de las autorizaciones correspondientes a la ampliación, adecuación o modificación de cualquier tipo, ya sea de edificios destinados a la prestación de servicios al público de cualquier naturaleza, ya sea de carácter público o privado, así como, en lo conducente, de desarrollos o acciones urbanísticas previamente existentes, de igual forma, se deberá tomar en cuenta lo establecido en los párrafos que anteceden, sin menoscabo de que, en el lapso en que las instalaciones con las que se cuente, y que no formen parte del proyecto del que se trate, no sean aun las adecuadas, se buscará la implementación de estrategias que, en la medida de lo posible, permitan su adaptación inmediata de manera temporal, no obstante lo cual, invariablemente, la propuesta en cuestión, tendrá que contemplar un plan de acción para la solventación de dichas deficiencias en el corto plazo.
 
 g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
@@ -4108,3 +4120,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. A partir de la entrada en vigor del presente Decreto, las autoridades municipales en el ámbito de sus competencias llevarán a cabo las acciones necesarias para el cumplimiento del mismo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 265 POR EL QUE SE REFORMA EL INCISO F) DE LA FRACCIÓN II DEL ARTÍCULO 66 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. En el ámbito de sus respectivas competencias, atribuciones y facultades, los Ayuntamientos del Estado, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, deberán adecuar las disposiciones normativas reglamentarias que corresponda, a efecto de posibilitar el cumplimiento de lo establecido por el presente Decreto.
