@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2023-12-22"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -109,6 +109,10 @@ No se requerirá acuerdo previo del Congreso para dar trámite a procesos del or
 
 El Congreso tiene su residencia en la ciudad de San Francisco de Campeche, capital del Estado, y su recinto oficial lo es el Palacio Legislativo, edificio ubicado entre la calle ocho y la avenida 16 de Septiembre, el Palacio de Gobierno y el Baluarte de San Carlos, instituido como tal por decreto número 122, de fecha quince de julio de mil novecientos ochenta y ocho, expedido por la LII Legislatura del propio Congreso, y cualquiera otra edificación que habilite para la instalación de oficinas de sus diputados u órganos de apoyo. Por resolución de la propia asamblea el recinto oficial del Congreso puede trasladarse temporalmente a sitio diverso de la misma capital o del propio Estado.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Por motivos de seguridad o para la atención de asuntos urgentes, la Junta de Gobierno y Administración podrá acordar el cambio de sede oficial del Congreso para llevar a cabo las sesiones correspondientes.
+
 ###### Art. 8.
 
 Es inviolable el Palacio Legislativo, así como todas las demás oficinas que el Congreso tenga fuera de dicho Palacio. Queda prohibida la portación de cualquier tipo o clase de armamento en el interior de ellos, aun tratándose de los diputados. Toda fuerza pública está impedida de tener acceso al mismo, salvo permiso del presidente del Congreso o de la Diputación Permanente, según corresponda, quienes en su caso podrán solicitar el auxilio de aquélla para salvaguardar la inviolabilidad de las instalaciones del Congreso o de los diputados.
@@ -161,7 +165,9 @@ De la sesión se levantará acta por el secretario de la Diputación Permanente 
 
 El primer día del mes de octubre del año de la elección, a las once de la mañana, los diputados integrantes de la Legislatura entrante, que hayan rendido protesta, se reunirán en la Cámara, o recinto que oportunamente se hubiere habilitado como tal, a efecto de proceder a la instalación de la Legislatura y a la apertura del primer período ordinario de sesiones del primer año de su ejercicio constitucional. La sesión se desarrollará conforme al orden del día previsto en el artículo 63 de esta ley y la declaración que hará el presidente de la Mesa Directiva, en términos de la fracción IV del mencionado numeral, será la siguiente: "Se declara legítimamente constituida e instalada la (número) Legislatura del H. Congreso del Estado de Campeche." Esta declaración se hará de conocimiento público a través del correspondiente decreto.
 
-Concluida la sesión, el presidente en unión de los demás miembros de la Mesa Directiva, de forma personal, comunicarán al Gobernador del Estado y al Pleno del Congreso del Tribunal Superior de Justicia la constitución e instalación de la Legislatura y la elección de su primera Mesa Directiva. La misma comunicación se hará, por medio de sendos oficios a los Poderes de la Unión, a los demás Congresos de los Estados de la República y a la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Concluida la sesión, el presidente en unión de los demás miembros de la Mesa Directiva, de forma personal, comunicarán al Gobernador del Estado y al Pleno del Tribunal Superior de Justicia la constitución e instalación de la Legislatura y la elección de su primera Mesa Directiva. La misma comunicación se hará, por medio de sendos oficios a los Poderes de la Unión y a los demás Congresos de los Estados de la República.
 
 ### Capítulo Tercero. De la Mesa Directiva del Congreso
 
@@ -707,9 +713,9 @@ Cuando la presidencia de una comisión ordinaria reciba el asunto que se turne a
 
 El miembro de una comisión que disienta de lo dictaminado por la mayoría podrá expresar sus razones por escrito, mismo que deberá agregarse al dictamen, informe u opinión, como voto particular para hacerlo del conocimiento de la asamblea. Las sesiones de las comisiones ordinarias serán públicas, con excepción de aquellas que por la naturaleza del asunto a tratar deban considerarse reservadas en términos de la legislación aplicable en materia de juicio político y/o de transparencia y acceso a la información pública.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-Los dictámenes que se vayan a someter a análisis y discusión en una sesión de Comisión, deberán ser distribuidos a sus integrantes con al menos veinticuatro horas de anticipación. En ningún caso, se podrá someter a análisis y discusión un dictamen que no haya sido previamente circulado.
+Los dictámenes que se vayan a someter a análisis y discusión en una sesión de Comisión, deberán ser distribuidos a sus integrantes dentro de las veinticuatro horas previas. En ningún caso, se podrá someter a análisis y discusión un dictamen que no haya sido previamente circulado.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -781,13 +787,13 @@ III. Presentar excitativas, mociones, solicitudes, preguntas parlamentarias y vo
 
 IV. Participar en respeto a la pluralidad democrática en el desarrollo de las sesiones, reuniones, debates, discusiones, votaciones y cualquier otro evento que se realicen en el Pleno del Congreso y en comisiones;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV Bis. Recibir con al menos veinticuatro horas de anticipación a la sesión ordinaria o extraordinaria de que se trate el Orden del Día de la misma;
+IV Bis. Recibir dentro de las veinticuatro horas previas a la sesión ordinaria o extraordinaria de que se trate el Orden del Día de la misma;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV Ter. Tener acceso a consulta de la Gaceta Parlamentaria con al menos veinticuatro horas de anticipación a la sesión ordinaria o extraordinaria de que se trate;
+IV Ter. Tener acceso a consulta de la Gaceta Parlamentaria dentro de las veinticuatro horas previas a la sesión ordinaria o extraordinaria de que se trate;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
@@ -963,9 +969,9 @@ El Congreso tendrá períodos extraordinarios de sesiones sólo en los casos pre
 
 Durante los períodos ordinarios el Congreso sesionará, cuando menos, dos veces por semana. Si el buen despacho de los negocios lo exige sesionará semanalmente las veces que sea necesario. Para celebrar sesiones todos los días y horas son hábiles.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-Las sesiones tendrán lugar en el día y a la hora que la presidencia de la Mesa Directiva determine y haga saber con anticipación de cuando menos veinticuatro horas a los miembros del Congreso; su duración sólo tendrá como límite él haberse agotado los asuntos previstos para tratar en ellas.
+Las sesiones tendrán lugar en el día y a la hora que la presidencia de la Mesa Directiva determine y haga saber dentro de las veinticuatro horas previas a los miembros del Congreso; su duración sólo tendrá como límite el haberse agotado los asuntos previstos para tratar en ellas.
 
 En las sesiones cuya duración sea muy prolongada, la presidencia de la Mesa Directiva discrecionalmente dispondrá los recesos que sean necesarios.
 
@@ -1015,7 +1021,9 @@ III. Se rinda el informe previsto por el artículo 56 de la Constitución Polít
 
 IV. Concurra el Presidente de los Estados Unidos Mexicanos o su representante;
 
-V. Con carácter oficial concurran delegaciones del Congreso de la Unión, de los Congresos de otras Entidades Federativas o de otro país, o de la Asamblea Legislativa del Distrito Federal; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+V. Con carácter oficial concurran delegaciones del Congreso de la Unión, de los Congresos de otras Entidades Federativas o de otro país.
 
 VI. A través del correspondiente decreto, el propio Congreso del Estado les confiera esa calidad.
 
@@ -1593,9 +1601,11 @@ de la Diputación.
 
 En la sesión en que se adopte la resolución de prorrogar un periodo ordinario de sesiones, el presidente de la Mesa Directiva hará la siguiente declaración: "Se prorroga por (número) días el (primer o segundo o tercer) periodo ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Art. 112.
 
-La apertura, prórroga y clausura de los períodos de sesiones se harán de conocimiento general mediante la publicación del respectivo decreto en el Periódico Oficial del Estado. Al Gobernador y al H. Tribunal Superior de Justicia del Estado, así como a los Poderes de la Unión, a las Legislaturas de los demás Estados de la República y a la Asamblea Legislativa del Distrito Federal se les notificará el evento a través de oficio.
+La apertura, prórroga y clausura de los períodos de sesiones se harán de conocimiento general mediante la publicación del respectivo decreto en el Periódico Oficial del Estado. Al Gobernador y al H. Tribunal Superior de Justicia del Estado, así como a los Poderes de la Unión y a las Legislaturas de los demás Estados de la República se les notificará el evento a través de oficio.
 
 ###### Art. 113.
 
@@ -2025,11 +2035,11 @@ De la Gaceta Parlamentaria y el Diario de Debates
 
 La Gaceta Parlamentaria del Congreso será el órgano informativo interno del Poder Legislativo del Estado de Campeche y estará a cargo de la Secretaría General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Art. 147.
 
-La Gaceta Parlamentaria se publicará exclusivamente a través de medios electrónicos con una anticipación de cuando menos veinticuatro horas antes de la sesión del Pleno o de la Diputación Permanente que corresponda y en ella se contendrán los siguientes asuntos:
+La Gaceta Parlamentaria se publicará exclusivamente a través de medios electrónicos dentro de las veinticuatro horas previas a la sesión del Pleno o de la Diputación Permanente que corresponda y en ella se contendrán los siguientes asuntos:
 
 I. El proyecto del orden del día;
 
@@ -2173,9 +2183,15 @@ De todas y cada una de las sesiones que celebre el Congreso, la Diputación Perm
 
 Las actas de la Diputación Permanente y de las Comisiones serán firmadas por quienes las integren. Las actas se coleccionarán y empastarán en la forma prevista en el artículo anterior. Además de lo anterior, de las sesiones del Congreso también se llevará un registro magnetofónico y/o videograbado para constancia de lo sucedido en ellas.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Art. 160.
 
-La facultad que la Constitución Política de los Estados Unidos Mexicanos, en su artículo 135, otorga a la Legislatura del Estado, se ejercerá dándole a las minutas proyecto de decreto y demás documentación que remita cualesquiera de las Cámaras del H. Congreso General de los Estados Unidos Mexicanos, tratamiento similar al de un proyecto o iniciativa de decreto. El formato para la redacción de los decretos de aprobación o desaprobación de esas minutas expresará:
+La facultad que la Constitución Política de los Estados Unidos Mexicanos, en su artículo 135, otorga a la Legislatura del Estado, se ejercerá dándole a las minutas proyecto de decreto y demás documentación que remita cualesquiera de las Cámaras del H. Congreso General de los Estados Unidos Mexicanos, tratamiento similar al de un proyecto o iniciativa de decreto.
+
+La Presidencia de la Mesa Directiva o en su caso de la Diputación Permanente podrá convocar de inmediato a sesión del Congreso con la finalidad de someter la Minuta por el cual se comuniquen reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos.
+
+El formato para la redacción de los decretos de aprobación o desaprobación de esas minutas expresará:
 
 DECRETO
 
@@ -2203,13 +2219,9 @@ C.___________________________
 
 Diputado Presidente
 
-C.__________________
+C.__________________ C. __________________
 
-Diputado Secretario
-
-C. __________________
-
-Diputado Secretario
+Diputado Secretario Diputado Secretario
 
 ###### Art. 161.
 
@@ -2484,3 +2496,11 @@ SEGUNDO.- Se instruye a la Secretaría General del Congreso a otorgar el apoyo a
 TERCERO.- Los plazos establecidos en los procesos legislativos entrarán en vigor en un tiempo máximo de seis meses contados a partir de la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 409 POR EL QUE “SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 7; Y SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11; EL PÁRRAFO TERCERO DEL ARTÍCULO 39; LAS FRACCIONES IV BIS Y IV TER DEL ARTÍCULO 47; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 61; LA FRACCIÓN V DEL ARTÍCULO 65; EL ARTÍCULO 112; EL PÁRRAFO PRIMERO DEL ARTÍCULO 147 Y EL ARTÍCULO 160, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
