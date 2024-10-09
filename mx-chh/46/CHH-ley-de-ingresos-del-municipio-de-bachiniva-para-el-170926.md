@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-municipio-de-bachiniva-para-el-170926"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-30"
-last_updated: "2023-12-30"
+last_updated: "2024-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE BACHÍNIVA PARA EL EJERCICIO FISCAL DE 2024 DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el sábado 30 de diciembre de 2023.
 
