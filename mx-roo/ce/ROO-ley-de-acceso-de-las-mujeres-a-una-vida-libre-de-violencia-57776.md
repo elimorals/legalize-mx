@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2024-07-10"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -251,7 +251,9 @@ ARTÍCULO 7 TER.- El Gobierno del Estado y los municipios, en el respectivo ámb
 
 ARTÍCULO 7 QUÁTER.- El Estado a través de sus dependencias gubernamentales y en el ámbito de sus respectivas facultades y competencias, diseñará e implementará programas que brinden servicios reeducativos integrales para víctimas y agresores, además de proporcionar atención psicología (sic) y legal de manera gratuita para quienes sean víctimas de esta modalidad de violencia.
 
-El Instituto Quintanarroense de la Mujer, previo acuerdo con las autoridades educativas, deberá realizar cursos y talleres encaminados a promover espacios libres de violencia contra las mujeres, de prejuicios o estereotipos sexistas con enfoque en derechos humanos y perspectiva de género en las instituciones educativas del Estado.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La Secretaría de las Mujeres, previo acuerdo con las autoridades educativas, deberá realizar cursos y talleres encaminados a promover espacios libres de violencia contra las mujeres, de prejuicios o estereotipos sexistas con enfoque en derechos humanos y perspectiva de género en las instituciones educativas del Estado.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -335,17 +337,25 @@ Por violencia en la comunidad se entienden aquellos actos individuales o colecti
 
 ARTÍCULO 14 BIS.- El acoso sexual en espacios públicos o de acceso público, es una forma de violencia en la que no existe subordinación y no existe un vínculo laboral, docente o análogo con la víctima, reflejada en cualquier acto verbal o físico, de naturaleza sexual o connotación lasciva a otra persona sin su consentimiento.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-El Estado, a través de la Secretaría de Gobierno, y los municipios, en el ámbito de sus respectivas competencias, deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+El Estado, a través de la Secretaría de las Mujeres, y los municipios, en el ámbito de sus respectivas competencias, deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
 I. La elaboración de programas de reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
 II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
 
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
 III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
 IV. La implementación de políticas públicas de prevención de la violencia por acoso sexual en espacios públicos o de acceso público;
 
@@ -364,6 +374,8 @@ VII. Los Ayuntamientos del Estado, en el ámbito de su competencia, no podrán a
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 21 DE OCTUBRE DE 2021.]</small>
 
 Se entiende por estereotipos sexistas, degradantes o discriminatorios los que reproducen roles de género, posicionan a las mujeres, niñas y adolescentes en una relación de subordinación con los hombres y hacen énfasis en comparaciones estéticas y en la hipersexualización del género femenino, además de lo establecido en la presente Ley y en los Tratados Internacionales en materia de protección de los derechos humanos de las mujeres.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
 Los protocolos a que refiere la fracción VI deberán publicarse en el Periódico Oficial del Estado de Quintana Roo y deberán actualizarse cada tres años.
 
@@ -453,11 +465,13 @@ III. Los organismos de derechos humanos a nivel nacional o la Comisión de Derec
 
 Corresponderá al Gobierno Federal a través de la Secretaria de Gobernación declarar la alerta de violencia de género, de conformidad con lo establecido en el artículo 25 de la Ley General.
 
-El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobierno del Estado, la notificación de la declaratoria de alerta de violencia de género contra las mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25 de la Ley General.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de las Mujeres del Estado, la notificación de la declaratoria de alerta de violencia de género contra las mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25 de la Ley General.
 
-La Secretaría de Gobierno será la encargada de coordinar y dar seguimiento a la ejecución de las acciones necesarias para el cumplimiento de la Declaratoria de Alerta de Violencia de Género.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La Secretaría de las Mujeres será la encargada de coordinar y dar seguimiento a la ejecución de las acciones necesarias para el cumplimiento de la Declaratoria de Alerta de Violencia de Género.
 
 ###### ARTÍCULO 24.
 
@@ -945,9 +959,13 @@ El Estado y los Municipios se coordinarán a fin de establecer el Sistema Estata
 
 El Sistema Estatal se conformará por las y los titulares de:
 
-I. La Secretaría de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-II. El Instituto Quintanarroense de la Mujer, quien ocupará la Secretaría Ejecutiva;
+I. La Secretaría de las Mujeres, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+II. La Secretaría de Gobierno;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1001,7 +1019,13 @@ XV. El Tribunal Electoral de Quintana Roo, y
 
 XVI. La Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo.
 
-El Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la Secretaría de Gobierno, podrá invitar a participar en las sesiones del Sistema Estatal a las demás autoridades estatales y federales que estime conveniente, a especialistas en la materia y a la sociedad civil.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La persona Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la Secretaría de las Mujeres, podrá invitar a participar en las sesiones del Sistema Estatal a las demás autoridades estatales y federales que estime conveniente, a especialistas en la materia y a la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La Secretaría Ejecutiva del Sistema Estatal, será ejercida por la unidad administrativa de la Secretaría que al efecto se determine en su Reglamento Interior.
 
 ###### ARTÍCULO 35.
 
@@ -1137,11 +1161,15 @@ XXV. Las demás aplicables a la materia, que les conceda la ley u otros ordenami
 
 Los programas a los que se refieren las fracciones VIII, IX, XII, XIII y XXIII se integrarán al Programa Estatal.
 
-#### Sección Segunda. De la Secretaría de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+#### Sección Segunda. De la Secretaría de las Mujeres
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 40.
 
-Corresponde a la Secretaria de Gobierno:
+Corresponde a la Secretaría de las Mujeres:
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1167,11 +1195,49 @@ X. Realizar un Diagnóstico Estatal y otros estudios complementarios de manera p
 
 XI. Difundir a través de diversos medios, los resultados del Sistema Estatal y del Programa Estatal;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
 
-XII. Celebrar y dar seguimiento a convenios de cooperación, coordinación y concertación en la materia, y
+XII. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en los municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
-XIII. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIII. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIV. Proponer al Sistema Estatal, para su aprobación, la creación de los refugios que estarán a su cargo para la atención de las víctimas, en términos de la fracción VI del artículo 7, de la fracción XI del Artículo 39 y del Capítulo Dos del Título Cuarto de esta Ley;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XV. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XVI. Impulsar la creación de unidades de atención y protección a las víctimas de violencia;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XVII. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XVIII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XIX. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XXI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XXII. Las demás previstas para el cumplimiento de la Ley.
 
 #### Sección Tercera. De la Secretaría de Planeación y Desarrollo Regional
 
@@ -1461,41 +1527,13 @@ XVI. Informar anualmente al Sistema Estatal, las actividades desarrolladas en la
 
 XVII. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 #### Sección Octava. Del Instituto Quintanarroense de la Mujer
 
 ###### ARTÍCULO 46.
 
-Corresponde al Instituto Quintanarroense de la Mujer:
-
-I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su Director General;
-
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en los municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
-
-III. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
-
-IV. Proponer al Sistema Estatal, para su aprobación, la creación de los refugios que estarán a su cargo para la atención de las victimas, en términos de la fracción VI del artículo 7, de la fracción XI del Artículo 39 y del Capítulo Dos del Título Cuarto de esta Ley;
-
-V. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-VI. Impulsar la creación de unidades de atención y protección a las víctimas de violencia;
-
-VII. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
-
-VIII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-IX. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
-
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
-
-XI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE JULIO DE 2017)</small>
-
-XII. Las demás previstas para el cumplimiento de la Ley.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2024)
 
 #### Sección Novena. Del Sistema para el Desarrollo Integral de la Familia
 
@@ -2154,3 +2192,39 @@ P.O. 10 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 022 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, quedará abrogada la Ley del Instituto Quintanarroense de la Mujer, publicada en el Periódico Oficial del Estado de Quintana Roo el 02 de junio de 2008.
+
+TERCERO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, convenios, contratos, programas y demás documentación al Instituto Quintanarroense de la Mujer se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+CUARTO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan al Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Secretaria de Gobierno, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género, quienes pasarán a formar parte de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SEXTO. Los recursos humanos, materiales y financieros que correspondan a la Coordinación General del Programa General Mujer es Poder, sus Direcciones y demás unidades administrativas de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, quienes pasarán a formar (sic) de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SÉPTIMO. Los convenios, contratos y acuerdos suscritos por el Instituto Quintanarroense de la Mujer, seguirán teniendo vigencia en los términos acordados y en lo sucesivo, constituirán parte de los derechos y obligaciones de la Secretaría de las Mujeres que se crea mediante el presente Decreto, lo anterior sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos.
+
+OCTAVO. El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, continuarán rigiéndose por sus respectivas disposiciones jurídicas y serán coordinados y/o presididos, respectivamente, por la Secretaría de las Mujeres.
+
+Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo celebrados con anterioridad a la entrada en vigor del presente Decreto quedarán convalidados y continuarán su trámite bajo las disposiciones jurídicas vigentes, para lo cual la Secretaría de las Mujeres como ente coordinador, dará puntual seguimiento a los acuerdos emanados de dichos sistemas, en los términos que disponen sus leyes.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
+
+DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
