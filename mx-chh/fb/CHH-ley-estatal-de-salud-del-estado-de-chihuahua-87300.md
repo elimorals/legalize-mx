@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-06-12"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -917,13 +917,59 @@ Las autoridades educativas y sanitarias estatales se coordinarán para la aplica
 
 La prestación de servicios de salud a los escolares, se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO VII BIS. RED DE PROTECCION DE LA MATERNIDAD
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 72 Bis.
+
+Se integrará la Red de Protección de la Maternidad, cuyo objetivo será el seguimiento y vigilancia en los servicios prenatales, de parto y puerperio.
+
+Asimismo, llevará a cabo el registro y seguimiento de metas, con la información proporcionada por las distintas dependencias involucradas, de conformidad con esta Ley y demás lineamientos aplicables; a fin de prevenir y erradicar la mortalidad materna.
+
+Las políticas públicas de protección a la maternidad, abarcarán los ámbitos sectoriales de la administración pública en los que se desarrolla la vida de la mujer embarazada.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 72 Ter.
+
+La Red de Protección de la Maternidad estará integrada por:
+
+I. La Secretaría General de Gobierno.
+
+II. La Secretaría de Salud.
+
+III. La Secretaría de Educación y Deporte.
+
+IV. La Secretaría de Desarrollo Humano y Bien Común.
+
+V. La Secretaría de Pueblos y Comunidades Indígenas.
+
+VI. El Desarrollo Integral de la Familia del Estado de Chihuahua.
+
+VII. Los Municipios del Estado, en el ámbito de sus competencias, o conforme a los convenios establecidos.
+
+La Secretaría de Salud, encabezará la Presidencia, y las demás dependencias fungirán como vocales.
+
+La Comisión Estatal de los Derechos Humanos, será invitada permanente, a fin de que brinde asesoría en la materia a su cargo, la cual contará únicamente con derecho al uso de la voz.
+
+Las resoluciones se tomarán por mayoría simple y, en caso de empate, la Presidencia tendrá voto de calidad.
+
+El desempeño de los cargos a que se refiere este artículo, será honorífico.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 72 Quáter.
+
+La Red de Protección de la Maternidad, celebrará en su caso, a través de las dependencias estatales involucradas en la materia, los acuerdos de coordinación necesarios con entes y organismos públicos.
+
+Así mismo, promoverá la participación de las instituciones públicas, privadas, académicas, empresariales y organizaciones de la sociedad civil, agrupaciones y redes para la coordinación, cooperación y ejecución de proyectos que busquen mejorar la salud y calidad de vida de las mujeres.
+
 ### CAPÍTULO VIII. ATENCIÓN A LA SALUD DE LOS MENORES Y ADOLESCENTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2023)</small>
-
-### CAPÍTULO IX. ATENCIÓN A LA SALUD DE LA MUJER
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 73.
 
@@ -959,7 +1005,9 @@ VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las práct
 
 IX.- La atención de los problemas en el área de la comunicación humana y de la psicología en las niñas, niños y adolescentes, como grupo prioritario y en situación de vulnerabilidad.
 
-### CAPÍTULO X. ATENCIÓN AL ADULTO JOVEN, ADULTO Y ADULTO MAYOR
+### CAPÍTULO IX. ATENCIÓN A LA SALUD DE LA MUJER
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2017)</small>
 
 ###### Artículo 74.
 
@@ -997,9 +1045,7 @@ II. Las bases de coordinación con las dependencias del Gobierno Federal y Munic
 
 III. La integración de un sistema de información, que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres con problemas oncológicos.
 
-### CAPÍTULO XI. SALUD MENTAL
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO X. ATENCIÓN AL ADULTO JOVEN, ADULTO Y ADULTO MAYOR
 
 ###### Artículo 76.
 
@@ -1027,7 +1073,9 @@ Los adultos tendrán derecho a recibir atención médica especializada, preventi
 
 La Secretaría coordinará sus esfuerzos con otras instituciones, con énfasis en la prevención y combate de las enfermedades crónico-degenerativas y demás propias de la edad avanzada.
 
-### CAPÍTULO XII. PREVENCIÓN DE LA DISCAPACIDAD Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
+### CAPÍTULO XI. SALUD MENTAL
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 78.
 
@@ -1041,7 +1089,7 @@ Para los efectos de esta Ley, se entiende por salud mental el estado de bienesta
 
 La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de las personas usuarias, con un enfoque interdisciplinario, intercultural, intersectorial, y con perspectiva de género.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO XII. PREVENCIÓN DE LA DISCAPACIDAD Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 79.
 
@@ -1091,7 +1139,7 @@ Así mismo, el Organismo tendrá a su cargo la coordinación con los municipios 
 
 ## TÍTULO CUARTO. PRÁCTICAS TRADICIONALES PARA EL CUIDADO DE LA SALUD
 
-### CAPÍTULO II. HERBOLARIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 85.
 
@@ -1119,7 +1167,7 @@ II.- Dará seguimiento a la aplicación de las prácticas y conocimientos tradic
 
 III.- Definirá, con la participación de los pueblos y comunidades, los programas de salud dirigidos a ellos mismos.
 
-### CAPÍTULO III. ACUPUNTURA Y HOMEOPATÍA
+### CAPÍTULO II. HERBOLARIA
 
 ###### Artículo 89.
 
@@ -1129,7 +1177,7 @@ Para los efectos de esta Ley, se entiende por remedio herbolario, al preparado d
 
 El material vegetal utilizado en la preparación del remedio siempre deberá ser identificado por su nombre común, con el fin de determinar el tratamiento adecuado, en caso de complicaciones por su uso.
 
-### CAPÍTULO I. PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO III. ACUPUNTURA Y HOMEOPATÍA
 
 ###### Artículo 91.
 
@@ -1145,7 +1193,7 @@ El ejercicio de la homeopatía deberá cumplir estrictamente con la Norma Oficia
 
 ## TÍTULO QUINTO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I. PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 93.
 
@@ -1189,7 +1237,7 @@ Quienes ejerzan las actividades profesionales, técnicas, auxiliares y las de gr
 
 Además, estas menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 97.
 
@@ -1215,7 +1263,7 @@ Para los efectos del párrafo anterior, el Ejecutivo del Estado, en coordinació
 
 Las autoridades sanitarias del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 102.
 
@@ -1317,7 +1365,7 @@ En casos de urgencia médica, y que exista incapacidad del enfermo para expresar
 
 ## TÍTULO SÉPTIMO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 114.
 
@@ -1337,7 +1385,7 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 ## TÍTULO OCTAVO. PROMOCIÓN DE LA SALUD Y MEJORAMIENTO DEL AMBIENTE
 
-### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 116.
 
@@ -1361,7 +1409,7 @@ IV.- El fomento del deporte y la cultura física.
 
 La Secretaría, en coordinación con las dependencias estatales y municipales competentes, establecerá políticas públicas para fomentar el deporte y la cultura física, mismas que deberá difundir ampliamente, utilizando los medios de comunicación a su alcance.
 
-### CAPÍTULO III. CONTROL DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
 
 ###### Artículo 118.
 
@@ -1381,7 +1429,7 @@ Las autoridades sanitarias estatales, en coordinación con las autoridades feder
 
 La divulgación o emisión de publicaciones, imágenes o escenas vinculadas con la promoción de la salud, deberá realizarse de manera seria, responsable y sin propósitos sensacionalistas.
 
-### CAPÍTULO IV. SALUD OCUPACIONAL
+### CAPÍTULO III. CONTROL DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### Artículo 120.
 
@@ -1415,7 +1463,7 @@ La Secretaría, en coordinación con las autoridades federales competentes, con 
 
 A efecto de evitar graves daños a la salud pública, queda prohibido el riego de hortalizas con aguas negras.
 
-### CAPÍTULO I. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+### CAPÍTULO IV. SALUD OCUPACIONAL
 
 ###### Artículo 126.
 
@@ -1427,7 +1475,7 @@ El Ejecutivo del Estado, en coordinación con las dependencias y entidades feder
 
 ## TÍTULO NOVENO. ENFERMEDADES Y ACCIDENTES
 
-### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO I. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
 ###### Artículo 128.
 
@@ -1445,7 +1493,7 @@ III.- Realizar e implementar los programas y actividades que estime necesarios p
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### Artículo 130.
 
@@ -1577,9 +1625,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que deba proceder la descontaminación microbiana o parasitaria, desinfección, desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO III BIS. REGISTRO ESTATAL DE CÁNCER
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### Artículo 146.
 
@@ -1605,7 +1651,9 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2019)</small>
 
-### CAPÍTULO IV. ACCIDENTES
+### CAPÍTULO III BIS. REGISTRO ESTATAL DE CÁNCER
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
 
 ###### Artículo 148 Bis.
 
@@ -1637,7 +1685,7 @@ La Secretaría promoverá la participación del sector privado, para que sus reg
 
 El Registro Estatal de Cáncer, proporcionará la información recabada al Registro Nacional de Cáncer.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO IV. ACCIDENTES
 
 ###### Artículo 149.
 
@@ -1663,7 +1711,7 @@ Para mayor eficacia de las acciones a las que se refiere este artículo, se crea
 
 ## TÍTULO DÉCIMO. CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
 
-### CAPÍTULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACIÓN TERMINAL
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 151.
 
@@ -1687,7 +1735,7 @@ VII.- Establecer los límites entre la defensa de la vida del enfermo en situaci
 
 Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
 
-### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+### CAPÍTULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACIÓN TERMINAL
 
 ###### Artículo 153.
 
@@ -1811,7 +1859,7 @@ II. Supervisar el cumplimiento de las disposiciones de los documentos o formatos
 
 Todos los demás documentos requeridos para los trámites a que se refiere este Capítulo, serán descritos en el Reglamento correspondiente, y demás disposiciones aplicables.
 
-### CAPÍTULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS PROFESIONALES DE LA SALUD
+### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
 
 ###### Artículo 163.
 
@@ -1827,7 +1875,7 @@ IV.- Fomentarán el apoyo psicológico y tanatológico, tanto a los pacientes en
 
 V.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos, tanatología y atención a enfermos en situación terminal.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS PROFESIONALES DE LA SALUD
 
 ###### Artículo 164.
 
@@ -1889,7 +1937,7 @@ Queda prohibida la práctica de la eutanasia, entendida como homicidio por pieda
 
 ## TÍTULO UNDÉCIMO. DE LOS SERVICIOS DE SALUD PARA LA ASISTENCIA SOCIAL
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 172.
 
@@ -1943,7 +1991,7 @@ La autoridad sanitaria del Estado autorizará la operación de instituciones pú
 
 ## TÍTULO DUODÉCIMO. PROGRAMAS PARA LA SALUD
 
-### CAPÍTULO II. PROGRAMA DE NUTRICIÓN
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 179.
 
@@ -1979,7 +2027,7 @@ El Consejo Estatal de Salud, coadyuvará con la Secretaría para promover los pr
 
 La Secretaría coordinará las acciones con las autoridades educativas de la Entidad, para la implementación, promoción, evaluación, difusión de la información y educación a que se refiere el artículo 187 de esta Ley, entre los alumnos de los diferentes niveles educativos, según el programa, así como al personal docente de las instituciones educativas correspondientes.
 
-### CAPÍTULO III. PROGRAMA PARA EL CONTROL DE SOBREPESO Y OBESIDAD
+### CAPÍTULO II. PROGRAMA DE NUTRICIÓN
 
 ###### Artículo 185.
 
@@ -2015,9 +2063,7 @@ X.- Promover la participación de los sectores social y privado en el programa.
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPÍTULO IV. PROGRAMAS PARA LA ATENCIÓN DE LAS ADICCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
+### CAPÍTULO III. PROGRAMA PARA EL CONTROL DE SOBREPESO Y OBESIDAD
 
 ###### Artículo 187.
 
@@ -2117,7 +2163,9 @@ Corresponde al Ejecutivo del Estado, a través de las dependencias respectivas, 
 
 Se promoverá la actividad física en las áreas deportivas y zonas verdes, con la participación de los diversos sectores de la sociedad, con la finalidad de consolidar una vida saludable.
 
-### CAPÍTULO V. PROGRAMA PARA LA ATENCIÓN DE INFECCIONES DE TRANSMISIÓN SEXUAL
+### CAPÍTULO IV. PROGRAMAS PARA LA ATENCIÓN DE LAS ADICCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 202.
 
@@ -2203,7 +2251,7 @@ IV.- Efectos de las adicciones en los ámbitos familiar, social, deportivo, de l
 
 V.- La educación a la familia para prevenir las adicciones por parte de niños y adolescentes.
 
-### CAPÍTULO VI. PROGRAMA DE PREVENCIÓN Y CONTROL DEL SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA
+### CAPÍTULO V. PROGRAMA PARA LA ATENCIÓN DE INFECCIONES DE TRANSMISIÓN SEXUAL
 
 ###### Artículo 205.
 
@@ -2229,7 +2277,7 @@ VI.- Las demás de índole sanitaria que determinen las autoridades sanitarias c
 
 Sólo para efectos de sanidad y prevención, la autoridad sanitaria competente podrá requerir tarjeta de control sanitario, a las personas que realicen actividades mediante las cuales se pueda propagar alguna infección de transmisión sexual, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
-### CAPÍTULO VII. PROGRAMAS PARA LA ATENCIÓN DE CÁNCERES MAMARIO, CÉRVICO-UTERINO Y DE PRÓSTATA
+### CAPÍTULO VI. PROGRAMA DE PREVENCIÓN Y CONTROL DEL SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA
 
 ###### Artículo 208.
 
@@ -2267,9 +2315,7 @@ Las instituciones del sector salud están obligadas a prestar la atención médi
 
 La Secretaría, a través de sus instituciones de salud, garantizará el tratamiento del padecimiento y, en su caso, controlarlo, dentro de lo posible, a las personas que carezcan de un servicio médico o de los recursos necesarios para su atención, de acuerdo al estudio socioeconómico correspondiente y a la suficiencia presupuestal y capacidad instalada.
 
-### CAPÍTULO VIII. PROGRAMA ESTATAL DE TRASPLANTES
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2014)</small>
+### CAPÍTULO VII. PROGRAMAS PARA LA ATENCIÓN DE CÁNCERES MAMARIO, CÉRVICO-UTERINO Y DE PRÓSTATA
 
 ###### Artículo 214.
 
@@ -2333,7 +2379,9 @@ I.- Promover la adopción de medidas de prevención, detección y tratamiento op
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO IX. CADÁVERES
+### CAPÍTULO VIII. PROGRAMA ESTATAL DE TRASPLANTES
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2014)</small>
 
 ###### Artículo 218.
 
@@ -2389,13 +2437,11 @@ XI.- La Secretaría, en la medida de sus posibilidades económicas, creará un b
 
 Por lo que tiene que ver con pérdida de la vida, deberá estarse a las disposiciones contenidas en la Ley General de Salud y en la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de Chihuahua.
 
+### CAPÍTULO IX. CADÁVERES
+
 ### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2015)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 223.
 
@@ -2479,7 +2525,9 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 La Secretaría coordinará las acciones de las dependencias de la administración pública en la autorización del programa, así como promover la concertación de acciones con instituciones de los sectores público, privado y social, para operar dicho programa.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 237.
 
@@ -2641,7 +2689,7 @@ TÍTULO DECIMOTERCERO
 
 DE LA PARTICIPACIÓN DEL ESTADO EN LA PERSECUCIÓN DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
 
-### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 243.
 
@@ -2665,7 +2713,7 @@ TÍTULO DECIMOCUARTO
 
 DE LA SALUBRIDAD LOCAL
 
-### CAPÍTULO III. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
+### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
 
 ###### Artículo 246.
 
@@ -2699,7 +2747,7 @@ III.- Contar, en su caso, con los auxiliares del responsable sanitario que deter
 
 Tratándose de moteles, establecimientos autorizados para expender e ingerir bebidas alcohólicas en los términos de la Ley respectiva y demás lugares que determine la reglamentación, deberán expenderse condones.
 
-### CAPÍTULO IV. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO III. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
 ###### Artículo 252.
 
@@ -2719,7 +2767,7 @@ Los establecimientos podrán dedicarse a las actividades y servicios a los que e
 
 Los propietarios o poseedores de los establecimientos están obligados a realizar los cambios en infraestructura y equipamiento que la autoridad sanitaria considere necesarios para cumplir con las condiciones de higiene y salubridad que establezcan las disposiciones legales y normas técnicas aplicables.
 
-### CAPÍTULO V. DE LAS CONSTRUCCIONES
+### CAPÍTULO IV. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 256.
 
@@ -2743,7 +2791,7 @@ El Ejecutivo del Estado, a través de la Secretaría, podrá celebrar convenios 
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPÍTULO VI. FUNERARIAS, CREMATORIOS Y PANTEONES
+### CAPÍTULO V. DE LAS CONSTRUCCIONES
 
 ###### Artículo 261.
 
@@ -2757,7 +2805,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad san
 
 Los vendedores, locatarios y toda persona cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a observar las condiciones higiénicas y de salud indispensables para el desempeño de sus actividades, sujetándose a lo que dispone esta Ley, sus Reglamentos y las normas correspondientes.
 
-### CAPÍTULO VII. LIMPIEZA PÚBLICA
+### CAPÍTULO VI. FUNERARIAS, CREMATORIOS Y PANTEONES
 
 ###### Artículo 264.
 
@@ -2793,7 +2841,7 @@ Cuando los edificios, construcciones o terrenos presenten un peligro por su insa
 
 En última instancia, la autoridad sanitaria podrá ejecutar u ordenar la ejecución de las obras que estime pertinentes por su urgencia, con cargo al propietario del establecimiento.
 
-### CAPÍTULO VIII. RASTROS
+### CAPÍTULO VII. LIMPIEZA PÚBLICA
 
 ###### Artículo 272.
 
@@ -2809,7 +2857,7 @@ Para establecer un panteón se requiere constancia de no inconveniente expedida 
 
 Para la actividad de funerarias y crematorios es indispensable el aviso de funcionamiento de la autoridad sanitaria.
 
-### CAPÍTULO IX. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VIII. RASTROS
 
 ###### Artículo 275.
 
@@ -2839,7 +2887,7 @@ La basura deberá manipularse higiénicamente antes de llegar al basurero o a la
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley, sus Reglamentos y normas aplicables.
 
-### CAPÍTULO X. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO IX. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 282.
 
@@ -2857,7 +2905,7 @@ Queda prohibida la matanza de animales en casas o domicilios particulares, cuand
 
 La matanza de animales en los rastros autorizados, se efectuará en los días y horas que fije la autoridad sanitaria, teniendo en consideración las condiciones del lugar y los elementos que la propia autoridad disponga para realizar las verificaciones correspondientes, utilizando la tecnología adecuada.
 
-### CAPÍTULO XI. CENTROS DE REINSERCIÓN SOCIAL
+### CAPÍTULO X. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 286.
 
@@ -2897,7 +2945,7 @@ Queda prohibido que los desechos líquidos o sólidos que conduzcan los caños s
 
 En todo caso deberán ser tratados previamente y cumplir con las disposiciones de la Ley de la materia.
 
-### CAPÍTULO XII. BAÑOS PÚBLICOS, ALBERCAS Y SIMILARES
+### CAPÍTULO XI. CENTROS DE REINSERCIÓN SOCIAL
 
 ###### Artículo 295.
 
@@ -2915,7 +2963,7 @@ Para el funcionamiento de los lugares a que se refiere este Capítulo, se requie
 
 Las condiciones sanitarias que deban reunir los establos, granjas, caballerizas y los establecimientos similares, serán fijadas por los ordenamientos legales correspondientes.
 
-### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO XII. BAÑOS PÚBLICOS, ALBERCAS Y SIMILARES
 
 ###### Artículo 299.
 
@@ -2929,7 +2977,7 @@ Los Centros de Reinserción Social, en cuanto a sus condiciones sanitarias estar
 
 Los Centros de Reinserción Social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños de regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario su traslado a un hospital.
 
-### CAPÍTULO XIV. GIMNASIOS
+### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 302.
 
@@ -2945,7 +2993,7 @@ Los baños públicos y albercas, para brindar el servicio al público, deberán 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, SALONES DE MASAJE Y OTROS
+### CAPÍTULO XIV. GIMNASIOS
 
 ###### Artículo 305.
 
@@ -2955,7 +3003,7 @@ Se entiende por centros de reunión, todas aquellas edificaciones destinadas al 
 
 Los establecimientos a que se refiere el presente Capítulo, para su funcionamiento deberán contar con licencia expedida por la autoridad competente, previa constancia de no inconveniente emitida por la Secretaría, en cumplimiento a lo dispuesto en esta Ley, Reglamentos y las normas correspondientes.
 
-### CAPÍTULO XVI. DE LA ROPA USADA
+### CAPÍTULO XV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, SALONES DE MASAJE Y OTROS
 
 ###### Artículo 307.
 
@@ -2989,7 +3037,7 @@ La falta de cumplimiento a esta disposición, se sancionará conforme a los art�
 
 La Secretaría, en ejercicio de sus facultades, será la autoridad competente para expedir la constancia de no inconveniente para la operación de estos centros y supervisar su operación.
 
-### CAPÍTULO XVII. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPÍTULO XVI. DE LA ROPA USADA
 
 ###### Artículo 313.
 
@@ -3011,7 +3059,7 @@ VI.- Procedimientos de embellecimiento, aquellos servicios en los que se utilice
 
 Para el funcionamiento de estos establecimientos se deberá obtener constancia de no inconveniente por parte de la Secretaría y cumplir con lo establecido en esta Ley, sus reglamentos y normas técnicas correspondientes.
 
-### CAPÍTULO XVIII. ESTABLECIMIENTOS DE TATUAJES Y/O PERFORACIONES
+### CAPÍTULO XVII. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### Artículo 315.
 
@@ -3021,7 +3069,7 @@ La Secretaría realizará acciones de prevención para impulsar prácticas de hi
 
 Las personas dedicadas a la compraventa y renta de ropa usada, con fines de lucro, deberán impulsar las buenas prácticas de higiene y sanidad en el manejo de estas prendas, principalmente evitar la acumulación en condiciones de humedad y su limpieza periódica.
 
-### CAPÍTULO XIX. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPÍTULO XVIII. ESTABLECIMIENTOS DE TATUAJES Y/O PERFORACIONES
 
 ###### Artículo 316.
 
@@ -3033,7 +3081,7 @@ La Secretaría, por falta de higiene o incumplimiento de las disposiciones estab
 
 Para la operación de estos establecimientos, se requiere constancia de no inconveniente emitida por la Secretaría.
 
-### CAPÍTULO XX. GASOLINERAS
+### CAPÍTULO XIX. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 318.
 
@@ -3065,7 +3113,7 @@ I.- Menores de edad, salvo cuando estén acompañados por sus padres y emitan la
 
 II.- Quien se encuentre mentalmente impedido para tomar decisiones.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XX. GASOLINERAS
 
 ###### Artículo 322.
 
@@ -3075,7 +3123,7 @@ Se entiende por transporte, todo vehículo cuya acción es llevar o trasladar un
 
 Los prestadores de estos servicios deberán cumplir con la legislación aplicable, así como las normas expedidas en materia de salubridad e higiene.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### Artículo 324.
 
@@ -3089,7 +3137,7 @@ TÍTULO DECIMOQUINTO
 
 AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 326.
 
@@ -3179,7 +3227,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se recaudarán en la forma que establezca la legislación fiscal.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### Artículo 337.
 
@@ -3249,8 +3297,6 @@ En la tramitación del procedimiento administrativo contenido en este Capítulo,
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 345.
 
 Se entiende por certificado, la constancia expedida en los términos que establezca la Secretaría, para la comprobación o información de determinados hechos.
@@ -3317,7 +3363,9 @@ TÍTULO DECIMOSEXTO
 
 VIGILANCIA SANITARIA
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 350.
 
@@ -3395,7 +3443,7 @@ TÍTULO DECIMOSÉPTIMO
 
 DE LA PUBLICIDAD
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 360.
 
@@ -3405,7 +3453,7 @@ TÍTULO DECIMOCTAVO
 
 MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 361.
 
@@ -3529,7 +3577,7 @@ La desocupación o desalojo de casa, edificios, establecimientos y, en general, 
 
 En el resto de los casos, la observancia de la garantía de audiencia y de dictamen pericial será previa a la acción de la autoridad sanitaria.
 
-### CAPÍTULO IV. RECURSOS DE REVISIÓN Y REVOCACIÓN
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 374.
 
@@ -3627,7 +3675,7 @@ Sólo procederá esta sanción, si previamente se aplicó cualquiera otra de las
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSOS DE REVISIÓN Y REVOCACIÓN
 
 ###### Artículo 386.
 
@@ -3700,6 +3748,8 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 ###### Artículo 395.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente, formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la medida de seguridad o de la imposición de la sanción administrativa que proceda.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 396.
 
@@ -4186,6 +4236,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0856/2024 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 74, TERCER PÁRRAFO, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0903/2024 XIV P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
