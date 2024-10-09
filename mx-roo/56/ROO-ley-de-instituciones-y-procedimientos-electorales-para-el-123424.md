@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2023-10-03"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -51,7 +51,9 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
 La presente Ley es de orden público y de observancia general en el Estado de Quintana Roo. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones políticos y electorales de la ciudadanía, y establecer disposiciones aplicables que regulan los procesos electorales que se celebren en la entidad para elegir los cargos a Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos.
 
-El Instituto Electoral y el Tribunal Electoral en el ejercicio de sus funciones, ajustarán sus actos a los principios rectores en materia electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad, y realizarán con perspectiva de género.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+El Instituto Electoral y el Tribunal Electoral en el ejercicio de sus funciones, ajustarán sus actos a los principios rectores en materia electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad, justicia abierta y con perspectiva de género.
 
 ###### Artículo 2.
 
@@ -100,6 +102,10 @@ XIII. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Lib
 XIV. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
 XV. Ley: La Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+XV Bis. Ley de Responsabilidades Administrativas del Estado: A la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios;
 
 XVI. Ley de Medios: Ley Estatal de Medios de Impugnación en materia Electoral;
 
@@ -1612,6 +1618,10 @@ Los aspirantes o candidatos independientes que incumplan con la normatividad ele
 El Instituto Electoral de Quintana Roo, es el organismo público autónomo responsable de la función estatal de preparar, desarrollar, organizar y vigilar las elecciones locales e instrumentar las formas de participación ciudadana que prevé la ley, estará dotado de personalidad jurídica y patrimonio propios. Gozará de autonomía en su funcionamiento e independencia en sus decisiones, en los términos previstos en la Constitución Federal, la Constitución del Estado y esta Ley. Será profesional en su desempeño y se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad, probidad, paridad y se realizarán con perspectiva de género.
 
 La conformación del mismo deberá garantizar el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+El Instituto Electoral adoptará para el ejercicio de sus atribuciones el modelo de Justicia Abierta, que contemplará cuando menos, la transparencia, la perspectiva de género y de derechos humanos, la rendición de cuentas, la participación ciudadana y la implementación de tecnologías de información.
 
 ###### Artículo 121.
 
@@ -3303,51 +3313,33 @@ XXI. Inscribir y mantener actualizada la información correspondiente del Sistem
 
 XXII. Las demás que le confieran otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 195.
 
-El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+La Persona Titular del Órgano Interno de Control durará en su encargo siete años con posibilidad de reelección por un periodo adicional y deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución del Estado.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+La retribución que perciba la persona titular del Órgano Interno de Control será la equivalente a la de una persona titular de Consejería Electoral.
 
-II. Tener treinta años de edad cumplidos el día de la designación;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+Artículo 196 La designación de la persona titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
-IV. Contar al momento de su designación con experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
-
-VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto Estatal, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
-
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-X. No ser declarada persona deudora alimentaria morosa.
-
-El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
-
-###### Artículo 196.
-
-La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
-
-I. La Mesa Directiva de la Legislatura o la Diputación Permanente, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo, en las redes sociales del Poder Legislativo para mayor publicidad y a más tardar al día siguiente de su emisión en dos periódicos de mayor circulación en el Estado;
+I. La Mesa Directiva en funciones de la Legislatura, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección de la persona titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Poder Legislativo, en las redes sociales del Poder Legislativo para mayor publicidad y a más tardar al día siguiente de su emisión en dos periódicos de mayor circulación en el Estado;
 
 II. Las solicitudes deberán ser dirigidas a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, presentarse dentro de los cinco días hábiles contados a partir del día siguiente de la fecha de la emisión de la convocatoria, así como estar debidamente suscritas por el solicitante;
 
 III. La Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo;
 
-Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por los candidatos que resulten idóneos, ante la Legislatura del Estado o la Diputación Permanente, en su caso, para la designación correspondiente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV. Aprobada la designación el titular rendirá la protesta de ley ante la Legislatura o la Diputación Permanente.
+Una vez vencido el plazo para la presentación de las solicitudes, dentro de los cinco días hábiles siguientes, dicha Comisión procederá a presentar el dictamen con una terna conformada por las personas candidatas que resulten idóneas, ante la Legislatura del Estado, para la designación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IV. Aprobada la designación la persona titular rendirá la protesta de ley ante la Legislatura.
 
 Dicha designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
@@ -3357,9 +3349,11 @@ El titular del Órgano Interno de Control del Instituto Estatal será sujeto de 
 
 Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto Estatal serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 198.
 
-El Órgano Interno de Control será removido de su cargo por la Legislatura o por la Diputación Permanente, en su caso, por las siguientes causas:
+La persona titular del Órgano Interno de Control será removida de su cargo por la Legislatura, por las siguientes causas:
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
@@ -3375,19 +3369,27 @@ VI. Incurrir en infracciones graves a la Constitución o a las leyes de la Feder
 
 VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, máxima publicidad, objetividad, eficiencia, profesionalismo, restricciones de contacto, honradez, debido proceso, transparencia y respeto a los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 199.
 
-En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Consejo General del Instituto Estatal, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente al Presidente de la Mesa Directiva de la Legislatura o en su caso de la Diputación Permanente, acompañando el expediente del asunto.
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Consejo General del Instituto Estatal, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, notificará inmediatamente a la Presidencia de la Mesa Directiva en funciones de la Legislatura, acompañando el expediente del asunto.
 
-El Presidente de la Mesa Directiva turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-Dicha Comisión citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley, y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+La Presidencia de la Mesa Directiva en funciones de la Legislatura turnará el expediente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que sea instructora en el procedimiento.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+Dicha Comisión citará a la persona titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley, y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistida de un defensor.
 
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
 
-Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura o en su caso a la Diputación Permanente quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Consejo General del Instituto Estatal para los efectos legales que correspondan.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, la Legislatura o la Diputación Permanente designará un nuevo titular para efectos de concluir el periodo.
+Concluida la audiencia, se concederá a la persona titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, la Comisión, dentro de los treinta días naturales siguientes someterá el dictamen con proyecto de resolución a la Legislatura quien resolverá la remoción. Aprobada la remoción, ésta quedará firme y será notificada al Consejo General del Instituto Estatal para los efectos legales que correspondan y la Legislatura iniciará el procedimiento para la designación de la persona titular del Órgano Interno de Control del Instituto.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ### CAPÍTULO SEXTO. DE LAS RELACIONES Y CONTROVERSIAS LABORALES
 
@@ -3427,7 +3429,9 @@ El patrimonio del Tribunal Electoral se integra con los bienes muebles e inmuebl
 
 El Tribunal Electoral funcionará de forma permanente en Pleno y sus resoluciones se tomarán por unanimidad o mayoría, según corresponda. Las sesiones en que se resuelvan asuntos jurisdiccionales serán públicas y deberán transmitirse en vivo mediante la aplicación de las tecnologías de la información, privilegiando la transparencia, máxima publicidad y el derecho de acceso a la información.
 
-La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo aquel que se encuentre impedido legalmente. La excusa deberá expresar concretamente la causa en que se funde, cuando proceda la excusa presentada por el Magistrado Electoral, el quórum para que el Pleno del Tribunal Electoral pueda sesionar válidamente se formará con la presencia del Secretario General de Acuerdos o en su caso, con el Secretario de Estudio y Cuenta de más antigüedad en el Tribunal.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+El Tribunal Electoral adoptará para el ejercicio de sus atribuciones el modelo de Justicia Abierta, que contemplará cuando menos, la transparencia, la perspectiva de género y de derechos humanos, la rendición de cuentas, la participación ciudadana y la implementación de tecnologías de información.
 
 ###### Artículo 207.
 
@@ -4261,41 +4265,19 @@ XXI. Inscribir y mantener actualizada la información correspondiente del Sistem
 
 XXII. Las demás que le confieran otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 255.
 
-El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+La persona titular del Órgano Interno de Control durará en su encargo siete años con posibilidad de reelección por un periodo adicional y deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución del Estado.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+La retribución que perciba la persona titular del Órgano Interno de Control será la equivalente a la de un Magistrado o una Magistrada.
 
-II. Tener treinta años de edad cumplidos el día de la designación;
-
-III. Gozar de buena reputación y no haber sido condenado por delito doloso;
-
-IV. Contar al momento de su designación con tres años de experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
-
-V. Contar al día de su designación con título y cédula profesional de licenciado en derecho, contador, administrador, economista o financiero, expedidos con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
-
-VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal Electoral, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
-
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-X. No ser declarada persona deudora alimentaria morosa.
-
-El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 256.
 
-La designación del titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+La designación de la persona titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
 I. El Pleno del Tribunal Electoral expedirá una convocatoria pública en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos de participación para la elección del titular del Órgano Interno de Control, misma que deberá publicarse el mismo día de su emisión en la página web del Tribunal Electoral, en las redes sociales del Tribunal Electoral para mayor publicidad y a más tardar al día siguiente de su emisión en dos periódicos de mayor circulación en el Estado;
 
@@ -4305,7 +4287,9 @@ II. Las solicitudes deberán presentarse dentro de los cinco días hábiles cont
 
 III. El Pleno del Tribunal Electoral procederá a la revisión y análisis de las solicitudes, entrevistando públicamente a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo y elaborará un acuerdo donde justifique la designación correspondiente, y
 
-IV. Aprobada la designación el titular rendirá la protesta de ley ante el Pleno del Tribunal Electoral.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IV. Aprobada la designación de la persona titular rendirá la protesta de ley ante el Pleno del Tribunal Electoral.
 
 La designación deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
@@ -4315,9 +4299,11 @@ El titular del Órgano Interno de Control del Tribunal Electoral será sujeto de
 
 Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Tribunal Electoral serán sancionados por el Titular del Órgano Interno de Control, en términos de la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 258.
 
-El Órgano Interno de Control será removido de su cargo por el Pleno del Tribunal Electoral, por las siguientes causas:
+La persona titular del Órgano Interno de Control será removida de su cargo por unanimidad del Pleno del Tribunal Electoral, por las siguientes causas:
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte;
 
@@ -4337,13 +4323,17 @@ VII. Faltar gravemente en el ejercicio de su cargo a la observancia de los princ
 
 En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el Pleno del Tribunal Electoral, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, o cuando medie solicitud debidamente justificada, integrarán el expediente para la instrucción del procedimiento.
 
-El Pleno del Tribunal Electoral citará al titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistido de un defensor.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+El Pleno del Tribunal Electoral citará a la persona titular del Órgano Interno de Control a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de remoción en los términos de esta Ley y demás disposiciones aplicables. La notificación deberá ser personal y expresar el lugar, día y hora en que tendrá verificativo la audiencia, los actos u omisiones que se le imputen y el derecho de éste a comparecer asistida de un defensor.
 
 Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días naturales.
 
-Concluida la audiencia, se concederá al titular del Órgano Interno de Control sujeto al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, dentro de los treinta días naturales siguientes el Pleno del Tribunal Electoral por mayoría de votos determinará mediante resolución lo conducente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-En caso de haber transcurrido más de dos años de la duración del cargo del titular removido, el Pleno del Tribunal Electoral designará un nuevo titular para efectos de concluir el periodo.
+Concluida la audiencia, se concederá a la persona titular del Órgano Interno de Control sujeta al proceso de remoción un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y una vez desahogadas las pruebas que fueren admitidas, dentro de los treinta días naturales siguientes el Pleno del Tribunal Electoral por unanimidad de votos determinará mediante resolución lo conducente.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 260.
 
@@ -7376,3 +7366,13 @@ Primero. El presente Decreto entrará en vigor el día de su publicación en el 
 Segundo. Para los efectos del proceso electoral local ordinario 2024, atendiendo a que existe una nueva demarcación territorial de los distritos electorales uninominales locales en que se divide el Estado de Quintana Roo y sus respectivas cabeceras distritales y con la única finalidad de acceder a la reelección en la modalidad de diputación por mayoría relativa, sus aspirantes deberán cumplir con los requisitos plasmados en la Constitución Estatal, la presente ley y los lineamientos que, en su caso, emita el Instituto Estatal, salvo el extremo previsto en la fracción III del artículo 284 quinquies de la presente ley.
 
 Tercero. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 012 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, Y DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Pleno del Tribunal Electoral de Quintana Roo llevará acabo (sic) el procedimiento previsto en la Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo, para la designación de la Persona Titular de su Órgano Interno de Control, quien deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución Política del Estado Libre y Soberano de Quintana Roo y deberá ser designado para un periodo de siete años en el cargo con posibilidad de reelección por un periodo adicional de igual duración. La designación se realizará en el mismo plazo a que se refiere el párrafo primero del artículo tercero transitorio del Decreto 002 expedido por la H. XVIII Legislatura del Estado y publicado en fecha 09 de septiembre de 2024.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
