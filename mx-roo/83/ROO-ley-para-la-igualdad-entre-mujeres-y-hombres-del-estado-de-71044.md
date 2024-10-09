@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7104
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-06"
-last_updated: "2023-11-03"
+last_updated: "2024-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de noviembre de 2009.
 
@@ -109,7 +109,9 @@ VII. Género: Conjunto de ideas, creencias y atribuciones sociales, construidas 
 
 VIII. Igualdad: Capacidad de toda persona de tener y disfrutar de los mismos derechos, oportunidades y obligaciones que otra, eliminando todo tipo de discriminación;
 
-IX. Instituto: El instituto Quintanarroense de la Mujer;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IX. Secretaría: A la Secretaría de las Mujeres;
 
 X. Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo;
 
@@ -119,7 +121,7 @@ XII. Medidas especiales: Es el conjunto de acciones de carácter temporal encami
 
 XIII. Medidas permanentes: Es el conjunto de modificaciones jurídicas o estructurales a los diversos ordenamientos del Estado y a las prácticas sociales y culturales de buen trato para la construcción de la igualdad real o sustantiva;
 
-XIV. Oficial de Género: El Oficial de Género del Instituto Quintanarroense de la Mujer, cuya función principal es ejecutar el procedimiento de acompañamiento sustantivo;
+XIV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2024)
 
 XV. Paralegales: Personas capacitadas en materia jurídica que brindan servicios de asesoría legal de manera inmediata, a otras personas que por sus condiciones socioeconómicas así lo requieran;
 
@@ -147,9 +149,11 @@ XXIII. Transversalidad: Es un proceso que permite garantizar la incorporación d
 
 XXIV. Personas Dependientes: Personas que de forma temporal o permanente, por razones derivadas de la edad, enfermedad o la discapacidad, presentan falta o la pérdida de autonomía física, mental, intelectual o sensorial; por lo que precisan de la atención de otra u otras personas para realizar actividades básicas de la vida diaria o, en el caso de las personas con discapacidad intelectual o enfermedad mental, de otros apoyos para su autonomía personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 6.
 
-La rectoría y operación de la política en materia de igualdad sustantiva en el Estado, estará cargo del Ejecutivo Estatal, quien la ejercerá a través del Instituto con base en las disposiciones de la presente ley.
+La rectoría y operación de la política en materia de igualdad sustantiva en el Estado, estará cargo del Ejecutivo Estatal, quien la ejercerá a través de la Secretaría con base en las disposiciones de la presente ley.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -581,9 +585,9 @@ VIII. Promover la participación de la ciudadanía y organizaciones de la socied
 
 IX. Evaluar periódicamente la aplicación de la presente ley;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-X. Generar de manera conjunta con las autoridades que integran el Sistema Estatal, un informe anual sobre el estado de ejecución que guarda el Programa Estatal, las acciones realizadas por esta Autoridad, dirigidas a alcanzar la igualdad entre mujeres y hombres, en razón de lo establecido por la presente Ley y su Reglamento, incluyendo una revisión de resultados presupuestales aplicados. El Instituto se encargará de integrar la información de cada una de las autoridades del Sistema Estatal, y
+X. Generar de manera conjunta con las autoridades que integran el Sistema Estatal, un informe anual sobre el estado de ejecución que guarda el Programa Estatal, las acciones realizadas por esta Autoridad, dirigidas a alcanzar la igualdad entre mujeres y hombres, en razón de lo establecido por la presente Ley y su Reglamento, incluyendo una revisión de resultados presupuestales aplicados. La Secretaría se encargará de integrar la información de cada una de las autoridades del Sistema Estatal, y
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -591,9 +595,11 @@ XI. Las demás acciones que esta Ley y otros ordenamientos aplicables le confier
 
 El Ejecutivo Estatal será el encargado de ejercer y operar estas atribuciones a través de la Administración Pública Estatal en su conjunto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-Corresponde al Instituto Quintanarroense de la Mujer:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Coordinar las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, con los principios que la ley señala;
 
@@ -607,9 +613,11 @@ V. Formular propuestas a las dependencias competentes sobre la asignación de lo
 
 VI. Efectuar el procedimiento de acompañamiento sustantivo;
 
-VII. Designar al o la Oficial de Género a las dependencias que así lo requieran con arreglo a la presente ley;
+VII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2024)
 
-VIII. Operar la Secretaria Ejecutiva del Sistema Estatal;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VIII. Presidir el Sistema Estatal;
 
 IX. Favorecer la institucionalización de las buenas prácticas de igualdad en la Administración Pública Estatal;
 
@@ -631,9 +639,9 @@ XV. Promover, coordinar y realizar la revisión de programas y servicios en mate
 
 XVI. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-XVII. El Instituto, en su carácter de Secretaría Ejecutiva del Sistema Estatal se encargará de integrar la información de cada una de las autoridades del Sistema Estatal, respecto del informe anual, sobre el estado de ejecución que guarda el Programa Estatal, las acciones realizadas por esta autoridad, dirigidas a alcanzar la igualdad entre mujeres y hombres, en razón de lo establecido por la presente Ley y su Reglamento, incluyendo una revisión de resultados presupuestales aplicados, y
+XVII. La Secretaría, en su carácter de presidencia del Sistema Estatal se encargará de integrar la información de cada una de las autoridades del Sistema Estatal, respecto del informe anual, sobre el estado de ejecución que guarda el Programa Estatal, las acciones realizadas por esta autoridad, dirigidas a alcanzar la igualdad entre mujeres y hombres, en razón de lo establecido por la presente Ley y su Reglamento, incluyendo una revisión de resultados presupuestales aplicados, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
 
@@ -657,15 +665,21 @@ I. Que en sus resoluciones se realice la armonización judicial, en relación a 
 
 II. Que se institucionalice la perspectiva de género al interior del Poder Judicial, a través de mecanismos de capacitación permanente para favorecer las prácticas igualitarias.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 30 Bis.
 
-Los Poderes Legislativo y Judicial, deberán remitir un informe anual al Instituto, donde se precise lo siguiente:
+Los Poderes Legislativo y Judicial, deberán remitir un informe anual a la Secretaría, donde se precise lo siguiente:
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
 I. Las acciones realizadas dirigidas a alcanzar la igualdad entre mujeres y hombres, en el ámbito de su competencia;
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+
 II. Los resultados de la ejecución del Programa Estatal, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
 III. Los resultados obtenidos de la revisión presupuestal.
 
@@ -693,9 +707,11 @@ VI. Vigilar las buenas prácticas de igualdad y no discriminación en la Adminis
 
 VII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-El Municipio a través de las instancias administrativas que se ocupen del adelanto de las mujeres, podrá suscribir convenios o acuerdos de coordinación con el Instituto, a fin de:
+El Municipio a través de las instancias administrativas que se ocupen del adelanto de las mujeres, podrá suscribir convenios o acuerdos de coordinación con la Secretaría, a fin de:
 
 I. Garantizar la igualdad sustantiva;
 
@@ -703,9 +719,11 @@ II. Establecer la coordinación a que haya lugar con los otros órdenes de gobie
 
 III. Desarrollar mecanismos especiales para la debida participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural, familiar y civil;
 
-IV. Solicitar en vía de colaboración, el acompañamiento sustantivo al Instituto, cuando así lo requiera el municipio;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-V. Designar al o la Oficial de Género municipal;
+IV. Solicitar en vía de colaboración, el acompañamiento sustantivo a la Secretaría, cuando así lo requiera el municipio;
+
+V. (DEROGADA, P.O. 9 DE OCTUBRE DE 2024)
 
 VI. Recibir quejas sobre discriminación y prácticas de desigualdad;
 
@@ -821,9 +839,11 @@ XX. Fomentar el desarrollo, participación y reconocimiento de las mujeres en la
 
 ### CAPÍTULO III. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 37.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres será un instrumento de la Política Estatal de Igualdad y será propuesto por el Instituto considerando, los diversos ámbitos donde debe darse la igualdad sustantiva.
+El Programa Estatal para la Igualdad entre Mujeres y Hombres será un instrumento de la Política Estatal de Igualdad y será propuesto por la Secretaría considerando, los diversos ámbitos donde debe darse la igualdad sustantiva.
 
 El Programa Estatal deberá contener:
 
@@ -835,7 +855,9 @@ III. Líneas de acción; y
 
 IV. Mecanismos de evaluación.
 
-El Instituto deberá revisar el Programa Estatal en forma anual, de conformidad con la evaluación del impacto que genere.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La Secretaría deberá revisar el Programa Estatal en forma anual, de conformidad con la evaluación del impacto que genere.
 
 ###### ARTÍCULO 38.
 
@@ -847,37 +869,53 @@ Los informes anuales del Ejecutivo Estatal deberán contener el estado que guard
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública del Estado, con los Municipios y las organizaciones de los sectores sociales y privados, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
-El Instituto Quintanarroense de la Mujer coordinará, a través de su Consejo Directivo, los lineamientos y acciones que genere el Sistema Estatal, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La Secretaría de las Mujeres coordinará los lineamientos y acciones que genere el Sistema Estatal, y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
 
 ###### ARTÍCULO 40.
 
 El Sistema Estatal se conformará con las o los titulares de las siguientes instancias:
 
-I. Secretaría de Gobierno del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-II. Secretaría de Desarrollo Económico;
+I. Secretaría de las Mujeres, quien lo presidirá;
 
-III. Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IV. Secretaría de Educación;
+II. Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
 
-V. Secretaría de Finanzas y Planeación;
+III. Secretaría de Desarrollo Económico;
 
-VI. Secretaría de Seguridad Pública;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+IV. Secretaría del Trabajo y Previsión Social;
 
-VII. Instituto de la Cultura y las Artes de Quintana Roo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
 
-VIII. Secretaría de Salud;
+V. Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
 
-IX. Fiscalía General del Estado;
+VI. Secretaría de Finanzas y Planeación;
 
-X. Instituto Quintanarroense de la Mujer, quien fungirá como Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VII. Secretaría de Seguridad Ciudadana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VIII. Instituto de la Cultura y las Artes de Quintana Roo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+IX. Secretaría de Salud;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+
+X. Fiscalía General del Estado;
 
 XI. (DEROGADA, P.O. 4 DE JULIO DE 2017)
 
@@ -893,11 +931,17 @@ XIII. Poder Judicial del Estado, y
 
 XIV. Comisión de los Derechos Humanos del Estado de Quintana Roo.
 
-El o la Titular de la Secretaría de Gobierno, podrá invitar a participar en las sesiones del Sistema Estatal a las demás autoridades federales, estatales y municipales que estime conveniente, a especialistas en la materia y a las organizaciones de los sectores sociales y privados.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La persona Titular de la Secretaría, podrá invitar a participar en las sesiones del Sistema Estatal a las demás autoridades federales, estatales y municipales que estime conveniente, a especialistas en la materia y a las organizaciones de los sectores sociales y privados.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 A las sesiones ordinarias o extraordinarias del Sistema Estatal deberán acudir personalmente los o las Titulares de dichas instancias. Sólo en situaciones justificables podrán asistir como representantes personas que ocupen el nivel jerárquico inmediato inferior al Titular de la dependencia en el caso del Poder Ejecutivo y la Comisión de los Derechos Humanos del Estado de Quintana Roo. Tratándose del Poder Legislativo, la suplencia deberá recaer en una Diputada o Diputado integrante de la Comisión que forma parte del Sistema Estatal. En el caso del Poder Judicial, el o la suplente deberá ser un Magistrado designado para tal efecto por la Presidencia del Tribunal. En cualquier caso el o la suplente deberá ser la misma persona para todas las sesiones del Sistema Estatal durante el año y estar facultadas para tomar decisiones a nombre del Titular.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+La Secretaría Ejecutiva del Sistema Estatal, será ejercido por la unidad administrativa de la Secretaría que al efecto se determine en su Reglamento Interior.
 
 ###### ARTÍCULO 41.
 
@@ -913,7 +957,9 @@ IV. Presentar informes especiales en la materia objeto de esta ley;
 
 V. Vigilar el cumplimiento de la observancia de la ley;
 
-VI. Emitir recomendaciones al Instituto para la implementación de los procedimientos administrativos contemplados en la presente Ley;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+
+VI. Emitir recomendaciones a la Secretaría para la implementación de los procedimientos administrativos contemplados en la presente Ley;
 
 VII. Conocer de los procedimientos administrativos que se inicien en los términos previstos por esta Ley; y
 
@@ -967,9 +1013,11 @@ II. Atender las resoluciones que recaigan a las quejas presentadas contra servid
 
 III. Atender las recomendaciones que efectúe el Sistema Estatal, por la presentación de quejas de organizaciones privadas o de la sociedad civil, contra prácticas de desigualdad y discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 46.
 
-Con motivo del acompañamiento sustantivo, el Instituto en términos de la Ley y su reglamento deberá:
+Con motivo del acompañamiento sustantivo, la Secretaría en términos de la Ley y su reglamento deberá:
 
 I. Solicitar a la institución su plan correctivo;
 
@@ -977,7 +1025,7 @@ II. Efectuar las recomendaciones que considere procedentes para eliminar el moti
 
 III. Realizar el monitoreo para la observancia y seguimiento a favor de la parte agraviada; y
 
-IV. Designar al o la Oficial de Género, o solicitar un informe al oficial existente o asignado a la institución.
+IV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2024)
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -985,9 +1033,11 @@ IV. Designar al o la Oficial de Género, o solicitar un informe al oficial exist
 
 Corresponde aplicar el procedimiento administrativo contra quienes en su calidad de servidores públicos o particulares realicen actos de discriminación y desigualdad.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Dicho procedimiento se iniciará con motivo de la queja correspondiente y tendrá como finalidad otorgar la garantía de audiencia y legalidad al presunto infractor, para que manifieste lo que a su derecho convenga y sea el Instituto el que emita la resolución que recaiga a dicho procedimiento.
+Dicho procedimiento se iniciará con motivo de la queja correspondiente y tendrá como finalidad otorgar la garantía de audiencia y legalidad al presunto infractor, para que manifieste lo que a su derecho convenga y sea la Secretaría el que emita la resolución que recaiga a dicho procedimiento.
 
 ###### ARTÍCULO 49.
 
@@ -1015,9 +1065,11 @@ I. Con multa de 20 a 100 días de salario mínimo vigente en el Estado, al momen
 
 II. Con multa de 30 a 200 días de salario mínimo vigente en el Estado, al momento de la comisión de la infracción para la conducta señalada en la fracción III del artículo 50 de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 52.
 
-El Instituto considerará para la individualización de la sanción:
+La Secretaría considerará para la individualización de la sanción:
 
 I. La gravedad de la conducta discriminatoria contra la mujer o el hombre;
 
@@ -1152,3 +1204,39 @@ P.O. 3 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas otras disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 022 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, quedará abrogada la Ley del Instituto Quintanarroense de la Mujer, publicada en el Periódico Oficial del Estado de Quintana Roo el 02 de junio de 2008.
+
+TERCERO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, convenios, contratos, programas y demás documentación al Instituto Quintanarroense de la Mujer se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+CUARTO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias conducentes, de conformidad con lo previsto en este Decreto.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+QUINTO. Los recursos humanos, materiales y financieros que correspondan al Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Secretaria de Gobierno, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género, quienes pasarán a formar parte de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo del Instituto Quintanarroense de la Mujer y de la Dirección General de Atención a la Violencia de Género de la Secretaría de Gobierno del Estado que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SEXTO. Los recursos humanos, materiales y financieros que correspondan a la Coordinación General del Programa General Mujer es Poder, sus Direcciones y demás unidades administrativas de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, pasarán íntegramente a la Secretaría de las Mujeres, para lo cual la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente decreto.
+
+La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de las personas trabajadoras de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, quienes pasarán a formar (sic) de la Secretaría de las Mujeres.
+
+Los asuntos, negocios, actos, procedimientos, programas, proyectos y demás trámites vigentes a cargo de la Coordinación del Programa General Mujer es Poder del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, continuarán su vigencia y serán informados y asumidos de inmediato por la Secretaría de las Mujeres, para su atención y seguimiento.
+
+SÉPTIMO. Los convenios, contratos y acuerdos suscritos por el Instituto Quintanarroense de la Mujer, seguirán teniendo vigencia en los términos acordados y en lo sucesivo, constituirán parte de los derechos y obligaciones de la Secretaría de las Mujeres que se crea mediante el presente Decreto, lo anterior sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos.
+
+OCTAVO. El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, continuarán rigiéndose por sus respectivas disposiciones jurídicas y serán coordinados y/o presididos, respectivamente, por la Secretaría de las Mujeres.
+
+Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres y el Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo celebrados con anterioridad a la entrada en vigor del presente Decreto quedarán convalidados y continuarán su trámite bajo las disposiciones jurídicas vigentes, para lo cual la Secretaría de las Mujeres como ente coordinador, dará puntual seguimiento a los acuerdos emanados de dichos sistemas, en los términos que disponen sus leyes.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
+
+DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
