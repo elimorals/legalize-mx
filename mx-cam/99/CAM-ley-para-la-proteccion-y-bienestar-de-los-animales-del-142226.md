@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2022-05-10"
+last_updated: "2024-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
 
@@ -40,6 +40,8 @@ Número 310
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 1°.
 
@@ -57,7 +59,13 @@ e) Contribuir a la formación del individuo y a su superación personal, familia
 
 f) Fomentar la creación y funcionamiento de sociedades protectoras de animales; y
 
-g) Asegurar el libre acceso de los perros guía o de asistencia, tanto en espacios públicos como privados, sin la utilización de bozales u otros artefactos que limiten su libre actividad.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2024)</small>
+
+g) Asegurar el libre acceso de los perros guía o de asistencia, tanto en espacios públicos como privados, sin la utilización de bozales u otros artefactos que limiten su libre actividad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2024)</small>
+
+h) Asegurar las cinco libertades del animal, siendo estas: libre de hambre, sed y desnutrición, miedos y angustias, de incomodidades físicas o térmicas, de dolor, lesiones o enfermedades, y para expresar las pautas propias de comportamiento.
 
 ###### ARTÍCULO 2°.
 
@@ -105,7 +113,9 @@ m) Ley: Ley para la Protección y Bienestar de los Animales del Estado de Campec
 
 n) Procuraduría: La Procuraduría de Protección al Ambiente del Estado de Campeche;
 
-o) Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Campeche;
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2024)</small>
+
+o) Secretaría: La Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía;
 
 p) Visita de inspección: La que realiza el personal debidamente autorizado para verificar el cumplimiento de las disposiciones contenidas en la presente Ley, su reglamento y demás obligaciones previstas en las disposiciones aplicables en la materia;
 
@@ -727,13 +737,13 @@ XVI. Cualquier otra contravención a lo dispuesto en la presente ley, su reglame
 
 ### CAPÍTULO XVI. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 69.
 
 Las infracciones establecidas en el artículo anterior de esta Ley, serán sancionadas administrativamente por la Procuraduría o la autoridad municipal, en el ámbito de sus respectivas competencias, de la siguiente manera:
 
 I. Amonestación;
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
 II. Multa de 35 a 350 Unidades de Medida y Actualización diarias al momento de la comisión de la infracción;
 
@@ -743,11 +753,15 @@ IV. Revocación de las autorizaciones, permisos o licencias;
 
 V. Clausura temporal o definitiva, parcial o total, de los establecimientos o instalaciones donde se desarrollen las actividades que den lugar a la infracción respectiva;
 
-VI. Reparación de los daños causados; y
+VI. Reparación de los daños causados;
 
-VII. Decomiso de los animales, así como de los bienes, vehículos, utensilios, herramientas, cualquier equipo o instrumento directamente relacionado con la acción u omisión que origine la imposición de la sanción, debiendo considerar el destino y resguardo de los animales y bienes decomisados.
+VII. Arresto administrativo hasta por treinta y seis horas: y
 
-La imposición de cualquier sanción prevista por la presente Ley no excluye la responsabilidad civil o penal y la eventual indemnización y reparación del daño correspondiente que puedan recaer sobre el sancionado, en términos de lo que dispongan las leyes correspondientes.
+VIII. Decomiso de los animales, así como de los bienes, vehículos, utensilios, herramientas, cualquier equipo o instrumento directamente relacionado con la acción u omisión que origine la imposición de la sanción, debiendo considerar el destino y resguardo de los animales y bienes decomisados.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 69 BIS.- De configurarse la reincidencia que marca el artículo 72 de la presente ley, se podrá imponer, además de las sanciones establecidas en el artículo anterior, una multa adicional que no deberá pasar la tercera parte de la multa máxima que establece la presente Ley.
 
 ###### ARTÍCULO 70.
 
@@ -848,3 +862,13 @@ P.O. 10 DE MAYO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 10 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 418 POR EL QUE "SE REFORMA EL ARTÍCULO 1, EL INCISO O) DEL ARTÍCULO 3 Y EL ARTÍCULO 69; Y SE ADICIONA EL ARTÍCULO 69 BIS, TODOS DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente día (sic) de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Los procedimientos penales y administrativos iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
