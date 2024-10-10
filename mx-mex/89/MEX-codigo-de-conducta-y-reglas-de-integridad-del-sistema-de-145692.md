@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-del-sistema-de-145692
 country: "mx"
 rank: "codigo"
 publication_date: "2020-12-16"
-last_updated: "2020-12-16"
+last_updated: "2024-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL SISTEMA DE RADIO Y TELEVISION MEXIQUENSE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL SISTEMA MEXIQUENSE DE MEDIOS PÚBLICOS, PUBLICADO EN LA G.G. DE 10 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL SISTEMA DE RADIO Y TELEVISIÓN MEXIQUENSE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE OCTUBRE DE 2024 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 16 de diciembre de 2020.
 
@@ -539,3 +541,15 @@ _____, a los días del mes de ____ del año ___.
 PROTESTO LO NECESARIO
 
 ______________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 10 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL SISTEMA MEXIQUENSE DE MEDIOS PÚBLICOS".]
+
+PRIMERO.- El presente Código de Conducta y Reglas de Integridad será emitido por el Director General del Sistema Mexiquense de Medios Públicos, a través de la página y la plataforma digital del propio Sistema; correspondiendo a la Secretaria Técnica o Secretario Técnico del Comité de Ética, dar difusión a este Código de Conducta y Reglas de Integridad, entre las personas Servidoras Públicas del Organismo.
+
+SEGUNDO.- Se agrega como anexo único y como parte de este Código de Conducta y Reglas de Integridad, el formato Carta Compromiso del cumplimiento del Código de Conducta y Reglas de Integridad, que deberán suscribir individualmente, las Personas Servidoras Públicas del Sistema Mexiquense de Medios Públicos.
+
+TERCERO.- Se abroga el Código de Conducta y Reglas de Integridad del Sistema de Radio y Televisión Mexiquense, publicado en la Gaceta del Gobierno en fecha 16 de diciembre de 2020, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Código.
