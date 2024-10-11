@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iii-2006-del-comite-de-50639"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-01"
-last_updated: "2015-12-03"
+last_updated: "2024-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50639&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,11 +18,11 @@ scjn_last_update: "2024-10-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION III/2006 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y AYUDA PARA LENTES GRADUADOS]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VI/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE LAS PRESTACIONES MÉDICAS COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL S.J.F. EL 11 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN III/2006, DEL DIEZ DE ABRIL DE DOS MIL SEIS, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA EL PLAN DE PRESTACIONES MÉDICAS COMPLEMENTARIAS Y LA AYUDA PARA LENTES GRADUADOS DE LOS TRABAJADORES DE ESTE ALTO TRIBUNAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRES DE DICIEMBRE DE DOS MIL QUINCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO Y TRÁMITE DEL APOYO Y DE LA AYUDA DE ANTEOJOS EN ESTE ALTO TRIBUNAL, PUBLICADO EN EL G.S.J.F. DE 3 DE DICIEMBRE DE 2015, SE DEROGAN LAS DISPOSICIONES RELATIVAS A LA AYUDA DE LENTES GRADUADOS DEL PRESENTE ORDENAMIENTO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2024 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIII, Abril de 2006, página 1261.
 
@@ -679,3 +679,17 @@ Noveno. Las Direcciones Generales de Presupuesto y Contabilidad y de Recursos Hu
 Décimo. Las solicitudes de reembolso de apoyo y de ayuda de anteojos que se encuentren en trámite a la entrada en vigor de los presentes Lineamientos, se atenderán hasta su finalización conforme a los lineamientos vigentes a la fecha de su recepción en la Dirección General de Recursos Humanos e Innovación Administrativa.
 
 Undécimo. Publíquense estos Lineamientos en el Semanario Judicial y su Gaceta, y en medios electrónicos de consulta pública en términos de lo previsto en la fracción I del artículo 70 de la Ley General de Transparencia y Acceso a la Información Pública.
+
+S.J.F. 11 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VI/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE LAS PRESTACIONES MÉDICAS COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Semanario Judicial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración III/2006, del diez de abril de dos mil seis, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el Plan de Prestaciones Médicas Complementarias y la ayuda para lentes graduados de los trabajadores de este Alto Tribunal.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en el presente Acuerdo General de Administración.
+
+CUARTO. Los apoyos económicos autorizados a las personas servidoras públicas por el Comité Operativo del plan de prestaciones médicas complementarias continuarán vigentes y teniendo pleno valor a la entrada en vigor del presente Acuerdo General de Administración en los mismos términos y condiciones que fueron aprobados.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
