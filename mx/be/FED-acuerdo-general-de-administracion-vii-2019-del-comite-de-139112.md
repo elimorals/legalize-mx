@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vii-2019-del-comite-de-139112
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-05-27"
-last_updated: "2019-05-27"
+last_updated: "2024-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-05-27"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION VII/2019 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL SERVICIO DE LOS COMEDORES INSTITUCIONALES "MARIANO OTERO" Y "5 DE FEBRERO", ASI COMO DEL SERVICIO DE REFRIGERIO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL USO Y SERVICIO DE COMEDORES, PUBLICADO EN EL S.J.F. DE 11 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN VII/2019, DEL VEINTISIETE DE MAYO DE DOS MIL DIECINUEVE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL SERVICIO DE LOS COMEDORES INSTITUCIONALES "MARIANO OTERO" Y "5 DE FEBRERO", ASÍ COMO DEL SERVICIO DE REFRIGERIO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2024 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo I, Julio de 2019, páginas de la 2261 a la 2274.
 
@@ -360,3 +362,19 @@ EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERA
 CERTIFICA:
 
 Que esta copia del "ACUERDO GENERAL DE ADMINISTRACIÓN VII/2019, DEL VEINTISIETE DE MAYO DE DOS MIL DIECINUEVE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL SERVICIO DE LOS COMEDORES INSTITUCIONALES "MARIANO OTERO" Y "5 DE FEBRERO", ASÍ COMO DEL SERVICIO DE REFRIGERIO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN" constante de doce fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General. Ciudad de Mexico, a dos de julio de dos mil diecinueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 11 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL USO Y SERVICIO DE COMEDORES, PUBLICADO EN EL S.J.F. DE 11 DE OCTUBRE DE 2024".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. El presente Acuerdo General de Administración estará vigente hasta en tanto el órgano de administración judicial que se cree en términos del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado en el Diario Oficial de la Federación el quince de septiembre del año de dos mil veinticuatro, determine lo conducente.
+
+TERCERO. Se abroga el Acuerdo General de Administración VII/2019, del veintisiete de mayo de dos mil diecinueve, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se emiten los Lineamientos para el servicio de los comedores institucionales "Mariano Otero" y "5 de Febrero", así como del servicio de refrigerio de la Suprema Corte de Justicia de la Nación, y todas aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo General de Administración.
+
+CUARTO. Las reglas de operación a que hace referencia el presente Acuerdo General de Administración deberán ser emitidas y publicadas por la Subdirección General de Comedores, previo dictamen favorable de la Dirección General de Asuntos Jurídicos, en un plazo no mayor a treinta días naturales posteriores a la entrada en vigor del presente Acuerdo General de Administración.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
