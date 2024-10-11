@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-que-regula-el-plan-de-124092"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-10-26"
-last_updated: "2017-10-26"
+last_updated: "2024-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124092&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-09-07"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION [QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA SERVIDORES PUBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IV/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL S.J.F. DE 11 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN, DE SIETE DE SEPTIEMBRE DE DOS MIL DIECISIETE, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA SERVIDORES PÚBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2024 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección al No. 22 del Diario Oficial de la Federación, el jueves 26 de octubre de 2017.
 
@@ -484,3 +486,21 @@ El Ministro Presidente, Luis María Aguilar Morales.- Rúbrica.- El Ministro, Al
 CERTIFICACIÓN. En Ciudad de México a dieciocho de octubre de dos mil diecisiete, el licenciado Alejandro Roldán Olvera, Secretario de Seguimiento de Comités de Ministros de la Suprema Corte de Justicia de la Nación, con fundamento en lo dispuesto por el artículo 121, fracción XIII del Reglamento Interior de la Suprema Corte de Justicia de la Nación; CERTIFICA que el presente documento constante de “16” (dieciséis) fojas útiles, es copia fiel del documento original que se tuvo a la vista y corresponde al “ACUERDO GENERAL DE ADMINISTRACIÓN, DE SIETE DE SEPTIEMBRE DE DOS MIL DIECISIETE, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA SERVIDORES PÚBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL”; el cual fue aprobado por el Comité de Gobierno y Administración en sesión ordinaria del siete de septiembre de dos mil diecisiete. DOY FE.
 
 El Secretario de Seguimiento de Comités de Ministros de la Suprema Corte de Justicia de la Nación, Alejandro Roldán Olvera.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 11 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IV/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Semanario Judicial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración, de siete de septiembre de dos mil diecisiete, que regula el plan de pensiones complementarias para servidores públicos de Mando Superior de este Alto Tribunal.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en el presente Acuerdo General de Administración.
+
+CUARTO. Las pensiones complementarias que se hayan otorgado hasta antes de la entrada en vigor del presente Acuerdo General de Administración se continuarán pagando con recursos presupuestales de la Suprema Corte de Justicia de la Nación, en los mismos términos en que se hayan otorgado conforme a lo determinado por el Comité Operativo de pensiones complementarias para mandos superiores.
+
+Los trámites de solicitudes de pensiones complementarias que se encuentren pendientes de determinarse, se gestionarán hasta su total conclusión con el Acuerdo General de Administración con el que hayan iniciado, sin perjuicio de que les pueda aplicar el presente Acuerdo General de Administración en lo que más le beneficie.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
