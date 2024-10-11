@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-la-150512"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-06"
-last_updated: "2021-08-06"
+last_updated: "2024-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 95 del Periódico Oficial del Estado de Nuevo León, el viernes 6 de agosto de 2021.
 
@@ -194,3 +196,17 @@ Dado en la oficina del Secretario de Administración del Ejecutivo del Estado de
 EL C. SECRETARIO DE ADMINISTRACIÓN
 
 MAURICIO TORRES ELIZONDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código de Conducta de las personas servidoras públicas de la Secretaría de Administración, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Código de Conducta de las personas servidoras públicas de la Secretaría, deberá publicarse en la página oficial de internet de la Secretaría de Administración, así como en los medios tecnológicos que permitan lograr mayor difusión con la finalidad de hacerlo del conocimiento de las personas servidoras públicas adscritas a la Secretaría.
+
+TERCERO.- El área encargada de administrar el capital humano tendrá un plazo de hasta 60 días para cumplir con lo dispuesto por el artículo 15 de este Código de Conducta.
+
+CUARTO.- Se abroga el Acuerdo Administrativo por el que se emitió el Código de Conducta de los Servidores Públicos de la Secretaría de Administración del Estado de Nuevo León, publicado en el Periódico Oficial del Estado en fecha 6 de agosto de 2021.
