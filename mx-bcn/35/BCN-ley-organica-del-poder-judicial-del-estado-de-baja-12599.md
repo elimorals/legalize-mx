@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2024-04-05"
+last_updated: "2024-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL PUNTO ÚNICO DE LA DECLARATORIA PUBLICADA EN EL P.O. DE 11 DE OCTUBRE DE 2024 Y CON FUNDAMENTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 122 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO CON FECHA 2 DE SEPTIEMBRE DE 2022, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2, 53, 69 Y 90 DECIES SE DECLARA QUE EN BAJA CALIFORNIA, HAN ENTRADO EN VIGOR LOS JUZGADOS ESPECIALIZADOS EN VIOLENCIA FAMILIAR CONTRA LAS MUJERES. LO ANTERIOR DEBIDO A QUE EL PODER JUDICIAL DEL ESTADO, SE ENCUENTRA PLENAMENTE PREPARADO PARA SU IMPLEMENTACIÓN, CONTANDO CON LA INFRAESTRUCTURA NECESARIA, ESPACIOS ADECUADOS, REQUERIMIENTOS TÉCNICOS, PERSONAL CAPACITADO, ASÍ COMO JUECES ESPECIALIZADOS NOMBRADOS PARA DESEMPEÑAR ESTAS FUNCIONES.]
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
@@ -4044,3 +4046,13 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 405 MEDIANTE EL CUAL “SE APRUEBA LA REFORMA EL ARTÍCULO 29 (SIC) LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LA "DECLARATORIA PARA LA ENTRADA EN VIGOR DE LOS JUZGADOS ESPECIALIZADOS EN VIOLENCIA FAMILIAR CONTRA LAS MUJERES”; QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO. La Honorable XXV Legislatura Constitucional del Estado de Baja California, con fundamento en el transitorio tercero del Decreto número 122 publicado en el Periódico Oficial del Estado con fecha 2 de septiembre de 2022, por el que se reforman los artículos 1, 2, 53, 69 y 90 DECIES de la Ley Orgánica del Poder Judicial del Estado de Baja California, en atención a la solicitud realizada de emitir la Declaratoria correspondiente, por parte del Magistrado Alejandro Isaac Fragozo López, en su carácter de Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado, Declara que en Baja California, han entrado en vigor los Juzgados Especializados en Violencia Familiar Contra las Mujeres. Lo anterior debido a que el Poder Judicial del Estado, se encuentra plenamente preparado para su implementación, contando con la infraestructura necesaria, espacios adecuados, requerimientos técnicos, personal capacitado, así como Jueces Especializados nombrados para desempeñar estas funciones.
+
+T R A N S I T O R I O
+
+ÚNICO.- La presente declaratoria entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
