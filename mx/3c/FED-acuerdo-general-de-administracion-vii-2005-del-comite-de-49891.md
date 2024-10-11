@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vii-2005-del-comite-de-49891"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-17"
-last_updated: "2014-02-28"
+last_updated: "2024-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49891&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-10-17"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION VII/2005 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [PLAN DE PENSIONES COMPLEMENTARIAS PARA MANDOS MEDIOS Y PERSONAL OPERATIVO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE MANDO MEDIO Y PERSONAL OPERATIVO DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL S.J.F. DE 11 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN VII/2005, DEL DIECISIETE DE OCTUBRE DE DOS MIL CINCO, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE LOS SERVIDORES PÚBLICOS DE MANDO MEDIO Y PERSONAL OPERATIVO DE ESTE ALTO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: TOMO I, MARZO DE 2014, PÁGINA 1993 A LA 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2024 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIII, Febrero de 2006, página 1967.
 
@@ -634,3 +636,17 @@ TERCERO.- En ningún caso el monto de la pensión complementaria, adicionada a l
 CUARTO.- Intégrese de inmediato el texto de esta reforma al Acuerdo General de Administración VII/2005, del diecisiete de octubre de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el Plan de Pensiones Complementarias de los Servidores Públicos de Mando Medio y Personal Operativo de este Alto Tribunal.
 
 QUINTO.-Publíquese el engrose de este acuerdo en el Semanario Judicial de la Federación y su Gaceta, y para su difusión en medios electrónicos.
+
+S.J.F. 11 DE OCTUBRE DE 2024.
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Semanario Judicial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración VII/2005, del diecisiete de octubre de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el plan de pensiones complementarias de los servidores públicos de mando medio y personal operativo de este Alto Tribunal.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en el presente Acuerdo General de Administración.
+
+CUARTO. Las pensiones complementarias que se hayan autorizado hasta antes de la entrada en vigor del presente Acuerdo General de Administración se continuarán pagando con recursos presupuestales de la Suprema Corte de Justicia de la Nación, en los mismos términos en que se hayan otorgado conforme a lo determinado por el Comité Operativo de pensiones complementarias para mandos medios y personal operativo.
+
+Los trámites de solicitudes de pensiones complementarias que se encuentren pendientes de determinarse, se gestionarán hasta su total conclusión con el Acuerdo General de Administración con el que hayan iniciado, sin perjuicio de que les pueda aplicar el presente Acuerdo General de Administración en lo que más le beneficie.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
