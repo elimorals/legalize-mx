@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-cultura-y-las-artes-del-estado-de-queretaro-47644"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2016-12-21"
+last_updated: "2024-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado del Estado de Querétaro, el viernes 30 de diciembre de 2005.
 
@@ -31,7 +31,7 @@ LIC. FRANCISCO GARRIDO PATRÓN,
 
 Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-...
+[...]
 
 Por lo anterior, esta Quincuagésima Cuarta Legislatura, expide la siguiente:
 
@@ -45,15 +45,19 @@ LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERÉTARO
 
 Las disposiciones de esta Ley son de orden público y de observancia general y obligatoria en territorio del estado.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 2.
 
-El presente ordenamiento reconoce los derechos de las personas a tener acceso y a participar en la vida cultural de la comunidad; regula la estructura y funcionamiento de los órganos encargados de la preservación, difusión, promoción, fomento e investigación de la actividad cultural y artística.
+El presente ordenamiento reconoce los derechos de las personas a tener acceso y a participar en la vida cultural de la comunidad; regula la estructura y funcionamiento de los órganos encargados de la preservación, difusión, promoción, fomento e investigación de la actividad cultural, artística y creativa.
 
 ###### Artículo 3.
 
 La presente Ley tiene como objetivos, los siguientes:
 
-I. Generar las condiciones para la promoción y difusión de las manifestaciones culturales y artísticas con el fin de facilitar a todos los ciudadanos de la sociedad el acceso a las mismas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+I. Generar las condiciones para la promoción y difusión de las manifestaciones culturales, artísticas y creativas con el fin de facilitar a todos los ciudadanos de la sociedad el acceso a las mismas;
 
 II. Fijar las bases para el establecimiento, ejecución y evaluación de la política cultural del Estado, conforme a los siguientes criterios:
 
@@ -63,19 +67,27 @@ b) Fortalecer la identidad cultural de los queretanos;
 
 c) Privilegiar las manifestaciones culturales de Querétaro;
 
-d) Equilibrar la asignación de recursos disponibles hacia las diferentes áreas artísticas, debiendo considerar el grado de desarrollo de las artes y la necesidad de apoyos de los artistas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+d) Equilibrar la asignación de recursos disponibles hacia las diferentes áreas artísticas y creativas, debiendo considerar el grado de desarrollo de las artes y los sectores creativos, así como la necesidad de apoyos de los artistas;
 
 e) Procurar la creación y permanencia de los grupos artísticos profesionales organizados por el estado; y
 
 f) Garantizar el cuidado, mantenimiento y conservación de la infraestructura cultural del estado.
 
-III. Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos federal, estatal y municipal; organizaciones culturales y la sociedad en general;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+III. Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos federal, estatal y municipal; organizaciones culturales, sectores creativos y la sociedad en general;
 
 IV. Promover la participación de los ciudadanos, grupos, instituciones y organizaciones de los sectores social y privado en la promoción, fomento y difusión de la cultura;
 
-V. Establecer y desarrollar mecanismos financieros, destinados a proveer recursos para las actividades culturales;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-VI. Fijar las bases para otorgar becas, reconocimientos y estímulos económicos en apoyo a la realización artística y cultural; y
+V. Establecer y desarrollar mecanismos financieros, destinados a proveer recursos para las actividades culturales y creativas;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+VI. Fijar las bases para otorgar becas, reconocimientos y estímulos económicos en apoyo a la realización artística, creativa y cultural; y
 
 VII. Definir la competencia de la autoridad estatal y municipal en materia cultural.
 
@@ -101,21 +113,25 @@ IV. Los organismos culturales del orden municipal, a los que hace alusión el ar
 
 Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Cultura:
 
-I. Establecer objetivos y estrategias para la preservación, fomento, difusión y promoción de la cultura;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+I. Establecer objetivos y estrategias para la preservación, fomento, difusión y promoción de la cultura y los sectores creativos;
 
 II. Coadyuvar en la preservación de los monumentos arqueológicos, históricos y artísticos que se encuentren en el patrimonio del Estado, de conformidad con las leyes aplicables;
 
 III. Preservar y promover las manifestaciones de la cultura local y de los grupos indígenas asentados en territorio del estado;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-IV. Otorgar reconocimientos y estímulos a quienes se hayan distinguido en el campo de la cultura, conforme a las bases que previamente se establezcan;
+IV. Otorgar reconocimientos y estímulos a quienes se hayan distinguido en el campo de la cultura y la creatividad, conforme a las bases que previamente se establezcan;
 
 V. Formular la política cultural de la Entidad;
 
 VI. Celebrar con los ayuntamientos, la federación, las entidades federativas y con instituciones oficiales o particulares, nacionales o extranjeras, convenios para concertar acciones que tengan por objeto la preservación, promoción, difusión e investigación de la cultura;
 
-VII. Promover la celebración de festivales, estatales, regionales, nacionales e internacionales, para difundir la cultura de la Entidad;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+VII. Promover la celebración de festivales, estatales, regionales, nacionales e internacionales, para difundir los sectores creativos y la cultura de la Entidad;
 
 VIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
@@ -125,29 +141,43 @@ IX. Las demás que en la materia se le otorguen por esta Ley y por otros ordenam
 
 Corresponde a los Ayuntamientos en su ámbito de competencia:
 
-I. Establecer las directrices municipales en materia de cultura, previa consulta a la comunidad cultural del municipio;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+I. Establecer las directrices municipales en materia de cultura y desarrollo de los sectores creativos, previa consulta a la comunidad cultural del municipio;
 
 II. Procurar la creación de una dependencia municipal que tenga como única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura;
 
 III. Celebrar los convenios necesarios con las instancias públicas estatales y federales, así con las personas físicas o jurídicas de carácter privado, para la adecuada coordinación de las actividades culturales del municipio;
 
-IV. Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-V. Fomentar la integración de organismos privados y sociales de promoción y divulgación de la cultura;
+IV. Elaborar y ejecutar programas para el desarrollo de las actividades culturales y creativas dentro del territorio municipal;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+V. Fomentar la integración de organismos privados y sociales de promoción y divulgación de la cultura y la creatividad;
 
 VI. Fomentar la investigación de las manifestaciones culturales propias del municipio, sus ferias, tradiciones y costumbres;
 
-VII. Expedir los reglamentos, en el ámbito de su competencia, que normen la actividad cultural en el territorio municipal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-VIII. Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación artística o en la promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
+VII. Expedir los reglamentos, en el ámbito de su competencia, que normen la actividad cultural y de los sectores creativos en el territorio municipal;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+VIII. Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en el desarrollo creativo, la creación artística o en la promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
 
 IX. Estimular la integración de consejos municipales para el fomento de la cultura con la participación de la comunidad cultural;
 
-X. Elaborar y mantener actualizado el registro de las personas que se dediquen a la creación, fomento, apoyo o promoción de actividades culturales y artísticas en el municipio;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+X. Elaborar y mantener actualizado el registro de las personas que se dediquen a la creación, fomento, apoyo o promoción de actividades creativas, culturales y artísticas en el municipio;
 
 XI. Elaborar y mantener actualizado un inventario de los espacios públicos con que cuenta el municipio para la realización de actividades culturales y artísticas;
 
-XII. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la medida de sus posibilidades, a los artistas municipales más destacados; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+XII. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la medida de sus posibilidades, a los creativos y artistas municipales más destacados;
 
 XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales.
 
@@ -191,7 +221,9 @@ El Poder Ejecutivo del Estado podrá celebrar, a través de la Secretaría de Cu
 
 I. Propiciar que los municipios y sus habitantes se beneficien con los acuerdos a que se refiere el artículo anterior;
 
-II. Coadyuvar con los municipios en el fomento a la cultura y las artes;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+II. Coadyuvar con los municipios en el fomento a la cultura, las artes y el desarrollo de los sectores creativos;
 
 III. Delegar la ejecución de acciones culturales estatales a los municipios, cuando sea de interés para estos;
 
@@ -215,7 +247,9 @@ El Programa Estatal de Cultura deberá elaborarse de conformidad con las disposi
 
 I. Los objetivos y estrategias a desarrollar en la promoción, divulgación, fomento e investigación de la cultura;
 
-II. Los lineamientos generales para el desarrollo de las actividades culturales y artísticas del Estado, en lo que respecta a creación, investigación, preservación, promoción y difusión; en los aspectos de ampliación y mejoramiento de infraestructura, fomento a la industria cultural, financiamiento complementario, en los ámbitos regional y estatal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+II. Los lineamientos generales para el desarrollo de las actividades culturales, artísticas y creativas del Estado, en lo que respecta a creación, investigación, preservación, promoción y difusión; en los aspectos de ampliación y mejoramiento de infraestructura, fomento a la industria cultural, desarrollo de los sectores creativos, financiamiento complementario, en los ámbitos regional y estatal;
 
 III. Los lineamientos específicos en materia de cultura, tradiciones populares y fomento a la lectura; y
 
@@ -347,9 +381,11 @@ Para la elaboración del Programa Estatal de Cultura deberán considerarse los r
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-Los municipios del Estado, en el ámbito de sus respectivas competencias, procurarán contar con un organismo o institución responsable de la coordinación de programas y acciones en materia de cultura y el arte, conforme a esta Ley.
+Los municipios del Estado, en el ámbito de sus respectivas competencias, procurarán contar con un organismo o institución responsable de la coordinación de programas y acciones en materia de creatividad, cultura y el arte, conforme a esta Ley.
 
 El organismo o institución tendrá la naturaleza jurídica y estructura que acuerde el Ayuntamiento.
 
@@ -359,17 +395,29 @@ Los organismos municipales, en materia de cultura, tendrán los siguientes objet
 
 I. Promover, preservar, difundir e investigar las manifestaciones culturales del municipio y, en especial, la cultura indígena;
 
-II. Promover la creación de talleres o grupos en atención a las distintas manifestaciones culturales;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-III. Promover el acceso de la población a las diferentes manifestaciones culturales;
+II. Promover la creación de talleres o grupos en atención a las distintas manifestaciones culturales y creativas;
 
-IV. Promover ferias, concursos y eventos, en donde se expresen las distintas manifestaciones culturales;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-V. Promover el otorgamiento de reconocimientos y estímulos en favor de las personas que se hayan distinguido en el campo de la cultura;
+III. Promover el acceso de la población a las diferentes manifestaciones culturales y creativas;
 
-VI. Celebrar convenios de coordinación con la Federación, Estado, municipios y demás organismos públicos; así con particulares, en materia de cultura;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-VII. Editar libros, revistas, folletos y cualquier otro documento que promueva y fomente la cultura;
+IV. Promover ferias, concursos y eventos, en donde se expresen las distintas manifestaciones culturales y creativas;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+V. Promover el otorgamiento de reconocimientos y estímulos en favor de las personas que se hayan distinguido en el campo de la cultura y de los sectores creativos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE OCTUBRE DE 2024)</small>
+
+VI. Celebrar convenios de coordinación con la Federación, Estado, municipios y demás organismos públicos; así con (sic) particulares, en materia de cultura;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+VII. Editar libros, revistas, folletos y cualquier otro documento que promueva y fomente la cultura y la creatividad;
 
 VIII. Coadyuvar en la promoción, conservación y restauración de sitios y monumentos arqueológicos, históricos y artísticos, en los términos de la Ley de la materia;
 
@@ -387,7 +435,9 @@ X. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
 Se establece el Programa Estatal de Creadores, el cual tiene por objeto alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente. Su ejecución corresponderá a la Secretaría de Cultura del Poder Ejecutivo del Estado.
 
-Este programa también tendrá por objeto elevar la calidad de los servicios en materia de comprensión e iniciación en los lenguajes artísticos, haciendo énfasis en los procesos pedagógicos y sus implicaciones en la educación artística, fortaleciendo el contacto entre los artistas de Querétaro y creadores mexicanos de trayectoria destacada, su vinculación con el mercado profesional y el intercambio de experiencias y la cultura. Se implementarán acciones para fortalecer, preservar y diversificar la creatividad popular en las diversas manifestaciones características de nuestro Estado, para ello, se otorgarán estímulos y apoyos en la medida de lo posible.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+Este programa también tendrá por objeto elevar la calidad de los servicios en materia de comprensión e iniciación en los lenguajes artísticos y creativos, haciendo énfasis en los procesos pedagógicos y sus implicaciones en la educación artística, fortaleciendo el contacto entre los artistas de Querétaro y creadores mexicanos de trayectoria destacada, su vinculación con el mercado profesional y el intercambio de experiencias y la cultura. Se implementarán acciones para fortalecer, preservar y diversificar la creatividad popular en las diversas manifestaciones características de nuestro Estado, para ello, se otorgarán estímulos y apoyos en la medida de lo posible.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -658,3 +708,13 @@ Artículo Sexto. Las menciones contenidas en las leyes, reglamentos y demás dis
 Artículo Séptimo. Las disposiciones, normas y lineamientos emitidos por el Instituto Queretano de la Cultura y las Artes, continuarán en vigor hasta en tanto la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, emita las correspondientes, en lo que no contravengan lo dispuesto en la presente Ley.
 
 Artículo Octavo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado al Instituto Queretano de la Cultura y las Artes, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal en curso.
+
+P.O. 11 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
