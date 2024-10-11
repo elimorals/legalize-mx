@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-12-22"
+last_updated: "2024-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE NOVIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2024.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1315,9 +1317,9 @@ Homicidio en razón de parentesco o relación
 
 A quien con conocimiento de la relación que le une con el sujeto pasivo, prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, pareja, concubina o concubinario, se le impondrá de veinte a treinta y cinco años de prisión y suspensión de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio, hasta por el mismo término de la pena impuesta.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE OCTUBRE DE 2024)</small>
 
-Cuando en el homicidio en razón de parentesco se acredite alguna de las causales establecidas para el delito de feminicidio, se impondrán al sujeto activo, las sanciones y consecuencias jurídicas previstas en este último.
+No se perseguirá ni juzgará como homicidio en razón de parentesco o relación cuando el sujeto pasivo sea el producto en gestación en cualquier momento del embarazo y el sujeto activo sea la mujer embarazada o persona gestante.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
@@ -1637,51 +1639,81 @@ Si la persona a quien se induce o ayuda al suicidio fuere menor de dieciocho añ
 
 ### CAPÍTULO V. ABORTO
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 141.
 
 Concepto de aborto
 
-Aborto es la muerte del producto de la concepción en cualquier momento del embarazo.
+Aborto es la interrupción del embarazo posterior a las doce semanas de gestación.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 142.
 
 Aborto con consentimiento
 
-A quien hiciere abortar a una mujer con consentimiento previo de ésta, se le impondrá de seis meses a dos años de prisión.
+A quien realice la interrupción de un embarazo posterior a las doce semanas de gestación con consentimiento de la mujer o persona gestante, se le impondrán de seis meses a un año de trabajo a favor de la comunidad, en este caso el delito de aborto solo se sancionará cuando se haya consumado.
 
 ###### Artículo 143.
 
 Aborto sin consentimiento
 
-A quien hiciere abortar a una mujer sin su consentimiento, se le impondrá de tres a ocho años de prisión. Si mediare violencia física o psicológica se impondrá de seis a nueve años de prisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+A quien interrumpa el embarazo de una mujer, adolescente, niña o persona gestante, sin su consentimiento, sin importar la etapa gestacional, se le impondrá de diez a veinte años de prisión.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+Si mediare violencia física o psicológica se impondrá de veinte a cuarenta años de prisión.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+Si en cualquiera de los supuestos de este artículo, el sujeto activo origina una o más lesiones a la mujer, adolescente, niña o persona gestante, en virtud del aborto que le causó dolosamente, se aumentarán las penas, hasta en una mitad de la máxima.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+Si la interrupción del embarazo sin consentimiento lo lleva a cabo un médico cirujano, comadrón o partera, enfermero o practicante, o cualquier otro profesional de la salud, además de las consecuencias jurídicas que le correspondan conforme a este capítulo, se le suspenderá por el doble del tiempo de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
 
 ###### Artículo 144.
 
-Aborto específico
-
-Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o practicante o cualquier otro profesional de la salud, además de las consecuencias jurídicas que le correspondan conforme a este capítulo, se le suspenderá por el doble del tiempo de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 2024)
 
 ###### Artículo 145.
 
-Aborto voluntario
+(DEROGADO, P.O. 11 DE OCTUBRE DE 2024)
 
-A la mujer que voluntariamente provoque su aborto se le impondrá de seis meses a un año de trabajo a favor de la comunidad. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 146.
 
-Excluyentes de responsabilidad del aborto
+No será punible la interrupción del embarazo, sin limitante de la etapa gestacional, cuando éste:
 
-La responsabilidad penal por el delito de aborto se excluye cuando:
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-I. Dentro de las primeras doce semanas cuando el embarazo sea resultado de una violación, de una inseminación artificial no consentida, de una procreación asistida no consentida o precaria situación económica. Estas causas deberán de encontrarse debidamente justificadas;
+I. Sea producto de violación;
 
-II. De no provocarse el aborto, la mujer embarazada corra peligro de afectación grave a su salud;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-III. Cuando el producto presente una malformación grave en su desarrollo, según dictamen médico; y,
+II. Se realice por razones médicas;
 
-IV. Sea resultado de una conducta imprudente de la mujer embarazada.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
 
-En el caso de la fracción I, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, con la finalidad de que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+III. Sea producto de un procedimiento de fecundación asistida sin consentimiento de la mujer, adolescente, niña o persona gestante;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+IV. La mujer, adolescente, niña o persona gestante se encuentre en una situación económica precaria;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+V. Se demuestre que la mujer, adolescente, niña o persona gestante, solicitó la interrupción del embarazo antes de las 12 semanas de gestación y que el acceso a dicho servicio fue negado o prorrogado por personal de atención a la salud; y,
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2024)</small>
+
+VI. Sea por causa de accidente o conducta imprudencial.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE OCTUBRE DE 2024)</small>
 
 ## TÍTULO SEGUNDO. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
 
@@ -4713,7 +4745,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 17 DE FEBRERO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE "SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -4760,3 +4792,15 @@ P.O. 22 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 478 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO Y SU FRACCIÓN I; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 226 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 02 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 118; SE REFORMA EL ARTÍCULO 141; SE REFORMA EL ARTÍCULO 142; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 143, AGREGÁNDOSE UN SEGUNDO, TERCERO Y CUARTO PÁRRAFO; SE DEROGA EL ARTÍCULO 144; SE DEROGA EL ARTÍCULO 145; Y SE REFORMA EL ARTÍCULO 146 EN TODAS SUS FRACCIONES, ADICIONANDO DOS EXCLUYENTES DE RESPONSABILIDAD Y DEROGANDO SU ÚLTIMO PÁRRAFO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Notifíquese al Gobernador del Estado para su conocimiento y publicación.
+
+SEGUNDO. Notifíquese el presente Decreto al Poder Judicial del Estado para que surta los efectos couducentes (sic) de inmediato.
+
+TERCERO. Con la publicación de esta reforma se avanza en una primera etapa de la armonización legislativa orientada a garantizar la despenalización del aborto y el acceso a los Servicios de Aborto Seguro de acuerdo con el Lineamiento Técnico para la Atención del Aborto Seguro en México, emitido por el Sistema Nacional de Salud en coordinación con la Organización Panamericana de la Salud y la Organización Mundial de la Salud.
