@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2023-01-28"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -563,7 +563,9 @@ II. Dar a conocer, a través de la Gaceta Parlamentaria, el proyecto del orden d
 
 III. Notificar a los Diputados, por escrito o vía electrónica, cuando una iniciativa presentada por el Ejecutivo lo haya sido con el carácter de preferente, acompañando el aviso con la iniciativa, puntualizando el turno que recaiga y el día en que se cumple el término para la dictaminación.
 
-La Presidencia deberá vigilar que el expediente relativo sea turnado a la comisión o comisiones que correspondan dentro de las veinticuatro horas siguientes al dictado de turno.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+La Presidencia deberá vigilar que el expediente relativo sea turnado a la comisión o comisiones que correspondan dentro de las veinticuatro horas siguientes al dictado de turno; y mandará publicarlo en el orden del día correspondiente de la Gaceta Parlamentaria.
 
 IV. Convocar a las reuniones de la Mesa Directiva y cumplir con las resoluciones que se emitan y sean del ámbito de su competencia;
 
@@ -1609,7 +1611,7 @@ TERCERO. La Sexagésima Cuarta Legislatura del Honorable Congreso del Estado de 
 
 P.O. 24 DE AGOSTO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ÓRGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -1670,3 +1672,13 @@ P.O. 28 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2444.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DEL ARTÍCULO 40 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 55 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
