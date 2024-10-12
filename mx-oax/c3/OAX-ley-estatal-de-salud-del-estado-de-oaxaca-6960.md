@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-10-05"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -3645,17 +3645,27 @@ Se entiende por cuarentena la limitación a la libertad de tránsito de personas
 
 La observación personal consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 312.
 
-La autoridad sanitaria competente ordenar (sic) la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
+La autoridad sanitaria competente ordenará la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
 I.- Cuando no hayan sido vacunados contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles cuya vacunación se estime obligatoria;
 
-II.- En caso de epidemia grave; y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
+II.- Aniñas (sic) a partir de los 9 años que no cuenten con la vacuna del Virus del Papiloma Humano de acuerdo con la Campaña Nacional de Vacunación
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+III.- En caso de epidemia grave; y
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+IV.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4534,6 +4544,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 5 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2426.- MEDIANTE (SIC) CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 6 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2445.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 312; Y SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 312 DE LA LEY ESTATAL DE SALUD".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
