@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2024-04-20"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -57,11 +57,17 @@ III. Impulsar los mecanismos para la participación y concertación entre el est
 
 IV. Consolidar las bases de integración y funcionamiento de los sistemas estatal y municipal de Protección Civil;
 
-V. Establecer las normas y principios para fomentar la cultura de la prevención de riesgos, la protección civil y la autoprotección de sus habitantes, que reduzca en la medida de lo posible la vulnerabilidad de la población y fortalezca sus capacidades y resiliencia; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+V. Establecer las normas y principios para fomentar la cultura de la prevención de riesgos, la protección civil y la autoprotección de sus habitantes, que reduzca en la medida de lo posible la vulnerabilidad de la población y fortalezca sus capacidades y resiliencia;
 
-VI. Contribuir al cumplimiento de los compromisos nacionales e internacionales, celebrados por el Estado Mexicano en materia de reducción del riesgo de desastres, cambio climático y demás relacionado con la protección civil.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VI. Contribuir al cumplimiento de los compromisos nacionales e internacionales, celebrados por el Estado Mexicano en materia de reducción del riesgo de desastres, cambio climático y demás relacionado con la protección civil; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VII. Establecer políticas públicas inclusivas en materia de prevención de desastres y protección civil, incorporando plenamente la variable discapacidad como componente en su planificación, ejecución y evaluación.
 
 ###### Artículo 2.
 
@@ -2324,3 +2330,11 @@ P.O. 20 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2442.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 1; Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 1 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
