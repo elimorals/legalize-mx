@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2024-03-14"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1551,9 +1551,9 @@ XXVIII. Declarar beneméritos del Estado de Jalisco a sus benefactores y a los q
 
 XXIX. Pedir informes al Gobernador o a los presidentes de los tribunales integrantes del Poder Judicial, sobre cualquier ramo de la administración de los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XXX. Citar a los titulares de las dependencias y organismos descentralizados del Poder Ejecutivo del Estado y de los municipios, para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades. De igual forma podrá citarlos para que informen sobre los avances en relación con sus planes de desarrollo;
+XXX. Citar a los titulares de las dependencias de la administración pública centralizada y paraestatal del Poder Ejecutivo del Estado y de los municipios, para que rindan cuentas e informen de manera pública, a través de los instrumentos de control político del gobierno, como las comparecencias, las interpelaciones y las preguntas parlamentarias, para cuestionarles sobre las acciones en el ejercicio de sus funciones y los resultados de las mismas, así como cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, y para que informen sobre los avances en relación con sus planes de desarrollo;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -4480,3 +4480,11 @@ P.O. 14 DE MARZO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Las disposiciones relativas a la proyección, programación y presupuestación de la Universidad de Guadalajara, contenidas en los párrafos tercero y cuarto de la fracción IV del artículo 15 reformado mediante el presente decreto, serán aplicables a partir del ejercicio fiscal 2025.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29529/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 35 FRACCIÓN XXX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO 283/LXIII/24 QUE DECLARA APROBADA LA MINUTA DE DICHO DECRETO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Congreso del Estado de Jalisco deberá incorporar en su legislación orgánica las figuras de los instrumentos de control político, así como su formato de desarrollo.
