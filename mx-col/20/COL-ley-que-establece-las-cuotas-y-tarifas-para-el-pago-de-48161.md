@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2024-03-16"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -825,11 +825,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Cuando el propietario de un terreno solicite la incorporación al sistema a que hace referencia el artículo 10 fracción III de la presente Ley, tratándose de uso de suelo industrial, con destino a patios de maniobras, almacenamiento de contenedores, para tracto camiones y remolques, y siempre que se acredite el cumplimiento de las disposiciones del PROGRAMA PARCIAL DE DESARROLLO URBANO "TAPEIXTLES - JALIPA", PROGRAMA PARCIAL DE DESARROLLO URBANO "EL COLOMO", PROGRAMA PARCIAL DE DESARROLLO URBANO "CAMPOS", según sea la ubicación, y de la Ley de Asentamientos Humanos del Estado de Colima; como incentivo fiscal durante el ejercicio fiscal 2015, se otorgará a los usuarios un descuento sobre la cuota que al efecto establece en el artículo citado en supralíneas, en los términos siguientes: del 60% hasta el 30 de septiembre y, de un 50% durante los meses de octubre a diciembre, todos del 2015.
+Cuando el propietario de un terreno solicite la incorporación al sistema a que hace referencia el artículo 10 fracción III de la presente Ley, tratándose de uso de suelo industrial, con destino a patios de maniobras, almacenamiento de contenedores, para tracto camiones y remolques, y siempre que se acredite el cumplimiento de las disposiciones del PROGRAMA PARCIAL DE DESARROLLO URBANO “TAPEIXTLES - JALIPA”, PROGRAMA PARCIAL DE DESARROLLO URBANO “EL COLOMO”, PROGRAMA PARCIAL DE DESARROLLO URBANO “CAMPOS”, según sea la ubicación, y de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Colima; como incentivo fiscal durante el ejercicio fiscal 2024, se otorgará a los usuarios un descuento sobre la cuota que al efecto se establece en el artículo citado en supra líneas, en los términos siguientes: del 50% a partir del mes de septiembre y hasta el 30 de diciembre de 2024.
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2020)</small>
 
@@ -988,3 +988,11 @@ P.O. 16 DE MARZO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 495.- POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el 30 de diciembre de 2024.
