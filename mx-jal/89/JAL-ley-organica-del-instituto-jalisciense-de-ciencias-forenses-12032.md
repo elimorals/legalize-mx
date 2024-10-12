@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2020-11-07"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -65,13 +65,21 @@ I. Instituto: Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas
 
 II. Ciencias forenses: el conjunto de conocimientos aplicados al estudio, análisis e investigación de los hechos jurídicamente controvertidos y la participación en éstos de los probables responsables o las partes intervinientes, a través de los estudios de campo o de gabinete verificados mediante técnicas basadas principalmente en las ciencias naturales, exactas, de la salud y sociales, a efecto de proporcionar la información que contribuya a esclarecerlos con objetividad científica.
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-III. Sistema de Ciencias forenses: Conjunto de políticas, planes, programas, documentos y metodologías tendientes a establecer procedimientos estandarizados que permitan regular la actividad pericial en el Estado de Jalisco con criterios técnicos, científicos y conforme dispone la Constitución y demás ordenamientos legales. Así como las relaciones interinstitucionales de los organismos públicos y privados relacionados con las ciencias forenses; y
+III. Sistema de Ciencias forenses: Conjunto de políticas, planes, programas, documentos y metodologías tendientes a establecer procedimientos estandarizados que permitan regular la actividad pericial en el Estado de Jalisco con criterios técnicos, científicos y conforme dispone la Constitución y demás ordenamientos legales. Así como las relaciones interinstitucionales de los organismos públicos y privados relacionados con las ciencias forenses;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IV. Certificación de competencias periciales: Es el documento emitido por el Instituto que reconoce formalmente los conocimientos científicos, técnicos y habilidades en artes y oficios de las personas.
+IV. Certificación de competencias periciales: Es el documento emitido por el Instituto que reconoce formalmente los conocimientos científicos, técnicos y habilidades en artes y oficios de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+V. Banco Estatal de Datos: Banco Estatal de Datos Forenses, establecido en la Ley de Personas Desaparecidas del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VI. Registro Estatal de Personas Fallecidas y No Identificadas: Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas, establecido en la Ley de Personas Desaparecidas del Estado de Jalisco.
 
 ### Capítulo II. De los objetivos y fines del Instituto
 
@@ -125,13 +133,41 @@ XVII. Ejecutar la obra pública necesaria para el cumplimiento de sus atribucion
 
 XVIII. Crear el Registro Estatal de Peritos y Consultores Técnicos con certificado de competencias periciales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XIX. Expedir la constancia relativa a los antecedentes penales, únicamente en los supuestos que establece la Ley Nacional de Ejecución Penal en su artículo 27 fracción IV; y
+XIX. Expedir la constancia relativa a los antecedentes penales, únicamente en los supuestos que establece la Ley Nacional de Ejecución Penal en su artículo 27 fracción IV;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XX. Las demás que establezcan esta ley y su reglamento.
+XX. Tener a su cargo la operación del Registro Estatal de Personas Fallecidas y No Identificadas, así como el Banco Estatal de Datos, como parte del Sistema Estatal de Búsqueda de Personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXI. Ejecutar, en el ámbito de su competencia, las acciones establecidas en el Programa Nacional de Búsqueda y Localización, el Programa Nacional de Exhumaciones e Identificación Forense, en conjunto con las autoridades encargadas de la búsqueda e investigación, en los términos señalados por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y por la Ley de Personas Desaparecidas del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXII. Establecer e implementar las políticas, planes, programas y metodologías tendientes a la búsqueda, recuperación e identificación de personas fallecidas no identificadas; garantizando el abordaje técnico, científico y humano, dentro de los estándares nacionales e internacionales, a efecto de llevar a cabo la restitución digna e informada de la persona fallecida a sus familiares o deudos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXIII. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas para su procesamiento genético;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXIV. Resguardar la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXV. Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel regional, estatal y en su caso nacional, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXVI. Inspeccionar y en su caso intervenir mediante exhumación controlada en los centros de resguardo, cementerios, fosas comunes y todo sitio en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXVII. Las demás que establezcan esta ley y su reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -399,13 +435,17 @@ V. Dirección de Investigación y Capacitación;
 
 VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VII. Dirección de Delegaciones regionales; y
+VII. Dirección de Delegaciones regionales;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VIII. Dirección de Laboratorios.
+VIII. Dirección de Laboratorios; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+IX. Centro de Identificación Humana.
 
 ###### Artículo 16.
 
@@ -471,13 +511,17 @@ V. Dirección de Investigación y Capacitación: le corresponde aplicar el Siste
 
 VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VII. Dirección de Delegaciones: dirigir y coordinar las acciones administrativas, operativas, de dictaminación pericial y todas aquellas derivadas de los servicios que este organismo presta en las diversas delegaciones regionales, con la finalidad de allegar dichos servicios a los municipios del estado; y
+VII. Dirección de Delegaciones: dirigir y coordinar las acciones administrativas, operativas, de dictaminación pericial y todas aquellas derivadas de los servicios que este organismo presta en las diversas delegaciones regionales, con la finalidad de allegar dichos servicios a los municipios del estado;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VIII. Dirección de Laboratorios: obtener mediante los diversos instrumentos, equipos y sistemas de alta tecnología, resultados que aporten datos o medios de prueba mediante la emisión de dictámenes e informes en apoyo a las demás áreas del Instituto y a las instituciones de procuración e impartición de justicia estatales.
+VIII. Dirección de Laboratorios: obtener mediante los diversos instrumentos, equipos y sistemas de alta tecnología, resultados que aporten datos o medios de prueba mediante la emisión de dictámenes e informes en apoyo a las demás áreas del Instituto y a las instituciones de procuración e impartición de justicia estatales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+IX. Centro de Identificación Humana: llevar a cabo a través de un sistema especializado, el procesamiento para la identificación, o en su caso, la búsqueda, recuperación e identificación de personas fallecidas sin identificar, orientado a brindar respuestas satisfactorias, humanas y científicas a familiares de víctimas.
 
 ### CAPITULO VI. De los convenios y contratos
 
@@ -768,3 +812,13 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27986/LXII/20 QUE REFORMA LOS ARTÍCULOS 20, 22 Y 26 DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29582/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado deberá expedir las actualizaciones reglamentarias necesarias para dar cumplimiento a este decreto dentro de los 90 días hábiles siguientes a la entrada en vigor de las reformas a que hace referencia el artículo anterior.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.
