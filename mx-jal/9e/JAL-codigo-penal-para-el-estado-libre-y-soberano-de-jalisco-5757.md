@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2024-10-08"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -5869,7 +5869,7 @@ Para efectos de la fracción I se considera que una resolución es incumplida, c
 
 ### CAPITULO UNICO. Crueldad contra los animales
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Art. 299.
 
@@ -5935,9 +5935,13 @@ II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización an
 
 ###### Art. 305.
 
-Se impondrán de seis a ocho meses de prisión, multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien de manera intencional realice actos de maltrato y crueldad sin que ponga en peligro su vida, causando lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
+Se impondrán de ocho a dieciocho meses y multa de setenta a ciento cincuenta veces el valor diario de (sic) Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien de manera intencional realice actos de maltrato y crueldad sin que ponga en peligro su vida, causando lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
 
-Se impondrán de seis meses a un año de prisión, multa por el equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien con la intención de causar un daño a un animal, realice actos de maltrato y crueldad que lesionen de forma evidente y afecten de manera permanente las funciones físicas de un animal o que pongan en riesgo la vida del mismo.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Se impondrán de doce meses a dos años de prisión, multa por el equivalente de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, a quien, con la intención de causar un daño a un animal, realice actos de maltrato y crueldad que lesionen de forma evidente y afecten de manera permanente las funciones físicas de un animal o que pongan en riesgo la vida de este.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
 
 Cuando el delito se cometa en perjuicio de los animales que se encuentren bajo su resguardo, la pena se agravará en una mitad y se asegurará a los animales maltratados. Para los efectos del presente Capítulo, se consideran actos de crueldad y maltrato en perjuicio de un animal los siguientes:
 
@@ -5951,15 +5955,15 @@ IV. Provocar o inducir a los animales para que se ataquen entre ellos o a las pe
 
 V. La privación de aire, luz, alimento, agua, abrigo o espacio acorde a su especie, que cause o pueda causar un daño al animal.
 
-En los casos de reincidencia o en el abandono de animales en la vía pública o la desatención por periodos prolongados en propiedad privada que pueda comprometer su bienestar, se impondrá una pena de seis meses a dos años de prisión y multa por el equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+En los casos de reincidencia o en el abandono de animales en la vía pública o la desatención por periodos prolongados en propiedad privada que pueda comprometer su bienestar, se impondrá una pena de doce meses a cuatro años de prisión y multa por el equivalente de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Art. 306.
 
-A quien con la intención de causarle un daño le provoque la muerte a un animal, se le impondrán de dos a tres años de prisión, multa de doscientos a mil veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, la inhabilitación profesional en caso de ejercer profesión relacionada con el cuidado animal, así como el aseguramiento de los animales que estén bajo su resguardo.
-
-La pena se incrementará en una mitad a quien a través de la tortura o extrema brutalidad realice actos de crueldad y maltrato en contra de un animal, que tengan como consecuencia el grave sufrimiento y muerte de éste.
+A quien cometa actos de maltrato o crueldad en contra de animales que le provoque la muerte a un animal, se le impondrán de tres a cinco años de prisión, multa de doscientos a mil veces el valor diario de la Unidad de Medida y Actualización, y trabajo en libertad en beneficio de la comunidad, la inhabilitación profesional en caso de ejercer profesión relacionada con el cuidado animal, así como el aseguramiento de los animales que estén bajo su resguardo.
 
 > <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
 
@@ -7396,3 +7400,9 @@ P.O. 8 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29572/LXIII/24 DEL CONGRESO DEL ESTADO QUE DEROGA, REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29576/LXIII/24 DEL CONGRESO DEL ESTADO QUE SE (SIC) REFORMA LOS ARTÍCULOS 305 Y 306 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
