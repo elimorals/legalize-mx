@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2024-09-21"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -73,7 +73,9 @@ I. Seguridad y certeza jurídica de la propiedad o legítima posesión;
 
 II. Disponibilidad de infraestructura, equipamientos y servicios básicos y espacios públicos en el entorno próximo a la vivienda;
 
-III. Habitabilidad de la vivienda, referida a la suficiencia de espacio respecto al número de ocupantes, que permita el disfrute de la intimidad, la integración y el desarrollo personal, familiar y comunitario; las condiciones higiénicas para evitar riesgos a la salud; seguridad estructural; así como adecuadas condiciones constructivas;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+III. Habitabilidad de la vivienda, referida a la suficiencia de espacio respecto al número de ocupantes, que permita el disfrute de la intimidad, la integración y el desarrollo personal, familiar y comunitario; las condiciones higiénicas para evitar riesgos a la salud; seguridad estructural, así como adecuadas condiciones constructivas;
 
 IV. Asequibilidad, entendida como la posibilidad equitativa de acceso al derecho a una vivienda digna y adecuada para todas las personas, sin distingos de alguna especie;
 
@@ -941,7 +943,9 @@ Las acciones para la producción y el mejoramiento de la vivienda se sujetarán 
 
 El Gobierno del Estado en coordinación con las autoridades competentes tanto federales como municipales, promoverá, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con:
 
-I. Los espacios habitables y de higiene suficientes en función al número de usuarios;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+I. Los espacios habitables, de higiene y protección a la salud suficientes en función al número de usuarios y para disminuir los riesgos de enfermedades transmitidas por vectores;
 
 II. Provea de los servicios de agua potable, energía eléctrica y el saneamiento; descarga y reutilización de aguas residuales, observando lo dispuesto por la Ley de Aguas Nacionales;
 
@@ -1179,7 +1183,11 @@ X. Investigación, asesoría y apoyo técnico; y
 
 XI. Promover la realización de un dictamen valuatorio basado en los lineamientos técnicos y jurídicos en materia de valuación de vivienda social emitidos por perito valuador certificado; y
 
-XII. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XII. Establecer vínculos institucionales, de asistencia técnica y de innovación arquitectónica y tecnológica para el diseño, construcción y equipamiento asequible y sostenible de viviendas que contribuyan a disminuir la incidencia de las enfermedades de transmisión vectorial.
+
+XIII. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 ## TÍTULO OCTAVO. DE LA INTEGRACIÓN DE INFORMACIÓN E INDICADORES DE VIVIENDA
 
@@ -1444,3 +1452,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
 
 CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca deberá armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de su respectiva entrada en vigor.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2409.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 2, LA FRACCIÓN I DEL ARTÍCULO 47; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 66, RECORRIÉNDOSE LA SUBSECUENTE EN SU RESPECTIVO ORDEN DE NUMERACIÓN, DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
+
+PREMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
