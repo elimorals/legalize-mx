@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2024-08-24"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -277,9 +277,17 @@ VIII. Asegurar que la planeación de política pública y presupuestal incorpore
 
 IX. Promover acciones afirmativas para la incorporación y fortalecimiento de las mujeres en la vida económica, sobre todo en los pueblos y comunidades indígenas y afromexicanas;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE OCTUBRE DE 2024)</small>
 
-X. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo doméstico y en el cuidado de hijos e hijas;
+X. Impulsar la cultura de la corresponsabilidad en el ámbito familiar, mediante programas, medidas, campañas y acciones en lo general, cuyo objetivo sea el de fomentar:
+
+A. La equidad en la repartición de las tareas domésticas;
+
+B. La regulación equitativa del cuidado de los hijos e hijas y de las demás personas dependientes;
+
+C. El trabajo emocional de la familia;
+
+D. Cualquier otro tema relacionado con la corresponsabilidad familiar;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -289,9 +297,9 @@ XI. La utilización de un lenguaje no sexista en el ámbito administrativo y su 
 
 XII. Promover la eliminación de la brecha salarial entre mujeres y hombres que realizan un mismo trabajo o un trabajo de igual valor, y de todas las condiciones laborales de desigualdad;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XIII. Asegurar la accesibilidad a la justicia y el pleno ejercicio de los derechos de las mujeres;
+XIII. Garantizar el acceso a la justicia con perspectiva de género y el pleno ejercicio de los derechos de las mujeres;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -984,3 +992,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal e (sic) lo que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2439.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES X Y XIII DEL ARTÍCULO 13 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
