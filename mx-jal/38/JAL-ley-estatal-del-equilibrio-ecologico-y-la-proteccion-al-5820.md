@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2022-11-15"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -943,9 +943,17 @@ III. Desarrollos inmobiliarios y nuevos centros de población que no se localice
 
 IV. Proyectos, obras y acciones urbanísticas que se desprendan de los planes y programas municipales de desarrollo urbano, siempre y cuando su regulación no corresponda a los gobiernos municipales;
 
-V. Aquellas obras y actividades que incidan en dos o más municipios y que su control no se encuentre reservado a la federación, cuando por su ubicación, dimensiones o características puedan producir impactos ambientales significativos sobre el medio ambiente; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VI. Las demás que no sean competencia de la federación ni de los gobiernos municipales.
+V. Aquellas obras y actividades que incidan en dos o más municipios y que su control no se encuentre reservado a la federación, cuando por su ubicación, dimensiones o características puedan producir impactos ambientales significativos sobre el medio ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VI. Obras o actividades que pretendan realizarse dentro de áreas naturales protegidas de carácter estatal siempre que no se trate de obras o actividades de naturaleza reservadas a la federación; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VII. Las demás que no sean competencia de la federación ni de los gobiernos municipales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -987,7 +995,15 @@ Una vez evaluado el estudio de impacto ambiental, la autoridad estatal o municip
 
 I. Otorgar la autorización para la ejecución de la obra o la realización de la actividad de que se trate, en los términos solicitados;
 
-II. Negar dicha autorización; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+II. Negar dicha autorización, cuando:
+
+a) Se contravenga lo establecido en esta Ley, sus reglamentos, las normas oficiales mexicanas, instrumentos de regulación del uso de suelo y demás disposiciones aplicables;
+
+b) Por los efectos acumulativos con otras actividades impactantes en la región, se determine un riesgo de impactos significativos; o
+
+c) Exista falsedad en la información proporcionada por los promoventes en el estudio de impacto ambiental.
 
 III. Otorgar la autorización condicionada a la modificación del proyecto de la obra o actividad, a fin de que se eviten o atenúen los impactos ambientales adversos, susceptibles de ser producidos en la operación normal y aún en caso de accidente. Cuando se trate de autorizaciones condicionadas, la autoridad estatal o municipal, según corresponda, señalará los requerimientos que deban observarse para la ejecución de la obra o realización de la actividad prevista.
 
@@ -1351,6 +1367,10 @@ V. Áreas destinadas voluntariamente a la conservación.
 
 En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se refieren los artículos anteriores, participarán los poseedores y propietarios de los terrenos, así como los habitantes del área en estudio, de conformidad con los acuerdos de concertación que al efecto se celebren, con el objeto de propiciar el desarrollo integral de las comunidades y asegurar la protección de los ecosistemas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+En las zonas núcleo de las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 47.
@@ -1368,6 +1388,10 @@ Las formaciones naturales son áreas que contienen uno o varios elementos natura
 ###### Artículo 49.
 
 Las áreas estatales de protección hidrológica son aquellas destinada (sic) a la preservación de ríos, manantiales, humedales y aguas subterráneas, a través de la protección de cuencas, áreas boscosas, llanuras y todas aquellas áreas que tengan impacto en las fuentes de producción y/o abastecimiento de agua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Una vez emitido el decreto correspondiente, el Estado deberá implementar un sistema de monitoreo que permita verificar el cumplimiento del mismo.
 
 ###### Artículo 50.
 
@@ -3500,3 +3524,9 @@ P.O. 15 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28853/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 41 TER, FRACCIONES III, V Y VI DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29559/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 28, 31, 46 Y 49 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
