@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-servicio-de-proteccion-para-el-estado-de-jalisco-y-1320
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-11"
-last_updated: "2018-12-11"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SERVICIO DE PROTECCIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección IV al Número 27 del Periódico Oficial del Estado de Jalisco, el martes 11 de diciembre de 2018.
 
@@ -67,11 +67,17 @@ VIII. Sujetos de Protección: todas las personas que cuentan con servicios de pr
 
 ###### Artículo 3.
 
-1. Serán sujetos de protección en términos de la presente ley y conforme al Dictamen Técnico y la Declaratoria de Protección correspondiente los titulares de los poderes Ejecutivo, Legislativo, y Judicial, organismos constitucionales autónomos, ayuntamientos y sus dependencias, así como para los organismos públicos descentralizados del Poder Ejecutivo del Estado y de los Municipios, empresas o asociaciones de participación estatal o municipal mayoritaria, en que por leyes, decretos, reglamentos o convenios llegue a establecerse su aplicación, los que directamente les auxilien en ejercicio de éste y aquellos que pudieren suplirles en sus ausencias y sus allegados. De igual forma, podrán ser susceptibles de similar protección, las personas físicas o jurídicas que por la naturaleza de sus actividades y preponderancia en materia económica y social, requieran la aludida protección.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-2. La asignación del personal permanente para la protección de funcionarios que deberán contar con protección continua, será para los siguientes funcionarios: Gobernador, Secretario General de Gobierno, Fiscal Estatal, Coordinador General Estratégico de Seguridad, Secretario de Seguridad, Fiscal Regional, encargado de la Reinsersión (sic) Social, Secretario de Transporte y Presidente del Supremo Tribunal de Justicia o quienes realicen sus funciones.
+1. Serán sujetos de protección en términos de la presente ley y conforme al Dictamen Técnico y la Declaratoria de Protección correspondiente los titulares de los poderes Ejecutivo, Legislativo y Judicial, organismos constitucionales autónomos, ayuntamientos y sus dependencias, así como para los organismos públicos descentralizados del Poder Ejecutivo del Estado y de los Municipios, empresas o asociaciones de participación estatal o municipal mayoritaria, en que por leyes, decretos, reglamentos o convenios llegue a establecerse su aplicación, los que directamente les auxilien en ejercicio de éste y aquellos que pudieren suplirles en sus ausencias y sus allegados. De igual forma, podrán ser susceptibles de similar protección, las personas buscadoras, las personas físicas o jurídicas, que, por la naturaleza de sus actividades y preponderancia en materia económica y social, requieran la aludida protección.
 
-3. Si algún Servidor Público desempeña o desempeño dos o más cargos de los enunciados en el numeral que antecede, únicamente se le asignara el número de personas que requiera el de mayor protección.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+2. La asignación del personal permanente para la protección de funcionarios que deberán contar con protección continua, será para los siguientes funcionarios: Gobernador, Secretario General de Gobierno, Fiscal Estatal, las personas titulares de las Fiscalías Especializadas y Especiales, Jefe de Gabinete Estatal, Coordinador General Estratégico de Seguridad, Secretario de Seguridad, Fiscal Regional, encargado de la Reinserción Social, Secretario de Transporte y Presidente del Supremo Tribunal de Justicia o quienes realicen sus funciones.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+3. Si algún Servidor Público desempeña o desempeñó dos o más cargos de los enunciados en el numeral que antecede, se le asignará el número de personas que requiera el de mayor protección. Los ex funcionarios, tendrán derecho a la asignación del servicio de protección, en dicha calidad, con el número de personas que correspondan al nivel máximo de protección que se le hubiera asignado, por el plazo que corresponda a la suma de los encargos desempeñados.
 
 4. La asignación de personal se realizará de conformidad al dictamen técnico que así lo sustente, debiéndose aprobar en los términos de la presente ley.
 
@@ -81,7 +87,9 @@ VIII. Sujetos de Protección: todas las personas que cuentan con servicios de pr
 
 7. Las medidas de protección previstas en este artículo sólo podrán suspenderse por causa justificada y mediante dictamen técnico que así lo justifique emitido por el Consejo.
 
-8. En lo que ve a los ex funcionarios, las medidas de seguridad permanecerán aún después de concluido el cargo, hasta por un plazo similar aquel en que haya desempeñado el mismo. Los gastos de operación y mantenimiento de los vehículos, así como los viáticos de los elementos asignados, correrán por cuenta del ex funcionario a quien se brinde el servicio.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+8. Las medidas de seguridad para ex funcionarios, concluido el plazo a que hace referencia el numeral 3 de este artículo, permanecerán conforme a lo que determine el dictamen técnico. Los gastos de viáticos de los elementos asignados, correrán por cuenta del ex funcionario a quien se brinde el servicio.
 
 ###### Artículo 4.
 
@@ -187,49 +195,7 @@ CUARTO. A la entrada en vigor del presente decreto, en un termino de diez días,
 
 El titular de la dependencia deberá solicitar los dictámenes correspondientes para que se liberen las órdenes de protección que por ley se deben de prestar.
 
-QUINTO. Quien hubiera desempeñado los siguientes cargos, tendrá derecho a la asignación de elementos para su protección por el termino de ley, debiéndose emitir el dictamen técnico de conformidad al siguiente cuadro:
-
-Cargo Personal Vehículos
-
-asignado blindados
-
-por día
-
-Gobernador 18 2
-
-Secretario
-
-General de
-
-Gobierno 4 1
-
-Fiscal General 18 2
-
-Secretario de
-
-Seguridad Pública 10 2
-
-Fiscal Central 4 1
-
-Fiscales Regionales 4 1
-
-Fiscal de
-
-Readaptación
-
-Social 4 1
-
-Secretario de
-
-Movilidad y
-
-Transporte 2 1
-
-Presidente del
-
-Supremo Tribunal
-
-de Justicia 2 1
+QUINTO. (DEROGADO, P.O. 12 DE OCTUBRE DE 2024)
 
 SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el artículo que anteceden (sic) podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
 
@@ -272,3 +238,17 @@ El Secretario General de Gobierno
 JUAN ENRIQUE IBARRA PEDROZA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29583/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 3 DE LA LEY DEL SERVICIO DE PROTECCIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y DEROGA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 27216/LXII/18”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de Seguridad Pública podrá revalorar los dictámenes técnicos por los que hubiera otorgado el servicio de protección, en los términos del presente Decreto.
