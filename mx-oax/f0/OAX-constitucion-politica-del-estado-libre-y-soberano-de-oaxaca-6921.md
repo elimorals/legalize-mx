@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-09-10"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -693,9 +693,9 @@ El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades
 
 La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas y al pueblo y comunidades afromexicanas, así como las sanciones que procedan para el caso de incumplimiento.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas y afromexicanas, el Estado tiene la obligación de asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición mediante programas de alimentación, en especial para la población vulnerable.
+Para asegurar el acceso efectivo a los servicios de salud, se reconoce el uso de la medicina tradicional de los pueblos y comunidades indígenas y afromexicanas, para el tratamiento de las enfermedades y el mejoramiento de la salud de las personas. El estado tiene la obligación de apoyar la nutrición mediante programas de alimentación, en especial para la población vulnerable.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -6730,3 +6730,13 @@ Al finalizar el periodo de la y los actuales integrantes de la Sala Superior, o 
 QUINTO. El Honorable Congreso del Estado de Oaxaca contará con 90 días hábiles para realizar las reformas legales necesarias, a fin de armonizar la legislación estatal en materia de procedimientos y justicia administrativa con las adiciones legales contenidas en el presente Decreto.
 
 Dichas reformas deberán incluir de manera enunciativa la regulación de los procedimientos administrativos de la Administración Pública Estatal y municipal, la regulación de los actos materialmente administrativos de los Poderes del Estado y los órganos constitucionales autónomos, así como el juicio especial de resolución de controversias administrativas entre los municipios y sus agencias.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2433.- MEDIANTE EL CUAL REFORMA EL UNDÉCIMO PÁRRAFO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Honorable Congreso del Estado tendrá 90 días para ajustar sus leyes secundarias para el cumplimiento de lo previsto en el presente Decreto.
