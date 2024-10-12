@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-09-21"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -53,7 +53,9 @@ I. Incorporar en las políticas públicas del Estado y sus Municipios los princi
 
 II. Prevenir, atender, sancionar y erradicar las conductas políticas, sociales y culturales que justifican y alientan la violencia de género contra las mujeres; a fin de propiciar un estilo de relaciones humanas basadas en el respeto de sus derechos fundamentales de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado Mexicano;
 
-III. Instrumentar acciones permanentes de información y sensibilización en los municipios del Estado, con el propósito de prevenir la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+III. Instrumentar acciones permanentes de información y sensibilización en los municipios del Estado, y en lenguas indígenas, con el propósito de prevenir la violencia de género contra las mujeres de todas las edades y discriminación interseccional;
 
 IV. Garantizar a las mujeres un trato digno así como atención integral y especializada para las víctimas de violencia de género, sus hijas e hijos, testigos y profesionales intervinientes, por parte del Estado y los Municipios;
 
@@ -75,9 +77,13 @@ IX. Asegurar la concurrencia, alineación y optimización de recursos e instrume
 
 X. Generar una cultura de legalidad y de denuncia de actos violentos contra mujeres; y
 
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XI. Garantizar a las mujeres indígenas y afromexicanas una perspectiva intercultural en el tratamiento de la violencia, que incluya protección específica y la reparación del daño con respeto a los sistemas normativos indígenas en términos de la Constitución Federal, la Constitución Local, los tratados internacionales y las leyes aplicables en la materia.
+
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE MAYO DE 2018)</small>
 
-XI. Las demás que señale esta Ley, su Reglamento y otras disposiciones legales aplicables.
+XII. Las demás que señale esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 El titular del Poder Ejecutivo Estatal asignará en el proyecto de Presupuesto de Egresos del Estado, una partida destinada al cumplimiento de los objetivos de la presente Ley
 
@@ -112,6 +118,10 @@ II. El respeto a la dignidad humana de las mujeres;
 III. La no discriminación; y
 
 IV. La libertad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+En el caso de las mujeres indígenas y afro mexicanas (sic), estos principios incluyen el respeto y salvaguarda de sus derechos colectivos como integrantes de pueblos y comunidades indígenas y afro mexicanas (sic)
 
 ###### Artículo 6.
 
@@ -167,25 +177,35 @@ XVI. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres
 
 XVII. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS AL DECRETO NÚM. 2440 DE FECHA 12 DE OCTUBRE DE 2024 QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 6, SE ADVIERTE QUE MODIFICA EL CONTENIDO DE ESTA FRACCIÓN XVIII]</small>
 
-XVIII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XVIII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XIX. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan (sic) en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XX. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas, y
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XIX. Protocolo Alba: Es el mecanismo institucional que permite la coordinación inmediata de los ámbitos de competencia y responsabilidades de los tres órdenes de gobierno en la promoción y ejecución de actividades conducentes para la localización de mujeres con denuncia o reporte de desaparición, extravío o no localización.
+XXI. Protocolo Alba: Es el mecanismo institucional que permite la coordinación inmediata de los ámbitos de competencia y responsabilidades de los tres órdenes de gobierno en la promoción y ejecución de actividades conducentes para la localización de mujeres con denuncia o reporte de desaparición, extravío o no localización.
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XX. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de manera individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican, y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades; a través de programas integrales y gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres, con el objeto de la reinserción social del agresor. Este proceso deberá basarse y orientarse a la prevención de la violencia contra las mujeres, a través de procesos educativos y socioculturales, orientados a erradicar y garantizar la no repetición de la violencia contra las mujeres.
+XXII. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de manera individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades; a través de programas integrales y gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres, con el objeto de la reinserción social del agresor. Este proceso deberá basarse y orientarse a la prevención de la violencia contra las mujeres, a través de procesos educativos y socioculturales, orientados a erradicar y garantizar la no repetición de la violencia contra las mujeres.
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-XX (SIC). Espacio Público: Espacios abiertos, áreas o predios destinados al uso y disfrute colectivo, con acceso generalizado y libre tránsito.
+XXIII. Espacio Público: Espacios abiertos, áreas o predios destinados al uso y disfrute colectivo, con acceso generalizado y libre tránsito.
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-XX (SIC). Espacios seguros: Lugar al cual, toda mujer pueda acudir cuando se sienta en alguna situación de riesgo, vulnerabilidad o amenazada a fin de que pueda recibir apoyo inmediato para salvaguardar su integridad, así como para poder recibir información relacionada con la autoprotección ante situaciones de riesgo y números telefónicos de emergencia.
+XXIV. Espacios seguros: Lugar al cual, toda mujer pueda acudir cuando se sienta en alguna situación de riesgo, vulnerabilidad o amenazada a fin de que pueda recibir apoyo inmediato para salvaguardar su integridad, así como para poder recibir información relacionada con la autoprotección ante situaciones de riesgo y números telefónicos de emergencia.
 
 ###### Artículo 7.
 
@@ -793,15 +813,21 @@ Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la m
 
 Tratándose de órdenes de protección que involucren a niños, niñas y adolescentes indígenas o afromexicanas, la autoridad emisora deberá dar aviso inmediato a la Procuraduría Estatal de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, a la Secretaría de Pueblos Indígenas y Afromexicano y a la Secretaría del Sistema Local de Protección de los derechos de niñas, niños y adolescentes, para que en el ámbito de su competencia se proceda de manera coordinada con la protección del menor.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 24 Quinquies.
 
-Las órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud, aún sin que exista un proceso jurisdiccional previo.
+Las órdenes de protección podrán solicitarse en cualquier municipio y entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio y la materia pueda ser usada como excusa para no recibir la solicitud y emitir las órdenes de protección correspondientes, aún sin que exista un proceso jurisdiccional previo.
 
-Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección. En caso de que alguna mujer en situación de violencia, proveniente de otra entidad federativa solicite la protección, se le brindará sin mayor dilación, independientemente de la emisión posterior que por competencia corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
 
@@ -3252,6 +3278,26 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 21 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2412.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 18, LAS FRACCIONES V, XVIII Y XIX DEL ARTÍCULO 42, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 51, LA FRACCIÓN VI DEL ARTÍCULO 58, LA DENOMINACIÓN DEL CAPÍTULO PRIMERO "DE LA PREVENCIÓN DE LA VIOLENCIA Y LAS UNIDADES DE ATENCIÓN INTEGRAL Y LOS ESPACIOS SEGUROS" DEL TÍTULO IV, EL ARTÍCULO 72, EL ARTÍCULO 75; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 6, LA FRACCIÓN VI AL ARTÍCULO 20 BIS Y EL ARTÍCULO 74 BIS A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2437.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 24 QUINQUIES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2440.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 2, Y LA FRACCIÓN XVII (SIC) DEL ARTÍCULO 6; Y SE ADICIONA LA FRACCIÓN XI, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 2; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5, Y LAS FRACCIONES XIX Y XX RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 6 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
