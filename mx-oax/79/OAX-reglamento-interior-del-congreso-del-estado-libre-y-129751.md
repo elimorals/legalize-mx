@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2024-10-05"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1339,7 +1339,9 @@ En casos de contingencia sanitaria, por indicaciones de protección civil, segur
 
 De manera excepcional, cuando el Congreso suspenda sus actividades presenciales, por razones de salubridad, protección civil, seguridad pública o cualquier otra contingencia que ponga en riesgo la integridad del personal de la legislatura, las iniciativas, podrán presentarse y tramitarse ante el área respectiva, por correo electrónico o cualquier herramienta tecnológica disponible que garantice la eficacia y legalidad del acto, obteniéndose de la misma forma el acuse de recibo respectivo.
 
-Una vez presentada, la iniciativa será turnada a la comisión o comisiones correspondientes para su dictaminación.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Una vez presentada, la iniciativa será turnada a la comisión o comisiones correspondientes para su dictaminación, publicándose en el orden del día correspondiente de la Gaceta Parlamentaria, dentro de las veinticuatro horas siguientes de celebrada la sesión, el dictado de turno.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
@@ -3214,3 +3216,13 @@ P.O. 5 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2444.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DEL ARTÍCULO 40 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 55 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
