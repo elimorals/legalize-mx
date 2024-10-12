@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2024-03-30"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -445,11 +445,17 @@ IX.- Poner en conocimiento del Titular o responsable de la Entidad Pública o De
 
 ### CAPÍTULO QUINTO BIS. DE LAS MODALIDADES DE TRABAJO
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-ARTICULO 37 BIS.- La prestación del servicio por los empleados de los Poderes del Estado podrá ser de manera presencial o a distancia.
+ARTICULO 37 BIS.- La prestación del servicio por los empleados de los Poderes del Estado podrá ser de manera presencial o a distancia esta última se otorgará preferentemente a las y los trabajadores que, por sus condiciones físicas, el desplazamiento o la permanencia en el centro de trabajo resulte un mayor riesgo para su salud e integridad.
 
-Se considera presencial cuando el empleado realice sus labores dentro de su centro de trabajo ordinario, y será a distancia cuando las desempeñe eficazmente de manera no presencial a través de las plataformas de comunicación, siendo esta segunda una modalidad extraordinaria, por lo que solo será aplicable en circunstancias excepcionales, por causas sanitarias, de seguridad pública o de gobernabilidad, previa declaración o decreto emitido por las autoridades correspondientes.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Se considera presencial cuando el empleado realice sus labores dentro de su centro de trabajo ordinario, y será a distancia cuando las desempeñe eficazmente de manera no presencial a través de las herramientas tecnológicas, las cuales deberán garantizar la eficacia de los actos y el derecho a la intimidad de las y los trabajadores. El trabajo a distancia es una modalidad extraordinaria por lo que solo será aplicable en circunstancias excepcionales que indiquen las autoridades de protección civil, de salud y seguridad pública del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Para efectos del presente artículo se entiende como herramientas tecnológicas, al conjunto de servicios, infraestructura, redes, software, aplicaciones informáticas y dispositivos que tienen como propósito facilitar las tareas y funciones de trabajo, así como las que se necesitan para la gestión y transformación de la información, en particular los componentes tecnológicos que permiten crear, modificar, almacenar, proteger y recuperar esa información.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
@@ -1197,8 +1203,18 @@ TERCERO. Se derogan todas las disposiciones legales de menor jerarquía que se o
 
 P.O. 30 DE MARZO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1933.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 QUÁTER A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1933.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 QUÁTER A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2446.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO; Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 37 BIS DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Los poderes Ejecutivo, Legislativo y Judicial, deberán expedir en un plazo de 60 días naturales los lineamientos generales que regirán esta relación laboral.
