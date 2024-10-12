@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2024-03-09"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1269,11 +1269,11 @@ La información que se dé a conocer sobre el deudor deberá proteger los datos 
 
 ### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del registro civil
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 122.
 
-Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; en el mismo sentido o por actuación ante Notario Público, con el testimonio correspondiente, lo relativo a la aclaración a que se refiere el artículo 758 del Código de Procedimientos Civiles del Estado de Jalisco; las testaduras que se deban efectuar en las mismas, se llevarán a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
+Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; en el mismo sentido o por actuación ante el Oficial del Registro Civil que corresponda o ante Notario Público, con el testimonio correspondiente, lo relativo a la aclaración a que se refiere el artículo 758 del Código de Procedimientos Civiles del Estado de Jalisco; las testaduras que se deban efectuar en las mismas, se llevarán a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 15 DE JUNIO DE 1999)
 
@@ -1297,11 +1297,11 @@ I. Cuando habiendo ocurrido realmente el acto y hayan intervenido personas legal
 
 II. Cuando se solicite variar algún nombre puesto erróneamente u otra circunstancia esencial.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 126.
 
-No será permitido a persona alguna cambiar su nombre o modificarlo, pero si alguien hubiere sido conocida con nombre diferente al que aparece en su acta, declarado este hecho por sentencia ejecutoria se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primeramente se haya asentado en los libros del registro.
+No será permitido a persona alguna cambiar su nombre o modificarlo, pero si alguien hubiere sido conocida con nombre diferente al que aparece en su acta, se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primeramente se haya asentado en los libros del registro.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 15 DE JUNIO DE 1999)
 
@@ -1315,15 +1315,19 @@ II. En los casos de desconocimiento, reconocimiento de la paternidad o maternida
 
 III. En el caso de homonimia que le cause un perjuicio podrá pedirse al juez competente del lugar donde esté asentada el acta de nacimiento, autorice transformar el primero de los apellidos de simple a compuesto o de compuesto a simple.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 126], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 128.
 
-Procede la aclaración cuando se trate de errores ortográficos, de impresión que sea manual, mecánica, eléctrica o electrónica, numéricos y otros meramente accidentales que no afecten los datos esenciales.
+Procede la aclaración en los siguientes casos:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+I. Cuando se trate de errores ortográficos, de impresión que sea manual, mecánica, eléctrica o electrónica, numéricos y otros meramente accidentales;
 
-También procederá la aclaración cuando los ascendientes hayan rectificado o aclarado sus actas y sea interés de los descendientes modificar las propias en los mismos términos.
+II. Cuando exista abreviatura de nombres propios y que existan documentos públicos y privados que lo acrediten;
+
+III. Cuando el registrado ha venido utilizando una fecha de nacimiento o un nombre propio diverso al asentado en el acta y solicite ajustarlo a la realidad social, sin que se afecte su filiación o implique un cambio en su capacidad de ejercicio, y no se trate de los apellidos; y siempre que al tratarse de la fecha de nacimiento, la solicitud no se contraponga con la fecha de registro; y
+
+IV. Cuando los ascendientes hayan rectificado o aclarado sus actas y sea interés de los descendientes modificar las propias en los mismos términos.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 15 DE JUNIO DE 1999)
 
@@ -1858,3 +1862,9 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29532/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16 DE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS Y LOS ARTÍCULOS 42 Y 43 DE LA LEY DEL REGISTRO CIVIL, Y EL ARTÍCULO 491 DEL CÓDIGO CIVIL, TODOS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29574/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN EL ARTÍCULO 63 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; ASÍ COMO LOS ARTÍCULOS 122, 126 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
