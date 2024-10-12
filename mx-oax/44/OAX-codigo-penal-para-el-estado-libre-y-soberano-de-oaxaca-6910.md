@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-08-31"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3145,7 +3145,15 @@ Decretado auto de vinculación a proceso en contra del agresor, se le suspender�
 
 En lo aplicable y conducente, se sancionará con las mismas penas al que ejerza la tutela o la guarda de una persona privada de razón o sujeta a estado de interdicción por las lesiones que cause a ésta.
 
-282.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, lo suelte o haga ésto último por descuido.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+282.- De las lesiones que a una persona cause algún animal, será responsable la persona que con esa intención lo azuce, lo suelte o haga esto último por descuido.
+
+En lo aplicable y conducente, se sancionará con las mismas penas que establecen los artículos 272 al 277 de este Código según la lesión que se haya inferido.
+
+Si la víctima fuera persona menor de edad, adulta mayor o persona con discapacidad, la pena correspondiente aumentará en un tercio.
+
+Conforme a lo establecido en el primer párrafo, se entenderá por animales a los animales domésticos, que son especies criadas, reproducidas y que conviven con las personas pero que no pertenecen a la fauna salvaje; animales de compañía, al animal feroz, por el que se entenderá al animal que no es ordinariamente domesticable o es peligrosos (sic) para los seres humanos por su agresividad, costumbres, tamaño o fuerza.
 
 283.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 
@@ -3320,6 +3328,14 @@ La ventaja no se tomará en consideración en los tres primeros casos, si el que
 I.- Declarar a los infractores sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar o municipio o residir en él.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+305 Bis.- De la muerte que a una persona cause algún animal será responsable el que con esa intención lo azuce, lo suelte o haga esto último por descuido.
+
+En el caso señalado en el párrafo anterior, al responsable del animal se le aplicarán las penas que correspondan conforme al capítulo de homicidio y conforme a la clasificación que para tal efecto hace este Código en los Capítulos correspondientes tratándose de delito doloso o culposo según corresponda.
+
+Si la víctima fuera persona menor de edad, adulta mayor o persona con discapacidad, la pena correspondiente aumentará en un tercio.
 
 ### CAPITULO V.
 
@@ -4924,6 +4940,10 @@ IV. Posea o administre una propiedad en la que se realicen peleas de perros con 
 V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
 
 VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VII. Azuce o suelte animales que causen lesiones o actos de sufrimiento en otros animales.
 
 La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
 
@@ -6542,3 +6562,11 @@ P.O. 31 DE AGOSTO DE 2024.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2428.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 282; SE ADICIONA EL ARTÍCULO 305 BIS Y LA FRACCIÓN VII AL ARTÍCULO 419 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
