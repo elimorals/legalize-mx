@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2024-02-17"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2793,7 +2793,15 @@ civil a diversas oficialías más el costo de las
 
 mismas 5.00
 
-m) Los demás actos, cada uno 1.00
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+m) Por el levantamiento del acta de nacimiento
+
+para el reconocimiento de identidad de género 0.00
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+n) Los demás actos, cada uno 1.00
 
 II. A domicilio:
 
@@ -4336,3 +4344,11 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos procederán a revisar y realizar las adecuaciones normativas a la reglamentación municipal que se relacionen con los preceptos contenidos en este instrumento, lo que deberán hacer en un plazo que no excederá de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 496.- POR EL QUE SE REFORMA EL INCISO M) Y SE ADICIONA EL INCISO N), AMBOS DE LA FRACCIÓN I DEL ARTÍCULO 82, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
