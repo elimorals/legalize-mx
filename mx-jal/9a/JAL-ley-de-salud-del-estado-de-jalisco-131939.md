@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2024-07-13"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1419,15 +1419,17 @@ Atención Integral de la Salud de la Mujer. Cartilla Nacional de Salud.
 
 ### CAPÍTULO III. DE LA ATENCIÓN MATERNO-INFANTIL
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 100.
 
 Atención Materno-Infantil. Carácter Prioritario.
 
 1. La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA [ N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
 
-I. La atención Integral de la mujer durante el embarazo, parto y puerperio, la detección de riesgos de muerte materna, incluyendo la atención psicológica que requiera.
+I. La atención multidisciplinaria de la mujer durante el embarazo, parto y puerperio, incluyendo los casos en los que haya muerte gestacional o perinatal, así como la detección de riesgos de muerte materna;
 
 Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el artículo 6 de la Ley de Salud Mental para el Estado de Jalisco, con estricto respeto de sus derechos humanos, a su dignidad y cultura.
 
@@ -1441,21 +1443,27 @@ IV. Las instituciones del Sector de Salud, tendrán la obligación de informar a
 
 V. El diagnóstico oportuno de condiciones de salud del neonato y detección de enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado y su salud visual;
 
-VI. La prevención, detección oportuna y, en su caso, tratamiento de enfermedades en los neonatos prematuros, para prevenir la ceguera por retinopatía y la sordera; para lo cual se realizarán la revisión de la retina y la aplicación del tamiz auditivo; el tamiz oftalmológico se practicará a la cuarta semana del nacimiento.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VII. La prevención y erradicación de prácticas médicas que puedan lastimar o denigrar a la mujer durante el embarazo, parto y puerperio; y
+VI. La prevención, detección oportuna y, en su caso, tratamiento de enfermedades en los neonatos prematuros, para prevenir la ceguera por retinopatía y la sordera; para lo cual se realizarán la revisión de la retina y la aplicación del tamiz auditivo; el tamiz oftalmológico se practicará a la cuarta semana del nacimiento;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VII. La prevención y erradicación de prácticas médicas que puedan lastimar o denigrar a la mujer durante el embarazo, parto y puerperio, incluyendo los casos en los que ocurra muerte gestacional o perinatal garantizando una atención respetuosa para la protección de los derechos humanos de las mujeres; y
 
 VIII. Las demás establecidas en la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 101.
 
-Atención Materno-Infantil. Prevención de la Mortalidad Materno-Infantil.
+Atención Materno-Infantil.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+Prevención de la Mortalidad Materno-Infantil.
 
 1. En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los sistemas para el desarrollo integral de la familia, estatal y municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud.
 
-2. En los establecimientos en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna y perinatal.
+2. En los establecimientos en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna, perinatal e infantil.
 
 ###### Artículo 102.
 
@@ -1475,11 +1483,25 @@ Atención Materno-Infantil. Parto Digno.
 
 2. La unidades médicas públicas o privadas en que se asista a la madre en el momento del alumbramiento, deberá informar a la Dirección General del Registro Civil del Estado, la relación de los nacimientos que se registraron en su unidad en los términos en que la Dirección establezca, mediante el formato electrónico que para tal efecto expida la Dirección General del Registro Civil.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Artículo103 Bis. Atención Materno-Infantil. De la Muerte Gestacional o Perinatal.
+
+1. Las instituciones del sector salud capacitarán al personal profesional, auxiliar y técnico de la salud para que el trato y atención en los casos de la muerte gestacional o perinatal sea de manera, ética, respetuosa y humana;
+
+2. La atención en los casos de muerte gestacional o perinatal deberá ser multidisciplinaria garantizando el trato ético, respetuoso y humanitario.
+
+3. En casos de muerte gestacional o perinatal, las mujeres tienen el derecho a recibir la información necesaria, oportuna, clara y veraz, y la orientación necesaria de los procesos de inhibición de la lactancia materna, así como la de donación de leche materna.
+
+4. En casos de muerte gestacional o perinatal, las mujeres tendrán derecho a ser acompañadas por la persona de su elección y confianza, salvo por razones de seguridad sanitaria o porque represente un riesgo clínico justificado, a efecto de ayudar a afrontar el duelo.
+
 ###### Artículo 104.
 
 Atención Materno-Infantil. Procedimientos.
 
 1. En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado, establecerán procedimientos que permitan la participación activa de la familia, en la prevención y atención oportuna de los padecimientos de los usuarios, sin perjuicio de las actividades que, conforme a los ordenamientos jurídicos que los crearon, correspondan a los Sistemas para el Desarrollo Integral de la Familia, Estatal y Municipales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 105.
 
@@ -1491,11 +1513,15 @@ I. Acciones de orientación y vigilancia institucional, capacitación y fomento 
 
 II. La instalación de lactarios en los centros de trabajo de los sectores público y privado;
 
-III. Los programas para padres, destinados a promover la atención materno-infantil y abatir la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+III. Los programas para madres y padres, destinados a promover la atención materno-infantil y abatir la violencia intrafamiliar;
 
 IV. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y a promover la salud física y mental de sus integrantes;
 
-V. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas,
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+V. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las personas menores de edad y mujeres embarazadas;
 
 VI. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención;
 
@@ -1503,13 +1529,17 @@ VI. El establecimiento de programas de información y sensibilización, adecuado
 
 VII. La generación de políticas públicas para la disminución de embarazos de alto riesgo, de nacimientos prematuros y de ceguera por retinopatía del prematuro;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VIII. El establecimiento de programas de información de los servicios de salud en materia de atención materno-infantil, que faciliten el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos; y
+VIII. El establecimiento de programas de información de los servicios de salud en materia de atención materno-infantil, que faciliten el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IX. Las demás que coadyuven a la protección de la salud materno-infantil.
+IX. Las acciones para abordar con sentido ético, respetuoso y humanitario la muerte gestacional o perinatal; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+X. Las demás que coadyuven a la protección de la salud materno-infantil.
 
 ###### Artículo 106.
 
@@ -5066,3 +5096,11 @@ Artículo Décimo Primero. El Poder Ejecutivo, a través de las Secretarías de 
 Artículo Décimo Segundo. Las facultades, derechos y obligaciones establecidos a cargo del órgano desconcentrado Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, además de las relaciones laborales, serán asumidas por la unidad de investigación, capacitación y servicio denominada Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos del Organismo Público Descentralizado denominado Servicios de Salud Jalisco.
 
 Artículo Décimo Tercero. Se autoriza al Titular del Ejecutivo para efectuar las modificaciones reglamentarias necesarias, así como realizar las acciones administrativas necesarias para la creación de la Unidad de Investigación, Capacitación y Servicio denominada Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos en el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO 29573/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 100, 101, 105 Y SE ADICIONA EL ARTÍCULO 103 BIS A LA LEY DE SALUD DEL ESTADO DE JALISCO”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de manera gradual, paulatina y progresiva, sujeto a los presupuestos autorizados para el presente ejercicio fiscal y los subsecuentes.
