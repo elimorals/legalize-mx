@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2024-06-25"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -525,9 +525,11 @@ El nombre propio será impuesto por quien declare el nacimiento de un (sic) pers
 
 Si al hacerse el registro no se sabe quienes son los padres, el nombre propio y los apellidos serán puestos por el Oficial del Registro Civil.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Art. 63.
 
-No estará permitido el cambio de nombre a persona alguna, pero si alguien hubiere sido conocido con nombre diferente al que aparece en su acta de nacimiento, o tuviere un seudónimo; declarado este hecho por sentencia ejecutoriada, se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primeramente se haya asentado en los libros del Registro Civil.
+No estará permitido el cambio de nombre a persona alguna, pero si alguien hubiere sido conocido con nombre diferente al que aparece en su acta de nacimiento, o tuviere un seudónimo, se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primeramente se haya asentado en los libros del Registro Civil.
 
 ###### Art. 64.
 
@@ -19526,3 +19528,9 @@ P.O. 25 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29545/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO PENAL, CÓDIGO CIVIL, TODAS LAS LEYES DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29574/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN EL ARTÍCULO 63 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; ASÍ COMO LOS ARTÍCULOS 122, 126 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
