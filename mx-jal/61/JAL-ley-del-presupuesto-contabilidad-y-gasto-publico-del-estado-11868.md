@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2019-11-05"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -43,111 +43,101 @@ LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
 ### Capítulo Único
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular los principios de equilibrio, sostenibilidad financiera y responsabilidad hacendaria, así como regular las acciones relativas a la programación financiera, presupuestación, ejercicio, contabilidad, control, vigilancia, transparencia y evaluación del desempeño del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Poder Ejecutivo del Estado a través de la Secretaría de la Hacienda Pública.
+La presente Ley tiene por objeto regular los principios de equilibrio, sostenibilidad financiera y responsabilidad hacendaria, así como regular las acciones relativas a la programación, presupuestación, ejercicio, contabilidad, control, vigilancia, transparencia y evaluación del desempeño del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Poder Ejecutivo del Estado a través de la Secretaría de la Hacienda Pública.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Los entes públicos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos del estado se realice con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y perspectiva de género.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-De igual forma, el Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, dictará las normas para la aplicación e interpretación administrativa de esta Ley, lo anterior de conformidad con las demás disposiciones aplicables
+El Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, dictará las normas para la aplicación e interpretación administrativa de esta Ley, lo anterior de conformidad con las demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+I. Ampliación: Incrementos a partidas presupuestales derivadas de la recepción de ingresos adicionales, la formalización de convenios o de una compensación por reducción de otra partida en los términos de la LDFEFYM.
 
-I. Secretaría: A la Secretaría de la Hacienda Pública;
+II. Ampliación Automática: Ampliación de una partida presupuestal sin tener la certeza especifica de la recepción de un recurso adicional, derivado de necesidades contingentes o extraordinarias, que deberán compensarse durante el ejercicio, para lograr el Balance Presupuestal al cierre del mismo.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+III. Anexos Transversales: Son documentos que forman parte del Presupuesto donde se refleja la concurrencia de Programas Presupuestarios y/o componentes de éstos, Unidades Presupuestales y Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con temas prioritarios.
 
-II. Dependencias: A las secretarías y dependencias del Poder Ejecutivo y sus organismos desconcentrados;
+Los anexos Transversales deberán atender a los temas establecidos en la normatividad, sin ser limitativos. Las temáticas se podrán incluir, durante cada ejercicio fiscal de manera temporal o permanente hasta su resolución, respecto de aquellas (sic) temas o fenómenos emergentes o de atención prioritaria o de coyuntura en el Estado;
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+IV. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-III. Entidades: A los organismos descentralizados, empresas de participación estatal mayoritaria, y los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, entendiéndose como tales, los que define la Ley Orgánica del Poder Ejecutivo;
+V. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+VI. CONAC: Consejo Nacional de Armonización Contable;
 
-IV. El Comité: Al Comité Interno de Presupuesto del Poder Ejecutivo del Estado.
+VII. CACEJ: Consejo de Armonización Contable del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+VIII. Centros de Registro: Cada una de las áreas administrativas de los entes públicos donde ocurren las transacciones económico/financieras y, por lo tanto, desde donde se introducen datos al sistema de Información contable y financiera, en momentos o eventos previamente seleccionados de los procesos administrativos correspondientes, de conformidad a la LGCG;
 
-V. Unidad Presupuestal: A los poderes Legislativo y Judicial, los organismos públicos autónomos, así como las dependencias y entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales por el Congreso;
+IX. Clave Presupuestal: Es la agrupación de los componentes que conforman las clasificaciones administrativa, funcional - programática, objeto de gasto, económica y geográfica del presupuesto de egresos, que identifica, ordena y consolida en un registro, la información de dichas clasificaciones y vincula las asignaciones que se determinan durante la programación financiera, integración y aprobación del Presupuesto de Egresos, con las etapas de control y las de ejecución, seguimiento y evaluación del ejercicio del gasto;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+X. Contención Presupuestal: Es una disminución de la disponibilidad presupuestal, que puede ser de manera temporal o definitiva, realizada a una asignación presupuestal en el marco de las políticas para el monitoreo del balance presupuestal que para ello establezca la Secretaría;
 
-VI. Clave Presupuestal: Es la agrupación de los componentes que conforman las clasificaciones administrativa, funcional - programática, objeto de gasto, económica y geográfica del presupuesto de egresos, que identifica, ordena y consolida en un registro, la información de dichas clasificaciones y vincula las asignaciones que se determinan durante la programación financiera, integración y aprobación del Presupuesto de Egresos, con las etapas de control y las de ejecución, seguimiento y evaluación del ejercicio del gasto;
+XI. Dependencias: Las instancias que forman parte de la Administración Pública Centralizada establecidas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XII. El Comité: Al Comité Interno de Presupuestación del Poder Ejecutivo del Estado.
 
-VII. Partida Presupuestal: Es el nivel de desagregación específico del Clasificador por Objeto del Gasto en el cual se describen las expresiones concretas y detalladas de los bienes y servicios que se adquieren.
+Segundo párrafo. Derogado; (sic)
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+XIII. Entidades: A los organismos descentralizados, empresas de participación estatal mayoritaria, y los fideicomisos públicos, en los que el fideicomitente sea el Gobierno del Estado, es decir, los que se establecen en la Ley de Entidades Paraestatales del Estado de Jalisco;
 
-VIII. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
+XIV. Entes públicos: Los poderes Ejecutivo, Legislativo y Judicial; los municipios, los órganos constitucionalmente autónomos y las Entidades excepto los Fideicomisos sin estructura;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XV. Fuente de Financiamiento: Elemento de la estructura programática presupuestal que permite identificar las fuentes u orígenes de los ingresos que financian los egresos y precisar la orientación específica de cada fuente a efecto de controlar su aplicación, de conformidad a lo establecido por el CONAC;
 
-IX. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura;
+XVI. Gasto Etiquetado: las erogaciones que realizan las entidades federativas y los Municipios con cargo a las Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos de la Entidad Federativa con un destino específico;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XVII. Gasto no etiquetado: las erogaciones que realiza el Estado y los Municipios con cargo a sus Ingresos de libre disposición y Financiamientos;
 
-X. Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+XVIII. Gasto no Programable: Las erogaciones a cargo del Gobierno del Estado y los ayuntamientos que derivan del cumplimiento de obligaciones legales o de su respectivo presupuesto de egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XIX. Gasto Programable: considera los recursos destinados al cumplimiento de las atribuciones de las Instituciones, Dependencias y Entidades del Poder Ejecutivo, así como del Poder Legislativo y Judicial, y de los Órganos Autónomos
 
-XI. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+XX. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XXI. Ingresos Excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
-XII. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+XXII. LDFEFYM: Ley de Disciplina Financiera para las Entidades Federativas y los Municipios
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XXIII. LFPRH: Ley Federal de Presupuesto y Responsabilidad Hacendaria
 
-XIII. Gasto no etiquetado: las erogaciones que realiza el Estado y los Municipios con cargo a sus Ingresos de libre disposición y Financiamientos;
+XXIV. LGCG: Ley General de Contabilidad Gubernamental;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XXV. Partida Presupuestal: Es el nivel de desagregación específico del Clasificador por Objeto del Gasto en el cual se describen las expresiones concretas y detalladas de los bienes y servicios que se adquieren.
 
-XIV. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
+XXVI. Presupuesto participativo: instrumento mediante el cual la ciudadanía define el destino de un porcentaje del presupuesto destinado para la inversión pública.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XVII. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
 
-XV. Transferencias federales etiquetadas: los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
+XXVIII. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XXIX. Remanentes: Recursos provenientes de ingresos de ejercicios anteriores para ser ejercidos en el ejercicio siguiente o posteriores, de conformidad a la normatividad que les aplique: pueden ser etiquetados o de libre disposición;
 
-XVI. LGCG: Ley General de Contabilidad Gubernamental;
+XX (SIC). Secretaría: A la Secretaría de la Hacienda Pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+XXXI. Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
-XVII. CONAC: Consejo Nacional de Armonización Contable;
+XXXII. Transferencias federales etiquetadas: los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la LFPRH y el Presupuesto de Egresos de la Federación.
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+XXXIII. Unidad Presupuestal: A los poderes Legislativo y Judicial, los organismos públicos autónomos, así como las dependencias y entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales por el Congreso;
 
-XVIII. CACEJ: Consejo de Armonización Contable del Estado de Jalisco;
-
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
-
-XIX. Entes públicos: Los poderes Ejecutivo, Legislativo y Judicial; los órganos constitucionalmente autónomos y las entidades de la administración pública paraestatal; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2017)</small>
-
-XX. Presupuesto participativo: instrumento mediante el cual la ciudadanía define el destino de un porcentaje del presupuesto destinado para inversión pública.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 3.
 
-A falta de disposición expresa en esta Ley, se aplicarán la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y a (sic) Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios, y se estará a la interpretación de la Secretaría para efectos administrativos.
+A falta de disposición expresa en esta Ley, se aplicarán la LDFEFYM y a (sic) Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios, LGCG y se estará a la interpretación de la Secretaría para efectos administrativos.
 
 > <small>[N. DE E. SE RECORRIÓ EN SU ORDEN EL ARTÍCULO 3, PARA PASAR A SER 3 BIS, P.O. 26 DE NOVIEMBRE DE 2016.]</small>
 
@@ -175,15 +165,13 @@ III. El Poder Ejecutivo, por conducto de sus dependencias y entidades; y
 
 IV. Los organismos públicos autónomos, que expresamente reconoce la Constitución Política del estado de Jalisco.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-El gasto público deberá ejercerse con criterios de perspectiva de género.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-La Contabilidad Gubernamental es la técnica que sustenta los sistemas contables y que se utiliza para el registro de las transacciones que llevan a cabo los entes públicos, expresados en términos monetarios, captando los diversos eventos económicos identificables y cuantificables que afectan los bienes e inversiones, las obligaciones y pasivos, así como el propio patrimonio, con el fin de generar información financiera que facilite la toma de decisiones y un apoyo confiable en la administración de los recursos públicos, debiendo cumplir con lo establecido en la LGCG, la normatividad emitida por el CONAC y tendrá las siguientes finalidades:
+La Contabilidad Gubernamental es la técnica que sustenta los sistemas contables y que se utiliza para el registro de las transacciones que llevan a cabo los entes públicos, expresados en términos monetarios, captando los diversos eventos económicos identificables y cuantificables que afectan los bienes e inversiones, las obligaciones y pasivos, así como el propio patrimonio, con el fin de generar información financiera que facilite la toma de decisiones y un apoyo confiable en la administración de los recursos públicos, con fundamento en la LGCG y normas del CONAC; para las siguientes finalidades:
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -197,15 +185,25 @@ II. Proporcionar información para la gestión de gobierno, evaluación de los p
 
 III. Establecer mecanismos para el debido cumplimiento de las disposiciones en materia de transparencia gubernamental y de la LGCG.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-La planeación, programación, presupuestación, control y evaluación del gasto público estatal se basarán en las directrices que fije el Plan Estatal de Desarrollo y en los programas de gobierno que de éste se deriven.
+La planeación, programación, presupuestación, control y evaluación del gasto público estatal se basarán en las directrices que fije el Plan Estatal de Desarrollo y Gobernanza y en los programas de gobierno que de éste se deriven.
 
-Por lo que respecta a los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencias, podrán establecer los lineamientos que se requieran a efecto de ser congruentes con lo establecido por esta Ley en sus sistemas administrativos de presupuestación y de control de gasto.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Por lo que respecta a los Poderes Legislativo, Judicial y Organismos Constitucionalmente Autónomos en el ámbito de sus respectivas competencias, podrán aplicar las metodologías diseñadas por el Poder Ejecutivo o establecer los lineamientos particulares que requieran a efecto de ser congruentes con el instrumento de planeación equivalente al establecido en el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Los municipios se basarán en lo establecido en sus planes municipales de desarrollo y gobernanza.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-Cada Dependencia o Entidad será la responsable de planear, programar, presupuestar, controlar y evaluar sus propias actividades, así como darle seguimiento a los avances programáticos que éstas presenten con relación al gasto público, en los términos de esta ley y de las demás disposiciones aplicables. Lo anterior sin perjuicio de las atribuciones que tengan la Secretaría u otros órganos de control al respecto.
+Cada Dependencia o Entidad será la responsable de planear, programar, presupuestar, controlar y evaluar con propias actividades, así como darle seguimiento a los avances programáticos que éstas presenten con relación al gasto público, en los términos de esta ley y de las demás disposiciones aplicables. Lo anterior sin perjuicio de las atribuciones que tengan la Secretaría u otros órganos técnicos y de fiscalización al respecto.
 
 ###### Artículo 9.
 
@@ -227,23 +225,31 @@ El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá contratar
 
 El titular del Poder Ejecutivo del Estado autorizará por conducto de la Secretaría, cuando así lo dicte el interés público, la participación estatal en las empresas, sociedades o asociaciones civiles y mercantiles, ya sea en su creación, para aumentar su capital o patrimonio, o adquiriendo todo o parte de éstas.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-Los Servidores Públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones presupuestarias, estarán obligados a guardar absoluta reserva en lo concerniente a la documentación que se relacione con la función que desempeñan. Dicha reserva no comprenderá los casos que señalen las leyes y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y la defensa de los intereses fiscales estatales, a las autoridades judiciales o de los tribunales competentes. La información se canalizará a través de la Secretaría tratándose de las Dependencias del Poder Ejecutivo.
+Los Servidores Públicos que intervengan en los diversos procesos relativos a la aplicación de las disposiciones presupuestarias, estarán obligados a guardar absoluta reserva en lo concerniente a la documentación que se relacione con la función que desempeñan. Dicha reserva no comprenderá los casos que señalen las leyes y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y la defensa de los intereses fiscales estatales, a las autoridades judiciales o de los tribunales competentes. Para los fines anteriormente mencionados, la información se canalizará a través de la Secretaría tratándose de las Dependencias del Poder Ejecutivo.
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO
 
 ### Capítulo I. De la Coordinación con los Poderes del Estado, la Federación y los Municipios, en Relación al Presupuesto
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 14.
 
-Con la finalidad de que con toda anticipación se tenga el conocimiento exacto de las circunstancias internas y externas que puedan influir en el gasto público estatal, el titular del Poder Ejecutivo del Estado por conducto de la Secretaría, mantendrá con los Poderes Legislativo y Judicial de la Entidad, así como con las administraciones, federales y municipales, la coordinación necesaria para tal efecto.
+Con la finalidad de que con toda anticipación se tenga el conocimiento exacto de las circunstancias internas y externas que puedan influir en el gasto público estatal, el titular del Poder Ejecutivo del Estado por conducto de la Secretaría, mantendrá la coordinación necesaria con los Poderes Legislativo y Judicial de la Entidad, así como con las administraciones, federales y municipales.
 
-De igual forma, el titular del Poder Ejecutivo, el Congreso del Estado y los Municipios, en el seno del Consejo de Armonización Contable del Estado de Jalisco (CACEJ) y del Consejo Estatal Hacendario, podrán, respetando rigurosamente el principio de autonomía municipal, unificar criterios sobre la formulación, ejercicio presupuestal y la contabilidad pública; así como establecer coordinación necesaria con los entes públicos estatales y municipales en materia de Contabilidad Gubernamental, responsabilidad, hacendaria y financiera, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+De igual forma, el titular del Poder Ejecutivo, el Congreso del Estado y los Municipios, en el seno del CACEJ y del Consejo Estatal Hacendario, deberán unificar criterios sobre la formulación, ejercicio presupuestal y la contabilidad pública; así como establecer coordinación necesaria con los entes públicos estatales y municipales en materia de Contabilidad Gubernamental, responsabilidad, hacendaria y financiera, de conformidad con la LDFEFYM, la Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios y LGCG.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Los Municipios cuando lo soliciten, contarán con asistencia técnica de la Secretaría en relación a la elaboración de sus iniciativas de las Leyes de Ingresos y Presupuestos de Egresos de conformidad con lo establecido en la LGCG y los criterios que al efecto expida el CONAC.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Respecto a aquellos municipios con una población menor a 200,000 habitantes, se brindará la asistencia en los términos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental.
 
@@ -271,19 +277,25 @@ Los proyectos de presupuestos a que se refiere el párrafo anterior deben conten
 
 A la Iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar para su valoración, invariablemente, los proyectos de presupuesto elaborados por los Poderes Legislativo y Judicial.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, los Presupuestos de los Poderes Legislativo y Judicial no podrán ser inferiores a los ejercidos el año inmediato anterior, actualizados con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
+Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el Presupuesto del Poder Legislativo no podrán (sic) ser inferior a los ejercidos el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 18.
 
-Los poderes Legislativo y Judicial, así como los organismos públicos autónomos, al formular sus respectivos proyectos de presupuesto, lo harán cumpliendo con los principios de equilibrio, sostenibilidad financiera, responsabilidad hacendada, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género, atendiendo en todo momento las previsiones del ingreso y prioridades del Estado, quienes deberán enviar dichos proyectos al titular del Poder Ejecutivo en la fecha señalada por el artículo 29 de esta Ley, para su consideración en inclusión en la iniciativa de presupuesto de egresos del Estado.
+Los poderes Legislativo y Judicial, así como los organismos públicos autónomos, al formular sus respectivos proyectos de presupuesto, lo harán cumpliendo con los principios de equilibrio, sostenibilidad financiera, responsabilidad hacendaria, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género, atendiendo en todo momento las previsiones del ingreso y prioridades del Estado, quienes deberán enviar dichos proyectos al titular del Poder Ejecutivo en la fecha señalada por el artículo 29 de esta Ley, para su consideración en inclusión en la iniciativa de presupuesto de egresos del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Los proyectos de presupuestos a que se refiere el presente artículo deben contener las plantillas de personal, las cuales deberán sujetarse a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las que se especifiquen todos los empleos públicos, con inclusión de los diputados, magistrados y consejeros del Poder Judicial, según corresponda, así como las remuneraciones que por concepto de salarios y prestaciones de ley, les sean asignadas a estos servidores públicos, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
 
-Los proyectos de presupuestos deben contener el desglose de los diferentes componentes de las clasificaciones administrativa, funcional, programática, objeto del gasto, económico y geográfico que representen las autorizaciones específicas del presupuesto.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Los proyectos de presupuestos deben contener el desglose de los diferentes componentes de las clasificaciones administrativa, funcional, programática, objeto del gasto y económico que representen las autorizaciones específicas del presupuesto.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Todos los entes públicos, contemplarán en los presupuestos correspondientes, de acuerdo a la disponibilidad de sus recursos, una asignación presupuestal destinada a cubrir las liquidaciones, indemnizaciones o finiquitos de ley; sin que, bajo ninguna circunstancia, pueda realizarse la incorporación de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
 
@@ -293,9 +305,11 @@ Todos los entes públicos, contemplarán en los presupuestos correspondientes, d
 
 El Proceso de Planeación, Programación y Presupuestación, tiene como finalidad orientar el gasto público a la atención de lo prioritario, garantizando el uso eficiente de los recursos en cada uno de los programas que desarrollen las Dependencias y Entidades del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 20.
 
-La fase de Planeación consiste en la definición por parte de las Dependencias y Entidades, de aquellas acciones tanto operativas como estratégicas para su atención prioritaria, tomando en cuenta los objetivos contenidos en el Plan Estatal de Desarrollo y las prioridades de Gobierno. Lo anterior con la finalidad de determinar los programas y las actividades que sean necesarias para su cumplimiento.
+La fase de Planeación consiste en la definición por parte de las Dependencias y Entidades, de aquellas acciones tanto operativas como estratégicas para su atención prioritaria, tomando en cuenta los objetivos contenidos en el Plan Estatal de Desarrollo y Gobernanza y las prioridades de Gobierno. Lo anterior con la finalidad de determinar los programas y las actividades que sean necesarias para su cumplimiento
 
 ###### Artículo 21.
 
@@ -313,17 +327,19 @@ Presupuestación, es la fase de costeo y distribución de los recursos financier
 
 El gasto público del Estado se basará en el presupuesto que se elaborará para cada año calendario y su preparación comprenderá todas aquellas tareas que se señalan en el presente capítulo, en la LGCG y las normas que para tal efecto emita el CONAC, así como lo establecido en el (sic) Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-El Plan Estatal de Desarrollo y los programas que de él se deriven serán base fundamental para la elaboración anual del proyecto de Presupuesto de Egresos del Estado.
+El Plan Estatal de Desarrollo y Gobernanza y los programas que de él se deriven, serán base fundamental para la elaboración anual del proyecto de Presupuesto de Egresos del Estado.
 
 ###### Artículo 24.
 
 El titular del Poder Ejecutivo del Estado, a través de la Secretaría, determinará los lineamientos del gasto, así como las políticas y normas que se aplicarán durante la elaboración del Anteproyecto de Presupuesto de Egresos, a los cuales tendrán que sujetarse las Dependencias y Entidades mencionadas en el Artículo 2 de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-La Secretaría emitirá los manuales e instructivos para la formulación de los Anteproyectos de Presupuesto de Egresos y los remitirá oportunamente a las Dependencias y Entidades.
+La Secretaría emitirá los manuales, lineamientos o instructivos para la formulación de los Anteproyectos de Presupuesto de Egresos y los remitirá oportunamente a las Dependencias y Entidades.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -331,13 +347,17 @@ La Secretaría emitirá los manuales e instructivos para la formulación de los 
 
 La Secretaría realizará estudios pertinentes con el propósito de formular una política de gasto público razonada respecto al desenvolvimiento de los indicadores de impacto en la sociedad, de los Criterios Generales de Política Económica señalados en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y de contar con criterios financieros que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 27.
 
-El importe del presupuesto de Egresos, no deberá exceder de la estimación de los ingresos señalados para el ejercicio correspondiente por la Ley de Ingresos y de los excedentes que provengan del ejercicio inmediato anterior. Tanto el importe propuesto en la Iniciativa respectiva, el aprobado por el Congreso del Estado, y el que se ejerza en el ejercicio fiscal, deberán contribuir a un Balance Presupuestario sostenible, considerando lo siguiente:
+El importe del presupuesto de Egresos, no deberá exceder de la estimación de los ingresos señalados para el ejercicio correspondiente por la Ley de Ingresos y en su caso de los remanentes que provengan del ejercicio inmediato anterior. Tanto el importe propuesto en la Iniciativa respectiva, el aprobado por el Congreso del Estado, y el que se ejerza en el ejercicio fiscal, deberán contribuir a un Balance Presupuestario sostenible, considerando lo siguiente:
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 I. El Balance Presupuestario Sostenible se cumple cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso se contrate por parte del Estado y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 II. Debido a razones excepcionales, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Titular del Poder Ejecutivo, deberá dar cuenta al Congreso del Estado de los siguientes aspectos:
 
@@ -350,6 +370,8 @@ c) El número de ejercicios fiscales y las acciones requeridas para que dicho Ba
 El Titular del Poder Ejecutivo, a través de la Secretaría, reportará en informes trimestrales y en la Cuenta Pública que entregue (sic) Congreso del Estado y a través de su página oficial de Internet, el avance de las acciones, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles.
 
 En caso de que el Congreso del Estado modifique la Ley de Ingresos y el Presupuesto de Egresos de tal manera que genere un Balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a los incisos a) y b) de este artículo. A partir de la aprobación del Balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Titular del Poder Ejecutivo deberá dar cumplimiento a lo previsto en el inciso c) y el párrafo anterior de este artículo.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 III. Se podrá incurrir en un Balance presupuestario de recursos disponibles negativo cuando:
 
@@ -377,7 +399,9 @@ Los proyectos de presupuesto a que se refiere el presente artículo deben conten
 
 a) Las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los titulares de las dependencias, especificando las remuneraciones que, por conceptos de salarios o cualquier otro, les sean asignadas a dichos titulares;
 
-b) El monto que será destinado al concepto de responsabilidad patrimonial del Estado, de conformidad con la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios. Si la partida de responsabilidad patrimonial no se ejerce en el ejercicio fiscal, se deberá traspasar al siguiente ejercicio fiscal.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+b) El monto que será destinado al concepto de responsabilidad patrimonial del Estado, de conformidad con la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios. Si la partida de responsabilidad patrimonial no se ejerce en su totalidad en el ejercicio fiscal, los recursos remanentes se deberán traspasar al siguiente ejercicio fiscal.
 
 La asignación global de recursos para el capítulo de servicio (sic) personales que contemple el Presupuesto de Egresos, se deberá determinar conforme a los límites establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -397,7 +421,9 @@ En caso de que el Producto Interno Bruto presente una variación real negativa p
 
 Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
 
-Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, en los términos de la LDFEFYM.
 
 > <small>[N. DE E. SE RECORRIÓ EN SU ORDEN EL ARTÍCULO 29 BIS, PARA PASAR A SER 29 TER, P.O. 26 DE NOVIEMBRE DE 2016.]</small>
 
@@ -415,7 +441,9 @@ b) Se establezcan las necesidades de inversión a corto, mediano y largo plazo, 
 
 Los mecanismos de planeación a que hace referencia esta fracción serán normados y evaluados por la Secretaría;
 
-II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de emergencias o desastres naturales.
 
 III. Registrar cada programa y proyecto de inversión en la cartera que integrará la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables; y
 
@@ -439,23 +467,23 @@ e) Aportación al medio ambiente.
 
 Cuando alguna Unidad Presupuestal o entidad no presente anteproyecto presupuestal en el plazo establecido en el precepto anterior, la Secretaría dará cuenta al Comité para que éste, a su vez lo formule tomando como base el del año anterior, con objeto de que se integre en tiempo y forma con los demás anteproyectos que conformarán el Proyecto de Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 31.
 
-La Secretaría formulará el proyecto de presupuesto de Egresos del Gobierno del Estado en base a las directrices del titular del Poder Ejecutivo, a los anteproyectos de las unidades presupuestales, a los criterios generales de responsabilidad hacendaria y financiera establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como a los preceptos contenidos en la presente ley.
+La Secretaría formulará el proyecto de presupuesto de Egresos del Gobierno del Estado en base a las directrices del titular del Poder Ejecutivo, lo establecido en el Plan Estatal de Desarrollo y Gobernanza, los anteproyectos de las unidades presupuestales, y los criterios generales de responsabilidad hacendaria y financiera establecidos en la LDFEFYM, así como a los preceptos contenidos en la presente ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 32.
 
-Dentro del Presupuesto de Egresos se considerarán como Unidades Presupuestales a los Poderes Legislativo y Judicial, así como a las Dependencias y Entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales. De lo anterior se exceptúan las Entidades cuya asignación financiera se realice por conducto de una Unidad Presupuestal que funja como coordinadora de sector. La Secretaría podrá proponer al titular del Poder Ejecutivo del Estado, la integración como Unidades Presupuestales, de otros rubros distintos a los mencionados anteriormente, que por su importancia así lo justifiquen, para lo cual se requerirá la aprobación del Congreso del Estado.
+Dentro del Presupuesto de Egresos se considerarán como Unidades Presupuestales a los Poderes Legislativo y Judicial, Órganos Constitucionales Autónomos, así como a las Dependencias y Entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales. De lo anterior se exceptúan las entidades cuya asignación financiera se realice por conducto de una unidad presupuestal que funja como coordinadora de sector. La Secretaría podrá proponer al titular del Poder Ejecutivo del Estado, la integración como Unidades Presupuestales, de otros rubros distintos a los mencionados anteriormente que por su importancia así lo justifiquen, para lo cual se requerirá la aprobación del Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 33.
 
-Los organismos descentralizados del Poder Ejecutivo aprobarán por conducto de sus propios órganos de gobierno sus respectivos presupuestos de egresos, cumpliendo con los criterios generales de responsabilidad hacendaria y financiera establecidos (sic) la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad, y perspectiva de género, con apego a lo establecido en la presente ley.
+Los organismos descentralizados del Poder Ejecutivo aprobarán por conducto de sus propios órganos de gobierno sus respectivos presupuestos de egresos, considerando la totalidad de ingresos que estiman recibir cumpliendo con los criterios generales de responsabilidad hacendaria y financiera establecidos (sic) la LDFEFYM, así como principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad, y perspectiva de género, con apego a lo establecido en la presente ley.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -465,13 +493,17 @@ Los presupuestos a que se refiere el presente artículo deben contener las plant
 
 Una vez aprobados los presupuestos, se remitirán copias de los mismos al titular del Poder Ejecutivo para su conocimiento y para la publicación en el periódico oficial del estado, de la parte relativa a las remuneraciones de los titulares de los organismos a que se refiere este artículo, atendiendo a lo dispuesto por las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 34.
 
-Las propuestas presupuestales que se hubiesen remitido a la Secretaría, serán revisadas en el seno del Comité y en su caso, se adecuarán de conformidad a los lineamientos emitidos y de acuerdo con el programa de Gobierno trazado por el titular del Poder Ejecutivo del Estado.
+Las propuestas presupuestales que se hubiesen remitido a la Secretaría serán revisadas en el seno del Comité y en su caso, se ajustarán de conformidad a los lineamientos emitidos y de acuerdo con el programa de gobierno trazado por el titular del Poder Ejecutivo del Estado, así como a las previsiones de ingresos.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 35.
 
-El titular del Poder Ejecutivo del Estado, recibirá de la Secretaría, el proyecto de Presupuesto de Egresos para su aprobación definitiva, quien a su vez lo remitirá al Congreso del Estado, mediante la iniciativa correspondiente, con los documentos a que se refiere el artículo 39 de la presente Ley.
+Una vez integradas y analizadas las propuestas presupuestales, el titular del Poder Ejecutivo del Estado recibirá de la Secretaría el proyecto de Presupuesto de Egresos para que sea remitido al Congreso del Estado, mediante la iniciativa correspondiente, con los documentos a que se refiere el Artículo 39 de la presente Ley.
 
 ###### Artículo 36.
 
@@ -491,11 +523,11 @@ Invariablemente se deberá incorporar una partida presupuestal destinada a la at
 
 La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno del Estado por conducto de todas sus Entidades y Dependencias, incluyendo a las que se refieren las fracciones I y II del artículo 5 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a continuación, observando en su caso las disposiciones del artículo 61 de la LGCG:
+El proyecto de Presupuesto de Egresos del Estado y posteriormente el Presupuesto de Egresos Aprobado, se integrará con los documentos que se refieren a continuación observando en su caso las disposiciones del artículo 61 de la LGCG
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -519,9 +551,9 @@ II. Descripción de los programas que integran el proyecto de presupuesto de egr
 
 III. Matrices de indicadores para Resultados de cada una de las Secretarías;
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IV. Informe de los avances en el cumplimiento de los objetivos y metas de desarrollo establecidas en el Plan Estatal;
+IV. Informe de los avances en el cumplimiento de los objetivos y metas de desarrollo establecidas en el Plan Estatal de Desarrollo y Gobernanza;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -563,29 +595,41 @@ XIII. Sueldo y demás prestaciones económicas asignadas a cada una de las plaza
 
 XIV. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XV. Situación que guardan las obligaciones de pago derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Congreso del Estado;
+XV. Situación que guardan las obligaciones de pago derivadas de los contratos vigentes de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XVI. Un capítulo específico que incorpore las erogaciones multianuales para proyectos de inversión en infraestructura, aprobadas en términos de la Ley de Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco y sus Municipios;
+XVI. Un capítulo específico que incorpore las erogaciones multianuales para proyectos de inversión en infraestructura, aprobadas en términos de la Ley de Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco y sus Municipios o cualquier otra normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XVII. Asignaciones necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto, celebrados o por celebrarse durante el siguiente ejercicio fiscal;
+XVII. Identificación de las asignaciones necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto, celebrados o por celebrarse durante el siguiente ejercicio fiscal; especificando el plazo, el monto de inversión, el monto de pago anual y el monto de las obligaciones contingentes que en su caso se deriven de los mismos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XVIII. Estudio actuarial de las pensiones de sus trabajadores, cuya actualización no sea mayor a tres años. El estudio deberá de incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas en la ley aplicables, el monto de reserva de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente; y
+XVIII. Estudio actuarial de las pensiones de sus trabajadores, cuya actualización no sea mayor a tres años. El estudio deberá de incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas en la ley aplicables, el monto de reserva de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-XIX. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+XIX. Los Anexos Transversales en materia de Derechos Humanos, Igualdad de Género; Cultura de Paz; Niñas, Niños y Adolescentes visibilizando las acciones a favor de la Primera Infancia; Anticorrupción; Cambio Climático y en su caso, los que atiendan a los establecidos en el Plan Estatal de Desarrollo y Gobernanza.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+En los anexos transversales aplicables se deberá visibilizar las acciones a favor del Sistema Integral de Cuidados.
 
-La Secretaría deberá integrar en el proyecto de presupuesto de egresos las asignaciones presupuestales para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto.
+También podrán integrarse como anexos transversales por uno o varios ejercicios fiscales, los relativos a temáticas de atención prioritaria o fenómenos emergentes.
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XX. Informe de la relación que guarda el proyecto de presupuesto respecto a los Objetivos de Desarrollo Sostenible; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+XXI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+El proyecto de presupuesto de Egresos, deberá de ser publicado en portal oficial de la Secretaría, en un plazo no mayor a 24 horas de su entrega al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -611,43 +655,37 @@ II. 2000 Materiales y Suministros;
 
 III. 3000 Servicios Generales;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IV. 4000 Transferencias, subsidios y Subvenciones;
+IV. 4000 Transferencias, subsidios y Otras Ayudas;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-V. 5000 Bienes Muebles e Inmuebles;
+V. 5000 Bienes Muebles, Inmuebles e Intangibles;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 VI. 6000 Inversión Pública del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VII. 7000 Inversiones Financieras;
+VII. 7000 Inversiones Financieras y Otras Provisiones;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VIII. 8000 Participaciones y aportaciones a municipios;
+VIII. 8000 Participaciones y Aportaciones; y
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IX. 9000 Deuda Pública; y
+IX. 9000 Deuda Pública.
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2008)</small>
-
-X. Obligaciones derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios, su amortización y erogaciones contingentes que se deriven de los mismos.
+X. (DEROGADA, P.O. 12 DE OCTUBRE DE 2024)
 
 Los anteriores capítulos se dividirán, a su vez, en partidas que representarán las autorizaciones específicas del presupuesto, en la forma que determinen los manuales e instructivos a que alude el artículo 25 de esta ley.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Los poderes Ejecutivo y Legislativo en su último año de gestión constitucional, deberán prever en sus respectivos presupuestos de egresos, un capítulo específico para el proceso de entrega-recepción de ambos poderes, con el objetivo de eficientar, agilizar y transparentar este proceso.
-
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
-
-La partida prevista para el proceso de entrega-recepción deberá cumplir en forma estricta, con los criterios de racionalidad, austeridad y disciplina presupuestal.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -655,7 +693,19 @@ Artículo 41 bis.- El Clasificador por Objeto del Gasto es el instrumento que co
 
 Corresponde a la Secretaría emitir el Clasificador por Objeto del Gasto para cada ejercicio fiscal, así como sus modificaciones, observando las disposiciones que para tal efecto emita el CONAC.
 
-Corresponde a la Comisión de Administración del Congreso del Estado emitir el clasificador por objeto de gasto del Poder Legislativo, pudiéndose utilizar el clasificador emitido por la CONAC y el Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Los Poderes Legislativo, Judicial y Organismos Constitucionalmente Autónomos deberán utilizar el Clasificador por Objeto del Gasto emitido por el CONAC o por el Poder Ejecutivo del Estado de conformidad a la LGCG.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 41 Ter.
+
+Los Poderes Ejecutivo y Legislativo en su último año de gestión constitucional, deberán prever en sus respectivos presupuestos de egresos, al menos un programa y asignaciones específicas, para el proceso de entrega-recepción de ambos poderes, con el objetivo de eficientar, agilizar y transparentar este proceso.
+
+Las autoridades electas designarán al personal que deberá participar en el proceso de integración del paquete económico.
+
+Las asignaciones previstas para el proceso de entrega-recepción deberán cumplir en forma estricta, con los criterios de racionalidad, austeridad y disciplina presupuestal.
 
 ### Capítulo V. De la Iniciativa, Aprobación y Reformas al Presupuesto
 
@@ -679,9 +729,13 @@ Las Dependencias y Entidades, no podrán bajo ninguna circunstancia gestionar an
 
 Asimismo, las Dependencias y Entidades no podrán gestionar sin la autorización de la Secretaría, la concurrencia de recursos federales o de cualquier otro origen, que implique un compromiso financiero a su cargo que no esté previsto en su asignación presupuestal.
 
-Previo a la suscripción de convenios en que se pacten aportaciones reciprocas con los gobiernos federal, municipal o con cualquier ente público o privado, las Dependencias y Entidades deberán sujetarse a la viabilidad financiera de su asignación presupuestal.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Sin perjuicio de lo señalado en el párrafo que antecede, en caso de no tener suficiencia financiera podrán solicitar al Titular del Poder Ejecutivo la asignación de recursos adicionales, siempre y cuando justifiquen la insuficiencia para hacer frente a las aportaciones a su cargo únicamente cuando mediante dichas aportaciones se obtenga la radicación y concurrencia complementaria de recursos de cualquier origen, la Secretaria emitirá un dictamen de viabilidad financiera mediante el cual se justifique la suscripción de los instrumentos en los que se pacten las obligaciones recíprocas.
+Previo a la suscripción de convenios en que se pacten aportaciones recíprocas con los gobiernos federal, municipal o con cualquier ente público o privado, las Dependencias y Entidades deberán sujetarse a la viabilidad financiera de su asignación presupuestal.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Sin perjuicio de lo señalado en el párrafo que antecede, en caso de no tener suficiencia financiera podrán solicitar al Titular del Poder Ejecutivo la asignación de recursos adicionales, siempre y cuando justifiquen la insuficiencia para hacer frente a las aportaciones a su cargo y únicamente cuando mediante dichas aportaciones se obtenga la radicación y concurrencia complementaria de recursos de cualquier origen, la Secretaría podrá realizar ampliaciones automáticas, y emitir la validación de la suscripción del convenio, cuidando el Balance Presupuestal.
 
 El gasto total del propuesto por el Ejecutivo del Estado en el Presupuesto de egresos, aquel que se apruebe por el Congreso del estado y el que se ejerza en el año fiscal en curso deberá contribuir a un balance presupuestario sostenible en los términos que se establecen en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -693,15 +747,19 @@ El Congreso del Estado en pleno o a través de sus comisiones, podrá requerir d
 
 El presupuesto de egresos deberá ser aprobado a más tardar el 15 de diciembre.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+El Decreto de autorización establecerá un plazo que no excederá del 31 de diciembre del año de su aprobación, en el cual la Secretaría actualizará los reportes establecidos en el artículo 39 de esta Ley, esto para la publicación del presupuesto de egresos en el periódico Oficial El Estado de Jalisco.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 46.
 
 Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio fiscal que corresponda. Cuando por la aplicación de leyes, decretos o acuerdos posteriores a la aprobación del presupuesto impliquen erogaciones no autorizadas, el titular del Poder Ejecutivo, deberá someter a la consideración del Congreso del Estado, las iniciativas de reforma respectivas, acompañadas de la opinión de la Secretaría sobre la viabilidad financiera de la propuesta.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando lo que sobre el particular se establezca en la LDFEFYM.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -731,7 +789,9 @@ El Presupuesto de Egresos que apruebe el Congreso del Estado debe cumplir los cr
 
 A toda iniciativa de modificación al Presupuesto de Egresos que presente el Titular del Poder Ejecutivo al Congreso del Estado, que represente aumento del gasto público, deberá acompañarse la previsión de ingresos necesarios para sufragarlo o en su caso la compensación mediante reducciones en otras previsiones de gasto.
 
-El Titular del Poder Ejecutivo del Estado, estará facultado para que previa petición de las Dependencias y Entidades, de manera excepcional, y una vez evaluado por la Secretaría, incorpore al Presupuesto de Egresos partidas presupuestales, observando desde luego, para dotarlas de recursos, lo dispuesto en la en la (sic) Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, las normas relativas a la transferencia de recursos entre partidas presupuestales y siempre y cuando no se rebase con ello los techos financieros autorizados para cada capítulo por el Congreso del Estado, ni se altere el balance presupuestario.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+El Titular del Poder Ejecutivo del Estado, estará facultado para que previa petición de las Dependencias y Entidades, de manera excepcional, y una vez evaluado por la Secretaría, incorpore al Presupuesto de Egresos partidas presupuestales, observando desde luego, para dotarlas de recursos, lo dispuesto en la en la (sic) LDFEFYM y la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, las normas relativas a la transferencia de recursos entre partidas presupuestales y siempre y cuando no se rebase con ello el techo financiero para Servicios Personales autorizado por el Congreso del Estado, ni se altere el balance presupuestario.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -749,49 +809,77 @@ III. Gastos de servicios personales, prioritariamente las erogaciones por concep
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 49.
 
-El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente, por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio Titular del Poder Ejecutivo y el Secretario de la Hacienda Pública, podrán autorizar las transferencias entre las partidas o los programas presupuestarios que a su juicio se justifiquen conforme a las siguientes reglas:
+El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenidos en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente, por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio Titular del Poder Ejecutivo y el Secretario de la Hacienda Pública, podrán autorizar las adecuaciones entre las partidas o los programas presupuestarios que a su juicio se justifiquen conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-I. Se permiten las transferencias entre partidas o programas presupuestarios, siempre y cuando en su conjunto no rebasen el 10% de los recursos presupuestados en la partida de origen;
+I. Se permiten las adecuaciones presupuestales entre partidas, siempre y cuando en su conjunto no rebasen el 10% de los recursos autorizados en la partida de origen, en cada Unidad Presupuestal.
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
 
 II. La partida de origen no deberá ser partida de ampliación automática, a excepción de los siguientes casos:
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-a) Cuando la partida de origen sea la 1611 "Impacto al Salario en el transcurso del año" que tiene por objeto ampliaciones a las diversas partidas del capítulo de servicios personales";
+a) Cuando las partidas de origen sean del concepto de gasto 1600 "Previsiones" que tiene por objeto ampliaciones a las diversas partidas del capítulo de "servicios personales";
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-b) Cuando la partida del capítulo de "Inversión Pública" sea origen de una transferencia, que tenga como destino partidas del propio capítulo 6000, así como las de "Subsidios a entidades federativas y municipios" del capítulo 4000 dentro de una misma dependencia;
+b) Cuando la partida del capítulo de "Inversión Pública" sea origen de una adecuación presupuestal, que tenga como destino partidas del propio capítulo 6000 o partidas de los conceptos 4200 "Transferencias al resto del sector público", 4300 "Susidios (sic) y subvenciones" y 4400 "Ayudas Sociales"; y viceversa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 c) Cuando las partidas de los capítulos mencionadas en el inciso b) incorpore recursos provenientes de fondos o programas que conforme sus reglas de operación requieran destinarse a gasto de operación;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-III. Las partidas de "Servicios Personales" no podrán ser consideradas como de destino, salvo en los casos que el recurso se dirija a la educación, salud o inversión pública, aún cuando la partida de origen sea de ampliación automática. Asimismo, podrán realizarse transferencias entre partidas del capítulo de "Servicios Personales" siempre y cuando éstas hayan sido previamente autorizadas en los presupuestos de una misma Dependencia, no se altere el techo financiero del capítulo y, no se modifique la plantilla de personal autorizada por el Congreso del Estado, observando en todos los casos lo dispuesto en la fracción I de este artículo;
+III. Las partidas de "Servicios Personales" no podrán ser consideradas como de destino, salvo en los casos que el recurso se dirija a la educación, saludo (sic) seguridad, aun cuando la partida de origen sea de ampliación automática. Asimismo, podrán realizarse adecuaciones entre partidas del capítulo de "Servicios Personales" siempre y cuando éstas hayan sido previamente autorizadas en los presupuestos de la Dependencia, no se altere el techo financiero del capítulo global del Poder Ejecutivo y, no se modifique la plantilla de personal autorizada por el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IV. Las transferencias entre partidas o programas presupuestarios de una misma unidad que conforme a las reglas anteriores se efectúen, se podrán aprobar por acuerdo del Secretario de la Hacienda Pública, previa justificación del Titular de la dependencia; y
+IV. Las adecuaciones entre partidas o programas presupuestarios de una misma unidad que se efectúen, se podrán aprobar por acuerdo del Secretario de la Hacienda Pública, previa justificación del Titular de la dependencia;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-V. Las transferencias entre partidas o programas presupuestarios contenidas en distintas unidades presupuestales que conforme a las reglas anteriores se realicen, deberán ser aprobadas por el titular del Poder Ejecutivo del Estado previa consulta del titular de la dependencia de la partida de origen y mediando justificación del titular de la dependencia receptora de recursos.
+V. Las adecuaciones entre partidas o programas presupuestarios contenidas en distintas unidades presupuestales que conforme a las reglas anteriores se realicen, deberán ser aprobadas por el titular del titular (sic) de la SHP;
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VI. Para la aplicación de las reglas definidas en los incisos anteriores, se descontará del monto total de la partida, los montos de los destinos específicos establecidos en asignaciones determinadas en el proceso de autorización del presupuesto por parte del Congreso, no podrán modificarse sin autorización del Congreso del Estado, salvo que sean economías generadas una vez concluido el destino de gasto establecido. Los destinos de gasto establecidos por el Ejecutivo del Estado, desde la iniciativa de presupuesto, si forman parte del monto total de la partida y podrán modificarse con autorización del Secretario de la Hacienda Pública; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VII. No aplicarán los límites establecidos en la fracción I de este artículo, las adecuaciones derivadas de:
+
+a) Programación de Recursos Federales Etiquetados y Recursos No Etiquetados destinados a convenios, los cuales deberán ser distribuidos y reasignados de conformidad a los lineamientos y reglas de operación, o las disposiciones aplicables;
+
+b) Las correcciones que cancelen parcial o completamente adecuaciones realizados (sic) previamente;
+
+c) Las que se realicen a través de póliza contables de conformidad con la LGCG, y
+
+d) Las que corresponda a cambios en cualquier categoría programática diferente de la partida presupuestal.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 12 DE OCTUBRE DE 2024]</small>
+
+Las adecuaciones y ampliaciones relativas a recursos federales etiquetados se operarán de conformidad a la normatividad aplicable, sin necesidad de acuerdos, para dar cumplimiento oportuno a la LFPRH. El resto de las adecuaciones establecidas en la presente fracción, deben ser autorizadas por acuerdo del Secretario de la Hacienda Pública
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 12 DE OCTUBRE DE 2024]</small>
+
+Cuando existan recursos adicionales, cualquiera de las partidas del clasificador por objeto del gasto, podrá (sic) ser ampliadas en los términos de la LDFEFYM.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 12 DE OCTUBRE DE 2024]</small>
+
+Con la autorización del Secretario de la Hacienda Pública, se podrán aplicar ampliaciones automáticas, solamente en las partidas que sean autorizadas en el Decreto de Presupuesto del año que se trate, debiendo asegurar el cierre del ejercicio en Balance Presupuestal, de conformidad a lo establecido en la LDFEFYM.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-Para los efectos del artículo anterior, las Dependencias y Entidades solicitarán a la propia Secretaría o al titular del Poder Ejecutivo por medio de la Secretaría, según el caso, las transferencias entre partidas o programas presupuestarios que consideren indispensables, justificando la medida.
+Para los efectos del artículo anterior, las Dependencias y Entidades solicitarán a la propia Secretaría o al titular del Poder Ejecutivo por medio de la Secretaría, según el caso, las adecuaciones entre partidas o programas presupuestarios que consideren indispensables, justificando la medida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -829,11 +917,15 @@ El ejercicio del gasto, deberá ajustarse a las siguientes disposiciones:
 
 I. Ningún gasto podrá efectuarse sin partida presupuestal expresa. Para que proceda una erogación, ésta deberá sujetarse al texto de la partida contenida en el Clasificador por Objeto del Gasto que lo autorice y a la suficiencia presupuestal, identificando la fuente de ingresos. En caso de duda sobre la partida a afectar, la Secretaría resolverá lo conducente;
 
-II. Sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos; para que proceda algún pago, deberá estar comprendido en el Presupuesto de Egresos, en ley o decreto posterior o con cargo a ingresos excedentes. Las erogaciones sólo podrán realizarse por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+II. Sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la Fuente de Financiamiento, para que proceda algún pago, deberá estar comprendido en el Presupuesto de Egresos, en ley o decreto posterior o con cargo a ingresos excedentes. Las erogaciones sólo podrán realizarse por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
 
 III. Previa autorización de la Secretaría se podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a ingresos excedentes;
 
-IV. La Secretaría deberá revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso del Estado la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado de acuerdo a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+IV. La Secretaría deberá revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso del Estado la Fuente de Financiamiento con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado de acuerdo a lo dispuesto por la LDFEFYM y la Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios;
 
 V. Los Ingresos excedentes derivados de Ingresos de libre disposición del Estado, deberán ser destinados a los siguientes conceptos:
 
@@ -889,23 +981,49 @@ La Secretaría deberá examinar, autorizar y registrar los créditos a cargo del
 
 Cuando el Congreso del Estado apruebe una asignación presupuestal para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto, las asignaciones presupuestales para ejercicios posteriores no podrán ser disminuidas, para asegurar el cumplimiento de los compromisos adquiridos por el Estado bajo dicho esquema.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-El Titular del Poder Ejecutivo del Estado, determinará la forma en que deberán de aplicarse presupuestalmente los subsidios que se otorguen a los Municipios de la Entidad y a los sectores social, privado y paraestatal, los beneficiarios de estos subsidios, deberán proporcionar según sea el caso, a la Secretaría, a la Contraloría del Estado o a su coordinadora de sector, bimestralmente o cuando se le requiera la información que se estime necesaria respecto a la utilización de los fondos.
+El Titular del Poder Ejecutivo del Estado, determinará la forma en que deberán de aplicarse presupuestalmente los subsidios que se otorguen a los Municipios de la Entidad y a los sectores social, privado y paraestatal, los beneficiarios de estos subsidios, deberán proporcionar según sea el caso, a la Secretaría, a la Contraloría del Estado o a su coordinadora de sector, trimestralmente o cuando se le requiera la información que se estime necesaria respecto a la utilización de los fondos.
 
-I. Para los subsidios establecidos respecto a programas sociales, se deberá señalar lo siguiente:
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+El gasto público deberá ejercerse con criterios de Derechos Humanos y Perspectiva de Género.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
+
+I. Para los subsidios establecidos respecto a programas sociales sujetos a reglas de operación (ROP), se deberá señalar lo siguiente:
 
 1. Identificar la población objetivo;
 
-2. Señalar el propósito o destino principal, y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-3. La temporalidad de su otorgamiento.
+2. Señalar el propósito o destino principal;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+3. La temporalidad de su otorgamiento;
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+4. Publicar sus reglas de operación a más tardar el 31 de marzo, y
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+5. En la elaboración de las reglas de operación, deberán observar lo señalado por el artículo 27 bis de la Ley de Desarrollo Social para el Estado de Jalisco, el artículo 13 fracción VII de la LDFEFYM; y el enfoque de perspectiva de género, establecido en la Ley Estatal para la Igualdad entre Mujeres y Hombres.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE OCTUBRE DE 2024)</small>
 
 II. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzca los gastos administrativos del programa correspondiente.
 
-La información señalada en la fracción II deberá de hacerse pública a través de las páginas oficiales de internet de la Secretaria.
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+III. La Secretaría, emitirá la validación de asignación presupuestal y alineación programática previamente a su publicación en el periódico oficial "El Estado de Jalisco" o en sus páginas oficiales según aplique.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+La información señalada en la fracción II deberá de hacerse pública a través de las páginas oficiales de internet de la Secretaría de Planeación y las de las Dependencias o Entidades responsables de ejecutar el gasto.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -913,41 +1031,39 @@ La información señalada en la fracción II deberá de hacerse pública a trav�
 
 La Secretaría cuidará de la exacta aplicación y ejecución del presupuesto aprobado por el Congreso del Estado, debiendo además llevar el registro de los compromisos establecidos, con el objeto de comprobar que la aplicación de los recursos se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes, para contribuir a un Balance Presupuestario Sostenible, sin perjuicio de las facultades de inspección, revisión y comprobación que la Contraloría Estatal y el Congreso del Estado tengan al respecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 58 Bis.
 
-El Titular del Poder, Ejecutivo, por conducto de la Secretaría, formulará, mensualmente, la información financiera necesaria para dar cumplimiento al artículo 51 de la LGCG, atendiendo lo establecido por las disposiciones en materia de transparencia.
+El Titular del Poder, Ejecutivo, por conducto de la Secretaría, formulará, trimestralmente, la información financiera necesaria para dar cumplimiento a los artículos 51 y 58 de la LGCG, atendiendo lo establecido por las disposiciones en materia de transparencia.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Los Poderes del Estado, municipios y sus dependencias y entidades que ejerzan recursos provenientes del presupuesto estatal, deberán publicar en estrados y por cualquier medio electrónico que consideren pertinente, dentro de los veinte días siguientes al cierre de la contabilidad mensual sus estados financieros, por un término de treinta días. La misma información será remitida al Congreso del Estado a través de la Auditoría Superior del Estado, dentro de ese mismo plazo, para su consulta pública y demás efectos legales.
+Los Poderes del Estado, municipios y sus dependencias y entidades que ejerzan recursos provenientes del presupuesto estatal, deberán cumplir con las disposiciones aplicables de la LGCG y la LFPRH.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Los egresos publicados conforme al párrafo anterior deberán desglosarse conteniendo el concepto y finalidad del gasto, nombre y domicilio del destinatario, así como fecha del pago y cantidad.
+La Secretaría, Administradores o Funcionario Público Responsable deberá publicar de manera desglosada la relación de egresos realizados en el periodo, conteniendo el concepto y finalidad del gasto, nombre, así como la fecha e importe del pago.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Las instituciones señaladas en este artículo, deberán expedir a costa de cualesquier ciudadano, las copias simples o certificadas que les sean solicitadas de los movimientos financieros publicados en estrados, sin mayor requisito que la promoción por escrito en términos claros y dirigida con atención y respeto.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
-
-Es responsable del cumplimiento de las obligaciones contenidas en este artículo el administrador, tesorero o funcionario público que lleve la contabilidad de la Unidad Presupuestaria.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-Los pagos que con cargo al Presupuesto de Egresos y los que conforme a la Ley y otras disposiciones aplicables, vaya a efectuar el Gobierno del Estado, se efectuarán previa instrucción de pago de la Dependencia generadora del gasto y se realizarán por conducto de la Secretaría, esta última será responsable de la revisión administrativa, en tanto, las Dependencias generadoras de dicho gasto serán las responsables de realizar su revisión legal, la justificación y procedencia de la instrucción de pago que efectúen, así como de vigilar el destino y uso adecuado del gasto. Cuando en su caso, las Dependencias realicen algún pago directamente, a través de sus fondos revolventes, serán las responsables de justificar tanto la procedencia del gasto, como la revisión administrativa y legal de la documentación comprobatoria, así como de vigilar el destino y uso adecuado del gasto. Para tal efecto los proveedores de bienes y servicios deberán de sujetarse a las disposiciones que existan en la materia.
+Los pagos que con cargo al Presupuesto de Egresos y los que conforme a la Ley y otras disposiciones aplicables, vaya a efectuar el Gobierno del Estado, se realizarán por conducto de la Secretaría, la cual será responsable de la revisión administrativa, en tanto, las dependencias y entidades generadoras del gasto, serán los responsables de efectuar la instrucción de pago, así como de la revisión legal, la justificación y procedencia de la instrucción de pago que efectúen, vigilar el destino, el uso adecuado del gasto, con la obligación de responder ante los entes fiscalizadores del ejercicio del presupuesto a su cargo. Cuando en su caso, las Dependencias realicen algún pago directamente, a través de sus fondos revolventes, serán las responsables de justificar tanto la procedencia del gasto, como la revisión administrativa y legal de la documentación comprobatoria, así como de vigilar el destino y uso adecuado del gasto. Para tal efecto los proveedores de bienes y servicios deberán de sujetarse a las disposiciones que existan en la materia.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Los pagos correspondientes a los Poderes Legislativo Judicial y entidades, se efectuarán por conducto de sus propias áreas las que serán las responsables de justificar la procedencia del gasto, la revisión administrativa y legal de la documentación comprobatoria, así como vigilar el destino y uso adecuado del gasto.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 60.
 
-El ejercicio del gasto público estatal, por concepto de adquisiciones, servicios generales, contratación de servicios y arrendamientos, se desarrollará de acuerdo con las condiciones pactadas en los contratos que para tal efecto se celebren y los cuales se caracterizarán por ser objeto de escrupuloso cuidado y moderación en cuanto al importe final de los mismos, sujetándose a lo dispuesto por la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado y su reglamento. Por lo que respecta a la inversión pública, ésta se regirá por la Ley de Obras Públicas del Estado y su reglamento, sin perjuicio, en todos los casos, de respetar la normatividad aplicable para cada acto en particular.
+El ejercicio del gasto público estatal, por concepto de adquisiciones, servicios generales, contratación de servicios y arrendamientos, se desarrollará de acuerdo con las condiciones pactadas en los contratos que para tal efecto se celebren y los cuales se caracterizarán por ser objeto de escrupuloso cuidado y moderación en cuanto al importe final de los mismos, sujetándose a lo dispuesto por la Ley de Compras Gubernamentales, Enajenaciones del Estado de Jalisco y sus Municipios y su reglamento. Por lo que respecta a la inversión pública, ésta se regirá por la Ley de Obras Públicas del Estado y su reglamento, sin perjuicio, en todos los casos, de respetar la normatividad aplicable para cada acto en particular.
 
 ###### Artículo 61.
 
@@ -995,11 +1111,11 @@ Cuando algún Servidor Público fallezca y tuviera más de seis meses de servici
 
 Sólo por acuerdo del titular del Poder Ejecutivo del Estado, podrán ser autorizados los pagos de cantidades con cargo a las partidas de imprevistos, correspondientes al poder que representa.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 70.
 
-La ministración de recursos para los fondos revolventes que conforme al Presupuesto de Egresos ejerzan las Dependencias del Ejecutivo, se efectuará por conducto de la Secretaría, de conformidad con los lineamientos que para ello emita el Gobernador del Estado.
+La ministración de recursos para los fondos revolventes que conforme al Presupuesto de Egresos ejerzan las Dependencias del Ejecutivo, se efectuará por conducto de la Secretaría, de conformidad a la normatividad que para ello emita la Secretaría.
 
 ###### Artículo 71.
 
@@ -1011,25 +1127,25 @@ De las participaciones que le corresponda recibir al Gobierno del Estado, así c
 
 Las Entidades a las que se refieren los artículos 32 y 33 de esta ley, cuidarán bajo su más estricta responsabilidad que su gasto se ejerza conforme al presupuesto aprobado, apegándose además a los ordenamientos que la rijan. Su contabilidad se llevará en la forma que se precisa en el Título Cuarto de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 73.
 
-Las claves presupuestales comprendidas en el Presupuesto, solo serán afectadas en el importe del ejercicio propio siempre y cuando hubiere suficiencia presupuestal para pagar los compromisos, a excepción de las relativas a deuda pública. En consecuencia, no se deberán hacer cargos por conceptos que debieron pagarse en ejercicios anteriores, ni anticipos por cuenta de ejercicios venideros.
+Las claves presupuestales comprendidas en el Presupuesto, solo serán afectadas en el importe del ejercicio propio, siempre y cuando hubiere suficiencia presupuestal para pagar los compromisos, a excepción de las relativas a deuda pública, así como aquellos pagos de transferencias federales etiquetadas en apego a la LDFEFYM que deberán reflejarse a través de ampliaciones al presupuesto autorizado. En consecuencia, salvo lo previsto por la LDFEFYM no se deberán hacer cargos por conceptos que debieron pagarse en ejercicios anteriores, ni anticipos por cuenta de ejercicios venideros. La Secretaria podrá realizar contenciones temporales o definitivas a las partidas del presupuesto autorizado, cuando no se estén cumpliendo las proyecciones de ingreso a fin de garantizar el balance presupuestario, en los términos de la LDFEFYM.
 
 ###### Artículo 74.
 
 Para los efectos del Presupuesto, la Deuda Pública comprende las obligaciones provenientes de adeudos contraídos dentro de las asignaciones presupuestales autorizadas por la Secretaría en los términos de esta Ley, durante el ejercicio para el cual fueron fijadas y no satisfechas a la terminación del propio ejercicio, así como los reconocidos expresamente por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 75.
 
-Las obligaciones por compromisos contraídos durante un ejercicio fiscal, sin considerar a la Deuda Pública, que hayan sido autorizadas y devengadas en el mismo, pero que no fuesen saldadas durante dicho término, se podrán pagar durante los primeros 60 días del siguiente ejercicio fiscal, siempre y cuando tales erogaciones se hagan con cargo al primero y se reúnan los requisitos siguientes:
+Las obligaciones por compromisos contraídos durante un ejercicio fiscal, sin considerar a la Deuda Pública, que hayan sido autorizadas, devengadas en el mismo, pero que no se hubieran liquidado durante dicho término, se podrán pagar durante los primeros 60 días del siguiente ejercicio fiscal, siempre y cuando tales erogaciones se hagan con cargo al primero y se reúnan los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-I. Que se encuentra contabilizadas al 31 de diciembre del ejercicio en que se contrajeron, se hubiese registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio;
+I. Que se encuentra contabilizadas al 31 de diciembre del ejercicio en que se contrajeron;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -1047,19 +1163,19 @@ Las obligaciones contraídas fuera de las asignaciones presupuestales, requieren
 
 Para pagar las obligaciones que dentro de los términos legales que contraigan en un ejercicio fiscal, que deban cubrirse en años futuros, es necesario que las dependencias contratantes incluyan dentro de sus presupuestos, las cantidades necesarias para hacerlas efectivas, en las proporciones que se vayan devengando en cada ejercicio, pues solo se llevarán a deuda pública, cuando para contraer esas obligaciones se haya hecho necesaria la contratación de un empréstito.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Las asignaciones aprobadas por el Congreso del Estado para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto estarán garantizadas, para tal efecto los presupuestos de los ejercicio (sic) siguientes deberán incluir las asignaciones necesarias para su cabal cumplimiento.
+Las asignaciones aprobadas por el Congreso del Estado para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto estarán garantizadas, para tal efecto los presupuestos de los ejercicios siguientes deberán incluir las asignaciones necesarias para su cabal cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 78.
 
-Con aquellos compromisos contraídos en un ejercicio fiscal que no hayan sido devengados al término del mismo, la Secretaría formulará un listado de dichos adeudos que deberán ser cubiertos con los saldos no afectados de las claves presupuestales del ejercicio fiscal precedente, ampliando las asignaciones destinadas a cubrir adeudos de ejercicios fiscales anteriores contenidos en el presupuesto en vigor. En el caso de las dependencias y entidades, la Secretaría determinará la procedencia de pago en ejercicio posterior, sujetándose a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Con aquellos compromisos contraídos en un ejercicio fiscal que no hayan sido devengados al término del mismo, la Secretaría formulará un listado de dichos adeudos que deberán ser cubiertos con los saldos no afectados de las claves presupuestales del ejercicio fiscal precedente, pudiendo ampliar las asignaciones destinadas a cubrir adeudos de ejercicios fiscales anteriores contenidos en el presupuesto en vigor o afectando las claves del presupuesto vigente. En el caso de las dependencias y entidades, será la Secretaría la que determinará la procedencia de pago en ejercicio posterior, sujetándose a lo dispuesto por la LDFEFYM y LGCG.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Esta disposición no es aplicable cuando se trate de adeudos que trasciendan el período constitucional.
+Esta disposición no es aplicable cuando se trate de adeudos que trascienden el período constitucional.
 
 ###### Artículo 79.
 
@@ -1070,6 +1186,10 @@ La Secretaría será la beneficiaria de todas las garantías que se otorguen a f
 ###### Artículo 80.
 
 El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo al presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Artículo 80 bis.- Los Organismos Públicos Descentralizados y Fideicomisos que reciban subsidio Estatal a través del Presupuesto de Egresos, cuyos recursos transferidos al 31 de diciembre, que no se encuentren comprometidos en los términos de la LGCG y demás normatividad aplicable deberán ser reintegrados a la Secretaría, a más tardar al 15 de enero del ejercicio inmediato siguiente.
 
 ###### Artículo 81.
 
@@ -1084,6 +1204,10 @@ El Congreso del Estado, en el mismo presupuesto de Egresos dictará las disposic
 ###### Artículo 82.
 
 La Secretaría tendrá a su cargo el sistema de contabilidad gubernamental, el cual será centralizado con respecto a las Dependencias del Ejecutivo, con la finalidad de contar con los elementos que coadyuven al establecimiento de las políticas de ingresos y de gasto público, así como el control y evaluación de los avances programáticos de la actividad oficial, para lo cual la Secretaría será la responsable del diseño e instrumentación del sistema contable del Gobierno del Estado, aplicando los postulados básicos de la contabilidad gubernamental, así como las normas que expida el titular del Poder Ejecutivo Estatal, atendiendo las disposiciones emitidas por la CONAC.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Los titulares de los Centros de Registro serán los responsables de la veracidad y oportunidad de la información que incorporen al sistema. La introducción de datos a la Contabilidad Gubernamental, debe generarse automáticamente y por única vez a partir de los procesos administrativos de los entes públicos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1107,17 +1231,23 @@ IV. Ingresos y Otros Beneficios;
 
 V Gasto; y Otras Pérdidas;
 
-VI. Cuentas de Cierre o Cierre Contable;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VI. Cuentas de Cierre Contable;
 
 VII. Cuentas de Orden Contables;
 
 VIII. Cuentas de Orden Presupuestarias; y
 
-IX. Cuentas de Liquidación y Cierre Presupuestario.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+IX. Cuentas de Cierre Presupuestario.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 85.
 
-La contabilidad deberá llevarse en base acumulativa entendiéndose por ello el registro de las operaciones devengadas, es decir que la contabilización de las transacciones se hará conforme a la fecha de su realización, independientemente de la de su pago.
+Los registros contables se llevarán con base acumulativa, entendiéndose por ello el registro de las operaciones devengadas. La contabilización de las transacciones de gasto y del ingreso se registrará de conformidad a los lineamientos que emita en CONAC.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -1149,25 +1279,31 @@ Independientemente de lo expresado en el artículo anterior las Entidades, cuand
 
 ### Capítulo II. De los Archivos Contables
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 91.
 
-El archivo contable gubernamental consta de registros contables y documentación comprobatoria del ingreso y gasto público de las Dependencias.
+El Archivo Contable Gubernamental consta de registros contables, documentación comprobatoria del ingreso y gasto público de las Dependencias y demás información digital que establezcan las disposiciones aplicables.
 
 ###### Artículo 92.
 
 La Secretaría será la responsable del archivo contable gubernamental, debiendo mantenerlo actualizado en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Los Titulares de los Centros de Registro serán los responsables de que cada registro contable y presupuestal tenga el soporte comprobatorio correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 93.
 
-El Poder Ejecutivo a través de la Secretaría, los Poderes Legislativo y Judicial, así como las Entidades, están obligadas a conservar documentación comprobatoria de su contabilidad de archivos físicos por seis años. El Congreso del Estado, a través de la Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
+El Poder Ejecutivo a través de la Secretaría, los Poderes Legislativo y Judicial, así como las Entidades, están obligadas a conservar documentación comprobatoria de su contabilidad conforme lo establezca la Ley de Archivo del Estado de Jalisco y sus Municipios.
 
-Al rendir la aprobación de la cuenta anual correspondiente al segundo ejercicio fiscal de la administración en funciones, podrá autorizar la destrucción de la documentación correspondiente al segundo año de la administración anterior, y así sucesivamente para las cuentas anuales subsiguientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Se exceptúa de lo dispuesto en este artículo la documentación relativa a los convenios, actos o contratos cuya vigencia y cumplimiento no hubieran concluido, se encuentren en litigio o exista disposición legal expresa para ello, en cuyo caso, los plazos empezarán a correr a partir de la fecha de extinción o cumplimiento de las obligaciones establecidas en los documentos respectivos.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Adicionalmente a lo dispuesto en el primer párrafo de este artículo la documentación relativa a los convenios, actos o contratos cuya vigencia y cumplimiento no hubieran concluido, se encuentra en litigio o exista disposición legal expresa para ello, en cuyo caso, los plazos empezarán a correr a partir De (sic) fecha de extinción o cumplimiento de las obligaciones establecidas en los documentos respectivos
 
 ### Capítulo III. De la Cuenta Pública
 
@@ -1179,39 +1315,39 @@ Para los efectos de esta ley, la cuenta pública del Gobierno del Estado tiene p
 
 La cuenta pública estará constituida por los estados financieros y demás información que compruebe el registro de las operaciones derivadas de la aplicación de la Ley de Ingresos y del ejercicio del gasto público, así como la incidencia entre las operaciones y las cuentas de balance incluyendo el origen y destino de los recursos, observando las disposiciones de la LGCG y la normas que para tal efecto emita el CONAC.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+La Cuenta Pública del Estado de Jalisco, se integrará con la consolidación de la Cuenta Pública del Poder Ejecutivo, la de los Poderes Legislativo, Judicial, Organismos Constitucionales Autónomos y Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 95.
 
-La formulación de la cuenta pública se realizará por la Secretaría y en particular por cada uno de los entes públicos, cumpliendo con las disposiciones normativas aplicables para su revisión, integración y remisión a la Auditoria Superior del Estado de Jalisco, de conformidad con las normas establecidas por el CONAC, y en los términos que señalan la Constitución Política y la Ley de Deuda Pública y Disciplina Financiera, ambos ordenamientos del estado de Jalisco.
+La formulación de la cuenta pública se realizará por la Secretaría y en particular por cada uno de los entes públicos, cumpliendo con las disposiciones normativas aplicables para su revisión, integración y remisión al Congreso del Estado de Jalisco, de conformidad con las normas establecidas por el CONAC, y en los términos que señalan la Constitución Política y la Ley de Deuda Pública y Disciplina Financiera, ambos ordenamientos del estado de Jalisco, así como la LGCG y la Ley de Fiscalización.
 
 ###### Artículo 96.
 
 Las Entidades que no estén incluidas en el Presupuesto de Egresos, pero que estén obligadas a presentar su propia cuenta pública a la revisión y glosa del Congreso Estatal, se sujetarán para tal efecto a las disposiciones contenidas en este Capítulo.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Los organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal, están obligados a:
+Los organismos públicos descentralizados, fideicomisos públicos con estructura y empresas de participación estatal, están obligados a:
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 Remitir sus estados financieros dictaminados, cada anualidad por contador público externo autorizado por la Contraloría del Estado, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, a la Contraloría y a la Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Los resultados de la revisión a los estados financieros que formulen los auditores autorizados, deberán emitirse conforme los lineamientos establecidos en la Ley de Fiscalización Superior y Auditoria Pública del Estado de Jalisco y sus municipios.
+Los resultados de la revisión a los estados financieros que formulen los auditores autorizados, deberán emitirse conforme los lineamientos establecidos en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus municipios.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-La Auditoría Superior del Estado emitirá opinión técnica sobre los resultados a la revisión de los estados financieros y remitirlos al Congreso del Estado para su revisión.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos externos que se rindan al Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-La Auditoría Superior del Estado, por derecho propio, podrá realizar auditoría a las entidades señaladas en este artículo, no obstante éstas hayan rendido los resultados sobre sus estados financieros.
+La Auditoría Superior del Estado, por derecho propio, podrá realizar auditoría a las entidades señaladas en este artículo, no obstante, éstas hayan rendido los resultados sobre sus estados financieros.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -1221,11 +1357,15 @@ La revisión, glosa y control de la cuenta pública, será realizada por el Cong
 
 La revisión, glosa y control de la cuenta pública comprenderá una revisión legal, económica y contable del ingreso y del gasto público, verificando la exactitud y la justificación de dichos aspectos, de acuerdo con los conceptos autorizados para uno y otro rubro, así como su impacto en el cumplimento de la programación oficial del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 98.
 
-Si del examen que en los términos del artículo anterior realice la Auditoría Superior del Estado, aparecieran discrepancias entre las cantidades autorizadas al gasto con las realizadas, o bien, no existiera exactitud ni justificación tanto en los gastos que se efectuaron, como en los ingresos que se recibieron o debieron exigir, además de cualquier otra irregularidad que a juicio del citado órgano de revisión y control del Congreso del Estado, y de acuerdo a la ley se justifique, se determinarán las responsabilidades conducentes, mismas que fincarán ante la autoridad que conforme a las leyes y en atención a cada caso en particular sea competente para hacerlo.
+Si del examen que en los términos del artículo anterior realice la Auditoría Superior del Estado, aparecieran discrepancias y variaciones entre las cantidades autorizadas al gasto con las realizadas, o bien, no existiera exactitud ni justificación tanto en los gastos que se efectuaron, como en los ingresos que se recibieron o debieron exigir, además de cualquier otra discrepancia que a juicio del citado órgano de revisión y control del Congreso del Estado, y de acuerdo a la ley se justifique, se determinarán los procedimientos o responsabilidades conducentes en los términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus municipios.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Todo lo establecido en el presente Título será aplicable en cuanto no se contraponga a la LGCG y demás normatividad emitida por el CONAC, asimismo en lo no contemplado, se aplicarán de manera supletoria las disposiciones mencionadas.
 
 ## TÍTULO QUINTO. DEL CONTROL VIGILANCIA Y EVALUACIÓN DEL GASTO PÚBLICO
 
@@ -1239,19 +1379,27 @@ Las funciones que se señalan en este Capítulo se realizarán en los respectivo
 
 La Secretaría tendrá amplias facultades para hacer las inspecciones y comprobaciones de aplicación presupuestal que juzgue necesarias, salvo las facultades reservadas al Congreso del Estado y a la Contraloría del Estado por las leyes y reglamentos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 101.
 
-La Secretaría realizará periódicamente la evaluación del Gasto Público, en función de los programas oficiales, mediante el seguimiento de los avances físicos y financieros que vayan presentado (sic) los programas anuales aprobados, con la finalidad de medir el grado de cumplimiento de sus objetivos y metas.
+La Secretaría realizará periódicamente la evaluación del Gasto Público, en función del desempeño de los programas presupuestales, mediante el seguimiento de los avances físicos y financieros que vayan presentado respecto a las metas anuales aprobadas, con la finalidad de medir el grado de cumplimiento.
 
-Para tal efecto, las Dependencias y Entidades deberán informar periódicamente a la "Secretaría" sobre el avance físico y financiero de los programas oficiales además enviarán la información adicional que le sea requerida de conformidad con las disposiciones administrativas que emita al respecto la "Secretaría".
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Para tal efecto, las Dependencias y Entidades deberán informar periódicamente a la "Secretaría" sobre el avance físico y financiero de los programas presupuestales además enviarán la información adicional que le sea requerida de conformidad con las disposiciones administrativas que emita al respecto la "Secretaría".
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 102.
 
-Internamente las Dependencias y Entidades deberán evaluar en forma permanente sus programas de acuerdo a los criterios y procedimientos que para tal efecto establezca la Secretaría, lo anterior con el fin de cuantificar los objetivos, metas y beneficios alcanzados; mejorar la utilización de los recursos; controlar los avances y detectar desviaciones del gasto público en relación a la programación oficial; así como instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación de los recursos financieros.
+Internamente las Dependencias y Entidades deberán evaluar en forma permanente el desempeño de sus programas de acuerdo a los criterios y procedimientos que para tal efecto establezca la Secretaría, lo anterior con el fin de cuantificar los objetivos, metas y beneficios alcanzados; mejorar la utilización de los recursos; controlar los avances y detectar desviaciones del gasto público en relación a la programación oficial; así como instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación de los recursos financieros.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 103.
 
-De igual forma, la Secretaría tendrá la obligación de informar periódicamente al Titular del Poder Ejecutivo del Estado, sobre los resultados del control, seguimiento y evaluación del grado de avance físico-financiero de los programas oficiales autorizados en el Presupuesto de Egresos del Estado.
+De igual forma, la Secretaría tendrá la obligación de informar periódicamente al Titular del Poder Ejecutivo del Estado, sobre los resultados del control, seguimiento y evaluación del grado de avance físico-financiero de los programas presupuestales autorizados en el Presupuesto de Egresos del Estado.
 
 ###### Artículo 104.
 
@@ -1283,17 +1431,25 @@ La evaluación del desempeño se realizará a través de la verificación del gr
 
 Todas las evaluaciones se harán públicas.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 107.
 
-La Secretaría y la Contrataría (sic) del Estado, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias, con base en las reglas y recomendaciones que emita la Secretaría a través del Sistema de Evaluación del Desempeño del estado de Jalisco, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes.
+La Secretaría y la Contraloría del Estado, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada trimestre, los resultados de y de (sic) ejecución de los programas y presupuestos de las dependencias, con base en las reglas y recomendaciones que emita la Secretaría a través del Sistema de Evaluación del Desempeño del estado de Jalisco, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Dicho Sistema de Evaluación del Desempeño a que se refiere el párrafo anterior del presente artículo será obligatorio para los ejecutores de gasto, e incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, desglosados por mes, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y perspectiva de género.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 La Secretaría emitirá las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 Los indicadores del Sistema de Evaluación del Desempeño deberán formar parte del Presupuesto de egresos de cada ejercicio fiscal e incorporar sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
 
@@ -1327,11 +1483,15 @@ IV. Cuando por razón de la naturaleza de sus funciones tengan conocimiento de q
 
 V. Distraigan de su objeto dinero o valores, para usos propios o ajenos, si por razón de sus funciones los hubiera recibido en administración, depósito o por otras causas;
 
-VI. Incumpla con la obligación de proporcionar en tiempo y forma la información requerida por el Congreso del Estado a través de la Auditoria Superior del Estado, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-VII. Realicen acciones u omisiones que impidan el ejercicio suficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales establecidas en sus presupuestos y de acuerdo a las partidas y montos presupuestales autorizados; y
+VI. Incumpla con la obligación de proporcionar en tiempo y forma la información requerida por el Congreso del Estado a través de la Auditoria Superior del Estado, en el ámbito de su competencia; y
 
-VIII. Adquieran compromisos que rebasen los techos financieros autorizados por cada capítulo por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+VII. Realicen acciones u omisiones que impidan el ejercicio suficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales establecidas en sus presupuestos y de acuerdo a las partidas y montos presupuestales autorizados.
+
+VIII. (DEROGADA, P.O. 12 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1339,15 +1499,17 @@ VIII. Adquieran compromisos que rebasen los techos financieros autorizados por c
 
 Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la Hacienda Pública Estatal, a los recursos que administran los Poderes o al patrimonio de cualquier Organismos Público Autónomo y Entidades, además de los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por cumplimiento de obligaciones derivadas de esta Ley, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones generales aplicables.
 
-Las responsabilidades se fincarán en primer término a quieres (sic) directamente hayan ejecutado los actos o incurran en las omisiones que la originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que la originaron y, subsidiariamente, a los que, por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
 
 Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales privadas en los casos en que hayan participado y originen una responsabilidad.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 111.
 
-Las sanciones e indemnizaciones que se determinen conforme a las disposiciones de esta Ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad liquida, sujetándose al procedimiento administrativo de ejecución que establece la legislación fiscal aplicable.
+Las sanciones e indemnizaciones que se determinen conforme a las disposiciones de esta Ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, sujetándose al procedimiento administrativo de ejecución que establece la legislación fiscal aplicable.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1395,9 +1557,13 @@ I. Un glosario de términos o definiciones relevantes en materia presupuestal;
 
 II. Información relativa al gasto en educación;
 
-III. Las previsiones del gasto destinado a programas vinculados con políticas para la atención de niños, niñas y adolescentes, a la mitigación de los efectos del cambio climático y de la equidad de género; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
-IV. Un listado de información focalizada en los demás temas de interés de los entes públicos.
+III. Las previsiones del gasto destinado a transversalidades establecidas en la LFPRH vinculados con políticas para la atención de niños, niñas y adolescentes, a la mitigación de los efectos del cambio climático y de la equidad de género; y
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+IV. Información focalizada en los temas especiales determinados en el PEGD y los de interés de los entes públicos.
 
 ## TRANSITORIOS
 
@@ -1630,3 +1796,9 @@ P.O. 5 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27395/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial ''El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29558/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS PÁRRAFOS, ARTÍCULOS Y DEROGA DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO”.]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
