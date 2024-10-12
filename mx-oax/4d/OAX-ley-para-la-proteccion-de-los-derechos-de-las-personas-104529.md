@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2024-03-02"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -329,17 +329,21 @@ d) Recibir formación educativa y aquella con la que se logre el desarrollo de s
 
 e) Participar en la vida cívica cultural deportiva económica y recreativa de su comunidad;
 
-f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)</small>
+
+f) Participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su bienestar, barrio, calle, colonia, localidad o municipio;
+
+g) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
-g) A la alfabetización digital, entendida como la enseñanza y aprendizaje de conceptos y habilidades básicas para interactuar mediante el uso de las tecnologías de la información y la comunicación para que las personas adultas mayores puedan utilizarlas en su vida cotidiana y desarrollar nuevas oportunidades sociales y económicas para ellos, sus familias y comunidades, así como garantizar su inclusión.
+h) A la alfabetización digital, entendida como la enseñanza y aprendizaje de conceptos y habilidades básicas para interactuar mediante el uso de las tecnologías de la información y la comunicación para que las personas adultas mayores puedan utilizarlas en su vida cotidiana y desarrollar nuevas oportunidades sociales y económicas para ellos, sus familias y comunidades, así como garantizar su inclusión.
 
 Las autoridades estatales y municipales, en el ámbito de sus competencias, garantizarán el acceso y ejercicio de este derecho.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
-h) La información plural, oportuna y accesible, con apoyo para el uso de tecnologías y formatos de lectura fácil para garantizar la igualdad de condiciones.
+i) La información plural, oportuna y accesible, con apoyo para el uso de tecnologías y formatos de lectura fácil para garantizar la igualdad de condiciones.
 
 VII. Al trabajo, que comprende:
 
@@ -1094,5 +1098,15 @@ P.O. 2 DE MARZO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2441.- MEDIANTE EL CUAL ADICIONA EL INCISO F) RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES DE LA FRACCIÓN VI DEL ARTÍCULO 9, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
