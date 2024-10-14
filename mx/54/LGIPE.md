@@ -4,7 +4,7 @@ identifier: "LGIPE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2024-04-01"
+last_updated: "2024-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100928&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGIPE"
 
 LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -66,11 +66,9 @@ LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
 3. Las Constituciones y leyes locales se ajustarán a lo previsto en la Constitución y en esta Ley.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-4. LA RENOVACIÓN DE LOS PODERES EJECUTIVO Y LEGISLATIVO DE LA FEDERACIÓN Y DE LAS ENTIDADES FEDERATIVAS, ASÍ COMO DE LOS AYUNTAMIENTOS DE LOS ESTADOS Y LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO, SE REALIZARÁN MEDIANTE ELECCIONES LIBRES, AUTÉNTICAS Y PERIÓDICAS, MEDIANTE SUFRAGIO UNIVERSAL, LIBRE, SECRETO Y DIRECTO.
+4. La renovación de los poderes Ejecutivo, Legislativo y Judicial de la Federación, así como las correspondientes a los poderes Ejecutivo, Legislativo, Judicial y de los Ayuntamientos en los estados de la Federación, y de la Jefatura de Gobierno, diputadas y diputados al Congreso de la Ciudad de México, integrantes del Poder Judicial de la Ciudad de México y las personas titulares de las Alcaldías, se realizarán mediante elecciones libres, auténticas y periódicas, mediante sufragio universal, libre, secreto y directo.
 
 ###### Artículo 2.
 
@@ -80,11 +78,9 @@ LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
 a) Los derechos y obligaciones político-electorales de las ciudadanas y los ciudadanos;
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-b) LA FUNCIÓN ESTATAL DE ORGANIZAR ELECCIONES MEDIANTE UN SISTEMA NACIONAL ELECTORAL DE FACULTADES CONCURRENTES;
+b) La función estatal de organizar las elecciones de los integrantes de los Poderes Legislativo, Ejecutivo y Judicial de la Unión;
 
 c) Las reglas comunes a los procesos electorales federales y locales, y
 
@@ -157,6 +153,10 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 > <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL INCISO K, D.O.F. 13 DE ABRIL DE 2020]</small>
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+l) Personas juzgadoras: Personas ministras, magistradas y juezas que integran el Poder Judicial de la Federación, o personas magistradas y juezas que integran los Poderes Judiciales locales, electas por mayoría relativa y voto directo de la ciudadanía.
 
 ###### Artículo 4.
 
@@ -674,7 +674,9 @@ c) Integrar el Registro Federal de Electores;
 
 d) Asegurar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
 
-e) Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo de la Unión, así como ejercer las funciones que la Constitución le otorga en los procesos electorales locales;
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+e) Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial de la Unión, así como ejercer las funciones que la Constitución le otorga en los procesos electorales locales;
 
 f) Velar por la autenticidad y efectividad del sufragio;
 
@@ -1312,11 +1314,9 @@ c) Convocar y conducir las sesiones del Consejo General;
 
 d) Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo General;
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-e) PROPONER AL CONSEJO GENERAL EL NOMBRAMIENTO DE LAS PERSONAS TITULARES DE LA SECRETARÍA EJECUTIVA Y DE LAS DIRECCIONES EJECUTIVAS DEL INSTITUTO;
+e) Proponer al Consejo General el nombramiento del Secretario Ejecutivo;
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA EL INCISO f) DEL NUMERAL 1 DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1356,7 +1356,11 @@ n) Convenir con las autoridades competentes la información y documentos que hab
 
 o) Ordenar, en su caso, la publicación en el Diario Oficial de la Federación de los acuerdos y resoluciones que pronuncie el Consejo General, y
 
-p) Las demás que le confiera esta Ley.
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+p) Designar a los directores ejecutivos y demás titulares de unidades técnicas del Instituto, y
+
+q) Las demás que le confiera esta Ley.
 
 ###### Artículo 46.
 
@@ -1418,11 +1422,9 @@ p) Lo demás que le sea conferido por esta Ley, el Consejo General y su presiden
 
 ###### Artículo 47.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-1. LA COMISIÓN DE ADMINISTRACIÓN DEL CONSEJO GENERAL SERÁ INTEGRADA EN LOS TÉRMINOS DE ESTA LEY Y LA PERSONA TITULAR DE LA DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN Y DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL FUNGIRÁ COMO TITULAR DE SU SECRETARÍA TÉCNICA.
+1. La Junta General Ejecutiva será presidida por el Presidente del Consejo General y se integrará con el Secretario Ejecutivo y con los directores ejecutivos del Registro Federal de Electores, de Prerrogativas y Partidos Políticos, de Organización Electoral, del Servicio Profesional Electoral Nacional, de Capacitación Electoral y Educación Cívica, de Administración, y de Asuntos Jurídicos, así como los titulares de la Unidad Técnica de Fiscalización, de la Unidad Técnica de lo Contencioso Electoral y de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1444,11 +1446,9 @@ p) Lo demás que le sea conferido por esta Ley, el Consejo General y su presiden
 
 a) PROPONER AL CONSEJO GENERAL, A PROPUESTA DE LAS DIRECCIONES EJECUTIVAS CORRESPONDIENTES DENTRO DEL ÁMBITO DE SUS COMPETENCIAS, LAS POLÍTICAS Y LOS PROGRAMAS GENERALES DEL INSTITUTO;
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-b) ESTABLECER LOS PROCEDIMIENTOS ADMINISTRATIVOS, PREVIA PROPUESTA DE LAS DIRECCIONES EJECUTIVAS, CONFORME A LAS POLÍTICAS Y PROGRAMAS GENERALES DEL INSTITUTO;
+b) Aprobar los acuerdos correspondientes para la coordinación y ejecución de las actividades administrativas, técnicas, operativas del Instituto y de coordinación de las Juntas Locales y Distritales Ejecutivas, relacionadas para la organización de las elecciones de los poderes Ejecutivo, Legislativo y Judicial, así como para el funcionamiento ordinario del Instituto.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA EL INCISO c) DEL NUMERAL 1 DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -9936,11 +9936,9 @@ c) El denunciante no aporte ni ofrezca prueba alguna de sus dichos, o
 
 d) La denuncia sea evidentemente frívola.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-6. LA DIRECCIÓN EJECUTIVA JURÍDICA Y DE LO CONTENCIOSO ELECTORAL DEBERÁ ADMITIR O DESECHAR LA DENUNCIA EN UN PLAZO NO MAYOR A 24 HORAS POSTERIORES A SU RECEPCIÓN. EN CASO DE DESECHAMIENTO, NOTIFICARÁ AL DENUNCIANTE SU RESOLUCIÓN, POR EL MEDIO MÁS EXPEDITO A SU ALCANCE DENTRO DEL PLAZO DE DOCE HORAS; TAL RESOLUCIÓN DEBERÁ SER CONFIRMADA POR ESCRITO Y SE INFORMARÁ A LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL, PARA SU CONOCIMIENTO.
+6. La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará a la Comisión Especializada de la Sala Superior, para su conocimiento.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 7 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -9988,11 +9986,9 @@ d) CONCLUIDO EL DESAHOGO DE LAS PRUEBAS, LA DIRECCIÓN EJECUTIVA JURÍDICA Y DE 
 
 ###### Artículo 473.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-1. CELEBRADA LA AUDIENCIA, LA DIRECCIÓN EJECUTIVA JURÍDICA Y DE LO CONTENCIOSO ELECTORAL DEBERÁ TURNAR DE FORMA INMEDIATA EL EXPEDIENTE COMPLETO, EXPONIENDO EN SU CASO, LAS MEDIDAS CAUTELARES Y DEMÁS DILIGENCIAS QUE SE HAYAN LLEVADO A CABO, A LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL, ASÍ COMO UN INFORME CIRCUNSTANCIADO.
+1. Celebrada la audiencia, la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva deberá turnar de forma inmediata el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, a la Sala Superior, así como un informe circunstanciado.
 
 El informe circunstanciado deberá contener por lo menos, lo siguiente:
 
@@ -10012,7 +10008,9 @@ e) Las conclusiones sobre la queja o denuncia.
 
 DEL INFORME CIRCUNSTANCIADO SE ENVIARÁ UNA COPIA A LA COMISIÓN JURÍDICA Y DE LO CONTENCIOSO ELECTORAL DEL INSTITUTO PARA SU CONOCIMIENTO.
 
-2. Recibido el expediente, la Sala Regional Especializada del Tribunal Electoral actuará conforme lo dispone la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+2. Recibido el expediente, la Sala Superior del Tribunal Electoral actuará conforme lo dispone la legislación aplicable.
 
 ###### Artículo 474.
 
@@ -10030,11 +10028,9 @@ a) LA DENUNCIA SERÁ PRESENTADA ANTE LA PERSONA VOCAL OPERATIVA DE LA OFICINA AU
 
 b) LA PERSONA VOCAL OPERATIVA O EJECUTIVA EJERCERÁ, EN LO CONDUCENTE, LAS FACULTADES SEÑALADAS EN EL ARTÍCULO ANTERIOR PARA LA DIRECCIÓN EJECUTIVA JURÍDICA Y DE LO CONTENCIOSO ELECTORAL, CONFORME AL PROCEDIMIENTO Y DENTRO DE LOS PLAZOS SEÑALADOS POR EL MISMO ARTÍCULO, Y
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL INCISO c) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-c) CELEBRADA LA AUDIENCIA, LA PERSONA VOCAL OPERATIVA O LA VOCAL EJECUTIVA DEBERÁ TURNAR A LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL DE FORMA INMEDIATA EL EXPEDIENTE COMPLETO, EXPONIENDO LAS DILIGENCIAS QUE SE HAYAN LLEVADO A CABO, ASÍ COMO UN INFORME CIRCUNSTANCIADO EN TÉRMINOS DE LO DISPUESTO EN ESTA LEY.
+c) Celebrada la audiencia, el vocal ejecutivo de la junta correspondiente deberá turnar a la Sala Superior del Tribunal Electoral de forma inmediata el expediente completo, exponiendo las diligencias que se hayan llevado a cabo, así como un informe circunstanciado en términos de lo dispuesto en esta Ley.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -10082,11 +10078,9 @@ d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las 
 
 e) En su caso, las medidas cautelares y de protección que se soliciten.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-5. LA DIRECCIÓN EJECUTIVA JURÍDICA Y DE LO CONTENCIOSO ELECTORAL, DEBERÁ ADMITIR O DESECHAR LA DENUNCIA EN UN PLAZO NO MAYOR A 24 HORAS POSTERIORES A SU RECEPCIÓN; TAL RESOLUCIÓN DEBERÁ SER CONFIRMADA POR ESCRITO Y SE INFORMARÁ A LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL, PARA SU CONOCIMIENTO.
+5. La Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará a la Sala Superior del Tribunal Electoral, para su conocimiento.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA ESTE PÁRRAFO DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -10104,11 +10098,9 @@ b) Sea notoriamente frívola o improcedente.
 
 7. CUANDO LA DIRECCIÓN EJECUTIVA JURÍDICA Y DE LO CONTENCIOSO ELECTORAL ADMITA LA DENUNCIA, EMPLAZARÁ A LAS PARTES, PARA QUE COMPAREZCAN A UNA AUDIENCIA DE PRUEBAS Y ALEGATOS, QUE TENDRÁ LUGAR DENTRO DEL PLAZO DE CUARENTA Y OCHO HORAS POSTERIORES A LA ADMISIÓN. EN EL ESCRITO RESPECTIVO SE LE INFORMARÁ A LA PERSONA DENUNCIADA DE LA INFRACCIÓN QUE SE LE IMPUTA Y SE LE CORRERÁ TRASLADO DE LA DENUNCIA CON SUS ANEXOS.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 8 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 2 DE MARZO DE 2023)</small>
-
-8. EN LO PROCEDENTE, EL DESARROLLO DE LA AUDIENCIA DE PRUEBAS Y ALEGATOS Y SU TRASLADO A LA SALA REGIONAL ESPECIALIZADA, SE DESARROLLARÁN CONFORME LO DISPUESTO EN EL ARTÍCULO 473.
+8. En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado a la Sala Superior del Tribunal Electoral, se desarrollarán conforme lo dispuesto en el artículo 473.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 9 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -10118,21 +10110,19 @@ b) Sea notoriamente frívola o improcedente.
 
 ###### Artículo 475.
 
-1. Será competente para resolver sobre el procedimiento especial sancionador referido en el artículo anterior, la Sala Regional Especializada del Tribunal Electoral.
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+1. Será competente para resolver sobre el procedimiento especial sancionador referido en el artículo anterior, la Sala Superior del Tribunal Electoral.
 
 ###### Artículo 476.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
+1. La Sala Superior recibirá del Instituto el expediente original formado con motivo de la denuncia y el informe circunstanciado respectivo.
 
-1. LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL RECIBIRÁ DEL INSTITUTO EL EXPEDIENTE ORIGINAL FORMADO CON MOTIVO DE LA DENUNCIA Y EL INFORME CIRCUNSTANCIADO RESPECTIVO.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE MARZO DE 2023)</small>
-
-2. RECIBIDO EL EXPEDIENTE EN LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL, LA PERSONA TITULAR DE LA PRESIDENCIA DE DICHA SECCIÓN LO TURNARÁ A LA PERSONA MAGISTRADA PONENTE QUE CORRESPONDA, QUIEN DEBERÁ:
+2. Recibido el expediente en la Sala Superior, la presidencia lo turnará a la Magistratura Ponente que corresponda, quién deberá:
 
 a) Radicar la denuncia, procediendo a verificar el cumplimiento, por parte del Instituto, de los requisitos previstos en esta Ley;
 
@@ -10140,17 +10130,19 @@ b) Cuando advierta omisiones o deficiencias en la integración del expediente o 
 
 c) De persistir la violación procesal, el Magistrado Ponente podrá imponer las medidas de apremio necesarias para garantizar los principios de inmediatez y de exhaustividad en la tramitación del procedimiento. Lo anterior con independencia de la responsabilidad administrativa que en su caso pudiera exigirse a los funcionarios electorales;
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL INCISO d) DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
+d) Una vez que se encuentre debidamente integrado el expediente, la Magistratura Ponente dentro de las cuarenta y ocho horas siguientes contadas a partir de su turno, deberá poner a consideración del Pleno de la Sala Superior del Tribunal Electoral el proyecto de sentencia que resuelva el procedimiento sancionador;
 
-d) UNA VEZ QUE SE ENCUENTRE DEBIDAMENTE INTEGRADO EL EXPEDIENTE, LA PERSONA MAGISTRADA PONENTE DENTRO DE LAS CUARENTA Y OCHO HORAS SIGUIENTES CONTADAS A PARTIR DE SU TURNO, DEBERÁ PONER A CONSIDERACIÓN DEL PLENO DE LA SALA REGIONAL ESPECIALIZADA DEL TRIBUNAL ELECTORAL, EL PROYECTO DE SENTENCIA QUE RESUELVA EL PROCEDIMIENTO SANCIONADOR, Y
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL INCISO e) DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+e) El Pleno de la Sala Superior, en sesión pública, resolverá el asunto en un plazo de veinticuatro horas contadas a partir de que se haya distribuido el proyecto de resolución, y
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 2 DE MARZO DE 2023)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-e) EL PLENO DE ESTA SALA EN SESIÓN PÚBLICA, RESOLVERÁ EL ASUNTO EN UN PLAZO DE VEINTICUATRO HORAS CONTADAS A PARTIR DE QUE SE HAYA DISTRIBUIDO EL PROYECTO DE RESOLUCIÓN.
+f) La Sala Superior podrá dictar los acuerdos que estime pertinentes para dar seguimiento a la adecuada sustanciación de los expedientes a cargo del Instituto Nacional Electoral y revisar su debida integración.
+
+Para ello, deberá contar con una Unidad especializada que coadyuve a tener los expedientes en estado de resolución.
 
 ###### Artículo 477.
 
@@ -10159,6 +10151,10 @@ e) EL PLENO DE ESTA SALA EN SESIÓN PÚBLICA, RESOLVERÁ EL ASUNTO EN UN PLAZO D
 a) Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto, o
 
 b) Imponer las sanciones que resulten procedentes en términos de lo dispuesto en esta Ley.
+
+## TÍTULO PRIMERO. De la Participación de la Ciudadanía en la Renovación de los Poderes Judiciales
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
 ### CAPÍTULO II. Del Régimen de Responsabilidades Administrativas
 
@@ -10237,6 +10233,10 @@ k) Las demás que determine esta Ley o las leyes que resulten aplicables.
 (DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 487.
 
@@ -10391,6 +10391,598 @@ v) Las demás que le otorgue esta Ley, la Ley General de Responsabilidades Admin
 3. El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
 
 4. Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+# LIBRO NOVENO. De la Integración del Poder Judicial de la Federación y de las Entidades Federativas
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+## TÍTULO SEGUNDO. Del Proceso Electoral de las Personas Juzgadoras del Poder Judicial de la Federación
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO PRIMERO. Reglas Generales
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 494.
+
+1. Las personas ministras de la Suprema Corte de Justicia de la Nación, magistradas de la Sala Superior y salas regionales del Tribunal Electoral, magistradas del Tribunal de Disciplina Judicial, magistradas de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, juezas integrantes de los Juzgados de Distrito del Poder Judicial de la Federación, así como personas magistradas y juezas de los Poderes Judiciales de las entidades federativas, serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución, esta Ley y las leyes locales.
+
+2. La elección ordinaria de las personas señaladas en el párrafo anterior que integran el Poder Judicial de la Federación y los Poderes Judiciales de las entidades federativas se llevará a cabo el primer domingo del mes de junio del año que corresponda de manera concurrente con los procesos electorales en que se renueve cualquiera de las Cámaras del Congreso de la Unión.
+
+3. El Instituto y los Organismos Públicos Locales, en el ámbito de sus competencias, serán las autoridades responsables de la organización del proceso electivo, su jornada electoral y los cómputos de los resultados electorales.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 495.
+
+1. La elección de las personas ministras de la Suprema Corte de Justicia de la Nación, magistradas de la Sala Superior del Tribunal Electoral y magistradas del Tribunal de Disciplina Judicial se llevará a cabo a nivel nacional.
+
+2. Las personas magistradas de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, así como las personas juezas integrantes de los Juzgados de Distrito del Poder Judicial de la Federación, serán electas por circuito judicial, dentro del ámbito territorial y competencial que al efecto determine el órgano de administración judicial.
+
+3. Las personas magistradas integrantes de las Salas Regionales del Tribunal Electoral serán electas por circunscripción plurinominal, acorde a la residencia de éstas.
+
+4. Las personas magistradas y juezas de los Poderes Judiciales de las entidades federativas serán electas dentro del marco geográfico que al efecto determinen sus constituciones y leyes locales, conforme a las bases y procedimientos que establece la Constitución.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 496.
+
+1. En caso de ausencia de disposición expresa dentro de este Libro, se aplicará supletoriamente lo dispuesto para los procesos electorales dentro de esta Ley.
+
+2. En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. De la Convocatoria y Postulación de Candidaturas
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 497.
+
+1. El proceso electoral de las personas juzgadoras del Poder Judicial de la Federación es el conjunto de actos, ordenados por la Constitución y esta Ley, realizado por las autoridades electorales, los Poderes de la Unión, así como la ciudadanía, que tiene por objeto la renovación periódica de las personas juzgadoras que integran el Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 498.
+
+1. Para los efectos de esta Ley, el proceso de elección de las personas juzgadoras del Poder Judicial de la Federación comprende las siguientes etapas:
+
+a) Preparación de la elección;
+
+b) Convocatoria y postulación de candidaturas;
+
+c) Jornada electoral;
+
+d) Cómputos y sumatoria;
+
+e) Asignación de cargos, y
+
+f) La entrega de constancias de mayoría y declaración de validez de la elección.
+
+2. La etapa de preparación de la elección inicia con la primera sesión que el Consejo General del Instituto Nacional Electoral celebre en los primeros siete días del mes de septiembre del año anterior a la elección, y concluye al iniciarse la jornada electoral.
+
+3. La etapa de convocatoria y postulación de candidaturas inicia con la publicación de la convocatoria general que emita el Senado de la República conforme a la fracción I del primer párrafo del artículo 96 de la Constitución, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Instituto.
+
+4. La etapa de la jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con el cómputo de los votos en casilla.
+
+5. La etapa de cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los Consejos Distritales, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General.
+
+6. La etapa de asignación de cargos inicia con la identificación por el Instituto de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, y concluye con la entrega por el Instituto de las constancias de mayoría a las candidaturas que resulten ganadoras y la emisión de la declaración de validez respectiva.
+
+7. La etapa de calificación y declaración de validez inicia al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno, y concluye al aprobar la Sala Superior del Tribunal Electoral o la Suprema Corte de Justicia de la Nación, el dictamen que contenga el cómputo final de la elección.
+
+8. Atendiendo al principio de definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la persona Secretaria Ejecutiva del Instituto o la vocalía ejecutiva de la junta local, según corresponda, podrá difundir su realización y conclusión por los medios que estime pertinentes.
+
+9. El Instituto habilitará a las personas candidatas un buzón electrónico a través del cual recibirán notificaciones personales de acuerdos y resoluciones emitidas por las autoridades electorales, en los términos de esta Ley y la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO TERCERO. De la Organización de la Elección
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 499.
+
+1. El Senado de la República, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes de la Unión para integrar el listado de candidaturas para la elección de las personas juzgadoras del Poder Judicial de la Federación.
+
+2. La convocatoria general deberá observar las bases, procedimientos y requisitos que establece la Constitución y esta Ley, y deberá contener lo siguiente:
+
+a) Fundamentos constitucionales y legales aplicables;
+
+b) Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, circuito judicial o circunscripción plurinominal respectiva cuando resulte aplicable;
+
+c) Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución;
+
+d) Ámbito territorial para el que se elegirán a las personas juzgadoras;
+
+e) Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapa de postulación hasta la de calificación y declaración de validez;
+
+f) Fechas y plazos que deberán observar los Poderes de la Unión para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas, y
+
+g) Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+3. La convocatoria general no podrá establecer requisitos adicionales a los establecidos por la Constitución y esta Ley para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes de la Unión.
+
+4. Para la emisión de la convocatoria general, el órgano de administración judicial comunicará oportunamente al Senado de la República los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia, el circuito judicial o circunscripción plurinominal respectivo y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el órgano de administración judicial lo comunicará de inmediato al Senado para su incorporación en la convocatoria respectiva.
+
+5. En caso de que el órgano de administración judicial no remita oportunamente la información que requiera el Senado de la República para la elaboración de la convocatoria general, el órgano legislativo lo integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 500.
+
+1. Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial de la Federación. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución y esta Ley.
+
+2. Cada Poder de la Unión instalará un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita el Senado de la República. Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones. Estarán conformados por cinco personas de reconocido prestigio en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, observando la paridad de género:
+
+a) Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+b) No haber sido condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+c) Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica, y
+
+d) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+3. Los Comités publicarán dentro de los quince días naturales posteriores a su integración las convocatorias para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
+
+a) La información pertinente contenida en la convocatoria general que publique el Senado de la República;
+
+b) Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de postulaciones por el Comité;
+
+c) Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso, y
+
+d) La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización, la cual incluirá, por lo menos, lo dispuesto en el párrafo 6 del presente artículo.
+
+4. Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución.
+
+5. Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las candidaturas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral o ante la Suprema Corte de Justicia de la Nación, según corresponda, dentro del plazo y conforme al procedimiento que determine la Ley y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+6. Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, podrán tomar en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité para valorar su honestidad y buena fama pública. Por último, los Comités realizarán entrevistas públicas a las personas aspirantes que califique más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+
+7. La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes de la Unión por el mismo cargo y circuito judicial o circunscripción plurinominal no afectará el resultado de la evaluación.
+
+8. Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Ministras y Ministros de la Suprema Corte de Justicia de la Nación, Magistradas y Magistrados de la Sala Superior y salas regionales del Tribunal Electoral y Magistradas y Magistrados del Tribunal de Disciplina Judicial y de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, publicarán dicho listado en los estrados que para tal efecto habiliten.
+
+Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a su especialidad por materia y observando la paridad de género, publicarán los resultados en los estrados habilitados y los remitirán a cada Poder para su aprobación en términos del artículo 96 de la Constitución federal y de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular de la Presidencia de la República;
+
+b) El Poder Legislativo, por conducto del pleno de la Cámara de Diputados y del Senado de la República, según corresponda, mediante votación calificada de dos tercios de sus integrantes presentes, y
+
+c) El Poder Judicial, por conducto del pleno de la Suprema Corte de Justicia de la Nación, por votación favorable de seis votos de las Ministras y los Ministros.
+
+9. Los listados aprobados en términos del párrafo anterior por los Poderes de la Unión serán remitidos al Senado de la República a más tardar el 1o. de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidas para hacerlo posteriormente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 501.
+
+1. El Senado de la República integrará los listados y expedientes de las personas postuladas por cada Poder de la Unión conforme al tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria general, y a quienes hayan sido postuladas para un cargo o circuito judicial diverso al que ocupen.
+
+2. Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo o circuito judicial diverso deberán informarlo al Senado de la República dentro de los treinta días posteriores a la publicación de la convocatoria general, a efectos de no ser incorporadas en los listados de candidaturas. El Senado cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes de la Unión para un cargo o circuito judicial diverso al que ocupen.
+
+3. El Senado de la República estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Instituto a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 502.
+
+1. En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, el Poder de la Unión postulante podrá solicitar al Senado de la República su sustitución antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO CUARTO. De la Jornada Electoral
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 503.
+
+1. El Instituto es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras del Poder Judicial de la Federación. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, así como la paridad de género.
+
+2. La etapa de preparación de la elección federal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Nacional Electoral celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 504.
+
+1. Corresponde al Consejo General del Instituto:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en esta Ley;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección a nivel nacional, por circuito judicial o circunscripción plurinominal, de conformidad con el ámbito territorial que determine el órgano de administración judicial;
+
+V. Realizar los cómputos de la elección;
+
+VI. Administrar y distribuir el tiempo que corresponda al Estado en radio y televisión y emitir las reglas y pautas para garantizar este derecho;
+
+VII. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VIII. Vigilar que ninguna persona candidata reciba financiamiento público o privado en sus campañas;
+
+IX. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura y establecer las reglas de fiscalización y formatos para comprobar dicha información;
+
+X. Garantizar que ninguna persona candidata contrate por sí o por interpósita persona espacios en radio y televisión, Internet o cualquier otro medio de comunicación para promocionar sus candidaturas;
+
+XI. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+XII. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas;
+
+XIII. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+XIV. Fiscalizar los ingresos y egresos de las personas candidatas;
+
+XV. Emitir lineamientos de aplicación general para los Organismos Públicos Locales respecto de los procesos de elección de las personas magistradas y juezas de los Poderes Judiciales locales y atraer a su conocimiento cualquier asunto de su competencia en uso de su facultad de atracción, y
+
+XVI. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este párrafo y las demás que establezcan las leyes.
+
+2. Los Consejos Locales y Distritales se instalarán y funcionarán conforme a lo dispuesto en esta Ley.
+
+3. El Consejo General del Instituto no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Primera. De la Propaganda
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 505.
+
+1. Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial de la Federación podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+2. Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 506.
+
+1. Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas integrantes del Poder Judicial, de conformidad con lo dispuesto por el artículo 134 de la Constitución.
+
+2. Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 507.
+
+1. Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 508.
+
+1. La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 509.
+
+1. Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+2. Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Segunda. Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 510.
+
+1. El Consejo General emitirá las reglas, lineamientos y criterios que las personas físicas o morales deberán adoptar para realizar encuestas o sondeos de opinión en el marco del proceso de elección de personas juzgadoras federales y locales. Los Organismos Públicos Locales realizarán las funciones en esta materia de conformidad con las citadas reglas, lineamientos y criterios.
+
+2. Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+3. Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto o al Organismo Público Local un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral correspondiente.
+
+4. Queda prohibida la contratación, por parte de personas candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+5. La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Instituto en su página de Internet, o por los Organismos Públicos Locales en el ámbito de su competencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Tercera. De la Elección por Circuitos Judiciales
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 511.
+
+1. En el mes de diciembre del año previo al de la elección, el órgano de administración judicial remitirá al Instituto la división del territorio nacional por circuito judicial o circunscripción plurinominal, indicando la entidad o las entidades federativas que abarcan, así como el número y materia de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación o Juzgados de Distrito que tengan residencia en cada circuito judicial, y la sede de las salas regionales del Tribunal Electoral. En caso de que el órgano de administración judicial no remita dicha información, el Instituto determinará lo conducente con la información pública que disponga.
+
+2. La Junta General Ejecutiva, con base en la información remitida por el órgano de administración judicial, elaborará un plan de coordinación en materia de organización electoral, en el cual indicará los órganos locales y distritales del Instituto que coadyuvarán en la organización de la elección, así como en la respectiva etapa de cómputos de las elecciones.
+
+3. El Consejo General del Instituto aprobará el plan de coordinación y llevará a cabo la instalación de los Consejos Locales y Distritales estrictamente indispensables para la realización de la elección que corresponda. Los Organismos Públicos Locales electorales podrán coadyuvar en las tareas que determine el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 512.
+
+1. El Instituto instalará los Consejos Locales a que hacen referencia los artículos 65 a 70 de esta Ley, que coadyuvarán con el Instituto en la elección de personas magistradas de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, así como juezas de Juzgados de Distrito, teniendo las mismas atribuciones a que se refiere esta Ley.
+
+2. El Instituto instalará los Consejos Distritales a que hacen referencia los artículos 76 a 80 de esta Ley, que coadyuvarán con los Consejos Locales en la organización y cómputo de la elección de personas magistradas de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, así como juezas de Juzgados de Distrito, teniendo las mismas atribuciones a que se refiere esta Ley.
+
+3. Los Organismos Públicos Locales deberán coadyuvar con el Instituto, en los términos que determine su Consejo General, en la organización y cómputo de la elección de personas magistradas de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, así como juezas de Juzgados de Distrito, teniendo las mismas atribuciones a que se refiere esta Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Cuarta. De las Mesas Directivas de Casilla
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 513.
+
+1. La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, se realizará en los términos dispuestos en esta Ley y de los acuerdos que emita el Consejo General del Instituto.
+
+2. El Consejo General diseñará para cada tipo de elección una estrategia diferenciada para integrar las mesas directivas de casilla que considere el tipo y número de cargos a elegir en cada circuito judicial o circunscripción plurinominal. Dicha estrategia podrá considerar personas secretarias y escrutadoras adicionales, su incorporación a la mesa directiva durante la jornada electoral o a su conclusión.
+
+3. La capacitación y los simulacros de las personas funcionarias adicionales de mesas directivas de casilla para la elección de las personas integrantes del Poder Judicial de la Federación podrá realizarse a través de medios electrónicos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Quinta. De las Boletas y Materiales Electorales
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 514.
+
+1. Para la emisión del voto el Consejo General, tomando en cuenta las medidas de certeza que estime pertinentes, determinará el modelo de las boletas electorales, la documentación del proceso de elección de las personas integrantes del Poder Judicial de la Federación y los materiales que serán utilizados en ésta.
+
+2. El Instituto será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+3. No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 515.
+
+1. Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+
+a) Cargo para el que se postula la persona candidata;
+
+b) Entidad federativa;
+
+c) Primer apellido, segundo apellido y nombre completo de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas, y
+
+d) Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto.
+
+2. Para la elección de personas magistradas de las salas regionales del Tribunal Electoral, integrantes de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, así como las personas juezas integrantes de los Juzgados de Distrito del Poder Judicial de la Federación, la boleta contendrá, además:
+
+a) Circunscripción plurinominal o circuito judicial, según sea el caso, y
+
+b) Especialidad por materia a la que se postula cada persona candidata.
+
+3. Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa y circuito judicial o circunscripción plurinominal. El número de folio será progresivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Sexta. De la Observación Electoral
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 516.
+
+1. La ciudadanía podrá ejercitar sus derechos como persona observadora electoral en términos de lo dispuesto por el artículo 217 de esta Ley y conforme a los acuerdos que al efecto emita el Consejo General del Instituto.
+
+2. Las personas observadoras acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+3. Las organizaciones a las que pertenezcan las personas observadoras acreditadas serán responsables de supervisar las actividades que realicen, así como del cumplimiento de los requisitos y obligaciones que establece esta Ley. Las organizaciones que tengan conocimiento de alguna falta, omisión o irregularidad de una de sus personas observadoras en el desarrollo de sus funciones deberán solicitar al Instituto el retiro de su acreditación. La falta de supervisión imputable a la organización respectiva será causa para que se niegue o retire la acreditación a la organización participante.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Séptima. Del Acceso a los Tiempos en Radio y Televisión
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 517.
+
+1. Durante el lapso legal de campaña, el Instituto administrará y gestionará el acceso a los tiempos del Estado que correspondan a radio y televisión.
+
+2. Los monitoreos y mecanismos para verificar el cumplimiento de los tiempos de radio y televisión estarán a cargo del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 518.
+
+1. El Instituto observará que los contenidos de los promocionales de radio y televisión se ajusten a los formatos y parámetros que establezca el Instituto y promuevan la consulta de los perfiles de las personas candidatas a través de las plataformas digitales habilitadas para tal efecto.
+
+2. El Instituto pondrá a disposición de las personas candidatas espacios digitales para difundir mensajes en redes sociales o Internet, tanto por el Instituto como por las personas candidatas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Octava. De las Campañas Electorales
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 519.
+
+1. La campaña electoral, para los efectos de este Libro, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+2. Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución y esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 520.
+
+1. Las personas candidatas podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que al efecto emita el Consejo General del Instituto en observancia a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 521.
+
+1. Las campañas electorales para la promoción de las candidaturas establecidas en este Libro tendrán una duración de sesenta días improrrogables.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 522.
+
+1. Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura dentro de los periodos de campaña respectivos.
+
+2. Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General del Instituto en función del tipo de elección que se trate y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas independientes a diputaciones.
+
+3. Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas. El Instituto, a través de su Unidad Técnica de Fiscalización, vigilará el cumplimiento a esta disposición.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Novena. De las Actividades en Materia Registral y del Listado Nominal
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 523.
+
+1. Durante la jornada electoral se utilizará el Listado Nominal de Electores de forma física o digital, conforme lo determine el Consejo General del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 524.
+
+1. El Consejo General del Instituto deberá aprobar, a más tardar en el mes de diciembre del año previo al de la elección, los plazos y términos para el uso del padrón electoral y la Lista Nominal de Electores, así como los plazos para la actualización del padrón electoral.
+
+2. El corte definitivo del estadístico del Listado Nominal aprobado por el Consejo General, será el del 15 de febrero del año de la elección. Dicho estadístico será el insumo para el procedimiento de integración y determinación del número de mesas directivas de casilla a emplearse en la elección. La aprobación del listado y su verificación se realizará bajo los procedimientos y disposiciones contenidas en esta Ley y en los acuerdos que se emitan sobre el particular.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Décima. De las Actividades del Instituto para la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 525.
+
+1. El Consejo General del Instituto aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+2. La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del Instituto para informar a la ciudadanía sobre el proceso electivo y dar a conocer las candidaturas registradas.
+
+3. El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+a) No será un medio de propaganda política;
+
+b) Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+c) Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+d) La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Instituto, que deberá supervisar que se ajuste a esta Ley y los parámetros que al efecto determine el Consejo General, y
+
+e) La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+4. Para efectos de las actividades que realice el Instituto para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Instituto, medios electrónicos o digitales institucionales y periódicos de mayor circulación y cobertura en la entidad que corresponda, entre otros.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+#### Sección Décima Primera. De la Fiscalización
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 526.
+
+1. El Consejo General emitirá los lineamientos en materia de fiscalización que garanticen el cumplimiento de las reglas establecidas en este Libro.
+
+2. El Consejo General vigilará que ningún partido político, persona servidora ni institución públicas realicen erogaciones a favor o en contra de las personas candidatas. Para ello, establecerá topes de gastos personales en función del tipo de elección que se trate y fiscalizará su ejercicio.
+
+3. El Instituto podrá requerir a las personas candidatas la información necesaria para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos. Asimismo, podrá solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando de su declaración patrimonial y de intereses o de la revisión de la información en materia de fiscalización que proporcione, se adviertan movimientos inusuales o elementos que no justifiquen la procedencia lícita de los bienes o recursos reportados.
+
+4. En el cumplimiento de sus atribuciones, el Consejo General no estará limitado por los secretos bancario, fiduciario y fiscal. La Unidad Técnica de Fiscalización del Instituto será el conducto para superar la limitación referida, incluso en el caso de que el Instituto delegue esta función.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO QUINTO. De los Cómputos y Sumatoria
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 527.
+
+1. La jornada electoral se desarrollará en los términos establecidos dentro de esta Ley, debiéndose llenar al efecto la documentación que apruebe el Consejo General por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 528.
+
+1. El Instituto emitirá los lineamientos correspondientes para regular esta disposición.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 529.
+
+1. Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta.
+
+b) El Instituto determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+
+c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 530.
+
+1. El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial se realizará de forma simultánea a los cómputos a que se refiere el artículo 289 de esta Ley, en el orden siguiente:
+
+a) Personas ministras integrantes de la Suprema Corte de Justicia de la Nación;
+
+b) Personas magistradas integrantes del Tribunal de Disciplina Judicial;
+
+c) Personas magistradas integrantes de la Sala Superior del Tribunal Electoral;
+
+d) Personas magistradas integrantes de las salas regionales del Tribunal Electoral;
+
+e) Personas magistradas integrantes de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, y
+
+f) Personas juezas integrantes de los Juzgados de Distrito.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO. De la Asignación de Cargos
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 531.
+
+1. Los Consejos Distritales realizarán el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete.
+
+2. El Consejo General emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 532.
+
+1. Concluidos los cómputos de cada elección, el Consejo Distrital emitirá a cada candidatura ganadora una Constancia de Resultados, misma que contendrá los votos obtenidos dentro del Consejo Distrital respectivo.
+
+2. Una vez que se hayan computado la totalidad de las elecciones por parte de los Consejos Distritales, con auxilio de los Consejos Locales, se remitirán al Consejo General para que proceda a realizar la sumatoria por tipo de elección.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO SÉPTIMO. Entrega de Constancias de Mayoría y Declaración de Validez de la Elección
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 533.
+
+1. Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, y publicará los resultados de la elección.
+
+2. El Instituto hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+3. Emitida la declaración de validez de la elección, el Instituto comunicará los resultados a la Sala Superior o a la Suprema Corte de Justicia de la Nación, según corresponda.
+
+4. El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 534.
+
+1. El Consejo General entregará las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez de la elección respectiva.
+
+2. Emitida la declaración de validez de la elección, el Instituto comunicará los resultados a la Sala Superior del Tribunal Electoral o a la Suprema Corte de Justicia de la Nación, según corresponda.
+
+3. La Sala Superior del Tribunal Electoral o en su caso la Suprema Corte de Justicia de la Nación, resolverán las impugnaciones que se hayan presentado contra las constancias de mayoría y declaración de validez, tres días antes de que el Senado de la República instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 535.
+
+1. Las personas juzgadoras federales electas deberán tomar protesta ante el Senado de la República el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
 
 ## TRANSITORIOS
 
@@ -10590,21 +11182,57 @@ D.O.F. 1 DE ABRIL DE 2024.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 613.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+D.O.F. 14 DE OCTUBRE DE 2024.
 
-Artículo Primero. El presente Decreto entrará en vigor el día 27 de enero de 2021 previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, EN MATERIA DE ELECCIÓN DE PERSONAS JUZGADORAS DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
 
-Artículo Segundo. El Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas deberá comenzar sus funciones el 27 de enero de 2021. Hasta en tanto inicia sus operaciones, el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo, los servidores y las Entidades Públicas y sobre el registro de contratos colectivos de trabajo, organizaciones sindicales y condiciones generales de trabajo, de conformidad con la competencia que les señalan las leyes aplicables.
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Artículo Tercero. De acuerdo con lo señalado en el artículo séptimo transitorio del Decreto No. 385 por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, el Poder Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas o, en su caso, los que se aprueben en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2021, al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas.
+Segundo.- Los Congresos Locales y los Organismos Públicos Locales atenderán lo dispuesto en esta Ley y acatarán, en lo que corresponda, las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral en lo que sea aplicable a los procesos electorales locales, respecto a la renovación de los Poderes Judiciales en las entidades federativas.
 
-El proceso de entrega recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado de Zacatecas y demás leyes aplicables. Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de Conciliación y Arbitraje del Estado de Zacatecas, conservarán sus derechos laborales y de seguridad social.
+Tercero.- En lo que respecta a la etapa de convocatoria y postulación de candidaturas de las personas juzgadoras del Poder Judicial de la Federación en el marco del Proceso Electoral Extraordinario 2024-2025, las autoridades competentes observarán, por única ocasión, lo dispuesto en el presente Decreto conforme a los plazos siguientes:
 
-Artículo Cuarto. En un término de 60 días a partir de la publicación del presente Decreto, los Entes Públicos relacionados con su aplicación deberán expedir los reglamentos necesarios para su aplicación o, en su caso, realizar las modificaciones que sean necesarias a la normatividad vigente para dar cumplimiento al presente Decreto.
+1. El Senado de la República emitirá la convocatoria general dirigida a los Poderes de la Unión para integrar el listado de candidaturas a que hace referencia el numeral 1 del artículo 499, a más tardar el 16 de octubre del 2024;
 
-Artículo Quinto. Los expedientes radicados en el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas serán transferidos al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas una vez que entre en funciones, para que éste último continúe con el desahogo de los mismos hasta su resolución final conforme a las disposiciones vigentes al momento de su inicio.
+2. Los Poderes de la Unión instalarán sus respectivos Comités de Evaluación en los términos del numeral 2 del artículo 500, a más tardar el 31 de octubre de 2024;
 
-P.O. 10 DE ABRIL DE 2021.
+3. Los Comités de Evaluación publicarán las convocatorias para participar en el proceso de evaluación y selección de postulaciones en los términos del numeral 3 del artículo 500, a más tardar el 4 de noviembre de 2024;
+
+4. El plazo para que las personas interesadas se inscriban en las convocatorias emitidas por los Comités de Evaluación comprenderá del 5 de noviembre al 24 de noviembre de 2024;
+
+5. Los Comités de Evaluación verificarán que las personas aspirantes que hayan concurrido a la convocatoria reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, en los términos del párrafo cuarto del artículo 500, a más tardar el 14 de diciembre de 2024, y publicarán el listado de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad el 15 de diciembre de 2024;
+
+6. Los Comités de Evaluación calificarán la idoneidad de las personas elegibles en los términos del numeral 5 del artículo 500, y publicarán el listado a más tardar el 31 de enero de 2025;
+
+7. Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a su especialidad por materia y observando la paridad de género; publicarán los resultados en los estrados habilitados y los remitirán a más tardar el 4 de febrero de 2025 al Poder que corresponda para su aprobación en términos del artículo 96 de la Constitución federal y el numeral 8 del artículo 500 de esta Ley a más tardar el 6 de febrero de 2025; de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular de la Presidencia de la República;
+
+b) El Poder Legislativo, por conducto del Pleno de la Cámara de Diputados y del Senado de la República, según corresponda, mediante votación calificada de dos tercios de sus integrantes presentes, y
+
+c) El Poder Judicial, por conducto del Pleno de la Suprema Corte de Justicia de la Nación, por votación favorable de ocho votos de las Ministras y los Ministros.
+
+8. Los listados aprobados en términos del numeral anterior serán remitidos al Senado de la República, en los términos del numeral 9 del artículo 500, a más tardar el 8 de febrero de 2025, y
+
+9. El Senado de la República integrará los listados y expedientes de las personas postuladas por cada Poder de la Unión en los términos del artículo 501 y los remitirá al Instituto Nacional Electoral a más tardar el 12 de febrero de 2025 a efecto de que organice el proceso electivo.
+
+Cuarto.- Las disposiciones aplicables del presente Decreto para el órgano de administración judicial corresponderán al Consejo de la Judicatura Federal hasta su extinción, en los términos del artículo Sexto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicada en el Diario Oficial de la Federación el 15 de septiembre de 2024.
+
+Hasta en tanto las Ministras y Ministros electos tomen protesta de su encargo ante el Senado de la República el 1o. de septiembre de 2025, la Suprema Corte de Justicia de la Nación requerirá del voto de ocho de sus integrantes en la resolución de los asuntos de su competencia relacionados a la presente Ley, y en cualquier otro caso en que la Constitución Política de los Estados Unidos Mexicanos u otra Ley requiera de mayoría calificada.
+
+Quinto.- El Consejo de la Judicatura Federal entregará al Senado de la República, a más tardar al cierre de la convocatoria general a que hace referencia el artículo 96 de la Constitución, el listado de las personas que se encuentren en funciones en los cargos que serán materia del Proceso Electoral Extraordinario 2024-2025, para que sean incorporadas al listado de candidaturas por pase directo, excepto cuando manifiesten al órgano legislativo la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo o circuito judicial diverso.
+
+Sexto.- Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral Extraordinario 2024-2025 y pretendan una postulación para un cargo o circuito judicial diverso, deberán informarlo al Senado de la República con cuando menos cinco días previos al cierre de la convocatoria general a que hace referencia el artículo 96 de la Constitución, a efectos de no ser incorporadas en los listados de candidaturas.
+
+El Senado de la República cancelará las candidaturas de las personas servidoras públicas que omitan informar al Consejo de la Judicatura Federal lo anterior y sean postuladas por alguno de los Poderes de la Unión para un cargo o circuito judicial diverso al que ocupen.
+
+Séptimo.- El periodo de los nombramientos de las personas magistradas de Salas Regionales del Tribunal Electoral en funciones que concluyan previo a la conclusión del Proceso Electoral Extraordinario 2024-2025, se prorrogarán hasta la fecha que tomen protesta las personas que emanen de dicha elección.
+
+Octavo.- Los recursos materiales, humanos, financieros y presupuestales, así como los asuntos en trámite correspondientes a la Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación, serán asumidos por la Sala Superior del Tribunal Electoral, a partir del 1o. de septiembre de 2025, fecha en que dicha sala especializada quedará extinta.
+
+Para atender de manera adecuada los trabajos de entrega-recepción de los asuntos jurisdiccionales de la Sala Regional Especializada y para dar cumplimiento a lo dispuesto por el último párrafo del artículo 476 de esta Ley, antes del 1o. de septiembre de 2025 la Sala Superior creará una Unidad Especializada con personal suficiente y capacitado que reciba los asuntos que estén en poder de la sala especializada al momento de su extinción.
+
+Noveno.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
 
