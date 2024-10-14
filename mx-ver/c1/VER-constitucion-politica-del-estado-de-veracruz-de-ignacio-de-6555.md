@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2024-03-26"
+last_updated: "2024-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 26 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2024.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -655,9 +653,9 @@ El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado.
 
 El Congreso del Estado se integrará por cincuenta diputados y diputadas bajo el principio de paridad, de los cuales treinta se elegirán por el principio de mayoría relativa en los distritos electorales uninominales y veinte por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado.
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2024)</small>
 
-El Congreso se renovará en su totalidad cada tres años y se instalará el día cinco de noviembre inmediato posterior a las elecciones.
+El Congreso se renovará en su totalidad cada tres años y se instalará el día primero de septiembre inmediato posterior a las elecciones.
 
 > <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
@@ -737,11 +735,13 @@ La prohibición para los servidores públicos mencionados en las fracciones II, 
 
 El Congreso no podrá abrir sus sesiones ni ejercer su función sin la concurrencia de más de la mitad del número total de diputados; pero los presentes deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren se entenderá, por ese solo hecho, excepto causa justificada, que no aceptan el cargo, llamándose desde luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren, se declarará vacante el cargo y se convocará a nuevas elecciones, si se trata de diputados electos por mayoría relativa. Si fuesen diputados electos por el principio de representación proporcional, se llamará al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 25.
 
-El Congreso se reunirá a partir del 5 de noviembre de cada año para celebrar un primer período de sesiones ordinarias, el cual concluirá el día último del mes de enero del año siguiente; y a partir del 2 de mayo de cada año, para celebrar un segundo período de sesiones ordinarias que terminará, el día último del mes de julio.
+El Congreso se reunirá a partir del primer día de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, que concluirá el día quince de diciembre, pero que podrá prorrogarse hasta quince días más el año de renovación de la gubernatura del Estado, y a partir del día primero de abril de cada año, para celebrar un segundo período de sesiones ordinarias, que terminará el día último del mes de junio.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Las sesiones del Congreso y de sus comisiones serán públicas; pero cuando se trate de asuntos que exijan reserva, serán privadas, de conformidad con lo establecido por su normatividad interior.
 
@@ -753,9 +753,9 @@ El Congreso tendrá como asuntos de atención preferente:
 
 I. En el primer período de sesiones ordinarias:
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2024)</small>
 
-a) Examinar, discutir y, en su caso, modificar y aprobar el presupuesto que, en relación con los ingresos y egresos del año siguiente, le sea presentado entre el seis y diez de noviembre por el Gobernador del Estado. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente.
+a) Examinar, discutir y, en su caso, modificar y aprobar el presupuesto que, en relación con los ingresos y egresos del año siguiente, le sea presentado durante la segunda quincena de octubre por la Gobernadora o el Gobernador del Estado. Cuando sea año de renovación conjunta del Congreso del Estado y de la persona Titular del Poder Ejecutivo, ésta tendrá, a más tardar, hasta el día quince de noviembre para presentar el presupuesto.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1227,7 +1227,7 @@ IV. Presidir la sesión pública y solemne convocada para el solo efecto de decl
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -1289,11 +1289,11 @@ VII. Saber leer y escribir y no tener antecedentes penales por la comisión de d
 
 La prohibición para los servidores públicos mencionados en las fracciones IV y V, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 44.
 
-El Gobernador del Estado durará en su cargo seis años, con excepción del caso en que sea declarada procedente la revocación de mandato en los términos de esta Constitución. Comenzará a ejercer sus funciones el primero de diciembre siguiente a la fecha de su elección.
+La Gobernadora o el Gobernador del Estado durará en su cargo seis años, con excepción del caso en que sea declarada procedente la revocación de mandato, en los términos de esta Constitución. Comenzará a ejercer sus funciones el día treinta de septiembre siguiente a la fecha de su elección.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1403,11 +1403,11 @@ XIX. Convenir con los municipios, previo acuerdo de sus respectivos Ayuntamiento
 
 XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, conforme a la ley;
 
-> <small>(REFORMADA, G.O. 23 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2024)</small>
 
-XXI. Presentar ante el Congreso del Estado, el 15 de noviembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del informe, y citará a los secretarios del despacho o equivalente, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
+XXI. Presentar ante el Congreso del Estado, el día diez de septiembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del informe y citará a las y los secretarios de despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
 
-Concluida la comparecencia de los secretarios de despacho o equivalente, el Gobernador comparecerá ante el Pleno del Congreso a responder las preguntas que le formulen los diputados.
+Concluida la comparecencia de las y los secretarios de despacho o equivalentes, la Gobernadora o el Gobernador comparecerá ante el Pleno del Congreso a responder las preguntas que le formulen las y los diputados.
 
 XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y
 
@@ -4142,3 +4142,23 @@ G.O. 3 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 14 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 741 QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del gobierno del Estado, excepto en lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La reforma al artículo 21, párrafo segundo, de esta Constitución entrará en vigor noventa días antes del inicio del proceso electoral en que se elijan diputaciones al Congreso del Estado en el año 2030, por lo que el período de las y los diputados elegidos el primer domingo de junio de 2027 iniciará el día cinco de noviembre posterior a la elección y concluirá el treinta y uno de agosto de 2030.
+
+TERCERO. La reforma al párrafo primero del artículo 25 de esta Constitución iniciará su vigencia a partir del primero de febrero de 2025, con las salvedades descritas posteriormente y, por tanto, será aplicable para la celebración del segundo periodo de sesiones ordinarias del primer año de ejercicio constitucional de la LXVII Legislatura del Congreso del Estado y para los subsecuentes de esa misma Legislatura.
+
+En el caso de la LXVIII Legislatura del Congreso del Estado, por excepción, el primer periodo de sesiones ordinarias de su primer año de ejercicio constitucional iniciará el cinco de noviembre de 2027 y concluirá el treinta y uno de enero de 2028, para posteriormente celebrar sus períodos de sesiones ordinarias conforme a lo previsto en el presente Decreto.
+
+CUARTO. La reforma al artículo 44, párrafo primero, de esta Constitución entrará en vigor el primero de diciembre del año 2030, por lo que el período de gubernatura comprendido entre los años 2030 y 2036 iniciará el primer día de diciembre de 2030 y concluirá el día veintinueve de septiembre de 2036.
+
+QUINTO. La reforma al artículo 49, fracción XXI, de esta Constitución iniciará su vigencia a partir del primero de septiembre de 2036.
+
+SEXTO. En un plazo no mayor de sesenta días naturales, contado a partir del inicio de vigencia que corresponda a las reformas contenidas en el presente Decreto, el Congreso del Estado realizará las adecuaciones necesarias a la legislación secundaria, a fin de armonizarla a lo dispuesto en el mismo.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
