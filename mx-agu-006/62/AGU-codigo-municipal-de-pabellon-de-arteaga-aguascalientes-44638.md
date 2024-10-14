@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2024-08-12"
+last_updated: "2024-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -117,7 +117,9 @@ II.- Villas: Las Ánimas, Emiliano Zapata, Fraccionamiento Santa Isabel, San Lui
 
 III.- Poblados: Colonia Ojo Zarco y Ejido Ojo Zarco (La Loma);
 
-IV.- Rancherías: Ampliación Ejido Garabato, El Canal, El caracol, El Charquito, Claravista, Colonia Gámez Orozco (Puerta de Carboneras), Colonia el Mezquite, Colonia Nueva, Los Contreras, Crucero a San José de Gracia (Ejido Progreso), Colonia El Mezquite, Ejido La Concepción, El Encino, Enrique Guerrero Flores, Estación de Garabato, El Fénix, Fraccionamiento Campestre San Carlos, Fraccionamiento Santa Isabel, El Garabato, Granja La Carmelita, Granja Morelos, El Huasteco, Las Huertas, Los Ibarra, Los Lira, La Luz, Las Margaritas, Los Martínez, El Milagro, El Moro, El Pedernal Segundo, El Pedregal, El Pilar, Pozo 19, Puerta del Milagro, Rancho El Fénix, Rancho el Gigante, Rancho El Piloto, Rancho el Rocío (José Alemán), Rancho La Asunción, Rancho La Esperanza, Rancho Los Huizaches, Rancho San Pedro, El Rayo, el Remolino, El Rosario, San Agustín de los Puentes, San José del Gigante, San José de Arriba, San Marquitos, Santa Elena, Secadora Alemán, Sector de Producción de la EST. No. 3, Sector de Producción El Jagüey y El Vergel (El Rinconcito).
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2024)</small>
+
+IV.- Rancherías: Ampliación Ejido Garabato, El Canal, El Caracol, El Cerrito, El Charquito, Claravista, Colonia Gámez Orozco (Puerta de Carboneras), Colonia El Mezquite, Colonia Nueva, Los Contreras, Crucero a San José de Gracia (Ejido Progreso), Colonia El Mezquite, Ejido La Concepción, El Encino, Enrique Guerrero Flores, Estación de Garabato, El Fénix, Fraccionamiento Campestre San Carlos, Fraccionamiento Santa Isabel, El Garabato, Granja La Carmelita, Granja Morelos, El Huasteco, Las Huertas, Los Ibarra, Los Lira, La Luz, Las Margaritas, Los Martínez, El Milagro, El Moro, El Pedernal Segundo, El Pedregal, El Pilar, Pozo 19, Puerta del Milagro, Rancho El Fénix, Rancho El Gigante, Rancho El Piloto, Rancho El Rocío (José Alemán), Rancho La Asunción, Rancho La Esperanza, Rancho Los Huizaches, Rancho San Pedro, El Rayo, El Remolino, El Rosario, San Agustín de los Puentes, San José del Gigante, San José de Arriba, San Marquitos, Santa Elena, Secadora Alemán, Sector de Producción de la EST. No. 3, Sector de Producción El Jagüey y El Vergel (El Rinconcito).
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6933,7 +6935,17 @@ b).- Biblioteca: Se compone de obras dedicadas principalmente a historia regiona
 
 c).- Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y ésta se hará sólo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Asimismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de Pabellón de Arteaga;
 
-d).- Fototeca: Esta formada por fotografías de administraciones pasadas; su consulta es abierta al público; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE OCTUBRE DE 2024)</small>
+
+d).- Fototeca: Esta formada por fotografías de administraciones pasadas; su consulta es abierta al público.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2024)</small>
+
+Se contará con una Galería de Cabildos, misma que estará ubicada en el pasillo localizado fuera de la Sala de Cabildo de la Presidencia Municipal del Municipio de Pabellón de Arteaga, en la cual se colocará una fotografía conjunta de los servidores públicos que integraron el Ayuntamiento de Pabellón de Arteaga para cada período constitucional, debiéndose asentar debajo de dicha foto el periodo constitucional en que ejerció dicho Cabildo y los nombres completos de cada uno de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2024)</small>
+
+Se contará con una Galería de Reinas de la Feria, misma que estará ubicada en los pasillos del Teatro Bicentenario, en la cual se colocará una fotografía de la concursante que obtuviera el título de reina de la feria de la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, Aguascalientes, de cada año, debiéndose asentar su nombre completo y el año correspondiente a que obtuviera el título; y
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
@@ -30616,3 +30628,15 @@ P.O. 12 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4°, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN UN SEGUNDO Y UN TERCER PÁRRAFO AL INCISO D), DE LA FRACCIÓN II, DEL ARTÍCULO 360, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
