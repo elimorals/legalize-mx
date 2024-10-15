@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2024-08-19"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -3347,15 +3347,13 @@ El Estado y los municipios promoverán las actividades cívicas en los términos
 
 ### CAPITULO I. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Art. 165.
 
-Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por las dos terceras partes de los miembros del Congreso.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adiciones por la decisión de la mayoría de las Diputadas y Diputados presentes, y que sea aprobada, por el voto de las dos terceras partes de las Diputadas y Diputados presentes. La Mesa Directiva del Congreso del Estado Libre y Soberano de Tamaulipas, con la votación necesaria emitida, realizará la declaratoria una vez aprobada (sic) las adiciones o reformas a la presente Constitución.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
-
-Una vez aprobada la iniciativa de reforma o adición se enviará ésta a los Ayuntamientos, con copia de las actas de los debates, los cuales en el término de 30 días naturales deberán notificar si la aprueban o no. Una vez transcurrido este término el Congreso realizará el cómputo correspondiente y, de obtenerse una mayoría de votos de los ayuntamientos en favor de la adición o reforma, ésta se declarará parte de la Constitución. Se considerará que aprueban la reforma y adición aquellos ayuntamientos que no envíen su votación en el término establecido.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -5406,6 +5404,14 @@ El informe de gobierno, así como las comparecencias inherentes a los titulares 
 P.O. 19 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-840 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16, PÁRRAFO NOVENO; Y 138, PÁRRAFO PRIMERO; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 139, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-4 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 165, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
