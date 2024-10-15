@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2024-09-10"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -1627,19 +1627,25 @@ El programa operativo anual al que se sujetarán los Órganos Técnicos del Cong
 
 La coordinación para la integración del programa operativo anual corresponde a la Oficialía Mayor; la evaluación estará a cargo de la Contraloría Interna.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 15 DE OCTUBRE DE 2024, PÁGINA 2.]</small>
+
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 118.
 
 El Plan contemplará un sistema de planeación por medio del cual se establecerán las prioridades, los objetivos y las metas a alcanzar dentro del periodo constitucional de cada Legislatura, así como las formas de evaluación, debiendo contener como mínimo los siguientes puntos:
 
-I. Agenda Legislativa;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-II. Políticas para el desarrollo y modernización institucional;
+I. Trabajo Parlamentario;
 
-III. Políticas de difusión y vinculación con los medios de comunicación social, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-IV. Políticas de vinculación institucional, social y con los sectores productivos.
+II. Desarrollo y Fortalecimiento Institucional, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+III. Vinculación Institucional.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
@@ -1866,3 +1872,9 @@ P.O. 10 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DEL PLAN DE DESARROLLO INSTITUCIONAL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
