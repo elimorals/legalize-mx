@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-escolar-para-el-estado-de-tamaulipas-60669"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-27"
-last_updated: "2021-07-14"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 27 de marzo de 2008.
 
@@ -417,6 +417,12 @@ Con el fin de detectar la posesión de estupefacientes, armas o demás sustancia
 
 En dicha revisión preventiva se tratará con absoluto respeto a la dignidad de los alumnos.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+###### ARTICULO 27 Bis.
+
+Las autoridades escolares, realizarán la promoción y el fomento del uso de mochila transparente, ante el alumnado, madres, padres o tutores, como medida auxiliar en materia de prevención y seguridad escolar.
+
 ### CAPITULO V. DE LOS REGLAMENTOS INTERIORES DE LOS CENTROS ESCOLARES EN MATERIA DE SEGURIDAD ESCOLAR
 
 ###### ARTICULO 28.
@@ -546,3 +552,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-12 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 27 BIS A LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
