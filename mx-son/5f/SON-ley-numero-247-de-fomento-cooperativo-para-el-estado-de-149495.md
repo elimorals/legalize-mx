@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-247-de-fomento-cooperativo-para-el-estado-de-149495"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-01"
-last_updated: "2021-03-01"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección III al Número 17 del Boletín Oficial del Estado de Sonora, el lunes 1 de marzo de 2021.
 
@@ -61,9 +61,17 @@ IV.- Movimiento Cooperativo: todas las organizaciones e instituciones de asisten
 
 V.- Sistemas cooperativos: estructura económica y social que integran las sociedades cooperativas y sus organismos;
 
-VI.- Sector Cooperativo: población que desarrolla o es beneficiada por los actos cooperativos; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-VII.- Municipios rurales: Los municipios que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora.
+VI.- Sector Cooperativo: Población que desarrolla o es beneficiada por los actos cooperativos;
+
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+VII.- Municipios rurales: Los municipios que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+VIII.- Pequeños productores rurales: Personas físicas de escasos recursos económicos que habitan en municipios y localidades que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora, y que se dedican a actividades productivas primarias, su transformación y comercialización en los ramos agrícola, ganadero, silvícola, pesquero y acuícola, como actividad económica principal para su subsistencia y, en su caso, la de sus familias.
 
 ###### Artículo 3.
 
@@ -125,9 +133,17 @@ III.- Secretaría de Desarrollo Social;
 
 IV.- Secretaría de Economía;
 
-V.- Secretaría de Hacienda; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-VI.- Ayuntamientos.
+V.- Secretaría de Hacienda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+VI.- Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+VII.- Ayuntamientos.
 
 ###### Artículo 8.
 
@@ -176,6 +192,18 @@ IV.- Elaborar y proponer al Ejecutivo del Estado, el Reglamento de la presente L
 D) A la Secretaría de Hacienda:
 
 I.- Aplicar y ejecutar los estímulos fiscales en los términos de la presente Ley y la Ley de Hacienda del Estado de Sonora.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+E) A la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura:
+
+I.- Promover las actividades de fomento cooperativo entre pequeños productores rurales;
+
+II.- Establecer programas de apoyo para la constitución de sociedades cooperativas de pequeños productores rurales, así como para la comercialización de sus productos;
+
+III.- Brindar asesoría a los pequeños productores rurales para la organización y administración de las sociedades cooperativas que constituyan; y
+
+IV.- Canalizar los apoyos a que se refiere esta ley, en beneficio de los pequeños productores rurales.
 
 ###### Artículo 10.
 
@@ -416,3 +444,17 @@ Comuníquese a la Titular del Poder Ejecutivo para su publicación en el Boletí
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, al (sic) veintidós días de febrero del año dos mil veintiuno.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA, DE LA LEY DE GANADERÍA PARA EL ESTADO DE SONORA, Y DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE SONORA".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
