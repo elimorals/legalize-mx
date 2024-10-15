@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2024-06-07"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -1089,11 +1089,15 @@ Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con 
 
 Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con la suspensión o cancelación del registro en el padrón correspondiente, en términos del Título Segundo, Capítulo Único de este ordenamiento.
 
-Los servidores públicos que infrinjan las disposiciones de esta Ley, quedarán sujetos a la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Los servidores públicos que infrinjan las disposiciones de esta Ley, serán sancionados conforme a la legislación y normatividad en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 91.
 
-La Contraloría, además de la sanción a que se refiere el artículo anterior y de lo previsto en los Artículos 19 y 20 de la presente Ley, inhabilitará al licitante, para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley o por la Ley de Asociaciones Público Privadas para el Estado de Hidalgo en su caso, cuando se actualice alguno de los supuestos siguientes:
+La Contraloría, además de la sanción a que se refiere el artículo anterior y de lo previsto en los Artículos 19 y 20 de la presente Ley, inhabilitará al licitante, para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley o por la Ley de Alianzas Productivas de Inversión para el Estado de Hidalgo en su caso, cuando se actualice alguno de los supuestos siguientes:
 
 I.- A los que de manera injustificada y por causas imputables a los mismos, se abstengan de formalizar el contrato adjudicado por las Dependencias, Entidades o Municipios;
 
@@ -1103,7 +1107,9 @@ III.- Que incumplan con sus obligaciones contractuales, por causas imputables a 
 
 IV.- Que proporcionen información falsa o que actúen con dolo, violencia o mala fe en algún procedimiento de contratación o en la celebración del contrato y durante su vigencia.
 
-Cuando se trate de asociaciones pública privadas, la inhabilitación procederá, conforme a los supuestos establecidos en el Artículo 167 de la Ley de Asociaciones Público Privadas para el Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Cuando se trate de asociaciones pública privadas, la inhabilitación procederá conforme a los supuestos establecidos en los artículos 149, 150, 151, 152 y 153 de la Ley de Alianzas Productivas de Inversión para el Estado de Hidalgo.
 
 La inhabilitación prevista no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría lo notifique al infractor. Asimismo, lo hará del conocimiento de las Dependencias, Entidades y Municipios, mediante la publicación de la circular respectiva en el Periódico Oficial del Estado, y de manera inmediata en los medios electrónicos que la Contraloría determine, además podrá difundirse en medios impresos de mayor circulación en el Estado.
 
@@ -1227,9 +1233,11 @@ La resolución que al efecto emita la Contraloría, se podrá impugnar mediante 
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE CONCILIACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 105.
 
-Las partes de los contratos regulados por esta Ley o por la Ley de Asociaciones Público Privadas podrán promover ante la Contraloría, una solicitud de conciliación, por desavenencias con motivo del incumplimiento de los términos y condiciones pactados en los contratos.
+Las partes de los contratos regulados por esta Ley o por la Ley de Alianzas Productivas de Inversión para el Estado de Hidalgo podrán promover ante la Contraloría, una solicitud de conciliación, por desavenencias con motivo del incumplimiento de los términos y condiciones pactados en los contratos.
 
 Una vez iniciado el procedimiento respectivo, la Contraloría señalará día y hora para que tenga verificativo la audiencia de conciliación, citando a las partes. Dicha audiencia, se deberá celebrar dentro de los diez días hábiles siguientes de radicado el procedimiento.
 
@@ -1330,3 +1338,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 968 POR EL QUE SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 22 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1052 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
