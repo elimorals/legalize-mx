@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2024-06-19"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -999,9 +999,9 @@ En la organización y operación de los servicios de salud y telesalud destinado
 
 I.- Procedimientos que permitan la participación activa de la mujer en la prevención y atención oportuna a sus riesgos y padecimientos;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente;
+II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente; de igual forma promoverán la instalación de salas de lactancia en los centros de trabajo de los sectores público y privado, los cuales serán espacios donde las mujeres lactantes puedan amamantar o extraer su leche, almacenarla adecuadamente y llevarla consigo al término de su jornada laboral para alimentar a su hija o hijo, en términos de la normatividad que al efecto se expida;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
@@ -1055,7 +1055,9 @@ II.- Actividades recreativas, de esparcimiento y culturales destinadas a fortale
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las niñas, niños, adolescentes y de las mujeres embarazadas;
 
-IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
@@ -1065,9 +1067,13 @@ V.- El establecimiento por parte del Ejecutivo de la normatividad técnica para 
 
 VI.- Convenios para la prestación de servicios de salud y telesalud a los escolares, siguiendo las bases de coordinación que de conformidad establezcan las autoridades estatales competentes;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+VII.- Habilitación de salas de lactancia en los centros de trabajo de los sectores público y privado, como espacios donde las mujeres lactantes pueden amamantar o extraer su leche, almacenarla adecuadamente y llevarla consigo al término de su jornada laboral para alimentar a su hija o hijo; y
+
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
-VII.- Las demás que coadyuven a la protección de la salud materno-infantil y del adolescente.
+VIII.- Las demás que coadyuven a la protección de la salud materno-infantil y del adolescente.
 
 ### CAPITULO VI. DE LOS SERVICIOS DE PLANIFICACION FAMILIAR
 
@@ -4078,3 +4084,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La aplicación de las reformas del presente Decreto, se sujetarán a la disponibilidad presupuestal correspondiente.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-11 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 33, FRACCIÓN II; Y 35 FRACCIÓN IV, Y SE ADICIONA UNA FRACCIÓN VII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El cumplimiento del presente Decreto estará sujeto a la disponibilidad presupuestal durante el presente año fiscal, y deberá tomarse en cuenta para que sea garantizada su aplicación en el siguiente ejercicio fiscal.
