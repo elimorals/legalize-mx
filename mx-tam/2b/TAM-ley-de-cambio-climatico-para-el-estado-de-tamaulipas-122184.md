@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cambio-climatico-para-el-estado-de-tamaulipas-122184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2023-10-26"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Anexo al Número 73 del Periódico Oficial del Estado Libre y Soberano de Tamaulipas, el martes 20 de junio de 2017.
 
@@ -98,6 +98,10 @@ X. Consejo Consultivo: Consejo Consultivo de la Comisión Intersecretarial;
 XI. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
 XII. Emisiones: Liberación a la atmósfera de gases de efecto invernadero o sus precursores y aerosoles en la atmósfera, incluyendo en su caso compuestos de efecto invernadero, en una zona y un periodo de tiempo específicos;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XII Bis. Empleos Verdes: Son aquellos que contribuyen activamente a la conservación, restauración y mejora del medio ambiente en diversos sectores, buscando reducir el impacto ambiental de las actividades productivas, promoviendo la disminución de emisiones de gases de efecto invernadero, la eliminación de residuos, contaminación y la restauración de ecosistemas y biodiversidad;
 
 XIII. Estrategia Estatal: Estrategia Estatal de Cambio Climático de Tamaulipas. Documento que contempla, en concordancia con la Estrategia Nacional de Cambio Climático, en forma ordenada y coherente, estrategias, políticas, directrices y tácticas en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito estatal;
 
@@ -276,6 +280,10 @@ XX. Fomentar la participación de los sectores social, productivo y de apoyo en 
 XXI. Promover con los sectores social, productivo y de apoyo, la realización de acciones e inversiones concertadas en mitigación y adaptación al cambio climático;
 
 XXII. Promover la participación corresponsable de la sociedad en la adaptación y mitigación, de conformidad con lo dispuesto en el Programa Estatal y las leyes estatales aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXII Bis. Coadyuvar con la Secretaría de Desarrollo Energético de Tamaulipas en el fomento de empleos verdes;
 
 XXIII. Proponer al Gobernador del Estado, iniciativas que permitan incorporar en el marco legal vigente en el Estado, los criterios de adaptación y mitigación al cambio climático previstos en la presente Ley;
 
@@ -1414,6 +1422,14 @@ Las capacitaciones obligatorias de todas y todos los servidores públicos en mat
 P.O. 26 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-669 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV, DEL ARTÍCULO 25, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-9 MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XII BIS AL ARTÍCULO 2; Y XXII BIS AL ARTÍCULO 5, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
