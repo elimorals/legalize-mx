@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2024-09-17"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -61,7 +61,7 @@ Se CREA la Ley para la Protección al Ambiente del Estado de Hidalgo, para queda
 
 ###### Artículo 1.
 
-La presente Ley es Reglamentaria del párrafo vigésimo del artículo 5 la Constitución Política del Estado de Hidalgo, en materia de protección al ambiente y preservación y restauración del equilibrio ecológico en el Estado. Sus disposiciones son de observancia obligatoria en el territorio del Estado de Hidalgo y tiene como finalidad propiciar el desarrollo sustentable y establecer las bases para:
+La presente Ley es Reglamentaria del párrafo vigésimo del artículo 5 (sic) la Constitución Política del Estado de Hidalgo, en materia de protección al ambiente y preservación y restauración del equilibrio ecológico en el Estado. Sus disposiciones son de observancia obligatoria en el territorio del Estado de Hidalgo y tiene como finalidad propiciar el desarrollo sustentable y establecer las bases para:
 
 I. Garantizar el derecho de toda persona a vivir en un ambiente adecuado para su desarrollo, salud y bienestar;
 
@@ -86,6 +86,10 @@ X. Implementar medidas de mitigación, adaptación, control y prevención ante e
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
 XI. Coordinar a las dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como la participación correspondiente de la sociedad, propiciando la intervención de Instituciones académicas y de investigación, los sectores social y privado, así como con personas y grupos sociales, en la materia que regula esta Ley y las disposiciones que de ella deriven.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XII. Implementar un sistema de alerta temprana para detectar sequías en la región, acompañado de un análisis exhaustivo sobre su impacto y los riesgos asociados además diseñar estrategias efectivas de mitigación y respuesta rápida ante estas situaciones.
 
 ###### Artículo 2.
 
@@ -309,6 +313,10 @@ LXXVIII. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de 
 
 LXXIX. VISITA DE INSPECCIÓN: La que realiza el personal debidamente autorizado para verificar el cumplimiento de las disposiciones contenidas en la presente Ley, así como de las que de la misma se deriven, incluyendo la realización de medidas, condicionantes u otras obligaciones a cargo del visitado;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+LXXIX (SIC). Sequía: al fenómeno que produce naturalmente cuando las lluvias han sido considerablemente inferiores a los niveles normales registrados causando un agudo desequilibrio hídrico que perjudica los sistemas de producción de recursos de las tierras;
+
 LXXX. VISITA DE VERIFICACIÓN: La que realiza el personal debidamente autorizado para corroborar actos, hechos u omisiones que dan origen a la denuncia ciudadana;
 
 LXXXI. VISITA TÉCNICA: La que realiza el personal autorizado de la Secretaría para verificar o supervisar el contenido de los estudios y desahogo de trámites presentados ante dicha dependencia;
@@ -463,7 +471,9 @@ XLI. La administración del Fondo Ambiental del Estado de Hidalgo;
 
 XLII. La protección y ejecución de acciones destinadas a preservar los humedales del Estado de Hidalgo; y
 
-XLIII. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XLIII. La implementación de un sistema de alerta temprana para sequías junto con el desarrollo de estrategias para mitigar sus efectos
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -3864,3 +3874,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1117 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1039 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
