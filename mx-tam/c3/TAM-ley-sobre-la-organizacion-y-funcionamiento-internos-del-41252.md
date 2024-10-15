@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-09-26"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 26 DE SEPTIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -581,9 +579,9 @@ d) Proponer al Pleno Legislativo la designación de delegaciones para atender re
 
 e) Presentar al Pleno Legislativo el anteproyecto de presupuesto anual del Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-f) Establecer la integración del Orden del Día de las sesiones, así como proponer las formas de cómo se seguirán los debates, las discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar a la Presidencia de la Mesa Directiva a participar en la reunión de la Junta de Gobierno;
+f) Establecer la integración del Orden del Día de las sesiones, las cuales podrán acordar se convoquen con el tiempo suficiente para la realización de estas, a efecto de que las diputadas y diputados de la Legislatura en funciones asistan puntualmente a las sesiones del Pleno, así como proponer las formas de cómo se seguirán los debates, las discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar a la Presidencia de la Mesa Directiva a participar en la reunión de la Junta de Gobierno;
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -2075,7 +2073,9 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 La Presidencia de la Mesa Directiva, por conducto de la Secretaría General, distribuirá con 24 horas de anticipación a la celebración de la sesión el Acta que deba conocerse, con el objeto de dispensar la lectura íntegra de la misma, a través de medios o vías de comunicación electrónica. En la sesión correspondiente a su desahogo, sólo se presentará la lectura de las resoluciones o acuerdos adoptados que van implícitos en el acta correspondiente.
 
-Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto, o bien, cuando así lo determine mediante acuerdo la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
@@ -4288,3 +4288,15 @@ P.O. 24 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-10 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 28 QUINQUIES, INCISO F) y 83, NUMERAL 6, PÁRRAFO TERCERO DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
