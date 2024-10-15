@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2024-09-17"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -631,37 +631,11 @@ El Plan Municipal de Desarrollo podrá presentar una vigencia hasta de dos perí
 
 El Plan podrá ser evaluado y reconsiderado en su viabilidad a la mitad de la gestión gubernamental, considerando su actualización o adecuación.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-El Plan Municipal de Desarrollo será formulado y sancionado por el Comité de Planeación para el Desarrollo Municipal y aprobado por el Ayuntamiento, quien lo turnará a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo, a fin de garantizar que exista la congruencia con los principios y lineamientos señalados en el Plan Estatal de Desarrollo. El cual tendrá un término máximo de 15 días naturales para precisar sus observaciones al mismo, entendiéndose de que no hacer por escrito una respuesta oficial al Ayuntamiento se considerará la inexistencia de cualquier observación.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-Posterior a esta acción, la persona Titular del Poder Ejecutivo Municipal elaborará y remitirá al Congreso del Estado Libre y Soberano de Hidalgo en un término no mayor a 90 días después de tomar posesión de su cargo, el documento que contiene el Plan Municipal de Desarrollo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-El Congreso del Estado, contará con dos meses, después de haber recibido el Plan Municipal de Desarrollo para poder realizar sus observaciones, comentarios y consideraciones.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-El Congreso del Estado, emitirá un acuerdo legislativo que contenga las observaciones, comentarios y consideraciones pertinentes, para su aplicación en el Plan Municipal de Desarrollo, entregando una copia del mismo, a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo. El término para emitir el acuerdo legislativo por parte del Congreso del Estado no deberá ser mayor a 15 días naturales, estos transcurrirán a partir de que hayan culminado los dos meses asignados para su revisión, entendiéndose de que no hacerlo se dará por sentado que no hubo observación al documento.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-Con base en las consideraciones emitidas por el Congreso del Estado, la persona Titular del Poder Ejecutivo Municipal dará contestación de las mismas por escrito, justificando sus consideraciones finales y realizará en su caso, las adecuaciones que considere pertinentes para su publicación en un plazo no mayor a 10 días naturales a partir de su recepción.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-En todo momento, se deberá cuidar que la publicación del Plan Municipal de Desarrollo, sea en un término no mayor a seis meses contados a partir del comienzo de su administración.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-En el caso que se desee continuar con el Plan Municipal de Desarrollo vigente y una vez que se verificó que cumple con la alineación de los Planes de Desarrollo Nacional y Estatal actuales, se deberá notificar tal situación al Congreso Libre y Soberano de Hidalgo, para su revisión y análisis, en un término no mayor (sic) 90 días después de haber tomado posesión de su cargo el Titular del Poder Ejecutivo Municipal.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
-
-En caso de que no se cumpla con los plazos señalados en los párrafos anteriores, para la elaboración, remisión, revisión y publicación del Plan Municipal de Desarrollo, el Congreso del Estado Libre y Soberano de Hidalgo, a través de la Comisión encargada de los asuntos de Planeación y Prospectiva dará aviso al Contralor Municipal del municipio correspondiente y a la Auditoría Superior del Estado de Hidalgo, para que en el ámbito de sus competencias realicen las acciones que conforme a derecho correspondan.
+El Plan Municipal de Desarrollo será formulado y sancionado por el Comité de Planeación para el Desarrollo Municipal y aprobado por el Ayuntamiento, quien lo turnará a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo, a fin de garantizar que exista la congruencia con los principios y lineamientos señalados en el Plan Estatal de Desarrollo, así como un apartado especial que contenga información e indicadores oficiales recabados y emitidos por instituciones de reconocido prestigio o fuentes oficiales. El cual tendrá un término máximo de 15 días naturales para precisar sus observaciones al mismo, entendiéndose de que no hacer por escrito una respuesta oficial al Ayuntamiento se considerará la inexistencia de cualquier observación.
 
 ###### ARTÍCULO 49.
 
@@ -1082,3 +1056,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. En un plazo no mayor a los 180 días naturales a partir de la entrada en vigor del presente Decreto, las personas Titulares de los Ejecutivos Estatal y Municipales, deberán realizar las modificaciones reglamentarias pertinentes.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1045 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
