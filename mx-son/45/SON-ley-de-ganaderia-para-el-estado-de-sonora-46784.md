@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-46784"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-07"
-last_updated: "2017-08-03"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GANADERÍA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2005
 
@@ -138,6 +138,10 @@ XXXI.- Fierro o marca de herrar: La que se graba en la piel del ganado con hierr
 XXXII.- Ganadería: El conjunto de actividades necesarias para la cría, reproducción, mejoramiento, preengorda, engorda, sacrificio, industrialización y explotación de ganado;
 
 XXXIII.- Ganadero o productor pecuario: Persona física o moral que se dedica a la ganadería y que tiene definido su asiento de producción;
+
+> <small>(ADICIONADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXXIII Bis.- Ganadero de escasos recursos o pequeño productor rural ganadero: Persona física de escasos recursos económicos que habita en un municipio o localidad que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora, y que se dedica a la ganadería como actividad económica principal para su subsistencia y, en su caso, la de su familia;
 
 XXXIV.- Ganado criollo: Ganado producido por su propietario original sin haber transmitido su dominio;
 
@@ -295,6 +299,20 @@ C.- Que la asociación de que se trate resulte con una representación amplia de
 
 D.- Que se presente solicitud ante la Secretaría en los términos y con las formalidades que se establezcan en el reglamento de esta ley, incluyendo manifestación expresa según la cual la asociación de que se trate reconozca y acepte que la Secretaría conservará sus atribuciones para cancelar la autorización que se conceda cuando dejen de actualizarse las condiciones establecidas en los cuatro apartados anteriores.
 
+> <small>(ADICIONADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 5° BIS.- Es obligación de los organismos de cooperación:
+
+I.- Publicitar los programas públicos a su cargo.
+
+II.- Rendir, de manera pública, un informe anual respecto a los recursos públicos que hayan ejercido en el año fiscal anterior al informe, el cual deberá contener, al menos:
+
+a).- El monto total de los recursos públicos ejercidos durante el año fiscal;
+
+b).- La aplicación o el destino de los recursos públicos que haya ejercido; y
+
+d) (sic).- Los convenios con entidades públicas municipales, estatales o federales, que hayan celebrado o hayan estado vigentes durante el año fiscal.
+
 ###### ARTÍCULO 6º.
 
 Corresponde al Gobernador del Estado:
@@ -375,13 +393,21 @@ XXIII.- Establecer las condiciones de sanidad y calidad de los productos y subpr
 
 XXIV.- Evitar la internación de productos y subproductos pecuarios que no presenten la autorización correspondiente y de aquellos que no cumplan con las condiciones de sanidad y calidad establecidas en la autorización correspondiente;
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XXV.- Promover la calidad de los productos pecuarios producidos en el Estado de Sonora; y
+XXV.- Promover la calidad de los productos pecuarios producidos en el Estado de Sonora;
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XXVI.- Las demás que esta ley y otros ordenamientos le confieran.
+XXVI.- Impulsar el desarrollo de la actividad pecuaria en los municipios y localidades rurales que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora; del Estado de Sonora (sic);
+
+> <small>(ADICIONADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXVII.- Garantizar que, en la ejecución de programas de apoyo, se contemple a los productores pecuarios no agremiados a los organismos de cooperación, dando prioridad a los ganadores de escasos recursos o pequeños productores rurales ganaderos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXVIII.- Las demás que esta ley y otros ordenamientos le confieran.
 
 ###### ARTÍCULO 8º.
 
@@ -1303,9 +1329,13 @@ II.- Promover la integración de comités y asociaciones cuyo fin sea realizar c
 
 III.- Promover el establecimiento de la infraestructura sanitaria que, a propuesta de los productores, se considere necesaria para preservar la sanidad animal.
 
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 142.
 
-En los programas de apoyo o inversión a las actividades pecuarias tendrán prioridad los productores que observen las disposiciones sanitarias emitidas por la Secretaría.
+En los programas de apoyo o inversión a las actividades pecuarias tendrán prioridad a los ganaderos de escasos recursos o pequeños productores rurales ganaderos, así como aquellos productores que observen las disposiciones sanitarias emitidas por la Secretaría.
+
+La Secretaría asesorará a los pequeños productores rurales ganaderos y les brindará los apoyos y las facilidades necesarias para que cumplan con las disposiciones sanitarias.
 
 ###### ARTÍCULO 143.
 
@@ -2162,3 +2192,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA, DE LA LEY DE GANADERÍA PARA EL ESTADO DE SONORA, Y DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
