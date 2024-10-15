@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2024-09-17"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -129,6 +129,10 @@ XIV. LEY: Ley de Movilidad y Transporte para el Estado de Hidalgo;
 
 XV. MOVILIDAD: Conjunto de desplazamientos de personas y bienes que se realizan a través de sus propios medios de locomoción o utilizando algún tipo de transporte, que lleva a cabo la sociedad para satisfacer sus necesidades y alcanzar un pleno desarrollo; considerando como un derecho humano en condiciones de seguridad, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XV BIS. MOVILIDAD ACTIVA O NO MOTORIZADA: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
+
 XVI. NORMA OFICIAL MEXICANA: La regulación técnica de observancia obligatoria, expedida por las Autoridades competentes, que tiene como finalidad, establecer reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieren a su cumplimiento o aplicación;
 
 XVII. NORMA TÉCNICA: La regulación emitida por la Autoridad Competente mediante la cual se establecen, entre otros aspectos, definiciones, requisitos y especificaciones diversas de morfología, calidad, terminología, metodologías, métodos de formulación, modelización, ensayo o información diversa tocante a la prestación de los servicios materia de esta Ley;
@@ -173,7 +177,13 @@ XXX. TARIFA: Cantidad de dinero que debe pagar el usuario, en efectivo o a trav�
 
 XXXI. TRANSPORTE: El conjunto de operaciones y medios para trasladar a personas y transportar bienes, a cambio del pago de la tarifa;
 
-XXXII. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte en las vías de competencia Estatal, a cambio del pago de la tarifa previamente autorizada; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXXII. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte en las vías de competencia Estatal, a cambio del pago de la tarifa previamente autorizada;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXXII BIS. VEHÍCULO NO MOTORIZADO: Vehículo de tracción humana como bicicletas, monociclos, triciclos, cuatriciclos, sillas de ruedas; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora;
 
 XXXIII. VÍA PÚBLICA: Todo espacio de dominio público y uso común, que, por disposiciones de la Ley de Bienes del Estado, de lo señalado en este ordenamiento o por razones del servicio a que se destine, se ocupa para el traslado y transporte de personas o bienes, para la circulación de vehículos o para la prestación de los servicios auxiliares y conexos.
 
@@ -3546,3 +3556,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1100 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO, DEL ARTÍCULO 1, DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1038 POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
