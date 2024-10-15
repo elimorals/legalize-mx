@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-ciudadana-del-estado-de-quintana-roo-165693"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-20"
-last_updated: "2023-04-20"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número 6 Especial del Periódico Oficial del Estado de Quintana Roo, el jueves 20 de abril de 2023.
 
@@ -321,9 +321,11 @@ El Estado y los Ayuntamientos, con base en sus posibilidades presupuestales, est
 
 El Estado y los Ayuntamientos establecerán los mecanismos e instrumentos necesarios para constituir una Plataforma de información en materia de Seguridad Ciudadana. Se integrará, para este efecto, una base de datos aportados por las áreas encargadas de la vigilancia e investigación preventiva, de la persecución del delito, de la administración de justicia y de la ejecución de penas y medidas de seguridad, entre otras fuentes; en virtud de la coordinación interinstitucional, se compartirá dicha información entre las instituciones de referencia y con el Sistema Nacional para facilitar las labores de planeación que correspondan.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-A fin de lograr el pleno cumplimiento de los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución, por parte de las Personas Integrantes, así como de las Personas Servidoras Públicas a ellas adscritos, el C3 aplicará los procedimientos de evaluación y control de confianza para la permanencia en el servicio activo de las Personas Integrantes y las Personas Servidoras Públicas de las Instituciones Policiales de Seguridad Ciudadana.
+A fin de lograr el pleno cumplimiento de los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución, por parte de las Personas Integrantes, así como de las Personas Servidoras Públicas a ellas adscritos, el Organismo Público Desconcentrado de la Secretaría de Gobierno denominado C3 aplicará los procedimientos de evaluación y control de confianza para la permanencia en el servicio activo de las Personas Integrantes y las Personas Servidoras Públicas de las Instituciones Policiales de Seguridad Ciudadana.
 
 ###### Artículo 15.
 
@@ -3493,6 +3495,8 @@ Para lo no previsto respecto del desahogo de los procedimientos y de los recurso
 
 ### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA (C3)
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 271.
 
 Las condiciones del Servicio en ningún caso podrán ser inferiores a las fijadas en esta Ley, y deberán ser proporcionales, sin que pueda establecerse diferencia por motivo alguno, salvo los estímulos que se otorguen con apego a la normatividad aplicable.
@@ -3561,15 +3565,17 @@ III. Podrán acceder a jornadas con flexibilidad de horario que les permita aten
 
 ###### Artículo 280.
 
-El C3, es un órgano desconcentrado de la Secretaría, encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de las Personas Integrantes de las Instituciones de Seguridad Ciudadana y las Instituciones de Procuración de Justicia del Estado, con el objeto de obtener la aprobación y certificación para comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos.
+El C3, es un órgano desconcentrado de la Secretaría de Gobierno, encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de las Personas Integrantes de las Instituciones de Seguridad Ciudadana y las Instituciones de Procuración de Justicia del Estado, con el objeto de obtener la aprobación y certificación para comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos.
 
 ###### Artículo 281.
 
 El C3, aplicará evaluaciones tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los mismos.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 282.
 
-En su operación, el C3, considerará las políticas, procedimientos, lineamientos y criterios que emita la Secretaría.
+En su operación, el C3, considerará las políticas, procedimientos, lineamientos y criterios que emita la Secretaría de Gobierno y la Secretaría, así como los criterios y directrices establecidos por el Sistema Nacional y el Sistema Estatal.
 
 ###### Artículo 283.
 
@@ -3603,7 +3609,9 @@ XIII. Proporcionar a las autoridades competentes la información contenida en lo
 
 XIV. Elaborar los informes de resultados para la aceptación o rechazo de las personas aspirantes a ingresar a las Instituciones Policiales de Seguridad Ciudadana, y
 
-XV. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XV. Las que establezcan su decreto de creación y demás disposiciones legales aplicables.
 
 El Estado y los Municipios implementaran medidas de registro y seguimiento para quienes sean separados del Servicio por no obtener el certificado referido en esta Ley.
 
@@ -4074,3 +4082,37 @@ ATENDIENDO LO PREVISTO EN LOS ARTÍCULOS 93 DE LA CONSTITUCIÓN POLÍTICA DEL ES
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. MARÍA CRISTINA TORRES GÓMEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 009 POR EL QUE SE EXPIDE LA LEY DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, quedará abrogada la Ley que crea el Organismo Público Descentralizado denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública del Estado de Quintana Roo, expedida mediante Decreto Número 272 de la XV Legislatura del Estado, publicado el 20 de diciembre de 2018 en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO. A partir de la entrada en vigor de este Decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley que crea el Organismo Público Descentralizado denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública del Estado de Quintana Roo, se entenderán hechas a la Ley del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana del Estado de Quintana Roo.
+
+CUARTO. A partir de la entrada en vigor de este Decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, se entenderán hechas al Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana.
+
+QUINTO. En un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo y la Secretaría de Gobierno, en el ámbito de sus facultades, llevarán a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana y del Centro Estatal de Evaluación y Control de Confianza (C3), como organismo desconcentrado de la Secretaría de Gobierno.
+
+SEXTO. En un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo llevará a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+SÉPTIMO. Los recursos humanos, materiales y financieros que correspondan al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, pasarán íntegramente al Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana que se regula mediante el presente Decreto, para lo cual la Secretaría de Gobierno, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de las personas trabajadoras del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana.
+
+OCTAVO. Los recursos humanos, materiales y financieros que correspondan al Centro Estatal de Evaluación y Control de Confianza (C3), pasarán íntegramente como órgano desconcentrado de la Secretaría de Gobierno, para lo cual la Secretaría de Gobierno, Secretaría de Seguridad Ciudadana, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto.
+
+La entrada en vigor del presente Decreto, no afectará el régimen ni los derechos laborales de los trabajadores del Centro Estatal de Evaluación y Control de Confianza (C3), quienes pasarán a formar parte como órgano desconcentrado de la Secretaría de Gobierno.
+
+NOVENO. Los convenios y acuerdos que conlleven el ejercicio de recursos presupuestales y financieros a cargo del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública serán asumidos por el Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana, para el debido cumplimiento de las obligaciones y compromisos asumidos por aquél, conforme a las disposiciones legales aplicables.
+
+Los asuntos a cargo del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública que se encuentren pendientes de resolución al momento de la entrada en vigor de la presente ley, serán asumidos de inmediato y despachados por el Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana, conforme a las atribuciones que este mismo ordenamiento señala.
+
+DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
