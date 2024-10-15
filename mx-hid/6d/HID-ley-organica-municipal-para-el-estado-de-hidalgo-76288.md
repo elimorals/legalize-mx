@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-09-17"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3295,6 +3295,10 @@ El Comité de Planeación para el Desarrollo Municipal, funcionará como órgano
 
 I.- Promover y coadyuvar con la autoridad municipal, con la colaboración de los sectores que actúan a nivel local, en la elaboración de Plan de Desarrollo Municipal, del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, Programa Municipal de Prevención Social de la Violencia y Delincuencia y los programas sectoriales, en congruencia con los que formulen los gobiernos federal y estatal.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+I BIS.- Vigilar para la elaboración del Plan Municipal de Desarrollo se utilizan (sic) fuentes de información e indicadores oficiales recuperados y emitidos por el Instituto Nacional de Estadística y Geografía;
+
 II.- Cumplir con las prevenciones que establece la Ley de Planeación para el Desarrollo del Estado y con la legislación federal en la materia;
 
 III.- Observar las disposiciones de coordinación entre los gobiernos Federal, Estatal y Municipal y la cooperación de los sectores social y privado, para la ejecución en el ámbito local de los planes del sector público;
@@ -5080,3 +5084,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1116 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA DERECHOS CULTURALES DEL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1045 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
