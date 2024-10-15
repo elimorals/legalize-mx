@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-general-de-actuacion-policial-de-la-secretaria-de-172
 country: "mx"
 rank: "otro"
 publication_date: "2023-10-19"
-last_updated: "2023-10-19"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172434&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,15 @@ issue_date: "2023-10-11"
 ---
 # PROTOCOLO GENERAL DE ACTUACION POLICIAL DE LA SECRETARIA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN ACTUALIZADA EN LA GACETA OFICIAL NÚMERO 1465 DE FECHA 15 DE OCTUBRE DE 2024.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 1217 DE FECHA 19 DE OCTUBRE DE 2023.]</small>
 
 PROTOCOLO GENERAL DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Protocolo publicado en la Gaceta Oficial de la Ciudad de México, el jueves 19 de octubre de 2023.
+Protocolo publicado en la Gaceta Oficial de la Ciudad de México, el jueves 19 de octubre de 2023. (REPUBLICADO EN LA G.O. 15 DE OCTUBRE DE 2024).
 
-COMISARIO GENERAL, LICENCIADO PABLO VÁZQUEZ CAMACHO, Secretario de Seguridad Ciudadana de la Ciudad de México, con fundamento en los artículos 21 párrafos primero y noveno de la Constitución Política de los Estados Unidos Mexicanos; 4 apartado A, numeral 3, de la Constitución Política de la Ciudad de México; 16 de la Ley Nacional sobre el Uso de la Fuerza; 18 fracciones III, VI y IX, 59 fracciones I, V, VII, XI, XIII y párrafos segundo y tercero de la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México; 5, 6 de la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México; 6 y 8 fracciones II y III del Reglamento Interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México, y
+COMISARIO GENERAL, LICENCIADO PABLO VÁZQUEZ CAMACHO, Secretario de Seguridad Ciudadana de la Ciudad de México, con fundamento en los artículos, 21 párrafos primero y noveno de la Constitución Política de los Estados Unidos Mexicanos; 4 apartado A, numeral 3, de la Constitución Política de la Ciudad de México; 16, fracción XVI y último párrafo y, 20, fracción IX de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 18 fracciones III y IX, 59 fracciones I, V, VII, XI y XIII de la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México; 6 y 8 fracción III del Reglamento Interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México, y
 
 CONSIDERANDO
 
@@ -36,19 +36,15 @@ CONSIDERANDO
 
 Que, en virtud de lo anterior, he tenido a bien expedir el siguiente:
 
-AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ CONSULTARSE EL PROTOCOLO GENERAL DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO.
+AVISO POR EL QUE SE DA A CONOCER EL PROTOCOLO GENERAL DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO.
 
-ÚNICO. Se da a conocer el enlace electrónico donde podrá consultarse el Protocolo General de Actuación Policial de la Secretaría de Seguridad Ciudadana de la Ciudad de México, el cual está disponible en el siguiente hipervínculo:
+ÚNICO. Se da a conocer, en su versión digitalizada, el Protocolo General de Actuación del Protocolo General de Actuación Policial de la Secretaría de Seguridad Ciudadana de la Ciudad de México, el cual se encuentra adjunto al ejemplar de la Gaceta Oficial de la Ciudad de México.
 
-https://www.ssc.cdmx.gob.mx/storage/app/media/Protocolos-actuacion-policial/Protocolo-Gral-de-Actuacion-Policial-C-N.pdf
-
-El servidor público responsable del mantenimiento y funcionalidad del hipervínculo es el Ingeniero Guillermo Omar Martínez Toledo, Director de Desarrollo de Sistemas Informáticos, con correo electrónico gomartinez@ssc.cdmx.gob.mx y número telefónico de contacto: 5552425100 ext. 6146.
-
-## TRANSITORIOS
+## TRANSITORIO
 
 ÚNICO. Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos legales y administrativos.
 
-Ciudad de México, a 11 de octubre de 2023.
+Dado en la Ciudad de México el 09 de septiembre de 2024.
 
 EL SECRETARIO DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
@@ -2332,54 +2328,4 @@ su vida privada o en su imagen propia.
 
 Tipos de Violencia contra las Mujeres: Agrupación de los actos específicos de agresiones hacia las mujeres según sus características y forma de manifestarse.
 
-> <small>[N. DE E. VÉASE TABLA EN: https://www.ssc.cdmx.gob.mx/storage/app/media/Protocolos-actuacion-policial/Protocolo-Gral-de-Actuacion-Policial-CN.pdf PÁGINA 68.]</small>
-
-PROTOCOLO GENERAL DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
-
-COMISARIO GENERAL
-
-LIC. PABLO VÁZQUEZ CAMACHO
-
-SECRETARIO DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
-
-MTRA. MARCELA FIGUEROA FRANCO
-
-SUBSECRETARIA DE DESARROLLO INSTITUCIONAL
-
-COORDINACIÓN Y ELABORACIÓN
-
-COMISARIA
-
-MTRA. ALEJANDRA RAMÍREZ MACIEL
-
-DIRECTORA GENERAL DE CARRERRA (SIC) POLICIAL
-
-OFICIAL
-
-LCDO. JESÚS OTHONIEL HERNÁNDEZ GARDUÑO
-
-DIRECTOR DE PROFESIONALIZACIÓN
-
-LCDA. ADRIANA LAURA MUÑOZ RAMÍREZ
-
-ENCARGADA DE ACTUALIZACIÓN DE NORMATIVAS
-
-LCDA. DANIELA NANCY DÍAZ REYES
-
-ASISTENTE DE ACTUALIZACIÓN DE NORMATIVAS
-
-COLABORACIONES
-
-COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
-
-INSTANCIA EJECUTORA DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS
-
-SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL DE LA CIUDAD DE MÉXICO.
-
-DIRECCIÓN GENERAL DE DIVERSIDAD SEXUAL Y DERECHOS HUMANOS
-
-CAUSA EN COMÚN A.C.
-
-INSTITUTO PARA LA SEGURIDAD Y LA DEMOCRACIA A.C. (INSYDE)
-
-MÉXICO UNIDO CONTRA LA DELINCUENCIA A.C. (MUCD)
+> <small>[N. DE E. VÉASE TABLA EN EL ANEXO 3 DE LA G.O. DE 15 DE OCTUBRE DE 2024, PÁGINA 67.]</small>
