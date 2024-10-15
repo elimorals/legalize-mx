@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2023-03-02"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ abbreviation: "LGSMIME"
 
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -832,13 +832,19 @@ Artículo 49
 
 1. Durante el proceso electoral federal y exclusivamente en la etapa de resultados y de declaraciones de validez, el juicio de inconformidad procederá para impugnar las determinaciones de las autoridades electorales federales que violen normas constitucionales o legales relativas a las elecciones de Presidente de los Estados Unidos Mexicanos, senadores y diputados, en los términos señalados por el presente ordenamiento.
 
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+2. Durante el proceso electoral para la elección de personas juzgadoras del Poder Judicial de la Federación, el juicio de inconformidad procederá para impugnar las determinaciones de las autoridades electorales federales que violen normas constitucionales o legales, en los términos señalados por esta ley. Los medios de impugnación no producirán efectos suspensivos sobre la resolución o acto impugnado.
+
 Artículo 50
 
-1. Son actos impugnables a través del juicio de inconformidad, en los términos del Código Federal de Instituciones y Procedimientos Electorales y la presente ley, los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+1. Son actos impugnables a través del juicio de inconformidad, en los términos de la Ley General de Instituciones y Procedimientos Electorales y la presente ley, los siguientes:
 
-a) En la elección de Presidente de los Estados Unidos Mexicanos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+a) En la elección de Presidente de los Estados Unidos Mexicanos y de personas ministras de la Suprema Corte de Justicia de la Nación, así como magistradas de la Sala Superior del Tribunal Electoral y del Tribunal de Disciplina Judicial:
 
 I. Los resultados consignados en las actas de cómputo distrital respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético, y
 
@@ -852,7 +858,9 @@ II. Las determinaciones sobre el otorgamiento de las Constancias de Mayoría y V
 
 III. Los resultados consignados en las actas de cómputo distrital, por error aritmético.
 
-c) En la elección de diputados por el principio de representación proporcional, los resultados consignados en las actas de cómputo distrital respectivas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+c) En la elección de diputados por el principio de representación proporcional, así como de personas magistradas de las Salas Regionales del Tribunal Electoral, los resultados consignados en las actas de cómputo distrital respectivas:
 
 I. Por nulidad de la votación recibida en una o varias casillas; o
 
@@ -871,6 +879,14 @@ e) En la elección de senadores por el principio de representación proporcional
 I. Por nulidad de la votación recibida en una o varias casillas; o
 
 II. Por error aritmético.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+f) En la elección de personas magistradas de Tribunales Colegiados de Circuito y de Apelación, así como personas juzgadoras de Juzgados de Distrito:
+
+I. Los resultados consignados en las actas de cómputo de entidad federativa, las declaraciones de validez de las elecciones y el otorgamiento de las Constancias de Mayoría y Validez, por nulidad de la votación recibida en una o varias casillas o por nulidad de la elección, y
+
+II. Los resultados consignados en las actas de cómputo de entidad federativa, por error aritmético.
 
 Artículo 51
 
@@ -930,9 +946,17 @@ Artículo 53
 
 1. Son competentes para resolver los juicios de inconformidad:
 
-a) La Sala Superior del Tribunal Electoral, respecto de la impugnación de los actos señalados en el inciso a) del párrafo 1 del artículo 50 del presente ordenamiento; y
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
 
-b) La Sala Regional que ejerza jurisdicción sobre la circunscripción plurinominal a la que pertenezca la autoridad electoral responsable de los actos a que se refieren los incisos b) al e) del párrafo 1 del artículo precisado en el inciso anterior.
+a) La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, respecto de la impugnación de los actos señalados en el inciso a) del párrafo 1 del artículo 50 del presente ordenamiento, con excepción de la elección de sus integrantes, en cuyo caso corresponderá conocer al Pleno de la Suprema Corte de Justicia de la Nación quien deberá observar lo dispuesto en esta ley;
+
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+b) La Sala Regional que ejerza jurisdicción sobre la circunscripción plurinominal a la que pertenezca la autoridad electoral responsable de los actos a que se refieren los incisos b) al e) del párrafo 1 del artículo precisado en el inciso anterior, con excepción de los cargos del Poder Judicial de la Federación, y
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+c) La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación respecto de la impugnación de los actos correspondientes a los cargos del Poder Judicial de la Federación señalados en el inciso c) y en el inciso f) del párrafo del artículo señalado en el inciso anterior.
 
 ### CAPITULO IV. De la legitimación y de la personería
 
@@ -948,21 +972,33 @@ b) Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autori
 
 2. Cuando se impugne la elección de Presidente de los Estados Unidos Mexicanos, por nulidad de toda la elección, el respectivo juicio de inconformidad deberá presentarse por el representante del partido político o coalición registrado ante el Consejo General del Instituto Federal Electoral.
 
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+3. Cuando se impugne la elección de personas juzgadoras del Poder Judicial de la Federación, el respectivo juicio de inconformidad deberá presentarse por la persona candidata interesada.
+
 ### CAPITULO V. De los plazos y de los términos
 
 Artículo 55
 
 1. La demanda del juicio de inconformidad deberá presentarse dentro de los cuatro días contados a partir del día siguiente de que concluya la práctica de los cómputos:
 
-a) Distritales de la elección presidencial, para impugnar los actos a que se refiere el inciso a) del párrafo 1 del artículo 50 de este ordenamiento;
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+a) Distritales de la elección presidencial y de la elección de personas ministras de la Suprema Corte de Justicia de la Nación, así como personas magistradas de la Sala Superior del Tribunal Electoral o del Tribunal de Disciplina Judicial, para impugnar los actos a que se refiere el inciso a) del párrafo 1 del artículo 50 de este ordenamiento;
 
 b) Distritales de la elección de diputados por ambos principios, para impugnar los actos a que se refieren los incisos b) y c) del párrafo 1 del artículo 50 de este ordenamiento; y
 
-c) De entidades federativas de la elección de senadores por ambos principios y de asignación a la primera minoría, para impugnar los actos a que se refieren los incisos d) y e) del párrafo 1 del artículo 50 de este ordenamiento.
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+c) De entidades federativas de la elección de senadores por ambos principios y de asignación a la primera minoría, así como la elección de personas magistradas de Tribunales de Circuito, de Apelación, de las Salas Regionales del Tribunal Electoral y juezas de Juzgados de Distrito, para impugnar los actos a que se refieren los incisos d), e) y f) del párrafo 1 del artículo 50 de este ordenamiento.
 
-2. Cuando se impugne la elección de Presidente de los Estados Unidos Mexicanos por nulidad de toda la elección, el respectivo juicio de inconformidad deberá promoverse a más tardar dentro de los cuatro días posteriores a la presentación del informe a que se refiere el artículo 310 del Código Federal de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+2. Cuando se impugne la elección de Presidente de los Estados Unidos Mexicanos por nulidad de toda la elección, el respectivo juicio de inconformidad deberá promoverse a más tardar dentro de los cuatro días posteriores a la presentación del informe a que se refiere el artículo 326 de la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+3. Cuando se impugne la elección de personas ministras de la Suprema Corte de Justicia de la Nación, magistradas de la Sala Superior y del Tribunal de Disciplina Judicial, deberá promoverse a más tardar dentro de los cuatro días posteriores a que el Consejo General del Instituto realice la declaratoria de resultados correspondiente.
 
 ### CAPITULO VI. De las sentencias
 
@@ -1034,7 +1070,13 @@ Artículo 61
 
 a) En juicios de inconformidad que se hayan promovido en contra de los resultados de las elecciones de diputados y senadores, así como las asignaciones por el principio de representación proporcional que respecto de dichas elecciones realice el Consejo General del Instituto, siempre y cuando se cumplan los presupuestos y requisitos establecidos en este ordenamiento, y
 
-b) En los demás medios de impugnación de la competencia de las Salas Regionales, cuando hayan determinado la no aplicación de una ley electoral por considerarla contraria a la Constitución.
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+b) En los demás medios de impugnación de la competencia de las Salas Regionales, cuando hayan determinado la no aplicación de una ley electoral por considerarla contraria a la Constitución Federal.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+2. El recurso de reconsideración también procederá para impugnar las sentencias de las Salas Regionales vinculadas con los juicios relacionados con la elección de cargos del Poder Judicial de la Federación a que se refiere el artículo 96 de la Constitución Federal.
 
 ### CAPITULO II. De los presupuestos
 
@@ -1170,11 +1212,13 @@ c) A la Oficialía Mayor de la Cámara que corresponda del Congreso de la Unión
 
 ### CAPITULO I. De las reglas generales
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
-
 Artículo 71
 
-1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadores por el principio de mayoría relativa o la asignación de primera minoría; o la elección para Presidente de los Estados Unidos Mexicanos. Para la impugnación de la elección de diputados o senadores por el principio de representación proporcional, se estará a lo dispuesto por los párrafos 2 y 3 del artículo 52 de esta ley.
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadores por el principio de mayoría relativa o la asignación de primera minoría; o la elección para Presidente de los Estados Unidos Mexicanos. Para la impugnación de la elección de diputados o senadores por el principio de representación proporcional, se estará a lo dispuesto por los párrafos 2 y 3 del artículo 52 de esta ley. Asimismo, podrán afectar los resultados del cómputo de las elecciones de personas integrantes del Poder Judicial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 2. Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral uninominal o en una entidad federativa, o bien, en la elección de Presidente de los Estados Unidos Mexicanos, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
 
@@ -1262,6 +1306,24 @@ b) Cuando en el territorio nacional no se instale el veinticinco por ciento o m�
 
 c) Cuando el candidato ganador de la elección resulte inelegible.
 
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+Artículo 77 Ter
+
+1. Son causales de nulidad de la elección de personas juzgadoras del Poder Judicial de la Federación, adicionalmente a las aplicables previstas en la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos:
+
+a) Cuando alguna o algunas de las causales de nulidad previstas en el párrafo 1 del artículo 75 de esta ley, se acrediten en por lo menos el veinticinco por ciento de las casillas instaladas en el territorio nacional, o en el respectivo circuito judicial o circunscripción plurinominal y, en su caso, no se hayan corregido durante el recuento de votos;
+
+b) Cuando en el territorio nacional o en el respectivo circuito judicial o circunscripción plurinominal, no se instale el veinticinco por ciento o más de las casillas y consecuentemente la votación no hubiere sido recibida;
+
+c) Cuando la candidatura ganadora de la elección resulte inelegible;
+
+d) Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido por la Ley General de Instituciones y Procedimientos Electorales, o
+
+e) Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente una campaña de una persona candidata.
+
+2. Las causales de nulidad señaladas en el párrafo anterior deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
+
 Artículo 78
 
 1. Las Salas del Tribunal Electoral podrán declarar la nulidad de una elección de diputados o senadores cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, en el distrito o entidad de que se trate, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o sus candidatos.
@@ -1294,13 +1356,13 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 ### CAPITULO I. De la procedencia
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
 
 Artículo 79
 
-1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso e) del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
+1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando la ciudadanía en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso e) del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
 
-2. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales de las entidades federativas.
+2. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien, teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales de las entidades federativas, así como la titularidad de los diversos cargos del Poder Judicial de la Federación electos por votación libre, directa y secreta, a que se refiere el artículo 96 de la Constitución Federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -1333,6 +1395,14 @@ g) Considere que los actos o resoluciones del partido político al que está afi
 > <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
 h) Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+i) Considere que se violó su derecho político-electoral de ser votado o votada a alguno de los cargos del Poder Judicial de la Federación electos por votación libre, directa y secreta, a que se refiere el artículo 96 de la Constitución Federal.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+En estos casos no operará la suplencia de la queja.
 
 2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
@@ -1672,6 +1742,36 @@ Artículo 110
 
 1. Para la tramitación, sustanciación y resolución del recurso previsto en este Libro, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta Ley y en particular las señaladas en el recurso de apelación contenidas en el Título Tercero del Libro Segundo.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+# LIBRO SEPTIMO. Del Juicio Electoral
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+## TITULO UNICO. De las Reglas Particulares
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+### CAPITULO UNICO. De la Procedencia y Competencia
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+Artículo 111
+
+1. El Juicio Electoral será procedente para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas candidatas a ministras, magistradas o juezas del Poder Judicial de la Federación en el proceso electoral respectivo.
+
+2. Sólo podrán promover Juicio Electoral las personas que acrediten su interés jurídico como candidatas a ministras, magistradas o juezas del Poder Judicial de la Federación.
+
+3. Las Salas del Tribunal Electoral, en sus respectivas jurisdicciones, serán competentes para conocer de este recurso. Tratándose de asuntos vinculados con la elección de personas magistradas de las Salas Regionales del Tribunal Electoral, será competente la Sala Superior. En los casos de asuntos vinculados con la elección de personas magistradas de la Sala Superior, será competente el Pleno de la Suprema Corte de Justicia de la Nación.
+
+4. El plazo para impugnar será de tres días, contados a partir del día siguiente a aquél en que se haya notificado o tenga conocimiento de la resolución o el acto correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 112.
+
+1. Para la tramitación, sustanciación y resolución del Juicio Electoral, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y en particular las señaladas en el recurso de apelación contenidas en el Título Tercero del Libro Segundo, con excepción de lo relacionado a las pruebas.
+
 ## TRANSITORIOS
 
 Primero.- Esta ley entrará en vigor el día de la publicación del presente Decreto en el Diario Oficial de la Federación.
@@ -1835,3 +1935,11 @@ Vigésimo Octavo. Las normas establecidas en los artículos 11 bis, párrafo 1, 
 Vigésimo Noveno. Se abrogan todos los acuerdos o resoluciones emitidos por la autoridad electoral que vulneren el derecho a la libertad de expresión o al libre ejercicio periodístico.
 
 Trigésimo. Para efectos de lo dispuesto en el numeral 1 del artículo 11 Bis de la Ley General de Instituciones y Procedimientos Electorales, se computará el inicio del ciclo de las postulaciones a las gubernaturas y jefatura de gobierno de las entidades federativas a partir de la elección de 2024.
+
+D.O.F. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
