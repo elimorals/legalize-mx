@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-137131"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-02"
-last_updated: "2021-11-26"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE NOVIEMBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 2 de julio de 2019.
 
@@ -191,6 +189,22 @@ De la misma manera, los Notarios Públicos deberán sujetarse a los procesos de 
 
 Los Notarios Públicos no percibirán sueldo alguno con cargo al erario. Sin embargo, tendrán derecho a cobrar los honorarios que se devenguen en cada caso, conforme al arancel de honorarios que emita la Secretaría de Gobierno, cuya observancia será obligatoria para todos los Notarios del Estado.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Las dependencias, entidades y organismos desconcentrados de la administración pública estatal estarán exentos del pago de honorarios a que se refiere el párrafo anterior, cuando estos requieran de la prestación de los servicios notariales para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Las condiciones a las que se sujetará la prestación de servicios a que se refiere el párrafo anterior, así como su distribución equitativa entre los Notarios Públicos del Estado, serán establecidas por la Secretaría de Gobierno a través del arancel de honorarios que ésta emita.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Artículo 15 BIS. La Secretaría de Gobierno podrá autorizar la actuación de los Notarios Públicos en áreas geográficas distintas a aquellas de su adscripción territorial habitual.
+
+Esta autorización se otorgará exclusivamente con el objetivo de asegurar que, entre los Notarios Públicos disponibles, se distribuya equitativamente la prestación de los servicios notariales a que hace referencia el segundo párrafo del artículo 15 de la presente Ley.
+
+Los Notarios deberán relacionar en el instrumento respectivo y agregar al apéndice del mismo, la autorización que para tales efectos le sea emitida por la Secretaría de Gobierno.
+
 ###### Artículo 16.
 
 La Secretaría de Gobierno requerirá a los Notarios Públicos del Estado y éstos estarán obligados, a la prestación de los servicios notariales, cuando se trate de atender asuntos de interés social, como programas de vivienda popular, regularización de terrenos agrarios, programas federales y demás supuestos legales.
@@ -294,6 +308,28 @@ IX.- Litigar en asuntos propios o de su cónyuge, o de alguno de los parientes d
 X.- Dar fe de actos o hechos relacionados con derechos humanos a solicitud de parte interesada, y
 
 XI.- Todas las demás análogas conforme a esta ley y otras disposiciones de orden público.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+Artículo 22 BIS. Los Notarios tendrán la obligación de informar a la Unidad de Inteligencia Financiera del Servicio de Administración Tributaria del Estado de Quintana Roo sobre los siguientes actos notariales:
+
+I.- La transmisión o constitución de derechos reales sobre inmuebles, salvo las garantías que se constituyan en favor de instituciones del sistema financiero u organismos públicos de vivienda.
+
+Estas operaciones serán objeto de informe ante la Unidad de Inteligencia Financiera cuando en los actos u operaciones el precio pactado, el valor catastral o, en su caso, el valor comercial del inmueble, el que resulte más alto, o en su caso el monto garantizado por suerte principal sea igual o superior al equivalente en moneda nacional a dieciséis mil Unidades de Medida y Actualización;
+
+II.- El otorgamiento de poderes para actos de administración o dominio otorgados con carácter irrevocable;
+
+III.- La constitución de personas morales, su modificación patrimonial derivada de aumento o disminución de capital social, fusión o escisión, así como la compraventa de acciones y partes sociales de tales personas.
+
+Serán objeto de informe cuando las operaciones se realicen por un monto igual o superior al equivalente en moneda nacional de dieciséis mil Unidades de Medidas y Actualización;
+
+IV.- La constitución o modificación de fideicomisos traslativos de dominio o de garantía sobre inmuebles, salvo los que se constituyan para garantizar algún crédito a favor de instituciones del sistema financiero u organismos públicos de vivienda.
+
+Serán objeto de informe cuando las operaciones se realicen por un monto igual o superior al equivalente en moneda nacional de dieciséis mil Unidades de Medidas y Actualización;
+
+V.- El otorgamiento de contratos de mutuo o crédito, con o sin garantía, en los que el acreedor no forme parte del sistema financiero o no sea un organismo público de vivienda, y
+
+VI.- Aquellos actos que deriven por disposición de las leyes federales o estatales.
 
 ## TÍTULO TERCERO. DE LOS NOTARIOS PÚBLICOS
 
@@ -1891,9 +1927,17 @@ XVI.- Por realizar cualquier actividad que sea incompatible con el desempeño de
 
 XVII.- Por revelación injustificada y dolosa de datos contenidos en los protocolos a su cargo a terceros ajenos a los actos provenientes de la escritura;
 
-XVIII.- Por negarse sin causa justificada al ejercicio de sus funciones, cuando hubiere sido requerido para ello por algún usuario o autoridad, así como negarse a prestar auxilio a las autoridades electorales, partidos políticos, gobierno federal, estatal y municipal, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-XIX.- Las demás infracciones análogas a que se refiere el presente artículo y a las demás leyes aplicables a la función notarial.
+XVIII.- Por negarse sin causa justificada al ejercicio de sus funciones, cuando hubiere sido requerido para ello por algún usuario o autoridad, así como negarse a prestar auxilio a las autoridades electorales, partidos políticos, gobierno federal, estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XIX.- No cumplir con lo señalado en el artículo 22 Bis de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XX.- Las demás infracciones análogas a que se refiere el presente artículo y a las demás leyes aplicables a la función notarial.
 
 ###### Artículo 197.
 
@@ -2280,3 +2324,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Gobierno, a partir de la entrada en vigor del presente Decreto, tendrá un periodo máximo de un año, para llevar a cabo las diligencias necesarias para la obtención de los folios notariales que servirán a los Notarios Públicos para la integración de su protocolo. Hasta en tanto la Secretaría de Gobierno no cuente con los folios en su poder, los Notarios Públicos continuarán adquiriéndolos bajo el procedimiento señalado en la Ley que se reforma.
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 011 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las adecuaciones conducentes al Arancel de Honorarios de Notarios Públicos para el Estado de Quintana Roo, que se desprendan del contenido del presente Decreto, deberán ser emitidas por la Secretaría de Gobierno del Estado, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+TERCERO. En tanto sean emitidas las adecuaciones al Arancel de Honorarios de Notarios Públicos, se podrán autorizar las exenciones a que se refiere el artículo 15 mediante oficio de la persona titular de la Secretaría de Gobierno en favor de la dependencia o entidad que requiera ejercer sus facultades conforme a lo dispuesto por el presente decreto.
+
+CUATRO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
