@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2023-08-23"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -113,9 +113,13 @@ Para el cumplimiento de los fines y criterios previstos en esta Ley y de conform
 
 ### CAPÍTULO TERCERO. DE LA EDUCACIÓN EN EL ESTADO DE TAMAULIPAS
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 9.
 
-Las autoridades educativas del Estado de Tamaulipas tendrán como propósito la construcción social de la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
+1.- Las autoridades educativas del Estado de Tamaulipas tendrán como propósito la construcción social de la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
+
+2.- La Secretaría, se encargará de promover y establecer, por los conductos y acciones correspondientes, que en las instituciones educativas, públicas y privadas, se impartan los conocimientos básicos y generales, respecto del contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas, fomentando en quienes integran la comunidad escolar, la solidaridad y una firme conciencia cívica nacionalista, que prepare una mejor ciudadanía mexicana y tamaulipeca.
 
 ###### ARTÍCULO 10.
 
@@ -595,9 +599,13 @@ Las maestras y los maestros acompañarán a los educandos en sus trayectorias fo
 
 1.- En términos de la Ley General de Educación, la autoridad educativa federal determinará los planes y programas de estudio de la educación preescolar, la primaria, la secundaria, la educación normal y demás aplicables para la formación de maestras y maestros de educación básica.
 
-2.- De conformidad a las disposiciones jurídicas aplicables, la Secretaría emitirá su opinión para que se considere en los planes y programas de estudio el contenido los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-3.- La Secretaría podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje.
+2.- De conformidad a las disposiciones jurídicas aplicables, la Secretaría emitirá su opinión para que se considere en los planes y programas de estudio, el contenido, los proyectos y programas educativos que contemplen la enseñanza de los derechos humanos, las realidades y contextos, regionales y locales del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+3.- La Secretaría podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender la evolución de los derechos humanos, el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje.
 
 4.- Los planes y programas de estudio en educación media superior atenderán el marco curricular común que sea establecido por la autoridad educativa federal, en términos de lo establecido en la Ley General de Educación. La elaboración de planes y programas de estudio de los bachilleratos de universidades públicas autónomas por ley se sujetará a las disposiciones correspondientes.
 
@@ -653,7 +661,9 @@ XIX.- La promoción de actitudes solidarias y positivas hacia el trabajo, el aho
 
 XX.- El fomento de la lectura y el uso de los libros, materiales diversos y dispositivos digitales;
 
-XXI.- La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXI.- La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas y los tratados internacionales, para garantizar el respeto a los mismos;
 
 XXII.- El conocimiento de las artes, la valoración, la apreciación, preservación y respeto del patrimonio musical, cultural y artístico, así como el desarrollo de la creatividad artística por medio de los procesos tecnológicos y tradicionales;
 
@@ -757,9 +767,15 @@ VII.- Participar de los procesos que se deriven en los planteles educativos como
 
 VIII.- Recibir becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-IX.- Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
-X.- Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y las disposiciones aplicables.
+IX.- Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2024)</small>
+
+X.- Ser instruidos y conocer sobre sus derechos humanos; y
+
+XI.- Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y las disposiciones aplicables.
 
 3.- La Secretaría establecerá los mecanismos que contribuyan a la formación integral de los educandos, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
@@ -1692,3 +1708,17 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintitrés días del mes de agosto del año dos mil veintitrés.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-8 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación de Tamaulipas deberá implementar e instrumentar los mecanismos idóneos para que los docentes obtengan la capacitación necesaria para dar cumplimiento al presente Decreto y así estar en posibilidades de impartirlo a los educandos, lo que habrá de quedar establecido a más tardar en el ciclo lectivo del año 2026.
