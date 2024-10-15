@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-rural-sustentable-del-estado-de-sonora-70227"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2009-09-17"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 17 de septiembre de 2009.
 
@@ -45,9 +45,11 @@ LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA
 
 ### CAPÍTULO I. DEL OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social y tiene por objeto promover el desarrollo rural en el Estado, de manera integral, sustentable e incluyente, con el fin de mejorar la calidad de vida de la sociedad rural, contribuir a la seguridad y soberanía alimentaria del Estado y del país, así como establecer las bases para:
+La presente ley es de orden público e interés social y tiene por objeto promover el desarrollo rural en el Estado, de manera integral, sustentable e incluyente, priorizando a los pequeños productores rurales del Estado, con el fin de mejorar la calidad de vida de la sociedad rural, contribuir a la seguridad y soberanía alimentaria del Estado y del país, así como establecer las bases para:
 
 I. Definir las políticas de Estado para el desarrollo rural sustentable;
 
@@ -77,9 +79,17 @@ XIII. Promover en coordinación con las instancias correspondientes, la investig
 
 XIV. Diseñar prácticas productivas orientadas a la conservación y mejoramiento de los recursos naturales, la biodiversidad y los servicios ambientales del campo;
 
-XV. Hacer eficiente el gasto de los recursos destinados para la aplicación del Programa Especial y demás programas relacionados al desarrollo rural; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XVI. Los demás aspectos necesarios para el cumplimiento del objeto de esta ley y los principios de política señalados en la misma.
+XV. Hacer eficiente el gasto de los recursos destinados para la aplicación del Programa Especial y demás programas relacionados al desarrollo rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XVI. Impulsar el desarrollo de los pequeños productores rurales de los municipios y localidades que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora; mediante el otorgamiento de apoyos y asesoría para incrementar su producción y promover su acceso y presencia en el mercado estatal, nacional e internacional; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XVII. Los demás aspectos necesarios para el cumplimiento del objeto de esta ley y los principios de política señalados en la misma.
 
 ###### Artículo 2.
 
@@ -155,6 +165,10 @@ XIX. Diversificación Productiva: Combinación de actividades agropecuarias y no
 
 XX. Empleo no agropecuario: Todas aquellas actividades económicas desarrolladas en los espacios rurales, que no forman parte del sector agropecuario, pesquero y silvícola;
 
+> <small>(ADICIONADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XX Bis. Pequeños productores rurales: Personas físicas de escasos recursos económicos que habitan en los municipios y localidades que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora, y que se dedican a la producción agropecuaria, silvícola, pesquero y acuícola, como actividad económica principal para su subsistencia y, en su caso, la de sus familias;
+
 XXI. Entidad coadyuvante: Organismo público, privado o mixto que incide en el sector rural en apoyo a las autoridades competentes y concurrentes, sin ejercer él mismo facultades de autoridad;
 
 XXII. Investigación y transferencia de tecnología: Las actividades encargadas de generar conocimiento y tecnologías apropiadas a las condiciones socioeconómicas y ambientales de la sociedad rural, tendientes a elevar la calidad de vida, la productividad y mejorar el cuidado del medio ambiente;
@@ -172,6 +186,10 @@ XXVII. Planes de manejo sustentable de tierras: programa para el aprovechamiento
 XXVIII. Producción artesanal: Manufacturas elaboradas en escala no masiva, con base en los recursos naturales disponibles, empleando conocimientos y prácticas tradicionales, fundamentalmente trabajo manual e instrumentos rústicos;
 
 XXIX. Producción del campo: Las actividades productivas primarias, su transformación y comercialización en los ramos agrícola, ganadero, silvícola, pesquero y acuícola;
+
+> <small>(ADICIONADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXIX Bis. Pequeños productores rurales: Personas físicas de escasos recursos económicos que habitan en municipios o localidades rurales, y que se dedican a la producción agropecuaria, silvícola, pesquera y acuícola, como actividad económica principal para su subsistencia y, en su caso, la de sus familias;
 
 XXX. Programa Especial: Programa Especial Concurrente para el Desarrollo Rural Sustentable;
 
@@ -193,7 +211,9 @@ XXXVIII. Sistema-Producto: El conjunto de agentes concurrentes en los procesos p
 
 XXIX (SIC). Soberanía alimentaria: La potestad del Estado para garantizar, con producción local, la seguridad alimentaria de la población estatal y contribuir al abasto nacional de alimentos; y para promover, en el ámbito federal, las políticas tendientes a la soberanía alimentaria;
 
-XL. Sociedad o población rural: Población cuya dinámica de reproducción social está estrechamente vinculada a las formas de vida y de relaciones prevalecientes en el medio rural; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XL. Sociedad o población rural: Población que habita en municipios y localidades que reconoce el artículo 25-G de la Constitución Política del Estado de Sonora, y cuya dinámica de reproducción social está estrechamente vinculada a las formas de vida y de relaciones prevalecientes en el medio rural; y
 
 XLI. Unidad rural familiar: Forma de organización económica fincada en el trabajo familiar, mediante la explotación de los recursos naturales, alternada con otras actividades desarrolladas dentro y fuera de la unidad de producción, en donde se utilizan conocimientos trasmitidos de generación en generación, a través de prácticas de sostenimiento económico cotidianas.
 
@@ -217,7 +237,9 @@ IV. Diseñar políticas públicas diferenciadas de acuerdo a las condiciones soc
 
 V. Fortalecer la organización social y productiva de la sociedad rural;
 
-VI. Favorecer la agregación y apropiación local de valor; la industrialización, comercialización y el aprovechamiento local y regional de las capacidades instaladas; y las interacciones entre cadenas productivas en beneficio de las unidades rurales familiares;
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+VI. Favorecer la agregación y apropiación local de valor; la industrialización, comercialización y el aprovechamiento local y regional de las capacidades instaladas; y las interacciones entre cadenas productivas en beneficio de los pequeños productores rurales y las unidades rurales familiares;
 
 VII. Fomentar la diversificación de las oportunidades de empleo e ingreso, fortaleciendo los vínculos entre las zonas rurales y urbanas de la entidad;
 
@@ -227,9 +249,17 @@ IX. Administrar los recursos y el acceso a oportunidades con honestidad, eficien
 
 X. Fortalecer la certidumbre en las transacciones y decisiones que lleven a cabo los agentes de los procesos productivos rurales;
 
-XI. Incrementar los recursos financieros disponibles para el desarrollo rural sustentable del estado de Sonora, incluyendo el mejoramiento de la calidad y la suficiencia del gasto público; la creación y regulación de condiciones para la canalización de inversiones de los particulares y el acceso a recursos crediticios; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XII. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural.
+XI. Incrementar los recursos financieros disponibles para el desarrollo rural sustentable del estado de Sonora, incluyendo el mejoramiento de la calidad y la suficiencia del gasto público; la creación y regulación de condiciones para la canalización de inversiones de los particulares y el acceso a recursos crediticios;
+
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XII. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural; y
+
+> <small>(ADICIONADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XIII. Garantizar los apoyos y la asesoría necesarios para el desarrollo de los pequeños productores rurales y la comercialización de sus productos a nivel estatal y nacional, a efecto de que contribuyan al fortalecimiento de la soberanía alimentaria, así como la promoción de su producción a nivel internacional.
 
 ###### Artículo 7.
 
@@ -607,7 +637,9 @@ XXIII. Diseño de proyectos para el rescate de la flora y fauna nativa de las re
 
 XXIV. Promoción del empleo productivo y la pluriactividad en las zonas rurales;
 
-XXV. Diseño de proyectos productivos con aplicación de tecnologías adecuadas a la situación ecológica y económica de las unidades rurales familiares;
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXV. Diseño de proyectos productivos con aplicación de tecnologías adecuadas a la situación ecológica y económica de los pequeños productores rurales y las unidades rurales familiares;
 
 XXVI. Diseño de proyectos productivos con perspectiva de género;
 
@@ -633,9 +665,17 @@ XXXVI. Creación de ventanillas únicas regionales y municipales para facilitar 
 
 XXXVII. Diseño de sistemas para la integración de fondos concurrentes regionales para el desarrollo rural sustentable;
 
-XXXVIII. Diseño de proyectos estratégicos de desarrollo rural sustentable a nivel regional y municipal; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XXXIX. Las demás que determine el titular del Poder Ejecutivo del Estado.
+XXXVIII. Diseño de proyectos estratégicos de desarrollo rural sustentable a nivel regional y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XXXIX. Diseño de programas para promover la comercialización de los productos de los pequeños productores rurales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XL. Las demás que determine el titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 31.
 
@@ -687,7 +727,9 @@ II. Ser corresponsable.- Que ciudadanía e instancias gubernamentales pertinente
 
 III. Ser Incluyente.- Que reconozca la pluralidad de las visiones sobre el desarrollo rural y promueva la construcción de consensos en torno a un proyecto común;
 
-IV. Ser Solidaria.- Que considere las necesidades de los grupos más vulnerables y estimule la atención colectiva de sus problemas;
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+IV. Ser Solidaria.- Que considere la opinión y las necesidades de los grupos más vulnerables y estimule la atención colectiva de sus problemas;
 
 V. Ser Tolerante.- Que garantice el reconocimiento y respeto a las diferencias y a la diversidad de quienes conforman la sociedad rural; y
 
@@ -819,9 +861,11 @@ El titular del Poder Ejecutivo del Estado, en concurrencia con los gobiernos mun
 
 Queda prohibida la utilización de los apoyos para la promoción personal o el proselitismo político, así como toda forma de discriminación por motivo de raza, género, credo o preferencia política, así como la incurrencia en conflictos de intereses de funcionarios públicos o sus familiares directos de primera generación, ascendente o descendente hasta el cuarto grado.
 
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 61.
 
-El titular del Poder Ejecutivo del Estado, en acuerdo con el gobierno federal y con la participación de los Consejos, instrumentará la simplificación y democratización en el acceso a los apoyos públicos.
+El titular del Poder Ejecutivo del Estado, en acuerdo con el gobierno federal y con la participación de los Consejos, instrumentará la simplificación y democratización en el acceso a los apoyos públicos, dando prioridad a los pequeños productores rurales.
 
 ###### Artículo 62.
 
@@ -853,6 +897,8 @@ Para hacer más eficiente el acceso a los apoyos establecidos en esta ley, el Re
 
 #### SECCIÓN III. DEL DESARROLLO DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 68.
 
 El titular del Poder Ejecutivo del Estado y los gobiernos municipales, en acuerdo con la Federación y con la participación de los Consejos, promoverá la organización de los agentes del desarrollo rural, tanto del sector social como del sector privado, en todas las figuras jurídicas que la Ley aplicable contemple y para todos los propósitos de esta ley, tanto productivos como sociales.
@@ -881,7 +927,7 @@ La Secretaría, a través del Registro, integrará, mantendrá actualizado y dif
 
 ###### Artículo 73.
 
-El titular del Poder Ejecutivo del Estado, a fin de fomentar el desarrollo agropecuario y el desarrollo rural sustentable en el Estado, podrá llevar a cabo todas las acciones y crear los programas necesarios en materia de capacitación, asistencia y transferencia tecnológica para los productores y los diversos agentes del sector rural, atendiendo con prioridad a aquellos que se encuentren en zonas de mayor rezago económico y social.
+El titular del Poder Ejecutivo del Estado, a fin de fomentar el desarrollo agropecuario y el desarrollo rural sustentable en el Estado, podrá llevar a cabo todas las acciones y crear los programas necesarios en materia de capacitación, asistencia y transferencia tecnológica para los productores y los diversos agentes del sector rural, atendiendo con prioridad a los pequeños productores rurales, así como a aquellos que se encuentren en zonas de mayor rezago económico y social.
 
 Los programas de capacitación, asistencia y transferencia tecnológica se formularán y ejecutarán bajo criterios de integralidad, inclusión y participación, dando prioridad a los productores o productoras de las unidades rurales familiares.
 
@@ -907,11 +953,21 @@ VIII. Promover y divulgar el conocimiento para el mejor aprovechamiento de los p
 
 IX. Contribuir a elevar el nivel educativo y tecnológico en el medio rural;
 
-X. Promover el conocimiento y valoración de las especies de fauna y flora que en el medio rural sonorense, sean susceptibles de ser explotadas como parte de las actividades cinegéticas y de turismo rural; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XI. Las demás que el titular del Poder Ejecutivo del Estado con la participación del Consejo Estatal considere pertinentes.
+X. Promover el conocimiento y valoración de las especies de fauna y flora que en el medio rural sonorense, sean susceptibles de ser explotadas como parte de las actividades cinegéticas y de turismo rural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XI. Capacitar a los pequeños productores rurales en el aprovechamiento de los recursos a su alcance para incrementar su producción y su comercialización en el mercado estatal, nacional e internacional, así como la información necesaria para acceder a los programas públicos de apoyo al sector productivo rural; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XII. Las demás que el titular del Poder Ejecutivo del Estado con la participación del Consejo Estatal considere pertinentes.
 
 #### SECCIÓN V. DEL FINANCIAMIENTO Y EL MANEJO DE RIESGOS
+
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 75.
 
@@ -947,7 +1003,9 @@ La Secretaría establecerá y dará seguimiento a la operación de los mecanismo
 
 ###### Artículo 77.
 
-El titular del Poder Ejecutivo del Estado, con apoyo del Sistema Nacional de Financiamiento Rural, impulsará un mecanismo estatal de financiamiento y manejo de riesgo rural, para disponer de recursos financieros accesibles, con intereses bajos, oportunos y suficientes para el desarrollo rural, con base en los presupuestos federal, estatal y municipal; en las aportaciones de programas concurrentes y en otras fuentes lícitas. Este mecanismo atenderá con prioridad las acciones que proponga el Consejo Estatal. Los recursos que inviertan los gobiernos estatal y municipal a los fines de la operación del citado mecanismo, serán de carácter estratégico, catalítico y complementario de los programas y recursos existentes.
+El titular del Poder Ejecutivo del Estado, con apoyo del Sistema Nacional de Financiamiento Rural, impulsará un mecanismo estatal de financiamiento y manejo de riesgo rural, para disponer de recursos financieros accesibles, con intereses bajos, oportunos y suficientes para el desarrollo rural, con base en los presupuestos federal, estatal y municipal; en las aportaciones de programas concurrentes y en otras fuentes lícitas. Este mecanismo atenderá con prioridad el financiamiento de los pequeños productores rurales, así como aquellas acciones que proponga el Consejo Estatal. Los recursos que inviertan los gobiernos estatal y municipal a los fines de la operación del citado mecanismo, serán de carácter estratégico, catalítico y complementario de los programas y recursos existentes.
+
+Además de lo establecido en el párrafo anterior, tendrán preferencia los agentes económicos con bajos ingresos, de las zonas del estado con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático.
 
 #### SECCIÓN VII. DE LA COMERCIALIZACIÓN
 
@@ -979,11 +1037,15 @@ XI. Realizar un diagnóstico del estatus sanitario de la avicultura rural y esta
 
 XII. Promover la homologación de prácticas, obtención de certificados de producción, empaque y cadena de custodia, para el acceso a mercados con normas específicas;
 
-XIII. Diseñar y ofrecer programas de capacitación y transferencia de tecnología en particular a los productores de las unidades rurales familiar (sic) para que estén en condiciones de cumplir con las normas oficiales mexicanas en materia de sanidad e inocuidad vigentes; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XIII. Diseñar y ofrecer programas de capacitación y transferencia de tecnología priorizando a los pequeños productores rurales y a los productores de las unidades rurales familiar (sic) para que estén en condiciones de cumplir con las normas oficiales mexicanas en materia de sanidad e inocuidad vigentes; y
 
 XIV. Las demás que establezca la Comisión Intersecretarial.
 
 #### SECCIÓN VIII. DE LA TRANSFORMACIÓN AGROINDUSTRIAL
+
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 79.
 
@@ -999,7 +1061,9 @@ IV. Prospectiva estratégica de pronósticos de oferta, demanda y precios de fut
 
 V. Información sobre normas y requisitos de procesos y procedimientos en materias de sanidad e inocuidad;
 
-VI. Asesoría, gestión y apoyo para la comercialización estatal, nacional e internacional, dando prioridad a los productores de las unidades rurales familiares;
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
+
+VI. Asesoría, gestión y apoyo para la comercialización estatal, nacional e internacional, dando prioridad a los productores de las unidades rurales familiares y a los pequeños productores rurales;
 
 VII. Información y asesoría sobre la oferta institucional para capacitación, financiamiento, desarrollo de proyectos, comercialización y todos los relacionados con el desarrollo de mercados y productos rurales;
 
@@ -1027,9 +1091,11 @@ XVIII. Establecimiento de medidas, dispositivos y prácticas en los Sistemas-Pro
 
 XIX. Los demás acordadas por la Comisión Intersecretarial y el Consejo Estatal.
 
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 80.
 
-La Comisión Intersecretarial con la participación del Consejo Estatal y sus Sistemas-Producto, establecerán los acuerdos y procedimientos tendientes a la estandarización y catalogación de los principales productos del campo, cuando los mercados y los productos así lo permitan, a efecto de facilitar transacciones comerciales sin manejo de existencias físicas. Asimismo, apoyarán la diferenciación de productos, en particular de los artesanales, y asesorarán a las familias rurales para que identifiquen y participen en nichos de mercados solidarios como el comercio justo, el de productos orgánicos, entre otros.
+La Comisión Intersecretarial con la participación del Consejo Estatal y sus Sistemas-Producto, establecerán los acuerdos y procedimientos tendientes a la estandarización y catalogación de los principales productos del campo, cuando los mercados y los productos así lo permitan, a efecto de facilitar transacciones comerciales sin manejo de existencias físicas. Asimismo, apoyarán la diferenciación de productos, en particular de los artesanales, y asesorarán a los pequeños productores rurales y a las unidades rurales familiares para que identifiquen y participen en nichos de mercados solidarios como el comercio justo, el de productos orgánicos, entre otros.
 
 ###### Artículo 81.
 
@@ -1039,15 +1105,17 @@ La Comisión Intersecretarial promoverá el acceso a los programas federales ori
 
 La Secretaría y el Centro Estatal para el Desarrollo de Productos y Mercados Rurales, diseñarán programas especiales de promoción de bienes y servicios sonorenses en el ámbito regional, nacional e internacional, para promover su introducción y posicionamiento en los mercados.
 
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 83.
 
-El gobierno del estado adquirirá preferentemente los bienes y servicios del medio rural, producidos por productores de las unidades rurales familiares organizados del estado, con observancia en la normatividad estatal aplicable en materia de adquisiciones.
+El gobierno del estado adquirirá preferentemente los bienes y servicios del medio rural, producidos por pequeños productores rurales y productores de las unidades rurales familiares organizados del estado, con observancia en la normatividad estatal aplicable en materia de adquisiciones.
 
 #### SECCIÓN IX. DE LA INFORMACIÓN
 
 ###### Artículo 84.
 
-El Centro Estatal para el Desarrollo de Productos y Mercados Rurales incluirá en sus programas, acciones específicas de asesoría y diseño para el desarrollo de productos elaborados con materias primas del campo. El desarrollo de patentes, procesos y empresas podrán ser objeto de subsidios del gobierno del estado y de los municipios, con preferencia si se trata de iniciativas impulsadas por productores de unidades rurales familiares, grupos de mujeres, personas de la tercera edad y/o jóvenes del medio rural.
+El Centro Estatal para el Desarrollo de Productos y Mercados Rurales incluirá en sus programas, acciones específicas de asesoría y diseño para el desarrollo de productos elaborados con materias primas del campo. El desarrollo de patentes, procesos y empresas podrán ser objeto de subsidios del gobierno del estado y de los municipios, con preferencia si se trata de iniciativas impulsadas por pequeños productores rurales, productores de unidades rurales familiares, grupos de mujeres, personas de la tercera edad y/o jóvenes del medio rural.
 
 ###### Artículo 85.
 
@@ -1087,9 +1155,17 @@ XII. Catálogo de Tecnologías y Buenas Prácticas Productivas y de aspectos del
 
 XIII. Catálogo de Servicios de Arbitraje para el Campo;
 
-XIV. Padrón de Organizaciones de la Sociedad Civil en sus diferentes ramos; y
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2024)</small>
 
-XV. Los demás que apruebe el Consejo Estatal.
+XIV. Padrón de Organizaciones de la Sociedad Civil en sus diferentes ramos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XV. Padrón de pequeños productores rurales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE OCTUBRE DE 2024)</small>
+
+XVI. Los demás que apruebe el Consejo Estatal.
 
 ## TÍTULO SEXTO. DE LA SUSTENTABILIDAD
 
@@ -1180,3 +1256,17 @@ COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN O
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIEZ DIAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL NUEVE.-
 
 SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 15 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA, DE LA LEY DE GANADERÍA PARA EL ESTADO DE SONORA, Y DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
