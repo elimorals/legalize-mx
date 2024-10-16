@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2022-11-26"
+last_updated: "2024-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -783,7 +783,9 @@ La aplicación de recursos públicos para la vivienda en el Estado tiene por obj
 
 Apoyo preferencial del Estado.
 
-El Estado tiene la responsabilidad de apoyar preferentemente a la población en situación de pobreza, riesgo, o vulnerabilidad, así como a las mujeres sostén de la familia; por lo que diseñará, definirá y operará un conjunto de mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios, financiamientos y otras aportaciones para los programas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+El Estado tiene la responsabilidad de apoyar preferentemente a la población en situación de pobreza, riesgo, o vulnerabilidad, así como a las mujeres sostén de la familia o víctimas de la violencia; por lo que diseñará, definirá y operará un conjunto de mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios, financiamientos y otras aportaciones para los programas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población.
 
 ###### Artículo 48.
 
@@ -1646,6 +1648,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0317/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 47 DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0907/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 47 DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
