@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-al-emprendimiento-del-estado-de-chihuahua-163909
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-25"
-last_updated: "2023-01-25"
+last_updated: "2024-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO AL EMPRENDIMIENTO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Número 07 del Periódico Oficial del Estado de Chihuahua, el miércoles 25 de enero de 2023.
 
@@ -63,7 +63,9 @@ III. Establecer las bases de la Agenda Única.
 
 IV. Fijar las bases de colaboración y coordinación entre los sectores público, privado, académico, social y distintos actores para el establecimiento de reglamentos, acuerdos, políticas, programas y proyectos productivos que fomenten, incentiven, atraigan y promuevan el emprendimiento en el Estado.
 
-V. Fomentar el crecimiento de la actividad emprendedora, bajo la vocación económica regional que corresponda.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+V. Fomentar el crecimiento de la actividad emprendedora, bajo la vocación económica regional que corresponda, atendiendo a la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres.
 
 VI. Promover incentivos para el desarrollo y emprendimiento de negocios y generar atracción de talento nacional y extranjero en la materia.
 
@@ -285,7 +287,9 @@ Podrán celebrarse sesiones de manera virtual cuando las condiciones no permitan
 
 Los acuerdos del Consejo se tomarán por mayoría simple de quienes se encuentren presentes, en caso de empate, quien ocupe la Presidencia tendrá voto de calidad.
 
-Por cada sesión del Consejo, se levantará un acta que contendrá una relación sucinta de hechos y acuerdos aprobados y será firmada por quienes asistan.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+Por cada sesión del Consejo, se levantará un acta que contendrá una relación sucinta de hechos y acuerdos aprobados y será firmada, de manera autógrafa o a través de Firma Electrónica Avanzada, por quienes asistan.
 
 ###### Artículo 17.
 
@@ -445,7 +449,9 @@ El Poder Ejecutivo del Estado, a través del Plan Estatal de Desarrollo, estable
 
 La Secretaría, a través de la Dirección de Emprendimiento y Desarrollo Empresarial, se coordinará con el FIDEAPECH, en cumplimiento al objeto de la presente Ley, la Agenda Única y acuerdos del Consejo, a fin de:
 
-I. Proponer al Consejo, de acuerdo con la disponibilidad presupuestal, programas de apoyo al emprendimiento económico, social, tecnológico y cultural, así como elaborar las reglas de operación o lineamientos que correspondan.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+I. Proponer al Consejo, de acuerdo con la disponibilidad presupuestal, programas de apoyo al emprendimiento económico, social, tecnológico y cultural, así como elaborar las reglas de operación o lineamientos que correspondan, atendiendo a la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres.
 
 II. Proponer al Consejo, un Sistema Estatal de Financiamiento al Emprendimiento, que brinde acceso a oportunidades financieras en condiciones preferenciales y de manera eficiente a proyectos productivos en la materia.
 
@@ -594,3 +600,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los nueve días del mes de enero del año dos mil veintitrés.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JAUREGUI MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0906/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO AL EMPRENDIMIENTO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0909/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 16, SEGUNDO PÁRRAFO, DE LA LEY DE FOMENTO AL EMPRENDIMIENTO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
