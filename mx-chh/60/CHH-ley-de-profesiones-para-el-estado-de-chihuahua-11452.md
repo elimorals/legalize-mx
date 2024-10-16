@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-profesiones-para-el-estado-de-chihuahua-11452"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2024-02-24"
+last_updated: "2024-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1099,7 +1099,9 @@ XII.- Colaborar, con los colegios de profesionistas, en la elaboración de sus c
 
 XIII.- Determinar, de acuerdo con los colegios de profesionistas, la sede y la forma como éstos voluntariamente prestarán el servicio social;
 
-XIV.- Publicar, en el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+XIV.- Publicar, en el mes de enero de cada año, la lista de profesionistas titulados y registrados ante la Dirección Estatal de Profesiones.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2018)</small>
 
@@ -1119,13 +1121,17 @@ XIX.- La Dirección Estatal de Profesiones podrá solicitar a los colegios la ac
 
 XX.- Certificar y registrar los cursos, diplomados, conferencias, mesas redondas, talleres de investigación, exposiciones, congresos u otros afines a que se refieren los párrafos penúltimo y último del artículo 78 de la presente ley, observando la congruencia que exista entre aquellos y el perfil que de acuerdo a la profesión corresponda a los miembros del Colegio que notifique en los términos de tal disposición;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-XXI.- Fungir como coadyuvante del Ministerio Público, en aquellas indagatorias en que se involucre el ejercicio profesional, y
+XXI.- Fungir como coadyuvante del Ministerio Público, en aquellas indagatorias en que se involucre el ejercicio profesional;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2024)</small>
 
-XXII.- Las demás que le fijen las leyes y reglamentos.
+XXII.- Emitir la Convocatoria para el otorgamiento de idoneidad de certificación a los colegios y/o federaciones que cuenten con los requisitos establecidos en el reglamento correspondiente;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2024)</small>
+
+XXIII.- Las demás que le fijen las leyes y reglamentos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2018)</small>
 
@@ -1141,9 +1147,45 @@ La Dirección Estatal de Profesiones contará con una área de supervisión y vi
 
 Transcurridos los cinco días referidos en el párrafo anterior, la Dirección Estatal de Profesiones resolverá lo que corresponda y lo notificará al interesado, colegios o instancias que deban conocer la resolución, misma que será impugnable para ser resuelta dicha impugnación por la Secretaría General de Gobierno; según las disposiciones aplicables.
 
-### CAPITULO OCTAVO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-DE LAS COMISIONES TECNICAS ESTATALES.
+### CAPÍTULO OCTAVO.. DE LA CERTIFICACIÓN Y ACTUALIZACIÓN PROFESIONAL
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+ARTICULO 83 BIS.- La certificación y actualización profesional son los procesos voluntarios donde se otorga certeza a los usuarios respecto al servicio profesional que prestan las personas profesionistas en el Estado de Chihuahua, y serán llevados a cabo por los Comités de Certificación y Acreditación Profesional registrados ante la Dirección Estatal de Profesiones.
+
+Los Comités podrán ser auxiliados para la evaluación externa por instituciones académicas y de investigación, cuyo objeto social sea el promover y apoyar la certificación, así como organismos públicos y privados de certificación acreditados.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+ARTICULO 83 TER.- Los Comités estarán conformados por los organismos certificadores, ya sean Colegios y/o Federaciones de Profesionistas, y estarán constituidos por las siguientes comisiones:
+
+I. Comisión Técnica: Encargada de elaborar el estándar de competencia, el cual estará conformado por los contenidos, criterios y reglas específicas sobre los que versará el proceso de certificación y/o actualización.
+
+II. Comisión de Gestión: Encargada de llevar a cabo el esquema de certificación y/o actualización, así como las convocatorias y sus requisitos para participar en el proceso.
+
+III. Comisión de Evaluación: Se encargará de realizar el instrumento de evaluación interna, así como gestionar y dar seguimiento al proceso de evaluación externa para el otorgamiento de la certificación o su respectivo refrendo profesional.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+ARTICULO 83 QUATER.- Para que los Colegios y/o Federaciones de profesionistas sean reconocidos como organismos certificadores, deberán obtener la constancia de idoneidad expedida por parte de la Dirección Estatal de Profesiones. La cual se obtendrá con la acreditación de equidad e imparcialidad, congruencia y confiabilidad, control y aseguramiento de la calidad, responsabilidad y seriedad y transparencia; así como con la documentación correspondiente prevista en el reglamento.
+
+Los Colegios y/o Federaciones, trabajarán de manera coordinada y conjunta con la Secretaría, a través de la Dirección de Profesiones, en la ejecución de los procesos de certificación conforme a las exigencias que impongan a los profesionistas las autoridades federales, estatales o municipales, las leyes de la materia y los tratados internacionales.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+ARTICULO 83 QUINTUS.- Son atribuciones de los Comités de Certificación y Acreditación Profesional, las siguientes:
+
+I. Emitir las normas de calidad de las respectivas profesiones.
+
+II. Evaluar los conocimientos, habilidades y destrezas de los profesionistas para ejercer una especialidad o para ejercer como perito especialista.
+
+III. Establecer y divulgar anualmente los requisitos previstos para la evaluación de los candidatos a la certificación.
+
+IV. Conocer los planes y programas de estudio de posgrado y los de educación continua, desarrollados por las instituciones de educación superior.
+
+V. Las demás que les confiera la correspondiente reglamentación.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2018)</small>
 
@@ -1602,6 +1644,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DE LA “DECRETO Nº LXVII/RFLEY/0728/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0924/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
