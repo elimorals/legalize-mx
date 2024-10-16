@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2024-09-04"
+last_updated: "2024-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3675,19 +3675,19 @@ IX. Las personas mediadoras o conciliadoras; y
 
 X. Las y los Defensores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 221.
 
-A la Presidenta o Presidente Municipal corresponde:
+A la persona Titular de la Presidencia Municipal corresponde:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
 I. La designación y remoción de la o el Director de Juzgados de Justicia Cívica a propuesta del titular de la Sindicatura Municipal;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-II. La designación y remoción de las y los Jueces de Justicia Cívica o de Justicia Cívica Itinerante, las personas notificadoras, las y los Defensores, Médicos legistas, las personas Mediadoras, Psicólogos y Psicólogas, a propuesta del titular de la o el Síndico Municipal;
+II. La designación y remoción de las personas juzgadoras, defensoras, médicas y psicólogas, a propuesta del titular de la Sindicatura Municipal;
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3697,9 +3697,11 @@ III. Aprobar el número, distribución y competencia territorial de los Juzgados
 
 IV. Instruir a las autoridades municipales, en el ámbito de sus respectivas competencias, a las acciones tendientes a la difusión, promoción y cumplimento de las disposiciones del presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 222.
 
-Al Síndico Municipal corresponde:
+A la persona titular de la Sindicatura Municipal
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3737,9 +3739,7 @@ VIII. Proponer a la o el Presidente Municipal normas y criterios para mejorar lo
 
 IX. Proponer y establecer Convenios de Colaboración que contribuyan al mejoramiento de los servicios de los Juzgados de Justicia Cívica, tanto en materia de profesionalización, como de coordinación con otras Instancias Públicas o Privadas, de orden Federal o Local, en beneficio de toda persona que sea presentada ante el Juzgado; así como también para la designación de los representantes que asistan a los adolescentes, en los procedimientos que regula este Código. Dichas bases tendrán como finalidad, la canalización de adolescentes que se encuentren en riesgo;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
-
-X. Integrar el Registro de Infractores, mismo que contará con fotografía digital y huella dactilar digitalizada para la identificación de reincidencias;
+X. (DEROGADA, P.O. 16 DE OCTUBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3753,9 +3753,9 @@ XII. Establecer los mecanismos para la supervisión de la realización de activi
 
 XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado de Justicia Cívica o de las grabaciones de audio y video que correspondan; facultad que puede ser delegada a la o el Director de Juzgados de Justicia Cívica;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-XIV. Emitir la convocatoria para examen de oposición y establecer los criterios de selección para los cargos de jueza o juez de Justicia Cívica, las y los defensores, médicos legistas, las personas mediadoras, psicólogos y psicólogas en los Juzgados de Justicia Cívica;
+XIV. Emitir la convocatoria para examen de oposición y establecer los criterios de selección para los cargos de personas juzgadoras, defensoras, médicas y psicólogas en los Juzgados de Justicia Cívica;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3885,37 +3885,39 @@ VII. Área de evaluación psicosocial.
 
 Las secciones a que se refieren las fracciones II, III y V contarán con departamentos separados para hombres y mujeres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 225.
 
-Cada Juzgado de Justicia Cívica actuará en turnos sucesivos, las veinticuatro horas los trescientos sesenta y cinco días del año, para tal efecto se instituirán las y los Jueces de Justicia Cívica que se requieran, los cuales desempeñaran sus funciones por jornadas de veinticuatro horas, cada uno y descansando veinticuatro horas; gozando el personal adscrito a la Dirección de Juzgados de Justicia Cívica de los periodos vacacionales a que tenga derecho, en forma escalonada y calendarizada, para que no se interrumpa la continuidad del servicio.
+Cada Juzgado de Justicia Cívica actuará en turnos sucesivos, las veinticuatro horas los trescientos sesenta y cinco días del año, para tal efecto se instituirán las personas funcionarias que integren los Juzgados de Justicia Cívica que se requieran, quienes desempeñaran sus funciones por jornadas de veinticuatro horas, cada uno y descansando cuarenta y ocho horas; gozando el personal adscrito a la Dirección de Juzgados de Justicia Cívica de los periodos vacacionales a que tenga derecho, en forma escalonada y calendarizada, para que no se interrumpa la continuidad del servicio.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 El Juzgado de Justicia Cívica estará integrado por cada turno, cuando menos, del personal siguiente:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-I. Una Jueza o Juez;
+I. Una persona Juzgadora;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-II. Una Defensora o Defensor;
+II. Una persona Defensora.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-III. Una persona Mediadora;
+III. Una persona encargada del área de Aseguramiento;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-IV. Una o un Médico Legista;
+IV. Una persona médica;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-V. Una Psicóloga o Psicólogo;
+V. Una persona psicóloga;
 
-VI. (DEROGADA, P.O. 5 DE JULIO DE 2021)
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+VI. Una persona secretaria de Juzgado;
 
 VII. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
@@ -3995,11 +3997,11 @@ El cargo de Jueza o Juez de Justicia Cívica es compatible con el libre ejercici
 
 En las faltas eventuales de la Jueza o Juez de Justicia Cívica, éste será sustituido por el servidor público que cumpla con las condiciones señaladas en el artículo 226 del presente Código y que sea designado por el Director de Juzgados de Justicia Cívica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 229.
 
-Son facultades y atribuciones de las y los jueces de justicia cívica:
+Son facultades y atribuciones de las personas juzgadoras:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4075,9 +4077,7 @@ XVIII. Canalizar a los infractores para la ejecución del trabajo a favor de la 
 
 XIX. Ratificar los convenios que se realicen entre dos o más partes en la Dirección de Mediación, Conciliación y Arbitraje Condominal o ante los mediadores, referentes a la impartición de Justicia Cívica, asegurándose que se encuentren apegados a la legalidad;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
-
-XX. Emitir órdenes de presentación, pudiendo ordenar el uso de la fuerza pública, en los casos que sean necesarios a efectos de que sus sanciones sean ejecutadas;
+XX. (DEROGADA, P.O. 16 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4107,11 +4107,11 @@ II. Arresto, que no podrá exceder del plazo de treinta y seis horas, y
 
 III. Auxilio de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 231.
 
-La Jueza o Juez de Justicia Cívica deberá solicitar el auxilio de la o el Médico Legista que corresponda en turno, o en su caso, de una o un Médico Legista adscrito a la Secretaría de Seguridad Ciudadana, de la Secretaría de Seguridad Pública del Estado o cualquier institución pública de salud o medico particular, para la realización de las funciones acordes con su profesión.
+La persona juzgadora deberá solicitar el auxilio de la persona médica que corresponda en turno, o en su caso, de una persona médica adscrita a la Secretaría de Seguridad Ciudadana, de la Secretaría de Seguridad Pública del Estado o cualquier institución pública de salud o médico particular, para la realización de las funciones acordes con su profesión.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4119,9 +4119,21 @@ La Jueza o Juez de Justicia Cívica deberá solicitar el auxilio de la o el Méd
 
 La Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante, deberá de solicitar el auxilio del psicólogo que corresponda al turno o que lo acompañe, parar (sic) realizar una evaluación con criterios psicosociales, emitiendo un dictamen psicosocial, el cual tornará en cuenta la o el juez al momento de imponer la sanción correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 232.
 
-(DEROGADO, P.O. 5 DE JULIO DE 2021)
+A la persona secretaria del Juzgado de Justicia Cívica corresponderá:
+
+I. Preparar las actas de audiencia y verificar que éstas y demás documentos utilizados sean debidamente sellados y rubricados por los actuantes, integrando debidamente los expedientes de cada remisión;
+
+II. Hacer el cobro respectivo a las multas impuestas y pagadas por los infractores y verificar que se entregue el recibo correspondiente por concepto de las multas que se impongan y que cobre la Tesorería Municipal;
+
+III. Llevar el control en los Libros respectivos de la correspondencia, archivo y registros del Juzgado de Justicia Cívica y de los expedientes relativos a los asuntos que se ventilen en el Juzgado para el control de remitidos;
+
+IV. Entregar en la Dirección de los Juzgados de Justicia Cívica un informe que contenga los asuntos tratados durante el turno y resoluciones dictadas por el Juez; y
+
+V. Auxiliar al Juez en turno a subir la información al Registro Nacional de Detenciones, sobre las personas presentadas, sancionadas, así como las que se encuentren en tiempo de recuperación, así como la información correspondiente al sistema SINDINET
 
 ###### Artículo 232 Bis.
 
@@ -4215,63 +4227,39 @@ XI. Desempeñar aquellas funciones que le encomiende el Director de Juzgados de 
 
 (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
-
 ###### Artículo 233.
 
-A la persona Notificador de los Juzgados Cívicos corresponderá:
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
-
-I. Hacer entrega de los citatorios que ordene la Jueza o Juez de Justicia Cívica y la persona titular de la Dirección de Juzgados de Justicia Cívica;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-II. Llevar una bitácora de las actividades realizadas durante el desempeño de sus funciones;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-III. Llevar el registro de los citatorios que le son entregados, en el Libro correspondiente; y
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
-
-IV. Las demás que establezca la Dirección de Juzgados de Justicia Cívica.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2024)
 
 ###### Artículo 233 Bis.
 
-Para ser persona Notificadora de Juzgados de Justicia Cívica, se requiere:
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
-
-I. Tener la ciudadanía mexicana;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-II. Contar con estudios de Educación Media Superior;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-III. No ejercer ningún otro cargo público en la administración municipal;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
-
-IV. No haber sido sentenciada o sentenciado por la comisión de un delito doloso, no estar sujeto a proceso penal;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
-
-V. No haber sido suspendida o suspendido o inhabilitada o inhabilitado para el desempeño de un cargo público;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
-
-VI. Aprobar los exámenes que para tal efecto establezca la Dirección de Juzgados de Justicia Cívica; y
-
-VII. (DEROGADA, P.O. 5 DE JULIO DE 2021)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 234.
 
-(DEROGADO, P.O. 5 DE JULIO DE 2021)
+A la persona encargada del Área de Aseguramiento de los Juzgados de Justicia Cívica le corresponde:
+
+I. Ejecutar las órdenes de la persona juzgadora de su turno, en cuanto a las remisiones, custodia y vigilancia; así como la presentación de las personas infractoras y detenidas ante el Juzgado de Justicia Cívica;
+
+II. Ejecutar las órdenes de la persona titular de la Dirección de Juzgados de Justicia Cívica, de la persona titular del Departamento de Supervisión y de las personas supervisoras;
+
+III. Vigilar el área de aseguramiento de los Juzgados de Justicia Cívica, así como las demás instalaciones donde se encuentren las personas infractoras, auxiliado de un elemento de la Policía Preventiva Municipal si se cuenta con éste;
+
+IV. Mantener la salubridad e higiene del área de aseguramiento de los Juzgados Calificadores, entendiéndose por esto, realizar las actividades de limpieza en general con el material que se proporcione para ello;
+
+V. Revisar minuciosamente los alimentos y artículos que la autoridad competente autorice para ingresar a las personas detenidas, no permitiendo aquellos que representen un peligro para los mismos;
+
+VI. Presentar a las personas infractoras, que se encuentren compurgando arresto en el Área de Aseguramiento, o recuperándose en la sala de recuperación, cuantas veces lo disponga la persona juzgadora;
+
+VII. Reportar a la persona Titular del Juzgado de Justicia Cívica, sobre cualquier alteración perceptible del estado físico o emocional de las personas detenidas e infractoras, con el fin de salvaguardar su integridad física y psicológica a través de la constante revisión a las áreas de aseguramiento;
+
+VIII. Auxiliar a la persona Titular del Juzgado de Justicia Cívica y la persona secretaria en el desahogo de todas las audiencias que se lleven a cabo en el Juzgado de Justicia Cívica;
+
+IX. Reportar constantemente al Departamento de Supervisión, sobre el deterioro, daños y mal funcionamiento del área de aseguramiento, las celdas y sus accesorios, que a su vez puedan representar la facilidad para la evasión de las personas detenidas, así como un peligro a su integridad física y del resto del personal del Juzgado de justicia Cívica; y
+
+X. Retirar a las personas detenidas objetos de valor prohibidos o que puedan representar algún peligro para su integridad física, durante su estancia en el área de aseguramiento e inmediatamente ponerlos a resguardo de la autoridad que lo tiene a su disposición.
 
 ###### Artículo 235.
 
@@ -4325,19 +4313,9 @@ Para ser Defensora o Defensor en el Procedimiento Administrativo Especial para l
 
 Corresponde a las y los defensores designados asistir a las personas infractoras desde el momento de su presentación ante la Jueza o Juez de Justicia Cívica por los elementos de seguridad pública o desde su presentación en función del citatorio respectivo, independientemente del tipo de infracción de que se trate, hasta el término del procedimiento administrativo que se instaure en su contra, ya sea por ejecución de sentencia o por ser puesto inmediatamente en libertad.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
-
 ###### Artículo 235 Quinquies.
 
-Para ser persona mediadora se requiere:
-
-I. Tener la ciudadanía mexicana;
-
-II. No haber sido condenada o condenado por delito doloso en sentencia que haya causado ejecutoria o alguno relacionado con violencia familiar;
-
-III. Contar con título y cédula profesional de estudios de Licenciatura en Derecho; y
-
-IV. Contar con certificación o capacitación referente a los Mecanismos Alternativos de Solución de Controversias.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4381,69 +4359,69 @@ En todos los casos, la queja debe contener nombre y domicilio de las partes, rel
 
 El derecho a formular la queja prescribe posterior a quince días naturales, contados a partir de la comisión de la probable falta administrativa.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-En las faltas o infracciones que lo ameriten y su naturaleza se adecue, la Jueza o Juez de Justicia Cívica emitirá una orden de presentación a las y los probables infractores a efectos de desahogar la audiencia.
+En las faltas o infracciones que lo ameriten y su naturaleza se adecue, la persona juzgadora emitirá un citatorio a las personas probables infractoras a efectos de desahogar la audiencia.
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2024)</small>
 
-La orden de presentación que emita el (sic) Jueza o Juez de Justicia Cívica a las partes, será notificado por la persona notificadora y deberá contener, cuando menos los siguientes elementos:
+El citatorio que emita la persona juzgadora a las partes, será notificado por la persona secretaria del Juzgado y deberá contener, cuando menos los siguientes elementos:
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
 
 I. El Juzgado de Justicia Cívica que corresponda, el domicilio y el teléfono del mismo;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-II. Nombre y domicilio de la o el probable infractor;
+II. Nombre y domicilio de la persona probable infractora;
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
 
 III. La probable infracción por la que se le cita;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-IV. Nombre de la o el quejoso
+IV. Nombre de la persona quejosa
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
 
 V. Fecha y hora de la celebración de la audiencia; y
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-VI. Nombre de la Jueza o Juez de Justicia Cívica que emite el citatorio.
+VI. Nombre de la persona juzgadora que emite el citatorio.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
 Se requerirá a las partes a fin de que aporten los medios de convicción que estimen pertinentes desahogar en la audiencia.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-La orden de presentación se entregará a cualquier persona que se encuentre en el domicilio y de no haber ninguna persona, se fijará en la puerta; el notificador asentará en el expediente, la razón de los hechos.
+El citatorio se entregará a cualquier persona que se encuentre en el domicilio y de no haber ninguna persona, se fijará en la puerta; la persona secretaria asentará en el expediente, la razón de los hechos.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-Las notificaciones deberán hacerse personalmente. No obstante, cuando se haya señalado domicilio para oír y recibir notificaciones y la persona a quien deba hacerse la notificación no se encuentre en su domicilio, se le dejará citatorio para que esté presente a una hora fija del día hábil siguiente, apercibiéndola que, en caso de no encontrarse, se efectuará la diligencia con quien se encuentre presente.
+Las notificaciones deberán hacerse personalmente. No obstante, cuando se haya señalado domicilio para oír y recibir notificaciones y la persona a quien deba hacerse la notificación no se encuentre en su domicilio, se efectuará la diligencia con quien se encuentre presente.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-Cuando el domicilio señalado para oír y recibir notificaciones no corresponda al del interesado, esté fuera del Municipio o exista negativa a recibirlas, previa acta circunstanciada que levante el notificador, se procederá a notificar por medio de cédula fijada en los estrados del Juzgado de Justicia Cívica.
+Cuando el domicilio señalado para oír y recibir notificaciones no corresponda al de la persona interesada, esté fuera del Municipio o exista negativa a recibirlas, previa acta circunstanciada que levante la persona secretaria, se procederá a notificar por medio de cédula fijada en los estrados del Juzgado de Justicia Cívica
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
 Las notificaciones de citatorios, acuerdos y resoluciones surtirán sus efectos el día siguiente en que fueron hechas.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-Si la probable persona infractora no atendiera la orden de presentación en múltiples ocasiones, la Jueza o Juez de Justicia Cívica hará uso de la fuerza pública a efectos de realizar la detención de la persona probable infractora y estar en condiciones de desahogar el procedimiento administrativo pertinente.
+Si la probable persona infractora no atendiera la orden de presentación en tres ocasiones consecutivas, la persona juzgadora decretará la prescripción del expediente, dejando a salvo los derechos de la parte quejosa para proceder por la vía jurisdiccional que estime pertinente.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-Radicado el asunto ante la Jueza o Juez de Justicia Cívica, tiene la obligación de hacer del conocimiento y exhortar a los involucrados en los conflictos, respecto a la existencia de los Medios Alternativos de Solución de Conflictos, para que de manera libre decidan si se someten o no a tales medios o procedimientos.
+Radicado el asunto ante la persona juzgadora, tiene la obligación de hacer del conocimiento y exhortar a los involucrados en los conflictos, respecto a la existencia de los Medios Alternativos de Solución de Conflictos, para que de manera libre decidan si se someten o no a tales medios o procedimientos
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-En caso de que las partes no acepten el proceso mencionado se procederá a informar al presunto infractor el derecho que tiene a comunicarse con persona que le asista y defienda; de no tener defensor particular, se informará inmediatamente a la o el Defensor designado para que lo asista durante todo el procedimiento, dejándose debida constancia.
+En caso de que las partes no acepten el proceso mencionado se procederá a informar a la presunta persona infractora el derecho que tiene a comunicarse con persona que le asista y defienda; de no tener persona defensora particular, se informará inmediatamente a la persona defensora del turno para que lo asista durante todo el procedimiento, dejándose debida constancia
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -4457,9 +4435,9 @@ I. (DEROGADA, P.O. 5 DE JULIO DE 2021)
 
 II. Las actividades del trabajo a favor de la comunidad, se desarrollarán de acuerdo a la tabla de cálculo que se menciona en el inciso f) del artículo 236 Quáter. En ningún caso podrán realizarse dentro de la jornada laboral de la persona infractora;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-III. La Jueza o Juez de Justicia Cívica con base a las circunstancias del infractor, señalara los días, horas y lugares en que se llevarán a cabo las actividades del trabajo a favor de la comunidad y sólo hasta la ejecución de las mismas, se tomará como cumplida la sanción de que se trate;
+III. La persona juzgadora con base a las circunstancias de la persona infractora, señalará los días, horas y lugares en que se llevarán a cabo las actividades del trabajo a favor de la comunidad y sólo hasta la ejecución de las mismas, se tomará como cumplida la sanción de que se trate;
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4495,21 +4473,21 @@ a) El trabajo se realizará en el horario que no afecte, su asistencia a la escu
 
 b) Toda persona que sea sancionada con trabajo a favor de la comunidad, quedará bajo el cuidado y vigilancia del personal que sea designado para tal efecto; quién tendrá conocimiento del lugar, los días y el horario en que deba prestarse y el tipo de servicio que deberá desempeñar el obligado, de acuerdo con el programa social que se establezca;
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-c) La Jueza o Juez de Justicia Cívica o de Justicia Cívica Itinerante, notificará al día hábil siguiente a la dependencia, institución, órgano o cualquier otra, el nombre de la persona infractora que prestará este servicio o que se incorpora al programa pertinente, debiendo señalar el tiempo que deberá permanecer en el lugar, entregándole copia del oficio respectivo;
+c) La persona juzgadora, notificará al día hábil siguiente a la dependencia, institución, órgano o cualquier otra, el nombre de la persona infractora que prestará este servicio o que se incorpora al programa pertinente, debiendo señalar el tiempo que deberá permanecer en el lugar, entregándole copia del oficio respectivo;
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-d) La dependencia, institución, órgano o cualquier otra, informará por escrito a la Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante, sobre el cumplimiento u omisión de este servicio;
+d) La dependencia, institución, órgano o cualquier otra, informará por escrito a la persona juzgadora, sobre el cumplimiento u omisión de este servicio
 
 e) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
 f) (DEROGADO, P.O. 5 DE JULIO DE 2021)
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-En caso de que la persona infractora no cumpliera con el trabajo a favor de la comunidad, la Jueza o Juez de Justicia Cívica o Justicia Cívica Itinerante emitirá la orden de presentación a efectos de que se cumplan con las horas de arresto establecidas.
+En caso de que la persona infractora no cumpliera con el trabajo a favor de la comunidad, la persona juzgadora emitirá la orden de presentación a efectos de que se cumplan con las horas de arresto establecidas.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4603,23 +4581,23 @@ Las faltas administrativas sólo se sancionarán, cuando se hubiesen consumado o
 
 Si la o el probable infractor solicita tiempo para comunicarse con la persona que le asista y defienda, la jueza o Juez suspenderá el procedimiento y le facilitará los medios idóneos para su aplicación, concediéndole un plazo prudente que no excederá de dos horas para que se presente la o el defensor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 238.
 
-Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, la Jueza o Juez de Justicia Cívica podrá solicitar al Médico Legista del Juzgado de Justicia Cívica, que previo examen, dictamine el estado físico de la persona infractora y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
+Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, la persona juzgadora podrá solicitar a la persona médica del Juzgado de Justicia Cívica, que previo examen, dictamine el estado físico de la persona probable infractora y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 En tanto transcurra la recuperación, la persona será ubicada en la sección que corresponda tomando en consideración que:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-I. Si la o el Médico determina, que la o el probable infractor requiere de atención médica de urgencia, y que deba trasladarse a una institución de salud, la o el Juez realizará las diligencias necesarias para su canalización; y
+I. Si la persona médica determina, que la o el probable infractor requiere de atención médica de urgencia, y que deba trasladarse a una institución de salud, la o el Juez realizará las diligencias necesarias para su canalización; y
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-II. Si la o el Médico determina, que no puede permanecer la persona infractora en área cerrada, la o el Juez remitirá su salida del Juzgado.
+II. Si la persona médica determina, que no puede permanecer la persona infractora en área cerrada, la persona juzgadora permitirá su salida del Juzgado.
 
 ###### Artículo 239.
 
@@ -4657,23 +4635,37 @@ Si la persona probable infractora tiene alguna discapacidad que haga imposible l
 
 PROCEDIMIENTO ADMINISTRATIVO ESPECIALIZADO PARA ADOLESCENTES
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 242.
 
-Si se presenta una niña, niño o adolescente y se presume que no tiene cumplidos los doce años de edad, se solicitará al médico Legista de turno o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, la Jueza o Juez procurará que un familiar acuda al juzgado por la niña, niño o adolescente, si no acude en dos horas, la o el Juez lo remitirá a alguna de las Instituciones Públicas de Asistencia Social.
+Si se presenta una niña, niño o adolescente y se presume que no tiene cumplidos los doce años de edad, se solicitará a la persona médica de turno o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, la persona juzgadora procurará que la madre, el padre, tutor o la persona que tenga la responsabilidad de cuidado y crianza acuda al juzgado por la niña, niño o adolescente, si no acude en dos horas, la o el Juez lo remitirá a alguna de las Instituciones Públicas de Asistencia Social.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2021)</small>
 
 Si la niña, el niño o adolescente tuviera entre doce y catorce años de edad y no acudieran sus padres al juzgado, en un término de dos horas, se suspenderá la audiencia para que ellos se presenten, y de no hacerlo en un plazo de 24 horas se hará la denuncia ante el Ministerio Público por abandono. En todos los casos se remitirá a la niña, el niño o adolescente a alguna de las instituciones mencionadas en el párrafo que antecede, y cuando el presentado tenga catorce años y menos de dieciocho años, al igual que si tiene más de 12 (Doce) y menos de 14 (Catorce) años se observarán las siguientes reglas:
 
-I. La o el Juez realizará las diligencias necesarias, para lograr la comparecencia de la persona que ejerza la custodia o tutela legal o derecho del menor, para que lo asista y se encuentre presente en el procedimiento;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+I. La persona juzgadora realizará las diligencias necesarias, para lograr la comparecencia de la persona que ejerza la custodia o tutela legal o derecho del menor, para que lo asista y se encuentre presente en el procedimiento
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
 II. En tanto acude quien custodia o tutela de la niña, el niño o adolescente, éste deberá permanecer en la oficina del Juzgado, en área destinada para ello;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
+
 III. Si por cualquier causa no asistiera el responsable la niña, el niño o adolescente en un plazo de dos horas, se otorgará una prórroga de dos horas;
 
-IV. Si al término de la prórroga no asistiera el responsable, la o el Juez le nombrará una o un Defensor designado para que lo asista y defienda en su caso, que preferentemente será acompañado por un abogado que designe el DIF Municipal. Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-V. Si a consideración de la o el Juez la niña, el niño y adolescente, se encontrara en situación de riesgo o abandono por no contar con familiares, se enviará ante las Autoridades del DIF a efecto de que reciba la atención correspondiente; las y los Jueces de Justicia Cívica podrán solicitar por escrito o forma verbal a la Secretaría de Seguridad Ciudadana, que instruya entre su personal quien deberá realizar el traslado correspondiente, y
+IV. Si al término de la prórroga no asistiera el responsable, la persona juzgadora le nombrará una persona defensora designada para que lo asista y defienda en su caso, que preferentemente será acompañada por una persona con Licenciatura en Derecho o equivalente que designe el DIF Municipal Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+V. Si a consideración de la persona juzgadora la niña, el niño y adolescente, se encontrara en situación de riesgo o abandono por no contar con familiares, se enviará ante las Autoridades del DIF a efecto de que reciba la atención correspondiente; las personas juzgadoras podrán solicitar por escrito o forma verbal a la Secretaría de Seguridad Ciudadana, que instruya entre su personal quien deberá realizar el traslado correspondiente, y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2021)</small>
 
 VI. No se alojará a niñas, niños o adolescentes acusados de la comisión de una falta administrativa en lugares destinados a la detención, reclusión o arresto de mayores de edad.
 
@@ -4683,11 +4675,11 @@ VI. No se alojará a niñas, niños o adolescentes acusados de la comisión de u
 
 El procedimiento señalado en el artículo anterior, se efectuará en presencia de la o el adolescente bajo los principios del Sistema de Justicia Penal Acusatorio, a quien se le amonestará para que no reincida, facultándose a la Jueza o Juez de Justicia Cívica, en términos de la fracción I del artículo 229 de este Código proceda su incorporación a la comisión, dependencia, institución, órgano o cualquier otra que para tal efecto se establezca, a fin de lograr su reinserción familiar y desarrollo social.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 242 Ter.
 
-Para determinar la posible aplicación del procedimiento e imposición de sanciones, la edad de las niñas, los niños y adolescentes, se acreditará mediante certificación o constancia de inscripción de su nacimiento en el Registro del Estado Civil de las Personas o en su defecto se determinará, por medio del dictamen médico legista o de perito autorizado, privilegiando el interés superior de la niñez.
+Para determinar la posible aplicación del procedimiento e imposición de sanciones, la edad de las niñas, los niños y adolescentes, se acreditará mediante certificación o constancia de inscripción de su nacimiento en el Registro del Estado Civil de las Personas o en su defecto se determinará, por medio del dictamen médico o de perito autorizado por la Madre, Padre Tutora o Persona Cuidadora, privilegiando el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -41482,5 +41474,15 @@ P.O. 4 DE SEPTIEMBRE DE 2024.
 PRIMERO. Los presentes artículos entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se reforman los artículos 148, 149, 150, las fracciones I, II, III ,IV y V del artículo 158; fracciones I, II y III del artículo 159; fracciones I, II, IV, V y acápite del artículo 160; 161, fracción III, VII y acápite del 162; 163, 164, fracciones II, III, último párrafo y acápite del artículo 165; 166, fracción II, V, VI del artículo 167; 168 fracciones I, II del artículo 169, 170, 171, se adiciona un párrafo al artículo 172, fracciones IV, VII, VIII, IX, X y acápite de 173; 174, 175, fracciones II,III, IV, VI, VII, VIII, X, XII y XIV del apartado A; II, III, IV, VI, VII, VIII, IX, XII, XIII y XV del apartado B, II, IV y V del apartado C todos del artículo 176; fracciones IV, VI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XI, XII y acápite del artículo 178; 179, fracción I, VIII y el acápite del 180, 181, 182, 183, acápite del 184; las fracciones I, II, III y último párrafo del 185; 186, 187, acápite del 188; fracciones V, VI y VII y el acápite del 189, fracción I, II, III, V, VI, VII, XI y acápite del artículo 190, fracción I y acápite del 191; 192, fracción II y acápite del 193; fracción IV y acápite del 194, 195, 196, 197, fracciones I, II y III del artículo 198, 199, 200, 201, 202, fracción VII y acápite del 204; y ADICIONAR un Capítulo 7 Bis, los artículos 149 Bis, 150 Bis, 150 Ter, 150 Quater, 150 Quinquies, 150 Sexies, 150 Septies, 150 Octies, 150 Nonies, 150 Decies, 150 Undecies, 150 Duodecies, 150 Terdecies, 150 Quaterdecies, 150 Quindecies, 150 Sexdecies, 150 Septendecies, 150 Octodecies, 150 Novodecies y 150 Vicies, y un último párrafo del artículo 172, todos del Código Reglamentario para el Municipio de Puebla, publicado en el Periódico Oficial del Estado, el treinta y uno de diciembre de dos mil cuatro.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
+
+P.O. 16 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE SEPTIEMBRE DE 2024, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE SEGURIDAD, JUSTICIA Y PROTECCIÓN CIVIL, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 9 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, EN ARMONIZACIÓN DEL MODELO HOMOLOGADO DE JUSTICIA CÍVICA".]
+
+PRIMERO. La presente reforma entrará en vigor, a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Sindicatura Municipal y la Secretaría de Seguridad Ciudadana del Municipio de Puebla, en un lapso de 90 días naturales, contados a partir de la entrada en vigor del presente Dictamen actualizarán la normatividad administrativa que instrumenta las acciones, estrategias y lineamientos bajo los cuales se regirá la Justicia Cívica de conformidad con la presente reforma.
 
 TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
