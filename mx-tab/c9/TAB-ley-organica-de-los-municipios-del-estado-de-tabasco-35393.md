@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2024-05-11"
+last_updated: "2024-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -553,9 +553,7 @@ LVI. Proporcionar a los integrantes de pueblos o comunidades indígenas que no h
 
 LVII. Convocar a consulta popular, bajo la modalidad de plebiscito o referéndum en los términos establecidos en la Constitución Política Local y las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2023)</small>
-
-LVIII. Designar a los delegados, subdelegados, jefes de sector y jefes de sección de conformidad con lo establecido por el artículo 103 de la presente Ley;
+LVIII. (DEROGADA, P.O. 16 DE OCTUBRE DE 2024)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2023)</small>
 
@@ -1167,9 +1165,11 @@ IX. Los Jueces Calificadores.
 
 ### CAPÍTULO II. De la Presidencia Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 65.
 
-El presidente municipal es el órgano ejecutivo del Ayuntamiento y tiene las siguientes facultades y obligaciones:
+La presidenta o el presidente municipal, es el órgano ejecutivo del Ayuntamiento y tiene las siguientes facultades y obligaciones:
 
 I. Realizar las acciones necesarias para el desarrollo municipal, siguiendo los lineamientos contenidos en los planes y programas;
 
@@ -1219,13 +1219,11 @@ XVIII. Proponer al Cabildo la creación de las coordinaciones que sean necesaria
 
 XIX. Formular, proponer, conducir y evaluar programas de ordenamiento ecológico municipal y realizar las acciones necesarias dirigidas al cumplimiento de las disposiciones normativas en materia de protección al ambiente; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-XX. Proponer a las personas que ocuparán los cargos de delegado, subdelegado, jefe de sector y jefe de sección municipales; y
+XX. Las demás que le concedan las leyes, reglamentos y otras disposiciones legales.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2021)</small>
-
-XXI. Las demás que le concedan las leyes, reglamentos y otras disposiciones legales.
+XXI. (DEROGADA, P.O. 16 DE OCTUBRE DE 2024)
 
 ###### Artículo 66.
 
@@ -2261,13 +2259,15 @@ Las ciudades podrán ser divididas para su gobierno en Delegaciones y Subdelegac
 
 Los ayuntamientos harán la demarcación territorial interna a cada Municipio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO IV. Designación de Delegados, Subdelegados, Jefes de Sector y Jefes de Sección
+### CAPÍTULO IV. Procedimiento para la Elección de Delegadas, Delegados, Subdelegadas, Subdelegados, Jefas o Jefes de Sector o de Sección
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 102.
 
-Para ser delegado municipal, subdelegado, jefe de sector o de sección se requiere:
+Para ser delegada, delegado municipal, subdelegada, subdelegado, jefa o jefe de sector o de sección se requiere:
 
 I. Ser originario del lugar o poseer una residencia mínima, debidamente acreditada por la autoridad correspondiente, de dos años en la localidad;
 
@@ -2277,43 +2277,67 @@ III. Saber leer y escribir;
 
 IV. No ser ministro o encargado de algún recinto de culto religioso;
 
-V. Tener vigente sus derechos políticos y no haber sido condenado por delito doloso que amerite pena corporal;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+V. Tener vigente sus derechos políticos y no ser persona condenada por delito doloso que amerite pena corporal y no haber sido declarada como persona deudora alimentaria morosa;
 
-VI. No ser propietario o administrador de establecimientos, donde se expendan licores o bebidas embriagantes en la comunidad donde será designado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
+
+VI. No ser persona propietaria o administradora de establecimientos, donde se expendan licores o bebidas embriagantes en la comunidad donde pretenda ser electa;
 
 VII. (DEROGADA, P.O. 27 DE JULIO DE 2016)
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-VIII. Las demás que se señalen en otras disposiciones aplicables.
+VIII. Las demás que se señalen en la convocatoria correspondiente.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 103.
 
-Los delegados, subdelegados, jefes de sector y jefes de sección, serán designados por la mayoría de los integrantes del Ayuntamiento a propuesta del presidente municipal, durante los meses de enero a marzo del año siguiente al del inicio del período constitucional. En caso de empate, el presidente municipal tendrá voto de calidad. Dicha designación deberá atender al principio de paridad de género.
+La elección de las personas delegadas y subdelegadas se llevará a cabo mediante sufragio directo, libre y secreto, durante el mes de diciembre del año de inicio de cada período constitucional.
 
-El Ayuntamiento determinará las acciones necesarias para el cumplimiento de lo establecido en el párrafo anterior; y en su caso, el procedimiento para la remoción de delegados, subdelegados, jefes de sector y jefes de sección, en el reglamento que para tal efecto expida.
+El procedimiento para la elección de las personas delegadas y subdelegadas será el siguiente:
+
+I. El Ayuntamiento emitirá, por lo menos, treinta días naturales antes de la fecha señalada para la elección, la convocatoria que fijará el procedimiento para el registro de las personas aspirantes, así como el proceso de elección, misma que deberá ser publicada en cuando menos uno de los periódicos de mayor circulación en el Municipio de que se trate, en el portal de internet del Ayuntamiento de que se trate y difundida en los lugares públicos de la comunidad;
+
+II. Las personas aspirantes a delegadas, delegados, subdelegadas y subdelegados municipales deberán registrar sus fórmulas indicando propietario y suplente, dentro del término concedido para ello, en la Secretaría del Ayuntamiento, adjuntando a su registro los documentos para acreditar los requisitos señalados en el artículo 102 de esta Ley;
+
+III. La Secretaría del Ayuntamiento verificará el cumplimiento de los requisitos que se exigen para la participación y hará del conocimiento del Cabildo lo que corresponda, para que dentro de los cinco días naturales siguientes al del vencimiento del plazo para el registro de candidatos, se emita el acuerdo por el que se prevengan, admitan o desechen según el caso, el registro de las fórmulas;
+
+IV. Ninguna persona podrá registrarse como candidata a distintos cargos de elección municipal en el mismo proceso;
+
+V. En la celebración de las elecciones sólo podrán votar las personas que presenten su credencial para votar con fotografía vigente, en la que se acredite que su domicilio pertenece a la localidad donde se va a llevar a cabo la elección; en su caso, deberán respetarse los usos y costumbres de la comunidad;
+
+VI. El Ayuntamiento instalará mesas receptoras de votos, integradas por cuando menos dos personas representantes del Ayuntamiento designadas al efecto y una representante por cada una de las fórmulas, éstos deberán elaborar una lista de las personas que acudan a emitir su voto, las cuales podrán firmar si así lo desean;
+
+VII. Una vez concluido el proceso de cómputo de votos, previa acta circunstanciada que firmarán las personas responsables de la mesa receptora y las representantes de las fórmulas, se fijarán los resultados correspondientes, el Ayuntamiento ordenará su publicación dentro de los cinco días naturales siguientes y otorgará el nombramiento a las personas candidatas de la fórmula ganadora.
+
+Si alguna persona representante de las fórmulas se niega a firmar, no será causa de nulidad de la elección; y
+
+VIII. Los actos y resoluciones derivados del proceso de elección a que se refiere este artículo podrán ser impugnados en términos del artículo 63 bis, párrafo tercero, fracción III de la Constitución Política Local y los relativos de las leyes de la materia.
+
+Las personas que ocupen los cargos de jefes de sector y jefes de sección serán designadas directamente por el Ayuntamiento, a propuesta de la presidencia municipal o podrán ser electos conforme a las disposiciones anteriores.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 104.
 
-(DEROGADO, P.O. 21 DE JULIO DE 2021)
+Cuando por alguna causa la elección no pueda llevarse a cabo en la fecha prevista, se declare nula o las personas integrantes de la fórmula triunfadora, propietaria y suplente, no acepten el cargo, el Ayuntamiento, siguiendo en lo conducente el procedimiento señalado en el artículo anterior, dentro de los veinte días naturales siguientes a la fecha en que deberían entrar en funciones, convocará a otra elección y de darse nuevamente alguno de los supuestos mencionados, el Ayuntamiento designará directamente a la persona que ocupara el cargo de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 105.
 
-Las autoridades designadas entrarán en funciones dentro de los ocho días siguientes a la comunicación del resultado. El presidente municipal tomará la protesta de ley y dará posesión a los delegados, subdelegados, jefes de sector y jefes de sección.
+Las autoridades que resulten electas entrarán en funciones dentro de los ocho días naturales siguientes a la comunicación del resultado. La presidenta o el presidente municipal tomará la protesta de Ley y dará posesión a las personas electas.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-Los delegados, subdelegados, jefes de sector y jefes de sección durarán en su cargo tres años, pudiendo ser removidos por el Ayuntamiento en cualquier tiempo por causa justificada, que calificará este mismo órgano, en este caso, el Ayuntamiento designará al substituto, de entre los vecinos de la demarcación respectiva.
+Las personas electas durarán en su cargo tres años, pudiendo ser removidas por el Ayuntamiento en cualquier tiempo por causa justificada, que calificará este mismo órgano, llamándose en este caso a los suplentes y si estos no se presentaren, el Ayuntamiento designará a quien los sustituya, de entre los vecinos de la demarcación respectiva.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2024)</small>
 
-Los delegados y subdelegados, jefes de sector y jefes de sección, podrán ser designados nuevamente para el período inmediato por una sola ocasión.
+Quienes hayan sido electos para el cargo a que se refiere este Capítulo no podrán ser reelectos para el periodo inmediato posterior.
 
 Las autoridades salientes deberán entregar las instalaciones de la delegación o área de que se trate, mediante un acta pormenorizada de activos y bienes, así como una relación de documentos y correspondencia que obren en su poder.
 
@@ -4046,3 +4070,19 @@ La obligación de respetar el principio de paridad de género en las designacion
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 004 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 65, FRACCIÓN XX, 102, FRACCIONES V, VI Y VIII, 103, 105, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, Y LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO QUINTO; SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 29 Y LA FRACCIÓN XXI DEL ARTÍCULO 65; Y SE ADICIONA EL ARTÍCULO 104, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La primera elección a la que se refiere esta reforma, se llevará a cabo en el mes de diciembre siguiente a la publicación del presente Decreto en el Periódico Oficial del Estado de Tabasco.
