@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2024-10-16"
+last_updated: "2024-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10721,41 +10721,11 @@ Los establecimientos a que se refieren las fracciones I, II, VII, XV, XVI y XXIV
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 604.
 
-Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, y en el presente Código Reglamentario.
-
-Para los diversos trámites considerados en el presente Capítulo, en torno a licencias de funcionamiento, deberán tomarse en cuenta lo siguiente:
-
-I. En aquellos casos en que se establece la Identificación oficial vigente como un requisito, la misma será conforme a las autorizadas por la Miscelánea Fiscal;
-
-II Si el trámite lo lleva a cabo un tercero o se realiza en representación de una persona moral, se deberá acreditar la personalidad en términos del artículo 38, del Código Fiscal y Presupuestario para el Municipio de Puebla;
-
-III. Para el caso de realizar el trámite en línea, la persona solicitante deberá estar inscrita en el Padrón de Usuarios Acreditados del Municipio de Puebla, y
-
-IV. La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos no podrá solicitar requisito adicional alguno a los expresamente mencionados en el presente Capítulo. De lo contrario incurrirá en responsabilidad administrativa.
-
-Para obtener la licencia de funcionamiento, los establecimientos a que se refiere este Capítulo, deberán reunir los siguientes requisitos, de acuerdo a la modalidad que la persona interesada elija:
-
-I. Trámite presencial:
-
-a) Licencia de uso de suelo especifico vigente;
-
-b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal;
-
-c) Identificación oficial vigente del solicitante, y
-
-d) Copia simple del comprobante del pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente.
-
-II. Trámite en línea:
-
-a) Licencia de uso de suelo especifico vigente;
-
-b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal, y
-
-c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
+Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal, en los términos y condiciones señalados en la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, el Código Fiscal y Presupuestario para el Municipio de Puebla, la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente y el presente Código Reglamentario.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
@@ -11033,13 +11003,17 @@ XXIII. SALA CON JUEGOS DE AZAR Y CASINOS PREVIA APROBACIÓN DE LA AUTORIDAD FEDE
 
 XXIV. TIENDA DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil que cuenta con diferentes departamentos o áreas y ofrece una mayor variedad de artículos de diversa naturaleza a los consumidores, además expende bebidas alcohólicas en botella cerrada, siempre y cuando el establecimiento cuente con una superficie mayor a 2,000 m2;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XXV. CERVECERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de cerveza en botella abierta. Queda estrictamente prohibido tener música en vivo y pista para bailar, y
+XXV. CERVECERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de cerveza en botella abierta. Queda estrictamente prohibido tener música en vivo y pista para bailar;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XXVI. BARBERÍA. Establecimiento mercantil que su actividad preponderante (sic) el corte de cabello y barba, pudiendo realizar degustación de bebidas alcohólicas.
+XXVI. BARBERÍA. Establecimiento mercantil que su actividad preponderante (sic) el corte de cabello y barba, pudiendo realizar degustación de bebidas alcohólicas; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+XXVII. ESTADIO DEPORTIVO CON VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS. Inmueble donde se realizan, practican y exhiben eventos deportivos profesionales o amateur, así como otros espectáculos públicos, en donde se consumen y venden bebidas alcohólicas treinta minutos antes del espectáculo público y hasta treinta minutos después de que este termine.
 
 DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
@@ -11165,9 +11139,9 @@ XVIII. Capacitar al personal a su cargo en materia de protección civil y seguri
 
 XIX. Permitir el acceso a las personas con discapacidad a los establecimientos para los cuales se otorgó la licencia;
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XX. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
+XX. Las demás que se señalan en este Capítulo, en la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla y otras disposiciones legales aplicables.
 
 ###### Artículo 615.
 
@@ -11219,9 +11193,9 @@ XV. La venta o enajenación de estupefacientes en el interior del establecimient
 
 XVI. Impedir la entrada o acceso al establecimiento a las personas con discapacidad; y
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XVII. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
+XVII. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo, de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla y de la legislación vigente aplicable.
 
 DE LOS HORARIOS AUTORIZADOS
 
@@ -11243,9 +11217,9 @@ II. MISCELÁNEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERR
 
 III. DEPÓSITO DE CERVEZA. De las 06:00 a las 24:00 horas;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA 24 horas;
+IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 6:00 a las 24:00 horas; y únicamente para distribución, sin comercialización, las 24 horas;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -11255,17 +11229,17 @@ V. BAÑOS PÚBLICOS CON VENTA DE CERVEZA. De las 06:00 a las 20:00 horas;
 
 VI. PULQUERÍA. De las 07:00 a las 19:00 horas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-VII. VINATERÍA.24:00 horas para venta;
+VII. VINATERÍA.- De las 06:00 a las 24:00 horas;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
 VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-IX. TIENDA DE AUTOSERVICIO CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. 24 horas;
+IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA.- De las 06:00 a las 24 horas;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -11287,17 +11261,17 @@ XVII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
 XVIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XIX. HOTEL, MOTEL, AUTO HOTEL Y HOSTAL CON SERVICIO DE RESTAURANTE BAR. 24 horas;
+XIX. HOTEL, MOTEL, AUTO HOTEL Y HOSTAL CON SERVICIO DE RESTAURANTE BAR. De las 06:00 a las 02:00 horas;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XX. DESTILADORA, ENVASADORA Y BODEGA DE BEBIDAS ALCOHOLICAS. 24 horas;
+XX. DESTILADORA, ENVASADORA Y BODEGA DE BEBIDAS ALCOHÓLICAS. De las 06:00 a las 24 horas;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XXI. TIENDA DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. 24 horas, y
+XXI. TIENDA DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24 horas; y
 
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
@@ -11327,11 +11301,21 @@ VIII. CABARET. De las 20:00 a las 02:00;
 
 IX. CERVECERÍA. De las 12:00 a las 02:00;
 
-X. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS. De las 07:00 a las 02:00, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
 
-XI. SALON DE JUEGOS DE AZAR Y CASINOS. De las 07:00 a las 02:00.
+X. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS. De las 07:00 a las 02:00;
 
-Los comercios señalados en el presente artículo podrán permitir que sus clientes permanezcan hasta las 3:00 horas, sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+XI. SALÓN DE JUEGOS DE AZAR Y CASINOS. De las 07:00 a las 02:00; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+XII. ESTADIO DEPORTIVO CON VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS. De las 10:00 a las 02:00.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+Los comercios autorizados señalados en el presente artículo que cuentan con un espacio propicio para la venta de bebidas alcohólicas en envase abierto y al copeo, para su consumo inmediato en el interior del propio establecimiento, podrán permitir que sus clientes permanezcan hasta las 2:30 horas sin venta de bebidas alcohólicas, hora en la que deberán cerrar sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
 
 DE LAS SANCIONES
 
@@ -11379,7 +11363,9 @@ c) Los establecimientos que permitan a los menores de edad, el consumo de bebida
 
 d) Los establecimientos que permitan el consumo de estupefacientes, incluyendo a los menores de edad;
 
-e) Los establecimientos que dejen de prestar el servicio correspondiente por más de dos años consecutivos, o que no hayan refrendado la Licencia de Funcionamiento por igual término;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+e) Los establecimientos que dejen de prestar el servicio correspondiente por más de dos años consecutivos;
 
 f) Los establecimientos que permitan e induzcan a conductas tendientes a la mendicidad o a la prostitución, incluyendo a los menores de edad;
 
@@ -41486,3 +41472,11 @@ PRIMERO. La presente reforma entrará en vigor, a partir de su publicación en e
 SEGUNDO. La Sindicatura Municipal y la Secretaría de Seguridad Ciudadana del Municipio de Puebla, en un lapso de 90 días naturales, contados a partir de la entrada en vigor del presente Dictamen actualizarán la normatividad administrativa que instrumenta las acciones, estrategias y lineamientos bajo los cuales se regirá la Justicia Cívica de conformidad con la presente reforma.
 
 TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
+
+P.O. 17 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE AGOSTO DE 2024, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE SEGURIDAD, JUSTICIA Y PROTECCIÓN CIVIL, POR EL QUE REFORMA EL ARTÍCULO 604, LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 611, LA FRACCIÓN XX DEL ARTÍCULO 614, LA FRACCIÓN XVII DEL 615, LAS FRACCIONES IV, VII, IX, XIX, XX Y XXI DEL ARTÍCULO 616, LAS FRACCIONES X, XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 616 BIS, EL INCISO E) DE LA FRACCIÓN IV DEL ARTÍCULO 617, Y ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 611 Y LA FRACCIÓN XII AL ARTÍCULO 616 BIS, TODOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA; ASIMISMO SE APRUEBA UN ESTÍMULO FISCAL EN RELACIÓN CON LA REGULARIZACIÓN DE ADEUDOS POR REFRENDOS DE LICENCIAS DE FUNCIONAMIENTO CON VENTA DE BEBIDAS ALCOHÓLICAS”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
