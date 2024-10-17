@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-instituto-156
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-28"
-last_updated: "2022-11-15"
+last_updated: "2024-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2022-02-23"
 ---
 # REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2024/IECM-JA104-24.pdf]</small>
+
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE LA CIUDAD DE MÉXICO: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE LA CIUDAD DE MÉXICO: 17 DE OCTUBRE DE 2024.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 18 de febrero de 2022.
 
@@ -244,11 +246,9 @@ XXVIII. Personal de estructura: Personal del Servicio Profesional Electoral Naci
 
 XXIX. Personal del Servicio: Personal del Servicio Profesional Electoral Nacional;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
-
-XXX. Personal de la Rama Administrativa: Titular de la Secretaria Ejecutiva, Secretaria Administrativa, Titulares de Órganos Ejecutivos, Técnicos y con autonomía de gestión, así como las personas servidoras públicas del Instituto Electoral que no formen parte del Servicio Profesional Electoral Nacional ni se consideren como eventuales;
+XXX. Personal de la Rama Administrativa: Titular de la Secretaría Ejecutiva, Secretaría Administrativa, Titulares de Órganos Ejecutivos, Técnicos y con autonomía de gestión, así como las personas servidoras públicas del Instituto Electoral que no formen parte del Servicio Profesional Electoral Nacional ni se consideren como eventuales;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
@@ -356,13 +356,11 @@ El personal de estructura del Instituto Electoral estará sujeto al régimen obl
 
 El Personal Eventual no gozará de la protección al salario a que se refiere el artículo anterior; sin embargo, cuando se contrate para prestar servicios en actividades de campo durante los procesos electorales y los procedimientos de participación ciudadana, el Instituto Electoral contratará en su favor un seguro de accidentes personales, considerando que, al no ser personal de estructura, carecerán de seguridad social.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
-
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-El personal de estructura del Instituto Electoral contará, para el desempeño de sus funciones, con nombramiento expedido por la persona titular de la Secretaria Administrativa.
+El personal de estructura del Instituto Electoral contará, para el desempeño de sus funciones, con nombramiento expedido por la persona titular de la Secretaría Administrativa.
 
 ###### Artículo 9.
 
@@ -696,7 +694,9 @@ VI. El 16 de septiembre;
 
 VII. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
-VIII. El 1° y 5 de diciembre cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal y de la Jefatura de Gobierno de la Ciudad de México, respectivamente, y
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+VIII. El 1° y 5 de octubre cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal y de la Jefatura de Gobierno de la Ciudad de México, respectivamente, y
 
 IX. El 25 de diciembre.
 
@@ -822,11 +822,9 @@ e) No registrar su salida o realizar dicho registro antes de la hora correspondi
 
 Quedan exceptuados de la obligación de registrar entrada y salida de la jornada laboral y horario de comida, los servidores públicos de mandos superiores que ocupen los siguientes cargos: Consejero/a Presidente/a, Consejero/a Electoral, Secretario/a Ejecutivo/a, Secretario/a Administrativo/a, Contralor/a, Titular de la Unidad Técnica Especializada de Fiscalización, Director/a Ejecutivo/a y Titular de Unidad.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
-
-Adicionalmente, los mandos homólogos por su nivel jerárquico, que ocupen los siguientes cargos: Coordinador/a de Asesores y Secretario/a Particular; así mismo, por la naturaleza de sus funciones quedan exceptuados los servidores/as públicos/as con puesto de Subcontralor/a, Director/a de Área, Titular de Órgano Desconcentrado, Asesor/a, Asistente Ejecutivo/a y el personal adscrito a las oficinas de las y los Consejeros Electorales, así como las y los choferes y Secretarias Ejecutivas de los mandos referidos previamente.
+Adicionalmente, los mandos homólogos por su nivel jerárquico, que ocupen los siguientes cargos: Coordinador/a de Asesores y Secretario/a Particular; así mismo, por la naturaleza de sus funciones quedan exceptuados los servidores/as públicos/as con puesto de Subcontralor/a, Coordinador/a del Área del SPEN, Director/a de Área, Titular de Órgano Desconcentrado, Asesor/a, Asistente Ejecutivo/a y el personal adscrito a las oficinas de las y los Consejeros Electorales, así como las y los choferes y Secretarias Ejecutivas de los mandos referidos previamente.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
@@ -850,7 +848,9 @@ V. Llevar a cabo en su unidad administrativa, incluso fuera del horario laboral:
 
 VI. Portar en la unidad administrativa de adscripción o durante el desempeño de las actividades laborales, instrumentos que puedan ser utilizados para agredir y que no tengan un fin lícito o uso en las actividades laborales;
 
-VII. Alterar o falsificar actas, destruir la documentación o información oficial del Instituto Electoral; teniendo el carácter de oficial los documentos que obren en cualquiera de los archivos del Instituto Electoral, sea de gestión, de concentración o histórico;
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+VII. Alterar o falsificar actas, destruir la documentación o información oficial del Instituto Electoral; teniendo el carácter de oficial los documentos que obren en cualquiera de los archivos del Instituto Electoral, sea de gestión, de concentración o histórico, así como datos asentados en registros electrónicos y bases de datos de sistemas informáticos.
 
 VIII. Ejecutar actos de discriminación, violencia, acoso o violencia laboral o sexual, tales como los que, de manera no limitativa, se enuncian a continuación: amagos, gritos, injurias, o abuso verbal, golpear objetos o romper documentos como manifestación de enojo contra cualquier persona, en las instalaciones del Instituto Electoral;
 
@@ -1204,7 +1204,9 @@ La ocupación de vacantes de la Rama Administrativa se realiza mediante mecanism
 
 Los mecanismos de selección e ingreso permiten la ocupación definitiva de vacantes y son: designación directa prevista en el artículo 54 del presente Reglamento, examen de ingreso, concurso interno y concurso público.
 
-Los mecanismos extraordinarios permiten la ocupación temporal de vacantes y son: comisión, encargaduría de despacho y ocupación temporal.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+Los mecanismos extraordinarios permiten la ocupación temporal de vacantes y son: Comisión, Encargaduría de Despacho y Ocupación Temporal.
 
 ### CAPÍTULO IV. DE LOS MECANISMOS DE SELECCIÓN E INGRESO
 
@@ -1464,19 +1466,25 @@ VI. Las demás que determine la Junta.
 
 Los mecanismos extraordinarios para la ocupación de vacantes tienen por objeto desarrollar en forma temporal, las actividades y tareas inherentes a una plaza vacante, los cuales se tramitarán de conformidad con el procedimiento que apruebe la Junta.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 87.
 
-La encargaduría de despacho es el mecanismo a través del cual la Junta, en el marco de sus atribuciones, designa al Personal de la Rama Administrativa como encargado temporal para desempeñar funciones en un cargo y puesto de mayor jerarquía, de acuerdo con las necesidades del Instituto Electoral, siempre que cumpla con el perfil correspondiente, por lo que recibirá la compensación económica respectiva al cargo y puesto que desempeñe.
+La Encargaduría de despacho es el mecanismo a través del cual la Junta, en el marco de sus atribuciones, designa al Personal de la Rama Administrativa como encargado temporal para desempeñar funciones en un cargo y puesto de mayor jerarquía, de acuerdo con las necesidades del Instituto Electoral, siempre que cumpla con el perfil correspondiente, por lo que recibirá la compensación económica respectiva al cargo y puesto que desempeñe.
 
 ###### Artículo 88.
 
 Corresponde a la Junta la designación de una persona encargada de despacho.
 
-La designación que se realice tendrá una vigencia máxima de seis meses, que podrá ser prorrogada por un periodo igual. En ningún caso procederá automáticamente la prórroga de la encargaduría.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+La designación que se realice tendrá una vigencia máxima de seis meses, que podrá ser prorrogada por un periodo igual. En ningún caso procederá automáticamente la prórroga de la Encargaduría.
 
 En caso de que la Junta considere procedente la designación de persona encargada de despacho, la Secretaria o Secretario Administrativo realizará las notificaciones y los ajustes salariales correspondientes.
 
-La encargaduría de despacho se dará por terminada anticipadamente a la vigencia autorizada por la Junta, en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE OCTUBRE DE 2024)</small>
+
+La Encargaduría de despacho se dará por terminada anticipadamente a la vigencia autorizada por la Junta, en los siguientes casos:
 
 a) Por acuerdo de la Junta;
 
@@ -1484,19 +1492,15 @@ b) Por la ocupación definitiva del cargo a través de los mecanismos ordinarios
 
 c) A petición de la persona Titular de la unidad administrativa correspondiente.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+En el caso del inciso c), la persona Titular de la unidad administrativa correspondiente, por conducto (sic) la Secretaría Administrativa, solicitará a la Junta la conclusión anticipada de la Encargaduría de despacho.
 
-En el caso del inciso c), la persona Titular de la unidad administrativa correspondiente, por conducto (sic) la Secretaría Administrativa, solicitará a la Junta la conclusión anticipada de la encargaduría de despacho.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
-
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 89.
 
-Con el fin de evitar que los movimientos derivados de la encargaduría alteren la estructura y funcionalidad de las áreas, en el proceso de designación, se deberá observar el orden de jerarquía de los cargos.
+Con el fin de evitar que los movimientos derivados de la Encargaduría alteren la estructura y funcionalidad de las áreas, en el proceso de designación, se deberá observar el orden de jerarquía de los cargos.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
@@ -1700,13 +1704,11 @@ b) Las actividades que permitan atender necesidades emergentes, vinculadas con l
 
 c) Las actividades que ofrezcan instituciones académicas o especialistas externos, vinculadas a las competencias del perfil del cargo o puesto, validadas por la Secretaría Administrativa.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
-
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 108.
 
-La Secretaría Administrativa es el (sic) la responsable de diseñar, elaborar y actualizar la capacitación para el Personal de la Rama Administrativa, de acuerdo con lo establecido en el Modelo pedagógico, así como de llevar a cabo su implementación.
+La Secretaría Administrativa es la responsable de diseñar, elaborar y actualizar la capacitación para el Personal de la Rama Administrativa, de acuerdo con lo establecido en el Modelo pedagógico, así como de llevar a cabo su implementación.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
@@ -1948,7 +1950,9 @@ Los incentivos podrán consistir en reconocimientos, beneficios o retribuciones,
 
 El Personal de la Rama Administrativa podrá solicitar aclaración respecto a los motivos y fundamentos por los cuales se le otorgó o negó un incentivo, para lo cual deberá presentar su solicitud ante la Secretaría Administrativa, en el plazo de cinco días hábiles a partir de que se haga pública la lista de acreedores al mismo; una vez recibida la solicitud por escrito, la Secretaría Administrativa la analizará junto con los elementos documentales y argumentativos correspondientes y dará contestación en un plazo máximo de diez días hábiles.
 
-### CAPÍTULO XV (SIC). DEL PROCEDIMIENTO LABORAL SANCIONADOR, DE LA CONCILIACIÓN DE CONFLICTOS LABORALES Y DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO XIV. DEL PROCEDIMIENTO LABORAL SANCIONADOR, DE LA CONCILIACIÓN DE CONFLICTOS LABORALES Y DEL RECURSO DE INCONFORMIDAD
 
 #### SECCIÓN PRIMERA. De las Disposiciones Generales
 
@@ -2018,7 +2022,9 @@ Las Autoridades en el Procedimiento Laboral Sancionador, en la conciliación lab
 
 La Unidad Jurídica será la autoridad instructora en el Procedimiento Laboral Sancionador, para lo cual realizará todas las diligencias y desahogará todas las etapas procedimentales, con perspectiva de género y derechos humanos, para poner el expediente en estado de resolución. Asimismo, será el área competente para la instrucción del procedimiento de conciliación en su calidad de Autoridad Conciliadora.
 
-Tratándose de procedimientos en los que la persona Titular de la Unidad Jurídica sea parte, la persona Secretaria Ejecutiva designará a la persona funcionaria que actuará como autoridad instructora.
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+Tratándose de procedimientos en los que la persona Titular de la Unidad Jurídica sea parte, la persona titular de la Secretaría Ejecutiva designará a la persona funcionaria que actuará como autoridad instructora.
 
 La Secretaría Ejecutiva contará con un registro con los nombres y cargos de las autoridades que instruirán los procedimientos laborales sancionadores.
 
@@ -2072,9 +2078,11 @@ Si el impedimento se formula respecto de la persona titular de la Secretaría Ej
 
 En caso de que se presente un impedimento o se manifieste una recusación hacia o respecto de alguna persona que integre un órgano colegiado del Instituto Electoral, éste lo resolverá en la sesión en la que se trate el asunto respecto del cual se formula el pedimento, sin que en dicho acto pueda participar la persona contra quien se presente la excusa o recusación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 159.
 
-Las partes en los procedimientos anteriores, desde el escrito de denuncia y hasta antes del cierre de la instrucción o bien, desde el escrito de inconformidad y hasta antes de que se remita el mismo para su resolución, podrán solicitar la recusación de una o varias personas integrantes de la autoridad instructora o resolutora, en caso de existir alguna de las causales señaladas para ello.
+Las partes en los procedimientos anteriores, desde el escrito de denuncia y hasta antes del cierre de instrucción o bien, desde el escrito de inconformidad y hasta antes de que se remita el mismo para su resolución, podrán solicitar la recusación de una o varias personas integrantes de la autoridad instructora o resolutora en caso de existir alguna de las causales señaladas para ello.
 
 Toda recusación se interpondrá ante la misma autoridad que conozca de la denuncia o, en su caso, del recurso de inconformidad, expresándose con toda claridad y precisión la causa en que se funde, quien remitirá de inmediato testimonio de las actuaciones respectivas a la autoridad competente para resolver sobre la recusación.
 
@@ -2578,9 +2586,11 @@ VI. Nombre completo (nombre(s) y apellidos), cargo, lugar de adscripción y firm
 
 En los casos de las fracciones III y V, si la persona con quien se entiende la diligencia o se practique la notificación se niega a dar sus datos de identificación, a dar su nombre e identificarse, o inclusive a firmar de recibido, dichas circunstancias deben de quedar asentadas en el acta correspondiente, así como la media filiación de la persona en cuestión.
 
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 194.
 
-Los acuerdos y resolución que emitan las autoridades competentes en el Procedimiento Laboral Sancionador deberán notificarse dentro de los tres días hábiles siguientes a su emisión, salvo que se especifique un plazo diferente.
+Los acuerdos y resoluciones que emitan las autoridades competentes en el Procedimiento Laboral Sancionador deberán notificarse dentro de los tres días hábiles siguientes a su emisión, salvo que se especifique un plazo diferente.
 
 ###### Artículo 195.
 
@@ -2868,11 +2878,9 @@ I. Amonestación;
 
 II. Suspensión; y
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 17 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
-
-IV (SIC). Destitución y, en consecuencia, rescisión/conclusión de la relación laboral.
+III. Destitución y, en consecuencia, rescisión/conclusión de la relación laboral.
 
 ###### Artículo 241.
 
@@ -2940,7 +2948,9 @@ La responsabilidad laboral se extingue con:
 
 I. La renuncia o muerte de la persona denunciada;
 
-II. El cumplimiento de la sanción
+> <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+II. El cumplimiento de la sanción.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
@@ -3280,7 +3290,9 @@ La solicitud de conciliación deberá presentarse ante el área conciliadora y c
 
 a) El nombre, cargo y área de adscripción de la persona solicitante;
 
-b) Nombre, cargo y área de adscripción de las demás partes en conflicto laboral,
+> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2024)</small>
+
+b) Nombre, cargo y área de adscripción de las demás partes en conflicto laboral, y
 
 c) Breve descripción de los hechos generadores del conflicto laboral y, de ser posible, las maneras de solucionarlo.
 
@@ -3621,3 +3633,31 @@ https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El responsable del enlace es: Salvador Gabriel Macias Payén, Titular de la Unidad Técnica de Comunicación Social y Difusión del Instituto Electoral de la Ciudad de México. Tel (55) 54833800 Ext. 4700.
+
+G.O. 17 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO POR EL CUAL SE DA A CONOCER EL ACUERDO DE LA JUNTA ADMINISTRATIVA, POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]</small>
+
+Lo anterior, en cumplimiento a los puntos de Acuerdo SEGUNDO y TERCERO del Acuerdo por el que se aprueba la modificación al Reglamento en Materia de Relaciones Laborales del Instituto Electoral de la Ciudad de México, el cual fue aprobado en la Novena Sesión Ordinaria de la Junta Administrativa el 30 de septiembre de 2024, que establecen:
+
+SEGUNDO. El presente Acuerdo entrará en vigor al momento de su aprobación y su Anexo al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo mediante Aviso en la Gaceta Oficial de la Ciudad de México.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Acuerdo de la Junta Administrativa, por el que se aprueba la modificación al Reglamento en Materia de Relaciones Laborales del Instituto Electoral de la Ciudad de México también podrá ser consultado en la dirección electrónica https://www.iecm.mx/www/taip/minutas/ja/2024/IECM-JA104-24.pdf correspondiente al sitio del Instituto Electoral de la Ciudad de México.
+
+TERCERO. El presente Aviso contiene un Anexo digital, el cual forma parte integral del mismo.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los días de vacaciones no disfrutados correspondientes a periodos vacacionales anteriores a la aprobación del presente Reglamento, podrán ser solicitados y disfrutados fuera de los plazos que se establezcan formalmente mediante las Circulares respectivas, con la finalidad de agotarlos a la brevedad posible.
+
+CUARTO. Los procedimientos labores disciplinarios y los recursos de inconformidad en trámite a la entrada en vigor de la modificación al presente reglamento, se desahogarán conforme a las disposiciones reglamentarias que se encontraban vigentes al momento de su presentación.
