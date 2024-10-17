@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1440
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-09-03"
-last_updated: "2020-10-13"
+last_updated: "2024-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de septiembre de 2020.
 
@@ -291,7 +291,9 @@ La o el titular de la Dirección General del Centro de Conciliación desempeñar
 
 En caso de falta absoluta, la sustitución se hará sólo para concluir el periodo respectivo, en este supuesto, quien lo supla podrá ser ratificado por el Órgano de Gobierno para un segundo periodo, y deberá cumplir con los mismos requisitos que quien le antecedió.
 
-Para la designación de la o el titular de la Dirección General, el Ejecutivo Estatal someterá una terna a consideración del Congreso del Estado, de la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+La designación de la o el titular de la Dirección General se realizará bajo el principio de paridad de género, por tal razón el ejercicio de cada periodo de cuatro años se alternará entre una mujer y un hombre, salvo en los casos en que se verifique la ratificación para el ejercicio de un segundo periodo, en donde la alternancia se realizará a la conclusión de éste. Para la designación de la o el titular de la Dirección General, el Ejecutivo Estatal someterá una terna a consideración del Congreso del Estado, de la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente.
 
 La designación se hará por el voto de las dos terceras partes de los integrantes del Congreso del Estado, dentro del improrrogable plazo de treinta días. Si el Congreso no resolviera dentro del citado plazo, ocupará el cargo la persona que, dentro de dicha terna, designe el Ejecutivo Estatal.
 
@@ -313,9 +315,19 @@ VI. No encontrarse en ningún supuesto de conflicto de intereses;
 
 VII. No ser fedatario o corredor público, salvo que solicite licencia;
 
-VIII. No haber sido representante popular durante los tres años anteriores a la designación, y
+VIII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2024)
 
-IX. No encontrarse, al momento de la designación, inhabilitado o suspendido administrativamente, en su caso, penalmente, para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+IX. No encontrarse, al momento de la designación, inhabilitado o suspendido administrativamente, en su caso, penalmente, para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+X. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2024)</small>
+
+XI. No haber sido declarada como persona deudora alimentaria morosa.
 
 ###### ARTÍCULO 18.
 
@@ -592,3 +604,11 @@ P.O. 13 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0003.- SE REFORMAN LOS ARTÍCULOS 16 EN SU PÁRRAFO TERCERO Y 17 EN SU FRACCIÓN IX; ADICIONA AL ARTÍCULO 17 DOS FRACCIONES, ESTAS COMO X Y XI; Y DEROGA DEL ARTÍCULO 17 LA FRACCIÓN VIII, DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
