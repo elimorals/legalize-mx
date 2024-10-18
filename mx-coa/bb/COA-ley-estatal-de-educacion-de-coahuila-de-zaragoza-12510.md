@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2022-10-21"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -285,9 +285,13 @@ XXV.- Proveer la información que el Instituto Nacional de Evaluación Educativa
 
 XXVI.- Coordinarse con la Secretaría del Medio Ambiente, a fin de generar los programas de educación ambiental, de forma integral e interdisciplinario en todos los niveles educativos donde se considere al medio ambiente como un todo e involucren tanto a educandos como a docentes, en la identificación y resolución de problemas a través de la adquisición de conocimientos, valores, actitudes y habilidades, propios de la ciencia ambiental para la toma de decisiones y la participación activa y organizada para el logro de un desarrollo sustentable; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2024)</small>
 
-XXVII.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
+XXVII.- Capacitar a las y los trabajadores de la educación de todos los niveles con respecto a sus derechos y obligaciones derivados de sus funciones en el servicio profesional docente.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XXVIII.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -2158,3 +2162,9 @@ II. La creación de políticas y mecanismos para evitar el acoso escolar a las n
 Noveno.- Con fundamento del principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
 
 Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 100.- SE REFORMA LA FRACCIÓN XXVII Y SE ADICIONA LA FRACCIÓN XXVIII DEL ARTÍCULO 9, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
