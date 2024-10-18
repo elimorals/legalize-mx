@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-109773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2022-09-16"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -639,11 +639,27 @@ XI. Representar a la Defensoría en sesiones de organismos, comités, asambleas 
 
 XII. Las demás que le señale la presente Ley y la normatividad aplicable.
 
-### Capítulo Único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+### Capítulo VIII. Del Centro de Estudios sobre Derechos Humanos de Querétaro
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 38 Ter.
+
+La Defensoría podrá realizar acciones de capacitación y formación académica en materia de Derechos Humanos y temas afines, para lo cual contará con una unidad administrativa denominada Centro de Estudios sobre Derechos Humanos de Querétaro, en lo sucesivo el CEDHQ que además tendrá a su cargo enriquecer, mantener y custodiar el acervo documental de la Defensoría. La formación académica que imparta será de nivel superior, conforme a los planes y programas de estudio que éste diseñe.
+
+Las acciones de capacitación y formación académica, así como la organización, operación y funcionamiento del CEDHQ, se regirá conforme a las disposiciones reglamentarias que para tal efecto emita el Presidente de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 38 Quáter.
+
+La Defensoría emitirá, por conducto del CEDHQ, los grados, títulos, diplomas y certificados que correspondan, respecto de la formación académica que imparta.
 
 ## Título Tercero. Del régimen laboral, patrimonio y presupuesto
 
-### Capítulo I. De la presentación de quejas o denuncias en materia de Derechos Humanos
+### Capítulo Único
 
 ###### Artículo 39.
 
@@ -675,9 +691,79 @@ La Legislatura, a través del correspondiente Presupuesto de Egresos, otorgará 
 
 El ejercicio del presupuesto de la Defensoría será revisado y fiscalizado en los términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 43 Bis.
+
+Por los servicios prestados por la Defensoría, solicitados por los particulares, se causarán y pagarán los siguientes derechos y cuotas de recuperación:
+
+I. Por la inscripción o renovación de registro en el Padrón de Proveedores de la Defensoría, se pagará el monto equivalente a 1 UMA.
+
+II. Por el costo de materiales de reproducción de documentos o archivos generados o resguardados por la Defensoría, se establecen los siguientes montos de cuotas de recuperación:
+
+a) Fotocopia simple tamaño carta u oficio, por cada página 0.005 UMA.
+
+b) Fotocopia certificada carta u oficio, por cada página 0.01 UMA.
+
+c) Impresión digital de archivo en imagen a color, por cada página 0.02 UMA.
+
+d) Fotocopia de planos, por cada uno 0.24 UMA.
+
+e) Impresión de fotografía, por cada una 0.02 UMA.
+
+f) Grabado de información en disco compacto, por cada disco 0.10 UMA.
+
+g) Grabado de información en CD formato DVD, por cada disco 0.14 UMA; y
+
+(NOTA: EL 13 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2024, DECLARÓ LA INVALIDEZ DEL INCISO h) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE OCTUBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+h) DIGITALIZACIÓN DE HOJAS CARTA U OFICIO, POR CADA PÁGINA 0.005 UMA.
+
+III. Los montos de las cuotas de recuperación por los servicios de capacitación, formación académica, educación superior y certificación prestados por conducto del CEDHQ serán los siguientes:
+
+a) Inscripción a Talleres (pago único): 18 UMA.
+
+b) Inscripción a Cursos (pago único): 18 UMA.
+
+c) Inscripción a Seminarios (pago único): 37 UMA
+
+d) Diplomados (pago único): 74 UMA.
+
+e) Inscripción a Licenciatura (pago único): 18 UMA.
+
+f) Colegiatura (pago mensual) de la Licenciatura: 37 UMA.
+
+g) Inscripción a Maestría (pago único): 18 UMA.
+
+h) Colegiatura (pago mensual) de Maestría: 37 UMA.
+
+i) Certificación de competencias: 150 UMA.
+
+IV. Los montos de las cuotas de recuperación por los servicios (sic) control y gestión escolar prestados por conducto del CEDHQ serán los siguientes:
+
+a) Expedición de Kardex o constancia: 1.5 UMA.
+
+b) Expedición de Diploma de taller, curso o diplomado: 1.5 UMA.
+
+c) Expedición o reexpedición de credencial: 1 UMA.
+
+d) Expedición de certificado de estudios: 2 UMA.
+
+e) Expedición de Título: 4 UMA.
+
+Las cuotas de recuperación que no se encuentren previstas en los incisos anteriores, se determinarán por el Presidente de la Defensoría y se publicarán.
+
+El monto de la cuota de recuperación por servicios de capacitación y formación académica que corresponda, deberá ser señalado en la respectiva convocatoria, con el objeto de que se tenga conocimiento del mismo. Las cuotas de recuperación por servicios de gestión escolar, deberán exhibirse en los medios de difusión de la Defensoría.
+
+El tabulador de cuotas de recuperación por servicios de capacitación y formación académica se aplicará a todos los usuarios, sin excepción alguna, salvo en caso de que se trate de personal de la Defensoría o se suscriba convenio institucional de colaboración administrativa pudiendo aplicarse descuento de hasta un 50% del costo tabulado tratándose de licenciatura y maestría, y de hasta el 100% tratándose de Talleres, Cursos, Seminarios y Diplomados. Dicho descuento será autorizado por el Presidente de la Defensoría.
+
+El cobro de los derechos y las cuotas de recuperación se realizará conforme a los procedimientos y formatos autorizados, debiendo expedirse el correspondiente comprobante con requisitos fiscales.
+
+La Defensoría, con base en la autonomía de gestión con que cuenta, está facultada para recaudar y administrar libremente sus ingresos derivados de cuotas de recuperación y derechos.
+
 ## Título Cuarto. De los procedimientos, recursos y responsabilidades
 
-### Capítulo II. De la actuación de oficio
+### Capítulo I. De la presentación de quejas o denuncias en materia de Derechos Humanos
 
 ###### Artículo 44.
 
@@ -755,7 +841,7 @@ No se tramitará ninguna queja cuando del expediente se desprenda que es notoria
 
 La Defensoría considerará las manifestaciones vertidas por el quejoso, a fin de ratificar, revocar o modificar el acuerdo de calificación de la queja, en un plazo de cinco días.
 
-### Capítulo III. De la calificación de la queja
+### Capítulo II. De la actuación de oficio
 
 ###### Artículo 58.
 
@@ -769,7 +855,7 @@ II. Violaciones de lesa humanidad.
 
 Para proceder de oficio por probables violaciones a derechos humanos, se requerirá de acuerdo razonado del Presidente.
 
-### Capítulo IV. De la tramitación de la queja
+### Capítulo III. De la calificación de la queja
 
 ###### Artículo 60.
 
@@ -809,7 +895,7 @@ Calificada la queja como probable violatoria, el Visitador correspondiente solic
 
 En la integración e investigación de los expedientes de queja, el visitador designado actuará bajo la supervisión del Visitador General.
 
-### Capítulo V. De la conciliación
+### Capítulo IV. De la tramitación de la queja
 
 ###### Artículo 67.
 
@@ -891,7 +977,7 @@ Cuando resulten ciertos los hechos y se negare la medida precautoria o cautelar 
 
 Las medidas aludidas se solicitarán cuando la naturaleza del caso lo amerite, por un plazo que no podrá ser superior a treinta días, salvo que sea justificada la ampliación de dicha medida cautelar.
 
-### Capítulo VI. De las causas de conclusión
+### Capítulo V. De la conciliación
 
 ###### Artículo 82.
 
@@ -921,7 +1007,7 @@ La Defensoría podrá conciliar asuntos derivados de denuncias interpuestas en c
 
 Conciliado el asunto entre particulares, se emitirá un acta correspondiente en los términos acordados; en caso de incumplimiento, ésta servirá de base para el inicio de la acción correspondiente.
 
-### Capítulo VII. Del acuerdo de responsabilidad
+### Capítulo VI. De las causas de conclusión
 
 ###### Artículo 88.
 
@@ -951,7 +1037,7 @@ X. Por haberse dictado acuerdo de no responsabilidad.
 
 Los expedientes de queja serán concluidos mediante acuerdo del Visitador, debidamente fundado y motivado, en el que se establecerá con claridad la causa de conclusión del expediente, notificando de ello a las partes.
 
-### Capítulo VIII. De las recomendaciones
+### Capítulo VII. Del acuerdo de responsabilidad
 
 ###### Artículo 90.
 
@@ -993,7 +1079,7 @@ La Defensoría deberá brindar a la autoridad correspondiente la asesoría que r
 
 El incumplimiento del acuerdo de responsabilidad podrá generar la continuidad del trámite de queja.
 
-### Capítulo IX. De los acuerdos de no responsabilidad
+### Capítulo VIII. De las recomendaciones
 
 ###### Artículo 96.
 
@@ -1061,7 +1147,7 @@ La no aceptación de una recomendación será notificada por la Defensoría a la
 
 De no resultar satisfactorias las razones y el informe expuestos por el servidor público, la citada Comisión deberá denunciarlo así al Pleno de la Legislatura, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, a efecto de que se finquen las responsabilidades políticas y administrativas a que hubiere lugar.
 
-### Capítulo X. Del recurso de queja y del recurso de impugnación
+### Capítulo IX. De los acuerdos de no responsabilidad
 
 ###### Artículo 107.
 
@@ -1091,7 +1177,7 @@ Los acuerdos de no responsabilidad se refieren a casos concretos, cuyo origen es
 
 Cuando un quejoso se conduzca con falsedad en el curso de los asuntos que ponga en conocimiento de la Defensoría, de acuerdo con la gravedad y circunstancias del caso, se hará constar en la resolución correspondiente.
 
-### Capítulo I. Del procedimiento de queja
+### Capítulo X. Del recurso de queja y del recurso de impugnación
 
 ###### Artículo 112.
 
@@ -1105,7 +1191,7 @@ El Presidente, conjuntamente con el Visitador General, estará a cargo de su ins
 
 ## Título Quinto. Del procedimiento de queja en materia de discriminación
 
-### Capítulo II. Del procedimiento conciliatorio entre particulares
+### Capítulo I. Del procedimiento de queja
 
 ###### Artículo 114.
 
@@ -1119,7 +1205,7 @@ Admitida y registrada la queja, dentro de los siguientes cinco días hábiles, d
 
 Para la investigación de las quejas en materia de discriminación, se estará a lo dispuesto en la presente Ley.
 
-### Capítulo III. De la resolución
+### Capítulo II. Del procedimiento conciliatorio entre particulares
 
 ###### Artículo 116.
 
@@ -1129,7 +1215,7 @@ Para la investigación de las quejas en materia de discriminación, se estará a
 
 (DEROGADO, P.O. 22 DE JULIO DE 2016)
 
-### Capítulo IV. De los informes
+### Capítulo III. De la resolución
 
 ###### Artículo 118.
 
@@ -1139,7 +1225,7 @@ Si al concluir la investigación no se comprueba que las autoridades o servidore
 
 Si finalizada la investigación, la Defensoría comprueba que los servidores públicos o autoridades denunciadas cometieron alguna conducta discriminatoria, formulará la correspondiente resolución, en la que se señalarán los fundamentos que se tuvieron para ello y las pruebas que lo demuestren, notificando al órgano administrativo competente, para el inicio obligatorio del procedimiento que corresponda.
 
-### Capítulo I. Del procedimiento para la remoción
+### Capítulo IV. De los informes
 
 ###### Artículo 120.
 
@@ -1155,7 +1241,7 @@ En los informes anuales o especiales, no se incluirán los datos personales del 
 
 ## Título Sexto. De la remoción del Presidente de la Defensoría de los Derechos Humanos de Querétaro
 
-### Capítulo II. De las causas para la remoción
+### Capítulo I. Del procedimiento para la remoción
 
 ###### Artículo 122.
 
@@ -1206,6 +1292,8 @@ Una vez aprobado por la Legislatura el dictamen de remoción, se habilitará al 
 ###### Artículo 130.
 
 En caso de que el Presidente de la Defensoría de los Derechos Humanos de Querétaro sea removido, hasta en tanto sea nombrado un nuevo titular, el Visitador General efectuará las funciones del Presidente de la Defensoría, salvo las relativas al nombramiento de servidores públicos del organismo.
+
+### Capítulo II. De las causas para la remoción
 
 ###### Artículo 131.
 
@@ -1332,3 +1420,13 @@ Artículo Cuarto. La Defensoría de los Derechos Humanos de Querétaro contará 
 Artículo Quinto. Se faculta al Presidente a realizar las transferencias necesarias al presupuesto de la Defensoría para cumplir con lo dispuesto en la presente Ley.
 
 Artículo Sexto. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de Defensoría de los Derechos Humanos de Querétaro, como ente público autónomo.
+
+P.O. 18 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN CAPÍTULO VIII AL TÍTULO SEGUNDO, ASÍ COMO LOS ARTÍCULOS 38 TER, 38 QUATER Y 43 BIS A LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
