@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-y-promocion-de-los-derechos-del-122957"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-09"
-last_updated: "2017-05-09"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2024.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de mayo de 2017.
 
@@ -55,7 +55,7 @@ I. Autoridades: Aquellas a las que las disposiciones legales aplicables al asunt
 
 II. Código Fiscal: El Código Fiscal para el Estado de Coahuila de Zaragoza.
 
-III. Consejo. El Consejo para la Protección y Promoción de los Derechos del Contribuyente en el Estado de Coahuila de Zaragoza.
+III. (DEROGADA, P.O. 18 DE OCTUBRE DE 2024)
 
 IV. Contribuyente: Las personas físicas y morales que residen en el Estado o que realicen los actos o actividades que los ordenamientos fiscales gravan, y que están obligadas a contribuir para el gasto público del Estado conforme a las leyes fiscales respectivas.
 
@@ -157,9 +157,11 @@ Las autoridades tendrán la obligación de publicar periódicamente instructivos
 
 ### CAPÍTULO IV. DE LA DEFENSORÍA PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 11.
 
-Se crea la Defensoría como un órgano administrativo desconcentrado de la Secretaría de Finanzas, la cual contará con autonomía técnica, operativa y de decisión, y estará integrada por un Defensor y un Consejo.
+Se crea la Defensoría como un órgano administrativo desconcentrado de la Secretaría de Finanzas, la cual contará con autonomía técnica, operativa y de decisión.
 
 La Defensoría tendrá por objeto la protección y la promoción de los derechos del contribuyente y la vigilancia del cumplimiento de esta ley.
 
@@ -177,9 +179,11 @@ Las autoridades y los servidores públicos estatales y municipales, colaborarán
 
 El incumplimiento de las obligaciones establecidas en esta ley dará lugar a las sanciones que en ella se establecen y, en su caso, a la responsabilidad administrativa que se derive de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-Para el cumplimiento de su objeto, la Defensoría por medio del Defensor o de sus Consejeros tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, la Defensoría por medio del Defensor tendrá las siguientes atribuciones:
 
 I. Atender y resolver las solicitudes de asesoría y consulta que le presenten los contribuyentes por actos de las autoridades;
 
@@ -219,21 +223,29 @@ Las respuestas que emita la Defensoría a los interesados sobre las quejas que h
 
 La formulación de quejas, así como las resoluciones y recomendaciones que emita la Defensoría, no constituyen instancia y no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenden ni interrumpen sus plazos preclusivos, de prescripción o caducidad, ni afectarán los trámites o procedimientos que lleven a cabo las autoridades. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la queja.
 
-### CAPÍTULO V. DEL CONSEJO DE LA DEFENSORÍA PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA. DEL OBJETO E INTEGRACIÓN
+### CAPÍTULO V. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LA DEFENSORÍA PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. INTEGRACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-El Consejo tiene por objeto establecer las políticas y lineamientos generales para el funcionamiento de la Defensoría.
+La Defensoría se integrará por un titular denominado Defensor que residirá en la ciudad de Saltillo, Coahuila y las Unidades Administrativas necesarias para su funcionamiento dentro del territorio del Estado de Coahuila de Zaragoza.
 
-El Consejo se integra por dos consejeros, y el Defensor, quien lo presidirá. Deliberará de forma colegiada y decidirá los casos por mayoría de votos, y adoptará sus decisiones con plena independencia.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. DE LA DESIGNACIÓN DE LOS CONSEJEROS Y DEFENSOR
+#### SECCIÓN SEGUNDA. DE LA DESIGNACIÓN DEL DEFENSOR Y LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-Los Consejeros y el Defensor deben reunir para su designación los siguientes requisitos:
+El Defensor debe reunir para su designación los siguientes requisitos:
 
 I. Ser mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -247,49 +259,29 @@ V. No haber sido condenado por delito que amerite pena corporal de más de un a�
 
 VI. Ser de reconocida competencia profesional y honorabilidad.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 17.
 
-Los Consejeros y el Defensor serán designados de forma separada, por el Congreso del Estado, de entre una terna para el Defensor y seis propuestas para los Consejeros, presentadas por el titular del Ejecutivo del Estado, durarán en su encargo cuatro años y podrán ser ratificados para un segundo periodo. Las propuestas del Ejecutivo deberán ser presentadas con 15 días de anticipación a la fecha de terminación del nombramiento, una vez presentadas el Congreso deberá analizar y resolver sobre la ratificación o en su caso el nuevo nombramiento de los consejeros y del defensor, en un término de hasta 15 días posteriores a la conclusión del encargo.
+El Defensor será designado, por el Secretario de Finanzas, durará en su encargo cuatro años y podrá ser ratificado para un segundo periodo.
 
-Los Consejeros y el Defensor sólo podrán ser removidos de sus cargos por causa grave, debidamente justificada. Por causa grave se entenderán aquellas que al efecto determine el reglamento interior.
+El Defensor sólo podrá ser removido de su cargo por causa grave, debidamente justificada. Por causa grave se entenderán aquellas que al efecto determine el reglamento interior.
 
-Los Consejeros y el Defensor no podrán desempeñar durante el periodo de su encargo, ningún otro cargo público, de elección popular, empleo o comisión, salvo que se trate de actividades estrictamente académicas.
+El Defensor no podrá desempeñar durante el periodo de su encargo, ningún otro cargo público, de elección popular, empleo o comisión, salvo que se trate de actividades estrictamente académicas.
 
-Las ausencias temporales y definitivas de los Consejeros y del Defensor serán suplidas en la forma que determine el reglamento interior.
+Las ausencias temporales y definitivas del Defensor serán suplidas en la forma que determine el reglamento interior.
 
-#### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DEL CONSEJO, DE LOS CONSEJEROS Y DEL DEFENSOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DEL DEFENSOR
 
 ###### Artículo 18.
 
-El Consejo tiene las siguientes atribuciones:
-
-I. Analizar y, en su caso, aprobar el proyecto de presupuesto presentado por el Defensor, a fin de proponerlo al Secretario de Finanzas para que, en los términos de las disposiciones aplicables, lo presente al Congreso del Estado;
-
-II. Fijar lineamientos y aprobar los programas anuales de actividades y las políticas de la Defensoría, así como los lineamientos generales de actuación de éste y del Defensor;
-
-III. Aprobar el proyecto de reglamento interior de la Defensoría, en el que se determinará la estructura y funciones de cada unidad u órgano que la integren, así como el ámbito competencial de cada uno de ellos, y someterlo a consideración del titular de la Secretaría de Finanzas para el trámite procedente;
-
-IV. Evaluar y, en su caso, aprobar el proyecto de informe anual del Defensor, y someterlo a consideración del titular de la Secretaría de Finanzas;
-
-V. Revisar que las áreas jurídicas y unidades administrativas a su cargo, cumplan con los lineamientos emitidos para la prestación de los servicios de asesoría, consulta, representación y defensa, recepción de quejas que soliciten los contribuyentes;
-
-VI. Determinar las bases y lineamientos para la promoción de la cultura contributiva, y
-
-VII. Las demás que se establezcan en esta ley, en el reglamento interior, o en cualquier otra disposición aplicable.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2024)
 
 ###### Artículo 19.
 
-Los Consejeros tienen las siguientes facultades:
-
-I. Analizar y presentar propuestas para el proyecto de presupuesto.
-
-II. Proponer programas de actividades y las políticas de la Defensoría, así como los lineamientos generales de actuación de ésta;
-
-III. Entregar la información que les corresponda para la integración del proyecto de informe anual del Defensor;
-
-IV. Revisar que las áreas jurídicas y unidades administrativas a su cargo, cumplan con los lineamientos emitidos para la prestación de los servicios de asesoría, consulta, representación y defensa, recepción de quejas que soliciten los contribuyentes;
-
-V. Las establecidas en el artículo 14 de esta Ley, así como las que se otorguen (sic) el reglamento interior.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2024)
 
 ###### Artículo 20.
 
@@ -305,17 +297,49 @@ IV. Emitir disposiciones o reglas de carácter general y dictar lineamientos y m
 
 V. Ejercer la representación legal de la Defensoría y, en su caso, otorgar poderes de representación de la misma, en los términos establecidos en el reglamento interior;
 
-VI. Elaborar el proyecto de reglamento interior de la Defensoría, así como de cualquier disposición modificatoria al mismo y someterlo a consideración del Consejo;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2024)</small>
 
-VII. Proveer lo necesario en lo administrativo y en la organización del trabajo de la Defensoría;
+VI. Elaborar el proyecto de reglamento interior de la Defensoría, así como de cualquier disposición modificatoria al mismo y someterlo a aprobación del Titular de la Secretaria de Finanzas;
 
-VIII. Elaborar el proyecto de la Carta de los Derechos del Contribuyente dentro del ámbito estatal, y someterlo a aprobación del Consejo a fin de hacerla llegar a las autoridades.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2024)</small>
 
-IX. Procurar y fomentar la cultura contributiva, y
+VII. Realizar el anteproyecto de presupuesto, a fin de proponerlo al Secretario de Finanzas para que, en los términos de las disposiciones aplicables, lo presente al titular del Ejecutivo del Estado;
 
-X. Las demás que se determinen en esta ley, el reglamento interior y cualquier otra disposición aplicable.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2024)</small>
 
-XI. Las establecidas en los artículos 14 y 19 de esta ley, así como las que se otorguen el reglamento interior.
+VIII. Elaborar el proyecto de la Carta de los Derechos del Contribuyente dentro del ámbito estatal, a fin de hacerla llegar a las autoridades;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+IX. Procurar y fomentar la cultura contributiva;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+X. Realizar el proyecto de presupuesto, a fin de proponerlo al Secretario de Finanzas para que, en los términos de las disposiciones aplicables, lo presente al titular del Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XI. Las establecidas en el artículo 14 de esta ley, así como las que se otorguen el reglamento interior;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XII. Elaborar informe anual de desempeño da la Defensoría y someterlo a consideración del titular de la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XIII. Dictar acuerdos de no responsabilidad;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XIV. Dictar acuerdos de trámite para que las autoridades aporten información o documentación, salvo aquella que la ley considere reservada o confidencial;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XV. Dictar Recomendaciones no vinculantes para la autoridad o servidor público a la que se dirija;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+XVI. Las demás que se determinen en esta ley, el reglamento interior y cualquier otra disposición aplicable.
 
 ### CAPÍTULO VI. DE LOS SERVICIOS QUE PRESTA LA DEFENSORÍA
 
@@ -409,15 +433,11 @@ IV. Cuando por la desatención del contribuyente a los requerimientos durante la
 
 DE LOS ACUERDOS Y RECOMENDACIONES.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-La Defensoría, por medio de sus Consejeros podrá dictar:
-
-I. Acuerdos de trámite, para que las autoridades aporten información o documentación, salvo aquella que la ley considere reservada o confidencial;
-
-II. Recomendaciones no vinculantes para la autoridad o servidor público a la que se dirija, y
-
-III. Acuerdos de no responsabilidad.
+La Defensoría, por medio de su Defensor y unidades administrativas podrá dictar acuerdos de trámite y acuerdos de no responsabilidad de conformidad con las facultades conferidas en los artículos 14 y 20 de esta ley.
 
 ###### Artículo 33.
 
@@ -536,3 +556,17 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 106.- SE REFORMAN: EL PRIMER PÁRRAFO DEL ARTÍCULO 11; EL PRIMER PÁRRAFO DEL ARTÍCULO 14; LA DENOMINACIÓN DEL CAPÍTULO V; LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO V; EL ARTÍCULO 15; LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO V; EL PRIMER PÁRRAFO DEL ARTÍCULO 16; EL ARTÍCULO 17; LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO V; LAS FRACCIONES VI, VII, VIII, IX, X Y XI DEL ARTÍCULO 20; EL ARTÍCULO 32; SE ADICIONAN: LAS FRACCIONES XII, XIII, XIV, XV Y XVI AL ARTÍCULO 20; SE DEROGAN: LA FRACCIÓN III DEL ARTÍCULO 2; EL ARTÍCULO 18 Y EL ARTÍCULO 19, TODOS DE LA LEY PARA LA PROTECCIÓN Y PROMOCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento Interior de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente se deberá expedir en un plazo no mayor de treinta días naturales.
+
+TERCERO.- Las personas que desempeñan el cargo de Defensor y Consejeros de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente continuarán en su encargo hasta su conclusión en los términos en que fueron designados por el Congreso del Estado, y se realizarán los cambios establecidos en esta reforma una vez vencidos sus nombramientos.
+
+CUARTO.- Publíquese el presente Decreto por una sola vez en el Periódico Oficial del Gobierno del Estado.
