@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2022-01-28"
+last_updated: "2024-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -1531,7 +1531,9 @@ Las opiniones y recomendaciones que formule este Consejo deberán ser considerad
 
 El Consejo Estatal de Áreas Naturales Protegidas deberá invitar a sus sesiones a representantes del Gobierno Federal y Municipal, cuando se traten asuntos relacionados con áreas naturales protegidas de su competencia. Asimismo, deberá invitar a representantes de ejidos, comunidades, propietarios, poseedores y en general a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
-#### SECCIÓN III. Declaratorias para el Establecimiento, Administración y Vigilancia de Áreas Naturales Protegidas de Jurisdicción Estatal y Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+#### SECCIÓN III. Declaratorias para el Establecimiento, Administración y Vigilancia de Áreas Naturales y Especies Protegidas de Jurisdicción Estatal y Municipal
 
 ###### Artículo 95.
 
@@ -1670,6 +1672,12 @@ Los ingresos que la Secretaría perciba por concepto del otorgamiento de permiso
 ###### Artículo 111.
 
 Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas de jurisdicción local, deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 111 Bis.
+
+El Poder Legislativo podrá establecer mediante declaratoria días estatales para la conservación de las especies que se encuentren dentro de su hábitat natural en el territorio sinaloense.
 
 Artículo 109 (SIC). La Secretaría integrará el Registro Estatal de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés estatal, y los instrumentos que los modifiquen. Lo relativo a su inscripción en el Registro Público de la Propiedad del Estado. Asimismo, se deberá integrar el registro de los certificados a que se refiere el artículo 114 de esta Ley.
 
@@ -3448,3 +3456,11 @@ CUARTO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámb
 QUINTO. La Secretaría de Desarrollo Sustentable deberá integrar en un plazo de 180 días posteriores al inicio de vigencia del presente Decreto los Padrones a que se refieren (sic) la fracción VI del artículo 8 de la Ley de Protección a los Animales para el Estado de Sinaloa.
 
 SEXTO. Una vez integrado el Consejo Técnico del Fondo para la Protección de los Animales contará con un plazo de 90 días naturales para expedir el Reglamento a que se refiere el presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 882 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO I, DEL TÍTULO TERCERO, PARA QUEDAR “DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES Y ESPECIES PROTEGIDAS DE JURISDICCIÓN ESTATAL Y MUNICIPAL”; Y SE ADICIONA EL ARTÍCULO 111 BIS A LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
