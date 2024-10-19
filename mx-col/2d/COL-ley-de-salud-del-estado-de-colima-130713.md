@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2022-12-31"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -619,9 +619,9 @@ Es obligación de las instituciones públicas de salud del Gobierno garantizar l
 
 La atención a la salud sexual, reproductiva y de planificación familiar y anticonceptiva es prioritaria. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-El Gobierno promoverá y aplicará permanentemente y de manera intensiva, políticas y programas integrales tendientes a la educación y capacitación sobre salud sexual, derechos reproductivos, así como a la maternidad y paternidad responsables. Los servicios de planificación familiar y anticoncepción que ofrezca, tienen como propósito reducir el índice de interrupciones de embarazos, mediante la prevención de aquellos no planeados y no deseados, así como disminuir el riesgo reproductivo, evitar la propagación de infecciones de transmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes.
+El Gobierno promoverá y aplicará permanentemente y de manera intensiva, políticas y programas integrales tendientes a la educación y capacitación sobre salud sexual, derechos reproductivos, así como a la maternidad y paternidad responsables, que serán libres de estereotipos, prejuicios o estigmas. Los servicios de salud sexual, planificación familiar y anticoncepción que ofrezca, tienen como propósito reducir el índice de interrupciones de embarazos, mediante la prevención de aquellos no planeados y no deseados, así como disminuir el riesgo reproductivo, evitar la propagación del VIH/SIDA y de otras infecciones de transmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -649,7 +649,9 @@ VIII. La distribución gratuita, por parte de la Secretaría, de condones, a la 
 
 IX. La realización de campañas intensivas de información y orientación en materia de salud sexual y reproductiva; y
 
-X. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+X. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA, fomentando su detección temprana y el ingreso oportuno a tratamientos especializados.
 
 ### Capítulo II. Atención Materno-Infantil
 
@@ -988,6 +990,14 @@ Las niñas, niños y adolescentes tendrán derecho a que se les garantice su sal
 ###### Artículo 58 Bis 3.
 
 Las y los profesionales de la salud mental, que brinden sus servicios a las niñas, niños y adolescentes, cuando adviertan que la persona en atención ha sido o está siendo víctima de violencia o maltrato físico, psicológico, sexual, emocional, o de cualquier otra índole, negligencia o abandono de parte de su padre, madre, o quien ejerza la tutela o guarda y custodia, cuidadores o cualquier otra persona, se encuentran obligados a informarlo por escrito a la Fiscalía General del Estado o a la Procuraduría de Protección de las Niñas, Niños y Adolescentes, según corresponda.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 58 Bis 4.
+
+Las personas con VIH/SIDA o cualquier otra infección de transmisión sexual recibirán servicios de atención integral en materia de salud mental.
+
+El personal de salud mental recibirá capacitación constante para brindar atención psicológica y psiquiátrica a personas con enfermedades de transmisión sexual, tales como el VIH-SIDA, con el fin de prevenir y atender enfermedades mentales, tales como depresión y ansiedad, entre otras.
 
 ###### Artículo 59.
 
@@ -2522,3 +2532,9 @@ P.O. 31 DE DICIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que afecto (sic) se determine en el Ejercicio Fiscal 2023.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 501.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 31, LA FRACCIÓN X DEL ARTÍCULO 32, ASÍ COMO ADICIONAR EL ARTÍCULO 58 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
