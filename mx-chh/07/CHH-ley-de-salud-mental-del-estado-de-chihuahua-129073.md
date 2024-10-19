@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-salud-mental-del-estado-de-chihuahua-129073"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-13"
-last_updated: "2023-07-29"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Número 47 del Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2018.
 
@@ -173,6 +173,10 @@ XXIV. CONDUCTA SUICIDA: CONJUNTO DE COMPORTAMIENTOS RELACIONADOS CON LA INTENCIO
 
 XXV. INTENTO SUICIDA: ACCIÓN AUTODESTRUCTIVA A LA QUE SOBREVIVE LA PERSONA CON IDEACIÓN O CONDUCTA SUICIDA.
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+XXVI. Posvención: Acciones e intervenciones posteriores a un intento suicida o a un suicidio, destinadas a trabajar con las personas sobrevivientes y sus familias.
+
 ### CAPÍTULO III. DERECHOS DE LAS Y LOS PACIENTES
 
 ###### Artículo 6.
@@ -242,6 +246,10 @@ XXI. EL ACCESO A HOSPITALES CON INSTALACIONES EQUIPADAS Y PERSONAL MÉDICO CALIF
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
 
 XXII. A RECIBIR EDUCACIÓN O CAPACITACIÓN PARA CONTAR CON HERRAMIENTAS QUE IMPULSEN SU DESENVOLVIMIENTO ECONÓMICO Y SOCIAL.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+XXIII. A la habilitación y rehabilitación, que incluyen acciones tendientes a optimizar sus capacidades y funciones para la vida en comunidad.
 
 ### CAPÍTULO IV. INTERNAMIENTO
 
@@ -621,7 +629,9 @@ Asimismo, serán invitadas a participar con voz, pero sin voto, aquellas persona
 
 Se crea el Instituto Chihuahuense de Salud Mental como un órgano desconcentrado de la Administración Pública Estatal, sectorizado a la Secretaría de Salud, con autonomía técnica y administrativa, con el objeto de:
 
-I. Prestar servicios en salud mental de aspectos preventivos, de promoción, evaluación, diagnóstico, tratamiento, habilitación y rehabilitación;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+I. Prestar servicios en salud mental de aspectos preventivos, de promoción, evaluación, diagnóstico, tratamiento, habilitación, rehabilitación y posvención;
 
 II. Asegurar la adecuada atención integral de la salud mental, mediante atención psicológica, psiquiátrica, la investigación y difusión en materia de salud mental;
 
@@ -671,17 +681,23 @@ XXII. Llevar a cabo la investigación básica y aplicada, la cual tendrá como p
 
 XXIII. PROPORCIONAR ATENCIÓN MÉDICA Y PSICOLÓGICA A TODA PERSONA CON CONDUCTA SUICIDA, PROCURANDO PRIORIZAR LA ASISTENCIA DE NIÑAS, NIÑOS Y ADOLESCENTES SIN NINGÚN TIPO DE MENOSCABO O DISCRIMINACIÓN.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-XXIV. Elaborar, en coordinación con la Secretaría, un protocolo de detección y atención oportuna de conductas suicidas, de conformidad con las disposiciones aplicables.
+XXIV. Desarrollar acciones, programas y políticas públicas para detectar, atender y prevenir conductas suicidas; así como estrategias para la posvención del suicidio.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2024)</small>
 
-XXV. Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines, dentro de su esfera de competencia.
+XXV. Presentar al Consejo, un informe anual sobre las políticas públicas implementadas en materia de salud mental, el estado de avance en el cumplimiento del Programa de Salud Mental y Atención a Trastornos Mentales; así como de los diversos programas generados en la materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2024)</small>
+
+XXVI. Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines, dentro de su esfera de competencia.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 45.
 
-El Instituto tiene a su cargo el Registro Estatal de los Centros de Atención de Salud Mental, que servirá como instrumento informativo y estadístico de los mismos, y contendrá el padrón de instituciones que podrán ser públicas o privadas que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de salud mental, y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen. Este padrón será gratuito.
+El Instituto tiene a su cargo el Registro Estatal de los Centros de Atención de Salud Mental, que servirá como instrumento informativo y estadístico de los mismos, y contendrá el padrón de instituciones que podrán ser públicas o privadas que realicen actividades de prevención, tratamiento, atención, rehabilitación, posvención y reinserción social en materia de salud mental, y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen. Este padrón será gratuito.
 
 (NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -760,6 +776,14 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 P.O. 29 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0571/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD Y LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0902/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO, DE LA LEY DE SALUD MENTAL DEL ESTADO Y DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
