@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2024-04-10"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -471,6 +471,10 @@ IV.- Las que fijen un salario inferior al mínimo o su equivalente cuando no sea
 
 V.- Las que estipulen un plazo mayor de quince días para el pago de los sueldos.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+Cualquiera de estas condiciones será constitutiva de violencia laboral.
+
 ###### ARTICULO 81.
 
 Los nombramientos de los trabajadores deberán contener:
@@ -701,6 +705,10 @@ XIII. Conceder permisos o licencias, con goce de sueldo, para acudir a citas mé
 
 XIV. Conceder permiso a las personas trabajadoras, cuyas niñas, niños y adolescentes se encuentren cursando estudios, para que puedan acudir a las citas a que sean convocados por la Autoridad Educativa, presentando ante el patrón y con razonable anticipación, el citatorio o justificación respectiva.
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+XV. Diseñar e implementar políticas públicas tendientes a prevenir, atender, erradicar y sancionar la violencia laboral.
+
 (ADICIONADO, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
 Para efectos de las fracciones XI, XII y XIII de este artículo, la institución pública o privada de salud, expedirá una constancia u otros documentos que justifiquen la realización de exámenes o tratamientos de cáncer. Así mismo, la información proporcionada se manejará de forma reservada o confidencial en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública, y la Ley de Protección de Datos Personales, ambos ordenamientos jurídicos del Estado de Chihuahua.
@@ -741,9 +749,11 @@ I.- La circunstancia de que el trabajador contraiga alguna enfermedad contagiosa
 
 II.- La prisión preventiva del trabajador en tanto no se dicte sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que tratándose de arrestos por delitos contra la propiedad, contra el Estado o contra las buenas costumbres, el Tribunal de Arbitraje resuelva que debe tener lugar el cese del empleado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2024)</small>
+
 ###### ARTICULO 108.
 
-Los trabajadores de base al servicio del Estado sólo podrán ser cesados o despedidos por causas justificadas; en consecuencia, el nombramiento de dichos trabajadores únicamente se cancelará y dejará de surtir sus efectos sin responsabilidad para el Estado, en los siguientes casos:
+Las personas trabajadoras de base al servicio del Estado solo podrán ser cesadas o despedidas por causas justificadas; en consecuencia, el nombramiento de dichas personas únicamente se cancelará y dejará de surtir sus efectos sin responsabilidad para el Estado, en los siguientes casos:
 
 I.- Por renuncia o abandono de empleo;
 
@@ -755,7 +765,9 @@ IV.- Por incapacidad física o mental del trabajador, aplicándose en este caso 
 
 V.- Cuando faltare por más de tres días a sus labores, sin causa justificada, dentro de un período de treinta días;
 
-VI.- Cuando el trabajador incurriere en faltas de probidad u honradez o en actos de violencia, amagos, injurias y malos tratamientos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+VI.- Cuando se incurriere en faltas de probidad u honradez o en actos de violencia, amagos, acoso, hostigamiento e injurias contra sus superiores u otras personas de su centro de trabajo, o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio;
 
 VII.- Por ocasionar daños o destruir intencionalmente o por descuido o negligencia edificios, obras, maquinarias, instrumentos, materias primas y demás objetos propiedad del Estado o de los Municipios;
 
@@ -848,6 +860,10 @@ II.- Ejercer la función de comerciante;
 III.- Usar de la violencia con los trabajadores libres, para obligarlos a que se sindicalicen;
 
 IV.- Fomentar actos delictuosos contra personas o propiedades.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+V.- Ejercer o consentir cualquier tipo de violencia laboral en contra de alguna persona trabajadora.
 
 ###### ARTICULO 120.
 
@@ -11180,3 +11196,11 @@ Las autoridades competentes de la Administración Pública Estatal, deberán rea
 ###### ARTÍCULO QUINTO.
 
 La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones y demás recursos financieros en los presupuestos anuales de egresos, a fin de cumplir con la Ley contenida en el Artículo Primero del presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII//RFLYC/0888/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO ADMINISTRATIVO, AMBOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
