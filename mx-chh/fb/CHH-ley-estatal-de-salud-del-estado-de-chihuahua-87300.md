@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-10-09"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1419,9 +1419,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-III.- Orientar y capacitar a la población en materia de nutrición, lactancia materna, sobrepeso y obesidad, salud mental, salud bucal, salud reproductiva, donación y trasplante de órganos y tejidos, donación de sangre, intoxicaciones, riesgos de automedicación, prevención de accidentes, adicciones y discapacidades, cuidados paliativos, salud ocupacional, uso adecuado de los servicios de salud, rehabilitación de personas con adicciones y en situación de discapacidad, detección oportuna de enfermedades, primordialmente cánceres de mama, cérvico-uterino y de próstata, hipertensión arterial y diabetes.
+III.- Orientar y capacitar a la población en materia de nutrición, lactancia materna, sobrepeso y obesidad, salud mental, salud bucal, salud reproductiva, donación y trasplante de órganos y tejidos, donación de sangre, intoxicaciones, riesgos de automedicación, prevención de accidentes, adicciones y discapacidades, cuidados paliativos, salud ocupacional, uso adecuado de los servicios de salud, rehabilitación de personas con adicciones y en situación de discapacidad, detección oportuna de enfermedades, primordialmente cánceres de mama, cérvico-uterino y de próstata, hipertensión arterial, diabetes, prevención del suicidio y la autolesión.
 
 ###### Artículo 119.
 
@@ -2585,17 +2585,17 @@ Para la promoción de la salud mental, la Secretaría y las instituciones de sal
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2024)</small>
 
-Así mismo, por lo que se refiere específicamente al suicidio, se llevarán a cabo acciones en materia de detección, prevención y atención al suicidio, las cuales deberán incluir:
+Así mismo, por lo que se refiere específicamente al suicidio y las autolesiones, se llevarán a cabo acciones en materia de detección, prevención y atención, las cuales deberán incluir:
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-a) La participación interinstitucional con enfoque interdisciplinario, orientada a la erradicación del suicidio.
+a) La participación interinstitucional con enfoque interdisciplinario, orientada a la erradicación de estas conductas.
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-b) La promoción de principios de equidad y no discriminación en el acceso y prestación a los servicios de salud, de quienes presenten alguna conducta suicida.
+b) La promoción de principios de equidad y no discriminación en el acceso y prestación a los servicios de salud, de quienes presenten alguna conducta suicida o de autolesión.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -2609,9 +2609,9 @@ d) La difusión de líneas de comunicación de contacto directo, atendidas por p
 
 e) El diseño de un protocolo de intervención, para los servicios de emergencia hospitalaria, considerando la coordinación entre las instituciones de servicios de salud del sector público y privado, y otros ámbitos comunitarios intervinientes.
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-f) La implementación de procedimientos posteriores a una conducta suicida, a fin de asistir y acompañar a las familias o instituciones vinculadas a la persona que intentó o se privó de la vida.
+f) La implementación de procedimientos posteriores a estas conductas, a fin de asistir y acompañar a las familias o instituciones vinculadas a la persona que las ejecutó.
 
 II.- La difusión de las orientaciones para la promoción de la salud mental.
 
@@ -4244,6 +4244,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0903/2024 XIV P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0902/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO, DE LA LEY DE SALUD MENTAL DEL ESTADO Y DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
