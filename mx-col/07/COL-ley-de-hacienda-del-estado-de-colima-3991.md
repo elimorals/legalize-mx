@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2024-06-29"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -6255,6 +6255,76 @@ Las partes en un juicio que se encuentre en trámite ante el Tribunal estarán e
 
 Los derechos, productos y aprovechamientos que el Tribunal esté autorizado a recibir en los términos de esta ley y otros ordenamientos jurídicos, se integrarán al fondo para el fortalecimiento institucional que para dicho Tribunal disponga y regule su Reglamento Interior.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+CAPÍTILO (SIC) XII
+
+Servicios prestados por la Fiscalía General del Estado de Colima
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+Artículo 64 BIS 2. Por los servicios prestados por la Fiscalía General del Estado de Colima, se pagarán los derechos siguientes:
+
+I. Por la expedición del certificado que acredite la
+
+verificación alfanumérica de automotor que determine
+
+la existencia o no de irregularidad en sus datos de
+
+identificación vehicular 10.000
+
+II. Por la expedición del certificado sobre la existencia
+
+o no de reporte de robo de vehículo automotor conforme
+
+a las bases de datos de la Fiscalía General del
+
+Estado de Colima 5.000
+
+III. Por la toma de muestra de perfil genético con dictamen
+
+de resultados del perfil genético recolectado 70.000
+
+IV. Por la realización de estudios químicos:
+
+a) Identificación de líquido seminal 20.000
+
+b) Pruebas de detección de hormona
+
+gonadotropina coriónica 05.000
+
+c) Examen presuntivo de metabolito de drogas de abuso 05.000
+
+d) Determinación de grupo sanguíneo y factor de RH 05.000
+
+V. Por la realización de estudios médicos:
+
+a) Examen de Toxicomanía 20.000
+
+b) Examen de Interdicción 50.000
+
+VI. Por la realización de estudios de criminalística:
+
+a) Avalúo de vehículos 15.000
+
+b) Avalúo comerciales 15.000
+
+c) Avalúo de daños 15.000
+
+VII. Por la toma de huellas dactilares 10.000
+
+VIII. Por la elaboración del dictamen de autenticidad o falsedad de firmas:
+
+a) Dictamen en grafoscopía para determinar autoría
+
+gráfica cuando es una firma cuestionada 70.000
+
+b) Firma adicional en el Dictamen en grafoscopía
+
+para determinar autoría gráfica 35.000
+
+IX. Documentoscopia 150.000
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO PRIMERO. Del Derecho por la Extracción de Minerales
@@ -7378,3 +7448,11 @@ P.O. 29 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 502. POR EL QUE SE ADICIONA AL TÍTULO SEGUNDO, EL CAPÍTULO XII, DENOMINADO SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO DE COLIMA, INTEGRADO POR EL ARTÍCULO 64 BIS 2 DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
