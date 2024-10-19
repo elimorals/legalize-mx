@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2024-05-15"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -189,11 +189,21 @@ I. Violencia familiar: Es el acto abusivo de poder u omisión intencional dirigi
 
 II. Violencia institucional: Son los actos u omisiones de las y los servidores públicos que discriminen, utilicen estereotipos o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
-III. Violencia laboral y docente: Es todo acto u omisión ejercido en abuso de poder por personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña su autoestima, salud, integridad, libertad y seguridad, impide su desarrollo y atenta contra la igualdad.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2023)</small>
+III. Violencia laboral y docente: Es todo acto de acoso, hostigamiento u omisión ejercido por cualquier persona que tiene un vínculo laboral, docente o análogo con la víctima, a fin de dañar su dignidad, autoestima, salud, integridad, libertad y seguridad, tendiente a impedir su desarrollo y atentar contra la igualdad.
 
-De igual modo, constituye violencia laboral la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; así como toda acción u omisión que directa o indirectamente provoque la brecha salarial de género, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley, y todo tipo de discriminación por condición de género.
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
+
+Para efectos de lo anterior, se entiende por:
+
+a) Acoso: Forma de violencia que se presenta en una serie de eventos que tienen como objetivo intimidar, excluir, opacar, aplanar, amedrentar o consumir emocional o intelectualmente a la víctima, causando un daño físico, psicológico, económico y laboral-profesional.
+
+Esta se puede presentar en forma horizontal, vertical ascendente o vertical descendente, ya sea en el centro de trabajo o fuera de este, siempre que esté vinculado a la relación laboral.
+
+b) Hostigamiento: El ejercicio de poder en una relación de subordinación real de la víctima frente a la persona agresora en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas.
+
+De igual modo, constituye violencia laboral la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; así como toda acción u omisión que directa o indirectamente provoque la brecha salarial de género, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley, y todo tipo de discriminación por condición de mujer.
 
 IV. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
 
@@ -1696,6 +1706,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLYC/0844/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII//RFLYC/0888/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO ADMINISTRATIVO, AMBOS DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
