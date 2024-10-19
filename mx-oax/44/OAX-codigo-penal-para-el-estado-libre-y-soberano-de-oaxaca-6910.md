@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-10-12"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2417,9 +2417,27 @@ II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y 
 
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
 ## TITULO NOVENO.
 
 Responsabilidad Profesional.
+
+### CAPITULO III.
+
+Responsabilidad profesional.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+223 Bis.- Se impondrán de tres meses a dos años de prisión, multa de hasta cien veces el valor diario vigente de la Unidad de Medida y Actualización y suspensión de tres meses a un año para ejercer la profesión a los directores, encargados, administradores o empleados de cualquier lugar donde se preste atención médica o instituciones de salud que:
+
+I. Impidan la salida de un paciente, aduciendo adeudos de cualquier índole;
+
+II. Impidan la entrega de un recién nacido, por el mismo motivo a que se refiere la parte final de la fracción anterior; y
+
+III. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
+
+La misma pena se impondrá a los directores, encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
 ### CAPITULO I.
 
@@ -2501,6 +2519,10 @@ VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un
 
 VII.- Al que obligue o coaccione a algún trabajador a firmar documentos en blanco, o de cualquier otro tipo que impliquen renuncia de los derechos del trabajador, o le imponga obligaciones a éste, con el fin de menoscabarlos o anularlos, ya sea que el trabajador labore en una empresa o institución pública o privada. En los casos que el patrón o empleador sea un servidor público, además de la sanción estipulada en el artículo 226 de este Código, se le destituirá del cargo.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO III.
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
@@ -2532,10 +2554,6 @@ IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
 En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días multa.
 
 Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO IV.
 
@@ -3695,6 +3713,12 @@ Trafico de menores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO IV.
 
 Desaparición forzada de personas.
@@ -3728,12 +3752,6 @@ La pena de prisión podrá ser disminuida hasta en una tercera parte en benefici
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012) (REPUBLICADA SU DEROGACIÓN, P.O. 12 DE MAYO DE 2018)
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO V.
 
@@ -4567,36 +4585,6 @@ En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hom
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO II
-
-De la Sustracción de Menores o Incapaces.
-
-(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020) (F. DE E., P.O. 24 DE ABRIL DE 2024)
-
-407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
-
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-407 Bis.- Se impondrá de las tres cuartas partes de la mínima a las tres cuartas partes de la máxima de la pena del delito de sustracción de menores o incapaces previsto en el artículo anterior, a quien:
-
-I. Ejerciendo la patria potestad, realice dicha conducta; o
-
-II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del menor o incapaz sin limitación de grado lo lleve a cabo.
-
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-408.-Si el sujeto activo a que se refiere el artículo anterior, devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -4654,6 +4642,36 @@ Las excusas absolutorias contenidas en las fracciones I, III y IV no serán apli
 ## TITULO VIGESIMO PRIMERO.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPITULO II
+
+De la Sustracción de Menores o Incapaces.
+
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020) (F. DE E., P.O. 24 DE ABRIL DE 2024)
+
+407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+407 Bis.- Se impondrá de las tres cuartas partes de la mínima a las tres cuartas partes de la máxima de la pena del delito de sustracción de menores o incapaces previsto en el artículo anterior, a quien:
+
+I. Ejerciendo la patria potestad, realice dicha conducta; o
+
+II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del menor o incapaz sin limitación de grado lo lleve a cabo.
+
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+
+408.-Si el sujeto activo a que se refiere el artículo anterior, devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO III.
 
@@ -4719,6 +4737,10 @@ En caso de no tener elementos suficientes del feminicidio, se judicializará por
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO III BIS.
 
 Alteraciones a la Salud por Razón de Género.
@@ -4752,10 +4774,6 @@ III. Cuando la conducta del sujeto activo cause deformidad incorregible en el ro
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO IV. Discriminación
 
@@ -4997,6 +5015,10 @@ I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO CUARTO. Excluyentes
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -5017,9 +5039,9 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
 
@@ -5070,10 +5092,6 @@ II. Cuando las conductas delictivas sean realizadas por persona o personas que h
 III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
-
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO UNICO
 
@@ -6566,6 +6584,14 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 12 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2428.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 282; SE ADICIONA EL ARTÍCULO 305 BIS Y LA FRACCIÓN VII AL ARTÍCULO 419 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2414.- MEDIANTE EL CUAL ADICIONA EL CAPÍTULO III QUE CONTIENE AL ARTÍCULO 223 BIS AL TÍTULO NOVENO "RESPONSABILIDAD PROFESIONAL" DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
