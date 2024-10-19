@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2024-09-21"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1127,9 +1127,13 @@ XXXI.- De Feminicidios.
 
 XXXII.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2021)
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-XXXIII.- De Turismo y Cultura.
+XXXIII.- De Turismo.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+
+XXXIV.- De Cultura.
 
 ###### ARTÍCULO 97.
 
@@ -1143,9 +1147,9 @@ Se constituirán, a más tardar, en la cuarta sesión posterior a la de instalac
 
 Tratándose de la Comisión Jurisdiccional se constituirá en la misma sesión referida en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-Las Comisiones Ordinarias de dictamen legislativo estarán constituidas con un mínimo de tres integrantes y un máximo de cinco; las contempladas en las fracciones I, III, IV, VIII, XIX y XXII del artículo 96 de esta Ley, estarán conformadas con un mínimo de cinco integrantes y un máximo de siete.
+Las Comisiones Ordinarias de dictamen legislativo estarán constituidas con un mínimo de tres integrantes y un máximo de cinco; las contempladas en las fracciones IV, VI, VIII, XIX, XXII y XXVIII del artículo 96 de esta Ley, estarán conformadas con un mínimo de cinco integrantes y un máximo de siete; las contempladas en las fracciones I y III, estarán conformadas con un mínimo de siete y un máximo de nueve integrantes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3606,3 +3610,13 @@ P.O. 21 DE SEPTIEMBRE DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para efectos de lo dispuesto en el párrafo segundo del artículo 15 Ter de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, el Reglamento a que hace alusión deberá ser expedido por el Pleno del H. Congreso, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0015/2024 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 96, FRACCIÓN XXXIII, Y 97, PÁRRAFO CUARTO; Y SE ADICIONA AL ARTÍCULO 96, LA FRACCIÓN XXXIV, AMBOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+TERCERO.- La Comisión de Cultura será la encargada de llevar a cabo el procedimiento para la entrega de la Medalla al Mérito Cultural del Estado de Chihuahua, Víctor Hugo Rascón Banda, que se realiza cada año.
