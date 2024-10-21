@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2024-04-29"
+last_updated: "2024-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -601,6 +601,22 @@ VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación 
 
 IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Contralor Municipal, al Secretario de Desarrollo Urbano y Ecología o, en su caso, al Director de Obras y Servicios Públicos Municipales, al Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, a propuesta del Presidente Municipal.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+La propuesta de nombramiento a que se refiere el párrafo anterior deberá presentarse al cabildo en un plazo no mayor de 48 horas contadas a partir de que se genere la vacante o de que sea solicitada por la tercera parte de los miembros del cabildo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+En caso de que la propuesta del Presidente Municipal no reúna la mayoría de votos establecida en el artículo 44 de este Código para su designación, le corresponderá a éste realizar una nueva propuesta al cabildo, con las mismas formalidades, en un plazo no mayor de 24 horas.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+Si la segunda propuesta no fuera aprobada por el cabildo, cualquiera de sus integrantes, de inmediato, podrá presentar propuestas de personas para ocupar el o los cargos vacantes, con las mismas formalidades aplicables a la propuesta del presidente municipal, a fin de que se proceda, enseguida, a su análisis, discusión, votación y, en su caso, aprobación.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+En caso de negativa u omisión por parte del Presidente Municipal de presentar la propuesta correspondiente en los plazos establecidos en el presente artículo, cualquiera de los miembros del cabildo podrá realizar la propuesta al mismo para que se discuta y, en su caso, se apruebe.
+
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
 X.- Administrar la hacienda municipal con arreglo a la ley y establecer un órgano de control y evaluación del gasto público municipal.
@@ -942,6 +958,10 @@ VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios p
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero Municipal, Contralor Municipal, Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, así como su remoción por causa justificada.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+La propuesta referida deberá sujetarse al procedimiento previsto en la fracción IX del artículo 49 del presente Código.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1467,11 +1487,11 @@ XX.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
 ARTICULO 72 QUINQUIES.- Se establece la coordinación institucional entre los órganos de control del Poder Ejecutivo, del Poder Legislativo y de los Ayuntamientos, así como con el Sistema Estatal Anticorrupción y el Sistema Estatal de Fiscalización, para unificar criterios en los métodos, procedimientos y alcances sobre las funciones de seguimiento, control y evaluación; instrumentar, participar y recibir la capacitación para el mejor desempeño de sus funciones, de las actualizaciones del marco normativo y de los sistemas de seguimiento y revisiones; formular consultas sobre aspectos operativos o normativos; intercambiar experiencias y elaborar propuestas de mejoramiento de la administración pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2024)</small>
 
-###### ARTICULO 73.
+###### ARTÍCULO 73.
 
-El Ayuntamiento, a propuesta del Presidente Municipal, deberá nombrar un Secretario de Desarrollo Urbano y Ecología o, en su caso, un Director de Obras y Servicios Públicos Municipales, quien tendrá las siguientes facultades y obligaciones:
+El Ayuntamiento, a propuesta del Presidente Municipal, deberá nombrar un Secretario de Desarrollo Urbano y Ecología o, en su caso, un Director de Obras y Servicios Públicos Municipales, la propuesta referida deberá sujetarse al procedimiento previsto en la fracción IX del artículo 49 del presente Código, quien tendrá las siguientes facultades y obligaciones:
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
@@ -7164,6 +7184,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-838 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 49 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P. O. 21 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-14 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 73, PÁRRAFO PRIMERO; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO A LA FRACCIÓN IX DEL ARTÍCULO 49; Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN VII DEL ARTÍCULO 55 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
