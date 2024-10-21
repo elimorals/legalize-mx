@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-los-fideicomisos-instituidos-en-113701"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-30"
-last_updated: "2021-06-02"
+last_updated: "2024-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2026-10-05"
 
 ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2024.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 30 de marzo de 2016.
 
@@ -1990,6 +1990,46 @@ Las reglas de operación de cada uno de los Comités correspondientes establecer
 
 Las unidades administrativas serán responsables en el ámbito de su competencia, de cumplir con los acuerdos, recomendaciones, instrucciones y acciones de seguimiento que emitan los Comités Técnicos y otros Comités de FIRA.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+DE LOS ÓRGANOS INTERNOS DE CONTROL
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 133.
+
+En FIRA ejercerán sus atribuciones los Órganos Internos de Control Especializados en Fiscalización; Control Interno; Contrataciones Públicas; Quejas, Denuncias e Investigaciones; y Responsabilidades, respecto de su materia en el Ramo Hacienda, según lo determinó la Secretaría de la Función Pública, en términos de lo dispuesto por el artículo 37 fracciones XI Bis y XII, de la Ley Orgánica de la Administración Pública Federal; así como con lo establecido en el Reglamento Interior de la Secretaría de la Función Pública y demás normativa aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+DE LA OFICINA DE REPRESENTACIÓN
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 134.
+
+FIRA contará con una Oficina de Representación para auxiliar a los Órganos Internos de Control Especializados y a sus Áreas de Especialidad en el Ramo Hacienda, según su materia, de conformidad con el Reglamento Interior de la Secretaría de la Función Pública, así como con la normativa que al efecto emita dicha Secretaría.
+
+La Oficina de Representación contará con el personal necesario que permita su operación y tendrá el carácter de Unidad Administrativa adscrita a FIRA; estará a cargo de un Jefe de Oficina designado o nombrado por el Coordinador General de Gobierno de Órganos de Control y Vigilancia, de la Secretaría de la Función Pública, de quien dependerá jerárquicamente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 135.
+
+El Jefe de la Oficina de Representación en FIRA tendrá las atribuciones generales y las facultades específicas previstas en el "ACUERDO por el que se extinguen órganos internos de control específicos, se crean oficinas de representación, y se asigna la dependencia, entidad paraestatal y órgano administrativo desconcentrado que integran el ramo en que ejercerán sus funciones los órganos internos de control especializados y las unidades administrativas que los auxilia" publicado en el Diario Oficial de la Federación el 21 de diciembre de 2023, el Reglamento Interior de la Secretaría de la Función Pública y las demás facultades que le confieran otros ordenamientos, mismas que ejercerá con el auxilio del personal que tenga adscrito.
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 136.
+
+FIRA proporcionará los recursos humanos, tecnológicos, materiales y presupuestales que requiera la Oficina de Representación y observará en todo momento lo establecido en el artículo Décimo Transitorio de la reforma a la Ley Orgánica de la Administración Pública Federal, publicada en el Diario Oficial de la Federación el 3 de mayo de 2023.
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 137.
+
+Las personas servidoras públicas adscritas a la Entidad, dentro del ámbito de su competencia, están obligadas a atender los requerimientos de información y resoluciones de las personas servidoras públicas que integran y auxilian a los Órganos Internos de Control Especializados, de conformidad con la normativa aplicable.
+
 TRANSITORIOS (SIC)
 
 UNICO.- El presente Estatuto entrará en vigor a partir del 16 de abril de 2016.
@@ -2015,3 +2055,9 @@ D.O.F. 2 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA”.]
 
 ÚNICO.- El presente Estatuto Orgánico, entrará en vigor una vez que se cuente con las (sic) aprobación y registro emitido por la Secretaría de la Función Pública.
+
+D.O.F. 21 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LOS FIDEICOMISOS INSTITUIDOS EN RELACIÓN CON LA AGRICULTURA".]
+
+ÚNICO. - El presente Estatuto Orgánico, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
