@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2023-06-19"
+last_updated: "2024-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -844,6 +844,10 @@ XXII. Coadyuvar con el Presidente Municipal en la substanciación de los recurso
 XXIII. Coordinarse con Síndicos de Municipios vecinos como colaboración en la resolución de conflictos presentados; y
 
 XXIV. Las demás que expresamente le otorgue el Presente Código, demás leyes y disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+XXV. Presidir la comisión de Hacienda Pública, Gobierno y Seguridad Pública.
 
 ## TÍTULO TERCERO. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -1689,53 +1693,25 @@ Las comisiones especiales serán integradas a propuesta por el Presidente Munici
 
 Las comisiones especiales deberán rendir sus dictámenes, en la siguiente sesión ordinaria a la fecha en que se turnen los asuntos de su competencia. Debiendo observar lo establecido en este Capítulo.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 178.
 
 El Ayuntamiento nombrará las comisiones que tendrán la obligación de vigilar el ramo de la administración que se les encomiende, y tendrán el carácter de comisiones permanentes las siguientes:
 
-I. Gobernación;
+I. Hacienda Pública, Gobierno y Seguridad Pública; presidida por el Síndico Municipal.
 
-II. Hacienda, Presupuesto, Contabilidad, Programación y Gasto Público;
+II. Desarrollo Social, Educación, Cultura, Deporte y Juventud;
 
-III. Protección Civil, Seguridad Pública, Tránsito y Vialidad;
+III. Desarrollo Urbano, Obra Pública y Agua Potable;
 
-IV. Desarrollo Rural Sustentable;
+IV. Desarrollo Económico, Agropecuario, Rural y Turismo;
 
-V. Agua Potable, Drenaje, Alcantarillado y Saneamiento;
+V. Servicios Públicos y Medio Ambiente;
 
-VI. Desarrollo Urbano y Obra Pública;
+VI. Salud, Protección Civil y Paramédicos; y
 
-VII. Desarrollo Social y Humano;
-
-VIII. Mercados, Rastros y Estacionamientos;
-
-IX. Educación, Cultura, Deporte y Juventud;
-
-X. Salubridad y Beneficencia Pública;
-
-XI. Ecología;
-
-XII. Limpia y Alumbrado Público;
-
-XIII. Parques y Jardines;
-
-XIV. Relojes y Panteones;
-
-XV. Participación Ciudadana;
-
-XVI. Planeación del Desarrollo Municipal;
-
-XVII. Nomenclaturas;
-
-XVIII. Control Reglamentario, Licencias y Espectáculos Públicos;
-
-XIX. Reglamentos y Justicia;
-
-XX. Derechos Humanos;
-
-XXI. Equidad de Género; y
-
-XXII. Economía, Turismo y Asuntos internacionales.
+VII. Equidad de Género, Derechos Humanos y Familia.
 
 Así como todas las demás que el Cabildo considere necesarias para el cumplimiento de sus funciones.
 
@@ -2293,43 +2269,37 @@ El Presidente Municipal, los regidores y el síndico no podrán separarse del ej
 
 ### CAPÍTULO III. De las Dependencias de la Administración Pública Municipal
 
-###### ARTÍCULO 212.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
 
-Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
+###### Artículo 212.
 
-I. Oficina del Presidente Municipal;
+Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la oficina de Presidencia Municipal contará con las siguientes unidades administrativas:
 
-II. Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+I. OFICINA DEL PRESIDENTE MUNICIPAL;
 
-III. Dirección de Administración y Finanzas;
+II. SECRETARIA DEL H. AYUNTAMIENTO;
 
-IV. Dirección del Sistema para el Desarrollo Integral de la Familia;
+III. DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS;
 
-V. Dirección de Desarrollo Social;
+IV. DIRECCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL PARA LA FAMILIA MUNICIPAL;
 
-VI. Dirección de Servicios Públicos Municipales y Medio Ambiente;
+V. ÓRGANO INTERNO DE CONTROL;
 
-VII. Dirección de Obras Públicas y Planeación;
+VI. DIRECCIÓN DE SERVICIOS PÚBLICOS;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+VII. DIRECCIÓN DE OBRAS PÚBLICAS;
 
-VIII. Dirección de Agua Potable, Alcantarillado y Saneamiento
+VIII. INSTANCIA DE LA MUJER;
 
-IX. Dirección de Seguridad Pública y Vialidad;
+IX. DIRECCIÓN DE DESARROLLO SOCIAL;
 
-X. Contraloría Municipal;
+X. DIRECCIÓN DE DESARROLLO RURAL, ECONÓMICO Y AGROPECUARIO;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+XI. DIRECCIÓN DE AGUA POTABLE;
 
-XI. Consejo de la Juventud de El Llano;
+XII. DIRECCIÓN DE DESARROLLO URBANO; y
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
-
-XII. Consejos y Comités Ciudadanos Municipales; y
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
-
-XIII. Dirección de la Instancia Municipal de Atención a las Mujeres.
+XIII. DIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD.
 
 ###### ARTÍCULO 213.
 
@@ -2339,145 +2309,145 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
 
-###### ARTÍCULO 215.
+###### Articulo 215.
 
-Las dependencias de la Administración Pública podrán contar con las siguientes unidades administrativas:
+las dependencias de la Administración Pública podrán contar con las siguientes unidades administrativas:
 
-I. De la Oficina del Presidente Municipal, la cual se integrará por las siguientes estructuras:
+I. OFICINA DEL PRESIDENTE MUNICIPAL
 
-A. Secretaría Particular;
+A. SECRETARÍA PARTICULAR
 
-II. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, integrada por:
+II. SECRETARIA DEL H. AYUNTAMIENTO
 
-A. Departamento de Asuntos Jurídicos;
+A. SECRETARIA TÉCNICA
 
-B. Departamento de Reglamentos y Licencias;
+B. JEFE DE DEPARTAMENTO DE ASUNTOS JURÍDICOS
 
-C. Departamento de Comunicación Social y Relaciones Públicas;
+C. JEFE DE DEPARTAMENTO DE REGLAMENTOS
 
-D. Departamento de Jueces Calificadores;
+D. COORDINACIÓN DE PROTECCIÓN CIVIL
 
-E. Departamento de Salubridad y Pie Mostrenco;
+E. JEFE DE DEPARTAMENTO DE COMUNICACIÓN SOCIAL
 
-F. Protección Civil;
+F. JEFE DE DEPARTAMENTO DE ACCIÓN CÍVICA, GIRAS Y EVENTOS
 
-III. Del Sistema para el Desarrollo Integral de la Familia:
+G. JEFE DE DEPARTAMENTO DE ARCHIVO MUNICIPAL
 
-A. Presidencia Honoraria;
+H. JEFE DE DEPARTAMENTO DE ATENCIÓN PREHOSPITALARIA
 
-B. Dirección General;
+I. JEFE DE DEPARTAMENTO DE ATENCIÓN CIUDADANA
 
-C. Departamento de Programas Gubernamentales;
+III. DIRECCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL PARA LA FAMILIA MUNICIPAL
 
-D. Departamento de Psicología y Trabajo Social;
+A. PRESIDENCIA HONORARIA
 
-E. Coordinación de Grupos de la Tercera Edad;
+B. DIRECCIÓN GENERAL
 
-F. Rehabilitación Física y Terapia;
+C. JEFE DE DEPARTAMENTO DE PROGRAMAS GUBERNAMENTALES
 
-> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 8 DE JULIO DE 2019)</small>
+D. JEFE DE DEPARTAMENTO DE INAPAM
 
-IV. Contraloría Municipal:
+E. JEFE DE DEPARTAMENTO DE ASUNTOS JURÍDICOS
 
-A. Departamento de Transparencia.
+F. JEFE DE DEPARTAMENTO DE TRABAJO SOCIAL
 
-B. Autoridad Investigadora.
+G. JEFE DE DEPARTAMENTO DE COCINA
 
-C. Autoridad Substanciadora
+H. JEFE DE DEPARTAMENTO ÁREA MÉDICA
 
-D. Departamento de Auditorías, Mejora Regulatoria, Simplificación administrativa e innovación.
+1. COORDINACIÓN DE PSICOLOGÍA
 
-V. Dirección de Administración y Finanzas;
+2. COORDINACIÓN DE TERAPIA FISICA
 
-A. Director Municipal;
+3. COORDINACIÓN DE NUTRICIÓN
 
-B. Contador General;
+IV. DIRECTOR DE ADMINISTRACIÓN Y FINANZAS
 
-C. Área Contable de Ingresos y Egresos;
+A. JEFE DE DEPARTAMENTO DE INGRESOS
 
-D. Área de Catastro;
+B. JEFE DE DEPARTAMENTO DE CONTABILIDAD
 
-E. Departamento de Ramos Federales;
+C. JEFE DE DEPARTAMENTO DE RECURSOS HUMANOS
 
-F. Departamento de Recursos Humanos;
+D. JEFE DE DEPARTAMENTO DE ADQUISICIONES
 
-G. Departamento de Informática;
+E. JEFE DE DEPARTAMENTO DE CONTROL PATRIMONIAL Y VEHICULAR
 
-H. Departamento de Patrimonio, Compras y Suministros de material;
+F. JEFE DE DEPARTAMENTO DE INFORMÁTICA
 
-a. Área de Control Vehicular;
+V. DEL ÓRGANO INTERNO DE CONTROL
 
-b. Área de eventos especiales;
+A. TITULAR DE LA UNIDAD DE INVESTIGACIÓN
 
-VI. Dirección de Servicios Públicos Municipales y Medio Ambiente:
+B. TITULAR DE LA UNIDAD DE SUBSTANCIADORA Y RESOLUTORA
 
-I. Departamento de Atención al Público y Calidad de los Servicios;
+C. TITULAR DE LA UNIDAD DE TRANSPARENCIA
 
-II. Área de limpia y aseo público;
+D. TITULAR DE LA UNIDAD DE FISCALIZACIÓN
 
-III. Área de alumbrado público;
+E. TITULAR DE LA UNIDAD DE CONTROL INTERNO Y DESEMPEÑO INSTITUCIONAL
 
-IV. Parques y Jardines;
+VI. DIRECCIÓN DE SERVICIOS PÚBLICOS
 
-V. Administración y mantenimiento de servicios;
+A. JEFE DE DEPARTAMENTO DE PARQUES Y JARDINES
 
-VI. Área de mantenimiento de vialidades e infraestructura urbana;
+B. JEFE DE DEPARTAMENTO DE ALUMBRADO PUBLICO
 
-VII. Área de Medio Ambiente;
+C. JEFE DE DEPARTAMENTO DE LIMPIA Y RECOLECCIÓN
 
-VII (SIC). Dirección de Desarrollo Social, conformada por:
+D. JEFE DE DEPARTAMENTO DE PANTEONES
 
-A. Departamento de Programas Gubernamentales;
+VII. DIRECCIÓN DE OBRAS PÚBLICAS
 
-B. Departamento de Educación, Salud, Cultura y Deporte;
+A. JEFE DE DEPARTAMENTO DE PROYECTOS
 
-C. Departamento de Desarrollo Económico, Turismo y Asuntos Internacionales;
+B. JEFE DE DEPARTAMENTO DE LICITACIÓN
 
-D. Departamento de Desarrollo Rural Sustentable;
+C. JEFE DE DEPARTAMENTO DE SUPERVISIÓN
 
-E. Departamento de Gestión Social;
+VIII. INSTANCIA DE LA MUJER
 
-F. Departamento de Promoción y Concertación;
+IX. DIRECCIÓN DE DESARROLLO SOCIAL
 
-G. (DEROGADO, P.O. 19 DE JUNIO DE 2023)
+A. COORDINADOR DE JUVENTUD Y DEPORTE
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+B. JEFE DE DEPARTAMENTO DE CULTURA
 
-H. Departamento del Patronato de la Feria Municipal;
+C. JEFE DE DEPARTAMENTO DE ATENCIÓN AL MIGRANTE
 
-VIII. Dirección de Obras Públicas y Planeación, estará conformada por:
+X. DIRECCIÓN DE DESARROLLO RURAL, ECONÓMICO Y AGROPECUARIO
 
-A. Departamento de Costos y precios unitarios;
+A. DEPARTAMENTO DE DESARROLLO RURAL Y AGROPECUARIO
 
-B. Departamento de Planeación y Desarrollo Urbano;
+B. DEPARTAMENTO DE DESARROLLO ECONÓMICO
 
-C. Departamento de proyectos y supervisión de obras;
+1. COORDINACIÓN DE TURISMO
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+XI. DIRECCIÓN DE AGUA POTABLE
 
-IX. Dirección de Agua Potable, Alcantarillado y Saneamiento, integrada por:
+A. JEFE DE DEPARTAMENTO DE CULTURA DEL AGUA
 
-A. Departamento Operativo;
+B. JEFE DE DEPARTAMENTO DE CUADRILLAS
 
-B. Departamento administrativo y de ingresos;
+1. COORDINACIÓN DE PURIFICADORAS
 
-C. Departamento de Cultura del Agua;
+C. DEPARTAMENTO ADMINISTRATIVO Y DE INGRESOS
 
-X. Dirección de Seguridad Pública y Vialidad, conformada por:
+XII. DIRECCIÓN DE DESARROLLO URBANO
 
-A. Subdirección de Seguridad Pública y Vialidad;
+A. DIRECCIÓN DE DESARROLLO URBANO
 
-B. Departamento de Tránsito y Vialidad;
+B. JEFE DE DEPARTAMENTO DE MEDIO AMBIENTE
 
-C. Departamento de Prevención del Delito.
+XIII. DIRECCION DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-De igual manera el Ayuntamiento para el logro de sus fines podrá contar con delegados, comisarios, y demás organismos, Consejos y Comités Ciudadanos Municipales necesarios para el apoyo, con arreglo a este Código Municipal.
+A. SUBDIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+B. DEPARTAMENTO DE TRÁNSITO Y VIALIDAD
 
-XI. Dirección de la Instancia Municipal de Atención a las Mujeres.
+C. DEPARTAMENTO DE PREVENCIÓN DEL DELITO.
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -2577,21 +2547,35 @@ VI. Ser vecino del municipio dos años anteriores al día de su designación.
 
 Al frente de la Dirección de Administración y Finanzas habrá un profesionista, que se denominará Director de Administración y Finanzas, servidor público que será nombrado por el Ayuntamiento en base a la propuesta del Presidente Municipal para el desempeño del cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 227.
 
 Para ser Director de Administración y Finanzas del municipio se deberán reunir los requisitos que marca la Ley Municipal para el Estado de Aguascalientes, además de los siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2024)</small>
+
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2024)</small>
 
 II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
 
-III. Poseer título de Licenciatura expedido en alguna carrera profesional de las ciencias económicas y administrativas o contables;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+III. Poseer título de Licenciatura y/o constancia que acredite el grado de estudios y preparación en alguna carrera y/o materia profesional en las áreas de ciencias económicas, administrativas, contable y/o de especialidad en matemáticas.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2024)</small>
 
 IV. Tener experiencia mínima de un año en los asuntos contables;
 
-V. No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el cuarto grado, del Presidente Municipal;
+V. (DEROGADA, P.O. 21 DE OCTUBRE DE 2024)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2024)</small>
 
 VI. No presentar antecedentes criminales, ni penales, ni policiales relativos a haber sufrido condena por la comisión de delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2024)</small>
 
 VII. Ser vecino del municipio dos años anteriores al día de su designación.
 
@@ -2617,15 +2601,19 @@ VI. No ser pariente consanguíneo en línea recta en cualquier grado o en línea
 
 VII. No presentar antecedentes criminales, ni penales, ni policiales relativos a haber sufrido condena por la comisión de delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 230.
 
-Al frente de la Contraloría Municipal, habrá un profesionista, que se denominará Contralor Municipal, servidor público que será nombrado por el Presidente Municipal.
+Al frente del Órgano Interno de Control, habrá un profesionista, que se denominará Titular del Órgano Interno de Control, servidor público que será nombrado por el Ayuntamiento. El Presidente Municipal en un plazo no mayor de 30 días hábiles después de la instalación del Ayuntamiento, someterá en la sesión de cabildo una terna de candidatos a ocupar dicho cargo, quienes serán entrevistados por los miembros del Ayuntamiento con derecho a voz y voto, seleccionando a la persona más idónea para ocupar el cargo, mediante la votación de la mayoría relativa de los miembros del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 231.
 
-Para ser Contralor Municipal se deberán reunir los requisitos siguientes:
+Para ser Titular del Órgano Interno de Control se deberán reunir los requisitos siguientes:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+I. Ser mexicano, en pleno ejercicio de sus derechos y mayor de 21 años;
 
 II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
 
@@ -2636,6 +2624,10 @@ IV. Tener experiencia mínima de un año en procesos de auditoría contable, fis
 V. No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el cuarto grado, del Presidente Municipal; y
 
 VI. No presentar antecedentes criminales, ni penales, ni policiales relativos a haber sufrido condena por la comisión de delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 231 BIS.- El personal adscrito a las áreas de auditoría, investigación, substanciación, resolución, transparencia y control interno y desempeño institucional del Órgano Interno de Control, estará sujeto a un régimen de servicio profesional que se apegue a los principios que rigen al servicio público, con el objetivo de ser candidatos para desempeñar como autoridades dentro del órgano Interno de Control, e incluso como titulares de (sic) Órgano Interno de Control Municipal.
 
 ###### ARTÍCULO 232.
 
@@ -2679,57 +2671,63 @@ VII. Recabar y analizar las peticiones de la ciudadanía, registrarlas y abrir e
 
 VIII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
-### CAPÍTULO II. De la Contraloría Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+### CAPÍTULO II. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 235.
 
-Corresponde a la Contraloría Municipal:
+Corresponde al Órgano Interno de Control:
 
-I. Coordinar con el Departamento de Mejora Regulatoria, Simplificación administrativa e innovación, las reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
+El Órgano Interno de Control tendrá a su cargo la prevención, promoción, fortalecimiento, control, evaluación e inspección, así como la investigación, calificación y substanciación de las faltas administrativas graves, no graves cometidas por los Servidores Públicos y/o ex Servidores Públicos, mediante el ejercicio de las siguientes facultades y atribuciones:
 
-A. Eficiencia, control programático presupuestal;
+I. Evaluar el Sistema de Control Interno en la Administración Pública Municipal;
 
-B. Eficacia, control del logro de objetivos; y
+II. Vigilar el control de los recursos patrimoniales del Municipio;
 
-C. Legitimidad, encuestas ciudadanas, medición del impacto de las acciones de gobierno en la población.
+III. Fijar, en su caso, las normas internas de carácter obligatorio necesarias para el ejercicio del control administrativo y contable;
 
-II. Operar el Programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios prestados;
+IV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados;
 
-III. Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y Egresos Municipales.
+V. Practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades de la administración pública municipal como empresas paramunicipales, fideicomisos y organismos públicos descentralizados;
 
-IV. Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, eficiencia y orden;
+VI. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento;
 
-V. Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos.
+VII. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por el Órgano Interno de Control las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-VI. Vigilar y coordinar la adecuada entrega – recepción de las dependencias municipales.
+VIII. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer al Órgano Interno de Control;
 
-VII. Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida.
+IX. Dictaminar la Cuenta de la Hacienda Pública Municipal que formula la Dirección de Finanzas;
 
-VIII. Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales.
+X. Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
 
-IX. Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y Estatal.
+XI. Fincar pliegos preventivos de responsabilidad cuando detecte irregularidades por actos u omisiones de servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Municipio o de aquellos concertados con la Federación y el Estado que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública Municipal, de la Federación, del Estado o al patrimonio de sus entidades, organismos descentralizados, auxiliares y fideicomisos públicos;
 
-X. Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior.
+XII. Informar al Presidente Municipal y al Síndico sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal;
 
-XI. Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del municipio, y el adecuado equilibrio presupuestal.
+XIII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución;
 
-XII. Vigilar que las obras realizadas por el municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas.
+XIV. Ejecutar las funciones establecidas en el Código Municipal y en la Legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
 
-XIII. Establecer y vigilar el proceso de control y evaluación del gasto público, en relación con el presupuesto de egresos, las políticas y los programas municipales.
+XV. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño;
 
-XIV. Realizar las evaluaciones y seguimientos de los asuntos en que intervenga.
+XVI. Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el Código Municipal;
 
-XV. Informar al Presidente Municipal de los Resultados y avances en el cumplimiento de sus atribuciones.
+XVII. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Nacional y el Sistema Estatal Anticorrupción;
 
-XVI. Generar las políticas de transparencia en el manejo de los recursos públicos y las solicitudes de acceso a la información, así como dar seguimiento a los recursos legales interpuestos.
+XVIII. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos y participaciones públicas, según corresponda en el ámbito de su competencia;
 
-XVII. Coordinar el Comité Municipal de Transparencia, el cual se integrará y sesionará bimestralmente con el regidor de la Comisión de Hacienda, Presupuesto, Contabilidad, Programación y Gasto Publico, cinco ciudadanos distinguidos del Municipio, representantes de organizaciones económicas, sociales y laborales.
+XIX. Presentar denuncias por hechos que las leyes señalen como presuntamente constitutivos de delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado;
 
-XVIII. Certificar los documentos emanados de la Contraloría Municipal o que se encuentren en sus archivos.
+XX. Vigilar el cumplimiento de las obligaciones de proveedores y contratistas de la Administración Pública Municipal;
 
-XIX. Lo demás que señale la Ley, la Ley de responsabilidades Administrativas del Estado de Aguascalientes, demás ordenamientos aplicables o el H. Ayuntamiento por conducto del Presidente Municipal.
+XXI. Administrar y vigilar la presentación de las Declaraciones Patrimoniales de Interés por parte de los Servidores Públicos y ex Servidores Públicos.
+
+XXII. Emplear medidas de apremio permitidas por las leyes y reglamentos aplicables, cuando fueren necesarias para el ejercicio de sus funciones; y
+
+XXIII. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -17066,3 +17064,35 @@ Las presentes reformas iniciarán su vigencia al día siguiente de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
+
+P.O. 21 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 227 DEL CÓDIGO MUNICIPAL DE EL LLANO”.]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA Y ADICIONES A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO”.]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA DE LOS ARTÍCULOS 212 Y 215 DEL CÓDIGO MUNICIPAL DE EL LLANO, AGUASCALIENTES”.]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación el Periódico Oficial.
+
+SEGUNDO.- El (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 178 DEL CÓDIGO MUNICIPAL DE EL LLANO".]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
