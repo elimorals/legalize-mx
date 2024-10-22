@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-las-zonas-145830"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2024-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145830&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-12-15"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE OCTUBRE DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 30 de diciembre de 2020.
 
@@ -433,11 +433,37 @@ XXVIII. Ejecutar las demás funciones y trabajos que le encomiende el Director G
 
 La Dirección Jurídica, contará con la Subdirección de lo Contencioso, contando en su caso con el apoyo de los departamentos que le sean adscritos en la Estructura Organizacional de la CONAZA quienes realizarán las funciones previstas en el manual de organización respectivo
 
-### CAPÍTULO V. DE LOS ÓRGANOS DE VIGILANCIA Y CONTROL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO V. DE LOS ÓRGANOS INTERNOS DE CONTROL
+
+> <small>(REFORMADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-La CONAZA cuenta con los órganos de vigilancia y de control interno a que se refieren la Ley Orgánica de la Administración Pública Federal y la Ley Federal de las Entidades Paraestatales, los que ejercerán las facultades que se establecen en los mismos ordenamientos y demás disposiciones aplicables. Los titulares de los órganos de vigilancia y de control interno, serán designados, en los términos previstos en la Ley Orgánica de la Administración Pública Federal.
+Esta entidad paraestatal contará con los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, según lo determine la Secretaría de la Función Pública, en términos de lo dispuesto por el artículo 37 fracciones XI Bis, y XII, de la Ley Orgánica de la Administración Pública Federal; así como con lo establecido en el Reglamento Interior de la Secretaría de la Función Pública y demás normativa aplicable.
+
+> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 22 BIS.- Los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, serán responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en términos de las leyes y disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 22 BIS 1.- Cuando la Secretaría de la Función Pública determine la creación de una oficina de representación, esta auxiliará a los Órganos Internos de Control Especializados y a sus Áreas de Especialidad, según su materia y ramo que les corresponda, de conformidad con el Reglamento Interior de la Secretaría de la Función Pública, así como con la normativa que al efecto emita dicha Secretaría.
+
+La Oficina de Representación contará con el personal necesario que permita su operación, y tendrá el carácter de unidad administrativa adscrita a esta entidad paraestatal y estará a cargo de un jefe de oficina designado o nombrado por el Coordinador General de Gobierno de Órganos de Control y Vigilancia, de la Secretaría de la Función Pública, de quien dependerán jerárquicamente.
+
+Para efectos del funcionamiento de la Oficina de Representación, también tendrán el carácter de superiores jerárquicos los Titulares de los Órganos Internos de Control Especializados y los Titulares de las áreas de especialidad, en la materia y ramo que les corresponda.
+
+El personal adscrito a las áreas de especialidad y a las oficinas de representación podrá ser comisionado para coadyuvar con otras Unidades Administrativas de la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 22 BIS 2.- La Comisión Nacional de las Zonas Áridas, proporcionará los recursos humanos, tecnológicos, materiales y presupuestales que requiera la Oficina de Representación. Observará en todo momento lo establecido en el artículo Décimo Transitorio de la reforma a la Ley Orgánica de la Administración Pública Federal, publicada en el Diario Oficial de la Federación el 3 de mayo de 2023.
+
+> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
+
+ARTÍCULO 22 BIS 3.- Las personas servidoras públicas adscritas a la entidad, dentro del ámbito de su competencia, están obligadas a atender los requerimientos de información y resoluciones de las personas servidoras públicas que integran y auxilian a los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, de conformidad con la normativa aplicable.
 
 ### CAPÍTULO VI. DE LAS DIRECCIONES DE ENLACE TÉCNICO
 
@@ -526,3 +552,9 @@ SEXTO.- Las menciones contenidas en otras leyes, reglamentos y en general en cua
 El presente Estatuto Orgánico fue aprobado por el Consejo Directivo de la Comisión Nacional de las Zonas Áridas, en su 155 sesión ordinaria celebrada en la ciudad de Saltillo, Coahuila de Zaragoza el 24 de junio de 2020.
 
 Saltillo, Coahuila de Zaragoza, a 15 de diciembre de 2020.- El Director General de la Comisión Nacional de las Zonas Áridas, Ramón Antonio Sandoval Noriega.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. EL "AVISO DE MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL.]</small>
