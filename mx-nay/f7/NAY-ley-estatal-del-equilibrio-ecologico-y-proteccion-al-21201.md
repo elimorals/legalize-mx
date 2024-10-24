@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2024-04-08"
+last_updated: "2024-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -1913,15 +1913,27 @@ El Gobierno del Estado y los Municipios deberán formular, proponer y participar
 
 El Gobierno del Estado podrá implementar, fomentar y gestionar campañas de donación alimentaria, a fin de preservar el bienestar animal de perros y gatos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 110.
 
-Los Municipios elaborarán los programas que tendrán por objeto realizar políticas y medidas concretas para regular el trato digno que debe darse a los animales, la defensa, protección, salud y bienestar de los animales domésticos, impulsando y llevando a cabo acciones a tal fin.
+El Estado y los Municipios elaborarán y aprobarán los programas que tendrán por objeto establecer políticas y medidas concretas para regular el trato digno y respetuoso que debe darse a los animales, la defensa, protección, salud y bienestar de los animales domésticos, impulsando y llevando a cabo acciones para tal fin.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
-Además, deberán formular, expedir y ejecutar campañas de esterilización y vacunación de perros y gatos en coordinación con las autoridades en materia de salud y con las asociaciones protectoras de animales.
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
+
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
+
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a los animales la expresión de su comportamiento natural, y
+
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
+El Estado, los Municipios y en su caso, con las asociaciones protectoras de animales, promoverán en la medida de lo posible la formulación y ejecución de campañas de esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
+
+El Estado y los Municipios podrán coordinarse desde el ámbito de sus respectivas competencias para el cumplimiento de lo dispuesto en el párrafo anterior.
 
 ###### Artículo 111.
 
@@ -4252,3 +4264,11 @@ P.O. 8 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
 
 SEGUNDO. Notifíquese el presente Decreto para sus efectos conducentes, a la persona titular de la Secretaría de Desarrollo Sustentable.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 110 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT EN MATERIA DE BIENESTAR ANIMAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El establecimiento de clínicas veterinarias públicas estará sujeto a la disponibilidad presupuestaria del Estado y de los Municipios en cada ejercicio fiscal.
