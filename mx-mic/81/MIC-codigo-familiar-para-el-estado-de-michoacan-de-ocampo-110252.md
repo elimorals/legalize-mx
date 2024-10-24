@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2023-11-30"
+last_updated: "2024-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -71,9 +71,13 @@ Se reconoce a la familia como la base en la integración de la sociedad y del Es
 
 El Estado garantizará y protegerá la constitución, organización y el funcionamiento armónico de la familia como el mejor medio para lograr el orden y la paz social.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 5.
 
-Las disposiciones de este Código tienen por objeto proteger la organización de la familia y el desarrollo integral de sus miembros, basados en el respeto a la dignidad y a los derechos humanos.
+Las disposiciones de este Código tienen por objeto proteger la organización de la familia y el desarrollo integral de sus miembros, basados en el respeto a la dignidad, a los derechos humanos y a una perspectiva de familia.
+
+La perspectiva de familia, permite a todas las autoridades en los distintos ámbitos de su competencia tomar en cuenta la realidad familiar, para poder adaptar y adoptar transversalmente medidas que salvaguarden la cohesión familiar, su estructura y sus dinámicas.
 
 ###### Artículo 6.
 
@@ -7686,3 +7690,11 @@ P.O. 30 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 463 POR EL QUE “SE ADICIONA UN ARTÍCULO 394 BIS AL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 697.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 5 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Corresponderá al Titular del Poder Ejecutivo en el Estado, la adecuación de los reglamentos de las dependencias que lo conforman, a efecto de que se incluya en los mismos la disposición normativa materia del presente Decreto.
