@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2024-01-03"
+last_updated: "2024-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -621,11 +621,15 @@ Asimismo, en la primera sesión de cada año se entregará y difundirá el infor
 
 En ningún caso la discapacidad será motivo de discriminación para el otorgamiento de un empleo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 42.
 
-Es obligación de los tres Poderes del Estado, gobiernos municipales, sus organismos descentralizados, empresas de participación estatal y organismos autónomos garantizar la inclusión laboral de las personas con discapacidad, teniendo la obligación de contratar, como mínimo el 3% de la planta laboral correspondiente a personas con discapacidad.
+Es obligación de los tres Poderes del Estado, gobiernos municipales, sus organismos descentralizados, empresas de participación estatal y organismos autónomos garantizar la inclusión laboral de las personas con discapacidad, teniendo la obligación de contratar, como mínimo el 5% del total de la planta laboral correspondiente a personas con discapacidad.
 
-Para el empleo, contratación e inserción en puestos de la administración pública de las personas con discapacidad, se emplearán profesionales cuyo perfil cubra las necesidades del puesto o los requisitos de la convocatoria respectiva, en toda convocatoria pública para contratación de personal, asignación de plazas o puestos de trabajo, se deberá de reservar como mínimo el 3% de las mismas para personas con discapacidad.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2024)</small>
+
+Para el empleo, contratación e inserción en puestos de la administración pública de las personas con discapacidad, se emplearán profesionales cuyo perfil cubra las necesidades del puesto o los requisitos de la convocatoria respectiva, en toda convocatoria pública para contratación de personal, asignación de plazas o puestos de trabajo, se deberá de reservar como mínimo el 5% de las mismas para personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
@@ -1352,3 +1356,15 @@ Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 691.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 42 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase del presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Consejo Michoacano para la Inclusión de las Personas con Discapacidad, dará seguimiento a la creación y promoción del Centro de Capacitación Laboral para Personas con Discapacidad, que se establece en el Plan de Desarrollo Integral del Estado de Michoacán de Ocampo.
+
+CUARTO. Los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y aquellos organismos descentralizados y empresas de participación estatal y municipal que con motivo de la entrada en vigor del presente Decreto, tendrán que incluir en el Proyecto de Presupuesto de Egresos; los recursos para la implementación y ejecución de la política pública derivada de el presente Decreto, tomando en consideración la participación en el reparto de estos recursos, de conformidad con los ordenamientos legales aplicables.
