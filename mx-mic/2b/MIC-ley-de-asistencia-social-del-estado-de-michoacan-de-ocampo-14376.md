@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2024-09-05"
+last_updated: "2024-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -269,15 +269,15 @@ XVII. Elaborar un padrón respecto de las niñas y niños que viven con sus madr
 
 XVIII. Facilitar las visitas de las niñas y niños a sus madres que se encuentran en los centros penitenciarios; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
 
-XIX. Establecer convenios o mecanismos de colaboración, con instituciones públicas y privadas, para que niñas, niños y adolescentes con quemaduras graves reciban atención médica especializada de manera inmediata, sin que su condición económica o social sea un obstáculo o impedimento;
+XIX. Estructurar, diseñar y ejecutar programas que garanticen el pleno ejercicio de los derechos constitucionales de la mujer en estado de embarazo, creando una cultura de no violencia y concientización sobre el trato a las mujeres gestantes;
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE OCTUBRE DE 2024)</small>
 
-XX. Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo; y,
+XX. Articular una red de albergues para proteger a las mujeres embarazadas que vean afectados sus derechos o sean víctimas de violencia en su entorno social-familiar, contando con un presupuesto para que diversas instituciones públicas o privadas apoyen a las mujeres embarazadas en situación vulnerable (sic) puedan acceder al mismo; y,
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE OCTUBRE DE 2024)</small>
 
 XXI. Las demás que establezcan las disposiciones aplicables en la materia.
 
@@ -706,3 +706,11 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 695.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XIX Y SE ADICIONAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 9º DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto a los 112 Ayuntamientos así como al Concejo Mayor de Cherán, Michoacán, para los efectos legales conducentes.
