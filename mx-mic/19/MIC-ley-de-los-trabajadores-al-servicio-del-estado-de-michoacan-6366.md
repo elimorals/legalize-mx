@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2024-09-05"
+last_updated: "2024-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -235,9 +235,19 @@ V. Durante el período de lactancia tendrán dos descansos por día, de media ho
 
 VI. Solicitar permisos económicos con goce de sueldo:
 
-a) Cuando requieran atender a sus hijos enfermos;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2024)</small>
+
+a) Cuando tengan a sus hijos enfermos o con alguna discapacidad, así como los diagnosticados con cualquier tipo de cáncer; con la finalidad de asistirlos en las terapias o rehabilitaciones que requieran, para ello, deberán presentar el comprobante médico correspondiente.
 
 b) Cuando sean víctimas de violencia y asistan a laborar, no les permita salvaguardar su integridad o ponga en riesgo su seguridad, o la de sus menores hijos, en caso de tenerlos; lo anterior, será verificable por el patrón, cuando el trabajador entregue copia simple de la denuncia o de la orden de protección emitida por la autoridad correspondiente, por cualquier medio fehaciente por el que la víctima pueda contactarse con él, si fuera por vía distinta de la física, cuando haya pasado el peligro o la situación que la pone en riesgo o a sus hijos, deberá entregar al patrón dicha constancia, para su expediente. El anterior permiso podrá ser de hasta quince días;
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2024)</small>
+
+c) Conceder licencias con goce de sueldo a trabajadoras y personas menstruantes.
+
+A quienes se les diagnostique con endometriosis severa o dismenorrea primaria o secundaria en grado incapacitante, podrán ausentarse hasta dos días, presentando el certificado médico o la constancia médica que acredite dicha condición. Los días utilizados serán con goce de sueldo y no afectarán las prestaciones laborales establecidas.
+
+Para tal efecto, deberán presentar en el área correspondiente de su centro laboral el certificado médico o la constancia médica que lo acredite, mismo que será emitido por la persona especialista en ginecología de alguna institución del Sistema Nacional de Salud o Institución de Seguridad Social subrogada. Dicho certificado tendrá una vigencia de seis meses a partir de su expedición, al término del cual deberá realizarse una nueva valoración médica que de constancia del diagnóstico; mismo que en ningún momento podrá ser considerado como enfermedad profesional o riesgo de trabajo.
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
@@ -259,17 +269,19 @@ ARTICULO 22 BIS. Los hombres trabajadores esposos o concubinos tendrán los sigu
 
 I. Disfrutar a partir del nacimiento de sus hijos e hijas, de 20 días naturas (sic) de permiso con goce de sueldo para asistir a su esposa o concubina en el puerperio, así como para convivir con el recién nacido; este permiso aumentará hasta en 60 días hábiles en caso de que la madre fallezca durante el parto o derivado de éste se origine un daño en su salud;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
 
-II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado; y,
+II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
 
-III. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgarán las autorizaciones para que los trabajadores acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana de cáncer de próstata. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
+III. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgar las autorizaciones para que los trabajadores acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana de cáncer de próstata. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
 
-> <small>(N. DE E. ESTE PÁRRAFO PERTENE A LA FRACCIÓN III)</small>
+Atendiendo a la naturaleza de las actividades que desempeñan, las autorizaciones se otorgarán gradualmente. Para tal efecto, los trabajadores deberán dar aviso con al menos cinco días hábiles de anticipación. Además, una vez realizados los exámenes clínicos, deberán presentar el certificado médico correspondiente; y;
 
-Atendiendo a la naturaleza de las actividades que desempeñan, las autorizaciones se otorgarán gradualmente. Para tal efecto, los trabajadores deberán dar aviso con al menos cinco días hábiles de anticipación. Además, una vez realizados los exámenes clínicos, deberán presentar el certificado médico correspondiente.
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2024)</small>
+
+IV. Cuando tengan a sus hijos enfermos o con alguna discapacidad, así como los diagnosticados con cualquier tipo de cáncer; con la finalidad de asistirlos en las terapias o rehabilitaciones que requieran, para ello, deberán presentar el comprobante médico correspondiente.
 
 ###### ARTICULO 23.
 
@@ -385,9 +397,9 @@ Incurrirán en faltas administrativas graves los servidores públicos que no ent
 
 VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos, especialmente en los temas de discapacidad, asuntos indígenas, cultura de la igualdad y la no discriminación, así como el respeto a la equidad de género y la preferencia sexual conforme la orientación sexual e identidad de género;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
 
-VII. Conceder licencia o permiso a sus trabajadores, en los términos que se estipulen en las Condiciones Generales de Trabajo y lo dispuesto en el artículo 22 de la presente Ley;
+VII. Conceder licencia o permiso a las y los trabajadores, en los términos que establecen los artículos 22 y 22 bis de la presente ley y en las condiciones generales de trabajo;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
 
@@ -1372,3 +1384,19 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase del (sic) presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 692.-ARTÍCULO ÚNICO.- SE REFORMA EL INCISO A) DE LA FRACCIÓN VI DEL ARTÍCULO 22, LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 22 BIS; Y, SE REFORMA A LA FRACCIÓN VII DEL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. Remítase del (sic) presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 693.- ARTÍCULO ÚNICO.- SE ADICIONA UN INCISO C) A LA FRACCIÓN VI DEL ARTÍCULO 22 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
