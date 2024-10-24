@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2023-10-20"
+last_updated: "2024-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -1765,6 +1765,12 @@ XIV. Gozar de permisos y licencias en los términos de la presente ley; y,
 
 XV. Los demás que establezcan otras disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 123 Bis.
+
+Los servicios que presten los elementos operativos de las instituciones de seguridad pública, estatales o municipales, así como el personal ministerial y peritos se regirán por el horario que para tal efecto haya sido establecido en sus respectivos reglamentos internos publicados en el Periódico Oficial del Estado de Michoacán y demás disposiciones aplicables.
+
 ## TÍTULO SEGUNDO. SERVICIO DE CARRERA POLICIAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
@@ -2448,3 +2454,11 @@ P.O. 20 DE OCTUBRE DE 2023.
 PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 690 POR EL QUE "SE ADICIONA UN ARTÍCULO 123 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
