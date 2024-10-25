@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-inclusion-al-desarrollo-social-de-las-personas-8353
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-04"
-last_updated: "2022-12-21"
+last_updated: "2024-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de noviembre de 2011.
 
@@ -947,6 +947,22 @@ En materia de urbanismo y movilidad, esta Ley reconoce y garantiza a las persona
 
 I. Contar con estructuras arquitectónicas, infraestructura y equipamiento necesario para desplazarse libremente en las obras, espacios y vías públicas, así como en el entorno urbano en general, haciendo uso de ayudas técnicas, perros guías u otros apoyos que requieran en su caso;
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+Los inmuebles públicos y privados destinados a la prestación de servicios al público en general, deberán contar con instalaciones que permitan el desplazamiento y accesibilidad de todas las personas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+Considerando las características y condiciones de los inmuebles, se instalarán rampas, escalones universales fijos o móviles y demás infraestructura necesaria que permita a las personas su libre esparcimiento y pleno ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+En la construcción de espacios públicos deberá privilegiarse la eliminación de barreras, obstáculos o limitaciones a la accesibilidad de las personas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+El Estado y los municipios podrán ejecutar programas para promover el equipamiento de los espacios públicos conforme a los párrafos anteriores.
+
 II. Disfrutar de los servicios públicos y privados, en igualdad de circunstancias con cualquier otro ciudadano; y
 
 III. Tener acceso y facilidades para el desplazamiento en los espacios laborales, comerciales, públicos, recreativos, educativos y culturales, mediante la construcción de instalaciones arquitectónicas apropiadas.
@@ -964,6 +980,10 @@ III. Proteger y facilitar, de manera solidaria, el disfrute de bienes y servicio
 a) Las concesiones del auto transporte de pasajeros del Estado de Querétaro, prevendrán la reserva de espacios para personas con discapacidad, los cuales serán distinguidos con el logotipo universal correspondientes; así como la implementación de camiones adaptados, en todas las líneas, con rutas que cubran las necesidades de movilidad de las personas con discapacidad.
 
 b) Las instalaciones para espectáculos públicos, tales como teatros, cines, lienzos charros, plazas de toros o cualquier otra provisional que se use con fines similares, reservarán, en áreas preferentes y populares, espacios para personas con discapacidad, que se distinguirán con el logotipo universal de la discapacidad. Los Municipios garantizarán y vigilarán el cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+Así mismo, en las instalaciones para espectáculos públicos deberán instalarse rampas, escalones universales movibles o fijos, sillas de ruedas, sanitarios y demás infraestructura necesaria que permita a las personas su libre esparcimiento y pleno ejercicio de sus derechos.
 
 c) Los estacionamientos públicos y privados contarán con zonas preferentes para vehículos en los que viajen personas con discapacidad, tanto en la vía pública como en lugares de acceso público.
 
@@ -1394,3 +1414,13 @@ Artículo Décimo Quinto. El Programa Estatal de Transporte 2021-2027 publicado 
 Artículo Décimo Sexto. Todas las referencias al Programa Estatal de Transporte 2021-2027 publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 5 de septiembre de 2022, se entenderán hechas al Programa Estatal de Transporte Público en materia de Movilidad.
 
 Artículo Décimo Séptimo. A partir de la entrada en vigor de la presente Ley, todas las referencias en otros ordenamientos legales a la Ley de Movilidad para el Transporte del Estado de Querétaro se entenderán hechas a la Ley de la Agencia de Movilidad y Modalidades de Transporte Público para el Estado de Querétaro.
+
+P.O. 25 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
