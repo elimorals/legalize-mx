@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2024-09-12"
+last_updated: "2024-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -33,7 +33,9 @@ DECRETO 1144
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE la Ley de Protección y Conservación de Árboles Urbanos del Estado de San Luis Potosí, para quedar como sigue
 
@@ -167,7 +169,9 @@ VI. Solicitar y exigir a la persona que cause daño al arbolado urbano, el cumpl
 
 VII. Celebrar acuerdos, convenios de coordinación y cooperación para el cumplimiento de los objetivos de esta Ley;
 
-VIII. Desarrollar e impulsar programas de participación ciudadana que promuevan el cumplimiento de los objetivos de esta Ley;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+VIII. Realizar campañas de forestación y reforestación así como de información del cuidado de áreas verdes e impulsar programas de participación ciudadana que promuevan el mantenimiento, mejoramiento, preservación, restauración, fomento, y plantación de árboles;
 
 IX. Autorizar las solicitudes correspondiente respecto de los trabajos de derribo de árboles urbanos existentes en el territorio del municipio, fundamentado en el dictamen técnico de perito dictaminador en poda, derribo, trasplante y restitución de árboles, en los términos de esta Ley y la reglamentación aplicable;
 
@@ -179,11 +183,19 @@ XII. Participar, cuando sea necesario, en la atención de emergencias y continge
 
 XIII. Apoyar dentro del ámbito de sus competencias mediante incentivos económicos a las personas físicas o morales que cumplan con las disposiciones de esta Ley. Para lo anterior, en los reglamentos municipales de la materia se deberá (sic) determinar los requisitos y obligaciones que deberán cumplir las personas que pretendan recibirlos;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2024)</small>
 
-XIV. Promover y ejecutar campañas permanentes y progresivas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, usando las especies endémicas o más idóneas conforme a los estudios. Para efecto de lo anterior, podrán celebrar convenios de colaboración con los diferentes órdenes de gobierno, así como coordinar acciones con organizaciones de la sociedad civil, profesionistas, empresariales e instituciones educativas procurando además promover el cuidado y mantenimiento de las especies arbóreas para garantizar su pervivencia (sic), y
+XIV. Promover y ejecutar campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes;
 
-XV. Las demás que conforme a la presente Ley, y el reglamento municipal les correspondan.
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+XV. Fomentar el incremento, conservación, mantenimiento, protección, desarrollo y restitución de arbolado dentro de las áreas públicas;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+XVI. Incrementar el número de arbolado y áreas verdes en proporción equilibrada con los proyectos de construcción, y
+
+XVII. Las demás que conforme a la presente Ley, y el reglamento municipal les correspondan.
 
 ### CAPÍTULO V. De la Poda, Derribo, y Trasplante del Arbolado Urbano
 
@@ -243,7 +255,9 @@ Las causas para la justificación del derribo de uno o más árboles urbanos son
 
 I. Cuando los árboles concluyan con su período de vida;
 
-II. Cuando el árbol o los árboles interfieran en el trazo de caminos, pavimentación de calles, construcción o remodelación, y que sea imposible de acuerdo a las características del árbol integrarlo al proyecto por representar una amenaza para el desarrollo del entorno. En este caso, siempre que sea posible, se deberá proceder a trasplantar el árbol o los árboles en el lugar en donde estime conveniente la autoridad municipal;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+II. Cuando el árbol o los árboles interfieran en el trazo de caminos, pavimentación de calles, construcción o remodelación, y que sea imposible de acuerdo a las características del árbol integrarlo al proyecto por representar una amenaza para el desarrollo del entorno. En este caso, siempre que sea posible, se deberá proceder a trasplantar el árbol o los árboles en el lugar en donde estime conveniente la autoridad municipal; o bien, quien resulte responsable del proyecto, deberá llevar a cabo acciones de plantación de un mínimo de tres árboles por cada árbol derribado, mismos que serán de la especie y características adecuadas y serán plantados en el sitio que la autoridad municipal le indique;
 
 III. Cuando los árboles tengan problemas de plagas o enfermedades difíciles de controlar, y con riesgo inminente de dispersión a otros árboles sanos;
 
@@ -521,9 +535,15 @@ En materia de educación y capacitación, la Secretaría, en coordinación con l
 
 I. Impulsar, apoyar y organizar programas de formación, capacitación, y actualización continua de los servidores públicos en materia de cuidado, conservación y protección del arbolado urbano;
 
-II. Incentivar y apoyar la formación, capacitación y actualización de los prestadores de servicios técnicos en materia de arbolado urbano, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2024)</small>
 
-III. Desarrollar planes y programas educativos dirigidos al cumplimiento de los objetivos de esta Ley.
+II. Incentivar y apoyar la formación, capacitación y actualización de los prestadores de servicios técnicos en materia de arbolado urbano;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+III. Promover e impulsar la preservación de la salud del arbolado urbano y patrimonial con el propósito de reducir la pérdida de áreas verdes y prevenir riesgos de caída y muerte prematura, y
+
+IV. Desarrollar planes y programas educativos dirigidos al cumplimiento de los objetivos de esta Ley.
 
 ###### ARTÍCULO 47.
 
@@ -629,11 +649,11 @@ VII. Se degrade o se elimine parcial o totalmente zonas y áreas donde se locali
 
 VIII. Se dañe o afecte de alguna forma árboles patrimoniales.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
 ###### ARTÍCULO 62.
 
-Para las sanciones a las infracciones a los preceptos contenidos en esta Ley, tratándose de servidor público en extralimitación u omisión de sus atribuciones, le será aplicable la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
-
-Se aplicarán sin perjuicio de las sanciones penales que procedan.
+Para las sanciones a las infracciones a los preceptos contenidos en esta Ley, tratándose de servidor público en extralimitación u omisión de sus atribuciones, le será aplicable la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí. Se aplicarán sin perjuicio de las sanciones penales que procedan.
 
 ###### ARTÍCULO 63.
 
@@ -896,6 +916,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1113.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 10, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0005.- SE REFORMAN LAS FRACCIONES VIII Y XIV DEL ARTÍCULO 10, LA FRACCIÓN II DEL ARTÍCULO 14, LA FRACCIÓN II DEL ARTÍCULO 46 Y EL ARTÍCULO 62; Y SE ADICIONAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 10 Y LA FRACCIÓN III DEL ARTÍCULO 46, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
