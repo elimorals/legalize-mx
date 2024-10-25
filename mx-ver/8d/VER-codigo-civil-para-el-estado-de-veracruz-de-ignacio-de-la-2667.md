@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2022-06-13"
+last_updated: "2024-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2024.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -951,7 +951,7 @@ Una vez decretado el divorcio, el órgano jurisdiccional fijará en definitiva l
 
 En caso de violencia familiar, la protección para menores incluirá en la sentencia las medidas de seguridad, seguimiento y reeducativas necesarias para evitarla y corregirla, previstas en este Código y en su caso, las consideradas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz, las cuales podrán ser suspendidas o modificadas en términos del artículo 58 del Código de Procedimientos Civiles para el Estado de Veracruz.
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATICA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 De oficio, durante el procedimiento, el órgano jurisdiccional se allegará los elementos necesarios para determinar las medidas de seguridad, debiendo escuchar a ambas partes y a los menores de edad, para evitar conductas de violencia familiar o de cualquiera otra circunstancia que amerite la necesidad de la medida, considerando siempre el interés superior de la infancia. En todo caso protegerá y hará respetar el derecho de convivencia CON LA MADRE Y EL PADRE, salvo que exista peligro para el menor.
 
@@ -961,9 +961,15 @@ En caso de que el ascendiente, tutor, custodio, depositario, quien tenga o deten
 
 En la resolución judicial se fijarán también las bases para actualizar las pensiones compensatoria y alimenticia, así como las garantías para su efectividad. El derecho a esta compensación del cónyuge o la cónyuge deberá durar hasta que el desequilibrio económico se haya resarcido.
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 6 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-PARA EL CASO DE MAYORES CON DISCAPACIDAD, BAJO TUTELA DE EXCÓNYUGES, EN LA SENTENCIA DE DIVORCIO DEBERÁN ESTABLECERSE LAS MEDIDAS A QUE SE REFIERE ESTE ARTÍCULO PARA SU PROTECCIÓN; ASIMISMO, LA SENTENCIA DE DIVORCIO ESTABLECERÁ LA REPARACIÓN DEL DAÑO EN CASO DE VIOLENCIA FAMILIAR CONTRA CUALQUIERA DE LAS PERSONAS INTEGRANTES DE LA FAMILIA.
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2024)</small>
+
+PARA EL CASO DE PERSONAS MAYORES CON DISCAPACIDAD, QUE AÚN SE ENCUENTREN BAJO TUTELA DE EXCÓNYUGES, EN LA SENTENCIA DE DIVORCIO DEBERÁN ESTABLECERSE LAS MEDIDAS CORRESPONDIENTES PARA SU PROTECCIÓN, DE CONFORMIDAD CON LA LEGISLACIÓN VIGENTE, Y EN ESTRICTO APEGO AL EJERCICIO DE SUS DERECHOS HUMANOS.
+
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2024)</small>
+
+La sentencia de divorcio deberá establecer la reparación del daño en caso de violencia familiar contra cualquiera de las personas integrantes de la familia.
 
 El órgano jurisdiccional resolverá sobre la compensación de bienes a que haya lugar que prevé el artículo 142 fracción VI, atendiendo a las circunstancias especiales de cada caso.
 
@@ -17034,3 +17040,11 @@ G.O. 13 DE JUNIO DE 2022.
 Primero. El presente Decreto entrará en vigor al día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 25 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 744 QUE REFORMA EL PÁRRAFO SÉPTIMO Y QUE ADICIONA UN PÁRRAFO, QUE SERÁ EL OCTAVO, CON EL CORRIMIENTO DEL ACTUAL OCTAVO A NOVENO, DEL ARTÍCULO 145 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Artículo Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
