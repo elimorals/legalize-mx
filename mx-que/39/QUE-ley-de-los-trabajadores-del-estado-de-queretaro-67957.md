@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2022-12-27"
+last_updated: "2024-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -265,9 +265,13 @@ Durante la lactancia y hasta por un período de seis meses, contados a partir de
 
 Las trabajadoras disfrutarán de quince días naturales de descanso con goce de sueldo, cuando obtengan en adopción a un menor o incapaz, contados a partir del día de su entrega.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2024)</small>
 
-Asimismo, los trabajadores disfrutarán de cinco días hábiles, con goce de sueldo, por el nacimiento de un hijo; tratándose de un nacimiento múltiple, los trabajadores tendrán cinco días hábiles adicionales por cada hijo nacido vivo. Los trabajadores disfrutarán de este periodo de descanso cuando obtengan en adopción a un menor o incapaz, contados a partir de su entrega.
+Asimismo, los trabajadores disfrutarán de veinte días hábiles, con goce de sueldo, por el nacimiento de un hijo; tratándose de un nacimiento múltiple, los trabajadores tendrán cinco días hábiles adicionales por cada hijo nacido vivo.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2024)</small>
+
+Los trabajadores disfrutarán del mismo periodo de descanso, establecido en el primer párrafo de este artículo, cuando obtengan en adopción a un menor o incapaz, contados a partir de su entrega.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2160,3 +2164,13 @@ Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente l
 Artículo Tercero. Las dependencias públicas establecerán los mecanismos conjuntamente con los trabajadores, a fin de que atendiendo a la naturaleza de las actividades que desempeñen, se otorguen gradualmente las autorizaciones.
 
 Artículo Cuarto. Envíese al Titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 25 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA EL ARTÍCULO 33 BIS DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones contrarías a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
