@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2024-09-17"
+last_updated: "2024-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -1833,15 +1833,17 @@ Los servidores públicos referidos en el párrafo anterior, fungirán por el per
 
 La persona titular de la Contraloría Municipal, así como las personas que funjan como autoridad investigadora, substanciadora y resolutora del órgano interno, deberán cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio;
+I.- Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio;
 
-II.- Contar con título y cédula profesional de licenciatura en Derecho, Contaduría Pública o Administración Pública, o en alguna otra profesión que sea afín:
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+II.- Contar con título o certificado profesional en licenciatura en Derecho, Contaduría Pública o Administración Pública, o en alguna otra profesión que sea afín:
 
 III.- Contar con experiencia comprobable, en materias contable, de auditoría financiera o de responsabilidades administrativas u otra análoga;
 
-IV.- No haber sido condenado por algún delito por hechos de corrupción o previsto como tipo penal protector de la administración pública, ni por algún otro delito doloso que haya cometido en el ejercicio de una función pública;
+IV.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2024)
 
-V.- No estar inhabilitado al momento de su designación, para desempeñar un cargo, empleo o comisión pública; y
+V.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2024)
 
 El titular de la Contraloría Municipal, así como las personas que funjan como autoridad investigadora, substanciadora y resolutora de la misma, estarán sujetos a un régimen de servicio profesional regido por los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, integridad y equidad. La normativa municipal a través del Reglamento respectivo, establecerá los niveles o jerarquías a los que aplicará el servicio profesional, así como la forma y periodicidad en que se evaluará a los servidores públicos.
 
@@ -13162,3 +13164,35 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 – El Secretario del H. Ayuntamiento y Director General de Gobierno del Municipio de Cosío, Aguascalientes; hasta el primero de enero de dos mil veinticinco, tendrá la facultad de interpretación para dirimir controversias que se susciten respecto de la organización del Cabildo y la aplicación del presente Reglamento.
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “PUNTO DE ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 238 DEL CÓDIGO MUNICIPAL DE COSÍO, AGUASCALIENTES Y SE DEROGAN LAS FRACCIONES IV Y V DEL MISMO ARTÍCULO Y ORDENAMIENTO; SE ABROGA CONVOCATORIA PARA POSTULARSE COMO CANDIDATOS A OCUPAR LA TITULARIDAD DE LA CONTRALORÍA MUNICIPAL, ASÍ COMO LAS PERSONAS QUE FUNJAN COMO AUTORIDAD INVESTIGADORA, SUBSTANCIADORA Y RESOLUTORIA DE LA MISMA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES, EL DÍA DIECISIETE DE OCTUBRE DE DOS MIL VEINTICUATRO; Y, SE EXPIDE CONVOCATORIA PARA POSTULARSE COMO CANDIDATOS A OCUPAR LA TITULARIDAD DE LA CONTRALORÍA MUNICIPAL, ASÍ COMO LAS PERSONAS QUE FUNJAN COMO AUTORIDAD INVESTIGADORA, SUBSTANCIADORA Y RESOLUTORIA DE LA MISMA” QUE SE RELACIONAN CON LA REFORMA AL CÓDIGO MUNICIPAL DE COSÍO, AGUASCALIENTES.]</small>
+
+"PUNTO DE ACUERDO:
+
+PRIMERO.- El Municipio de Cosío, Aguascalientes, en uso de sus facultades y en el ejercicio de sus atribuciones tiene a bien aprobar la "Iniciativa por la que, se reforma la fracción II del artículo 238 del Código Municipal de Cosío, Aguascalientes y se derogan las fracciones IV y V del mismo artículo y ordenamiento'', para quedar de la siguiente manera:
+
+"(…) ARTICULO 238.- ...
+
+…
+
+II.- Contar con título o certificado profesional en licenciatura en Derecho, Contaduría Pública o Administración Pública, o en alguna otra profesión que sea afín:
+
+…
+
+IV.- Fracción derogar.
+
+V.- Fracción a derogar. ( ... )"
+
+SEGUNDO.- El Municipio de Cosío, Aguascalientes, en uso de sus facultades y en el ejercicio de sus atribuciones tiene a bien aprobar la "Iniciativa por la que se abroga la Convocatoria para todas las ciudadanas y ciudadanos, en lo individual, así como a las instituciones y a los integrantes de organizaciones privadas, sociales, académicas, empresariales, profesionales y demás organizaciones de la sociedad civil, a postularse como candidatos a ocupar la Titularidad de la Contraloría Municipal, así como las personas que funjan como Autoridad Investigadora, Substanciadora y Resolutoria de la misma, a partir del quince de octubre de dos mil veinticuatro, publicada en el Periódico Oficial del Estado de Aguascalientes, el día diecisiete de octubre de dos mil veinticuatro".
+
+TERCERO.- El Municipio de Cosío, Aguascalientes, en uso de sus facultades y en el ejercicio de· sus atribuciones tiene a bien aprobar la "Iniciativa de la Convocatoria para todas las ciudadanas y ciudadanos, en lo individual, así como a las instituciones y a los integrantes de organizaciones privadas, sociales, académicas, empresariales, profesionales y demás organizaciones de la sociedad civil, a postularse como candidatos a ocupar la Titularidad de la Contraloría Municipal, así como las personas que funjan como Autoridad Investigadora, Sustanciadora y Resolutoria de la misma, a partir del quince de octubre de dos mil veinticuatro, publicada en el Periódico Oficial del Estado de Aguascalientes, el día diecisiete de octubre de dos mil veinticuatro", bajo los siguientes términos:
+
+H. AYUNTAMIENTO DE COSÍO, AGUASCALIENTES
+
+Convocatoria para todas las ciudadanas y ciudadanos, en lo individual, así como a las instituciones y a los integrantes de organizaciones privadas, sociales, académicas, empresariales, profesionales y demás organizaciones de la sociedad civil, a postularse como candidatos a ocupar la Titularidad de la Contraloría Municipal, así como las personas que funjan como Autoridad Investigadora, Substanciadora y Resolutoria de la misma, todos del Municipio de Cosío, Aguascalientes; en términos de lo previsto por los artículos 224, 237, 237 BIS y 238 del Código Municipal de Cosío, Aguascalientes; a los artículos 80, 81, 85 y SEGUNDO TRANSITORIO del Bando de Policía y Gobierno del Municipio de Cosío, Aguascalientes; así como lo previsto por el artículo 36 fracción LXII, 37 fracción XXIV, 48 último párrafo; y
+
+CONSIDERANDO QUE:
+
+[…]"
