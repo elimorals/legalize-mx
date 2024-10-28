@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-estatal-de-seguridad-publica-1378
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-29"
-last_updated: "2019-07-29"
+last_updated: "2024-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de julio de 2019.
 
@@ -656,3 +658,25 @@ TITULAR DE LA UNIDAD DE (SIC) INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DEL I
 C.P. RAFAEL ANTONIO DÍAZ MÚÑOZ
 
 TITULAR DE LA UNIDAD AUDITORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Acuerdo, y de conformidad con el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, se abroga el Código de Ética del Instituto Estatal de Seguridad Pública, publicado en el Periódico Oficial del Estado de Aguascalientes, en la Sección Primera, tomo LXXXII, número 30, de fecha 29 de julio del 2019.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a lo previsto en el presente acuerdo.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir el presente Código de Ética de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales, acorde a lo dispuesto en los artículos 27º fracción III, VII y 28º de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
