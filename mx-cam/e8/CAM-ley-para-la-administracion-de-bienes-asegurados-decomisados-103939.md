@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-administracion-de-bienes-asegurados-decomisados-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2024-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CAM"
 ---
 # LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE CAMPECHE
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS Y DESTINO DE BIENES DECLARADOS EXTINTOS Y DE SANCIONES ECONÓMICAS POR HECHOS DE CORRUPCIÓN PARA EL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024 (ABROGADO).
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 28 de noviembre de 2014.
 
@@ -334,3 +338,21 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintisiete días del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA. RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS Y DESTINO DE BIENES DECLARADOS EXTINTOS Y DE SANCIONES ECONÓMICAS POR HECHOS DE CORRUPCIÓN PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del Decreto por el que se reforma el párrafo segundo del artículo 76 Bis de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados del Estado de Campeche, expedida mediante Decreto número 180, publicado en el Periódico Oficial del Estado No. 5620 de fecha 28 de noviembre de 2014.
+
+TERCERO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto, se continuarán aplicando conforme a lo que dispone la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados del Estado de Campeche que mediante el presente decreto se abroga.
+
+Todo instrumento jurídico o acuerdo tomado por la Comisión de Administración de Bienes señalada en la antes citada Ley, continuará vigente mientras se sustancien los procedimientos a los que se ha hecho referencia en el párrafo anterior.
+
+CUARTO.- El Ejecutivo del Estado contará con un plazo de noventa días naturales para expedir el reglamento de la presente Ley.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan a lo contenido del (sic) presente decreto.
