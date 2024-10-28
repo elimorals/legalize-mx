@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-el-instituto-de-acceso-a-la-justicia-del-8156
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-25"
-last_updated: "2011-02-25"
+last_updated: "2024-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 25 de febrero de 2011.
 
@@ -83,7 +85,9 @@ II. Instituto: Instituto de Acceso a la Justicia del Estado de Campeche;
 
 III. Junta: la junta de gobierno del Instituto;
 
-IV. Padrón: el Padrón de beneficiarios de la Secretaría de Desarrollo Social y Regional;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+IV. Padrón: el Padrón de beneficiarios de la Secretaría de Bienestar;
 
 V. Beneficiario: la persona que reúna los requisitos señalados en el artículo 22 de esta Ley;
 
@@ -219,7 +223,7 @@ V. Nombrar y remover a los Directores de Operación y de Administración y a los
 
 VI. Conceder licencia para separarse de su cargo, por un lapso no mayor de treinta días calendario, a los Directores General, de Operación y de Administración y a los Delegados Municipales, así como designar a quienes deberán suplirlos durante su ausencia;
 
-VII. Erigirse como Consejo del Sistema para las Víctimas y Ofendidos del Delito en el Estado de Campeche y coordinarse con las demás instancias que sean necesarias para lograr los fines previstos en la Ley que Establece el Sistema de Justicia para las Víctimas y Ofendidos del Delito en el Estado de Campeche, la presente Ley y su Reglamento.
+VII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2024)
 
 VIII. Resolver sobre las solicitudes que en materia de apoyo económico y otorgamiento de la reparación de daños y el pago de perjuicios se sometan a su consideración;
 
@@ -273,7 +277,7 @@ III. Formular la propuesta de lineamientos generales a que se sujetarán las act
 
 IV. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones del Instituto;
 
-V. Administrar los recursos con que cuente el Fondo de Apoyo para los Beneficiarios del Instituto y aplicarlos conforme lo establecen esta Ley, su Reglamento y las demás disposiciones legales y reglamentarias aplicables;
+V. (DEROGADA, P.O. 28 DE OCTUBRE DE 2024)
 
 VI. Coordinar a los Directores de Operación y de Administración y a los Delegados Municipales y distribuir entre ellos los asuntos de su competencia;
 
@@ -383,73 +387,49 @@ Las personas que se encuentren en los supuestos que establecen las fracciones II
 
 El Instituto tendrá disponible, en medio impreso y magnético, de manera permanente, actualizada, sencilla, precisa y entendible para los particulares, la relación de personas que sean beneficiarios de sus servicios, en cumplimiento a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ### Capítulo X. Del Fondo de Apoyo para los Beneficiarios del Instituto
 
 ###### Artículo 24.
 
-Para la aplicación de las atenciones y apoyos a los beneficiarios se crea el Fondo de Apoyo para los Beneficiarios del Instituto.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 25.
 
-El Fondo estará constituido por los recursos económicos y presupuestales necesarios para satisfacer los derechos de los beneficiarios en materia de asesoría, orientación, asistencia y servicios jurídicos, asistencia y servicios médicos, tratamientos de rehabilitación, la reparación de daños y el pago de perjuicios.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 26.
 
-Los recursos presupuestales y económicos con los que contará el Fondo, serán:
-
-I. Las partidas presupuestales que se le asignen específicamente en la Ley del Presupuesto de Egresos del Estado de Campeche para cada ejercicio fiscal;
-
-II. Las cantidades que se obtengan por los siguientes conceptos:
-
-a) Multas de carácter administrativo y aquellas que impongan como pena pecuniaria los órganos jurisdiccionales del Estado;
-
-b) Cauciones que garanticen la libertad provisional y que se hagan efectivas conforme a derecho;
-
-c) Cauciones para garantizar la condena condicional que se hagan efectivas conforme a derecho;
-
-d) Enajenación de bienes muebles e inmuebles y de los derechos cuyo dominio se declare extinto conforme a derecho; y
-
-e) Rendimientos provenientes de las inversiones o depósitos de cantidades consignadas por cualquier concepto ante los diversos órganos judiciales del Estado;
-
-III. Las aportaciones que a manera de donaciones o legados, en especie o en dinero hagan al Instituto personas de derecho público o privado;
-
-IV. Los rendimientos que se obtengan de las inversiones o reinversiones de los recursos asignados al Fondo; y
-
-V. Las demás aportaciones tendientes a incrementar la capacidad económica del Fondo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 27.
 
-Para cumplir con lo dispuesto en la fracción II del artículo anterior, se aplicarán las siguientes disposiciones:
-
-I. La autoridad ministerial, judicial o administrativa, ordenará el depósito a favor del Fondo;
-
-II. Si las sumas indicadas se depositaron en una institución bancaria, mediante billete de depósito, la autoridad ministerial, judicial o administrativa ordenará que se endose éste a favor del Fondo, y el Instituto le entregará el comprobante respectivo dentro de las veinticuatro horas hábiles siguientes a su recepción; y
-
-III. Si las sumas se entregan en las oficinas del Instituto, se hará el depósito conforme lo dispone el artículo 33 de esta Ley.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 28.
 
-Los recursos del Fondo se aplicarán exclusivamente para cumplir los objetivos establecidos en la presente Ley, preferentemente en casos de urgencia o necesidad manifiesta, previo estudio o dictamen que así lo justifique y conforme al procedimiento que para tal efecto establezca el Reglamento de esta Ley.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 29.
 
-La entrega de recursos o apoyos a los beneficiarios será sin perjuicio de hacer efectiva la reparación del daño moral o material y la reparación por daños y el pago de los perjuicios por quien esté obligado a ello, caso en que el Instituto recuperará lo erogado en el asunto, hasta donde sea económicamente posible.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 30.
 
-El pago de la reparación de daños y perjuicios que el Instituto realice o haga no podrá exceder, en cada caso, del importe de la reparación que corresponda al beneficiario de acuerdo con las disposiciones civiles aplicables del Estado de Campeche.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 31.
 
-Cuando con cargo al Fondo se indemnice total o parcialmente a quien sufra daños personales, o se proteja a la víctima o al ofendido de un delito, el Instituto se subrogará hasta el monto de sus erogaciones, en los derechos de éstos, contra el deudor de la responsabilidad civil. Al subrogarse el Instituto, total o parcialmente, en el derecho a la reparación de daños y el pago de los perjuicios, lo informará a la autoridad judicial o administrativa que conozca del proceso tramitado, para los efectos legales correspondientes.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 32.
 
-El Instituto exigirá, judicialmente del deudor de la responsabilidad civil, el pago del monto de la reparación de daños y de los perjuicios en su totalidad.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ###### Artículo 33.
 
-Las cantidades que ingresen al Fondo se invertirán, dentro de las veinticuatro horas hábiles siguientes a la recepción, en la institución bancaria que proporcione el mayor rendimiento posible.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2024)
 
 ### Capítulo XI. De los Beneficios que Otorga el Instituto y la Protección Económica Provisional
 
@@ -519,23 +499,39 @@ XIII. A los demás apoyos y medidas que resulten necesarias para proporcionar as
 
 Para la comprobación de los requisitos que deberá satisfacer la persona que solicite la protección económica prevista en este Capítulo, el Instituto gozará de las más amplias facultades de investigación y podrá solicitar a las autoridades respectivas los datos, documentos o dictámenes que requiera, a fin de acreditar provisionalmente la existencia del delito, acto o hecho jurídico, o procedimiento legal, así como el monto de los daños y perjuicios causados y la correspondiente cuantificación de su reparación, a efecto de determinar e individualizar la asistencia integral. El Instituto tendrá la facultad para valorar el apoyo jurídico, económico, médico y social que deba prestarse en cada caso concreto y la suspensión o cancelación del beneficio otorgado.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 39 Bis.
+
+La entrega de recursos o apoyos a los beneficiarios será sin perjuicio de hacer efectiva la reparación del daño moral o material y la reparación por daños y el pago de los perjuicios por quien esté obligado a ello, caso en que el Instituto recuperará lo erogado en el asunto, hasta donde sea económicamente posible.
+
+El pago de la reparación de daños y perjuicios que el Instituto realice o haga no podrá exceder, en cada caso, del importe de la reparación que corresponda al beneficiario de acuerdo con las disposiciones civiles aplicables del Estado de Campeche.
+
+Cuando con cargo al Instituto se indemnice total o parcialmente a quien sufra daños personales, o se proteja a la víctima o al ofendido de un delito, el Instituto se subrogará hasta el monto de sus erogaciones, en los derechos de éstos, contra el deudor de la responsabilidad civil. Al subrogarse el Instituto, total o parcialmente, en el derecho a la reparación de daños y el pago de los perjuicios, lo informará a la autoridad judicial o administrativa que conozca del proceso tramitado, para los efectos legales correspondientes.
+
+El Instituto exigirá, judicialmente del deudor de la responsabilidad civil, el pago del monto de la reparación de daños y de los perjuicios en su totalidad.
+
 ### Capítulo XII. De los Beneficios Adicionales
 
 ###### Artículo 40.
 
 El Instituto podrá proporcionar protección parcial o integral a los dependientes económicos de un beneficiario. La protección en este caso se otorgará conforme al resultado obtenido del estudio socioeconómico que realice el Instituto.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-Cuando a un beneficiario a quien se le haya concedido la conmutación de la sanción de prisión por multa, no pudiere pagar ésta, la autoridad judicial lo notificará al Instituto, el que previa solicitud del beneficiario, podrá autorizar que el pago se haga a cuenta del Fondo en calidad de préstamo.
+Cuando a un beneficiario a quien se le haya concedido la conmutación de la sanción de prisión por multa, no pudiere pagar ésta, la autoridad judicial lo notificará al Instituto, el que previa solicitud del beneficiario, podrá autorizar que el pago se haga a cuenta del Instituto en calidad de préstamo.
 
 ###### Artículo 42.
 
 Autorizado el pago en la forma indicada en el artículo anterior, el Instituto informará a la autoridad judicial dicha situación, la que ordenará la libertad del beneficiario.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 43.
 
-En los casos de los artículos anteriores, el beneficiario deberá restituir al Fondo del monto en una sola exhibición o en plazos fijados por el Instituto, que no excederán de cinco años, con un interés que no podrá exceder del legal. Asimismo, el Instituto podrá, previa solicitud del interesado, autorizar la exención del pago en los casos que así lo considere pertinente.
+En los casos de los artículos anteriores, el beneficiario deberá restituir al Instituto el monto en una sola exhibición o en plazos fijados por el Instituto, que no excederán de cinco años, con un interés que no podrá exceder del legal. Asimismo, el Instituto podrá, previa solicitud del interesado, autorizar la exención del pago en los casos que así lo considere pertinente.
 
 ###### Artículo 44.
 
@@ -606,3 +602,17 @@ C. José Benedicto Barony Blanquet, Diputado Presidente.- C. Gloria del C. Guti�
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los diecisiete días del mes de diciembre del año dos mil diez.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 8 POR EL QUE "SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 6; LOS ARTÍCULOS 41 Y 43; SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 10; LA FRACCIÓN V DEL ARTÍCULO 15; EL CAPÍTULO X DENOMINADO "DEL FONDO DE APOYO PARA LOS BENEFICIARIOS DEL INSTITUTO" CON LOS ARTÍCULOS 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, Y SE ADICIONA EL ARTÍCULO 39 BIS, TODOS DE LA LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE, TODOS DE LA LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE (SIC)".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del Decreto por el que se reforma el párrafo segundo del artículo 76 Bis de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado, con las salvedades que disponen los artículos transitorios subsecuentes.
+
+SEGUNDO.- El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas, deberá realizar las acciones que correspondan con la finalidad de constituir el fideicomiso público sin estructura "Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche", en un plazo que no exceda de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
+
+La aportación inicial del fideicomiso se realizará con los recursos que, hasta la fecha de entrada en vigor del presente decreto, cuente el Fondo de Justicia para las Víctimas.
+
+TERCERO.- La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche deberá proceder a la liquidación del Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche, integrando los recursos que conforman dicho Fondo al Patrimonio del Instituto de Acceso a la Justicia del Estado de Campeche.
