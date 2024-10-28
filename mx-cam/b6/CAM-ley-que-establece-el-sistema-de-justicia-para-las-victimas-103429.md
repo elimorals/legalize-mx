@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-el-sistema-de-justicia-para-las-victimas-1034
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-02"
-last_updated: "2022-06-23"
+last_updated: "2024-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPEC
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 3 DE DICIEMBRE DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 2 de octubre de 2014.
 
@@ -59,7 +59,9 @@ IV. Establecer los deberes y obligaciones específicos a cargo de las autoridade
 
 V. Establecer las sanciones respecto al incumplimiento por acción o por omisión de cualquiera de sus disposiciones; y
 
-VI. Conformar las bases de la organización y funcionamiento del Sistema Estatal de Justicia para las Víctimas, el Consejo Estatal de Justicia para las Víctimas y la Unidad de Asistencia y Atención de Víctimas, para el acceso de las víctimas a las medidas de atención y protección que establece la presente Ley.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+VI. Conformar las bases de la organización y funcionamiento del Sistema Estatal de Justicia para las Víctimas, la Comisión Ejecutiva de Atención a Víctimas del Estado de Campeche, y la Unidad de Asistencia y Atención de Víctimas, para el acceso de las víctimas a las medidas de atención y protección que establece la presente Ley.
 
 ###### Artículo 2.
 
@@ -85,9 +87,13 @@ I. Comisión Ejecutiva: Comisión Ejecutiva de Atención a Víctimas;
 
 II. Comisión de Derechos Humanos: La Comisión de Derechos Humanos del Estado de Campeche;
 
-III. Consejo de Víctimas: Consejo Estatal de Justicia para las Víctimas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
 
-IV. Fondo de Víctimas: Fondo Estatal de Víctimas;
+III. Comisión Ejecutiva Estatal: La Comisión Ejecutiva de Atención a Víctimas del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+IV. Fondo de Ayuda: el Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche;
 
 V. Instituto: Instituto de Acceso a la Justicia del Estado de Campeche;
 
@@ -123,9 +129,11 @@ XVIII. Reparación Integral: Comprende las medidas de restitución, rehabilitaci
 
 La presente Ley obliga a las autoridades señaladas en el artículo 89 de la Constitución Política del Estado de Campeche y a los organismos e instituciones privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-La protección de los derechos de las víctimas se estructurará y prestará por el organismo descentralizado de la Administración Pública denominado Instituto de Acceso a la Justicia del Estado de Campeche, “INDAJUCAM”, a través de la Unidad de Víctimas, de conformidad con la Ley General, la presente Ley y su Reglamento, la Ley que Establece el Instituto de Acceso a la Justicia del Estado de Campeche y a las políticas públicas que genere el Consejo de Víctimas.
+La protección de los derechos de las víctimas se estructurará y prestará por el organismo descentralizado de la Administración Pública denominado Instituto de Acceso a la Justicia del Estado de Campeche, "INDAJUCAM", a través de la Unidad de Víctimas, de conformidad con la Ley General, la presente Ley y su Reglamento, la Ley que Establece el Instituto de Acceso a la Justicia del Estado de Campeche y a las políticas públicas que genere la Comisión Ejecutiva Estatal.
 
 ###### Artículo 8.
 
@@ -357,9 +365,11 @@ III. Conservar los bienes objeto de aseguramiento cuando éstos le hayan sido de
 
 IV. Cuando tenga acceso a información reservada, respetar y guardar la confidencialidad de la misma.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-En caso de que se detecte que la víctima se ha conducido con falsedad respecto de la información proporcionada, el Consejo de Víctimas, por conducto de la Unidad de Víctimas suspenderá todo apoyo y beneficio que se le haya otorgado, sin perjuicio de las responsabilidades en que hubiere incurrido.
+En caso de que se detecte que la víctima se ha conducido con falsedad respecto de la información proporcionada, la Comisión Ejecutiva Estatal, por conducto de la Unidad de Víctimas suspenderá todo apoyo y beneficio que se le haya otorgado, sin perjuicio de las responsabilidades en que hubiere incurrido.
 
 ###### Artículo 28.
 
@@ -415,27 +425,37 @@ IX. Servicios de interrupción voluntaria del embarazo en los casos permitidos p
 
 X. La atención para los derechos sexuales y reproductivos de las mujeres víctimas.
 
-En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus costos hayan sido cubiertos por la víctima, o en el caso de la fracción IV, el Estado se los reembolsará de manera completa e inmediata a través del Fondo de Víctimas, de conformidad con los procedimientos que para tales efectos emita el Consejo de Víctimas.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus costos hayan sido cubiertos por la víctima, o en el caso de la fracción IV, el Estado se los reembolsará de manera completa e inmediata a través del Fondo de Ayuda, de conformidad con los procedimientos que para tales efectos emita la Comisión Ejecutiva Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 34.
 
-El Consejo de Víctimas, de conformidad con lo señalado en el artículo 33 de la Ley General, deberá implementar un programa de credencialización que identifique a las víctimas ante el sistema de salud, conforme al Registro Nacional y al Registro de Víctimas, con el fin de garantizar la asistencia y atención prioritarias para efectos reparadores.
+La Comisión Ejecutiva Estatal, de conformidad con lo señalado en el artículo 33 de la Ley General, deberá implementar un programa de credencialización que identifique a las víctimas ante el sistema de salud, conforme al Registro Nacional y al Registro de Víctimas, con el fin de garantizar la asistencia y atención prioritarias para efectos reparadores.
 
 El proceso de credencialización se realizará de manera gradual y progresiva y dará prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicha credencial y requieran atención inmediata deberán ser atendidas de manera prioritaria, mientras se registran.
 
-Las disposiciones relativas al proceso de credencialización serán emitidas por la Comisión de Víctimas y se desarrollarán en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+Las disposiciones relativas al proceso de credencialización serán emitidas por la Comisión Ejecutiva Estatal y se desarrollarán en el Reglamento de la presente Ley.
 
 ###### Artículo 35.
 
 A toda víctima de delito de violación, o cualquier otra conducta que afecte su integridad física o psicológica, se le garantizará el acceso a los servicios de anticoncepción de emergencia y de interrupción voluntaria del embarazo en los casos permitidos por la ley, con absoluto respeto a la voluntad de la víctima; asimismo, se le realizará práctica periódica de exámenes y tratamiento especializado durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-El Consejo de Víctimas, en coordinación con las dependencias, entidades y organismos de la administración pública estatal en materia de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, definirán los procedimientos para garantizar de manera gratuita los servicios de asistencia médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar, de acuerdo al concepto médico y valoración que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con las conductas.
+La Comisión Ejecutiva Estatal, en coordinación con las dependencias, entidades y organismos de la administración pública estatal en materia de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, definirán los procedimientos para garantizar de manera gratuita los servicios de asistencia médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar, de acuerdo al concepto médico y valoración que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con las conductas.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 37.
 
-El Estado apoyará a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa cuando la causa de la muerte sea homicidio, de conformidad con el artículo 18 fracción II de esta Ley. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar del Estado. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. Los apoyos serán cubiertos a cuenta del Fondo de Víctimas, de conformidad con los procedimientos que para tales efectos emita el Consejo de Víctimas.
+El Estado apoyará a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa cuando la causa de la muerte sea homicidio, de conformidad con el artículo 18 fracción II de esta Ley. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar del Estado. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. Los apoyos serán cubiertos a cuenta del Fondo de Ayuda, de conformidad con los procedimientos que para tales efectos emita la Comisión Ejecutiva Estatal.
 
 ### CAPÍTULO III. MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
 
@@ -561,23 +581,29 @@ Lo anterior sin perjuicio de las responsabilidades civiles, penales y administra
 
 Cuando se trate de resoluciones judiciales que determinen la compensación a la víctima a cargo del sentenciado, la autoridad judicial deberá ordenar la reparación con cargo al patrimonio de éste, o en su defecto, con cargo a los recursos que, en su caso, se obtengan de la liquidación de los bienes decomisados al sentenciado, de conformidad con la ley en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 50.
 
-El Consejo de Víctimas determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo de Víctimas, en términos de la presente Ley, así como de las normas reglamentarias correspondientes y tomará en cuenta:
+La Comisión Ejecutiva Estatal determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo de Ayuda, en términos de la presente Ley, así como de las normas reglamentarias correspondientes y tomará en cuenta:
 
 I. La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido; y
 
 II. La resolución firme emitida por la autoridad judicial.
 
-La determinación del Consejo de Víctimas deberá dictarse dentro del plazo de sesenta días hábiles, contados a partir de emitida la resolución correspondiente.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+La determinación de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de sesenta días hábiles, contados a partir de emitida la resolución correspondiente.
 
 ###### Artículo 51.
 
 El Estado compensará de forma subsidiaria el daño causado a la víctima de los delitos considerados como graves en el ámbito de su competencia en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental como consecuencia del delito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 52.
 
-El Consejo de Víctimas ordenará la compensación subsidiaria cuando la víctima que no haya sido reparada exhiba ante ella todos los elementos a su alcance y cumpla con el procedimiento respectivo para su otorgamiento. La víctima podrá presentar, entre otros, los siguientes documentos:
+La Comisión Ejecutiva Estatal ordenará la compensación subsidiaria cuando la víctima que no haya sido reparada exhiba ante ella todos los elementos a su alcance y cumpla con el procedimiento respectivo para su otorgamiento. La víctima podrá presentar, entre otros, los siguientes documentos:
 
 I. Las constancias del agente del Ministerio Público de las que se desprenda que las circunstancias del hecho hacen imposible la consignación del imputado ante la autoridad jurisdiccional e imposibiliten el ejercicio de la acción penal;
 
@@ -585,7 +611,9 @@ II. La sentencia firme de la autoridad judicial competente en la que se señalen
 
 III. La resolución emitida por autoridad competente u organismo público de protección de los derechos humanos, de donde se desprenda que no ha obtenido la reparación del daño de la persona directamente responsable de satisfacer dicha reparación; y
 
-IV. Cualquier otro documento que le solicite el Consejo de Víctimas donde se exprese la necesidad del otorgamiento de la compensación.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+IV. Cualquier otro documento que le solicite la Comisión Ejecutiva Estatal donde se exprese la necesidad del otorgamiento de la compensación.
 
 ###### Artículo 53.
 
@@ -671,7 +699,9 @@ Cuando el sujeto haya sido sentenciado por delitos o violación a los derechos h
 
 El Sistema Estatal de Justicia para las Víctimas será la instancia superior de coordinación y formulación de políticas públicas y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral a las víctimas en los ámbitos estatal y municipal.
 
-Para la operación del Sistema de Víctimas y el cumplimiento de sus atribuciones, el Sistema de Víctimas contará con un Consejo Estatal de Víctimas quien conocerá y resolverá los asuntos de su competencia, de conformidad con las disposiciones de la presente Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+Para la operación del Sistema de Víctimas y el cumplimiento de sus atribuciones, el Sistema de Víctimas contará con una Comisión Ejecutiva Estatal quien conocerá y resolverá los asuntos de su competencia, de conformidad con las disposiciones de la presente Ley y su Reglamento.
 
 La aplicación de las medidas de asistencia, atención y reparación integral a víctimas estará a cargo de la Unidad de Víctimas en coordinación con las autoridades señaladas en el artículo 6 de la presente Ley.
 
@@ -689,19 +719,53 @@ c) Realicen investigación, asesoría, capacitación o promoción del desarrollo
 
 II. Las instituciones de asistencia social o de beneficencia pública o privada, vinculadas a la materia; y
 
-III. Un Consejo, que será la máxima autoridad del Sistema de Víctimas.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE VÍCTIMAS
+III. Una Comisión Ejecutiva Estatal, que será la máxima autoridad del Sistema de Víctimas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LA COMISIÓN EJECUTIVA ESTATAL
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 62.
 
-El Consejo Estatal de Víctimas del Sistema de Víctimas será la Junta de Gobierno del Instituto de Acceso a la Justicia del Estado de Campeche, con la salvedad de que contará con un noveno vocal, el cual será la Comisión de Derechos Humanos del Estado de Campeche.
+La Comisión Ejecutiva Estatal se integrará de la siguiente manera:
 
-Como Secretario Técnico del Consejo de Víctimas fungirá el Director General del Instituto.
+I. Un Presidente, quien será la persona Titular de la Secretaría de Gobierno;
+
+II. Un Vicepresidente, que será la o el Director General del Instituto de Acceso a la Justicia; y
+
+III. Diez vocales:
+
+1) La o el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche
+
+2) La persona titular de la Secretaría de Bienestar;
+
+3) La persona titular de la Secretaría de Administración y Finanzas;
+
+4) La persona titular de la Secretaría de Salud;
+
+5) La persona Titular de la Secretaría de Protección y Seguridad Ciudadana;
+
+6) La o el Fiscal General del Estado;
+
+7) La o el Consejero Jurídico del Poder Ejecutivo del Estado;
+
+8) La o el Diputado que presida la Comisión de Procuración e Impartición de Justicia del H. Congreso del Estado de Campeche;
+
+9) La o el Magistrado que designe el Pleno del Tribunal Superior de Justicia del Estado de Campeche; y
+
+10) La o el presidente de la Comisión de Derechos Humanos del Estado de Campeche.
+
+Por cada miembro de la comisión con excepción de quien ocupe la presidencia y la vicepresidencia, habrá un suplente designado por el propietario. Para el caso específico de la o el presidente de la Comisión de Procuración e Impartición de Justicia del H. Congreso del Estado, la suplencia recaerá en quien ocupe la secretaría de esa Comisión.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 63.
 
-El Consejo de Víctimas tendrá las siguientes atribuciones:
+La Comisión Ejecutiva Estatal tendrá las siguientes atribuciones:
 
 I. Recomendar políticas, programas, estudios y acciones específicas para la atención, protección e integración social de la víctima;
 
@@ -723,37 +787,49 @@ IX. Establecer de oficio o petición de alguno de los integrantes del Sistema de
 
 X. Celebrar convenios de coordinación, colaboración y concertación para el cumplimiento de los fines del Sistema de Víctimas;
 
-XI. Supervisar la administración del Fondo de Víctimas;
+XI. Supervisar la administración del Fondo de Ayuda;
 
 XII. Determinar los montos del pago de las compensaciones en forma subsidiaria a cargo del fondo respectivo, en términos del Reglamento;
 
 XIII. Generar una vinculación con el Sistema Nacional y la Comisión Ejecutiva;
 
-XIV. Canalizar la participación ciudadana para obtener recursos económicos y aportaciones que apoyen la conformación y fortalecimiento del Fondo de Víctimas, tendiente a ofrecer la reparación del daño, el pago de perjuicios, y ayuda económica provisional a víctimas; y
+XIV. Canalizar la participación ciudadana para obtener recursos económicos y aportaciones que apoyen la conformación y fortalecimiento del Fondo de Ayuda, tendiente a ofrecer la reparación del daño, el pago de perjuicios, y ayuda económica provisional a víctimas;
 
-XV. Aquellas que sean necesarias para cumplir el objeto de la presente Ley.
+XV. Solicitar a las autoridades competentes la realización de estudios, evaluaciones o peritajes para determinar la existencia del daño en posibles víctimas de violaciones a sus derechos y, en su caso, el grado y alcance de dicho daño;
+
+XVI. Dictaminar la reparación integral del daño; para lo cual podrá conformar grupos multidisciplinarios para efectos de hacer una evaluación general de los elementos del caso; y
+
+XVII. Aquellas que sean necesarias para cumplir el objeto de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 64.
 
-El Consejo de Víctimas se reunirá en Pleno o en Comisiones, las cuales se deberán crear de conformidad con lo establecido en el Reglamento de esta Ley.
+La Comisión Ejecutiva Estatal se reunirá en Pleno o en Comisiones, las cuales se deberán crear de conformidad con lo establecido en el Reglamento de esta Ley.
 
 El Pleno se reunirá por lo menos una vez cada tres meses, a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar, y en forma extraordinaria cada que una situación urgente así lo requiera.
 
-El quórum para las reuniones del Consejo de Víctimas se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto. En caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+El quórum para las reuniones de la Comisión Ejecutiva Estatal se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto. En caso de empate, el Presidente tendrá voto de calidad. Los cargos de los miembros de la Comisión Ejecutiva Estatal serán honoríficos, por lo que su desempeño no dará derecho a la percepción de remuneración o gratificación alguna.
 
 Los cargos de los miembros del Consejo serán honoríficos, por lo que su desempeño no dará derecho a la percepción de remuneración o gratificación alguna.
 
 En sus ausencias, el Presidente será suplido por el Vicepresidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 65.
 
-Tendrán el carácter de invitados a las sesiones del Pleno del Consejo de Víctimas y de sus Comisiones, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras que, por acuerdo del Pleno del Consejo de Víctimas, deban participar en la sesión que corresponda.
+Tendrán el carácter de invitados a las sesiones del Pleno de la Comisión Ejecutiva Estatal y de sus Comisiones, las personas, instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras que, por acuerdo del Pleno de la Comisión Ejecutiva Estatal, deban participar en la sesión que corresponda.
 
 El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz, pero sin voto.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-El Reglamento desarrollará las disposiciones necesarias para el adecuado funcionamiento del Consejo de Víctimas y la forma de conformación de las Comisiones, las cuales deberán estar acordes a las disposiciones de la Ley General y su reglamento.
+El Reglamento desarrollará las disposiciones necesarias para el adecuado funcionamiento de la Comisión Ejecutiva Estatal y la forma de conformación de las Comisiones, las cuales deberán estar acordes a las disposiciones de la Ley General y su reglamento.
 
 ### CAPÍTULO III. DE LA UNIDAD DE ASISTENCIA Y ATENCIÓN A VÍCTIMAS
 
@@ -763,7 +839,9 @@ Se crea la Unidad de Asistencia y Atención a Víctimas como un área administra
 
 I. La aplicación de medidas de asistencia y atención y de reparación integral de víctimas, así como la asistencia integral para el ejercicio efectivo de los derechos consagrados en la presente Ley y su Reglamento;
 
-II. La implementación de las políticas y disposiciones en materia de víctimas que genere el Consejo de Víctimas, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+II. La implementación de las políticas y disposiciones en materia de víctimas que genere la Comisión Ejecutiva Estatal, en el ámbito de su competencia;
 
 III. La coordinación interinstitucional entre las diversas dependencias y entidades de la administración pública estatal y municipal, y los poderes Judicial y Legislativo del Estado.
 
@@ -811,7 +889,9 @@ IX. Brindar asesoría técnica y capacitación a las diversas instancias estatal
 
 X. Promover acciones específicas de protección a víctimas e involucrar en esta tarea al sector educativo, de salud, a las instituciones de educación superior públicas o privadas, sindicatos, agrupaciones empresariales y de comerciantes, sociedades de padres de familia y sociedad civil organizada, entre otros;
 
-XI. Proponer al Consejo de Víctimas reformas jurídicas y administrativas en materia de asistencia y atención a víctimas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+XI. Proponer a la Comisión Ejecutiva Estatal reformas jurídicas y administrativas en materia de asistencia y atención a víctimas;
 
 XII. Fomentar la cultura de protección a las víctimas en todo el Estado;
 
@@ -819,7 +899,9 @@ XIII. Impulsar la capacitación y profesionalización en materia victimológica,
 
 XIV. Promocionar la celebración de convenios de coordinación y colaboración con dependencias y entidades vinculadas con las funciones de asistencia, atención y protección a víctimas, de la Federación, otros Estados y los Municipios; con el objeto de compartir información y coadyuvar en la formulación de políticas públicas y estrategias adecuadas en la materia; y
 
-XV. Las demás que les confiera el Consejo de Víctimas, la presente Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+XV. Las demás que les confiera la Comisión Ejecutiva Estatal, la presente Ley y su Reglamento.
 
 ###### Artículo 70.
 
@@ -843,7 +925,9 @@ VIII. Realizar los trámites necesarios para el traslado de las víctimas a las 
 
 IX. Dar seguimiento a las acciones y actividades relacionadas con la asistencia, atención y protección a víctimas;
 
-X. Las demás que señale el Consejo de Víctimas, la presente Ley, su Reglamento y demás legislación aplicable.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+X. Las demás que señale la Comisión Ejecutiva Estatal, la presente Ley, su Reglamento y demás legislación aplicable.
 
 ###### Artículo 71.
 
@@ -1037,9 +1121,11 @@ Las solicitudes de ingreso se realizarán en forma totalmente gratuita; el ingre
 
 Bajo ninguna circunstancia la autoridad podrá negarse a recibir la solicitud de registro a las víctimas a que se refiere la presente Ley.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 91.
 
-La inscripción y cancelación en el Registro de Víctimas se hará conforme a lo dispuesto en el Reglamento de la presente Ley y a las disposiciones que al efecto emita el Consejo de Víctimas.
+La inscripción y cancelación en el Registro de Víctimas se hará conforme a lo dispuesto en el Reglamento de la presente Ley y a las disposiciones que al efecto emita la Comisión Ejecutiva Estatal.
 
 ###### Artículo 92.
 
@@ -1057,23 +1143,31 @@ La información que se asiente en el Registro de Víctimas deberá garantizar qu
 
 La Unidad de Víctimas elaborará un plan de divulgación, capacitación y actualización sobre el procedimiento para la recepción de la declaración y su trámite hasta la decisión de inclusión o no en el Registro de Víctimas.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 94.
 
-Las disposiciones complementarias para el adecuado funcionamiento del Registro de Víctimas se desarrollarán en el Reglamento de la presente Ley y en las disposiciones que al efecto emita el Consejo de Víctimas.
+Las disposiciones complementarias para el adecuado funcionamiento del Registro de Víctimas se desarrollarán en el Reglamento de la presente Ley y en las disposiciones que al efecto emita la Comisión Ejecutiva Estatal.
 
-## TÍTULO SÉPTIMO. DEL FONDO DE JUSTICIA PARA LAS VÍCTIMAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+## TÍTULO SÉPTIMO. DEL FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL DEL ESTADO DE CAMPECHE
 
 ### CAPÍTULO I. OBJETO E INTEGRACIÓN DEL FONDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 95.
 
-Sea crea el Fondo de Justicia para las Víctimas, el cual forma parte del Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia, y que tiene por objeto brindar los recursos necesarios para el apoyo, asistencia y protección de las víctimas, cuando sea procedente de acuerdo a los requisitos establecidos en la presente Ley y su Reglamento.
+Se crea el Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche, el cual tiene por objeto brindar los recursos necesarios para el apoyo, asistencia y protección de las víctimas, cuando sea procedente de acuerdo a los requisitos establecidos en la presente Ley y su Reglamento, así como la Ley General de Víctimas.
 
 La víctima podrá acceder de manera subsidiaria al Fondo de Víctimas en términos de esta Ley, sin perjuicio de ejercer las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 96.
 
-Para ser beneficiarios del Fondo de Víctimas, además de los requisitos que establezca esta Ley y su Reglamento, las víctimas deberán estar inscritas en el Registro de Víctimas, a efecto de que la Unidad de Víctimas realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de apoyo y auxilio.
+Para ser beneficiarios del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche, además de los requisitos que establezca la Ley General de Víctimas y su Reglamento, esta Ley y su Reglamento (sic), las víctimas deberán estar inscritas en el Registro de Víctimas, a efecto de que la Unidad de Víctimas realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de apoyo y auxilio.
 
 ###### Artículo 97.
 
@@ -1083,7 +1177,9 @@ I. Mediante resolución judicial que así lo determine;
 
 II. Las recomendaciones emitidas por los órganos jurisdiccionales internacionales de protección de derechos humanos a los que México les reconozca competencia; y
 
-III. Las resoluciones que al efecto emita el Consejo de Víctimas el cual podrá tomar en consideración:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2024)</small>
+
+III. Las resoluciones que al efecto emita la Comisión Ejecutiva Estatal la cual podrá tomar en consideración:
 
 a) Las determinaciones del ministerio público;
 
@@ -1095,49 +1191,47 @@ d) Las recomendaciones formuladas por organismos internacionales de protección 
 
 El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los recursos del Fondo de Víctimas y a la reparación integral, de conformidad con lo previsto en la presente Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 98.
 
-El Fondo de Víctimas estará integrado por:
+El Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche el cual estará integrado por los recursos que destine el Estado expresamente para los fines establecidos en el artículo 95. Se integrará de conformidad con lo que establece el artículo 157 Ter de la Ley General de Víctimas.
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Campeche en el rubro correspondiente, sin que pueda disponerse de dichos recursos para un fin diverso;
+De los recursos que constituyan el patrimonio del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche, se deberá mantener una reserva del 20% para cubrir los reintegros a los que hace referencia el artículo 157 Quáter de la Ley General de Víctimas.
 
-II. Los recursos obtenidos por la enajenación, previa sentencia ejecutoriada, de bienes decomisados dentro de los procesos penales;
-
-III. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad;
-
-IV. Los recursos provenientes de multas o sanciones pecuniarias impuestas por la autoridad administrativa o judicial cuando se violen deberes reconocidos por esta Ley;
-
-V. Los montos que se recuperen en virtud del derecho de repetición, en los términos de esta Ley;
-
-VI. Las donaciones o aportaciones hechas a su favor por terceros, conforme a las disposiciones correspondientes aplicables;
-
-VII. El monto total de la reparación integral del daño cuando el beneficiario renuncie a ella o no lo reclame dentro del plazo legal establecido;
-
-VIII. Las subastas públicas respecto a los objetos o valores que se encuentren a disposición de autoridades investigadoras, cuando no hayan sido reclamados por quien tenga derecho a ello, en términos de la ley en la materia; y
-
-IX. Las demás formas que contemple el Reglamento y los mecanismos que considere necesarios el Consejo de Víctimas.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 99.
 
-La constitución del Fondo de Víctimas será con independencia de la existencia de otros ya establecidos para la atención a víctimas. La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los de esta Ley se hará de manera complementaria, a fin de evitar su duplicidad.
+La constitución del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche será con independencia de la existencia de otros ya establecidos para la atención a víctimas. La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los de esta Ley se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en la Ley General de Víctimas y en esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 100.
 
-El Fondo de Víctimas se constituirá como un fideicomiso y estará exento de toda imposición de carácter fiscal local, así como de los diversos gravámenes a que pudieran estar sujetas las operaciones que se realicen con el Estado o los municipios.
+El Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche se constituirá como un fideicomiso y estará exento de toda imposición de carácter fiscal local, así como de los diversos gravámenes a que pudieran estar sujetas las operaciones que se realicen con el Estado o los municipios.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 101.
 
-El Fondo de Víctimas será revisado y fiscalizado anualmente por la Secretaría de la Contraloría, así como por la Auditoría Superior del Estado, en el ámbito de sus respectivas competencias.
+El Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche será revisado y fiscalizado anualmente por la Secretaría de la Contraloría, así como por la Auditoría Superior del Estado, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 102.
 
-Los recursos del Fondo se aplicarán exclusivamente para apoyos de carácter económico a la víctima y para poder otorgarle las medidas de atención y protección necesarias a su calidad, en los términos de esta Ley y su respectivo Reglamento. El Reglamento de la Ley desarrollará las disposiciones complementarias necesarias para la adecuada administración del Fondo de Víctimas.
+Los recursos del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche se aplicarán exclusivamente para apoyos de carácter económico a la víctima y para poder otorgarle las medidas de atención y protección necesarias a su calidad, en los términos de la Ley General de Víctimas, esta Ley y su respectivo Reglamento.
+
+El Ejecutivo Estatal a través de la Secretaría de Administración y Finanzas, deberá constituir el fideicomiso público sin estructura "Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche", y deberán establecerse en el Reglamento de la Ley las disposiciones complementarias necesarias para la adecuada administración del mismo.
 
 ### CAPÍTULO II. DE LOS APOYOS ECONÓMICOS Y SU OTORGAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 103.
 
-Para tener acceso a los beneficios del Sistema de Víctimas en materia de apoyo económico, la víctima deberá cumplir con los requisitos que la Unidad de Víctimas establezca para tales fines, así como las disposiciones que emita para tales efectos el Consejo de Víctimas, de conformidad con la presente Ley y su Reglamento.
+Para tener acceso a los beneficios del Sistema de Víctimas en materia de apoyo económico, la víctima deberá cumplir con los requisitos que la Unidad de Víctimas establezca para tales fines, así como las disposiciones que emita para tales efectos la Comisión Ejecutiva Estatal, de conformidad con la presente Ley y su Reglamento.
 
 ###### Artículo 104.
 
@@ -1147,9 +1241,11 @@ Cuando el ministerio público tenga conocimiento de un delito deberá informarse
 
 El asesor jurídico autorizado o nombrado por la víctima perteneciente a la Unidad de Asistencia Jurídica del Instituto podrá solicitar al ministerio público que, por cuenta de la víctima, reclame el costo de servicios médicos, hospitalarios y medicinales prestados o cubiertos, como parte de la reparación de daños y perjuicios exigibles al sentenciado y terceros obligados, así como para que promueva, en su caso, el embargo precautorio de bienes y la ejecución de sentencia en lo que toca a la sanción pecuniaria. Lo anterior también podrá reclamarse conforme a las formas y procedimientos que disponga la ley que regule el ejercicio de la acción penal por parte de los particulares.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 106.
 
-Las personas que hayan sido procesadas por los tribunales del Estado de Campeche y hayan obtenido sentencia absolutoria ejecutoriada, o resolución relativa al reconocimiento de inocencia, podrán solicitar a la Unidad de Víctimas el importe de un salario mínimo vigente por cada día de reclusión que hubieran sufrido según resulte de la certificación del órgano penitenciario o jurisdiccional competente, de conformidad con las disposiciones que al efecto emita el Consejo de Víctimas y estricto apego a las disposiciones de esta Ley y su Reglamento.
+Las personas que hayan sido procesadas por los tribunales del Estado de Campeche y hayan obtenido sentencia absolutoria ejecutoriada, o resolución relativa al reconocimiento de inocencia, podrán solicitar a la Unidad de Víctimas el importe de un salario mínimo vigente por cada día de reclusión que hubieran sufrido según resulte de la certificación del órgano penitenciario o jurisdiccional competente, de conformidad con las disposiciones que al efecto emita la Comisión Ejecutiva estatal y estricto apego a las disposiciones de esta Ley y su Reglamento.
 
 ###### Artículo 107.
 
@@ -1196,3 +1292,15 @@ PRIMERO.- El presente decreto entrará en vigor quince días después de su publ
 SEGUNDO.- Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 8 POR EL QUE SE “SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 1; LAS FRACCIONES III Y IV DEL ARTÍCULO 5; LOS ARTÍCULOS 7; 27; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 34; LOS ARTÍCULOS 36; 37; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 50; EL PÁRRAFO PRIMERO Y LA FRACCIÓN IV DEL ARTÍCULO 52; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 60; LA FRACCIÓN III DEL ARTÍCULO 61; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO QUINTO PARA QUEDAR COMO “DE LA COMISIÓN EJECUTIVA ESTATAL”; LOS ARTÍCULOS 62; 63; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 64; EL PÁRRAFO PRIMERO DEL ARTÍCULO 65; EL ARTÍCULO 66; LA FRACCIÓN II DEL ARTÍCULO 67; LAS FRACCIONES XI Y XV DEL ARTÍCULO 69; LA FRACCIÓN X DEL ARTÍCULO 70; LOS ARTÍCULOS 91; 94; LA DENOMINACIÓN DEL TÍTULO SÉPTIMO PARA QUEDAR COMO “DEL FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL DEL ESTADO DE CAMPECHE”; EL PÁRRAFO PRIMERO DEL ARTÍCULO 95; EL ARTÍCULO 96; LA FRACCIÓN III DEL ARTÍCULO 97; LOS ARTÍCULOS 98; 99; 100; 101; 102; 103 Y 106, TODOS DE LA LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del Decreto por el que se reforma el párrafo segundo del artículo 76 Bis de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado, con las salvedades que disponen los artículos transitorios subsecuentes.
+
+SEGUNDO.- El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas, deberá realizar las acciones que correspondan con la finalidad de constituir el fideicomiso público sin estructura "Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Campeche”, en un plazo que no exceda de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
+
+La aportación inicial del fideicomiso se realizará con los recursos que, hasta la fecha de entrada en vigor del presente decreto, cuente el Fondo de Justicia para las Víctimas.
+
+TERCERO.- La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche deberá proceder a la liquidación del Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche, integrando los recursos que conforman dicho Fondo al Patrimonio del Instituto de Acceso a la Justicia del Estado de Campeche.
