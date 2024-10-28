@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-de-la-administracion-publica-del-estado-de-1608
 country: "mx"
 rank: "codigo"
 publication_date: "2022-11-02"
-last_updated: "2022-11-02"
+last_updated: "2024-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS -- ANTES: CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA ESTATAL DE MORELOS --
 
-CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE MORELOS
+CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
 
 Código publicado en el Número 6133 del Periódico Oficial del Estado de Morelos, el miércoles 2 de Noviembre de 2022.
 
@@ -37,15 +37,19 @@ EXPOSICIÓN DE MOTIVOS
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
-CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
 ## TÍTULO PRIMERO. LA ÉTICA DEL SERVICIO PÚBLICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento es aplicable a todas las personas que desempeñen un empleo, cargo o comisión en las dependencias y entidades de la Administración Pública del Poder Ejecutivo Estatal, por lo que es obligatorio en cualquiera de sus niveles jerárquicos, incluyendo al personal de base y sindicalizado. Su incumplimiento será objeto de queja o denuncia, conforme a lo dispuesto en el artículo 36 del presente código.
+El presente ordenamiento es aplicable a todas las personas que desempeñen un empleo, cargo o comisión en las dependencias y entidades de la Administración Pública del Poder Ejecutivo del Estado de Morelos, por lo que es obligatorio en cualquiera de sus niveles jerárquicos, incluyendo al personal de base y sindicalizado. Su incumplimiento será objeto de queja o denuncia, conforme a lo dispuesto en el artículo 36 del presente código.
 
 El presente ordenamiento constituirá un elemento de la política de integridad de los entes públicos obligados, para el fortalecimiento de un servicio público ético e íntegro. Será el instrumento que contendrá los principios y valores considerados como fundamentales para la definición del rol del servicio público y que buscará incidir en el comportamiento y desempeño de las personas servidoras públicas, para formar una ética e identidad profesional compartida y un sentido de orgullo de pertenencia al servicio público.
 
@@ -67,21 +71,31 @@ I. Acoso laboral: forma de violencia que se presenta en una serie de eventos que
 
 II. Acoso sexual: forma de violencia de carácter sexual, en la que, si bien no existe una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, hay un ejercicio abusivo de poder por parte de quien la realiza. Puede tener lugar entre personas servidoras públicas y personal que preste servicio social, prácticas profesionales, u otras personas que no se encuentren previstas como servidoras públicas pero guarden algún tipo de relación con el ente público y de éstas hacia particulares y es expresada en conductas verbales o no verbales, de hecho, físicas o visuales, como son aquellas mencionadas en la fracción IV del artículo 5 del presente Código, independientemente de que se realice en uno o varios eventos;
 
-III. Código: Código de ética de la Administración pública estatal;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
 
-IV. Código de conducta: instrumento emitido por las dependencias y entidades de la Administración pública estatal, en el que se específica de manera puntual y concreta la forma en que las personas servidoras públicas aplicarán los principios, valores, reglas de integridad y compromisos contenidos en el presente código, atendiendo a los objetivos, misión y visión de la dependencia o entidad de que se trate;
+III. Código: Código de Ética de la Administración Pública del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+IV. Código de conducta: instrumento emitido por las dependencias y entidades de la Administración Pública del Estado de Morelos, en el que se específica de manera puntual y concreta la forma en que las personas servidoras públicas aplicarán los principios, valores, reglas de integridad y compromisos contenidos en el presente código, atendiendo a los objetivos, misión y visión de la dependencia o entidad de que se trate;
 
 V. Corrupción: en términos del segundo párrafo del numeral 5 del Programa Nacional de Combate a la Corrupción y a la Impunidad, y de Mejora de la Gestión Pública 2019-2024, es el abuso de cualquier posición de poder, público o privado, con el objetivo de generar un beneficio indebido a costa del bienestar colectivo o individual;
 
-VI. Dependencias: a la Jefatura de la Oficina de la Gubernatura del Estado, la Comisión Estatal de Seguridad Pública, la Consejería Jurídica, las secretarías y demás de similar envergadura acorde a lo dispuesto en el artículo 3, párrafo cuarto, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+VI. Dependencias: a la Jefatura de la Oficina de la Gubernatura del Estado, la Consejería Jurídica y demás de similar envergadura.
 
 VII. Dignidad: comprende a la persona como titular de derechos y a no ser objeto de violencia o arbitrariedades por parte de las instituciones de gobierno, de modo que todas las personas servidoras públicas, se encuentran obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación, garantizando que no sea afectado el núcleo esencial de sus derechos;
 
 VIII. Discriminación: es toda distinción, exclusión, restricción o preferencia que, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto obstaculizar, disminuir o impedir los derechos de cualquier persona, cuando ello se base en uno o más de los motivos que establece la fracción II del artículo 5 del presente código;
 
-IX. Entidades: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3 último párrafo, 43, 44, 45 y 46 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
 
-X. Ética pública: conjunto de principios, valores y reglas de integridad orientados al interés público, conforme a los cuales deben actuar todas las personas adscritas a las secretarías, dependencias y entidades de la Administración pública estatal, sin importar su nivel jerárquico, en aras de aspirar a la excelencia en el servicio público que logre contar con la confianza de la sociedad;
+IX. Entidades: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refiere la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+X. Ética pública: conjunto de principios, valores y reglas de integridad orientados al interés público, conforme a los cuales deben actuar todas las personas adscritas a las secretarías, dependencias y entidades de la Administración Pública del Estado de Morelos, sin importar su nivel jerárquico, en aras de aspirar a la excelencia en el servicio público que logre contar con la confianza de la sociedad;
 
 XI. Hostigamiento sexual: es una forma de violencia de carácter sexual en la cual hay un ejercicio abusivo de poder por parte de quien la realiza y tiene lugar en una relación de subordinación jerárquica real de la víctima frente a la persona agresora. Es expresada en conductas verbales o no verbales, de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos;
 
@@ -99,7 +113,9 @@ XVII. Personas servidoras públicas: a toda persona que desempeñe un cargo, com
 
 XVIII. Recursos públicos: conjunto de ingresos financieros y materiales de los que disponen las secretarías, dependencias y entidades para el cumplimiento de sus objetivos; y,
 
-XIX. Secretaría: la Secretaría de la Contraloría del Poder Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+XIX. Secretaría: la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos.
 
 ### CAPÍTULO II. PRINCIPIOS DEL SERVICIO PÚBLICO
 
@@ -161,7 +177,11 @@ V. Llevar a cabo conductas de acoso laboral, consistentes en ignorar, excluir, a
 
 VI. Obstruir bajo amenazas o presiones, la presentación de quejas o denuncias ante cualesquiera de las instancias facultadas para tales efectos.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 6.
+
+Legalidad. El Principio de Legalidad fomentará el cumplimiento a las normas jurídicas, con un estricto sentido de vocación de servicio a la sociedad, garantizando el profesionalismo, así como los valores de respeto a los derechos humanos y liderazgo.
 
 Legalidad. Las personas servidoras públicas deben conocer y aplicar las normas que rigen sus funciones, actuando sólo conforme a ellas. Deberán hacer sólo aquello que las normas expresamente les confieren y en todo momento someter su actuación a las facultades que las leyes, reglamentos y demás normativa aplicable atribuyen a su empleo, cargo o comisión.
 
@@ -179,7 +199,11 @@ V. Omitir notificar el inicio de cualquier tipo de procedimiento seguido en form
 
 VI. Omitir el cumplimiento de resoluciones jurisdiccionales que recaigan a los procedimientos sustanciados por las personas servidoras públicas competentes dentro de los plazos previstos por la ley de la materia.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 7.
+
+Honradez. El Principio de Honradez fomentará la rectitud en el ejercicio del empleo, cargo o comisión promoviendo un gobierno abierto que promueva la máxima publicidad y el escrutinio público de sus funciones ante la sociedad, garantizando la transparencia y la rendición de cuentas, así como el valor de respeto.
 
 Honradez. Las personas servidoras públicas deben distinguirse por actuar con rectitud, sin utilizar su cargo para obtener, pretender obtener o aceptar cualquier beneficio para sí o a favor de terceras personas.
 
@@ -193,9 +217,15 @@ III. Solicitar o recibir beneficios particulares, para sí o para terceras perso
 
 IV. Contar con un beneficio directo para sí o para familiares hasta el cuarto grado, proveniente de programas de subsidios o apoyos de la secretaría, dependencia o entidad que dirija.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-Lealtad. En el ejercicio de su deber, las personas servidoras públicas deben corresponder a la confianza que la sociedad les ha conferido, mediante una vocación de servicio, con profesionalismo y a favor de sus necesidades colectivas por encima de intereses particulares, personales o ajenos al Interés público.
+Lealtad. El Principio de Lealtad buscará que las personas servidoras públicas correspondan a la confianza que el Estado les ha conferido, a fin de satisfacer el interés superior de las necesidades colectivas y generar certeza plena de su conducta frente a todas las personas, garantizando la integridad; los valores de interés público y entorno cultural y ecológico, así como las reglas de integridad de cooperación y desempeño permanente con la integridad.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+En el ejercicio de su deber, las personas servidoras públicas deben corresponder a la confianza que la sociedad les ha conferido, mediante una vocación de servicio, con profesionalismo y a favor de sus necesidades colectivas por encima de intereses particulares, personales o ajenos al interés público.
 
 Para ello, las personas servidoras públicas deben evitar conductas tales como:
 
@@ -207,7 +237,11 @@ III. Incurrir en cualquier acto u omisión que comprometa negativamente los inte
 
 IV. Dejar de ejercer las funciones propias de su cargo o comisión, siempre y cuando no exista algún impedimento previsto en las normas jurídicas en casos concretos.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 9.
+
+Imparcialidad. El Principio de Imparcialidad buscará fomentar el acceso neutral y sin discriminación de todas las personas, a las mismas condiciones, oportunidades y beneficios institucionales y gubernamentales, garantizando así la equidad, la objetividad y la competencia por mérito; los valores de equidad de género e igualdad y no discriminación y la regla de integridad de comportamiento digno.
 
 Imparcialidad. Las personas servidoras públicas deben brindar a toda persona física y moral el mismo trato y actuar de forma objetiva, sin conceder privilegios o preferencias por razón de jerarquías, influencias, intereses o cualquier otra característica o condición. Para ello, las personas servidoras públicas deben evitar conductas tales como:
 
@@ -221,7 +255,11 @@ IV. Reunirse con personas licitantes, proveedoras, contratistas o concesionarias
 
 V. Omitir excusarse de conocer asuntos que puedan implicar actuación bajo conflicto de interés, conforme a las formalidades previstas en la Ley de Responsabilidades Administrativas para el Estado de Morelos o cualquier disposición afín.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 10.
+
+Eficiencia. El Principio de Eficiencia buscará consolidar los objetivos gubernamentales a través de una cultura de servicio público austero, orientada a resultados y basada en la optimización de recursos, garantizando la eficacia, la economía y la disciplina, así como el valor de cooperación.
 
 Eficiencia. Todas las personas servidoras públicas deben ejercer los recursos públicos con austeridad, economía, racionalidad y sustentabilidad, logrando los mejores resultados a favor de la sociedad, incluyendo el cuidado de los recursos naturales.
 
@@ -305,7 +343,15 @@ Equidad. Las personas servidoras públicas procurarán que toda persona acceda c
 
 ### CAPÍTULO III. VALORES DEL SERVICIO PÚBLICO
 
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024.]</small>
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 21.
+
+Valores del servicio público. Para el adecuado ejercicio del servicio público, es importante contar con un ambiente laboral apropiado que incida de forma directa e indirecta en la sociedad, conforme a los valores de interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación, cuidado del entorno cultural y ecológico y liderazgo.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2024.]</small>
 
 Para el adecuado ejercicio del servicio público, es importante contar con un ambiente laboral apropiado que incida de forma directa e indirecta en la sociedad, conforme a los valores de interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cuidado del entorno cultural y ecológico, cooperación, cuidado del entorno cultural y ecológico y liderazgo.
 
@@ -455,7 +501,9 @@ IX. Control interno. Para asegurar la consecución de las metas y objetivos inst
 
 X. Procesos de evaluación. Con el propósito de analizar y medir el logro de objetivos, metas y resultados derivados de su desempeño, efectuarán los procesos de evaluación correspondientes, actuando con integridad, profesionalismo, legalidad, imparcialidad e igualdad, para obtener información útil y confiable que permita identificar riesgos, debilidades y áreas de oportunidad, así como instrumentar medidas idóneas y oportunas, a efecto de garantizar el cumplimiento de objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y de los programas que deriven de éste; y,
 
-XI. Procedimiento administrativo. Las personas servidoras públicas que participen en la emisión de los actos administrativos, procedimientos y resoluciones que emita la Administración pública estatal, deberán conducirse con legalidad e imparcialidad, garantizando la protección de los derechos humanos y las formalidades esenciales del debido proceso.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+XI. Procedimiento administrativo. Las personas servidoras públicas que participen en la emisión de los actos administrativos, procedimientos y resoluciones que emita la Administración Pública del Estado de Morelos, deberán conducirse con legalidad e imparcialidad, garantizando la protección de los derechos humanos y las formalidades esenciales del debido proceso.
 
 ## TÍTULO SEGUNDO. OBLIGACIONES INSTITUCIONALES E IMPLEMENTACIÓN
 
@@ -477,9 +525,9 @@ V. Proporcionar el presente código y el código de conducta a las personas serv
 
 VI. Implementar las acciones conducentes para que todas las personas servidoras públicas que ingresen al servicio público, suscriban cartas compromiso respecto del cumplimiento del presente código, así como del código de conducta correspondiente;
 
-VII. Realizar acciones de capacitación, sensibilización y difusión respecto del presente código y del código de conducta en términos de los lineamientos generales para la integración, funcionamiento e instalación de los comités de ética de las dependencias y entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
 
-Deberá reforzarse la habilidad de las personas servidoras públicas para solucionar dilemas; prevenir y erradicar la violencia de género, la discriminación, el acoso sexual u hostigamiento sexual, o cualquier otra conducta que vulnere los derechos humanos;
+VII. Realizar acciones de capacitación, sensibilización y difusión respecto del presente código y del código de conducta en términos de los lineamientos generales para la integración, funcionamiento e instalación de los comités de ética de las dependencias y entidades de la Administración Pública del Estado de Morelos.
 
 VIII. Fortalecer los principios de eficacia, igualdad y lealtad a través de prácticas que faciliten el equilibrio entre la vida laboral y personal de las personas servidoras públicas, comprendiendo en ello, la convivencia familiar, el desarrollo académico, o cualquier otra actividad que abone a la libertad y dignidad de éstas en lo particular;
 
@@ -530,3 +578,11 @@ AMÉRICA BERENICE JIMÉNEZ MOLINA
 SECRETARIA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMA LA DENOMINACIÓN (SIC), SE MODIFICAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+ÚNICO.- El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
