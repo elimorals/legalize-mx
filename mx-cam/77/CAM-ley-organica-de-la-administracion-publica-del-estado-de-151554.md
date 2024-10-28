@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-151554"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-14"
-last_updated: "2024-10-09"
+last_updated: "2024-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Número 1519 del Periódico Oficial del Estado de Campeche, el martes 14 de septiembre de 2021.
 
@@ -543,7 +543,9 @@ LII. Representar al Estado como fideicomitente único en la constitución de fid
 
 LIII. Verificar y validar la información financiera contenida en el informe que rinda anualmente la Gobernadora o Gobernador del Estado ante el H. Congreso del Estado en términos de lo establecido en los artículos 41 y 73 de la Constitución Política del Estado de Campeche;
 
-LIV. Administrar los bienes que sean destinados en favor del Estado de Campeche en razón de procedimientos administrativos o jurisdiccionales que hayan quedado firmes en los términos previstos en la legislación en la materia y en las demás disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+LIV. Administrar los bienes que sean enterados o destinados al Estado de Campeche derivados de hechos de corrupción, o procedimientos administrativos o jurisdiccionales que hayan quedado firmes en los términos previstos en la legislación en la materia y en las demás disposiciones legales y reglamentarias aplicables;
 
 LV. Administrar los bienes asegurados en materia de extinción de dominio de conformidad con la Ley Nacional de Extinción de Dominio y demás legislación aplicable;
 
@@ -1960,3 +1962,11 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Lo previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 7 POR EL QUE "SE REFORMA LA FRACCIÓN LIV DEL ARTÍCULO 28 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del Decreto por el que se reforma el párrafo segundo del artículo 76 Bis de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
