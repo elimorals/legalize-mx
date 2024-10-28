@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2024-10-10"
+last_updated: "2024-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -527,9 +527,15 @@ b. Los descendientes y/o ascendientes que dependan económicamente de la víctim
 
 c. Quien se hubiese encargado en los últimos tres años del cuidado de la víctima, si ésta fuere persona menor de edad, mayor de setenta años, discapacitado o enfermo terminal;
 
-d. El Estado, a través del Instituto de Acceso a la Justicia del Estado de Campeche;
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+d. El Estado, a través de la Unidad para Devolver a Campeche lo Robado;
 
 III. El Estado, cuando se trate de delitos cometidos en su contra.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+La reparación del daño que derive de hechos de corrupción deberá ser enterada y administrada por el Estado a través de la Unidad para Devolver a Campeche lo Robado, debiéndose destinar a los programas sociales prioritarios de la Administración Pública Estatal, en materias de salud, educación, bienestar, de atención a víctimas, así como en políticas públicas de desarrollo social, combate a la corrupción y de protección de derechos humanos. Lo anterior en beneficio de los habitantes de los Municipios donde se haya cometido el hecho de corrupción.
 
 ###### Artículo 41.
 
@@ -585,7 +591,9 @@ La obligación de pagar la reparación del daño es preferente con respecto a cu
 
 Si no se logra hacer efectivo todo el importe de las sanciones pecuniarias, se cubrirá de preferencia la reparación del daño a favor de la víctima y, en su caso, a prorrata entre los ofendidos.
 
-Si la víctima o el ofendido renunciaren a la reparación, o no la hicieren efectiva en un plazo de tres meses contados a partir del día siguiente de que cause ejecutoria la sentencia que otorgue dicha reparación, o no se encuentren identificados, el importe de ésta se aplicará al Estado a través del Instituto de Acceso a la Justicia del Estado de Campeche.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+
+Si la víctima o el ofendido renunciaren a la reparación, o no la hicieren efectiva en un plazo de tres meses contados a partir del día siguiente de que cause ejecutoria la sentencia que otorgue dicha reparación, o no se encuentren identificados, el importe de ésta se aplicará al Estado a través de la Unidad para Devolver a Campeche lo Robado.
 
 Los depósitos que garanticen la reparación del daño cuando se dé la garantía económica, se aplicarán como pago de aquélla y serán entregados a la víctima o al ofendido o a su legítimo representante, cuando el imputado se hubiese sustraído a la acción de la justicia.
 
@@ -5190,3 +5198,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente día (sic) de 
 SEGUNDO.- Los procedimientos penales y administrativos iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 7 POR EL QUE "SE REFORMA EL INCISO D. DE LA FRACCIÓN II DEL ARTÍCULO 40; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 46 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 40, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del Decreto por el que se reforma el párrafo segundo del artículo 76 Bis de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
