@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2023-01-16"
+last_updated: "2024-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -899,13 +899,9 @@ Por lo que toca a dictámenes que versen sobre leyes de ingresos y decretos de e
 
 Cuando los dictámenes versen sobre Decretos y Acuerdos, los dictámenes deberán ser entregados a los integrantes de las comisiones correspondientes con dos días hábiles de anticipación a la fecha en que la Comisión lleve a cabo su reunión para la dictaminación correspondiente de los mismos.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 29 DE OCTUBRE DE 2024)</small>
 
-Tratándose de las minutas recibidas sobre modificaciones a la Constitución Política de los Estados Unidos Mexicanos, el Presidente del Congreso las turnará de manera inmediata a la Comisión de Gobernación y Puntos Constitucionales, para que dicha Comisión dictamine y presente la Minuta para su publicación en la Gaceta Parlamentaria a fin de que esta sea sometida al pleno para su discusión y aprobación, en su caso. La presentación del dictamen de la comisión ante el pleno, deberán (sic) ser en la siguiente sesión a la fecha de su dictaminación o en el menor plazo posible, en los términos de la presente Ley.
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-Para los efectos del párrafo anterior, en el caso de la Diputación Permanente, además de turnar la Minuta de manera inmediata a la Comisión de Gobernación y Puntos Constitucionales, tendría que estar convocando con carácter urgente a sesión extraordinaria, para someterse al pleno para su discusión y aprobación, en su caso, mediante la emisión del dictamen correspondiente.
+> <small>(DEROGADO OCTAVO PÁRRAFO, B.O. 29 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 90.
 
@@ -1389,11 +1385,21 @@ I.- Las iniciativas presentadas por el Ejecutivo y por el Supremo Tribunal de Ju
 
 II.- Las iniciativas ciudadanas en los términos del artículo 53 de la Constitución Política del Estado y los acuerdos del Congreso de la Unión para los que se solicite la aprobación de esta legislatura, invariablemente se turnarán a comisión;
 
-> <small>(REFORMADA, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2024)</small>
 
-III.- Las iniciativas de los diputados y de los ayuntamientos se presentarán por escrito y oportunamente se turnarán a comisión. A estas proposiciones les podrá ser dispensado el trámite de comisión y aún discutir y resolver desde luego el asunto de que se trate, siempre que el Pleno del Congreso del Estado las declare como de urgente u obvia resolución y se hayan publicado en la Gaceta Parlamentaria cuando menos, dos días naturales previos a la sesión de que se trate; y
+III.- Las iniciativas de los diputados y de los ayuntamientos se presentarán por escrito y oportunamente se turnarán a comisión. A estas proposiciones les podrá ser dispensado el trámite de comisión y aún discutir y resolver desde luego el asunto de que se trate, siempre que el Pleno del Congreso del Estado las declare como de urgente u obvia resolución y se hayan publicado en la Gaceta Parlamentaria cuando menos, dos días naturales previos a la sesión de que se trate;
 
-IV.- Las mociones de las legislaturas de los Estados de la República se remitirán oportunamente a comisión.
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2024)</small>
+
+IV.- Las mociones de las legislaturas de los Estados de la República se remitirán oportunamente a comisión; y
+
+> <small>(ADICIONADA, B.O. 29 DE OCTUBRE DE 2024)</small>
+
+V.- Tratándose de minutas sobre modificaciones a la Constitución Federal y, en cumplimiento a lo previsto en el artículo 135, primer párrafo de la Constitución Política de los Estados Unidos Mexicanos, una vez notificado el Congreso del Estado, la Presidencia de la Mesa Directiva en funciones ya sea en periodo ordinario o de la diputación permanente, por la mayoría de sus integrantes o en su caso, por la Comisión de Régimen Interno y Concertación Política, convocarán de manera inmediata a una sesión ordinaria o extraordinaria urgente del pleno, pudiendo habilitar, en el mismo acto, cualquier día, hora y lugar, para desahogar exclusivamente en lo que a este Poder Legislativo corresponda del procedimiento respecto a dichas minutas.
+
+> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2024)</small>
+
+Si al momento de la notificación ya existiere convocatoria previa para la celebración de una sesión ordinaria o extraordinaria del Pleno, invariablemente, quien presida, o por mayoría de quienes integren la Mesa Directiva o, en su caso, la Comisión de Régimen Interno y Concertación Política, presentarán ante el Pleno del Congreso la iniciativa con punto de Acuerdo, la cual, se someterá en votación económica y en los precisos términos aprobados por el Congreso de la Unión, para que, en un solo acto se apruebe o se rechace con la votación de por lo menos, la mayoría de las y los diputados presentes en la sesión.
 
 ###### ARTÍCULO 125.
 
@@ -3299,11 +3305,13 @@ El Comité Técnico Electoral se deberá conformar dentro de los 60 días natura
 
 El Comité Técnico Electoral deberá elaborar el manual de procedimientos correspondientes dentro de los 15 días hábiles después de conformado dicho Comité.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+B.O. 29 DE OCTUBRE DE 2024.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 05, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 5 DE ABRIL DE 2023.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE NO PRESCRIPCIÓN EN DELITOS COMETIDOS EN CONTRA DE PERSONAS MENORES DE DIECIOCHO AÑOS".]
 
