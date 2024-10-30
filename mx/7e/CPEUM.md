@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2024-09-30"
+last_updated: "2024-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2024.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1394,9 +1394,13 @@ En consecuencia, la ley castigará severamente, y las autoridades perseguirán c
 
 Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2024)</small>
 
-No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las siguientes áreas estratégicas: correos, telégrafos y radiotelegrafía; minerales radiactivos y generación de energía nuclear; la planeación y el control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, y la exploración y extracción del petróleo y de los demás hidrocarburos, en los términos de los párrafos sexto y séptimo del artículo 27 de esta Constitución, respectivamente; así como las actividades que expresamente señalen las leyes que expida el Congreso de la Unión. La comunicación vía satélite y los ferrocarriles son áreas prioritarias para el desarrollo nacional en los términos del artículo 25 de esta Constitución; el Estado al ejercer en ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y al otorgar concesiones o permisos mantendrá o establecerá el dominio de las respectivas vías de comunicación de acuerdo con las leyes de la materia.
+No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las siguientes áreas estratégicas: correos, telégrafos y radiotelegrafía; minerales radiactivos y generación de energía nuclear; la planeación y el control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, y la exploración y extracción del petróleo y de los demás hidrocarburos, en los términos de los párrafos sexto y séptimo del artículo 27 de esta Constitución, respectivamente; así como las actividades que expresamente señalen las leyes que expida el Congreso de la Unión. La comunicación vía satélite y los ferrocarriles, tanto para transporte de pasajeros como de carga, son áreas prioritarias para el desarrollo nacional en los términos del artículo 25 de esta Constitución; el Estado al ejercer en ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y al otorgar asignaciones, concesiones o permisos mantendrá o establecerá el dominio de las respectivas vías de comunicación de acuerdo con las leyes de la materia.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2024)</small>
+
+El Estado Mexicano retoma el derecho de utilizar las vías ferroviarias para prestar el servicio de transporte de pasajeros. Para ello, el Ejecutivo Federal podrá otorgar asignaciones a empresas públicas o concesiones a particulares.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -9473,3 +9477,13 @@ Sexto.- Las erogaciones que se generen con motivo de la reforma efectuada por es
 Séptimo.- El Poder Ejecutivo Federal dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
 
 Octavo.- Para la interpretación de lo dispuesto en este Decreto, se tomarán en cuenta lo previsto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte, así como las consideraciones del dictamen.
+
+D.O.F. 30 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE VÍAS Y TRANSPORTE FERROVIARIO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión tendrá un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones que resulten necesarias a las leyes secundarias correspondientes, en los términos de este.
+
+Tercero.- Los particulares que cuenten con concesiones para prestar el servicio de transporte ferroviario de carga podrán obtener concesiones para prestar el servicio de transporte ferroviario de pasajeros. En cualquier caso, se dará preferencia al servicio de transporte ferroviario de pasajeros, en términos de lo que determine la legislación.
