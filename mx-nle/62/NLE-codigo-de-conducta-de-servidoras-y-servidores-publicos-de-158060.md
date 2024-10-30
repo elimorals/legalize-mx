@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-servidoras-y-servidores-publicos-de-15806
 country: "mx"
 rank: "codigo"
 publication_date: "2022-05-02"
-last_updated: "2022-05-02"
+last_updated: "2024-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE SERVIDORAS Y SERVIDORES PUBLICOS DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE SERVIDORAS Y SERVIDORES PÚBLICOS DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 62 del Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2022.
 
@@ -350,3 +352,15 @@ Así lo acuerda y firma a los 30 días del mes de marzo de 2022-dos mil veintid�
 EL C. SECRETARIO DE MEDIO AMBIENTE DEL ESTADO DE NUEVO LEÓN
 
 DR. ALFONSO MARTÍNEZ MUÑOZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Conducta de las Servidores y Servidores (sic) Públicos de la Secretaría de Medio Ambiente del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 02-dos de mayo de 2022-dos mil veintidós.
+
+TERCERO. El presente Código deberá ser difundido en la página oficial de internet con la finalidad de hacerlo del conocimiento de las personas servidoras públicas de la Secretaría.
