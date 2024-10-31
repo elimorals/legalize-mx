@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-del-servicio-profesional-de-carrera-en-el-centro-16032
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-09-27"
-last_updated: "2022-09-27"
+last_updated: "2024-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA EN EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Estatuto publicado en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2022.
 
@@ -439,9 +439,11 @@ I. Vertical o trayectorias de ascenso que corresponden al perfil del puesto en c
 
 II. Horizontal o trayectorias laterales, que son aquellas que corresponden a otros puestos donde se cumplan condiciones de equivalencia, homologación, e incluso afinidad, a través de sus respectivos perfiles. En este caso, las personas servidoras públicas de carrera que ocupen puestos equiparables podrán optar por movimientos laterales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 38.
 
-La Dirección General podrá autorizar el nombramiento temporal para ocupar un puesto, una vacante o plaza de nueva creación, considerando para ser ocupado por cualquier persona servidora pública, sin necesidad de sujetarse al proceso de reclutamiento y selección, nombramiento que tendrá una vigencia de hasta un año, el cual podrá prorrogarse por un periodo igual.
+La Dirección General podrá autorizar el nombramiento temporal para ocupar un puesto, una vacante o plaza de nueva creación, considerando para ser ocupado por cualquier persona servidora pública, sin necesidad de sujetarse al proceso de reclutamiento y selección, nombramiento que tendrá una vigencia de hasta un año, el cual podrá prorrogarse por dos periodos iguales.
 
 El personal que sea contratado bajo esta modalidad no creará derechos en el SPC.
 
@@ -660,3 +662,17 @@ El Servicio Profesional de Carrera del Centro de Conciliación Laboral del Estad
 Dado en la ciudad Victoria, Tamaulipas, a los veinte días del mes de septiembre del año dos mil veintidós.
 
 ATENTAMENTE.- EL DIRECTOR GENERAL DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS.- ALEJANDRO ROSAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 38 DEL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Estatuto del Servicio Profesional de Carrera del Centro de Conciliación Laboral del Estado de Tamaulipas.
