@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2023-03-28"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -135,9 +135,9 @@ XIII. "Escudo Urbano C5": al Organismo Público Descentralizado encargado del Ce
 
 XIV. Fiscal Estatal: El titular de la Fiscalía Estatal;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal, así como el Escudo C5;
+XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal, la Secretaría de Inteligencia y Búsqueda de Personas, así como el Escudo C5;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -147,7 +147,9 @@ XVI. Instituciones de procuración de justicia: a las instituciones que integran
 
 XVII. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
-XVIII. La Cadena de Custodia: el documento oficial donde se asienta el (sic) obtención de información para el uso de equipos y sistemas tecnológicos, la dependencia que el que (sic) los captó así como sus características específicas de identificación; con el objeto que cada persona o servidor público a la que se le transmite la información, suscriba en la misma su recepción así como todas circunstancias relativa (sic) a su inviolabilidad e inalterabilidad, haciéndose responsable en su conservación y cuidado hasta su traslado a otra persona o servidor público, y en su caso, deberá cumplir con los requisitos establecidos en los artículos 227 y 228 del Código Nacional de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVIII. La Cadena de Custodia: el documento oficial donde se asienta la obtención de información para el uso de equipos y sistemas tecnológicos, la dependencia que los captó así como sus características específicas de identificación; con el objeto que cada persona o servidor público a la que se le transmite la información, suscriba en la misma su recepción así como todas las circunstancias relativas a su inviolabilidad e inalterabilidad, haciéndose responsable en su conservación y cuidado hasta su traslado a otra persona o servidor público, y en su caso, deberá cumplir con los requisitos establecidos en los artículos 227 y 228 del Código Nacional de Procedimientos Penales;
 
 XIX. La ley: la presente Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
 
@@ -159,31 +161,37 @@ XXII. Locatel: a la línea telefónica única de asistencia a la población del 
 
 XXIII. Nombramiento: el acto condición, también definido como acto administrativo condicionado, que no se considera como contrato de trabajo ni un acto expedido con fundamento en las leyes que rigen la relación laboral del Estado con sus empleados servidores públicos, en virtud de la excepción constitucional establecida en la fracción XIII del apartado B del artículo 123 constitucional, que establece que los grupos ahí señalados se rigen por sus propias leyes;
 
-XXIII. (Sic) Registro de Tecnologías: Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XXIV, P.O. 31 DE OCTUBRE DE 2024.]</small>
 
-XXIV. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública;
+XXIII (SIC). Registro de Tecnologías: Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XXIII (SIC). P.O. 31 DE OCTUBRE DE 2024]</small>
 
-XXV. Sistema Estatal de Informática: el implementado y administrado por la Coordinación General de Innovación Gubernamental;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+XXIV. Registro de Tecnologías: Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
 
-XXVI. 911 El sistema de emergencia 911, como un número gratuito de atención telefónica, diseñado para recibir llamadas de emergencia de la ciudadanía que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las instituciones de auxilio, contando con un sistema único de despacho para derivar llamadas de emergencia;
-
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
-
-XXVII. 089: El sistema de denuncia anónima 089, como un número gratuito de atención telefónica, diseñado para recibir llamadas de denuncias anónimas, que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de denuncias anónimas;
-
-XXVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
+XXV. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XXIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
+XXVI. Sistema Estatal de Informática: el implementado y administrado por la Coordinación General de Innovación Gubernamental;
 
-XXX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XXXI. (DEROGADA, P.O. 21 DE ABRIL DE 2020)
+XXVII. 911 El sistema de emergencia 911, como un número gratuito de atención telefónica, diseñado para recibir llamadas de emergencia de la ciudadanía que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las instituciones de auxilio, contando con un sistema único de despacho para derivar llamadas de emergencia;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XXVIII. 089: El sistema de denuncia anónima 089, como un número gratuito de atención telefónica, diseñado para recibir llamadas de denuncias anónimas, que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de denuncias anónimas;
+
+XXIX. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
+
+XXXI. Registro: el Registro Estatal de Información sobre Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -197,9 +205,9 @@ XXXIII. Secretaría: la Secretaría de Seguridad;
 
 XXXIV. Secretario: el Titular de la Secretaría de Seguridad; y
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXXIV (SIC). Reglamento de Seguridad Privada. el Reglamento de los Servicios Privados de Seguridad del Estado de Jalisco.
+XXXV. Reglamento de Seguridad Privada. el Reglamento de los Servicios Privados de Seguridad del Estado de Jalisco.
 
 ###### Artículo 4°.
 
@@ -371,13 +379,17 @@ d) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
 
 e) Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-f) Secretaría de Seguridad; y
+f) Secretaría de Seguridad;
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-g) "Escudo Urbano C5"
+g) “Escudo Urbano C5”; y
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+h) Secretaría de Inteligencia y Búsqueda de Personas.
 
 III. De los poderes Legislativo y Judicial del Estado:
 
@@ -3818,3 +3830,327 @@ P.O. 28 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
+
+P.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29585/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LAS SIGUIENTES LEYES: LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DE LA FISCALÍA; LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DE PERSONAS DESAPARECIDAS; CÓDIGO DE ASISTENCIA SOCIAL; LEY DE PROTECCIÓN CIVIL TODAS DEL ESTADO DE JALISCO, QUE REGULAN LA ESTRUCTURA ORGÁNICA DE LA ADMINISTRACIÓN CENTRALIZADA Y PARAESTATAL".]
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de enero de 2025, previa publicación en el periódico oficial en "El Estado de Jalisco".
+
+SEGUNDO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2025, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+
+TERCERO. Transfiéranse a la Unidad Estatal de Protección Civil y Bomberos la plantilla de bomberos, bomberas y personal operativo forestal forestales (sic) adscritos a la Secretaría de Medio Ambiente y Desarrollo Territorial, así como los recursos financieros, materiales y tecnológicos que se consideren necesarios.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Secretaría de Medio Ambiente y Desarrollo Territorial.
+
+CUARTO. Para el ejercicio 2025, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo número 27213/LXII/18, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+
+Así mismo, para el ejercicio 2024, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2024, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2024 a las dependencias que se crean o modifican con motivo del presente decreto.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2025, las adecuaciones llevadas a cabo en los términos del presente artículo.
+
+QUINTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco, las iniciativas de reforma que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las facultades y atribuciones establecidos a cargo de las dependencias que se crean o modifican derivado del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Número 27213/LXII/18, así como las facultades, derechos y obligaciones establecidos a cargo de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con cualquier persona física o jurídica de derecho público o privado, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría de Administración Secretaría General de Gobierno
+
+(Tratándose de la supervisión,
+
+dirección y control de las Unidades
+
+Regionales de Servicios Estatales)
+
+Respecto de la Fiscalía del Estado, serán las siguientes:
+
+ANTERIOR NUEVO
+
+Fiscalía Especial Ejecutiva de Vicefiscalía en Investigación Criminal
+
+Investigación Criminal Especializada
+
+Fiscalía Especial Regional Vicefiscalía en Investigación Regional
+
+Fiscalía Especial en Derechos Vicefiscalía en Derechos Humanos y
+
+Humanos de Investigación para Prevenir y
+
+Sancionar el delito de Tortura
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+Patrimoniales y Financieros Especializada en Delitos Patrimoniales
+
+Dirección General en Investigación Vicefiscalía en Investigación
+
+Especializada Especializada de Concertación
+
+Social
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+contra las Mujeres, Delitos en Razón Especializada en Delitos contra las
+
+de Género y Trata de Personas Mujeres (sic) Razón de Género, niñas,
+
+niños y adolescentes, y la familia
+
+Dirección General en Seguimiento a Dirección de litigación y Seguimiento
+
+Procesos de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección General de Inteligencia, Dirección General de Inteligencia y
+
+Política Criminal y Prevención del Política Criminal
+
+Delito
+
+Dirección General de Policía de Dirección General de la Policía
+
+Investigación Investigadora
+
+Dirección de Tecnologías de la Dirección General de Innovación y
+
+Información y Comunicación Tecnología
+
+Unidad de Investigación de Robo de Unidad de Investigación
+
+Vehículo Especializada en Robo de vehículo
+
+Unidad De Robos Unidad de Investigación Especializada
+
+en Robos Varios
+
+Unidad de Investigación de Robo de Unidad de Investigación Especializada
+
+Vehículo de Carga Pesada en Robo de vehículo de carga Pesada y
+
+Robo a Instituciones Bancarias y de
+
+Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada
+
+Instituciones Bancarias y de Valores en Robo de vehículo de carga Pesada
+
+y Robo a Instituciones Bancarias y de
+
+Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada
+
+Casa Habitación en Robo a Negocio y Robo a casa
+
+Habitación
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada
+
+Negocio en Robo a Negocio y Robo a casa
+
+Habitación
+
+Unidad de Investigación de Unidad de Investigación Especializada
+
+Homicidios Intencionales en Homicidios Intencionales
+
+Unidad de Investigación de Unidad de Investigación Especializada
+
+Narcomenudeo en Narcomenudeo
+
+Unidad de Investigación de Unidad de Investigación Especializada
+
+Secuestros en Secuestros y Extorsiones
+
+Unidad de Investigación de Unidad de Investigación Especializada
+
+Extorsiones en Secuestros y Extorsiones
+
+Unidad de Investigación de Unidad de Investigación Especializada
+
+Delitos Ambientales en Delitos Varios
+
+Unidad de Investigación de Unidad de Investigación Especializada
+
+Delitos cometidos en Agravio de en Delitos cometidos en Agravio de
+
+Niñas, Niños y Adolescentes Niñas, Niños y Adolescentes
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Delitos cometidos por Delitos cometidos por Adolescentes en
+
+Adolescentes en Conflicto Conflicto con (sic) ley
+
+con la ley
+
+Unidad de Litigación Dirección de Litigación y Seguimiento
+
+de Investigación Especializada en
+
+Atención a Mujeres, niñas, niños y
+
+adolescentes, razón de género y la
+
+familia
+
+Director General de Zona Norte Dirección General de Investigación
+
+Zona Norte
+
+Director General de Zona Sur Dirección General de Investigación
+
+Zona Sur
+
+Dirección General del Centro de Dirección de Atención a Víctimas del
+
+atención y protección a ofendidos, Delito
+
+víctimas y testigos del delito
+
+Dirección General de Vinculación Dirección de Vinculación y seguimiento
+
+y seguimiento en la defensa de en la defensa de los derechos Humanos
+
+los derechos humanos
+
+Unidad Especializada en Delitos Dirección de Investigación para Prevenir
+
+de Tortura. y Sancionar el delito de Tortura
+
+Unidad Especializada para la Dirección de Diversidad Sexual
+
+Atención de Delitos por
+
+Diversidad Sexual
+
+Dirección de investigación de Unidad de Investigación Especializada en
+
+delitos patrimoniales no Delitos Patrimoniales No Violentos
+
+violentos
+
+Dirección de Extinción de Unidad de Investigación Especializada en
+
+Dominio Extinción de Dominio
+
+Unidad de Investigación contra Unidad de Inteligencia Financiera y
+
+recursos de procedencia llicita Recursos de Procedencia Ilícita
+
+Unidad de Inteligencia Patrimonial Unidad de Inteligencia Financiera y
+
+y Económica Recursos de Procedencia Ilícita
+
+Unidad De Delitos Varios Unidad de Investigación Especializada
+
+en Delitos Varios
+
+Unidad De Detenidos Unidad de Investigación Especializada
+
+en Detenidos
+
+Unidad de Hechos de Sangre, Unidad de Investigación Especializada
+
+de Tránsito y Transporte Público en Hechos de Sangre, tránsito y
+
+Transporte Público
+
+Unidad para la Investigación de Unidad de Investigación Especializada en
+
+delitos contra de (sic) mujeres Delitos contra las mujeres, en razón de
+
+y delitos razón de género género y Trata de Personas
+
+Unidad Especializada en Unidad de Investigación Especializada
+
+Investigación de Feminicidios en Feminicidios
+
+Atención temprana Coordinación de Atención Temprana
+
+de cada Vicefiscalía con excepción de
+
+la Vicefiscalía en Investigación Regional
+
+Imputado desconocido Unidad de Investigación Especializada
+
+en Delitos Varios
+
+Tramitación masiva de casos Unidad de Investigación Especializada
+
+en Delitos Varios
+
+Unidad de Puestos de socorro Unidad de Investigación Especializada
+
+en Hechos de Sangre, tránsito y
+
+Transporte Público
+
+La Dirección de Control de Dirección de litigación y Seguimiento
+
+Procesos y Audiencias de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección de Cumplimiento a Dirección de Ordenes de Aprehensión
+
+Mandamientos Judiciales
+
+Dirección de Amparos Procesales Dirección de litigación y Seguimiento
+
+y Salidas Alternas y Formas de de Investigación de cada una de las
+
+Terminación Anticipada Vicefiscalías
+
+(Por lo que respecta a las formas de
+
+terminación anticipada)
+
+Dirección de Amparos Procesales Dirección de Amparos
+
+y Salidas Alternas y Formas de
+
+Terminación Anticipada (Por lo que respecta a los amparos)
+
+Delitos en materia de trata de Unidad de Investigación Especializada en
+
+personas Delitos contra las mujeres, en razón de
+
+género y Trata de Personas
+
+Dirección de Auditoría preventiva Dirección de Auditoría preventiva y
+
+y orientación administrativa orientación
+
+Sub Dirección Metropolitana Dirección de la Policía Investigadora
+
+Metropolitana
+
+Sub Dirección Regional Dirección de la Policía Investigadora
+
+Regional
+
+Unidad de Deposito de Armamento Dirección de Deposito de Armamento
+
+Centro de Telecomunicaciones e Dirección del Centro de Comunicaciones
+
+información vehicular e Información Vehicular
+
+Instituto de Formación y Dirección de Formación y
+
+Profesionalización Profesionalización
+
+SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Agencia de Energía del Estado de Jalisco, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Secretaría de Desarrollo Energético Sustentable del Poder Ejecutivo, se entenderán como conferidas a ésta última en tanto se adecue su marco jurídico normativo y se publique el Reglamento Interno de la Secretaría de Desarrollo Energético Sustentable.
+
+SÉPTIMO. Los recursos financieros, materiales y tecnológicos necesarios para la operación de las áreas que se extinguen o fusionan de la Fiscalía del Estado, así como los documentos y asuntos en trámite serán transferidos a las unidades administrativas que atraen las atribuciones.
+
+OCTAVO. En toda disposición legal o reglamentaria en que se haga referencia a las Fiscalías Especiales o a los Fiscales Especiales se entenderá por Vicefiscalías o Vicefiscales, de conformidad con el presente decreto.
+
+NOVENO. El titular de la Fiscalía Estatal deberá proponer al Poder Ejecutivo del Estado dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto, las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente decreto, las cuales deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
+
+En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
