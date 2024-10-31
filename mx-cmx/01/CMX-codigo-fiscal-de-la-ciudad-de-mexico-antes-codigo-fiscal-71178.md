@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2023-12-27"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 27 DE DICIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE OCTUBRE DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -7750,13 +7748,17 @@ II. Por licencia tipo "A" en las siguientes modalidades, por su expedición o re
 
 a). Tipo “A”, para conducir vehículos particulares $1,049.00
 
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2024)</small>
+
+b). Tipo "A", para conducir vehículos particulares, con vigencia permanente $1,500.00
+
 (ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020) (REFORMADO EN SU CUOTA, G.O. 26 DE DICIEMBRE DE 2023)
 
-b). Tipo "A1", para conducir motocicletas $525.00, y
+c). Tipo "A1", para conducir motocicletas $525.00, y
 
 (ADICIONADO, G.O. 21 DE DICIEMBRE DE 2020) (REFORMADO EN SU CUOTA, G.O. 26 DE DICIEMBRE DE 2023)
 
-c). Tipo "A2", para conducir vehículos particulares y motocicletas $1,049.00
+d). Tipo "A2", para conducir vehículos particulares y motocicletas $1,049.00
 
 III. Por licencia tarjetón tipo "B" para conducir taxis, por su expedición y renovación:
 
@@ -25871,3 +25873,25 @@ G.O. 27 DE DICIEMBRE DE 2023.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Aviso por el que se da a conocer la Fe de Erratas entra en vigor el día de su publicación.
+
+G.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE SE (SIC) REFORMAN Y ADICIONAN DISPOSICIONES DEL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que se opongan a lo establecido en este Decreto. La Secretaría de Movilidad será responsable de modificar las disposiciones reglamentarias y normativas correspondientes para hacerlas congruentes con los preceptos contenidos en el presente Código; en tanto no se actualicen los mismos, se aplicará lo establecido en este ordenamiento y las disposiciones que no se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+El Gobierno de la Ciudad de México por conducto de la Secretaría de Administración y Finanzas de la Ciudad de México, constituirá un fideicomiso público sin estructura, en términos del artículo 15 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, que sirva para recibir y administrar los recursos que deriven de los derechos a que se refiere el artículo 229, fracción II, inciso b), de este Código.
+
+Lo anterior, con el objeto de que los recursos del patrimonio del fideicomiso se destinen a la infraestructura pública de transporte y movilidad, en términos de las disposiciones jurídicas aplicables.
