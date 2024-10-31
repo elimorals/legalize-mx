@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-13675
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-14"
-last_updated: "2022-07-04"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136753&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-04"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Reglamento publicado en el Número 113 de la Gaceta Oficial de la Ciudad de México, el viernes 14 de junio de 2019.
 
@@ -62,13 +62,15 @@ IV. Pliego de Observaciones: Documento por medio del cual la Auditoría Superior
 
 V. Supervisión: Proceso técnico que, en el ámbito de su competencia, desarrollan la persona titular de la Auditoría Superior o las Unidades Administrativas Auditoras con el propósito de orientar y evaluar permanentemente la actividad institucional a efecto de asegurar la calidad técnica y profesional del trabajo y cumplir con los objetivos propuestos de manera eficiente, eficaz y económica;
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
 
-VI. Unidades Administrativas: La Oficina de la persona titular de la Auditoría Superior; la Contraloría General de la Auditoría Superior; las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”, de Auditoría Especializada, de Asuntos Jurídicos, de Administración y la de Vinculación Institucional, así como la Coordinación Técnica de Auditoría, y
+VI. Unidades Administrativas: La Oficina de la persona titular de la Auditoría Superior; la Contraloría General de la Auditoría Superior; las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”, de Auditoría Especializada “A” y “B”, de Asuntos Jurídicos, de Administración y de Vinculación Institucional, así como la Coordinación General Técnica de Auditoría, y
 
 VII. Unidades Administrativas Auditoras: Las unidades administrativas que en el ámbito de sus atribuciones realizan las tareas sustantivas del proceso de fiscalización, desde la fase de planeación hasta la generación de los informes individuales incluyendo el seguimiento que deben realizar en el ámbito de su competencia, a las acciones y promociones derivadas, en los términos previstos en la Ley, el presente reglamento y las demás disposiciones normativas.
 
-Las Unidades Administrativas Auditoras son las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”, y de Auditoría Especializada.
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2024)</small>
+
+Las Unidades Administrativas Auditoras son las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”, y de Auditoría Especializada “A” y “B”.
 
 ###### Artículo 3.
 
@@ -94,15 +96,21 @@ d) Auditoría de Cumplimiento Financiero "B";
 
 e) Auditoría de Cumplimiento Financiero “C”,
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2024)</small>
 
-f) Auditoría Especializada, y
+f) Auditoría Especializada “A”;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE OCTUBRE DE 2024)</small>
 
-g) Vinculación Institucional.
+g) Auditoría Especializada “B”, y
 
-III. La Coordinación Técnica de Auditoría; y
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 31 DE OCTUBRE DE 2024)</small>
+
+h) Vinculación Institucional.
+
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. La Coordinación General Técnica de Auditoría; y
 
 IV. La Contraloría General de la Auditoría Superior, que para el ejercicio de sus atribuciones contará con independencia.
 
@@ -114,7 +122,7 @@ La persona titular de la Auditoría Superior, para el mejor desempeño de sus at
 
 Asimismo, la Oficina de la persona titular de la Auditoría Superior para el ejercicio de sus atribuciones, contará con el apoyo de las áreas que a continuación se indican, mismas que dependerán directamente de ésta:
 
-a) Coordinación de Seguimiento de Recomendaciones e Integración de Informes;
+a) (DEROGADO, G.O. 31 DE OCTUBRE DE 2024)
 
 b) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
@@ -486,7 +494,7 @@ XXIV. Las demás que le confieran la Ley, este Reglamento y las disposiciones le
 
 La Oficina de la persona titular de la Auditoría Superior para el ejercicio de sus atribuciones contará con el apoyo de las áreas que a continuación se indican, mismas que dependerán directamente de la persona titular de la Auditoría Superior:
 
-a) Coordinación de Seguimiento de Recomendaciones e Integración de Informes;
+a) (DEROGADO, G.O. 31 DE OCTUBRE DE 2024)
 
 b) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
@@ -500,43 +508,7 @@ e) Unidad de Transparencia y Gestión Documental.
 
 ###### Artículo 11.
 
-La Coordinación de Seguimiento de Recomendaciones e Integración de Informes, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-I. Coordinar, en el ámbito de su competencia, la integración y presentación del Programa Anual de Trabajo; del Programa General de Auditoría, de los Informes Parciales e Informe General, de los Informes Trimestrales y Anual de Gestión y los que le solicite la persona titular de la Auditoría Superior;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-II. Someter a la aprobación de la persona titular de la Auditoría Superior los Proyectos de Auditoría, Programas Específicos de Auditoría, Reportes de Planeación, Informes de Resultados de Auditorías para Confrontas e Individuales, previa revisión;
-
-III. Dar seguimiento a la atención de las recomendaciones que se formulen a los sujetos fiscalizados, de acuerdo con los procedimientos y disposiciones aplicables en coordinación con la Dirección General de Asuntos Jurídicos;
-
-IV. Solicitar en el ámbito de su competencia, a la Secretaría de Administración y Finanzas y a los sujetos fiscalizados, los complementos de información que se requieran para analizar y evaluar el comportamiento de las finanzas públicas de la Ciudad de México;
-
-V. Coordinar, en el ámbito de su competencia, la revisión, análisis y evaluación de la información programática-presupuestal y financiera que integra la Cuenta Pública;
-
-VI. Coordinar, en el ámbito de su competencia, la elaboración, integración y presentación del Programa de Atención y Seguimiento de Recomendaciones, así como el Informe Trimestral de avance de las recomendaciones;
-
-VII. Coordinar las actividades relacionadas con la corrección de estilo de los documentos normativos, informes de auditoría y demás documentos que elabore la Auditoría Superior;
-
-VIII. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2021)
-
-IX. Supervisar en gabinete o en campo, la ejecución del Programa General de Auditoría, conjuntamente con la Coordinación Técnica de Auditoría, Dirección General de Asuntos Jurídicos y/o con las Unidades Administrativas Auditoras;
-
-X. Coadyuvar en la revisión de los documentos normativos que regulan las actividades de la Auditoría Superior, con excepción de aquellos que son validados por los comités de la Auditoría Superior;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XI. Apoyar a la persona titular de la Auditoría Superior cuando éste así lo instruya, en los actos o reuniones públicas que participe;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XII. Coordinar la estrategia de comunicación e imagen institucional de la Auditoría Superior, así como los mecanismos de coordinación con otras áreas de comunicación de las entidades de los tres niveles de gobierno, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XIII. Las demás que le confiera o instruya la persona titular de la Auditoría Superior.
+(DEROGADO, G.O. 31 DE OCTUBRE DE 2024)
 
 ###### Artículo 12.
 
@@ -574,47 +546,59 @@ VIII. Coordinar la recepción y despacho de la correspondencia oficial de la ofi
 
 IX. Las demás que le confiera la Ley, este Reglamento, las disposiciones legales aplicables en materia de transparencia, acceso a la información pública, protección de datos personales y archivo, así como las demás que le instruya la persona titular de la Auditoría Superior.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA COORDINACIÓN TÉCNICA DE AUDITORÍA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA COORDINACIÓN GENERAL TÉCNICA DE AUDITORÍA
+
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-La Coordinación Técnica de Auditoría, tendrá las siguientes atribuciones:
+La Coordinación General Técnica de Auditoría, tendrá las siguientes atribuciones:
 
-I. Coordinar la elaboración, revisión y seguimiento del Programa General de Auditoría e Informes Individuales que generen las Unidades Administrativas Auditoras y demás actividades sustantivas que desempeñe la Auditoría Superior;
+I. Coordinar la elaboración, integración, revisión, presentación y seguimiento del Programa Anual de Trabajo; del Programa General de Auditoría, de los Informes Parciales e Informe General, de los Informes Trimestrales y Anual de Gestión y los que le solicite la persona titular de la Auditoría Superior, así como, coordinar las demás actividades sustantivas que desempeñe la Auditoría Superior;
 
 II. Emitir observaciones y sugerencias a las Unidades Administrativas Auditoras, respecto a la elaboración de sus Proyectos de Auditoría, Programas Específicos de Auditoría, Reportes de Planeación, Informes de Resultados de Auditorías para Confrontas e Individuales;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
+III. Someter a la aprobación de la persona titular de la Auditoría Superior los Proyectos de Auditoría, Programas Específicos de Auditoría, Reportes de Planeación, Informes de Resultados de Auditorías para Confrontas e Individuales, previa revisión;
 
-III. Remitir a la Coordinación de Seguimiento de Recomendaciones e Integración de Informes los Proyectos de Auditoría, Programas Específicos de Auditoría, Reportes de Planeación, Informes de Resultados de Auditorías para Confrontas e Individuales, para aprobación de la persona titular de la Auditoría Superior;
+IV. Dar seguimiento a la atención de las recomendaciones que se formulen a los sujetos de fiscalización, de acuerdo con los procedimientos y disposiciones aplicables en coordinación con la Dirección General de Asuntos Jurídicos;
 
-IV. Solicitar a la Secretaría de Administración y Finanzas y a los sujetos fiscalizados la información y documentación correspondiente para el inicio de los trabajos de revisión de la Cuenta Pública; y remitirla para su análisis a las Unidades Administrativas Auditoras;
+V. Solicitar en el ámbito de su competencia, a la Secretaría de Administración y Finanzas y a los sujetos de fiscalización, la información y documentación que se requieran para analizar y evaluar el comportamiento de las finanzas públicas de la Ciudad de México, así como para el inicio de los trabajos de revisión de la Cuenta Pública y remitirla para su análisis a las Unidades Administrativas Auditoras;
 
-V. Proponer en coordinación con las Unidades Administrativas Auditoras a la Dirección General de Asuntos Jurídicos adecuaciones a la normatividad interna que regula las actividades sustantivas de la Auditoría Superior y una vez autorizados supervisar su cumplimiento;
+VI. Coordinar, en el ámbito de su competencia, la revisión, análisis y evaluación de la información programática-presupuestal y financiera que integra la Cuenta Pública;
 
-VI. Colaborar en las acciones relacionadas con el Sistema Nacional de Fiscalización e instituciones locales, en el ámbito de su competencia;
+VII. Coordinar, en el ámbito de su competencia, la elaboración, integración y presentación del Programa de Atención y Seguimiento de Recomendaciones, así como el Informe Trimestral de avance de las recomendaciones;
 
-VII. Coadyuvar con las Unidades Administrativas Auditoras en el diseño de las estrategias y políticas para el fortalecimiento de las actividades de auditoría que realiza la Auditoría Superior;
+VIII. Proponer en coordinación con las Unidades Administrativas Auditoras a la Dirección General de Asuntos Jurídicos, adecuaciones a la normatividad interna que regula las actividades sustantivas de la Auditoría Superior y una vez autorizados, supervisar su cumplimiento;
 
-VIII. Intervenir, en el ámbito de su competencia, en el Servicio Profesional Fiscalizador de Carrera, conforme a las disposiciones contenidas en el estatuto de la materia; y
+IX. Coadyuvar en las actividades relacionadas con la corrección de estilo de los documentos normativos, informes de auditoría y demás documentos que elabore la Auditoría Superior;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
+X. Supervisar en gabinete o en campo, la ejecución del Programa General de Auditoría, conjuntamente con la Dirección General de Asuntos Jurídicos y/o con las Unidades Administrativas Auditoras;
 
-IX. Las demás que le confiera o instruya la persona titular de la Auditoría Superior.
+XI. Colaborar en las acciones relacionadas con el Sistema Nacional de Fiscalización e instituciones locales, en el ámbito de su competencia;
+
+XII. Coadyuvar con las Unidades Administrativas Auditoras en el diseño de las estrategias y políticas para el fortalecimiento de las actividades de auditoría que realiza la Auditoría Superior;
+
+XIII. Intervenir, en el ámbito de su competencia, en el Servicio Profesional Fiscalizador de Carrera, conforme a las disposiciones contenidas en el estatuto de la materia;
+
+XIV. Coordinar la estrategia de comunicación e imagen institucional de la Auditoría Superior, así como los mecanismos de coordinación con otras áreas de comunicación de las entidades de los tres niveles de gobierno, y
+
+XV. Las demás que le confiera o instruya la persona titular de la Auditoría Superior.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE AUDITORÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-Las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”; y de Auditoría Especializada; con independencia de las atribuciones que en específico les confiere el presente Reglamento, tendrán las siguientes atribuciones:
+Las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”; y de Auditoría Especializada “A” y “B”; con independencia de las atribuciones que en específico les confiere el presente Reglamento, tendrán las siguientes atribuciones:
 
 I. Coordinar la revisión, análisis y evaluación de la información que integra la Cuenta Pública y demás información sobre la gestión financiera, programática, presupuestal, contable, administrativa y legal de los sujetos fiscalizados, en el ámbito de sus atribuciones;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
 
-II. Formular y someter a aprobación de la persona titular de la Auditoría Superior, previa validación de la Coordinación Técnica de Auditoría, los Proyectos de Auditoría, Programas Específicos de Auditoría, Reportes de Planeación e Informes Individuales y, atender las observaciones que resulten procedentes de las unidades administrativas que participen en el proceso de revisión institucional;
+II. Formular y someter a aprobación de la persona titular de la Auditoría Superior, previa validación de la Coordinación General Técnica de Auditoría, los Proyectos de Auditoría, Programas Específicos de Auditoría, Reportes de Planeación e Informes Individuales y, atender las observaciones que resulten procedentes de las unidades administrativas que participen en el proceso de revisión institucional;
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -644,11 +628,13 @@ XI. Supervisar al personal comisionado o habilitado que intervenga en las visita
 
 XII. Coordinar y supervisar la formulación de las recomendaciones y dictámenes técnicos correctivos derivados de la revisión de la Cuenta Pública;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
 
-XIII. Coordinar y supervisar la emisión de los Informes Individuales, para ser sometidos a la consideración de la persona titular de la Auditoría Superior por medio de la Coordinación Técnica de Auditoría;
+XIII. Coordinar y supervisar la emisión de los Informes Individuales, para ser sometidos a la consideración de la persona titular de la Auditoría Superior por medio de la Coordinación General Técnica de Auditoría;
 
-XIV. Elaborar la información necesaria para la integración del Programa de Atención y Seguimiento de Recomendaciones, derivadas de las visitas, inspecciones, auditorías, evaluaciones y diligencias que se realicen, y remitirla a la Coordinación de Seguimiento de Recomendaciones e Integración de Informes;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIV. Elaborar la información necesaria para la integración del Programa de Atención y Seguimiento de Recomendaciones, derivadas de las visitas, inspecciones, auditorías, evaluaciones y diligencias que se realicen, y remitirla a la Coordinación General Técnica de Auditoría;
 
 XV. Validar la parte técnica de los Pliegos de Observaciones que sean del ámbito de su competencia;
 
@@ -664,9 +650,9 @@ XIX. Recabar y proporcionar a la Dirección General de Asuntos Jurídicos la inf
 
 XX. Definir en coordinación con la Dirección General de Asuntos Jurídicos el empleo de los medios de apremio que prevé la Ley;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXI. Programar, coordinar y ejecutar la apertura, inicio, supervisión y confrontas de auditoría a los sujetos fiscalizados, en las que invariablemente se deberán tomar las acciones necesarias para informar a la persona titular de la Auditoría Superior, por conducto de la Coordinación Técnica de Auditoría cuando comparezcan en dichos actos las personas titulares de los sujetos fiscalizados;
+XXI. Programar, coordinar y ejecutar la apertura, inicio, supervisión y confrontas de auditoría a los sujetos de fiscalización, en las que invariablemente se deberán tomar las acciones necesarias para informar a la persona titular de la Auditoría Superior, por conducto de la Coordinación General Técnica de Auditoría cuando comparezcan en dichos actos las personas titulares de los sujetos de fiscalización;
 
 XXII. Coadyuvar con la Dirección General de Asuntos Jurídicos en la solicitud y obtención de información y documentación certificada necesaria para llevar a cabo el estudio, análisis, diagnóstico, evaluación, investigación y sustanciación correspondiente;
 
@@ -754,71 +740,43 @@ VI. Detectar, en su caso, las deficiencias de los sujetos fiscalizados sujetas a
 
 VII. Las demás que le confieran la Ley, este Reglamento, las disposiciones legales aplicables y la persona titular de la Auditoría Superior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 22.
 
-La Dirección General de Auditoría Especializada, tendrá además de las previstas en el artículo 17 de este Reglamento, las siguientes atribuciones:
+La Dirección General de Auditoría Especializada “A”, tendrá además de las previstas en el artículo 17 de este Reglamento, las siguientes atribuciones:
 
-I. Evaluar la suficiencia y cumplimiento de las metas alcanzadas por los sujetos fiscalizados, así como los efectos económico-sociales y comprobar si se alcanzaron con economía, eficiencia y eficacia los objetivos y resultados fijados en las funciones y subfunciones o su equivalente y, verificar tanto el estado que guardan los presupuestos, como los resultados de su ejecución, en función de los objetivos, estrategias y prioridades de las funciones y subfunciones sectoriales e institucionales;
+I. Evaluar la suficiencia y cumplimiento de las metas alcanzadas por los sujetos de fiscalización, así como los efectos económico-sociales y comprobar si se alcanzaron con economía, eficiencia y eficacia los objetivos y resultados fijados en las funciones y subfunciones o su equivalente y, verificar tanto el estado que guardan los presupuestos, como los resultados de su ejecución, en función de los objetivos, estrategias y prioridades de las funciones y subfunciones sectoriales e institucionales;
 
 II. Coordinar y supervisar la práctica de auditorías al desempeño, verificando el cumplimiento de los objetivos contenidos en los programas mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos, o ambos;
 
-III. Coordinar y supervisar que las auditorías al desempeño permitan constatar que los bienes producidos y servicios ofrecidos por los sujetos fiscalizados cumplieron con los objetivos previstos y las metas propuestas con eficiencia, eficacia, economía, transparencia y honradez, para el óptimo aprovechamiento de los recursos, en términos de lo dispuesto por el artículo 8, fracciones II y VII de la Ley;
+III. Coordinar y supervisar que las auditorías al desempeño permitan constatar que los bienes producidos y servicios ofrecidos por los sujetos de fiscalización cumplieron con los objetivos previstos y las metas propuestas con eficiencia, eficacia, economía, transparencia y honradez, para el óptimo aprovechamiento de los recursos, en términos de lo dispuesto por el artículo 8, fracciones II y VII de la Ley;
 
-IV. Verificar que las auditorías a su cargo incluyan la evaluación de que los sujetos fiscalizados hayan establecido mecanismos adecuados para medir e informar sobre la eficacia de las acciones y la adopción de las prácticas más convenientes para la gestión pública;
+IV. Verificar que las auditorías a su cargo incluyan la evaluación de que los sujetos de fiscalización hayan establecido mecanismos adecuados para medir e informar sobre la eficacia de las acciones y la adopción de las prácticas más convenientes para la gestión pública;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
+V. Promover que en la rendición de cuentas por parte de los sujetos de fiscalización, se incluyan indicadores de gestión y de desempeño institucional que permitan evaluar los resultados, así como constatar la administración responsable, productiva y transparente de los recursos públicos, y
 
-V. Promover que en la rendición de cuentas por parte de los sujetos fiscalizados, se incluyan indicadores de gestión y de desempeño institucional que permitan evaluar los resultados, así como constatar la administración responsable, productiva y transparente de los recursos públicos;
+VI. Las demás que le confieran la Ley, este Reglamento, las disposiciones legales aplicables y la persona titular de la Auditoría Superior.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-VI. Coordinar y supervisar la práctica de auditorías forenses, consistentes en la revisión de los procesos, hechos y evidencias que permitan detectar o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas, así como sus causas, efectos o consecuencias, con el propósito de documentar y sustentar con evidencias suficientes y competentes el resultado de las mismas, apoyándose cuando así se requiera del uso de la tecnología y de especialistas externos;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-VII. Solicitar y obtener de los Sujetos de Fiscalización, el auxilio necesario para el ejercicio expedito de sus funciones de auditoría forense;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-VIII. Concluir las auditorías forenses en el momento en que, derivado de los hallazgos y conclusiones obtenidas durante el proceso de investigación, se determine que no existen los elementos suficientes para presumir alguna irregularidad;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-IX. Proponer la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con organizaciones nacionales e internacionales en materia de auditoría forense;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-X. Verificar que en términos de lo previsto por los artículos 8, fracción IX y 28 de la Ley, los sujetos fiscalizados que hayan ejercido gasto de inversión pública en proyectos, obras y en el equipamiento de éstos, incluidos los proyectos de infraestructura productiva a largo plazo, hayan planeado, programado, presupuestado, adjudicado, contratado, ejecutado, pagado, supervisado y, en su caso, liquidado y finiquitado de conformidad con la Ley de Obras Públicas del Distrito Federal, y demás normatividad aplicable;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XI. Verificar que en términos de lo previsto en los artículos 8, fracción IX y 28 de la Ley, los sujetos fiscalizados hayan recaudado el pago de los derechos, por la gestión de instrumentos de Desarrollo Urbano, Licencias y Manifestaciones de Construcción, que realicen los habitantes en lo individual y/o a través de la representación de las organizaciones sociales de las colonias, barrios y pueblos de la Ciudad de México constituidos conforme a las normas aplicables, lo hayan hecho de conformidad con la Ley de Desarrollo Urbano del Distrito Federal, el Código y demás normatividad aplicable;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XII. Revisar que la normatividad interna de los sujetos fiscalizados relacionada con las inversiones en obra pública, su mantenimiento y equipamiento, se apegue a la legislación, a los criterios de carácter general y normatividad aplicable;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XIII. Revisar que la normatividad interna de los sujetos fiscalizados, relacionadas con las acciones de Desarrollo Urbano, se apegue a la legislación, a los criterios de carácter general y normatividad aplicable;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XIV. Verificar que la prestación de servicios de cualquier naturaleza o la incorporación de bienes a las obras públicas que hayan realizado los sujetos fiscalizados se encuentren apegadas al Presupuesto de Egresos de la Ciudad de México, a la Ley de Obras Públicas del Distrito Federal, al Código y demás normatividad aplicable, conforme a los criterios de eficacia, eficiencia y economía;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XV. Verificar que la prestación de Servicios de cualquier naturaleza o la incorporación a cualquiera de los instrumentos de planeación de Desarrollo Urbano, referentes a la planeación y programación en materia de ordenamiento territorial y desarrollo, licencias y manifestaciones de construcción, que hayan otorgado los sujetos fiscalizados se encuentren apegados a la Ley de Desarrollo Urbano del Distrito Federal, al Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, al Reglamento de Construcciones para el Distrito Federal, al Código y demás normatividad aplicable, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XVI. Las demás que le confieran la Ley, este Reglamento, las disposiciones legales aplicables y la persona titular de la Auditoría Superior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 23.
 
-(DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
+La Dirección General de Auditoría Especializada “B”, tendrá además de las previstas en el artículo 17 de este Reglamento, las siguientes atribuciones:
+
+I. Verificar que en términos de lo previsto por los artículos 8, fracción IX y 28 de la Ley, los sujetos de fiscalización que hayan ejercido gasto de inversión pública en proyectos, obras y en el equipamiento de éstos, incluidos los proyectos de infraestructura productiva a largo plazo, hayan planeado, programado, presupuestado, adjudicado, contratado, ejecutado, pagado, supervisado y, en su caso, liquidado y finiquitado de conformidad con la Ley de Obras Públicas de la Ciudad de México, y demás normatividad aplicable;
+
+II. Verificar que en términos de lo previsto en los artículos 8, fracción IX y 28 de la Ley, los sujetos de fiscalización hayan recaudado el pago de los derechos, por la gestión de instrumentos de Desarrollo Urbano, Licencias y Manifestaciones de Construcción, que realicen los habitantes en lo individual y/o a través de la representación de las organizaciones sociales de las colonias, barrios y pueblos de la Ciudad de México constituidos conforme a las normas aplicables, lo hayan hecho de conformidad con la Ley de Desarrollo Urbano del Distrito Federal, el Código y demás normatividad aplicable;
+
+III. Revisar que la normatividad interna de los sujetos de fiscalización relacionada con las inversiones en obra pública, su mantenimiento y equipamiento, se apegue a la legislación, a los criterios de carácter general y normatividad aplicable;
+
+IV. Revisar que la normatividad interna de los sujetos de fiscalización, relacionadas con las acciones de Desarrollo Urbano, se apegue a la legislación, a los criterios de carácter general y normatividad aplicable;
+
+V. Verificar que la prestación de servicios de cualquier naturaleza o la incorporación de bienes a las obras públicas que hayan realizado los sujetos de fiscalización se encuentren apegadas al Presupuesto de Egresos de la Ciudad de México, a la Ley de Obras Públicas de la Ciudad de México, al Código y demás normatividad aplicable, conforme a los criterios de eficacia, eficiencia y economía;
+
+VI. Verificar que la prestación de Servicios de cualquier naturaleza o la incorporación a cualquiera de los instrumentos de planeación de Desarrollo Urbano, referentes a la planeación y programación en materia de ordenamiento territorial y desarrollo, licencias y manifestaciones de construcción, que hayan otorgado los sujetos de fiscalización se encuentren apegados a la Ley de Desarrollo Urbano del Distrito Federal, al Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, al Reglamento de Construcciones para el Distrito Federal, al Código y demás normatividad aplicable, y
+
+VII. Las demás que le confieran la Ley, este Reglamento, las disposiciones legales aplicables y la persona titular de la Auditoría Superior.
 
 ### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
@@ -880,7 +838,7 @@ XXIV. Recibir y dar trámite a las impugnaciones presentadas a través del recur
 
 XXV. Ejercer la facultad de atracción en los procedimientos de responsabilidad administrativa por su relevancia, o en los que se pudiera presentar conflicto de interés en la investigación y/o en la substanciación;
 
-XXVI. Promover la acción resarcitoria ante la Procuraduría Fiscal de la Ciudad de México, respecto de aquellos procedimientos de responsabilidad administrativa en los que se determine que las personas servidoras y/o ex servidoras públicas, y/o particulares vinculados a éstas, resulten responsables de haber causado daños o perjuicios a la Hacienda Pública de la Ciudad de México o al patrimonio de los sujetos fiscalizados;
+XXVI. (DEROGADA, G.O. 31 DE OCTUBRE DE 2024)
 
 XXVII. Proponer programas de capacitación al personal adscrito a esta Dirección General y los que en temas jurídicos resulten necesarios para las Unidades Administrativas, a fin de contribuir a la mejora de ésta actividad;
 
@@ -900,7 +858,7 @@ XXXIV. Dar seguimiento a los procedimientos de fincamiento de responsabilidad re
 
 XXXV. Expedir copias certificadas de las constancias que obren en sus archivos;
 
-XXXVI. Coadyuvar con el Comité del Servicio Profesional Fiscalizador de Carrera en las resoluciones que se emitan en los términos del Estatuto del Servicio Profesional Fiscalizador de Carrera de la Auditoría Superior de la Ciudad de México;
+XXXVI. (DEROGADA, G.O. 31 DE OCTUBRE DE 2024)
 
 XXXVII. Coordinar la participación de las unidades administrativas en la creación y actualización de la normatividad interna de la Auditoría Superior, la modificación y actualización de la Ley y el Reglamento, realizar su integración y someter las versiones finales a la persona titular de la Auditoría Superior para su aprobación y expedición;
 
@@ -1012,7 +970,7 @@ III. Establecer las normas para los procesos operativos y administrativos intern
 
 IV. Emitir acuerdos, circulares y/o criterios sobre aspectos administrativos para el buen desarrollo de las actividades internas de la Auditoría Superior;
 
-V. Recibir las peticiones de inicio del Procedimiento Administrativo Disciplinario, así como del Recurso de Revocación, integrar el expediente correspondiente y remitirlo a la Dirección General de Asuntos Jurídicos, acorde con lo establecido en el Estatuto del Servicio Profesional Fiscalizador de Carrera;
+V. (DEROGADA, G.O. 31 DE OCTUBRE DE 2024)
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1134,7 +1092,9 @@ II. Las personas titulares de las Unidades Administrativas Auditoras, con derech
 
 III. La persona titular de la Dirección General de Asuntos Jurídicos, con derecho a voz y voto;
 
-IV. La persona titular de la Coordinación Técnica de Auditoría, con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2024)</small>
+
+IV. La persona titular de la Coordinación General Técnica de Auditoría, con derecho a voz y voto;
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1291,3 +1251,23 @@ CUARTO. – Los recursos humanos, materiales, informáticos y financieros de la 
 QUINTO. - La normatividad interna de la Auditoría Superior, deberá actualizarse conforme a las necesidades requeridas, a fin de dar cumplimiento a lo establecido en el presente Acuerdo.
 
 SEXTO. - Todas las referencias a la Coordinación de Vinculación Institucional en aquellos asuntos en trámite y demás normatividad aplicable, deberán entenderse realizadas a la Dirección General de Vinculación Institucional.
+
+G.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir del 1° de noviembre de 2024.
+
+SEGUNDO.- Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
+
+TERCERO.- Los asuntos competencia de la Coordinación de Seguimiento de Recomendaciones e Integración de Informes y de la Coordinación Técnica de Auditoría, serán tramitados y resueltos por la Coordinación General Técnica de Auditoría que se crea por virtud del presente Acuerdo.
+
+CUARTO.- Los asuntos competencia de la Dirección General de Auditoría Especializada, serán tramitados y resueltos por las Direcciones Generales de Auditoría Especializada “A” y “B”, que se crean por virtud del presente Acuerdo y según corresponda al ámbito de su competencia.
+
+QUINTO.- Las acciones resarcitorias que se hayan promovido ante la Procuraduría Fiscal de la Ciudad de México con anterioridad a la entrada en vigor del presente Acuerdo, continuarán su trámite conforme a las disposiciones legales aplicables, hasta su conclusión.
+
+SEXTO.- Los recursos humanos, materiales, informáticos y financieros de la Coordinación de Seguimiento de Recomendaciones e Integración de Informes y de la Coordinación Técnica de Auditoría, formarán parte de la Coordinación General Técnica de Auditoría y de acuerdo a los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables, en coordinación con la Dirección General de Administración.
+
+SÉPTIMO.- Los recursos humanos, materiales, informáticos y financieros de la Dirección General de Auditoría Especializada, formarán parte de las Direcciones Generales de Auditoría Especializada “A” y “B”, según corresponda y de acuerdo a los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables, en coordinación con la Dirección General de Administración.
+
+OCTAVO.- La normatividad interna de la Auditoría Superior, deberá actualizarse conforme a las necesidades requeridas, a fin de dar cumplimiento a lo establecido en el presente Acuerdo.
