@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-la-secretaria-1720
 country: "mx"
 rank: "codigo"
 publication_date: "2024-03-08"
-last_updated: "2024-03-08"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE SEGURIDAD DEL ESTADO DE MEXICO
 
-CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD
+CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2024.
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 8 de marzo de 2024.
 
 Al margen Escudo del Estado de México y un logotipo que dice: Estado de México ¡El poder de servir! y una leyenda que dice: SEGURIDAD, Secretaría de Seguridad, Oficina del C. Secretario.
 
-MAESTRO ANDRÉS ANDRADE TÉLLEZ, SECRETARIO DE SEGURIDAD DEL ESTADO DE MÉXICO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 21 PÁRRAFOS NOVENO, DÉCIMO Y ÚLTIMO Y 113 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 1, 2, 3, 6, 7 FRACCIONES II, V, VI, VII Y XVI, 72, 78, 79 FRACCIONES II, III Y IV, 99, 100 Y 101 DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; 1, 2 FRACCIONES II, III, IV, VII Y VIII, 5 Y 6 DE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; 78, 86 BIS, 130 Y 130 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; 4, 17, 19, 22 23 FRACCIÓN II, 26 Y 27 FRACCIONES II, VI, XIII, XXXIV Y XXXV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; 1 FRACCIONES I, IV Y V, 2, 3, 4, 8 FRACCIONES V, VI Y XIV, 14 FRACCIÓN III, 16 APARTADO A, FRACCIONES I, III, VIII, X, XXVIII Y XXXIX, 134, 140, 141, 152, 182, 183, 184, 185 Y 189 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; 1, 2 FRACCIONES I, II, IV Y V, 4 FRACCIÓN I, 7 Y 17 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS; 1, 2 FRACCIONES I, II, IV, VII, VIII Y IX, 5 Y 6 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS; 1, 3, 5, 6, 10, 11, 12, Y 13 FRACCIONES IV, VI, XVIII, XXIV, XXV, XXVI, XXVII, XXVIII, XLI, LI, LIII, LV Y LVI DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD, ASÍ COMO EN EL MANUAL GENERAL DE ORGANIZACIÓNDE (SIC) LA SECRETARÍA DE SEGURIDAD, Y
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+MAESTRO CRISTÓBAL CASTAÑEDA CAMARILLO, SECRETARIO DE SEGURIDAD DEL ESTADO DE MÉXICO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 21 PÁRRAFOS NOVENO, DÉCIMO Y ÚLTIMO Y 113 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 1, 2, 3, 6, 7 FRACCIONES II, V, VI, VII Y XVI, 72, 78, 79 FRACCIONES II, III Y IV, 99, 100 Y 101 DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; 1, 2 FRACCIONES II, III, IV, VII Y VIII, 5 Y 6 DE LA LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN; 78, 86 BIS, 130 Y 130 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; 4, 17, 19, 22 23 FRACCIÓN II, 26 Y 27 FRACCIONES II, VI, XIII, XXXIV Y XXXV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; 1 FRACCIONES I, IV Y V, 2, 3, 4, 8 FRACCIONES V, VI Y XIV, 14 FRACCIÓN III, 16 APARTADO A, FRACCIONES I, III, VIII, X, XXVIII Y XXXIX, 134, 140, 141, 152, 182, 183, 184, 185 Y 189 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; 1, 2 FRACCIONES I, II, IV Y V, 4 FRACCIÓN I, 7 Y 17 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS; 1, 2 FRACCIONES I, II, IV, VII, VIII Y IX, 5 Y 6 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS; 1, 3, 5, 6, 10, 11, 12, Y 13 FRACCIONES IV, VI, XVIII, XXIV, XXV, XXVI, XXVII, XXVIII, XLI, LI, LIII, LV Y LVI DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD, ASÍ COMO EN EL MANUAL GENERAL DE ORGANIZACIÓN DE LA SECRETARÍA DE SEGURIDAD, Y
 
 CONSIDERANDO:
 
@@ -39,7 +41,9 @@ Que el artículo 79 fracciones II, III y IV de la Ley General del Sistema Nacion
 
 Que el segundo párrafo del arábigo 86 Bis de la Constitución Política del Estado Libre y Soberano de México, establece que las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional.
 
-Que el artículo 16, apartado A, fracción XXVIII de la Ley de Seguridad del Estado de México, puntualiza que es atribución del Secretario de Seguridad emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de la Secretaría.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Que el artículo 16, apartado A, fracción XXVIII de la Ley de Seguridad del Estado de México, puntualiza que es atribución del Secretario de Seguridad emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de la Secretaría de Seguridad.
 
 Que el numeral 182, de la ley citada en el párrafo que antecede, considera que la actuación de los integrantes de las instituciones policiales se regirá por los principios previstos en los artículos 21 de la Constitución Federal, la Ley General del Sistema Nacional de Seguridad Pública y esa Ley. La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos. La disciplina es la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus Integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética. La disciplina demanda respeto y consideración mutua entre quien ostente un mando y sus subordinados.
 
@@ -47,45 +51,65 @@ Que la fracción IX del numeral 2 de la Ley del Sistema Anticorrupción del Esta
 
 Que el artículo 5 del ordenamiento antes invocado considera que son principios rectores del servicio público: la legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad, competencia por mérito y rendición de cuentas, en los términos de las disposiciones legales aplicables, aunado a que los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto y la actuación ética y responsable de cada persona servidora pública.
 
-Que los diversos normativos 7 y 17 de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, prevé que toda persona servidora pública sin perjuicio de sus derechos y obligaciones laborales deberá observar en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, y que las personas servidoras públicas deberán observar el código de ética o disposiciones relativas que al efecto sea emitido por la Secretaría o los Síndicos Municipales, conforme a los lineamientos que emita la Ley del Sistema Anticorrupción del Estado de México y Municipios, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-Que las fracciones XLI y LI del numérico 13 del Reglamento Interior de la Secretaría de Seguridad, refieren que además de las atribuciones que le confieren la Ley de Seguridad del Estado de México, la Ley Orgánica de la Administración Pública del Estado de México y las demás disposiciones jurídicas aplicables, el Secretario está facultado para implementar acciones en materia del servicio profesional de carrera y desarrollo policial basadas en la doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, en el imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género, para las personas servidoras públicas; y promover que los planes y programas de la Secretaría sean realizados con perspectiva de género y respeto a los Derechos Humanos.
+Que los diversos normativos 7 y 17 de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, prevé que toda persona servidora pública sin perjuicio de sus derechos y obligaciones laborales deberá observar en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, y que las personas servidoras públicas deberán observar el código de ética o disposiciones relativas que al efecto sea emitido por la Secretaría de la Contraloría o los Síndicos Municipales, conforme a los lineamientos que emita la Ley del Sistema Anticorrupción del Estado de México y Municipios, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Que las fracciones XLI y LI del numérico 13 del Reglamento Interior de la Secretaría de Seguridad, refieren que además de las atribuciones que le confieren la Ley de Seguridad del Estado de México, la Ley Orgánica de la Administración Pública del Estado de México y las demás disposiciones jurídicas aplicables, el Secretario está facultado para implementar acciones en materia del servicio profesional de carrera y desarrollo policial basadas en la doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, en el imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género, para las personas servidoras públicas; y promover que los planes y programas de la Secretaría de Seguridad sean realizados con perspectiva de género y respeto a los Derechos Humanos.
 
 Que el 12 de octubre de 2018, se publicó en el Diario Oficial de la Federación, el Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, el cual sienta las bases de los principios rectores que regirán las políticas transversales, integrales, sistemáticas, continuas y evaluables que, en materia de integridad y ética pública, emitan los entes públicos.
 
 Que el referido Acuerdo, en su artículo segundo establece que dicho cuerpo normativo es de observancia obligatoria y aplicación general para los entes públicos de todos los órdenes de gobierno, de conformidad con lo establecido en el artículo 5 de la Ley General del Sistema Nacional Anticorrupción, a través de las Secretarías y los Órganos Internos de Control.
 
-Que el artículo cuarto transitorio del Acuerdo por el que se emite el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México y sus organismos auxiliares, publicado el 02 de abril de 2019, en el Periódico Oficial “Gaceta del Gobierno”, cita que es obligación de las dependencias y organismos auxiliares de la administración pública estatal emitir sus respectivos Códigos de Conducta.
+Que el artículo cuarto transitorio del Acuerdo por el que se emite el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México y sus organismos auxiliares, publicado el 02 de abril de 2019, en el Periódico Oficial "Gaceta del Gobierno", cita que es obligación de las dependencias y organismos auxiliares de la administración pública estatal emitir sus respectivos Códigos de Conducta.
 
 Que el 24 de junio de 2019, se publicó en el periódico de referencia el Acuerdo por el que se emiten los Lineamientos generales para establecer las bases de la integración, organización, atribuciones, y funcionamiento de los comités de ética de las dependencias del Poder Ejecutivo y sus organismos auxiliares del Estado de México, documento que contiene los principios y valores considerados como fundamentales que buscan incidir en el comportamiento y desempeño de las personas servidoras públicas, para formar una ética e identidad profesional compartida y un sentido de orgullo de pertenencia al servicio público.
 
-Que el 05 de julio de 2019 se publicó en el Periódico Oficial “Gaceta del Gobierno”, la Guía para la Elaboración de los Códigos de Conducta y Reglas de Integridad de las Dependencias y Organismos Auxiliares del Estado de México, mismo que señala en su artículo Cuarto, que el Comité de Ética elaborará la propuesta del Código de Conducta de la dependencia u organismo auxiliar para someterlo a consideración de su titular para su emisión, previa autorización del titular del Órgano Interno de Control correspondiente.
+Que el 05 de julio de 2019 se publicó en el Periódico Oficial "Gaceta del Gobierno", la Guía para la Elaboración de los Códigos de Conducta y Reglas de Integridad de las Dependencias y Organismos Auxiliares del Estado de México, mismo que señala en su artículo Cuarto, que el Comité de Ética elaborará la propuesta del Código de Conducta de la dependencia u organismo auxiliar para someterlo a consideración de su titular para su emisión, previa autorización del titular del Órgano Interno de Control correspondiente.
 
-Que el 20 de julio de 2020, se publicó en el Periódico Oficial “Gaceta del Gobierno”, el Acuerdo mediante el cual el Comité Coordinador del Sistema Estatal y Municipal Anticorrupción aprueba la Política Estatal Anticorrupción, la cual contiene un eje estratégico denominado “Eje 5. Ética Pública e Integridad” donde refiere en su prioridad 51 que se deben instrumentar mecanismos innovadores para evaluar el funcionamiento de los comités de ética y los códigos de conducta e integridad en la disminución de la corrupción y el fortalecimiento de la trasparencia.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-Que el 22 de marzo de 2022, se publicó en el Periódico Oficial “Gaceta del Gobierno” el Acuerdo del Secretario de Seguridad y Presidente del Comité de Ética de la Secretaría de Seguridad del Estado de México, por el que se emite el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, con la finalidad de establecer los principios, valores, actitudes y normas de comportamiento ético al que deberán sujetarse las personas servidoras públicas de esta Institución en el ejercicio de sus funciones, el cual en concordancia con su artículo Tercero Transitorio, abroga el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 21 de agosto de 2019.
+Que el 20 de julio de 2020, se publicó en el Periódico Oficial "Gaceta del Gobierno", el Acuerdo mediante el cual el Comité Coordinador del Sistema Estatal y Municipal Anticorrupción aprueba la Política Estatal Anticorrupción, la cual contiene un eje estratégico denominado "Eje 5. Ética Pública e Integridad" donde refiere en su prioridad 51 que se deben instrumentar mecanismos innovadores para evaluar el funcionamiento de los comités de ética y los códigos de conducta e integridad en la disminución de la corrupción y el fortalecimiento de la transparencia.
 
-Que es facultad del Comité de Ética de la Secretaría de Seguridad, elaborar la propuesta de Código de Conducta para que sea sometida a consideración del C. Secretario de Seguridad, previa autorización del Titular del Órgano Interno de Control correspondiente de conformidad con la guía emitida por la Secretaría de la Contraloría del Gobierno del Estado de México, asimismo, que es competencia del C. Secretario de Seguridad emitir el Código de Conducta que normará el actuar de las personas servidoras públicas que conforman esta dependencia de seguridad, lo anterior en concordancia con el numeral Vigésimo Séptimo, inciso c) del Acuerdo por el que se emiten los Lineamientos Generales para Establecer las Bases de la Integración, Organización, Atribuciones y Funcionamiento de los Comités de Ética de las Dependencias del Poder Ejecutivo y sus Organismos Auxiliares del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 18 de febrero de 2021.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-Atingente a lo anterior, el 15 de diciembre de 2023, mediante acuerdo SS/CE/003/ORD/2023, de la Tercera Sesión Ordinaria 2023 del Comité de Ética de la Secretaría de Seguridad, se aprobó por unanimidad de votos la actualización del Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad.
+Que el 22 de marzo de 2022, se publicó en el Periódico Oficial "Gaceta del Gobierno" el Acuerdo del Secretario de Seguridad y Presidente del Comité de Ética de la Secretaría de Seguridad, por el que se emite el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, con la finalidad de establecer los principios, valores, actitudes y normas de comportamiento ético al que deberán sujetarse las personas servidoras públicas de esta Institución en el ejercicio de sus funciones, el cual en concordancia con su artículo Tercero Transitorio, abroga el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, publicado en el Periódico Oficial "Gaceta del Gobierno", el 21 de agosto de 2019.
 
-Asimismo, a través del oficio número 20600002000000S/OIC/5411/2023, el Titular del Órgano Interno de Control de la Secretaría de Seguridad, validó las modificaciones realizadas al Código de Conducta y Reglas Integridad de la Secretaría de Seguridad.
+Que es facultad del Comité de Ética de la Secretaría de Seguridad, elaborar la propuesta de Código de Conducta para que sea sometida a consideración del C. Secretario de Seguridad, previa autorización del Titular del Órgano Interno de Control correspondiente de conformidad con la guía emitida por la Secretaría de la Contraloría del Gobierno del Estado de México, asimismo, que es competencia del C. Secretario de Seguridad emitir el Código de Conducta que normará el actuar de las personas servidoras públicas que conforman esta dependencia de seguridad, lo anterior en concordancia con el numeral Vigésimo Séptimo, inciso c) del Acuerdo por el que se emiten los Lineamientos Generales para Establecer las Bases de la Integración, Organización, Atribuciones y Funcionamiento de los Comités de Ética de las Dependencias del Poder Ejecutivo y sus Organismos Auxiliares del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 18 de febrero de 2021.
+
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Atingente a lo anterior, el 5 de diciembre de 2023, mediante acuerdo SS/CE/003/ORD/2023, de la Tercera Sesión Ordinaria 2023 del Comité de Ética de la Secretaría de Seguridad, se aprobó por unanimidad de votos la actualización del Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad.
+
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Asimismo, a través del oficio número 20600002000000S/OIC/5411/2023, el Titular del Órgano Interno de Control de la Secretaría de Seguridad, validó las modificaciones realizadas al Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad.
 
 En razón de lo anterior, se expide el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, con el firme propósito de que el personal de la dependencia, cuente con un documento jurídico que inspire la conducta y el quehacer diario, que les permita reforzar el compromiso a conducirse con estricto cumplimiento de las leyes, principios y valores, actitudes y normas de comportamiento ético, en el ejercicio de sus funciones, sin importar la jerarquía que ocupen o el cargo y puesto que desempeñen.
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
-ACUERDO DEL SECRETARIO DE SEGURIDAD Y PRESIDENTE DEL COMITÉ DE ÉTICA DE LA SECRETARÍA DE SEGURIDAD DEL ESTADO DE MÉXICO, POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+ACUERDO DEL SECRETARIO DE SEGURIDAD Y PRESIDENTE DEL COMITÉ DE ÉTICA DE LA SECRETARÍA DE SEGURIDAD, POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD.
 
 PRIMERO. Se emite el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad.
 
-SEGUNDO. El Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad que se establece en el presente Acuerdo será de observancia obligatoria para las personas integrantes de la Secretaría de Seguridad del Estado de México.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-TERCERO. Se instruye a las personas Titulares de las Unidades Administrativas de la Secretaría de Seguridad del Estado de México, implementen las acciones necesarias para difundir el presente Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad que se establece a través del presente Acuerdo para el adecuado cumplimiento del mismo.
+SEGUNDO. El Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad que se establece en el presente Acuerdo será de observancia obligatoria para las personas integrantes de la Secretaría de Seguridad.
+
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+TERCERO. Se instruye a las personas Titulares de las Unidades Administrativas de la Secretaría de Seguridad, implementen las acciones necesarias para difundir el presente Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad que se establece a través del presente Acuerdo para el adecuado cumplimiento del mismo.
 
 CUARTO. El Órgano Interno de Control y las personas que ejerzan funciones de mandos superiores, supervisarán la estricta aplicación del presente Acuerdo.
 
-QUINTO. Los casos no previstos en el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, derivados de la aplicación del presente Acuerdo, serán resueltos por el Comité de Ética de la Secretaría de Seguridad del Estado de México.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+QUINTO. Los casos no previstos en el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, derivados de la aplicación del presente Acuerdo, serán resueltos por el Comité de Ética de la Secretaría de Seguridad.
 
 T R A N S I T O R I O S
 
@@ -93,21 +117,29 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del 
 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO. Con la entrada en vigor del presente acuerdo, se abroga el Acuerdo del Secretario de Seguridad y Presidente del Comité de Ética de la Secretaría de Seguridad del Estado de México, por el que se emite el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 22 de marzo de 2022. Dejando sin efectos todas aquellas disposiciones de igual o menor jerarquía, que contravengan lo dispuesto por el presente Acuerdo.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-CUARTO. Una vez publicado el presente Acuerdo, a través del Comité de Ética de la Secretaría de Seguridad del Estado de México, se realizará su difusión por los diversos medios oficiales de comunicación que para tal efecto establezca la Secretaría de Seguridad.
+TERCERO. Con la entrada en vigor del presente acuerdo, se abroga el Acuerdo del Secretario de Seguridad y Presidente del Comité de Ética de la Secretaría de Seguridad, por el que se emite el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 22 de marzo de 2022. Dejando sin efectos todas aquellas disposiciones de igual o menor jerarquía, que contravengan lo dispuesto por el presente Acuerdo.
 
-En la Ciudad de Toluca, Estado de México, a los 31 días del mes de enero de 2024.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-MAESTRO ANDRÉS ANDRADE TÉLLEZ.- SECRETARIO DE SEGURIDAD DEL ESTADO DE MÉXICO.- RÚBRICA.
+CUARTO. Una vez publicado el presente Acuerdo, a través del Comité de Ética de la Secretaría de Seguridad, se realizará su difusión por los diversos medios oficiales de comunicación que para tal efecto establezca la Secretaría de Seguridad.
 
-Al margen Escudo del Estado de México y un logotipo que dice: Estado de México ¡El poder de servir! y una leyenda que dice: SEGURIDAD, Secretaría de Seguridad, Oficina del C. Secretario.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD.
+En la Ciudad de Toluca, Estado de México, a los 23 días del mes de agosto de 2024.
 
-Toluca, Estado de México; a 31 de enero de 2024
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
 
-PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SEGURIDAD
+MAESTRO CRISTÓBAL CASTAÑEDA CAMARILLO.- SECRETARIO DE SEGURIDAD DEL ESTADO DE MÉXICO; CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD.- RÚBRICA.
+
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Toluca, Estado de México; a 23 de agosto de 2024
+
+PERSONAS SERVIDORAS PÚBLICAS
+
+DE LA SECRETARÍA DE SEGURIDAD
 
 P R E S E N T E S
 
@@ -117,7 +149,9 @@ El Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, es
 
 A T E N T A M E N T E
 
-MAESTRO ANDRÉS ANDRADE TÉLLEZ
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+MAESTRO CRISTÓBAL CASTAÑEDA CAMARILLO
 
 SECRETARIO DE SEGURIDAD DEL ESTADO DE MÉXICO
 
@@ -291,11 +325,15 @@ Desempeñar el empleo, cargo o comisión en estricto cumplimiento del deber, de 
 
 11. Ética Pública.
 
-Actuar de manera ética, responsable y eficiente durante el desempeño de su empleo, cargo o comisión dentro de la Secretaría y con las personas que llegare a tratar.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Actuar de manera ética, responsable y eficiente durante el desempeño de su empleo, cargo o comisión dentro de la Secretaría de Seguridad y con las personas que llegare a tratar.
 
 12. Honestidad.
 
-Actuar bajo la máxima de la verdad y de acuerdo a las buenas costumbres.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Actuar bajo la máxima de la verdad y de acuerdo con las buenas costumbres.
 
 13. Prudencia.
 
@@ -433,13 +471,17 @@ Conductas o actuaciones.
 
 Responsabilidad.
 
-Me comprometo en el desempeño de mi empleo, cargo o comisión, a atender a quienes soliciten la prestación de trámites y el otorgamiento de servicios de la Secretaría, de forma respetuosa, eficiente, oportuna, responsable e imparcial.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Me comprometo en el desempeño de mi empleo, cargo o comisión, a atender a quienes soliciten la prestación de trámites y el otorgamiento de servicios de la Secretaría de Seguridad, de forma respetuosa, eficiente, oportuna, responsable e imparcial.
 
 Conductas o actuaciones.
 
 - Ejerceré una actitud de servicio, respeto y cordialidad en el trato, cumpliendo con los protocolos de actuación o atención al público.
 
-- Otorgaré información real sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios que ofrezca la Secretaría.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+- Otorgaré información real sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios que ofrezca la Secretaría de Seguridad.
 
 - Realizaré trámites y otorgaré servicios de forma eficiente, sin retrasar los tiempos de respuesta, consultas, trámites, gestiones y servicios.
 
@@ -501,7 +543,9 @@ Conductas o actuaciones.
 
 - Me abstendré de solicitar y/o recibir cualquier tipo de compensación, dádiva, u obsequio, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles.
 
-- Mantendré en buen estado el edificio y los bienes a mi cargo y, en general, los de toda la Secretaría.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+- Mantendré en buen estado el edificio y los bienes a mi cargo y, en general, los de toda la Secretaría de Seguridad.
 
 - Evitaré intervenir o influir en las decisiones de otras personas servidoras públicas para que se beneficie a algún participante en los procedimientos de enajenación de bienes muebles e inmuebles.
 
@@ -601,13 +645,17 @@ Conductas o actuaciones.
 
 - Mantendré una comunicación clara y transparente con mis superiores, compañeros de trabajo y subordinados, informando de manera oportuna sobre los avances, retos y posibles problemas en el desarrollo de las labores encomendadas.
 
-- Me abstendré de realizar conductas que desacrediten a mi persona o a la Secretaría dentro o fuera de servicio.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+- Me abstendré de realizar conductas que desacrediten a mi persona o a la Secretaría de Seguridad dentro o fuera de servicio.
 
 12. Cooperación con la integridad.
 
 Responsabilidad.
 
-Me comprometo a cooperar, en el ámbito de mi competencia, con la Secretaría y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos al servicio público, para el fortalecimiento de la cultura ética y de servicio.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+Me comprometo a cooperar, en el ámbito de mi competencia, con la Secretaría de Seguridad y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos al servicio público, para el fortalecimiento de la cultura ética y de servicio.
 
 Conductas o actuaciones.
 
@@ -655,7 +703,9 @@ Portaré en el desempeño de mi empleo, cargo o comisión, de manera responsable
 
 Conductas o actuaciones.
 
-- Respetaré en todo momento el uniforme e insignias de la Secretaría.
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2024)</small>
+
+- Respetaré en todo momento el uniforme e insignias de la Secretaría de Seguridad.
 
 - Portaré el uniforme y equipo policial únicamente durante el desempeño de mis funciones.
 
@@ -715,8 +765,6 @@ Conductas o actuaciones.
 
 - Demostraré respeto y subordinación legítima a mis superiores inmediatos o mediatos, quienes cuando por exigencias del servicio, en el marco de la Ley y por la premura del tiempo tengan que dar cabal cumplimiento a las órdenes instruidas, debiendo cumplir las disposiciones que éstos dicten en el ejercicio de sus atribuciones.
 
-Al margen Escudo del Estado de México y un logotipo que dice: Estado de México ¡El poder de servir! y una leyenda que dice: SEGURIDAD, Secretaría de Seguridad, Oficina del C. Secretario.
-
 VII. CARTA COMPROMISO.
 
 Quien suscribe _______________________________________________________, con clave de servidor (a) público (a) ____________________, adscrito (a) a _____________________________________________________, hago constar de manera libre, que de conformidad a la publicación del Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, conozco concreta y especialmente el objeto del mismo, así como su naturaleza, y las obligaciones que, desde su entrada en vigor, se desprenden hacia las personas servidoras públicas de esta Secretaría.
@@ -730,3 +778,9 @@ PROTESTO LO NECESARIO
 ______________________________________________________
 
 Nombre y firma de la persona servidora pública
+
+G.G. 31 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. EL “ACUERDO DEL SECRETARIO DE SEGURIDAD Y PRESIDENTE DEL COMITÉ DE ÉTICA DE LA SECRETARÍA DE SEGURIDAD, POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO.]</small>
