@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2024-03-09"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -397,37 +397,45 @@ IV. Secretaría de Cultura;
 
 V. Secretaría de Desarrollo Económico;
 
-VI. Secretaría de Agricultura y Desarrollo Rural;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-VII. Secretaría de Educación;
+VI. Secretaría de Desarrollo Energético Sustentable;
 
-VIII. Secretaría de Gestión Integral del Agua.
+VII. Secretaría de Agricultura y Desarrollo Rural;
+
+VIII. Secretaría de Educación;
+
+IX. Secretaría de Gestión Integral del Agua.
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
-IX. Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
+X. Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
 
-X. Secretaría de Infraestructura y Obra Pública;
+XI. Secretaría de Infraestructura y Obra Pública;
 
-XI. Secretaría de Innovación, Ciencia y Tecnología;
+XII. Secretaría de Innovación, Ciencia y Tecnología;
 
-XII. Secretaría de Medio Ambiente y Desarrollo Territorial;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XIII. Secretaría de Planeación y Participación Ciudadana;
+XIII. Secretaría de Inteligencia y Búsqueda de Personas;
 
-XIV. Secretaría de Salud;
+XIV. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-XV. Secretaría de Seguridad;
+XV. Secretaría de Planeación y Participación Ciudadana;
 
-XVI. Secretaría de Trabajo y Previsión Social;
+XVI. Secretaría de Salud;
 
-XVII. Secretaría de Turismo;
+XVII. Secretaría de Seguridad;
 
-XVIII. Secretaría del Sistema de Asistencia Social; y
+XVIII. Secretaría de Trabajo y Previsión Social;
+
+XIX. Secretaría de Turismo;
+
+XX. Secretaría del Sistema de Asistencia Social; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-XIX. Secretaría de Transporte.
+XXI. Secretaría de Transporte.
 
 ###### Artículo 17.
 
@@ -571,13 +579,17 @@ XLVI. Promover y coordinar la política al interior de las dependencias y entida
 
 XLVII. Coordinar y supervisar, dentro del ámbito estatal, la ejecución de los programas federales y los mecanismos de cooperación internacional especializados en grupos, comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación, en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración en el Estado, de acuerdo con los convenios suscritos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XLVIII. Coordinar con las dependencias y entidades de la Administración Pública Estatal, el diseño e implementación de una Política Integral de Derechos Humanos, así como evaluar su cumplimiento. En el caso de los municipios, coadyuvar en el diseño, implementación y evaluación de sus políticas; y
+XLVIII. Coordinar con las dependencias y entidades de la Administración Pública Estatal, el diseño e implementación de una Política Integral de Derechos Humanos, así como evaluar su cumplimiento. En el caso de los municipios, coadyuvar en el diseño, implementación y evaluación de sus políticas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XLIX. Supervisar, dirigir y controlar el desempeño y funcionamiento de las Unidades Regionales de Servicios Estatales y en su caso establecer nuevas o adicionales Unidades en coordinación con la Secretaría de Administración; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
 
-XLIX. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+L. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -725,7 +737,9 @@ XXI. Representar al Ejecutivo Estatal en los contratos en general que afecten lo
 
 XXII. Practicar visitas de inspección a las distintas secretarías y dependencias de la Administración Pública del Estado, para verificar la existencia, estado y destino de los bienes muebles e inmuebles en posesión o propiedad del Estado;
 
-XXIII. Coordinar, supervisar, dirigir y controlar el desempeño y funcionamiento de las Unidades Regionales de Servicios Estatales y en su caso establecer nuevas o adicionales Unidades;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXIII. Coordinar con la Secretaría General de Gobierno el establecimiento de nuevas o adicionales Unidades Regionales de Servicios Estatales;
 
 XXIV. Brindar apoyo técnico a las entidades, y al Comité de Adquisiciones de la Administración Pública Centralizada del Poder Ejecutivo del Estado, en lo relativo a las compras de tecnologías, telecomunicaciones y sistemas de información;
 
@@ -872,6 +886,56 @@ XXIV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entr
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
 XXV . Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+1. Las facultades de la Secretaría de Desarrollo Energético Sustentable son las siguientes:
+
+I. Diseñar e implementar el Plan de Desarrollo Energético Sustentable del Estado mediante la coordinación, colaboración, concertación, cooperación y coadyuvancia con las dependencias y entidades de la administración pública federal, estatal y municipal, y de otras entidades federativas, así como con agentes de los sectores públicos, privados y académicos;
+
+II. Proponer e implementar políticas públicas estatales para el desarrollo energético sustentable del Estado;
+
+III. Coordinar a las dependencias y entidades paraestatales del Estado en materia de desarrollo energético;
+
+IV. Proponer, ejecutar y supervisar los acuerdos de coordinación y los convenios de coinversión, vinculación y cooperación, en materia de desarrollo energético sustentable, entre el Estado, la Federación y los Municipios, así como con organismos privados y públicos, tanto nacionales como internacionales;
+
+V. Fungir como enlace y coordinador entre el Gobierno del Estado y las distintas dependencias, entidades y organismos técnicos, reguladores y operadores que participen en el sector energético;
+
+VI. Establecer mecanismos de coordinación con las empresas productivas del Estado para el desarrollo energético sustentable en la entidad;
+
+VII. Realizar estudios e investigaciones sobre el diagnóstico de las necesidades estatales en materia de energía, estudiar la problemática existente y proponer alternativas de solución y el desarrollo de proyectos energéticos sustentables;
+
+VIII. Desarrollar mecanismos y programas para la consolidación de la demanda de energéticos de la administración pública estatal, con el propósito de generar ahorros al erario y contar con un suministro oportuno de dichos energéticos;
+
+IX. Promover acciones y desarrollar los mecanismos para el desarrollo de las actividades establecidas en la Ley de la Industria Eléctrica y Ley de Hidrocarburos y/o las leyes respectivas en la materia;
+
+X. Promover y fomentar el uso y aprovechamiento racional y eficiente de energéticos, considerando la reducción de emisiones de gases de efecto invernadero, especialmente de bióxido de carbono en coordinación con la Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+XI. Cooperar y coadyuvar en acciones públicas y privadas para la generación y uso eficiente de la energía, así como participar en estrategias y proyectos vinculados con el desarrollo de infraestructura energética y estratégicos para el Estado;
+
+XII. Establecer mecanismos para la adecuada ejecución de proyectos en materia energética en el Estado con apego a la regulación aplicable que por materia corresponda;
+
+XIII. Promover la gestión de riesgos sociales derivados de la implementación de proyectos energéticos;
+
+XIV. Promover acciones y planes de desarrollo para asegurar el suministro oportuno, eficaz, eficiente y sustentable de energéticos en los sectores sociales, industriales y económicos que lo requieran;
+
+XV. Promover, gestionar, estructurar y atraer inversión pública y privada, nacional y extranjera, para el desarrollo de proyectos en materia energética en el Estado;
+
+XVI. Proponer y en su caso gestionar apoyos, incentivos y subvenciones para el desarrollo de proyectos energéticos y para empresas del sector energético en la entidad;
+
+XVII. Asesorar y ofrecer asistencia técnica sobre temas de energía a los municipios de la entidad, así como a las personas físicas y morales, públicas o privadas;
+
+XVIII. Participar en el establecimiento de la coordinación de los programas de desarrollo socioeconómico del Gobierno del Estado, con los de la Administración Pública Federal y los de los municipios de la Entidad;
+
+XIX. Colaborar con los usuarios y permisionarios de generación, transmisión, distribución y comercialización de electricidad para asegurar que el suministro de energía eléctrica se provea de manera oportuna y suficiente en el Estado;
+
+XX. Colaborar con los usuarios y permisionarios de transporte, almacenamiento, distribución, comercialización y expendio de hidrocarburos, petroquímicos y petrolíferos para asegurar que el suministro de dichos bienes se realice con apego a la regulación establecida por las diversas entidades relacionadas en la materia;
+
+XXI. Expedir las disposiciones aplicables a efecto de hacer efectivas las atribuciones que le confiere esta Ley; y
+
+XXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 ###### Artículo 22.
 
@@ -1341,6 +1405,60 @@ XXVII. Aprobar la incorporación y revalidar los estudios, diplomas, grados o t�
 
 XXVIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 27 Bis.
+
+1. Las facultades de la Secretaría de Inteligencia y Búsqueda de Personas son las siguientes:
+
+I. Coordinar las acciones de las instituciones estatales relacionadas con la inteligencia estratégica y el análisis criminal, así como establecer mecanismos de colaboración con instituciones federales, municipales y organismos internacionales en materia de atención a víctimas y búsqueda de personas desaparecidas;
+
+II. Diseñar, implementar y coordinar el sistema integral de análisis de datos en materia de inteligencia estratégica y análisis criminal, a partir de la información que proporcionen en coordinación con las instancias federales, estatales y municipales correspondientes;
+
+III. Implementar herramientas de análisis de datos para la anticipación del delito, identificando patrones, tendencias y áreas de riesgo;
+
+IV. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la seguridad pública;
+
+V. Diseñar y proponer estrategias para la prevención y combate del delito, con base en el análisis de datos e inteligencia criminal, en coadyuvancia con la Secretaría de Seguridad y la Fiscalía Estatal, para su implementación;
+
+VI. Impulsar la investigación, desarrollo e implementación de nuevas tecnologías para fortalecer las capacidades de inteligencia y análisis criminal del Estado;
+
+VII. Promover la profesionalización de las funciones en materia de inteligencia, análisis de datos, ciencias forenses y atención a víctimas;
+
+VIII. Implementar un sistema de alerta temprana de evaluación y seguimiento de las políticas y programas a su cargo, generando informes periódicos sobre los avances y resultados en análisis de datos, política criminal, atención a víctimas y búsqueda de personas desaparecidas;
+
+IX. Fomentar la cultura de la Inteligencia Estratégica y Análisis de datos para la toma de decisiones dentro de la Administración Pública Estatal;
+
+X. Coordinar los servicios relacionados con las tecnologías de información y comunicación de apoyo a la prevención del delito y la seguridad pública;
+
+XI. Establecer mecanismos de participación ciudadana e implementar y evaluar políticas y programas en materia de prevención del delito, asegurando la transparencia y la protección de la información sensible;
+
+XII. Realizar evaluaciones de riesgo para determinar la probabilidad de ocurrencia de eventos delictivos y sus posibles consecuencias;
+
+XIII. Desarrollar e implementar protocolos de actuación conjunto con el Sistema Estatal de Búsqueda con enfoque proactivo;
+
+XIV. Implementar y actualizar un sistema de georreferenciación del delito para la visualización espacial de la criminalidad y el diseño de estrategias focalizadas;
+
+XV. Desarrollar modelos predictivos, enfocándose en la detección temprana de amenazas, identificación de patrones de conducta en las posibles áreas de riesgo;
+
+XVI. Fortalecer la Ciberseguridad del sistema de inteligencia policial, implementando protocolos de seguridad robustos y realizando auditorías periódicas, en colaboración con la Secretaría de Administración:
+
+XVII. Coadyuvar con la Secretaría de Seguridad en la implementación de políticas y análisis de datos para reducir los índices de violencia;
+
+XVIII. Suscribir los convenios para el suministro e intercambio de información a que hace referencia la Ley del Sistema de Seguridad Pública del Estado de Jalisco;
+
+XIX. Verificar y evaluar que los procesos técnicos periciales se ajusten a la normatividad nacional e internacional aplicable en la materia;
+
+XX. Crear mecanismos que permitan vigilar el desarrollo de la investigación forense;
+
+XXI. Promover la generación de una cultura de ética profesional y estricto apego a la técnica en materia de las ciencias forenses;
+
+XXII. Proponer medidas de prevención, disuasión, contención y desactivación de riesgos y amenazas que pretendan vulnerar el territorio estatal, la soberanía, las instituciones estatales, la gobernabilidad democrática o el Estado de Derecho;
+
+XXIII. Coadyuvar, en colaboración con la Secretaria de Seguridad, en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública; y
+
+XXIV. Las demás que le otorguen otras disposiciones legales.
+
 ###### Artículo 28.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
@@ -1603,7 +1721,9 @@ XXXVI. Las demás que establezcan otras disposiciones legales y reglamentarias a
 
 1. Las facultades de la Secretaría de Seguridad son las siguientes:
 
-I. Desarrollar y aplicar las políticas de seguridad pública en el Estado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Desarrollar y aplicar las políticas de seguridad pública en el Estado, en colaboración con la Secretaría de Inteligencia y Búsqueda de Personas;
 
 II. Diseñar, aplicar, y evaluar, la política criminal en el Estado, tomando en consideración factores inmateriales como las condiciones sociales, económicas, y culturales de la población de la Entidad;
 
@@ -1613,13 +1733,17 @@ IV. Organizar, dirigir y supervisar el sistema de profesionalización de las fun
 
 V. Organizar, dirigir, supervisar, y administrar la institución de formación policial estatal;
 
-VI. Desarrollar las políticas de prevención social del delito y de seguridad pública a cargo del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Desarrollar las políticas de prevención social del delito y de seguridad pública a cargo del Poder Ejecutivo, en colaboración con la Secretaría de Inteligencia y Búsqueda de Personas;
 
 VII. Coordinar los servicios relacionados con las tecnologías de información y comunicación de apoyo a la prevención del delito y la seguridad pública;
 
 VIII. Coordinarse conforme a las disposiciones legales aplicables con los servicios periciales de apoyo en las funciones de prevención y seguridad pública;
 
-IX. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IX. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elaboración del Programa Estatal de Seguridad Pública, en colaboración con la Secretaría de Inteligencia y Búsqueda de Personas;
 
 X. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la seguridad pública;
 
@@ -1627,7 +1751,9 @@ XI. Fomentar la participación ciudadana para que coadyuve, entre otros, en los 
 
 XII. Elaborar en coordinación con las distintas instancias públicas, los estudios, estadísticas, e investigaciones sobre las funciones y materias de su competencia;
 
-XIII. Participar en coordinación con la Secretaría General de Gobierno, en los sistemas nacional y estatal de seguridad pública;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIII. Participar en coordinación con la Secretaría General de Gobierno, en los sistemas nacional y estatal de seguridad pública, proporcionando a la Secretaría de Inteligencia y Búsqueda de Personas la información que ésta requiera para el cumplimiento de sus atribuciones;
 
 XIV. Cumplir con las obligaciones del Estado contenidas en las leyes generales en materia de atención a víctimas, prevención y sanción del secuestro, prevención social de la violencia y la delincuencia, de acceso de las mujeres a una vida libre de violencia, y en materia de desaparición forzada de personas, en el ámbito de su competencia;
 
@@ -1653,13 +1779,25 @@ XXIII. Controlar, vigilar y administrar los centros de reclusión del Estado;
 
 XXIV. Diseñar, conducir, coordinar y evaluar las funciones de apoyo y asistencia a reos liberados, preliberados o que deban ejecutar algún sustitutivo penal en el seno social, procurando su eficaz y pronta reinserción social;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XXV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXVI. Colaborar con la Secretaría de Inteligencia y Búsqueda de Personas en la implementación de estrategias conjuntas de seguridad pública y en el intercambio de información, en materia de sus competencias;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXVII. Establecer las bases, lineamientos, normas y criterios pertinentes para el diseño, aplicación y evaluación de la vigilancia y patrullaje de las vías terrestres de comunicación que se encuentran al interior del estado, para la prevención de delitos y auxilio a los usuarios, en coordinación con las demás dependencias y entidades públicas, que tengan a su cargo atribuciones afines a la misma;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXVIII. Colaborar con las diversas autoridades y dependencias del Estado, de la federación, entidades federativas y municipales, en estricto apego a sus respectivos ámbitos de competencia con la finalidad de coadyuvar en la preservación de la integridad, estabilidad y permanencia del Estado Mexicano; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XXVI. Las demás que le otorguen otras disposiciones legales.
+XXIX. Las demás que le otorguen otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -1921,9 +2059,15 @@ XI. Promover que el Ministerio Público a su cargo, respete, proteja y garantice
 
 XII. Participar en los sistemas nacional y estatal de seguridad;
 
-XIII. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño, de conformidad con la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XIV. Las demás que le otorguen otras disposiciones legales.
+XIII. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIV. Colaborar con la Secretaría de Inteligencia y Búsqueda de Personas para intercambiar y proporcionar la información que genere; y
+
+XV. Las demás que le otorguen otras disposiciones legales.
 
 ### Capítulo VI. Procuraduría Social del Estado
 
@@ -3054,3 +3198,429 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE (SIC) COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29585/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LAS SIGUIENTES LEYES: LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DE LA FISCALÍA; LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DE PERSONAS DESAPARECIDAS; CÓDIGO DE ASISTENCIA SOCIAL; LEY DE PROTECCIÓN CIVIL TODAS DEL ESTADO DE JALISCO, QUE REGULAN LA ESTRUCTURA ORGÁNICA DE LA ADMINISTRACIÓN CENTRALIZADA Y PARAESTATAL".]
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de enero de 2025, previa publicación en el periódico oficial en "El Estado de Jalisco".
+
+SEGUNDO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2025, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+
+TERCERO. Transfiéranse a la Unidad Estatal de Protección Civil y Bomberos la plantilla de bomberos, bomberas y personal operativo forestal forestales adscritos a la Secretaría de Medio Ambiente y Desarrollo Territorial, así como los recursos financieros, materiales y tecnológicos que se consideren necesarios.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Secretaría de Medio Ambiente y Desarrollo Territorial.
+
+CUARTO. Para el ejercicio 2025, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo número 27213/LXII/18, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+
+Así mismo, para el ejercicio 2024, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2024, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2024 a las dependencias que se crean o modifican con motivo del presente decreto.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2025, las adecuaciones llevadas a cabo en los términos del presente artículo.
+
+QUINTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco, las iniciativas de reforma que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las facultades y atribuciones establecidos a cargo de las dependencias que se crean o modifican derivado del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Número 27213/LXII/18, así como las facultades, derechos y obligaciones establecidos a cargo de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con cualquier persona física o jurídica de derecho público o privado, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría de Administración Secretaría General de Gobierno
+
+(Tratándose de la supervisión,
+
+dirección y control de las Unidades
+
+Regionales de Servicios Estatales)
+
+Respecto de la Fiscalía del Estado, serán las siguientes:
+
+ANTERIOR NUEVO
+
+Fiscalía Especial Ejecutiva de Vicefiscalía en Investigación
+
+Investigación Criminal Criminal Especializada
+
+Fiscalía Especial Regional Vicefiscalía en Investigación
+
+Regional
+
+Fiscalía Especial en Derechos Vicefiscalía en Derechos
+
+Humanos Humanos y
+
+de Investigación para
+
+Prevenir y
+
+Sancionar el delito de Tortura
+
+Dirección General en Vicefiscalía en
+
+Delitos Patrimoniales y Investigación
+
+Financieros Especializada en
+
+Delitos Patrimoniales
+
+Dirección General en Vicefiscalía en
+
+Investigación Investigación
+
+Especializada Especializada de
+
+Concertación Social
+
+Dirección General en Delitos Vicefiscalía en
+
+contra las Mujeres, Delitos Investigación
+
+en Razón de Género y Especializada en Delitos
+
+Trata de Personas contra las Mujeres Razón de
+
+Género, niñas, niños y
+
+y adolescentes, y la familia
+
+Dirección General en Dirección de litigación y
+
+Seguimiento a Seguimiento de
+
+Procesos Investigación de cada
+
+una de las
+
+Vicefiscalías
+
+Dirección General de Dirección General de
+
+Inteligencia, Política Inteligencia y
+
+Criminal y Prevención Política Criminal
+
+del Delito
+
+Dirección General de Dirección General de
+
+Policía de la Policía
+
+Investigación Investigadora
+
+Dirección de Tecnologías Dirección General de
+
+de la Información y Innovación y
+
+Comunicación Tecnología
+
+Unidad de Investigación Unidad de Investigación
+
+de Robo de Especializada en Robo
+
+Vehículo de vehículo
+
+Unidad De Robos Unidad de Investigación
+
+Especializada en Robos Varios
+
+Unidad de Investigación de Unidad de Investigación
+
+Robo de Especializada en Robo
+
+Vehículo de Carga Pesada de vehículo de carga
+
+Pesada y Robo
+
+a Instituciones Bancarias
+
+y de Valores
+
+Unidad de Investigación de Unidad de Investigación
+
+Robo a Instituciones Bancarias Especializada en Robo
+
+y de Valores de vehículo de carga
+
+Pesada y Robo
+
+a Instituciones Bancarias
+
+y de Valores
+
+Unidad de Investigación Unidad de Investigación
+
+De Robo a Especializada en Robo
+
+Casa Habitación a Negocio y
+
+Robo a casa Habitación
+
+Unidad de Investigación de Unidad de Investigación
+
+Robo a Negocio Especializada en Robo a
+
+Negocio y
+
+Robo a casa Habitación
+
+Unidad de Investigación de Unidad de Investigación
+
+Homicidios Intencionales Especializada en Homicidios
+
+Intencionales
+
+Unidad de Investigación de Unidad de Investigación
+
+Narcomenudeo Especializada en
+
+Narcomenudeo
+
+Unidad de Investigación Unidad de Investigación
+
+de Secuestros Especializada en Secuestros y
+
+Extorsiones
+
+Unidad de Investigación de Unidad de Investigación
+
+Extorsiones Especializada en Secuestros y
+
+Extorsiones
+
+Unidad de Investigación Unidad de Investigación
+
+de Delitos Ambientales Especializada en Delitos Varios
+
+Unidad de Investigación de Unidad de Investigación
+
+Delitos cometidos en Agravio Especializada en Delitos cometidos
+
+de Niñas, Niños en Agravio de Niñas, Niños y
+
+y Adolescentes Adolescentes
+
+Unidad de Investigación Unidad de Investigación
+
+de Delitos cometidos por Especializada en Delitos cometidos
+
+Adolescentes en por Adolescentes en Conflicto
+
+Conflicto con la ley con (sic) ley
+
+Unidad de Litigación Dirección de Litigación
+
+y Seguimiento de Investigación
+
+Especializada en Atención a
+
+Mujeres, niñas, niños y adolescentes,
+
+razón de género y la familia
+
+Director General de Dirección General
+
+Zona Norte de Investigación
+
+Zona Norte
+
+Director General Dirección General de
+
+de Zona Sur Investigación Zona Sur
+
+Dirección General del Dirección de Atención
+
+Centro de atención y protección a Víctimas del
+
+a ofendidos, víctimas Delito
+
+y testigos del delito
+
+Dirección General de Dirección de Vinculación
+
+Vinculación y y seguimiento en la defensa
+
+seguimiento en la de los derechos Humanos
+
+defensa de los
+
+derechos humanos
+
+Unidad Especializada Dirección de Investigación
+
+en Delitos de para Prevenir y Sancionar
+
+Tortura. el delito de Tortura
+
+Unidad Especializada Dirección de
+
+para la Atención Diversidad Sexual
+
+de Delitos por
+
+Diversidad Sexual
+
+Dirección de Unidad de Investigación
+
+investigación de delitos Especializada en Delitos
+
+patrimoniales no violentos Patrimoniales No Violentos
+
+Dirección de Extinción Unidad de Investigación
+
+de Dominio Especializada en Extinción
+
+de Dominio
+
+Unidad de Investigación Unidad de Inteligencia Financiera
+
+contra recursos de y Recursos de Procedencia Ilícita
+
+procedencia Ilícita
+
+Unidad de Inteligencia Unidad de Inteligencia Financiera y
+
+Patrimonial y Recursos de Procedencia Ilícita
+
+Económica
+
+Unidad De Unidad de Investigación
+
+Delitos Varios Especializada en Delitos
+
+Varios
+
+Unidad De Detenidos Unidad de Investigación
+
+Especializada en Detenidos
+
+Unidad de Hechos de Unidad de Investigación
+
+Sangre, de Tránsito y Especializada en Hechos de
+
+Transporte Público Sangre, tránsito y
+
+Transporte público
+
+Unidad para la Unidad de Investigación
+
+Investigación de delitos Especializada en Delitos contra
+
+(sic) contra de mujeres las mujeres, en razón de género
+
+y delitos en razón de y Trata de Personas
+
+género
+
+Unidad Especializada en Unidad de Investigación
+
+Investigación de Especializada en Feminicidios
+
+Feminicidios
+
+Atención temprana Coordinación de Atención
+
+Temprana de cada Vicefiscalía
+
+con excepción de la
+
+Vicefiscalía en Investigación
+
+Regional
+
+Imputado Unidad de Investigación
+
+desconocido Especializada en Delitos
+
+Varios
+
+Tramitación masiva Unidad de Investigación
+
+de casos Especializada en Delitos Varios
+
+Unidad de Puestos Unidad de Investigación
+
+de socorro Especializada en Hechos de
+
+Sangre, tránsito y Transporte
+
+público
+
+La Dirección de Dirección de litigación y
+
+Control de Procesos y Seguimiento de Investigación
+
+Audiencias de cada una de las
+
+Vicefiscalías
+
+Dirección de Cumplimiento a Dirección de Ordenes
+
+Mandamientos Judiciales de Aprehensión
+
+Dirección de Amparos Dirección de litigación
+
+Procesales y Salidas Alternas y Seguimiento
+
+y Formas de Terminación de Investigación de
+
+Anticipada cada una de las
+
+Vicefiscalías
+
+(Por lo que respecta a las formas
+
+de terminación anticipada)
+
+Dirección de Amparos Dirección de Amparos
+
+Procesales y Salidas
+
+Alternas y Formas de
+
+Terminación Anticipada (Por lo que respecta a los amparos)
+
+Delitos en materia de Unidad de Investigación
+
+trata de personas Especializada en Delitos contra las
+
+mujeres, en razón de género y
+
+Trata de Personas
+
+Dirección de Auditoría Dirección de Auditoría preventiva
+
+preventiva y y orientación
+
+orientación administrativa
+
+Sub Dirección Metropolitana Dirección de la Policía
+
+Investigadora Metropolitana
+
+Sub Dirección Regional Dirección de la Policía
+
+Investigadora Regional
+
+Unidad de Deposito Dirección de Deposito
+
+de Armamento de Armamento
+
+Centro de Telecomunicaciones e Dirección del Centro de
+
+información vehicular Comunicaciones e Información
+
+Vehicular
+
+Instituto de Formación y Dirección de Formación y
+
+Profesionalización Profesionalización
+
+SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Agencia de Energía del Estado de Jalisco, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Secretaría de Desarrollo Energético Sustentable del Poder Ejecutivo, se entenderán como conferidas a ésta última en tanto se adecue su marco jurídico normativo y se publique el Reglamento Interno de la Secretaría de Desarrollo Energético Sustentable.
+
+SÉPTIMO. Los recursos financieros, materiales y tecnológicos necesarios para la operación de las áreas que se extinguen o fusionan de la Fiscalía del Estado, así como los documentos y asuntos en trámite serán transferidos a las unidades administrativas que atraen las atribuciones.
+
+OCTAVO. En toda disposición legal o reglamentaria en que se haga referencia a las Fiscalías Especiales o a los Fiscales Especiales se entenderá por Vicefiscalías o Vicefiscales, de conformidad con el presente decreto.
+
+NOVENO. El titular de la Fiscalía Estatal deberá proponer al Poder Ejecutivo del Estado dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto, las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente decreto, las cuales deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
+
+En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
