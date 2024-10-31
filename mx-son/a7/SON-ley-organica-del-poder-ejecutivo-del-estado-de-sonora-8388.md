@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2024-04-26"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -81,9 +81,7 @@ II. La Oficina del Ejecutivo del Estado;
 
 III. Secretaría Técnica de la Mesa de Seguridad.
 
-> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
-
-IV. Coordinación General del Sistema Estatal de Comunicación Social, y
+IV. (DEROGADA, B.O. 31 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADA, B.O. 8 DE MARZO DE 2022)</small>
 
@@ -291,33 +289,7 @@ XV. Requerir la información que sea necesaria para el debido desahogo de las fu
 
 XVI. Las demás que le sean encomendadas por el Gobernador.
 
-> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
-
-ARTICULO 4 BIS 8.- La Coordinación General del Sistema Estatal de Comunicación Social tendrá como función coordinar la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
-
-I. Desarrollar las políticas públicas y estrategias de comunicación social del Gobierno del Estado que permitan transmitir los programas y acciones que desarrolle el Gobierno del Estado;
-
-II. Diseñar y proponer las políticas de comunicación e imagen para establecer una identidad institucional del Gobierno del Estado;
-
-III. Establecer lineamientos y programas para promover la realización de campañas de comunicación gubernamental dirigidas al Desarrollo Sostenible;
-
-IV. Promover la coordinación y colaboración de los medios de comunicación con el Gobierno del Estado;
-
-V. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental, para el bienestar de la población;
-
-VI. Coordinar el Sistema Estatal de Comunicación Social, mismo que estará integrado por la Coordinación General del Sistema Estatal de Comunicación Social, Televisora de Hermosillo, S.A. de C.V. (Telemax), Radio Sonora y demás medios de comunicación impresos, digitales o de cualquier índole, propiedad del Gobierno del Estado;
-
-VII. Verificar, gestionar y programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Gobierno del Estado, de las dependencias, entidades paraestatales y los fideicomisos de la administración pública del Estado; así como solicitar cada uno de los servicios para la difusión de los programas y acciones del Gobierno del Estado;
-
-VIII. Realizar las tareas inherentes al análisis y monitoreo a medios de comunicación en general;
-
-IX. Preparar el diseño gráfico de la imagen institucional;
-
-X. Elaborar, diseñar y ejecutar nuevos instrumentos de comunicación electrónicos y digitales;
-
-XI. Definir los lineamientos de actuación, así como coordinar a los titulares de las distintas áreas de comunicación en las dependencias y entidades paraestatales de la administración pública estatal, y
-
-XII. Las demás que señalen las disposiciones legales aplicables y las que confiera el Titular del Ejecutivo, dentro de la esfera de sus atribuciones.
+ARTICULO 4 BIS 8.- (DEROGADO, B.O. 31 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
 
@@ -487,7 +459,9 @@ I.- Secretaría de Gobierno.
 
 II.- Secretaría de Hacienda.
 
-II Bis.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE OCTUBRE DE 2024)</small>
+
+II Bis.- Sistema Estatal de Comunicación Social;
 
 III.- Secretaría de la Contraloría General.
 
@@ -499,13 +473,15 @@ V.- Secretaría de Salud Pública.
 
 VI.- Secretaría de Infraestructura y Desarrollo Urbano.
 
-VII.- Secretaría de Economía.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+VII.- Secretaría de las Mujeres.
 
 VIII.- Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura.
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
 
-IX.- Secretaría de Desarrollo Social;
+IX.- Secretaría de Bienestar;
 
 > <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
 
@@ -523,9 +499,9 @@ XII.- Oficialía Mayor;
 
 XIII.- Secretaría de la Consejería Jurídica; y
 
-> <small>(ADICIONADA, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
 
-XIV.- Secretaría de Turismo.
+XIV.- Secretaría de Economía y Turismo.
 
 Los titulares de estas dependencias, subsecretarios, coordinadores, directores generales, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
 
@@ -577,7 +553,9 @@ XVII. Implementar y coordinar el programa de regionalización municipal para la 
 
 XVIII. Implementar los planes y programas para la atención de los migrantes;
 
-XIX. Dirigir, organizar y controlar el Archivo General de Gobierno, asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIX. Llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos.
 
 XX. Elaborar y acordar con el Titular del Ejecutivo del Estado la agenda legislativa del Poder Ejecutivo del Estado, atendiendo a las propuestas de las dependencias y organismos, y someterla a la consideración del mismo;
 
@@ -605,9 +583,7 @@ XXX. Atender los asuntos que le planteen los organismos de la sociedad civil org
 
 XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal de Desarrollo Municipal; Consejo Estatal de Población; y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2016)</small>
-
-XXXII.- Coordinar y supervisar las actividades que desarrolle el Instituto Sonorense de la Mujer;
+XXXII.- (DEROGADA, B.O. 31 DE OCTUBRE DE 2024)
 
 > <small>(ADICIONADA, B.O. 4 DE JULIO DE 2016)</small>
 
@@ -713,11 +689,15 @@ Las atribuciones y funciones Subsecretarías y demás áreas que integren la Con
 
 La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+ARTICULO 23 BIS 2.- A la Oficialía Mayor le corresponde la planeación y administración de los recursos humanos y del servicio profesional de carrera, de los procedimientos de contratación de bienes, servicios generales y materiales, tecnológicos y de comunicaciones de la administración pública del Estado.
+
 > <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-ARTICULO 23 BIS 2.- A la Oficialía Mayor le corresponde la planeación y administración de los recursos humanos y del servicio civil de carrera, de los procedimientos de contratación de bienes, servicios generales y materiales, tecnológicos y de comunicaciones de la administración pública del Estado.
-
 Los organismos públicos descentralizados y entidades paraestatales podrán celebrar los instrumentos de coordinación o adhesión a los procesos administrativos que emita la Oficialía Mayor.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], B.O. 8 DE MARZO DE 2022)</small>
 
 Para el cumplimiento de su objeto contará con las siguientes atribuciones:
 
@@ -727,19 +707,25 @@ II. Diseñar, normar y conducir la implementación de las políticas y criterios
 
 III. Dirigir la administración del personal, considerando:
 
-a) Diseñar e implementar el Servicio Civil de Carrera;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+a) Diseñar e implementar el Servicio profesional de Carrera;
 
 b) La expedición de lineamientos generales para la selección, evaluación, ingreso, remoción, certificación y promoción de los servidores públicos, de conformidad con las disposiciones jurídicas aplicables; y
 
 c) La emisión de nombramientos.
 
-IV. Definir, en el marco del servicio público de carrera, las políticas de evaluación del desempeño, así como establecer y supervisar los mecanismos relativos a las promociones, estímulos y gratificaciones para los servidores públicos de carrera;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+IV. Definir, en el marco del servicio profesional de carrera, las políticas de evaluación del desempeño, así como establecer y supervisar los mecanismos relativos a las promociones, estímulos y gratificaciones para los servidores públicos de carrera;
 
 V. Proponer al Titular del Poder Ejecutivo la política de sueldos y salarios, así como los tabuladores para el pago de los servidores públicos y remitir a la Secretaría de Hacienda dicha política para su programación y presupuestación correspondiente;
 
 VI. Determinar las políticas, normas y lineamientos administrativos respecto a la contratación de la prestación de servicios profesionales;
 
-VII. Establecer la normatividad y las políticas de capacitación del personal, en el marco del servicio civil de carrera y de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+VII. Establecer la normatividad y las políticas de capacitación del personal, en el marco del servicio profesional de carrera y de las disposiciones jurídicas aplicables;
 
 VIII. Conducir el proceso de planeación de recursos materiales, servicios generales, de tecnologías de la información y comunicaciones y realizar su programación en coordinación con la Secretaría de Hacienda;
 
@@ -775,15 +761,45 @@ XXI. Convocar y conducir las reuniones de planeación con las Direcciones Genera
 
 XXII. Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la Administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
 
-> <small>(ADICIONADA, B.O. 26 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXIII. Intervenir en el otorgamiento y revocación de concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado, en los términos que establezca la ley de la materia; y
+XXIII. Intervenir en el otorgamiento y revocación de concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado, en los términos que establezca la ley de la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 26 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXIV. Las demás que le confieran otras leyes y reglamentos.
+XXIV. Planear, conducir, e implementar las políticas y demás acciones que permitan la instalación, operación, explotación, uso y mantenimiento de las redes públicas de telecomunicaciones, redes de telecomunicaciones y demás análogas y necesarias para la debida implementación de la red estatal y red troncal del Estado de Sonora, de conformidad con la legislación correspondiente; y
 
-ARTICULO 23 BIS 3.- (DEROGADO, B.O. 8 DE MARZO DE 2022)
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXV. Las demás que le confieran otras leyes y reglamentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE OCTUBRE DE 2024)</small>
+
+ARTICULO 23 BIS 3.- El Sistema Estatal de Comunicación Social tendrá como función coordinar la comunicación gubernamental, para lo anterior tendrá las facultades y obligaciones siguientes:
+
+I. Desarrollar las políticas públicas y estrategias de comunicación social del Gobierno del Estado que permitan transmitir los programas y acciones que desarrolle el Gobierno del Estado;
+
+II. Diseñar y proponer las políticas de comunicación e imagen para establecer una identidad institucional del Gobierno del Estado;
+
+III. Establecer lineamientos y programas para promover la realización de campañas de comunicación gubernamental dirigidas al Desarrollo Sostenible;
+
+IV. Promover la coordinación y colaboración de los medios de comunicación con el Gobierno del Estado;
+
+V. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental, para el bienestar de la población;
+
+VI. Coordinar el Sistema Estatal de Comunicación Social, mismo que estará integrado por la Televisora de Hermosillo, S.A. de C.V. (Telemax), Radio Sonora, el Sistema Estatal de Televisión Sonorense (SETS) y demás medios de comunicación impresos, digitales o de cualquier índole, propiedad del Gobierno del Estado;
+
+VII. Verificar, gestionar y programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Gobierno del Estado, de las dependencias, entidades paraestatales y los fideicomisos de la administración pública del Estado; así como solicitar cada uno de los servicios para la difusión de los programas y acciones del Gobierno del Estado;
+
+VIII. Realizar las tareas inherentes al análisis y monitoreo a medios de comunicación en general;
+
+IX. Preparar el diseño gráfico de la imagen institucional;
+
+X. Elaborar, diseñar y ejecutar nuevos instrumentos de comunicación electrónicos y digitales;
+
+XI. Definir los lineamientos de actuación de los titulares de las distintas áreas de comunicación en las dependencias y entidades paraestatales de la administración pública estatal, y
+
+XII. Las demás que señalen las disposiciones legales aplicables y las que confiera el Titular del Ejecutivo, dentro de la esfera de sus atribuciones.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1085,9 +1101,7 @@ X.- Prevenir, investigar, substanciar, resolver, y en su caso, sancionar las con
 
 XI.- Vigilar, en colaboración con las autoridades que integren los Comités Coordinador de los Sistemas Nacional Anticorrupción y del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; y
 
-> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2018)</small>
-
-XII.- Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de Servicio Profesional de Carrera en la Administración Pública Estatal.
+XII.- (DEROGADA, B.O. 31 DE OCTUBRE DE 2024)
 
 D. En materia de participación social y vinculación:
 
@@ -1233,7 +1247,7 @@ IV.- Coordinar acciones preventivas y de control para el cuidado del medio ambie
 
 V.- Promover y coordinar las campañas sanitarias tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 31 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 29.
 
@@ -1297,81 +1311,65 @@ F. En materia de comunicaciones:
 
 I.- Proponer políticas y ejecutar acciones en materia de comunicaciones en el Estado.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+(REFOMADO, B.O. 31 DE OCTUBRE DE 2024)
 
 ###### ARTICULO 30.
 
-A la Secretaría de Economía le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de las Mujeres le corresponden las facultades y obligaciones siguientes:
 
-A. En materia de fomento del desarrollo económico:
+I. Formular, proponer, coordinar, ejecutar y dar seguimiento a la instrumentación de políticas públicas transversales, programas estatales y acciones que promuevan la igualdad de género, la prevención, atención sanción y erradicación de la violencia contra las mujeres, así como de las medidas institucionales que aseguren el ejercicio de sus derechos, oportunidades y acceso igualitario a la participación equitativa en el desarrollo económico, político, social y cultural, a fin de eliminar los estereotipos y prácticas sociales que refuerzan la discriminación hacia las mujeres;
 
-> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+II. Proponer, en el marco del Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad de Género y evaluar periódica y sistemáticamente la ejecución del mismo;
 
-I.- Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios y la minería, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
+III. Promover, difundir, vigilar y dar seguimiento al cumplimiento de los derechos humanos de las mujeres establecidos en la Constitución Política de los Estados Unidos Mexicanos; en los tratados internacionales ratificados por México, en particular de los derechos humanos y libertades fundamentales de las mujeres; en la Constitución Política del Estado de Sonora y en los demás ordenamientos jurídicos de la materia;
 
-II.- Promover el crecimiento económico de las regiones de la Entidad sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
+IV. Establecer relaciones permanentes con las autoridades responsables de la Procuración de Justicia y de Seguridad Pública, para proponer medidas de prevención contra cualquier forma de discriminación conforme al objeto de esta Ley;
 
-III.- Fomentar la creación de condiciones económicas y de infraestructura necesarias para el establecimiento de empresas en el Estado;
+V. Establecer vínculos de colaboración con las instancias administrativas estatales y municipales, para promover y apoyar, en su caso, las políticas programas y acciones en materia de igualdad sustantiva y no discriminación;
 
-IV.- Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
+VI. Expedir lineamientos administrativos para la coordinación de los procesos internos de planeación, programación y presupuestación de la política pública con perspectiva de género y de derechos humanos de las mujeres, así como diseñar indicadores para su seguimiento, sistematización y evaluación y realizar proyecciones con la información que se genere en la operación de los programas y acciones gubernamentales en favor de la mujer;
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+VII. Fungir como enlace y representante permanente del o la representante del Poder Ejecutivo del Estado en materia de derechos de las mujeres ante las dependencias y entidades de las administraciones publicas federal, estatal y municipales, así como ante organizaciones sociales y privadas y organismos nacionales e internacionales;
 
-V.- Promover la creación y fomento del desarrollo de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
+VIII. Servir como enlace y asesor, con organizaciones privadas y sociales, estatales, nacionales e internacionales que apoyen proyectos dirigidos a las mujeres para lograr la captación y distribución adecuada de recursos técnicos y financieros.
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN VII.]</small>
+IX. Promover y gestionar aportaciones de recursos provenientes de instituciones públicas, organizaciones privadas y sociales, organismos nacionales e internacionales, así como de particulares interesados en apoyar el logro de la igualdad sustantiva;
 
-(REFORMADA, B.O. 16 DE MARZO DE 2021) (F. DE E., B.O. 14 DE JUNIO DE 2021)
+X. Proponer a la persona titular del Poder Ejecutivo del Estado, la celebración de convenios con instituciones públicas y privadas, así como con organismos internacionales, en materia de igualdad de género, desarrollo integral de las mujeres y erradicación de todas las formas de violencia y discriminación contra las mujeres;
 
-VI.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria y de la minería;
+XI. Fomentar la participación de las mujeres en las organizaciones sociales, políticas y económicas, en los diferentes aspectos del desarrollo del Estado;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN VI.]</small>
+XII. Realizar acciones orientadas a promover, difundir y mejorar la salud integral de las mujeres y al ejercicio pleno de sus derechos sexuales y reproductivos;
 
-> <small>(F. DE E., B.O. 14 DE JUNIO DE 2021)</small>
+XII. Elaborar y mantener actualizado un diagnóstico de la situación de las mujeres en el Estado que permita conocer sus necesidades y problemáticas, utilizando sus resultados para el diseño, implementación y evaluación de políticas, programas y acciones dirigidos al cumplimiento del objeto de esta Ley;
 
-VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
+XIV. Promover ante las autoridades competentes que se garantice el acceso y se aliente la permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, favoreciendo a través del proceso enseñanza-aprendizaje la igualdad de oportunidades para mujeres y hombres;
 
-VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
+XV. Promover la ejecución de acciones para el reconocimiento y la visibilidad pública de las mujeres, así como para la difusión de las actividades que benefician;
 
-IX.- Promover y coordinar la distribución y comercialización de productos, así como el abastecimiento de los consumos básicos de la población;
+XVI. Implementar y coordinar la ejecución de programas de difusión e información para las mujeres de carácter gratuito y alcance estatal que se desarrollen en materia de derechos de las mujeres y de los procedimientos de impartición de justicia; así como aquellos que proporcionen orientación sobre las políticas públicas, programas de gobierno y de organismos no gubernamentales y privados para la igualdad sustantiva;
 
-X.- Integrar y proporcionar información sobre mercados internacionales, proveedores nacionales e inversionistas potenciales para el Estado, así como mantener actualizada la información socioeconómica para proyectos de factibilidad de inversiones;
+XVII. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Estatal y Municipal y de los organismos de los sectores social y privado en materia de igualdad de oportunidades para las mujeres, cuando así lo requieran;
 
-XI.- (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
+XVIII. Apoyar con recursos, de conformidad con los programas federales para tal efecto, el desarrollo de programas y proyectos de instituciones y organizaciones sociales no gubernamentales e individuales que promuevan la igualdad sustantiva;
 
-XII.- Promover, fomentar y fortalecer entre nuestro Estado y otras Entidades de la Federación, Arizona y otros Estados de la Unión Americana y a nivel internacional, el desarrollo de las relaciones económicas, comerciales, culturales e industriales, así como de aquellos asuntos y programas que sean de interés común;
+XIX. Brindar asesoría a las mujeres para potenciar sus capacidades, que les permita acceder y aprovechar los programas que las beneficien;
 
-XIII.- Asesorar a los municipios que así lo soliciten, en materia industrial, comercial y de servicios, minera, artesanal y turística;
+XX. Promover el desarrollo de metodologías y estrategias para la formación y capacitación laboral dirigido a mujeres, así como propiciar su profesionalización dentro de la administración pública;
 
-XIV.- Promover programas y acciones de vivienda;
+XXI. Promover y fomentar acciones con perspectiva de género para la prevención de la violencia contra las mujeres, priorizando a las mujeres en situación de vulnerabilidad por pobreza, marginación y exclusión, especialmente aquéllas que se encuentran en el medio rural e indígena y con ello contribuir a la prevención de la violencia;
 
-XV.- Ejercer las atribuciones y compromisos que en materia industrial, comercial, artesanal, minera, turística y de servicios, se establezcan para el Gobierno del Estado en los convenios y acuerdos de coordinación que celebre con la Federación o con los municipios de la Entidad; y
+XXII. Promover ante las autoridades municipales o competentes, la instauración de una instancia que atienda la problemática de igualdad de género en sus municipios que fungirá como enlace institucional en esta materia;
 
-XVI.- Promover la participación de la sociedad, en la ejecución de los programas que en materia de desarrollo económico instrumente el Gobierno del Estado.
+XXIII. Brindar asesoría y apoyo a los municipios del Estado en la elaboración de sus programas de trabajo de las instancias municipales de las mujeres; y
 
-B. (DEROGADO [N. DE E. ESTE PÁRRAFO], B.O. 16 DE MARZO DE 2021)
+XXIV. Promover e impulsar la cultura de la denuncia ante cualquier tipo o modalidad de violencia hacia las mujeres.
 
-I. (DEROGADA, B.O. 16 DE MARZO DE 2021)
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2024)</small>
 
-II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+ARTICULO 30 BIS 1.- A la Secretaría de Economía y Turismo le corresponden las facultades y obligaciones siguientes:
 
-III.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-IV.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-V.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-VI.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-VII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-VIII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
-
-> <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
-
-###### Artículo 30 Bis 1.
-
-A la Secretaría de Turismo le corresponden las facultades y obligaciones siguientes:
+A. En materia de turismo:
 
 I. Formular, conducir y evaluar la política turística del Estado;
 
@@ -1383,7 +1381,7 @@ IV. Formular, ejecutar y evaluar el Programa Estatal de Turismo, las directrices
 
 V. Establecer el Consejo Consultivo Estatal de Turismo;
 
-VI. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
+VI. Concertar con los sectores privado y social, las acciones tendentes a detonar programas a favor de la actividad turística;
 
 VII. Formular, evaluar y ejecutar los programas estatales de ordenamiento turístico del territorio, con la participación que corresponda a los Municipios respectivos;
 
@@ -1391,29 +1389,61 @@ VIII. Participar en la regulación, administración y vigilancia de las Zonas de
 
 IX. Instrumentar las acciones de promoción de las actividades y destinos turísticos con que cuenta;
 
-X. Conducir la política estatal de información y difusión en materia turística;
+X. Conducir la política estatal de información y difusión en materia turística
 
 XI. Proyectar y promover el desarrollo de la infraestructura turística;
 
-XII. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en la entidad;
+XII. Impulsar a las micro, pequeñas y mediana empresas turísticas que operen en la entidad;
 
-XIII. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico estatal;
+XIII. Diseñar, instrumentar, ejecutar y evaluar los programas de investigación para el desarrollo turístico estatal;
 
 XIV. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
 XV. Brindar orientación y asistencia al turista y canalizar las quejas de éstos ante la autoridad competente;
 
-XVI. Atender los asuntos que afecten el desarrollo de la actividad turística de dos o más Municipios;
+XVI. Atender los asuntos que afecten el desarrollo de la actividad turística de dos ó más Municipios;
 
-XVII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente:
+XVII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje en los términos de la regulación correspondiente;
 
 XVIII. Vigilar el cumplimiento de la Ley General de Turismo, la Ley Estatal de Turismo y demás disposiciones reglamentarias que deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
 
-XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General de Turismo y a las disposiciones reglamentarias;
+XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General de Turismo y a las disposiciones reglamentarias; y
 
-XX. Emitir opiniones a la Secretaría en la materia; y
+XX. Las demás previstas en éste y otros ordenamientos.
 
-XXI. Las demás previstas en éste y otros ordenamientos.
+B. En materia de fomento del desarrollo económico:
+
+I. Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios, la minería y el turismo, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
+
+II. Promover el crecimiento económico de las regiones de la Entidad sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
+
+III. Fomentar la creación de condiciones económicas y de infraestructura necesarias para el establecimiento de empresas en el Estado;
+
+IV. Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
+
+V. Promover la creación y fomento del desarrollo de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
+
+VI. Asesorar a los sectores social y privado en el establecimiento de nuevas empresas;
+
+VII. Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria y de la minería;
+
+VIII. Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
+
+IX, Promover y coordinar la distribución y comercialización de productos, así como el abastecimiento de los consumos básicos de la población;
+
+X. Integrar y proporcionar información sobre mercados internacionales, proveedores nacionales e inversionistas potenciales para el Estado, así como mantener actualizada la información socio económica para proyectos de factibilidad de inversiones;
+
+XI. Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad;
+
+XII. Asesorar a los municipios que así lo soliciten, en materia industrial, comercial y de servicios, minera, artesanal y turística;
+
+XIII. Promover programas y acciones de vivienda;
+
+XIV. Ejercer las atribuciones y compromisos que en materia industrial, comercial, artesanal, minera, turística y de servicios se establezcan para el Gobierno del Estado en los convenios y acuerdos de coordinación que celebre con la Federación o con los municipios de la Entidad;
+
+XV. Promover la participación de la sociedad, en la ejecución de los programas que en materia de desarrollo económico instrumente el Gobierno del Estado; y
+
+XVI. Las demás previstas en éste y otros ordenamientos.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1495,43 +1525,67 @@ III.- Formular el inventario de los recursos e infraestructura hidráulica, agr�
 
 IV.- Establecer y aplicar los procedimientos para la internación y movilización de ganado, aves y subproductos pecuarios, en los términos de la Ley de Ganadería para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2024)</small>
 
 ###### ARTICULO 32.
 
-A la Secretaría de Desarrollo Social le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Bienestar le corresponden las facultades y obligaciones siguientes:
 
-A. En materia de desarrollo social:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, B.O. 31 DE OCTUBRE DE 2024)</small>
 
-I.- Proponer, conducir y evaluar la política estatal en materia de desarrollo social integral de la población del Estado, así como los programas y las acciones específicas para la superación de las desigualdades, combate a la pobreza y la atención especial a grupos vulnerables y en desventaja;
+A. En materia de Bienestar Social:
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+I.- Dirigir e impulsar el bienestar, así como proponer, conducir y evaluar la política estatal en materia de desarrollo social, desarrollo regional e integral de la población del estado; así como los programas y las acciones específicas para la superación de las desigualdades, combate a la pobreza y la atención especial a grupos vulnerables y en desventaja;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 II.- Impulsar la participación corresponsable de los grupos beneficiarios de los programas de desarrollo social en la toma de decisiones y la instrumentación de acciones con respecto a su propio desarrollo;
 
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 III.- Diseñar, concertar, ejecutar y dar seguimiento a los programas sociales en el ámbito rural y urbano para la atención de grupos específicos y sectores marginados, propiciando la participación de los sectores social y privado;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 IV.- Promover la igualdad de oportunidades de los grupos sociales vulnerables y en desventaja, para garantizar el disfrute pleno de sus derechos sociales al trabajo, a la salud, a la educación, a la vivienda y a los servicios públicos básicos de calidad;
 
-V.- Promover la equidad de género en las políticas y programas de desarrollo social;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+V.- Promover la equidad de género en las políticas y programas de bienestar y de desarrollo social;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 VI.- Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios o acuerdos de coordinación que se celebren al efecto;
 
-VII.- Fomentar y apoyar el desarrollo de proyectos productivos de mujeres, grupos indígenas, personas con discapacidad, jóvenes, adultos mayores y, en general, de grupos marginados o con rezago socioeconómico en el Estado, de acuerdo con los programas que se establezcan;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+VII.- Fomentar y apoyar el desarrollo de proyectos productivos de mujeres, grupos indígenas y afroamericanos, personas con discapacidad, jóvenes, adultos mayores y, en general, de grupos marginados o con rezago socioeconómico en el Estado, de acuerdo con los programas que se establezcan;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 VIII.- Promover el abastecimiento de productos de consumo básico entre la población de escasos recursos o afectada por situaciones de siniestros o de desastres;
 
-IX.- Promover programas y acciones de asistencia social;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
 
-X.- Integrar y mantener actualizado un banco de datos sobre la evolución de la pobreza y el impacto de los programas sociales a efecto de orientar las políticas públicas de desarrollo social; y
+IX.- Promover programas y acciones que promuevan las políticas del bienestar y la asistencia social, así como las normas, criterios y lineamientos conforme a los cuales se lleven a cabo los programas que de ellas deriven;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2024)</small>
+
+X.- Integrar y mantener actualizado un banco de datos sobre la evolución de la pobreza y el impacto de los programas de política social y de bienestar, a efecto de orientar las políticas públicas de desarrollo social; e Integrar, mantener y actualizar los sistemas de información con los padrones de beneficiarios de programas sociales, así como depurar sus duplicidades;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 XI.- Promover programas relativos al desarrollo integral de los pueblos y las comunidades indígenas del Estado, procurando la preservación de sus valores culturales;
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
-
-XII.- Coordinar las acciones, planes y programas que sean implementados por el Instituto Sonorense de la Mujer, que propicien y faciliten la plena incorporación de la mujer en la vida económica, política, cultural y social.
+XII.- (DEROGADA, B.O. 31 DE OCTUBRE DE 2024)
 
 > <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
 XIII.- Coordinar las acciones del Instituto Sonorense de la Juventud, de la Comisión de Vivienda del Estado y el Instituto Sonorense para la Atención de los Adultos Mayores.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 B. En materia de desarrollo regional:
 
@@ -2864,3 +2918,91 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El titular del Ejecutivo Estatal cuenta con un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones reglamentarias y administrativas conforme a lo establecido en el mismo.
+
+B.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 08, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones que en otras leyes y reglamentos se otorgan a la Secretada de Economía y a la Secretaria de Turismo, se tendrán por conferidas a la Secretaría de Economía y Turismo que, de conformidad con este Decreto, asume dichas atribuciones
+
+Las menciones que en otras leyes y reglamentos se otorgan a la Secretaría de Infraestructura Urbana y Desarrollo se tendrán por conferidas a la Secretaría de Infraestructura y Desarrollo Urbano que, de conformidad con este Decreto, asume dichas atribuciones.
+
+###### ARTÍCULO TERCERO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Economía pasan a formar parte de la Secretaría de Economía y Turismo, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Secretaría de Economía y de la Secretaría de Economía y Turismo se respetarán conforme a la ley.
+
+En el caso de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas o fideicomisos públicos la relación laboral de su personal no se modifica respecto a las dependencias objeto (sic) este Decreto en las que están adscritos jerárquica, estructural y presupuestalmente las cuales deberán cumplir con las obligaciones y prestaciones que permitan la conservación de sus derechos laborales en términos de la legislación en la materia.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Infraestructura Urbana y Desarrollo Urbano pasan a formar parte de la Secretaría de Infraestructura y Desarrollo Urbano, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Secretaría de Infraestructura Urbana y Desarrollo Urbano a la Secretaría de Infraestructura y Desarrollo Urbano se respetarán conforme a la ley.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Coordinación General del Sistema Estatal de Comunicación Social pasan a formar parte del Sistema Estatal de Comunicación Social, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Coordinación General del Sistema Estatal de Comunicación Social al Sistema Estatal de Comunicación Social se respetarán conforme a la ley.
+
+###### ARTÍCULO CUARTO.
+
+Las menciones a la Secretaría de Economía contenidas en otras leyes, reglamentos y con general en cualquier disposición, respecto de los organismos públicos descentralizados, empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas o fideicomisos públicos, se entenderán referidas a la Secretaría de Economía y Turismo.
+
+###### ARTÍCULO QUINTO.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida el reglamento interior de la Secretaría de Economía y Turismo.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, realice las adecuaciones necesarias al reglamento interior de la Secretaria de la Contraloría General y de la Oficialía Mayor.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, para realizar las modificaciones normativas y administrativas que resulten necesarias, en atención a lo señalado en el presente Decreto en materia de telecomunicaciones.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida el reglamento interior del Sistema Estatal de Comunicación Social.
+
+###### ARTÍCULO SEXTO.
+
+Las menciones y atribuciones que en otras leyes y en reglamentos se otorgan a la Secretaría de Desarrollo Social, se tendrán por conferidas a la Secretaría de Bienestar.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida reglamento interior de la Secretaría de Bienestar.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Desarrollo Social pasan a formar parte de la Secretaría de Bienestar, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Secretaría de Desarrollo Social a la Secretaria de Bienestar se respetarán conforme a la ley.
+
+Las menciones y atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de Desarrollo Social, se tendrán por conferidas a la Secretaría de Bienestar que, de conformidad con este Decreto, asume dichas atribuciones.
+
+###### ARTÍCULO OCTAVO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros del Instituto Sonorense de las Mujeres, pasan a formar parte de la Secretaría de las Mujeres, conforme a la estructura administrativa que el Ejecutivo del Estado determine a través de Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen del Instituto Sonorense de las Mujeres, a la Secretaría de las Mujeres se respetarán conforme a la ley.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Número 181 que crea el Instituto Sonorense de las Mujeres, publicada en el Boletín Oficial del Gobierno del Estado el 04 de mayo de 2017, Tomo CXCIX, Número 36, Sección I.
+
+###### ARTÍCULO DÉCIMO.
+
+Las menciones y atribuciones que en otras leyes y en reglamentos que se otorgan al instituto Sonorense de las Mujeres, se tendrán por conferidas a la Secretaría de las Mujeres, que de conformidad con este Decreto asume dichas atribuciones.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida el reglamento interior de la Secretaría de las Mujeres.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Secretaría de Gobierno continuará ejerciendo las atribuciones de Archivo General del Gobierno del Estado hasta la creación del organismo que señala la Ley de Archivos para el Estado de Sonora y la expedición del reglamento de la misma, por parte del Ejecutivo del Estado.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, realice las adecuaciones necesarias al reglamento interior de la Secretaría de Gobierno.
+
+###### ARTICULO DÉCIMO SEGUNDO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los juicios promovidos ante las diversas instancias del poder judicial y procedimientos administrativos, según sea el caso, en que sean parte las dependencias establecidas en el presente Decreto, pendientes de alguna resolución, se continuarán de conformidad con las atribuciones y normas aplicables.
