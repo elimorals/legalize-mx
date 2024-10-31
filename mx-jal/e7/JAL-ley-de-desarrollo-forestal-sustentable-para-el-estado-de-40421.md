@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2023-07-22"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -617,9 +617,11 @@ V. Los demás recursos legítimos que se obtengan por cualquier otro concepto.
 
 La prevención, control y combate de los incendios forestales será prioritaria para la conservación de las zonas forestales, así como el desarrollo sustentable del sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 50.
 
-Para prevenir, combatir y controlar los incendios forestales, además de las que establezcan otras disposiciones legales, la Secretaría, en coordinación con la Federación y los Municipios y contando con la participación de la sociedad civil, deberá:
+Para prevenir, combatir y controlar los incendios forestales, además de las que establezcan otras disposiciones legales, la Secretaría, en coordinación con la Unidad Estatal de Protección Civil y Bomberos, la Federación y los Municipios y contando con la participación de la sociedad civil, deberá:
 
 I. Fomentar la constitución de asociaciones civiles de protección forestal;
 
@@ -661,9 +663,11 @@ IV. Permitir y no obstaculizar las inspecciones que se realicen sobre su predio;
 
 V. Permitir el ingreso al personal de la Secretaría, protección civil, bomberos o de los integrantes de las brigadas ciudadanas de prevención, combate y control de incendios, en caso de siniestro.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 52.
 
-La Secretaría y los Municipios podrán realizar quemas preventivas con el fin de eliminar las condiciones para que se generen incendios o para que el fuego no se propague en caso de siniestro, cumpliendo siempre con las disposiciones que para tal efecto señalen las leyes de la materia.
+La Secretaría y los Municipios en coordinación con la Unidad Estatal de Protección Civil y Bomberos podrán realizar quemas preventivas con el fin de eliminar las condiciones para que se generen incendios o para que el fuego no se propague en caso de siniestro, cumpliendo siempre con las disposiciones que para tal efecto señalen las leyes de la materia.
 
 ###### Artículo 53.
 
@@ -876,3 +880,355 @@ P.O. 22 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29213/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN XV BIS, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO Y SE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN II BIS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 2024
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO 29585/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LAS SIGUIENTES LEYES: LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DE LA FISCALÍA; LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DE PERSONAS DESAPARECIDAS; CÓDIGO DE ASISTENCIA SOCIAL; LEY DE PROTECCIÓN CIVIL TODAS DEL ESTADO DE JALISCO, QUE REGULAN LA ESTRUCTURA ORGÁNICA DE LA ADMINISTRACIÓN CENTRALIZADA Y PARAESTATAL”.]</small>
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de enero de 2025, previa publicación en el periódico oficial en "El Estado de Jalisco".
+
+SEGUNDO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2025, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+
+TERCERO. Transfiéranse a la Unidad Estatal de Protección Civil y Bomberos la plantilla de bomberos, bomberas y personal operativo forestal forestales (sic) adscritos a la Secretaría de Medio Ambiente y Desarrollo Territorial, así como los recursos financieros, materiales y tecnológicos que se consideren necesarios.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Secretaría de Medio Ambiente y Desarrollo Territorial.
+
+CUARTO. Para el ejercicio 2025, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo número 27213/LXII/18, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+
+Así mismo, para el ejercicio 2024, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2024, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2024 a las dependencias que se crean o modifican con motivo del presente decreto.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2025, las adecuaciones llevadas a cabo en los términos del presente artículo.
+
+QUINTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco, las iniciativas de reforma que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las facultades y atribuciones establecidos a cargo de las dependencias que se crean o modifican derivado del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Número 27213/LXII/18, así como las facultades, derechos y obligaciones establecidos a cargo de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con cualquier persona física o jurídica de derecho público o privado, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría de Administración Secretaría General de Gobierno
+
+(Tratándose de la supervisión,
+
+dirección y control de las Unidades
+
+Regionales de Servicios Estatales)
+
+Respecto de la Fiscalía del Estado, serán las siguientes:
+
+ANTERIOR NUEVO
+
+Fiscalía Especial Ejecutiva de Vicefiscalía en Investigación
+
+Investigación Criminal Criminal Especializada
+
+Fiscalía Especial Regional Vicefiscalía en Investigación
+
+Regional
+
+Fiscalía Especial en Derechos Vicefiscalía en Derechos Humanos
+
+Humanos y de Investigación para Prevenir y
+
+Sancionar el delito de Tortura
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+Patrimoniales y Financieros Especializada en Delitos
+
+Patrimoniales
+
+Dirección General en Investigación Vicefiscalía en Investigación
+
+Especializada Especializada de
+
+Concertación Social
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+contra las Mujeres, Delitos en Especializada en Delitos contra las
+
+Razón de Género y Trata de Mujeres Razón de Género, niñas,
+
+Personas niños y adolescentes, y la familia
+
+Dirección General en Seguimiento a Dirección de litigación y Seguimiento
+
+Procesos de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección General de Inteligencia, Dirección General de Inteligencia y
+
+Política Criminal y Prevención del Política Criminal
+
+Delito
+
+Dirección General de Policía de Dirección General de la Policía
+
+Investigación Investigadora
+
+Dirección de Tecnologías de la Dirección General de Innovación y
+
+Información y Comunicación Tecnología
+
+Unidad de Investigación de Robo de Unidad de Investigación
+
+Vehículo Especializada en Robo de vehículo
+
+Unidad De Robos Unidad de Investigación
+
+Especializada en Robos Varios
+
+Unidad de Investigación de Robo de Unidad de Investigación
+
+Vehículo de Carga Pesada Especializada en Robo de
+
+vehículo de carga Pesada y
+
+Robo a Instituciones Bancarias
+
+y de Valores
+
+Unidad de Investigación de Robo Unidad de Investigación
+
+a Instituciones Bancarias Especializada en Robo de
+
+y de Valores vehículo de carga Pesada
+
+y Robo a Instituciones
+
+Bancarias y de Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación
+
+Casa Habitación Especializada en Robo a Negocio
+
+y Robo a casa Habitación
+
+Unidad de Investigación de Robo a Unidad de Investigación
+
+Negocio Especializada en Robo a Negocio
+
+y Robo a casa Habitación
+
+Unidad de Investigación de Unidad de Investigación
+
+Homicidios Intencionales Especializada en Homicidios
+
+Intencionales
+
+Unidad de Investigación de Unidad de Investigación
+
+Narcomenudeo Especializada en Narcomenudeo
+
+Unidad de Investigación de Unidad de Investigación
+
+Secuestros Especializada en Secuestros y
+
+Extorsiones
+
+Unidad de Investigación de Unidad de Investigación
+
+Extorsiones Especializada en Secuestros y
+
+Extorsiones
+
+Unidad de Investigación de Delitos Unidad de Investigación
+
+Ambientales Especializada en Delitos Varios
+
+Unidad de Investigación de Delitos Unidad de Investigación
+
+cometidos en Agravio Especializada en Delitos cometidos
+
+de Niñas, Niños y Adolescentes en Agravio de Niñas, Niños y
+
+Adolescentes
+
+Unidad de Investigación de Delitos Unidad de Investigación
+
+cometidos por Adolescentes en Especializada en Delitos cometidos
+
+Conflicto con la ley por Adolescentes en Conflicto con
+
+(sic) ley
+
+Unidad de Litigación Dirección de Litigación y Seguimiento
+
+de Investigación Especializada en
+
+Atención a Mujeres, niñas, niños y
+
+adolescentes, razón de género y la
+
+familia
+
+Director General de Zona Norte Dirección General de Investigación
+
+Zona Norte
+
+Director General de Zona Sur Dirección General de Investigación
+
+Zona Sur
+
+Dirección General del Centro de Dirección de Atención a Víctimas del
+
+atención y protección a ofendidos, Delito
+
+víctimas y testigos del delito
+
+Dirección General de Vinculación y Dirección de Vinculación y
+
+seguimiento en la defensa de los seguimiento en la defensa de los
+
+derechos humanos derechos Humanos
+
+Unidad Especializada en Delitos de Dirección de Investigación para
+
+Tortura. Prevenir y Sancionar el delito de
+
+Tortura
+
+Unidad Especializada para la Dirección de Diversidad Sexual
+
+Atención de Delitos por
+
+Diversidad Sexual
+
+Dirección de investigación de delitos Unidad de Investigación
+
+patrimoniales no violentos Especializada en Delitos
+
+Patrimoniales No Violentos
+
+Dirección de Extinción de Dominio Unidad de Investigación
+
+Especializada en Extinción de
+
+Dominio
+
+Unidad de Investigación contra Unidad de Inteligencia Financiera y
+
+recursos de procedencia Ilícita Recursos de Procedencia Ilícita
+
+Unidad de Inteligencia Patrimonial Unidad de Inteligencia Financiera y
+
+y Económica Recursos de Procedencia Ilícita
+
+Unidad De Delitos Varios Unidad de Investigación
+
+Especializada en Delitos Varios
+
+Unidad De Detenidos Unidad de Investigación
+
+Especializada en Detenidos
+
+Unidad de Hechos de Sangre, de Unidad de Investigación
+
+Tránsito y Transporte Público Especializada en Hechos de Sangre,
+
+tránsito y Transporte público
+
+Unidad para la Investigación Unidad de Investigación
+
+de delitos contra de (sic) mujeres Especializada en Delitos contra las
+
+y delitos en razón de género mujeres, en razón de género y Trata
+
+de Personas
+
+Unidad Especializada en Unidad de Investigación
+
+Investigación de Feminicidios Especializada en Feminicidios
+
+Atención temprana Coordinación de Atención Temprana
+
+de cada Vicefiscalía con excepción
+
+de la Vicefiscalía en
+
+Investigación Regional
+
+Imputado desconocido Unidad de Investigación
+
+Especializada en Delitos Varios
+
+Tramitación masiva de casos Unidad de Investigación
+
+Especializada en Delitos Varios
+
+Unidad de Puestos de socorro Unidad de Investigación
+
+Especializada en Hechos de Sangre,
+
+tránsito y Transporte público
+
+La Dirección de Control de Dirección de litigación y Seguimiento
+
+Procesos y Audiencias de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección de Cumplimiento a Dirección de Ordenes de Aprehensión
+
+Mandamientos Judiciales
+
+Dirección de Amparos Procesales y Dirección de litigación y Seguimiento
+
+Salidas Alternas y Formas de de Investigación de cada una de las
+
+Terminación Anticipada Vicefiscalías
+
+(Por lo que respecta a las formas de
+
+terminación anticipada)
+
+Dirección de Amparos Procesales y Dirección de Amparos
+
+Salidas Alternas y Formas de
+
+Terminación Anticipada (Por lo que respecta a los amparos)
+
+Delitos en materia de trata Unidad de Investigación
+
+de personas Especializada en Delitos contra las
+
+mujeres, en razón de género y Trata
+
+de Personas
+
+Dirección de Auditoría preventiva y Dirección de Auditoría preventiva y
+
+orientación administrativa orientación
+
+Sub Dirección Metropolitana Dirección de la Policía Investigadora
+
+Metropolitana
+
+Sub Dirección Regional Dirección de la Policía Investigadora
+
+Regional
+
+Unidad de Deposito de Armamento Dirección de Deposito de Armamento
+
+Centro de Telecomunicaciones e Dirección del Centro de
+
+información vehicular Comunicaciones e Información
+
+Vehicular
+
+Instituto de Formación y Dirección de Formación y
+
+Profesionalización Profesionalización
+
+SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Agencia de Energía del Estado de Jalisco, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Secretaría de Desarrollo Energético Sustentable del Poder Ejecutivo, se entenderán como conferidas a ésta última en tanto se adecue su marco jurídico normativo y se publique el Reglamento Interno de la Secretaría de Desarrollo Energético Sustentable.
+
+SÉPTIMO. Los recursos financieros, materiales y tecnológicos necesarios para la operación de las áreas que se extinguen o fusionan de la Fiscalía del Estado, así como los documentos y asuntos en trámite serán transferidos a las unidades administrativas que atraen las atribuciones.
+
+OCTAVO. En toda disposición legal o reglamentaria en que se haga referencia a las Fiscalías Especiales o a los Fiscales Especiales se entenderá por Vicefiscalías o Vicefiscales, de conformidad con el presente decreto.
+
+NOVENO. El titular de la Fiscalía Estatal deberá proponer al Poder Ejecutivo del Estado dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto, las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente decreto, las cuales deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
+
+En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
