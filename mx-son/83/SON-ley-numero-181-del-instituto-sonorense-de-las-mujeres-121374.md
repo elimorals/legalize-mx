@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-181-del-instituto-sonorense-de-las-mujeres-121374"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-04"
-last_updated: "2017-05-04"
+last_updated: "2024-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 181 DEL INSTITUTO SONORENSE DE LAS MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DEL "DECRETO NÚMERO 08, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA", PUBLICADO EN EL B.O. 31 DE OCTUBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO SONORENSE DE LAS MUJERES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2024 (ABROGADA).
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 4 de mayo de 2017.
 
@@ -514,3 +516,93 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los seis días del mes de abril del año dos mil diecisiete.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMlZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 08, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de Economía y a la Secretaría de Turismo, se tendrán por conferidas a la Secretaría de Economía y Turismo que, de conformidad con este Decreto, asume dichas atribuciones.
+
+Las menciones que en otras leyes y reglamentos se otorgan a la Secretaría de Infraestructura Urbana y Desarrollo se tendrán por conferidas a la Secretaría de Infraestructura y Desarrollo Urbano que, de conformidad con este Decreto, asume dichas atribuciones.
+
+###### ARTÍCULO TERCERO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Economía pasan a formar parte de la Secretaría de Economía y Turismo, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Secretaría de Economía y de la Secretaría de Turismo a la Secretaría de Economía y Turismo se respetarán conforme a la ley.
+
+En el caso de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas o fideicomisos públicos la relación laboral de su personal no se modifica respeto a las dependencias objeto (sic) este Decreto en las que están adscritos jerárquica, estructural y presupuestalmente, las cuales deberán cumplir con las obligaciones y prestaciones que permitan la conservación de sus derechos laborales en términos de la legislación en la materia.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Infraestructura Urbana y Desarrollo Urbano pasan a formar parte de la Secretaría de Infraestructura y Desarrollo Urbano, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Secretaría de Infraestructura Urbana y Desarrollo Urbano a la Secretaría de Infraestructura y Desarrollo Urbano se respetarán conforme a la ley.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Coordinación General del Sistema Estatal de Comunicación Social pasan a formar parte del Sistema Estatal de Comunicación Social, conforme a la estructura administrativa que el Tribunal del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Coordinación General del Sistema Estatal de Comunicación Social al Sistema Estatal de Comunicación Social se respetarán conforme a la ley.
+
+###### ARTÍCULO CUARTO.
+
+Las menciones a la Secretaría de Economía contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de los organismos públicos descentralizados, empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas o fideicomisos públicos, se entenderán referidas a la Secretaría de Economía y Turismo.
+
+###### ARTÍCULO QUINTO.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida el reglamento interior de la Secretaria de Economía y Turismo.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, realice las adecuaciones necesarias al reglamento interior de la Secretaría de la Contraloría General y de la Oficialía Mayor.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, para realizar las modificaciones normativas y administrativas que resulten necesarias, en atención a lo señalado en el presente Decreto en materia de telecomunicaciones.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida el reglamento interior del Sistema Estatal de Comunicación Social.
+
+###### ARTÍCULO SEXTO.
+
+Las menciones y atribuciones que en otras leyes y en reglamentos se otorgan a la Secretaría de Desarrollo Social, se tendrán por conferidas a la Secretaría de Bienestar.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, expida (sic) reglamento interior de la Secretaría de Bienestar.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Desarrollo Social pasan a formar parte de la Secretaría de Bienestar, conforme a la estructura administrativa que el Titular del Ejecutivo determine a través de la Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen de la Secretaría de Desarrollo Social a la Secretaría de Bienestar se respetarán conforme a la ley.
+
+Las menciones y atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de Desarrollo Social, se tendrán por conferidas a la Secretaría de Bienestar que, de conformidad con este Decreto, asume duchas atribuciones.
+
+###### ARTÍCULO OCTAVO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros del Instituto Sonorense de las Mujeres, pasan a formar parte de la Secretaría de las Mujeres, conforme a la estructura administrativa que el Ejecutivo del Estado determine a través de Oficialía Mayor y la Secretaría de Hacienda.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen del Instituto Sonorense de las Mujeres, a la Secretaría de las Mujeres se respetarán conforme a la ley.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Número 181 que crea el Instituto Sonorense de las Mujeres, publicada en el Boletín Oficial del Gobierno del Estado el 04 de mayo de 2017, Tomo CXCIX, Número 36, Sección I.
+
+###### ARTÍCULO DÉCIMO.
+
+Las menciones y atribuciones que en otras leyes y en reglamentos que se otorgan al Instituto Sonorense de las Mujeres, se tendrán por conferidas a la Secretaría de las Mujeres, que de conformidad con este Decreto asume dichas atribuciones.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en marco de esta iniciativa, expida el reglamento interior de la Secretaría de las Mujeres.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Secretaría de Gobierno continuará ejerciendo las atribuciones de Archivo General del Gobierno del Estado hasta la creación del organismo que señala la Ley de Archivos para el Estado de Sonora y la expedición del reglamento de la misma, por parte del Ejecutivo del Estado.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días hábiles para que en el marco de esta iniciativa, realice las adecuaciones necesarias al reglamento interior de la Secretaría de Gobierno.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los juicios promovidos ante las diversas instancias del poder judicial y procedimientos administrativos, según sea el caso, en que sean parte las dependencias establecidas en el presente Decreto, pendientes de alguna resolución, se continuarán de conformidad con las atribuciones y normas aplicables.
