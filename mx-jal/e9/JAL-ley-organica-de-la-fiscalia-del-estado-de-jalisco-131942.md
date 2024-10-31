@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-del-estado-de-jalisco-131942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-09-09"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA FISCALIA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Ley publicada en la Quinquies Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -67,7 +69,9 @@ LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO.
 
 ###### Artículo 6.
 
-1. El Fiscal interviene por sí o por conducto de los Fiscales o Agentes del Ministerio Público en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco, la presente ley y las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. El Fiscal interviene por sí o por conducto de los vicefiscales o Agentes del Ministerio Público en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco, la presente ley y las demás disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -135,7 +139,9 @@ XXII. Participar en el Sistema Estatal de Planeación Democrática, en los térm
 
 XXIII. Opinar y participar en los proyectos de iniciativas de ley o de reglamentos para la exacta observancia de las Constituciones, tanto Federal como Local y que estén vinculadas con las materias de su competencia;
 
-XXIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. En todo caso se reservará la información cuya divulgación pueda poner en riesgo las investigaciones que realice la Fiscalía del Estado a través de sus fiscales o agentes del ministerio público y mantendrá la confidencialidad de los datos personales, de conformidad con lo dispuesto por el Código Nacional de Procedimientos Penales y demás normas aplicables;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. En todo caso se reservará la información cuya divulgación pueda poner en riesgo las investigaciones que realice la Fiscalía del Estado a través de sus fiscales, vicefiscales o agentes del ministerio público y mantendrá la confidencialidad de los datos personales, de conformidad con lo dispuesto por el Código Nacional de Procedimientos Penales y demás normas aplicables;
 
 XXV. Ofrecer y entregar recompensas en numerario, en un solo pago o en exhibiciones periódicas, a personas que aporten información útil relacionada con las investigaciones que realice dentro de las carpetas de investigación, o en su caso, averiguaciones previas, así como a aquéllas que colaboren en la localización y detención del imputado, en los términos y condiciones que mediante acuerdo determine el Fiscal, de conformidad con el presupuesto;
 
@@ -177,13 +183,17 @@ XXXIII. Evaluar riesgos y proteger a las personas ofendidas, víctimas, testigas
 
 XXXIV. Coordinar y colaborar con entidades gubernamentales y no gubernamentales, para la implementación de los esquemas de seguridad de víctimas, testigas o testigos y demás sujetos procesales;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXXV. Crear y operar la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género, en los términos que determinen las Leyes; y
+XXXV. Crear y operar la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género, en los términos que determinen las Leyes;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXXVI. Colaborar con la Secretaría de Inteligencia y Búsqueda de Personas para intercambiar y proporcionar la información que genere; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XXXVI. Las demás que prevean otras disposiciones legales.
+XXXVII. Las demás que prevean otras disposiciones legales.
 
 2. Los titulares de los distintos órganos que integran la Fiscalía, se encuentran obligados a comparecer personalmente ante el Congreso del Estado y al Consejo Estatal de Seguridad Pública para informar sobre su desempeño.
 
@@ -201,27 +211,51 @@ a) En Combate a la Corrupción; y
 
 b) En Delitos Electorales.
 
-III. Las Fiscalías Especiales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
 
-a) Ejecutiva de Investigación Criminal;
+III. Las Vicefiscalías:
 
-b) En Personas Desaparecidas;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-c) En Derechos Humanos; y
+a) En Investigación Criminal Especializada;
 
-d) Regional;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+b) En personas desaparecidas;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+c) En Derechos Humanos y de Investigación para Prevenir y Sancionar el delito de Tortura;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+d) En Investigación Regional;
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+e) En Investigación Especializada en Delitos Patrimoniales;
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+f) En Investigación Especializada en Concertación Social;
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+g) En Investigación Especializada en atención a Mujeres, niñas, niños y adolescentes, razón de género y la familia.
 
 IV. Direcciones Generales.
 
-a) En Investigación Especializada;
+a) (DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
-b) En Seguimiento a Procesos;
+b) (DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
-c) En Delitos Patrimoniales y Financieros;
+c) (DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
-d) En Delitos de Violencia Contra las Mujeres en razón de género y Trata de Personas;
+d) (DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
-e) Inteligencia, Política Criminal y Prevención;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+e) Inteligencia y Política Criminal;
 
 f) Mecanismos Alternativos en Solución de Conflictos;
 
@@ -231,11 +265,31 @@ h) Visitaduría;
 
 i) Contraloría Interna;
 
-j) Policía de Investigación; y
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+j) Policía Investigadora;
 
 k) Administrativa;
 
-V. Direcciones de área con sus unidades de investigación y litigación;
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+l) Innovación y Tecnología;
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+m) Comunicación Social; y
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+n) Amparos, segunda instancia y de mandamientos judiciales.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+Las Direcciones Generales dependerán del Fiscal.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Direcciones de área con sus unidades de investigación;
 
 VI. Las Agencias del Ministerio Público; y
 
@@ -245,21 +299,31 @@ VII. Las Unidades Administrativas y de Investigación que establezca el titular,
 
 ###### Artículo 10.
 
-1. La Oficina del Fiscal deberá contar al menos, con las siguientes Direcciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
 
-I. Dirección General Jurídica;
+1. La Oficina del Fiscal deberá contar al menos, con las siguientes áreas:
 
-II. Dirección General de Visitaduría;
+I. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-III. Contraloría Interna;
+II. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-IV. Dirección General de Inteligencia, Política Criminal y Prevención del Delito;
+III. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-V. Dirección de Comunicación Social;
+IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-VI. Dirección de Extinción de Dominio; y
+V. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-VII. Dirección General de Policía de Investigación.
+VI. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
+
+VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VIII. Coordinación General de Asesores; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IX. Secretaría Particular.
 
 ### CAPÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS
 
@@ -383,47 +447,73 @@ VI. En caso de que el Congreso del Estado no resuelva en ese plazo o ninguno de 
 
 1. La Fiscalía Especializada en Materia de Delitos Electorales es competente para investigar, perseguir, procesar y sancionar los delitos establecidos en la Ley General en Materia de Delitos Electorales.
 
-### CAPÍTULO V. DE LAS FISCALÍAS ESPECIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO V. DE LAS VICEFISCALÍAS
 
 ###### Artículo 13.
 
-1. La Fiscalía Ejecutiva de Investigación Criminal tiene facultades para vigilar y supervisar todas las investigaciones y el cumplimiento del debido proceso, así como para dictar las instrucciones que se consideren necesarias para garantizar el actuar de la Fiscalía. Cuenta con al menos las siguientes unidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
 
-I. Unidad de Investigación de Homicidios Intencionales;
+1. La Vicefiscalía en Investigación Criminal Especializada tiene facultades para vigilar y supervisar todas las investigaciones y el cumplimiento del debido proceso, así como para dictar las instrucciones que se consideren necesarias para garantizar el actuar de la Fiscalía. Cuenta con al menos las siguientes unidades administrativas:
 
-II. Unidad de Investigación de Secuestros;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-III. Unidad de Investigación de Narcomenudeo;
+I. Unidad de Investigación Especializada en Homicidios Intencionales;
 
-IV. Unidad de Investigación de Extorsiones;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-V. Unidad de Investigación de Robo de Vehículo;
+II. Unidad de Investigación Especializada en Secuestros y Extorsiones;
 
-VI. Unidad de Investigación de Robo de Vehículo de Carga Pesada;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-VII. Unidad de Investigación de Robo a Instituciones Bancarias y de Valores;
+III. Unidad de Investigación Especializada en Narcomenudeo;
 
-VIII. Unidad de Investigación de Delitos Ambientales;
+IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-IX. Unidad de Investigación de Delitos Cometidos en Agravio de Niñas, Niños y Adolescentes;
+V. Unidad de Investigación Especializada en Robo de Vehículo;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-X. Unidad de Investigación de Delitos cometidos por Adolescentes en Conflicto con la ley;
+VI. Unidad de Investigación Especializada en Robo de Vehículo de Carga Pesada y Robo a Instituciones Bancarias y de Valores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-XI. Unidad de Litigación; y
+VIII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+IX. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-XII. Unidad de Análisis y Contexto.
+X. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
+
+XI. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XII. Unidad de Análisis y Contexto;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIII. Unidad de Investigación Especializada en Robos Varios;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIV. Unidad de Investigación Especializada en Robo a Negocio y Robo a casa Habitación;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XV. Dirección de Litigación y Seguimiento de Investigación Criminal Especializada; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVI. Coordinación de Atención Temprana.
 
 ###### Artículo 14.
 
-1. La Fiscalía Especial en Personas Desaparecidas, es competente para dirigir, coordinar y supervisar las investigaciones de búsqueda y localización de personas desaparecidas y, en su caso, su identificación forense, para perseguir los delitos relacionados con la desaparición de personas, así como la prevención de este ilícito.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. La Vicefiscalía en Personas Desaparecidas, es competente para dirigir, coordinar y supervisar las investigaciones de búsqueda y localización de personas desaparecidas y, en su caso, su identificación forense, para perseguir los delitos relacionados con la desaparición de personas, así como la prevención de este ilícito.
 
 2. Cuenta por lo menos con las siguientes áreas y las demás que se señalen en el reglamento de la presente ley:
 
@@ -431,9 +521,19 @@ I. Dirección de Búsqueda de Personas Desaparecidas;
 
 II. Dirección de Investigación de Personas Desaparecidas;
 
-III. Dirección de Análisis y Contexto; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. Dirección de Análisis y Contexto;
 
 IV. Coordinación de Atención Ciudadana;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Dirección de litigación y Seguimiento de Investigación Especializada en Personas Desaparecidas; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Coordinación de Atención Temprana.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -441,23 +541,101 @@ IV. Coordinación de Atención Ciudadana;
 
 ###### Artículo 15.
 
-1. La Fiscalía de Derechos Humanos tiene las áreas y unidades de investigación que acuerde el Fiscal Estatal y que por lo menos son las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
 
-I. Centro de atención y protección a ofendidos, víctimas y testigos del delito;
+1. La Vicefiscalía en Derechos Humanos y de Investigación para Prevenir y Sancionar el delito de Tortura tiene facultad para prevenir la violación por parte de los servidores públicos de la Fiscalía Estatal a los derechos humanos, atender las recomendaciones de los organismos protectores de derechos humanos, investigar el delito de tortura y otros tratos o penas crueles, inhumanos o degradantes de acuerdo a la Ley General de la materia; así como brindar atención integral de acuerdo con las leyes y ordenamientos aplicables a las víctimas o testigos de delitos, y tiene las áreas y unidades de investigación que acuerde el Fiscal Estatal y que por lo menos son las siguientes:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-II. Vinculación y seguimiento en la defensa de los derechos humanos, además de lo dispuesto por el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión de algún delito;
+I. Dirección de Atención a Víctimas del delito;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-III. Unidad Especializada en Delitos de Tortura.
+II. Dirección de Vinculación y seguimiento en la defensa de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. Dirección de Investigación para Prevenir y Sancionar el delito de Tortura;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IV. Dirección de Diversidad Sexual;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Dirección de Litigación y Seguimiento de Investigación Especializada en Derechos Humanos y para Prevenir y Sancionar el delito de Tortura; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Coordinación de Atención Temprana.
 
 ###### Artículo 16.
 
-1. La Fiscalía Regional es competente para investigar y perseguir los delitos cometidos dentro de su jurisdicción territorial, la cual contará con Direcciones Regionales de conformidad a lo que establezca el reglamento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. La Vicefiscalía en Investigación Regional es competente para investigar y perseguir los delitos cometidos dentro de su jurisdicción territorial, la cual se auxiliará de las siguientes Direcciones:
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Dirección General de Investigación Zona Norte; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+II. Dirección General de Investigación Zona Sur.
 
 2. El Fiscal Estatal mediante acuerdo, puede modificar las sedes establecidas o crear nuevas Direcciones Regionales.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 16 Bis.
+
+1. La Vicefiscalía en Investigación Especializada en Delitos Patrimoniales es competente para investigar, judicializar y seguir los delitos patrimoniales, que no le corresponden a las demás Vicefiscalías o direcciones, y se integra al menos con las siguientes unidades administrativas:
+
+I. Unidad de Investigación Especializada en delitos patrimoniales no violentos;
+
+II. Unidad de inteligencia financiera y recursos de procedencia ilícita;
+
+III. Unidad de Investigación Especializada en Extinción de Dominio;
+
+IV. Dirección de Litigación y Seguimiento en Investigación Especializada en Delitos Patrimoniales; y
+
+V. Coordinación de Atención Temprana.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 16 Ter.
+
+1. La Vicefiscalía en Investigación Especializada en Concertación Social, tiene facultad de investigar todas aquellas conductas delictivas de orden social que no conozcan las demás Vicefiscalías, así como aquellos delitos que no merecen una sanción grave y que permiten una resolución más pronta y eficaz, y tiene las áreas y unidades de investigación que acuerde el Fiscal Estatal y que por lo menos son las siguientes:
+
+I. Unidad de Investigación Especializada en Delitos Varios;
+
+II. Unidad de Investigación Especializada en Detenidos;
+
+III. Unidad de Investigación Especializada en hechos de sangre, tránsito y transporte público;
+
+IV. Dirección de Litigación y Seguimiento de Investigación Especializada en Concertación Social; y
+
+V. Coordinación de Atención Temprana.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 16 Quáter.
+
+1. La Vicefiscalía en Investigación Especializada en atención a Mujeres, niñas, niños y adolescentes, razón de género y la familia, tiene facultad de investigar y atender de manera integral, todas aquellas conductas delictivas que impacten a estos grupos prioritarios, tiene las áreas y unidades de investigación que acuerde el Fiscal Estatal y que por lo menos son las siguientes:
+
+I. Unidad de Investigación Especializada en Delitos cometidos por Adolescentes en Conflicto con ley;
+
+II. Unidad de Investigación Especializada en Delitos cometidos en Agravio de Niñas, Niños y Adolescentes;
+
+III. Unidad de Investigación Especializada en Delitos contra las mujeres, en razón de género y Trata de Personas;
+
+IV. Unidad de Investigación Especializada en Feminicidios;
+
+V. Unidad de Investigación Especializada en delitos contra la familia;
+
+VI. Dirección de Litigación y Seguimiento de Investigación Especializada en Atención a Mujeres, niñas, niños y adolescentes, razón de género y la familia; y
+
+VII. Coordinación de Atención Temprana.
 
 ### CAPÍTULO VI. DE LAS DIRECCIONES GENERALES Y DIRECCIONES DE ÁREA
 
@@ -467,95 +645,33 @@ III. Unidad Especializada en Delitos de Tortura.
 
 ###### Artículo 18.
 
-1. La Dirección General en Investigación Especializada cuenta por lo menos con las siguientes áreas o unidades administrativas:
-
-I. Atención temprana;
-
-II. Imputado desconocido;
-
-III. Tramitación masiva de casos;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-IV. Hechos de Sangre, de Tránsito y Transporte Público;
-
-V. Puestos de socorro;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-VI. Detenidos;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-VII. Robos; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-VIII. Delitos Varios.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-2. A la Dirección General le corresponde coordinar y mantener actualizada la información de personas detenidas, accidentadas y demás casos de conformidad a las plataformas y sistemas aprobados a nivel nacional.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
 ###### Artículo 19.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-1. La Dirección General de Seguimiento a Procesos tiene a su cargo la vigilancia de que en los procesos penales en que la Fiscalía sea parte, se cumpla con lo establecido en el Código Nacional de Procedimientos Penales y demás leyes aplicables, para lo cual cuenta al menos con las siguientes direcciones:
-
-I. La Dirección de Control de Procesos y Audiencias es responsable de verificar que el desarrollo de todo proceso y el desahogo de audiencias se sujeten a la Ley y tendrá a su cargo la vigilancia de las actuaciones del ministerio público en los órganos jurisdiccionales;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-II. La Dirección de Cumplimiento a Mandamientos Judiciales tiene a su cargo el registro y debido cumplimiento de las medidas de protección dictadas por el ministerio público, el registro de la ratificación, cancelación o modificación que imponga la autoridad judicial; así mismo el registro de las órdenes de aprehensión, órdenes de comparecencia decretadas, así como su cumplimiento.
-
-III. La Dirección de Agravios; y
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-IV. La Dirección de Amparos Procesales, Salidas Alternas y Formas de Terminación Anticipada.
-
-2. Más aquellas atribuciones que le confiere la ley en materia de registro, modificación sustitución o cancelación de las providencias precautorias, medidas de protección y medidas cautelares solicitadas por la víctima, el ofendido o el ministerio público que imponga la autoridad judicial, así como en la ejecución, supervisión y seguimiento de las órdenes de aprehensión.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
 ###### Artículo 20.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-1. La Dirección General de Delitos Patrimoniales y Financieros se integra al menos con las siguientes unidades:
-
-I. De investigación de delitos patrimoniales no violentos; y
-
-II. De investigación contra recursos de procedencia ilícita.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
 ###### Artículo 21.
 
-1. La Dirección General en Delitos contra las Mujeres, Delitos en Razón de Género y Trata de Personas, cuenta por lo menos con las siguientes áreas:
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-I. Unidad para la Investigación de Delitos contra Mujeres y Delitos en Razón de Género vinculados a los centros de justicia para las mujeres;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-II. Delitos en materia de trata de personas; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-III. Unidad Especializada en Investigación de Feminicidios.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-2. Dicha dirección tiene las atribuciones previstas por la Constitución Federal, los Tratados Internacionales de los que el estado mexicano sea parte, el Código Nacional de Procedimientos Penales y leyes aplicables.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
 
 ###### Artículo 22.
 
-1. La Dirección General de Inteligencia, Política Criminal y Prevención del Delito cuenta por lo menos cuenta (sic) con las siguientes áreas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. La Dirección General de Inteligencia y Política Criminal cuenta por lo menos cuenta (sic) con las siguientes áreas:
 
 I. Dirección de Inteligencia;
 
-II. Dirección de Política Criminal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-III. Dirección de Prevención del Delito; y
+II. Dirección de Política Criminal; y
+
+III. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
 IV. Dirección de Planeación y Estadística.
 
@@ -589,9 +705,13 @@ III. Inspeccionar que los servidores públicos de la fiscalía respeten los Dere
 
 ###### Artículo 26.
 
-1. La Contraloría Interna tiene por los (sic) menos las siguientes áreas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
 
-I. Auditoría preventiva y orientación administrativa; y
+1. La Contraloría Interna tiene por lo menos las siguientes áreas:
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Auditoría preventiva y orientación; y
 
 II. Responsabilidad administrativa.
 
@@ -601,21 +721,39 @@ II. Responsabilidad administrativa.
 
 ###### Artículo 27.
 
-1. La Dirección General de Policía de Investigación, auxilia a cada una de las fiscalías y a las agencias del ministerio público en las labores de investigación, y cuenta por lo menos cuenta (sic) con las áreas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
 
-I. La Sub Dirección Metropolitana;
+1. La Dirección General de la Policía Investigadora, auxilia a cada una de las vicefiscalías y a las agencias del ministerio público en las labores de investigación, y cuenta por lo menos con las áreas siguientes:
 
-II. La Sub Dirección Regional;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Dirección de la Policía Investigadora Metropolitana;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+II. Dirección de la Policía Investigadora Regional;
 
 III. Las Comandancias;
 
-IV. Las Jefaturas de Grupo; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IV. Las Jefaturas de Grupo;
 
 V. Agentes Investigadores.
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Dirección de Deposito de Armamento; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VII. Dirección del Centro de Comunicaciones e Información Vehicular.
+
 ###### Artículo 28.
 
-1. La Dirección General Administrativa tiene a su cargo la administración, registro y control de los recursos humanos, financieros, materiales y tecnológicos del organismo, para ello cuenta con las áreas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. La Dirección General Administrativa tiene a su cargo la administración, registro y control de los recursos humanos, financieros y materiales del organismo, para ello cuenta con las áreas siguientes:
 
 I. La Dirección de Recursos Humanos;
 
@@ -623,9 +761,11 @@ II. La Dirección de Recursos Financieros;
 
 III. La Dirección de Recursos Materiales;
 
-IV. La Dirección de Tecnologías de la Información; y
+IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2024)
 
-V. Instituto de Formación y Profesionalización.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Dirección de Formación y Profesionalización.
 
 ###### Artículo 29.
 
@@ -641,11 +781,35 @@ II. Dirección de Profesionalización y Capacitación.
 
 ###### Artículo 31.
 
-1. La Dirección de Extinción de Dominio ejerce las atribuciones que le concede la ley en la materia.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+1. La Dirección General de Innovación y Tecnología, es la responsable de gestionar y mantener la infraestructura tecnológica de la Fiscalía Estatal y cuenta por lo menos con las áreas siguientes:
+
+I. Dirección de Soporte Técnico;
+
+II. Dirección de Desarrollo de Aplicaciones; y
+
+III. Dirección de Infraestructura.
 
 ###### Artículo 32.
 
 1. La Dirección de Comunicación Social es la responsable de generar e implementar estrategias y políticas de comunicación interna y externa que le permitan comunicar las actividades que realiza la Fiscalía y su divulgación en los diferentes medios de comunicación.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+###### Artículo 32 Bis.
+
+1. La Dirección General de Amparos, segunda instancia y de mandamientos judiciales, cuenta por lo menos cuenta (sic) con las áreas siguientes:
+
+I. Dirección de Amparos Procesales;
+
+II. Dirección de Agravios; y
+
+III. Dirección de Órdenes de Aprehensión.
 
 ### CAPÍTULO VII. DEL MINISTERIO PÚBLICO
 
@@ -677,7 +841,9 @@ I. El Fiscal;
 
 II. Los Fiscales Especializados;
 
-III. Los Fiscales Especiales; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. Los Vicefiscales; y
 
 IV. Los Directores Generales y de Área, Coordinadores Generales y de Área y demás servidores públicos, a excepción de las direcciones donde no se exijan los requisitos para ser ministerio público.
 
@@ -721,7 +887,9 @@ X. Las que determine el titular de la dependencia.
 
 ###### Artículo 40.
 
-1. Son causas de incompatibilidad para acceder y permanecer como titular de una fiscalía, de sus órganos y unidades administrativas o de cualquier mando superior o medio, entre otras, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. Son causas de incompatibilidad para acceder y permanecer como titular de una vicefiscalia, de sus órganos y unidades administrativas o de cualquier mando superior o medio, entre otras, las siguientes:
 
 I. Integrar cuerpos directivos de partidos, agrupaciones u organizaciones políticas registradas nacionales o estatales;
 
@@ -731,7 +899,9 @@ III. Participar en cualquier nivel, de manera directa, indirecta o a través de 
 
 ###### Artículo 41.
 
-1. Para acceder a la titularidad de las fiscalías, órganos de dirección, unidades administrativas y agencias del ministerio público se requiere cubrir con el perfil que está constituido por el conjunto de capacidades y cualidades personales y profesionales en el ejercicio de sus funciones, el cual sus principales características son:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. Para acceder a la titularidad de las vicefiscalías, órganos de dirección, unidades administrativas y agencias del ministerio público se requiere cubrir con el perfil que está constituido por el conjunto de capacidades y cualidades personales y profesionales en el ejercicio de sus funciones, el cual sus principales características son:
 
 I. Formación jurídica sólida;
 
@@ -771,11 +941,17 @@ X. Acreditar conocimientos técnicos de investigación e interrogatorio criminal
 
 ###### Artículo 45.
 
-1. El Fiscal y los Fiscales Especializados son nombrados en los términos y cumpliendo los requisitos establecidos en la Constitución Política del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-2. El Fiscal Ejecutivo de Investigación Criminal, los Fiscales Especiales y el Fiscal Regional deben cumplir con los mismos requisitos que la Constitución Política del Estado de Jalisco para ser Fiscal y los previstos en esta Ley.
+1. El Fiscal y los Fiscales Especializados son nombrados en los términos y cumpliendo los requisitos establecidos en la Constitución Política del Estado de Jalisco y lo previsto en esta Ley.
 
-3. El Fiscal Ejecutivo de Investigación Criminal, los Fiscales Especiales, Directores Generales, Directores, Agentes del Ministerio Público, Agentes Investigadores y todo personal de la Fiscalía son nombrados conforme a las disposiciones reglamentarias de la Fiscalía Estatal.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+2. Los Vicefiscales deben cumplir con los mismos requisitos que la Constitución Política del Estado de Jalisco para ser Fiscal y los previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+3. Los Directores Generales, Directores, Agentes del Ministerio Público, Agentes Investigadores y todo personal de la Fiscalía son nombrados conforme a las disposiciones reglamentarias de la Fiscalía Estatal.
 
 ###### Artículo 46.
 
@@ -795,15 +971,21 @@ X. Acreditar conocimientos técnicos de investigación e interrogatorio criminal
 
 1. El personal que integra la Fiscalía Estatal, se suple en sus ausencias de la siguiente manera:
 
-I. Las de los Agentes del Ministerio Público, por quien designe el Fiscal de su adscripción;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Las de los Agentes del Ministerio Público, por quien designe el Fiscal o Vicefiscal de su adscripción;
 
 II. En los lugares donde sólo haya un Agente del Ministerio Público, su ausencia es suplida por quien designe su superior; y
 
-III. En los casos no previstos se resolverán por acuerdo del Fiscal correspondiente.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. En los casos no previstos se resolverán por acuerdo del Fiscal o vicefiscal correspondiente.
 
 ###### Artículo 50.
 
-1. Las ausencias temporales del Fiscal no mayores a sesenta días, son cubiertas por el Fiscal Ejecutivo de Investigación Criminal.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. Las ausencias temporales del Fiscal no mayores a sesenta días, son cubiertas por el vicefiscal en Investigación Criminal Especializada.
 
 ###### Artículo 51.
 
@@ -821,7 +1003,9 @@ III. En los casos no previstos se resolverán por acuerdo del Fiscal correspondi
 
 ###### Artículo 54.
 
-1. Para los efectos legales correspondiente (sic) se instituye la Comisión de Honor, Justicia y Servicio Profesional de Carrera, de la Fiscalía Estatal, misma que está integrada de la siguiente forma:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+1. Para los efectos legales correspondientes se instituye la Comisión de Honor, Justicia y Servicio Profesional de Carrera, de la Fiscalía Estatal, misma que está integrada de la siguiente forma:
 
 I. Un Presidente, que es el Fiscal;
 
@@ -835,19 +1019,27 @@ III. Un Secretario de Actas y Acuerdos, que es el Director General Administrativ
 
 IV. Ocho consejeros que son:
 
-a. El Fiscal Ejecutivo de Investigación Criminal;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-b. El Director de Visitaduría;
+a. El Vicefiscal en Investigación Criminal Especializada;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+b. El Director General de Visitaduría;
 
 c. El Contralor Interno;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-d. Director General de Seguimiento a Procesos;
+d. El Director General Jurídico;
 
-e. Un Fiscal Especial;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-f. El Director General de Policía Investigadora;
+e. El Vicefiscal en Investigación Regional;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+f. El Director General de la Policía Investigadora;
 
 g. Un Agente del Ministerio Público; y
 
@@ -998,3 +1190,311 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su la Ley Orgánica del Poder Legislativo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29585/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LAS SIGUIENTES LEYES: LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DE LA FISCALÍA; LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DE PERSONAS DESAPARECIDAS; CÓDIGO DE ASISTENCIA SOCIAL; LEY DE PROTECCIÓN CIVIL TODAS DEL ESTADO DE JALISCO, QUE REGULAN LA ESTRUCTURA ORGÁNICA DE LA ADMINISTRACIÓN CENTRALIZADA Y PARAESTATAL”.]
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de enero de 2025, previa publicación en el periódico oficial en "El Estado de Jalisco".
+
+SEGUNDO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2025, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+
+TERCERO. Transfiéranse a la Unidad Estatal de Protección Civil y Bomberos la plantilla de bomberos, bomberas y personal operativo forestal forestales adscritos a la Secretaría de Medio Ambiente y Desarrollo Territorial, así como los recursos financieros, materiales y tecnológicos que se consideren necesarios.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Secretaría de Medio Ambiente y Desarrollo Territorial.
+
+CUARTO. Para el ejercicio 2025, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo número 27213/LXII/18, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+
+Así mismo, para el ejercicio 2024, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2024, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2024 a las dependencias que se crean o modifican con motivo del presente decreto.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2025, las adecuaciones llevadas a cabo en los términos del presente artículo.
+
+QUINTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco, las iniciativas de reforma que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las facultades y atribuciones establecidos a cargo de las dependencias que se crean o modifican derivado del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Número 27213/LXII/18, así como las facultades, derechos y obligaciones establecidos a cargo de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con cualquier persona física o jurídica de derecho público o privado, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría de Administración Secretaría General de Gobierno
+
+(Tratándose de la supervisión,
+
+dirección y control de las Unidades
+
+Regionales de Servicios Estatales)
+
+Respecto de la Fiscalía del Estado, serán las siguientes:
+
+ANTERIOR NUEVO
+
+Fiscalía Especial Ejecutiva de Vicefiscalía en Investigación Criminal
+
+Investigación Criminal Especializada
+
+Fiscalía Especial Regional Vicefiscalía en Investigación Regional
+
+Fiscalía Especial en Derechos Vicefiscalía en Derechos Humanos y
+
+Humanos de Investigación para Prevenir y Sancionar
+
+el delito de Tortura
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+Patrimoniales y Financieros Especializada en Delitos Patrimoniales
+
+Dirección General en Investigación Vicefiscalía en Investigación Especializada
+
+Especializada de Concertación Social
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+contra las Mujeres, Delitos en Razón Especializada en Delitos contra las
+
+de Género y Trata de Personas Mujeres (sic) Razón de Género, niñas,
+
+niños y adolescentes, y la familia
+
+Dirección General en Seguimiento a Dirección de litigación y Seguimiento
+
+Procesos de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección General de Inteligencia, Dirección General de Inteligencia y
+
+Política Criminal y Prevención del Política Criminal
+
+Delito
+
+Dirección General de Policía de Dirección General de la Policía
+
+Investigación Investigadora
+
+Dirección de Tecnologías de la Dirección General de Innovación y
+
+Información y Comunicación Tecnología
+
+Unidad de Investigación de Robo de Unidad de Investigación
+
+Vehículo Especializada en Robo de vehículo
+
+Unidad De Robos Unidad de Investigación Especializada
+
+en Robos Varios
+
+Unidad de Investigación de Robo de Unidad de Investigación Especializada en
+
+Vehículo de Carga Pesada Robo de vehículo de carga Pesada y Robo
+
+a Instituciones Bancarias y de Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada en
+
+Instituciones Bancarias y de Valores Robo de vehículo de carga Pesada y Robo
+
+a Instituciones Bancarias y de Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada en
+
+Casa Habitación Robo a Negocio y Robo a casa Habitación
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada en
+
+Negocio Robo a Negocio y Robo a casa Habitación
+
+Unidad de Investigación de Homicidios Unidad de Investigación Especializada en
+
+Intencionales Homicidios Intencionales
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Narcomenudeo Narcomenudeo
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Secuestros Secuestros y Extorsiones
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Extorsiones Secuestros y Extorsiones
+
+Unidad de Investigación de Delitos Unidad de Investigación Especializada en
+
+Ambientales Delitos Varios
+
+Unidad de Investigación de Delitos Unidad de Investigación Especializada en
+
+cometidos en Agravio de Niñas, Niños Delitos cometidos en Agravio de Niñas,
+
+y Adolescentes Niños y Adolescentes
+
+Unidad de Investigación de Delitos Unidad de Investigación Especializada en
+
+cometidos por Adolescentes en Delitos cometidos por Adolescentes en
+
+Conflicto con la ley Conflicto con (sic) ley
+
+Unidad de Litigación Dirección de Litigación y Seguimiento
+
+de Investigación Especializada en
+
+Atención a Mujeres, niñas, niños y
+
+adolescentes, razón de género y la familia
+
+Director General de Zona Norte Dirección General de Investigación
+
+Zona Norte
+
+Director General de Zona Sur Dirección General de Investigación
+
+Zona Sur
+
+Dirección General del Centro de Dirección de Atención a Víctimas del
+
+atención y protección a ofendidos, Delito
+
+víctimas y testigos del delito
+
+Dirección General de Vinculación y Dirección de Vinculación y seguimiento en
+
+seguimiento en la defensa de los la defensa de los derechos Humanos
+
+derechos humanos
+
+Unidad Especializada en Delitos de Dirección de Investigación para Prevenir y
+
+Tortura. Sancionar el delito de Tortura
+
+Unidad Especializada para la Atención Dirección de Diversidad Sexual
+
+de Delitos por Diversidad Sexual
+
+Dirección de investigación de delitos Unidad de Investigación Especializada en
+
+patrimoniales no violentos Delitos Patrimoniales No Violentos
+
+Dirección de Extinción de Dominio Unidad de Investigación Especializada en
+
+Extinción de Dominio
+
+Unidad de Investigación contra Unidad de Inteligencia Financiera y
+
+recursos de procedencia llicita Recursos de Procedencia Ilícita
+
+Unidad de Inteligencia Patrimonial y Unidad de Inteligencia Financiera y
+
+Económica Recursos de Procedencia Ilícita
+
+Unidad De Delitos Varios Unidad de Investigación Especializada en
+
+Delitos Varios
+
+Unidad De Detenidos Unidad de Investigación Especializada en
+
+Detenidos
+
+Unidad de Hechos de Sangre, de Unidad de Investigación Especializada en
+
+Tránsito y Transporte Público Hechos de Sangre, tránsito y Transporte
+
+Público
+
+Unidad para la Investigación de Unidad de Investigación Especializada en
+
+delitos contra de mujeres y delitos Delitos contra las mujeres, en razón de
+
+razón de género género y Trata de Personas
+
+Unidad Especializada en Unidad de Investigación Especializada en
+
+Investigación de Feminicidios Feminicidios
+
+Atención temprana Coordinación de Atención Temprana
+
+de cada Vicefiscalía con excepción de
+
+la Vicefiscalía en Investigación Regional
+
+Imputado desconocido Unidad de Investigación Especializada en
+
+Delitos Varios
+
+Tramitación masiva de casos Unidad de Investigación Especializada en
+
+Delitos Varios
+
+Unidad de Puestos de socorro Unidad de Investigación Especializada en
+
+Hechos de Sangre, tránsito y Transporte
+
+Público
+
+La Dirección de Control de Procesos Dirección de litigación y Seguimiento
+
+y Audiencias de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección de Cumplimiento a Dirección de Ordenes de Aprehensión
+
+Mandamientos Judiciales
+
+Dirección de Amparos Procesales y Dirección de litigación y Seguimiento
+
+Salidas Alternas y Formas de de Investigación de cada una de las
+
+Terminación Anticipada Vicefiscalías
+
+(Por lo que respecta a las formas de
+
+terminación anticipada)
+
+Dirección de Amparos Procesales y Dirección de Amparos
+
+Salidas Alternas y Formas de
+
+Terminación Anticipada (Por lo que respecta a los amparos)
+
+Delitos en materia de trata de Unidad de Investigación Especializada en
+
+personas Delitos contra las mujeres, en razón de
+
+género y Trata de Personas
+
+Dirección de Auditoría preventiva y Dirección de Auditoría preventiva y
+
+orientación administrativa orientación
+
+Sub Dirección Metropolitana Dirección de la Policía Investigadora
+
+Metropolitana
+
+Sub Dirección Regional Dirección de la Policía Investigadora
+
+Regional
+
+Unidad de Deposito de Armamento Dirección de Deposito de Armamento
+
+Centro de Telecomunicaciones e Dirección del Centro de Comunicaciones
+
+información vehicular e Información Vehicular
+
+Instituto de Formación y Dirección de Formación y
+
+Profesionalización Profesionalización
+
+SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Agencia de Energía del Estado de Jalisco, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Secretaría de Desarrollo Energético Sustentable del Poder Ejecutivo, se entenderán como conferidas a ésta última en tanto se adecue su marco jurídico normativo y se publique el Reglamento Interno de la Secretaría de Desarrollo Energético Sustentable.
+
+SÉPTIMO. Los recursos financieros, materiales y tecnológicos necesarios para la operación de las áreas que se extinguen o fusionan de la Fiscalía del Estado, así como los documentos y asuntos en trámite serán transferidos a las unidades administrativas que atraen las atribuciones.
+
+OCTAVO. En toda disposición legal o reglamentaria en que se haga referencia a las Fiscalías Especiales o a los Fiscales Especiales se entenderá por Vicefiscalías o Vicefiscales, de conformidad con el presente decreto.
+
+NOVENO. El titular de la Fiscalía Estatal deberá proponer al Poder Ejecutivo del Estado dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto, las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente decreto, las cuales deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
+
+En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
