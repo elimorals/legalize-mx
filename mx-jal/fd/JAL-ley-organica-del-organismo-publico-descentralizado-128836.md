@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-128836"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-06-02"
-last_updated: "2023-05-23"
+last_updated: "2024-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACION, COMANDO, CONTROL, COMUNICACIONES Y COMPUTO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 2 de junio de 2018.
 
@@ -59,9 +61,49 @@ I. “Escudo Urbano C5”: al Organismo Público Descentralizado encargado del C
 
 II. Director General: el titular de la Dirección General del “Escudo Urbano C5”;
 
-III. Ley: la Ley del Sistema de Seguridad Pública para el Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. Ley: la Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
 
 IV. Ley Orgánica: la Ley Orgánica del Organismo Público Descentralizado denominado Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Centros de Atención de Emergencias:
+
+a) Centro de Control, Comando, Cómputo y Comunicaciones, C4, C5 o equivalente: Unidad Administrativa encargada de la integración, administración, operación, vigilancia y desarrollo de los sistemas tecnológicos, así como de la infraestructura de telecomunicaciones y sistemas de información aplicados a la Seguridad Pública, así como la coordinación con las instituciones o instancias de seguridad pública de los tres órdenes de gobierno, para la atención de los servicios de emergencia y denuncia anónima, que solicita la población;
+
+b) CALLE: Centro de Atención de Llamadas de Emergencia. Unidad responsable de promover, planear y mantener la operación, reacción y respuesta coordinada entre las diferentes instituciones, organizaciones, autoridades y jurisdicciones involucradas en la atención a emergencias, incidentes y desastres; que opera las 24 horas, los 365 días del año, con código único y al que se puede contactar de forma gratuita desde cualquier teléfono o por medio de aplicaciones para dispositivos móviles o fijos, además, se recibirán llamados de emergencia, de acuerdo con la capacidad instalada del CALLE, ya sea a través de botones de emergencia, entre otros medios oficiales.
+
+c) C2: Centro de Comando y Comunicaciones;
+
+d) C4: Centro de Comando, Control, Comunicaciones y Cómputo;
+
+e) C5: Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Equipo: Infraestructura que integra el equipamiento necesario que da soporte a los sistemas tecnológicos como cámaras, software y hardware, así como las licencias necesarias para su operación, gestión y administración correspondientes;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VII. Operador de Atención de Emergencias: Persona que atiende las llamadas del Servicio de Emergencia 9-1-1, o cualquier otra aplicación o botón de emergencias por las que se reportan incidentes;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VIII. Operador de Despacho de Emergencias: Persona encargada del despacho o canalización de las solicitudes de emergencias a las unidades de las instituciones y dependencias competentes para la atención directa de las emergencias; suministra la información necesaria para la oportuna intervención y toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IX. Operador de Seguimiento de Video Vigilancia o Monitorista: Persona que da seguimiento a la atención de emergencias a través de la visualización y radiocomunicación; apoya en el despacho de la emergencia a la instancia correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+X. Sistema de Video Vigilancia: Herramienta tecnológica de cámaras de video, instaladas y localizadas estratégicamente e interconectadas entre sí, que permiten apoyar la atención de emergencias; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XI. 9-1-1 (nueve, uno, uno): Número único, gratuito y armonizado a nivel nacional para la prestación de servicios de emergencia, es el medio de enlace entre el ciudadano y las instituciones de auxilio, disponible las 24 horas, los 365 días del año.
 
 ###### Artículo 4.
 
@@ -119,9 +161,23 @@ XX. El Escudo Urbano C5, emitirá los lineamientos para la homologación de los 
 
 Estos Centros de Mando deberán estar en coordinación permanente con el Escudo Urbano C5, por lo que su operación se regirá por las políticas lineamientos y estándares que el mismo establezca;
 
-XXI. Constituirse como el Centro de Operaciones del Comité de Emergencias de Protección Civil del Estado de Jalisco, en caso de emergencia o desastre, de acuerdo a los protocolos que declaran estos casos; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XXII. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables.
+XXI. Constituirse como el Centro de Operaciones del Comité de Emergencias de Protección Civil del Estado de Jalisco, en caso de emergencia o desastre, de acuerdo a los protocolos que declaran estos casos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXII. Implementar mecanismos de recolección, registro y clasificación de información en materia de seguridad del estado;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXIII. Proveer información a la Secretaría de Seguridad y a la Secretaría de Inteligencia y Búsqueda de Personas para la planificación de acciones efectivas para garantizar la seguridad;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XXIV. Proponer a la Secretaría de Inteligencia y Búsqueda de Personas el establecimiento de sistemas de cooperación estatal, nacional e internacional, con el objeto de identificar posibles riesgos y amenazas a la soberanía y seguridad del estado; y
+
+XXV. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo II. De la Organización del “Escudo Urbano C5”
 
@@ -145,7 +201,9 @@ IV. Dirección Operativa;
 
 V. Dirección de Tecnologías de la Información y Comunicaciones;
 
-VI. Dirección de Análisis Estratégico; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Dirección de Análisis Estratégico e Inteligencia; y
 
 VII. Dirección Administrativa y Financiera.
 
@@ -575,41 +633,49 @@ Para el desarrollo de esas atribuciones, contará con las Jefaturas y Unidades q
 
 Al frente de esta Dirección de Atención a Emergencias habrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:
 
-I. Dirigir y supervisar la operación de la Central de Llamadas 911/089, para la atención eficiente de emergencias y protección ciudadana, asegurando la calidad del servicio, así como la integración y coordinación operativa de las diferentes áreas y dependencias que intervienen en el “Escudo Urbano C5”;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-II. Desarrollar políticas, manuales y programas para mejorar la atención a la ciudadanía;
+I. Dirigir, coordinar, evaluar y supervisar la operación de los servicios de Atención de Emergencias al 9-1-1, Denuncia Anónima 089, Locatel y los demás bajo su responsabilidad, para la atención eficaz y eficiente de las emergencias, asegurando la calidad del servicio, así como de los Centros de Atención de Emergencias vinculados al Escudo Urbano C5;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+II. Desarrollar programas, manuales de organización y procedimientos, lineamientos, protocolos y demás disposiciones administrativas enfocadas a los servicios de Atención de Emergencias 9-1-1, Denuncia Anónima 089, Locatel y demás servicios de su competencia para mejorar la atención a la ciudadanía;
 
 III. Mejorar y supervisar la atención de llamadas de emergencia y atender los requerimientos de información;
 
-IV. Coordinar la operación del servicio de la Atención de Denuncia Anónima 089, así como la correcta recepción, registro y canalización de las denuncias anónimas que realiza la población vía telefónica u otro medio;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-V. Coordinar la operación del servicio telefónico de localización de personas; y
+IV. Organizar la operación, estandarización y evaluación de los procesos de registro y canalización de los servicios de Atención de Emergencias al 9-1-1, Denuncia Anónima 089, Locatel y los demás bajo su responsabilidad, tanto de la Dirección a su cargo como de los servicios que se otorgan en los Centros de Atención de Emergencias vinculados al Escudo Urbano C5;
 
-VI. Las demás que le confieran las disposiciones legales aplicables y las que le delegue el Director General.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Coordinar la operación del servicio telefónico de localización de personas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Controlar el suministro o aprovisionamiento de datos en el sistema de atención y despacho de llamadas de emergencias con la información captada de los servicios de Atención de Emergencias 9-1-1 o Denuncia Anónima 089, Locatel, y los que se implementen y sean de su competencia en materia de seguridad pública, comprendiendo urgencias médicas, movilidad, medio ambiente, protección civil y bomberos para contribuir a la toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VII. Remitir a las autoridades administrativas y judiciales competentes, la información que requieran para el cumplimiento de sus atribuciones; autentificando por escrito la información obtenida a través de equipos y herramientas tecnológicas que tenga a su disposición, precisando el origen y las circunstancias en que se allegó de ella, en especial a las autoridades de prevención, investigación y persecución de los delitos, así como, de prevención y sanción de infracciones administrativas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VIII. Vigilar que se cumplan los principios y criterios, así como, las disposiciones disciplinarias y de capacitación a fin de garantizar el servicio y las mejores condiciones laborales;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IX. Coordinar al personal comisionado de la Dirección de Atención de Emergencias y de los Centros de Atención de Emergencias vinculados al Escudo Urbano C5, para que su desempeño sea conforme a los convenios de colaboración celebrados entre las dependencias o entidades y esta Institución;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+X. Homologar la operatividad de los Centros de Atención de Emergencias vinculados al Escudo Urbano C5; y
+
+> <small>(REFORMADA [N. DE E. CON SUS FRACCIONES], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XI. Las demás que le confieran las disposiciones legales aplicables y las que le delegue el Director General.
 
 Para el desarrollo de dichas atribuciones, contará con las siguientes áreas:
-
-I. Subdirección de Atención a Llamadas de Emergencia:
-
-a) Jefatura de Unidad Departamental de Atención de Servicios.
-
-II. Subdirección de Evaluación y Seguimiento del Servicio:
-
-a) Jefatura de Unidad Departamental de Control de Calidad y Seguimiento.
-
-###### Artículo 26.
-
-Al frente de la Dirección Operativa habrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:
-
-I. Coordinar de forma permanente en los C2 Municipales y en el área de video vigilancia del “Escudo Urbano C5”, cohesión y eficiencia en el comando, control y la dirección de las operaciones entre dependencias para la respuesta oportuna ante un incidente o un escenario de emergencia mayor;
-
-II. Ejecutar los planes, programas, así como garantizar el cumplimiento de las políticas y procedimientos para (sic) desempeño óptimo de la operación continuamente;
-
-III. Coordinar adecuadamente los procedimientos operativos con las diferentes instituciones para la atención eficiente de emergencias que se presenten en su área diariamente; y
-
-IV. Las demás que le confieran las disposiciones legales aplicables y el Director General.
-
-Para el desarrollo de esas atribuciones, contará con las áreas siguientes:
 
 I. Subdirección de Operaciones:
 
@@ -619,13 +685,57 @@ II. Subdirección de Enlace:
 
 a) Jefatura de Unidad Departamental de Dependencias Gubernamentales y Organismos Privados.
 
+###### Artículo 26.
+
+Al frente de la Dirección Operativa habrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Dirigir y coordinar el comando, control y las comunicaciones entre los centros de monitoreo, despacho y atención a emergencias para dar respuesta oportuna ante un incidente o un escenario de emergencia;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+II. Establecer programas para que la información obtenida del sistema de video vigilancia, radiocomunicación y herramientas tecnológicas sea expedita, confiable y cumpla con las políticas y formalidades de ley;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+III. Coordinar con instituciones de los tres órdenes de gobierno, la homologación de la operación y el manejo de la información obtenida a través del sistema de video vigilancia, radiocomunicaciones y demás equipos tecnológicos de los Centros de Mando para la atención eficaz y eficiente de las emergencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+IV. Remitir a las autoridades administrativas y judiciales competentes, la información que requieran para el cumplimiento de sus atribuciones; autentificando por escrito la información obtenida a través de equipos y herramientas tecnológicas que tenga a su disposición, precisando el origen y las circunstancias en que se allegó de ella, en especial a las autoridades de prevención, investigación y persecución de los delitos, así como, de prevención y sanción de infracciones administrativas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+V. Propiciar y vigilar que el personal operativo adscrito y comisionado cumplan con los principios, criterios, y demás disposiciones disciplinarias y de capacitación a fin de garantizar el servicio y las mejores condiciones laborales; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VI. Las demás que le confieran las disposiciones legales aplicables y el Director General.
+
+Para el desarrollo de dichas atribuciones, contará con las siguientes áreas:
+
+I. Subdirección de Atención a Llamadas de Emergencia:
+
+a) Jefatura de Unidad Departamental de Operaciones C5.
+
+II. Subdirección de Enlace:
+
+a) Jefatura de Unidad Departamental de Dependencias Gubernamentales y Organismos Privados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-Al frente de la Dirección de Tecnologías de Información y Comunicacioneshabrá (sic) un titular, a quien le corresponde el ejercicio de las siguientes funciones:
+Al frente de la Dirección de Tecnologías de Información y Comunicaciones habrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:
 
-I. Desarrollar y mantener los sistemas de comunicación de voz, video y datos a través de las redes internas y externas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-II. Brindar soporte técnico al personal del “Escudo Urbano C5”;
+I. Desarrollar y dar mantenimiento a los sistemas de comunicación de voz, radiocomunicaciones, video y datos a través de las redes internas y externas;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+II. Coordinar el soporte técnico de los sistemas de tecnologías de información y comunicaciones del Escudo Urbano C5 y de los Centros de Atención de Emergencias vinculados a esta Institución;
 
 III. Administrar, mantener y asegurar los espacios físicos y lógicos como depositarios de datos masivos;
 
@@ -635,9 +745,13 @@ V. Analizar, crear, implantar y controlar los aplicativos generados en el área 
 
 VI. Administrar, soportar y controlar los equipos de cómputo del “Escudo Urbano C5”;
 
-VII. Coordinar, asegurar y mantener las comunicaciones de voz y datos con las diferentes entidades municipales, estatales y federales para el intercambio de información;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-VIII. Investigar, implementar y mantener las nuevas tecnologías existentes para actualizar los sistemas de voz, datos e imagen;
+VII. Asegurar el almacenamiento, la disponibilidad y confidencialidad de las comunicaciones de voz, radiocomunicación, video y datos captados por medio de los servicios y la infraestructura tecnológica del Escudo Urbano C5 para el necesario intercambio de información;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+VIII. Administrar, propiciar y dirigir las acciones para la innovación, desarrollo e implementación de los sistemas de tecnologías de información y comunicaciones del Escudo Urbano C5 y de los Centros de Atención de Emergencias vinculados al Escudo Urbano C5;
 
 IX. Desarrollar, implementar y controlar los planes para evitar desastres en todos los sistemas que sean susceptibles de falla;
 
@@ -649,11 +763,27 @@ XII. Supervisar técnicamente la instalación de la red de voz y datos del “Es
 
 XIII. Mantener actualizada la tecnología así como los software, ya sea adquiridos o de desarrollo propio;
 
-XIV. Coordinar las actividades necesarias para asegurar la operación de las comunicaciones de voz, datos e imágenes, cumpliendo con los niveles de servicio establecidos en la infraestructura de los equipos de misión crítica del “Escudo Urbano C5”;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XV. Mantener la continuidad de la operación de las comunicaciones del “Escudo Urbano C5”; y
+XIV. Coordinar, diseñar y auditar la estrategia en materia de ciberseguridad identificando vulnerabilidades y riesgos que comprometan la operación, activos digitales o comunicaciones del Escudo Urbano C5;
 
-XVI. Las demás que le confieran otras disposiciones legales, reglamentarias y el Director General.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XV. Asegurar la continuidad tecnológica de la operación del Escudo Urbano C5, y de los Centros de Atención de Emergencias vinculados a este, manteniendo un plan de recuperación en casos de desastre, así como la respuesta a incidentes ante una eventual falla o amenaza tecnológica que ponga en riesgo sus sistemas de información y radiocomunicaciones;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVI. Cumplir con los lineamientos y disposiciones en el manejo de información y protección de datos personales de Centros de Atención de Emergencias vinculados al Escudo Urbano C5;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVII. Contribuir con apoyos técnicos en materia de uso y adquisición de tecnologías de la información con las diferentes áreas del Escudo Urbano C5, dependencias, entidades y organismos privados en materia de atención a emergencias;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVIII. Emitir opinión técnica de proyectos tecnológicos en convenios celebrados entre dependencias, entidades, organismos privados y el Escudo Urbano C5; y
+
+XIX. Las demás que le confieran otras disposiciones legales, reglamentarias y el Director General.
 
 Para el desarrollo de esas atribuciones, contará con las siguientes áreas:
 
@@ -675,11 +805,15 @@ a) Jefatura de Unidad Departamental de Redes Locales y Externas; y
 
 b) Jefatura de Unidad Departamental de Almacenamiento de Voz y Última Milla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2024)</small>
+
 ###### Artículo 28.
 
-Al frente de la Dirección de Análisis Estratégicohabrá (sic) un titular, a quien le corresponde el ejercicio de las siguientes funciones:
+Al frente de la Dirección de Análisis Estratégico e Inteligencia habrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:
 
-I. Implementar y Operar el Sistema Estatal de Información en Materia de Emergencias;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+I. Dirigir el análisis y la operación de los sistemas de recolección, registro, clasificación y aprovechamiento de información que pueda servir para la toma de decisiones y definición de estrategias a cargo de autoridades de la seguridad pública;
 
 II. Desarrollar trabajos de análisis de la incidencia delictiva y zonas de riesgo, precisar los lugares de la comisión de los delitos y el impacto social que producen, con el objetivo de implementar estrategias que apoyen la prevención del delito y el combate a la impunidad, en coordinación con las autoridades competentes;
 
@@ -697,15 +831,41 @@ VIII. Integrar la información necesaria para generar productos de inteligencia 
 
 IX. Establecer en el ámbito de su competencia, mecanismos de comunicación y coordinación con las agencias policiales municipales, estatales, federales y extranjeras representadas;
 
-X. Dirigir, coordinar y operar sistemas de recolección, registro, clasificación, análisis, evaluación y explotación de información que permita generar inteligencia policial a la (sic) instituciones competentes;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+X. Dirigir, coordinar y operar sistemas de recolección, registro, clasificación, análisis, evaluación y explotación de información que permita generar inteligencia policial a las instituciones competentes;
 
 XI. Conformar una base de datos a nivel estatal que sustente el desarrollo de programas y estrategias que puedan servir para la toma de decisiones de las áreas y autoridades respectivas;
 
 XII. Coordinar, asegurar y mantener las comunicaciones con las diferentes entidades municipales, estatales y federales para el intercambio de información, así como las bases de datos respectivas;
 
-XIII. Procesar y controlar la información estadística de las unidades administrativas competentes para la evaluación del desempeño en las áreas de su competencia, que incremente su eficiencia y apoye para la toma de decisiones y el cumplimiento de los objetivos propuestos; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2024)</small>
 
-XIV. Las demás que le confieran otras disposiciones aplicables y el Director General.
+XIII. Procesar y controlar la información estadística de las unidades administrativas competentes para la evaluación del desempeño en las áreas de su competencia, que incremente su eficiencia y apoye para la toma de decisiones y el cumplimiento de los objetivos propuestos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIV. Procesar la información que generen sus operaciones, determinar su tendencia, valor, significado e interpretación específica y formular las conclusiones que se deriven de las evaluaciones correspondientes, con el propósito de salvaguardar la seguridad del estado;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XV. Realizar estudios de carácter político, económico, social y demás que se relacionen con sus atribuciones, así como aquellos que sean necesarios para alertar sobre los riesgos y amenazas a la seguridad municipal, estatal y nacional;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVI. Adquirir, administrar y desarrollar tecnología especializada para la investigación y difusión confiable de las comunicaciones del Gobierno estatal en materia de seguridad, así como para la protección de esas comunicaciones y de la información que posea;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVII. Operar las tecnologías de comunicaciones especializadas, en cumplimiento de las atribuciones que tiene encomendadas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XVIII. Prestar auxilio técnico a cualquiera de las dependencias o instancias de gobierno en materia de seguridad y procuración de justicia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA CON SUS FRACCIONES], P.O. 31 DE OCTUBRE DE 2024)</small>
+
+XIX. Las demás que le confieran otras disposiciones aplicables y el Director General.
 
 Para el desarrollo de dichas atribuciones, contará con las siguientes áreas:
 
@@ -940,3 +1100,309 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 31 DE OCTUBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29585/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LAS SIGUIENTES LEYES: LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DE LA FISCALÍA; LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DE PERSONAS DESAPARECIDAS; CÓDIGO DE ASISTENCIA SOCIAL; LEY DE PROTECCIÓN CIVIL TODAS DEL ESTADO DE JALISCO, QUE REGULAN LA ESTRUCTURA ORGÁNICA DE LA ADMINISTRACIÓN CENTRALIZADA Y PARAESTATAL".]
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de enero de 2025, previa publicación en el periódico oficial en "El Estado de Jalisco".
+
+SEGUNDO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2025, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+
+TERCERO. Transfiéranse a la Unidad Estatal de Protección Civil y Bomberos la plantilla de bomberos, bomberas y personal operativo forestal forestales adscritos a la Secretaría de Medio Ambiente y Desarrollo Territorial, así como los recursos financieros, materiales y tecnológicos que se consideren necesarios.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Secretaría de Medio Ambiente y Desarrollo Territorial.
+
+CUARTO. Para el ejercicio 2025, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo número 27213/LXII/18, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+
+Así mismo, para el ejercicio 2024, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2024, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2024 a las dependencias que se crean o modifican con motivo del presente decreto.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2025, las adecuaciones llevadas a cabo en los términos del presente artículo.
+
+QUINTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco, las iniciativas de reforma que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las facultades y atribuciones establecidos a cargo de las dependencias que se crean o modifican derivado del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Número 27213/LXII/18, así como las facultades, derechos y obligaciones establecidos a cargo de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con cualquier persona física o jurídica de derecho público o privado, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría de Administración Secretaría General de Gobierno
+
+(Tratándose de la supervisión,
+
+dirección y control de las Unidades
+
+Regionales de Servicios Estatales)
+
+Respecto de la Fiscalía del Estado, serán las siguientes:
+
+ANTERIOR NUEVO
+
+Fiscalía Especial Ejecutiva de Vicefiscalía en Investigación Criminal
+
+Investigación Criminal Especializada
+
+Fiscalía Especial Regional Vicefiscalía en Investigación Regional
+
+Fiscalía Especial en Derechos Vicefiscalía en Derechos Humanos y
+
+Humanos de Investigación para Prevenir y Sancionar
+
+el delito de Tortura
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+Patrimoniales y Financieros Especializada en Delitos Patrimoniales
+
+Dirección General en Investigación Vicefiscalía en Investigación Especializada
+
+Especializada de Concertación Social
+
+Dirección General en Delitos Vicefiscalía en Investigación
+
+contra las Mujeres, Delitos en Razón Especializada en Delitos contra las
+
+de Género y Trata de Personas Mujeres (sic) Razón de Género, niñas,
+
+niños y adolescentes, y la familia
+
+Dirección General en Seguimiento a Dirección de litigación y Seguimiento
+
+Procesos de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección General de Inteligencia, Dirección General de Inteligencia y
+
+Política Criminal y Prevención del Política Criminal
+
+Delito
+
+Dirección General de Policía de Dirección General de la Policía
+
+Investigación Investigadora
+
+Dirección de Tecnologías de la Dirección General de Innovación y
+
+Información y Comunicación Tecnología
+
+Unidad de Investigación de Robo de Unidad de Investigación
+
+Vehículo Especializada en Robo de vehículo
+
+Unidad De Robos Unidad de Investigación Especializada
+
+en Robos Varios
+
+Unidad de Investigación de Robo de Unidad de Investigación Especializada en
+
+Vehículo de Carga Pesada Robo de vehículo de carga Pesada y Robo
+
+a Instituciones Bancarias y de Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada en
+
+Instituciones Bancarias y de Valores Robo de vehículo de carga Pesada y Robo
+
+a Instituciones Bancarias y de Valores
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada en
+
+Casa Habitación Robo a Negocio y Robo a casa Habitación
+
+Unidad de Investigación de Robo a Unidad de Investigación Especializada en
+
+Negocio Robo a Negocio y Robo a casa Habitación
+
+Unidad de Investigación de Homicidios Unidad de Investigación Especializada en
+
+Intencionales Homicidios Intencionales
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Narcomenudeo Narcomenudeo
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Secuestros Secuestros y Extorsiones
+
+Unidad de Investigación de Unidad de Investigación Especializada en
+
+Extorsiones Secuestros y Extorsiones
+
+Unidad de Investigación de Delitos Unidad de Investigación Especializada en
+
+Ambientales Delitos Varios
+
+Unidad de Investigación de Delitos Unidad de Investigación Especializada en
+
+cometidos en Agravio de Niñas, Niños Delitos cometidos en Agravio de Niñas,
+
+y Adolescentes Niños y Adolescentes
+
+Unidad de Investigación de Delitos Unidad de Investigación Especializada en
+
+cometidos por Adolescentes en Delitos cometidos por Adolescentes en
+
+Conflicto con la ley Conflicto con (sic) ley
+
+Unidad de Litigación Dirección de Litigación y Seguimiento
+
+de Investigación Especializada en
+
+Atención a Mujeres, niñas, niños y
+
+adolescentes, razón de género y la familia
+
+Director General de Zona Norte Dirección General de Investigación
+
+Zona Norte
+
+Director General de Zona Sur Dirección General de Investigación
+
+Zona Sur
+
+Dirección General del Centro de Dirección de Atención a Víctimas del
+
+atención y protección a ofendidos, Delito
+
+víctimas y testigos del delito
+
+Dirección General de Vinculación y Dirección de Vinculación y seguimiento en
+
+seguimiento en la defensa de los la defensa de los derechos Humanos
+
+derechos humanos
+
+Unidad Especializada en Delitos de Dirección de Investigación para Prevenir y
+
+Tortura. Sancionar el delito de Tortura
+
+Unidad Especializada para la Atención Dirección de Diversidad Sexual
+
+de Delitos por Diversidad Sexual
+
+Dirección de investigación de delitos Unidad de Investigación Especializada en
+
+patrimoniales no violentos Delitos Patrimoniales No Violentos
+
+Dirección de Extinción de Dominio Unidad de Investigación Especializada en
+
+Extinción de Dominio
+
+Unidad de Investigación contra Unidad de Inteligencia Financiera y
+
+recursos de procedencia llicita Recursos de Procedencia Ilícita
+
+Unidad de Inteligencia Patrimonial y Unidad de Inteligencia Financiera y
+
+Económica Recursos de Procedencia Ilícita
+
+Unidad De Delitos Varios Unidad de Investigación Especializada en
+
+Delitos Varios
+
+Unidad De Detenidos Unidad de Investigación Especializada en
+
+Detenidos
+
+Unidad de Hechos de Sangre, de Unidad de Investigación Especializada en
+
+Tránsito y Transporte Público Hechos de Sangre, tránsito y Transporte
+
+Público
+
+Unidad para la Investigación de Unidad de Investigación Especializada en
+
+delitos contra de mujeres y delitos Delitos contra las mujeres, en razón de
+
+razón de género género y Trata de Personas
+
+Unidad Especializada en Unidad de Investigación Especializada en
+
+Investigación de Feminicidios Feminicidios
+
+Atención temprana Coordinación de Atención Temprana
+
+de cada Vicefiscalía con excepción de
+
+la Vicefiscalía en Investigación Regional
+
+Imputado desconocido Unidad de Investigación Especializada en
+
+Delitos Varios
+
+Tramitación masiva de casos Unidad de Investigación Especializada en
+
+Delitos Varios
+
+Unidad de Puestos de socorro Unidad de Investigación Especializada en
+
+Hechos de Sangre, tránsito y Transporte
+
+Público
+
+La Dirección de Control de Procesos Dirección de litigación y Seguimiento
+
+y Audiencias de Investigación de cada una de las
+
+Vicefiscalías
+
+Dirección de Cumplimiento a Dirección de Ordenes de Aprehensión
+
+Mandamientos Judiciales
+
+Dirección de Amparos Procesales y Dirección de litigación y Seguimiento
+
+Salidas Alternas y Formas de de Investigación de cada una de las
+
+Terminación Anticipada Vicefiscalías
+
+(Por lo que respecta a las formas de
+
+terminación anticipada)
+
+Dirección de Amparos Procesales y Dirección de Amparos
+
+Salidas Alternas y Formas de
+
+Terminación Anticipada (Por lo que respecta a los amparos)
+
+Delitos en materia de trata de Unidad de Investigación Especializada en
+
+personas Delitos contra las mujeres, en razón de
+
+género y Trata de Personas
+
+Dirección de Auditoría preventiva y Dirección de Auditoría preventiva y
+
+orientación administrativa orientación
+
+Sub Dirección Metropolitana Dirección de la Policía Investigadora
+
+Metropolitana
+
+Sub Dirección Regional Dirección de la Policía Investigadora
+
+Regional
+
+Unidad de Deposito de Armamento Dirección de Deposito de Armamento
+
+Centro de Telecomunicaciones e Dirección del Centro de Comunicaciones
+
+información vehicular e Información Vehicular
+
+Instituto de Formación y Dirección de Formación y
+
+Profesionalización Profesionalización
+
+SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Agencia de Energía del Estado de Jalisco, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Secretaría de Desarrollo Energético Sustentable del Poder Ejecutivo, se entenderán como conferidas a ésta última en tanto se adecue su marco jurídico normativo y se publique el Reglamento Interno de la Secretaría de Desarrollo Energético Sustentable.
+
+SÉPTIMO. Los recursos financieros, materiales y tecnológicos necesarios para la operación de las áreas que se extinguen o fusionan de la Fiscalía del Estado, así como los documentos y asuntos en trámite serán transferidos a las unidades administrativas que atraen las atribuciones.
+
+OCTAVO. En toda disposición legal o reglamentaria en que se haga referencia a las Fiscalías Especiales o a los Fiscales Especiales se entenderá por Vicefiscalías o Vicefiscales, de conformidad con el presente decreto.
+
+NOVENO. El titular de la Fiscalía Estatal deberá proponer al Poder Ejecutivo del Estado dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto, las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente decreto, las cuales deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
+
+En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
