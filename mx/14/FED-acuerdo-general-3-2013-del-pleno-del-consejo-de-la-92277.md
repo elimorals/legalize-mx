@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2024-10-09"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2024.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -165,9 +165,9 @@ II. SEGUNDO CIRCUITO:
 
 III. TERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 29/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 23/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE NOVIEMBRE DE 2024)</small>
 
-1. Veintitrés tribunales colegiados especializados: tres en materia penal, siete en materia administrativa, cinco en materia civil, y seis en materia de trabajo, todos con residencia en Zapopan; uno en materia penal y uno en materia civil, ambos con sede en Guadalajara, en Jalisco.
+1. Veintitrés tribunales colegiados especializados: cuatro en materia penal, siete en materia administrativa, seis en materia civil, y seis en materia de trabajo, todos con residencia en Zapopan, Jalisco.
 
 > <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 52/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE DICIEMBRE DE 2022)</small>
 
@@ -11300,3 +11300,17 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Los asuntos recibidos por los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula y por el Centro de Justicia Penal Federal de la misma entidad federativa y ciudad, cuyo origen y procedencia sean del municipio de Capitán Luis Ángel Vidal, continuarán conociendo hasta su conclusión y archivo definitivo.
 
 CUARTO. Las direcciones generales de Gestión Judicial; de Estadística Judicial y de Tecnologías de la Información, en coordinación con la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal y la Unidad de Implementación de la Reforma en Materia de Justicia Laboral, realizarán las modificaciones en los sistemas tecnológicos del Consejo de la Judicatura Federal en los que se requiera incluir los municipios materia de este Acuerdo.
+
+D.O.F. 1 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 23/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL CUARTO TRIBUNAL COLEGIADO EN MATERIA PENAL Y DEL SEXTO TRIBUNAL COLEGIADO EN MATERIA CIVIL, AMBOS DEL TERCER CIRCUITO CON RESIDENCIA EN GUADALAJARA, JALISCO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Cuarto Tribunal Colegiado en Materia Penal, el Sexto Tribunal Colegiado en Materia Civil, ambos del Tercer Circuito, así como las Oficinas de Correspondencia Común que les prestan servicio deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado de los órganos jurisdiccionales que cambian de residencia y domicilio.
+
+QUINTO. Se deroga cualquier disposición contraria a lo contenido en el presente Acuerdo.
