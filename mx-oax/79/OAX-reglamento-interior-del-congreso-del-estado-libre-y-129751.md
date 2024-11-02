@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2024-10-12"
+last_updated: "2024-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1489,11 +1489,11 @@ Salvo disposición legal en contrario, para el cómputo de los plazos señalados
 
 En el caso de que las iniciativas impliquen un impacto presupuestal, la comisión o comisiones deberán solicitar al Centro de Estudios Económicos y de Finanzas Públicas y a la Secretaría de Finanzas del Gobierno del Estado, una proyección de dicho impacto. Lo anterior de conformidad con lo dispuesto por la Ley de Presupuesto y Responsabilidad Hacendaria en vigor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 67.
 
-En el proceso legislativo de dictamen, la comisión podrá convocar al o los promoventes, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere, continuará el proceso de dictamen.
+En el proceso legislativo de dictamen, la comisión deberá convocar al o los promoventes, a efecto de ampliar la información acerca de su propuesta. Sí éste no asistiere, continuará el proceso de dictamen.
 
 La comisión podrá acordar la realización de foros, sesiones públicas o reuniones, en las que consulte:
 
@@ -3226,3 +3226,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2443.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
