@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-10-12"
+last_updated: "2024-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1029,9 +1029,9 @@ VII.- Para impulsar y fomentar la capacitación y sensibilización continua al p
 
 Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia apoyarán y fomentarán:
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2024)</small>
 
-I.- Los programas destinados a promover la atención infantil, la paternidad y maternidad responsable y la orientación en la prevención de embarazos en los adolescentes, realizando las acciones señaladas en el artículo 62 de esta Ley;
+I.- Los programas destinados a promover la atención infantil, la paternidad y maternidad responsable y la orientación en la prevención, atención y erradicación de embarazos en las niñas y adolescentes con un enfoque integral, transversal, de género, con interculturalidad, interseccional y perspectiva de derechos humanos, realizando las acciones señaladas en el artículo 62 de esta Ley;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -1075,7 +1075,9 @@ En las acciones dirigidas a brindar educación sexual a niñas, niños y adolesc
 
 Los servicios que se presten en esta materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de las hijas e hijos, con pleno respeto a su dignidad y su autonomía reproductiva.
 
-Las autoridades sanitarias estatales asegurarán que la prestación de los servicios de salud reproductiva sea permanente, continua y gratuita, e incluya el suministro constante de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades sanitarias estatales asegurarán que la prestación de los servicios de salud reproductiva sea permanente, continua y gratuita; e incluya el suministro constante de todos aquellos métodos anticonceptivos ordinarios y de emergencia cuya eficacia y seguridad estén acreditadas científicamente, para lo cual procurarán contar con el abasto suficiente en las instituciones de salud.
 
 Todas las acciones en materia de salud reproductiva deberán llevarse a cabo en español y en la lengua o lenguas en uso en la región o comunidad a la que se destinen; así como en formatos accesibles para personas ciegas o con discapacidad visual, formatos de lectura fácil para personas con discapacidad psicosocial, y contar con traductoras al lenguaje de señas mexicano.
 
@@ -4552,6 +4554,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 12 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2445.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 312; Y SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 312 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2478.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 60 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 62 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
