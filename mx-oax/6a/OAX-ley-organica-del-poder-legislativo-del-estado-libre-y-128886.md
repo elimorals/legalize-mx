@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2024-10-12"
+last_updated: "2024-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -1037,9 +1037,11 @@ Los integrantes de la Comisión asistirán a ellas con derecho a voz y voto; los
 
 Cuando se considere necesario, las sesiones podrán realizarse en forma virtual y mediante el uso de las herramientas tecnológicas disponibles que garanticen la eficacia y legalidad de los actos.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 72.
 
-Las Comisiones resolverán por escrito acerca de los asuntos que se le turnen y en los casos en que se requiera de un dictamen, propondrán la resolución que en su concepto deba tomarse, reduciéndola a proposiciones o artículos claros y sencillos que puedan sujetarse a votación.
+Las Comisiones resolverán por escrito acerca de los asuntos que se le turnen y en los casos en que se requiera de un dictamen, propondrán la resolución que en su concepto deba tomarse, reduciéndola a proposiciones o artículos claros y sencillos que puedan sujetarse a votación, debiendo incluir en caso de ser necesario una estimación sobre el impacto presupuestario del proyecto.
 
 ###### ARTÍCULO 73.
 
@@ -1611,7 +1613,7 @@ TERCERO. La Sexagésima Cuarta Legislatura del Honorable Congreso del Estado de 
 
 P.O. 24 DE AGOSTO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ÓRGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -1682,3 +1684,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2443.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 67 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
