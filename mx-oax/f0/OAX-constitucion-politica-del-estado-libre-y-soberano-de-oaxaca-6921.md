@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-10-12"
+last_updated: "2024-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -543,13 +543,31 @@ El Estado promoverá lo necesario para que la población tenga acceso a una vivi
 
 Toda persona tiene derecho al acceso a la cultura, a la libertad de creación y expresión artística y al disfrute de los bienes y servicios culturales y artísticos. El Estado garantizará su cumplimiento y promoverá el derecho al acceso, a la creación y formación artística; la diversidad cultural de las personas, pueblos y comunidades indígenas y afromexicanas; la vinculación entre cultura, arte y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2024)</small>
 
-Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua. Con el propósito de asegurar la disponibilidad del agua, abatir los niveles de contaminación, las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en arroyos, ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo. El estado procurará los mecanismos para construir y coadyuvar con el mantenimiento de plantas de tratamiento de aguas residuales en los Municipios; los pueblos y comunidades indígenas y afromexicanas gozarán de la disponibilidad del agua.
+Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua. Con el propósito de asegurar la disponibilidad del agua, abatir los niveles de contaminación, las aguas residuales de origen urbano deben recibir tratamiento y reusarse previo a su descarga en arroyos, ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo. El estado procurará los mecanismos para construir y coadyuvar con el mantenimiento de plantas de tratamiento de aguas residuales en los Municipios; los pueblos y comunidades indígenas y afromexicanas gozarán de la disponibilidad del agua.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 2 DE NOVIEMBRE DE 2024)</small>
 
-El Estado de Oaxaca y los Municipios, garantizarán la cobertura universal del agua, su acceso continuo, equitativo y sustentable. Se incentivará la captación del agua pluvial.
+El Estado de Oaxaca y los Municipios, garantizarán la cobertura universal del agua, su acceso continuo, equitativo y sustentable. Se incentivará la captación del agua pluvial y la política hídrica, aplicando los recursos administrativos, financieros y tecnológicos disponibles, conforme a las siguientes bases:
+
+a) Una política pública de sostenibilidad para el uso y aprovechamiento del agua pluvial, consistente en la implementación de un sistema amplio de captación de agua de lluvia.
+
+b) La obligación de contar con mecanismos de captación, tratamiento, disposición y uso de aguas servidas.
+
+c) Instrumentos que regulen el uso de sistemas para infiltración del agua al manto freático.
+
+d) La implementación de programas que contribuyan a fortalecer la conciencia pública y la cultura sobre el ahorro y uso sustentable del agua y la reducción de la contaminación mediante la disminución de uso de productos químicos y materiales altamente contaminantes. Una cultura que considere a los recursos hídricos como finitos, vulnerables y valorizables y que incluye las habilidades técnicas para su uso, el conocimiento de los múltiples beneficios y servicios ambientales que prestan a los ecosistemas y el ambiente.
+
+e) El desarrollo de estudios sobre las cuencas hidrográficas, el diseño de materiales y nuevas tecnologías para la gestión integral del agua, la formación de estrategias para la reducción de la demanda de agua, su mejor aprovechamiento y la planeación urbana con un enfoque de sustentabilidad.
+
+f) En las infraestructuras y comunicaciones se ponderará el uso de materiales y diseños en vialidades que permitan la infiltración para la reducción de inundaciones y la recarga de mantos freáticos y/o acuíferos donde sea factible. En los casos y sitios que sean posible, como zanjas de infiltración, jardines de lluvia, materiales permeables, entre otros.
+
+g) El diseño de la red de infraestructura hidráulica se ajustará a una política de observancia progresiva y gobernanza, que permita la separación del agua tratada y el agua potable, para diferenciar los usos en el hogar y que las lógicas de tratamiento de las aguas servidas obedezcan al enfoque de agua por diseño. La infraestructura para el tratamiento de las aguas servidas deberá integrar y/o considerar en sus enfoques las soluciones basadas en la naturaleza.
+
+h) El enfoque de gestión hídrica se basará en datos, mediante sistemas de captación de información y dispositivos para la detección de fugas, que permitan disminuir paulatinamente la pérdida de agua y el incremento del uso eficiente y la disminución per cápita.
+
+i) Los desarrollos residenciales y aquellas obras que por su magnitud, particularidades y actividades que desarrollen, deberán adaptar mecanismos de captación de agua de lluvia y la red necesaria para su reúso.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -6740,3 +6758,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. El Honorable Congreso del Estado tendrá 90 días para ajustar sus leyes secundarias para el cumplimiento de lo previsto en el presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2472.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS TRIGÉSIMO QUINTO Y TRIGÉSIMO SEXTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Honorable Congreso tendrá 90 días para ajustar sus leyes secundarias para el cumplimiento de lo previsto en el presente Decreto.
