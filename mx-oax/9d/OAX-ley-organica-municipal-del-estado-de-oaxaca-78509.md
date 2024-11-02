@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2024-08-10"
+last_updated: "2024-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -2893,6 +2893,10 @@ c) Cuando no se verifique la elección extraordinaria prevista en la Ley de Inst
 
 Las autoridades municipales deberán sujetar su actuación a las leyes, los Bandos de Policía y Gobierno, circulares y disposiciones administrativas de observancia general; en consecuencia, los actos, acuerdos y resoluciones que dicten, se presumen legales y si no son impugnados, se procederá a su ejecución.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2024)</small>
+
+Así mismo, las autoridades administrativas municipales cuentan con la facultad de la revisión administrativa de oficio establecida en la Ley de Procedimientos y Justicia Administrativa del Estado de Oaxaca.
+
 ###### ARTÍCULO 150.
 
 Los actos, acuerdos y resoluciones de carácter no fiscal que emitan las autoridades municipales, podrán ser impugnados mediante la interposición por escrito del recurso administrativo de revocación, conforme a las siguientes disposiciones:
@@ -4686,3 +4690,11 @@ P.O. 10 DE AGOSTO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2476.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 149 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
