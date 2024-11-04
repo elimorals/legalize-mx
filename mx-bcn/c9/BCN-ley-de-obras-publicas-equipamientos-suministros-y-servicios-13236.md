@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2024-01-26"
+last_updated: "2024-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -331,19 +331,21 @@ El documento que contenga los programas será de carácter informativo, no impli
 
 En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total como lo relativo a los ejercicios de que se trate, en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento se encuentren vigentes y se deberá dar prioridad a las previsiones para la continuidad de las obras públicas ya iniciadas o de los servicios relacionados con las mismas en proceso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTICULO 23.
+ARTICULO 22 BIS.- Para la ejecución de una obra, las dependencias y entidades podrán convocar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, siempre que cuenten con la viabilidad financiera, la cual deberá emitirse por la Secretaría de Hacienda en un plazo no mayor a 10 días naturales de que se realizó la solicitud.
 
-Las dependencias y entidades podrán convocar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, una vez que cuenten con la calendarización global o específica aprobada por parte de Hacienda, de su presupuesto de inversión y gasto corriente, conforme a los cuales deben elaborarse los programas de ejecución y pago correspondiente.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+De contar con viabilidad financiera, la Secretaría de Hacienda deberá emitir la calendarización global o especifica según corresponda para la ejecución de la obra de acuerdo al programa financiero que presente por escrito el ente contratante
 
 En casos excepcionales y previa autorización de Hacienda, las dependencias y entidades podrán convocar sin contar con la calendarización de su presupuesto aprobado.
 
-Tratándose de obras públicas, además; se requiere contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución, y en su caso, el programa de suministros, salvo proyectos integrales, para los cuales se deberá contar con los requisitos de arquitectura e ingeniería básicos y en su caso, resultados esperados que establezca la dependencia o entidad, en todos los casos deberá contar con la autorización en materia de Impacto Ambiental que emita la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
+###### ARTICULO 23.
+
+Tratándose de obras públicas se requiere contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución, y en su caso, el programa de suministros, salvo proyectos integrales, para los cuales se deberá contar con los requisitos de arquitectura e ingeniería básicos y en su caso, resultados esperados que establezca la dependencia o entidad, en todos los casos deberá contar con la autorización en materia de Impacto Ambiental que emita la autoridad correspondiente.
+
+Los servicios públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
 
 ###### ARTICULO 24.
 
@@ -467,11 +469,11 @@ IV.- Presentación y apertura de proposiciones, y
 
 V.- Adjudicación del Contrato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 37.
 
-El procedimiento de Licitación Pública se inicia con el lanzamiento de la convocatoria, la cual deberá publicarse en el Periódico Oficial del Estado y simultáneamente, en un diario de mayor circulación estatal y en uno del Municipio donde se habrá de ejecutar la obra. La convocatoria se podrá referir a una o más obras, equipamiento, suministros y servicios relacionados con las mismas y deberá contener como mínimo los siguientes requisitos:
+El procedimiento de Licitación Pública se inicia con el lanzamiento de la convocatoria, la cual deberá publicarse en el Periódico Oficial del Estado, La convocatoria se podrá referir a una o más obras, equipamiento, suministros y servicios relacionados con las mismas y deberá contener como mínimo los siguientes requisitos:
 
 I.- El nombre, denominación o razón social de la dependencia o entidad convocante.
 
@@ -525,15 +527,17 @@ Los documentos señalados en éste artículo solamente deberán ser presentados 
 
 Las bases que emitan las dependencias y entidades para las licitaciones, se pondrán a disposición de los interesados desde la fecha de publicación de la convocatoria, para que permita una adecuada preparación de las propuestas, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente; las bases contendrán, en función del tipo del trabajo, características y complejidad, la información, documentación y requisitos que dentro de la siguiente relación sean indispensables para una correcta evaluación de la solvencia de las propuestas.
 
-A.- BASES OBRA PUBLICA.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+A.- BASES OBRA PUBLICA
 
 I.- Nombre, denominación o razón social de la dependencia o entidad convocante.
 
 II.- Fecha, hora y lugar para la presentación y apertura de proposiciones.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-III.- Fecha, hora y lugar de la visita al sitio de los trabajos, la que deberá llevarse a cabo dentro de un plazo no menor de diez días naturales a partir de la fecha de la convocatoria, ni menor a siete días naturales anteriores a la fecha de la apertura de proposiciones. La o las juntas de aclaraciones a las bases de licitación, serán optativas dentro de los mismos períodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, siendo responsabilidad del licitante verificar si hubo o no modificaciones posteriores a la junta de aclaraciones o al último comunicado de la dependencia o entidad convocante hasta siete días naturales antes del acto de presentación y apertura de proposiciones.
+III.- Fecha, hora y lugar de la visita al sitio de los trabajos, la que deberá llevarse a cabo dentro del período comprendido entre el cuarto día natural siguiente a aquél en que se publique la convocatoria y el sexto día natural previo a la fecha de apertura de proposiciones. La ó las juntas de aclaraciones a las bases de licitación, serán optativas dentro de los mismos períodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, siendo responsabilidad del licitante verificar si hubo o no modificaciones posteriores a la junta de aclaraciones o al último comunicado de la dependencia o entidad convocante hasta cinco días naturales antes del acto de presentación y apertura de proposiciones:
 
 IV.- Garantías de acuerdo a lo establecido en el Artículo 44 de esta Ley.
 
@@ -569,15 +573,17 @@ En este mismo plazo deberá llevarse a cabo el programa convenido convocante-con
 
 XVIII.- Modelo del contrato según sea el caso.
 
-B.- BASES PARA EQUIPAMIENTO, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA OBRA PUBLICA.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+B.- BASES PARA EQUIPAMIENTO, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
 I.- Nombre, denominación o razón social de la dependencia o entidad convocante.
 
 II.- Fecha, hora y lugar para la presentación y apertura de proposiciones.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-III.- Cuando se considere necesario fecha, hora y lugar para la visita al sitio de los trabajos, la que en su caso se deberá llevar a cabo dentro de un plazo no menor de diez días naturales contados a partir de la publicación de la convocatoria, ni menos de siete días naturales a la fecha y hora del acto de presentación y apertura de proposiciones. La o las juntas de aclaraciones serán optativas dentro de los mismos períodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, quienes serán responsables de verificar si hubo o no modificaciones posteriores a la junta de aclaraciones o al último comunicado de la dependencia o entidad convocante hasta siete días naturales antes del acto de presentación y apertura a (sic) de proposiciones.
+III.- Cuando se considere necesario fecha, hora y lugar para la visita al sitio de los trabajos, la que en su caso se deberá llevar a cabo dentro del período comprendido entre el cuarto día natural siguiente a aquél en que se publique la convocatoria y el sexto día natural previo a la fecha de apertura de proposiciones. La ó las juntas de aclaraciones serán optativas dentro de los mismos periodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, quienes serán responsables de verificar si hubo o no modificaciones posteriores a la junta de aclaraciones o al último comunicado de la dependencia o entidad convocante hasta cinco días naturales antes del acto de presentación y apertura de proposiciones;
 
 IV.- Garantías solicitadas de acuerdo a lo establecido en el Artículo 44 de esta Ley.
 
@@ -629,7 +635,9 @@ Todo interesado que satisfaga los requisitos de la convocatoria y de las bases d
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
-Cuando no puedan observarse los plazos indicados porque existan razones de urgencia justificada y, siempre que con ello no tenga por objeto limitar el número de participantes, las dependencias o entidades podrán reducirlos, en cuyo caso no podrán ser menores a diez días naturales a partir de la fecha de publicación de la convocatoria, pudiéndose suspender la visita al sitio de los trabajos.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Cuando no puedan observarse los plazos indicados porque existan razones de urgencia justificada y, siempre que con ello no tenga por objeto limitar el número de participantes, las dependencias o entidades podrán reducirlos, en cuyo caso no podrán ser menores a siete días naturales a partir de la fecha de publicación de la convocatoria, pudiéndose suspender la visita al sitio de los trabajos.
 
 En el caso de concursos reducidos en tiempo, los interesados podrán participar previa adquisición de las bases de licitación, debiendo en todo caso anexar en el sobre que contenga su propuesta, la documentación que acredite su experiencia, capacidad técnica y económica.
 
@@ -645,15 +653,21 @@ II.- En el caso de las bases de la licitación a los interesados se les notifiqu
 
 Las modificaciones previstas en este Artículo, en ningún caso podrán sustituir o variar substancialmente los trabajos convocados originalmente, o bien, adicionar otros distintos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 43.
 
 En la etapa de presentación y apertura de proposiciones de obras públicas equipamiento, suministro o servicios podrán participar los licitantes que se encuentren calificados e inscritos, en la licitación de que se trate y hayan cubierto el costo de las bases.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
 La etapa de presentación y apertura se llevará a cabo de la siguiente manera:
 
 I.- La etapa será presidida por el servidor público que designe la convocante por escrito, quien será la única autoridad facultada para aceptar o desechar cualquier proposición de las que se hubieren presentado en los términos de esta Ley.
 
-II.- Se levantará acta donde se señale el motivo de la apertura, la fecha, lugar y hora en que se dará a conocer el fallo de la licitación; esta fecha quedará comprendida dentro de los veinte días naturales contados a partir de la fecha de apertura de las proposiciones, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+II.- Se levantará acta donde se señale el motivo de la apertura, la fecha, lugar y hora en que se dará a conocer el fallo de la licitación; esta fecha quedará comprendida dentro de los quince días naturales contados a partir de la fecha de apertura de las proposiciones, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de quince días naturales contados a partir del plazo establecido originalmente para el fallo.
 
 III.- Los licitantes entregarán sus propuestas por escrito en sobre cerrado, sellado o lacrado, dichas propuestas según las características de la obra, equipamiento, suministro o servicio, contendrán la siguiente documentación:
 
@@ -755,15 +769,21 @@ Las dependencias y entidades a través de la Secretaría, harán del conocimient
 
 ### CAPITULO TERCERO. DE LAS EXCEPCIONES A LA LICITACION PUBLICA
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 48.
 
-En los supuestos y con sujeción a las formalidades que prevé el Artículo 49, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de un procedimiento de invitación simplificada en el que participen cuando menos tres licitantes.
+Las dependencias y entidades, bajo su responsabilidad, en los supuestos que disponga este capítulo, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de un procedimiento de invitación simplificada en el que participen cuando menos tres licitantes o de adjudicación directa.
 
-La opción que las dependencias o entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el quinto párrafo del Artículo 45 de esta Ley, deberá acreditarse de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opción, conteniendo además:
+El procedimiento de invitación simplificada se utilizará de forma preferentemente, salvo que a juicio de la dependencia o entidad, éste no resulte conveniente en términos de economía, eficacia y eficiencia, en cuyo caso se utilizará el procedimiento de adjudicación directa.
 
-I.- El valor del contrato.
+En cualquier supuesto se convocará a quien o quienes cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, siempre priorizando las empresas con domicilio en el Estado.
 
-II.- Descripción general de los trabajos correspondientes.
+La opción que las dependencias o entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el quinto párrafo del Artículo 45 de esta Ley, deberá acreditarse de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opción, conteniendo, además:
+
+I.- El valor del contrato;
+
+II.- Descripción general de los trabajos correspondientes;
 
 III.- El nombre o razón social y nacionalidad del contratista, y
 
@@ -779,9 +799,11 @@ Para la apertura invariablemente se invitará a los proponentes, pero podrá hac
 
 Para llevar a cabo la evaluación de las proposiciones se requiere contar con las tres propuestas. Para llevar a cabo la adjudicación bastará que una propuesta sea solvente en los términos del Artículo 45 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 50.
 
-Las dependencias y entidades, bajo su responsabilidad, podrán contratar obras públicas, equipamiento, suministros y servicios relacionados con las mismas, por el procedimiento de adjudicación directa, cuando:
+Las dependencias y entidades, bajo su responsabilidad, podrán contratar obras públicas, equipamiento, suministros y servicios relacionados con las mismas, por los procedimientos de invitación simplificada o de adjudicación directa cuando:
 
 I.- El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor y otros derechos exclusivos.
 
@@ -789,15 +811,27 @@ II.- Peligre o se altere el orden social, economía, servicios públicos, salubr
 
 III.- Se hubiere rescindido el contrato respectivo por causas imputables al contratista. En estos casos la dependencia o entidad podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio respecto a la postura que inicialmente hubiere resultado ganadora no sea superior al diez por ciento.
 
-IV.- Se realicen dos licitaciones públicas o simplificadas sin que en ambas se hubiesen recibido proposiciones solventes.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+IV.- Se realice una licitación pública o invitación simplificada, en la que no se hubiese recibido ninguna proposición solvente. En el procedimiento que se determine, se deberán mantener los mismos requisitos que en la licitación desierta hubieran ocasionado el desechamiento de proposiciones por haber afectado directamente su solvencia.
 
 V.- Se trate de trabajos de conservación, mantenimiento, restauración, reparación, y demolición de inmuebles, en los que no sea posible precisar su alcance o establecer el catálogo de conceptos o cantidades de trabajo, o determinar las especificaciones correspondientes o elaborar el programa de ejecución.
 
-VI.- Se trate de trabajos que requieran fundamentalmente de mano de obra campesina urbana marginada y, que la dependencia o entidad contrate directamente con contratistas o habitantes beneficiarios de la localidad o del lugar donde deban realizarse los trabajos o con las personas morales o agrupaciones legalmente establecidas por los propios habitantes beneficiados.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VI.- Se realicen en zonas declaradas como de atención prioritaria o zonas de rezago social y pobreza o se lleven a través de trabajos que requieran fundamentalmente de mano de obra campesina urbana marginada y, que la dependencia o entidad contrate directamente con contratistas o habitantes beneficiarios de la localidad o del lugar donde deban realizarse los trabajos o con las personas morales o agrupaciones legalmente establecidas por los propios habitantes beneficiados.
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
 VII.- Se trate de obras o servicios que, de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad e intereses del Estado o Municipios, o comprometer información de naturaleza confidencial.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII.- Que se trate de obras públicas, equipamiento, suministro y servicios relacionados con las mismas que se realicen a título de dación en pago, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+IX.- Deriven de convenios de promoción económica con el Estado en donde las empresas participen en la ejecución de las obras.
 
 Las dependencias o entidades, preferentemente, invitarán a cuando menos a tres contratistas según corresponda, salvo que ello a su juicio no resulte conveniente, en cuyo caso utilizarán el procedimiento de adjudicación directa.
 
@@ -889,9 +923,11 @@ XVI.- La fechas de terminación de los trabajos y su recepción.
 
 Para los efectos de esta Ley, el contrato, sus anexos y la bitácora de los trabajos, vinculan a las partes respecto a los derechos y obligaciones que asumen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 56.
 
-La adjudicación del contrato obliga a la dependencia o entidad y a la persona física o moral en quien hubiere recaído la misma, a formalizar el documento relativo, dentro de los quince días naturales siguientes de su notificación.
+La adjudicación del contrato obliga a la dependencia o entidad y a la persona física o moral en quien hubiere recaído la misma, a formalizar el documento relativo, dentro de los diez días naturales siguientes de su notificación.
 
 Si el interesado no firmare el contrato perderá en favor de la convocante la garantía que hubiere otorgado y sin necesidad de un nuevo procedimiento, la dependencia o entidad podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente, de conformidad con lo establecido en el dictamen a que se refiere el párrafo quinto del Artículo 45 de la presente Ley, siempre que la diferencia en precio respecto a la postura a la que originalmente se hubiere adjudicado el contrato, no sea superior al diez por ciento.
 
@@ -1420,3 +1456,11 @@ P.O. 26 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 371 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LOS ARTÍCULOS 1, 2, 4, 7, 8, 9, 10, 14, 17, 23, 25, 30, 37, 46, 54, 55, 58, 65, 68, 69, 80, 81, 82, 85, 91, 92, 93 Y 94 DE LA LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 11 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE REFORMA LOS ARTÍCULOS 23, 37, 39, 41, 43, 48, 50 Y 56; Y ADICIONA UN ARTÍCULO 22 BIS A LA LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los procedimientos de contrataciones de obras públicas, equipamientos, suministros y servicios relacionados con la obra pública en curso, se llevarán a cabo hasta su formalización conforme al procedimiento vigente al momento de la publicación de la convocatoria.
