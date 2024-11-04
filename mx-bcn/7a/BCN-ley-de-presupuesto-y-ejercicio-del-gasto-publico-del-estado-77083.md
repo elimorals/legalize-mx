@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2023-12-01"
+last_updated: "2024-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -71,6 +71,8 @@ II. En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos:
 
 III. En los Municipios: a los Ayuntamientos, por conducto de los Presidentes Municipales a través de la Oficialía Mayor, la Tesorería Municipal y la Sindicatura Municipal, en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley, salvo mención expresa, se entenderá por:
@@ -89,11 +91,21 @@ VI. Dependencias: Cada una de las unidades administrativas que conforman las est
 
 VII. Días: Se entenderá que son días naturales, salvo que se señale expresamente que se trata de días hábiles;
 
-VIII. Ejecutivo del Estado: El Gobernador del Estado como Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-IX. Entidades: Las Entidades Paraestatales y Paramunicipales constituidas con tal carácter en la Ley Orgánica de la Administración Pública del Estado de Baja California y en la Ley del Régimen Municipal para el Estado de Baja California, respectivamente;
+VIII. Ejecutivo del Estado: Persona Titular del Poder Ejecutivo en su calidad de Gobernadora o Gobernador del Estado;
 
-X. Entidades Paraestatales: Los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos constituidos de conformidad con la Ley Orgánica de la Administración Pública del Estado de Baja California;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII BIS. Entes Públicos: Los Poderes del Estado, los Municipios del Estado, Entidades Paraestatales, Entidades Paramunicipales y los Órganos Autónomos;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+IX. Entidades: Las Entidades Paraestatales y Paramunicipales constituidas con tal carácter en la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, la Ley de las Entidades Paraestatales del Estado de Baja California y en la Ley del Régimen Municipal para el Estado de Baja California, respectivamente;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+X. Entidades Paraestatales: Los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos constituidos de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado de Baja California y la Ley de las Entidades Paraestatales del Estado de Baja California;
 
 XI. Entidades Paramunicipales: Los Organismos Descentralizados, las Empresas de Participación Municipal y Fideicomisos constituidos de conformidad con la Ley del Régimen Municipal para el Estado de Baja California;
 
@@ -182,6 +194,14 @@ III. En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos
 ###### ARTÍCULO 9.
 
 Es facultad de la Secretaría de Hacienda y las Tesorerías Municipales formular la Cuenta Pública Anual de la Hacienda Estatal y Municipal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades paraestatales o paramunicipales incluidas en los Presupuestos de Egresos de conformidad con el Artículo 26 de esta Ley, para someterla a consideración del Ejecutivo del Estado y de los Ayuntamientos respectivamente, para su presentación al Congreso del Estado en los términos y de acuerdo a las leyes vigentes respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Los fideicomisos públicos que no cuenten con estructura administrativa, se constituirán, organizarán y funcionarán, de conformidad con las disposiciones aplicables. La dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos o que coordine su operación, será responsable de reportar en los informes trimestrales y la Cuenta Pública un reporte del cumplimiento de la misión y fines de los fideicomisos, así como de los recursos ejercidos para el efecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Al extinguir los fideicomisos, las dependencias y entidades deberán enterar los recursos públicos remanentes a la Secretaría de Hacienda, Tesorerías Municipales o Unidades Administrativas equivalentes en los demás sujetos de esta Ley, en términos de las disposiciones aplicables.
 
 Para el cumplimiento de lo anterior, la Secretaría de Hacienda y las Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
 
@@ -1536,3 +1556,9 @@ P.O. 1 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 324 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS DE LOS ARTÍCULOS 3, 23 Y 92 BIS DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 13 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE REFORMA LOS ARTÍCULOS 3 Y 9 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.”
