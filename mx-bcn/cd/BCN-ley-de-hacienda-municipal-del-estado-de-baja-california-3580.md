@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2022-06-03"
+last_updated: "2024-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -81,11 +81,13 @@ V.- Secuestro convencional en la vía administrativa, de negociaciones o bienes 
 
 VI.- Fianza de persona física o moral que acredite su idoneidad y solvencia y se someta expresamente al procedimiento administrativo de ejecución. En todo caso deberá tener bienes raíces inscritos en el Registro Público de la Propiedad y ubicados dentro de la Municipalidad correspondiente por un valor que garantice suficientemente las obligaciones contraídas.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 7.
 
-Las contribuciones se clasifican en impuestos, cuotas y aportaciones de seguridad social, contribuciones de mejoras y derechos. Son también ingresos ordinarios los productos y aprovechamientos que prevean las Leyes de Ingresos.
+Las contribuciones se clasifican en impuestos, cuotas y aportaciones de seguridad social, contribuciones de mejoras y derechos. Son también ingresos ordinarios los productos y aprovechamientos que prevean las Leyes de Ingresos de acuerdo con el marco normativo y criterios generales establecidos en la Ley General de Contabilidad Gubernamental.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 Son ingresos extraordinarios los que se decreten excepcionalmente para proveer el pago de gastos eventuales o imprevistos.
 
@@ -1052,6 +1054,12 @@ Las rentas provenientes del arrendamiento de puestos de los mercados, deberán c
 ###### ARTICULO 81.
 
 Los productos que dé al Ayuntamiento la explotación de establecimientos o empresas que dependan de él se regirá por lo dispuesto en las leyes o disposiciones administrativas que las regulen.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 81 BIS.- Fondos Distintos de Aportaciones: Son los ingresos que reciben los Municipios del Estado, derivados de fondos distintos de aportaciones y previstos en disposiciones específicas, tales como el Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, y Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, entre otros.
+
+El Ayuntamiento podrá establecer fondos específicos a efecto de fomentar su política económica, fortalecer la hacienda pública municipal y generar recursos financieros suficientes para promover programas públicos destinados al bienestar de la comunidad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
 
@@ -2786,3 +2794,9 @@ P.O. 3 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 12 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA EL ARTÍCULO 7 Y ADICIONA EL ARTÍCULO 81 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
