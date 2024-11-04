@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-financiamientos-y-obligaciones-para-la-12846
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2021-04-30"
+last_updated: "2024-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección VI al Número 20 del Periódico Oficial del Estado de Baja California, el viernes 20 de abril de 2018.
 
@@ -69,15 +69,23 @@ IV.- Disposiciones de Disciplina Financiera: El Artículo 117, fracción VIII, d
 
 V.- Deuda Pública: Cualquier Financiamiento contratado por los sujetos de esta Ley;
 
-VI.- Ejecutivo del Estado: El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VII.- Entidades Paraestatales: Las constituidas en el Poder Ejecutivo del Gobierno del Estado de conformidad con la Ley Orgánica de la Administración Pública del Estado de Baja California y la Ley de las Entidades Paraestatales del Estado de Baja California;
+VI.- Ejecutivo del Estado: Persona Titular del Poder Ejecutivo en su calidad de Gobernadora o Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VII.- Entidades Paraestatales: Las constituidas en el Poder Ejecutivo del Gobierno del Estado de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado de Baja California y la Ley de las Entidades Paraestatales del Estado de Baja California;
 
 VIII.- Entidades Paramunicipales: Las constituidas en los municipios de conformidad con la Ley del Régimen Municipal para el Estado de Baja California y demás disposiciones aplicables;
 
 IX.- Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos de esta Ley, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
 X.- Fuente de pago: Los recursos utilizados por los sujetos de esta Ley, para el pago de cualquier Financiamiento u Obligación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+X Bis.- Gastos y costos relacionados con la contratación: aquellos que estén relacionados con la celebración del Financiamiento, que, de manera enunciativa mas no limitativa, son: comisiones de apertura, comisiones por disposición, comisiones por estructuración, costos por la contratación de calificadoras, de instrumentos derivados y garantías de pago, sin incluir honorarios por asesoría profesional, técnica, legal y financiera;
 
 XI.- Garantía de pago: Mecanismo que respalda el pago de un Financiamiento u Obligación contratada;
 
@@ -766,3 +774,9 @@ P.O. 30 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 222 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A DIVERSOS ARTÍCULOS DE LA LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS".]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 14 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE REFORMA EL ARTÍCULO 3 DE LA LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS".]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
