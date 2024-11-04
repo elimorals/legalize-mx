@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-de-la-promotora-de-eventos-artisticos-165346
 country: "mx"
 rank: "codigo"
 publication_date: "2023-03-14"
-last_updated: "2023-03-14"
+last_updated: "2024-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO DE CONDUCTA DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Sección Administrativa Periódico Oficial del Estado de Campeche, el martes 14 de Marzo de 2023.
 
@@ -45,7 +45,9 @@ La Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de 
 
 Hoy se precisa de la corresponsabilidad de todas y todos los que conformamos a la Promotora, para actuar bajo principios y conductas éticas específicas, a fin de que la actividad pública sea de valor, y se produzcan los resultados e impactos que la sociedad requiere y exige, para la consecución de los objetivos institucionales.
 
-El Código de Conducta de la Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE, es el instrumento que refrenda el empeño por erradicar comportamientos inaceptables, promoviendo una identidad y cultura institucional, alienada con la nueva ética pública, la integridad, la transparencia, la rendición de cuentas, la economía y la identificación y gestión de los conflictos de intereses; y asimismo delimita la actuación que todos debemos observar, para garantizar una conducta ejemplar en el desarrollo y cumplimiento de nuestras funciones.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+El Código de Conducta de la Promotora, es el instrumento que refrenda el empeño por erradicar comportamientos inaceptables, promoviendo una identidad y cultura institucional, alienada con la nueva ética pública, la integridad, la transparencia, la rendición de cuentas, la economía y la identificación y gestión de los conflictos de intereses; y asimismo delimita la actuación que todos debemos observar, para garantizar una conducta ejemplar en el desarrollo y cumplimiento de nuestras funciones.
 
 En consecuencia, les extiendo una atenta invitación a conocer, observar, cumplir y difundir el Código de Conducta, pero sobre todo, asumir con convicción, el compromiso de actuar bajo el principio de rechazo absoluto a cualquier acto de corrupción, a las conductas discriminatorias, y de hostigamiento sexual y acoso sexual; que atentan contra la integridad y dignidad de las personas, y asimismo a reafirmar desde su quehacer cotidiano e institucional, la cultura de excelencia en el servicio público.
 
@@ -59,13 +61,19 @@ JUNTA DE GOBIERNO DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVEN
 
 OBJETIVO
 
-Este Código de Conducta establece la forma en que todas las personas servidoras públicas debemos apegarnos a los principios, valores y reglas de integridad que rigen nuestro actuar cotidiano. Se desarrolla como un instrumento de orientación en el desempeño de nuestras funciones y la toma de decisiones, ofreciéndonos pautas de conducta y ayudándonos a tener presente la visión que debemos perseguir para lograr la misión de la Institución, promoviendo el compromiso y servicio a la sociedad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-Es un instrumento de carácter obligatorio para todas las personas servidoras públicas que desempeñen en general un empleo, cargo, comisión o función en el interior de la Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE.
+Este Código de Conducta establece la forma en que todas las personas servidoras públicas debemos apegarnos a los principios, valores y reglas de integridad que rigen nuestro actuar cotidiano. Se desarrolla como un instrumento de orientación en el desempeño de nuestras funciones y la toma de decisiones, ofreciéndonos pautas de conducta y ayudándonos a tener presente la visión que debemos perseguir para lograr la misión de la Entidad, promoviendo el compromiso y servicio a la sociedad.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Es un instrumento de carácter obligatorio para todas las personas servidoras públicas que desempeñen en general un empleo, cargo, comisión o función en el interior de la Promotora.
 
 MISIÓN
 
-Somos una Promotora de Eventos que ofrece al mercado local, regional, nacional e internacional un servicio innovador bajo un marco sustentable, con el apoyo estratégico de un talento humano calificado, asesoría especializada, un excelente soporte logístico y tecnología de punta, que permitan materializar las ideas, actividades y proyectos del cliente.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Somos una Promotora que ofrece al mercado local, regional, nacional e internacional un servicio innovador bajo un marco sustentable, con el apoyo estratégico de un talento humano calificado, asesoría especializada, un excelente soporte logístico y tecnología de punta, que permitan materializar las ideas, actividades y proyectos del cliente.
 
 VISIÓN
 
@@ -77,57 +85,137 @@ Además de las definiciones previstas en la Ley General de Responsabilidades Adm
 
 I. Acoso Laboral: A la forma de violencia psicológica, o de acoso moral, practicada en el ámbito laboral, que consiste en acciones de intimidación sistemática y persistente, como palabras, actos, gestos y escritos que atentan contra la personalidad, la dignidad o la integridad de la víctima. Puede ser ejercido por agresores de jerarquías superiores, iguales o incluso inferiores a las de las víctimas;
 
-II. Acoso Sexual: A la forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-III. Carta Compromiso: A la carta donde la persona servidora pública adscrita a esta Entidad hace constar que conoce y comprende el Código de Conducta, asumiendo el compromiso de cumplirlo durante el desempeño de su empleo, cargo, comisión o función;
+II. Acoso Sexual: A la forma de violencia de carácter sexual y lasciva en la que, si bien no existe una subordinación jerárquica de la víctima frente a la persona agresora, la cual inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, hay un ejercicio abusivo de poder por parte de quien la realiza, que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos esta clase. Esta clase de violencia puede tener lugar entre personas servidoras públicas o entre éstas hacia los particulares y es expresado en conductas de hecho o verbales, físicas o visuales;
 
-IV. Código de Conducta: Al instrumento emitido por la o el titular de la Dependencia, Entidad, a propuesta de los Comités de Ética, en el que se establecen las directrices en materia de Conducta que deben observar los servidores públicos de la Administración Pública del Estado de Campeche;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-V. Código de Ética Al Código de Ética de los servidores públicos de la Administración Pública del Estado de Campeche, que establece los parámetros generales de valoración y actuación respecto al comportamiento de una persona servidora pública en el ejercicio de su empleo, cargo, comisión o función;
+III. Autoridad Investigadora: A la Secretaría de la Contraloría, encargada de investigar las conductas de las personas servidoras públicas.
 
-VI. Comité: Al Comité de Ética, en su caso a los subcomités o comisiones permanentes o temporales que se establezcan conforme a los Lineamientos Generales, como órganos democráticamente integrados que tienen a su cargo el fomento de la ética e integridad en el servicio público a través de acciones de orientación, capacitación y difusión en las Dependencias y Entidades de la Administración Pública del Estado de Campeche;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VII. Denuncia: A la narrativa que formula cualquier persona sobre un hecho o conducta atribuida a una persona servidora pública, y que resulta presuntamente contraria a los Códigos de Ética y de Conducta y a las Reglas de Integridad;
+IV. Carta Compromiso: A la carta donde la persona servidora pública adscrita a la promotora hace constar que conoce y comprende el Código de Conducta, asumiendo el compromiso de cumplirlo durante el desempeño de su empleo, cargo, comisión o función;
 
-VIII. Dependencias: Las secretarías que integran la administración pública estatal, señaladas en el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Campeche;
+V. Código de Conducta: Al instrumento emitido por la o el titular de la Dependencia, Entidad, a propuesta de los Comités de Ética, en el que se establecen las directrices en materia de Conducta que deben observar los servidores públicos de la Administración Pública del Estado de Campeche;
 
-IX. Discriminación: Es toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+VI. Código de Ética: Al Código de Ética de los servidores públicos de la Administración Pública del Estado de Campeche, que establece los parámetros generales de valoración y actuación respecto al comportamiento de una persona servidora pública en el ejercicio de su empleo, cargo, comisión o función;
 
-X. Entidades: A los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan carácter de Entidad Paraestatal;
+VII. Comité: Al Comité de Ética, en su caso a los subcomités o comisiones permanentes o temporales que se establezcan conforme a los Lineamientos Generales, como órganos democráticamente integrados que tienen a su cargo el fomento de la ética e integridad en el servicio público a través de acciones de orientación, capacitación y difusión en las Dependencias y Entidades de la Administración Pública del Estado de Campeche;
 
-XI. Hostigamiento sexual: Es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o ambas relacionadas con la sexualidad de connotación lasciva;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XII. Juicio Ético: : (SIC) Es el ejercicio individual de ponderación de principios o valores que lleve a cabo cada persona servidora pública, previo a la toma de decisiones y acciones vinculadas con el desempeño de su empleo, cargo, comisión o función;
+VIII. Corrupción: Al abuso de cualquier posición de poder, púbico o privada, con el objetivo de generar un beneficio indebido a costa del bienestar colectivo o individual;
 
-XIII. Liderazgo: A la capacidad de promover y aplicar valores y principios en la sociedad y en los lugares en los que se desempeñe un cargo y comisión, partiendo del ejemplo personal;
+IX. Denuncia: A la narrativa que formula cualquier persona sobre un hecho o conducta atribuida a una persona servidora pública, y que resulta presuntamente contraria a los Códigos de Ética y de Conducta y a las Reglas de Integridad;
 
-XIV. LGRA: A la Ley General de Responsabilidades Administrativas;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XV. OIC: Al Órgano Interno de Control;
+X. Denunciante: A la persona servidora pública que acude ante el Comité para denunciar el incumplimiento del Código de Ética, las Reglas de Integridad y el Código de Conducta;
 
-XVI. Persona Asesora: Al servidor público que orienta y acompaña a la presunta víctima de actos en contra de la dignidad de las personas conforme al Protocolo de actuación de los Comités de Ética y que tiene el carácter de figura mediadora;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XVII. Persona Consejera: Al servidor o servidora pública que orientará y acompañará a la presunta víctima por hostigamiento sexual y acoso sexual, conforme al Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual;
+XI. Dependencias: Las secretarías que integran la administración pública estatal, señaladas en el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Campeche
 
-XVIII. Persona Invitada: A los Titulares de las Unidades Administrativas como lo son: el Órgano Interno de control, la de atención de Asuntos Jurídicos y la de atención de Recursos Humanos;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XIX. Promovente: A cualquier persona que haga del conocimiento al Comité presuntos incumplimientos al Código de Conducta;
+XII. Derechos Humanos: Son derechos inherentes a todos los seres humanos, sin distinción alguna de nacionalidad, lugar de residencia, sexo, origen nacional o étnico, color, religión, lengua, o cualquier otra condición. Todos tenemos los mismos derechos humanos, sin discriminación alguna
 
-XX. Riesgo Ético: A las situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificadas a partir de un diagnóstico que realicen las Dependencias, Entidades o Empresas Productivas del Estado, en términos de lo ordenado por el artículo 15 de la Ley General de Responsabilidades Administrativas;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XXI. Promotora: La Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE;
+XIII. Dignidad: A la condición que tiene cada persona como titular de derechos para ser respetado y a no ser objeto de violencia o arbitrariedades por parte de las instituciones de gobierno, de modo que todas las personas servidoras públicas se encuentran obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación, garantizando que no sea afectado el núcleo esencial de sus derechos;
 
-XXII. Unidad: A la Unidad Especializada en Ética y Prevención de Conflictos de Interés (UEEPCI).
+XIV. Discriminación: Es toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
+XV. Entidades: A los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan carácter de Entidad Paraestatal;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XVI. Entidad Paraestatal: Son los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, cuya creación, organización, funcionamiento, control y extinción se determinará por la Ley de la materia.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XVII. Ética pública: Al conjunto de principios, valores y reglas de integridad orientados al interés público, conforme a los cuales deben actuar todas las personas adscritas a las Entidades de la Administración Pública del Estado de Campeche, sin importar el nivel jerárquico, en aras de aspirar a la excelencia en el servicio público que logre contar con la confianza de la sociedad;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XVIII. Equidad de Género: Permite brindar a las mujeres y a los hombres las mismas oportunidades, condiciones, y formas de trato, sin dejar a un lado las particularidades de cada uno(a) de ellos (as) que permitan y garanticen el acceso a los derechos que tienen como ciudadanos(as).
+
+XIX. Hostigamiento sexual: Es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o ambas relacionadas con la sexualidad de connotación lasciva;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XX. Igualdad sustantiva: Al acceso al mismo trato y oportunidad para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXI. Interés público: Al deber de las personas servidores públicas de buscar en toda decisión y acción, la prevalencia de la justicia y el bienestar de la sociedad, por lo que cualquier determinación u omisión es de importancia y trascendencia para el ejercicio de una debida administración pública;
+
+XXII. Juicio Ético: Es el ejercicio individual de ponderación de principios o valores que lleve a cabo cada persona servidora pública, previo a la toma de decisiones y acciones vinculadas con el desempeño de su empleo, cargo, comisión o función;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Lenguaje incluyente y no sexista: A la comunicación verbal y escrita que tiene por finalidad visibilizar a las mujeres para equilibrar las asimetrías de género, así como valorar la diversidad que compone nuestra sociedad haciendo visibles a las personas y grupos históricamente discriminados;
+
+XXIV. LGRA: A la Ley General de Responsabilidades Administrativas;
+
+XXV. Liderazgo: A la capacidad de promover y aplicar valores y principios en la sociedad y en los lugares en los que se desempeñe un cargo y comisión, partiendo del ejemplo personal;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXVI. Lineamiento de los Comités de Ética: A los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética de la Administración Pública del Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXVII. Lineamientos: A los lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicados mediante acuerdo en el Diario Oficial de la Federación el 12 de octubre de 2018, mismos que definen los principio y valores del servidor público;
+
+XXVIII. OIC: Al Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXIX. Persona Asesora: A la persona servidora pública que orienta y acompaña a la presunta víctima de actos en contra de la dignidad de las personas conforme al Protocolo de actuación de los Comités de Ética y que tiene el carácter de figura mediadora;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXX. Persona Consejera: A la persona servidora pública integrante del Comité de Ética, que orientará y acompañará a la presunta víctima por hostigamiento sexual y acoso sexual, conforme al Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXXI. Persona Invitada: Es cualquier persona servidora pública cuya participación resulte de interés en las sesiones del Comité de Ética.
+
+XXXII. Promotora: La Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE;
+
+XXXIII. Promovente: A cualquier persona que haga del conocimiento al Comité presuntos incumplimientos al Código de Conducta;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXXIV. Protocolo de Actuación de los Comités de Ética: Es el documento que establece ciertas instrucciones, reglas u acciones a seguir cuando concurren determinadas circunstancias.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXXV. Recursos públicos: Al conjunto de ingresos financieros, bienes materiales y humanos que disponen las Entidades para cumplir con sus funciones y realizar sus objetivos de bienestar social y desarrollo económico.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXXVI. Riesgo Ético: A las situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificadas a partir de un diagnóstico que realice el comité, en términos de lo ordenado por el artículo 15 de la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XXXVII. Unidad: A la Unidad de Especializada en Ética y Prevención de Conflictos de Interés de la Secretaría de la contraloría del Poder Ejecutivo del Estado de Campeche;
 
 El lenguaje empleado en este Código no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
 
 3.- APLICACIÓN Y OBLIGATORIEDAD
 
-Las disposiciones de este Código son de observancia obligatoria para todos (sic) las personas servidoras públicas que desempeñen un empleo, cargo o comisión en la Promotora.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Las disposiciones de este Código son de observancia obligatoria para todas las personas servidoras públicas que desempeñen un empleo, cargo o comisión en la Promotora.
 
 Para la Promotora, resulta particularmente importante cumplir con todas las leyes, reglamentos y demás disposiciones legales que se relacionan con su actividad y que sean aplicables a las operaciones del mismo y su funcionamiento, por lo cual cada una de las y los obligados deberá asumir la tarea de actuar conforme a lo establecido en este código, así como, cumplir todas las leyes aplicables y las políticas y directrices del Organismo, siempre atendiendo a los niveles más altos de compromiso, respeto, honestidad, legalidad, eficiencia, diligencia, imparcialidad, probidad y transparencia.
 
-En consecuencia, cualquier persona, incluido el personal que labore o preste sus servicios en la Promotora, que conozca de posibles faltas o incumplimiento a este Código, por parte de alguna servidora o servidor público podrá interponer una denuncia que dará lugar a los procedimientos administrativos correspondientes conforme a la normatividad vigente y aplicable.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+En consecuencia, cualquier persona, incluido el personal que labore o preste sus servicios en la Promotora, que conozca de posibles faltas o incumplimiento a este Código, por parte de alguna persona servidora pública podrá interponer una denuncia que dará lugar a los procedimientos administrativos correspondientes conforme a la normatividad vigente y aplicable.
 
 4.- CARTA COMPROMISO
 
@@ -139,91 +227,165 @@ Todo el personal que labore o preste sus servicios en la Promotora, suscribirá 
 
 Los principios que toda persona servidora pública debe observar en el desempeño de su empleo, cargo, función o comisión:
 
-I. Competencia por mérito.- Las y los servidores públicos deberán ser seleccionados para sus puestos de acuerdo con su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a las y los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-II. Disciplina.- Las y los servidores públicos desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos;
+I. Competencia por mérito.- Las personas servidoras públicas deberán ser seleccionados para sus puestos de acuerdo con su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a las y los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos;
 
-III. Economía.- Las y los servidores públicos en el ejercicio del gasto público, administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-IV. Eficacia.- Las y los servidores públicos actuarán conforme a una cultura de servicio orientada al logro de resultados, procurando, en todo momento, un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación;
+II. Disciplina.- Las personas servidoras públicas desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos;
 
-V. Eficiencia.- Las y los servidores públicos actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VI. Equidad.- Las y los servidores públicos procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades;
+III. Economía.- Las personas servidoras públicas en el ejercicio del gasto público, administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social;
 
-VII. Honradez.- Las y los servidores públicos se conducirán con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscarán o aceptarán compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes de que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Imparcialidad.- Las y los servidores públicos darán a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
+IV. Eficacia.- Las personas servidoras públicas actuarán conforme a una cultura de servicio orientada al logro de resultados, procurando, en todo momento, un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación;
 
-IX. Integridad.- Las y los servidores públicos actuarán siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo o comisión, convencidas y convencidos en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y que genere certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-X. Lealtad.- Las y los servidores públicos corresponderán a la confianza que el Estado les ha conferido, tendrán una vocación absoluta de servicio a la sociedad y satisfarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
+V. Eficiencia.- Las personas servidoras públicas actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos;
 
-XI. Legalidad.- Las y los servidores públicos harán sólo aquello que las normas expresamente les confieren y, en todo momento, someterán su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocerán y cumplirán las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XII. Objetividad.- Las y los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad;
+VI. Equidad.- Las personas servidoras públicas procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades;
 
-XIII. Profesionalismo.- Las y los servidores públicos deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, y observarán, en todo momento, disciplina, integridad y respeto, tanto a las y los demás servidores públicos como a las y los particulares con los que llegaren a tratar;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XIV. Rendición de cuentas.- Las y los servidores públicos asumirán plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informarán, explicarán y justificarán sus decisiones y acciones, y se sujetarán a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía; y
+VII. Honradez.- Las personas servidoras públicas se conducirán con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscarán o aceptarán compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes de que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio;
 
-XV. Transparencia.- Las y los servidores públicos en el ejercicio de sus funciones privilegiarán el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generen, obtengan, adquieran, transformen o conserven, y, en el ámbito de su competencia, difundirán de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Imparcialidad.- Las personas servidoras públicas darán a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+IX. Integridad.- Las personas servidoras públicas actuarán siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo o comisión, convencidas y convencidos en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y que genere certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+X. Lealtad.- Las personas servidoras públicas corresponderán a la confianza que el Estado les ha conferido, tendrán una vocación absoluta de servicio a la sociedad y satisfarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XI. Legalidad.- Las personas servidoras públicas harán sólo aquello que las normas expresamente les confieren y, en todo momento, someterán su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocerán y cumplirán las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XII. Objetividad.- Las personas servidoras públicas deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Profesionalismo.- Las personas servidoras públicas deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, y observarán, en todo momento, disciplina, integridad y respeto, tanto a las y los demás servidores públicos como a las y los particulares con los que llegaren a tratar;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Rendición de cuentas.- Las personas servidoras públicas asumirán plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informarán, explicarán y justificarán sus decisiones y acciones, y se sujetarán a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía; y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XV. Transparencia.- Las personas servidoras públicas en el ejercicio de sus funciones privilegiarán el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generen, obtengan, adquieran, transformen o conserven, y, en el ámbito de su competencia, difundirán de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
 
 6.- VALORES
 
 Los valores que toda persona servidora pública de la Promotora, debe anteponer en el desempeño de su empleo, cargo, función o comisión:
 
-I. Cooperación.- Las y los servidores públicos serán guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentarán y aplicarán, en el desempeño de sus funciones, los principios que la Constitución y la Ley les imponen, así como aquellos valores adicionales que, por su importancia, son intrínsecos al servicio público;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-II. Entorno cultural y ecológico.- Las y los servidores públicos en el desarrollo de sus actividades, evitarán la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumirán una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y, en el ejercicio de sus funciones y conforme a sus atribuciones, promoverán en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras;
+I. Cooperación.- Las personas servidoras públicas serán guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentarán y aplicarán, en el desempeño de sus funciones, los principios que la Constitución Política de los Estados Unidos Mexicanos y la Ley les imponen, así como aquellos valores adicionales que, por su importancia, son intrínsecos al servicio público;
 
-III. Equidad de género.- Las y los servidores públicos, en el ámbito de sus competencias y atribuciones, garantizarán que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-IV. Igualdad y no discriminación.- Las y los servidores públicos prestarán sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
+II. Entorno cultural y ecológico.- Las personas servidoras públicas en el desarrollo de sus actividades, evitarán la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumirán una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y, en el ejercicio de sus funciones y conforme a sus atribuciones, promoverán en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras;
 
-V. Interés público.- Las y los servidores públicos actuarán buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VI. Liderazgo.- Las y los servidores públicos serán guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentarán y aplicarán, en el desempeño de sus funciones, los principios que la Constitución y la Ley les imponen, así como aquellos valores adicionales que, por su importancia, son intrínsecos al servicio público;
+III. Equidad de género.- Las personas servidoras públicas, en el ámbito de sus competencias y atribuciones, garantizarán que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales;
 
-VII. Respeto.- Las y los servidores públicos se conducirán con austeridad y sin ostentación, y otorgarán un trato digno y cordial a las personas en general y a sus compañeras y compañeros de trabajo, superiores y subordinados, considerando sus derechos de tal manera que propicien el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Respeto a los derechos humanos.- Las y los servidores públicos respetarán, promoverán, protegerán y garantizarán, en el ámbito de sus respectivas competencias y atribuciones, los derechos humanos, con base en los principios de universalidad, interdependencia, indivisibilidad y progresividad, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado Mexicano sea parte.
+IV. Igualdad y no discriminación.- Las personas servidoras públicas prestarán sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+V. Interés público.- Las personas servidoras públicas actuarán buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VI. Liderazgo.- Las personas servidoras públicas serán guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentarán y aplicarán, en el desempeño de sus funciones, los principios que la Constitución Política de los Estados Unidos Mexicanos y la Ley les imponen, así como aquellos valores adicionales que, por su importancia, son intrínsecos al servicio público;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VII. Respeto.- Las personas servidoras públicas se conducirán con austeridad y sin ostentación, y otorgarán un trato digno y cordial a las personas en general y a sus compañeras y compañeros de trabajo, superiores y subordinados, considerando sus derechos de tal manera que propicien el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público; y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Respeto a los derechos humanos.- Las personas servidoras públicas respetarán, promoverán, protegerán y garantizarán, en el ámbito de sus respectivas competencias y atribuciones, los derechos humanos, con base en los principios de universalidad, interdependencia, indivisibilidad y progresividad, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
 7.- REGLAS DE INTEGRIDAD
 
 Las reglas de integridad que toda persona servidora pública de la Promotora, deberá cumplir son:
 
-I. Actuación pública.- La o el servidor público que desempeñe un empleo, cargo o comisión, conducirá su actuación con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-II. Información pública.- La o el servidor público que desempeñe un empleo, cargo o comisión, conducirá su actuación conforme al principio de transparencia y resguardará la documentación e información gubernamental que tiene bajo su responsabilidad;
+I. Actuación pública.- La persona servidora pública que desempeñe un empleo, cargo o comisión, conducirá su actuación con transparencia, honestidad, lealtad, cooperación, austeridad, eficiencia, eficacia, economía, honradez, imparcialidad, sin ostentación y con una clara orientación al interés público;
 
-III. Contrataciones públicas, licencias, permisos, autorizaciones y concesiones.- La o el servidor público que con motivo de su empleo, cargo o comisión, o a través de subordinadas o subordinados, participe en contrataciones públicas o en el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones, se conducirá con transparencia, imparcialidad y legalidad; orientará sus decisiones a las necesidades e intereses de la sociedad, y garantizará las mejores condiciones para el Estado;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-IV. Programas gubernamentales.- La o el servidor público que, con motivo de su empleo, cargo o comisión, o a través del personal subordinado, participe en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, garantizará que la entrega de estos beneficios se apegue a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto;
+II. Información pública.- La persona servidora pública que desempeñe un empleo, cargo o comisión, conducirá su actuación conforme al principio de transparencia y resguardará la documentación e información gubernamental que tiene bajo su responsabilidad;
 
-V. Trámites y servicios.- La o el servidor público que, con motivo de su empleo, cargo o comisión, participe en la prestación de trámites y en el otorgamiento de servicios, atenderá a las y los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VI. Recursos humanos.- La o el servidor público que participe en procedimientos de recursos humanos, de planeación de estructuras o que desempeñe en general un empleo, cargo o comisión, se apegará a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas;
+III. Contrataciones públicas, licencias, permisos, autorizaciones y concesiones.- La persona servidora pública que con motivo de su empleo, cargo o comisión, o a través de subordinadas o subordinados, participe en contrataciones públicas o en el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones, se conducirá con transparencia, imparcialidad y legalidad; orientará sus decisiones a las necesidades e intereses de la sociedad, y garantizará las mejores condiciones para el Estado;
 
-VII. Administración de bienes muebles e inmuebles.- La o el servidor público que, con motivo de su empleo, cargo o comisión, participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administrará los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Procesos de evaluación.- La o el servidor público que, con motivo de su empleo, cargo o comisión, participe en procesos de evaluación, se apegará en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas;
+IV. Programas gubernamentales.- La persona servidora pública que, con motivo de su empleo, cargo o comisión, o a través del personal subordinado, participe en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, garantizará que la entrega de estos beneficios se apegue a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto;
 
-IX. Control interno.- La o el servidor público que en el ejercicio de su empleo, cargo o comisión, participe en procesos en materia de control interno, generará, obtendrá, utilizará y comunicará información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-X. Procedimiento administrativo.- La o el servidor público que en el ejercicio de su empleo, cargo o comisión, participe en procedimientos administrativos tendrá una cultura de denuncia, respetará las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad;
+V. Trámites y servicios.- La persona servidora pública que, con motivo de su empleo, cargo o comisión, participe en la prestación de trámites y en el otorgamiento de servicios, atenderá a las y los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial;
 
-XI. Desempeño permanente con integridad.- La o el servidor público que desempeñe un empleo, cargo o comisión, conducirá su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-XII. Cooperación con la integridad.- La o el servidor público en el desempeño de su empleo, cargo o comisión, cooperará con la Dependencia o Entidad en la que labora y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos al servicio público, en el fortalecimiento de la cultura ética y de servicio a la sociedad; y
+VI. Recursos humanos.- La persona servidora pública que participe en procedimientos de recursos humanos, de planeación de estructuras o que desempeñe en general un empleo, cargo o comisión, se apegará a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas;
 
-XIII. Comportamiento digno.- La o el servidor público en el desempeño de su empleo, cargo o comisión, se conduce en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en el servicio público.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VII. Administración de bienes muebles e inmuebles.- La persona servidora pública que, con motivo de su empleo, cargo o comisión, participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administrará los recursos con eficiencia, eficacia, transparencia y honradez para satisfacer los objetivos a los que están destinados;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Procesos de evaluación.- La persona servidora pública que, con motivo de su empleo, cargo o comisión, participe en procesos de evaluación, se apegará en todo momento a los principios de legalidad, imparcialidad, honradez, profesionalismo y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+IX. Control interno.- La persona servidora pública que en el ejercicio de su empleo, cargo o comisión, participe en procesos en materia de control interno, generará, obtendrá, utilizará y comunicará información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, honradez, integridad, profesionalismo, objetividad, imparcialidad y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+X. Procedimiento administrativo.- La persona servidora pública que, en el ejercicio de su empleo, cargo o comisión, participe en procedimientos administrativos tendrá una cultura de denuncia, respetará las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XI. Desempeño permanente con integridad.- La persona servidora pública que desempeñe un empleo, cargo o comisión, conducirá su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, honradez, eficiencia, eficacia, equidad, ética e integridad;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XII. Cooperación con la integridad.- La persona servidora pública en el desempeño de su empleo, cargo o comisión, cooperará con la Entidad en la que labora y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos al servicio público, en el fortalecimiento de la cultura ética y de servicio a la sociedad; y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Comportamiento digno.- La persona servidora pública en el desempeño de su empleo, cargo o comisión, se conduce en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento laboral o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en el servicio público.
 
 ### CAPITULO III. CONDUCTAS DE FOMENTO A LA INTEGRIDAD
 
 8.- CONDUCTAS DE LOS SERVIDORES PÚBLICOS
 
-Todas las personas servidoras públicas que integra (sic) a la Promotora, deberá (sic) cumplir en el desempeño de sus funciones con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Todas las personas servidoras públicas que integran la promotora, deberá (sic) cumplir en el desempeño de sus funciones con lo siguiente:
 
 A. Compromisos con mi trabajo.
 
@@ -273,7 +435,9 @@ Vinculación.
 
 IV. Hago uso adecuado de los recursos informáticos
 
-Cumplo las indicaciones y las políticas de seguridad informática de PROEVENTOS CAMPECHE, haciendo uso de las herramientas y recursos tecnológicos únicamente para el desempeño de mis funciones, absteniéndome de darles uso distinto al del ejercicio de estas, así como evitando instalar programas o aplicaciones ajenos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Cumplo las indicaciones y las políticas de seguridad informática de la promotora, haciendo uso de las herramientas y recursos tecnológicos únicamente para el desempeño de mis funciones, absteniéndome de darles uso distinto al del ejercicio de estas, así como evitando instalar programas o aplicaciones ajenos.
 
 Vinculación.
 
@@ -319,7 +483,9 @@ Hago buen uso de los salones de los Recintos administrados por el Organismo, no 
 
 Vinculación.
 
-- Principios: Eficacia, Eficiencia, Integridad y Profesionalismo,
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+- Principios: Eficacia, Eficiencia, Integridad, Honradez y Profesionalismo,
 
 - Valores: Cooperación, Entorno Cultural y Ecológico, y respeto.
 
@@ -349,7 +515,9 @@ b) Específicos.
 
 Vinculación.
 
-- Principios: Eficacia, imparcialidad, integridad, profesionalismo.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+- Principios: Eficacia, Imparcialidad, Integridad, Legalidad, Honradez y Profesionalismo.
 
 - Valores: Respeto, Respeto a los Derechos Humanos, Igualdad y No Discriminación.
 
@@ -357,15 +525,21 @@ Vinculación.
 
 - Directriz: Artículo 7, fracción (sic) V, VII y VIII de la LGRA.
 
-B. Compromiso con mis compañeras y compañeros.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+B. Compromiso con las personas servidoras públicas.
 
 I. Actúo con Respeto como servidor público.
 
-Le ofrezco a mis compañeras y compañeros un trato basado en el respeto mutuo, la cortesía y la igualdad, sin importar la jerarquía evitando actitudes y conductas ofensivas, así como el empleo de lenguaje soez, prepotente o abusivo y cualquier acción u omisión que menoscabe la dignidad humana, los derechos humanos, las libertades o que constituya o pueda constituir alguna forma de daño a la integridad humana.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Le ofrezco a las personas servidoras públicas un trato basado en el respeto mutuo, la cortesía y la igualdad, sin importar la jerarquía evitando actitudes y conductas ofensivas, así como el empleo de lenguaje soez, prepotente o abusivo y cualquier acción u omisión que menoscabe la dignidad humana, los derechos humanos, las libertades o que constituya o pueda constituir alguna forma de daño a la integridad humana.
 
 Vinculación.
 
-- Principios: Equidad, Imparcialidad, Lealtad y Profesionalismo.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+- Principios: Equidad, Imparcialidad, Lealtad, Honradez, Disciplina y Profesionalismo.
 
 - Valores: Interés Público, Respeto, y Respeto a los Derechos Humanos.
 
@@ -389,11 +563,15 @@ Vinculación.
 
 III. No tolero ni fomento el acoso ni hostigamiento sexual.
 
-Es mi compromiso y convicción velar por la integridad y dignidad de mis compañeras y compañeros, y de todas las personas con quienes tengo trato, por lo que no fomento, ni tolero, el hostigamiento y el acoso sexual, así como ningún acto o tipo de violencia en contra de las personas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Es mi compromiso y convicción velar por la integridad y dignidad de las personas servidoras públicas, y de todas las personas con quienes tengo trato, por lo que no fomento, ni tolero, el hostigamiento y el acoso sexual, así como ningún acto o tipo de violencia en contra de las personas.
 
 Vinculación.
 
-- Principios: Equidad, Integridad y Profesionalismo.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+- Principios: Equidad, Integridad, Legalidad, Imparcialidad y Profesionalismo.
 
 - Valores: Respeto a los Derechos Humanos.
 
@@ -407,7 +585,9 @@ Contribuyo a mantener un ambiente y clima laboral cordial. Evito y denuncio cual
 
 Vinculación.
 
-- Principios: Competencia por Mérito, Disciplina, Integridad y Profesionalismo.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+- Principios: Competencia por Mérito, Disciplina, Integridad, Honradez, Legalidad y Profesionalismo.
 
 - Valores: Respeto a los Derechos Humanos, Igualdad y No Discriminación.
 
@@ -449,7 +629,9 @@ Vinculación.
 
 9.- JUICIOS ÉTICOS
 
-Los servidores públicos de la Promotora, previo a la toma de decisiones o acciones vinculadas con el desempeño de su empleo, cargo o comisión podrán realizarse las siguientes preguntas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Las personas servidoras públicas de la Promotora, previo a la toma de decisiones o acciones vinculadas con el desempeño de su empleo, cargo o comisión deberán realizarse las siguientes preguntas:
 
 1. ¿Mi actuar está ajustado a la normativa a la que estoy obligado a observar?
 
@@ -457,15 +639,25 @@ Los servidores públicos de la Promotora, previo a la toma de decisiones o accio
 
 3. ¿Mi conducta está alineada a los objetivos de la Promotora?
 
-4. ¿He comprendido todas las consecuencias que puede tener el ejercicio de esta decisión?
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-En caso de que la respuesta a dichas preguntas se estime negativa o derive en una duda, se recomienda acudir con la persona superior jerárquica, al Comité o a la Unidad, a fin de recibir la asesoría que corresponda.
+4. ¿Mi conducta se apega a los valores que promueve la Promotora?
+
+5. ¿He comprendido todas las consecuencias que puede tener el ejercicio de esta decisión?
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+En caso de que la respuesta a dichas preguntas se estime negativa o derive en una duda, se recomienda acudir al Comité para recibir la asesoría que corresponda, quien integrará un expediente de la consulta, remitiendo una respuesta por escrito.
 
 10.- RIESGO ÉTICO
 
-Son las situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificadas a partir del diagnóstico que realicen, las dependencias, entidades, por lo que la participación de todas las personas servidoras públicas se asegurará mediante el siguiente mecanismo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-Se realizará una encuesta semestral con la participación de todas las personas servidoras públicas de la Promotora, que incluya incisos relativos a las conductas enunciadas en este Código, que, bajo declaración de decir verdad, respondan cada uno de esos ítems en sentido positivo o negativo.
+Son las situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificadas a partir del diagnóstico que realicen la Promotor, entidades, por lo que la participación de todas las personas servidoras públicas se asegurará mediante el siguiente mecanismo:
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+El Comité realizará una encuesta semestral por escrito, con la participación de todas las personas servidoras públicas de la Promotora, que incluya incisos relativos a las conductas enunciadas en este Código, que, bajo declaración de decir verdad, respondan cada uno de esos ítems en sentido positivo o negativo.
 
 Esta encuesta brindará la oportunidad a cada persona servidora pública de informar de manera voluntaria sobre alguna conducta indebida realizada por ella misma.
 
@@ -475,7 +667,9 @@ La encuesta, por su propia esencia, servirá también como un recordatorio peri�
 
 ### CAPITULO V. DENUNCIAS POR INCUMPLIMIENTO
 
-El Comité en coordinación con la Unidad y el OIC de la Entidad, promoverán, supervisarán y harán cumplir el presente Código, sin embargo, la responsabilidad primaria de adoptarlo y mantener una cultura de excelencia ética en la Promotora, recae en todas las personas servidoras públicas.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+El Comité en coordinación con el OIC de la Entidad, promoverán, supervisarán y harán cumplir el presente Código, sin embargo, la responsabilidad primaria de adoptarlo y mantener una cultura de excelencia ética en la Promotora, recae en todas las personas servidoras públicas.
 
 11.- DE LOS MEDIOS DE PRESENTACIÓN
 
@@ -485,13 +679,19 @@ En caso de que presenciemos o identifiquemos alguna conducta contraria a la inte
 
 a) Medios electrónicos: La denuncia deberá ser presentada a través del Correo electrónico denuncias.proeventos@gmail.com
 
-b) Medios físicos: Directa. Es la proporcionada por el interesado de manera personal en la oficina de la Secretaría Ejecutiva del Comité de Ética, en días y horas hábiles, en el domicilio ubicado en Avenida Pedro Sainz de Baranda, Número 219, entre Avenida Luis Alvaréz Barret y Avenida Román Piña Chan, Colonia Ah-Kim-Pech, C.P. 24014, San Francisco de Campeche, Campeche.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-c) Buzón: Es la recepción en el buzón colocado para esos efectos en las instalaciones de la Promotora, con domicilio ubicado en Avenida Pedro Sainz de Baranda, Número 219, entre Avenida Luis Alvaréz Barret y Avenida Román Piña Chan, Colonia Ah-Kim-Pech, C.P. 24014, San Francisco de Campeche, Campeche.
+b) Medios físicos: Directa. Es la proporcionada por el interesado de manera personal en la oficina de la Secretaría Ejecutiva del Comité de Ética, en días hábiles, en un horario de 08:00 a 16:00 horas en el domicilio ubicado en Avenida Pedro Sainz de Baranda, Número 219, entre Avenida Luis Álvarez Barret y Avenida Román Piña Chan, Colonia Ah-Kim-Pech, C.P. 24014, San Francisco de Campeche, Campeche.
 
-2. En los casos en que se denuncien conductas de acoso y hostigamiento sexual, se deberá acudir ante la Persona Consejera, el Comité u OIC. Dicha persona orientará y asesorará sobre los derechos conforme a lo previsto en el Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual.
+c) Buzón: Es la recepción en el buzón colocado para esos efectos en las instalaciones de la Promotora, con domicilio ubicado en Avenida Pedro Sainz de Baranda, Número 219, entre Avenida Luis Álvarez Barret y Avenida Román Piña Chan, Colonia Ah-Kim-Pech, C.P. 24014, San Francisco de Campeche, Campeche.
 
-3. En los supuestos en que se deseen denunciar hechos de discriminación se deberá acudir ante la Persona Asesora, a quien podrás ubicar en el Directorio disponible del Comité.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+2. En los casos en que se denuncien conductas de acoso y hostigamiento sexual, se deberá acudir ante la Persona Consejera, el Comité u OIC, a quienes podrá ubicar en el Directorio disponible del Comité en los estrados de la Promotora. Estas personas orientarán y asesorarán sobre los derechos conforme a lo previsto en el Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+3. En los supuestos en que se deseen denunciar hechos de discriminación se deberá acudir ante la Persona Asesora, a quien podrás ubicar en el Directorio disponible del Comité, en los estrados de la Promotora.
 
 12.- DE LA CONFIDENCIALIDAD DE LA INFORMACIÓN.
 
@@ -528,3 +728,13 @@ Atentamente
 (Nombre/firma)
 
 (Cargo/Unidad Administrativa)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE MODIFICA EL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE".]
+
+PRIMERO.- Se instruye a todos los servidores públicos de la Promotora de Eventos, Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
+
+SEGUNDO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
