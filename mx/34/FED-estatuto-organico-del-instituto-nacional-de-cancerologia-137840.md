@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cancerologia-137840
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-08-26"
-last_updated: "2024-05-03"
+last_updated: "2024-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-08-22"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CANCEROLOGIA
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/SALUD/Modificaciones_Estatuto_Organico_INCan_27_03_2024.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/SALUD/Modificaciones_Estatuto_Organico_INCan_23_09_2024.pdf]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CANCEROLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 26 de agosto de 2019.
 
@@ -231,9 +231,7 @@ f) Clínicas y Centros:
 
 8. Centro de Mezclas.
 
-> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
-
-9. Centro de Apoyo para la Atención Integral.
+9. (DEROGADO, D.O.F. 4 DE NOVIEMBRE DE 2024)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 3 DE AGOSTO DE 2021)</small>
 
@@ -342,6 +340,10 @@ g) Servicios:
 > <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 27. Servicio de Cuidados Paliativos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
+
+28. Unidad de Oncología Integrativa.
 
 > <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
@@ -817,9 +819,7 @@ XVI. Asesorar y conducir al área médica sobre los programas y prácticas compl
 
 XVII. Otorgar a los pacientes, familiares y trabajadores del Instituto, un espacio para la realización de actividades que les sirvan como herramientas para mejorar su calidad de vida.
 
-> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
-
-XVIII. Difundir, coordinar y supervisar la labor del Centro de Apoyo para la Atención Integral para poner al alcance de todos los usuarios los servicios del mismo y pueda ser de provecho y utilidad.
+XVIII. (DEROGADA, D.O.F. 4 DE NOVIEMBRE DE 2024)
 
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
@@ -867,9 +867,9 @@ XXVIII. Las demás atribuciones que le sean conferidas por la Dirección General
 
 La Subdirección de Oncología y Hematología tendrá, entre otras, las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
 
-I. Coordinar, supervisar y evaluar las actividades de los Departamentos de Oncología Médica, Hematología, Infectología y Epidemiología, Oncología Torácica, Medicina Interna, Salud Mental y, Farmacia y Centro de Mezclas; así como las áreas que prestan los servicios de Cuidados Paliativos, Laboratorio de Medicina Traslacional, Farmacovigilancia, Quimioterapia y clínicas adscritas para garantizar su adecuado funcionamiento.
+I. Coordinar, supervisar y evaluar las actividades de los Departamentos de Oncología Médica, Hematología, Infectología y Epidemiología, Oncología Torácica, Medicina Interna, Salud Mental y, Farmacia y Centro de Mezclas; así como las áreas que prestan los servicios de Cuidados Paliativos, Farmacovigilancia, Quimioterapia y clínicas adscritas para garantizar su adecuado funcionamiento.
 
 II Proponer la actualización de tecnologías propias de la Subdirección para brindar tratamientos con mayor control de la enfermedad y menor toxicidad.
 
@@ -1339,9 +1339,9 @@ X. Contribuir con las actividades del área de Trabajo Social en la elaboración
 
 XI. Coordinar la recopilación e integración de la información bioestadística que se genera en los diferentes servicios, para la elaboración de los informes sobre la atención asistencial que presta el Instituto, a fin de dar atención a los requerimientos de las diferentes instancias de gobierno.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
 
-XII. Coordinar y supervisar las actividades de los Departamentos de Trabajo Social, de Archivo Clínico y Bioestadística, de Nutrición, de Control, y Referencia de Pacientes, así como del Área de Vinculación Institucional, del Servicio de Cuidados Críticos y demás áreas internas dependientes de la Subdirección, con el fin de brindar atención médica de calidad a los pacientes.
+XII. Coordinar y supervisar las actividades de los Departamentos de Trabajo Social, de Archivo Clínico y Bioestadística, de Nutrición, de Control y Referencia de pacientes, del Servicio de Cuidados Clínicos y demás áreas internas dependientes de la Subdirección, con el fin de brindar atención médica de calidad a los pacientes.
 
 > <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
@@ -1501,6 +1501,10 @@ XIII. Colaborar con la Dirección de Investigación, en los procesos de evaluaci
 
 XIV. Promover el intercambio académico y desarrollar proyectos de investigación clínica y epidemiológica, en conjunto con instituciones nacionales e internacionales que permitan la vinculación para la investigación en cáncer.
 
+> <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
+
+XIV. BIS. Coordinar, supervisar y evaluar las actividades del Laboratorio de Medicina Traslacional, para garantizar su adecuado funcionamiento.
+
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
 
 XV. Proponer a su superior jerárquico, los manuales de organización, de procedimientos, de servicios, de las áreas a su cargo, así como las actualizaciones de éstos.
@@ -1589,9 +1593,13 @@ La Dirección de Docencia tendrá, entre otras, las siguientes funciones:
 
 I. Colaborar y supervisar la formación de recursos humanos especializados para la atención del enfermo con neoplasias, con la finalidad de mejorar la calidad de atención especializada del paciente oncológico en forma integral, mediante la formulación y ejecución de programas y cursos educativos y de capacitación al personal de salud.
 
-> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
 
-I. Bis Conducir, evaluar y supervisar las funciones asignadas a la Subdirección de Educación Médica, así como el Departamento de Educación en Salud, y el Departamento de Comunicación y Contenido Educativo, con el fin de tener una educación de excelencia.
+I. Bis. Conducir, evaluar y supervisar las funciones asignadas a la Subdirección de Educación Médica, así como del Área de Promoción de la Salud, el Departamento de Educación en Salud, y el Departamento de Comunicación y Contenido Educativo, con el fin de tener una educación de excelencia.
+
+> <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
+
+I. Ter. Coordinar, supervisar y difundir las actividades de la Unidad de Oncología Integrativa con el fin de promover la calidad de vida de los pacientes a través de iniciativas de educación a pacientes, familiares y personal de salud.
 
 II. Establecer acuerdos con las instituciones de educación superior del país para otorgar diplomas y reconocimientos de los estudios cursados en las diferentes especialidades que se imparten en el Instituto, con la finalidad de obtener el reconocimiento de las instituciones de educación superior en el proceso de formación y capacitación del personal.
 
@@ -1653,9 +1661,9 @@ XVIII. Gestionar la celebración de convenios con universidades y otros centros 
 
 XIX. Promover la formación de recursos humanos en los niveles de licenciatura, maestría y doctorado.
 
-> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
 
-XX. Coordinar y dirigir los programas educativos de promoción para la salud a población general y los programas de capacitación a voluntarios, cuidadores primarios, sobrevivientes y personal de primer contacto.
+XX. Coordinar y dirigir los programas educativos de promoción para la salud a población general y los programas de capacitación a voluntarios, cuidadores primarios, sobrevivientes y personal de primer contacto a través del Área de Promoción de la Salud.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE MAYO DE 2024)</small>
 
@@ -2317,37 +2325,25 @@ El órgano de vigilancia, se integra por una persona Comisaria Pública Propieta
 
 La persona Comisaria Pública Propietaria tendrá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables y asistirá a la Junta de Gobierno, con voz, pero sin voto.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-El Instituto cuenta con una Oficina de Representación, la persona Titular es designada en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, para el ejercicio de sus facultades, se auxiliará por las personas Titulares de las áreas de Responsabilidades, de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, Quejas, Denuncias e Investigaciones, quienes serán designadas en términos de la normatividad aplicable.
+Esta entidad paraestatal contará con los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, según lo determine la Secretaría de la Función Pública, en términos de lo dispuesto por el artículo 37 fracciones XI Bis, y XII, de la Ley Orgánica de la Administración Pública Federal; así como lo establecido en el Reglamento Interior de la Secretaría de la Función Pública y demás normatividad aplicable. Los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, serán responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en términos de las leyes y disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2024)</small>
+Cuando la Secretaría de la Función Pública determine la creación de una oficina de representación esta auxiliará a los Órganos Internos de Control Especializados y sus Áreas de Especialidad, según su materia y ramo que les corresponda, de conformidad con el Reglamento Interior de la Secretaría de la Función Pública, así como con la normativa que al efecto emita dicha Secretaría. La Oficina de Representación contará con el personal necesario que permita su operación, y tendrá el carácter de unidad administrativa adscrita a esta entidad paraestatal y estará a cargo de un jefe de oficina designado o nombrado por el Coordinador General de Gobierno de Órganos de Control y Vigilancia, de la Secretaría de la Función Pública, de quien dependerán jerárquicamente.
+
+Para efectos del funcionamiento de la Oficina de Representación, también tendrán el carácter de superiores jerárquicos las Titulares de los Órganos Internos de Control Especializados y los Titulares de las áreas de especialidad en la materia y ramo que les corresponda.
+
+El personal adscrito a las áreas de especialidad y a las oficinas de representación podrá ser comisionado para coadyuvar con otras Unidades Administrativas de la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables.
+
+Este Instituto, proporcionará los recursos humanos, tecnológicos, materiales y presupuestales que requiera la Oficina de Representación. Observará en todo momento lo establecido en el artículo Décimo Transitorio de la reforma a la Ley Orgánica de la Administración Pública Federal, publicada en el Diario Oficial de la Federación el 3 de mayo de 2023.
+
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-La Oficina de Representación actuará y ejercerá sus facultades teniendo por objeto apoyar la función del Instituto y promover el mejoramiento de la gestión, manteniendo un adecuado nivel de coordinación con las unidades administrativas y sustantivas que conforman la estructura orgánica del Instituto para el desarrollo de sus funciones, así como requerir la información necesaria para cumplir con sus atribuciones, conforme a lo siguiente:
-
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
-
-I. Recibir e investigar las denuncias que se formulen por posibles actos u omisiones que pudieran constituir faltas administrativas cometidas por servidores públicos o particulares por conductas sancionables, de conformidad con la Ley aplicable, incluidas las que deriven de los resultados de las auditorías practicadas por las autoridades competentes, o en su caso, de auditores externos.
-
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
-
-II. Substanciar los procedimientos de responsabilidades administrativas y sancionar las conductas que constituyan faltas administrativas.
-
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
-
-III. Ordenar y realizar, por sí o en coordinación con las Unidades Administrativas de la Secretaría u otras instancias externas de fiscalización, auditorías y visitas de inspección.
-
-> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2021)</small>
-
-IV. Hacer del conocimiento de las autoridades investigadoras los actos u omisiones por presuntas faltas administrativas de servidores públicos y particulares que hubieren sido detectados en la auditoría, visita de inspección o en el seguimiento de las observaciones a través del informe de irregularidades detectadas.
-
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
-
-V. En los demás casos en que deba intervenir la Oficina de Representación, que para el efecto requiera la propia Secretaría de la Función Pública.
+Las personas servidoras públicas adscritas a la entidad, dentro del ámbito de su competencia, están obligadas a atender los requerimientos de información y resoluciones de las personas servidoras públicas que integran y auxilian a los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, de conformidad con la normatividad aplicable.
 
 ### CAPÍTULO X. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
@@ -2510,3 +2506,15 @@ Fecha de emisión: 27 de marzo de 2024, aprobado por la Junta de Gobierno del In
 Medio de Consulta: El documento se encuentra publicado para su difusión y consulta en el sitio de internet, en la siguiente liga:
 
 www.dof.gob.mx/2024/SALUD/Modificaciones_Estatuto_Organico_INCan_27_03_2024.pdf
+
+D.O.F. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO MEDIANTE EL CUAL SE DA A CONOCER LA LIGA ELECTRÓNICA QUE REDIRIGE A LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CANCEROLOGÍA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se deroga el numeral 9 del inciso f de la fracción IV, se adiciona el numeral 28 del inciso g, fracción IV del ARTÍCULO 4; se deroga la fracción XVIII del ARTÍCULO 29; se reforma la fracción I del ARTÍCULO 30; se reforma la fracción XII del Artículo 36; se adiciona la fracción XIV Bis. del ARTÍCULO 38; se reforma la fracción I Bis., se adiciona la fracción 1 Ter. y se reforma la fracción XX del ARTÍCULO 40; se reforma el ARTÍCULO 69 y; se reforma el ARTÍCULO 70. Las modificaciones del Estatuto Orgánico del Instituto Nacional de Cancerología, entrarán en vigor a partir del día de su aprobación por parte del Órgano de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye su inscripción en el Registro Público de Organismos Descentralizados y su publicación en el Diario Oficial de la Federación.
