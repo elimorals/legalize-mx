@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2024-05-21"
+last_updated: "2024-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1203,11 +1203,11 @@ XXIV. Convocar a elecciones extraordinarias de diputados cuando, por cualquiera 
 
 XXV. Instruir al organismo público local electoral, para que proceda a efectuar las elecciones extraordinarias convocadas por el Congreso;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXVI. Designar a las personas titulares de la Fiscalía General de Justicia del Estado y de las Fiscalías Especializadas, a partir de la terna que contenga las propuestas que le presente la persona titular del Poder Ejecutivo del Estado.
+XXVI. Designar a la persona titular de la Fiscalía General de Justicia del Estado, a partir de la terna que contenga las propuestas que le presente la persona titular del Poder Ejecutivo del Estado.
 
-El Congreso del Estado mediante el voto de las dos terceras partes de quienes integren la Legislatura, podrá remover a las personas titular (sic) de la Fiscalía General de Justicia del Estado y de las fiscalías especializadas, por las causas graves que establezca la ley, previa acreditación de las mismas, así declarada en resolución firme;
+El Congreso del Estado mediante el voto de las dos terceras partes de quienes integran la Legislatura, podrá remover a la persona titu ar (sic) de la Fiscalía General de Justicia del Estado, por las causas graves que establezca la Ley, previa acreditación de las mismas, así declarada en resolución firme;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
@@ -1323,11 +1323,15 @@ II. Las personas propuestas en la terna deberán cumplir los requisitos normativ
 
 III. El Congreso designará a la persona titular de la Fiscalía General de Justicia del Estado por mayoría calificada de dos terceras partes de los integrantes de la Legislatura, previa comparecencia de las personas propuestas;
 
-IV. En el supuesto de que el Congreso rechace la terna presentada por la persona titular del Poder Ejecutivo del Estado, ésta formulará nueva terna;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-V. El procedimiento indicado en las fracciones anteriores se seguirá hasta que se realice la designación, y
+IV. En el supuesto de que el Congreso rechace la terna presentada por la persona titular del Poder Ejecutivo del Estado, ésta formu ará (sic) nueva terna, y
 
-VI. El mismo procedimiento se seguirá para la designación de las personas titulares de las fiscalías especializadas.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+V. El procedimiento indicado en las fracciones anteriores se seguirá hasta que se realice la designación.
+
+VI. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2024)
 
 La persona titular de la Fiscalía General de Justicia del Estado será nombrada para ocupar el cargo durante siete años, sin posibilidad de ser designada para otro periodo de forma inmediata.
 
@@ -1601,9 +1605,9 @@ XII. Auxiliar a los Ayuntamientos en el ejercicio de sus funciones;
 
 XIII. Nombrar y remover con apego al principio de paridad de género, a los secretarios del Ejecutivo, Oficial Mayor de Gobierno, y a todos los demás servidores públicos del estado, cuyo nombramiento no estén determinados de otro modo en esta Constitución o en las leyes;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-XIII Bis. Someter a consideración del Congreso las ternas de personas que proponga para la designación de la persona titular de la Fiscalía General de Justicia del Estado, así como para el nombramiento de las personas titulares de las fiscalías especializadas;
+XIII Bis. Someter a consideración del Congreso la terna de personas que proponga para la designación de la persona titular de la Fiscalía General de Justicia del Estado;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1742,6 +1746,10 @@ Garantizar la seguridad pública es un deber del Estado; para ello contará con 
 ###### ARTICULO 73.
 
 La institución del Ministerio Público estará a cargo de la persona titular de la Fiscalía General de Justicia del Estado, cuya designación se hará por el Congreso, a propuesta, en terna, de la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+La persona que sea designada como titular de la Fiscalía General de Justicia del Estado, tendrá la facultad de designar a los titulares de las fiscalías especializadas, sujetándose a los términos que establezca la Ley Orgánica de la Fiscalía General de Justicia del Estado, la Ley General del Sistema Nacional de Seguridad Pública y la normatividad interna de la Fiscalía General de Justicia del Estado.
 
 Las ausencias temporales de la persona titular de la Fiscalía General de Justicia del Estado serán suplidas en los términos que determine la Ley. En caso de ausencia definitiva, se iniciará el procedimiento de designación establecido en esta Constitución.
 
@@ -4354,3 +4362,23 @@ El Congreso del Estado de Tlaxcala deberá expedir la Ley Orgánica de la Fiscal
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 La persona titular de la Fiscalía General de Justicia del Estado, será designada por el Congreso, a más tardar el último día del mes de julio del año 2024.
+
+P.O. 5 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 11.- SE REFORMAN LA FRACCIÓN XXVI DEL ARTÍCULO 54, LAS FRACCIONES IV Y V DEL ARTÍCULO 54 BIS, Y LA FRACCIÓN XIII BIS DEL ARTÍCULO 70; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 73, RECORRIÉNDOSE SUBSECUENTEMENTE EL PÁRRAFO SEGUNDO PARA PASAR A SER PÁRRAFO TERCERO DEL ARTÍCULO 73, Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 54 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+En cumplimiento a lo previsto por el párrafo primero del artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios que conforman esta Entidad Federativa, para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+La titular de la Fiscalía General de Justicia del Estado de Tlaxcala, a más tardar el día diez de enero de dos mil veinticinco, deberá designar o ratificar a las personas titulares de las fiscalías especializadas, de la Fiscalía General de Justicia del Estado de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se contrapongan al contenido de este Decreto.
