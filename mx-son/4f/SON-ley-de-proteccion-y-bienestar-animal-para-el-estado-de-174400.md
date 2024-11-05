@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-y-bienestar-animal-para-el-estado-de-174400"
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-12"
-last_updated: "2024-09-12"
+last_updated: "2024-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE PROTECCION Y BIENESTAR ANIMAL PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección II del Número 22 del Boletín Oficial del Estado de Sonora, el jueves 12 de septiembre de 2024.
 
@@ -45,9 +47,15 @@ LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA EL ESTADO DE SONORA
 
 ### CAPÍTULO ÚNICO. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y de interés general, sus disposiciones tienen por objeto proteger a los animales, garantizar su bienestar, prevenir el maltrato, la crueldad, el sufrimiento y la deformación de sus características físicas; disminuir y gradualmente, mediante cambios culturales e idiosincráticos, eliminar su uso, maltrato, abuso y explotación, así como asegurar las cinco libertades del animal.
+La presente ley es de orden público y de interés general, sus disposiciones tienen por objeto proteger a los animales, garantizar su bienestar, prevenir el maltrato, la crueldad, el sufrimiento y la deformación de sus características físicas; disminuir y gradualmente, mediante cambios culturales e idiosincráticos, eliminar su uso injustificado, maltrato, abuso y explotación, así como asegurar las cinco libertades del animal.
+
+> <small>(ADICIONADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+La presente ley no aplica a ningún tipo de ganado mayor o menor y especies susceptibles de la explotación pecuaria y ganadera. incluyendo launa con finalidad cinegética.
 
 Además de establecer las bases para definir:
 
@@ -67,7 +75,9 @@ VII. Reconocer el vínculo existente entre la crueldad animal, las conductas ant
 
 VIII. La regulación de las disposiciones correspondientes a la denuncia, vigilancia, verificación, medidas de seguridad y acciones de defensa y recurso de inconformidad, relativos al bienestar animal; y
 
-IX. La participación del Ejecutivo del Gobierno del Estado de Sonora, la Comisión de Ecología y Desarrollo Sustentable, las Secretarías de Seguridad Pública, Educación y Cultura y Salud Pública del estado, la Fiscalía General de Justicia del Estado de Sonora y los municipios, quienes además deberán implementar anualmente programas específicos para difundir la cultura y las conductas de buen trato y respeto a los animales.
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+IX. La participación del Ejecutivo del Gobierno del Estado de Sonora, la Comisión de Ecología y Desarrollo Sustentable, las Secretarías de Seguridad Pública, Educación y Cultura y Salud Pública del estado, Secretaria de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura, la Fiscalía General de Justicia del Estado de Sonora y los municipios quienes además deberán implementar anualmente programas específicos para difundir la cultura y las conductas de buen trato y respeto a los animales.
 
 En todo lo no previsto en la presente ley, se aplicarán en forma supletoria la Ley del Procedimiento Administrativo del Estado de Sonora y el Código de Procedimientos Civiles para el Estado de Sonora.
 
@@ -89,7 +99,9 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Adopción: Acto celebrado de manera voluntaria y consciente entre un tutor o guardián y una organización de carácter civil, dependencia gubernamental o particular, mediante el cual el tutor o guardián de un animal de compañía o doméstico adquiere los derechos y obligaciones respecto al animal, y cuyo objetivo será el de asegurar y proteger las condiciones futuras del animal, su destino, así como garantizar su bienestar;
 
-II. Adopción comunitaria: Aquella adopción de perros y gatos donde conjuntamente participan vecinos y ciudadanos en general, para el cuidado de los animales en situación de calle o que no han sido llevados a ningún albergue u hogar. Los animales comunitarios deberán ser identificados como tal y además ser esterilizados, vacunados y desparasitados;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+II. Adopción comunitaria: Aquella adopción de perros y gatos donde conjuntamente participan vecinos y ciudadanos en general, para el cuidado de los animales en situación de calle o que no han sido llevados a ningún albergue u hogar. Este tipo de adopción no genera obligación alguna a los integrantes de la comunidad que los adopta. Los animales comunitarios deberán ser identificados como tal y además ser esterilizados, vacunados y desparasitados por las autoridades competentes del Municipio en que se encuentren, o en su defecto, por las autoridades Estatales competentes;
 
 III. Adiestramiento: Proceso técnico, continuo, sistemático, positivo y organizado de enseñanza-aprendizaje que tiene como objetivo lograr que un animal desarrolle o potencialice determinadas habilidades;
 
@@ -101,9 +113,15 @@ VI. Animal en situación de calle: Perro o gato que no tiene un tutor o guardiá
 
 VII. Animal de compañía: Animal que por sus características físicas y de comportamiento puede convivir en proximidad con el ser humano, sin poner en peligro la seguridad o la vida de las personas o de otros animales. Es un animal domesticado que no es forzado a trabajar, ni tampoco es usado para fines alimenticios y que, por su adaptabilidad, interactúa con los humanos;
 
-VIII. Animal de consumo: Aquel animal que se utiliza para beneficio del ser humano y que de acuerdo con su función zootécnica produce un bien, o sus derivados, que sean destinados a la alimentación y vestimenta humana y/o animal;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-IX. Animal de trabajo: Aquel animal que se utiliza para beneficio del ser humano realizando trabajo físico, tales como, los utilizados para actividades de carga, tiro, monta, labranza, tracción; o aquellos que han sido adiestrados para obedecer instrucciones o estar condicionados a lograr fines específicos, ya sea de forma independiente o en conjunto con su tutor o guardián, como guía para personas con discapacidad, terapia, operativos, búsqueda de sustancias y detección de explosivos, enfermedades neoplásicas y/o de apoyo para disuasión y persecución, de guardia, de defensa, de rescate, de exposición y para uso policiaco;
+VIII. Animal de consumo: Son las especies de ganado mayor o menor que establece la Ley de Ganadería para el Estado de Sonora que se utilizan para beneficio del ser humano.
+
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+IX. Animal de trabajo: Aquel animal que se utiliza para beneficio del ser humano realizando trabajo físico; o aquellos que han sido adiestrados para obedecer instrucciones o estar condicionados a lograr fines específicos, ya sea de forma independiente o en conjunto con su propietario o cualquier otra persona o animal como guía para personas con discapacidad, terapia, operativos, búsqueda de sustancias y detección de explosivos, enfermedades neoplásicas y/o de apoyo para disuasión y persecución, de guardia, de defensa, de rescate, de exposición y para uso policíaco.
+
+En cuanto a las especies de ganado mayor consideradas de trabajo se estará en lo conducente a lo dispuesto por la Ley de Ganadería para el Estado de Sonora.
 
 X. Animal doméstico: El animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de éste para su subsistencia;
 
@@ -149,11 +167,17 @@ XXX. La Cartilla: Cartilla de vacunación y control de atención veterinaria, es
 
 XXXI. Ley: Ley de Protección y Bienestar Animal para el Estado de Sonora;
 
-XXXII. Licencia para manejo y resguardo de animales: Licencia expedida por la CEDES a través de la Dirección General de Protección y Bienestar Animal para resguardar animales, brindarles servicios médicos, hacer uso de ellos en espectáculos o actividades de adiestramiento o cualquier otra actividad que implique su posesión temporal, manejo y/o resguardo toda vez que se cumplan con los requisitos establecidos y que se otorgará sin perjuicio de las licencias, permisos, concesiones, autorizaciones y demás actos similares que se deban tramitar ante autoridades distintas para la realización de eventos o actividades a que se refiere la presente ley;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXXII. Licencia para manejo y resguardo de animales: Licencia expedida por la CEDES a través de la Dirección General de Protección y Bienestar Animal para resguardar animales, hacer uso de ellos en espectáculos o actividades de adiestramiento o cualquier otra actividad que implique su posesión temporal, manejo y/o resguardo toda vez que se cumplan con los requisitos establecidos y que se otorgará sin perjuicio de las licencias, permisos, concesiones, autorizaciones y demás actos similares que se deban tramitar ante autoridades distintas para la realización de eventos o actividades a que se refiere la presente ley;
 
 XXXIII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que, de acuerdo con su especie pueden realizar los animales sin que se comprometa su estado de bienestar;
 
-XXXIV. Maltrato animal: Todo hecho, acto u omisión culposa o negligente del ser humano, que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como la sobreexplotación de su trabajo, someterlos a carga excesiva, ya sea sobre el propio animal o en vehículos tirados por los mismos, así como cualquier otra conducta que ocasione lesiones, enfermedades, deterioro a la salud, afectaciones psicológicas, o que ponga en peligro su vida;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXXIV. Maltrato animal: Todo hecho, acto u omisión de los enlistados en el artículo 342 del Código Penal para el Estado de Sonora; que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como cualquier otra conducta dolosa que ocasione lesiones, enfermedades, deterioro a la salud, afectaciones etológicas, o que ponga en peligro su vida.
+
+Quedando excluida la práctica médica veterinaria realizada conforme a la normatividad vigente, así como las actividades de enseñanza de nivel superior y/o de investigación en instituciones acreditadas por las instancias correspondientes.
 
 XXXV. Manejo de animales: La posesión temporal de un animal para brindarle refugio, resguardo o algún tipo de servicio de salud, estético o terapéutico o bien para el aprovechamiento en actividades en beneficio del hombre;
 
@@ -175,7 +199,9 @@ XLIII. Tienda de mascotas: Establecimiento comercial debidamente registrado ante
 
 XLIV. Trato digno y respetuoso: Las medidas que esta ley, sus reglamentos, las normas ambientales y las normas oficiales mexicanas establecen para garantizar su bienestar;
 
-XLV. Tutor o guardián: Persona física o moral que tiene bajo su cuidado, adquiere o adopta voluntaria y conscientemente la responsabilidad de un animal, ya sea temporal o permanente, obligándose con esto a procurar su salud física y mental, tanto frente a dicho ser vivo como de la sociedad en su conjunto y de las autoridades competentes. Para efectos de esta ley, el tutor o guardián responsable tendrá el tratamiento y la calidad de propietario;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XLV. Tutor o guardián: Persona física o moral que tiene bajo su cuidado, adquiere o adopta voluntaria y conscientemente la responsabilidad de un animal de compañía o doméstico, ya sea temporal o permanente, obligándose con esto a procurar su salud física y mental, tanto frente a dicho ser vivo como de la sociedad en su conjunto y de las autoridades competentes. Para efectos de esta ley, el tutor o guardián responsable tendrá el tratamiento y la calidad de propietario;
 
 XLVI. Vehículos de tracción animal: Carros, carretas, instrumentos de labranza o carretones que, para su movilización, requieren ser tirados o jalados por algún animal;
 
@@ -199,23 +225,33 @@ III. Promover en todas las instancias públicas y privadas y a través de comit�
 
 Las autoridades del Estado de Sonora, en la formulación y conducción de sus políticas, y la sociedad en general, para la protección de los animales, observarán los siguientes principios:
 
-I. Los animales como seres sintientes y conscientes deben ser tratados con respeto y dignidad durante toda su vida, buscando disminuir y eliminar su uso, maltrato, abuso y explotación;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-II. Todo animal debe recibir atención, cuidados y protección del ser humano;
+I. Los animales como seres sintientes y conscientes deben ser tratados con respeto y dignidad durante toda su vida, buscando disminuir y eliminar su maltrato, abuso y sobreexplotación injustificada;
+
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+II. Todo animal debe recibir atención, cuidados y protección de sus respectivos tutores, guardianes o propietarios;
 
 III. Todo animal perteneciente a una especie silvestre tiene derecho a vivir libre en su propio ambiente natural, terrestre, aéreo o acuático y a reproducirse, salvo en los casos en los que ponga en riesgo a otras especies o afecte los medios de subsistencia del ser humano;; (sic)
 
 IV. Todo animal perteneciente a una especie que viva tradicionalmente en el entorno del ser humano, tiene derecho a vivir y a crecer al ritmo y en condiciones de vida y de libertad que sean propias de su especie;
 
-V. Todo animal que el ser humano ha escogido como de su compañía tiene derecho a que la duración de su vida sea conforme a su longevidad natural, salvo que sufra una enfermedad o alteración que comprometa seriamente su bienestar;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+V. Todo animal que el ser humano ha escogido como de su compañía tiene derecho a que la duración de su vida sea conforme a su longevidad natural, salvo que sufra una enfermedad o alteración que comprometa seriamente su bienestar o el bienestar de un ser humano;
 
 VI. Todo animal de trabajo tiene derecho a una limitación razonable del tiempo e intensidad de trabajo, a una alimentación y reposo apropiados;
 
-VII. Todo acto que implique la muerte innecesaria o injustificada de un animal es un crimen contra la vida;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Todo acto que implique la muerte injustificada de un gran número de animales es un crimen contra las especies;
+VII. Debe perseguirse y castigarse todo acto de los enlistados en el artículo 342 del Código Penal del Estado de Sonora, que implique la muerte innecesaria o injustificada de un animal, salvo las muertes accidentales, por inclemencias del tiempo, así como por accidentes en el manejo y transportación del ganado mayor y menor, así como cualquier otra causa no imputable al productor;
 
-IX. El cadáver de todo animal debe ser tratado con respeto;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Debe perseguirse y castigarse todo acto de los enlistados en el artículo 342 del Código Penal del Estado de Sonora, que implique la muerte injustificada de un gran número de animales debe considerarse como un delito contra las especies;
+
+IX. (DEROGADA, B.O. 5 DE NOVIEMBRE DE 2024)
 
 X. Ninguna persona, en ningún caso, será obligada o coaccionada a provocar daño, o provocar la muerte de algún animal y podrá referirse a esta Ley en su defensa; y
 
@@ -321,15 +357,25 @@ XIII. Crear, operar y actualizar el Registro Estatal de Animales de Compañía;
 
 XIV. Operar el Fondo para la Protección y Bienestar de los Animales;
 
-XV. Expedir licencias para manejo y resguardo de animales a tiendas de mascotas, pensiones, hoteles, parques, estancias, escuelas de adiestramiento, estéticas, veterinarias, Centros Municipales de Protección y Bienestar Animal y demás establecimientos comerciales y prestadores de servicios vinculados con el manejo y venta de animales de compañía, silvestres y exóticos, así como para la realización de cabalgatas, jaripeos, rodeos, carreras de caballos y ferias ganaderas en el Estado de Sonora;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XV. Expedir licencias para manejo y resguardo de animales a tiendas de mascotas, pensiones, hoteles, parques, estancias, escuelas de adiestramiento, estéticas, Centros Municipales de Protección y Bienestar Animal y demás establecimientos comerciales y prestadores de servicios vinculados con el manejo y venta de animales de compañía, silvestres y exóticos.
 
 XVI. Inspeccionar, vigilar y sancionar a quienes incumplan con los lineamientos y programas de bienestar animal establecidos en los reglamentos y ordenamientos jurídicos que se deriven de la presente ley necesarios para la expedición de licencias y permisos para el manejo y resguardo de animales;
 
 XVII. Promover la participación ciudadana a través de sus órganos de representación, a fin de difundir la cultura y la protección a los animales;
 
-XVIII. Organizar y promover eventos del orden cultural, deportivo y recreativos, con el fin de recabar recursos que serán destinados al Fondo; y
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-XIX. Las demás que esta ley y los ordenamientos jurídicos aplicables le confieran.
+XVIII. Organizar y promover eventos del orden cultural, deportivo y recreativos, con el fin de recabar recursos que serán destinados al Fondo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XIX. Coordinarse con la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura, para evitar el maltrato, la crueldad, abuso, deformación y sufrimiento de animales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XX. Las demás que establezca esta ley y los demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 13.
 
@@ -399,9 +445,11 @@ II. Realizar el registro estadístico de los casos judicializados, así como de 
 
 III. Las demás que esta ley y los demás ordenamientos jurídicos aplicables le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 17.
 
-Corresponde a los municipios en el marco de sus respectivas competencias:
+Corresponde a los municipios, atendiendo a su disponibilidad presupuestal y en el marco de sus respectivas competencias:
 
 I. Crear El Centro que deberá atender los principios del bienestar animal, de acuerdo con lo estipulado en la presente ley y contar con la Licencia para manejo y resguardo de animales;
 
@@ -434,6 +482,10 @@ X. Proveer alimento y agua suficiente en todo momento a los animales resguardado
 XI. Entregar en adopción a los animales bajo su resguardo una vez que estén sanos, desparasitados, esterilizados y vacunados contra el virus de la rabia, y generar la cartilla de vacunación y control de atención veterinaria respectiva;
 
 XII. Rescatar a animales en situación de maltrato, abandono o riesgo en las calles, carreteras, techos, tejados y demás lugares que representen un peligro para la integridad del animal en coordinación con las autoridades competentes en la materia, coadyuvando con asociaciones de protección de animales y ciudadanía en general en la protección y canalización de animales a El Centro, Centro Ecológico de Sonora, santuarios, refugios y/o albergues debidamente autorizados;
+
+> <small>(ADICIONADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+Tratándose de ganado mayor o menor abandonado, o que aparezca reiteradamente en la vía pública se le dará el trato de ganado mostrenco previsto en la Ley de Ganadería para el Estado de Sonora, y se seguirá el procedimiento correspondiente.
 
 XIII. Capturar perros y gatos sólo en caso de que se encuentren en riesgo por situaciones de maltrato, lastimados o bien para su observación en caso de agresión a las personas;
 
@@ -497,13 +549,17 @@ A los procesos de aplicación de la eutanasia, podrán asistir como observadores
 
 XXXIII. Verificar cuando exista denuncia por falta de higiene, hacinamiento u olores fétidos que se producen por el mantenimiento, la crianza, compra venta y/o reproducción de animales, en detrimento del bienestar animal, así como atender aquellos asuntos que le sean remitidos por otras dependencias sobre estos supuestos;
 
-XXXIV. Realizar visitas de inspección para constatar el estado de los animales que se encuentren en establecimientos dedicados al giro de servicios de salud, estancia, venta y atención a animales en el estado y en su caso emitir recomendaciones y sanciones;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXXIV. Realizar visitas de inspección para constatar que no existan actos de crueldad o maltrato animal en establecimientos dedicados al giro de servicios de estancia, venta y atención a animales en el estado y en su caso emitir recomendaciones y sanciones;
 
 XXXV. Establecer, en coordinación con la Dirección General de Protección y Bienestar Animal de la CEDES, Salud Pública Estatal y Municipal, campañas masivas de registro gratuito, de vacunación antirrábica, así como de desparasitación y de esterilización;
 
 XXXVI. Celebrar convenios de colaboración con los sectores social y privado;
 
-XXXVII. Supervisar, verificar y sancionar, si es el caso, en el ámbito de sus facultades en materia de la presente ley, los criaderos, establecimientos, refugios, albergues, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXXVII. Supervisar, verificar y sancionar, si es el caso, en el ámbito de sus facultades en materia de la presente ley, los criaderos, establecimientos, refugios y albergues de animales.
 
 XXXVIII. Impulsar en coordinación con la CEDES y demás autoridades competentes, campañas masivas de concientización para la protección y el trato digno y respetuoso a los animales y la desincentivación de la compraventa de especies domésticas, así como campañas masivas de fomento a la adopción en general y en especial a la adopción comunitaria de animales;
 
@@ -527,9 +583,11 @@ La Dirección General implementará el padrón y supervisión de las asociacione
 
 Las autoridades competentes promoverán la participación de las personas, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas y registradas, así como las instituciones académicas y de investigación científica en las acciones gubernamentales relacionadas con la protección, la asistencia y el trato digno y respetuoso a los animales, y podrán celebrar convenios de colaboración con estas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 21.
 
-Los requisitos mínimos indispensables para pertenecer al Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales dedicadas al mismo objeto que puedan ser beneficiarias de estímulos y coadyuvar en la observancia de las tareas definidas en la presente ley son:
+Los requisitos mínimos indispensables para pertenecer al Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales dedicadas al mismo objeto que puedan ser beneficiarias de estímulos de acuerdo a la disponibilidad presupuestal, y coadyuvar en la observancia de las tareas definidas en la presente ley son:
 
 I. Contar con acta constitutiva cuyo objeto social sea afín a los objetivos de la presente Ley;
 
@@ -547,9 +605,11 @@ Los municipios podrán celebrar convenios de colaboración con las asociaciones 
 
 El reglamento de la presente ley establecerá los requisitos y las condiciones para la celebración de estos convenios, así como para su rescisión.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 23.
 
-El Centro, según corresponda, autorizará la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas en el Padrón Estatal que así lo soliciten al efectuar visitas de verificación para constatar el buen trato y estado de los animales, así como cuando se realicen actos de eutanasia a animales bajo los supuestos que menciona el artículo 17, fracción VII, en las instalaciones públicas destinadas para dicho fin, y cuando éstas se realicen a establecimientos que manejen animales.
+El Centro, según corresponda, autorizará la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas en el Padrón Estatal que así lo soliciten al efectuar visitas de verificación, acompañados por un médico veterinario externo, para constatar el buen trato y estado de los animales, así como cuando se realicen actos de eutanasia a animales bajo los supuestos que menciona el artículo 17, fracción VIT, en las instalaciones públicas destinadas para dicho fin.
 
 ###### Artículo 24.
 
@@ -579,11 +639,15 @@ VI. Los ingresos propios por concepto de eventos culturales, deportivos, recreat
 
 VII. Los demás recursos que se generen por cualquier otro concepto, previa firma del convenio de colaboración o coordinación que corresponda.
 
-Los recursos que se ingresen en términos de lo señalado en las fracciones II, III y V, deberán de ser enterados por la Secretaría de Hacienda en forma mensual.
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+Los recursos que se ingresen en términos de lo señalado en las fracciones II, III y V, deberán de ser enterados por la Secretaría de Hacienda en forma mensual, sin perjuicio de las facultades de reasignación presupuestal del Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 27.
 
-Los recursos del Fondo se destinarán a:
+Los recursos del Fondo se destinarán, preferentemente, a:
 
 I. Implementar los Programas de Equilibrio Poblacional;
 
@@ -691,27 +755,37 @@ Toda persona tiene la obligación de brindar un trato digno y respetuoso a cualq
 
 Se consideran actos de maltrato o crueldad, los enlistados en el artículo 342, del Código Penal del Estado de Sonora.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-Será equiparable a un acto de crueldad, los latigazos, el fustigamiento, las descargas eléctricas y los golpes.
+Será equiparable a un acto de crueldad, los latigazos, el fustigamiento, las descargas eléctricas y los golpes, propinados de manera injustificada.
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 33.
 
-Toda persona que realice conductas de maltrato o crueldad en contra de cualquier animal está obligada a la reparación del daño en los términos de las leyes aplicables a la materia, además estarán obligadas a cubrir los gastos por la atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica del animal.
+Toda persona que realice conductas de maltrato o crueldad en contra de cualquier animal está obligada a la reparación del daño en los términos de las leyes aplicables a la materia, además estarán obligadas a cubrir los gastos por la atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica hasta el total restablecimiento posible de su salud.
 
 ###### Artículo 34.
 
 Las autoridades municipales y estatales en el ámbito de su competencia deberán implementar acciones tendentes a la regulación del crecimiento de poblaciones de animales exóticos y aves urbanas empleando sistemas adecuados conforme a los principios de trato digno y respetuoso contenidos en la presente ley, y en su caso logrando la reubicación de los ejemplares, cuando sea posible.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-Nadie deberá dar muerte a un animal utilizando sustancias o procedimientos que causen dolor innecesario o prolonguen la agonía, ni ocasionarles la muerte.
+Nadie deberá dar muerte a un animal utilizando sustancias o procedimientos que causen dolor innecesario o prolonguen la agonía salvo por motivos de peligro inminente o para evitar el sufrimiento innecesario.
+
+En los casos estrictamente necesarios, la eutanasia de un animal se realizará por un médico veterinario zootecnista con título y cédula conforme a las normas oficiales mexicanas aplicables.
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
-Nadie deberá dar muerte a un animal en la vía pública, salvo por motivos de peligro inminente o para evitar el sufrimiento innecesario en el animal cuando no sea posible su traslado inmediato a un lugar más adecuado. En todo caso dicha eutanasia se hará bajo la responsabilidad de un profesional en la materia o por protectores de animales con demostrada capacidad y amplio juicio.
+Nadie deberá dar muerte a un animal salvo por motivos de peligro inminente o para evitar el sufrimiento innecesario en el animal cuando no sea posible su traslado inmediato a un lugar más adecuado.
 
-En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irreversible causado por enfermedad o lesiones, las autoridades competentes deberán enviar sin demora personal al lugar de los hechos a efecto de practicar la eutanasia, en los términos dispuestos en las normas correspondientes. En caso de que por falta de personal capacitado o que el traslado prolongue el sufrimiento innecesario del animal, cualquier persona podrá realizar la eutanasia del animal por cualquier medio disponible que no incremente el sufrimiento del animal.
+En caso de la eutanasia justificada se estará a lo dispuesto en el párrafo segundo del artículo 35 de la presente ley.
 
 ### CAPÍTULO III. DE LOS ANIMALES DE ESPECTÁCULO, EN EXHIBICIÓN Y CAUTIVERIO
 
@@ -753,29 +827,41 @@ Ninguna autoridad de ningún orden de gobierno bajo ninguna circunstancia destin
 
 Se necesitará un permiso temporal de la autoridad municipal competente, cuando los animales sean utilizados en filmación de películas, programas televisivos, anuncios comerciales y durante la elaboración de cualquier material visual o auditivo, en el que participen animales vivos con fines de lucro o determinado fin publicitario, deben realizarse dichas actividades de manera tal que no afecten el bienestar de los animales participantes.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 43.
 
-Todos los tutores, guardianes o responsables de los animales destinados a espectáculos autorizados, exhibición y cautiverio, que se escapen y provoquen algún perjuicio, serán acreedores a las sanciones correspondientes, además de la reparación de los daños ocasionados por dicho animal.
+Todos los tutores, guardianes, responsables o propietarios de los animales destinados a espectáculos autorizados, exhibición y cautiverio, que se escapen y provoquen algún perjuicio, serán acreedores a las sanciones correspondientes, además de la reparación de los daños ocasionados por dicho animal.
 
 ###### Artículo 44.
 
 Queda prohibido en el Estado de Sonora por cualquier motivo:
 
-I. El establecimiento y operación de espectáculos circenses donde se utilicen animales, taurinos o corridas de toros, novilladas, uso de calandrias, peleas de gallos, peleas de perros, gallo enterrado y cochi encebado, ya sean fijos o itinerantes, públicos o privados, así como espectáculos de adiestramiento y entretenimiento familiar, en los que cualquier animal sea víctima de abuso o maltrato.
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-La realización de jaripeos, rodeos, carreras de caballos, cabalgatas, ferias ganaderas y el uso de ponis como paseos recreativos, podrán llevarse a cabo siempre y cuando cuenten con los permisos expedidos por la Dirección General de Protección y Bienestar Animal de la CEDES, quien estará facultada para vigilar el bienestar de los animales durante la duración de la misma, además deberán contar con un programa de bienestar que deberá entregar de manera anticipada, médico veterinario responsable con cédula profesional debidamente acreditado ante la CEDES, y acatar todas las disposiciones de la presente ley y sus reglamentos evitando cualquier acto de maltrato o crueldad animal.
+I. El establecimiento y operación de espectáculos circenses donde se utilicen animales, taurinos o corridas de toros, novilladas, peleas de perros, gallo enterrado y el evento denominado "cochi encebado", ya sean fijos o itinerantes, públicos o privados, así como espectáculos de adiestramiento y entretenimiento familiar, en los que cualquier animal sea víctima de abuso o maltrato;
 
 II. El uso de animales vivos como blanco de ataque en el entrenamiento de animales adiestrados para espectáculos, deportes de seguridad, protección o guardia, o como medio para verificar su agresividad, salvo en el caso de aquellas especies que formen parte de la dieta de las especies de fauna silvestre, incluyendo aquellas manejadas con fines de rehabilitación para su integración en su hábitat, así como las aves de presa, siempre y cuando medie autoridad competente o profesionales en la materia;
 
 III. El obsequio, distribución, venta y cualquier uso de animales vivos para fines de propaganda política o comercial, obras benéficas, ferias, kermeses escolares, o como premios en sorteos, juegos, concursos, rifas, loterías o cualquier otra actividad análoga, con excepción de aquellos eventos que tienen como objeto la venta de animales y que están legalmente autorizados para ello;
 
+> <small>(ADICIONADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+Se exceptúa de lo anterior la venta o traslado de dominio de ganado mayor o menor que se realice en los términos de la Ley de Ganadería para el Estado de Sonora, tanto en predio ganaderos, corrales de acopio, comercialización o subastas.
+
 IV. La venta o adopción de animales a menores de dieciocho años de edad;
+
+> <small>(ADICIONADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+Se exceptúa lo anterior al ganado mayor o menor que adquieran niños, niñas y adolescentes, debidamente representados en los términos de la Ley de Ganadería para el Estado de Sonora.
 
 V. La presencia y participación de menores en espectáculos donde se lastime o vulnere la integridad y bienestar de los animales;
 
 VI. La venta y explotación de animales en la vía pública o en vehículos;
 
-VII. Queda prohibida la venta ilegal de animales de compañía y silvestres en medios impresos, digitales y redes sociales;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+VII. La venta ilegal de animales de compañía y silvestres en medios impresos, digitales y redes sociales;
 
 VIII. La venta de animales vivos en tiendas departamentales, tiendas de autoservicio, tianguis, mercados y, en general, en cualquier otro establecimiento cuyo giro comercial autorizado sea diferente al de la venta de animales;
 
@@ -789,7 +875,13 @@ XII. Quedan estrictamente prohibidas las actividades de exhibición de técnicas
 
 XIII. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario, en cuyo caso se buscará sustituir con vehículos a motor;
 
-XIV. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas;
+> <small>(ADICIONADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+Quedan exceptuados de lo dispuesto en el párrafo anterior, los usuarios que utilicen los vehículos de tracción animal como medio de transporte ordinario o para la satisfacción de sus necesidades básicas.
+
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XIV. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas, salvo los casos previstos en la Ley de Ganadería para el Estado de Sonora;
 
 XV. El uso de los mismos en la celebración de ritos y usos tradicionales que puedan afectar su bienestar e integridad;
 
@@ -799,7 +891,9 @@ XVII. Ofrecer cualquier clase de alimento u objetos cuya ingestión pueda causar
 
 XVIII. El abandono de cadáveres de animales en cualquier lugar de acopio de desechos y en vía pública que puedan representar un foco de infección;
 
-XIX. Abandonar animales vivos en vía pública o lugares de alto riesgo o que representen un peligro para su supervivencia;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XIX. Abandonar animales vivos en lugares que representen un peligro para su supervivencia;
 
 XX. Amarrar o encadenar animales permanentemente;
 
@@ -807,31 +901,51 @@ XXI. Negar el registro gratuito de animales o cobrar por éste;
 
 XXII. Realizar la eutanasia en El Centro o análogos como método de control poblacional de perros y gatos;
 
-XXIII. Se prohíbe el uso de animales en cualquier tipo de eventos o espectáculos públicos o privados, en instalaciones fijas, móviles o itinerantes, así como de recreación en instituciones educativas, ferias y kermeses en donde los animales sufran miedo, se les involucre en actos de violencia, maltrato o sufrimiento, así como cualquier acto que infrinja un daño o represente un peligro para su vida, integridad física o mental o salud del animal;
+XXIII. (DEROGADA, B.O. 5 DE NOVIEMBRE DE 2024)
 
-XXIV. La pesca recreativa en áreas naturales protegidas; y
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXV. La utilización de mamíferos marinos, cualquiera que sea la especie, en actividades de espectáculo, adiestramiento y/o entrenamiento; por lo cual se deberá contar con un programa de readaptación y/o transformación del Delfinario de Sonora en un Centro de Conservación de Vida Marina;
+XXIV. La pesca recreativa en áreas naturales protegidas;
+
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXV. La utilización de mamíferos marinos, cualquiera que sea la especie, en actividades de espectáculo, adiestramiento y/o entrenamiento; por lo cual se deberá contar con un programa de readaptación y/o transformación del Delfinario de Sonora en un Centro de Conservación de Vida Marina; y
+
+> <small>(ADICIONADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXVI. El uso de calandrias y las peleas de gallos
+
+> <small>(ADICIONADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades señaladas en la presente ley deberán emitir los programas, apoyos, incentivos y demás instrumentos que permitan hacer la transición de las actividades mencionadas en la fracción XXVI del presente artículo, a nuevas actividades que no se opongan a la presente Ley.
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 45.
 
-Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente ley, deberá informar a la autoridad competente.
+Cualquier autoridad que tenga, con motivo de sus funciones, conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente ley deberá informar a la autoridad competente.
 
 ###### Artículo 46.
 
 La posesión de un animal de vida silvestre requiere de autorización de las autoridades administrativas federales, estatales o locales competentes en la materia. Si su tutor o guardián no cumple esta disposición o permite que deambule libremente en la vía pública sin tomar las medidas y precauciones a efecto de no causar daño físico a terceras personas, será sancionado en términos de esta ley y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO IV. DE LOS ANIMALES DE TRABAJO Y DEL ENTRENAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. DE LOS ANIMALES DE TRABAJO, ENTRENAMIENTO Y ENTRENADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 47.
 
-Los tutores, guardianes o responsables de los animales de trabajo y de entrenamiento están obligados a:
+Los tutores, guardianes, propietarios o responsables de los animales de entrenamiento y entrenados deberán:
 
 I. Brindar servicio médico veterinario preventivo y de urgencia;
 
 II. Proveer comida y agua suficiente durante su jornada laboral.
 
-III. Resguardarlos de los climas extremos, tales como lluvia, calor y frío;
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+III. Resguardarlos en los casos que sea posible, de los climas extremos, tales como lluvia, calor y frío;
 
 IV. Proveer descanso suficiente durante la jornada laboral y después de ella;
 
@@ -839,31 +953,37 @@ V. Acondicionar un lugar seguro que proteja a los animales de las inclemencias d
 
 VI. Al final de la jornada de trabajo, se deberán dar los cuidados propios de la especie.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 48.
 
 Con relación a los animales de trabajo, está prohibido lo siguiente:
 
-I. Sobrecargar a los animales. La carga total que porten estos animales no podrá ser mayor a la tercera parte de su peso y evitando lesiones de los animales;
+I. Sobrecargar a los animales;
 
-II. Utilizar hembras preñadas, animales lesionados, enfermos, desnutridos, deshidratados o gerontes;
+II. Utilizar hembras preñadas, animales enfermos, desnutridos, deshidratados y con lesiones que impidan su correcto desempeño;
 
-III. Matar a un animal sano o enfermo a menos que tenga una condición letal o en caso de peligro inminente. La eutanasia deberá atender lo estipulado en las normas oficiales mexicanas de la materia;
+III. Matar a un animal sano o enfermo a menos que tenga una condición letal o en caso de peligro inminente. La eutanasia, en la medida de lo posible y salvo casos de urgencia, deberá atender lo estipulado en las normas oficiales mexicanas de la materia;
 
-IV. Abandonarlos en la vía pública o lugares de alto riesgo o que representen un peligro para su supervivencia.
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 49.
 
-Si el animal de trabajo se encontrara enfermo, deberá recibir atención médica veterinaria inmediatamente y reposar el tiempo suficiente con base en las consideraciones del médico veterinario que lo atienda y hasta que se encuentre en óptimas condiciones al reincorporarse a sus labores.
+Si el animal de trabajo se encontrara enfermo, recibirá atención médica veterinaria y reposar el tiempo suficiente con base en las consideraciones del médico veterinario que lo atienda y hasta que se encuentre en óptimas condiciones al reincorporarse a sus labores.
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-La circulación vehículos de cualquier naturaleza de tracción animal únicamente será permitida en las Localidades y Municipios Rurales que sean reconocidas como tal, de conformidad con el artículo 25-G de la Constitución del Estado Libre y Soberano de Sonora.
+La circulación de vehículos de cualquier naturaleza de tracción animal se sujetará a lo establecido por la autoridad municipal correspondiente.
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 51.
 
-El tutor o guardián o encargado de animales para la monta, carga y tiro; debe alimentar y cuidar apropiadamente a sus animales, sin someterlos a jornadas excesivas de trabajo, debiendo mantener las instalaciones para su guarda en buen estado higiénico-sanitario y en condiciones adecuadas de espacio para el animal de que se trate, así como cumplir con lo establecido en los reglamentos de la presente ley y las normas oficiales mexicanas que correspondan.
+El propietario o poseedor de animales para la monta, carga y tiro, deberá alimentar y cuidar apropiadamente a sus animales, de acuerdo a sus posibilidades económicas, y conforme a sus condiciones sociales y culturales, sin someterlos a jornadas excesivas de trabajo.
 
-La prestación del servicio de monta recreativa, incluidas las cabalgatas, requiere autorización de la Dirección General de Protección y Bienestar Animal de la CEDES, misma que se sujetará a las disposiciones correspondientes que establece esta ley, sus reglamentos y demás disposiciones jurídicas aplicables. En ningún caso se autorizará la prestación de estos servicios en los parques públicos en el suelo urbano, ni en la vía o espacios públicos del Estado de Sonora.
+Los ayuntamientos expedirán el permiso para la celebración de festividades públicas y espectáculos en los que se utilicen animales, de conformidad con las disposiciones de la presente ley. Si se verifican infracciones del permisionario que impliquen maltrato hacia los animales, la autoridad municipal revocará el permiso y procederá a la cancelación del evento.
 
 ###### Artículo 52.
 
@@ -883,15 +1003,19 @@ II. Administrar cualquier tipo de estupefacientes como método de adiestramiento
 
 III. Realizar el adiestramiento en espacios públicos o en espacios privados de uso común sin las medidas adecuadas que eviten daños o perjuicios a las personas o a sus bienes; y
 
-IV. Abandonarlos en la vía pública o lugares de alto riesgo o que representen un peligro para su supervivencia.
+> <small>(REFORMADA, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+IV. Abandonar animales vivos que represente un peligro para su supervivencia.
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-Cuando algún animal de trabajo o en adiestramiento, resultara no apto para continuar sus labores o adiestramiento, ya sea por determinación de un médico veterinario con cédula profesional o por su estado de salud, el tutor o guardián estará obligado a velar por su bienestar realizando cualquiera de las siguientes acciones:
+Cuando algún animal de trabajo o en adiestramiento, resultara no apto para continuar sus labores o adiestramiento, ya sea por determinación de un médico veterinario con cédula profesional o por su estado de salud, el tutor, guardián o propietario estará obligado a velar por su bienestar realizando cualquiera de las siguientes acciones:
 
-I. Conservar al animal como compañía hasta su muerte, sin someterlo de nueva cuenta a trabajo o adiestramiento alguno o darlo en adopción; y
+I. Conservar al animal como compañía hasta su muerte sin someterlo de nueva cuenta a trabajo o adiestramiento alguno, o darlo en adopción; y
 
-II. Solicitar a una autoridad la eutanasia del animal, cuando se encuentre agonizante o gravemente enfermo. Ésta deberá realizarse según lo dicten las normas oficiales mexicanas y llevarse a cabo por un médico veterinario con cédula profesional.
+II. Realizar la eutanasia del animal cuando se encuentre agonizante o gravemente enfermo. Ésta deberá realizarse según lo dicten las normas oficiales mexicanas y llevarse a cabo por un médico veterinario con cédula profesional.
 
 ###### Artículo 55.
 
@@ -903,17 +1027,23 @@ La propiedad o posesión de cualquier animal obliga al tutor o guardián a inmun
 
 Las instalaciones utilizadas para animales deportivos, centros para la práctica de la equitación y pensiones para animales, deberán ser adecuadas conforme a las características propias de cada especie y deberán contar con una licencia vigente para manejo y resguardo de animales expedida por la Dirección General de Protección y Bienestar Animal de la CEDES y serán objeto de regulación específica en los reglamentos de la presente ley.
 
-### CAPÍTULO V. DE LOS ANIMALES DE CONSUMO Y SU TRASLADO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. DE LOS ANIMALES DE CONSUMO, TRABAJO EN LA GANADERÍA, EXHIBICIÓN Y SU TRASLADO
+
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura deberá velar por el cumplimiento de la Ley Federal de Sanidad Animal, su reglamento, las normas oficiales mexicanas, así como cualquier normatividad relacionada, procurando en todo momento el cumplimiento de lo establecido en la presente ley.
+En todo lo relativo a la propiedad, cría movilización, sanidad, traslado de dominio y sacrificio de ganado menor y mayor, así como la movilización de sus productos y subproductos, se observará lo dispuesto por la Ley de Ganadería para el Estado de Sonora, su Reglamento en materia de inspección sanitaria del ganado bovino que se introduce al Estado de Sonora, así como las demás aplicables a la materia de sanidad animal contempladas en la Ley Federal de Sanidad Animal, Reglamento y normas oficiales mexicanas respectivas, así como las medidas de carácter sanitario que emita la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura.
 
-La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura, la Dirección General y las autoridades municipales en el ámbito de sus competencias, podrán emitir recomendaciones derivadas de visitas de inspección para constatar el buen trato y bienestar de los animales.
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 58.
 
-El transporte o traslado en cualquier tipo de vehículo, deberá llevarse a cabo, en todo momento, con el debido cuidado y medidas de seguridad, utilizando procedimientos que eviten la crueldad, malos tratos, exposición a las inclemencias del clima, fatiga extrema o carencia de descanso, asegurando la bebida y alimento necesarios, evitando el hacinamiento y tomando en cuenta lo que para tal efecto establecen las normas oficiales mexicanas; en el caso de algún accidente deberá darse atención veterinaria a los animales que resultaren lesionados priorizando su bienestar en todo momento.
+La movilización del ganado mayor y menor se realizará en la forma establecida por la Ley de Ganadería para el Estado de Sonora, evitando el maltrato, crueldad, abuso y sufrimiento de los animales.
+
+El ganado anteriormente referido podrá sacrificarse fuera de los rastros, en los casos previstos en la Ley de Ganadería referida en el párrafo anterior atendiendo la normatividad aplicable.
 
 ### CAPÍTULO VI. DE LOS ANIMALES UTILIZADOS EN ENSEÑANZA, INVESTIGACIÓN CIENTÍFICA Y EXPERIMENTACIÓN
 
@@ -921,11 +1051,15 @@ El transporte o traslado en cualquier tipo de vehículo, deberá llevarse a cabo
 
 El uso de animales de laboratorio se sujetará a lo establecido en las normas oficiales mexicanas en la materia.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-En el Estado de Sonora quedan expresamente prohibidas las prácticas de vivisección, disección y de experimentación en animales con fines docentes o didácticos en los niveles de enseñanza primaria, secundaria y preparatoria. Dichas prácticas serán sustituidas por gráficas, fotografías, videos, materiales biológicos y otros métodos alternativos.
+En el Estado de Sonora quedan prohibidas las prácticas de vivisección, disección y de experimentación en animales con fines docentes o didácticos en los niveles de enseñanza primaria, secundaria y preparatoria las cuales podrán ser sustituidas por gráficas, fotografías, videos, materiales biológicos y otros métodos alternativos.
 
-Ningún estudiante podrá ser obligado a experimentar con animales contra su voluntad, por lo que el docente deberá proporcionar prácticas alternativas para otorgar calificación aprobatoria. Quien obligue a un estudiante a realizar estas prácticas contra su voluntad podrá ser denunciado y sancionado en los términos de la presente ley.
+Ningún estudiante de nivel básico o de educación media superior, podrá ser obligado a experimentar con animales contra su voluntad, por lo que el docente deberá proporcionar prácticas alternativas para otorgar calificación aprobatoria.
+
+Quedan exentos de lo dispuesto en el párrafo primero del presente artículo, las escuelas de nivel licenciatura, posgrado e investigación con orientación médica veterinaria y afines, para los cuales es necesaria la práctica con animales.
 
 Cuando los casos sean permitidos, ningún animal podrá ser usado más de una vez en experimentos de vivisección, debiendo previamente ser insensibilizado, según las características de la especie y del tipo de procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención. Si sus heridas son de consideración o implican mutilación grave, se les dará eutanasia inmediatamente al término de la operación.
 
@@ -947,21 +1081,27 @@ En caso de que dichas consideraciones no puedan ser cumplidas, será necesario s
 
 La Dirección General de Protección y Bienestar Animal de la CEDES deberá expedir la licencia correspondiente y deberá supervisar las condiciones y desarrollo de las intervenciones quirúrgicas experimentales en animales. Cualquier acto violatorio que recaiga en el ámbito federal lo hará de su conocimiento de manera inmediata a la autoridad correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 62.
 
-Ningún particular podrá vender, alquilar, prestar o donar animales vivos para que se realicen experimentos en ellos.
+Ningún particular podrá vender, alquilar, prestar o donar animales vivos para experimentos, salvo en el caso de instituciones de investigación científica o educativa que cumplan con las normativas establecidas en la norma oficial mexicana correspondiente y otras disposiciones legales aplicables.
 
 Queda prohibido capturar animales abandonados, entregarlos voluntariamente o establecer programas de entrega voluntaria de animales para experimentar con ellos. El Centro o clínicas veterinarias en los municipios no podrán destinar animales para que se realicen experimentos en ellos. Si por algún motivo dichos Centros reciben algún animal que muestre signos de haber sido utilizado para experimentación deberá denunciar tales hechos ante la fiscalía para la investigación correspondiente.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 63.
 
-El personal que intervenga en la eutanasia de animales, deberá estar plenamente autorizado y capacitado en la aplicación de las diversas técnicas de eutanasia, manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas, así como en métodos alternativos para la eutanasia, en estricto cumplimiento de las normas oficiales mexicanas y las normas ambientales.
+La eutanasia de animales siempre y cuando se requiera y esté plenamente justificada deberá ser practicada por médicos veterinarios zootecnistas, según la Norma Oficial Mexicana aplicable y otras normas oficiales mexicanas aplicables.
 
 ### CAPÍTULO VII. DE LA VENTA Y COMERCIALIZACIÓN DE ANIMALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 64.
 
-En el Estado de Sonora queda prohibida la venta de perros, gatos y animales exóticos, así como la crianza informal denominada de traspatio o entre particulares.
+En el Estado de Sonora queda prohibida la venta ilegal de perros, gatos y animales exóticos, así como la crianza informal de dichas especies.
 
 La venta de otras especies que serán utilizados como animales de compañía se hará a través de establecimientos mercantiles en las denominadas tiendas de mascotas, acuarios, veterinarias o expendios, que con independencia de los permisos tramitados ante la federación deberá contar con una licencia estatal para manejo y resguardo de animales expedida por la Dirección General de Protección y Bienestar Animal de la CEDES.
 
@@ -977,27 +1117,11 @@ Queda prohibida la venta o comercialización de cualquier especie de animales en
 
 El espacio mínimo por animal, la adaptación de su hábitat, el tiempo de exposición, el enriquecimiento ambiental, así como el tiempo de esparcimiento, deben contemplarse según la especie, peso, talla y altura para garantizar su protección, cuidado y las cinco libertades.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-Los establecimientos autorizados que se dediquen a la venta de animales están obligados a expedir un certificado de venta a la persona que lo adquiera, el cual deberá contener, por lo menos:
-
-I. Animal o especie de que se trate;
-
-II. Sexo y edad del animal;
-
-III. Nombre del tutor o guardián;
-
-IV. Domicilio del tutor o guardián;
-
-V. Procedencia;
-
-VI. Nombre y número de licencia del vendedor expedida por la autoridad competente y;
-
-VII. Cartilla de vacunación.
-
-Dichos establecimientos están obligados a otorgar al comprador un manual de cuidado, resguardo y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y a las faltas a las que están sujetos por el incumplimiento de las disposiciones de la presente Ley. Dicho manual deberá estar certificado por médico veterinario con cédula profesional.
-
-Las crías de los animales de vida silvestre y zoológicos públicos o privados no están sujetas al comercio abierto. Se debe notificar a la autoridad correspondiente cuando sean enajenadas, intercambiadas, prestadas o donadas a terceras personas, o trasladadas a otras instituciones.
+Los establecimientos autorizados que se dediquen a la venta de animales de compañía están obligados a expedir un certificado de venta a la persona que lo adquiera, el cual deberá contener lo establecido en las normas oficiales mexicanas vigentes.
 
 ###### Artículo 67.
 
@@ -1037,31 +1161,35 @@ IX. Las demás que establezca la normatividad vigente.
 
 Los establecimientos mercantiles regulados en el presente capítulo deberán llevar a cabo las mejores prácticas para procurar el bienestar de los animales a su cargo, así como acatar lo dispuesto por esta Ley y sus reglamentos para evitar cualquier acto de maltrato o crueldad animal.
 
-### CAPÍTULO VIII. DE LOS ESTABLECIMIENTOS DEDICADOS AL MANEJO Y CUIDADO DE LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO VIII. DE LOS ESTABLECIMIENTOS DEDICADOS AL MANEJO Y CUIDADO DE LOS ANIMALES DE COMPAÑÍA
 
 ###### Artículo 68.
 
 Será considerado albergue aquel lugar que se encuentre legalmente constituido como asociación civil y cuyo objeto social sea el rescate de animales y/o resguardo temporal, y/o coadyuvar para establecer campañas de esterilización y adopción y/o impartir cursos o talleres para inculcar el cuidado a los animales y cualquier otra actividad relacionada con las descritas.
 
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 69.
 
-Los refugios, santuarios y albergues para animales, y demás instalaciones creadas para alojar temporal o permanentemente a los animales, deberán registrarse de manera gratuita ante la Dirección General de Protección y Bienestar Animal de la CEDES y contar con personal debidamente acreditado y capacitado, así como con instalaciones adecuadas, y serán objeto de regulación específica en los reglamentos derivados de la presente ley.
+Los refugios, santuarios y albergues para animales, y demás instalaciones sin fines de lucro, creadas para alojar temporal o permanentemente a los animales, deberán registrarse de manera gratuita ante la Dirección General de Protección y Bienestar Animal de la CEDES y contar con personal debidamente acreditado y capacitado, así como con instalaciones adecuadas, y serán objeto de regulación específica en los reglamentos derivados de la presente ley.
 
-Las pensiones, hoteles, parques, estancias, escuelas de adiestramiento, estéticas, veterinarias y demás instalaciones con fines comerciales creadas para atender y mantener temporalmente a los animales, deberán contar con la licencia para manejo y resguardo de animales que expida la Dirección General, además de cumplir con los siguientes requerimientos:
+Las pensiones, hoteles, parques, estancias, escuelas de adiestramiento, estéticas y demás instalaciones con fines comerciales creadas para atender y mantener temporalmente a los animales, deberán contar con la licencia para manejo y resguardo de animales que expida la Dirección General, además de cumplir con los siguientes requerimientos:
 
-I. Un registro interno con los datos de cada uno de los animales que ingresan y del tutor, guardián o responsable. Dicho registro estará sujeto a los derechos de datos personales y a disposición de la autoridad competente en ejercicio de sus funciones, siempre que ésta lo requiera;
+I. Un registro interno con los datos de cada uno de los animales que ingresan y del tutor, guardián, responsable o propietario. Dicho registro estará sujeto a los derechos de datos personales y a disposición de la autoridad competente en ejercicio de sus funciones, siempre que ésta lo requiera;
 
-II. El registro señalado en el párrafo anterior incluirá como mínimo el estado general de salud, las características completas de cada animal, con nombre, raza, edad, mecanismo de identificación, así como el nombre y domicilio del tutor o guardián, La Cartilla y desparasitaciones en el momento del depósito, con la conformidad escrita de ambas partes;
+II. El registro señalado en el párrafo anterior incluirá como mínimo el estado general de salud, las características completas de cada animal, con nombre, raza, edad, mecanismo de identificación, así como el nombre y domicilio del tutor, guardián o propietario, La Cartilla y desparasitaciones en el momento del depósito, con la conformidad escrita de ambas partes;
 
-III. Deberán contar con un médico veterinario con cédula profesional debidamente registrado y autorizado por las autoridades correspondientes; en el caso de clínicas veterinarias y hospitales que hagan internamiento de animales enfermos deberán contar con médico veterinario las 24 horas todos los días del año; en el caso de las estéticas, pensiones, parques, hoteles y escuelas de adiestramiento, aunque no se encuentre físicamente en el lugar, deberá ser capaz de responder a una emergencia en un tiempo prudente;
+III. Deberán contar con un médico veterinario con cédula profesional debidamente registrado y autorizado por las autoridades correspondientes que, aunque no se encuentre físicamente en el lugar, sea capaz de responder a emergencias en un tiempo razonable;
 
-IV. Personal debidamente capacitado y certificado por instituciones educativas avaladas por la Secretaría de Educación y Cultura para la realización de sus actividades dentro del establecimiento;
+IV. Contar con personal debidamente capacitado y certificado por instituciones educativas avaladas por la Secretaría de Educación y Cultura para la realización de sus actividades dentro del establecimiento;
 
 V. El espacio mínimo por animal y el tiempo de esparcimiento si es el caso debe contemplarse según la especie, raza, peso, talla, altura y otras características, para garantizar su protección, cuidado y las cinco libertades;
 
-V (SIC). Si un animal enfermara, el establecimiento lo comunicará inmediatamente al tutor, guardián o responsable, quien podrá dar la autorización para un tratamiento veterinario o recogerlo; si la enfermedad fuera zoonótica deberá dar aviso a las autoridades competentes en la materia;
+VI. Si un animal enfermara o muriera, el establecimiento lo comunicará inmediatamente al tutor, guardián, responsable o propietario, quien podrá dar la autorización para un tratamiento veterinario o recogerlo; si la enfermedad fuera zoonótica deberá dar aviso a las autoridades competentes en la materia;
 
-VII. Los titulares de pensiones, hoteles, parques, estancias, escuelas de adiestramiento, estéticas, veterinarias y o instalaciones similares, procurarán tomar las medidas necesarias para evitar contagios entre los animales residentes y del entorno; y
+VII. Los titulares de pensiones, hoteles, parques, estancias, escuelas de adiestramiento, estéticas y o instalaciones similares, procurarán tomar las medidas necesarias para evitar contagios entre los animales residentes y del entorno; y
 
 VIII. Los demás requisitos que establezca la normatividad vigente.
 
@@ -1255,7 +1383,9 @@ Cuando el que cometa la infracción sea un menor de edad, se abrirá el expedien
 
 Para el caso de mayores de dieciocho años, se procederá la amonestación o la sanción correspondiente, en los términos de las fracciones I, II, III y IV del artículo 84 de la presente ley, a juicio de las autoridades correspondientes, tomando en consideración la intencionalidad en la acción de la conducta, la edad, el grado de educación, la situación social, económica y demás características del infractor.
 
-En todos los casos se aplicará la sanción correspondiente para el tipo de infracción de que se trate, no procediendo la amonestación en los casos de las violaciones a lo dispuesto por los artículos 32, fracciones I a la XXI y artículo 43 en los cuales se aplicará la multa correspondiente y el arresto por 36 horas.
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+En todos los casos se aplicará la sanción correspondiente para el tipo de infracción de que se trate, no procediendo la amonestación en los casos de las violaciones a lo dispuesto por los artículos 32 y 43, en los cuales se aplicará la multa correspondiente y el arresto por 36 horas.
 
 ###### Artículo 84.
 
@@ -1265,11 +1395,13 @@ I. Corresponde a los municipios, a través de El Centro, en el ámbito de sus co
 
 a. Amonestación. Para quienes incumplan con el artículo 29 fracción I, II, III, XIII, XVI, XIX; artículo 47 fracción VI;
 
-b. Multa de 1 a 50 veces la unidad de medida de actualización vigente, por violaciones a lo dispuesto por los artículos 29 fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVII, XVIII y XX; artículo 31 fracciones I a la XIII; artículo 37 fracciones II y III; artículo 42; artículo 44 fracciones VIII, X, XI, XII, XVIII, y XX; artículo 47 fracciones de la I a la V; artículo 50; artículo 54; artículo 67 fracciones II y III;
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-c. Multa de 1 a 150 veces la unidad de medida y actualización, por violaciones a lo dispuesto por el artículo 29 fracción XV; artículo 32 fracciones I a la XXI y deberá además dar aviso a Fiscalía; artículo 35; artículo 36; artículo 43; artículo 44 fracciones II, VI, IX, XIII, XV, XVI, XVII, XIX, XXI; artículo (sic)
+b. Multa de I a 50 veces la unidad de medida de actualización vigente, por violaciones a lo dispuesto por los artículos 29 fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVII, XVIII y XX; artículo 31; artículo 37 fracciones II y III; artículo 42; artículo 44 fracciones VIII, X, XI, XII, XVIII, y XX; artículo 47 fracciones de la I a la V; artículo 50; artículo 54; artículo 67 fracciones II y III;
 
-(sic) 46; artículo 48 fracciones de la I a la VI, artículo 49; artículo 51 párrafo primero; 53 fracciones I a la IV de la presente ley.
+> <small>(REFORMADO, B.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+c. Multa de 1 a 150 veces la unidad de medida y actualización, por violaciones a lo dispuesto por el artículo 29 fracción XV; artículo 32 y deberá además dar aviso a Fiscalía; artículo 35; artículo 36; artículo 43; artículo 44 fracciones II, VI, IX, XIII, XV, XVI, XVII, XIX, XXI; artículo 46; artículo 48 fracciones de la I a la VI, artículo 49; artículo 51 párrafo primero; 53 fracciones I a la IV de la presente ley.
 
 II. Corresponde a la CEDES a través de la Dirección General de Protección y Bienestar Animal, imponer multa de 1 a 500 veces unidad de medida de actualización vigente por violaciones a lo dispuesto en el artículo 37 fracciones I, IV, V, VI y VII; artículo 38; artículo 39; artículo 40; artículo 41; artículo 42; 44 fracciones I, III, IV, V, VII, XIV, XXII, XXIII, XXIV, XXV y XXVI; artículo 46; artículo 51 párrafo segundo; artículo 52 párrafo; artículo 55; artículo 56; artículo 59; artículo 60; artículo 61; artículo 62; artículo 63; artículo 64; artículo 65; artículo 66; artículo 67 en sus fracciones I, IV, V, VI, VII y VIII; 69 fracciones I a la VII; y 70 de la presente ley.
 
@@ -1368,3 +1500,13 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los doce días del mes de septiembre del año dos mil veinticuatro.- GOBERNADOR DEL ESTADO.- DR FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- LIC. ADOLFO SALAZAR RAZO.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 5 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 06, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción de la fracción XXVI del artículo 44 del presente Decreto, la cual, entrará en vigor el 22 de octubre de 2027.
