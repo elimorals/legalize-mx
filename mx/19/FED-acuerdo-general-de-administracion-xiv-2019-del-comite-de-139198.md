@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-xiv-2019-del-comite-de-139198
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-11-26"
-last_updated: "2023-01-06"
+last_updated: "2024-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139198&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-15"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION XIV/2019 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICION, ARRENDAMIENTO, ADMINISTRACION Y DESINCORPORACION DE BIENES Y LA CONTRATACION DE OBRAS Y PRESTACION DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VII/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 5 DE NOVIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2024 (ABROGADO).
 
 Acuerdo publicado en el Número 20 del Diario Oficial de la Federación, el martes 26 de noviembre de 2019.
 
@@ -5290,3 +5292,37 @@ CUARTO. Se derogan los artículos 13, fracciones II, III y V; 14, fracciones III
 QUINTO. Dentro de los dos meses siguientes a la entrada en vigor del presente Acuerdo General de Administración, las áreas competentes emitirán las guías y formatos involucrados previstos en este ordenamiento, sin menoscabo de que hasta que éstos entren en vigor, se continuarán aplicando los vigentes a la fecha.
 
 SEXTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 5 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VII/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de la disposición mencionado en el siguiente transitorio.
+
+SEGUNDO. La aplicación del Código Nacional de Procedimientos Civiles y Familiares como norma supletoria del presente Acuerdo General de Administración estará condicionada a la entrada en vigor a nivel federal, que se determine para dicho Código en términos de la Declaratoria que indistinta y sucesivamente realicen las Cámaras de Diputados y Senadores que integran el Congreso de la Unión. Hasta en tanto, se aplicará de forma supletoria a este Acuerdo General de Administración el Código Federal de Procedimientos Civiles.
+
+TERCERO. El presente Acuerdo General de Administración estará vigente hasta en tanto el órgano de administración judicial que se cree en términos del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado en el Diario Oficial de la Federación el quince de septiembre del año de dos mil veinticuatro, determine lo conducente.
+
+CUARTO. Se abroga el Acuerdo General de Administración XIV/2019, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, de siete de noviembre de dos mil diecinueve, por el que se regulan los procedimientos para la adquisición, arrendamiento, administración y desincorporación de bienes y la contratación de obras y prestación de servicios requeridos por la Suprema Corte de Justicia de la Nación, publicado en el Diario Oficial de la Federación el veintiséis de noviembre de dos mil diecinueve.
+
+Todos los procedimientos de contratación iniciados antes de la entrada en vigor del presente Acuerdo General de Administración que se encuentren pendientes de conclusión, así como los actos de ejecución de los contratos derivados de los mismos, se continuarán tramitando hasta su terminación conforme a las disposiciones del Acuerdo General de Administración con el que inició y las aplicables relacionadas con el mismo.
+
+Para efectos de la interpretación del párrafo anterior, se entenderá que el procedimiento de contratación inicia con la publicación de la convocatoria o se soliciten cotizaciones. Los documentos rectores emitidos con fundamento en el Acuerdo General de Administración XIV/2019 tendrán validez para los nuevos procedimientos.
+
+QUINTO. Se abrogan las disposiciones por las que se regula la asignación temporal de espacios físicos a personas físicas y morales en los inmuebles de la Suprema Corte de Justicia de la Nación, aprobadas por el Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, en sesión ordinaria de treinta y uno de enero de dos mil veintidós.
+
+SEXTO. Se deroga el artículo 68 del Acuerdo General de Administración número II/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de trece de mayo de dos mil diecinueve, por el que se establecen las normas relativas a la planeación, programación, presupuesto, contabilidad y evaluación del gasto de la Suprema Corte de Justicia de la Nación.
+
+SÉPTIMO. Dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo General de Administración, el Comité de Adquisiciones, Servicios, Obras y Desincorporaciones deberá emitir la normativa y los formatos involucrados previstos en este ordenamiento, sin menoscabo de que hasta que éstos entren en vigor se continuarán aplicando los vigentes a la fecha.
+
+OCTAVO. La Dirección General de Recursos Materiales a la entrada en vigor del presente Acuerdo General de Administración podrá llevar a cabo los procedimientos previstos en el presente Acuerdo General de Administración, a través del Sistema para Procedimientos de Contratación.
+
+La Dirección General de Tecnologías de la Información en el plazo de ciento ochenta días naturales a la entrada en vigor del presente Acuerdo General de Administración deberá realizar las adecuaciones necesarias a dicho Sistema para que:
+
+a) Se permita la tramitación de todos los procedimientos de contratación previstos en este Acuerdo General de Administración, y
+
+b) Puedan utilizarlo las Direcciones Generales de Infraestructura Física, así como las Casas de la Cultura Jurídica en los procedimientos de su competencia.
+
+NOVENO. En un plazo de ciento ochenta días naturales contados a partir del día siguiente a la publicación del presente Acuerdo General de Administración, la Dirección General de Justicia TV Canal del Poder Judicial de la Federación deberá presentar al Comité de Gobierno y Administración el proyecto normativo, previo dictamen de la Dirección General de Asuntos Jurídicos, mediante el cual se organice el Comité de Contenidos al que se hace referencia en el artículo 100 del presente Acuerdo general de Administración. Hasta en tanto inicie funciones dicho Comité será exigible el visto bueno, autorización o dictamen favorable de las contrataciones para el Canal del Poder Judicial de la Federación.
+
+DÉCIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
