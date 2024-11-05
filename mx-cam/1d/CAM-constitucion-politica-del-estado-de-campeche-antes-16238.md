@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-09-18"
+last_updated: "2024-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -917,11 +917,13 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 ### CAPITULO XIII. De las Facultades del Congreso
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 54.
 
-Son facultades del Congreso:
+Son facultades del H. Congreso del Estado:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Crear nuevos Municipios libres, dentro de los límites de los existentes, siendo necesario al efecto:
 
@@ -944,6 +946,8 @@ e).- Que la erección del nuevo Municipio sea aprobada por las dos terceras part
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 1997)</small>
 
 La creación jurídica del nuevo Municipio se llevará a cabo mediante la modificación de esta Constitución y de la Ley Orgánica de los Municipios del Estado. La administración del citado Municipio, entretanto se celebren elecciones ordinarias, quedará a cargo de un Comité Municipal compuesto por un Presidente, un Regidor y un Síndico, propietarios y suplentes, nombrados por el Congreso del Estado a propuesta del Gobernador;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
@@ -987,6 +991,8 @@ V.- Establecer en ley, observando las prohibiciones y limitaciones previstas por
 
 V. bis.- Autorizar, conforme a las bases establecidas en la ley, al Ejecutivo Estatal y a los HH. Ayuntamientos, la contratación de empréstitos o créditos para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, respecto al cumplimiento de todo tipo de obligaciones o empréstitos y las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuír sus emolumentos;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
@@ -1001,29 +1007,35 @@ VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribun
 
 IX.- Expedir su Ley Orgánica y los reglamentos que sean necesarios para regular su estructura y funcionamiento. La Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen, los cuales no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia.
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 XI.- Resolver acerca de las renuncias del Gobernador y los Diputados, que deben ser fundadas en causa grave;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+XII.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2024)
 
-XII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, expedidos por el Gobernador del Estado; y resolver acerca de sus renuncias, mismas que nunca serán aceptadas en número y tiempos que propicien la desintegración de ese Tribunal;
+XIII.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2024)
 
-XIII.- Declarar justificadas o nó, por mayoría absoluta de votos, las solicitudes de destitución de autoridades judiciales que hiciere el Gobernador del Estado, en los términos del artículo 86 de este Ordenamiento;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-XIV.- Otorgar licencia al Gobernador del Estado, a los Magistrados y a los Diputados, para separarse de sus funciones hasta por seis meses;
+XIV.- Otorgar licencia a la o el Gobernador del Estado y a las o los Diputados, para separarse de sus funciones hasta por seis meses; así como cumplir con lo que dispone el artículo 82 de esta Constitución;
 
 > <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
 
 XV.- Llamar a quienes deban sustituir a los diputados en ejercicio en los casos de renuncia, muerte, inhabilidad previamente calificada, y licencia. El llamamiento sólo tendrá lugar cuando la falta ponga en peligro la existencia de quórum;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 XVI.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República, al Estado o a la humanidad y otorgar pensiones a su fallecimiento, a las familias de las mismas que comprueben sus difíciles condiciones económicas;
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declaración de la persona Gobernadora Electa que hubiere hecho el Tribunal Electoral del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
@@ -1069,9 +1081,15 @@ XXIII.- Conocer de los procedimientos en materia de juicio político;
 
 XXIV.- Determinar, excepcionalmente en los casos de epidemias, peligro de invasión, fenómenos meteorológicos, caso fortuito o fuerza mayor, en el país o en el Estado, que las sesiones puedan efectuarse de manera no presencial, mediante video conferencia, trabajo a distancia o medios virtuales electrónicos que permitan la comunicación simultánea, con transmisión en tiempo real, en los términos y condiciones establecidos en la Ley Orgánica del Poder Legislativo del Estado.
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 XXV.- Dictar resoluciones económicas relativas a su régimen interior;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su seno;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
@@ -1367,27 +1385,21 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 71.
 
-Son atribuciones del Gobernador:
+Son atribuciones de la Gobernadora o el Gobernador:
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+II.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2024)
 
-II.- Designar a las magistradas y magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación del Congreso o de la Diputación Permanente, según el caso, observando el principio de paridad de género en la composición de ese alto Tribunal;
+III.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
-
-III.- Informar al Consejo de la Judicatura de las faltas que cometan los Jueces;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
-
-IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia;
+IV.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1601,85 +1613,85 @@ El nombramiento deberá recaer en una persona que tenga capacidad y experiencia 
 
 ### CAPITULO XVI. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 77.
+###### ARTICULO 77.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un H. Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Conciliación. El establecimiento, funcionamiento y competencia de los mencionados órganos del Poder Judicial se regirán por lo que dispongan la Ley Orgánica del Poder Judicial del Estado de Campeche y demás leyes que resulten aplicables, de conformidad con las bases que esta Constitución señala. En la designación de las juezas y jueces deberá observarse el principio de paridad de género.
+Se deposita el ejercicio del Poder Judicial del Estado en un H. Tribunal Superior de Justicia y en Juzgados de Primera Instancia y Agencias de Paz. El establecimiento, funcionamiento y competencia de los mencionados órganos del Poder Judicial se regirán por lo que dispongan la Ley Orgánica del Poder Judicial del Estado de Campeche y demás leyes que resulten aplicables, de conformidad con las bases que esta Constitución señala.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+La administración del Poder Judicial del Estado estará a cargo de un órgano de administración judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que, conforme a las bases que señala la Constitución Federal y esta Constitución, establezcan las leyes.
 
-Los Magistrados del H. Tribunal Superior, los jueces de primera instancia, menores y conciliadores, así como los secretarios de acuerdos percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo que dure su encargo.
+La competencia del H. Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas, la competencia de los Juzgados de Primera Instancia y de las Agencias de Paz, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes, de conformidad con las bases que la Constitución Federal y esta Constitución establece.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+Las y los Magistrados del H. Tribunal Superior, las y los Magistrados del Tribunal de Disciplina Judicial, las y los jueces de Primera Instancia y las y los Agentes de Paz, así como las y los integrantes del órgano de administración judicial y demás personal del Poder Judicial del Estado percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
 
-Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+El H. Tribunal Superior de Justicia nombrará y removerá a sus secretarios, secretarias y demás funcionarios y empleados. El nombramiento y remoción de las funcionarias, los funcionarios y empleados de los Juzgados de Primera Instancia y Agencias de Paz, se realizará conforme a lo que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género. La elección de las Magistradas y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal de Disciplina Judicial, así como las Juezas y los Jueces de Primera Instancia, se regirá por las bases previstas en el artículo 78 BIS de esta Constitución.
+
+El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial del Estado se sujetará a la regulación establecida en las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 78.
 
-El Tribunal Superior de Justicia del Estado funcionará en acuerdo Pleno o en salas, y estará integrado con el número de magistradas y magistrados numerarios y supernumerarios que determine la Ley Orgánica del Poder Judicial del Estado. En su conformación se observará el principio de paridad de género.
+El Tribunal Superior de Justicia del Estado funcionará en acuerdo Pleno o en salas, y estará integrado con dieciséis Magistradas y Magistrados. En su conformación se observará el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+La determinación del número de Juzgados de Primera Instancia y la adscripción de las y los Jueces de Primera Instancia estará a cargo del órgano de administración judicial del Poder Judicial del Estado de Campeche.
 
-Los nombramientos de los Magistrados serán hechos por el Gobernador y sometidos a la aprobación del Congreso o en su caso de la Diputación Permanente.
+Las y los magistrados, así como las y los jueces de primera instancia, durarán en el ejercicio de su encargo nueve años, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que determine el Capítulo XVII de esta Constitución y la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+La integración, designación y atribuciones de las y los Agentes de Paz se regirán por lo que disponga la Ley Orgánica del Poder Judicial del Estado de Campeche.
 
-Los Magistrados durarán en sus cargos quince años y sólo podrán ser removidos en los supuestos que la legislación correspondiente establezca, en estricto apego al procedimiento respectivo.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2017)</small>
+ARTICULO 78 BIS.- Las y los Magistrados del H. Tribunal Superior de Justicia, las y los Magistrados del Tribunal de Disciplina Judicial, y las y los Jueces de Primera Instancia serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-Al vencimiento de su periodo tendrán derecho a un haber por retiro, de conformidad a las disposiciones que establezca la Ley Orgánica del Poder Judicial del Estado.
+I. El H. Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del H. Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que requiera;
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-ARTICULO 78 BIS.- El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las Leyes.
+a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-El Consejo se integrará por cinco miembros de los cuales, uno será la Presidenta o el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; dos Consejeras y Consejeros designados por el Pleno del Tribunal Superior de Justicia elegidos de entre los integrantes del Poder Judicial del Estado; una Consejera o Consejero designado por el Congreso del Estado, y uno designado por la Gobernadora o el Gobernador del Estado. La Consejera o el Consejero designado por el Congreso del Estado será elegido de la siguiente forma: cada partido político con representación en el Congreso propondrá una candidata o candidato; la lista de las candidaturas resultante se turnará a la comisión o comisiones que se designen para analizar la satisfacción de los requisitos para ocupar el cargo. La comisión o comisiones presentarán al Pleno el informe correspondiente, para que éste elija a una Consejera o Consejero mediante mayoría de votos de los miembros presentes en la sesión correspondiente. La Consejera o el Consejero designado por la Gobernadora o el Gobernador del Estado, así como el designado por el Congreso del Estado deberán contar, además de los requisitos establecidos en el párrafo siguiente, con experiencia en el ámbito de la administración de justicia. En la integración del Consejo se observará el principio de paridad de género.
+c) Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del H. Tribunal Superior de Justicia y de las y los integrantes del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces de Primera Instancia. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder para su aprobación y envío al H. Congreso del Estado.
 
-Todos los Consejeros deberán reunir los requisitos señalados en el artículo 79 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+III. El H. Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral del Estado de Campeche a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
-Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
-Los Consejeros, con excepción del Presidente, durarán en su cargo cinco años y podrán ser reelegidos, una sola vez, para un nuevo período. Al término del encargo serán sustituidos de manera escalonada. Durante su encargo sólo podrán ser removidos en los términos de lo dispuesto en esta Constitución y en la legislación correspondiente.
+IV. El Instituto Electoral del Estado de Campeche efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados a la Autoridad Electoral Jurisdiccional del Estado de Campeche, quienes resolverán las impugnaciones antes de que el H. Congreso del Estado de Campeche instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
 
-Las Leyes garantizarán a dichos servidores públicos, a excepción del Presidente del Consejo, una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma y establecerán las condiciones para su ingreso, formación y permanencia.
+Para el caso de Magistradas y Magistrados del H. Tribunal Superior de Justicia del Estado y de las y los integrantes del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de la Gobernadora o Gobernador hasta dos personas aspirantes; el Poder Legislativo postulará hasta dos personas, mediante votación calificada de dos tercios de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del H. Tribunal Superior de Justicia, postulará hasta dos personas por mayoría de ocho votos.
 
-El Consejo funcionará en Pleno o en Comisiones. El Pleno resolverá sobre la designación, adscripción, ratificación y remoción de Jueces, así como de los demás asuntos que la Ley determine.
+Para el caso de Juezas y Jueces de Primera Instancia la elección se realizará por distrito judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará una persona para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará una persona mediante votación de dos terceras partes de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del H. Tribunal Superior de Justicia del Estado, postulará una persona por mayoría de ocho votos.
 
-El Consejo de la Judicatura establecerá la configuración territorial de los Juzgados del Poder Judicial, administrará la carrera judicial; nombrará y removerá a los Jueces y demás servidores públicos del Poder Judicial con base en principios de idoneidad, experiencia, honorabilidad, pluralidad, igualdad de género y no discriminación, asimismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la Ley. Será el órgano encargado de la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, con excepción del Pleno del Tribunal Superior de Justicia del Estado, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+El H. Congreso del Estado incorporará a los listados que remita al Instituto Electoral del Estado de Campeche a las personas que se encuentren en funciones en los cargos señalados en los párrafos anteriores al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
 
-La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado de Campeche celebre en la primera semana del mes de diciembre del año anterior a la elección.
 
-De conformidad con lo que establezca la Ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Pleno del Tribunal Superior de Justicia del Estado podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional local. El Pleno del Tribunal Superior de Justicia del Estado también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos ocho votos. La Ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el Instituto Electoral del Estado de Campeche o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
 
-El Pleno del Tribunal Superior de Justicia del Estado elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial del Estado. Los presupuestos así elaborados serán remitidos por el Presidente del Pleno del Tribunal Superior de Justicia del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79.
 
-Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
+Las Magistradas y los Magistrados y las Juezas y los Jueces de Primera Instancia del Poder Judicial del Estado deberán reunir los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
+II. Poseer el día de la publicación de la convocatoria señalada en esta Constitución, título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
+III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+IV. Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en el artículo 78 BIS de esta Constitución.
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
-
-V.- Ser campechano de nacimiento o haber residido en el Estado durante los últimos cinco años.
+Para el caso de Magistradas y Magistrados, no podrán ocupar el cargo las personas que hayan ocupado el cargo de titular de Secretaría en la Administración Pública o su equivalente, Fiscal o Diputada o Diputado Local durante el año previo al día de la publicación de la convocatoria respectiva por el H. Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1693,19 +1705,23 @@ Magistrado: "Sí, protesto".
 
 Presidente: "Si no lo hiciéreis así, la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-Los Jueces rendirán la protesta de Ley ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura Local, y los demás funcionarios y empleados de la Administración de Justicia, rendirán protesta ante la autoridad de la cual dependan.
+Las y los Jueces rendirán la protesta de Ley ante el H. Congreso del Estado, y las y los demás funcionarios y empleados del Poder Judicial del Estado rendirán protesta ante el órgano de administración de justicia y de la autoridad de la cual dependan.
 
 ###### ARTICULO 81.
 
 (DEROGADO, P.O. 27 DE JUNIO DE 2017)
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 82.
 
-Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior de Justicia; pero las que excedan de dicho tiempo las concederá el Congreso, o, en su defecto, la Diputación Permanente.
+Cuando la falta de una Magistrada o Magistrado del H. Tribunal Superior de Justicia, de una Magistrada o Magistrado del Tribunal de Disciplina Judicial, y Jueza o Juez de Primera Instancia excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El H. Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+
+Las renuncias de las Magistradas y Magistrados del H. Tribunal Superior de Justicia, y de las Magistradas y Magistrados del Tribunal de Disciplina Judicial solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del H. Congreso del Estado o, en sus recesos, por la Diputación Permanente.
+
+Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno del H. Tribunal Superior de Justicia para el caso de Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, y por el órgano de administración judicial para el caso de o (sic) Juezas y Jueces de Primera Instancia. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del H. Congreso del Estado o, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de un año.
 
 ###### ARTICULO 82
 
@@ -1715,49 +1731,61 @@ Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas
 
 2.- (DEROGADO, P.O. 24 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 83.
 
-Los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura Local, los Jueces de primera instancia y menores y los respectivos secretarios, no podrán en ningún caso aceptar ni desempeñar otro empleo o encargo de la Federación, del Estado y de los Municipios, en sus sectores centralizado o descentralizado, o de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de Magistrado, Consejero, Juez o Secretario.
-
-Las personas que hayan ocupado el cargo de Magistrado del Tribunal Superior de Justicia, miembros del Consejo de la Judicatura Local, de Jueces de primera instancia o menores, no podrán dentro de los dos años siguientes a la fecha de su retiro actuar como patronos, abogados o representantes en cualquier proceso, del que hubieren conocido previamente, ante los órganos del Poder Judicial del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
-
-###### ARTICULO 84.
-
-Los Jueces de Primera Instancia, deberán cubrir los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
-
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
-
-II.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
-
-III.- Gozar de buena reputación.
+Las Magistradas y los Magistrados del H. Tribunal Superior de Justicia, las Juezas y los Jueces de Primera Instancia, los respectivos secretarios, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial y las y los integrantes del Pleno del órgano de administración judicial, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo en el Estado ni en la Federación, de las entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
 
-Los Jueces de Primera Instancia durarán en sus cargos quince años y sólo podrán ser removidos en los supuestos que la legislación correspondiente establezca, en estricto apego al procedimiento respectivo.
+Las personas que hayan ocupado el cargo de Magistrado del Tribunal Superior de Justicia, miembros del Consejo de la Judicatura Local, de Jueces de primera instancia o menores, no podrán dentro de los dos años siguientes a la fecha de su retiro actuar como patronos, abogados o representantes en cualquier proceso, del que hubieren conocido previamente, ante los órganos del Poder Judicial del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-Al vencimiento de su periodo tendrán derecho a un apoyo por retiro, mismo que se definirá y señalará su monto y demás características en la Ley Orgánica del Poder Judicial del Estado de conformidad siempre con la disponibilidad presupuestal.
+Durante dicho plazo, las personas que se hayan desempeñado como Magistradas o Magistrados del Pleno del H. Tribunal Superior de Justicia, Magistradas o Magistrados del Tribunal de Disciplina Judicial, y Juezas o Jueces de Primera Instancia, no podrán ocupar los cargos señalados en el último párrafo del artículo 79 de esta Constitución.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-Los Jueces serán nombrados y adscritos por el Consejo de la Judicatura Local, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la Ley.
+Los impedimentos de este artículo serán aplicables a las y los funcionarios judiciales que gocen de licencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
-El Pleno del Tribunal Superior de Justicia del Estado podrá solicitar al Consejo de la Judicatura Local que investigue y supervise la conducta de algún Juez si lo considerase pertinente.
+La infracción a lo previsto en los párrafos anteriores será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+###### ARTICULO 84.
+
+El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones.
+
+El Tribunal de Disciplina Judicial se integrará por tres personas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en esta Constitución.
+
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 79 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
+
+El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones. El Pleno será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
+
+El Tribunal desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por una o uno de sus integrantes, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de dos votos, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
+
+El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+El Tribunal podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el H. Congreso del Estado.
+
+Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de las y los Magistrados del H. Tribunal Superior de Justicia, que sólo podrán ser removidos de su cargo en los términos del Capítulo XVII de esta Constitución.
+
+El Tribunal evaluará el desempeño de las Juezas y Jueces de Primera Instancia que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Capítulo XVII de esta Constitución.
+
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo magistradas y magistrados, juezas y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 85.
 
@@ -1765,31 +1793,37 @@ El Poder Judicial del Estado contará con Jueces de Control, Tribunales de Enjui
 
 Para ocupar el cargo de Jueces Penales o de Justicia para Adolescentes es necesario, además de los requisitos señalados en esta Constitución, no haberse desempeñado como Fiscal General del Estado o Vicefiscal General, Fiscal, Agente del Ministerio Público o Agente de la Policía Ministerial Investigadora, por lo menos 2 años anteriores a la fecha de protesta del cargo.
 
-Los Jueces de Cuantía Menor deberán cumplir los mismos requisitos señalados para los Jueces de primera instancia. Los Jueces de Cuantía Menor y sus secretarios quedan comprendidos en la prohibición contenida en el artículo 83 de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
-
 Los Tribunales en materia laboral se organizarán de conformidad con lo dispuesto en la Ley Federal del Trabajo y en la Ley Orgánica del Poder Judicial del Estado de Campeche y tendrán las atribuciones que estos ordenamientos establezcan.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 86.
 
-El Gobernador podrá pedir ante el Congreso del Estado, o, ante la Diputación Permanente, la destitución por faltar al cumplimiento de sus deberes oficiales o violar notoriamente las buenas costumbres, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia. Si el Congreso del Estado, o en los recesos de éste, la Diputación Permanente, declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, competencia territorial y especialización por materias de los Juzgados de Primera Instancia, así como la determinación de los distritos judiciales; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes. Asimismo, tendrá las atribuciones que le confiera la Ley respecto a los Juzgados de Conciliación.
 
-El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud. También será oído dicho funcionario por el Congreso o por la Diputación Permanente, en su caso.
+El Pleno del órgano de administración judicial se integrará por tres personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la o el Gobernador del Estado; uno por el H. Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes; y una por el Pleno del H. Tribunal Superior de Justicia, con mayoría de ocho votos. La presidencia del órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+Quienes integren el Pleno del órgano de administración judicial deberán ser mexicanas o mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitadas o inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Capítulo XVII de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El órgano de administración judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela de Formación Judicial del Estado responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+De conformidad con lo que establezca la ley, el órgano de administración judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al órgano de administración judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia.
+
+El órgano de administración judicial, a solicitud del Pleno del H. Tribunal Superior de Justicia del Estado, podrá concentrar en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos en el ámbito estatal. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
+
+El órgano de administración judicial elaborará el presupuesto del Poder Judicial del Estado. Los presupuestos serán remitidos por dicho órgano para su inclusión en el proyecto de Ley de Presupuesto de Egresos del Estado de Campeche para el ejercicio fiscal que corresponda.
+
+En el ámbito del Poder Judicial del Estado no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 87.
 
-Será Presidente del Tribunal Superior de Justicia, el Magistrado numerario que sea electo para ese efecto por el Tribunal Pleno, el cual durará en su cargo cuatro años y podrá ser reelecto para un periodo consecutivo por una sola ocasión.
+La Presidencia del H. Tribunal Superior de Justicia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-La elección del Magistrado Presidente deberá realizarse en la primera sesión ordinaria que se celebre después del dieciséis de septiembre del año en que se haga la designación.
-
-En sus faltas temporales y accidentales será suplido por el Magistrado numerario de conformidad con el procedimiento que se defina en la Ley Orgánica del Poder Judicial del Estado.
-
-El Pleno del Tribunal Superior de Justicia del Estado, por conducto de su presidente, dentro de los primeros quince días del mes de septiembre de cada año, presentará por escrito al Congreso del Estado o en su caso, ante la Diputación Permanente, un informe anual sobre el estado general que guarde la administración de justicia en el Estado. Información que posteriormente hará pública ante el Pleno y el Consejo de la Judicatura.
+El Pleno del H. Tribunal Superior de Justicia del Estado, por conducto de su presidente, dentro de los primeros quince días del mes de septiembre de cada año, presentará por escrito al H. Congreso del Estado o en su caso, ante la Diputación Permanente, un informe anual sobre el estado general que guarde la impartición y administración de justicia en el Estado. Información que posteriormente hará pública ante el Pleno del H. Tribunal y el órgano de administración judicial.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2039,7 +2073,9 @@ ARTICULO 101 QUÁTER.- El Sistema Anticorrupción del Estado de Campeche es la i
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría de la Contraloría de la Administración Pública Estatal; por el presidente del Tribunal de Justicia Administrativa del Estado; por el Presidente de la Comisión de Transparencia y Acceso a la Información Pública del Estado; así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana del Sistema Anticorrupción. El Comité Coordinador estará presidido por el Presidente del Consejo de Participación Ciudadana del Sistema.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría de la Contraloría de la Administración Pública Estatal; por la o el presidente del Tribunal de Justicia Administrativa del Estado; por la o el Presidente de la Comisión de Transparencia y Acceso a la Información Pública del Estado; así como por una o un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana del Sistema Anticorrupción. El Comité Coordinador estará presidido por la o el Presidente del Consejo de Participación Ciudadana del Sistema.
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley en la materia, y
 
@@ -3488,3 +3524,59 @@ CUARTO.- El ejercicio de la revocación de mandato contemplado en el presente de
 QUINTO.- El Congreso del Estado de Campeche deberá emitir la demás legislación secundaria correspondiente, en un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 13 POR EL QUE “SE DEROGAN LAS FRACCIONES XII Y XIII Y SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 54; SE DEROGAN LAS FRACCIONES II, III Y IV DEL ARTÍCULO 71; SE REFORMAN LOS ARTÍCULOS 77, 78, 78 BIS, 79 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 80, LOS ARTÍCULOS 82, 83, 84, 85, 86, 87 Y LA FRACCIÓN I DEL ARTÍCULO 101 QUÁTER, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, atendiendo a las disposiciones y salvedades previstas en los artículos transitorios siguientes.
+
+SEGUNDO.- La renovación de la totalidad de los cargos de elección en el Poder Judicial del Estado y la elección de las y los integrantes del Tribunal de Disciplina Judicial se realizará en la elección estatal ordinaria del año 2027, de conformidad con lo dispuesto en el presente decreto.
+
+Para lo anterior, se tomarán las previsiones presupuestales que correspondan en los ejercicios fiscales subsecuentes, para la efectiva implementación del presente decreto.
+
+TERCERO.- Dentro del plazo de un año, contado a partir de la entrada en vigor del presente decreto, se deberán emitir las modificaciones que correspondan a la Ley Orgánica del Poder Judicial del Estado de Campeche y demás normas que se requieren para la correcta aplicación del mismo.
+
+CUARTO.- Las Magistradas y Magistrados del H. Tribunal Superior de Justicia del Estado y las Juezas y Jueces de Primera Instancia del Poder Judicial del Estado que estén en funciones a la entrada en vigor del presente Decreto permanecerán en su encargo hasta el año 2027, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección estatal ordinaria que se celebre para tal efecto.
+
+QUINTO.- El Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción del H. Tribunal Superior de Justicia del Estado, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el órgano de administración judicial.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura del Estado en funciones a la entrada en vigor del presente decreto que concluyan antes de la fecha de la elección estatal ordinaria del año 2027 se prorrogarán hasta la fecha que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección ordinaria estatal del año 2027.
+
+Las Consejeras y Consejeros de la Judicatura del Estado que se encuentren en funciones a la entrada en vigor del presente decreto podrán postularse y participar en la elección ordinaria estatal del año 2027 para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial del Estado siempre que cumplan con los requisitos constitucionales y legales aplicables.
+
+SEXTO.- El Tribunal de Disciplina Judicial y el órgano de administración judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección estatal ordinaria que se celebre en el año 2027. En esta misma fecha, el Consejo de la Judicatura del Estado quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado; y al órgano de administración judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Consejo de la Judicatura del Estado aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Consejo de la Judicatura del Estado continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al órgano de administración judicial, según corresponda.
+
+Las personas que integren el Pleno del órgano de administración judicial a que se refiere el artículo 86 del presente decreto deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial.
+
+SÉPTIMO.- Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente decreto no podrán ser mayores a la establecida para el Presidente de la República en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de la Constitución Federal en los casos que corresponda, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y los Magistrados del H. Tribunal Superior de Justicia y las Juezas y los Jueces de Primera Instancia que concluyan su encargo por no postularse o no haber sido electos en la elección ordinaria del año 2027, no serán beneficiarias de un haber por retiro o apoyo por retiro según el caso, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria señalada en el artículo 78 bis de este decreto, en estos casos, el haber de retiro y el apoyo por retiro según el caso será proporcional al tiempo de su desempeño.
+
+Lo anterior no será aplicable a las y los Magistrados y las y los Jueces de Primera Instancia en funciones a la entrada en vigor de este decreto cuyo nombramiento original concluya antes de la fecha de cierre de la convocatoria respectiva.
+
+OCTAVO.- Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+El Poder Judicial del Estado llevará a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Administración y Finanzas de la Administración Pública del Estado de Campeche.
+
+Los recursos a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos en la referida Secretaría y serán destinados a la implementación del presente decreto y a los demás fines que ésta determine.
+
+NOVENO.- Los Juzgados de Conciliación del Poder Judicial del Estado de Campeche que mediante el presente decreto cambian su denominación a Agencias de Paz, seguirán funcionando conforme lo establece la Ley Orgánica del Poder Judicial del Estado de Campeche sin que éstos puedan encontrar modificaciones a su naturaleza jurídica, por lo que en las futuras reformas a la citada Ley, se deberá respetar su integración y funcionamiento como hasta el día de hoy.
+
+DÉCIMO.- Para la efectiva implementación del presente decreto, los Poderes Legislativo, Ejecutivo y Judicial tomarán las medidas presupuestales que sean pertinentes en los ejercicios fiscales subsecuentes.
+
+DÉCIMO PRIMERO.- Las y los Magistrados Supernumerarios continuarán en su encargo hasta que tomen protesta las y los nuevos Magistrados electos del H. Tribunal Superior de Justicia.
+
+Si el término de su encargo sucede antes de la toma de protesta referida, tendrán derecho al haber de retiro vigente antes de la entrada en vigor del presente decreto, respetándose en su integridad sus derechos laborales y de seguridad social que correspondan. Si antes de la toma de protesta renuncian a su encargo, se les brindará un haber de retiro por un periodo igual al tiempo de su encargo, respetándose en su integridad sus derechos laborales y de seguridad social que corresponda.
+
+Las y los Magistrados Supernumerarios del H. Tribunal Superior de Justicia podrán participar en el proceso electoral ordinario de conformidad con el presente decreto.
+
+En ningún caso, a la entrada en vigor del presente decreto, si alguna o algún Magistrado Supernumerario renuncia a su encargo, o concluye el periodo del mismo, se podrá hacer un nuevo nombramiento.
+
+DÉCIMO SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan a lo contenido del presente Decreto.
