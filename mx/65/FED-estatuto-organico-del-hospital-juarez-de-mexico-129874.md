@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-hospital-juarez-de-mexico-129874"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-14"
-last_updated: "2024-04-01"
+last_updated: "2024-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129874&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2018-06-21"
 
 ESTATUTO ORGÁNICO DEL HOSPITAL JUÁREZ DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2024.
 
 Estatuto publicado en la Primera Sección al Número 11 del Diario Oficial de la Federación, el martes 14 de agosto de 2018.
 
@@ -59,11 +59,15 @@ VI. DE LOS SERVICIOS SUSTANTIVOS Y 22
 
 ADMINISTRATIVOS
 
-VII. DEL ÓRGANO DE VIGILANCIA Y LA OFICINA 40
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-DE REPRESENTACIÓN EN EL HOSPITAL JUÁREZ
+VII. DEL ÓRGANO DE VIGILANCIA, LOS
 
-DE MÉXICO
+ÓRGANOS INTERNOS DE CONTROL ESPECIALIZADOS
+
+Y LA OFICINA DE REPRESENTACIÓN EN EL
+
+HOSPITAL JUÁREZ DE MÉXICO
 
 VIII. DE LA SUPLENCIA DE LAS PERSONAS
 
@@ -127,9 +131,9 @@ IX. Secretaría: la Secretaría de Salud de la Administración Pública Federal;
 
 X. Servicios de apoyo administrativo: aquellos que coadyuvan al logro de los objetivos, metas y programas institucionales, mediante la ejecución de las funciones en materia de administración, los cuales se integran conforme a lo establecido en el artículo 4, fracción I, numeral 2 e inciso a); y fracción III, numeral 4, incisos a), b) y c); y fracción III, numeral 5, incisos a), b), c) y d); y
 
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XI. Servicios Sustantivos: Son los que desarrollan las funciones derivadas directamente de los objetivos, metas y programas a cargo del Hospital Juárez de México, los cuales se integran conforme a lo establecido en el artículo 4, fracción III, numeral 1, incisos a), b), c) y d); numeral 2, inciso a); y numeral 3, incisos a) y b).
+XI. Servicios sustantivos: Son los que desarrollan las funciones derivadas directamente de los objetivos, metas y programas a cargo del Hospital Juárez de México, los cuales se integran conforme a lo establecido en el artículo 4, fracción III, numeral 1, incisos a), b), c) y d); numeral 2, inciso a); y numeral 3, incisos a) y b).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
 
@@ -163,9 +167,9 @@ VI. Desarrollar e instrumentar los programas y acciones que permitan preservar, 
 
 VII. Formar y capacitar recursos humanos para la salud en el campo de la medicina de especialidad y alta especialidad con que cuenta el Hospital;
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Diseñar y ejecutar cursos de capacitación y actualización en materia administrativa y gerencial, y técnico médica, para el personal profesional, técnico y auxiliar en sus ámbitos de responsabilidad;
+VIII. Diseñar y ejecutar cursos de capacitación y actualización en materia administrativa y gerencial y técnico médica, para el personal profesional, técnico y auxiliar en sus ámbitos de responsabilidad;
 
 IX. Generar investigación básica y clínica en las especialidades con las que cuenta el Hospital, en apego a la Ley General de Salud y demás disposiciones aplicables;
 
@@ -187,11 +191,13 @@ XIII. Impulsar la participación ciudadana en el autocuidado de su salud, así c
 
 XIV. Promover, coordinar y participar en los programas, congresos y acuerdos de intercambio científico de carácter nacional e internacional, así como celebrar convenios con instituciones afines;
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XV. Prestar los demás servicios y efectuar las actividades necesarias para el cumplimiento de su objetivo, de conformidad con su Decreto de creación, el presente Estatuto y demás normatividad vigente; y
+XV. Prestar los demás servicios y efectuar las actividades necesarias para el cumplimiento de su objetivo, de conformidad con su Decreto de creación, el presente Estatuto y demás normatividad vigente;
 
-XVI. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2019)
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL AVISO PUBLICADO EN EL D.O.F. 5 DE NOVIEMBRE DE 2024, PÁGINA 5]</small>
+
+XVI. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2019); y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -217,7 +223,9 @@ II. ÓRGANOS DE APOYO Y ASESORÍA:
 
 III. SERVICIOS SUSTANTIVOS Y SERVICIOS DE APOYO ADMINISTRATIVO:
 
-1. Dirección Médica. Unidad de Inteligencia Epidemiológica y Sanitaria Hospitalaria; Coordinación Institucional de Seguridad Radiológica y Física Médica.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+1. Dirección Médica. Unidad de Vigilancia Epidemiológica Hospitalaria; Coordinación Institucional de Seguridad Radiológica y Física Médica.
 
 a) División de Medicina: Alergia e Inmunología; Geriatría; Dermatología; Endocrinología y Bariatría; Gastroenterología; Hematología; Medicina Interna; Neumología e Inhaloterapia; Nefrología; Neurología; Psiquiatría y Salud Mental; Reumatología; Neurofisiología; Nutrición Hospitalaria; Cardiología; Cirugía Cardiovascular; Hemodinamia; Cuidados Coronarios; Toxicología Clínica.
 
@@ -229,7 +237,9 @@ d) División de Apoyo a la Atención: Laboratorio Clínico; Banco de Sangre; Ana
 
 2. Dirección de Enfermería. Escuela de Enfermería del Hospital Juárez de México.
 
-a) Jefatura de Servicios de Enfermería: Gestión del cuidado de Enfermería; Calidad en Enfermería; Enseñanza en Enfermería; Investigación en Enfermería; Gestión de Recursos Materiales para la Atención.
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+a) Jefatura de Servicios de Enfermería: Gestión del Cuidado de Enfermería; Calidad en Enfermería; Enseñanza en Enfermería; Investigación en Enfermería; Gestión de Recursos Materiales para la Atención.
 
 3. Dirección de Investigación y Enseñanza. Comunicación Social.
 
@@ -255,99 +265,113 @@ c) Subdirección de Recursos Financieros: Contabilidad; Integración Presupuesta
 
 d) Subdirección de Conservación y Mantenimiento: Ingeniería Biomédica; Mantenimiento; Protección Civil; Obras.
 
-IV. ÓRGANO DE VIGILANCIA Y OFICINA DE REPRESENTACIÓN EN EL HOSPITAL JUÁREZ DE MÉXICO:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+IV. ÓRGANO DE VIGILANCIA, ÓRGANOS INTERNOS DE CONTROL ESPECIALIZADOS Y OFICINA DE REPRESENTACIÓN EN EL HOSPITAL JUÁREZ DE MÉXICO:
 
 1. Persona comisaria pública.
 
-2. Oficina de Representación en el Hospital Juárez de México.
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+2. Órganos Internos de Control Especializados y Oficina de Representación en el Hospital Juárez de México.
+
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
 V. COMITÉS, SUBCOMITÉS, COMISIONES Y GRUPOS DE TRABAJO:
 
-1. Comité del expediente clínico
+1. Comité del expediente clínico;
 
-2. Comité de morbi-mortalidad
+2. Comité de morbi-mortalidad;
 
-3. Comité de prevención, estudio y seguimiento de la morbi-mortalidad materna y perinatal
+3. Comité de prevención, estudio y seguimiento de la morbi-mortalidad materna y perinatal;
 
-4. Comité de detección y control de las infecciones nosocomiales (CODECIN)
+4. Comité de detección y control de las infecciones nosocomiales (CODECIN);
 
-5. Comité de hospital seguro
+5. Comité de hospital seguro;
 
-6. Comité Interno de donación y trasplantes
+6. Comité Interno de donación y trasplantes;
 
-7. Comité de medicina transfusional
+7. Comité de medicina transfusional;
 
-8. Comité hospitalario de bioética
+8. Comité hospitalario de bioética;
 
-9. Comité de atención para emergencias y desastres
+9. Comité de atención para emergencias y desastres;
 
-10. Comité de mortalidad perinatal
+10. Comité de morbi-mortalidad perinatal;
 
-11. Comité de implante coclear
+11. Comité de implante coclear;
 
-12. Comité de atención quirúrgica
+12. Comité de atención quirúrgica;
 
-13. Comité de referencia y contrarreferencia hospitalaria
+13. Comité de referencia y contrarreferencia hospitalaria;
 
-14. Comité de calidad y seguridad del paciente (COCASEP)
+14. Comité de calidad y seguridad del paciente (COCASEP);
 
-15. Comité de farmacovigilancia
+15. Comité de farmacovigilancia;
 
-16. Comité de farmacia y terapéutica (COFAT)
+16. Comité de farmacia y terapéutica (COFAT);
 
-17. Comité de transparencia
+17. Comité de transparencia;
 
-18. Comité de bioseguridad
+18. Comité de bioseguridad;
 
-19. Comité de ética en investigación
+19. Comité de ética en investigación;
 
-20. Comité de investigación
+20. Comité de investigación;
 
-21. Comité interno para el cuidado y uso de los animales de laboratorio (CICUAL)
+21. Comité interno para el cuidado y uso de los animales de laboratorio (CICUAL);
 
-22. Comité de Control y Desempeño Institucional (COCODI)
+22. Comité de control y desempeño institucional (COCODI);
 
-23. Comité de adquisiciones, arrendamientos y servicios (CAAS)
+23. Comité de adquisiciones, arrendamientos y servicios (CAAS);
 
-24. Comité de bienes muebles
+24. Comité de bienes muebles;
 
-25. Comité de obras públicas y servicios relacionados con las mismas (COPS)
+25. Comité de obras públicas y servicios relacionados con las mismas (COPS);
 
-26. Comité de tecnovigilancia
+26. Comité de tecnovigilancia;
 
-27. Comité de la unidad interna de protección civil
+27. Comité de la unidad interna de protección civil;
 
-28. Comité de ética
+28. Comité de ética;
 
-29. Comité de mejora regulatoria interna (COMERI)
+29. Comité de mejora regulatoria interna (COMERI);
 
-30. Comité para el uso eficiente de la energía
+30. Comité para el uso eficiente de la energía;
 
-31. Subcomité de antimicrobianos
+31. Subcomité de antimicrobianos;
 
-32. Subcomité de seguridad del paciente
+32. Subcomité de seguridad del paciente;
 
-33. Subcomité revisor de convocatorias (SUBRECO)
+33. Subcomité revisor de convocatorias (SUBRECO);
 
-34. Subcomité revisor de convocatorias de obras públicas y servicios relacionados con las mismas (SUBRECOPS)
+34. Subcomité revisor de convocatorias de obras públicas y servicios relacionados con las mismas (SUBRECOPS);
 
-35. Comisión de honor y justicia
+35. Comisión de honor y justicia;
 
-36. Comisión local de estímulos a la calidad del desempeño del personal de salud
+36. Comisión local de estímulos a la calidad del desempeño del personal de salud;
 
-37. Comisión central mixta de capacitación
+37. Comisión central mixta de capacitación;
 
-38. Comisión central mixta de seguridad e higiene en el trabajo
+38. Comisión central mixta de seguridad e higiene en el trabajo;
 
-39. Comisión auxiliar mixta de escalafón
+39. Comisión auxiliar mixta de escalafón;
 
-40. Comisión mixta de evaluación permanente
+40. Comisión mixta de evaluación permanente;
 
-41. Comisión auxiliar de seguridad y salud en el trabajo
+41. Comisión auxiliar de seguridad y salud en el trabajo;
 
-42. Comisión central de vestuario y equipo
+42. Comisión central de vestuario y equipo;
 
-43. Grupo interdisciplinario en materia de archivos
+43. Grupo interdisciplinario en materia de archivos;
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+44. Grupo interdisciplinario de programas y proyectos de inversión; y
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+45. Grupo de trabajo para dar cumplimiento a los Lineamientos para la celebración de actos jurídicos mediante los cuales se podrá otorgar el uso de espacios físicos no hospitalarios en el Hospital Juárez de México.
 
 Además de aquellos que resulten necesarios para el óptimo desarrollo institucional.
 
@@ -361,9 +385,9 @@ ARTÍCULO 5 Para el cumplimiento de las atribuciones de la persona titular de la
 
 El Manual de Procedimientos del Hospital contendrá información sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-Los Manuales de Organización Específicos y de Procedimientos funcionales, comprenderán a detalle las estructuras y procesos operativos de las diferentes áreas del Hospital y su autorización corresponderá a las personas titulares de las Direcciones de Área o, en su caso, a la persona titular de la Dirección General. Asimismo, las personas titulares de las áreas funciónales, serán responsables de la aplicación de sus manuales en el desarrollo de sus funciones.
+Los Manuales de Organización Específicos y de Procedimientos funcionales, comprenderán a detalle las estructuras y procesos operativos de las diferentes áreas del Hospital y su autorización corresponderá a las personas titulares de las Direcciones de Área o, en su caso, a la persona titular de la Dirección General. Asimismo, las personas titulares de las áreas funcionales, serán responsables de la aplicación de sus manuales en el desarrollo de sus funciones.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -375,13 +399,11 @@ El Hospital contará con el personal que sea requerido para la atención eficaz 
 
 La designación de personas servidoras públicas a ocupar algún cargo dentro de los servicios médicos del Hospital, recaerá en profesionistas de la salud con las especialidades correspondientes al perfil del puesto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
+ARTÍCULO 6 Los órganos y áreas del Hospital Juárez de México conducirán sus actividades de conformidad con las políticas de la Secretaría de Salud y demás ordenamientos aplicables vigentes.
 
-ARTÍCULO 6 Los Órganos y Áreas del Hospital Juárez de México conducirán sus actividades de conformidad con las políticas de la Secretaría de Salud y demás ordenamientos aplicables vigentes.
-
-Los programas y presupuestos del Hospital se sujetarán a los objetivos y prioridades del Plan Nacional de Desarrollo, a los términos de la Ley Federal de Austeridad Republicana y la Ley de Planeación; serán elaborados de acuerdo con la asignación de recursos que dicte la Secretaría de Hacienda y Crédito Público y, una vez aprobados por la Junta de Gobierno, deberán ser remitidos a la citada Dependencia a través de la Coordinadora de Sector.
+Los programas y presupuestos del Hospital se sujetarán a los objetivos y prioridades del Plan Nacional de Desarrollo, a los términos de la Ley Federal de Austeridad Republicana y la Ley de Planeación, serán elaborados de acuerdo con la asignación de recursos que dicte la Secretaría de Hacienda y Crédito Público y, una vez aprobados por la Junta de Gobierno, deberán ser remitidos a la citada Dependencia a través de la Coordinadora de Sector.
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
@@ -437,17 +459,13 @@ XI. Aprobar las políticas y normas básicas que regulen la organización y func
 
 XII. Las que señale el Decreto de creación y demás normatividad vigente;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+XIII. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Directora o Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
 
-XIII. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Directora o Director General, pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
-
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-XIV. Aprobar de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Hospital con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. La persona titular de la Dirección General del Hospital, y en su caso el personal del servicio público que deba intervenir de conformidad con las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Órgano de Gobierno;
+XIV. Aprobar de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Hospital con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. La persona titular de la Dirección General del Hospital y, en su caso, el personal del servicio público que deba intervenir de conformidad con la normatividad vigente, realizará tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta de Gobierno;
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -461,9 +479,9 @@ XVI. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a fa
 
 XVII. Establecer las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que estén a cargo del Hospital Juárez de México, o de los que éste requiera para la prestación de servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 9 La Junta de Gobierno del Hospital se integrará con la persona titular de la Secretaría de Salud, quien la presidirá; una persona representante de la Secretaría de Hacienda y Crédito Público; una persona representante del Patronato del Hospital; una persona representante, que a invitación de la persona titular de la Secretaría de Salud, designe una institución educativa adscrita a la Administración Pública Federal, y cinco personas Vocales de reconocidos méritos en el campo de la salud, que serán designadas por la persona Titular de la Secretaría de Salud, tres de las cuales pertenecerán a alguna institución de salud de la Administración Pública Federal.
+ARTÍCULO 9 La Junta de Gobierno del Hospital se integrará con la persona titular de la Secretaría de Salud, quien la presidirá; una persona representante de la Secretaría de Hacienda y Crédito Público; una persona representante del Patronato del Hospital; una persona representante, que a invitación de la persona titular de la Secretaría de Salud, designe una institución educativa adscrita a la Administración Pública Federal y cinco personas Vocales de reconocidos méritos en el campo de la salud, que serán designadas por la persona titular de la Secretaría de Salud, tres de las cuales pertenecerán a alguna institución de salud de la Administración Pública Federal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -477,7 +495,9 @@ La Junta de Gobierno contará con una persona Secretaria y con una Prosecretaria
 
 Las personas Vocales de la Junta tendrán las siguientes atribuciones:
 
-I. Asistir con voz y voto a las sesiones que sean convocados;
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+I. Asistir con voz y voto a las sesiones que sean convocadas;
 
 II. Desempeñar las comisiones que se les asignen, así como integrar los grupos de trabajo que se organicen para la realización de tareas específicas;
 
@@ -601,9 +621,9 @@ X. Las demás que le encomiende la persona titular de la Presidencia de la Junta
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 16 La persona Titular de la Dirección General del Hospital será designada por la Junta de Gobierno, de una terna que deberá presentar la persona Titular de la Presidencia de la Junta. La Coordinadora de Sector, establecerá el mecanismo para apoyar a la Presidencia de la Junta de Gobierno en el proceso para la designación de la persona titular de la Dirección General del Hospital.
+ARTÍCULO 16 La persona Titular de la Dirección General del Hospital será designada por la Junta de Gobierno, de una terna que deberá presentar la persona titular de la Presidencia de la Junta. La Coordinadora de Sector, establecerá el mecanismo para apoyar a la Presidencia de la Junta de Gobierno en el proceso para la designación de la persona titular de la Dirección General del Hospital.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -655,7 +675,9 @@ XII. Se deroga;
 
 XIII. Facultar a la persona titular o encargada de la Unidad Jurídica del Hospital, para expedir certificaciones de los documentos que obran en los archivos de la institución y que sean requeridos por las autoridades competentes.
 
-Además, dictaminar en definitiva, las actas administrativas que se levanten al personal, por violación a las disposiciones laborales aplicables. Esta atribución podrá ser delegada en la persona titular de la Unidad Jurídica;
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+Además, dictaminar en definitiva las actas administrativas que se levanten al personal, por violación a las disposiciones laborales aplicables. Esta atribución podrá ser delegada en la persona titular de la Unidad Jurídica;
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
 
@@ -769,11 +791,9 @@ IV. Las demás que sean necesarias para el ejercicio de las funciones anteriores
 
 ARTÍCULO 22 La persona titular de la Presidencia del Patronato, fungirá como representante de éste ante la Junta de Gobierno y será el enlace entre el Patronato y la persona titular de la Dirección General.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
-
-ARTÍCULO 23 El Patronato informará trimestralmente y por escrito, a la persona titular de la Dirección General, acerca de las actividades que realice. Asimismo, informará al menos una vez al año a la Junta de Gobierno sobre el desarrollo de las mismas.
+ARTÍCULO 23 El Patronato informará trimestralmente y por escrito a la persona titular de la Dirección General, acerca de las actividades que realice. Asimismo, informará al menos una vez al año a la Junta de Gobierno sobre el desarrollo de las mismas.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -905,11 +925,9 @@ La persona titular de la Dirección General o la persona representante que desig
 
 ARTÍCULO 28 El Patronato se reunirá en sesiones ordinarias cuando menos una vez cada tres meses y en forma extraordinaria en cualquier momento, a solicitud de la persona titular de la Presidencia o cuando menos de la mitad de sus integrantes.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
-
-Se considerará que existe quórum con la asistencia de la persona titular de la Presidencia del Patronato o de quien lo supla y la concurrencia de por lo menos la mitad más uno de sus miembros. Los acuerdos del patronato se tomarán por mayoría de votos y en caso de empate, la persona titular de la Presidencia resolverá con voto de calidad.
+Se considerará que existe quórum con la asistencia de la persona titular de la Presidencia del Patronato o de quien la supla y la concurrencia de por lo menos la mitad más uno de sus miembros. Los acuerdos del patronato se tomarán por mayoría de votos y en caso de empate, la persona titular de la Presidencia resolverá con voto de calidad.
 
 De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión que se celebrará entre los cinco y quince días hábiles siguientes, con el número de miembros que asistan.
 
@@ -919,9 +937,11 @@ De cada sesión deberá levantarse acta, la que será enviada oportunamente a la
 
 ### CAPÍTULO V. DEL CONSEJO TÉCNICO CONSULTIVO
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 29 El Consejo Técnico Consultivo del Hospital Juárez de México, es el Órgano encargado de asesorar y apoyar a la persona titular de la Dirección General en temas relacionados a la misión y visión de la institución. El cargo de persona Consejera será de carácter honorífico por lo tanto las personas designadas no recibirán retribución, emolumento o compensación alguna.
+ARTÍCULO 29 El Consejo Técnico Consultivo del Hospital Juárez de México, es el Órgano encargado de asesorar y apoyar a la persona titular de la Dirección General en temas relacionados a la misión y visión de la institución. El cargo de persona Consejera será de carácter honorífico, por lo tanto las personas designadas no recibirán retribución, emolumento o compensación alguna.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 Dicho Consejo se integrará por la persona titular de la Dirección General, quien lo presidirá, más tres personas con formación en medicina de la Institución con reconocido prestigio en la asistencia médica, enseñanza o investigación, que serán nombradas por la persona titular de la Dirección General. Las personas titulares de las Direcciones de área del Hospital, participarán en las sesiones del Comité Técnico Consultivo como personas invitadas permanentes y, en los casos en los que se considere necesario, se invitará a otras personas integrantes de la comunidad hospitalaria.
 
@@ -935,11 +955,9 @@ ARTÍCULO 30 El Consejo Técnico Consultivo podrá:
 
 I. Proponer a la persona titular de la Dirección General la adopción de medidas de orden general tendientes al mejoramiento técnico operacional del Hospital, cuando sea requerido al efecto;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-II. Opinar sobre los programas en materia médica, investigación, enseñanza y administrativos del Hospital; y
+II. Opinar sobre los programas en materia médica, investigación, enseñanza y administrativa del Hospital; y
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -995,15 +1013,13 @@ VII. Participar con la Subdirección de Recursos Humanos en la atención de asun
 
 VIII. Proporcionar la información y cooperación técnica que les sea requerida por las demás áreas del Hospital;
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-IX. Proponer movimientos del personal adscrito en las áreas de su responsabilidad, y colaborar con las instancias correspondientes sobre los casos de sanciones, terminación o cese de nombramiento, de conformidad con la normatividad vigente;
+IX. Proponer movimientos del personal adscrito en las áreas de su responsabilidad y colaborar con las instancias correspondientes en los casos de sanciones, terminación o cese de nombramiento, de conformidad con la normatividad vigente;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-X. Proponer a la persona titular de la Dirección General la creación, cancelación, fusión, cambio de denominación o de adscripción de áreas operativas, aportando los estudios y/o fundamento respectivos;
+X. Proponer a la persona titular de la Dirección General la creación, cancelación, fusión, cambio de denominación o de adscripción de áreas operativas, aportando los estudios y/o fundamentos respectivos;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1063,9 +1079,9 @@ V. Consolidar los procesos de atención médico-quirúrgica que se brinden a las
 
 VI. Implementar programas y políticas en materia de asistencia médica hospitalaria en situaciones de emergencias ocasionadas por desastres;
 
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-VII. Proveer a la Dirección de Administración con la información que le sea solicitada para efectos de integración y ejercicio presupuesto;
+VII. Proveer a la Dirección de Administración con la información que le sea solicitada para efectos de integración y ejercicio del presupuesto;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1083,11 +1099,9 @@ XI. Se deroga;
 
 XII. Se deroga;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-XIII. Participar en los comités técnico-médicos así como en aquellos que estén relacionados con su ámbito de competencia;
+XIII. Participar en los comités técnico-médicos, así como en aquellos que estén relacionados con su ámbito de competencia;
 
 XIV. Se deroga;
 
@@ -1111,7 +1125,9 @@ XX. Instruir la implementación del Modelo Único de Evaluación de la Calidad;
 
 XXI. Establecer estrategias y acciones que incrementen la productividad, calidad y seguridad de los servicios médico-quirúrgicos que brinda el Hospital;
 
-XXII. (DEROGADA, D.O.F. 1 DE ABRIL DE 2024)
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL AVISO PUBLICADO EN EL D.O.F. 5 DE NOVIEMBRE DE 2024, PÁGINA 25]</small>
+
+XXII. (DEROGADA, D.O.F. 1 DE ABRIL DE 2024); y
 
 XXIII. (DEROGADA, D.O.F. 1 DE ABRIL DE 2024)
 
@@ -1193,9 +1209,9 @@ VI. Establecer lineamientos y políticas institucionales en materia de investiga
 
 VII. Establecer convenios y acuerdos de cooperación e intercambio en materia de investigación y enseñanza, con instituciones de salud, de investigación y educativas a nivel nacional e internacional;
 
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-VII (SIC). Se deroga;
+VIII. Se deroga;
 
 IX. Impulsar el desarrollo de la investigación biomédica, clínica, sociomédica, epidemiológica y tecnológica que se genera en el Hospital;
 
@@ -1217,11 +1233,9 @@ XIV. Fomentar la participación del Hospital en el desarrollo de protocolos de i
 
 XV. Mantener los enlaces necesarios con las instituciones financiadoras de la investigación científica nacionales e internacionales, para procurar la obtención de recursos externos;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-XVI. Representar al Hospital y a sus médicos e investigadores ante el Sistema Nacional de Investigadores; y
+XVI. Representar al Hospital y a sus médicos e investigadores ante el Sistema Nacional de Investigadores;
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -1277,9 +1291,9 @@ IX. Contribuir con la Dirección Médica para que los lineamientos y políticas 
 
 X. Se deroga;
 
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XI. Conducir la atención de las solicitudes de información de la ciudadanía, así como el cumplimiento de las obligaciones en materia de transparencia, el combate a la corrupción y la rendición de cuentas;
+XI. Conducir en su calidad de titular de la Unidad de Transparencia, la atención de las solicitudes de información de la ciudadanía, así como el cumplimiento de las obligaciones en materia de transparencia, el combate a la corrupción y la rendición de cuentas;
 
 XII. (DEROGADA, D.O.F. 1 DE ABRIL DE 2024)
 
@@ -1339,13 +1353,21 @@ XXV. Fomentar acciones y esquemas de colaboración con dependencias, entidades e
 
 XXVI. Coordinar las actividades para brindar orientación a las personas usuarias sobre los trámites y servicios a cargo del Hospital, mediante el área de informes y hospitalidad, el conmutador y el sistema de voceo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXVII. Participar en los comités, comisiones y demás órganos colegiados, en los que se evalúen asuntos de su competencia y promover el cumplimiento de los acuerdos que se determinen; y
+XXVII. Participar en los comités, comisiones y demás órganos colegiados, en los que se evalúen asuntos de su competencia y promover el cumplimiento de los acuerdos que se determinen;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXVIII. Emitir lineamientos y políticas institucionales conforme a su ámbito de actuación. Asimismo, revisar y dictaminar la normatividad interna que presenten las direcciones de área al Comité de Mejora Regulatoria Interna.
+XXVIII. Emitir lineamientos y políticas institucionales conforme a su ámbito de actuación. Asimismo, revisar y dictaminar la normatividad interna que presenten las direcciones de área al Comité de Mejora Regulatoria Interna;
+
+> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXIX. Ordenar en su calidad de titular de la Unidad de Transparencia, la elaboración y suscripción de los alegatos que en derecho corresponda, requeridos en el procedimiento de interposición de recursos de revisión y seguidos en forma de proceso contencioso administrativo ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, así como su registro en la Plataforma Nacional de Transparencia; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXX. Instruir en su calidad de titular de la Unidad de Transparencia, el cumplimiento de las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, respecto de los recursos de revisión que presente la ciudadanía, conforme a los términos y plazos establecidos por el citado órgano garante.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1389,11 +1411,9 @@ Instruir para que el pago de remuneraciones y prestaciones al personal se apegue
 
 VIII. Orientar las relaciones laborales del personal, conforme a la normatividad vigente;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-IX. Participar en las sesiones de los comités, subcomités y comisiones en las materias de su competencia y promover el cumplimiento de los acuerdos que se determinen;
+IX. Participar en las sesiones de los comités, subcomités y comisiones en las materias de su competencia y promover el cumplimiento de los acuerdos que se determinen.
 
 Acordar con la persona titular de la Dirección General la designación o remoción en su caso, de los representantes del Hospital ante las Comisiones: Mixta de Escalafón, Capacitación, Seguridad e Higiene, Vestuario y Equipo, y demás comisiones mixtas que se integren;
 
@@ -1443,9 +1463,9 @@ XXIII. Implementar los procesos relativos al sistema institucional de archivos d
 
 XXIV. Planear, organizar y controlar los procesos para la integración, registro, y seguimiento de los programas y proyectos de inversión, enfocados a fortalecer la infraestructura y equipamiento del Hospital;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXV. Coordinar las acciones para la actualización del tabulador de cuotas de recuperación, aplicable a las personas usuarias de no sujetas a la política de gratuidad de los servicios médicos;
+XXV. Coordinar las acciones para la actualización del tabulador de cuotas de recuperación, aplicable a las personas usuarias no sujetas a la política de gratuidad de los servicios médicos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -1459,13 +1479,17 @@ XXVII. Establecer los procesos para la implementación de las tecnologías de la
 
 XXVIII. Coordinar el proceso para la programación de las metas institucionales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXIX. Colaborar en la planeación de las actividades de las direcciones de área sustantivas y administrativas del Hospital, a efecto de apoyar la función directiva en la toma de decisiones; y
+XXIX. Colaborar en la planeación de las actividades de las direcciones de área sustantivas y administrativas del Hospital, a efecto de apoyar la función directiva en la toma de decisiones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XXX. Dirigir el proceso de planeación en materia de recursos humanos, materiales, financieros y de conservación y mantenimiento, que permita el óptimo funcionamiento del Hospital.
+XXX. Dirigir el proceso de planeación en materia de recursos humanos, materiales, financieros y de conservación y mantenimiento, que permita el óptimo funcionamiento del Hospital; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+XXXI. Instruir que las actividades contables y presupuestales de los recursos derivados de proyectos de investigación, que son financiados por la industria farmacéutica y agencias no lucrativas, se realicen conforme a los lineamientos para la administración de recursos de terceros y demás normatividad aplicable.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1525,11 +1549,9 @@ XII. Validar el cálculo de las liquidaciones e indemnizaciones por término de 
 
 XIII. Participar en la implementación de acciones que favorezcan el desarrollo del personal y mejoren el clima laboral;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
-
-XIV. Supervisar la aplicación de los movimientos escalafonarios dictaminados por la Comisión Auxiliar Mixta de Escalafón del Hospital;
+XIV. Supervisar la aplicación de los movimientos escalafonarios dictaminados por la Comisión auxiliar mixta de escalafón del Hospital;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1615,13 +1637,17 @@ XIV. Supervisar la actualización del tabulador de cuotas de recuperación con b
 
 XV. Programar conjuntamente con las direcciones de área las metas institucionales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XVI. Participar en la integración de los planes y programas a cargo del Hospital; y
+XVI. Participar en la integración de los planes y programas a cargo del Hospital;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XVII. Participar en los comités, subcomités y demás órganos colegiados en los que se evalúen y analicen asuntos de su competencia y promover el cumplimiento de los acuerdos que se determinen.
+XVII. Participar en los comités, subcomités y demás órganos colegiados en los que se evalúen y analicen asuntos de su competencia y promover el cumplimiento de los acuerdos que se determinen; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+XVIII. Supervisar que se realice el proceso contable-presupuestal de los recursos derivados de los proyectos de investigación financiados por la industria farmacéutica y agencias no lucrativas, para su adecuada comprobación y rendición de cuentas.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
@@ -1687,9 +1713,9 @@ XII. Verificar que se presten los servicios generales conforme a las obligacione
 
 XIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-XIV. Se deroga, y
+XIV. Se deroga;
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -1797,9 +1823,9 @@ II. Emitir opiniones jurídicas sobre las consultas que formulen las áreas sust
 
 III. Representar al Hospital como apoderado(a) legal para actos de administración, pleitos y cobranzas. Además, otorgar o revocar poderes por instrucción de la persona titular de la Dirección General;
 
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-IV. Atender los requerimientos, formular denuncias o querellas ante los órganos de procuración, impartición y administración de justicia e instrumentar acciones en defensa del Hospital en los juicios del orden civil, laboral, procesos administrativos, mercantil, amparo, contencioso-administrativo; o de cualquier otro orden jurídico;
+IV. Atender los requerimientos, formular denuncias o querellas ante los órganos de procuración, impartición y administración de justicia e instrumentar acciones en defensa del Hospital en los juicios del orden civil, laboral, procesos administrativos, mercantil, amparo, contencioso-administrativo; o de cualquier otro orden jurídico a excepción de los establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública;
 
 V. Se deroga;
 
@@ -1845,9 +1871,9 @@ XV. Atender y dar trámite jurídico a las quejas y recomendaciones que emita la
 
 XVI. Conocer, dar trámite y resolver los procedimientos de reclamación derivados de la Ley Federal de Responsabilidad Patrimonial del Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO VII. DEL ÓRGANO DE VIGILANCIA Y LA OFICINA DE REPRESENTACIÓN EN EL HOSPITAL JUÁREZ DE MÉXICO
+### CAPÍTULO VII. DEL ÓRGANO DE VIGILANCIA, LOS ÓRGANOS INTERNOS DE CONTROL ESPECIALIZADOS Y LA OFICINA DE REPRESENTACIÓN EN EL HOSPITAL JUÁREZ DE MÉXICO
 
 > <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -1873,15 +1899,39 @@ V. Se deroga; y
 
 VI. Se deroga.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 41 El Hospital contará con una Oficina de Representación, al frente del cual habrá una persona Titular, designada en términos del artículo 104 del Reglamento Interior de la Secretaría de la Función Pública, quien ejercerá en el ámbito de su competencia, las atribuciones previstas en el Reglamento Interior de la Secretaría de la Función Pública y en el Acuerdo por el que se extinguen órganos internos de control específicos, se crean oficinas de representación, y se asigna la dependencia, entidad paraestatal y órgano administrativo desconcentrado que integran el ramo en que ejercerán sus funciones los órganos internos de control especializados y las unidades administrativas que los auxilian.
+ARTÍCULO 41 El Hospital Juárez de México contará con las unidades administrativas adscritas a la Secretaría de la Función Pública que se describen en el Artículo 41 Bis, Artículo 41 Ter y Artículo 41 Quáter primer párrafo, quienes ejercerán las facultades previstas en la normatividad vigente.
 
-El Hospital Juárez de México proporcionará a la persona titular de la Jefatura de la Oficina de Representación y al personal adscrito a esta, los recursos necesarios para su operación.
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+ARTÍCULO 41 BIS El Hospital Juárez de México contará con los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, según lo determine la Secretaría de la Función Pública, en términos de lo dispuesto por el artículo 37 fracciones XI Bis, y XII de la Ley Orgánica de la Administración Pública Federal, así como con lo establecido en el Reglamento Interior de la Secretaría de la Función Pública y demás normativa aplicable.
 
-ARTÍCULO 42 La Oficina de Representación en el Hospital Juárez de México formará parte de la estructura orgánica del Hospital y estará constituida por una persona Titular de la Jefatura conforme a la designación correspondiente, y personal adscrito a la misma.
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 41 TER Los Órganos Internos de Control Especializados o, en su caso el Órgano Interno de Control Específico, serán responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en términos de las leyes y disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 41 QUÁTER Cuando la Secretaría de la Función Pública determine la creación de una Oficina de Representación, esta auxiliará a los Órganos Internos de Control Especializados y a sus Áreas de Especialidad, según su materia y ramo que les corresponda, de conformidad con el Reglamento Interior de la Secretaría de la Función Pública, así como con la normativa que al efecto emita dicha Secretaría.
+
+La Oficina de Representación en el Hospital Juárez de México, contará con el personal necesario que permita su operación, tendrá el carácter de unidad administrativa adscrita a esta entidad paraestatal y estará a cargo de un(a) jefe(a) de oficina designado(a) o nombrado(a) por la persona Coordinadora General de Gobierno de Órganos de Control y Vigilancia, de la Secretaría de la Función Pública, de quien dependerá jerárquicamente.
+
+Para efectos del funcionamiento de la Oficina de Representación, también tendrán el carácter de superiores jerárquicos las personas titulares de los Órganos Internos de Control Especializados y las personas titulares de las áreas de especialidad en la materia y ramo que les corresponda.
+
+El personal adscrito a las áreas de especialidad y a la Oficina de Representación podrá ser comisionado para coadyuvar con otras unidades administrativas de la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 41 QUINQUIES El Hospital Juárez de México proporcionará los recursos humanos, tecnológicos, materiales y presupuestales que requiera la Oficina de Representación y observará en todo momento lo establecido en el Artículo Décimo Transitorio de la Reforma a la Ley Orgánica de la Administración Pública Federal, publicada en el Diario Oficial de la Federación el 3 de mayo de 2023.
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 41 SEXIES Las personas servidoras públicas adscritas al Hospital Juárez de México, dentro del ámbito de su competencia, están obligadas a atender los requerimientos de información y resoluciones de las personas servidoras públicas que integran y auxilian a los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, de conformidad con la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 42 La Oficina de Representación en el Hospital Juárez de México formará parte de la estructura orgánica del Hospital y estará constituida por una persona titular de la Jefatura conforme a la designación correspondiente y personal adscrito a la misma.
 
 ARTÍCULO 43 Se deroga
 
@@ -1933,7 +1983,9 @@ XIX. Se deroga.
 
 ARTÍCULO 44 Las personas integrantes de la Junta de Gobierno deberán designar a la persona suplente, respectivamente.
 
-Las personas Titulares, representantes de la administración pública federal, con excepción de la persona titular de la Presidencia de la Junta de Gobierno, podrán contar con un nivel jerárquico de subsecretaría hasta dirección general o equivalente.
+> <small>(REFORMADO, D.O.F. D.O.F. 5 DE NOVIEMBRE DE 2024)</small>
+
+Las personas titulares, representantes de la administración pública federal, con excepción de la persona titular de la Presidencia de la Junta de Gobierno, podrán contar con un nivel jerárquico de subsecretaría hasta dirección general o equivalente.
 
 Asimismo, las personas suplentes que sean designadas, deberán tener nivel jerárquico mínimo de director de área o su equivalente.
 
@@ -2096,3 +2148,19 @@ La persona titular de la Dirección General del Hospital Juárez de México debe
 ###### ARTÍCULO TERCERO.
 
 Se modifica primer y segundo párrafo del apartado CONSIDERANDO y se deroga el párrafo sexto; se modifica el nombre del capítulo VII y VIII del apartado CONTENIDO; y los artículos 1; 2 fracciones IV, VII (Se deroga), VIII, X y XI; 3 fracciones III y XVII (Nueva atribución); 4; 5 primer párrafo, tercer párrafo y quinto párrafo; 7; 8 fracciones II, III, IV, V, VI y XVII (Nueva atribución); 9 primer párrafo, segundo párrafo, tercer párrafo y cuarto párrafo; 10; 11; 13 fracción III; 14 primer párrafo y fracciones IV y VI; 15 primer párrafo y fracciones III, IV, VIII, IX y X; 16 primer párrafo y fracciones I, II, VI, XI, XIII, XIX, XXI (Nueva atribución), XXII (Nueva atribución), XXIII (Nueva atribución), XXIV (Nueva atribución) y XXV (Nueva atribución); 18; 19 primer párrafo, segundo párrafo y tercer párrafo; 24 fracción I; 27 primer párrafo, segundo párrafo y tercer párrafo; 28 primer párrafo y cuarto párrafo; 29; 30 fracción III; 31; 32 primer párrafo y fracciones II, III (Se deroga), V, VII, XII, XVI y XVII (Nueva atribución); 33 fracciones I, IV, V, VI, VII, XVIII, XX, XXI, XXII (Se deroga) y XXIII (Se deroga); Se adiciona 33 BIS con las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII; 34 fracciones VI, VII, XII, XVIII (Nueva atribución), XIX (Nueva atribución), XX (Nueva atribución) y XXI (Nueva atribución); 35 primer párrafo y fracciones I (Se deroga), II, IV, VI, VII, IX, XI, XII (Se deroga), XIV, XV, XVI (Se deroga), XVIII, XIX, XXI, XXII, XXIII (Nueva atribución), XXIV (Nueva atribución), XXV (Nueva atribución), XXVI (Nueva atribución), XXVII (Nueva atribución) y XXVIII (Nueva atribución); 36 fracciones I, II, V, VI, VII primer párrafo, XV, XX, XXIV (Nueva atribución), XXV (Nueva atribución), XXVI (Nueva atribución), XXVII (Nueva atribución), XXVIII (Nueva atribución), XXIX (Nueva atribución) y XXX (Nueva atribución); 36 BIS fracciones II, III, IX, X, XI, XII y XVI; 36 TER fracciones III, V, VIII, XI, XII, XIII, XIV, XV (Nueva atribución), XVI (Nueva atribución) y XVII (Nueva atribución); 36 QUÁTER fracciones II, III, IV, VI, VII, IX, X y XV; 36 QUINQUIES fracciones II, III, IV, V, IX, XII, XIII y XIV; 37 fracciones IV, VI, VIII, IX, X, XIII, XV y XVI; nombre del capítulo VII; 38; 39; 41; 42; nombre del capítulo VIII; 44; 45 y 46.
+
+D.O.F. 5 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER LA ACTUALIZACIÓN DEL ESTATUTO ORGÁNICO DEL HOSPITAL JUÁREZ DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular de la Dirección General del Hospital Juárez de México deberá inscribir el presente Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales, modificado en México, Ciudad de México, a los 24 días de septiembre del año dos mil veinticuatro, en la Tercera Sesión Ordinaria 2024 de la H. Junta de Gobierno del Hospital Juárez de México. - El Director General del Hospital Juárez de México, Doctor Gustavo Esteban Lugo Zamudio. - Rúbrica.
+
+###### ARTÍCULO TERCERO.
+
+Se modifica el numeral 1 de la fracción III y numeral 2 de la fracción IV del Artículo 4; se adicionan los numerales 44 y 45 de la fracción V del Artículo 4; se modifica la fracción XI del Artículo 35 y se adicionan las fracciones XXIX y XXX; se adiciona la fracción XXXI del Artículo 36 y la fracción XVIII del Artículo 36 Ter; se modifica la fracción IV del Artículo 37; se modifica el nombre del capítulo VII así como el Artículo 41; se adicionan los Artículos 41 Bis; 41 Ter; 41 Quáter; 41 Quinquies y 41 Sexies.
