@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2024-01-26"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE MOVILIDAD Y SEGURIDAD VIAL --ANTES LEY DE MOVILIDAD SUSTENTABLE-- DEL ESTADO DE SINALOA
 
-LEY DE MOVILIDAD SUSTENTABLE DEL ESTADO DE SINALOA
+LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
@@ -35,25 +35,95 @@ El H. Congreso del Estado libre y Soberano de Sinaloa, representado por su Sexag
 
 DECRETO NÚMERO: 864
 
-LEY DE MOVILIDAD SUSTENTABLE DEL ESTADO DE SINALOA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Sinaloa, y tiene por objeto establecer las bases, programas y lineamientos generales para planear, regular, supervisar y fomentar la movilidad sustentable de las personas; gestionar el desarrollo del transporte público de personas y bienes que atiendan fundamentalmente el servicio de transporte público de pasajeros y cosas acorde a las necesidades actuales y futuras de desplazamiento; y establecer las facultades de las autoridades. Asimismo, establecer las bases para la ordenación y regulación del tránsito de peatones, pasajeros y conductores de vehículos no motorizados y motorizados que hagan uso de las vías públicas de competencia del Gobierno del Estado.
+La presente Ley es de orden público y de observancia general en el Estado de Sinaloa, y tiene por objeto establecer las bases y principios para garantizar el derecho de toda persona a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, en términos de lo dispuesto en el párrafo décimo séptimo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y artículo 4° Bis B, fracción XIII, de la Constitución Política del Estado de Sinaloa.
+
+Son objetivos de esta Ley:
+
+I. Establecer la política estatal de movilidad y seguridad vial, bajo un enfoque sistémico y de sistemas seguros, a través del Sistema Estatal de Movilidad y Seguridad Vial y la información proporcionada por el Sistema de Información Territorial y Urbano para priorizar el desplazamiento de las personas, particularmente de los grupos en situación de vulnerabilidad, así como bienes y mercancías, con base en la jerarquía de la movilidad señalada en la Ley General, que disminuya los impactos negativos sociales, de desigualdad, económicos, a la salud, y al medio ambiente, con el fin de reducir muertes y lesiones graves ocasionadas por siniestros viales, para lo cual se debe preservar el orden y seguridad vial;
+
+II. Definir mecanismos de coordinación de las autoridades del Estado, los Municipios y la sociedad en materia de movilidad y seguridad vial;
+
+III. Establecer la concurrencia entre el Estado y los Municipios, en el ámbito de sus respectivas competencias, en materia de movilidad y seguridad vial, así como los mecanismos para su debida coordinación;
+
+IV. Determinar mecanismos y acciones que promuevan y fomenten la sensibilización, la formación y la cultura de la movilidad y seguridad vial, que permitan el ejercicio pleno de este derecho;
+
+V. Vincular la política estatal de movilidad y seguridad vial, con un enfoque integral de la política de ordenamiento territorial y desarrollo urbano y de manera transversal con las políticas sectoriales aplicables;
+
+VI. Establecer las bases para priorizar los modos de transporte de personas, bienes y mercancías, con menor costo ambiental y social, la movilidad no motorizada, vehículos no contaminantes y la intermodalidad;
+
+VII. Establecer los mecanismos y acciones para la gestión de factores de riesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros; y
+
+VIII. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 2.
 
-El derecho a la movilidad se entiende como el derecho de toda persona y de la colectividad a disponer de un sistema de desplazamientos de calidad, accesible, continuo, eficiente, seguro, sustentable, suficiente y tecnológicamente innovador, que garantice su desplazamiento en condiciones de igualdad y equidad, y le permita satisfacer sus necesidades, contribuyendo así a su pleno desarrollo.
+La movilidad es el derecho de toda persona a trasladarse y a disponer de un sistema integral de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias y acciones en la materia.
 
-Las autoridades, en el ámbito de sus competencias, deberán orientar sus acciones a garantizar el ejercicio del derecho a la movilidad, atendiendo a los principios previstos en la presente Ley.
+El derecho a la movilidad tendrá las siguientes finalidades:
+
+I. La integridad física y la prevención de lesiones de todas las personas usuarias de las calles y de los sistemas de transporte, en especial de las más vulnerables;
+
+II. La accesibilidad de todas las personas, en igualdad de condiciones, con dignidad y autonomía a las calles y a los sistemas de transporte; priorizando a los grupos en situación de vulnerabilidad;
+
+III. La movilidad eficiente de personas, bienes y mercancías;
+
+IV. La preservación y restauración del equilibrio ecológico ante los efectos del cambio climático;
+
+V. La calidad de los servicios de transporte y de la infraestructura vial;
+
+VI. Eliminar factores de exclusión o discriminación al usar los sistemas de movilidad, para que todas las personas gocen y ejerzan sus derechos en igualdad de condiciones;
+
+VII. La igualdad de oportunidades en el uso de los sistemas de movilidad;
+
+VIII. Dotar a todas las localidades del Estado con acceso a camino pavimentado a una distancia no mayor de dos kilómetros; y
+
+IX. Promover el máximo grado de autonomía de las personas en sus traslados y el uso de los servicios.
+
+Para alcanzar las finalidades del derecho a la movilidad, todas las autoridades en el ámbito de su competencia, deberán tomar en consideración lo siguiente:
+
+I. Accesibilidad. Garantizar que la movilidad esté al alcance de todas las personas en igualdad de condiciones, sin discriminación de género, edad, discapacidad o condición, a costos accesibles y con información clara y oportuna, priorizando a los grupos en situación de vulnerabilidad, tanto en zonas urbanas como rurales e insulares;
+
+II. Eficiencia. Maximizar los desplazamientos ágiles y asequibles, optimizando los recursos ambientales y económicos, y hacer uso de las tecnologías de la información y comunicación disponibles;
+
+III. Sostenibilidad. Satisfacer los requerimientos de movilidad procurando los menores impactos negativos en la calidad de vida de las personas, en la sociedad y en el medio ambiente, asegurando las necesidades del presente sin comprometer los derechos de futuras generaciones;
+
+IV. Calidad. Toda persona tiene derecho a buscar y acceder a información sobre el estado del sistema de movilidad, a fin de que pueda planear sus trayectos; calcular los tiempos de recorrido; conocer los horarios de operación del transporte público, la frecuencia de paso, los puntos de abordaje y descenso; evitar la congestión vial, y conocer el estado de funcionamiento del sistema de movilidad, así como la disponibilidad de los servicios auxiliares al transporte; y
+
+V. Inclusión e igualdad. El sistema de movilidad debe ser igualitario, equitativo e inclusivo, por lo que las autoridades competentes deberán garantizar la equiparación de las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, independientemente del modo que utilice para trasladarse, poniendo especial énfasis en los grupos en situación de vulnerabilidad por condición física, social, económica, género, edad u otra.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 3.
 
-El ejercicio del derecho a la movilidad individual o colectiva no podrá emplearse para interferir en el ejercicio de cualquier otro derecho conexo, para alterar el orden público o cuando se ponga a la sociedad en peligro.
+La seguridad vial es el conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los siniestros de tránsito y reducir el riesgo de lesiones y muertes a causa de estos.
+
+Para ello, las autoridades, en el marco de sus respectivas competencias, observarán las siguientes directrices:
+
+I. Infraestructura segura: Espacios viales predecibles y que reducen o minimizan los errores de las personas usuarias y sus efectos, que se explican por sí mismos, en el sentido de que su diseño fomenta velocidades de viaje seguras y ayuda a evitar errores;
+
+II. Velocidades seguras: Velocidades de desplazamiento que se adaptan a la función, nivel de seguridad y condición de cada vía. Las personas conductoras comprenden y cumplen los límites de velocidad y conducen según las condiciones;
+
+III. Vehículos seguros: Los que, con sus características, cuentan con aditamentos o dispositivos, que tienen por objeto prevenir colisiones y proteger a las personas usuarias, incluidos pasajeros, personas peatonas, ciclistas, y usuarias de vehículos no motorizados, en caso de ocurrir una colisión;
+
+IV. Personas usuarias seguras: Personas usuarias que, cumplen con las normas viales, toman medidas para mejorar la seguridad vial y exigen y esperan mejoras en la misma;
+
+V. Atención Médica Prehospitalaria: Establecimiento de un sistema de atención médica prehospitalaria y la aplicación de las normas vigentes en la materia, para la atención efectiva y oportuna de las personas lesionadas en sinestros (sic) viales, en términos de las leyes aplicables; y
+
+VI. Seguimiento, gestión y coordinación: Las autoridades competentes establecerán las estrategias necesarias para el fortalecimiento de la seguridad vial, dándoles seguimiento y evaluación. Asimismo, se coordinarán entre ellas para gestionar de manera eficaz las acciones de prevención, atención durante y posterior a los siniestros viales.
 
 ###### Artículo 4.
 
@@ -85,201 +155,369 @@ XII. Fomentar la cultura vial con participación del sector social, privado y ac
 
 XIII. Fijar las infracciones y sanciones a efecto de asegurar su cabal cumplimiento y definir los recursos y procedimientos administrativos.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 5.
 
-Toda persona que haga uso de las vías públicas del Estado, ya sea como peatón, como ciclista o como usuario del servicio de transporte público, como conductor o propietario de un vehículo, como concesionario o permisionario, se encuentra obligada a cumplir con las disposiciones de la presente Ley y su reglamento.
+Las medidas que deriven de la presente Ley tendrán como objetivo prioritario la protección de la vida y la integridad física de las personas en sus desplazamientos, el uso o disfrute en las vías públicas, por medio de un enfoque de prevención que disminuya los factores de riesgo y la incidencia de lesiones graves, a través de la generación de sistemas de movilidad seguros, los cuales deben seguir los siguientes criterios:
+
+I. Las muertes o lesiones graves ocasionadas por un siniestro de tránsito son prevenibles;
+
+II. Los sistemas de movilidad y de transporte y la infraestructura vial deberán ser diseñados para tolerar el error humano, para que no se produzcan lesiones graves o muerte, así como reducir los factores de riesgo que atenten contra la integridad y dignidad de los grupos en situación de vulnerabilidad;
+
+III. Las velocidades vehiculares deben mantenerse de acuerdo con los límites establecidos en la presente Ley para reducir muertes y la gravedad de las lesiones;
+
+IV. La integridad física de las personas es responsabilidad compartida de quienes diseñan, construyen, gestionan, operan y usan la red vial y los servicios de transporte;
+
+V. Las soluciones cuando se produzca un siniestro de tránsito, deben buscarse en todo el sistema, en lugar de responsabilizar a alguna de las personas usuarias de la vía;
+
+VI. Los derechos de las víctimas se deberán reconocer y garantizar de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Víctimas y los Tratados Internacionales de los que el Estado Mexicano sea parte, así como en la Constitución Política del Estado de Sinaloa y la Ley de Atención y Protección a Víctimas del Estado de Sinaloa;
+
+VII. Las decisiones deben ser tomadas conforme las bases de datos e indicadores del Sistema de Información Territorial y Urbano, para lo cual se deben establecer sistemas de seguimiento, información, documentación y control de lo relativo a la seguridad de los sistemas de movilidad;
+
+VIII. Las acciones de concertación son necesarias entre los sectores público, privado y social con enfoque multisectorial, a través de mecanismos eficientes y transparentes de participación; y
+
+IX. El diseño vial y servicio de transporte debe ser modificado o adaptado, incorporando acciones afirmativas sin que se imponga una carga desproporcionada o indebida, a fin de que se garantice la seguridad integral y accesibilidad de los grupos en situación de vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-A falta de disposición expresa en esta Ley, será de aplicación supletoria lo dispuesto en la Ley de Ordenamiento y la Ley de Justicia Administrativa, para el Estado de Sinaloa, siempre que se refiera a instituciones previstas en esta Ley y no se oponga a lo dispuesto en los procedimientos a que refiere la presente Ley.
+La planeación, diseño e implementación de las políticas públicas, planes y programas en materia de movilidad deberán favorecer en todo momento a la persona, los grupos en situación de vulnerabilidad y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la siguiente jerarquía de la movilidad:
+
+I. Personas peatonas, con un enfoque equitativo y diferenciado en razón de género, personas con discapacidad y movilidad limitada;
+
+II. Personas ciclistas y personas usuarias de vehículos no motorizados;
+
+III. Personas usuarias y prestadoras del servicio de transporte público de pasajeros, con un enfoque equitativo pero diferenciado;
+
+IV. Personas prestadoras de servicios de transporte y distribución de bienes y mercancías; y
+
+V. Personas usuarias de vehículos motorizados particulares.
+
+Las autoridades estatales y de los ayuntamientos establecerán en sus respectivos reglamentos el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 7.
 
 Para efectos de esta Ley se entenderá por:
 
-I. Acera o Banqueta: Camino a cada lado de una vialidad, generalmente más elevado que ésta, reservado para la circulación exclusiva de las personas con discapacidad, peatones en general y, en su caso, usuarios de la movilidad no motorizada, cuando así se permita;
+I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;
 
-II. Acotamiento: Faja contigua a la calzada, comprendida entre la orilla y la línea de hombros de la carretera o, en su caso, la guarnición de la banqueta o de la faja separadora;
+II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
 
-III. Alcoholímetro digital: Basado en un sensor de gas, indica al soplar sobre él, el porcentaje de alcohol en sangre y puede servir a una persona para saber si se está en condiciones de conducir;
+III. Acera o Banqueta: Camino a cada lado de una vialidad, generalmente más elevado que esta, reservado para la circulación exclusiva de las personas con discapacidad, peatones en general y, en su caso, usuarios de la movilidad no motorizada, cuando así se permita;
 
-IV. Auditoría vial: Procedimiento sistemático en el que se comprueban las condiciones de seguridad y diseño universal de un proyecto de vialidad nueva, existente o de cualquier proyecto que afecte o pueda afectar a la vía o a los usuarios, con objeto de garantizar, desde la primera fase de planeamiento, que se diseñen con los criterios óptimos para todo (sic) sus usuarios y verificando que se mantengan dichos criterios durante las fases de proyecto, construcción y puesta en operación de la misma;
+IV. Acotamiento: Faja contigua a la calzada, comprendida entre la orilla y la línea de hombros de la carretera o, en su caso, la guarnición de la banqueta o de la faja separadora;
 
-V. Autobús: Vehículo automotor de seis o más llantas, de estructura integral o convencional con capacidad de veintitrés o más pasajeros sentados;
+V. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-VI. Bahía: Área destinada para el ascenso y descenso de pasajeros adaptada al margen de la vía pública para mayor seguridad de los usuarios, sin afectar el libre tránsito de los demás vehículos automotores;
+VI. Alcoholímetro digital: Basado en un sensor de gas, indica al soplar sobre él, el porcentaje de alcohol en sangre y puede servir a una persona para saber si se está en condiciones de conducir;
 
-VII. Base de ruta: Lugar de inicio o terminación de una ruta de transporte público colectivo destinado al despacho y estacionamiento temporal de vehículos;
+VII. Atención médica prehospitalaria: Es la otorgada a las personas cuya condición clínica considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencia, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia;
 
-VIII. Bases de encierro: Lugar destinado para el depósito y guarda de los vehículos destinados a la prestación del servicio de transporte público cuando no se encuentren prestando servicio;
+VIII. Auditorías de Seguridad Vial: Metodología aplicable a cualquier infraestructura vial para identificar, reconocer y corregir las deficiencias antes de que ocurran siniestros viales o cuando estos ya están sucediendo. Las auditorías de seguridad vial buscan identificar riesgos de la vía con el fin de emitir recomendaciones que, al materializarse, contribuyan a la reducción de los riesgos;
 
-IX. Bici-estacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas;
+IX. Autobús: Vehículo automotor de seis o más llantas, de estructura integral o convencional con capacidad de veintitrés o más pasajeros sentados;
 
-X. Calle completa: Vialidad compuesta diseñada para que las personas de todas las edades y habilidades puedan convivir y transitar de una forma segura, accesible y eficiente en cualquier modo de transporte;
+X. Autoridades: Autoridades de los tres órdenes de gobierno en materia de movilidad, seguridad vial y transporte terrestre;
 
-XI. Calle: Vía publica ubicada en los centros de población destinada al tránsito de usuarios de movilidad no motorizada y vehículos motorizados;
+XI. Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
-XII. Carretera: Camino pavimentado o no, utilizado para el tránsito de personas y transporte de bienes en el territorio estatal;
+XII. Bahía: Área destinada para el ascenso y descenso de pasajeros adaptada al margen de la vía pública para mayor seguridad de los usuarios, sin afectar el libre tránsito de los demás vehículos automotores;
 
-XIII. Ciclista: Conductor de un vehículo de tracción física a través de pedales y aquellos que conducen bicicletas asistidas por motores eléctricos;
+XIII. Bases de Datos sobre Movilidad y Seguridad Vial: Las bases de datos a las que se refiere el artículo 29 de la Ley General de Movilidad y Seguridad Vial;
 
-XIV. Ciclovía: Espacios destinados al tránsito de vehículos no motorizados, pueden ser de tipo exclusivos o compartidas, siempre con preferencia sobre vehículos motorizado, pueden ser urbanas, interurbanas, recreativas, bidireccionales o unidireccionales;
+XIV. Base de ruta: Lugar de inicio o terminación de una ruta de transporte público colectivo destinado al despacho y estacionamiento temporal de vehículos;
 
-XV. Comisión: Comisión de Financiamiento para la Movilidad;
+XV. Bases de encierro: Lugar destinado para el depósito y guarda de los vehículos destinados a la prestación del servicio de transporte público cuando no se encuentren prestando servicio;
 
-XVI. Comité: Comité Resolutivo;
+XVI. Bici-estacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas;
 
-XVII. Comité Técnico: Comité Técnico de Operación y Control del SIT.
+XVII. Calle completa: Aquella diseñada para facilitar el tránsito seguro de las personas usuarias de las vías, de conformidad con la jerarquía de la movilidad, que propician la convivencia y los desplazamientos accesibles y eficientes. Consideran criterios de diseño universal, la ampliación de banquetas o espacios compartidos de circulación peatonal y vehicular libres de obstáculos, el redimensionamiento de carriles para promover velocidades seguras, carriles exclusivos para el transporte público, infraestructura ciclista y señalética adecuada y visible en todo momento;
 
-XVIII. Concesión: Acto jurídico-administrativo por medio del cual el Ejecutivo del Estado a través del titular de la SGG otorga la autorización de servicio público de transporte;
+XVIII. Carretera: Camino pavimentado o no, utilizado para el tránsito de personas y transporte de bienes en el territorio estatal;
 
-XIX. Concesionario: El titular de una concesión;
+XIX. Ciclista: Conductor de un vehículo de tracción física a través de pedales y aquellos que conducen bicicletas asistidas por motores eléctricos;
 
-XX. Consejo: Consejo de Movilidad;
+XX. Ciclovía: Espacios destinados al tránsito de vehículos no motorizados, pueden ser de tipo exclusivos o compartidas, siempre con preferencia sobre vehículos motorizado, pueden ser urbanas, interurbanas, recreativas, bidireccionales o unidireccionales;
 
-XXI. Contraprestación: Es el pago o prestación en dinero que realiza el contratante de un servicio de transporte de carga, en diferentes modalidades, en los centros poblados y en los caminos de jurisdicción estatal, misma que será acordada mediante contrato por escrito celebrado entre el concesionario y el solicitante del servicio;
+XXI. Comisión: Comisión de Financiamiento para la Movilidad;
 
-XXII. Convocatoria: Instrumento mediante el cual al SGG establece las bases y lineamientos para participar en el proceso de otorgamiento de permisos del transporte de carga.
+XXII. Comité: Comité Resolutivo;
 
-XXIII. Dependencia municipal de tránsito: dependencia o entidad de la Administración Pública Municipal que realiza las funciones de tránsito, fomentar la movilidad sustentable, gestionar el desarrollo del servicio de transporte público a que refiere este ordenamiento;
+XXIII. Comité Técnico: Comité Técnico de Operación y Control del Sistema Integrado de Transporte Público;
 
-XXIV. Dictamen de Congruencia de Programas: la resolución expedida por la SEDESU donde se establecen los argumentos técnicos para asegurar la congruencia de los programas de movilidad con su inmediato superior de conformidad con el orden jerárquico establecido en la presente Ley;
+XXIV. Concesión: Acto jurídico-administrativo por medio del cual el Ejecutivo del Estado a través del titular de la Secretaría General de Gobierno otorga la autorización de servicio público de transporte;
 
-XXV. Dispositivos para el control del tránsito: son las señales, marcas y semáforos y cualquier otro dispositivo, que se colocan sobre o adyacente a las calles y carreteras por una autoridad pública, para prevenir, regular y guiar a los usuarios de las mismas;
+XXV. Concesionario: El titular de una concesión;
 
-XXVI. Ejecutivo del Estado: el Gobernador Constitucional del Estado de Sinaloa;
+XXVI. Consejo: Consejo de Movilidad;
 
-XXVII. Enrolamiento: Es el acuerdo entre concesionarios mediante el cual se establece y regula la alternancia de vehículos amparados por una concesión para operar entre las respectivas rutas concesionadas, sin incrementar el número de vehículos autorizados.
+XXVII. Contraprestación: Es el pago o prestación en dinero que realiza el contratante de un servicio de transporte de carga, en diferentes modalidades, en los centros poblados y en los caminos de jurisdicción estatal, misma que será acordada mediante contrato por escrito celebrado entre el concesionario y el solicitante del servicio;
 
-XXVIII. Estacionamiento: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
+XXVIII. Convocatoria: Instrumento mediante el cual la Secretaría General de Gobierno establece las bases y lineamientos para participar en el proceso de otorgamiento de permisos del transporte de carga;
 
-XXIX. Hecho de tránsito: Evento en el que interviene por lo menos un vehículo, causando lesiones o muerte de personas y/o daños materiales;
+XXIX. Dependencia municipal de tránsito: Dependencia o entidad de la Administración Pública Municipal que realiza las funciones de tránsito, fomentar la movilidad sustentable, gestionar el desarrollo del servicio de transporte público a que refiere este ordenamiento;
 
-XXX. Impacto Vial: Influencia o alteración en las condiciones existentes de operación del tránsito peatonal y vehicular, que causa una obra pública o privada en el entorno en el que se ubica;
+XXX. Desplazamientos: Recorrido de una persona asociado a un origen y un destino preestablecidos con un propósito determinado en cualquier modo de movilidad;
 
-XXXI. IMPLAN: El Instituto Municipal de Planeación;
+XXXI. Dictamen de Congruencia de Programas: La resolución expedida por la Secretaría de Bienestar y Desarrollo Sustentable donde se establecen los argumentos técnicos para asegurar la congruencia de los programas de movilidad con su inmediato superior de conformidad con el orden jerárquico establecido en la presente Ley;
 
-XXXII. Infraestructura Vial: Son las banquetas, andadores peatonales, ciclovías, calles, carreteras y todo medio público que permitan el desplazamiento de personas y bienes y el funcionamiento de los sistemas de transporte público; se constituyen por el conjunto de elementos con que cuenta la vialidad, que tienen una finalidad de beneficio general, y que contribuyen a su mejor funcionamiento o imagen visual;
+XXXII. Discriminación por motivos de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
-XXXIII. Ley de Ordenamiento: Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Sinaloa;
+XXXIII. Diseño Universal: Se entenderá el diseño de productos, entornos, programas y servicios en materia de movilidad y seguridad vial, que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
 
-XXXIV. Ley General de Asentamientos: Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
+XXXIV. Dispositivo de Seguridad: Aditamento, sistema o mecanismo dispuesto para las personas en favor de la seguridad de la vida, la salud y la integridad durante sus traslados;
 
-XXXV. Ley: Ley de Movilidad Sustentable del Estado de Sinaloa;
+XXXV. Dispositivos de control del tránsito: Conjunto de señales, marcas, dispositivos diversos y demás elementos que se colocan en las vías con el objeto de prevenir, regular y guiar la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento;
 
-XXXVI. Manual de Especificaciones Técnicas: Es el documento emitido por la SEDESU en el que se establecen las características físicas, de diseño, condiciones mecánicas y de carrocería, colores, letreros, elementos de seguridad y demás aspectos materiales que deben cumplir las unidades destinadas a prestar los servicios de transporte, en sus distintas modalidades;
+XXXVI. Dispositivos de seguridad vehicular: Autopartes, partes, sistemas, diseños y mecanismos en un vehículo dispuesto para producir una acción de protección en favor de la seguridad, la vida, la salud e integridad de las personas usuarias, de conformidad con lo establecido en las Normas Oficiales Mexicanas correspondientes;
 
-XXXVII. Movilidad: Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+XXXVII. Educación Vial: Actividad cuya finalidad es promover una cultura vial en la población, dirigida a todas las personas usuarias de la vía, con el objetivo de generar cambios en los patrones de comportamiento social;
 
-XXXVIII. Movilidad Institucional: Aquella realizada por el sector público y privado o instituciones académicas orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines;
+XXXVIII. Ejecutivo del Estado: el Gobernador Constitucional del Estado de Sinaloa;
 
-XXXIX. Movilidad no motorizada: desplazamientos realizados a pie y a través de vehículos no motorizados;
+XXXIX. Enfoque Sistémico: Enfoque que aborda la movilidad en su totalidad e integralidad, en el que interactúan una serie de elementos coordinados e interconectados;
 
-XL. Movilidad Urbana Sustentable: Aquellos desplazamientos multimodales, seguros y eficientes que se realizan en condiciones de equidad, tanto en las vialidades como en el espacio público de un área urbana consolidada, que reducen las emisiones de gases efecto invernadero y facilita la adaptación de los habitantes ante el cambio climático;
+XL. Enrolamiento: Es el acuerdo entre concesionarios mediante el cual se establece y regula la alternancia de vehículos amparados por una concesión para operar entre las respectivas rutas concesionadas, sin incrementar el número de vehículos autorizados;
 
-XLI. Parada: Zona de detención de los vehículos colocada a una distancia establecida una de otra, en las que se permiten las maniobras de ascenso-descenso de usuarios del transporte público colectivo, mismas que estarán señalizadas y geo-referenciadas para facilitar su localización por el usuario;
+XLI. Especificaciones Técnicas: Parámetros a los que se encuentra sujeto el diseño, funcionalidad y uso tanto de las vías como de los modos de transporte, con el objeto de garantizar la seguridad, salud e integridad de las personas usuarias y la prevención del riesgo, considerando las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
 
-XLII. Parque vehicular: Conjunto de unidades vehiculares destinadas a la operación de servicios de transporte;
+XLII. Estacionamiento: Espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
 
-XLIII. Peatón: Toda persona que transite por las vías públicas utilizando sus propios medios de locomoción, naturales o auxiliares por aparatos o dispositivos para discapacitados;
+XLIII. Estrategia Nacional de Movilidad y Seguridad Vial: Instrumento rector para la conducción de la Política Nacional de Movilidad y Seguridad Vial, que incluye el conjunto de acciones encaminadas a promover la movilidad y la seguridad vial, para implementarlas a través de la coordinación de los tres órdenes de gobierno;
 
-XLIV. Permisionario: Persona física o jurídica colectiva titular de un permiso, con la finalidad de prestar un servicio público de transporte, sujeto a la vigencia de la concesión.
+XLIV. Estudio de Impacto de Movilidad: El que realizan las autoridades de los tres órdenes de gobierno en el ámbito de sus funciones, con el fin de evitar o reducir los efectos negativos sobre la calidad de vida de la ciudadanía en materia de movilidad y seguridad vial;
 
-XLV. Permiso: Acto jurídico administrativo en virtud del cual la SGG otorga a una persona física o moral la autorización para operar la unidad que prestará el servicio público de transporte.
+XLV. Examen de valoración integral: Conjunto de valoraciones físicas, médicas y evaluación de conocimientos en materia de reglamentos de tránsito, que las autoridades de los tres órdenes de gobierno en el ámbito de sus funciones practican a las personas aspirantes para obtener o renovar una licencia de conducir;
 
-XLVI. Permiso de ruta: Autorización que se otorga para la explotación de un itinerario determinado, con vehículos y conductores especialmente capacitados y autorizados para ello.
+XLVI. Externalidades: Factores que inciden, afectan y son derivados de efectos secundarios que causa la actividad de la movilidad de una persona, en función del medio de transporte por el que se desplace, como emisiones, congestión, siniestros y uso de espacio público;
 
-XLVII. Permiso eventual: Autorización temporal que la SGG otorga a una persona física o jurídica colectiva para satisfacer una necesidad inmediata o emergente de servicio de transporte público en cualquiera de las modalidades;
+XLVII. Factor de riesgo: Todo hecho o acción que dificulte la prevención de un siniestro de tránsito, así como la implementación de medidas comprobadas para mitigar dichos riesgos;
 
-XLVIII. Permiso particular: Autorización sujeta a una vigencia, que expide la SGG a una persona o empresa, para satisfacer necesidades propias de movilización de sus bienes o sus trabajadores;
+XLVIII. Gestión de la demanda de movilidad: Conjunto de medidas, programas y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
 
-XLIX. PIMUS: Planes Integrales de Movilidad Urbana Sustentable;
+XLIX. Gestión de la velocidad: Conjunto de medidas integradas que llevan a las personas conductoras a circular a una velocidad segura y, en consecuencia, reducir el número de siniestros de tránsito y las lesiones graves o muertes;
 
-L. Plan de Operación del Servicio: Las especificaciones técnicas que determina la SEDESU estableciendo la cantidad de vehículos, número de despachos, horario para cada uno, en una ruta de transporte de pasajeros, para operar la ruta correspondiente;
+L. Grupos en situación de vulnerabilidad: Población que enfrenta barreras para ejercer su derecho a la movilidad con seguridad vial como resultado de la desigualdad, como las personas con menores ingresos, indígenas, con discapacidad, en estado de gestación, adultas mayores, comunidad LGBTTTIQ, así como mujeres, niñas, niños y adolescentes, y demás personas que por su condición particular enfrenten algún tipo de exclusión;
 
-LI. Programa Estatal: El Programa Estatal de Movilidad del Estado de Sinaloa;
+LI. Impacto de movilidad: Resultado de la evaluación de las posibles influencias o alteraciones sobre los desplazamientos de personas, bienes y mercancías que pudieran afectarse por la realización de obras y actividades privadas y públicas;
 
-LII. Programa Sectorial: El Programa Sectorial de Movilidad Municipal;
+LII. IMPLAN: El Instituto Municipal de Planeación;
 
-LIII. Registro: Los Registros Estatal de Vehículos de Transporte Público y Privado y de Conductores y demás elementos registrales que se mencionan en la presente Ley;
+LIII. Infraestructura Vial: Son las banquetas, andadores peatonales, ciclovias, calles, carreteras y todo medio público que permitan el desplazamiento de personas y bienes y el funcionamiento de los sistemas de transporte público; se constituyen por el conjunto de elementos con que cuenta la vialidad, que tienen una finalidad de beneficio general, y que contribuyen a su mejor funcionamiento o imagen visual;
 
-LIV. Reglamento: El Reglamento de la Ley de Movilidad Sustentable del Estado de Sinaloa;
+LIV. Interseccionalidad: Conjunto de desigualdades múltiples que coinciden o interceptan en una persona o grupo, aumentando su situación desfavorecida, riesgo, exposición o vulnerabilidad al hacer uso de la vía;
 
-LV. Ruta: Recorrido que un vehículo destinado al servicio de transporte público colectivo, debe realizar, en las calles de los centros poblados o en las vías de comunicación dentro del territorio del Estado, entre los puntos extremos e intermedios que se hayan fijado en la concesión o permiso;
+LV. Lengua de Señas Mexicana: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
-LVI. Ruta Única: Aquella que se concesiona por la SGG, previo estudio técnico que determine que dos o más rutas, concurren en un mismo tramo y que resulte inviable mantener la rentabilidad del servicio de las rutas preexistentes;
+LVI. Ley de Ordenamiento: Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Sinaloa;
 
-LVII. Ruta Convencional: Ruta que no forma parte del SIT;
+LVII. Ley General de Asentamientos: Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
 
-LVIII. SAF: Secretaría de Administración y Finanzas;
+LVIII. Ley General: Ley General de Movilidad y Seguridad Vial;
 
-LIX. SGG: Secretaría General de Gobierno;
+LIX. Ley: Ley de Movilidad Sustentable y Seguridad Vial del Estado de Sinaloa;
 
-LX. SEDESU: Secretaría de Desarrollo Sustentable;
+LX. Manual de Especificaciones Técnicas: Es el documento emitido por la Secretaría General de Gobierno en el que se establecen las características físicas, de diseño, condiciones mecánicas y de carrocería, colores, letreros, elementos de seguridad y demás aspectos materiales que deben cumplir las unidades destinadas a prestar los servicios de transporte, en sus distintas modalidades;
 
-LXI. Señales horizontales: Son rayas, marcas, letras que se pintan sobre el pavimento o guarniciones dentro o adyacentes a las vías de circulación, así como los objetos que se colocan sobre la superficie de rodamiento con el fin de regular o canalizar el tránsito e indicar la presencia de obstáculos;
+LXI. Motocicleta: Vehículo motorizado de dos o más ruedas utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cm cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de bicimoto, motoneta, motocicleta con sidecar, trimoto y cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies;
 
-LXII. Señales verticales: Son tableros con símbolos, fijados en postes que tienen por objeto prevenir, regular y guiar a los usuarios de calles y carreteras;
+LXII. Movilidad: El conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas;
 
-LXIII. Servicio de depósito y guarda de vehículos: Es el destinado al encierro de vehículos en un local cerrado para la segura custodia de los vehículos accidentados, retenidos, abandonados, descompuestos e infraccionados en vía pública y remitidos por la autoridad competente;
+LXIII. Movilidad activa o no motorizada: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
 
-LXIV. Servicio de salvamento y arrastre: Es aquel destinado al traslado de un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa, por la vía pública, incluyendo las maniobras necesarias e indispensables para engancharlo o cargarlo y asegurarlo a la grúa;
+LXIV. Movilidad del cuidado: Viajes realizados en la consecución de actividades relacionadas con el trabajo no remunerado, de cuidados y el cuidado de las personas que requieren de otra persona para su traslado, dependientes o con necesidades específicas;
 
-LXV. Sistema de Ciclovías: Conjunto o redes de infraestructura ciclista interconectadas entre sí e integradas con otros medios de transporte;
+LXV. Movilidad Institucional: Aquella realizada por el sector público y privado o instituciones académicas orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines;
 
-LXVI. Sistema de monitoreo: Es aquel que permite el control y supervisión de los vehículos afectos al servicio de transporte, permitiendo documentar y registrar cada evento de la operación del servicio, con el uso de tecnología adecuada, aprobada por el Consejo;
+LXVI. Movilidad Urbana Sustentable: Aquellos desplazamientos multimodales, seguros y eficientes que se realizan en condiciones de equidad, tanto en las vialidades como en el espacio público de un área urbana consolidada, que reducen las emisiones de gases efecto invernadero y facilita la adaptación de los habitantes ante el cambio climático;
 
-LXVII. Sistema de recaudo de la tarifa: Es la tecnología que utiliza medios electrónicos, ópticos o cualquier otra a través de equipos instalados en los vehículos, terminales o paradas, destinados al pago de la tarifa del servicio.
+LXVII. Parada: Zona de detención de los vehículos colocada a una distancia establecida una de otra, en las que se permiten las maniobras de ascenso-descenso de usuarios del transporte público colectivo, mismas que estarán señalizadas y georeferenciadas (sic) para facilitar su localización por el usuario;
 
-LXVIII. Sistema de rutas: Conjunto de rutas integradas del Sistema Integrado de Transporte colectivo de personas en centros urbanos o en una Zona Metropolitana determinada, que adquiera tal carácter, conforme al procedimiento aplicable;
+LXVIII. Parque vehicular: Conjunto de unidades vehiculares destinadas a la operación de servicios de transporte;
 
-LXIX. SIT: Sistema Integrado de Transporte Público;
+LXIX. Perro de asistencia: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
-LXX. Sitio: Espacio físico ubicado en propiedad privada o en la vía pública, destinado al estacionamiento temporal de vehículos del servicio público de taxi, mixto, turístico para el ofrecimiento de sus servicios;
+LXX. Persona peatona: Persona que transita por la vía a pie o que por su condición de discapacidad o de movilidad limitada utilizan ayudas técnicas para desplazarse; incluye menores de doce años a bordo de un vehículo no motorizado;
 
-LXXI. Tarifa: Es el pago que realizan los usuarios del transporte público de pasajeros, por el servicio recibido según el monto autorizado por la autoridad competente;
+LXXI. Persona permisionaria: Persona física o moral autorizada por la Secretaría General de Gobierno para prestar servicios de autotransporte de carga y personas, o para operar o explotar servicios auxiliares, en las vías generales de comunicación, que para el cumplimiento de sus fines transita en vialidades de jurisdicción estatal o municipal;
 
-LXXII. Terminal de transferencia: Es la infraestructura para el intercambio de usuarios de una ruta a otra o de una modalidad de transporte a otra, ubicada en puntos estratégicos conforme a la demanda del servicio;
+LXXII. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del artículo 2 de Ley General para la Inclusión de las Personas con Discapacidad;
 
-LXXIII. Terminal: Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de todas las actividades asociadas a la prestación de los servicios de transporte;
+LXXIII. Persona con movilidad limitada: Toda persona cuya movilidad se ha reducido por motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
 
-LXXIV. Tránsito: Acción de transitar. El movimiento de un punto a otro de personas y cosas, por calles, carreteras o espacios públicos;
+LXXIV. Personas usuarias vulnerables: Niñas y niños menores de doce años, personas adultas mayores y personas con movilidad limitada usuarias de vehículos de dos y tres ruedas;
 
-LXXV. UMA: Unidad de Medida y Actualización;
+LXXV. Permiso: Acto jurídico administrativo en virtud del cual la Secretaría General de Gobierno otorga a una persona física o moral la autorización para operar la unidad que prestará el servicio público de transporte;
 
-LXXVI. Usuario: La persona que utiliza tanto las vías públicas dentro del Estado como el servicio público de transporte que se presta en el Estado;
+LXXVI. Permiso de ruta: Autorización que se otorga para la explotación de un itinerario determinado, con vehículos y conductores especialmente capacitados y autorizados para ello;
 
-LXXVII. Vehículo: Todo medio propulsado por motor o tracción humana, que se usa para transportar personas o bienes;
+LXXVII. Permiso eventual: Autorización temporal que la Secretaría General de Gobierno otorga a una persona física o jurídica colectiva para satisfacer una necesidad inmediata o emergente de servicio de transporte público en cualquiera de las modalidades;
 
-LXXVIII. Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana o semoviente, para su desplazamiento, Incluye bicicletas asistidas por motor que desarrollen velocidades máximas de 25 kilómetros por hora;
+LXXVIII. Permiso particular: Autorización sujeta a una vigencia, que expide la Secretaría General de Gobierno a una persona o empresa, para satisfacer necesidades propias de movilización de sus bienes o sus trabajadores;
 
-LXXIX. Ventanilla única: Instancia administrativa integrada por acuerdo de la SGG y la SAF, que tendrá a su cargo la atención de los trámites que se establecen en la presente Ley.
+LXXIX. PIMUS: Planes Integrales de Movilidad Urbana Sustentable;
 
-LXXX. Vía pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos, motorizados y no motorizados; así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+LXXX. Plan de Operación del Servicio: Las especificaciones técnicas que determina la Secretaría General de Gobierno estableciendo la cantidad de vehículos, número de despachos, horario para cada uno, en una ruta de transporte de pasajeros, para operar la ruta correspondiente;
 
-LXXXI. Vialidades: Conjunto integrado de vías de uso común que conforman la traza urbana de la ciudad, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos; y
+LXXXI. Programa Estatal: El Programa Estatal de Movilidad y Seguridad Vial del Estado de Sinaloa;
 
-LXXXII. Vialidad rural: Camino pavimentado o no, utilizado para el tránsito de personas y transporte de bienes entre localidades en el territorio estatal;
+LXXXII. Programa Sectorial: El Programa Sectorial de Movilidad y Seguridad Vial Municipal;
 
-### CAPÍTULO II. DE LOS PRINCIPIOS
+LXXXIII. Proximidad: Circunstancias que permiten a las personas usuarias desplazarse con facilidad a sus destinos;
+
+LXXXIV. Registro: Los Registros Estatal de Vehículos de Transporte Público y Privado y de Conductores y demás elementos registrales que se mencionan en la presente Ley;
+
+LXXXV. Reglamento: El Reglamento de la Ley de Movilidad Sustentable y Seguridad Vial del Estado de Sinaloa;
+
+LXXXVI. Ruta: Recorrido que un vehículo destinado al servicio de transporte público colectivo, debe realizar, en las calles de los centros poblados o en las vías de comunicación dentro del territorio del Estado, entre los puntos extremos e intermedios que se hayan fijado en la concesión o permiso;
+
+LXXXVII. Ruta Única: Aquella que se concesiona por la Secretaría General de Gobierno, previo estudio técnico que determine que dos o más rutas, concurren en un mismo tramo y que resulte inviable mantener la rentabilidad del servicio de las rutas preexistentes;
+
+LXXXVIII. Ruta Convencional: Ruta que no forma parte del Sistema Integrado de Transporte Público;
+
+LXXXIX. SAF: Secretaría de Administración y Finanzas;
+
+XC. SGG: Secretaría General de Gobierno;
+
+XCI. SEBIDES: Secretaría de Bienestar y Desarrollo Sustentable;
+
+XCII. Seguridad Vehicular: Medidas enfocadas en el desempeño y protección que brinda un vehículo motorizado a las personas pasajeras y usuarias de la vía contra el riesgo de muerte o lesiones graves en caso de un siniestro de tránsito;
+
+XCIII. Seguridad vial: Conjunto de políticas y sistemas orientados a controlar los factores de riesgo, con el fin de prevenir y reducir las muertes y lesiones graves ocasionadas por siniestros de tránsito;
+
+XCIV. Sensibilización: Transmisión de información a la población, con el fin de concientizarla sobre el uso de la vía y la problemática que en ella se genera;
+
+XCV. Sensibilización de género: Diseño, instrumentación y ejecución de programas y políticas públicas que atiendan la problemática de las desigualdades e inequidades de género;
+
+XCVI. Señales horizontales: Son rayas, marcas, letras que se pintan sobre el pavimento o guarniciones dentro o adyacentes a las vías de circulación, así como los objetos que se colocan sobre la superficie de rodamiento con el fin de regular o canalizar el tránsito e indicar la presencia de obstáculos;
+
+XCVII. Señales verticales: Son tableros con símbolos, fijados en postes que tienen por objeto prevenir, regular y guiar a los usuarios de calles y carreteras;
+
+XCVIII. Servicio de depósito y guarda de vehículos: Es el destinado al encierro de vehículos en un local cerrado para la segura custodia de los vehículos accidentados, retenidos, abandonados, descompuestos e infraccionados en vía pública y remitidos por la autoridad competente;
+
+XCIX. Servicio de salvamento y arrastre: Es aquel destinado al traslado de un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa, por la vía pública, incluyendo las maniobras necesarias e indispensables para engancharlo o cargarlo y asegurarlo a la grúa;
+
+C. Servicio de transporte: Actividad mediante la cual la Secretaría General de Gobierno otorga permiso o autorización a personas físicas o morales para que suministren el servicio de transporte para satisfacer las necesidades de movilidad de las personas, bienes y mercancías, de conformidad con su normatividad aplicable;
+
+CI. Servicio de Transporte Público: Actividad a través de la cual la Secretaría General de Gobierno, satisfacen las necesidades de transporte accesible e incluyente de pasajeros o carga en todas sus modalidades, dentro del área de su jurisdicción;
+
+CII. Siniestro de tránsito: Cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causan la muerte, lesiones, incluidas en las que se adquiere alguna discapacidad, o daños materiales, que puede prevenirse y sus efectos adversos atenuarse;
+
+CIII. Sistema de Información Territorial y Urbano: Sistema al que hace referencia el artículo 27 de la presente Ley General de Movilidad y Seguridad Vial;
+
+CIV. Sistema Nacional: El Sistema Nacional de Movilidad y Seguridad Vial;
+
+CV. Sistema Estatal: El Sistema Estatal de Movilidad y Seguridad Vial;
+
+CVI. Sistema de Ciclovías: Conjunto o redes de infraestructura ciclista interconectadas entre sí e integradas con otros medios de transporte;
+
+CVII. Sistema de monitoreo: Es aquel que permite el control y supervisión de los vehículos afectos al servicio de transporte, permitiendo documentar y registrar cada evento de la operación del servicio, con el uso de tecnología adecuada, aprobada por el Consejo;
+
+CVIII. Sistemas de movilidad: Conjunto de elementos y recursos relacionados directa o indirectamente con el tránsito y la movilidad, cuya estructura e interacción permiten el desplazamiento de personas, bienes y mercancías en el espacio público;
+
+CIX. Sistemas de retención infantil: Dispositivos de seguridad para limitar la movilidad del cuerpo para personas menores de doce años, a fin de disminuir el riesgo de lesiones en caso de colisión o desaceleración brusca del vehículo;
+
+CX. Sistemas seguros: Prácticas efectivas, eficientes y prioritarias, que redistribuyen responsabilidades entre los diversos actores relacionados con la movilidad y no solo con las personas usuarias, cobran especial relevancia las vías libres de riesgos, los sistemas de seguridad en el transporte, en los vehículos y las velocidades seguras;
+
+CXI. Sistema de recaudo de la tarifa: Es la tecnología que utiliza medios electrónicos, ópticos o cualquier otra a través de equipos instalados en los vehículos, terminales o paradas, destinados al pago de la tarifa del servicio;
+
+CXII. Sistema de rutas: Conjunto de rutas integradas del Sistema Integrado de Transporte colectivo de personas en centros urbanos o en una Zona Metropolitana determinada, que adquiera tal carácter, conforme al procedimiento aplicable;
+
+CXIII. SIT: Sistema Integrado de Transporte Público;
+
+CXIV. Sitio: Espacio físico ubicado en propiedad privada o en la vía pública, destinado al estacionamiento temporal de vehículos del servicio público de taxi, mixto, turístico para el ofrecimiento de sus servicios;
+
+CXV. Tarifa: Es el pago que realizan los usuarios del transporte público de pasajeros, por el servicio recibido según el monto autorizado por la autoridad competente;
+
+CXVI. Terminal de transferencia: Es la infraestructura para el intercambio de usuarios de una ruta a otra o de una modalidad de transporte a otra, ubicada en puntos estratégicos conforme a la demanda del servicio;
+
+CXVII. Terminal: Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de todas las actividades asociadas a la prestación de los servicios de transporte;
+
+CXVIII. Transporte público de pasajeros: Es el medio de traslado que se ofrece a una persona o para el público en general de forma continua, uniforme, regular, permanente e ininterrumpida y sujeta a horarios establecidos o criterios de optimización mediante algoritmos tecnológicos que otorga la autoridad competente a través de entidades, concesionarios o mediante permisos;
+
+CXIX. Transporte: Es el medio físico a través del cual se realiza el traslado de personas, bienes y mercancías;
+
+CXX. Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+
+CXXI. UMA: Unidad de Medida y Actualización;
+
+CXXII. Usuario: La persona que realiza desplazamientos haciendo uso del sistema de movilidad;
+
+CXXIII. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
+
+CXXIV. Vehículo eficiente: Vehículo que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación;
+
+CXXV. Vehículo motorizado: Vehículo de transporte terrestre de pasajeros o de carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los veinticinco kilómetros por hora;
+
+CXXVI. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+
+CXXVII. Velocidad de operación: Velocidad establecida por las autoridades correspondientes en los reglamentos de tránsito;
+
+CXXVIII. Ventanilla única: Instancia administrativa integrada por acuerdo de la SGG y la SAF, que tendrá a su cargo la atención de los trámites que se establecen en la presente Ley;
+
+CXXIX. Vía: Espacio físico destinado al tránsito de personas peatonas y vehículos;
+
+CXXX. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario;
+
+CXXXI. Vialidades: Conjunto integrado de vías de uso común que conforman la traza urbana de la ciudad, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+
+CXXXII. Vialidad rural: Camino pavimentado o no, utilizado para el tránsito de personas y transporte de bienes entre localidades en el territorio estatal; y
+
+CXXXIII. Violencias contra las mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LOS PRINCIPIOS DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-La planeación, regulación, supervisión y el fomento de la movilidad sustentable de las personas y del transporte público, deben conducirse en apego a los siguientes principios:
+Las autoridades Estatales y Municipales en la materia, de acuerdo con sus facultades, considerarán los siguientes principios:
 
-I. Accesibilidad. Garantizar y promover una adecuada capacidad, facilidad y eficiencia del desplazamiento de las personas y carga en el Estado, privilegiando las calles completas, el transporte público, peatonal y no motorizado mediante medidas como un patrón coherente de redes viales primarias y la distribución jerarquizada de los equipamientos;
+I. Accesibilidad. Garantizar el acceso pleno en igualdad de condiciones, con dignidad y autonomía a todas las personas al espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad tanto en zonas urbanas como rurales e insulares mediante la identificación y eliminación de obstáculos y barreras de acceso, discriminación, exclusiones, restricciones físicas, culturales, económicas, así como el uso de ayudas técnicas y perros de asistencia, con especial atención a personas con discapacidad, movilidad limitada y grupos en situación de vulnerabilidad;
 
-II. Eficiencia. Maximizar los desplazamientos ágiles y asequibles optimizando los recursos disponibles, sin que su diseño y operación produzcan externalidades negativas desproporcionadas a sus beneficios;
+II. Calidad. Garantizar que los sistemas de movilidad, infraestructura, servicios, vehículos y transporte público cuenten con los requerimientos y las condiciones para su óptimo funcionamiento con propiedades aceptables para satisfacer las necesidades de las personas;
 
-III. Equidad. Garantizar y fomentar el ejercicio pleno del derecho de movilidad en condiciones de igualdad, promoviendo el acceso al transporte de calidad, seguro y eficiente, con políticas públicas incluyentes y acciones para eliminar la violencia basada en género y el acoso sexual;
+III. Confiabilidad. Las personas usuarias de los servicios de transporte deben tener la certeza de que los tiempos de recorrido, los horarios de operación y los puntos de abordaje y descenso son predefinidos y seguros, de manera que se puedan planear los recorridos de mejor forma;
 
-IV. Coherencia y racionalidad. Conducir las acciones y políticas públicas en materia de movilidad, o que la promuevan directa o indirectamente, acorde a los planes, programas y políticas nacionales y del Estado en materia de desarrollo, ordenamiento territorial y desarrollo urbano; así como procurar la eficiencia y transparencia en el uso de recursos públicos;
+IV. Diseño universal. Todos los componentes de los sistemas de movilidad deben seguir los criterios de diseño universal, a fin de incluir a todas las personas independientemente de su condición y en igualdad de oportunidades, a las calles y los servicios de movilidad, de acuerdo con las condiciones de cada centro de población; así como otorgarles las condiciones mínimas de infraestructura necesarias para ejercer el derecho a la movilidad;
 
-V. Innovación tecnológica. Impulsar sistemas tecnológicos que permitan un desarrollo eficiente de la movilidad, generando eficiencia en los sistemas de transporte y el desplazamiento de personas y bienes;
+V. Eficiencia. Maximizar los desplazamientos ágiles y asequibles, tanto de personas usuarias como de bienes y mercancías, optimizando los recursos ambientales y económicos disponibles;
 
-VI. Participación ciudadana. Proteger el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas, planes y programas que determinan el desarrollo del transporte público y movilidad sustentable del Estado, estableciendo un sistema de movilidad basado en soluciones colectivas, que resuelva los desplazamientos de toda la población y en el que se promuevan nuevos hábitos de movilidad, a través de la aportación de todos los actores sociales, en el ámbito de sus capacidades y responsabilidades; y
+VI. Equidad. Reconocer condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades, tanto para mujeres y hombres, así como otros grupos en situación de vulnerabilidad;
 
-VII. Seguridad. Privilegiar las acciones de prevención hechos y de conflictos de tránsito durante los desplazamientos de la población, con el fin de proteger la integridad física de las personas.
+VII. Habitabilidad. Generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad, a través de la interacción social, la diversidad de actividades y la articulación de servicios, equipamientos e infraestructura;
+
+VIII. Inclusión e Igualdad. El Estado atenderá de forma incluyente, igualitaria y sin discriminación las necesidades de todas las personas en sus desplazamientos en el espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad;
+
+IX. Movilidad activa. Promover ciudades caminables, así como el uso de la bicicleta y otros modos de transporte no motorizados, como alternativas que fomenten la salud pública, la proximidad y la disminución de emisiones contaminantes;
+
+X. Multimodalidad. Ofrecer múltiples modos y servicios de transporte para todas las personas usuarias, los cuales deben articularse e integrarse entre sí y con la estructura urbana, para reducir la dependencia del vehículo particular motorizado;
+
+XI. Participación. Establecer mecanismos para que la sociedad se involucre activamente en cada etapa del ciclo de la política pública, en un esquema basado en la implementación de metodologías de co-creación enfocadas en resolver las necesidades de las personas;
+
+XII. Perspectiva de género. Visión científica, analítica y política que busca eliminar las causas de la desigualdad, la injusticia y la jerarquización de las personas basada en el género y que promueve la igualdad entre mujeres y hombres;
+
+XIII. Progresividad. Garantizar que el derecho a la movilidad y sus derechos relacionados, estén en constante evolución, promoviéndolos de manera progresiva y gradual e incrementando constantemente el grado de su tutela, respeto, protección y garantía;
+
+XIV. Resiliencia. Lograr que el sistema de movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación breve y de bajo costo, tanto para la sociedad como para el medio ambiente;
+
+XV. Seguridad. Se deberá proteger la vida y la integridad física de las personas en sus desplazamientos bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible;
+
+XVI. Seguridad vehicular. Aspecto de la seguridad vial enfocado en el desempeño de protección que brinda un vehículo de motor a las personas pasajeras y usuarias vulnerables, y demás usuarias de la vía, contra el riesgo de muerte o lesiones graves en caso de siniestro;
+
+XVII. Sostenibilidad. Satisfacer las necesidades de movilidad procurando los menores impactos negativos en el medio ambiente y la calidad de vida de las personas, garantizando un beneficio continuo para las generaciones actuales y futuras;
+
+XVIII. Transparencia y rendición de cuentas. Garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Sinaloa;
+
+XIX. Transversalidad. Instrumentar e integrar las políticas, programas y acciones en materia de movilidad y seguridad vial, desarrollados por las distintas dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, poniendo especial atención a los grupos en situación de vulnerabilidad; y
+
+XX. Uso prioritario de la vía o del servicio. Concientizar a personas usuarias de la vía y transporte público sobre la necesidad que tienen las personas con discapacidad, las personas con movilidad limitada y quien les acompaña, de usar en determinadas circunstancias, las vías de manera preferencial con el fin de garantizar su seguridad.
 
 ### CAPÍTULO III. DE LAS CAUSAS DE UTILIDAD PÚBLICA
 
@@ -303,15 +541,19 @@ VII. La creación, recuperación, mantenimiento y defensa del espacio público p
 
 VIII. La elaboración, ejecución, cumplimiento y actualización de los programas de movilidad a que se refiere la presente Ley.
 
-## TÍTULO SEGUNDO. DE LAS AUTORIDADES DE MOVILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES DE MOVILIDAD Y SEGURIDAD VIAL
 
 ### CAPÍTULO I. DE LAS AUTORIDADES Y SUS COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-La aplicación de esta Ley y su reglamento corresponde al Ejecutivo del Estado a través de la SGG, la SEDESU y la SAF, así como de las demás áreas administrativas que el Reglamento Orgánico de la Administración Pública determine, en su respectivo ámbito de competencia.
+La aplicación de esta Ley y su reglamento corresponde al Ejecutivo del Estado a través de la SGG, la SEBIDES y la SAF, así como de las demás áreas administrativas que el Reglamento Orgánico de la Administración Pública del Estado de Sinaloa determine, en su respectivo ámbito de competencia.
 
-La SEDESU contará con un Consejo con las facultades de opinión a que se refiere la presente Ley. Su estructura y operación quedaran establecidas en su reglamento interior.
+La SEBIDES contará con un Consejo con las facultades de opinión a que se refiere la presente Ley. Su estructura y operación quedaran establecidas en su Reglamento Interior.
 
 En el Consejo, deberán participar los titulares de las dependencias señaladas en el primer párrafo, quienes podrán apoyarse en expertos independientes; y en las sesiones en las que se deliberen temas relacionados con la movilidad y el transporte público deberán ser invitados a participar con voz pero sin voto, dos representantes de los transportistas designados por las organizaciones estatales del transporte de mayor representación debidamente acreditadas ante la SGG, y dos de organismos empresariales.
 
@@ -331,7 +573,9 @@ I. El Ejecutivo del Estado;
 
 II. La Secretaría General de Gobierno;
 
-III. La Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+III. La Secretaría de Bienestar y Desarrollo Sustentable;
 
 IV. La Secretaría de Administración y Finanzas;
 
@@ -339,19 +583,27 @@ V. Los Municipios; y
 
 VI. Las demás a las que esta Ley reconozca ese carácter, su Reglamento y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades competentes en el ámbito de sus atribuciones deberán garantizar que la movilidad esté al alcance de todas las personas en igualdad de condiciones, sin discriminación de género, edad, discapacidad o condición, a costos accesibles y con información clara y oportuna, priorizando a los grupos en situación de vulnerabilidad, tanto en zonas urbanas como rurales e insulares.
+
 #### Sección I. Del Ejecutivo Estatal
 
 ###### Artículo 14.
 
 Son facultades del Ejecutivo Estatal las siguientes:
 
-I. Formular y ejecutar las políticas estatales, así como realizar acciones, en materia de movilidad;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+I. Formular y ejecutar las políticas estatales, así como realizar acciones, en materia de movilidad y seguridad vial, de conformidad con el Sistema Nacional;
 
 II. Celebrar convenios y acuerdos de coordinación y concertación con la Federación, con los municipios y otros estados para la elaboración y la ejecución de programas de movilidad, así como para la ejecución de acciones, obras e inversiones en materia de movilidad, en los términos de la legislación aplicable;
 
-III. Aprobar el Programa Estatal y ordenar su publicación en el Periódico Oficial del Estado;
+III. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
-IV. Promover la movilidad sustentable en el marco del respeto de los derechos humanos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+IV. Promover la movilidad y seguridad vial en el marco del respeto de los derechos humanos;
 
 V. Ordenar por causa de interés público, la intervención del servicio de transporte público;
 
@@ -361,9 +613,13 @@ VII. Otorgar y revocar concesiones y permisos del servicio público del transpor
 
 VIII. Otorgar concesiones para la construcción, administración, operación y conservación de caminos y vialidades de cuota e instalaciones auxiliares, así como operar sistemas de transportación masiva de competencia local y declarar administrativamente su caducidad, cancelación, rescisión, o revocación y ejercer el derecho de revisión;
 
-IX. Incluir en el Plan Estatal de Desarrollo los objetivos, metas, estrategias y acciones en materia de movilidad en el Estado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-X. Establecer políticas y programas para la prevención de hechos de tránsito y el mejoramiento de la infraestructura para la movilidad;
+IX. Incluir en el Plan Estatal de Desarrollo los objetivos, metas, estrategias y acciones en materia de movilidad y seguridad vial en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+X. Instrumentar y articular, en concordancia con la política nacional, las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
 
 XI. Proponer las partidas necesarias en la iniciativa de Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal correspondiente para el cumplimiento del objeto y finalidades previstas en la presente Ley;
 
@@ -381,15 +637,113 @@ XVII. Promover y apoyar la realización de investigaciones científicas y tecnol
 
 XVIII. Evaluar los resultados de la operación de los servicios públicos de transporte y de las acciones de movilidad en que participen las dependencias y entidades de la Administración Pública Estatal;
 
-XIX. Autorizar las tarifas del servicio público de transporte de personas;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XIX. Establecer, con base en los estudios correspondientes, las tarifas del servicio público de transporte de pasajeros, así como los servicios auxiliares;
 
 XX. Convenir con el sector social y privado la realización de acciones e inversiones en el transporte para la movilidad sustentable del estado;
 
-XXI. Convenir con los municipios la transferencia de facultades del estado en materia movilidad, tránsito y transporte; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-XXII. Las demás que le confieran las Leyes y los Reglamentos aplicables.
+XXI. Convenir con los municipios la transferencia de facultades del estado en materia de movilidad, tránsito y transporte;
 
-Las facultades que esta Ley otorga al Ejecutivo Estatal, serán ejercidas a través de la SGG, SAF y la SEDESU, en el respectivo ámbito de sus competencias, excepto aquellas que por disposición constitucional o legal le corresponda ejercer directamente.
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXII. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore al Sistema de Información Territorial y Urbano a los que se refiere esta Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Realizar los operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Sistema Nacional;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIV. Instrumentar y articular, en concordancia con la política nacional, las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXV. Fortalecer el transporte público de pasajeros, individual y colectivo, para la inclusión de los grupos en situación de vulnerabilidad, destinándoles lugares exclusivos;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXVI. Establecer medidas de accesibilidad, inclusión y condiciones de diseño universal para las personas con discapacidad y con movilidad limitada, así como otros grupos en situación de vulnerabilidad, dentro de los servicios de transporte público de pasajeros individual y colectivo, para garantizar su desplazamiento seguro en las vías;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXVII. Formar parte del Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 7 de la Ley General;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXVIII. Gestionar la seguridad vial y la movilidad urbana, interurbana, rural e insular, en el ámbito de su competencia, con base en lo establecido en la Ley General y demás disposiciones legales en la materia;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIX. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXX. Participar con las autoridades federales, de los municipios en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los Convenios de Coordinación Metropolitanos;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXI. Desarrollar estrategias, programas y proyectos para la movilidad y la seguridad vial, con prioridad en el uso del transporte público y los modos no motorizados;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXII. Asignar, gestionar y administrar recursos públicos, en coordinación con los municipios para implementar acciones y proyectos en materia de movilidad y seguridad vial, infraestructura, servicios auxiliares y transporte;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXIII. Establecer la reglamentación para los estudios de impacto de movilidad y seguridad vial con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXIV. Impulsar la consolidación de los sistemas de movilidad en los centros de población;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXV. Otorgar licencias y permisos para conducir, en las modalidades de su competencia, para el transporte de pasajeros, de carga y de uso particular, así como el registro para que los vehículos circulen conforme a las leyes y reglamentos correspondientes bajo los criterios de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXVI. Establecer los acuerdos y medidas necesarias para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público, mercantil y privado de transporte de pasajeros y de carga, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXVII. Incentivar la circulación de vehículos eficientes ambientalmente, establecer el marco normativo y programas correspondientes para su adecuada operación; así como la implementación de su infraestructura vial y equipamiento necesario, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXVIII. Expedir las normas y lineamientos que deberán cumplir los vehículos motorizados que cuenten con registro, en materia de protección al medio ambiente;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXIX. Armonizar los reglamentos de tránsito aplicables, con lo establecido en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XL. Diseñar e implementar, de manera conjunta con las entidades federativas colindantes, mecanismos de coordinación para el cobro de infracciones de tránsito;
+
+(REUBICADA, P.O. 6 DE NOVIEMBRE DE 2024)
+
+XLI. Las demás que le confieran las Leyes y los Reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Las facultades que esta Ley otorga al Ejecutivo Estatal, serán ejercidas a través de la SGG, SAF y la SEBIDES, en el respectivo ámbito de sus competencias, excepto aquellas que por disposición constitucional o legal le corresponda ejercer directamente.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+El Ejecutivo del Estado, a través de la Secretaría de Salud realizará lo siguiente:
+
+I. Elaborar guías de práctica clínica y protocolos que permitan mejorar la calidad de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
+
+II. Elaborar e implementar los programas de capacitación para el personal de salud responsable de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
+
+III. Realizar campañas, en coordinación con el Sistema Nacional, en materia de prevención de siniestros de tránsito, así como evitar manejar bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente;
+
+IV. Celebrar convenios de cooperación y coordinación en la materia; y
+
+V. Capacitar a quienes realicen las auditorías de seguridad vial y estudios de mejoramiento de sitios con elevada incidencia de siniestros de tránsito, en materias de su competencia.
 
 #### Sección II. De la Secretaría General de Gobierno
 
@@ -403,7 +757,9 @@ II. Participar en elaborar y mantener actualizado el régimen jurídico que regu
 
 III. Tramitar y resolver los recursos administrativos de su competencia;
 
-IV. Emitir la Convocatoria Pública, derivada de la Declaratoria de Necesidad para el otorgamiento de permisos del servicio público de carga, previa opinión del Consejo, que haya elaborado la SEDESU, así como para autorizar los permisos de servicio público de trasporte;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+IV. Emitir la Convocatoria Pública, derivada de la Declaratoria de Necesidad para el otorgamiento de permisos del servicio público de carga, previa opinión del Consejo, que haya elaborado la SEBIDES, así como para autorizar los permisos de servicio público de transporte;
 
 V. Vigilar que los servicios de transporte público, en tanto componentes básicos de la Movilidad Sustentable, se presten con apego a esta Ley y demás disposiciones legales y administrativas aplicables, incluidas la inspección de vehículos e instalaciones destinadas a los servicios de transporte y el cumplimiento de las condiciones establecidas en las concesiones o permisos;
 
@@ -431,25 +787,53 @@ XVI. Representar al Ejecutivo del Estado y a la propia dependencia en toda clase
 
 XVII. Calificar las infracciones e imponer las sanciones que correspondan a quienes infrinjan las disposiciones de esta Ley y las normas administrativas que de ella deriven;
 
-XVIII. Coadyuvar con las autoridades competentes, en la investigación, enjuiciamiento e imposición de las sanciones penales por los delitos cometidos por los propietarios, operadores y usuarios de los vehículos del sistema, así como de los concesionarios y proveedores de los servicios; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-XIX. Expedir los permisos eventuales para la prestación del servicio público de transporte, previsto en la presente Ley, y su reglamento.
+XVIII. Coadyuvar con las autoridades competentes, en la investigación, enjuiciamiento e imposición de las sanciones penales por los delitos cometidos por los propietarios, operadores y usuarios de los vehículos del sistema, así como de los concesionarios y proveedores de los servicios;
 
-#### Sección III. De la Secretaría de Desarrollo Sustentable
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XIX. Expedir los permisos eventuales para la prestación del servicio público de transporte, previsto en la presente Ley, y su reglamento;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XX. Planear el establecimiento o reestructuración de rutas del servicio de transporte público colectivo en coordinación con los Ayuntamientos a través de la instancia de planeación en la materia conforme a los instrumentos de planeación correspondiente;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXI. Realizar los estudios socioeconómicos y técnicos para determinar la viabilidad de otorgar o no, las concesiones o permisos del servicio público de transporte y emitir el dictamen vinculatorio correspondiente;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXII. Realizar la supervisión, vigilancia y control del servicio de transporte público de personas y de carga en el Estado;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Elaborar, para su expedición, las normas técnicas, reglas, manuales de especificaciones y de operación de los servicios de transporte público, procurando su optimización; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIV. Elaborar los programas de capacitación a conductores y prestadores de los servicios de transporte.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+#### Sección III. De la Secretaría de Bienestar y Desarrollo Sustentable
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-La SEDESU, a través de su titular, tiene las siguientes atribuciones:
+La SEBIDES, a través de su titular, tiene las siguientes atribuciones:
 
-I. Elaborar y proponer para su aprobación por el Ejecutivo del Estado, el Programa Estatal;
+I. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
-II. Diseñar, planear, ejecutar, vigilar y evaluar los instrumentos y acciones establecidas en el Programa Estatal;
+II. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
 III. Celebrar Convenios de Coordinación con los órdenes de Gobierno Federal y Municipal y, de Concertación con los Sectores Social y Privado, relativos a la prestación de los servicios de transporte público, así como para la mejora de la infraestructura vial;
 
-IV. Planear el establecimiento o reestructuración de rutas del servicio de transporte público colectivo en coordinación con los Ayuntamientos a través de la instancia de planeación en la materia conforme a los instrumentos de planeación correspondiente;
+IV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
-V. Realizar los estudios socioeconómicos y técnicos para determinar la viabilidad de otorgar o no, las concesiones o permisos del servicio público de transporte y emitir el dictamen vinculatorio correspondiente;
+V. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
 VI. Administrar el Sistemas de Bicicleta Pública en el estado.
 
@@ -463,19 +847,19 @@ X. Proveer lo necesario para el funcionamiento administrativo y operativo del Co
 
 XI. Establecer, integrar, organizar y mantener actualizado el Registro de Movilidad en coordinación con la SAF, de acuerdo a lo que establece la presente Ley;
 
-XII. Realizar la supervisión, vigilancia y control del servicio de transporte público de personas y de carga en el Estado;
+XII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
 XIII. Promover, en coordinación con las autoridades competentes y en los lugares que se requiera, un sistema de verificación vehicular obligatoria que podrá concesionarse, como medida de control y emisión de gases contaminantes;
 
 XIV. Promover e impulsar los programas tendientes a la profesionalización de los agentes de tránsito y, en su caso, coadyuvar con las instituciones autorizadas para ello;
 
-XV. Elaborar, para su expedición, las normas técnicas, reglas, manuales de especificaciones y de operación de los servicios de transporte público, procurando su optimización;
+XV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
 XVI. Apoyar técnicamente a los concesionarios y permisionarios del servicio de transporte público colectivo, en la planeación e implementación de sus estrategias de mejora continua e innovación de sus servicios;
 
 XVII. Elaborar los estudios a solicitud de la SGG sobre las tarifas del Servicio Público de Transporte;
 
-XVIII. Elaborar los programas de capacitación a conductores y prestadores de los servicios de transporte;
+XVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
 XIX. Coadyuvar, a solicitud de las Dependencias Federales, Estatales y Municipales, en la elaboración de planes, programas y estudios en materia de tránsito, vialidades, desarrollo urbano y medio ambiente en el Estado de Sinaloa;
 
@@ -503,9 +887,11 @@ XXX. Tramitar y resolver los recursos administrativos de su competencia;
 
 XXXI. Desarrollar campañas de difusión estatal para detectar y prevenir violencia contra las mujeres y niñas en el uso del servicio del transporte público y de la vía pública;
 
-XXXII. Formular, en coordinación con los Municipios el Programa Estatal;
+XXXII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
-XXXIII. Diseñar, ejecutar y evaluar las (sic) política pública de Movilidad Sustentable;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXIII. Ejecutar y evaluar la política pública de Movilidad y Seguridad Vial;
 
 XXXIV. Establecer convenios de coordinación a que hubiera lugar con las Autoridades Federales, con otras Entidades y con los Ayuntamientos de los Municipios del Estado, para acordar acciones conjuntas que favorezcan los procesos de movilidad; y
 
@@ -519,7 +905,9 @@ Corresponde a la SAF a través de su titular, las siguientes atribuciones:
 
 I. Coordinar la operación, formulación y vigilancia de los fondos y fideicomisos creados en materia de movilidad, de conformidad con la normatividad aplicable;
 
-II. Proponer al Gobernador del Estado, en coordinación con la SGG y la SEDESU, los planes de financiamiento público de la movilidad, de acuerdo con los instrumentos de planeación en la materia, garantizando la disciplina fiscal y la aplicación del gasto a los proyectos prioritarios;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+II. Proponer al Gobernador del Estado, en coordinación con la SGG y la SEBIDES, los planes de financiamiento público de la movilidad, de acuerdo con los instrumentos de planeación en la materia, garantizando la disciplina fiscal y la aplicación del gasto a los proyectos prioritarios;
 
 III. Recaudar los diversos conceptos tributarios que deberán cubrir las personas en materia de servicios de movilidad y transporte a que se refiere la presente Ley, con excepción de aquellos que se deriven de las atribuciones que la misma señale como competencia de los municipios; y
 
@@ -527,47 +915,61 @@ IV. Las demás que le atribuyan la presente Ley y demás normatividad aplicable.
 
 #### Sección V. De los Municipios
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
 Corresponde a los Municipios, de conformidad con el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General en el ámbito de sus respectivas jurisdicciones, las siguientes facultades:
 
-I. Participar en la elaboración, ejecución, seguimiento y evaluación del Programa Estatal, en los términos de la presente Ley;
+I. Participar en el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad los lineamientos que establezca el Sistema Nacional;
 
-II. Formular, conducir y evaluar la política municipal en materia de movilidad sustentable, en concordancia con la política estatal y nacional;
+II. Formular, aprobar, administrar y ejecutar los programas municipales en materia de movilidad y seguridad vial, conforme a lo establecido en el Plan Estatal de Desarrollo, y los Convenios de Coordinación; así como conducir, evaluar y vigilar la política conforme a lo establecido por esta Ley, sus principios y jerarquía de la movilidad;
 
-III. Formular, aprobar y administrar el Programa Sectorial, en congruencia y vinculación con otros niveles de planeación, así como evaluar y vigilar su cumplimiento de conformidad con lo establecido en la presente Ley;
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
 
-IV. Implementar los instrumentos y mecanismos de diagnóstico, información, seguimiento y evaluación de las políticas y programas de movilidad en coordinación con el Ejecutivo Estatal para la movilidad a través de la SEDESU;
+IV. Participar con las autoridades federales, estatales y de otros municipios en la planeación, regulación, instrumentación e implementación de los Convenios de Coordinación;
 
-V. Promover y priorizar en la población a través de los programas la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de hechos de tránsito encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito y desestimular el uso del automóvil particular, en el ámbito de su competencia;
+V. Constituir las instancias locales y de coordinación para la implementación de acciones integrales, acciones afirmativas transversales en materia de movilidad, en apego a esta Ley y demás disposiciones legales;
 
-VI. Generar la infraestructura para el uso intensivo del transporte público y no motorizado; así como fomentar y difundir el reconocimiento y respeto de la jerarquización de la movilidad que prevé la Ley General y la presente Ley, acorde con los programas y campañas establecidas por el Estado; en el ámbito de su respectiva competencia;
+VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, y municipios para la implementación de acciones específicas, obras e inversiones en la materia, así como aquellas que prioricen la movilidad de los grupos en situación de vulnerabilidad;
 
-VII. Coordinar con la SEDESU en el cumplimiento a las disposiciones de esta Ley;
+VII. Facilitar y participar en los sistemas de movilidad del Estado, en los términos que establece la Ley General, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen;
 
-VIII. Participar en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquéllos ocurran en su ámbito territorial;
+VIII. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados;
 
-IX. Celebrar con la Federación, el Estado y otros municipios o con los particulares, convenios y acuerdos de coordinación y concertación que apoyen los objetivos previstos en el Programa Sectorial;
+IX. Promover que las vialidades existentes y los nuevos desarrollos urbanos cuenten con Sistema de Ciclovías, accesibilidad universal, estacionamiento para bicicletas, a fin de promover el uso de transporte no contaminante y no motorizado de acuerdo a la jerarquía vial; sin perjuicio de las acciones que deban ejecutarse en coordinación con el Estado y con otros municipios;
 
-X. Promover que las vialidades existentes y los nuevos desarrollos urbanos cuenten con Sistema de Ciclovías, accesibilidad universal, estacionamiento para bicicletas, a fin de promover el uso de transporte no contaminante y no motorizado de acuerdo a la jerarquía vial; sin perjuicio de las acciones que deban ejecutarse en coordinación con el Estado y con otros municipios;
+X. Participar en la integración y mantenimiento del Registro de Movilidad previsto en esta Ley;
 
-XI. Participar en la integración y mantenimiento del Registro de Movilidad previsto en esta Ley;
+XI. Asignar, gestionar y administrar recursos para apoyar e implementar acciones y proyectos en materia de movilidad, su infraestructura, servicios auxiliares, operación y capacitación de las personas operadoras, transporte y seguridad vial, promoviendo una mejor utilización de las vías conforme a la jerarquía de la movilidad;
 
-XII. Expedir los Reglamentos necesarios para la afectiva organización y funcionamiento de la corporación de tránsito a su cargo;
+XII. Establecer los mecanismos necesarios para mejorar la seguridad vial, de conformidad con la jerarquía de la movilidad y sus necesidades;
 
-XIII. Podrán crear áreas administrativas con personal técnico en estudios y proyectos de ingeniería de tránsito, que cuenten con un ingeniero en esta especialidad o profesión afín, a efecto de que elaboren los estudios y proyectos referidos que requiere el servicio de movilidad y tránsito dentro de su jurisdicción y competencia;
+XIII. Realizar estudios para el diseño, modificación y adecuación de las vías en los centros de población, de conformidad con lo establecido en la Ley General y las necesidades territoriales;
 
-XIV. Mantener la disciplina y la moralidad en el personal destinado a la vigilancia del tránsito;
+XIV. Implementar dispositivos para el control del tránsito que deban ser utilizados en los centros de población de su competencia;
 
-XV. Cumplir y hacer cumplir la presente Ley y su Reglamento, así como los decretos, acuerdos, normas y demás disposiciones emitidas sobre la materia, pudiendo solicitar para estos efectos la colaboración de otras autoridades en los términos de su respectiva competencia;
+XV. Establecer la categoría, sentidos de circulación, señalética y demás características de las vías en su territorio;
 
-XVI. Mantener coordinación con la SEDESU y demás autoridades competentes para el cuidado y protección del ambiente, en la promoción de los Centros de Verificación Vehicular que se instalen en el municipio.
+XVI. Expedir las autorizaciones, licencias o permisos para la realización de obras de infraestructura para la movilidad, con estricto apego a las normas jurídicas locales, planes o programas;
 
-XVII. Ordenar y regular el tránsito de peatones y de vehículos, conforme a las providencias previstas en esta Ley, en las disposiciones reglamentarias que de ella se deriven y en el convenio de coordinación suscrito con el Gobierno del Estado, en materia de vialidad y tránsito;
+XVII. Realizar estudios de impacto de movilidad en el ámbito de su competencia, incluyendo criterios de sustentabilidad, perspectiva de género, entre otros que se consideren relevantes;
 
-XVIII. Planear, promover y ejecutar campañas de difusión de las disposiciones contenidas en esta Ley; y
+XVIII. Autorizar las áreas de transferencia para el transporte en su territorio;
 
-XIX. Las demás que le atribuyan la presente Ley y demás normatividad aplicable.
+XIX. Regular el servicio del estacionamiento en vía pública;
+
+XX. Impulsar la accesibilidad e inclusión de personas con discapacidad y personas con movilidad limitada a los servicios públicos de transporte de pasajeros, así como su desplazamiento seguro y efectivo en las vías a través de infraestructura adecuada;
+
+XXI. Mantener, en el ámbito de sus atribuciones, las vías libres de obstáculos y elementos que impidan, dificulten, generen un riesgo u obstaculicen el tránsito peatonal y vehicular, excepto en aquellos casos debidamente autorizados y respetando la jerarquía de la movilidad;
+
+XXII. Instrumentar programas y campañas de cultura de la movilidad, que fomenten la prevención de los siniestros de tránsito;
+
+XXIII. Implementar programas especiales de seguridad vial en los entornos escolares y puntos de alta afluencia de personas;
+
+XXIV. Prever en su legislación aplicable, que los desarrollos inmobiliarios cuenten con el criterio de calle completa; y
+
+XXV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO II. DE LA COLABORACIÓN ENTRE AUTORIDADES
 
@@ -583,9 +985,11 @@ En las acciones en materia de movilidad, infraestructura vial, transporte y trá
 
 Las autoridades estatales y municipales en materia de movilidad, de conformidad con lo que dispongan las leyes aplicables, coadyuvarán con las autoridades de seguridad pública y los órganos de procuración y de administración de justicia en el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 22.
 
-El Estado y los municipios podrán suscribir convenios de colaboración y coordinación en materia de movilidad y prestación del servicio de vialidad y tránsito.
+Las autoridades estatales y municipales en materia de movilidad podrán suscribir convenios de colaboración y coordinación en materia de movilidad y seguridad vial con las autoridades federales, locales, universidades, institutos de investigación, así como con organismos de la sociedad civil.
 
 ## TÍTULO TERCERO. DE LA MOVILIDAD
 
@@ -595,7 +999,9 @@ El Estado y los municipios podrán suscribir convenios de colaboración y coordi
 
 Las autoridades estatales y de los municipios, en el ámbito de su competencia, fomentarán la movilidad institucional en el sector público, privado y social, de conformidad a la presente Ley para orientar a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminado a dichos fines.
 
-### CAPÍTULO II. DEL FINANCIAMIENTO Y DEL FONDO DE LA MOVILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DEL FINANCIAMIENTO Y DEL FONDO DE LA MOVILIDAD Y SEGURIDAD VIAL
 
 #### Sección I. Del Financiamiento de la Movilidad
 
@@ -609,11 +1015,33 @@ Los mecanismos de financiamiento para transitar a la movilidad sustentable del E
 
 Los proyectos y acciones en materia de transporte y movilidad que realicen el Estado y los Municipios, con cargo a los recursos federales de fondos y aportaciones, bajo la normatividad vigente para los fondos públicos, deberán guardar la debida congruencia con el Plan Estatal de Desarrollo, y los Programas de Ordenamiento Territorial y Desarrollo Urbano.
 
-#### Sección II. Del Fondo Estatal para la Movilidad
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Serán instrumentos de financiamiento público los programas, acciones y proyectos de inversión relacionados con la movilidad y la seguridad vial que desarrollen las autoridades competentes, y se enfocarán prioritariamente en lo siguiente:
+
+I. Implementar mejoras a la infraestructura para la movilidad no motorizada y peatonal, así como efectuar acciones para la integración y fortalecimiento del servicio de transporte público, con el fin de promover su uso y cumplir con el objeto de esta Ley;
+
+II. La mejora de la infraestructura para la movilidad, servicios auxiliares y el transporte que promuevan el diseño universal y la seguridad vial;
+
+III. Desarrollar políticas para reducir siniestros de tránsito, así como proyectos estratégicos de infraestructura para la movilidad y seguridad vial, priorizando aquellos enfocados en proteger la vida e integridad de las personas usuarias de las vías, donde se considere los factores de riesgo;
+
+IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al fortalecimiento y a mejorar las condiciones del transporte público, su integración con el territorio, así como la distribución eficiente de bienes y mercancías;
+
+V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos;
+
+VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial; y
+
+VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos conforme a la jerarquía de la movilidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+#### Sección II. Del Fondo Estatal para la Movilidad Sustentable y Seguridad Vial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 26.
 
-El Fondo Estatal para la Movilidad Sustentable, será de carácter público-privado y tendrá por objeto captar, administrar y aportar recursos que contribuyan a mejorar las condiciones de la infraestructura, seguridad vial y acciones de cultura en materia de movilidad. Su naturaleza e integración se determinarán en el Decreto de su creación.
+El Fondo Estatal para la Movilidad Sustentable y Seguridad Vial, será de carácter público-privado y tendrá por objeto captar, administrar y aportar recursos que contribuyan a mejorar las condiciones de la infraestructura, seguridad vial y acciones de cultura en materia de movilidad. Su naturaleza e integración se determinarán en el Decreto de su creación.
 
 Los recursos del Fondo estarán integrados por:
 
@@ -671,7 +1099,9 @@ Al Consejo Municipal de Ordenamiento Territorial, Desarrollo Urbano y Vivienda, 
 
 El Estado y los municipios promoverán la investigación de los temas relacionados a la movilidad sustentable dentro del Observatorio Ciudadano establecido en la Ley de Ordenamiento.
 
-El Observatorio, con base en las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil, el gobierno del Estado, los municipios y todas las dependencias que aporten información en la materia de movilidad para su estudio, análisis, organización y difusión de información y conocimientos sobre las acciones relativas a la movilidad sobre territorio y las ciudades.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+El Observatorio, con base en las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil, el Gobierno del Estado, los municipios y todas las dependencias que aporten información en la materia de movilidad para el estudio, investigación y propuestas; evaluación de las políticas públicas, programas y acciones; capacitación a la comunidad; difusión de información y conocimientos sobre la problemática de la movilidad, la seguridad vial, la accesibilidad, la eficiencia, la sostenibilidad, la calidad y la inclusión e igualdad y sus implicaciones en el ordenamiento territorial, y en general sobre la aplicación de la presente Ley.
 
 ###### Artículo 32.
 
@@ -682,6 +1112,16 @@ El Observatorio Ciudadano será responsable de analizar la evolución de los fen
 La ciudadanía podrá participar en el diseño de las políticas públicas en la materia, para tales efectos las autoridades competentes organizarán foros de consulta y evaluaciones del desempeño, a partir de los cuales se determinen las áreas que son prioritarias para su atención o mejora, de acuerdo con los intereses específicos de la población.
 
 Así también, los particulares y las asociaciones de profesionistas, organizaciones civiles o grupos interesados, en cualquier tiempo, a través del Observatorio Ciudadano podrán presentar proyectos de mejora o propuestas en materia de movilidad para ser consideradas por las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 33 Bis.
+
+Las autoridades estatales y municipales, deberán proporcionar al Observatorio Ciudadano la información sobre el proceso de reglamentación de la movilidad, del transporte y del tránsito, los planes de desarrollo urbano, de ordenamiento territorial, los actos administrativos y autorizaciones de uso de suelo, así como las bases de datos que forman la plataforma de información correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 33 Bis A. El Observatorio Ciudadano podrá llevar a cabo, de manera conjunta con los institutos municipales de planeación, procesos de consulta y deliberación sobre temas de movilidad y seguridad vial.
 
 #### Sección IV. De los Organismos del Estado y Municipio
 
@@ -733,53 +1173,175 @@ La Comisión, tendrá como propósito establecer los mecanismos y acciones para 
 
 La integración y funciones de la Comisión a que alude el presente artículo, estarán establecidas en el reglamento que se derive de la presente Ley.
 
-## TÍTULO QUINTO. DE LA PLANEACIÓN Y LA POLÍTICA DE LA MOVILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+## TÍTULO QUINTO. DE LA PLANEACIÓN Y LA POLÍTICA DE LA MOVILIDAD Y SEGURIDAD VIAL
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-La planeación, las políticas y programas para la movilidad sustentable serán parte del proceso de planeación de los asentamientos humanos, se inscribirán dentro del Sistema Estatal de Movilidad y deberán ser congruente con el Sistema Nacional de Planeación Democrática, con el Sistema Estatal de Planeación del Ordenamiento Territorial y Desarrollo Urbano, y demás instrumentos de planeación previstos en la Ley de Ordenamiento.
+La política estatal de movilidad y seguridad vial se diseñará con un enfoque sistémico y ejecutará con base en los principios establecidos en la Ley General y en esta Ley, los que para tal efecto emita el Sistema Nacional, así como a través de los mecanismos de coordinación, información y participación correspondientes, con el objetivo de garantizar el derecho a la movilidad con las condiciones establecidas por la Constitución Política de los Estados Unidos Mexicanos.
 
-Se observarán las bases generales para planear, regular y gestionar la movilidad sustentable de las personas y del transporte de bienes definidos en los programas de ordenamiento territorial y desarrollo urbano de conformidad al artículo 262 y los criterios del artículo 264, ambos de la Ley de Ordenamiento.
+La planeación, las políticas y programas para la movilidad y seguridad vial serán parte del proceso de planeación de los asentamientos humanos, se inscribirán dentro del Sistema Estatal de Movilidad y deberán ser congruente con el Sistema Nacional de Movilidad y Seguridad Vial, con el Sistema Estatal de Planeación del Ordenamiento Territorial y Desarrollo Urbano, y demás instrumentos de planeación previstos en la Ley de Ordenamiento. Se observarán las bases generales para planear, regular y gestionar la movilidad de las personas y del transporte de bienes definidos en los programas de ordenamiento territorial y desarrollo urbano de conformidad al artículo 262 y los criterios del artículo 264, ambos de la Ley de Ordenamiento.
+
+Deberán contener las previsiones necesarias para garantizar, al menos, lo siguiente:
+
+I. Que los servicios de transporte prevean vehículos y entornos con diseño universal y en su caso, con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad limitada, con las acciones afirmativas y los ajustes razonables que se requieran para ello;
+
+II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad limitada se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, entre otras;
+
+III. Que se contribuya a la accesibilidad de las personas con discapacidad y movilidad limitada, aportando especificaciones de diseño universal que permitan construir un entorno incluyente; y
+
+IV. Que las modalidades de transporte en las zonas remotas y de difícil acceso, así como en los territorios insulares contemplen las rutas y los servicios más seguros, incluyentes, accesibles y asequibles para las personas.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 42.
 
-La planeación de la movilidad deberá fijar objetivos, metas, estrategias y prioridades, así como criterios basados en información certera y estudios de factibilidad, con la posibilidad de reevaluar metas y objetivos acorde con las necesidades del Estado, sin perjuicio de la visión de largo plazo de su contenido.
+La planeación de la movilidad y de la seguridad vial integrará los principios y jerarquía de la movilidad establecidos en esta Ley, observando las siguientes acciones:
+
+I. Adoptar medidas para garantizar la protección de la vida, salud y de la integridad física de todas las personas usuarias de la vía;
+
+II. Adoptar las medidas necesarias para prevenir todo tipo de violencia que atente contra la dignidad e integridad de las personas que pertenecen a los grupos en situación de vulnerabilidad;
+
+III. Impulsar programas y proyectos de movilidad con políticas de proximidad que faciliten la accesibilidad entre la vivienda, el trabajo y servicios educativos, de salud, culturales y complementarios, a fin de reducir las externalidades negativas del transporte urbano;
+
+IV. Establecer medidas que incentiven el uso del transporte público, vehículos no motorizados, vehículos no contaminantes y otros modos de movilidad de alta eficiencia energética, cuando el entorno lo permita y bajo un enfoque sistémico;
+
+V. Establecer medidas que fomenten una movilidad sustentable y que satisfagan las necesidades de desplazamiento de la población;
+
+VI. Priorizar la planeación de los sistemas de transporte público, de la estructura vial y de la movilidad no motorizada y tracción humana;
+
+VII. Establecer acciones afirmativas y ajustes razonables en materia de accesibilidad y diseño universal, en los sistemas de movilidad y en la estructura vial, con especial atención a los requerimientos de personas con discapacidad y movilidad limitada, y otros grupos en situación de vulnerabilidad que así lo requieran;
+
+VIII. Promover la capacitación de las personas que operan los servicios de transporte público y servicios de emergencia en Lengua de Señas Mexicana;
+
+IX. Promover acciones para hacer más eficiente la distribución de bienes y mercancías, con objeto de aumentar la productividad en los centros de población y minimizar los impactos negativos de los vehículos de carga en los sistemas de movilidad;
+
+X. Promover acciones que contribuyan a mejorar la calidad del medio ambiente, a través de la reducción de la contaminación del aire, las emisiones de gases de efecto invernadero, el consumo de energía y el ruido, derivados del impacto de la movilidad;
+
+XI. Promover la participación ciudadana en la toma de decisiones en materia de movilidad dentro de los procesos de planeación;
+
+XII. Incrementar la resiliencia del sistema de movilidad y seguridad vial fomentando diversas opciones de transporte;
+
+XIII. Definir estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en los sistemas de movilidad conforme a sus necesidades en un marco de seguridad;
+
+XIV. Establecer medidas para el uso de una metodología basada en la perspectiva de género, que garantice el diseño de soluciones a través de acciones afirmativas, prioritariamente con el objetivo de erradicar las violencias de género al hacer uso de la vía. Lo anterior debe tomar en consideración la interseccionalidad de las mujeres, y los principios de equidad y transversalidad;
+
+XV. Establecer mecanismos y acciones de coordinación administrativa y de concertación entre los sectores público, privado y social en materia de movilidad y seguridad vial;
+
+XVI. Garantizar que los factores como la velocidad y la circulación cercana a vehículos motorizados no pongan en riesgo a personas peatonas y usuarias de vehículos motorizados y de tracción humana, en particular a la niñez, personas adultas mayores, con discapacidad o con movilidad limitada y grupos en situación de vulnerabilidad;
+
+XVII. Promover el fortalecimiento del transporte público de pasajeros individual y colectivo para asegurar la accesibilidad igualitaria e incluyente de las personas usuarias de la vía y hacer uso de las tecnologías de la información y comunicación disponibles;
+
+XVIII. Considerar el vínculo de la movilidad con los planes o programas de desarrollo urbano, para lo cual deberán tomar en cuenta los lineamientos y estrategias contenidas en los programas de ordenamiento ecológico del territorio y protección al medio ambiente, conforme a las disposiciones jurídicas ambientales aplicables;
+
+XIX. Los planes o programas de desarrollo urbano deberán considerar las Normas Oficiales Mexicanas emitidas en materia de movilidad y transporte; y
+
+XX. Implementar estrategias de movilidad urbana, interurbana y rural sostenible a mediano y largo plazo privilegiando el establecimiento de transporte colectivo, de movilidad no motorizada y de tracción humana y otros medios de alta eficiencia energética y ambiental.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 43.
 
-Las autoridades estatales y municipales en el ámbito de su competencia, proporcionarán los medios necesarios para que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes y servicios y oportunidades que ofrecen sus Centros de Población.
+En la planeación y diseño de la movilidad y la seguridad vial, así como en los diferentes componentes de los sistemas de movilidad y en la toma de decisiones, las autoridades competentes deberán fomentar y garantizar la participación de las mujeres, considerando su interseccionalidad, además de:
 
-Para el establecimiento de la política pública y programas en la materia, se otorgará prioridad en la utilización de la vía pública y se valorará la distribución preferente de recursos presupuestales de acuerdo al siguiente orden y jerarquía de movilidad:
+I. Implementar acciones y mecanismos dentro de los sistemas de movilidad y seguridad vial, así como de las autoridades responsables del territorio, para fortalecer la información disponible y los diagnósticos, que promuevan la implementación de acciones afirmativas y con perspectiva de género que mejoren y hagan más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres y de la movilidad de cuidado;
 
-I. Personas con movilidad limitada;
+II. Incluir en las estrategias e instrumentos de movilidad y seguridad vial, en los tres órdenes de gobierno, acciones afirmativas y con perspectiva de género para prevenir y erradicar las violencias de género. Dichas acciones serán implementadas bajo el principio de transversalidad con las autoridades competentes en los ámbitos de seguridad ciudadana, derechos humanos, entre otras. Esto también incluirá la capacitación en la materia y sensibilización de género de las personas responsables de diseñar, operar y evaluar los sistemas de movilidad; y
 
-II. Peatones;
+III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y demás legislación en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por el Instituto Nacional de las Mujeres, la Comisión Nacional de los Derechos Humanos, y demás dependencias estatales y municipales relevantes, así como de la sociedad civil y organismos internacionales.
 
-III. Usuarios de transporte no motorizado;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-IV. Usuarios del servicio de transporte público de pasajeros;
+## TÍTULO SEXTO. DEL SISTEMA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
 
-V. Prestadores del servicio de transporte público de pasajeros;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-VI. Prestadores del servicio del transporte de carga;
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
 
-VII. Motociclistas; y
-
-VIII. Usuarios de transporte particulares motorizados.
-
-## TÍTULO SEXTO. DEL SISTEMA ESTATAL DE MOVILIDAD
-
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE MOVILIDAD
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 44.
 
-El Sistema Estatal de Movilidad se integra por las instancias, instrumentos, políticas, servicios y acciones previstas en la Ley de Ordenamiento, su Reglamento y en la presente Ley, tendientes a cumplir con los objetivos y fines de planear, regular y fomentar la movilidad de las personas, gestionar el desarrollo del transporte de personas y bienes considerando las necesidades actuales y futuras para su desplazamiento.
+El Sistema Estatal de Movilidad y Seguridad Vial es el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial del Gobierno del Estado y de los Municipios, así como con los sectores de la sociedad en la materia, a fin de cumplir con el objeto, los objetivos y principios de esta Ley, la Política Estatal, el Plan Estatal de Desarrollo, la Estrategia Estatal y los instrumentos de planeación específicos para garantizar la movilidad y seguridad vial.
+
+El Sistema Estatal de Movilidad y Seguridad Vial estará integrado por las personas titulares o representantes legales de:
+
+I. La Secretaría General de Gobierno;
+
+II. La Secretaría de Bienestar y Desarrollo Sustentable;
+
+III. La Secretaría de Salud;
+
+IV. La Secretaría de Administración y Fianzas;
+
+V. La Secretaría de Obras Públicas;
+
+VI. La Secretaría de Seguridad Pública;
+
+VII. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+
+VIII. Los Municipios que conforman el Estado de Sinaloa.
+
+La presidencia del Sistema Estatal será ejercida de manera rotativa, de forma anual, entre la Secretaría General de Gobierno y la Secretaría de Bienestar y Desarrollo Sustentable.
+
+La integración, organización y funcionamiento del Sistema Estatal se establecerá en el Reglamento de la presente Ley.
+
+El Sistema Estatal de Movilidad y Seguridad Vial, tendrá las siguientes facultades:
+
+I. Emitir los lineamientos para su organización y operación;
+
+II. Establecer la instancia que fungirá como órgano técnico de apoyo para el seguimiento de los acuerdos y resoluciones que se emitan;
+
+III. Emitir acuerdos y resoluciones generales para el funcionamiento del Sistema Estatal de Movilidad y Seguridad Vial;
+
+IV. Establecer las bases de planeación, operación, funcionamiento y evaluación de las políticas en materia de movilidad y seguridad vial;
+
+V. Establecer de manera transversal los mecanismos y criterios de la vinculación de la movilidad y la seguridad vial como fenómenos multifactoriales y multidisciplinarios con el transporte, la accesibilidad, tránsito, ordenamiento territorial, desarrollo urbano, medio ambiente, cambio climático, desarrollo sostenible y espacio público, así como el ejercicio de los derechos sociales relacionados con accesibilidad, que deberán ser observados para la coordinación entre las autoridades de los tres órdenes de gobierno;
+
+VI. Diseñar y aprobar la política estatal en materia de movilidad y seguridad vial, la cual retomará las opiniones de los grupos de la sociedad civil, de los pueblos y comunidades indígenas y organizaciones de personas con discapacidad, según los estándares que aplican a cada grupo;
+
+VII. Formular y aprobar el Programa Estatal que será la base para el diseño de políticas, planes y acciones que implementen las autoridades en la materia;
+
+VIII. Proponer variables e indicadores al Sistema Estatal de Información Territorial y Urbano en materia de movilidad y seguridad vial, así como los mecanismos de recolección, integración, sistematización y análisis de información, de conformidad con lo establecido en las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, previa opinión técnica del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, incluyendo fuentes;
+
+IX. Analizar lo contenido en el Sistema Estatal de Información Territorial y Urbano para realizar estudios, diagnósticos, proponer iniciativas, intervenciones, acciones afirmativas y ajustes razonables, para dar seguimiento y evaluación de las políticas e intervenciones dirigidas a mejorar las condiciones de la movilidad y la seguridad vial con perspectiva interseccional y de derechos humanos;
+
+X. Determinar los distintos tipos de vías del territorio estatal, de conformidad con sus características físicas y usos, a efecto de establecer límites de velocidad de referencia, que deberán ser tomados en cuenta por las autoridades, con el fin de garantizar la seguridad de todas las personas usuarias de estas;
+
+XI. Formular manuales y lineamientos que orienten la política para los sistemas de movilidad en los centros de población, con perspectiva interseccional y de derechos humanos, que:
+
+a) Orienten criterios para el diseño vial que permitan la identificación de las necesidades o requerimientos de las personas usuarias de la vía;
+
+b) Promuevan la seguridad vial y la utilización adecuada de la red vial, enfoque de sistemas seguros, su infraestructura, equipamiento auxiliar, dispositivos para el control del tránsito, servicios auxiliares y elementos inherentes o incorporados a ella;
+
+c) Propongan las especificaciones técnicas del parque vehicular;
+
+d) Otras que fortalezcan la movilidad y la seguridad vial equitativa, igualitaria e incluyente;
+
+e) Establecer los lineamientos para la conformación y desarrollo de los sistemas integrados de transporte en los diferentes centros de población, así como los criterios de diseño, implementación, ejecución y evaluación de la articulación física, operacional, informativa y de imagen, que permitan el desplazamiento de personas, bienes y mercancías entre ellos;
+
+f) Promover los acuerdos y la coordinación entre las autoridades para fortalecer la regulación del transporte de carga a efecto de mejorar su eficiencia operacional y ambiental;
+
+g) Realizar el seguimiento, revisión y evaluación de programas, planes y proyectos en materia de movilidad y seguridad vial y sus impactos en los grupos en situación de vulnerabilidad, a través de los instrumentos que para tal efecto se emitan;
+
+h) Promover la coordinación efectiva de las instancias que integran el Sistema Estatal y dar seguimiento a las acciones que para tal efecto se establezcan;
+
+i) Elaborar un informe anual sobre el cumplimiento del objeto y objetivos de la presente Ley, así como del avance del Programa Estatal, que será remitida a las autoridades competentes de los tres órdenes de gobierno para su conocimiento; y
+
+j) Establecer los lineamientos para la práctica de auditorías e inspecciones de infraestructura y seguridad vial.
+
+XII. Las demás que se establezcan para el funcionamiento del Sistema y el cumplimiento del objeto de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 45.
 
-El Sistema Estatal de Movilidad estará integrado por los siguientes instrumentos de planeación:
+El Sistema Estatal de Movilidad y Seguridad Vial para cumplir con los fines de planear, regular y fomentar la movilidad y seguridad vial de las personas, así como gestionar el desarrollo del transporte de personas y bienes, considerando las necesidades actuales y futuras para su desplazamiento, contará con los instrumentos de planeación, siguientes:
 
 I. Programa Estatal;
 
@@ -791,19 +1353,23 @@ IV. Programa Especial de Movilidad Urbana Sustentable; y
 
 V. Los demás instrumentos que de estos se deriven.
 
-#### Sección I. Del Programa Estatal de Movilidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+#### Sección I. Del Programa Estatal de Movilidad y Seguridad Vial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 46.
 
-El Programa Estatal es el instrumento de planeación por medio del cual, el Ejecutivo del Estado, establece los objetivos, metas y acciones encaminadas a mejorar la movilidad y transporte y su integración con los diferentes medios y modalidades.
+El Programa Estatal es el instrumento de planeación por medio del cual, el Sistema Estatal, establece los objetivos, metas y acciones encaminadas a mejorar la movilidad y transporte y su integración con los diferentes medios y modalidades, de conformidad con la Estrategia Nacional de Movilidad y Seguridad Vial.
 
-El Programa Estatal como documento rector contemplado en la Ley de Ordenamiento establecerá lo conducente para la ejecución de la mejora de la movilidad de personas y bienes en la entidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-El Programa Estatal tendrá un horizonte de mediano plazo de 10 años.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 47.
 
-El Programa Estatal de Movilidad deberá ser congruente con las disposiciones de la Ley de Ordenamiento Territorial y Desarrollo Urbano, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, y apegarse a las normas oficiales mexicanas que se expidan en términos de movilidad.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
 ###### Artículo 48.
 
@@ -841,7 +1407,9 @@ En la conformación del Programa Estatal, deberán considerarse y en su caso int
 
 I. La SGG;
 
-II. La SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+II. La SEBIDES;
 
 III. Los municipios del Estado;
 
@@ -853,9 +1421,13 @@ VI. La Secretaría de Obras Públicas;
 
 VII. La Secretaría de Economía;
 
-VIII. La Dirección de Energía de SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-IX. La Secretaría de Innovación;
+VIII. La Dirección del Uso Sustentable del Agua y de la Energía de SEBIDES;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+IX. La Coordinación General de Desarrollo Tecnológico y Proyectos Especiales;
 
 X. La SAF; y
 
@@ -863,33 +1435,33 @@ XI. Las organizaciones de la sociedad civil cuyo objeto tenga injerencia en el o
 
 ###### Artículo 50.
 
-El Programa Estatal deberá formularse conforme a los lineamientos previstos en el artículo 263 de la Ley de Ordenamiento, y deberá integrar lo siguiente:
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
-I. Las asignaciones presupuestales para el cumplimiento del Programa;
-
-II. La información necesaria para que la ciudadanía pueda identificar con facilidad las acciones y obras que se implementarán en cada región, así como el plazo en que serán ejecutadas y concluidas; y
-
-III. Los indicadores para la evaluación.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 51.
 
-El Programa Estatal de Movilidad deberá considerar al menos los siguientes subprogramas:
+Las autoridades estatales y de los municipios en el ámbito de sus respectivas competencias, diseñarán, implementarán, ejecutarán, evaluarán y darán seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías.
 
-I. Peatonal;
+Para el cumplimiento de lo anterior, se promoverá la participación de personas especialistas y la academia en el diseño e implementación de programas, campañas y acciones en materia de educación vial, movilidad, y perspectiva de género que generen el desarrollo de políticas sostenibles e incluyentes con especial atención a los grupos en situación de vulnerabilidad, orientadas al peatón, la bicicleta, al transporte público y al uso racional del automóvil particular.
 
-II. Ciclista;
+La sensibilización en materia de movilidad y seguridad vial tiene como objetivo transmitir información a la población, en formatos accesibles y pertinencia intercultural y lingüística, con el fin de concientizarla sobre el uso de la vía, así como las acciones de prevención de siniestros y demás problemas que se generan en esta.
 
-III. Transporte público;
+Las políticas, programas, campañas y acciones de sensibilización sobre movilidad y seguridad vial deberán observar los siguientes criterios:
 
-IV. Seguridad y educación vial; y
+I. Mensajes sustentados en evidencia científica y territorial;
 
-V. Las acciones de prevención de los hechos de tránsito y el estudio de sus causas determinantes.
+II. Explicación de las causas y consecuencias en materia de movilidad y seguridad vial;
+
+III. Adopción de prácticas que propicien un ambiente seguro para la movilidad activa y no motorizada;
+
+IV. Respeto entre las personas usuarias de la vía y hacia los elementos de policía de tránsito y prestadores de servicio de transporte público de pasajeros; y
+
+V. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad.
 
 ###### Artículo 52.
 
-Para la aprobación del Programa Estatal se observará el procedimiento establecido para el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano del artículo 95 de la Ley de Ordenamiento Territorial y Desarrollo Urbano, para lo cual se coordinará el procedimiento con la SEDESU previsto en la presente Ley.
-
-Los Sub-programas y sus modificaciones serán formulados con base en los resultados que arrojen los sistemas de información y seguimiento de movilidad, Tránsito y de seguridad vial, a fin de verificar su congruencia con otros instrumentos de planeación y determinar si los factores de aprobación de un programa persisten y, en su caso, modificarlo o formular uno nuevo.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
 ###### Artículo 53.
 
@@ -925,9 +1497,11 @@ Se adicionan los PIMUS como documentos básicos para configurar las estrategias 
 
 El ámbito territorial de los Planes Integrales de Movilidad Urbana Sustentable es la del Centro de Población.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-Los PIMUS deben elaborarse por los Ayuntamientos en acuerdo con varios municipios cuando se trate de temas de carácter metropolitano o conurbado, respetando las estrategias del Programa Estatal, del Programa Sectorial y de los PIMUS vigentes. La SEDESU podrá asistir en la elaboración de los Programas Especiales a solicitud de los Ayuntamientos.
+Los PIMUS deben elaborarse por los Ayuntamientos en acuerdo con varios municipios cuando se trate de temas de carácter metropolitano o conurbado, respetando las estrategias del Programa Estatal, del Programa Sectorial y de los PIMUS vigentes. La SEBIDES podrá asistir en la elaboración de los Programas Especiales a solicitud de los Ayuntamientos.
 
 ###### Artículo 61.
 
@@ -1007,9 +1581,11 @@ La elaboración de los Programas Especiales de Movilidad Urbana Sustentable corr
 
 ### CAPÍTULO II. DE LOS INSTRUMENTOS DE DISEÑO, EVALUACIÓN Y SEGUIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-Los Estudios de Origen y Destino son instrumentos de análisis de la demanda de desplazamiento de la población en un territorio específico, determinado por la distribución espacial de las actividades y de los servicios urbanos que busca satisfacer la población. La elaboración de los Estudios de Origen y Destino se sujetará a los lineamientos que al efecto emita la SEDESU.
+Los Estudios de Origen y Destino son instrumentos de análisis de la demanda de desplazamiento de la población en un territorio específico, determinado por la distribución espacial de las actividades y de los servicios urbanos que busca satisfacer la población. La elaboración de los Estudios de Origen y Destino se sujetará a los lineamientos que al efecto emita la SEBIDES.
 
 El ámbito territorial de los Estudios de Origen y Destino es el del municipio o Zonas Metropolitanas, con el acuerdo correspondiente de los ayuntamientos involucrados, con el acuerdo entre varios municipios, tanto si integran un área urbana continúa como si no integran ninguna.
 
@@ -1037,9 +1613,11 @@ La elaboración del Programa de Inversiones corresponde al organismo que elabore
 
 La elaboración del Programa de Inversiones deberá ser comunicada al Consejo y Comisión, y a las administraciones con competencias sobre los medios de transporte y sobre las infraestructuras por las que circulan.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 70.
 
-La SEDESU establecerá una Cartera de Proyectos, integrado por estudios y proyectos ejecutivos en materia de movilidad, producto del cumplimiento de las condiciones establecidas como medidas de integración de movilidad en los instrumentos de planeación en la materia, así como todos aquellos que sean elaborados por la Administración Pública Estatal. La Cartera de Proyectos estará disponible para consulta de las dependencias y organismos involucrados en la aprobación de recursos para los servicios e infraestructura vial con objeto de facilitar la verificación de la documentación correspondiente.
+La SEBIDES establecerá una Cartera de Proyectos, integrado por estudios y proyectos ejecutivos en materia de movilidad, producto del cumplimiento de las condiciones establecidas como medidas de integración de movilidad en los instrumentos de planeación en la materia, así como todos aquellos que sean elaborados por la Administración Pública Estatal. La Cartera de Proyectos estará disponible para consulta de las dependencias y organismos involucrados en la aprobación de recursos para los servicios e infraestructura vial con objeto de facilitar la verificación de la documentación correspondiente.
 
 ###### Artículo 71.
 
@@ -1063,9 +1641,11 @@ VII. Estudios de Impacto de Carga; y
 
 VIII. Índices de Potencialidad Ciclista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 72.
 
-El Sistema de información es la base de datos que la SEDESU deberá integrar y operar con el objeto de registrar, procesar y actualizar la información en el Estado en materia de movilidad. La información que alimente al sistema será enviada y generada por los organismos y entidades que correspondan, con los cuales la SEDESU deberá establecer la coordinación.
+El Sistema de información es la base de datos que la SEBIDES deberá integrar y operar con el objeto de registrar, procesar y actualizar la información en el Estado en materia de movilidad. La información que alimente al sistema será enviada y generada por los organismos y entidades que correspondan, con los cuales la SEBIDES deberá establecer la coordinación.
 
 Este sistema estará compuesto por información geo-referenciada y estadística, indicadores de movilidad y gestión administrativa, indicadores incluidos en los instrumentos de planeación e información sobre el avance de proyectos y programas.
 
@@ -1075,7 +1655,9 @@ La información y los indicadores de gestión que arrojen el Sistema de Informac
 
 Asimismo, se realizarán las acciones de evaluación de los avances en el cumplimiento de las metas establecidas en dichos programas, en su caso, propondrá la modificación o actualización que corresponda.
 
-La SEDESU pondrá a disposición de la ciudadanía un informe anual de los avances en materia de movilidad a más tardar el 30 de noviembre de cada año.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+La SEBIDES pondrá a disposición de la ciudadanía un informe anual de los avances en materia de movilidad a más tardar el 30 de noviembre de cada año.
 
 ###### Artículo 73.
 
@@ -1125,9 +1707,11 @@ IV. Sobrevenga otra causa de orden o de interés general que haga recomendable a
 
 En ningún caso se podrá derogar o abrogar los programas sin que en la resolución correspondiente se declare la vigencia de uno nuevo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 75.
 
-Las modificaciones al Programa Sectorial podrán ser solicitadas ante la dependencia municipal correspondiente por los sujetos señalados en el artículo 99 de la Ley de Ordenamiento Territorial y Desarrollo Urbano así como por la SEDESU a través del Consejo referido en la presente ley.
+Las modificaciones al Programa Sectorial podrán ser solicitadas ante la dependencia municipal correspondiente por los sujetos señalados en el artículo 99 de la Ley de Ordenamiento Territorial y Desarrollo Urbano así como por la SEBIDES a través del Consejo referido en la presente ley
 
 La autoridad municipal estará facultada para conceder o negar la modificación del Programa de Movilidad cuando se afecte, directa o indirectamente el orden público, el interés general o el ámbito de su competencia. Para este efecto, elaborará los estudios y análisis que soporten su decisión. Toda actualización o modificación a los programas de movilidad se sujetarán al mismo procedimiento que el establecido para su formulación y expedición.
 
@@ -1309,7 +1893,9 @@ VII. Disfrutar de un ambiente libre de contaminación generada por el mismo veh�
 
 VIII. Conocer el número de licencia, gafete y fotografía del operador, dichos documentos deberán colocarse en un lugar visible del vehículo y serán de un tamaño que permitan su lectura a distancia;
 
-IX. A que las unidades cuenten con las características de diseño de accesibilidad y de información para todas las personas y sus diferentes condiciones y capacidades, en términos de la normatividad expedida por la SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+IX. A que las unidades cuenten con las características de diseño de accesibilidad y de información para todas las personas y sus diferentes condiciones y capacidades, en términos del Manual de Especificaciones Técnicas;
 
 X. Exigir al conductor el comprobante de pago de la tarifa cuando éste se haga en efectivo a bordo del vehículo;
 
@@ -1323,7 +1909,9 @@ XIII. Presentar quejas y sugerencias sobre los vehículos del servicio de transp
 
 Los usuarios del transporte público tendrán las siguientes obligaciones:
 
-I. Del servicio público de transporte de personas, pagar las tarifas autorizadas a través de los sistemas de recaudo aprobados por la SEDESU.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+I. Del servicio público de transporte de personas, pagar las tarifas autorizadas a través de los sistemas de recaudo aprobados por la SGG;
 
 II. Del servicio público de transporte de carga, celebrar con el concesionario contrato por escrito de prestación de servicios de transporte, así como pagar la contraprestación acordada contractualmente;
 
@@ -1421,15 +2009,17 @@ V. Tener un ambiente de trabajo sano, adecuado, con planeación y organización 
 
 #### Sección II. De las Obligaciones de los Conductores del Servicio Público de Transporte y de Vehículos Particulares
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 101.
 
 Son obligaciones de los conductores:
 
-Del Servicio Público de Transporte.-
+A) Del Servicio Público de Transporte.
 
-I. Someterse, cuando así lo determine la SEDESU, a los exámenes médicos y toxicológicos necesarios, a efecto de evaluar su estado de salud y determinar si se encuentran o no en aptitud, para realizar con seguridad y eficiencia las funciones inherentes a sus actividades.
+I. Someterse, cuando así lo determine la SGG, a los exámenes médicos y toxicológicos necesarios, a efecto de evaluar su estado de salud y determinar si se encuentran o no en aptitud, para realizar con seguridad y eficiencia las funciones inherentes a sus actividades.
 
-II. Atender las instrucciones y disposiciones de operación que la SEDESU les indique. Serán los responsables directos de las infracciones que cometan, con motivo de su actividad.
+II. Atender las instrucciones y disposiciones de operación que la SGG les indique. Serán los responsables directos de las infracciones que cometan, con motivo de su actividad.
 
 III. Cumplir con los indicadores de seguridad higiene, comodidad y trato amable, que se le indiquen;
 
@@ -1437,35 +2027,23 @@ IV. Portar, en su caso, el uniforme que se le asigne;
 
 V. Llevar los cursos de capacitación y adiestramiento, que se le indiquen, de acuerdo con los planes y programas contenidos en el programa de capacitación correspondiente;
 
-VI. Acreditar la aprobación de los cursos de capacitación y actualización, indicados en el programa respectivo; y
+VI. Acreditar la aprobación de los cursos de capacitación y actualización, indicados en el programa respectivo;
 
 VII. Contar con los documentos establecidos en la presente Ley, tales como la licencia de conducir del servicio público de transporte, y el certificado de aptitud que se menciona en este ordenamiento.
 
 En este caso, se les extenderá un certificado de aptitud, previo curso de capacitación a que deberán someterse, en los términos que se indiquen en el Reglamento de esta Ley.
 
-De Vehículos Particulares.-
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+B) De Vehículos Particulares.
 
 I. No tirar o arrojar basura u objetos desde el interior del vehículo hacia el exterior, y vigilar que los pasajeros cumplan con dicha disposición;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
-
 II. No transportar un número de personas superior al número de plazas o asientos cuya capacidad posea el vehículo;
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 III. No abordar o descender pasajeros de los vehículos cuando se encuentren en movimiento; en todo caso el ascenso o descenso del vehículo lo efectuarán del lado que se encuentre más cercano a la banqueta, una vez que éste haya detenido totalmente su marcha;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
-
 IV. No llevar pasajeros en las salpicaderas, estribos o defensas de los vehículos;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
-
 V. No cargar sobre sus piernas a niños, mascotas u objetos al conducir;
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 VI. No operar o accionar teléfonos celulares o cualquier otro aparato mecánico o electrónico mientras los vehículos se encuentren en movimiento, con excepción de los pasajeros y conductores de vehículos de paso preferencial o emergencia;
 
@@ -1483,7 +2061,7 @@ XII. Obedecer las señales manuales que en los términos de la presente Ley real
 
 XIII. Utilizar el claxon únicamente cuando se haga necesario;
 
-XIV. Contar con licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca, así como traer en el vehículo la tarjeta de circulación vigente del mismo, y la póliza de seguro vigente con cobertura de al menos daños a terceros, que garantice su responsabilidad civil en caso de hecho de tránsito;
+XIV. Contar con licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca, así como traer en el vehículo la tarjeta de circulación vigente del mismo, y la póliza de seguro vigente con cobertura de al menos daños a terceros, que garantice su responsabilidad civil en caso de siniestro de tránsito;
 
 XV. Presentarse ante las autoridades de tránsito, o de la SGG en su caso cuando así sea requerido;
 
@@ -1501,7 +2079,13 @@ Los conductores de vehículos de paso preferencial o emergencia quedarán exento
 
 Queda prohibido a toda persona conducir un vehículo en estado de ebriedad o bajo la influencia de cualquier droga o substancia tóxica que disminuya en forma notable su aptitud para conducir, aun cuando por prescripción médica esté autorizado para su uso. Los conductores del servicio público deberán conducir, manejar o maniobrar vehículos, libres de cualquier cantidad de alcohol o substancias tóxicas.
 
-El Reglamento que se derive de la presente Ley establecerá los niveles de alcoholemia, según se trate de aliento alcohólico o estados (sic) de ebriedad y su clasificación, así como las sanciones que para cada correspondan, y precisará el procedimiento respectivo para su aplicación. Del mismo modo dicho Reglamento definirá el tipo de alcoholímetro que se utilizará para la medición del grado alcohol universalmente aceptable.
+Para efectos del párrafo anterior, se realizarán pruebas de alcoholemia de manera permanente con el objetivo de evitar la conducción de cualquier tipo de vehículos bajo el efecto del alcohol, para tal efecto queda prohibido conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, salvo las siguientes consideraciones:
+
+a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre.
+
+b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
+
+La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud Federal.
 
 Cuando el conductor que se oponga o por sus condiciones físicas, no se pueda diagnosticar el grado de ebriedad en aire expirado por medio del alcoholímetro, el médico examinante quedará facultado para practicar el examen clínico.
 
@@ -1521,7 +2105,9 @@ V. Obedecer las señales manuales y atender las medidas de seguridad que hagan l
 
 VI. Utilizar el claxon únicamente cuando se haga necesario;
 
-VII. Contar con licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca, así como traer en el vehículo la tarjeta de circulación vigente del mismo, y la póliza de seguro vigente con cobertura de al menos daños a terceros, que garantice su responsabilidad civil en caso de hecho de tránsito;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VII. Contar con licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca, así como traer en el vehículo la tarjeta de circulación vigente del mismo, y la póliza de seguro vigente con cobertura de al menos daños a terceros, que garantice su responsabilidad civil en caso de siniestro de tránsito;
 
 VIII. Obedecer las señales manuales que en los términos de la presente Ley realicen las personas autorizadas por los centros escolares dentro de su perímetro, o personas habilitadas en casos de emergencia;
 
@@ -1555,7 +2141,9 @@ IV. Transmitir los derechos derivados de la concesión o permiso en los término
 
 V. Solicitar la prórroga de la vigencia de la concesión o permiso; y
 
-VI. Proponer a la SEDESU la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VI. Proponer a la SGG la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio.
 
 #### Sección II. De las Obligaciones
 
@@ -1583,7 +2171,9 @@ IX. En el caso del servicio público de transporte de carga, cuando el usuario p
 
 X. Prestar el servicio con vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones, definida en el reglamento de esta Ley y en los manuales de esta materia, así como mantenerlos en condiciones óptimas de seguridad, físicas y electromecánicas;
 
-XI. Cumplir con la cromática autorizada para cada modalidad, conservar los vehículos, equipos e instalaciones en óptimas condiciones físicas, en su caso, incorporar las modificaciones que sobre aspectos técnicos se establezcan en los manuales autorizados y no alterar la estructura original del vehículo sin autorización de la SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XI. Cumplir con la cromática autorizada para cada modalidad, conservar los vehículos, equipos e instalaciones en óptimas condiciones físicas, en su caso, incorporar las modificaciones que sobre aspectos técnicos se establezcan en los manuales autorizados y no alterar la estructura original del vehículo sin autorización de la SGG;
 
 XII. Aceptar la intervención del Gobierno del Estado en la administración del servicio, en los casos en que el concesionario se niegue generalizada, sistemática o permanentemente a prestarlo, o exista una causa de utilidad pública;
 
@@ -1591,7 +2181,9 @@ XIII. Vigilar que sus operadores y personal relacionado con el servicio que pres
 
 XIV. Proporcionar en todo tiempo a las autoridades competentes que lo requieran, los datos, informes o documentos que le sean solicitados y que se relacionen con la operación de la concesión o permiso a efecto de conocer y evaluar la forma de prestación del servicio; y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
 
-XV. Registrar y mantener vigente la autorización ante la SEDESU de los operadores que prestarán el servicio;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XV. Registrar y mantener vigente la autorización ante la SGG de los operadores que prestarán el servicio;
 
 XVI. Renovar los vehículos que rebasen la antigüedad máxima permitida, de acuerdo a lo señalado en la presente Ley y en su Reglamento;
 
@@ -1609,7 +2201,9 @@ XXII. Abstenerse de colocar en los cristales del vehículo, rótulos, carteles y
 
 XXIII. Llevar la bitácora de mantenimiento en los vehículos destinados al servicio público en los términos del Reglamento;
 
-XXIV. Notificar a la SEDESU, al menos con cuarenta y cinco días de anticipación, cuando decidan dejar de operar una concesión;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIV. Notificar a la SGG, al menos con cuarenta y cinco días de anticipación, cuando decidan dejar de operar una concesión;
 
 XXV. Someter las unidades destinadas a la prestación del servicio público de transporte a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación aplicable en materia ambiental;
 
@@ -1619,7 +2213,9 @@ XXVII. Abstenerse de realizar actos que impliquen competencia desleal respecto d
 
 XXVIII. Tratándose de las modalidades del servicio de transporte público de personas, deberá admitir como medio de pago de la tarifa el que determine la autoridad competente, basado preferentemente en medios de pago electrónicos; así como utilizar, en todos sus vehículos, la tecnología y dispositivos señalados por la misma;
 
-XXIX. Tratándose de los concesionarios del SIT, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de la SEDESU a través del (sic) que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la autoridad competente;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXIX. Tratándose de los concesionarios del SIT, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de la SEBIDES a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la autoridad competente;
 
 XXX. Resarcir a los usuarios y a los terceros, por los daños físicos o patrimoniales que se les causen, con motivo de la prestación del servicio sujeto a concesión o permiso;
 
@@ -1627,7 +2223,9 @@ XXXI. Constituir en tiempo y forma las garantías en los términos establecidos 
 
 XXXII. Otorgar capacitación permanente a los operadores del transporte público en cualquiera de sus modalidades, mediante un mínimo de tres cursos al año;
 
-XXXIII. Abstenerse de sustituir de forma temporal o definitiva los vehículos registrados para otorgar el servicio, aún y cuando sea por períodos cortos, debido al mantenimiento preventivo y correctivo que se le dé, si no es con la autorización por escrito de la SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXIII. Abstenerse de sustituir de forma temporal o definitiva los vehículos registrados para otorgar el servicio, aun y cuando sea por períodos cortos, debido al mantenimiento preventivo y correctivo que se le dé, si no es con la autorización por escrito de la SGG;
 
 XXXIV. No hacer uso de la vía pública para el establecimiento de terminales, sitios o estacionamiento, salvo autorización expresa de la autoridad competente. La ubicación y proyectos de las terminales deberán ser previamente aprobados por las autoridades competentes;
 
@@ -1639,17 +2237,27 @@ XXXVII. Prestar el servicio bajo las condiciones que establezca el Ejecutivo del
 
 XXXVIII. No permitir que viajen personas en los lugares destinados a la carga;
 
-XXXIX. Presentar la revista vehicular en las formas, procedimientos y términos que la SEDESU determine, debiendo pagar los derechos correspondientes, conforme lo determine el Reglamento. La revista físico-mecánica será anual;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXXIX. Presentar la revista vehicular en las formas, procedimientos y términos que la SGG determine, debiendo pagar los derechos correspondientes, conforme lo determine el Reglamento. La revista físico-mecánica será anual;
 
 XL. Realizar de manera periódica y aleatoria exámenes de antidopaje a los conductores, así como permitir a las autoridades correspondientes la realización de dichos exámenes;
 
 XLI. Acreditar ante la autoridad que todos los trabajadores que presten el servicio gocen de las prestaciones laborales y de seguridad social según lo establezca la normatividad aplicable, de acuerdo al trabajo contratado y hacerlo del conocimiento a la autoridad competente;
 
-XLII. El concesionario deberá cumplir con la obligación establecida en el párrafo que antecede a los treinta días posteriores al otorgamiento de la concesión, en cada revista vehicular, al solicitar la renovación de la concesión o cuando exista una queja ante la SEDESU por parte del operador;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XLII. El concesionario deberá cumplir con la obligación establecida en el párrafo que antecede a los treinta días posteriores al otorgamiento de la concesión, en cada revista vehicular, al solicitar la renovación de la concesión o cuando exista una queja ante la SGG por parte del operador;
 
 XLIII. Aplicar las exenciones de pago, tarifas preferenciales y otros beneficios en favor del usuario en los casos previstos por esta Ley y su Reglamento;
 
-XLIV. Destinar en los vehículos de transporte colectivo, dos asientos en vehículos de hasta veinte pasajeros para uso prioritario de personas con movilidad limitada, y cuatro asientos en vehículos de hasta cuarenta pasajeros en la misma condición. En todo caso dichos asientos serán ubicados en la parte del vehículo más próxima a la puerta de acceso;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XLIV. Destinar en los vehículos de transporte colectivo, dos asientos en vehículos de hasta veinte pasajeros para uso prioritario de personas con movilidad limitada, y cuatro asientos en vehículos de hasta cuarenta pasajeros en la misma condición.
+
+Asimismo, deberán destinar el 20 por ciento de los asientos para uso exclusivo de mujeres, los cuales deberán ser de color naranja, y contener un emblema o leyenda para su identificación.
+
+Todos estos asientos deberán estar situados cerca de la puerta de acceso;
 
 XLV. Los vehículos de transporte colectivo deberán estar adaptados para el ascenso y descenso de personas con movilidad limitada;
 
@@ -1657,15 +2265,21 @@ XLVI. Los vehículos de transporte colectivo deberán contar con equipo especial
 
 XLVII. Los concesionarios podrán realizar convenios con las diversas instituciones públicas y privadas para establecer las adaptaciones necesarias para personas con movilidad limitada, en los vehículos de transporte colectivo;
 
-XLVIII. Instalar y mantener en buen funcionamiento la tecnología de acopio de información operacional según lo establezca la SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XLVIII. Instalar y mantener en buen funcionamiento la tecnología de acopio de información operacional según lo establezca la SGG;
 
 XLIX. Colocar y mantener en un lugar visible dentro de los vehículos del servicio de transporte, el catálogo de derechos de los usuarios y los números telefónicos de emergencia, información general y aquellos donde los usuarios puedan canalizar sus quejas y sugerencias;
 
-L. Mantener en funcionamiento, durante la prestación del servicio, los equipos del sistema de recaudo y de monitoreo aprobados por la SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+L. Mantener en funcionamiento, durante la prestación del servicio, los equipos del sistema de recaudo y de monitoreo aprobados por la SGG;
 
 LI. Abstenerse de instalar u operar en los vehículos de servicio, cualquier tipo de equipo que emita sonidos o luces que dificulten la concentración de los conductores de la unidad o de otros vehículos, que causen molestias a los pasajeros y aditamentos en los cristales que obstruyan la visibilidad hacia o desde el interior del vehículo;
 
-LII. Proporcionar capacitación a sus conductores conforme a los contenidos autorizados por la SEDESU;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+LII. Proporcionar capacitación a sus conductores conforme a los contenidos autorizados por la SGG;
 
 LIII. Verificar que sus conductores se presenten a laborar con el uniforme correspondiente;
 
@@ -1681,9 +2295,11 @@ LVIII. Instalar botones de pánico en las unidades de transporte público; y
 
 LIX. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 105.
 
-Las personas morales, que por concesión del Ejecutivo del Estado exploten el servicio público de transporte, estarán obligadas a llevar un libro de registro de sus miembros, asignándoles a cada uno de ellos el número de orden que le corresponda. Asimismo, deberán llevar un libro de actas debidamente foliado y autorizado por la SEDESU.
+Las personas morales, que por concesión del Ejecutivo del Estado exploten el servicio público de transporte, estarán obligadas a llevar un libro de registro de sus miembros, asignándole a cada uno de ellos el número de orden que le corresponda. Asimismo, deberán llevar un libro de actas debidamente foliado y autorizado por la SGG.
 
 ###### Artículo 106.
 
@@ -1693,9 +2309,11 @@ Las personas morales concesionarias, podrán incluir en sus estatutos la forma e
 
 En caso de emergencia, desastres naturales y circunstancias análogas todos los propietarios de vehículos de servicio público estarán obligados a brindar transporte gratuitamente a servidores públicos y agentes de cualquier corporación policiaca, de acuerdo con el programa que se establezca para tales efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 108.
 
-Los concesionarios del servicio público estarán obligados a remitir mensualmente a la SEDESU, informes estadísticos sobre el transporte, número de pasajeros, señalando ascensos y descensos. El reglamento precisará fechas, formatos y demás elementos para que se cumpla esta disposición.
+Los concesionarios del servicio público estarán obligados a remitir mensualmente a la SGG, informes estadísticos sobre el transporte, número de pasajeros, señalando ascensos y descensos. El reglamento precisará fechas, formatos y demás elementos para que se cumpla esta disposición.
 
 En el momento que se implemente el sistema electrónico de recaudo, los concesionarios cesarán de remitir los informes señalados en el párrafo anterior, y el registro de información se llevará de manera sistematizada.
 
@@ -1709,17 +2327,21 @@ En vehículos de servicio público de pasajeros urbano convencional y en el SIT,
 
 ### CAPÍTULO VII. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE CONDUCTORES DEL TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 111.
 
-La SEDESU con la participación de los concesionarios y permisionarios, promoverá en el ramo de capacitación y adiestramiento, la creación y operación de un Centro de Formación de Conductores del Servicio Público, mediante la vinculación con instituciones de carácter educativo, preferentemente aquellas dedicadas a la formación para y en el trabajo, que tengan infraestructura suficiente a nivel estatal para cumplir con este objetivo.
+La SEBIDES con la participación de los concesionarios y permisionarios, promoverá en el ramo de capacitación y adiestramiento, la creación y operación de un Centro de Formación de Conductores del Servicio Público, mediante la vinculación con instituciones de carácter educativo, preferentemente aquellas dedicadas a la formación para y en el trabajo, que tengan infraestructura suficiente a nivel estatal para cumplir con este objetivo.
 
 ###### Artículo 112.
 
 Para lograr una Movilidad Sustentable, será necesaria una prestación pertinente de los servicios de transporte, en términos que cumplan con los indicadores de seguridad, higiene, eficiencia y eficacia establecidos en la presente Ley; para ello es obligatoria la capacitación y adiestramiento de los conductores de los vehículos de servicio público de transporte de pasajeros y de carga, en todas sus modalidades.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 113.
 
-Los conductores de servicio público, al momento de obtener por primera ocasión o renovar su certificado de aptitud al término de su vigencia, acreditarán haber aprobado los cursos de capacitación y actualización programados por la SEDESU, ya sea a través del Centro de Formación de Conductores del Servicio Público o de cualquier otra institución educativa acreditada para tal fin.
+Los conductores de servicio público, al momento de obtener por primera ocasión o renovar su certificado de aptitud al término de su vigencia, acreditarán haber aprobado los cursos de capacitación y actualización programados por la SGG, ya sea a través del Centro de Formación de Conductores del Servicio Público o de cualquier otra institución educativa acreditada para tal fin.
 
 ###### Artículo 114.
 
@@ -1759,21 +2381,27 @@ Para la atención y seguimiento a las quejas contra concesionarios, permisionari
 
 Las autoridades correspondientes establecerán en las áreas administrativas de la dependencia, y organismos descentralizados relacionados con la prestación de los servicios públicos de transporte, unidades de información y quejas que posibiliten a los interesados ejercer el derecho de petición, mediante la expresión de sus inconformidades o propuestas.
 
-## TÍTULO OCTAVO. DEL SISTEMA DE MOVILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+## TÍTULO OCTAVO. DE LOS ACTORES DE LA MOVILIDAD Y DEL SISTEMA DE TRANSPORTE
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. ACTORES DE LA MOVILIDAD
 
 ###### Artículo 121.
 
-El Sistema de Movilidad tiene por objeto establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas y bienes a través de los sistemas de infraestructura, servicios, operación y control inscritos en el territorio del Estado.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
 ###### Artículo 122.
 
-El Sistema de Movilidad debe integrar de manera jerarquizada e interdependiente los modos de transporte de personas y de carga con los diferentes tipos de vías y espacios públicos de la ciudad incluyendo el territorio rural. Este actuará de manera interdependiente con la estructura socio-económica y territorial.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 123.
 
-Se consideran actores del Sistema de Movilidad de acuerdo a su jerarquía en la vía pública los siguientes:
+Se consideran actores de la Movilidad, los siguientes:
 
 I. Personas con movilidad limitada;
 
@@ -1903,9 +2531,11 @@ II. De carga. El que se presta de manera general, continua, uniforme, regular y 
 
 Para la prestación del servicio de carga, la SGG verificará la operación para que el servicio cumpla con los indicadores de calidad y para su prestación es suficiente el otorgamiento de una concesión y permiso en los términos de esta Ley y que los interesados en obtenerlo, cumplan los requisitos que se establezcan en este ordenamiento y según el procedimiento que se fije en el Reglamento de la presente Ley y en la Convocatoria que para tal efecto se expida.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 136.
 
-Quienes presten el servicio de transporte público, quedan sujetos al cumplimiento de la normatividad relativa a las Especificaciones Técnicas y a las condiciones de operación que determine la SEDESU, así como a los términos que se hayan establecido en el Título de Concesión o Permiso en su caso.
+Quienes presten el servicio de transporte público, quedan sujetos al cumplimiento de la normatividad relativa a las Especificaciones Técnicas y a las condiciones de operación que determine la SGG así como a los términos que se hayan establecido en el Título de Concesión o Permiso en su caso.
 
 ###### Artículo 137.
 
@@ -1931,9 +2561,11 @@ II. El Ejecutivo del Estado únicamente podrá hacerse cargo de manera definitiv
 
 El servicio público de transporte de personas estará sujeto a horarios, itinerarios, zonas y tarifas autorizadas en términos de la presente Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 139.
 
-Las zonas aprobadas por el Ejecutivo del Estado para la prestación del servicio público de transporte de personas, sólo podrán ser modificadas por él mismo, acorde a las necesidades del servicio, con base en los estudios técnicos que para ello elabore y ponga a su consideración la SEDESU.
+Las zonas aprobadas por el Ejecutivo del Estado para la prestación del servicio público de transporte de personas, sólo podrán ser modificadas por él mismo, acorde a las necesidades del servicio, con base en el dictamen de la SGG que podrá contar con el apoyo de SEBIDES.
 
 #### Sección III. Del Transporte Privado
 
@@ -1977,17 +2609,21 @@ III. Foráneo. Es aquel que se presta de las comunidades rurales hacia la cabece
 
 El SIT también forma parte del Servicio Público de Transporte Colectivo.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 143.
 
-El servicio de transporte público colectivo se sujetará a las disposiciones contenidas en la presente Ley y las normas reglamentarias que de ésta emanen, así como a los lineamientos, parámetros de operación, manuales y normas técnicas que al efecto expida el Ejecutivo del Estado, con el soporte técnico de la SEDESU.
+El servicio de transporte público colectivo se sujetará a las disposiciones contenidas en la presente Ley y las normas reglamentarias que de esta emanen, así como a los lineamientos, parámetros de operación, manuales y normas técnicas que al efecto expida el Ejecutivo del Estado, con el soporte técnico de la SGG y la SEBIDES.
 
 ###### Artículo 144.
 
 En el caso de que dos o más poblaciones integren una sola mancha urbana o formen parte de una conurbación previamente declarada, el servicio entre ellas se considerará urbano, conforme a los estudios técnicos correspondientes, caso en el cual, el título de concesión otorgado para el servicio público de transporte suburbano y foráneo, se modificará en urbano convencional para las rutas correspondientes, con la opinión de los concesionarios del servicio público de transporte que transiten por las rutas involucradas.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 145.
 
-La SEDESU establecerá las especificaciones técnicas y los planes de operación del servicio, los que deberán contener el horario, número y modelo de vehículos para operar la ruta, así como los números económicos asignados a cada despacho. La SEDESU notificará a cada concesionario el plan de operación de la ruta, así como el mecanismo de rotación equitativo.
+La SGG establecerá las especificaciones técnicas y los planes de operación del servicio, los que deberán contener el horario, número y modelo de vehículos para operar la ruta, así como los números económicos asignados a cada despacho. La SGG notificará a cada concesionario el plan de operación de la ruta, así como el mecanismo de rotación equitativo.
 
 ###### Artículo 146.
 
@@ -2011,25 +2647,33 @@ IV. Intervalo de servicio, es el tiempo expresado en minutos, comprendido entre 
 
 V. Despachos, son la salida programada de los vehículos, durante el horario del servicio, conforme a la ruta y la necesidad del mismo y condiciones de calidad a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 148.
 
-Para una mayor supervisión y control del servicio, la SGG podrá auxiliarse de un sistema de monitoreo diseñado por la SEDESU que le facilite la administración de itinerarios, paradas autorizadas, horarios, frecuencias, velocidad y otros elementos de operación; el que servirá de elemento probatorio para aplicar procedimientos administrativos de sanciones por faltas a la presente Ley, su Reglamento y a los parámetros de operación y calidad de servicio fijados por la SEDESU.
+Para una mayor supervisión y control del servicio, la SGG podrá auxiliarse de un sistema de monitoreo propio diseñado por terceros o por la SEBIDES que le facilite la administración de itinerarios, paradas autorizadas, horarios, frecuencias, velocidad y otros elementos de operación; el que servirá de elemento probatorio para aplicar procedimientos administrativos de sanciones por faltas a la presente Ley, su Reglamento y a los parámetros de operación y calidad de servicio fijados por la SGG.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 149.
 
-La SGG podrá modificar los horarios de servicio y ubicación de paradas autorizadas, así como bases de ruta y terminales, previa realización del estudio técnico correspondiente por la SEDESU. La modificación podrá hacerse de oficio por la autoridad competente o a solicitud expresa del concesionario.
+La SGG podrá modificar los horarios de servicio y ubicación de paradas autorizadas, así como bases de ruta y terminales, previa realización del estudio técnico correspondiente por la SEBIDES. La modificación podrá hacerse de oficio por la autoridad competente o a solicitud expresa del concesionario.
 
 ###### Artículo 150.
 
 Los concesionarios podrán enrolar sus vehículos entre las rutas concesionadas de la misma modalidad de servicio, previa notificación a la SGG, del acuerdo celebrado entre concesionarios, con el objeto de racionalizar el uso de los mismos. No podrán enrolarse vehículos amparados bajo una concesión de distinta modalidad de servicio. Si el enrolamiento altera los planes de operación establecidos para la ruta, el contrato referido dispondrá su modificación.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 151.
 
-El itinerario de una ruta o la cantidad de vehículos para operar en una ruta, podrán variarse cuando resulte necesario para la mejora sustancial del servicio, con sustento en los estudios técnicos que al efecto realice la SEDESU. En todo caso, se evitará el crecimiento innecesario de rutas y vehículos o la superposición innecesaria de rutas, en detrimento de la calidad y rentabilidad del servicio.
+El itinerario de una ruta o la cantidad de vehículos para operar en una ruta, podrán variarse cuando resulte necesario para la mejora sustancial del servicio, con sustento en los estudios técnicos que al efecto realice la SGG. En todo caso, se evitará el crecimiento innecesario de rutas y vehículos o la superposición innecesaria de rutas, en detrimento de la calidad y rentabilidad del servicio.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 152.
 
-La SGG podrá implementar, previo estudio técnico de la SEDESU, la reestructuración de las rutas del servicio colectivo, procurando racionalizar el uso de la infraestructura vial existente, así como disminuir la contaminación ambiental. Para (sic) caso de llevar a cabo dicha reestructuración, el reglamento que se derive de la presente Ley establecerá las bases, requisitos y el procedimiento correspondiente.
+La SGG podrá implementar, previo estudio técnico, la reestructuración de las rutas del servicio colectivo, procurando racionalizar el uso de la infraestructura vial existente, así como disminuir la contaminación ambiental. Para caso de llevar a cabo dicha reestructuración, el reglamento que se derive de la presente Ley establecerá las bases, requisitos y el procedimiento correspondiente.
 
 ###### Artículo 153.
 
@@ -2041,27 +2685,37 @@ Los concesionarios del servicio deberán contar con un sistema de recaudo de la 
 
 En caso de que para la prestación de este servicio los concesionarios contraten a un tercero, será supervisada por la SGG, prevaleciendo las mejores condiciones del mercado y eficiencia en el servicio.
 
-En todo caso, la SEDESU deberá tener acceso a la información generada en este sistema.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+En todo caso, la SGG y la SEBIDES deberán tener acceso a la información generada en este sistema.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 155.
 
-El Centro de Control del Sistema de Monitoreo de Flota permitirá la verificación del cumplimiento de los planes de operación establecidos para cada ruta y será administrado por la SEDESU.
+El Centro de Control del Sistema de Monitoreo de Flota permitirá la verificación del cumplimiento de los planes de operación establecidos para cada ruta y será administrado por la SGG.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 156.
 
-Los concesionarios del servicio de transporte público podrán organizarse o asociarse, con enfoque empresarial, dentro de su actividad podrán presentar propuestas a la SEDESU para la formulación de planes y programas tendientes a una mayor eficiencia, seguridad y una óptima, equitativa y racional operación del servicio, en beneficio de los usuarios y de los propios asociados.
+Los concesionarios del servicio de transporte público podrán organizarse o asociarse, con enfoque empresarial, dentro de su actividad podrán presentar propuestas a la SGG para la formulación de planes y programas tendientes a una mayor eficiencia, seguridad y una óptima, equitativa y racional operación del servicio, en beneficio de los usuarios y de los propios asociados.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 157.
 
-Cuando la ejecución de los planes y programas a que se refiere el artículo anterior incida en la prestación de los servicios, los concesionarios deberán obtener de la SEDESU, la aprobación correspondiente e implementarlos en los términos y condiciones que éste lo determine.
+Cuando la ejecución de los planes y programas a que se refiere el artículo anterior incida en la prestación de los servicios, los concesionarios deberán obtener de la SGG, la aprobación correspondiente e implementarlos en los términos y condiciones que este lo determine.
 
 ###### Artículo 158.
 
 Los concesionarios podrán celebrar convenios y organizarse entre sí o con terceros, así como constituir sociedades, uniones, o asociaciones que contribuyan a ofrecer un servicio de mayor eficiencia, rentabilidad y calidad, previa autorización de las bases, por la SGG, que en todo caso lo hará en observancia de los principios aludidos en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 159.
 
-Las personas morales concesionarias y las que agrupen a los concesionarios, están obligadas a llevar un registro de sus integrantes y a hacer del conocimiento de la SEDESU cualquier cambio o modificación.
+Las personas morales concesionarias y las que agrupen a los concesionarios, están obligadas a llevar un registro de sus integrantes y a hacer del conocimiento de la SGG cualquier cambio o modificación.
 
 En caso de transmisión de acciones o partes sociales de las personas morales concesionarias, éstas tendrán la obligación de informar a la SGG, a efecto de modificar los registros, salvaguardar la correcta y continua prestación de los servicios y evitar la creación de prácticas monopólicas.
 
@@ -2075,21 +2729,29 @@ El servicio de transporte urbano, también podrá prestarse a través de rutas c
 
 El servicio de rutas convencionales, es aquel cuyas rutas de manera individual satisfacen un origen y destino, pagando el usuario por cada viaje la tarifa autorizada.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 162.
 
-En el servicio de rutas convencionales, la SGG acordará con los concesionarios las medidas pertinentes para mantener el equilibrio entre la oferta y la demanda y evitar la superposición innecesaria de rutas, así como la sobreoferta del servicio, con base en los estudios técnicos de la SEDESU.
+En el servicio de rutas convencionales, la SGG acordará con los concesionarios las medidas pertinentes para mantener el equilibrio entre la oferta y la demanda y evitar la superposición innecesaria de rutas, así como la sobreoferta del servicio, con base en los estudios técnicos.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 163.
 
-En caso de superposición innecesaria de rutas, podrán ser establecidas por la SEDESU las Rutas Únicas, de conformidad con los estudios técnicos que realice y porque así convenga al sistema de transporte en una ciudad, cuando identifique que dos o más rutas concurren en un tramo determinado y se estén presentando condiciones de sobreoferta que afecte la operación y rentabilidad del servicio en perjuicio de las concesiones, en cuyo caso otorgará una sola concesión, en los términos que se establezcan en el Reglamento que se derive de la presente Ley.
+En caso de superposición innecesaria de rutas, podrán ser establecidas por la SGG las Rutas Únicas, de conformidad con los estudios técnicos que realice y porque así convenga al sistema de transporte en una ciudad, cuando identifique que dos o más rutas concurren en un tramo determinado y se estén presentando condiciones de sobreoferta que afecte la operación y rentabilidad del servicio en perjuicio de las concesiones, en cuyo caso otorgará una sola concesión, en los términos que se establezcan en el Reglamento que se derive de la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 164.
 
-La SEDESU establecerá los planes de operación para cada una de las rutas convencionales del servicio de transporte público colectivo urbano convencional que consistirá en ajustar la oferta a las condiciones cambiantes de la demanda durante el día, pudiendo aumentar o disminuir la flota vehicular autorizada, según corresponda.
+La SGG establecerá los planes de operación para cada una de las rutas convencionales del servicio de transporte público colectivo urbano convencional que consistirá en ajustar la oferta a las condiciones cambiantes de la demanda durante el día, pudiendo aumentar o disminuir la flota vehicular autorizada, según corresponda.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 165.
 
-Los concesionarios del servicio de transporte público colectivo urbano convencional, podrán proponer su plan de operación ante la SEDESU, quien revisará la propuesta y, en su caso, aprobará o modificará dicho plan.
+Los concesionarios del servicio de transporte público colectivo urbano convencional, podrán proponer su plan de operación ante la SGG, quien revisará la propuesta y, en su caso, aprobará o modificará dicho plan.
 
 #### Sección II. Del Transporte Suburbano y Foráneo
 
@@ -2101,7 +2763,9 @@ I. Primera. Es el que se proporciona con vehículos equipados con aire acondicio
 
 II. Segunda. Es el que se proporciona con vehículos convencionales, con características básicas de comodidad, seguridad e higiene.
 
-Los tipos de vehículos, sus características y especificaciones técnicas para la operación del servicio en las rutas de cada modalidad de servicio se establecerán en las normas reglamentarias de esta Ley. La tarifa será diferenciada entre ambas categorías y se sustentará en los estudios técnicos que para este efecto realice la SEDESU.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Los tipos de vehículos, sus características y especificaciones técnicas para la operación del servicio en las rutas de cada modalidad de servicio se establecerán en las normas reglamentarias de esta Ley. La tarifa será diferenciada entre ambas categorías y se sustentará en los estudios técnicos que para este efecto realice la SEBIDES.
 
 ###### Artículo 167.
 
@@ -2133,9 +2797,11 @@ Los conductores en el servicio público de transporte escolar deberán cursar y 
 
 La SGG supervisará que el conductor cuente con la constancia de capacitación vigente, emitida por una institución previamente autorizada por la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 172.
 
-La SEDESU establecerá en el Manual de Especificaciones Técnicas, que los vehículos de transporte escolar, permitan mejorar las condiciones de seguridad, comodidad e higiene de sus usuarios, así como establecer las características para su identificación y control.
+La SGG establecerá en el Manual de Especificaciones Técnicas, que los vehículos de transporte escolar, permitan mejorar las condiciones de seguridad, comodidad e higiene de sus usuarios, así como establecer las características para su identificación y control.
 
 Se podrán modificar vehículos respecto a sus características originales de fábrica con la intención de dar mayor capacidad de pasajeros, así como el cambio de ubicación o distribución de asientos, previa autorización de la SGG.
 
@@ -2213,9 +2879,11 @@ Las tarifas a aplicar por los transportistas de personas de alquiler o taxi, ser
 
 El servicio de transporte público de taxi se prestará con vehículos motorizados y se sujetará a las disposiciones contenidas en la presente Ley y las normas reglamentarias que de ésta emanen, así como a los lineamientos y normas técnicas que al efecto expida el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 186.
 
-La SEDESU establecerá y autorizará medidas para la implementación de tecnología que contribuya a elevar la calidad, seguridad y accesibilidad del servicio público de taxi, así como facilitar y transparentar la aplicación de tarifas.
+La SGG establecerá y autorizará medidas para la implementación de tecnología que contribuya a elevar la calidad, seguridad y accesibilidad del servicio público de taxi, así como facilitar y transparentar la aplicación de tarifas.
 
 ###### Artículo 187.
 
@@ -2233,15 +2901,21 @@ Se entenderá como Sistema de Bicicleta Pública a los Sistemas de Transporte P�
 
 Este servicio podrá complementar el SIT para satisfacer la demanda de viajes cortos en la ciudad de manera eficiente. Quienes utilicen este Sistema, podrán acceder a una bicicleta en una ciclo-estación o zona de estacionamiento definida y dejarla en una estación distinta.
 
-El Ejecutivo del Estado a través de la SEDESU será el rector para la planeación, la operación y la supervisión de los Sistemas de Bicicleta Pública en el estado, de acuerdo a la presente Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+El Ejecutivo del Estado a través de la SEBIDES será el rector para la planeación, la operación y la supervisión de los Sistemas de Bicicleta Pública en el estado, de acuerdo a la presente Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 190.
 
-Todo lo relacionado con el funcionamiento del Sistema, como tecnología, los polígonos de servicio, los horarios, las especificaciones del servicio, de la tarifa, cobros y las condiciones de uso y demás especificaciones, estarán establecidos en los lineamientos que expida la SEDESU y el Reglamento de la presente Ley.
+Todo lo relacionado con el funcionamiento del Sistema, como tecnología, los polígonos de servicio, los horarios, las especificaciones del servicio, de la tarifa, cobros y las condiciones de uso y demás especificaciones, estarán establecidos en los lineamientos que expida la SEBIDES y el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 191.
 
-La SEDESU será la responsable de monitorear la operación del Sistema y el cumplimiento de los niveles de servicios incluidos en el contrato de operación y mantenimiento con la empresa operadora, y en su caso aplicar las sanciones y multas por su incumplimiento.
+La SEBIDES será la responsable de monitorear la operación del Sistema y el cumplimiento de los niveles de servicios incluidos en el contrato de operación y mantenimiento con la empresa operadora, y en su caso aplicar las sanciones y multas por su incumplimiento.
 
 ###### Artículo 192.
 
@@ -2273,9 +2947,11 @@ III. Carga especializada.
 
 Para este tipo de servicio, se requiere contar con la concesión correspondiente, que extenderá la SGG, a quien cumpla con los requisitos establecidos en el Reglamento y demás instrumentos que se deriven de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 196.
 
-La vida útil de los vehículos para prestar el servicio público de transporte de carga, estará sujeta a las revisiones físicas y electromecánicas por parte de la SEDESU, conforme a lo que establece la presente Ley y su reglamento.
+La vida útil de los vehículos para prestar el servicio público de transporte de carga, estará sujeta a las revisiones físicas y electromecánicas por parte de la SGG, conforme a lo que establece la presente Ley y su reglamento.
 
 Los concesionarios y permisionarios deberán iniciar la prestación del servicio con vehículos en condiciones óptimas determinadas por las revisiones indicadas en el párrafo anterior.
 
@@ -2283,9 +2959,11 @@ Los concesionarios y permisionarios deberán iniciar la prestación del servicio
 
 Los vehículos para prestar el servicio público de transporte de carga deberán cumplir con los lineamientos y características técnicas y de operación que para cada modalidad determinen las normas reglamentarias de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 198.
 
-Los prestadores de este servicio de transporte público, podrán asociarse o celebrar convenios de coordinación para brindar un mejor servicio y reducir los costos de operación en las formas autorizadas por la Ley. De dichos convenios, se dará visto a la SEDESU, para efecto de registro.
+Los prestadores de este servicio de transporte público, podrán asociarse o celebrar convenios de coordinación para brindar un mejor servicio y reducir los costos de operación en las formas autorizadas por la Ley. De dichos convenios, se dará visto a la SGG, para efecto de registro.
 
 ###### Artículo 199.
 
@@ -2349,15 +3027,19 @@ XI. Los estacionamientos públicos.
 
 Las terminales de pasajeros son aquellas en que se efectúa la salida y llegada de vehículos para el ascenso y descenso de viajeros, así como los lugares predeterminados en los cuales los vehículos destinados al transporte de pasajeros tengan su concentración para la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 206.
 
-El Ejecutivo del Estado, por conducto la SEDESU, está facultado para establecer, en coordinación con la autoridad municipal, estaciones terminales necesarias para el aprovechamiento del sistema de transporte, mediante el otorgamiento de concesiones a personas físicas y morales para su construcción y explotación y en igualdad de circunstancias a las sociedades integradas por concesionarios del servicio público del transporte. Del mismo modo, el Ejecutivo Estatal o los Ayuntamientos, podrán decidir que este servicio sea prestado a través de una dependencia o empresa de participación estatal mayoritaria o municipal.
+El Ejecutivo del Estado, por conducto la SGG, está facultado para establecer, en coordinación con la autoridad municipal, estaciones terminales necesarias para el aprovechamiento del sistema de transporte, mediante el otorgamiento de concesiones a personas físicas y morales para su construcción y explotación y en igualdad de circunstancias a las sociedades integradas por concesionarios del servicio público del transporte. Del mismo modo, el Ejecutivo Estatal o los Ayuntamientos, podrán decidir que este servicio sea prestado a través de una dependencia o empresa de participación estatal mayoritaria o municipal.
 
 ###### Artículo 207.
 
 Las concesiones señaladas en el presente capítulo, estarán sujetas a las causas, procesos de adjudicación, prórrogas, revocación y cancelación para prestación del servicio de transporte público, en los términos de esta Ley, bajo la procuración del beneficio e interés público.
 
-Una vez otorgada la concesión, la construcción de estas instalaciones estará sujeta a la elaboración previa del estudio de impacto vial y urbano, que emita la SEDESU, así como a las condiciones de seguridad y protección del medio ambiente.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Una vez otorgada la concesión, la construcción de estas instalaciones estará sujeta a la elaboración previa del estudio de impacto de movilidad y urbano, que emita la SGG, así como a las condiciones de seguridad y protección del medio ambiente.
 
 ###### Artículo 208.
 
@@ -2367,21 +3049,27 @@ Las terminales de transporte de pasajeros deberán quedar fuera de la vía públ
 
 Son terminales de carga aquellos lugares en los que se efectúa la recepción, almacenamiento y despacho de mercancías; en ellas se realiza el acceso, estacionamiento y salida de los vehículos destinados a este servicio. Las terminales interiores de carga son instalaciones auxiliares al transporte en las que se brindan a terceros servicios de carga y descarga de mercancías y otros complementarios como acarreo, consolidación y des-consolidación de cargas, vigilancia, báscula y custodia de mercancías, debiendo emitir la opinión a las autoridades federales, cuando así corresponda.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 210.
 
-Para la ubicación de las terminales interiores o de carga y mixtos en los municipios del Estado, deberá recabarse la autorización del uso de suelo por parte de la autoridad municipal, quien conforme a su Programa de Desarrollo Urbano y Programa de Movilidad correspondiente, podrá recomendar su construcción en lugares determinados y en coordinación con las autoridades la SEDESU para la autorización relativa al impacto vial, urbano y ambiental.
+Para la ubicación de las terminales interiores o de carga y mixtos en los municipios del Estado, deberá recabarse la autorización del uso de suelo por parte de la autoridad municipal, quien conforme a su Programa de Desarrollo Urbano y Programa de Movilidad correspondiente, podrá recomendar su construcción en lugares determinados y en coordinación con las autoridades la SEBIDES para la autorización relativa al impacto de movilidad, urbano y ambiental.
 
 ###### Artículo 211.
 
 El Estado y los municipios, en sus respectivos ámbitos de competencia, podrán otorgar inmuebles en arrendamiento o comodato para destinarlos a la instalación de patios de encierro, estaciones y terminales de pasajeros, paraderos, estaciones intermodales, carriles confinados y demás infraestructura que requiera para la prestación del servicio de transporte público, los cuales serán considerados de utilidad pública, a fin de promover el uso de los sistemas de transporte, desincentivar el uso de los vehículos particulares y fomentar una política de movilidad urbana.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 212.
 
-Para el establecimiento de terminales de pasajeros de competencia federal en jurisdicción del Estado, la autoridad federal deberá previamente obtener el dictamen correspondiente por parte la SEDESU, cumpliendo con los requisitos que este último determine en función de las características de operación vial que requiera dicha terminal, así como cumplir con los requisitos que establezcan las autoridades competentes en materia de construcción.
+Para el establecimiento de terminales de pasajeros de competencia federal en jurisdicción del Estado, la autoridad federal deberá previamente obtener el dictamen correspondiente por parte la SGG, cumpliendo con los requisitos que este último determine en función de las características de operación vial que requiera dicha terminal, así como cumplir con los requisitos que establezcan las autoridades competentes en materia de construcción.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 213.
 
-Por centro de trasferencia modal, se entiende la terminal o la instalación con características especiales autorizada por la SEDESU, en donde convergen dos o más líneas del servicio de transporte público y en la cual el usuario puede transbordar de una a otra, o bien que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte.
+Por centro de trasferencia modal, se entiende la terminal o la instalación con características especiales autorizada por la SGG, en donde convergen dos o más líneas del servicio de transporte público y en la cual el usuario puede transbordar de una a otra, o bien que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte.
 
 ###### Artículo 214.
 
@@ -2411,55 +3099,47 @@ VI. Contar con accesos seguros y cómodos que no obstruyan o alteren el tránsit
 
 VII. Las demás señaladas en las disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 217.
 
-Las escuelas de manejo son establecimientos dedicados a impartir cursos y clases de manejo de vehículos, que requieren autorización de la SEDESU, previo el cumplimiento de los requisitos establecidos en el Reglamento que se derive de esta Ley, en el cual se establecerán las modalidades de operación, los programas de enseñanza y los mecanismos de verificación de dichas escuelas.
+Las escuelas de manejo son establecimientos dedicados a impartir cursos y clases de manejo de vehículos, que requieren autorización de la SEBIDES, previo el cumplimiento de los requisitos establecidos en el Reglamento que se derive de esta Ley, en el cual se establecerán las modalidades de operación, los programas de enseñanza y los mecanismos de verificación de dichas escuelas.
 
-Las escuelas indicadas en el párrafo anterior, deberán contar con instalaciones necesarias y equipamientos entre los que se encuentran simuladores de manejo, aulas y demás que determine la SESESU, para llevar a cabo la impartición de los cursos o clases teórico-prácticas, mediante los programas y contenidos de estudio que se les indique.
+Las escuelas indicadas en el párrafo anterior, deberán contar con instalaciones necesarias y equipamientos entre los que se encuentran simuladores de manejo, aulas y demás que determine la SEBIDES, para llevar a cabo la impartición de los cursos o clases teórico-prácticas, mediante los programas y contenidos de estudio que se les indique.
 
 ###### Artículo 218.
 
 Los centros de capacitación y adiestramiento, son las instalaciones destinadas para enseñar todo lo relacionado con la conducción, operación y prestación del servicio de los vehículos del transporte público, a fin de facultar a los prestadores de estos para que lo realicen de forma segura, eficiente y pueda contribuir, con alto desempeño, en la Movilidad Sustentable de personas y mercancías.
 
-La SEDESU promoverá la realización de cursos de capacitación y adiestramiento y actualización, para todos aquellos conductores de vehículos destinados a la prestación del servicio público y privado de transporte.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+La SGG promoverá la realización de cursos de capacitación y adiestramiento y actualización, para todos aquellos conductores de vehículos destinados a la prestación del servicio público y privado de transporte.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 219.
 
-Las bahías, los cobertizos y demás lugares en los que obligatoriamente se detienen los autobuses y vehículos, para realizar labores de ascenso y descenso de pasajeros, requieren para su autorización, la opinión técnica de los Institutos Municipales de Planeación Urbana o área de desarrollo urbano correspondiente, a solicitud de la SEDESU.
+Las bahías, los cobertizos y demás lugares en los que obligatoriamente se detienen los autobuses y vehículos, para realizar labores de ascenso y descenso de pasajeros, requieren para su autorización, la opinión técnica de los Institutos Municipales de Planeación Urbana o área de desarrollo urbano correspondiente, a solicitud de la SGG.
 
 ###### Artículo 220.
 
 La construcción, operación, administración, mantenimiento y vigilancia de la infraestructura para la prestación del servicio público de transporte y sus servicios complementarios, y de los servicios relacionados con la misma, serán suministrados por el Estado mediante inversión directa o mediante concesión otorgada a particulares, la cual no podrá exceder de un plazo mayor de veinticinco años.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ### CAPÍTULO XIV. DE LA ESTRATEGIA DE LA MODERNIZACIÓN DEL TRANSPORTE PÚBLICO
 
 ###### Artículo 221.
 
-La Estrategia de Modernización del Transporte Público es la definición descripción y desarrollo de los objetivos y acciones estratégicas para la movilidad sustentable, y será un producto derivado del Programa Estatal.
-
-Los principios que regirán la modernización del servicio público de transporte son:
-
-I. Diseño institucional más eficiente en materia de transporte público;
-
-II. Incrementar la cooperación de los operadores de transporte para lograr la máxima eficacia del sistema de transporte público; y
-
-III. La coordinación de los servicios de transporte, de sus tarifas, recaudo y el diseño de mecanismos para alcanzar una red atractiva de servicios públicos de transporte que satisfaga a todos los actores involucrados.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
 ###### Artículo 222.
 
-Para lograr la transformación y modernización del Sistema de Transporte Público Convencional, la SEDESU implementará la Estrategia de Modernización, buscando la integración de manera gradual a los servicios al Sistema Integrado de Transporte.
-
-Este Programa facilitará el paso de los servicios existentes hacia una nueva red conjunta con mayor calidad objetiva, y además que permita un riguroso control y la máxima transparencia en la aplicación y el manejo de los fondos públicos.
-
-Para el cumplimiento de la Estrategia, la SEDESU implementará los mecanismos necesarios para mantener el control sobre el servicio efectivamente prestado y sus costos, además de llevar a cabo las actuaciones de gestión que adecuen las redes, regiones y modelos del Sistema Integrado de Transporte Público a las necesidades de los usuarios en sus diferentes ámbitos territoriales.
-
-El Sistema de Transporte Público Convencional reúne los parámetros de mejora que se exigen a las concesiones actuales para darles continuidad.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
 ###### Artículo 223.
 
-Los mecanismos de transición del sistema de transporte público convencional al SIT deberán ser desarrollados para fortalecer sus condiciones de operación como empresas.
-
-La SEDESU deberá impulsar la asociación, coordinación y colaboración de los concesionarios a través de fondos o esquemas financieros para la consecución de economías de escala, benéficas para todos y la mejor satisfacción de los intereses que les sean comunes.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2024)
 
 ## TÍTULO NOVENO. DEL SISTEMA INTEGRADO DE TRANSPORTE PÚBLICO DE SINALOA
 
@@ -2471,13 +3151,19 @@ El Sistema Integrado de Transporte de Sinaloa es el conjunto de componentes que 
 
 El SIT realizará progresivamente la integración y coordinación de las diferentes modalidades de servicio de transporte público de personas, facilitando al usuario una movilidad con el menor número de interrupciones, que supere las diferentes competencias administrativas y propicie la máxima calidad que la tecnología de transporte puede ofrecer.
 
-El SIT se integrará por los concesionarios y permisionarios de las distintas modalidades de transporte público de pasajeros regulados en esta Ley, integrados en persona moral, quienes deberán demostrar, a criterio de la SEDESU, que cuentan con la capacidad de brindar el servicio a través de lo establecido en el Capítulo II, De las Concesiones del Sistema Integrado de Transporte.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-El Ejecutivo del Estado, a través de la SGG y la SEDESU, en el ámbito de sus atribuciones, llevarán a cabo las acciones legales, administrativas y de operación necesarias para que el transporte público de personas se integre al SIT.
+El SIT se integrará por los concesionarios y permisionarios de las distintas modalidades de transporte público de pasajeros regulados en esta Ley, integrados en persona moral, quienes deberán demostrar, a criterio de la SEBIDES y la SGG, que cuentan con la capacidad de brindar el servicio a través de lo establecido en el Capítulo II, De las Concesiones del Sistema Integrado de Transporte.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+El Ejecutivo del Estado, a través de la SGG y la SEBIDES, en el ámbito de sus atribuciones, llevarán a cabo las acciones legales, administrativas y de operación necesarias para que el transporte público de personas se integre al SIT.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 225.
 
-La SEDESU, presentará al Ejecutivo del Estado, los esquemas financieros y propuestas tecnológicas que permitan una recaudación centralizada de los recursos del pago de la tarifa a través de medios electrónicos, cámara de compensación y demás elementos necesarios en un modelo integrado e interoperable de transporte, sistema que será contratado por los concesionarios del servicio, quienes lo administrarán y operarán de forma directa, o a través de un tercero.
+La SGG con apoyo de la SEBIDES, presentará al Ejecutivo del Estado, los esquemas financieros y propuestas tecnológicas que permitan una recaudación centralizada de los recursos del pago de la tarifa a través de medios electrónicos, cámara de compensación y demás elementos necesarios en un modelo integrado e interoperable de transporte, sistema que será contratado por los concesionarios del servicio, quienes lo administrarán y operarán de forma directa, o a través de un tercero.
 
 La cámara de compensación a que se refiere el párrafo anterior, es la entidad central responsable de la conciliación de los ingresos producto del uso de soluciones y sistemas tecnológicos en el pago electrónico de la prestación del servicio del transporte público de personas.
 
@@ -2545,7 +3231,9 @@ III. Tarifaria. Es el pago de una tarifa que permita al usuario el transbordo en
 
 En caso de que para la prestación de este servicio los concesionarios contraten a un tercero, será supervisada por la SGG, prevaleciendo las mejores condiciones del mercado y eficiencia en el servicio.
 
-En todo caso, la SEDESU deberá tener acceso a la información generada en este sistema.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+En todo caso, la SEBIDES y la SGG deberán tener acceso a la información generada en este sistema.
 
 ###### Artículo 230.
 
@@ -2563,9 +3251,11 @@ El SIT se complementará con una infraestructura tecnológica y física que faci
 
 La infraestructura de este sistema deberá considerar también equipamiento y obra física que facilite el desplazamiento de personas con capacidades diferentes.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 231.
 
-Para la operación del modelo del SIT, la SEDESU tomará las medidas pertinentes para mantener el equilibrio entre la oferta y la demanda y evitar la superposición innecesaria de rutas, así como el sobre oferta del servicio. Para este caso podrán ser establecidas por la SEDESU, de conformidad con los estudios técnicos y los PIMUS, y porque así convenga al sistema de transporte en una ciudad, cuando identifique que dos o más rutas concurren en un tramo determinado y se estén presentando condiciones de sobre oferta que afecte la operación y rentabilidad del servicio en perjuicio de las concesiones, en cuyo caso otorgará una sola concesión, en los términos que se establezcan en el Reglamento que se derive de la presente Ley.
+Para la operación del modelo del SIT, la SGG tomará las medidas pertinentes para mantener el equilibrio entre la oferta y la demanda y evitar la superposición innecesaria de rutas, así como el sobre oferta del servicio. Para este caso podrán ser establecidas por la SGG con apoyo de la SEBIDES, de conformidad con los estudios técnicos y los PIMUS, y porque así convenga al sistema de transporte en una ciudad, cuando identifique que dos o más rutas concurren en un tramo determinado y se estén presentando condiciones de sobre oferta que afecte la operación y rentabilidad del servicio en perjuicio de las concesiones, en cuyo caso otorgará una sola concesión, en los términos que se establezcan en el Reglamento que se derive de la presente Ley.
 
 ###### Artículo 232.
 
@@ -2577,7 +3267,9 @@ En el SIT, la remuneración a los concesionarios podrá realizarse ya sea por di
 
 Para la prestación del servicio público de transporte de personas dentro del SIT, se requiere de concesión exclusiva, otorgada en los términos de esta Ley y su Reglamento, atendiendo siempre al interés público.
 
-Las personas morales integradas por concesionarios y permisionarios en términos de esta Ley, que pretendan obtener concesiones para operar servicios de transporte del SIT, deberán demostrar, a criterio de la SEDESU, que cuentan con la capacidad de brindar el servicio a través de:
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Las personas morales integradas por concesionarios y permisionarios en términos de esta Ley, que pretendan obtener concesiones para operar servicios de transporte del SIT, deberán demostrar, a criterio de la SEBIDES y la SGG, que cuentan con la capacidad de brindar el servicio a través de:
 
 I. Infraestructura: Instalaciones administrativas, operativas y de servicio que establezca el Reglamento para cada modalidad;
 
@@ -2589,7 +3281,9 @@ IV. Régimen de seguridad para operadores: Contar con conductores contratados en
 
 V. Operadores especializados: Personal autorizado con entrenamiento teórico-práctico para la operación de los servicios del SIT, que cuenten con la autorización respectiva; y
 
-VI. Garantía de cumplimiento: Para garantizar el cumplimiento de sus obligaciones y las responsabilidades pecuniarias en que pudiera incurrir, el concesionario deberá presentar cuando la SEDESU lo considere oportuno, garantía por la suma que se fije en el título.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VI. Garantía de cumplimiento: Para garantizar el cumplimiento de sus obligaciones y las responsabilidades pecuniarias en que pudiera incurrir, el concesionario deberá presentar cuando la SGG lo considere oportuno, garantía por la suma que se fije en el título.
 
 Una vez que se apruebe la solicitud del interesado, la autoridad concederá el plazo que estime prudente, a fin de que el concesionario acredite materialmente que reúne todos los requisitos a que se refieren las Fracciones anteriores, en caso contrario quedará sin efectos la solicitud realizada.
 
@@ -2599,9 +3293,11 @@ La persona moral integrada por concesionarios y permisionarios en términos de e
 
 El procedimiento administrativo, las formalidades, resoluciones y plazos aplicables en el otorgamiento de las concesiones para ingresar al SIT, incluyendo las de los servicios auxiliares y conexos, se establecerán en el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 235.
 
-Las concesiones para operar en el SIT serán otorgadas por el Ejecutivo Estatal, con el soporte técnico previo de la SEDESU, de acuerdo con lo que se establezca en esta Ley y su Reglamento.
+Las concesiones para operar en el SIT serán otorgadas por el Ejecutivo Estatal, con el soporte técnico previo de la SEBIDES, de acuerdo con lo que se establezca en esta Ley y su Reglamento.
 
 Las concesiones del SIT serán intransferibles y sólo podrán hacer uso de ellas las personas morales a quienes se hayan otorgado; cualquier actuación que tenga por efecto transmitir o realizar cualquier acto traslativo de dominio de una concesión entre particulares, será nulo y no surtirá efecto legal alguno. Los Fedatarios Públicos se abstendrán de protocolizar cualquier actuación que tenga por efecto transmitir o realizar cualquier acto traslativo de dominio sobre una concesión, debiendo dar aviso a la SGG dentro de los cinco días siguientes al que haya tenido conocimiento.
 
@@ -2609,9 +3305,11 @@ Las concesiones del SIT serán intransferibles y sólo podrán hacer uso de ella
 
 Las concesiones del SIT se podrán otorgar de acuerdo con los requerimientos establecidos en este Capítulo, y deberá ser acorde con las bases en las necesidades del servicio contenidas en el marco del Programa de Movilidad Estatal y Municipales.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 237.
 
-La SEDESU dentro de los lineamientos operativos, tendrá qué describir las características físico-mecánicas con las que deberán contar los vehículos que se utilicen dentro del SIT.
+La SGG dentro de los lineamientos operativos, tendrá qué describir las características físico-mecánicas con las que deberán contar los vehículos que se utilicen dentro del SIT.
 
 ###### Artículo 238.
 
@@ -2623,9 +3321,11 @@ II. Solicitarla seis meses antes a la conclusión de la vigencia de la concesió
 
 III. En su caso, aceptar expresamente y por escrito las modificaciones que se establezcan a la concesión.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 239.
 
-La SEDESU o los terceros facultados por ésta, otorgarán la autorización correspondiente a los operadores que aprueben los programas de entrenamiento teórico práctico para la operación de vehículos del SIT, conforme a lo que determine el Reglamento y los lineamientos operativos.
+La SGG o los terceros facultados por esta, otorgarán la autorización correspondiente a los operadores que aprueben los programas de entrenamiento teórico práctico para la operación de vehículos del SIT, conforme a lo que determine el Reglamento y los lineamientos operativos.
 
 ###### Artículo 240.
 
@@ -2663,7 +3363,11 @@ XV. Destinar en los vehículos de transporte colectivo, el diez por ciento de lo
 
 XVI. Los vehículos de transporte colectivo deberán estar adaptados para el ascenso y descenso de personas con movilidad limitada;
 
-XVII. Los vehículos de transporte colectivo deberán contar con equipo especializado que facilite su uso a cualquier persona con discapacidad; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XVII. Los vehículos de transporte colectivo deberán contar con equipo especializado que facilite su uso a cualquier persona con discapacidad.
+
+Asimismo, deberán destinar el 20 por ciento de los asientos para uso exclusivo de mujeres, los cuales deberán ser de color naranja, y contener un emblema o leyenda para su identificación. Todos estos asientos deberán estar situados cerca de la puerta de acceso; y
 
 XVIII. Las demás que señalen esta Ley, su Reglamento, los lineamientos de operación, la concesión y otras disposiciones jurídicas aplicables.
 
@@ -2683,9 +3387,11 @@ Las concesiones que se otorguen para explotar un sistema de rutas integradas, op
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 243.
 
-Concesión de (sic) servicio público de transporte, es la autorización que otorga el Ejecutivo del Estado, a través de la SGG con soporte en los estudios técnicos de la SEDESU, en los términos de la presente Ley y su Reglamento, para prestar el servicio público de transporte de personas y de sus pertenencias o bienes en los centros poblados y caminos del Estado de Sinaloa. Los requisitos y procedimientos estarán establecidos en el Reglamento que se derive de este ordenamiento.
+Concesión de servicio público de transporte, es la autorización que otorga el Ejecutivo del Estado, a través de la SGG con soporte en los estudios técnicos, en los términos de la presente Ley y su Reglamento, para prestar el servicio público de transporte de personas y de sus pertenencias o bienes en los centros poblados y caminos del Estado de Sinaloa. Los requisitos y procedimientos estarán establecidos en el Reglamento que se derive de este ordenamiento.
 
 ###### Artículo 244.
 
@@ -2699,9 +3405,11 @@ III. Las sociedades en las que cualquiera de los mencionados en las dos fraccion
 
 IV. A los extranjeros y a los menores de edad.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 245.
 
-El otorgamiento de la concesión o permisos para la prestación del servicio de transporte público de pasajeros, permiso de ruta o zona se realizará conforme a lo que determinen los estudios técnicos que realice la SEDESU, estimando, entre otros, el número de unidades que sean necesarias para prestar en forma eficiente el servicio público de transporte, procurando que los autorizados para explotar la ruta o zona obtengan un retorno razonable de las inversiones realizadas, que les permita mantener las unidades en condiciones óptimas para la prestación del servicio.
+El otorgamiento de la concesión o permisos para la prestación del servicio de transporte público de pasajeros, permiso de ruta o zona se realizará conforme a lo que determinen los estudios técnicos que realice la SGG, estimando, entre otros, el número de unidades que sean necesarias para prestar en forma eficiente el servicio público de transporte, procurando que los autorizados para explotar la ruta o zona obtengan un retorno razonable de las inversiones realizadas, que les permita mantener las unidades en condiciones óptimas para la prestación del servicio.
 
 ###### Artículo 246.
 
@@ -2757,9 +3465,11 @@ Los permisos de ruta o zona que se expidan para las concesiones a personas físi
 
 Las personas físicas o morales podrán ser titulares de diversas concesiones y permisos de servicio de transporte público, siempre y cuando no se incurra en prácticas monopólicas o en concentración indebida que representen barreras a la libre concurrencia y a la competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 251.
 
-El refrendo es la revalidación anual que otorga la SGG por petición del concesionario para continuar prestando el servicio con los vehículos previamente autorizados, en los periodos y condiciones que la SEDESU en coordinación con la SAF determine al efecto, cubriendo los derechos fiscales correspondientes, así como al cumplimiento de los requisitos y condiciones que para tal efecto dispongan las normas reglamentarias que de la misma se deriven.
+El refrendo es la revalidación anual que otorga la SGG por petición del concesionario para continuar prestando el servicio con los vehículos previamente autorizados, en los periodos y condiciones que se determinen en coordinación con la SAF determine al efecto, cubriendo los derechos fiscales correspondientes, así como al cumplimiento de los requisitos y condiciones que para tal efecto dispongan las normas reglamentarias que de la misma se deriven.
 
 Las placas de circulación y demás elementos que sirvan para la identificación del vehículo son propiedad del Estado y permanecerán en depósito del concesionario o permisionario durante la prestación de la actividad concedida. El Reglamento que se derive de esta Ley, establecerá los requisitos y procedimientos para su registro y tramitación.
 
@@ -2769,9 +3479,11 @@ La SGG, previa opinión del Consejo a que se refiere la presente Ley, podrá dec
 
 Cuando en una ruta cerrada se decrete su apertura, la SGG contando con la opinión del Consejo a que se refiere la presente Ley, dispondrá el incremento del número de unidades en servicio, previo estudio técnico que se realice.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 253.
 
-Cuando en una ruta sea necesario aumentar el número de unidades para la prestación del servicio público de transporte, la SEDESU realizará los estudios técnicos correspondientes, a efecto de que la SGG emita la autorización, de las solicitudes que en su caso se hubiesen presentado, conforme a lo establecido en la presente Ley y en su Reglamento.
+Cuando en una ruta sea necesario aumentar el número de unidades para la prestación del servicio público de transporte, la SEBIDES realizará los estudios técnicos correspondientes, junto con la SGG, a efecto de que la SGG emita la autorización, de las solicitudes que en su caso se hubiesen presentado, conforme a lo establecido en la presente Ley y en su Reglamento.
 
 Para el caso del servicio público de transporte de carga, se hará conforme a una declaratoria de necesidad, en los términos de la presente Ley, su Reglamento y la Convocatoria.
 
@@ -2841,6 +3553,32 @@ X. Por rescate de la concesión, o intervención definitiva del servicio.
 
 El Reglamento de la presente ley fijara el procedimiento para declarar la extinción de las concesiones.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 261 Bis.
+
+Las concesiones y permisos serán revocados por el Ejecutivo del Estado cuando se actualice alguna de las siguientes causas:
+
+I. Por prestar un servicio distinto al establecido en la concesión o permiso;
+
+II. Porque el servicio sea notoriamente deficiente o los vehículos no cumplan con los requisitos de seguridad previstos en la presente Ley y su Reglamento;
+
+III. Por prestar servicio fuera de la ruta que exprese la concesión o permiso;
+
+IV. Por suspensión del servicio sin autorización previa, siempre y cuando dicha suspensión sea imputable al concesionario;
+
+V. Por reincidencia en tercera ocasión del incumplimiento de su horario, tarifa, falta de actualización o funcionamiento en sus sistemas tecnológicos u otras faltas análogas;
+
+VI. Por la comisión intencional de algún hecho delictuoso que merezca pena privativa de libertad, por parte del concesionario o permisionario, cuando el ilícito lo cometa con motivo o durante la prestación del servicio;
+
+VII. Por no cumplir con las sanciones que le sean impuestas, dentro del término al efecto señalado;
+
+VIII. Cuando no se garanticen por parte de los concesionarios y permisionarios las prestaciones y garantías laborales a sus empleados;
+
+IX. Por bloquear las vías estatales y municipales de comunicación terrestre con las unidades autorizadas para prestar el servicio público de transporte como parte de manifestaciones; y
+
+X. Por hacerse cargo el Gobierno del Estado en forma definitiva, de la prestación del servicio público de transporte en una ruta, en forma directa.
+
 ### CAPÍTULO II. DE LAS CONCESIONES DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS
 
 ###### Artículo 262.
@@ -2855,9 +3593,11 @@ I. La explotación de vehículos para una ruta determinada; y
 
 II. La explotación de un sistema de rutas.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 264.
 
-Para obtener una concesión de servicio público de transporte colectivo, además de agotar el procedimiento que en esta Ley se establece, tratándose de personas morales, deberán estar constituidas conforme a las leyes mexicanas, con un objeto social preponderante para la prestación del servicio de transporte público colectivo y conforme a los estatutos previamente aprobados por la SEDESU.
+Para obtener una concesión de servicio público de transporte colectivo, además de agotar el procedimiento que en esta Ley se establece, tratándose de personas morales, deberán estar constituidas conforme a las leyes mexicanas, con un objeto social preponderante para la prestación del servicio de transporte público colectivo y conforme a los estatutos previamente aprobados por la SGG.
 
 #### Sección Única. DE LA TRAMITACIÓN DE LAS CONCESIONES DEL SERVICIO PÚBLICO
 
@@ -2869,17 +3609,21 @@ Para el otorgamiento o modificación de concesiones del servicio público de tra
 
 Las solicitudes para el otorgamiento y modificación de concesiones y permisos de servicio público de transporte de personas, deberán presentarse ante la SGG, dándose la debida publicidad a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso solicitado, a fin de que pueda manifestar a lo que a su derecho convenga.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 267.
 
-Para el otorgamiento de concesiones y permisos para prestar el transporte público de personas, la SEDESU realizara los estudios técnicos y socioeconómicos, para determinar la necesidad y el número de unidades requeridas. Una vez realizados estos estudios y contando con la opinión favorable del Consejo, la SGG resolverá lo correspondiente.
+Para el otorgamiento de concesiones y permisos para prestar el transporte público de personas, la SGG realizará los estudios técnicos y socioeconómicos, para determinar la necesidad y el número de unidades requeridas. Una vez realizados estos estudios y contando con la opinión favorable del Consejo, la SGG resolverá lo correspondiente.
 
 ###### Artículo 268.
 
 Cuando haya falsedad en los informes o documentos que se anexen al procedimiento para obtener una concesión o permiso se anulará sin perjuicio de aplicar al responsable las penas establecidas en las Leyes respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 269.
 
-Para el otorgamiento de concesiones para la prestación del servicio público de transporte de carga, la SEDESU con la opinión del Comité y opinión de dos representantes de los transportistas designados por las organizaciones estatales del transporte de mayor representación debidamente acreditadas ante la SGG, deberá elaborar y someter a la consideración del Gobernador, los proyectos de Declaratoria de Necesidad y de Convocatoria Pública.
+Para el otorgamiento de concesiones para la prestación del servicio público de transporte de carga, la SEBIDES con la opinión del Comité y opinión de dos representantes de los transportistas designados por las organizaciones estatales del transporte de mayor representación debidamente acreditadas ante la SGG, deberá elaborar y someter a la consideración del Gobernador, los proyectos de Declaratoria de Necesidad y de Convocatoria Pública.
 
 La Declaratoria de Necesidad deberá contener:
 
@@ -2895,9 +3639,11 @@ El Gobernador del Estado tomando como base los estudios técnicos y la Declarato
 
 Los participantes que acudan al procedimiento deberán cumplir las bases y lineamientos establecidos en la convocatoria, así como los requisitos que se indiquen en el Reglamento que se derive con la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 270.
 
-La SGG podrá modificar las concesiones del servicio público de transporte urbano colectivo, previo dictamen técnico que emita la SEDESU, en los siguientes casos:
+La SGG podrá modificar las concesiones del servicio público de transporte urbano colectivo, previo dictamen técnico, en los siguientes casos:
 
 I. Se requiera la modificación definitiva del itinerario de una ruta;
 
@@ -2933,11 +3679,13 @@ Los actos mediante los cuales pretendan gravarse o enajenarse los permisos, así
 
 La tarifa es el pago que realiza el usuario del servicio público de transporte a su prestador por el servicio recibido. El Ejecutivo del Estado autorizará las tarifas del servicio público de transporte y sus sistemas de cobro. Previamente, solicitará una opinión no vinculante al Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 275.
 
-El Ejecutivo del Estado, autorizará las tarifas que cobren los prestadores del servicio público de transporte de personas, debiendo ser revisadas durante el segundo bimestre de cada año. Al efecto, la SGG, elaborará el proyecto correspondiente, tomando como referencia para su incremento, el dictamen técnico que elabore la SEDESU, mismo que contendrá los costos, así como los compromisos de mejora de los servicios a cargo de los concesionarios y el porcentaje del Índice Nacional de Precios al Consumidor, calculado y publicado por Banco de México, correspondiente al año inmediato anterior, además, considerará que los autorizados obtengan un retorno de las inversiones realizadas, que les permita mantener las unidades en óptimas condiciones, así como una utilidad razonable, acorde a dicha actividad.
+El Ejecutivo del Estado, autorizará las tarifas que cobren los prestadores del servicio público de transporte de personas, debiendo ser revisadas conforme a los términos y periodicidad establecida en el Reglamento de esta Ley.
 
-Las tarifas del sistema de rutas integradas, se regirán por el modelo financiero aprobado por la SEDESU; si del estudio técnico resulta necesaria una tarifa con cifra fraccionaria, la SGG podrá ajustarla a la cifra inmediata, de acuerdo a la moneda fraccionaria disponible de uso corriente, cuando el pago sea en efectivo. Dicho estudio será turnado al Consejo, a efecto que emita su opinión, la que dirigirá oportunamente al titular del Poder Ejecutivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 276.
 
@@ -2957,7 +3705,9 @@ I. Tarifa general: La que se paga en forma ordinaria por los usuarios;
 
 II. Tarifa preferente: La que cubren los usuarios por encontrarse en alguna de las condiciones particulares o personales a que se refiere la presente Ley; y
 
-III. Tarifa integrada: La que cubren los usuarios de un sistema de rutas integradas, que en su caso se establezca en el servicio urbano, permitiéndoles realizar transbordos entre rutas del sistema con o sin un costo adicional. Cuando se establezcan sistemas de recaudo de la tarifa, las SGG y la SEDESU podrán implementar esquemas que incentiven el pago de la tarifa general a través de este sistema y desincentive su pago en efectivo.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+III. Tarifa integrada: La que cubren los usuarios de un sistema de rutas integradas, que en su caso se establezca en el servicio urbano, permitiéndoles realizar transbordos entre rutas del sistema con o sin un costo adicional. Cuando se establezcan sistemas de recaudo de la tarifa, las SGG y la SEBIDES podrán implementar esquemas que incentiven el pago de la tarifa general a través de este sistema y desincentive su pago en efectivo.
 
 ###### Artículo 279.
 
@@ -2969,23 +3719,31 @@ II. Las personas con discapacidad;
 
 La aplicación de esta tarifa se hará previa identificación, mediante Tarjeta Inteligente, expedida por las dependencias competentes para los programas que se contemplen para tal efecto.
 
-La tarifa preferente, se establecerá con base a un estudio técnico de la SEDESU, que además de considerar el procedimiento y/o criterios señalados en el artículo 274, atenderá las condiciones y características que indiquen los programas que las dependencias competentes determinen, la cual será del cincuenta por ciento de la tarifa general.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+La tarifa preferente, se establecerá con base a un estudio técnico de la SEBIDES, que además de considerar el procedimiento y/o criterios señalados en el artículo 274, atenderá las condiciones y características que indiquen los programas que las dependencias competentes determinen, la cual será del cincuenta por ciento de la tarifa general.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 280.
 
-Los usuarios de una tarifa preferente del servicio público de transporte colectivo, para gozar de este derecho deberán acreditar los requisitos que al efecto establezca la SEDESU, así como las normas reglamentarias que de esta Ley se deriven.
+Los usuarios de una tarifa preferente del servicio público de transporte colectivo, para gozar de este derecho deberán acreditar los requisitos que al efecto establezca la SGG, así como las normas reglamentarias que de esta Ley se deriven.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 281.
 
-En el servicio público de transporte colectivo, cuando se establezcan sistemas de recaudo de la tarifa, el único medio para hacer válida la tarifa preferente será a través del documento y medio de pago que determine la SEDESU, cumpliendo con los requisitos a que hace referencia el artículo que antecede.
+En el servicio público de transporte colectivo, cuando se establezcan sistemas de recaudo de la tarifa, el único medio para hacer válida la tarifa preferente será a través del documento y medio de pago que determine la SGG, cumpliendo con los requisitos a que hace referencia el artículo que antecede.
 
 ###### Artículo 282.
 
 La tarifa en el servicio de transporte suburbano y foráneo se autorizará para cada destino y sus principales puntos intermedios del recorrido de la ruta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 283.
 
-La SEDESU podrá establecer un sistema automatizado de control de la tarifa para el servicio público de taxi.
+La SGG podrá establecer un sistema automatizado de control de la tarifa para el servicio público de taxi.
 
 Los concesionarios que no cuenten con este sistema deberán colocar en un lugar visible del vehículo las tarifas autorizadas para el servicio.
 
@@ -3069,9 +3827,11 @@ a) De desastre natural, alteración del orden público o cuando se prevea algún
 
 b) Cuando prevalezca el deterioro de las condiciones de calidad, seguridad, oportunidad, permanencia y continuidad en la prestación del servicio público de transporte.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 290.
 
-El Gobierno del Estado podrá indemnizar a los concesionarios afectados, por la requisa previo avalúo que emita el Comité que para tal efecto integre la SEDESU, cuyo procedimiento estará establecido en el Reglamento correspondiente a esta Ley, mismo que se realizará en un máximo de 90 días. Si no hubiere acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efecto de determinar el monto de la indemnización y si después de 30 días subsiste el desacuerdo entre los peritos, se procederá a reintegrar los bienes requisados. Los derechos de los trabajadores se respetarán conforme a la Ley de la materia.
+El Gobierno del Estado podrá indemnizar a los concesionarios afectados, por la requisa previo avalúo que emita el Comité que para tal efecto integre la SEBIDES, cuyo procedimiento estará establecido en el Reglamento correspondiente a esta Ley, mismo que se realizará en un máximo de 90 días. Si no hubiere acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efecto de determinar el monto de la indemnización y si después de 30 días subsiste el desacuerdo entre los peritos, se procederá a reintegrar los bienes requisados. Los derechos de los trabajadores se respetarán conforme a la Ley de la materia.
 
 ###### Artículo 291.
 
@@ -3123,9 +3883,11 @@ En la vigilancia del servicio público de transporte, participarán también los
 
 ### CAPÍTULO III. DE LA EVALUACIÓN DEL SERVICIO PUBLICO DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 297.
 
-La SEDESU realizará anualmente una evaluación del servicio, a los concesionarios del servicio público de transporte, para lo cual se tomará en consecuencia los siguientes indicadores:
+La SEBIDES realizará anualmente una evaluación del servicio, a los concesionarios del servicio público de transporte, para lo cual se tomará en consecuencia los siguientes indicadores:
 
 I. Operación;
 
@@ -3139,13 +3901,17 @@ V. Infraestructura; y
 
 VI. Los demás que se especifiquen en el reglamento.
 
-Al término de cada evaluación, la SEDESU emitirá un dictamen y notificará al concesionario del transporte del servicio público, el resultado correspondiente con las observaciones, determinaciones, así como los requerimientos y plazos de cumplimiento, en su caso.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Al término de cada evaluación, la SEBIDES emitirá un dictamen y notificará a la SGG quién notificará al concesionario del transporte del servicio público, el resultado correspondiente con las observaciones, determinaciones, así como los requerimientos y plazos de cumplimiento, en su caso.
 
 ###### Artículo 298.
 
 Los conceptos comprendidos en cada indicador serán los determinados por las normas reglamentarias de la presente Ley.
 
-El valor para cada indicador será fijado de manera previa por la SEDESU conforme a las normas reglamentarias que de esta Ley se deriven.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+El valor para cada indicador será fijado de manera previa por la SEBIDES conforme a las normas reglamentarias que de esta Ley se deriven.
 
 ## TÍTULO DÉCIMO CUARTO. DEL SISTEMA VIAL Y TRANSITO EN EL ESTADO
 
@@ -3185,9 +3951,41 @@ V. Dar a conocer, en materia de medio ambiente, las medidas y programas establec
 
 VI. Promover el respeto por los señalamientos existentes en las vías públicas;
 
-VII. Promover la verificación de vehículos automotores con emisiones visiblemente contaminantes y comprobables, así como aquellos que no hayan cumplido con los programas de verificación que se establezcan; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Fomentar la aplicación de auditorías viales e implementar las medidas para atender la problemática detectada.
+VII. Promover la verificación de vehículos automotores con emisiones visiblemente contaminantes y comprobables, así como aquellos que no hayan cumplido con los programas de verificación que se establezcan;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Fomentar la aplicación de auditorías viales e implementar las medidas para atender la problemática detectada;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+IX. Concientizar, especialmente a los conductores de vehículos motorizados, del conocimiento y respeto por las normas de tránsito y dispositivos para el control del tránsito vial por parte de todas las personas usuarias de la vía;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+X. Priorizar el uso de la infraestructura para la movilidad conforme a la jerarquía de la movilidad establecida en esta Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XI. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a las niñas, adolescentes y mujeres en la vía pública, con el fin de prevenir y erradicar las violencias de género en sus desplazamientos por las vías;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XII. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a las personas con discapacidad y con movilidad limitada;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Adoptar desplazamientos sustentables y seguros promoviendo la movilidad activa y no motorizada;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Fomentar el cumplimiento de los programas de verificación y protección al medio ambiente; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XV. Promover la participación ciudadana, de manera igualitaria e incluyente, involucrando activamente a la población en el mejoramiento de su entorno social.
 
 ###### Artículo 302.
 
@@ -3331,41 +4129,59 @@ Queda prohibido instalar cualquier tipo de publicidad o anuncios que no estén a
 
 De igual forma queda prohibido quitar, cortar, inutilizar, apagar, cambiar o destruir las señales o luces de seguridad de una vía de comunicación estatal o que se coloque en la misma alguna no autorizada. Quienes incurran en estos actos, serán objeto de la denuncia penal correspondiente.
 
-### CAPÍTULO IV. DEL IMPACTO VIAL EN EL USO DE LA VÍA PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. DEL IMPACTO DE MOVILIDAD EN EL USO DE LA VÍA PÚBLICA
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 322.
 
-Las instituciones públicas correspondientes, deberán atender las indicaciones de la SEDESU, sobre si procede o no, o bajo qué condiciones, la autorización para la construcción de edificios, obras o establecimiento de instalaciones que por su naturaleza, ubicación o destino, puedan alterar o afectar ostensiblemente, en forma temporal o permanente, las condiciones de vialidad existentes.
+Las instituciones públicas correspondientes, deberán atender las indicaciones de la SEBIDES, sobre si procede o no, o bajo qué condiciones, la autorización para la construcción de edificios, obras o establecimiento de instalaciones que por su naturaleza, ubicación o destino, puedan alterar o afectar ostensiblemente, en forma temporal o permanente, las condiciones de vialidad existentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 323.
 
-La construcción de obras como plazas comerciales, cines, gasolineras, parques industriales y unidades habitacionales u otras que puedan provocar un impacto en la operación regular de las vialidades modificando las condiciones de la movilidad en general en la zona de influencia de dichas construcciones, requerirán de la opinión técnica favorable de la SEDESU, previamente a la autorización de la Licencia de Uso de Suelo, que expide la Autoridad Municipal.
+La construcción de obras como plazas comerciales, cines, gasolineras, parques industriales y unidades habitacionales u otras que puedan provocar un impacto en la operación regular de las vialidades modificando las condiciones de la movilidad en general en la zona de influencia de dichas construcciones, requerirán de la opinión técnica favorable de la SGG, previamente a la autorización de la Licencia de Uso de Suelo, que expide la Autoridad Municipal.
 
 Las autoridades en los permisos para la construcción de obras y edificios públicos y privados, vigilará que éstos cuenten con un número de cajones para el estacionamiento, suficientes para garantizar la demanda que resulte de los mismos.
 
-Para este caso, el solicitante deberá presentar, conjuntamente con el proyecto constructivo, un Estudio o Manifestación de Impacto Vial, que la SEDESU valorará, para orientar su opinión.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Para este caso, el solicitante deberá presentar, conjuntamente con el proyecto constructivo, un Estudio o Manifestación de Impacto de Movilidad, que la SGG valorará, para orientar su opinión.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 324.
 
-Para el caso de construcciones que determine la SEDESU que no afecten de manera significativa los niveles de servicio con el que operan las vialidades colindantes, se hará del conocimiento del interesado de la obra, por lo que quedará exento de la presentación del Estudio o Manifestación de Impacto Vial, referido en el artículo anterior.
+Para el caso de construcciones que determine la SEBIDES que no afecten de manera significativa los niveles de servicio con el que operan las vialidades colindantes, se hará del conocimiento del interesado de la obra, por lo que quedará exento de la presentación del Estudio o Manifestación de Impacto de Movilidad, referido en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 325.
 
-No podrá otorgarse el permiso de construcción sin que previamente se haya presentado el Dictamen de Impacto Vial. Los requisitos y procedimientos para que la SEDESU emita la opinión técnica favorable referida en los artículos precedentes, serán establecidos en el Reglamento de la presente Ley y en los términos de los Reglamentos Municipales en la materia.
+No podrá otorgarse el permiso de construcción sin que previamente se haya presentado el Dictamen de Impacto de Movilidad. Los requisitos y procedimientos para que la SGG emita la opinión técnica favorable referida en los artículos precedentes, serán establecidos en el Reglamento de la presente Ley y en los términos de los Reglamentos Municipales en la materia.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 326.
 
-Los términos en que quedarán regulado el uso de la vía pública, las opiniones técnicas favorables que emitirá la SEDESU, y las condiciones en (sic) podrán ser extendidas por las Autoridades Municipales, previo convenio de coordinación que celebren, se atenderán conforme a los lineamientos que se establecen en el Reglamento de la presente Ley.
+Los términos en que quedarán regulado el uso de la vía pública, las opiniones técnicas favorables que emitirá la SGG, y las condiciones podrán ser extendidas por las Autoridades Municipales, previo convenio de coordinación que celebren, se atenderán conforme a los lineamientos que se establecen en el Reglamento de la presente Ley.
 
 ### CAPÍTULO V. DEL DISEÑO E INFRAESTRUCTURA VIAL
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 327.
 
-Con el objeto de garantizar un funcionamiento adecuado de las vialidades para el tránsito peatonal, ciclista y vehicular, la SEDESU, publicará y mantendrá actualizado el Manual de Diseño e Infraestructura Vial del Estado de Sinaloa.
+Con el objeto de garantizar un funcionamiento adecuado de las vialidades para el tránsito peatonal, ciclista y vehicular, la SEBIDES, publicará y mantendrá actualizado el Manual de Diseño e Infraestructura Vial del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 328.
 
-Es responsabilidad de los ayuntamientos con apoyo de la SEDESU en materia de normatividad dictaminar los señalamientos que serán colocados en las áreas de circulación peatonal y vehicular.
+Es responsabilidad de los ayuntamientos con apoyo de la SEBIDES en materia de normatividad dictaminar los señalamientos que serán colocados en las áreas de circulación peatonal y vehicular.
 
 ###### Artículo 329.
 
@@ -3375,7 +4191,9 @@ En el servicio público de transporte suburbano y foráneo, el Estado y los Muni
 
 Los concesionarios contarán con bases de ruta fuera de la vía pública, en predios delimitados y con al menos área de espera para conductores, baños y depósito para basura.
 
-Igualmente deberán contar con bases de encierro para los vehículos afectos al servicio, las cuales estarán equipadas con áreas administrativas y baños para conductores, así como para lavado y mantenimiento de vehículos. Las bases de encierro deberán cumplir con los requisitos de seguridad, higiene, impacto vial y ambiental que señalen los ordenamientos legales aplicables. Se prohíbe el estacionamiento o pernocta de vehículos en la vía pública.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Igualmente deberán contar con bases de encierro para los vehículos afectos al servicio, las cuales estarán equipadas con áreas administrativas y baños para conductores, así como para lavado y mantenimiento de vehículos. Las bases de encierro deberán cumplir con los requisitos de seguridad, higiene, impacto de movilidad y ambiental que señalen los ordenamientos legales aplicables. Se prohíbe el estacionamiento o pernocta de vehículos en la vía pública.
 
 ###### Artículo 331.
 
@@ -3409,9 +4227,11 @@ No podrá establecerse una denominación en honor a personas que desempeñen un 
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 332.
 
-La SEDESU en coordinación con la SGG, la SAF y los Municipios, en su ámbito de competencia, establecerán, integrarán, organizarán y mantendrán actualizado el Registro de Movilidad, el cual tiene por objeto integrar la información relacionada con el transporte y el tránsito, los datos de los conductores y de los vehículos, para efectos de control, consulta y para apoyar estrategias de planeación en estos ámbitos.
+La SEBIDES en coordinación con la SGG, la SAF y los Municipios, en su ámbito de competencia, establecerán, integrarán, organizarán y mantendrán actualizado el Registro de Movilidad, el cual tiene por objeto integrar la información relacionada con el transporte y el tránsito, los datos de los conductores y de los vehículos, para efectos de control, consulta y para apoyar estrategias de planeación en estos ámbitos.
 
 ###### Artículo 333.
 
@@ -3429,19 +4249,61 @@ Para efectos de control del Registro, las instancias responsables integrarán un
 
 En materia de tránsito, en el Registro de Movilidad referido en el artículo anterior, se inscribirán:
 
-I. Los datos derivados de la emisión de licencias de conducir y del registro de vehículos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-II. Las infracciones y sanciones que se apliquen a los conductores de todo tipo de vehículos;
+I. Los datos derivados de la emisión de licencias de conducir y del registro de vehículos, y seguros registrados por vehículo;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+II. Las infracciones y sanciones que se apliquen a los conductores de todo tipo de vehículos, y cumplimiento de las mismas;
 
 III. Causas o motivos de suspensión o revocación de licencias;
 
 IV. Resoluciones jurisdiccionales en materia administrativa;
 
-V. El historial de infracciones de los conductores; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-VI. Los demás actos y documentos que se señalen en el Reglamento de esta Ley.
+V. El historial de infracciones de los conductores;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VI. Operadores de servicios de transporte;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VII. Conductores de vehículos de servicios de transporte;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Información sobre siniestros de tránsito, con datos que permitan, al menos, geolocalizar el lugar del siniestro a nivel de sitio, conocer el tipo de vehículo involucrado, la existencia de personas lesionadas y de víctimas fatales, por tipo de persona usuaria y sus características sociodemográficas;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+IX. Número de unidades, capacidad y rutas de transporte público o privado;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+X. Alta y baja de placas de vehículos nuevos o usados;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XI. Información respecto de adecuaciones de infraestructura y red vial;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XII. Información sobre los resultados de las auditorías e inspecciones de seguridad vial; y
+
+XIII. Los demás actos y documentos que se señalen en el Reglamento de esta Ley.
 
 El Estado deberá garantizar que la información y datos integrados en el historial de infracciones sean inalterables, y goce de la protección a que se refiere la legislación en materia de protección de datos de particulares en poder de las entidades públicas.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Para el seguimiento, evaluación y control de la política, planes, programas y proyectos en materia de movilidad y seguridad vial, las autoridades competentes mediante, los convenios de coordinación respectivos, remitirán, a través de los organismos y dependencias que correspondan en el ámbito de sus competencias, la información generada en materia de movilidad y seguridad vial.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Dicha información deberá ser remitida en datos georreferenciados y estadísticos, indicadores de movilidad, seguridad vial y gestión administrativa, así como indicadores incluidos en los instrumentos de planeación e información sobre el avance de los proyectos y programas locales.
 
 ###### Artículo 337.
 
@@ -3471,7 +4333,9 @@ XI. Los sistemas de recaudo y de monitoreo;
 
 XII. Los datos de movimientos de pasajeros y volúmenes de carga movilizados que deberán proporcionar los concesionarios y permisionarios del servicio público de transporte, en sus diferentes modalidades, en los términos del Reglamento de la presente Ley; y
 
-XIII. Las demás que definan las SGG y la SEDESU, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Las demás que definan las SGG y la SEBIDES, en el ámbito de su competencia.
 
 Los ciudadanos tendrán acceso a la información contenida en el Registro, en los términos establecidos en la Ley de la materia.
 
@@ -3545,9 +4409,11 @@ Las placas y tarjetas de circulación deberán ser siempre legibles y en su defe
 
 La baja definitiva del registro del vehículo sólo operará como consecuencia de la substitución del vehículo por otro que se destine al mismo servicio o por cancelación o revocación de la concesión o permiso correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 347.
 
-Las unidades destinadas a la prestación del servicio público de transporte de personas portarán para su fácil identificación, el color o combinación de colores, número de permiso y razón social, placas y número económico, si procediere en su caso, establecidos por la SEDESU.
+Las unidades destinadas a la prestación del servicio público de transporte de personas portarán para su fácil identificación, el color o combinación de colores, número de permiso y razón social, placas y número económico, si procediere en su caso, establecidos en el Manual de Especificaciones Técnicas.
 
 En los tipos de servicio que así lo requieran, deberán contar con el equipo adicional y especializado necesario para el servicio autorizado, lo que quedara precisado en el Reglamento de la presente Ley.
 
@@ -3777,9 +4643,11 @@ Las personas que tengan licencia para conducir expedida por autoridades de otras
 
 #### Sección IV. De los Permisos para Conducir
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 380.
 
-Cuando por alguna causa justificada no se pudiere obtener la licencia de manejar correspondiente en tiempo y forma, la SEDESU podrá otorgar permisos provisionales para conducir sin tal documento, de acuerdo con los términos y requisitos que establezca el Reglamento.
+Cuando por alguna causa justificada no se pudiere obtener la licencia de manejar correspondiente en tiempo y forma, la SGG podrá otorgar permisos provisionales para conducir sin tal documento, de acuerdo con los términos y requisitos que establezca el Reglamento.
 
 ## TÍTULO DÉCIMO OCTAVO. DE LOS VEHÍCULOS
 
@@ -3891,9 +4759,11 @@ Sin perjuicio de lo dispuesto en las demás disposiciones contenidas en esta Ley
 
 ### CAPÍTULO IV. DE LAS MEDIDAS AMBIENTALES Y ECOLÓGICAS PARA EL TRÁNSITO DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 396.
 
-Las medidas preventivas o punitivas necesarias para regular, controlar y disminuir la emisión de humos, gases y ruidos que afectan el medio ambiente, producidos por el uso de vehículos, serán facultades de la SEDESU.
+Las medidas preventivas o punitivas necesarias para regular, controlar y disminuir la emisión de humos, gases y ruidos que afectan el medio ambiente, producidos por el uso de vehículos, serán facultades de la SEBIDES.
 
 A los usuarios de las vías públicas en el Estado se les concientizará sobre las diversas disposiciones que existen en materia de preservación del medio ambiente y protección ecológica, para que cumplan con dichas medidas de protección y control.
 
@@ -3997,9 +4867,11 @@ En los cruceros donde no haya señalamiento que otorgue la preferencia de paso o
 
 En los cruceros en donde se encuentre señalamiento de alto en todas las ramas de la intersección, deberán hacer alto total los vehículos, iniciando la circulación el conductor que tenga prelación de paso conforme al artículo que antecede, y posteriormente el vehículo que transita por la otra vía, pasando primero uno, luego el otro y así sucesivamente.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 416.
 
-El Reglamento que se derive de esta Ley, establecerá las bases y criterios técnicos que contribuyan a dirimir con la debida objetividad, alguna controversia, de ocurrir algún hecho de tránsito.
+El Reglamento que se derive de esta Ley, establecerá las bases y criterios técnicos que contribuyan a dirimir con la debida objetividad, alguna controversia, de ocurrir algún siniestro de tránsito.
 
 ###### Artículo 417.
 
@@ -4047,11 +4919,13 @@ Ninguna persona conducirá un vehículo por una vía pública a una velocidad ma
 
 Los vehículos policiales y de emergencia, al estar prestando al público un servicio de esta naturaleza, deberán accionar los dispositivos acústicos y de luces especiales de que estén provistos, para indicar a los demás usuarios de la vía pública que requieren les sea cedido el paso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 426.
 
-Las autoridades, en los términos establecidos en el reglamento, fijarán los límites máximos y mínimos de velocidad para la circulación de vehículos en calles, caminos y carreteras del Estado, mediante los señalamientos correspondientes.
+Las autoridades, en los términos establecidos en el Reglamento, fijarán los límites máximos y mínimos de velocidad para la circulación de vehículos en calles, caminos y carreteras del Estado, mediante los señalamientos correspondientes, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias, de conformidad con el artículo 49, párrafo tercero, fracción III de la Ley General.
 
-Los límites de velocidad máxima, cuando no haya señales que indiquen otros, serán de cuarenta kilómetros por hora en zonas urbanas y de noventa kilómetros por hora en zonas rurales despobladas. En áreas escolares y hospitalarias la velocidad máxima será de veinte kilómetros por hora.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 427.
 
@@ -4211,7 +5085,9 @@ I. Con arresto administrativo inconmutable de seis a nueve horas a la persona qu
 
 II. Con arresto administrativo inconmutable de nueve a doce horas a la persona que conduzca un vehículo y se le detecte una cantidad mayor a 0.65 miligramos de alcohol por litro de aire espirado o estar bajo el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas; y
 
-III. Con suspensión de la licencia de manejar en caso de reincidencia, o revocación de la misma por segunda reincidencia, de conformidad con lo establecido en esta Ley, además de las sanciones señaladas en las fracciones anteriores, según corresponda.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+III. Con suspensión de la licencia o permiso de conducir por un periodo no menor a un año y por un periodo no menor a seis meses en caso de conductores de transporte público o transporte de carga.
 
 Las personas sancionadas en términos de las fracciones anteriores, deberán asistir a un curso en materia de sensibilización, concientización y prevención de hechos de tránsito por causa de la ingesta de alcohol o el influjo de drogas estupefacientes o sustancias psicotrópicas o tóxicas, ante la instancia que indique la autoridad competente.
 
@@ -4259,9 +5135,11 @@ Las sanciones económicas que en el tabulador se establezcan no deberán ser men
 
 Procederán la aplicación de sanciones, en los casos señalados en la presente Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 457.
 
-A los propietarios y conductores de vehículos particulares, que en ellos presten servicio público de transporte de pasajeros o de carga, sin contar con concesión y permiso en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de mil a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+A los propietarios y conductores de vehículos particulares, que en ellos presten servicio público de transporte de pasajeros o de carga, sin contar con concesión, permiso o autorización en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de mil a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 458.
 
@@ -4450,3 +5328,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos deberán adecuar su reglamentación interna necesaria a efecto de establecer los criterios y el procedimientos para la asignación, modificación o sustitución de la nomenclatura de vías públicas y espacios públicos de los municipios dentro de un plazo de 90 días hábiles a partir de la fecha de la publicación del presente Decreto.
 
 TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2024.
+
+> <small>[N. DE E. TRASITORIOS DEL "DECRETO 881 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO".]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los Municipios, en un plazo que no exceda de los 90 días naturales, posteriores a la entrada en vigor del presente Decreto, deberán realizar las adecuaciones pertinentes a su normativa, de conformidad con el mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones a las disposiciones reglamentarias correspondientes, en un plazo que no exceda los 120 días naturales posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
