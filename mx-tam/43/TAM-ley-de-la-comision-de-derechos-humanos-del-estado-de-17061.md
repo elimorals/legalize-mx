@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2024-07-03"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -153,9 +153,11 @@ II.- Resoluciones de naturaleza jurisdiccional;
 
 III.- (DEROGADA, P.O. 15 DE MAYO DE 2013)
 
-IV.- Actos u omisiones provenientes de autoridades o servidores públicos de la Federación;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-V.- Actos u omisiones de autoridades contra los cuales se encuentre en trámite un recurso ordinario, juicio de amparo, o cuando de la misma queja esté conociendo una autoridad competente.
+IV.- Actos u omisiones provenientes de autoridades o servidores públicos de la Federación.
+
+V.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
 Las quejas y denuncias contra actos u omisiones de autoridades jurisdiccionales sólo se admitirán cuando aquellas sean de naturaleza administrativa.
 
@@ -910,6 +912,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 3 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-867 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 8o. DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-61 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN V, DEL ARTÍCULO 9o. DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
