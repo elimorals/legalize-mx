@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-126782"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-28"
-last_updated: "2024-01-26"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección Parte Uno al No. 27 del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de febrero de 2018.
 
@@ -223,7 +223,9 @@ XX. Desarrollo urbano: el proceso de planeación y regulación de la Fundación,
 
 XXI. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población.
 
-XXII. Dictamen de Congruencia de Planes y Programas: la resolución expedida por la Secretaría de Desarrollo Sustentable donde se establecen los argumentos técnicos para asegurar la congruencia de los programas de ordenamiento territorial y desarrollo urbano con su inmediato superior de conformidad con el orden jerárquico establecido en la presente Ley.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+XXII. Dictamen de Congruencia de Planes y Programas: la resolución expedida por la Secretaría de Bienestar y Desarrollo Sustentable donde se establecen los argumentos técnicos para asegurar la congruencia de los programas de ordenamiento territorial y desarrollo urbano con su inmediato superior de conformidad con el orden jerárquico establecido en la presente Ley.
 
 XXIII. Equipamiento urbano: conjunto de inmuebles, instalaciones, construcciones, áreas verdes arborizadas y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales culturales, deportivas, educativas, de traslado y de abasto.
 
@@ -279,7 +281,9 @@ XLVIII. Reservas: áreas de un centro de población que serán utilizadas para s
 
 XLIX. Resiliencia: es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos.
 
-L. Secretaría: La Secretaría de Desarrollo Sustentable.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+L. Secretaría: La Secretaría de Bienestar y Desarrollo Sustentable.
 
 LI. Servicios urbanos: las actividades operativas y servicios públicos prestadas directamente por la autoridad competente, o concesionadas para satisfacer necesidades colectivas en los Centros de Población.
 
@@ -1019,9 +1023,11 @@ Los instrumentos de planeación que integran el Sistema Estatal de Planeación d
 
 La Secretaría verificará la congruencia y vinculación entre los programas de desarrollo urbano y entre estos con el resto del sistema de planeación, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 48.
 
-Los Instrumentos de planeación deberán considerar los ordenamientos y los criterios generales a los que se refieren la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Cambio Climático, Ley de Desarrollo Rural Sustentable, Ley General de Protección Civil, Ley de Vivienda, Ley General y en la legislación estatal en la materia, entre otras vinculadas al desarrollo urbano y el ordenamiento del territorio, así como las normas oficiales mexicanas en la materia.
+Los Instrumentos de planeación deberán considerar los ordenamientos y los criterios generales a los que se refieren la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Cambio Climático, Ley de Desarrollo Rural Sustentable, Ley General de Protección Civil, Ley de Vivienda, Ley General de Movilidad y Seguridad Vial, Ley General y en la legislación estatal en la materia, entre otras vinculadas al desarrollo urbano y el ordenamiento del territorio, así como las normas oficiales mexicanas en la materia.
 
 ###### Artículo 49.
 
@@ -1045,9 +1051,11 @@ VI. La determinación de aquellos asentamientos humanos o localidades que por su
 
 El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano es el documento rector de esta materia en el Estado, integra el conjunto de estudios, políticas, normas técnicas, disposiciones e instrumentos tendientes a promover el desarrollo integral del territorio y de los asentamientos humanos de la Entidad con visión sustentable. Tendrá un horizonte de largo plazo de 20 años y podrá ser revisado y modificado en su caso cada 6 años, sin que estos coincidan con el periodo administrativo del ejecutivo estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 51.
 
-El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano contendrá los elementos básicos que hagan posible su congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional de Ordenamiento Territorial, el Plan Estatal de Desarrollo, y los demás instrumentos de planeación previstos en la Ley General y la presente Ley. Tendrá una visión de largo plazo y estará dirigido a promover el ordenamiento territorial y el crecimiento ordenado de los centros de población, conforme a los principios a que se refiere la presente Ley; bajo los siguientes objetivos:
+El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano contendrá los elementos básicos que hagan posible su congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional de Ordenamiento Territorial, la Estrategia Nacional de Movilidad y Seguridad Vial, el Plan Estatal de Desarrollo, y los demás instrumentos de planeación previstos en la Ley General, la Ley General de Movilidad y Seguridad Vial y la presente Ley. Tendrá una visión de largo plazo y estará dirigido a promover el ordenamiento territorial y el crecimiento ordenado de los centros de población, conforme a los principios a que se refiere la presente Ley; bajo los siguientes objetivos:
 
 I. Asegurar la congruencia del proceso de planeación estatal a la estrategia nacional y estatal de ordenamiento territorial;
 
@@ -3345,6 +3353,112 @@ III. La priorización, congruencia y eficacia en las inversiones públicas, cons
 
 El Estado y los municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de Movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y peatones, usuarios de transporte no motorizado, usuarios del servicio de trasporte público de pasajeros, prestadores del servicio de trasporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte particular.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 266 Bis.
+
+El Estado y los Municipios establecerán en su normativa aplicable que las obras de infraestructura vial urbana y carretera sean diseñadas y ejecutadas bajo los principios, jerarquía de la movilidad, priorizando aquéllas que atiendan a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada territorio.
+
+En materia de prevención de siniestros de tránsito, deberán establecer estrategias, planes y programas de infraestructura vial que, reconociendo la posibilidad del error humano y la interseccionalidad de las personas usuarias de la vía, se encaminen a evitar muertes, lesiones, incluidas en las que se adquiere alguna discapacidad, a través del mejoramiento de la infraestructura vial.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 266 Bis A. Las autoridades competentes para el diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad:
+
+I. Movilidad se enfoca en el tránsito de personas y vehículos; y
+
+II. Habitabilidad se enfoca en la recreación, consumo, socialización, disfrute y acceso a los medios que permiten el ejercicio de los derechos sociales.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 266 Bis B. El Estado y los municipios en el ámbito de su competencia considerarán los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
+
+I. Diseño universal. La construcción de infraestructura vial deberá considerar espacios de calidad, accesibles y seguros que permitan la inclusión de todas las personas sin discriminación alguna, con especial énfasis en la jerarquía de la movilidad estipulada en esta Ley y el uso equitativo del espacio público.
+
+Las condiciones mínimas de infraestructura se ordenan de la siguiente manera:
+
+a) Aceras pavimentadas reservadas para el tránsito de personas peatonas;
+
+b) Iluminación que permita el tránsito nocturno y seguro de personas peatonas;
+
+c) Pasos peatonales que garanticen zonas de intersección seguras entre la circulación rodada y el tránsito peatonal;
+
+d) Señales de control de tráfico peatonal, motorizado y no motorizado que regule el paso seguro de personas peatonas;
+
+II. Priorizar a los grupos en situación de vulnerabilidad. El diseño de la red vial debe garantizar que los factores como la velocidad, la circulación cercana a vehículos motorizados y la ausencia de infraestructura de calidad, no pongan en riesgo a personas peatonas ni a las personas usuarias de la vía pública que empleen vehículos no motorizados y de tracción humana;
+
+III. Participación social. En el proceso de diseño y evaluación de la infraestructura vial, se procurarán esquemas de participación social de las personas usuarias de la vía;
+
+IV. Visión integral. Los proyectos de nuevas calles o de rediseño de las existentes en las vialidades urbanas, semiurbanas y rurales, deberán considerar el criterio de calle completa, asignando secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite;
+
+V. Intersecciones seguras. Las intersecciones deberán estar diseñadas para garantizar la seguridad de todas las personas usuarias de la vía, especialmente a las y los peatones y personas con movilidad limitada y grupos en situación de vulnerabilidad;
+
+VI. Pacificación del tránsito. Los diseños en infraestructura vial, sentidos y operación vial, deberán priorizar la reducción de flujos y velocidades vehiculares, para dar lugar al transporte público y a la movilidad activa y no motorizada y de tracción humana, a fin de lograr una sana convivencia en las vías. El diseño geométrico, de secciones de carriles, pavimentos y señales deberá considerar una velocidad de diseño de 30 km/h máxima para calles secundarias y terciarias, para lo cual se podrán ampliar las banquetas, reducir secciones de carriles, utilizar mobiliario, pavimentos especiales, desviar el eje de la trayectoria e instalar dispositivos de reducción de velocidad;
+
+VII. Velocidades seguras. Las vías deben contar, por diseño, con las características, señales y elementos necesarios para que sus velocidades de operación sean compatibles con el diseño y las personas usuarias de la vía que en ella convivan;
+
+VIII. Legibilidad y autoexplicabilidad. Es la cualidad de un entorno vial que provoca un comportamiento seguro de las personas usuarias simplemente por su diseño y su facilidad de entendimiento y uso. El diseño y la configuración de una calle o carretera autoexplicable cumple las expectativas de las personas usuarias, anticipa adecuadamente las situaciones y genera conductas seguras.
+
+Las vías autoexplicables integran sus elementos de manera coherente y entendible como señales, marcas, dispositivos, geometría, superficies, iluminación y gestión de la velocidad, para evitar siniestros de tránsito y generar accesibilidad para las personas con discapacidad:
+
+IX. Conectividad. Los espacios públicos deben formar parte de una red que permita a las personas usuarias conectar sus orígenes y destinos, entre modos de transporte, de manera eficiente y fácil. También deben permitir el desplazamiento libre de personas peatonas, personas usuarias de movilidad activa o no motorizada y otros prioritarios, incluidos vehículos de emergencia;
+
+X. Permeabilidad. La infraestructura debe contar con un diseño que permita la recolección e infiltración de agua pluvial y su reutilización en la medida que el suelo y el contexto hídrico del territorio lo requiera y con las autorizaciones ambientales y de descarga de la autoridad competente;
+
+XI. Tolerancia. Las vías y sus costados deben prever la posible ocurrencia de errores de las personas usuarias, y con su diseño y equipamiento técnico procurarán minimizar las consecuencias de siniestros de tránsito;
+
+XII. Movilidad sostenible. Transporte cuyos impactos sociales, ambientales y climáticos permitan asegurar las necesidades de transporte de las generaciones actuales sin comprometer la capacidad en los recursos para satisfacer las del futuro y mejorar la calidad ambiental;
+
+XIII. Calidad. Las vías deben contar con un diseño adecuado a las necesidades de las personas, materiales de larga duración, diseño universal y acabados, así como mantenimiento adecuado para ser funcional, atractiva estéticamente y permanecer en el tiempo; y
+
+XIV. Tratamiento de condiciones climáticas. El proyecto debe incorporar un diseño con un enfoque integral que promueva y permita una menor dependencia de los combustibles fósiles, así corno hacer frente a la agenda de adaptación y mitigación al cambio climático.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 266 Bis C. La infraestructura vial urbana, rural y carretera se compone de los siguientes elementos:
+
+I. Elementos inherentes: banquetas y espacios de circulación peatonal, así como los carriles de circulación vehicular y estacionamiento; y
+
+II. Elementos incorporados: infraestructura tecnológica eléctrica, mobiliario, áreas verdes y señalización.
+
+La planeación, diseño e implementación de los planes de la infraestructura deberá regirse de manera que se prioricen a las poblaciones con mayor grado de vulnerabilidad, poco desarrollo tecnológico y de escasos recursos, de acuerdo con la siguiente prioridad, basada en el grado de urbanización:
+
+a) Rurales;
+
+b) Semirrurales;
+
+c) Urbanas; y
+
+d) Predominantemente urbanas.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 266 Bis D. Toda obra en la vía pública destinada a la construcción o conservación de esta, o a la instalación o reparación de servicios, debe contemplar, previamente a su inicio, la colocación de dispositivos de desvíos, reducción de velocidades y protección de obra, conforme a las normas técnicas aplicables a la planeación.
+
+El diseño vial de las vías públicas deberá atender a la reducción máxima de muerte o lesiones graves a las personas usuarias involucradas en siniestros de tránsito. Asimismo, deberá incorporar criterios que preserven la vida, seguridad, salud, integridad y dignidad de las personas usuarias de la vía, particularmente de los grupos en situación de vulnerabilidad.
+
+Para la construcción y ampliación de carreteras y autopistas, deberán prever pasos de fauna, y se colocarán reductores de velocidad en los puntos críticos.
+
+Cuando un tramo de vía de jurisdicción estatal se adentre en una zona urbana, esta deberá adaptar su vocación, velocidad y diseño, considerando la movilidad y seguridad vial de las personas que habitan en esos asentamientos.
+
+Cuando una vía de jurisdicción estatal corte un asentamiento humano urbano a nivel y no existan libramientos, deberá considerarse la construcción de pasos peatonales seguros a nivel, para garantizar la permeabilidad entre las zonas urbanas.
+
+Las vías interurbanas adentradas en zonas urbanas deberán considerar según su uso, el espacio adecuado para las personas que se trasladan a pie y en bicicleta, así como en su caso, espacio para circulación, ascenso y descenso del transporte público.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 266 Bis E. Las autoridades Estatales y de los Municipios deberán considerar la implementación de auditorías e inspecciones, como parte de instrumentos preventivos, correctivos y evaluativos, que analicen la operación de la infraestructura de movilidad e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la Ley General de Movilidad y Seguridad Vial, de conformidad con los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial que expida el Sistema Nacional de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 266 Bis F. Las autoridades estatales y de los municipios, en el ámbito de sus competencias, procurarán que todos los proyectos de infraestructura vial a implementar generen espacios públicos de calidad, respetuosos del medio ambiente, accesibles, seguros, incluyentes, con perspectiva de interseccionalidad y con criterios de diseño universal y habitabilidad para la circulación de personas peatonas y vehículos no motorizados, debiendo considerar también la conectividad con la red vial, a través de intersecciones que sigan los criterios de velocidad, legibilidad, trayectorias directas, multimodalidad, continuidad de superficie, prioridad de paso, paradores seguros y visibilidad.
+
+Todos los proyectos de infraestructura vial urbana deberán considerar lo siguiente:
+
+I. El establecimiento de espacios para personas peatonas y vehículos no motorizados, de calidad, cómodos, accesibles y seguros; y
+
+II. Criterios que garanticen dimensiones, conexiones y espacios suficientes para el disfrute de la vía.
+
 ## Título Octavo. Del Espacio Público
 
 ### Capítulo Único. Del Espacio Público
@@ -3709,15 +3823,37 @@ En correspondencia con el artículo 97 de la Ley General, el Estado y los Munici
 
 Será obligatorio para las autoridades competentes del Estado y los municipios, proporcionar copias de dichos documentos o indicar el procedimiento para obtenerlos por medios electrónicos, una vez que sean aprobados por la instancia correspondiente. En todo caso se celebrarán convenios con las asociaciones, instituciones y organizaciones del sector social y privado, a fin de que aporten la información que generen.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, deberá integrar, organizar, actualizar, publicar y estandarizar información de movilidad y seguridad vial, considerando características socioeconómicas, demográficas, de discapacidad y de género de las personas usuarias de la vía y los grupos en situación de vulnerabilidad, para la elaboración de la política pública, programas y acciones que garanticen los derechos, principios, directrices y objetivos de la Ley General de Movilidad y Seguridad Vial, y La Ley de Movilidad y Seguridad Vial Sustentable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+La información estará disponible para su consulta en el medio electrónico que defina el Sistema Nacional de Movilidad y Seguridad Vial, con el mayor nivel de desagregación posible, a efecto de promover el desarrollo de estudios e investigaciones que contribuyan a incorporar la perspectiva de género y la inclusión de grupos en situación de vulnerabilidad dentro de la planeación de los sistemas de movilidad y la seguridad vial.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+La protección y publicidad de la información contenida en el Sistema de Información Territorial y Urbano se realizará en términos de lo establecido en la (sic) Leyes General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública, y Ley de Protección de Datos Personales en Posesión de Sujetos Obligados, ambas de (sic) Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades competentes, y de los Municipios en el ámbito de sus competencias, deberán retroalimentar el Sistema de Información Territorial y Urbano de conformidad con la Ley General de Movilidad y Seguridad Vial y demás disposiciones que al efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades del Estado y los Municipios, dentro del marco de sus facultades deberán suscribir los convenios de coordinación necesarios para la transmisión de la información que exista en los archivos posean datos e información necesaria para que las autoridades competentes elaboren las políticas de movilidad y seguridad vial.
+
 ###### Artículo 293.
 
 Las autoridades del Estado y los municipios, deberán incorporar en sus informes de gobierno anuales, un rubro específico relacionado con el avance en el cumplimiento de planes y programas de Ordenamiento Territorial y Desarrollo Urbano, así como en la ejecución de proyectos, obras e inversiones y servicios planteados en los mismos.
 
 ### Capítulo V. De los Observatorios Ciudadanos
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 294.
 
-El Estado y los municipios promoverán la creación y el funcionamiento de observatorios urbanos con la participación plural de la sociedad, conformados a partir de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y los gobiernos del Estado y los municipios, para el estudio, investigación, organización y difusión de información y conocimientos sobre las acciones relativas al territorio y a las ciudades, los nuevos modelos de políticas territoriales, metropolitanas y urbanas y de gestión pública y los programas, proyectos y acciones públicas en estas materias. Los problemas socio-espaciales, las políticas urbanas y regionales y de gestión pública.
+El Estado y los Municipios promoverán la creación y el funcionamiento de observatorios urbanos con la participación plural de la sociedad, conformados a partir de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y los gobiernos del Estado y los Municipios, para el estudio, investigación, organización y difusión de información y conocimientos sobre las acciones relativas al territorio y a las ciudades, los nuevos modelos de políticas territoriales, metropolitanas y urbanas y de gestión pública y los programas, proyectos y acciones públicas en estas materias, así como en materia de movilidad y seguridad vial. Los problemas socio-espaciales, las políticas urbanas y regionales y de gestión pública.
 
 ###### Artículo 295.
 
@@ -4444,3 +4580,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos deberán adecuar su reglamentación interna necesaria a efecto de establecer los criterios y el procedimientos (sic) para la asignación, modificación o sustitución de la nomenclatura de vías públicas y espacios públicos de los municipios dentro de un plazo de 90 días hábiles a partir de la fecha de la publicación del presente Decreto.
 
 TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 881 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE Y DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los Municipios, en un plazo que no exceda de los 90 días naturales, posteriores a la entrada en vigor del presente Decreto, deberán realizar las adecuaciones pertinentes a su normativa, de conformidad con el mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones a las disposiciones reglamentarias correspondientes, en un plazo que no exceda los 120 días naturales posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
