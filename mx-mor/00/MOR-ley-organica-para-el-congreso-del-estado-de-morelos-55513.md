@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2024-09-04"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1025,13 +1025,13 @@ Las Comisiones Ordinarias serán las siguientes:
 
 17. Participación Ciudadana y Reforma Política;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-18. Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad.
+18. Atención a Grupos Vulnerables y Personas con Discapacidad.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-19. Fortalecimiento Municipal, Desarrollo Regional y Pueblos Indígenas;
+19. Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas;
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
@@ -1057,25 +1057,17 @@ Las Comisiones Ordinarias serán las siguientes:
 
 25. Atención a la Diversidad Sexual;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-26. Desarrollo y Conflictos Agrarios; y
+26. Desarrollo y Conflictos Agrarios;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-27. Ética Legislativa.
+27. Ética Legislativa, y
 
-28. Investigación y Relaciones Interparlamentarias
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-29. (DEROGADO, P.O. 11 DE ENERO DE 2023)
-
-30. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
-
-31. (DEROGADO, P.O. 11 DE ENERO DE 2023)
-
-32. (DEROGADO, P.O. 11 DE ENERO DE 2023)
-
-33. (DEROGADO, P.O. 11 DE ENERO DE 2023)
+28. Atención a las Personas Migrantes.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -1463,43 +1455,87 @@ X. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra
 
 XI. Coadyuvar en el ámbito de sus atribuciones con el Instituto Morelense de Procesos Electorales y Participación Ciudadana, en la implementación de programas de capacitación, educación, asesoría, consulta, evaluación del desempeño y comunicación en materia de participación ciudadana y democracia participativa.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 78.
 
-Corresponde a la Comisión de Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad:
+Corresponde a la Comisión de Atención a Grupos Vulnerables y Personas con Discapacidad:
 
-I. Analizar y dictaminar, en su caso, sobre la legislación relacionada con los derechos de los grupos vulnerables, los migrantes y las personas con discapacidad, que no sean materia de otra Comisión;
+I. Analizar y dictaminar, en su caso, sobre la legislación relacionada con los derechos de los grupos vulnerables y las personas con discapacidad, que no sean materia de otra Comisión;
 
-II. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables, los migrantes y las personas con discapacidad;
+II. Conocer y dictaminar, en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y las personas con discapacidad;
 
-III. Conocer e impulsar acciones que conlleven a la realización de planes y programas ante el Gobierno del Estado de Morelos, que coadyuven al bienestar y mejora en las condiciones de vida de los grupos vulnerables, los migrantes y sus familias, así como, las personas con discapacidad;
+III. Conocer e impulsar acciones que conlleven a la realización de planes y programas ante el Gobierno del Estado de Morelos, que coadyuven al bienestar y mejora en las condiciones de vida de los grupos vulnerables y sus familias, así como, las personas con discapacidad;
 
-IV. Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, la problemática que en materia de educación, salud, empleo, vivienda, cultura y desarrollo presenten los grupos vulnerables, los migrantes y sus familias, así como, las personas con discapacidad;
+VI (SIC). Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, la problemática que en materia de educación, salud, empleo, vivienda, cultura y desarrollo presenten los grupos vulnerables y sus familias, así como, las personas con discapacidad;
 
-V. Realizar foros, estudios y mesas de trabajo con los tres niveles de gobierno y proponer en el ámbito de su competencia, las medidas que mejoren la inserción social y productiva en la sociedad de los grupos vulnerables, migrantes y personas con discapacidad, para garantizar una situación de vida más digna;
+V (SIC). Realizar foros, estudios y mesas de trabajo con los tres niveles de gobierno y proponer en el ámbito de su competencia, las medidas que mejoren la inserción social y productiva en la sociedad de los grupos vulnerables y personas con discapacidad, para garantizar una situación de vida más digna;
 
-VI. Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los grupos vulnerables, migrantes y personas con discapacidad, así como, el fortalecimiento de la vinculación intergubernamental para su desarrollo; y
+VI. Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los grupos vulnerables y personas con discapacidad, así como, el fortalecimiento de la vinculación intergubernamental para su desarrollo, y
 
 VII. Todos aquellos asuntos en la materia que le sean turnados y no sean competencia de otra comisión.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 78 Bis.
+
+Corresponde a la Comisión de Atención a las Personas Migrantes:
+
+I. Conocer y dictaminar las minutas, iniciativas y puntos de acuerdo relacionados con asuntos de las personas migrantes;
+
+II. Coadyuvar con las instituciones para brindar apoyo integral a los migrantes morelenses en el extranjero.
+
+III. Coadyuvar con las autoridades municipales para procurar el bienestar de las familias de los migrantes;
+
+IV. Conocer, coadyuvar y opinar respecto de los programas del Gobierno del Estado de Morelos en materia de atención a las personas migrantes;
+
+V. Colaborar con las asociaciones y clubes de migrantes morelenses en el extranjero, buscando preservar la cultura de (sic) mexicana y las tradiciones morelenses;
+
+VI. Velar por la protección de los derechos humanos de las personas migrantes;
+
+VII. Apoyar a las familias de migrantes para lograr la repatriación de sus familiares finados;
+
+VIII. Colaborar con las autoridades migratorias internacionales, nacionales y estatales en la protección de las personas migrantes;
+
+IX. Salvaguardar con las autoridades competentes el interés superior de las niñas, niños y adolescentes migrantes;
+
+X. Velar por la protección de los derechos humanos de las personas migrantes como lo disponen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacional (sic), independientemente de la situación migratoria de las personas;
+
+XI. Realizar mesas de trabajo, estudios y foros que mejoren la inserción social y productiva de las personas migrantes, y
+
+XII. Todos aquellos asuntos en la materia que le sean turnados y no sean competencia de otra comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 79.
 
-A la Comisión de Fortalecimiento Municipal, Desarrollo Regional y Pueblos Indígenas, le corresponde conocer y dictaminar los siguientes asuntos:
+A la Comisión de Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas le corresponde conocer y dictaminar los siguientes asuntos:
 
-I. Conocer y dictaminar sobre los asuntos de carácter municipal, regional y los relativos a preservar y proteger todos los elementos que integran la cultura de los pueblos indígenas del Estado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
-II. Promover la corresponsabilidad entre el gobierno municipal, la sociedad y los pueblos indígenas para el logro de los objetivos municipales;
+I. Conocer y dictaminar sobre los asuntos de carácter municipal, regional y los relativos a preservar y proteger todos los elementos que integran la cultura de los pueblos y comunidades indígenas y afromexicanas;
 
-III. Organizar foros de participación ciudadana para conocer el punto de vista de la sociedad y de las comunidades indígenas para contribuir a una mayor participación de estas dentro del desarrollo municipal en los programas de desarrollo regional;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+II. Promover la corresponsabilidad entre el gobierno municipal, la sociedad, los pueblos y comunidades indígenas y afromexicanas para el logro de los objetivos municipales;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+III. Organizar foros de participación ciudadana para conocer el punto de vista de la sociedad de las comunidades indígenas y afromexicanas para contribuir a una mayor participación de estas dentro del desarrollo municipal en los programas de desarrollo regional;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 IV. Contribuir al fortalecimiento y autonomía municipal;
 
-V. Promover la coordinación y colaboración entre las comunidades indígenas, los ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+V. Promover la coordinación y colaboración entre las comunidades indígenas y afromexicanas, los ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Dictaminar, en unión con la Comisión de Gobernación, Gran Jurado y Ética Legislativa, los relativos a la creación, desaparición o fusión de municipios a que se refiere el Título Décimo Primero de esta Ley; y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
 VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
@@ -1889,19 +1925,17 @@ IX. Las demás que se desprendan de la normatividad aplicable.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 89.
 
-Para su funcionamiento, el Congreso del Estado, contará con los órganos siguientes:
+Para su funcionamiento, el Congreso del Estado, contará con los Órganos siguientes:
 
 I. Secretaría de Servicios Legislativos y Parlamentarios;
 
-II. Secretaría de Administración y Finanzas; e
+II. Secretaría de Administración y Finanzas;
 
-III. Instituto de Investigaciones Legislativas;
-
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2020)</small>
+III. Coordinación General del Instituto de Investigaciones Legislativas, y
 
 IV. Entidad Superior de Auditoría y Fiscalización del Congreso del Estado;
 
@@ -1917,9 +1951,11 @@ En caso de ausencia temporal o definitiva de los titulares de la Secretaría de 
 
 En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 90.
 
-Para el funcionamiento interno, el Congreso del Estado contará además con las direcciones, subdirecciones y jefaturas de departamento autorizadas en el presupuesto del Congreso del Estado.
+Para el funcionamiento parlamentario y administrativo, el Congreso del Estado contará con las Direcciones, Jefaturas de Departamento y Coordinaciones establecidas en la presente Ley, así como las autorizadas por la Conferencia y que tengan respaldo en el presupuesto del Congreso del Estado.
 
 ###### Artículo 91.
 
@@ -1943,13 +1979,55 @@ Artículo 91 Quárter.- (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2012)
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 92.
 
-La Secretaría de Servicios Legislativos y Parlamentarios es el órgano profesional de carácter institucional, de asesoría, asistencia y apoyo parlamentario del Poder Legislativo, cuyo propósito fundamental es brindar el apoyo profesional y técnico a los órganos políticos y de dirección así como a las comisiones y comités del Congreso para el mejor desempeño de sus funciones.
+La Secretaría de Servicios Legislativos y Parlamentarios es el órgano profesional de carácter institucional, de asesoría, asistencia y apoyo parlamentario del Poder Legislativo, cuyo propósito fundamental es brindar el apoyo profesional y técnico a los Órganos Políticos y de Dirección, así como a las Comisiones y Comités del Congreso, para el mejor desempeño de sus funciones.
 
 La Secretaría de Servicios Legislativos y Parlamentarios estará al servicio de la Presidencia de la Mesa Directiva y su titular será designado en los términos que establece la presente Ley.
+
+Para el desempeño de sus atribuciones contará con las Direcciones, siguientes:
+
+VI (SIC). Dirección de Desarrollo Legislativo;
+
+VII. Dirección de Proceso y Técnica legislativa;
+
+VIII. Dirección Jurídica, y
+
+IX. Dirección de Archivo y Transparencia.
+
+Asimismo, contará con dos Coordinaciones que tendrán el nivel jerárquico de Jefaturas de Departamento:
+
+X. La Coordinación de Protocolo, y
+
+XI. La Coordinación de Oficialía de Partes.
+
+Mismas que contarán con las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 92 Bis.
+
+La Dirección de Desarrollo Legislativo, contará con la Jefatura de Departamento de Gestión Legislativa, misma que tendrá las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 92 Ter.
+
+La Dirección de Proceso y Técnica Legislativa, contará con la Jefatura de Departamento de Proceso Legislativo, misma que tendrá las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 92 Quater.
+
+La Dirección Jurídica, contará con la Jefatura de Departamento Jurídica, misma que tendrá las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 92 Quinquies.
+
+La Dirección de Archivo y Transparencia, contará con la Jefatura de Departamento de la Unidad de Transparencia y la Coordinación de Archivo, que contará con el nivel jerárquico de Jefatura de Departamento; mismas que tendrán las atribuciones establecidas en la normativa aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2117,6 +2195,68 @@ XVI. Resguardar y manejar la agenda de eventos en las instalaciones del Congreso
 
 XVII. Las demás que la presente Ley y su Reglamento le confieran.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 98 Bis.
+
+Para el desempeño de sus atribuciones la Secretaría de Administración y Finanzas contará con las Direcciones, siguientes:
+
+XII (SIC). Dirección de Administración;
+
+XIII. Dirección de Recursos Humanos;
+
+XIV. Dirección de Contabilidad, y
+
+XV. Dirección de Presupuesto.
+
+Mismas que tendrán las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 98 Ter.
+
+La Dirección de Administración contará con las Jefaturas: (sic) Departamento, siguientes:
+
+XVI (SIC). Departamento de Administración;
+
+XVII. Departamento de Mantenimiento;
+
+XVIII. Departamento de Servicios Generales;
+
+XIX. Departamento de Activos Fijos, y
+
+XX. Departamento de Redes y Comunicaciones.
+
+Mismas que tendrán las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 98 Quater.
+
+La Dirección de Recursos Humanos contará con la Jefatura de Departamento de Recursos Humanos.
+
+Misma que tendrá las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 98 Quinquies.
+
+La Dirección de Contabilidad contará con las Jefaturas (sic) Departamento, siguientes:
+
+XXI (SIC). Departamento de Egresos;
+
+XXII. Departamento de Contabilidad, y
+
+XXIII. Departamento de Armonización Contable y Atención de Auditorias.
+
+Mismas que tendrán las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 98 Sexies.
+
+La Dirección de Presupuesto contará con la Jefatura de Departamento de Control Presupuestal, misma que tendrá las atribuciones establecidas en la normativa aplicable.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2020)</small>
 
 ### CAPÍTULO IV. DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO
@@ -2180,6 +2320,30 @@ XI. Buscará el establecimiento de vínculos institucionales con los poderes del
 XII. Impulsar el establecimiento de la cooperación y coordinación interinstitucional en materia de técnica legislativa; y
 
 XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 103 Bis.
+
+Para el desempeño de sus atribuciones la Coordinación General del Instituto de Investigaciones Legislativas contará con las Direcciones, siguientes:
+
+XXIV (SIC). Dirección de Investigación, Edición y Difusión, y
+
+XXV. Dirección de Apoyo y Capacitación Parlamentaria.
+
+Mismas que tendrán las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 103 Ter.
+
+La Dirección de Investigación, Edición y Difusión contará con una Jefatura de Departamento de Investigación, misma que tendrán las atribuciones establecidas en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 103 Quater.
+
+La Dirección de Apoyo y Capacitación Parlamentaria, contará (sic) la Jefatura de Departamento de Archivo Histórico Legislativo y Biblioteca y con la Jefatura de Departamento de Dictaminación; mismas que tendrán las atribuciones establecidas en la normativa aplicable.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2012)</small>
 
@@ -3624,3 +3788,21 @@ TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango no
 CUARTA. Todas las referencias al Órgano Político Calificador en esta ley o dentro de otros ordenamientos, en adelante se entenderán hechas a la Junta Política y de Gobierno del Congreso del Estado de Morelos.
 
 QUINTA. Toda la documentación y archivos que obren en poder del Órgano Político Calificador con motivo del procedimiento hecho para la designación de Magistraturas que integran el Poder Judicial del Estado, deberá ser remitida a la Junta Política y de Gobierno del Congreso del Estado, cumpliendo con el acto de entrega recepción.
+
+P.O. 6 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE REESTRUCTURA ADMINISTRATIVA, CREACIÓN DE LA COMISIÓN LEGISLATIVA DE ATENCIÓN A LAS PERSONAS MIGRANTES Y MODIFICACIÓN DE LA DENOMINACIÓN DE LA COMISIÓN DE FORTALECIMIENTO MUNICIPAL, DESARROLLO REGIONAL Y PUEBLOS INDÍGENAS”.]
+
+PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, en términos de lo establecido por el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Las Secretarías a que se refiere el presente Decreto contarán con un plazo de 30 días naturales para someter a la consideración y, en su caso, aprobación, los manuales de operación de cada una de las unidades administrativas que las integran; así como remitir a la Comisión de Reglamentos, Investigación, Prácticas y Relaciones Parlamentarias el proyecto de armonización al Reglamento para el Congreso del Estado de Morelos, para, en su momento, ser presentada la iniciativa respectiva.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+QUINTA. Se abroga el “Acuerdo parlamentario por el que se crea e integra la Comisión Especial de la Reconstrucción del Estado de Morelos”, aprobado en fecha 12 de octubre de 2018 y publicado en el Periódico Oficial “Tierra y Libertad”, número 5649 de 14 de noviembre de 2018; por lo que se extingue la Comisión Especial de la Reconstrucción del Estado de Morelos.
+
+SEXTA. Las referencias realizadas a las Comisiones Legislativas que modifican su denominación mediante el presente Decreto, se entenderán conforme a las nuevas denominaciones.
+
+SÉPTIMA. La designación realizada a la persona titular del Instituto de Investigaciones Legislativas, se entenderá a la Coordinación General del Instituto de Investigaciones Legislativas.
