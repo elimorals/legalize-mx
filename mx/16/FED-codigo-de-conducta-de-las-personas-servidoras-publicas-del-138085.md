@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-las-personas-servidoras-publicas-del-1380
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-10"
-last_updated: "2019-09-10"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-09-04"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES -- ANTES CODIGO DE CONDUCTA DE LOS TRABAJADORES DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES --
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2024/IFT/Modificacion_Codigo_de_Conducta_Personas_Servidoras_Publicas_IFT.pdf.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS TRABAJADORES DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2024.
 
 Código publicado en el Diario Oficial de la Federación, el martes 10 de septiembre de 2019.
 
@@ -103,9 +105,15 @@ Código de Conducta de las personas servidoras públicas del Instituto Federal d
 
 El presente Código de Conducta es una guía de principios, valores y reglas de integridad, que deben orientar la conducta de las personas servidoras públicas del Instituto Federal de Telecomunicaciones, en el desempeño de sus empleos, cargos o comisiones, ante situaciones puntuales y concretas que se les presenten.
 
-Es además la guía para el ejercicio de las funciones de las personas servidoras públicas del Instituto, que permite sentar bases sólidas para preservar la credibilidad y la confianza de la sociedad en el Instituto, como una autoridad reguladora y de competencia independiente, profesional, eficaz y transparente, que contribuye al desarrollo de las telecomunicaciones y la radiodifusión, al avance de la sociedad de la información y del conocimiento en nuestro país, y con ello favorecer el mejoramiento de la calidad de vida y las oportunidades de desarrollo para todos los mexicanos.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Es además la guía para el ejercicio de las funciones de las personas servidoras públicas del Instituto, que permite sentar bases sólidas para preservar la credibilidad y la confianza de la sociedad en el Instituto, como una autoridad reguladora y de competencia independiente, profesional, eficaz y transparente, que contribuye al desarrollo de las telecomunicaciones y la radiodifusión, al avance de la sociedad de la información y del conocimiento en nuestro país, y con ello favorecer el mejoramiento de la calidad de vida y las oportunidades de desarrollo para las y los mexicanos.
 
 Los altos estándares de comportamiento esperados de las personas servidoras públicas del Instituto, están alineados a los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia, equidad, transparencia, economía, competencia por mérito, autonomía, certeza y probidad, que la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, la Ley Federal de Telecomunicaciones y Radiodifusión y el Código de Ética definen.
+
+> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, el presente Código asume la prohibición de ejercer discriminación en términos del artículo 1º, fracción III de la Ley Federal para Prevenir y Eliminar la Discriminación.
 
 2. Carta de Invitación.
 
@@ -123,7 +131,9 @@ El decreto por el que promulgó dicha reforma, considera a las telecomunicacione
 
 De igual manera, el decreto y la Ley Federal de Telecomunicaciones y Radiodifusión, establecen que el IFT es un órgano público autónomo, independiente en sus decisiones y funcionamiento, profesional en su desempeño e imparcial en sus actuaciones, con personalidad jurídica y patrimonio propios, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, garantizando lo dispuesto en los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos. Para tal efecto, tendrá a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios, contando con atribuciones exclusivas en materia de competencia económica para dichos sectores en los términos que fijan las disposiciones legales aplicables.
 
-Asimismo, las leyes Federal de Telecomunicaciones y Radiodifusión, General del Sistema Nacional Anticorrupción y General de Responsabilidades Administrativas establecen que los funcionarios del Instituto deben guiarse por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia, equidad, transparencia, economía, competencia por mérito, autonomía, certeza y probidad.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, las leyes Federal de Telecomunicaciones y Radiodifusión, General del Sistema Nacional Anticorrupción, y General de Responsabilidades Administrativas establecen que las personas servidoras públicas del Instituto deben guiarse por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia, equidad, transparencia, economía, competencia por mérito, autonomía, certeza y probidad.
 
 Por otra parte, la Ley General del Sistema Nacional Anticorrupción prevé como objetivos del sistema, entre otros, establecer las bases y políticas para la promoción, fomento y difusión de la cultura de integridad en el servicio público; establecer las acciones permanentes que aseguren la integridad y el comportamiento ético de las personas servidoras públicas, y crear las bases mínimas para que el estado mexicano establezca políticas eficaces de ética pública y responsabilidad en el servicio público.
 
@@ -139,7 +149,9 @@ Las conductas definidas por este Código son de observancia obligatoria para tod
 
 El presente Código de Conducta, establece la forma en que las personas servidoras públicas del Instituto aplicarán los principios, valores y reglas de integridad contenidos en el Código de Ética, por lo que se describen diversos estándares de comportamiento que deben de observarse ante situaciones específicas en el desempeño de su empleo, cargo o comisión y, en su caso, la vulneración de ambos códigos, de ser apreciada, pudiera generar algún tipo de falta de carácter administrativo y/o laboral y la imposición de las sanciones legales que correspondan.
 
-Asimismo, el presente Código se pondrá a disposición de los agentes económicos regulados; de los proveedores de bienes y/o servicios, de cualquier persona física y/o moral relacionada con el Instituto y del público en general, a fin de compartirles nuestros valores, principios, reglas de integridad y pautas de conducta y, en ese orden, cada unidad administrativa hará extensiva la aplicación y difusión conforme a los mecanismos establecidos por la unidad de administración.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, el presente Código se pondrá a disposición de las y los agentes económicos regulados; de la proveeduría de bienes y/o servicios, de cualquier persona física y/o moral relacionada con el Instituto y del público en general, a fin de compartirles nuestros valores, principios, reglas de integridad y pautas de conducta y, en ese orden, cada unidad administrativa hará extensiva la aplicación y difusión conforme a los mecanismos establecidos por la unidad de administración.
 
 4. Pautas de conducta básicas de las personas servidoras públicas
 
@@ -165,9 +177,13 @@ Las siete pautas de conducta básicas del IFT son:
 
 4.1 Conocer y cumplir la normatividad que regula el ejercicio de sus funciones, facultades y atribuciones.
 
-Valores del Código de Ética con los que se vincula: Interés público, cooperación, liderazgo y respeto a los derechos humanos.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, honradez, imparcialidad, disciplina, profesionalismo, objetividad, transparencia, integridad, autonomía, lealtad, economía, eficiencia y certeza.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, cooperación, liderazgo y respeto a los derechos humanos.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Público con los que se vincula: Legalidad, honradez, imparcialidad, disciplina, profesionalismo, objetividad, transparencia, integridad, autonomía, lealtad, economía, eficiencia y certeza.
 
 Reglas de Integridad con las que se vincula: Actuación pública, trámite y servicios, procedimiento administrativo y desempeño permanente con integridad.
 
@@ -193,9 +209,13 @@ Esta pauta implica:
 
 4.2 Fomentar el cumplimiento de la misión, visión, principios y objetivos institucionales
 
-Valores del Código de Ética con los que se vincula: lnterés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación y liderazgo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, lealtad, eficiencia, economía, disciplina, profesionalismo, competencia por mérito, eficacia, integridad, imparcialidad y certeza.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación y liderazgo.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Público con los que se vincula: Legalidad, lealtad, eficiencia, economía, disciplina, profesionalismo, competencia por mérito, eficacia, integridad, imparcialidad y certeza.
 
 Reglas de Integridad con las que se vincula: Recursos humanos, administración de bienes muebles e inmuebles, procedimiento administrativo, control interno y cooperación con la integridad.
 
@@ -205,7 +225,9 @@ Esta pauta me obliga a:
 
 - Velar en todo momento por los intereses del Instituto y contribuir al logro de sus objetivos.
 
-- Conducirme bajo los principios y valores institucionales, garantizando el interés de la organización y manteniendo una filosofía de servicio.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Conducirme bajo los principios y valores institucionales, garantizando el interés de la organización y manteniendo una filosofía y actitud de servicio.
 
 - Evitar emitir opiniones sobre un asunto, fuera de los procedimientos, estrategias, programas y objetivos formales establecidos al interior del Instituto para tal efecto.
 
@@ -213,7 +235,9 @@ Esta pauta me obliga a:
 
 - Asegurar que mis actos y decisiones estén fundados en la información técnica, jurídica y/o económica, atendiendo en todo momento al interés público constitucional e institucional y de los tratados internacionales en los que México sea parte, por encima de intereses personales o particulares.
 
-- Promover y contribuir a la conformación de equipos de trabajo de alto desempeño, con superiores jerárquicos, colegas y colaboradores a fin de lograr una cultura laboral de cooperación, integración y sana competencia profesional, en la que se privilegie el mérito y los resultados.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Promover y contribuir a la conformación de equipos de trabajo de alto desempeño, con personas superiores jerárquicas, colegas y colaboradoras a fin de lograr una cultura laboral de cooperación, integración y sana competencia profesional, en la que se privilegie el mérito y los resultados.
 
 - Fomentar que el personal a mi cargo cumpla con sus funciones en apego a lo establecido en la Declaración de Principios, y los Código (sic) de Ética y Conducta.
 
@@ -223,9 +247,13 @@ Esta pauta me obliga a:
 
 4.3 Evitar colocarse o colocar al Instituto en una situación de conflicto de intereses.
 
-Valores del Código de Ética con los que se vincula: Interés público, cooperación y liderazgo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, honradez, profesionalismo, objetividad, lealtad, imparcialidad, autonomía e integridad.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, cooperación y liderazgo.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Púbico con los que se vincula: Legalidad, honradez, profesionalismo, objetividad, lealtad, imparcialidad, autonomía e integridad.
 
 Reglas de Integridad con las que se vincula: Actuación pública, trámites y servicios, contrataciones públicas, licencias, permisos, autorización y concesiones, procedimiento administrativo y desempeño permanente con integridad.
 
@@ -243,9 +271,13 @@ Además de que, como servidora o servidor público del Instituto, de ubicarme en
 
 4.4 Comportarse con integridad y honestidad.
 
-Valores del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación y liderazgo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, imparcialidad, objetividad, rendición de cuentas, eficacia, eficiencia, honradez, lealtad, disciplina, profesionalismo, competencia por mérito e integridad.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación y liderazgo.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Público con los que se vincula: Legalidad, imparcialidad, objetividad, rendición de cuentas, eficacia, eficiencia, honradez, lealtad, disciplina, profesionalismo, competencia por mérito e integridad.
 
 Reglas de Integridad con las que se vincula: Actuación pública, recursos humanos, desempeño permanente con integridad y comportamiento digno.
 
@@ -277,13 +309,19 @@ Esta pauta implica:
 
 - En las publicaciones o declaraciones que haga a título personal, debo evitar el uso de cualquier expresión que pueda dar a entender que se trata de la postura del Instituto o que éste es responsable de su contenido. En todo caso, indicaré claramente que las opiniones son estrictamente personales. En ningún caso, podré en las referidas publicaciones o declaraciones, utilizar información a la que haya tenido acceso con motivo de mi empleo, cargo o comisión y que no sea del dominio público.
 
-- Explicar, entender y mantener actualizado, cuando así me sea requerido, los procesos, mecanismos, decisiones y acciones llevadas a cabo para el desempeño de mis atribuciones y funciones.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-- No asistir a mi centro de trabajo bajo la influencia de narcóticos, sustancias prohibidas o bebidas alcohólicas.
+- Explicar, entender y mantener actualizado, cuando así me sea requerido, los procesos, mecanismos, decisiones y acciones realizadas para el desempeño de mis atribuciones y funciones.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- No desarrollar mis actividades laborales bajo la influencia de narcóticos, sustancias prohibidas o bebidas alcohólicas.
 
 - Evitar ostentarme con un título académico, documentación de constancias, certificaciones o certificados de los que carezca.
 
-- Abstenerme de utilizar el nombre, logotipos, uniformes e identificaciones (ostentarse) del Instituto para obtener un beneficio personal o de cualquier tercero.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Abstenerme de utilizar el nombre, logotipos, uniformes e identificaciones (ostentarse) del Instituto para obtener un beneficio personal o de cualquier tercera persona.
 
 - En mi empleo, cargo o comisión, utilizar el tiempo de trabajo en actividades asociadas a mis funciones y me abstendré de solicitar a mi equipo de trabajo o compañeros, la realización de tareas ajenas a sus funciones.
 
@@ -305,9 +343,13 @@ Asimismo, pondré a disposición de manera íntegra y oportuna la información q
 
 4.5 Conducirse con transparencia como mecanismo fundamental para la rendición de cuentas.
 
-Valores del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación y liderazgo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, transparencia, eficiencia, imparcialidad, objetividad y rendición de cuentas.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, cooperación y liderazgo.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Público con los que se vincula: Legalidad, transparencia, eficiencia, imparcialidad, objetividad y rendición de cuentas.
 
 Reglas de Integridad con las que se vincula: Actuación pública, información pública, contrataciones públicas, licencias, permisos, autorización y concesiones, administración de bienes muebles e inmuebles, procesos de evaluación y control interno.
 
@@ -317,13 +359,17 @@ En esta pauta, implica:
 
 - Respetar los canales de comunicación establecidos formalmente para solicitar o proporcionar información.
 
-- Clasificar adecuadamente la información y mantener organizados mis archivos, respaldándolos de acuerdo a la política y normatividad que expida el Instituto y el ente público que rige la materia.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Clasificar adecuadamente la información y mantener organizados mis archivos, respaldándolos de acuerdo con la política y normatividad que expida el Instituto y el ente público que rige la materia.
 
 - Rendir cuentas, asumiendo plenamente ante la sociedad la responsabilidad de desempeñar mis funciones con profesionalismo.
 
 - Facilitar, de acuerdo con los medios establecidos al efecto y en apego a la normatividad vigente, la puesta a disposición de la información documental, de manera equitativa, eficiente y oportuna, con excepción de la catalogada como reservada o confidencial, la cual será tratada conforme a la legislación aplicable, en los tiempos establecidos.
 
-- Proteger los datos personales en posesión del Instituto, así como garantizar el ejercicio de los derechos de acceso, rectificación, cancelación y oposición (ARCO); de acuerdo a la legislación de la materia de transparencia y protección de datos personales.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Proteger los datos personales en posesión del Instituto, así como garantizar el ejercicio de los derechos de acceso, rectificación, cancelación y oposición (ARCO); de acuerdo con la legislación de la materia de transparencia y protección de datos personales.
 
 - Registrar, integrar, custodiar y cuidar la documentación e información que por razón de mi empleo, cargo o comisión tenga bajo mi responsabilidad.
 
@@ -337,15 +383,21 @@ En esta pauta, implica:
 
 4.6 Colaborar en las acciones que permitan proteger la integridad y seguridad de las personas, los activos y la información del Instituto de conformidad con sus facultades.
 
-Valores del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, eficiencia, economía, profesionalismo, objetividad, equidad, disciplina, transparencia y certeza.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Público con los que se vincula: Legalidad, eficiencia, economía, profesionalismo, objetividad, equidad, disciplina, transparencia y certeza.
 
 Reglas de Integridad con las que se vincula: Información pública, administración de bienes muebles e inmuebles, control interno, actuación pública, recursos humanos, trámites y servicios, desempeño permanente con integridad, y comportamiento digno.
 
 Esta Pauta implica:
 
-- Evitar cualquier conducta que ponga en peligro la salud, la integridad física o moral y la seguridad de mis compañeros y compañeras de trabajo o de terceros en las instalaciones del Instituto, en estricto apego a la normatividad en materia de seguridad, protección civil y medio ambiente.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Evitar cualquier conducta que ponga en peligro la salud, la integridad física o moral y la seguridad de mis compañeros y compañeras de trabajo o de terceras personas en las instalaciones del Instituto, en estricto apego a la normatividad en materia de seguridad, protección civil y medio ambiente.
 
 - En el desarrollo de mi trabajo, actividades y desarrollo personal, tomaré las precauciones necesarias, para evitar cualquier riesgo que pueda poner en peligro mi integridad física o mi salud, así como la de mis compañeros; en caso de presentarse algún riesgo, lo comunicaré a la instancia correspondiente.
 
@@ -359,9 +411,13 @@ Esta Pauta implica:
 
 4.7 Tratar con justicia, profesionalismo, igualdad y respeto a todas las personas con las que se tenga relación, respetando la dignidad, diversidad y equidad, a fin de promover una cultura de inclusión y no discriminación.
 
-Valores del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-Principios del Código de Ética con los que se vincula: Legalidad, imparcialidad, lealtad, profesionalismo, objetividad, integridad y equidad.
+Valores institucionales del Código de Ética con los que se vincula: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+Principios Rectores del Servicio Público con los que se vincula: Legalidad, imparcialidad, lealtad, profesionalismo, objetividad, integridad y equidad.
 
 Reglas de Integridad con las que se vincula: Trámites y servicios, recursos humanos, actuación pública, procesos de evaluación, desempeño permanente con integridad, cooperación con la integridad y comportamiento digno.
 
@@ -369,9 +425,13 @@ Esta pauta implica:
 
 - En mi desempeño, privilegiar mecanismos incluyentes y plurales, para dar oportunidad de expresar sus puntos de vista a todas las personas involucradas.
 
-- Brindar un trato digno y respetuoso a toda persona que solicite algún servicio, así como a mis superiores jerárquicos, colaboradores, a compañeros y compañeras de trabajo, a colegas, colaboradores y en general a todo el personal del Instituto, independientemente de su género, origen étnico, afinidad política, capacidad económica y física, edad, religión, orientación sexual, identidad y expresión de género, u otra cualidad humana, procurando mantener un clima de cordialidad y colaboración, y que mi conducta sea ejemplo para toda persona con quien me relaciono profesionalmente.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
 
-- Tratar a los proveedores y contratistas, así como a su personal, de manera cortés y respetuosa, a fin de fomentar una mejor comunicación institucional con los mismos, observando imparcialidad, transparencia, rendición de cuentas y honradez. Así como hacer del conocimiento de mi superior jerárquico, cualquier circunstancia anómala resultante de la comunicación con los licitantes o proveedores, para que se tomen, en su caso, las medidas que correspondan.
+- Brindar un trato digno y respetuoso a toda persona que solicite algún servicio, así como a personas superiores jerárquicas, colaboradores, a compañeros y compañeras de trabajo, a colegas, colaboradoras y en general a todo el personal del Instituto, independientemente de su sexo, origen étnico, afinidad política, capacidad económica y física, edad, religión, orientación sexual, identidad y expresión de género, u otra cualidad humana, procurando mantener un clima de cordialidad y colaboración, y que mi conducta sea ejemplo para toda persona con quien me relaciono profesionalmente.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2024)</small>
+
+- Tratar a las y los proveedores y contratistas, así como a su personal, de manera cortés y respetuosa, a fin de fomentar una mejor comunicación institucional con los mismos, observando imparcialidad, transparencia, rendición de cuentas y honradez. Así como hacer del conocimiento de mi persona superior jerárquica, cualquier circunstancia anómala resultante de la comunicación con los licitantes o proveedores, para que se tomen, en su caso, las medidas que correspondan.
 
 - Propiciar en mi área de trabajo un clima laboral que permita el desarrollo profesional, emocional y psicológico de las personas, basado en el respeto a su dignidad e integridad personal, sin distinción de género ni de otro tipo de discriminación.
 
@@ -504,3 +564,11 @@ Estoy convencida(o) de que, al cumplir con la Declaración de Principios, y el C
 Manifiesto que, en el desempeño de mis funciones y/o atribuciones, daré siempre cumplimiento a los valores, principios y pautas de conducta establecidas; velaré en todo momento por privilegiar el interés público y del Instituto Federal de Telecomunicaciones, y desempeñaré mi trabajo con integridad, orgullo y vocación de servicio público en beneficio de la sociedad mexicana.
 
 Nombre, firma y cargo de la persona servidora pública en el IFT
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “ ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA Y ADICIONA EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES”.]
+
+Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Intranet Institucional. Asimismo, se publicará en el Diario Oficial de la Federación un aviso en el que se señale que el Acuerdo ha sido publicado en el portal de la Intranet del Instituto y su fecha de entrada en vigor.
