@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2024-10-15"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1025,13 +1025,11 @@ El Presidente del Congreso declarará a la Legislatura legítimamente constituid
 
 El presidente de la mesa directiva y su suplente durarán en su cargo sólo un periodo ordinario.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
-La presidencia y suplencia de la mesa directiva de cada periodo ordinario será rotativa entre los diferentes grupos parlamentarios, dicha rotación se hará de forma decreciente atendiendo a su número de integrantes.
+La presidencia y suplencia de la mesa directiva de cada periodo ordinario será aquella que elija el pleno por mayoría de votos.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
-
-La rotación señalada en el párrafo anterior se realizará hasta agotar todos los grupos parlamentarios que conformen la legislatura correspondiente.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
 
@@ -3093,15 +3091,15 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político las Diputadas y los Diputados al Congreso del Estado, las Magistradas y los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, las Consejeras y los Consejeros de la Judicatura, las Juezas y los Jueces, las Secretarias y los Secretarios del Ejecutivo, la o el titular de la Oficina del Gobernador, la Contralora o el Contralor Gubernamental, la o el Fiscal General de Justicia, las fiscales y los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, la Consejera o el Consejero Presidente y las Consejeras o los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, la o el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las Comisionadas y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, las o los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y las o los integrantes de los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
-Asimismo, el Gobernador del Estado, los Diputados al Congreso local, los Magistrados del Poder Judicial y los miembros del Consejo de la Judicatura podrán ser sujetos de juicio político, en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+Asimismo, el Gobernador del Estado, las Diputadas y los Diputados al Congreso local, las Magistradas y los Magistrados del Poder Judicial y las y los miembros del Consejo de la Judicatura podrán ser sujetos de juicio político, en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3119,11 +3117,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra las Diputadas y los Diputados al Congreso del Estado, las Magistradas y los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, las Consejeras y los Consejeros de la Judicatura, las Juezas y los Jueces, las Secretarias y los Secretarios del Ejecutivo, la o el titular de la Oficina del Gobernador, la Contralora o el Contralor Gubernamental, la o el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, la Consejera o el Consejero Presidente y las Consejeras y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, la o el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las Comisionadas y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y las o los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -5412,6 +5410,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-4 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 165, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-62 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 43, PÁRRAFO CUARTO; 151 PÁRRAFOS PRIMERO Y SEGUNDO; 152 PÁRRAFO PRIMERO; Y SE DEROGA EL PÁRRAFO QUINTO DEL ARTÍCULO 43, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
