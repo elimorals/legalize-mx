@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2024-09-12"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1917,7 +1917,9 @@ Las personas titulares de las dependencias, entidades y organismos del Gobierno 
 
 ###### Artículo 102.
 
-Al ministerio público le corresponde investigar los delitos del orden común; ejercer la representación y defensa de los intereses de la sociedad y de la acción penal ante los tribunales. El ejercicio de las funciones del ministerio público estará a cargo de un Fiscal General del Estado, quien se auxiliará de una policía encargada de la investigación de los delitos, la que estará bajo su mando inmediato y directo, así como de los demás cuerpos de seguridad pública y privada, en los términos de las leyes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
+
+Al ministerio público le corresponde investigar los delitos del orden común; ejercer la representación y defensa de los intereses de la sociedad y de la acción penal ante los tribunales. El ejercicio de las funciones del ministerio público estará a cargo de la o el Fiscal General del Estado y la o el Fiscal Especializado en Combate a la Corrupción, cada uno en el ámbito de su competencia y facultades, quienes se auxiliarán de una policía encargada de la investigación de los delitos de su competencia, la que estará bajo su mando inmediato y directo, así como de los demás cuerpos de seguridad pública y privada, en los términos de las leyes.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2705,13 +2707,11 @@ Los requisitos para ocupar el cargo y la forma de elección, así como los casos
 
 ### Capítulo VIII. De la Fiscalía Especializada en Combate a la Corrupción
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 146 Ter.
 
-La Fiscalía Especializada en Combate a la Corrupción, tendrá las atribuciones que se le señalen en las leyes aplicables. El titular de esta Fiscalía será propuesto por el Titular del Poder Ejecutivo y ratificado por el Congreso del Estado, en los términos que dispone esta Constitución.
-
-La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica, operativa, financiera y de gestión para investigar y perseguir los hechos que sean materia de actos de corrupción que la ley considera como delitos; su titular deberá comparecer y presentar ante el Congreso del Estado un informe anual sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo.
+La Fiscalía Especializada en Combate a la Corrupción, tendrá las atribuciones que se le señalen en las leyes aplicables. La persona titular de esta Fiscalía será propuesta por la persona Titular del Poder Ejecutivo y ratificado por el Congreso del Estado, en los términos que dispone esta Constitución. La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica, operativa, financiera y de gestión para investigar y perseguir los hechos que sean materia de actos de corrupción y al delito de Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes que la ley considera como delitos; la persona titular deberá comparecer y presentar ante el Congreso del Estado un informe anual sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción y al delito de Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -3229,9 +3229,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 ###### Artículo 176.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
-Para proceder penalmente contra las diputadas, los diputados, las magistradas, los magistrados del Poder Judicial, las consejeras, los consejeros del Consejo de la Judicatura, los jueces de Primera Instancia, los jueces del Tribunal para Menores Infractores, las personas titulares de las Secretarios (sic) de Despacho del Poder Ejecutivo, la o el Fiscal General del Estado y las o los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra las diputadas, los diputados, las magistradas, los magistrados del Poder Judicial, las consejeras, los consejeros del Consejo de la Judicatura, los jueces de Primera Instancia, los jueces del Tribunal para Menores Infractores, las personas titulares de las Secretarios (sic) de Despacho del Poder Ejecutivo, la o el Fiscal General del Estado, la o el Fiscal Especializado en Combate a la Corrupción y las o los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha lugar o no a proceder contra el inculpado.
 
 Si la resolución del Congreso del Estado fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -4828,3 +4828,13 @@ P.O. 12 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 599 QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE COMBATE A LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS Y DEGRADANTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Congreso del Estado de Durango en un plazo que no exceda a los treinta días, contados a partir de la entrada en vigor del presente Decreto, expedirá las formas necesarias a la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Durango.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
