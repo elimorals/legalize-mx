@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2024-02-02"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -1388,6 +1388,18 @@ El ejercicio del Poder Ejecutivo de la Entidad se deposita en una sola persona q
 ###### Artículo 71.
 
 La elección de Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos de la Ley de la materia. La elección de Gobernador se efectuará el día y año de la elección de Presidente de la República.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
+
+En la renovación de la titularidad del Poder Ejecutivo, se deberá garantizar el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
+
+Los partidos políticos, coaliciones electorales y candidaturas comunes, deberán alternar el género en la postulación en cada elección en términos de lo que disponga la legislación local en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
+
+Lo anterior no será aplicable para los casos en los que esta Constitución prevé que la titularidad del Poder Ejecutivo sea ocupada por la o el gobernador interino, provisional o sustituto.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -4148,3 +4160,17 @@ DÉCIMO TERCERO. El Consejo de la Judicatura en un término no mayor a sesenta d
 DÉCIMO CUARTO. El Consejo de la Judicatura en un término no mayor a sesenta días hábiles deberá realizar las adecuaciones necesarias de la estructura orgánica del Tribunal de Justicia Administrativa, con motivo de la nueva conformación de la Sala Especializada en Materia de Responsabilidades Administrativas.
 
 DÉCIMO QUINTO. Los derechos laborales del personal que, en virtud de lo dispuesto en este Decreto, pasen de la Sala Constitucional y de la Sala Especializada en Materia de Responsabilidades Administrativas, al Tribunal Superior de Justicia del Estado se respetarán en términos de la legislación aplicable.
+
+P.O. 7 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, QUE DECLARA APROBADO EL DECRETO POR EL QUE ADICIONA LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y para el inicio de su vigencia en el siguiente Proceso Electoral Estatal Ordinario en donde el partido político, coalición o candidatura común podrá registrar libremente como candidato a una mujer o a un hombre en igualdad de condiciones.
+
+El género de la candidatura registrada o propuesta del partido político, coalición o candidatura común en ese Proceso, establecerá el inicio para la alternancia de género, de la Gubernatura para el Proceso Electoral Estatal Ordinario 2035-2036.
+
+SEGUNDO. Los partidos políticos que, a la entrada en vigor del presente, cuenten con registro vigente en la entidad, contarán con ciento ochenta días naturales, para adecuar sus estatutos y dar cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, hará las reformas a la normatividad que sean necesarias, de conformidad con lo dispuesto en este Decreto.
+
+CUARTO Se derogan todas las disposiciones que se opongan al presente Decreto.
