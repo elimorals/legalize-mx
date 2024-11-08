@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2024-11-02"
+last_updated: "2024-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -429,11 +429,13 @@ La Mesa Directiva es el órgano de gobierno que representa la unidad del Poder L
 
 La Presidencia de la Mesa Directiva conducirá las relaciones institucionales con los otros dos Poderes del Estado, los gobiernos de los demás Estados de la Federación, los Ayuntamientos y Consejos Municipales de los Municipios del Estado, así como los Poderes de la Unión.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-La Mesa Directiva se integrará, atendiendo al principio de igualdad de género, con una Presidencia, una Vicepresidencia y tres Secretarías, que durarán en su cargo un año con las obligaciones y facultades que se determinan en este ordenamiento, su Reglamento y las disposiciones de normatividad aplicables; no pudiendo ser reelectos para los mismos cargos para el año inmediato posterior al de su nombramiento.
+La Mesa Directiva se integrará, atendiendo al principio de igualdad de género, con una Presidencia, una Vicepresidencia y tres Secretarías, que durarán en su cargo un año con las obligaciones y facultades que se determinan en este ordenamiento, su Reglamento y las disposiciones de normatividad aplicables.
 
-La Presidencia de la Mesa Directiva, será rotativa y en ningún caso recaerá en el mismo año legislativo, en un Diputado que pertenezca al Grupo Parlamentario que presida la Jucopo.
+Los integrantes de la Mesa Directiva no podrán ser reelectos para los mismos cargos para el año inmediato posterior al de su nombramiento.
 
 ###### ARTÍCULO 34.
 
@@ -641,21 +643,15 @@ XX. Las demás que se deriven del Pleno, de esta Ley, su Reglamento, los Acuerdo
 
 ### CAPÍTULO PRIMERO. DE SU NATURALEZA E INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 44.
 
-La Jucopo es el órgano de gobierno que representa la expresión de la pluralidad del Congreso; por tanto, es el órgano colegiado en el que se propician entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+La Jucopo es el órgano de gobierno que representa la expresión de la pluralidad del Congreso; por tanto, es el órgano colegiado en el que se propician entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden. La Jucopo se integra por los Coordinadores de cada Grupo Parlamentario y contará con un Secretario Técnico designado por el Presidente. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador del Grupo Parlamentario que por si mismo cuente con la mayoría absoluta en el Congreso.
 
-La Jucopo se integra por los Coordinadores de cada Grupo Parlamentario y contará con un Secretario Técnico designado por el Presidente. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador del Grupo Parlamentario que por sí mismo cuente con la mayoría absoluta en el Congreso.
+En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Jucopo será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de los tres Grupos Parlamentarios que cuenten, al inicio de la Legislatura, con el mayor número de Diputados. El orden del ejercicio de la presidencia, será por acuerdo y se tomará por mayoría de votos de sus miembros presentes, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su Grupo Parlamentario.
 
-En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Jucopo será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de los tres Grupos Parlamentarios que cuenten, al inicio de la Legislatura, con el mayor número de Diputados.
-
-El orden del ejercicio de la presidencia, será por acuerdo y se tomará por mayoría de votos de sus miembros presentes, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su Grupo Parlamentario.
-
-La Jucopo deberá integrarse a más tardar, en la segunda sesión que celebre el Congreso al inicio de la Legislatura. La instalación de la Jucopo será mediante sesión que la misma celebre, la que será convocada por el Coordinador del Grupo Parlamentario que ejerza la Presidencia de la Mesa Directiva.
-
-Los integrantes de la Jucopo no podrán ser designados de manera simultánea para ningún otro cargo dentro de la Legislatura.
-
-No podrá recaer en un mismo año legislativo, el ejercicio de la Presidencia de la Jucopo y de la Mesa Directiva, en un mismo Grupo Parlamentario.
+La Jucopo deberá integrarse a más tardar, en la segunda sesión que celebre el Congreso al inicio de la Legislatura. La instalación de la Jucopo será mediante sesión que la misma celebre, la que será convocada por el Coordinador del Grupo Parlamentario que ejerza la Presidencia de la Mesa Directiva. Los integrantes de la Jucopo no podrán ser designados de manera simultánea para ningún otro cargo dentro de la Legislatura.
 
 ###### ARTÍCULO 45.
 
@@ -1692,3 +1688,13 @@ P.O. 2 DE NOVIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 8 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2501.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 33 Y EL ARTÍCULO 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL ARTÍCULO 2 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, con fundamento en el Artículo 7 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
