@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2024-10-11"
+last_updated: "2024-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE NOVIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE NOVIEMBRE DE 2024.]</small>
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1317,7 +1317,11 @@ Homicidio en razón de parentesco o relación
 
 A quien con conocimiento de la relación que le une con el sujeto pasivo, prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, pareja, concubina o concubinario, se le impondrá de veinte a treinta y cinco años de prisión y suspensión de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio, hasta por el mismo término de la pena impuesta.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE OCTUBRE DE 2024)</small>
+(ADICIONADO, P.O. 17 DE FEBRERO DE 2023) (F. DE E., P.O. 8 DE NOVIEMBRE DE 2024)
+
+Cuando en el homicidio en razón de parentesco se acredite alguna de las causales establecidas para el delito de feminicidio, se impondrán al sujeto activo, las sanciones y consecuencias jurídicas previstas en este último.
+
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2024) (F. DE E., P.O. 8 DE NOVIEMBRE DE 2024)
 
 No se perseguirá ni juzgará como homicidio en razón de parentesco o relación cuando el sujeto pasivo sea el producto en gestación en cualquier momento del embarazo y el sujeto activo sea la mujer embarazada o persona gestante.
 
@@ -4745,7 +4749,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 17 DE FEBRERO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE "SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
