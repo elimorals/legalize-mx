@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2024-11-02"
+last_updated: "2024-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -337,19 +337,13 @@ La Mesa Directiva desempeñará sus funciones, tanto en las sesiones de los per�
 
 En caso de faltar alguna Secretaría, la Presidencia señalará libremente Secretarías provisionales para cada sesión, con facultades de firmar la correspondencia y la documentación que proceda de la sesión en que actuaron.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-Para la elección de los integrantes de la Mesa Directiva, los Grupos Parlamentarios postularán a quienes deban conformarla. Los coordinadores de los Grupos Parlamentarios no podrán formar parte de la Mesa Directiva.
-
-La elección de los integrantes de la Mesa Directiva se llevará a cabo durante la sesión preparatoria del año que corresponda, previo acuerdo de los integrantes de la Jucopo.
-
-La Presidencia de la Mesa Directiva será ejercida, en forma alternada y para cada año legislativo, por los tres Grupos Parlamentarios que cuenten con el mayor número de diputados. El orden anual para presidir este órgano será determinado por la Jucopo.
-
-En caso de no existir acuerdo al respecto, se procederá conforme a lo siguiente: La Presidencia de la Mesa Directiva para el primero, segundo y tercer año de ejercicio de la Legislatura, recaerá en orden ascendente, en un integrante de los tres grupos parlamentarios con mayor número de diputados.
+Para la elección de los integrantes de la Mesa Directiva, los Grupos Parlamentarios postularán a quienes deban conformarla. Los coordinadores de los Grupos Parlamentarios no podrán formar parte de la Mesa Directiva. La elección de los integrantes de la Mesa Directiva se llevará a cabo durante la sesión preparatoria del año que corresponda, previo acuerdo de los integrantes de la Jucopo.
 
 El Presidente de la Mesa Directiva no podrá ser designado, de manera simultánea para ningún otro cargo dentro de la Legislatura.
-
-No podrá recaer en un mismo año legislativo, el ejercicio de la Presidencia de la Mesa Directiva y de la Jucopo, en un mismo Grupo Parlamentario.
 
 ###### ARTÍCULO 23.
 
@@ -3234,3 +3228,13 @@ P.O. 2 DE NOVIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 8 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2501.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 33 Y EL ARTÍCULO 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL ARTÍCULO 22 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, con fundamento en el Artículo 7 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
