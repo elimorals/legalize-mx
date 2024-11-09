@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2024-08-24"
+last_updated: "2024-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -391,23 +391,27 @@ IV. Las prevenciones y medidas científicas, jurídicas y técnicas que sugieran
 
 ### CAPÍTULO TERCERO. DE LA DECLARATORIA DE PATRIMONIO CULTURAL
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 18.
 
-Los bienes del Patrimonio Cultural del Estado podrán ser objeto de declaratoria. La declaratoria es el acto jurídico del Titular del Poder Ejecutivo, del Congreso del Estado o del Ayuntamiento, que tiene por objeto otorgar un reconocimiento adicional a un bien.
+Los bienes del Patrimonio Cultural, Natural o Gastronómico del Estado podrán ser objeto de declaratoria.
 
-La declaratoria podrá hacerse sobre un elemento individual o sobre un conjunto de elementos que guarden algún tipo de relación entre sí.
+Todos los pueblos y comunidades de Oaxaca, podrán ser objeto de declaratoria de Protección.
 
-La solicitud para la emisión de una declaratoria podrá ser promovida de oficio, por acuerdo de Ayuntamiento o a petición de parte, mediante escrito dirigido a la Secretaría o al Ayuntamiento según sea el caso, con los siguientes datos:
+La declaratoria es el acto jurídico del titular del Poder Ejecutivo o del Honorable Congreso del Estado, que tiene por objeto otorgar un reconocimiento adicional a un elemento y establecer mecanismos especiales de protección.
+
+Las declaratorias podrán hacerse sobre un elemento individual o sobre un conjunto de elementos que guarden algún tipo de relación entre sí.
+
+La solicitud para la emisión de una declaratoria podrá ser promovida a petición de parte ante el Honorable Congreso del Estado o la oficina de la persona titular del Poder Ejecutivo, por parte de las comunidades o pueblos indígenas y afromexicanas, acompañadas de acta de asamblea en donde se acuerde realizar la solicitud de declaratoria de los bienes culturales, naturales o gastronómicos.
+
+La solicitud será mediante oficio que deberá contener por lo menos los siguientes requisitos:
 
 I. Nombre y domicilio del promovente;
 
-II. Descripción del bien, conjunto de bienes o zona objeto de la solicitud, de acuerdo a la reglamentación correspondiente;
+II. Descripción del bien, elemento, conjunto de elementos o zona objeto de la solicitud, de acuerdo con la reglamentación correspondiente; y
 
 III. Exposición de motivos que sustenten su petición, los documentos o elementos que estime necesarios para sustentar y justificar su petición.
-
-La declaratoria podrá recaer tanto en bienes materiales e inmateriales, propiedad del Estado o de los municipios como en los bienes de propiedad privada, sin afectar su titularidad.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
@@ -962,3 +966,9 @@ P.O. 24 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2364.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 3; SE ADICIONAN (SIC) LA FRACCION XII AL ARTÍCULO 3; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE DESARROLLO CULTURAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, el cual entrará en vigor a partir del día siguiente de su referida publicación.
+
+P.O. 9 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2473.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 18 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, el cual entrará en vigor al día siguiente de su referida publicación.
