@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-132081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-28"
-last_updated: "2020-12-23"
+last_updated: "2024-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 9 DE NOVIEMBRE DE 2024; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL UNO DE ENERO DEL DOS MIL VEINTICINCO, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Extraordinario al Número 133 del Periódico Oficial del Estado de Tabasco, el viernes 28 de diciembre de 2018.
 
@@ -1934,3 +1936,41 @@ TERCERO. El titular del Poder Ejecutivo del Estado nombrará al servidor públic
 CUARTO. Los recursos materiales y presupuestales, así como los activos y pasivos que tenía a su cargo la Unidad de Impulso a Proyectos Estratégicos, se incorporarán en lo conducente a la Unidad de Administración y Finanzas de la Gubernatura, de conformidad con las disposiciones legales, administrativas y presupuestales aplicables.
 
 QUINTO. La Comisión Técnica para la implementación de la Ley Orgánica del Poder Ejecutivo, realizará las adecuaciones legales y administrativas necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 013 POR EL QUE "SE EXPIDE LA NUEVA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero del dos mil veinticinco, previa publicación en el Periódico Oficial.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, publicada en el Periódico Oficial, extraordinario número 133, Decreto 060, de fecha veintiocho de diciembre de dos mil dieciocho, así como sus subsecuentes reformas y todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Administración y Finanzas deberá llevar a cabo los ajustes administrativos y presupuestales necesarios para la implementación de la nueva estructura de la Administración Pública prevista en esta Ley, para operar a partir del uno de enero de dos mil veinticinco.
+
+CUARTO. A las Dependencias que asumen atribuciones que anteriormente correspondían a otras, recibirán el traslado de los recursos humanos, materiales técnicos y financieros correspondientes, mediante los actos jurídicos y administrativos que sean necesarios, bajo los criterios que establezcan las Dependencias Globalizadoras.
+
+QUINTO. En el caso de que alguna unidad administrativa, pase conforme a esta Ley de una Dependencia a otra, el traspaso o transferencia se hará incluyendo el personal a su servicio, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipamiento de las unidades que se hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior.
+
+SEXTO. Tratándose de los organismos públicos descentralizados y desconcentrados, que con motivo de las disposiciones contenidas en esta Ley, pasen a formar parte de alguna Dependencia, las Dependencias Globalizadoras y la Dependencia coordinadora del sector deberán plantear a la persona titular del Poder Ejecutivo los mecanismos administrativos para la fusión o sectorización respectiva.
+
+Todos los recursos humanos, financieros y materiales pasarán a la Secretaría de que se trate, sin perjuicio de los derechos laborales de las personas servidoras públicas, así como los activos y pasivos del organismo respectivo.
+
+SÉPTIMO. Los recursos humanos y presupuestales asignados a los titulares de los Órganos Internos de Control de las Dependencias, así como a sus respectivos departamentos, deberán ser transferidos a la Secretaría de la Función Pública, debiendo las Dependencias programar anualmente en sus presupuestos, los gastos de operación necesarios para la atención de los asuntos relacionados con las funciones de los mismos.
+
+En cuanto a las Entidades deberán prever los recursos humanos y presupuestales necesarios para la operación de sus Órganos Internos de Control.
+
+OCTAVO. Las referencias hechas en otros ordenamientos a las Dependencias que por virtud de esta Ley hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a la Dependencia que establece el presente Decreto.
+
+NOVENO. Los asuntos administrativos que deban pasar de una Dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que estén conociendo de las mismas se incorporen a la Dependencia que señale esta Ley, a excepción de los urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
+
+DÉCIMO. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pase de una dependencia a otra, se respetarán conforme a las disposiciones jurídicas aplicables.
+
+DÉCIMO PRIMERO. La persona titular del Poder Ejecutivo deberá emitir los nuevos reglamentos interiores o sus equivalentes de las Dependencias, Entidades y Órganos de la Administración Pública que sean necesarios, en los noventa días naturales posteriores a la entrada en vigor de esta Ley, para regular debidamente lo concerniente al funcionamiento interno de las unidades administrativas adscritas a las Dependencias.
+
+En igual período, las Entidades de la Administración Pública Paraestatal que corresponda, a través de sus órganos de gobierno, emitirán sus respectivos estatutos orgánicos, los cuales deberán ser enviados para su publicación en el Periódico Oficial.
+
+DÉCIMO SEGUNDO. En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones legales, tanto reglamentarias como administrativas que regulaban los actos previstos en la Ley que se abroga.
+
+De igual forma, hasta en tanto no se emitan los nuevos reglamentos interiores de las Dependencias y Entidades, se aplicará la presente Ley en lo concerniente al funcionamiento interno de las unidades administrativas adscritas a las Dependencias.
+
+DÉCIMO TERCERO. En caso de duda o interpretación en el ámbito administrativo, con motivo de la creación de las Dependencias previstas por esta Ley, quedará a la exclusiva competencia de la persona titular del Poder Ejecutivo su resolución, el cual podrá pedir opinión, según el caso, a los responsables de las Dependencias que estimare pertinente, en conjunto con la Secretaría de Administración y Finanzas y la Consejería Jurídica del Poder Ejecutivo del Estado.
