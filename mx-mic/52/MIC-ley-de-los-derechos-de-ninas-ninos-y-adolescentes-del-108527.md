@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2024-09-05"
+last_updated: "2024-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -221,9 +221,9 @@ XII. El principio pro persona;
 
 XII Bis. La Primera Infancia;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XIII. El acceso a una vida libre de violencia;
+XIII. El acceso a una vida libre de violencia, a la integridad personal y psicoemocional;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
@@ -265,9 +265,9 @@ VI. Derecho a no ser discriminado;
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Derecho a una vida libre de maltrato o violencia y a la integridad personal;
+VIII. Derecho a una vida libre de maltrato o violencia, a la integridad personal y psicoemocional;
 
 IX. Derecho a la protección de la salud y a la seguridad social;
 
@@ -643,15 +643,15 @@ Las leyes estatales en el ámbito de sus respectivas competencias, establecerán
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a desarrollar y ejecutar programas, políticas públicas y acciones integrales, para apoyar en forma efectiva a niñas, niños y adolescentes en situación de calle, considerando sus necesidades básicas.
 
-(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2016) (F. DE E., P.O. 25 DE JULIO DE 2016)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE MALTRATO O VIOLENCIA Y A LA INTEGRIDAD PERSONAL
+### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE MALTRATO O VIOLENCIA, A LA INTEGRIDAD PERSONAL Y PSICOEMOCIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 32.
 
-Niñas, niños y adolescentes tienen derecho a vivir en un contexto libre de maltrato o violencia y a que se resguarde su integridad personal, física y emocional, a fin de lograr las mejores condiciones para favorecer su bienestar y desarrollo integral.
+Niñas, niños y adolescentes tienen derecho a vivir en un contexto libre de maltrato o violencia y a que se resguarde su integridad personal, física, emocional y psicoemocional, a fin de lograr las mejores condiciones para favorecer su bienestar y desarrollo integral.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -671,13 +671,13 @@ I. Prevenir, sancionar y erradicar los casos en que niñas, niños o adolescente
 
 II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos, en especial cuando se trate de delitos contra el libre desarrollo de la personalidad y el normal desarrollo psicosexual, en términos del Código Penal para el Estado de Michoacán;
+III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica, emocional y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos, en especial cuando se trate de delitos contra el libre desarrollo de la personalidad y el normal desarrollo psicosexual, en términos del Código Penal para el Estado de Michoacán;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral;
+IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física, psicológica y emocional, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -1373,11 +1373,11 @@ Las instalaciones de los centros de asistencia social deberán cumplir con los r
 
 Niñas, niños y adolescentes con discapacidad temporal o permanente deberán ser atendidos y no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social bajo ningún concepto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 62.
 
-Es responsabilidad de los centros de asistencia social garantizar la integridad física y psicológica de niñas, niños y adolescentes que tengan bajo su custodia.
+Es responsabilidad de los centros de asistencia social públicos y privados, garantizar la integridad física, psicológica y emocional de niñas, niños y adolescentes que tengan bajo su custodia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -1387,15 +1387,21 @@ Los servicios que presten los centros de asistencia social estarán orientados a
 
 I. Un entorno seguro, afectivo y libre de maltrato o violencia;
 
-II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física, psicológica y emocional;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
 III. Alimentación, nutritiva, suficiente y de calidad que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
 
-IV. Atención integral y multidisciplinaria de servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social y jurídico;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión de sus derechos;
+IV. Atención integral y multidisciplinaria de servicio médico, atención de primeros auxilios, seguimiento psicológico, emocional, social y jurídico;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+V. Orientación y educación apropiada a su edad y a su capacidad intelectual, encaminadas a lograr un desarrollo físico, cognitivo, afectivo, psicoemocional y social hasta el máximo de sus posibilidades, así como a la comprensión de sus derechos;
 
 VI. En su vida cotidiana disfrutar del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
@@ -1411,9 +1417,13 @@ XI. A niñas, niños y adolescentes con discapacidad, la inclusión en términos
 
 XII. Capacitación y formación especializada a su personal en la medida que favorezca el desarrollo integral de niñas, niños y adolescentes bajo su cuidado; y,
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes; así como cualquier tipo de violencia en su contra, en específico castigo corporal físico o psicológico. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tengan contacto con éstos en la medida que pudiera causarles algún daño o perjuicio.
+XIII. Las personas responsables de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física, psicológica y emocional de niñas, niños y adolescentes; así como ejercer cualquier tipo de violencia en su contra, en específico castigos corporales, físicos, psicológicos y emocionales.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Los servidores de los centros de atención a niñas, niños y adolescentes, deberán evitar realizar actividades que puedan provocar contacto físico inapropiado en el cuidado de niñas, niños y adolescentes, para evitar causarles algún daño o perjuicio físico, psicológico y emocional.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -2558,3 +2568,19 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 672.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 7, LA FRACCIÓN VIII DEL ARTÍCULO 10, LA DENOMINACIÓN DEL CAPÍTULO IX, EL PRIMER PÁRRAFO DEL ARTÍCULO 32 Y SUS FRACCIONES III Y IV, EL ARTÍCULO 62 Y SUS FRACCIONES II, IV, V Y XIII; ASÍ MISMO SE ADICIONA UN PÁRRAFO A LA FRACCIÓN XIII DEL ARTÍCULO 62, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Notifíquese al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+A efecto de dar cumplimiento al presente Decreto, se concede al Titular del Poder Ejecutivo del Estado, 180 días hábiles para reformar, modificar y/o adecuar los reglamentos y manuales de operación de los centros de atención para niñas, niños y adolescentes.
