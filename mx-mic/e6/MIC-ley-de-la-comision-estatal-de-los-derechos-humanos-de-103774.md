@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2024-09-05"
+last_updated: "2024-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -197,9 +197,13 @@ XII. Coordinar su actividad con la Comisión Nacional de los Derechos Humanos en
 
 XIII. Celebrar convenios y acuerdos en materia de Derechos Humanos con los gobiernos municipales;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XIV. Vigilar el respeto a los Derechos Humanos de las personas que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos, así como de aquellas que están privadas de su libertad, en los establecimientos destinados a la detención preventiva, internamiento o reinserción social que se ubiquen en la entidad; a través de la realización de visitas cuando menos dos veces al año, así como del establecimiento de otros mecanismos que le permitan dar cumplimiento a esta disposición;
+XIV. Vigilar el respeto a los Derechos Fundamentales y Humanos de las personas que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos, así como de aquellas que están privadas de su libertad, en los establecimientos destinados a la detención preventiva, internamiento o reinserción social que se ubiquen en la entidad; a través de la realización de visitas cuando menos de manera semestral, así como del establecimiento de otros mecanismos que le permitan dar cumplimiento a esta disposición.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+En el caso de las visitas a los establecimientos destinados a la detención preventiva, internamiento o reinserción social de la entidad; las visitas deberán realizarse de manera trimestral;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -835,7 +839,9 @@ VII. Solicitar a la autoridad la presentación de informes o documentos que ayud
 
 VIII. Practicar las visitas e inspecciones al sector público, para el esclarecimiento de los hechos que se investigan;
 
-IX. Realizar conforme al Reglamento, visitas periódicas a los establecimientos destinados a la detención preventiva, custodia, internamiento y reinserción social, para constatar que no se cometan violaciones a los Derechos Humanos, remitiendo un informe al Presidente dentro de las setenta y dos horas siguientes a cada visita. Para tal efecto, los servidores públicos que desempeñen un empleo, cargo o comisión en la Administración Pública del Estado o Municipio, prestarán las facilidades que se requieran para el cumplimiento de la visita;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+IX. Realizar conforme al Reglamento, visitas trimestrales a los establecimientos destinados a la detención preventiva, custodia, internamiento y reinserción social, para constatar que no se cometa violaciones a los Derechos Humanos, remitiendo un informe al Presidente dentro de las setenta y dos horas siguientes a cada visita. Para tal efecto, los servidores públicos que desempeñen un empleo, cargo o comisión en la Administración Pública del Estado o Municipio, prestarán las facilidades que se requiera para el cumplimiento de la visita;
 
 X. Coordinar, supervisar y participar en las guardias de la Visitaduría;
 
@@ -1646,6 +1652,22 @@ Lo anterior, no será impedimento para que dichos Centros comiencen a operar con
 P.O. 5 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 671 POR EL QUE "SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 86; SE ADICIONA UN ÚLTIMO PÁRRAFO Y SE REFORMA EL PRIMER Y EL SEGUNDO PÁRRAFOS DEL ARTÍCULO 88; SE ADICIONA UN SEGUNDO PÁRRAFO Y SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 89; Y, SE REFORMA EL ARTÍCULO 91 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 99 TODOS DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 664.-ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XIV Y SE ADICIONA UN SEGUNDO PÁRRAFO A ESA MISMA FRACCIÓN DEL ARTICULO 13; Y, SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 54 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”]
 
 ###### ARTÍCULO PRIMERO.
 
