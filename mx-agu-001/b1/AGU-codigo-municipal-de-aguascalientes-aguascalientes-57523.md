@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-11-04"
+last_updated: "2024-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE NOVIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -659,7 +659,9 @@ Dicha documentación, se remitirá a las direcciones de correo electrónico que 
 
 La notificación de la celebración de la sesión, así como de la documentación respectiva, se tendrá por realizada el día y hora que obre en la cuenta de correo electrónico remitente, que para el efecto haya autorizado el Secretario del Honorable Ayuntamiento y Director General de Gobierno.
 
-A los miembros del Cabildo que incumplan su obligación de señalar dirección de correo electrónico en términos del párrafo segundo de este artículo, la documentación correspondiente les será enviada al correo electrónico institucional creado por la Dirección de Tecnologías de la información y comunicación del Municipio de Aguascalientes al personal que labora en el Municipio, así mismo les será entregada en la oficina que ocupen en el Palacio Municipal, a más tardar el día hábil siguiente al envió del correo y antes de que inicie la sesión respectiva, situación que no invalidará la notificación la cual se tendrá por realizada en términos del párrafo anterior. En estos casos, la documentación podrá ser recibida por el personal adscrito a la oficina del Regidor o Síndico de que se trate.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+A los miembros del Cabildo que incumplan su obligación de señalar dirección de correo electrónico en términos del párrafo segundo de este artículo, la documentación correspondiente les será enviada al correo electrónico institucional creado por la Coordinación General de Infraestructura y Desarrollo Tecnológico, al personal que labora en el Municipio, así mismo les será entregada en la oficina que ocupen en el Palacio Municipal, a más tardar el día hábil siguiente al envió del correo y antes de que inicie la sesión respectiva, situación que no invalidará la notificación la cual se tendrá por realizada en términos del párrafo anterior. En estos casos, la documentación podrá ser recibida por el personal adscrito a la oficina del Regidor o Síndico de que se trate.
 
 El Secretario del Honorable Ayuntamiento y Director General de Gobierno, atendiendo a la cantidad de la documentación, podrá determinar otros mecanismos para realizar la notificación respectiva, por medios digitales o impresos.
 
@@ -709,11 +711,15 @@ Serán Sesiones Solemnes aquellas que el Cabildo les dé ese carácter por la im
 
 El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la Sesión, que se vuelva a discutir en su presencia, él o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados. En este caso el integrante del Cabildo que se encuentre en dicho supuesto podrá solicitar la revocación del acuerdo en cuestión en términos de lo establecido por este Código Municipal.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse entre el 1° de septiembre y el 30 de noviembre de cada año. El formato, así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todos los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
+El informe anual de Gobierno del Presidente Municipal se deberá rendir por escrito al honorable Ayuntamiento, entre el 1° de septiembre y el 30 de noviembre, en el que se pronuncie sobre el estado que guarda la administración municipal y de las labores realizadas en el que además se señalen las acciones instrumentadas en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
+
+El informe anual se entregará a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno para ser turnado para su análisis a las comisiones permanentes referidas en el artículo 82 del presente Código; cada comisión podrá requerir más información a las dependencias o entidades municipales del ramo de su competencia.
+
+El informe anual se tendrá por rendido en la fecha en que se entregue por escrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, y se difundirá de conformidad con lo previsto en la Ley General de Comunicación Social y en la Ley General de Instituciones y Procedimientos Electorales.
 
 ###### ARTÍCULO 32.
 
@@ -757,7 +763,7 @@ La Secretaría del H. Ayuntamiento deberá presentar en los meses de junio y dic
 
 De igual manera, la Contraloría deberá presentar al Cabildo un informe semestral sobre los asuntos de que hubiere tenido conocimiento.
 
-Una vez concluido y antes de su presentación en Sesión Solemne de Cabildo, los integrantes del H. Ayuntamiento deberán conocer por anticipado el contenido del Informe Anual de Gobierno.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
@@ -1137,6 +1143,10 @@ Cuando fuere turnado algún asunto en Sesión a una Comisión, ésta deberá ren
 
 Si la Comisión o Comisiones que deben dictaminar no lo hicieran en el término establecido en el párrafo anterior, sus miembros serán sancionados de conformidad con lo dispuesto por el Artículo 67 fracción I de este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Las iniciativas o propuestas presentadas por el Presidente Municipal podrán someterse a discusión y en su caso aprobación del Cabildo, sin necesidad de dictamen de comisiones.
+
 ###### ARTÍCULO 89.
 
 Las Comisiones especiales serán integradas a propuesta del Presidente Municipal o de cualquiera de los integrantes del H. Ayuntamiento con la aprobación de las dos terceras partes de los miembros del Cabildo, y serán presididas por el Regidor que cuente con la aprobación de la mayoría simple. Estas Comisiones deberán rendir sus dictámenes, en la siguiente Sesión Ordinaria a la fecha en que se turnen los asuntos de su competencia, debiendo cumplirse con lo señalado en los Artículos 85 y 87 en lo relativo al informe escrito y su lectura en la Sesión.
@@ -1207,7 +1217,9 @@ Los titulares de cada una de las dependencias y entidades de la administración 
 
 Para la creación o modificación de una Unidad Administrativa o Dependencia por parte del Honorable Ayuntamiento, se requerirá lo siguiente:
 
-I. Dictamen técnico-jurídico de la Comisión del ramo administrativo que corresponda,
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+I. Dictamen técnico-jurídico de la Comisión del ramo administrativo que corresponda, salvo que se trate de una iniciativa presentada por la persona titular de la Presidencia Municipal, en cuyo caso el análisis técnico-jurídico podrá contenerse en dicha iniciativa.
 
 II. Dictamen de viabilidad financiera y administrativa, emitido por la Comisión de Hacienda.
 
@@ -1265,6 +1277,10 @@ t) Coordinación General de Salud; y
 
 u) Instituto Municipal de Salud Mental.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+v) Coordinación General de Infraestructura y Desarrollo Tecnológico.
+
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2011)</small>
 
 I.- PRESIDENCIA MUNICIPAL
@@ -1272,6 +1288,10 @@ I.- PRESIDENCIA MUNICIPAL
 Asistente del C. Presidente
 
 Secretario Privado del C. Presidente
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Dirección de Análisis Normativo
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
 
@@ -1347,19 +1367,21 @@ Presidencia del Sistema D.I.F. Municipal.
 
 Coordinación Operativa General de Voluntariado.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
 
 Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes.
-
-Departamento Jurídico.
 
 Departamento de Comunicación Social.
 
 Departamento de Trabajo Social y Atención a personas con discapacidad.
 
 Coordinación Operativa de Peritaje de Trabajo Social.
+
+Dirección Jurídica.
+
+Departamento Jurídico.
 
 Dirección Administrativa.
 
@@ -1425,7 +1447,7 @@ Departamento de Acuerdos.
 
 Departamento de Proyectos y Resoluciones.
 
-(REFORMADA, P.O. 21 DE MAYO DE 2018) (REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2021)
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
@@ -1455,11 +1477,13 @@ Departamento de Asuntos de Honor y Justicia.
 
 Unidad de Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2021)</small>
-
 Dirección de Juzgados Cívicos.
 
 Departamento de Servicios Médicos, Psicología y Trabajo Social.
+
+Dirección del Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes.
+
+Unidad de Capacitación, Difusión y Vinculación.
 
 Dirección de Reglamentos.
 
@@ -1581,7 +1605,7 @@ Departamento de Conservación y Mantenimiento.
 
 Coordinación General de Obras Públicas
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 XII.- SECRETARÍA DE ADMINISTRACIÓN
 
@@ -1620,16 +1644,6 @@ Departamento de Control Patrimonial.
 Dirección de Mantenimiento Vehicular.
 
 Departamento de Mantenimiento y Reparación de Vehículos.
-
-Dirección de Tecnologías de la Información y Comunicación.
-
-Departamento de Servicios e Infraestructura.
-
-Departamento de Soporte Técnico.
-
-Departamento de Desarrollo.
-
-Departamento de Sistemas Financieros.
 
 Dirección de Calidad y Mejora Regulatoria.
 
@@ -1769,14 +1783,6 @@ Departamento de Recursos Humanos.
 
 Departamento de Control Presupuestal.
 
-> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
 Dirección de Limpia y Aseo Público.
 
 Departamento de Aseo Público.
@@ -1811,9 +1817,15 @@ Departamento de Producción y Sanidad.
 
 Departamento de Operación y Servicios.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Dirección de Atención a Puentes, Camellones, Triángulos y Glorietas.
+
 Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes. Órgano Desconcentrado.
 
-Dirección del Instituto
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Dirección del Instituto.
 
 Departamento de Administración y Planeación.
 
@@ -1923,25 +1935,45 @@ Departamento de Atención a Emergencias.
 
 XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
-Departamento Administrativo
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-Dirección jurídica
+Departamento Administrativo.
 
-Departamento de Dictaminación y Resolución
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Dirección Jurídica.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Departamento de Dictaminación y Resolución.
 
 Dirección de Medio Ambiente y Cambio Climático.
 
 Coordinación de Gestión Ambiental.
 
-Departamento de Impacto Ambiental
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-Departamento de Control Ambiental
+Departamento de Impacto Ambiental.
 
-Coordinación de Recursos Naturales y Educación Ambiental
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-Departamento de Recursos Naturales y Biodiversidad
+Departamento de Control Ambiental.
 
-Departamento de Educación Ambiental y Participación Ciudadana
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Coordinación de Recursos Naturales y Educación Ambiental.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Departamento de Recursos Naturales y Biodiversidad.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Departamento de Educación Ambiental y Participación Ciudadana.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Departamento de Conservación de Ríos y Arroyos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2017)</small>
 
@@ -2039,6 +2071,26 @@ Jefatura de Área Clínica
 
 Jefatura de Enseñanza y Capacitación
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XXIII.- COORDINACIÓN GENERAL DE INFRAESTRUCTURA Y DESARROLLO TECNOLÓGICO
+
+Departamento Administrativo.
+
+Departamento de Servicios e Infraestructura.
+
+Departamento de Gestión y Control de Inventario Tecnológico.
+
+Departamento de Sistemas de Escritorio.
+
+Departamento de Sistemas para la Armonización Contable Municipal.
+
+Departamento de Aplicativos Web y Móviles.
+
+Departamento de Mantenimiento de Internet Gratuito.
+
+Departamento de Gobierno Digital.
+
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE JULIO DE 2018)</small>
 
 Las ausencias de titulares de dependencias o entidades de la administración pública municipal, respecto a los cuales este Código u otro ordenamiento no establezcan una regulación específica de suplencia, se sujetarán a lo siguiente:
@@ -2050,6 +2102,14 @@ II.- A falta de designación hecha por el Presidente Municipal, suplirá el serv
 III.- Ante la omisión de las designaciones referidas en las fracciones anteriores, la ausencia será suplida por aquel servidor público que le siga en jerarquía al titular de que se trate. En caso de que existan dos o más servidores públicos de igual jerarquía inmediata inferior, se atenderá al orden en que son mencionados en cada una de las fracciones del párrafo anterior.
 
 IV.- El servidor público que supla la ausencia, tendrá a su cargo las atribuciones y obligaciones que le corresponden al titular.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 98 BIS.- Las personas que se desempeñen como asistente y como Secretario Privado del Presidente Municipal, tendrán como función dar acompañamiento al titular del Presidente Municipal en sus giras y actividades de agenda, así como las demás labores que ésta les encomiende; para tal efecto, deberán coordinarse en lo conducente con la Secretaría Particular.
+
+La Dirección de Análisis Normativo tendrá a su cargo la elaboración de iniciativas o propuestas que le instruya el Presidente Municipal.
+
+Las dependencias y organismos descentralizados de la administración pública municipal deberán proporcionar la información que les requiera la Dirección de Análisis Normativo para la elaboración de las iniciativas o propuestas que le instruya el Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -2143,69 +2203,17 @@ I. No impondrán procedimientos de conciliación ni de mediación entre pareja, 
 
 II. Se abstendrán de imponer así como recomendar psicoterapia de pareja y de familia.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2024)</small>
+ARTÍCULO 100 TER.- (DEROGADO, P.O. 11 DE NOVIEMBRE DE 2024)
 
-ARTÍCULO 100 TER.- El Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes se integrará por:
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-I.- La persona titular de Presidencia Municipal, quien además presidirá el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes;
+ARTÍCULO 100 QUATER.- La Dirección de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes, fungirá como:
 
-II.- La persona regidora que se desempeñe como presidenta de la Comisión Permanente de Derechos Humanos;
+I.- Autoridad de primer contacto con niñas, niños o adolescentes y enlace con las instancias locales y federales competentes, de conformidad con los artículos 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, así como 110 fracción XII de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
-III.- La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Municipio;
+La persona titular de dicha Dirección será nombrada y removida por la persona titular de la Presidencia Municipal y deberá cumplir los requisitos establecidos en el artículo 122 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
-IV.- La persona titular del Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes;
-
-V.- La persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
-
-VI.- La persona titular de la Secretaría de Desarrollo Social del Municipio;
-
-VII.- La persona titular de la Secretaría de Seguridad Pública del Municipio;
-
-VIII.- La persona titular de la Secretaría de Finanzas Públicas del Municipio;
-
-IX.- La persona titular de la Dirección General del Instituto Municipal de Salud Mental;
-
-X.- La persona titular de la Dirección General del Instituto Municipal de la Juventud;
-
-XI.- La persona titular de la Dirección General del Instituto Municipal de la Mujer;
-
-XII.- La persona titular del Instituto Municipal de Planeación y Evaluación de Aguascalientes; y
-
-XIII.- Dos representantes de la sociedad civil, designados por la persona titular de la Presidencia Municipal a propuesta de instituciones académicas o asociaciones civiles, a fin de garantizar la participación de los sectores social y privado. Dichas personas representantes fungirán hasta la conclusión del periodo constitucional de la administración municipal en que hayan sido nombradas y deberán cumplir con los siguientes requisitos:
-
-a) No haber sido condenadas por la comisión de un delito doloso en el que la víctima u ofendido haya sido una niña, niño o adolescente; y
-
-b) Contar con experiencia comprobada en la defensa o promoción de los derechos de la infancia o derechos humanos.
-
-La persona titular de la Presidencia Municipal, en las sesiones del Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes, podrá ser suplida, en casos excepcionales, por la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
-
-Los demás integrantes, con excepción de las personas representantes de la sociedad civil, podrán nombrar suplentes los cuales deberán desempeñar un cargo de nivel jerárquico inmediato inferior de quien suplan.
-
-Los cargos propietarios y suplentes como integrantes del Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes serán honoríficos, en consecuencia, quienes los ostenten no gozarán de compensación por ello.
-
-Dicho Sistema deberá sesionar por lo menos cuatro veces al año; para que sus sesiones sean válidas será necesaria la presencia de la mayoría de sus integrantes propietarios o suplentes, los cuales contarán con voz y voto. Las decisiones se tomarán por mayoría de votos de los presentes y en caso de empate, la persona que funja como Presidente tendrá voto de calidad. Los integrantes del Sistema podrán acordar reglas complementarias para el desahogo de sus sesiones, siempre que no sean contrarias a las establecidas en el presente artículo.
-
-Podrán participar con voz en las sesiones:
-
-I.- Las niñas, niños y adolescentes que determine el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes, o su Presidencia;
-
-II.- Las personas o instituciones especializadas en materia de derechos de niñas, niños o adolescentes que determine el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes o su Presidencia;
-
-III.- Representantes de otras dependencias y entidades municipales, o bien, de la administración pública estatal o federal, de órganos constitucionales autónomos estatales o federales, a invitación de la Presidencia según la naturaleza de los asuntos a tratar.
-
-El Sistema a que se refiere este artículo estará facultado para aprobar los programas municipales de atención y protección que elabore el Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes; asimismo, podrá acordar la constitución de comisiones encargadas de atender asuntos o materias específicas, las cuales se integrarán y funcionarán conforme a lo que determine el propio Sistema.
-
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2024)</small>
-
-ARTÍCULO 100 QUATER.- El Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes, fungirá como:
-
-I.- Secretaría Ejecutiva del Sistema referido en el artículo anterior y conforme a lo previsto en el artículo 138 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; y
-
-II.- Autoridad de primer contacto con niñas, niños o adolescentes y enlace con las instancias locales y federales competentes, de conformidad con los artículos 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, así como 110 fracción XII de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
-
-La persona titular de dicho Departamento será nombrada y removida por la persona titular de la Presidencia Municipal y deberá cumplir los requisitos establecidos en el artículo 122 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
-
-El Departamento a que se refiere este artículo elaborará los programas municipales de atención y protección de niñas, niños y adolescentes; asimismo, ejercerá las demás atribuciones derivadas del artículo 119 en relación con el artículo 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y de los artículos 110 y 123 A de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
+La Dirección a que se refiere este artículo, ejercerá las atribuciones derivadas del artículo 119 en relación con el artículo 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y de los artículos 110 y 123 A de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -2473,7 +2481,9 @@ Coordinación General De Delegaciones Urbanas Y Rurales
 
 ARTÍCULO 105 BIS. Corresponde al Coordinador General de Delegaciones, así como a los Delegados Municipales lo siguiente:
 
-Al Coordinador General de Delegaciones
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Al Coordinador General de Delegaciones:
 
 I. Acordar con el Presidente Municipal, el despacho de los asuntos que le corresponden;
 
@@ -2485,7 +2495,9 @@ IV. Formular y proponer al Presidente Municipal los proyectos de planes y progra
 
 V. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
 
-VI. Participar con la Dirección de Tecnologías de la Información y Comunicación en la modernización y simplificación de los sistemas administrativos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+VI. Participar con la Coordinación General de Infraestructura y Desarrollo Tecnológico, en la modernización y simplificación de los sistemas administrativos;
 
 VII. Llevar a cabo reuniones mensuales con los delegados municipales e incluir el rubro de reportes de violencia contra las mujeres en la demarcación y acciones para eliminarla;
 
@@ -2501,7 +2513,9 @@ XII. Llevar a cabo reuniones con los comisarios municipales;
 
 XIII. Las demás que señale la ley o el H. Ayuntamiento.
 
-A los Delegados Municipales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+A los Delegados Municipales:
 
 I. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados;
 
@@ -2509,7 +2523,9 @@ II. Proporcionar información y cooperación técnicas a las dependencias y enti
 
 III. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias y entidades municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
 
-IV. Cumplir con la normatividad que emita la Dirección de Tecnologías de la Información y Comunicación en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+IV. Cumplir con la normatividad que emita la Coordinación General de Infraestructura y Desarrollo Tecnológico, en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia;
 
 V. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias y entidades de la Administración Pública Municipal que se lleven a cabo dentro de su delegación o donde se les requiera por la Coordinación;
 
@@ -2659,13 +2675,17 @@ XVI. Planear, ordenar y ejecutar todas las acciones que tengan relación con la 
 
 XVII. Tener bajo su mando la Unidad de Derechos Humanos, encargada de atender y dar seguimiento a las quejas que presenten los usuarios de los servicios municipales, así como los servidores públicos adscritos a cualquier dependencia municipal cuando se presuma la comisión de alguna violación a sus derechos humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XVIII. Notificar al Órgano Interno de Control del Municipio de Aguascalientes, la creación o modificación de puestos en las unidades administrativas o dependencias, para efecto del proceso de entrega-recepción.
+XVIII. Implementar un sistema de consulta normativa municipal, para lo cual se podrá auxiliar de la Coordinación General de Infraestructura y Desarrollo Tecnológico;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE AGOSTO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XIX. Las demás que señale la Ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento o la persona titular de la Presidencia Municipal.
+XIX. Implementar sistemas de notificación que permitan el fácil acceso a los (sic) ordenes del día y archivos a consideración en las sesiones de Cabildo y demás órganos colegiados del Municipio;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XX. Las demás que señale la ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidencia Municipal.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
@@ -2681,13 +2701,65 @@ III. Asesorar, Coordinar y establecer las directrices jurídicas a los titulares
 
 IV. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
 
-###### ARTÍCULO 107
-
-TER.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 107
 
-QUATER.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
+TER.- El Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes se integrará por:
+
+I.- El Presidente Municipal, quien además presidirá el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes;
+
+II.- El regidor que se desempeñe como presidenta de la Comisión Permanente de Derechos Humanos;
+
+III.- La Dirección General del Sistema para el Desarrollo Integral de la Familia del Municipio;
+
+IV.- La Dirección del Sistema Municipal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, que fungirá como Secretaría Ejecutiva;
+
+V.- La Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+VI.- La Secretaría de Seguridad Pública del Municipio;
+
+VIII (SIC).- La Dirección General del Instituto Municipal de Salud Mental;
+
+X (SIC).- La Dirección General del Instituto Municipal de la Juventud;
+
+XI.- La Dirección General del Instituto Municipal de la Mujer;
+
+XII.- La Dirección General del Instituto Municipal de Planeación y Evaluación de Aguascalientes; y
+
+XIII.- Dos representantes de la sociedad civil, designados por la persona titular de la Presidencia Municipal a propuesta de instituciones académicas o asociaciones civiles, a fin de garantizar la participación de los sectores social y privado. Dichas personas representantes fungirán hasta la conclusión del periodo constitucional de la administración municipal en que hayan sido nombradas y deberán cumplir con los siguientes requisitos:
+
+a) No haber sido condenadas por la comisión de un delito doloso en el que la víctima u ofendido haya sido una niña, niño o adolescente; y
+
+b) Contar con experiencia comprobada en la defensa o promoción de los derechos de la infancia o derechos humanos.
+
+La persona titular de la Presidencia Municipal, en las sesiones del Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes, podrá ser suplida, en casos excepcionales, por la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+Los demás integrantes, con excepción de las personas representantes de la sociedad civil, podrán nombrar suplentes los cuales deberán desempeñar un cargo de nivel jerárquico inmediato inferior de quien suplan.
+
+Los cargos propietarios y suplentes como integrantes del Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes serán honoríficos, en consecuencia, quienes los ostenten no gozarán de compensación por ello.
+
+Dicho Sistema deberá sesionar por lo menos dos veces al año; para que sus sesiones sean válidas será necesaria la presencia de la mayoría de sus integrantes propietarios o suplentes, los cuales contarán con voz y voto. Las decisiones se tomarán por mayoría de votos de los presentes y en caso de empate, la persona que funja como Presidente tendrá voto de calidad. Los integrantes del Sistema podrán acordar reglas complementarias para el desahogo de sus seiones, siempre que no sean contrarias a las establecidas en el presente artículo.
+
+Podrán participar con voz en las sesiones:
+
+I.- Las niñas, niños y adolescentes que determine el Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, o su Presidencia;
+
+II.- Las personas o instituciones especializadas en materia de derechos de niñas, niños o adolescentes que determine el Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes o su Presidencia;
+
+III.- Representantes de otras dependencias y entidades municipales, o bien, de la administración pública estatal o federal, de órganos constitucionales autónomos estatales o federales, a invitación de la Presidencia según la naturaleza de los asuntos a tratar.
+
+El Sistema a que se refiere este artículo estará facultado para aprobar los programas municipales de atención y protección que elabore su Secretaría Ejecutiva; asimismo, podrá acordar la constitución de comisiones encargadas de atender asuntos o materias específicas, las cuales se integrarán y funcionarán conforme a lo que determine el propio Sistema.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 107
+
+QUATER.- La Dirección del Sistema Municipal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, fungirá como Secretaría Ejecutiva del Sistema referido en el artículo anterior y conforme a lo previsto en el artículo 138 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+La persona titular de dicha Dirección será nombrada y removida por la persona titular de la Presidencia Municipal y deberá cumplir los requisitos establecidos en el artículo 117 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
+
+La Dirección a que se refiere este artículo elaborará los programas municipales de atención y protección integral de niñas, niños y adolescentes; asimismo, ejercerá las demás atribuciones derivadas del artículo 119 en relación con el artículo 139 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y las atribuciones derivadas del artículo 110 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
 APARTADO NOVENO
 
@@ -2805,7 +2877,9 @@ I. Ejecutar el Programa Municipal de Obra Pública, tomando en cuenta los proyec
 
 II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes.
 
-III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas municipales.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas municipales. Asimismo, auxiliar a la Secretaría de Servicios Públicos cuando se lo requiera, para ejecutar acciones coordinadas de conservación o mantenimiento de puentes, camellones, triángulos y glorietas.
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio.
 
@@ -2877,11 +2951,15 @@ IV. Presidir el Comité de Adquisiciones.
 
 V. Administrar y controlar los bienes patrimoniales de la Presidencia Municipal.
 
-VI. Encargarse del resguardo de los documentos de la administración municipal, a través de la organización y dirección del Archivo General Municipal.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+VI. Encargarse del resguardo de los documentos de la administración municipal, a través de la organización y dirección del Archivo General Municipal, conforme a la Ley General de Archivos y la ley local de la materia.
 
 VII. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de edificios e instalaciones, vehículos, combustibles y todo lo relacionado con su uso, control y mantenimiento.
 
-VIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos (sic) del Estado, sus Municipios y Órganos Descentralizados.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos (sic) del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
 
 IX. Intervenir en la elaboración de presupuestos de las dependencias municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos.
 
@@ -2915,35 +2993,39 @@ XXI. Garantizar a través de la Dirección de Servicios Generales el mantenimien
 
 XXII. Realizar a través del Departamento de Taller Gráfico las publicaciones propias del Municipio.
 
-XXIII. Definir y establecer las políticas y lineamientos en materia de informática que deberán respetar las dependencias de la administración pública municipal.
+XXIII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
 XXIV. Definir y establecer las políticas y procedimientos que deberán observar las dependencias de la administración pública municipal en relación a una mejora regulatoria y simplificación administrativa.
 
-XXV. Dar seguimiento al Plan Municipal de Desarrollo en materia de informática y simplificación administrativa.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XXVI. Apoyar los programas de modernización administrativa sustentados en tecnología de información.
+XXV. Dar seguimiento al Plan Municipal de Desarrollo en materia de simplificación administrativa en las dependencias de la administración pública municipal, con auxilio de la Coordinación General de Infraestructura y Desarrollo Tecnológico.
 
-XXVII. Proporcionar el servicio de mantenimiento preventivo y correctivo a los equipos de cómputo y periféricos en todas las dependencias de la administración pública municipal.
+XXVI. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXVIII. Proporcionar el servicio de análisis, diseño, programación e instalación de todo tipo de sistemas computacionales que requieran las dependencias de la administración pública municipal.
+XXVII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXIX. Establecer los criterios para el uso de todo sistema computacional incluyendo los de operación en web y georeferencia.
+XXVIII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXX. Brindar asesoría y soporte técnico que en materia de informática y simplificación administrativa soliciten las dependencias de la administración pública municipal.
+XXIX. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXXI. Definir la infraestructura de telecomunicaciones adoptada para resolver el servicio de comunicación de datos que requieren todas las dependencias de la administración pública municipal.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XXXII. Desarrollar los módulos computacionales de captura, integración, procesamiento y consulta de información referenciable en mapas geográficos digitales.
+XXX. Brindar la asesoría que en materia de simplificación administrativa soliciten las dependencias de la administración pública municipal;
 
-XXXIII. Proveer herramientas, cursos, manuales y bancos de datos para facilitar y agilizar la consulta y transmisión de la información.
+XXXI. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXXIV. Establecer los criterios para el uso de la infraestructura de servicios en Internet e Intranet, incluyendo los de operación con acceso a sitios cibernéticos y correo electrónico, de las dependencias de la administración pública municipal.
+XXXII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXXV. Administrar la estructura técnica de los módulos computarizados de atención.
+XXXIII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXXVI. Vigilar el uso en los centros municipales de servicios de Internet y videoconferencias, que ofrece el Municipio al público observando los lineamientos que para tal efecto establece el presente Código y demás disposiciones relativas y aplicables.
+XXXIV. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
-XXXVII. Conformar, diseñar, programar, publicar, actualizar y administrar la página electrónica del Municipio en Internet, Intranet y módulos de acceso público.
+XXXV. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
+
+XXXVI. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
+
+XXXVII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2024)
 
 XXXVIII. Analizar, diseñar, adecuar y proponer la estructura orgánica municipal, de las dependencias de la administración pública municipal.
 
@@ -2953,7 +3035,9 @@ XL. Definir los mecanismos de elaboración, actualización, simplificación e im
 
 XLI. Diseñar, elaborar y mantener actualizada, con base en la información que emitan las dependencias, la Guía de Trámites de Servicios Públicos de la administración pública municipal.
 
-XLII. Evaluar el impacto de las políticas en materia de informática y mejora regulatoria, presentando los respectivos informes.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XLII. Evaluar el impacto de las políticas en materia de mejora regulatoria, presentando los respectivos informes.
 
 XLIII. Dar seguimiento para que las dependencias cumplan en lo conducente, lo establecido en el presente artículo.
 
@@ -2965,9 +3049,9 @@ XLIV. Publicar toda la información que debe ser difundida de oficio y mantenerl
 
 XLV. Coordinar a las dependencias del Municipio para llevar a cabo el levantamiento físico del inventario en todos los almacenes del Municipio, el cual se deberá llevar a cabo una vez al año.
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XLVI. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XLVI. Las demás que deriven del presente Código, de otras disposiciones legales o reglamentarias, o bien, que le encomiende el Ayuntamiento o la persona que se desempeñe como Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2008)</small>
 
@@ -3809,7 +3893,9 @@ IV. Regular y supervisar todo sistema de alumbrado público que los particulares
 
 V. Ejercer las atribuciones que le corresponden al Municipio en materia de alumbrado público de conformidad a la normatividad vigente.
 
-VI. Construir, contratar y concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+VI. Construir, contratar y concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas, y en su caso, auxiliar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, a realizar labores de mantenimiento y conservación de las áreas verdes que estén a cargo de dicha Secretaría, de conformidad con el artículo 476 del presente Código y el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascaleintes.
 
 VII. Promover y regular la participación de la ciudadanía en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas municipales.
 
@@ -3827,7 +3913,13 @@ X. Promover y fomentar la participación corresponsable de la sociedad tendiente
 
 XI. Fomentar a través de programas de educación ambiental la disminución en la generación de basura, residuos y cambio en patrones de consumo y producción;
 
-XII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XII. Realizar acciones de mantenimiento o conservación de puentes, camellones, triángulos y glorietas, en su caso, en coordinación con la Secretaría de Obras Públicas.
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento o el Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -4019,9 +4111,17 @@ VIII.- Promover e implementar políticas de transparencia proactiva y apertura g
 
 IX.- Brindar asesoría, apoyo técnico y capacitaciones a las Dependencias, para propiciar la cultura de la transparencia y accesibilidad al interior del sujeto obligado;
 
-X.- Dar vista a la instancia competente de la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XI.- Las demás que se desprendan de la normatividad aplicable.
+X.- Dar vista a la instancia competente de la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XI.- Auxiliar a las dependencias en la elaboración de avisos de privacidad, evaluaciones de impacto de protección de datos personales, documentos de seguridad en materia de datos personales y cualquier otro instrumento útil para la protección de datos personales que recaben o a los que den tratamiento, de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la ley local de la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+XII.- Las demás que deriven del presente Código, de otras disposiciones legales o reglamentarias, o bien, que le encomiende el Ayuntamiento o la persona que se desempeñe como Presidente Municipal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
@@ -4118,6 +4218,60 @@ II. Promover las acciones tendientes a prevenir y atender los trastornos de la S
 III. Promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas públicas, estrategias y acciones dirigidas al sostenimiento y promoción de la Salud Mental en todos los grupos sociales independientemente de la edad, género, nivel educativo y socioeconómico; y
 
 IV. Las demás funciones que se desprendan de la normatividad aplicable, así como las que le confiera el Ayuntamiento o el Presidente Municipal.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+APARTADO VIGÉSIMO PRIMERO
+
+De la Coordinación General de Infraestructura y Desarrollo Tecnológico
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 114 SEPTIES.- Corresponde a la Coordinación General de Infraestructura y Desarrollo Tecnológico:
+
+I. Emitir lineamientos que regulen las tecnologías de la información y de infraestructura de comunicación, mismos que serán aplicables a las dependencias. También serán aplicables a organismos descentralizados que no cuenten con lineamientos propios sobre esos aspectos.
+
+II. Dar seguimiento al Plan Municipal de Desarrollo en materia de tecnologías de la información e infraestructura de comunicación, así como coadyuvar con la Secretaría de Administración, en materia de simplificación administrativa en las dependencias.
+
+III. Diseñar y desarrollar un sistema de expedientes para trámites y servicios a través de la generación de un identificador único de persona usuaria a fin de agilizar la atención sin necesidad de presentar reiteradamente documentos, lo anterior conforme a lo previsto en la Ley General de Mejora Regulatoria, la ley local de la materia y demás disposiciones aplicables.
+
+IV. Autorizar a las dependencias la adquisición de equipo de tecnologías de la información e infraestructura de comunicación, así como de aplicativos desarrollados por terceros, lo anterior mediante dictamen que valore su utilidad técnica y sin perjuicio del cumplimiento de la normatividad aplicable en materia de adquisiciones.
+
+V. Analizar el impacto en las dependencias, de la implementación de políticas en materia de tecnologías de la información y comunicación.
+
+VI. Emitir lineamientos aplicables a las dependencias en materia de instalación de infraestructura de telecomunicaciones como son switches, enlaces, torres, radios, cableado, puntos de acceso y cualquier otro dispositivo que se utilice para obtener comunicación con el centro de procesamiento de datos municipal. También serán aplicables a organismos descentralizados que no cuenten con lineamientos propios sobre esos aspectos.
+
+VII. Autorizar a las dependencias, con base en sus necesidades de uso y requerimientos de navegación, el servicio de internet así como vigilar el buen uso de dicho servicio.
+
+VIII. Establecer, configurar e implementar esquemas de seguridad de red interna y externa de las dependencias.
+
+IX. Administrar los recursos tecnológicos necesarios para la operación de las dependencias, como son telefonía, correo electrónico, antivirus, conexiones remotas, respaldos y bases de datos. También asesorará en la administración de dichos recursos tecnológicos a organismos descentralizados que lo soliciten y no cuenten con personal técnico especializado en ello.
+
+X. Coordinar el servicio de análisis, diseño, desarrollo e instalación de aplicativos web, móviles y de escritorio que requieran las dependencias. También asesorará en la coordinación de dicho servicio en organismos descentralizados que lo soliciten y no cuenten con personal técnico especializado en ello.
+
+XI. Establecer los criterios de uso, autorización y control de usuarios para todo aplicativo web, móvil y de escritorio aplicables a las dependencias. También serán aplicables a organismos descentralizados que no cuenten con criterios propios sobre esos aspectos.
+
+XII. Administrar, diseñar, desarrollar e implementar los portales de internet y la intranet del Municipio de Aguascalientes, salvo tratándose de los correspondientes a organismos descentralizados que cuenten con personal especializado y capacidad técnica para ello, los cuales deberán ajustarse a los lineamientos que establezca la propia Coordinación General de Infraestructura y Desarrollo Tecnológico.
+
+XIII. Gestionar, desarrollar, implementar y monitorear los sistemas para la gestión presupuestal, contable y patrimonial de los recursos financieros, materiales y humanos del municipio.
+
+XIV. Coordinar, regular y auditar el servicio de mantenimiento preventivo y correctivo que realice el personal de soporte técnico de cada dependencia al equipo de tecnologías de la información e infraestructura de comunicación; asimismo, brindar dicho servicio de mantenimiento a las dependencias que no cuenten con personal de soporte técnico.
+
+XV. Brindar capacitación al personal de soporte técnico adscrito a otras dependencias, sobre los servicios de mantenimiento preventivo y correctivo que deba realizarse al equipo de tecnologías de la información e infraestructura de comunicación de esas dependencias.
+
+XVI. Proveer, difundir y dar mantenimiento, directamente o por conducto de terceros, a la infraestructura de la red municipal de internet gratuito a través de la instalación de puntos de acceso distribuidos en el municipio a fin de favorecer la disminución de la brecha digital.
+
+XVII. Elaborar, con el auxilio de la Coordinación de Transparencia y Acceso a la Información del Municipio, los avisos de privacidad, evaluaciones de impacto de protección de datos personales, documento de seguridad en materia de datos personales, y cualquier otro instrumento útil para la protección de datos personales que recabe o a los que dé tratamiento la propia Coordinación General de Infraestructura y Desarrollo Tecnológico, de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la ley local de la materia.
+
+XVIII. Auxiliar en la implementación de medidas para resguardar digitalmente los documentos de archivo de las dependencias, de conformidad con la Ley General de Archivos y la ley local de la materia.
+
+XIX. Coordinarse con la Dirección de Reglamentos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información.
+
+XX. Auxiliar en su caso, a la Secretaría de Economía Social y Turismo Municipal, en el diseño, desarrollo e implementación de un registro municipal de personas físicas o morales propietarias o poseedoras legales de inmuebles de uso habitacional puestos a disposición de turistas de forma total o parcial para brindarles servicio de estancia temporal a cambio de una contraprestación, cuando dicho servicio se oferte mediante alguna aplicación digital, página de internet, red social o similares.
+
+XXI. Ejecutar y coordinar las acciones necesarias para llevar a cabo los trabajos señalados en la fracción XVIII y XIX del artículo 107 de este ordenamiento;
+
+XXII. Las demás que deriven del presente Código, de otras disposiciones legales o reglamentarias, o bien, que le encomiende el Ayuntamiento o la persona que se desempeñe como Presidente Municipal.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -7141,13 +7295,25 @@ III. Los camellones, triángulos y glorietas;
 
 IV. La vegetación ubicada en la franja de equipamiento de las banquetas;
 
-V. Los andadores arbolados; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-VI. La zona federal adyacente a los arroyos que estén dentro de la mancha urbana, y cuya administración, custodia, conservación y mantenimiento haya sido transferida al Municipio a través de acuerdos o convenios.
+V. Los andadores arbolados;
 
-La Secretaría de Servicios Públicos por conducto de la Dirección de Parques y Jardines es la instancia encargada de llevar a cabo el mantenimiento y conservación de las áreas verdes, que comprende la producción, propagación y plantación de especies vegetales, así como el riego, poda, fertilización, prevención y control de plagas y enfermedades, y demás actividades necesarias para el buen desarrollo de dichas áreas.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-También es la responsable, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable y otras autoridades, en el ámbito de sus respectivas competencias, de promover y regular entre los distintos sectores de la población, la participación en los programas de forestación, reforestación y plantación, vigilancia y conservación de las áreas verdes públicas.
+VI. La zona federal adyacente a ríos, arroyos o corrientes que estén dentro de poblaciones del Municipio y cuya administración, custodia, conservación y mantenimiento haya sido transferida al propio Municipio a través de acuerdos o convenios celebrados de conformidad con la Ley de Aguas Nacionales; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+VII. Las demás áreas que señale el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes, así como otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+La Secretaría de Servicios Públicos por conducto de la Dirección de Parques y Jardines es la instancia encargada de llevar a cabo el mantenimiento y conservación de las áreas verdes, que comprende la producción, propagación y plantación de especies vegetales, así como el riego, poda, fertilización, prevención y control de plagas y enfermedades, y demás actividades necesarias para el buen desarrollo de dichas áreas. Tratándose de las áreas verdes referidas en la fracción VI del párrafo anterior, así como de cualquier área verde contigua a alguna zona federal de las descritas en esa misma fracción sobre la que exista o no acuerdo o convenio de transferencia, el mantenimiento y conservación estará a cargo de la Secretaría de Medio Ambiente y Desarrollo Sustentable, la cual, en su caso, podrá ser auxiliada por la Secretaría de Servicios Públicos.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+La Secretaría de Servicios Públicos también es la responsable, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable y otras autoridades, en el ámbito de sus respectivas competencias, de promover y regular entre los distintos sectores de la población, la participación en los programas de forestación, reforestación y plantación, vigilancia y conservación de las áreas verdes públicas.
 
 Las áreas verdes públicas y privadas, incluyéndose las de casas habitación cuando existiera la intención e interés de afectar especies vegetales, serán objeto de vigilancia y control del municipio, por lo que cualquier acción como creación, manejo, derribo, poda, reubicación de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por la autoridad municipal correspondiente.
 
@@ -18783,9 +18949,9 @@ XIII.- Ordenar el retiro de sellos de clausura una vez que se hayan pagado las m
 
 XIV. Solicitar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, que expida a través de la Dirección de Asuntos Jurídicos, los dictámenes de cancelación de las licencias que regula el presente Libro, cuando proceda, a excepción de los dictámenes que se realizan por cancelación voluntaria;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XV. Coordinarse con la Dirección de Tecnologías de la Información y Comunicación, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
+XV. Coordinarse con la Coordinación General de Infraestructura y Desarrollo Tecnológico, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -25852,3 +26018,39 @@ P.O. 30 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA A LOS ARTÍCULOS 1358 FRACCIÓN VI, 1373 FRACCIÓN VII, Y 1394 FRACCIÓN XI, Y POR EL QUE SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 1358 Y FRACCIÓN X DEL ARTÍCULO 1373, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que inicien su vigencia las presentes reformas, adiciones y derogaciones, se deberán realizar los trámites respectivos para transferir a la Coordinación General de Infraestructura y Desarrollo Tecnológico, los recursos humanos, financieros y materiales de la Dirección de Tecnologías de la Información perteneciente a la Secretaría de Administración.
+
+Transferidos los recursos referidos en el párrafo anterior, la Coordinación General de Infraestructura y Desarrollo Tecnológico comenzará a operar con los departamentos y personal para los cuales exista suficiencia presupuestaria, garantizando que la asignación de recursos para servicios personales se apegue a las exigencias establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios, por lo que en su caso, gradualmente y en los siguientes ejercicios fiscales, se podrán ir asignando a dicha Coordinación General, las plazas que se requieran conforme a su estructura orgánica.
+
+La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones presupuestales y administrativas que sean necesarias para el funcionamiento de la Coordinación General de Infraestructura y Desarrollo Tecnológico, con estricto apego a los ordenamientos referidos en el párrafo anterior.
+
+TERCERO.- El personal adscrito a la Dirección de Tecnologías de la Información de la Secretaría de Administración, que sea trasferido a la Coordinación General de Infraestructura y Desarrollo Tecnológico, conservará los derechos laborales que haya adquirido con anterioridad.
+
+CUARTO.- La Coordinación General de Infraestructura y Desarrollo Tecnológico y la Secretaría de Administración, dentro de los 120 días hábiles siguientes a la entrada en vigor de las presentes reformas, adiciones y derogaciones, deberán emitir o en su caso modificar los manuales, lineamientos o cualquier disposición administrativa que sean de su competencia, atendiendo a lo previsto en dichas reformas, adiciones y derogaciones.
+
+QUINTO.- Al iniciar su vigencia las presentes reformas adiciones y derogaciones, todos los asuntos en trámite legales o administrativos de los que estuviera conociendo la Dirección de Tecnologías de la Información, serán competencia y deberán ser atendidos por la Coordinación General de Infraestructura y Desarrollo Tecnológico.
+
+SEXTO.- Las referencias hechas a la Dirección de Tecnologías de la Información de la Secretaría de Administración, en disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas a la Coordinación General de Infraestructura y Desarrollo Tecnológico.
+
+SEPTIMO.- La Dirección de Análisis Normativo comenzará a operar con el personal para el cual exista suficiencia presupuestaria, garantizando que la asignación de recursos para servicios personales se apegue a las exigencias establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios.
+
+La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, debrerán realizar las adecuaciones presupuestales y administrativas que sean necesarias para el funcionamiento de la Dirección que se crea, con estricto apego a los ordenamientos referidos en el párrafo anterior.
+
+OCTAVO.- El Departamento de Conservación de Ríos y Arroyos, comenzará a operar con el personal para el cual exista suficiencia presupuestaria, garantizando que la asignación de recursos para servicios personales se apegue a las exigencias establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios.
+
+La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones presupuestales y administrativas que sean necesarias para el funcionamiento del Departamento que se crea, con estricto apego a los ordenamientos referidos en el párrafo anterior.
+
+NOVENO.- La Dirección de atención a Puentes, Camellones, Triángulos y Glorietas, comenzará a operar con el personal para el cual exista suficiencia presupuestaria, garantizando que la asignación de recursos para servicios personales se apegue a las exigencias establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios.
+
+La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones presupuestales y administrativas que sean necesarias para el funcionamiento del Departamento que se crea, con estricto apego a los ordenamientos referidos en el párrafo anterior.
+
+DECIMO.- La Dirección del Sistema Municipal de Protección Integral de Derechos de las Niñas, Niños y Adolescentes, comenzará a operar con el personal para el cual exista suficiencia presupuestaria, garantizando que la asignacion de recursos para servicios personales se apegue a las exigencias establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios.
+
+La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones presupuestales y administrativas que sean necesarias para el funcionamiento del Departamento que se crea, con estricto apego a los ordenamientos referidos en el párrafo anterior.
