@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2023-11-01"
+last_updated: "2024-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -524,6 +524,14 @@ En el entendido de que la Sala Especializada en materia de Responsabilidades Adm
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
 
 La Sala Especializada en materia de responsabilidad administrativa observará las disposiciones generales contenidas en este Título Segundo, siempre y cuando no contravengan a los procedimientos que le apliquen señalados en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+La Sala Especializada en materia de Responsabilidades Administrativas conocerá, substanciará y resolverá, con arreglo al procedimiento que señala esta Ley, de los juicios que se promuevan ante el Tribunal, en los casos a que se refiere el Artículo 17 de esta Ley, del cumplimiento de las sentencias pronunciadas, así como de los recursos de queja que se interpongan con motivo de sus resoluciones; con excepción de las controversias que se tramiten mediante juicio oral.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+Todas las Salas Ordinarias conocerán de los juicios que se promuevan ante el Tribunal, en los casos a que se refiere el Artículo 17 de esta Ley, que se tramiten mediante procedimiento ordinario. Adicionalmente podrán conocer del procedimiento oral contemplado en el Título Tercero de la presente Ley, sin dejar de conocer, en ningún caso, del procedimiento tramitado en la vía ordinaria.
 
 ###### Artículo 26.
 
@@ -2901,6 +2909,12 @@ P.O. 1 DE NOVIEMBRE DE 2023.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 165.- REFORMA CONSTITUCIONAL: CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO".]
+P.O. 11 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 350. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 25 DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 60-sesenta días naturales siguientes a la entrada en vigor del presente Decreto, la Sala Superior del Tribunal deberá realizar las adecuaciones necesarias al Reglamento interior del Tribunal de Justicia Administrativa del Estado de Nuevo León
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 233.- CERTIFICACIÓN DE PLAZO; DECLARATORIA CONSTITUCIONAL; SE REFORMA EL ARTÍCULO 46; SE ADICIONAN LOS ARTÍCULOS 7º Y 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
