@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2023-03-30"
+last_updated: "2024-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -2139,19 +2139,29 @@ ARTICULO 154 BIS L.- La o el Titular del Ejecutivo del Estado, a través de la S
 
 ARTICULO 154 BIS M.- La Secretaría deberá otorgar a los donantes las facilidades de traslado, alimentación o cuidado que se requieran para llevar a cabo la misma y de regreso a su domicilio.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+### CAPITULO III. DEL PROGRAMA DE SEGURO DE SANGRE INDIVIDUAL
+
+> <small>(ADICIONADO, B.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 154 TER.- La Secretaría emitirá una póliza de seguro de sangre individual el cual deberá otorgarse a las personas registradas al programa que sean donantes voluntarias de sangre, a partir de la segunda donación en los bancos de sangre públicos del Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 154 TER 1.- Para otorgar la póliza de sangre individual se deberá considerar las donaciones voluntarias que se realicen durante un año contando a partir del día en el que se realice la primera donación voluntaria. La póliza de seguro de sangre individual tendrá una vigencia de un año a partir de la emisión de la póliza y estará sujeta a disponibilidad del tipo de sangre.
+
+Dicha póliza solamente podrá utilizarse para beneficio del donador o para su cónyuge, concubina o concubina o familiar en primer grado.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
-
 ## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO III. DE LOS ESTABLECIMIENTOS
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 155.
 
@@ -2221,7 +2231,9 @@ La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
+### CAPITULO III. DE LOS ESTABLECIMIENTOS
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 162.
 
@@ -2241,7 +2253,7 @@ Los vendedores, locatarios y personas cuya actividad esté vinculada con los mer
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO V. SERVICIO DE LIMPIA
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ###### ARTICULO 165.
 
@@ -2283,7 +2295,7 @@ Los propietarios o poseedores de los establecimientos están obligados a ejecuta
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. SERVICIO DE LIMPIA
 
 ###### ARTICULO 173.
 
@@ -2327,7 +2339,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 179.
 
@@ -2367,7 +2379,7 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 185.
 
@@ -2405,9 +2417,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios que de
 
 El sacrificio de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 193.
 
@@ -2449,7 +2459,9 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 202.
 
@@ -2483,7 +2495,7 @@ Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se r
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ###### ARTICULO 207.
 
@@ -2507,7 +2519,7 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 211.
 
@@ -2529,7 +2541,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO XIII. GASOLINERAS
+### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 214.
 
@@ -2547,7 +2559,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
+### CAPITULO XIII. GASOLINERAS
 
 ###### ARTICULO 217.
 
@@ -2565,9 +2577,7 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
 
 ###### ARTICULO 221.
 
@@ -2579,7 +2589,9 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 223.
 
@@ -2603,17 +2615,7 @@ Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
-
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
-
-Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
-
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 227.
 
@@ -2627,7 +2629,17 @@ Previo a las obras de edificación y a la obtención de licencias, permisos o au
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO I. AUTORIZACIONES
+### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
+
+Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
 
 ###### ARTICULO 230.
 
@@ -2653,13 +2665,11 @@ Queda prohibido poseer animales domésticos en aquellos edificios de condominios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. CERTIFICADOS
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 235.
 
@@ -2735,7 +2745,9 @@ Las autorizaciones a que se refiere esta ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta ley, se regirán por lo que disponga la legislación fiscal.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
+
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 245.
 
@@ -2791,7 +2803,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiera la autorización revocada.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 253.
 
@@ -2835,7 +2847,7 @@ Los certificados a que se refiere este Título, se extenderán en los modelos ap
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 258.
 
@@ -2961,7 +2973,7 @@ En el supuesto de que el medio de comunicación social verificado sea la prensa 
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 272.
 
@@ -3065,7 +3077,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia, y de dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 285.
 
@@ -3169,7 +3181,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquier otra de las s
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 297.
 
@@ -3288,6 +3300,8 @@ Los gastos de transferencia del ganado, su mantenimiento o sacrificio correrán 
 ###### ARTICULO 308.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 309.
 
@@ -3800,3 +3814,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Judicial del Estado de Sonora, en plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto, deberá de firmar convenios de colaboración con las autoridades de Salud y la Comisión Estatal de los Derechos Humanos para dar cumplimiento a lo dispuesto en este ordenamiento jurídico.
+
+B.O. 11 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120, QUE ADICIONA UN CAPÍTULO III AL TÍTULO DÉCIMO PRIMERO BIS Y LOS ARTÍCULOS 154 TER Y 154 TER 1 DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado, tendrá un plazo de 90 días a partir de la entrada en vigor del presente Decreto para expedir la reglamentación correspondiente e implementar una base de datos, para el control de los registros de las donaciones y las pólizas del programa de seguro de sangre individual.
