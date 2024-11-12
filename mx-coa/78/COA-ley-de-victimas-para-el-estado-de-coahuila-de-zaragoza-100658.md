@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2021-02-23"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -943,63 +943,81 @@ Cuando el sujeto haya sido sentenciado por delitos o violación a los derechos h
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE ATENCIÓN Y PROTECCIÓN A VICTIMAS
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-El Estado de Coahuila de Zaragoza se integra al Sistema Nacional de Atención a Víctimas a través del Sistema Estatal de Atención y Protección a Víctimas que se conforma de la siguiente manera:
+El Estado de Coahuila de Zaragoza se integra al Sistema Nacional de Atención a Víctimas a través del Sistema Estatal de Atención y Protección a Víctimas, que será la instancia de coordinación y formulación de políticas públicas y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás acciones que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral de las víctimas.
 
-I. Poder Ejecutivo:
+El Sistema se integrará por las personas titulares de las siguientes instituciones, dependencias y organismos:
 
-a. Gobernador del Estado, quien lo presidirá;
+I. Gobernador del Estado, quien lo presidirá;
 
-b. Secretario de Gobierno.
+II. Secretaría de Gobierno;
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+III. Secretaría de Salud;
 
-c. Secretario de Seguridad Pública.
+IV. Secretaría de Educación;
 
-II. Poder Legislativo:
+V. Secretaría de Seguridad Pública;
 
-a. Coordinador de la Comisión de Gobernación, Puntos Constitucionales y Justicia del Congreso del Estado;
+VI. Secretaría de Finanzas;
 
-b. Coordinador de la Comisión de la Defensa de los Derechos Humanos del Congreso del Estado;
+VII. Secretaría de Inclusión y Desarrollo Social;
 
-c. Coordinador de la Comisión de Seguridad Pública del Congreso del Estado;
+VIII. Secretaría del Trabajo;
 
-d. Coordinador de la Comisión de Asuntos Fronterizos del Congreso del Estado, y
+IX. Secretaría de Vivienda y Ordenamiento Territorial;
 
-e. Coordinador de la Comisión de Atención a Grupos Vulnerables del Congreso del Estado.
+X. Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
 
-III. Poder Judicial:
+XI. Comisión Ejecutiva Estatal de Atención a Víctimas, quien fungirá como secretaría técnica;
 
-a. Presidente del Tribunal Superior de Justicia del Estado.
+XII. Tribunal Superior de Justicia;
 
-IV. Organismos Públicos:
+XIII. Una persona representante del Congreso del Estado;
 
-a. Presidente de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza.
+XIV. Dirección de Derechos Humanos de la Secretaría de Gobierno;
+
+XV. Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza;
+
+XVI. Comisión de Búsqueda del Estado de Coahuila de Zaragoza;
+
+XVII. Fiscalía General del Estado;
+
+XVIII. Procuraduría para Niños, Niñas y la Familia;
+
+XIX. Sistema de Protección Integral de Niñas, Niños y Adolescentes;
+
+XX. Secretaría de las Mujeres;
+
+XXI. Centro de Justicia y Empoderamiento para las Mujeres; y
+
+XXII. Dirección de Prevención Social de la Violencia y la Delincuencia.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 61.
 
-Los integrantes del Sistema Estatal se reunirán en Pleno o en comisiones las cuales se deberán crear por acuerdo de sus integrantes o de conformidad con lo establecido en el Reglamento.
+Las personas integrantes del Sistema se reunirán en Pleno o en comisiones, de conformidad con lo establecido en el Reglamento.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 62.
 
-El Pleno se reunirá por lo menos una vez cada seis meses. Los integrantes del mismo tienen la obligación de comparecer a las sesiones.
+El Pleno se reunirá, por lo menos, una vez cada seis meses. Las personas integrantes del mismo tienen la obligación de comparecer a todas las sesiones.
 
-Para el eficiente desarrollo de las actividades atribuidas al Sistema, el Secretario de Gobierno fungirá como Secretario Ejecutivo del mismo; sus responsabilidades por dicho cargo serán las siguientes:
+Para el eficiente desarrollo de las actividades atribuidas al Sistema, el Secretario de Gobierno fungirá como Secretario Ejecutivo del mismo; sus responsabilidades, por dicho cargo, serán las siguientes:
 
 I. Convocar a las sesiones del mismo;
 
-II. Integrar la agenda de los asuntos a tratar o de los asuntos que por su urgencia requieran reuniones extraordinarias;
+II. Integrar la agenda de los asuntos a tratar o de los asuntos que, por su urgencia, requieran reuniones extraordinarias;
 
 III. Llevar de manera ordenada y sistematizada, los acuerdos deliberados por el Sistema;
 
-IV. Vigilar y dar seguimiento al cumplimiento, por parte de las autoridades señaladas en el artículo 60 de esta ley, de los acuerdos que emita el Sistema;
+IV. Vigilar y dar seguimiento al cumplimiento, por parte de las instituciones señaladas en el artículo 60 de esta ley, de los acuerdos que emita el Sistema;
 
-V. Servir de enlace entre el Sistema y la Comisión Ejecutiva.
-
-El Secretario de Gobierno en lo que respecta a las atribuciones que señala este artículo, sólo tendrá competencia al interior del Sistema, por lo que no tendrá injerencia en las actividades operativas de cada uno de los integrantes del Sistema o de la Comisión Ejecutiva.
+La Secretaria Ejecutiva, en lo que respecta a las atribuciones que señala este artículo, sólo tendrá competencia al interior del Sistema, por lo que no tendrá injerencia en las actividades operativas de cada una de las instituciones que integran el mismo.
 
 ###### Artículo 63.
 
@@ -1009,19 +1027,23 @@ El quórum para las reuniones del Sistema Estatal se conformará con la mitad m�
 
 Corresponderá a la persona titular del Poder Ejecutivo la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Estatal. Los integrantes del mismo podrán formular propuestas de acuerdos que permitan el mejor funcionamiento del Sistema.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 65.
 
-Los integrantes del Sistema serán suplidos en sus ausencias por su inferior jerárquico, o en su defecto por quien para dicho fin sea designado, adquiriendo las facultades de voz, deliberación y decisión a nombre del poder, dependencia u órgano al que representa.
+Las personas integrantes del Sistema podrán comisionar, en sus ausencias, a una persona suplente, quien adquirirá las facultades de voz, deliberación y decisión a nombre del poder, dependencia u órgano al que representa.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 66.
 
-Tendrán el carácter de invitados a las sesiones del Sistema o de las Comisiones, las organizaciones de la sociedad civil, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras que, por acuerdo de la Comisión Ejecutiva, deban participar en la sesión que corresponda.
+Podrán participar con carácter de invitados en las sesiones del Sistema o de las Comisiones, las organizaciones de la sociedad civil, los colectivos o grupos de víctimas o las demás instituciones nacionales e internacionales, previo acuerdo de la Secretaría Ejecutiva, cuya participación se solicite por:
 
-El Reglamento o la Comisión Ejecutiva establecerán el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
+I. Las personas que deban intervenir en la sesión que corresponda a solicitud de los integrantes.
+
+II. Las demás organizaciones de la sociedad civil, los colectivos o grupos de víctimas o las demás instituciones nacionales e internacionales.
+
+Por acuerdo del Sistema se establecerá el mecanismo de invitación correspondiente. Las personas invitadas acudirán a las reuniones con derecho a voz, pero sin voto.
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VÍCTIMAS
 
@@ -2514,3 +2536,15 @@ P.O. 23 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 119.- SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 65 Y 66, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 6 Y LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 10, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, Y LA FRACCIÓN VII DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 26; SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY ESTATAL DE EDUCACIÓN; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
