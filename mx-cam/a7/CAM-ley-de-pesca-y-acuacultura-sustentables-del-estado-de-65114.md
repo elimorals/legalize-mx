@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-65114"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-05"
-last_updated: "2024-07-31"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE NOVIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2024.]</small>
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 5 de diciembre de 2008.
 
