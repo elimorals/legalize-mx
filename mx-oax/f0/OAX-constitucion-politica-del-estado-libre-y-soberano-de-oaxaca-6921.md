@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-11-02"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1645,9 +1645,11 @@ Se reunirá, además, en períodos extraordinarios siempre que sea convocada por
 
 El quince de noviembre, a las once horas, en sesión solemne, se declarará abierto el primer período de sesiones por parte del Presidente de la Legislatura.
 
-En la misma sesión, el Gobernador del Estado presentará un informe por escrito sobre el estado que guarda la Administración Pública del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-Esta sesión no tendrá más objeto que celebrar la apertura del período de sesiones y que el Gobernador del Estado presente su informe.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Esta sesión no tendrá más objeto que celebrar la apertura del periodo de sesiones.
 
 ###### ARTICULO 44.
 
@@ -1763,13 +1765,23 @@ Si el legislativo insiste en mantener su proyecto original, éste quedará firme
 
 El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste ejerza funciones de Colegio Electoral o de Gran Jurado, lo mismo que cuando el Congreso del Estado declaré que debe acusarse a uno de los altos funcionarios del Estado por delitos oficiales; tampoco podrá vetar la legislación orgánica del Poder Legislativo ni los decretos que convoquen a periodos extraordinarios de sesiones;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-VII.- En caso de que los proyectos de Ley de Ingresos y/o Presupuesto de Egresos del Estado no se aprobaran por el Congreso a más tardar el diez de diciembre, o no se hubiese superado el veto del Ejecutivo, se tendrán por extendida su vigencia el año calendario siguiente.
+VII. En caso de que los proyectos de Ley de Ingresos y/o Presupuesto de egresos del Estado no se aprobaron por el congreso a más tardar el 10 de diciembre, o no se hubiese superado el veto del Ejecutivo, se tendrá por extendida la vigencia de la última Ley de Ingresos y Presupuesto de Egresos publicados en el Periódico Oficial del Gobierno del Estado, al Ejercicio Fiscal siguiente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Tratándose del año que corresponda a la renovación del titular del Poder Ejecutivo Estatal o Federal, en caso de que los proyectos de Ley de Ingresos y/o Presupuesto de Egresos del Estado no se aprobaran por el Congreso a más tardar el 30 de diciembre, o no se hubiese superado El veto del Ejecutivo, se tendrá por extendida la vigencia de la última Ley de Ingresos y Presupuesto de Egresos publicados en el Periódico Oficial del Gobierno del Estado, al Ejercicio Fiscal siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 El veto a que se refiere la presente fracción se resolverá de acuerdo con las disposiciones contenidas en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 Rebasada la fecha a que se refiere el párrafo primero de la presente fracción, el Ejecutivo del Estado, tratándose de la Ley de Ingresos del Estado, sólo podrá actualizar los montos estimados de ingresos, sin aumentar las tasas de los impuestos; respecto del Presupuesto de Egresos podrá hacer los ajustes de conformidad con lo establecido en la Ley reglamentaria.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Los presupuestos aprobados en el año anterior al Poder Legislativo, Judicial y Órganos Autónomos no podrán afectarse.
 
@@ -1909,13 +1921,11 @@ XIX. Emitir las normas que establezcan los procedimientos mediante los cuales se
 
 XX. Legislar en lo relativo a justicia administrativa, comprendiendo códigos administrativos, de procedimientos y recursos administrativos que resuelvan las controversias que se susciten entre la administración pública estatal o municipal y los particulares, así como las que se susciten entre los municipios entre sí, o entre éstos y las dependencias o entidades de la administración pública estatal, como consecuencia de los convenios que celebren para el ejercicio de funciones, ejecución de obras o prestación de servicios públicos, estableciendo las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XXI. A iniciativa del Ejecutivo analizar, discutir y decretar anualmente en primer lugar la Ley de Ingresos del Estado, imponiendo las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas, y posteriormente el Presupuesto de Egresos;
+XXI. A iniciativa del Ejecutivo analizar, discutir y decretar anualmente, en primer lugar, la Ley de Ingresos del Estado, imponiendo las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas, y posteriormente el Presupuesto de Egresos y, en su caso, las reformas legales relativas a las fuentes de ingresos y las relacionadas con la programación, presupuestación y ejercicio del gasto para el Ejercicio Fiscal siguiente.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-Tratándose del año que corresponda la renovación del titular del Poder Ejecutivo, aprobar la Ley de Ingresos y el Decreto de Presupuesto de Egresos del Estado a más tardar el treinta de diciembre.
+Tratándose del año que corresponda la renovación del titular del Poder Ejecutivo Estatal o Federal, los ordenamientos y las reformas legales relativas a las fuentes de ingresos y las relacionadas con la programación, presupuestación y ejercicio del gasto, citados en el párrafo anterior, se aprobarán a más tardar el treinta de diciembre.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -2697,9 +2707,13 @@ II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decret
 
 III. Garantizar la paridad entre mujeres y hombres en los nombramientos que realice en uso de la facultad contenida en la fracción V del artículo 79 de esta Constitución; y si no fuese posible por qué el número de nombramientos a expedir sea impar, se observará que no haya más hombres que mujeres. La paridad deberá cumplirse por separado en cada nivel administrativo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-IV. Presentar al Congreso a más tardar el diecisiete de noviembre de cada año, la iniciativa de Ley de Ingresos y proyecto de Presupuesto de Egresos del Estado, con el contenido y los anexos que determine la Ley reglamentaria.
+IV. Presentar al Congreso a más tardar el diecisiete de noviembre de cada año, la iniciativa de Ley de Ingresos, el proyecto de Presupuesto de Egresos del Estado con el contenido y los anexos que determine la Ley reglamentaria y, en su caso, las reformas legales relativas a las fuentes de ingresos y las relacionadas con la programación, presupuestación y ejercicio del gasto para el Ejercicio Fiscal siguiente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Tratándose del año que corresponda a la renovación del titular del Poder Ejecutivo Federal, los ordenamientos citados en el párrafo anterior, se presentarán a más tardar el treinta de noviembre.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -2804,6 +2818,14 @@ XXXI. Elaborar, publicar y actualizar el Atlas Estatal de Riesgos de forma peri�
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 XXXII. Preservar la Guelaguetza como la principal festividad tradicional de los pueblos y comunidades del Estado de Oaxaca y como patrimonio cultural intangible de los pueblos y comunidades indígenas de Oaxaca; así como garantizar su protección, difusión y fomento, conforme a la legislación de la materia.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XXXIII. Presentar en Sesión Solemne ante el Congreso del Estado el primero de diciembre de cada año, un informe por escrito sobre el estado que guarda la Administración Pública del Estado, con excepción del año en que se asume el cargo.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXXIII, P.O. 12 DE NOVIEMBRE DE 2024]</small>
+
+Tratándose del último año de su ejercicio, el mismo deberá presentarse el quince de noviembre.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3041,9 +3063,9 @@ El Poder Judicial se ejerce por el Tribunal Superior de Justicia, por los jueces
 
 Para lograr el acceso a la justicia, la actuación de las y los juzgadores deberá atender la perspectiva de género.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-El Poder Judicial administrará con autonomía su presupuesto, sin que pueda ser menor al ejercido en el año anterior. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará por el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+El poder judicial administrará con autonomía su presupuesto. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará por el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -6766,3 +6788,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. El Honorable Congreso tendrá 90 días para ajustar sus leyes secundarias para el cumplimiento de lo previsto en el presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2518.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 43; EL PÁRRAFO PRIMERO DE LA FRACCIÓN VII DEL ARTÍCULO 53, LA FRACCIÓN XXI DEL ARTÍCULO 59 Y EL PÁRRAFO PRIMERO DE LA FRACCIÓN IV DEL ARTÍCULO 80, EL PÁRRAFO TERCERO DEL ARTÍCULO 99; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII, RECORRIENDO EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 53, Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV, Y LA FRACCIÓN XXXIII AL ARTÍCULO 80; SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 43, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- En el presente Ejercicio Fiscal, los Ayuntamientos de los Municipios del Estado tendrán hasta el diez de diciembre para presentar al Congreso del Estado de Oaxaca sus proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal 2025, en la forma establecida en la Ley Orgánica Municipal del Estado de Oaxaca.
+
+CUARTO.- Se otorga un plazo de 180 días naturales para que el Congreso del Estado de Oaxaca reforme La Ley Orgánica Municipal del Estado de Oaxaca y los ordenamientos legales correspondientes, a efecto de establecer el plazo que tendrán los Ayuntamientos de los Municipios para presentar ante el Congreso del Estado sus proyectos de Ley de Ingresos y de Presupuesto de Egresos Municipal, tratándose del año que corresponda a la renovación del titular del Poder Ejecutivo Federal.
+
+QUINTO.- La reforma al artículo 43 y la adición de la fracción XXXIII del artículo 80 a que se refiere el presente Decreto, respecto al Informe de Gobierno, se aplicarán al informe que corresponde al siguiente año, por lo que, el que corresponde al presente, se rendirá en términos del texto constitucional vigente antes de la presente reforma.
