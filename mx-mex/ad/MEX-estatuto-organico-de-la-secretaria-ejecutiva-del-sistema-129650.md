@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129650
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-10"
-last_updated: "2023-04-26"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1941 +21,529 @@ state: "MEX"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2024.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
+Estatuto publicado en la Sección Cuarta al Número 7 de la Gaceta del Gobierno del Estado de México, el martes 10 de julio de 2018.
 
-Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
+DOCTORA EN DERECHO JOSEFINA ROMÁN VERGARA, SECRETARIA TÉCNICA DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, CON FUNDAMENTO EN EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO NÚMERO 207 DE LA H. “LIX” LEGISLATURA DEL ESTADO DE MÉXICO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL 30 DE MAYO DE 2017; Y,
 
-EL CIUDADANO LIC. JESUS A. AGUILAR PADILLA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+CONSIDERANDO
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+[...]
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Octava Legislatura, ha tenido a bien expedir el siguiente,
+En mérito de lo expuesto, se expide el siguiente:
 
-DECRETO NÚMERO: 619
+ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
-
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, de observancia obligatoria en el Estado, para garantizar el pleno ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como prevenir, atender, sancionar y erradicar las violencias contra las mujeres.
+El presente Estatuto tiene por objeto establecer las bases de organización, así como la estructura y facultades de las unidades administrativas que integran la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
 ###### Artículo 2.
 
-Esta Ley tiene por objeto:
+De manera adicional a lo dispuesto por el artículo 3 de la Ley del Sistema Anticorrupción del Estado de México y Municipios, para los efectos de este Estatuto Orgánico se entenderá por:
 
-I. Incorporar a las políticas públicas del Estado y sus municipios los principios, instrumentos y mecanismos, para garantizar a las mujeres el acceso a una vida libre de violencia, favoreciendo su pleno desarrollo y bienestar integral;
+I. Estatuto Orgánico: Al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
 
-II. Sentar las bases para el diseño de políticas públicas, programas y acciones con alto contenido de respeto a la igualdad y de no discriminación entre hombres y mujeres; y,
+II. Ley General: A la Ley General del Sistema Nacional Anticorrupción;
 
-III. Establecer las medidas de protección y procedimientos legales oportunos para la eficaz salvaguarda de los derechos contenidos en la presente ley.
+III. Órgano de Gobierno: Al Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
+
+IV. Secretario Técnico: A la o al titular de la Secretaría Ejecutiva;
+
+V. Servidor público: A toda persona que desempeñe un empleo, cargo o comisión adscrita a la Secretaría Ejecutiva; y,
+
+VI. Sistema Nacional: Al Sistema Nacional Anticorrupción, instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, prevista por la Ley General del Sistema Nacional Anticorrupción.
 
 ###### Artículo 3.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes para garantizar el derecho de las mujeres a una vida libre de violencia.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-El Estado y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres y deberán contar con fiscalías especializadas para atender los delitos contra las mujeres y Centros de Justicia para las Mujeres.
-
-El presente ordenamiento deberá interpretarse de acuerdo a los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, mismo que tendrá su sede en la ciudad de Toluca de Lerdo, México.
 
 ###### Artículo 4.
 
-Corresponde al Estado y a los Municipios, mediante el desarrollo de sus políticas, planes y proyectos, promover y garantizar la igualdad de oportunidades con equidad de género.
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción tiene por objeto fungir como órgano de apoyo técnico del Comité Coordinador, a efecto de proveerle la asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones, conforme lo dispuesto en la Ley del Sistema Anticorrupción del Estado de México y Municipios, y demás ordenamientos aplicables.
 
 ###### Artículo 5.
 
-Cuando en la actuación de las autoridades estatales y municipales en la aplicación de esta Ley conforme a los instrumentos internacionales aplicables en materia de discriminación, igualdad del hombre y la mujer y violencia en contra de la mujer, de los que el Estado mexicano sea parte, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias inequitativas o violentas.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+La Secretaría Ejecutiva para su organización y funcionamiento, se regirá por la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción, la Constitución Política del Estado Libre y Soberano de México, la Ley del Sistema Anticorrupción del Estado de México y Municipios, el presente Estatuto Orgánico y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
-Son principios rectores, para el ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como del acceso a una vida libre de violencias contra las mujeres:
-
-I. La igualdad jurídica, sustantiva, de resultados y estructural;
-
-II. El respeto a la dignidad humana de las mujeres;
-
-III. La no discriminación;
-
-IV. La libertad de las mujeres;
-
-V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
-
-VI. La perspectiva de género;
-
-VII. La debida diligencia;
-
-VIII. La interseccionalidad;
-
-IX. La interculturalidad;
-
-X. El enfoque diferencial; y
-
-XI. La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
+Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores se establecerán solamente con la Secretaría Ejecutiva, como institución pública, por lo que no existirá ninguna relación laboral con las y los integrantes del Órgano de Gobierno.
 
 ###### Artículo 7.
 
-Para el cumplimiento de esta Ley, el Estado y los Municipios adoptarán las medidas necesarias que tengan como propósito erradicar:
+La Secretaría Ejecutiva, a través de las unidades administrativas de su adscripción, dará cumplimiento a las obligaciones de transparencia, acceso a la información, protección de datos personales y archivos, en los términos previstos en la normatividad aplicable.
 
-I. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tengan por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas; y,
+Los servidores públicos de la Secretaría Ejecutiva estarán obligados a observar y aplicar el presente Estatuto Orgánico, la normatividad complementaria y reglamentaria que se emita, los manuales de procedimientos, de operación, de organización y de servicios al público que emita la Secretaría Ejecutiva, así como las disposiciones que emitan las unidades administrativas de la estructura orgánica.
 
-II. Todo acto de violencia basado en la pertenencia al sexo femenino que tenga o pueda tener como resultado un daño o sufrimiento físico, sexual o psicológico para la mujer, así como las amenazas de tales actos, la coacción o la privación arbitraria de la libertad, tanto si se producen en la vida pública como en la vida privada.
+Se considerará que dichos manuales y disposiciones son obligatorios cuando los mismos se hayan aprobado en términos del Estatuto Orgánico o los dados a conocer a los servidores públicos y que exista la constancia correspondiente.
+
+Se exceptúa de lo previsto en el párrafo anterior, los manuales o las disposiciones que se publiquen en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+El ingreso y permanencia de los servidores públicos se llevará a cabo conforme a la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
 ###### Artículo 8.
 
-El Estado y los Municipios en el ejercicio del derecho de toda mujer a una vida libre de violencia deberán garantizarle:
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-I. A ser libre de toda forma de discriminación;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-II. El acceso a la educación libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación; y
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-III. El acceso inmediato y eficaz a las órdenes de protección, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales, por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, por esta Ley y por la demás normativa aplicable, con la finalidad de salvaguardar sus derechos.
+A falta de disposición expresa, los procedimientos administrativos que se lleven a cabo en la Secretaría Ejecutiva en términos del Estatuto Orgánico y que no cuenten con una tramitación especial prevista en Ley, se realizarán conforme a las reglas establecidas para el procedimiento común en el Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 9.
 
-En el estado de Sinaloa está prohibida y por lo tanto será sancionada toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
+El presente Estatuto Orgánico podrá ser modificado por el Órgano de Gobierno previa propuesta que realice el Secretario Técnico por conducto de la o del Presidente del citado órgano.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+De manera conjunta con la aprobación de la modificación del Estatuto Orgánico, deberá aprobarse en su caso, la modificación de la estructura orgánica, la cual precisará la denominación de las unidades administrativas, denominación de las plazas y adscripción, nivel administrativo y/o rango de los servidores públicos.
 
 ###### Artículo 10.
 
-Para los efectos de esta Ley, se entenderá por:
+Los casos no previstos en el presente Estatuto Orgánico serán resueltos por el Secretario Técnico, quien deberá notificar un dictamen jurídico al Órgano de Gobierno a más tardar en la siguiente sesión ordinaria del Órgano de Gobierno, el cual determinará si resulta necesaria la modificación al Estatuto Orgánico, o en su caso, la emisión de normatividad complementaria.
 
-I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
-
-II. DIF Estatal: El organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa;
-
-III. DIF Municipal: El organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
-
-IV. CEPAVIF: Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
-
-V. Organizaciones Sociales: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
-
-VI. Secretaría: La Secretaría de las Mujeres del Poder Ejecutivo del Estado de Sinaloa;
-
-VII. Programa Nacional: El Programa Nacional para Prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-VIII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado;
-
-IX. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-X. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-XI. Modalidades de violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
-
-XII. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico o sexual en la mujer, tanto en el ámbito privado como en el público;
-
-XIII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
-
-XIV. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XV. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
-
-XVI. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se proponen eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el desarrollo y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
-
-XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autónoma, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XVIII. Misoginia: Son conductas de odio contra las niñas, las adolescentes y las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
-
-XIX. Mujeres: Las personas nacidas biológicamente con genitales femeninos independientemente de su edad, así como aquellas que han modificado su identidad de género mediante resolución judicial o administrativa y que cuenten con un acta de nacimiento por reconocimiento de identidad de género en la cual se identifican como mujeres de conformidad con lo dispuesto por el Código Familiar del Estado de Sinaloa;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XX. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias;
-
-XXI. Alerta Alba: Mecanismo de comunicación que la Fiscalía Especializada en Desaparición Forzada de Personas realiza, a las autoridades, órganos e instituciones federales, estatales y municipales ante la desaparición o no localización de niñas y/o mujeres, solicitando la coordinación y colaboración, para que en el ámbito de sus respectivas atribuciones y competencias, se lleve a cabo la búsqueda, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa;
-
-XXII. Protocolo Alba: El Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en Caso de Desaparición o No Localización de Niñas y Mujeres;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXIII. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXIV. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraídas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXV. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXVI. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXVII. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXVIII. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas; y
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XXIX. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades.
-
-### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
+### CAPÍTULO II. DE LA DIRECCIÓN Y ADMINISTRACIÓN
 
 #### SECCIÓN PRIMERA. DEL ÓRGANO DE GOBIERNO
 
 ###### Artículo 11.
 
-Los tipos de violencia contra las mujeres son:
+La dirección y administración de la Secretaría Ejecutiva corresponden:
 
-I. Violencia psicológica.- Es cualquier tipo acto u omisión que dañe la estabilidad psicológica, que puede consistir en; negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso el suicidio;
+I. Al Órgano de Gobierno, y
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
-
-II. Violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas;
-
-III. Violencia patrimonial.- Es cualquier acto u omisión que afecte la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y pueda abarcar los daños a los bienes comunes o propios de la víctima;
-
-IV. Violencia económica.- Es toda conducta de acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
-
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
-
-V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
-
-VI. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres o personas gestantes a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de interrupción del embarazo seguro en el marco previsto por la Ley de Salud del Estado de Sinaloa, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ABRIL DE 2023)</small>
-
-VII. Violencia simbólica.- La que a través de patrones estereotipados, mensajes, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de las mujeres en la sociedad; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE ABRIL DE 2023)</small>
-
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+II. Al Secretario Técnico.
 
 ###### Artículo 12.
 
-Los derechos de las mujeres protegidos por esta Ley son:
-
-I. La vida;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-II. La libertad y seguridad personal;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-III. La igualdad sustantiva;
-
-IV. La equidad;
-
-V. La no discriminación;
-
-VI. La intimidad;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-VII. La integridad física, psicoemocional y sexual de las mujeres;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-VIII. El patrimonio;
-
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-IX. A no ser sometida a tortura, ni otros tratos o penas crueles, inhumanos o degradantes; y,
-
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-X. A que se respete la dignidad inherente a su persona y se proteja a su familia.
+El Órgano de Gobierno es la máxima autoridad de la Secretaría Ejecutiva y sus determinaciones serán obligatorias para el Secretario Técnico y las unidades administrativas que integran al organismo.
 
 ###### Artículo 13.
 
-Las mujeres que son víctimas de cualquier tipo y modalidad de violencia tendrán los siguientes derechos:
+El Órgano de Gobierno se integrará de acuerdo con lo establecido por la Ley.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-I. Protección inmediata y efectiva por parte de las autoridades, especialmente si se encuentra embarazada o es persona con discapacidad, indígena o migrante;
-
-II. Trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
-
-III. Asistencia legal gratuita y necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
-
-IV. Asistencia médica y psicológica gratuita para la atención de las consecuencias generadas por la violencia;
-
-V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
-
-VI. Atención en un refugio temporal; y,
-
-VII. Los demás que establezca esta Ley, su reglamento y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
-
-## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA CONTRA LAS MUJERES
+Con la finalidad de agilizar su operación, cada una o uno de los miembros del Órgano de Gobierno, nombrará a un servidor público que funja como enlace permanente con la Secretaría Ejecutiva, con excepción de la o del Presidente, quien deberá ser suplido en términos de Ley.
 
 ###### Artículo 14.
 
-La violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+El Órgano de Gobierno, además de las señaladas en el artículo 29 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, contará con las atribuciones siguientes:
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+I. Aprobar el Estatuto Orgánico de la Secretaría Ejecutiva, así como aprobar, en su caso, sus modificaciones;
 
-También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
+II. Aprobar el calendario anual de sesiones del ejercicio fiscal siguiente a más tardar en la última sesión ordinaria de cada ejercicio;
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+III. Aprobar los métodos o lineamientos que permitan el óptimo aprovechamiento de los bienes y recursos de la Secretaría Ejecutiva;
 
-Contra la violencia familiar se aplicarán las disposiciones de la Ley para la Prevención y Atención de la Violencia Familiar del Estado, así como lo dispuesto en la legislación civil, familiar y penal del Estado de Sinaloa, en tanto no contradiga lo estipulado en el siguiente artículo.
+IV. Aprobar y modificar la estructura y bases de organización de la Secretaría Ejecutiva en los términos previstos por Ley, cuando sea necesario para mejorar el desempeño de sus funciones, el cumplimiento de sus fines y la coordinación de sus actividades, previa opinión de la Secretaría de Finanzas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
+V. Previa propuesta del Secretario Técnico, nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores al Secretario Técnico, con excepción del Órgano Interno de Control;
 
-###### Artículo 14 Bis.
+VI. Analizar y aprobar, en su caso, los informes periódicos que rinda el Secretario Técnico;
 
-Los modelos de prevención, atención y sanción que establezcan el Estado y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+VII. Aprobar los programas de organización que resulten necesarios para el cumplimiento de las funciones de la Secretaría Ejecutiva;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+VIII. Aprobar los procedimientos para controlar la calidad de los insumos técnicos necesarios para que el Comité Coordinador realice sus funciones, previa propuesta del Secretario Técnico;
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+IX. Conocer los informes de gestión y desempeño de las actividades de la Secretaría Ejecutiva, incluido el ejercicio de los presupuestos, ingresos y egresos y los estados financieros correspondientes, así como en su caso, formular observaciones de mejora;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+X. Expedir la normatividad complementaria o reglamentaria específica que derive del presente Estatuto Orgánico, así como la que resulte necesaria para el adecuado funcionamiento de la Secretaría Ejecutiva; y
 
-II. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-III. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-V. Favorecer la separación y alejamiento del agresor con respecto a la víctima;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia; y
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VII. El Ejecutivo del Estado, por conducto de Secretaría, otorgará un apoyo económico a mujeres víctimas de violencia en situación de vulnerabilidad.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
+XI. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables.
 
 ###### Artículo 15.
 
-La violencia laboral y docente se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación de jerarquía, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra la igualdad.
-
-Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual, en los términos definidos en el Código Penal para el Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+El Órgano de Gobierno emitirá los Lineamientos de Sesiones del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción con el objeto de controlar sus diferentes tipos y modalidades, así como las atribuciones y las facultades de sus integrantes, en cada una de sus etapas y el registro de las mismas.
 
 #### SECCIÓN SEGUNDA. DEL SECRETARIO TÉCNICO
 
 ###### Artículo 16.
 
-Constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Incluye, para efectos de esta ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley, además del acoso y el hostigamiento sexual.
+El Secretario Técnico es el servidor público que tiene a su cargo las funciones de dirección de la Secretaría Ejecutiva, quien ejercerá las atribuciones previstas en la Ley y en el presente Estatuto Orgánico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-Constituyen violencia docente las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Secretario Técnico se auxiliará de las unidades administrativas básicas siguientes:
+
+I. Dirección General de Vinculación Interinstitucional,
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+II. Dirección General de Políticas Públicas y Riesgos en Materia Anticorrupción,
+
+III. Dirección General de Servicios Tecnológicos y Plataforma Digital,
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+IV. Unidad de Asuntos Jurídicos e Igualdad de Género, y
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+V. Coordinación de Administración y Finanzas.
+
+VI. (DEROGADA, G.G. 27 DE NOVIEMBRE DE 2020)
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+La Secretaría Ejecutiva contará con un Órgano Interno de Control, así como con las demás unidades administrativas que le sean autorizada (sic), cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos, órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normativa aplicable, estructura orgánica y presupuesto autorizados.
 
 ###### Artículo 18.
 
-La violencia en la comunidad son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión.
+Para el desahogo de los asuntos de su competencia, además de las previstas por la Ley, el Secretario Técnico contará con las atribuciones siguientes:
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+I. Proponer al Órgano de Gobierno la estructura orgánica de la Secretaría Ejecutiva y sus modificaciones, así como los perfiles profesionales que deberán cubrir los servidores públicos adscritos a la misma ante el Órgano de Gobierno, previa opinión de la Secretaría de Finanzas;
 
-###### Artículo 18 Bis.
+II. Nombrar y remover a los servidores públicos de la Secretaría Ejecutiva en los términos previstos por la Ley;
 
-El Estado debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+III. Expedir y certificar, en su caso, copia de los documentos o constancias relativas a la Secretaría Ejecutiva, de oficio o a petición de autoridad competente;
 
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+IV. Proponer ante el Comité Coordinador, la celebración de convenios de Coordinación, Colaboración y Concertación necesarios para el cumplimiento de los fines del Sistema Estatal y Municipal Anticorrupción;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres; y
+V. Notificar las convocatorias para las sesiones del Comité Coordinador y del Sistema Estatal Anticorrupción;
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias.
+VI. Proporcionar al Comité de Participación Ciudadana a través de los medios de comunicación aprobados, sin ninguna restricción, la información que genere el Sistema Estatal Anticorrupción, así como los insumos técnicos que se requieran para el cumplimiento de sus atribuciones, de conformidad con los mecanismos propuestos por la Secretaría Ejecutiva;
 
-### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
+VII. Solicitar a las y los integrantes del Comité Coordinador, toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir dicho Comité, incluidos los proyectos de recomendaciones;
+
+VIII. Notificar y dar seguimiento a las recomendaciones que se desprendan del informe anual a las autoridades a las que se dirijan, por instrucción de la o del Presidente del Comité Coordinador, así como atender las aclaraciones que se deriven de las recomendaciones;
+
+IX. Auxiliar a la o al Presidente del Comité Coordinador en sus funciones dentro del Sistema Estatal Anticorrupción y las derivadas de su participación en el Sistema Nacional;
+
+X. Coordinar las acciones institucionales relativas al fomento de cultura de la legalidad, en materia de gobierno digital; para el pleno goce, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; la participación en el Programa de Derechos Humanos del Estado de México; para la protección, integración y desarrollo de las personas con discapacidad del Estado de México; igualdad de trato y oportunidades entre mujeres y hombres, y para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; y demás obligaciones que resulten exigibles en términos de las legislaciones de las materias, por parte de la Secretaría Ejecutiva;
+
+XI. Implementar políticas de imagen y comunicación institucional de la Secretaría Ejecutiva en los términos previstos por las disposiciones aplicables;
+
+XII. Presidir el Comité Interno de Obra Pública de la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIII. Resolver en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIV. Promover que los planes y programas de la Secretaría Ejecutiva sean realizados con perspectiva de género y respeto a los derechos humanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XV. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables; y aquellas que le encomiende el Órgano de Gobierno.
+
+### CAPÍTULO III. ATRIBUCIONES GENÉRICAS DE LAS Y LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 19.
 
-La violencia institucional son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Al frente de cada Dirección General, Unidad y Coordinación habrá una o un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, conforme a la estructura orgánica y presupuesto autorizados.
 
 ###### Artículo 20.
 
-El Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en el ejercicio de sus funciones éstos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia.
+Las y los titulares de las unidades administrativas que conforman la estructura orgánica, tendrán además de las atribuciones específicas señaladas en el presente Estatuto Orgánico, las siguientes:
 
-### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
+I. Proporcionar al Secretario Técnico la información y el apoyo que les sean requeridos;
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+II. Acordar con el Secretario Técnico los asuntos de su competencia;
+
+III. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas, proyectos y acciones de la unidad administrativa a su cargo, e informar sobre los avances correspondientes al Secretario Técnico;
+
+IV. Rendir los informes necesarios y generar reportes sobre las actividades que se realicen en su ámbito de competencia, con la periodicidad que indique el Secretario Técnico;
+
+V. Observar y ejecutar las normas, lineamientos y programas de trabajo que apruebe la Secretaría Ejecutiva;
+
+VI. Elaborar y ejecutar el Programa Anual de Trabajo que corresponda a la unidad administrativa a su cargo;
+
+VII. Elaborar y remitir a la Unidad de Planeación y Transparencia los informes trimestrales del avance de metas del Programa Anual de Trabajo;
+
+VIII. Participar en la elaboración de los anteproyectos de presupuesto anual de ingresos y egresos que corresponda a la unidad administrativa a su cargo, y vigilar su correcta aplicación, una vez aprobados;
+
+IX. Formular con el apoyo de la unidad administrativa competente, los manuales administrativos de la unidad administrativa a su cargo, los cuales deberán ser revisados y actualizados periódicamente;
+
+X. Administrar y controlar responsablemente los recursos humanos, materiales, financieros y técnicos, así como los servicios generales que sean autorizados a la unidad administrativa a su cargo;
+
+XI. Implementar en coordinación con la Dirección General de Servicios Tecnológicos y Plataforma Digital, el uso de las tecnologías de la información y comunicación para el ejercicio de sus atribuciones;
+
+XII. Proponer al Secretario Técnico acciones para la modernización administrativa, Mejora Regulatoria, Gobierno Digital y Gestión de la Calidad en los trámites y servicios que presta la unidad administrativa a su cargo y llevar a cabo su ejecución y cumplimiento;
+
+XIII. Ejercer las atribuciones que tengan a su cargo, en congruencia con lo establecido en las Leyes de la materia, en total apego a la suficiencia presupuestal establecida para los planes, programas y metas aprobadas, así como coadyuvar con las demás unidades administrativas de la Secretaría Ejecutiva, para dar cumplimiento a las atribuciones comunes en el ámbito de sus respectivas competencias;
+
+XIV. Elaborar los requerimientos necesarios, así como allegarse, por parte de las autoridades y particulares, de cualquier información y documentación necesaria para el ejercicio de sus atribuciones;
+
+XV. Implementar medidas administrativas para el buen desempeño de los asuntos de la unidad administrativa a su cargo;
+
+XVI. Expedir copias certificadas de los documentos que hayan emitido en ejercicio de sus atribuciones o que obren en original en sus archivos con motivo de las mismas;
+
+XVII. Habilitar a los servidores públicos adscritos a la unidad administrativa a su cargo, así como días y horas inhábiles, para la práctica de las diligencias relacionadas con los procedimientos administrativos de su competencia, relacionados con recomendaciones no vinculantes, exhortos y demás procedimientos establecidos en la Ley;
+
+XVIII. Participar en los procedimientos adquisitivos y de enajenaciones a los que sean convocados, de acuerdo con la normatividad aplicable;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XIX. Proponer al Secretario Técnico, la suscripción de acuerdos, convenios y demás actos consensuales tendentes al cumplimiento de los objetivos institucionales que se relacionen con su ámbito de competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XX. Implementar en el ámbito de su competencia las medidas tendientes a institucionalizar la perspectiva de género, la igualdad sustantiva, la eliminación de toda forma de discriminación y el respeto a los derechos humanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+XXI. Las demás que les confieran la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que les encomiende el Secretario Técnico.
+
+### CAPÍTULO IV. ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, UNIDAD Y COORDINACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-El Estado y los Ayuntamientos, promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño infligido a las víctimas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
+Corresponde a la Dirección General de Políticas Públicas y Riesgos en Materia Anticorrupción, el ejercicio de las atribuciones siguientes:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+I. Proponer al Secretario Técnico políticas públicas encaminadas a la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas; así como de fiscalización y control de los recursos públicos;
+
+II. Elaborar y someter a consideración del Secretario Técnico, los anteproyectos de metodologías, indicadores y políticas integrales, a que hace referencia el artículo 36 fracción IV de la Ley;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+III. Diseñar y someter a consideración del Secretario Técnico, las propuestas de las evaluaciones de programas y políticas integrales que se lleven a cabo;
+
+IV. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos que le solicite el Secretario Técnico;
+
+V. Proveer, por conducto del Secretario Técnico, a la Comisión Ejecutiva de los insumos necesarios para el cumplimiento de sus funciones;
+
+VI. Elaborar, impulsar y participar en la ejecución de programas conjuntos y coordinados de promoción, difusión y vinculación que impulse la Secretaría Ejecutiva como parte de la agenda del Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+VII. Integrar y elaborar el anteproyecto del informe anual a cargo del Comité Coordinador, que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas estatales y municipales en la materia, y presentarlo ante el Secretario Técnico;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Diseñar políticas y programas para la promoción, fomento y difusión de la ética y cultura de integridad en el servicio público para identificar, evaluar y controlar los riesgos de corrupción, así como coordinar las acciones institucionales de la Secretaría Ejecutiva para tal efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+IX. Diseñar instrumentos de análisis de riesgos cuyos resultados sean el insumo para la elaboración de planes de acción de control con enfoque en la prevención, detección y disuasión de hechos de corrupción y faltas administrativas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+X. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
 ###### Artículo 22.
 
-La violencia feminicida es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+Corresponde a la Dirección General de Servicios Tecnológicos y Plataforma Digital, el ejercicio de las atribuciones siguientes:
 
-Este tipo de violencia, será prevenida por el Gobierno del Estado y los Ayuntamientos mediante un programa permanente de promoción al respeto de todos los derechos de la (sic) mujeres.
+I. Proponer al Secretario Técnico la implementación de las tecnologías de la información y comunicación acordes a las necesidades del Sistema Estatal Anticorrupción y de la Secretaría Ejecutiva, para el debido cumplimiento de sus atribuciones;
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2023)</small>
+II. Desarrollar y proponer al Secretario Técnico los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas y reflejen los avances o retrocesos en la política estatal anticorrupción;
 
-El Ejecutivo del Estado, por conducto de la Secretaría, otorgará apoyo económico a niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio.
+III. Diseñar, establecer e implementar mecanismos de interoperabilidad e interconexión entre la Plataforma Digital Estatal, la Plataforma Digital Nacional y demás plataformas digitales, sistemas y aplicaciones informáticas con las que se suministre o intercambie información;
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+IV. Desarrollar, mantener, actualizar y evaluar los servicios de las plataformas digitales cuya administración corresponda al Secretario Técnico;
 
-###### Artículo 22 Bis.
+V. Proponer la instauración de mecanismos de organización de la información que permitan la adecuada interacción entre los diversos sistemas de las entidades miembro del Sistema Estatal Anticorrupción;
 
-La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
+VI. Promover la implementación de sistemas (sic) información al interior de la Secretaría Ejecutiva, en coordinación con el resto de las unidades administrativas;
 
-I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
+VII. Desarrollar proyectos estratégicos en materia de informática y tecnologías de la información y comunicación para el cumplimiento de los objetivos institucionales;
 
-II. Generar las condiciones y políticas públicas que contribuyan a la disminución y cese de la violencia feminicida en su contra, y
+VIII. Elaborar programas institucionales en materia de informática, tecnologías de la información y comunicación relacionadas con el Sistema Estatal Anticorrupción, de conformidad con la normatividad aplicable;
 
-III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas que agravian los derechos humanos de las mujeres, adolescentes y niñas.
+IX. Difundir lineamientos, catálogos y normatividad informática de manera transversal entre todas las entidades miembro del Sistema Estatal Anticorrupción;
 
-Para cumplir con estos objetivos, las autoridades correspondientes, en el ámbito de sus competencias deberán:
+X. Diseñar, coordinar y supervisar la aplicación, el desarrollo y la difusión de políticas y estándares en materia de seguridad informática, de telecomunicaciones y ciberseguridad para la Secretaría Ejecutiva, Plataforma Digital Estatal y las requeridas por el Sistema Estatal Anticorrupción;
 
-A. Hacer del conocimiento público el motivo de la Alerta de Violencia de Género contra las mujeres, y la zona territorial que abarquen las acciones que deberán realizarse;
+XI. Diseñar, coordinar e implementar mecanismos de transparencia proactiva, datos abiertos, minería de datos, procesamiento masivo e inteligencia que incrementen el valor, análisis y efectos de la información contenida en la Plataforma Digital Estatal;
 
-B. Implementar las acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan;
+XII. Diseñar, coordinar y supervisar mecanismos tecnológicos para la recepción, gestión y trámite de denuncias, de conformidad con la Ley;
 
-C. Elaborar un Programa de Acciones Estratégicas de cumplimiento, que deberá hacerse del conocimiento público y que contendrá:
+XIII. Brindar la asesoría y el apoyo técnico a las instancias que integran el Sistema Estatal y Municipal Anticorrupción, que se requiera con motivo de la operación de la Plataforma Digital Estatal;
 
-a) El motivo de la Alerta de Violencia de Género contra las mujeres;
+XIV. Fungir como enlace ante unidades de tecnologías de la información y comunicación o equivalentes de las instancias que participan en la integración y operación de la Plataforma Digital Estatal y su conexión con otras plataformas, conforme a la normatividad aplicable;
 
-b) Las acciones que deberán desempeñar para hacer frente a la violencia feminicida o al agravio comparado, la ruta de acción, los plazos para su ejecución y la asignación de responsabilidades definidas para cada uno de los poderes y órdenes de gobierno, según corresponda;
+XV. Administrar y proporcionar las tecnologías de la información y comunicación para alcanzar las metas y objetivos de la Secretaría Ejecutiva;
 
-c) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar las autoridades estatales y municipales;
+XVI. Proponer y participar, en coordinación con las demás unidades administrativas de la Secretaría Ejecutiva, la automatización de los procesos sustantivos y de apoyo susceptibles de ser soportados por tecnologías de la información y comunicación;
 
-D. Elaborar informes por lo menos cada seis meses para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+XVII. Diseñar, desarrollar, implementar y actualizar la imagen gráfica, institucional y multimedia para proyectos dirigidos a las tecnologías de la información y comunicación, en coordinación con la Dirección General de Vinculación Interinstitucional, de conformidad con la normatividad aplicable;
 
-E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Legislatura deberá aprobar una partida presupuestal para este fin y dará seguimiento a su ejercicio efectivo.
+XVIII. Administrar y proporcionar las tecnologías de la información y comunicación necesarias para mantener conectada la Plataforma Digital Estatal con la Plataforma Digital Nacional, conforme a la normatividad aplicable;
 
-El procedimiento de la Alerta de Violencia de Género contra las mujeres deberá observar en todo momento los principios de transparencia, máxima publicidad y acceso a la información, así como la protección de datos personales, durante la totalidad de las etapas.
+XIX. Coordinar los trabajos en materia de gobierno digital que resulten exigibles a la Secretaría Ejecutiva; y
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis A. La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
-
-I. Exista un contexto de violencia feminicida caracterizado por el incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, la libertad, la integridad y la seguridad de las mujeres, adolescentes y niñas en un territorio determinado;
-
-II. Existan omisiones documentadas y reiteradas por parte de las autoridades gubernamentales del cumplimiento de sus obligaciones en materia de prevención, atención, sanción, y acceso a la justicia para las mujeres, adolescentes y niñas, de conformidad con lo establecido en esta ley, y
-
-III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis B. La alerta de violencia de género por agravio comparado tendrá como finalidad eliminar las desigualdades producidas por un ordenamiento jurídico o políticas públicas municipales que impidan el reconocimiento o el ejercicio pleno de los Derechos Humanos de las Mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado mexicano, a través de acciones gubernamentales previstas en el artículo 22 Bis de esta Ley.
-
-El agravio comparado se presenta cuando un ordenamiento jurídico vigente o una política pública municipal contenga alguno de los siguientes supuestos y éstos transgredan los Derechos Humanos de las Mujeres:
-
-I. Distinciones, restricciones o derechos específicos diversos para una misma problemática o delito, en detrimento de las mujeres de un municipio;
-
-II. No se proporcione el mismo trato jurídico en igualdad de circunstancias, generando una discriminación y consecuente agravio, o
-
-III. Se genere una aplicación desigual de la reglamentación municipal, lesionándose los Derechos Humanos de las Mujeres, así como los principios de igualdad y no discriminación.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis C. La Alerta de Violencia de Género contra las mujeres iniciará su trámite:
-
-I. A solicitud de organismos públicos autónomos de derechos humanos;
-
-II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante; o
-
-III. A partir de la identificación por parte de la Secretaría del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
-
-A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis D. La solicitud de Alerta de Violencia de Género contra las mujeres deberá contener al menos lo siguiente:
-
-I. Narración de los hechos de violencia cometidos contra las mujeres, adolescentes y niñas, sustentados con información documentada, datos estadísticos oficiales, testimonios u otra información que sustente las afirmaciones señaladas en la solicitud;
-
-II. Territorio específico sobre el cual se señalan los hechos de violencia;
-
-III. Las autoridades responsables de atender la violencia señalada, y
-
-IV. Los demás requisitos de forma que se establezcan en el Reglamento.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis E. Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Secretaría, el Instituto Municipal de las Mujeres, la Comisión Estatal de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
-
-El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
-
-a) Proponer a las instancias competentes las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
-
-b) Brindar asesoría técnica a las autoridades encargadas de instrumentar las medidas señaladas en la Alerta de Violencia de Género contra las mujeres;
-
-c) Analizar y dictaminar los informes periódicos presentados por las autoridades responsables de cumplir con la Alerta de Violencia de Género contra las mujeres;
-
-d) Realizar reuniones de trabajo con las autoridades responsables de la implementación de las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
-
-e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría General de Gobierno emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y
-
-f) Proponer la modificación, actualización y levantamiento parcial o total de medidas establecidas en la Alerta de Violencia de Género contra las mujeres.
-
-Se deberán realizar las medidas necesarias para garantizar que el Grupo Interinstitucional y Multidisciplinario se integre de conformidad con lo señalado en el presente artículo.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis F. El Grupo Interinstitucional y Multidisciplinario tendrá 30 días naturales para realizar un análisis sobre los hechos de violencia señalados en la solicitud; cuando del análisis realizado se desprenda la procedencia de la Alerta de Violencia de Género contra las mujeres, se deberán elaborar conclusiones que incluyan propuestas de acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia y de reparación del daño, según corresponda. Y, en su caso, las propuestas de adecuaciones legislativas y normativas necesarias.
-
-El Grupo Interinstitucional y Multidisciplinario deberá escuchar a las víctimas de los casos de violencia contra las mujeres que se analizan, a fin de incorporar en las conclusiones y medidas a adoptar, sus necesidades y propuestas.
-
-En caso de considerar la improcedencia de la Alerta de Violencia de Género contra las mujeres, se presentarán por escrito los argumentos que sustenten dicha determinación.
-
-El tiempo entre la admisión de la solicitud de la Alerta de Violencia de Género contra las mujeres y la Declaratoria no podrá exceder los 45 días naturales.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis G. En los casos donde (sic) Secretaría, identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir por el Gobierno del Estado, a través de la Secretaría General de Gobierno, sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
-
-En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría, realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis H. La Declaratoria de Alerta de Violencia de Género contra las mujeres, deberá incluir lo siguiente:
-
-I. El motivo de la misma;
-
-II. La información que sustenta la determinación;
-
-III. Las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de atención, de reparación del daño y legislativas propuestas por el Grupo Interinstitucional y Multidisciplinario;
-
-IV. La solicitud a las autoridades responsables, de la asignación o reorientación de recursos presupuestales, humanos y materiales necesarios para hacer frente a la misma, y
-
-V. El territorio que abarcan las medidas a implementar y, en su caso, las autoridades responsables de su cumplimiento.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis I. Corresponderá al gobierno del Estado, a través de la Secretaría General de Gobierno, declarar la Alerta de Violencia de Género contra las mujeres.
-
-La persona titular de la Secretaría General de Gobierno notificará, a las personas titulares de los poderes Legislativo y Judicial, así como de la Fiscalía General de Justicia del Estado o de los municipios, la Alerta de Violencia de Género contra las mujeres, en un plazo no mayor de cinco días naturales contados a partir de que se emita la misma.
-
-Una vez notificada la Alerta, las autoridades estatales y de los municipios, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
-
-El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
-
-I. Estar alineado a la política integral y programas locales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-II. Las acciones para hacer frente a la violencia feminicida o al agravio comparado;
-
-III. Los plazos para su ejecución;
-
-IV. La asignación de responsabilidades a las autoridades competentes;
-
-V. Los recursos presupuestales destinados para dichas actividades;
-
-VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, o
-
-VII. La estrategia de difusión de los resultados alcanzados en el territorio determinado.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis J. La Secretaría dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
-
-Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de la violencia identificada en la Declaratoria de la Alerta de Violencia de Género contra las mujeres.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 22 Bis K. Ante la violencia feminicida, el gobierno del Estado deberá garantizará (sic) la reparación de daños y considerará como tal:
-
-I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar todas las violaciones a derechos humanos vinculadas a la violencia feminicida, sancionar a las personas responsables y reparar el daño;
-
-II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
-
-III. La satisfacción y no repetición: Son las medidas que buscan una reparación orientada a la prevención de violaciones y erradicación de la impunidad ante la violencia contra las mujeres. Entre las medidas a adoptar se encuentran:
-
-a) La investigación de las personas servidoras públicas cuyas acciones u omisiones conllevaron a la violación de los derechos humanos de las víctimas y la impunidad, para sancionarlos conforme a la normatividad correspondiente;
-
-b) El diseño e instrumentación de políticas públicas enfocadas a la prevención, persecución, y seguimiento de la comisión de delitos cometidos contra las mujeres; y
-
-c) La verificación de los hechos y la publicidad de la verdad.
-
-Toda medida reparatoria deberá tener un enfoque transformador del contexto y cultura discriminatoria, siempre con el objetivo de erradicarla.
+XX. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
 ###### Artículo 23.
 
-El Estado y los Municipios, cuando se presenten casos de violencia feminicida, dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentran, sin perjuicio de que puedan proponer a la Secretaría de Gobernación del Poder Ejecutivo Federal, la emisión de declaratorias de alertas de violencia de género a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan.
+Corresponde a la Dirección General de Vinculación Interinstitucional, el ejercicio de las atribuciones siguientes:
+
+I. Diseñar proyectos de programas conjuntos y coordinados de capacitación, actualización y profesionalización para los servidores públicos estatales y municipales, tendentes a cumplir con los objetivos del Sistema Estatal Anticorrupción, cuyo contenido sea previamente aprobado por el Comité Coordinador, así como establecer coordinación con las instancias competentes para su implementación;
+
+II. Apoyar y dar seguimiento a la celebración de convenios, foros, seminarios, cursos y concursos que se lleven a cabo en el marco de las atribuciones de la Secretaría Ejecutiva en coordinación con las entidades miembro del Sistema Estatal Anticorrupción;
+
+III. Proponer e impulsar mecanismos de colaboración y coordinación entre la Secretaría Ejecutiva y las entidades miembro (sic) del Sistema Estatal Anticorrupción en materia de prevención, detección y disuasión de hechos de corrupción y faltas administrativas;
+
+IV. Formular y proponer al Órgano de Gobierno por conducto del Secretario Técnico, el programa para dar cumplimiento a la política y estrategia de comunicación aprobada en la Política Estatal de la materia;
+
+V. Requerir información a los entes públicos con relación al cumplimiento de las políticas integrales implementadas que determine el Comité Coordinador, así como recabar datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación de conformidad con los indicadores generados para tales efectos;
+
+VI. Difundir las actividades y los resultados del Sistema Estatal Anticorrupción utilizando lenguaje ciudadano, enfoque a grupos vulnerables o sectores sociales, estableciendo mecanismos de accesibilidad cuando resulte posible;
+
+VII. Supervisar y, en su caso, determinar las modificaciones y actualizaciones al contenido de la página electrónica, así como a las cuentas de las redes sociales de la Secretaría Ejecutiva, con excepción de las obligaciones de transparencia, en coordinación con la Dirección General de Servicios Tecnológicos y Plataforma Digital, de conformidad con la normatividad aplicable;
+
+VIII. Diseñar y coordinar un programa editorial que permita la publicación de estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos, de conformidad con la normatividad aplicable;
+
+IX. Implementar mecanismos de participación ciudadana y Gobierno Abierto para coadyuvar con el cumplimiento de los objetivos del Sistema Estatal Anticorrupción;
+
+X. Elaborar proyectos de políticas para el fortalecimiento de capacidades institucionales de los sistemas municipales anticorrupción, así como mecanismos para la adecuada coordinación y suministro de información entre éstos y la Secretaría Ejecutiva;
+
+XI. Dar seguimiento a la organización, funcionamiento y desempeño de los sistemas municipales anticorrupción, elaborar reportes trimestrales y presentarlos al Secretario Técnico, con propuestas de acciones específicas para promover su adecuado funcionamiento;
+
+XII. Promover la vinculación e interacción con los sectores público, privado y social en el ámbito estatal y municipal, así como propuestas de coordinación y participación que se requieran conforme a la Política Estatal de la materia;
+
+XIII. Coordinar la implementación de foros, seminarios, pláticas y eventos que realice la Secretaría Ejecutiva; y
+
+XIV. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 24.
 
-El Gobierno del Estado y los Ayuntamientos coadyuvarán con el Gobierno Federal en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas, de conformidad con el Sistema y el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+Corresponde a la Unidad de Asuntos Jurídicos e Igualdad de Género, el ejercicio de las atribuciones siguientes:
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2013)</small>
+I. Representar legalmente a la Secretaría Ejecutiva en asuntos jurídicos y jurisdiccionales, ante toda clase de autoridades administrativas, judiciales y laborales, que requieran su intervención; así como realizar el oportuno seguimiento de los procedimientos hasta su conclusión, previo mandato que al efecto le otorgue el Secretario Técnico;
+
+II. Someter a consideración del Secretario Técnico, las alternativas jurídicas de solución a los asuntos considerados como relevantes o especiales de la Secretaría Ejecutiva;
+
+III. Compilar y promover la difusión de normas jurídicas relacionadas con las funciones de la Secretaría Ejecutiva;
+
+IV. Requerir a los servidores públicos y unidades administrativas de la Secretaría Ejecutiva, la documentación e información que sea necesaria para el cumplimiento de sus atribuciones;
+
+V. Dictaminar los aspectos jurídicos de los convenios, contratos, bases de colaboración y acuerdos interinstitucionales, entre otros instrumentos jurídicos, que deba suscribir la Secretaría Ejecutiva;
+
+VI. Dictaminar los proyectos de contratos y convenios específicos que le remita la Coordinación de Administración y Finanzas, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones y Servicios; el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones legales y demás normativa aplicable;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+VII. Substanciar y emitir proyecto de resolución en cualquier procedimiento administrativo común, especial o innominado que se promueva ante la Secretaría Ejecutiva y que no cuente con un procedimiento específico de tramitación, así como solicitar la suspensión provisional de los actos y resoluciones de la Secretaría Ejecutiva, cuando exista notificación legal de la misma y una causa urgente que así lo justifique, dando cuenta a la brevedad ante el Secretario Técnico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Instrumentar las acciones necesarias para dar cumplimiento a lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres, ambas del Estado de México y demás disposiciones administrativas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE ABRIL DE 2023)</small>
+
+IX. Elaborar las propuestas de recomendaciones no vinculantes que le sean instruidas por el Secretario Técnico, con los insumos remitidos al efecto por los integrantes del Comité Coordinador, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE ABRIL DE 2023)</small>
+
+X. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
 ###### Artículo 25.
 
-El Estado y los municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+Corresponde a la Coordinación de Administración y Finanzas, el ejercicio de las atribuciones siguientes:
 
-Todas las medidas que lleve a cabo el Estado y los municipios deberán ser realizadas sin discriminación alguna. Por ello, no se considerará distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades en el acceso a las políticas públicas en la materia.
+I. Representar a la Secretaría Ejecutiva ante autoridades administrativas federales, estatales y municipales, y ante particulares, en actos relativos a la administración de la Secretaría Ejecutiva, previo mandato que al efecto le otorgue el Secretario Técnico;
 
-### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
+II. Programar, organizar, coordinar y controlar el suministro, administración, aplicación y aprovechamiento de los recursos humanos, materiales, financieros y técnicos, a fin de que se manejen en forma racional, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría Ejecutiva, de conformidad con la normatividad aplicable;
+
+III. Coordinar la integración del anteproyecto anual de presupuesto y estructura programática de la Secretaría Ejecutiva, de acuerdo con la normatividad aplicable, y llevar a cabo la calendarización del presupuesto autorizado, para su autorización por el Órgano de Gobierno;
+
+IV. Autorizar los traspasos internos, en materia presupuestal, y los ajustes en materia de programación, que deban aplicarse a la Secretaría Ejecutiva;
+
+V. Verificar que los registros contables, financieros y presupuestales, se realicen de acuerdo a la normatividad vigente a efecto de emitir los estados financieros correspondientes;
+
+VI. Remitir el padrón de servidores públicos obligados a presentar declaración de situación patrimonial, intereses y, en su caso constancia de presentación de declaración fiscal;
+
+VII. Aplicar las medidas disciplinarias al personal de la Secretaría Ejecutiva que incurra en irregularidades o faltas de carácter laboral;
+
+VIII. Coordinar la elaboración de los manuales, lineamientos, programas y demás disposiciones necesarias para el debido funcionamiento de la Secretaría Ejecutiva, en colaboración con las demás unidades administrativas que resulten competentes;
+
+IX. Promover acciones orientadas a la capacitación y mejora continua para el fortalecimiento y desarrollo del clima organizacional;
+
+X. Definir, instrumentar y supervisar la operación de los programas de servicio social y prácticas profesionales en la Secretaría Ejecutiva, de acuerdo con la normatividad aplicable;
+
+XI. Dirigir los procedimientos de adquisición de bienes y servicios, así como coordinar los actos adquisitivos, verificando el cumplimiento de la normatividad vigente en la materia;
+
+XII. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar los contratos, convenios y demás actos jurídicos de carácter administrativo dentro del ámbito de su competencia, necesarios para el ejercicio de sus atribuciones, y vigilar su cumplimiento;
+
+XIII. Presidir el Comité de Adquisiciones y Servicios; y el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones de la Secretaría Ejecutiva;
+
+XIV. Coordinar e integrar la propuesta del Programa Anual de Adquisiciones, Arrendamientos y Servicios de cada ejercicio fiscal, en términos de las disposiciones aplicables;
+
+XV. Rescindir administrativamente los contratos de adquisición de bienes y prestación de servicios que haya celebrado la Secretaría Ejecutiva, los cuales hubieren incumplido con alguna de sus cláusulas, y aplicar las penas convencionales;
+
+XVI. Notificar a la unidad administrativa competente sobre el incumplimiento de algún contrato, para proceder en los términos de la legislación aplicable;
+
+XVII. Tramitar los movimientos de alta, baja, cambios, permisos y licencias del personal;
+
+XVIII. Administrar los bienes muebles e inmuebles patrimonio de la Secretaría Ejecutiva, así como establecer los mecanismos para su resguardo, custodia, almacenaje y, en su caso, desincorporación, en términos de las disposiciones legales aplicables;
+
+XIX. Proponer al Secretario Técnico, los programas y acciones necesarias para garantizar condiciones de accesibilidad dirigidas a los grupos vulnerables y/o personas con discapacidad, a efecto de generar un ambiente de igualdad e inclusión tanto en su participación como en el ejercicio de sus derechos;
+
+XX. Establecer, supervisar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Secretaría Ejecutiva, conforme a la normatividad aplicable;
+
+XXI. Verificar el cumplimiento de normas de control y evaluación que emitan diversas autoridades en el ámbito de su competencia, así como fungir como enlace en las visitas de revisión que realicen las instancias fiscalizadoras;
+
+XXII. Coordinar las actividades de la Secretaría Ejecutiva en materia de archivos conformados por los expedientes que generen las unidades administrativas en ejercicio de sus atribuciones y/o funciones, en términos de lo dispuesto por la normatividad aplicable; y
+
+XXIII. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende del Secretario Técnico.
+
+### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 26.
 
-El Sistema Estatal se conformará por las y los titulares de:
+Al frente del Órgano Interno de Control, habrá una o un titular, designada o designado en los términos del artículo 38 bis, fracción XIV de la Ley Orgánica de la Administración Pública del Estado de México, quien en el ejercicio de sus atribuciones se auxiliará por los servidores públicos que se requieran para satisfacer las necesidades del servicio, así como de las unidades administrativas que corresponda, de conformidad con la estructura orgánica aprobada y presupuesto autorizado, quien tendrá las atribuciones previstas en la Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-I. El Ejecutivo del Estado, a través de la Secretaría, quien lo presidirá;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-II. Secretaria de Bienestar y Desarrollo Sustentable;
-
-III. La Secretaría de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-IV. La Fiscalía General del Estado;
-
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
-
-V. La Subprocuraduría de Derechos Humanos y Atención a Víctimas;
-
-VI. (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
-
-VII. La Secretaría de Salud;
-
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-VIII. La Secretaría Ejecutiva;
-
-IX. DIF estatal;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE FEBRERO DE 2025)</small>
-
-X. CEPAVIF;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XI. El H. Congreso del Estado, a través de la Comisión de Igualdad, Género, Diversidad Sexual e Inclusión;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
-
-XII. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer; y,
-
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
-
-XIII. El Instituto Electoral del Estado de Sinaloa.
-
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
+### CAPÍTULO VI. DE LA COMISIÓN EJECUTIVA
 
 ###### Artículo 27.
 
-La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
-
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+La Comisión Ejecutiva es el órgano técnico auxiliar de la Secretaría Ejecutiva, integrado en los términos previstos por la Ley.
 
 ###### Artículo 28.
 
-La formulación del Programa Estatal será coordinada por la Secretaría. El Programa Estatal deberá ser congruente con el Plan Estatal de Desarrollo y el Programa Nacional de Desarrollo, así como, con el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y contendrá las acciones con perspectiva de género para:
-
-I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
-
-II. Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género;
-
-III. Transformar los modelos socioculturales de conductas de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
-
-IV. Educar y capacitar en materia de derechos humanos de la (sic) mujeres y el respeto a la igualdad de género al personal encargado de la procuración de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
-
-V. Promover la capacitación en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
-
-VI. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
-
-VII. Fomentar y apoyar programas de educación pública y privada, destinados (sic) promover el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres, así como el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia en sociedad;
-
-VIII. Promover programas de sensibilización a fin de concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra la (sic) mujeres;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-IX. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida, incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-X. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XI. Garantizar la investigación y la elaboración de diagnósticos estadísticos, con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XII. Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XIII. Promover la cultura de denuncia de la violencia contra las mujeres en formatos accesibles en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XIV. Diseñar un modelo integral, diferencial y especializado de atención a las mujeres víctimas de violencia, que deberán instrumentar las instituciones, los Centros de Justicia para las Mujeres y los refugios que atiendan a víctimas;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XV. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XVI. Promover el desarrollo, implementación y evaluación de los proyectos para la creación, fortalecimiento y operación de los Centros de Justicia para las Mujeres, y
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XVII. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+La Comisión Ejecutiva contará con las atribuciones establecidas en la Ley.
 
 ###### Artículo 29.
 
-La Secretaría procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
+La Comisión Ejecutiva celebrará sesiones ordinarias y extraordinarias que serán convocadas por el Secretario Técnico.
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+Las sesiones ordinarias se llevarán a cabo cada quince días hábiles, por lo menos.
+
+Las sesiones extraordinarias se realizarán a propuesta del Secretario Técnico o de al menos dos de las y los integrantes.
+
+Para la celebración de las sesiones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, la cual deberá ser enviada por el Secretario Técnico y recibida por las y los miembros de la Comisión Ejecutiva con una anticipación no menor a tres días hábiles en el caso de las sesiones ordinarias, y con una anticipación no menor a dos días hábiles en el caso de las sesiones extraordinarias.
+
+Las sesiones se iniciarán en horas y días hábiles, y se computarán de momento a momento a partir de la hora de la notificación de la convocatoria.
+
+Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y diez días hábiles siguientes.
 
 ###### Artículo 30.
 
-El Estado se coordinará con la Federación para integrar y consolidar el Sistema Nacional y participará en la formulación y ejecución del Programa Nacional, adoptando todas las medidas y acciones previstas en la presente Ley para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de por lo menos tres miembros del Comité de Participación Ciudadana que lo integran.
 
-### CAPÍTULO VI. DE LA VIOLENCIA EN EL NOVIAZGO
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+De manera excepcional, en los casos de renuncia o conclusión del periodo de los miembros del Comité de Participación Ciudadana, sesionarán con la asistencia del Titular de la Secretaría Técnica y los integrantes en funciones del referido Comité.
 
-###### Artículo 24 Bis.
+Las y los miembros, con excepción del Secretario Técnico, podrán participar en las sesiones de la Comisión Ejecutiva vía remota, lo que deberá ser asentado en el acta que al efecto se levante, misma que deberá contener los acuerdos y determinaciones aprobados, la cual se perfeccionará con la firma autógrafa de las y los participantes.
 
-La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la otra, dentro de una relación sentimental, mediante los cuales, se presenten ataques intencionales de tipo sexual, físico o psicológico de manera forzada en la relación, con el objeto de controlar, someter y obligar a la persona a realizar diversos actos en contra de su voluntad.
+La o el titular de la Unidad de Enlace acudirá con el carácter de Secretario de la Comisión Ejecutiva, sin voz, ni voto.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+La participación vía remota se llevará a cabo conforme a los lineamientos que al efecto emita la Comisión Ejecutiva.
 
-Artículo 24 Bis A. El Gobierno del Estado y los Ayuntamientos prevendrán este tipo de violencia de manera transversal con la implementación de políticas públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles discriminatorios, estereotipos sexistas, las prácticas de resolución violenta de conflictos, la misoginia y la legitimación social al uso de la violencia.
+Los acuerdos y determinaciones de la Comisión Ejecutiva se tomarán siempre por mayoría de votos; en caso de empate, el Secretario Técnico tendrá el voto de calidad.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO VII. DE LA SUPLENCIA DE LAS Y LOS TITULARES
 
-### CAPÍTULO VII. DE LA VIOLENCIA CONTRA LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
-
-Artículo 24 Bis B. Se considera violencia contra la mujer, toda acción u omisión intencional y negligente que lleve a cabo cualquier persona y/o institución pública o privada, de manera directa o indirecta, que dañe, denigre, discrimine y/o dé un trato deshumanizado a las mujeres durante el embarazo, parto y/o puerperio, que tengan como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2017)</small>
-
-### CAPÍTULO VIII. DE LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-Artículo 24 Bis C. La violencia política contra las mujeres en razón de género es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
-
-Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
-
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
-
-La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
-
-I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
-
-II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
-
-III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
-
-IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
-
-V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
-
-VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
-
-VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
-
-VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
-
-IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
-
-X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
-
-XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
-
-XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
-
-XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
-
-XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
-
-XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
-
-XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
-
-XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
-
-XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
-
-XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
-
-XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
-
-XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
-
-XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
-
-### CAPÍTULO IX. DE LA VIOLENCIA VICARIA
-
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
-
-Artículo 24 Bis D. Entiéndose por Violencia Vicaria, todo acto u omisión dolosa ejercida por parte de una persona que sea o haya sido cónyuge o concubino, mantenga o haya mantenido una relación de hecho, de afectividad o sentimental con la víctima directa, realizada por sí misma o a través de interpósita persona, y que se encuentra dirigida hacia una persona considerada víctima indirecta con quien la víctima directa tiene una relación de parentesco por consanguinidad en línea recta ascendente o descendente, sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, concubina o concibunario, cónyuge o excónyuge, o con quien tenga o haya tenido una relación de hecho, con el objeto de causarle algún tipo de daño o afectación a la víctima directa ya sea física, psicológica, emocional o patrimonial.
-
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
-
-Artículo 24 Bis E. En los casos cuando se tratase de violencia vicaria, los sujetos parte en la conducta se identificaran de la siguiente manera:
-
-I. Víctima Indirecta: Es la interpósita persona, a través de quien se ejerce la violencia vicaria.
-
-II. Víctima Directa: Es la persona hacia quien se ejerce la violencia, a través de la utilización de la interpósita persona.
-
-III. Persona agresora: Es aquella que con el objetivo de causar una afectación física, psicológica, emocional, patrimonial o de otra índole, ejerce hacia la víctima directa a través de la víctima indirecta violencia vicaria.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ABRIL DE 2023)</small>
-
-### CAPÍTULO X. DE LA VIOLENCIA DIGITAL Y MEDÍATICA
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
-
-Artículo 24 Bis F. Violencia digital es toda acción o conducta dolosa realizada, instigada o agravada mediante el uso de tecnologías de la información y la comunicación por las que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de una o varias mujeres con el objeto de difamar, desprestigiar, calumniar, injuriar, denigrar, descalificar o dañar de manera física, psicológica, emocional o simbólicamente, en cualquier ámbito de su vida pública, privada o en su imagen propia.
-
-Existe también violencia digital, cuando sin el consentimiento de la o las mujeres se expongan, distribuyan, difundan, exhiban, transmitan, comercialicen, oferten, intercambie o comparta imágenes, audios o videos, reales o simulados cuyo contenido sea íntimo sexual, utilizando los mismos medios tecnológicos a los que se refiere el párrafo anterior.
-
-También se considera violencia digital la acción dolosa de amenazar, chantajear, coaccionar o extorsionar a una mujer con el objeto de que realice las conductas anteriormente descritas donde el contenido íntimo sea de ella o de otra persona.
-
-Para efectos del presente Capítulo se entenderá por tecnologías de la información y las comunicaciones aquellos recursos, redes sociales, aplicaciones de sistemas informáticos para dispositivos móviles y tabletas, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
-
-La violencia digital será sancionada en la forma y términos que establezca el Título Octavo denominado Delitos Contra la Libertad Sexual y su Normal Desarrollo del Libro Segundo, Parte Especial, Sección Primera, Delitos Contra el Individuo, del Código Penal para el Estado de Sinaloa.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
-
-Artículo 24 Bis G. Violencia mediática es la realización de cualquier acto a través de algún medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres, produzca o permita la producción y difusión de discursos de odio sexistas, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres de tipo psicológico, sexual, físico, económico, simbólico, patrimonial o feminicida, en cualquier ámbito de su vida pública, privada o en su imagen propia.
-
-También se considerará violencia mediática cuando utilizando los mismos medios a que se refiere el párrafo anterior se promuevan acciones con el objetivo de difamar, discriminar, denostar, denigrar, deshonrar, humillar, desprestigiar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres o afecte su autoestima e imagen pública, o el ejercicio de su profesión.
-
-Esta modalidad de violencia incluye aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y las comunicaciones.
-
-La violencia mediática se ejerce por cualquier persona física o moral que utilice cualquier medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres, que impide su desarrollo y que atenta contra la igualdad.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
-
-Artículo 24 Bis H. En los casos en que pudiera acreditarse violencia digital o mediática, la o el Ministerio Público o la jueza o el juez en su caso, observarán lo establecido en el artículo 20 Sexies de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
-
-## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
-
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-Las dependencias estatales y municipales previstas en esta ley deberán:
+En los casos de ausencia de hasta quince días por parte del Secretario Técnico, será suplido por la o el titular de la Dirección General de Políticas Públicas y Riesgos en Materia Anticorrupción, Dirección General de Servicios Tecnológicos y Plataforma Digital, Unidad de Asuntos Jurídicos e Igualdad de Género y la Coordinación de Administración y Finanzas, en ese orden.
 
-I. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades del Sistema Estatal, para alcanzar los objetivos previstos en la presente Ley;
-
-II. Ejecutar y dar seguimiento a las acciones del Programa Estatal, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
-
-III. Impulsar la participación de los sectores sociales y privados y de las organizaciones sociales, en la ejecución del Programa Estatal;
-
-IV. Promover investigaciones sobre las causas y consecuencias de la violencia contra las mujeres;
-
-V. Promover una cultura de respeto a los derechos humanos de las mujeres;
-
-VI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer que haya sido víctima de la violencia;
-
-VII. Proporcionar a las instancias encargas (sic) de realizar estadísticas, la información necesaria para la elaboración de éstas;
-
-VIII. Promover programas de información a la población en materia de respeto a los derechos humanos de las mujeres y la igualdad de género;
-
-IX. Recibir de las organizaciones sociales propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
-
-X. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa Estatal;
-
-XI. Impulsar la creación de refugios para la atención y protección de las víctimas, conforme al modelo de atención diseñado por el Sistema Estatal, de acuerdo a los lineamientos que para tal efecto dicte el Sistema Nacional;
-
-XII. Difundir por todos los medios de comunicación el contenido y alcance de la presente Ley;
-
-XIII. Celebrar convenios de cooperación, coordinación y concertación con los sectores social y privado en la materia; y,
-
-XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+Tratándose de ausencias temporales o definitivas superiores a quince días por parte del Secretario Técnico, el Órgano de Gobierno determinará la suplencia correspondiente. Tratándose de ausencia definitiva, deberá notificarse al Comité de Participación Ciudadana para los efectos conducentes.
 
 ###### Artículo 32.
 
-El Ejecutivo del Estado, a través de la Secretaría tendrá a su cargo:
-
-I. El diseño de una política integral con visión transversal de perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-II. Coordinar la elaboración del Programa Estatal con las demás autoridades integrantes del Sistema Estatal;
-
-III. Formular las bases para la coordinación entre las autoridades estatales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-IV. Incluir una partida presupuestal suficiente para garantizar que las dependencias y entidades cumplan con los objetivos de la ley, realicen acciones afirmativas a favor de las mujeres y coadyuven en la protección integral a quienes sean víctimas de violencia;
-
-V. Coordinar y dar seguimiento a las acciones del Estado en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la administración pública estatal;
-
-VII. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-VIII. Difundir a través de diversos medios de comunicación, los resultados del Sistema Estatal y del Programa Estatal a los que se refiere esta Ley;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2021)</small>
-
-IX. Designar a la persona Titular de la Secretaría Ejecutiva del Sistema Estatal quien deberá ser uno de sus subalternos de la Secretaría de las Mujeres;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-X. Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los Casos de Violencia Contra las Mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover en el Estado, los derechos humanos.
-
-Asimismo, en dicho Banco se deberán registrar las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias. Para tales efectos, la Fiscalía General del Estado deberá coadyuvar con la Secretaría con el objeto de compartir el número de solicitudes de órdenes de protección ante los órganos jurisdiccionales, su viabilidad y seguimiento;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XI. Proponer a las instancias encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XII. Promover una cultura de respeto a los derechos humanos de la mujer y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XIII. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XIV. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XV. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas y personal debidamente capacitado en la materia;
-
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XVI. Vigilar la aplicación de esta Ley; y,
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2021)</small>
-
-XVII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 33.
-
-La Secretaría de Desarrollo Social será la encargada de:
-
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
-
-II. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
-
-III. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para eliminar desventajas de género; y,
-
-IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
-
-###### Artículo 34.
-
-La Secretaría de Seguridad Pública, tendrá a su cargo:
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-I. Diseñar con la Secretaría la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
-
-II. Informar periódicamente al Sistema Estatal sobre la ejecución de las acciones de su competencia contenidas en el Programa Estatal, con la finalidad de evaluar su eficacia;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-III. Capacitar al personal de las diferentes instancias policiales a su cargo para atender, con perspectiva de género, derechos humanos, diferencial, interseccionalidad e interculturalidad y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
-
-IV. Promover la cultura de denuncia de la violencia contra las mujeres;
-
-V. Canalizar a las víctimas de violencia a las instituciones públicas o privadas que presten asistencia y protección;
-
-VI. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VII. Implementar programas de capacitación que formen el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres víctimas de violencia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2025)</small>
-
-VIII. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-IX. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-X. Proponer al Consejo Estatal para la Prevención y Atención de la Violencia Familiar que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas con Prioridad Estatal, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
-
-XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-###### Artículo 35.
-
-Corresponderá a la Secretaría de Educación Pública y Cultura:
-
-I. Incorporar en los programas educativos, en todos los niveles de instrucción de competencia estatal, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
-
-II. Promover en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
-
-III. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
-
-IV. Eliminar de los programas educativos de todos los niveles de competencia estatal, los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
-
-V. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
-
-VI. Garantizar el derecho de las mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
-
-VII. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
-
-VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos;
-
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
-
-IX. Diseñar y difundir materiales educativos con información sobre los derechos sexuales y reproductivos y para prevenir el abuso sexual infantil, así como la prevención y atención de la violencia contra las mujeres;
-
-X. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y,
-
-XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-###### Artículo 36.
-
-Corresponde a la Secretaría de Salud:
-
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de sensibilización y formación continua en la prevención y atención de la violencia en contra (sic) las mujeres;
-
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
-
-II. Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos sexuales y reproductivos;
-
-III. Brindar por medio de las instituciones del sector salud de manera integral y (sic) interdisciplinaria la atención médica y psicológica con perspectiva de género a las víctimas;
-
-IV. Crear programas de capacitación y sensibilización para el personal del sector salud, en materia de violencia contra las mujeres y especialmente para la detección de este tipo de actos contra las mismas;
-
-V. Establecer programas y servicios profesionales eficaces que atiendan a las víctimas de violencia;
-
-VI. Brindar servicios reeducativos integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VII. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
-
-VIII. Canalizar a las víctimas a las instituciones públicas o privadas que prestan atención y protección especializada a las mujeres, en su caso;
-
-IX. Mejorar la calidad de la atención que se preste a las mujeres víctimas;
-
-X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
-
-XI. Alimentar al Sistema Estatal y Nacional sobre el apoyo que se brinde a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
-
-a) El número de víctimas que se atiendan en los centros y servicios hospitalarios;
-
-b) Las situaciones de violencia que sufren las mujeres;
-
-c) El tipo de violencia por la cual se atendió a la víctima;
-
-d) Los efectos causados por la violencia en las mujeres; y,
-
-e) Los recursos erogados en la atención de las víctimas; y,
-
-Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 37.
-
-Corresponde a la Fiscalía General del Estado, en materia de violencia en contra de las mujeres:
-
-I. Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
-
-II. Proporcionar a las víctimas de violencia, la asistencia y orientación jurídica para su eficaz atención y protección, de conformidad con la Ley Orgánica del Ministerio Público y su Reglamento y demás ordenamientos aplicables;
-
-III. Dictar las medidas necesarias para que la víctima reciba atención médica;
-
-IV. Brindar a las víctimas o al agresor, en su caso, la información integral sobre las instituciones públicas o privadas encargadas de su atención;
-
-V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
-
-VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas, incluida en su caso su condición de discapacidad, así como las características sociodemográficas del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, estado procesal, sentencias y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. El registro deberá contener también los efectos que los hechos violentos produjeron en las víctimas, el fallecimiento o, en su caso, la discapacidad permanente;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-IX. Suministrar en tiempo y forma la información que se requiera para el Banco de Datos e Información sobre Casos de Violencia contra las Mujeres correspondiente sobre las carpetas de investigación iniciadas por delitos cometidos contra las mujeres, así como de las órdenes de protección emitidas por el Ministerio Público;
-
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-X. Desde una perspectiva de género, deberá implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, acatando el deber de diligencia, aplicar con prontitud y eficacia las medidas u órdenes de protección de emergencia y preventivas, así como las demás procedentes conforme al artículo 137 del Código Nacional de Procedimientos Penales; y
-
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-###### Artículo 38.
-
-(DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
-
-###### Artículo 39.
-
-Corresponde a los ayuntamientos, en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
-
-I. Coordinarse con el Ejecutivo del Estado a través de sus instancias involucradas en la adopción y consolidación del Sistema Estatal;
-
-II. Instrumentar y articular, en concordancia con la política estatal, la política orientada a erradicar la violencia contra las mujeres;
-
-III. Participar en la ejecución y evaluación de las acciones previstas en el Programa Estatal;
-
-IV. Solicitar, y en su caso, coadyuvar en medidas de declaratoria de alerta de violencia de género, de conformidad con esta Ley y el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-V. Formular, ejecutar y evaluar el Programa Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
-
-VI. Promover, en coordinación con el Estado, cursos de capacitación a las personas que atienden a víctimas;
-
-VII. Apoyar la creación de programas de reeducación integral para los agresores;
-
-VIII. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
-
-IX. Apoyar la creación de refugios seguros para las víctimas;
-
-X. Llevar a cabo programas de información a la población respecto de la violencia contra las mujeres;
-
-XI. Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley; y,
-
-XII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
-
-###### Artículo 40.
-
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y de los municipios en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
-
-I. Realizar las actividades en el ámbito de su respectiva competencia, el fomento de acciones y programas que promueva el respeto a los derechos humanos de las mujeres y la igualdad entre los hombres y mujeres;
-
-II. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la información y datos estadísticos que requieran para el debido cumplimiento;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
-
-III. Coadyuvar con la Fiscalía General del Estado en la atención, sanción y erradicación de la violencia contra las mujeres;
-
-IV. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-V. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección, con apego a lo establecido en la Ley y su reglamento; y,
-
-VI. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 41.
-
-Corresponde al CEPAVIF:
-
-I. Coadyuvar en la promoción de los derechos humanos de las mujeres;
-
-II. Participar en la elaboración y ejecución del Programa Estatal y en el diseño (sic) modelos de prevención y erradicación de la violencia contra las mujeres;
-
-III. Brindar el apoyo y orientación en el ámbito de su competencia a las mujeres víctimas de violencia;
-
-IV. Promover la cultura de denuncia de la violencia contra las mujeres;
-
-V. Colaborar en la creación de refugios para la atención y protección a las mujeres víctimas de violencia y centros de rehabilitación para agresores; y,
-
-VI. Las demás previstas para el cumplimiento de esta Ley y otras disposiciones aplicables en la materia.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-###### Artículo 41 Bis.
-
-Corresponde al Instituto Electoral del Estado de Sinaloa:
-
-I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
-
-II. Incorporar la perspectiva de género al monitoreo de las precampañas y campañas electorales, durante los procesos electorales; y
-
-III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género, en el ámbito de su competencia.
-
-## TÍTULO CUARTO. DE LAS MEDIDAS DE PROTECCIÓN
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-###### Artículo 42.
-
-Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse de oficio o a petición de parte, por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la comisión de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-En el caso en que el Ministerio Público o el Órgano Jurisdiccional competente consideren la existencia de extrema violencia y urgencia, podrán implementar de manera directa e inmediata las medidas de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la iniciación de una denuncia.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Sinaloa y el Instituto Electoral del Estado de Sinaloa podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
-
-###### Artículo 43.
-
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
-
-I. De emergencia;
-
-II. Preventivas; y,
-
-III. De naturaleza civil y familiar.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-Las órdenes de protección podrán ser solicitadas por la víctima o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de aquélla y de las víctimas indirectas.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-En la emisión de medidas u órdenes de protección, las autoridades acatarán el interés superior de la niñez.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-Las órdenes de protección de emergencia y preventivas deberán expedirse en los términos de que para tal efecto dispone el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Las órdenes de protección deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan. Tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 43 Bis.
-
-Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
-
-I. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación.
-
-Tratándose de mujeres y niñas indígenas, la información proporcionada deberá ser en su lengua, mediante un formato pertinente y culturalmente adecuado. En el caso de mujeres o niñas con discapacidad, este principio debe incluir la accesibilidad al entorno físico y también a las comunicaciones, considerando los diferentes tipos de necesidades para los diversos tipos de discapacidades reconocidas.
-
-II. Principio de buena fe: Las autoridades, en todo momento, presumirán la buena fe de las víctimas en situación de riesgo o violencia y deberán creer en su narración de los hechos. Las personas servidoras públicas que intervengan con motivo del ejercicio de los derechos de las víctimas, no deberán revictimizarlas o hacerlas responsables de su situación. En todo momento deberán permitir el ejercicio efectivo de sus derechos.
-
-III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo.
-
-IV. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberé generarse en un solo acto y de forma automática.
-
-V. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes.
-
-VI. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo.
-
-VII. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas.
-
-VIII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 43 Bis A. Además de los principios establecidos en el artículo anterior, las autoridades competentes al emitir las órdenes de protección deberán incorporar la perspectiva intercultural, que el caso requiera, tomando en consideración, cuando menos, los siguientes elementos:
-
-I. El criterio de auto adscripción e identidad indígena, previsto en el artículo 2o de la Constitución Política de los Estados Unidos Mexicanos, por lo que no se deberán solicitar pruebas para acreditar dicha pertenencia;
-
-II. El nivel de castellanización o la lengua indígena de la niña, adolescente o mujer; y,
-
-III. La identificación de cualquier condición que obstaculice el acceso a las órdenes de protección.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 43 Bis B. Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad competente, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
-
-La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
-
-La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
-
-Las autoridades competentes del Estado y de los Municipios, que reciban denuncias anónimas de mujeres, niñas y adolescentes víctimas de violencia, decretarán las órdenes de protección correspondientes.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 43 Bis C. Las autoridades facultadas para emitir órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegarán de los recursos materiales y humanos necesarios, asimismo podrán solicitar la colaboración de las autoridades competentes.
-
-Toda autoridad estatal o municipal en el Estado, tiene la estricta obligación de coadyuvar y colaborar, en el ámbito de sus atribuciones, con las autoridades que emitan órdenes de protección, con la finalidad de que éstas sean ejecutadas.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 43 Bis D. Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la Ley señale como delito en contra de una niña, una adolescente o una mujer, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
-
-Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 44.
-
-Son órdenes de protección de emergencia las siguientes:
-
-I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
-
-II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima y de su entorno familiar;
-
-III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
-
-IV. Vigilancia en el domicilio de la víctima;
-
-V. Prohibición de acercarse a la víctima;
-
-VI. Prohibición para comunicarse, de manera presencial o a través de cualquier medio o tecnologías de la información y la comunicación, con la víctima;
-
-VIl. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
-
-VIII. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
-
-IX. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
-
-X. Prohibición al probable responsable de intimidar o molestar de cualquier forma y por cualquier medio, incluidos los electrónicos, a la víctima, así como a cualquier integrante de su familia;
-
-XI. Implementar medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e Imágenes que permitan su identificación;
-
-XII. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios, videos de contenido sexual íntimo de una persona, sin su consentimiento de: medios impresos, redes sociales, plataforma digital o cualquier dispositivo o medio tecnológico;
-
-XIII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia; y,
-
-XIV. Las demás establecidas en otras disposiciones legales.
-
-Las órdenes de protección contenidas en este artículo, serán tramitadas de oficio, por parte de las autoridades competentes, ante cualquier noticia, denuncia o reporte de hechos probablemente constitutivos de violencia contra las mujeres, y deberán ser cumplimentadas de manera inmediata. Para tal efecto, las corporaciones de seguridad pública del Estado y de los municipios tendrán la estricta obligación de coadyuvar y participar en la ejecución inmediata de dichas órdenes de protección.
-
-###### Artículo 45.
-
-Son órdenes de protección preventivas las siguientes:
-
-I. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
-
-II. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
-
-III. Retención y guarda de armas de fuego propiedad del agresor, utilizadas para agredir a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
-
-IV. Canalizar a la víctima a un refugio temporal;
-
-V. Inventario de bienes muebles que se encuentren e inmuebles propiedad común, incluyendo los implementos de trabajo de la víctima;
-
-VI. El uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
-
-VII. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-IX. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-X. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XI. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XII. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-XIII. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
-
-XIV. Las demás establecidas en otras disposiciones legales.
-
-###### Artículo 46.
-
-Corresponderá a la autoridad jurisdiccional en materia penal, valorar las órdenes emergentes y preventivas que solicite el Ministerio Público, quien tomará en consideración:
-
-I. La flagrancia;
-
-II. El riesgo o peligro existente;
-
-III. La seguridad de la víctima; y,
-
-IV. Los elementos con que se cuente.
-
-###### Artículo 47.
-
-Son órdenes de protección de naturaleza civil y familiar las siguientes:
-
-I. Suspensión temporal al agresor del régimen de visitar y convivencia con sus descendientes;
-
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
-
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias; y,
-
-V. Obligación alimentaria provisional e inmediata.
-
-###### Artículo 48.
-
-La negativa a brindar la (sic) medidas emergentes y preventivas de protección, será considerada violencia institucional en los términos de esta ley.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE FEBRERO DE 2018)</small>
-
-Serán consideradas de extrema emergencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
-
-I. Mujeres embarazadas;
-
-II. Mujeres que tengan alguna discapacidad;
-
-III. Mujeres menores de edad;
-
-IV. Mujeres que tengan calidad de migrantes;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-V. Mujeres que pertenezcan a un grupo indígena;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-VI. Mujeres con cualquier factor especial de vulnerabilidad; y,
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-VII. Mujeres víctimas de violencia feminicida.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 48 Bis.
-
-La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 48 Bis A. Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 48 Bis B. La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
-
-Cuando la violencia contra las mujeres o niñas y adolescentes, involucre a niños, se les dará igual protección en los términos de esta Ley, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado, y lo conducente a la Ley de Atención y Protección a Víctimas del Estado.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
-
-Artículo 48 Bis C. En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable. Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres, adolescentes y niñas.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 49.
-
-Corresponde a las autoridades jurisdiccionales dictar, incluso de oficio, órdenes de protección y la determinación de medidas similares a las que se refiere este Capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
-
-###### Artículo 50.
-
-Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 50 Bis.
-
-La Fiscalía General y el Poder Judicial actuarán conforme al Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-### CAPÍTULO II. DEL PROTOCOLO ALBA
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis A. El Protocolo Alba es el mecanismo institucional que fija las directrices, reglas y lineamientos de actuación homologada en la búsqueda e investigación, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis B. El Protocolo Alba tendrá como objetivo instrumentar y aplicar estrategias y acciones para realizar la búsqueda e investigación, para la localización de niñas y mujeres que hayan sido reportadas corno desaparecidas o no localizadas, de manera inmediata, exhaustiva, continua, especializada, con perspectiva de género, transversalidad y respeto a los derechos humanos, mediante la colaboración coordinada de las autoridades de los tres órdenes de gobierno y niveles de la estructura Institucional.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis C. La autoridad a quien corresponderá dar inicio del expediente por la desaparición o no localización de una niña o mujer y la activación de la Alerta Alba, será a la Fiscalía General del Estado de Sinaloa, a través de la Fiscalía Especializada en Desaparición Forzada de Personas.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis D. Para efectos de atender las Alertas Alba, deberá conformarse un Grupo Técnico de Coordinación y Colaboración, integrado por las distintas instancias públicas y/o de autoridad, identificadas de manera enunciativa más no limitativa, que en sus respectivos ámbitos de competencia realizan o puedan realizar acciones de búsqueda de manera coordinada ante la denuncia, reporte o noticia de la desaparición o no localización de una niña, adolescente o mujer, y/o ante el aviso o notificación que al respecto les formule la Fiscalía Especializada en Desaparición Forzada de Personas, así como aportar información que pueda ser útil para la investigación.
-
-El Grupo Técnico tendrá como propósito fundamental establecer la integración, participación, colaboración y coordinación de las diferentes instancias y órganos de gobierno federal, estatal y municipal, ante una denuncia, reporte o noticia sobre la desaparición o no localización de una niña o mujer, a efecto de delinear, homogenizar y direccionar la acción interinstitucional.
-
-La Fiscalía General del Estado, invitará como integrantes permanentes del Grupo Técnico a las siguientes autoridades:
-
-A. Autoridades Estatales:
-
-I. Secretaría General de Gobierno;
-
-II. Secretaría de Seguridad Pública;
-
-III. Secretaría de Salud;
-
-IV. Secretaría de Turismo;
-
-V. Secretaría de Desarrollo Social;
-
-VI. Secretaría de Economía;
-
-VII. Secretaría de Educación Pública y Cultura;
-
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-VIII. Centro de Justicia para Mujeres del Estado de Sinaloa;
-
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-IX. La Secretaría;
-
-X. Sistema Estatal para el Desarrollo Integral de la Familia;
-
-XI. Comisión Estatal de Búsqueda de Personas;
-
-XII. Instituto Estatal de Protección Civil;
-
-XIII. Comisión Estatal de los Derechos Humanos;
-
-XIV. Comisión Estatal de Atención Integral a Víctimas;
-
-XV. Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
-
-XVI. Dirección de Vialidad y Transportes, de la Subsecretaría de Gobierno de la Secretaría General de Gobierno;
-
-XVII. Dirección de Inspección y Normatividad de la Subsecretaría de Normatividad e Información Registral de la Secretaría General de Gobierno; y
-
-XVIII. Las demás que resulten necesarias para la aplicación del presente Protocolo.
-
-B. Autoridades Federales:
-
-I. Fiscalía General de la República;
-
-II. Secretaría de Marina;
-
-III. Secretaría de la Defensa Nacional;
-
-IV. Secretaría de Seguridad y Protección Ciudadana;
-
-V. Secretaría de Gobernación;
-
-VI. Secretaría de Comunicaciones y Transportes;
-
-VII. Secretaría de Relaciones Exteriores; y
-
-VIII. Instituto Nacional de Migración.
-
-C. Autoridades Municipales:
-
-I. Secretarías y/o Direcciones de Seguridad Pública y Tránsito;
-
-II. Sistemas para el Desarrollo Integral de la (sic) Familia Municipales; e
-
-III. Institutos, Direcciones o áreas encargadas de las Mujeres en los Municipios.
-
-Se procurará que las responsabilidades que cada una de las autoridades y órganos asuman, sean cuando menos las que se les señalen en el apartado correspondiente del Protocolo Alba que emita la Fiscalía General del Estado para tal efecto, para lo cual la Fiscalía General del Estado solicitará la designación de un enlace por cada uno (sic) de las autoridades que conforman el Grupo Técnico de Coordinación y Colaboración.
-
-Se procurará además la participación de la sociedad civil, particularmente de los medios de comunicación, comercio organizado y cualquier otra organización o persona que se considere de utilidad para efecto de solicitar su colaboración en la difusión de la ficha de búsqueda, recopilación de datos que puedan ser útiles u otras formas que abonen a los fines del presente instrumento.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis E. La operatividad del Protocolo Alba constará de fases, y acciones específicas, mismas que se desarrollarán en el Protocolo que expida la Fiscalía General del Estado de Sinaloa para tal efecto.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis F. El Protocolo Alba se activa desde el momento que se tenga conocimiento, ya sea por denuncia, noticia o reporte sobre la desaparición o no localización de una niña o mujer; y se desactiva con la localización de la niña o mujer a la que se busca, ya sea con vida o sin vida, de conformidad con las consideraciones que incluya el Protocolo que emita la Fiscalía General del Estado para tal efecto.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-Artículo 50 Bis G. Las autoridades y órganos que se involucren, en el ámbito de sus respectivas competencias deberán contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas, asegurando los recursos económicos, logísticos, científicos o de cualquier otra índole que garantice el éxito de la búsqueda.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2025)</small>
-
-## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS
-
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
-
-###### Artículo 51.
-
-Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
-
-I. Ser tratada con respeto en su integridad y al ejercicio pleno de sus derechos;
-
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-III. Recibir información clara, precisa y suficiente en formatos accesibles que les permite decidir sobre las opciones de atención;
-
-IV. Asesoría jurídica gratuita y expedita;
-
-V. Atención médica y psicológica gratuita;
-
-VI. El resguardo temporal en un refugio;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VII. Las mujeres víctimas de violencia que tengan hijas o hijos podrán acudir a los refugios con éstos;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VIII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor, y
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-X. Los demás señalados en esta Ley, su reglamento y otras disposiciones legales.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal.
-
-###### Artículo 52.
-
-Las autoridades estatales y municipales, en el ámbito de sus respetivas (sic) competencias, según corresponda, deberán adoptar las medidas y acciones necesarias para brindar protección, atención psicológica y jurídica y demás servicios que requiera la mujer víctima de violencia, incluyendo su canalización a los refugios cuando requiera de un mayor tiempo de recuperación.
-
-###### Artículo 53.
-
-El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
-
-### CAPÍTULO II. DE LOS REFUGIOS
-
-###### Artículo 54.
-
-El Gobierno del Estado y los Ayuntamientos, se coordinarán con los diversos sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
-
-El Gobierno del Estado y los Ayuntamientos, deberán asignar los recursos presupuestales necesarios y suficientes para la creación y funcionamiento de los refugios para mujeres víctimas de violencia, sus hijas e hijos.
-
-Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
-
-En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
-
-El Estado y los municipios, con la participación que corresponda de los sectores social y privado, promoverán el establecimiento de mecanismos que permitan proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
-
-###### Artículo 55.
-
-La permanencia de las víctimas en los refugios será mientras persista su inestabilidad física, psicológica o su situación de riesgo.
-
-En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad, pero para acceder a ellos bastará la solicitud de la misma víctima a la decisión expresa del Ministerio Publico, mediante el convencimiento de la conveniencia de la víctima a adoptar la medida temporal.
-
-En todo caso, los servidores públicos que intervengan en la atención a víctimas, valorarán la conveniencia de que las víctimas y su familia en riesgo, sean trasladadas a los refugios.
-
-En todo caso, los servidores públicos que intervengan en la atención a víctimas, escucharán y valorarán la intervención de vecinos y familiares de la víctima, en todo lo que se refiera a las medidas de protección, previstas en esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-###### Artículo 56.
-
-Los refugios que se constituyan, desde la perspectiva de género, interseccionalidad y enfoque diferenciado, tendrán a su cargo:
-
-I. Participar en la aplicación del Programa Estatal;
-
-II. Velar por la seguridad de las mujeres que se encuentren en ellos;
-
-III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-IV. Dar información en formatos accesibles a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
-
-V. Brindar a las víctimas información necesaria que les permita decidir sobre las opciones de atención;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VI. Atender a las víctimas en los tres niveles de riesgo que son moderado, medio y alto riesgo;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
-
-VII. Contar con el personal debidamente capacitado y especializado, en perspectiva de género, derechos humanos, con enfoque diferenciado, intercultural e interseccional; y,
-
-VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia de personal de apoyo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2025)</small>
-
-### CAPÍTULO III. DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-###### Artículo 56 Bis.
-
-Corresponde a los Centros de Justicia para las Mujeres, con base en los principios establecidos en la presente ley:
-
-I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;
-
-II. Diseñar e implementar acciones que eviten la victimización secundaria de las mujeres víctimas de violencia;
-
-III. Proporcionar atención integral a las niñas, adolescentes y mujeres víctimas de violencia, así como a sus hijas e hijos menores de edad;
-
-IV. Facilitar a las mujeres víctimas de violencia el acceso a la justicia con la debida diligencia y desde la perspectiva de género, así como el ejercicio efectivo de sus derechos humanos y asegurar un acceso rápido y eficaz a los programas establecidos para ello, realizando las gestiones ante las autoridades competentes;
-
-V. Garantizar a las mujeres información sobre los mecanismos de acceso a la justicia. A las mujeres con discapacidad, se les podrá brindar asistencia temporal, y a las mujeres sordas, en su caso, teléfonos de emergencias adaptados;
-
-VI. Promover ante las autoridades competentes las órdenes y medidas provisionales necesarias para salvaguardar la integridad de las mujeres, así como la de sus hijas e hijos menores de edad, incluyendo su solicitud y prórroga;
-
-VII. Proporcionar orientación y asesoría jurídica, así como representación legal a las mujeres víctimas de violencia y a sus hijas e hijos menores de edad;
-
-VIII. Facilitar a las mujeres víctimas de violencia, así como a sus hijas e hijos menores de edad, el acceso a los servicios de salud, trabajo social y de empoderamiento económico y social;
-
-IX. Solicitar los mecanismos de financiamiento con recursos federales a través de los programas, estatales y municipales para mejorar el funcionamiento y equipamiento de sus instalaciones;
-
-X. Asegurar la aplicación de los ajustes de procedimiento para que las mujeres con discapacidad puedan ejercer efectivamente sus derechos;
-
-XI. Gestionar ante autoridades públicas e instituciones privadas los apoyos necesarios para que las mujeres con discapacidad puedan tener acceso a los servicios que proporcionan los Centros de Justicia para las Mujeres;
-
-XII. Realizar visitas domiciliarias en hogares, instituciones públicas o privadas, donde se encuentren mujeres con discapacidad que probablemente estén siendo víctimas de violencia, así como gestionar los apoyos y medidas de protección necesarias para salvaguardar su integridad personal. Se podrán realizar estas visitas cuando exista información suficiente sobre la ocurrencia de los hechos, incluso mediante denuncia anónima. Las mujeres con discapacidad pueden rehusarse a la entrevista durante estas visitas cuando estén en condiciones de manifestarlo, y
-
-XIII. Las demás que le confieran los ordenamientos legales aplicables, sin perjuicio de las atribuciones que correspondan a otras autoridades en el ámbito de sus competencias.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis A. Los Centros de Justicia para las Mujeres deberán proporcionar, de manera gratuita, como mínimo los siguientes servicios:
-
-I. Atención médica y psicológica, incluyendo atención terapéutica de contención emocional;
-
-II. Asesoría y orientación jurídica;
-
-III. Representación legal en materias penal, familiar, civil y/o las que se requieran;
-
-IV. Gestión de expedición de documentación oficial;
-
-V. Servicios de albergue temporal o tránsito;
-
-VI. Servicios de cuidado y atención infantil;
-
-VII. Servicios de trabajo social;
-
-VIII. Servicios de protección de seguridad a víctimas en situación de riesgo grave o falta de red de apoyo familiar o comunitario para lo cual se coordinarán con los refugios para víctimas de violencia;
-
-IX. Acceso a la justicia a través de agencias del Ministerio Público especializadas en violencia contra las mujeres;
-
-X. Asesoría, capacitación y servicios para el empoderamiento social y económico;
-
-XI. Gestionar el acceso a servicios educativos;
-
-XII. Programas de incorporación de las mujeres víctimas de violencia al mercado laboral, y
-
-XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencia.
-
-Los Centros de Justicia para las Mujeres facilitarán el acceso a la justicia las 24 horas todos los días del año, y se deberá garantizar que en los servicios que se brinden se cuente con personas intérpretes de lenguas indígenas, así como condiciones de accesibilidad para mujeres con discapacidad, incluidas personas intérpretes de lengua de señas mexicana y asistencia personal en caso de que se requiera.
-
-Los servicios se proporcionarán con independencia de que exista o no una denuncia por los hechos de violencia.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis B. Los servicios que brinden los Centros de Justicia para las Mujeres deberán ejecutarse bajo los principios previstos en el artículo 6 de esta ley.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis C. La atención brindada por los Centros de Justicia para las Mujeres se realizará a través de la participación coordinada de las secretarías y dependencias de la administración pública estatal cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
-
-Las instituciones estatales encargadas de brindar los servicios en los Centros de Justicia para las Mujeres, son las siguientes:
-
-I. Secretaría General de Gobierno;
-
-II. Fiscalía General del Estado;
-
-III. Secretaría de Seguridad Pública;
-
-IV. Secretaría de Salud;
-
-V. Secretaría de Educación Pública y Cultura;
-
-VI. Secretaría de Bienestar y Desarrollo Sustentable;
-
-VII. Sistema Estatal para el Desarrollo Integral de la Familia;
-
-VIII. Secretaría de las Mujeres;
-
-IX. Comisión Estatal de Atención Integral a Víctimas;
-
-X. Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado; y
-
-XI. Instituto de la Defensoría Pública del Estado.
-
-Se celebrarán convenios de colaboración con Fiscalía General del Estado, el Poder Judicial del Estado, otros órganos autónomos estatales y organizaciones de la sociedad civil, a fin de brindar servicios interinstitucionales, especializados y de calidad, desde los enfoques de género, intercultural, diferencial e interseccional.
-
-Para el debido cumplimiento de este artículo las secretarías, dependencias y entidades de la Administración Pública Estatal, comisionarán personal especializado a los Centros de Justicia para las Mujeres conforme a las normas específicas y a esta ley.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis D. La persona que ocupe la Dirección del Centro, deberá reunir los siguientes requisitos:
-
-I. Tener pleno goce de sus derechos;
-
-II. Contar con un título profesional;
-
-III. Tener experiencia comprobable en el ramo de derechos humanos de las mujeres y atención a mujeres víctimas de violencia con perspectiva de género;
-
-IV. No desempeñar ningún otro puesto, empleo, cargo o comisión, con excepción de los honoríficos y los relacionados con la docencia;
-
-V. No estar condenada por delito relacionado con violencia contra las mujeres en razón de género;
-
-VI. No estar inhabilitada para el ejercicio de un cargo público; y
-
-VII. Los demás que establezcan otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis E. La persona titular de la Dirección General tendrá las siguientes atribuciones:
-
-I. Representar legalmente al Centro de Justicia para las Mujeres;
-
-II. Coordinar las actividades que realice el personal de las secretarías, dependencias y entidades de la administración pública estatal, Fiscalía, Poder Judicial, órganos autónomos; así como otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil que, por colaboración interinstitucional, laboren en el Centro de Justicia para las Mujeres;
-
-III. Elaborar convenios de colaboración interinstitucional con dependencias de la administración pública estatal, otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil;
-
-IV. Dar seguimiento a los planes y programas de atención a mujeres víctimas de violencia, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la erradicación de la violencia contra las mujeres, así como establecer las medidas de protección necesarias y acceso efectivo a los procedimientos de procuración y administración de justicia;
-
-V. Difundir los servicios que se proporcionan en el Centro de Justicia para las Mujeres a las mujeres víctimas de violencia;
-
-VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia para las Mujeres y aplicar los recursos financieros adoptados a los proyectos institucionales;
-
-VII. Rendir a la persona titular del Poder Ejecutivo y al Congreso del Estado, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
-
-VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría General de Gobierno.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis F. Todo el personal adscrito y designado en un Centro de Justicia para las Mujeres deberá estar sensibilizado y profesionalizado en atención a víctimas de violencia de género desde la perspectiva de género, y en derechos humanos de las mujeres, además de recibir capacitación permanente para su actualización.
-
-El personal adscrito y designado a cada Centro de Justicia para las Mujeres mantendrá su vínculo jerárquico y laboral con cada una de las dependencias de donde procedan, deberán ajustar su desempeño a los reglamentos, lineamientos y demás reglas de operación que se emitan para sus funciones dentro del Centro de Justicia para las Mujeres.
-
-El personal adscrito y designado a cada Centro de Justicia para las Mujeres regirá su relación laboral conforme a las disposiciones legales aplicables, según sea el caso. El personal adscrito y designado a cada Centro de Justicia para las Mujeres deberá contar con el perfil requerido para el puesto y deberá ser evaluado y capacitado periódicamente.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis G. Para el funcionamiento del Centro de Justicia para las Mujeres, el Estado deberá contar con los recursos derivados de los convenios que en su caso se suscriban con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que se asignen en el Presupuesto de Egresos del Estado, de los ingresos derivados de convenios que celebren con otras dependencias públicas o privadas, y los que obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
-
-Artículo 56 Bis H. Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE ABRIL DE 2023)</small>
-
-## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE ABRIL DE 2023)</small>
-
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
-
-###### Artículo 57.
-
-Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las leyes en la materia, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
-
-T R A N S I T O R I O S
-
-###### ARTÍCULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", debiendo considerarse el Artículo Octavo Transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, publicada en el Diario Oficial de la Federación el primero de febrero de 2007, para que ello ocurra a más tardar el primero de agosto de 2007.
-
-###### ARTÍCULO SEGUNDO.
-
-El Reglamento del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres deberá expedirse dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley.
-
-###### ARTÍCULO TERCERO.
-
-El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, se integrará dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
-
-Dicho sistema deberá formular y acordar la implementación de un Programa Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres a más tardar a los noventa días siguientes de su integración.
-
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintiséis días del mes de julio de dos mil siete.
-
-C. EDUARDO ALFONSO GARRIDO ACHOY
-
-DIPUTADO PRESIDENTE
-
-C. CECILIA GPE. MORENO GARZA
-
-DIPUTADA SECRETARIA
-
-C. VERENICE GPE. FERNÁNDEZ MANRRÍQUEZ
-
-DIPUTADA SECRETARIA
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintisiete días del mes de julio del año dos mil siete.
-
-El Gobernador Constitucional del Estado
-
-Lic. Jesús A. Aguilar Padilla
-
-El Secretario General de Gobierno
-
-Lic. Rafael Oceguera Ramos.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 15 DE JULIO DE 2009.
-
-Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 25 DE ABRIL DE 2012.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 26 DE JUNIO DE 2013.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 21 DE MAYO DE 2014.
+Las y los titulares de las Direcciones Generales, Coordinación de Administración y Finanzas, y Unidad serán suplidos en sus ausencias temporales hasta por quince días, por el servidor público de la jerarquía inmediata inferior que designen. Tratándose de ausencias mayores a quince días por el servidor público que designe el Secretario Técnico.
 
 ## TRANSITORIOS
 
@@ -1981,184 +569,38 @@ Secretaria Técnica de la Secretaría Ejecutiva del Sistema Estatal Anticorrupci
 
 G.G. 27 DE NOVIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL, ANTICORRUPCIÓN".]
 
-###### ARTÍCULO PRIMERO.
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-###### ARTÍCULO SEGUNDO.
+TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, publicado en el Periódico Oficial "Gaceta del Gobierno" el 10 de julio de 2018.
 
-La vigente Ley de Protección a Víctimas de Delitos para el Estado de Sinaloa continuará aplicándose, hasta la entrada en vigor del presente Decreto.
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
 
-###### ARTÍCULO TERCERO.
+QUINTO.- La Secretaría Ejecutiva deberá presentar la propuesta de Manual General de Organización dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Acuerdo.
 
-Se derogan las disposiciones que se opongan a este Decreto.
+G.G. 26 DE ABRIL DE 2023.
 
-P.O. 18 DE DICIEMBRE DE 2015.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 24 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 442 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, Y LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, TODAS DEL ESTADO DE SINALOA".]
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
+TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, reformando (sic) mediante publicación en el Periódico Oficial “Gaceta del Gobierno” el veintisiete de noviembre de dos mil veinte.
 
-TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
 
-P.O. 3 DE AGOSTO DE 2016.
+G.G. 12 DE NOVIEMBRE DE 2024.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 575 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 30 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, CON LA ADICIÓN DE UN PÁRRAFO SEGUNDO Y LOS ACTUALES PÁRRAFOS SEGUNDO AL QUINTO, SE RECORREN EN SU ORDEN PARA QUEDAR COMO PÁRRAFOS TERCERO AL SEXTO”.]
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-P.O. 11 DE DICIEMBRE DE 2017.
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 280 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA UN CAPITULO VII, DENOMINADO "DE LA VIOLENCIA CONTRA LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO", AL TÍTULO SEGUNDO, Y EL ARTÍCULO 24 BIS B, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, reformado mediante publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, el veintiséis de abril de dos mil veintitrés.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 11 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 281 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, AMBAS DEL ESTADO DE SINALOA".]
-
-PRIMERO. El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción de lo dispuesto en el artículo siguiente.
-
-SEGUNDO. La reforma a la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa entrará en vigor el día siguiente a aquel en que el Tribunal Estatal Electoral emita la última declaratoria de validez de las elecciones que se llevarán a cabo el primer domingo de julio de 2018.
-
-P.O. 21 DE FEBRERO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 378 DEL H. CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO FAMILIAR AMBAS DEL ESTADO DE SINALOA".]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-SEGUNDO. Para efecto de materializar la coadyuvancia que se señala en el artículo 38, fracción II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, el Instituto Sinaloense de las Mujeres, la Fiscalía General del Estado y el Poder Judicial del Estado deberán celebrar convenio de coordinación dentro de los treinta días siguientes al inicio de vigencia del presente Decreto.
-
-TERCERO. Dentro del término de ciento veinte días naturales posteriores al inicio del Presente Decreto, la Fiscalía General del Estado en coordinación con el Poder Judicial deberán emitir el Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
-
-P.O. 1 DE JULIO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 455 DECRETO NÚMERO: 455 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, Y LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, TODAS DEL ESTADO DE SINALOA”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 11 DE SEPTIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 502 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Para los efectos del presente Decreto la Fiscalía General del Estado, actualizará en lo que corresponda el Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en caso de Desaparición o no Localización de Niñas y Mujeres publicado en el Periódico Oficial "El Estado de Sinaloa" No.152 de fecha 16 de diciembre de 2019, considerando la integración del Grupo Técnico a que hace referencia dicho Protocolo.
-
-P.O. 29 DE OCTUBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA".]
-
-PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
-
-SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
-
-TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
-
-CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
-
-QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
-
-El patrimonio y presupuesto con que actualmente cuenta del Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
-
-La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
-
-Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
-
-SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
-
-SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
-
-OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
-
-NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
-
-P.O. 11 DE MARZO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 79 POR EL QUE "SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 11, LA FRACCIÓN IX DEL ARTÍCULO 35, LA FRACCIÓN II DEL ARTÍCULO 36; Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 11, TODAS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 23 DE SEPTIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 259 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, CÓDIGO FAMILIAR Y CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA".]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 20 DE ENERO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 382 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS ORDENAMIENTOS PARA EL ESTADO DE SINALOA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 14 DE ABRIL DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 411 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 21 DE JULIO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 515 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, AMBAS PARA EL ESTADO DE SINALOA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-SEGUNDO. Las Reglas de Operación del Programa "Apoyo Económico para Hijas e Hijos de Mujeres Víctimas de Feminicidio" para el ejercicio fiscal 2023, publicadas en el Periódico Oficial "El Estado de Sinaloa" el día 10 de abril de 2023, continuarán vigentes hasta el periodo para el cual fueron aprobadas.
-
-La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse el apoyo económico a niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio, que deberán entrar en vigor el día 1° de enero de 2024.
-
-TERCERO. El Poder Ejecutivo y el Congreso del Estado de Sinaloa realizarán las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
-
-P.O. 14 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 639 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-En un plazo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto todas las autoridades y entes públicos vinculados con el cumplimiento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, deberán realizar las adecuaciones correspondientes a su normatividad interna, con la finalidad de armonizarla conforme al presente Decreto.
-
-P.O. 24 DE FEBRERO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 29 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-SEGUNDO. Se abroga el Decreto que Crea el Centro de Justicia para las Mujeres del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 150 de fecha 13 de Diciembre de 2013.
-
-TERCERO. Las Reglas de Operación del Programa "Apoyo económico para mujeres víctimas de violencia en riesgo extremo, en situación de vulnerabilidad" para el ejercicio fiscal 2024, publicadas en el Periódico Oficial "El Estado de Sinaloa" el día 19 de febrero de 2024, continuarán vigentes hasta el periodo para el cual fueron aprobadas.
-
-La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse el apoyo económico a mujeres víctimas de violencia de riesgo extremo, en situación de vulnerabilidad, que deberán entrar en vigor el día 1° de enero de 2025.
-
-CUARTO. El Poder Ejecutivo deberá realizar las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
-
-QUINTO. Se derogan todas las disposiciones que contravenga (sic) a lo establecido en el presente Decreto.
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
