@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2022-09-30"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -383,7 +383,9 @@ III. Los objetivos, políticas y metas que se pretendan implementar;
 
 IV. Las acciones básicas que se desarrollarán, las modalidades de atención y su previsible impacto en el sistema urbano, así como en el desarrollo regional, económico y social;
 
-V. Los apoyos e instrumentos para atender las necesidades de vivienda de la población en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+V. Los apoyos e instrumentos para atender las necesidades de vivienda de la población en situación de vulnerabilidad, así como de familiares de personas desaparecidas, de conformidad con las leyes de la materia;
 
 VI. Las autoridades competentes para la implementación y ejecución del programa de que se trate;
 
@@ -398,6 +400,10 @@ X. Los mecanismos de coordinación y concertación entre los distintos órdenes 
 XI. La definición de indicadores que midan los avances de las acciones que se emprendan.
 
 El contenido de los subprogramas y demás disposiciones de carácter específico que incluyan los programas, estará previsto en las disposiciones reglamentarias estatales y municipales que para tal efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Se entiende por familiares de personas desaparecidas lo que establece el artículo 4° de la Ley en Materia de Desaparición de Personas para el Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 16.
 
@@ -659,7 +665,9 @@ Las dependencias y entidades que realicen acciones de vivienda deberán dar publ
 
 El Titular del Ejecutivo del Estado, a través de las instancias que éste designe y con la participación de los sectores social y privado, diseñará, coordinará, concertará y fomentará esquemas para que el crédito destinado a los distintos tipos, modalidades y necesidades de vivienda sean accesibles a toda la población, de conformidad con lo dispuesto por esta ley y demás disposiciones aplicables.
 
-Para fortalecer la capacidad de pago de la población en situación de pobreza o de vulnerabilidad, los recursos provenientes del crédito podrán complementarse con subsidios federales, del Estado y de los municipios cuyo otorgamiento se sujetará a lo dispuesto por esta ley, su reglamento y demás disposiciones presupuestales aplicables.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Para fortalecer la capacidad de pago de la población en situación de pobreza o de vulnerabilidad, así como de las personas familiares de personas desaparecidas, los recursos provenientes del crédito podrán complementarse con subsidios federales, del Estado y de los municipios, cuyo otorgamiento se sujetará a lo dispuesto por esta ley, su reglamento y demás disposiciones presupuestales aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -1240,3 +1248,15 @@ P.O. 30 DE SEPTIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 119.- SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 65 Y 66, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 6 Y LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 10, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, Y LA FRACCIÓN VII DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 26; SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY ESTATAL DE EDUCACIÓN; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
