@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-social-del-estado-de-coahuila-de-125289"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2021-02-23"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 26 de diciembre de 2017.
 
@@ -436,6 +436,10 @@ La divulgación de la información relativa a los programas sociales estatales, 
 ###### Artículo 32.
 
 Las dependencias y entidades que operen programas sociales deberán propiciar políticas públicas y procesos incluyentes para asesorar, apoyar y orientar sobre los programas sociales de su responsabilidad a las personas con discapacidad. De igual forma, podrán convenir con las instancias especializadas para la atención de las personas integrantes de las etnias y facilitar su acceso a los beneficios de los programas de desarrollo social.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Los familiares de personas desaparecidas a que se refiere la fracción IX del artículo 4° de la Ley en Materia de Desaparición de Personas para el Estado de Coahuila de Zaragoza, tendrán derecho al asesoramiento, apoyo y orientación, respecto de los programas de desarrollo social que operen las dependencias y entidades.
 
 ### CAPÍTULO II. DEL PRESUPUESTO DE LOS PROGRAMAS DE DESARROLLO SOCIAL
 
@@ -1006,3 +1010,15 @@ P.O. 23 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 119.- SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 65 Y 66, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 6 Y LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 10, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, Y LA FRACCIÓN VII DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 26; SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY ESTATAL DE EDUCACIÓN; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
