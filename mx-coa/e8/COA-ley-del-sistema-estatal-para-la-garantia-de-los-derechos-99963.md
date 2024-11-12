@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2024-07-05"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -197,11 +197,11 @@ XXII. Victimización secundaria: Conjunto de hechos o el hecho en que un individ
 
 De los derechos de niños, niñas y adolescentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 4.
 
-Niños, niñas y adolescentes son sujetos titulares de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y la Ley General, entre los que se encuentran, de manera enunciativa más no limitativa, los siguientes:
+Las niñas, los niños y adolescentes son personas titulares de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y la Ley General, entre los que se encuentran, de manera enunciativa más no limitativa, los siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -281,6 +281,10 @@ XXI. De acceso a la justicia, a la seguridad jurídica y al debido proceso.
 
 XXII. El derecho al registro de identidad, en los plazos y términos previstos en la Ley para la Familia de Coahuila de Zaragoza, y demás disposiciones aplicables.
 
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Al derecho a la verdad en los casos en que sean familiares de una persona desaparecida en los términos de la fracción IX del artículo 4º de la Ley en Materia de Desaparición de Personas para el Estado de Coahuila de Zaragoza o sean víctima de alguna otra violación a sus derechos humanos.
+
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Para sus efectos, aplicación e interpretación se estará a lo establecido en los términos de la Ley General.
@@ -319,7 +323,9 @@ V. Protección para que el trabajo de adolescentes mayores de quince años y men
 
 VI. Protección integral y prevención ante traslados o retenciones ilícitas;
 
-VII. El derecho a la recuperación física, psicológica y la reintegración social de víctimas de cualquier forma de abandono, explotación o abuso; tortura u otra forma de tratos o penas crueles, inhumanas o degradantes; o conflictos armados. La recuperación y reintegración se llevarán a cabo en un ambiente que fomente la salud, el respeto de sí mismo y la dignidad del niño;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VII. El derecho a la recuperación física, psicológica y la reintegración social de víctimas de cualquier forma de abandono, explotación o abuso; tortura u otra forma de tratos o penas crueles, inhumanas o degradantes; o conflictos armados, así como cuando hayan sido víctimas de desaparición o sean familiares de una persona desaparecida de conformidad con la fracción IX del artículo 4° de la Ley en Materia de Desaparición de Personas para el Estado de Coahuila de Zaragoza. La recuperación y reintegración se llevarán a cabo en un ambiente que fomente la salud, el respeto de sí mismo y la dignidad del niño;
 
 VIII. Protección para que no sean reclutados por la delincuencia organizada, pandillas o asociaciones delictuosas;
 
@@ -2164,3 +2170,15 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 119.- SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 65 Y 66, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 6 Y LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 10, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, Y LA FRACCIÓN VII DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 26; SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY ESTATAL DE EDUCACIÓN; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
