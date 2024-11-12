@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129650
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-10"
-last_updated: "2023-04-26"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2024.
 
 Estatuto publicado en la Sección Cuarta al Número 7 de la Gaceta del Gobierno del Estado de México, el martes 10 de julio de 2018.
 
@@ -519,6 +519,10 @@ Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, debe
 
 Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de por lo menos tres miembros del Comité de Participación Ciudadana que lo integran.
 
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+De manera excepcional, en los casos de renuncia o conclusión del periodo de los miembros del Comité de Participación Ciudadana, sesionarán con la asistencia del Titular de la Secretaría Técnica y los integrantes en funciones del referido Comité.
+
 Las y los miembros, con excepción del Secretario Técnico, podrán participar en las sesiones de la Comisión Ejecutiva vía remota, lo que deberá ser asentado en el acta que al efecto se levante, misma que deberá contener los acuerdos y determinaciones aprobados, la cual se perfeccionará con la firma autógrafa de las y los participantes.
 
 La o el titular de la Unidad de Enlace acudirá con el carácter de Secretario de la Comisión Ejecutiva, sin voz, ni voto.
@@ -586,5 +590,17 @@ PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, reformando (sic) mediante publicación en el Periódico Oficial “Gaceta del Gobierno” el veintisiete de noviembre de dos mil veinte.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 30 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, CON LA ADICIÓN DE UN PÁRRAFO SEGUNDO Y LOS ACTUALES PÁRRAFOS SEGUNDO AL QUINTO, SE RECORREN EN SU ORDEN PARA QUEDAR COMO PÁRRAFOS TERCERO AL SEXTO”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, reformado mediante publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, el veintiséis de abril de dos mil veintitrés.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
