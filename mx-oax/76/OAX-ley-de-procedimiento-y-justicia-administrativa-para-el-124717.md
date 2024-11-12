@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-procedimiento-y-justicia-administrativa-para-el-124717"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2023-08-15"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -1047,31 +1047,47 @@ La resolución del recurso da acción al agraviado para intentar el juicio que c
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 117 BIS.- La revisión administrativa de oficio, es la facultad discrecional de la autoridad administrativa para que, por medio de un procedimiento, declare la modificación, revocación o nulidad de un acto administrativo. Dicho procedimiento, tendrá como finalidad rectificar los errores aritméticos, materiales, de hecho y de derecho de los actos administrativos.
+ARTÍCULO 117 BIS.- La revisión administrativa de oficio, es la facultad discrecional de cualquier autoridad que ejerza funciones materialmente administrativas para que, por medio de un procedimiento, declare la modificación, revocación o nulidad de un acto administrativo. Dicho procedimiento, tendrá como finalidad rectificar los errores aritméticos, materiales, de hecho y de derecho de los actos administrativos.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 117 TER.- Las autoridades administrativas de las entidades y dependencias de la Administración Pública Estatal o Municipal, podrán declarar la modificación, revocación o nulidad de los actos administrativos emitidos en contravención a la Ley, así como los efectos jurídicos emanados del mismo, por medio de la revisión administrativa de oficio.
+ARTÍCULO 117 TER.- Las autoridades administrativas de las entidades y dependencias de la Administración Pública Estatal o Municipal y los órganos constitucionales autónomos del Estado podrán declarar la modificación, revocación o nulidad de los actos administrativos emitidos en contravención a la Ley, así como los efectos jurídicos emanados del mismo, por medio de la revisión administrativa de oficio.
 
-Será procedente, en los casos en los que la autoridad tenga conocimiento que un acto administrativo carece de alguno de los elementos o requisitos de validez establecidos en las fracciones del artículo 17 de la presente Ley.
+Será procedente, en los casos en los que la autoridad tenga conocimiento que un acto formal o materialmente administrativo carece de alguno de los elementos o requisitos de validez establecidos en el artículo 17 de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-ARTÍCULO 117 QUÁTER.- El procedimiento podrá iniciar y resolverse por el superior jerárquico de la autoridad que haya emitido el acto.
+ARTÍCULO 117 QUÁTER.- El procedimiento podrá iniciar por la autoridad que emitió el acto objeto de revisión pero obligatoriamente deberá resolverse por su superior jerárquico. Sin perjuicio de lo anterior, el superior jerárquico podrá iniciar en cualquier momento el procedimiento de revisión de los actos emitidos por las y los servidores públicos que integren las unidades u órganos que conformen su estructura administrativa.
 
-Si el acto objeto del procedimiento fue emitido por el titular de una entidad o dependencia de la Administración Pública Estatal Centralizada o Paraestatal; la autoridad será competente para conocer y resolver sobre su propia determinación, o del acto administrativo emitido por el anterior titular del puesto que desempeña en ese momento.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-La misma regla aplicará en caso de que el acto administrativo se haya emitido por un Presidente Municipal o cualquier autoridad que por su nivel administrativo o burocrático no tenga superior jerárquico, o este sea un cuerpo colegiado.
+Si el acto objeto de revisión fue emitido por el titular de una dependencia de la Administración Pública Centralizada Estatal o Municipal, la autoridad será competente para iniciar el procedimiento, substanciar y resolver sobre su propia determinación, o del acto administrativo emitido por el anterior titular del puesto que desempeñe en ese momento.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Por regla general, en caso de que el acto revisado lo haya emitido una entidad de la Administración Pública Paraestatal, un Cabildo o cualquier autoridad que por su nivel administrativo o burocrático sea un cuerpo colegiado, el Cabildo del Ayuntamiento o el órgano de gobierno de la entidad, según se trate, ordenará el inicio del procedimiento y facultará mediante acuerdo al Presidente Municipal, Director General o equivalente para que substancie el procedimiento. Al finalizar la substanciación será el mismo órgano colegiado quien resuelva el procedimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Los órganos constitucionales autónomos podrán iniciar procedimientos de revisión administrativa de oficio únicamente respecto a los actos materialmente administrativos que hayan emitido sujetándose a las reglas establecidas en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 117 QUINQUIES.- El procedimiento comenzará con la emisión de un acuerdo de inicio. Emitido dicho acuerdo, la autoridad administrativa contará con un plazo de quince días hábiles para la instrucción del procedimiento, en el que reunirá las pruebas y elementos de derecho que fundamenten la resolución.
 
-Al emitirse el acuerdo de inicio, la autoridad deberá verificar si el acto administrativo objeto del procedimiento, involucra a terceros interesados. En caso de ser así, la autoridad deberá notificar al tercero interesado en el plazo de cinco días hábiles el inicio del procedimiento, para que este tenga la oportunidad de manifestar lo que a su derecho convenga y ofrecer las pruebas que acrediten su dicho.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-La exhibición de pruebas, se sujetará a las reglas establecidas en el artículo 63 de esta Ley.
+Al emitirse el acuerdo de inicio, la autoridad deberá verificar si el acto administrativo objeto del procedimiento, involucra a terceros interesados. En caso de ser así, la autoridad deberá notificar al tercero interesado para que en el plazo de cinco días hábiles se apersone al procedimiento, con la finalidad de que este tenga la oportunidad de manifestar lo que a su derecho convenga y ofrecer las pruebas que acrediten su dicho.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+En el acuerdo de inicio, la autoridad otorgará al tercero interesado un plazo de cinco días hábiles para ofrecer pruebas y cinco días hábiles adicionales para desahogarlas en caso de que por su naturaleza así se requiera. Toda prueba presentada fuera del plazo anteriormente citado se tendrá por ofrecida pero se desechará de plano.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+A todo lo no contemplado en el presente capítulo relativo a la exhibición y desahogo de pruebas, se aplicarán supletoriamente las reglas establecidas en los artículos 63, 64, 65 y 66 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
 
@@ -1079,7 +1095,9 @@ ARTÍCULO 117 SEXIES.- Una vez concluida la instrucción del procedimiento, la a
 
 Asimismo, deberá notificar al tercero interesado, el cierre de la instrucción y deberá otorgar un plazo de cinco días hábiles para que ofrezca alegatos en caso que así lo estime conveniente.
 
-En caso de no existir un tercero interesado, o este no comparezca en el plazo de instrucción del procedimiento, la autoridad podrá emitir la resolución inmediatamente una vez que se haya acordado el cierre de la etapa instructora.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+En caso de no existir un tercero interesado, o este no comparezca en el plazo otorgado durante la instrucción del procedimiento, la autoridad podrá emitir la resolución inmediatamente una vez que se haya acordado el cierre de la etapa instructora
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
 
@@ -2436,3 +2454,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2516.- MEDIANTE EL CUAL REFORMAN, LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 2, LA FRACCIÓN XI DEL ARTÍCULO 3, LAS FRACCIONES VII, XII Y XIII DEL ARTÍCULO 4, LOS INCISOS D), E), F) y G) DE LA FRACCIÓN I Y LOS INCISOS D) y E), DE LA FRACCIÓN IV DEL ARTÍCULO 7, LAS FRACCIONES V, VI, IX Y XV DEL ARTÍCULO 9, LA FRACCIÓN IV DEL ARTÍCULO 12, EL ARTÍCULO 16, EL ARTÍCULO 18, LAS FRACCIONES I, VII, XXI Y XXII DEL ARTÍCULO 19, EL ARTÍCULO 40, LA FRACCIÓN I DEL ARTÍCULO 43, LA FRACCIÓN X DEL ARTÍCULO 55, EL PRIMER PÁRRAFO DEL ARTÍCULO 59, EL PRIMER PÁRRAFO DEL ARTÍCULO 65, LAS FRACCIONES IV Y V DEL ARTÍCULO 66, LA FRACCIÓN IV DEL ARTÍCULO 68, LA FRACCIÓN IV DEL ARTÍCULO 71, LA FRACCIÓN III DEL ARTÍCULO 76, LAS FRACCIONES II, III Y IV DEL ARTÍCULO 78, EL ARTÍCULO 80 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 83; SE ADICIONAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 4, LOS INCISOS E), F), G), H) A LA FRACCIÓN IV DEL ARTÍCULO 7, LA FRACCIÓN XVI AL ARTÍCULO 9, LA FRACCIÓN XXIII DEL ARTÍCULO 19, UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 38, LOS ARTÍCULOS 45 BIS Y 45 TER AL CAPÍTULO I DEL TITULO CUARTO DENOMINADO “DE LAS MAGISTRADAS Y MAGISTRADOS”, UN PÁRRAFO SEGUNDO AL ARTÍCULO 52, LA FRACCIÓN VI AL ARTÍCULO 66, UN CAPÍTULO VI DENOMINADO “DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA DE JUSTICIA ADMINISTRATIVA” QUE CONTENDRÁ UN ARTÍCULO 80 BIS, UN PÁRRAFO SEGUNDO AL ARTÍCULO 83; SE DEROGAN EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 7, EL ARTÍCULO 45 Y EL ARTÍCULO 70, TODAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA; Y SE REFORMAN EL ARTÍCULO 117 BIS, EL ARTÍCULO 117 TER, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 117 QUÁTER, PÁRRAFOS SEGUNDO Y ÚLTIMO DEL ARTÍCULO 117 QUINQUIES Y EL PÁRRAFO TERCERO DEL ARTÍCULO 117 SEXIES; SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 117 QUÁTER, Y UN PÁRRAFO TERCERO RECORRIÉNDOSE EL PÁRRAFO SUBSECUENTE AL ARTÍCULO 117 QUINQUIES, TODAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto serán tramitados y concluidos conforme a las disposiciones legales vigentes a su inicio.
