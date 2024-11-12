@@ -4,7 +4,7 @@ identifier: "COA-ley-de-declaracion-especial-de-ausencia-para-personas-136653"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-28"
-last_updated: "2019-05-28"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial de Coahuila de Zaragoza, el martes 28 de mayo de 2019.
 
@@ -69,7 +69,9 @@ A falta de disposición expresa en esta ley, se aplicará de manera supletoria e
 
 Para efectos de esta ley se entiende por:
 
-I. Asesor Jurídico: Al Asesor Jurídico Estatal de Atención a Víctimas adscritos a la Comisión Ejecutiva de Atención a Víctimas;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Asesora Jurídica: Las personas asesoras jurídicas adscritas a la Comisión Ejecutiva Estatal de Atención a Víctimas, así como las personas asesoras jurídicas particulares;
 
 II. Comisión Ejecutiva: La Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de Coahuila de Zaragoza;
 
@@ -77,19 +79,41 @@ III. Comisión de Búsqueda: La Comisión de Búsqueda del Estado de Coahuila de
 
 IV. Declaración especial de ausencia: La declaración especial de ausencia para personas desaparecidas;
 
-V. Familiares: Las personas que, en términos de la legislación aplicable, tengan parentesco con la persona desaparecida por consanguinidad, civil o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; la o el cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen del pacto civil de solidaridad o de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la persona desaparecida, que así lo acrediten ante las autoridades competentes;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-VI. Fiscalía de Personas Desaparecidas: La Fiscalía de Personas Desaparecidas adscrita a la Fiscalía General del Estado de Coahuila de Zaragoza;
+V. Familiares: Las personas que, en términos de la legislación aplicable, tengan parentesco con la persona desaparecida por consanguinidad, civil o afinidad, en línea recta ascendente y descendente hasta el cuarto grado; en línea transversal hasta el cuarto grado; la o el cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen del pacto civil de solidaridad o de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la persona desaparecida, que así lo acrediten ante las autoridades competentes;
 
-VII. Ley: La Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA [N. DE E. ADICIONADA.], P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Mecanismo de Apoyo Exterior: El Mecanismo de Apoyo Exterior de Búsqueda e Investigación a que se refiere la fracción XIII del artículo 4 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+VI. Víctimas: Aquellas víctimas directas, indirectas y potenciales, conforme lo establecido en el artículo 3 de la Ley de Víctimas para el Estado de Coahuila de Zaragoza;
 
-IX. Órgano jurisdiccional: El Juzgado de primera instancia en materia familiar del Poder Judicial del Estado de Coahuila de Zaragoza, competente para conocer del procedimiento para la declaración especial de ausencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-X. Persona desaparecida: La persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito; y
+VII. Fiscalía de Personas Desaparecidas: La Fiscalía de Personas Desaparecidas adscrita a la Fiscalía General del Estado de Coahuila de Zaragoza;
 
-XI. Reporte: La comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Ley: La Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+IX. Mecanismo de Apoyo Exterior: El Mecanismo de Apoyo Exterior de Búsqueda e Investigación a que se refiere la fracción XIII del artículo 4 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+(REUBICADA, P.O. 12 DE NOVIEMBRE DE 2024)
+
+X. Órgano jurisdiccional: El Juzgado de primera instancia en materia familiar del Poder Judicial del Estado de Coahuila de Zaragoza, competente para conocer del procedimiento para la declaración especial de ausencia;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XI. Persona desaparecida: La persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XII. Reporte: La comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Instituto: El Instituto Estatal de Defensoría Pública.
 
 ###### Artículo 4.
 
@@ -97,7 +121,11 @@ Las acciones, medidas y procedimientos establecidos en esta ley, se regirán por
 
 I. Celeridad. El procedimiento de la declaración especial de ausencia deberá atender los plazos señalados por esta ley y evitar cualquier tipo de retrasos indebidos o injustificados;
 
-II. Enfoque diferencial y especializado. Las autoridades que apliquen esta ley, están obligadas, en el respectivo ámbito de sus competencias, a brindar una atención especializada, garantías especiales y medidas de protección a los grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, discapacidad y otros; en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas. Entre los grupos antes señalados, están considerados como expuestos a un mayor riesgo de violación de sus derechos, a las niñas, niños, adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, miembros de pueblos y comunidades indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento forzado interno;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+II. Enfoque diferencial y especializado. Las autoridades que apliquen esta ley están obligadas, en el ámbito de sus respectivas competencias, a brindar una atención integral especializada, garantías especiales y medidas de protección a los grupos de población con características particulares o con alguna condición de especial vulnerabilidad en razón de su edad, género; preferencia u orientación sexual, etnia, discapacidad, entre otras; en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las personas en situación de víctimas. Entre los grupos antes señalados, están considerados como expuestos a un mayor riesgo de violación de sus derechos, las niñas, niños, adolescentes, mujeres, personas adultas mayores, personas con discapacidad, personas migrantes, miembros de pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, personas periodistas y personas en situación de desplazamiento forzado interno;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 III. Gratuidad. Todas las acciones, procedimientos y cualquier otro trámite que esté relacionado con la declaración especial de ausencia serán gratuitos para los familiares y demás personas previstas en esta ley;
 
@@ -119,7 +147,9 @@ IX. Presunción de vida. En las acciones, mecanismos y procedimientos para la em
 
 Están facultados para solicitar la declaración especial de ausencia en los términos de esta ley, sin orden de prelación entre los solicitantes:
 
-I. Los familiares;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Los familiares y/o víctimas indirectas;
 
 II. Los representantes legales de las familias de personas desaparecidas;
 
@@ -127,19 +157,35 @@ III. La persona que tenga una relación sentimental, o afectiva inmediata y coti
 
 IV. Las organizaciones de la sociedad civil, legalmente constituidas y que acrediten la representación legal;
 
-V. El ministerio público a solicitud de los familiares o persona legitimada conforme al presente artículo;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-VI. El asesor jurídico, quien además, dará seguimiento al procedimiento de Declaración Especial de Ausencia y al cumplimiento de la resolución; y
+V. Las personas agentes del ministerio público de la Fiscalía de Personas Desaparecidas, a solicitud de los familiares o de la persona legitimada conforme al presente artículo;
 
-VII. El Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza, quien además, dará seguimiento al procedimiento de Declaración Especial de Ausencia y al cumplimiento de la resolución.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VI. La persona asesora jurídica; y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VII. Las personas defensoras públicas adscritas al Instituto.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+La calidad de concubinato se presume, salvo prueba en contrario, si la misma se encuentra reconocida dentro de la carpeta de investigación o averiguación previa correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Tratándose de las fracciones VI y VII del presente artículo, además de solicitar la declaración especial de ausencia, indistintamente darán seguimiento al procedimiento y al cumplimiento de la resolución.
 
 ###### Artículo 6.
 
 La declaración especial de ausencia podrá solicitarse a partir de los tres meses de que se haya hecho la denuncia o reporte por desaparición, la presentación de queja ante la Comisión Nacional de los Derechos Humanos o ante los organismos públicos autónomos de derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-El ministerio público de la Fiscalía de Personas Desaparecidas, podrá solicitar a petición de los familiares u otras personas legitimadas por la ley, al órgano jurisdiccional, que se inicie el procedimiento de declaración especial de ausencia y, en su caso, que ordene las medidas provisionales que resulten necesarias para proteger los derechos de la persona desaparecida y de sus familiares.
+Cualquiera de las personas facultadas en términos del artículo 5, podrá solicitar a petición de los familiares u otras personas legitimadas por la ley, al Órgano jurisdiccional, que se inicie el procedimiento de declaración especial de ausencia y, en su caso, que ordene las medidas provisionales que resulten necesarias para proteger los derechos de la persona desaparecida y de sus familiares.
 
 La solicitud que haga el ministerio público de la Fiscalía de Personas Desaparecidas deberá considerar la información que se encuentre en posesión de otras autoridades, con el fin de contar con elementos particulares de los familiares, de conformidad con el principio de enfoque diferencial y especializado.
 
@@ -151,9 +197,11 @@ Los familiares y personas autorizadas por la ley que tengan abierta una investig
 
 Cuando así lo requieran los familiares o cualquier otra persona con derecho, la Comisión Ejecutiva asignará un asesor jurídico para realizar la solicitud de declaración especial de ausencia y llevar a cabo los trámites relacionados con esta, en términos de esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-El órgano jurisdiccional, ministerio público de la Fiscalía de Personas Desaparecidas, la Comisión Ejecutiva, la Comisión de Búsqueda y el Instituto Estatal de Defensoría Pública del Estado de Coahuila de Zaragoza, tienen la obligación de informar del procedimiento y los efectos de la declaración especial de ausencia a los familiares o sus representantes legales, así como a la persona que tenga una relación sentimental o afectiva inmediata y cotidiana con la víctima.
+El Órgano jurisdiccional, ministerio público de la Fiscalía de Personas Desaparecidas, la Comisión Ejecutiva, la Comisión de Búsqueda y el Instituto, tienen la obligación de informar acerca del procedimiento y los efectos de la declaración especial de ausencia a las personas señaladas en las fracciones I, II y III del artículo 5.
 
 ###### Artículo 11.
 
@@ -193,9 +241,13 @@ X. Cualquier otra información que se estime relevante para determinar los efect
 
 Si la persona solicitante no cuenta con alguna de la información referida en las fracciones anteriores, así deberá hacerlo del conocimiento de la autoridad competente, bajo protesta de decir verdad.
 
-En el caso de la fracción IX de este artículo, el órgano jurisdiccional no podrá interpretar que los efectos de la declaración especial de ausencia, sean exclusivamente en el sentido en que fue solicitado.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-El órgano jurisdiccional que conozca de un procedimiento de declaración especial de ausencia debe suplir la deficiencia de los planteamientos consignados en la solicitud.
+En el caso de la fracción IX del presente artículo, el Órgano jurisdiccional podrá establecer mayores efectos a los que fueron solicitados, con la intención de garantizar la protección más amplia a la persona desaparecida y a sus familiares.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+El Órgano jurisdiccional deberá suplir la deficiencia de los planteamientos consignados en la solicitud.
 
 ###### Artículo 13.
 
@@ -213,9 +265,11 @@ V. La relativa a la fracción VIII, con el documento original o copia, en el que
 
 Con la solicitud, deberán exhibirse los documentos con que cuente el solicitante, señalados en las fracciones previstas en el presente artículo, en caso de que la persona solicitante no cuente con dicha documentación, deberá hacerlo del conocimiento del órgano jurisdiccional para que sea solicitada por este, a las autoridades, dependencia, institución o persona que pudiera tenerla en su poder.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-Cuando la persona que solicite la declaración especial de ausencia pertenezca a una comunidad o pueblo indígena, sea extranjera y no hable el idioma español o cuente con alguna discapacidad que no permita su participación de manera adecuada, se proporcionarán de oficio, los medios necesarios para ello, una persona traductora o intérprete para todo acto en el que tenga que intervenir.
+Cuando alguna de las personas señaladas en las fracciones I, II y III del artículo 5 de la presente ley, pertenezca a una comunidad o pueblo indígena o afromexicana, sea extranjera y no hable el idioma español o cuente con alguna discapacidad que no permita su participación de manera adecuada, de oficio se proporcionarán los medios necesarios para garantizar su participación efectiva, así como una persona traductora o intérprete, según sea el caso, en todos los actos en que se requiera.
 
 ###### Artículo 15.
 
@@ -233,15 +287,23 @@ Una vez concluido el procedimiento, el órgano jurisdiccional deberá hacer lleg
 
 Recibida la solicitud, el órgano jurisdiccional deberá admitirla en un plazo no mayor a tres días hábiles y verificar la información que le sea presentada.
 
-Si la persona solicitante no cuenta con alguna de la información a que se refiere el artículo 12 de esta ley, deberá hacerlo del conocimiento del órgano jurisdiccional, el cual requerirá inmediatamente y de manera oficiosa, la información a las autoridades, dependencia, institución o persona que pudiera tenerla en su poder, quienes tendrán un plazo de cinco días hábiles para remitirla, contados a partir de que reciban el requerimiento.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-El órgano jurisdiccional, podrá requerir al ministerio público de la Fiscalía de Personas Desaparecidas, a la Comisión de Búsqueda y a la Comisión Ejecutiva, que le remitan en copia certificada, información pertinente que obre en sus expedientes, para su valoración y resolución de la declaratoria especial de ausencia, quienes tendrán un plazo de cinco días hábiles para remitirla al órgano jurisdiccional que la solicitó, contados a partir de que reciban el requerimiento.
+Si la persona solicitante no cuenta con alguna de la información a que se refiere el artículo 12 de esta ley, deberá hacerlo del conocimiento del Órgano jurisdiccional, el cual requerirá inmediatamente y de manera oficiosa, por conducto del acuerdo que admita a trámite la solicitud, la información a las autoridades, dependencias, instituciones o personas que pudieran tenerla en su poder, quienes tendrán un plazo no mayor a cinco días hábiles para remitirla, contados a partir del mismo día en que reciban el requerimiento.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+El Órgano jurisdiccional podrá requerir a la Fiscalía de Personas Desaparecidas, a la Comisión de Búsqueda y/o a la Comisión Ejecutiva, que remita, en copia certificada, la información pertinente que obre en sus expedientes, para su valoración y resolución de la declaratoria especial de ausencia, quienes tendrán un plazo no mayor a cinco días hábiles para remitirla al Órgano jurisdiccional que la solicitó, contados a partir del mismo día en que reciban el requerimiento.
 
 ###### Artículo 18.
 
 A fin de garantizar la máxima protección a la persona desaparecida y a sus familiares, el órgano jurisdiccional deberá dictar las medidas provisionales y cautelares que resulten necesarias en un plazo no mayor a quince días hábiles, contados a partir de que la solicitud haya sido presentada.
 
 Las medidas se decretarán sobre la guarda y custodia, alimentos, patria potestad, uso de la vivienda y aquellas necesidades específicas que advierta de la revisión de la solicitud y la información que le remitan las autoridades, particularmente la Comisión Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+En el caso del requerimiento realizado a la Comisión Ejecutiva en términos del tercer párrafo del artículo 17 de la presente ley, esta deberá informar acerca de las necesidades que hayan sido advertidas de la entrevista multidisciplinaria de primer contacto, únicamente en aquellos casos en los que previamente se haya solicitado su atención integral.
 
 ###### Artículo 19.
 
@@ -285,7 +347,9 @@ El Poder Judicial del Estado de Coahuila de Zaragoza, debe erogar los costos rel
 
 La declaración especial de ausencia tendrá como mínimo, los siguientes efectos:
 
-I. Garantizar y asegurar la continuidad de la personalidad jurídica de la persona desaparecida y el reconocimiento de la ausencia desde la fecha en que se consigna el hecho en la denuncia o en el reporte;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Garantizar y asegurar la continuidad de la personalidad jurídica de la persona desaparecida y el reconocimiento de la ausencia desde la fecha en que se le haya visto por última vez.
 
 II. Garantizar la conservación de la patria potestad de la persona desaparecida en relación con los hijos menores de dieciocho años de edad, bajo el principio del interés superior de la niñez;
 
@@ -325,11 +389,17 @@ La declaración especial de ausencia no produce efectos de prescripción penal n
 
 La declaración especial de ausencia no eximirá a las autoridades de continuar las investigaciones encaminadas al esclarecimiento de la verdad y de la búsqueda de la persona desaparecida hasta que no se conozca su paradero y haya sido plenamente identificada.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+La búsqueda deberá realizarse bajo la presunción de que la persona desaparecida está viva, independientemente de las circunstancias de la desaparición, en términos de los principios rectores para la búsqueda de personas desaparecidas de Organismos y/o Tratados Internaciones.
+
 Se dará vista de manera inmediata al órgano de control interno, jurisdiccional o cualquier otra autoridad competente, de las autoridades que incumplan con lo establecido en la presente ley, para que se inicie la investigación y en caso que proceda, se emita la sanción correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 28.
 
-El órgano jurisdiccional dispondrá que la o el cónyuge o la concubina o concubinario, así como las personas ascendientes, descendientes, parientes colaterales hasta el tercer grado, nombren de común acuerdo al representante legal. En caso de inconformidad respecto al nombramiento, o de no existir acuerdo unánime, el órgano jurisdiccional elegirá entre estas, a la persona que le parezca más apta para desempeñar dicho cargo.
+El Órgano jurisdiccional dispondrá que la o el cónyuge o la concubina o concubinario, así como las personas ascendientes, descendientes, parientes colaterales hasta el cuarto grado, nombren de común acuerdo al representante legal. En caso de inconformidad respecto al nombramiento, o de no existir acuerdo unánime, el Órgano jurisdiccional elegirá entre estas, a la persona que le parezca más apta para desempeñar dicho cargo.
 
 La persona designada como representante legal no recibirá remuneración económica por el desempeño de dicho cargo.
 
@@ -387,11 +457,11 @@ El órgano jurisdiccional deberá garantizar que la venta judicial se lleve a ca
 
 Cuando la solicitud de declaración especial de ausencia sea sobre una persona que tenga la calidad de ejidatario o comunero, el órgano jurisdiccional lo deberá tomar en cuenta en su resolución, a fin de que sus derechos ejidales o comuneros sean ejercidos por sus familiares en términos de la Ley Agraria.
 
-(NOTA: EL 30 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 65/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE JULIO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 35.
 
-Si la persona desaparecida de la cual se emitió una declaración especial de ausencia fuera localizada con vida o se prueba que sigue con vida, en caso de EXISTIR INDICIOS DE que la persona simuló su desaparición deliberada para evadir responsabilidades, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de estos frutos ni rentas y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición.
+Si la persona desaparecida de la cual se emitió una declaración especial de ausencia fuera localizada con vida o se prueba que sigue con vida, en caso de acreditarse que la persona simuló su desaparición deliberada para evadir responsabilidades, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de estos frutos ni rentas y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición.
 
 ###### Artículo 36.
 
@@ -454,3 +524,17 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 118.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
