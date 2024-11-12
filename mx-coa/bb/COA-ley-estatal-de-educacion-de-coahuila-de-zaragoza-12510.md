@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2024-10-18"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -491,9 +491,13 @@ I.- Atender de manera especial las escuelas ubicadas en localidades aisladas o z
 
 II.- Establecer los programas tendientes a mejorar la infraestructura física de los planteles escolares que se encuentren en zonas marginadas o aisladas;
 
-III.- Instrumentar programas para atender a los menores infractores y a los que estén en situación extraordinaria, previa coordinación con las autoridades competentes en la materia;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-IV.- Establecer y apoyar programas dirigidos a los menores con posibilidades económicas limitadas, cuyo propósito será otorgarles el acceso y la permanencia en los niveles educativos obligatorios;
+III.- Instrumentar programas para atender a niñas, niños y adolescentes infractores, niñas, niños y adolescentes familiares de personas desaparecidas y a quien esté en situación extraordinaria, previa coordinación con las autoridades competentes en la materia;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+IV.- Establecer y apoyar programas dirigidos a niñas, niños y adolescentes con posibilidades económicas limitadas o familiares de personas desaparecidas, cuyo propósito será otorgarles el acceso y la permanencia en los niveles educativos obligatorios y, en su caso, su regularización escolar;
 
 V.- Promover el establecimiento de instituciones que apoyen en forma continua y estable el aprendizaje y aprovechamiento de los alumnos, tales como centros de integración social, internados, albergues escolares e infantiles y demás que incidan en la misma función;
 
@@ -505,9 +509,9 @@ VI.- Brindar el servicio a quienes abandonaron el sistema educativo regular y se
 
 VII.- Establecer, fortalecer y promover modalidades de educación a distancia;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-VIII.- Desarrollar programas y llevar a cabo acciones encaminadas a otorgar becas y apoyos económicos para el ingreso y permanencia de los educandos de escasos recursos o beneficiarios a que se refieren las Reglas de Operación del Programa Integral de Atención a Familiares de Personas Desaparecidas y demás disposiciones aplicables, en todos los niveles de educación básica, media superior y superior, inclusive en instituciones educativas a las que la ley les otorga autonomía.
+VIII.- Desarrollar programas y llevar a cabo acciones encaminadas a otorgar becas y apoyos económicos para el ingreso y permanencia de personas estudiantes de escasos recursos y familiares de personas desaparecidas, de conformidad con las leyes en la materia y demás disposiciones aplicables, en todos los niveles de educación básica, media superior y superior, inclusive en instituciones educativas a las que la ley les otorga autonomía.
 
 IX.- Desarrollar actividades educativas que tiendan a elevar los niveles culturales y de bienestar de la población que vive en localidades aisladas o en condiciones de marginación;
 
@@ -646,6 +650,10 @@ V.- Educación para adultos y formación para el trabajo y la productividad.
 ###### ARTICULO 33.
 
 Considerando las necesidades educativas de la entidad, la cobertura de los servicios y la naturaleza de los tipos y niveles de educación, la Secretaría de Educación del Estado determinará las modalidades en que han de prestarse dichos servicios, incluyendo la de adultos y la de capacitación para el trabajo.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 33 BIS.- El Ejecutivo del Estado, a través de la Secretaría de Educación, podrá celebrar convenios con instituciones educativas públicas o privadas para promover el acceso a la educación básica, media superior y superior de familiares de personas desaparecidas, así como el otorgamiento de becas, de acuerdo con las disposiciones aplicables.
 
 ### CAPITULO II. DE LA EDUCACIÓN INICIAL
 
@@ -2168,3 +2176,15 @@ P.O. 18 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 100.- SE REFORMA LA FRACCIÓN XXVII Y SE ADICIONA LA FRACCIÓN XXVIII DEL ARTÍCULO 9, DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 119.- SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 65 Y 66, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 6 Y LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 10, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, Y LA FRACCIÓN VII DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 26; SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY ESTATAL DE EDUCACIÓN; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
