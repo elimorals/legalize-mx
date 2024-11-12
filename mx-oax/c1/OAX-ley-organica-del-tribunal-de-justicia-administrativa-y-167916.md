@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-de-justicia-administrativa-y-167916"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-16"
-last_updated: "2023-09-16"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de septiembre de 2023.
 
@@ -49,13 +49,17 @@ LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN
 
 La presente Ley es de orden público e interés general, su ámbito espacial de validez será el territorio del Estado Libre y Soberano de Oaxaca, y tiene por objeto determinar la organización, administración, vigilancia y disciplina del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
-El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, es un órgano jurisdiccional constitucional autónomo e independiente en su ejercicio, con personalidad jurídica y patrimonio propio, facultado para ejercer control de legalidad, convencionalidad y constitucionalidad dotado de plena jurisdicción para emitir y hacer cumplir sus Resoluciones.
+El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, es un órgano jurisdiccional constitucional autónomo e independiente en su ejercicio, con personalidad jurídica y patrimonio propio, facultado para ejercer control de legalidad, convencionalidad y constitucionalidad dotado de plena jurisdicción para emitir y hacer cumplir sus resoluciones.
 
 El Tribunal es la máxima autoridad jurisdiccional del Estado de Oaxaca en materia administrativa, de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, responsabilidades administrativas, resolución de controversias entre los municipios con sus agencias por la entrega de recursos y combate a la corrupción.
 
-Formará parte de los Sistemas Nacional y Estatal de Combate a la Corrupción y estará sujeto a las bases establecidas en los artículos 113 de la Constitución Política de los Estados Unidos Mexicanos; 114 QUÁTER de la Constitución Política del Estado Libre y Soberano de Oaxaca, así como la Ley General de Responsabilidades Administrativas, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y las demás leyes vigentes que integren el sistema de justicia administrativa.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Formará parte de los Sistemas Nacional y Estatal de Combate a la Corrupción y estará sujeto a las bases establecidas en los artículos 113 de la Constitución Política de los Estados Unidos Mexicanos; 114 QUINQUIES de la Constitución Política del Estado Libre y Soberano de Oaxaca, así como la Ley General de Responsabilidades Administrativas, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y las demás leyes vigentes que integren el sistema de justicia administrativa.
 
 Los actos y las resoluciones del Tribunal se sujetarán a los principios de austeridad, imparcialidad, legalidad, igualdad, publicidad, audiencia, constitucionalidad, convencionalidad, debido proceso, presunción de inocencia, pro persona, sencillez, gratuidad, razonabilidad, proporcionalidad y transparencia.
 
@@ -87,7 +91,9 @@ IX. Ley de Procedimiento: Ley de Procedimiento y Justicia Administrativa para el
 
 X. Ley General: Ley General de Responsabilidades Administrativas;
 
-XI. Órgano Interno de Control: La unidad administrativa que tiene a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno; competente para aplicar las leyes y procedimientos en materia de responsabilidades de los servidores públicos del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XI. Órgano Interno de Control: El órgano que tiene a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno; competente para aplicar las leyes y procedimientos en materia de responsabilidades de los servidores públicos del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca;
 
 XII. Paridad de género: Principio constitucional que tiene como finalidad la inclusión de las mujeres en los espacios de decisión pública;
 
@@ -129,7 +135,9 @@ V. Resolver las controversias que se susciten entre los particulares y la Admini
 
 VI. Resolver las controversias que se susciten entre los particulares y la Administración Pública de los Municipios en materia fiscal y administrativa;
 
-VII. Resolver las controversias que deriven de las resoluciones de los procedimientos de revisión oficiosa administrativa que dicten las dependencias o entidades de la Administración Pública Estatal o de los Municipios;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VII. Resolver las controversias que deriven de las resoluciones de los procedimientos de revisión administrativa de oficio que dicten las dependencias o entidades de la Administración Pública Estatal o de los Municipios;
 
 VIII. Resolver las controversias que se susciten entre los Municipios entre sí o entre éstos y las dependencias o entes de la Administración Pública Estatal, como consecuencia de los convenios que celebren para el ejercicio de sus funciones, de ejecución de obras o prestación de servicios públicos conforme a la ley de la materia;
 
@@ -139,9 +147,21 @@ X. Resolver las controversias que se susciten entre los particulares y la Admini
 
 XI. Emitir jurisprudencia y criterios orientadores en términos de lo establecido por la presente Ley;
 
-XII. Ejercer directamente su presupuesto aprobado por el Congreso, autorizar las adecuaciones presupuestales necesarias para su buen funcionamiento, realizar los pagos correspondientes, administrar su contabilidad y elaborar los informes y declaraciones en términos de la legislación aplicable; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XIII. Las demás que establezcan las disposiciones legales en materia de procedimientos, justicia administrativa, fiscal y responsabilidades administrativas, que las leyes de la materia establezcan.
+XII. Ejercer directamente su presupuesto aprobado por el Congreso, autorizar las adecuaciones presupuestales necesarias para su buen funcionamiento, realizar los pagos correspondientes, administrar su contabilidad y elaborar los informes y declaraciones en términos de la legislación aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Conocer de las controversias que resulten de cualquier acto materialmente administrativo cuya revisión no sea competencia exclusiva de otro órgano; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Garantizar la formación, capacitación y actualización del personal jurisdiccional y administrativo del Tribunal y de quienes aspiren a pertenecer a éste, y promover la profesionalización de las y los servidores públicos de la Administración Pública Estatal o Municipal y la ciudadanía en general ofreciendo estudios de posgrado, educación continua e investigación en las materias de su competencia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XV. Las demás que establezcan las disposiciones legales en materia de procedimientos, justicia administrativa, fiscal y responsabilidades administrativas, que las leyes de la materia establezcan.
 
 ###### ARTÍCULO 5.
 
@@ -181,13 +201,21 @@ b) Presidencia;
 
 c) Sala Superior;
 
-d) Primera Sala Unitaria Mixta;
+REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)
 
-e) Segunda Sala Unitaria Mixta;
+d) Primera Sala Unitaria;
 
-f) Primera Sala Unitaria Especializada en Controversias Administrativas entre los Municipios y sus Agencias; y
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-g) Segunda Sala Unitaria Especializada en Materia de Responsabilidades Administrativas y Combate a la Corrupción;
+e) Segunda Sala Unitaria;
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+f) Sala Unitaria Especializada en Controversias Administrativas entre los Municipios y sus Agencias; y
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+g) Sala Unitaria Especializada en Materia de Responsabilidades Administrativas y Combate a la Corrupción;
 
 II. Las siguientes unidades auxiliares a la tarea jurisdiccional:
 
@@ -205,11 +233,13 @@ f) Las demás que el Presidente o Pleno acuerde como necesarias.
 
 Las personas que ocupen los cargos previstos en los incisos del a) al f) tienen fe pública en lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego al principio de legalidad constitucional.
 
-III. Los siguientes Órganos Administrativos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+III. Los siguientes órganos administrativos
 
 a) Secretaría de Administración y Finanzas;
 
-b) Unidad de Transparencia; y
+b) (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2024)
 
 c) Dirección del Fondo para el Fortalecimiento de la Justicia Administrativa.
 
@@ -221,9 +251,25 @@ b) Secretaría particular;
 
 c) Coordinación de Comunicación Social y Difusión Oficial;
 
-d) Coordinación de Asistencia y Orientación Legal; y
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-e) Dirección Jurídica.
+d) Coordinación de Asistencia y Orientación Legal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+e) Órgano Interno de Control;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+f) Dirección Jurídica;
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+g) Centro Público de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa;
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+h) Unidad de Transparencia y Acceso a la Información Pública.
 
 La estructura, facultades y atribuciones de estas áreas no establecidas expresamente en esta Ley, se regularán en el Reglamento.
 
@@ -245,15 +291,21 @@ III. Aceptar o rechazar la renuncia al cargo de Presidente del Tribunal;
 
 IV. Adscribir a las y los Magistrados a las Salas Unitarias y Especializadas;
 
-V. Designar o remover a propuesta del Presidente, al Secretario General de Acuerdos, a la o el Coordinador de Asistencia y Orientación Legal y a la o el Director del Fondo para el Fortalecimiento de la Justicia Administrativa;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-VI. Resolver sobre las renuncias, remociones, e inhabilitación de servidores públicos del Tribunal en los términos de la Ley General de Responsabilidades Administrativas, y conceder licencias a las y los Magistrados, cuando proceda en cada caso;
+V. Designar o remover a propuesta del Presidente, al Secretario General de Acuerdos, al Coordinador de Asistencia y Orientación Legal, al Director del Fondo para el Fortalecimiento de la Justicia Administrativa y al Director del Centro Público de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VI. Resolver sobre las resoluciones derivadas de las inhabilitaciones de servidores públicos del Tribunal en los términos de la Ley General;
 
 VII. Presentar iniciativas de reforma a la Constitución Local y a las leyes secundarias relacionadas con la competencia del Tribunal, así como a las leyes administrativas estatales o municipales;
 
 VIII. Expedir y reformar los Reglamentos Internos del Tribunal;
 
-IX. Expedir y reformar el Reglamento del Servicio Profesional de Carrera Jurisdiccional Administrativa.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+IX. Conceder licencias a las y los Magistrados del Tribunal, cuando proceda en cada caso;
 
 X. Dictar las órdenes relacionadas con el ejercicio del presupuesto;
 
@@ -265,9 +317,15 @@ XIII. Habilitar un recinto alterno para sesionar cuando las condiciones y necesi
 
 XIV. Expedir mediante Acuerdos Generales, la regulación relativa a los expedientes digitales y notificación electrónica a las partes en los distintos procesos;
 
-XV. Crear a propuesta del Presidente las Comisiones Permanentes de Magistradas y Magistrados que sean necesarias, así como la integración de las mismas;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XVI. Las demás que le fijen esta Ley, su Reglamento y Acuerdos Generales.
+XV. Atendiendo a las necesidades para el buen funcionamiento del Tribunal, crear a propuesta del Presidente las Comisiones temporales o permanentes de Magistradas y Magistrados que sean necesarias, así como la integración de las mismas;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XVI. Ordenar el inicio de los procedimientos de revisión administrativa de oficio de los actos materialmente administrativos del Tribunal; ordenar al Presidente la substanciación y resolver los mismos en términos de lo establecido en la Ley de Procedimiento
+
+XVII. Las demás que le fijen esta Ley, su Reglamento y Acuerdos Generales.
 
 ### CAPÍTULO III. DE LAS SESIONES DEL PLENO
 
@@ -299,7 +357,9 @@ II. En la protesta del cargo de Presidente del Tribunal;
 
 III. Cuando el Presidente rinda el informe anual de actividades del Tribunal;
 
-IV. En la toma de posesión de las Magistradas y los Magistrados designados en términos del artículo 114 QUÁTER de la Constitución Local, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+IV. En la toma de posesión de las y los Magistrados designados en términos del artículo 114 QUINQUIES de la Constitución Local, y
 
 V. Todas aquellas que el Presidente del Tribunal considere que deben tener tal carácter.
 
@@ -331,9 +391,11 @@ El Pleno del Tribunal tiene la facultad de emitir los acuerdos que sean necesari
 
 Son materia de acuerdos todos aquellos asuntos administrativos que correspondan al Tribunal, que no se encuentren contenidos en esta Ley o en su Reglamento, o no se precise su regulación en disposición legal o que en su caso, los procedimientos que deban realizarse no estén contemplados en la Ley.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Los acuerdos serán tomados por mayoría en sesión del Pleno del Tribunal; las y los Magistrados tienen la obligación de participar en las proposiciones de los asuntos que sean motivo de tales acuerdos.
+Los acuerdos serán tomados por mayoría calificada en sesión del Pleno del Tribunal; las y los Magistrados tienen la obligación de participar en las proposiciones de los asuntos que sean motivo de tales acuerdos.
 
 ###### ARTÍCULO 17.
 
@@ -341,15 +403,19 @@ Los acuerdos, una vez aprobados por el Pleno deberán publicarse en los Medios O
 
 ### CAPÍTULO V. DEL PRESIDENTE DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-El Pleno del Tribunal elegirá de entre sus integrantes, mediante votación, a la o el Presidente, quien lo será del Pleno del Tribunal y de la Sala Superior durante un periodo de tres años, con posibilidad de ser reelecto para otro periodo igual.
+El Pleno del Tribunal elegirá de entre las y los integrantes de la Sala Superior, mediante votación, al Presidente, quien lo será del Pleno del Tribunal y de la Sala Superior durante un periodo de dos años, con posibilidad de ser reelecto para otro periodo igual.
 
 ###### ARTÍCULO 19.
 
 Son atribuciones y obligaciones del Presidente:
 
-I. Representar legalmente al Tribunal en los procesos en que este fuera parte, y rendir los informes previos y justificados, cuando en los juicios de amparo sea señalado como autoridad responsable, el Pleno del Tribunal o la Sala Superior, así como interponer los recursos correspondientes ante los Tribunales Estatales y Federales y designar delegados;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Representar legalmente al Tribunal en los procesos en que este fuera parte ante los Tribunales Estatales y Federales y designar delegados;
 
 II. Representar al Tribunal en todos los actos oficiales; esta representación podrá delegarse en la o el Magistrado del Tribunal que designe el propio Presidente;
 
@@ -361,7 +427,9 @@ V. Autorizar, conjuntamente con el Secretario General de Acuerdos, los acuerdos 
 
 VI. Proponer a las y los Magistrados del Pleno del Tribunal los proyectos de Acuerdos Generales conducentes al mejoramiento de la justicia administrativa;
 
-VII. Proponer al Pleno del Tribunal, el nombramiento de las o los Secretario de Estudio y Cuenta y de Acuerdos, así como de las personas Titulares de los Órganos Administrativos y Auxiliares;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VII. Otorgar el nombramiento de las o los Secretarios de Estudio y Cuenta y de Acuerdos, así como de las personas Titulares de los Órganos Administrativos y Auxiliares;
 
 VIII. Vigilar que la administración de justicia sea pronta y expedita;
 
@@ -389,9 +457,17 @@ XIX. Celebrar acuerdos y convenios con instituciones públicas o privadas sobre 
 
 XX. Designar a la o el Secretario que ejerza en funciones de Magistrado, en caso de ausencia temporal o definitiva de las o los Magistrados de Primera Instancia o del Pleno para que tramite y resuelva los asuntos de la Sala correspondiente, y participe en las sesiones que establece esta Ley;
 
-XXI. Designar a la o el Secretario que ejerza en funciones de Secretario General de Acuerdos, en caso de ausencia temporal o definitiva de este, para que tramite y resuelva en las sesiones que establece esta Ley; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XXII. Las demás que le confiera la Ley, el Reglamento y los Acuerdos Generales.
+XXI. Designar a la o el Secretario que ejerza en funciones de Secretario General de Acuerdos, en caso de ausencia temporal o definitiva de este, para que tramite y resuelva en las sesiones que establece esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XXII. Substanciar los procedimientos de revisión administrativa de oficio que le mandate el Pleno del Tribunal conforme a lo establecido en la Ley de Procedimiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Las demás que le confiera la Ley, el Reglamento y los Acuerdos Generales.
 
 ###### ARTÍCULO 20.
 
@@ -603,7 +679,13 @@ XI. Las demás que el Pleno del Tribunal, esta Ley, su Reglamento y demás norma
 
 Las Salas Unitarias del Tribunal son competentes para conocer y resolver de los juicios que se promuevan en contra de:
 
-I. Los actos y resoluciones emanados de las dependencias y entes de la Administración Pública Estatal o Municipal y cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravios a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 17 de la Ley de Procedimiento;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Los actos y resoluciones emanados de las dependencias y entes de la Administración Pública Estatal o Municipal y cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravios a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 17 de la Ley de Procedimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Las Salas también conocerán y resolverán de los juicios promovidos en contra de los actos materialmente administrativos emitidos por los Poderes y órganos autónomos del Estado -incluyendo del mismo Tribunal-, cuya revisión no sea competencia exclusiva de otro órgano;
 
 II. Las resoluciones dictadas por las autoridades fiscales estatales, municipales y de sus órganos descentralizados y desconcentrados, en que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de cantidades que procedan conforme a la Ley o cualquiera otra que cause agravios de carácter fiscal;
 
@@ -647,9 +729,11 @@ La o el Magistrado Titular de la Sala Unitaria Especializada tendrá las mismas 
 
 ### CAPÍTULO VII. DE LA SALA UNITARIA ESPECIALIZADA EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS Y COMBATE A LA CORRUPCIÓN
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 40.
 
-El Tribunal contará con una Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción, misma que demás de resolver y conocer de las hipótesis previstas en el artículo 37 y 38 de esta Ley, conocerá y resolverar (sic) de las faltas administrativas graves y de las resoluciones definitivas que se impongan en los procedimientos relativos a las faltas no graves en los términos que señale la Ley General de Responsabilidades Administrativas, y demás facultades que el Pleno del Tribunal le asigne; tendrá jurisdicción y competencia en el territorio del Estado de Oaxaca.
+El Tribunal contará con una Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción, misma que además de resolver y conocer de las hipótesis previstas en el artículo 37 y 38 de esta Ley, conocerá y resolverá de las faltas administrativas graves y de las resoluciones definitivas que se impongan en los procedimientos relativos a las faltas no graves en los términos que señale la Ley General y demás facultades que el Pleno del Tribunal le asigne.
 
 ###### ARTÍCULO 41.
 
@@ -669,7 +753,9 @@ La Sala Especializada tendrá a su cargo conocer y resolver de las responsabilid
 
 La Sala Especializada será competente para:
 
-I. Conocer, tramitar, resolver e imponer las sanciones en los procedimientos de responsabilidades administrativas de los servidores públicos de la Administración Pública Estatal, de los Municipios y órganos constitucionales autónomos, así como de particulares en términos de lo establecido en la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Conocer, tramitar, resolver e imponer las sanciones en los procedimientos de responsabilidades administrativas de los servidores públicos de la Administración Pública Estatal, de los Municipios y órganos constitucionales autónomos -incluyendo del mismo Tribunal-, así como de particulares en términos de lo establecido en la Ley General;
 
 II. Conocer y resolver del Recurso de Inconformidad relativo a la calificación de la falta atribuible al presunto infractor o particulares;
 
@@ -691,11 +777,37 @@ El Titular de la Sala Especializada en Materia de Responsabilidades Administrati
 
 ###### ARTÍCULO 45.
 
-Tratándose de las ausencias del Titular de Sala Especializada, la Sala Superior autorizará a una o un Secretaria de Acuerdos de la misma Sala para que tramite y resuelva los asuntos. En casos urgentes, queda facultada la Presidencia para efectuar la designación.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2024)
 
 ## TÍTULO CUARTO. DE LAS MAGISTRADAS Y MAGISTRADOS
 
 ### CAPÍTULO I. ASPECTOS GENERALES
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 45 BIS.- Para ser Magistrada o Magistrado de Sala Superior o de las Salas Unitarias de Primera Instancia del Tribunal de Justicia Administrativa del Estado de Oaxaca, se necesita:
+
+I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener cuando menos treinta años cumplidos el día de su nombramiento;
+
+III. Poseer el día del nombramiento una antigüedad mínima de cinco años y contar con título y cédula profesional de Licenciatura en Derecho expedidas por la autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación y/o abuso de confianza, será inelegible para el cargo cualquiera que haya sido la pena;
+
+V. Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
+
+VI. No haber sido titular de alguna Secretaría de Despacho, de la Fiscalía General del Estado de Oaxaca o alguna diputación local en el año anterior a su nombramiento.
+
+VII. No haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 45 TER.- Las designaciones y, en su caso, las ratificaciones de las personas que ocuparán las magistraturas del Tribunal, se realizarán en términos de lo establecido en el artículo 114 QUINQUIES de la Constitución Local.
+
+Serán realizadas preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad hasta el cuarto grado o por afinidad dentro del segundo.
 
 ###### ARTÍCULO 46.
 
@@ -753,6 +865,10 @@ La falta definitiva de una o un Magistrado dará lugar a que la Presidencia lo c
 
 Las y los Magistrados y demás servidores públicos del Tribunal, durante el tiempo de su ejercicio, estarán impedidos para litigar, asesorar a empresas o particulares, salvo causa propia; no podrán ocupar cargo alguno en partidos políticos ni desempeñar otro empleo, cargo o comisión, excepto la docencia o la investigación académica, siempre y cuando, no infiera en los horarios y responsabilidades del ejercicio de su Magistratura.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Las personas que hayan ocupado alguna magistratura de Sala Superior o de las Salas Unitarias de Primera Instancia del Tribunal, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos de dicho Tribunal.
+
 ## TÍTULO QUINTO. DE LAS PENSIONES DEL PERSONAL DEL TRIBUNAL
 
 ### CAPÍTULO ÚNICO. DE LAS PENSIONES
@@ -791,7 +907,9 @@ VIII. Llevar, en caso de ser necesario, mediante sistema informático y/o libros
 
 IX. Revisar los engroses de las resoluciones de la Sala Superior;
 
-X. Ejecutar los acuerdos del Pleno del Tribunal y de la Sala Superior, por conducto de las áreas involucradas;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+X. Ejecutar los acuerdos del Pleno del Tribunal, de la Presidencia y de la Sala Superior, por conducto de las áreas involucradas;
 
 XI. Realizar las notificaciones que se le encomienden, por el Pleno del Tribunal y la Sala Superior o la Presidencia, por sí mismo o por conducto del fedatario judicial designado;
 
@@ -891,11 +1009,11 @@ IX. Dar cumplimiento con los respectivos lineamientos para el uso del sistema de
 
 X. Las demás que deriven del ejercicio de las funciones que la ley les otorgue, las obligaciones que se les señalen expresamente, que les encomienden la Presidencia, la Sala Superior, las Salas Unitarias Mixtas y Especializadas, así como las que establezca el Reglamento, así como las que acuerde el Pleno del Tribunal.
 
-(NOTA: EL 5 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 59.
 
-El Secretario General de Acuerdos, las y los Secretarios de Estudio y Cuenta y de Acuerdos, así como las y los Actuarios, deberán contar con título y cédula profesional de Licenciado en Derecho, ser mexicanos, y no CONTAR CON ANTECEDENTES PENALES, NI ser deudor alimentario moroso, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
+El Secretario General de Acuerdos, las y los Secretarios de Estudio y Cuenta y de Acuerdos, así como las y los Actuarios, deberán contar con título y cédula profesional de Licenciatura en Derecho, ser mexicanos, y no ser deudores alimentarios morosos, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
 
 El Presidente del Tribunal o las y los Magistrados de las Salas Unitarias Mixtas y Especializadas, podrán habilitar personal para que practiquen las diligencias y notificaciones cuando la carga de trabajo así lo requiera, siempre y cuando, las personas habilitadas reúnan los requisitos precisados en el párrafo anterior.
 
@@ -963,9 +1081,11 @@ Para ser Coordinador de Asesores y Asesor, se requiere contar con título y céd
 
 ### CAPÍTULO II. DEL FONDO PARA EL FORTALECIMIENTO DE LA JUSTICIA ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 65.
 
-El Fondo para el Fortalecimiento de la Justicia Administrativa es parte del patrimonio del Tribunal y sus recursos se destinarán exclusivamente para una mejor administración que requieran los órganos jurisdiccionales y administrativos del Tribunal.
+La Dirección del Fondo para el Fortalecimiento de la Justicia Administrativa es parte del patrimonio del Tribunal y sus recursos se destinarán exclusivamente para una mejor administración que requieran los órganos jurisdiccionales y administrativos del Tribunal.
 
 Para el desempeño y cumplimiento de sus funciones, el Fondo contará además con el personal administrativo necesario que autorice el presupuesto de egresos. Su estructura, facultades y atribuciones se establecerán en el Reglamento.
 
@@ -979,9 +1099,17 @@ II. Los muebles y valores depositados por cualquier motivo ante el Tribunal, que
 
 III. El producto de los remates de los bienes embargados con motivo de la ejecución de multas u otro tipo de obligaciones impuestas por la Sala Superior, Salas Unitarias Mixtas y Especializadas de este Tribunal;
 
-IV. Los ingresos derivados de la expedición de copias certificadas, y;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-V. Fondo en custodia, constituido por los depósitos en efectivo o en valores que por cualquier causa se realicen o se hayan realizado ante el Tribunal.
+IV. Los ingresos derivados de la expedición de copias certificadas;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+V. Fondo en custodia, constituido por los depósitos en efectivo o en valores que por cualquier causa se realicen o se hayan realizado ante el Tribunal; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+VI. Otros ingresos previstos en el reglamento interior del Tribunal.
 
 Tratándose de valores en custodia que integran al Fondo, no podrán desafectarse.
 
@@ -1001,9 +1129,9 @@ II. Tener por lo menos treinta años de edad cumplidos al día del nombramiento 
 
 III. Tener título y cédula profesional de Licenciado en Administración Pública, Contaduría Pública, Actuaría o Economía; expedidos por la institución educativa y autoridad legalmente facultada para ello; y
 
-(NOTA: EL 5 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-IV. NO HABER SIDO CONDENADO POR LA COMISIÓN DE ALGÚN DELITO, EXCEPTO CULPOSO POR TRÁNSITO DE VEHÍCULO, SALVO QUE SE HAYA COMETIDO BAJO LOS INFLUJOS DEL ALCOHOL, DE ALGUNA DROGA O ENERVANTE.
+IV. No ser deudor alimentario moroso, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
 
 ###### ARTÍCULO 69.
 
@@ -1019,7 +1147,7 @@ IV. Realizar el trámite administrativo interno con los Secretarios de Acuerdos 
 
 ###### ARTÍCULO 70.
 
-Para ser Titular de las áreas administrativas anteriormente señaladas deberán cumplir con los requisitos que el Reglamento indique.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2024)
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
@@ -1037,9 +1165,9 @@ II. Tener por lo menos treinta años de edad cumplidos al día del nombramiento 
 
 III. Tener título y cédula profesional de licenciatura en: contaduría pública, administración pública o carreras afines; expedidos por la institución educativa y autoridad legalmente facultada para ello; y
 
-(NOTA: EL 5 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-IV. NO HABER SIDO CONDENADO O CONDENADA POR LA COMISIÓN DE ALGÚN DELITO, EXCEPTO CULPOSO POR TRÁNSITO DE VEHÍCULO, SALVO QUE SE HAYA COMETIDO BAJO LOS INFLUJOS DEL ALCOHOL, DE ALGUNA DROGA O ENERVANTE.
+IV. No ser deudor alimentario moroso, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
 
 ###### ARTÍCULO 72.
 
@@ -1111,9 +1239,9 @@ I. Ser ciudadano o ciudadana mexicana en pleno ejercicio de sus derechos políti
 
 II. Tener treinta años cumplidos al momento de su designación;
 
-(NOTA: EL 5 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2023, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-III. No haber sido condenado o condenada por DELITO INTENCIONAL QUE AMERITE PENA CORPORAL DE MÁS DE UN AÑO DE PRISIÓN O CUALQUIERA QUE HAYA SIDO LA PENA CUANDO SE TRATE DE robo, fraude, falsificación, abuso de confianza U OTRO QUE AFECTE LA BUENA FAMA EN EL CONCEPTO PÚBLICO;
+III. No ser deudor alimentario moroso, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
 
 IV. Contar al momento de su designación con experiencia profesional de al menos tres años en el control, manejo o fiscalización de recursos;
 
@@ -1179,11 +1307,17 @@ Para el correcto ejercicio de las atribuciones que le otorgan esta Ley y demás 
 
 I. Un Contralor o Contralora General, quien será el titular y representará a este Órgano Interno de Control;
 
-II. Una Jefatura de Auditoría, Organización y Métodos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-III. Una Jefatura de Investigación y Situación Patrimonial; y
+II. Jefatura de Investigación y Situación Patrimonial;
 
-IV. Una Jefatura de Responsabilidades.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+III. Jefatura de Substanciación; y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+IV. Jefatura de Responsabilidades Administrativas.
 
 Para el desempeño y cumplimiento de sus funciones, el Contralor o Contralora General y las áreas del Órgano Interno de Control contarán además con el personal administrativo necesario que autorice el presupuesto de egresos y conforme a las necesidades del servicio emanadas de la Ley General de Responsabilidades Administrativas y demás ordenamientos legales aplicables.
 
@@ -1203,17 +1337,29 @@ IV. Emitir opiniones técnicas jurídicas que le solicite el Pleno del Tribunal;
 
 V. Las demás que le encomiende el Presidente o el Pleno del Tribunal mediante Acuerdos Generales.
 
-(NOTA: EL 5 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 80.
 
-La o el Director Jurídico será nombrado directamente por el Presidente del Tribunal, y dependerá exclusivamente de este o del Pleno del Tribunal. Para ser Director Jurídico, se requiere contar con título y cédula profesional de Licenciado en Derecho, ser mexicanos, tener por lo menos tres años de experiencia en materias administrativa y fiscal, no CONTAR CON ANTECEDENTES PENALES, NI ser deudor alimentario moroso, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
+La o el Director Jurídico será nombrado directamente por el Presidente del Tribunal, y dependerá exclusivamente de este o del Pleno del Tribunal. Para ser Director Jurídico, se requiere contar con título y cédula profesional de Licenciado en Derecho, ser mexicanos, tener por lo menos tres años de experiencia en materias administrativa y fiscal y no ser deudor alimentario moroso, o en su caso cancelar la deuda que se tenga en términos de la legislación de la materia.
 
-### CAPÍTULO I. EL PROCEDIMIENTO DE INGRESO, PROMOCIÓN Y EVALUACIÓN DE LA CARRERA JURISDICCIONAL
+El Director Jurídico tendrá la facultad de expedir certificaciones de las constancias que obren en los expedientes o archivos del Tribunal.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO VI. DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 80 BIS.- El Centro Público de Mecanismos Alternativos de Solución de Controversias, como órgano especializado, ejercerá las facultades previstas en la Ley General de Mecanismos Alternativos de Solución de Controversias y en la legislación local en la materia.
+
+La persona titular, deberá reunir los requisitos previstos en los artículos 122 y 125 de la Ley General de la materia, y formará parte del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias de Justicia Administrativa.
+
+Las personas facilitadoras del Centro Público, ejercerán las funciones previstas en el artículo 123 y demás relativos de la Ley General de la materia.
 
 ## TÍTULO OCTAVO. DE LA CARRERA Y ÉTICA JURISDICCIONAL
 
-### CAPÍTULO II. DE LA ÉTICA JURISDICCIONAL
+### CAPÍTULO I. EL PROCEDIMIENTO DE INGRESO, PROMOCIÓN Y EVALUACIÓN DE LA CARRERA JURISDICCIONAL
 
 ###### ARTÍCULO 81.
 
@@ -1233,7 +1379,7 @@ IV. En caso de inconformidad contra las resoluciones de la comisión de Carrera 
 
 V. El recurso de revisión se deberá interponer ante la misma comisión, debiendo exponer los agravios, y anexar las pruebas correspondientes, si acaso no obran dentro del expediente. Se deberá presentar dentro del plazo de 5 días hábiles siguientes a la notificación de la resolución. Una vez recibido, la Comisión turnará al Pleno de la Sala Superior para su resolución, la cual será definitiva.
 
-### CAPÍTULO I. DE LOS PERIODOS VACACIONALES
+### CAPÍTULO II. DE LA ÉTICA JURISDICCIONAL
 
 ###### ARTÍCULO 82.
 
@@ -1241,19 +1387,25 @@ Los servidores públicos de este Tribunal están obligados a observar el Código
 
 ## TÍTULO NOVENO. DERECHOS, OBLIGACIONES Y RESPONSABILIDADES DE LAS Y LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS Y LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
+### CAPÍTULO I. DE LOS PERIODOS VACACIONALES
 
 ###### ARTÍCULO 83.
 
 Los servidores públicos del Tribunal tendrán cada año dos periodos vacacionales, mismos que se disfrutarán en la segunda quincena de los meses de julio y diciembre.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+El Presidente emitirá dentro de los primeros quince días de cada año, el calendario anual de labores del Tribunal. En dicho calendario, se establecerá la Sala Unitaria de Primera Instancia de guardia que funcionará en cada periodo vacacional para resolver situaciones jurídicas urgentes y conflictos que requieran de una atención inmediata. El Pleno del Tribunal mediante acuerdo podrá determinar los asuntos que deberán ser considerados como urgentes.
+
 Se suspenderán las labores y no correrán plazos, en los días referidos en el artículo 39 de la Ley de Procedimiento y en todos aquellos que acuerde la Presidencia.
 
 Solo por acuerdo de la Presidencia, se podrán suspender las labores generales del Tribunal y no correrán los plazos en los días que determine dicho órgano.
 
-El calendario anual de labores y los días inhábiles no contemplados en este artículo, se darán a conocer por los medios de difusión que dispone este Tribunal.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO III. DE LAS CORRECCIONES DISCIPLINARIAS
+El calendario anual de labores y los días inhábiles no contemplados en este artículo, se darán a conocer por los medios de difusión oficial que dispone este Tribunal.
+
+### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS Y LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
 
 ###### ARTÍCULO 84.
 
@@ -1323,7 +1475,7 @@ La contravención a estas disposiciones, será causa de responsabilidad y baja d
 
 Los Servidores Públicos y demás personal integrante del Tribunal serán trabajadores de confianza.
 
-### CAPÍTULO IV. DE LAS LICENCIAS PARA MAGISTRADAS, MAGISTRADOS Y DEMÁS PERSONAL DEL TRIBUNAL
+### CAPÍTULO III. DE LAS CORRECCIONES DISCIPLINARIAS
 
 ###### ARTÍCULO 89.
 
@@ -1354,6 +1506,8 @@ V. La importancia del daño causado.
 ###### ARTÍCULO 91.
 
 El Órgano de Control Interno siguiendo el procedimiento que establece el Reglamento, impondrá las sanciones a los servidores públicos, quienes podrán interponer el recurso de reconsideración ante el Pleno del Tribunal, en el plazo de cinco días, a partir de la fecha de notificación.
+
+### CAPÍTULO IV. DE LAS LICENCIAS PARA MAGISTRADAS, MAGISTRADOS Y DEMÁS PERSONAL DEL TRIBUNAL
 
 ###### ARTÍCULO 92.
 
@@ -1406,3 +1560,15 @@ SÉPTIMO. Para la instauración del procedimiento en controversias administrativ
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 13 de Septiembre de 2023.- Dip. Miriam de los Ángeles Vázquez Ruiz, Presidenta.- Dip. Nancy Natalia Benítez Zárate, Vicepresidenta.- Dip. Dennis García Gutiérrez, Secretaria.- Dip. María Luisa Matus Fuentes, Secretaria.- Dip. Elvia Gabriela Pérez López, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 14 de Septiembre de 2023. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Ing. Salomón Jara Cruz.- Rúbrica,- El Secretario de Gobierno. Ledo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2516.- MEDIANTE EL CUAL REFORMAN, LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 2, LA FRACCIÓN XI DEL ARTÍCULO 3, LAS FRACCIONES VII, XII Y XIII DEL ARTÍCULO 4, LOS INCISOS D), E), F) Y G) DE LA FRACCIÓN I Y LOS INCISOS D) Y E) DE LA FRACCIÓN IV DEL ARTÍCULO 7, LAS FRACCIONES V, VI, IX Y XV DEL ARTÍCULO 9, LA FRACCIÓN IV DEL ARTÍCULO 12, EL ARTÍCULO 16, EL ARTÍCULO 18, LAS FRACCIONES I, VII, XXI Y XXII DEL ARTÍCULO 19, EL ARTÍCULO 40, LA FRACCIÓN I DEL ARTÍCULO 43, LA FRACCIÓN X DEL ARTÍCULO 55, EL PRIMER PÁRRAFO DEL ARTÍCULO 59, EL PRIMER PÁRRAFO DEL ARTÍCULO 65, LAS FRACCIONES IV Y V DEL ARTÍCULO 66, LA FRACCIÓN IV DEL ARTÍCULO 68, LA FRACCIÓN IV DEL ARTÍCULO 71, LA FRACCIÓN III DEL ARTÍCULO 76, LAS FRACCIONES II, III, IV DEL ARTÍCULO 78, EL ARTÍCULO 80 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 83; SE ADICIONAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 4, LOS INCISOS E), F), G), H) A LA FRACCIÓN IV DEL ARTÍCULO 7, LA FRACCIÓN XVI AL ARTÍCULO 9, LA FRACCIÓN XXIII DEL ARTÍCULO 19, UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 38, LOS ARTÍCULO 45 BIS Y 45 TER AL CAPÍTULO I DEL TÍTULO CUARTO DENOMINADO “DE LAS MAGISTRADAS Y MAGISTRADOS”, UN PÁRRAFO SEGUNDO AL ARTÍCULO 52, LA FRACCIÓN VI AL ARTÍCULO 66, UN CAPÍTULO VI DENOMINADO “DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA DE JUSTICIA ADMINISTRATIVA” QUE CONTENDRÁ UN ARTÍCULO 80 BIS, UN PÁRRAFO SEGUNDO AL ARTÍCULO 83; SE DEROGAN EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 7, EL ARTÍCULO 45 Y EL ARTÍCULO 70, TODAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNA DEL JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA; Y SE REFORMAN EL ARTÍCULO 117 BIS, EL ARTÍCULO 117 TER, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 117 QUÁTER, PÁRRAFOS SEGUNDO Y ÚLTIMO DEL ARTÍCULO 117 QUINQUIES Y EL PÁRRAFO TERCERO DEL ARTÍCULO 117 SEXIES; SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 117 QUÁTER, Y UN PÁRRAFO TERCERO RECORRIÉNDOSE EL PÁRRAFO SUBSECUENTE AL ARTÍCULO 117 QUINQUIES, TODAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto serán tramitados y concluidos conforme a las disposiciones legales vigentes a su inicio.
