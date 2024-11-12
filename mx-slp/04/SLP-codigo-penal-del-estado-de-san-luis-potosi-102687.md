@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2024-09-09"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1857,37 +1857,41 @@ Si el suicida fuere menor de edad o enajenado mental, a quien lo ayude o instigu
 
 ### CAPÍTULO VI. Aborto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 148.
 
-Comete el delito de aborto quien causa la muerte del producto de la concepción en cualquier momento del embarazo.
+Comete el delito de aborto:
 
-Este delito se sancionará con las siguientes penas:
+I. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+II. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2024)
 
-I. A la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar se le impondrá una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+III. Quien interrumpa el embarazo de una mujer o persona gestante sin su consentimiento, sin importar la etapa gestacional. Esta conducta será sancionada con una pena de tres a ocho años de prisión y sanción pecuniaria de trescientos a ochocientos días del valor de la unidad de medida y actualización.
 
-II. Al que lo realice con el consentimiento de la mujer embarazada se le impondrá una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización, y
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-III. Al que lo realice sin el consentimiento de la mujer embarazada se le impondrá una pena de tres a ocho años de prisión y sanción pecuniaria de trescientos a ochocientos días del valor de la unidad de medida y actualización.
+IV. La mujer o persona gestante que voluntariamente interrumpa su embarazo o consienta que otra persona lo haga, después de las doce semanas de embarazo. Esta conducta será sancionada con una pena de 100 a 300 días de trabajo a favor de la comunidad. Esta conducta sólo será sancionada cuando se haya consumado.
 
 ###### ARTÍCULO 149.
 
-Al profesionista de la medicina o partero que cause el aborto se le impondrán las penas previstas en el artículo anterior y además será suspendido hasta por cinco años en el ejercicio de su profesión.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 150.
 
-Es excluyente de (sic) en el caso de aborto, cuando:
+Son excluyentes de responsabilidad penal del delito de aborto, cuando:
 
-I. Aquélla sea resultado de una acción culposa de la mujer embarazada;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Sea resultado de una acción culposa de la mujer o persona gestante, y
 
 II. El embarazo sea resultado de un delito de violación o inseminación indebida. En estos casos, no se requerirá sentencia ejecutoria sobre la violación o inseminación indebida, sino que bastará con la comprobación de los hechos, y
 
-III. De no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+III. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2024)
 
 ### CAPÍTULO VII. Violencia en Espectáculos Deportivos
 
@@ -5974,3 +5978,9 @@ P.O. 9 DE SEPTIEMBRE DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0007.- SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 148, ASÍ COMO EL PÁRRAFO PRIMERO Y FRACCIONES I Y II DEL ARTÍCULO 150; SE ADICIONA UNA FRACCIÓN, ESTA COMO IV, AL ARTÍCULO 148; Y DEROGA LAS FRACCIONES I Y II DEL ARTÍCULO 148, EL ARTÍCULO 149 Y LA FRACCIÓN III DEL ARTÍCULO 150, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto será vigente el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
