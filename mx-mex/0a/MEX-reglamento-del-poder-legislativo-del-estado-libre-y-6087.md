@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2024-05-02"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -45,9 +45,11 @@ Este reglamento es de orden público e interés general y tiene por objeto regul
 
 Para los efectos de este reglamento se entenderá por: "Constitución" a la Constitución Política del Estado Libre y Soberano de México; por "ley" a la Ley Orgánica del Poder Legislativo; por "reglamento" al Reglamento del Poder Legislativo; y por "ayuntamiento" al órgano de gobierno municipal electo popularmente o designado por la Legislatura.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 3.
 
-La Legislatura sesionará en el recinto legislativo o en el que por decreto así se declare.
+La Legislatura sesionará en el Recinto Legislativo o en el que por Decreto así se declare, de igual forma, podrá sesionar a distancia y en modalidad mixta, mediante el uso de las Tecnologías de la Información y Comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de internet oficial de la Legislatura, en la cual se deberá garantizar la correcta identificación de los integrantes, sus intervenciones, así como el sentido de su voto.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -792,6 +794,32 @@ n) En igualdad, equidad y cultura de paz en los rubros siguientes:
 o) De manera global, todos aquellos asuntos que estén relacionados de manera directa o indirecta, mediata o inmediata con niñas, niños, adolescentes y primera infancia;
 
 p) Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+XXXIX. La Comisión Para la Defensa de Derechos de las Poblaciones LGBTTIQ+ conocerá de los temas siguientes:
+
+a) De las iniciativas de ley, decreto o acuerdo, relacionadas con la defensa, protección y promoción de los derechos de las poblaciones LGBTTIQ+;
+
+b) De las iniciativas de ley, decreto o acuerdo, relacionadas con la prevención, atención y sanción de la discriminación y la violencia en contra de personas de las poblaciones LGBTTIQ+ en cualquiera de sus manifestaciones;
+
+c) Del seguimiento, implementación y evaluación de las políticas públicas y acciones legislativas relacionadas con la igualdad de género, la identidad de género y la no discriminación por orientación sexual;
+
+d) De las iniciativas de ley, decreto o acuerdo, relacionadas con la promoción de la inclusión social, educativa, laboral y cultural de las poblaciones LGBTTIQ+;
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+XL. La Comisión Para el Seguimiento al Plan de Desarrollo del Estado de México conocerá de los temas siguientes:
+
+a) De las iniciativas de ley, decreto o acuerdo relacionadas con la planeación, ejecución, y evaluación de los objetivos y metas establecidos en el Plan de Desarrollo del Estado de México;
+
+b) Del seguimiento y análisis de las políticas públicas estatales para verificar su alineación con las estrategias del Plan de Desarrollo del Estado de México;
+
+c) De la supervisión e implementación de mecanismos para la medición y cumplimiento de los indicadores de desarrollo incluidos en el Plan;
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1995,9 +2023,9 @@ I.- Auxiliar en el ejercicio de sus funciones, al Presidente de la Legislatura, 
 
 II.- Coordinar las actividades de las áreas administrativas a su cargo;
 
-> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-III.- Acordar con el Presidente de la Junta de Coordinación Política el despacho de los asuntos de su competencia, incluidos aquellos en que se delegue la representación de su competencia, para el ejercicio de sus funciones.
+III.- Acordar con la Presidencia de la Junta de Coordinación Política en el despacho de los asuntos de su competencia, incluidos aquellos en que se delegue la representación de su competencia, para el ejercicio de sus funciones, así como coadyuvar con la Persona Titular de la Secretaría Ejecutiva en lo relativo al cumplimiento de sus funciones y acordar con esta los asuntos que determine la Junta de Coordinación Política;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2181,6 +2209,10 @@ II Bis.- La persona titular de la Secretaría de Administración y Finanzas, asu
 
 III.- Brindar apoyo a órganos de la Legislatura y dependencias para su óptimo funcionamiento;
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+III Bis.- Coadyuvar con la Persona Titular de la Secretaría Ejecutiva en lo relativo al cumplimiento de sus funciones y acordar con esta los asuntos que determine la Junta de Coordinación Política;
+
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 IV.- Elaborar el anteproyecto de presupuesto de egresos del Poder Legislativo de acuerdo a los lineamientos de la Junta de Coordinación Política;
@@ -2315,9 +2347,9 @@ IV. Administrar en coordinación con la Secretaría de Administración y Finanza
 
 V. Brindar apoyo a las Dependencias del Poder Legislativo para la difusión de actividades legislativas, previo acuerdo del Comité de Comunicación Social;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-VI. Apoyar a la Junta de Coordinación Política en el acopio y difusión de información legislativa;
+VI. Apoyar a la Junta de Coordinación Política en el acopio y difusión de información legislativa, coadyuvando con la Persona Titular de la Secretaría Ejecutiva en lo relativo al cumplimiento de sus funciones y acordar con esta los asuntos que determine la Junta de Coordinación Política;
 
 > <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
@@ -2513,9 +2545,9 @@ IV. Firma autógrafa en equipo de firmado digital;
 
 V. Correo electrónico institucional;
 
-> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-VI. Solicitud autorizada por la Junta de Coordinación Política; y
+VI. Solicitud autorizada por la Secretaría Ejecutiva de la Junta de Coordinación Política; y
 
 > <small>(ADICIONADA, G.G. 13 DE MARZO DE 2024)</small>
 
@@ -3341,15 +3373,17 @@ La Comisión Legislativa Para la Protección de los Derechos de las Niñas, Niñ
 
 Se abrogan y/o derogan las disposiciones de igual o menor jerarquía.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232 POR EL QUE SE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 203 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+G.G. 12 DE NOVIEMBRE DE 2024.
 
-PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 4.- POR EL QUE SE REFORMA EL ARTÍCULO 17, EL ARTÍCULO 42, EL PRIMER PÁRRAFO DEL ARTÍCULO 43, LA FRACCIÓN XXI DEL ARTÍCULO 47, EL ARTÍCULO 52, LA FRACCIÓN XX DEL ARTÍCULO 62, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, IV Y V, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63 BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 72 BIS, EL ARTÍCULO 94 TER, Y LA FRACCIÓN I DEL ARTÍCULO 96 BIS; SE ADICIONAN LAS FRACCIONES VI, VII, VIII Y IX AL ARTÍCULO 63 BIS, Y LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL ARTÍCULO 3; LA FRACCIÓN III DEL ARTÍCULO 152; LA FRACCIÓN VI DEL ARTÍCULO 165 Y LA FRACCIÓN VI DEL ARTÍCULO 180; SE ADICIONAN LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 13 A, LA FRACCIÓN III BIS AL ARTÍCULO 160 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+SEGUNDO.- La elección de la Directiva se realizará en la sesión inmediata siguiente a la entrada en vigor del Decreto.
 
-P.O. 6 DE JUNIO DE 2025.
+TERCERO.- Para los efectos a que se refiere la presente y en relación con el artículo 42 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, la Asamblea de la “LXII” Legislatura elegirá la integración de la Directiva, incluyendo a la Persona Titular de la Presidencia que deberá concluir el año de ejercicio constitucional correspondiente, conforme a los términos de este Decreto y a los procedimientos establecidos para tales efectos.
+
+Las Personas Titulares de las Vicepresidencias y las Secretarías que resulten electas concluirán sus funciones el día cuatro de diciembre del año en curso.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 223, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO Y SE ADICIONA UN PÁRRAFO DEL ARTÍCULO 173 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
 
