@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2024-05-02"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -133,11 +133,11 @@ La Comisión Instaladora recibirá de los organismos electorales correspondiente
 
 La Comisión Instaladora citará a los diputados electos a una junta preparatoria dentro de los diez días anteriores al inicio del primer período ordinario de la Legislatura entrante.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-A más tardar el 4 de septiembre del año de renovación de la Legislatura, con intervención de la Comisión Instaladora, los diputados electos se reunirán y elegirán mediante votación por cédula y por mayoría de votos a la directiva, que se integrará por un Presidente, dos Vicepresidentes y tres Secretarios. El Presidente fungirá durante todo el período ordinario de sesiones y los demás integrantes serán renovados mensualmente.
+A más tardar el 4 de septiembre del año de renovación de la Legislatura, con intervención de la Comisión Instaladora, los diputados electos se reunirán y elegirán mediante votación por cédula y por mayoría de votos a la Directiva, que se integrará por una Presidencia, dos Vicepresidencias y tres Secretarías. La Persona Titular de la Presidencia fungirá durante todo el año del ejercicio constitucional, y presidirá los periodos ordinarios, extraordinarios y la Diputación Permanente que corresponda. Los demás integrantes de la Directiva serán renovados mensualmente.
 
 ###### Artículo 18.
 
@@ -497,23 +497,29 @@ Los órganos de la Legislatura serán integrados por diputados de diversos grupo
 
 ### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 42.
 
-La Directiva de la Legislatura se integra por una presidencia, dos vicepresidencias y tres secretarías. Las personas titulares de las vicepresidencias suplirán en sus faltas alternativamente a la titular en la presidencia y las secretarías a quienes ocupen la vicepresidencia. Su integración se realizará procurando el principio de paridad.
+La Directiva de la Legislatura se integra por una Presidencia, dos Vicepresidencias y tres Secretarías. Las Personas Titulares de las Vicepresidencias suplirán en sus faltas alternativamente a la Persona Titular en la Presidencia y las Secretarías a quienes ocupen la Vicepresidencia. Su integración se realizará procurando el principio de paridad. Las Personas Titulares de las Vicepresidencias podrán realizar las funciones de las Secretarías en ausencia de estas, cuando así lo acuerde la Presidencia.
 
-La persona titular de la presidencia será electa para todo el período ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. La persona titular de la Presidencia fungirá en su encargo por todo el período ordinario de sesiones, las demás personas integrantes fungirán por un mes. Quien ocupe la presidencia no podrá elegirse para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
+La Persona Titular de la Presidencia será electa por un año legislativo y presidirá los periodos ordinarios, extraordinarios y la Diputación Permanente, los demás integrantes de la Directiva serán renovados mensualmente. La elección se llevará a cabo mediante votación secreta. Las mismas disposiciones regirán para las Vicepresidencias y Secretarías en los periodos extraordinarios. Quien ocupe la Presidencia no podrá reelegirse para ocupar igual cargo durante el año de ejercicio constitucional siguiente.
 
-La persona que presida la Directiva, lo será también de la Legislatura.
+La Diputación Permanente será electa conforme lo dispuesto en esta Ley.
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+La persona que presida la Directiva, lo será también de la Legislatura del Congreso del Estado Libre y Soberano de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 43.
 
-Quienes integren la Directiva que presidirá la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
+Quienes integren la Directiva que presidirá la Legislatura al inicio del año de ejercicio constitucional y del primer mes del Periodo Ordinario o Extraordinario que corresponda en el caso de las Vicepresidencias y las Secretarías, serán electos en junta preparatoria dentro de los siete días previos al inicio del año de ejercicio constitucional o del Periodo Ordinario o Extraordinario según corresponda; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera Sesión.
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 La Directiva deberá integrarse preferentemente de manera plural y paritaria procurando nombrar a dos de las personas titulares de la secretaría de género contrario a quien ocupe la presidencia y a la otra, del mismo género de la presidencia, procurando a su vez que, quienes ocupen las vicepresidencias, sean una de cada género.
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión las personas titulares de las Vicepresidencias y Secretarías, para lo cual deberán elegirse dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir. En el caso del Segundo Período Ordinario de Sesiones, cuando el mes que corresponda no tenga treinta y un días, las personas titulares serán electas dentro de los siete días anteriores al primer día del mes siguiente o bien ese día; e iniciarán sus funciones el primer día del mes.
 
@@ -603,9 +609,9 @@ XIX. Nombrar las comisiones especiales de protocolo;
 
 XX. Adoptar las decisiones y medidas que se requieran para la organización y buena marcha del trabajo legislativo;
 
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-XXI. Dar cuenta a la Asamblea, al término del periodo ordinario o extraordinario de sesiones que presida, del desarrollo de los trabajos legislativos, y de los informes que emitan las comisiones legislativas;
+XXI. Dar cuenta a la Asamblea, al término del Segundo Periodo de Sesiones del año de ejercicio constitucional que corresponda, o del Periodo Extraordinario de Sesiones que presida, del desarrollo de los trabajos legislativos, y de los informes que emitan;
 
 > <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -683,13 +689,15 @@ Durante los recesos las comisiones legislativas y los comités continuarán func
 
 El Presidente de la Diputación Permanente les podrá turnar para su estudio iniciativas o asuntos.
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 52.
 
-La Diputación Permanente se integrará por una presidencia, una vicepresidencia, una secretaría y seis miembros más. Para cubrir la falta de los titulares se elegirán cinco suplentes.
+La Diputación Permanente se integrará por una Presidencia, una Vicepresidencia, una Secretaría y seis miembros más. Para cubrir la falta de las y los titulares se elegirán cinco suplentes.
 
-La elección de la Diputación Permanente se llevará a cabo en votación secreta debiendo integrarse preferentemente de manera plural y paritaria en términos similares a la Directiva.
+La Persona Titular de la Presidencia de la Directiva, presidirá la Diputación Permanente en los recesos del año del ejercicio constitucional que corresponda.
+
+La elección de la Vicepresidencia, la Secretaría, los seis miembros titulares y cinco miembros suplentes de la Diputación Permanente se llevará a cabo en votación secreta debiendo integrarse preferentemente de manera plural y paritaria en términos similares a la Directiva.
 
 ###### Artículo 53.
 
@@ -847,9 +855,9 @@ Cuando se considere que sea digno de reconocerse en el mismo año en que ya se h
 
 XIX. En representación de la Legislatura entregar y reconocer con base a la propuesta del acuerdo de la Comisión Legislativa competente, el Pergamino y la Medalla al Reconocimiento Docente, durante la tercera semana del mes de mayo de cada año a las maestras y los maestros que destaquen por su compromiso social a través de actividades relevantes que representen el enaltecimiento de la educación en el Estado de México, asimismo el otorgamiento de estímulos económicos.
 
-> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-XX. Autorizar los registros de las diputadas, diputados y personas servidoras públicas que cuentan con Firma Electrónica emitida por la Autoridad Certificadora del Poder Legislativo;
+XX.- Autorizar, por medio de la Secretaría Ejecutiva, los registros de las diputadas, diputados y personas servidoras públicas que cuentan con Firma Electrónica emitida por la Autoridad Certificadora del Poder Legislativo;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -893,21 +901,49 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos t
 
 La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-Artículo 63 BIS.- El Presidente de la Junta de Coordinación Política, designará un secretario técnico que tendrá las atribuciones siguientes:
+Artículo 63 BIS.- La Junta de Coordinación Política contará con una Secretaría Ejecutiva, cuya Persona Titular será designada por acuerdo de esta, a propuesta de su Presidencia, la cual tendrá las atribuciones siguientes:
 
-I. Asistir a las reuniones de la Junta de Coordinación Política;
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Preparar y asistir a las reuniones de la Junta de Coordinación Política;
+
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
 
 II. Integrar el orden del día de las reuniones de la Junta de Coordinación Política, de acuerdo con la instrucción del Presidente;
 
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+
 III. Elaborar las minutas de las reuniones de la Junta de Coordinación Política;
 
-IV. Dar seguimiento a los acuerdos emitidos por la Junta de Coordinación Política; y
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-V. Las demás que determine el Presidente y la Junta de Coordinación Política.
+IV. Comunicar los acuerdos emitidos por la Junta de Coordinación Política a las instancias correspondientes, así como dar seguimiento a dichos acuerdos;
 
-En cualquier momento el Presidente de la Junta de Coordinación Política podrá remover al Secretario Técnico, cuando así proceda.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+V. Dar seguimiento a las políticas y lineamientos que acuerde la Junta de Coordinación Política, en la prestación de los servicios legislativos, administrativos, así como en materia de transparencia y de comunicación social;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+VI. Fungir como enlace técnico con los grupos parlamentarios para tratar los temas relacionados con las funciones de la Junta de Coordinación Política;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+VII. Fungir como enlace técnico, para los asuntos de competencia de la Junta de Coordinación Política, entre ésta y el Órgano Superior de Fiscalización, la Contraloría del Poder Legislativo, y el Instituto de Estudios Legislativos;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Desempeñar las funciones de vinculación técnica que permitan al Congreso del Estado de México promover la participación activa de los entes públicos en el quehacer legislativo, y fortalecer sus capacidades técnicas a través de la colaboración interinstitucional con los mismos, sin menoscabo de las facultades reservadas al Presidente de la Directiva;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+IX. Las demás que se establezcan en la Ley, el Reglamento, o que determinen el Presidente y la Junta de Coordinación Política.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+La Persona Titular de la Secretaría Ejecutiva durará en su encargo los tres años que correspondan al periodo constitucional, y podrá ser sustituida por acuerdo de la Junta de Coordinación Política.
 
 > <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1181,6 +1217,14 @@ XXXVII. Para el Combate a la Corrupción.
 
 XXXVIII. Para la Protección de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia.
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+XXXIX. Para la Defensa de Derechos de las Poblaciones LGBTTIQ+;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+XL. Para el Seguimiento al Plan de Desarrollo del Estado de México.
+
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura. En la asignación de presidencias de las comisiones legislativas y comités, se deberá procurar la paridad de género, de tal manera que los Grupos Parlamentarios no pierdan su representación plural y proporcional en ellas.
@@ -1215,11 +1259,11 @@ Durante el Proceso Legislativo, las comisiones de manera preferente, generarán 
 
 Para el cumplimiento de esta función el pleno de cada comisión legislativa podrá constituir subcomisiones de trabajo con el objeto de agilizar y especializar la labor de dictaminación.
 
-> <small>(REFORMADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 72 Bis.
 
-Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Periodo Ordinario de cada Legislatura, observarán para su conducción las reglas aplicables a la Legislatura en Pleno, deberán reunirse en sesión plenaria por lo menos una vez al mes siempre y cuando tengan encomendadas iniciativas o asuntos y entregarán a la Directiva y Junta de Coordinación Política un informe trimestral de sus actividades realizadas.
+Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Periodo Ordinario de cada Legislatura, observarán para su conducción las reglas aplicables a la Legislatura en Pleno, deberán reunirse en Sesión Plenaria cuantas veces sea necesario para el desahogo de los asuntos de su competencia y entregarán a la Directiva y a la Junta de Coordinación Política un informe de los dictámenes que se hayan aprobado al término de cada Periodo Ordinario.
 
 (ADICIONADO, G.G. 21 DE DICIEMBRE DE 2018) (F. DE E., G.G. 1 DE FEBRERO DE 2019)
 
@@ -1567,9 +1611,9 @@ Las personas servidoras públicas adscritas a las Dependencias y Órganos del Po
 
 (DEROGADO, G.G. 7 DE JULIO DE 2020)
 
-> <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
-Artículo 94 TER.- La Legislatura contará con un Comité de Información, que será presidido por el Presidente de la Junta de Coordinación Política o por quien él designe, y se integrará de acuerdo a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+Artículo 94 TER.- La Legislatura contará con un Comité de Transparencia, que se integrará, funcionará y tendrá las atribuciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 > <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
 
@@ -1611,7 +1655,9 @@ La Junta de Coordinación Política podrá constituir la Mesa Técnica, como un 
 
 Funcionará de manera colegiada y en su integración, se observará la representación de la pluralidad de la Legislatura y serán miembros de la Mesa Técnica:
 
-I. Permanentes: La Secretaría de Asuntos Parlamentarios; el Secretario Técnico de la Junta de Coordinación Política; el Coordinador de Enlace Parlamentario o su equivalente que será designado por la Junta de Coordinación Política; los Coordinadores de Asesores de los diferentes grupos parlamentarios o sus equivalentes;
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
+I. Permanentes: La Secretaría de Asuntos Parlamentarios; la Secretaría Ejecutiva de la Junta de Coordinación Política; el Coordinador de Enlace Parlamentario o su equivalente que será designado por la Junta de Coordinación Política a propuesta de la Persona Titular de su Presidencia; los Coordinadores de Asesores de los diferentes grupos parlamentarios o sus equivalentes;
 
 II. Temporales: Los titulares de las dependencias que integran la Legislatura y los Secretarios Técnicos de las Comisiones o Comités Legislativos, cuando se requiera un informe o apoyo técnico; e
 
@@ -2746,3 +2792,15 @@ La Comisión Legislativa Para la Protección de los Derechos de las Niñas, Niñ
 ###### ARTÍCULO CUARTO.
 
 Se abrogan y/o derogan las disposiciones de igual o menor jerarquía.
+
+G.G. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 4.- POR EL QUE SE REFORMA EL ARTÍCULO 17, EL ARTÍCULO 42, EL PRIMER PÁRRAFO DEL ARTÍCULO 43, LA FRACCIÓN XXI DEL ARTÍCULO 47, EL ARTÍCULO 52, LA FRACCIÓN XX DEL ARTÍCULO 62, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, IV Y V, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63 BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 72 BIS, EL ARTÍCULO 94 TER, Y LA FRACCIÓN I DEL ARTÍCULO 96 BIS; SE ADICIONAN LAS FRACCIONES VI, VII, VIII Y IX AL ARTÍCULO 63 BIS, Y LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL ARTÍCULO 3; LA FRACCIÓN III DEL ARTÍCULO 152; LA FRACCIÓN VI DEL ARTÍCULO 165 Y LA FRACCIÓN VI DEL ARTÍCULO 180; SE ADICIONAN LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 13 A, LA FRACCIÓN III BIS AL ARTÍCULO 160 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- La elección de la Directiva se realizará en la sesión inmediata siguiente a la entrada en vigor del Decreto.
+
+TERCERO.- Para los efectos a que se refiere la presente y en relación con el artículo 42 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, la Asamblea de la “LXII” Legislatura elegirá la integración de la Directiva, incluyendo a la Persona Titular de la Presidencia que deberá concluir el año de ejercicio constitucional correspondiente, conforme a los términos de este Decreto y a los procedimientos establecidos para tales efectos.
+
+Las Personas Titulares de las Vicepresidencias y las Secretarías que resulten electas concluirán sus funciones el día cuatro de diciembre del año en curso.
