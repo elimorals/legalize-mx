@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2023-12-27"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -99,11 +99,15 @@ La Legislatura determinará los montos a distribuir a los municipios de las part
 
 Los municipios podrán dirigir sus inconformidades a la Legislatura del Estado respecto de la aplicación de la presente Ley. La Legislatura resolverá las inconformidades en los términos que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 6.
 
-En la distribución de participaciones y aportaciones federales a cada municipio corresponde a la Legislatura actualizar los cálculos que con base en las fórmulas establecidas en esta Ley.
+En la distribución de participaciones y aportaciones federales a cada municipio, corresponde a la Legislatura actualizar los cálculos con base en las fórmulas establecidas en esta Ley.
 
-Para el desarrollo de las fórmulas para la distribución de participaciones y aportaciones federales establecidas en esta Ley, se utilizará la información estadística más reciente publicada por el Instituto Nacional de Estadística, Geografía e Informática; así como la información que sobre recaudación de ingresos federales, estatales y municipales deberán proporcionar la Secretaría y los municipios a la Legislatura.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+Para el desarrollo de las fórmulas para la distribución de participaciones y aportaciones federales establecidas en esta Ley, se utilizará la información estadística más reciente publicada por el Instituto Nacional de Estadística y Geografía, por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, así como, por la información que sobre recaudación de ingresos federales, estatales y municipales deberán proporcionar la Secretaría y los municipios a la Legislatura.
 
 La Secretaría proporcionará la asesoría y el apoyo para la elaboración de los cálculos a que se refiere esta Ley, si así lo requiere la Legislatura a través de las Comisiones respectivas; a las que les proporcionará la información que al respecto obre en su poder.
 
@@ -169,6 +173,8 @@ a) 50% con base en el Índice Municipal de Pobreza (IMP), y
 
 b) 50% con base en el Coeficiente de Participación Municipal (CPM).
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
 El Índice Municipal de Pobreza (IMP) considera las siguientes variables:
@@ -181,27 +187,17 @@ c) Población que habita en viviendas particulares sin disponibilidad de drenaje
 
 d) Población que habita en viviendas particulares sin disponibilidad de electricidad.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 Para calcular las participaciones que conforme al Índice Municipal de Pobreza (IMP) correspondan a cada municipio se desarrollará la siguiente fórmula:
 
-IMP¡= Ri1B1+Ri2B2+Ri3B3+Ri4B4
+> <small>[N. DE E. VÉASE FÓRMULA EN LA G.O. DE 30 DE DICIEMBRE DE 1999, PÁGINA 4.]</small>
 
-Donde:
-
-Ri1...4= Rezago asociado a cada una de las cuatro necesidades básicas consideradas por el IMP en el i-ésimo municipio con respecto al rezago estatal en esa misma necesidad.
-
-B1...4= Ponderador cuyo valor es 0.25 en cada uno de los rezagos.
-
-Variables:
-
-R1= Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos.
-
-R2 = Población de 15 años o más que no sabe leer y escribir.
-
-R3 = Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle.
-
-R4= Población que habita en viviendas particulares sin disponibilidad de electricidad.
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA, G.O. 12 DE NOVIEMBRE DE 2024, PÁGINAS DE LA 3 A LA 4.]</small>
 
 Una vez determinado el IMP para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 12.
 
@@ -213,31 +209,13 @@ b) Recaudación de impuestos, derechos y contribuciones por mejoras del municipi
 
 Los impuestos, derechos y contribuciones por mejoras a que se refiere este artículo, son los que se establecen en la Ley de Hacienda Municipal incluyendo la recuperación de los rezagos, sin considerar los accesorios y gastos de ejecución.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 Para calcular las participaciones federales que conforme al Coeficiente de Participación Municipal (CPM) correspondan a cada municipio se desarrollará la siguiente fórmula:
 
-Bi
+> <small>[N. DE E. VÉASE FÓRMULA EN LA G.O. DE 30 DE DICIEMBRE DE 1999, PÁGINA 4.]</small>
 
-CPM i t = ________
-
-TB
-
-Donde:
-
-CPM i t= Coeficiente de participación del municipio i-ésimo en el año para el cual se efectúa el cálculo.
-
-TB = Suma de Bi
-
-(CPM i t-1) (RID i t-1)
-
-Bi=____________________
-
-RID i t-2
-
-CPM i t-1 = Coeficiente de participación del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
-
-RID i t-1 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
-
-RID i t-2 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el segundo año inmediato anterior a aquel para el cual se efectúa el cálculo.
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA, G.O. 12 DE NOVIEMBRE DE 2024, PÁGINA 5.]</small>
 
 Una vez determinado el CPM para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
 
@@ -245,17 +223,13 @@ Los municipios informarán a la Legislatura dentro de los tres primeros meses de
 
 El órgano de fiscalización de la Legislatura podrá comprobar la veracidad de la información señalada en el párrafo anterior y, en su caso, se efectuarán los ajustes correspondientes a las participaciones.
 
-> <small>(ADICIONADO [N. DE E. CON SUS FÓRMULAS], G.O. 28 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 El 30% del excedente del Fondo de Fomento Municipal determinado, informado y ministrado a la Entidad por la Secretaría de Hacienda y Crédito Público, en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre el total de municipios que tengan celebrado convenio de coordinación fiscal con el Gobierno del Estado de Veracruz de Ignacio de la Llave en materia de impuesto predial, mediante la fórmula siguiente:
 
 > <small>[N. DE E. VEÁSE FÓRMULA EN LA G.O. DE 28 DE DICIEMBRE DE 2021, PÁGINA 6.]</small>
 
-CPFFM i t = Coeficiente de Participación del Fondo de Fomento Municipal del Municipio i-ésimo en el año para el cual se efectúa el cálculo, para la distribución del 30% del excedente del Fondo de Fomento Municipal, siempre y cuando tenga firmado con el Gobierno del Estado convenio de coordinación para el cobro del impuesto predial.
-
-Bi= Coeficiente de participación municipal en el año actual para el cual se efectúa el cálculo.
-
-TB= Suma de Bi
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA, G.O. 12 DE NOVIEMBRE DE 2024, PÁGINAS DE LA 5 A LA 6.]</small>
 
 ###### Artículo 13.
 
@@ -807,11 +781,13 @@ La Secretaría de conformidad con la Constancia de Compensación de Participacio
 
 De la Distribución de los Recursos provenientes del Fondo Para Entidades Federativas y Municipios Productores de Hidrocarburos correspondiente a Regiones Marítimas
 
-> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 18 Bis.
 
-Los recursos provenientes del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos correspondientes al Estado de Veracruz, a que hace referencia la Ley de Ingresos sobre Hidrocarburos, ingresarán a través de la Secretaría.
+Los recursos provenientes del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos correspondientes al Estado de Veracruz de Ignacio de la Llave, a que hace referencia la Ley de Ingresos sobre Hidrocarburos, ingresarán a través de la Secretaría.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 28 DE JUNIO DE 2016)</small>
 
 En el caso de áreas contractuales y de asignación que se ubiquen en regiones marítimas, los recursos se distribuirán a los municipios que registren daño al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos y que incluye los veinticinco municipios del Estado de Veracruz de Ignacio de la Llave, identificados como costeros en el Marco Geoestadístico Nacional 2015 del Instituto Nacional de Estadística y Geografía (INEGI), conforme a lo siguiente:
 
@@ -819,9 +795,15 @@ I. Se estimará el impacto relativo del daño en el entorno social de cada munic
 
 II. Se estimará el impacto relativo del daño ecológico de cada municipio en proporción directa a su longitud de litoral de acuerdo con el Marco Geoestadístico 2015 del INEGI; los municipios costeros de los que no es posible considerar este dato, únicamente se tomará en consideración la información referida a la población.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2024)</small>
+
 En tal caso, los factores para tal fin serían:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN LA G.O. DE 28 DE JUNIO DE 2016, PÁGINA 4.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA, G.O. 12 DE NOVIEMBRE DE 2024, PÁGINA 6.]</small>
+
+> <small>(ADICIONADO [N. DE E. CON SU TABLA], G.O. 28 DE JUNIO DE 2016)</small>
 
 De esta manera, los factores de distribución resultantes de aplicar la fórmula propuesta serían:
 
@@ -1770,3 +1752,13 @@ G.O. 27 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 749 QUE REFORMA LOS ARTÍCULOS 6, 11, 12 Y 18 BIS DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se deroga cualquier otra disposición de igual o menor jerarquía que se oponga al presente Decreto.
