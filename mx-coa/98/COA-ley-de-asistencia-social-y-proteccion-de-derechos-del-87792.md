@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2023-12-08"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -253,17 +253,17 @@ XIII. Las carentes de capacidad para satisfacer sus requerimientos básicos de s
 
 XIV. Personas que por su extrema ignorancia requieran de los servicios de asistencia, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XV. Las personas con VIH-SIDA; y
+XV. Las personas con VIH-SIDA, o con padecimientos oncológicos;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XVI. Personas con padecimientos crónicos u oncológicos, cuya situación económica y de salud no le (sic) permita valerse por sí misma (sic).
+XVI. Las víctimas, en los términos del artículo 3° de la Ley de Víctimas para el Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
-XVII. Las demás personas consideradas en otras disposiciones jurídicasaplicables (sic).
+XVII. Las demás personas en condición de especial vulnerabilidad consideradas en otras disposiciones jurídicas.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -310,6 +310,10 @@ IX. De acciones para reforzar la paternidad y maternidad responsable, que propic
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
 X. De los programas sociales y atención otorgados por el Estado, tendientes a mejorar el desarrollo individual de los sujetos.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+
+XI. Del derecho a la memoria de las víctimas, en los términos del artículo 3° de la Ley de Víctimas para el Estado de Coahuila de Zaragoza.
 
 B. De prevención:
 
@@ -1578,3 +1582,15 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 561.- SE REFORMAN LA FRACCIÓN II, ADICIONANDO UN INCISO E), ASÍ COMO LA FRACCIÓN XVI, RECORRIENDO LAS SUBSECUENTES, TODAS DEL ARTÍCULO 6 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicaciónen (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 119.- SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 65 Y 66, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 6, SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 6 Y LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 10, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE BECAS Y APOYOS FINANCIEROS PARA LA EDUCACIÓN DEL ESTADO DE COAHUILA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, Y LA FRACCIÓN VII DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 4, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LAS FRACCIONES III, IV Y VIII DEL ARTÍCULO 26; SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY ESTATAL DE EDUCACIÓN; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
