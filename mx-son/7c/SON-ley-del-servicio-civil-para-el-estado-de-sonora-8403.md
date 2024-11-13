@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2024-07-08"
+last_updated: "2024-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -213,17 +213,23 @@ La jornada diaria de trabajo podrá prestarse en una o dos sesiones y dentro de 
 
 Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, cuando menos, con goce de salario íntegro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE NOVIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 26.
+
+Las mujeres disfrutarán de cuatro semanas de descanso con goce de salario íntegro, previas a la fecha que aproximadamente se fije en caso de parto o adopción, así como de diez semanas de descanso adicionales posteriores al parto o a la adopción de niña o niño menor a dos años de edad; en caso de la muerte fetal o perinatal, las madres trabajadoras tendrán derecho al mismo número de semanas de descanso posteriores al parto. A partir de la semana once hasta la semana veinte, las mujeres trabajadoras percibirán el cincuenta por ciento de su salario, este último goce de salario podrá ser complementado con otro cincuenta por ciento adicional por trabajo de medio tiempo. Para los efectos de este pago, se reconocen como formas de trabajo las actividades laborales llevadas a cabo en un lugar distinto al centro de trabajo, sin ser necesaria su presencia física, mediante el uso de tecnologías de la información y comunicación, bajo la modalidad de teletrabajo, siempre y cuando la naturaleza y tipo de actividad laboral en la que desempeñe la madre trabajadora permita su realización de manera completa y eficaz a fin de proteger y fomentar la crianza con apego y la lactancia materna benéfica para la madre e hija o hijo.
+
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
-
-###### ARTICULO 26.
-
-Las mujeres disfrutarán de cuatro semanas de descanso con goce de salario íntegro, previas a la fecha que aproximadamente se fije en caso de parto o adopción, así como de diez semanas de descanso adicionales posteriores al parto o a la adopción de niña o niño menor a dos años de edad; a partir de la semana once hasta la semana veinte, las mujeres trabajadoras percibirán el cincuenta por ciento de su salario, este último goce de salario podrá ser complementado con otro cincuenta por ciento adicional por trabajo de medio tiempo. Para los efectos de este pago, se reconocen como formas de trabajo las actividades laborales llevadas a cabo en un lugar distinto al centro de trabajo, sin ser necesaria su presencia física, mediante el uso de tecnologías de la información y comunicación, bajo la modalidad de teletrabajo, siempre y cuando la naturaleza y tipo de actividad laboral en la que desempeñe la madre trabajadora permita su realización de manera completa y eficaz a fin de proteger y fomentar la crianza con apego y la lactancia materna benéfica para la madre e hija o hijo.
 
 En el caso de las mujeres trabajadores (sic) que decidan complementar su trabajo con salario de medio tiempo para amamantar a sus bebés, será requisito indispensable asistir y recibir la constancia correspondiente, a talleres informativos y de capacitación acerca de la lactancia y técnicas para un correcto amamantamiento. Las constancias de asistencia se presentarán ante la Unidad Administrativa correspondiente del lugar de trabajo.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 Durante el periodo de lactancia correspondiente a los primeros seis meses de vida de la o el recién nacido, las mujeres que decidan regresar tiempo completo a sus labores gozarán de dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijas o hijos, o en su caso el tiempo equivalente acordado por la autoridad responsable. Esta actividad se realizará en un lugar digno, privado, higiénico, adecuado y accesible, que designe la institución o dependencia, y tendrán acceso a capacitación y fomento para la lactancia materna y amamantamiento, recibiendo información oportuna y comprensible sobre el inicio, mantenimiento y beneficios, promoviendo a que la leche materna sea alimento exclusivo, durante seis meses y complementario hasta avanzado el segundo año de vida.
 
-Los servidores públicos disfrutarán de un periodo de descanso o licencia con goce de sueldo con motivo del nacimiento de su hijo o de adopción, en términos que determinen las disposiciones legales vigentes que reglamenten las relaciones laborales del Estado.
+> <small>(REFORMADO, B.O. 13 DE NOVIEMBRE DE 2024)</small>
+
+Los servidores públicos disfrutarán de un periodo de descanso o licencia con goce de sueldo con motivo del nacimiento de su hijo o de adopción, en los términos que determinen las disposiciones legales vigentes que reglamenten las relaciones laborales del Estado, en caso de muerte fetal o perinatal, disfrutarán, en las mismas condiciones de esta licencia.
 
 > <small>(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1378,3 +1384,11 @@ El presente Decreto entrará en vigor a partir de su publicación en el Boletín
 ###### ARTÍCULO SEGUNDO.
 
 La presente reforma se aplicará a las demandas que sean presentadas ante el Tribunal de Justicia Administrativa del Estado de Sonora, con posterioridad a la entrada en vigor de esta reforma.
+
+B.O. 13 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 179, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, Y DE LA LEY DE SERVICIO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
