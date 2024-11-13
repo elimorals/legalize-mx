@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2024-11-11"
+last_updated: "2024-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -663,9 +663,9 @@ Cualquier persona podrá denunciar ante las autoridades sanitarias del Estado to
 
 La atención materno-infantil tiene carácter preferente y comprende las siguientes acciones:
 
-> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2024)</small>
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio, brindando especial atención a la transmisión del VIH/Sida y otras infecciones de transmisión sexual en mujeres embarazadas, a fin de evitar la transmisión perinatal;
+I. La atención de la mujer durante el embarazo, el parto y el puerperio, incluyendo los casos en los que haya muerte fetal o perinatal. Se deberá de brindar especial atención a la transmisión del VIH/Sida y otras infecciones de transmisión sexual en mujeres embarazadas, a fin de evitar la transmisión perinatal;
 
 > <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -691,35 +691,47 @@ ARTICULO 50 BIS.- Los hospitales, clínicas, nosocomios y demás establecimiento
 
 ARTICULO 50 BIS 1.- Los servicios de salud a que hace referencia el artículo 50 Bis de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencia (sic) obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
+> <small>(ADICIONADO, B.O. 13 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 50 BIS 2.- Durante el trabajo de parto y el puerperio, incluyendo los casos en los que haya muerte fetal o perinatal, las mujeres tendrán derecho a ser acompañadas por la persona de su confianza y elección, salvo por razones de seguridad sanitaria o porque se derive de ello un riesgo clínicamente justificado, en cuyo caso deberá facilitarse la comunicación remota.
+
 ###### ARTICULO 51.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad general.
+
+> <small>(REFORMADO, B.O. 13 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 52.
 
 Las autoridades sanitarias, las educativas y las laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Los programas para padres, destinados a promover la atención materno-infantil;
+I.- Los programas para madres y padres, destinados a promover la atención materno-infantil;
 
-II. Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las personas menores de edad y de las mujeres embarazadas;
 
-> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas y de desechos;
 
-IV. Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas y de desechos;
+V.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar en los centros de trabajo de los sectores público y privado, apoyen la instalación de salas de lactancia.
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+En casos de muerte fetal o perinatal, las mujeres tendrán derecho a recibir información suficiente, clara, oportuna y veraz, así como la orientación necesaria tanto de los procesos de inhibición fisiológica o farmacológica de la lactancia como de los correspondientes a la donación de leche humana;
 
-V.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante 13 seis (sic) meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+VI.- Establecer, de acuerdo con la suficiencia presupuestal, la instalación de un banco de leche humana en algún establecimiento de salud que cuente con servicios neonatales. Dicho banco deberá de contar con los protocolos necesarios para recibir leche humana de mujeres en periodo de lactancia que tengan un excedente de producción láctea, así como mujeres con pérdida fetal o perinatal;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+VII.- Acciones para la atención integral y multidisciplinaria de la muerte fetal y perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen, en términos de la normatividad que para tal efecto emita la Secretaría de Salud.
 
-VI.- Las demás que coadyuven a la protección de la salud materno-infantil; y
+Se deberá de colocar a la paciente en una habitación o área separada, su expediente o habitación deben distinguirse de alguna manera que permita alertar al personal de salud o familiares que están ante un caso de muerte fetal y perinatal. Las adecuaciones a la infraestructura hospitalaria derivadas de la implementación de protocolos se realizarán atendiendo a la capacidad presupuestaria de los Servicios de Salud del Estado.
 
-> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+Las autoridades sanitarias capacitarán al personal profesional, auxiliar y técnico de la salud para abordar integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal.
 
-VII.- La prevención y control de la salud sexual y de los embarazos en las niñas y adolescentes en el Estado.
+VIII.- Acciones para abordar, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal.
+
+El destino de los restos del feto fallecido, será decisión de los padres, en términos de la Ley General de Salud y demás normatividad aplicable.
+
+IX.- La prevención y control de la salud sexual y de los embarazos en las niñas y adolescentes en el Estado; y
+
+X.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -3826,3 +3838,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Estado, tendrá un plazo de 90 días a partir de la entrada en vigor del presente Decreto para expedir la reglamentación correspondiente e implementar una base de datos, para el control de los registros de las donaciones y las pólizas del programa de seguro de sangre individual.
+
+B.O. 13 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 179, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, Y DE LA LEY DE SERVICIO CIVIL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
