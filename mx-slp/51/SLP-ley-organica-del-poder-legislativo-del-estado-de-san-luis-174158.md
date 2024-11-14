@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2024-08-21"
+last_updated: "2024-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -425,7 +425,9 @@ e) Cuenta de las iniciativas agendadas en la Gaceta, así como los acuerdos para
 
 f) Asuntos generales, y
 
-II. Extraordinarias. Aquéllas que no hayan sido citadas al término de una sesión ordinaria; o que no se encuentren establecidas por acuerdo del Pleno o de la Conferencia previamente. Se llevarán a cabo cuando haya que tratar algún asunto urgente o extraordinario; éstas serán citadas por quien ocupe la Presidencia de la Diputación Permanente, con por lo menos veinticuatro horas de anticipación y únicamente podrán tratarse los asuntos especificados en la convocatoria la que será leída al inicio de las mismas.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2024)</small>
+
+II. Extraordinarias: Aquéllas que no hayan sido citadas al término de una sesión ordinaria, cuando a juicio de quien ocupe la Presidencia de la Directiva haya que tratar algún asunto urgente.
 
 ###### ARTÍCULO 33.
 
@@ -1845,9 +1847,11 @@ El Congreso del Estado instituye el servicio parlamentario de carrera para sus t
 
 ### CAPÍTULO IV. De la Gaceta Parlamentaria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 144.
 
-El Congreso del Estado contará con un órgano de notificación denominado Gaceta Parlamentaria, dependiente de la Directiva; que se publicará en el portal del Congreso del Estado y enviará, vía electrónica, a las y los legisladores, con por lo menos cuarenta y ocho horas de anticipación a la fijada para la sesión de que se trate, tanto en los periodos ordinarios como en extraordinarios del Congreso del Estado.
+El Congreso del Estado contará con un órgano de notificación denominado Gaceta Parlamentaria, dependiente de la Directiva; que se publicará en el portal del Congreso del Estado y enviará, vía electrónica, a las y los legisladores, con por lo menos cuarenta y ocho horas de anticipación a la fijada para la sesión de que se trate, tanto en los periodos ordinarios como en extraordinarios del Congreso del Estado, con excepción de las sesiones extraordinarias conforme a lo establecido en la presente Ley y en el Reglamento.
 
 En ella se publicarán, en uno o varios apartados según corresponda:
 
@@ -1930,3 +1934,11 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0008.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32 Y EL ARTÍCULO 144, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 16, LA FRACCIÓN VI DEL ARTÍCULO 52 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 70, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
