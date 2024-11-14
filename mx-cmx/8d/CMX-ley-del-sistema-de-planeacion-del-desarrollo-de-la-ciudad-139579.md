@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-planeacion-del-desarrollo-de-la-ciudad-13957
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-20"
-last_updated: "2021-09-02"
+last_updated: "2024-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-18"
 
 LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 20 de diciembre de 2019.
 
@@ -474,7 +474,21 @@ La persona titular de la Jefatura de Gobierno remitirá al Congreso diez nombres
 
 Las personas integrantes no podrán ser designadas a ningún cargo del Instituto durante la gestión de la persona en cuya designación participaron.
 
-En caso de falta definitiva de alguna de las personas integrantes del Comité de Selección, la persona titular de la Jefatura de Gobierno enviará una propuesta de dos nombres al Congreso para que designe a la persona sustituta que terminará el periodo correspondiente.
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2024)</small>
+
+En caso de falta definitiva de alguna o algunas de las personas integrantes del Comité de Selección, la persona titular de la Jefatura de Gobierno enviará, por cada caso, una propuesta de dos nombres al Congreso para que designe a la persona sustituta que terminará el periodo correspondiente.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2024)</small>
+
+Para la renovación de las personas integrantes del Comité de Selección, cuyo periodo de designación haya concluido, se seguirá el procedimiento de convocatoria establecido en el primer párrafo del presente artículo. Para tal efecto, la persona titular de la Jefatura de Gobierno enviará al Congreso una nueva propuesta con hasta dos nombres por cada designación.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2024)</small>
+
+En caso de que se produzca la falta definitiva de todas las personas integrantes del Comité de Selección, se deberá seguir el procedimiento para su conformación, tal como se establece en los primeros dos párrafos del presente artículo.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2024)</small>
+
+Para las postulaciones señaladas en el presente artículo, la persona titular de la Jefatura de Gobierno observará el criterio de paridad de género.
 
 El Comité de Selección funcionará de manera colegiada y establecerá por mayoría simple el mecanismo para la selección de las personas que integrarán la terna para ocupar el cargo de la Dirección General. Dicha terna será remitida al Congreso dentro de los quince días naturales posteriores a la instalación del Comité. Sólo sesionará cuando se requiera llevar a cabo un proceso de nombramiento.
 
@@ -1129,3 +1143,15 @@ PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicació
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 14 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO; SE ADICIONAN LOS PÁRRAFOS QUINTO, SEXTO Y SÉPTIMO, RECORRIENDO EN SU ORDEN EL SUBSECUENTE, DEL ARTÍCULO 28 DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La nueva convocatoria para la elección del Comité de Selección deberá emitirse en un plazo no mayor a 60 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
