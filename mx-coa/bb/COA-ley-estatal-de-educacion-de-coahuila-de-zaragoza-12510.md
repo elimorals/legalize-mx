@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2024-11-12"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -117,9 +117,9 @@ V.- Fomentar una conciencia de respeto a los derechos de las personas y de la so
 
 VI.- Procurar las condiciones necesarias para la erradicación de las desigualdades sociales y contribuir de esta manera a la construcción y desarrollo de una sociedad con mejores condiciones de vida;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
 
-VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología en atención a los requerimientos de la sociedad; fomentando entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a Ias (sic) mejores prácticas como herramienta apropiada, así como prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet; en los niveles de educación básica de primaria y secundaria, se deberá cuidar que el uso de dispositivos móviles de comunicación y de navegación en internet no sean usados como distractor durante el tiempo destinado para la impartición de horas efectivas de clases.
+VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología en atención a los requerimientos de la sociedad, fomentando entre los educandos su inclusión en las tecnologías de la información como las competencias digitales, la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas como herramienta apropiada, así como prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet; en los niveles de educación básica de primaria y secundaria, se deberá cuidar que el uso de dispositivos móviles de comunicación y de navegación en internet no sean usados como distractor durante el tiempo destinado para la impartición de horas efectivas de clases;
 
 VIII.- Impulsar actitudes de respeto al medio ambiente y de responsabilidad solidaria con las generaciones presentes y futuras;
 
@@ -145,9 +145,9 @@ XII.- Impulsar la práctica de la democracia como forma de gobierno y sistema de
 
 XIII.- Fomentar la cultura de la transparencia y el acceso a la información; y
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
 
-XIV.- Fomentar en el individuo la cultura de la informática y alfabetización digital orientada al desarrollo de tecnologías basadas en las ciencias computacionales como herramientas para la movilidad social, así como una segunda lengua, sin menoscabo de la enseñanza del español;
+XIV.- Fomentar la inclusión de los educandos en la cultura de la informática y la adquisición de competencias digitales orientada al desarrollo de tecnologías basada en las ciencias computacionales como herramientas para la movilidad social, así como una segunda lengua, sin menoscabo de la enseñanza del español;
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
 
@@ -255,7 +255,9 @@ XVI.- Distribuir en forma oportuna, completa, amplia y eficiente los libros de t
 
 XVII.- Impulsar permanentemente la investigación que posibilite la innovación y el desarrollo educativo,
 
-XVIII.- Crear y fomentar programas de educación para adultos, de alfabetización y de formación para el trabajo y la productividad, en coordinación con el gobierno federal y los municipios;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+XVIII.- Crear y fomentar programas de educación para adultos, de alfabetización y de formación para el trabajo y la productividad, promoviendo la capacitación en el uso de tecnologías digitales de información y comunicación, en coordinación con el gobierno federal y los municipios;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
@@ -489,7 +491,9 @@ Para cumplir con lo dispuesto en el artículo anterior, la autoridad educativa e
 
 I.- Atender de manera especial las escuelas ubicadas en localidades aisladas o zonas urbanas marginadas, para que sus posibilidades de desempeño educativo sean las mismas que las de aquéllas que tengan acceso a condiciones favorables;
 
-II.- Establecer los programas tendientes a mejorar la infraestructura física de los planteles escolares que se encuentren en zonas marginadas o aisladas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+II.- Establecer los programas tendientes a mejorar la infraestructura física, tecnológica y de conectividad de los planteles escolares que se encuentren en zonas marginadas o aisladas;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
@@ -505,15 +509,17 @@ V.- Promover el establecimiento de instituciones que apoyen en forma continua y 
 
 VI.- Brindar el servicio a quienes abandonaron el sistema educativo regular y se encuentren en situación de rezago educativo para que puedan terminar como mínimo la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
 
-VII.- Establecer, fortalecer y promover modalidades de educación a distancia;
+VII.- Establecer, fortalecer, promover y facilitar modalidades de educación a distancia;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2024)</small>
 
 VIII.- Desarrollar programas y llevar a cabo acciones encaminadas a otorgar becas y apoyos económicos para el ingreso y permanencia de personas estudiantes de escasos recursos y familiares de personas desaparecidas, de conformidad con las leyes en la materia y demás disposiciones aplicables, en todos los niveles de educación básica, media superior y superior, inclusive en instituciones educativas a las que la ley les otorga autonomía.
 
-IX.- Desarrollar actividades educativas que tiendan a elevar los niveles culturales y de bienestar de la población que vive en localidades aisladas o en condiciones de marginación;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+IX.- Desarrollar actividades educativas que tiendan a elevar los niveles culturales y de bienestar, así como las competencias digitales la población que vive en localidades aisladas o en condiciones de marginación;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1027,9 +1033,11 @@ XI.- Desarrollar en el futuro docente, una conciencia ecológica para que pueda 
 
 ### CAPITULO VII. DE LA EDUCACIÓN PARA ADULTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 58.
 
-La educación para adultos estará destinada a proporcionar dicho servicio a las personas mayores de 15 años que no hayan cursado o concluido la educación básica. Dicha educación permitirá adquirir, transmitir, acrecentar la cultura y fortalecer la conciencia de unidad entre los diversos sectores de la población. Comprenderá las actividades dirigidas a la alfabetización, la primaria y la secundaria.
+La educación para adultos estará destinada a proporcionar dicho servicio a las personas mayores de 15 años que no hayan cursado o concluido la educación básica. Dicha educación permitirá adquirir, transmitir, acrecentar la cultura, abatir los rezagos sociales y fortalecer la conciencia de unidad entre los diversos sectores de la población. Comprenderá las actividades dirigidas a la alfabetización, de la educación básica y el desarrollo de competencias digitales, la primaria y la secundaria.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -2188,3 +2196,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 116.- SE REFORMA LA FRACCIÓN VII Y XIV DEL ARTÍCULO 7; LA FRACCIÓN XVIII DEL ARTÍCULO 9; LA FRACCIÓN II, VII Y IX DEL ARTÍCULO 26, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 58, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
