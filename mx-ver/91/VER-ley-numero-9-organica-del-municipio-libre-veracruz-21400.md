@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2024-03-07"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -387,11 +387,11 @@ II. Las comunicaciones que, con nota de reservado, que lo ameriten, le dirijan a
 
 III. Las solicitudes de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 33.
 
-Durante el mes de diciembre, la Presidenta o el Presidente Municipal deberá rendir a la ciudadanía y al Ayuntamiento, un informe sobre el estado que guarda la administración pública municipal y en el que prioritariamente especifique las acciones emprendidas para dar cumplimiento a objetivos, proyectos y metas establecidos en el Plan Municipal de Desarrollo, así como a los Objetivos de Desarrollo Sostenible de la Agenda 2030. Dicho acto se realizará en Sesión pública y solemne de Cabildo y su contenido íntegro deberá publicarse, a más tardar al día siguiente de su presentación, en los medios de difusión con los que cuente el Ayuntamiento.
+Durante el mes de diciembre o, en su caso, en fecha que no corresponda a ese mes, acordada por el Cabildo, la Presidenta o el Presidente Municipal deberá rendir a la ciudadanía y al Ayuntamiento un informe sobre el estado que guarda la administración pública municipal y en el que prioritariamente especifique las acciones emprendidas para dar cumplimiento a objetivos, proyectos y metas establecidos en el Plan Municipal de Desarrollo, así como a los Objetivos de Desarrollo Sostenible de la Agenda 2030. Dicho acto se realizará en Sesión Pública y Solemne de Cabildo y su contenido íntegro deberá publicarse, a más tardar al día siguiente de su presentación, en los medios de difusión con los que cuente el Ayuntamiento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
@@ -723,7 +723,9 @@ XIX. Ordenar al personal del Ayuntamiento la ejecución de los trabajos a su car
 
 XX. Supervisar por sí o a través del Síndico o del Regidor que designe, el funcionamiento de las dependencias del Ayuntamiento;
 
-XXI. Rendir al Ayuntamiento, en el mes de diciembre, un informe anual sobre el estado que guarda la administración pública municipal;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+XXI. Rendir al Ayuntamiento, en el mes de diciembre, o en su caso, en fecha que no corresponda a ese mes, acordada por el Cabildo, un informe anual sobre el estado que guarda la administración pública municipal;
 
 XXII. Promover la educación cívica y la celebración de ceremonias públicas conforme al calendario cívico oficial;
 
@@ -4608,3 +4610,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se concede un plazo de noventa días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus Reglamentos u otros ordenamientos para dar cumplimiento a lo previsto en este Decreto.
+
+G.O. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 750 QUE REFORMA LOS ARTÍCULOS 33 Y 36 FRACCIÓN XXI DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
