@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2024-09-13"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -1990,9 +1990,9 @@ La Secretaría aprobará los procedimientos y requisitos para la emisión de la 
 
 Las licencias para conducir expedidas por la Secretaría serán:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2024)</small>
 
-I. a) Tipo A.- Para la conducción de automóviles particulares, con vigencia de tres años, además es válida para conducir automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas;
+I. a) Tipo A.- Para la conducción de automóviles particulares, con vigencia de tres años, o permanente, misma que es válida para conducir automóviles clasificados como transporte particular que no excedan de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas;
 
 > <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -2100,19 +2100,35 @@ III. Comprobante de domicilio de la Ciudad de México o Estado de México; este 
 
 IV. Clave Única del Registro de Población (CURP), este requisito podrá ser cubierto con la Credencial para votar emitida por la autoridad competente, siempre que ésta cuenta con la CURP de la persona interesada; y
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2024)</small>
 
-V. Acreditación de evaluaciones correspondientes, de conformidad con lo dispuesto en el artículo 230 de la Ley de Movilidad de la Ciudad de México.
+V. Comprobante de acreditación de evaluaciones correspondientes, de conformidad con lo dispuesto en los artículos 65 y 230 de la Ley de Movilidad de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO TERCERO AL ARTÍCULO], G.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+Para el caso de la expedición de la licencia para conducir Tipo A con vigencia permanente a que se refiere el artículo 126, fracción I, inciso a) de este Reglamento, además de los requisitos establecidos en las fracciones anteriores, la persona interesada deberá cumplir con lo siguiente:
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+VI. Contar con antecedente de licencia para conducir Tipo A expedida previamente por la Secretaría, en cuyo caso no será necesario acreditar las evaluaciones a que se refiere la fracción V. En caso de que la persona interesada no cuente con el antecedente referido, podrá obtener dicha licencia siempre que acredite las evaluaciones correspondientes, de conformidad con lo dispuesto en los artículos 65 y 230 de la Ley de Movilidad de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+VII. No haber sido sancionada en más de una ocasión por conducir vehículos motorizados bajo los efectos del alcohol y/o narcóticos, en los términos del Reglamento de Tránsito.
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+VIII. No haber sido sentenciada de manera definitiva por autoridad competente en hechos de tránsito causados por negligencia, impericia, falta de cuidado o irresponsabilidad que tengan como consecuencia la pérdida de la vida o lesiones a terceros.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES PÁRRAFO TERCERO DE ESTE ARTÍCULO], G.O. 15 DE NOVIEMBRE DE 2024)</small>
 
 En ese mismo sentido, y para el caso de que lo considere adecuado, la persona interesada podrá obtener la versión digital de su licencia mediante la plataforma electrónica que la Secretaría determine, en cuyo caso, deberá cumplir con los requisitos, formatos y mecanismos que la propia Secretaría establezca. En caso de que la persona interesada opte por la realización del trámite de forma digital, se tendrá por manifiesta su voluntad de obtener una versión digital de su licencia para conducir.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 127 Bis.
 
-La persona titular de la Licencia para Conducir Tipo A, Tipo A1, y Tipo A2, podrá solicitar su reposición en caso de mutilación, deterioro de la imagen, datos ilegibles, robo o extravío; misma que se tramitará únicamente por el tiempo que falte para la expiración del documento.
+La persona titular de la Licencia para Conducir Tipo A, Tipo A1, y Tipo A2, podrá solicitar su reposición en caso de mutilación, deterioro de la imagen, datos ilegibles, robo o extravío; misma que se tramitará con la misma vigencia del documento a reponer.
 
 > <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -3799,3 +3815,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Secretaría de Movilidad contará con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para llevar a cabo la publicación del Aviso mencionado en el artículo 100, fracción I del Reglamento de la Ley de Movilidad de la Ciudad de México.
 
 CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
+
+G.O. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE LICENCIAS PARA CONDUCIR".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. Las licencias para conducir tipo A con vigencia permanente, establecidas en la fracción I, inciso a) del artículo 126, serán expedidas a partir del 16 de noviembre de 2024 y hasta el 31 de diciembre de 2025, por lo que se realizarán las modificaciones normativas pertinentes una vez que dicho periodo concluya, sin que ello implique que las licencias emitidas durante el mismo pierdan su validez.
+
+CUARTO. Las Licencias Tipo A con vigencia permanente expedidas conforme al Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial del entonces Distrito Federal, el 30 de diciembre de 2003, mantendrán su carácter permanente.
+
+QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
