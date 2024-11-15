@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2024-10-31"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -476,11 +476,11 @@ El organismo al que se refiere esta fracción, contará con un Consejo Ciudadano
 
 X. La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
 ###### Art. 4o.
 
-La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia.
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -549,6 +549,10 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, acce
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
 
 El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural del país. La Ley establecerá la concurrencia de la Federación, entidades federativas, Municipios y demarcaciones territoriales de la Ciudad de México, para esos efectos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
+
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en los artículos 21, párrafo noveno y 73, fracción XXI, penúltimo párrafo de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1040,9 +1044,9 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconocer la jurisdicción de la Corte Penal Internacional.
 
-> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
-La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
+La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4o. de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
 
 > <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1914,9 +1918,9 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados y la Ciudad de México, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de cada Estado y de la Ciudad de México, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
-La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas. En la integración de los organismos autónomos se observará el mismo principio.
+Los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas y Municipios, deberán observar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
@@ -2740,7 +2744,9 @@ b) La legislación que establezca los delitos y las faltas contra la Federación
 
 c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
 
-Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta. También podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos del fuero común relacionados con las violencias de género contra las mujeres, en términos de las leyes correspondientes.
 
 En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales;
 
@@ -4948,9 +4954,13 @@ Los Estados estarán facultados para celebrar esos convenios con sus Municipios,
 
 VIII.- Las Constituciones de los Estados establecerán organismos autónomos, especializados, imparciales y colegiados, responsables de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
 
-> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
-IX.- Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+IX. Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
+
+Para proteger el derecho de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
 
 > <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
@@ -5160,7 +5170,9 @@ La investigación, substanciación y sanción de las responsabilidades administr
 
 IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo 116 de esta Constitución y las leyes generales correspondientes.
 
-X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
+
+X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos.
 
 XI. Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo 123 de esta Constitución y sus leyes reglamentarias.
 
@@ -5240,7 +5252,9 @@ Los salarios mínimos generales deberán ser suficientes para satisfacer las nec
 
 Los salarios mínimos se fijarán por una comisión nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la que podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 
-VII.- Para trabajo igual debe corresponder salario igual, sin tener en cuenta sexo ni nacionalidad.
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
+
+VII.- A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 VIII.- El salario mínimo quedará exceptuado de embargo, compensación o descuento.
 
@@ -5530,9 +5544,9 @@ IV.- Los salarios serán fijados en los presupuestos respectivos sin que su cuan
 
 En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en las entidades federativas.
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
-V.- A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo;
+V.- A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género;
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -9353,3 +9367,13 @@ D.O.F. 31 DE OCTUBRE DE 2024.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Los asuntos que se encuentren en trámite deberán resolverse conforme a las disposiciones contenidas en el presente Decreto.
+
+D.O.F. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 4o., 21, 41, 73, 116, 122 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE IGUALDAD SUSTANTIVA, PERSPECTIVA DE GÉNERO, DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y ERRADICACIÓN DE LA BRECHA SALARIAL POR RAZONES DE GÉNERO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 90 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+Tercero.- Las entidades federativas deberán armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 180 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
