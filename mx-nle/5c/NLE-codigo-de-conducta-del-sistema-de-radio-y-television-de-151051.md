@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-sistema-de-radio-y-television-de-151051"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-09-08"
-last_updated: "2021-09-08"
+last_updated: "2024-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA DE RADIO Y TELEVISION DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2024 ( ABROGADO).
 
 Código publicado en el No. 110 del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2021.
 
@@ -422,3 +424,15 @@ Con fundamento en lo establecido en el artículo 21, fracción I, VI y XXII de l
 La Directora General del Sistema de Radio y Televisión de Nuevo León
 
 C. Susana Valdés Levy
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE (SIC) SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN".]
+
+Primero.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga el Código de Conducta del Sistema de Radio y Televisión de Nuevo León, publicado en el periódico oficial del día 8-ocho de septiembre de 2021-dos mil veintiuno.
+
+Tercero.- Una vez hecho lo anterior, hágase del conocimiento a las personas servidoras públicas del Sistema de Radio y Televisión de Nuevo León, para su debido cumplimiento, debiéndose girar las instrucciones pertinentes para difundirse en la página oficial de internet.
