@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2024-11-01"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2024.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -175,11 +175,11 @@ III. TERCER CIRCUITO:
 
 > <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 10/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE AGOSTO DE 2024)</small>
 
-3.Treinta y un juzgados de Distrito especializados: siete en materia penal con residencia en Puente Grande; ocho en materia administrativa, siete con residencia en Zapopan y uno con sede en Puente Grande; ocho en materia civil con residencia en Zapopan; y ocho en materia de trabajo, siete con sede en Zapopan y uno con residencia en Puente Grande.
+3. Treinta y un juzgados de Distrito especializados: siete en materia penal con residencia en Puente Grande; ocho en materia administrativa, siete con residencia en Zapopan y uno con sede en Puente Grande; ocho en materia civil con residencia en Zapopan; y ocho en materia de trabajo, siete con sede en Zapopan y uno con residencia en Puente Grande.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 2 DEL ACUERDO GENERAL 22/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
-4. Dos Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
+4. Dos Juzgados de Distrito en Materia Mercantil Federal, Especializados en Juicios Orales, con residencia en Zapopan, Jalisco.
 
 IV. CUARTO CIRCUITO:
 
@@ -1554,6 +1554,10 @@ XXI. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Mor
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
 XXII. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 21/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
+
+XXII. Bis. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -11314,3 +11318,29 @@ TERCERO. El Cuarto Tribunal Colegiado en Materia Penal, el Sexto Tribunal Colegi
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado de los órganos jurisdiccionales que cambian de residencia y domicilio.
 
 QUINTO. Se deroga cualquier disposición contraria a lo contenido en el presente Acuerdo.
+
+D.O.F. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 21/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN E INICIO DE FUNCIONES DEL TERCER TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE MORELOS, CON SEDE EN CUERNAVACA; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca, a que se refiere el presente Acuerdo General, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del Sistema Integral de Gestión de Expedientes, y al sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los mencionados Tribunales Laborales Federales de asuntos individuales en el Estado de Morelos, con sede en Cuernavaca.
+
+D.O.F. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 22/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DE LOS JUZGADOS DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR, CON RESIDENCIA EN ZAPOPAN, JALISCO A LA DENOMINACIÓN DE JUZGADOS DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE JALISCO, ESPECIALIZADOS EN JUICIOS ORALES, CON RESIDENCIA EN ZAPOPAN; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal, en Intranet e Internet.
+
+TERCERO. Los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Jalisco, Especializados en Juicios Orales, con sede en Zapopan; así como la respectiva Oficina de Correspondencia Común que le prestará servicio, fijarán avisos en lugar visible con relación a la medida objeto del presente Acuerdo.
+
+CUARTO. Las menciones hechas en otros Acuerdos Generales y normatividad del Consejo de la Judicatura Federal a los Juzgados Tercero y Sexto de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con sede en Zapopan, Jalisco, se entenderán referidas a los Juzgados Primero y Segundo de Distrito en Materia Mercantil Federal en el Estado de Jalisco, Especializados en Juicios Orales, respectivamente.
