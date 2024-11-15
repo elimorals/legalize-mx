@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-firma-electronica-avanzada-del-estado-de-oaxaca-117408"
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-15"
-last_updated: "2016-10-15"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de octubre de 2016.
 
@@ -49,7 +49,9 @@ La presente ley es de orden público e interés general y tiene por objeto regul
 
 La instrumentación de la firma electrónica avanzada tiene por objeto simplificar y facilitar los actos y procedimientos administrativos entre los sujetos obligados del sector público, los particulares y las relaciones que mantengan entre sí.
 
-Para la tramitación y substanciación de los actos y procedimientos administrativos en que se haga uso de la firma electrónica, además de lo contenido en la presente Ley y su reglamento, deberá observarse lo dispuesto la Ley de Justicia Administrativa del Estado.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+Para la tramitación y substanciación de los actos y procedimientos administrativos en que se haga uso de la firma electrónica, además de lo contenido en la presente Ley y su reglamento, deberá observarse en (sic) lo dispuesto de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### Artículo 2.
 
@@ -81,7 +83,9 @@ II. Actuaciones electrónicas: las notificaciones, citatorios, emplazamientos, r
 
 III. Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de sistemas de información para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos a que se refiere esta Ley;
 
-IV. Autoridad Certificadora: A la Comisión Estatal de Mejora Regulatoria, que será la encargada de vincular al firmante con el uso de la Firma Electrónica Avanzada en las operaciones que realice, administrar la parte tecnológica del procedimiento y ejercer el proceso de autenticidad;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+IV. Autoridad Certificadora: A la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca, área administrativa de la Secretaría de Desarrollo Económico, que será la encargada de vincular al firmante con el uso de la Firma Electrónica Avanzada en las operaciones que realice, administrar la parte tecnológica del procedimiento y ejercer el proceso de autenticidad;
 
 V. Agente Certificador: A la persona designada por cada una de las Dependencias, entidades y organismos que integran la Administración Pública Estatal, así como de los Ayuntamientos, que deberá ser acreditada por la Autoridad Certificadora, para prestar los servicios relacionados con la Firma Electrónica Avanzada.
 
@@ -117,7 +121,9 @@ IV. Conservación, un mensaje de datos posee una existencia permanente y es susc
 
 V. Confidencialidad, es la característica que existe cuando la información permanece controlada y es protegida de su acceso y distribución no autorizada.
 
-VI. Integridad, se considera que el contenido de un mensaje de datos es integro cuando ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+VI. Integridad, se considera que el contenido de un mensaje de datos es íntegro cuando ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
 
 VII. No Repudio: la firma electrónica avanzada contenida en documentos electrónicos, garantiza la autoría e integridad del documento y que dicha firma corresponde exclusivamente al firmante.
 
@@ -131,11 +137,15 @@ Quedan exceptuados de la aplicación de esta Ley, los actos o procedimientos, qu
 
 Los particulares podrán solicitar a las dependencias y entidades de la administración pública estatal los trámites y servicios con respecto de su competencia que sean ofrecidos a través de los medios electrónicos correspondientes, por medio de la utilización de la firma electrónica avanzada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-La Comisión Estatal de Mejora Regulatoria del Estado, será la responsable y encargada de implementar un Sistema de Trámites Electrónicos, en el que se integrará el proceso de firmado electrónico, entendiéndose por tal, el diseño, implementación y puesta a punto de los sistemas informáticos, así como las cuentas de usuarios, los medios de seguridad lógicos de los sistemas, el mantenimiento, respaldo, seguridad y medios de recuperación de sus bases de datos, así como las correspondientes comunicaciones en que se utilice la Firma Electrónica Avanzada.
+La Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca, será la responsable y encargada de implementar un Sistema de Trámites Electrónicos, en el que se integrará el proceso de firmado electrónico, entendiéndose por tal, el diseño, implementación y puesta a punto de los sistemas informáticos, así como las cuentas de usuarios, los medios de seguridad lógicos de los sistemas, el mantenimiento, respaldo, seguridad y medios de recuperación de sus bases de datos, así como las correspondientes comunicaciones en que se utilice la Firma Electrónica Avanzada.
 
-Los sujetos comprendidos en las fracciones I, II, III, IV, V, VI y VII, del artículo 2 de la presente Ley, contarán con un Agente Certificador en su área administrativa, quien bajo la supervisión de la Comisión Estatal de Mejora Regulatoria, será la encargada en cada dependencia o entidad, de la operación del Sistema de Trámites Electrónicos en particular que le corresponda, tanto para el proceso de firmado electrónico, como para la recepción y emisión de las comunicaciones que en ese sistema se den.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+Los sujetos comprendidos en las fracciones I, II, III, IV, V, VI y VII, del artículo 2 de la presente Ley, contarán con un Agente Certificador en su área administrativa, quien bajo la supervisión de la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca, será la encargada en cada dependencia o entidad, de la operación del Sistema de Trámites Electrónicos en particular que le corresponda, tanto para el proceso de firmado electrónico, como para la recepción y emisión de las comunicaciones que en ese sistema se den.
 
 Cada dependencia y entidad operará y administrará el Sistema de Trámites Electrónicos que en particular le corresponda, debiendo establecer controles de accesos, respaldos y recuperación de información, con mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad y custodia.
 
@@ -173,9 +183,11 @@ Ahora bien, para el caso de la emisión de resoluciones administrativas o actos 
 
 Los documentos impresos que contengan la cadena de caracteres alfanuméricos, resultando del acto de firmar con la firma electrónica avanzada, producirán los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 12.
 
-La validez y autoría del documento impreso que contengan la cadena de caracteres alfanuméricos resultado del acto de firmar con la firma electrónica avanzada, deberá ser verificable; derivado de lo anterior, la Comisión Estatal de Mejora Regulatoria, establecerá los mecanismos a través de los cuales se podrá comprobar la validez y autoría de los documentos realizados a través de la firma electrónica.
+La validez y autoría del documento impreso que contenga la cadena de caracteres alfanuméricos resultado del acto de firmar con la firma electrónica avanzada, deberá ser verificable; derivado de lo anterior, la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca, establecerá los mecanismos a través de los cuales se podrá comprobar la validez y autoría de los documentos realizados a través de la firma electrónica.
 
 ###### Artículo 13.
 
@@ -191,9 +203,11 @@ Se presume que los tramites, servicios o actos jurídicos solicitados de manera 
 
 Para que surtan efectos los mensajes de datos relacionados con los trámites, servicios y actos jurídicos con la Firma Electrónica Avanzada, se requiere de la obtención del acuse de recibo electrónico respectivo, generado por el sistema de información del destinatario.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 16.
 
-El contenido de los mensajes de datos relacionados con los trámites, servicios y actos jurídicos que incluya la Firma Electrónica Avanzada, deberá de conservarse por las Dependencias y Entidades de la Administración Pública Estatal conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, y demás disposiciones normativas aplicables.
+El contenido de los mensajes de datos relacionados con los trámites, servicios y actos jurídicos que incluya la Firma Electrónica Avanzada, deberá de conservarse por las Dependencias y Entidades de la Administración (sic) Ley de Transparencia y Acceso a la Información Pública y Buen Gobierno para el Estado de Oaxaca, y demás disposiciones normativas aplicables.
 
 ###### Artículo 17.
 
@@ -353,7 +367,9 @@ III. Guardar confidencialidad de la información recibida para la prestación de
 
 IV. Poner a disposición del Firmante el dispositivo de verificación del Certificado Digital;
 
-V. Conservar toda la información y documentación relativa a los Certificados Digitales, conforme a lo establecido en la ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca y, demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+V. Conservar toda la información y documentación relativa a los Certificados Digitales, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública y Buen Gobierno para el Estado de Oaxaca y, demás disposiciones aplicables, y
 
 VI. Cumplir con las demás obligaciones que deriven de ésta y otras leyes y demás disposiciones jurídicas aplicables.
 
@@ -511,9 +527,11 @@ IV. Informar al Agente Certificador, cuando así proceda la actualización de lo
 
 V. Las demás que determine el Consejo en los términos de esta Ley y de su Reglamento.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-En contra de los actos o resoluciones de la Autoridad Certificadora o Agente Certificador, procederá el juicio en la forma y términos señalados en la Ley de Justicia Administrativa para el Estado de Oaxaca.
+En contra de los actos o resoluciones de la Autoridad Certificadora o Agente Certificador, procederá el juicio en la forma y términos señalados en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### Artículo 47.
 
@@ -523,17 +541,21 @@ Los entes públicos, en sus reglamentos respectivos, establecerán las formalida
 
 Las quejas y fallas técnicas respecto a la Firma Electrónica Avanzada, deberán reportarse ante la Autoridad Certificadora o el Agente Certificador correspondiente para que se corrijan de acuerdo a lo que establezca la normatividad en la materia.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 49.
 
-La Autoridad Certificadora o el Agente Certificador que incumpla con las obligaciones establecidas en la presente Ley, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+La Autoridad Certificadora o el Agente Certificador que incumpla con las obligaciones establecidas en la presente Ley, será sancionado en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ###### Artículo 50.
 
 Al Agente Certificador sujeto a un procedimiento de responsabilidad administrativa o penal, le serán suspendidas las facultades establecidas en esta Ley y su Reglamento, en tanto se pronuncia la resolución definitiva; pudiendo revocársele dichas facultades, así como el Certificado Digital de ser hallado responsable por haber incurrido en alguna falta o delito, o bien, restituírsele en el uso y goce de ellas.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 51.
 
-Al Firmante que utilice o se sirva de un Certificado Digital como medio para cometer actos, hechos u omisiones que constituyan algún tipo de responsabilidad o delito en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, del Código Penal para el Estado Libre y Soberano de Oaxaca o de cualquier otro ordenamiento legal, con independencia de la sanción a que se haga acreedor por las faltas e infracciones a los citados ordenamientos, se le revocará por la Autoridad Certificadora, el Certificado Digital de manera definitiva.
+Al Firmante que utilice o se sirva de un Certificado Digital como medio para cometer actos, hechos u omisiones que constituyan algún tipo de responsabilidad o delito en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, del Código Penal para el Estado Libre y Soberano de Oaxaca o de cualquier otro ordenamiento legal, con independencia de la sanción a que se haga acreedor por las faltas e infracciones a los citados ordenamientos, se le revocará por la Autoridad Certificadora, el Certificado Digital de manera definitiva.
 
 ### CAPÍTULO XI
 
@@ -543,13 +565,35 @@ DEL CONSEJO CONSULTIVO DE CERTIFICACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL E
 
 El Consejo es el órgano rector para la operatividad de la presente Ley, quien coordina a las Dependencias y entidades de la Administración Pública, organismos autónomos y Municipios del Estado de Oaxaca y establece las políticas y lineamientos generales para la implementación de la Firma Electrónica Avanzada en el Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 53.
 
-El Consejo estará conformado por el titular de la Comisión Estatal de Mejora Regulatoria, quien lo presidirá, y los representantes de los órganos centralizados, entidades, organismos autónomos y municipios, que a propuesta del Gobernador del Estado, lo integren.
+El Consejo estará conformado de la siguiente manera:
 
-El cargo de Secretario Ejecutivo durará un año, será electo por las dos terceras partes de los integrantes del Consejo en la primera sesión anual.
+I. La persona titular de la Secretaría de Desarrollo Económico, que tendrá el carácter de Presidente;
 
-Los demás integrantes del Consejo, tendrán el cargo de vocal, sin que puedan exceder de cuatro.
+II. La persona titular de la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca, que tendrá el carácter de Secretario Ejecutivo;
+
+III. Un Representante de la Consejería Jurídica y Asistencia Legal del Gobierno del Estado;
+
+IV. Un Representante de la Dirección General de Tecnologías e Innovación Digital;
+
+V. Un Representante de la Secretaría de Honestidad, Transparencia y Función Pública
+
+VI. Un Representante de la Secretaría de Administración;
+
+VII. Un Representante de la Secretaría de Finanzas;
+
+VIII. Un Representante del Archivo General del Estado de Oaxaca;
+
+IX. Un Representante del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca; y
+
+X. Un Representante de un Municipio Estratégico del Estado de Oaxaca, que a propuesta del Gobernador del Estado lo integre.
+
+Los integrantes contarán con derecho a voz y voto en las sesiones; quienes formen parte del Consejo, deberán tener un nivel jerárquico de director o superior.
+
+Los integrantes podrán designar a sus respectivos suplentes, la designación deberá realizarse mediante oficio dirigido a la Presidencia del mismo y será registrado por la Secretaría Ejecutiva, quien llevará el registro y actualización de las designaciones correspondientes.
 
 ###### Artículo 54.
 
@@ -712,3 +756,15 @@ Tlalixtac de Cabrera, Centro, Oax., 06 de octubre del 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2517.- MEDIANTE EL CUAL REFORMAN EL TERCER PÁRRAFO DEL ARTÍCULO 1, LA FRACCIÓN IV DEL ARTÍCULO 3, LA FRACCIÓN VI DEL ARTÍCULO 4, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 7, LOS ARTÍCULOS 12 Y 16, LA FRACCIÓN V DEL ARTÍCULO 32, LOS ARTÍCULOS 46, 49, 51 Y 53, TODOS DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
