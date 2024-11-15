@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-organismo-publico-descentralizado-10619"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2020-05-18"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL ORGANISMO PÚBLICO DESCENTRALIZADO CONSEJO PARA LA CULTURA DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de octubre de 1995.
 
@@ -481,6 +481,10 @@ X. Dirigir y coordinar los programas o espacios culturales que estén bajo su re
 
 XI. Las demás que les confiera el Consejo.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 30 BIS. Cuando así sea procedente, tanto el Secretario Técnico, como el responsable del área jurídica de la institución, individual o conjuntamente, de manera indistinta, y previa autorización del Presidente, expedirá las certificaciones de los documentos que consten en los archivos del Organismo.
+
 ## TRANSITORIOS.
 
 ###### ARTICULO ÚNICO.
@@ -520,3 +524,9 @@ P.O. 18 DE MAYO DE 2020.
 [N. DE E TRANSITORIO DEL “ACUERDO QUE REFORMA Y ADICIONA EL REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
 
 ÚNICO. Las presentes reformas y adiciones al Reglamento del Consejo para la Cultura y las Artes de Nuevo León, entrarán en vigor al día posterior a su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN".]
+
+ÚNICO. La presente adición al Reglamento Interno del Consejo para la Cultura y las Artes de Nuevo León, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
