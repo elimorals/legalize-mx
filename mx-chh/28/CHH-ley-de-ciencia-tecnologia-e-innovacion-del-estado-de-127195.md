@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-127195"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2018-04-14"
+last_updated: "2024-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 14 DE ABRIL DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 14 de marzo de 2018.
 
@@ -147,9 +145,11 @@ XV. Empresas del conocimiento o de base tecnológica: Las empresas de los sector
 
 XVI. Estudios de Posgrado: Los estudios posteriores al nivel de licenciatura universitaria, que comprende los programas de especialización, maestría y doctorado, ya sea en Instituciones de Educación Superior o Centros Públicos de Investigación del país o del extranjero.
 
-XVII. Fondo Mixto CONACYT-Estado de Chihuahua: Fondo constituido con recursos concurrentes de la Federación a través de CONACYT y del Estado de Chihuahua para apoyar a la ciencia, tecnología e innovación en el Estado.
+XVII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2024)
 
-XVIII. Fondos: Instrumentos jurídicos constituidos como fideicomisos y que tienen el propósito de otorgar los apoyos a la ciencia, tecnología e innovación previstos en esta Ley.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+XVIII. Fondos: Son aquellos constituidos al amparo de la presente Ley y administrados por FIDEAPECH, destinados al otorgamiento de apoyos a la ciencia, tecnología e innovación previstos en esta Ley.
 
 XIX. Incubadoras de empresas de Innovación: Instituciones descentralizadas con sistemas de gestión de negocios que albergan temporalmente y apoyan la generación de nuevas empresas, especialmente aquellas de alto valor agregado o del conocimiento, que pueden contar con espacios físicos con infraestructura experimental de laboratorios y/o plantas piloto.
 
@@ -206,6 +206,10 @@ XLIV. Empresas de los sectores público, privado y social: Que ejecutan proyecto
 XLV. Investigadores y Tecnólogos: Que ejecutan actividades docentes, programas y proyectos de investigación básica, aplicada, desarrollo tecnológico o innovación.
 
 XLVI. Otros organismos y agentes: Que realizan actividades de asesoría, capacitación, enlace, diseño, ingeniería, normalización, metrología, propiedad industrial, y divulgación de la ciencia, tecnología e innovación.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+XLVII. FIDEAPECH: Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua.
 
 ###### Artículo 3.
 
@@ -343,7 +347,9 @@ I. Consejo General.
 
 II. Instituto de Innovación y Competitividad.
 
-III. Secretarías y Organismos Públicos Descentralizados del Gobierno del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+III. Secretarías, Organismos Públicos Descentralizados y Fideicomisos Públicos del Gobierno del Estado de Chihuahua.
 
 IV. Municipios del Estado de Chihuahua.
 
@@ -402,6 +408,10 @@ a) Cuatro personas que ocupen rectorías y/o direcciones de Instituciones de Edu
 b) Una representación del Consejo Nacional de Ciencia y Tecnología.
 
 Quienes integren el Consejo General desempeñarán sus funciones de manera honorífica, por lo que no recibirán remuneración alguna por su participación en el mismo.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+Corresponderá a las personas titulares de la Presidencia, Vicepresidencia y Secretaría Ejecutiva el ejercicio de sus atribuciones al amparo de la presente Ley, ya sea de forma personal o por conducto de su correspondiente suplente, quienes se acreditarán y aprobarán por el Consejo General.
 
 ###### Artículo 9.
 
@@ -619,6 +629,10 @@ III. Una Dirección General.
 
 IV. Una Comisaría
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+V. Departamentos de Administración, Jurídico y de Seguimiento.
+
 ###### Artículo 20.
 
 De la Junta Directiva. La Junta Directiva es el órgano supremo de gobierno del Instituto, que será su autoridad máxima y tendrá las siguientes facultades:
@@ -701,7 +715,9 @@ XV. Constituir o participar en fideicomisos, asociaciones y sociedades que se re
 
 XVI. Realizar todo tipo de actos y gestiones necesarios para el cumplimiento del objeto de esta Ley.
 
-XVII. Fungir como secretario(a) administrativo de los fondos que se mencionan en esta Ley.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+XVII. Participar como integrante del comité constituido para la administración de los Fondos a los que se refiere esta Ley.
 
 XVIII. Las demás que establezcan esta Ley, otros ordenamientos legales y el Reglamento Interior.
 
@@ -865,13 +881,17 @@ III. Serán beneficiarios las instituciones de educación superior públicas y p
 
 IV. Los beneficiarios serán seleccionados en forma competitiva y transparente de acuerdo a los requisitos, criterios e indicadores que se determinen en las reglas de operación específicas de cada fondo, y las que se establezcan en las respectivas convocatorias que al efecto se expidan; así mismo, los recursos de los fondos se ejercerán conforme a las reglas de operación emitidas y las demás disposiciones aplicables.
 
-V. Los recursos de los Fondos se canalizarán invariablemente a la finalidad a la que hayan sido destinados, su inversión será siempre en renta fija, la que garantice mayores rendimientos y tendrá su propia contabilidad.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+V. Los recursos de los Fondos se canalizarán invariablemente a la finalidad a la que hayan sido destinados, según lo establecido en esta Ley. La administración de los mismos se realizará en los términos establecidos por el Comité Técnico del FIDEAPECH.
 
 VI. Cualquier canalización o aportación de recursos a los distintos Fondos se considerará como erogación devengada del presupuesto del que provengan, por lo tanto, el ejercicio de los recursos deberá realizarse conforme a las reglas de operación de los fondos específicos.
 
 VII. Los Fondos no contarán con estructura orgánica y personal propios para su funcionamiento y estarán sujetos a las medidas de control, evaluación y auditoría gubernamental correspondientes.
 
-VIII. El Instituto de Innovación y Competitividad estará a cargo de proporcionar todo el soporte técnico y administrativo para el seguimiento de los Fondos propios y concurrentes.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+VIII. El Instituto de Innovación y Competitividad estará a cargo de coordinar las acciones de seguimiento de la correcta aplicación y ejecución de los Fondos propios y concurrentes, en coordinación con el FIDEAPECH.
 
 ###### Artículo 33.
 
@@ -891,65 +911,47 @@ VI. Las áreas identificadas como estratégicas, como son la biotecnología, mec
 
 VII. Cualquier otro propósito que determine el Consejo General, o la Junta Directiva del Instituto de Innovación y Competitividad, orientado a fortalecer la ciencia, tecnología e innovación del Estado de Chihuahua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 34.
 
-Modalidades de Fondos. Para canalizar los apoyos a los que se refiere la presente Ley se podrán constituir Fondos. En dichos Fondos se podrán canalizar los recursos a los que se hace referencia en el artículo 32 de la presente Ley. Los fondos con los cuales operará el Instituto de Innovación y Competitividad serán los siguientes:
+Modalidades de Fondos. Para la efectiva dispersión de los apoyos a la ciencia, tecnología e innovación a los que se refiere esta Ley, se establecen los Fondos que operarán bajo los lineamientos referidos en el artículo 32 de la presente Ley, identificándose los siguientes:
 
-I. El Fondo Mixto CONACYT-Estado de Chihuahua, considerado en la Ley de Ciencia y Tecnología.
+I. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2024)
 
 II. El Fondo Estatal de Ciencia, Tecnología e Innovación.
 
-III. Otros fondos que constituyan el Gobierno del Estado de Chihuahua con dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipales; con los gobiernos de otras Entidades Federativas; con Universidades y Centros Públicos de Investigación; instituciones y organismos nacionales y extranjeros y, en general, con cualquier otro tercero, que contribuyan al desarrollo del Estado de Chihuahua mediante la ciencia, tecnología e innovación.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+III. Aquellos fondos asignados por el Gobierno del Estado de Chihuahua, en coordinación con dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipales; con los gobiernos de otras Entidades Federativas; con Universidades y Centros Públicos de Investigación; instituciones y organismos nacionales y extranjeros y, en general, con cualquier otro tercero, que contribuyan al desarrollo del Estado de Chihuahua mediante la ciencia, tecnología e innovación.
 
 ###### Artículo 35.
 
-Fondo Mixto CONACYT-Estado de Chihuahua. El Fondo Mixto CONACYT-Estado de Chihuahua, será un instrumento de canalización de apoyos para el desarrollo del Estado en materia de ciencia, tecnología e innovación, conforme a lo siguiente:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2024)
 
-I. Se observarán las disposiciones de la Ley de Ciencia y Tecnología federal, aplicable a los fondos mixtos, y las de la presente Ley en todo lo que no se opongan a la anterior.
-
-II. Previo acuerdo de los fideicomitentes, la organización y recursos que se aporten al fondo mixto se dirigirán a apoyar y financiar el cumplimiento de los objetivos de esta Ley y del Programa Estratégico de Ciencia, Tecnología e Innovación.
-
-III. El Titular del Poder Ejecutivo del Estado presidirá el Comité Técnico y de Administración del Fondo, y en sus ausencias será suplido por quien ocupe el cargo de la Secretaría de Innovación y Desarrollo Económico.
-
-IV. Previo acuerdo de los fideicomitentes, participarán y formarán parte del Comité Técnico y de Administración, titulares de las siguientes dependencias y entidades de la administración pública paraestatal:
-
-a) La Secretaría de Hacienda.
-
-b) La Secretaría de Innovación y Desarrollo Económico.
-
-c) La Secretaría de Educación y Deporte.
-
-d) La Secretaría de Salud.
-
-e) La Secretaría de Desarrollo Rural.
-
-f) La Secretaría de Desarrollo Social.
-
-g) La Secretaría del Trabajo y Previsión Social.
-
-h) La Secretaría de Desarrollo Urbano y Ecología.
-
-i) El Instituto de Innovación y Competitividad.
-
-j) Los demás que determine el Titular del Poder Ejecutivo del Estado, para apoyar de manera específica y eficaz a las diversas áreas de interés del Gobierno del Estado de Chihuahua, sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para apoyar el desarrollo económico y social del Estado.
-
-V. Previo acuerdo de los fideicomitentes, se podrán establecer en el fondo, subcomités y subcuentas para apoyar de manera específica y eficaz a las diversas áreas de interés de la Administración Pública y sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para apoyar a dichas áreas y sectores.
-
-VI. En cada subcuenta el Comité respectivo lo presidirá quien ostente la titularidad de la dependencia o entidad correspondiente, quien determinará entre otros aspectos:
-
-a) Las convocatorias y su temática.
-
-b) Las prioridades a apoyar.
-
-c) Los términos de referencia de los proyectos y la forma de aplicación de apoyos de la subcuenta correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
-Fondo Estatal de Ciencia, Tecnología e Innovación. Se crea el Fondo Estatal de Ciencia, Tecnología e Innovación, con la partida anual que se establezca en la Ley de Egresos del Estado de Chihuahua conforme a lo establecido en la obligación señalada en el artículo 32 de la presente Ley. Los lineamientos de operación de este Fondo se regirán por lo siguiente:
+Fondo Estatal de Ciencia, Tecnología e Innovación. Se crea el Fondo Estatal de Ciencia, Tecnología e Innovación, el cual contará con un presupuesto que será administrado a través del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua, y será integrado por:
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+a) La partida anual que se establezca en la Ley de Egresos del Estado de Chihuahua, la cual no podrá ser menor a lo aprobado en el ejercicio fiscal inmediato anterior, debiendo preverse en cada ejercicio presupuestal, bajo una partida específica para su asignación.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+b) Por los subsidios, aportaciones extraordinarias y donativos del Gobierno Federal, Estatal y Municipal, de entidades paraestatales, y demás entes públicos o privados nacionales o internacionales.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+Además, se regirá conforme lo siguiente:
 
 I. Su integración, funcionamiento y operación estará a cargo del Instituto de Innovación y Competitividad, y se aplicarán sus recursos conforme a lo dispuesto en esta Ley.
 
-II. El Titular del Poder Ejecutivo del Estado presidirá el Comité Técnico y Administrativo del Fondo, y en su ausencia será suplido quién ocupe la titularidad de la Secretaría de Innovación y Desarrollo Económico.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+II. La persona Titular del Poder Ejecutivo del Estado presidirá el Comité Técnico y de Administración del Fondo, y en su ausencia será suplido por quien ocupe la titularidad de la Secretaría de Innovación y Desarrollo Económico.
 
 III. Previo acuerdo de los fideicomitentes, participarán y formarán parte del Comité Técnico y de Administración, quienes ocupen las titularidades de las siguientes dependencias y entidades de la administración pública paraestatal:
 
@@ -971,9 +973,17 @@ h) La Secretaría de Desarrollo Urbano y Ecología.
 
 i) El Instituto de Innovación y Competitividad.
 
-j) Los demás que determine el Titular del Poder Ejecutivo del Estado para apoyar de manera específica y eficaz a las diversas áreas de interés del Gobierno del Estado de Chihuahua, sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para apoyar el desarrollo económico y social del Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 2024)</small>
 
-IV. Previo acuerdo de los fideicomitentes, se podrán establecer en el Fondo, subcomités y subcuentas para apoyar de manera específica y eficaz a las diversas áreas de interés de la Administración Pública y sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para apoyar a dichas áreas y sectores.
+j) El Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+k) Las demás instancias que determine la persona Titular del Poder Ejecutivo del Estado, para apoyar de manera específica y eficaz a las diversas áreas de interés del Gobierno del Estado de Chihuahua, sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para impulsar el desarrollo económico y social del Estado.
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2024)</small>
+
+IV. Previo acuerdo de los integrantes del Comité Técnico y de Administración del Fondo, se podrán establecer en el Fondo, subcomités y subcuentas para apoyar de manera específica y eficaz a las diversas áreas de interés de la Administración Pública y sectores productivos del Estado y a los distintos ámbitos de especialidad científica, tecnológica y de innovación que se requieran para apoyar a dichas áreas y sectores.
 
 V. En cada subcuenta el Comité respectivo lo presidirá quien ocupe la titularidad de la dependencia o entidad correspondiente, quien determinará entre otros aspectos:
 
@@ -1290,3 +1300,29 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, al primer día del mes de marzo del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0925/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, establecerá las adecuaciones de carácter orgánico, estructural y funcional necesarias para su debido cumplimiento.
+
+P.O. 16 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLEY/0926/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, establecerá las adecuaciones de carácter orgánico, estructural y funcional necesarias para su debido cumplimiento.
