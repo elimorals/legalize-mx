@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2024-08-15"
+last_updated: "2024-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -445,7 +445,7 @@ XXXIV. Otorgar apoyo técnico a los municipios con una población menor a 200,00
 
 XXXV. Efectuar la evaluación del cumplimiento de obligaciones de responsabilidad hacendaria en materia de deuda estatal garantizada a cargo de los municipios, debiendo remitirla trimestralmente a la Secretaría de Hacienda y Crédito Público del Gobierno Federal, debiendo publicar a través de su respectiva página oficial de internet el resultado de la citada evaluación; así como también enviar trimestralmente la información correspondiente a cada financiamiento y obligación del Estado y de cada uno de sus entes públicos para la actualización del Registro Público Único a cargo de la citada dependencia federal;
 
-XXXVI. Por conducto de la Unidad de Inteligencia Financiera y Económica, generar, obtener, solicitar y consolidar información financiera, fiscal y patrimonial para la investigación de hechos posiblemente ilícitos que generen en las personas un beneficio o incremento económico injustificable, así como aportar la información a las autoridades competentes; y
+XXXVI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
 XXXVII. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -1634,3 +1634,41 @@ Los recursos económicos asignados en el Presupuesto de Egresos del Estado para 
 ###### ARTÍCULO CUARTO.
 
 Las personas titulares de las Secretarías de Administración, de Finanzas, Contraloría Gubernamental y Oficina del Gobernador, en un plazo no mayor a diez días hábiles, contados a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones normativas administrativas para el inicio de operaciones de la AIIDT.
+
+P.O. 18 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-68 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría de Finanzas, Contraloría Gubernamental y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado para que ésta a su vez, los asigne conforme a la naturaleza de sus funciones a la Fiscalía Especializada en Combate a la Corrupción.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado, para lo cual contarán con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para acreditar los requisitos de ingreso o permanencia respectivamente, conforme a la normatividad aplicable.
+
+Los recursos humanos transferidos a la Fiscalía General deberán dar cumplimiento a las obligaciones en materia de responsabilidades administrativas, tales como declaración patrimonial, fiscal o cualquier otra que como servidores públicos de la Fiscalía General deban observar.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Contraloría Gubernamental, Secretaría de Administración y a la Secretaría de Finanzas, lleven a cabo los procedimientos correspondientes a las adecuaciones normativas a las que haya lugar con la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento de la Unidad de Inteligencia Financiera y Económica, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Unidad de Inteligencia Financiera y Económica, serán atendidos por ésta hasta su conclusión.
