@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2024-08-19"
+last_updated: "2024-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -87,9 +87,17 @@ XIII. Policía: La Policía Ministerial, así como la de Investigación de la Fi
 
 XIV. Policía de Investigación: La Policía adscrita a la Fiscalía General y considerados de manera particular, los agentes que forman parte de ella;
 
-XV. Reglamento: Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XVI. Servicio de Carrera: El Servicio Profesional de Carrera Ministerial, Policial, Pericial y de Justicia Alternativa.
+XV. Reglamento: Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XVI. Servicio de Carrera: El Servicio Profesional de Carrera Ministerial, Policial, Pericial y de Justicia Alternativa; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XVII. Unidad de Inteligencia Financiera y Económica: Unidad administrativa de la Fiscalía Especializada en Combate a la Corrupción.
 
 ###### Artículo 3.
 
@@ -135,9 +143,7 @@ II. Vicefiscales;
 
 III. Fiscales Especializados;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-IV. Vicefiscales Especializados;
+IV. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
 V. Fiscales de Distrito;
 
@@ -241,13 +247,11 @@ VIII. Fiscalía Especializada en la Investigación de los Delitos de Desaparici�
 
 IX. Fiscalía Especializada en la Investigación de los Delitos contra Niñas, Niños y Adolescentes y de Delitos contra las Mujeres por Razones de Género;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-X. Vicefiscalía Especializada en la Investigación de Hechos en Materia de Corrupción;
+X. Fiscalía Especializada en la Investigación de Delitos de Feminicidio y Homicidio Doloso de Mujeres;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-XI. Vicefiscalía Especializada en Procesos Penales de Hechos en Materia de Corrupción;
+XI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
 XII. Direcciones Generales:
 
@@ -669,11 +673,11 @@ Las Fiscalías Especializadas actuarán en todo el territorio estatal, contando 
 
 Las Fiscalías Especializadas no previstas en la presente Ley podrán ser creadas mediante acuerdo del Fiscal General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 23.
 
-Las personas titulares de las Fiscalías Especializadas y Vicefiscalías Especializadas serán designadas conforme a la Constitución del Estado, y la presente Ley, respectivamente, de acuerdo a lo siguiente:
+Las personas titulares de las Fiscalías Especializadas serán designadas conforme a la Constitución del Estado, y la presente Ley, respectivamente, de acuerdo a lo siguiente:
 
 I. La designación de la persona titular de la Fiscalía Especializada en Combate a la Corrupción se realizará en términos de lo dispuesto por los párrafos segundo y tercero de la fracción XXI del artículo 58 de la Constitución del Estado;
 
@@ -681,9 +685,9 @@ I. La designación de la persona titular de la Fiscalía Especializada en Combat
 
 II. La designación de las personas titulares de las Fiscalías Especializadas en Delitos Electorales y en Asuntos Internos se llevará a cabo a propuesta del Fiscal General y por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado; y
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-III. Las y los titulares de las demás Fiscalías y Vicefiscalías Especializadas serán designados por la persona titular de la Fiscalía General.
+III. Las y los titulares de las demás Fiscalías serán designados por la persona titular de la Fiscalía General.
 
 ###### Artículo 24.
 
@@ -773,81 +777,99 @@ X. Las que le otorguen la persona titular de la Fiscalía General, esta Ley, su 
 
 La persona titular de la Fiscalía Especializada en Combate a la Corrupción, tendrá las siguientes facultades:
 
-I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada en Combate a la Corrupción;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-II. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
+I. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-III. Impulsar con pleno respeto a la autonomía técnica y operativa del Ministerio Público, la investigación y el ejercicio de la acción penal en lo relativo a los hechos que la ley considera como delitos en materia de corrupción;
+II. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-IV. Vigilará que se soliciten a las instancias de gobierno federal, estatal o municipal la información que resulte útil o necesaria para las investigaciones;
+III. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los hechos que la ley considera como delitos en materia de corrupción y delitos conexos;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-V. Impulsar que se dicten las medidas precautorias y velará porque se promuevan los mecanismos necesarios para la reparación integral del daño;
+IV. Solicitar a las autoridades de gobierno federal, estatal o municipal la información que resulte útil o necesaria para sus investigaciones, así como a los particulares y organizaciones no gubernamentales y de la sociedad civil;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-VI. Impulsar que se ejerza la facultad de atracción de los delitos del orden común en relación con los delitos de la competencia de la Fiscalía Especializada en Combate a la Corrupción;
+V. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación integral del daño;
 
-VII. (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-VIII. (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
+VI. Ejercer la facultad de atracción en relación con los delitos de su competencia;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-IX. Autorizar, previa calificación del titular de la Vicefiscalía Especializada competente, las propuestas de los Agentes del Ministerio Público de su adscripción, respecto de la formulación de conclusiones no acusatorias en los procesos penales en términos de los artículos 327 y 328 del Código de Procedimientos Penales para el Estado de Tamaulipas o, en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales;
+VII. Autorizar la propuesta de archivo temporal, incompetencia, acumulación, y separación de indagatorias, criterios de oportunidad, acuerdos reparatorios y procedimiento abreviado, que realicen los Agentes del Ministerio Público de su adscripción;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Autorizar la propuesta de los Agentes del Ministerio Público para decretar el no ejercicio de la acción penal de conformidad con la disposición procesal penal correspondiente; así como, sobre la calificación del no ejercicio de la acción penal y las incompetencias determinadas por los Agentes del Ministerio Público de su adscripción, además de autorizar los acuerdos de reserva que éstos emitan;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+IX. Autorizar la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales o, en su caso, la formulación de conclusiones no acusatorias en los procesos penales en términos de los artículos 327 y 328 del Código de Procedimientos Penales para el Estado de Tamaulipas;
 
 X. Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
 
-XI. Proponer al Fiscal General la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de denuncia y legalidad en materia de delitos relacionados con hechos de corrupción;
+XI. Celebrar convenios con instituciones y organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XII. Diseñar e implementar proyectos, estudios y programas permanentes de información, fomento y difusión de la cultura de denuncia y legalidad en materia de delitos relacionados con hechos de corrupción;
 
 XIII. Participar con las unidades administrativas y órganos desconcentrados competentes de la Fiscalía General, en el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XIV. Vigilar y verificar la actuación de las policías con funciones de investigación de delitos, en los términos de lo dispuesto en el artículo 21 de la Constitución General y 124 de la Constitución del Estado, así como la participación con las unidades administrativas y órganos desconcentrados de la Fiscalía General;
+XIV. Coordinar y supervisar la actuación de las policías con funciones de investigación en los delitos de su competencia, en los términos de lo dispuesto en el artículo 21 de la Constitución General y 124 de la Constitución del Estado, así como la colaboración con las unidades administrativas y órganos desconcentrados de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XV. Vigilar y verificar las facultades que correspondan a las unidades administrativas que le estén adscritas;
+XV. Supervisar el ejercicio de las facultades que correspondan a las unidades administrativas que le estén adscritas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XVI. Registrar, ordenar, clasificar, sistematizar y analizar toda la información relacionada con las investigaciones por hechos probablemente constitutivos de delitos de corrupción, que deriven de los asuntos a cargo de las Vicefiscalías Especializadas de su adscripción;
+XVI. Supervisar el registro, ordenamiento, clasificación, sistematización y análisis de toda la información relacionada con las investigaciones que deriven de los asuntos a su cargo;
 
 XVII. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 154 de la Constitución del Estado y demás disposiciones que fueren aplicables;
 
 XVIII. Proponer al Fiscal General, el nombramiento de Agentes del Ministerio Público de designación especial que se pretendan adscribir a la Fiscalía Especializada;
 
-XIX. (DEROGADA, P.O. 24 DE OCTUBRE DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XX. Diseñar e implementar, planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos, en materia de corrupción en el ámbito de su competencia;
+XIX. Nombrar y, en su caso, remover a los coordinadores generales, coordinadores, directores, titulares de las unidades administrativas y personal con funciones no sustantivas, de la Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XX. Diseñar e implementar, planes, estrategias y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en el ámbito de su competencia;
 
 XXI. Diseñar e implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización, a fin de fortalecer el desarrollo de las investigaciones;
 
-XXII. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía Especializada, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XXIII. Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del Fiscal Especializado en materia de delitos relacionados con hechos de corrupción, que sean necesarios para regular la actuación de la Fiscalía Especializada a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por la persona titular de la Fiscalía General. En caso de contradicción, la persona titular de la Fiscalía General resolverá la actualización, derogación o abrogación de la norma emitida por el Fiscal Especializado;
+XXII. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía Especializada, en el ámbito de su competencia. Dicha normatividad emitida, en ningún caso podrá contradecir las normas administrativas expedidas por la persona titular de la Fiscalía General. En caso de contradicción, el o la titular de la Fiscalía General resolverá la actualización, derogación o abrogación que resulte necesaria;
+
+XXIII. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
 XXIV. Generar sus propias herramientas metodológicas, para el efecto de identificar los patrones de conducta y tipologías que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XXV. Ejercer responsablemente los recursos que le sean asignados, a fin de cubrir las necesidades de la Fiscalía Especializada en Combate a la Corrupción a partir de los planteamientos que al efecto formulen los Vicefiscales Especializados de su adscripción;
+XXV. Ejercer los recursos que le sean asignados, a fin de cubrir las necesidades de la Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XXVI. Impulsar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales, cuyo valor equivalga al producto, instrumentos u objetos del hecho delictivo, cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+XXVI. Supervisar que los Agentes del Ministerio Público en los casos que sea procedente, lleven a cabo el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales, su valor equivalga al producto, instrumentos u objetos del hecho delictivo, cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XXVII. Vigilar que se realicen las acciones necesarias tendentes a promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la Ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+XXVII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la Ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -855,123 +877,49 @@ XXVIII. Dar intervención a la unidad administrativa en materia de servicios per
 
 XXIX. Presentar anualmente al Fiscal General un informe sobre actividades sustantivas y de resultados, el cual será público en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y demás disposiciones aplicables. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso;
 
-XXX. Elaborar y remitir al Fiscal General su anteproyecto de presupuesto, a efecto de que se incorpore con el presupuesto de la Fiscalía General, a fin de integrarlo en el Proyecto de Presupuesto de Egresos del Estado para su aprobación por el Congreso. En el Presupuesto de Egresos del Estado se identificará el monto aprobado a esta Fiscalía Especializada para el respectivo ejercicio fiscal;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2023)</small>
+XXX. Elaborar y remitir a la persona titular de la Fiscalía General su anteproyecto de presupuesto, a efecto de que se incorpore con el presupuesto de la Fiscalía General, a fin de integrarlo en el Proyecto de Presupuesto de Egresos del Estado para su aprobación por el Congreso.
 
-XXXI. A partir de las propuestas de los Vicefiscales Especializados de su adscripción, someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a la Fiscalía especializada;
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-XXXII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
+En el Presupuesto de Egresos del Estado, se identificará el monto aprobado a la Fiscalía Especializada para el respectivo ejercicio fiscal, el cual no podrá ser menor al aprobado en el ejercicio inmediato anterior;
 
-XXXIII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XXXI. Proponer a la consideración del o la titular de la Fiscalía General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público y Policías Investigadores adscritos a la Fiscalía Especializada en Combate a la Corrupción. Dicha proyección garantizará la suficiencia de personal sustantivo para la adecuada operación de la propia Fiscalía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XXXII. Coordinar a la Unidad de Inteligencia Financiera y Económica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+XXXIII. Certificar documentos, libros y registros, sean físicos, digitales o electrónicos, relativos a la información que haya sido generada o bien que obra en sus archivos o expedientes; y
 
 XXXIV. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+Las facultades establecidas en las fracciones VI a la IX y XIX de la presente disposición son facultades indelegables del Fiscal Especializado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+La persona titular de la Fiscalía Especializada en Combate a la Corrupción, será responsable de dirigir y supervisar y, en su caso, ejercer por sí, las actividades del Ministerio Público y sus auxiliares, en la investigación, ejercicio de la acción penal y persecución de los delitos en materia de su competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+Para el adecuado cumplimiento de sus funciones la Fiscalía Especializada en Combate a la Corrupción, contará con Agentes del Ministerio Público, Policías, Peritos, personal directivo, administrativo y auxiliar que requiera, el cual podrá incrementarse conforme a la carga de trabajo, pero no podrá disminuir la platilla indispensable para su operación.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+El nivel administrativo de la persona titular de la Fiscalía Especializada en Combate a la Corrupción, será el mismo al asignado a los titulares de las vicefiscalías;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 27 Bis.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
-
-###### Artículo 27 Ter.
-
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
-
-###### Artículo 27 Quater.
-
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-###### Artículo 27 Quinquies.
-
-La Fiscalía Especializada en Combate a la Corrupción, contará con dos Vicefiscalías Especializadas que serán las responsables de investigar hechos en materia de corrupción e intervenir en los procesos penales derivados del ejercicio de la acción penal, conforme a las atribuciones conferidas en esta Ley, el Reglamento y demás ordenamientos aplicables.
-
-Para el desarrollo de sus funciones, la Fiscalía Especializada en Combate a la Corrupción, contará con las siguientes Vicefiscalías Especializadas:
-
-I. Vicefiscalía Especializada en la Investigación de Hechos en Materia de Corrupción; y
-
-II. Vicefiscalía Especializada en Procesos Penales de Hechos en Materia de Corrupción.
-
-Los Vicefiscales Especializados poseerán el mismo nivel administrativo que los funcionarios previstos en el artículo 17 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-###### Artículo 27 Sexies.
-
-Para ser titular de una Vicefiscalía Especializada, se requiere cumplir con los siguientes requisitos:
-
-I. Ser ciudadana o ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Tener por lo menos treinta años cumplidos el día de la designación;
-
-III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas o equivalente, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente, así como contar con una experiencia profesional mínima de cinco años;
-
-IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso mediante sentencia que haya causado ejecutoria;
-
-V. En su caso, tener acreditado el Servicio Militar Nacional;
-
-VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-VII. Acreditar las evaluaciones de control de confianza previstas en la legislación aplicable; y
-
-VIII. Los demás requisitos constitucionales y legales que rijan el ingreso y permanencia de las y los servidores públicos en las instituciones de seguridad pública.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-###### Artículo 27 Septies.
-
-La persona titular de la Vicefiscalía Especializada en la Investigación de Hechos en Materia de Corrupción, será responsable de dirigir y supervisar y, en su caso, ejercer por sí las actividades del Ministerio Público y sus auxiliares; también velará por que en las investigaciones iniciadas bajo las reglas del sistema de justicia mixto tradicional, se cumpla con el debido proceso.
-
-Para el cumplimiento de sus funciones, la Vicefiscalía Especializada en la Investigación de Hechos de Corrupción contará con Agentes del Ministerio Público y con el personal directivo, policial, administrativo y auxiliar necesario; para tal efecto, tendrá las siguientes facultades:
-
-I. Dirigir y realizar la investigación y ejercer la acción penal en lo relativo a los hechos que la ley considera como delitos en materia de corrupción;
-
-II. Suplir las ausencias temporales del Fiscal Especializado en Combate a la Corrupción, en primer orden de prelación;
-
-III. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
-
-IV. Autorizar las propuestas de reserva, incompetencia, acumulación, y separación de indagatorias, archivo temporal y acuerdo reparatorio, emitidas por los Agentes del Ministerio Público de su adscripción;
-
-V. Autorizar la propuesta de los Agentes del Ministerio Público para decretar el no ejercicio de la acción penal de conformidad a la disposición procesal penal correspondiente; así como, sobre la calificación del no ejercicio de la acción penal y las incompetencias determinadas por los Agentes del Ministerio Público de su adscripción, además de autorizar los acuerdos de reserva que éstos emitan;
-
-VI. Coordinar las operaciones estratégicas para la investigación de los delitos por hechos de corrupción;
-
-VII. Solicitar a las instancias de gobierno federal, estatal o municipal la información que resulte útil o necesaria para sus investigaciones;
-
-VIII. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación integral del daño;
-
-IX. Dirigir y supervisar las acciones de la Coordinación General de Investigación, de las Coordinaciones de Investigación y de Servicios Periciales, de las Direcciones Zona Norte y Sur Centro y de la Unidad Especializada en la Investigación del Delito de Abuso de Autoridad, del área responsable de la recepción de las promociones y denuncias, así como de los ministerios públicos, policías y peritos adscritos a las mismas, en la integración de las carpetas de investigación, el ejercicio de la acción penal o su determinación final;
-
-X. Dictar a las y los servidores públicos de la Vicefiscalía Especializada las instrucciones generales o especiales necesarias para el cumplimiento de sus funciones;
-
-XI. Supervisar y, en su caso, ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas;
-
-XII. Revisar y, en su caso, modificar o aprobar los dictámenes, estudios y promociones que sometan a su consideración las y los servidores públicos a su mando;
-
-XIII. Coordinar y supervisar la actuación de las policías con funciones de investigación de delitos, en los términos de lo dispuesto en el artículo 21 de la Constitución General y 124 de la Constitución del Estado, así como la participación con las unidades administrativas y órganos desconcentrados de la Fiscalía General;
-
-XIV. Dar intervención a la unidad administrativa en materia de servicios periciales y ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
-
-XV. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos cuyo valor equivalga al producto, instrumentos u objetos del hecho delictivo, cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
-
-XVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la Ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
-
-XVII. Ejercer la facultad de atracción de los delitos del orden común en relación con los delitos de su competencia;
-
-XVIII. Proponer al Fiscal Especializado en Combate a la Corrupción, el proyecto de rotación y sustitución de los Agentes del Ministerio Público de su adscripción;
-
-XIX. Supervisar que los Coordinadores, Directores y Ministerios Públicos bajo su mando, realicen la investigación de los delitos por hechos de corrupción conforme a los ordenamientos jurídicos y el Plan de Persecución Penal; y
-
-XX. Las demás que le confiera el Reglamento y otras disposiciones, siempre que no se opongan a las disposiciones de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-###### Artículo 27 Octies.
-
-Para el ejercicio efectivo de las funciones y el despacho de los asuntos que competen a la Vicefiscalía Especializada en la Investigación de Hechos en Materia de Corrupción, ésta se integrará cuando menos con las unidades administrativas siguientes:
+Para el ejercicio efectivo de las funciones y el despacho de los asuntos que competen a la Fiscalía Especializada en Combate a la Corrupción, ésta se integrará cuando menos con las unidades administrativas siguientes:
 
 A. Coordinación General de Investigación:
 
@@ -985,73 +933,109 @@ d) Dirección Zona Sur Centro; y
 
 e) Unidad Especializada en la Investigación del Delito de Abuso de Autoridad.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-###### Artículo 27 Nonies.
-
-La persona titular de la Vicefiscalía Especializada en Procesos Penales de Hechos en Materia de Corrupción, será responsable de dirigir y supervisar la persecución de los delitos en su fase judicial y hasta la resolución correspondiente de acuerdo a las formalidades del sistema penal acusatorio; también velará por que en los procesos iniciados bajo las reglas del sistema de justicia mixto tradicional, se cumpla con el debido proceso.
-
-Para el cumplimiento de sus funciones la Vicefiscalía Especializada en Procesos Penales de Hechos en Materia de Corrupción, contará con Agentes del Ministerio Público y con personal directivo, policial, administrativo y auxiliar que requiera, para tal efecto tendrá las siguientes facultades:
-
-I. Dirigir y coordinar los procesos y formular acusación penal en lo relativo a los hechos que la ley considera como delitos en materia de corrupción;
-
-II. Suplir las ausencias temporales del Fiscal Especializado en Combate a la Corrupción, en segundo orden de prelación;
-
-III. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
-
-IV. Calificar la propuesta de los Agentes del Ministerio Público de su adscripción relativas a la formulación de conclusiones no acusatorias, en los procesos penales en términos de los artículos 327 y 328 del Código de Procedimientos Penales para el Estado de Tamaulipas o, en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales;
-
-V. Dirigir y supervisar las acciones de la Coordinación General de Procesos, de las Coordinaciones de Litigación y de Operación y Supervisión, Dirección de Control de Aseguramiento de Bienes y Extinción de Dominio, así como de los ministerios públicos, policías y peritos adscritos a las mismas, en la integración de las carpetas de investigación, el ejercicio de la acción penal o su determinación final;
-
-VI. Dictar a las y los servidores públicos de la Vicefiscalía las instrucciones generales o especiales necesarias para el cumplimiento de sus funciones;
-
-VII. Revisar y, en su caso, modificar o aprobar los dictámenes, estudios y promociones que sometan a su consideración las y los servidores públicos a su mando;
-
-VIII. Solicitar a las instancias de gobierno federal, estatal o municipal la información que resulte útil o necesaria para sus investigaciones;
-
-IX. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación integral del daño;
-
-X. Supervisar y ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas;
-
-XI. Supervisar que las investigaciones complementarias, acusaciones y juicios orales derivados del ejercicio de la acción penal, se rijan bajos (sic) los criterios del Plan de Persecución Penal;
-
-XII. Autorizar las propuestas de los Agentes del Ministerio Público de su adscripción relativas a la aplicación de criterio de oportunidad, acuerdo reparatorio y procedimiento abreviados;
-
-XIII. Designar al Agente del Ministerio Público más apto para la supervisión y seguimiento en forma especial de los procedimientos penales que así lo ameriten;
-
-XIV. Coordinar y supervisar la actuación de las policías con funciones de investigación de delitos, en los términos de lo dispuesto en el artículo 21 de la Constitución General y 124 de la Constitución del Estado, así como la participación con las unidades administrativas y órganos desconcentrados de la Fiscalía General;
-
-XV. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales, cuyo valor equivalga al producto, instrumentos u objetos del hecho delictivo, cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
-
-XVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la Ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
-
-XVII. Verificar que en el trámite de los medios de impugnación se expresen los agravios y se desahoguen las vistas que correspondan ante las instancias competentes;
-
-XVIII. Coordinar, dirigir y supervisar que los Agentes del Ministerio Público tengan una adecuada y eficaz intervención en el desarrollo del proceso de ejecución de sanciones;
-
-XIX. Dar intervención a la unidad administrativa en materia de servicios periciales y ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
-
-XX. Solicitar a las instancias de gobierno federal, estatal o municipal la información que resulte útil o necesaria para la investigación complementaria;
-
-XXI. Proponer al Fiscal Especializado en Combate a la Corrupción, el proyecto de rotación y sustitución de los Agentes del Ministerio Público de su adscripción;
-
-XXII. Verificar el adecuado control y registro de los bienes asegurados; y
-
-XXIII. Las demás que le confiera el Reglamento y otras disposiciones, siempre que no se opongan a las disposiciones de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2023)</small>
-
-###### Artículo 27 Decies.
-
-Para el ejercicio efectivo de las funciones y el despacho de los asuntos que competen a la Vicefiscalía Especializada en Procesos Penales de Hechos en Materia de Corrupción, ésta se integrará cuando menos con las unidades administrativas siguientes:
-
-A. Coordinación General de Procesos:
+B. Coordinación General de Litigación:
 
 a) Coordinación de Litigación;
 
 b) Coordinación de Operación y Supervisión; y
 
-c) Dirección de Control de Aseguramiento de Bienes y Extinción de Dominio.
+c) Dirección de Seguimiento a Medidas, Control Judicial y Amparos.
+
+C. Dirección de Administración;
+
+D. Coordinación de Comunicación Social y Enlace con Dependencias y Organismos;
+
+E. Dirección de Tecnologías, Sistemas y Soporte;
+
+F. Dirección de Prevención y Difusión; y
+
+G. Unidad de Inteligencia Financiera y Económica:
+
+a) Dirección de Investigación Financiera y Patrimonial;
+
+b) Dirección de Análisis de Información;
+
+c) Dirección de Análisis Forense; y
+
+d) Dirección Jurídica.
+
+Los servidores públicos titulares de las unidades administrativas señaladas en el apartado A, incisos a), c), d) y e), así como en el apartado a) y b), contarán con funciones de Ministerio Público, conforme a lo dispuesto por las fracciones VII y VIII, del artículo 6 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 27 Ter.
+
+La Unidad de Inteligencia Financiera y Económica estará adscrita a la Fiscalía Especializada en Combate a la Corrupción y será la encargada de obtener y analizar información fiscal, financiera, patrimonial y económica para generar y consolidar productos de inteligencia, que sustenten la investigación de actos que produzcan en las personas un beneficio o incremento económico injustificable, derivado de delitos por hechos de corrupción y delitos conexos.
+
+La persona titular de la Unidad de Inteligencia Financiera y Económica, será designada por la persona titular de la Fiscalía Especializada en Combate a la Corrupción; la cual tendrá un nivel administrativo de Coordinador General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 27 Quater.
+
+Para designar a la persona Titular de la Unidad de Inteligencia Financiera y Económica, se requiere cumplir los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener por lo menos treinta años cumplidos el día de la designación;
+
+III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas, administrativas o afín con las funciones de la unidad, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente;
+
+IV. Contar con experiencia profesional en materia fiscal, de derecho, financiera, contable y/o económica;
+
+V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso;
+
+VI. En su caso, tener acreditado el Servicio Militar Nacional;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+VIII. Aprobar las evaluaciones de control de confianza previstas en la legislación aplicable; y
+
+IX. Los demás requisitos constitucionales y legales que rijan el ingreso y permanencia de las y los servidores públicos en las instituciones de seguridad pública.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 27 Quinquies.
+
+A la Unidad de Inteligencia Financiera y Económica, le corresponden las siguientes atribuciones y obligaciones:
+
+I. Requerir, obtener, analizar, procesar y consolidar información financiera, fiscal, patrimonial y económica de personas físicas o morales, para la investigación de hechos ilícitos con la finalidad de aportar o remitir los productos de inteligencia al Agente del Ministerio Público;
+
+II. Proponer al Fiscal Especializado en Combate a la Corrupción la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de información, experiencias, conocimientos y avances tecnológicos;
+
+III. Requerir a las dependencias, entidades y demás órganos de la Administración Pública del Estado, de la Federación y de los municipios, la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren;
+
+IV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+V. Participar, previo acuerdo con el Fiscal Especializado en Combate a la Corrupción, en la formulación, vigilancia y cumplimiento de los convenios o acuerdos de coordinación o colaboración suscritos en los términos de las leyes, reglamentos o acuerdos aplicables;
+
+VI. Realizar las diligencias necesarias para allegarse de información financiera, fiscal y patrimonial, de personas físicas y morales;
+
+VII. Colaborar en los procesos de investigación, previo acuerdo con el titular de la Fiscalía Especializada en Combate a la Corrupción, con las distintas unidades de la Fiscalía General de Justicia del Estado, conforme al ejercicio de sus funciones y atribuciones; y
+
+VIII. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente el reglamento de esta ley y otras disposiciones.
+
+Los datos, documentos o cualquier otra información que obre en poder de la Unidad de Inteligencia, con motivo de las investigaciones realizadas conforme a sus funciones, tiene el carácter de reservada conforme a la (sic) Leyes en materia de transparencia y acceso a la información.
+
+###### Artículo 27 Sexies.
+
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2024)
+
+###### Artículo 27 Septies.
+
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2024)
+
+###### Artículo 27 Octies.
+
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2024)
+
+###### Artículo 27 Nonies.
+
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2024)
+
+###### Artículo 27 Decies.
+
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2024)
 
 ###### Artículo 28.
 
@@ -1079,9 +1063,11 @@ I. Ejercer las atribuciones que la Constitución General, la Constitución del E
 
 II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos contenidos en las disposiciones legales en materia de niñas, niños y adolescentes;
 
-III. Conocer de las denuncias y/o querellas que se presenten por hechos que pudieran ser constitutivos de delitos en agravio de mujeres por razones de género, en estricto apego al respeto de los derechos humanos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
-IV. Recibir y dar trámite a las denuncias y/o querellas iniciadas con motivo de la presunta comisión del delito de feminicidio, de acuerdo a lo establecido en el marco jurídico aplicable;
+III. Conocer de las denuncias y/o querellas que se presenten por hechos que pudieran ser constitutivos de delitos en agravio de mujeres por razones de género, en estricto apego al respeto de los derechos humanos, siempre que no sea facultad de alguna Fiscalía o Unidad Especializada;
+
+IV. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
 V. Conocer y decidir sobre la autorización del no ejercicio de la acción penal y las incompetencias propuestas por los Agentes del Ministerio Público correspondientes;
 
@@ -1092,6 +1078,26 @@ VII. Dictar las medidas de protección y providencias precautorias, tendentes a 
 VIII. Coordinar a través de los Centros de Justicia para las Mujeres, estrategias y acciones en materia de prevención, atención y erradicación de la violencia; y
 
 IX. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 28 Ter.
+
+La persona titular de la Fiscalía Especializada en la Investigación de Delitos de Feminicidio y Homicidios Dolosos de Mujeres, tendrá las siguientes facultades:
+
+I. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, las leyes, reglamentos, los protocolos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que las leyes consideran como delitos de su competencia;
+
+II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos contenidos en las disposiciones legales en materia de feminicidio y homicidio doloso en contra de mujeres;
+
+III. Supervisar que las carpetas de investigación iniciadas con motivo de delitos de feminicidio y homicidio doloso en contra de mujeres se lleven a cabo en estricto respeto a los derechos humanos
+
+IV. Conocer y decidir sobre la autorización del no ejercicio de la acción penal y las incompetencias propuestas por los Agentes del Ministerio Público;
+
+V. Implementar acciones para prevenir y combatir los delitos de su competencia;
+
+VI. Dictar las medidas de protección y providencias precautorias, tendentes a proteger a la víctima u ofendido de un riesgo inminente; y
+
+VII. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
 ### CAPÍTULO V. DE LAS FISCALÍAS DE DISTRITO Y ESPECIALES
 
@@ -2736,3 +2742,41 @@ P.O. 19 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-68 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XV Y XVI; 10, PÁRRAFO PRIMERO, FRACCIÓN X; 23, PÁRRAFO ÚNICO, Y SU FRACCIÓN III; 27, PÁRRAFO PRIMERO, FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, XI, XII, XIV, XV, XVI, XIX, XX, XXII, XXV, XXVI, XXVII, XXX, XXXI, XXXII, XXXIII, Y PÁRRAFOS SEGUNDO Y TERCERO; 27 BIS; 27 TER; 27 QUATER; 27 QUINQUIES Y 28 BIS, FRACCIÓN III; SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO A LA FRACCIÓN XXX, Y LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 27; Y EL ARTÍCULO 28 TER; Y SE DEROGAN LA FRACCIÓN IV, DEL ARTÍCULO 6; LA FRACCIÓN XI, DEL ARTÍCULO 10; LA FRACCIÓN XXIII, DEL ARTÍCULO 27; LOS ARTÍCULOS 27 SEXIES; 27 SEPTIES; 27 OCTIES; 27 NONIES; 27 DECIES; Y LA FRACCIÓN IV, DEL ARTÍCULO 28 BIS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría de Finanzas, Contraloría Gubernamental y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado para que ésta a su vez, los asigne conforme a la naturaleza de sus funciones a la Fiscalía Especializada en Combate a la Corrupción.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado, para lo cual contarán con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para acreditar los requisitos de ingreso o permanencia respectivamente, conforme a la normatividad aplicable.
+
+Los recursos humanos transferidos a la Fiscalía General deberán dar cumplimiento a las obligaciones en materia de responsabilidades administrativas, tales como declaración patrimonial, fiscal o cualquier otra que como servidores públicos de la Fiscalía General deban observar.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Contraloría Gubernamental, Secretaría de Administración y a la Secretaría de Finanzas, lleven a cabo los procedimientos correspondientes a las adecuaciones normativas a las que haya lugar con la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento de la Unidad de Inteligencia Financiera y Económica, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Unidad de Inteligencia Financiera y Económica, serán atendidos por ésta hasta su conclusión.
