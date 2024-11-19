@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-del-tecnologico-14021
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-07"
-last_updated: "2020-01-07"
+last_updated: "2024-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO (TESOEM), PUBLICADO EN LA G.G. DE 19 DE NOVIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO (TESOEM)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 2 de la Gaceta del Gobierno del Estado de México, el martes 7 de enero de 2020.
 
@@ -578,3 +580,15 @@ El Director General del Tecnológico de Estudios Superiores del Oriente del Esta
 Mtro. Juan Demetrio Sánchez Granados
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 19 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO (TESOEM)”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta para los Servidores Públicos del Tecnológico de Estudios Superiores del Oriente del Estado de México, que con (sic) en su momento haya sido publicado y con anterioridad al presente Código de Conducta y Reglas de Integridad, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
