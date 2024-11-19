@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-v-2024-del-comite-1748
 country: "mx"
 rank: "acuerdo"
 publication_date: "2024-10-11"
-last_updated: "2024-10-11"
+last_updated: "2024-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2024-10-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO V/2024, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PUBLICAS DE MANDO MEDIO Y PERSONAL OPERATIVO DE ESTE ALTO TRIBUNAL]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE NOVIEMBRE DE 2024 EN EL VINCULO https://www.scjn.gob.mx/conoce-lacorte/marconormativo/public/api/download?fileName=02.%20%20Fe%20de%20erratas%20AGA%20V2024%20MMyPO(2).pdf, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE MANDO MEDIO Y PERSONAL OPERATIVO DE ESTE ALTO TRIBUNAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS DEL 19 DE NOVIEMBRE DE 2024, OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-lacorte/marconormativo/public/api/download?fileName=02.%20%20Fe%20de%20erratas%20AGA%20V2024%20MMyPO(2).pdf]</small>
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Undécima Época, Registro digital 5993, el viernes 11 de octubre de 2024, Páginas de la 1 a la 14.
 
@@ -209,7 +209,9 @@ La pensión complementaria de los hijos e hijas mayores de dieciocho años de ed
 
 La pensión complementaria a que se refiere este capítulo se perderá por alguna de las causas siguientes:
 
-I. En el caso de los hijos e hijas de la persona pensionada, cuando alcancen la mayoría de edad, salvo lo dispuesto en el artículo 18 del presente Acuerdo General de Administración acuerdo o tengan incapacidad legal en términos de las disposiciones aplicables, y
+(F. DE E. 19 DE NOVIEMBRE DE 2024) [N. DE E. OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-lacorte/marconormativo/public/api/download?fileName=02.%20%20Fe%20de%20erratas%20AGA%20V2024%20MMyPO(2).pdf]
+
+I. En el caso de los hijos e hijas de la persona pensionada, cuando alcancen la mayoría de edad, salvo lo dispuesto en el artículo 18 del presente Acuerdo General de Administración o tengan incapacidad legal en términos de las disposiciones aplicables, y
 
 II. Por fallecimiento del familiar beneficiado que venía disfrutando de la pensión.
 
@@ -321,7 +323,9 @@ X. Constancia de situación fiscal actualizada;
 
 XI. En caso de tratarse de cuentas individuales, documento de oferta expedido por el ISSSTE y comprobante de depósito mensual de la aseguradora elegida;
 
-XII. En caso de pensión complementaria por causa de muerte, copia certificadas acta de defunción y acta de matrimonio y/o nacimiento;
+(F. DE E. 19 DE NOVIEMBRE DE 2024) [N. DE E. OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-lacorte/marconormativo/public/api/download?fileName=02.%20%20Fe%20de%20erratas%20AGA%20V2024%20MMyPO(2).pdf]
+
+XII. En caso de pensión complementaria por causa de muerte, copias certificadas del acta de defunción y acta de matrimonio y/o nacimiento;
 
 XIII. En caso de pensión complementaria por invalidez, el documento emitido por el ISSSTE que acredite el otorgamiento de la pensión, y
 
@@ -403,7 +407,9 @@ II. Ordenar que la resolución que emita sea notificada tanto a la persona inter
 
 III. Interpretar y resolver los casos no previstos en el presente Acuerdo General de Administración, y
 
-IV. Instruir el envío a la Tesorería las solicitudes para el pago, con cargo a los recursos del presupuesto de la Suprema Corte, de las pensiones complementarias que se autoricen en observancia al presente Acuerdo General de Administración.
+(F. DE E. 19 DE NOVIEMBRE DE 2024) [N. DE E. OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-lacorte/marconormativo/public/api/download?fileName=02.%20%20Fe%20de%20erratas%20AGA%20V2024%20MMyPO(2).pdf]
+
+IV. Instruir el envío a la Tesorería de las solicitudes para el pago, con cargo a los recursos del presupuesto de la Suprema Corte, de las pensiones complementarias que se autoricen en observancia al presente Acuerdo General de Administración.
 
 ###### Artículo 44.
 
