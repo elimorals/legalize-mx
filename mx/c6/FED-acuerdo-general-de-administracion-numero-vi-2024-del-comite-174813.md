@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-vi-2024-del-comite-174
 country: "mx"
 rank: "acuerdo"
 publication_date: "2024-10-11"
-last_updated: "2024-10-11"
+last_updated: "2024-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2024-10-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO VI/2024, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REGULA EL PLAN DE LAS PRESTACIONES MEDICAS COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PUBLICAS DE ESTE ALTO TRIBUNAL]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE NOVIEMBRE DE 2024 EN EL VINCULO HTTPS://WWW.SCJN.GOB.MX/CONOCE-LA-CORTE/MARCONORMATIVO/PUBLIC/API/DOWNLOAD?FILENAME=02.%20FE%20DE%20ERRATAS%20AGA%20VI2024%20PM(1).PDF, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VI/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL PLAN DE LAS PRESTACIONES MÉDICAS COMPLEMENTARIAS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE ESTE ALTO TRIBUNAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS DEL 19 DE DICIEMBRE DE 2024, OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-la-corte/marconormativo/public/api/download?fileName=02.%20Fe%20de%20erratas%20AGA%20Vi2024%20PM(1).pdf]</small>
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Undécima Época, Registro digital: 5994, páginas de la 1 a la 16
 
@@ -103,7 +103,9 @@ XIII. Pensionado: el trabajador que se retiró del servicio activo de la Suprema
 
 XIV. Persona con discapacidad: toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
-XV. Persona trabajadora: las personas servidores públicas de la Suprema Corte, a que hace referencia el presente Acuerdo General de Administración;
+(F. DE E. 19 DE DICIEMBRE DE 2024) [N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-la-corte/marconormativo/public/api/download?fileName=02.%20Fe%20de%20erratas%20AGA%20Vi2024%20PM(1).pdf]
+
+XV. Persona trabajadora: las personas servidoras públicas de la Suprema Corte, a que hace referencia el presente Acuerdo General de Administración;
 
 XVI. Prestaciones médicas complementarias: las señaladas en el artículo 4, primer párrafo, fracciones I a X, del presente Acuerdo General de Administración;
 
@@ -471,7 +473,9 @@ V. En caso de que la solicitud resulte improcedente, la persona titular de la Se
 
 VI. Las resoluciones favorables emitidas por Recursos Humanos, tendrán carácter provisional y deberán someterse a resolución definitiva del Comité Operativo por la persona titular de la Secretaría, previa integración del expediente respectivo con la totalidad de requisitos establecidos en el presente Acuerdo, y
 
-VII. En caso, de que el Comité Operativo determine la improcedencia de la solicitud, el importe otorgado adquirirá el carácter de "apoyo extraordinario con carácter devolutivo". En tal circunstancia y en un plazo no excedente de quince días hábiles a partir de emisión de la resolución del Comité Operativo, la persona trabajadora deberá suscribir los pagarés correspondientes, de acuerdo con el número de parcialidades mensuales designadas para su liquidación. Esta cantidad puede variar desde doce hasta treinta y seis, conforme al procedimiento estipulado en el artículo 21 del presente Acuerdo General de Administración.
+(F. DE E. 19 DE DICIEMBRE DE 2024) [N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL VÍNCULO: https://www.scjn.gob.mx/conoce-la-corte/marconormativo/public/api/download?fileName=02.%20Fe%20de%20erratas%20AGA%20Vi2024%20PM(1).pdf]
+
+VII. En caso, de que el Comité Operativo determine la improcedencia de la solicitud, el importe otorgado adquirirá el carácter de "apoyo extraordinario con carácter devolutivo". En tal circunstancia y en un plazo no excedente de quince días hábiles a partir de la emisión de la resolución del Comité Operativo, la persona trabajadora deberá suscribir los pagarés correspondientes, de acuerdo con el número de parcialidades mensuales designadas para su liquidación. Esta cantidad puede variar desde doce hasta treinta y seis, conforme al procedimiento estipulado en el artículo 21 del presente Acuerdo General de Administración.
 
 La prestación señalada en el presente artículo sólo será aplicable para las personas referidas en el artículo 8, fracciones I, II y III.
 
