@@ -4,7 +4,7 @@ identifier: "FED-convocatoria-para-participar-en-la-evaluacion-y-seleccion-17496
 country: "mx"
 rank: "otro"
 publication_date: "2024-11-04"
-last_updated: "2024-11-04"
+last_updated: "2024-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2024-11-04"
 ---
 # CONVOCATORIA PARA PARTICIPAR EN LA EVALUACION Y SELECCION DE POSTULACIONES DE LA ELECCION EXTRAORDINARIA 2024-2025 DE LAS PERSONAS JUZGADORAS QUE OCUPARAN LOS CARGOS DE MINISTRAS Y MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION; MAGISTRADAS Y MAGISTRADOS DE LAS SALAS SUPERIOR Y REGIONALES DEL TRIBUNAL ELECTORAL; MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL DE DISCIPLINA JUDICIAL; Y MAGISTRADAS Y MAGISTRADOS DE CIRCUITO Y JUEZAS Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE NOVIEMBRE DE 2024 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONVOCATORIA PARA PARTICIPAR EN LA EVALUACIÓN Y SELECCIÓN DE POSTULACIONES DE LA ELECCIÓN EXTRAORDINARIA 2024-2025 DE LAS PERSONAS JUZGADORAS QUE OCUPARÁN LOS CARGOS DE MINISTRAS Y MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN; MAGISTRADAS Y MAGISTRADOS DE LAS SALAS SUPERIOR Y REGIONALES DEL TRIBUNAL ELECTORAL; MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL DE DISCIPLINA JUDICIAL; Y MAGISTRADAS Y MAGISTRADOS DE CIRCUITO Y JUEZAS Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE NOVIEMBRE DE 2024.]</small>
 
 Convocatoria publicada en el Diario Oficial de la Federación, el lunes 4 de noviembre de 2024.
 
@@ -803,7 +803,9 @@ Las personas aspirantes que así lo decidan voluntariamente o que no cuenten con
 
 5. Las personas aspirantes deberán aceptar que la información proporcionada es veraz y que puede ser sujeta a verificación.
 
-6. La información y datos de la página podrán ser llenados de manera diferida, permitiendo a las y los aspirantes guardar su progreso; sin embargo, deberán completar su registro a más tardar a las 23:59 horas del 24 de noviembre de 2025, de lo contrario, no se considerará su candidatura.
+> <small>(F. DE E., D.O.F. 20 DE NOVIEMBRE DE 2024)</small>
+
+6. La información y datos de la página podrán ser llenados de manera diferida, permitiendo a las y los aspirantes guardar su progreso; sin embargo, deberán completar su registro a más tardar a las 23:59 horas del 24 de noviembre de 2024, de lo contrario, no se considerará su candidatura.
 
 7. Se implementarán los ajustes razonables necesarios para garantizar que las personas aspirantes con discapacidad puedan acceder plenamente al proceso de postulación. Asimismo, se ofrecerá acompañamiento a las personas indígenas que lo requieran.
 
