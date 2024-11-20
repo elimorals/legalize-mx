@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-cultural-para-el-estado-de-chihuahua-126176"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-03"
-last_updated: "2024-07-10"
+last_updated: "2024-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Número 10 del Periódico Oficial de Chihuahua, el sábado 3 de febrero de 2018.
 
@@ -557,6 +557,10 @@ V. Preservar, fomentar e impulsar la investigación de las manifestaciones cultu
 
 VI. Expedir los reglamentos en el ámbito de su competencia que normen la actividad cultural.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2024)</small>
+
+VI Bis. Realizar un inventario de las expresiones culturales que son catalogadas como patrimonio cultural material e inmaterial en su territorio.
+
 VII. Otorgar premios, reconocimientos o estímulos a los individuos, comunidades, organizaciones o grupos, instituciones públicas o privadas que se hayan destacado en la promoción, preservación, difusión e investigación de las manifestaciones culturales del municipio.
 
 VIII. Constituir órganos de apoyo en la coordinación y ejecución de los programas culturales municipales.
@@ -753,7 +757,13 @@ IX. Promover actividades de concertación para unificar programas relativos a la
 
 X. Definir e impulsar estrategias para la capacitación de los miembros de las diversas comunidades, a fin de que se dediquen al estudio, conservación y promoción de sus valores y manifestaciones culturales, contribuyendo así al fortalecimiento de su identidad.
 
-XI. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones, el arte popular y el patrimonio cultural material e inmaterial y de todas aquellas actividades vinculadas a las manifestaciones culturales en el Estado.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2024)</small>
+
+XI. Promover e impulsar las investigaciones antropológicas y etnográficas, así como la conservación y promoción de la historia, las tradiciones, el arte popular y el patrimonio cultural material e inmaterial y de todas aquellas actividades vinculadas a las manifestaciones culturales en el Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2024)</small>
+
+XII. Realizar un registro puntual del patrimonio cultural material e inmaterial en su demarcación.
 
 ###### Artículo 53.
 
@@ -868,6 +878,14 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 10 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0861/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0908/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
