@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2024-06-26"
+last_updated: "2024-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -341,7 +341,9 @@ Cuando una persona que pertenezca a un pueblo indígena y no hable suficientemen
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, en caso de una resolución vinculatoria de la Corte Interamericana de Derechos Humanos o de instrumentos internacionales vinculantes, de las recomendaciones aceptadas por sus autoridades, o de aquéllas derivadas de procedimientos de amigable composición, que impliquen una reparación del daño, deberán contemplar en la integración de sus presupuestos respectivos, un fondo destinado para el cumplimiento de la reparación del daño de las víctimas de violación de los derechos humanos. En caso de que los recursos no sean utilizados en el ejercicio correspondiente, serán acumulables para el ejercicio inmediato siguiente.
 
-El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene desde el momento de la concepción, entra bajo la protección de la Ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la legislación penal.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene. Sin perjuicio de las excluyentes de responsabilidad previstas en la legislación Penal del Estado de Chiapas.
 
 Las autoridades estatales y municipales, en los términos y condiciones que establezcan la Constitución General de la República, la particular del Estado, las leyes que de ellas emanan, los Tratados y Convenios Internacionales ratificados y vigentes en México, garantizarán:
 
@@ -4918,3 +4920,13 @@ P.O. 26 DE JUNIO DE 2024.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 018 POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 4; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE DERECHOS DE LAS MUJERES Y PERSONAS GESTANTES”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas correspondientes, en un plazo no mayor a 30 días hábiles contados a partir de la entrada en vigor al presente Decreto.
