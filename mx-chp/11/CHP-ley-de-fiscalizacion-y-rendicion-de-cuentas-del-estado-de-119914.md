@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11991
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-01"
-last_updated: "2024-03-13"
+last_updated: "2024-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado Libre y Soberano de Chiapas, el miércoles 1 de febrero de 2017.
 
@@ -1217,7 +1215,9 @@ I. Gozar de buena reputación y no haber sido condenado por delito intencional q
 
 II. Haber residido en el Estado durante los dos años anteriores al día de la designación.
 
-III. No haber sido Secretario de Despacho, Fiscal o Procurador General, Senador, Diputado, Titular de cualquiera de los Poderes del Estado; Presidente, Síndico o Regidor Municipal, titular o en su caso comisionado de algún órgano constitucionalmente autónomo; dirigente de algún partido político, no haber sido tesorero, titular de las finanzas o de la administración de algún partido político, ni haber sido postulado para cargo de elección popular durante el año previo al día de su nombramiento.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+III. No haber sido Secretario de Despacho, Fiscal o Procurador General, Titular de cualquiera de los Poderes del Estado; Presidente, Síndico o Regidor Municipal, titular o en su caso comisionado de algún órgano constitucionalmente autónomo; dirigente de algún partido político, no haber sido tesorero, titular de las finanzas o de la administración de algún partido político, ni haber sido postulado para cargo de elección popular durante el año previo al día de su nombramiento.
 
 IV. Contar al momento de su designación con una experiencia efectiva de diez años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas; administración financiera, o manejo de recursos.
 
@@ -1484,3 +1484,11 @@ Artículo Sexto.- El proceso de presentación de solicitudes y/o atención a req
 Artículo Séptimo.- El proceso de Notificación Digital a través del Buzón Digital de los procedimientos de Investigación y Sustanciación de Responsabilidades Administrativas a que se refiere el presente Decreto, se iniciará una vez que el marco normativo establecido en la Ley Orgánica del Tribunal Administrativo del Poder Judicial del Estado lo permita, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas.
 
 Artículo Octavo.- Las erogaciones que se generen con motivo de la operación, control, administración y mantenimiento del Buzón Digital se cubrirán con cargo al presupuesto aprobado para la Auditoría Superior del Estado, en el presente ejercicio fiscal y los subsecuentes.
+
+P.O. 21 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 021 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 91 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
