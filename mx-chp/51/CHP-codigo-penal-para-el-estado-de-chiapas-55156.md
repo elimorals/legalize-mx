@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2024-03-07"
+last_updated: "2024-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE MARZO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 260 PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2895,6 +2893,8 @@ El que incurra en la comisión de alguno de los delitos señalados en este capí
 
 ### Capítulo IV. Extorsión
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 268.
 
 Comete el delito de bigamia el que, estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga nuevo matrimonio con las formalidades legales.
@@ -3259,39 +3259,43 @@ El abuso de confianza, sólo se perseguirá a petición del ofendido en cualquie
 
 ###### Artículo 300.
 
-Comete el delito de extorsión, el que sin derecho obligue a otro a dar, a hacer, a tolerar o dejar de hacer algo, obteniendo un lucro para sí o para otro causando un perjuicio patrimonial en contra de una persona.
+Comete el delito de extorsión, el que sin derecho obligue a otro a dar, a hacer, a tolerar o dejar de hacer algo, obteniendo un lucro o beneficio para sí o para otro; también comete el delito de extorsión quien mediante la violencia física o moral exija de otro la entrega, envío o depósito para sí o para un tercero, de cosas, dinero o documentos.
 
-Al responsable del delito de extorsión, se le aplicará una pena de prisión de cinco a diez años y multa de cien a quinientos días de salario.
+El mismo delito cometerá quien, exija a otro mediante coacción la suscripción, destrucción o entrega de documentos que contengan obligaciones o créditos.
+
+Al responsable del delito de extorsión se le aplicará la pena de prisión de 10 a 20 años y multa de quinientos a mil días de unidades de medidas de actualización en cualquiera de los supuestos.
+
+El tipo penal descrito anteriormente será perseguido de oficio.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 301.
 
-Las penas señaladas en el artículo anterior se aumentarán hasta un tanto más en los siguientes casos:
+La pena prevista en el artículo anterior se aumentará hasta en una mitad, cuando se actualice cualquiera de las siguientes hipótesis:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2008)</small>
+I. Intervengan dos o más personas.
 
-I.- Si el constreñimiento se realiza por una asociación delictuosa o se simule pertenecer a ésta.
+II. Se cometa en contra de una persona menor de edad, persona mayor de sesenta años o persona con alguna discapacidad.
 
-II.- Si el constreñimiento se realiza por un servidor público o ex servidor público o por un miembro o ex miembro de corporación policíaca o de las fuerzas armadas.
+III. Si se utiliza como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
 
-III.- Si en el delito interviene una o más personas armadas o se utilizan instrumentos peligrosos.
+IV. Cuando el sujeto activo del delito se encuentre privado de su libertad bajo cualquier circunstancia en un Centro Penitenciario Estatal o Federal, a disposición de cualquier autoridad.
 
-IV.- Si se emplea violencia física para la consumación del delito.
+V. Cuando el sujeto activo del delito se ostente como integrante de alguna institución policial, de seguridad pública o privada o de las fuerzas armadas.
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+VI. Cuando el sujeto activo del delito se ostente como servidor público, en cualquier ámbito de gobierno.
 
-V.- Si es cometido en contra de un adulto mayor de sesenta años de edad.
+VII. Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares.
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+VIII. Cuando el sujeto activo del delito se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio.
 
-VI.- Si se utiliza como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
+IX. Participen servidores públicos o trabajadores de instituciones privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades. En caso de ser servidor público, se hará la destitución del empleo, cargo o comisión, así como la inhabilitación de diez a quince años para desempeñar cualquier cargo como servidor público.
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+X. Cuando se utilicen a personas menores de edad o que no tengan la capacidad de comprender el hecho.
 
-VII.- Si se comete desde un centro de reinserción social, independientemente de la pena por la que se encuentre recluido el sujeto activo. En este caso, la pena correspondiente se aplicará una vez que el procesado o en su caso el sentenciado según se trate, hubiera compurgado la pena que corresponda al delito por el que se encuentre sujeto a prisión.
+XI. Cuando se cometa contra comerciantes, empresarios, campesinos, ejidatarios, comuneros o empleados de estos.
 
-En los casos correspondientes, se impondrá, además, al servidor o ex servidor público o al miembro o ex miembro de alguna corporación policíaca, la destitución del empleo, cargo o comisión y se le inhabilitará, según el caso, de uno a cinco años para desempeñar cargo o comisión pública.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+En los casos correspondientes, se impondrá, además, al servidor o exservidor público o al miembro o exmiembro de alguna corporación policíaca, la destitución del empleo, cargo o comisión y se le inhabilitará, según el caso, de uno a cinco años para desempeñar cargo o comisión pública.
 
 Si se tratare de un miembro de las fuerzas armadas mexicanas en situación de retiro, se le inhabilitará de uno a cinco años para desempeñar cargo o comisión pública, respecto de los miembros de las fuerzas armadas en situación de reserva o en activo, se dará aviso e intervención mediante el desglose respectivo que lleve a cabo la autoridad investigadora, a la institución armada a que pertenezca el imputado para los efectos legales respectivos.
 
@@ -6232,3 +6236,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Cualquier erogación que se genere con motivo a la entrada en vigor del presente Decreto, será cubierta de conformidad con el presupuesto autorizado a las Dependencias y Entidades de la Administración Pública Estatal, el Poder Judicial y Órganos Autónomos responsables de la ejecución del gasto público, para el ejercicio fiscal correspondiente.
+
+P.O. 21 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 022 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
