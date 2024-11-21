@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-10-15"
+last_updated: "2024-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -67,11 +67,9 @@ LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIB
 
 2. Esta ley establece las normas de organización interna del Congreso, los preceptos para la integración de las diversas formas de agrupación por afiliación partidista, las disposiciones de comportamiento parlamentario y sanciones aplicables a su infracción, así como los procedimientos para el desahogo de las atribuciones que corresponden al Poder Legislativo.
 
-(NOTA: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 65-172, POR EL QUE SE REFORMA EL PÁRRAFO 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2022)</small>
-
-3. ESTA LEY, SUS REFORMAS, ADICIONES, DEROGACIONES, ASÍ COMO SU ABROGACIÓN, NECESITARÁN PARA SU APROBACIÓN LA VOTACIÓN DE LAS DOS TERCERAS PARTES DE LOS INTEGRANTES DEL CONGRESO; ASIMISMO NO REQUERIRÁN DE PROMULGACIÓN DEL EJECUTIVO PARA TENER VIGENCIA, NI PODRÁN SER OBJETO DE OBSERVACIONES Y SERÁN PUBLICADAS INMEDIATAMENTE EN EL PERIÓDICO OFICIAL DEL ESTADO.
+3. Esta ley, sus reformas, adiciones, derogaciones, así como su abrogación requerirán para su aprobación la votación de la mayoría de las Diputadas y los Diputados presentes, no necesitarán de promulgación del Ejecutivo para tener vigencia, ni podrán ser objeto de observaciones y serán publicadas inmediatamente en el Periódico Oficial del Estado.
 
 ###### ARTICULO 4.
 
@@ -111,7 +109,7 @@ LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIB
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 8.
+###### ARTICULO 8.
 
 Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado destinados al servicio del Congreso, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de las y los diputados en el Salón de Sesiones, en el Recinto o en las instalaciones del Congreso. Tratándose de ejecución de resoluciones judiciales o administrativas, éstas podrán realizarse, sobre cualquier persona, previa autorización de la Mesa Directiva o de la Diputación Permanente, según corresponda.
 
@@ -141,7 +139,7 @@ Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado d
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 9 BIS.
+ARTICULO 9 BIS.
 
 1. Para efectos de lo previsto en el artículo anterior, las y los diputados electos deberán presentarse en el Recinto Legislativo dentro de los tres días previos al inicio de la legislatura, en la fecha y horarios que defina la Presidencia de la Mesa Directiva o la Diputación Permanente, según sea el caso, cuyo aviso, para su conocimiento, deberá publicarse en los medios de difusión con que cuenta el Congreso del Estado, ello a efecto de realizar el trámite de verificación de identidad, mismo que se sujetará al siguiente procedimiento:
 
@@ -229,21 +227,29 @@ El presidente de la Mesa Directiva o de la Diputación Permanente, según sea el
 
 ###### ARTICULO 15.
 
-1. La Mesa Directiva del Congreso será electa por el pleno en votación por cédula; se integrará con un presidente, dos secretarios y un suplente.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
+1. La Mesa Directiva del Congreso será electa por el Pleno en votación por cédula; estará integrará por una presidencia, dos secretarías y una suplencia.
 
-2. El presidente de la mesa directiva y su suplente durarán en su cargo sólo un periodo ordinario.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-La presidencia y suplencia de la mesa directiva de cada periodo ordinario será rotativa entre los diferentes grupos parlamentarios, dicha rotación se hará de forma decreciente atendiendo a su número de integrantes.
+2. La presidencia de la mesa directiva y suplencia durarán en su cargo sólo un periodo ordinario.
 
-La rotación señalada en el párrafo anterior se realizará hasta agotar todos los grupos parlamentarios que conformen la legislatura correspondiente.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-Los secretarios integrantes de la Mesa Directiva serán electos por el pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
+La presidencia y suplencia de la mesa directiva de cada periodo ordinario será aquella que elija el Pleno por mayoría de votos.
+
+> <small>(DEROGADO TERCER PÁRRAFO DEL NUMERAL 2, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+Las y los secretarios integrantes de la Mesa Directiva serán electos por el Pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, las y los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
 
 3. En caso de existir dos o más propuestas distintas, se someterán a votación conjuntamente, resultando electa la propuesta que obtenga el mayor número de cédulas sufragadas.
 
-4. El diputado que presida la elección hará la declaratoria correspondiente.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+4. La Diputada o Diputado que presida la elección hará la declaratoria correspondiente.
 
 ###### ARTICULO 16.
 
@@ -289,9 +295,9 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 4. La Mesa Directiva tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Formular y cumplir el orden del día de las sesiones, el cual distinguirá los asuntos de trámite, deliberativos y resolutivos o que requieran de votación, conforme al programa para el desahogo de las funciones constitucionales del Pleno que así lo acuerde la Junta de Gobierno;
+a) Formular y cumplir el orden del día de las sesiones, el cual distinguirá los asuntos de trámite, deliberativos y resolutivos o que requieran votación, conforme al programa para el desahogo de las funciones constitucionales del Pleno que acuerde la Junta de Gobierno;
 
 b) Asegurar el desarrollo de las sesiones del Pleno;
 
@@ -429,9 +435,9 @@ a) Cuando, a juicio del Pleno legislativo incurran en causas graves que afecten 
 
 b) Si transgreden en forma grave o reiterada las disposiciones de la Constitución General de la República, la Constitución Política del Estado de Tamaulipas, o las de esta ley;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-c) Cuando incumplan los acuerdos del Pleno, de la Junta de Gobierno o cuando se afecten las atribuciones constitucionales y legales del Congreso del Estado; y
+c) Si incumplan los acuerdos del Pleno Legislativo, de la Junta de Gobierno o cuando se afecten las atribuciones constitucionales y legales del Congreso del Estado; y
 
 d) Si dejan de asistir sin causa justificada, a tres o más sesiones del Congreso o al mismo número de reuniones de trabajo de la Mesa Directiva.
 
@@ -469,9 +475,9 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 5. El coordinador expresa la voluntad del grupo parlamentario en los asuntos inherentes a la dirección política del Congreso, a la luz del ejercicio de sus funciones constitucionales. A su vez, promueve los entendimientos necesarios para la adopción y emisión de resoluciones que competen al Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-6. El coordinador o coordinadora de cada grupo parlamentario participa con voz y voto en la Junta de Gobierno y la Junta de Coordinación Política.
+6. El coordinador o coordinadora de cada grupo parlamentario participa con voz y voto en la Junta de Gobierno.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -493,65 +499,69 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 2. Para su constitución las fracciones parlamentarias, observarán en lo conducente las disposiciones inherentes a los grupos parlamentarios establecidas en el artículo que antecede.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. Uno de los dos, diputada o diputado que integran la fracción parlamentaria, participará con la representación de la misma en la integración de la Junta de Gobierno y la Junta de Coordinación Política, teniendo derecho a voz y voto.
+3. Uno de los dos, diputada o diputado que integran la fracción parlamentaria, participará con la representación de la misma en la integración de la Junta de Gobierno, teniendo derecho a voz y voto.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 26.
 
-1. La Diputada o Diputado que sea único en cuanto a la representación de algún partido político o quien ostente el cargo por la vía independiente, por sí solo constituirá una representación partidista, al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Gobierno y de la Junta de Coordinación Política, teniendo derecho a voz y voto.
+1. La Diputada o Diputado que sea único en cuanto a la representación de algún partido político o quien ostente el cargo por la vía independiente, por sí solo constituirá una representación partidista, al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Gobierno, teniendo derecho a voz y voto.
 
-2. Asimismo, en lo conducente observará las disposiciones inherentes a los grupos parlamentarios respecto de su constitución e integración a la Junta de Gobierno y a la Junta de Coordinación Política.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+2. En lo conducente observará las disposiciones inherentes a los grupos parlamentarios respecto de su constitución e integración a la Junta de Gobierno.
 
 ###### ARTICULO 27.
 
-1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria, representación partidista, sin partido e independiente, la Junta de Gobierno acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Gobierno dispondrá una subvención mensual para cada forma de organización partidista, misma que estará integrada por una suma fija de carácter general y otra variable, en función del número de diputadas y diputados.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria, representación partidista, sin partido e independiente, la Junta de Gobierno acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Gobierno dispondrá una subvención mensual para cada forma de organización partidista, integrada por una suma fija de carácter general y otra variable, en función del número de diputadas y diputados.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 2. Las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes se incorporará a la cuenta pública del Congreso del Estado, correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Presidencia de la Mesa Directiva del Congreso del Estado. En todo caso, las y los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes, formularán proposiciones de ubicación y la Presidencia de la Mesa Directiva del Congreso del Estado, resolverá lo conducente.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 28.
 
-1. Las diputadas y los diputados que decidan no pertenecer a un grupo parlamentario, fracción parlamentaria o representación partidista o dejar de pertenecer a uno de ellos, sin integrarse a otra forma de organización partidista, serán considerados como diputadas o diputados sin partido. Se les guardarán las mismas consideraciones que a las demás legisladoras y legisladores, asimismo, se les brindarán los apoyos que requieran para el desempeño de sus funciones constitucionales, conforme a la disponibilidad material y presupuestal del Congreso del Estado.
+1. Las diputadas y diputados que decidan no pertenecer a un grupo parlamentario, fracción parlamentaria o representación partidista o dejar de pertenecer a uno de ellos, sin integrarse a otra forma de organización partidista, serán considerados como diputadas o diputados sin partido. Se les guardarán las mismas consideraciones que a las demás legisladoras y legisladores y conforme a la disponibilidad material y presupuestal del Congreso, se les brindarán los apoyos que requieran para el desempeño de sus funciones constitucionales.
 
-2. En caso de que en el transcurso de la Legislatura se declaren dos o más diputadas o diputados sin partido, a fin de garantizar el derecho de libre asociación, podrán formar una fracción parlamentaria o grupo parlamentario según sea el caso y tendrán todas las prerrogativas que la presente Ley prevé para estas formas de agrupación.
+2. En caso de que en el transcurso de la Legislatura se declaren dos o más diputadas o diputados sin partido, a fin de garantizar el derecho de libre asociación, podrán formar una fracción parlamentaria o grupo parlamentario según sea el caso y tendrán todas las prerrogativas que esta Ley prevé para estas formas de agrupación.
 
-3. La fracción parlamentaria o grupo parlamentario participará con voz y voto dentro de la Junta de Gobierno y en la Junta de Coordinación Política de este Congreso del Estado, debiendo ser considerados para la integración de la Diputación Permanente; solamente los Grupos Parlamentarios serán considerados para presidir la Mesa Directiva.
+3. La fracción parlamentaria o grupo parlamentario participará con voz y voto dentro de la Junta de Gobierno de este Congreso, debiendo ser considerados para la integración de la Diputación Permanente; solamente los Grupos Parlamentarios serán considerados para presidir la Mesa Directiva.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-### CAPITULO TERCERO BIS. SOBRE LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO
+### CAPITULO TERCERO BIS. DE LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ARTICULO 28 BIS.
 
-1. La Junta de Gobierno del Congreso del Estado, se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
+1. La Junta de Gobierno del Congreso del Estado, en adelante Junta de Gobierno, se integra con las coordinadoras y los coordinadores de cada grupo parlamentario, con las y los representantes de las fracciones parlamentarias, así como con las y los titulares de las representaciones partidistas.
 
-2. Será Presidente o Presidenta de la Junta de Gobierno por la duración de la Legislatura, el Coordinador o la Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
+2. Será Presidente o Presidenta de la Junta de Gobierno del Congreso por la duración de la Legislatura, el Coordinador o Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ARTICULO 28 TER.
 
-1. En caso de ausencia temporal o definitiva del Presidente o de la Presidenta de la Junta de Gobierno, el grupo parlamentario al cual pertenezca informará de inmediato a la Presidencia de la Mesa Directiva y a la propia Junta de Gobierno, el nombre del Diputado o Diputada que le sustituirá.
+1. En caso de ausencia temporal o definitiva del Presidente o Presidenta de la Junta de Gobierno, el grupo parlamentario al cual pertenezca informará de inmediato a la Presidencia de la Mesa Directiva y a la propia Junta de Gobierno, el nombre de la Diputada o Diputado que le sustituirá.
 
-2. Los integrantes de la Junta de Gobierno podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados o diputadas de las representaciones partidistas que se declaren diputadas o diputados sin partido, podrán conformarse como Grupo Parlamentario o Fracción Parlamentaria, pudiendo participar ante el órgano, con voz y voto.
+2. Las y los integrantes de la Junta de Gobierno podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de las diputadas o diputados de las representaciones partidistas que se declaren diputadas o diputados sin partido, podrán conformarse como Grupo Parlamentario o Fracción Parlamentaria, pudiendo participar ante el órgano, con voz y voto.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-ARTICULO 28 QUATER
+ARTICULO 28 QUATER.
 
-1. La Junta de Gobierno, conforme a lo dispuesto en la Constitución Política del Estado de Tamaulipas, es el órgano de dirección política del Poder Legislativo y la expresión de la pluralidad del Congreso del Estado.
+1. La Junta de Gobierno, acorde a lo dispuesto en la Constitución Política del Estado de Tamaulipas, es el órgano de dirección política del Poder Legislativo y la expresión de la pluralidad del Congreso.
 
-2. En la Junta de Gobierno se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios para alcanzar acuerdos, para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+2. En la Junta de Gobierno se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios para alcanzar acuerdos, a fin de que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
 
@@ -559,143 +569,109 @@ ARTICULO 28 QUINQUIES.
 
 Son atribuciones de la Junta de Gobierno las siguientes:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Impulsar la conformación de acuerdos relacionados con el contenido de las agendas legislativas presentadas por las distintas formas de agrupación por afiliación partidista, así como con las propuestas, iniciativas o minutas que requieran del conocimiento y votación del Pleno, con el objeto de garantizar el cumplimiento de las funciones del Congreso del Estado;
+a) Impulsar la conformación de acuerdos relacionados con el contenido de las agendas legislativas presentadas por las distintas formas de agrupación por afiliación partidista, así como con las propuestas, iniciativas o minutas que requieran del conocimiento y votación del Pleno Legislativo, con objeto el de garantizar el cumplimiento de las funciones del Congreso;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-b) Presentar a la Presidencia de la Mesa Directiva y al Pleno del Congreso Iniciativas de Puntos de Acuerdo que contengan pronunciamientos o declaraciones del Congreso del Estado que entrañen una posición política de la institución parlamentaria;
+b) Presentar a la Mesa Directiva y al Pleno del Congreso iniciativas de Puntos de Acuerdo que contengan pronunciamientos o declaraciones del Congreso que entrañen una posición política de la institución parlamentaria;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-c) Proponer al Pleno Legislativo la integración de las comisiones ordinarias, de comités o de comisiones especiales, con el señalamiento de la conformación de sus respectivas mesas directivas;
+c) Proponer al Pleno la integración de las comisiones ordinarias, de comités o de comisiones especiales, con el señalamiento de la conformación de sus respectivas mesas directivas;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-d) Proponer al Pleno Legislativo la designación de delegaciones para atender reuniones parlamentarias con instituciones parlamentarias del país o del extranjero; durante los recesos, la Junta de Gobierno podrá hacer la designación a propuesta de quien la presida;
+d) Proponer al Pleno la designación de delegaciones para atender reuniones parlamentarias con instituciones parlamentarias del país o del extranjero; durante los recesos, la Junta de Gobierno podrá hacer la designación a propuesta de quien la presida;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-e) Presentar al Pleno Legislativo el anteproyecto de presupuesto anual del Congreso del Estado;
+e) Presentar al Pleno el anteproyecto de presupuesto anual del Congreso;
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-f) Establecer la integración del Orden del Día de las sesiones, las cuales podrán acordar se convoquen con el tiempo suficiente para la realización de estas, a efecto de que las diputadas y diputados de la Legislatura en funciones asistan puntualmente a las sesiones del Pleno, así como proponer las formas de cómo se seguirán los debates, las discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar a la Presidencia de la Mesa Directiva a participar en la reunión de la Junta de Gobierno;
+f) Establecer la integración del orden del día de las sesiones, las cuales podrán acordar se convoquen con el tiempo suficiente para la realización de éstas, a efecto de que las diputadas y diputados de la Legislatura en funciones asistan puntualmente a las sesiones del Pleno, así como proponer las formas de cómo se seguirán los debates, discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar a quien presida la Mesa Directiva a participar en la reunión de la Junta de Gobierno;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-g) Impulsar los trabajos de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos;
+g) Impulsar el trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-h) Proponer al Pleno los nombramientos de la Secretaría General y demás colaboradores del Congreso del Estado, con base en lo que señala esta ley;
+h) Proponer al Pleno los nombramientos de la persona titular de la Secretaría General y demás colaboradores del Congreso, con base en lo que señala esta ley;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-i) Aprobar, una vez que sea discutida y analizada la propuesta de la Junta de Coordinación Política, sobre la realización de actividades cívicas, académicas y políticas, sin demerito de que el órgano de dirección política pueda acordarla a falta de propuesta;
+i) Aprobar la realización de actividades cívicas, académicas y políticas;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-j) Asignar, en los términos de esta ley, los recursos humanos, financieros y materiales, así como los locales que corresponden a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas; así como también a la presidencia de la Junta de Coordinación Política; y
+j) Asignar, en los términos de esta ley, los recursos humanos, financieros y materiales, así como los locales que corresponden a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas; y
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-k) Las demás que le atribuye esta ley o los ordenamientos concernientes a la actividad parlamentaria.
+k) Las demás que le atribuye esta ley o los ordenamientos relativos a la actividad parlamentaria.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ARTICULO 28 SEXIES.
 
-1. La Junta de Gobierno deberá instalarse, al concluir la primera sesión ordinaria que celebre el Congreso del Estado al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que así lo acuerde durante los recesos.
+1. La Junta de Gobierno deberá instalarse, al concluir la primera sesión ordinaria que celebre el Congreso al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que así lo acuerde durante los recesos.
 
-2. La Junta de Gobierno, adoptará sus decisiones por mayoría, donde los coordinadores o coordinadoras de los Grupos Parlamentarios y coordinadores o coordinadoras de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
+2. La Junta de Gobierno, adoptará sus decisiones por mayoría, donde las coordinadoras o coordinadores de los Grupos Parlamentarios y coordinadoras o coordinadores de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
 
-3. A las reuniones de la Junta de Gobierno concurrirá la persona titular de la Secretaría General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos adoptados.
+3. A las reuniones de la Junta de Gobierno acudirá la persona titular de la Secretaría General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ARTICULO 28 SEPTIES.
 
-1. En materia de dirección política, quien ocupe la presidencia de la Junta de Gobierno conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno de la Ciudad de México.
+1. En materia de dirección política, quien asuma la presidencia de la Junta de Gobierno conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno de la Ciudad de México.
 
-2. Son atribuciones de quien ocupe la presidencia de la Junta de Gobierno las siguientes:
+2. Son atribuciones de quien preside la Junta de Gobierno las siguientes:
 
-a) Convocar a las reuniones de trabajo de la Junta de Gobierno y conducir su desarrollo;
+a) Convocar a las reuniones de trabajo de este órgano y conducir su desarrollo;
 
-b) Velar por el cumplimiento de las decisiones y acuerdos que sean adoptados;
+b) Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
 
-c) Proponer criterios para la elaboración y adopción del programa de trabajo de cada periodo de sesiones, el calendario para su desahogo y la integración del orden del día de las sesiones del Pleno Legislativo;
+c) Proponer criterios para la elaboración y adopción del programa de trabajo de cada periodo de sesiones, el calendario para su desahogo y la integración del orden del día de las sesiones del Pleno;
 
-d) Disponer la elaboración del anteproyecto del presupuesto anual del Congreso del Estado;
+d) Disponer la elaboración del anteproyecto del presupuesto anual del Congreso;
 
-e) Presentar a la Junta de Gobierno las propuestas para el nombramiento de la persona titular de la Secretaría General y demás colaboradores del Congreso del Estado;
+e) Presentar a la Junta las propuestas para el nombramiento de la persona titular de la Secretaría General y demás colaboradores del Congreso;
 
-f) Garantizar que tanto los acuerdos como entendimientos de la Junta de Gobierno se lleven a cabo con criterios de perspectiva de género; y
+f) Garantizar que los acuerdos como entendimientos de la Junta de Gobierno se lleven a cabo con criterios de perspectiva de género; y
 
-g) Las demás que deriven de la presente ley y de los ordenamientos de la actividad parlamentaria o que le sean conferidas por la propia Junta de Gobierno.
+g) Las demás que deriven de esta ley y de los ordenamientos de la actividad parlamentaria o que le sean conferidas por la propia Junta.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ### CAPITULO CUARTO. DE LA JUNTA DE COORDINACION POLITICA
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
-
 ###### ARTICULO 29.
 
-1. La Junta de Coordinación Política se integra con las coordinadoras y los coordinadores de cada grupo parlamentario, con las y los representantes de las fracciones parlamentarias, con las y los titulares de las representaciones partidistas y las y los que ostenten el cargo por la vía independiente.
-
-2. Será Presidente o Presidenta de la Junta por la duración de la Legislatura, el Coordinador o la Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2024)
 
 ###### ARTICULO 30.
 
-1. En caso de ausencia temporal o definitiva del presidente de la Junta de Coordinación Política, el grupo parlamentario al cual pertenezca informará de inmediato al presidente de la Mesa Directiva y a la propia Junta, el nombre del diputado que lo sustituirá.
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2020)</small>
-
-2. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados de las representaciones partidistas que se declaren diputados sin partido, podrán también participar ante el órgano, únicamente con voz, previo acuerdo que emita la propia Junta de Coordinación Política.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2024)
 
 ###### ARTICULO 31.
 
-La Junta de Coordinación Política será un órgano colegiado que estará conformado de acuerdo al presente capítulo, el cual será un ente coadyuvante de la Junta de Gobierno.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2024)
 
 ###### ARTICULO 32.
 
-Son atribuciones de la Junta de Coordinación Política las siguientes:
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
-
-a) Podrá proponer a la Junta de Gobierno llevar a cabo actividades cívicas, académicas y políticas;
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
-
-b) Dar a conocer a los demás integrantes la integración del orden del día de las sesiones acordada por la Junta de Gobierno; y
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
-
-c) Colaborar, cuando así lo solicite la Junta de Gobierno, al impulso del trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2024)
 
 ###### ARTICULO 33.
 
-1. La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso del Estado al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que así se acuerde durante los recesos.
-
-2. La Junta de Coordinación Política, adoptará sus decisiones por mayoría absoluta, donde los coordinadores o coordinadoras de los Grupos Parlamentarios y coordinadores o coordinadoras de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
-
-3. A las reuniones de la Junta de Coordinación Política concurrirá la persona titular de la Secretaría General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se hayan adoptado.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2024)
 
 ###### ARTICULO 34.
 
-Son atribuciones de quien presida la Junta de Coordinación Política las siguientes:
-
-a) Convocar a las reuniones de trabajo de dicho órgano y conducir su desarrollo; y
-
-b) Velar por el cumplimiento de las decisiones y acuerdos adoptados.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2024)
 
 ### CAPITULO QUINTO. DE LAS COMISIONES Y COMITES
 
@@ -879,9 +855,9 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 1. El Pleno podrá acordar la conformación de comisiones especiales para hacerse cargo de un asunto concreto, cuya naturaleza requiera esta determinación. El acuerdo que las establezca señalará su objeto, el número de sus integrantes y el plazo para efectuar las tareas que se les encomienden.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. Las comisiones especiales se extinguirán al cumplir su objeto, pero cuando no se haya agotado el mismo y esté próximo a culminar el periodo constitucional de la Legislatura, la Junta de Gobierno planteará al Pleno Legislativo, por conducto de la Presidencia de la Mesa Directiva, la declaración de su extinción, entregándose los antecedentes de su constitución y actuación a la Legislatura entrante.
+2. Las comisiones especiales se extinguirán al cumplir su objeto, pero cuando no se haya agotado el mismo y esté próximo a culminar el periodo constitucional de la Legislatura, la Junta de Gobierno planteará al Pleno, por conducto de la Mesa Directiva, la declaración de su extinción, entregándose los antecedentes de su constitución y actuación a la Legislatura entrante.
 
 ###### ARTICULO 39.
 
@@ -889,17 +865,17 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 1. Las comisiones ordinarias se constituyen normalmente durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de nueve comisiones, salvo que se trate de la Comisión Instructora o de comisiones especiales.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. Corresponde a la Junta de Gobierno proponer al Pleno Legislativo la integración de las comisiones, tomando en cuenta la pluralidad y el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
+2. Corresponde a la Junta de Gobierno proponer al Pleno la integración de las comisiones, tomando en cuenta la pluralidad y el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. Al proponer la integración de las comisiones, la Junta de Gobierno señalará en quiénes recaerá la responsabilidad de fungir como presidente o presidenta y como secretario o secretaria. Al hacerlo, tomará en cuenta los antecedentes y la experiencia de los diputados y las diputadas, y procurará que su propuesta incorpore a los diputados y las diputadas pertenecientes a las diversas formas de agrupación por afiliación partidista, de tal suerte que en lo conducente se refleje la proporción que representen en el Pleno Legislativo.
+3. Al proponer la integración de las comisiones, la Junta de Gobierno señalará en quiénes recaerá la responsabilidad de fungir como presidenta o presidente y como secretaria o secretario. Al hacerlo, tomará en cuenta los antecedentes y la experiencia de las diputadas y los diputados, y procurará que su propuesta incorpore a las diputadas y los diputados pertenecientes a las diversas formas de agrupación por afiliación partidista, de tal suerte que en lo conducente se refleje la proporción que representen en el Pleno.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-4. En su propuesta, la Junta de Gobierno buscará incluir dentro de las comisiones de su preferencia a los integrantes de las diversas formas de agrupación por afiliación partidista cuya dimensión no les permita participar en la totalidad de las comisiones establecidas en la presente ley.
+4. En su propuesta, la Junta de Gobierno buscará incluir dentro de las comisiones de su preferencia a los integrantes de las diversas formas de agrupación por afiliación partidista, cuya dimensión no les permita participar en la totalidad de las comisiones establecidas por esta ley.
 
 5. Si un diputado se separa del grupo parlamentario al que pertenecía en el momento de conformarse las comisiones, el coordinador de dicho grupo podrá solicitar su sustitución.
 
@@ -911,9 +887,9 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 1. Los miembros de las comisiones, están obligados a asistir puntualmente a sus reuniones. Quien no pueda concurrir a la cita hecha, comunicará oportunamente al presidente de la comisión la causa que lo justifique.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. El coordinador o coordinadora del grupo parlamentario al que pertenezcan las diputadas o los diputados miembros de las comisiones podrá solicitar a la Junta de Gobierno su sustitución temporal, en caso de ausencia que así lo justifique, a efecto de que se haga la propuesta respectiva al Pleno Legislativo.
+2. El coordinador o coordinadora del grupo parlamentario al que pertenezcan las diputadas o los diputados miembros de las comisiones podrá solicitar a la Junta de Gobierno su sustitución temporal, en caso de ausencia que así lo justifique, a efecto de que se haga la propuesta respectiva al Pleno.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -933,9 +909,9 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 ###### ARTICULO 42.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-1. Las comisiones ordinarias cuya materia se corresponda con tareas a cargo de las dependencias de la administración pública del Estado harán el estudio del informe a que se refiere el cuarto párrafo del artículo 93 de la Constitución Política del Estado, según la competencia de cada una de ellas. Al efecto, formularán un documento en el que consten las conclusiones de su análisis. En su caso, podrán requerir mayor información o solicitar la comparecencia de servidores públicos ante la propia comisión. Si de las conclusiones se desprende la necesidad de que el titular del ente público comparezca ante el Pleno Legislativo, la Comisión competente formulará la solicitud correspondiente a la Junta de Gobierno. En todo caso se estará a lo dispuesto por la parte final del cuarto párrafo del artículo 93 de la Constitución Política del Estado.
+1. Las comisiones ordinarias cuya materia les corresponda con tareas a cargo de las dependencias de la administración pública del Estado harán el estudio del informe a que se refiere el cuarto párrafo del artículo 93 de la Constitución Política del Estado, según la competencia de cada una de ellas. Al efecto, formularán un documento en el que consten las conclusiones de su análisis. En su caso, podrán requerir mayor información o solicitar la comparecencia de las o los servidores públicos ante la propia comisión. Si de las conclusiones se desprende la necesidad de que la persona titular del ente público comparezca ante el Pleno, la Comisión competente formulará la solicitud correspondiente a la Junta de Gobierno. En todo caso se estará a lo dispuesto por la parte final del cuarto párrafo del artículo 93 de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -951,9 +927,9 @@ Las comisiones ordinarias llevarán a cabo las tareas siguientes:
 
 a) Elaborar su programa de trabajo, el cual podrá modificarse durante el ejercicio de la Legislatura;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-b) Rendir un informe anual de sus actividades a la Junta de Gobierno; y entregar un ejemplar a la Secretaría General del Congreso del Estado para su archivo y publicación en la Plataforma Nacional de Transparencia;
+b) Rendir un informe anual de actividades a la Junta de Gobierno; y entregar un ejemplar a la Secretaría General del Congreso, para su archivo y publicación en la Plataforma Nacional de Transparencia;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -961,19 +937,19 @@ c) Mantener actualizado el registro de los asuntos que les sean turnados, con el
 
 d) Sesionar, cuando menos, una vez cada dos meses;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-e) Atender y, en su caso, dictaminar con apoyo de las personas Auxiliares de Dictaminación de la Sección que le corresponda, los asuntos que le sean turnados por quien presida la Mesa Directiva;
+e) Atender y, en su caso, dictaminar con apoyo de las personas Asesoras de Dictaminación de la Sección que le corresponda, los asuntos que le sean turnados por quien presida la Mesa Directiva;
 
 f) (DEROGADO, P.O. 30 DE MAYO DE 2017)
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-g) Realizar las actividades que se deriven de la Constitución Política del Estado, de esta ley y de los demás ordenamientos de la actividad parlamentaria, así como de los acuerdos tomados por el Pleno del Congreso con relación a las materias de su competencia; y
+g) Realizar las actividades que se deriven de la Constitución Política del Estado, de esta ley y de los demás ordenamientos de la actividad parlamentaria, así como de los acuerdos tomados por el Pleno con relación a las materias de su competencia; y
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-h) Dar seguimiento de los asuntos dictaminados y aprobados por el Pleno, e informar de las acciones realizadas.
+h) Dar seguimiento a los asuntos dictaminados y aprobados por el Pleno, e informar de las acciones realizadas.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1023,9 +999,9 @@ h) Dar seguimiento de los asuntos dictaminados y aprobados por el Pleno, e infor
 
 1. Las comisiones podrán solicitar la presencia de servidores públicos de los entes públicos del Estado para ilustrar su juicio en el despacho de los asuntos a su cargo; cuando se discuta una ley, o se estudie un negocio de su competencia, así como para que respondan a interpelaciones o preguntas.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La solicitud de la presencia requerida se formulará por acuerdo de la comisión a la Presidencia de la Junta de Gobierno, a fin de que éste realice la petición del caso al Poder o ente público de que se trate.
+2. La solicitud de la presencia requerida se hará por acuerdo de la comisión a la Presidencia de la Junta de Gobierno, a fin de que éste realice la petición del caso al Poder o ente público de que se trate.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
@@ -1065,9 +1041,9 @@ Los asesores de las diversas formas de agrupación por afiliación partidista no
 
 ###### ARTICULO 51.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-1. Podrán constituirse comités a propuesta de la Junta de Gobierno y por acuerdo del Pleno Legislativo, para atender tareas que no tengan carácter legislativo, de control de la gestión pública o jurisdiccional, a fin de realizar tareas que no sean materia de atención de las comisiones ordinarias.
+1. Podrán constituirse comités a propuesta de la Junta de Gobierno y por acuerdo del Pleno, para atender tareas que no tengan carácter legislativo, de control de la gestión pública o jurisdiccional, a fin de realizar tareas que no sean materia de atención de las comisiones ordinarias.
 
 2. Los comités tendrán la duración que señale el acuerdo de creación.
 
@@ -1093,29 +1069,27 @@ Los asesores de las diversas formas de agrupación por afiliación partidista no
 
 4. Con objeto de propiciar el fortalecimiento de los elementos que requiere el desempeño de las tareas constitucionales a cargo del Congreso y de sus órganos, en cada Legislatura se integrará el Comité del Centro de Estudios sobre las Finanzas Públicas.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-#### SECCIÓN CUARTA. DE LOS AUXILIARES DE DICTAMINACIÓN
+#### SECCIÓN CUARTA. DE LAS PERSONAS ASESORAS DE DICTAMINACIÓN
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ARTICULO 52 BIS.
 
-1. En apoyo al trabajo de las Comisiones y Comités, el Congreso del Estado contará con Auxiliares de Dictaminación, que estarán adscritos a la Unidad de Servicios Parlamentarios, los que tendrán el rango de asesores.
+1. En apoyo al trabajo de las Comisiones y Comités, el Congreso del Estado contará con personas Asesoras de Dictaminación, que estarán adscritas a la Unidad de Servicios Parlamentarios, las que tendrán el rango de asesoras y asesores.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+2. Las personas Asesoras de Dictaminación serán coordinadas por la persona Titular de la Unidad de Servicios Parlamentarios y se encargarán de las actividades inherentes al análisis y elaboración de proyectos de dictámenes de los asuntos turnados a las Comisiones Ordinarias, así como apoyar a las Comisiones Especiales y Comités en la atención de los asuntos de su competencia.
 
-2. Las personas Auxiliares de Dictaminación serán coordinadas por la persona Titular de la Unidad de Servicios Parlamentarios y se encargarán de las actividades inherentes al análisis y elaboración de proyectos de dictámenes de los asuntos turnados a las Comisiones Ordinarias, así como apoyar a las Comisiones Especiales y Comités en la atención de los asuntos de su competencia.
-
-3. Quienes ocupen los cargos de Auxiliares de Dictaminación, deberán contar con licenciatura en carreras afines al derecho o la administración pública.
+3. Quienes ocupen los cargos de Asesoras o Asesores de Dictaminación, deberán contar con licenciatura en carreras afines al derecho o la administración pública.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
 ARTICULO 52 TER.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-1. Habrá una persona Auxiliar de Dictaminación responsable por cada una de las siguientes secciones:
+1. Habrá una persona Asesora de Dictaminación responsable, por cada una de las siguientes secciones:
 
 a) De Asuntos de carácter Social;
 
@@ -1127,9 +1101,9 @@ d) De Asuntos de Seguridad Pública y Justicia; y
 
 e) De Asuntos Patrimoniales y Municipales.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. A cada Sección corresponderán las Comisiones y Comités que sean afines a su nomenclatura y que acuerde la Junta de Gobierno al inicio de la Legislatura.
+2. A cada una de las secciones corresponderán las Comisiones y Comités que sean afines a su nomenclatura y que acuerde la Junta de Gobierno al inicio de la Legislatura.
 
 ### CAPITULO SEXTO. DE LA DIPUTACION PERMANENTE
 
@@ -1145,13 +1119,13 @@ e) De Asuntos Patrimoniales y Municipales.
 
 3. Si por causa extraordinaria el Congreso suspende sus sesiones o culmina el periodo ordinario sin haber electo a la Diputación Permanente, actuará como tal la última Mesa Directiva del Congreso.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-4. El Grupo Parlamentario del partido que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente de la legislatura en turno, contará con cuatro de los siete Diputados que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos Diputados en su integración, el séptimo Diputado corresponderá a cualquier otro grupo parlamentario que no corresponda a la segunda fuerza o, en su caso, de no existir otros grupos parlamentarios, corresponde a cualquier forma de agrupación o representación partidista que se determine incluir en la propuesta con base en los acuerdos que se produzcan para tal efecto en la Junta de Gobierno y privilegiando en su caso la que tenga un mayor número de integrantes; bajo éste último criterio, los suplentes se integrarán de la siguiente manera, uno para cada uno de los grupos parlamentarios, quienes actuarán en suplencia de cualquiera de los miembros propietarios de la Diputación Permanente; en caso de que aún persista la necesidad de designar a un suplente y no haya Grupos Parlamentarios para asignar, le corresponderá a cualquier forma de agrupación o de representación partidista, que se determine, con base en los acuerdos conducentes al interior de la Junta de Gobierno.
+4. El Grupo Parlamentario del partido que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente de la legislatura en turno, contará con cuatro de los siete Diputadas y/o Diputados que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos Diputadas y/o Diputados en su integración, el séptimo Diputada y/o Diputado corresponderá a cualquier otro grupo parlamentario que no corresponda a la segunda fuerza o, en su caso, de no existir otros grupos parlamentarios, corresponde a cualquier forma de agrupación o representación partidista que se determine incluir en la propuesta con base en los acuerdos que se produzcan para tal efecto en la Junta de Gobierno y privilegiando en su caso la que tenga un mayor número de integrantes; bajo éste último criterio, los suplentes se integrarán de la siguiente manera, uno para cada uno de los grupos parlamentarios, quienes actuarán en suplencia de cualquiera de los miembros propietarios de la Diputación Permanente; en caso de que aún persista la necesidad de designar a un suplente y no haya Grupos Parlamentarios para asignar, le corresponderá a cualquier forma de agrupación o de representación partidista, que se determine, con base en los acuerdos conducentes al interior de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-5. La propuesta para la elección de la Diputación Permanente será presentada al Pleno Legislativo por un integrante de la Junta de Gobierno, cuya votación se realizará por cédula, y se comunicará a los órganos señalados en el numeral 5 del artículo 18 del presente ordenamiento.
+5. La propuesta para la elección de la Diputación Permanente será presentada al Pleno por un integrante de la Junta de Gobierno, cuya votación se realizará por cédula, y se comunicará a los órganos señalados en el numeral 5 del artículo 18 del presente ordenamiento.
 
 ###### ARTICULO 54.
 
@@ -1247,11 +1221,11 @@ Las Minutas que no hayan sido atendidas mediante el procedimiento legislativo co
 
 1. En su desempeño, la Secretaría General observa las disposiciones de la Constitución Política del Estado, de esta ley, de los acuerdos relativos a la actividad parlamentaria, así como de los lineamientos que dicten los órganos de dirección parlamentaria y de dirección política del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La Secretaría General constituye el ámbito de coordinación y de supervisión de los servicios técnicos y administrativos del Congreso del Estado.
+2. La Secretaría General constituye el ámbito de coordinación y de supervisión de los servicios técnicos y administrativos del Congreso.
 
-La persona titular de la Secretaría General será nombrada por el Pleno Legislativo, con la aprobación de la mayoría de las Diputadas y los Diputados presentes, a propuesta de quien presida la Junta de Gobierno, por el término de la Legislatura. En todo caso, continuará en sus funciones hasta la realización de la elección correspondiente.
+La persona titular de la Secretaría General será nombrada por el Pleno, con la aprobación de la mayoría de las Diputadas y los Diputados presentes, a propuesta de quien presida la Junta de Gobierno, por el término de la Legislatura. En todo caso, continuará en sus funciones hasta la realización de la elección correspondiente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -1277,23 +1251,23 @@ f) No haber sido condenado por delito intencional que ameritara pena privativa d
 
 a) Preparar la sesión de instalación de cada Legislatura y las sesiones del Pleno en los términos previstos por esta ley;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-b) Asistir a las reuniones de trabajo de la Mesa Directiva, de la Junta de Gobierno y de la Junta de Coordinación Política y brindar las opiniones que le sean solicitadas;
+b) Asistir a las reuniones de trabajo de la Mesa Directiva, de la Junta de Gobierno y brindar las opiniones que le sean solicitadas;
 
 c) Dirigir los trabajos de las Unidades de Servicios Parlamentarios y de Servicios Administrativos y Financieros, supervisar el cumplimiento de las atribuciones de las mismas y velar por su correcto funcionamiento;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-d) Ejecutar los acuerdos tomados por la Mesa Directiva, la Junta de Gobierno, así como vigilar que se cumplan las políticas, lineamientos y criterios de dichos órganos en la prestación de los servicios parlamentarios, y administrativos y financieros;
+d) Ejecutar los acuerdos de la Mesa Directiva, de la Junta de Gobierno, así como vigilar que se cumplan las políticas, lineamientos y criterios de dichos órganos en la prestación de los servicios parlamentarios, y administrativos y financieros;
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 e) Formular el anteproyecto de presupuesto anual del Congreso y los programas de carácter administrativo y financiero para su ejercicio;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-f) Informar a la Mesa Directiva y a la Junta de Gobierno sobre el cumplimiento de los acuerdos adoptados por dichos órganos, así como el desempeño en la prestación de los servicios parlamentarios y administrativos y financieros; y
+f) Informar a la Mesa Directiva y a la Junta de Gobierno sobre el cumplimiento de los acuerdos adoptados por dichos órganos, y sobre el desempeño en la prestación de los servicios parlamentarios y administrativos y financieros; y
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1311,9 +1285,9 @@ a) De Asistencia Técnica a la Presidencia de la Mesa Directiva, que comprende l
 
 b) De la Sesión, que comprende los de: preparación y desarrollo de los trabajos del Pleno; elaboración del proyecto de instructivo para la conducción de la sesión; apoyo en actividades del protocolo y ceremonial; asesoría a los integrantes de la Mesa Directiva sobre el desahogo de los procedimientos parlamentarios; elaboración, registro y compilación de las actas de la sesión; y, asistencia a los Secretarios para verificar el quórum, el cómputo y registro de las votaciones;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-c) De las Comisiones, que comprende los de: organización y asistencia para la celebración de sus reuniones; elaboración de la agenda semanal de reuniones; actividades de logística y estadística; registro de sus integrantes; atención en la solicitud de documentos para el desahogo de sus actividades; y apoyo a las personas Auxiliares de Dictaminación en la planeación y desarrollo de las reuniones de comisiones;
+c) De las Comisiones, que comprende los de: organización y asistencia para la celebración de sus reuniones; elaboración de la agenda semanal de reuniones; actividades de logística y estadística; registro de sus integrantes; atención en la solicitud de documentos para el desahogo de sus actividades; y apoyo a las personas Asesoras de Dictaminación en la planeación y desarrollo de las reuniones de comisiones;
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1335,9 +1309,9 @@ h) De Apoyo Técnico y Actualización Legislativa, que comprende los de: registr
 
 i) (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-j) De documentación, que comprende los de: recopilación, escaneo reproducción y distribución, entre las diputadas y diputados de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; proveer de documentación a las personas Auxiliares de Dictaminación: manejo y operación de la página web, el sistema interno para la publicación del contenido parlamentario, del equipo de audio y video, del circuito cerrado de televisión, así como el sistema electrónico de votaciones; y
+j) De documentación, que comprende los de: recopilación, escaneo reproducción y distribución, entre las diputadas y diputados de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; proveer de documentación a las personas Asesoras de Dictaminación: manejo y operación de la página web, el sistema interno para la publicación del contenido parlamentario, del equipo de audio y video, del circuito cerrado de televisión, así como el sistema electrónico de votaciones; y
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1351,15 +1325,17 @@ k) De Oficialía de Partes, que comprende los de recibir y registrar la correspo
 
 1. Son atribuciones de la Unidad de Servicios Parlamentarios:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones y acordar con él los asuntos de su responsabilidad, así como suplirlo cuando no pueda acudir a las reuniones de la Mesa Directiva, o de la Junta de Gobierno en asuntos parlamentarios;
+a) Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones y acordar con ésta los asuntos de su responsabilidad, así como suplirlo cuando no pueda acudir a las reuniones de la Mesa Directiva, o de la Junta de Gobierno en asuntos parlamentarios;
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
 b) Elaborar un resumen de cada sesión en el que se registren los detalles de los asuntos desahogados en el Pleno o la Diputación Permanente, así como la síntesis de los acuerdos adoptados y los debates suscitados;
 
-c) Dirigir los trabajos de los servicios bajo su adscripción y acordar con sus titulares los asuntos de su competencia;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+c) Realizar estudios sobre la organización, el funcionamiento y los procedimientos del Congreso, así como promover investigaciones de derecho parlamentario;
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1369,15 +1345,17 @@ d) Elaborar y mantener actualizado el manual de operación de los servicios parl
 
 e) Otorgar asesoría y formular opiniones técnicas en apoyo al trabajo de Comisiones sobre iniciativas y propuestas turnadas para dictamen;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-f) Coordinar y supervisar el trabajo de las personas Auxiliares de Dictaminación; y
+f) Coordinar y supervisar el trabajo de las personas Asesoras de Dictaminación; y
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 g) Cumplir las demás funciones que le confiere esta ley, los ordenamientos relativos a la actividad parlamentaria del Congreso y que le encomiende la persona titular de la Secretaría General.
 
-2. El titular de la Unidad de Servicios Parlamentarios velará por la imparcialidad de los servicios a su cargo.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+
+2. La persona titular de la Unidad de Servicios Parlamentarios velará por la imparcialidad de los servicios a su cargo.
 
 ###### ARTICULO 63.
 
@@ -1425,9 +1403,9 @@ h) De Biblioteca, que comprende los de: resguardo, administración y actualizaci
 
 1. Son atribuciones de la Unidad de Servicios Administrativos y Financieros:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones, acordar con él los asuntos de su responsabilidad y suplirlo cuando no pueda acudir a las reuniones de la Junta de Gobierno en los asuntos administrativos y financieros;
+a) Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones, acordar con ésta los asuntos de su responsabilidad y suplirlo cuando no pueda acudir a las reuniones de la Junta de Gobierno en los asuntos administrativos y financieros;
 
 b) Dirigir los trabajos de los servicios bajo su adscripción y acordar los asuntos de su competencia con sus titulares;
 
@@ -1437,13 +1415,13 @@ c) Realizar estudios de carácter administrativo y financiero sobre el funcionam
 
 d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos relativos a la actividad administrativa y financiera del Congreso y que le encomiende la persona titular de la Secretaría General.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La persona titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen; asimismo es el responsable de la integración y consolidación de la información financiera, contable, presupuestal, patrimonial y programática que se remitirá a la Secretaría de Finanzas del Poder Ejecutivo para la conformación del Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas.
+2. La persona titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen; asimismo, es el responsable de la integración y consolidación de la información financiera, contable, presupuestal, patrimonial y programática que se remitirá a la Secretaría de Finanzas del Poder Ejecutivo para la conformación del Tomo del Poder Legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. La Unidad de Servicios Administrativos y Financieros, instrumentará una política de “Cero Papel” por la cual se reducirá el uso de papel en los procesos parlamentarios y administrativos del Congreso del Estado, en los que no se requieran datos en papel para garantizar autenticidad, confiabilidad e inalterabilidad de alguna información. Para ello, instrumentará los mecanismos tecnológicos, procesales y de capacitación necesarios hasta lograr reducir el uso de papel en el Congreso del Estado. La Junta de Gobierno evaluará y validará los resultados de las estrategias adoptadas al inicio de cada periodo de sesiones y se comunicará el resultado al Pleno Legislativo.
+3. La Unidad de Servicios Administrativos y Financieros, instrumentará una política de “Cero Papel” por la cual se reducirá el uso de papel en los procesos parlamentarios y administrativos del Congreso del Estado, en los que no se requieran datos en papel para garantizar autenticidad, confiabilidad e inalterabilidad de alguna información. Para ello, instrumentará los mecanismos tecnológicos, procesales y de capacitación necesarios hasta lograr reducir el uso de papel en el Congreso del Estado. La Junta de Gobierno evaluará y validará los resultados de las estrategias adoptadas al inicio de cada periodo de sesiones y se comunicará el resultado al Pleno.
 
 ###### ARTICULO 65.
 
@@ -1451,19 +1429,17 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 1. La Unidad de Comunicación Social tiene a su cargo la difusión de las actividades del Congreso, a la vez que sirve de enlace con los medios de comunicación y es responsable del programa de publicaciones y del material de divulgación. En la realización de estas tareas actuará con criterios de objetividad, imparcialidad y neutralidad editorial, a efecto de garantizar el derecho de la sociedad a la información completa y precisa de las actividades desarrolladas por el Congreso, y cuidará en todo momento la utilización de lenguaje claro e inclusivo.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La Unidad de Comunicación Social depende de la Junta de Gobierno para la divulgación de los aspectos de dirección política del Congreso del Estado.
+2. La Unidad de Comunicación Social depende de la Junta de Gobierno para la divulgación de los aspectos de dirección política del Congreso.
 
 3. En su caso, se coordinará con la Secretaría General cuando las actividades a su cargo incidan en el desempeño de las funciones de dirección parlamentaria de la Mesa Directiva y el desarrollo de las sesiones del Pleno o las reuniones de las comisiones.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
-
 ###### ARTICULO 66.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-1. La Unidad de la Contraloría interna es el órgano que depende de la Junta de Gobierno y tiene a su cargo las tareas siguientes:
+1. La Unidad de la Contraloría interna depende de la Junta de Gobierno y tiene a su cargo las tareas siguientes:
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
@@ -1483,9 +1459,9 @@ ARTICULO 66 BIS.
 
 1. La Unidad de Transparencia del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La Unidad de Transparencia depende de la Junta de Gobierno, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de su titular, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
+2. La Unidad de Transparencia dependerá de quien presida la Mesa Directiva y, en los recesos, de quien presida la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
 
 3. La Unidad de Transparencia contará con un Departamento Jurídico el cual asesorará a la Unidad en el cumplimiento de las disposiciones legales vigentes en materia de Acceso a la Información y Protección de Datos Personales, así como prestará auxilio a la Unidad en todo lo que ésta requiera.
 
@@ -1543,9 +1519,9 @@ l) Las demás que se le encomienden a través del Comité del Instituto de Inves
 
 2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Instituto contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académico y de la investigación.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. El Coordinador del Instituto será nombrado por el Pleno Legislativo, con el voto de la mayoría de las Diputadas y los Diputados presentes, a propuesta de la Junta de Gobierno, por un término de tres años, pudiendo ser ratificado, y solo podrá ser removido por el mismo Pleno Legislativo.
+3. La Coordinadora o el Coordinador del Instituto será nombrado por el Pleno Legislativo, con el voto de la mayoría de las Diputadas y los Diputados presentes, a propuesta de la Junta de Gobierno, por un término de tres años, pudiendo ser ratificado, y solo podrá ser removido por el mismo Pleno.
 
 4. Para ser nombrado Coordinador del Instituto de Investigaciones Parlamentarias se requiere:
 
@@ -1593,9 +1569,9 @@ h) Realizar estudios sobre los temas directamente relacionados con las finanzas 
 
 2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Centro contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académicos y de la investigación.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. La persona titular de la Coordinación del Centro será nombrada, a propuesta de la Junta de Gobierno, y sólo podrá ser removida por el Pleno Legislativo.
+3. La persona titular de la Coordinación del Centro de Estudios de las Finanzas Públicas, será nombrada, a propuesta de la Junta de Gobierno, y sólo podrá ser removida por el Pleno.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
 
@@ -1625,9 +1601,9 @@ a) Aprobar el reglamento interno que rija el trabajo técnico y científico enca
 
 b) Adoptar las medidas y decisiones relativas a la vinculación del Centro con otras instituciones similares de órganos legislativos nacionales y extranjeros; y
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-c) Gestionar ante la Junta de Gobierno la asignación del presupuesto del Centro de Estudio de las Finanzas Públicas, para el cumplimiento de sus funciones y atribuciones.
+c) Gestionar ante la Junta de Gobierno la asignación del presupuesto del Centro para el cumplimiento de sus funciones y atribuciones.
 
 7. En los análisis, informes, proyecciones y toda clase de documentos que elabore el Centro, no podrán hacerse recomendaciones de política económica y social.
 
@@ -1651,9 +1627,9 @@ d) La planeación, análisis, organización y ejecución de los programas de act
 
 3. La Unidad de Profesionalización Parlamentaria contará con un área especializada en Certificación y Capacitación de los servidores públicos de los servicios parlamentarios y administrativos.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-4. El Titular de la Unidad será nombrado por la Junta de Gobierno, a propuesta del Presidente de la misma, por un término de tres años, pudiendo ser ratificado, y sólo podrá ser removido conforme lo previsto en el artículo 66 SEXIES de esta Ley.
+4. La persona Titular de la Unidad será nombrado por la Junta de Gobierno, a propuesta de quien presida dicho órgano, por un término de tres años, pudiendo ser ratificado, y sólo podrá ser removido conforme lo previsto en el artículo 66 SEXIES de esta Ley.
 
 5. Para ser nombrado Titular de la Unidad de Profesionalización Parlamentaria, se requiere:
 
@@ -1669,17 +1645,17 @@ d) Contar con título profesional preferentemente de Licenciado en Derecho o su 
 
 e) Acreditar mínimo cinco años en el ejercicio de la profesión y contar con experiencia en materia parlamentaria.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ARTICULO 66 SEXIES.
 
-1. A las personas titulares de la Secretaría General, así como de las Unidades, jefaturas de departamento, jefaturas de unidad, responsables de área, y Auxiliares de Dictaminación, que conforman la estructura orgánica del Poder Legislativo, previstas en esta Ley, reglamentos respectivos, y cualquier otro instrumento jurídico, se les garantizará su permanencia en el cargo para el cual fueron nombrados o, por lo menos, hasta por el término de la Legislatura, según sea el caso.
+1. A las personas titulares de la Secretaría General, así como de las Unidades, jefaturas de departamento, jefaturas de unidad, responsables de área, y personas Asesores de Dictaminación, que conforman la estructura orgánica del Congreso del Estado, previstas en esta Ley, reglamentos respectivos, y cualquier otro instrumento jurídico, se les garantizará su permanencia en el cargo para el cual fueron nombrados o, por lo menos, hasta por el término de la Legislatura, según sea el caso.
 
-2. Para el caso del nombramiento de la persona titular de la Secretaría General, el mismo se hará a propuesta de la Junta de Gobierno y será aprobado por el Pleno Legislativo con el voto de la mayoría de las Diputadas y los Diputados presentes.
+2. Para el caso del nombramiento de la persona titular de la Secretaría General, el mismo se hará a propuesta de la Junta de Gobierno y será aprobado por el Pleno con el voto de la mayoría de las Diputadas y los Diputados presentes.
 
-3. Todos los nombramientos de los titulares señalados en el presente artículo, con excepción de la Secretaría General, deberán ser aprobados por la mayoría ponderada de los integrantes de la Junta de Gobierno del Congreso del Estado, en reunión donde se encuentren presentes la totalidad de los integrantes de la Junta de Gobierno.
+3. Todos los nombramientos de las y los titulares señalados en el presente artículo, con excepción de la Secretaría General, deberán ser aprobados por la mayoría ponderada de los integrantes de la Junta de Gobierno del Congreso del Estado, en reunión donde se encuentren presentes la totalidad de los integrantes de dicho órgano.
 
-4. Las personas servidoras públicas referidas en el presente artículo, sólo podrán ser removidas de su cargo por el voto de las dos terceras partes de los miembros del Pleno Legislativo.
+4. Las personas servidoras públicas referidas en el presente artículo, sólo podrán ser removidas de su cargo por el voto de las dos terceras partes de los miembros del Pleno.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
@@ -1705,9 +1681,9 @@ g) Representar al Congreso en las reuniones para las cuales se le designe por el
 
 h) Recibir la identificación que lo acredite como diputado al Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-i) Percibir las dietas y asignaciones correspondientes conforme al presupuesto de egresos del Congreso del Estado y disfrutar de las previsiones y prestaciones de seguridad social y atención médica que permita la disponibilidad presupuestal, conforme al programa que acuerde la Junta de Gobierno; y
+i) Percibir las dietas y asignaciones correspondientes acorde al presupuesto de egresos del Congreso del Estado y disfrutar de las previsiones y prestaciones de seguridad social y atención médica que permita la disponibilidad presupuestal, conforme al programa que acuerde la Junta de Gobierno; y
 
 j) Solicitar licencia para separarse de su encargo representativo.
 
@@ -1929,13 +1905,13 @@ e) Sobrevenga la muerte del representante popular.
 
 6. Las sesiones serán permanentes si se celebran con ese carácter por acuerdo expreso de la mayoría de los miembros del Congreso, con objeto de abordar un asunto previamente determinado y hasta la conclusión de los procedimientos parlamentarios requeridos para su tratamiento.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-7. Las sesiones serán semipresenciales cuando así se disponga por esta ley o lo acuerde la Junta de Gobierno, con carácter excepcional por la situación de emergencia y contingencia de salud pública en el Estado. El orden del día de dichas sesiones se establecerá conforme a las previsiones que proponga la Junta de Gobierno.
+7. Las sesiones serán semipresenciales cuando así se disponga por esta ley o lo acuerde la Junta de Gobierno, con carácter excepcional por la situación de emergencia y contingencia de salud pública en el Estado. El orden del día de dichas sesiones se establecerá conforme a las previsiones que proponga la Junta.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-8. Las sesiones serán solemnes cuando así se disponga por esta ley o lo acuerde el Pleno Legislativo, con el objeto de realizar alguna conmemoración o recibir la presencia de algún invitado especial. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta de Gobierno.
+8. Las sesiones serán solemnes cuando así se disponga por esta ley o lo acuerde el Pleno, con el objeto de realizar alguna conmemoración o recibir la presencia de alguna persona invitada especial. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
@@ -1955,9 +1931,9 @@ En todos los casos la Presidencia de la Mesa Directiva instruirá las medidas qu
 
 1. El Congreso del Estado celebrará cuantas sesiones requiera para el oportuno despacho de los asuntos de su competencia, pero normalmente lo hará los martes de cada semana durante el período ordinario de sesiones.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las doce horas, salvo disposición específica de la Presidencia de la Mesa Directiva, en cuyo caso se hará previamente del conocimiento de los integrantes del Pleno Legislativo por conducto de los servicios técnicos correspondientes. Se procurará que su duración no sea mayor de cinco horas, pero la Presidencia de la Mesa Directiva, con base en la propuesta de la Junta de Gobierno, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
+2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las doce horas, salvo disposición específica de la Presidencia de la Mesa Directiva, en cuyo caso se hará previamente del conocimiento de las y los integrantes del Pleno por conducto de los servicios técnicos correspondientes. Se procurará que su duración no sea mayor de cinco horas, pero la Presidencia de la Mesa Directiva, con base en la propuesta de la Junta de Gobierno, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
 
 ###### ARTICULO 79.
 
@@ -1989,9 +1965,9 @@ a) Las conclusiones de la Comisión Instructora en los casos de juicio político
 
 b) Las comunicaciones que se dirijan al Congreso con la nota de "reservado", y
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-c) Los demás que esta ley, la Junta de Gobierno o la Presidencia de la Mesa Directiva consideren que deben tratarse en reserva.
+c) Los demás que la presente ley, la Junta de Gobierno o la Presidencia de la Mesa Directiva consideren que deben tratarse en reserva.
 
 3. Cuando en sesión reservada se trate un asunto que exija reserva estricta, el presidente de la Mesa Directiva consultará al Pleno si debe guardarse sigilo y si la mayoría lo acuerda, los presentes están obligados a guardarlo.
 
@@ -2053,13 +2029,13 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 2. En la apertura de cada sesión, el Presidente de la Mesa Directiva expresará la hora y día en que ello ocurre, procediéndose de igual forma cuando declare su conclusión.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. La Presidencia de la Mesa Directiva podrá autorizar la introducción de otros apartados en el orden del día conforme a la propuesta que realice la Junta de Gobierno, con base en la naturaleza y pertinencia de los mismos.
+3. La Presidencia de la Mesa Directiva podrá autorizar la introducción de otros apartados en el orden del día, de acuerdo a la propuesta que realice la Junta de Gobierno, con base en la naturaleza y pertinencia de los mismos.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-4. El orden del día para cada sesión será el que a su inicio dé a conocer la Presidencia de la Mesa Directiva, de conformidad con los entendimientos y acuerdos que se produzcan en la Junta de Gobierno.
+4. El orden del día de cada sesión será el que a su inicio dé a conocer la Presidencia de la Mesa Directiva, conforme a los entendimientos y acuerdos que se produzcan en la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
@@ -2175,9 +2151,9 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 1. Para la presentación, discusión y votación de los dictámenes relacionados con minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, se aplicarán en lo conducente las previsiones en materia de dictámenes, discusiones y votaciones aplicables al procedimiento legislativo ordinario.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La Junta de Gobierno podrá proponer modalidades específicas para la discusión de los dictámenes de minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, propiciándose la expresión de las diversas formas de agrupación por afiliación partidista en torno al dictamen formulado, sin demérito de las Diputadas y los Diputados que deseen hacer uso de la palabra en lo individual.
+2. La Junta de Gobierno podrá proponer modalidades específicas para la discusión de los dictámenes de minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, propiciándose la expresión de las diversas formas de agrupación por afiliación partidista en torno al dictamen formulado, sin demérito de las y los Diputados que deseen hacer uso de la palabra en lo individual.
 
 3. La determinación del Pleno en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República se expresará en un punto de Acuerdo, mismo que deberá publicarse en el Periódico Oficial del Estado.
 
@@ -2309,13 +2285,13 @@ DE LOS DICTAMENES
 
 2. En todo caso, ésta preverá que los dictámenes queden a disposición de los legisladores que deseen consultarlos o su difusión a través de la red interna de informática del Congreso.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. La comisión o comisiones que hubieren formulado el dictamen solicitarán su incorporación en el orden del día de la sesión más próxima, a la luz de las atribuciones que en la materia tienen la Presidencia de la Mesa Directiva y la Junta de Gobierno.
+3. La comisión o comisiones que hubieren formulado el dictamen solicitarán su incorporación en el orden del día de la sesión más próxima, de acuerdo a las atribuciones que en la materia tienen la Presidencia de la Mesa Directiva y la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-4. Si el dictamen ha sido autorizado con 24 horas de anticipación al inicio de la sesión del Pleno Legislativo, salvo acuerdo contrario de la Junta de Gobierno, el documento formará parte del orden del día correspondiente; pero si ha sido autorizado dentro de un plazo menor al señalado, se requerirá el acuerdo de la Junta de Gobierno para su incorporación al orden del día.
+4. Si el dictamen ha sido autorizado con 24 horas de anticipación al inicio de la sesión del Pleno, salvo acuerdo contrario de la Junta de Gobierno, el documento formará parte del orden del día correspondiente; pero si ha sido autorizado dentro de un plazo menor al señalado, se requerirá el acuerdo de la Junta de Gobierno para su incorporación al orden del día.
 
 ###### ARTICULO 98.
 
@@ -2325,9 +2301,9 @@ Los dictámenes podrán ser leídos en la sesión en la que se presenten por cua
 
 1. Si con motivo del análisis de un expediente a su cargo, la comisión o comisiones dictaminadoras estiman que se han cometido infracciones a la Constitución Política del Estado o a las leyes que de ella emanan por parte de servidores públicos sujetos de responsabilidad política, penal o administrativa, lo hará del conocimiento del Pleno en opinión independiente del dictamen que formule.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. Dicho documento se pondrá en conocimiento oportuno de la Presidencia de la Mesa Directiva y de la Junta de Gobierno, a fin de que pueda determinarse si su tratamiento se hace en sesión reservada.
+2. Dicho documento se pondrá en conocimiento oportuno de la Presidencia de la Mesa Directiva y de la Junta de Gobierno, con el fin de que pueda determinarse si su tratamiento se hace en sesión reservada.
 
 3. De encontrarse procedente por el Pleno la presunción de responsabilidad, el presidente de la Mesa Directiva lo turnará a quien corresponda en términos de las disposiciones legales aplicables. La actuación de la comisión o comisiones que hayan intervenido y del Pleno mismo no constituyen prejuicio para efectos de los procedimientos de juicio político y de declaración de procedencia.
 
@@ -2693,21 +2669,21 @@ Para la formulación, presentación, discusión y votación de los dictámenes s
 
 1. Los titulares de las dependencias en términos de lo dispuesto por la parte final del artículo 93 de la Constitución Política del Estado, y cualquier servidor público estatal, podrán ser citados y acudirán ante el Pleno del Congreso, ante la Diputación Permanente o ante comisiones ordinarias para que brinden información sobre el estado que guardan sus respectivos ramos, así como cuando se discuta una iniciativa de ley o se considere un asunto relacionado con los ramos de su competencia.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. Las comparecencias se celebrarán con base en el procedimiento que para tal efecto proponga la Junta de Gobierno, a la Diputación Permanente o a la Comisión de que se trate.
+2. Las comparecencias se celebrarán de acuerdo al procedimiento que para tal efecto proponga la Junta de Gobierno, a la Diputación Permanente o a la Comisión de que se trate.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. A falta de propuesta específica de la Junta de Gobierno o si no se adopta una resolución al respecto, el procedimiento de comparecencia se sujetará a las siguientes reglas:
+3. A falta de propuesta específica de la Junta de Gobierno o si no se hubiere adoptado una resolución al respecto, el procedimiento de comparecencia se sujetará a las siguientes reglas:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
 a) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión dará la bienvenida al servidor público asistente y explicará de manera sucinta las razones que motivan la presencia de dicho funcionario, el cual lo hará bajo protesta de decir verdad;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-b) El servidor público estatal hará uso de la palabra hasta por 20 minutos, si así lo desea, para presentar un informe relacionado con el motivo de su presencia en el Congreso del Estado;
+b) La persona servidora pública estatal hará uso de la palabra hasta por 20 minutos, si así lo desea, para presentar un informe relacionado con el motivo de su presencia en el Congreso del Estado;
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -2721,9 +2697,9 @@ e) Al final de la intervención del servidor público compareciente en cada rond
 
 f) Si así lo desea el servidor público compareciente, contará con 5 minutos adicionales al término de sus respuestas a la segunda ronda de preguntas o de las consideraciones de los diputados a sus comentarios y planteamientos, para realizar una reflexión global con relación a su comparecencia, y
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-g) La Presidencia de la Mesa Directiva, de la Diputación Permanente o de la comisión hará uso de la palabra para expresar un agradecimiento institucional a la presencia del servidor público estatal.
+g) La Presidencia de la Mesa Directiva, de la Diputación Permanente o de la comisión hará uso de la palabra para expresar un agradecimiento institucional a la presencia de la persona servidora pública estatal.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -2787,9 +2763,9 @@ c) Datos biográficos de la persona nombrada, destacándose aquellas actividades
 
 2. Recibida la designación o propuesta correspondiente, la comisión ordinaria competente o la Diputación Permanente, en su caso, analizarán si la persona nombrada reúne los requisitos constitucionales y legales que se prevean para el desempeño del cargo. En caso afirmativo, tratándose de los nombramientos o ratificaciones señalados en el párrafo 1 del artículo que antecede, se propondrá fecha para que la persona nombrada o propuesta asista a una reunión de trabajo con la comisión o la Diputación Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. Si la determinación del análisis del cumplimiento de los requisitos constitucionales y legales es negativa, se hará la comunicación del caso a la Junta de Gobierno del Congreso del Estado. En dicho supuesto, se presentará ante el órgano de gobierno o la instancia a quien compete la designación o propuesta del caso, el resultado del análisis sobre la ausencia de cumplimiento de los requisitos constitucionales y legales, a fin de que se determine si se modifica la designación o la propuesta, según sea el caso.
+3. Si la determinación del análisis del cumplimiento de los requisitos constitucionales y legales es negativa, se hará la comunicación del caso a la Junta de Gobierno del Congreso. En dicho supuesto, se presentará ante el órgano de gobierno o la instancia a quien compete la designación o propuesta del caso, el resultado del análisis sobre la ausencia de cumplimiento de los requisitos constitucionales y legales, a fin de que se determine si se modifica la designación o la propuesta, según sea el caso.
 
 4. En el supuesto de nombramientos previstos en el párrafo 1 del artículo anterior, si la persona nombrada o propuesta cumple con los requisitos constitucionales para desempeñar el cargo, se procederá a realizar una reunión de trabajo o entrevista, que se sujetará al siguiente orden:
 
@@ -2815,9 +2791,9 @@ d) Intervención general de 5 minutos para la exposición de conclusiones, en ca
 
 8. El nombramiento de los titulares de los órganos internos de control, se sujetará al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del período para el que fue electo, la Junta de Gobierno del Congreso, emitirá la convocatoria pública para la designación del Titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del período para el que fue electo, la Junta de Gobierno del Congreso del Estado, emitirá la convocatoria pública para la designación de la persona Titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
 
 b) Para ser Titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos del Estado, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
 
@@ -2853,9 +2829,9 @@ h) El dictamen referido en el inciso anterior, será sometido a votación de los
 
 9. La designación del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas y de los suplentes respectivos, se sujetará al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno realizará una consulta pública y transparente, a efecto de que los ciudadanos que cumplan con los requisitos legales estén en aptitud de ser considerados para ocupar el cargo.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno realizará una consulta pública y transparente, a efecto de que las ciudadanas o los ciudadanos que cumplan con los requisitos legales estén en aptitud de ser considerados para ocupar el cargo.
 
 b) La convocatoria considerará las etapas y procedimientos para la designación o reelección correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en dos diarios de circulación en la entidad, así como en la página web oficial del Congreso.
 
@@ -2873,9 +2849,9 @@ g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la C
 
 10. La designación de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas se sujetará al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fueron electos, la Junta de Gobierno lanzará una convocatoria pública, a efecto de que participen los ciudadanos que cumplan con los requisitos legales y estén en aptitud de ser considerados para ocupar el cargo.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fueron electos, la Junta de Gobierno del Congreso del Estado lanzará una convocatoria pública, a efecto de que participen las y los ciudadanos que cumplan con los requisitos legales y estén en aptitud de ser considerados para ocupar el cargo.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
@@ -2901,9 +2877,9 @@ f) El dictamen final a que hace referencia el inciso que antecede, será sometid
 
 11. El nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción, se sujetará al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno del Congreso emitirá una convocatoria pública, con base en los requisitos establecidos en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que participen las y los ciudadanos que cumplan con éstos y que estén en aptitud de ser consideradas y/o considerados para ocupar el cargo.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno del Congreso del Estado emitirá una convocatoria pública, con base en los requisitos establecidos en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que participen las y los ciudadanos que cumplan con éstos y que estén en aptitud de ser consideradas y/o considerados para ocupar el cargo.
 
 b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en la página de internet del Congreso, y preferentemente en dos diarios de circulación en la Entidad.
 
@@ -2923,9 +2899,9 @@ Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidor
 
 ###### ARTICULO 136.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-1. Corresponde a la Junta de Gobierno del Congreso, por conducto de la Contraloría Interna investigar y determinar las responsabilidades administrativas de los servidores públicos del Congreso del Estado, así como aplicar las sanciones que para tal efecto establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en la forma y términos de esta Sección.
+1. Corresponde a la Junta de Gobierno del Congreso, por conducto de la Contraloría Interna investigar y determinar las responsabilidades administrativas de las personas servidoras públicas del Congreso del Estado, así como aplicar las sanciones que para tal efecto establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en la forma y términos de esta Sección.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -2935,9 +2911,9 @@ Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidor
 
 1. Cualquier ciudadano, bajo su más estricta responsabilidad, y aportando los elementos de prueba conducentes, podrá denunciar actos u omisiones que impliquen responsabilidad de los servidores públicos del Congreso del Estado, ante:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-a) La Junta de Gobierno, si los actos u omisiones corresponden a los integrantes del Congreso del Estado o a los titulares de la Secretaría General o de las Unidades de Servicios Parlamentarios o de Servicios Administrativos y Financieros;
+a) La Junta de Gobierno, si los actos u omisiones corresponden a las y los integrantes del Congreso del Estado o a las o los titulares de la Secretaría General o de las Unidades de Servicios Parlamentarios o de Servicios Administrativos y Financieros;
 
 b) La Contraloría Interna, si se trata de servidores públicos distintos a los referidos en el inciso anterior, y
 
@@ -2951,9 +2927,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 ###### ARTICULO 138.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-1. En caso de responsabilidad administrativa de las Diputadas y los Diputados, la Junta de Gobierno podrá imponer las sanciones conducentes con base en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+1. En caso de responsabilidad administrativa de las y los Diputados, la Junta de Gobierno podrá imponer las sanciones conducentes con base en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. El Congreso del Estado está facultado para aplicar cualquiera de las sanciones administrativas a sus servidores públicos.
 
@@ -3227,13 +3203,13 @@ El Congreso podrá ordenar el acceso del público a las galerías mediante tarje
 
 1. La Gaceta Parlamentaria es el órgano de difusión mediante el cual se proporciona información sobre las actividades del Pleno y de los órganos parlamentarios y administrativos del Congreso.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-2. La Gaceta Parlamentaria se actualizará semanalmente y contendrá el orden del día, acta y correspondencia de la sesión más próxima, así como convocatorias de las reuniones de comisiones y comités, informes de los diversos órganos del Congreso del Estado, actos oficiales, avisos importantes sobre las actividades legislativas y cualquier otro que por acuerdo de la Mesa Directiva de consuno con la Junta de Gobierno deba publicitarse en este medio.
+2. La Gaceta Parlamentaria se actualizará semanalmente y contendrá el orden del día, acta y correspondencia de la sesión más próxima, así como convocatorias de las reuniones de comisiones y comités, informes de los diversos órganos del Congreso, actos oficiales, avisos importantes sobre las actividades legislativas y cualquier otro que por acuerdo de la Mesa Directiva de consuno con la Junta de Gobierno deba publicitarse en este medio.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-3. Las características y forma de la Gaceta Parlamentaria se fijarán por la Junta de Gobierno.
+3. Las características y forma de la Gaceta Parlamentaria serán fijadas por la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2007)</small>
 
@@ -4300,3 +4276,11 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-71 MEDIANTE EL CUAL REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor a partir de su expedición y se publicará inmediatamente en el Periódico Oficial del Estado.
