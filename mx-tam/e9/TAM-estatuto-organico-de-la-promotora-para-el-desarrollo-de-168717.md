@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-promotora-para-el-desarrollo-de-168717"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-12-04"
-last_updated: "2023-12-04"
+last_updated: "2024-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA PROMOTORA PARA EL DESARROLLO DE TAMAULIPAS S.A. DE C.V
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA PROMOTORA PARA EL DESARROLLO DE TAMAULIPAS S.A. DE C.V., PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA PROMOTORA PARA EL DESARROLLO DE TAMAULIPAS S.A. DE C.V.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024 (DEROGADO).
 
 Estatuto publicado en el Número Extraordinario 32 del Periódico Oficial del Estado de Tamaulipas, el lunes 4 de diciembre de 2023.
 
@@ -796,3 +798,33 @@ El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Org
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Estado de Tamaulipas, a los 3 días del mes de noviembre de 2023.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA PROMOTORA PARA EL DESARROLLO DE TAMAULIPAS S.A. DE C.V.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular de la Dirección General deberá instrumentar las acciones necesarias para la difusión del presente Estatuto Orgánico, haciéndolo del conocimiento del personal de la Empresa.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Estatuto Orgánico de la Promotora para el Desarrollo de Tamaulipas, S.A. de C.V., publicado en Periódico Oficial del Estado de Tamaulipas Extraordinario Número 32 de fecha 4 de diciembre de 2023
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Estatuto Orgánico.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas Unidades Administrativas a las que se les haya atribuido la competencia.
+
+###### ARTÍCULO SEXTO.
+
+El presente Estatuto Orgánico de la Promotora para el Desarrollo de Tamaulipas, S.A. de C.V., deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
