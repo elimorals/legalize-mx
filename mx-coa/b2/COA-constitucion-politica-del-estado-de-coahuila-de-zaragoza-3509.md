@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2022-12-13"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -2513,6 +2513,10 @@ La Fiscalía General del Estado de Coahuila de Zaragoza contará con una Fiscal�
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
 El titular de la Fiscalía Especializada en Delitos por Hechos de Corrupción, podrá ser removido libremente por el Fiscal General del Estado. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el titular de la Fiscalía Especializada será restituido en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+La Fiscalía General del Estado de Coahuila de Zaragoza, contará con una Fiscalía de las Mujeres y la Niñez, dotada de autonomía técnica y operativa, para la investigación y persecución de los hechos que la ley considera constitutivos de delitos cometidos por razón de género en contra de mujeres y niñas, así como los delitos ejecutados contra niños. Esta Fiscalía, deberá tener el personal necesario para su operación debidamente especializado y capacitado en la materia.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -6131,3 +6135,19 @@ P.O. 13 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 312.- SE REFORMA EL CUARTO PÁRRAFO, SE ADICIONA UN QUINTO PÁRRAFO RECORRIENDO LOS ULTERIORES, DEL ARTÍCULO 7° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 129.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán llevar a cabo las adecuaciones necesarias a la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas que correspondan para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez creada la Fiscalía a que se refiere el presente Decreto, se deberá establecer anualmente en el Presupuesto de Egresos del Estado de Coahuila de Zaragoza, los recursos necesarios para el eficaz ejercicio de sus funciones, de conformidad con la disponibilidad presupuestaria y las normas legales y administrativas aplicables en la materia.
