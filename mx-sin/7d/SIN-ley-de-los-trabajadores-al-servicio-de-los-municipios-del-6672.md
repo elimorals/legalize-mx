@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-de-los-municipios-del-6672"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-21"
-last_updated: "2024-05-24"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de marzo de 1984.
 
@@ -380,6 +380,14 @@ V.- Guardar a los trabajadores de base la debida consideración y respeto;
 VI.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 32 BIS de esta Ley; y
 
 VII.- Las demás que les fijen las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+###### ARTICULO 38 Bis.
+
+Todas las personas trabajadoras gozarán del permiso de un día al año, con goce de salario íntegro, para someterse a la realización de estudios médicos de detección oportuna del cáncer, particularmente de mama, cervicouterino, de próstata, así como otras enfermedades crónicas. Para justificar este permiso, deberá presentarse la constancia médica correspondiente expedida por una institución pública o privada de salud.
+
+Los permisos señalados en este artículo no podrán ser sujetos de compensación económica en caso de no ser ejercidos.
 
 ## TITULO CUARTO. DE LA ESTABILIDAD, DE LA SUSPENSION Y DE LA TERMINACION DE LOS EFECTOS DE LOS NOMBRAMIENTOS DE LOS TRABAJADORES
 
@@ -1388,3 +1396,9 @@ P.O. 24 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 786 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 38, Y SE ADICIONA EL ARTÍCULO 32 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+P.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 5 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA EL ARTÍCULO 86 BIS A, A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA Y SE ADICIONA EL ARTÍCULO 38 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA.”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
