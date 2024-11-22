@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-entidades-paraestatales-del-estado-de-baja-34057"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-26"
-last_updated: "2003-09-26"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
-Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California el 26 de Septiembre de 2003.
+Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el 26 de Septiembre de 2003.
 
 EUGENIO ELORDUY WALTHER GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO ME ENVIO PARA SU PUBLICACION LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA, CUYO TEXTO ES EL SIGUIENTE:
 
@@ -40,6 +40,8 @@ LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA
 La presente ley es de orden público y tiene por objeto regular la constitución, organización, funcionamiento y control de las entidades paraestatales de la administración pública del Estado de Baja California.
 
 Las entidades paraestatales son auxiliares de la administración pública del Estado y se sujetarán a lo establecido en esta Ley, así como en las leyes, decretos o acuerdos especiales de creación y sus reglamentos internos y, en lo no previsto, a otras disposiciones según la materia que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
@@ -57,9 +59,13 @@ V. Titular de la Entidad: A la persona física designada por el Ejecutivo del Es
 
 VI. Coordinadora de Sector: A las dependencias que tengan bajo su responsabilidad un sector administrativo, de conformidad al Acuerdo Especial de Sectorización;
 
-VII. Secretaría: A la Secretaría de Planeación y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Dirección: A la Dirección de Control y Evaluación Gubernamental;
+VII. Secretaría.- A la Secretaría de Hacienda del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Secretaría de la Honestidad.- A la Secretaría de la Honestidad y la Función Pública del Estado;
 
 IX. Oficialía: A la Oficialía Mayor de Gobierno;
 
@@ -75,9 +81,11 @@ Los organismos a los que la Constitución Política del Estado Libre y Soberano 
 
 El titular de cada dependencia que funja como Coordinadora de Sector, observará las disposiciones contenidas en el Acuerdo Especial de Sectorización, así como las facultades y obligaciones que les conceda esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-La Secretaría tendrá representantes con el carácter de integrantes en los órganos de gobierno de las entidades paraestatales. La Dirección participará en los órganos de gobierno de las entidades paraestatales, en los términos del artículo 63 de esta Ley. También participarán otras dependencias y entidades paraestatales en la medida que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad con su esfera de competencia y disposiciones relativas en la materia.
+La Secretaría y la Oficialía tendrán representantes con el carácter de integrantes en los órganos de gobierno de las entidades paraestatales. La Secretaría de la Honestidad participará en los órganos de gobierno de las entidades paraestatales, en los términos del artículo 63 de esta Ley. También participarán otras dependencias y entidades paraestatales en la medida que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad con su esfera de competencia y disposiciones relativas en la materia.
 
 Asimismo, podrán participar las instituciones académicas, de investigación y organizaciones no gubernamentales, cuando se determine que su participación puede contribuir a la eficiente operación y desarrollo de la entidad.
 
@@ -87,7 +95,9 @@ Los representantes de las dependencias y de las entidades paraestatales, en las 
 
 Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como la requerida por la Coordinadora de Sector.
 
-Para el cumplimiento de lo anteriormente establecido, la Secretaría, la Dirección y la Coordinadora del Sector, conjuntamente harán compatibles los requerimientos de información que se demanden a las entidades paraestatales, racionalizando los flujos de información.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+Para el cumplimiento de lo anteriormente establecido, la Secretaría, la Secretaría de la Honestidad y la Coordinadora del Sector, conjuntamente harán compatibles los requerimientos de información que se demanden a las entidades paraestatales, racionalizando los flujos de información.
 
 ###### ARTÍCULO 7.
 
@@ -171,7 +181,9 @@ El órgano de gobierno estará integrado con no menos de cinco ni más de trece 
 
 Las dependencias normativas previstas en el Acuerdo Especial de Sectorización, podrán prever una participación ciudadana mayoritaria para la Entidad paraestatal que incluyan esta participación en sus instrumentos de creación, previa opinión de la Coordinadora de Sector.
 
-Los integrantes propietarios designarán a sus suplentes para cubrir sus ausencias temporales, los cuales deberán tener por lo menos el cargo de director de área o su equivalente.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+Los integrantes propietarios designarán a sus suplentes para cubrir sus ausencias temporales, los cuales preferentemente deberán tener el cargo de director de área, su equivalente o aquellas personas servidoras públicas que tengan conocimientos relativos con los temas a tratar.
 
 Los integrantes propietarios y suplentes desempeñarán el cargo de manera honorífica y personal.
 
@@ -275,9 +287,11 @@ Una vez extinguido el organismo se procederá a la cancelación de la inscripci�
 
 ### CAPÍTULO IV. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-Son empresas de participación estatal las que determine como tales la Ley Orgánica de la Administración Pública para el Estado de Baja California.
+Son empresas de participación estatal las que determine como tales la Ley Orgánica del Poder Ejecutivo del Estado de Baja California.
 
 ###### ARTÍCULO 30.
 
@@ -479,6 +493,8 @@ El órgano de gobierno para el logro de los objetivos y metas de contenidas en l
 
 El órgano de gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad paraestatal, con sujeción al programa institucional y a las disposiciones de esta ley y salvo aquellas atribuciones a que se contrae el artículo 61 de este ordenamiento, podrá delegar discrecionalmente sus facultades en el titular de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 61.
 
 Los órganos de gobierno de las entidades paraestatales tendrán las siguientes atribuciones indelegables siguientes:
@@ -509,7 +525,9 @@ XII. Analizar y aprobar en su caso, los informes trimestrales que rinda el titul
 
 XIII. Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que realice y verificar que los mismos se apliquen a los fines señalados en las instrucciones de la Coordinadora de Sector correspondiente, y
 
-XIV. Aprobar la solicitud para condonar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, previa opinión de la Dirección y de la Secretaría por conducto de la Coordinadora de Sector.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Aprobar la solicitud para condonar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, previa opinión de la Secretaría de la Honestidad y de la Secretaría por conducto de la Coordinadora de Sector.
 
 ###### ARTÍCULO 62.
 
@@ -545,25 +563,39 @@ XIV. Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás 
 
 ### CAPÍTULO VII. DEL CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-Corresponde a la Dirección vigilar el funcionamiento de las Entidades Paraestatales, por medio de auditorias e inspecciones técnicas, para informarse de su operación administrativa, de su funcionamiento económico y de su correcta operación.
+Corresponde a la Secretaría de la Honestidad vigilar el funcionamiento de las Entidades Paraestatales, por medio de auditorías e inspecciones técnicas, para informarse de su operación administrativa, de su funcionamiento económico y de su correcta operación.
 
-Esta función la realizará la Dirección a través de sus órganos de vigilancia, integrado por un comisario público propietario y su suplente, designados por la misma. Esto sin perjuicio de las atribuciones que le corresponden a la Dirección, de conformidad al artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+Esta función la realizará la Secretaría de la Honestidad a través de sus órganos de vigilancia, integrado por un comisario público propietario y su suplente, designados por la misma. Esto sin perjuicio de las atribuciones que le corresponden a la Secretaría de la Honestidad, de conformidad al artículo 48 de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
 Las entidades paraestatales están obligadas a:
 
-I. Presentar oportunamente a la Dirección, los presupuestos anuales y programas de operación;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-II. Otorgar las facilidades necesarias a la Dirección para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
+I. Presentar oportunamente a la Secretaría de la Honestidad, los presupuestos anuales y programas de operación;
 
-III. Verificar y en su caso, organizar sus sistemas de contabilidad, control y auditoria internos, de acuerdo con las disposiciones que dicte la Dirección;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-IV. Enviar con cinco días hábiles de anticipación cuando menos, a la Dirección, el orden del día y la documentación de los asuntos a tratar en las sesiones; y
+II. Otorgar las facilidades necesarias a la Secretaría de la Honestidad para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+III. Verificar y en su caso, organizar sus sistemas de contabilidad, control y auditoria internos, de acuerdo con las disposiciones que dicte la Secretaría de la Honestidad;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+IV. Enviar con cinco días hábiles de anticipación cuando menos, a la Secretaría de la Honestidad, el orden del día y la documentación de los asuntos a tratar en las sesiones; y,
 
 V. Las demás que esta Ley, su reglamento y otras disposiciones legales les impongan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
@@ -573,7 +605,9 @@ I. Evaluar el desempeño en lo general y por unidades administrativas;
 
 II. Realizar estudios sobre la eficiencia con la que ejerzan los recursos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos, y
 
-III. Solicitar información e implementar las medidas necesarias para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Dirección les asigne específicamente conforme al artículo 63 de esta Ley.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+III. Solicitar información e implementar las medidas necesarias para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Honestidad le asigne específicamente conforme al artículo 63 de esta Ley.
 
 El órgano de gobierno y el titular de la entidad deberán proporcionar la información que les soliciten los comisarios públicos para el cumplimiento de sus funciones.
 
@@ -599,29 +633,39 @@ III. Vigilar que el manejo y aplicación de los recursos públicos se efectúe c
 
 IV. Presentar al titular de la entidad paraestatal y al órgano de gobierno, los informes, resultados de las auditorias, exámenes y evaluaciones realizadas.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 68.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicables, para su vigilancia, control y evaluación, incorporarán los órganos internos de control y contarán con los comisarios públicos que designe la Dirección, en los términos de este Capítulo.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicables, para su vigilancia, control y evaluación, incorporarán los órganos internos de control y contarán con los comisarios públicos que designe la Secretaría de la Honestidad, en los términos de este Capítulo.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-Los fideicomisos públicos a que se refiere el artículo 38 de esta Ley, sin perjuicio de lo establecido en los acuerdos que expida el Ejecutivo del Estado en el que se establezcan las bases para su constitución organización y funcionamiento, así como por lo establecido en su contrato mercantil y demás legislación aplicable, para su vigilancia, control y evaluación, cuando así lo determinen en el ámbito de sus competencias, la Dirección y la Secretaría, deberán contar con órganos de control interno y en todos los casos contarán con los comisarios públicos que designe la Dirección, en los términos de las disposiciones contenidas en esta Ley.
+Los fideicomisos públicos a que se refiere el artículo 38 de esta Ley, sin perjuicio de lo establecido en los acuerdos que expida el Ejecutivo del Estado en el que se establezcan las bases para su constitución organización y funcionamiento, así como por lo establecido en su contrato mercantil y demás legislación aplicable, para su vigilancia, control y evaluación, cuando así lo determinen en el ámbito de sus competencias, la Secretaria de la Honestidad y la Secretaría, deberán contar con órganos de control interno y en todos los casos contarán con los comisarios públicos que designe la Secretaria de la Honestidad, en los términos de las disposiciones contenidas en esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-La Dirección podrá realizar visitas y auditorias a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 66, y en su caso, promover, lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Secretaría de la Honestidad podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 66, y en su caso, promover, lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
 ###### ARTÍCULO 71.
 
 En los casos en que los integrantes del órgano del gobierno o el titular de la entidad paraestatal, no cumplan con las disposiciones de esta Ley, el Ejecutivo del Estado por conducto de las dependencias competentes, así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 72.
 
-En aquellas empresas en las que participe la administración pública estatal con la suscripción del veinticinco al cincuenta por ciento de capital, se vigilarán las inversiones del Estado a través del comisario público que se designe por la Dirección, y el ejercicio de los derechos respectivos se hará por conducto de la Coordinadora de Sector.
+En aquellas empresas en las que participe la administración pública estatal con la suscripción del veinticinco al cincuenta por ciento de capital, se vigilarán las inversiones del Estado a través del comisario público que se designe por la Secretaría de la Honestidad, y el ejercicio de los derechos respectivos se hará por conducto de la Coordinadora de sector.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 73.
 
-La Dirección vigilará el debido cumplimiento de lo dispuesto en el artículo 31 de esta Ley.
+La Secretaría de la Honestidad vigilará el debido cumplimiento de lo dispuesto en el artículo 31 de esta Ley.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -652,3 +696,11 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 16 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE REFORMA LOS ARTÍCULOS 2, 5, 6, 18, 29, 61, 63, 64, 65, 68, 69, 70, 72 Y 73 A LA LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
