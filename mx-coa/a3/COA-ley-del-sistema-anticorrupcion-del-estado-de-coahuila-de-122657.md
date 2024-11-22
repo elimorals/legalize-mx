@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-122657
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2020-11-17"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de julio de 2017.
 
@@ -679,6 +679,10 @@ La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los tr
 
 CUARTO.- El Ejecutivo Estatal a través de la Secretaría de Finanzas y la Secretaría de rendición de Cuentas y el Congreso del Estado, proveerán los recursos humanos, financieros y materiales correspondientes, para el cumplimiento del presente decreto, en términos de las disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+QUINTO.- Por única vez, para el proceso de selección que se convoque en el año 2024 y que implica la designación ordinaria de dos integrantes del Consejo de Participación Ciudadana, la Comisión de Selección elegirá a una persona por un período de cuatro años y a otra por cinco años.
+
 DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los once días del mes de julio del año dos mil diecisiete.
 
 DIPUTADO PRESIDENTE
@@ -750,3 +754,9 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 770.- SE REFORMAN LAS FRACCIONES II Y IV, DEL ARTÍCULO 34 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
 
 ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2024
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 126.- SE ADICIONA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
