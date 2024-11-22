@@ -4,7 +4,7 @@ identifier: "VER-estatuto-del-personal-academico-del-colegio-de-veracruz-55745"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2010-10-28"
+last_updated: "2024-11-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # ESTATUTO DEL PERSONAL ACADEMICO DEL COLEGIO DE VERACRUZ
 
-ESTATUTO DEL PERSONAL ACADEMICO DEL COLEGIO DE VERACRUZ
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO DEL PERSONAL ACADÉMICO DE EL COLEGIO DE VERACRUZ, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2010.
+ESTATUTO DEL PERSONAL ACADÉMICO DEL COLEGIO DE VERACRUZ
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE NOVIEMBRE DE 2024 (SIN EFECTO).
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -444,3 +446,15 @@ G.O. 28 DE OCTUBRE DE 2010.
 Primero. Publíquese en la Gaceta Oficial del estado.
 
 Segundo. Súbanse la presente Reforma a la página de Internet de El Colegio.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL PERSONAL ACADÉMICO DE EL COLEGIO DE VERACRUZ”.]
+
+Primero. El presente Estatuto del Personal Académico entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno de El Colegio de Veracruz.
+
+Segundo. Publíquese en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, en la Gaceta Oficial de El Colegio de Veracruz, órgano de difusión institucional y de la normatividad de El Colver, en la página institucional de El Colegio de Veracruz y en el portal de transparencia, para su conocimiento y difusión.
+
+Tercero. A partir de que entre en vigor el presente Estatuto del Personal Académico, se deja sin efecto cualquier disposición anterior, así como aquellas que lo contravenga o se opongan al mismo.
