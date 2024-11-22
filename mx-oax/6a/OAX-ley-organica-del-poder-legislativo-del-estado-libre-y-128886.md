@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2024-11-08"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -867,113 +867,83 @@ Los integrantes de las comisiones permanentes serán nombrados antes de la terce
 
 Cada Comisión Permanente se integrará por cinco Diputados atendiendo al principio de pluralidad.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 65.
 
-Las Comisiones Permanentes serán:
+Las Comisiones Permanentes serán las siguientes:
 
 I. Administración Pública;
 
 II. Administración y Procuración de Justicia;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+III. Agua y Saneamiento;
 
-III. Fomento Agroalimentario y Desarrollo Rural;
+IV. Atención a Grupos en Situación de Vulnerabilidad;
 
-IV. Agua y Saneamiento;
+V. Bienestar, Tequio, Inclusión y Fomento Cooperativo;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+VI. Caminos Artesanales y Vivienda;
 
-V. Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
+VII. Corredor Interoceánico del Istmo de Tehuantepec y Programas de Desarrollo Regional;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+VIII. Culturas y Artes;
 
-VI. Culturas, Artes, Juventud, Cultura Física y Deporte;
+IX. Democracia y Participación Ciudadana;
 
-VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
+X. Derechos Humanos;
 
-VIII. Democracia y Participación Ciudadana;
+XI. Deporte;
 
-IX. Derechos Humanos;
+XII. Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XIII. Educación, Ciencia, Tecnología e Innovación;
 
-X. Desarrollo Económico;
+XIV. Estudios Constitucionales;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XV. Fomento Agroalimentario y Desarrollo Rural;
 
-XI. Bienestar, Tequio, Inclusión y Fomento Cooperativo;
+XVI. Fortalecimiento y Asuntos Municipales;
 
-XII. Educación, Ciencia, Tecnología e Innovación;
+XVII. Gobierno y Asuntos Agrarios;
 
-XIII. Estudios Constitucionales;
+XVIII. Hacienda;
 
-XIV. Fortalecimiento y Asuntos Municipales;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XV. Gobierno y Asuntos Agrarios;
-
-XVI. Grupos en Situación de Vulnerabilidad;
-
-XVII. Hacienda;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XVIII. Mujeres e Igualdad de Género;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XIX. Infraestructuras y Comunicaciones;
+XIX. Infraestructura y Comunicaciones;
 
 XX. Instructora;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXI. Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
 
-XXI. Medio Ambiente, Biodiversidad, Energías, Sostenibilidad y Cambio Climático.
+XXII. Medio Ambiente, Biodiversidad, Energías, Sostenibilidad y Cambio Climático;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXIII. Migración y Asuntos Internacionales;
 
-XXII. Movilidad y Transportes;
+XXIV. Movilidad y Transportes;
 
-XXIII. Presupuesto y Programación;
+XXV. Mujeres e Igualdad de Género;
 
-XXIV. Protección Civil;
+XXVI. Niñez, Adolescencia y Juventudes;
 
-XXV. Régimen, Reglamentos y Prácticas Parlamentarias;
+XXVII. Presupuesto y Programación ;
 
-XXVI. Salud;
+XXVIII. Régimen, Reglamentos y Prácticas Parlamentarias;
 
-XXVII. Seguridad y Protección Ciudadana;
+XXIX. Salud;
 
-XXVIII. Trabajo y Seguridad Social;
+XXX. Seguridad Pública y Protección Civil;
 
-XXIX. Transparencia, Acceso a la Información y Congreso Abierto;
+XXXI. Trabajo y Seguridad Social;
 
-XXX. Turismo;
+XXXII. Transparencia, Acceso a la Información y Congreso Abierto;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXXIII. Turismo;
 
-XXXI. Vigilancia de la Auditoría Superior de Fiscalización del Estado;
+XXXIV. Vigilancia de la Auditoría Superior de Fiscalización del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+XXXV. Vigilancia del Sistema Estatal de Combate a la Corrupción, y
 
-XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
-
-XXXIII. Corredor Interoceánico del Istmo de Tehuantepec y Programas de Desarrollo Regional.
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
-
-XXXIV. Migración y Asuntos Internacionales.
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
-
-XXXV. Vigilancia y Seguimiento del Sistema Estatal de Planeación; y
-
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
-
-XXXVI. Vigilancia de la Deuda Pública del Estado.
+XXXVI. Vigilancia y Seguimiento del Sistema Estatal de Planeación.
 
 Dichas Comisiones tendrán la competencia que les corresponde en lo general a las otorgadas a las Dependencias y Entidades de la Administración Pública local, la derivada de su denominación en materia parlamentaria y las que se determinen específicamente en el Reglamento.
 
@@ -1698,3 +1668,13 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, con fu
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 3.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 42 Y LA FRACCIÓN I DEL ARTÍCULO 100 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto por el artículo 7 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
