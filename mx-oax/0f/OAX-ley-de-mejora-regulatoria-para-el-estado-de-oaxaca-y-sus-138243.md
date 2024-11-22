@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mejora-regulatoria-para-el-estado-de-oaxaca-y-sus-138243
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-31"
-last_updated: "2019-08-31"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE OAXACA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 2019.
 
@@ -45,13 +45,17 @@ LEY DE MEJORA REGULATORIA PARA EL ESTADO DE OAXACA Y SUS MUNICIPIOS
 
 ### Capítulo I. Objeto de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general para el Estado de Oaxaca. Tiene por objeto establecer los principios y las bases a los que deberán sujetarse los Sujetos Obligados, en el ámbito de sus atribuciones y respectivas competencias en materia de mejora regulatoria.
+La presente Ley es de orden público y de observancia general para el Estado de Oaxaca y sus Municipios. Tiene por objeto establecer los principios y las bases que deberán atender los Sujetos Obligados, en el ámbito de sus atribuciones y respectivas competencias en materia de mejora regulatoria.
 
 Este ordenamiento no será aplicable a las materias de carácter fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquellas responsabilidades de los servidores públicos.
 
-Su aplicación corresponde al Consejo Estatal de Mejora Regulatoria, a la Coordinación Estatal de Mejora Regulatoria y a los Consejos Municipales de Mejora Regulatoria, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+Su aplicación corresponde al Consejo Estatal de Mejora Regulatoria, a la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca y a los Consejos Municipales de Mejora Regulatoria, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 2.
 
@@ -83,7 +87,9 @@ II. Agenda Regulatoria: La propuesta de las Regulaciones que los Sujetos Obligad
 
 III. Análisis de Impacto Regulatorio: Herramienta mediante la cual el Sujeto Obligado justifica, ante la Autoridad de Mejora Regulatoria, la creación de nuevas disposiciones de carácter general, reformas, modificación o en su caso, derogación o abrogación de los instrumentos normativos, con base en los principios de la política de mejora regulatoria;
 
-IV. Autoridad de Mejora Regulatoria: La Coordinación Estatal de Mejora Regulatoria, la Coordinación Municipal de Mejora Regulatoria, los comités, las unidades administrativas o áreas responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+IV. Autoridad de Mejora Regulatoria: La Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca, la Coordinación Municipal de Mejora Regulatoria, los Comités, las Unidades administrativas o Áreas responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia;
 
 V. Catálogo Nacional: El Catálogo Nacional de Regulaciones, Trámites y Servicios;
 
@@ -105,43 +111,57 @@ XIII. Estrategia Nacional: La Estrategia Nacional de Mejora Regulatoria, que ser
 
 XIV. Expediente para Trámites y Servicios: El conjunto de documentos electrónicos emitidos por el Sujeto Obligado asociado a personas físicas o morales, que pueden ser utilizados por cualquier autoridad competente, para resolver trámites y servicios;
 
-XV. Ley: Ley de Mejora Regulatoria para el Estado de Oaxaca y sus Municipios;
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-XVI. Ley General: Ley General de Mejora Regulatoria, LGMR, por sus siglas;
+XV. Negativa Ficta: Cuando una autoridad no responde a la petición de un particular en el plazo establecido por la ley y se considera que su silencio implica una respuesta negativa.
 
-XVII. Medio de Difusión: La publicación oficial impresa o electrónica por medio de la cual el Sujeto Obligado da a conocer las regulaciones que expiden;
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-XVIII. Mejora Regulatoria: Es una política gubernamental que consiste en la generación de normas claras, de trámites y servicios simplificados, así como de instituciones eficaces para su creación y aplicación, que se orienten a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades comerciales, industriales, productivas, de servicios y de desarrollo humano de la sociedad en su conjunto;
+XVI. Afirmativa Ficta: Cuando una autoridad no responde a la petición de un particular en el plazo establecido por la ley y se presume que su solicitud fue aceptada.
 
-XIX. Padrón: El Padrón de servidores públicos estatales ó municipales con nombramiento de inspector, verificador, visitador o supervisor o cuyas competencias sean las de vigilar el cumplimiento de alguna regulación;
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-XX. Portal Oficial: Al espacio de una red informática administrada por el gobierno del estado o municipal que ofrece de una manera sencilla e integrada, acceso al interesado en gestionar trámites y servicios que ofrece el Sujeto Obligado;
+XVII. Firma Electrónica Avanzada: Conjunto de datos electrónicos del firmante, consignados en un mensaje de datos que sirven para identificar la autenticidad de éste, debidamente validado por 1a Autoridad Certificadora.
 
-XXI. Propuesta Regulatoria: Los anteproyectos de iniciativas de leyes o regulaciones o disposiciones de carácter general que pretendan (sic) expedir el Sujeto Obligado, en el ámbito de su competencia y que se presenten a la consideración de las Autoridades de Mejora Regulatoria en los términos de esta Ley;
+XVIII. Ley: Ley de Mejora Regulatoria para el Estado de Oaxaca y sus Municipios;
 
-XXII. Protesta Ciudadana: El mecanismo mediante el cual se da seguimiento a peticiones y/o inconformidades ciudadanas por presuntas negativas y/o falta de respuesta de trámites y/o servicios previstos en la normatividad aplicable, sin aparente razón justificada por parte de la autoridad emisora;
+XIX. Ley General: Ley General de Mejora Regulatoria, LGMR, por sus siglas;
 
-XXIII. Registro Estatal: El Registro Estatal de Trámites y Servicios;
+XX. Medio de Difusión: La publicación oficial impresa o electrónica por medio de la cual el Sujeto Obligado da a conocer las regulaciones que expiden;
 
-XXIV. Registro Municipal: El Registro Municipal de Trámites y Servicios del municipio que corresponda;
+XXI. Mejora Regulatoria: Es una política gubernamental que consiste en la generación de normas claras, de trámites y servicios simplificados, así como de instituciones eficaces para su creación y aplicación, que se orienten a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades comerciales, industriales, productivas, de servicios y de desarrollo humano de la sociedad en su conjunto;
 
-XXV. Reglamento: El Reglamento de la Ley de Mejora Regulatoria para el Estado de Oaxaca y sus Municipios;
+XXII. Padrón: El Padrón de servidores públicos estatales ó municipales con nombramiento de inspector, verificador, visitador o supervisor o cuyas competencias sean las de vigilar el cumplimiento de alguna regulación;
 
-XXVI. Regulación o Regulaciones: Cualquier normativa de carácter general cuya denominación puede ser Acuerdo, Circular, Código, Criterio, Decreto, Directiva, Disposición de carácter general, Disposición Técnica, Estatuto, Formato, Instructivo, Ley, Lineamiento, Manual, Metodología, Regla, Reglamento, o cualquier otra denominación de naturaleza análoga que expida cualquier Sujeto Obligado;
+XXIII. Portal Oficial: Al espacio de una red informática administrada por el gobierno del estado o municipal que ofrece de una manera sencilla e integrada, acceso al interesado en gestionar trámites y servicios que ofrece el Sujeto Obligado;
 
-XXVII. Servicio: Cualquier beneficio o actividad que el Sujeto Obligado, en el ámbito de su competencia, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
+XXIV. Propuesta Regulatoria: Los anteproyectos de iniciativas de leyes o regulaciones o disposiciones de carácter general que pretendan (sic) expedir el Sujeto Obligado, en el ámbito de su competencia y que se presenten a la consideración de las Autoridades de Mejora Regulatoria en los términos de esta Ley;
 
-XXVIII. Servidores Públicos: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y/o Municipal;
+XXV. Protesta Ciudadana: El mecanismo mediante el cual se da seguimiento a peticiones y/o inconformidades ciudadanas por presuntas negativas y/o falta de respuesta de trámites y/o servicios previstos en la normatividad aplicable, sin aparente razón justificada por parte de la autoridad emisora;
 
-XXIX. Simplificación: Al procedimiento por medio del cual se propicia la transparencia y la capacidad de síntesis en la elaboración de las regulaciones y procesos administrativos, así como la reducción de plazos y requisitos o la digitalización o abrogación de los trámites que emanan de tales disposiciones de carácter general, que buscan eliminar cargas al ciudadano;
+XXVI. Registro Estatal: El Registro Estatal de Trámites y Servicios;
 
-XXX. Sistema Estatal: El Sistema Estatal de Mejora Regulatoria;
+XXVII. Registro Municipal: El Registro Municipal de Trámites y Servicios del municipio que corresponda;
 
-XXXI. Sistema Nacional: El Sistema Nacional de Mejora Regulatoria;
+XXVIII. Reglamento: El Reglamento de la Ley de Mejora Regulatoria para el Estado de Oaxaca y sus Municipios;
 
-XXXII. Sujetos Obligados: La Administración Pública Estatal y Municipal. Los Poderes Legislativo, Judicial y los Órganos Autónomos, únicamente respecto a las obligaciones contenidas en el capítulo I del Título Tercero de esta Ley en relación al Catálogo Estatal;
+XXIX. Regulación o Regulaciones: Cualquier normativa de carácter general cuya denominación puede ser Acuerdo, Circular, Código, Criterio, Decreto, Directiva, Disposición de carácter general, Disposición Técnica, Estatuto, Formato, Instructivo, Ley, Lineamiento, Manual, Metodología, Regla, Reglamento, o cualquier otra denominación de naturaleza análoga que expida cualquier Sujeto Obligado;
 
-XXXIII. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales del sector privado realicen ante la autoridad competente en el ámbito estatal, municipal o de la alcaldía, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
+XXX. Servicio: Cualquier beneficio o actividad que el Sujeto Obligado, en el ámbito de su competencia, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
+
+XXXI. Servidores Públicos: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y/o Municipal;
+
+XXXII. Simplificación: Al procedimiento por medio del cual se propicia la transparencia y la capacidad de síntesis en la elaboración de las regulaciones y procesos administrativos, así como la reducción de plazos y requisitos o la digitalización o abrogación de los trámites que emanan de tales disposiciones de carácter general, que buscan eliminar cargas al ciudadano;
+
+XXXIII. Sistema Estatal: El Sistema Estatal de Mejora Regulatoria;
+
+XXXIV. Sistema Nacional: El Sistema Nacional de Mejora Regulatoria;
+
+XXXV. Sujetos Obligados: La Administración Pública Estatal y Municipal. Los Poderes Legislativo, Judicial y los Órganos Autónomos, únicamente respecto a las obligaciones contenidas en el capítulo I del Título Tercero de esta Ley en relación al Catálogo Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+XXXVI. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales del sector privado realicen ante la autoridad competente en el ámbito estatal, municipal, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
 
 ###### Artículo 4.
 
@@ -243,7 +263,9 @@ I. El Consejo Estatal;
 
 II. La Estrategia Estatal;
 
-III. La Coordinación Estatal de Mejora Regulatoria; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+III. La Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca; y
 
 IV. Los Sujetos Obligados.
 
@@ -271,21 +293,31 @@ El titular del Sujeto Obligado designará a un servidor público, como responsab
 
 El Consejo Estatal es el órgano responsable de coordinar la política estatal en materia de mejora regulatoria y tendrá atribuciones para establecer las bases, principios y mecanismos para la efectiva coordinación en el ámbito estatal de la misma, para promover el uso de metodologías, instrumentos, programas y las buenas prácticas nacionales e internacionales en la materia. Dicho Consejo estará integrado por:
 
-I. El Titular del Poder Ejecutivo, quien los (sic) presidirá; en su ausencia lo suplirá la ó el Titular de la Secretaría de Economía;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-II. La ó el Titular de la Secretaría de Economía;
+I. El Titular del Poder Ejecutivo, quien los presidirá; en su ausencia lo suplirá la o el Titular de la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+II. La o el Titular de la Secretada de Desarrollo Económico;
 
 III. La ó el Titular de la Coordinación Estatal, quien fungirá como Secretario Ejecutivo;
 
-IV. La Titular de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+IV. La o el Titular de la Secretaría de Gobierno;
 
 V. La ó el Titular de la Secretaría de Finanzas;
 
 VI. La ó el Titular de la Secretaría de Administración;
 
-VII. La ó el Titular de la Secretaría de la Contraloría y Transparencia el (sic) Gubernamental;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-VIII. El Consejero Jurídico del Gobierno del Estado;
+VII. La o el Titular de la Secretaría De Honestidad, Transparencia Y Función Pública;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+VIII. La o el Titular de la Consejería Jurídica y Asistencia Legal del Gobierno del Estado;
 
 IX. El Presidente de la Comisión Permanente de Desarrollo Económico, Industrial y
 
@@ -301,11 +333,17 @@ I. Un Representante de la Comisión Nacional de Mejora Regulatoria;
 
 II. Un representante del H. Tribunal Superior de Justicia del Estado;
 
-III. Un representante del Tribunal de Justicia Administrativa del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
 
-IV. Un representante del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado;
+III. Un representante del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca;
 
-V. Un representante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+IV. Un representante del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+V. Un representante de la Fiscalía Especializada de Combate a la Corrupción;
 
 VI. Un Representante del Observatorio Nacional de Mejora Regulatoria; y
 
@@ -367,7 +405,9 @@ I. Elaborar y distribuir, en acuerdo con el Presidente del Consejo Estatal, la c
 
 II. Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de estos y de los instrumentos jurídicos que se deriven y expedir constancia de los mismos;
 
-III. Elaborar los informes de actividades del Consejo Estatal;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+III. Elaborar los informes anuales de actividades del Consejo Estatal;
 
 IV. Solicitar la publicación en el Periódico Oficial del Gobierno del Estado de los instrumentos a los que se refieren las fracciones I, II y X del artículo 18 de esta Ley; y
 
@@ -421,9 +461,11 @@ XVIII. Las demás que se deriven de esta Ley y otras disposiciones jurídicas ap
 
 ### Capítulo IV. De la Coordinación Estatal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 23.
 
-La Coordinación Estatal, es un área administrativa de la Secretaría de Economía del Poder Ejecutivo del Estado, la cual tiene como objetivo coordinar, promover, aplicar y supervisar la mejora de las regulaciones y la simplificación de trámites y servicios del Sujeto Obligado; procurando que estos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+La Coordinación Estatal, es un área administrativa de la Secretaría de Desarrollo Económico del Poder Ejecutivo del Estado, la cual tiene como objetivo coordinar, promover, aplicar y supervisar la mejora de las regulaciones y la simplificación de trámites y servicios del Sujeto Obligado; procurando que estos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
 
 ###### Artículo 24.
 
@@ -463,7 +505,9 @@ XVI. Proponer, coordinar, publicar, monitorear, opinar y evaluar los Programas d
 
 XVII. Crear, desarrollar, proponer y promover programas específicos de simplificación y mejora regulatoria en el ámbito estatal;
 
-XVIII. Proponer al Secretario de Economía del Poder Ejecutivo del Estado los acuerdos y/o convenios de colaboración, concertación y/o coordinación que contribuyan al cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+XVIII. Proponer al secretario de Desarrollo Económico del Poder Ejecutivo del Estado los acuerdos y/o convenios de colaboración, concertación y/o coordinación que contribuyan al cumplimiento de sus objetivos;
 
 XIX. Calcular el costo económico de los trámites y servicios con la información proporcionada por el Sujeto Obligado con la asesoría técnica de la CONAMER;
 
@@ -737,7 +781,11 @@ VIII. En caso de requerir inspección o verificación, señalar el objetivo de l
 
 IX. Datos de contacto oficial del Sujeto Obligado responsable del trámite o servicio;
 
-X. Plazo que tiene el Sujeto Obligado para resolver el trámite o servicio y, en su caso, si aplica la afirmativa o la negativa ficta de acuerdo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+X. El plazo que tiene el sujeto obligado para resolver el trámite o servicio, así como para aplicar la afirmativa o la negativa ficta.
+
+En caso que, el sujeto obligado no contemple en ninguna regulación interna la aplicación de la figura de la 'ficta', se entenderá que se aplica la negativa;
 
 XI. El plazo con el que cuenta el Sujeto Obligado para prevenir al solicitante y el plazo con el que cuenta el solicitante para cumplir con la prevención;
 
@@ -807,7 +855,9 @@ II. Que la información contenida en el documento electrónico se mantenga ínte
 
 III. Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud; y
 
-IV. Que cuente con la Identidad Digital del servidor público al que se refiere la fracción I de este artículo.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+IV. Que cuente con la Firma Electrónica Avanzada del servidor público al que se refiere la fracción I de este artículo.
 
 #### Sección IV. Del Registro Estatal y los Registros Municipales de Visitas Domiciliarias
 
@@ -841,15 +891,19 @@ Las Autoridades de Mejora Regulatoria serán las responsables de supervisar y co
 
 #### Sección V. De la Protesta Ciudadana
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 53.
 
-El solicitante podrá presentar una Protesta Ciudadana cuando con acciones u omisiones el servidor público encargado del Trámite o Servicio niegue la gestión sin causa justificada, altere o incumpla con las fracciones V, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII del artículo 41 y el 43 de esta Ley.
+El solicitante podrá presentar una Protesta Ciudadana cuando con acciones u omisiones el servidor público encargado del Trámite o Servicio niegue la gestión sin causa justificada, altere o incumpla con las fracciones V, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII del artículo 42 y el 44 de esta Ley.
 
 ###### Artículo 54.
 
 La Coordinación Estatal y la Coordinación Municipal dispondrán lo necesario para que las personas puedan presentar la Protesta Ciudadana.
 
-La Protesta Ciudadana será revisada por la Autoridad de Mejora Regulatoria quien emitirá su opinión en un plazo de cinco días, dando contestación al ciudadano que la presentó; dará vista de la misma al Sujeto Obligado y, en su caso, al órgano competente en materia de responsabilidades.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+La Protesta Ciudadana será revisada por la Autoridad de Mejora Regulatoria quien emitirá su determinación en un plazo de cinco días, dando contestación al ciudadano que la presentó; dará vista de la misma al Sujeto Obligado y, en su caso, al órgano competente en materia de responsabilidades administrativas.
 
 El procedimiento de la Protesta Ciudadana se regulará conforme a los lineamientos que emita el Consejo Estatal.
 
@@ -1146,3 +1200,15 @@ Décimo. Se abroga la Ley de Mejora Regulatoria del Estado y Municipios de Oaxac
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 31 de Julio de 2019.- Dip. César Enrique Morales Niño, Presidente.- Dip. Yarith Tannos Cruz, Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 06 de Agosto de 2019. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2515.- MEDIANTE EL CUAL REFORMAN EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 1, LAS FRACCIONES IV, XXXVI ANTES XXXIII DEL ARTÍCULO 3, LA FRACCIÓN III DEL ARTÍCULO 11, LAS FRACCIONES I, II, IV, VII Y VIII DEL ARTÍCULO 14, FRACCIONES III, IV Y V DEL ARTÍCULO 15, LA FRACCIÓN III DEL ARTÍCULO 20, ARTÍCULO 23, LA FRACCIÓN XVIII DEL ARTÍCULO 24, LA FRACCIÓN X DEL ARTÍCULO 42, LA FRACCIÓN IV DEL ARTÍCULO 48, EL ARTÍCULO 53, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 54, Y SE ADICIONAN LAS FRACCIONES XV, XVI Y XVII AL ARTÍCULO 3 Y SE RECORREN LAS FRACCIONES SUBSECUENTES, TODOS DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE OAXACA Y SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
