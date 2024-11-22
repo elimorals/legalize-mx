@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2024-11-08"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -579,177 +579,133 @@ Los diputados dispondrán de cinco días hábiles a partir del día siguiente a 
 
 ### CAPÍTULO SEGUNDO. DE LAS COMISIONES PERMANENTES
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
-El Congreso contará con las comisiones permanentes previstas en el artículo 65 de la Ley, las que analizarán y dictaminarán las iniciativas que deriven de su denominación, y las que les correspondan dentro del ámbito de su competencia, en concordancia con las Dependencias y Entidades de la Administración Pública Estatal y los Órganos Constitucionales Autónomos.
-
-Las comisiones permanentes podrán aumentarse o disminuirse a juicio de la Legislatura.
-
-Las comisiones tendrán las siguientes obligaciones y atribuciones:
+El Congreso contará con las comisiones permanentes previstas en el artículo 65 de la Ley, las que analizarán y dictaminarán las iniciativas que deriven de su denominación, y las que les correspondan dentro del ámbito de su competencia, en concordancia con las Dependencias y Entidades de la Administración Pública Estatal y los Órganos Constitucionales Autónomos. Las comisiones permanentes podrán aumentarse o disminuirse a juicio de la Legislatura y tendrán las siguientes obligaciones y atribuciones:
 
 I. Administración Pública; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. Los que se refieran a las iniciativas de ley o modificaciones relacionadas con la Ley Orgánica del Poder Ejecutivo del Estado, y las facultades de cada una de sus dependencias;
+a. Los que se refieran a las iniciativas de ley o reformas relacionadas con la Ley Orgánica del Poder Ejecutivo del Estado, y las facultades de cada una de sus dependencias;
 
 b. Lo relativo a la ejecución de proyectos de inversión pública y prestación de servicios públicos;
 
-c. Lo relativo a la ratificación del nombramiento de los Secretarios de Despacho, tratándose de gobierno de coalición, y;
+c. Lo relativo a la ratificación del nombramiento de los Secretarios de Despacho, tratándose de gobierno de coalición, y
 
 d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 II. Administración y Procuración de Justicia; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con la legislación civil o penal y administrativa, en materia de procuración e impartición de justicia;
+a. Los que se refieran a las iniciativas de ley o reformas, relacionadas con la legislación civil o penal y administrativa, en materia de procuración e impartición de justicia;
 
-b. Los relativos a proyectos de modificaciones a las leyes Orgánicas del Poder Judicial, del Tribunal de Justicia Administrativa y de la Fiscalía General del Estado;
+b. Los relativos a proyectos de reformas a las leyes Orgánicas del Poder Judicial, del Tribunal de Justicia Administrativa y de la Fiscalía General del Estado;
 
 c. Los referentes a los nombramientos de Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa;
 
 d. Los referentes al nombramiento de los Titulares de la Fiscalía General del Estado, Fiscalía Especializada en Delitos Electorales y la Fiscalía Especializada de Combate a la Corrupción;
 
-e. El referente a la designación del Consejero miembro del Poder Legislativo para la integración del Consejo de la Judicatura del Poder Judicial del Estado, y;
+e. El referente a la designación del Consejero miembro del Poder Legislativo para la integración del Consejo de la Judicatura del Poder Judicial del Estado, y
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-III. Fomento Agroalimentario y Desarrollo Rural; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-a. La Legislación que tienda a la proyección y crecimiento de las actividades productivas agroalimentarias y pecuarias, forestales, pesqueras y mineras en el Estado;
-
-b. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia agrícola, ganadera, pesquera, acuícola y minera del Estado;
-
-c. Los relacionados con el desarrollo y fomento agropecuario, forestal, pesquero y minero en el Estado;
-
-d. Los relativos al desarrollo rural y mejoramiento de los ejidatarios, comuneros y pequeños propietarios agrícolas, forestales y ganaderos, que sean de competencia estatal, de conformidad con las disposiciones de la Ley de la materia, y;
-
-e. Las demás que le confiera la Ley, este Reglamento y las leyes aplicables.
-
-IV. Agua y Saneamiento; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+III. Agua y Saneamiento; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Conocer, analizar y dictaminar sobre los asuntos legislativos relacionados con los recursos hídricos del Estado;
 
-b. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia de agua potable, alcantarillado, tratamiento, disposición y tratamiento de aguas residuales;
+b. Los que se refieran a las iniciativas de ley o reformas relacionadas con legislación en materia de agua potable, alcantarillado, tratamiento, disposición y tratamiento de aguas residuales;
 
 c. Crear las condiciones normativas que aseguren el abastecimiento de agua para los usos doméstico, industrial y público urbano en cantidad y calidad;
 
-d. Participar en la regulación, gestión, conservación, preservación y atención de los asuntos en materia de agua y saneamiento, y;
+d. Participar en la regulación, gestión, conservación, preservación y atención de los asuntos en materia de agua y saneamiento, y
 
 e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+IV. Atención a Grupos en Situación de Vulnerabilidad; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-V. Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+a. Adecuar, analizar y actualizar el marco jurídico que permita una mayor atención a grupos en situación de vulnerabilidad;
 
-a. Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas y afromexicanas;
+b. Solicitar al Ejecutivo del Estado la implementación de políticas públicas que les beneficien y contribuyan a erradicar la discriminación;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+c. Vincular a este sector con las autoridades para lograr la plena inclusión e integración, en un marco de igualdad de oportunidades, en todos los ámbitos de la vida;
 
-b. Impulsar mecanismos jurídicos de desarrollo de los pueblos y comunidades indígenas y afromexicanas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e idiosincrasia, así como la interculturalidad;
+d. Los que se relacionen con la protección de los derechos de las personas en situación de vulnerabilidad;
 
-c. Fortalecer el marco jurídico que garantice la participación de los Pueblos y Comunidades Indígenas en la sociedad;
+e. La promoción de una cultura de respeto y equiparación de oportunidades para las personas que se encuentran en situación de vulnerabilidad;
 
-d. (DEROGADO, P.O. 29 DE FEBRERO DE 2020)
+f. Los que se refieran a la protección de los derechos de personas adultas mayores y personas con discapacidad, y
 
-e. (DEROGADO, P.O. 29 DE FEBRERO DE 2020)
+g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-f. (DEROGADO, P.O. 29 DE FEBRERO DE 2020)
+V. Bienestar, Tequio, Inclusión y Fomento Cooperativo; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-g. Coadyuvar, dentro del ámbito de su competencia, en la realización de las Consultas Indígenas, en coordinación con las instancias de gobierno correspondientes, y;
+a. La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población;
 
-h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+b. Adecuación del marco normativo para el establecimiento de acciones o programas tendientes a combatir la pobreza;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+c. Realizar estudios, promover y dictaminar lo relativo a las condiciones de acceso y defensa de la población de escasos recursos a mecanismos de financiamiento público o privado, y
 
-VI. Culturas, Artes, Juventud, Cultura Física y Deporte; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+VI. Caminos Artesanales y Vivienda; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. La legislación en materia de culturas, artes, juventud, cultura física y deporte;
+a. Lo relativo a las leyes y reformas, planes, programas, proyectos y recursos para caminos y caminos artesanales en los Municipios del Estado;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+b. Revisar y adecuar el marco jurídico en materia de vivienda;
 
-b. Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales y deportivas;
+c. Proponer e impulsar las reformas legislativas que incrementen las posibilidades de acceso a una vivienda digna;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+d. Impulsar el desarrollo habitacional sustentable, y
 
-c. La promoción de iniciativas de ley, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes;
+e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+VII. Corredor Interoceánico del Istmo de Tehuantepec y Programas de Desarrollo Regional; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-d. Promover la participación de la sociedad ante las Instituciones, Organismos Públicos y Privados, Estatales o Nacionales en la vida deportiva;
+a. Conocerá de los planes y programas que tengan como fin impulsar el crecimiento económico regional y local de los diversos programas y modelos en la materia, y
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+b. Las demás que les confiera este Reglamento, las leyes aplicables o los acuerdos Parlamentarios y las que correspondan a su denominación.
 
-e. La denominación de años o días festivos oficiales en materia cultural;
+VIII. Culturas y Artes; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+a. Las leyes y reformas en materia de culturas y artes;
 
-f. El otorgamiento de reconocimientos y estímulos cívicos, salvo que por disposición expresa sea conferida a alguna Comisión diversa;
+b. La denominación de años o días festivos oficiales en materia cultural;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+c. El otorgamiento de reconocimientos y estímulos cívicos, salvo que por disposición expresa sea conferida a alguna Comisión diversa;
 
-g. Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado;
+d. Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+e. Estudiar, analizar y dictaminar iniciativas de ley, decretos y acuerdos en materia del Patrimonio Natural, Cultural e Histórico tangible e intangible de nuestro Estado;
 
-h. Estudiar, analizar y dictaminar iniciativas de ley, decretos y acuerdos en materia del Patrimonio Natural, Cultural e Histórico tangible e intangible de nuestro Estado;
+f. Promover la atención, salvaguarda, conservación y protección del patrimonio cultural, artístico, documental y arquitectónico e histórico del Estado de Oaxaca, y
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-i. Promover la atención, salvaguarda, conservación y protección del patrimonio cultural, artístico, documental y arquitectónico e histórico del Estado de Oaxaca;
+IX. Democracia y Participación Ciudadana; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
-
-j. Favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social en materia de cultura física y deporte;
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2023)</small>
-
-k. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2024)</small>
-
-l. Emitir cada año, en el marco del Día de las Juventudes Oaxaqueñas y de la entrega del Premio Estatal de la Juventud, en coordinación con la Comisión Permanente de Democracia y Participación Ciudadana, la Convocatoria para la celebración del Congreso de las Juventudes, el cual se realizará en el Recinto Legislativo.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2024)</small>
-
-Las iniciativas de ley y puntos de acuerdo presentados por los diputados juveniles con motivo del Congreso de las Juventudes, se remitirán por oficios signado (sic) por el presidente de esta comisión a la Secretaría de Servicios Parlamentarios, para que la presidencia de la Mesa Directiva mediante sesión de pleno de la legislatura del Congreso, las turne a las Comisiones correspondientes, para su estudio y dictaminación o para el trámite correspondiente; y
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2023)</small>
-
-m. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
-
-VIII. Democracia y Participación Ciudadana; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a. Adecuar el marco jurídico local en materia de participación ciudadana, con la finalidad de realizar las modificaciones y armonizaciones necesarias para implementar los instrumentos correspondientes en la materia;
+a. Adecuar el marco jurídico local en materia de participación ciudadana, con la finalidad de realizar las reformas y armonizaciones necesarias para implementar los instrumentos correspondientes en la materia;
 
 b. Proponer e impulsar las actividades legislativas que permitan incrementar la participación ciudadana;
 
 c. Promover y garantizar la participación ciudadana en la toma de decisiones;
 
-d. Los que se refieran a las iniciativas de ley o modificaciones relacionadas con la legislación electoral;
+d. Los que se refieran a las iniciativas de ley o reformas relacionadas con la legislación electoral;
 
-e. Realizar la difusión del Bando Solemne relativo a la Declaratoria de gobernador Electo, en términos de lo Dispuesto por la constitución Local;
+e. Realizar la difusión del Bando Solemne relativo a la Declaratoria de Gobernador Electo, en términos de lo dispuesto por la Constitución Local;
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
-
-f. Proponer al Pleno Legislativo, la convocatoria pública en el que se establezcan las bases, para la elección del Contralor General del Instituto Estatal Electoral y de Participación Ciudadana del Estado, así como el desarrollo del procedimiento hasta la conformación de la terna.
+f. Proponer al Pleno Legislativo, la convocatoria pública en el que se establezcan las bases, para la elección del Contralor General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, así como el desarrollo del procedimiento hasta la conformación de la terna.
 
 La convocatoria para la designación del Contralor General, por lo menos, deberá contener:
 
-1) Las fechas y plazos de cada una de las fases del procedimiento de designación para el que se convoca, desde la presentación de documentos, revisión de los mismos, entrevistas, proceso de evaluación, hasta la formulación del dictamen que contenga la terna de candidatos aptos, para ser sometidos al Pleno Legislativo;
+1) Las fechas y plazos de cada una de las fases del procedimiento de designación para el que se convoca, desde la presentación de documentos, revisión de los mismos, entrevistas, proceso de evaluación; hasta la formulación del dictamen que contenga la terna de candidatos aptos, para ser sometidos al Pleno Legislativo;
 
-2) Los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditar cada uno de ellos, y;
+2) Los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditar cada uno de ellos, y
 
-3) En la conformación de la terna para elegir al Contralor General del Instituto Estatal Electoral de Oaxaca, se observará la inclusión paritaria de hombres y mujeres.
+3) En la conformación de la terna para elegir al Contralor General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, se observará la inclusión paritaria de hombres y mujeres, y
 
 g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-IX. Derechos Humanos; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+X. Derechos Humanos; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Los relacionados con la promoción y la protección de los Derechos Humanos;
 
@@ -759,75 +715,85 @@ c. Dictaminar sobre la solicitud del titular de la Defensoría de los Derechos H
 
 d. El nombramiento de los funcionarios de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, de acuerdo con las atribuciones legales que correspondan;
 
-e. La relación con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y los órganos gubernamentales y no gubernamentales de la materia, y;
+e. La relación con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y los órganos gubernamentales y no gubernamentales de la materia, y
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+XI. Deporte; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-X. Desarrollo Económico; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+a. Las leyes y reformas en materia de cultura física y deporte;
 
-a. Adecuar y analizar la legislación tendiente a la promoción del desarrollo económico, Industrial, Comercial y Artesanal de las diferentes regiones del Estado;
+b. La denominación de años o días festivos oficiales en materia de cultura física y Deporte;
 
-b. Adecuar y analizar la normatividad que promueva el incremento de la actividad económica, Industrial, Comercial y Artesanal y el mayor rendimiento de los factores económicos en la Entidad;
+c. Promover la participación de la sociedad ante las Instituciones, Organismos Públicos y Privados, Estatales o Nacionales en la vida deportiva;
 
-c. Promover la celebración de los convenios que celebre el Congreso del Estado con el Gobierno del Estado, el Gobierno Federal, las Entidades Federativas y los Municipios, así como con los sectores privado y social, para la promoción del desarrollo económico, y;
+d. Favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social en materia de cultura física y deporte;
+
+e. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas, y
+
+f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+XII. Desarrollo Económico; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+a. Adecuar y analizar la legislación tendiente a la promoción del desarrollo económico, industrial, comercial y artesanal de las diferentes regiones del Estado;
+
+b. Adecuar y analizar la normatividad que promueva el incremento de la actividad económica, industrial, comercial y artesanal y el mayor rendimiento de los factores económicos en la Entidad;
+
+c. Promover la celebración de los convenios que celebre el Congreso del Estado con el Gobierno del Estado, el Gobierno Federal, las Entidades Federativas y los Municipios, así como con los sectores privado y social, para la promoción del desarrollo económico, y
 
 d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+XIII. Educación, Ciencia, Tecnología e Innovación; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-XI. Bienestar, Tequio, Inclusión y Fomento Cooperativo; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+a. La legislación en materia de educación, ciencia, tecnología e innovación;
 
-a. La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población;
+b. Solicitar al Ejecutivo del Estado la celebración de convenios tendientes a la creación de instituciones educativas;
 
-b. Adecuación del marco normativo para el establecimiento de acciones o programas tendientes a combatir la pobreza extrema;
+c. Analizar y proponer a las autoridades competentes los procesos que hagan posible la definición de prioridades, asignación y optimización de recursos del Gobierno Estatal y Federal para la ciencia, la tecnología y la innovación;
 
-c. Realizar estudios, promover y dictaminar lo relativo a las condiciones de acceso y defensa de la población de escasos recursos a mecanismos de financiamiento público o privado, y;
-
-d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-XII. Educación, Ciencia, Tecnología e Innovación; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a. La legislación en materia de Educación, Ciencia, Tecnología e Innovación;
-
-b. Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones educativas;
-
-c. Analizar y proponer a las autoridades competentes los procesos que hagan posible la definición de prioridades, asignación y optimización de recursos del Gobierno Estatal y Federal para la ciencia y la tecnología;
-
-d. Solicitar a las instancias administrativas competentes acciones y políticas en materia de ciencia y tecnología, y;
+d. Solicitar a las instancias administrativas competentes acciones y políticas en materia de ciencia, tecnología e innovación, y
 
 e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XIII. Estudios Constitucionales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XIV. Estudios Constitucionales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Oaxaca;
+a. Los que se refieran a las iniciativas de ley o reformas relacionadas con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-b. Los que se refieran a leyes reglamentarias u orgánicas que deriven de alguna disposición de la Constitución Local o que deriven de la Constitución Federal y que expresamente autorice a la Legislatura regular;
+b. Los que se refieran a leyes reglamentarias u orgánicas que deriven de alguna disposición de la Constitución Local o de la Constitución Federal y que expresamente autorice a la Legislatura regular;
 
-c. Los que se refieran al conocimiento de la licencia o renuncia del Gobernador del Estado, de diputados;
+c. Los que se refieran al conocimiento de la licencia o renuncia del Gobernador del Estado o Diputados;
 
-d. Los relativos al cambio de residencia de los poderes del Estado, y;
+d. Los relativos al cambio de residencia de los Poderes del Estado, y
 
 e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XIV. Fortalecimiento y Asuntos Municipales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XV. Fomento Agroalimentario y Desarrollo Rural; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+a. La Legislación tendiente a la proyección y crecimiento de las actividades productivas agroalimentarias, pecuarias, forestales, acuícolas, pesqueras y mineras en el Estado;
+
+b. Los que se refieran a las iniciativas de ley o reformas, relacionadas con legislación en materia agroalimentaria, forestal, pecuaria, pesquera, acuícola y minera del Estado;
+
+c. Los relacionados con el desarrollo y fomento agroalimentario, pecuario, forestal, acuícola, pesquero y minero en el Estado;
+
+d. Los relativos al desarrollo rural y mejoramiento de los ejidatarios, comuneros y pequeños propietarios agrícolas, forestales y ganaderos, que sean de competencia estatal, de conformidad con las disposiciones de la Ley de la materia, y
+
+e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+XVI. Fortalecimiento y Asuntos Municipales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. De los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, en coordinación con los Organismos e Instituciones de asesoría técnica municipal;
 
-b. Promover el bienestar y progreso de los municipios;
+b. Promover el bienestar y progreso de los Municipios;
 
-c. Lo relacionado con autorizaciones al ejecutivo estatal para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
+c. Lo relacionado con autorizaciones al Ejecutivo Estatal para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
 
-d. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con la Ley Orgánica Municipal;
+d. Los que se refieran a las iniciativas de ley o reformas, relacionadas con la Ley Orgánica Municipal;
 
-e. Lo relativo a la resolución conciliatoria de los conflictos que surjan entre los municipios entre sí, y entre estos y los Poderes Ejecutivo y Judicial del Estado, y;
+e. Lo relativo a la resolución conciliatoria de los conflictos que surjan entre los Municipios entre sí, y entre estos y los Poderes Ejecutivo y Judicial del Estado, y
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XV. Gobierno y Asuntos Agrarios; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XVII. Gobierno y Asuntos Agrarios; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Suspensión y revocación de mandato de los integrantes de los Ayuntamientos;
 
@@ -841,105 +807,63 @@ e. Creación, fusión y supresión de Municipios;
 
 f. Designar a los Concejos Municipales, en términos de lo dispuesto en la Constitución Local;
 
-g. Coadyuvar con los organismos encargados de la tenencia de la tierra, y;
+g. Coadyuvar con los organismos encargados de la tenencia de la tierra, y
 
 h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XVI. Grupos en Situación de Vulnerabilidad; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XVIII. Hacienda; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. Adecuar, analizar y actualizar el marco jurídico que permita una mayor atención a grupos vulnerables;
+a. Los que se refieran a las iniciativas de ley o reformas, relacionadas con legislación en materia hacendaria del Estado y de los Municipios;
 
-b. Solicitar al Ejecutivo del Estado la implementación de políticas públicas que les beneficien y contribuyan a eliminar la discriminación;
+b. Los que atañen a la Ley de Ingresos del Estado y a las Leyes de Ingresos de los Municipios;
 
-c. Vincular a este sector con las autoridades para lograr la plena inclusión e integración, en un marco de igualdad de oportunidades, en todos los ámbitos de la vida;
-
-d. Los que se relacionen con la protección de los derechos de las personas en riesgo de vulnerabilidad o grupos vulnerables;
-
-e. La promoción de una cultura de respeto y equiparación de oportunidades para las personas que se encuentran en situación de vulnerabilidad;
-
-f. Los que se refieran a la protección de los derechos de niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad, y;
-
-g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-XVII. Hacienda; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia hacendaria del Estado y de los municipios;
-
-b. Los que atañen a la Ley de Ingresos del Estado y a las leyes de ingresos de los municipios;
-
-c. Los que se refieran a la autorización con que deba contar el Estado, municipios y sus respectivos órganos descentralizados, empresas de participación mayoritaria estatal o municipal y fideicomisos públicos para contraer deuda pública y obligaciones de conformidad con la legislación en la materia;
+c. Los que se refieran a la autorización con que deba contar el Estado, Municipios y sus respectivos órganos descentralizados, empresas de participación mayoritaria estatal o municipal y fideicomisos públicos para contraer deuda pública y obligaciones de conformidad con la legislación en la materia;
 
 d. Los relativos a la autorización para la constitución de fideicomisos de financiamiento que prevé la Ley de la materia, así como para la novación, reestructuración o refinanciamiento de la deuda pública;
 
-e. Los referidos a la autorización para la emisión de valores, certificados, obligaciones, bonos y otros títulos de crédito o instrumentos representativos de deuda pública, y;
+e. Los referidos a la autorización para la emisión de valores, certificados, obligaciones, bonos y otros títulos de crédito o instrumentos representativos de deuda pública, y
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XVIII. Mujeres e Igualdad de Género; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a. Estudiará y vigilará lo relativo a iniciativas y reformas a las Leyes del Estado en los que se traten temas relativos a la mujer;
-
-b. Conocerá de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas;
-
-c. Fomentará acciones para la igualdad, no discriminación y el empoderamiento, que asegurare el pleno desarrollo y adelanto de la mujer;
-
-d. Incorporar al interior del Poder Legislativo políticas y acciones con perspectiva de género, de modo que se establezca en todas ellas el objetivo general de eliminar las desigualdades y promover la igualdad de mujeres y hombres;
-
-e. Los que se relacionen con la discriminación o maltrato por razones de sexo, raza, edad, credo político o religioso, y situación socioeconómica, así como los que se refieran al reconocimiento de condiciones equitativas e igualdad de oportunidades de acceso al desarrollo para las personas, y;
-
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2023)</small>
-
-f. Conocer el procedimiento del reconocimiento público "María Cristina Salmorán", el cual será entregado a mujeres u organizaciones de la sociedad civil oaxaqueña que hayan destacado en el ámbito municipal y estatal, por sus actividades en defensa de los derechos de las mujeres, la igualdad sustantiva entre hombres y mujeres, y la erradicación de toda forma de violencia contra éstas; en el marco del Día Internacional de la Mujer, y
-
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
-
-g. Las demás que le confiera este Reglamento, la (sic) Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XIX. Infraestructuras y Comunicaciones; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XIX. Infraestructura y Comunicaciones; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con la legislación en materia de desarrollo urbano, obra pública y comunicaciones, para que sean de utilidad e impacto social;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-b. Los relacionados en materia de asentamientos humanos, desarrollo urbano, obra pública, comunicaciones, servicios e in (sic) infraestructura básica;
+b. Los relacionados en materia de asentamientos humanos, desarrollo urbano, obra pública, comunicaciones, servicios e infraestructura básica;
 
 c. Los relacionados con las zonas metropolitanas;
 
-d. Solicitar a las instancias del Ejecutivo del Estado, la fundación de centros de población, declaratorias sobre provisiones, reservas, usos y destinos de áreas, dentro del ámbito de su competencia;
+d. Solicitar a las instancias del Ejecutivo del Estado, la fundación de centros de población, declaratorias sobre provisiones, reservas, usos y destinos de áreas, dentro del ámbito de su competencia, y
 
-e. Revisar y adecuar el marco jurídico en materia de vivienda;
-
-f. Proponer e impulsar las reformas legislativas que incrementen las posibilidades de acceso a una vivienda digna;
-
-g. Impulsar el desarrollo habitacional sustentable, y;
-
-h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 XX. Instructora; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Substanciar los procedimientos de juicio político en términos de lo dispuesto en los artículos 116 y 117 de la Constitución Local y la normatividad aplicable;
 
-b. Practicar las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, así como precisar la intervención que haya tenido el servidor público denunciado, esto conforme a la ley de la materia, y;
+b. Practicar las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, así como precisar la intervención que haya tenido el servidor público denunciado, esto conforme a la ley de la materia, y
 
 c. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXI. lnterculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-XXI. Medio Ambiente, Biodiversidad, Energías, Sostenibilidad y Cambio Climático, le corresponde el dictamen y conocimiento de los siguientes asuntos:
+a. Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas y afromexicanas;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+b. Impulsar mecanismos jurídicos de desarrollo de los pueblos y comunidades indígenas y afromexicanas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e identidad, así como la interculturalidad;
+
+c. Fortalecer el marco jurídico que garantice la participación de los Pueblos y Comunidades Indígenas en la sociedad;
+
+d. Coadyuvar, dentro del ámbito de su competencia, en la realización de las Consultas Indígenas, en coordinación con las instancias de gobierno correspondientes, y
+
+e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+XXII. Medio Ambiente, Biodiversidad, Energías, Sostenibilidad y Cambio Climático; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Adecuar el marco jurídico para la preservación del medio ambiente, de la biodiversidad y de los recursos naturales;
 
 b. Promocionar el aprovechamiento racional y sostenible de los recursos;
 
-c. Modificar la legislación de la materia para fomentar la participación ciudadana para la solución de los problemas ambientales;
+c. Reformar la legislación de la materia para fomentar la participación ciudadana para la solución de los problemas ambientales;
 
 d. Promover ante las autoridades competentes la implementación de políticas públicas en la preservación del medio ambiente y el manejo sustentable de los recursos naturales;
 
@@ -947,81 +871,113 @@ e. Promover y fomentar la preservación de los recursos naturales y procurar las
 
 f. Fomentar la educación, investigación, desarrollo y transferencia de tecnología e innovación y difusión para disminuir el cambio climático en el Estado;
 
-g. Dictaminar en todo lo relativo al aprovechamiento y promoción de las fuentes de energía hidroeléctrica, hidráulica, eólica, solar y otras alternativas que puedan desarrollarse en el futuro y al régimen de su organización, producción y abastecimiento, y todo otro asunto referente al ramo de energía, dentro del ámbito de competencia estatal, y;
+g. Todo lo relativo al aprovechamiento y promoción de las fuentes de energía hidroeléctrica, hidráulica, eólica, solar y otras alternativas que puedan desarrollarse en el futuro y al régimen de su organización, producción y abastecimiento, y todo asunto referente al ramo de energía, dentro del ámbito de competencia estatal, y
 
 h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXIII. Migración y Asuntos Internacionales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-XXII. Movilidad y Transportes; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+a. Lo relativo a leyes o reformas tendientes a la creación de instituciones o programas de desarrollo económico y social en materia de migración;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+b. Lo relativo a los asuntos de la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país;
+
+c. Coadyuvar en la tutela de los derechos de todos los migrantes establecidos en la Constitución Federal, Constitución Local, convenios internacionales y demás leyes relativas, y
+
+d. Las demás que le confiera este Reglamento, las leyes aplicables, los Acuerdos Parlamentarios y las que corresponden a su denominación.
+
+XXIV. Movilidad y Transportes; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Impulsar un marco jurídico que regule el transporte, movilidad y tránsito en la Entidad, con la finalidad de establecer los mecanismos necesarios para el eficaz desarrollo en la materia;
 
-b. Proponer a las Dependencias y Organismos el establecimiento de vínculos de intercambio de información, análisis de sistema y servicios de transporte eficiente, competitivo y seguro, y;
+b. Proponer a las Dependencias y Organismos el establecimiento de vínculos de intercambio de información, análisis de sistema y servicios de transporte eficiente, competitivo y seguro, y
 
 c. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXIII. Presupuesto y Programación; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXV. Mujeres e Igualdad de Género; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+a. Lo relativo a iniciativas y reformas a las Leyes del Estado en los que se traten temas relativos a las mujeres;
+
+b. Las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas;
+
+c. Fomentará acciones para la igualdad, no discriminación y el empoderamiento, que asegurare el pleno desarrollo y adelanto de las mujeres;
+
+d. Incorporar al interior del Poder Legislativo políticas y acciones con perspectiva de género, de modo que se establezca en todas ellas el objetivo general de erradicar las desigualdades y promover la igualdad de mujeres y hombres;
+
+e. Los que se relacionen con la discriminación o maltrato por razones de sexo, preferencias sexuales, identidad de género, raza, edad, salud, credo político o religioso, situación socioeconómica, así como los referentes al reconocimiento de la dignidad, las condiciones equitativas y la igualdad de oportunidades para el desarrollo de las personas;
+
+f. Conocer el procedimiento del reconocimiento público "María Cristina Salmorán", el cual será entregado a mujeres u organizaciones de la sociedad civil oaxaqueña que hayan destacado en el ámbito municipal y estatal, por sus actividades en defensa de los derechos de las mujeres, la igualdad sustantiva entre hombres y mujeres y la erradicación de toda forma de violencia contra éstas, la cual tendrá verificativo en el marco del Día Internacional de la Mujer, y
+
+g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+XXVI. Niñez, Adolescencia y Juventudes; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+a. Las leyes y reformas en materia de niñez, adolescencia y juventudes y la protección de sus derechos;
+
+b. Solicitar al Ejecutivo del Estado la implementación de políticas públicas que les beneficien a la niñez, adolescencia y juventudes;
+
+c. Vincular a este sector con las autoridades para lograr la plena inclusión e integración, en un marco de igualdad de oportunidades, en todos los ámbitos de la vida;
+
+d. Emitir cada año, en el marco del Día de las Juventudes Oaxaqueñas y de la entrega del Premio Estatal de la Juventud, en coordinación con la Comisión Permanente de Democracia y Participación Ciudadana, la Convocatoria para la celebración del Congreso de las Juventudes, el cual se realizará en el Recinto Legislativo.
+
+e. Las iniciativas de ley y puntos de acuerdo presentados por los diputados juveniles con motivo del Congreso de las Juventudes, se remitirán por oficios signado (sic) por el presidente de esta comisión a la Secretaría de Servicios Parlamentarios, para que la presidencia de la Mesa Directiva mediante sesión de pleno de la legislatura del Congreso, las turne a las Comisiones correspondientes, para su estudio y dictaminación o para el trámite correspondiente, y
+
+f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+XXVII. Presupuesto y Programación; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Los referentes a la aprobación, ampliación o reformas al Presupuesto de Egresos del Estado;
 
 b. Revisar y estudiar el proyecto de Plan Estatal de Desarrollo;
 
-c. Lo relativo a la autorización respecto de la ejecución de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, así como las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de dichos proyectos en el presupuesto de egresos del estado, durante la duración de los contratos correspondientes, y;
+c. Lo relativo a la autorización respecto de la ejecución de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, así como las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de dichos proyectos en el presupuesto de egresos del estado, durante la duración de los contratos correspondientes, y
 
 d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXIV. Protección Civil; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXVIII. Régimen, Reglamentos y Prácticas Parlamentarias; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. Revisar y actualizar el marco jurídico relativo a la materia, a fin de llevar a cabo la implementación de los mecanismos necesarios para la protección y prevención de la población ante la eventualidad de un riesgo, emergencia o desastre;
-
-b. Implementar acciones de prevención y atención de contingencias naturales al interior del Congreso del Estado;
-
-c. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-XXV. Régimen, Reglamentos y Prácticas Parlamentarias; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a. Conocerá, estudiará, analizará y dictaminará las iniciativas de leyes y decretos, respecto a la normatividad interna del Congreso del Estado de Oaxaca, y;
+a. Las iniciativas de leyes y decretos, respecto a la normatividad interna del Congreso del Estado de Oaxaca, y
 
 b. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXVI. Salud; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXIX. Salud; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Desarrollar acciones que contribuyan a fortalecer el derecho a la salud como una necesidad básica, mediante la revisión y actualización del marco jurídico aplicable en la materia;
 
-b. Estudiar los asuntos relacionados con el fortalecimiento de los vínculos entre los tres niveles de gobierno para consolidar y eficiente la atención en los sistemas de salud;
+b. Los asuntos relacionados con el fortalecimiento de los vínculos entre los tres niveles de gobierno para consolidar y eficiente la atención en los sistemas de salud;
 
-c. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia de salud;
+c. Los que se refieran a las iniciativas de ley o reformas, relacionadas con legislación en materia de salud;
 
 d. Los relacionados con los casos que afecten o pudieran afectar la salud de la población;
 
 e. Los relacionados con el autocuidado de la salud y fomento de la cultura de la prevención de las enfermedades;
 
-f. Realizar la designación de los integrantes del Consejo General de la Comisión Estatal de Arbitraje Médico en términos de la legislación aplicable, y;
+f. Realizar la designación de los integrantes del Consejo General de la Comisión Estatal de Arbitraje Médico de Oaxaca en términos de la legislación aplicable, y
 
 g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXVII. Seguridad y Protección Ciudadana; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXX. Seguridad Pública y Protección Civil; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia de seguridad pública del Estado; la prevención social de la violencia y la delincuencia, así como el funcionamiento de los cuerpos de seguridad pública y privada;
 
 b. Coadyuvar al desarrollo de las políticas públicas estatales en materia de seguridad pública, prevención del delito y reinserción social;
 
-c. Colaborar con el Sistema Estatal de Seguridad Pública, en el ámbito de su competencia, y conforme a las leyes de la materia, y;
+c. Colaborar con el Sistema Estatal de Seguridad Pública, en el ámbito de su competencia, y conforme a las leyes de la materia;
 
-d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+d. Revisar y actualizar el marco jurídico relativo a la materia, a fin de llevar a cabo la implementación de los mecanismos necesarios para la protección y prevención de la población ante la eventualidad de un riesgo, emergencia o desastre;
 
-XXVIII. Trabajo y Seguridad Social; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+e. Implementar acciones de prevención y atención de contingencias naturales al interior del Congreso del Estado, y
+
+f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+
+XXXI. Trabajo y Seguridad Social; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Actualizar el marco normativo en materia laboral, de previsión y seguridad social, de las que sean competencia del Estado;
 
-b. Coadyuvar con las instancias correspondientes en la generación de empleos, y;
+b. Coadyuvar con las instancias correspondientes en la generación de empleos, y
 
 c. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXIX. Transparencia, Acceso a la Información y Congreso Abierto; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXXII. Transparencia, Acceso a la Información y Congreso Abierto; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Actualizar el marco normativo en materia de transparencia, acceso a la información pública y datos personales de las que sean competencia del Estado;
 
@@ -1033,51 +989,37 @@ d. Promover y vigilar la protección de datos personales en posesión del Poder 
 
 e. Proponer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial del Poder Legislativo;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-f. Lo relativo a la designación de los Comisionados del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
+f. Lo relativo a la designación de los Comisionados del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, y
 
 g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXX. Turismo; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXXIII. Turismo; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Actualizar, analizar y adecuar la legislación que tienda a la proyección y crecimiento de las actividades turísticas;
 
 b. Solicitar la celebración de convenios que celebre el Gobierno del Estado con la Federación, Entidades Federativas y Municipios para el desarrollo turístico;
 
-c. Fomentar la regulación turística y el fortalecimiento de la estructura de las instancias encargadas, y;
+c. Fomentar la regulación turística y el fortalecimiento de la estructura de las instancias encargadas, y
 
 d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
-
-XXXI. Vigilancia de la Auditoria Superior de Fiscalización del Estado;
+XXXIV. Vigilancia de la Auditoría Superior de Fiscalización del Estado; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 b. Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior de Fiscalización del Estado;
 
 c. Dictaminar las respectivas Cuentas Públicas;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
 d. Evaluar que la Auditoría Superior de Fiscalización del Estado, cumpla eficazmente con las funciones que le competen;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+e. Emitir la convocatoria, desahogar el procedimiento y presentar al Pleno del Congreso, el dictamen relativo a la terna de la persona Titular de la Auditoría Superior de Fiscalización del Estado, que se integrará con las propuestas recibidas;
 
-e. Emitir la convocatoria, desahogar el procedimiento y presentar al Pleno del Congreso, el dictamen relativo a la titularidad de la Auditoria Superior de Fiscalización del Estado, que se integrará con las propuestas recibidas;
+f. Dictaminar acerca de la solicitud de licencia, renuncia o remoción de la titularidad de la Auditoría Superior de Fiscalización del Estado, que se integrará con las propuestas recibidas, y
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-f. Dictaminar acerca de la solicitud de licencia, renuncia o remoción de la titularidad de la Auditoria Superior de Fiscalización del Estado, que se integrará con las propuestas recibidas;
-
-g. Proponer a la Junta de Coordinación Política del Congreso del Estado la contratación del personal de la Unidad Técnica, que auxiliará a la Comisión en el Desempeño de sus funciones, y;
-
-h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XXXV. Vigilancia del Sistema Estatal de Combate a la Corrupción; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Adecuar el marco jurídico local en la materia;
 
@@ -1091,85 +1033,29 @@ e. Promover la vinculación entre las autoridades y la sociedad, con el fin de l
 
 f. Realizar la designación del Fiscal Especializado en Combate a la Corrupción, en términos de lo dispuesto en la Constitución Local;
 
-g. Lo relativo a la designación del Comité de Selección del Sistema Estatal de Combate a la Corrupción, en términos de la Ley aplicable, y;
+g. Lo relativo a la designación del Comité de Selección del Sistema Estatal de Combate a la Corrupción, en términos de la Ley aplicable;
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+h. Solicitar la comparecencia, ante el Pleno del Congreso o la propia Comisión, de las Dependencias integrantes del Comité Coordinador del Sistema Estatal de Combate a la Corrupción, para que proporcionen información, documentación o informes específicos sobre las acciones realizadas y los resultados alcanzados en la prevención y combate a la corrupción;
 
-h. Tener bajo su adscripción al Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción; designar a su personal directivo y operativo; así como aprobar los Lineamientos Operativos, la estructura interna y el Manual de Procedimientos, para su adecuado funcionamiento;
+i. Sustanciar el procedimiento de designación del titular del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal de Combate a la Corrupción, en términos de lo dispuesto en la Ley respectiva;
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+j. Generar e impulsar estrategias para que los Municipios del Estado participen activamente en la prevención y combate a la corrupción, y
 
-i. Solicitar la comparecencia, ante el Pleno del Congreso o la propia Comisión, de las Dependencias integrantes del Comité Coordinador del Sistema Estatal de Combate a la Corrupción, para que proporcionen información, documentación o informes específicos sobre las acciones realizadas y los resultados alcanzados en la prevención y combate a la corrupción;
+k. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+XXXVI. Vigilancia y Seguimiento del Sistema Estatal de Planeación; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-j. Sustanciar el procedimiento de designación del titular del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal de Combate a la Corrupción, en términos de lo dispuesto en la Ley respectiva;
+a. Revisar y proponer leyes y reformas del Sistema Estatal de Planeación;
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+b. Generar mecanismos para la participación de los distintos sectores sociales en el análisis del Sistema Estatal de Planeación;
 
-k. Generar e impulsar estrategias para que los Municipios del Estado participen activamente en la prevención y combate a la corrupción;
+c. Solicitar informes, para dar seguimiento a la ejecución del Sistema Estatal de Planeación, así como para poder evaluar su cumplimiento;
 
-l. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+d. Dar seguimiento a la ejecución del Sistema Estatal de Planeación, para que el Congreso del Estado cuente con información suficiente para emitir sus valoraciones en materias de aprobación de: las cuentas públicas, paquetes fiscales anuales, contratación de deuda pública, empréstitos y todo lo relacionado con el manejo y ejecución presupuestal;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE DICIEMBRE DE 2022)</small>
+e. Solicitar información sobre los ingresos ordinarios, extraordinarios y todos aquellos de manejo presupuestado y libre disposición; así como de ejercicio discrecional, de los Poderes Ejecutivo y Judicial, Municipios u Órganos Autónomos, para medir su impacto en el Sistema Estatal de Planeación, y
 
-XXXIII. Corredor Interoceánico del Istmo de Tehuantepec y Programas de Desarrollo Regional; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
-
-a. Conocerá de los planes y programas que tengan como fin impulsar el crecimiento económico regional y local de los diversos programas y modelos en la materia.
-
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
-
-b. Las demás que les confiera este Reglamento, las leyes aplicables o los acuerdos Parlamentarios y las que correspondan a su denominación.
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
-
-XXXIV. Migración y Asuntos Internacionales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a. Lo relativo a reformas de leyes tendientes a la creación de instituciones o programas de desarrollo económico y social en materia de migración;
-
-b. Vigilar y dictaminar los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país;
-
-c. Coadyuvar en la tutela de los derechos de todos los migrantes establecidos en la Constitución, convenios internacionales y demás leyes relativas;
-
-d. Las demás que le confiera este Reglamento, las leyes aplicables, los Acuerdos Parlamentarios y las que correspondan a su denominación.
-
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
-
-XXXV. Vigilancia y Seguimiento del Sistema Estatal de Planeación le corresponde el dictamen y conocimiento de los siguientes asuntos:
-
-a) Revisar y propone (sic) modificaciones al marco jurídico del Sistema Estatal de Planeación.
-
-b) Generar mecanismos para la participación de los distintos sectores sociales en el análisis del Sistema de Planeación.
-
-c) Solicitar informes, para dar seguimiento a la ejecución del Sistema Estatal de Planeación, así como para poder evaluar su cumplimiento.
-
-d) Dar seguimiento a la ejecución del Sistema Estatal de Planeación, para que el Congreso del Estado cuente con información suficiente para emitir sus valoraciones en materias de aprobación de: las cuentas públicas, paquetes fiscales anuales, contratación de deuda pública, empréstitos y todo lo relacionado con el manejo y ejecución presupuestal.
-
-e) Solicitar información sobre los ingresos ordinarios, extraordinarios y todos aquellos de manejo presupuestado y libre disposición; así como de ejercicio discrecional, de los Poderes Ejecutivo y Judicial, Municipios u Órganos Autónomos, para medir su impacto en el Sistema Estatal de Planeación.
-
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
-
-XXXVI. Vigilancia de la Deuda Pública del Estado; le corresponde el conocimiento, estudio y dictaminación de los siguientes asuntos:
-
-a. Lo referente al marco jurídico local en la materia.
-
-b. Establecer los canales de comunicación con el Ejecutivo del Estado, para obtener información sobre la aplicación del recurso autorizado para el financiamiento y refinanciamiento de la Deuda Pública del Estado.
-
-c. Analizar y recomendar a los Poderes del Estado, Órganos Autónomos y entes públicos, las oportunidades de mejora en materia de gasto público, recursos de financiamiento, así como en los programas y proyectos relacionados con la ejecución de recursos derivados de la deuda pública.
-
-d. Conocer, analizar, evaluar e informar de manera periódica el ejercicio de los recursos derivados de la contratación de deuda pública, así como de los recursos de financiamiento, a fin de sugerir las oportunidades de mejora y garantizar la sustentabilidad de las finanzas públicas a corto, mediano y largo plazo.
-
-e. Observar y verificar que el destino del recurso autorizado atienda a los rubros de inversión pública productiva solicitados y que las afectaciones atiendan a las fuentes de pago autorizadas.
-
-f. Definir los parámetros que permitan evaluar la situación financiera del Estado relacionada con la deuda pública.
-
-g. Atestiguar la celebración de los financiamientos y/o de instrumentos derivados, operaciones de cobertura, la constitución y/o modificación de fideicomisos que realice el Ejecutivo del Estado en relación a los financiamientos aprobados por el Congreso.
-
-h. Promover y verificar que la ejecución de obra pública e infraestructura social se considere con preferencia a las empresas locales.
-
-i. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+f. Las demás que le confiera este Reglamento, las leyes aplicables, los Acuerdos Parlamentarios y las que corresponden a su denominación.
 
 ###### ARTÍCULO 43.
 
@@ -1779,7 +1665,9 @@ La Conferencia Parlamentaria integrará el proyecto del orden del día de las se
 
 Los diputados podrán solicitar a la Presidencia de la Mesa Directiva por sí o por medio de sus coordinadores, la inclusión de asuntos en el orden del día, debiendo reunir los siguientes requisitos:
 
-I. Presentar solicitud por escrito, a más tardar a las 13:00 horas del día anterior a la Sesión;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2024)</small>
+
+I. Presentar solicitud por escrito, a más tardar a las 16:00 horas del día viernes;
 
 II. Se acompañará dicha solicitud con el correspondiente archivo electrónico y una versión impresa firmada por el o los promoventes, y;
 
@@ -3238,3 +3126,13 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, con fu
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 3.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 42 Y LA FRACCIÓN I DEL ARTÍCULO 100 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto por el artículo 7 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
