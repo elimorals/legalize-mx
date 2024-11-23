@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2024-04-17"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -3315,19 +3315,31 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 
 Los Poderes Legislativo, incluida la Auditoría Superior del Estado, Judicial y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2024)</small>
 
-Art. 165 bis.- Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Art. 165 bis.- Todo el personal del servicio público del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirá una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. A igual trabajo, desempeñado en puesto, jornada y condiciones también iguales, corresponde, con independencia de su denominación, igual salario, sin distinción de género.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2013)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
+
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
 
 II. Ningún servidor público podrá recibir remuneración igual o superior al monto máximo autorizado en el presupuesto estatal para la remuneración del Gobernador del Estado; y la remuneración de éste, a su vez no será igual o superior que la del Presidente de la República.
 
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
+
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
 
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
+
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2013)</small>
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -5610,5 +5622,17 @@ La reforma al artículo 103, a que se refiere el presente Decreto, será aplicab
 El Consejo de la Judicatura contará con 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir los reglamentos, lineamientos y demás instrumentos necesarios para regular su funcionamiento interno para efectos de las reformas a las fracciones del artículo 112 de la Constitución Política del Estado de Chihuahua.
 
 ###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFCYL/0887/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
