@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-75180"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2024-08-24"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 29 de mayo de 2010.
 
@@ -333,9 +333,19 @@ Será objetivo de la Política Estatal, el fortalecimiento de la igualdad en mat
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica; e
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica.
 
 III. Impulsar liderazgos igualitarios.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+IV. Erradicación de la brecha salarial de género.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+V. Fomento de acciones que coadyuven a la integración laboral y económica plena de las mujeres.
 
 ###### Artículo 28.
 
@@ -471,13 +481,95 @@ II. Desarrollar actividades de concientización sobre la importancia de la igual
 
 III. Vigilar la integración de la perspectiva de género en la política pública del Estado.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO BIS. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ÁMBITO EDUCATIVO
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 36 bis.- Serán objetivos de la política de igualdad en el ámbito educativo:
+
+I. Integrar el principio de igualdad entre mujeres y hombres en los programas y políticas educativas, eliminando los estereotipos que produzcan desigualdad.
+
+II. Incluir la preparación inicial y permanente del profesorado en cursos sobre la aplicación del principio de igualdad.
+
+III. Desarrollar proyectos y programas dirigidos a fomentar el conocimiento, difusión y respeto del principio de igualdad.
+
+IV. Impartir cursos de formación docente, para educar en el principio de igualdad.
+
+V. Establecer medidas y materiales educativos destinados al reconocimiento y ejercicio de la igualdad y a la prevención de la violencia de género.
+
+VI. Fomentar, en el ámbito de la educación superior, la enseñanza y la investigación sobre el significado y alcance de la igualdad entre mujeres y hombres.
+
+VII. Fomentar una educación y capacitación para el trabajo sustentadas en el principio de igualdad.
+
+VIII. Incentivar la investigación en todo lo concerniente a la igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO TER. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 36 ter.- Serán objetivos de la política de igualdad en materia de acceso a la justicia y seguridad pública:
+
+I. Diseñar los lineamientos para la accesibilidad a la justicia en igualdad de oportunidades.
+
+II. Otorgar asistencia jurídica a quienes presenten desigualdad, por motivos de género o discriminación.
+
+III. Impulsar el conocimiento y la aplicación de la legislación en materia de igualdad y violencia de género.
+
+IV. Eliminar cualquier trato discriminatorio en los sistemas de procuración y administración de justicia.
+
+V. Otorgar seguridad pública en condiciones de igualdad a las mujeres y los hombres.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 36 quáter.- Para los efectos de lo previsto en el artículo anterior, la Fiscalía General del Estado, la Secretaría de Seguridad Pública, el Tribunal Superior de Justicia del Estado y demás autoridades competentes, desarrollarán las siguientes acciones:
+
+I. Impulsar la capacitación y sensibilización de las personas servidoras públicas encargadas de la procuración de justicia en materia de igualdad entre mujeres y hombres.
+
+II. Formar y capacitar en materia de derechos humanos e igualdad de género a las personas servidoras públicas de los sistemas de procuración de justicia en el Estado.
+
+III. Brindar la seguridad pública considerando las necesidades específicas y factores de riesgo de las mujeres y de los hombres.
+
+IV. Implementar sistemas de información con indicadores desagregados por sexo para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia política de igualdad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO QUÁTER. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ÁMBITO COMUNITARIO Y FAMILIAR
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 36 quinquies.- Serán objetivos de la política de igualdad en materia comunitaria y familiar:
+
+I. Privilegiar la difusión de los derechos humanos de las mujeres y hombres en la comunidad.
+
+II. Fomentar la igualdad, libertad y diversidad de opiniones al interior de las familias.
+
+III. Proteger e impartir justicia a quienes viven algún tipo de violencia en la comunidad o en la familia, en especial la violencia de género en contra de las niñas, las adolescentes y las mujeres.
+
+IV. Implementar acciones para la eliminación de prácticas consuetudinarias discriminatorias, tradiciones, prejuicios y estereotipos sexistas y de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos.
+
+V. Contribuir a la sensibilización en torno a la difusión en los medios de comunicación de una imagen igualitaria y no estereotipada de mujeres y hombres en la sociedad, así como contribuir al conocimiento y la difusión del principio de igualdad entre mujeres y hombres y la no utilización sexista del lenguaje.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+Artículo 36 sexies.- Para los efectos de lo previsto en el artículo anterior, la administración pública estatal y municipal, así como el Desarrollo Integral de la Familia del Estado de Chihuahua, desarrollarán las siguientes acciones:
+
+I. Promover la eliminación de los modelos de sumisión y subordinación entre la mujer y el hombre al interior de la familia.
+
+II. Apoyar las actividades de participación ciudadana respecto a la mejora en materia de legislación sobre la igualdad entre mujeres y hombres.
+
+III. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia.
+
+IV. Efectuar campañas sobre respeto y equidad en la comunidad y en la familia.
+
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ### CAPÍTULO PRIMERO. DE LA VIGILANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
-
-### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 37.
 
@@ -494,6 +586,8 @@ El Ejecutivo del Estado, por conducto del Instituto Chihuahuense de las Mujeres,
 Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo del Estado y sus dependencias con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
 
 ## TÍTULO V
+
+### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 40.
 
@@ -574,6 +668,26 @@ Háganse por parte de la Directora General del "Instituto Chihuahuense de las Mu
 P.O. 24 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0890/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXVII/RFCYL/0887/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0905/2024 XIV P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
