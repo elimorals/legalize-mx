@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2024-09-04"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -585,7 +585,9 @@ Del mismo modo, expedir los nombramientos de las personas servidoras públicas d
 
 XXXV. Establecer y mantener actualizadas las categorías de puestos, el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas; de igual manera, establecer las categorías de puestos y tabuladores equivalentes en las entidades de la administración pública paraestatal;
 
-XXXVI. Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Gobierno del Estado, atendiendo en su caso las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+XXXVI. Revisar las solicitudes de incremento salarial y de prestaciones del personal del servicio público del Gobierno del Estado, observando el principio de igualdad salarial y atendiendo en su caso las negociaciones con las organizaciones sindicales; así como suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -1171,8 +1173,6 @@ IX.- Promover y apoyar el desarrollo de empresas industrializadoras de productos
 
 X.- Las demás que le fijen expresamente las leyes y sus reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 33.
@@ -1221,9 +1221,17 @@ XX. Evaluar permanentemente las tendencias y evolución del mercado de trabajo e
 
 XXI. Proponer y aplicar el desarrollo de sistemas de procesamiento electrónico de datos que coadyuven en la divulgación de información y a la toma de decisiones en materia laboral;
 
-XXII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2024)</small>
 
-XXIII. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
+XXII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Diseñar e implementar programas y acciones tendientes a promover, difundir y fomentar la igualdad laboral y no discriminación en los centros de trabajo de los sectores público, privado y social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2024)</small>
+
+XXIV. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -3796,3 +3804,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFCYL/0887/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
