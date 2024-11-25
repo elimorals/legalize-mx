@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2024-04-01"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -206,6 +206,10 @@ XXX. Las demás que establezcan otras leyes y las disposiciones aplicables.
 La Comisión no será competente tratándose de asuntos electorales o jurisdiccionales, ni sobre consultas formuladas sobre la interpretación de las disposiciones constitucionales y legales.
 
 En los términos de esta Ley, la Comisión será competente para conocer quejas o inconformidades contra actos u omisiones de autoridades judiciales estatales que presuntamente hayan violado Derechos Humanos, solamente cuando dichos actos u omisiones tengan carácter administrativo o laboral. La Comisión no podrá examinar cuestiones jurisdiccionales de fondo.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+De igual forma, en términos del artículo 7° de la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes la Comisión será competente para integrar y resolver los expedientes de queja o denuncias en materia de discriminación, proporcionando además la asesoría y medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagradas en la Constitución Federal.
 
 ## TÍTULO SEGUNDO. INTEGRACIÓN DE LA COMISIÓN
 
@@ -1354,6 +1358,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 1 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 619.- SE REFORMAN LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
