@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2024-05-27"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -545,7 +545,9 @@ La normatividad reglamentaria que al efecto expida el titular del Ejecutivo del 
 
 Son autoridades competentes para la aplicación de esta Ley:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+I. La persona titular del poder ejecutivo;
 
 II. El Consejo;
 
@@ -583,9 +585,11 @@ XVI. Los Inspectores Agrícolas que designe la Secretaría; y
 
 XVII. Los Ayuntamientos.
 
-###### Artículo 8°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-El Gobernador del Estado tendrá las siguientes facultades en materia agrícola:
+###### Artículo 8º.
+
+La persona titular del poder ejecutivo tendrá las siguientes facultades en materia agrícola:
 
 I. Fomentar el desarrollo agrícola en el Estado;
 
@@ -2214,3 +2218,11 @@ P.O. 27 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los noventa días siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 19.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
