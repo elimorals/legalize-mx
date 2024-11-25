@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2023-11-06"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -125,9 +125,9 @@ XIV.- Criterios Generales de Política Económica: El documento enviado por el E
 
 XV.- Cuenta Pública: El documento a que se refiere el Artículo 27, Fracción V de la Constitución Política del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-XVI.- Dependencias del Ejecutivo: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, incluyendo sus órganos desconcentrados; mismas que son objeto de control presupuestario directo por parte de la Secretaría;
+XVI.- Dependencias del Ejecutivo: Las definidas como tales en la Ley Orgánica de la Administración Pública Estatal, incluyendo sus órganos desconcentrados; mismas que son objeto de control presupuestario directo por parte de la Secretaría.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -165,9 +165,9 @@ XXIV.- Ejecutores de Gasto del Estado: Los Poderes Ejecutivo, Legislativo y Judi
 
 XXV.- Ejecutores de Gasto del Municipio: Las Dependencias y Entidades que forman parte de la Administración Pública Municipal, conforme a lo establecido por la Ley Municipal para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-XXVI.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo las universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 5° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, mismas que son objeto de control presupuestario indirecto por parte de la Secretaría;
+XXVI.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo las universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 5° de la Ley Orgánica de la Administración Pública Estatal, mismas que son objeto de control presupuestario indirecto por parte de la Secretaria;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -383,9 +383,9 @@ LXXVI.- Techo de Financiamiento Neto: El límite de Financiamiento Neto anual qu
 
 LXXVII.- Tesorerías: Las Secretarías de Finanzas en el ámbito Municipal a que se refiere la Ley Municipal para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-LXXVIII.- Titular del Ejecutivo: El Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes;
+LXVIII (SIC).- Titular del Ejecutivo: la persona Titular del Poder Ejecutivo del Estado Libre y Soberano de Aguascalientes.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1501,11 +1501,11 @@ El conjunto de la documentación contable consistente en libros de contabilidad,
 
 Las Dependencias y Entidades del Ejecutivo y de los Municipios en su caso, publicarán en Internet, en los términos de la legislación aplicable la información de los Programas Presupuestarios aprobados en sus presupuestos de egresos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 69.
 
-El IPLANEA y las COMUPLA publicarán en internet, en los términos de la legislación aplicable en materia de trasparencia, la información que se derive de los resultados de la aplicación de los indicadores del desempeño. Iguales obligaciones tendrán el Congreso y el Poder Judicial, así como los Órganos Autónomos en el ámbito de su competencia.
+La SEPLADE y la COMUPLA publicarán en sus páginas oficiales de Internet, en los términos de la legislación aplicable en materia de transparencia, la información que se derive de los resultados de la aplicación de los indicadores del desempeño. Iguales obligaciones tendrán el Congreso y el Poder Judicial, así como los Órganos Autónomos en el ámbito de su competencia.
 
 ###### Artículo 70.
 
@@ -1872,3 +1872,11 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 15.- SE REFORMA LA LEY DE PRESUPUESTO, GASTO PUBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día iniciará su vigencia (sic) al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
