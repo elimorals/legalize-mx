@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2021-12-29"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -95,7 +95,9 @@ ARTICULO 3o BIS.- Para los efectos de este Código se entenderá por:
 
 I.- Secretaría de Finanzas: Secretaría de Finanzas del Estado de Aguascalientes.
 
-II.- Sala Administrativa: Sala Administrativa del Poder Judicial del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+II.- Tribunal: Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 III.- Código: Código Fiscal del Estado de Aguascalientes.
 
@@ -603,7 +605,9 @@ Las formas oficiales aprobadas que se mencionan en este Código estarán disponi
 
 La presentación de informes, avisos, declaraciones y demás obligaciones de carácter formal a que este Código se refiere, podrán ser cumplidas por el contribuyente o sujeto obligado a ello, a través de medios electrónicos o magnéticos que se establezcan en las reglas de carácter general que al efecto emita la Secretaría de Finanzas.
 
-La falta de publicación en la página electrónica de la Secretaría de Finanzas de las formas oficiales a que se refiere este artículo, no podrá ser causa de revocación o nulidad, cuando el contribuyente las impugne en recurso administrativo o ante la Sala Administrativa.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+La falta de publicación en la página electrónica de la Secretaría de Finanzas de las formas oficiales a que se refiere este artículo, no podrá ser causa de revocación o nulidad, cuando el contribuyente las impugne en recurso administrativo o ante el Tribunal.
 
 ### CAPITULO IV. De la Extinción
 
@@ -1031,11 +1035,11 @@ La vigencia y exigibilidad en cantidad líquida del derecho de crédito cuya pre
 
 Los créditos derivados por impuestos a la propiedad raíz, sobre los bienes raíces embargados, serán preferentes a cualesquiera otros créditos, incluso los fiscales federales, cuando se trate de aplicación de frutos de los mismos bienes o del producto de su venta.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTICULO 62.
+###### Artículo 62.
 
-Las controversias que surjan entre el fisco del Estado y las haciendas municipales sobre preferencia en el cobro de los créditos fiscales a que este Código se refiere, se decidirán por la Sala Administrativa, tomando en cuenta las garantías constituidas; según las cuales, excepción hecha de los créditos por impuestos sobre la propiedad raíz, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
+Las controversias que surjan entre el fisco del Estado y las haciendas municipales sobre preferencia en el cobro de los créditos fiscales a que este Código se refiere, se decidirán por el Tribunal, tomando en cuenta las garantías constituidas; según las cuales, excepción hecha de los créditos por impuestos sobre la propiedad raíz, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -3707,11 +3711,11 @@ La Secretaría de Finanzas o la autoridad competente pedirán a la autoridad eje
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 225.
 
-El conocimiento, trámite y resolución del procedimiento contencioso, corresponde a la Sala Administrativa, en términos de la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+El conocimiento, trámite y resolución del procedimiento contencioso, corresponde al Tribunal, en términos de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Aguascalientes y la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes
 
 ###### ARTICULO 226.
 
@@ -4176,3 +4180,11 @@ Los procedimientos y trámites, que se hubieren iniciado previo a la entrada en 
 ###### ARTÍCULO TERCERO.
 
 Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican en este Decreto, deberán cumplirse en los términos establecidos en la normatividad vigente al momento en que se generaron.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 16.- SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día iniciará su vigencia (sic) al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
