@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2024-08-12"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -367,9 +367,9 @@ El procedimiento que seguirá el Congreso del Estado se apegará a lo dispuesto 
 
 Los Ayuntamientos tienen como función general el gobierno del Municipio y como atribuciones y facultades las siguientes:
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-I. Aprobar y expedir reglamentos, bandos, códigos y demás disposiciones administrativas de carácter general, necesarias para su funcionamiento, el ejercicio de sus atribuciones, la organización y prestación de los servicios públicos, la salvaguarda de la moralidad, la salubridad, la tranquilidad y la seguridad de las personas y sus bienes, así como la participación ciudadana y vecinal;
+I. Aprobar y expedir reglamentos, bandos, códigos y demás disposiciones administrativas de carácter general, necesarias para su funcionamiento, el ejercicio de sus atribuciones, la organización y prestación de los servicios públicos, la salvaguarda del orden público, la salubridad, tranquilidad, y la seguridad de las personas y sus bienes, así como la participación ciudadana y vecinal;
 
 II. Señalar en sus reglamentos y bandos, las sanciones a que se sujetarán los infractores, cuidando que las mismas se ejecuten;
 
@@ -417,7 +417,9 @@ XVI. Vigilar el buen estado y promover el aumento de jardines y parques recreati
 
 XVII. Promover la apertura y mejoras de caminos vecinales y la construcción de puentes, avenidas y toda obra que se considere útil para el Municipio y sus habitantes;
 
-XVIII. Promover la exhibición de espectáculos sanos, educativos y vigilar el orden y la moralidad, reglamentando lo concerniente al buen orden que deba observarse en los teatros, cines, circos, plazas de toros, palenques, auditorios, estadios y demás lugares donde se exhiban espectáculos al público;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+XVIII. Promover la exhibición de espectáculos sanos, educativos y vigilar el orden público, reglamentando lo concerniente al buen orden que deba observarse en los teatros, cines, circos, plazas de toros, palenques, auditorios, estadios y demás lugares donde se exhiban espectáculos al público;
 
 XIX. Combatir el alcoholismo y prohibir la venta de bebidas embriagantes, sin excepción, en fábricas, estaciones de ferrocarril y autobuses, así como en cualquier centro escolar y de trabajo;
 
@@ -1747,13 +1749,17 @@ XVII. De Derechos Humanos cuya competencia será: conocer de los asuntos relacio
 
 XVIII. Cultura, cuya competencia será promover y salvaguardar el patrimonio cultural y los aspectos históricos de cada municipio, así como fomentar, promover, difundir y fortalecer el desarrollo cultural entre la ciudadanía. Además, brindar difusión, espacios y apoyo a las personas que realicen actividades artísticas y culturales de cada municipio, otorgándoles preferencia en los eventos que se realicen dentro del territorio de cada ente Municipal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
 XIX. Asuntos Legislativos; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-XX. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XX. Migración e inmigración, con competencia para conocer asuntos relacionados con dichas materias en el ámbito donde las leyes aplicables permitan la acción municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+XXI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 114.
 
@@ -2894,3 +2900,23 @@ Los Municipios de conformidad con su disponibilidad tecnológica y presupuestari
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 14.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios que, a la entrada en vigor del presente decreto, no cuenten con una comisión edilicia especializada en la atención de las cuestiones migratorias, deberán instalarla y realizar las adecuaciones pertinentes a su normatividad municipal, a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente reforma.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 24.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
