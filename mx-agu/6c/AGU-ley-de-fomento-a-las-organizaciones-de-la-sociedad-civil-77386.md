@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2023-05-08"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -89,25 +89,41 @@ XI. Secretaría Técnica: La Secretaría Técnica de la Comisión para el Fortal
 
 XII. Unidad de Enlace: La oficina dentro de la Secretaría de Bienestar y Desarrollo Social, encargada de llevar el registro único y la actualización del Padrón Estatal de las Organizaciones de la Sociedad Civil, así como de brindar asesoría y orientación en este respecto a las organizaciones civiles y poner a disposición de la Secretaría Técnica la información que se genere en sus registros.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 3°.
+###### ARTÍCULO 3º.
 
-Para efectos de esta ley se consideran actividades que efectúan las Organizaciones de la Sociedad Civil y serán objeto de fomento, las siguientes:
+Para efectos de esta ley se consideran actividades que efectúan las Organizaciones de la Sociedad Civil y serán objeto de fomento, de manera enunciativa más no limitativa, las siguientes:
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 I. Asistencia social;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 II. Acciones en beneficio de las condiciones sociales que incentiven integralmente el desarrollo humano;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 III. Promoción para la realización de obras y la prestación de servicios públicos para beneficio de la sociedad;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 IV. Colaboración y apoyo en las acciones de desarrollo social en favor de los grupos vulnerables y en desventaja social para la realización de sus objetivos, en términos de las leyes en la materia;
 
-V. Apoyo a la alimentación popular;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+V. Apoyo a la alimentación popular, nutritiva, suficiente y de calidad;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 VI. Cívicas, enfocadas a promover la participación ciudadana en asuntos de interés público;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 VII. Asistencia jurídica;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 VIII. Promoción de la equidad de género;
 
@@ -115,65 +131,57 @@ VIII. Promoción de la equidad de género;
 
 IX. Aportación de servicios para la atención a grupos sociales de personas con discapacidad;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 X. Acciones en favor de comunidades rurales y urbanas marginadas;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 XI. Cooperación para el desarrollo comunitario;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 XII. Apoyo en la defensa y promoción de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 XIII. Promoción del deporte;
 
-XIV. Promoción y aportación de servicios para la atención de la salud y cuestiones sanitarias;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Promoción y aportación de servicios para el acceso y la atención de la salud, apoyo psicológico, cuestiones sanitarias;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 XV. Apoyo para el aprovechamiento de los recursos naturales, protección del ambiente, la flora y la fauna, la preservación y restauración del equilibrio ecológico, y promoción del desarrollo sustentable de las zonas urbanas y rurales;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 XVI. Promoción y fomento educativo, cultural, artístico, científico y tecnológico;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 XVII. Acciones para mejorar la economía popular;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
+
 XVIII. Promoción y defensa de los derechos de los consumidores;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
 XIX. Participación en acciones de protección civil;
 
-XX. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-XXI. Las demás que determinen otras leyes y sean objeto de las organizaciones de la sociedad civil.
+XX. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;
 
-###### ARTÍCULO 3º.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-Para los efectos de esta Ley, se consideran actividades que efectúan las Organizaciones de la Sociedad Civil, las acciones que realicen en el Estado de Aguascalientes que tengan por objeto:
+XXI. Promoción e impulso al desarrollo y a la protección de las familias; y
 
-I. Fomentar el goce y ejercicio de los derechos humanos y difundir la cultura de los mismos;
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXI], P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-II. Favorecer las condiciones sociales que incentiven integralmente el desarrollo humano;
-
-III. Promover la realización de obras y la prestación de servicios públicos para beneficio de la sociedad;
-
-IV. Coadyuvar en las acciones de desarrollo social en favor de los grupos vulnerables y en desventaja social para la realización de sus objetivos, en términos de las leyes en la materia;
-
-V. Fomentar la asistencia social en los términos de las leyes en la materia;
-
-VI. Promover las conductas cívicas, enfocadas a impulsar la participación ciudadana en asuntos de interés público;
-
-VII. Asistencia jurídica basada en la adecuada asesoría legal de las personas de escasos recursos;
-
-VIII. Promover el respeto entre los diferentes sectores de la sociedad basados en la equidad de género;
-
-IX. Aportación de servicios y cuidados para lograr la adecuada atención a grupos sociales discapacitados;
-
-X. Promoción de la educación física basada en la cultura del deporte;
-
-XI. Promoción y aportación de servicios para la atención de la salud y cuestiones sanitarias;
-
-XII. Promoción y fomento educativo, cultural, artístico, científico y tecnológico;
-
-XIII. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta Ley;
-
-XIV. Promover la investigación científica y tecnológica, tanto para el área urbana como rural;
-
-XV. Promover ante las autoridades competentes el desarrollo de las bellas artes, las tradiciones populares y la restauración y mantenimiento de monumentos y sitios arqueológicos, artísticos e históricos, así como la preservación del patrimonio cultural del Estado, conforme a la legislación aplicable; o
-
-XVI. Las demás acciones que, basadas en los principios que dan origen a esta Ley, contribuyan al desarrollo y asistencia social.
+XXII. Las demás que determinen otras leyes y sean objeto de las organizaciones de la sociedad civil.
 
 ###### ARTÍCULO 4º.
 
@@ -1006,3 +1014,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 26.- SE REFORMA LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
