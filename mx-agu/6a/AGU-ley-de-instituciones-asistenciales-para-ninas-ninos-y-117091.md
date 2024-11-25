@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-instituciones-asistenciales-para-ninas-ninos-y-117091"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2022-06-20"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -159,9 +159,9 @@ II. Un Secretario Ejecutivo, que será un representante de la Secretaría Genera
 
 III. Un Secretario Técnico, que será el Titular de la Procuraduría, quien se encargará de dar seguimiento a los acuerdos tomados al interior del Comité, contando con derecho a voz, pero no a voto en las sesiones; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-IV. Diez Vocales, que serán:
+IV. Once Vocales, que serán:
 
 a) Un representante de la Secretaría de Salud;
 
@@ -183,13 +183,17 @@ f) Un representante de la Fiscalía General del Estado;
 
 g) Un representante de la Comisión de Derechos Humanos del Estado;
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-h) Dos representantes de Casas Asistenciales privadas o de Beneficencia Privada de niñas, niños y adolescentes, que cuenten con licencia de operación vigente en el Estado, nombrado por mayoría de estos; y
+h) Dos representantes de Casas Asistenciales privadas o de Beneficencia Privada de niñas, niños y adolescentes, que cuenten con licencia de operación vigente en el Estado, nombrado por mayoría de estos;
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-i) Un representante de la Comisión de Familia y Derechos de la Niñez del Poder Legislativo del Estado de Aguascalientes.
+i) Un representante de la Comisión de Familia y Derechos de la Niñez del Poder Legislativo del Estado de Aguascalientes; y
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+j) Un representante de la Secretaría de la Familia.
 
 Los integrantes del Comité deberán nombrar por escrito a sus respectivos suplentes, quienes actuarán en su ausencia, con los mismos derechos y obligaciones que los titulares.
 
@@ -694,3 +698,11 @@ P.O. 20 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 13.- SE REFORMA LA LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
