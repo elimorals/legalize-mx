@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vivienda-para-el-estado-de-campeche-79492"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-02"
-last_updated: "2024-07-31"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 2 de febrero de 2011.
 
@@ -49,9 +49,9 @@ LEY DE VIVIENDA PARA EL ESTADO DE CAMPECHE
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-I. Establecer y regular la política de vivienda y las acciones habitacionales del Poder Ejecutivo del Estado de Campeche en congruencia con las diversas disposiciones económicas, sociales y urbanas para el desarrollo integral y sustentable del Estado;
+I. Establecer y regular la política de vivienda y las acciones habitacionales del Poder Ejecutivo del Estado de Campeche de conformidad con lo establecido en el artículo 6° de la Constitución Política del Estado, en congruencia con las diversas disposiciones económicas, sociales y urbanas para el desarrollo integral y sustentable del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
@@ -79,9 +79,9 @@ Las disposiciones de la presente Ley deberán aplicarse bajo los principios de e
 
 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como a desincentivar el delito de despojo de bien inmueble y al crecimiento irregular de las ciudades.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-Se garantizará que la vivienda que se realice o adquiera a través de programas de gobierno, se dé prioridad a las mujeres.
+Se garantizará que la vivienda que se realice o adquiera a través de programas de gobierno, se dé prioridad a las mujeres en situación de pobreza, marginación o vulnerabilidad, a las jefas de familia, a las pertenecientes a las comunidades rurales y de pueblos y comunidades indígenas y afromexicanas, y a las y los jóvenes.
 
 ###### Artículo 3.
 
@@ -1470,3 +1470,11 @@ SEGUNDO.- En un plazo no mayor a noventa días contados a partir de la entrada e
 Asimismo, el Ejecutivo Estatal deberá realizar los cambios que considere pertinentes en los instrumentos jurídicos administrativos del marco normativo.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 15 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 2 DE LA LEY DE VIVIENDA PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
