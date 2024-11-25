@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2024-07-01"
+last_updated: "2024-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -185,15 +185,21 @@ Solo los miembros propietarios del Órgano de Gobierno podrán ser suplidos y el
 
 En ningún caso podrán ser miembros del Organo de Gobierno:
 
-I.- El Director General del organismo de que se trate,
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-II.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Organo de Gobierno o con el Director General,
+I.- La persona titular de la Dirección General del organismo que se trate.
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+II.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Órgano de Gobierno o con la persona titular de la Dirección General,
 
 III.- Las personas que tengan litigios pendientes con el organismo de que se trate,
 
 IV.- Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-V.- Los diputados y senadores al H. Congreso de la Unión y los diputados al H. Congreso del Estado, en los términos del Artículo 62 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+V.- Las personas que se desempeñen en una diputación federal o senaduría ante el H. Congreso de la Unión o bien en una diputación ante el Congreso del Estado durante el periodo de su encargo, excepto cuando su participación sea de carácter honorífico y sin remuneración alguna.
 
 ###### ARTICULO 13.
 
@@ -906,3 +912,11 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 17.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
