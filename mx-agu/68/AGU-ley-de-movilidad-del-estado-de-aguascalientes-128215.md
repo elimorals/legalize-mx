@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-08-12"
+last_updated: "2024-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -49,11 +49,11 @@ LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO PRIMERO. Objeto de la Ley
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1°.
 
-Esta Ley es de orden público e interés social y tiene por objeto establecer las bases, normas y principios para garantizar el derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+Esta Ley es de orden público e interés social y tiene por objeto establecer las bases, normas y principios para garantizar el derecho a la movilidad de las personas en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -61,7 +61,9 @@ Esta Ley es de orden público e interés social y tiene por objeto establecer la
 
 La presente Ley tendrá por objetivos:
 
-I. Sentar las bases para la política de movilidad y seguridad vial, bajo un enfoque sistémico y de sistemas seguros, a través del Sistema Estatal de Movilidad y Seguridad Vial para priorizar el desplazamiento de las personas, particularmente de los grupos en situación de vulnerabilidad, así como bienes y mercancías, con base en la jerarquía de la movilidad señalada en esta Ley, que disminuya los impactos negativos sociales, de desigualdad, económicos, a la salud, y al medio ambiente, con el fin de reducir muertes y lesiones graves ocasionadas por siniestros viales, para lo cual se debe preservar el orden y seguridad vial;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+I. Sentar las bases para la política de movilidad y seguridad vial, bajo un enfoque sistémico y de sistemas seguros, a través del Sistema Estatal de Movilidad y Seguridad Vial priorizando el derecho humano de las personas para desplazarse, particularmente de los grupos en situación de vulnerabilidad, así como bienes y mercancías, con base en la jerarquía de la movilidad señalada en esta Ley, que disminuya los impactos negativos sociales, de desigualdad, económicos, a la salud, y al medio ambiente, con el fin de reducir muertes y lesiones graves ocasionadas por siniestros viales, para lo cual se debe preservar el orden y seguridad vial;
 
 II. Definir mecanismos de coordinación de las autoridades del Estado y sus municipios y la sociedad en materia de movilidad y seguridad vial;
 
@@ -73,7 +75,9 @@ V. Determinar mecanismos y acciones que promuevan y fomenten la sensibilización
 
 VI. Vincular la política de movilidad y seguridad vial, con un enfoque integral de la política de ordenamiento territorial y desarrollo urbano y de manera transversal con las políticas sectoriales aplicables;
 
-VII. Definir la jerarquía de la movilidad y los principios rectores a que deben sujetarse las autoridades competentes, en la implementación de esta Ley, en la expedición de disposiciones reglamentarias y en la formulación y aplicación de políticas, programas y acciones en la materia;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+VII. Definir la jerarquía de la movilidad y los principios rectores a que deben sujetarse las autoridades competentes, priorizando a las personas en la implementación de esta Ley, en la expedición de disposiciones reglamentarias y en la formulación y aplicación de políticas, programas y acciones en la materia;
 
 VIII. Establecer las bases para priorizar los modos de transporte de personas, bienes y mercancías, con menor costo ambiental y social, la movilidad no motorizada, vehículos no contaminantes y la intermodalidad;
 
@@ -385,9 +389,17 @@ CXLII. Vialidad: Conjunto integrado de vías de uso común que conforman la traz
 
 CXLIII. Violencias contra las mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público;
 
-CXLIV. Zona 30 (tránsito lento): Área delimitada al interior de barrios, poblados, colonias, fraccionamientos o unidades habitacionales, cuyas vías están diseñadas para reducir la intensidad y velocidad del tránsito a menos de 30 Km/h, a efecto de que peatones, ciclistas y conductores de vehículos motorizados circulen de manera cómoda y segura; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-CXLV. Zona metropolitana: El área urbanizada o urbanizable continua o que se proyecte en una conurbación, que se determina por convenio de los órdenes de gobierno involucrados, con objeto de reconocer el fenómeno de metropolización, para efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en el espacio territorial de influencia de la ciudad dominante.
+CXLIV. Zona 30 (tránsito lento): Área delimitada al interior de barrios, poblados, colonias, fraccionamientos o unidades habitacionales, cuyas vías están diseñadas para reducir la intensidad y velocidad del tránsito a menos de 30 Km/h, a efecto de que peatones, ciclistas y conductores de vehículos motorizados circulen de manera cómoda y segura;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+CXLV. Zona metropolitana: El área urbanizada o urbanizable continua o que se proyecte en una conurbación, que se determina por convenio de los órdenes de gobierno involucrados, con objeto de reconocer el fenómeno de metropolización, para efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en el espacio territorial de influencia de la ciudad dominante; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+CXLVI. Motoestacionamiento: Espacio de estacionamiento destinado para el uso exclusivo de motocicleta;
 
 ###### ARTÍCULO 4°.
 
@@ -809,7 +821,9 @@ XXIX. Verificar la operación de los paraderos y equipamiento de las áreas dedi
 
 XXX. Otorgar las autorizaciones, permisos y licencias que en materia de transporte público de personas y bienes que sean de su competencia;
 
-XXXI. Organizar e impartir cursos y talleres a concesionarios, permisionarios y operadores del servicio de transporte de personas y bienes, sobre capacitación profesional y técnica, así como en materia de derechos humanos, prevención de la violencia y respeto a sus derechos humanos como usuarios del transporte público;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
+XXXI. Organizar e impartir cursos y talleres a concesionarios, permisionarios y operadores del servicio de transporte de personas y bienes, sobre capacitación profesional y técnica, así como en materia de derechos humanos, prevención de la violencia y respeto a sus derechos humanos como usuarios del transporte público, así como talleres de sensibilización que hagan visibles los obstáculos a los que se enfrentan las personas adultas mayores y mujeres embarazadas;
 
 XXXII. Presentar a la SEGGOB la justificación para la suspensión, revocación o rescate de las concesiones;
 
@@ -1789,9 +1803,9 @@ V. La persona titular de la SOP;
 
 VI. La persona titular de la Contraloría del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
 
-VII. La persona titular de SEPLAPDE; y
+VII. La personas (sic) titular de la SEPLADE; y
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -1959,9 +1973,11 @@ IX. Se abstendrán de realizar maniobras que pongan en riesgo su integridad fís
 
 En las vías de circulación en las que se establezcan o adapten carriles como vías ciclistas, los conductores de vehículos automotores deberán respetar el derecho de tránsito y darán preferencia a los ciclistas que transiten en ella.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 66.
 
-Todas las Dependencias y Entidades de la administración pública estatal y municipal, así como las escuelas, centros comerciales, fábricas, oficinas, estacionamientos públicos y terminales de autobuses urbanos deberán contar con biciestacionamientos.
+Todas las Dependencias y Entidades de la administración pública estatal y municipal, así como las escuelas, centros comerciales, fabricas, oficinas, estacionamientos públicos y terminales de autobuses urbanos deberán contar con biciestacionamientos y motoestacionamientos.
 
 ###### ARTÍCULO 67.
 
@@ -6342,3 +6358,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 18.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
