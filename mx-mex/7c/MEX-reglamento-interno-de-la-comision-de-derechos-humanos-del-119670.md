@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2024-07-09"
+last_updated: "2024-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -1501,13 +1501,17 @@ c) Resolución de petición.
 
 La etapa de solicitud inicial se refiere a la presentación ante la Comisión de los relatos que sean formulados por cualquier persona que solicite su intervención respecto de presuntas violaciones a derechos humanos.
 
-La solicitud inicial se podrá presentar por escrito, de manera oral, telefónica, lengua de señas mexicanas, página web institucional o correo electrónico.
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2024)</small>
+
+La solicitud inicial se podrá presentar por escrito, de manera oral, telefónica, página web institucional y correo electrónico.
 
 La Comisión pondrá a disposición de las personas peticionarias o presuntas víctimas formularios para facilitar el trámite por escrito y en todos los casos ejercerá la suplencia en la deficiencia de los planteamientos.
 
 La Comisión proporcionará orientación a las personas peticionarias o presuntas víctimas sobre la presentación y contenido de su solicitud inicial, sin importar si son o no competencia de la Comisión, a fin de hacer de su conocimiento los derechos que les asisten y la autoridad que puede atender sus requerimientos.
 
-En el paso de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran o personas con discapacidad auditiva, la Comisión pondrá a su disposición intérprete que tenga dominio de su lengua y cultura o, en su caso, intérprete de señas mexicanas. Para el otorgamiento de los servicios especializados, el Organismo podrá celebrar convenios con instituciones públicas o privadas.
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2024)</small>
+
+En el caso de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran, la Comisión pondrá a su disposición intérprete que tenga dominio de su lengua y cultura, y/o formatos de comunicación accesibles para las personas con discapacidad. Para el otorgamiento de los servicios especializados, el Organismo podrá celebrar convenios con instituciones públicas o privadas.
 
 > <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2577,10 +2581,18 @@ PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno"
 
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI, Y SE ADICIONA UNA FRACCIÓN XII DEL ARTÍCULO 44; SE ADICIONA UN PÁRRAFO SEGUNDO, TERCERO Y CUARTO, RECORRIENDOSE LOS SUBSECUENTES, DEL ARTÍCULO 78; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 79; Y SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIENDOSE EL SUBSECUENTE, DEL ARTÍCULO 83; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+G.G. 26 DE NOVIEMBRE DE 2024.
 
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, A TRAVÉS DE SU CONSEJO CONSULTIVO, MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS TERCERO Y SEXTO DEL ARTÍCULO 38 BIS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO; CON FUNDAMENTO EN LOS ARTÍCULOS 13 FRACCIONES XXXIII Y XXVI Y 46 FRACCIONES I, III Y VIII, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México, con el objeto de dar a conocer al público en general y a las autoridades interesadas lo ordenado en el presente acuerdo, para los efectos legales a que haya lugar.
 
-G.O. 21 DE ABRIL DE 2023.
+SEGUNDO. Se instruye a la Secretaría General y a la Unidad de Servicios, Orientación y Recepción de Quejas, diseñe e implemente herramientas para garantizar el ejercicio de los derechos en beneficio de las personas con discapacidad.
+
+TERCERO. Las acciones a que se refiere el transitorio SEGUNDO del presente Acuerdo se podrán realizar en un plazo que no excederá de 45 días hábiles, contados a partir de la entrada en vigor del presente Acuerdo.
+
+CUARTO. Se instruye a la Unidad Jurídica y Consultiva, en su oportunidad, revisar y sancionar los instrumentos jurídicos que se emitan en cumplimiento al presente acuerdo.
+
+QUINTO. Se ordena a la Secretaría Técnica de este Consejo comunicar a las áreas administrativas de esta Comisión, para que en el ámbito de su competencia realicen las acciones necesarias para el cumplimiento de este acuerdo.
+
+SEXTO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
