@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2023-08-10"
+last_updated: "2024-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -2266,9 +2266,9 @@ I. Conductores de vehículos motorizados de uso particular, deberán:
 
 a) Cuando sean menores de edad, portar permiso para conducir automóviles. Las motocicletas no podrán ser conducidas por menores de edad;
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2024)</small>
 
-b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo. Tratándose de motociclistas deberán portar la licencia tipo A1, A2 o permanente;
+b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo. Tratándose de motociclistas deberán portar la licencia tipo A1, A2, o A permanente, expedida durante el periodo del 31 de diciembre de 2003, hasta el 31 de diciembre de 2007, disposición que no es aplicable para la licencia permanente Tipo A, expedida a partir del 16 de noviembre de 2024, ya que ésta no avala la conducción de motocicletas.
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -3211,3 +3211,11 @@ G.O. 10 DE AGOSTO DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor a los cuarenta y cinco días naturales posteriores a su publicación, el 24 de septiembre de 2023.
+
+G.O. 26 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 44 DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
