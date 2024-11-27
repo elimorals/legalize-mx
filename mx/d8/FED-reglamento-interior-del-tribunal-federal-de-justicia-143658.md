@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2024-01-31"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-07-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -841,7 +841,9 @@ III. Noroeste III, que comprende los Estados de Baja California Sur y Sinaloa;
 
 IV. Norte-Centro I, que comprende el Estado de Chihuahua;
 
-V. Norte–Centro II, que comprende todo el Estado de Coahuila y los Municipios de Lerdo y Gómez Palacio del Estado de Durango;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2024)</small>
+
+V. Norte–Centro II, que comprende los Estados de Coahuila y Durango;
 
 VI. Noreste, que comprende el Estado de Nuevo León y los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa del Estado de Tamaulipas;
 
@@ -877,7 +879,7 @@ XX. Caribe, que comprende el Estado de Quintana Roo;
 
 XXI. Pacífico-Centro, que comprende el Estado de Michoacán;
 
-XXII. Norte-Centro III, que comprende el Estado de Durango, con excepción de los Municipios de Lerdo y Gómez Palacio, del propio Estado;
+XXII. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2024)
 
 XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas;
 
@@ -907,7 +909,9 @@ III. Región del Noroeste III: Dos Salas que se denominarán, “Primera Sala Re
 
 IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del Norte-Centro I”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
-V. Región del Norte-Centro II: Dos Salas que se denominarán, “Primera Sala Regional del Norte- Centro II” y “Segunda Sala Regional del Norte-Centro II”, ambas con sede en la Ciudad de Torreón, Estado de Coahuila;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2024)</small>
+
+V. Región del Norte-Centro II: Tres Salas que se denominarán, “Primera Sala Regional del Norte-Centro II”, “Segunda Sala Regional del Norte-Centro II” y “Tercera Sala Regional del Norte-Centro II”, todas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
 > <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
@@ -949,7 +953,7 @@ XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe�
 
 XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán;
 
-XXII. Región del Norte-Centro III: una Sala que se denominará “Sala Regional del Norte-Centro III”, con sede en la ciudad de Victoria de Durango, Estado de Durango;
+XXII. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2024)
 
 XXIII. Región del Norte-Centro IV: una Sala que se denominará “Sala Regional del Norte-Centro IV”, con sede en la ciudad de Zacatecas, Estado de Zacatecas;
 
@@ -1037,7 +1041,9 @@ El Tribunal tendrá las Salas Auxiliares siguientes:
 
 I. Salas Auxiliares con jurisdicción material mixta y territorial en toda la República, cuya denominación y sede será la siguiente:
 
-a) Sala Regional del Norte-Centro III y Auxiliar, con sede en la Ciudad de Victoria de Durango, Estado de Durango, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXII, y 49, fracción XXII, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2024)</small>
+
+a) Tercera Sala Regional del Norte-Centro II y Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción V, y 49, fracción V, de este Reglamento.
 
 b) Sala Regional del Norte-Centro IV y Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
 
@@ -3434,3 +3440,11 @@ Séptimo. Las Salas Regionales Ordinarias que se crean con motivo de esta reform
 Octavo. Se deroga el Acuerdo SS/6/2021 por el que se determinan las Salas Regionales que serán apoyadas por las Salas Auxiliares de este Tribunal, en todo aquello que se oponga a la presente reforma.
 
 Noveno. Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+D.O.F. 27 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "EXTRACTO DEL ACUERDO SS/13/2024, DENOMINADO SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. Publíquese el presente Acuerdo en la página oficial del Tribunal y en el Diario Oficial de la Federación.
+
+Segundo. El presente Acuerdo entrará en vigor el 1° de diciembre de 2024.
