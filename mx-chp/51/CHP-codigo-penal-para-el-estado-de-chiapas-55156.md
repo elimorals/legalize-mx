@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2024-11-21"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -927,11 +927,13 @@ Cuando el sujeto activo haya sido condenado por un delito cuya comisión obedezc
 
 Igualmente, al responsable del delito de violencia familiar o de cualquier otro delito cometido en contra de un pariente consanguíneo, en línea recta, ascendiente o descendiente sin limitación de grado, o colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, concubina o concubinario o de aquellos que se encuentren bajo su cuidado, custodia o tutela se le someterá a las medidas reeducativas y tratamiento psicoterapéutico integral para su rehabilitación, independientemente de las penas que correspondan al delito cometido.
 
-A la mujer que voluntariamente consienta que se le practique aborto, se le someterá a la atención integral con perspectiva de género siempre que lo solicite. Para lo cual, la autoridad que tenga conocimiento de la solicitud deberá canalizar a la peticionaria a las instituciones que para tal efecto señale la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-En los procedimientos de atención integral, queda prohibida la ejecución de actos de discriminación o la incorporación de estereotipos de género, o cualquier acto que vulnere la dignidad humana de las mujeres.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-Los tratamientos señalados en el presente artículo, no podrán exceder en su duración del término de la pena impuesta por el delito cometido, y si la pena impuesta no resultó en privación o restricción de la libertad, el tratamiento no excederá de dos años. En los casos de aborto, los encargados de la atención integral deberán fundamentar el plazo del tratamiento correspondiente.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+Los tratamientos señalados en el presente artículo, no podrán exceder en su duración del término de la pena impuesta por el delito cometido, y si la pena impuesta no resultó en privación o restricción de la libertad, el tratamiento no excederá de dos años.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1971,6 +1973,8 @@ No se aplicará la atenuante relativa al estado de emoción violenta establecida
 
 ### Capítulo VI. Aborto
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 173.
 
 La ventaja sólo será considerada como calificativa de los delitos de homicidio, muerte cerebral y lesiones cuando sea tal que el agente no corra riesgo alguno de ser muerto o lesionado por el ofendido y no obre en legítima defensa.
@@ -2023,37 +2027,47 @@ Si la persona a quien se instiga o se ayuda fuere un menor de edad o no tenga la
 
 ###### Artículo 178.
 
-Comete el delito de aborto el que, en cualquier momento de la preñez, cause la muerte del producto de la concepción aunque ésta se produzca fuera del seno materno, a consecuencia de la conducta realizada.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 179.
 
-A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas que intervengan en la práctica del aborto, con consentimiento de la pasivo o la induzcan a otorgarlo, se les impondrá la sanción de 1 a 3 años de prisión, con suspensión de la profesión, cargo u oficio, por el término de la duración de la pena.
+A la mujer o persona gestante que se provoque o consienta que se le practique un aborto, una vez transcurridas las primeras doce semanas de gestación, se le impondrá de un mes a tres meses de tratamiento en libertad consistente en atención integral con perspectiva de género. Para lo cual, la autoridad deberá canalizar a la mujer o persona gestante a las instituciones que para tal efecto señale la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a una Vida Libre de Violencia para las Mujeres.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+En este caso, el delito únicamente se sancionará cuando se haya consumado.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 180.
 
-A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas que intervengan en la práctica del aborto, sin consentimiento de la pasivo o esta fuese menor de edad sin consentimiento de los padres o tutores, la sanción será de 3 a 6 años y si mediare violencia física o moral, de 6 a 8 años de prisión, con suspensión de la profesión, cargo u oficio, por el termino de la duración de la pena.
+En los procedimientos de atención integral, queda prohibida la ejecución de actos de discriminación o la incorporación de estereotipos de género, o cualquier acto que vulnere la dignidad humana de las mujeres.
 
-(NOTA: EL 7 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 184, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+En los casos de aborto, los encargados de la atención integral, deberán fundamentar el plazo del tratamiento correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 181.
 
-No es punible el aborto cuando el embarazo sea consecuencia de violación, o cuando la madre embarazada corra peligro de muerte, o pueda determinarse que el producto sufre alteraciones genéticas o congénitas que den por necesario el nacimiento de éste con trastornos físicos o mentales graves, previo dictamen del médico que la asista, oyendo el dictamen de otros médicos especialistas, cuando fuere posible y no sea peligrosa la demora.
+A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas que intervengan en la práctica del aborto, sin consentimiento de la mujer o persona gestante, la sanción será de 3 a 6 años y si mediare violencia física o moral, de 6 a 8 años de prisión, con suspensión de la profesión, cargo u oficio, por el termino de la duración de la pena.
 
 ###### Artículo 182.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 183.
 
-A la mujer que voluntariamente practique o consienta que se le practique un aborto, se le sancionará en términos a lo dispuesto por el artículo 70, de este Código.
+No es punible el delito de aborto:
+
+I. Cuando sea resultado de una conducta culposa de la mujer o persona gestante;
+
+II. Cuando el embarazo sea el resultado de una violación o de una inseminación artificial no consentida;
+
+III. Cuando de no provocarse el aborto, la mujer o persona gestante corra peligro de muerte, a juicio del médico que la asiste, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
+
+IV. Cuando a juicio de un médico especialista exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales en el mismo, siempre que se determine mediante dictamen médico y se tenga el consentimiento de la mujer o persona gestante.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -6240,6 +6254,14 @@ Artículo Tercero.- Cualquier erogación que se genere con motivo a la entrada e
 P.O. 21 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 022 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 027 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
