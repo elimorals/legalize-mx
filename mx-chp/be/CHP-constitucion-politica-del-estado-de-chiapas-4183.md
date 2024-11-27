@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2024-11-21"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1085,11 +1085,17 @@ XIX. Crear o suprimir Municipios, una vez que se hayan satisfecho los requisitos
 
 XX. Revisar la cuenta pública del año anterior presentada por el Estado y los municipios, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
 
-La revisión de la Cuenta Pública la realizará el Congreso del Estado a través del Órgano de Fiscalización Superior. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado o a la Comisión Permanente, en los recesos de aquél, a más tardar el treinta de abril del año siguiente al del ejercicio. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud suficientemente justificada, a juicio del Congreso del Estado, para lo cual deberá comparecer el secretario del ramo correspondiente o bien el Presidente Municipal del Ayuntamiento respectivo, según se trate, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, el Órgano de Fiscalización Superior contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la Fiscalización Superior de la Cuenta Pública.
+La revisión de la Cuenta Pública la realizará el Congreso del Estado a través de la Auditoría Superior del Estado. Si del exámen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
-El Congreso del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 50 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior, seguirán su curso en términos de lo dispuesto en dicho artículo.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado o a la Comisión Permanente, en los recesos de aquél, a más tardar el treinta de abril del año siguiente al del ejercicio. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud suficientemente justificada, a juicio del Congreso del Estado, para lo cual deberá comparecer el secretario del ramo correspondiente o bien el Presidente Municipal del Ayuntamiento respectivo, según se trate, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, la Auditoría Superior del Estado, contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la Fiscalización Superior de la Cuenta Pública.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+El Congreso del Estado concluirá la revisión de la Cuenta Pública a que hace referencia el párrafo cuarto de esta fracción, a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 50 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirán su curso en términos de lo dispuesto en dicho artículo.
 
 XXI. Emitir la convocatoria para elecciones extraordinarias en los términos que señalen las leyes.
 
@@ -1227,53 +1233,69 @@ El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del Con
 
 Tampoco podrá hacerlas al decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-### Capítulo V. Del Órgano de Fiscalización Superior del Congreso del Estado
+### Capítulo V. De la Fiscalización Superior del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-El Órgano de Fiscalización Superior del Congreso del Estado, tendrá autonomía presupuestal, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley.
+La Auditoria Superior del Estado, tendrá autonomía presupuestal, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 La función de fiscalización será ejercida conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
-El Órgano de Fiscalización Superior del Congreso del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, el Órgano de Fiscalización Superior del Congreso del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
+La Auditoria Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
-El Órgano de Fiscalización Superior del Congreso del Estado, tendrá a su cargo:
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoria Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+La Auditoria Superior del Estado, tendrá a su cargo:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos, recursos locales y deuda pública, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 También fiscalizará los recursos federales que administre o ejerza el estado y los municipios, en coordinación con la Auditoría Superior de la Federación o de manera directa.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Las entidades fiscalizadas deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados por la Federación y el Estado, de acuerdo con los criterios que establezca la Ley.
 
-El Órgano de Fiscalización Superior del Congreso del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Congreso del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+La Auditoria Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales. Las observaciones y recomendaciones que, respectivamente, la Auditoria Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, el Órgano de Fiscalización Superior del Congreso del Estado, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. El Órgano de Fiscalización Superior del Congreso del Estado rendirá un informe específico al propio congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal Administrativo, la Fiscalía de Combate a la Corrupción o las autoridades competentes;
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-II. Entregar al Congreso del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de las Cuentas Públicas, los cuales se someterá a la consideración del Pleno del Congreso. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones del Órgano de Fiscalización Superior del Congreso del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoria Superior del Estado, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoria Superior del Estado rendirá un informe específico al propio congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal Administrativo, la Fiscalía de Combate a la Corrupción o las autoridades competentes;
 
-Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Congreso del Estado para la elaboración de los informes individuales de auditoría.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+II. Entregar al Congreso del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de las Cuentas Públicas, los cuales se someterá a la consideración del Pleno del Congreso. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoria Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
-El titular del Órgano de Fiscalización Superior del Congreso del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los diez días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta treinta días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en (sic) Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Administrativo, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoria Superior del Estado para la elaboración de los informes individuales de auditoría.
 
-El Órgano de Fiscalización Superior del Congreso del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+El titular de la Auditoria Superior del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los diez días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta treinta días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Administrativo, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
-En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Congreso del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
+La Auditoria Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoria Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
 
-El Órgano de Fiscalización Superior del Congreso del Estado deberá entregar al Congreso del Estado, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, se incluirán los montos efectivamente resarcidos a la Hacienda Pública Estatal o Municipal o al patrimonio de sus entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Administrativo.
+La Auditoria Superior del Estado deberá entregar al Congreso del Estado, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, se incluirán los montos efectivamente resarcidos a la Hacienda Pública Estatal o Municipal o al patrimonio de sus entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Administrativo.
 
-El Órgano de Fiscalización Superior del Congreso del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso del Estado a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+La Auditoria Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso del Estado a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
@@ -1281,15 +1303,23 @@ III. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal Administrativo y la Fiscalía de Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales y a los particulares.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Congreso del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Este Titular estará reconocido como Auditor Superior del Estado, durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
+El Congreso del Estado designará al Titular de la Auditoria Superior del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Este Titular estará reconocido como Auditor Superior del Estado, durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
 
-Para ser Titular del Órgano de Fiscalización Superior del Congreso del Estado, se requiere cumplir con los requisitos establecidos en el párrafo segundo del artículo 60 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+Para ser Titular de la Auditoria Superior del Estado, se requiere cumplir con los requisitos establecidos en el párrafo segundo del artículo 60 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Durante el ejercicio de su encargo, no podrá formar parte de un Partido Político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Congreso del Estado, para el ejercicio de sus funciones, y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos del Estado y Municipios, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Congreso del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera la Auditoria Superior del Estado, para el ejercicio de sus funciones, y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos del Estado y Municipios, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite la Auditoria Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones que se establecen en el presente artículo.
 
@@ -2135,9 +2165,13 @@ En los ayuntamientos podrán establecerse gobiernos de coalición de acuerdo con
 
 El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
 
-El Ministerio Publico, a través de la Fiscalía General del Estado promoverá la participación ciudadana y fomentará el desarrollo de los programas de prevención social de la violencia, entendiéndose como las acciones realizadas en conjunto por sociedad y el gobierno en su conjunto, encaminadas a la promoción de la seguridad y la prevención de lesiones y violencia, con el fin de lograr un mejor nivel de vida, e incrementar los niveles de seguridad en los habitantes del Estado.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
-Corresponde al Ministerio Publico, a través de la Fiscalía General del Estado, la investigación y persecución, ante los tribunales, de todos los delitos del orden común; y por lo mismo, solicitará la (sic) medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de estos en hechos que la leyes señalen como delito; procurará que los juicios del orden común en materia penal se sigan con toda regularidad para que la impartición de la justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+Corresponde la investigación de los delitos al Ministerio Público, a la Secretaría de Seguridad del Pueblo y a las policías, en el ámbito de su competencia y bajo la conducción de aquél; promoverán la participación ciudadana y fomentarán el desarrollo de los programas de prevención del delito, con el fin de incrementar los niveles de seguridad en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+La persecución de los delitos del orden común, ante los tribunales, le corresponde al Ministerio Público, a través de la Fiscalía General del Estado, de acuerdo a las facultades conferidas en el Código Nacional de Procedimientos Penales, quien a su vez procurará que en los juicios del orden común en materia penal se respeten las formalidades esenciales del procedimiento para que la impartición de la justicia sea pronta y expedita.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2687,19 +2721,17 @@ Cuando no se fije la fecha en que deba comenzar su vigencia, las disposiciones s
 
 ### Capítulo Único. De las Leyes de Desarrollo Constitucional
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 122.
 
 El Congreso podrá expedir leyes para desarrollar el contenido de las normas constitucionales.
 
-Las leyes de desarrollo constitucional serán discutidas y aprobadas por mayoría calificada igual a la requerida para la reforma constitucional.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 123.
 
-Antes de su publicación, el Presidente del Congreso consultará al Tribunal de Justicia Constitucional acerca de la constitucionalidad de la ley correspondiente. El Tribunal deberá pronunciarse en un plazo de treinta días naturales.
+Las leyes de desarrollo constitucional serán discutidas y aprobadas por mayoría calificada de los Diputados y las Diputadas presentes.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4930,3 +4962,23 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas correspondientes, en un plazo no mayor a 30 días hábiles contados a partir de la entrada en vigor al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 025 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 92; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE SEGURIDAD PÚBLICA".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas correspondientes, en un plazo no mayor a 15 días hábiles contados a partir de la entrada en vigor al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 026 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS; EN MATERIA DE LA AUDITORIA SUPERIOR DEL ESTADO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los párrafos Quinto y Sexto de la fracción XXVI del artículo 30, contenidos en la Constitución Política del Estado de Chiapas, hasta antes de la reforma del 29 de Diciembre de 2016 conservaran su vigencia hasta la conclusión del Ejercicio Fiscal del año 2030.
