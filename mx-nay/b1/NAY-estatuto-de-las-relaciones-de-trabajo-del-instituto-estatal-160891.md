@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-de-las-relaciones-de-trabajo-del-instituto-estatal-160
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-11-03"
-last_updated: "2023-12-21"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NAY"
 
 ESTATUTO DE LAS RELACIONES DE TRABAJO DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT CON SU PERSONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2024.
 
 Estatuto publicado en la Sección Tercera del Número 86 del Periódico Oficial del Estado de Nayarit, el jueves 3 de noviembre de 2022.
 
@@ -713,6 +713,14 @@ VI. No serán autorizadas erogaciones por conceptos que no estén debidamente ap
 VII. Aumentos salariales conforme a la disponibilidad presupuestal; y,
 
 VIII. El Personal del Instituto tendrá derecho a un aguinaldo que estará comprendido en el presupuesto de egresos y que será equivalente a sesenta días de sueldo tabular, cuando menos, sin deducción alguna, asimismo en el caso de que un trabajador haya laborado por un periodo menor a un año, se pagará la parte proporcional que corresponda.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+
+IX. El Personal del Instituto recibirá como prestación de previsión social, en el mes de diciembre de cada año, vales de despensa que se entregarán a través de los monederos electrónicos autorizados por el Servicio de Administración Tributaria, por un monto equivalente a siete veces el valor mensual de la Unidad de Medida y Actualización.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IX, P.O. 27 DE NOVIEMBRE DE 2024.]</small>
+
+El personal que haya laborado por un periodo menor a un año, tendrá derecho a la parte proporcional que corresponda. Asimismo, cuando la relación laboral concluya antes del mes de diciembre, se entregará la parte proporcional en mes distinto al señalado.
 
 ###### Artículo 9.
 
@@ -2477,3 +2485,17 @@ QUINTO. Publíquense los presentes puntos de acuerdo en el Periódico Oficial, �
 SEXTO. Hágase del conocimiento al INE, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, la aprobación del presente acuerdo, para los efectos legales a que haya lugar.
 
 SÉPTIMO. Publíquese el presente acuerdo en los estrados y en la página oficial de internet, ambos de este Instituto Estatal Electoral.
+
+P.O. 27 DE NOVIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA VIGENCIA Y DIFUSIÓN DEL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. …
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+TERCERO. Publíquense los presentes puntos de acuerdo en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+CUARTO. Hágase del conocimiento al INE, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, la aprobación del presente acuerdo, para los efectos legales a que haya lugar.
+
+QUINTO. Publíquese el presente acuerdo en los estrados y en la página oficial de internet, ambos de este Instituto Estatal Electoral.
