@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2024-03-10"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -563,11 +563,19 @@ VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contra
 
 VII.- Copia de la dispensa de impedimentos, si los hubo.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+VIII.- El certificado que acredite no estar inscritos en el Registro Nacional de Deudores Alimentarios.
+
 ART. 95.- En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2017)</small>
 
 ART. 96.- El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 94 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil, éste cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el Certificado médico presentado.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+El oficial del Registro Civil, podrá solicitar al Tribunal Superior de Justicia del Estado, la información respecto de los pretendientes que no presenten el certificado de no deudor alimentario, a fin de dar a conocer la situación que guardan respecto de las obligaciones que tienen.
 
 ART. 97.- El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
 
@@ -1754,6 +1762,24 @@ III. Con relación a las personas con algún tipo de discapacidad o declarados e
 IV. Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de los alimentos se proporcionará todo lo necesario para su atención geriátrica.
 
 ART. 304.- El obligado a dar alimento cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+Se considera deudor alimentario, a quien mediante resolución del Juez se le imponga el pago de la obligación alimentaria.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+Se considera deudor alimentario moroso, el deudor alimentario que haya dejado de cumplir con sus obligaciones en materia de alimentos por un periodo mayor de dos meses o sesenta días naturales, continuos o discontinuos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+ART. 304-1.- El juez que tenga conocimiento del adeudo de la obligación alimentaria por un periodo mayor a los 60 días, tendrá la obligación de informar de manera inmediata a través de la Dirección de Estadística del Tribunal Superior de Justicia del Estado al Registro Nacional de Obligaciones Alimentarias, lo anterior en cualquier momento del procedimiento jurisdiccional.
+
+Del mismo modo corresponderá al Juez que se dé por enterado del cumplimiento de la obligación alimentaria de proceder a la cancelación del registro de forma inmediata, en el Registro Nacional de Obligaciones Alimentarias.
+
+La persona inscrita podrá promover su inconformidad ante el Tribunal Superior de Justicia del Estado a fin de regularizar su situación.
+
+La persona representante de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, que tenga decretada una tutoría en su favor, en todo momento se encuentra legitimada para solicitar ante la autoridad jurisdiccional la inscripción de una persona deudora en el Registro Nacional de Obligaciones Alimentarias.
 
 ART. 305.-El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de algún cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
@@ -11452,6 +11478,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 554 POR EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 315 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 058 QUE CONTIENE ADICIONES AL CÓDIGO CIVIL DEL ESTADO DE DURANGO, EN MATERIA DE REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
