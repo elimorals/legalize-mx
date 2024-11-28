@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2024-10-03"
+last_updated: "2024-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -2268,3 +2270,47 @@ P.O. 3 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero del año dos mil veinticinco.
+
+SEGUNDO. Se abroga la Ley Orgánica ele la Administración Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado el treinta y uno de julio de dos mil diecinueve.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Una vez publicado el presente Decreto, se deberán iniciar las gestiones para la extinción de los Organismos Públicos Descentralizados denominados Instituto Poblano de la Juventud, Instituto Poblano del Deporte y el Consejo de Ciencia y Tecnología del Estado de Puebla, en términos de lo dispuesto por la Ley de Entidades Paraestatales del Estado de Puebla.
+
+Las personas designadas como Titulares o Encargadas del Despacho e dichos Organismos serán las responsables de realizar todas las acciones necesarias tendientes a la referida extinción.
+
+QUINTO. Las menciones y referencias de las dependencias y organismos estatales, objeto del presente Decreto, se entenderán de la siguiente forma: de la o el Jefe de Oficina del Gobernador, o Jefatura de Gabinete, se entenderá a la Coordinación de Gabinete; de la Secretaría de Planeación y Finanzas y de la Secretaría de Administración, de manera individual o conjunta, se entenderá a la nueva Secretaría de Planeación, Finanzas y Administración; de la Secretaría de Economía y la Secretaría de Trabajo, de manera individual o conjunta, se entenderá a la Secretaría de Desarrollo Económico y Trabajo; de la Secretaría de Cultura, se entenderá a la Secretaría de Arte y Cultura; de la Secretaría de Turismo, se entenderá a la Secretaría de Desarrollo Turístico; de la Secretaría de la Función Pública, se entenderá a la Secretaría Anticorrupción y Buen Gobierno; de la Secretaría de Igualdad Sustantiva se entenderá a la Secretaría de la Mujer e Igualdad Sustantiva; de la Secretaría de Desarrollo Rural se entenderá a la Secretaría de Agricultura y Desarrollo Rural; del Instituto Poblano del Deporte y del Instituto Poblano de la Juventud, de manera conjunta o diferenciada, se entenderá a la Secretaría de Deporte y Juventud; del Consejo de Ciencia y Tecnología del Estado de Puebla, se entenderá a la Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
+
+SEXTO. La persona titular del Poder Ejecutivo del Estado, a través de las instancias competentes y en términos del presente Decreto, podrá reorganizar la estructura de las dependencias y organismos, creando, fusionando, trasladando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias, asimismo, deberá crear las nuevas dependencias trasladando o creando las nuevas unidades administrativas y oficinas que resulten pertinentes, realizando, para ello, las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla, para el ejercicio fiscal que corresponda.
+
+SÉPTIMO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, la Consejería Jurídica y la Secretaría de Planeación, Finanzas y Administración, en el ámbito de sus competencias, coordinarán el proceso de transferencia de asuntos legales, atribuciones, asuntos y recursos humanos, materiales y financieros existentes, hacia las dependencias fusionadas o que cambien su denominación, así como a las de nueva creación, las cuales ejercerán tanto las nuevas atribuciones, como aquellas para las que los recursos fueron originalmente asignados, bajo la vigilancia de la Secretaría Anticorrupción y Buen Gobierno y el cumplimiento de las disposiciones generales y especiales emitidas por ésta, para su entrega-recepción.
+
+Las personas titulares de las dependencias, entidades y unidades administrativas de origen y de nueva creación, con el apoyo de las dependencias coordinadoras del proceso de transferencia, proveerán y acordarán lo necesario para cumplir oportunamente el mismo.
+
+La Secretaría de Planeación, Finanzas y Administración determinará y dispondrá de instalaciones y recursos materiales, para habilitar las oficinas públicas de las dependencias que carezcan de ellas y, en su caso, dictará los lineamientos y disposiciones de carácter general que juzgue necesarios para el cumplimiento del proceso de transferencia y la debida ejecución de lo dispuesto en este artículo.
+
+La Consejería Jurídica y las Secretarías de Planeación, Finanzas y Administración y de Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos y jurídicos no contemplados en el presente Decreto.
+
+OCTAVO. Cuando algún órgano desconcentrado o unidad administrativa deba pasar de una dependencia a otra, conforme a lo establecido en esta Ley, la transferencia se realizará incluyendo los recursos humanos, financieros y materiales que el órgano desconcentrando o la unidad administrativa utilice para la atención de los asuntos de su conocimiento.
+
+NOVENO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de esta Ley deban pasar de una dependencia o entidad a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a las nuevas dependencias o entidades o, en su caso, se establezcan las unidades administrativas que deban conocer aquéllos, en términos de esta Ley.
+
+Las personas titulares o encargadas del despacho de las áreas o unidades jurídicas o equivalentes, de las dependencias y entidades de la Administración Pública Estatal, deberán informar de inmediato a la Consejería Jurídica respecto de los asuntos a su cargo y los que deriven de la entrada en vigor del presente ordenamiento.
+
+DÉCIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada del presente ordenamiento, se refiera a las dependencias que modifican su denominación, se extinguen o dejan de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a las dependencias a que se refiere el presente ordenamiento y a las que se asignen las facultades específicas que en cada caso se relacionen, incluidas las de coordinación de sector de las entidades respectivas y participación en sus órganos de gobierno, siendo facultad del Gobernador, por conducto de la Consejería Jurídica, hacer la interpretación legal correspondiente y aclarar cualquier duda al respecto.
+
+DÉCIMO PRIMERO. Los derechos y obligaciones contractuales, contraídos por las dependencias cuya denominación se haya modificado por la presente Ley, serán atribuidos a la instancia que las sustituye.
+
+DÉCIMO SEGUNDO. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, o de un organismo a una dependencia, se respetarán en términos de la legislación que en la materia resulte aplicable.
+
+DÉCIMO TERCERO. El Gobernador dentro (sic) los noventa días naturales a partir de la entrada en vigor de la presente Ley, expedirá los reglamentos interiores correspondientes a las dependencias comprendidas en esta Ley.
+
+En tanto no se expidan los reglamentos a que se refiere el párrafo anterior. las dependencias previstas por esta Ley, seguirán aplicando los reglamentos aplicables en todo aquello que no la contravengan.
+
+DÉCIMO CUARTO. En términos del artículo tercero transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral, publicado en el Diario Oficial de la Federación el veinticuatro de febrero de dos mi diecisiete, la Junta de Conciliación y Arbitraje continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales, bajo la coordinación de la Secretaría de Desarrollo Económico y Trabajo.
