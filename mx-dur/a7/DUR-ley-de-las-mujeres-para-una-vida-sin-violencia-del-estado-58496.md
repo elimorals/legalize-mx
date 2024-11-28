@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2024-04-18"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -853,15 +853,47 @@ VII. Difundir y dar seguimiento a la observancia del Código de Ética para los 
 
 En el ejercicio de los derechos tutelados en la presente ley, la víctima contará con información suficiente e inteligible para orientar sus decisiones; en caso de tratarse de mujeres indígenas, éstas serán asistidas gratuitamente en todo tiempo por intérpretes que tengan conocimiento de su lengua y cultura.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV BIS. DEL PROTOCOLO DE ATENCIÓN INTEGRAL
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+Para garantizar una atención oportuna, eficaz, coordinada y adecuada a las mujeres en situación de violencia, se implementará el Protocolo de Atención Integral, el cual es parte del Sistema Estatal, y debe operar, en todo momento, en función a los ejes de acción de la prevención, atención, sanción y erradicación de la violencia en contra de la mujer y deberá contener al menos:
+
+I. Las acciones preventivas a realizarse en casos de violencia contra mujeres;
+
+II. Las reglas mínimas de actuación para la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+III. Acciones específicas para cada tipo y modalidad de violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 21 Ter.
+
+Las disposiciones de dicho instrumento serán obligatorias para todas las personas servidoras públicas y su inobservancia o violación será causa de responsabilidad administrativa, sin menoscabo de las demás de carácter civil o penal en que incurran; siendo obligación de sus titulares, divulgar su contenido entre sus colaboradores y áreas administrativas.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 21 Quáter.
+
+El Sistema Estatal, será el encargado de elaborar y aprobar el proyecto del Protocolo de Atención Integral, así como presentarlo para su aprobación e implementación, mismo que deberá establecer los lineamientos básicos de modelos de prevención y atención de violencia contra las mujeres.
+
+El Protocolo de Atención Integral se publicará en una versión ejecutiva en el Periódico Oficial del Gobierno del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 21 Quinquies.
+
+Una vez aprobado, los miembros del Sistema Estatal aplicarán de forma inmediata el Protocolo de Atención Integral y, en su caso, celebrarán los convenios necesarios para su aplicación en las demás instituciones y áreas del ámbito público como privado.
+
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
 ### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
-
-### CAPÍTULO VI. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
@@ -941,9 +973,9 @@ Los Centros de Reeducación deberán estar alejados de los refugios para víctim
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO VII. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO VI. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 27.
 
@@ -1005,9 +1037,9 @@ En los casos de feminicidio se aplicará lo previsto en el Artículo 147 Bis del
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO VIII. DE LOS CONSEJOS ESTATAL Y MUNICIPAL PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+### CAPÍTULO VII. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 29.
 
@@ -1109,9 +1141,9 @@ VI. Establecer los lineamientos básicos de modelos de prevención y atención d
 
 VII. Promover la capacitación de los servidores públicos que brinden atención o proporcionen servicios a las víctimas;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Las demás que sean afines a las anteriores y que coadyuven en la mejor atención de los programas estatal y municipal de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+VIII. Las demás que sean afines a las anteriores y que coadyuven en la mejor atención de los programas estatal y municipal de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
 
@@ -1129,13 +1161,17 @@ XI. Promover la implementación de plataformas y redes de comunicación e inform
 
 XII. Promover la colaboración interinstitucional para la detección, registro y seguimiento de la información sobre casos de violencias sexuales;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-XIII. Implementar programas y acciones que tengan como objetivo el desarrollo económico de las mujeres del Estado, a fin de promover su plena autonomía y empoderamiento económico; y
+XIII. Implementar programas y acciones que tengan como objetivo el desarrollo económico de las mujeres del Estado, a fin de promover su plena autonomía y empoderamiento económico;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Elaborar el proyecto de Protocolo de Atención Integral y someterlo para su aprobación; y
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-XIV. Las demás que le señalen las disposiciones legales aplicables.
+XV. Las demás que le señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1169,9 +1205,9 @@ V. Las demás que se deriven de éste u otros ordenamientos aplicables o le enco
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO IX. DE LOS PROGRAMAS ESTATAL Y MUNICIPAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA EN CONTRA DE LAS MUJERES
+### CAPÍTULO VIII. DE LOS CONSEJOS ESTATAL Y MUNICIPAL PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
@@ -1389,9 +1425,9 @@ El Presidente y el Secretario Ejecutivo del Consejo Municipal, tendrán las atri
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO X. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO IX. DE LOS PROGRAMAS ESTATAL Y MUNICIPAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 37.
 
@@ -1446,6 +1482,10 @@ XV. Definir recomendaciones específicas mediante las cuales las Instituciones p
 XVI. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico.
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO X. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 #### Sección Primera. Del Ejecutivo del Estado
 
@@ -2073,11 +2113,15 @@ XVI. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XVII. Colaborar con la Secretaría del Trabajo y Previsión Social para la elaboración e implementación del protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-XVIII. Recabar y difundir los criterios imperativos de normativa estatal, nacional o internacional aplicable, emitidos por las instancias judiciales y organismos públicos, además de las resoluciones jurisdiccionales de relevancia en materia de derechos de las mujeres, que contribuyan a erradicar la violencia en contra de éstas en cualquiera de sus formas, para que sean utilizadas como referentes en la creación de políticas públicas y de concientización de la sociedad en general; y
+XVIII. Recabar y difundir los criterios imperativos de normativa estatal, nacional o internacional aplicable, emitidos por las instancias judiciales y organismos públicos, además de las resoluciones jurisdiccionales de relevancia en materia de derechos de las mujeres, que contribuyan a erradicar la violencia en contra de éstas en cualquiera de sus formas, para que sean utilizadas como referentes en la creación de políticas públicas y de concientización de la sociedad en general;
 
-XIX.- Las demás previstas para el cumplimiento de la Ley.
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+XIX. Colaborar con las dependencias y entidades estatales y municipales, para que implementen y ejecuten correctamente, en el ámbito de su competencia, el Protocolo de Atención Integral que establece esta Ley; y
+
+XX. Las demás previstas para el cumplimiento de la Ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2023)</small>
 
@@ -2594,3 +2638,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Para la creación del Programa "puntos violeta" al que hace referencia el artículo 22 BIS del presente dictamen, se ejercerán los recursos del Programa de Apoyo a Instancias de Mujeres de las Entidades Federativas y el Poder Ejecutivo estatal de acuerdo a su disponibilidad presupuestaria que para tal efecto se asigne en el Presupuesto de Egresos del año correspondiente.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 061 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA Y A LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
