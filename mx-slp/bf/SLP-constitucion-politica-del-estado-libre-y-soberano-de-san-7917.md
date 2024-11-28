@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2024-05-16"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -130,6 +130,10 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
 
 El Estado garantizará el derecho de toda persona a una vida libre de violencia, en especial aquella contra las mujeres motivada por su género.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, en los términos que establezcan las leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2023)</small>
 
@@ -579,19 +583,25 @@ Son prerrogativas de la ciudadanía potosina:
 
 I.- Votar en las elecciones populares y consultas ciudadanas que lleven a cabo las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-II.- Poder ser votados en condiciones de paridad para todos los cargos de elección popular y nombrados para ocupar cualquier empleo o comisión, teniendo las calidades que esta Constitución y las leyes establezcan;
+II.- Poder ser votados en condiciones de paridad para todos los cargos de elección popular y nombrados para ocupar cualquier empleo o comisión, teniendo las calidades que esta Constitución y las leyes establezcan.
 
 El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación. En la postulación de las candidaturas se observará el principio de paridad de género;
 
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+III.- Ejercer individual y libremente el derecho de asociarse y reunirse para tomar parte en forma pacífica en los asuntos políticos del Estado y los Municipios;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+IV.- Ejercer el derecho de petición, el cual deberá formularse por escrito, de manera pacífica y respetuosa.
+
+A toda petición recaerá acuerdo escrito de la autoridad a la que se haya dirigido, la cual deberá de hacerlo del conocimiento de la persona peticionaria, en breve término, y
+
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-III.- Ejercer individual y libremente el derecho de asociarse y reunirse para tomar parte en forma pacífica en los asuntos políticos del Estado y los Municipios; y
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-IV.- Las demás que les confieren la presente Constitución y las leyes que de ella emanen.
+V.- Las demás que les confieren la presente Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
@@ -3760,3 +3770,19 @@ SEGUNDO. El sistema de justicia en línea se implementará en los tribunales del
 TERCERO. Los procedimientos que se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0011.- SE ADICIONA EL PÁRRAFO QUINTO AL ARTÍCULO 8°, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P. O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0012.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN II, Y LA FRACCIÓN III; Y ADICIONA LA FRACCIÓN IV, TODAS DEL ARTÍCULO 26, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
