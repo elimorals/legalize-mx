@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2023-06-18"
+last_updated: "2024-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -333,13 +333,21 @@ XXXIX. Aprobar a más tardar el día 21 de enero del año que corresponda el Pla
 
 XL. Designar a quien presida la sesión del Pleno del Consejo de la Judicatura en los casos de impedimento del Presidente y Vicepresidente del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-XLI. Acordar la realización y validez de sesiones virtuales o a distancia; y
+XLI. Acordar la realización y validez de sesiones virtuales o a distancia;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+XLII. Suministrar y actualizar la información al Registro Nacional de Obligaciones Alimentarias sobre el incumplimiento de las obligaciones alimentarias en el ámbito de su competencia y jurisdicción, durante los primeros cinco días hábiles de cada mes.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+XLIII. La cancelación en el Registro Nacional de Obligaciones Alimentarias, de manera inmediata en los casos que la legislación aplicable así lo prevea. y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2020)</small>
 
-XLII. Las demás que le confiera esta ley, las leyes especiales u otras disposiciones legales aplicables.
+XLIV. Las demás que le confiera esta ley, las leyes especiales u otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. DEL PRESIDENTE
 
@@ -833,9 +841,15 @@ I. Exhortar y procurar avenir a las partes en los asuntos de su competencia, par
 
 II. Poner en conocimiento de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, los asuntos que requieran de su intervención;
 
-III. Comunicar a los Centros Especializados de Readaptación y Tratamiento para Menores Infractores, los nombramientos de Tutor o Curador que realicen; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-IV. Las que les confieran las leyes aplicables.
+III. Comunicar a los Centros Especializados de Readaptación y Tratamiento para Menores Infractores, los nombramientos de Tutor o Curador que realicen;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+IV. Informar de manera inmediata a la Dirección de Estadística cuando se tenga conocimiento de la constitución de Deudores Alimentarios Morosos, así como de los casos en que se haya cumplido con la Obligación, para la respectiva cancelación; y
+
+V. Las que les confieran las leyes aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1907,13 +1921,17 @@ VIII. Solicitar al Tribunal para Menores Infractores del Poder Judicial del Esta
 
 IX. Recabar datos que arroje el Instituto de Defensoría Pública respecto de los asuntos de su conocimiento para su sistematización y presentación; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-X. Crear el Registro Público de Deudores Alimentarios Morosos del Estado de Durango, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, mediante orden dada por los jueces; y
+X. Realizar la inscripción de los Deudores Alimentarios Morosos, en el Registro Nacional de Obligaciones Alimentarias, en los términos que establezcan las leyes aplicables en la materia.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+XI. Realizar la cancelación de manera inmediata en el Registro Nacional de Obligaciones Alimentarias, de los Deudores Alimentarios cuando hayan cumplido la obligación en los términos que establezcan las leyes aplicables en la materia. y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2018)</small>
 
-XI. Las demás que el Consejo de la Judicatura le encomiende.
+XII. Las demás que el Consejo de la Judicatura le encomiende.
 
 ###### ARTÍCULO 120.
 
@@ -3702,3 +3720,11 @@ P.O. 18 DE JUNIO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 059 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, EN MATERIA DEL REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
