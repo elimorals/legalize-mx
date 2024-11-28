@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2023-09-08"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -115,15 +115,23 @@ La familia se constituye como la base de la sociedad, para ser el ámbito origin
 
 Para la interpretación del presente Código cuando el mismo se refiera a la familia, se entenderá que se refiere a las conformadas en razón de los vínculos a los que se refiere el primer párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 11.
 
-Las y los menores de edad miembros de la familia, tienen el derecho esencial de vivir y desarrollarse bajo la custodia y cuidado de su madre y padre; en caso de separación o conflicto, a mantener la convivencia cotidiana con los dos; a falta de ambos padres, la custodia y cuidado serán a cargo de las o los parientes consanguíneos. Para lo anterior, la autoridad judicial competente tomará en consideración las circunstancias del caso.
+Las y los menores de edad miembros de la familia, tienen el derecho esencial de vivir y desarrollarse bajo la custodia y cuidado de su madre y padre; en caso de separación o conflicto, a mantener la convivencia cotidiana con los dos, y con la familia ampliada; a falta de ambos padres, la custodia y cuidado serán a cargo de las o los parientes consanguíneos. Para lo anterior, la autoridad judicial competente tomará en consideración las circunstancias del caso.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
 
 Para efectos de salvaguarda de ese derecho, en caso de separación, los padres están obligados a evitar conductas de alienación parental, que se define como la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor, rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+El derecho de convivencia no podrá ser negado arbitrariamente por quien ostente la guarda y custodia.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+En los casos de controversias por cuestiones de convivencia, la autoridad jurisdiccional competente dictará de oficio las medidas necesarias para lograr que las y los menores ejerzan sus derechos de convivencia, siempre que ésta promueva, respete, proteja y garantice el interés superior del menor, lo que en ningún caso dejará de observarse.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2023)</small>
 
@@ -677,13 +685,11 @@ III. Durante el matrimonio el demandante no haya adquirido bienes propios, o hab
 
 La autoridad judicial al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo circunstancias como son: la edad y el estado de salud; la cualificación profesional y las probabilidades de acceso a un empleo; el tiempo dedicado o que se dedicará a los hijos; la colaboración con su trabajo en las actividades mercantiles, industriales o profesionales del otro cónyuge; la duración del matrimonio y de la convivencia conyugal; la pérdida eventual de un derecho de pensión; el caudal y los medios económicos y las necesidades de uno y otro cónyuge; y cualquier otra que el Juez considere relevante.
 
-(NOTA: EL 7 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 166/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 91.
 
-La o el juez, al recibir una solicitud de divorcio incausado, tiene la facultad de decretar las medidas provisionales necesarias, a fin de proteger a la familia, el interés superior de las niñas, niños y adolescentes; LAS PERSONAS INCAPACES; PERSONAS CON DISCAPACIDAD; así como erradicar cualquier tipo de violencia por razones de género. Y antes de que se provea sobre los derechos y obligaciones inherentes a la patria potestad o tutela de las hijas o hijos, la autoridad judicial podrá acordar, a petición de las abuelas, abuelos, tías, tíos, hermanas, o hermanos mayores, cualquier medida que se considere benéfica para las o los menores. La autoridad judicial podrá modificar esa decisión de acuerdo a lo dispuesto en los artículos, 165 y 283 fracción III de este Código.
+La o el juez, al recibir una solicitud de divorcio incausado, tiene la facultad de decretar las medidas provisionales necesarias, a fin de proteger a las y los integrantes de la familia; el interés superior de las niñas, niños y adolescentes; así como erradicar cualquier tipo de violencia por razones de género. Y antes de que se provea sobre los derechos y obligaciones inherentes a la patria potestad o tutela de las hijas o hijos, la autoridad judicial podrá acordar, a petición de las abuelas, abuelos, tías, tíos, hermanas, o hermanos mayores, cualquier medida que se considere benéfica para las o los menores. La autoridad judicial podrá modificar esa decisión de acuerdo a lo dispuesto en los artículos, 165 y 283 fracción III de este Código.
 
 ###### ARTICULO 92.
 
@@ -3858,5 +3864,21 @@ P.O. 8 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0823.- SE REFORMAN LOS ARTÍCULOS 86 BIS EN SU FRACCIÓN I, 101 EN SU FRACCIÓN I, 207, 300 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN III LOS INCISOS A), B) Y C); Y ADICIONA A Y LOS ARTÍCULOS 30 EL PÁRRAFO ÚLTIMO Y 300 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles posteriores de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0009.- SE REFORMA EL ARTÍCULO 91, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0010.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 11; Y ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO, AL ARTÍCULO 11 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
