@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-estatal-de-las-mujeres-del-estado-de-104910"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2019-12-29"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 25 de diciembre de 2014.
 
@@ -125,13 +125,17 @@ XIII. Establecer comunicación y coordinación permanente con las autoridades re
 
 XIV. Otorgar atención especial a las mujeres de las comunidades indígenas, promoviendo entre ellas, el respeto a los derechos humanos y la revaloración de los derechos específicos al género;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
-XV. Promover y fomentar en las mujeres el acceso al empleo y al comercio e informarles sobre sus derechos laborales y las condiciones de trabajo apropiadas en condiciones de igualdad con los hombres; y
+XV. Promover y fomentar en las mujeres el acceso al empleo y al comercio e informarles sobre sus derechos laborales y las condiciones de trabajo apropiadas en condiciones de igualdad con los hombres;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2024)</small>
+
+XVI. Proponer, ejecutar políticas, programas, instrumentos, mecanismos, metodologías y acciones tendientes a la detección, atención y protección de las mujeres receptoras de la violencia en el Estado, así como impulsar el Protocolo de Atención Integral que establece la Ley de las Mujeres para una Vida sin Violencia; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2019)</small>
 
-XVI. Las demás que le confiere las leyes, decretos, acuerdos y reglamentos para el cumplimiento de su objeto.
+XVII. Las demás que le confiere (sic) las leyes, decretos, acuerdos y reglamentos para el cumplimiento de su objeto.
 
 ### CAPÍTULO II. DEL PATRIMONIO
 
@@ -456,3 +460,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 061 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA Y A LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
