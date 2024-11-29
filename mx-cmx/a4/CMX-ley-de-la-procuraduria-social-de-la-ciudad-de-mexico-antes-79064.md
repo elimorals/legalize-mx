@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-procuraduria-social-de-la-ciudad-de-mexico-antes-7906
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2014-11-28"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79064&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-02"
 
 LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 3 de febrero de 2011.
 
@@ -56,9 +56,11 @@ LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
 
 La presente ley es de orden público e interés general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 2o.
 
-La Procuraduría Social del Distrito Federal es un Organismo Público Descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propios.
+La Procuraduría Social del Distrito Federal es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propios.
 
 En el desempeño de sus funciones no recibirá instrucciones o indicaciones de autoridad o servidor público alguno.
 
@@ -74,9 +76,11 @@ b) Procurar y coadyuvar al cumplimiento de la Ley de Propiedad en Condominios (s
 
 c) Crear, instrumentar, difundir y aplicar mecanismos de participación ciudadana y sana convivencia entre todos aquellos que habiten en un condominio y/o participen en la Asamblea General que refiere la Ley de Propiedad en Condominios (sic) de Inmuebles para el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 4o.
 
-Los procedimientos que se substancien en la Procuraduría Social, estarán regidos por los principios de imparcialidad, economía procesal, celeridad, sencillez, eficacia, legalidad, publicidad, buena fe, accesibilidad, información, certidumbre jurídica y gratuidad, y en los casos no contemplados en esta Ley se aplicará de manera supletoria la Ley de procedimiento Administrativo del Distrito Federal y Código de Procedimientos Civiles del Distrito Federal.
+Los procedimientos que se substancien en la Procuraduría Social, estarán regidos por los principios de imparcialidad, economía procesal, celeridad, sencillez, eficacia, legalidad, publicidad, buena fe, accesibilidad, información, certidumbre jurídica y gratuidad, y en los casos no contemplados en esta Ley se aplicará de manera supletoria la Ley de Procedimiento Administrativo de la Ciudad de México y Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 5o.
 
@@ -756,9 +760,11 @@ V. Fecha para celebrar la audiencia de fijación de las reglas del procedimiento
 
 Las resoluciones sólo admitirán la aclaración, y se harán a conciencia, verdad sabida y buena fe guardada, buscando preservar el interés general de lo establecido en la Ley de Propiedad en Condominio de inmuebles para el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 83.
 
-Se aplicará supletoriamente lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal y Código de Procedimientos Civiles para el Distrito Federal en los procedimientos a que se refiere esta Ley.
+Se aplicará supletoriamente lo dispuesto por la Ley de Procedimiento Administrativo para la Ciudad de México y el Código Nacional de Procedimientos Civiles y Familiares en los procedimientos a que se refiere esta Ley.
 
 #### SECCIÓN TERCERA. De la Amigable Composición en Materia de Arrendamiento
 
@@ -842,15 +848,19 @@ II. Las actas levantadas por la autoridad; y
 
 III. Los testimonios notariados.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 94.
 
-El procedimiento de aplicación de sanciones a que se refieren los dos artículos anteriores, se substanciará de conformidad a lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal y en su caso Código de Procedimientos Civiles para el Distrito Federal.
+El procedimiento de aplicación de sanciones a que se refieren los dos artículos anteriores, se substanciará de conformidad a lo dispuesto en la Ley de Procedimiento Administrativo de la Ciudad de México y en su caso Código Nacional de Procedimientos Civiles y Familiares.
 
 ### CAPÍTULO III. DE LA INCOMFORMIDAD (SIC)
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 95.
 
-Las partes en desacuerdo por las resoluciones o laudos emitidas por la Procuraduría, podrán interponer el recurso de inconformidad ante el Titular de esta, dentro de un término de 15 días hábiles, contados a partir del día siguiente en que surta efectos la notificación, ciñéndose a lo establecido en la Ley de Procedimiento Administrativo del Distrito Federal, situación que de igual forma realizará la Procuraduría al resolver el recurso.
+Las partes en desacuerdo por las resoluciones o laudos emitidas por la Procuraduría, podrán interponer el recurso de inconformidad ante el Titular de esta, dentro de un término de 15 días hábiles, contados a partir del día siguiente en que surta efectos la notificación, ciñéndose a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, situación que de igual forma realizará la Procuraduría al resolver el recurso.
 
 TRANSITORIOS:
 
@@ -887,3 +897,11 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
