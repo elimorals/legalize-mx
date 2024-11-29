@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2024-08-01"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -132,17 +132,17 @@ IX. Instituto de Estudios Judiciales, al Instituto de Estudios Judiciales del Co
 
 X. Juzgados, a los órganos jurisdiccionales del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XI. Las y los Consejeros de la Judicatura, a las personas integrantes del Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
+XI. Las personas Consejeras de la Judicatura, a las personas integrantes del Consejo de la Judicatura del Poder Judicial de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XII. Las y los Magistrados, a las Magistradas o Magistrados adscritos al Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
+XII. Las personas Magistradas, a las personas adscritas al Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XIII. Juzgadores y/o las y los Jueces de la Ciudad de México, a las personas titulares de los Juzgados del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
+XIII. Personas Juzgadoras de la Ciudad de México, a las personas titulares de los órganos jurisdiccionales y a las adscritas a las Unidades de Gestión Judicial o a los Tribunales Laborales, todos del Poder Judicial de la Ciudad de México;
 
 XIV. Ley, a la presente Ley Orgánica del Poder Judicial de la Ciudad de México;
 
@@ -160,13 +160,17 @@ XVII. Poder Judicial, al Poder Judicial de la Ciudad de México;
 
 XVIII. Sala o Salas, a las Salas del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México en cualquiera de las siguientes materias: Civil, Penal, Familiar, Justicia para Adolescentes, Especializadas en Ejecución de Sentencias Penales y Laboral;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XIX. Sala Constitucional, a la Sala Constitucional del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, y
+XIX. Sala Constitucional, a la Sala Constitucional del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XX. Tribunal Superior de Justicia, al Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México.
+XX. Tribunal Superior de Justicia, al Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXI. Unidades de Gestión, a las áreas corporativas de apoyo a la función jurisdiccional, integradas por personal multifuncional, con la que se privilegia la división de las actividades administrativas de las jurisdiccionales en la substanciación de los procedimientos judiciales, en materias Civil, Penal, Familiar, Laboral, Justicia para Adolescentes, Ejecución de Sentencias Penales, Civiles y Familiares, así como aquellas materias que determine el Consejo de la Judicatura.
 
 ###### Artículo 6.
 
@@ -186,9 +190,11 @@ Las demás personas servidoras públicas y auxiliares de la administración de j
 
 Las personas árbitras no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fijen los Códigos de Procedimientos Nacionales o los vigentes en la Ciudad de México, el Código de Comercio para toda la República y otras leyes que expresamente lo regulen, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles y mercantiles que les encomienden las personas interesadas. Para que resulten ejecutables sus fallos, éstos deben ser homologados por las autoridades civiles y jurisdiccionales correspondientes, sólo en relación con los requisitos inherentes a su formalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-Son personas auxiliares de la administración de justicia y están obligados a cumplir órdenes que, en el ejercicio de sus atribuciones legales, emitan las y los Jueces y las y los Magistrados del Tribunal Superior de Justicia:
+Son personas auxiliares de la administración de justicia y están obligados a cumplir órdenes que, en el ejercicio de sus atribuciones legales, emitan las personas Juzgadoras y las personas Magistradas del Tribunal Superior de Justicia:
 
 I. El Registro Civil;
 
@@ -196,7 +202,9 @@ II. El Registro Público de la Propiedad y el Comercio;
 
 III. Los peritos médicos legistas;
 
-IV. Las personas que ejerzan como mediadores, conciliadores y árbitros privados certificados y registrados por el Poder Judicial de la Ciudad de México en términos de la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Las personas que ejerzan como facilitadoras en el ámbito público o privado certificadas y registradas; las personas árbitras y las personas abogadas colaborativas registradas por el Poder Judicial de la Ciudad de México, en términos de la Ley General de Mecanismos Alternativos de Solución de Controversias.
 
 V. Las personas que ejerzan como intérpretes oficiales y demás peritos en las ramas que les sean encomendadas;
 
@@ -218,7 +226,9 @@ XIII. Sistema para el Desarrollo Integral de la Familia;
 
 XIV. La Secretaría de Seguridad Pública y la Policía adscrita a la Fiscalía General de Justicia de la Ciudad de México, y
 
-XV. Todas las demás a quienes las leyes les confieran ese carácter.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XV. Todas las demás a quienes las leyes les confieran ese carácter, las que de manera enunciativa mas no limitativa se consideran: Sistema Local para el Desarrollo Integral de la Familia; Alcaldías de la Ciudad de México; Fiscalía General de Justicia de la Ciudad de México, Secretaría de Relaciones Exteriores, el Sistema Nacional de Protección de Niñas, Niños y Adolescentes, Instituto Nacional de Lenguas Indígenas, Escuela Nacional de Lenguas Lingüísticas y Traducción, Nacional Monte de Piedad, Consultores Técnicos que brindan servicios de Interpretación, Instituto Federal de Especialistas de Concursos Mercantiles, Instituto de Envejecimiento Digno de la Ciudad de México, Archivo General de Notarías, Colegio de Notarios, Secretaria de Economía, Registro Único de Garantías Mobiliarias, Sistema de Atención de Requerimientos de Autoridad de la Comisión Nacional Bancaria y de Valores, como auxiliar en la administración de justicia.
 
 La persona Titular de la Jefatura de Gobierno de la Ciudad de México facilitará el ejercicio de las funciones a que se refiere este artículo.
 
@@ -234,13 +244,15 @@ Para los efectos de esta Ley, habrá un sólo partido judicial con la extensión
 
 Los nombramientos de las y los Magistrados del Tribunal Superior de Justicia se realizarán en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución y la Ley Orgánica del Congreso de la Ciudad de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-A propuesta del Consejo de la Judicatura, las y los Magistrados adscritos al Tribunal Superior de Justicia serán designados y, en su caso, ratificados por las dos terceras partes de las y los Diputados del Congreso.
+A propuesta del Consejo de la Judicatura, las personas Magistradas adscritas al Tribunal Superior de Justicia serán designadas y, en su caso, ratificadas por las dos terceras partes de las y los Diputados del Congreso.
 
-Las y los Magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en la Constitución y en esta Ley.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas Magistradas durarán seis años en su cargo y podrán ser ratificadas, previa evaluación pública en los términos dispuestos en la Constitución y en esta Ley.
 
 > <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -354,11 +366,11 @@ VIII. Participar y obtener resultado favorable en el concurso de oposición, as�
 
 (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 24.
 
-Para ejercer la titularidad de la Secretaría tanto de Acuerdos, como de Instrucción, según corresponda, en los Juzgados, Tribunales Laborales y en las Salas del Tribunal Superior de Justicia, así como para la de Proyectista de Segunda Instancia, se requiere:
+Para ser persona secretaria de acuerdos o de instrucción, en los órganos jurisdiccionales, Unidades de Gestión, Tribunales Laborales y en las Salas del Tribunal Superior de Justicia, así como para la de Proyectista de Segunda Instancia, se requiere:
 
 I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -370,7 +382,9 @@ III. Tener dos años de práctica profesional, contados desde la fecha de expedi
 
 El requisito de la práctica profesional podrá ser dispensado, tratándose de personal que tenga una antigüedad en el Tribunal de cuando menos dos años; y
 
-IV. No haber sido condenado por sentencia definitiva, por delito doloso que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. No haber sido condenada por sentencia definitiva, por delito doloso que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitada para el cargo, cualquiera que haya sido la pena.
 
 ###### Artículo 25.
 
@@ -395,6 +409,10 @@ Para ser Titular de la Secretaría Auxiliar Actuario de Sala se deben cubrir los
 Para ser Secretaria o Secretario Proyectista de Juzgado, Conciliador, Auxiliar de Juzgado de Proceso Oral en materia Familiar u Oficial Notificador, se deberán reunir los mismos requisitos establecidos en esta Ley con excepción a lo relativo a la práctica profesional.
 
 Las personas servidoras públicas a que se refieren los artículos 24, 25 y 26 de esta Ley, deberán, además, aprobar los exámenes que el Instituto de Estudios Judiciales habrá de aplicar, para cada caso, en los términos de esta Ley.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Para ser persona Secretaria Actuaria, Oficial Notificador o Auxiliar de los órganos jurisdiccionales o de las Unidades de Gestión, se deberán reunir los mismos requisitos establecidos en esta Ley con excepción a lo relativo a la práctica profesional.
 
 ### CAPÍTULO III. DE LAS INCOMPATIBILIDADES E INCAPACIDADES
 
@@ -548,7 +566,9 @@ XXII. Designar en sesiones abiertas y transparentes (sic) las Magistradas y Magi
 
 XXIII. Las demás que expresamente le confieran esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO II. DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -638,7 +658,9 @@ X. Aprobar la formalización de acuerdos y convenios de colaboración teórico�
 
 XI. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS SALAS DEL TRIBUNAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ###### Artículo 43.
 
@@ -684,21 +706,41 @@ Las Salas penales establecerán un sistema de guardia y control, para substancia
 
 Las resoluciones colegiadas de las Salas se tomarán por unanimidad o mayoría de votos.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En caso de resoluciones emitidas por mayoría, la persona Magistrada que no esté de acuerdo con el proyecto, emitirá voto particular que deberá formar parte integrante de la sentencia de segunda instancia. Cuando la apelación proceda en contra de una sentencia definitiva emitida en un procedimiento oral, el voto particular deberá de ser explicado en audiencia oral por quien lo emitió.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, en caso de estar de acuerdo en el sentido de la resolución, pero no de la totalidad o parte de las consideraciones, se emitirá voto concurrente, el cual también deberá de formar parte de la sentencia.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Los criterios emitidos por la Sala, por mayoría o por unanimidad, en asuntos de su competencia, constituirán precedentes horizontales vinculantes para quienes los generaron.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 Asimismo, a petición de cualquiera de sus integrantes, podrán integrar precedentes los criterios emitidos por unanimidad en asuntos de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 50.
 
-Corresponde a la Presidenta o Presidente de la Sala:
+Corresponde a la persona Presidenta de la Sala:
 
 I. Llevar la correspondencia de la Sala, autorizándola con su firma;
 
-II. Distribuir por riguroso turno los negocios, entre él y los demás miembros de la Sala, para su estudio y presentación oportuna, en su caso, del proyecto de resolución que en cada uno deba dictarse;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-III. Presidir las audiencias de la Sala, cuidar el orden de la misma y dirigir los debates;
+II. Vigilar que se cumpla el turno que genere el Sistema de Gestión Integral, respecto de los negocios, entre ella y las demás personas Magistradas de la Sala, para su estudio y presentación oportuna, en su caso, del proyecto de resolución que deba dictarse;
 
-IV. Dirigir la discusión de los negocios sometidos al conocimiento de la Sala y ponerlos a votación cuando la Sala declare terminado el debate;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Presidir las audiencias de la Sala, cuidar el orden de la misma y dirigir los debates, salvo aquellas que se tramiten con base a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares, caso en el cual, la audiencia será presidida por quien haya actuado como Ponente o la que va a dictar la resolución de que se trate en caso de ser unitaria;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Dirigir la discusión de los negocios sometidos al conocimiento de la Sala y ponerlos a votación cuando se declare terminado el debate. Solo en asuntos colegiados, el debate podrá ser videograbado y las partes interesadas podrán asistir solo como observadores. Este ejercicio deberá celebrarse semanalmente.
 
 V. Dar a la Secretaría de Acuerdos los puntos que comprendan las disposiciones resolutivas votadas y aprobadas;
 
@@ -718,11 +760,15 @@ VIII. Vigilar que las Secretarías y demás personas servidoras públicas de la 
 
 Las Salas en materia Civil, conocerán:
 
-I. De los casos de responsabilidad civil de los Titulares de Juzgados Civiles, de lo Civil de Cuantía Menor, de Proceso Oral y de Extinción de Dominio del Tribunal Superior de Justicia.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Asimismo, de los recursos de apelación y queja que se interpongan contra las resoluciones dictadas en asuntos civiles y de extinción de dominio y en los juicios de pago de daños culposos causados con motivo del tránsito de vehículos, por los titulares de los juzgados de lo civil, extinción de dominio y de lo Civil de Cuantía Menor. De igual manera de los recursos de queja que se interpongan contra las resoluciones dictadas en los Juzgados de lo Civil de Cuantía Menor.
+I. De los casos de responsabilidad civil de las personas Titulares de Juzgados Civiles, de lo Civil de Cuantía Menor, de Proceso Oral y de Extinción de Dominio del Tribunal Superior de Justicia, así como de las personas Juzgadoras apoyadas por las Unidades de Gestión Judicial.
 
-II. De las excusas y recusaciones de los Titulares de los Juzgados Civiles, de los de lo Civil de Cuantía Menor, de lo Civil de Proceso Oral y de Extinción de Dominio, del Tribunal Superior de Justicia;
+Asimismo, de los recursos de apelación y queja que se interpongan contra las resoluciones dictadas en asuntos civiles y de extinción de dominio, y en los juicios de nulidad de juicio concluido, pago de daños culposos causados con motivo del tránsito de vehículos, por personas Juzgadoras apoyadas por Unidades de Gestión en materia civil y extinción de dominio, así como de los recursos de apelación que se interpongan en contra de las sentencias definitivas, que se emitan en los juicios orales sumarios.
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. De las excusas y recusaciones, en los casos en que así procedan, respecto de las personas Juzgadoras apoyadas por Unidades de Gestión en materia Civil, de los titulares de Juzgados de Proceso Escrito Civil, de lo Civil de Proceso Oral y de Extinción de Dominio, del Poder Judicial;
 
 III. De los conflictos competenciales que se susciten en materia civil entre las autoridades judiciales del Tribunal Superior de Justicia; y
 
@@ -730,17 +776,25 @@ IV. De las cuestiones de competencia por declinatoria que se susciten en materia
 
 V. De los demás asuntos que determinen las leyes.
 
-Las sentencias definitivas o resoluciones que pongan fin a la instancia que recaigan a los asuntos a que se refieren las fracciones anteriores, se pronunciarán de manera colegiada. En todos los demás casos se dictarán unitariamente por los Magistrados que integren la Sala conforme al turno correspondiente.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Cualquiera de las y los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+Las sentencias definitivas o resoluciones que pongan fin a la instancia que recaigan en los juicios de proceso escrito, se pronunciarán de manera colegiada. En todos los demás casos se dictarán unitariamente por las personas Magistradas que integren la Sala conforme al turno correspondiente.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cualquiera de las personas Magistradas podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
 
 ###### Artículo 52.
 
 Las Salas en materia Penal, conocerán:
 
-I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por las y los Jueces del orden Penal de la Ciudad de México, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. De las excusas y recusaciones de las y los Jueces Penales del Tribunal Superior de Justicia;
+I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por las personas juzgadoras del orden Penal de la Ciudad de México, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. De las excusas y recusaciones de las personas juzgadoras Penales del Tribunal Superior de Justicia;
 
 III. Del conflicto competencial que se susciten en materia penal entre las autoridades judiciales del Tribunal Superior de Justicia;
 
@@ -748,7 +802,9 @@ IV. De las contiendas de acumulación que se susciten en materia penal, entre la
 
 V. De las notificaciones que deberán realizar de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, respecto de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias;
 
-VI. De los casos de responsabilidad civil de las y los jueces penales del Tribunal Superior de Justicia; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. De los casos de responsabilidad civil de las personas juzgadoras penales del Tribunal Superior de Justicia; y
 
 VII. De los demás asuntos que determinen las leyes.
 
@@ -760,39 +816,59 @@ Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones cont
 
 Tratándose de procedimientos en materia oral la Sala resolverá conforme a lo establecido en el párrafo anterior, cuando se trate de apelaciones contra sentencias definitivas en las que se haya impuesto pena de prisión mayor de cinco años.
 
-Cualquiera de las y los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cualquiera de las personas Magistradas podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
 
 ###### Artículo 53.
 
 Las Salas en materia de Justicia para Adolescentes conocerán:
 
-I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por las y los Jueces de Justicia para Adolescentes de la Ciudad de México, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. De las excusas y recusaciones de las y los Jueces en materia de Justicia para Adolescentes de la Ciudad de México;
+I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por las personas Juzgadoras de Justicia para Adolescentes de la Ciudad de México, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. De las excusas y recusaciones de las personas Juzgadoras en materia de Justicia para Adolescentes de la Ciudad de México;
 
 III. De los conflictos competenciales que se susciten en materia de Justicia para Adolescentes, entre las autoridades judiciales del Tribunal Superior de Justicia;
 
 IV. De las contiendas de acumulación que se susciten en materia de Justicia para Adolescentes, entre las autoridades que expresa la fracción anterior;
 
-V. De los casos de responsabilidad civil de las y los jueces de Justicia para Adolescentes del Tribunal Superior de Justicia; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. De los casos de responsabilidad civil de las personas Juzgadoras de Justicia para Adolescentes del Tribunal Superior de Justicia; y
 
 VI. De los demás asuntos que determinen las leyes.
 
 Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas dictadas en procesos instruidos por conductas típicas calificadas como graves, o en los casos en que se imponga la medida de internamiento, resoluciones que versen sobre hechos que en el correspondiente pliego sean calificados de antisociales, al amparo la acción penal por alguna conducta típica calificada como grave, con independencia de que se determine la comprobación o no de la conducta típica calificada como grave, la reclasificación de las conductas o hechos, o la no acreditación de alguna agravante o modalidad que provisionalmente determine que la conducta típica calificada como grave; o en contra de cualquier resolución en la que se haya determinado la libertad por conclusión del internamiento por rehabilitación social. En todos los demás casos las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
-Cualquiera de las y los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cualquiera de las personas Magistradas podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-A las y los Magistrados de las Salas Especializadas en Ejecución de Sanciones Penales del Tribunal Superior de Justicia, les corresponde conocer:
+A las personas magistradas de las Salas Especializadas en Ejecución de Sanciones Penales del Tribunal Superior de Justicia, les corresponde conocer:
 
-I. De los recursos de apelación y denegada apelación interpuestos en contra de las resoluciones de los jueces de ejecución de sanciones penales que dicten en sus funciones de vigilancia de ejecución de la pena, reparación del daño y negación de beneficios penitenciarios;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. De las excusas y recusaciones de las Juezas y Jueces de Ejecución de Sanciones Penales;
+I. De los recursos de apelación y denegada apelación interpuestos en contra de las resoluciones de las personas Juzgadoras de ejecución de sanciones penales que dicten en sus funciones de vigilancia de ejecución de la pena, reparación del daño y negación de beneficios penitenciarios;
 
-III. De los conflictos competenciales que se susciten entre las y los Jueces de Ejecución de Sanciones Penales;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. De los casos de responsabilidad Civil de las y los Jueces de Ejecución de Sanciones Penales del Tribunal Superior de Justicia; y
+II. De las excusas y recusaciones de las personas Juzgadoras de Ejecución de Sanciones Penales;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. De los conflictos competenciales que se susciten entre las personas Juzgadoras de Ejecución de Sanciones Penales;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. De los casos de responsabilidad Civil de las personas Juzgadoras de Ejecución de Sanciones Penales del Tribunal Superior de Justicia; y
 
 V. De los demás asuntos que determinen las leyes.
 
@@ -800,17 +876,33 @@ V. De los demás asuntos que determinen las leyes.
 
 Las Salas en materia Familiar, conocerán:
 
-I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos de materia Familiar, contra las resoluciones dictadas por los jueces del mismo ramo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. De las excusas y recusaciones de las Juezas y Jueces del Tribunal Superior de Justicia, en asuntos del orden familiar;
+I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos de materia Familiar, contra las resoluciones dictadas por las personas Juzgadoras del mismo ramo;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. De las excusas y recusaciones en los casos en que así procedan respecto de las personas juzgadoras en asuntos del orden familiar.
 
 III. De las competencias que se susciten en materia Familiar entre las autoridades judiciales del Tribunal Superior de Justicia, y
 
 IV. De los demás asuntos que determinen las leyes.
 
-Las sentencias en los asuntos a que se refieren las fracciones anteriores, se pronunciarán de manera colegiada tratándose de definitivas o de resoluciones que pongan fin a la instancia y las que versen sobre custodia de menores. En todos los demás casos se dictarán unitariamente por aquellos que integren la Sala conforme al turno correspondiente.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Cualquiera de las Magistradas o Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+Las resoluciones que resuelvan el recurso de apelación contra sentencia definitiva y sus violaciones procesales, aquellas que den por concluido el juicio donde deriva el recurso o la que resuelve en definitiva el juicio a que se refiere la fracción I del presente artículo, que se dicten en actos prejudiciales o procedimientos escritos, se pronunciarán de manera colegiada. En todos los demás casos se dictarán unitariamente por las personas Magistradas que integren la Sala conforme al turno correspondiente.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cualquiera de las Magistradas o los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En asuntos derivados de actos prejudiciales relacionados a procedimientos judiciales orales familiares y dentro de éstos mismos, todas las sentencias se pronunciarán de manera unitaria. Excepcionalmente serán colegiadas, cuando se pongan fin a la instancia o resuelva en definitiva a consideración de cualquiera de las personas Magistradas, en razón del criterio que se va a establecer o por otra razón debidamente justificada, o bien a petición de ambas partes en el asunto correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Todas las resoluciones colegiadas y unitarias que dicten las Salas Familiares en proceso escrito y oral, constituirán precedentes horizontales que funcionará como criterio orientador de aplicación obligatoria para casos análogos. El Consejo de la Judicatura deberá implementar los mecanismos tecnológicos y reglamentarios necesarios para que todas las Salas del Tribunal Superior de Justicia conozcan las resoluciones emitidas y puedan ser útiles como precedentes horizontales.
 
 > <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
 
@@ -818,15 +910,19 @@ Cualquiera de las Magistradas o Magistrados podrá determinar que el fallo se re
 
 Las Salas que integran el Poder Judicial de la Ciudad de México, que al efecto determine el Consejo de la Judicatura, conocerán de las excusas y recusaciones, que se planteen en los conflictos laborales.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-Las Salas al resolver sobre las excusas de las y los Jueces, en caso de que éstas sean infundadas, remitirán la resolución al Consejo de la Judicatura para que imponga la sanción correspondiente.
+Las Salas al resolver sobre las excusas de las personas Magistradas, en caso de que éstas sean infundadas, remitirán la resolución al Consejo de la Judicatura para que imponga la sanción correspondiente.
 
-Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos una persona responsable de la Secretaría (sic) Acuerdos, y dos de la (sic) Secretarías o Secretarios Auxiliares, doce Secretarias o Secretarios Proyectistas y dos Secretarios Actuarios, que serán designadas y removidas por las Magistradas y Magistrados integrantes de la Sala y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
+Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos una persona responsable de la Secretaría de Acuerdos, y dos personas Secretarías Auxiliares, doce personas Secretarias Proyectistas y dos personas Secretarias Actuarias, que serán designadas y removidas por las Magistradas y Magistrados integrantes de la Sala y la planta de personas servidoras públicas de la administración de justicia que fije el presupuesto de egresos.
 
-Las y los Secretarios de Acuerdos y las y los Secretarios Auxiliares de Salas, tendrán en lo conducente, las mismas atribuciones que las Secretarías de Acuerdos de los Juzgados de Primera Instancia.
+Las personas Secretarias de Acuerdos y las personas Secretarias Auxiliares de Salas, tendrán en lo conducente, las mismas atribuciones que las personas Secretarías Judiciales y de las personas Secretarias Instructoras de los Órganos Jurisdiccionales, de las Unidades de Gestión Judicial y de los Tribunales Laborales.
 
-## TÍTULO CUARTO. DE LOS JUZGADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+## TÍTULO CUARTO. DE LOS JUZGADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -916,15 +1012,29 @@ Las y los Jueces en el ámbito penal deberán ordenar de manera inmediata la pr�
 
 Los órganos jurisdiccionales del Sistema Penal Acusatorio que actúen de manera unitaria o colegiada, ejercerán las competencias y atribuciones que les confieran las leyes, a partir de la recepción del turno de trámite que se establecerá por orden numérico en los términos del control que lleve a cabo la Unidad de Gestión Judicial y de conformidad con las reglas que para el efecto expida el Consejo de la Judicatura.
 
-Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre los distintos Juezas y Jueces.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así como equilibrio en las cargas de trabajo entre las distintas personas juzgadoras.
 
 Las personas servidoras públicas del Tribunal de Justicia y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
 
-Las y los Jueces del Sistema Penal Acusatorio que actúen de manera unitaria o colegiada, conocerán de los delitos en materia de narcomenudeo previstos en la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
+> <small>[N. DE E. ESTE PÁRRAFO ES IDÉNTICO AL PÁRRAFO DÉCIMO TERCERO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
 
-De igual manera, y tomando en consideración las características del hecho investigado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso, serán competentes los jueces del sistema penal acusatorio de la Ciudad de México, en asuntos donde la comisión del delito es distinta al de su jurisdicción.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Las y los Jueces de Control, conocerá desde el inicio de la etapa de investigación hasta el dictado del auto de apertura de juicio; así como resolverán de manera unitaria.
+Las personas Juzgadoras del Sistema Penal Acusatorio que actúen de manera unitaria o colegiada, conocerán de los delitos en materia de narcomenudeo previstos en la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
+
+> <small>[N. DE E. ESTE PÁRRAFO ES SIMILAR AL PÁRRAFO DÉCIMO CUARTO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+De igual manera, y tomando en consideración las características del hecho investigado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso, serán competentes las personas Juzgadoras del sistema penal acusatorio de la Ciudad de México, en asuntos donde la comisión del delito es distinta al de su jurisdicción.
+
+> <small>[N. DE E. ESTE PÁRRAFO ES IDÉNTICO AL PÁRRAFO DÉCIMO QUINTO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas Juzgadoras de Control, conocerá desde el inicio de la etapa de investigación hasta el dictado del auto de apertura de juicio; así como resolverán de manera unitaria.
 
 > <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -934,19 +1044,57 @@ En materia penal tendrán la validez y eficacia de un documento físico original
 
 Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
 
-Cuando un Juzgador de la materia penal utilice los medios indicados en el párrafo anterior de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
+> <small>[N. DE E. ESTE PÁRRAFO ES IDÉNTICO AL PÁRRAFO DÉCIMO NOVENO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cuando una persona Juzgadora de la materia penal utilice los medios indicados en el párrafo anterior de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
 
 Las autoridades judiciales de la materia penal podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación.
 
 El Pleno del Consejo de la Judicatura dictará los reglamentos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
 
+> <small>[N. DE E. ESTE PÁRRAFO ES IDÉNTICO AL PÁRRAFO CUARTO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas Juzgadoras del Sistema Penal Acusatorio que actúen de manera unitaria o colegiada, conocerán de los delitos en materia de narcomenudeo previstos en la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento. (sic)
+
+> <small>[N. DE E. ESTE PÁRRAFO ES SIMILAR AL PÁRRAFO QUINTO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+De igual manera, y tomando en consideración las características del hecho investigado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso, serán competentes las personas Juzgadoras personas Juzgadoras (sic) del sistema penal acusatorio de la Ciudad de México, en asuntos donde la comisión del delito es distinta al de su jurisdicción. (sic)
+
+> <small>[N. DE E. ESTE PÁRRAFO ES IDÉNTICO AL PÁRRAFO SEXTO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas Juzgadoras de Control, conocerá (sic) desde el inicio de la etapa de investigación hasta el dictado del auto de apertura de juicio; así como resolverán de manera unitaria. (sic)
+
+… (sic)
+
+… (sic)
+
+… (sic)
+
+> <small>[N. DE E. ESTE PÁRRAFO ES IDÉNTICO AL PÁRRAFO DÉCIMO, VÉASE G.O. DE 29 DE NOVIEMBRE DE 2024, PÁGINA 23.]</small>
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cuando una persona Juzgadora de la materia penal utilice los medios indicados en el párrafo anterior de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados. (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 62.
 
-Los Juzgados de lo Familiar conocerán:
+Las personas Juzgadoras de lo Familiar conocerán:
 
 I. De los procedimientos de jurisdicción voluntaria, relacionados con el derecho familiar;
 
-II. De los juicios contenciosos relativos al matrimonio a su ilicitud o nulidad; de divorcio; que se refieren al régimen de bienes en el matrimonio; que tengan por objeto modificaciones o rectificaciones de las actas del Registro Civil; que afecten al parentesco, a los alimentos, a la paternidad y a la filiación; que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción y tutela y las cuestiones de ausencia y de presunción de muerte, y que se refieran a cualquier cuestión relacionada con el patrimonio de familia, con su constitución, disminución, extinción o afectación en cualquier forma;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. De los juicios contenciosos relativos al matrimonio a su ilicitud o nulidad; de divorcio; que se refieren al régimen de bienes en el matrimonio; que tengan por objeto modificaciones o rectificaciones de las actas del Registro Civil; que afecten al parentesco, a los alimentos, a la paternidad y a la filiación; que tengan por objeto cuestiones derivadas de la patria potestad, tutela y las cuestiones de ausencia y de presunción de muerte, y que se refieran a cualquier cuestión relacionada con el patrimonio de familia, con su constitución, disminución, extinción o afectación en cualquier forma;
 
 III. De los juicios sucesorios;
 
@@ -956,13 +1104,17 @@ V. De las diligencias de consignación en todo lo relativo a la materia familiar
 
 VI. De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos, relacionados con el orden familiar;
 
-VII. De las cuestiones relativas a los asuntos que afecten en sus derechos de persona a los menores e incapacitados; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. De las cuestiones relativas a los asuntos que afecten en sus derechos de niños, niñas y adolescentes y personas en situación de vulnerabilidad, respecto de cuestiones de carácter familiar; y
 
 VIII. En general, todas las cuestiones familiares que reclamen la intervención judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 63.
 
-A las y los Jueces de Ejecución de Sanciones Penales en la Ciudad de México les corresponde:
+A las personas Juzgadoras de Ejecución de Sanciones Penales en la Ciudad de México les corresponde:
 
 I. Resolver en audiencia oral, todos los incidentes relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada de los sentenciados;
 
@@ -974,9 +1126,11 @@ IV. Responder a las consultas formuladas por las autoridades penitenciarias; y
 
 V. Todas las demás que establezcan las leyes correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 64.
 
-A los Juzgados para Adolescentes les corresponde:
+A las personas Juzgadoras para Adolescentes les corresponde:
 
 I. Conocer las causas instauradas en contra de las personas a quienes se imputen la realización de un acto tipificado como delito en las leyes locales, cuando tengan entre doce años cumplidos y dieciocho no cumplidos;
 
@@ -986,9 +1140,11 @@ III. Resolver los asuntos sometidos a su conocimiento, conforme a la Ley Naciona
 
 IV. Resolver sobre las medidas a imponer, atendiendo al estudio de los hechos y estudio de su personalidad, que lleven a establecer los principios de culpabilidad, proporcionalidad y racionalidad, por el acto antisocial, así como a las circunstancias, gravedad de la conducta, características y necesidades de los Adolescentes, que represente el menor daño al adolescente para su reincorporación social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 65.
 
-Los Juzgados de Extinción de Dominio conocerán:
+Las personas Juzgadoras en materia de Extinción de Dominio, conocerán:
 
 I. De los procedimientos de Extinción de Dominio establecidos en la Ley de la materia;
 
@@ -998,13 +1154,19 @@ III. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisito
 
 IV. De las demás diligencias, acuerdos y actividades que les encomiende la Ley de Extinción de Dominio para la Ciudad de México y demás legislación vigente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las Juezas y Jueces Especializados en Extinción de Dominio, cuando además conozcan de otras competencias por materia, podrán trabajar con el apoyo de Unidades de Gestión Judicial, conforme a las disposiciones de la presente Ley Orgánica.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-Los Juzgados de Tutela de Derechos Humanos conocerán de la acción de protección efectivas de derechos de conformidad con lo que establece el artículo 36, apartado B, numeral 3 de la Constitución.
+Las personas Juzgadoras de Tutela de Derechos Humanos, conocerán de la acción de protección efectivas de derechos de conformidad con lo que establece el artículo 36, apartado B, numeral 3 de la Constitución de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2019)</small>
+La acción de protección efectiva es el mecanismo por medio del cual las personas juzgadoras tutelares conocen de manera directa las posibles violaciones a los derechos humanos reconocidos en la Constitución, contra los que se inconformen quien sea titular de un derecho o de un interés legítimo individual o colectivo al inicio y/o durante la sustanciación de algún procedimiento competencia de la Administración Pública.
 
-La acción de protección efectiva es el mecanismo por medio del cual los jueces tutelares conocen de manera directa las posibles violaciones a los derechos humanos reconocidos en la Constitución, contra los que se inconformen el titular de un derecho o de un interés legítimo individual o colectivo al inicio y/o durante la sustanciación del (sic) algún procedimiento competencia de la Administración Pública.
+Las personas Juzgadoras de Tutela de Derechos Humanos, cuando además conozcan de otras competencias por materia, podrán tener el apoyo de Unidades de Gestión Judicial conforme a la determinación que en su momento apruebe el Consejo de la Judicatura.
 
 ###### Artículo 67.
 
@@ -1048,9 +1210,11 @@ II. Los de fecha anterior, respecto de los cuales, manifieste bajo protesta (sic
 
 III. Los que no haya sido posible obtener con anterioridad por causas que no sean imputables a la parte interesada, y siempre que acredite que los haya solicitado dentro del término señalado en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 71.
 
-Recibida la acción efectiva, el Juez de Tutela en un plazo no mayor a tres días hábiles requerirá a la autoridad o autoridades que intervinieron rindan un informe sobre los hechos controvertidos, mismo que deberá rendirse dentro de los dos días hábiles siguientes a su notificación.
+Recibida la acción efectiva, la persona Juzgadora de Tutela en un plazo no mayor a tres días hábiles requerirá a la autoridad o autoridades que intervinieron rindan un informe sobre los hechos controvertidos, mismo que deberá rendirse dentro de los dos días hábiles siguientes a su notificación.
 
 En caso de que la autoridad o autoridades no rindan el informe correspondiente dentro del plazo señalado, se tendrá por ciertos los hechos descritos por el quejoso.
 
@@ -1066,9 +1230,11 @@ III. Las pruebas que ofrezca en su caso;
 
 IV. A manera de conclusión expondrá brevemente si el acto que motivo la acción efectiva es improcedente y las razones que lo motiven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 73.
 
-Rendido el informe el Juez de Tutela deberá acordar dentro de los dos días hábiles siguientes el desahogo de las pruebas ofrecidas.
+Rendido el informe la persona Juzgadora de Tutela deberá acordar dentro de los dos días hábiles siguientes el desahogo de las pruebas ofrecidas.
 
 La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
 
@@ -1076,19 +1242,27 @@ I. Harán prueba plena, la inspección ocular, las presunciones legales que no a
 
 II. Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que consten en las actas respectivas, y
 
-III. El valor de las pruebas pericial y testimonial, así como las demás pruebas quedará a la prudente apreciación del Juez de Tutela;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Desahogadas las diligencias anteriores, la autoridad emitirá la resolución dentro del término de diez días naturales.
+III. El valor de las pruebas pericial y testimonial, así como las demás pruebas quedará a la prudente apreciación de la persona Juzgadora de Tutela.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Desahogadas las diligencias anteriores, la persona Juzgadora emitirá la resolución dentro del término de diez días naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 74.
 
-Una vez recibido el informe, el Juez de Tutela cuando no existiere ninguna prueba que amerite necesariamente el desahogo de pruebas y/o diligencias, ni cuestión pendiente que impida su resolución, notificará a las partes que tienen un término de dos días hábiles para formular alegatos. El quejoso podrá presentarlos de manera oral o escrita. La autoridad deberá presentarlos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar resolución.
+Una vez recibido el informe, la persona Juzgadora de Tutela cuando no existiere ninguna prueba que amerite necesariamente el desahogo de pruebas y/o diligencias, ni cuestión pendiente que impida su resolución, notificará a las partes que tienen un término de dos días hábiles para formular alegatos. El quejoso podrá presentarlos de manera oral o escrita. La autoridad deberá presentarlos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar resolución.
 
 Al vencer el plazo a que se refiere el párrafo anterior, con alegatos o sin ellos, sin necesidad de una declaratoria expresa, y a partir del día siguiente empezará a computarse el plazo para la emisión de la resolución que no excederá de diez días naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 75.
 
-Para hacer cumplir sus determinaciones, los jueces de tutela, bajo su criterio y responsabilidad, podrán hacer uso, indistintamente, de las siguientes medidas de apremio:
+Para hacer cumplir sus determinaciones, las personas Juzgadoras de tutela, bajo su criterio y responsabilidad, podrán hacer uso, indistintamente, de las siguientes medidas de apremio:
 
 I. Multa;
 
@@ -1102,11 +1276,19 @@ La resolución que declare fundada la acción efectiva tendrá por objeto restit
 
 Las sentencias dictadas por los jueces de tutela podrán ser impugnadas ante la Sala Constitucional.
 
-A falta de disposición expresa en lo establecido por esta Ley se estará a lo dispuesto por el Código de Procedimientos Civiles vigente en la Ciudad de México y demás disposiciones relativas aplicables.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+A falta de disposición expresa en lo establecido por esta Ley se estará a lo dispuesto por el Código de Procedimientos Civiles para el Distrito Federal o Código Nacional de Procedimientos Civiles y Familiares, según corresponda, y demás disposiciones relativas aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas Juzgadoras de tutela suscribirán las resoluciones que emitan y serán los fedatarios públicos en todas sus actuaciones.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 77.
 
-El Consejo de la Judicatura a través de acuerdos generales y considerando la carga de trabajo de estos juzgados y las necesidades de presupuesto, establecerá cuando menos un juzgado de tutela en cada una de las demarcaciones territoriales.
+El Consejo de la Judicatura a través de acuerdos generales y considerando la carga de trabajo y las necesidades de presupuesto, establecerá cuando menos una persona Juzgadora de tutela en cada una de las demarcaciones territoriales.
 
 > <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
 
@@ -1120,27 +1302,37 @@ De los conflictos que el artículo 123 apartado A fracción XXXI de la Constituc
 
 II. Los Tribunales Laborales para Conflictos Colectivos conocerán de todos aquellos conflictos que el artículo 123, apartado A, fracción XXXI, de la Constitución Política de los Estados Unidos Mexicanos no tenga reservados como competencia del Poder Judicial de la Federación, que sea la competencia local en la Ciudad de México y que constituya un conflicto colectivo.
 
-### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA DE LOS JUZGADOS Y ÓRGANOS JURISDICCIONALES ORALES
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+###### Artículo 78 Bis.
+
+Para el apoyo y auxilio, en los trámites legales, relacionados con las actividades jurídico administrativas derivadas del sistema de justicia laboral, conforme a la Ley Federal del Trabajo, el Consejo de la Judicatura mediante acuerdo, podrá crear las Unidades de Gestión necesarias, con personal de carrera judicial o administrativo con facultades suficientes para ello.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA DE LOS ÓRGANOS JURISDICCIONALES ORALES LABORALES Y UNIDADES DE GESTIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 79.
 
-Cada uno de los Juzgados o Tribunales Laborales a que se refiere este capítulo, contará con el siguiente personal:
+Cada uno de los Órganos Jurisdiccionales o Tribunales Laborales a que se refiere este capítulo, contará con el siguiente personal:
 
-I. Un Titular, Jueza o Juez, que atenderá proporcional y equitativamente las cargas de trabajo con el objeto de lograr que el conocimiento de los asuntos a su cargo, se realice de manera inmediata y expedita;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+I. Una persona Juzgadora, que atenderá proporcional y equitativamente las cargas de trabajo con el objeto de lograr que el conocimiento de los asuntos a su cargo, se realice de manera inmediata y expedita;
 
-II. Las y los Secretarios de Acuerdos o Instructores, Conciliadores, Proyectistas y Actuarios que requiera el servicio, y tratándose de Juzgados de Proceso Oral en materia Familiar, las Secretarías Judiciales y Auxiliares que requiera el servicio; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Las personas Secretarias de Acuerdos o Instructoras, Conciliadoras, Proyectistas y Actuarias que requiera el servicio, y tratándose de Unidades de Gestión en materia Familiar, las Secretarías Judiciales y Auxiliares que requiera el servicio; y
 
 III. Las personas servidoras públicas de la administración de justicia que autorice el presupuesto.
 
-> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 80.
 
-La persona Titular de la Secretaría de Acuerdos o de instrucción que determine el Juzgador, será el jefe inmediato de la oficina en el orden administrativo, dirigirá las labores de ella conforme a las instrucciones de su superior jerárquico y lo suplirá en sus ausencias, cuando no excedan de un mes.
+La persona Titular de la Secretaría de Acuerdos o de instrucción que determine la persona Juzgadora, será la jefa inmediata de la oficina en el orden administrativo, dirigirá las labores de ella conforme a las instrucciones de su superior jerárquico y lo suplirá en sus ausencias, cuando no excedan de un mes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
 
@@ -1148,9 +1340,13 @@ La persona Titular de la Secretaría de Acuerdos o de instrucción que determine
 
 Son obligaciones de las personas titulares de las Secretarías de Acuerdos o de Instrucción, así como de las y los Secretarios Auxiliares.
 
-I. Formular los proyectos de acuerdo, realizar emplazamientos y notificaciones cuando lo ordene el órgano jurisdiccional;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Dar cuenta diariamente al órgano jurisdiccional bajo su responsabilidad y dentro de las veinticuatro horas siguientes a su presentación ante la oficialía de partes del Tribunal Superior de Justicia, con todos los escritos y promociones, en los negocios de la competencia de aquellos, así como de los oficios y demás documentos que se reciban en él;
+I. Dictar resoluciones de mero trámite en los asuntos en donde intervengan; así como formular los proyectos de acuerdo, realizar emplazamientos y notificaciones cuando lo ordene el órgano jurisdiccional o la Unidad de Gestión;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Dar cuenta diariamente a la persona Juzgadora bajo su responsabilidad y dentro de las veinticuatro horas siguientes a su presentación ante la oficialía de partes del Tribunal Superior de Justicia, con todos los escritos y promociones, en los negocios de la competencia de aquellos, así como de los oficios y demás documentos que se reciban en él;
 
 III. Autorizar y dar fe de los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el órgano jurisdiccional;
 
@@ -1172,43 +1368,61 @@ XI. Cuidar y vigilar que el archivo se arregle por orden alfabético, de apellid
 
 XII. Remitir los expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos, conforme a los lineamientos marcados en esta ley.
 
-En el caso de la remisión de expedientes, tocas, testimonios y constancias al Archivo Judicial, en aquellos casos en que se ordene su depuración, deberá certificar y entregar al Titular del órgano jurisdiccional, las copias de las constancias necesarias para que quede registro de la orden judicial.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En el caso de la remisión de expedientes, tocas, testimonios y constancias al Archivo Judicial, en aquellos casos en que se ordene su depuración, deberá certificar y entregar a la persona Juzgadora del órgano jurisdiccional, las copias de las constancias necesarias para que quede registro de la orden judicial.
 
 XIII. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del órgano jurisdiccional, ya sea que se refiera a negocios judiciales del mismo o al desahogo de los oficios que se manden librar en las determinaciones respectivas, dictadas en los expedientes;
 
-XIV. Tener a su cargo, bajo su responsabilidad y debidamente autorizados para su uso, los libros de control del órgano jurisdiccional, designando, de entre los empleados subalternos del mismo, al que debe llevarlos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Tener a su cargo, bajo su responsabilidad y debidamente autorizados para su uso, los libros de control del órgano jurisdiccional, designando, de entre las personas empleadas subalternas del mismo, a la que deba llevarlos;
 
 XV. Conservar en su poder el sello del órgano jurisdiccional;
 
-XVI. Ejercer bajo su responsabilidad, por sí mismo o por conducto de los servidores públicos de la administración de justicia subalterna, la vigilancia que sea necesaria en la oficina, para evitar la pérdida o extravío de expedientes. En cada Juzgado existirá una mesa que controlará su ubicación y distribución, que sólo se mostrarán mediante el vale de resguardo respectivo previa identificación oficial vigente, el cual será sellado a la devolución del expediente y entregado en la mesa de salida del Juzgado; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XVI. Ejercer bajo su responsabilidad, por sí mismo o por conducto de las personas servidoras públicas de la administración de justicia subalterna, la vigilancia que sea necesaria en la oficina, para evitar la pérdida o extravío de expedientes. En cada Órgano Jurisdiccional existirá una mesa que controlará su ubicación y distribución, que sólo se mostrarán mediante el vale de resguardo respectivo previa identificación oficial vigente, el cual será sellado a la devolución del expediente y entregado en la mesa de salida del Órgano Jurisdiccional; y
 
 XVII. Las demás que les confieran las leyes y los reglamentos.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 82.
 
-Las y los Secretarios de Acuerdos adscritos a los juzgados de justicia oral civil tendrán las obligaciones y atribuciones que establece esta Ley en los artículos 80 y 81, y además deberán formular los proyectos de resoluciones que se dicten en los juicios orales.
+Las y los Secretarios de Acuerdos adscritos a los juzgados de justicia oral civil y familiar, así como a las Unidades de Gestión, tendrán las obligaciones y atribuciones que establece esta Ley en los artículos 80 y 81, y además deberán formular los proyectos de resoluciones que se dicten en los juicios orales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 83.
 
-Las y los Secretarios adscritos a los Juzgados Penales y de Justicia para Adolescentes, tienen las obligaciones y atribuciones que establece esta ley en los artículos 80 y 81 en lo que sean compatibles, y además deberán:
+Las personas Secretarias adscritas a los órganos jurisdiccionales Penales y de Justicia para Adolescentes, tienen las obligaciones y atribuciones que establece esta ley en los artículos 80 y 81 en lo que sean compatibles, y además deberán:
 
-I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del Juzgador en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones de la persona Juzgadora en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y
 
 II. Revisar, en el caso de las personas Titulares de las Secretarías de Juzgados Penales, que se lleve a cabo la notificación de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
 
 III. Las demás que la Ley o las y los Jueces les encomienden, relativas a asuntos de la oficina.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 84.
 
-Quienes ejerzan como conciliadores tendrán las atribuciones y obligaciones siguientes:
+Quienes ejerzan como personas conciliadoras tendrán las atribuciones y obligaciones siguientes:
 
 I. Estar presentes en la audiencia de conciliación, escuchar las pretensiones de las partes y procurar de manera eficiente su avenencia;
 
-II. Dar cuenta de inmediato al titular del Juzgado del convenio al que hubieren llegado los interesados para efectos de su aprobación, en caso de que proceda, y diariamente informar al Juzgador de los resultados logrados en las audiencias de conciliación que se les encomienden;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Dar cuenta de inmediato a la persona Juzgadora del convenio al que hubieren llegado los interesados para efectos de su aprobación, en caso de que proceda, y diariamente informar a la persona Juzgadora de los resultados logrados en las audiencias de conciliación que se les encomienden;
 
 III. Autorizar las diligencias en que intervengan y dar fe de las resoluciones pronunciadas en ellas por quien ostente la titularidad del órgano jurisdiccional;
 
-IV. Sustituir al Titular de la Secretaría de Acuerdos en sus ausencias temporales,
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Sustituir a la persona Titular de la Secretaría de Acuerdos en sus ausencias temporales;
 
 > <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
 
@@ -1218,9 +1432,17 @@ V. Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos
 
 VI. Auxiliar a la o al Secretario de Acuerdos a realizar aquellas certificaciones inherentes a la función de dichas personas servidoras públicas; las personas auxiliares de los Secretarios Instructores, actuarán de conformidad con la Ley Federal del Trabajo;
 
-VII. Preparar adecuada y eficientemente todo lo concerniente a la audiencia de conciliación y dar cuenta al Juzgador por lo menos con tres días de anticipación a la celebración de la misma; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Las demás que su superior jerárquico y esta Ley les encomienden, incluyendo emplazamientos y notificaciones.
+VII. Preparar adecuada y eficientemente todo lo concerniente a la audiencia de conciliación y dar cuenta a la persona Juzgadora por lo menos con tres días de anticipación a la celebración de la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Intervenir en las audiencias preliminares, en la etapa de conciliación y/o mediación, para la solución de asunto a través de un mecanismo alternativa, si así lo ordena la persona juzgadora; y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. Las demás que la persona superior jerárquica y esta Ley les encomienden, incluyendo emplazamientos y notificaciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
 
@@ -1240,9 +1462,11 @@ IV. En caso de existir imposibilidad para practicar las diligencias ordenadas, d
 
 La o el Secretario Auxiliar Actuario de Sala tendrá las mismas obligaciones referidas en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 86.
 
-Las y los Secretarios de Actuarios deberán llevar un libro debidamente autorizado para su uso, donde asienten diariamente las actuaciones y notificaciones que lleven a cabo con expresión de:
+Las personas Secretarias Actuarias y Notificadoras deberán llevar un libro debidamente autorizado para su uso, donde asienten diariamente las actuaciones y notificaciones que lleven a cabo con expresión de:
 
 I. La fecha en que reciben el expediente respectivo;
 
@@ -1254,9 +1478,11 @@ IV. La fecha en que haya practicado la diligencia, notificación o acto que deba
 
 V. La fecha de devolución del expediente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 87.
 
-Son obligaciones de las y los Secretarios Proyectistas, de cuantía menor, primera instancia y segunda instancia, así como de las personas Secretarias de Acuerdos de Justicia Oral Civil:
+Son obligaciones de las personas Secretarias Proyectistas, de primera y segunda instancia, así como personas Secretarias de Acuerdos de Justicia Oral Civil y Familiar, además de las señaladas con anterioridad:
 
 I. Elaborar proyectos de sentencia o resolución en el término señalado por su Titular que permita a este último su oportuna revisión, así como acatar de manera inmediata las instrucciones y observaciones hechas a sus proyectos.
 
@@ -1268,27 +1494,31 @@ III. En la elaboración de proyectos de sentencias o resoluciones, considerar la
 
 IV. Las demás que deriven de la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 88.
 
-Para los efectos de esta Ley, el Consejo de la Judicatura, con base en los estudios correspondientes determinará el número de Juzgados por las materias señaladas, en función de las cargas de trabajo que cada uno tenga que desahogar.
+Para los efectos de esta Ley, el Consejo de la Judicatura, con base en los estudios correspondientes determinará el número de Órganos Jurisdiccionales, personas Juzgadoras, Tribunales Laborales o Modelos de Gestión Judicial con Unidades de Gestión para las distintas materias, en función de las cargas de trabajo que se tengan que desahogar.
 
 Las y los Jueces podrán facultar a las y los pasantes de derecho que laboren en el juzgado respectivo, para practicar notificaciones personales a excepción del emplazamiento.
 
 ### CAPÍTULO III. EL PROCESO ORAL EN MATERIA FAMILIAR
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 89.
 
-Las y los Jueces de Proceso Oral en materia Familiar, además, tendrán a su cargo, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos dispuestos en el Código de Procedimientos respectivo, Nacional o vigente en la Ciudad de México.
+Las personas Juzgadoras de Proceso Oral Familiar, además, tendrán a su cargo, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos dispuestos en el Código de Procedimientos Civiles respectivo.
 
 ###### Artículo 90.
 
 Las y los Jueces de Proceso Oral en materia Familiar podrán habilitar a las personas servidoras públicas adscritos (sic) a sus juzgados para que, cuando las necesidades del servicio así lo requieran, auxilien a la Central de Comunicaciones Procesales, dando constancia del cumplimiento de las órdenes de visitas para convivencia y entregas y regreso de menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 91.
 
-Además de las aplicables para las y los Secretarios de Acuerdos y de las y los Secretarios Auxiliares, son obligaciones de las y los Secretarios Judiciales de Proceso Oral en materia Familiar:
+Además de las aplicables para las personas Secretarias de Acuerdos y de las personas Secretarias Auxiliares antes citadas, son obligaciones de las personas Secretarias Judiciales de Proceso Oral en materia Familiar:
 
 I. Dirigir la junta anticipada, en los términos dispuestos en el Código de Procedimientos Civiles vigente en la Ciudad de México;
 
@@ -1308,29 +1538,45 @@ VIII. Certificar y dar constancia del cumplimiento de las partes en las órdenes
 
 IX. Las demás que determine la normatividad aplicable y el Juzgador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 92.
 
-Las y los Secretarios Auxiliares de Juzgado de Proceso Oral en materia Familiar, asistirán a las o los Secretarios Judiciales en el desempeño de sus funciones y de las obligaciones consignadas en las fracciones II, V, VI, VII y XI del artículo 81, teniendo además, las siguientes obligaciones:
+Las personas Secretarias Auxiliares adscritas a las Órganos Jurisdiccionales y Unidades de Gestión en materia Familiar, asistirán a las o los Secretarios Judiciales en el desempeño de sus funciones y de las obligaciones consignadas en las fracciones II, III, VII, VIII y X del artículo 82, que sean compatibles y, además, las siguientes obligaciones:
 
-I. Preparar los proyectos de acuerdo que recaigan en los asuntos de nuevo ingreso que sean turnados a la atención y trámite del Juzgado;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Asistir al Secretario Judicial en la atención y trámite inmediato a los juicios de amparo interpuestos, elaborando los proyectos de informe que ordene la autoridad federal, así como en la integración y despacho de las constancias correspondientes;
+I. Preparar los proyectos de acuerdo que recaigan en los asuntos de nuevo ingreso que sean turnados a la atención y trámite del órgano jurisdiccional o la Unidad de Gestión de que se trate;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Asistir a las personas Secretarias Judiciales en la atención y trámite inmediato a los juicios de amparo interpuestos, elaborando los proyectos de informe que ordene la autoridad federal, así como en la integración y despacho de las constancias correspondientes;
 
 III. Preparar los proyectos de acuerdo que recaigan a las promociones y solicitudes presentadas por los justiciables fuera de las audiencias orales;
 
-IV. Dar aviso a la o el Juez Secretario Secretaria Judicial de las notificaciones practicadas en la sede del juzgado tanto, como de aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juzgador, en términos del artículo 87 de esta Ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V. Dar fe y constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que la o el Juez así lo ordene;
+IV. Dar aviso a la o el Juez, Secretario, Secretaria Judicial de las notificaciones practicadas en la sede del órgano jurisdiccional tanto, como de aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa de la o el Juez, en términos del artículo 87 de esta Ley;
 
-VI. Cuidar y vigilar que el archivo se arregle por orden alfabético, de apellidos del actor o del promovente en asuntos de jurisdicción voluntaria; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Dar fe y constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de niñas, niños y adolescentes, en los casos en que el o la persona Juzgadora así lo ordene;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Cuidar y vigilar que el archivo se arregle por orden alfabético, de apellidos de la persona actora o de la persona promovente en asuntos de jurisdicción voluntaria; y
 
 VII. Las demás que determinen la o el Juez o la persona Secretaria y la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 93.
 
-Las comunicaciones procesales ordenadas por las Juezas o los Jueces de Proceso Oral en materia Familiar, y que en términos de ley deban realizarse de manera personal, serán practicadas por la Central de Comunicaciones Procesales, por conducto de su plantilla de Oficiales Notificadores.
+Las comunicaciones procesales ordenadas por las personas juzgadoras de Proceso Oral en materia Familiar, y que en términos de ley deban realizarse de manera personal, serán practicadas por la Central de Comunicaciones Procesales, por conducto de su plantilla de Oficiales Notificadores.
 
-Las personas que ostenten la función de Oficiales Notificadores estarán obligados a asistir diariamente a la Central de Comunicaciones Procesales en el horario previsto, y tendrán bajo su responsabilidad:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas que ostenten la función de Oficiales Notificadores estarán obligadas a asistir diariamente a la Central de Comunicaciones Procesales en el horario previsto, y tendrán bajo su responsabilidad:
 
 I. Recibir diariamente la asignación del turno de notificación que le corresponda, haciendo constar fecha y hora exacta de su recepción en el registro respectivo;
 
@@ -1340,15 +1586,21 @@ III. Presentar las constancias de las diligencias de notificación realizadas a 
 
 IV. Llevar el registro de las diligencias practicadas, cubriendo como mínimo los datos señalados en el artículo 85 de esta Ley;
 
-V. Realizar la entrega de oficios, exhortos, informes y demás documentos cuya tramitación sea ordenada por los jueces de proceso oral en materia familiar;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Realizar la entrega de oficios, exhortos, informes y demás documentos cuya tramitación sea ordenada por las personas juzgadoras de proceso oral en materia familiar;
 
 VI. Rendir a la Central de Comunicaciones Procesales los informes que ésta le requiera, relativos a su gestión;
 
 VII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos ordenados por la autoridad jurisdiccional, para lo cual todos los días y las horas se tendrán por hábiles; y
 
-VIII. La (sic) demás que determinen la Ley, el Consejo, el Titular de la Central de Comunicaciones, y la normatividad aplicable.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Quedará inhabilitado para asumir el cargo de Oficial Notificador quien haya sido condenado por delito que amerite pena corporal de más de un año de prisión, y cualquiera que haya sido la pena en caso de que se trate de robo, fraude, falsificación, abuso de confianza u cualquier otro que lastime seriamente la buena fama en el concepto público. De igual forma quedará impedido en el caso de haber sido sancionado con inhabilitación administrativa por incurrir en responsabilidad durante el ejercicio del servicio público, sin importar la gravedad de la falta.
+VIII. Las demás que determinen la Ley, el Consejo, la persona Titular de la Central de Comunicaciones, y la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Quedará inhabilitada para asumir el cargo de Oficial Notificador la persona que haya sido condenada por delito que amerite pena corporal de más de un año de prisión, y cualquiera que haya sido la pena en caso de que se trate de robo, fraude, falsificación, abuso de confianza u cualquier otro que lastime seriamente la buena fama en el concepto público. De igual forma quedará impedida en el caso de haber sido sancionada con inhabilitación administrativa por incurrir en responsabilidad durante el ejercicio del servicio público, sin importar la gravedad de la falta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1366,7 +1618,9 @@ c) Auxiliar a los Juzgados de Proceso Oral en materia Familiar en la digitalizac
 
 d) Auxiliar a los Juzgados de Proceso Oral en materia Familiar en el trámite y remisión de expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos, conforme a los lineamientos marcados en esta ley;
 
-e) Supervisar la adecuada, oportuna y eficientemente (sic) preparación de las salas de audiencia oral para llevar a cabo las audiencias programadas por los Juzgados de Proceso Oral en materia Familiar;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+e) Supervisar la adecuada, oportuna y eficiente preparación de las salas de audiencia oral para llevar a cabo las audiencias programadas por los Órganos Jurisdiccionales de Proceso Oral en materia Familiar;
 
 f) El control de agenda y asignación de las salas de audiencia oral;
 
@@ -1406,7 +1660,9 @@ h) Rendir a la Unidad de Gestión Judicial los informes que ésta le requiera;
 
 i) Diseñar y proponer al Director General de Gestión Judicial los mecanismos que hagan más eficiente el desarrollo de sus funciones; y
 
-j) La (sic) demás que determinen el Presidente del Tribunal y al (sic) Director General de Gestión Judicial.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+j) Las demás que determinen el Presidente del Tribunal y el Director General de Gestión Judicial.
 
 ###### Artículo 95.
 
@@ -1536,15 +1792,19 @@ El Tribunal de Alzada resolverá de manera colegiada, respecto a las sentencias 
 
 (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 105.
 
-Las y los Jueces de lo Civil de Proceso Oral conocerán:
+Las personas Juzgadoras adscritas a los Juzgados Civil de Proceso Oral conocerán:
 
 > <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el Código de Procedimientos Civiles vigente en la Ciudad de México establezca para que un juicio sea apelable, cantidad que se actualizará en términos de lo dispuesto por el artículo 691 del Código de Procedimientos Civiles vigente en la Ciudad de México;
 
-II. De los juicios que versen sobre derechos personales de naturaleza civil, cuya suerte principal sea inferior a la cantidad que el Código de Procedimientos Civiles vigente en la Ciudad de México establezca para que un juicio se (sic) apelable, cantidad que se actualizará en los términos en (sic) esta Ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. De los juicios que versen sobre derechos personales de naturaleza civil, cuya suerte principal sea inferior a la cantidad que el Código de Procedimientos Civiles vigente en la Ciudad de México establezca para que un juicio sea apelable, cantidad que se actualizará en los términos de esta Ley;
 
 III. De los negocios de jurisdicción concurrente sin limitación de cuantía, previstos en el artículo 1390 Bis del Código de Comercio;
 
@@ -1576,21 +1836,331 @@ II. De la notificación que deberán realizar de manera inmediata a los Agentes 
 
 III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 107.
 
-Los Juzgados a que se refieren (sic) este Capítulo, para el despacho de los negocios, contarán con las personas servidoras públicas de la administración de justicia que fije el presupuesto.
+Los Órganos Jurisdiccionales a que se refiere este Capítulo, para el despacho de los negocios, contarán con las personas servidoras públicas de la administración de justicia que fije el presupuesto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+Asimismo, conforme a las disposiciones que emita el Consejo de la Judicatura y atendiendo a la disponibilidad presupuestal, para el apoyo de las funciones de los órganos jurisdiccionales Civiles de Proceso Oral, podrán contar con el apoyo de las Unidades de Gestión Judicial.
 
-Asimismo, conforme a las disposiciones que emita e l (sic) Consejo de la Judicatura y atendiendo a la disponibilidad presupuestal, para el apoyo de las funciones jurisdiccionales los Juzgados Civiles de Proceso Oral, podrán contar con una Unidad de Gestión Judicial para Juzgados Orales Civiles, dependiente de la Dirección General de Gestión Judicial, cuya persona titular contará con fe pública en la emisión de actos de su competencia.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO I. DE LAS AUSENCIAS DE LAS MAGISTRADAS Y LOS MAGISTRADOS
+### CAPÍTULO VII. DE LA JUSTICIA CIVIL Y FAMILIAR EN TÉRMINOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis.
+
+Las personas Juzgadoras Civiles y Familiares a que se refiere este capítulo, para el despacho de los asuntos de su competencia, contarán con el apoyo de las Unidades de Gestión Judicial, quienes serán identificados administrativamente con el número progresivo que asigne el Consejo de la Judicatura.
+
+Asimismo, en las condiciones que autorice el Consejo de la Judicatura podrán actuar en forma itinerante, presencial o virtualmente, dentro de la Ciudad de México, en los asuntos de su competencia que se autoricen, independientemente de que deban continuar o concluir en la sede de las oficinas judiciales asignadas.
+
+En la Ciudad de México habrá el número de personas Juzgadoras que el Consejo de la Judicatura considere necesarias para que la administración de justicia sea pronta, completa e imparcial. Asimismo, podrá definir el número y especialización de las personas Juzgadoras, de conformidad con las necesidades y el presupuesto con el que se cuente.
+
+Las personas Juzgadoras, de acuerdo a la materia en que se especialicen, podrán definir precedentes procesales horizontales vinculantes entre ellos, conforme a las disposiciones que al efecto establezca el Consejo de la Judicatura, quienes contarán con la fe pública y facultades para suscribir por sí solas las resoluciones que emitan, así como las audiencias y diligencias propias de los expedientes.
+
+El Consejo de la Judicatura, conforme a las disposiciones del Código Nacional de Procedimientos Civiles y Familiares, podrá autorizar la integración de Órganos Jurisdiccionales digitales, integrados por personas Juzgadoras Civiles o Familiares, especializadas en los asuntos de su competencia. Asimismo, en la Unidad de Gestión Judicial que se designe por el Consejo de la Judicatura, se contará con un área de gestión digital para el apoyo de este Órgano Jurisdiccional y sus personas Juzgadoras.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+1. La función jurisdiccional en materia civil y familiar en términos del Código Nacional de Procedimientos Civiles y Familiares, estará a cargo de:
+
+A. Para materia Civil:
+
+I. Personas Juzgadoras de etapa postulatoria y tramite escrito.
+
+II. Personas Juzgadoras de Etapa de audiencias preliminares, especiales, incidentales y de Juicio.
+
+III. Personas Juzgadoras de Ejecución.
+
+IV. Personas Juzgadoras de Exhortos.
+
+V. Personas Juzgadoras de cualquier otra especialización que determine el Consejo de la Judicatura.
+
+B. Para materia Familiar:
+
+I. Personas Juzgadoras de etapa postulatoria y tramite escrito.
+
+II. Personas Juzgadoras de Etapa de audiencias preliminares, especiales, incidentales y de Juicio.
+
+III. Personas Juzgadoras de Ejecución.
+
+IV. Personas Juzgadoras de Exhortos
+
+V. Personas Juzgadoras de cualquier otra especialización que determine el Consejo.
+
+El apoyo judicial para las personas Juzgadoras se ejercerá por conducto de las Unidades de Gestión Judicial.
+
+En el caso ausencia de la persona Juzgadora, temporal o permanente, los asuntos serán atendidos por otra persona Juzgadora que preferentemente forme parte de la misma Unidad de Gestión Judicial, de conformidad a lo que establezca el Consejo de la Judicatura, hasta en tanto sea designada otra persona por dicho órgano colegiado o regrese la persona titular.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+2. Las Personas Juzgadoras apoyadas por Unidades de Gestión Judicial, tendrán las siguientes atribuciones:
+
+I. Conocer, analizar y dominar los asuntos que les sean turnados por la Unidad de Gestión Judicial.
+
+II. Presidir y celebrar oportunamente las audiencias de los asuntos de su competencia y dar fe de las actuaciones de las mismas.
+
+III. Emitir oralmente, dentro del sistema de audiencias o, en su defecto, suscribir, las resoluciones de los asuntos de su competencia.
+
+IV. Las demás que establezca la presente Ley Orgánica, el Código Nacional de Procedimientos Civiles y Familiares y las demás leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+3. Las Personas Juzgadoras de Proceso Oral Civil, conforme al Código Nacional de Procedimientos Civiles y Familiares, conocerán:
+
+I. De todos los juicios contenciosos que versen sobre la propiedad o demás derechos reales.
+
+II. De todos los juicios que versen sobre derechos personales de naturaleza civil.
+
+III. De los negocios de jurisdicción concurrente sin limitación de cuantía, previstos en el artículo 1390 Bis del Código de Comercio.
+
+IV. De los medios preparatorios a juicio, de la designación de apoyos extraordinarios prejudiciales, de las providencias precautorias y de las medidas de aseguramiento relacionados con los juicios que son de su competencia, en términos de las fracciones anteriores.
+
+V. De los procedimientos de jurisdicción voluntaria en materia civil.
+
+VI. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con materia civil y mercantil; bajo la adscripción de la Unidad de Gestión de Exhortos y conforme a los lineamientos que al efecto determiné el Consejo de la Judicatura.
+
+VII. De los juicios ejecutivos mercantiles orales.
+
+VII (SIC). De los Juicios Hipotecarios Orales, del Juicio Especial de Arrendamiento inmobiliario Oral, del Juicio Ejecutivo Civil Oral y del procedimiento Especial de Inmatriculación Judicial Oral.
+
+VIII. De la acción de nulidad de Juicio Concluido en materia civil y mercantil.
+
+IX. De la Vía de Apremio y de la Ejecución de Sentencia, cuya competencia corresponderá a los Jueces de ejecución en materia civil.
+
+X. De la cooperación procesal y ejecución de sentencias, laudos y resoluciones dictadas en el extranjero, cuya competencia corresponderá a los Jueces de Ejecución.
+
+XI. Juicio Oral Sumario Civil.
+
+XII. Del Concurso de Acreedores.
+
+XIII. De la designación de apoyos extraordinarios para el ejercicio de la capacidad jurídica, así como las salvaguardias necesarias, a la luz del Código Nacional de Procedimientos Civiles y Familiares, en los asuntos de su competencia.
+
+XIV. Los demás que establezcan las leyes.
+
+XV. De aquellas acciones o vías que el Consejo de la Judicatura determine mediante Acuerdo Plenario.
+
+Los procedimientos de su competencia podrán tramitarse en línea o a través del uso de tecnologías de la información conforme el principio de equivalencia funcional del documento electrónico, en términos de los lineamientos que al efecto emita el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+4. Las personas Juzgadoras en materia Familiar, conocerán de lo que disponga el Código Nacional de Procedimientos Civiles y Familiares:
+
+I. De los procedimientos de jurisdicción voluntaria y actos prejudiciales, relacionados con el derecho familiar.
+
+II. De los juicios relativos al matrimonio y su nulidad o ilicitud; de divorcio y a sus consecuencias inherentes a éste; así como lo relacionado al régimen de bienes en el matrimonio; que tengan por objeto modificaciones o rectificaciones de las actas del Registro Civil que no sea competencia de la autoridad administrativa; que afecten al parentesco, al estado de familia, a la maternidad y paternidad y a la filiación; que tengan por objeto cuestiones derivadas del ejercicio o pérdida de la patria potestad, así como de tutela y declaración de ausencia y de la especial para personas desaparecidas en la Ciudad de México, así como de presunción de muerte, y que se refieran a cualquier cuestión relacionada con el patrimonio de familia, con su constitución, disminución, extinción o afectación en cualquier forma.
+
+III. De los alimentos; guarda y custodia y régimen de visitas y convivencias;
+
+IV. De la designación de apoyos extraordinarios para el ejercicio de la capacidad jurídica, así como las salvaguardias necesarias, a la luz del Código Nacional de Procedimientos Civiles y Familiares, en los asuntos de su competencia.
+
+VI (SIC). De los asuntos judiciales concernientes a otras acciones relativas al estado civil y a las derivadas del parentesco.
+
+VII. De las diligencias de consignación en todo lo relativo a la materia familiar, sin perjuicio de la competencia de la Oficina Central de Consignaciones Civiles.
+
+VIII. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con el orden familiar, con excepción de la ejecución de sentencias; bajo la adscripción de la Unidad de Gestión de Exhortos y conforme a los lineamientos que al efecto determine el Consejo de la Judicatura;
+
+IX. De la Vía de Apremio y de la Ejecución de Sentencia en materia familiar, cuya competencia corresponderá a los Jueces de ejecución, quienes también conocerán de los incidentes a que se refiere el artículo 683, primer párrafo, del Código Nacional de Procedimientos Civiles y Familiares.
+
+X. En general, todas las cuestiones familiares que reclamen la intervención judicial y las demás que establezcan las leyes.
+
+XI. De aquellas acciones o vías que el Consejo de la Judicatura determine mediante Acuerdo Plenario.
+
+Los procedimientos de su competencia podrán tramitarse en línea o a través del uso de tecnologías de la información aprovechando el principio de equivalencia funcional del documento electrónico, conforme a los Lineamientos que al efecto emita el Consejo de la Judicatura, sin perjuicio, de que, por la naturaleza de la materia, se tengan que tramitar determinadas diligencias presencialmente, entre otras el diálogo con niños, niñas y adolescentes.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+5. Las Unidades de Gestión Judicial en materia Civil y Familiar apoyarán a las personas Magistradas y a las personas Juzgadoras en dichas materias, conforme a la estructura, organización y facultades específicas que defina el Consejo de la Judicatura a través de Acuerdos Generales, con personal tanto de carrera judicial como administrativo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+6. Las personas Secretarias de Acuerdos titulares de las Unidades de Gestión Judicial tanto en materia Civil como Familiar, para la instrumentación de los procedimientos ordenados en el Código Nacional de Procedimientos Civiles y Familiares, tendrán las siguientes facultades:
+
+I. Vigilar que por si o a través del personal a su cargo, se dé cuenta y se elaboren los proyectos de resoluciones respecto de los asuntos encomendados a las Unidades de Gestión Judicial para la aprobación y firma de las personas juzgadoras.
+
+II. Garantizar que por sí o a través del personal a su cargo facultado para ello, se firmen las comunicaciones, oficios, exhortos y demás documentos ordenados por la persona Juzgadora, en asuntos de su competencia.
+
+III. Tendrán fe pública y todas las facultades para firmar oficios, documentos, hacer trámites y gestiones que, por su naturaleza, no requieran la intervención de una persona Juzgadora fuera de audiencia y que preparen el asunto para que se resuelva por la persona Juzgadora competente en las audiencias respectivas.
+
+IV. Expedir por sí o a través del personal facultado para ello, las copias certificadas autorizadas y necesarias para el ejercicio de sus atribuciones.
+
+V. Coordinar a través del personal a su cargo, la atención en los trámites administrativos y jurisdiccionales autorizados por la persona Juzgadora, en asuntos de su competencia, ya sea que se refiera a negocios judiciales o al desahogo de los oficios que se manden librar en las determinaciones respectivas, dictadas en los expedientes.
+
+VI. Ejercer todas las atribuciones señaladas en la presente Ley Orgánica, el Código Nacional de Procedimientos Civiles y Familiares y otras leyes.
+
+VII. Vigilar que por sí o a través del personal facultado para ello, se suscriban y emitan resoluciones escritas de trámite y que pongan los asuntos en condiciones para atenderse y resolverse en las audiencias que celebren las personas Juzgadoras, así como cualquier actuación de carácter administrativo dentro de los procedimientos jurisdiccionales a su cargo, en términos del Código Nacional de Procedimientos Civiles y Familiares.
+
+VIII. Garantizar el resguardo de las salas de audiencias donde despachan las personas juzgadoras.
+
+IX. Coordinar las acciones necesarias para la operación del sistema de gestión, en los términos que apruebe el Pleno del Consejo de la Judicatura.
+
+X. Dirigir los trabajos y supervisar el desempeño del personal a su cargo, así como ejercer bajo su responsabilidad, por sí mismo o por conducto de las personas servidoras públicas judiciales que designe, la vigilancia que sea necesaria en la oficina, para evitar la pérdida o extravío de expedientes, estableciendo los controles que sean necesarios.
+
+XI. Vigilar el cumplimiento del rol de turnos de las personas Juzgadoras; y demás personal adscrito a la Unidad de Gestión Judicial.
+
+XII. Guardar el debido secreto respecto de los asuntos que por su oficio o puesto tenga conocimientos.
+
+XIII. Vigilar que el personal a su cargo guarde el debido secreto respecto de los asuntos que por su oficio o puesto tengan conocimiento.
+
+XIV. Vigilar la correcta y eficiente aplicación de los recursos asignados a su Unidad de Gestión Judicial, conforme a la normatividad aplicable.
+
+XV.- Dar Vista a las autoridades competentes, cuando advierta de conductas del personal a su cargo que ameriten medidas disciplinarias.
+
+XVI. Vigilar que la información relativa a su Unidad de Gestión Judicial, se mantenga actualizada y proveerla a las áreas del Tribunal Superior de Justicia y del Consejo de la Judicatura que la requieran con motivo del cumplimiento de sus funciones.
+
+XVII. Mantener en continua capacitación al personal bajo su dirección.
+
+XVIII. Coordinar y controlar la ubicación, y distribución adecuación del personal, acorde con sus perfiles, competencias y naturaleza profesional.
+
+XIX. Garantizar que se lleve a cabo la certificación y constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos ordenados por la autoridad jurisdiccional, para lo cual todos los días y las horas se tendrán por hábiles.
+
+XX. Tener a su cargo, bajo su responsabilidad y debidamente autorizados para su uso, los libros de control electrónicos de la Unidad de Gestión Judicial, designando, de entre las personas servidoras públicas judiciales de la misma, a quien debe llevarlos.
+
+XXI. Conservar en su poder el sello físico con que cuente la Unidad de Gestión Judicial para aquellos asuntos que excepcionalmente lo amerite.
+
+XXII. Las demás que deriven del Código Nacional de Procedimientos Civiles y Familiares, la presente Ley Orgánica, otras leyes, aquellas que le instruya el Pleno del Consejo, así como su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+7. Cuando se trate de asuntos que se resuelvan conforme a las disposiciones del Código Nacional de Procedimientos Civiles y Familiares, las personas Secretarias de Acuerdos o Secretarias Judiciales adscritas a las Unidades de Gestión Judicial, tendrán las facultades siguientes:
+
+I. Formular los proyectos de acuerdo o, en su caso, dictar resoluciones de mero trámite, cuando sean auxiliares de las Personas Juzgadoras.
+
+II. Dar cuenta diariamente a la persona juzgadora correspondiente, bajo su responsabilidad y dentro de las veinticuatro horas siguientes a su presentación, con las promociones que reciba física o electrónicamente, en los negocios de la competencia de aquélla, así como de los oficios y demás documentos que se reciban y de manera inmediata cuando se trate de asuntos urgentes.
+
+III. Autorizar y dar fe de actas, diligencias, autos y toda clase de resoluciones que se expidan asienten, practiquen o dicten por la persona Juzgadora, en asuntos de su competencia.
+
+IV. Autorizar con su firma electrónica avanzada, las resoluciones de cualquier clase, dictadas por las autoridades jurisdiccionales.
+
+V. Asentar en los expedientes las certificaciones que procedan conforme a la ley o que la persona juzgadora ordena; y, al proveer sobre un escrito de demanda, contestación o reconvención de manera física o electrónica, deberá cotejar que las copias exhibidas o las que se contienen en los archivos del dispositivo de almacenamiento correspondan a los documentos exhibidos como pruebas.
+
+VI. Asistir a las personas juzgadoras en todo tipo de diligencias que deban realizarse de acuerdo con las leyes aplicables;
+
+VII. Expedir las copias certificadas autorizadas y necesarias que la ley determine o deban darse a las partes en virtud de decreto judicial.
+
+VIII. Vigilar la debida integración del expediente electrónico, cuidando que su incorporación al repositorio del sistema se lleve a cabo de manera completa y cronológica. Asimismo, cuando excepcionalmente sea necesario integrar expedientes físicos, deberá cuidar que dichos documentos se encuentren debidamente digitalizados e integrados al expediente electrónico en el repositorio del sistema.
+
+IX. Guardar en el secreto de la Unidad de Gestión Judicial los pliegos, escritos o documentos y valores cuando así lo disponga la ley.
+
+X. Llevar el registro de todos los expedientes electrónicos que se encuentren bajo su responsabilidad debiendo cuidar la integridad de las actuaciones. Para el caso de remisión de expedientes electrónicos a otra Unidad de Gestión Judicial o a las Salas del Tribunal Superior de Justicia que corresponda, se deberá vigilar que exista coincidencia en las actuaciones. Cuando se trate de expedientes electrónicos que deban remitirse a cualquier otra autoridad competente, verificar que su remisión se realice de manera íntegra, previo los registros pertinentes.
+
+XI. Hará constar oralmente en el registro respectivo, al inicio de las audiencias, la fecha, hora y el lugar de su realización, datos del asunto y el nombre de quien preside la audiencia;
+
+XII. Certificar el medio en donde se encuentren registradas las audiencias respectivas e identificar dicho medio con el número de expediente.
+
+XIII. Vigilar que las audiencias queden debidamente registradas en audio y video en los dispositivos de almacenamiento tecnológico autorizados por el Consejo. Para el caso de que dichos registros se encuentren dañados, dar cuenta inmediata a la persona juzgadora correspondiente, para que provea lo que en derecho proceda. Asimismo, supervisar que el personal de la Unidad de Gestión Judicial y toda aquella que tenga autorización para acceder al audio y video de las audiencias, de buen uso a las mismas.
+
+XIV. Expedir a las partes que lo soliciten copia certificada, a su costa, de los registros de audio y video, asegurándose que estén disponibles para su consulta, desde el momento en que concluya la audiencia.
+
+XV. Notificar personalmente a las partes, en los juicios o asuntos que se sustancian en la Unidades de Gestión Judicial correspondiente, en los términos del Código Nacional de Procedimientos Civiles y Familiares.
+
+XVI. Cuidar y vigilar que el archivo de la Unidad de Gestión Judicial, ya sea físico o electrónico, se organice en términos de la normatividad aplicable en la materia.
+
+XVII.- Cuando expedientes electrónicos se encuentren concluidos y se considere que son susceptibles de destrucción o remisión al Archivo Judicial, llevará a cabo todas las gestiones correspondientes conforme a la normativa aplicable. Para el caso excepcional en que se integren expedientes físicos, deberá remitirlos según proceda, al Archivo Judicial, o autoridad competente, previo registro en sus respectivos casos, conforme a la normatividad en la materia.
+
+XVIII. Suscribir y emitir resoluciones escritas de trámite y que pongan los asuntos en condiciones para atenderse y resolverse en las audiencias que celebren las personas Juzgadoras, así como cualquier actuación de carácter administrativo dentro de los procedimientos jurisdiccionales a su cargo en términos del Código Nacional de Procedimientos Civiles y Familiares.
+
+XIX. Operar el sistema de gestión, en los términos que apruebe el Pleno del Consejo de la Judicatura.
+
+XX. Dirigir los trabajos y supervisar el desempeño del personal a su cargo.
+
+XXI. Aplicar correctamente los recursos asignados a la Unidad de Gestión Judicial, conforme a la normatividad aplicable.
+
+XXII. Atender el rol de turnos al personal de la Unidad de Gestión Judicial a su cargo, a fin de que se reparta equitativamente.
+
+XXIII. Guardar el debido secreto respecto de los asuntos que por su oficio o puesto tenga conocimientos.
+
+XXIV. Vigilar que el personal a su cargo guarde el debido secreto respecto de los asuntos que por su oficio o puesto tengan conocimiento.
+
+XXV. Informar a la persona titular de la Unidad de Gestión Judicial, de las conductas del personal a su cargo, que pudieran ameritar alguna medida disciplinaria.
+
+XXVI. Supervisar que la información propia del área a su cargo se mantenga actualizada.
+
+XXVII. Las demás que deriven del Código Nacional de Procedimientos Civiles y Familiares, la presente Ley Orgánica, otras leyes y aquellas que le instruya el Pleno del Consejo, así como su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+8. Las personas Secretarias Proyectistas o Secretarias Auxiliares adscritas a las Unidades de Gestión Judicial que apliquen el Código Nacional de Procedimientos Civiles y Familiares, tendrán las siguientes atribuciones:
+
+I. Elaborar los proyectos de resoluciones respecto de los asuntos encomendados.
+
+II. Gestionar la elaboración de oficios, exhortos y demás documentos que le sean turnados.
+
+III. Gestionar la integración de las copias autorizadas.
+
+IV. Elaborar por sí o a través del personal a su cargo, las resoluciones escritas de trámite, así como cualquier actuación de carácter administrativo que le sea encomendada.
+
+V. Brindar el apoyo para la celebración de las audiencias.
+
+VI. Operar el sistema de gestión, en los términos aprobados por el Pleno del Consejo.
+
+VII. Dirigir los trabajos y supervisar el desempeño del personal a su cargo.
+
+VIII. Aplicar correctamente los recursos asignados a la Unidad de Gestión Judicial, conforme a la normatividad aplicable.
+
+IX. Atender el rol de turnos del personal de la Unidad de Gestión Judicial, a fin de que se reparta equitativamente.
+
+X. Guardar el debido secreto respecto de los asuntos que por su oficio o puesto tenga conocimientos.
+
+XI. Vigilar que el personal a su cargo guarde el debido secreto respecto de los asuntos que por su oficio o puesto tengan conocimiento.
+
+XII. Informar de las conductas del personal a su cargo, que pudieran ameritar alguna medida disciplinaria.
+
+XIII. Mantener actualizada la información que le corresponda registrar.
+
+XIV. Las demás que deriven del Código Nacional de Procedimientos Civiles y Familiares, la presente Ley Orgánica y otras leyes, aquellas que le instruya el Pleno del Consejo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 107 Bis
+
+9. Las personas Secretarias Actuarias y Notificadoras que apliquen el Código Nacional de Procedimientos Civiles y Familiares, tendrán las siguientes obligaciones:
+
+I. Concurrir diariamente a su Área de adscripción en el horario previsto.
+
+II. Recibir diariamente la asignación del turno de notificaciones, emplazamientos, requerimientos o ejecuciones que les correspondan, haciendo constar fecha y hora exacta de su recepción en el registro respectivo.
+
+III. Practicar las notificaciones personales, emplazamientos, requerimientos o ejecuciones que les sean asignadas, en términos de la normatividad aplicable.
+
+IV. Presentar las constancias de las diligencias de notificaciones personales, emplazamientos, requerimientos o ejecuciones realizadas, a la Central de Notificadores, haciendo constar la fecha y hora exacta de entrega recepción en la Central, mediante el asiento del reloj checador.
+
+V. Llevar el registro de las diligencias practicadas, en términos de la normativa que resulte aplicable.
+
+VI. Realizar la entrega de oficios, exhortos, informes y demás documentos cuya tramitación sea ordenada por las personas juzgadoras a las que presten apoyo.
+
+VII. Rendir a la Central de Notificaciones y Ejecutores los informes que ésta le requiera, relativos a su gestión.
+
+VIII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos ordenados por la persona Juzgadora, para lo cual todos los días y las horas se tendrán por hábiles.
+
+IX. En caso de existir imposibilidad para practicar las diligencias ordenadas, deberá asentar razón de ello y devolver las actuaciones dentro los plazos previstos en la legislación aplicable.
+
+X. La persona Secretaria Auxiliar Actuaria de Sala tendrá las mismas obligaciones referidas en las fracciones anteriores.
+
+XI. Las demás que determinen la Ley, el Consejo, la persona Titular de la Central de Notificadores y Ejecutores según corresponda, así como la normatividad aplicable.
+
+Quedará inhabilitada para asumir el cargo de persona Secretaria Actuaria y/o Notificadora quien haya sido condenada por delito que amerite pena corporal de más de un año de prisión, y cualquiera que haya sido la pena en caso de que se trate de robo, fraude, falsificación, abuso de confianza u cualquier otro que lastime seriamente la buena fama en el concepto público. De igual forma quedará impedida en el caso de haber sido sancionada con inhabilitación administrativa por incurrir en responsabilidad durante el ejercicio del servicio público, sin importar la gravedad de la falta.
 
 ## TÍTULO QUINTO. DEL PROCEDIMIENTO PARA SUPLIR AUSENCIAS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO II. DE LAS Y LOS JUECES Y PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+### CAPÍTULO I. DE LAS AUSENCIAS DE LAS MAGISTRADAS Y LOS MAGISTRADOS
 
 ###### Artículo 108.
 
@@ -1600,11 +2170,19 @@ I. Las de quien preside el Tribunal Superior de Justicia que no excedan de un me
 
 II. Las de quienes presidan las Salas que no excedan de un mes por el Magistrado de la misma Sala que designen sus integrantes; y
 
-III. Las ausencias de las y los Magistrados, cuando no excedan de un mes, por la o el Secretario de Acuerdos o en su caso por cualquiera de los Secretarios Proyectista (sic) de la Ponencia del Titular ausente. Cuando exceda de este tiempo y hasta por tres meses, por los Jueces de Primera Instancia de la materia, que serán nombrados por el Consejo de la Judicatura, prefiriendo en su caso al de mayor antigüedad en el cargo.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Las ausencias de las y los Magistrados, cuando no excedan de un mes, por la o el Secretario de Acuerdos o en su caso por cualquiera de los Secretarios Proyectistas de la Ponencia de la persona Titular ausente. Cuando exceda de este tiempo y hasta por tres meses, por las y los Jueces de Primera Instancia de la materia, que serán nombrados por el Consejo de la Judicatura, prefiriendo en su caso al de mayor antigüedad en el cargo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Toda suplencia debe ser autorizada por acuerdo del Consejo de la Judicatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 109.
 
-Las ausencias de los Titulares de las Magistraturas por más de tres meses, serán cubiertas mediante nombramiento previsto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución, con la aprobación del Congreso.
+Las ausencias de las personas Titulares de las Magistraturas por más de tres meses, serán cubiertas mediante nombramiento previsto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución, con la aprobación del Congreso.
 
 Entre tanto se hace la designación, la ausencia será suplida en términos de lo dispuesto en la fracción III del artículo anterior.
 
@@ -1614,21 +2192,23 @@ Si por defunción, renuncia o incapacidad faltare alguna Magistrada o Magistrado
 
 En todo caso y mientras se hace la designación, la ausencia será suplida en los términos ya previstos.
 
-### CAPÍTULO I. DE LOS SÍNDICOS
+### CAPÍTULO II. DE LAS Y LOS JUECES Y PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 111.
 
-Las y los Jueces serán suplidos en sus ausencias que no excedan de un mes, por la persona Secretaria de Acuerdos o de Instrucción, según corresponda, en los términos del artículo 80 de esta Ley.
+Las personas juzgadoras en materia civil y familiar serán suplidos en sus ausencias por la persona juzgadora que determine el Consejo de la Judicatura.
 
-Tratándose de las ausencias de Las y los Jueces de Proceso Oral en materia Familiar, éstas serán suplidas por la persona Secretaria Judicial que estos determinen.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Si la ausencia excede de un mes, pero no de tres meses, el Consejo de la Judicatura nombrará una Jueza o Juez interino. Si estos (sic) tuviera que seguir desempeñando el cargo después de transcurridos los tres meses, deberá sujetarse a examen en términos del artículo 281 de esta Ley, y se tendrá en cuenta también su actitud durante el desempeño del servicio público.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
 
 Las personas titulares de las Secretarías, a su vez, serán suplidas por las y los Conciliadores o por testigos de asistencia; el superior jerárquico deberá nombrar de inmediato y de manera provisional a una persona que ocupe la Secretaría de Acuerdos o de Instrucción que le sustituya.
 
-De igual manera las personas Secretarias Judiciales, serán suplidos (sic) por las personas Secretarias Auxiliares de Juzgado de Proceso Oral en materia Familiar, que al efecto determine el Juzgador.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 Las ausencias temporales de los Titulares de las Secretarías de Acuerdos de Salas serán suplidas (sic) por cualquiera de las personas Secretarias Auxiliares que designe quien preside la Sala de que se trate.
 
@@ -1636,9 +2216,11 @@ Las ausencias temporales de los Titulares de las Secretarías de Acuerdos de Sal
 
 En caso de ausencia definitiva de Juzgadores, el Consejo de la Judicatura deberá convocar, dentro de los siguientes cinco días hábiles, al concurso de oposición respectivo.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 113.
 
-Los Titulares de las Secretarías del Tribunal en Pleno serán suplidos en sus ausencias temporales, el primero por el segundo y a falta de éste, por el que designe quien preside el Tribunal Superior de Justicia. Si la ausencia fuere definitiva, se procederá a hacer nueva designación, de acuerdo con esta Ley.
+Las personas Titulares de las Secretarías del Tribunal en Pleno serán suplidas en sus ausencias temporales, la primera por la segunda y a falta de ésta, por la que designe quien preside el Tribunal Superior de Justicia. Si la ausencia fuere definitiva, se procederá a hacer nueva designación, de acuerdo con esta Ley.
 
 ###### Artículo 114.
 
@@ -1650,15 +2232,19 @@ En todo caso y cuando las ausencias no excedan de quince días las personas serv
 
 ## TÍTULO SEXTO. DE LAS PERSONAS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO II. DE LOS INTERVENTORES, ALBACEAS, TUTORES, CURADORES Y DEPOSITARIOS
+### CAPÍTULO I. DE LOS SÍNDICOS
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 116.
 
-Las personas que ejerzan el cargo de Síndicos desempeñan funciones públicas en la administración de justicia del fuero común, de la que debe considerárseles auxiliares. Quedan por lo tanto sujetos a las determinaciones de esta Ley, sin perjuicio de las demás disposiciones legales relativas.
+Las personas que ejerzan el cargo de personas Síndicas desempeñan funciones públicas en la administración de justicia del fuero común, de la que debe considerarse auxiliares. Quedan por lo tanto sujetos a las determinaciones de esta Ley, sin perjuicio de las demás disposiciones legales relativas.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 117.
 
-Las personas nombradas Síndicos provisionales, como auxiliares de la administración de justicia, serán designadas por los Titulares de los Juzgados de Primera Instancia en los términos establecidos por la ley de la materia, entre las personas comprendidas en la lista que para tal efecto les sea enviada por el Consejo de la Judicatura. Los Síndicos definitivos nombrados con arreglo a la ley, quedarán sujetos a las disposiciones de ésta y de las demás leyes al igual que los síndicos provisionales, por lo que se refiere a sus facultades y obligaciones.
+Las personas nombradas Síndicas provisionales, como auxiliares de la administración de justicia, serán designadas por las personas Juzgadoras en los términos establecidos por la ley de la materia, entre las personas comprendidas en la lista que para tal efecto les sea enviada por el Consejo de la Judicatura. Las personas Síndicas definitivas nombradas con arreglo a la ley, quedarán sujetas a las disposiciones de ésta y de las demás leyes al igual que las síndicas provisionales, por lo que se refiere a sus facultades y obligaciones.
 
 ###### Artículo 118.
 
@@ -1672,13 +2258,17 @@ Corresponde al Consejo de la Judicatura la selección de profesionales que deban
 
 El Consejo de la Judicatura dividirá la lista a que se refiere el artículo anterior, en proporción al número de Juzgados que deban hacer nombramientos de Síndicos. Las listas así formadas tendrán numeradas progresivamente a las personas en ellas comprendidas, deberán ser comunicadas a los Jueces oportunamente y publicadas en el Boletín Judicial.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 121.
 
-Los Juzgados harán las designaciones de síndicos de la lista correspondiente, siguiendo precisamente el orden numérico establecido en ella, bajo el concepto de que no podrán nombrar a una misma persona para el desempeño de varias sindicaturas, sino después de haber agotado la lista en que aquélla figure y de que, por razón del orden en que deben hacerse las designaciones, le corresponda nuevamente el nombramiento de que se trate, salvo lo dispuesto en el artículo 123.
+Las personas Juzgadoras harán las designaciones de personas síndicas de la lista correspondiente, siguiendo precisamente el orden numérico establecido en ella, bajo el concepto de que no podrán nombrar a una misma persona para el desempeño de varias sindicaturas, sino después de haber agotado la lista en que aquélla figure y de que, por razón del orden en que deben hacerse las designaciones, le corresponda nuevamente el nombramiento de que se trate, salvo lo dispuesto en el artículo 123.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 122.
 
-Para ocupar el cargo de Síndico se requiere:
+Para ocupar el cargo de persona Síndica se requiere:
 
 I. Tener la ciudadanía mexicana, en pleno goce de sus derechos políticos y civiles;
 
@@ -1686,79 +2276,119 @@ II. Poseer el Titulo de Licenciatura en Derecho con cédula profesional expedida
 
 III. Gozar de buena reputación;
 
-IV. No encontrarse comprendido en el supuesto previsto por el artículo siguiente de esta Ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V. No haber sido condenado por sentencia definitiva, por delito doloso que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+IV. No encontrarse comprendida en el supuesto previsto por el artículo siguiente de esta Ley;
 
-VI. No haber sido removido de otra sindicatura, por falta o delitos cometidos en el ejercicio de sus funciones;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. No haber sido condenada por sentencia definitiva, por delito doloso que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, la inhabilitará para el cargo cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. No haber sido removida de otra sindicatura, por falta o delitos cometidos en el ejercicio de sus funciones;
 
 VII. No tener interés personal de ningún tipo que pudiera afectar su función; y
 
 VIII. Tener domicilio en la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 123.
 
-El Juzgador deberá cerciorarse de que la persona en cuyo favor pretenda hacer la designación no se encuentre desempeñando otra sindicatura, pero si por circunstancias especiales, consistentes en que en negocio distinto ya estuviere funcionando como Síndico y, no obstante, por el turno llevado en el Juzgado le correspondiere la designación, ésta podrá hacerse siempre y cuando en el primer negocio se hubiere llegado ya hasta la presentación y aprobación de los créditos de concurso.
+La persona Juzgadora deberá cerciorarse de que la persona en cuyo favor pretenda hacer la designación no se encuentre desempeñando otra sindicatura, pero si por circunstancias especiales, consistentes en que en negocio distinto ya estuviere funcionando como Síndica y, no obstante, por el turno llevado en el Órgano Jurisdiccional le correspondiere la designación, ésta podrá hacerse siempre y cuando en el primer negocio se hubiere llegado ya hasta la presentación y aprobación de los créditos de concurso.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 124.
 
-La fianza que debe otorgar el Síndico para caucionar su manejo, deberá ser por cantidad determinada y bajo la responsabilidad del Juzgador; si no la otorgare, se tendrá por perdido su turno en la lista; dicha fianza deberá entregarse en un plazo máximo de quince días.
+La fianza o garantía que debe otorgar la persona Síndica para caucionar su manejo, deberá ser por cantidad determinada y bajo la responsabilidad de la persona Juzgadora; si no la otorgare, se tendrá por perdido su turno en la lista; dicha fianza o garantía deberá entregarse en un plazo máximo de diez días.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 125.
 
-El Síndico tendrá derecho a ser relevado de la sindicatura por causa debidamente justificada que calificará el Juzgador, oyendo previamente, si fuera posible, a los acreedores.
+La persona Síndica tendrá derecho a ser relevada de la sindicatura por causa debidamente justificada que calificará la persona Juzgadora, oyendo previamente, si fuera posible, a las personas acreedoras.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 126.
 
-El Síndico que no hubiere aceptado alguna sindicatura, perderá el turno en la lista respectiva.
+La persona Síndica que no hubiere aceptado alguna sindicatura, perderá el turno en la lista respectiva.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 127.
 
-Los Síndicos en ejercicio de sus funciones podrán, bajo su más estricta responsabilidad, asesorarse o consultar con profesionales de la Correduría, contaduría o cualquier otro profesionista afín a la función y que cuente con título legalmente expedido, a quienes se pagarán los honorarios que determine la ley de la materia.
+Las personas Síndicas en ejercicio de sus funciones podrán, bajo su más estricta responsabilidad, asesorarse o consultar con profesionales de la Correduría, contaduría o cualquier otra persona profesionista afín a la función y que cuente con título legalmente expedido, a quienes se pagarán los honorarios que determine la ley de la materia.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 128.
 
-El Síndico que faltare al cumplimiento de las obligaciones que le impone esta Ley, perderá la retribución que le corresponde por el ejercicio de su cargo, independientemente de quedar sujeto a las responsabilidades que procedan en su contra.
+La persona Síndica que faltare al cumplimiento de las obligaciones que le impone esta Ley, perderá la retribución que le corresponde por el ejercicio de su cargo, independientemente de quedar sujeta a las responsabilidades que procedan en su contra.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 129.
 
-Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado sin perjuicio de que se ejercite, por quienes corresponda, la acción o acciones procedentes a fin de asegurar debidamente los intereses del concurso, independientemente de la acción penal en que hubiere incurrido en fraude de acreedores. A este efecto, la garantía respectiva no será cancelada sino cuando hubiere concluido totalmente el procedimiento, aun cuando el Síndico hubiere renunciado o sido removido. Cuando hubiere habido dos o más síndicos, la garantía que cada uno hubiere otorgado responderá en su respectivo ejercicio.
+Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia de la persona Síndica en el ejercicio de sus funciones, serán a cargo de ésta en beneficio de las personas acreedoras, procediéndose a retener la garantía o fianza que haya dado sin perjuicio de que se ejercite, por quienes corresponda, la acción o acciones procedentes a fin de asegurar debidamente los intereses del concurso, independientemente de la acción penal en que hubiere incurrido en fraude de acreedores. A este efecto, la garantía o fianza respectiva no será cancelada sino cuando hubiere concluido totalmente el procedimiento, aun cuando la persona Síndica hubiere renunciado o sido removida. Cuando hubiere habido dos o más personas Síndicas la que cada uno hubiere otorgado responderá en su respectivo ejercicio.
 
-### CAPÍTULO III. DE LOS PERITOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LAS PERSONAS INTERVENTORAS, ALBACEAS, TUTORAS, CURADORAS Y DEPOSITARIAS
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 130.
 
-Las personas nombradas como Interventores de concurso, al igual que los Síndicos, desempeñan una función pública en la administración de justicia del fuero común, en la que debe considerárseles también como auxiliares, quedando por lo tanto sujetos a las determinaciones de esta Ley, sin perjuicio de las demás disposiciones legales respectivas.
+Las personas nombradas como Interventoras de concurso, al igual que las personas Síndicas, desempeñan una función pública en la administración de justicia del fuero común, en la que debe considerarse también como auxiliares, quedando por lo tanto sujetas a las determinaciones de esta Ley, sin perjuicio de las demás disposiciones legales respectivas.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 131.
 
-Los Interventores serán nombrados por los acreedores, en cualquier tiempo, por mayoría de votos y en los términos del Código de Procedimientos Civiles vigente para la Ciudad de México.
+Las personas Interventoras serán nombradas por las personas acreedoras, en cualquier tiempo, en su caso, por mayoría de votos y en los términos del Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 132.
 
-Las atribuciones del Interventor serán:
+Las atribuciones de la persona Interventora serán:
 
-I. Exigir mensualmente la presentación de las cuentas de administración del Síndico al Juzgador, dentro de los diez primeros días de cada mes, y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Vigilar la conducta del Síndico, especialmente que se cumplan oportunamente todas las obligaciones y desempeñe todas las funciones que las leyes le imponen, dando cuenta inmediatamente de las irregularidades que notare y de todos los actos que pudieren afectar a los intereses o derechos de la masa.
+I. Exigir mensualmente la presentación de las cuentas de administración de la persona Síndica al Órgano Jurisdiccional, dentro de los diez primeros días de cada mes, y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Vigilar la conducta de la persona Síndica, especialmente que se cumplan oportunamente todas las obligaciones y desempeñe todas las funciones que las leyes le imponen, dando cuenta inmediatamente de las irregularidades que notare y de todos los actos que pudieren afectar a los intereses o derechos de la masa.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 133.
 
-Será causa de remoción del Interventor, el no ejercer la vigilancia necesaria en todos los casos que sean encomendados al Síndico, pudiendo cualquiera de los acreedores hacerlo del conocimiento del Ministerio Público para que, previa audiencia, se proceda como corresponda.
+Será causa de remoción de la persona Interventora, el no ejercer la vigilancia necesaria en todos los casos que sean encomendados a la persona Síndica, pudiendo cualquiera de las personas acreedoras hacerlo del conocimiento de la persona Ministerio Público para que, previa audiencia, se proceda como corresponda.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 134.
 
-Asimismo, será causa de remoción del Interventor, no dar aviso oportuno al Juzgador dentro del plazo de cinco días, a partir de aquel en que haya tenido conocimiento de las faltas u omisiones en que hubiere incurrido el Síndico, sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
+Asimismo, será causa de remoción de la persona Interventora, no dar aviso oportuno a la persona Juzgadora dentro del plazo de cinco días, a partir de aquel en que haya tenido conocimiento de las faltas u omisiones en que hubiere incurrido la persona Síndica, sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedora.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 135.
 
-Los que se desempeñen como Albaceas, Tutores, Curadores, Depositarios, así como Interventores diversos a los de concurso, ya sean provisionales o definitivos, designados por los Juzgadores, deberán llenar todos los requisitos establecidos en este título para los Síndicos, en aquello que sea compatible con su carácter y función.
+Las personas que se desempeñen como Albaceas, Tutoras, Curadoras, Depositarias, así como Interventoras diversas a los de concurso, ya sean provisionales o definitivas, designados por las personas Juzgadoras, deberán llenar todos los requisitos establecidos en este título para las personas Síndicas, en aquello que sea compatible con su carácter y función.
 
-### CAPÍTULO I. DE LAS COSTAS
+### CAPÍTULO III. DE LOS PERITOS
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 136.
 
-El peritaje de los asuntos judiciales que se presenten ante las autoridades comunes de la Ciudad de México, es una función pública y en esa virtud los profesionales, los técnicos o prácticos en cualquier materia científica, arte u oficio que presten sus servicios a la administración pública, están obligados a cooperar con dichas autoridades, dictaminando en los asuntos relacionados con su encomienda.
+El peritaje de los asuntos judiciales que se presenten ante las autoridades comunes de la Ciudad de México, es una función pública y en esa virtud las personas profesionales, técnicas o prácticas en cualquier materia científica, arte u oficio que presten sus servicios a la administración pública, están obligadas a cooperar con dichas autoridades, dictaminando en los asuntos relacionados con su encomienda.
 
 ###### Artículo 137.
 
@@ -1768,7 +2398,9 @@ Para ser Perito se requiere poseer la ciudadanía mexicana, gozar de buena reput
 
 Los peritajes que deban versar sobre materias relativas a profesiones, deberán encomendarse a personas autorizadas con título, que deberán satisfacer los requisitos señalados en el artículo anterior.
 
-Los peritos profesionales a que se refiere esta Ley, deberán provenir de la lista de peritos, que, en cada materia profesional, elaboran anualmente los colegios de profesionistas y estar colegiados de acuerdo con la Ley reglamentaria de la materia. Asimismo se considerarán las propuestas de Institutos de Investigación que reúnan tales requisitos.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas peritas profesionales a que se refiere esta Ley, deberán provenir de la lista de peritos, que, en cada materia profesional, elaboran anualmente los colegios de profesionistas y estar colegiados de acuerdo con la Ley reglamentaria de la materia. Asimismo, se considerarán las propuestas de Institutos de Investigación que reúnan tales requisitos.
 
 ###### Artículo 139.
 
@@ -1778,27 +2410,37 @@ Sólo en casos precisos, cuando no hubiere en la localidad de que se trate ciuda
 
 Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de que se trate, o que los enlistados estuvieren impedidos para ejercer el cargo, las autoridades podrán nombrarlos libremente, y se ocurrirá de preferencia a las instituciones públicas, poniendo el hecho en conocimiento del Consejo de la Judicatura para los efectos a que haya lugar.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 141.
 
-Los honorarios de las y los Peritos designados por el Juzgador, la o el Magistrado serán cubiertos de acuerdo con el arancel que al efecto fije esta Ley, sin perjuicio de lo que disponga la sentencia definitiva respecto a la condenación en costas.
+Los honorarios de las personas Peritos designados por la autoridad jurisdiccional, serán cubiertos de acuerdo con el arancel que al efecto fije esta Ley, sin perjuicio de lo que disponga la sentencia definitiva respecto a la condenación en costas.
 
 ## TÍTULO SÉPTIMO. DE LAS COSTAS Y DE LOS ARANCELES
 
-### CAPÍTULO II. DE LOS ARANCELES
+### CAPÍTULO I. DE LAS COSTAS
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 142.
 
-Las costas son la sanción impuesta en los términos de la ley a los litigantes que hayan actuado de mala fe, con falsedad o sin derecho, cuyo objeto es el pago de los gastos legales que el juicio implicó a la contraparte.
+Las costas son la sanción impuesta por disposición de la ley, a las personas litigantes, o bien, a las demás que prevenga el Código Nacional de Procedimientos Civiles y Familiares, que hayan actuado de mala fe, con falsedad o sin derecho, cuyo objeto es el pago de los gastos legales que el juicio implicó a la contraparte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 143.
 
-Las y los Jueces y las y los Magistrados al momento de dictar la sentencia que condene a costas determinarán el monto líquido de las mismas si ello fuese posible, de no serlo se determinará por vía incidental. En su caso, las partes deberán aportar los elementos necesarios para efectuar la liquidación correspondiente y en su defecto, el Juzgador la determinará con los elementos que se desprendan del propio expediente.
+La autoridad jurisdiccional que condene a costas determinará el monto líquido de las mismas si ello fuese posible, de no serlo se determinará por vía incidental. En su caso, las partes deberán aportar los elementos necesarios para efectuar la liquidación correspondiente y en su defecto, la autoridad jurisdiccional la determinará con los elementos que se desprenden del propio expediente.
 
-Las partes siempre tendrán derecho al cobro de las costas establecidas en esta ley, cuando acrediten haber sido asesorados, durante el juicio, por persona titulada en Licenciatura en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las partes siempre tendrán derecho al cobro de las costas establecidas en esta ley, cuando acrediten haber sido asesorados, durante el juicio, por persona representante autorizada para ejercer la profesión de licenciado en derecho o abogado, con cédula profesional expedida por la autoridad o institución legalmente facultada para ello. Las personas de origen extranjero no podrán cobrar gastos, sino cuando estén autorizados legalmente en el territorio nacional, para ejercer como licenciadas en derecho o el ejercicio de la abogacía
 
 Para el efecto de la acreditación, estos registrarán su cédula profesional ante la Primera Secretaría de Acuerdos de la Presidencia y del Pleno del Tribunal Superior de Justicia, de conformidad con el acuerdo, que para tal efecto expida, el Consejo de la Judicatura. Debiendo la Primera Secretaría de Acuerdos de la Presidencia y del Pleno del Tribunal Superior de Justicia proporcionar el número correspondiente para la acreditación ante cualquiera de los órganos jurisdiccionales del fuero común en la Ciudad de México.
 
-En caso de que la parte favorecida con el resultado del juicio haya sido asesorada por terceros, podrá solicitar al Juzgador que las costas sean determinadas en la sentencia a favor del abogado o la institución que lo haya patrocinado.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En caso de que la parte favorecida con el resultado del juicio haya sido asesorada por terceros, podrá solicitar a la autoridad jurisdiccional, que las costas sean determinadas en la sentencia a favor del abogado o la institución que lo haya patrocinado.
 
 ###### Artículo 144.
 
@@ -1824,47 +2466,69 @@ III. Por el escrito de contestación a la demanda, el equivalente a sesenta vece
 
 IV. Por la lectura de escritos o promociones presentados por el contrario, por foja, el equivalente a cinco veces la Unidad de Medida y Actualización;
 
-V. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo Juzgador de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez veces la Unidad de Medida y Actualización;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Por el escrito en que se promueva un incidente o recurso del que deba conocer la misma autoridad jurisdiccional de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez veces la Unidad de Medida y Actualización;
 
 VI. Por cada escrito proponiendo pruebas, el equivalente a veinte veces la Unidad de Medida y Actualización;
 
-VII. Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a las o los testigos, o cuestionarios a los peritos, el equivalente a diez veces la Unidad de Medida y Actualización por pliego, cuestionario o interrogatorio;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Por la asistencia a juntas, audiencias o diligencias en el local del Juzgado o Sala, por cada hora o fracción, el equivalente a ocho veces la Unidad de Medida y Actualización;
+VII. Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a las o los testigos, o cuestionarios a las personas peritos, el equivalente a diez veces la Unidad de Medida y Actualización por pliego, cuestionario o interrogatorio;
 
-IX. Por la asistencia a cualquier diligencia fuera del juzgado o de la Sala, por cada hora o fracción, contada a partir de la salida del Juzgado, el equivalente a diez veces la Unidad de Medida y Actualización;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Por la asistencia a juntas, audiencias o diligencias en el recinto de las autoridades jurisdiccionales, por cada hora o fracción, el equivalente a ocho veces la Unidad de Medida y Actualización
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. Por la asistencia a cualquier diligencia fuera de los recintos judiciales, por cada hora o fracción, contada a partir de la salida de los mismos, el equivalente a diez veces la Unidad de Medida y Actualización;
 
 X. Por la notificación o vista de proveídos, el equivalente a cinco veces la Unidad de Medida y Actualización;
 
 XI. Por notificación o vista de sentencia, el equivalente a ocho veces la Unidad de Medida y Actualización;
 
-Las costas a que se refiere esta fracción y la anterior, se cobrarán sólo cuando conste en autos que el abogado fue notificado directamente por el actuario. En cualquier otro caso, por cada notificación se cobrará el equivalente a dos veces la Unidad de Medida y Actualización, siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio del Juzgador, el equivalente a seis y hasta doce veces la Unidad de Medida y Actualización, y
+Las costas a que se refiere esta fracción y la anterior, se cobrarán sólo cuando conste en autos que la persona representante autorizada o el abogado fue notificada directamente por la persona notificadora o la persona actuaria. En cualquier otro caso, por cada notificación se cobrará el equivalente a dos veces la Unidad de Medida y Actualización, siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio de la autoridad jurisdiccional, el equivalente a seis y hasta doce veces la Unidad de Medida y Actualización, y
 
 XIII. Por el escrito de agravios o contestación de los mismos, el equivalente a cien veces la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 146.
 
-Si en un juicio civil o mercantil hubiere condenación en costas y los escritos relativos no estuvieren firmados por abogado alguno, pero pudiere comprobarse plenamente la intervención de éste y sus gestiones en el negocio, la regulación de costas se hará de acuerdo con este arancel.
+Si en un juicio civil o mercantil hubiere condenación en costas y los escritos relativos no estuvieren firmados por persona representante autorizada, o por abogado alguno, pero pudiere comprobarse plenamente la intervención de éste y sus gestiones en el negocio, la regulación de costas se hará de acuerdo con este arancel.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 147.
 
-Las y los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
+Las personas representantes autorizadas o los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
 
-### CAPÍTULO I. DEL ARCHIVO JUDICIAL DE LA CIUDAD DE MÉXICO Y DEL REGISTRO PÚBLICO DE AVISOS JUDICIALES
+### CAPÍTULO II. DE LOS ARANCELES
 
-#### SECCIÓN PRIMERA. DE QUIENES EJERZAN COMO INTERVENTORES Y ALBACEAS JUDICIALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE QUIENES EJERZAN COMO PERSONAS INTERVENTORAS Y PERSONAS ALBACEAS JUDICIALES
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 148.
 
-En los juicios sucesorios, las y los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil veces la Unidad de Cuenta de la Ciudad de México vigente, si exceden de esta suma, pero no del equivalente a veinticuatro mil veces la Unidad de Cuenta de la Ciudad de México vigente, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil veces la Unidad de Medida y Actualización cobrará además el 1% sobre la cantidad excedente.
+En los juicios sucesorios, las personas interventoras y las personas albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil veces la Unidad de Cuenta de la Ciudad de México vigente, si exceden de esta suma, pero no del equivalente a veinticuatro mil veces la Unidad de Cuenta de la Ciudad de México vigente, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil veces la Unidad de Medida y Actualización cobrará además el 1% sobre la cantidad excedente.
 
 #### SECCIÓN SEGUNDA. DE LAS PERSONAS DEPOSITARIAS
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 149.
 
-Las personas depositarias de bienes muebles, además de los gastos de arrendamiento del local en donde se constituya el depósito, así como de la conservación que autoriza el Juzgador, cobrarán como honorarios hasta un 2% sobre el valor de los muebles depositados.
+Las personas depositarias de bienes muebles, además de los gastos de arrendamiento del local en donde se constituya el depósito, así como de la conservación que autoriza la persona juzgadora, cobrarán como honorarios hasta un 2% sobre el valor de los muebles depositados.
 
 ###### Artículo 150.
 
@@ -1886,19 +2550,27 @@ Las personas depositarias de fincas rústicas percibirán como honorarios los qu
 
 Cuando el secuestro recaiga sobre créditos, el depositario, además de los honorarios a que se refiere el artículo 149, cobrará el 5% sobre el importe de los réditos o pensiones que recaude.
 
-#### SECCIÓN TERCERA. DE LAS PERSONAS INTÉRPRETES Y TRADUCTORES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. DE LAS PERSONAS INTÉRPRETES Y PERSONAS TRADUCTORAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 155.
 
-De las personas intérpretes y traductores podrán cobrar por honorarios, hasta un máximo de lo señalado en los casos siguientes:
+De las personas intérpretes y personas traductoras podrán cobrar por honorarios, hasta un máximo de lo señalado en los casos siguientes:
 
 I. Por asistencia ante las autoridades judiciales para traducir declaraciones en lenguas indígenas o en idioma extranjero, el equivalente a cinco veces la Unidad de Medida y Actualización;
 
 II. Por traducción de cualquier documento, por hoja, el equivalente a dos veces la Unidad de Medida y Actualización; y
 
-III. A los interpretes de Lengua de Señas Mexicanas por cada hora o fracción, el equivalente a cinco veces la Unidad de Medida y Actualización.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-#### SECCIÓN CUARTA. DE LOS PERITOS
+III. A las personas intérpretes de Lengua de Señas Mexicanas por cada hora o fracción, el equivalente a cinco veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+#### SECCIÓN CUARTA. DE LAS PERSONAS PERITOS
 
 ###### Artículo 156.
 
@@ -1908,13 +2580,17 @@ I. En asuntos relacionados con valuación, el 2.5 al millar del valor de los bie
 
 II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, veinte veces la Unidad de Medida y Actualización; y
 
-III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientos cuarenta veces la Unidad de Medida y Actualización, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. En los negocios de cuantía indeterminada, las personas peritas cobrarán hasta doscientas cuarenta veces la Unidad de Medida y Actualización, cantidad que se determinará por la autoridad jurisdiccional, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
 
 #### SECCIÓN QUINTA. DEL ARBITRAJE
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 157.
 
-Los árbitros necesarios o voluntarios, salvo convenio de las partes, cobrarán como únicos honorarios por conocer y decidir el juicio en que intervengan, hasta el 4% del valor del negocio.
+Las personas árbitras necesarios o voluntarios, salvo convenio de las partes, cobrarán como únicos honorarios por conocer y decidir el juicio en que intervengan, hasta el 4% del valor del negocio.
 
 ###### Artículo 158.
 
@@ -1924,41 +2600,55 @@ Cuando quien lleve a cabo el arbitraje no llegue a pronunciar el laudo, por habe
 
 Cuando no pronuncien el laudo dentro del plazo obligado, no devengarán honorarios.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 160.
 
-La persona que ejerza como Secretaria que sin ser árbitro, intervenga con este carácter en el juicio respectivo, devengará el 50% de los honorarios que le corresponderían si fuere árbitro.
+La persona que ejerza como persona Secretaria, que sin ser árbitro, intervenga con este carácter en el juicio respectivo, devengará el 50% de los honorarios que le corresponderían si fuere persona árbitro.
 
 ###### Artículo 161.
 
 Cuando no exista acuerdo respecto de las tarifas, devengarán hasta el 25% de la cuota señalada en el artículo 157 de esta Ley.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 162.
 
-Las cuotas de la tarifa anterior rigen para el caso de que el árbitro sea único. Cuando sean dos o más, cada uno de ellos percibirá como honorarios el 50% del importe de las cuotas respectivas que señala la tarifa mencionada.
+Las cuotas de la tarifa anterior rigen para el caso de que la persona árbitra sea única. Cuando sean dos o más, cada una de ellas percibirá como honorarios el 50% del importe de las cuotas respectivas que señala la tarifa mencionada.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 163.
 
-Los árbitros terceros, para el caso de discordia, devengarán el 75% del porcentaje señalado en el artículo 156 de la presente Ley.
+Las personas árbitras terceras, para el caso de discordia, devengarán el 75% del porcentaje señalado en el artículo 156 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 164.
 
-En los negocios cuya cuantía sea indeterminada, el árbitro cobrará doscientos a quinientos veces la Unidad de Medida y Actualización.
+En los negocios cuya cuantía sea indeterminada, la persona árbitra cobrará doscientas a quinientas veces la Unidad de Medida y Actualización.
 
 Para regular la cuota anterior, se atenderá a la importancia del negocio, a las dificultades técnicas que presente y a las posibilidades pecuniarias de las partes.
 
 ## TÍTULO OCTAVO. DE LAS DEPENDENCIAS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE LOS ANALES DE JURISPRUDENCIA Y BOLETÍN JUDICIAL
+### CAPÍTULO I. DEL ARCHIVO JUDICIAL DE LA CIUDAD DE MÉXICO Y DEL REGISTRO PÚBLICO DE AVISOS JUDICIALES
 
 ###### Artículo 165.
 
 El Consejo de la Judicatura organizará y vigilará el correcto funcionamiento del Archivo Judicial, para que éste desarrolle cabalmente sus labores de auxiliar de los órganos judiciales de la Ciudad de México.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las disposiciones de la presente Ley, así como del Reglamento de Archivos del Tribunal y del Consejo de la Judicatura, deberán entenderse e interpretarse indistintamente atendiendo a la naturaleza física y virtual del expediente, conforme al principio de equivalencia funcional del documento electrónico.
+
 ###### Artículo 166.
 
 Se depositarán en el Archivo Judicial:
 
-I. Todos los expedientes, tocas y testimonios concluidos del orden civil y penal;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Todos los expedientes, tocas y testimonios concluidos del orden civil, familiar y penal;
 
 II. Los expedientes del orden civil que, aun cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante seis meses;
 
@@ -2004,13 +2694,17 @@ No se permitirá por ningún motivo a las personas servidoras públicas del Arch
 
 Cualquier irregularidad que advierta el Titular de la Dirección del Archivo en los expedientes o documentos que se le remitan para su depósito, lo comunicará de inmediato a la autoridad u órgano depositante, para que aclare o corrija la irregularidad, y en caso de presentarse nuevamente con dicha irregularidad, lo hará del conocimiento del Consejo de la Judicatura.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 174.
 
-El Archivo Judicial estará a cargo de un Titular de la Dirección, que preferentemente deberá contar con Licenciatura en Derecho, que cuente además con conocimientos en archivonomía y del personal necesario para el desempeño de sus funciones de acuerdo al presupuesto.
+El Archivo Judicial estará a cargo de una persona Titular de la Dirección, que preferentemente deberá contar con Licenciatura en Derecho, que cuente además con conocimientos en archivonomía y del personal necesario para el desempeño de sus funciones de acuerdo al presupuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 175.
 
-El reglamento respectivo fijará las atribuciones de los servidores públicos del Archivo y determinará la división de las secciones, la forma de los asientos, índices y libros que en la misma oficina deban llevarse.
+El reglamento respectivo fijará las atribuciones de las personas servidoras públicas del Archivo y determinará la división de las secciones, la forma de los asientos, índices y libros que en la misma oficina deban llevarse.
 
 Para el mejor funcionamiento del Archivo se implementará un sistema de digitalización de expedientes.
 
@@ -2018,31 +2712,41 @@ El Consejo de la Judicatura, en atención a la normatividad aplicable en materia
 
 No podrán ser destruidos aquellos expedientes que no hubieren causado ejecutoria, o bien aquellos que derivados de alguna circunstancia que se advierta de las constancias que los integran, haga imposible su destrucción, a criterio del órgano jurisdiccional o del Consejo de la Judicatura, debiendo fundar y motivar esa determinación al remitir dicho expediente al Archivo Judicial.
 
-El Titular de la Dirección del Archivo Judicial, bajo su más estricta responsabilidad, tendrá facultad para certificar las reproducciones electrónicas o impresas de aquellos archivos que se encuentren bajo su guarda y custodia, mismas que tendrán pleno valor probatorio.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-La negativa injustificada por parte del órgano remitente para la destrucción de un expediente, será causa de responsabilidad administrativa, para lo cual el Titular de la Dirección del Archivo Judicial, dará el correspondiente aviso por escrito al Consejo de la Judicatura, a efecto de que en el ámbito de su competencia resuelva lo conducente.
+La persona titular de la Dirección del Archivo Judicial, bajo su más estricta responsabilidad, tendrá facultad para certificar las reproducciones electrónicas o impresas de aquellos archivos que se encuentren bajo su guarda y custodia, mismas que tendrán pleno valor probatorio.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La negativa injustificada por parte del órgano remitente para la destrucción de un expediente, será causa de responsabilidad administrativa, para lo cual la persona Titular de la Dirección del Archivo Judicial, dará el correspondiente aviso por escrito al Consejo de la Judicatura, a efecto de que en el ámbito de su competencia resuelva lo conducente.
 
 ###### Artículo 176.
 
 El Archivo Judicial organizará y operará un servicio de bases de datos electrónicos que se denominará Registro Público de Avisos Judiciales, el cual se publicará y difundirá a través del sistema informático denominado Internet.
 
-Este servicio tendrá por objeto la inscripción de los avisos judiciales para efectos de publicidad. Cualquier interesado, previo pago de los derechos correspondientes, podrá inscribir o consultar la información del Registro.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Este servicio tendrá por objeto la inscripción de los avisos judiciales para efectos de publicidad. Cualquier persona interesada, previo pago de los derechos correspondientes, podrá inscribir o consultar la información del Registro.
 
 Los avisos que se publiquen en el Registro Público de Avisos Judiciales, mientras permanezcan accesibles a cualquier usuario en la página de Internet correspondiente, por los mismos términos señalados en la (sic) leyes para la publicación de que se trate, surtirán los mismos efectos que los avisos publicados en los diarios de mayor circulación de la Ciudad de México, ello cuando el Juzgador lo considere pertinente y en adición a éstos.
 
-Cualquier interesado, previo pago de los derechos correspondientes, podrá publicar los avisos judiciales que considere convenientes y consultar la base de datos correspondiente.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Cualquier persona interesada, previo pago de los derechos correspondientes, podrá publicar los avisos judiciales que considere convenientes y consultar la base de datos correspondiente.
 
 Se llevará un registro histórico de los avisos publicados, para facilitar la investigación y consulta de los mismos.
 
-### CAPÍTULO III. DE LA UNIDAD DE TRABAJO SOCIAL, DEL SERVICIO DE INFORMÁTICA Y BIBLIOTECA Y DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA
+### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE LOS ANALES DE JURISPRUDENCIA Y BOLETÍN JUDICIAL
 
 ###### Artículo 177.
 
 El Boletín Judicial se publicará por la Dirección General de los Anales de Jurisprudencia diariamente, con excepción de los sábados, domingos y días inhábiles.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 178.
 
-La Dirección General de Anales de Jurisprudencia y Boletín Judicial, contará con un Titular de la Dirección General que deberá reunir los requisitos señalados en las fracciones I a V del artículo 22 de esta Ley.
+La Dirección General de Anales de Jurisprudencia y Boletín Judicial, contará con una persona Titular de la Dirección General que deberá reunir los requisitos señalados en las fracciones I a V del artículo 22 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2050,29 +2754,37 @@ La Dirección General de Anales de Jurisprudencia y Boletín Judicial, contará 
 
 En la Ciudad de México se publicará una revista que se denominará “Anales de Jurisprudencia”, la que tendrá por objeto dar a conocer tanto estudios jurídicos, como los fallos más notables y precedentes que sobre cualquier materia pronuncie el Tribunal Superior de Justicia, en Pleno o Salas, misma que deberá publicarse de manera bimestral.
 
-El Boletín Judicial contendrá los acuerdos, sentencias y avisos de todos los Juzgados y Salas, así como los avisos y acuerdos del Pleno y del Consejo, su publicación se hará todos los días laborables del Tribunal Superior de Justicia.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+El Boletín Judicial contendrá los acuerdos, sentencias y avisos de todas las autoridades jurisdiccionales y Salas, así como los avisos y acuerdos del Pleno y del Consejo, su publicación se hará todos los días laborables del Tribunal Superior de Justicia.
 
 ###### Artículo 180.
 
 En todo lo relativo a las publicaciones, el Consejo de la Judicatura administrará los ingresos que por ventas se recaben, haciendo las aplicaciones que estime pertinentes y cuyo producto se destinará exclusivamente para la ampliación y el mejoramiento de dichas publicaciones.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 181.
 
-Los edictos, convocatorias y demás avisos judiciales que deban insertarse en el Boletín Judicial, se publicarán gratuitamente en negocios cuya cuantía no exceda de treinta veces la Unidad de Cuenta de la Ciudad de México vigente.
+Los edictos, convocatorias y demás avisos judiciales que deban insertarse en el Boletín Judicial, se publicarán gratuitamente en la materia civil y en las diversas materias serán gratuita (sic) en negocios cuya cuantía no exceda de treinta veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 182.
 
-Queda a cargo de la propia Dirección la publicación de las resoluciones que se dicten por el Pleno del Tribunal en los casos a que se refiere la fracción III del artículo 37 de esta Ley, la Jurisprudencia y tesis sobresalientes de los Tribunales Federales entre Jueces y Magistrados, mediante la consulta respectiva que se haga del Semanario Judicial de la Federación.
+Queda a cargo de la propia Dirección la publicación de las resoluciones que se dicten por el Pleno del Tribunal en los casos a que se refiere la fracción III del artículo 37 de esta Ley, la Jurisprudencia y tesis sobresalientes de los Tribunales Federales entre personas Juzgadoras y personas Magistradas, mediante la consulta respectiva que se haga del Semanario Judicial de la Federación.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE PROCEDIMIENTOS JUDICIALES
+### CAPÍTULO III. DE LA UNIDAD DE TRABAJO SOCIAL, DEL SERVICIO DE INFORMÁTICA Y BIBLIOTECA Y DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA
 
 ###### Artículo 183.
 
 El Tribunal Superior de Justicia, contará con una Unidad de Trabajo Social, cuyo principal objetivo será auxiliar a las Magistradas, Magistrados, Juezas, Jueces, al Centro de Convivencia Familiar Supervisada y al Instituto de Servicios Periciales y Ciencias Forenses, en los casos en que la Ley lo prevé. Contará con una persona Jefa de Unidad y con el número de trabajadores sociales y el personal de apoyo administrativo necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 184.
 
-El Tribunal Superior de Justicia contará con un sistema de cómputo y red interna para las Salas y Juzgados, al que sólo tendrán acceso las y los Jueces y las y los Magistrados.
+El Tribunal Superior de Justicia contará con un sistema de cómputo y red interna para las Salas y órganos jurisdiccionales, al que sólo tendrán acceso las personas Juzgadoras y las personas Magistradas.
 
 De igual forma, el Tribunal Superior de Justicia contará con un sistema de Internet de servicio al público, en los términos que establezca el Consejo de la Judicatura.
 
@@ -2080,53 +2792,127 @@ Asimismo, contará con un servicio de Biblioteca, en los términos que establezc
 
 Ambos servicios contarán con el personal especializado y administrativo que designe el Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 185.
 
-El Centro de Convivencia Familiar Supervisada es un órgano del Tribunal Superior de Justicia con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno–filial en aquellos casos que, a juicio de los Titulares de los Juzgados y Salas de lo Familiar, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
+El Centro de Convivencia Familiar Supervisada es un órgano del Tribunal Superior de Justicia con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno-filial en aquellos casos que, a juicio de las autoridades jurisdiccionales, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior de la niña, niño o adolescente.
 
-Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones, o bien por videoconferencia supervisada.
 
 El Centro de Convivencia Familiar Supervisada será administrado y vigilado por el Consejo de la Judicatura, el cual expedirá las bases para su organización y funcionamiento.
 
-El Centro de Convivencia Familiar Supervisada estará integrado por una estructura conformada por una Dirección, dos Subdirecciones y el cuerpo de trabajadores sociales y psicólogos necesarios para el cumplimiento de sus funciones. Deberá igualmente, contar con los Secretarios Auxiliares que sean necesarios para dar fe.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Para ser Titular de la Dirección del Centro de Convivencia Familiar deberá reunir los requisitos señalados por las fracciones I, II, IV y V del artículo 22 de esta Ley, además deberá poseer título con antigüedad de cinco años a nivel licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
+El Centro de Convivencia Familiar Supervisada estará integrado por una estructura conformada por una Dirección, dos Subdirecciones y el cuerpo de personas trabajadoras sociales y psicólogas necesarias para el cumplimiento de sus funciones. Deberá igualmente, contar con las personas Secretarias Auxiliares que sean necesarios para dar fe.
 
-### CAPÍTULO V. DE LA DIRECCIÓN DE CONSIGNACIONES CIVILES Y DE LA OFICIALÍA DE PARTES COMÚN PARA LOS JUZGADOS
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La persona que aspire a ser Titular de la Dirección del Centro de Convivencia Familiar deberá reunir los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Ser persona mexicana por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Contar con título a nivel licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que concursa;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Haber residido en la Ciudad de México o en su área Metropolitana durante los dos años anteriores al día de la designación y presentar su declaración de evolución patrimonial, así como la de intereses conforme a la ley de la materia; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
+
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE PROCEDIMIENTOS JUDICIALES
 
 ###### Artículo 186.
 
-La Dirección General de Procedimientos Judiciales se compondrá por las siguientes áreas:
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-I. Oficialía de Partes Común para Juzgados y Salas;
-
-II. Dirección de Consignaciones Civiles;
-
-III. Dirección de Turno de Consignaciones Penales; y
-
-IV. Oficialía de Partes Común para los Juzgados.
-
-Para ser Titular de la Dirección General de Procedimientos Judiciales, se deberán satisfacer los requisitos que señala el artículo 22 de esta Ley, con excepción de lo establecido en las fracciones VI y VII.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 187.
 
-Corresponde a la Oficialía de Partes Común para Juzgados y Salas que integran el Tribunal Superior de Justicia:
+Corresponde a la Oficialía de Partes Común para órganos jurisdiccionales y Salas que integran el Tribunal Superior de Justicia:
 
 I. Asignar la Sala que corresponda para su conocimiento, en términos de estricto control, el turno para la resolución de recursos y de incompetencias, así como de los demás asuntos que deban conocer, el cual se realizará de manera equitativa a través del programa respectivo, mediante el sistema de cómputo aprobado por el Consejo de la Judicatura. Si con anterioridad una Sala ha conocido de un recurso o excepción de incompetencia, será la misma que deberá conocer de los recursos subsecuentes deducidos de los mismos autos;
 
-II. Recibir los escritos de término en materia constitucional, civil, familiar, laboral y de extinción de dominio que se presenten fuera del horario de labores de las Salas o Juzgados;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-III. Turnar las demandas nuevas a los diversos juzgados en las ramas civil, familiar, laboral y de extinción de dominio, así como de los demás asuntos que deban conocer, cuya tramitación no este reservada por esta Ley a diversa área administrativa para turnarlo, el cual se realizará de manera equitativa a través del programa respectivo, mediante el sistema de cómputo aprobado por el Consejo de la Judicatura;
+II. Recibir los escritos o promociones posteriores de término, que se presenten de manera física o electrónica, en materia constitucional, civil, familiar, laboral y de extinción de dominio que se presenten fuera del horario de labores de las Salas o de los órganos jurisdiccionales.
 
-IV. Realizar los cambios correspondientes en su base de datos, cuando le sea indicada alguna corrección en el nombre de los interesados o de las partes, por los órganos jurisdiccionales competentes para ello e informar lo realizado, oportunamente a la autoridad correspondiente que haya indicado el cambio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V. Las demás que deriven de esta Ley y las que resultan aplicables.
+III. Recibir físicamente las promociones por escrito, subsecuentes, aun cuando no sean de término, cuando se presenten después de las horas de atención al público y hasta el horario que determine el Consejo de la Judicatura de la Ciudad de México en acuerdos generales, y si exhiben copia de ellos se les devolverá sellada y firmada, con fecha y hora de su presentación, debiendo verificar únicamente que contengan la debida identificación del nombre de las partes, juicio, número de expediente y autoridad a la cual se dirige, para ser remitidas a la autoridad jurisdiccional correspondiente al día y hora hábil siguiente a su presentación.
 
-La Oficialía de Partes estará a cargo de una Directora o Director, que deberá satisfacer los requisitos establecidos por las fracciones I a V del artículo 22 de esta Ley; salvo en la antigüedad del Título, que será de cinco años.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-La Oficialía permanecerá abierta durante las horas hábiles que establezca el Código de Procedimientos Civiles vigente en la Ciudad de México.
+IV. Remitir las promociones electrónicas subsecuentes, presentadas en cualquier hora en el sistema de justicia digital autorizado, a la autoridad jurisdiccional correspondiente al día y hora hábil siguiente a su presentación, debiendo verificar únicamente, que contengan los datos de identificación, es decir, nombre de las partes, juicio y número de expediente, para ser remitidas vía electrónica a la autoridad jurisdiccional del conocimiento.
 
-### CAPÍTULO VI. DE LA DIRECCIÓN DE TURNO DE CONSIGNACIONES PENALES Y DE JUSTICIA PARA ADOLESCENTES
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Turnar las demandas nuevas que se presenten de manera física o electrónica a los diversos órganos jurisdiccionales en las ramas laboral y de extinción de dominio, y en las ramas civil y familiar, turnarlas a las Unidades de Gestión de Etapa Postulatoria, en materias Civil o Familiar, así como de los demás asuntos que deban conocer, cuya tramitación no esté reservada por esta Ley a diversa área administrativa para turnarlo, el cual se realizará de manera equitativa a través del programa respectivo, mediante el sistema de cómputo aprobado por el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Verificar que cuando se trate de procedimientos en línea, la demanda y documentos siempre se presenten vía electrónica a través (sic) portal autorizado por el Consejo de la Judicatura, verificando en todos los casos, que cuenten con la firma electrónica avanzada de quien suscribe el escrito inicial, para ser turnada a la autoridad jurisdiccional que corresponda.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. El personal de la Oficialía de Partes, una vez que reciba el escrito de demanda, emitirá acuse de recibo físico o electrónico, en el que conste la fecha y hora de presentación, número de expediente y autoridad jurisdiccional que conocerá del mismo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Realizar los cambios correspondientes en su base de datos, cuando le sea indicada alguna corrección en el nombre de los interesados o de las partes, por los órganos jurisdiccionales competentes para ello e informar lo realizado, oportunamente a la autoridad correspondiente que haya indicado el cambio;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. Las demás que deriven de esta Ley y de aquéllos ordenamientos que resulten aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La Oficialía de Partes estará a cargo de una persona Directora, que deberá satisfacer los requisitos siguientes:
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+a) Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+b) Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+c) Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+d) Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que aplica; y,
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+e) Haber residido en la Ciudad de México o en su área Metropolitana durante los dos años anteriores al día de la designación y presentar su declaración de evolución patrimonial y de intereses, conforme a la ley de la materia.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La Oficialía permanecerá abierta durante las horas hábiles que establezca el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. DE LA DIRECCIÓN DE CONSIGNACIONES CIVILES Y DE LA OFICIALÍA DE PARTES COMÚN PARA LOS ÓRGANOS JURISDICCIONALES
 
 ###### Artículo 188.
 
@@ -2134,55 +2920,193 @@ La Dirección de Consignaciones Civiles tendrá competencia para conocer de las 
 
 La Consignación de dinero deberá hacerse exhibiendo billete de depósito, expedido por institución legalmente facultada para ello.
 
-La Dirección de Consignaciones Civiles notificará personalmente de manera fehaciente a la consignataria o consignatario la existencia del billete de depósito a su favor, para que éste, dentro del término de un año, acuda ante la misma, la que previa identificación y recibo hará la entrega correspondiente.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-En caso de oposición o de no presentarse la consignataria o consignatario, a petición del interesado se expedirá la constancia resultante.
+La Dirección de Consignaciones Civiles notificará personalmente de manera fehaciente a la persona consignataria la existencia del billete de depósito a su favor, para que ésta, dentro del término de un año, acuda ante la misma, la que previa identificación y recibo hará la entrega correspondiente.
 
-Esta Dirección estará a cargo de una persona Directora, que deberá satisfacer los requisitos que se establecen en las fracciones I a IV y VI del artículo 22 de esta Ley.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En caso de oposición o de no presentarse la persona consignataria, a petición de la persona interesada se expedirá la constancia resultante.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Esta Dirección estará a cargo de una persona Directora, que deberá satisfacer los requisitos siguientes:
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+a) Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+b) Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+c) Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+d) Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que concursa; y,
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+e) Gozar de buena reputación, para lo cual se tomará en cuenta no ser persona deudora alimentaria morosa y contar con una trayectoria laboral respetable a través de un estudio minucioso de los antecedentes de la persona postulante en el que se pueda evaluar su conducta ética.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 189.
 
-Para los Juzgados del Ramo Civil, de Extinción de Dominio y Familiares, se contará con una Oficialía de Partes Común, que estará a cargo de un Titular de la Dirección, el que deberá reunir los requisitos que se señalan en las fracciones I a IV y VI del artículo 22 de esta Ley.
+Para los órganos jurisdiccionales del Ramo Civil, de Extinción de Dominio y Familiares, se contará con una Oficialía de Partes Común, que estará a cargo de una persona Titular de la Dirección.
 
-### CAPÍTULO VII. DE LA DIRECCIÓN JURÍDICA
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Esta Dirección estará a cargo de una persona Directora, que deberá satisfacer los requisitos siguientes:
+
+a) Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+b) Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+c) Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+d) Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que concursa; y,
+
+e) Gozar de buena reputación, para lo cual se tomará en cuenta no ser persona deudora alimentaria morosa y contar con una trayectoria laboral respetable a través de un estudio minucioso de los antecedentes del postulante en el que se pueda evaluar su conducta ética.
+
+### CAPÍTULO VI. DE LA DIRECCIÓN DE TURNO DE CONSIGNACIONES PENALES Y DE JUSTICIA PARA ADOLESCENTES
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 190.
 
-Corresponde a la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes, recibir diariamente las consignaciones que remita la Procuraduría General de Justicia de la Ciudad de México para su distribución a los Jueces Penales y los pliegos de actos antisociales para su distribución a los de Justicia para Adolescentes, según su competencia que se llevará a cabo conforme a las reglas que para el efecto expida el Consejo de la Judicatura.
+Corresponde a la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes, recibir diariamente las consignaciones que remita la Fiscalía General de Justicia de la Ciudad de México para su distribución a las personas Juzgadoras en materia Penal y los pliegos de actos antisociales para su distribución a los de Justicia para Adolescentes, según su competencia que se llevará a cabo conforme a las reglas que para el efecto expida el Consejo de la Judicatura.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 191.
 
-La Dirección de Turno de Consignaciones Penales estará integrada por un titular director y el personal administrativo suficiente para su buen funcionamiento.
+La Dirección de Turno de Consignaciones Penales estará integrada por una persona Titular de la Dirección y el personal administrativo suficiente para su buen funcionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 192.
 
-Quien ejerza la Titularidad de la Dirección deberá reunir los requisitos señalados en el artículo 22 de esta Ley.
+Quien ejerza la Titularidad de la Dirección deberá reunir los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que aplica;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Haber residido en la Ciudad de México o en su área Metropolitana durante los dos años anteriores al día de la designación y presentar su declaración de evolución patrimonial y de intereses, conforme a la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Gozar de buena reputación, para lo cual se tomará en cuenta no ser persona deudora alimentaria morosa y contar con una trayectoria laboral respetable a través de un estudio minucioso de los antecedentes de la persona postulante en el que se pueda evaluar su conducta ética;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. No haber sido persona condenada por sentencia firme, por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, la inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Participar y obtener resultado favorable en los exámenes que se establezcan para acceder al cargo, en los mismos términos de la normativa que los regule.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 193.
 
-La Dirección estará en servicio en los días y horarios que señalen las reglas de turno de los jueces penales.
+La Dirección estará en servicio en los días y horarios que señalen las reglas de turno de los órganos jurisdiccionales penales.
 
-### CAPÍTULO VIII. LA COORDINACIÓN DE RELACIONES INSTITUCIONALES
+### CAPÍTULO VII. DE LA DIRECCIÓN JURÍDICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 194.
 
-Corresponde a la Dirección Jurídica asesorar y desahogar consultas a los órganos, dependencias y unidades administrativas del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+Corresponde a la Dirección General Jurídica asesorar y desahogar consultas a los órganos, dependencias y unidades administrativas del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 Además, serán de su competencia los asuntos contenciosos laborales en donde el Tribunal Superior de Justicia o el Consejo de la Judicatura, o alguno de sus integrantes, por razón de su encargo sean parte.
 
-La Dirección Jurídica contará con una persona Titular de la Dirección y las demás personas servidoras públicas que requiera para el desarrollo de sus funciones, el cual deberá cumplir con los requisitos establecidos en el artículo 22 de esta Ley, con la salvedad de lo indicado en las fracciones VI y VII.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO IX. DE LA DIRECCIÓN DE ORIENTACIÓN CIUDADANA Y DERECHOS HUMANOS
+La Dirección General Jurídica contará con una persona Titular de la Dirección y las demás personas servidoras públicas que requiera para el desarrollo de sus funciones, el cual deberá cumplir con los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que aplica;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Haber residido en la Ciudad de México o en su área Metropolitana durante los dos años anteriores al día de la designación y presentar su declaración de evolución patrimonial y de intereses, conforme a la ley de la materia; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Participar y obtener resultado favorable en los exámenes que se establezcan para acceder al cargo, en los mismos términos de la normativa que los regulen.
+
+### CAPÍTULO VIII. LA COORDINACIÓN DE RELACIONES INSTITUCIONALES
 
 ###### Artículo 195.
 
 Corresponde a la Coordinación de Relaciones Institucionales, establecer vínculos de colaboración con los Poderes Ejecutivo y Legislativo y demás Instituciones de la Ciudad de México, que por sus características hagan necesaria la interacción con éstos y el Tribunal Superior de Justicia.
 
-La Coordinación de Relaciones Institucionales contará con un Coordinador y los demás servidores públicos indispensables que se requieran para el desarrollo de sus funciones.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-La persona Titular de la Coordinación de Relaciones Institucionales deberá cumplir con los requisitos del artículo 22 de esta Ley, con excepción de lo establecido por las fracciones VI y VII, además deberá contar con los conocimientos necesarios en las áreas administrativa y legislativa.
+La Coordinación de Relaciones Institucionales contará con una persona Coordinadora y las demás personas servidoras públicas indispensables que se requieran para el desarrollo de sus funciones.
 
-### CAPÍTULO X. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La persona Titular de la Coordinación de Relaciones Institucionales deberá cumplir con los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que aplica y, además contar con los conocimientos necesarios en las áreas administrativa y legislativa;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Haber residido en la Ciudad de México o en su área Metropolitana durante los dos años anteriores al día de la designación y presentar su declaración de evolución patrimonial y de intereses, conforme a la ley de la materia; y,
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Participar y obtener resultado favorable en los exámenes que se establezcan para acceder al cargo, en los mismos términos de la normativa que los regulen.
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE ORIENTACIÓN CIUDADANA Y DERECHOS HUMANOS
 
 ###### Artículo 196.
 
@@ -2192,19 +3116,43 @@ Asimismo, le corresponde coordinar las acciones de seguimiento, gestión, concer
 
 También le corresponde promover, difundir y fomentar los Programas referentes a la impartición de la justicia y de protección de los Derechos Humanos, así como servir de enlace con la Comisión de Derechos Humanos de la Ciudad de México y la Comisión Nacional de Derechos Humanos, para verificar el cumplimiento de los requerimientos y recomendaciones que emitan dichas instituciones.
 
-La Dirección de Orientación Ciudadana y Derechos Humanos contará con un Director y los servidores públicos indispensables que se requieran para el desarrollo de sus funciones.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-La o el Director deberá cumplir con los requisitos del artículo 22 de esta Ley, salvo lo establecido en la fracción V.
+La Dirección de Orientación Ciudadana y Derechos Humanos contará con una persona Directora y las personas servidoras públicas indispensables que se requieran para el desarrollo de sus funciones.
 
-### CAPÍTULO XI. DEL CENTRO DE JUSTICIA ALTERNATIVA
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+La persona Directora deberá cumplir con los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Ser mexicana o mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Contar con título de Licenciatura en Derecho y Cédula Profesional expedida por la autoridad o Institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional, relacionada con la materia del cargo para el que aplica;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Participar y obtener resultado favorable en los exámenes que se establezcan para acceder al cargo, en los mismos términos de la normativa que los regulen.
+
+### CAPÍTULO X. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 197.
 
 Corresponde a la Coordinación de Comunicación Social recabar y difundir la información generada por las diversas áreas del Tribunal Superior de Justicia y el Consejo de la Judicatura, así como llevar un seguimiento de las noticias que se divulguen tanto en medios impresos como electrónicos, contará con el personal indispensable para el desarrollo de sus actividades.
 
-Para ser Coordinadora o Coordinador de Comunicación Social del Tribunal Superior de Justicia, se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Para ser personas (sic) Coordinadora de Comunicación Social del Tribunal Superior de Justicia, se requiere:
 
 I. Poseer la nacionalidad mexicana;
 
@@ -2212,41 +3160,67 @@ II. Tener cuando menos treinta años de edad cumplidos el día de la designació
 
 III. Contar con experiencia mínima de cinco años y la capacidad indispensables para el desempeño del cargo; y
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-### CAPÍTULO XII. DE LOS SERVICIOS DE MEDIACIÓN, CONCILIACIÓN Y ARBITRAJES PRIVADOS
+IV. Gozar de buena reputación y no haber sido persona condenada por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, la inhabilitará para el cargo cualquiera que haya sido la pena.
+
+### CAPÍTULO XI. DEL CENTRO DE JUSTICIA ALTERNATIVA
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 198.
 
-El Centro de Justicia Alternativa formará parte del Poder Judicial de la Ciudad de México, mismo que se instituye para administrar y substanciar los medios alternos de solución de controversias, como la mediación, la conciliación, el arbitraje y aquellos señalados en la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México, para la atención de los conflictos de naturaleza civil, mercantil, familiar o penal, entre particulares, así como para su desarrollo.
+El Centro de Mecanismos Alternativos de Solución de Controversias forma parte del Poder Judicial de la Ciudad de México y cuenta con independencia técnica, operativa y de gestión, el cual se instituye para el ejercicio de los mecanismos alternativos de solución de controversias, enunciados en la ley de la materia.
 
-Estos medios alternativos de solución de controversias son parte fundamental y privilegiada del sistema integral de justicia de la Ciudad de México.
+Estos medios alternativos de solución de controversias, son parte fundamental y privilegiada del sistema integral de justicia de la Ciudad de México, los cuales, en términos de la Ley que los prevé, podrán tramitarse mediante el uso de tecnologías de la información y comunicación o sistemas en línea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 199.
 
-El Centro de Justicia Alternativa tendrá las siguientes atribuciones y facultades:
+Al Centro de Mecanismos Alternativos de Solución de Controversias, corresponde:
 
-I. El desarrollo y la administración eficaz y eficiente de los medios alternos de solución de controversias, principalmente de la mediación;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Actuar como órgano especializado en la aplicación de los mecanismos alternativos de solución de controversias en materia penal;
+I. Contar con la infraestructura y requerimientos tecnológicos necesarios para el trámite y prestación de los servicios de mecanismos alternativos de solución de controversias, de manera presencial o en línea, que les sean solicitados por las partes, privilegiando el acceso y comunicación a personas que pertenezcan a grupos de atención prioritaria;
 
-III. Facilitar el desarrollo y la administración eficaz y eficiente de la Justicia Alternativa a través de los medios alternos de solución de controversias en controversias civiles, mercantiles, familiares, penales cuando se trate de delitos no graves y de justicia para adolescentes y las demás reconocidas por la ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. Mediar en controversias vinculadas con el régimen de condominios;
+II. Proporcionar la información accesible al público, respecto del trámite y ejercicio de los mecanismos alternativos de solución de controversias;
 
-V. Coordinar con las instancias de acción comunitaria establecidas por la ley para la mediación y resolución de conflictos vecinales, comunitarios, de barrios y pueblos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI. La prestación de los servicios de información al público, sobre los medios alternativos de solución de controversias así como de orientación jurídica, psicológica y social a los mediados, durante su substanciación;
+III. Garantizar la accesibilidad y asequibilidad a los mecanismos alternativos de solución de controversias;
 
-VII. La capacitación, certificación, selección, registro y monitoreo de los facilitadores y de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VIII. La difusión y divulgación permanente de los servicios que presta;
+IV. Integrar y poner a disposición del público el Directorio actualizado de personas facilitadoras en el ámbito público y privado de la demarcación;
 
-IX. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-X. La supervisión constante de los servicios a cargo de las o los Mediadores y Facilitadores y del funcionamiento de los módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad, así como el registro de los convenios de mediación y de la base de datos de asuntos atendidos en materia penal;
+V. Promover, impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias;
 
-XI. El apoyo al trabajo jurisdiccional del Tribunal;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Coadyuvar en la implementación de programas, acciones y tareas en el ámbito de sus respectivas competencias en la materia;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. Actualizar y suministrar la información del Registro de Personas Facilitadoras correlativa a las personas facilitadoras de los Centros Públicos y Privados en el ámbito local;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Prestar asistencia técnica y consultiva a organismos públicos y privados, para el diseño y elaboración de políticas públicas y programas que contribuyan al mejoramiento del sistema de administración de justicia a través de los mecanismos alternativos de solución de controversias;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. Remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios para efectos estadísticos contenida en el Sistema de Convenios en el ámbito local;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+X. Mantener actualizada la información respecto del ejercicio de sus funciones y remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios y a la Plataforma Nacional de Personas Facilitadoras la información que corresponda, de conformidad con los Lineamientos que al efecto emita el Consejo Nacional de Mecanismos Alternativos de Solución de Controversias; y,
+
+XI. (DEROGADA, G.O. 29 DE NOVIEMBRE DE 2024)
 
 XII. El diseño y actualización de su normatividad interna, que será aprobada por el Presidente del Tribunal Superior de Justicia;
 
@@ -2256,19 +3230,29 @@ XIV. Operar como órgano especializado de la justicia para adolescentes; y
 
 XV. Cumplir con las disposiciones legales aplicables, así como con las que le atribuya expresamente esta Ley, sus disposiciones reglamentarias y los acuerdos que emita (sic) Presidente del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XVI. Las demás que le atribuyan las leyes y demás normativa aplicable, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 200.
 
-El Centro contará con una Dirección General, del cual partirá la estructura necesaria del mismo, para el desarrollo eficaz y eficiente de sus funciones, así como con una planta de mediadores especializados y el personal técnico y administrativo que para ello requiera.
+El Centro de Mecanismos Alternativos de Solución de Controversias contará con una persona Titular, de la que partirá la estructura necesaria del mismo, para el desarrollo eficaz y eficiente de sus funciones, así como con una planta de personas facilitadoras especializadas y el personal técnico y administrativo que para ello requiera.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-El Consejo de la Judicatura, a propuesta de la o el Presidente designará a la persona titular del Centro de Justicia Alternativa.
+El Consejo de la Judicatura, a propuesta de la persona que lo presida, designará a la persona titular del Centro de Mecanismos Alternativos de Solución de Controversias, quien deberá acreditar experiencia profesional de al menos cinco años en la materia y contar con Título y Cédula de Licenciatura en Derecho o en Abogacía, además de cubrir los requisitos aquellos que se requieren para ser persona facilitadora conforme a la Ley General de Mecanismos Alternativos de Solución de Controversias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 201.
 
-La o el Titular de la Dirección General será designado por el Consejo, para un periodo de seis años, sin posibilidad de reelección. En su persona se reunirán una formación y experiencia multidisciplinarias en Derecho, Psicología, Sociología, Mediación u otras áreas del conocimiento aplicables a los mecanismos alternativos de solución de controversias.
+La persona Titular del Centro de Mecanismos Alternativos de Solución de Controversias, será designada como se indica en el artículo 200 de la presente ley, para un periodo de cinco años, con posibilidad de ratificación hasta por un periodo igual.
 
-Durante el ejercicio de su encargo, el Titular de la Dirección General sólo podrá ser removido por la comisión de delitos dolosos o por actualizarse en su persona alguna (sic) de los supuestos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Durante el ejercicio de su encargo, la persona Titular del Centro sólo podrá ser removida por la comisión de delitos dolosos o por actualizarse en su persona alguno de los supuestos siguientes:
 
 I. El incumplimiento de sus atribuciones o negligencia en el desempeño de las mismas;
 
@@ -2286,19 +3270,29 @@ VII. Someter a la consideración del Consejo información falsa teniendo conocim
 
 VIII. Ausentarse de sus labores por más de tres días hábiles consecutivos sin la autorización de quien presida la Presidencia del Tribunal Superior de Justicia, o sin mediar causa de fuerza mayor o motivo justificado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 202.
 
-Para ser Directora o Director del Centro de Justicia Alternativa se deberán reunir los requisitos siguientes:
+Para ser Titular del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Ciudad de México, se deberán reunir los requisitos siguientes:
 
-I. Tener la ciudadanía mexicana en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Contar con nacionalidad mexicana en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener por lo menos treinta años de edad, cumplidos al día de la designación;
 
-III. Tener título y cédula profesionales de estudios de licenciatura en Derecho, Psicología, Sociología, Mediación u otras áreas del conocimiento aplicables a la función sustantiva del Centro;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. Tener práctica profesional mínima de cinco años, contados a partir de la fecha de expedición del título profesional;
+III. Contar con Título y Cédula profesional de estudios de licenciatura;
 
-V. Haber residido en la Ciudad de México durante el último año anterior al día de la designación;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. No ser declarada como persona deudora alimentaria morosa, ni estar inscrita en el Registro Nacional de Obligaciones Alimentaria (sic); y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Aprobar las evaluaciones que al efecto determinen los Poderes Judiciales Federal o de las entidades federativas según corresponda.
 
 VI. Gozar de buena reputación;
 
@@ -2306,47 +3300,75 @@ VII. No haber sido sentenciado, mediante sentencia condenatoria ejecutoriada, po
 
 VIII. Acreditar con al menos 75%, las evaluaciones que para el efecto prepare y aplique el Instituto de Estudios Judiciales.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 203.
 
-El Titular de la Dirección General, los que ejerzan en las Direcciones y Subdirecciones de Mediación del Centro de Justicia Alternativa del Tribunal Superior de Justicia, estarán facultados para expedir copias certificadas de los documentos que obren en los archivos del mismo, y para efectuar los registros e inscripciones que previene la legislación correspondiente.
+La persona Titular del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Ciudad de México, así como las personas facilitadoras públicas y privadas tendrán fe pública únicamente para certificar las copias de los documentos que por disposición de esta Ley deban agregarse a los convenios con la finalidad de acreditar que el documento es fiel reproducción de su original, que se tuvo a la vista con el único efecto de ser integrado como anexo al propio convenio, y para expedir copias certificadas de los convenios y demás documentación que se encuentre resguardada en su archivo.
 
-### CAPÍTULO I. DENOMINACIÓN, OBJETO, INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO XII. DE LOS SERVICIOS DE MEDIACIÓN, CONCILIACIÓN Y ARBITRAJES PRIVADOS
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 204.
 
-Los servicios de mediación, conciliación y arbitraje a cargo de personas que ejerzan como privados certificados y registrados por el Poder Judicial de la Ciudad de México en los términos de la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México, representan una función pública complementaria a la administración de justicia que corresponden a la figura de descentralización por colaboración, por lo que sus actividades son supervisadas y monitoreadas por el Centro de Justicia Alternativa a efecto de garantizar altos índices de competencia profesional.
+Los servicios de mediación, conciliación y arbitraje que se presten por personas que ejerzan como facilitadoras en el Centro de Mecanismos Alternativos de Solución de Controversias, se entenderán como auxiliares del Poder Judicial de la Ciudad de México, el Centro contará con independencia técnica, operativa y de gestión y los servicios podrán tramitarse mediante el uso de tecnologías de la información y comunicación o sistemas en línea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 205.
 
-Para ocupar el cargo de mediador, conciliador o árbitro privado se requiere:
+Para ocupar el cargo de persona facilitadora en el ámbito público o privado, por el Poder Judicial de la Ciudad de México, se requiere:
 
-I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos civiles y políticos y tener cuando menos veinticinco años de edad al día de su certificación y registro;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Poseer grado de licenciatura, así como dos años de experiencia profesional mínima demostrable;
+I. Contar con Título y Cédula profesional de estudios de licenciatura;
 
-III. Gozar de buena reputación profesional y reconocida honorabilidad;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. No haber sido sentenciado, mediante sentencia condenatoria ejecutoriada, por delito doloso que merezca pena privativa de libertad;
+II. Contar con nacionalidad mexicana en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-V. Presentar y aprobar el examen de conocimientos de competencias laborales;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. No haber sido persona sentenciada por delito doloso;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. No ser declarada como persona deudora alimentaria morosa, ni estar inscrita en el Registro Nacional de Obligaciones Alimentarias, y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Aprobar las evaluaciones que al efecto determinen los Poderes Judiciales Federal o de las entidades federativas según corresponda.
 
 VI. Aprobar los cursos de capacitación para la certificación y registro; y
 
 VII. Realizar las horas de práctica en el Centro que fijen las Reglas.
 
-La persona que haya obtenido la certificación y el registro para ejercer como mediador, conciliador y árbitro privado, previamente al inicio de sus funciones y dentro de los noventa días siguientes a la expedición de su constancia de certificación deberá cumplir con los requisitos previstos en la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas abogadas colaborativas que participen en los procesos a que se refiere la Ley General de Mecanismos Alternativos de Solución de Controversias, deberán estar certificadas por el Poder Judicial de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+###### Artículo 205 Bis.
+
+Las personas abogadas colaborativas que participen en los procesos a que se refiere la Ley General de Mecanismos Alternativos de Solución de Controversias, deberán estar certificadas por el Poder Judicial de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 206.
 
-Sin perjuicio de las responsabilidades legales en que pudiera incurrir el mediador, conciliador y árbitro privado en el ejercicio de su función, queda sometido al régimen disciplinario y procedimiento previsto en la Ley de Justicia de Alternativa del Poder Judicial de la Ciudad de México y las demás disposiciones aplicables.
+Sin perjuicio de las responsabilidades legales en que pudiera incurrir la persona facilitadora, abogada colaborativa o árbitra privada en el ejercicio de su función, quedan sometidas al régimen disciplinario y procedimiento previsto en la Ley General de Mecanismos Alternativos de Solución de Controversias y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 207.
 
-Los honorarios de los mediadores, conciliadores y árbitros privados que atiendan los casos que les remita algún Juzgador, en los términos de la Ley de Justicia Alternativa del Poder Judicial de la Ciudad de México, serán cubiertos por las partes, conforme lo establezcan las disposiciones aplicables.
+Los honorarios de las personas facilitadoras privadas, abogadas colaborativas y árbitros privadas que atiendan los casos que les remita alguna autoridad jurisdiccional, en los términos de la Ley General de Mecanismos Alternativos de Solución de Controversias, serán cubiertos por las partes, conforme lo establezcan las disposiciones aplicables.
 
 ## TÍTULO NOVENO. DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
-### CAPÍTULO II. FACULTADES Y OBLIGACIONES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
+### CAPÍTULO I. DENOMINACIÓN, OBJETO, INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### Artículo 208.
 
@@ -2458,7 +3480,9 @@ Los actos y decisiones del Consejo de la Judicatura, en ningún caso, podrán mo
 
 Las decisiones del Consejo de la Judicatura serán definitivas e inatacables y, por lo tanto, no procederá juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción o de ratificación a que se contrae el artículo 284 de esta Ley, así como la remoción de Magistradas, Magistrados y Juzgadores, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establece esta Ley.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. FACULTADES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
 ###### Artículo 218.
 
@@ -2498,7 +3522,9 @@ X. Determinar el número de Salas, Magistraturas, Juzgados, y demás personal co
 
 XI. Vigilar que se cumplan las disposiciones legales y administrativas relacionadas con sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-XII. Realizar visitas administrativas ordinarias cada tres meses a las Salas y Juzgados, por conducto de la Visitaduría Judicial, sin perjuicio de las que pueda realizar de manera extraordinaria, ya sea individual o conjuntamente en casos especiales cualesquiera de los Consejeros, pudiendo ser apoyados por las y los Magistrados de las Salas que conozcan de la misma materia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XII. Realizar visitas administrativas ordinarias a las Salas, Juzgados, Tribunales Laborales, Unidades de Gestión, Órganos Jurisdiccionales y Unidad de Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso por conducto de la Visitaduría Judicial, sin perjuicio de las que se puedan realizar de manera extraordinaria; ya sea individual o conjuntamente en casos especiales cualesquiera de las y los Consejeros, pudiendo ser apoyados por las y los Magistrados de las Salas que conozcan de la misma materia.
 
 También podrá el Consejo o la Visitaduría realizar visitas administrativas, cuando se trate de un medio de prueba dentro del trámite de una queja administrativa o de un procedimiento oficioso, o para verificar objetiva y oportunamente el eficaz funcionamiento de la instancia judicial de que trate, o en su caso, a petición de una Magistrada o Magistrado, cuando se trate de Juzgados.
 
@@ -2506,9 +3532,9 @@ XIII. Designar a una persona Titular de la Secretaría General del Consejo, la c
 
 XIV. Designar al Jurado que con la cooperación de instituciones públicas o privadas se integrará para el examen que presentarán las personas que deban ejercer los cargos de peritos, en los asuntos que se tramiten ante el Tribunal y dentro de los requisitos que esta Ley señale;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XV. Nombrar a las personas Titulares de la Visitaduría General y de las Visitadurías Judiciales.
+XV. Nombrar a la persona Titular de la Visitaduría Judicial y a las personas Visitadoras Judiciales
 
 XVI. Proponer al Congreso la o el Titular de la Contraloría General;
 
@@ -2558,9 +3584,29 @@ XXXII. Expedir acuerdos, lineamientos y demás disposiciones administrativas que
 
 XXXIII. Nombrar a la persona titular del Centro de Justicia Alternativa, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XXXIV. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
+XXXIV. Aprobar acuerdos que autorice la actuación itinerante de las personas Juzgadoras dentro del territorio de la Ciudad de México, definiendo las condiciones y supuestos para ello, así como garantizando la continuidad de los asuntos una vez que regresen a la sede jurisdiccional;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXXV. Autorizar los asuntos en que podrán tramitarse juicios en línea y procedimientos sumarios, conforme a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXXVI. Autorizar el número de Unidades de Gestión Judicial que se requieran de acuerdo a la disponibilidad presupuestal, conforme las especialidades que considere para el correcto apoyo Judicial en cualquier materia, pudiendo integrarlas con personal de Carrera Judicial o Administrativa;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXXVII. Modificar la competencia, adscripción de personal, extinción y transformación de juzgados, creación (sic) unidades de gestión judicial y demás acciones necesarias para la implementación, instrumentación, consolidación y desarrollo del Código Nacional de Procedimientos Civiles y Familiares, privilegiando la calidad de servicio y la gestión de calidad en estos procesos.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXXVIII. Expedir las reglas de turno ordinario y extraordinario de las Unidades de Gestión Judicial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXXIX. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura
 
 ###### Artículo 219.
 
@@ -2596,15 +3642,13 @@ XII. Presentar propuestas de acuerdos Generales, lineamientos y demás disposici
 
 XIII. Las demás que determinen las leyes y el Reglamento Interior del Consejo.
 
-### CAPÍTULO I. DE LA OFICIALÍA MAYOR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+### CAPÍTULO ÚNICO
 
 ## TÍTULO DÉCIMO. DE LA VISITADURÍA JUDICIAL
 
-### CAPÍTULO II. DEL INSTITUTO DE SERVICIOS PERICIALES Y CIENCIAS FORENSES
+### CAPÍTULO I. DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 220.
 
@@ -2626,53 +3670,75 @@ Las personas con nombramiento de Visitadores deberán realizar visitas administr
 
 Ninguna de estas personas Visitadoras podrá visitar los mismos órganos por más de dos ocasiones en un año.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 223.
 
-En las visitas ordinarias las personas Visitadoras, tomando en cuenta las particularidades de cada órgano, realizarán además de lo que específicamente determine el Consejo de la Judicatura, lo siguiente:
+En las visitas ordinarias las personas Visitadoras Judiciales, tomando en cuenta las particularidades de cada Sala, Juzgado, Tribunal Laboral, Unidad de Gestión y Órgano Jurisdiccional, realizarán además de lo que específicamente determine el Consejo de la Judicatura, lo siguiente:
 
-I. Pedirán la lista del personal para comprobar su asistencia;
+I. Pedirán la lista del personal integrante de las áreas a supervisar, para comprobar su asistencia;
 
-II. Verificarán que los valores estén debidamente guardados, ya sea en la caja de seguridad del órgano, o en la institución autorizada al efecto por la ley o en el Monte de Piedad;
+II. Supervisar el registro de control de los valores de ingresos y egresos;
 
-III. En los juzgados penales corroborarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
+III. En los juzgados penales corroborarán si los procesados que disfrutan de libertad cumplen con las obligaciones decretadas por la autoridad correspondiente. Verificando que en los casos en que proceda la prescripción, ya sea por pretensión punitiva o potestad punitiva, se haya decretado ésta, por el órgano jurisdiccional.
 
-IV. Revisarán el libro de gobierno y los demás libros de control a fin de determinar si se encuentran en orden y contienen los datos requeridos;
+IV. Revisarán los lineamientos de control a fin de determinar si se encuentran en orden y contienen los datos requeridos de acuerdo con cada materia;
 
-V. Harán constar el número de asuntos que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita; y
+V. Harán constar el número de asuntos que hayan ingresado de la última visita al día anterior a la que ésta se practique;
 
-VI. Examinarán los expedientes formados a fin de verificar que se llevan con arreglo a la ley, y cuando el Visitador advierta que en un proceso se venció el término para dictar cualquier resolución, recomendará que ésta se pronuncie a la brevedad.
+VI. Examinarán los tocas, expedientes, causas y/o carpetas formadas a fin de verificar que se integren acorde a la normatividad que rija la actuación del área correspondiente y cuando la persona Visitadora Judicial advierta que en un proceso se venció el término para dictar cualquier resolución, recomendará que ésta se pronuncie a la brevedad.
 
-De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, la firma del Titular del Juzgado o de la Magistratura que corresponda y la de la persona Visitadora.
+VII. Verificar que las audiencias se lleven a cabo en las horas en que se encuentren señaladas;
 
-En caso de negarse a firmar el Titular del Juzgado o de la Magistratura, se hará constar esta situación y la causa de la misma, recabando la firma de dos testigos de asistencia.
+VIII. Verificar que las audiencias sean presididas físicamente por el titular del Órgano Jurisdiccional;
 
-El acta levantada por la persona visitadora será entregada al Titular del órgano visitado y a la Comisión de Disciplina Judicial, por conducto de la persona Visitadora General, a fin de que determine lo que corresponda y, en caso de responsabilidad, para que proceda en los términos previstos por esta Ley. La persona Visitadora General, con base a las actuaciones realizadas por los Visitadores, propondrá a la Comisión de Disciplina Judicial, por medio de proyectos, las sanciones o medidas correctivas conducentes.
+IX. Verificar que los indicadores de duración de audiencia hayan sido señalados conforme a los Lineamientos emitidos por el Pleno del Consejo; y
+
+X. Verificar si en las actuaciones de los procesos de materia civil se hace mención a los precedentes procesales a que se hace mención en los Lineamientos autorizados por el Pleno del Consejo.
+
+De toda visita deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de las personas titulares y demás personas servidoras del área de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar las personas titulares y demás personas servidoras del área; la firma del Titular del área respectiva, de la persona Visitadora Judicial y/o de las personas que hayan dado fe pública de lo asentado.
+
+En caso de negarse a firmar la persona Titular del área, o con quien se entendió la visita, se hará constar esta situación y la causa de la misma, recabando la firma de dos testigos de asistencia.
+
+El acta levantada por la persona Visitadora Judicial será entregada a la persona Titular del área visitada, y a la persona Visitadora General quien la remitirá a la Comisión de Disciplina Judicial, a fin de que determine lo que corresponda y, en caso de responsabilidad, para que proceda en los términos previstos por esta Ley. La persona Visitadora General, con base a las actuaciones realizadas por los Visitadores, propondrá a la Comisión de Disciplina Judicial, por medio de proyectos, las sanciones o medidas correctivas conducentes.
 
 ###### Artículo 224.
 
 El Consejo de la Judicatura, podrá ordenar la realización de visitas extraordinarias de inspección o acordar la integración de Comisiones Especiales de Investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Titular del Juzgado o de la Magistratura. En dichas Comisiones intervendrá además el Visitador General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 225.
 
-La Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso tiene como objeto dotar al Juzgador de los elementos suficientes para emitir una medida cautelar y su seguimiento.
+La Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso tiene como objeto dotar a la persona Juzgadora de los elementos suficientes para emitir una medida cautelar y su seguimiento.
 
 Esta Unidad, a solicitud de las partes, deberá proporcionarles la información sobre la evaluación de riesgo, previo a la audiencia para preparar el debate de la solicitud de las medidas cautelares.
 
 I. La Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso estará integrada por:
 
-a) Un Titular de la Dirección designado por el Pleno del Consejo de la Judicatura;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-b) La Jefatura de Departamento de evaluación del nivel de riesgo del imputado y, en consecuencia, la medida cautelar más apropiada para su caso;
+a) Una persona Titular de la Dirección designado por el Pleno del Consejo de la Judicatura;
 
-c) Evaluadores de riesgo, que se encuentren ubicados en las unidades de control de detención ya que constituyen un lugar en donde serán trasladados los detenidos, se considera para facilitar las entrevistas a los detenidos y que sean suficientes como el Consejo de la Judicatura determine;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-d) Áreas de supervisión de medidas cautelares, encargados de verificar su cumplimiento adecuado a través de las redes institucionales que para tal efecto se hayan articulado y mediante la verificación presencial por parte de los responsables de ésta área;
+b) La Jefatura de Departamento de evaluación del nivel de riesgo de la persona imputada y, en consecuencia, la medida cautelar más apropiada para su caso;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+c) Personas evaluadoras de riesgo, que se encuentren ubicadas en las unidades de control de detención ya que constituyen un lugar en donde serán trasladados los detenidos, se considera para facilitar las entrevistas a los detenidos y que sean suficientes como el Consejo de la Judicatura determine;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+d) Áreas de supervisión de medidas cautelares, encargados de verificar su cumplimiento adecuado a través de las redes institucionales que para tal efecto se hayan articulado y mediante la verificación presencial por parte de las personas responsables de esta área;
 
 e) Oficina de control de gestión, área responsable de concentrar las relacionadas con el control de reportes e indicadores; y
 
 f) Oficina de relaciones interinstitucionales, a esta área le corresponde mantener las buenas relaciones interinstitucionales.
 
-II. Para ser Titular de la Dirección de la Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Para ser persona Titular de la Dirección de la Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso se requiere:
 
 a) Tener cuando menos veinticinco años cumplidos;
 
@@ -2682,25 +3748,33 @@ c) No haber sido condenado en sentencia ejecutoriada por delito doloso; y
 
 d) Acreditar el proceso de selección que elabore el Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 226.
 
-Para ser evaluador de riesgo se requiere:
+Para ser persona evaluadora de riesgo se requiere:
 
 I. Tener cuando menos veinticinco años cumplidos al día de la asignación;
 
 II. Contar con título y cédula universitarios legalmente expedidos por autoridad o institución legalmente facultada para ello afín a las tareas de su encomienda;
 
-III. No haber sido condenado en sentencia ejecutoriada por delito doloso;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. No haber sido condenada en sentencia ejecutoriada por delito doloso;
 
 IV. Haber acreditado el examen de aptitud que elabore el Instituto de Estudios Judiciales.
 
-V. Para ser Titular de la Jefatura de departamento, entrevistador o supervisor de la Autoridad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso se deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Para ser persona Titular de la Jefatura de departamento, entrevistador o supervisor de la Autoridad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso se deberá:
 
 a) Tener cuando menos veinticinco años cumplidos;
 
 b) Contar con título universitario y cédula expedidos por autoridad o institución legalmente facultada para ello afín a las tareas de su encomienda;
 
-c) No haber sido condenado en sentencia ejecutoriada por delito doloso; y
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+c) Contar con título universitario y cédula expedidos por autoridad o institución legalmente facultada para ello afín a las tareas de su encomienda;
 
 d) Acreditar el examen de aptitud que elabore el Consejo de la Judicatura.
 
@@ -2708,15 +3782,23 @@ d) Acreditar el examen de aptitud que elabore el Consejo de la Judicatura.
 
 La Unidad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso, ejercerá las obligaciones que confiere el Código Nacional de Procedimientos Penales a la Autoridad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso; y tendrá, además, las facultades de:
 
-I.- Entrevistar al imputado previamente a la realización de cualquier audiencia sobre medidas cautelares, para obtener información relevante para decidir sobre las medidas cautelares. Antes de empezar la entrevista, la persona servidora pública encargada debe hacerle saber el objetivo de la entrevista, que tiene derecho a que su defensor esté presente durante la misma, que puede abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada para demostrar su culpabilidad. La entrevista se llevará a cabo con la presencia del defensor, en caso de que no esté presente su defensor, se llevará a cabo con un defensor de oficio;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II.- Verificar la información proporcionada por el imputado y recolectar aquella otra que sea relevante para decidir o modificar las medidas, de modo tal que éstas resulten adecuadas para que el imputado cumpla con sus obligaciones procesales. La información deberá incluir datos sobre la historia personal del imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra información pertinente;
+I.- Entrevistar a la persona imputada previamente a la realización de cualquier audiencia sobre medidas cautelares, para obtener información relevante para decidir sobre las medidas cautelares. Antes de empezar la entrevista, la persona servidora pública encargada debe hacerle saber el objetivo de la entrevista, que tiene derecho a que su persona defensora esté presente durante la misma, que puede abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada para demostrar su culpabilidad. La entrevista se llevará a cabo con la presencia de la persona defensora, en caso de que no esté presente su defensor, se llevará a cabo con un defensor de oficio;
 
-III.- Elaborar reportes para el Juzgador que contengan la información recabada en sus indagaciones, así como sus observaciones y recomendaciones sobre la necesidad y el tipo de medidas cautelares que sería necesario imponer al imputado para asegurar la protección e integridad de la víctima, de los testigos o de terceros; el desarrollo de la investigación o la comparecencia del imputado al proceso. En caso de urgencia el reporte podrá hacerse de manera verbal en una audiencia ante el Juzgador con la presencia de las partes. Cuando la publicidad afecte innecesariamente los derechos del imputado, a solicitud de éste, la audiencia podrá celebrarse en privado, siempre que sea grabada y preservada en el registro, bajo reserva, hasta que no exista justificación para levantarla;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II.- Verificar la información proporcionada por la persona imputada y recolectar aquella otra que sea relevante para decidir o modificar las medidas, de modo tal que éstas resulten adecuadas para que la persona imputada cumpla con sus obligaciones procesales. La información deberá incluir datos sobre la historia personal de la persona imputada, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra información pertinente;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III.- Elaborar reportes para la persona Juzgadora que contengan la información recabada en sus indagaciones, así como sus observaciones y recomendaciones sobre la necesidad y el tipo de medidas cautelares que sería necesario imponer a la persona imputada para asegurar la protección e integridad de la persona víctima, de las personas testigas o de terceras; el desarrollo de la investigación o la comparecencia de la persona imputada al proceso. En caso de urgencia el reporte podrá hacerse de manera verbal en una audiencia ante la persona Juzgadora con la presencia de las partes. Cuando la publicidad afecte innecesariamente los derechos de la persona imputada, a solicitud de éste, la audiencia podrá celebrarse en privado, siempre que sea grabada y preservada en el registro, bajo reserva, hasta que no exista justificación para levantarla;
 
 IV.- Entregar a las partes, al inicio de la audiencia en la que se discutan medidas cautelares, copias de los reportes relacionados con las mismas y recogerlos al término de la audiencia;
 
-V.- Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva, vigilar el estricto cumplimiento por parte del imputado de las obligaciones impuestas, y hacer recomendaciones sobre cualquier cambio que amerite alguna modificación de las medidas; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V.- Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva, vigilar el estricto cumplimiento por parte de la persona imputada de las obligaciones impuestas, y hacer recomendaciones sobre cualquier cambio que amerite alguna modificación de las medidas; y
 
 VI. Las demás que determine la Ley o demás disposiciones aplicables.
 
@@ -2724,27 +3806,43 @@ VI. Las demás que determine la Ley o demás disposiciones aplicables.
 
 Para cumplir con sus facultades de supervisión y vigilancia de la Unidad de Supervisión de Medidas Cautelares y de la suspensión condicional del proceso podrán además de las obligaciones que confiere el Código Nacional de Procedimientos Penales, además de las siguientes:
 
-I.- Establecer las condiciones y la periodicidad en que los imputados deben reportarse, canalizar a los imputados a servicios sociales de asistencia, públicos o privados, en materia de salud, empleo, educación, vivienda y apoyo jurídico;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II.- Realizar visitas no anunciadas en los domicilios o lugares de trabajo de los imputados;
+I.- Establecer las condiciones y la periodicidad en que las personas imputadas deben reportarse, canalizar a los imputados a servicios sociales de asistencia, públicos o privados, en materia de salud, empleo, educación, vivienda y apoyo jurídico;
 
-III.- Requerir que los imputados proporcionen muestras para detectar el posible uso de alcohol, en su caso, o de drogas prohibidas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV.- Supervisar que las personas e instituciones a las que el Juzgador encargue el cuidado del imputado, cumplan las obligaciones contraídas; y solicitar a los imputados informes y reportes que sean necesarios para verificar el cumplimiento de las condiciones impuestas;
+II.- Realizar visitas no anunciadas en los domicilios o lugares de trabajo de las personas imputadas;
 
-V.- Revisar y recomendar el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI.- Informar al Juzgador de cualquier violación a las medidas y condiciones impuestas y recomendar las modificaciones que estime pertinentes;
+III.- Requerir que las personas imputadas proporcionen muestras para detectar el posible uso de alcohol, en su caso, o de drogas prohibidas;
 
-VII. Realizar estudios estadísticos sobre el nivel del cumplimiento y efectividad de las medidas cautelares impuestas por las y los Jueces;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV.- Supervisar que las personas e instituciones a las que la persona Juzgadora encargue el cuidado del imputado, cumplan las obligaciones contraídas; y solicitar a los imputados informes y reportes que sean necesarios para verificar el cumplimiento de las condiciones impuestas;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V.- Revisar y recomendar el cambio de las condiciones de las medidas impuestas a la persona imputada, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Informar a la persona Juzgadora de cualquier violación a las medidas y condiciones impuestas y recomendar las modificaciones que estime pertinentes;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. Realizar estudios estadísticos sobre el nivel del cumplimiento y efectividad de las medidas cautelares impuestas por las personas Juzgadoras;
 
 VIII.- Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de los Estados, y
 
 IX.- Las demás que determine la Ley o demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 229.
 
-La Dirección de la Unidad de Gestión Judicial en materia Familiar tiene como objeto coordinar a las Unidades de Gestión Judicial en materia Familiar que apoyan a los Juzgados Familiares.
+La Dirección de la Unidad de Gestión Judicial en materia Familiar tiene como objeto coordinar a las Unidades de Gestión Judicial en materia Familiar.
 
 > <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2752,25 +3850,39 @@ La Dirección de la Unidad de Gestión Judicial en materia Familiar tiene como o
 
 Para ser persona Directora de la Unidad de Gestión Judicial en materia Familiar se deberán satisfacer los requisitos establecidos en el artículo 24 de esta Ley; además, se deberá acreditar tener conocimientos en la materia. Será designada por quien presida el Tribunal Superior de Justicia a propuesta de la Dirección General de Gestión Judicial, con apego a la normativa vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 231.
 
-La o el Director de la Unidad de Gestión Judicial en materia Familiar, tendrá las siguientes facultades:
+La persona Directora de la Unidad de Gestión Judicial en materia Familiar, tendrá las siguientes facultades:
 
 I. El control, administración y supervisión de las Unidades de Gestión Judicial en Materia Familiar;
 
-II. Supervisar la elaboración de los despachos, exhortos, actas, diligencias y toda clase de documentos cuya emisión sea ordenada por las y los Jueces de Proceso Oral en materia Familiar, dentro de los asuntos a su cargo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-III. Coordinar el auxilio que se le brinde a los Juzgados de Proceso Oral en materia Familiar en la digitalización de aquellos documentos, que por su volumen no puedan ser procesados en estos sin afectar su carga de trabajo;
+II. Supervisar la elaboración de los despachos, exhortos, actas, diligencias y toda clase de documentos cuya emisión sea ordenada por las personas Juzgadoras de Proceso Oral en materia Familiar, dentro de los asuntos a su cargo;
 
-IV. Coordinar el auxilio que se le brinde a los Juzgados de Proceso Oral en materia Familiar en el trámite y remisión de expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos, conforme a los lineamientos establecidos en esta Ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V. Supervisar la adecuada, oportuna y eficientemente preparación de las salas de audiencia oral para llevar a cabo las audiencias programadas por los Juzgados de Proceso Oral en materia Familiar;
+III. Coordinar el auxilio que se le brinde a las Unidades de Gestión en materia Familiar en la digitalización de aquellos documentos, que por su volumen no puedan ser procesados en estos sin afectar su carga de trabajo;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Coordinar el auxilio que se le brinde a las Unidades de Gestión en materia Familiar en el trámite y remisión de expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos, conforme a los lineamientos establecidos en esta Ley;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Supervisar la adecuada, oportuna y eficientemente preparación de las salas de audiencia oral para llevar a cabo las audiencias programadas por las Unidades de Gestión en materia Familiar;
 
 VI. Supervisar el control de agenda y asignación de las Salas de Audiencia Oral;
 
-VII. Supervisar y garantizar el trámite, administración y distribución de los insumos necesarios para la operación y el mantenimiento de los Juzgados de Proceso Oral en materia Familiar, y de las Salas de Audiencia Oral;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Diseñar y proponer al Director General de Gestión Judicial los mecanismos más eficientes para el desarrollo de sus funciones;
+VII. Supervisar y garantizar el trámite, administración y distribución de los insumos necesarios para la operación y el mantenimiento de las Unidades de Gestión en materia Familiar, y de las Salas de Audiencia Oral;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Diseñar y proponer a la persona Directora General de Gestión Judicial los mecanismos más eficientes para el desarrollo de sus funciones;
 
 IX. Rendir a la Dirección General de Gestión Judicial los informes que esta requiera;
 
@@ -2792,31 +3904,55 @@ XVI. Las demás que determinen la Dirección General de Gestión Judicial y la n
 
 La Dirección de la Unidad de Gestión Judicial en materia Familiar estará integrada por:
 
-I. Una Central de Comunicaciones Procesales, responsable de las siguientes actividades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-a) El control, evaluación y supervisión de los oficiales notificadores a su cargo;
+I. Una Central de personas Notificadoras, responsables de las siguientes actividades:
 
-b) La coordinación y organización equitativa del turno de las notificaciones ordenadas por las y los Jueces de Proceso Oral en materia Familiar, y que deban ser practicadas por los oficiales notificadores a su cargo;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-c) La recepción y registro, verificando que se cumpla con los términos legales, de las constancias de las notificaciones practicadas por los oficiales notificadores, turnándolas al Juzgado de Proceso Oral en Materia Familiar que corresponda; y
+a) El control, evaluación y supervisión de las personas oficiales notificadoras a su cargo;
 
-d) Las demás que determine la normatividad aplicable, y la o el Director de Gestión Judicial en materia Familiar;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Las Unidades de Apoyo Tecnológico estarán encargadas de:
+b) La coordinación y organización equitativa del turno de las notificaciones y ejecuciones ordenadas por los órganos jurisdiccionales, y que deban ser practicadas por las personas oficiales notificadoras a su cargo;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+c) La recepción y registro, verificando que se cumpla con los términos legales, de las constancias de las notificaciones y ejecuciones practicadas por las personas oficiales notificadoras turnándolas a la Unidad de Gestión en materia Familiar que corresponda; y
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+d) Las demás que determine la normatividad aplicable, y la persona Directora de Gestión Judicial en materia Familiar;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Una Unidad de Gestión Administrativa de Sistema de Audiencias, estarán encargadas de:
 
 a) La administración, control, operación y mantenimiento técnico de las Salas de Audiencia Oral;
 
-b) La preparación adecuada, oportuna y eficiente de las salas de audiencia oral, para que se lleven a cabo las audiencias programadas por los Juzgados de Proceso Oral en Materia Familiar;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-c) El auxilio técnico inmediato de las y los Jueces de Proceso Oral en materia Familiar durante la celebración de las audiencias orales;
+b) La preparación adecuada, oportuna y eficiente de las salas de audiencia oral, para que se lleven a cabo las audiencias programadas por las Unidades de Gestión en materia Familiar;
 
-d) El auxilio de las y los Jueces de Proceso Oral en Materia Familiar en la obtención de los soportes electrónicos de las audiencias que se celebren, identificándolos plenamente con el asunto al que pertenecen;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-e) La emisión de los respaldos y de las copias de seguridad de los soportes electrónicos de las audiencias que se celebren, y de entregarlos a la o al Juez correspondiente para su debido resguardo;
+c) El auxilio técnico inmediato de las personas Juzgadoras de Proceso Oral en materia Familiar durante la celebración de las audiencias orales;
 
-f) La emisión de las copias de los soportes electrónicos de las audiencias que se celebren, y que le sean solicitadas por el Juzgado de Proceso Oral en materia Familiar que corresponda;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-g) El control del registro de los soportes electrónicos que se generen de las audiencias orales celebradas, identificados por juzgado, número de expediente, número consecutivo, fecha de emisión, y en su caso número de copias emitidas;
+d) El auxilio de las personas Juzgadoras de Proceso Oral en Materia Familiar en la obtención de los soportes electrónicos de las audiencias que se celebren, identificándolas plenamente con el asunto al que pertenecen;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+e) La emisión de los respaldos y de las copias de seguridad de los soportes electrónicos de las audiencias que se celebren, y de entregarlos a la persona Juzgadora correspondiente para su debido resguardo;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+f) La emisión de las copias de los soportes electrónicos de las audiencias que se celebren, y que le sean solicitadas por la Unidad de Gestión en materia Familiar que corresponda;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+g) El control del registro de los soportes electrónicos que se generen de las audiencias orales celebradas, identificados por Unidad de Gestión, número de expediente, número consecutivo, fecha de emisión, y en su caso número de copias emitidas;
 
 h) La elaboración de los informes requeridos por la Dirección de Gestión Judicial en materia Familiar;
 
@@ -2824,15 +3960,27 @@ i) El diseño y propuesta, a la Dirección de Gestión Judicial en materia Famil
 
 j) Las demás que determinen la legislación aplicable y la Dirección de Gestión Judicial en materia Familiar.
 
-Estas áreas serán autónomas con relación a los Juzgados de Proceso Oral en materia Familiar y dependerán de la Dirección General de Gestión Judicial.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Una Unidad de Gestión Administrativa de Exhortos, responsable de las siguientes actividades; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Una Unidad de Gestión Administrativa de Sucesiones, responsable de las siguientes actividades.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 233.
 
-La o el Titular de la Central de Comunicaciones Procesales deberá satisfacer los requisitos del artículo 24 de esta Ley.
+La persona Titular de la Central de personas Notificadoras, deberá satisfacer los requisitos del artículo 24 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 234.
 
-La o el titular de la Unidad de Apoyo Tecnológico deberá:
+La persona titular de la Unidad de Gestión de Audiencias deberá:
 
 I. Ser mayor de veintiocho años;
 
@@ -2844,13 +3992,13 @@ IV. No haber sido condenado por delito doloso.
 
 ## TÍTULO DÉCIMO PRIMERO
 
-### CAPÍTULO III. DEL INSTITUTO DE ESTUDIOS JUDICIALES
+### CAPÍTULO II. DEL INSTITUTO DE SERVICIOS PERICIALES Y CIENCIAS FORENSES
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 235.
 
-La Oficialía Mayor dependerá de la o el Presidente del Poder Judicial de la Ciudad de México y podrá ser asistida por la Comisión de Administración y Presupuesto del Consejo; asimismo, contará con las Direcciones Ejecutivas y de Área que correspondan a los apartados de este artículo. Además, ejercerá directamente o por conducto de aquellas, las facultades y obligaciones siguientes:
+La Oficialía Mayor dependerá de la persona Magistrada que Presida el Poder Judicial de la Ciudad de México y podrá ser asistida por la Comisión de Administración y Presupuesto del Consejo; asimismo, contará con las Direcciones Ejecutivas y de Área que correspondan a los apartados de este artículo. Además, ejercerá directamente o por conducto de aquellas, las facultades y obligaciones siguientes:
 
 I. En materia de programación, presupuesto, planeación administrativa y organización:
 
@@ -2864,7 +4012,9 @@ II. En materia de Tecnologías de la Información:
 
 a) Proponer e instrumentar las normas generales aprobadas, así como las directrices, normas y criterios técnicos para la administración de los servicios de tecnologías de la información del Tribunal, así como vigilar su aplicación e informar de su cabal cumplimiento al Pleno del Consejo de la Judicatura;
 
-b) Proporcionar a las áreas del Tribunal Superior de Justicia, los servicios de apoyo requeridos en materia de diseño de sistemas y equipamiento tecnológico, que serán por lo menos los necesarios para que las Salas y Juzgados dispongan de los equipos de cómputo y sistemas de red interna, comunicaciones y archivo, así como los demás que sean necesarios para el mejor desempeño de las funciones del Tribunal Superior de Justicia; y
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+b) Proporcionar a las áreas del Tribunal Superior de Justicia, los servicios de apoyo requeridos en materia de diseño de sistemas y equipamiento tecnológico, que serán por lo menos los necesarios para que las Salas, Órganos Jurisdiccionales y Unidades de Gestión dispongan de los equipos de cómputo y sistemas de red interna, comunicaciones y archivo, así como los demás que sean necesarios para el mejor desempeño de las funciones del Tribunal Superior de Justicia; y
 
 c) Proponer al Pleno del Consejo de la Judicatura, los sistemas y procedimientos para la administración de los servicios de tecnologías de la información de la Institución, de acuerdo con sus programas y objetivos, y con la supervisión del Pleno del Consejo de la Judicatura instrumentarlos, así como darles seguimiento y verificar su estricta observancia.
 
@@ -2882,13 +4032,19 @@ b) Supervisar que las relaciones laborales se desarrollen de acuerdo con las pol
 
 c) Proponer al Pleno del Consejo de la Judicatura, los acuerdos relativos a la suscripción de contratos, convenios y acuerdos relativos al ejercicio de sus atribuciones, así como demás documentos que impliquen actos de administración, de acuerdo con las disposiciones legales aplicables y previo dictamen de la Dirección Jurídica;
 
-d) Formular, concertar e instrumentar, de conformidad con las directrices del Pleno del Consejo de la Judicatura, las condiciones generales de trabajo de los servidores públicos judiciales de base; y
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-e) Regular, sistematizar, dirigir, coordinar y supervisar el Servicio de Profesionalización y Desarrollo de las Personas Servidoras Públicas Administrativos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+d) Formular, concertar e instrumentar, de conformidad con las directrices del Pleno del Consejo de la Judicatura, las condiciones generales de trabajo de las personas servidoras públicas judiciales de base; y
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+e) Regular, sistematizar, dirigir, coordinar y supervisar el Servicio de Profesionalización y Desarrollo de las Personas Servidoras Públicas Administrativas del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 V. En materia general:
 
-a) Las demás que le confiera el Pleno del Consejo de la Judicatura (sic) México y las que le señalen las disposiciones legales y reglamentarias relativas;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+a) Las demás que le confiera el Pleno del Consejo de la Judicatura de la Ciudad de México y las que le señalen las disposiciones legales y reglamentarias relativas;
 
 b) La instrumentación de esas Direcciones Generales de la Oficialía Mayor será congruente con las disponibilidades presupuestales del Tribunal y con las atribuciones y responsabilidades que se les confieran en el Reglamento Interior del mismo;
 
@@ -2896,7 +4052,9 @@ b) La instrumentación de esas Direcciones Generales de la Oficialía Mayor ser�
 
 c) Asimismo, y en apoyo de la función jurisdiccional, la Oficialía Mayor tendrá a su cargo la administración, supervisión y control de las Unidades de Apoyo Tecnológico, propondrá al Consejo las políticas, lineamientos y criterios a los que dichas áreas deberán de sujetarse;
 
-d) La Oficialía Mayor estará a cargo de una persona servidora pública que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además, contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo; y
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+d) La Oficialía Mayor estará a cargo de una persona servidora pública que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 21 de esta Ley. Además, contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo.
 
 e) (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
@@ -2908,59 +4066,83 @@ La Dirección General de Gestión Judicial se integrará con las siguientes áre
 
 I. Direcciones de Gestión Judicial;
 
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Unidades de Gestión Judicial en materia Penal y Familiar, y
+II. Unidades de Gestión, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 III. Unidad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 237.
 
-Para ser persona Titular de la Dirección de Gestión Judicial se deberán satisfacer los requisitos dispuestos en el artículo 24 de esta Ley, salvo pronunciamiento expreso del Consejo de la Judicatura; y será designada por la o el Presidente del Tribunal Superior de Justicia a propuesta de la Dirección General de Gestión Judicial, con apego a la normatividad vigente.
+Para ser persona Titular de la Dirección de Gestión Judicial se deberán satisfacer los requisitos dispuestos en el artículo 24 de esta Ley, salvo pronunciamiento expreso del Consejo de la Judicatura; y será designada por la persona Magistrada que Presida el Tribunal Superior de Justicia a propuesta de la Dirección General de Gestión Judicial, con apego a la normatividad vigente.
 
 ###### Artículo 238.
 
 La persona Titular de la Dirección General de Gestión Judicial, dependerá de quien presida el Tribunal Superior de Justicia y tendrá las siguientes obligaciones y facultades:
 
-I. Cumplir con aquellas determinaciones que le confiere la o el Presidente del Tribunal Superior de Justicia, así como aquellas disposiciones que determine el Consejo de la Judicatura y las que le señalen las demás disposiciones jurídicas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. En apoyo de las funciones jurisdiccionales tendrá a su cargo la coordinación y supervisión de las Unidades de Gestión Judicial en Materia Penal, la Unidad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso, así como de la Unidad de Gestión Judicial en Materia Familiar;
+I. Cumplir con aquellas determinaciones que le confiere la persona Magistrada que preside el Tribunal Superior de Justicia, así como aquellas disposiciones que determine el Consejo de la Judicatura y las que le señalen las demás disposiciones jurídicas;
 
-III. Coordinar que las Unidades de Gestión Judicial en materia Penal y en materia Familiar, provean la programación de las diligencias a desarrollarse en las salas de audiencia a su cargo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. Proponer al Presidente del Tribunal Superior de Justicia las directrices que deberán seguir las Unidades de Gestión Judicial en materia Penal y materia Familiar para la administración de las agendas de las o los Jueces;
+II. En apoyo de las funciones jurisdiccionales tendrá a su cargo la coordinación y supervisión de las Unidades de Gestión Judicial en Materia Penal, la Unidad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso;
 
-V. Proponer al Presidente del Tribunal Superior de Justicia, las directrices que deberán seguir las Unidades de Gestión Judicial en materia Penal, respecto al archivo y control de las Carpetas Judiciales;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI. Proponer al Presidente del Tribunal Superior de Justicia, los mecanismos que se instrumentarán para la gestión de entrega de notificaciones en las Unidades que la componen;
+III. Coordinar que las Unidades de Gestión Judicial en materia Penal, provean la programación de las diligencias a desarrollarse en las salas de audiencia a su cargo;
 
-VII. Proponer al Presidente del Tribunal Superior de Justicia, la política y estándares de las áreas de atención ciudadano.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VIII. Participar en conversatorios y llegar a acuerdos con los operadores del Sistema Procesal Penal Acusatorio, a fin de proponer al Presidente del Tribunal Superior de Justicia directrices y lineamientos que deberán seguir las Unidades de Gestión Judicial en materia Penal;
+IV. Proponer a la persona Magistrada que Preside el Tribunal Superior de Justicia las directrices que deberán seguir las Unidades de Gestión Judicial en materia Penal, para la administración de las agendas de las personas Juzgadoras;
 
-IX. Coordinar la estrategia de vigilancia y acciones necesarias, a fin de garantizar que las Unidades de Gestión Judicial en materia Penal y en materia Familiar lleven a cabo la grabación sistemática de todas las audiencias y la administración del archivo de las mismas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Proponer a la persona Magistrada que preside el Tribunal Superior de Justicia, las directrices que deberán seguir las Unidades de Gestión Judicial en materia Penal, respecto al archivo y control de las Carpetas Judiciales;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Proponer a la persona Magistrada que preside el Tribunal Superior de Justicia, los mecanismos que se instrumentarán para la gestión de entrega de notificaciones en las Unidades que la componen;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. Proponer a la persona Magistrada que preside el Tribunal Superior de Justicia, la política y estándares de las áreas de atención ciudadano;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Participar en conversatorios y llegar a acuerdos con las personas operadoras del Sistema Procesal Penal Acusatorio, a fin de proponer a la persona Magistrada que preside el Tribunal Superior de Justicia directrices y lineamientos que deberán seguir las Unidades de Gestión Judicial en materia Penal;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. Coordinar la estrategia de vigilancia y acciones necesarias, a fin de garantizar que las Unidades de Gestión Judicial en materia Penal, lleven a cabo la grabación sistemática de todas las audiencias y la administración del archivo de las mismas;
 
 X. Coordinar mecanismos de vigilancia y acciones necesarias a efecto de que las Unidades que la componen cumplan los lineamientos y normatividad que al efecto se emitan.
 
 Proponer al Pleno del Tribunal Superior de Justicia las modificaciones y actualizaciones de los lineamientos y normatividad que considere necesarios para el correcto funcionamiento de las Unidades que la componen.
 
-XI. Promover y participar en conversatorios con las y los Magistrados, y con las y los Jueces, que permitan proponer a la o al Presidente de Tribunal Superior de Justicia, directrices que permitan la coordinación de las Unidades que componen esta Dirección General de Gestión Judicial con los órganos jurisdiccionales;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XI. Promover y participar en conversatorios con las personas Magistradas, y con las Juezas y los Jueces, que permitan proponer a la persona Magistrada que preside el Tribunal Superior de Justicia, directrices que permitan la coordinación de las Unidades que componen esta Dirección General de Gestión Judicial con los órganos jurisdiccionales;
 
 XII. Establecer las normas, políticas y procedimientos para la adecuada operación de todas las unidades administrativas bajo su responsabilidad con apego a la normativa vigente;
 
 XIII. Establecer los objetivos, metas y programas de trabajo de las áreas bajo su cargo;
 
-XIV. Coordinarse con las o los titulares de otras unidades administrativas cuando el caso lo requiera para el buen funcionamiento del área;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Coordinarse con las personas titulares de otras unidades administrativas cuando el caso lo requiera para el buen funcionamiento del área;
 
 XV. Formular los reportes de cumplimiento de metas que se requieran por las áreas administrativas competentes;
 
 XVI. Promover la capacitación y adiestramiento, así como el desarrollo de su personal, en coordinación con el área responsable de ello;
 
-XVII. Emitir opinión sobre las propuestas que la o el Presidente del Tribunal Superior de Justicia realice al Consejo de la Judicatura respecto de los nombramientos de las o los titulares de las Direcciones de Gestión Judicial, instancias que conforman la Dirección General de Gestión Judicial, así de los nombramientos de las o los titulares de Unidad de Gestión Judicial;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XVII. Emitir opinión sobre las propuestas que la persona Magistrada que preside el Tribunal Superior de Justicia realice al Consejo de la Judicatura respecto de los nombramientos de las personas titulares de las Direcciones de Gestión Judicial, instancias que conforman la Dirección General de Gestión Judicial, así de los nombramientos de las personas titulares de Unidad de Gestión Judicial;
 
 XVIII. Revisar los reportes de las áreas de Control de Gestión que pertenecen a sus unidades y actuar en consecuencia;
 
@@ -2972,21 +4154,29 @@ XXI. Proveer la información de la Dirección General de Gestión Judicial que l
 
 XXII. Coordinar la estrategia de vigilancia, así como acciones requeridas a efecto de que las y los Jueces reciban los elementos suficientes para que dicte las medidas cautelares y se dé el seguimiento que corresponda;
 
-XXIII. Previa propuesta a la o al Presidente de (sic) Tribunal Superior de Justicia, se promoverá conversatorios con las autoridades del ámbito de seguridad pública o ciudadana, para establecer mecanismos de coordinación interinstitucional que permita generar estrategias para la adecuada supervisión de las medidas cautelares;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XXIV. Previa propuesta a la o al Presidente de (sic) Tribunal Superior de Justicia, se promoverá (sic) conversatorios con las autoridades de la administración pública de la Ciudad de México y Organizaciones Civiles que puedan aportar en el seguimiento de aquellas suspensiones condicionales del proceso (sic) así lo requieran; y
+XXIII. Previa propuesta a la persona Magistrada que preside el Tribunal Superior de Justicia, se promoverá conversatorios con las autoridades del ámbito de seguridad pública o ciudadana, para establecer mecanismos de coordinación interinstitucional que permita generar estrategias para la adecuada supervisión de las medidas cautelares;
 
-XXV. Proponer a la o al Presidente del Tribunal Superior de Justicia proyectos de lineamientos y protocolos para la entrevista de los imputados, la verificación de información que estos proporcionan, así como la elaboración de reportes para la o el Juez, y aquellas funciones que le confiere el Código Nacional de Procedimientos Penales en la materia.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXIV. Previa propuesta a la persona Magistrada que preside el Tribunal Superior de Justicia, se promoverán conversatorios con las autoridades de la administración pública de la Ciudad de México y Organizaciones Civiles que puedan aportar en el seguimiento de aquellas suspensiones condicionales del proceso que así lo requieran; y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXV. Proponer a la persona Magistrada que Preside el Tribunal Superior de Justicia proyectos de lineamientos y protocolos para la entrevista de las personas imputadas, la verificación de información que estos proporcionan, así como la elaboración de reportes para la persona Juzgadora, y aquellas funciones que le confiere el Código Nacional de Procedimientos Penales en la materia.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 239.
 
-La Unidad de Gestión Judicial, por el número que se necesiten dependerá de quien sea nombrado Titular de la Dirección General de Gestión.
+La Unidad de Gestión Judicial, por el número que se necesiten dependerá de quien sea nombrada persona Titular de la Dirección General de Gestión.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 240.
 
-La Unidad de Gestión Judicial es el área de apoyo judicial encargada de dar trámite a la substanciación de los asuntos turnados para conocimiento de las Magistradas y los Magistrados Penales, así como las y los Jueces, todos del Sistema Penal Acusatorio, respecto al seguimiento de las carpetas judiciales, tanto en lo legal, como en lo administrativo.
+La Unidad de Gestión Judicial es el área de apoyo judicial encargada de dar trámite a la substanciación de los asuntos turnados para conocimiento de las personas Magistradas, así como de las Juzgadoras, todos del Sistema Penal Acusatorio, respecto al seguimiento de las carpetas judiciales, tanto en lo legal, como en lo administrativo.
 
 > <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3004,15 +4194,21 @@ Para ser persona Titular de las Unidades de Gestión Judicial se deberán satisf
 
 La persona Administradora de las Unidades de Gestión será responsable de:
 
-I. El resguardo de las salas de audiencias donde se despachen los Jueces de Control y el Tribunal de Enjuiciamiento;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Ejecutar las acciones necesarias para el desarrollo de sistema de gestión en apoyo al servicio de las y los Jueces, bajo los lineamientos autorizados por el Consejo de la Judicatura;
+I. El resguardo de las salas de audiencias en donde despachen las personas juzgadoras de Control y el Tribunal de Enjuiciamiento;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Ejecutar las acciones necesarias para el desarrollo de sistema de gestión en apoyo al servicio de las personas juzgadoras, bajo los lineamientos autorizados por el Consejo de la Judicatura;
 
 III. Dirigir los trabajos y supervisar el desempeño del personal a su cargo;
 
 IV. Vigilar la correcta y eficiente aplicación de los recursos asignados a su unidad;
 
-V. Vigilar el rol de turnos de los Jueces y demás personal del Tribunal Superior de Justicia, se realice en tiempo y forma;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Vigilar el rol de turnos de las personas juzgadoras y demás personal del Tribunal Superior de Justicia, se realice en tiempo y forma;
 
 VI.- Guardar el debido secreto respecto de los asuntos que por su oficio o puesto tenga conocimientos;
 
@@ -3036,7 +4232,9 @@ XIV. Las demás que le confieran las leyes, reglamentos y acuerdos que emita el 
 
 La Dirección de Gestión Judicial en materia Penal es la autoridad que tiene a su cargo los equipos multidisciplinarios de gestión que desarrollan el Sistema Procesal Penal Acusatorio en el Tribunal Superior de Justicia.
 
-La Dirección de Gestión Judicial en materia Penal es responsable de coordinar las funciones de las diversas Unidades de Gestión Judicial en materia Penal, Justicia para Adolescentes, Ejecución de Medidas Sancionadoras y Ejecución de Sanciones Penales que conforman el Sistema Procesal Penal Acusatorio y supervisa el apoyo que se brinda a las o los Magistrados y a las y los Jueces que integran el Sistema Procesal Penal Acusatorio.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La Dirección de Gestión Judicial en materia Penal es responsable de coordinar las funciones de las diversas Unidades de Gestión Judicial en materia Penal, Justicia para Adolescentes, Ejecución de Medidas Sancionadoras y Ejecución de Sanciones Penales que conforman el Sistema Procesal Penal Acusatorio y supervisa el apoyo que se brinda a las personas magistradas y a las personas juzgadoras que integran el Sistema Procesal Penal Acusatorio.
 
 ###### Artículo 245.
 
@@ -3050,11 +4248,15 @@ III. Proponer a la o al Director General de Gestión Judicial, la conformación 
 
 IV. Proponer a la o al Director General de Gestión Judicial la designación de las o los titulares de cada Unidad de Gestión Judicial;
 
-V. Vigilar que las Unidades de Gestión Judicial proporcionen el soporte logístico-administrativo a las Juezas o Jueces para la adecuada celebración de las audiencias;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Vigilar que las Unidades de Gestión Judicial proporcionen el soporte logístico-administrativo a las personas juzgadoras para la adecuada celebración de las audiencias;
 
 VI. Supervisar a las Unidades de Gestión Judicial existentes, la programación de las diligencias a desarrollarse en las salas de audiencia a su cargo;
 
-VII. Garantizar que las Unidades de Gestión Judicial administren de forma equitativa las agendas de las o los Jueces con base en los lineamientos y directrices establecidas, asegurando que se informe a las o los Jueces el detalle de la ejecución de las audiencias;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. Garantizar que las Unidades de Gestión Judicial administren de forma equitativa las agendas de las personas juzgadoras con base en los lineamientos y directrices establecidas, asegurando que se informe a las personas juzgadoras el detalle de la ejecución de las audiencias;
 
 VIII. Vigilar y generar controles a fin de que se realice el archivo de las Carpetas Judiciales conforme a los acuerdos, lineamientos y directrices existentes;
 
@@ -3068,13 +4270,17 @@ XII. Garantizar que las Unidades de Gestión graben de forma sistemática todas 
 
 XIII. Difundir y vigilar el cumplimiento de los lineamientos y normatividad en las Unidades de Gestión Judicial a su cargo;
 
-XIV. Garantizar que las o los titulares de cada Unidad de Gestión Judicial a su cargo acuerden con las y los Jueces coordinadores la resolución de los asuntos cuya tramitación se encuentre dentro de su área de su competencia;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Garantizar que las personas titulares de cada Unidad de Gestión Judicial a su cargo acuerden con las personas juzgadoras coordinadoras la resolución de los asuntos cuya tramitación se encuentre dentro de su área de su competencia;
 
 XV. Proponer a la Dirección General de Gestión Judicial las normas, políticas y procedimientos para la adecuada operación de todas las unidades administrativas bajo su responsabilidad;
 
 XVI. Proponer a la Dirección General los objetivos, metas y programas de trabajo de las áreas bajo su cargo;
 
-XVII. Previa autorización de la o del Director General de Gestión Judicial se coordinará con las o los titulares de otras unidades del Tribunal Superior de Justicia cuando el caso lo requiera para el buen funcionamiento del área;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XVII. Previa autorización de la persona Directora General de Gestión Judicial se coordinará con la persona titular de otras unidades del Tribunal Superior de Justicia cuando el caso lo requiera para el buen funcionamiento del área;
 
 XVIII. Formular los reportes de metas que las áreas competentes lo requieran;
 
@@ -3084,7 +4290,9 @@ XX. Revisar los reportes de las áreas de Control de Gestión que pertenecen a s
 
 XXI. Elaborar el proyecto de informe anual de su área para someterlo a su superior inmediato;
 
-XXII. Garantizará que las Unidades de Gestión a su cargo resguarden las salas de audiencia donde despachan las o los Jueces;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXII. Garantizará que las Unidades de Gestión a su cargo resguarden las salas de audiencia donde despachan las personas juzgadoras;
 
 XXIII. Proponer a la Directora o Director General el personal que conformará las Unidades de Gestión Judicial que se encuentran a su cargo;
 
@@ -3104,11 +4312,11 @@ XXX. Garantizar la correcta coordinación, ubicación, distribución del persona
 
 XXXI. Las demás que le confieran las leyes, reglamentos y acuerdos que emita el Pleno del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 246.
 
-Las Unidades de Gestión Judicial en materia Penal apoyarán a las Magistradas y los Magistrados, a las y los Jueces del (sic) Control, al Tribunal de Enjuiciamiento, de Ejecución, de Justicia para Adolescentes y Ejecución de Medidas Sancionadoras, conforme a la estructura que (sic) defina por el Consejo de la Judicatura.
+Las Unidades de Gestión Judicial en materia Penal apoyarán a las personas magistradas, a las personas juzgadoras de Control, al Tribunal de Enjuiciamiento, de Ejecución, de Justicia para Adolescentes y Ejecución de Medidas Sancionadoras, conforme a la estructura que defina el Consejo de la Judicatura.
 
 > <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3128,19 +4336,27 @@ Estas Unidades técnico administrativas estarán compuestas por el personal que 
 
 La Unidad de Recursos Materiales y Servicios Generales dependerán de la Dirección Ejecutiva de Obras, Mantenimiento y Servicios y la Unidad de Informática y Videograbación dependerá de la Dirección Ejecutiva de Gestión Tecnológica y serán estas Direcciones las responsables de proponer al Oficial Mayor su conformación de acuerdo a la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 249.
 
-La o el Administrador de las Unidades de Gestión Judicial será responsable de las siguientes funciones:
+La persona Administradora de las Unidades de Gestión Judicial será responsable de las siguientes funciones:
 
-I. Resguardar las salas de audiencias donde despachen las o los Jueces de Control y el Tribunal de Enjuiciamiento;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Ejecutar las acciones necesarias para el desarrollo del sistema de gestión en apoyo al servicio de las y los jueces, bajo los lineamientos autorizados por el Consejo de la Judicatura;
+I. Resguardar las salas de audiencias donde despachen las personas juzgadoras de Control y el Tribunal de Enjuiciamiento;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Ejecutar las acciones necesarias para el desarrollo del sistema de gestión en apoyo al servicio de las personas juzgadoras, bajo los lineamientos autorizados por el Consejo de la Judicatura;
 
 III. Dirigir los trabajos y supervisar el desempeño del personal a su cargo;
 
 IV. Vigilar la correcta y eficiente aplicación de los recursos asignados a su unidad;
 
-V. Vigilar que el rol de turnos de las y los Jueces y demás personal del Tribunal Superior de Justicia, se realice en tiempo y forma;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Vigilar que el rol de turnos de las personas juzgadoras y demás personal del Tribunal Superior de Justicia, se realice en tiempo y forma;
 
 VI. Guardar el debido secreto respecto de los asuntos que por su oficio o puesto tenga conocimiento;
 
@@ -3156,33 +4372,47 @@ XI. Aportar a la Oficialía Mayor la información que esta requiera con el fin d
 
 XII. Proveer la información relativa a su área y que las demás del Tribunal Superior de Justicia y Consejo de la Judicatura le requieran con motivo del cumplimiento de sus funciones;
 
-XIII. Proponer el nombramiento a la o al director de Gestión Judicial de la lista aspirantes que integrarán las Unidades de Gestión Judicial; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XIII. Proponer el nombramiento a la persona directora de Gestión Judicial de la lista aspirantes que integrarán las Unidades de Gestión Judicial; y
 
 XIV. Las demás que le confieran leyes, reglamentos, acuerdos y demás disposiciones jurídicas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DEL INSTITUTO DE ESTUDIOS JUDICIALES
+
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 250.
 
 El Instituto de Servicios Periciales y Ciencias Forenses es un órgano del Tribunal Superior de Justicia, especializado en la prestación de servicios periciales y forenses. El Instituto deberá garantizar en los dictámenes que emita la objetividad e imparcialidad de conformidad con lo dispuesto por leyes y los estándares nacionales e internacionales en la materia, en atención a lo dispuesto por el artículo 35 de la Constitución, Apartado F.
 
-Contará con un Consejo Técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto de Servicios Periciales y Ciencias Forenses, el cual será presidido por la persona titular de la Dirección General del Instituto de Servicios Periciales y Ciencias Forenses e integrado de la forma siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-I. Una persona titular de la Dirección General del Instituto de Servicios Periciales y Ciencias Forenses;
+Contará con un Consejo Técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto de Servicios Periciales y Ciencias Forenses, el cual será presidido por la persona titular de la Dirección del Instituto de Servicios Periciales y Ciencias Forenses e integrado de la forma siguiente:
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Una persona titular de la Dirección del Instituto de Servicios Periciales y Ciencias Forenses;
 
 II. Una persona titular de la Subdirección del Instituto de Servicios Periciales y Ciencias Forenses;
 
 III. Una persona titular de la Jefatura de Unidad Departamental del Instituto de Servicios Periciales y Ciencias Forenses; y
 
-IV. Tres peritos forenses, de los cuales uno será médico forense y dos especialistas en disciplinas forenses distintas.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Tres peritos forenses, de los cuales uno será persona médico forense y dos personas especialistas en disciplinas forenses distintas.
 
 La designación de los integrantes del Consejo Técnico estará a cargo del Consejo de la Judicatura, sujetándose a lo dispuesto en las siguientes fracciones:
 
-I. El Consejo Técnico se reunirá semestralmente, debiéndose renovar en su totalidad cada dos años con excepción del Director General, quien será miembro permanente y deberá presidir las reuniones mientras dure en su cargo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. El Consejo Técnico se reunirá semestralmente, debiéndose renovar en su totalidad cada dos años con excepción de la persona Directora, quien será miembro permanente y deberá presidir las reuniones mientras dure en su cargo;
 
 II. El Consejo Técnico será una instancia normativa de operación, control, supervisión y evaluación de las actividades técnicas periciales, así como de las de enseñanza e investigación.
 
-Los peritos asignados al Instituto de Servicios Periciales y Ciencias Forenses desempeñarán, en auxilio de la administración de justicia, las funciones establecidas por esta Ley y en el Reglamento Interno del Instituto.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas peritos asignados al Instituto de Servicios Periciales y Ciencias Forenses desempeñarán, en auxilio de la administración de justicia, las funciones establecidas por esta Ley y en el Reglamento Interno del Instituto.
 
 ###### Artículo 251.
 
@@ -3200,13 +4430,17 @@ V. Tratándose de cadáveres, vigilar que el personal pericial efectúe su activ
 
 VI. En casos detectados de mala práctica pericial, el Comité se reunirá para analizar y evaluar cada caso en particular, que de ser confirmada aquella, se informará lo conducente al Comité de Vigilancia del Consejo de la Judicatura.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 252.
 
-El Instituto de Servicios Periciales y Ciencias Forenses, estará integrado por personas que ejerzan la Dirección General, de Servicios Periciales, de Tanatología, de Clínica y Laboratorios, Administrativo, de Investigación y Enseñanza; subdirecciones de área, jefaturas de departamento y las demás personas servidoras públicas que se requieran para su correcto y adecuado funcionamiento.
+El Instituto de Servicios Periciales y Ciencias Forenses, estará integrado por una persona que ejerza la Dirección, personas que ejerzan las Subdirecciones de Tanatología, Clínica Forense y Laboratorios, Investigación y Enseñanza, una persona Coordinadora administrativa; Jefaturas de Unidad Departamental y las demás personas servidoras públicas que se requieran para su correcto y adecuado funcionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 253.
 
-Para desempeñar como Titular de la Dirección General del Instituto de Servicios Periciales y Ciencias Forenses, se requiere:
+Para desempeñar como persona Titular de la Dirección del Instituto de Servicios Periciales y Ciencias Forenses, se requiere:
 
 I. Tener la ciudadanía mexicana;
 
@@ -3222,9 +4456,11 @@ VI. Gozar de buena reputación; y
 
 VII. No haber sido condenado por sentencia definitiva por delito doloso alguno o estar inhabilitado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 254.
 
-Para desempeñar la Titularidad de la Dirección de Servicios Periciales, Tanatología, de Clínica y Laboratorios, Administrativo, y de Investigación y Enseñanza, se requiere:
+Para desempeñar la titularidad de las Subdirecciones de Tanatología, Clínica Forense y Laboratorios, Investigación y Enseñanza, así como la titularidad de la Coordinación Administrativa, se requiere:
 
 I. Tener la ciudadanía mexicana;
 
@@ -3238,39 +4474,35 @@ V. Haber cursado un posgrado (especialidad, maestría o doctorado) sobre la mate
 
 VI. Gozar de buena reputación; y
 
-VII. No haber sido condenado por sentencia definitiva por delito doloso alguno o estar inhabilitado.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. No haber sido condenada por sentencia definitiva por delito doloso alguno o estar inhabilitada.
 
 ###### Artículo 255.
 
-Para desempeñar la Titularidad de cualquier Subdirección de área se requiere:
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-I. Tener la ciudadanía mexicana;
-
-II. Contar con treinta años de edad cumplidos al día de la designación;
-
-III. El ejercicio sobre la materia deberá ser de cuatro años como mínimo;
-
-IV. Contar como mínimo con estudios de licenciatura con título y cédula registrado (sic) ante autoridad competente sobre la materia a ejercer;
-
-V. Haber cursado una especialidad sobre la materia a ejercer acreditándolo con los documentos correspondientes;
-
-VI. Gozar de buena reputación; y
-
-VII. No haber sido condenado por sentencia definitiva por delito doloso alguno o estar inhabilitado.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 256.
 
-Para desempeñar la Titularidad de una Jefatura de Departamento se requiere:
+Para desempeñar la Titularidad de una Jefatura de Unidad Departamental se requiere:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 I. Tener mínimo 30 años cumplidos al día de la designación;
 
-II. Deberá contar con 3 años de ejercicio en el Instituto de Ciencias Forenses;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Deberá contar con 3 años de ejercicio en el Instituto de Servicios Periciales y Ciencias Forenses;
 
 III. Haber cursado una especialidad sobre la materia y contar con diploma y cédula profesional;
 
 IV. Gozar de buena reputación; y
 
-V. No haber sido condenado por sentencia definitiva por delito doloso alguno o estar inhabilitado.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. No haber sido condenada por sentencia definitiva por delito doloso alguno o estar inhabilitada.
 
 ###### Artículo 257.
 
@@ -3304,21 +4536,25 @@ V. No haber sido condenado por sentencia definitiva por delito doloso alguno o e
 
 En relación al requisito para ocupar los cargos anteriormente señalados, relativo al no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, cuando se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 260.
 
-La designación de las personas Titulares de la Dirección General, de las Direcciones y Subdirecciones será efectuada por la o el Presidente del Tribunal Superior de Justicia.
+La designación de las personas Titulares de la Dirección, Subdirecciones, Jefaturas de Unidad Departamental y Coordinación Administrativa, será efectuada por la o el Presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 261.
 
-Son facultades y obligaciones del Director General del Instituto de Servicios Periciales y Ciencias Forenses
+Son facultades y obligaciones de la persona Titular de la Dirección del Instituto de Servicios Periciales y Ciencias Forenses
 
 I. Cuidar que el Instituto se desempeñe eficazmente dictando al efecto los acuerdos complementarios que fueren convenientes;
 
 II. Formular anualmente el programa de trabajo y someterlo a la aprobación del Consejo de la Judicatura;
 
-III. Convocar y presidir la junta de peritos médicos con el objeto de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Convocar y presidir la junta de peritas o peritos médicos con el objeto de:
 
 a) Estudiar los casos de singular importancia que se presenten;
 
@@ -3334,9 +4570,13 @@ f) Llevar a cabo las actividades académicas y de investigación, con la finalid
 
 IV. Representar a este Instituto en los actos oficiales, así como designar a quien lo represente en congresos y otros eventos científicos relacionados con las ciencias forenses;
 
-V. Atender personalmente o por conducto del Titular de la Dirección de Tanatología, cuando lo considere necesario o conveniente, los casos urgentes que se presenten y, en su caso, determinar en estos casos quien debe suplir a los Peritos en sus faltas por enfermedad, licencia o vacaciones;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI. Remitir al Consejo de la Judicatura las solicitudes de licencia de los Titulares de las Direcciones, Subdirecciones, Jefaturas de Unidad Departamental, de los Peritos Médico Forenses, de los Auxiliares en el Instituto de Ciencias Forenses y de los demás miembros del personal técnico y administrativo quien acordará lo procedente;
+V. Atender personalmente o por conducto del Titular de la Subdirección de Tanatología, cuando lo considere necesario o conveniente, los casos urgentes que se presenten y, en su caso, determinar en estos casos quien debe suplir a las personas Peritos en sus faltas por enfermedad, licencia o vacaciones;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Remitir al Consejo de la Judicatura las solicitudes de licencia de los Titulares de las Direcciones, Subdirecciones, Jefaturas de Unidad Departamental, de las personas Peritos Médico Forenses, de las personas Auxiliares en el Instituto de Ciencias Forenses y de las demás personas miembros del personal técnico y administrativo quien acordará lo procedente;
 
 VII. Informar al Consejo de la Judicatura de las faltas cometidas en el servicio por el personal técnico y administrativo;
 
@@ -3344,39 +4584,53 @@ VIII. Rendir el último día hábil del mes de noviembre de cada año, al Consej
 
 IX. Solicitar al Consejo de la Judicatura el material y equipo necesarios para su adecuado funcionamiento;
 
-X. Formular el proyecto del Reglamento Interno del Instituto de Ciencias Forenses y someterlo a la aprobación del Consejo de la Judicatura, el cual se encargará de la tramitación subsiguiente;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+X. Formular el proyecto del Reglamento Interno del Instituto de Servicios Periciales y Ciencias Forenses y someterlo a la aprobación del Consejo de la Judicatura, el cual se encargará de la tramitación subsiguiente;
 
 XI. Formular planes de investigación científica, dándolos a conocer al Consejo de la Judicatura y previa autorización del mismo, fomentar su desarrollo; y
 
 XII. Las demás que señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 262.
 
-En casos de ausencia del Director General del Instituto de Servicios Periciales y Ciencias Forenses, ya sea por enfermedad, vacaciones o por el desempeño de comisiones, informará oportunamente a quien presida el Consejo de la Judicatura quien, al autorizarla, aprobará en su caso al sustituto que el mismo Titular de la Dirección proponga.
+En casos de ausencia de la persona titular de la Dirección del Instituto de Servicios Periciales y Ciencias Forenses, ya sea por enfermedad, vacaciones o por el desempeño de comisiones, informará oportunamente a quien presida el Consejo de la Judicatura quien, al autorizarla, aprobará en su caso al sustituto que el mismo Titular de la Dirección proponga.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 263.
 
-Con excepción de los casos en que deben intervenir los médicos asignados a las Agencias Investigadoras del Ministerio Público, a los hospitales públicos, a los reclusorios preventivos, de ejecución de sentencias y lugares de reclusión, los reconocimientos, análisis y demás trabajos médico forenses relacionados con los procedimientos judiciales serán desempeñados por los peritos médico forenses, quienes están obligados a concurrir a las juntas, audiencias y diligencias a las que fueren legalmente citados y a extender los dictámenes respectivos.
+Con excepción de los casos en que deben intervenir las personas médicos (sic) asignadas a las Agencias Investigadoras del Ministerio Público, a los hospitales públicos, a los reclusorios preventivos, de ejecución de sentencias y lugares de reclusión, los reconocimientos, análisis y demás trabajos médico forenses relacionados con los procedimientos judiciales serán desempeñados por las personas peritos médico forenses, quienes están obligados a concurrir a las juntas, audiencias y diligencias a las que fueren legalmente citados y a extender los dictámenes respectivos.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 264.
 
-Las necropsias deberán practicarse, por regla general, en las instalaciones del Instituto de Servicios Periciales y Ciencias Forenses, salvo los casos en que circunstancias especiales justifiquen lo contrario, a juicio del Titular de la Dirección General y de lo previsto en la legislación de procedimientos penales aplicable a la Ciudad de México. En estos últimos casos, éste podrá disponer que dos peritos médico forenses se constituyan fuera del Instituto para presenciar o practicar la necropsia o para verificar su resultado.
+Las necropsias deberán practicarse, por regla general, en las instalaciones del Instituto de Servicios Periciales y Ciencias Forenses, salvo los casos en que circunstancias especiales justifiquen lo contrario, a juicio de la persona Titular de la Dirección y de lo previsto en la legislación de procedimientos penales aplicable a la Ciudad de México. En estos últimos casos, éste podrá disponer que dos personas peritos médico forenses se constituyan fuera del Instituto para presenciar o practicar la necropsia o para verificar su resultado.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 265.
 
-Cuando las partes objetaren el dictamen de los peritos médico forenses, la autoridad judicial dispondrá, cuando estime fundado el motivo que se alegue, que el Titular de la Dirección General del Instituto convoque a junta de peritos, con el objeto de que se discuta y decida si se ratifica o rectifica el dictamen de que se trate.
+Cuando las partes objetaren el dictamen de las personas peritos médico forenses, la autoridad judicial dispondrá, cuando estime fundado el motivo que se alegue, que la persona Titular de la Dirección del Instituto convoque a junta de peritos, con el objeto de que se discuta y decida si se ratifica o rectifica el dictamen de que se trate.
 
 ###### Artículo 266.
 
 El Consejo de la Judicatura organizará y vigilará el correcto funcionamiento del Instituto de Servicios Periciales y Ciencias Forenses para que éste desarrolle cabalmente sus labores de auxiliar de la administración de justicia.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 267.
 
-Los médicos dependientes de la Dirección de Servicios de Salud de la Ciudad de México, asignados a las Agencias Investigadoras del Ministerio Público, serán auxiliares de las autoridades judiciales y de los agentes del Ministerio Público, en sus funciones médico forenses y tendrán la obligación de rendir los informes que les soliciten los órganos judiciales respecto de los casos en que oficialmente hubieren intervenido. En los mismos términos quedarán obligados los médicos adscritos a los hospitales públicos y a los reclusorios preventivos, de ejecución de sentencias y demás lugares de reclusión.
+Las personas médicos (sic) dependientes de la Dirección de Servicios de Salud de la Ciudad de México, asignados a las Agencias Investigadoras del Ministerio Público, serán auxiliares de las autoridades judiciales y de los agentes del Ministerio Público, en sus funciones médico forenses y tendrán la obligación de rendir los informes que les soliciten los órganos judiciales respecto de los casos en que oficialmente hubieren intervenido. En los mismos términos quedarán obligados las personas médicos (sic) adscritas a los hospitales públicos y a los reclusorios preventivos, de ejecución de sentencias y demás lugares de reclusión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 268.
 
-Son obligaciones de los médicos asignados a las Agencias Investigadoras del Ministerio Público:
+Son obligaciones de las personas médicos (sic) asignadas a las Agencias Investigadoras del Ministerio Público:
 
 I. Proceder de inmediato, al reconocimiento y curación de los heridos que se reciban en la sección médica que esté a su cargo;
 
@@ -3392,9 +4646,11 @@ VI. Describir exactamente en los certificados de lesiones, las modificaciones qu
 
 VII. Las demás que les corresponden conforme a las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 269.
 
-Son obligaciones de los médicos de hospitales públicos:
+Son obligaciones de las personas médicos de hospitales públicos:
 
 I. Reconocer a los lesionados o enfermos que se reciban en el establecimiento y encargarse de su curación, expidiendo sin demora, cuando proceda, los certificados médico forenses correspondientes;
 
@@ -3410,9 +4666,11 @@ V. Las demás que señalen las leyes y reglamentos.
 
 Las y los médicos adscritos a los reclusorios preventivos, de ejecución de sentencias y demás lugares de reclusión, deberán asistir a los internos enfermos y expedir los certificados que correspondan. Igualmente, prestarán los primeros auxilios en los casos de lesiones y de otros delitos que ocurrieren dentro de la prisión y que requieran la intervención médico forense, e intervendrán en cualquier diligencia judicial que ahí se practique, cuando para ello fueren requeridos por el Ministerio Público o la autoridad competente.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 271.
 
-A los auxiliares de la administración de justicia a que se refiere este título, les serán aplicables las reglas establecidas en la presente Ley, en lo que fuere compatible, para los efectos de su designación, remoción y atribuciones.
+A las personas auxiliares de la administración de justicia a que se refiere este título, les serán aplicables las reglas establecidas en la presente Ley, en lo que fuere compatible, para los efectos de su designación, remoción y atribuciones.
 
 ### CAPÍTULO ÚNICO
 
@@ -3420,15 +4678,27 @@ A los auxiliares de la administración de justicia a que se refiere este título
 
 El Instituto de Estudios Judiciales es un órgano dependiente de la o el Presidente del Tribunal Superior de Justicia y tiene como objetivo coadyuvar en el fortalecimiento del servicio de impartición de justicia del propio Tribunal, mediante la formación y capacitación de las personas servidoras públicas jurisdiccionales y de apoyo judicial, desarrollando las competencias necesarias para llevar a cabo el buen desarrollo de sus atribuciones, así como a través de la implementación de procesos de selección, ratificación y evaluación de los cargos de la carrera judicial.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Por lo que hace a la capacitación de las personas servidoras públicas del Poder Judicial, podrán acceder a los cursos de la carrera judicial que proporciona el Instituto de Estudios Judiciales, conforme lo disponga el Consejo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, podrá generar capacitación y formación hacia personas litigantes y postulantes en términos de lo que autorice el Consejo, con el fin de generar mejores condiciones para la impartición de justicia, con costo accesibles (sic) para las personas interesadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 273.
 
-El Instituto contará con un Consejo Académico integrado por cinco miembros: tres que se hayan desempeñado como Juzgadores o Titulares de una Magistratura y los dos restantes serán académicos con experiencia docente universitaria de cuando menos cinco años en las materias de las cuales conoce el Tribunal Superior de Justicia.
+El Instituto contará con un Consejo Académico integrado por cinco miembros: tres que se hayan desempeñado como personas Juzgadoras o Titulares de una Magistratura y los dos restantes serán académicos con experiencia docente universitaria de cuando menos cinco años en las materias de las cuales conoce el Tribunal Superior de Justicia.
 
 El Consejo tendrá a su cargo elaborar los programas de investigación, preparación y capacitación para los alumnos del Instituto, mecanismos de evaluación y rendimiento, que deberá someter a la aprobación del Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 274.
 
-Las Magistradas, Magistrados, Juzgadores y personas servidoras públicas de la administración de justicia del Tribunal, deberán acudir y participar en los programas de especialización y capacitación aprobados por el Consejo de la Judicatura. Los programas que imparta el Instituto de Estudios Judiciales tendrán como objeto lograr que los integrantes del Tribunal Superior de Justicia, o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial. Para ello, el Instituto de Estudios Judiciales establecerá los programas y cursos tendientes a:
+Las personas Magistradas, personas Juzgadoras y personas servidoras públicas de la administración de justicia del Tribunal, deberán acudir y participar en los programas de especialización y capacitación aprobados por el Consejo de la Judicatura. Los programas que imparta el Instituto de Estudios Judiciales tendrán como objeto lograr que los integrantes del Tribunal Superior de Justicia, o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial. Para ello, el Instituto de Estudios Judiciales establecerá los programas y cursos tendientes a:
 
 I. Desarrollar el conocimiento práctico de los trámites, diligencias y actuaciones que forman parte de los procedimientos y asuntos de la competencia del Tribunal Superior de Justicia;
 
@@ -3450,7 +4720,9 @@ El Instituto de Estudios Judiciales llevará a cabo cursos de preparación para 
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL SERVICIO CIVIL DE LA CARRERA JUDICIAL
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 276.
 
@@ -3496,9 +4768,11 @@ XII. Jueza o Juez; y
 
 XIII. Magistrada o Magistrado
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 278.
 
-Salvo los nombramientos de Magistradas, Magistrados y Juzgadores, la designación de los cargos judiciales se llevará a cabo por el órgano judicial en donde se origine la vacante, previo examen de aptitud, en los términos de esta Ley.
+Salvo los nombramientos de las personas Magistradas y Juzgadoras, la designación de los cargos judiciales se llevará a cabo por el órgano judicial en donde se origine la vacante, previo examen de aptitud, en los términos de esta Ley.
 
 ###### Artículo 279.
 
@@ -3512,11 +4786,15 @@ Los concursos internos de oposición y los de oposición libre se sujetarán al 
 
 La organización y aplicación de los exámenes de aptitud para las personas servidoras públicas judiciales, estará a cargo del Instituto de Estudios Judiciales en términos de las bases que determine el Consejo de la Judicatura y de conformidad con lo que disponen esta Ley y el reglamento respectivo.
 
-Los exámenes de aptitud se realizarán a petición del Titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Los exámenes de aptitud se realizarán a petición de la persona Titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 281.
 
-Los exámenes para determinar la aptitud de los servidores públicos señalados en el artículo anterior serán elaborados por un Comité integrado por un miembro del Consejo de la Judicatura, quien lo presidirá, por una Magistrada o Magistrado, un Juzgador de primera instancia y un miembro del Comité Académico apoyado por el personal del propio Instituto de Estudios Judiciales. Tratándose de conocimientos que se aplicarán en la impartición de justicia, el Comité será presidido por una Magistrada o Magistrado. La designación de los miembros del Comité se hará en los términos que establezca el reglamento respectivo.
+Los exámenes para determinar la aptitud de las personas servidoras públicas señaladas en el artículo anterior serán elaborados por un Comité integrado por una persona integrante del Consejo de la Judicatura, quien lo presidirá, por una persona Magistrada, por una persona Juzgadora y una persona integrante del Comité Académico apoyado por el personal de propio Instituto de Estudios Judiciales. Tratándose de conocimientos que se aplicarán en la impartición de justicia, el Comité será presidido por una persona Magistrada. La designación de los miembros del Comité se hará en los términos que establezca el reglamento respectivo.
 
 ###### Artículo 282.
 
@@ -3552,41 +4830,51 @@ VI. Aquellos elementos que presente el evaluado por escrito.
 
 ## TÍTULO DÉCIMO TERCERO. DE LA SUSTITUCIÓN EN CASO DE IMPEDIMENTOS, RECUSACIONES Y EXCUSAS
 
-### CAPÍTULO II. DE LAS FALTAS
+### CAPÍTULO I. DE LAS RESPONSABILIDADES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 284.
 
-Si un Juzgador deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Dirección General de Procedimientos Judiciales, para que lo envíe al Juzgado que corresponda, de acuerdo con el turno respectivo.
+Para el caso de que una autoridad jurisdiccional deje de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Oficialía de Partes Común para Órganos jurisdiccionales y Salas, para que lo envíe a la autoridad jurisdiccional o Unidad de Gestión Judicial, que corresponda, de acuerdo con el turno respectivo.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 285.
 
-Si el Juzgador deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Unidad de Gestión Judicial, para que ésta lo envíe al Tribunal de Alzada que corresponda conocer y resolver de las excusas y recusaciones de los Jueces de Control, Tribunal de Enjuiciamiento y Jueces de Ejecución de la Ciudad de México, de acuerdo con el turno respectivo.
+Si la persona Juzgadora deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Unidad de Gestión Judicial correspondiente, para que ésta lo envíe al Tribunal de Alzada que corresponda conocer y resolver de las excusas y recusaciones de las personas Juzgadoras de Control, Tribunal de Enjuiciamiento y personas Juzgadoras de Ejecución de la Ciudad de México, así como de las personas Juzgadoras adscritas a las Unidades de Gestión en materia Civil y Familiar, de acuerdo con el turno respectivo.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 286.
 
-Si una Magistrada o Magistrado dejare de conocer de algún asunto por impedimento o recusación, conocerá de éste su igual mediante el turno que lleve la Presidencia del Tribunal Superior de Justicia.
+Si una persona Magistrada dejare de conocer de algún asunto por impedimento o recusación, conocerá de éste su igual mediante el turno que lleve la Presidencia del Tribunal Superior de Justicia.
 
-Cuando los tres Magistrados que integran una Sala estuvieren impedidos de conocer un negocio, pasará éste al conocimiento de la Sala que en la misma materia le sigue en número.
+Cuando las tres personas Magistradas que integran una Sala estuvieren impedidas de conocer un negocio, pasará éste al conocimiento de la Sala que en la misma materia le sigue en número.
 
-Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasará el asunto al conocimiento de las Salas de otro ramo, por el orden indicado y si también éstas se agotaren, se integrará una Sala que conozca del asunto con Juzgadores penales, civiles, familiares, de justicia para adolescentes, de extinción de dominio, según corresponda, designados por el Tribunal Superior de Justicia en Pleno que al efecto se reunirá inmediatamente y sin perjuicio de sus demás labores y funciones.
+Si todas las Salas o personas Magistradas del ramo estuvieren impedidas de conocer, pasará el asunto al conocimiento de las Salas de otro ramo, por el orden indicado y si también éstas se agotaren, se integrará una Sala que conozca del asunto con autoridades jurisdiccionales de todas las materias, según corresponda, designados por el Tribunal Superior de Justicia en Pleno que al efecto se reunirá inmediatamente y sin perjuicio de sus demás labores y funciones.
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS RESPONSABILIDADES OFICIALES
 
-### CAPÍTULO III. DE LAS SANCIONES
+### CAPÍTULO II. DE LAS FALTAS
 
 ###### Artículo 287.
 
-Las o los Magistrados del Tribunal Superior de Justicia, las o los Consejeros de la Judicatura, las o los Jueces, la o el Visitador General, las o los Visitadores Judiciales, así como todas o todos los servidores públicos de la administración de justicia, son responsables de las faltas que cometan en el ejercicio de sus cargos y quedan por ello sujetos a las sanciones que determinen la presente Ley, la ley en materia de responsabilidades administrativas y demás disposiciones jurídicas aplicables.
+Las personas Magistradas del Tribunal Superior de Justicia, las personas Consejeras de la Judicatura, las personas Juzgadoras, la persona Visitadora General, las personas Visitadoras Judiciales, las personas integrantes de las Unidades de Gestión en materias Civil y Familiar, así como todas las personas servidoras públicas de la administración de justicia, son responsables de las faltas o incumplimientos en que incurran en el ejercicio de sus cargos y quedan por ello sujetas a las sanciones que determinen la presente Ley, la ley en materia de responsabilidades administrativas y demás disposiciones jurídicas aplicables.
 
 El órgano encargado de sustanciar los procedimientos e imponer las sanciones por faltas de las personas servidoras públicas de la administración de justicia del fuero común en la Ciudad de México, es el Consejo de la Judicatura, por conducto de la Comisión de Disciplina Judicial en primera instancia y en términos del reglamento que establezca su funcionamiento.
 
 El Consejo de la Judicatura resolverá, en definitiva, en los términos de esta Ley y de la Ley de Responsabilidades de los Servidores Públicos de la Ciudad de México, mediante la substanciación del recurso de inconformidad previsto en esta ley.
 
-Los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura, solo podrán ser removidos de sus puestos en la forma y términos que determina el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas Magistradas del Tribunal Superior de Justicia y las personas Consejeras de la Judicatura, solo podrán ser removidos de sus puestos en la forma y términos que determina el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 288.
 
-Las Magistradas y Magistrados, así como las y los Jueces del Poder Judicial de la Ciudad de México, serán responsables de la interpretación o inaplicación de disposiciones jurídicas por virtud del control difuso y del control de convencionalidad, cuando se compruebe que hubo cohecho o mala fe.
+Las personas Magistradas, así como las personas Juzgadoras del Poder Judicial de la Ciudad de México, serán responsables de la interpretación o inaplicación de disposiciones jurídicas por virtud del control difuso y del control de convencionalidad, cuando se compruebe que hubo cohecho o mala fe.
 
 ###### Artículo 289.
 
@@ -3626,11 +4914,15 @@ Las personas que hayan laborado como personas servidoras públicas del Poder Jud
 
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
 
-La infracción a este último párrafo, será sancionada con la destitución del cargo dentro del Poder Judicial de la Ciudad de México, así como de las prestaciones y beneficios que en lo sucesivo correspondan pro el mismo, independientemente de las demás sanciones que las leyes prevean.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La infracción a este último párrafo, será sancionada con la destitución del cargo dentro del Poder Judicial de la Ciudad de México, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 291.
 
-El procedimiento para determinar las responsabilidades de las personas servidoras públicas de la administración de justicia de la Ciudad de México, se iniciará de oficio; por denuncia presentada por cualquier persona; por queja presentada en términos del artículo 288 de esta Ley; por petición de la Fiscalía de Investigación de los Delitos cometidos por Servidores Públicos de la Procuraduría General de Justicia de la Ciudad de México o bien derivadas de las visitas judiciales practicadas a los órganos jurisdiccionales en los términos de éste artículo.
+El procedimiento para determinar las responsabilidades de las personas servidoras públicas de la administración de justicia de la Ciudad de México, se iniciará de oficio; por denuncia presentada por cualquier persona; por queja presentada en términos del artículo 313 de esta Ley; por petición de la Fiscalía para la Investigación de los Delitos cometidos por Servidores Públicos de la Fiscalía General de Justicia de la Ciudad de México o bien derivadas de las visitas judiciales practicadas a los órganos jurisdiccionales o unidades de gestión en los términos de éste artículo.
 
 Las denuncias a que se refiere el párrafo anterior podrán efectuarse de forma anónima, escrita, vía telefónica o por cualquier medio electrónico cuyo único requisito para su trámite es que se establezcan de forma clara circunstancias de modo, tiempo y lugar, y permitan identificar o hacer identificables a las personas servidoras públicas involucradas. Las denuncias que se formulen se podrán acompañar de las pruebas documentales o elementos probatorios suficientes que permitan a la sección de la Comisión de Disciplina Judicial, para determinar la existencia de la irregularidad que se atribuye a la persona servidora pública denunciada.
 
@@ -3698,21 +4990,35 @@ La suspensión temporal no prejuzga sobre la determinación final que se tome. S
 
 Entre tanto, se substancia el procedimiento disciplinario y una vez suspendido temporalmente al presunto infractor, el Pleno del Consejo deberá proveer respecto de la persona servidora pública que en forma interina deberá suplirlo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 298.
 
-Tienen acción para denunciar la comisión de faltas de las personas servidoras públicas de la administración de justicia de la Ciudad de México:
+Tienen acción para presentar queja por la comisión de faltas de las personas servidoras públicas de la administración de justicia de la Ciudad de México:
 
-I. Las partes en el juicio en que se cometieren;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Las personas físicas o morales a quienes se les haya desconocido indebidamente la calidad de parte, en los casos de la fracción V del artículo 347 de esta Ley;
+I. Las partes en el juicio o asunto en que se cometieron;
 
-III. Las y los abogados de las partes en los casos de responsabilidades provenientes de hechos u omisiones cometidas en el juicio en que intervengan, siempre que tengan título legalmente expedido y registro en la Dirección General de Profesiones;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. El Ministerio Público en los negocios en que intervenga;
+II. Las personas físicas o morales a quienes se les haya desconocido indebidamente la calidad de parte, en los casos de la fracción V del artículo 344 de esta Ley;
 
-V. Las y los Jueces y Titulares de Magistraturas de la Ciudad de México en materia Familiar en los negocios de su competencia o en aquellos relacionados directamente con los mismos o que afecten los intereses de menores e incapaces, así como respecto de aquellas conductas de sus subalternos, que sean contrarias a lo que esta Ley y demás disposiciones aplicables establecen;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI. Las y los Jueces y los titulares de Magistraturas, en las demás materias, en los asuntos de su competencia, y de todas aquellas conductas de sus subalternos, que sean contrarias a lo que esta Ley y demás disposiciones aplicables establecen; y
+III. Las personas representantes autorizadas, así como las personas designadas para apoyo de alguna de las partes, en los casos de responsabilidades provenientes de hechos u omisiones cometidas en el asunto en que intervengan.
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. La persona Ministerio Público, la Fiscalía o Representación Social en los negocios en que intervengan;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Las personas Juzgadoras y personas titulares de Magistraturas de la Ciudad de México en materia Familiar en los negocios de su competencia o en aquellos relacionados directamente con los mismos o que afecten los intereses de menores o personas con discapacidad en estado de vulnerabilidad, así como respecto de aquellas conductas de sus subalternos, que sean contrarias a lo que esta Ley y demás disposiciones aplicables establecen;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Las personas Juzgadoras y personas titulares de Magistraturas, en las demás materias, en los asuntos de su competencia, y de todas aquellas conductas de sus subalternos, que sean contrarias a lo que esta Ley y demás disposiciones aplicables establecen; y
 
 VII. Las organizaciones de profesionales en Derecho constituidas legalmente, por conducto de sus representantes legítimos, quienes lo harán a nombre de la organización de que se trate.
 
@@ -3814,9 +5120,11 @@ La Comisión de Disciplina Judicial conocerá de los procedimientos disciplinari
 
 En los procedimientos administrativos disciplinarios derivados de faltas y de la inobservancia a las obligaciones previstas en las leyes sustantivas y adjetivas y reglamentos de la materia, así como las fijadas en esta Ley, se observará el trámite conducente en la misma.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 310.
 
-El procedimiento de oficio derivará de irregularidades observadas en las visitas de inspección practicadas a los órganos jurisdiccionales que integran al Tribunal Superior de Justicia, o de las que se tenga conocimiento por otro medio, así como las que se desprendan del ejercicio de la función de las o los servidores públicos de la administración de justicia.
+El procedimiento de oficio derivará de irregularidades observadas en las visitas de inspección practicadas a los órganos jurisdiccionales y Unidades de Gestión que integran al Tribunal Superior de Justicia, o de las que se tenga conocimiento por otro medio, así como las que se desprendan del ejercicio de la función de las o los servidores públicos de la administración de justicia.
 
 ###### Artículo 311.
 
@@ -3920,9 +5228,11 @@ III. Las notificaciones hechas por cédula, a partir del día siguiente a aquel 
 
 Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 326.
 
-En el procedimiento de responsabilidad, ya sea por queja, denuncia en los casos previstos que contempla a las y los Jueces y Titulares de Magistraturas dentro de los negocios de su competencia o en aquellos relacionados directamente con los mismos o que afecten los intereses de menores e incapaces, así como respecto de aquellas conductas de sus subalternos, que sean contrarias a lo que esta Ley y demás disposiciones aplicables establecen, o incluso de oficio, es admisible toda clase de pruebas, excepto la confesional y las que fueren contra la moral o el derecho; además deberán tener relación directa con los hechos y deberán ofrecerse en el escrito inicial respectivo o informe con justificación.
+En el procedimiento de responsabilidad, ya sea por queja, denuncia en los casos previstos que contempla a las personas Juzgadoras y Titulares de Magistraturas dentro de los negocios de su competencia o en aquellos relacionados directamente con los mismos o que afecten los intereses de menores e incapaces, así como respecto de aquellas conductas de sus subalternos, que sean contrarias a lo que esta Ley y demás disposiciones aplicables establecen, o incluso de oficio, es admisible toda clase de pruebas, excepto la confesional y las que fueren contra la moral o el derecho; además deberán tener relación directa con los hechos y deberán ofrecerse en el escrito inicial respectivo o informe con justificación.
 
 La preparación de las pruebas quedará a cargo de la o del oferente; las que se desahogarán el día y hora en que tenga verificativo la audiencia que se señale para tal efecto. Para el caso de que las mismas no se exhiban o presenten oportunamente, se declararán desiertas en la citada audiencia, por falta de interés de su oferente. Si la falta de preparación o de exhibición de las pruebas que hayan de rendirse en audiencia no es imputable al oferente, se diferirá la audiencia y se señalará nueva fecha para ella.
 
@@ -3930,7 +5240,9 @@ La preparación de las pruebas quedará a cargo de la o del oferente; las que se
 
 El Consejo de la Judicatura podrá decretar en todo tiempo y hasta antes de la audiencia de ley, la práctica o ampliación de cualquier diligencia probatoria siempre que sea conducente para el conocimiento de la verdad sobre los hechos materia de los procedimientos administrativos.
 
-Solo procede la inspección judicial como medio de prueba cuando los hechos no puedan ser acreditados por otro medio idóneo, el que tendrá como finalidad la observación por la o el secretario actuario a través de sus sentidos de determinados objetos y lugares a fin de hacer constar lo que hubiera captado. Prueba que será valorada al prudente arbitrio de las o los Consejeros.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Solo procede la inspección judicial como medio de prueba cuando los hechos no puedan ser acreditados por otro medio idóneo, el que tendrá como finalidad la observación por la o el secretario actuario a través de sus sentidos de determinados objetos y lugares a fin de hacer constar lo que hubiera captado. Prueba que será valorada al prudente arbitrio de la persona Consejera.
 
 ###### Artículo 328.
 
@@ -4010,9 +5322,15 @@ IV. Separación del cargo.
 
 Si el órgano encargado de resolver sobre una queja no lo hiciera dentro del plazo a que se refiere el artículo 295, serán multados sus integrantes, con el importe de cinco días de salario que perciban, por el órgano encargado de la imposición de sanciones. Si el Pleno del Consejo lo fuere, se impondrá a los integrantes del mismo, igualmente multa de cinco días del salario que perciban, hayan concurrido o no al Pleno respectivo. El órgano encargado de sancionar estas faltas será el Pleno del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 342.
 
-La declaración de no responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en la Ciudad de México, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa de la quejosa o del quejoso; a quien, si no cumpliere, se le impondrá, además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán conforme a la actualización prevista en la fracción II del artículo 59 de esta Ley. Estas multas se duplicarán en caso de reincidencia injustificada.
+La declaración de no responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en la Ciudad de México, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa de la persona quejosa; a quien, si no cumpliere, se le impondrá, además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán conforme a la actualización prevista en la fracción II del artículo 59 de esta Ley. Estas multas se duplicarán en caso de reincidencia injustificada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La persona quejosa, que pertenezca a grupo vulnerable, podrá solicitar descuento o bien, la exención de pago correspondiente, lo que deberá ser aprobado por el Pleno del Consejo de la Judicatura.
 
 El órgano que hizo la declaración de no responsabilidad, estará encargado de vigilar que se dé cumplimiento a lo dispuesto por este artículo, y en caso de incumplimiento será sancionado en términos de lo dispuesto por el artículo anterior.
 
@@ -4022,7 +5340,9 @@ Es facultad del Pleno del Tribunal Superior de Justicia supervisar cuando así l
 
 La declaración de responsabilidad por faltas producirá el efecto de impedir a la persona servidora pública de que se trate, tenga conocimiento del negocio en el que se hubieren cometido.
 
-### CAPÍTULO IV. DE LOS ÓRGANOS Y SISTEMAS PARA LA IMPOSICIÓN DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO III. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 344.
 
@@ -4048,7 +5368,9 @@ IX. No recibir las pruebas ofrecidas por las partes en el juicio, cuando reúnan
 
 X. Hacer uso, en perjuicio de las partes, de los medios de apremio sin causa justificada;
 
-XI. No presidir las audiencias de recepción de pruebas, las juntas y demás diligencias para las que la ley determine su intervención;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XI. No iniciar en la hora señalada y presidir las audiencias de recepción de pruebas, las juntas y demás diligencias para las que la ley determine su intervención;
 
 XII. Señalar, para la celebración de las vistas o audiencias, injustificadamente, una fecha lejana;
 
@@ -4070,13 +5392,25 @@ XX. No practicar las diligencias encomendadas por el Poder Judicial Federal, sin
 
 XXI. No ordenar la práctica de la notificación de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
 
-XXII. No iniciar y dar el trámite correspondiente a los procedimientos administrativos a aquellas personas servidoras públicas que estén a su cargo y que incurra (sic) en alguna de las faltas previstas por esta ley, así como no remitir la correspondiente acta al Consejo de la Judicatura o a la autoridad competente.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXII. No iniciar y dar el trámite correspondiente a los procedimientos administrativos a aquellas personas servidoras públicas que estén a su cargo y que haya actualizado alguna de las faltas previstas por esta ley, así como no remitir la correspondiente acta al Consejo de la Judicatura o a la autoridad competente;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXIII. Autorizar sin causa justificada y sin autorización del Consejo de la Judicatura, que una persona secretaria de Acuerdos, Instructor, Judicial o cualquier otra persona servidora pública presida una audiencia donde debe estar presente la persona juzgadora; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXIV. Dejar de observar sin causa justificada los lineamientos aprobados y expedidos por el Pleno del Consejo.
 
 En el caso de las fracciones IV, V, VI, VIII, IX y XIII será requisito de procedibilidad que la resolución de que se trate haya sido revocada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 345.
 
-Son faltas de las y los Jueces del Sistema Penal Acusatorio.
+Son faltas de las personas juzgadoras del Sistema Penal Acusatorio.
 
 I. No presidir la audiencia en el horario establecido;
 
@@ -4138,23 +5472,35 @@ XIII.- Celebrar audiencia sin estar presentes todas las partes que en ella debe 
 
 XIV.- Las demás que le confiera (sic) las leyes, reglamentos y acuerdos del Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 347.
 
-Se considerarán como faltas de las personas que presiden las Salas, Semaneros, así como Magistradas y Magistrados integrantes de aquéllas, en sus respectivos casos, las que tienen ese carácter, conforme a las fracciones I, II, IV, V, VI, VII, VIII, IX, XII, XIV y XV del artículo anterior y además, las siguientes:
+Se considerarán como faltas de las personas que presiden las Salas, Semaneros, así como de las personas Magistradas integrantes de aquéllas, en sus respectivos casos, las que tienen ese carácter, conforme a las fracciones I, II, IV, V, VI, VII, VIII, IX, XII, XIV y XV del artículo anterior y además, las siguientes:
 
 I. Faltar a las sesiones del Pleno sin causa justificada;
 
 II. Desintegrar sin motivo justificado el quórum en los plenos, vistas o audiencias, una vez comenzadas, o
 
-III. Intervenir de cualquier forma en el nombramiento del personal de los Juzgados.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Intervenir de cualquier forma en el nombramiento del personal de los Tribunales Laborales y Unidades de Gestión; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Autorizar sin causa justificada y sin autorización del Consejo de la Judicatura, que una persona secretaria de Acuerdos, Secretaria Proyectista, Instructor, Judicial o cualquier otra persona servidora pública, presida una audiencia donde debe estar presente la persona magistrada.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 348.
 
-Si la falta se cometiere por alguna Sala del Tribunal Superior de Justicia, por no dictar resoluciones dentro del término legal, sólo será responsable la Magistrada o Magistrado ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás Magistrados; y estos últimos serán responsables si, habiéndose presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no lo votan dentro del mismo plazo legal, o cuando, según el caso, no emita voto particular razonado.
+Si la falta se cometiere por alguna Sala del Tribunal Superior de Justicia, por no dictar resoluciones dentro del término legal, sólo será responsable la persona Magistrada ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de las demás personas Magistradas; y estas últimas serán responsables si, habiéndose presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no lo votan dentro del mismo plazo legal, o cuando, según el caso, no emita voto particular razonado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 349.
 
-Son faltas de los Titulares de las Secretarías en el Ramo Penal, y de Justicia para Adolescentes:
+Son faltas de las personas Titulares de las Secretarías en el Ramo Penal, y de Justicia para Adolescentes:
 
 I. No dar cuenta, dentro del término de la ley, con los oficios y documentos oficiales dirigidos al juzgado y con los escritos y promociones de las partes;
 
@@ -4162,15 +5508,19 @@ II. No asentar en autos, dentro del término, las certificaciones que procedan d
 
 III. No diligenciar, dentro de las veinticuatro horas siguientes a aquéllas en las que surtan efectos las resoluciones judiciales, a menos que exista causa justificada;
 
-IV. No dar cuenta, al Juzgador o a quien presida la Sala, de las faltas u omisiones que personalmente hubieren notado en las personas servidoras públicas de la administración de justicia subalternos de la oficina, o que se le denuncien por el público verbalmente o por escrito;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. No dar cuenta, a la persona juzgadora o a quien presida la Sala, de las faltas u omisiones que personalmente hubieren notado en las personas servidoras públicas de la administración de justicia subalternos de la oficina, o que se le denuncien por el público verbalmente o por escrito;
 
 V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la sentencia que corresponda, en los casos que fuere su obligación hacerlo;
 
-VI. En el caso de los Titulares de las Secretarías en el ramo penal, no revisar que se realice de manera inmediata la notificación a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. En el caso de las personas Titulares de las Secretarías en el ramo penal, no revisar que se realice de manera inmediata la notificación a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
 
 VII. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 344.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 350.
 
@@ -4178,9 +5528,9 @@ Son faltas de las personas titulares de las Secretarías del ramo civil, familia
 
 I. No turnar a la persona Secretaria Actuaria adscrita los expedientes que requieran notificación personal o la práctica de alguna diligencia;
 
-> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. No hacer a las partes las notificaciones personales en términos de ley, que procedan cuando concurran al Juzgado o Tribunal;
+II. No hacer a las partes las notificaciones personales en términos de ley, que procedan cuando concurran a la Unidad de Gestión que corresponda o al Tribunal Laboral;
 
 III. No mostrar a las partes los expedientes sin causa justificada, cuando lo soliciten, mediante el vale de resguardo respectivo y previa identificación oficial vigente, o exigir requisitos no contemplados en la ley para tal efecto;
 
@@ -4194,33 +5544,57 @@ VII. No entregar a las partes las copias simples de resoluciones o constancias d
 
 VIII. No entregar las copias certificadas ordenadas por decreto judicial, dentro del término de cinco días hábiles contados a partir del día siguiente en que surta efectos la notificación del proveído que lo ordene, cuando haya sido exhibido el pago correspondiente y no exista impedimento legal para ello; y
 
-IX. No elaborar los proyectos de acuerdo que deban recaer a los asuntos en trámite a su cargo, de manera adecuada tanto en fondo como en forma conforme a las constancias de los expedientes y la ley que resulte aplicable.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. No dictar las resoluciones de mero trámite en asuntos en donde actúen dentro del término de tres días a partir de la presentación de la presentación de la promoción, cédula u oficio respectivo, así como no elaborar los proyectos de acuerdo que deban recaer a los asuntos en trámite a su cargo, de manera adecuada tanto en fondo como en forma conforme a las constancias de los expedientes y la ley que resulte aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 351.
 
-Son faltas de los Titulares de las Secretarías Proyectistas, así como de las de Acuerdos de Justicia Oral Civil:
+Son faltas de las personas Secretarias Proyectistas, Secretarias de Acuerdos de justicia oral, así como de las personas Secretarias Judiciales, adscritas a las Salas Civiles y Unidades de Gestión Civil y Familiar:
 
-I. Elaborar proyectos de sentencia o resolución fuera del término señalado por su Titular que permita a este último su oportuna revisión; no acatar de manera inmediata las instrucciones y observaciones hechas a sus proyectos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. No guardar el debido secreto respecto de los asuntos que le son turnados para la elaboración del proyecto de sentencia o resolución;
+I. Elaborar proyectos de sentencia, resolución o acuerdo fuera del término señalado por la persona titular jerárquica que permita a este último su oportuna revisión; no acatar de manera inmediata las instrucciones y observaciones hechas a sus proyectos;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. No guardar el debido secreto respecto de los asuntos que le son turnados para la elaboración del proyecto de sentencia, resolución o acuerdo;
 
 III. Mostrar negligencia, descuido, ignorancia o ineptitud en el desempeño de su labor;
 
-IV. En la elaboración de proyectos de sentencias o resoluciones, dejar de aplicar leyes desacatando disposiciones que establecen expresamente su aplicación o bien, aplicando disposiciones que se encuentren derogadas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. En la elaboración de proyectos de sentencias, resoluciones o acuerdo, dejar de aplicar leyes desacatando disposiciones que establecen expresamente su aplicación o bien, aplicando disposiciones que se encuentren derogadas;
 
 V. Elaborar proyectos de sentencia o resoluciones en contravención a las constancias de autos; y
 
-VI. Las demás que deriven de la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Presidir audiencias sin causa justificada o sin autorización del Consejo de la Judicatura.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. Las demás que deriven de la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 352.
 
-Son faltas de las personas Secretarias Actuarias:
+Son faltas de las personas notificadoras y actuarias:
 
-I. No practicar legalmente o con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del Juzgado o Tribunal;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-En materia penal, no practicar la notificación de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias;
+I. No practicar legalmente o con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del recinto jurisdiccional o Tribunal Laboral;
 
-Solicitar a cualesquiera de las partes, retribuciones económicas o materiales, por sí o por interpósita persona, para efectuar las diligencias o notificaciones, así como solicitar a las partes proporcionen los medios e (sic) traslado para realizar las mismas;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En materia penal, no practicar la notificación de manera inmediata a las personas Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias;
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Solicitar a cualesquiera de las partes, a sus personas representantes autorizadas o a sus abogados, retribuciones económicas o materiales, por sí o por interpósita persona, para efectuar las diligencias o notificaciones, así como solicitar a las partes, sus personas representantes autorizadas o a sus abogados, proporcionen los medios de traslado para realizar las mismas;
 
 II. Retardar indebida o injustificadamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas;
 
@@ -4228,53 +5602,69 @@ III. Dar preferencia a alguno o algunos de los litigantes, y con perjuicio de ot
 
 IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia; y
 
-V. Practicar embargos, aseguramientos o retención de bienes o lanzamientos, de persona física o moral que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del Juzgado, se le demuestre que esos bienes son ajenos, para comprobar lo cual, en todo caso, deberá agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Practicar embargos, aseguramientos o retención de bienes o lanzamientos, de persona física o moral que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del recinto jurisdiccional, se le demuestre que esos bienes son ajenos, para comprobar lo cual, en todo caso, deberá agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
 
 ###### Artículo 353.
 
-Son faltas de las personas Secretarias Conciliadoras:
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-I. Dejar de cumplir con las obligaciones inherentes a su cargo, reguladas por el artículo 84 de esta Ley; y
-
-II. Las demás que deriven de la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 354.
 
-Son faltas de las personas servidoras públicas de los juzgados, salas, direcciones, unidad de gestión judicial, presidencia y demás dependencias del Tribunal Superior de Justicia:
+Son faltas de las personas servidoras públicas de las salas, direcciones, unidades de gestión judicial, tribunales laborales, presidencia y demás dependencias del Tribunal Superior de Justicia:
 
-I. Solicitar a cualquiera de las partes, retribuciones económicas o materiales por sí o por interpósita persona, como condición para el desempeño de sus obligaciones o rehusarse a recibir los escritos y promociones de cualquiera de las partes, así como aceptar o recibir dádivas o retribuciones de cualquier índole por el desempeño de sus funciones;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Solicitar a cualquiera de las partes, a sus personas representantes autorizadas o a sus abogados, retribuciones económicas o materiales por sí o por interpósita persona, como condición para el desempeño de sus obligaciones o rehusarse a recibir los escritos y promociones de cualquiera de las partes, así como aceptar o recibir dádivas o retribuciones de cualquier índole por el desempeño de sus funciones;
 
 II. No concurrir a las horas reglamentarias al desempeño de sus labores;
 
 III. No atender oportunamente y de forma correcta a los litigantes y público en general;
 
-IV. No mostrar a las partes, inmediatamente que lo soliciten, y una vez que hayan presentado su vale de resguardo e identificación oficial vigente, los expedientes que se hayan publicado en el Boletín del día o se encuentren en los archivos, o exigir a las partes requisitos no contemplados en la ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V. No elaborar y despachar adecuada y oportunamente, los oficios, notificaciones, y correspondencia en general ordenados en los procedimientos judiciales y trámites administrativos inherentes al despacho del juzgado, o no llevar a cabo las diligencias que se les encomienden, por su superior jerárquico inmediato o por el Titular del órgano jurisdiccional;
+IV. No mostrar a las partes, a sus personas representantes autorizadas o a sus abogados, inmediatamente que lo soliciten, y una vez que hayan presentado su vale de resguardo e identificación oficial vigente, los expedientes que se hayan publicado en el Boletín del día o se encuentren en los archivos, o exigir a las partes requisitos no contemplados en la ley;
 
-VI. No hacer del conocimiento del Titular del órgano al que pertenezcan, las faltas cometidas por otros servidores públicos de su área; y,
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. No elaborar y despachar adecuada y oportunamente, los oficios, notificaciones, y correspondencia en general ordenados en los procedimientos judiciales y trámites administrativos inherentes al despacho de las autoridades jurisdiccionales, o no llevar a cabo las diligencias que se les encomienden, por la persona superior jerárquica inmediata o por la persona Titular del órgano jurisdiccional;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. No hacer del conocimiento de la persona titular del órgano al que pertenezcan, las faltas cometidas por otros servidores públicos de su área; y,
 
 VII. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a la ley.
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Usar los documentos, sellos y firmas electrónicas para fines indebidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 355.
 
-Las personas Secretarias Judiciales, así como las Auxiliares de Juzgado de Proceso Oral en materia Familiar incurrirán en faltas, si cometen alguna acción que pueda encuadrarse en cualquiera de los supuestos señalados en las fracciones II, III, IV, V, VI, y IX del artículo 350 y 351 de esta Ley.
+Las personas Secretarias Judiciales; las personas Auxiliares de Juzgado de Proceso Oral en materia Familiar, así como las adscritas a las Unidades de Gestión en materia Civil y Familiar, incurrirán en faltas, si cometen alguna acción que pueda encuadrarse en cualquiera de los supuestos señalados en las fracciones II, III, IV, V, VI, y IX del artículo 350 y 351 de esta Ley, en lo que sean compatibles.
 
-Por su parte, las faltas de las personas Oficiales Notificadores se sujetarán a lo dispuesto en el artículo 352 de esta Ley.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Por su parte, las faltas de las personas Oficiales Actuarias y Notificadoras, se sujetarán a lo dispuesto en el artículo 352 de esta Ley, en lo que sean compatibles.
 
 Las personas servidoras públicas adscritas a la Unidad de Gestión Administrativa, a la Unidad de Apoyo Tecnológico y a la Central de Comunicaciones Procesales, cometerán falta si incurren en alguno de los supuestos previstos en las fracciones I, VI, VII y VIII del artículo 350; de la fracción III del artículo 351, de las fracciones II y III del artículo 352; así como los supuestos establecidos en el artículo 354 de la presente Ley.
 
-### CAPÍTULO V. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+### CAPÍTULO IV. DE LOS ÓRGANOS Y SISTEMAS PARA LA IMPOSICIÓN DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 356.
 
-Las faltas en que incurran las personas servidoras públicas, previstas en los artículos 344 fracciones I a IV, XII, XIV y XVI a XXI; 345 fracciones I a XIV y XVI; 347, fracciones I y II; 349, con excepción de la fracción III; 350, salvo la fracción IX; 352 fracciones II a V y 354 fracciones II a VII, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa.
+Las faltas en que incurran las personas servidoras públicas, previstas en los artículos 107 bis 7, 107 bis 8, 107 bis 9, 344 fracciones I a IV, XII, XIV y XVI a XXVIII; 345 fracciones I a XIV y XVI; 347, fracciones I, II, III Y IV; 349, con excepción de la fracción III; 350, salvo la fracción IX; 352 fracciones II a V y 354 fracciones II a VII, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa.
 
 Si la falta es de las que se refieren en la fracción IX del Artículo 350, 351, 352 la fracción I del Artículo 353 o en la fracción I del Artículo 354, se le sancionará con multa si es la primera vez que se comete, y la segunda vez se le sancionará con suspensión temporal.
 
-En el caso de reincidencia en una tercera ocasión tratándose del Artículo 351, el proyectista será separado del cargo.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En el caso de reincidencia en una tercera ocasión tratándose del Artículo 351, la persona proyectista o la persona secretaria judicial adscrita a la Unidad de Gestión Judicial respectiva, será separada del cargo.
 
 Todo lo anterior, sin perjuicio de la facultad del Consejo de la Judicatura, a que se refiere el artículo 357 de esta Ley.
 
@@ -4320,9 +5710,11 @@ k) El Artículo 352 y 353 de la presente Ley;
 
 l) El Artículo 354, con excepción de la fracción VII, de este ordenamiento legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 359.
 
-Cuando un Juzgador del sistema penal acusatorio, haya incurrido, en la falta a que se refiere el artículo 345 fracción XV de esta Ley, se le impondrá como sanción:
+Cuando una persona juzgadora del sistema penal acusatorio, haya incurrido, en la falta a que se refiere el artículo 345 fracción XV de esta Ley, se le impondrá como sanción:
 
 I. Cuando se trate de la primera vez, multa a que se refiere la fracción II del artículo 340 de esta Ley, debiéndose tomar nota en el expediente de dicha persona servidora pública;
 
@@ -4370,7 +5762,9 @@ f) Una vez hecho lo anterior, se presentará el proyecto a la aprobación del Pl
 
 g) Una vez dictada la resolución de separación del cargo, se turnará a la Secretaría Técnica de la Comisión de Disciplina Judicial para su ejecución inmediata.
 
-### CAPÍTULO I. DE LA CARRERA ADMINISTRATIVA
+### CAPÍTULO V. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 364.
 
@@ -4400,7 +5794,7 @@ El asunto se discutirá y votará en una sola sesión del órgano que correspond
 
 Siendo facultad del órgano que corresponda imponer las sanciones administrativas el resolver y calificar de plano, las excusas o impedimentos de sus miembros; si una u otra se presentare para el caso de la primera instancia por más de un integrante de la Comisión de Disciplina Judicial, ésta será calificada por el Pleno del Consejo de la Judicatura, y de resultar fundada, el o los Consejeros en que proceda, serán sustituidos en cuanto a la integración de dicho órgano y exclusivamente para los efectos del asunto en particular, por las Consejeras o Consejeros que se designen mediante el turno que para tal efecto lleve la Presidencia del Consejo de la Judicatura.
 
-### CAPÍTULO II. DEL COMITÉ DEL SERVICIO CIVIL DE CARRERA
+### CAPÍTULO I. DE LA CARRERA ADMINISTRATIVA
 
 ###### Artículo 368.
 
@@ -4430,9 +5824,11 @@ En los casos en que el recurso de revisión administrativa se interponga contra 
 
 Tratándose de los recursos de revisión administrativa interpuestos contra las resoluciones de designación, no se admitirán más pruebas que las documentales públicas, las cuales deberán ser ofrecidas por el promovente o el tercero interesado en el escrito de interposición de recurso o en el de contestación a éste.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 373.
 
-En caso de que el recurso de revisión administrativa se presente en contra de resoluciones de remoción o propuestas de designación o de ratificación, el Magistrado ponente podrá ordenar la apertura de un período probatorio hasta por diez días. En este caso, únicamente serán admisibles las pruebas documental y testimonial. Cuando alguna de las partes ofrezca una prueba documental que no obre en su poder, solicitará al Magistrado ponente que requiera a la autoridad que cuente con ella, a fin de que la proporcione a la brevedad.
+En caso de que el recurso de revisión administrativa se presente en contra de resoluciones de remoción o propuestas de designación o de ratificación, la persona Magistrada ponente podrá ordenar la apertura de un período probatorio hasta por diez días. En este caso, únicamente serán admisibles las pruebas documental y testimonial. Cuando alguna de las partes ofrezca una prueba documental que no obre en su poder, solicitará a la persona Magistrada ponente que requiera a la autoridad que cuente con ella, a fin de que la proporcione a la brevedad.
 
 ###### Artículo 374.
 
@@ -4446,7 +5842,7 @@ La interposición del recurso de revisión administrativa no interrumpirá en ni
 
 ## TÍTULO DÉCIMO QUINTO. DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA
 
-### CAPÍTULO III. DE LA SELECCIÓN, INGRESO PARITARIO Y PROMOCIÓN
+### CAPÍTULO II. DEL COMITÉ DEL SERVICIO CIVIL DE CARRERA
 
 ###### Artículo 375.
 
@@ -4472,13 +5868,9 @@ En la interpretación y aplicación de estos conceptos prevalecerá la prohibici
 
 En la interpretación y aplicación de estos principios, servirá de guía lo dispuesto en el Código de Ética del Tribunal Superior de Justicia.
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL CONTENIDO DEL ARTÍCULO 376.]</small>
-
 ###### Artículo 378.
 
-El Servicio Civil de Carrera Administrativa se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia, perspectiva de género, igualdad de oportunidades y antigüedad.
-
-Además, en el funcionamiento de dicho Servicio se deberán observar los principios y criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
 > <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES IDÉNTICO AL CONTENIDO DEL ARTÍCULO 377.]</small>
 
@@ -4510,7 +5902,7 @@ II. Promover el desarrollo del personal del Servicio Civil de Carrera Administra
 
 III. Implementar la evaluación del desempeño conforme a lo establecido en el Reglamento que se apruebe.
 
-### CAPÍTULO IV. DE LA CAPACITACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL
+### CAPÍTULO III. DE LA SELECCIÓN, INGRESO PARITARIO Y PROMOCIÓN
 
 ###### Artículo 383.
 
@@ -4580,7 +5972,7 @@ VII. Las demás que determine quien presida al Tribunal Superior de Justicia o a
 
 Los Reglamentos que al efecto aprueben quienes presidan al Tribunal Superior de Justicia o al Consejo de la Judicatura, según correspondan, regularán los aspectos relacionados con las atribuciones de los Comités, designación de sus integrantes, funciones del secretariado técnico, de asesoría y de observación permanente; así como el quórum, votación, sesiones y trámite de asuntos.
 
-### CAPÍTULO V. DE LA EVALUACIÓN DEL DESEMPEÑO Y CERTIFICACIÓN DE COMPETENCIAS
+### CAPÍTULO IV. DE LA CAPACITACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL
 
 ###### Artículo 386.
 
@@ -4608,7 +6000,7 @@ El proceso de reclutamiento y selección se realizará de conformidad con el reg
 
 Los términos, requisitos y forma de difusión de las convocatorias se establecerán en el reglamento.
 
-### CAPÍTULO VI. DE LA SEPARACIÓN DEL PERSONAL DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA
+### CAPÍTULO V. DE LA EVALUACIÓN DEL DESEMPEÑO Y CERTIFICACIÓN DE COMPETENCIAS
 
 ###### Artículo 390.
 
@@ -4640,7 +6032,7 @@ En los programas de capacitación deberán incluirse los relacionados con la int
 
 El programa de capacitación será obligatorio para el personal del Servicio Civil de Carrera Administrativa, por lo que las y los Titulares otorgarán todas las facilidades para que asistan a las capacitaciones que les correspondan.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE LA SEPARACIÓN DEL PERSONAL DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA
 
 ###### Artículo 396.
 
@@ -4675,6 +6067,8 @@ El comité podrá incorporar las mejores prácticas nacionales e internacionales
 ###### Artículo 402.
 
 Los reconocimientos se podrán otorgar con motivo del resultado sobresaliente tanto en la capacitación como en la evaluación del desempeño y dependerá de la información obtenida durante el procedimiento de evaluación global. El Consejo de la Judicatura, a propuesta del Comité, definirá los criterios.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 403.
 
@@ -4712,17 +6106,21 @@ La Contraloría contará con el personal necesario para el correcto ejercicio de
 
 Contará con una persona Titular que se denomina Contralor General del Tribunal Superior de Justicia, nombrado por el Consejo de la Judicatura y ratificado por el Congreso Local, durará en el cargo seis años sin posibilidad de reelección, deberá satisfacer los requisitos que señala el artículo 21, con excepción de lo establecido por el último párrafo de la fracción VII, de esta Ley, deberá además acreditar los conocimientos suficientes para el ejercicio del cargo.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 408.
 
-Corresponde a la o al titular de la Contraloría originalmente la representación y trámite de los asuntos de la competencia de aquella, y quien podrá, para la mejor distribución y desarrollo del trabajo, conferir sus facultades a las y los servidores públicos subalternos, sin perjuicio de su ejercicio directo.
+Corresponde a la persona titular de la Contraloría originalmente la representación y trámite de los asuntos de la competencia de aquélla, y quien podrá, para la mejor distribución y desarrollo del trabajo, conferir sus facultades a las personas servidoras públicas subalternas, sin perjuicio de su ejercicio directo.
 
 ###### Artículo 409.
 
 Para el ejercicio de sus funciones la Contraloría tiene a su cargo las atribuciones que corresponden a su propio ámbito de competencia y se regirá por lo previsto en esta Ley y su Reglamento, así como en los acuerdos que para tal efecto apruebe quien sea competente.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 410.
 
-La competencia de la Contraloría estará determinada por la naturaleza de la conducta o faltas de las y los servidores públicos del Poder Judicial por lo que deberá ajustarse a lo estrictamente establecido en el artículo siguiente de esta Ley, sujetando su actuación al conocimiento de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, patrimonio, fondos y valores, así como las relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales, planeación, situación patrimonial y auditorías, transparencia y datos personales, vigilando su cumplimiento y las demás, conforme a la normatividad aplicable, así como a las leyes en materia de responsabilidades administrativas.
+La competencia de la Contraloría estará determinada por la naturaleza de la conducta o faltas de las personas servidoras públicas del Poder Judicial por lo que deberá ajustarse a lo estrictamente establecido en el artículo siguiente de esta Ley, sujetando su actuación al conocimiento de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, patrimonio, fondos y valores, así como las relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales, planeación, situación patrimonial y auditorías, transparencia y datos personales, vigilando su cumplimiento y las demás, conforme a la normatividad aplicable, así como a las leyes en materia de responsabilidades administrativas.
 
 ###### Artículo 411.
 
@@ -4959,3 +6357,11 @@ G.O. 1 DE AGOSTO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
