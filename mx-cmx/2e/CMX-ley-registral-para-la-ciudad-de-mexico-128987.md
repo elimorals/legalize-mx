@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-la-ciudad-de-mexico-128987"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2024-09-27"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128987&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2018-05-31"
 ---
 # LEY REGISTRAL PARA LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL DÍA 5 DE DICIEMBRE DE 2018 SALVO EL ARTÍCULO TERCERO EN SU FRACCIÓN IX, ARTÍCULOS DIECISÉIS, VEINTINUEVE EN SU FRACCIÓN V, SETENTA Y NOVENTA, QUE ENTRAN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY REGISTRAL PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -82,6 +82,10 @@ VI. Certificado Electrónico: es el documento firmado electrónicamente por un p
 
 VII. Código: al Código Civil para la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VII. Bis. Código Nacional de Procedimientos: Código Nacional de Procedimientos Civiles y Familiares;
+
 VIII. Consejería Jurídica: a la Consejería Jurídica y de Servicios Legales del Gobierno de la Ciudad de México;
 
 IX. Copia certificada electrónica: es la reproducción total o parcial de una escritura, acta o testimonio, así como de sus respectivos documentos del apéndice, o sólo de éstos o de alguno o algunos de ellos, que el Notario expide únicamente en soporte electrónico y que autoriza mediante su firma electrónica notarial. La copia certificada electrónica que el notario autorice será un documento notarial válido jurídicamente y se considerará con valor equivalente a la copia certificada prevista en la Ley del Notariado para la Ciudad de México;
@@ -110,11 +114,11 @@ XIX. Reglamento: al Reglamento de la Ley Registral para la Ciudad de México.
 
 Corresponde el ejercicio de la función registral al Jefe de Gobierno de la Ciudad de México y la realiza a través del titular del Registro Público.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 5.
 
-Para el cumplimiento de sus funciones, el Registro será dotado de la estructura operativa y funcional necesaria, en términos de lo que señale el Reglamento, que proveerá en la esfera administrativa a la exacta observancia del Código y de esta Ley.
-
-Las funciones encomendadas a los servidores públicos del Registro se regirán por el Código, por esta Ley, su Reglamento, Manuales de Organización, de procedimientos y demás ordenamientos que resulten aplicables.
+Para el cumplimiento de sus funciones, el Registro será dotado de la estructura operativa y funcional necesaria, en términos de lo que señale el Reglamento, que proveerá en la esfera administrativa a la exacta observancia del Código y de esta Ley. Las funciones encomendadas a los servidores públicos del Registro se regirán por el Código, el Código Nacional de Procedimientos, por esta Ley, su Reglamento, Manuales de Organización, de procedimientos y demás ordenamientos que resulten aplicables.
 
 ###### Artículo 6.
 
@@ -422,9 +426,17 @@ II. Un sistema de procedimiento registral;
 
 III. Un sistema de información permanente y actualizado para su consulta pública, incluyendo días y horas inhábiles;
 
-IV. Las bases de datos y archivos complementarios, necesarios para explotar y validar la información; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V. Los respaldos.
+IV. Las bases de datos y archivos complementarios, necesarios para explotar y validar la información;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. Los respaldos; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. Un sistema electrónico permanente y actualizado para recibir los actos jurídicos ordenados por la autoridad judicial o administrativa e informar el resultado de los mismos.
 
 ###### Artículo 29.
 
@@ -1167,3 +1179,11 @@ G.O. 27 DE SEPTIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE ADICIONA UNA FRACCIÓN VII BIS AL ARTÍCULO 3º; SE REFORMA EL ÚNICO PÁRRAFO DEL ARTÍCULO 5º; Y SE REFORMAN LAS FRACCIONES IV Y V, ADICIONANDO UNA FRACCIÓN VI AL ARTÍCULO 28, TODOS LOS NUMERALES DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
