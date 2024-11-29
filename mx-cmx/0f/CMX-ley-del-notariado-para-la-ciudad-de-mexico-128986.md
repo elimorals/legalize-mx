@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-la-ciudad-de-mexico-128986"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2021-08-04"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128986&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-21"
 
 LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -112,7 +112,9 @@ VIII bis. Ciudad: Ciudad de México;
 
 IX. Código Civil: El Código Civil para la Ciudad de México;
 
-X. Código de Procedimientos: El Código de Procedimientos Civiles para la Ciudad de México;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+X. Código Nacional de Procedimientos: Código Nacional de Procedimientos Civiles y Familiares;
 
 XI. Código Penal: El Código Penal para la Ciudad de México;
 
@@ -658,9 +660,11 @@ Una vez presentada la solicitud y acreditados los requisitos que anteceden, la a
 
 De la comunicación señalada en el párrafo que antecede se marcará copia al Colegio.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 55.
 
-Para acreditar los requisitos a que se refieren las fracciones I y IV del Artículo anterior, el interesado deberá exhibir con su solicitud de examen, las constancias documentales públicas respectivas; para acreditar los requisitos a que se refieren las fracciones II, III y V, el interesado deberá, con citación del Colegio, realizar opcionalmente ante autoridad judicial la información ad perpetuam prevista en el Código de Procedimientos o con acta Notarial que contenga su declaración con la de dos testigos, ante un Notario diverso de donde haya realizado su práctica; el requisito señalado por la fracción VI, se acreditará con los avisos sellados del inicio y terminación de la práctica en cuestión, que el Notario respectivo deberá dar en tiempo, a la autoridad competente, marcando copia al Colegio, así como con los oficios de contestación de dichos avisos. Tales prácticas podrán ser constatadas por la autoridad competente y por el Colegio. Para acreditar la buena salud y el pleno uso de sus facultades físicas e intelectuales, el candidato deberá exhibir certificado médico expedido por médico o institución autorizada; certificados que podrán ser constatados por la autoridad competente y por el Colegio.
+Para acreditar los requisitos a que se refieren las fracciones I y IV del artículo anterior, el interesado deberá exhibir con su solicitud de examen, las constancias documentales públicas respectivas; para acreditar los requisitos a que se refieren las fracciones II, III y V, el interesado deberá, con citación del Colegio, realizar opcionalmente ante autoridad judicial la información ad perpetuam prevista en el Código Nacional de Procedimientos o con acta Notarial que contenga su declaración con la de dos testigos, ante Notaria o el Notario diverso de donde haya realizado su práctica; el requisito señalado por la fracción VI, se acreditará con los avisos sellados del inicio y terminación de la práctica en cuestión, que la Notaria o el Notario respectivo deberá dar en tiempo, a la autoridad competente, marcando copia al Colegio, así como con los oficios de contestación de dichos avisos. Tales prácticas podrán ser constatadas por la autoridad competente y por el Colegio. Para acreditar la buena salud y el pleno uso de sus facultades físicas e intelectuales, el candidato deberá exhibir certificado médico expedido por médico o institución autorizada; certificados que podrán ser constatados por la autoridad competente y por el Colegio.
 
 ###### Artículo 56.
 
@@ -1764,23 +1768,33 @@ En los supuestos a que se refieren los tres Artículos anteriores, el Notario ha
 
 Las actas que el Notario levante con motivo de los hechos a que se refieren las fracciones II, V y VI del Artículo 131, serán firmadas por quien solicite la intervención del Notario y demás comparecientes. En los supuestos previstos en las demás fracciones del mismo Artículo, el Notario podrá autorizar el acta levantada sin necesidad de firma alguna.
 
-> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 138.
 
-Cuando se trate de reconocimiento o puesta de firmas autógrafas o electrónicas y de la ratificación de contenido previstos en la fracción II del Artículo 131, el Notario hará constar lo sucedido al respecto ante él, así como la identidad de los comparecientes y que éstos tienen capacidad. La firma autógrafa o electrónica o su reconocimiento indicados, con su respectiva ratificación de contenido, podrán ser a propósito de cualquier documento redactado en idioma distinto al español, sin necesidad de traducción y sin responsabilidad para el Notario, en el acta respectiva se incluirá la declaración del interesado de que conoce en todos sus términos el contenido del documento y en lo que éste consiste.
+Cuando se trate de reconocimiento o puesta de firmas autógrafas o electrónicas y de la ratificación de contenido previstos en la fracción II del artículo 131, la Notaria o el Notario hará constar lo sucedido al respecto ante él, así como la identidad de los comparecientes y que éstos tienen capacidad. La firma autógrafa o electrónica o su reconocimiento indicados, con su respectiva ratificación de contenido, podrán ser a propósito de cualquier documento redactado en idioma distinto al español, sin necesidad de traducción y sin responsabilidad para la Notaria o el Notario. En el acta respectiva se incluirá la declaración del interesado de que conoce en todos sus términos el contenido del documento y en lo que éste consiste.
 
-En el caso de ratificación de firmas electrónicas, el compareciente declarará ante el Notario que la firma electrónica es el medio que acordó para atribuir autoría y efectos jurídicos al documento o mensaje de datos cuyo contenido ratifica, así como la plataforma electrónica utilizada para firmar electrónicamente y el tipo de firma electrónica utilizada en el documento o en el mensaje de datos a ratificar, salvo que el compareciente manifieste desconocer la información.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En el caso de reconocimiento de firmas electrónicas, el compareciente declarará ante la Notaria o el Notario que la firma electrónica es el medio que acordó para atribuir autoría y efectos jurídicos al documento o mensaje de datos cuyo contenido ratifica, así como la plataforma electrónica utilizada para firmar electrónicamente y el tipo de firma electrónica utilizada en el documento o en el mensaje de datos a ratificar, salvo que el compareciente manifieste desconocer la información.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En el caso del reconocimiento de firmas autógrafas o electrónicas y su respectiva ratificación de contenido de documentos, que contengan obligaciones ciertas, líquidas y exigibles, ya en el momento del otorgamiento o con posterioridad, se hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es la directamente obligada, o representante de la persona deudora, señalando también los datos del acta en que se asiente tal constancia.
+
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
 
 El Notario deberá abstenerse de intervenir en las actuaciones señaladas en este artículo, cuando el acto que se contenga en el documento exhibido deba constar en escritura por disposición legal o pacto entre las partes; salvo, en este último caso, que todos los sujetos que la hayan acordado o aquellos de los cuales esto dependa jurídicamente estén de acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 139.
 
-Para la protocolización de un documento, el Notario lo insertará en la parte relativa del acta que al efecto se asiente mediante su transcripción o la reproducción de su imagen en la forma prevenida por el Artículo 86, o lo agregará al apéndice en el legajo marcado con el número de acta y bajo la letra o número que le corresponda.
+Para la protocolización de un documento, la Notaria o el Notario lo insertará en la parte relativa del acta que al efecto se asiente mediante su transcripción o la reproducción de su imagen en la forma prevenida por el artículo 86, o lo agregará al apéndice en el legajo marcado con el número de acta y bajo la letra o número que le corresponda.
 
-> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-La protocolización de mensajes de datos y documentos electrónicos podrá realizarse mediante la incorporación del archivo electrónico respectivo al apéndice del instrumento del protocolo ordinario o digital, según corresponda a través del Sistema Informático. En el caso del protocolo ordinario, además y de ser posible conforme a la naturaleza del mensaje de datos o documento electrónico, se agregará al apéndice una representación impresa del mismo.
+La protocolización de mensajes de datos y documentos electrónicos podrá realizarse mediante la incorporación del archivo electrónico respectivo al apéndice del instrumento del protocolo digital a través del Sistema Informático. En el caso del protocolo ordinario el mensaje de datos o documento electrónico se entenderá protocolizado cuando se agregue al apéndice una representación impresa de los mismos, siempre que la Notaria o el Notario certifique en el propio instrumento, que dicha representación corresponden al mensaje de datos o documento electrónico.
 
 ###### Artículo 140.
 
@@ -2056,7 +2070,9 @@ III. Siendo Notario en ejercicio de sus funciones, a sabiendas, haga constar hec
 
 La penalidad prevista se duplicará si quien comete el delito es Notario.
 
-### CAPÍTULO IV. DE LA COMPETENCIA PARA REALIZAR FUNCIONES NOTARIALES EN ASUNTOS EXTRAJUDICIALES Y DE LA TRAMITACIÓN SUCESORIA ANTE NOTARIO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. DE LA COMPETENCIA PARA REALIZAR FUNCIONES NOTARIALES EN ASUNTOS EXTRAJUDICIALES, PROCEDIMIENTOS DE DIVORCIO Y DE LA TRAMITACIÓN SUCESORIA ANTE NOTARIO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2066,43 +2082,89 @@ En los términos de esta Ley se consideran asuntos susceptibles de conformación
 
 I. Todos aquellos actos en los que haya o no controversia judicial, los interesados le soliciten haga constar bajo su fe y asesoría los acuerdos, hechos o situaciones de que se trate;
 
-II. Todos aquellos en los que, exista o no controversia judicial, lleguen los interesados voluntariamente a un acuerdo sobre uno o varios puntos del asunto, o sobre su totalidad, y se encuentren conformes en que el Notario haga constar bajo su fe y con su asesoría los acuerdos, hechos o situaciones de que se trate, siempre que se haya solicitado su intervención mediante rogación; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-III. Todos aquellos asuntos que en términos del Código de Procedimientos Civiles conozcan los jueces en vía de jurisdicción voluntaria en los cuales el Notario podrá intervenir en tanto no hubiere menores no emancipados o mayores incapacitados. En forma específica, ejemplificativa y no taxativa, en términos de este capítulo y de esta ley:
+II. Todos aquellos en los que, exista o no controversia judicial, lleguen los interesados voluntariamente a un acuerdo sobre uno o varios puntos del asunto, o sobre su totalidad, y se encuentren conformes en que la Notaria o el Notario haga constar bajo su fe y con su asesoría los acuerdos, hechos o situaciones de que se trate, siempre que se haya solicitado su intervención mediante rogación;
 
-a) En las sucesiones en términos del párrafo anterior y de la sección segunda de este capítulo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-b) En la celebración y modificación de capitulaciones matrimoniales, disolución y liquidación de sociedad conyugal; y
+III. En las sucesiones en términos de la Sección Segunda de este Capítulo y del Título Primero, del Libro Quinto del Código Nacional de Procedimientos Civiles y Familiares;
 
-c) En las informaciones ad perpetuam, apeos y deslindes y demás diligencias, excepto las informaciones de dominio.
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. En la celebración y modificación de capitulaciones matrimoniales, disolución y liquidación de sociedad conyugal, en los términos y cumpliendo los requisitos que establezca el Código Civil para el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+V. En los asuntos que conozcan los jueces, como actos prejudiciales, diligencias preliminares de consignación y en los asuntos que estén facultados para conocer las Notarias o Notarios en vía de jurisdicción voluntaria, en términos del Título Segundo del Libro Tercero y del Título Segundo del Libro Cuarto del Código Nacional de Procedimientos; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI. En los asuntos en los que intervengan una o más personas con discapacidad, incluyendo en los que ésta o éstas cuenten con persona o personas de apoyo extraordinario y sus correspondientes salvaguardias, a excepción de aquéllos de carácter personalísimo.
 
 Las autorizaciones y habilitaciones especiales de sujetos a quienes falte capacidad jurídica se regirán por lo dispuesto en el Código Civil y en las demás normas correspondientes.
 
 #### SECCIÓN SEGUNDA. NORMAS NOTARIALES DE TRAMITACIÓN SUCESORIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 179.
 
-Sin perjuicio de lo dispuesto por el Código de Procedimientos Civiles, las sucesiones en las que no hubiere controversia alguna y cuyos herederos fueren mayores de edad, menores emancipados o personas jurídicas, podrán tramitarse ante Notario. El que se oponga al trámite de una sucesión, o crea tener derechos contra ella, los deducirá conforme lo previene el Código de Procedimientos Civiles. El Juez competente, de estimarlo procedente, lo comunicará al Notario para que, en su caso, a partir de esa comunicación se abstenga de proseguir con la tramitación. La apertura de testamento público cerrado, así como la declaración de ser formal un testamento especial, de los previstos por el Código Civil, se otorgará siempre judicialmente.
+Sin perjuicio de lo dispuesto por el Código Nacional de Procedimientos, las sucesiones en las que no hubiere controversia, podrán tramitarse ante Notaria o Notario.
+
+> <small>(ADICIONADO [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO FORMABA PARTE DEL PRIMERO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+El que se oponga al trámite de una sucesión, o crea tener derechos contra ella, los deducirá conforme lo previene el Código Nacional de Procedimientos. La persona juzgadora competente, de estimarlo procedente, lo comunicará a la Notaria o Notario para que, en su caso, a partir de esa comunicación se abstenga de proseguir con la tramitación.
+
+> <small>(ADICIONADO [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO FORMABA PARTE DEL PRIMERO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La apertura del testamento público cerrado, la declaración de ser formal el testamento ológrafo o de un testamento especial, y la declaración de ser formalmente válido un testamento otorgado en país extranjero, se tramitará siempre judicialmente, excepto en este último caso, cuando se trate de un testamento público abierto, otorgado ante miembro del Servicio Exterior Mexicano, (sic) ejercicio de funciones notariales, en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, cuyo testimonio tendrá plena validez sin necesidad de legalización.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las sucesiones en las que intervengan una o más personas con discapacidad, incluyendo las que cuenten con persona o personas de apoyo extraordinario podrán tramitarse ante Notaria o Notario en caso de que ninguna de las personas de apoyo tenga interés en la sucesión. En caso de que las personas de apoyo sí tengan interés, podrá intervenir la Notaria o el Notario si se hubieren establecido las salvaguardias específicas necesarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 180.
 
-Si la sucesión fuere testamentaria, la tramitación Notarial podrá llevarse a cabo, independientemente de cual hubiere sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento, siempre y cuando se actualicen las hipótesis previstas en el primer párrafo del Artículo anterior. En este caso, deberán obtenerse previamente los informes del Archivo y del archivo judicial, así como de la oficina respectiva del último domicilio del autor de la sucesión, en caso de que hubiere sido fuera de la Ciudad de México, a fin de acreditar que el testamento presentado al Notario por todos los herederos, es el último otorgado por el testador.
+Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cuál hubiera sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento, siempre y cuando se actualicen las hipótesis previstas en el artículo anterior.
 
-Los informes de la oficina respectiva del último domicilio del autor de la sucesión no serán necesarios cuando se obtenga el informe expedido por el Registro Nacional de Avisos de Testamentos.
+> <small>(ADICIONADO [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO FORMABA PARTE DEL PRIMERO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Lo mismo se observará en caso de sucesiones intestamentarias en los términos del artículo siguiente.
+En este caso, deberá obtenerse previamente el informe del Archivo. Sólo deberá tramitarse informe del Archivo Judicial cuando el informe del Archivo o del resultado de la consulta expedida por el Registro Nacional de Avisos de Testamento, aparezca la existencia de algún testamento público cerrado.
+
+> <small>(ADICIONADO [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO FORMABA PARTE DEL PRIMERO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+También deberá obtenerse el informe de la oficina respectiva del último domicilio del autor de la sucesión, en caso de que hubiera estado ubicado fuera de la Ciudad de México, a fin de acreditar que el testamento presentado a la Notaria o Notario por todos los herederos es el último otorgado por el testador.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Los informes de la oficina respectiva del último domicilio del autor de la sucesión no serán necesarios cuando se obtenga el resultado de la consulta expedida por el Registro Nacional de Avisos de Testamento. Dicha consulta se acompañará al informe obtenido del Archivo.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Lo dispuesto en este artículo, en lo conducente, se observará en caso de sucesiones intestamentarias en los términos del artículo siguiente.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 181.
 
-La sucesión intestamentaria podrá tramitarse ante Notario si el último domicilio del autor de la sucesión fue la Ciudad de México, o si se encuentran ubicados en la entidad uno o la mayor parte de los bienes, lo cual declararán los interesados bajo su responsabilidad, una vez que se hubieren obtenido del Archivo Judicial y del Archivo, constancias de no tener depositado testamento o informe de que se haya otorgado alguno, y previa acreditación de los herederos de su entroncamiento con el autor de la sucesión mediante las partidas del Registro Civil correspondiente. Podrán tramitar esta sucesión, el o la cónyuge, los ascendientes, descendientes y colaterales hasta el cuarto grado; fuera de estos casos, la sucesión deberá tramitarse por la vía judicial.
+La sucesión intestamentaria podrá tramitarse ante Notaria o Notario, debiendo observar las disposiciones que sobre competencia establece el Código Nacional de Procedimientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 182.
 
-Si hubiere testamento se exhibirá el testimonio correspondiente y la copia certificada del acta de defunción del autor de la sucesión; el heredero o herederos instituidos y el albacea designado, si lo hubiere, podrán manifestar expresamente y, de común acuerdo ante el Notario de su elección:
+Si hubiere testamento se exhibirá el testimonio correspondiente y la copia certificada del acta de defunción del autor de la sucesión. El heredero o herederos instituidos y el albacea designado, si lo hubiere, podrán manifestar expresamente y, de común acuerdo ante la Notaria o Notario de su elección:
 
-I. Su conformidad, de llevar la tramitación ante el citado Notario;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Que reconocen la validez del testamento;
+I. Su conformidad de llevar la tramitación ante la citada Notaria o Notario;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Que reconocen la validez del testamento y manifiestan desconocer que exista algún otro que lo hubiese revocado;
 
 III. Que aceptan la herencia;
 
@@ -2110,39 +2172,93 @@ IV. Que reconocen por sí y entre si sus derechos hereditarios que les sean atri
 
 V. Su intención de proceder por común acuerdo.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 183.
 
-El Notario podrá hacer constar también la aceptación o renuncia del cargo de albacea instituido por el autor del testamento, así como las designaciones de albacea que en su caso hagan todos los herederos de común acuerdo, y la aceptación del cargo. También los acuerdos de los herederos para la constitución en su caso de la caución o el relevo de esa obligación. Una vez aceptado el cargo, el albacea procederá a la formación de inventario y avalúo en términos de Ley.
+La Notaria o Notario podrá hacer constar también la aceptación o renuncia del cargo de albacea instituido por el autor del testamento, así como las designaciones de albacea que en su caso hagan todos los herederos de común acuerdo, y la aceptación del cargo. También los acuerdos de los herederos para la constitución en su caso de la caución o el relevo de esa obligación. Una vez aceptado el cargo, el albacea procederá a la formación de inventario y avalúo en términos de Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 184.
 
-También podrá hacer constar el Notario, la renuncia o repudio de derechos que haga alguno de los herederos o legatarios.
+También podrá hacer constar la Notaria o Notario la renuncia o repudio de derechos que haga alguno de los herederos o legatarios.
 
-Los emancipados podrán aceptar o repudiar sus derechos hereditarios.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En el supuesto de que hubiere niños, niñas, adolescentes o personas con discapacidad, requerirán de autorización judicial para repudiar o renunciar a la herencia.
 
 ###### Artículo 185.
 
 El instrumento de aceptación de herencia podrá otorgarse aún sin la comparecencia de los legatarios instituidos, siempre que los herederos se obliguen al pago de los legados. No se podrá llevar a cabo la adjudicación de bienes sin que se hubiesen pagado o garantizado los legados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 186.
 
-Si no hubiere testamento, los herederos, en el orden de derechos previsto por el Código Civil, comparecerán todos ante Notario en compañía de dos testigos idóneos; exhibirán al Notario copias certificadas del acta de defunción del autor de la sucesión y las que acrediten su entroncamiento; declararán bajo protesta de decir verdad sobre el último domicilio del finado, y que no conocen de la existencia de persona alguna diversa de ellos con derecho a heredar en el mismo grado o en uno preferente al de ellos mismos.
+Si no hubiere testamento, todos los que acrediten tener derecho a heredar conforme al orden y grado establecidos por la Ley comparecerán ante Notaria o Notario en compañía de dos testigos idóneos; exhibirán a la Notaria o Notario copia certificada del acta de defunción del autor de la sucesión y declararán bajo protesta de decir verdad el último domicilio del finado, que no tienen conocimiento de la existencia de testamento alguno otorgado por el autor de la sucesión, que no tienen conocimiento de que se haya iniciado trámite de la sucesión judicial o notarial, ni de la existencia de persona alguna diversa de ellos con derecho a heredar en el mismo grado o en uno preferente al de ellos mismos.
 
-El Notario procederá a tomar la declaración de los testigos por separado, en los términos previstos para las diligencias de información testimonial por el Código de Procedimientos Civiles: los herederos que sean descendientes del finado, podrán obtener la declaración de su derecho, justificando con los correspondientes documentos o con la prueba que sea legalmente posible, su parentesco con el mismo y con información testimonial que acredite que ellos o los que designen son los únicos herederos.
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Acto seguido, se procederá en los mismos términos previstos por el Artículo anterior, para lo relativo a la aceptación o repudio de los derechos hereditarios, el nombramiento de albacea y la constitución o relevo de la caución correspondiente.
+Los comparecientes acreditarán su derecho a heredar de la siguiente manera:
 
-Los herederos ab-intestato que sean descendientes del finado, podrán obtener la declaración de su derecho, justificando con los correspondientes documentos o con la prueba que sea legalmente posible, su parentesco con el mismo y con información testimonial que acredite que ellos o los que designen son los únicos herederos.
+I. Los descendientes, ascendientes y colaterales con las copias certificadas o certificaciones de las actas del Registro Civil que acrediten su parentesco.
+
+II. Los cónyuges con la copia certificada o certificación del acta del Registro Civil que acredite el matrimonio.
+
+III. La concubina o el concubino con la copia certificada o certificación del acta del Registro Civil que contenga las declaraciones con relación a la existencia del concubinato o con sentencia judicial ejecutoriada.
+
+IV. El o la conviviente con el documento ratificado y registrado ante la Dirección General Jurídica y de Gobierno de la Alcaldía de la Demarcación Territorial que corresponda al domicilio donde se establezca el hogar común, a que se refiere la Ley de Sociedad de Convivencia para la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En todos los casos se acreditará que los comparecientes son los únicos con derecho a heredar con la declaración que éstos hagan bajo protesta de decir verdad y con la información testimonial a que se refieren los siguientes párrafos de este artículo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La Notaria o Notario procederá a tomar la declaración de los testigos por separado, en los términos previstos para las diligencias de información testimonial por el Código Nacional de Procedimientos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Acto seguido, los comparecientes manifestarán expresamente y de común acuerdo ante la Notaria o Notario de su elección:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Su conformidad de llevar la tramitación ante la citada Notaria o Notario;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Que se reconocen recíprocamente sus derechos hereditarios que les atribuye la ley y se declaran como únicos y universales herederos legítimos del autor de la sucesión en los términos y proporciones que establece la Ley;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III. Que aceptan la herencia; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Su intención de proceder por común acuerdo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En el mismo acto designarán al albacea de la sucesión y acordarán la garantía que deba otorgar para el manejo de su cargo o la liberación expresa de la misma, salvo en el caso de que el albacea fuere heredero único o su porción bastare para garantizar su cargo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Si estuviere presente el albacea, se hará constar la aceptación y protesta de su cargo; si no lo estuviere, se hará constar en instrumento por separado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 187.
 
-El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los Artículos anteriores, mediante dos publicaciones que se harán en un periódico de circulación nacional, de diez en diez días, con la mención del número de la publicación que corresponda. Se considerarán de circulación nacional los periódicos que tengan ese carácter, no obstante la publicación se realice en la sección correspondiente a la Ciudad de México, siempre que dicho periódico cuente con una versión electrónica.
+La Notaria o Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los artículos anteriores, mediante dos publicaciones que se harán en un periódico de circulación nacional, de diez en diez días, con la mención del número de la publicación que corresponda. Se considerarán de circulación nacional los periódicos que tengan ese carácter, no obstante la publicación se realice en la sección correspondiente a la Ciudad de México, siempre que dicho periódico cuente con una versión electrónica.
 
 Estas publicaciones podrán ser suplidas por otra u otras publicaciones en medios electrónicos u otro medio de comunicación masiva que acuerden el Colegio y las autoridades competentes, salvaguardando siempre la debida publicidad y garantía de audiencia de los posibles interesados.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 188.
 
-Una vez hechas las publicaciones a que se refiere el Artículo anterior, de lo que se dejará constancia en el instrumento, el o los albaceas presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, en su caso, se realice su protocolización.
+Una vez hechas las publicaciones a que se refiere el artículo anterior, de lo que se dejará constancia en el instrumento, el o los albaceas presentarán a la Notaria o Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, en su caso, se realice su protocolización.
 
 > <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
@@ -2150,9 +2266,15 @@ Una vez hechas las publicaciones a que se refiere el Artículo anterior, de lo q
 
 Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los intestados, como los propios herederos convengan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 190.
 
-En caso de testamento público simplificado, los legatarios instituidos exhibirán al Notario el respectivo testimonio, junto al acta de defunción del testador, los títulos de propiedad y demás documentos del caso. El Notario, antes de redactar el instrumento, procederá a publicar que lleva a cabo el trámite sucesorio, mediante una sola publicación en un diario de los de mayor circulación nacional, en la que incluirá el nombre del testador y de los legatarios; recabará las constancias relativas del Archivo, del archivo judicial y, en su caso, las propias correspondientes de los archivos del último domicilio del testador, procediendo a solicitar las constancias relativas al último testamento y de los demás registrados o depositados en los archivos de que se trate.
+En caso de testamento público simplificado, los legatarios instituidos exhibirán a la Notaria o Notario el respectivo testimonio, junto al acta de defunción del testador, los títulos de propiedad y demás documentos del caso. La Notaria o el Notario, antes de redactar el instrumento, procederá a publicar que lleva a cabo el trámite sucesorio, mediante una sola publicación en un diario de los de mayor circulación nacional, en la que incluirá el nombre del testador y de los legatarios.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Asimismo, la Notaria o Notario, previamente recabará los informes en los términos a que se refiere el artículo 180 de la presente Ley.
 
 ### CAPITULO V. SUPLENCIA, ASOCIACIÓN, SEPARACIÓN, SUSPENSIÓN Y TERMINACIÓN DE FUNCIONES
 
@@ -2600,7 +2722,9 @@ Personales; el traslado y la notificación respecto de la admisión de la queja 
 
 III.- Desahogada la visita de inspección especial a que se refiere la fracción anterior, la autoridad citará a las partes a una junta de conciliación, la cual solo podrá diferirse una vez siempre que así lo soliciten las partes; en dicha junta la autoridad exhortará a las partes a conciliar sus intereses.
 
-De no haber conciliación la autoridad abrirá el periodo probatorio, las partes contarán con un plazo de diez días hábiles para ofrecer sus pruebas, posteriormente la Autoridad se pronunciará respecto de la admisión y valoración de las pruebas, misma que estará sujeta a las reglas establecidas en el Código de Procedimientos Civiles. No quedando prueba pendiente por desahogar, se procederá en un término de tres días hábiles a recibir los alegatos por escrito de las partes; una vez rendidos, la autoridad solicitará la opinión del Colegio sobre los hechos materia de la queja, el cual contará con un plazo de quince días hábiles para emitirla a partir del requerimiento que al efecto se le formule, para lo cual deberá consultar el expediente de queja. Acto seguido, la autoridad turnará los autos a resolución, la cual emitirá dentro de los siguientes treinta días hábiles.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+De no haber conciliación la autoridad abrirá el periodo probatorio, las partes contarán con un plazo de diez días hábiles para ofrecer sus pruebas, posteriormente la Autoridad se pronunciará respecto de la admisión y valoración de las pruebas, misma que estará sujeta a las reglas establecidas en el Código Nacional de Procedimientos. No quedando prueba pendiente por desahogar, se procederá en un término de tres días hábiles a recibir los alegatos por escrito de las partes; una vez rendidos, la autoridad solicitará la opinión del Colegio sobre los hechos materia de la queja, el cual contará con un plazo de quince días hábiles para emitirla a partir del requerimiento que al efecto se le formule, para lo cual deberá consultar el expediente de queja. Acto seguido, la autoridad turnará los autos a resolución, la cual emitirá dentro de los siguientes treinta días hábiles.
 
 Si durante la tramitación del procedimiento, sobreviene la muerte del quejoso, sus causahabientes o su representante legal tendrán la obligación de hacerlo del conocimiento de la Autoridad Competente, y a partir de ese momento contarán con noventa días naturales para nombrar albacea y acreditar tal circunstancia, si pasado el término a que se refiere este párrafo no se presenta el albacea, procederá el sobreseimiento.
 
@@ -2612,7 +2736,9 @@ Las disposiciones anteriores se aplicarán en los casos que ameriten sanción de
 
 La presentación del escrito de queja y todas las promociones deberán contener la firma autógrafa de quien promueve, requisito sin el cual se tendrán por no presentados.
 
-Será de aplicación supletoria el Código de Procedimientos Civiles para La Ciudad de México, en lo conducente.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Será de aplicación supletoria el Código Nacional de Procedimientos, en lo conducente.
 
 La queja en contra de notario se inicia a petición de parte, pudiendo la Autoridad competente iniciar el procedimiento de oficio.
 
@@ -2652,9 +2778,13 @@ Personales; la admisión y el traslado así como la resolución que ponga fin al
 
 II. Desahogada la visita de inspección especial, la autoridad, citará al notario para desahogar garantía de audiencia.
 
-III. Pasada la audiencia a que se refiere la fracción anterior, la autoridad abrirá el periodo probatorio, el notario contará con un plazo de diez días hábiles para ofrecer sus pruebas, posteriormente la Autoridad se pronunciará respecto de la admisión y valoración de las pruebas, misma que estará sujeta a las reglas establecidas en el Código de Procedimientos Civiles.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-No quedando prueba pendiente por desahogar, se procederá (sic) la autoridad (sic) solicitará la opinión del Colegio sobre los hechos materia de la queja, el cual contará con un plazo de quince días hábiles para emitirla a partir del requerimiento que al efecto se le formule, para lo cual deberá consultar el expediente de queja. Acto seguido, la autoridad turnará los autos a resolución, la cual emitirá dentro de los siguientes treinta días hábiles.
+III. Pasada la audiencia a que se refiere la fracción anterior, la autoridad abrirá el periodo probatorio, el notario contará con un plazo de diez días hábiles para ofrecer sus pruebas, posteriormente la Autoridad se pronunciará respecto de la admisión y valoración de las pruebas, misma que estará sujeta a las reglas establecidas en el Código Nacional de Procedimientos.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+No quedando prueba pendiente por desahogar, se procederá y la autoridad solicitará la opinión del Colegio sobre los hechos materia de la queja, el cual contará con un plazo de quince días hábiles para emitirla a partir del requerimiento que al efecto se le formule, para lo cual deberá consultar el expediente de queja. Acto seguido, la autoridad turnará los autos a resolución, la cual emitirá dentro de los siguientes treinta días hábiles.
 
 Para lo no previsto en esta sección, le será aplicable la sección primera de este artículo.
 
@@ -2706,7 +2836,9 @@ Para la resolución del recurso no se considerarán, hechos, documentos o alegat
 
 El superior jerárquico dictará resolución en un término que no excederá de treinta días hábiles y la notificará al interesado en un plazo máximo de diez días contados a partir de su firma.
 
-Los términos y notificaciones no previstos en el Recurso de Inconformidad, se regirán por lo dispuesto en el artículo 242 y se aplicará de manera supletoria el Código de Procedimientos Civiles vigente en la Ciudad de México
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Los términos y notificaciones no previstos en el Recurso de Inconformidad, se regirán por lo dispuesto en el artículo 242 y se aplicará de manera supletoria el Código Nacional de Procedimientos.
 
 ###### Artículo 246.
 
@@ -3221,3 +3353,11 @@ CUARTO.- La Agencia Digital de Innovación Pública contará con un plazo de has
 QUINTO.- Una vez habilitada la Estrategia de Firma Electrónica de la Ciudad de México el Colegio de Notarios de la Ciudad de México incorporará su utilización en el Sistema Informático prefiriéndolo frente a otros certificados digitales.
 
 SEXTO.- En un término de 180 días hábiles, la persona titular de la Jefatura de Gobierno deberá armonizar los Reglamentos relacionados con la entrada en vigor del presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
