@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2024-08-16"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -931,7 +931,9 @@ XIV.- De Igualdad de Género;
 
 XV.- De Fortalecimiento Municipal;
 
-XVI.- De Asuntos de los Pueblos Originarios y de las Personas Afromexicanas;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XVI.- De Pueblos y Comunidades Indígenas y Afromexicanas;
 
 XVII.- De Agricultura, Ganadería, Asuntos Portuarios y Pesca;
 
@@ -943,9 +945,17 @@ XX.- Turismo e Inversión;
 
 XXI.- De Vivienda y Ordenamiento Territorial;
 
-XXII.- De Derechos Humanos; y,
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XXIII.- De Trabajo y Previsión Social.
+XXII.- De Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXIII.- De Trabajo y Previsión Social; y,
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XXIV.- De la Diversidad.
 
 Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
 
@@ -3228,3 +3238,11 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- Publíquese en la Gaceta del Congreso del Estado de Baja California.
 
 TERCERO.- Publíquese en el Periódico Oficial del Estado, para los efectos conducentes.
+
+P.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 18 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. Publíquese en la Gaceta del Congreso del Estado de Baja California.
