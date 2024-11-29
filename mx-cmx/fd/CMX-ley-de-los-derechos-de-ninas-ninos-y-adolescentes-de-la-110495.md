@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2024-07-19"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -222,9 +222,9 @@ XV. Certificado de Idoneidad: Documento expedido por la Procuraduría de Protecc
 
 XVI. Código Civil: Código Civil para el Distrito Federal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XVII. Código de Procedimientos: Código de Procedimientos Civiles para el Distrito Federal;
+XVII. Código Nacional de Procedimientos: Código Nacional de Procedimientos Civiles y Familiares;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -298,9 +298,9 @@ XXXIII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescente
 
 XXXIV. Medidas de protección especial: Conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger, garantizar y resguardar los derechos humanos de las niñas, niños y adolescentes conforme a su Interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el goce y ejercicio de sus derechos;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XXXV. Órgano Jurisdiccional: Los juzgados o tribunales de la Ciudad de México;
+XXXV. Órgano Jurisdiccional: Unidades de Gestión y personas juzgadoras;
 
 > <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
 
@@ -670,9 +670,9 @@ A fin de garantizar y restituir los derechos de niñas, niños y adolescentes en
 
 Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela del DIF-CDMX podrán presentar ante la Procuraduría de Protección la solicitud correspondiente.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Los procedimientos de adopción se desahogarán de conformidad con lo dispuesto por la Ley General, el Código Civil, el Código de Procedimientos, la presente Ley y su Reglamento.
+Los procedimientos de adopción se desahogarán de conformidad con lo dispuesto por la Ley General, el Código Civil, el Código Nacional de Procedimientos, la presente Ley y su Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -726,17 +726,17 @@ I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto
 
 II. Garantizar el derecho a la participación de niñas, niños y adolescentes dentro de sus procedimientos de adopción, asegurando que su opinión sea recabada y tomada en cuenta a través de los mecanismos y procedimientos adecuados de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley.
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Asimismo, que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional, Ley General, el Código Civil, el Código de Procedimientos y la presente Ley, según corresponda;
+Asimismo, que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional, Ley General, el Código Civil, el Código Nacional de Procedimientos y la presente Ley, según corresponda;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
 III. Tomar las medidas necesarias a fin de evitar presiones indebidas o coacción a las familias de origen para para (sic) renunciar a la patria potestad y entregar a la niña, niño o adolescente en adopción. Lo anterior sin perjuicio de las acciones penales que pudieran derivarse de dichas conductas;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. El Poder Judicial de la Ciudad de México garantizará que el proceso de adopción se realice de conformidad con lo establecido en Ley General, el Código Civil, el Código de Procedimientos, la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional y la presente Ley;
+IV. El Poder Judicial de la Ciudad de México garantizará que el proceso de adopción se realice de conformidad con lo establecido en Ley General, el Código Civil, el Código Nacional de Procedimientos, la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional y la presente Ley;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -844,7 +844,9 @@ Para los fines de esta Ley queda prohibido:
 
 I. La promesa de adopción durante el proceso de gestación;
 
-II. La adopción privada, entendiéndose ésta como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes sin que intervengan las autoridades competentes de conformidad con Ley General, el Código Civil, el Código de Procedimientos y la presente Ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. La adopción privada, entendiéndose ésta como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes sin que intervengan las autoridades competentes de conformidad con Ley General, el Código Civil, el Código Nacional de Procedimientos y la presente Ley;
 
 III. Realizar adopción para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier otro ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección, presentará denuncia ante el Ministerio Público, y tomará las medidas necesarias para asegurar el bienestar integral de niñas niños y adolescentes;
 
@@ -868,7 +870,9 @@ XII. Que la autoridad omita garantizar el derecho de niñas niños y adolescente
 
 XIII. Que la autoridad se abstenga en dar atención, asistencia o información previa identificación y registro a las madres, padres, tutores o familiares que detenten o pudieran detentar la patria potestad de una niña, niño o adolescente que se encuentre bajo el resguardo y protección del DIF CDMX a través de la Procuraduría de Protección.
 
-XIV. Toda adopción contraria a las disposiciones Constitucionales, a los Tratados Internacionales ratificados por el Estado Mexicano, a la Constitución de la Ciudad de México a la Ley General, el Código Civil, el Código de Procedimientos, la presente Ley, el reglamento correspondiente y al interés superior de la niñez y a su adecuado desarrollo evolutivo.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XIV. Toda adopción contraria a las disposiciones Constitucionales, a los Tratados Internacionales ratificados por el Estado Mexicano, a la Constitución de la Ciudad de México a la Ley General, el Código Civil, el Código Nacional de Procedimientos, la presente Ley, el reglamento correspondiente y al interés superior de la niñez y a su adecuado desarrollo evolutivo.
 
 La autoridad jurisdiccional deberá dar intervención a la Procuraduría de Protección en los procesos de adopción para los efectos legales a que haya lugar.
 
@@ -1032,21 +1036,33 @@ La adopción será plena e irrevocable.
 
 El DIF CDMX a través la Procuraduría de Protección celebrarán con el Sistema Nacional DIF y la Procuraduría de Protección Federal, así como con sus pares locales y con los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos debidamente registrados y autorizados por el DIF-CDMX, los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia, el bienestar integral de las niñas, niños y adolescentes y prevaleciendo siempre el interés superior de la niñez.
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 31 Bis 19.
 
-Tratándose de adopción internacional, se estará a lo establecido en (sic) Ley General, el Código Civil, el Código de Procedimientos, la presente Ley y el Reglamento correspondiente, a efecto de que se asegure que los derechos de niñas, niños y adolescentes que sean adoptados se garanticen en todo momento y se ajuste al interés superior de la niñez. Siempre y cuando no contravenga la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional.
+Tratándose de adopción internacional, se estará a lo establecido en la Ley General, el Código Civil, el Código Nacional de Procedimientos, la presente Ley y el Reglamento correspondiente, a efecto de que se asegure que los derechos de niñas, niños y adolescentes que sean adoptados se garanticen en todo momento y se ajuste al interés superior de la niñez. Siempre y cuando no contravenga la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 Las autoridades involucradas en el proceso de adopción internacional, tomarán las medidas necesarias a efecto de que se garantice que la misma no sea realizada con fines de venta, sustracción, retención u ocultación ilícita, asimilación cultural forzada, desplazamiento forzado tráfico o trata de personas, explotación, trabajo infantil o cualquier otra índole diversa al bienestar integral de las niñas, niños y adolescentes y al interés superior de la niñez.
 
-Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir en colaboración con el Sistema de Protección Nacional y la Procuraduría de Protección Federal, así como la colaboración de las autoridades centrales del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional de la materia, Ley General, el Código Civil, el Código de Procedimientos, la presente Ley y el Reglamento.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir en colaboración con el Sistema de Protección Nacional y la Procuraduría de Protección Federal, así como la colaboración de las autoridades centrales del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional de la materia, Ley General, el Código Civil, el Código Nacional de Procedimientos, la presente Ley y el Reglamento.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad correspondiente a la Procuraduría de Protección, y una vez que la jueza o el juez de lo familiar que conozca del procedimiento otorgue la adopción, previa solicitud de las personas adoptantes la Secretaría de Relaciones Exteriores de conformidad con lo dispuesto en la Ley General y los tratados internacionales en la materia, expedirá la certificación correspondiente.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
 Las personas que ejerzan profesiones de trabajo social y psicología en las instituciones públicas y privadas que intervengan en los procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, y la legislación de la materia, deberá contar con la autorización y registro del DIF-CDMX.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
 La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior, y su bienestar integral habiendo previamente examinado y agotado la posibilidad de asignación de la niña, niño o adolescente para adopción nacional.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 El DIF-CDMX a través la Procuraduría de Protección tiene la obligación de conservar cualquier información que dispongan relativa a niñas, niños, y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
 
@@ -3145,3 +3161,11 @@ G.O. 19 DE JULIO DE 2024.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
