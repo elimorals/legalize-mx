@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2024-03-27"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-23"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -434,9 +434,9 @@ XXXVI. Criminalizar a las personas por su apariencia física, preferencia u orie
 
 XXXVII. Realizar investigaciones o aplicar procedimientos en los campos de la biología, la genética y la medicina, destinados a la selección de personas, contrarios al respeto de los derechos humanos, las libertades fundamentales y la dignidad humana;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XXXVIII. Toda violencia, acción represiva o acto delictivo contra una persona o grupo de personas, motivados por cualquiera de los criterios enunciados en el (sic) en esta ley; y
+XXXVIII. Toda violencia, acción represiva o acto delictivo contra una persona o grupo de personas, motivados por cualquiera de los criterios enunciados en esta ley; y
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -618,9 +618,9 @@ XIII. Desarrollar y aplicar políticas y proyectos para evitar la segregación e
 
 XIV. Promover un entorno urbano diseñado de manera accesible y bajo el diseño universal que permita el libre acceso y desplazamiento para todas las personas;
 
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-XV. Garantizar la accesibilidad en los medios de transporte público de uso general para las personas con discapacidad, personas mayores y mujeres embarazadas, congruentes con la ley de la materia;
+XV. Garantizar la accesibilidad en los medios de transporte público de uso general para las personas con discapacidad, personas mayores y personas embarazadas, congruentes con la ley de la materia;
 
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -1002,9 +1002,9 @@ Los entes públicos, en el ámbito de sus respectivas competencias, llevarán a 
 
 I. Asegurar la prestación de servicios de salud necesarios, haciendo hincapié en la prevención de la mortalidad en la población infantil, con base en los principios básicos de la salud y la nutrición, las ventajas de la lactancia materna, higiene, saneamiento ambiental y las medidas de prevención de accidentes;
 
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II. Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar y el respeto al derecho humano a la no discriminación, así como impulsar medidas y campañas informativas para prevenir el embarazo adolescente y atender, de acuerdo con sus derechos sexuales y reproductivos, a las menores de edad embarazadas; y garantizar el acceso a la interrupción legal del embarazo en forma gratuita y en condiciones de calidad, de conformidad con las leyes en la materia, a las niñas y mujeres adolescentes;
+II. Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar y el respeto al derecho humano a la no discriminación, así como impulsar medidas y campañas informativas para prevenir el embarazo adolescente y atender, de acuerdo con sus derechos sexuales y reproductivos, a las personas menores de edad embarazadas; y garantizar el acceso a la interrupción legal del embarazo en forma gratuita y en condiciones de calidad, de conformidad con las leyes en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -1038,7 +1038,9 @@ VIII. Promover la creación y el acceso a espacios que brinden el servicio de cu
 
 IX. Promover la recuperación física, psicológica y la integración social de las niñas, niños y adolescentes desplazados, víctimas de abandono, trata de personas, explotación, malos tratos, conflictos armados o situaciones de desastre, tomando como base el interés superior de la niñez;
 
-X. Implementar nuevos programas integrales diseñados desde un enfoque de derechos de la infancia, tendientes a eliminar los factores de explotación laboral de la infancia, en particular dirigidas a las niñas que viven mayores niveles de discriminación como las infancias de los mercados, centrales de abasto, trabajadoras domésticas, indígenas, con discapacidad, callejeras y víctimas de abuso. Dichos mecanismos deberán considerar procesos participativos de la infancia para su monitoreo y evaluación;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+X. Implementar nuevos programas integrales diseñados desde un enfoque de derechos de la infancia, tendientes a eliminar los factores de explotación laboral de la infancia, en particular dirigidas a las niñas que viven mayores niveles de discriminación como las infancias de los mercados, centrales de abasto, trabajadoras domésticas, de identidad indígena, con discapacidad, en situación de calle y víctimas de abuso. Dichos mecanismos deberán considerar procesos participativos de la infancia para su monitoreo y evaluación;
 
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -1106,7 +1108,9 @@ Los entes públicos, en el ámbito de su respectiva competencia, llevarán a cab
 
 I. Prevenir, atender y disminuir los factores de riesgo a los que están expuestas las personas jóvenes, generando condiciones para el ejercicio de sus derechos y su pleno desarrollo;
 
-II. Crear programas de capacitación para el empleo, para la inserción en el mercado laboral de jóvenes estudiantes o personas recién egresadas, y para la permanencia y ascenso en el trabajo, así como para la creación de empresas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. Crear programas de capacitación para el empleo, para la inserción en el mercado laboral de personas jóvenes estudiantes o recién egresadas, y para la permanencia y ascenso en el trabajo, así como para la creación de empresas;
 
 III. Eliminar la violencia laboral y discriminación ejercida hacia la población juvenil;
 
@@ -1120,9 +1124,9 @@ V. Ofrecer atención primaria, educación preventiva e información completa y a
 
 VI. Fortalecer los servicios médicos de salud sexual y salud reproductiva, considerando la accesibilidad, calidad y disponibilidad de una amplia gama de métodos anticonceptivos para las personas jóvenes;
 
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VII. Dar atención prioritaria a jóvenes embarazadas en todo lo relacionado con salud sexual, reproductiva, materna y perinatal, así como garantizar su acceso a la interrupción legal del embarazo, libre de estigmas y prejuicios, a las jóvenes que lo soliciten;
+VII. Dar atención prioritaria a las personas jóvenes embarazadas en todo lo relacionado con salud sexual, reproductiva, materna y perinatal, así como garantizar su acceso a la interrupción legal del embarazo, libre de estigmas y prejuicios, a las personas jóvenes que lo soliciten;
 
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -1330,9 +1334,9 @@ VIII. Favorecer la participación de las mujeres, familias y comunidades en las 
 
 IX. Llevar a cabo acciones que permitan la creación y el fomento de medios de comunicación alternativos en lenguas indígenas;
 
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-X. En el marco de las leyes aplicables en la Ciudad de México, cuando se fijen sanciones penales a indígenas, procurar que, tratándose de penas alternativas, se imponga aquella distinta a la privativa de la libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
+X. En el marco de las leyes aplicables en la Ciudad de México, cuando se fijen sanciones penales a personas de identidad indígena, procurar que, tratándose de penas alternativas, se imponga aquella distinta a la privativa de la libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
 
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -1362,7 +1366,9 @@ VI. Reconocer y respetar la conformación y diversidad de las familias en la Ciu
 
 VII. Diseñar, desarrollar y ejecutar procesos educativos dirigidos a personal docente cuya finalidad sea garantizar el acceso a una educación digna y libre de violencia de las personas pertenecientes a la población LGBTTTI; y
 
-VIII. Garantizar a las niñas, niños, adolescentes y jóvenes el acceso a todos sus derechos, libres de prejuicios y/o estereotipos y coadyuvar el libre desarrollo de la personalidad y de la dignidad humana.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Garantizar a las niñas, niños, adolescentes y personas jóvenes el acceso a todos sus derechos, libres de prejuicios y/o estereotipos y coadyuvar el libre desarrollo de la personalidad y de la dignidad humana.
 
 > <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -1450,7 +1456,9 @@ II. Asegurar el acceso a los beneficios de disfrute de todos los servicios públ
 
 III. Sensibilizar y brindar capacitación sobre las manifestaciones de la discriminación por motivos de condición socioeconómica;
 
-IV. Sensibilizar y capacitar a los servidores públicos respecto al contenido y alcance de la presente ley;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV. Sensibilizar y capacitar a las personas servidoras públicas respecto al contenido y alcance de la presente ley;
 
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -2523,3 +2531,11 @@ G.O. 27 DE MARZO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
