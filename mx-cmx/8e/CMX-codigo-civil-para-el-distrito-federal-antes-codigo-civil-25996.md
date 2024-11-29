@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-09-27"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,11 +19,15 @@ scjn_last_update: "2026-08-20"
 ---
 # CODIGO CIVIL PARA EL DISTRITO FEDERAL -ANTES CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL-
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES, PUBLICADO EN LA G.O. DEL 29 DE NOVIEMBRE DE 2024 SE INSERTA LA SIGUIENTE NOTA DE EDICIÓN AL PROLEGÓMENO DE ESTE ORDENAMIENTO: “DE CONFORMIDAD CON LOS CONSIDERANDOS SÉPTIMO Y OCTAVO DE LA DECLARATORIA DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO Y EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 9 DE AGOSTO DE 2024, LA CIUDAD DE MÉXICO INCORPORA A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES, INSTRUMENTO JURÍDICO QUE REGULARÁ LA FORMA Y TÉRMINOS EN QUE SE SUBSTANCIARÁN LOS PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+[NOTA 3: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES, PUBLICADO EN LA G.O. DEL 29 DE NOVIEMBRE DE 2024 SE INSERTA LA SIGUIENTE NOTA DE EDICIÓN AL PROLEGÓMENO DE ESTE ORDENAMIENTO: “DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DE LA DECLARATORIA DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO Y EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 9 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO SERÁ DEROGADO EN FORMA GRADUAL Y PROGRESIVA A PARTIR DEL 1º DE DICIEMBRE DE 2024”.]
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -179,29 +183,157 @@ La ignorancia de las leyes no excusa su cumplimiento; pero los jueces teniendo e
 
 La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 23.
 
-La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la capacidad de ejercicio que no significan menoscabo a la dignidad de la persona ni a la integridad de la familia; los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+La minoría de edad y las demás incapacidades establecidas por la ley, son restricciones a la capacidad de ejercicio, que no significan menoscabo a la dignidad de la persona ni a la integridad de la familia.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Para el ejercicio de su capacidad, cualquier persona puede solicitar apoyo para la toma de decisiones. Sin embargo, a ninguna persona se le podrá exigir llevar a cabo un acto jurídico con apoyo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Los apoyos tendrán el fin de facilitar el ejercicio de sus derechos, incluyendo la comunicación, la comprensión de los actos jurídicos, sus consecuencias y la manifestación de su voluntad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 24.
 
-El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
+Todas las personas mayores de edad tienen capacidad de ejercicio plena, la cual solo podrá restringirse en los casos y con las condiciones que establece este Código.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La persona mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes en igualdad de condiciones con las demás y en todos los aspectos de la vida, independientemente si para ello hace uso de apoyos y salvaguardias conforme a las normas jurídicas especiales.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+## TITULO PRIMERO BIS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPITULO PRIMERO. De la designación anticipada de apoyos
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 A.- Toda persona mayor de 18 años puede designar ante notario el o los apoyos anticipados que considere necesarios, en previsión de requerirlos en el futuro, para el ejercicio de la capacidad jurídica.
+
+La designación anticipada de apoyos deberá establecer la forma, alcance, duración y las directrices que deberán cumplir las personas designadas como apoyos, así como el momento o las circunstancias que dan lugar a que estas directrices entren en vigor y las salvaguardias que en su caso la persona decida establecer.
+
+En la misma designación se podrá establecer las personas físicas o morales que en ningún caso podrán ser designadas como apoyo, sin perjuicio de que posteriormente pueda ser modificada.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 B.- Las designaciones mencionadas en el artículo anterior deberán otorgarse y revocarse ante Notario en escritura pública, en la cual se podrán nombrar sustitutos. En caso de imposibilidad, muerte, excusa, remoción, no aceptación o relevo de la o las personas de apoyo designadas, proporcionarán los apoyos los sustitutos nombrados.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 C.- La aceptación de la designación como persona de apoyo podrá ser expresa o tácita. En este último caso, se entenderá que se ha aceptado si se realizan actos que inequívocamente permitan colegir que se está realizando la función de apoyo.
+
+En caso de que la persona designada como apoyo desee separarse del encargo deberá notificarlo a la persona apoyada con la debida oportunidad, de acuerdo con la naturaleza del acto o negocio de que se trate, para que en caso de que lo considere necesario pueda designar una persona sustituta.
+
+La persona designada como apoyo que abandone sus responsabilidades sin dar oportunidad al nombramiento de una persona sustituta responderá de los daños y perjuicios ocasionados a la persona apoyada y a los terceros con los que ésta tenga un negocio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+### CAPITULO SEGUNDO. De la designación ordinaria de apoyos
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 D. - Las medidas de apoyo son aquellas que son necesarias para ayudar a cualquier persona a ejercer sus derechos en todos los aspectos de su vida, atendiendo a los requerimientos en cada etapa de su vida, y puede estar conformado por la asistencia humana o animal, intermediarios, objetos, instrumentos, ayuda para la movilidad, comunicación, dispositivos técnicos, tecnologías de apoyo y cualquier otra. Pueden ser objeto de medidas de apoyo todos los actos lícitos, incluidos aquéllos para los que la Ley exige la intervención personal del interesado.
+
+Tienen como finalidad permitir el desarrollo pleno de su personalidad, respetando la voluntad y preferencias de la persona, con base en su autonomía y dignidad humana, así como la tutela de sus derechos humanos.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 E. - Las medidas de apoyo pueden incluir, entre otras:
+
+I. Apoyo en la comunicación, incluyendo los leguajes, tanto el lenguaje oral, como la lengua de señas, y otras formas de comunicación no verbal, como la visualización de textos, el braille, la comunicación táctil, los macrotipos, los dispositivos multimedia de fácil acceso, el lenguaje escrito, los sistemas auditivos, el lenguaje sencillo, los medios de voz digitalizada y otros medios y formatos aumentativos o alternativos de comunicación, incluidas la tecnología de la información y las comunicaciones de fácil acceso, tal como la lectura fácil, entre otros;
+
+II. Apoyo en la comunicación, la comprensión de los actos jurídicos y sus consecuencias, y la manifestación de su voluntad;
+
+III. Apoyo en la movilidad;
+
+IV. Cualesquiera otros apoyos en general.
+
+Las medidas de apoyo deben prestarse favoreciendo el desarrollo del proceso en la toma de decisiones de la persona, de acuerdo con su voluntad y preferencias.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 F.- Las medidas relativas al ejercicio de la capacidad jurídica podrán incluir salvaguardias adecuadas y efectivas para impedir los abusos, a fin de que se respeten los derechos, la voluntad y las preferencias de la persona, que no haya conflicto de intereses ni influencia indebida, que sean proporcionales y adaptadas a las circunstancias de la persona.
+
+Las salvaguardias podrán ser determinadas por la persona que designe el apoyo, o por la persona juzgadora, en el caso de los apoyos extraordinarios previsto en el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 G.- Las personas mayores de edad pueden determinar la o las medidas de apoyo ordinarias y las salvaguardias que necesiten, en cuyo caso podrán indicar el alcance de cada una de las medidas de apoyo y salvaguardias. Lo anterior será aplicable para cualquier persona que de manera voluntaria realice la designación indicada.
+
+Estas medidas de apoyo, cuando se utilicen para el otorgamiento o celebración de un acto jurídico deberán otorgarse:
+
+I.- En escritura pública o en carta poder ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario, cuando el interés del negocio para el que se confieren dichas medidas de apoyo sea superior al equivalente a mil veces la Unidad de Cuenta de la Ciudad de México vigente al momento de otorgarse;
+
+II.- Por escrito privado, en los demás casos.
+
+Para el caso de que además de la designación de la persona de apoyo se decida otorgar un poder, el mismo se regirá por las disposiciones relativas de este Código.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 H.- La designación de apoyos para la celebración de actos jurídicos deberá precisar:
+
+I.- La persona o personas físicas o morales designadas como apoyo;
+
+II.- Las funciones que desempeñará cada persona designada;
+
+III.- La duración del nombramiento; y
+
+IV.- Las salvaguardias que en su caso se establezcan.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 I.- La aceptación de la designación como persona de apoyo deberá ser expresa, pero se entenderá que se ha aceptado si se realizan actos que inequívocamente permitan colegir que se está realizando la función de apoyo. En caso de que la persona designada como apoyo desee separarse del encargo deberá notificarlo a la persona apoyada con la debida oportunidad, de acuerdo con la naturaleza del acto o negocio de que se trate, para que en caso de que lo considere necesario pueda designar una persona sustituta. La persona designada como apoyo de manera expresa que abandone sus responsabilidades sin dar oportunidad al nombramiento de una persona sustituta, responderá de los daños y perjuicios ocasionados a la persona apoyada y a los terceros con los que ésta tenga un negocio.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 J. - La persona conservará en todo tiempo la posibilidad de revocar o modificar el apoyo designado. La revocación deberá hacerse por la misma vía en que fue designado el apoyo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 K.- Son obligaciones de las personas designadas como apoyo las siguientes:
+
+I.- Cumplir con debida diligencia todos los pormenores del acto o negocio de que se trate, de conformidad con los alcances de la designación;
+
+II.- Comunicar de una manera completa y accesible a la persona apoyada, cuando esté entre sus funciones, todas las incidencias y características del acto o actos para el que fue designada, hasta los límites de la información disponible;
+
+III.- Transmitir con fidelidad la voluntad y preferencias de la persona apoyada cuando esté entre sus funciones;
+
+IV.- Mantener en estricta confidencialidad todas las interacciones que mantenga con la persona apoyada y con terceras personas con motivo de su encomienda;
+
+V.- Llevar un registro de todos los actos en los que intervenga personalmente en ejercicio de su encomienda. El registro deberá reflejar fielmente en qué consistió el apoyo; y
+
+VI.- Notificar debidamente a la persona apoyada, la existencia de un conflicto de intereses, cuando éste exista en relación con el acto o actos para los que fue designada.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 L.- La persona apoyada será plenamente responsable de los actos realizados con apoyo, a menos que se acredite que los daños ocasionados a la persona apoyada o a terceros, derivan del incumplimiento doloso o culposo de las obligaciones de la persona designada como apoyo. En esos casos, la persona designada como apoyo responderá frente a terceros y estará obligada a reparar los daños y perjuicios ocasionados tanto a estos como a la persona apoyada, incluso los que se deriven de la nulidad del acto. Las personas designadas como apoyo no serán responsables de consecuencias no previsibles y que sean parte connatural del riesgo de actuar en la vida jurídica, así como del caso fortuito o fuerza mayor.
+
+Son nulos los actos jurídicos realizados con apoyo cuando se acredite que la persona designada como apoyo ejerció violencia, influencia indebida, obró de mala fe o dolosamente indujo a miedo o error a la persona apoyada para la realización del acto.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 M.- Cuando sea designada más de una persona para brindar apoyo, cada una responderá hasta el límite de las obligaciones establecidas en el escrito de designación y sobre los actos y omisiones efectivamente realizados.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 N.- Las personas morales que no tengan finalidad lucrativa y cuyo fin primordial sea desempeñar las medidas de apoyo ordinario, podrán desempeñarse respecto del número de personas que su capacidad lo permita.
+
+Dicha persona moral presentará ante la autoridad jurisdiccional informe anual pormenorizado del desempeño del cargo conferido, el cual se hará de forma individualizada por cada persona, de acuerdo con lo establecido en el Código adjetivo.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 24 O.- Los menores que hubieren cumplido dieciséis años podrán designar apoyos para el ejercicio de los derechos que les confiere este Código.
 
 ## TITULO SEGUNDO. De las personas morales
-
-### CAPITULO I. Disposiciones generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
-
-### CAPITULO II. De las actas de nacimiento
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
-
-## TITULO TERCERO. Del domicilio
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 25.
 
@@ -241,7 +373,9 @@ Las personas morales se regirán por las leyes correspondientes, por su escritur
 
 (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
-## TITULO CUARTO. Del Registro Civil
+## TITULO TERCERO. Del domicilio
+
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 29.
 
@@ -261,27 +395,39 @@ El domicilio legal de una persona física es el lugar donde la ley le fija su re
 
 Se reputa domicilio legal:
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-I.- Del menor de edad, el de la persona o cuya patria potestad está sujeto;
+I.- De las niñas, niños y adolescentes el de la persona a cuya patria potestad está sujeto;
 
-II.- Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-III.- En el caso de menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 29;
+II.- De las niñas, niños y adolescentes que no estén bajo la patria potestad el de quien desempeña la tutela;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II BIS.- De las personas que no pueda conocerse su voluntad, a que se refiere la fracción II del artículo 450 de este Código, el de la persona de apoyo extraordinario o el de la persona de apoyo ordinario designada anticipadamente, según sea el caso;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III.- En el caso de niñas, niños y adolescentes o mayores de edad con discapacidad abandonados, el que resulte conforme a las circunstancias previstas en el artículo 29;
 
 IV.- De los cónyuges, aquél en el cual éstos vivan de consuno, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 29;
 
-V.- De los militares en servicio activo, el lugar en que están destinados;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI.- De los servidores públicos, el lugar donde desempeñan sus funciones por más de seis meses;
+V.- De las y los militares en servicio activo, el lugar en que están destinados;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+VI.- De las personas servidoras públicas, el lugar donde desempeñan sus funciones por más de seis meses;
 
 VII.- (DEROGADA, G.O. 25 DE MAYO DE 2000)
 
 VIII.- (DEROGADA, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IX.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, el lugar en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+IX. De las personas sentenciadas a sufrir una pena privativa de la libertad por más de seis meses, el lugar en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
@@ -303,11 +449,11 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-## TITULO CUARTO BIS. De la Familia
+## TITULO CUARTO. Del Registro Civil
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO I. Disposiciones generales
 
-### CAPITULO III. De las Actas de Reconocimiento
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 35.
 
@@ -345,9 +491,9 @@ VII. Defunción;
 
 VIII. La rectificación de cualquiera de estos estados;
 
-> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-IX. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
+IX. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, cancelando el acta de nacimiento primigenia, salvo cuando se trate de orden judicial o ministerial, mediante oficio al Registro Civil.
 
 > <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -505,9 +651,9 @@ Los Jueces del Registro Civil se suplirán en sus faltas temporales por el más 
 
 El Ministerio Público cuidará que las actuaciones e inscripciones que se hagan en las formas del Registro Civil, se realicen conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como ejercitar acción penal contra los Jueces del Registro Civil que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados del Registro Civil.
 
-### CAPITULO IV. De las actas de adopción
+### CAPITULO II. De las actas de nacimiento
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 54.
 
@@ -655,9 +801,7 @@ Cuando se trate de parto múltiple, se levantará un acta por cada uno de los na
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
-### CAPITULO V. De las actas de tutela
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
+### CAPITULO III. De las Actas de Reconocimiento
 
 ###### ARTICULO 77.
 
@@ -703,7 +847,9 @@ En el acta de nacimiento originaria se harán las anotaciones correspondientes a
 
 Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levantó el acta de nacimiento, el Juez del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que haga la anotación en el acta respectiva.
 
-### CAPITULO VI. De las actas de emancipación
+### CAPITULO IV. De las actas de adopción
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 84.
 
@@ -731,21 +877,13 @@ En caso de adopción, a partir del levantamiento del acta, se harán las anotaci
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000).
 
-### CAPITULO VII. De las actas de matrimonio
+### CAPITULO V. De las actas de tutela
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil, para que realice la inscripción de la ejecutoria respectiva y haga las anotaciones en el acta de nacimiento y/o matrimonio del incapacitado.
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
-
-Si la inscripción se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento o matrimonio, el juez del Registro Civil que autorice la inscripción remitirá copia de ésta a la Oficina que haya registrado el nacimiento o matrimonio para que haga la anotación en el acta respectiva.
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
-
-El Curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela, y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, las y los Jueces de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil, para que realice la inscripción de la ejecutoria respectiva y haga las anotaciones en el acta de nacimiento de la niña, niño o adolescente menor de edad.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -761,9 +899,7 @@ La omisión del registro de tutela no impide al tutor entrar en ejercicio de su 
 
 (DEROGADO, G.O. 13 DE ENERO DE 2004)
 
-### CAPITULO VIII. De las actas, anotaciones e inscripciones de divorcio
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+### CAPITULO VI. De las actas de emancipación
 
 ###### ARTICULO 93.
 
@@ -781,9 +917,9 @@ La omisión del registro de tutela no impide al tutor entrar en ejercicio de su 
 
 (DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
-### CAPITULO IX. De las actas de defunción
+### CAPITULO VII. De las actas de matrimonio
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 97.
 
@@ -1005,19 +1141,19 @@ El juez del Registro Civil que reciba solicitud de matrimonio, exigirá de los p
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
-### CAPITULO X. De las Inscripciones de las Anotaciones que Declaran o Modifican el Estado Civil y la Capacidad Legal de las Personas
+### CAPITULO VIII. De las actas, anotaciones e inscripciones de divorcio
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 114.
 
-La sentencia ejecutoria que decrete un divorcio, se remitirá en copia certificada al Juez del Registro Civil para que realice la anotación en el acta de matrimonio correspondiente.
+La sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada a la o el Juez del Registro Civil para que realice la anotación en el acta de matrimonio correspondiente
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 115.
 
-El acta de divorcio administrativo se levantará en los términos prescritos por el artículo 272 de este ordenamiento, previa solicitud por escrito que presenten los cónyuges y en ella se expresará el nombre y apellidos, edad, ocupación y domicilio de los solicitantes, la fecha y lugar de la Oficina en que celebraron su matrimonio y el número de partida del acta correspondiente.
+El acta de divorcio administrativo ante la autoridad del Registro Civil se levantará en los términos prescritos por el artículo 272 de este ordenamiento, previa solicitud por escrito que presenten los cónyuges y en ella se expresará el nombre y apellidos, edad, ocupación y domicilio de los solicitantes, la fecha y lugar de la Oficina en que celebraron su matrimonio y el número de partida del acta correspondiente.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -1025,11 +1161,13 @@ El acta de divorcio administrativo se levantará en los términos prescritos por
 
 Extendida el acta de divorcio administrativo, se mandará anotar en la de matrimonio de los divorciados.
 
-Si el divorcio administrativo se hiciere en oficina distinta de aquella en que se levantó el acta de matrimonio de los divorciados, el Juez del Registro Civil que autorice el acta de divorcio administrativo, remitirá copia de ésta al encargado de la oficina que haya registrado el matrimonio, para que haga la anotación en el acta respectiva.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
+Si el divorcio administrativo se hiciere en oficina distinta de aquella en que se levantó el acta de matrimonio de los divorciados, la autoridad del Registro Civil que autorice el acta de divorcio administrativo, remitirá copia de ésta a la persona encargada de la oficina que haya registrado el matrimonio, para que haga la anotación en el acta respectiva.
 
-> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+### CAPITULO IX. De las actas de defunción
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 117.
 
@@ -1125,9 +1263,9 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JULIO DE 2010)</small>
 
-### CAPITULO UNICO
+### CAPITULO X. De las Inscripciones de las Anotaciones que Declaran o Modifican el Estado Civil y la Capacidad Legal de las Personas
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 131.
 
@@ -1147,11 +1285,13 @@ Cuando se recobre la capacidad legal para administrar, se presente la persona de
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
-### CAPITULO I. De los Esponsales
+### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 134.
 
-La rectificación de un acta del estado civil no puede hacerse sino ante el Juez del Registro Civil y en el caso de anotación (sic) divorcio en el acta de matrimonio ante el Juez de lo Familiar, con excepción del administrativo, los cuales se sujetarán a las prescripciones de este Código y del Reglamento respectivo.
+La rectificación de un acta del estado civil no puede hacerse sino ante la autoridad del Registro Civil. En el caso de anotación del divorcio en el acta de matrimonio ante la persona Juez de lo Familiar, se sujetará a las prescripciones de este Código y del Reglamento respectivo.
 
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
@@ -1165,15 +1305,23 @@ II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial q
 
 III. Por existencia de errores mecanográficos y ortográficos.
 
-> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-ARTICULO 135 BIS.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+ARTICULO 135 BIS. - Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la cancelación correspondiente de su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género, excepto que se trate de orden judicial o ministerial.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Distrito Federal cumpliendo todas las formalidades que exige el Reglamento del Registro Civil del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
 Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
 
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+
 Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de su levantamiento.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
 
@@ -1189,11 +1337,17 @@ III. Original y copia fotostática de su identificación oficial, y
 
 IV. Comprobante de domicilio.
 
-El levantamiento se realizará en el Juzgado Central, se procederá de inmediato a hacer la anotación y la reserva correspondiente; si se hiciere en un Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se encuentre el acta de nacimiento primigenia para los mismos efectos anteriormente señalados.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+El levantamiento se realizará en el Juzgado Central, se procederá de inmediato a hacer la cancelación y la reserva correspondiente; si se hiciere en un Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se encuentre el acta de nacimiento primigenia para los mismos efectos anteriormente señalados.
 
-Una vez cumpliendo (sic) el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia del Distrito Federal, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional y al Consejo de la Judicatura Federal, para los efectos legales procedentes.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+El acta de nacimiento primigenia quedará cancelada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Una vez cumpliendo con el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Administración y Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia de la Ciudad de México, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional y al Consejo de la Judicatura Federal, para los efectos legales procedentes.
 
 > <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
@@ -1251,11 +1405,13 @@ Las copias certificadas de constancias de los procedimientos de jurisdicción vo
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
-## TITULO QUINTO. Del matrimonio
+## TITULO CUARTO BIS. De la Familia
 
-### CAPITULO II. De los requisitos para contraer matrimonio
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 138 Ter.
 
@@ -1275,9 +1431,9 @@ ARTICULO 138 Quintus.- Las relaciones jurídicas familiares generadoras de deber
 
 ARTICULO 138 Sextus.- Es deber de los miembros de la familia observar entre ellos consideración, solidaridad y respeto recíprocos en el desarrollo de las relaciones familiares.
 
-## TITULO SEXTO. Del parentesco, de los alimentos y de la violencia familiar
+## TITULO QUINTO. Del matrimonio
 
-### CAPITULO III. De los derechos y obligaciones que nacen del matrimonio
+### CAPITULO I. De los Esponsales
 
 ###### ARTICULO 139.
 
@@ -1307,11 +1463,9 @@ ARTICULO 138 Sextus.- Es deber de los miembros de la familia observar entre ello
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-### CAPITULO IV. Del Matrimonio con relación a los bienes
+### CAPITULO II. De los requisitos para contraer matrimonio
 
-Disposiciones generales
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 146.
 
@@ -1391,9 +1545,9 @@ VIII.- La impotencia incurable para la cópula;
 
 IX.- Padecer una enfermedad crónica e incurable, que sea, además, contagiosa o hereditaria;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-X.- Padecer algunos de los estados de incapacidad a que se refiere la fracción II del artículo 450;
+X. El de la persona que no pueda conocerse su voluntad, a que se refiere la fracción II del artículo 450 de este Código;
 
 > <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1447,9 +1601,7 @@ Los mexicanos que se casen en el extranjero, se presentarán ante el Registro Ci
 
 Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efectos desde el día en que se hizo la transcripción.
 
-### CAPITULO V. De la sociedad conyugal
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO III. De los derechos y obligaciones que nacen del matrimonio
 
 ###### ARTICULO 162.
 
@@ -1545,7 +1697,11 @@ Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO VI. De la separación de bienes
+### CAPITULO IV. Del Matrimonio con relación a los bienes
+
+Disposiciones generales
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 178.
 
@@ -1611,7 +1767,7 @@ VII.- Los bienes comprados a plazos por uno de los cónyuges antes de contraer m
 
 ARTICULO 182 Sextus.- Los bienes de la sociedad conyugal serán administrados por ambos cónyuges, salvo pacto en contrario en las capitulaciones matrimoniales.
 
-### CAPITULO VII. De las donaciones antenupciales
+### CAPITULO V. De la sociedad conyugal
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1795,9 +1951,7 @@ Todo lo relativo a la formación de inventarios y solemnidades de partición y a
 
 Ningún cónyuge podrá, sin el consentimiento del otro, vender, rentar y enajenar, ni en todo, ni en parte los bienes comunes, salvo en los casos del cónyuge abandonado, cuando necesite de éstos por falta de suministro de alimentos para sí o para los hijos, previa autorización judicial.
 
-### CAPITULO VIII. De las donaciones entre consortes
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO VI. De la separación de bienes
 
 ###### ARTICULO 207.
 
@@ -1855,7 +2009,9 @@ El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-### CAPITULO IX. De los matrimonios nulos e ilícitos
+### CAPITULO VII. De las donaciones antenupciales
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 219.
 
@@ -1921,9 +2077,9 @@ Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efe
 
 Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
 
-### CAPITULO X. Del divorcio
+### CAPITULO VIII. De las donaciones entre consortes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 232.
 
@@ -1941,9 +2097,7 @@ Las donaciones entre cónyuges pueden ser revocadas por el donante, en los térm
 
 Las donaciones entre cónyuges no se revocarán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
 
-### CAPITULO XI. Del concubinato
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
+### CAPITULO IX. De los matrimonios nulos e ilícitos
 
 ###### ARTICULO 235.
 
@@ -2131,27 +2285,31 @@ Si al declararse la nulidad del matrimonio la mujer estuviera embarazada, se tom
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-### CAPITULO I. Del parentesco
+### CAPITULO X. Del divorcio
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 266.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
+Su trámite podrá ser bilateral o unilateral conforme a las reglas previstas en este ordenamiento.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En cualquiera de los casos, solo se decretará cuando se cumplan los requisitos exigidos por este Código y por las normas adjetivas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 267.
 
-El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
+El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-I.- La designación de la persona que tendrá la guarda y custodia de las hijas e hijos menores de edad o incapaces;
+I.- La designación de la persona que tendrá la guarda y custodia de las hijas e hijos menores de edad o de los mayores que requieran algún apoyo o salvaguardia;
 
 > <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -2185,51 +2343,97 @@ VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régi
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 271.
 
-Las Juezas y Jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto. En caso de existir presunción de violencia familiar, deberán allegarse de los medios de prueba idóneos y decretar las medidas necesarias para salvaguardar la integridad y seguridad de las víctimas.
+Las Juezas y Jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto para regular las consecuencias inherentes a la disolución del vínculo matrimonial. En caso de existir presunción de violencia familiar, deberán allegarse de los medios de prueba idóneos y decretar las medidas necesarias para salvaguardar la integridad y seguridad de las víctimas.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos, en el caso de tramitarse los incidentes respectivos.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 272.
 
-Procede el divorcio administrativo cuando ambos cónyuges convengan en divorciarse, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+Procede el divorcio administrativo cuando ambos cónyuges convengan en divorciarse; siempre y cuando hayan liquidado la sociedad conyugal, si están casados bajo ese régimen patrimonial o cuando no tengan bienes o deudas pertenecientes al patrimonio conyugal, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos. La autoridad correspondiente del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 273.
 
-(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
+El divorcio podrá solicitarse ambos cónyuges, en cuyo caso se considerará bilateral y se debe tramitar en los términos que prevé el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 274.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+Cuando el divorcio sea unilateral, basta con que la o el cónyuge manifieste su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 275.
 
-(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
+Tratándose de solicitud de divorcio unilateral, las medidas deberán decretarse desde su presentación y tendrán vigencia hasta en tanto se dicte la resolución que resuelva la situación jurídica de las y los hijos o bienes, de acuerdo a las disposiciones siguientes:
+
+A. De oficio:
+
+I. En los casos en que la persona juzgadora de lo Familiar lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de las personas interesadas, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
+
+II. Señalar y asegurar las cantidades que a título de alimentos debe dar la parte deudora alimentaria a la o el cónyuge acreedor y a las y los hijos que corresponda;
+
+III. Las que se estimen convenientes para que las y los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y de Comercio del Distrito Federal y de aquellos lugares en que se conozca que tienen bienes; y
+
+IV. Revocar o suspender los mandatos que entre las y los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código.
+
+B. Una vez contestada la demanda o solicitud:
+
+I. La persona juzgadora de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a las y los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y, asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
+
+II. Poner a las hijas e hijos al cuidado de la persona que de común acuerdo designen las y los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio. La Jueza o Juez de lo Familiar deberá, en todos los casos, ponderar el interés superior de la niñez, garantizando que reciba una protección integral de sus derechos fundamentales, para lo cual las niñas, niños y adolescentes podrán manifestar su opinión en relación con la guarda y custodia, misma que tendrá que ser tomada en cuenta al momento de emitir la resolución respectiva. En defecto de ese acuerdo, la Jueza o el Juez de lo Familiar resolverá conforme al Título Décimo Sexto del Código de Procedimientos Civiles.
+
+En el caso de que existan menores de doce años, la Jueza o Juez de lo Familiar determinará, atendiendo a las circunstancias concretas del caso específico, garantizando las mejores condiciones para el desarrollo, cuidado y protección de las y los menores, si éstos quedan al cuidado de la madre, del padre o incluso de persona ajena a sus progenitores. No será obstáculo para la preferencia en la custodia, el hecho de que la madre o padre por dedicarse al trabajo de cuidados en el hogar carezca de recursos económicos.
+
+III. La persona juzgadora de lo Familiar resolverá teniendo presente el interés superior de las y los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
+
+IV. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
+
+V. Las que de forma análoga puedan aplicarse en términos del artículo 282 y otras disposiciones de este Código y las demás que considere necesarias.
+
+Sin perjuicio de las facultades que tiene la persona juzgadora conforme al Código Nacional de Procedimientos Civiles y Familiares en lo que más favorezca al grupo familiar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 276.
 
-(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
+En caso de no llegar a un acuerdo en la propuesta o contrapropuesta, la autoridad jurisdiccional debe declarar disuelto el vínculo matrimonial en audiencia y conforme al Código Nacional de Procedimientos Civiles y Familiares y, en su caso, aplicando el interés superior de la niñez.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 277.
 
-La persona que no quiera pedir el divorcio podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con su cónyuge, cuando éste se encuentre en alguno de los siguientes casos:
+La persona que no quiera pedir el divorcio podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con su cónyuge, cumpliendo los requisitos que establece el Código Nacional de Procedimientos Civiles y Familiares, cuando éste se encuentre en alguno de los siguientes casos:
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 I.- Padezca cualquier enfermedad incurable que sea, además, contagiosa o hereditaria;
 
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 II.- Padezca impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada; o
 
-III.- Padezca trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-En estos casos, el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+III.- Padezca alguna discapacidad sensorial o cognitiva, previa determinación del sistema de apoyos que le corresponda; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV.- Sea víctima de violencia familiar en los términos de este Código.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En estos casos, la autoridad jurisdiccional, con conocimiento de causa, podrá decretar esa suspensión, dictando las medidas provisionales y de protección correspondientes, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### ARTICULO 278.
 
@@ -2239,11 +2443,11 @@ En estos casos, el juez, con conocimiento de causa, podrá decretar esa suspensi
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 280.
 
-La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación al Juez de lo Familiar.
+La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto las personas interesadas deberán comunicar su reconciliación a la persona juzgadora de lo Familiar.
 
 ###### ARTICULO 281.
 
@@ -2341,11 +2545,11 @@ Tratándose de violencia contra las mujeres y niñas además se estará a lo dis
 
 La sentencia definitiva determinará las medidas que deberán quedar vigentes, así como la forma de cumplimiento de las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTICULO 283.
+###### Artículo 283.
 
-La sentencia de divorcio atenderá la perspectiva de género e interés superior de la infancia y adolescencia, fijando la situación de las hijas e hijos menores de edad, para lo cual deberá contener las siguientes disposiciones:
+La declaratoria de disolución del matrimonio y sus consecuencias, atenderán a la perspectiva de género e interés superior de la infancia y adolescencia, fijando la situación de las hijas e hijos menores de edad, para lo cual deberá contener las siguientes disposiciones:
 
 > <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -2363,13 +2567,13 @@ III.- Las medidas necesarias para garantizar la convivencia de las hijas y los h
 
 IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, la Jueza o el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a las hijas e hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
 
-> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para la Ciudad de México. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para la Ciudad de México. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el Código Nacional de Procedimientos Civiles y Familiares.
 
-> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VI.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónguyes (sic), en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+VI.- Para el caso de las y los hijos mayores de edad con alguna discapacidad, sujetos a los apoyos y salvaguardias de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
 
 > <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -2379,37 +2583,47 @@ VII.- En caso de desacuerdo, la Jueza o Juez de lo Familiar, en la sentencia de 
 
 VIII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de las hijas y los hijos menores de edad.
 
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento la Jueza o Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a las y los menores.
+Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento la Jueza o Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a las niñas, niños y adolescentes.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 283 Bis.
 
-En caso de que los padres hayan acordado la guarda y custodia compartida en términos de lo establecido en la fracción II del apartado B del artículo 282, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
+En caso de que los padres hayan acordado la guarda y custodia compartida en términos de lo establecido en la fracción II del apartado B del artículo 275, la o el Juez, en la resolución respectiva, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para las y los hijos.
 
 ###### ARTICULO 284.
 
 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 285.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijas e hijos.
 
 ###### ARTICULO 286.
 
 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTICULO 287.
+###### Artículo 287.
 
-En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, o presentaren un convenio emanado de un procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio mediante sentencia. En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio; quedando vigentes las medidas provisionales dictadas.
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, o presentaren un convenio emanado de un procedimiento de mediación a que se refiere la Ley General de Mecanismos Alternativos de Solución de Controversias, en uno u otro caso la o el juez lo aprobará de plano, decretando el divorcio mediante resolución. En caso contrario, la persona juzgadora decretará la disolución del vínculo matrimonial en audiencia y continuará el juicio en lo principal para lo concierne a los efectos inherentes a tal disolución; quedando vigentes las medidas provisionales dictadas.
 
-La jueza o el juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para la Ciudad de México, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento de la persona juzgadora.
+La jueza o el juez exhortará en la referida audiencia que, soliciten la atención y acceso al trámite de los mecanismos alternativos de solución de controversias conforme a la Ley General de Mecanismos Alternativos de Solución de Controversias, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Una vez que los excónyuges den aviso del inicio del trámite de un mecanismo alternativo de solución de controversias, se suspenderá cualquier procedimiento en trámite, quedando vigentes las medidas cautelares y de protección que en su caso, se hubieran decretado.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En caso de darse por concluido el procedimiento del mecanismo, la autoridad jurisdiccional, en su caso, deberá continuar con el procedimiento respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -2445,11 +2659,9 @@ VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 289.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
 ###### ARTICULO 289 Bis.
 
@@ -2461,15 +2673,17 @@ En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contr
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 291.
 
-Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que realice la anotación correspondiente en la del matrimonio disuelto.
+Ejecutoriada una sentencia de divorcio, la o el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella a la autoridad del Registro Civil ante quien se celebró el matrimonio, para que realice la anotación correspondiente en la del matrimonio disuelto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO II. De los alimentos
+### CAPITULO XI. Del concubinato
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 291 Bis.
 
@@ -2515,13 +2729,11 @@ ARTICULO 291 Quintus.- Al cesar la convivencia, la concubina o el concubinario q
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
-## TITULO SEPTIMO. De la filiación
+## TITULO SEXTO. Del parentesco, de los alimentos y de la violencia familiar
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO I. Del parentesco
 
-### CAPITULO III. De la Violencia Familiar
-
-> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 292.
 
@@ -2579,57 +2791,7 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE JUNIO DE 2024)</small>
-
-ARTICULO 323 Octavus.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 309 del presente Código. Dicho registro contendrá:
-
-> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
-
-I. Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso. Esta información será del dominio público;
-
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
-
-II. Nombre del acreedor o acreedores alimentarios;
-
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
-
-III. Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
-
-> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
-
-IV. Número de pagos incumplidos y monto del adeudo alimentario;
-
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
-
-V. Órgano jurisdiccional que ordena el registro; y
-
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
-
-VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
-
-(ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 OCTAVUS], G.O. 9 DE MAYO DE 2014)
-
-ARTICULO 323 Novenus.- El certificado a que se refiere el artículo 35 de este Código contendrá lo siguiente:
-
-> <small>(REFORMADA, G.O. 28 DE JULIO DE 2014)</small>
-
-I. Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso;
-
-II. Número de acreedores alimentarios;
-
-III. Monto de la obligación adeudada;
-
-IV. Órgano jurisdiccional que ordeno el registro, y
-
-V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
-
-El Certificado a que se refiere el presente artículo, será expedido por el Registro Civil dentro de los tres días hábiles contados a partir de su solicitud.
-
-> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
+### CAPITULO II. De los alimentos
 
 ###### ARTICULO 301.
 
@@ -2685,11 +2847,13 @@ Los alimentos comprenden:
 
 I.- La comida, el vestido, la habitación, la atención médica, la hospitalaria y en su caso, los gastos de embarazo y parto;
 
-> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-II.- Respecto de los menores, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a sus circunstancias personales y para su esparcimiento;
+II.- Respecto de niñas, niños y adolescentes, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a sus circunstancias personales;
 
-III.- Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III.- Con relación a las personas con algún tipo de discapacidad, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; y
 
 IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
@@ -2721,11 +2885,9 @@ Los alimentos han de ser proporcionados a las posibilidades del que debe darlos 
 
 En caso de no poder acreditarse los ingresos del deudor alimentario ni poder determinarse la capacidad económica del mismo, los alimentos no podrán en ningún caso ser menores a la UMA vigente en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTICULO 311 Bis.
-
-Las niñas, niños y adolescentes; las personas con discapacidad; las personas sujetas a estado de interdicción, concubinas o cónyuges que se dediquen preponderantemente al hogar, gozan de la presunción de necesitar alimentos.
+ARTICULO 311 BIS.- Las niñas, niños y adolescentes, las personas con discapacidad y el o la cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
 
 > <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
@@ -2865,9 +3027,9 @@ En tanto no se cumpla con el pago de la pensión alimenticia correspondiente, el
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De la Violencia Familiar
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 323 Ter.
 
@@ -2919,9 +3081,57 @@ A este tipo de violencia le será aplicable en lo conducente lo previsto en los 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE AGOSTO DE 2011)</small>
 
-### CAPITULO II. De las pruebas de filiación de los hijos
+### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE JUNIO DE 2024)</small>
+
+ARTICULO 323 Octavus.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 309 del presente Código. Dicho registro contendrá:
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+I. Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso. Esta información será del dominio público;
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
+
+II. Nombre del acreedor o acreedores alimentarios;
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
+
+III. Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV. Número de pagos incumplidos y monto del adeudo alimentario;
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
+
+V. Órgano jurisdiccional que ordena el registro; y
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
+
+VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+(ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 OCTAVUS], G.O. 9 DE MAYO DE 2014)
+
+ARTICULO 323 Novenus.- El certificado a que se refiere el artículo 35 de este Código contendrá lo siguiente:
+
+> <small>(REFORMADA, G.O. 28 DE JULIO DE 2014)</small>
+
+I. Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso;
+
+II. Número de acreedores alimentarios;
+
+III. Monto de la obligación adeudada;
+
+IV. Órgano jurisdiccional que ordeno el registro, y
+
+V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
+
+El Certificado a que se refiere el presente artículo, será expedido por el Registro Civil dentro de los tres días hábiles contados a partir de su solicitud.
+
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 323 Nonies.
 
@@ -2937,9 +3147,13 @@ El Juez de lo Familiar ordenará al Registro Civil del Distrito Federal la cance
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
-## TITULO OCTAVO. De la patria potestad
+## TITULO SEPTIMO. De la filiación
 
-### CAPITULO III. De la Legitimación
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 324.
 
@@ -2975,23 +3189,27 @@ El cónyuge varón no puede impugnar la paternidad de los hijos que durante el m
 
 Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse, de conformidad con lo previsto en este Código, en cualquier tiempo por la persona a quien perjudique la filiación; pero esta acción no prosperará, si el cónyuge consintió expresamente en el uso de los métodos de fecundación asistida a su cónyuge.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 330.
 
-En todos los casos en que el cónyuge varón impugne la paternidad, debe deducir la acción dentro de sesenta días contados desde que tuvo conocimiento del nacimiento.
+En todos los casos en que el o la cónyuge impugne la filiación, debe deducir la acción dentro de sesenta días contados desde que tuvo conocimiento del nacimiento.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 331.
 
-Si el cónyuge varón está bajo tutela por cualquier causa de las señaladas en la fracción II del artículo 450, este derecho podrá ser ejercido por su tutor. Si éste no lo ejercitare, podrá hacerlo el cónyuge varón después de haber salido de la tutela, en el plazo señalado en el artículo anterior, mismo que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+En el caso de las personas que no pueda conocerse su voluntad a que se refiere la fracción II del artículo 450 de este Código, ejercerá dicho derecho quien haya sido designado anticipadamente para prestarle apoyo ordinario, o en su caso, quien preste el apoyo extraordinario en términos del Código Nacional de Procedimientos Civiles y Familiares.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Si la persona que preste el apoyo ya sea ordinario o extraordinario, no lo ejercitare, podrá hacerlo el cónyuge, una vez que pueda conocerse su voluntad, en el plazo señalado en el artículo anterior, mismo que se contará desde el día en que hubiere cesado el impedimento.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 332.
 
-Cuando el cónyuge varón, habiendo tenido o no tutor, hubiere muerto incapaz, los herederos podrán impugnar la paternidad, en los casos en que podría hacerlo el padre.
+Cuando él o la cónyuge, habiendo tenido o no persona de apoyo ordinario o extraordinario, hubiere muerto sin poder manifestar su voluntad por tratarse de una persona a que se refiere la fracción II del artículo 450 de este Código, los herederos podrán impugnar la filiación, en los casos en que podría hacerlo el padre o la madre.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3039,7 +3257,7 @@ Puede haber transacción o compromiso en árbitros sobre los derechos pecuniario
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO IV. Del Reconocimiento de los Hijos
+### CAPITULO II. De las pruebas de filiación de los hijos
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3151,9 +3369,7 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre declara q
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO V. De la adopción
-
-> <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
+### CAPITULO III. De la Legitimación
 
 ###### ARTICULO 354.
 
@@ -3181,9 +3397,9 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre declara q
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
+### CAPITULO IV. Del Reconocimiento de los Hijos
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 360.
 
@@ -3375,7 +3591,9 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley;
 
 IV.- Los demás que se deriven de la filiación.
 
-### CAPITULO II. De los efectos de la patria potestad respecto de los bienes del hijo
+### CAPITULO V. De la adopción
+
+> <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
@@ -3425,7 +3643,9 @@ A juicio del juez y previa motivación, se puede dispensar el requisito de la ed
 
 Podrán ser adoptados:
 
-I. El niño o niña menores de 18 años:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I.- Las niñas, niños y adolescentes menores de 18 años:
 
 a) Que carezca de persona que ejerza sobre ella la patria potestad;
 
@@ -3435,15 +3655,17 @@ c) Cuyos padres o abuelos se les hayan sentenciado a la pérdida de la patria po
 
 d) Cuyos padres o tutor o quienes ejerzan la patria potestad otorguen su consentimiento.
 
-II. El mayor de edad incapaz.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-III. El mayor de edad con Plena capacidad jurídica y a juicio del Juez de lo Familiar y en atención del beneficio del adoptante y de la persona adoptada procederá a la adopción.
+II.- El mayor de edad, cuando a juicio de la persona juzgadora en materia familiar, la adopción sea en beneficio de la persona adoptada.
 
-> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2011)</small>
+III.- (DEROGADA, G.O. 29 DE NOVIEMBRE DE 2024)
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 394.
 
-Podrán ser adoptados dos o más hermanos o incapacitados simultáneamente por un sólo matrimonio, concubinato o una sola persona. El juez en todo momento valorará la convivencia de los hermanos para darlos en adopción.
+Podrán ser adoptados dos o más hermanos o simultáneamente por un sólo matrimonio, concubinato o una sola persona. La persona juzgadora en todo momento valorará la convivencia de los hermanos para darlos en adopción.
 
 > <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
@@ -3625,11 +3847,11 @@ II. Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; 
 
 (DEROGADO, G.O. 15 DE JUNIO DE 2011)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 410-D.
 
-Para el caso de las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz que se adopte; los derechos y obligaciones que nazcan de la misma, se limitarán al adoptante y adoptado.
+Para el caso de las personas que tengan vínculo de parentesco consanguíneo con la niña, niño o adolescente o persona mayor con discapacidad que se adopte; los derechos y obligaciones que nazcan de la misma, se limitarán a las personas adoptante y adoptado.
 
 > <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
 
@@ -3645,11 +3867,11 @@ La adopción por extranjeros es la promovida por ciudadanos de otro país, con r
 
 ARTICULO 410 F.- En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
 
-## TITULO NOVENO. De la tutela
+## TITULO OCTAVO. De la patria potestad
 
-### CAPITULO III. De la pérdida; suspensión, limitación y terminación de la patria potestad
+### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 411.
 
@@ -3821,7 +4043,7 @@ La facultad de corregir no implica infligir al menor actos de fuerza que atenten
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De los efectos de la patria potestad respecto de los bienes del hijo
 
 ###### ARTICULO 425.
 
@@ -3951,9 +4173,9 @@ Las personas que ejerzan la patria potestad deben entregar a la hija o el hijo, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2004)</small>
 
-### CAPITULO I BIS. De la tutela cautelar
+### CAPITULO III. De la pérdida; suspensión, limitación y terminación de la patria potestad
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 443.
 
@@ -4081,25 +4303,45 @@ I.- Cuando tengan sesenta años cumplidos;
 
 II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
 
-## TITULO DECIMO. De la emancipación y de la mayor edad
+## TITULO NOVENO. De la tutela
 
-### CAPITULO II. De la tutela testamentaria
+### CAPITULO I. Disposiciones generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 449.
 
-El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
+El objeto de la tutela es la guarda de la persona y bienes de niñas, niños y adolescentes que no se encuentran sujetos a patria potestad. La tutela puede también tener por objeto la representación interina de las niñas, niños y adolescentes en los casos especiales que señale la ley.
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 413.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En la tutela se cuidará preferentemente de la persona de niñas, niños y adolescentes. Su ejercicio queda sujeto en cuanto a la guarda y educación de estos a las modalidades de que habla la parte final del artículo 413.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+En cuanto a la guarda de la persona y los bienes de los mayores de edad con alguna discapacidad cognitiva, regirá lo relativo a los apoyos y salvaguardias conforme a las reglas previstas en este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 450.
 
-Tienen incapacidad natural y legal:
+La capacidad de ejercicio de las personas físicas estará sujeta a lo siguiente:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+I.- Las niñas, niños y adolescentes tienen en todo caso incapacidad legal, salvo los casos de excepción previstos expresamente en la ley.
 
-II.- Los mayores de edad que por causa de enfermedad reversible o irreversible, o que por su estado particular de discapacidad, ya sea de carácter físico, sensorial, intelectual, emocional, mental o varias de ellas a la vez, no puedan gobernarse, obligarse o manifestar su voluntad, por sí mismos o por algún medio que la supla.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II.- Las personas mayores de edad, cuya voluntad no pueda ser conocida por ningún medio, aun después de haber realizado esfuerzos reales, considerables y pertinentes y de haberles prestado las medidas de accesibilidad y ajustes razonables, ejercitarán sus derechos por medio del apoyo ordinario que hubieren designado previamente y en caso de que no lo hubieran designado deberán recibir apoyo extraordinario de conformidad con el Código Nacional de Procedimientos Civiles y Familiares y en ambos caso sus correspondientes salvaguardias para facilitar el ejercicio de sus derechos.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+III.- Las personas que estén bajo los efectos de sustancias tóxicas recreativas que afecten la voluntad no podrán realizar acto jurídico alguno mientras dure los efectos de dichas sustancias.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IV.- Tienen incapacidad legal las personas mayores de edad que suspendan el pago de sus deudas líquidas y exigibles y que por tal motivo el juez competente las declare en concurso de conformidad con la tercera parte del Libro cuarto de este Código.
 
 ###### ARTICULO 451.
 
@@ -4109,15 +4351,19 @@ II.- Los mayores de edad que por causa de enfermedad reversible o irreversible, 
 
 La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTICULO 453.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+El que se rehusare sin causa legal a desempeñar el cargo de tutor es responsable de los daños y perjuicios que de su negativa resulten a la niña, niño o adolescente.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 454.
 
-La tutela se desempeñará por el tutor o tutores con intervención del curador, del Juez de lo Familiar, del Consejo Local de Tutelas y del Ministerio Público.
+La tutela se desempeñará por el tutor o tutores con intervención del curador, de la persona juzgadora de lo Familiar, del Consejo Local de Tutelas y del Ministerio Público.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
 Ningún pupilo puede tener más de dos tutores definitivos, salvo las excepciones a que se refiere el artículo 455.
 
@@ -4127,29 +4373,31 @@ Ningún pupilo puede tener más de dos tutores definitivos, salvo las excepcione
 
 La Tutela se ejercerá por un solo tutor, excepto cuando por concurrir circunstancias especiales en la misma persona del pupilo o de su patrimonio, convenga separar como cargos distintos el de tutor de la persona y de los bienes.
 
-> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 456.
 
-Las personas físicas podrán desempeñar el cargo de tutor o curador hasta de tres incapaces. Sí estos son hermanos o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y curador a todos ellos, aunque sean más de tres.
+Las personas físicas podrán desempeñar el cargo de tutor o curador hasta de tres niñas, niños o adolescentes. Sí estos son hermanos o son coherederos o legatarios de la misma persona, puede nombrarse una sola persona tutora y curadora a todos ellos, aunque sean más de tres.
 
-> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-###### ARTICULO 456 Bis.
+ARTICULO 456 BIS. - Las personas morales que no tengan finalidad lucrativa y cuyo fin primordial sea la protección y atención de menores de edad, podrán desempeñarse como tutores del número de personas que su capacidad lo permita, si así lo determina la autoridad jurisdiccional.
 
-Las personas morales que no tengan finalidad lucrativa y cuyo fin primordial sea la protección y atención a las personas a que se refiere el artículo 450, fracción II de este Código, podrán desempeñarse como tutores del número de personas que su capacidad lo permita, siempre que cuenten con el beneplácito de los ascendientes del Pupilo o así lo determine el juicio de interdicción y que la persona sujeta a Tutela carezca de bienes.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Cuando la Tutela se decida por medio de Juicio del Interdicción, se presentará, por parte de la persona moral, informe anual pormenorizado del desempeño del cargo conferido, ante el Juez, el cual se hará de forma individualizada por cada persona. De igual forma se presentará informe en los casos de Tutela Testamentaria o dativa a los ascendientes del Pupilo.
+Dicha persona moral presentará ante la autoridad jurisdiccional informe anual pormenorizado del desempeño del cargo conferido, el cual se hará de forma individualizada por cada persona, de acuerdo con lo establecido en el Código adjetivo.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 457.
 
-Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, mientras se decide el punto de oposición.
+Cuando los intereses de alguno o algunos de las niñas, niños o adolescentes, sujetos a la misma tutela, fueren opuestos, la persona tutora lo pondrá en conocimiento de la persona juzgadora, quien nombrará una persona tutora especial que defienda los intereses de los pupilos, mientras se decide el punto de oposición.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 458.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
+Los cargos de tutor y de curador de una niña, niño o adolescente no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -4157,107 +4405,95 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mi
 
 No pueden ser nombrados tutores o curadores las personas que se desempeñen en el Juzgado de lo Familiar y las que integren los Consejos Locales de Tutelas; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 460.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba designarse tutor, su ejecutor testamentario, y en caso de intestado, los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de lo Familiar dentro de los ocho días siguientes, a fin de que se provea a la tutela.
+Cuando fallezca una persona que ejerza la patria potestad sobre una niña, niño o adolescente a quien deba designarse tutor, su ejecutor testamentario, y en caso de intestado, los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento a la persona juzgadora de lo Familiar dentro de los ocho días siguientes, a fin de que se provea a la tutela.
 
-En caso de no dar cumplimiento a lo establecido en este artículo, serán responsables de los daños y perjuicios que se le ocasionen al incapaz.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Los Jueces del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los Jueces de lo Familiar, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+En caso de no dar cumplimiento a lo establecido en este artículo, serán responsables de los daños y perjuicios que se le ocasionen a la niña, niño o adolescente.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas jueces del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a la persona juzgadora de lo Familiar, de los casos en que sea necesario nombrar persona tutora y que lleguen a su conocimiento en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 461.
 
-La tutela es cautelar, testamentaria, legítima, dativa y de los menores en situación de desamparo.
+La tutela es testamentaria, legítima, dativa y de los menores en situación de desamparo.
 
-> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 462.
 
-Ninguna Tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles del Distrito Federal, el estado y grado de capacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado y grado de capacidad de la niña, niño o adolescente que va a quedar sujeto a ella.
 
-Tratándose de mayores de edad a que se refiere el artículo 450, fracción II de este Código, el Juez con base en dos diagnósticos médicos y/o psicológicos, escuchando la opinión de los parientes más cercanos de quien vaya a quedar bajo Tutela, emitirá la sentencia donde se establezcan los actos jurídicos de carácter personalísimo, que podrá realizar por sí mismo, determinándose con ello la extensión y límites de la Tutela.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 463.
 
-Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+Las personas tutoras y curadoras no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 464.
 
-El menor de edad que se encuentre en cualquiera de los casos a que se refiere la fracción II del artículo 450, estará sujeto a la tutela de los menores, mientras no llegue a la mayoría de edad.
+La niña, niño o adolescente que se encuentre en los supuestos a que se refiere la fracción II del artículo 450, estará sujeto a la tutela de los menores de edad, mientras no llegue a la mayoría de edad.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Si al cumplirse ésta continuare el impedimento, el incapaz continuará bajo la misma tutela o podrá sujetarse a una nueva, en ambos casos, previo juicio de interdicción, en el cual serán oídos el tutor y el curador en funciones.
+Si al cumplirse ésta continuare el impedimento, podrán designarse por la autoridad jurisdiccional los apoyos extraordinarios y sus correspondientes salvaguardias, en términos de lo que señala el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 465.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
+Si no se hubiese dispuesto mediante designación de apoyos, las hijas e hijos menores de edad de una persona mayor de edad de la que no se pueda conocer su voluntad, quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+###### ARTÍCULO 466.
 
-###### ARTICULO 466.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-El cargo de tutor respecto de las personas comprendidas en los casos a que se refiere la fracción II del artículo 450 durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligaciones de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+###### ARTÍCULO 467.
 
-###### ARTICULO 467.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 468.
 
-El Juez de lo Familiar cuidará provisionalmente de la persona y bienes del incapaz, debiendo dictar las medidas necesarias para ello, hasta el discernimiento de la tutela. Para cumplir esta función, se auxiliará de las instituciones médicas, educativas y de asistencia social.
+La persona juzgadora en materia Familiar cuidará provisionalmente de la persona y bienes de la niña, niño o adolescente, debiendo dictar las medidas necesarias para ello, hasta el discernimiento de la tutela. Para cumplir esta función, se auxiliará de las instituciones médicas, educativas y de asistencia social.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 469.
 
-El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+La persona juzgadora que no cumpla las prescripciones relativas a la tutela, apoyos y salvaguardias, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran las niñas, niños o adolescentes y los mayores objetos de protección especial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2007)</small>
 
-### CAPITULO III. De la tutela legítima de los menores
+### CAPITULO I BIS. De la tutela cautelar
 
-###### ARTICULO 469 Bis.
+###### ARTÍCULO 469 Bis.
 
-Toda persona capaz para otorgar testamento puede nombrar al tutor o tutores, y a sus sustitutos, que deberán encargarse de su persona y, en su caso, de su patrimonio en previsión del caso de encontrarse en los supuestos del artículo 450. Dichos nombramientos excluyen a las personas que pudiere corresponderles el ejercicio de la tutela, de acuerdo a lo establecido en este código.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2012)</small>
+###### ARTÍCULO 469 Ter.
 
-###### ARTICULO 469 Ter.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-Los nombramientos mencionados en el artículo anterior, sólo podrán otorgarse ante notario público y se harán constar en escritura pública, siendo revocable este acto en cualquier tiempo y momento con la misma formalidad.
+###### ARTÍCULO 469 Quáter.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-En caso de muerte, incapacidad, excusa, remoción, no aceptación o relevo del cargo del tutor designado, desempeñará la tutela quien o quienes sean sustitutos.
+ARTÍCULO 469 Quintus.- (DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
-
-###### ARTICULO 469 Quáter.
-
-En la escritura pública donde se haga constar la designación, se podrán contener expresamente las facultades u obligaciones a las que deberá sujetarse la administración del tutor, dentro de las cuales serán mínimo las siguientes:
-
-I. Que el tutor tome decisiones convenientes sobre el tratamiento médico y el cuidado de la salud del tutelado, y
-
-II. Establecer que el tutor tendrá derecho a una retribución en los términos de este código.
-
-El Juez de lo Familiar, a petición del tutor o del curador, y en caso de no existir éstos, los sustitutos nombrados por el juez tomando en cuenta la opinión del Consejo de Tutelas, podrá modificar las reglas establecidas si las circunstancias o condiciones originalmente tomadas en cuenta por la persona capaz en su designación, han variado al grado que perjudiquen la persona o patrimonio del tutelado.
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
-
-ARTICULO 469 Quintus.- El tutor cautelar que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado por testamento el incapaz.
-
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES DE EDAD INCAPACITADOS
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO II. De la tutela testamentaria
 
 ###### ARTICULO 470.
 
@@ -4323,9 +4559,7 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO V. De la tutela de los menores en situación de desamparo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2015)</small>
+### CAPITULO III. De la tutela legítima de los menores
 
 ###### ARTICULO 482.
 
@@ -4367,9 +4601,9 @@ II. Cuando habiéndolo no pueda temporal o permanentemente ejercer el cargo y no
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE JULIO DE 1992)</small>
 
-### CAPITULO VI. De la tutela dativa
+### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES DE EDAD INCAPACITADOS
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 486.
 
@@ -4403,7 +4637,9 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE ENERO DE 2008)</small>
 
-### CAPITULO VII. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
+### CAPITULO V. De la tutela de los menores en situación de desamparo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 492.
 
@@ -4479,7 +4715,9 @@ Se buscará siempre el interés superior del menor y se procurará cuando no sea
 
 ARTICULO 494 E.- En el caso de que exista oposición de parte legítima después de efectuados cualquiera de los acogimientos y actos comprendidos en este capitulo, se reservará el derecho al opositor para que lo haga valer en la vía y forma que corresponda ante el juez de lo familiar.
 
-### CAPITULO VIII. De las excusas para el desempeño de la tutela
+### CAPITULO VI. De la tutela dativa
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 495.
 
@@ -4521,7 +4759,7 @@ Siempre será dativa la tutela para asuntos judiciales del menor de edad emancip
 
 (DEROGADO, G.O. 4 DE ENERO DE 2008)
 
-### CAPITULO IX. De la garantía que deben prestar los tutores para asegurar su manejo
+### CAPITULO VII. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
 
 ###### ARTICULO 503.
 
@@ -4617,7 +4855,7 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es sentenciado condenatoriamente a una sanción que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su sanción, siempre que la pena impuesta no exceda de un año de prisión.
 
-### CAPITULO X. Del desempeño de la tutela
+### CAPITULO VIII. De las excusas para el desempeño de la tutela
 
 ###### ARTICULO 511.
 
@@ -4683,7 +4921,7 @@ La misma obligación tendrá el tutor de aquel, que estando en funciones de tuto
 
 En caso de omisión a lo dispuesto en este artículo, los obligados serán responsables por los daños y perjuicios que se causen a la persona sujeta a tutela.
 
-### CAPITULO XI. De las cuentas de la tutela
+### CAPITULO IX. De la garantía que deben prestar los tutores para asegurar su manejo
 
 ###### ARTICULO 519.
 
@@ -4789,7 +5027,7 @@ Es también obligación del curador y del Consejo Local de Tutelas, vigilar el e
 
 El curador y el Consejo Local de Tutelas deberán vigilar el cumplimiento a lo ordenado en el artículo 526.
 
-### CAPITULO XII. De la extinción de la tutela
+### CAPITULO X. Del desempeño de la tutela
 
 ###### ARTICULO 535.
 
@@ -5107,7 +5345,7 @@ Si sólo uno fuese separado, el otro recibirá la totalidad de la retribución.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO XIII. De la entrega de los bienes
+### CAPITULO XI. De las cuentas de la tutela
 
 ###### ARTICULO 590.
 
@@ -5183,9 +5421,7 @@ Hasta pasado un mes de la aprobación de cuentas, es nulo todo convenio entre el
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO XIV. Del curador
-
-> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
+### CAPITULO XII. De la extinción de la tutela
 
 ###### ARTICULO 606.
 
@@ -5197,9 +5433,7 @@ II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reco
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO XV. Del Consejo Local de Tutelas y de los Jueces de lo Familiar
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO XIII. De la entrega de los bienes
 
 ###### ARTICULO 607.
 
@@ -5265,7 +5499,9 @@ Si la tutela hubiera fenecido durante la minoridad, el menor podrá ejercitar la
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO XVI. Del estado de interdicción
+### CAPITULO XIV. Del curador
+
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
 
 ###### Artículo 618.
 
@@ -5335,7 +5571,9 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
-### CAPITULO I. De la emancipación
+### CAPITULO XV. Del Consejo Local de Tutelas y de los Jueces de lo Familiar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 631.
 
@@ -5385,37 +5623,35 @@ Mientras que se nombra tutor, el Juez de lo Familiar debe dictar las medidas nec
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO II. De la mayor edad
+### CAPITULO XVI. Del estado de interdicción
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+###### ARTÍCULO 635.
 
-###### ARTICULO 635.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
+###### ARTÍCULO 636.
 
-###### ARTICULO 636.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 643.
+###### ARTÍCULO 637.
 
-###### ARTICULO 637.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+###### ARTÍCULO 638.
 
-###### ARTICULO 638.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
+###### ARTÍCULO 639.
 
-###### ARTICULO 639.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 635 y 636, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+###### ARTÍCULO 640.
 
-###### ARTICULO 640.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+## TITULO DECIMO. De la emancipación y de la mayor edad
 
-## TITULO UNDECIMO. De los ausentes e ignorados
-
-### CAPITULO I. De las medidas provisionales en caso de ausencia
+### CAPITULO I. De la emancipación
 
 ###### ARTICULO 641.
 
@@ -5443,7 +5679,9 @@ II.- De un tutor para negocios judiciales.
 
 (DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
-### CAPITULO II. De la declaración de ausencia
+### CAPITULO II. De la mayor edad
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 646.
 
@@ -5453,9 +5691,9 @@ La mayor edad comienza a los dieciocho años cumplidos.
 
 El mayor de edad dispone libremente de su persona y de sus bienes.
 
-## TITULO DUODECIMO. Del patrimonio de la familia
+## TITULO UNDECIMO. De los ausentes e ignorados
 
-### CAPITULO III. De los efectos de la declaración de ausencia
+### CAPITULO I. De las medidas provisionales en caso de ausencia
 
 ###### ARTICULO 648.
 
@@ -5559,7 +5797,7 @@ Los edictos se publicarán por dos meses, con intervalo de quince días, en los 
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 
-### CAPITULO IV. De la administración de los bienes del ausente casado
+### CAPITULO II. De la declaración de ausencia
 
 ###### ARTICULO 669.
 
@@ -5609,9 +5847,7 @@ La declaración de ausencia se publicará tres veces en los periódicos menciona
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
-### CAPITULO V. De la presunción de muerte del ausente
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+### CAPITULO III. De los efectos de la declaración de ausencia
 
 ###### ARTICULO 679.
 
@@ -5695,7 +5931,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
 
-### CAPITULO VI. De los efectos de la ausencia respecto de los derechos eventuales del ausente
+### CAPITULO IV. De la administración de los bienes del ausente casado
 
 ###### ARTICULO 698.
 
@@ -5725,7 +5961,9 @@ Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá de
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO VII. Disposiciones generales
+### CAPITULO V. De la presunción de muerte del ausente
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 705.
 
@@ -5783,9 +6021,7 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 En el caso previsto por el artículo 703, el cónyuge sólo tendrá derecho a los alimentos.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+### CAPITULO VI. De los efectos de la ausencia respecto de los derechos eventuales del ausente
 
 ###### ARTICULO 715.
 
@@ -5807,7 +6043,7 @@ Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de 
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
 
-### CAPITULO I. De los bienes inmuebles
+### CAPITULO VII. Disposiciones generales
 
 ###### ARTICULO 720.
 
@@ -5821,9 +6057,11 @@ Por causa de ausencia no se suspenden los términos que fija la ley para la pres
 
 El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
-## TITULO PRIMERO. Disposiciones Preliminares
+## TITULO DUODECIMO. Del patrimonio de la familia
 
-### CAPITULO II. De los bienes muebles
+### CAPITULO UNICO
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 723.
 
@@ -6019,7 +6257,7 @@ Si alguno de los miembros de la familia muere, sus herederos, si los hubiere, te
 
 # LIBRO SEGUNDO. DE LOS BIENES
 
-## TITULO SEGUNDO. Clasificación de los bienes
+## TITULO PRIMERO. Disposiciones Preliminares
 
 ###### ARTICULO 747.
 
@@ -6033,9 +6271,9 @@ Las cosas pueden estar fuera del comercio por su naturaleza o por disposición d
 
 Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley, las que ella declara irreductibles a propiedad particular.
 
-## TITULO TERCERO. De la posesión
+## TITULO SEGUNDO. Clasificación de los bienes
 
-### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
+### CAPITULO I. De los bienes inmuebles
 
 ###### ARTICULO 750.
 
@@ -6073,7 +6311,7 @@ XIII.- Las líneas telefónicas y telegráficas y las estaciones radiotelegráfi
 
 Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya computado el de aquéllos, para constituir algún derecho real a favor de un tercero.
 
-### CAPITULO IV. De los bienes mostrencos
+### CAPITULO II. De los bienes muebles
 
 ###### ARTICULO 752.
 
@@ -6125,7 +6363,7 @@ Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase l
 
 Los no fungibles son los que no pueden ser substituídos por otros de la misma especie, calidad y cantidad.
 
-### CAPITULO V. De los bienes vacantes
+### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
 
 ###### ARTICULO 764.
 
@@ -6173,7 +6411,7 @@ Son bienes de propiedad de los particulares todas las cosas cuyo dominio les per
 
 Los extranjeros y las personas morales para adquirir la propiedad de bienes inmuebles, observarán lo dispuesto en el artículo 27 de la Constitución de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-### CAPITULO UNICO
+### CAPITULO IV. De los bienes mostrencos
 
 ###### ARTICULO 774.
 
@@ -6221,7 +6459,7 @@ La venta se hará siempre en almoneda pública.
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO V. De los bienes vacantes
 
 ###### ARTICULO 785.
 
@@ -6251,9 +6489,9 @@ El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo,
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-## TITULO CUARTO. De la propiedad
+## TITULO TERCERO. De la posesión
 
-### CAPITULO II. De la apropiación de los animales
+### CAPITULO UNICO
 
 ###### ARTICULO 790.
 
@@ -6461,9 +6699,9 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-## TITULO QUINTO. Del usufructo, del uso y de la habitación
+## TITULO CUARTO. De la propiedad
 
-### CAPITULO III. De los tesoros
+### CAPITULO I. Disposiciones generales
 
 ###### ARTICULO 830.
 
@@ -6567,7 +6805,7 @@ La distancia de que habla el artículo anterior se mide desde la línea de separ
 
 El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
 
-### CAPITULO IV. Del derecho de accesión
+### CAPITULO II. De la apropiación de los animales
 
 ###### ARTICULO 854.
 
@@ -6653,7 +6891,7 @@ Los animales feroces que se escaparen del encierro en que los tengan sus dueños
 
 La apropiación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
 
-### CAPITULO V. Del dominio de las aguas
+### CAPITULO III. De los tesoros
 
 ###### ARTICULO 875.
 
@@ -6699,7 +6937,7 @@ Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya 
 
 Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aun cuando no se encuentre el tesoro.
 
-### CAPITULO VI. De la copropiedad
+### CAPITULO IV. Del derecho de accesión
 
 ###### ARTICULO 886.
 
@@ -6903,7 +7141,7 @@ Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene
 
 La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 904 y 905.
 
-### CAPITULO I. Del usufructo en general
+### CAPITULO V. Del dominio de las aguas
 
 ###### ARTICULO 933.
 
@@ -6927,7 +7165,7 @@ El uso y aprovechamiento de las aguas de dominio público se regirá por la ley 
 
 El propietario de un predio que sólo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes, que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
 
-### CAPITULO II. De los derechos del usufructuario
+### CAPITULO VI. De la copropiedad
 
 ###### ARTICULO 938.
 
@@ -7131,7 +7369,105 @@ La división de bienes inmuebles es nula si no se hace con las mismas formalidad
 
 Son aplicables a la división entre partícipes las reglas concernientes a la división de herencias.
 
-## TITULO SEXTO. De las servidumbres
+## TITULO QUINTO. Del usufructo, del uso y de la habitación
+
+### CAPITULO I. Del usufructo en general
+
+###### ARTICULO 980.
+
+El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
+
+###### ARTICULO 981.
+
+El usufructo puede constituirse por la ley, por la voluntad del hombre o por prescripción.
+
+###### ARTICULO 982.
+
+Puede constituirse el usufructo a favor de una o de varias personas, simultánea o sucesivamente.
+
+###### ARTICULO 983.
+
+Si se constituye a favor de varias personas simultáneamente, sea por herencia, sea por contrato, cesando el derecho de una de las personas, pasará al propietario, salvo que al constituirse el usufructo se hubiere dispuesto que acrezca a los otros usufructuarios.
+
+###### ARTICULO 984.
+
+Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
+
+###### ARTICULO 985.
+
+El usufructo puede constituirse desde o hasta cierto día, puramente y bajo condición.
+
+###### ARTICULO 986.
+
+Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario.
+
+###### ARTICULO 987.
+
+Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
+
+###### ARTICULO 988.
+
+Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
+
+### CAPITULO II. De los derechos del usufructuario
+
+###### ARTICULO 989.
+
+El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario, siempre que en él se interese el usufructo.
+
+###### ARTICULO 990.
+
+El usufructuario tiene derecho de percibir todos los frutos, sean naturales, industriales o civiles.
+
+###### ARTICULO 991.
+
+Los frutos naturales o industriales pendientes al tiempo de comenzar el usufructo, pertenecerán al usufructuario. Los pendientes al tiempo de extinguirse el usufructo, pertenecen al propietario. Ni éste, ni el usufructuario tienen que hacerse abono alguno por razón de labores, semillas u otros gastos semejantes. Lo dispuesto en este artículo no perjudica a los aparceros o arrendatarios que tengan derecho de percibir alguna porción de frutos, al tiempo de comenzar o extinguirse el usufructo.
+
+###### ARTICULO 992.
+
+Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dure el usufructo, aun cuando no estén cobrados.
+
+###### ARTICULO 993.
+
+Si el usufructo comprendiera cosas que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no estará obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
+
+###### ARTICULO 994.
+
+Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituirlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
+
+###### ARTICULO 995.
+
+Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquéllos, pero para que el capital se redima anticipadamente, para que se haga novación de la obligación primitiva, para que se substituya la persona del deudor, si no se trata de derechos garantizados con gravamen real, así como para que el capital redimido vuelva a imponerse, se necesita el consentimiento del usufructuario.
+
+###### ARTICULO 996.
+
+El usufructuario de un monte disfruta de todos los productos que provengan de éste, según su naturaleza.
+
+###### ARTICULO 997.
+
+Si el monte fuere tallar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño; acomodándose en el modo, porción o épocas a las leyes especiales o a las costumbres del lugar.
+
+###### ARTICULO 998.
+
+En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar algunas de las cosas usufructuadas; y en este caso acreditará previamente al propietario la necesidad de la obra.
+
+###### ARTICULO 999.
+
+El usufructuario podrá utilizar los viveros, sin perjuicio de su conservación y según las costumbres del lugar y lo dispuesto en las leyes respectivas.
+
+ARTICULO 1,000.- Corresponde al usufructuario el fruto de los aumentos que reciban las cosas por accesión y el goce de las servidumbres que tenga a su favor.
+
+ARTICULO 1,001.- No corresponden al usufructuario los productos de las minas que se exploten en el terreno dado en usufructo, a no ser que expresamente se le concedan en el título constitutivo del usufructo o que éste sea universal; pero debe indemnizarse al usufructuario de los daños y perjuicios que se le originen por la interrupción del usufructo a consecuencia de las obras que se practiquen para el laboreo de las minas.
+
+ARTICULO 1,002.- El usufructuario puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo; pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
+
+ARTICULO 1,003.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituído el usufructo.
+
+ARTICULO 1,004.- El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con la condición de que se conserve el usufructo.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+ARTICULO 1,005.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 973, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 
 ### CAPITULO III. De las obligaciones del usufructuario
 
@@ -7205,42 +7541,6 @@ ARTICULO 1,036.- Si el pleito interesa al mismo tiempo al dueño y al usufructua
 
 ARTICULO 1,037.- Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado, y la adversa no le perjudica.
 
-###### ARTICULO 980.
-
-El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
-
-###### ARTICULO 981.
-
-El usufructo puede constituirse por la ley, por la voluntad del hombre o por prescripción.
-
-###### ARTICULO 982.
-
-Puede constituirse el usufructo a favor de una o de varias personas, simultánea o sucesivamente.
-
-###### ARTICULO 983.
-
-Si se constituye a favor de varias personas simultáneamente, sea por herencia, sea por contrato, cesando el derecho de una de las personas, pasará al propietario, salvo que al constituirse el usufructo se hubiere dispuesto que acrezca a los otros usufructuarios.
-
-###### ARTICULO 984.
-
-Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
-
-###### ARTICULO 985.
-
-El usufructo puede constituirse desde o hasta cierto día, puramente y bajo condición.
-
-###### ARTICULO 986.
-
-Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario.
-
-###### ARTICULO 987.
-
-Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
-
-###### ARTICULO 988.
-
-Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
-
 ### CAPITULO IV. De los modos de extinguirse el usufructo
 
 ARTICULO 1,038.- El usufructo se extingue:
@@ -7283,64 +7583,6 @@ ARTICULO 1,047.- El usufructo no se extingue por el mal uso que haga el usufruct
 
 ARTICULO 1,048.- Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra del usufructuario y sus herederos, salvo lo dispuesto en el artículo 991.
 
-###### ARTICULO 989.
-
-El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario, siempre que en él se interese el usufructo.
-
-###### ARTICULO 990.
-
-El usufructuario tiene derecho de percibir todos los frutos, sean naturales, industriales o civiles.
-
-###### ARTICULO 991.
-
-Los frutos naturales o industriales pendientes al tiempo de comenzar el usufructo, pertenecerán al usufructuario. Los pendientes al tiempo de extinguirse el usufructo, pertenecen al propietario. Ni éste, ni el usufructuario tienen que hacerse abono alguno por razón de labores, semillas u otros gastos semejantes. Lo dispuesto en este artículo no perjudica a los aparceros o arrendatarios que tengan derecho de percibir alguna porción de frutos, al tiempo de comenzar o extinguirse el usufructo.
-
-###### ARTICULO 992.
-
-Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dure el usufructo, aun cuando no estén cobrados.
-
-###### ARTICULO 993.
-
-Si el usufructo comprendiera cosas que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no estará obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
-
-###### ARTICULO 994.
-
-Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituirlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
-
-###### ARTICULO 995.
-
-Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquéllos, pero para que el capital se redima anticipadamente, para que se haga novación de la obligación primitiva, para que se substituya la persona del deudor, si no se trata de derechos garantizados con gravamen real, así como para que el capital redimido vuelva a imponerse, se necesita el consentimiento del usufructuario.
-
-###### ARTICULO 996.
-
-El usufructuario de un monte disfruta de todos los productos que provengan de éste, según su naturaleza.
-
-###### ARTICULO 997.
-
-Si el monte fuere tallar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño; acomodándose en el modo, porción o épocas a las leyes especiales o a las costumbres del lugar.
-
-###### ARTICULO 998.
-
-En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar algunas de las cosas usufructuadas; y en este caso acreditará previamente al propietario la necesidad de la obra.
-
-###### ARTICULO 999.
-
-El usufructuario podrá utilizar los viveros, sin perjuicio de su conservación y según las costumbres del lugar y lo dispuesto en las leyes respectivas.
-
-ARTICULO 1,000.- Corresponde al usufructuario el fruto de los aumentos que reciban las cosas por accesión y el goce de las servidumbres que tenga a su favor.
-
-ARTICULO 1,001.- No corresponden al usufructuario los productos de las minas que se exploten en el terreno dado en usufructo, a no ser que expresamente se le concedan en el título constitutivo del usufructo o que éste sea universal; pero debe indemnizarse al usufructuario de los daños y perjuicios que se le originen por la interrupción del usufructo a consecuencia de las obras que se practiquen para el laboreo de las minas.
-
-ARTICULO 1,002.- El usufructuario puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo; pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
-
-ARTICULO 1,003.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituído el usufructo.
-
-ARTICULO 1,004.- El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con la condición de que se conserve el usufructo.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 1,005.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 973, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
-
 ### CAPITULO V. Del uso y de la habitación
 
 ARTICULO 1,049.- El uso da derecho para percibir de los frutos de una cosa ajena, los que basten a las necesidades del usuario y su familia, aunque ésta aumente.
@@ -7358,6 +7600,8 @@ ARTICULO 1,054.- El que tiene derecho de uso sobre un ganado, puede aprovecharse
 ARTICULO 1,055.- Si el usuario consume todos los frutos de los bienes, o el que tiene derecho de habitación ocupa todas las piezas de la casa, quedan obligados a todos los gastos de cultivo, reparaciones y pago de contribuciones, lo mismo que el usufructuario; pero si el primero sólo consume parte de los frutos, o el segundo sólo ocupa parte de la casa, no deben contribuir en nada, siempre que al propietario le quede una parte de frutos o aprovechamientos bastantes para cubrir los gastos y cargas.
 
 ARTICULO 1,056.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
+
+## TITULO SEXTO. De las servidumbres
 
 ### CAPITULO I. Disposiciones generales
 
@@ -7394,8 +7638,6 @@ ARTICULO 1,068.- Servidumbre legal es la establecida por la ley, teniendo en cue
 ARTICULO 1,069.- Son aplicables a las servidumbres legales lo dispuesto en los artículos del 1,119 al 1,127, inclusive.
 
 ARTICULO 1,070.- Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este Título.
-
-## TITULO SEPTIMO. De la prescripción
 
 ### CAPITULO III. De la servidumbre legal de desagüe
 
@@ -7573,6 +7815,8 @@ ARTICULO 1,133.- Si entre los propietarios hubiere alguno contra quien por leyes
 
 ARTICULO 1,134.- El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera que la servidumbre misma.
 
+## TITULO SEPTIMO. De la prescripción
+
 ### CAPITULO I. Disposiciones generales
 
 ARTICULO 1,135.- Prescripción es un medio de adquirir bienes o de librarse de obligaciones, mediante el transcurso de cierto tiempo y bajo las condiciones establecidas por la ley.
@@ -7642,10 +7886,6 @@ ARTICULO 1,155.- La posesión adquirida por medio de la comisión de un delito, 
 ARTICULO 1,156.- El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
 
 ARTICULO 1,157.- La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propidad (sic) al poseedor.
-
-## TITULO OCTAVO. De los derechos de autor
-
-> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
 ### CAPITULO III. De la prescripción negativa
 
@@ -7746,6 +7986,10 @@ ARTICULO 1,179.- El día en que comienza la prescripción se cuenta siempre ente
 ARTICULO 1,180.- Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
 
 > <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
+
+## TITULO OCTAVO. De los derechos de autor
+
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
 ### CAPITULO I. ARTICULO 1,181.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
@@ -7899,36 +8143,6 @@ ARTICULO 1,254.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL S
 
 > <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-## TITULO PRIMERO. Disposiciones preliminares
-
-ARTICULO 1,281.- Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
-
-ARTICULO 1,282.- La herencia se defiere por la voluntad del testador o por disposición de la ley. La primera se llama testamentaria, y la segunda legítima.
-
-ARTICULO 1,283.- El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
-
-ARTICULO 1,284.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
-
-ARTICULO 1,285.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
-
-ARTICULO 1,286.- Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
-
-ARTICULO 1,287.- Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
-
-ARTICULO 1,288.- A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
-
-ARTICULO 1,289.- Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
-
-ARTICULO 1,290.- El legatario adquiere derecho al legado puro y simple así como al de día cierto, desde el momento de la muerte del testador.
-
-ARTICULO 1,291.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
-
-ARTICULO 1,292.- El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en esté artículo, será nula.
-
-ARTICULO 1,293.- Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
-
-ARTICULO 1,294.- El derecho concedido en el artículo 1,292 cesa si la enajenación se hace a un coheredero.
-
 ### CAPITULO III. ARTICULO 1,255.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ARTICULO 1,256.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
@@ -7981,6 +8195,40 @@ ARTICULO 1,279.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL S
 
 ARTICULO 1,280.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
+# LIBRO TERCERO. DE LAS SUCESIONES
+
+## TITULO PRIMERO. Disposiciones preliminares
+
+ARTICULO 1,281.- Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+
+ARTICULO 1,282.- La herencia se defiere por la voluntad del testador o por disposición de la ley. La primera se llama testamentaria, y la segunda legítima.
+
+ARTICULO 1,283.- El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+
+ARTICULO 1,284.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+
+ARTICULO 1,285.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
+
+ARTICULO 1,286.- Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+
+ARTICULO 1,287.- Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+
+ARTICULO 1,288.- A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+
+ARTICULO 1,289.- Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
+
+ARTICULO 1,290.- El legatario adquiere derecho al legado puro y simple así como al de día cierto, desde el momento de la muerte del testador.
+
+ARTICULO 1,291.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
+
+ARTICULO 1,292.- El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en esté artículo, será nula.
+
+ARTICULO 1,293.- Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
+
+ARTICULO 1,294.- El derecho concedido en el artículo 1,292 cesa si la enajenación se hace a un coheredero.
+
+## TITULO SEGUNDO. De la sucesión por testamento
+
 ### CAPITULO I. De los testamentos en general
 
 ARTICULO 1,295.- Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos, y declara o cumple deberes para después de su muerte.
@@ -8026,12 +8274,6 @@ ARTICULO 1,310.- Si éste fuere favorable, se procederá desde luego a la formac
 ARTICULO 1,311.- Firmarán el acta, además del Notario y de los testigos, el Juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
 
 ARTICULO 1,312.- Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
-
-# LIBRO TERCERO. DE LAS SUCESIONES
-
-## TITULO SEGUNDO. De la sucesión por testamento
-
-## TITULO TERCERO. De la forma de los testamentos
 
 ### CAPITULO III. De la capacidad para heredar
 
@@ -8551,6 +8793,8 @@ III.- Si renuncia a su derecho.
 
 ARTICULO 1,498.- La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se trasmiten a sus respectivos herederos.
 
+## TITULO TERCERO. De la forma de los testamentos
+
 ### CAPITULO I. Disposiciones generales
 
 ARTICULO 1,499.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
@@ -8655,59 +8899,11 @@ Una vez que el testador estuviese conforme, lo hará saber al notario y proceder
 
 Se tendrá como fecha y hora de otorgamiento del testamento la que aparezca en el estampado de la hora correspondiente a la Firma Electrónica Avanzada reconocida por la Ley del Notariado para la Ciudad de México y como lugar la Ciudad de México.
 
-(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+ARTICULO 1,520 Bis.- (DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
-> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
-
-ARTICULO 1,520 Bis.- El testamento público abierto también podrá realizarse por medios electrónicos, siempre que el testador cuente con la posibilidad de comunicarse con el notario a través de un dispositivo electrónico y el notario pueda ver Y OÍR al testador, ASÍ COMO HABLAR CON ÉL de manera directa, simultánea y en tiempo real durante todo el acto del otorgamiento. Lo anterior se actualizará cuando el testador se encuentre en alguno de los siguientes supuestos:
-
-I. Ante peligro inminente de muerte;
-
-II. Sufra al momento una enfermedad grave o contagiosa;
-
-III. Haya sufrido lesiones que pongan en riesgo su vida; o
-
-IV. Se encuentre en un lugar al que, por una situación excepcional, no se pueda acceder en persona.
-
-(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-EN CASO DE QUE EL TESTADOR SE ENCUENTRE EN ALGUNO DE LOS SUPUESTOS A QUE SE REFIEREN LOS ARTÍCULOS 1515, 1516 O 1517, NO PODRÁ LLEVARSE A CABO ESTA MODALIDAD DEL TESTAMENTO PÚBLICO ABIERTO.
-
-> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2021)</small>
-
-ARTICULO 1,520 Ter.- Para el otorgamiento del testamento público abierto descrito en el artículo 1520 bis se observará lo siguiente:
-
-I. Si las circunstancias lo permiten, el testador podrá haber hecho con anterioridad, del conocimiento del notario el contenido de su voluntad por cualquier medio.
-
-II. La asistencia de dos testigos que, a solicitud del testador o del notario, estén físicamente junto al testador y a la vista del notario.
-
-(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-III. La voluntad del testador debe expresarse al notario DE VIVA VOZ, de modo claro y terminante o, en caso de la fracción I, con la misma claridad y definitividad le ratificará lo que le hubiera hecho saber previamente. Asimismo, manifestará que se localiza en la Ciudad de México y que se encuentra libre de coacción.
-
-IV. El notario deberá grabar en cualquier dispositivo electrónico, de manera nítida e ininterrumpidamente esta manifestación. El acto constará en audio y video desde el inicio de la lectura del testamento hasta la manifestación del testador señalando su absoluta conformidad respecto a las disposiciones establecidas y las explicaciones que hubiese solicitado el otorgante con relación al contenido y efectos legales de las mismas. La lectura del testamento podrá realizarse por el testador, el notario o, en su caso, alguno de los testigos presentes.
-
-V. El notario dejará constancia en el instrumento de los hechos relevantes que a su juicio motivaron que el testamento se otorgará en las circunstancias expuestas, así como del entorno observado por él en todo el tiempo en que el acto tuvo lugar.
-
-VI. En el instrumento respectivo el notario deberá certificar lo siguiente:
-
-a) En su concepto y, en su caso, en el de los testigos el testador tiene plenitud de juicio para el otorgamiento y el medio por el cual se cercioró de su identidad;
-
-b) Que procuró, por todos los medios razonables a su alcance, cerciorarse que nadie coaccionó al testador, así como que el propio testador le manifestó estar libre de coacción durante todo el acto; y
-
-(NOTA: EL 8 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO C) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-c) Cuál de los supuestos considerados en el artículo 1520 bis fue el que se actualizó para el caso concreto, ASÍ COMO QUE EL TESTADOR NO SE ENCUENTRA EN NINGUNO DE LOS CASOS A LOS QUE SE REFIEREN LOS ARTÍCULOS 1515, 1516 O 1517 DEL PRESENTE CÓDIGO.
-
-VII. En la redacción y asiento del instrumento correspondiente, el notario observará las disposiciones a que se refiere el presente Capítulo, en los términos del artículo 1519. Las formalidades se practicarán en acto continuo que comenzará con la lectura del testamento, pero sin necesidad de que el testador y, en su caso, los testigos firmen. El notario lo autorizará con su firma y sello.
-
-VIII. El notario resguardará en el apéndice del instrumento, a través de cualquier medio digital inalterable, el archivo que contenga la grabación del audio y video a que se refiere la fracción IV de este artículo, que servirá como complemento de la fe documental de dicho acto.
-
-En caso de que el testamento que se regula en este artículo fuera declarado nulo por falsedad de las manifestaciones realizadas por el testador, por alguno de los testigos o por vicios de la voluntad, el notario ante quien se hubiese otorgado no tendrá responsabilidad alguna; siempre que haya cumplido con las formalidades descritas en el presente artículo.
+ARTICULO 1,520 Ter.- (DEROGADO, G.O. 29 DE NOVIEMBRE DE 2024)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
-
-## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO III. ARTICULO 1,521.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
@@ -8771,6 +8967,12 @@ ARTICULO 1,549.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 ### Capítulo III Bis
 
+###### ARTICULO 1549 Bis.
+
+(DEROGADO, G.O. 23 DE JULIO DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
+
 ### CAPITULO IV. ARTICULO 1,550.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 ARTICULO 1,551.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
@@ -8833,12 +9035,6 @@ ARTICULO 1,578.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
 
-###### ARTICULO 1549 Bis.
-
-(DEROGADO, G.O. 23 DE JULIO DE 2012)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE JULIO DE 2012)</small>
-
 ### CAPITULO VI. ARTICULO 1,579.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 ARTICULO 1,580.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
@@ -8886,6 +9082,8 @@ ARTICULO 1,596.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 ARTICULO 1,597.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
 
 ARTICULO 1,598.- (DEROGADO, G.O. 23 DE JULIO DE 2012)
+
+## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO I. Disposiciones generales
 
@@ -8942,8 +9140,6 @@ ARTICULO 1,612.- El adoptado hereda como hijo, pero en la adopción simple no ha
 ARTICULO 1,613.- Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
 
 ARTICULO 1,614.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
-
-## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
 ### CAPITULO III. De la sucesión de los ascendientes
 
@@ -9015,6 +9211,8 @@ ARTICULO 1,636.- A falta de todos los herederos llamados en los capítulos anter
 
 ARTICULO 1,637.- Cuando sea heredera el Sistema para el Desarrollo Integral de la Familia del Distrito Federal y entre lo que corresponda existan bienes raíces que no pueda adquirir conforme al articulo 27 constitucional, se venderán los bienes en publica subasta, antes de hacer la adjudicación, aplicándose al Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el precio que se obtuviere.
 
+## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
+
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
 ARTICULO 1,638.- Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
@@ -9050,8 +9248,6 @@ ARTICULO 1,650.- No habiendo albacea nombrado, cada uno de los herederos puede, 
 ARTICULO 1,651.- Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
 
 ARTICULO 1,652.- El derecho de reclamar la herencia prescribe en diez años y es trasmisible a los herederos.
-
-## TITULO PRIMERO. Fuentes de las obligaciones
 
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
@@ -9453,6 +9649,14 @@ ARTICULO 1,790.- La partición hecha con un heredero falso, es nula en cuanto te
 
 ARTICULO 1,791.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
 
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+De las obligaciones en general
+
+## TITULO PRIMERO. Fuentes de las obligaciones
+
 ### CAPITULO I. Contratos
 
 ARTICULO 1,792.- Convenio es el acuerdo de dos o más personas para crear, transferir, modificar o extinguir obligaciones.
@@ -9605,13 +9809,27 @@ ARTICULO 1,832.- En los contratos civiles cada uno se obliga en la manera y tér
 
 ARTICULO 1,833.- Cuando la ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-ARTICULO 1,834.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación ya sea en forma autógrafa, con el uso de la Firma Electrónica Avanzada o de la Firma Electrónica de la Ciudad de México.
+ARTÍCULO 1,834.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación, de la siguiente manera:
 
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante notario, dicho otorgamiento se hará en el protocolo ordinario o en el protocolo digital que tenga a su cargo en el ámbito de la actuación digital notarial en los términos establecidos por la Ley del Notariado para la Ciudad de México.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Con el uso de firma autógrafa. Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+Con el uso de la Firma Electrónica Avanzada o de la Firma Electrónica de la Ciudad de México las cuales tendrán un valor jurídico equivalente al de la firma autógrafa;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+II. En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante notario, dicho otorgamiento se hará en el protocolo ordinario o en el protocolo digital que tenga a su cargo en el ámbito de la actuación digital notarial en los términos establecidos por la Ley del Notariado de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Para la verificación, de los documentos a que se refiere la citada fracción, así como los que contengan la reproducción o representación de los instrumentos notariales a que se refiere la fracción II, podrá utilizarse una matriz de datos bidimensional o cualquier otra tecnología análoga existente o por existir que permita su consulta por medios electrónicos sin que la omisión de dicho elemento sea causa de su invalidez.
 
 División de los contratos
 
@@ -9734,14 +9952,6 @@ ARTICULO 1,879.- La obligación del que emite el título al portador no desapare
 ARTICULO 1,880.- El suscriptor del título al portador no puede oponer más excepciones que las que se refieren a la nulidad del mismo título, las que se deriven de su texto o las que tenga en contra del portador que lo presente.
 
 ARTICULO 1,881.- La persona que ha sido desposeída injustamente de títulos al portador, sólo con orden judicial puede impedir que se paguen al detentador que los presente al cobro.
-
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-De las obligaciones en general
-
-## TITULO SEGUNDO. Modalidades de las obligaciones
 
 ### CAPITULO III. Del enriquecimiento ilegítimo
 
@@ -9931,6 +10141,8 @@ ARTICULO 1,936.- Incumbe a los patrones el pago de la responsabilidad que nace d
 
 ARTICULO 1,937.- El patrón no responderá de los accidentes del trabajo, cuando el trabajador voluntariamente (no por imprudencia) los haya producido.
 
+## TITULO SEGUNDO. Modalidades de las obligaciones
+
 ### CAPITULO I. De las obligaciones condicionales
 
 ARTICULO 1,938.- La obligación es condicional cuando su existencia o su resolución dependen de un acontecimiento futuro e incierto.
@@ -10010,8 +10222,6 @@ II.- Cuando no otorgue al acreedor las garantías a que estuviese comprometido;
 III.- Cuando por actos propios hubiese disminuído aquellas garantías después de establecidas, y cuando por caso fortuito desaparecieren, a menos que sean inmediatamente substituídas por otras igualmente seguras.
 
 ARTICULO 1,960.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
-
-## TITULO TERCERO. De la transmisión de las obligaciones
 
 ### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
@@ -10217,6 +10427,8 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso e
 
 ARTICULO 2,028.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruída a costa del obligado.
 
+## TITULO TERCERO. De la transmisión de las obligaciones
+
 ### CAPITULO I. De la cesión de derechos
 
 ARTICULO 2,029.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
@@ -10293,12 +10505,6 @@ ARTICULO 2,056.- El deudor sustituto puede oponer al acreedor las excepciones qu
 
 ARTICULO 2,057.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
-## TITULO CUARTO. Efectos de las obligaciones
-
-I.- Efectos de las obligaciones entre las partes
-
-Cumplimiento de las obligaciones
-
 ### CAPITULO III. De la subrogación
 
 ARTICULO 2,058.- La subrogación se verifica por ministerio de la ley y sin necesidad de declaración alguna de los interesados:
@@ -10316,6 +10522,12 @@ ARTICULO 2,059.- Cuando la deuda fuere pagada por el deudor con dinero que un te
 ARTICULO 2,060.- No habrá subrogación parcial en deudas de solución indivisible.
 
 ARTICULO 2,061.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
+
+## TITULO CUARTO. Efectos de las obligaciones
+
+I.- Efectos de las obligaciones entre las partes
+
+Cumplimiento de las obligaciones
 
 ### CAPITULO I. Del pago
 
@@ -10416,8 +10628,6 @@ ARTICULO 2,103.- Si el ofrecimiento y la consignación se han hecho legalmente, 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 Incumplimiento de las obligaciones
-
-## TITULO QUINTO. Extinción de las obligaciones
 
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
@@ -10639,6 +10849,8 @@ ARTICULO 2,184.- Luego que se anule un acto simulado, se restituirá la cosa o d
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
+## TITULO QUINTO. Extinción de las obligaciones
+
 ### CAPITULO I. De la compensación
 
 ARTICULO 2,185.- Tiene lugar la compensación cuando dos personas reúnen la calidad de deudores y acreedores recíprocamente y por su propio derecho.
@@ -10707,6 +10919,40 @@ ARTICULO 2,207.- La confusión que se verifica en la persona del acreedor o deud
 
 ARTICULO 2,208.- Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 
+### CAPITULO III. De la remisión de la deuda
+
+ARTICULO 2,209.- Cualquiera puede renunciar su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
+
+ARTICULO 2,210.- La condonación de la deuda principal extinguirá las obligaciones accesorias; pero la de éstas dejan subsistente la primera.
+
+ARTICULO 2,211.- Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a alguno de ellos, en la parte relativa a su responsabilidad, no aprovecha a los otros.
+
+ARTICULO 2,212.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
+
+### CAPITULO IV. De la novación
+
+ARTICULO 2,213.- Hay novación de contrato cuando las partes en él interesadas lo alteran substancialmente sustituyendo una obligación nueva a la antigua.
+
+ARTICULO 2,214.- La novación es un contrato, y como tal, está sujeto a las disposiciones respectivas, salvo las modificaciones siguientes.
+
+ARTICULO 2,215.- La novación nunca se presume, debe constar expresamente.
+
+ARTICULO 2,216.- Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación dependiente del cumplimiento de aquélla, si así se hubiere estipulado.
+
+ARTICULO 2,217.- Si la primera obligación se hubiere extinguido al tiempo en que se contrajere la segunda, quedará la novación sin efecto.
+
+ARTICULO 2,218.- La novación es nula si lo fuere también la obligación primitiva, salvo que la causa de nulidad solamente pueda ser invocada por el deudor, o que la ratificación convalide los actos nulos en su origen.
+
+ARTICULO 2,219.- Si la novación fuere nula, subsistirá la antigua obligación.
+
+ARTICULO 2,220.- La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
+
+ARTICULO 2,221.- El acreedor no puede reservarse el derecho de prenda o hipoteca de la obligación extinguida, si los bienes hipotecados o empeñados pertenecieren a terceros que no hubieren tenido parte en la novación. Tampoco puede reservarse la fianza sin consentimiento del fiador.
+
+ARTICULO 2,222.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
+
+ARTICULO 2,223.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1,999.
+
 ## TITULO SEXTO. De la inexistencia y de la nulidad
 
 ARTICULO 2,224.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -10751,39 +10997,21 @@ PARTE SEGUNDA
 
 De las diversas especies de contratos
 
-### CAPITULO III. De la remisión de la deuda
+## TITULO PRIMERO
 
-ARTICULO 2,209.- Cualquiera puede renunciar su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
+De los contratos preparatorios.- La promesa.
 
-ARTICULO 2,210.- La condonación de la deuda principal extinguirá las obligaciones accesorias; pero la de éstas dejan subsistente la primera.
+ARTICULO 2,243.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
 
-ARTICULO 2,211.- Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a alguno de ellos, en la parte relativa a su responsabilidad, no aprovecha a los otros.
+ARTICULO 2,244.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
 
-ARTICULO 2,212.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
+ARTICULO 2,245.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
 
-### CAPITULO IV. De la novación
+ARTICULO 2,246.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
 
-ARTICULO 2,213.- Hay novación de contrato cuando las partes en él interesadas lo alteran substancialmente sustituyendo una obligación nueva a la antigua.
+ARTICULO 2,247.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
-ARTICULO 2,214.- La novación es un contrato, y como tal, está sujeto a las disposiciones respectivas, salvo las modificaciones siguientes.
-
-ARTICULO 2,215.- La novación nunca se presume, debe constar expresamente.
-
-ARTICULO 2,216.- Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación dependiente del cumplimiento de aquélla, si así se hubiere estipulado.
-
-ARTICULO 2,217.- Si la primera obligación se hubiere extinguido al tiempo en que se contrajere la segunda, quedará la novación sin efecto.
-
-ARTICULO 2,218.- La novación es nula si lo fuere también la obligación primitiva, salvo que la causa de nulidad solamente pueda ser invocada por el deudor, o que la ratificación convalide los actos nulos en su origen.
-
-ARTICULO 2,219.- Si la novación fuere nula, subsistirá la antigua obligación.
-
-ARTICULO 2,220.- La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
-
-ARTICULO 2,221.- El acreedor no puede reservarse el derecho de prenda o hipoteca de la obligación extinguida, si los bienes hipotecados o empeñados pertenecieren a terceros que no hubieren tenido parte en la novación. Tampoco puede reservarse la fianza sin consentimiento del fiador.
-
-ARTICULO 2,222.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
-
-ARTICULO 2,223.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1,999.
+## TITULO SEGUNDO. De la compra-venta
 
 ### CAPITULO I. Disposiciones generales
 
@@ -10844,34 +11072,6 @@ ARTICULO 2,271.- El contrato quedará revalidado, si antes de que tenga lugar la
 ARTICULO 2,272.- La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando además, sujeto a las penas respectivas.
 
 ARTICULO 2,273.- Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
-
-## TITULO PRIMERO
-
-De los contratos preparatorios.- La promesa.
-
-ARTICULO 2,243.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
-
-ARTICULO 2,244.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
-
-ARTICULO 2,245.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
-
-ARTICULO 2,246.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
-
-ARTICULO 2,247.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
-
-## TITULO SEGUNDO. De la compra-venta
-
-## TITULO TERCERO. De la permuta
-
-ARTICULO 2,327.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,250.
-
-ARTICULO 2,328.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ARTICULO 2,329.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ARTICULO 2,330.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ARTICULO 2,331.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
 
 ### CAPITULO III. De los que pueden vender y comprar
 
@@ -11073,6 +11273,20 @@ ARTICULO 2,325.- Por regla general las ventas judiciales se harán en moneda efe
 
 ARTICULO 2,326.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
 
+## TITULO TERCERO. De la permuta
+
+ARTICULO 2,327.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,250.
+
+ARTICULO 2,328.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ARTICULO 2,329.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ARTICULO 2,330.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ARTICULO 2,331.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. De las donaciones
+
 ### CAPITULO I. De las donaciones en general
 
 ARTICULO 2,332.- Donación es un contrato por el que una persona transfiere a otra, gratuitamente, una parte o la totalidad de sus bienes presentes.
@@ -11138,10 +11352,6 @@ ARTICULO 2,356.- Salvo que el donador dispusiere otra cosa, las donaciones que c
 ARTICULO 2,357.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 337.
 
 ARTICULO 2,358.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
-
-## TITULO CUARTO. De las donaciones
-
-## TITULO QUINTO. Del mutuo
 
 ### CAPITULO III. De la revocación y reducción de las donaciones
 
@@ -11212,6 +11422,8 @@ ARTICULO 2,381.- Cuando el inmueble no pueda ser dividido y el importe de la red
 ARTICULO 2,382.- Cuando la reducción no exceda de la mitad del valor del inmueble, el donatario pagará el resto.
 
 ARTICULO 2,383.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
+
+## TITULO QUINTO. Del mutuo
 
 ### CAPITULO I. Del mutuo simple
 
@@ -11362,48 +11574,6 @@ II.- Cuando se trata de mejoras útiles o urgentes por causa de fuerza mayor, o 
 III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
 
 ARTICULO 2,424.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-## TITULO SEPTIMO. Del comodato
-
-ARTICULO 2,497.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ARTICULO 2,498.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
-
-ARTICULO 2,499.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ARTICULO 2,500.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ARTICULO 2,501.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ARTICULO 2,502.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ARTICULO 2,503.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ARTICULO 2,504.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-ARTICULO 2,505.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ARTICULO 2,506.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
-
-ARTICULO 2,507.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ARTICULO 2,508.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ARTICULO 2,509.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ARTICULO 2,510.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ARTICULO 2,511.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ARTICULO 2,512.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ARTICULO 2,513.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ARTICULO 2,514.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
@@ -11801,6 +11971,50 @@ ARTICULO 2,495.- Si el inmueble dado en arrendamiento fuere enajenado judicialme
 
 ARTICULO 2,496.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
 
+## TITULO SEPTIMO. Del comodato
+
+ARTICULO 2,497.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ARTICULO 2,498.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
+
+ARTICULO 2,499.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ARTICULO 2,500.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ARTICULO 2,501.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ARTICULO 2,502.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ARTICULO 2,503.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ARTICULO 2,504.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+ARTICULO 2,505.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ARTICULO 2,506.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
+
+ARTICULO 2,507.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ARTICULO 2,508.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ARTICULO 2,509.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ARTICULO 2,510.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ARTICULO 2,511.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+ARTICULO 2,512.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ARTICULO 2,513.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ARTICULO 2,514.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+## TITULO OCTAVO. Del depósito y del secuestro
+
 ### CAPITULO I. Del depósito
 
 ARTICULO 2,516.- El depósito es un contrato por el cual el depositario se obliga hacia el depositante a recibir una cosa, mueble o inmueble que aquél le confía, y a guardarla para restituírla cuando la pida el depositante.
@@ -11870,8 +12084,6 @@ ARTICULO 2,543.- Fuera de las excepciones acabadas de mencionar, rigen para el s
 ARTICULO 2,544.- Secuestro judicial es el que se constituye por decreto del juez.
 
 ARTICULO 2,545.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
-
-## TITULO OCTAVO. Del depósito y del secuestro
 
 ## TITULO NOVENO. Del mandato
 
@@ -11980,8 +12192,6 @@ ARTICULO 2,574.- El mandatario puede encomendar a un tercero el desempeño del m
 ARTICULO 2,575.- Si se le designó la persona del substituto, no podrá nombrar a otro; si no se le designó persona, podrá nombrar a la que quiera, y en éste último caso solamente será responsable cuando la persona elegida fuere de mala fe o se hallare en notoria insolvencia.
 
 ARTICULO 2,576.- El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
-
-## TITULO DECIMO. Del contrato de prestación de servicios
 
 ### CAPITULO III. De las obligaciones del mandante con relación al mandatario
 
@@ -12113,6 +12323,8 @@ ARTICULO 2,603.- El mandatario que renuncie tiene obligación de seguir el negoc
 
 ARTICULO 2,604.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2,597.
 
+## TITULO DECIMO. Del contrato de prestación de servicios
+
 ### CAPITULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario sólo pone su trabajo y del contrato de aprendizaje
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
@@ -12144,8 +12356,6 @@ ARTICULO 2,614.- Siempre que un profesor no pueda continuar prestando sus servic
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca por la comisión de un delito.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO III. Del contrato de obras a precio alzado
 
@@ -13339,6 +13549,8 @@ ARTICULO 2,963.- No podrá intentarse demanda contra el valor o subsistencia de 
 
 TERCERA PARTE
 
+## TITULO PRIMERO. De la concurrencia y prelación de los créditos
+
 ### CAPITULO I. Disposiciones generales
 
 ARTICULO 2,964.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquellos que, conforme a la ley, son inalienables o no embargables.
@@ -13431,10 +13643,6 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquir (sic) 
 
 ARTICULO 2,992.- Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-## TITULO SEGUNDO. Del registro publico
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
-
 ### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ARTICULO 2,993.- Con el valor de los bienes que se mencionan serán pagados preferentemente:
@@ -13498,6 +13706,10 @@ ARTICULO 2,996.- Satisfechos los créditos de que se ha hablado anteriormente, s
 ARTICULO 2,997.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
 
 ARTICULO 2,998.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
+
+## TITULO SEGUNDO. Del registro publico
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -15372,3 +15584,11 @@ G.O. 27 DE SEPTIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
