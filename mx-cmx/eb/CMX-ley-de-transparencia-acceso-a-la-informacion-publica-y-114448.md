@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2021-02-26"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -254,9 +254,11 @@ No podrá clasificarse como reservada aquella información que esté relacionada
 
 Ninguna persona será objeto de inquisición judicial o administrativa con el objeto del ejercicio del Derecho de Acceso a la Información Pública, ni se podrá restringir este derecho por vías o medios directos e indirectos.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-En todo lo no previsto en esta Ley, se aplicará lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, Tratados Internacionales en los que el Estado Mexicano sea parte, y en orden de preferencia la Ley de Procedimiento Administrativo local, y, a falta de disposición expresa en ella se estará a lo dispuesto por el Código de Procedimientos Civiles local y demás ordenamientos relativos en materia de Transparencia, Acceso a la Información y Protección de Datos Personales.
+En todo lo no previsto en esta Ley, se aplicará lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, Tratados Internacionales en los que el Estado Mexicano sea parte, y en orden de preferencia la Ley de Procedimiento Administrativo local, y, a falta de disposición expresa en ella se estará a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares y demás ordenamientos relativos en materia de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 ### Capítulo II. De los Principios en materia de Transparencia y Acceso a la Información Pública
 
@@ -3851,3 +3853,11 @@ G.O. 26 DE FEBRERO DE 2021.
 PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el (sic) día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
