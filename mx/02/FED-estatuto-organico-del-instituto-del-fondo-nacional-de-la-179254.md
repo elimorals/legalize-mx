@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-179254
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-05-22"
-last_updated: "2024-02-06"
+last_updated: "2024-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-05-05"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2024.
 
 Estatuto publicado en el Número 15 del Diario Oficial de la Federación, el viernes 22 de mayo de 2020.
 
@@ -243,6 +243,10 @@ a. Coordinación General de Recaudación Fiscal.
 
 b. Coordinación General de Investigación y Finanzas.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2024)</small>
+
+c. Coordinación General de Inversiones.
+
 V. A la Subdirección General de Crédito estará adscrita la siguiente área:
 
 a. Coordinación General de Opciones de Financiamiento.
@@ -267,7 +271,7 @@ a. Coordinación General de Arquitectura y Desarrollo de Nuevos Productos.
 
 XI. Coordinación General de Riesgos.
 
-XII. Coordinación General de Inversiones.
+XII. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2024)
 
 > <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
 
@@ -745,9 +749,9 @@ II. Establecer, de manera conjunta con la Subdirección General de Administraci�
 
 III. Formular y administrar los presupuestos globales anuales de ingresos y egresos;
 
-> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2024)</small>
 
-IV. Administrar los recursos financieros con que cuenta el Infonavit y los depósitos puestos a su cuidado o disposición que no sean los recursos previstos en el párrafo tercero del artículo 43 de la Ley ni aquellos transferidos a los fideicomisos o fondos del Instituto;
+IV. Administrar los recursos financieros con que cuenta el Infonavit y los depósitos puestos a su cuidado o disposición;
 
 V. Realizar los cálculos de los remanentes de operación de cada ejercicio para aplicar al pago de intereses de las Subcuentas de Vivienda de los derechohabientes y asegurar el rendimiento de los fondos, procurando incrementar el valor patrimonial de los mismos conforme a lo estipulado en la Ley del Infonavit;
 
@@ -917,13 +921,41 @@ X. Coordinar acciones en materia fiscal con otros organismos fiscales, incluidas
 
 Respecto a la administración de las aportaciones patronales al Fondo Nacional de la Vivienda, la Subdirección General de Planeación Financiera y Fiscalización tendrá las siguientes facultades y funciones:
 
-I. Administrar el Fondo de Ahorro y la Subcuenta de Vivienda de cada trabajador, salvo los recursos excedentes en términos del artículo 43 tercer párrafo de la Ley, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2024)</small>
+
+I. Administrar el Fondo de Ahorro y la Subcuenta de Vivienda de cada trabajador, y
 
 II. Coordinar con las autoridades reguladoras y con los participantes de los Sistemas de Ahorro para el Retiro, la elaboración, autorización y ejecución de los lineamientos y procedimientos de operación de recaudación y afectación a la Subcuenta de Vivienda de los trabajadores, siendo responsable de gestionar y determinar los límites inferiores de ingresos anuales por aportaciones y recuperaciones.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2024)</small>
+
+ARTÍCULO 42 BIS.- Respecto a la administración de recursos financieros a que se refiere el artículo 43, tercer párrafo, de la Ley del Infonavit, la Subdirección General de Planeación Financiera y Fiscalización contará con las siguientes facultades y funciones:
+
+I. Administrar el fondo al que se traspasen los recursos que le sean encomendados;
+
+II. Invertir los recursos a que se refiere el presente artículo conforme a las determinaciones del Consejo de Administración y las demás instancias de autorización competentes;
+
+III. Representar al Instituto y conducir sus relaciones ante particulares, instancias públicas y autoridades en materia de administración e inversión del fondo a que se refiere la fracción anterior para asegurar la consecución de sus objetivos, sin perjuicio de las atribuciones que correspondan a otros Órganos y áreas del Instituto;
+
+IV. Proponer a las instancias de autorización que defina el Consejo de Administración la política y estrategia de administración e inversión de los recursos y del fondo a los que se refiere el presente artículo, así como realizar su ejecución;
+
+V. Proponer para aprobación superior medidas y mecanismos de regulación, ejecución, control y gestión conforme a las mejores prácticas nacionales e internacionales en materia de inversión de los recursos que le sean encomendados;
+
+VI. Constituir, modificar y extinguir las figuras jurídicas que se estimen convenientes para la administración de los recursos cuya administración le sea encomendada, así como celebrar los actos jurídicos que se estimen convenientes, de conformidad con las estrategias y directrices que emitan las instancias de autorización competentes;
+
+VII. Participar y coordinarse con las áreas e instancias colegiadas del Instituto para la determinación y ejecución de acciones que contribuyan a la correcta administración e inversión de los recursos a que se refiere el presente artículo;
+
+VIII. Fungir como instancia de consulta y asesoría del Instituto en materia de inversiones;
+
+IX. Ejecutar las estrategias de inversión en valores de otros vehículos constituidos por el Instituto, previo análisis de la capacidad y disponibilidad de recursos con que cuente, que se le mandaten por determinación del Comité de Inversiones del Consejo de Administración, en apego a las normas de operaciones de inversión, y
+
+X. Las demás que se establezcan en otros instrumentos normativos.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Para efectos de lo establecido en este capítulo, el Subdirector o Subdirectora General de Planeación Financiera y Fiscalización se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por el Coordinador o Coordinadora General de Recaudación Fiscal, quien podrá ejercer de manera individual las facultades a que se refieren los artículos 39 a 42 de este Estatuto.
+Para efectos de lo establecido en este capítulo, el Subdirector o Subdirectora General de Planeación Financiera y Fiscalización se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por el Coordinador o Coordinadora General de Recaudación Fiscal, quien podrá ejercer de manera individual las facultades a que se refieren los artículos 39 a 42 de este Estatuto; así como por el Coordinador o Coordinadora General de Inversiones, quien podrá ejercer de manera individual las facultades a que se refiere el artículo 42 Bis de este Estatuto.
 
 ### Capítulo VII. De la Subdirección General de Crédito
 
@@ -1583,39 +1615,21 @@ Respecto al riesgo operativo y tecnológico, la Coordinación General de Riesgos
 
 La Coordinación General de Riesgos deberá utilizar las plataformas institucionales para calibrar los parámetros de los modelos de cálculo de los riesgos del Instituto.
 
-### Capítulo XIV. Coordinación General de Inversiones
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+### Capítulo XIV. Coordinación General de Inversiones
 
 ###### ARTÍCULO 78.
 
-Respecto a la administración de recursos financieros a que se refiere el artículo 43, tercer párrafo, de la Ley del Infonavit, la Coordinación General de Inversiones contará con las siguientes facultades y funciones:
-
-I. Administrar el fondo al que se traspasen los recursos que le sean encomendados;
-
-II. Invertir los recursos a que se refiere el presente artículo conforme a las determinaciones del Consejo de Administración y las demás instancias de autorización competentes;
-
-III. Representar al Instituto y conducir sus relaciones ante particulares, instancias públicas y autoridades en materia de administración e inversión del fondo a que se refiere la fracción anterior para asegurar la consecución de sus objetivos, sin perjuicio de las atribuciones que correspondan a otros Órganos y áreas del Instituto;
-
-IV. Proponer a las instancias de autorización que defina el Consejo de Administración la política y estrategia de administración e inversión de los recursos y del fondo a los que se refiere el presente artículo, así como realizar su ejecución;
-
-V. Proponer para aprobación superior medidas y mecanismos de regulación, ejecución, control y gestión conforme a las mejores prácticas nacionales e internacionales en materia de inversión de los recursos que le sean encomendados;
-
-VI. Constituir, modificar y extinguir las figuras jurídicas que se estimen convenientes para la administración de los recursos cuya administración le sea encomendada, así como celebrar los actos jurídicos que se estimen convenientes, de conformidad con las estrategias y directrices que emitan las instancias de autorización competentes;
-
-VII. Participar y coordinarse con las áreas e instancias colegiadas del Instituto para la determinación y ejecución de acciones que contribuyan a la correcta administración e inversión de los recursos a que se refiere el presente artículo, y
-
-VIII. Las demás que se establezcan en otros instrumentos normativos.
+(DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2024)
 
 ###### ARTÍCULO 79.
 
-La Coordinación General de Inversiones podrá fungir como instancia de consulta y asesoría del Instituto en materia de inversiones.
-
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2024)</small>
+(DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2024)
 
 ###### ARTÍCULO 80.
 
-Por determinación del Consejo de Administración, en apego a las normas de operaciones de inversión, podrá mandatarse a la Coordinación General de Inversiones la ejecución de las estrategias de inversión en valores de otros vehículos constituidos por el Instituto, previo análisis de la capacidad y disponibilidad de recursos con que cuente.
+(DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2024)
 
 ## TRANSITORIOS
 
@@ -1664,3 +1678,15 @@ Las demás disposiciones del Estatuto Orgánico del Instituto del Fondo Nacional
 Tercero. Dentro de los 180 días naturales posteriores a la publicación de la presente Resolución en el Diario Oficial de la Federación, la Subdirección General de Administración y Recursos Humanos, emitirá el Manual General de Organización, derivado de los cambios de atribuciones y funciones.
 
 Cuarto. Se ordena su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “RESOLUCIÓN POR LA QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Primero. Las presentes modificaciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+Las demás disposiciones del Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicadas en el Diario Oficial de la Federación el 25 de mayo de 2022, el 13 de febrero de 2023 y el 6 de febrero de 2024 que no hubiesen sido objeto de cambios en términos de la presente Resolución permanecerán vigentes.
+
+Segundo. Dentro de los 180 días naturales posteriores a la publicación del presente Estatuto en el Diario Oficial de la Federación, la Subdirección General de Administración y Recursos Humanos, emitirá el Manual General de Organización derivado de los cambios de atribuciones y funciones.
+
+Tercero. Se ordena su publicación en el Diario Oficial de la Federación.
