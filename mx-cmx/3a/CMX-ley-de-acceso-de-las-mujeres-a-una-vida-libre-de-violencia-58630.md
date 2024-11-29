@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2024-03-27"
+last_updated: "2024-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -65,6 +65,10 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXI
 ###### Artículo 1.
 
 Las disposiciones de la presente Ley son de orden público, interés social y observancia general en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Lo anterior con base en los derechos humanos previstos en la Constitución Política de la Ciudad de México, la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
@@ -164,13 +168,17 @@ V. La transversalidad de la perspectiva de género, y la coordinación instituci
 
 VI. Seguridad Jurídica, en términos del artículo 54 de la propia ley;
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VII. La protección y seguridad; y
+VII. La protección y seguridad;
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-VIII. El apoyo y desarrollo integral de la víctima.
+VIII. El apoyo y desarrollo integral de la víctima; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+IX. Acceso a la justicia.
 
 ###### Artículo 5.
 
@@ -1602,6 +1610,10 @@ En el caso en que el Ministerio Público o el Órgano Jurisdiccional competente 
 
 Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las medidas de protección en coordinación con las instancias responsables de atender a las mujeres y niñas en situación de violencia.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Si quien solicita la medida de protección es una niña, o adolescente, y no se encuentra asistida por sus representantes legales, se ordenará por la autoridad judicial la fijación de una representación inmediata de algún familiar o persona cuidadora temporal o por parte de alguna institución especializada, a efecto de que se dicten las órdenes solicitadas de manera inmediata, ya sea que comparezca por escrito o por comparecencia.
+
 > <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 62 Bis.
@@ -1635,6 +1647,18 @@ VII. Principio de concentración: No se necesita una orden para cada medida, una
 VIII. Principio pro persona: Para interpretar lo referente al otorgamiento de las medidas de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima.
 
 IX. Principio de interés superior de la niñez: Cuando las decisiones que se adopten relacionadas con el trámite de medidas de protección, afecte de manera directa o indirecta a una niña, niño o adolescente se deberán evaluar y ponderar las posibles repercusiones para evitar efectos negativos en su esfera de derechos
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+X. Urgencia: La orden se debe implementar y cumplir de manera inmediata, con la mayor agilidad posible a efecto de que cumpla con el fin de prevenir o impedir que los actos de violencia se cometan o se sigan cometiendo.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XI. Utilidad procesal: La orden de protección debe facilitar la confección, integración, tratamiento y conservación de las pruebas que puedan aportarse al trámite.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+XII. Principio de lealtad procesal: Las autoridades jurisdiccionales al dictar las medidas u órdenes de protección ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe.
 
 > <small>(ADICIONADO, G.O. 23 DE MARZO DE 2022)</small>
 
@@ -1717,6 +1741,10 @@ XVI. Además de los anteriores, aquellas y cuantas sean necesarias para salvagua
 ###### Artículo 64.
 
 La autoridad competente que reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, de manera inmediata y a más tardar en un plazo que no exceda de 4 horas, a partir del conocimiento de los hechos, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior de la niñez.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+La escucha de niñas, niños y adolescentes por autoridad jurisdiccional será en audiencia videograbada, contemplando las medidas de seguridad adecuadas para la protección de los datos personales y datos personales sensibles de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -1804,9 +1832,13 @@ V. Recuperación y entrega inmediata de las hijas, hijos, personas menores de 18
 
 VI. Restablecimiento inmediato de las convivencias de las hijas o hijos con su progenitora.
 
-> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2023)</small>
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2024)</small>
 
-Las personas juzgadoras deberán recibir por cualquier medio las solicitudes de medidas en materia civil y familiar, incluidas las que se presentan por escrito, decretando a favor de las mujeres la medida por la situación de violencia que están viviendo.
+VII. Las contenidas en el artículo 573 del Código Nacional de Procedimientos Civiles y Familiares, con excepción de las fracciones I y II, al ser competencia del Juez Penal.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+
+Las personas juzgadoras deberán recibir por cualquier medio, oral o escrito promociones y peticiones que deberán reunir los requisitos mínimos establecidos en el Código Nacional de Procedimientos Civiles y Familiares, decretando a favor de las mujeres la medida por la situación de violencia que están viviendo.
 
 ###### Artículo 72.
 
@@ -2291,3 +2323,11 @@ G.O. 27 DE MARZO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrara´ en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS JURÍDICOS DE LA CIUDAD DE MÉXICO, PARA SU HOMOLOGACIÓN CON EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
