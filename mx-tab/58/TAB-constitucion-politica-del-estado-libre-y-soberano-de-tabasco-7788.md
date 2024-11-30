@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2023-12-02"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2024.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -459,9 +459,9 @@ Son obligaciones de la ciudadanía tabasqueña:
 
 I.- Inscribirse en los padrones electorales y en el catastro de la municipalidad, en la forma que determinen las leyes;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-II.- Votar en las elecciones populares, así como en las consultas populares, en los términos que señale la ley;
+II.- Votar en las elecciones populares, así como en las consultas populares y participar en los procesos de revocación de mandato, en los términos que señale la ley;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -485,9 +485,9 @@ Son derechos de la ciudadanía tabasqueña:
 
 I. Votar en las elecciones populares y ser electa para los cargos públicos en condiciones de paridad de género. El derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, así como a las ciudadanas y ciudadanos que de manera independiente deseen participar. En ambos casos, deberá cumplirse con los requisitos, condiciones y términos que establezca la ley;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-II.- Participar en las consultas populares sobre temas de trascendencia estatal o municipal, de conformidad con lo establecido por esta Constitución y las leyes;
+II.- Participar en las consultas populares sobre temas de trascendencia estatal o municipal, así como en los procedimientos de revocación de mandato, de conformidad con lo establecido por esta Constitución y las leyes respectivas;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -562,6 +562,36 @@ VI. La consulta popular se realizará el mismo día de la jornada electoral esta
 VII. Las resoluciones del Instituto Electoral y de Participación Ciudadana podrán ser impugnadas en los términos de lo dispuesto en el Apartado D del artículo 9 de esta Constitución; y
 
 VIII. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en el presente artículo, regulando en forma específica el plebiscito y el referéndum, además de las otras modalidades de participación ciudadana que resulten pertinentes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
+
+ARTICULO 8° TER.- La revocación de mandato del Gobernador o Gobernadora del Estado, es el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada en el desempeño del cargo por la pérdida de la confianza, el cual se llevará a cabo conforme a lo siguiente:
+
+I. Será convocado por el Instituto Electoral y de Participación Ciudadana de Tabasco, dentro de los tres meses siguientes a la conclusión del tercer año del período constitucional a petición de la ciudadanía, en un número equivalente, al menos, al diez por ciento de las personas inscritas en la lista nominal de electores, siempre y cuando en la solicitud correspondan a por lo menos la mitad más uno de los municipios de la entidad. Este instrumento no será aplicable en los casos en que durante el período de ejercicio constitucional se haya nombrado a un Gobernador o Gobernadora interina o sustituta.
+
+II. El Instituto Electoral y de Participación Ciudadana de Tabasco, dentro de los treinta días siguientes a que se reciba la solicitud, verificará el requisito establecido en la fracción anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato;
+
+III. Podrá llevarse a cabo en una sola ocasión, durante los tres meses posteriores a la conclusión del tercer año del período constitucional del Gobernador o Gobernadora del Estado; mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta.
+
+Los ciudadanos y las ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Electoral y de Participación Ciudadana de Tabasco emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas;
+
+IV. La jornada de votación se efectuará el domingo siguiente a los noventa días posteriores a la convocatoria, en fecha posterior y no coincidente con procesos electorales o de participación ciudadana locales o federales y quien asuma el mandato del ejecutivo revocado concluirá el período constitucional;
+
+V. El Instituto Electoral y de Participación Ciudadana de Tabasco, tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato de la persona titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Electoral de Tabasco, en los términos de lo dispuesto en la fracción I del apartado D, del artículo 9, así como en la fracción VIII, del artículo 63 bis de esta Constitución;
+
+VI. El Tribunal Electoral de Tabasco, realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 43, de esta Constitución; y
+
+VII. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+El Instituto Electoral y de Participación Ciudadana de Tabasco, según corresponda, promoverá la participación ciudadana y será la única instancia a cargo de la difusión respectiva. La promoción será objetiva, imparcial y con fines informativos.
+
+Ninguna otra persona física o jurídica colectiva, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y las ciudadanas.
+
+Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
+
+Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil y de seguridad.
+
+El Instituto Electoral y de Participación Ciudadana de Tabasco, podrá celebrar convenio con el Instituto Nacional Electoral, para que asuma la organización de procesos electorales, de consulta popular y de revocación de mandato en el ámbito de competencia estatal, en los términos que dispone esta Constitución y la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -747,9 +777,9 @@ h) El Instituto contará con una oficialía electoral investida de fe pública p
 
 i) El Instituto Electoral y de Participación Ciudadana de Tabasco tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a: los derechos y prerrogativas de los partidos políticos y las personas candidatas; educación cívica; preparación de la jornada electoral; impresión de documentos y producción de materiales electorales; escrutinios y cómputos en los términos que señale la ley; resultados preliminares; encuestas o sondeos de opinión con fines electorales; observación electoral, y conteos rápidos, conforme a los lineamientos que establezca el Instituto Nacional Electoral; organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local; así como todas las no reservadas al Instituto Nacional Electoral. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señala la ley;
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-j) El Instituto Electoral y de Participación Ciudadana de Tabasco, en los términos establecidos en la ley de la materia, está facultado para verificar el cumplimiento de los requisitos legales de las propuestas de iniciativa ciudadana. Será el órgano responsable de organizar y realizar los procesos de consulta popular en la forma y términos que señalen las leyes de la materia; tendrá además la obligación de comunicar los resultados a los Poderes de la Entidad y ordenará su publicación en el Periódico Oficial del Estado; y
+j) El Instituto Electoral y de Participación Ciudadana de Tabasco, en los términos establecidos en la ley de la materia, está facultado para verificar el cumplimiento de los requisitos legales de las propuestas de iniciativa ciudadana. Será el órgano responsable de organizar y realizar los procesos de consulta popular y de revocación de mandato en la forma y términos que señalen esta Constitución y las leyes de la materia; tendrá además la obligación de comunicar los resultados a los Poderes de la Entidad y ordenará su publicación en el Periódico Oficial del Estado; y
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -769,9 +799,9 @@ IV.- El Consejo Estatal, por conducto de la persona que lo presida deberá dar c
 
 APARTADO D.- Del Sistema de Medios de Impugnación.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-I.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley, mismo que incluirá las causales de nulidad para las elecciones locales por violaciones graves, dolosas y determinantes, previstas en el párrafo segundo, Base VI, del Artículo 41 de la Constitución General de la República. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y de consulta popular, y garantizará la protección de los derechos políticos de la ciudadanía, de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
+I.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular y de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley, mismo que incluirá las causales de nulidad para las elecciones locales por violaciones graves, dolosas y determinantes, previstas en el párrafo segundo, Base VI, del Artículo 41, de la Constitución General de la República. Dicho sistema dará definitividad a las distintas etapas de esos procesos y garantizará la protección de los derechos políticos de la ciudadanía de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
 
 II.- La ley establecerá los presupuestos, requisitos de procedencia y el trámite del sistema de impugnación;
 
@@ -1325,9 +1355,9 @@ La revisión de la Cuenta Pública la realizará la Cámara de Diputados a trav�
 
 En la evaluación del desempeño del Órgano Superior de Fiscalización que realice la Cámara de Diputados, le podrá requerir informes sobre la evolución de sus trabajos de fiscalización;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-XLII.- Legislar en materia de participación ciudadana, estableciendo las normas para la presentación de las iniciativas ciudadanas; y la procedencia, aplicación y ejecución de las consultas populares;
+XLII.- Legislar en materia de participación ciudadana, estableciendo las normas para la presentación de las iniciativas ciudadanas: así como la procedencia, aplicación y ejecución de las consultas populares y de revocación de mandato;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1561,11 +1591,11 @@ Con respecto a los informes que mensualmente y con carácter obligatorio rinden 
 
 Se deposita el Poder Ejecutivo en una persona que se denominará Gobernador o Gobernadora del Estado Libre y Soberano de Tabasco.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
 ###### ARTICULO 43.
 
-· La elección de la persona titular del Poder Ejecutivo será popular y directa, en los términos de la Ley local Electoral.
+La elección de la persona titular del Poder Ejecutivo será popular y directa, en los términos de la Ley local Electoral. El cargo de Gobernador o Gobernadora del Estado puede ser revocado en los términos establecidos en esta Constitución y leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1644,6 +1674,10 @@ Si el Congreso no estuviere en sesiones, la Comisión Permanente lo convocará i
 Cuando la falta absoluta del Gobernador o Gobernadora ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, designará a una persona que la o lo sustituya, quien deberá concluir el período, siguiendo, en lo conducente, el mismo procedimiento que en el caso de un interinato.
 
 Si el Congreso no estuviere reunido, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral y nombre un Gobernador sustituto o Gobernadora sustituta siguiendo, en lo conducente, el mismo procedimiento que en el caso de un interinato.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
+
+En caso de haberse revocado el mandato de Gobernador o Gobernadora del Estado, la persona titular de la Secretaría de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo, y dentro de los quince días siguientes, el Congreso nombrará al Gobernador o Gobernadora interina o sustituta, quien concluirá el período constitucional, siendo aplicables en lo conducente las demás disposiciones de este artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2169,9 +2203,9 @@ I.- Las impugnaciones en las elecciones de diputaciones;
 
 II.- Las impugnaciones que se presenten sobre la elección ordinaria o extraordinaria de Gobernador o Gobernadora del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-III.- Las impugnaciones que se presenten en las elecciones de presidencias municipales y regidurías;
+III.- Las impugnaciones que se presenten en las elecciones de presidencias municipales y regidurías, así como las relativas a las delegaciones y subdelegaciones municipales;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -2189,9 +2223,9 @@ VI.- La determinación e imposición de sanciones por parte del Instituto Electo
 
 VII.- Los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y su personal dedicado al servicio público; con excepción de aquellos que formen parte del Servicio Profesional Electoral Nacional así como los que surjan entre el Tribunal Electoral y su personal dedicado al servicio público, en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-VIII.- Las impugnaciones que se presenten respecto de la celebración de consultas populares o la presentación de iniciativas ciudadanas; y
+VIII.- Las impugnaciones que se presenten respecto de la celebración de consultas populares, revocación de mandato o la presentación de iniciativas ciudadanas; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
@@ -4122,3 +4156,15 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 En un período no mayor a sesenta días naturales a partir de la entrada en vigor del correspondiente Decreto, realícense las reformas o adiciones necesarias a los ordenamientos secundarios.
+
+P.O. 30 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 024 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 6, FRACCIÓN II; 7, FRACCIÓN II; 9, APARTADO C, FRACCIÓN I, INCISO J), Y APARTADO D, FRACCIÓN I; 36, FRACCIÓN XLII; 43 Y 63 BIS, PÁRRAFO TERCERO, FRACCIONES III Y VIII; ASIMISMO, SE ADICIONAN EL ARTÍCULO 8 TER, Y UN SÉPTIMO PÁRRAFO AL ARTÍCULO 47, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los noventa días naturales siguientes a su publicación, el Congreso del Estado, deberá expedir la ley reglamentaria en materia de Revocación de Mandato y en su caso las reformas pertinentes para armonizar el marco jurídico estatal a las disposiciones contenidas en el presente Decreto.
+
+TERCERO. El ejercicio de las atribuciones que esta Constitución le confiere al Instituto Electoral y de Participación Ciudadana de Tabasco, se cubrirán con base en la disponibilidad presupuestaria para el presente ejercicio y los subsecuentes.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
