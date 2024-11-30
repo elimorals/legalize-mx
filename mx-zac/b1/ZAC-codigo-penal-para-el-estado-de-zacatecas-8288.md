@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2022-12-17"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2024.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -587,7 +587,7 @@ I. Homicidio, a que se refiere el artículo 293;
 
 II. Lesiones, a que se refiere el artículo 285;
 
-III. Aborto, a que se refiere el artículo 310;
+III. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2024)
 
 IV. Peligro de contagio, a que se refiere el artículo 173;
 
@@ -2963,29 +2963,37 @@ Al servidor público que retarde o entorpezca maliciosamente o por negligencia l
 
 ### CAPITULO VIII. ABORTO
 
-310.- Aborto es la muerte del producto de la concepción en cualquier momento de la preñez. Sólo se sancionará el aborto consumado; pero cuando la tentativa produzca lesiones, éstas se perseguirán en todo caso.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-311.- Se impondrán de cuatro meses a un año de prisión a la madre que voluntariamente procure un aborto o consienta en que otro la haga abortar, si concurrieren estas cuatro circunstancias:
+310. Aborto es la interrupción del embarazo después de las primeras doce semanas de gestación.
 
-I.- Que no tenga mala fama;
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-II.- Que haya logrado ocultar su embarazo;
+Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
 
-III.- Que éste sea fruto de una unión ilegítima; y
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-IV.- Que el aborto se efectúe dentro de los primeros cinco meses de embarazo.
+311. Se impondrán de tres a seis meses de prisión, o de 100 a 300 jornadas de trabajo en favor de la comunidad, a la mujer o persona con capacidad de gestar que voluntariamente procure su aborto o consienta en que otro la haga abortar, después de las primeras doce semanas de embarazo.
 
-Faltando alguna de las circunstancias anteriores, la pena podrá ser aumentada hasta en un tanto más.
+La misma pena se aplicará al que haga abortar a una mujer o persona con capacidad de gestar, a solicitud de esta, en los términos del párrafo anterior.
 
-La misma pena se aplicará al que haga abortar a una mujer a solicitud de ésta en las mismas condiciones, con tal de que no se trate de un abortador de oficio o de persona ya condenada por este delito, pues en tal caso será la sanción de uno a cuatro años de prisión.
+En este caso, el delito de aborto se sancionará, únicamente, cuando se haya consumado.
 
-Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de tres a seis años, y si mediare violencia física o moral de seis a ocho años.
+(NOTA: EL 30 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE DICIEMBRE DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 016, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Si el aborto lo causare un médico, cirujano, comadrona o partera, además de las sanciones que le corresponden conforme al artículo anterior, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
-312.- No es punible el aborto culposo causado por la mujer embarazada, ni cuando el embarazo sea resultado de una violación.
+###### Artículo 311 Bis.
 
-313.- No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+Comete el delito de aborto forzado el que, sin el consentimiento de la mujer o persona con capacidad de gestar, la haga interrumpir el embarazo en cualquier momento de éste, CON O SIN EL CONOCIMIENTO DE LA VÍCTIMA.
+
+Al que cometa el delito de aborto forzado se le aplicarán de tres a seis años de prisión, sea cual fuere el medio que empleare. Si además mediare violencia física o moral, la pena será de seis a diez años de prisión.
+
+Si el aborto lo causare un médico, comadrona o partera, además de las sanciones que le correspondan, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
+
+312. (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2024)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2024)</small>
 
 ### CAPITULO IX. ABANDONO DE PERSONAS
 
@@ -3000,6 +3008,22 @@ Si el aborto lo causare un médico, cirujano, comadrona o partera, además de la
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 316.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono sin prestarle o facilitarle asistencia a la persona a quien atropelló, o le causó un daño similar, será sancionado con la pena de uno a dos años de prisión y multa de cincuenta a cien cuotas, por esta sola circunstancia. Si del abandono resultare la muerte, la sanción será de dos a ocho años de prisión; si resultaren lesiones o algún otro delito, se aplicará la mitad de las sanciones que correspondan a aquéllos.
+
+###### Artículo 313.
+
+Se consideran como excluyentes de delito:
+
+I. Cuando el embarazo sea resultado de una violación, independientemente de que exista o no, denuncia sobre dicho delito previo al aborto;
+
+II. Cuando el embarazo sea resultado de una inseminación artificial no consentida;
+
+III. Cuando de no provocarse el aborto, la mujer embarazada o persona con capacidad de gestar corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista;
+
+IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que pueda dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia de este, siempre que se tenga el consentimiento de la mujer embarazada o persona con capacidad de gestar, o
+
+V. Que sea resultado de una conducta involuntaria de la mujer embarazada o persona con capacidad de gestar.
+
+En los casos contemplados en las fracciones I, II, III y IV, los médicos tendrán la obligación de proporcionar a la mujer embarazada o persona con capacidad de gestar, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que la mujer embarazada o persona con capacidad de gestar pueda tomar la decisión de manera libre, informada y responsable.
 
 ### CAPITULO I. ROBO
 
@@ -4270,3 +4294,13 @@ P.O. 17 DE DICIEMBRE DE 2022.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 016.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, sin perjuicio de lo previsto en el artículo transitorio siguiente.
+
+Artículo segundo. Comuníquese de inmediato este Decreto al Juzgado Tercero de Distrito en atención al requerimiento contenido en el oficio número 34840/2024 por el cual ordena el cumplimiento de la sentencia dictada por el Segundo Tribunal Colegiado del Vigésimo Tercer Circuito, dentro del Amparo en Revisión 23/2024.
+
+Artículo tercero. Se derogan las disposiciones que se opongan al presente Decreto.
