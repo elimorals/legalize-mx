@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-deuda-publica-del-estado-de-durango-y-sus-municipios-451
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-19"
-last_updated: "2016-03-06"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 19 de mayo de 2005.
 
@@ -239,11 +239,11 @@ V. Se informe al Congreso dentro de los cuarenta y cinco días naturales posteri
 
 La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del principal de la deuda contratada conforme al segundo párrafo de este Artículo alcance el 5% (cinco por ciento) de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal correspondiente, la entidad respectiva no podrá disponer nueva deuda al amparo de dicho párrafo sino hasta que transcurran 30 días naturales después de la fecha en que se pague en su totalidad dicho saldo insoluto del principal.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 6-A.
 
-Los créditos de mediano plazo y las líneas de crédito revolvente no podrán ser reestructurados o refinanciados. La contratación, administración y evolución de su situación serán reportados al Congreso en los informes preliminares mensuales o bimestrales de cuenta pública que las entidades remitan a la Entidad de Auditoria Superior del Estado.
+Los créditos de mediano plazo y las líneas de crédito revolvente no podrán ser reestructurados o refinanciados. La contratación, administración y evolución de su situación serán reportados al Congreso en los informes preliminares mensuales o bimestrales de cuenta pública que las entidades remitan a la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 7.
 
@@ -315,9 +315,9 @@ IV. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la c
 
 V. Reestructurar o refinanciar la deuda contraída por el Municipio correspondiente, directamente o como garante o avalista de la deuda contraída por las entidades paramunicipales y celebrar los convenios y contratos que de esas acciones se deriven, previa autorización del Congreso;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2024)</small>
 
-VI. Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar al Congreso sobre la situación que guarda la deuda pública municipal y paramunicipal en cada informe preliminar de cuenta pública que presente ante la Entidad de Auditoria Superior del Estado, sin perjuicio de lo dispuesto por la Ley de Fiscalización Superior del Estado de Durango;
+VI. Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar al Congreso sobre la situación que guarda la deuda pública municipal y paramunicipal en cada informe preliminar de cuenta pública que presente ante la Auditoría Superior del Estado, sin perjuicio de lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Durango;
 
 VII. Constituir al Municipio en garante o avalista de la deuda contraída por las entidades paramunicipales, previa autorización del Congreso;
 
@@ -510,3 +510,11 @@ P.O. 6 DE MARZO DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 067 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 6-A Y 9 DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, EN MATERIA DE ARMONIZACIÓN LEGAL.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
