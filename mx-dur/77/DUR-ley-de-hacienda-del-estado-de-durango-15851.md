@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2023-12-26"
+last_updated: "2024-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -4381,7 +4381,9 @@ En el caso de los recursos para el pago de servicios personales previsto en el F
 
 Cuando las autoridades del Estado y de los municipios, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública en forma inmediata.
 
-Por su parte, cuando la Entidad de Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en la Ley de Coordinación Fiscal, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
+Por su parte, cuando la Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en la Ley de Coordinación Fiscal, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos del Estado, municipios y Organismos Constitucionales Autónomos por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales, en los términos de las leyes federales aplicables.
 
@@ -4720,3 +4722,11 @@ PRIMERO. El presente decreto entrará en vigor el primero de enero de 2024 mismo
 SEGUNDO. La Secretaría General de Gobierno a través de la Subsecretaria de Movilidad y Transportes, actualizará el padrón de vehículos a que se refiere el decreto número 399 publicado en el periódico oficial no. 60 de fecha 27 de julio de 2023, en consecuencia, hasta en tanto no se emitan los lineamientos, este decreto entrará en vigor en lo que se refiere a los impuestos y derechos relacionados con la reforma aludida en el decreto 399 emitido por este Congreso.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 1 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 069 QUE CONTIENE REFORMA AL ARTÍCULO 75, DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
