@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-disciplina-financiera-y-de-responsabilidad-122446"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-25"
-last_updated: "2019-06-23"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de junio de 2017.
 
@@ -59,9 +59,11 @@ La presente Ley es de orden público y de observancia general en todo el Estado 
 
 Son sujetos de esta Ley las dependencias y entidades de la Administración Pública Estatal, los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las Universidades y demás Instituciones de Educación Superior del Estado a las que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local u otras Leyes otorguen también autonomía, así como las dependencias y entidades de las Administraciones Públicas Municipales y las empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta Ley se entenderá por:
 
 I. Asociaciones Público-Privadas: Las previstas en la (sic) Leyes de la materia;
 
@@ -79,7 +81,9 @@ VII. Deuda Estatal Garantizada: El financiamiento de los Entes Públicos con gar
 
 VIII. Deuda Pública: Cualquier financiamiento contratado por los Entes Públicos, destinado únicamente para inversión pública productiva, en ningún caso para cubrir gasto corriente;
 
-IX. EASE: Entidad de Auditoría Superior del Estado, es el órgano del Congreso del Estado con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de la fiscalización de los recursos públicos que ejerzan los poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
+IX. ASE: Auditoría Superior del Estado, es el órgano del Congreso del Estado con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de la fiscalización de los recursos públicos que ejerzan los poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público.
 
 X. Entes públicos: Las dependencias y entidades de la Administración Pública Estatal, los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las Universidades y demás Instituciones de Educación Superior del Estado a las que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local u otras Leyes otorguen también autonomía, así como las dependencias y entidades de las Administraciones Públicas Municipales y las empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
@@ -807,9 +811,11 @@ Para el registro de las operaciones presupuestarias y contables, los entes públ
 
 Los estados financieros y demás información programática, presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en la Ley de Presupuesto de Egresos del Estado, serán consolidados por la Secretaría, la que será responsable de formular la Cuenta Pública Anual del Estado y someterla a la consideración del Gobernador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 81.
 
-Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. Previamente, los entes obligados deberán entregar a la Entidad de Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y el desempeño gubernamental, en los términos que disponga la ley.
+Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al ejercicio fiscal anual que será objeto de fiscalización. Previamente, los entes obligados deberán entregar a la Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y el desempeño gubernamental, en los términos que disponga la ley.
 
 En el caso de la Cuenta Pública que remita el Ejecutivo sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura.
 
@@ -910,3 +916,11 @@ P.O. 23 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 068 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 2 Y 81, DE LA LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
