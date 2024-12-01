@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2023-11-30"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -729,7 +729,9 @@ Los importes derivados de la retención serán entregados mensualmente al Sistem
 
 La entrega del importe recaudado se realizará conforme a los lineamientos específicos que emita para tal efecto la Secretaría.
 
-Los recursos derivados de las retenciones que reciba el Sistema para el Desarrollo Integral de la Familia en el Estado, estarán sujetos a la fiscalización que realice la Entidad de Auditoría Superior del Estado, en concordancia de lo establecido en la Ley de Fiscalización Superior del Estado de Durango, para lo cual se rendirán los informes correspondientes sobre el ejercicio de los mismos.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
+Los recursos derivados de las retenciones que reciba el Sistema para el Desarrollo Integral de la Familia en el Estado, estarán sujetos a la fiscalización que realice la Auditoría Superior del Estado, en concordancia de lo establecido en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Durango, para lo cual se rendirán los informes correspondientes sobre el ejercicio de los mismos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
@@ -1284,5 +1286,13 @@ P.O. 30 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 505 QUE CONTIENE REFORMA AL ARTÍCULO 58 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 065.- QUE CONTIENE REFORMA AL ARTÍCULO 41 QUATER, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
