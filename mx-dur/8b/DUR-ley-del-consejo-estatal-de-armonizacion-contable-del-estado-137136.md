@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-consejo-estatal-de-armonizacion-contable-del-estado-137
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-23"
-last_updated: "2019-06-23"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 50 del Periódico Oficial del Estado de Durango, el domingo 23 de junio de 2019.
 
@@ -143,6 +143,8 @@ El CEAC es un órgano de coordinación interinstitucional cuyo objeto es coadyuv
 
 La organización y funcionamiento del CEAC se regirá por lo dispuesto en la presente Ley, el Reglamento, y en los acuerdos que el propio consejo apruebe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 7.
 
 Serán integrantes del CEAC con derecho a voz y voto:
@@ -153,7 +155,9 @@ II. El Subsecretario de Egresos de la Secretaría de Finanzas y de Administraci�
 
 III. El Titular de la Secretaría de Contraloría;
 
-IV. El Titular de la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
+IV. El titular de la Auditoría Superior del Estado;
 
 V. El Titular del Instituto para el Desarrollo Municipal del Estado de Durango;
 
@@ -225,6 +229,8 @@ XIV. Llevar un registro de los actos que los sujetos obligados efectúen ante el
 
 XV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
 Son facultades de los miembros del CEAC:
@@ -257,6 +263,8 @@ XII. Gestionar la asignación de subsidios del fondo concursable para el financi
 
 XIII. Cumplir y vigilar el cumplimiento del objeto del presente ordenamiento, la Ley General, las Reglas, el Reglamento, y las demás disposiciones aplicables en la materia.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2024)</small>
+
 b) Del Secretario Técnico:
 
 I. Por instrucción del Presidente, enviar a los miembros del CEAC las convocatorias a las sesiones;
@@ -273,7 +281,9 @@ VI. Durante el primer trimestre del año, formular y proponer al CEAC el PAT, pa
 
 VII. Proponer y difundir las normas e instrumentos en materia contable, presupuestal y programática, en el ámbito estatal o municipal, así como establecer los lineamientos para solicitar a los Sujetos obligados, informes trimestrales sobre los avances en materia de armonización contable;
 
-VIII. Rendir informes periódicos al CEAC sobre el avance, seguimiento y evaluación del desempeño del PAT, programas o acciones de la armonización contable. Estos informes deberán estar previamente validados por la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
+VIII. Rendir informes periódicos al CEAC sobre el avance, seguimiento y evaluación del desempeño del PAT, programas o acciones de la armonización contable. Estos informes deberán estar previamente validados por la Auditoría Superior del Estado;
 
 IX. Asesorar a los Sujetos obligados en la instrumentación del proceso de armonización contable y la interpretación de la Ley;
 
@@ -382,3 +392,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIAN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 068 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 2 Y 81, DE LA LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO. La presente reforma entrará en vigor al dia siguiente al de su publicación en el Perródico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
