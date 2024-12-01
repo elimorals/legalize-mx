@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "2023-06-04"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -407,7 +407,9 @@ Los estados financieros y demás información financiera presupuestal y contable
 
 Los municipios, a través de sus ayuntamientos, aprobarán libremente sus Presupuestos de Egresos para el Ejercicio Fiscal que corresponda, pero dicho presupuesto deberá seguir en lo general, las mismas reglas establecidas por esta Ley respecto de la conformación del Presupuesto de Egresos del Estado; dichos presupuestos deberán ser presentados ante el Congreso del Estado junto con la iniciativa que contenga la Ley de Ingresos para el ejercicio fiscal siguiente; además, en el mismo presupuesto cada uno de los Ayuntamientos deberán destinar cuando menos el 1% de su presupuesto de ingresos anual de libre disposición, a fin de crear un fondo para el pago de laudos laborales, dicho fondo deberá reflejarse en sus registros contables, y al término de la administración al momento de hacer la entrega recepción, se deberá incluir esta información expresamente en el acta, así como en los estados bancarios del mismo.
 
-Al momento de que la Secretaría de Finanzas y Administración del Gobierno del Estado, publique en el Periódico Oficial del Gobierno del Estado de Durango, las participaciones y aportaciones de cada uno de los municipios, estos deberán adecuar sus presupuestos de egresos y desde ese momento destinar el monto de cuando menos el 1% de sus ingresos de libre disposición, en base a los períodos en los que reciban las participaciones y aportaciones federales, y al momento de depositar dicho monto se deberá hacer también lo correspondientes (sic) sobre sus ingresos de derechos, contribuciones de mejoras, impuestos, productos y aprovechamientos, a fin de que dicha cantidad vaya generando rendimientos; estas modificaciones, el ayuntamiento las deberá notificar al Congreso del Estado de Durango, así como a la Entidad de Auditoria Superior del Estado.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2024)</small>
+
+Al momento de que la Secretaría de Finanzas y Administración del Gobierno del Estado, publique en el Periódico Oficial del Gobierno del Estado de Durango, las participaciones y aportaciones de cada uno de los municipios, estos deberán adecuar sus presupuestos de egresos y desde ese momento destinar el monto de cuando menos el 1% de sus ingresos de libre disposición, en base a los períodos en los que reciban las participaciones y aportaciones federales, y al momento de depositar dicho monto se deberá hacer también lo correspondientes (sic) sobre sus ingresos de derechos, contribuciones de mejoras, impuestos, productos y aprovechamientos, a fin de que dicha cantidad vaya generando rendimientos; estas modificaciones, el ayuntamiento las deberá notificar al Congreso del Estado de Durango, así como a la Auditoria Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
@@ -636,3 +638,11 @@ P.O. 4 DE JUNIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a la presente (sic).
+
+P.O. 1 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 070 QUE CONTIENE REFORMA AL ARTÍCULO 45, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
