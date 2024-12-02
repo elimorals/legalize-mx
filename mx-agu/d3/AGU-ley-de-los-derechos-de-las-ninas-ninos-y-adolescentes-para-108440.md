@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-09-23"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -391,9 +391,9 @@ XIX. Derechos de niñas, niños y adolescentes migrantes;
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radio- difusión;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de estos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia del menor;
+XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de éstos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia de la niña, niño o adolescente;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -659,11 +659,15 @@ Toda persona que encontrare una niña, niño o adolescente en estado de indefens
 
 Los centros de asistencia social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar sólo podrán recibir niñas, niños y adolescentes por disposición de la Procuraduría de Protección Local correspondiente o de autoridad competente.
 
-Niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+Niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de las niñas, niños o adolescentes. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
 
 El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema DIF Estatal a través de su Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, levanten la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente.
 
-Se considera expósito a la persona menor de edad que es colocada en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a una persona menor de edad cuyo origen se conoce, se considerará abandonado.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+Se considera expósito de niñas, niños o adolescentes a la persona que es colocada en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a niñas, niños o adolescentes cuyo origen se conoce, se considerará abandonado.
 
 Durante el término referido se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez.
 
@@ -969,9 +973,9 @@ Las niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ám
 
 Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza positiva de la madre, el padre, de quienes ejerzan la patria potestad, tutela o guarda y custodia o de cualquier otra persona que los tenga a su cuidado, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, estos puedan hacer uso del castigo corporal y humillante.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-Las niñas, niños y adolescentes, tienen derecho a no sufrir violencia física o psicoemocional; a consecuencia, de ser utilizados como un medio, para ejercer violencia vicaria contra alguno de los progenitores de las personas menores de edad.
+Las niñas, niños y adolescentes, tienen derecho a no sufrir violencia física o psicoemocional; a consecuencia, de ser utilizados como un medio, para ejercer violencia vicaria contra alguno de los progenitores de las niñas, niños y adolescentes.
 
 ###### Artículo 47.
 
@@ -985,7 +989,9 @@ II. La corrupción de personas menores de dieciocho años de edad;
 
 III. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
 
-IV. El tráfico de menores;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+IV. El tráfico de niñas, niños o adolescentes;
 
 V. La tortura, tratos crueles, inhumanos o degradantes;
 
@@ -1777,9 +1783,9 @@ XI. Educar y supervisar en el conocimiento y uso responsable de las tecnologías
 
 XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, las conductas y hábitos para que no afecten el desarrollo integral de niñas, niños y adolescentes en el ejercicio de los derechos que esta Ley y otros ordenamientos les confiere, siempre que se atienda al interés superior de la niñez;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida del menor;
+XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida de las niñas, niños y adolescentes.
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -2513,7 +2519,9 @@ Dentro de las cuarenta y ocho horas siguientes a la recepción de las solicitude
 
 VIII. Presentar de forma inmediata a la Procuraduría de Protección Local, las denuncias y solicitudes en las que sean necesarias medidas de protección porque exista riesgo inminente contra la vida, integridad o libertad niñas, niños y adolescentes;
 
-IX. Dar seguimiento a las medidas de protección ordenadas por las autoridades competentes, que recaigan sobre menores de edad habitantes del Municipio correspondiente;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+IX. Dar seguimiento a las medidas de protección ordenadas por las autoridades competentes, que recaigan sobre niñas, niños y adolescentes habitantes del Municipio correspondiente;
 
 X. Promover la participación de los sectores público, social y privado de los Municipios, en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
@@ -3256,3 +3264,11 @@ P.O. 23 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 29.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
