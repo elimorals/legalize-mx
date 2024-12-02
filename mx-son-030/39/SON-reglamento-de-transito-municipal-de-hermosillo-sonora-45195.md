@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2024-08-29"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -441,31 +441,35 @@ II.- Para los vehiculos con peso mayor al anterior, la distancia deberá ser de 
 
 Cuando las condiciones sean adversas, que limiten la visibilidad o hagan difícil la conducción de vehículos; se deberá aumentar esta distancia de acuerdo a las circunstancias. Todo accidente causado por no guardar la distancia será responsabilidad de quien no cumpla con este ordenamiento. Se exceptúa de lo anterior el caso en el que se compruebe que el vehiculo golpeado entró en forma repentina proveniente de otra calle o carril colocándose adelante del que lo golpea sin darle tiempo a guardar la distancia o bien que se encontraba con la marcha detenida sobre el carril de circulación de un desperfecto mecánico y no se cumplió con la obligación de señalizar tal situación a los demás conductores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-Conforme a las facultades de aplicación que otorga a los municipios la Ley General de Movilidad y Seguridad Vial, se prohíbe sin excepción la circulación en las vías generales de comunicación de jurisdicción municipal a los vehículos de autotransporte que excedan el peso máximo, ya sea por tipo de eje o por peso bruto vehicular, y/o que excedan las dimensiones máximas (largo, ancho y/o alto) permitidas, según clase de vehículo y, tomando de referencia el tipo de camino A4 y A2, conforme a la Norma Oficial Mexicana NOM-012-SCT-2-2017, sobre el peso y dimensiones máximas con los que pueden circular los vehículos de autotransporte que transitan en las vías generales de comunicación de jurisdicción federal.
+Conforme a las facultades otorgadas a los municipios por la Ley General de Movilidad y Seguridad Vial en relación a la supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades, la circulación en las vías de jurisdicción municipal se sujetará a lo siguiente:
 
-> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+I. Se prohíbe, sin excepción, la internación y circulación de unidades vehiculares que excedan el peso bruto vehicular máximo o dimensiones máximas autorizadas (largo, ancho y/o alto), para cada caso y tipo, en la Norma Oficial Mexicana NOM-012-SCT-2-2017 y en las demás normas aplicables.
 
-Las unidades vehiculares tipo góndola o madrina, de conformidad a la Norma Oficial Mexicana NOM-012-SCT-2-2017, que transitan en vías generales de comunicación de jurisdicción federal, cuyo peso bruto vehicular sea superior a las 13 toneladas o cuyo largo sea superior a los 12.5 metros, y que requieran internarse a las vías generales de comunicación de jurisdicción municipal, deberán contar con el complemento Carta Porte que especifique expresamente al municipio de Hermosillo como parte de su ruta, y obtener y portar el permiso de circulación correspondiente expedido por la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, el cual establecerá las vías en las que se le autoriza circular, y solo serán permitidas en el horario comprendido de las 22:00 horas a 5:00 horas.
+II. Las unidades vehiculares cuyo peso bruto vehicular sea superior a 13 toneladas, cuyo largo exceda los 12.5 metros, o cuenten con más de dos ejes, solo podrán ingresar y circular en las zonas y vías municipales autorizadas, cumpliendo los siguientes requisitos:
 
-> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+A. Contar con el complemento Carta Porte que especifique expresamente al municipio de Hermosillo como origen o destino de ruta; y
 
-Los vehículos de carga a que hace referencia el párrafo anterior, en cuanto al tránsito interno local, sólo podrán circular con permiso, quedando prohibido hacerlo en horarios de 06:30 a 9:00 horas, de 13:00 a 15:00 horas y de 17:30 a 20:30 horas.
+B. Obtener y portar la autorización de circulación correspondiente, expedida por la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, la cual establecerá las zonas y/o vías autorizadas y limitará su tránsito al horario comprendido entre las 22:00 horas y las 5:00 horas.
 
-> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
+III. Se prohíbe el ingreso a las vías generales de comunicación de jurisdicción municipal a las unidades vehiculares cuyo peso bruto vehicular sea superior a 13 toneladas, cuyo largo exceda los 12.5 metros, o que cuenten con más de dos ejes, que no cuenten con el complemento Carta Porte o que este no especifique expresamente al municipio de Hermosillo como origen o destino. Estas unidades vehiculares deberán utilizar los libramientos existentes como rutas alternas.
 
-Además, el tránsito de vehículos de carga, así como las maniobras de carga y descarga de los vehículos con las características contenidas en el párrafo primero deberán sujetarse a las restricciones de circulación de vialidades y horarios previstos en este y en otros ordenamientos legales.
+IV. Los vehículos destinados a actividades de carga y descarga dentro del perímetro urbano del municipio de Hermosillo, que transporten bienes y mercancías entre diferentes puntos locales, o realicen maniobras de carga y descarga sin salir de la jurisdicción municipal, deberán contar con la autorización respectiva expedida por la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública. Además, la circulación y las maniobras de cargas y descargas de estas unidades vehiculares estará prohibida dentro de los siguientes horarios:
 
-> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
+A. De 06:30 a 9:00 horas;
 
-En todo caso, el tránsito por las vialidades de la ciudad de Hermosillo y la carga y descarga dentro del perímetro urbano de los vehículos con las características contenidas en el párrafo primero solo serán permitidas en el horario comprendido de las 21:00 horas a las 6:00 horas del día siguiente.
+B. De 13:00 a 15:00 horas; y
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+C. De 17:30 a 20:30 horas.
 
-El incumplimiento de lo dispuesto en este artículo será sancionado conforme a lo establecido en la Ley de Ingresos correspondiente.
+V. Se prohíbe la circulación de unidades vehiculares que transporten materiales, sustancias o residuos peligrosos, salvo aquellos cuyo origen o destino sea el municipio de Hermosillo, quienes deberán sujetarse a las rutas y horarios establecidos en las autorizaciones que para el efecto expida la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública.
+
+El incumplimiento de las disposiciones establecidas en el presente artículo será sancionado conforme a lo dispuesto en la Ley de Ingresos vigente, y podrá incluir multas, así como la detención y remisión del vehículo al depósito vehicular mediante el uso de equipo de grúas.
+
+En caso de infracción a lo dispuesto en la fracción IV, cuando las maniobras de carga y descarga se realicen dentro del primer cuadro de la ciudad, delimitado por las vialidades Rosales, Bulevar Encinas, Jesús García y No Reelección, el monto de las multas se incrementará en un cien por ciento.
 
 ###### ARTÍCULO 15.
 
@@ -1365,11 +1369,11 @@ Las y los propietarios de vehículos son responsables solidarios del pago de mul
 
 Cuando la o el infractor viole varias disposiciones de la Ley General de Movilidad y Seguridad Vial, de la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, y de este reglamento, con actos y tiempos diversos o con acciones continuas, se les aplicarán las sanciones correspondientes a dichas violaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 63.
 
-Las sanciones por faltas o violaciones a la Ley General de Movilidad y Seguridad Vial, a la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, y al presente reglamento, consistirán en:
+Las sanciones por faltas o violaciones a la Ley General de Movilidad y Seguridad Vial, a la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, la Ley de Transporte para el Estado de Sonora y el presente reglamento consistirán en:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
@@ -1417,9 +1421,9 @@ G).- Por haber sido infraccionada la o el titular de la licencia, en más de tre
 
 En caso de suspensión o cancelación de la licencia de conducir se dará aviso a la Agencia Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 2 DE DICIEMBRE DE 2024)</small>
 
-IV.- DETENCIÓN DE VEHÍCULOS.- Las y los policías de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, deberán impedir que el vehículo continúe transitando y remitirlo al depósito de vehículos, utilizando equipo de grúas en los siguientes casos:
+IV.- DETENCIÓN DE VEHÍCULOS.- Las y los policías de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, deberán impedir que el vehículo continúe transitando y remitirlo al depósito vehicular mediante el uso de equipo de grúas en los siguientes casos:
 
 > <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
@@ -1447,17 +1451,37 @@ I).- Por conducir un vehículo que arroje humo ostensiblemente contaminante, o e
 
 J).- En caso de accidente o delito.
 
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2024)</small>
+
+K).- Por orden de autoridad judicial;
+
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2024)</small>
+
+L).- Por prestar servicio público o privado de transporte de carga o pasaje sin concesión o permiso;
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2024)</small>
+
+M).- Por conducir unidades vehiculares que excedan el peso bruto vehicular máximo o dimensiones máximas autorizadas (largo, ancho y/o alto), para cada caso y tipo, conforme a la Norma Oficial Mexicana NOM-012-SCT-2-2017 y en las demás normas aplicables; y
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 2 DE DICIEMBRE DE 2024)</small>
+
+N).- Por conducir unidades vehiculares cuyo peso bruto vehicular exceda las 13 toneladas, cuya longitud supere los 12.5 metros, o que cuenten con más de dos ejes, en los siguientes casos:
+
+a) No porte el complemento Carta Porte;
+
+b) Que el complemento Carta Porte no especifique expresamente al municipio de Hermosillo como origen o destino;
+
+c) No cuente con la autorización de circulación correspondiente expedida por la Jefatura de Policía Preventiva y Tránsito Municipal;
+
+d) No cumpla con el horario de circulación autorizado; o
+
+e) Por realizar maniobras de carga y descarga en la vía pública, en los horarios prohibidos o sin la autorización correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE DICIEMBRE DE 2024)</small>
+
+V.- MULTA.- Se impondrán las multas en los términos de la Ley General de Movilidad y Seguridad Vial, la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, la Ley de Transporte para el Estado de Sonora y la Ley de Ingresos vigente del Municipio del Hermosillo para el ejercicio fiscal correspondiente.
+
 > <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
-
-K).- Por orden de autoridad judicial; y
-
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
-
-L).- Por prestar servicio público o privado de transporte de carga o pasaje sin concesión o permiso.
-
-> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
-
-V.- MULTA.- Se impondrán las multas en los términos de la Ley de Tránsito del Estado de Sonora y de Ingresos y Presupuesto de Ingresos del Municipio del Hermosillo para el ejercicio fiscal correspondiente.
 
 En el caso de conducta reiterada por multa por conducción de vehículos en estado de ebriedad o bajo los influjos de las drogas o sustancias tóxicas, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -2218,3 +2242,9 @@ B.O. 29 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DE LA "REFORMAS Y ADICIONES AL REGLAMENTO DE TRÁNSITO MUNICIPAL, AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DIRECTA DEL H. AYUNTAMIENTO DE HERMOSILLO, AL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL DE PLANEACIÓN URBANA DE HERMOSILLO Y DEL ESPACIO PÚBLICO, AL ACUERDO DE CREACIÓN DEL CONSEJO MUNICIPAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA DEL AYUNTAMIENTO, AL REGLAMENTO DE DESARROLLO URBANO Y DEL ESPACIO PÚBLICO, AL ACUERDO DE CREACIÓN DEL ORGANISMO OPERADOR MUNICIPAL DENOMINADO AGUA DE HERMOSILLO, AL ACUERDO DE CREACIÓN DE LA AGENCIA MUNICIPAL DE ENERGÍA Y CAMBIO CLIMÁTICO DE HERMOSILLO, CON LA FINALIZAD DE ARMONIZARLOS CON LAS DISPOSICIONES DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL Y CON LA LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE SONORA; ASIMISMO LA EMISIÓN DEL REGLAMENTO DEL SISTEMA DE MOVILIDAD Y SEGURIDAD VIAL DE HERMOSILLO".]
 
 ÚNICO. Las reformas, adiciones y derogaciones de diversas disposiciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL REGLAMENTO DE TRÁNSITO MUNICIPAL".]
+
+Único. Las reformas al presente reglamento entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
