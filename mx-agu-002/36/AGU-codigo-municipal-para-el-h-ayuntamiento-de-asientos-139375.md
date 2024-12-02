@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2024-06-03"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2459,6 +2457,10 @@ XIII. Dirección de la Juventud y el Deporte;
 
 XIV. Dirección de Turismo, Cultura y Desarrollo Económico.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+XV. Dirección de Desarrollo Urbano y Asentamientos Humanos Irregulares
+
 ###### ARTÍCULO 222°.
 
 Cada una de las dependencias administrativas integrantes de la Administración Pública Municipal, tendrán la competencia, facultades y atribuciones señaladas en el presente Código, así como en las demás disposiciones jurídicas aplicables y contará además con la estructura orgánica señalada en el presente ordenamiento y contará con el número de servidores públicos necesarios para realizar su función.
@@ -2475,6 +2477,8 @@ Las dependencias administrativas deberán de llevar a cabo sus funciones en form
 
 Las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
 
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
 I. De la Oficina del Presidente Municipal:
 
 a) Secretaría Particular;
@@ -2483,11 +2487,11 @@ b) Secretaria;
 
 c) Sindicatura Municipal;
 
-a) Departamento de Resguardo de Píe Mostrenco;
+d) Departamento de Resguardo de Píe Mostrenco;
 
-d) Coordinador de Asesores y Asesores.
+e) Coordinador de Asesores y Asesores.
 
-e) Coordinación de Gestión
+f) Coordinación de Gestión
 
 II. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
@@ -2517,9 +2521,9 @@ k) Delegados, Comisarios y Jefe de Pueblo;
 
 l) Comités Comunitarios de Planeación, Gestión y Participación Comunitaria.
 
-(ADICIONADO, P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-m) Asuntos Internos de Seguridad Pública.
+m) Dirección de Asuntos Internos de Seguridad Pública.
 
 1. Delegaciones:
 
@@ -2725,13 +2729,19 @@ d) Departamento de Parque Vehicular.
 
 XI. Dirección de Planeación y Obras Públicas:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
+
 a) Subdirección de Planeación y Obras Públicas;
 
-b) Departamento de Planeación y Desarrollo Urbano;
+b) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 c) Departamento de Proyectos y Supervisión de Obras;
 
-d) Asesor de Planeación y Obras Públicas.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+d) Asesor de Obras Públicas.
 
 XII . Dirección de Agua Potable, Alcantarillado y Ecología:
 
@@ -2769,6 +2779,18 @@ XVI. Dirección de Turismo
 
 a) Subdirección de Turismo
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+XVI (SIC). Dirección de Planeación, Desarrollo Urbano y Asentamientos Humanos Irregulares;
+
+a) Subdirección de Planeación y Asentamientos Humanos Irregulares
+
+b) Jurídico para la Regularización de Asentamientos Humanos Irregulares.
+
+c) Supervisor
+
+d) Secretaria Técnica
+
 XVII. Dirección de Cultura
 
 a) Subdirección de Cultura
@@ -2788,6 +2810,10 @@ XV (SIC).- Dirección de Instancia Municipal de las Mujeres;
 Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Cívico y en el caso de Director de Seguridad Pública coordinarse con el ejecutivo estatal cuando aplique el mando único.
 
 El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto (sic) que se trate.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia moral y notoria buena costumbre.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
@@ -3931,13 +3957,35 @@ XI. Las demás que determine el presente Código y las demás disposiciones jur�
 
 ### CAPÍTULO III. De la Dirección de Planeación y Obras Públicas
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 268°.
 
-Corresponde a la Dirección (sic) Planeación y Obras Públicas:
+Corresponde a la Dirección de Obras Públicas:
 
-A) En materia de Planeación y Desarrollo Urbano:
+A) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+B) En materia de obra pública:
+
+I. Ejecutar el Programa Anual de Inversión Pública en materia de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal y de acuerdo al Plan de Desarrollo Municipal;
+
+II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
+
+III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas;
+
+IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
+
+V. Asesorar técnicamente a los Comités Vecinales y/o Comités de Desarrollo Comunitario que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+
+VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y.
+
+VII. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 268° BIS.- Corresponde a la Dirección de Planeación, Desarrollo Urbano y Asentamientos Humanos Irregulares:
 
 I. Colaborar en la integración del proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
 
@@ -3993,23 +4041,7 @@ XXVI. Expedir normas técnicas complementarias para el debido cumplimiento en lo
 
 XXVII. Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
 
-XXVIII. Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
-
-B) En materia de obra pública:
-
-I. Ejecutar el Programa Anual de Inversión Pública en materia de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal y de acuerdo al Plan de Desarrollo Municipal;
-
-II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
-
-III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas;
-
-IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
-
-V. Asesorar técnicamente a los Comités Vecinales y/o Comités de Desarrollo Comunitario que lo requieran, en lo concerniente a la realización de obras públicas municipales;
-
-VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y.
-
-VII. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXVIII. Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -9409,29 +9441,133 @@ XIII. Ser considerados para formar parte de la plantilla docente de capacitació
 
 ### CAPÍTULO XIII. De la Comisión de Honor y Justicia
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 920°.
 
-(DEROGADO, P.O. 22 DE ABRIL DE 2024)
+La Comisión de Honor y Justicia es un órgano colegiado, con plena autonomía en sus resoluciones para el adecuado cumplimiento y desarrollo de sus atribuciones, tiene por objeto vigilar la honorabilidad y buena reputación de los Integrantes; combatir la comisión de conductas lesivas en agravio de la sociedad o de las instituciones de gobierno. Por lo que conocerá y resolverá todo asunto relativo al régimen disciplinario, del procedimiento y las sanciones que de ello derive, bajo los principios establecidos en la Constitución, la Ley General, el presente Código y el Reglamento del Servicio Profesional de Carrera Policial del Municipio de Asientos, con apego a los derechos humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 921°.
 
-(DEROGADO, P.O. 22 DE ABRIL DE 2024)
+La Comisión de Honor y Justicia depende jerárquicamente del Secretario del H. Ayuntamiento y debe de actuar en coordinación con el Director de Seguridad Pública para proteger los intereses de la sociedad y salvaguardar la tranquilidad y el orden público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 922°.
 
-(DEROGADO, P.O. 22 DE ABRIL DE 2024)
+La Comisión de Honor y Justicia, se integrará de la siguiente forma:
+
+I. Un Presidente que será designado por el Presidente Municipal Constitucional, quien tendrá voto de calidad.
+
+II. Un Secretario Técnico que será designado por el presidente de la Comisión de Honor, quien deberá ser Licenciado en Derecho.
+
+III. Dos Vocales Técnicos:
+
+a) Un representante de los mandos de la Institución Policial
+
+b) Un representante del personal operativo de la Institución Policial de reconocida experiencia, buena solvencia moral y destacada en sus funciones
+
+IV. Tres vocales que serán los representantes de las siguientes áreas:
+
+a) Recursos humanos o área administrativa equivalente.
+
+b) Servicio Profesional de Carrera o área administrativa equivalente.
+
+c) Órgano Interno de Control o equivalente.
+
+V. Dirección de Asuntos Internos de Seguridad Pública.
+
+Todos los integrantes de la Comisión de Honor tendrán derecho a voz y voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 923°.
 
-(DEROGADO, P.O. 22 DE ABRIL DE 2024)
+Para ser Director de asuntos internos se requiere cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos y tener residencia efectiva en el Municipio por más de tres años consecutivos anteriores a la fecha de designación;
+
+II. Tener cuando menos 25 años cumplidos al día de la designación;
+
+III. Ser Licenciado en Derecho, Criminología, Criminalista o carrera afín con cedula y título correspondiente;
+
+IV. No contar con antecedentes penales; y (sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 924°.
 
-(DEROGADO, P.O. 22 DE ABRIL DE 2024)
+Son atribuciones del Director de asuntos internos:
+
+I. Recibir las denuncias, quejas, acusaciones presentadas en relación con la actividad de los integrantes de la Secretaría de Seguridad Pública y Tránsito Municipal. Así mismo, iniciará el procedimiento de investigación cuando se pretenda condecorar o rendir homenaje a algún integrante operativo de la Secretaría de Seguridad Pública y Tránsito Municipal por actos destacados en la prestación del servicio;
+
+II. Realizar las investigaciones que correspondan, ya sea de oficio o a petición de cualquier persona, a efecto de determinar la existencia de conductas violatorias a los principios de actuación, así como la Presunto responsabilidad de algún integrante, ya sea en servicio, con motivo del mismo o fuera de él;
+
+III. Dar vista a la autoridad competente, cuando se tenga conocimiento de hechos que puedan presumir la existencia de un delito o falta administrativa, en los términos del Código Nacional de Procedimientos Penales, Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes, Ley del Procedimiento Administrativo del Estado de Aguascalientes y demás disposiciones aplicables así como proporcionar asesoría y orientación al ciudadano con respecto a la situación jurídico administrativa;
+
+IV. En caso de estimarse necesario, actuar en coordinación con la Comisión de Honor y Justicia, en los procedimientos por los hechos meritorios o demeritorios que realicen los integrantes operativos de Seguridad Pública;
+
+V. Realizar los análisis y estudios que permitan medir los índices de faltas a los principios de actuación y obligaciones de indisciplina en la corporación de la Secretaría de Seguridad Pública Municipal;
+
+VI. Implementar y ejecutar los controles, programas y estrategias necesarios para prevenir la violación a los principios de actuación, obligaciones y la mala actuación entre los miembros del cuerpo operativo de Seguridad Pública Municipal;
+
+VII. Analizar e investigar las solicitudes que le envíen, cuya finalidad sea el otorgar algún tipo de reconocimiento o condecoración a los cuerpos de la Secretaría de Seguridad Pública Municipal, en la cual deberá en todo momento, verificar los antecedentes en el desempeño de sus funciones;
+
+VIII. En el procedimiento administrativo, dependiendo de la gravedad de la presunta falta y las circunstancias que motivaron la queja, solicitar la reubicación provisional del integrante operativo, a efecto de salvaguardar la integridad física del quejoso, así como la debida integración del procedimiento administrativo;
+
+IX. La Dirección de Asuntos Internos de Seguridad Publica, deberá practicar las diligencias necesarias, así como solicitar informes, documentos y cualquier otro dato relacionado con los hechos, a las Dependencias Municipales, además de requerir a quien o a quienes puedan tener conocimiento en el procedimiento, a efecto de completar, aclarar o precisar los hechos que se investigan, éstas tienen la obligación de aportarla, siempre y cuando dicha solicitud esté fundada y motivada;
+
+X. Practicar visitas de vigilancia o inspección para cerciorarse del cumplimiento a los principios de actuación y deberes señalados en el presente Código Municipal y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de Asientos;
+
+XI. Elaborar manuales de procedimientos y prácticas, así como los programas de inspección a los cuales deberán apegarse la Dirección de Asuntos Internos de Seguridad Pública;
+
+XII. Mantener un registro de las quejas, denuncias e investigaciones seguidas ante la Dirección de Asuntos Internos de Seguridad Pública y Tránsito por un periodo de cinco años a partir de interpuesta la queja o de iniciada de oficio, que deberá contener el nombre, cargo, número de expediente del integrante sujeto a investigación, faltas imputadas, numero de investigación y, en su caso, la resolución dictada, debiendo informar en forma mensual al Secretario del H. Ayuntamiento;
+
+XIII. Vigilar que los mandos e integrantes operativos de la Secretaría de Seguridad Pública cumplan con los convenios de coordinación para la realización de acciones y evaluaciones en torno a los programas Estatal y Nacional de Seguridad Pública;
+
+XIV. Operar el sistema de registro y seguimiento de ex policías municipales y ex agentes de tránsito;
+
+XV. Prestar apoyo y testimonio al Director de Seguridad Publica y Movilidad del Municipio de Asientos en los procesos de evaluación del desempeño de integrantes en activo, así como la aplicación de exámenes médicos, toxicológicos, psicológicos, de polígrafo, de control patrimonial y entorno social. De estimarse necesario, aplicar pruebas diversas de control de confianza en general y específicas cuando se haya iniciado alguna investigación;
+
+XVI. A efecto de hacer cumplir sus determinaciones, podrá imponer medidas de apremio consistentes en apercibimiento, multa, uso de la fuerza pública y arresto hasta por treinta y seis horas. Tratándose de integrantes operativos el arresto será sin detrimento del servicio, dichas medidas serán ordenadas a ejecutar por el Director de Seguridad Publica y Movilidad del Municipio de Asientos a través de un oficio emitido por la Dirección de Asuntos Internos fundado y motivado;
+
+XVII. Delegar sus facultades al personal a su cargo de la Dirección de Asuntos Internos de Seguridad Publica por necesidades del servicio;
+
+XVIII. La Dirección de Asuntos Internos de Seguridad Publica, tiene facultad para citar al Presunto responsable señalándole el día y hora para que comparezca a hacer uso de su derecho de audiencia y defensa, informándole para tal efecto la conducta que se le imputa y, en su caso, las personas que interponen queja en su contra, así como las pruebas que existan en actuaciones;
+
+XIX. Radicar e investigar los hechos motivo de una queja, integrando el expediente y realizando la consignación ante la Comisión de Honor y Justicia, en términos de lo establecido en el Reglamento; y
+
+XX. Allegarse de los elementos jurídicos y de prueba, necesarios que acrediten la existencia de la violación denunciada a los principios de actuación y la Presunta responsabilidad de algún integrante operativo en su comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 925°.
 
-(DEROGADO, P.O. 22 DE ABRIL DE 2024)
+En el procedimiento administrativo, la Dirección de Asuntos Internos de Seguridad Publica, deberá admitir y desahogar como medios de prueba, todas aquellas que no atenten en contra de la ley, el derecho, la moral y las buenas costumbres. Para tal efecto, serán válidas como pruebas las siguientes:
+
+I. Los Documentos Públicos;
+
+II. Los Documentos Privados;
+
+III. Los dictámenes Judiciales;
+
+IV. El Reconocimiento o Inspección Judicial;
+
+V. Los Testigos;
+
+VI. La ratificación de firma y contenido de documentos;
+
+VII. Fotografías, copias fotostáticas, grabaciones en disco, casetes, cinta, video o cualquier otro tipo de reproducción, la información generada o comunicada que conste en medios electrónicos ópticos o en cualquier otra tecnología y en general todos aquellos elementos aportados por los descubrimientos de la ciencia y tecnología.
+
+VIII. Las presunciones;
+
+IX. Reconocimiento de personas;
+
+X. La Identificación Fotográfica; y
+
+XI. Aquellas establecidas y señaladas en el apartado de pruebas del Código Nacional de Procedimientos Penales.
 
 ###### ARTÍCULO 926°.
 
@@ -18924,6 +19060,14 @@ Artículo Segundo.- Se tendrá un plazo de 30 días para rectificar los nombrami
 P.O. 22 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS, AGUASCALIENTES”.]
+
+PRIMERO.- Las reformas al presente Código Municipal, entrará (sic) en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código Municipal.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL PARA ASIENTOS".]
 
 PRIMERO.- Las reformas al presente Código Municipal, entrará (sic) en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
