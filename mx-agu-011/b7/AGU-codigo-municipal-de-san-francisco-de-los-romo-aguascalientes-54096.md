@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2024-04-08"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -662,6 +662,10 @@ VII.- D.I.F. Municipal, Equidad y Género;
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 VIII.- Seguridad Pública y Movilidad Municipal, y Protección Civil
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+IX.- Asuntos Migratorios.
 
 Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
@@ -23634,3 +23638,9 @@ P.O. 8 DE ABRIL DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA NUEVA FRACCIÓN IX AL ARTÍCULO 68 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
