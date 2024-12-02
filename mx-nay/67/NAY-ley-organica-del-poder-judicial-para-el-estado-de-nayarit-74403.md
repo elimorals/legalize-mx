@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2023-05-26"
+last_updated: "2024-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -1281,9 +1281,13 @@ Las ausencias temporales serán suplidas de la siguiente manera:
 
 Artículo 74
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-1. Las magistradas o magistrados numerarios serán suplidos en sus faltas temporales por la magistrada o magistrado supernumerario que designe el Tribunal Superior de Justicia.
+1. Las magistradas o magistrados numerarios serán suplidos en sus faltas temporales por la magistrada o magistrado supernumerario que corresponda, ante la ausencia de estos, el Pleno del Tribunal Superior de Justicia designará para que supla la ausencia a la persona titular de la secretaría general de acuerdos del referido Pleno.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+En caso de presentarse dos o más faltas temporales de magistradas o magistrados numerarios, éstas serán cubiertas por la o el Juez de Primera Instancia que determine el Pleno del Tribunal Superior de Justicia.
 
 2. Las faltas definitivas se cubrirán en los términos que dispone la Constitución del Estado.
 
@@ -2820,3 +2824,13 @@ P.O. 26 DE MAYO DE 2023.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Todas aquellas referencias en cualquier disposición normativa que se realicen a la Sala Constitucional se entenderán al Pleno del Tribunal Superior de Justicia.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA EL NUMERAL 1 DEL ARTÍCULO 74 DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Comuníquese el presente Decreto a la Magistrada Aracely Ávalos Lemus, en su carácter de Presidenta del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
