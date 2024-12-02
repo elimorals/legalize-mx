@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2024-09-23"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -1899,9 +1899,17 @@ VI. Fomentar programas y campañas de divulgación en contra de la violencia y l
 
 VII. Emitir recomendaciones y orientar a los miembros del SIEDE sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
 
-VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-IX. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+IX. Prevenir, atender y establecer marcos de actuación en casos de acoso y hostigamiento sexual, en el ámbito deportivo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+X. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
@@ -2352,3 +2360,11 @@ P.O. 23 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
