@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-profesiones-del-estado-de-nuevo-leon-7623"
 country: "mx"
 rank: "ley"
 publication_date: "1984-07-25"
-last_updated: "2020-12-30"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROFESIONES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 1984.
 
@@ -417,7 +417,9 @@ Los servicios profesionales de índole social podrán ser remunerados de acuerdo
 
 Los servicios profesionales de índole social deberán ser prestados:
 
-I.- Por los estudiantes de las profesiones anotadas en el artículo 5o. de esta Ley, como requisito previo a la obtención de su título profesional durante un lapso no menor de seis meses ni mayor de dos años, siempre y cuando no tengan impedimento físico o mental para cumplir con el servicio; los estudiantes o egresados de las instituciones universitarias o de educación superior existentes en la Entidad, deberán prestar sus servicios en el Estado de Nuevo León; la realización de éste o de actividades que con dicho carácter pudieren corresponder, según el tipo de profesión, sea por estudiantes, pasantes o graduados, que no hubieren cursado la carrera profesional en instituciones sitas en la Entidad, podrá autorizarse bajo circunstancias de reciprocidad y de acuerdo a los reglamentos de los Comités de Evaluación que para cada profesión se emitan;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+I.- Por los estudiantes de las profesiones anotadas en el artículo 5o. De esta Ley, como requisito previo a la obtención de su título profesional durante el lapso no menor de seis meses ni mayor de dos años, siempre y cuando no tenga impedimento físico o mental para cumplir con el servicio; los estudiantes o egresados de las instituciones universitarias o de educación superior existentes en la Entidad, deberán de prestar sus servicios preferentemente en el Estado de Nuevo León, y en su caso se podrá autorizar la prestación de estos servicios en otros Estados de la República Mexicana, en donde existan convenios de reciprocidad y de acuerdo a los reglamentos de los Comités de Evaluación Respectivos, la realización de éste o de actividades que con dicho carácter pudieren corresponder, según el tipo de profesión, sea por estudiantes, pasantes o graduados, que no hubieren cursado la carrera profesional en instituciones sitas en la Entidad, podrán autorizarse bajo circunstancias de reciprocidad y de acuerdo a lo (sic) reglamentos de los Comités de Evaluación que para cada profesión se emitan.
 
 II.- Por cualquier profesional cuando así le sea solicitado por el Ejecutivo del Estado a través del Departamento de Profesiones, para satisfacer el interés público, siempre que la naturaleza del servicio sea de carácter temporal y no resulte incompatible con sus actividades;
 
@@ -446,6 +448,10 @@ ARTICULO 40o BIS I.- Las instituciones educativas promoverán los mecanismos nec
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
 
 ARTICULO 40o BIS II.- Las empresas o instituciones del sector público o privado que participen en la formación de aptitudes, capacidades y experiencia de calidad de estudiantes o egresados a través de las prácticas profesionales a que se refiere el Artículo 40 Bis de esta Ley, deberán extender al concluir el periodo de práctica una constancia de terminación, y que además describa las habilidades y capacidades adquiridas por el practicante durante dicho período.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 40o BIS III.- En caso de una contingencia sanitaria, la prestación del Servicio Social y de las Prácticas Profesionales se podrá ejercer de acuerdo a los protocolos dictados por la Secretaría de Salud del Estado.
 
 ### CAPITULO IX. DE LOS COLEGIOS PROFESIONALES
 
@@ -750,3 +756,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 003. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 38; Y SE ADICIONA EL ARTÍCULO 40 BIS III, TODOS DE LA LEY DE PROFESIONES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
