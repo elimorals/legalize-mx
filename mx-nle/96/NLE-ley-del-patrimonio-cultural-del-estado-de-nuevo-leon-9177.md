@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2022-06-10"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -659,9 +659,11 @@ Para resolver sobre la reincidencia y habitualidad se estará a los principios d
 
 La graduación de las sanciones a que esta Ley se refiere se hará tomando en cuenta la educación, las costumbres y la conducta del sujeto, sus condiciones económicas y los motivos y circunstancias que le impulsaron a delinquir.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 77.
 
-Corresponde a la Procuraduría General de Justicia del Estado, el ejercicio de las acciones que de acuerdo con sus facultades se deriven de la aplicación de esta Ley.
+Corresponde a la Fiscalía General de Justicia del Estado de Nuevo León, el ejercicio de las acciones que de acuerdo con sus facultades se deriven de la aplicación de esta Ley.
 
 ###### ARTICULO 78.
 
@@ -830,3 +832,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 TERCERO.- El Titular del Poder Ejecutivo del Estado dispondrá de un plazo 120 días hábiles para realizar las adecuaciones reglamentarias que resulten necesarias para la implementación del presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 004. SE REFORMA EL ARTÍCULO 77 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
