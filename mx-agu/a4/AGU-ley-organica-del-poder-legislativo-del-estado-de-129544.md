@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2024-06-17"
+last_updated: "2024-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -2115,13 +2115,21 @@ V. Dirigir los trabajos y supervisar el cumplimiento de las atribuciones y el co
 
 VI. Formular los programas anuales de naturaleza administrativa y financiera;
 
-VII. Supervisar y vigilar que se cumplan las políticas, lineamientos y acuerdos de la Mesa Directiva, en la prestación de los servicios parlamentarios, administrativos y financieros; e
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-VIII. Informar trimestralmente a la Mesa Directiva en turno, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios parlamentarios, administrativos y financieros.
+VII. Supervisar y vigilar que se cumplan las políticas, lineamientos y acuerdos de la Mesa Directiva, en la prestación de los servicios parlamentarios, administrativos y financieros;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
-IX. La coordinación, elaboración, publicación, distribución y el adecuado archivo y resguardo tanto de los ejemplares de la Gaceta Parlamentaria del Congreso del Estado de Aguascalientes, como de los documentos remitidos para ser publicados en dicha gaceta;
+VIII. Informar trimestralmente a la Mesa Directiva en turno, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios parlamentarios, administrativos y financieros;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+IX. La coordinación, elaboración, publicación, distribución y el adecuado archivo y resguardo tanto de los ejemplares de la Gaceta Parlamentaria del Congreso del Estado de Aguascalientes, como de los documentos remitidos para ser publicados en dicha gaceta; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+
+X. Realizar notificaciones por estrados, personales o a través de medios digitales, en relación a temas correspondientes a su área o delegadas por la mesa directiva.
 
 ###### ARTÍCULO 158.
 
@@ -2630,3 +2638,11 @@ P.O. 17 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 50.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
