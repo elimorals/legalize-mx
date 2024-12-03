@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2023-12-08"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -5001,7 +5001,9 @@ Este delito se perseguirá por querella.
 
 Artículo 298 (Despojo)
 
-Se impondrán de dos a cinco años de prisión y de cincuenta a quinientos días multa:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Se impondrán de tres a siete años de prisión y de cien a setecientos días multa:
 
 I. (Despojo de inmueble o de derecho real ajenos)
 
@@ -5023,29 +5025,39 @@ Los delitos previstos en este artículo se punirán sin importar que el derecho 
 
 Por violencia física se entenderá el empleo doloso de alguna parte del cuerpo, o de algún instrumento, objeto o arma, con los que materialmente se sujete, inmovilice o golpee a otra persona, o se le cause daño a su integridad corporal.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2024)</small>
+
 Artículo 299 (Modalidades agravantes de despojo)
 
 I. (Violencia con lesiones graves o gravísimas)
 
-Se aumentará la mitad a la pena máxima de prisión del delito de despojo, prevista en el artículo precedente, cuando mediante la violencia física referida en el artículo anterior, se cause a la víctima o a un tercero, una o más lesiones de las previstas en la fracción III del artículo 200 de este código.
+Se aumentará la mitad a las penas mínima y máxima de prisión del delito de despojo, prevista en el artículo precedente, cuando mediante la violencia física referida en el artículo anterior, se cause a la víctima o a un tercero, una o más lesiones de las previstas en la fracción III del artículo 200 de este código.
 
-Se aumentará tres cuartas partes a la pena máxima de prisión del delito de despojo, prevista en el artículo precedente, cuando mediante la violencia física referida en el artículo anterior, se cause a la víctima o a un tercero, la lesión prevista en la fracción IV del artículo 200 de este código.
+Se aumentará tres cuartas partes a las penas mínima y máxima de prisión del delito de despojo, prevista en el artículo precedente, cuando mediante la violencia física referida en el artículo anterior, se cause a la víctima o a un tercero, una o más de las lesiones previstas en las fracciones IV y V del artículo 200 de este código.
 
-Se aumentará tres cuartas partes a la pena máxima de prisión del delito de despojo, prevista en el artículo precedente, cuando mediante la violencia física referida en el artículo anterior, se cause a la víctima o a un tercero, una o más de las lesiones previstas en la fracción V del artículo 200 de este código.
-
-Y se aumentará un tanto y medio a las penas de prisión mínima y máxima de los delitos de despojo, previstas en el artículo precedente, cuando mediante la violencia física referida en el artículo anterior, se cause a la víctima o a un tercero, una o más lesiones de las previstas en las fracciones VI a VIII del artículo 200 de este código.
+Y aumentará un tanto y medio a las penas de prisión mínima y máxima de los delitos de despojo, previstas en el artículo precedente, se cause a la víctima o a un tercero, una o más lesiones de las previstas en las fracciones VI a VIII del artículo 200 de este código.
 
 II. (Despojo en grupo)
 
-Se impondrá de cuatro a diez años de prisión y de doscientos a mil días multa, al determinador o a quien dirija la comisión de cualquiera de las conductas previstas en el artículo anterior, siempre y cuando en la comisión del delito intervengan como coautores más de cinco personas.
+Se impondrá de seis a catorce años de prisión y de trescientos a mil quinientos días multa, al determinador o a quien dirija la comisión de cualquiera de las conductas previstas en el artículo anterior, siempre y cuando en la comisión del delito intervengan como coautores más de dos personas.
 
 III. (Despojo de varios bienes inmuebles)
 
-Se impondrá de seis a doce años de prisión y de mil a dos mil días multa, a quien en dos o más ocasiones distintas realice el despojo de bienes inmuebles diferentes, que sean urbanos o ubicados en reservas territoriales para el desarrollo urbano y la vivienda, a través de cualquiera de las conductas previstas en el artículo 298 de este código.
+Se impondrá de seis a catorce años de prisión y de mil quinientos a tres mil días multa, a quien en dos o más ocasiones distintas realice el despojo de bienes inmuebles diferentes, que sean urbanos o ubicados en reservas territoriales para el desarrollo urbano y la vivienda, a través de cualquiera de las conductas previstas en el artículo 298 de este código.
+
+IV. (Despojo de bienes inmuebles propiedad de institución pública)
+
+Se impondrá de seis a catorce años de prisión y de mil quinientos a tres mil días multa, cuando el despojo se realice sobre instalaciones de una institución pública;
+
+V. (Despojo cometido por servidor público)
+
+Se impondrá de seis a catorce años de prisión y de mil quinientos a tres mil días multa y de manera conjunta, la inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución al servidor público que aprovechándose de su cargo, empleo o comisión ejecute el despojo.
 
 Artículo 300 (Querella)
 
-Los delitos previstos en este capítulo sólo se perseguirán por querella, salvo cuando se cometan mediante intimidación con arma o violencia física, o se trate de cualquiera de las modalidades agravantes previstas en las fracciones II y III del artículo precedente.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Los delitos previstos en este capítulo sólo se perseguirán por querella, salvo cuando se cometan mediante intimidación con arma o violencia física, o se trate de cualquiera de las modalidades agravantes previstas en las fracciones II, III, IV, y V del artículo precedente.
 
 ### Capítulo Séptimo. Daño a propiedad ajena
 
@@ -5074,6 +5086,12 @@ Prisión de tres a cinco años y de ciento cincuenta a cuatrocientos días multa
 IV. (Daño de cuantía mayor)
 
 Prisión de cuatro a ocho años y de cuatrocientos a seiscientos días multa, cuando el valor del daño exceda de setecientas cincuenta veces el importe del valor diario de la unidad de medida y actualización, al momento en que se cometió el delito.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Artículo 302 Bis (Daños agravados)
+
+Se aumentará en una mitad los mínimos y máximos de las penas previstas en el artículo 302, a quien cause daños a escuelas en sus instalaciones y sus bienes muebles o mobiliario. En estos casos, también se impondrá la reparación del daño causado.
 
 Artículo 303 (Daños calificados)
 
@@ -8454,3 +8472,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 136.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 298; EL ARTÍCULO 299 Y EL ARTÍCULO 300; SE ADICIONA EL ARTÍCULO 302 BIS, TODOS DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
