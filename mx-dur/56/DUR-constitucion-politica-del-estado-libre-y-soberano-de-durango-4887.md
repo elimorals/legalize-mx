@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2024-11-21"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 3 Y 5 DE DICIEMBRE DE 2024 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 3 DE DICIEMBRE DE 2024.]</small>
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1691,9 +1691,9 @@ III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto.
 
 IV. No estar en servicio activo, en caso de pertenecer al Ejército, cuando menos un año antes del día de la elección.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-V. No ser Secretaria o Secretario o Subsecretario (sic), Consejera o Comisionada Consejero o Comisionado de un órgano constitucional autónomo, Magistrada o Magistrado del Poder Judicial, integrante del Órgano de Administración del Poder Judicial, Auditora o Auditor Superior del Estado, Presidenta o Presidente Municipal, Síndica o Síndico, Regidora o Regidor del Ayuntamiento, servidor público de mando superior de la Federación, a menos de que se separe de su puesto cuando menos ciento veinte días antes del día de la elección.
+V. No ser Secretaria o Secretario, Subsecretaria o Subsecretario, Consejera o Comisionada, Consejero o Comisionado de un órgano constitucional autónomo, Magistrada o Magistrado del Poder Judicial, integrante del Órgano de Administración del Poder Judicial, Auditora o Auditor Superior del Estado, Presidenta o Presidente Municipal, Síndica o Síndico, Regidora o Regidor del Ayuntamiento, servidor público de mando superior de la Federación, a menos de que se separe de su puesto cuando menos ciento veinte días antes del día de la elección.
 
 VI. No haya sido condenado por la comisión de delito doloso.
 
@@ -1987,9 +1987,9 @@ IV. No haber sido condenado por delito doloso.
 
 El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, actuará con absoluta independencia y sólo estará sujeto a las normas constitucionales y leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia; el Tribunal Laboral Burocrático; el Tribunal de Menores Infractores; el Tribunal de Justicia Laboral; el Tribunal de Disciplina Judicial, los juzgados de Primera Instancia, y municipales, y el Centro Estatal de Justicia Alternativa.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia; el Tribunal Laboral Burocrático; el Tribunal de Justicia Penal para Adolescentes; el Tribunal de Justicia Laboral; el Tribunal de Disciplina Judicial, los juzgados de Primera Instancia, y municipales, y el Centro Estatal de Justicia Alternativa.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
@@ -2019,9 +2019,9 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 La competencia del Tribunal Superior de Justicia; del Tribunal de Disciplina Judicial; del Tribunal de Justicia Penal para Adolescentes, de los Juzgados, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-El Órgano de Administración del Poder Judicial, determinará el número de distritos, su división en distritos judiciales, competencia territorial y especialización por materias.
+El Órgano de Administración del Poder Judicial, determinará el número de distritos, su división judicial, competencia territorial y especialización por materias.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
@@ -2043,33 +2043,33 @@ La ley garantizará la independencia judicial, incluida la de las magistradas, l
 
 ###### Artículo 107.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-Las Magistradas y los Magistrados; las Juezas y los Jueces, los integrantes del Órgano de Administración del Poder Judicial, estarán impedidos para el ejercicio de su profesión, salvo asuntos propios, durante el período de su encargo. Tampoco podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los de carácter académico, científico u honorífico.
+Las Magistradas y los Magistrados; las Juezas y los Jueces, los integrantes del Órgano de Administración del Poder Judicial, estarán impedidos para el ejercicio de su profesión, salvo asuntos propios, durante el período de su encargo. Tampoco podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los caracteres académicos, científicos u honorifico.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Al vencimiento de su nombramiento, tendrán derecho a un haber por retiro y no podrán actuar como patronos, abogados o representantes ante los tribunales del Poder Judicial del Estado, dentro del año siguiente a la fecha de ese vencimiento.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-Las Magistradas y los Magistrados; las Juezas y los Jueces, y los integrantes del Órgano de Administración del Poder Judicial, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la (sic) establecido por el artículo 127 de la constitución Política de los Estados Unidos.
+Las Magistradas y los Magistrados; las Juezas y los Jueces, y los integrantes del Órgano de Administración del Poder Judicial, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a lo establecido por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Las magistradas, los magistrados del Poder Judicial, las consejeras y los consejeros de la Judicatura, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso del Estado, y cesarán de sus funciones mientras dure la nueva ocupación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-Las licencias de las Magistradas y Magistrados, las Juezas y Jueces que no excedan de un mes, podrán ser concedidas por el Órgano de Administración del Poder Judicial, en términos de lo dispuesto por esta Constitución. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente, ninguna licencia podrá exceder del término de un año.
+Las licencias de las Magistradas y Magistrados, las Juezas y Jueces que no excedan de un mes, podrán ser concedidas por el Órgano de Administración del Poder Judicial, en términos de lo dispuesto por esta Constitución. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos por la Comisión Permanente, ninguna licencia podrá excederse del término de un año.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-Cuando la falta de una magistrada o magistrado, jueza o juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+Cuando la falta de una Magistrada o Magistrado, Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste del cargo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 3 DE DICIEMBRE DE 2024)
 
-Las renuncias de las magistradas y magistrados, las juezas y jueces, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente.
+Las renuncias de las Magistradas y Magistrados, las Juezas y Jueces, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2085,7 +2085,9 @@ La persona que ocupe la presidencia del Tribunal Superior de Justicia rendirá p
 
 El Tribunal Superior de Justicia contará, para el mismo periodo, con una vicepresidencia, que tendrá iguales atribuciones y obligaciones que aquél en el ejercicio de la suplencia, dicho cargo será ocupado por la persona que haya obtenido el segundo lugar en la elección a que se refiere el párrafo anterior.
 
-Las Magistradas y Magistrados del Tribunal Superior de Justicia; del Tribunal de Disciplina Juridicial (sic); del Tribunal para Menores Infractores, y las Juezas y Jueces, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda conforme al siguiente procedimiento:
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia; del Tribunal de Disciplina Juridicial (sic); del Tribunal de Justicia Penal para Adolescentes, y las Juezas y Jueces, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
 I. El Órgano de Administración del Poder Judicial, por lo menos con sesenta días de anticipación a la fecha de inicio del proceso electoral informará al Congreso del Estado, la conclusión del encargo de integrantes del Poder Judicial que se encuentren próximos al término de su periodo;
 
@@ -2097,11 +2099,17 @@ a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, incl
 
 b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-Para definir criterios uniformes y homologados, los Comités de Evaluación de los tres poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar lineamientos sobre procedimientos y criterios de evaluación. Deberán observar los Comités de Evaluación de cada poder, para elegir a los perfiles mejor evaluados;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
 
-c) Los Comités de Evaluación de cada poder, integrarán un listado con las dos personas mejor evaluadas para cada cargo, observando la paridad de género, dichos listados se remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
+Para definir criterios uniformes y homologados, los Comités de Evaluación de los tres Poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar lineamientos sobre procedimientos y criterios de evaluación que deberán observar los Comités de Evaluación de cada Poder, para elegir a los perfiles mejor evaluados;
 
-IV. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana a más tardar el 15 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+c) Los Comités de Evaluación de cada Poder, integrarán un listado con las dos personas mejor evaluadas para cada cargo, observando la paridad de género, dichos listados se remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
+
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+IV. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana del Estado de Durango a más tardar el 15 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
@@ -2111,9 +2119,13 @@ Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia; del
 
 Para el caso de Juezas y Jueces, el Estado se dividirá en dos regiones conforme a las necesidades que determine el Órgano de Administración del Poder Judicial, en los términos del procedimiento establecido en este artículo y en lo que dispongan las leyes. Cada uno de los Poderes postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará, por mayoría simple, hasta dos personas, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta dos personas por mayoría de ocho votos.
 
-El Congreso del Estado incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
 
-La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral y de Participación Ciudadana celebre en los primeros siete días del mes de noviembre del año anterior a la elección.
+El Congreso del Estado incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana del Estado de Durango a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso.
+
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango celebre en los primeros siete días del mes de noviembre del año anterior a la elección.
 
 Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, en los términos dispuestos en la Constitución Política de los Estados Unidos Mexicanos. Podrán, además, participar en foros de debate organizados por el Instituto Electoral y de Participación Ciudadana del Estado de Durango o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
 
@@ -2149,19 +2161,25 @@ Para ser electo Magistrada o Magistrado del Tribunal Superior de Justicia se req
 
 I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Contar al día de la publicación de la convocatoria señalada en la fracción I del artículo 108 de esta Constitución, con título de licenciatura en derecho expedido legalmente, y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente, en caso de que así lo establezca la convocatoria respectiva y, de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula, en la licenciatura, especialidad, maestría o doctorado. Y práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+II. Contar al día de la publicación de la convocatoria señalada en la fracción II del artículo 108 de esta Constitución, con título de licenciatura en derecho expedido legalmente, y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y, en caso de que así lo establezca la convocatoria respectiva, de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula, en la licenciatura, especialidad, maestría o doctorado. Y práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
 
 III. Contar con un mínimo de treinta años de edad al momento de tomar protesta;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
-V. Haber residido en el Estado durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 108 de esta Constitución;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+V. Haber residido en el Estado durante el año anterior al día de la publicación de la convocatoria señalada en la fracción II del artículo 108 de esta Constitución;
 
 VI. No haber sido Gobernador o Gobernadora del Estado, titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Diputada o Diputado Local, Diputada o Diputado, Federal, Senadora, Senador, Presidente, Presidenta, Sindico, Sindica o Regidor o Regidora de Ayuntamiento, o Consejera, Consejero o Comisionada o Comisionado de algunos de los organismos constitucionales autónomos, durante el año previo al día de la publicación de la convocatoria respectiva por el Congreso local.
 
 VII. Acreditar experiencia en impartición de justicia o haber acreditado curso, especialidad, maestría o doctorado en impartición de justicia.
 
-Las Magistradas y los Magistrados del Tribunal Superior de Justicia; del Tribunal de Disciplina Judicial; del Tribunal para Menores Infractores, y las Juezas y los Jueces tomarán protesta ante el Congreso del Estado.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia; del Tribunal de Disciplina Judicial; del Tribunal de Justicia Penal para Adolescentes, y las Juezas y los Jueces tomarán protesta ante el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -2249,27 +2267,17 @@ La ley establecerá el número de jueces integrantes del Tribunal de Justicia La
 
 #### Sección Cuarta. Del Tribunal para Menores Infractores
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 ###### Artículo 117.
 
-El Tribunal para Menores Infractores es la autoridad jurisdiccional dotada de autonomía en sus resoluciones y competente para resolver sobre las conductas tipificadas como delitos cometidas por las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+El Tribunal de Justicia Penal para Adolescentes es la autoridad jurisdiccional dotada de autonomía en sus resoluciones y competente para resolver sobre las conductas tipificadas como delitos cometidos por las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
 Para el ejercicio de sus atribuciones, el Tribunal de Justicia Penal para Adolescentes se integrará por una Magistrada o Magistrado propietario de la Sala Unitaria, así como por las y los Jueces Especializados para Menores, las Juezas y los Jueces de Ejecución para Menores, además del personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
-
 La Magistratura y Juezas y Jueces del Tribunal de Justicia Penal para Adolescentes, así como lo relativo en materia de justicia penal para adolescentes será electa de manera libre, directa y secreta por la ciudadanía, el día que se realicen las elecciones estatales ordinarias del año que corresponda, conforme al mismo procedimiento y requisitos que corresponden a los integrantes del Tribunal Superior de Justicia, y durará en el ejercicio de su encargo nueve años, pudiendo ser reelecta y, si lo fuere, sólo podrá ser privada de su puesto en los términos que determinen la Constitución Federal y la Constitución Local y la legislación aplicable en materia de responsabilidades.
-
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
-
-En caso de renuncia o terminación del encargo después del transcurso de cuatro años de iniciado el encargo, la nueva designación será por un nuevo periodo.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
-
-Las y los jueces en materia de menores, serán nombrados previo examen por oposición y en base a lo dispuesto por la ley, la cual además establecerá las bases para la organización y funcionamiento del Tribunal.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
@@ -2363,13 +2371,17 @@ I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos
 
 II. Contar con un mínimo de veinticinco años de edad al momento de tomar protesta;
 
-III. Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 108 de esta Constitución, con título de licenciatura en derecho expedido legalmente, y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente, en caso de que así lo establezca la convocatoria respectiva y, de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula, en la licenciatura, especialidad, maestría o doctorado;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+III. Contar el día de la publicación de la convocatoria señalada en la fracción II del artículo 108 de esta Constitución, con título de licenciatura en derecho expedido legalmente, y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y en caso de que así lo establezca la convocatoria respectiva de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula, en la licenciatura, especialidad, maestría o doctorado;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
 V. Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en el artículo 108 de esta Constitución; y
 
-VI. Acreditar experiencia en impartición de justicia o haber acreditado curso, especialidad, maestría o doctorado en impartición de justicia en la Universidad Judicial.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+VI. Acreditar experiencia en impartición de justicia o haber acreditado curso, especialidad, maestría o doctorado en impartición de justicia.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
@@ -4921,7 +4933,9 @@ Para efecto del presente Decreto, el Proceso Electoral ordinario 2024 - 2025, da
 
 La elección de Juezas y Jueces del Poder Judicial, dará inicio atendiendo los términos señalados (sic) el artículo séptimo transitorio de este Decreto.
 
-Las personas señaladas en el párrafo anterior que se encuentren en funciones al cierre de la convocatoria que emita el Congreso del Estado, serán incorporadas a los listados para participar en la elección ordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección ordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Las personas señaladas en el párrafo anterior que se encuentren en funciones al cierre de la convocatoria que emita el Congreso del Estado, serán incorporadas a los listados para participar en la elección ordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo período, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección ordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
 
 Dentro de los diez días siguientes de la entrada en vigor del presente Decreto, el Consejo de la Judicatura entregará al Congreso del Estado un listado correspondiente con la totalidad de cargos de Personas Juzgadoras que se renovaran en la elección ordinaria, indicando su distrito judicial, especialización por materia, género, vacancias, renuncias, jubilación y/o pensión, y la demás información que se requiera.
 
@@ -4939,7 +4953,9 @@ a) Para Magistradas y Magistrados del Tribunal Superior de Justicia podrán eleg
 
 b) Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir hasta tres mujeres y hasta dos hombres;
 
-c) Para Magistradas y Magistrados del Tribunal de Menores Infractores podrán elegir una mujer y un hombre;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+c) Para Magistradas y Magistrados del Tribunal de Justicia Penal para Adolescentes podrán elegir una mujer y un hombre;
 
 d) Para Juezas y Jueces podrán elegir una mujer y un hombre en cada cargo.
 
