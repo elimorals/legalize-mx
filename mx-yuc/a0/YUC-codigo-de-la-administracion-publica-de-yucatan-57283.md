@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2024-08-05"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 2024.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -317,13 +317,17 @@ VI.- Secretaría de Salud;
 
 VII.- Secretaría de Educación;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Secretaría de Desarrollo Social;
+VIII.- Secretaría de Bienestar;
 
-IX.- Secretaría de Obras Públicas;
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-X.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
+IX.- Secretaría de Infraestructura para el Bienestar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+X.- Secretaría de las Juventudes;
 
 XI.- Secretaría de Seguridad Pública;
 
@@ -1081,9 +1085,9 @@ XL.- Coadyuvar con las autoridades competentes a la realización de campañas pa
 
 XLI.- Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas educativos y recreativos;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-XLII.- Elaborar el programa anual de construcción de obra pública destinada a la educación y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Obras Públicas;
+XLII.- Elaborar el programa anual de construcción de obra pública destinada a la educación y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Infraestructura para el Bienestar;
 
 > <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
@@ -1093,95 +1097,67 @@ XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de 
 
 XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de la lectura para el mejoramiento del logro educativo de los estudiantes, conforme al Programa Nacional de Lectura y Biblioteca Básica de Yucatán.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO VIII. De la Secretaría de Desarrollo Social
+### CAPÍTULO VIII. De la Secretaría de Bienestar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 37.
 
-A la Secretaría de Desarrollo Social le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Bienestar le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+I.- Fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social con base en la prosperidad compartida para reducir las desigualdades sociales y asegurar el progreso económico a favor de todas las personas y no sólo a una élite privilegiada;
 
-I.- Conducir la política social del Estado e integrar los acuerdos de coordinación a nivel sectorial en materia de desarrollo social, conjuntamente con los niveles del Gobierno Federal y Municipal, así como promover y acordar las acciones y programas de desarrollo social en el Estado en materia de salud, educación, vivienda, infraestructura social básica, juventud, atención a grupos vulnerables, entre otros aspectos relacionados con la superación del rezago social;
+II.- Integrar los acuerdos de coordinación en materia de desarrollo social, conjuntamente con los niveles del Gobierno Federal y Municipal, así como promover y acordar las acciones y programas en materia de carencias sociales y bienestar económico;
 
-II.- Diseñar coordinar, conducir y evaluar las políticas de desarrollo comunitario y sociales, encaminadas a combatir la pobreza, otorgar el acceso equitativo a las oportunidades de desarrollo, promover la formación de capital humano y crear mejores condiciones generales de vida para los habitantes del estado;
+III.- Diseñar, implementar, coordinar y evaluar las políticas de desarrollo comunitario y social, encaminadas a combatir la pobreza multidimensional, el rezago social y otorgar el acceso igualitario a las oportunidades de desarrollo, para fomentar la movilidad social, el bienestar de la población y crear mejores condiciones generales de vida para los habitantes del estado;
 
-> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+IV.- Coordinar y evaluar los programas de política social encaminados a atender y garantizar a los grupos sociales en situación de vulnerabilidad, con prioridad en la atención de los derechos y de las problemáticas relacionadas con niñas, niños, adolescentes, madres autónomas, personas mayores, migrantes y sus familias y demás personas pertenecientes a los grupos sociales en situación de vulnerabilidad;
 
-III.- Coordinar y evaluar los programas de política social encaminados a atender a los grupos más vulnerables de la sociedad, con prioridad en la atención de problemáticas relacionadas con niñas, niños, adolescentes, jóvenes, madres solteras, adultos mayores, migrantes y sus familias, así como personas con discapacidad;
+V.- Establecer y coordinar acciones que tengan como objeto el bienestar de la población en los ámbitos rural y urbano para incentivar la participación social en la toma de decisiones relacionadas con las estrategias para el desarrollo de su comunidad y para la vigilancia de esas acciones en términos de la ley en la materia;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+VI.- Analizar, evaluar y, en su caso, instrumentar las propuestas de desarrollo comunitario y social, resultantes de la participación de la sociedad civil en materia de bienestar, combate a la pobreza para favorecer el desarrollo humano y el equilibrio en el desarrollo regional;
 
-IV.- Impulsar y coordinar las acciones de organización social de la población en los ámbitos rural y urbano para facilitar su participación en la toma de decisiones con respecto a su propio desarrollo; así como promover la contraloría social de las acciones que se realicen en su localidad;
+VII.- Impulsar la prestación del servicio social y prácticas profesionales obligatorias de los estudiantes de las instituciones educativas públicas y privadas, con el objetivo de colocarlos en el sector productivo para fomentar la movilidad social de las personas, priorizando a quienes que (sic) provengan de zonas rurales;
 
-V.- Analizar, evaluar y en su caso instrumentar las propuestas de desarrollo comunitario y social, resultantes de la participación de las diferentes organizaciones sociales y civiles favoreciendo el equilibrio en el desarrollo regional;
+VIII.- Coordinar, implementar, ejecutar y vincular los programas comunitarios del Gobierno del Estado con la ciudadanía, con especial atención en los sectores sociales más desprotegidos, para elevar su calidad de vida;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+IX.- Promover y coordinar una amplia participación social, en las acciones, programas y proyectos de su competencia;
 
-VI.- Impulsar la prestación del servicio social y prácticas profesionales obligatorias de los estudiantes de las instituciones educativas públicas y privadas;
+X.- Proyectar y coordinar, con la participación que corresponda a los órdenes de gobierno federal y municipal, la planeación regional en materia de desarrollo social;
 
-VII.- Coordinar y vincular los programas comunitarios y de política social del Gobierno del Estado con la ciudadanía;
+XI.- Regular las acciones que deriven de los convenios suscritos con el gobierno federal y con los municipios, cuyo objeto sea el desarrollo comunitario y social de las diversas regiones del estado;
 
-VIII.- Promover y coordinar una amplia participación social, en las acciones, programas y proyectos de su competencia;
+XII.- Promover la inversión pública y privada con el objeto de asegurar que los beneficios del crecimiento económico se distribuyan de manera justa, permitiendo a todos los miembros de la sociedad participar y beneficiarse del progreso colectivo;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XIII.- Impulsar políticas públicas sociales y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes; de apoyo e inclusión de las madres autónomas; de inclusión y atención de las personas mayores; y, los que garanticen la plenitud de los derechos de las demás personas pertenecientes a los grupos sociales en situación de vulnerabilidad;
 
-IX.- Proyectar y coordinar, con la participación que corresponda a los niveles del Gobierno Federal y Municipal, la planeación regional en materia de desarrollo social;
+XIV.- Promover programas de inversión integral, de servicios, de obras de infraestructura y de equipamiento, que fortalezcan el desarrollo y la inclusión social de la población, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
 
-X.- Regular las acciones que deriven de los convenios suscritos con el gobierno federal y con los municipios, cuyo objeto sea el desarrollo comunitario y social de las diversas regiones del Estado;
+XV.- Promover el abastecimiento de productos de consumo básico entre la población de escasos recursos, así como su adecuada distribución y comercialización para contribuir al mejoramiento de sus condiciones de vida;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XVI.- Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias y entidades de la Administración Pública Estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran;
 
-XI.- Promover la inversión pública y privada que mejore el perfil productivo de las comunidades marginadas, como instrumento de política social de largo plazo;
+XVII.- Formular, coordinar y evaluar estudios e investigaciones para identificar zonas marginadas y diseñar programas y estrategias que contribuyan a la consecución del bienestar general de la población, proporcionando a más personas las herramientas necesarias para mejorar sus vidas;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XVIII.- Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
 
-XII.- Coordinarse con los ayuntamientos en materia de inversión para el desarrollo integral de las comunidades, por medio de los programas de obra, servicios e infraestructura;
+XIX.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social a nivel estatal, verificando los resultados e impactos obtenidos;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XX.- Promover que los recursos públicos destinados a los programas sociales se apliquen prioritariamente a la población con mayor rezago y vulnerabilidad, y
 
-XIII.- Promover el abastecimiento de productos de consumo básico entre la población de escasos recursos, así como su adecuada distribución y comercialización para contribuir al mejoramiento de sus condiciones de vida;
+XXI.- Las demás que se determinen en la Ley de Desarrollo Social del Estado de Yucatán y demás disposiciones legales y normativas.
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-XIV.- Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias y entidades de la Administración Pública Estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran;
+### CAPÍTULO IX. De la Secretaría de Infraestructura para el Bienestar
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XV.- Formular, coordinar y evaluar estudios e investigaciones para identificar zonas marginadas y diseñar programas y estrategias para su desarrollo;
-
-> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XVI.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos;
-
-> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XVII.- Promover que los recursos públicos destinados a los programas sociales se apliquen prioritariamente a los grupos sociales y de población con mayor rezago y vulnerabilidad;
-
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XVIII.- Elaborar el Programa Estatal de la Juventud con los objetivos, estrategias y líneas de acción necesarios para promover el desarrollo integral de los jóvenes;
-
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XIX.- Coordinarse con las dependencias y entidades de la Administración Pública estatal, así como con las autoridades municipales, en el ámbito de sus respectivas competencias, para que, entre las acciones, programas y mecanismos que apliquen, se considere mejorar el nivel de vida de la juventud y sus expectativas en los ámbitos de desarrollo económico, educativo, cultural y político;
-
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XX.- Implementar y llevar el Sistema Estatal de Información sobre la Juventud, para conocer sus necesidades y aspiraciones, a efecto de definir las políticas de atención en su entorno social que permitan el mejoramiento de las condiciones de vida de la juventud, y
-
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
-
-XXI.- Las demás que determinen la Ley de Juventud del Estado de Yucatán y su reglamento.
-
-### CAPÍTULO IX. De la Secretaría de Obras Públicas
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
-A la Secretaría de Obras Públicas le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura para el Bienestar le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1191,7 +1167,9 @@ I.- Formular, regular, instrumentar, conducir y evaluar las políticas y program
 
 II.- Enviar a la Secretaría de Administración y Finanzas los requerimientos de presupuesto para obra pública que le remitan los sujetos obligados señalados en la ley de la materia;
 
-III.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+III.- Participar en las obras de infraestructura para el bienestar relativas al mejoramiento de la conectividad entre las comunidades rurales y los centros urbanos para facilitar el acceso a servicios mediante la construcción de caminos, con especial énfasis en las comunidades más vulnerables;
 
 IV.- Expedir las bases, procedimientos y criterios a que se deban sujetar los concursos para la ejecución de obras públicas en el Estado;
 
@@ -1199,13 +1177,19 @@ V.- Integrar y dar seguimiento del Registro de Contratistas en materia de obra p
 
 VI.- Suspender o cancelar la inscripción de personas físicas o morales en el Registro de Contratistas, de conformidad con lo dispuesto en la Ley de la materia;
 
-VII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-VIII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+VII.- Contribuir en la construcción basada en los principios de inclusión y accesibilidad universal de áreas recreativas, culturales, deportivas y centros comunitarios que promuevan la convivencia y el bienestar social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Proponer proyectos para reducir el déficit habitacional y garantizar el derecho a la vivienda digna y adecuada;
 
 IX.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de realización de obra pública en el estado que efectúen los sujetos obligados por la ley;
 
-X.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+X.- Coordinarse con las autoridades en materia de transporte público a fin de mejorar la infraestructura dispuesta para la movilidad en la entidad, dentro del ámbito de su competencia;
 
 XI.- Elaborar un banco de proyectos estatales y, en su caso, regionales con otras entidades federativas, que involucren obras de infraestructura física de carácter público;
 
@@ -1217,7 +1201,9 @@ XIII.- Coordinarse con la Secretaría de Administración y Finanzas para propone
 
 XIV.- Elaborar el Programa Anual de Inversión en materia de infraestructura carretera, de acuerdo con las necesidades del Estado;
 
-XV.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+XV.- Propiciar la participación social en la toma de decisiones sobre obras públicas que tengan un impacto a la comunidad;
 
 XVI.- Establecer el derecho de vía, autorizar la ejecución de obras dentro de la franja comprendida por éste, regular y administrar su aprovechamiento; otorgar, modificar, suspender y revocar permisos para la construcción de accesos a la franja, así como vigilar que se respeten todas las disposiciones legales al respecto;
 
@@ -1225,21 +1211,65 @@ XVI.- Establecer el derecho de vía, autorizar la ejecución de obras dentro de 
 
 XVII.- Participar en la realización de los estudios encaminados a determinar los tipos de medios de transporte y las características de los vehículos que deban transitar en la red carretera de jurisdicción estatal;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-XVIII.- Supervisar que las obras públicas se ejecuten conforme a las normas técnicas, especificaciones, proyectos, programas correspondientes y, en su caso, a lo establecido en los contratos de obra, y
+XVIII.- Supervisar que las obras públicas se ejecuten conforme a las normas técnicas, especificaciones, proyectos, programas correspondientes y, en su caso, a lo establecido en los contratos de obra;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-XIX.- Cumplir las normas y lineamientos para la preservación y conservación del medio ambiente en las obras públicas que realice o supervise.
+XIX.- Cumplir las normas y lineamientos para la preservación y conservación del medio ambiente en las obras públicas que realice o supervise;
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO X. De la Secretaría de la Juventud
+XX.- Proponer los programas especiales y sectoriales en materia de obra pública e infraestructura de la administración pública, y
+
+> <small>(ADICIONADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+XXI.- Ejercer la conducción, dirección y vigilancia de la construcción de los proyectos estratégicos que como tales determine el titular del Poder Ejecutivo dentro del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], D.O. 3 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO X. De la Secretaría de las Juventudes
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-(DEROGADO, D.O. 23 DE NOVIEMBRE DE 2018)
+A la Secretaría de las Juventudes le corresponde el despacho de los siguientes asuntos:
+
+I.- Promover, proteger y difundir los derechos de la juventud, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México sea parte, las leyes federales, la Constitución Política del Estado de Yucatán, las leyes estatales y demás normativa en la materia;
+
+II.- Formular y coordinar las políticas y acciones encaminadas al desarrollo integral de la juventud;
+
+III.- Formular, organizar, dirigir y promover, en coordinación con las dependencias y entidades de los tres niveles de gobierno, programas de rescate y consolidación de los valores cívicos, sociales y culturales de la juventud;
+
+IV.- Coordinar, organizar, dirigir y fomentar, con la participación de los sectores social y privado, el establecimiento de centros juveniles, recreativos y culturales;
+
+V.- Promover, coordinar y fomentar programas de orientación y educación para la salud de la juventud y la niñez, haciendo énfasis en la educación sexual y reproductiva;
+
+VI.- Promover la defensa de los derechos de la juventud y grupos vulnerables previstos en la Constitución Política de los Estados Unidos Mexicanos;
+
+VII.- Promover, coordinar y fomentar programas para el bienestar de la juventud, así como estimular la participación de los jóvenes en el proceso de desarrollo de la entidad;
+
+VIII.- Desarrollar las relaciones de comunicación, coordinación y apoyo mutuo con las delegaciones y representaciones de las dependencias y entidades de la administración pública federal, cuyo ámbito de competencia corresponda a los programas de bienestar social de la juventud;
+
+IX.- Establecer canales de comunicación entre el gobierno del estado y el sector juvenil, así como promover la creación de espacios en medios de comunicación que contribuyan a su expresión e interlocución;
+
+X.- Favorecer la capacitación de instructoras o instructores para propiciar el mejor desarrollo de las actividades culturales y artísticas de la juventud;
+
+XI.- Propiciar en la juventud y la niñez, de manera coordinada con la Secretaría de la Cultura y las Artes, el desarrollo y difusión de la cultura tradicional del estado, como mecanismo para reforzar su identidad;
+
+XII.- Organizar y constituir grupos de jóvenes promotores y difusores de las diferentes expresiones del arte y la cultura, en coordinación con la Secretaría de la Cultura y las Artes;
+
+XIII.- Impulsar la creación de clubes y comités de la juventud, que promuevan su participación integral en asuntos del ámbito estatal;
+
+XIV.- Mantener comunicación permanente con las estructuras juveniles de organizaciones políticas y de la sociedad civil;
+
+XV.- Fomentar y desarrollar una cultura participativa mediante brigadas multidisciplinarias juveniles para realizar tareas de beneficio comunitario;
+
+XVI.- Diseñar y ejecutar políticas públicas en materia de equidad de género, inclusión y diversidad juvenil, tendientes a lograr su incorporación al desarrollo del estado, y
+
+XVII.- Las demás previstas en las disposiciones legales y normativas en materia de juventud.
 
 ### CAPÍTULO XI. De la Secretaría de Seguridad Pública
 
@@ -2189,11 +2219,13 @@ En la extinción de los organismos descentralizados deberán observarse las mism
 
 Cuando algún organismo descentralizado creado por el Poder Ejecutivo deje de cumplir sus fines u objeto, o su funcionamiento no resulte conveniente desde el punto de vista de la economía del estado o el interés público, la Secretaría de Administración y Finanzas, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del estado la disolución, enajenación, liquidación o extinción de aquel. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en incremento de eficiencia y productividad.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 71.
 
-Los organismos públicos descentralizados se regirán por su Órgano de Gobierno, que podrá ser una Junta de Gobierno o su equivalente y su administración estará a cargo de un Director General o su equivalente.
+Los organismos públicos descentralizados se regirán por su Órgano de Gobierno, que podrá ser una Junta de Gobierno o su equivalente, y su administración estará a cargo de un Director General o su equivalente, quien será libremente nombrado y removido por la persona titular del Poder Ejecutivo del estado, a excepción de lo previsto en la Constitución Política del Estado de Yucatán o las leyes del estado y en este código.
+
+Los decretos, estatutos orgánicos y demás ordenamientos que regulen a las entidades paraestatales deberán observar lo previsto en el párrafo anterior, para el nombramiento directo y remoción del director general o su equivalente.
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3848,3 +3880,55 @@ Artículo Quinto. Por única ocasión, la primera rendición del Informe anual d
 Cálculo del presupuesto
 
 Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
+
+D.O. 3 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 19/2024 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE BIENESTAR, INFRAESTRUCTURA PARA EL BIENESTAR Y JUVENTUDES”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en (sic) Diario Oficial del Gobierno del Estado de Yucatán.
+
+Gabinete sectorizado
+
+Artículo segundo. El Gobernador deberá establecer un esquema de trabajo entre las dependencias y entidades de la Administración Pública estatal, en los términos del artículo 15 del Código de la Administración Pública de Yucatán.
+
+Movimiento de personal
+
+Artículo tercero. El personal de las dependencias que por disposición de las modificaciones contenidas en este decreto pase a formar parte de otra, estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales.
+
+Armonización legislativa
+
+Artículo cuarto. El Congreso del Estado deberá realizar las adecuaciones normativas necesarias para armonizar el marco jurídico estatal al contenido de este decreto en un plazo que no exceda de ciento cincuenta días naturales, contados a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo quinto. El Poder Ejecutivo deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán que resulten pertinentes con motivo de este decreto, dentro de un plazo no mayor de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Destino de recursos
+
+Artículo sexto. El Poder Ejecutivo, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados a las dependencias a las que se refiere este decreto.
+
+Referencias
+
+Artículo séptimo. Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de Desarrollo Social o al Secretario de Desarrollo Social, se entenderá que se refieren, en todos los casos, a la Secretaría de Bienestar o al Secretario de Bienestar en la entidad; a la Secretaría de Desarrollo Social, como rectora de la política en materia de la juventud, se entenderá la Secretaría de las Juventudes; a la Secretaría de Obras Públicas o al Secretario de Obras Públicas, se entenderá que se refieren, a la Secretaría de Infraestructura para el Bienestar o al Secretario de Infraestructura para el Bienestar en la entidad, según corresponda
+
+Actos en trámite
+
+Artículo octavo. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos, que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto realizados por la Secretaría de Desarrollo Social serán asumidos por la Secretaría de Bienestar; Los realizados en materia de jóvenes, serán asumidos por la Secretaría de las Juventudes, y los realizados por la Secretaría de Obras Públicas, serán asumidos por la Secretaría de Infraestructura para el Bienestar, de conformidad con las disposiciones legales y normativas aplicables.
+
+Cumplimiento de disposiciones
+
+Artículo noveno. Las disposiciones de las leyes vigentes que, sin oponerse a lo previsto en este decreto, se refieran a las dependencias de la Administración Pública estatal cuya denominación o atribuciones hayan sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse por las nuevas dependencias que, en el marco de este decreto, tengan atribuciones iguales o análogas.
+
+Resolución de casos no previstos
+
+Artículo décimo. Se faculta al Gobernador para resolver las cuestiones que puedan suscitarse con motivo de la aplicación del artículo transitorio anterior.
+
+Previsiones presupuestales
+
+Artículo décimo primero. El Gobernador, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para el debido funcionamiento de las dependencias a las que se refiere este decreto.
+
+Titulares de las dependencias
+
+Artículo décimo segundo. Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el Secretario de Desarrollo Social y el Secretario de Obras Públicas, que hasta antes de la entrada en vigor de este decreto se desempeñaban como tales, continuarán como Secretario de Bienestar y Secretario de Infraestructura para el Bienestar, respectivamente, a partir de la entrada en vigor de este decreto y concluirán sus cargos en los términos de sus nombramientos.
