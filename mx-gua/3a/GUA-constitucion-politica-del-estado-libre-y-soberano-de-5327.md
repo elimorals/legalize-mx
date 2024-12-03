@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2024-07-29"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -2339,7 +2339,9 @@ La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para 
 
 El Ministerio Público se organizará en una Fiscalía General del Estado como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
 
-Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano por nacimiento y guanajuatense en pleno ejercicio de sus derechos civiles y políticos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación y no haber sido condenado por delito doloso; y haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o del Estado.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2024)</small>
+
+Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación y no haber sido condenado por delito doloso.
 
 El Fiscal General del Estado durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
@@ -4352,5 +4354,11 @@ Artículo Único. El presente decreto entrará en vigor el día siguiente al de 
 P.O. 29 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 340, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 1 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 95 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
