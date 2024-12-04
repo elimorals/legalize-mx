@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2023-11-08"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -104,6 +104,10 @@ X.- Las sanciones e infracciones en que incurran los usuarios que regula esta Le
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XI.- El fomento de la investigación y desarrollo de tecnología para la adecuada gestión del agua.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XII.- Promover, organizar e incentivar la recolección de lluvia, su potabilización para el consumo humano y uso directo en actividades rurales, urbano marginadas, priorizando las de uso doméstico, de cualquier otro uso en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -196,6 +200,14 @@ XXXV. RESIDUOS PELIGROSOS: Todo residuo en cualquier estado físico que, de acue
 XXXVI. REUSO DE AGUA: Proceso de utilización de aguas residuales que habiendo o no recibido tratamiento, se aplican en la misma actividad que las generó o en cualquier otra, para su mejor aprovechamiento.
 
 XXXVII. SANEAMIENTO: La conducción, tratamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verterlas en una corriente o depósito.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XXXVII BIS. SISTEMA DE CAPTACIÓN DE AGUA DE LLUVIA: La acción de los sectores público, privado, comunitario de las y los habitantes del Estado, para captar, conducir y almacenar agua de lluvia, nieve o granizo, promovida, organizada e incentivada por el Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XXXVII TER. SISTEMAS COLECTIVOS PARA EL SUMINISTRO DE AGUA: La acción de los sectores público, privado, comunitario de las y los habitantes del Estado que, de manera colectiva y organizada, puedan captar, tratar, almacenar y distribuir el agua de lluvia, desde una fuente de acopio, hasta las viviendas de las personas habitantes que serán favorecidas con dicho sistema.
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
 
@@ -345,6 +357,12 @@ IV.- Vigilar la prestación y el funcionamiento eficaz de los servicios.
 
 V.- Las demás que otras disposiciones legales le confieran.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Artículo 8 BIS. El Sistema de Captación de Agua de Lluvia y los Sistemas Colectivos para su suministro, deberán ser considerados política prioritaria y, por tanto, promovidos, organizados e incentivados en congruencia con la regulación de la gestión de los recursos hídricos y la prestación de los servicios públicos de agua potable, drenaje y alcantarillado, así como el tratamiento y reúso de aguas residuales.
+
+De igual manera, el Estado promoverá, organizará e incentivará mediante las políticas, estrategias, programas y acciones gubernamentales, con participación de la sociedad civil, la implementación de Sistemas de Captación de Agua de Lluvia, sistemas colectivos para el suministro de agua, para su potabilización del consumo humano y uso directo en actividades comunitarias, en congruencia con lo establecido en esta Ley.
+
 ### CAPÍTULO III. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO DEL ESTADO DE CHIHUAHUA
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
@@ -398,6 +416,10 @@ XI. Coadyuvar con los Municipios para la realización de estudios que permitan d
 > <small>(ADICIONADA, P.O. 24 DE MARZO DE 2021)</small>
 
 XII. En coordinación con los Municipios, participar en la planeación, programación y gestión de financiamientos para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas de drenaje pluvial.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Definir, garantizar, diseñar y ejecutar un Programa de Sistemas de Captación de Agua de Lluvia y Sistemas Colectivos para el Suministro de Agua con fines de abasto de agua potable, que incentive las acciones individuales o colectivas de los sectores privado y social, comunidades, y regiones serranas, rurales y desérticas que no tienen acceso al agua potable.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -2928,6 +2950,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFDEC/0643/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL DECRETO N° LXVII/RFLEY/0556/2023 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 12 DE JULIO DE 2023”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0944/2024 XVI P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
