@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2024-10-15"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -53,6 +53,8 @@ Artículo Único. Se expide la Ley de Planeación y Prospectiva del Estado de Hi
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 1.
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general para el Estado y los Municipios, teniendo por objeto establecer:
@@ -61,11 +63,11 @@ I. Las normas y principios básicos conforme a los cuales se llevará a cabo el 
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II. Las bases para la integración y funcionamiento de los Sistemas Estatal y Municipales de Planeación Democrática;
+II. Las bases para que el Poder Ejecutivo Estatal coordine sus actividades de planeación con la federación, las demás entidades federativas y los municipios que integran el Estado, de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-III. Las bases para que el Estado y los Municipios coordinen sus actividades de planeación con la federación, las demás entidades federativas y entre sí, de acuerdo con la legislación aplicable;
+III. Las bases para que el Poder Ejecutivo Estatal coordine sus actividades de planeación con la federación, las demás entidades federativas y los municipios que integran el Estado, de conformidad con la legislación aplicable;
 
 IV. Las bases para promover, fomentar y garantizar la participación activa, responsable y democrática de la sociedad, en la elaboración, ejecución y evaluación de los planes y programas de desarrollo a que hace referencia esta Ley;
 
@@ -365,9 +367,9 @@ V. Poner a consideración del Titular del Poder Ejecutivo del Estado, las metas 
 
 VI. Evaluar los resultados de la ejecución del Plan Estatal y los Programas de Desarrollo;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-VII. Proporcionar a los municipios, cuando así lo soliciten, la asesoría y apoyo técnico necesario en los procesos de elaboración, seguimiento y evaluación de su Plan Municipal y Programas de Desarrollo;
+VII. Proporcionar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario en los procesos de elaboración y actualización de su Plan Municipal y Programas de Desarrollo;
 
 VIII. Establecer mecanismos de coordinación con Dependencias Federales, Estatales y Municipales para la integración de sus Planes y Programas de Desarrollo;
 
@@ -433,31 +435,39 @@ Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboració
 
 ### CAPÍTULO III. PLANES Y PROGRAMAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-La persona Titular del Poder Ejecutivo Estatal, publicará en un término no mayor a seis meses contados a partir del comienzo de su administración, el Plan Estatal de Desarrollo, lo hará conforme a lo señalado por el presente ordenamiento legal. Entendiéndose de que al no llevar a efecto la sustitución o actualización del documento vigente, el Plan Estatal de Desarrollo continuará hasta el término de su vigencia.
+La persona Titular del Poder Ejecutivo Estatal publicará el Plan Estatal de Desarrollo en el Periódico Oficial del Estado y en la plataforma oficial correspondiente, en un término no mayor a seis meses contados a partir del comienzo de su administración, conforme a lo señalado por el presente ordenamiento legal. Entendiéndose de que al no llevar a efecto la sustitución o actualización del documento vigente, el Plan Estatal de Desarrollo continuará hasta el término de su vigencia.
 
 El Plan podrá prospectarse con un alcance de hasta veinticinco años a partir de la fecha de su publicación, considerando este periodo como el máximo para un relevo generacional en términos demográficos, así como una reconfiguración de las esferas social, económica y medio ambiental en la determinación de las políticas públicas de orden global.
 
 El documento aprobado al comienzo de la administración deberá ser evaluado en cuanto a su consistencia y funcionalidad a los tres años de gestión gubernamental, previendo en su caso, su actualización en un término no mayor a seis meses a partir de su evaluación. Entendiéndose que, de no llevarse a cabo un replanteamiento, el Plan Estatal de Desarrollo en vigencia continuará.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-La persona Titular del Poder Ejecutivo Estatal, elaborará el Plan Estatal de Desarrollo y lo remitirá al Congreso del Estado Libre y Soberano de Hidalgo, a efecto que se puedan emitir observaciones, comentarios y consideraciones al documento. Dicho proceso deberá de realizarse en un término no mayor a tres meses contados a partir del comienzo de su administración.
+La persona Titular del Poder Ejecutivo Estatal, elaborará el Plan Estatal de Desarrollo y lo remitirá al Congreso del Estado Libre y Soberano de Hidalgo, dentro de los cuatro meses siguientes contados a partir del inicio de su administración, a efecto que se puedan emitir observaciones al documento.
 
-El Congreso del Estado de Hidalgo, contará con treinta días naturales contados a partir de la fecha de recepción del documento, para realizar las observaciones, comentarios y consideraciones al mismo.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-Con base en las consideraciones emitidas por el Congreso, la persona Titular del Poder Ejecutivo dará respuesta de las mismas por escrito y realizará en su caso las adecuaciones que considere pertinentes para su publicación, en un plazo no mayor a 15 días naturales, contados a partir de su recepción.
+El Congreso del Estado contará con treinta días naturales contados a partir de la fecha de recepción del documento, para realizar las observaciones al mismo.
 
-En caso de que el Congreso presente las observaciones, comentarios y consideraciones fuera de término, éstas podrán ser aplicadas en una posterior actualización del Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Con base en las observaciones emitidas por el Congreso, la persona Titular del Poder Ejecutivo dará respuesta de las mismas por escrito y realizará en su caso las adecuaciones que considere pertinentes para su publicación, en un plazo no mayor a 15 días naturales, contados a partir de su recepción.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+En caso de que el Congreso formule observaciones fuera de término, éstas podrán ser aplicadas en una posterior actualización del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 Durante los plazos que se mencionan en este artículo y el inmediato anterior, estará en vigencia el último plan aprobado.
 
-Una vez aprobado se enviará al Periódico Oficial del Estado de Hidalgo para su publicación, así como en la plataforma oficial del Gobierno del Estado, la cual se realizará en un término no mayor a seis meses contados a partir del comienzo de su administración.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 28.
 
@@ -559,9 +569,9 @@ La coordinación en la ejecución del Plan Estatal y los Programas habrá de con
 
 La Planeación Municipal del Desarrollo se realizará en los términos de esta Ley, a través del Sistema Municipal de Planeación Democrática, mediante el cual se formularán, evaluarán y actualizarán el Plan Municipal y los Programas de Desarrollo del Municipio en el marco de la estrategia estatal y nacional del desarrollo.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-El Sistema Municipal de Planeación Democrática constituye un conjunto articulado de órganos, procesos, actividades y relaciones funcionales entre las dependencias y entidades de la Administración Pública Federal y Estatal que inciden en el Municipio y las de la Administración Pública Municipal y los sectores social y privado, vinculados en el proceso de Planeación del Desarrollo Municipal, de forma obligada, coordinada y concertada.
+El Sistema Municipal de Planeación Democrática constituye la interrelación entre dependencias y entidades de la Administración Pública Federal y Estatal que inciden en el Municipio y las de la Administración Pública Municipal, así como la sociedad, vinculados en el proceso de Planeación del Desarrollo Municipal.
 
 El sistema comprende órganos y mecanismos permanentes de participación democrática, responsable y propositiva, a través de los cuales los grupos organizados de la sociedad y la población en general, serán parte activa en el proceso de Planeación del Desarrollo Municipal.
 
@@ -631,6 +641,22 @@ El Plan Municipal de Desarrollo podrá presentar una vigencia hasta de dos perí
 
 El Plan podrá ser evaluado y reconsiderado en su viabilidad a la mitad de la gestión gubernamental, considerando su actualización o adecuación.
 
+[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 19, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2024, SE ADVIERTE QUE EL TEXTO DE ESTE ARTÍCULO AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DEL 15 DE OCTUBRE DE 2024. SE SUGIERE CONSULTAR LA PÁGINA 34 DE DICHA PUBLICACIÓN, A SABER: "ARTÍCULO 48.-
+
+Posterior a esta acción, la persona Titular del Poder Ejecutivo Municipal remitirá al Congreso del Estado en un término no mayor a ciento ochenta días contados a partir de que inicie la administración municipal, el documento que contiene el Plan Municipal de Desarrollo.
+
+El Congreso del Estado contará con quince días naturales, después de haber recibido el Plan Municipal de Desarrollo, para poder realizar sus observaciones a través de un acuerdo legislativo; debiendo entregar una copia del mismo a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo. De no ser así, se dará por sentado que no existieron observaciones al Plan Municipal.
+
+Se deroga.
+
+Con base en las observaciones emitidas por el Congreso del Estado, la persona Titular del Poder Ejecutivo Municipal dará contestación de las mismas por escrito, justificando sus consideraciones finales y realizará en su caso, las adecuaciones que considere pertinentes para su publicación en un plazo no mayor a treinta días naturales a partir de su recepción.
+
+Se deroga.
+
+En el caso que se desee continuar con el Plan Municipal de Desarrollo vigente, la persona Titular del Poder Ejecutivo Municipal deberá someterlo a consideración del Comité de Planeación para el Desarrollo Municipal, siguiendo el procedimiento que se establece en el párrafo primero del presente artículo.
+
+En caso de que no se cumpla con los plazos señalados en los párrafos anteriores, para la elaboración, remisión, revisión y publicación del Plan Municipal de Desarrollo, la Unidad de Planeación y Prospectiva dará vista a la persona titular del Órgano Interno de Control Municipal para que en el ámbito de su competencia realice las acciones que conforme a derecho correspondan".]
+
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### ARTÍCULO 48.
@@ -657,13 +683,13 @@ Para la ejecución del Plan y los Programas de Desarrollo Municipal, las depende
 
 La estrategia programática deberá tomar en cuenta las medidas que para coadyuvar al cumplimiento de los objetivos y prioridades del Plan Municipal y los Programas establecidos en esta Ley emita el Comité de Planeación para el Desarrollo Municipal, la cual regirá durante el año de que se trate las actividades de la Administración Pública Municipal en su conjunto y servirán de base para la integración de los Anteproyectos de Presupuesto Anual que las propias dependencias deberán elaborar conforme a la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 53.
 
-El Plan Municipal y los Programas de Desarrollo, una vez aprobados y publicados en el Periódico Oficial del Estado de Hidalgo, serán obligatorios para las dependencias de la Administración Pública Municipal en el ámbito de sus respectivas competencias.
+El Plan Municipal y los Programas de Desarrollo, una vez aprobados y publicados en su plataforma oficial correspondiente, serán obligatorios para las dependencias de la Administración Pública Municipal en el ámbito de sus respectivas competencias.
 
-Asimismo, deberá estar disponible en una plataforma oficial del Municipio y del Gobierno del Estado de Hidalgo.
+Asimismo, el municipio deberá solicitar a la dependencia encargada de la Planeación Estatal, su publicación en la página oficial correspondiente.
 
 ### CAPÍTULO V. PLANEACIÓN REGIONAL DEL DESARROLLO
 
@@ -733,9 +759,9 @@ Los Comités de Planeación para el Desarrollo Regional serán la instancia resp
 
 Para promover el desarrollo en las regiones y municipios de la Entidad y su coordinación e interacción hacia el exterior, el Gobierno del Estado presentará e impulsará una Política de Desarrollo Regional para la Entidad y definirá la Agenda Regional y Territorial del Estado de Hidalgo para sus Regiones y Municipios.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-La Agenda establecerá en el marco de sus esferas de intervención y las dimensiones política, económica, ambiental y social del desarrollo; la cartera de programas regionales para la promoción y gestión del desarrollo, así como la definición de los Proyectos Estratégicos de Desarrollo Regional
+La Agenda establecerá en el marco de sus esferas de intervención sobre el medio ambiente, el desarrollo social, económico y político; la cartera de programas regionales para la promoción y gestión del desarrollo, así como la definición de los Proyectos Estratégicos de Desarrollo Regional.
 
 La Agenda considerará la inclusión de elementos prospectivos y de competitividad sistémica para la definición de esquemas de desarrollo sostenible en las regiones.
 
@@ -745,11 +771,11 @@ Los Programas Regionales de Desarrollo, serán formulados de conformidad a los l
 
 Los Programas Regionales de Desarrollo, se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y especificarán los objetivos, prioridades y políticas para el Desarrollo Regional, contendrán determinaciones sobre instrumentos y los responsables de su ejecución, planteamientos de mediano y largo plazo y su vigencia estará determinada por el cumplimiento de los objetivos y metas planteadas, así como por acuerdo del Comité de Planeación para el Desarrollo de (sic) Estado de Hidalgo.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-Los Programas Regionales de Desarrollo deberán presentarse a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo, para su análisis y validación, y someterse a la aprobación de la persona Titular del Poder Ejecutivo Estatal y publicarse en el Periódico Oficial del Estado de Hidalgo y en una plataforma oficial del Gobierno del Estado.
+Los Programas Regionales de Desarrollo deberán presentarse a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo, para su análisis y validación, y someterse a la aprobación de la personal (sic) Titular del Poder Ejecutivo Estatal para su publicación en la página oficial correspondiente del Gobierno del Estado.
 
 ###### ARTÍCULO 61.
 
@@ -803,9 +829,9 @@ XI. Facilitar la elaboración de documentos estadísticos del Estado y sus Munic
 
 XII. Contribuir con las dependencias de la Administración Pública Estatal, en la elaboración de documentos estadísticos a nivel Estatal, Regional, Metropolitano, Municipal y sectorial de la información para su difusión; y,
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-XIII. Coadyuvar en la organización del levantamiento de censos estatales, encuestas económicas y sociodemográficas, y en la integración de estadísticas o indicadores de la información que se considere relevante para el Estado
+XIII. Coadyuvar en la organización del levantamiento de censos estatales, encuestas económicas y sociodemográficas, y en la integración de estadísticas o indicadores de la actividad económica y social.
 
 ### CAPÍTULO VII. PARTICIPACIÓN SOCIAL EN LA PLANEACIÓN
 
@@ -1062,3 +1088,11 @@ P.O. 15 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1045 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 19 – LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO, EN MATERIA DE PLANES DE DESARROLLO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
