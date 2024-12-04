@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-proteccion-de-personas-que-intervienen-en-el-102590
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2024-01-03"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -89,7 +89,9 @@ I. Autonomía. Las autoridades jurisdiccionales gozarán de las más amplias fac
 
 II. Buena fe: Presume la buena fe de la víctima, por lo que las autoridades deberán evitar criminalizarla o responsabilizarla por su situación, ofreciéndole y brindándole los servicios de ayuda, atención y asistencia desde el momento en que lo requiera, facilitando lo necesario para el ejercicio efectivo de sus derechos;
 
-III. Celeridad: El Director del Centro adoptará sin dilación las decisiones relativas a la aplicación de las medidas de protección de que se trate o en su caso relativas al ingreso de las personas al Programa;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+III. Celeridad: La persona titular de la Dirección adoptará sin dilación las decisiones relativas a la aplicación de las medidas de protección de que se trate o en su caso relativas al ingreso de las personas al Programa;
 
 IV. Gratuidad: El acceso a las Medidas de Protección otorgadas no generará costo alguno para la Persona Protegida. Asimismo todo el apoyo, servicio o protección que se proporcione a las víctimas, testigos y demás sujetos procesales será gratuito;
 
@@ -97,7 +99,9 @@ V. No criminalización: Las autoridades deberán evitar cualquier conducta que i
 
 VI. Proporcionalidad y Necesidad: Las Medidas de Protección deberán responder al nivel de riesgo o peligro en que se encuentre la persona y sólo podrán ser aplicadas en cuanto fueren necesarias para garantizar su seguridad, así como su identidad personal;
 
-VII. Secrecía y confidencialidad: Los servidores públicos y las personas sujetas a protección, mantendrán el sigilo de todas las actuaciones relacionadas con las Medidas de Protección adoptadas, así como lo referente a los aspectos operativos del Programa. La información y documentación relacionada con las personas protegidas, será considerada como reservada y confidencial, en los términos que dispone la Ley de Transparencia y Acceso a la Información Pública Gubernamental, con excepción de aquella de carácter estadístico, la cual podrá ser proporcionada en los términos de la ley referida, siempre y cuando no ponga en riesgo la seguridad de las personas sujetas a protección;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+VII. Secrecía y confidencialidad: Los servidores públicos y las personas sujetas a protección, mantendrán el sigilo de todas las actuaciones relacionadas con las Medidas de Protección adoptadas, así como lo referente a los aspectos operativos del Programa. La información y documentación relacionada con las personas protegidas, será considerada como reservada y confidencial, en los términos que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, con excepción de aquella de carácter estadístico, la cual podrá ser proporcionada en los términos de la ley referida, siempre y cuando no ponga en riesgo la seguridad de las personas sujetas a protección;
 
 VIII. Temporalidad: La permanencia de la persona en el Programa estará sujeta a un periodo determinado o a la evaluación periódica que realice el Centro, el cual determinará si continúan los factores o circunstancias que motivaron el acceso de la persona al Programa, y
 
@@ -115,7 +119,9 @@ Las medidas de protección pueden extenderse a los familiares, por parentesco de
 
 Víctimas especialmente vulnerables
 
-Las personas obligadas a prestar la protección que señala la presente Ley, deben brindar especial atención a las personas adultas mayores, con discapacidad, niños, niñas y adolescentes y personas víctimas de delitos sexuales o de violencia familiar.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Las personas obligadas a prestar la protección que señala la presente Ley, deben brindar especial atención a las personas adultas mayores, personas con discapacidad, niños, niñas y adolescentes y personas víctimas de delitos sexuales o de violencia familiar.
 
 Los pueblos y comunidades indígenas víctimas de delito, individual o colectivamente, deben estar protegidos siguiendo su propio sistema de administración de justicia, considerando sus diferencias socio-culturales y cosmovisión. El funcionario o funcionaria que conozca del caso deberá solicitar la opinión de las autoridades indígenas propias de estos pueblos y comunidades con base en sus sistemas normativos, así como el respectivo informe socio-antropológico sobre la visión intercultural que debe prevalecer. En todo tiempo, deberán garantizar que se cuente con el servicio de intérprete durante el proceso penal en el caso de que la persona o personas indígenas de que se trate no hablen suficientemente el español.
 
@@ -159,7 +165,9 @@ La policía investigadora y la policía procesal tendrán a su cargo la protecci
 
 Línea de emergencia
 
-La Fiscalía General en coordinación con la secretaría de Seguridad Pública del Estado, mantendrá en operación las veinticuatro horas del día una línea de emergencia, con personal especialmente capacitado para tales fines, al servicio de las víctimas, testigos y demás sujetos procesales.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+La Fiscalía General en coordinación con la Secretaría de Seguridad y Protección Ciudadana del Estado, mantendrá en operación las veinticuatro horas del día una línea de emergencia, con personal especialmente capacitado para tales fines, al servicio de las víctimas, testigos y demás sujetos procesales.
 
 En los casos establecidos por esta Ley, toda víctima de delito, testigos o demás sujetos procesales debe ser orientada desde el comienzo del proceso penal por los operadores u operadoras del sistema de administración de justicia, acerca de la existencia y utilidad de esta línea de emergencia.
 
@@ -177,9 +185,13 @@ Las Dependencias, Entidades, Organismos autónomos e instituciones de la Adminis
 
 Convenios, acuerdos y contratos.
 
-El Fiscal General de conformidad con sus atribuciones, podrá celebrar acuerdos, convenios o demás instrumentos jurídicos con personas físicas o morales, así como con autoridades federales, gobiernos del Distrito Federal, de los Estados de la Federación y Municipios, organismos públicos autónomos y constitucionales, así como con organismos de los sectores social y privado e incluso internacionales, que resulten conducentes para otorgar la protección de las personas.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-La Fiscalía podrá celebrar convenios de colaboración con las procuradurías de justicia, Fiscalía o su equivalente, de los Estados y del Distrito Federal, para establecer los mecanismos necesarios para incorporar al Programa a personas que deban ser sujetas de protección.
+El Fiscal General de conformidad con sus atribuciones, podrá celebrar acuerdos, convenios o demás instrumentos jurídicos con personas físicas o morales, así como con autoridades federales, gobiernos de la Ciudad de México, de los Estados de la Federación y Municipios, organismos públicos autónomos y constitucionales, así como con organismos de los sectores social y privado e incluso internacionales, que resulten conducentes para otorgar la protección de las personas.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+La Fiscalía podrá celebrar convenios de colaboración con las procuradurías de justicia, Fiscalía o su equivalente, de los Estados y de la Ciudad de México, para establecer los mecanismos necesarios para incorporar al Programa a personas que deban ser sujetas de protección.
 
 A fin de lograr los objetivos de esta Ley, el Ministerio Público está facultado para celebrar los contratos que se requieran con personas físicas o morales, públicas o privadas, nacionales o internacionales, que resulten conducentes para favorecer la protección de las víctimas, testigos y demás sujetos procesales.
 
@@ -295,7 +307,9 @@ Traslado de las víctimas, testigos y demás sujetos procesales
 
 Los sujetos procesales pueden solicitar al Ministerio Público ser conducidos a las dependencias judiciales o al lugar donde deba practicarse alguna diligencia, o a su domicilio, en vehículos oficiales o con custodia, siempre que existan circunstancias que hagan presumir que la vida e integridad física de éstos se encuentren en situación de peligro.
 
-El Ministerio Público solicitará en los casos en que lo considere procedente a la Secretaria de Seguridad Pública que se brinde dicha medida.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+El Ministerio Público solicitará en los casos en que lo considere procedente a la Secretaría de Seguridad y Protección Ciudadana del Estado.
 
 En tales casos, la autoridad judicial competente y durante el tiempo que permanezcan en dichas dependencias les facilitará a las víctimas, testigos y demás sujetos procesales un local reservado para su exclusivo uso convenientemente custodiado, y asignará los funcionarios o funcionarias policiales que considere necesarios, a los fines de dar cumplimiento efectivo a la medida.
 
@@ -369,7 +383,9 @@ Sin perjuicio de lo señalado en el párrafo anterior, el Centro podrá solicita
 
 I. Cuando desaparezcan las circunstancias de riesgo que motivaron la protección;
 
-II. Cuando a juicio del Director existan datos o hechos que den cuenta de que la persona protegida incumple las obligaciones y restricciones específicas que hayan sido dictadas al otorgarse la medida de protección o las condiciones que señala el Artículo 24 de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+II. Cuando a juicio de la persona titular de la Dirección existan datos o hechos que den cuenta de que la persona protegida incumple las obligaciones y restricciones específicas que hayan sido dictadas al otorgarse la medida de protección o las condiciones que señala el Artículo 24 de esta Ley;
 
 III. La Persona Protegida se haya conducido con falta de veracidad;
 
@@ -507,11 +523,15 @@ Naturaleza del centro
 
 El Centro es un Órgano Desconcentrado y Especializado de la Fiscalía General del Estado, con autonomía técnica, de gestión y operativa en la aplicación de las Medidas de Protección, el cual estará a cargo de un Director, nombrado y removido libremente por el Fiscal General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 44.
 
-Facultades del director del centro
+Facultades de la persona titular de la Dirección
 
-El Director del Centro, para el cumplimiento de la presente Ley contará con las siguientes facultades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+La persona titular de la Dirección del Centro, para el cumplimiento de la presente Ley contará con las siguientes facultades:
 
 I. Suscribir y emitir los instrumentos jurídicos que faciliten el funcionamiento y operación del Programa, previa autorización del Fiscal General;
 
@@ -559,7 +579,9 @@ El Centro deberá contar con un grupo multidisciplinario de servidores públicos
 
 Unidad de ejecución de medidas
 
-La ejecución de las Medidas de Protección estará a cargo de una Unidad que dependerá del Director y se integrará con agentes de la Policía investigadora, entrenados y capacitados para tal fin.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+La ejecución de las Medidas de Protección estará a cargo de una Unidad que dependerá de la Persona Titular de la Dirección y se integrará con agentes de la Policía investigadora, entrenados y capacitados para tal fin.
 
 ###### Artículo 47.
 
@@ -577,9 +599,13 @@ IV. Guardar secrecía de las cuestiones que tuvieran conocimiento con motivo del
 
 V. Garantizar la protección de la integridad física y psicológica de la persona bajo su cuidado o custodia;
 
-VI. Informar de forma inmediata al Director de cualquier incumplimiento de las obligaciones de la Persona Protegida, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-VII. Las demás que disponga el Director para el cumplimiento de la presente Ley.
+VI. Informar de forma inmediata a la Persona Titular de la Dirección de cualquier incumplimiento de las obligaciones de la Persona Protegida, y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+VII. Las demás que disponga la persona Titular de la Dirección para el cumplimiento de la presente Ley.
 
 ###### Artículo 48.
 
@@ -605,7 +631,11 @@ El Programa establecerá cuando menos los requisitos de ingreso, terminación, m
 
 Desacato de la medida de protección ordenada
 
-Aquél o aquélla a quien corresponda acatar la medida de protección acordada a favor de las víctimas, testigos y demás sujetos procesales, que no le diere cabal cumplimiento, en los términos y condiciones establecidos, será sancionado con prisión de tres meses a un año y multa de cien a quinientos días de salario mínimo vigente.
+(NOTA: EL 19 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO, DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 194/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE DICIEMBRE DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0017, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Aquél o aquélla a quien corresponda acatar la medida de protección acordada a favor de las víctimas, testigos y demás sujetos procesales, que no le diere cabal cumplimiento, en los términos y condiciones establecidos, será sancionado con prisión de tres meses a un año Y MULTA DE QUINIENTAS UNIDADES DE MEDIA (SIC) Y ACTUALIZACIÓN.
 
 ###### Artículo 51.
 
@@ -660,3 +690,9 @@ P.O. 3 DE ENERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0017.- SE REFORMAN LAS FRACCIONES III Y VII DEL ARTÍCULO 4º; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 6º; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 14; EL TERCER PÁRRAFO DEL ARTÍCULO 23; LA FRACCIÓN II DEL ARTÍCULO 28; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 44; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; LAS FRACCIONES VI Y VII DEL ARTÍCULO 47 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 50, DE LA LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
