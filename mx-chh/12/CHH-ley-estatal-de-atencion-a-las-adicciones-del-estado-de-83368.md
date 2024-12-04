@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-atencion-a-las-adicciones-del-estado-de-83368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2021-09-04"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 22 de octubre de 2011.
 
@@ -403,7 +403,13 @@ XXIII.- Aplicar esta Ley, la Ley General de Salud, así como las normas que para
 
 XXIV.- Implementar los acuerdos adoptados por el Consejo Estatal, desarrollando materialmente las acciones necesarias para su cumplimiento.
 
-XXV.- Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XXV.- Presentar al Consejo, un informe anual sobre las políticas públicas implementadas en materia de prevención, tratamiento y erradicación de las adicciones, el estado de avance en el cumplimiento del Programa; así como de los diversos programas generados en la materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XXVI.- Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines.
 
 ### CAPÍTULO VI. DEL REGISTRO
 
@@ -816,3 +822,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0942/2024 XVI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
