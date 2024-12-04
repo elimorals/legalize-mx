@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1743
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-07"
-last_updated: "2024-09-24"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento 6 al Número 72 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de septiembre de 2024.
 
@@ -303,19 +303,23 @@ I. Iniciar, expedir, derogar y abrogar leyes, decretos y acuerdos, en todas aque
 
 II. Iniciar y aprobar las reformas a la Constitución federal, a la propia del Estado y a las leyes que de ellas emanen;
 
-III. Vigilar el ejercicio del gasto público;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-IV. Ser autoridad en materia de deuda pública de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios y la Ley de Financiamientos, Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios;
+III. Iniciar y expedir proposiciones con punto de acuerdo, entendido este como toda petición o declaración formal que el Pleno de la Legislatura realiza para asumir una postura institucional respecto a asuntos de diversa índole y sin carácter vinculante;
 
-V. Variar el lugar donde deban residir los poderes del Estado, conforme a lo establecido en la Constitución estatal;
+IV. Vigilar el ejercicio del gasto público;
 
-VI. Expedir las bases para regular los empleos públicos, así como para las retribuciones que deberán fijarse en los presupuestos estatales;
+V. Ser autoridad en materia de deuda pública de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios y la Ley de Financiamientos, Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios;
 
-VII. Expedir las leyes que normen las relaciones de trabajo de los poderes estatales y de los municipios con sus servidoras y servidores públicos;
+VI. Variar el lugar donde deban residir los poderes del Estado, conforme a lo establecido en la Constitución estatal;
 
-VIII. Fomentar el respeto de los derechos humanos de mujeres y hombres, bajo los principios de imparcialidad, objetividad, igualdad y no discriminación, y
+VII. Expedir las bases para regular los empleos públicos, así como para las retribuciones que deberán fijarse en los presupuestos estatales;
 
-IX. Citar a comparecer a las autoridades, servidoras o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones que emita la Comisión de Derechos Humanos del Estado. En los periodos de receso dicha atribución será ejercida por la Comisión Permanente.
+VIII. Expedir las leyes que normen las relaciones de trabajo de los poderes estatales y de los municipios con sus servidoras y servidores públicos;
+
+IX. Fomentar el respeto de los derechos humanos de mujeres y hombres, bajo los principios de imparcialidad, objetividad, igualdad y no discriminación, y
+
+X. Citar a comparecer a las autoridades, servidoras o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones que emita la Comisión de Derechos Humanos del Estado. En los periodos de receso dicha atribución será ejercida por la Comisión Permanente.
 
 ### Capítulo Segundo. Atribuciones con relación al Poder Ejecutivo del Estado
 
@@ -501,7 +505,11 @@ XIII. Autorizar a la Junta de Coordinación Política para que, en conjunto con 
 
 XIV. De conformidad con la Constitución federal, los tratados internacionales y la Ley del Servicio Civil del Estado, dar un trato de igualdad a las servidoras y servidores públicos de la Legislatura, independientemente si se trata de sindicalizados o aquellos que no tengan esta categoría, y
 
-XV. Las demás que le confiera la Constitución estatal y otras normas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XV. Autorizar la conformación de las unidades administrativas ejecutoras del gasto.
+
+XVI. Las demás que le confiera la Constitución estatal y otras normas.
 
 ## TÍTULO TERCERO. DERECHOS Y OBLIGACIONES DE DIPUTADAS Y DIPUTADOS
 
@@ -537,7 +545,9 @@ V. Solicitar a la Presidencia de la Mesa Directiva la verificación del quórum 
 
 VI. Solicitar la rectificación o ampliación de turno de las iniciativas y asuntos.
 
-Este derecho podrá ejercerlo una vez concluida la lectura de la iniciativa, o bien, en términos de lo establecido en el Reglamento General;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Este derecho podrá ejercerlo una vez concluida la lectura de la iniciativa, o bien, en términos de lo establecido en el Reglamento General y deberá ser aprobado por la Presidencia de la Mesa Directiva;
 
 VII. Representar a la Legislatura, sin detrimento de las facultades conferidas a la Presidencia de la Mesa Directiva, en congresos, foros, seminarios o cualquier otro evento análogo;
 
@@ -735,6 +745,10 @@ Los grupos parlamentarios son las formas de organización que deberán adoptar l
 
 Se conformarán por dos o más diputadas o diputados y sólo podrá haber uno por cada partido político con representación en la Legislatura.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Los grupos parlamentarios se constituirán como unidades administrativas ejecutoras del gasto, con las facultades y obligaciones contenidos en el Reglamento General.
+
 Otra forma de constituir grupos parlamentarios
 
 ###### Artículo 44.
@@ -742,6 +756,10 @@ Otra forma de constituir grupos parlamentarios
 Las diputadas y diputados que dejen de pertenecer a un grupo parlamentario, sin integrarse a otro existente, se les considerará sin partido y sin representación en la Junta de Coordinación Política, tendrán las mismas prerrogativas que los demás legisladores, y se les apoyará en lo individual, conforme a la suficiencia presupuestal de la Legislatura, para el desempeño de sus funciones de representación popular.
 
 Las diputadas y diputados de una o varias afiliaciones partidarias podrán constituir un solo grupo parlamentario. Estos grupos parlamentarios se tendrán por constituidos cuando cuatro o más diputadas o diputados decidan integrarlo.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Sin perjuicio de lo establecido en el párrafo anterior, cuando así lo decidan las diputadas y diputados que no formen parte de un grupo parlamentario, podrán conformar un grupo plural de dos o más integrantes, únicamente para efectos del ejercicio del gasto a que se refiere el artículo anterior.
 
 Prohibición
 
@@ -751,9 +769,11 @@ No podrán constituirse grupos parlamentarios relacionados con partidos polític
 
 Diputaciones independientes
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-Las diputadas y diputados electos a través de candidaturas independientes contarán con los mismos apoyos para el desempeño de sus funciones.
+Las diputadas y diputados electos a través de candidaturas independientes contarán con los mismos apoyos para el desempeño de sus funciones y podrán integrarse a un grupo parlamentario únicamente para efectos del ejercicio del gasto de conformidad con los artículos 43 y 44 de esta Ley.
 
 Entrega documentación
 
@@ -770,6 +790,14 @@ III. Escrito en el que se especifiquen los nombres de las diputadas o diputados 
 IV. Reglamento interno del grupo parlamentario, en el cual se establecerán su organización y funcionamiento, los derechos y obligaciones de sus integrantes y el procedimiento para designar y remover a las diputadas o diputados de su coordinación y sub coordinación, y
 
 V. Programa de trabajo en el que se incluyan objetivos y propuestas legislativas prioritarias.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Acta Constitutiva
+
+###### Artículo 47 Bis.
+
+Los grupos parlamentarios informarán por escrito para su autorización al Pleno de la Legislatura, haber celebrado un acta constitutiva con la finalidad de ejercer su presupuesto asignado, con el objeto de acreditar la representación legal del grupo parlamentario como unidad administrativa ejecutora del gasto, con las facultades para realizar los trámites de carácter administrativo, tributario, financiero y civil, de conformidad con esta Ley y su Reglamento General.
 
 Plazo para entrega de documentación
 
@@ -815,7 +843,9 @@ Procedimiento legislativo
 
 El procedimiento legislativo tiene por objeto la creación, derogación o abrogación de normas jurídicas y:
 
-I. Será ordinario cuando se refiera a la creación, reforma, adición, derogación o abrogación de una ley, decreto o acuerdo, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+I. Será ordinario cuando se refiera a la creación, reforma, adición, derogación o abrogación de una ley, decreto o proposición con punto de acuerdo, y
 
 II. Se denominará procedimiento para la reforma constitucional, cuando se trate de reformas a la Constitución federal o a la propia del Estado.
 
@@ -849,9 +879,11 @@ VI. Remisión al Poder Ejecutivo.
 
 Iniciativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 55.
 
-La iniciativa es el acto a través del cual las diputadas y diputados, así como los demás sujetos facultados por la Constitución estatal, someten a la consideración de la Legislatura un proyecto de ley, decreto o acuerdo.
+La iniciativa es el acto a través del cual las diputadas y diputados, así como los demás sujetos facultados por la Constitución estatal, someten a la consideración de la Legislatura un proyecto de ley, decreto o proposición con punto de acuerdo.
 
 A toda iniciativa deberá preceder la investigación y estudio sobre la materia que versa, así como la aplicación de métodos y técnicas legislativas.
 
@@ -897,7 +929,9 @@ I. De ley, cuando contengan un proyecto de resolución por el que se otorguen de
 
 II. De decreto, cuando se trate de un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a determinadas personas físicas o morales, y
 
-III. De acuerdo, cuando se trate de cualquier otra resolución que no sea ley o decreto, las cuales sólo podrán ser presentadas por diputadas y diputados.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+III. Proposición con punto de acuerdo, cuando se trate de cualquier otra resolución que no sea ley o decreto, las cuales sólo podrán ser presentadas por diputadas y diputados.
 
 Estructura iniciativas de ley y decreto
 
@@ -913,13 +947,25 @@ III. Disposiciones transitorias.
 
 Estructura iniciativas de punto de acuerdo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 61.
 
-Las iniciativas de punto de acuerdo deberán contener:
+Las iniciativas de proposición de punto de acuerdo deberán contener:
 
 I. Exposición de Motivos;
 
-II. Especificar la naturaleza de la proposición;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+II. Especificar la naturaleza de la proposición, la cual podrá ser de:
+
+Exhorto, cuando se solicite a alguna autoridad dependiente de los Poderes de la Unión y los del Estado, en el marco de colaboración que debe imperar entre los mismos, información sobre el ejercicio de sus funciones, la ejecución de determinados actos, respecto el cumplimiento de obligaciones cuyos efectos sean de interés para una comisión legislativa o de alguna diputada o diputado en particular que requiera para su desempeño.
+
+El punto de acuerdo está incluido dentro de éste tipo de proposición cuando se solicita información de interés general del Estado, de la colectividad, de una región, de un Ayuntamiento, de un sector de la sociedad, e igualmente cuando se solicita el cese o suspensión de determinadas acciones consideradas perjudiciales o que afecten intereses de terceros, así como para crear alguna comisión legislativa ordinaria o especial,
+
+Pronunciamiento, cuando se solicite la declaración expresa de la Legislatura, para realizar un posicionamiento en relación a una manifestación, acontecimiento, resolución o acuerdo de dependencias, entidades u organismos locales, nacionales e internacionales, así como en relación a asuntos de orden político, social o cultural, cuyos efectos sean de interés general, y
+
+Recomendación, cuando se realice una sugerencia respetuosa, en el ámbito de colaboración entre los Poderes, a órganos de la administración pública federal y local, del Poder Judicial o de los Ayuntamientos, a efecto de que realicen algún acto, gestión, cumplimiento de obligación, resolución o acuerdo, o para que atiendan algún asunto de su incumbencia administrativa y de gestión, que sea de interés general;
 
 III. Solicitar, en su caso, su aprobación con el carácter de urgente u obvia resolución, y
 
@@ -933,15 +979,19 @@ La estructura lógico jurídica de las iniciativas de ley se integrará por libr
 
 Detalles en reglamentación
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 63.
 
-El Reglamento General establecerá la estructura de las leyes, decretos o acuerdos y el modo de proceder a su admisión y votación.
+El Reglamento General establecerá la estructura de las leyes, decretos o proposiciones con punto de acuerdo y el procedimiento para su admisión y votación.
 
 Trámite urgente de iniciativas de ley o decreto
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 64.
 
-En caso de urgencia calificada por las dos terceras partes de las diputadas y diputados presentes, la Legislatura podrá dispensar o abreviar los trámites establecidos para la aprobación de iniciativas de ley o decreto.
+En caso de urgencia calificada por las dos terceras partes de las diputadas y diputados presentes, la Legislatura podrá dispensar o abreviar los trámites establecidos para la aprobación de iniciativas de ley, de decreto, o proposición con punto de acuerdo.
 
 Inteligencia artificial
 
@@ -957,9 +1007,11 @@ Ninguna iniciativa, análisis o cualquier otra etapa del proceso legislativo, po
 
 Dictamen
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-El dictamen es la opinión y juicio fundado y motivado que resulta del análisis de una o varias iniciativas de ley, decreto, acuerdo o, en su caso, una resolución que emite la comisión competente.
+El dictamen es la opinión y juicio fundado y motivado que resulta del análisis de una o varias iniciativas de ley, decreto, proposición con punto de acuerdo o, en su caso, una resolución que emite la comisión competente.
 
 El dictamen será sometido a consideración del Pleno, iniciando la fase de discusión.
 
@@ -969,9 +1021,13 @@ Estructura dictamen
 
 Los dictámenes deberán presentarse por escrito, debidamente firmados por quienes integren la comisión o comisiones dictaminadoras, y deberán contener:
 
-I. La identificación de las iniciativas, propuestas, solicitudes o denuncias, precisando si es de ley, decreto, acuerdo o, en su caso, una resolución;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-II. Si se trata de una iniciativa de ley, decreto, acuerdo o, en su caso, una resolución; el dictamen atenderá a la estructura lógico jurídica del artículo 60 de la presente Ley, en lo conducente, y
+I. La identificación de las iniciativas, propuestas, solicitudes o denuncias, precisando si es de ley, decreto, proposición con punto de acuerdo o, en su caso, una resolución;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+II. Si se trata de una iniciativa de ley, decreto, proposición con punto de acuerdo o, en su caso, una resolución; el dictamen atenderá a la estructura lógico jurídica del artículo 60 de la presente Ley, en lo conducente, y
 
 III. Si el dictamen propone una resolución, deberá reunir las condiciones de motivación, fundamentación y puntos resolutivos.
 
@@ -1053,9 +1109,11 @@ La comisión dictaminadora podrá acumular aquellas iniciativas que versen sobre
 
 Entrega dictamen pleno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 76.
 
-Los dictámenes y, en su caso, los votos particulares, se discutirán en la sesión ordinaria posterior a aquélla en que hayan sido leídos ante el Pleno, debiendo entregarse a las diputadas y diputados con oportunidad, por escrito o por medio magnético, antes de la primera lectura.
+Los dictámenes y, en su caso, los votos particulares, se discutirán en la sesión ordinaria posterior a aquélla en que hayan sido leídos ante el Pleno, debiendo entregarse a las diputadas y diputados con oportunidad, por escrito o en su versión digital mediante correo electrónico oficial, y en su caso, mediante dispositivo de almacenamiento, antes de la primera lectura.
 
 Para los efectos citados, la comisión dictaminadora deberá entregar a la Mesa Directiva, en un plazo no mayor a 24 horas a partir de su aprobación, el dictamen en formato impreso o electrónico.
 
@@ -1081,7 +1139,13 @@ La lectura es la etapa del proceso legislativo ordinario por medio de la cual se
 
 Cada dictamen deberá contar con dos lecturas para poder entrar a la etapa de discusión.
 
-La primera lectura se agotará con la publicación del dictamen en la gaceta parlamentaria. La segunda lectura deberá ser en una sesión posterior.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+La primera lectura se agotará con la publicación del dictamen en la gaceta parlamentaria. La segunda lectura deberá ser en una sesión posterior, en donde la presidencia de la comisión dictaminadora presentará el dictamen.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+A propuesta de la Presidencia de la Mesa Directiva, el Pleno podrá dispensar la lectura parcial o total de un dictamen.
 
 #### Sección Quinta. Discusión
 
@@ -1099,9 +1163,11 @@ La Presidencia de la Mesa Directiva someterá a discusión el asunto, primero en
 
 Lista de oradores
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 82.
 
-En caso de existir discusión, la Presidencia formará una lista en la cual inscribirá a quienes deseen pronunciarse a favor o en contra del dictamen, concediendo alternativamente el uso de la palabra a quienes se hayan inscrito, debiendo llamarles por el orden de lista y comenzando por las participaciones a favor.
+En caso de existir discusión, la Presidencia formará una lista en la cual inscribirá a quienes deseen pronunciarse a favor o en contra del dictamen, concediendo alternativamente el uso de la palabra a quienes se hayan inscrito, debiendo llamarles por el orden de lista y comenzando por las participaciones en contra.
 
 Asunto suficientemente discutido
 
@@ -1173,13 +1239,17 @@ Para efecto de la votación, se entenderá por:
 
 I. Mayoría simple de votos, es la emitida por la mitad más uno de las diputadas y diputados presentes;
 
-II. Mayoría relativa de votos, es la emitida por la mitad más uno de las diputadas y diputados que integren la Legislatura;
+II. (DEROGADA, P.O. 4 DE DICIEMBRE DE 2024)
 
-III. Mayoría absoluta de votos, es la emitida por las dos terceras partes de las diputadas y diputados presentes, y
+III. (DEROGADA, P.O. 4 DE DICIEMBRE DE 2024)
 
-IV. Mayoría calificada de votos, es la emitida por las dos terceras partes de las diputadas y diputados que integren la Legislatura.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-Salvo norma expresa en contrario en la Constitución estatal, esta Ley o su Reglamento General, serán válidos los resultados por mayoría simple de votos.
+IV. Mayoría calificada de votos, es la emitida por las dos terceras partes de las diputadas y diputados presentes.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IV, P.O. 4 DE DICIEMBRE DE 2024.]</small>
+
+Salvo norma expresa en contrario en la Constitución estatal, esta Ley o su Reglamento General, así como en otras leyes serán válidos los resultados por mayoría simple de votos.
 
 Descripción Minuta
 
@@ -1503,13 +1573,15 @@ La elección de las diputadas o diputados para ocupar los cargos señalados en e
 
 Permanencia cargo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 121.
 
-La Mesa Directiva permanecerá en su cargo un periodo ordinario de sesiones. Se les elegirá por mayoría relativa de votos.
+La Mesa Directiva permanecerá en su cargo un periodo ordinario de sesiones. Se les elegirá por mayoría simple de votos.
 
 Quienes ocupen una coordinación de grupo parlamentario no podrá formar parte de la Mesa Directiva.
 
-Las diputaciones que pertenezcan al Grupo Parlamentario que presida la Junta de Coordinación Política, no serán elegibles para presidir la Mesa Directiva.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 Mesa Directiva Comisión Permanente
 
@@ -1655,9 +1727,11 @@ XVI. Las demás que establezca esta Ley, su Reglamento General y otras normas ap
 
 Órgano Supremo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 130.
 
-La Junta de Coordinación Política es el órgano colegiado y plural de gobierno permanente, encargado de dirigir y optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Legislatura.
+La Junta de Coordinación Política es el órgano colegiado y plural de gobierno permanente, encargado de dirigir y optimizar el ejercicio de las funciones legislativas y políticas de la Legislatura, así como las administrativas que expresamente señale esta Ley.
 
 La búsqueda del consenso será el criterio de su actuación. Adoptará sus decisiones por mayoría, mediante el sistema de voto ponderado, de acuerdo con el número de diputadas y diputados que integran el grupo parlamentario que representan.
 
@@ -1715,17 +1789,25 @@ V. Proponer al Pleno la designación y remoción de la persona titular de la Aud
 
 VI. Expedir, una vez que el Pleno los apruebe, los nombramientos de las personas titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas del Órgano de Administración y Finanzas, la Comisión de Vigilancia y la Comisión de Estudios Legislativos y Prácticas Parlamentarias, en sus respectivos ámbitos;
 
-VII. Presentar iniciativas de ley, decreto o acuerdo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+VII. Presentar iniciativas de ley, decreto proposiciones con punto de acuerdo o acuerdos de órgano de gobierno;
 
 VIII. Firmar acuerdos relativos a los asuntos que se discutan en el Pleno de la Legislatura;
 
-IX. Suscribir, en representación de la Legislatura, los convenios de coordinación, colaboración o concertación;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-X. Proponer a los integrantes de las comisiones legislativas y, en su caso, especiales, así como sustituirlos cuando exista causa justificada;
+IX. Suscribir, en representación de la Legislatura, los convenios de coordinación, colaboración o concertación, que no representen una erogación de gasto presupuestal;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+X. Proponer a los integrantes de las comisiones legislativas y, en su caso, especiales, así como sustituirlos cuando exista causa justificada mediante acuerdo de órgano de gobierno que será sometido a la aprobación del Pleno por mayoría simple;
 
 XI. Coordinar las relaciones de la Legislatura con órganos similares;
 
-XII. Recibir y evaluar los informes anuales de las comisiones, asimismo el financiero mensual del Órgano de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XII. Recibir y evaluar los informes anuales de las comisiones, asimismo tener por radicado el financiero mensual que remita el Órgano de Administración y Finanzas para conocimiento de los integrantes de la Junta, quienes podrán solicitar aclaraciones respecto de su contenido;
 
 XIII. Coordinar con la Mesa Directiva la conformación del orden del día y desarrollo del trabajo legislativo;
 
@@ -1753,7 +1835,9 @@ XX. Analizar e implementar, en coordinación con el Órgano de Administración y
 
 XXI. Proponer al Pleno el proyecto de Estatuto del Servicio Profesional de Carrera Parlamentaria;
 
-XXII. Ejercer las atribuciones que no estén expresamente conferidas a la Mesa Directiva o al Órgano de Administración y Finanzas, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XXII. En su caso, ejercer las atribuciones que no estén expresamente conferidas a la Mesa Directiva o al Órgano de Administración y Finanzas, y
 
 XXIII. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
 
@@ -1815,9 +1899,11 @@ Al concluir el periodo de receso, la Presidencia de la Comisión Permanente rend
 
 Naturaleza jurídica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 145.
 
-El Órgano de Administración y Finanzas es el cuerpo colegiado y plural encargado de administrar, conjuntamente con la Junta de Coordinación Política, los recursos humanos, financieros y materiales de la Legislatura, facultad que ejercerán a través de la Dirección de Administración y Finanzas, en los términos de lo establecido en esta Ley, su Reglamento General y otras normas aplicables.
+El Órgano de Administración y Finanzas es el cuerpo colegiado y plural encargado de administrar los recursos humanos, financieros y materiales de la Legislatura, facultad que ejercerá a través de la Dirección de Administración y Finanzas, en los términos de lo establecido en esta Ley, su Reglamento General y otras normas aplicables.
 
 Adoptará sus decisiones por mayoría, mediante el sistema de voto ponderado, de acuerdo con el número de diputadas y diputados que integran el grupo parlamentario que representan.
 
@@ -1857,7 +1943,9 @@ I. Revisar, modificar y aprobar, dentro de los primeros cinco días hábiles del
 
 De conformidad con el artículo 65, fracción IV, segundo párrafo de la Constitución estatal, no podrán presupuestarse recursos para ayudas sociales;
 
-II. Asignar subvenciones, en su caso, a los grupos parlamentarios, las que deberán sujetarse a las leyes en materia de comprobación del gasto;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+II. Asignar las subvenciones que correspondan a los grupos parlamentarios constituidos como unidades administrativas ejecutoras del gasto, las que deberán sujetarse a la normatividad en materia de comprobación;
 
 III. Establecer los lineamientos del ejercicio, administración y control de los recursos del Poder Legislativo;
 
@@ -3298,3 +3386,37 @@ P.O. 24 DE SEPTIEMBRE DE 2024.
 Artículo primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 15.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Derogación
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+Reglamentación
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 30 días hábiles siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento General del Poder Legislativo del Estado.
+
+Estatuto
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 30 días naturales siguientes a la publicación del Reglamento General previsto en el artículo inmediato anterior, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Estatuto del Servicio Profesional de Carrera Parlamentaria y el Reglamento de las Condiciones Generales de Trabajo de los Servidores Públicos que Laboran en el Poder Legislativo.
+
+Supletoriedad
+
+###### ARTÍCULO QUINTO.
+
+En tanto no se modifique el marco jurídico del estado de Zacatecas, para homologar los tipos de votación específica a que se refiere el artículo 91 de la Ley Orgánica del Poder Legislativo del Estado de Zacatecas, se entenderá por Mayoría Relativa, a la mitad más uno de las diputadas y diputados presentes; mientras que para este mismo efecto, se entenderá por Mayoría Absoluta, a la emitida por las dos terceras partes de las diputadas y diputados que integran la legislatura.
