@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2024-10-19"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -4377,11 +4377,17 @@ Las vacantes se otorgarán invariablemente a los trabajadores que acrediten mayo
 
 En educación las vacantes que quedaren en cualquier rama, serán cubiertas por el trabajador de la educación que acredite mayor puntuación en el concurso relativo. En las vacantes de enseñanza media solamente podrán ascender los que acrediten título o pasantía de Normal Superior. En las vacantes de educación especial solamente podrán ascender los que acrediten título en la especialidad o pasantía.
 
-Las vacantes de enseñanza superior, Escuela Normal del Estado, serán cubiertas por maestro titulado o pasante de Normal Superior, que tenga un mínimo de antigüedad de 5 años en el nivel de enseñanza media y que haya trabajado en el nivel pre-escolar o primario en escuelas estatales oficiales. En la Escuela de Trabajo Social, se requerirá título o pasantía de Trabajador Social, o título de Normal Superior o pasantía y que se encuentre laborando en el nivel de enseñanza media con una antigüedad mínima de 5 años en escuelas estatales oficiales.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-En la vacante de Director de la Escuela Normal del Estado se requerirá título de Normal Superior y ser subdirector de la misma; en las vacantes de subdirectores, tener título de Normal Superior y haber sido profesor de dicha escuela cuando menos los últimos 5 años.
+En la institución Benemérita y Centenaria Escuela Normal del Estado de Chihuahua “Profesor Luis Urías Belderrain” y Escuela de Trabajo Social del Estado de Chihuahua “Profra. y T.S. Guadalupe Sánchez de Araiza”, serán cubiertas por personal que acredite tener título de Licenciatura y grado de Maestría compatible con el perfil de las asignaturas que impartirá y/o al Cuerpo Académico del que formará parte, acreditando la experiencia en ello.
 
-En la vacante de Director de la Escuela de Trabajo Social del Estado, se requerirá título de Normal Superior si el concursante es maestro; título de trabajador social si el aspirante es trabajador social y en ambos casos haber sido subdirector de la misma. En las vacantes de subdirectores, tener título de Normal Superior si el aspirante es maestro, título de trabajador social si el aspirante tiene tal profesión y en ambos casos haber sido profesor de dicha escuela cuando menos los últimos 5 años.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+En las vacantes de Dirección de la Institución Benemérita y Centenaria Escuela Normal del Estado de Chihuahua “Profesor Luis Urías Belderrain” y la Escuela de Trabajo Social del Estado de Chihuahua “Profra. y T.S. Guadalupe Sánchez de Araiza”, se requerirá título de Maestría y al menos cinco años de ejercer como docente de Educación Superior en institución del subsistema estatal de educación. El cargo de Directora o Director será otorgado por cuatro años. Una misma persona podrá ocupar más de una vez el cargo de Directora o Director en periodos no consecutivos.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+En las vacantes de Subdirectora Académica o Subdirector Académico y Subdirectora Administrativa o Subdirector Administrativo de la Institución Benemérita y Centenaria Escuela Normal del Estado de Chihuahua “Profesor Luis Urías Belderrain “ y la Escuela de Trabajo Social del Estado de Chihuahua “Profra. y T.S. Guadalupe Sánchez de Araiza”, se requerirá título de Maestría y al menos cinco años de ejercer como docente de Educación Superior en institución del subsistema estatal de educación. El cargo de Subdirectora o Subdirector será otorgado por cuatro años. Una misma persona podrá ocupar más de una vez los cargos de Subdirectora o Subdirector Académico o Subdirectora o Subdirector Administrativo en periodos no consecutivos.
 
 Para los efectos de este artículo, el interesado se ajustará a las normas del Reglamento de Compatibilidades.
 
@@ -11200,6 +11206,14 @@ La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones 
 P.O. 19 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII//RFLYC/0888/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO ADMINISTRATIVO, AMBOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0936/2024 XV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 802 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
