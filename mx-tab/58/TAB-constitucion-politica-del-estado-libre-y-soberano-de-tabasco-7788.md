@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2024-11-30"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -280,6 +280,18 @@ V. Derecho de acceso a la justicia y al debido proceso.
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
 Asimismo, el Estado garantizará la libertad de circulación y de establecimiento que asiste a la población trabajadora migrante dentro del territorio estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 2° BIS.- Las personas de sesenta a sesenta y cuatro años de edad tendrán derecho a recibir por parte del Estado una pensión no contributiva en los términos y condiciones que fije la Ley.
+
+Las personas con discapacidad permanente que no reciban el apoyo económico previsto en el párrafo décimo cuarto del artículo 4° de la Constitución Federal, tendrán derecho a recibir un apoyo económico en los términos que fije la Ley. Para recibir esta prestación tendrán prioridad las niñas, niños y adolescentes, las personas indígenas y afromexicanas hasta la edad de sesenta años y las personas que se encuentren en condición de pobreza.
+
+Con el fin de contribuir al desarrollo de los diversos sectores productivos, generar empleos y coadyuvar a combatir la pobreza, se establecerán programas de apoyo, en los términos que establezcan las leyes secundarias y acorde a las disponibilidades presupuestales.
+
+El Estado establecerá un sistema de becas para las y los estudiantes de nivel superior en universidades públicas, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación.
+
+La Ley establecerá la concurrencia del Poder Ejecutivo del Estado y los Municipios para los efectos de garantizar los derechos señalados.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -4166,5 +4178,17 @@ PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su pu
 SEGUNDO. Dentro de los noventa días naturales siguientes a su publicación, el Congreso del Estado, deberá expedir la ley reglamentaria en materia de Revocación de Mandato y en su caso las reformas pertinentes para armonizar el marco jurídico estatal a las disposiciones contenidas en el presente Decreto.
 
 TERCERO. El ejercicio de las atribuciones que esta Constitución le confiere al Instituto Electoral y de Participación Ciudadana de Tabasco, se cubrirán con base en la disponibilidad presupuestaria para el presente ejercicio y los subsecuentes.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 025 POR EL QUE “SE ADICIONA EL ARTÍCULO 2 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los noventa días siguientes a su publicación, el Congreso del Estado, deberá expedir la ley reglamentaria o las reformas pertinentes para armonizar el marco jurídico estatal a las disposiciones contenidas en el presente Decreto, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme las disposiciones presupuestarias.
+
+TERCERO. Conforme al principio de progresividad y no regresión, el monto de los recursos asignados en el Presupuesto de Egresos del ejercicio fiscal que corresponda, para los programas de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores y de becas para estudiantes de nivel superior que se encuentren en condición de pobreza, no podrá ser disminuido respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
