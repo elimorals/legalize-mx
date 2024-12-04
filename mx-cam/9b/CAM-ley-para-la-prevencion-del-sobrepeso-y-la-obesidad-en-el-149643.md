@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-prevencion-del-sobrepeso-y-la-obesidad-en-el-149643
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-06"
-last_updated: "2021-04-06"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA PREVENCION DEL SOBREPESO Y LA OBESIDAD EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Número 1400 del Periódico Oficial del Estado de Campeche, el martes 6 de abril de 2021.
 
@@ -39,15 +39,19 @@ LEY PARA LA PREVENCIÓN DEL SOBREPESO Y LA OBESIDAD EN EL ESTADO DE CAMPECHE
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley rigen en el territorio del Estado de Campeche y son de orden público y de interés social.
+Las disposiciones de esta ley rigen en el territorio del Estado de Campeche y son de orden público y de interés social, de conformidad con lo dispuesto en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
 La presente ley tiene por objeto:
 
-I. Proveer un marco jurídico que permita desarrollar los mecanismos y las herramientas necesarias para prevenir el sobrepeso y la obesidad en las personas, así como la adopción de hábitos alimenticios y nutricionales correctos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+I. Proveer un marco jurídico que permita garantizar el desarrollo de los mecanismos y las herramientas necesarias para prevenir el sobrepeso y la obesidad en las personas, así como la adopción de hábitos alimenticios y nutricionales correctos.
 
 II. Determinar las bases generales para el diseño, la ejecución y evaluación de las estrategias, programas y políticas públicas a través del desarrollo de acciones coordinadas y de responsabilidad compartida entre las diferentes instituciones, en los ámbitos educativo, social, político y de salud que tengan como finalidad prevenir el sobrepeso y la obesidad.
 
@@ -97,7 +101,9 @@ II. Difundir e implementar las políticas públicas que establezca el Consejo Es
 
 III. Las demás que señale esta ley y otras normas aplicables.
 
-C) A través de la Secretaría de Desarrollo Social y Humano:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+C) A través de la Secretaría de Bienestar:
 
 I. Procurar campañas de información dirigidas a la población sobre la importancia de una alimentación adecuada y hábitos de vida saludables;
 
@@ -127,7 +133,9 @@ III. Tres vocales que serán los siguientes:
 
 a) La o el titular de la Secretaría de Educación del Estado;
 
-b) La o el titular de la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+b) La o el titular de la Secretaría de Bienestar;
 
 c) La o el presidente de la Comisión de Salud del Poder Legislativo del Estado; y
 
@@ -161,7 +169,9 @@ El Consejo Estatal tendrá las siguientes atribuciones:
 
 I. Evaluar y Eficientar las políticas, estrategias, acciones y mecanismos que permitan la prevención del sobrepeso y la obesidad en la población de la entidad;
 
-II. Emitir medidas encaminadas al fomento y a la adopción de hábitos alimenticios y nutricionales correctos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+II. Emitir medidas encaminadas al fomento y a la adopción de hábitos alimenticios y nutricionales correctos; enfocadas a reducir la disponibilidad a los menores de edad, en escuelas públicas y privadas, de alimentos procesados con alta densidad calórica, bebidas azucaradas y en general productos que provoquen sobrepeso y obesidad.
 
 III. Funcionar como órgano de consulta en materia de estrategias y programas encaminados hacia la prevención del sobrepeso y la obesidad, así como de fomento y adopción de hábitos alimenticios adecuados;
 
@@ -202,3 +212,13 @@ Que la LXIII Legislatura del H. Congreso del Estado Libre y Soberano de Campeche
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los once días del mes de marzo del año dos mil veintiuno.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- EL SECRETARIO GENERAL DE GOBIERNO, DR. JORGE DE JESÚS ARGÁEZ URIBE.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 18 POR EL QUE “SE REFORMAN EL ARTÍCULO 1; LA FRACCIÓN I DEL ARTÍCULO 2; EL INCISO C) DEL ARTÍCULO 4; EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 6 Y LA FRACCIÓN II DEL ARTÍCULO 11, TODOS DE LA LEY PARA LA PREVENCIÓN DEL SOBREPESO Y LA OBESIDAD EN EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
