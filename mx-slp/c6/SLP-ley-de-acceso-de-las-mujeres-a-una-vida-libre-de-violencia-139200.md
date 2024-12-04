@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-05-29"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -447,11 +447,15 @@ III. Elaborar, aprobar y evaluar el Programa, que incluya los mecanismos para pr
 
 IV. Diseñar un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
 
-V. Establecer un Banco Estatal de Información sobre la Violencia contra las Mujeres, que integre la información y estadísticas de todas las instituciones, dependencias, entidades y organismos relacionados con la materia. Este Banco será operado por la Secretaría Ejecutiva del Sistema, en coordinación con la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+V. Establecer un Banco Estatal de Información sobre la Violencia contra las Mujeres, que integre la información y estadísticas de todas las instituciones, dependencias, entidades y organismos relacionados con la materia. Este Banco será operado por la Secretaría Ejecutiva del Sistema, en coordinación con la Secretaría de Seguridad y Protección Ciudadana;
 
 VI. Llevar un registro administrativo de las sentencias condenatorias sobre hostigamiento o acoso sexual, con los nombres de los agresores, guardando el anonimato de la o las quejosas, con la información que le hagan llegar las instancias que reciban dichas quejas o denuncias;
 
-VII. Constituir un Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, que estará a cargo del Instituto de las Mujeres del Estado, quien podrá crear una comisión específica en coordinación y con la participación de por lo menos la Secretaría de Seguridad Pública del Estado, la Fiscalía General del Estado, el Poder Judicial del Estado, el Centro de Justicia para las Mujeres de la Entidad y los Refugios para las Víctimas de Violencia en el Estado, con el fin de apoyar las acciones de política criminal y otras que correspondan, así como facilitar el intercambio de información entre las instancias y determinar de manera anual la información y los indicadores que los entes obligados deberán reportar al mismo. Al efecto, las autoridades jurisdiccionales y administrativas que generen y ejecuten órdenes y/o medidas de protección, deberán reportar la información conducente a dicho Banco, con el fin de que se genere la información estadística correspondiente;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+VII. Constituir un Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, que estará a cargo del Instituto de las Mujeres del Estado, quien podrá crear una comisión específica en coordinación y con la participación de por lo menos la Secretaría de Seguridad y Protección Ciudadana, la Fiscalía General del Estado, el Poder Judicial del Estado, el Centro de Justicia para las Mujeres de la Entidad y los Refugios para las Víctimas de Violencia en el Estado, con el fin de apoyar las acciones de política criminal y otras que correspondan, así como facilitar el intercambio de información entre las instancias y determinar de manera anual la información y los indicadores que los entes obligados deberán reportar al mismo. Al efecto, las autoridades jurisdiccionales y administrativas que generen y ejecuten órdenes y/o medidas de protección, deberán reportar la información conducente a dicho Banco, con el fin de que se genere la información estadística correspondiente;
 
 VIII. Participar, a través de su Presidente, en la elaboración del Programa Nacional Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
@@ -685,17 +689,23 @@ j) Implementar acciones de sensibilización, capacitación y actualización, dir
 
 k) Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPÍTULO VII. SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VII. SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Corresponde a la Secretaría de Seguridad Pública del Estado:
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres, y dar seguimiento a las acciones del Programa que le correspondan;
 
 II. Diseñar, bajo los principios de transversalidad, y perspectiva de género, la política integral para la atención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
-III. Capacitar a los cuerpos de seguridad de su dependencia y demás personal, para atender, con perspectiva de género, respeto a los derechos humanos de las mujeres y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+III. Capacitar a los cuerpos de seguridad de su dependencia y demás personal, para atender, con perspectiva de género, respeto a los derechos humanos de las mujeres y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres, evaluando permanentemente su desempeño;
 
 IV. Formular las bases para la coordinación del Sistema Estatal con los Sistemas Nacional y Estatal de Seguridad Pública, para la prevención y erradicación de la violencia contra las mujeres;
 
@@ -837,7 +847,9 @@ El Centro de Justicia para las Mujeres llevará a cabo las funciones que le corr
 
 Corresponde a la Fiscalía General del Estado:
 
-I. Capacitar a la Policía Investigadora, fiscales del Ministerio Público, peritos, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, con pleno respeto a los derechos humanos de las mujeres, y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+I. Capacitar a la Policía Investigadora, fiscales del Ministerio Público, peritos, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, con pleno respeto a los derechos humanos de las mujeres, y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres evaluando permanentemente su desempeño;
 
 II. Establecer un área específica especializada en la atención de delitos que impliquen violencia contra las mujeres;
 
@@ -1527,17 +1539,21 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 El Banco Estatal de Información sobre la Violencia contra las Mujeres es un instrumento de carácter estratégico, para el acopio, sistematización y análisis de información documental, técnica, de investigación, y especialmente estadística, que permite al Sistema Estatal contar con elementos que posibiliten medir y evaluar la magnitud de la violencia contra las mujeres y los avances que se generen en materia de prevención, sanción y erradicación de la misma, así como proponer la reorientación de políticas públicas en la materia, a las dependencias, entidades e instituciones que las apliquen en el Estado y los municipios.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 55.
 
-El Banco Estatal de Información sobre la Violencia contra las Mujeres, estará a cargo del Instituto en su carácter de Secretaría Técnica del Sistema, de manera conjunta con la Secretaría de Seguridad Pública; ambas instituciones deberán coordinarse con las distintas dependencias, entidades y organismos públicos y privados que generen información sobre la materia para disponer los mecanismos a través de los cuales alimentarán la información de dicho Banco.
+El Banco Estatal de Información sobre la Violencia contra las Mujeres, estará a cargo del Instituto en su carácter de Secretaría Técnica del Sistema, de manera conjunta con la Secretaría de Seguridad y Protección Ciudadana; ambas instituciones deberán coordinarse con las distintas dependencias, entidades y organismos públicos y privados que generen información sobre la materia para disponer los mecanismos a través de los cuales alimentarán la información de dicho Banco.
 
 ###### ARTÍCULO 56.
 
 Todas las dependencias, entidades, instituciones, y organismos públicos y privados que prevengan, atiendan, presten servicios, o estén relacionadas directa o indirectamente con la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el Estado y los municipios de la Entidad, están obligadas a entregar la información con la que cuenten al Banco Estatal de Información sobre la Violencia contra las Mujeres, y a atender las recomendaciones y propuestas que les haga el Sistema Estatal, para reorientar sus políticas, programas, obras y acciones en la materia.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 57.
 
-El Instituto, y la Secretaría de Seguridad Pública del Estado, presupuestarán en tiempo y forma los recursos necesarios para la operación y funcionamiento del Banco Estatal de Información sobre la Violencia contra las Mujeres.
+El Instituto, y la Secretaría de Seguridad y Protección Ciudadana, presupuestarán en tiempo y forma los recursos necesarios para la operación y funcionamiento del Banco Estatal de Información sobre la Violencia contra las Mujeres.
 
 ###### ARTÍCULO 58.
 
@@ -1724,3 +1740,9 @@ P.O. 29 DE MAYO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0016.- SE REFORMAN LAS FRACCIONES V Y VII DEL ARTÍCULO 17, EL TÍTULO DEL CAPÍTULO VII DEL TÍTULO CUARTO, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 24, LA FRACCIÓN I DEL ARTÍCULO 30 Y LOS ARTÍCULOS 55 Y 57, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
