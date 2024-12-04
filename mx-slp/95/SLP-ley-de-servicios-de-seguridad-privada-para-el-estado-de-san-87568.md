@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-servicios-de-seguridad-privada-para-el-estado-de-san-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-03"
-last_updated: "2023-09-08"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de abril de 2012.
 
@@ -47,7 +47,9 @@ LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSI
 
 Las disposiciones de esta Ley son de orden público e interés social y de observancia general en el Estado; tiene por objeto regular la prestación de servicios de seguridad privada que podrán ser prestados por personas físicas o morales, en las modalidades previstas en este ordenamiento, y su reglamento.
 
-Los servicios se prestarán tomando en cuenta los principios de integridad y dignidad; protección y trato correcto a las personas, evitando en todo momento arbitrariedades y violencia, actuando en congruencia y proporcionalidad en la utilización de sus facultades y medios disponibles.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Los servicios tendrán como eje central a la persona y sus derechos humanos, observando y respetando el ejercicio de los derechos de ciudadanía con perspectiva de género, las libertades y los derechos fundamentales, así como el fomento de una cultura de paz.
 
 ###### ARTICULO 2°.
 
@@ -491,7 +493,9 @@ XII. Imponer, cobrar o exigir el pago de multas, o sanciones económicas sea cua
 
 Los prestadores de servicios estarán obligados a capacitar a su personal operativo, dicha capacitación podrá llevarse a cabo en la Academia de Seguridad Pública del Estado, o en los centros educativos con validez oficial, mismos que deberán ser autorizados y revalidados anualmente por la Secretaría. El reglamento establecerá los tiempos, formas y plazos para ello.
 
-La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los trabajadores se conduzcan bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos señalados en la Ley General del Sistema Nacional de Seguridad Pública.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+El reglamento establecerá los tiempos, formas y plazos para ello. La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que el personal operativo se conduzca bajo los principios de legalidad, objetividad, eficiencia, profesionalismo y respeto a los derechos humanos, previstos en la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí.
 
 ###### ARTICULO 37.
 
@@ -698,3 +702,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0015.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1º Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 36 DE LA LEY DEL SISTEMA DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
