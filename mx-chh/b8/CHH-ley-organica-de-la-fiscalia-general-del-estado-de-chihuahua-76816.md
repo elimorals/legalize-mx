@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2024-01-10"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -240,6 +240,12 @@ X. La Agencia Estatal de Investigación.
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 La persona titular de la Fiscalía General del Estado, las y los Fiscales Especializados y de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 3 Bis.
+
+La Fiscalía General procurará contar con el personal que domine el idioma y la cultura de los pueblos y comunidades indígenas, en los órganos que tengan mayor incidencia de casos que involucren a personas indígenas.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -818,6 +824,10 @@ V. Subcoordinadores Regionales de conformidad a la disponibilidad presupuestal;
 VI. Jefes de grupos adscritos a las unidades de investigación;
 
 VII. Los agentes de investigación adscritos a las unidades de investigación.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VII], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+Procurará la integración de agentes investigadores en los términos del artículo 3 Bis de la presente Ley.
 
 En el ejercicio de sus funciones recibirá las órdenes de investigación de los delitos directamente de los Fiscales Especializados o de los Fiscales de Distrito por Zonas, Coordinadores de las Unidades de Investigación y los agentes del Ministerio Público de que se trate, de conformidad con la legislación procesal penal, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
 
@@ -2068,3 +2078,11 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0937/2024 XV P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial del Estado.
