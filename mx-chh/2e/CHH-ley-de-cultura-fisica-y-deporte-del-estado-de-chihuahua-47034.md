@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2024-08-21"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -181,6 +183,14 @@ IV.- Recreación Física: Actividad física con fines lúdicos que permiten la u
 
 V.- Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones.
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+V BIS.- Suplementos Alimenticios: Componente alimenticio, nutriente o compuesto no alimenticio a base de hierbas, extractos vegetales, alimentos tradicionales, deshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar en forma farmacéutica, el cual es ingerido a propósito, adicional a la dieta habitualmente consumida, con el objetivo de conseguir un beneficio específico de salud o rendimiento.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+V TER.- Consumo Responsable de Suplementos Alimenticios: Se considera consumo responsable cuando la persona ha recibido la información de los riesgos potenciales de ingerir suplementos alimenticios, nutricionales o cualquier otro producto de libre venta que implique una alteración supuestamente beneficiosa para la práctica de la actividad física.
+
 VI.- Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
@@ -311,9 +321,9 @@ VII. El Instituto de Ciencias Biomédicas de la Universidad Autónoma de Ciudad 
 
 VIII. Las Asociaciones y Sociedades que estén reconocidas en términos de esta Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-A las sesiones del Sistema será invitada permanente, previa convocatoria, la Comisión de Juventud y Deporte del H. Congreso del Estado, la cual tendrá voz para opinar sobre los temas que se aborden.
+A las sesiones del Sistema serán invitados cuando el tema que se discuta así lo requiera, previa convocatoria, a una representación de la Comisión de Juventud y Deporte del H. Congreso del Estado, del Sistema Estatal para la Protección de Niñas, Niños y Adolescentes, así como del Instituto Chihuahuense de las Mujeres, quienes tendrán voz para opinar sobre los temas que se aborden.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -339,7 +349,9 @@ III.- Proponer planes y programas que contribuyan a fomentar, promover y estimul
 
 IV.- Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, desde una perspectiva de igualdad de género en la asignación de recursos.
 
-V.- (DEROGADA, P.O. 16 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+V.- Fomentar la coadyuvancia entre el Instituto, la Secretaría de Salud, las Asociaciones y Sociedades Deportivas, así como la sociedad civil para concientizar a la población que practique alguna actividad física, sobre el consumo responsable de suplementos alimenticios.
 
 VI.- (DEROGADA, P.O. 16 DE JULIO DE 2014)
 
@@ -767,13 +779,13 @@ XXVIII.- Emitir opinión en la formulación de los programas deportivos de las A
 
 XXVIII Bis.- Instrumentar e implementar el Programa de Fomento al Deporte de Alto Rendimiento y de Personas Deportistas Destacadas, para el desarrollo integral de atletas chihuahuenses.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-XXIX.- Promover, dentro de las asociaciones deportivas, la implementación de unidades de atención, políticas y protocolos de prevención y atención del hostigamiento y acoso sexual en contra de las mujeres en el deporte.
+XXIX. En coordinación con la Secretaría de Salud, generar certificaciones dirigidas a Asociaciones y Sociedades Deportivas, y en general al sector público y privado pertenecientes al ramo de la cultura física y deporte, con el objeto de fomentar el consumo responsable de suplementos alimenticios.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-XXX.- Las demás que esta Ley u otras disposiciones legales determinen.
+XXX. Las demás que esta Ley u otras disposiciones legales determinen.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2006)</small>
 
@@ -1685,11 +1697,11 @@ El Instituto promoverá, en coordinación con la Secretaría, el desarrollo e in
 
 El Instituto coordinará las acciones necesarias a fin de que los integrantes del Sistema obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 89.
 
-Los deportistas integrantes del Sistema tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
+Los deportistas integrantes del Sistema tendrán derecho a recibir atención médica y psicológica como parte de su desarrollo integral, para que puedan gozar de un estado pleno de salud. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1705,11 +1717,11 @@ Las instituciones y organizaciones de los sectores social y privado están oblig
 
 Las instituciones del sector salud y educativo promoverán, en su respectivo ámbito de competencia, programas de atención médica, psicológica y de nutrición para deportistas, formación y actualización de especialistas en medicina del deporte y ciencias aplicadas, así como para la investigación científica.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 92.
 
-La Secretaría de Salud del Estado y el Instituto procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
+La Secretaría de Salud del Estado y el Instituto procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina, psicología del deporte y demás ciencias aplicadas al deporte.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1756,6 +1768,18 @@ VIII.- Fomentar y promover equitativamente planes y programas destinados al impu
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 IX.- Fomentar, promover y reconocer a los deportistas indígenas destacados, así como implementar planes y programas que impulsen el desarrollo de la actividad física y del deporte, de los grupos originarios del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+X. Otorgar apoyo y asesoría a deportistas a fin de facilitar la gestión de los trámites correspondientes ante las instancias estatales, nacionales e internacionales cuando requieran salir del país para participar en competencias internacionales.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XI. Promover, estimular y fomentar la participación de las personas adultas mayores en el desarrollo de la activación física, la cultura física y el deporte.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XII. Los demás que le otorgue esta Ley u otros ordenamientos legales.
 
 ###### Artículo 95.
 
@@ -2700,3 +2724,11 @@ La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las 
 ###### ARTÍCULO CUARTO.
 
 Las asociaciones deportivas tendrán un periodo de 180 días hábiles para realizar las modificaciones necesarias a sus estatutos, para dar cumplimiento al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXVII/RFLEY/0923/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
