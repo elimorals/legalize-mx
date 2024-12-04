@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2024-07-10"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -223,9 +223,9 @@ XXIX.- Procurar que la educación estatal básica, en sus tres niveles, cuente c
 
 XXX.- Fomentar la educación y la cultura vial dentro de los programas de estudio de las instituciones públicas y privadas, a fin de enseñar entre los educandos conocimientos, hábitos, valores cívicos y éticos que tengan como finalidad la prevención de accidentes viales.
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-XXXI.- Impulsar programas y campañas de difusión tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas y los efectos nocivos que éstas generan en su salud, vida personal y en la sociedad.
+XXXI.- Impulsar programas y campañas de difusión tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas, bebidas azucaradas, alimentos con altos contenidos calóricos, así como todos aquellos que provoquen sobrepeso y obesidad, y los efectos nocivos que éstos generan en su salud, vida personal y en la sociedad.
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2018)</small>
 
@@ -1634,3 +1634,11 @@ P.O. 10 DE JULIO DE 2024.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 18 POR EL QUE "SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
