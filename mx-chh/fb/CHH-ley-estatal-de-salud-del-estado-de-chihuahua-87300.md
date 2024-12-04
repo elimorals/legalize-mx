@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-10-19"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -299,7 +299,13 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- La sanidad en los límites con otras Entidades.
 
-XVII.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XVII.- Promover la creación de programas de capacitación para prevenir y atender los casos de violencia, acoso y hostigamiento hacia el personal médico, médicos residentes y estudiantes de medicina, a fin de crear entornos libres de violencia y explotación laboral en las instituciones del Sistema Estatal de Salud.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+
+XVIII.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 13.
 
@@ -4252,6 +4258,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0902/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO, DE LA LEY DE SALUD MENTAL DEL ESTADO Y DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0943/2024 XVI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
