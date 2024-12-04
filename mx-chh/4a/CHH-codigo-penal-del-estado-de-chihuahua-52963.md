@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2024-06-29"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -933,7 +933,7 @@ Fijación de la pena en delito consumado
 
 Cuando la ley establece una pena se entiende que la impone a los autores o partícipes del delito consumado.
 
-[N. DE E. DEL ANÁLISIS AL DECRETO 1130/2015 I P.O., PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2016, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 67 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DEL 29 DE NOVIEMBRE DE 2014. SE SUGIERE CONSULTAR LA PÁGINA 783 DEL MENCIONADO DECRETO, QUE A LA LETRA DICE: "Artículo 67. Criterios de individualización
+[N. DE E. DEL ANÁLISIS AL DECRETO 1130/2015 I P.O., PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2016, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 67 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DEL 29 DE NOVIEMBRE DE 2014. SE SUGIERE CONSULTAR LA PÁGINA 783 DEL MENCIONADO DECRETO, QUE A LA LETRA DICE: “Artículo 67. Criterios de individualización
 
 La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, en proporción a la gravedad del ilícito, al grado de culpabilidad del agente, y al bien jurídico afectado, tomando en cuenta:
 
@@ -941,7 +941,7 @@ I. a IV. ...
 
 V. Los usos, costumbres y sistema normativo interno, cuando el procesado sea miembro de un pueblo o comunidad indígena;
 
-VI. a X. ..."]
+VI. a X. ...”]
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -2417,9 +2417,9 @@ Lo anterior se podrá imponer en el resto de los delitos previstos en el present
 
 ###### Artículo 180 Bis.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2024)</small>
 
-A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, se le impondrá de uno a cinco años de prisión y de cien a doscientos días de multa.
+A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, se le impondrá de dos a cinco años de prisión y de cien a doscientos días de multa.
 
 Las penas a que se refiere el presente artículo, se aumentarán en una mitad cuando el delito se cometa en contra de una persona menor de catorce años o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aun y cuando mediare su consentimiento.
 
@@ -5932,6 +5932,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0838/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0911/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 180 BIS, PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
