@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2018-01-24"
+last_updated: "2024-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -107,7 +107,9 @@ VI. Consejo Estatal: Al Consejo Estatal de Seguridad Pública, como Órgano Cole
 
 VII. Instituciones de Seguridad Pública: A las corporaciones de Seguridad y Protección Ciudadana, Procuración de Justicia, del Sistema Estatal de Seguridad Pública y demás dependencias encargadas de la seguridad pública a nivel estatal y municipal.
 
-VIII. Procuraduría de Justicia: a la Procuraduría General de Justicia del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+VIII. Fiscalía del Estado: A la Fiscalía General del Estado que integran a las Fiscalías del Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -121,7 +123,9 @@ XI. Programa Rector: al conjunto de contenidos encaminados a la profesionalizaci
 
 XII. Registro Nacional: al Registro Nacional de Personal de Seguridad Pública;
 
-XIII. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+XIII. Secretaría: A la Secretaría de Seguridad del Pueblo;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -147,7 +151,11 @@ I. Integrar el Sistema y cumplir con sus objetivos y fines;
 
 II. Formular políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
 
-III. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en esta ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+III. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en esta ley.
+
+Para lograr los fines establecidos en el párrafo anterior, el Estado, podrá suscribir convenios de colaboración con los Municipios y la Federación;
 
 IV. Proponer, ejecutar y evaluar el Programa Estatal de Procuración de Justicia, el Programa Estatal de Seguridad Pública, el Programa Estatal de Prevención del Delito y demás instrumentos programáticos;
 
@@ -207,33 +215,39 @@ El Consejo Estatal estará integrado por:
 
 I. El Presidente, que será el Gobernador del Estado.
 
-II. El Vicepresidente, que será el Secretario General de Gobierno.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+II. El vicepresidente, que será el Secretario General de Gobierno y Mediación.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 III. El Secretario Técnico, que será el Secretario Ejecutivo.
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 IV. Los Vocales, que serán los siguientes:
 
-a) El Secretario de Planeación, Gestión Pública y Programa de Gobierno.
+a) El Secretario de Finanzas.
 
-b) El Secretario de Hacienda.
+b) El Fiscal General del Estado.
 
-c) El Procurador General de Justicia del Estado.
+c) El Secretario de Seguridad del Pueblo.
 
-d) El Secretario de Seguridad y Protección Ciudadana.
+d) El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
-e) El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
+e) Los Presidentes Municipales.
 
-f) Los Presidentes Municipales.
+f) La Secretaría de la Defensa Nacional.
 
-g) La Secretaría de la Defensa Nacional.
+g) La Secretaría de Marina.
 
-h) La Secretaría de Marina.
+h) La Fiscalía General de la República.
 
-i) La Procuraduría General de la República.
+i) El Centro Nacional de Inteligencia.
 
-j) El Centro de Investigación y Seguridad Nacional.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Los funcionarios mencionados en los incisos g a la j de la fracción IV, serán los representantes del Gobierno Federal en el Estado.
+Los funcionarios mencionados en los incisos f) a la i) de la fracción IV, serán los representantes del Gobierno Federal en el Estado.
 
 Sus integrantes tendrán derecho a voz y voto; a cada sesión, se invitará cuando menos a dos representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar, cuya participación será de carácter honorífico.
 
@@ -473,7 +487,9 @@ VI. Los Representantes de las Dependencias Estatales en materia de Seguridad Pú
 
 VII. El Comité de Consulta y Participación Ciudadana del Municipio;
 
-VIII. Los funcionarios que designe el Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+VIII. Los funcionarios que designe el Secretario General de Gobierno y Mediación.
 
 IX. Un Coordinador de Prevención del Delito, que será nombrado por el H. Ayuntamiento; y,
 
@@ -485,11 +501,17 @@ Los Consejos Intermunicipales se integran con:
 
 I. Un Presidente que será electo de entre los Presidentes Municipales de los municipios que lo conforman, por un periodo de un año.
 
-II. Los funcionarios que designe el Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-III. Los funcionarios que designe el Secretario de Seguridad y Protección Ciudadana, con atribuciones en Seguridad Pública y reinserción social;
+II. Los funcionarios que designe el Secretario General de Gobierno y Mediación;
 
-IV. Los Agentes del Ministerio Público con jurisdicción en los municipios coordinados, cuando fueren varios, la Procuraduría de Justicia designará al representante;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+III. Los funcionarios que designe el Secretario de Seguridad del Pueblo, con atribuciones en Seguridad Pública y reinserción social;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+IV. Los Fiscales del Ministerio Público con jurisdicción en los municipios coordinados, cuando fueren varios, la Fiscalía del Estado designará al representante;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -617,7 +639,9 @@ XIX. Integrar los criterios para la distribución de los fondos de seguridad pú
 
 XX. Gestionar ante las autoridades competentes, la administración de los fondos de seguridad pública, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables.
 
-XXI. Coadyuvar con el Órgano Superior de Fiscalización, del H. Congreso del Estado, y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+XXI. Coadyuvar con la Auditoría Superior del Estado, y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta Ley.
 
 XXII. Supervisar la correcta aplicación de los recursos de los fondos por las dependencias ejecutoras y por los municipios.
 
@@ -817,6 +841,20 @@ XII. Las demás que establezcan las disposiciones legales aplicables.
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Artículo 34 bis.- Las Instituciones Policiales, para el mejor cumplimiento de sus objetivos, desarrollarán, entre otras, las siguientes funciones:
+
+I. Investigación, tendiente a realizar acciones para disminuir y combatir el fenómeno delictivo;
+
+II. Prevención, que será la encargada de disuadir en la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
+
+III. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la colaboración interinstitucional, que promueva la participación ciudadana, como procedimiento voluntario para solucionar pacíficamente conflictos derivados de molestias y problemáticas de la convivencia comunitaria que no constituyan delitos;
+
+IV. Reacción, que será la encargada de garantizar y mantener el orden y la paz pública, y;
+
+V. Las demás que establezcan las disposiciones legales aplicables.
+
 ###### Artículo 35.
 
 El documento de identificación de los integrantes de las instituciones de Seguridad Pública deberá contener al menos nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
@@ -947,51 +985,61 @@ VII. Las demás que establezcan otras disposiciones legales.
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 42.
 
-El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, Fiscal del Ministerio Público, Policía Especializada y a los Peritos.
+El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, Fiscal del Ministerio Público, Policía de Investigación y a los Peritos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43.
 
 El Consejo Estatal, promoverá la implementación del Servicio de Carrera en sus diferentes niveles, comprendiendo los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, evaluación, ascenso, dignificación y separación del servicio, a través de las instancias administrativas de formación a la carrera policial y ministerial.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+La policía de Investigación integrada por el Buró Ministerial y por la Policía de Apoyo Ministerial, de la Fiscalía del Estado, se sujetarán a lo dispuesto por esta Ley y en la Ley Orgánica que la rige, en materia de carrera policial.
 
-La policía especializada integrada por el Buró Ministerial y por la Policía de Apoyo Ministerial, de la Procuraduría General de Justicia del Estado, se sujetarán a lo dispuesto por esta Ley y en la Ley Orgánica que la rige, en materia de carrera policial.
-
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43 Bis.
 
-El Servicio de Carrera Ministerial, Policial y Pericial de la Procuraduría General de Justicia del Estado, estará constituida por el ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento en el desempeño de sus funciones, derechos, obligaciones, prestaciones, responsabilidades y sanciones.
+El Servicio de Carrera Ministerial, Policial y Pericial de la Fiscalía del Estado, estará constituida por el ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento en el desempeño de sus funciones, derechos, obligaciones, prestaciones, responsabilidades y sanciones.
 
-Para los efectos del párrafo anterior la permanencia se refiere a los requisitos del personal de la Procuraduría General de Justicia del Estado, de capacitarse, certificarse, presentar los exámenes y cursos a que se refiere esta Ley y su Ley Orgánica, para estar en aptitud de continuar prestando sus servicios en esa institución.
+Para los efectos del párrafo anterior la permanencia se refiere a los requisitos del personal de la Fiscalía del Estado, de capacitarse, certificarse, presentar los exámenes y cursos a que se refiere esta Ley y su Ley Orgánica, para estar en aptitud de continuar prestando sus servicios en esa institución.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43 Ter.
 
-Para ingresar como Fiscal del Ministerio Público, Policía Especializado y Perito a la Procuraduría General de Justicia del Estado, independientemente de la aprobación de los exámenes y cursos que exija el puesto, los titulares de las unidades administrativas responsables de esa institución, deberán consultar previamente el Registro Nacional de Seguridad Pública, de Seguridad Pública del Estado, de la Secretaría de la Función Pública del Estado, y de la Procuraduría General de la República; así como solicitar, en su caso, la información respectiva a las instituciones afines, con el objetivo de verificar que el aspirante no cuente con algún impedimento para ocupar el puesto de que se trate.
+Para ingresar como Fiscal del Ministerio Público, Policía de Investigación y Perito a la Fiscalía del Estado, independientemente de la aprobación de los exámenes y cursos que exija el puesto, los titulares de las unidades administrativas responsables de esa institución, deberán consultar previamente el Registro Nacional de Seguridad Pública, de Seguridad Pública del Estado, de la Secretaría Anticorrupción y Buen Gobierno, y de la Fiscalía General de la República; así como solicitar, en su caso, la información respectiva a las instituciones afines, con el objetivo de verificar que el aspirante no cuente con algún impedimento para ocupar el puesto de que se trate.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43 Quáter.
 
-El Servicio de Carrera Ministerial, Policial y Pericial de la Procuraduría General de Justicia del Estado, comprende lo relativo a Fiscales del Ministerio Público, Elementos de la Policía Especializada, Peritos, y se sujetará a las bases siguientes:
+El Servicio de Carrera Ministerial, Policial y Pericial de la Fiscalía del Estado, comprende lo relativo a Fiscales del Ministerio Público, Elementos de la Policía de Investigación, Peritos, y se sujetará a las bases siguientes:
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 I. Se compondrá de las etapas de ingreso, desarrollo y terminación del servicio, así como la reincorporación al mismo, en los términos de las disposiciones aplicables.
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 II. Tiene el carácter obligatorio, permanente y abarcará los programas, cursos, exámenes, y concursos correspondientes a las diversas etapas de la rama ministerial, policial y pericial, los cuales se realizarán por las unidades que determinen las disposiciones aplicables, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 III. Se rige por los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, lealtad, disciplina e imparcialidad y de respeto a los derechos humanos, y tendrá como objetivo la preparación, competencia, capacidad y superación constante del personal en el desempeño de sus funciones, así como fomentar la vocación del servicio y el sentido de permanencia.
 
 El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los Fiscales del Ministerio Público, y los auxiliares directos logren la profesionalización y ejerzan sus atribuciones con base en los referidos principios, promoverán el efectivo aprendizaje, el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio.
 
-IV. Contará con un sistema de rotación de Fiscales del Ministerio Público, elementos de la Policía Especializada y Peritos, dentro de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-V. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, elementos de la Policía Especializada y Peritos.
+IV. Contará con un sistema de rotación de Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos dentro de la Fiscalía del Estado.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+V. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1051,11 +1099,13 @@ i) No incurrir en actos u omisiones que causen la pérdida de confianza o afecte
 
 j) Los demás requisitos que establezcan las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43 Septies.
 
-Para ingresar y permanecer como Policía Especializado de Carrera se requiere:
+Para ingresar y permanecer como Policía de Investigación de Carrera se requiere:
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 I. Para ingresar al Buró Ministerial de Investigación:
 
@@ -1085,6 +1135,8 @@ l) Sustentar y acreditar el concurso de ingreso.
 
 m) Aprobar y obtener la certificación respectiva de Control de Confianza.
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 II. Para ingresar a la Policía de Apoyo Ministerial:
 
 a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad.
@@ -1112,6 +1164,8 @@ k) Aprobar los cursos de formación, capacitación y profesionalización que se 
 l) Sustentar y acreditar el concurso de ingreso.
 
 m) Aprobar y obtener la certificación respectiva de Control de Confianza.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 III. Para permanecer en ambas corporaciones:
 
@@ -1203,23 +1257,37 @@ g) Cumplir las órdenes de comisión, rotación y cambio de adscripción.
 
 h) Cumplir con las obligaciones que les impongan las leyes respectivas.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43 Nonies.
 
-Los servidores públicos de la Procuraduría General de Justicia del Estado, deberán someterse y aprobar los procesos de evaluación de control de confianza, del desempeño y de competencias profesionales, de conformidad con lo dispuesto en esta Ley, y demás disposiciones aplicables.
+Los servidores públicos de la Fiscalía del Estado, deberán someterse y aprobar los procesos de evaluación de control de confianza, del desempeño y de competencias profesionales, de conformidad con lo dispuesto en esta Ley, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 El proceso de evaluación de control de confianza, constará de los exámenes siguientes:
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 I. Patrimonial y de entorno social.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 II. Médico.
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 III. Psicométrico y psicológico.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 IV. Poligráfico.
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 V. Toxicológico.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 VI. Los demás que establezcan las normas aplicables.
 
@@ -1229,9 +1297,9 @@ VI. Los demás que establezcan las normas aplicables.
 
 El proceso de evaluación del desempeño comprenderá el comportamiento, el cumplimiento en el ejercicio de las funciones y los demás aspectos que establezcan las normas aplicables.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Artículo 43 Undecies.- Los procesos de evaluación a que se refieren los dos artículos anteriores tendrán por objeto que los servidores públicos de la Procuraduría den debido cumplimiento a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, eficacia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos.
+Artículo 43 Undecies.- Los procesos de evaluación a que se refieren los dos artículos anteriores tendrán por objeto que los servidores públicos de la Fiscalía den debido cumplimiento a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, eficacia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1249,15 +1317,21 @@ Artículo 43 Quaterdecies.- Los resultados de los procesos de evaluación y los 
 
 Artículo 43 Quindecies.- El Centro Estatal de Control de Confianza Certificado, emitirá los certificados correspondientes a quienes acrediten los requisitos de ingreso que establece esta Ley y el ordenamiento legal aplicable a la institución de que se trate.
 
-El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Procuraduría General Justicia del Estado, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Los aspirantes que ingresen a la Procuraduría General de Justicia del Estado, deberán contar con el certificado y registro correspondientes, de conformidad con lo establecido por esta Ley. Ninguna persona podrá ingresar o permanecer en (sic) Procuraduría General de Justicia del Estado sin contar con el certificado y registro vigentes.
+El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Fiscalía del Estado, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Los aspirantes que ingresen a la Fiscalía del Estado, deberán contar con el certificado y registro correspondientes, de conformidad con lo establecido por esta Ley. Ninguna persona podrá ingresar o permanecer en (sic) Fiscalía del Estado sin contar con el certificado y registro vigentes.
 
 A quienes aprueben las evaluaciones de control de confianza, del desempeño y de competencias profesionales se les expedirá la certificación a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 La certificación a que se refiere el párrafo anterior, deberá expedirse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de su registro. La certificación y el registro respectivo tendrán una vigencia de tres años.
 
-Para efectos de revalidación de la certificación y el registro, seis meses antes de la expiración de su vigencia los servidores públicos de la Procuraduría General de Justicia del Estado, deberán someterse a los procesos de evaluación respectivos. Será responsabilidad del titular del área de adscripción solicitar con oportunidad al órgano encargado del control de confianza, la programación de las evaluaciones correspondientes.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Para efectos de revalidación de la certificación y el registro, seis meses antes de la expiración de su vigencia los servidores públicos de la Fiscalía del Estado, deberán someterse a los procesos de evaluación respectivos. Será responsabilidad del titular del área de adscripción solicitar con oportunidad al órgano encargado del control de confianza, la programación de las evaluaciones correspondientes.
 
 La revalidación del certificado será requisito indispensable para su permanencia en las Instituciones de Procuración de Justicia y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
@@ -1265,25 +1339,33 @@ La revalidación del certificado será requisito indispensable para su permanenc
 
 Artículo 43 Sexdecies.- La certificación que otorgue el Centro Estatal de Control de Confianza Certificado deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Artículo 43 Septdecies.- La cancelación del certificado de los Servidores Públicos de la Procuraduría General de Justicia del Estado procederá:
+Artículo 43 Septdecies.- La cancelación del certificado de los Servidores Públicos de la Fiscalía General del Estado procederá:
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 II. Al ser removidos de su encargo;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 III. Por no obtener la revalidación de su Certificado, y,
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Artículo 43 Octodecies.- Para permanecer en el servicio de la Procuraduría General de Justicia del Estado, como Fiscal del Ministerio Público, elementos de la Policía, Peritos y Secretarios de Acuerdos Ministeriales, dentro del servicio de carrera ministerial, los interesados deberán participar en los programas que con ese fin determine la institución y en los concursos de promoción a que se convoque.
+Artículo 43 Octodecies.- Para permanecer en el servicio de la Fiscalía del Estado, como Fiscal del Ministerio Público, elementos de la Policía, Peritos y Secretarios de Acuerdos Ministeriales, dentro del servicio de carrera ministerial, los interesados deberán participar en los programas que con ese fin determine la institución y en los concursos de promoción a que se convoque.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Artículo 43 Novodecies.- Quienes formen parte del servicio de carrera en la Procuraduría General de Justicia del Estado, serán ascendidos previa evaluación que se realice al efecto, de conformidad con lo que establece esta Ley, y demás disposiciones aplicables.
+Artículo 43 Novodecies.- Quienes formen parte del servicio de carrera en la Fiscalía del Estado, serán ascendidos previa evaluación que se realice al efecto, de conformidad con lo que establece esta Ley, y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1339,9 +1421,11 @@ Las relaciones jurídicas entre las Instituciones Policiales y sus integrantes s
 
 Todos los servidores públicos de las Instituciones Policiales del Estado y los municipios que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 52.
 
-La legislación del Estado establecerá la organización jerárquica de las Instituciones Policiales, considerando al menos las categorías siguientes:
+La legislación del Estado, establecerá la organización jerárquica de las Instituciones Policiales de Seguridad Pública, considerando al menos las categorías siguientes:
 
 I. Comisarios;
 
@@ -1351,7 +1435,9 @@ III. Oficiales; y,
 
 IV. Escala Básica.
 
-En las policías ministeriales se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+En las policías de Investigación se establecerán como mínimo los niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1625,27 +1711,31 @@ Cuando en los procesos de certificación a cargo del Centro Estatal de Control d
 
 El Centro Estatal de Control de Confianza Certificado aplicará las evaluaciones a que se refiere esta Ley, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los Integrantes de las Instituciones de Seguridad Pública; así como en términos de las disposiciones, registros, acuerdos, resoluciones, mecanismos de coordinación que emita el Consejo Nacional; para tal efecto, tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-I. Evaluar y certificar a los policías y cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad y Protección Ciudadana, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
+I. Evaluar y certificar a los policías y cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Fiscalía del Estado y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad del Pueblo, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades;
 
 II. Evaluar y certificar a los policías y cuerpos de seguridad de los Municipios del Estado que por acuerdo y solicitud así lo requieran, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
 
-III. Formular, diseñar, programar, ejecutar, conducir y dar seguimiento a un sistema de control de base de datos y registro de policías, cuerpos de seguridad y personal de la Procuraduría de Justicia.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+III. Formular, diseñar, programar, ejecutar, conducir y dar seguimiento a un sistema de control de base de datos y registro de policías, cuerpos de seguridad y personal de la Fiscalía del Estado.
 
 IV. Suscribir con los diversos órganos de seguridad, de control de confianza y certificación de la Federación y otros Estados, los acuerdos que se requieran para el cumplimiento de su objeto.
 
 V. Suscribir con los Municipios del Estado y demás personas los acuerdos necesarios para llevar a cabo las acciones a que se refiere el presente instrumento.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-VI. Crear, ejecutar y dar seguimiento a un sistema o programa de base de datos que garantice el registro de situación patrimonial de los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad y Protección Ciudadana, así como de sus familiares, desde el registro, modificación y conclusión.
+VI. Crear, ejecutar y dar seguimiento a un sistema o programa de base de datos que garantice el registro de situación patrimonial de los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad del Pueblo, así como de sus familiares, desde el registro, modificación y conclusión.
 
-VII. Participar en representación del Ejecutivo del Estado, en las reuniones que convoque el Centro de Investigación y Seguridad Nacional y, en general con cualquier otra autoridad o persona que tenga funciones relacionadas con el objeto de creación del Centro, debiendo informar permanentemente al Ejecutivo de las acciones y los resultados derivados de las mismas.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+VII. Participar en representación del Ejecutivo del Estado, en las reuniones que convoque el Centro Nacional de Inteligencia y, en general con cualquier otra autoridad o persona que tenga funciones relacionadas con el objeto de creación del Centro, debiendo informar permanentemente al Ejecutivo de las acciones y los resultados derivados de las mismas.
 
-VIII. Establecer los mecanismos, instrumentos y procedimientos de evaluación sistemático y periódico a los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad y Protección Ciudadana, para garantizar su actuación, mediante certificación de que su conducta se apega a la ética y a la normatividad institucional, buscando en ello la inhibición de los actos de corrupción, impunidad y penetración del crimen organizado, y en general, cualquier otra acción que le permita el cumplimiento del objeto de su creación.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+VIII. Establecer los mecanismos, instrumentos y procedimientos de evaluación sistemático y periódico a los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Fiscalía del Estado y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad del Pueblo, para garantizar su actuación, mediante certificación de que su conducta se apega a la ética y a la normatividad institucional, buscando con ello la inhibición de los actos de corrupción, impunidad y penetración del crimen organizado, y en general, cualquier otra acción que le permita el cumplimiento del objeto de su creación.
 
 IX. Comunicar e informar a las autoridades competentes las conductas o el incumplimiento de las normas administrativas de aquellos servidores públicos que detecte el Centro en el ejercicio de sus funciones, para que aquellas inicien los procedimientos y determinen las sanciones que resulten procedentes.
 
@@ -1657,23 +1747,31 @@ XI. Las demás que sean necesarias para el cumplimiento de su objeto, así como 
 
 ### Capítulo Único. De la Información Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-El Estado y los municipios, suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que diariamente se genere sobre Seguridad Pública mediante los sistemas e instrumentos tecnológicos respectivos.
+El Estado y los Municipios, suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que diariamente se genere sobre Seguridad Pública mediante los sistemas e instrumentos tecnológicos respectivos.
 
 El Presidente del Consejo dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre Seguridad Pública.
 
-La Procuraduría de Justicia tendrá acceso a la información contenida en las bases de datos criminalísticos y de personal, en el ámbito de su función de investigación y persecución de los delitos.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+La Fiscalía del Estado tendrá acceso a la información contenida en las bases de datos criminalísticos y de personal, en el ámbito de su función de investigación y persecución de los delitos.
 
 La información sobre administración de justicia, podrá ser integrada a las bases de datos criminalísticas y de personal, a través de convenios con el Poder Judicial del Estado y con estricto apego a las disposiciones legales aplicables.
 
 El acceso a las bases de datos del sistema estará condicionado al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones que de la propia Ley emanen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 58.
 
 El Consejo determinará las bases para incorporar otros servicios o instrumentos que tiendan a integrar la información sobre Seguridad Pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
 
-La Secretaría y la Procuraduría de Justicia, implementarán los mecanismos que permitan agilizar el intercambio de información sobre bases de datos criminalísticos que permitan facilitar la investigación y persecución de los delitos.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría y la Fiscalía del Estado, implementarán los mecanismos que permitan agilizar el intercambio de información sobre bases de datos criminalísticos que faciliten la investigación y persecución de los delitos.
 
 Los integrantes del Sistema están obligados a compartir la información sobre Seguridad Pública que obre en sus bases de datos, con las de la Unidad de Sistematización, en los términos de las disposiciones normativas aplicables.
 
@@ -1707,9 +1805,11 @@ IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, ra
 
 V. Lugar a donde será trasladado el detenido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 62.
 
-La Procuraduría de Justicia deberá actualizar la información relativa al registro, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
+La Fiscalía del Estado deberá actualizar la información relativa al registro, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
 
 I. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
 
@@ -1725,7 +1825,9 @@ VI. Identificación antropométrica; y,
 
 VII. Otros medios que permitan la identificación del individuo.
 
-El Ministerio Público y la policía deberán informar a quien lo solicite de la detención de una persona y, en su caso, la autoridad a cuya disposición se encuentre, de conformidad a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+El Fiscal del Ministerio Público y la policía deberán informar a quien lo solicite de la detención de una persona y, en su caso, la autoridad a cuya disposición se encuentre, de conformidad a las disposiciones legales aplicables.
 
 ###### Artículo 63.
 
@@ -1755,9 +1857,11 @@ Dentro del sistema único de información criminal se integrará una base estata
 
 Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las Instituciones de Seguridad Pública, relativa a las investigaciones, procedimientos penales, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 67.
 
-La Procuraduría de Justicia podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionarán al sistema único de información criminal inmediatamente después que deje de existir tal condición.
+La Fiscalía del Estado podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionarán al sistema único de información criminal inmediatamente después que deje de existir tal condición
 
 ###### Artículo 68.
 
@@ -1949,9 +2053,11 @@ Las responsabilidades administrativas, civiles y penales en que incurran los ser
 
 Serán consideradas violaciones graves a la Constitución y a las leyes que de ella emanan, las acciones u omisiones previstas en esta ley, que se realicen en forma reiterada o sistemática.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 89.
 
-La Auditoría Superior de la Federación, fiscalizará los recursos federales que ejerzan el Estado y los municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables sin perjuicio de la fiscalización que, por convenio o conforme a su competencia, deba realizar el Órgano de Fiscalización Superior del H. Congreso del Estado.
+La Auditoría Superior de la Federación, fiscalizará los recursos federales que ejerzan el Estado y los municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables sin perjuicio de la fiscalización que, por convenio o conforme a su competencia, deba realizar la Auditoría Superior del Estado.
 
 ### Capítulo II. De los Delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
 
@@ -2142,3 +2248,13 @@ Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá reali
 Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
 
 Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+P.O. 5 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 038 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Consejo Estatal someterá a consideración del Ejecutivo Estatal las adecuaciones al reglamento del presente Decreto en un plazo no mayor a quince días a partir de la entrada en vigor del presente Decreto.
