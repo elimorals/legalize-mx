@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2024-10-09"
+last_updated: "2024-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS---ANTES---LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE CHIAPAS
 
-LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
+LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -39,31 +39,37 @@ C o n s i d e r a n d o
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
-Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Ley que Establece Las Bases de Operación de la Secretaría de Seguridad del Pueblo del Estado de Chiapas
 
 ## Título Primero. Disposiciones Generales
 
 ### Capítulo I. De su objeto y ámbito de aplicación
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general, tiene por objeto establecer las bases que rijan la actuación de la Secretaría de Seguridad y Protección Ciudadana, a efecto de regular las acciones en materia de seguridad pública, reinserción social y demás inherentes a las mismas, de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la Ley General del Sistema Nacional de Seguridad Pública, el Código Nacional de Procedimientos Penales, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones legales aplicables.
+La presente Ley es de orden público, interés social y de observancia general, tiene por objeto establecer las bases que rijan la actuación de la Secretaría de Seguridad del Pueblo, a efecto de regular las acciones en materia de seguridad pública, inteligencia, investigación y prevención del fenómeno delictivo, reinserción social y demás inherentes a las mismas, de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chiapas, la Ley General del Sistema Nacional de Seguridad Pública, el Código Nacional de Procedimientos Penales, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 2°.
+###### Artículo 2.
 
-La Secretaría de Seguridad y Protección Ciudadana es una Dependencia del Poder Ejecutivo del Estado, como una institución de carácter civil, disciplinada y profesional, su actuación se regirá por las leyes de la materia y sus reglamentos, además, por los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos y garantías constitucionales; tomando en cuenta la diversidad cultural de las distintas etnias en el Estado así como sus usos y costumbres, reconocidos por la Constitución Política de los Estados Unidos Mexicanos; por lo que, deberá fomentar la participación ciudadana como herramienta del combate a la delincuencia y rendir cuentas en términos de ley.
+La Secretaría de Seguridad del Pueblo es una Dependencia del Poder Ejecutivo del Estado, de carácter civil, disciplinada y profesional, su actuación se regirá por las leyes de la materia y sus reglamentos, además, por los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos y garantías constitucionales; tomando en cuenta la diversidad cultural de las distintas etnias en el Estado así como sus usos y costumbres, reconocidos por la Constitución Política de los Estados Unidos Mexicanos; por lo que, deberá fomentar la participación ciudadana como herramienta del combate a la delincuencia y rendir cuentas en términos de ley.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Por ello, las disposiciones contenidas en la presente Ley, son de orden y de observancia obligatoria para los servidores públicos de la Secretaría de Seguridad y Protección Ciudadana, quienes en el cumplimiento de su actuación velarán por los principios consagrados en este ordenamiento, y además con plena vocación de servicio, honestidad, disciplina, confianza, secrecía y lealtad, en beneficio de la sociedad.
+Por ello, las disposiciones contenidas en la presente Ley, son de orden y de observancia obligatoria para los servidores públicos de la Secretaría de Seguridad del Pueblo, quienes en el cumplimiento de su actuación velarán por los principios consagrados en este ordenamiento, y además con plena vocación de servicio, honestidad, disciplina, confianza, secrecía y lealtad, en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
 
 En ese sentido, se deben establecer acciones efectivas para proveer y ejecutar medidas de prevención, atención y en general todas aquellas que se requieran para erradicar la violencia de género, así como garantizar a las personas o grupos vulnerables, en especial a las mujeres y niñas, el pleno goce del derecho a una vida libre de violencia, lo anterior en términos de la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a Una Vida Libre de Violencia para las Mujeres y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Además, la Secretaría de Seguridad del Pueblo contará con las herramientas científicas y tecnológicas necesarias para investigar y combatir el fenómeno delictivo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -75,29 +81,43 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Carrera: Al Servicio Profesional de Carrera.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-II. Fuerza Ciudadana: A la policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad Pública y Protección Ciudadana de la Secretaría de Seguridad y Protección Ciudadana.
+II. Fuerza Ciudadana: A la policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Operación Policial.
 
 III. Instituciones de seguridad pública: A las Instituciones Policiales, de Procuración de Justicia, además a todas aquellas dependencias y entidades encargadas de la seguridad pública a nivel local y municipal.
 
 IV. Instituciones policiales: A las corporaciones de la policía fuerza ciudadana, la complementaria, de vigilancia, de protección, de seguridad y de custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las dependencias encargadas de la seguridad pública a nivel local, que realicen funciones similares.
 
-V. Instituto: Al Instituto de Formación Policial, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-VI. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría de Seguridad y Protección Ciudadana, y que desempeñen funciones de carácter operativo o de servicios, vinculadas a la seguridad pública.
+V. Instituto: Al Instituto de Formación Policial, órgano desconcentrado de la Secretaría de Seguridad del Pueblo.
 
-VII. Ley: A la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-VIII. Policía Complementaria: A la policía auxiliar adscrita a la Subsecretaría de Servicios Estratégicos de Seguridad, la cual presta los servicios de protección, custodia, vigilancia y seguridad a las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal, y a personas físicas o morales, mediante el pago de la contraprestación correspondiente.
+VI. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría de Seguridad del Pueblo, y que desempeñen funciones de carácter operativo o de servicios, vinculadas a la seguridad pública.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+VII. Ley: A la Ley que Establece las Bases de Operación de la Secretaría de Seguridad del Pueblo del Estado de Chiapas.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+VIII. Policía Complementaria: A la policía auxiliar adscrita a la Subsecretaría de Operación Policial, la cual presta los servicios de protección, custodia, vigilancia y seguridad a las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal, y a personas físicas o morales, mediante el pago de la contraprestación correspondiente.
 
 IX. Policía Procesal: A la policía de seguridad penitenciaria adscrita a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, encargada de resguardar la seguridad y el orden de los establecimientos penitenciarios; así como velar por la integridad física de las partes y sujetos intervinientes en las audiencias de juicios orales y traslados.
 
-X. Policías Preventivas del Estado: A las corporaciones operativas adscritas a la Secretaría de Seguridad y Protección Ciudadana.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-XI. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana.
+X. Policías Preventivas del Estado: A las corporaciones operativas adscritas a la Secretaría de Seguridad del Pueblo.
 
-XII. Secretario: Al titular de la Secretaría de Seguridad y Protección Ciudadana.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+XI. Secretaría: A la Secretaría de Seguridad del Pueblo.
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+XII. Secretario: Al titular de la Secretaría de Seguridad del Pueblo.
 
 XIII. Servicio: A la actividad física o intelectual que desempeña un integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
 
@@ -119,7 +139,9 @@ II. Establecer los proyectos, programas, herramientas y disposiciones normativas
 
 III. Coordinar la organización, ministración, resguardo y mantenimiento preventivo y correctivo del armamento, equipo, vehículos, inmuebles, muebles y recurso material asignado a la misma, en términos de los reglamentos y disposiciones que al efecto se dicten.
 
-IV. Establecer los mecanismos de coordinación operativa, logística y de inteligencia con las instituciones policiales, tendentes a la solución de la problemática en materia de Seguridad Pública que afecte el territorio del Estado.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+IV. Establecer los mecanismos de coordinación operativa, logística, de inteligencia e investigación con las instituciones policiales, tendentes a la solución de la problemática en materia de Seguridad Pública que afecte el territorio del Estado.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -129,15 +151,17 @@ VI. Controlar la operatividad de las Policías Preventivas del Estado para garan
 
 VII. Establecer los modelos y mecanismos de profesionalización, carrera policial, ascensos y recompensas, sistema disciplinario y normativo interno de la Secretaría.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-VIII. Proponer las condiciones para una adecuada promoción profesional, social y humana de los integrantes de la Secretaría, basados en los principios de honradez, lealtad, objetividad, igualdad de oportunidades, equidad de género, mérito y capacidad.
+VIII. Proponer las condiciones para una adecuada promoción profesional, social y humana de los integrantes de la Secretaría, basados en los principios de honradez, lealtad, objetividad, igualdad de oportunidades, igualdad de género, mérito y capacidad.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
 IX. Establecer mecanismos y protocolos necesarios para la aplicación de medidas de seguridad, de prevención, y en general todas aquellas que se requieran para erradicar la violencia de género, así como fomentar la atención, asistencia e información oportuna a las personas víctimas del delito, garantizando en todo momento el respeto a sus derecho (sic) humanos con un enfoque transversal de género y diferencial, en términos de las disposiciones legales aplicables.
 
-X. Brindar el auxilio de la fuerza pública al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado, y demás autoridades Federales, Estatales o Municipales, cuando así lo requieran y resulte necesario para el debido ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+X. Brindar el auxilio de la fuerza pública al Poder Judicial del Estado, a la Fiscalía General del Estado, y demás autoridades Federales, Estatales o Municipales, cuando así lo requieran y resulte necesario para el debido ejercicio de sus funciones.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -175,15 +199,17 @@ XVIII. Ejecutar el Plan de Reeducación para Personas Generadoras de Violencia, 
 
 La Secretaría contará para su funcionamiento y operación con los recursos humanos, materiales y financieros, instrumentos, políticas, acciones y servicios previstos en la normatividad vigente, tendentes a facilitar el cumplimiento de los objetivos establecidos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 6.
 
-La Secretaría deberá ejercer y controlar la coordinación en materia de Seguridad Pública y Reinserción Social, con la Federación y los Municipios del Estado, en el marco de cooperación que señala el Sistema Nacional de Seguridad Pública.
+La Secretaría deberá ejercer y controlar la coordinación en materia de Seguridad Pública y Reinserción Social, con la Federación, el Estado y los Municipios, a través de convenios de colaboración, en el marco de cooperación que señala el Sistema Nacional de Seguridad Pública.
 
 ## Título Segundo. De la organización de la Secretaría
 
 ### Capítulo I. De la Estructura Organizacional de la Secretaría
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 7.
 
@@ -191,45 +217,43 @@ La Secretaría, para su funcionamiento, se organizará de la forma siguiente:
 
 I. La Oficina del C. Secretario.
 
-II. Unidades de Apoyo al Secretario.
+II. Unidades de Apoyo al Secretario:
+
+a) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas;
+
+b) Unidad de Apoyo Jurídico;
+
+c) Unidad de Asuntos Internos;
+
+d) Unidad de Prevención del Delito y Política Criminal;
+
+e) Unidad de Transmisiones Digitales;
+
+f) Coordinación técnica;
+
+g) Dirección de Control de Servicios de Seguridad Privada;
+
+h) Dirección Fuerza de Reacción Inmediata Pakal;
+
+i) División de la Policía Operativa y de Servicios.
 
 III. Unidades de Apoyo a la Secretaría:
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+a) Subsecretaría de Operación Policial;
 
-a) Subsecretaría de Seguridad Pública y Protección Ciudadana.
+b) Subsecretaría de Inteligencia e Investigación Policial;
 
-b) Subsecretaría de Servicios Estratégicos de Seguridad
+c) Subsecretaría de Tránsito y Vialidad;
 
-c) Subsecretaría de Seguridad Turística y Vial.
-
-d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
-
-e) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas.
-
-f) Unidad de Apoyo Jurídico.
-
-g) Unidad de Inteligencia.
-
-h) Unidad de Asuntos Internos.
-
-i) Unidad de Prevención del Delito y Política Criminal.
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
-
-j) Unidad de Transmisiones Digitales.
+d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
 IV. Órgano Desconcentrado:
 
-a) Instituto de Formación Policial.
+a) Instituto de Formación Policial;
 
-V. Comisión de Honor y Justicia de la Secretaría.
+b) Comisión de Honor y Justicia de la Secretaría;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
-
-VI. Comisión del Servicio Profesional de Carrera.
+c) Comisión del Servicio Profesional de Carrera.
 
 ### Capítulo II. De las Unidades de Apoyo al Secretario
 
@@ -251,11 +275,11 @@ La Coordinación Técnica de la Secretaría es el órgano técnico operativo, co
 
 Este órgano transforma las decisiones y órdenes del Secretario en directivas, instrucciones, planes operativos y órdenes generales de operación, según sea el caso, verificando su más estricto cumplimiento. Para las disposiciones de formación y operación la Coordinación Técnica se atenderá a la presente Ley, su Reglamento y manual de operación correspondiente.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 10.
 
-La Coordinación Técnica para su funcionamiento estará conformado por cuatro aspectos fundamentales para la toma de decisiones: personal, inteligencia e información, operaciones y adiestramiento y logística; cada aspecto estará a cargo de un elemento operativo o de servicio con grado de inspector.
+La Coordinación Técnica para su funcionamiento estará conformada por cuatro aspectos fundamentales para la toma de decisiones: personal, información, operaciones, adiestramiento y logística; cada aspecto estará a cargo de un elemento operativo o de servicio con grado de inspector.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -267,17 +291,17 @@ La Coordinación Técnica podrá integrar los aspectos que se requieran y especi
 
 El Secretario podrá, en su caso y mediante acuerdo por escrito, delegar funciones en materia de Seguridad Pública, operación y control de las Policías Preventivas del Estado; sin menoscabo del control central de las mismas que ejerce el Titular; estando en todo momento en capacidad de retirar las facultades asignadas si así lo determina.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 13.
 
-De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad Pública y Protección Ciudadana, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
+De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Operación Policial, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 13 Bis.
 
-De conformidad con el inciso b) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Servicios Estratégicos de Seguridad, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, la Ley de Seguridad Privada para el Estado de Chiapas y demás disposiciones legales aplicables.
+De conformidad con el inciso b) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Inteligencia e Investigación Policial, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, la Ley de Seguridad Privada para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -327,11 +351,11 @@ La Comisión del Servicio Profesional de Carrera, será la encargada de conocer 
 
 ### Capítulo V. De los Órganos Desconcentrados
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 20 Bis.
 
-El Instituto de Formación Policial es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Seguridad y Protección Ciudadana, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción en materia de capacitación y adiestramiento policial, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
+El Instituto de Formación Policial, es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Seguridad del Pueblo, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción en materia de capacitación y adiestramiento policial, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -359,9 +383,9 @@ Con el objeto de garantizar el cumplimiento de los principios constitucionales d
 
 I. Rendir el informe policial homologado (IPH), ajustándose a lo establecido en la normatividad vigente.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-II. Conducirse con dedicación, lealtad y disciplina, así como con apego al orden jurídico, respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Chiapas.
+II. Conducirse con dedicación, lealtad y disciplina, así como con apego al orden jurídico, respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 III. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables.
 
@@ -1218,3 +1242,13 @@ P.O. 9 DE OCTUBRE DE 2024.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 039 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al reglamento de la Ley que Establece las Bases de Operación de la Secretaría de Seguridad del Pueblo del Estado de Chiapas, y demás normatividad que resulte aplicable, en un plazo no mayor a quince días hábiles siguientes a la entrada en vigor del presente Decreto.
