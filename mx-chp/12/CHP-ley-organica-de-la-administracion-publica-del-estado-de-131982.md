@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2023-06-07"
+last_updated: "2024-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 5 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -1504,3 +1506,49 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Las Dependencias y Entidades normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. La presente Ley Orgánica de la Administración Pública del Estado de Chiapas, entrará en vigor el día 08 de diciembre del año 2024.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Chiapas, publicada en el Periódico Oficial del Estado número 414, de fecha ocho de diciembre del año dos mil dieciocho y sus reformas y adiciones.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente Decreto.
+
+Artículo Cuarto. Las atribuciones o referencias contenidas en otras leyes y demás normativa aplicable, así como los recursos humanos, materiales y financieros que se refieran y estuvieran asignados a las Dependencias, órganos y Entidades que por esta Ley se reforman o extinguen se entenderán conferidas, serán transferidos y serán atendidas de la forma siguiente; salvo las conferidas a otras dependencias o entidades señaladas en la presente Ley:
+
+a) Las atribuciones relativas en materia de gobernanza, que tenía atribuida la Secretaría General de Gobierno, serán conferidas a la Secretaría General de Gobierno y Mediación.
+
+b) Las atribuciones relativas en materia hacendaria, que tenía atribuida la Secretaría de Hacienda, serán conferidas a la Secretaría de Finanzas.
+
+c) Las atribuciones relativas en materia de función pública, que tenía la Secretaría de la Honestidad y Función Pública, serán conferidas a la Secretaría de Anticorrupción y Buen Gobierno.
+
+d) Las atribuciones relativas en materia igualdad de género, que tenía atribuida la Secretaría de Igualdad de Género, serán conferidas a la Secretaría de la Mujer e Igualdad de Género.
+
+e) Las atribuciones relativas en materia de obra pública, que tenía atribuida la Secretaría de Obras Públicas, serán conferidas a la Secretaría de Infraestructura.
+
+f) Las atribuciones relativas en materia desarrollo social, que tenía atribuida la Secretaría de Bienestar, serán conferidas a la Secretaría de Humanismo.
+
+g) Las atribuciones relativas en materia de seguridad, que tenía atribuida la Secretaría de Seguridad Pública y Protección Ciudadana, serán conferidas a la Secretaría de Seguridad del Pueblo.
+
+Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor de la presente Ley, hubiesen contraído, tengan asignados o le correspondían a las Dependencias, órganos y Entidades que por esta Ley se reforman o se extinguen, se entenderán transferidos y conferidos en términos del Artículo Cuarto Transitorio de esta Ley, al igual que los recursos que éstas tenían asignados y que deberán ser transferidos en ese orden, y su registro contable dará inicio a partir del 01 de enero de 2025.
+
+Artículo Sexto.- Las Dependencias normativas de la persona Titular del Poder Ejecutivo, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley, en plena observancia de las disposiciones aplicables.
+
+Los Titulares de las Dependencias que en su estructura o denominación sufrieron modificaciones, deberán someter a consideración de la persona Titular del Poder Ejecutivo del Estado, en un plazo no mayor a 120 días naturales, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones de la presente Ley.
+
+Artículo Séptimo.- El Ejecutivo del Estado contará con un plazo de 120 días naturales siguientes a la entrada en vigor de la presente Ley, para realizar las adecuaciones reglamentarias que resulten necesarias para darle cumplimiento.
+
+En tanto el Ejecutivo del Estado emite las modificaciones a las disposiciones reglamentarias y administrativas necesarias para ejecutar la presente Ley, se seguirán aplicando, en lo que no se oponga, las disposiciones emitidas con anterioridad a la entrada en vigor de la presente Ley.
+
+Artículo Octavo.- La Secretaría de Finanzas será la encargada de dictaminar la creación, modificación, y supresión de los órganos administrativos y plazas de manera funcional y presupuestal, mediante los dictámenes correspondientes.
+
+Artículo Noveno. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a los recursos aprobados expresamente para esos fines por el H. Congreso del Estado en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+Artículo Décimo. Se abroga el Decreto número 035, por el que se crea la Comisión de Caminos e Infraestructura Hidráulica, publicada en el Periódico Oficial número 006, de fecha 31 de Diciembre de 2018, por lo que, los recursos humanos, materiales y financieros, además de los compromisos y procedimientos que a la entrada en vigor de la presente Ley, hubiese contraído, tenga asignados o le correspondan al organismo que por esta ley se extingue, así como las atribuciones y referencias que otras leyes le asignen, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría (sic) Infraestructura, en los términos previstos en la presente Ley.
+
+Artículo Décimo Primero. El Congreso del Estado de Chiapas, en un plazo de 120 días naturales contados a partir de la entrada en vigor de la presente Ley, deberá realizar las adecuaciones al Decreto que crea el Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas.
+
+Artículo Décimo Segundo. Las fracciones XL, XLI, XLII, XLIII, XLIV y XLV, del artículo 33 de la presente Ley, entraran en vigor una vez que el Congreso del Estado de Chiapas, de cumplimiento al artículo cuarto transitorio del Decreto por el que reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Simplificación Orgánica.
