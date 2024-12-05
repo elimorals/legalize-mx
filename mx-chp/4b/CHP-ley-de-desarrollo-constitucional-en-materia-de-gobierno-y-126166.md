@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2023-04-19"
+last_updated: "2024-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -249,9 +249,11 @@ En cada Municipio se establecerá un gobierno a través de un Ayuntamiento, que 
 
 Los Ayuntamientos tendrán una duración de tres años y podrán reelegirse en términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Chiapas; serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de estas corresponderá exclusivamente a los presidentes municipales.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 34.
 
-Los Ayuntamientos estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley aplicable.
+Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley aplicable.
 
 ###### Artículo 35.
 
@@ -331,29 +333,27 @@ IX. No haber sido sentenciado a pena privativa de libertad por delito doloso o d
 
 X. No estar comprendido en alguna de las causas de inelegibilidad que establece la Ley de Instituciones y Procedimientos Electorales del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Los mismos requisitos serán exigibles a las personas titulares de la Tesorería Municipal, Secretaría del Ayuntamiento y titulares del ramo de obras públicas o cargos equivalentes con percepciones similares.
+Los mismos requisitos serán exigibles a las personas titulares de la Secretaría del Ayuntamiento, Tesorería Municipal, Dirección de Obras Públicas, Secretaría de la Juventud, Recreación y Deporte Municipal, Oficialía Mayor y Titulares con cargos equivalentes y con percepciones similares.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 Además de los requisitos anteriores, se exigirá según corresponda, los siguientes en específico:
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+a). Para ser Secretaria o Secretario del Ayuntamiento, la persona deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas. Además, deberá contar con título y cédula profesional de carrera afín orientada a las ciencias sociales o áreas económicas-administrativas.
 
-I. Para ser Secretaria o Secretario del Ayuntamiento, contar con Certificación de capacitación y competencia laboral vigente en la materia de acuerdo a las funciones que desempeña en el cargo, expedida por un centro certificado de CONOCER, con especialidad en Administración Pública Municipal residente en el Estado de Chiapas; tener título y cédula profesional de carrera afín orientada a las ciencias sociales o áreas económico-administrativas.
+b). Para ser Tesorera o Tesorero Municipal de un Ayuntamiento se requieren los mismos requisitos que para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas económico–administrativos. Además, deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia; de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas; así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por la Auditoría Superior del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+c). Para ser Directora o Director de Obras Públicas Municipales de un Ayuntamiento se requieren los mismos requisitos que para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas, así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por la Auditoría Superior del Estado.
 
-II. Para ser Tesorera o Tesorero Municipal de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas económico–administrativos. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas; así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización del Congreso del Estado.
+d). Además, para ser Titular de la Secretaría de la Juventud, Recreación y Deporte Municipal, deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+e). Para ser Oficial Mayor, además de los requisitos establecidos en otras disposiciones normativas correspondientes, deberá contar con Capacitación y Certificación de Competencia Laboral vigente en materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
-III. Para ser Directora o Director de Obras Públicas Municipales de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización del Congreso del Estado.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
-
-IV. Para ser Secretaria o Secretario de la Juventud, recreación y Deporte dentro del Municipio, se deberá cumplir con los mismos requisitos para ser miembro de ayuntamiento, además de demostrar una conducta pública adecuada y no haber sido condenado por delito intencional en ningún momento, presentar un Plan de trabajo, y tener entre 18 y 29 años de edad, además de acreditar tener título y cédula profesional.
-
-Las Constancias de que no mantienen persistentes observaciones o procedimientos instaurados en su contra, con motivo de gestiones emitidas por el Órgano de Fiscalización del Congreso del Estado, serán elaboradas de conformidad con las "Reglas de Operación para la Emisión de Constancias de No Observaciones o Procedimientos de Auditorías Pendientes" que al efecto emita el Órgano de Fiscalización del Congreso del Estado.
+Las Constancias de que no mantienen persistentes observaciones o procedimientos instaurados en su contra, con motivo de gestiones emitidas por la Auditoria Superior del Estado, serán elaboradas de conformidad con las “Reglas de Operación para la Emisión de Constancias de No Observaciones o Procedimientos de Auditorías Pendientes” emitidas por la propia Auditoria.
 
 #### Sección Segunda. De la Renovación del Ayuntamiento
 
@@ -417,21 +417,31 @@ El cabildo es la forma de reunión del Ayuntamiento, donde se resuelven, de mane
 
 Son atribuciones de los Ayuntamientos:
 
-I.- Aprobar el proyecto del Plan de Desarrollo Municipal correspondiente a su período y enviarlo para su aprobación al Congreso del Estado en los términos y plazos que señala la Ley de Planeación para el Estado de Chiapas; el cual deberá especificar las políticas públicas y objetivos que contribuirán al desarrollo integral y armónico de la comunidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Además, aprobar el informe de evaluación de nivel de cumplimiento de su Plan de Desarrollo Municipal para su remisión al Congreso del Estado.
+I.- Aprobar el proyecto del Plan Municipal de Desarrollo correspondiente a su período y remitirlo al Congreso del Estado para su examen y aprobación correspondiente, en los términos y plazos que señala la Ley de Planeación para el Estado de Chiapas; el cual deberá especificar las políticas públicas, objetivos y estrategias que contribuirán al desarrollo integral y armónico de la comunidad.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Además, aprobar el Informe de Evaluación de Nivel de Cumplimiento de su Plan Municipal de Desarrollo, para su remisión al Congreso del Estado para que emita la opinión correspondiente.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
 El Presupuesto de Egresos se deberá elaborar conforme a lo establecido en la legislación aplicable, considerando acciones y recursos destinados a elevar el índice de desarrollo humano de los habitantes y comunidades más necesitadas, incorporando la perspectiva de género, equidad y no discriminación.
 
-Además este plan de desarrollo deberá ser elaborado por funcionarios públicos municipales certificados por instituciones autorizadas por CONOCER especializadas en administración pública residentes en el Estado, con el objeto de garantizar que sean elaborados con mecanismos homogéneos de calidad en el servicio público municipal en toda la entidad federativa, para establecer políticas públicas de alto impacto que propongan respuestas eficientes y cercanas a las necesidades de la ciudadanía del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-Este mecanismo de certificación tendrá como función principal, la capacitación de dichos funcionarios municipales encargados de la elaboración de los planes de desarrollo municipal, con asistencia técnica, capacitación y asesoría en la elaboración de planes de gobierno municipal, que tengan por objeto el impacto directo en la calidad en el servicio municipal en beneficio de la ciudadanía, como son la obra pública, agua potable, vivienda, derechos humanos, alumbrado, seguridad pública, educación, entre otros, observando los Objetivos del Desarrollo Sostenible, garantizando el desarrollo municipal homogéneo en cada uno de los municipios del Estado de Chiapas.
+Además, este Plan Municipal de Desarrollo deberá ser elaborado por funcionarios municipales que cuenten con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas, con el objeto de garantizar que sean elaborados con mecanismos homogéneos de calidad en el servicio público municipal en toda la entidad federativa, para establecer políticas públicas de alto impacto que propongan respuestas eficientes y cercanas a las necesidades de la ciudadanía del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Este proceso de certificación tendrá como función principal, la capacitación y evaluación de dichos funcionarios municipales encargados de la elaboración de los Planes Municipales de Desarrollo, con asistencia técnica, capacitación y asesoría en la elaboración de planes de gobierno municipal, que tengan por objeto el impacto directo en la calidad en el servicio municipal en beneficio de la ciudadanía, como son la obra pública, desarrollo urbano, agua potable, vivienda, derechos humanos, alumbrado, seguridad pública, educación, salud, medio ambiente, entre otros, observando los Objetivos de Desarrollo Sostenible y garantizando el desarrollo municipal homogéneo en cada uno de los municipios del Estado de Chiapas.
 
 Asimismo, deberán contemplar un fondo que permita la reparación del daño a las víctimas de violación de derechos humanos, que se deriven de resoluciones vinculatorias de la Corte Interamericana de los Derechos Humanos o de instrumentos internacionales vinculantes de las recomendaciones aceptadas por sus autoridades, o de aquellas derivadas de procedimientos de amigable composición que impliquen la reparación del daño. En caso de que estos recursos no sean utilizados en el ejercicio correspondiente, serán acumulables para el ejercicio inmediato siguiente;
 
-II.- Formular los reglamentos administrativos, gubernativos e internos y los bandos de policía y buen gobierno necesarios para la regulación de sus servicios públicos y de las actividades culturales, cívicas, deportivas y sociales que lleven a cabo; así como para la organización y funcionamiento de su estructura administrativa, las cuales deberán publicarse en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+II.- Promover el fortalecimiento de las capacidades de gestión del Gobierno Municipal, mediante la creación y/o actualización de la normativa jurídica y administrativa del Gobierno Municipal, como son los Bandos de Gobierno y Reglamentos municipales, así como los documentos requeridos para fortalecer el marco jurídico, acciones y/o funciones que desarrollen las áreas administrativas que forman parte del Gobierno Municipal, que regulen los servicios públicos, que estructuren y organicen el funcionamiento de la estructura administrativa, las cuales deberán publicarse en el Periódico Oficial del Estado.
 
 III.- Formular y proponer al Congreso del Estado para su aprobación, el primer día del mes de septiembre de cada año, su iniciativa de Ley de Ingresos;
 
@@ -533,7 +543,9 @@ XLIV.- Prevenir y combatir, con auxilio de las autoridades competentes, el alcoh
 
 XLV.- Crear, en lo posible, una bolsa de trabajo, que preste gratuitamente servicios de información y colocación, promueva la creación de empleos para los habitantes de su Municipio;
 
-XLVI.- Crear, promover y contratar con organismos certificadores de competencias laborales, en materia municipal, programas permanentes de capacitación y adiestramiento del personal al servicio del Municipio para optimizar su productividad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+XLVI.- Crear, promover y contratar con Instituciones de Educación Superior con domicilio en el Estado de Chiapas y que cuenten con reconocimientos de validez oficial de estudios de educación superior y de formación para el trabajo en materia de Administración Pública Municipal, así como con Entidades de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas, programas permanentes de capacitación y adiestramiento para la formación y actualización de las personas servidoras públicas municipales que se encuentren en funciones o deseen ingresar al Gobierno Municipal, con el propósito de brindar una mejor atención a la población del municipio.
 
 XLVII.- Vigilar que en el ejercicio de sus funciones las autoridades municipales, observen los requisitos de legalidad y demás garantías jurídicas que establece la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -630,6 +642,10 @@ El cargo en un Ayuntamiento solo es renunciable, cuando existan causas justifica
 Los Municipios que tengan una población mayor de 80 mil habitantes, publicarán de forma digital cuando menos cada tres meses, una gaceta informativa en la que se publicarán las disposiciones legales, reglamentarias, bandos, acuerdos y circulares así como el presupuesto autorizado y el ejercicio el (sic) gasto corriente, las inversiones realizadas y cualquier erogación efectuada durante el lapso de la publicación.
 
 De igual manera, la gaceta informativa deberá contener la relación de las personas en el servicio público del Municipio que perciban remuneración, señalándose cargo y monto así como el número de la partida presupuestal que se afecte y cualquier actividad que se considere relevante y digna de ser conocida por las comunidades.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Los Municipios que no cuenten con Servicio de Internet en su territorio, podrán convenir con el Gobierno del Estado de Chiapas o con una Institución de Educación Superior Pública o Privada que cuente con reconocimiento de validez oficial, para que, en su caso, publiquen la información que por Ley les corresponde publicar a los Municipios, de conformidad con los convenios de colaboración que al efecto suscriban.
 
 ###### Artículo 53.
 
@@ -1261,7 +1277,9 @@ VIII. Contar con carta de antecedentes laborales no Negativos, expedido por el S
 
 IX. No haber sido condenado por delito doloso.
 
-X. Contar con certificación de capacitación y competencia laboral vigente expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, y;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+X. Contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
 XI. Los demás que señalen los ordenamientos aplicables.
 
@@ -1559,23 +1577,29 @@ La competencia que otorga la Constitución local al gobierno municipal se ejerce
 
 Los gobiernos de la administración pública municipal prestarán sus servicios bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, transparencia, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y respeto por los derechos humanos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 102.
 
-Los Municipios podrán disponer de hasta un dos por ciento del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, con el fin de realizar un Programa de Desarrollo Institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado y el Municipio o Demarcación de que se trate.
+Los Municipios podrán disponer de hasta un 2% (dos por ciento) del total de los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal que les correspondan para la realización de un Programa de Desarrollo Institucional Municipal (PRODIM) conforme a lo señalado por el Artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, concatenado al artículo 33 de la Ley de Coordinación Fiscal y a los Lineamientos del Fondo de Aportaciones para la Infraestructura Social (FAIS) vigentes, con la finalidad de fortalecer las capacidades de gestión del Gobierno Municipal, mediante la creación y actualización de la normativa jurídica y administrativa que los rige, así como mediante la impartición de cursos y programas de capacitación para la formación y actualización de las personas servidoras públicas municipales en funciones o de quienes deseen ingresar al Gobierno Municipal.
 
-Se debe enfocar al desarrollo de aspectos institucionales para el fortalecimiento de las capacidades de los Municipios, en cuanto a gestión, operación, organización y participación ciudadana, a través de instituciones públicas de educación superior y organismos certificadores de competencias laborales en materias municipales o especializadas en temas de gobierno municipal.
+Se debe enfocar al desarrollo de aspectos institucionales para el fortalecimiento de las capacidades de los Municipios respetando lo ordenado por el Artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, en cuanto a gestión, operación, organización y participación ciudadana, a través de Instituciones de Educación Superior Públicas o Privadas con domicilio en el Estado de Chiapas, que cuenten con Reconocimientos de Validez Oficial y de Formación para el Trabajo en materia de Administración Pública Municipal, así como con Entidades de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal y con domicilio en el Estado de Chiapas.
 
-Para fortalecer las capacidades institucionales de los ayuntamientos, estos organismos promoverán en los ayuntamientos, la implementación de la Agenda para el Desarrollo Municipal, instituida por el Instituto Nacional para el Federalismo y el Desarrollo Municipal.
+Para fortalecer las capacidades institucionales de los Gobiernos Municipales, estas Instituciones de Educación Superior y Entidades de Certificación y Evaluación, promoverán en los Gobiernos Municipales, la implementación de la Guía Consultiva de Desempeño Municipal (GDM), instituida por el Instituto Nacional para el Federalismo y el Desarrollo Municipal (INAFED).
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 103.
 
-El Programa de Desarrollo Institucional Municipal, tendrá como objetivos:
+Los proyectos del Programa de Desarrollo Institucional Municipal, que podrán realizar los Gobiernos Municipales tienen la finalidad de fortalecer las capacidades de gestión de los Municipios, para el mejoramiento del desempeño de las funciones administrativas o la prestación de los servicios municipales a su cargo, en beneficio de la población en general del Municipio, mediante los objetivos siguientes:
 
-I. Mejorar las capacidades institucionales y de gestión de los gobiernos municipales para un efectivo combate a la pobreza.
+I. Mejorar las capacidades institucionales y de gestión de los gobiernos municipales para un efectivo combate a la pobreza;
 
-II. Fortalecer y consolidar la capacitación de los servidores públicos municipales.
+II. La elaboración y/o actualización de la normativa jurídica y administrativa de los Gobiernos Municipales, y
 
-III. Maximizar los recursos humanos, materiales y financieros con los que cuenta el Municipio.
+III. La impartición de cursos de capacitación para la formación y/o actualización de las personas servidoras públicas de los Gobiernos Municipales.
+
+Lo anterior, para lograr el mejoramiento de la capacidad de gestión operativa, jurídica y organizacional de los Gobiernos Municipales.
 
 ### Capítulo I. De la Hacienda Municipal
 
@@ -1877,11 +1901,11 @@ El Órgano Interno de Control Municipal, es el órgano encargado de vigilar y ve
 
 El Órgano Interno de Control Municipal, tendrá a su cargo en el ámbito de su competencia, la investigación, substanciación y calificación de las faltas administrativas. Contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a la autoridad investigadora, substanciadora y resolutora, y garantizarán la independencia entre las dos primeras en el ejercicio de sus funciones, en términos de la ley en materia de responsabilidades administrativas.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 136.
 
-La persona titular del Órgano Interno de Control Municipal será nombrada por el Ayuntamiento, a propuesta del Presidente Municipal, de quien dependerá jerárquicamente, además deberá contar con la certificación y capacitación y competencia laboral vigente en la materia de acuerdo con sus funciones que desempeña, expedida por un centro certificado de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+La persona titular del Órgano Interno de Control Municipal será nombrada por el Ayuntamiento, a propuesta del Presidente Municipal, de quien dependerá jerárquicamente, además deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal y con domicilio en el Estado de Chiapas.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
@@ -1909,9 +1933,13 @@ III. Asesorar en todos los asuntos contenciosos en los que el Municipio sea part
 
 Contará con el personal necesario para el eficaz cumplimiento de sus atribuciones
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 140.
 
-Para ser titular de la Consejería Jurídica Municipal se deben reunir los requisitos establecidos en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Chiapas; además de acreditar tener título y cédula profesional de Licenciado en Derecho y experiencia mínima de tres años en asuntos de administración pública o certificación de competencia laboral en la materia.
+Para ser titular de la Consejería Jurídica Municipal se deben reunir los requisitos establecidos en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Chiapas; además de acreditar tener título y cédula profesional de Licenciado en Derecho y experiencia mínima de tres años en asuntos de administración pública
+
+Además, deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal y con domicilio en el Estado de Chiapas.
 
 Dependerá directamente del Presidente Municipal.
 
@@ -2085,9 +2113,9 @@ El gobierno municipal realizará programas y políticas públicas para la preven
 
 El gobierno municipal mantendrá en capacitación constante a las personas encargados (sic) de la seguridad pública y la policía preventiva municipal.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
-En cada municipio habrá una (sic) Cuerpo de Seguridad Pública; quienes deberán contar con certificación de capacitación y competencia laboral vigente en la materia expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+En cada municipio habrá una (sic) Cuerpo de Seguridad Pública; quienes deberán contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
 #### Sección IX. Control sanitario de bares, cantinas, y centros de prostitución
 
@@ -2117,7 +2145,9 @@ El sistema municipal de protección civil es un conjunto orgánico y articulado 
 
 La integración y funcionamiento del sistema municipal de protección civil se hará en los términos de la legislación aplicable.
 
-Para ser titilar (sic) del área Protección Civil, además de lo que señale la ley de la materia, el funcionario deberá contar con certificación de capacitación y competencia laboral vigente en la materia, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+Para ser titular del área de Protección Civil, además de lo que señale la ley de la materia, el funcionario deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
 ## Título Décimo. De la Planeación para el Desarrollo Municipal
 
@@ -2129,9 +2159,11 @@ La planeación en los gobiernos municipales es necesaria para el desarrollo de l
 
 Los planes de desarrollo municipal, establecerán mecanismos e instrumentos para alcanzar los objetivos descritos, en concordancia con los planes estatal y nacional de desarrollo, así como en los lineamientos internacionales adoptados por México en esta materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 175.
 
-Los Municipios, en términos de las leyes federales y estatales, estarán facultados para formular, aprobar y administrar sus planes de desarrollo.
+Los Municipios, en términos de las leyes federales y estatales, estarán facultados para formular, aprobar y administrar sus Planes Municipales de Desarrollo.
 
 Los Ayuntamientos contarán con una Secretaría de Planeación Municipal o su equivalente; la que tendrá las siguientes atribuciones:
 
@@ -2147,7 +2179,9 @@ V.- Auxiliar al Presidente Municipal en el cumplimiento de los objetivos plasmad
 
 VI.- Las demás que dispongan las leyes de la materia y el Ayuntamiento a través de su normatividad interior.
 
-En el caso del Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal. Además, contar con la certificación de capacitación y competencia laboral expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+
+En el caso del Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal. Además, contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
 ### Capítulo I. Plan municipal para la Igualdad entre mujeres y hombres
 
@@ -2772,3 +2806,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Los Ayuntamientos deberán establecer las Células de Búsqueda dentro del término de 90 días hábiles a partir de la publicación de este Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 042 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
