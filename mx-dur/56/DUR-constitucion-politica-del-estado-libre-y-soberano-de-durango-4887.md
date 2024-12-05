@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2024-12-03"
+last_updated: "2024-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 3 DE DICIEMBRE DE 2024.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE DICIEMBRE DE 2024.]</small>
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -3305,17 +3305,21 @@ La Ley señalara los casos de prescripción de la responsabilidad administrativa
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los integrantes del Poder Judicial del Estado conocerá el Consejo de la Judicatura, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, así como las facultades del Congreso en materia de responsabilidades.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 176.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 5 DE DICIEMBRE DE 2024)
 
-Para proceder penalmente contra las diputadas, los diputados, las Magistradas, los Magistrados, los integrantes del Órgano de Administración del Poder Judicial, las Juezas y Jueces de Primera Instancia, las personas titulares de las (sic) Secretarios de Despacho del Poder Ejecutivo, la o el Fiscal General del Estado y las o los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra las diputadas, los diputados, las Magistradas, los Magistrados, los integrantes del Órgano de Administración del Poder Judicial, las Juezas y Jueces de Primera Instancia, las personas titulares de las Secretarías de Despacho del Poder Ejecutivo, la o el Fiscal General del Estado, la o el Fiscal Especializado en Combate a la Corrupción y las o los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha lugar o no a proceder contra el inculpado.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Si la resolución del Congreso del Estado fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 Si el Congreso del Estado declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen conforme a la ley. El efecto de la declaración que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina con sentencia absolutoria, el servidor público podrá reasumir su función; si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 No existe fuero ni inmunidad en los juicios del orden penal, seguidos con motivo de la comisión de delitos graves calificados por la ley, ni en los demás distintos a los del ámbito penal.
 
@@ -3323,9 +3327,15 @@ No existe fuero ni inmunidad en los juicios del orden penal, seguidos con motivo
 
 El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusado de traición a la patria, delitos por hechos y/o actos de corrupción, delitos electorales de conformidad con la legislación aplicable, por los delitos graves del orden común y todos aquellos delitos por los que podría ser enjuiciado cualquier ciudadano o ciudadana.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en las leyes.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 No se requerirá declaración de procedencia del Congreso del Estado, cuando alguno de los servidores públicos a que se hace referencia en el párrafo primero de este artículo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia en este artículo, con la salvedad de lo señalado en el párrafo cuarto.
 
