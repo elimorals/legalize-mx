@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2024-08-28"
+last_updated: "2024-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE DICIEMBRE DE 2024.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1181,15 +1181,13 @@ Las notificaciones de las resoluciones, que se dicten dentro del procedimiento e
 
 En caso de que un trabajador de base adscrito a un área administrativa incurra en una causal de cese, el titular deberá ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, y a los criterios correspondientes, aprobados por el Pleno.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 51 Bis.
 
-En caso de que un trabajador de base adscrito a un órgano jurisdiccional incurra en una causal de cese, el titular podrá removerlo en uso de la facultad que le otorga el artículo 97 constitucional, debiendo levantar invariablemente un acta con las formalidades que establece el artículo 46 Bis de la Ley Federal de los Trabajadores al Servicio del Estado.
+En caso de que una persona trabajadora de base adscrita a un órgano jurisdiccional incurra en una causal de cese, la o el titular procederá en términos de los artículos 46 y 46 Bis de la Ley Federal de los Trabajadores al Servicio del Estado.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
-
-En todo momento quedará a salvo el derecho de las y los trabajadores para demandar ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación la reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que su remoción fue injustificada.
+Si a juicio de la o el titular procede demandar la terminación de los efectos del nombramiento, presentará la demanda ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
@@ -14662,3 +14660,13 @@ D.O.F. 28 DE AGOSTO DE 2024.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 6 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo deberán concluirse conforme a la normativa vigente al momento de su inicio.
