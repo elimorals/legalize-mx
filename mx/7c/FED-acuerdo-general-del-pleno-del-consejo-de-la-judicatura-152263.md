@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2024-07-15"
+last_updated: "2024-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE DICIEMBRE DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -1959,15 +1959,7 @@ Las Cédulas de Evaluación que las y los Titulares omitan realizar se entender�
 
 ###### Artículo 140.
 
-Separación del cargo de personas servidoras públicas de la Carrera Judicial. En caso de que una persona servidora pública con base adscrita a un órgano jurisdiccional incurra en alguna de las causales de separación del artículo 40 de la Ley, el o la Titular que inicie el procedimiento de separación deberá levantar invariablemente un acta con las formalidades que establece el artículo 46 Bis de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional. Para lo cual, el o la Titular deberá:
-
-I. Notificar las causas que motivan la posible separación de la persona servidora pública;
-
-II. Otorgar cinco días para que la parte afectada pueda preparar su defensa y desahogar pruebas, y
-
-III. Notificar la decisión durante las 48 horas posteriores al levantamiento del acta administrativa.
-
-En todo momento quedará a salvo el derecho de las personas servidoras públicas para demandar ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación la reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que su remoción fue injustificada.
+(DEROGADO, D.O.F. 6 DE DICIEMBRE DE 2024)
 
 ## TÍTULO DÉCIMO. Integración de los órganos jurisdiccionales
 
@@ -2998,3 +2990,13 @@ SÉPTIMO. El presente Acuerdo se aplicará en irrestricto apego a los derechos l
 OCTAVO. La interpretación del presente Acuerdo corresponderá a las Comisiones de Carrera Judicial y Administración del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 6 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo deberán concluirse conforme a la normativa vigente al momento de su inicio.
