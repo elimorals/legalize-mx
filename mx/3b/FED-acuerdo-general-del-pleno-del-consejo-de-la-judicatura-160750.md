@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-160750"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-10-27"
-last_updated: "2023-10-06"
+last_updated: "2024-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-10-17"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE DICIEMBRE DE 2024.
 
 Acuerdo publicado en el Número 24 del Diario Oficial de la Federación, el jueves 27 de octubre de 2022.
 
@@ -781,7 +781,9 @@ Naturaleza de la actuación de las y los titulares en los procedimientos de sepa
 
 Lineamientos para el procedimiento de separación del cargo. El proceso de separación de un cargo de carrera judicial, comprende los criterios y lineamientos para que el nombramiento otorgado a las personas servidoras públicas respectivas deje de surtir efectos sin responsabilidad para el Poder Judicial de la Federación.
 
-En caso de que una persona servidora pública de base adscrita a un órgano jurisdiccional incurra en alguna de las causales de separación conforme a lo previsto en el artículo 40, fracción VII de la Ley de Carrera; 46, fracción V, de la Ley Reglamentaria; en las Condiciones Generales vigentes y en las demás que señalen en las disposiciones aplicables, la persona titular deberá dar estricto cumplimiento a lo establecido en el artículo 140 del Acuerdo de Carrera Judicial e iniciar un procedimiento de separación dentro del cual se levante invariablemente un acta con las formalidades que establece el artículo 46 Bis de la Ley Reglamentaria.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+En caso de que una persona servidora pública de base adscrita a un órgano jurisdiccional incurra en alguna de las causales de separación conforme a lo previsto en el artículo 40, fracción VII de la Ley de Carrera; 46, fracción V, de la Ley Reglamentaria; en las Condiciones Generales vigentes y en las demás que señalen en las disposiciones aplicables, la persona titular deberá iniciar un procedimiento en términos de los artículos 46 y 46 Bis de la Ley Federal de los Trabajadores al Servicio del Estado.
 
 Para efecto de lo anterior, se deberá estar a lo siguiente:
 
@@ -803,15 +805,15 @@ Al finalizar, el acta se firmará por las personas que hubieren intervenido y po
 
 En caso de que por alguna razón imputable a la parte trabajadora deba reponerse el levantamiento del acta administrativa, así deberá hacerse constar fundada y motivadamente, en el acto, señalando una nueva fecha para su realización dentro de los cinco días siguientes. La parte equiparada a patrón no podrá reponer el acta por razones que le sean imputables;
 
-IV. Determinación de las personas titulares de los órganos jurisdiccionales. La determinación emitida por las personas titulares de los órganos jurisdiccionales, con base en el acta descrita en la fracción anterior, deberá notificarse, por escrito, a la persona trabajadora dentro de los cinco días hábiles siguientes al de su levantamiento. En caso de que no sea posible realizar la notificación por causas ajenas a los titulares, se contará con cinco días hábiles más. La contravención a lo dispuesto en la presente fracción conllevará la preclusión de la facultad de la o el titular para decretar la separación del cargo.
+IV. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE, D.O.F. 6 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-Impugnación de las medidas disciplinarias y de la separación del cargo. Queda a salvo el derecho de las personas trabajadoras para demandar ante la Comisión la nulidad de las medidas disciplinarias y, específicamente, reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que la rescisión de la relación laboral fue injustificada.
+Impugnación de las medidas disciplinarias. Queda a salvo el derecho de las personas trabajadoras para demandar ante la Comisión la nulidad de las medidas disciplinarias.
 
-Cuando ello ocurra, mientras el asunto se encuentre en trámite, las personas que hayan sido cesadas podrán acogerse al régimen de movilidad previsto en el Acuerdo de Carrera Judicial sin tener que volver al esquema de listas para poder acceder a un cargo de carrera judicial. No obstante, la confirmación del por parte de la Comisión dejará sin efectos el nombramiento respectivo y se aplicará lo previsto en el artículo 158 del Acuerdo antes citado.
-
-Una vez cuente con el estatus de firme, la determinación que haya sido impuesta deberá hacerse del conocimiento de la Dirección General de Recursos Humanos para su incorporación al Registro Único de Servidoras Públicas y Servidores Públicos de la Carrera Judicial.
+Una vez que la resolución sobre las medidas disciplinarias quede firme, la o el titular lo deberá hacer del conocimiento de la Dirección General de Recursos Humanos para su incorporación al Registro Único de Servidoras Públicas y Servidores Públicos de la Carrera Judicial.
 
 ## TÍTULO QUINTO. DE LA PRESCRIPCIÓN
 
@@ -978,3 +980,13 @@ CUARTO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Fede
 QUINTO. Se instruye a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales para que, en colaboración con la Dirección General de Asuntos Jurídicos, dentro del plazo de tres meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno los lineamientos en materia de teletrabajo, a que se refiere el artículo 25 Quater, fracción I, de este instrumento normativo.
 
 SEXTO. Se instruye a la Dirección General de Asuntos Jurídicos para que, en un plazo de dos meses, contados a partir de la entrada en vigor de este Acuerdo General, someta a consideración del Pleno la propuesta de adición del artículo 164 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el similar que reglamenta la organización y funcionamiento del propio Consejo; y reforma y deroga diversas disposiciones de otros acuerdos generales, a fin de que se adicione en dicho precepto la atribución de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales contenida en el diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal para prevenir la violencia laboral y mejorar el ambiente de trabajo en el propio Consejo.
+
+D.O.F. 6 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES, EN RELACIÓN CON EL PROCEDIMIENTO DE CESE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo deberán concluirse conforme a la normativa vigente al momento de su inicio.
