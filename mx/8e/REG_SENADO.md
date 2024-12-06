@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2023-12-05"
+last_updated: "2024-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -942,7 +942,9 @@ I. Presentación de iniciativas, hasta por diez minutos;
 
 II. Presentación de dictámenes a nombre de las comisiones, hasta por diez minutos, excepto cuando se trata de reformas constitucionales, en cuyo caso se cuenta hasta con quince minutos, en una o varias intervenciones;
 
-III. Presentación de voto particular, hasta por diez minutos;
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+III. Presentación de voto particular, hasta por seis minutos;
 
 IV. Posicionamiento de grupo parlamentario, hasta por diez minutos;
 
@@ -1608,13 +1610,15 @@ Artículo 138
 
 Artículo 139
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
 
-1. Las reuniones de las comisiones son ordinarias y extraordinarias. Para las primeras se emite convocatoria con una anticipación mínima de setenta y dos horas, mediante la publicación en la Gaceta, y el envío directo a cada integrante.
+1. Las reuniones de las comisiones son ordinarias y extraordinarias. Para las primeras se emite convocatoria con una anticipación mínima de treinta y seis horas, con la publicación en la Gaceta y el envío directo a cada integrante.
 
 2. Durante los recesos del Senado, las reuniones ordinarias se convocan cuando menos con cinco días de anticipación.
 
-3. Las reuniones extraordinarias se convocan con la anticipación que se requiera, previo acuerdo de la Junta Directiva, a través de comunicación directa a los integrantes de la comisión. De ser posible, la convocatoria respectiva se publica en la Gaceta.
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+3. Las reuniones extraordinarias se convocan con anticipación no menor a doce horas, previo acuerdo de la Junta Directiva, a través de comunicación directa a los integrantes de la comisión. De ser posible, la convocatoria respectiva se publica en la Gaceta.
 
 Artículo 140
 
@@ -2096,7 +2100,9 @@ Artículo 186
 
 1. El proyecto de dictamen formulado por la comisión coordinadora se somete a la consideración de las otras dictaminadoras, a fin de incorporar sus observaciones y propuestas.
 
-2. Una vez puestos de acuerdo los responsables de su formulación en las comisiones unidas, el proyecto de dictamen se distribuye a todos los integrantes de las mismas, por lo menos, veinticuatro horas antes de la reunión en que deba discutirse y votarse.
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+2. Una vez puestos de acuerdo los responsables de su formulación en las comisiones unidas, el proyecto de dictamen se distribuye a todos los integrantes de las mismas, por lo menos, veinticuatro horas antes de la reunión ordinaria en que deba discutirse y votarse. Tratándose de reuniones extraordinarias, el proyecto de dictamen se distribuirá doce horas antes a todas las personas integrantes para su conocimiento.
 
 Artículo 187
 
@@ -2108,7 +2114,9 @@ Artículo 188
 
 1. Todo dictamen debe ser firmado por los integrantes de las comisiones unidas; las firmas en el dictamen sin otra indicación se consideran a favor del mismo.
 
-2. De no presentar voto particular, los senadores que votan en contra o en abstención, lo pueden hacer constar con esos términos junto a su firma en el dictamen.
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+2. Los senadores que voten en contra o en abstención, lo pueden hacer constar en esos términos junto a su firma en el dictamen.
 
 3. Si uno o más integrantes de las comisiones disienten de la mayoría a favor del dictamen, pueden presentar voto particular en los términos de este Reglamento.
 
@@ -2206,9 +2214,9 @@ Artículo 199
 
 1. Los debates en lo general se refieren a la totalidad o sentido fundamental del dictamen y se sujetan a lo siguiente:
 
-> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
 
-I. Una vez leído o presentado el dictamen conforme lo señala el artículo 196 de este Reglamento, o bien se haya dispensado su lectura, si hay voto particular respecto de todos sus elementos, su autor o uno de sus autores expone los motivos y el contenido del mismo;
+I. Una vez leído, o bien se haya dispensado su lectura, se presentará el dictamen conforme lo señala el artículo 196 de este Reglamento;
 
 II. De haber acuerdo para ello, se expresan las posiciones de los grupos parlamentarios. Las intervenciones se realizan en orden creciente al número de integrantes de cada Grupo;
 
@@ -2224,7 +2232,9 @@ VII. Si el Pleno responde que no ha sido suficientemente debatido, continúan la
 
 VIII. Cuando únicamente se registran oradores para intervenir en un solo sentido, pueden hacerlo hasta dos de ellos. Al concluir, el Presidente procede conforme a lo indicado en la fracción V de este artículo y, de acuerdo con la respuesta del Pleno, continúa una intervención más y así sucesivamente, o se declara concluido el debate y el dictamen se somete a votación; y
 
-IX. Cuando se agota la lista de los oradores registrados, el Presidente declara concluido el debate en lo general, y se procede a la votación del dictamen.
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+IX. Cuando se agota la lista de los oradores registrados, el Presidente declara concluido el debate en lo general; si hay voto particular respecto de todos sus elementos, su autora o autor o uno de sus autoras o autores exponen los motivos y el contenido del mismo; enseguida, se procede a la votación del dictamen.
 
 Artículo 200
 
@@ -2292,7 +2302,9 @@ Artículo 206
 
 Artículo 207
 
-1. Los votos particulares constituyen la expresión de las minorías de una o más comisiones dictaminadoras, o de uno o varios de sus integrantes, en sentido diverso al dictamen suscrito por la mayoría.
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+1. Los votos particulares constituyen la expresión de las minorías de una o más comisiones dictaminadoras, o de uno o varios de sus integrantes, en sentido diverso al dictamen suscrito por la mayoría, siempre que hayan manifestado en sentido negativo, por escrito, su voluntad al momento de recoger la votación para aprobar el proyecto de dictamen que fue sometido a su consideración.
 
 2. Un voto particular puede referirse a la totalidad del dictamen o sólo a una de sus partes.
 
@@ -2323,6 +2335,10 @@ Artículo 209
 1. Los votos particulares se presentan ante el Presidente de la comisión coordinadora de los trabajos de dictamen.
 
 2. El trámite de los votos particulares ante el Pleno, se sujeta a las reglas que señala el Capítulo anterior.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 2024)</small>
+
+3. No se dará trámite alguno al voto particular que no satisfaga los elementos señalados en el numeral 1 del artículo 208 de este Reglamento y que no exprese su postura en contra del dictamen.
 
 Artículo 210
 
@@ -3615,3 +3631,9 @@ D.O.F. 5 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, NUMERAL 1; 147, NUMERAL 2; 150, NUMERALES 2 Y 3; 183, NUMERAL 2; Y 190, NUMERAL 1, FRACCIÓN X, DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA, EN MATERIA DE REUNIÓN DE COMISIONES Y VOTOS PARTICULARES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
