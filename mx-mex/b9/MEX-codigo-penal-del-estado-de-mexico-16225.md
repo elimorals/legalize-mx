@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2024-04-05"
+last_updated: "2024-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE DICIEMBRE DE 2024.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3801,39 +3801,57 @@ Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, s
 
 Si el suicida fuere menor de edad o enajenado mental, se impondrá además de uno a tres años de prisión y de treinta a cincuenta días multa.
 
-### CAPITULO V. ABORTO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO V. INTERRUPCION DEL EMBARAZO
+
+> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 248.
 
-Al que provoque la muerte del producto de la concepción en cualquier momento del embarazo intrauterino, se le impondrá:
+No se considerará delito la interrupción del embarazo, siempre que esté dentro de las primeras doce semanas de gestación.
 
-I. De tres a ocho años de prisión y de cincuenta a cuatrocientos días multa, si se obra sin consentimiento de la mujer embarazada;
+La interrupción del embarazo se sancionará en los términos de este capítulo a:
 
-II. De uno a cinco años de prisión y de treinta a doscientos días multa, si se obra con el consentimiento de la mujer; y
+I. La mujer o persona gestante que, voluntariamente practique la interrupción del embarazo después de las doce semanas completas de gestación;
 
-III. De tres a ocho años de prisión y de cincuenta a trescientos días multa si se emplea violencia física o moral.
+II. A la mujer embarazada o persona gestante que consintiere en que otra persona se lo hiciere y a quien lo practique con su consentimiento después de las doce semanas completas de gestación; y
+
+III. A quien cometa la interrupción del embarazo en cualquier momento de la gestación sin el consentimiento de la mujer o persona gestante, se le impondrá de cinco a diez años de prisión y de cincuenta a cuatrocientos días multa y si en su comisión se emplea violencia física, psicológica, obstétrica o negligencia en los cuidados ginecobstétricos, la pena prevista aumentará en una mitad; en caso de que lo causare personal médico, de enfermería o partería, además de las sanciones que le correspondan conforme al presente artículo, se le suspenderá de tres a seis años en el ejercicio de su profesión, en caso de reincidencia la suspensión será hasta de veinte años.
+
+A la persona responsable de las conductas previstas en las fracciones I y II del presente artículo, se le impondrán de seis meses a un año de prisión.
+
+Para los efectos de este código se entiende por embarazo a la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+
+Para los efectos de este Código se entiende por persona gestante a cualquier persona con aparato reproductor con capacidad de gestar, independientemente de su edad, identidad o expresión de género u orientación sexual.
 
 ###### Artículo 249.
 
-Si el aborto lo causare un médico cirujano o partera, además de las sanciones que le correspondan conforme al anterior artículo, se le suspenderá de tres a seis años en el ejercicio de su profesión, en caso de reincidencia la suspensión será de veinte años.
+(DEROGADO, G.G. 6 DE DICIEMBRE DE 2024)
 
 ###### Artículo 250.
 
-A la mujer que diere muerte al producto de su propia concepción o consintiere en que otro se la diere, se le impondrán de uno a tres años de prisión.
+(DEROGADO, G.G. 6 DE DICIEMBRE DE 2024)
 
-Si lo hiciere para ocultar su deshonra, se impondrá de seis meses a dos años de prisión.
+> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 251.
 
-No es punible la muerte dada al producto de la concepción:
+No se considerará delito la interrupción del embarazo, aun cuando se realice después de las doce semanas completas de gestación cuando:
 
-I. Cuando aquélla sea resultado de una acción culposa de la mujer embarazada;
+I. Aquél que sea resultado de una acción culposa de la mujer o persona gestante;
 
-II. Cuando el embarazo sea resultado de un delito de violación;
+II. El embarazo sea resultado de una violación, implantación de ovulo fecundado o inseminación artificial no consentida, independientemente de que exista o no denuncia de esos hechos;
 
-III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
+III. De no provocarse la interrupción del embarazo, la mujer o persona gestante corra peligro de muerte, o su salud se vea severamente afectada física o mentalmente a juicio del médico que la asista;
 
-IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar que el producto sufre alteraciones genéticas o congénitas que puedan dar por resultado el nacimiento de un ser con trastornos físicos o mentales graves, siempre y cuando se cuente con el consentimiento de la madre.
+IV. A juicio del médico que la asista, exista prueba suficiente para diagnosticar que el producto sufre alteraciones genéticas o congénitas que puedan dar por resultado el nacimiento de un ser con trastornos físicos o mentales graves;
+
+V. La mujer embarazada o persona gestante haya sido ocultada, obstaculizada, amenazada o privada de su libertad para evitar realizar la interrupción dentro del plazo de las doce semanas, y
+
+VI. Exista un trastorno ginecológico que, a juicio de médico especialista, haya impedido a la mujer o persona gestante tener el conocimiento del embarazo.
+
+En el caso de las fracciones II, III, IV, V y VI se deberá contar con el consentimiento informado por parte de la mujer embarazada o persona gestante. El personal médico y de salud deberá proporcionar a la mujer embarazada o persona gestante, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -7768,3 +7786,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 11.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V, DEL SUBTÍTULO PRIMERO, DEL TÍTULO TERCERO, DEL LIBRO SEGUNDO, LOS ARTÍCULOS 248 Y 251; SE DEROGAN LOS ARTÍCULOS 249 Y 250 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
