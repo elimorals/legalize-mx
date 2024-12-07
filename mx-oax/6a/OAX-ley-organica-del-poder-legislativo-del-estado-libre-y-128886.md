@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2024-11-22"
+last_updated: "2024-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -667,17 +667,21 @@ Los integrantes de la Jucopo podrán ser sustituidos temporal o definitivamente,
 
 La Jucopo dispondrá y contará con los recursos materiales y humanos necesarios para el desempeño de sus funciones, con arreglo a lo que determine el presupuesto y la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-La Secretaría Técnica de la Jucopo, será responsable de preparar los documentos para las reuniones, elaborará las actas y comunicará los acuerdos a las instancias correspondientes del Congreso.
+La Secretaría Técnica de la Jucopo, será responsable de elaborar los documentos para las reuniones, las actas y comunicar los acuerdos a las instancias correspondientes del Congreso. Así mismo, de dirigir, coordinar y supervisar la definición, formulación y validación de la planeación estratégica del Congreso, así como, de los planes académicos de desarrollo profesional para el personal del Poder Legislativo.
 
 La Secretaría de Servicios Parlamentarios será la responsable de la aplicación de la logística necesaria para el oportuno y adecuado cumplimiento de los acuerdos de la Jucopo.
 
 ### CAPÍTULO SEGUNDO. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Son atribuciones de la Jucopo como órgano colegiado son (sic) las siguientes:
+Las atribuciones de la Jucopo como órgano colegiado son las siguientes:
 
 I. Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas, iniciativas o minutas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo;
 
@@ -723,9 +727,15 @@ XX. Designar a los integrantes del Comité de Transparencia, así como el Titula
 
 XXI. Aprobar el Programa Anual de Auditoría y Fiscalización;
 
-XXII. Designar al Titular de la Dirección de Comunicación Social, instancia que tendrá a su cargo la difusión de las actividades del Congreso, siendo enlace con los medios de comunicación y responsable del programa de publicaciones del Congreso; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-XXIII. Las demás que le confiera la Constitución Local, esta Ley y su Reglamento.
+XXII. Designar a la persona Titular de la Dirección de Comunicación Social, instancia que tendrá a su cargo la difusión de las actividades del Congreso, siendo enlace con los medios de comunicación y responsable del programa de publicaciones del Congreso;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Designar a la persona Titular del Instituto Flores Magón, y
+
+XXIV. Las demás que le confiera la Constitución Local, esta Ley y su Reglamento.
 
 ###### ARTÍCULO 49.
 
@@ -1101,13 +1111,19 @@ II. No haber sido condenado por sentencia ejecutoriada por delito intencional qu
 
 III. No haber sido durante los últimos tres años miembro de la dirigencia nacional, estatal o municipal de un partidos (sic) político, ni desempeñar cargo alguno de elección popular por el mismo periodo;
 
-IV. Contar con título y cédula profesional de nivel licenciatura y acreditar conocimientos y experiencia mínima de tres años en materia legislativa para desempeñar el cargo; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-V. Tener por lo menos 30 años cumplidos a la fecha de su nombramiento.
+IV. Contar con título y cédula profesional de nivel licenciatura y acreditar conocimientos y experiencia mínima de dos años en materia legislativa para desempeñar el cargo, y
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+V. Tener por lo menos 25 años cumplidos a la fecha de su nombramiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 88.
 
-El titular de la Secretaría de Servicios Parlamentarios será nombrado por el Pleno con el voto de la mayoría calificada, a propuesta de la Jucopo y durará en su cargo 1 año, pudiendo ser reelecto por dos periodos más, hasta en tanto se designe un nuevo titular por parte de la Legislatura entrante.
+La persona Titular de la Secretaría de Servicios Parlamentarios será nombrada por el Pleno con el voto de la mayoría calificada, a propuesta de la Jucopo, de acuerdo a lo dispuesto por la fracción X del artículo 48 de la Ley.
 
 ###### ARTÍCULO 89.
 
@@ -1151,11 +1167,13 @@ f) La actualización que deba de publicarse en la Plataforma Nacional de Transpa
 
 g) Los demás comunicados que por disposición legal deba de realizar.
 
-X. Coordinar la Correcta administración y custodia del archivo del Congreso;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+X. Coordinar la correcta administración y custodia del archivo legislativo del Congreso;
 
-XI. Coordinar los servicios de la Dirección de Biblioteca y Archivo;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+XI. Coordinar los servicios de biblioteca y archivo legislativo;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
 
@@ -1173,13 +1191,19 @@ La Secretaría de Servicios Parlamentarios, para cumplir eficazmente con su tare
 
 I. Dirección de Apoyo Legislativo y a Comisiones;
 
-II. Dirección de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-III. Dirección de Informática y Gaceta Parlamentaria;
+II. Dirección de Asuntos Jurídicos, y
 
-IV. Dirección de Biblioteca y Archivo;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-Los requisitos para ser titular de cada una de las Direcciones señaladas en las fracciones anteriores, así como las atribuciones de cada una de ellas, estarán establecidas en los Manuales de Organización y Procedimientos respectivos.
+III. Dirección de Informática y Gaceta Parlamentaria.
+
+IV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+Los requisitos para ser Titular de cada una de las Direcciones señaladas en las fracciones anteriores, así como las funciones de cada una de ellas, estarán establecidas en los Manuales de Organización y Procedimientos.
 
 ### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE SERVICIOS ADMINISTRATIVOS
 
@@ -1197,7 +1221,9 @@ Son atribuciones y obligaciones del titular de la Secretaría de Servicios Admin
 
 I. Administrar de manera eficiente y eficaz los recursos humanos, materiales y financieros del Congreso;
 
-II. Proporcionar servicios generales que garanticen el óptimo funcionamiento del Congreso;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+II. Proporcionar materiales, suministros y servicios generales que garanticen el óptimo funcionamiento del Congreso;
 
 III. Garantizar la seguridad y resguardo de los servidores públicos y del inmueble del Congreso;
 
@@ -1207,11 +1233,17 @@ IV. Proveer servicios médicos a los servidores públicos del Congreso;
 
 V. Informar trimestralmente a la Jucopo sobre la administración del presupuesto asignado y el ejercicio del gasto público, adjuntando la documentación que justifique los gastos ejercidos, incluyendo las subvenciones otorgadas a cada Grupo Parlamentario;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-VI. Emitir y modificar las Disposiciones Generales que deberán cumplir las áreas de esta Secretaría que ejerzan el gasto proveniente del Presupuesto Público asignado al Congreso del Estado de Oaxaca y publicarlas en la página electrónica de este y en el Periódico Oficial del Gobierno del Estado de Oaxaca y cumplir con las demás leyes relativas; y
+VI. Emitir y modificar las Disposiciones Generales que deberán cumplir las áreas de esta Secretaría que ejerzan el gasto proveniente del Presupuesto Público asignado al Congreso del Estado de Oaxaca y publicarlas en la página electrónica de este y en el Periódico Oficial del Gobierno del Estado de Oaxaca y cumplir con las demás leyes relativas;
 
-VII. Las demás que le asigne la Jucopo y el Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+VII. Coordinar la correcta administración y custodia del archivo de la documentación justificativa y comprobatoria del Congreso, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+VIII. Las demás que deriven de esta Ley, el Reglamento, las asignadas por la Jucopo y las que emanen de los Acuerdos Parlamentarios.
 
 ###### ARTÍCULO 94.
 
@@ -1227,11 +1259,15 @@ IV. Dirección de Recursos Materiales; y
 
 V. Dirección de Seguridad y Resguardo.
 
-Los requisitos para ser titular de cada una de las Direcciones señaladas en las fracciones anteriores, así como las atribuciones de cada una de ellas, estarán establecidas en los Manuales de Organización y Procedimientos respectivos.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+Los requisitos para ser titular de cada una de las Direcciones señaladas en las fracciones anteriores, así como las funciones, estarán establecidas en los Manuales de Organización y Procedimientos.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 95.
 
-El titular de la Secretaría de Servicios Administrativos será nombrado por el Pleno con el voto de la mayoría calificada, a propuesta de la Jucopo y durará en su cargo 1 año, pudiendo ser reelecto por dos periodos más, hasta en tanto se designe un nuevo titular, por parte de la Legislatura entrante.
+La persona titular de la Secretaría de Servicios Administrativos será nombrada por el Pleno con el voto de la mayoría calificada, a propuesta de la Jucopo, de acuerdo a lo dispuesto por la fracción X del artículo 48 de la Ley.
 
 ###### ARTÍCULO 96.
 
@@ -1253,17 +1289,23 @@ Se integra y ejerce sus atribuciones en los términos establecidos por la Consti
 
 El Congreso contará con un Órgano Interno de Control, cuyo titular tendrá a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas; así como conocer de los recursos de revocación, de conformidad con la normatividad aplicable y llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores, así como las demás que se desprendan de la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 99.
 
-Para ser titular del Órgano Interno de Control, se requiere contar con cédula profesional en áreas económicas, contables, jurídicas o administrativas, así como experiencia profesional comprobable de cuando menos tres años en actividades relacionadas con la fiscalización de recursos públicos; además deberá cubrir con los requisitos exigidos para el cargo de Secretario de Servicios Parlamentarios.
+Para ser titular del Órgano Interno de Control, se requiere contar con cédula profesional en áreas económicas, contables, jurídicas o administrativas, así como experiencia profesional comprobable de cuando menos dos años en actividades relacionadas con la fiscalización de recursos públicos; además deberá cumplir los requisitos exigidos para el cargo de Secretario de Servicios Parlamentarios.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 100.
 
-Será nombrado a propuesta de la Jucopo, mediante el voto de la mayoría calificada de los integrantes del Congreso, y durará en su cargo 1 año, pudiendo ser reelecto por dos periodos más, hasta en tanto se designe un nuevo titular por parte de la Legislatura entrante.
+La persona Titular del Órgano Interno de Control será nombrada por el Pleno con el voto de la mayoría calificada, a propuesta de la Jucopo, de acuerdo a lo dispuesto por la fracción X del artículo 48 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 101.
 
-El Órgano Interno de Control contará para el debido desempeño de sus funciones con el personal que autorice la Jucopo, de conformidad con las necesidades de su actividad y con base en el presupuesto asignado por el Congreso y tendrá las siguientes atribuciones:
+El Órgano Interno de Control para el debido desempeño de sus funciones contará con la Dirección de Auditoría y la Dirección de Procedimientos Jurídicos, así como, con el personal que autorice la Jucopo, de conformidad con las necesidades de su actividad y con base en el presupuesto asignado por el congreso, desempeñando las siguientes atribuciones:
 
 I. Proponer el programa anual de auditorías, así como los de control y evaluación, y someterlos a la aprobación de la Jucopo;
 
@@ -1285,37 +1327,53 @@ IX. Presentar a la Jucopo, un informe trimestral sobre los resultados del cumpli
 
 X. Presentar al Pleno un informe anual sobre el cumplimiento de sus funciones;
 
-XI. Exhortar a los Diputados y a los titulares de los órganos del Congreso para que cumplan con su obligación de presentar sus declaraciones patrimoniales, de intereses y fisca (sic), en los plazos que establece la Ley;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2024)</small>
+
+XI. Exhortar a las Diputadas, Diputados y personas titulares de los órganos del Congreso para que cumplan con su obligación de presentar sus declaraciones patrimoniales, de intereses y fiscales, en los plazos que establece la Ley;
 
 XII. Vigilar que los órganos del Congreso apliquen los recursos institucionales para los fines establecidos; y
 
 XIII. Las demás que deriven de esta Ley, su Reglamento y demás normatividad aplicable.
 
-### CAPÍTULO QUINTO. DE LOS CENTROS DE ESTUDIOS DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
+### CAPÍTULO QUINTO. DEL INSTITUTO FLORES MAGÓN
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 102.
 
-El Congreso contará con los siguientes centros de estudios:
+Para el desempeño de su función legislativa, el Congreso Contará con el Instituto Flores Magón, mismo que estará adscrito a la Jucopo y será conformado por una Dirección y dos mesas de estudio e investigación:
 
-I. El Centro de Estudios Económicos y Finanzas Públicas, como organismo de apoyo y consulta, que tendrá como objeto desarrollar investigaciones, análisis, opiniones y evaluaciones en materia económica, hacendaría, presupuestal y finanzas;
+I. Mesa de Investigación Estratégica y Análisis Legislativo.
 
-Para cumplir con sus funciones, el Centro de Estudios Económicos y Finanzas Públicas, podrán solicitar información o documentación a dependencias y entidades de la administración pública estatal, poderes públicos, órganos constitucionales autónomos y de cualquier otro ejecutor del gasto público estatal;
+Que tendrá las siguientes funciones:
 
-II. El Centro de Estudios Jurídicos e Investigación Parlamentaria, tendrá el propósito de desarrollar estudios sobre temas jurídicos y parlamentarios, así como apoyar a los órganos de gobierno y áreas administrativas del Congreso en sus actividades de organización y capacitación legislativa;
+a) Desarrollar estudios comparativos sobre temas jurídicos y parlamentarios, así como apoyar a los órganos de gobierno y áreas administrativas del Congreso en sus actividades de organización y capacitación legislativa;
 
-III. El Centro de Estudios Sociales y de Opinión Pública, tendrá como objeto realizar investigaciones y estudios de opinión sobre el estado que guardan las políticas públicas en Oaxaca, así como impulsar la cooperación institucional con sectores académicos, de la sociedad civil y los poderes públicos para el diseño de proyectos e iniciativas de ley en materia de desarrollo social, gobernabilidad y participación ciudadana;
+b) Evaluar las políticas públicas y programas del gobierno estatal y municipal para atender a las mujeres, así como desarrollar y divulgar estudios con perspectiva de género;
 
-IV. El Centro de Estudios de las Mujeres y Paridad de Género, tendrá como objeto evaluar las políticas públicas y programas del gobierno estatal y municipal para atender a las mujeres, así como desarrollar y divulgar estudios con perspectiva de género.
+c) Generar y sistematizar productos de información y análisis sobre temas de la agenda legislativa del Congreso, y
 
-V. El Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, tendrá como finalidad impulsar acciones de asesoría, capacitación e investigación permanente para la prevención de actos de corrupción en los Municipios del Estado de Oaxaca,
+d) Realizar investigaciones y estudios de opinión sobre el estado que guardan las políticas públicas en Oaxaca, así como impulsar la cooperación institucional con sectores académicos, de la sociedad civil y los poderes públicos para el diseño de proyectos e iniciativas de ley en materia de desarrollo social, gobernabilidad, participación ciudadana, igualdad, derechos sociales, derechos humanos, seguridad y justicia.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+II. Mesa de Estudios de Impacto Financiero y Presupuestal.
+
+Que tendrá las siguientes funciones:
+
+a) Desarrollar investigaciones, análisis, opiniones y evaluaciones en materia económica, hacendaria, presupuestal y de finanzas, brindando atención a las solicitudes de información y análisis formuladas por las Comisiones Permanentes, las y los diputados;
+
+b) Evaluar y analizar la factibilidad financiera de las reformas al marco constitucional y legal, y
+
+c) Analizar la planeación y programación presupuestal que debe acompañar las reformas, estimando las necesidades de gasto e inversión pública, e identificar las fuentes de ingreso que les den viabilidad.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 103.
 
-Quien sea titular del Centro de Estudios deberá cumplir con los mismos requisitos que para ser titular de la Secretaría de Servicios Parlamentarios del Congreso, además de contar con los conocimientos y experiencia en el área afín a los objetivos de cada centro.
+Para cumplir con sus funciones, la Mesa de Estudios de Impacto Financiero y Presupuestal, podrá solicitar información o documentación a dependencias y entidades de la administración pública estatal, poderes públicos, órganos constitucionales autónomos y cualquier otro ejecutor del gasto público estatal.
+
+El Instituto Flores Magón podrá proponer a la Jucopo la celebración de convenios de colaboración con las dependencias y entidades de la administración pública estatal, poderes públicos y órganos constitucionales autónomos, con la finalidad de generar información relevante para coadyubar con la función legislativa.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO LEGISLATIVO
 
@@ -1678,3 +1736,15 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en té
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 6.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 47, EL PRIMER PÁRRAFO Y LA FRACCIÓN XXII DEL ARTÍCULO 48, LAS FRACCIONES IV Y V DEL ARTÍCULO 87, EL ARTÍCULO 88, LAS FRACCIONES X Y XI DEL ARTÍCULO 89, LAS FRACCIONES II, III Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 90, LAS FRACCIONES II, VI Y VII DEL ARTÍCULO 93, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 94, LOS ARTÍCULOS 95, 99, 100, EL PRIMER PÁRRAFO Y LA FRACCIÓN XI DEL ARTÍCULO 101, LA DENOMINACIÓN DEL CAPÍTULO QUINTO DEL TÍTULO DÉCIMO, LOS ARTÍCULOS 102 Y 103; SE ADICIONA LA FRACCIÓN XXIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 48, Y LA FRACCIÓN VIII AL ARTÍCULO 93; Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 90, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL ARTÍCULO 66 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto por el artículo 7 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+CUARTO. La Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Oaxaca, determinará las adecuaciones presupuestarias para el funcionamiento operativo del Instituto Flores Magón a que hace referencia el presente Decreto.
