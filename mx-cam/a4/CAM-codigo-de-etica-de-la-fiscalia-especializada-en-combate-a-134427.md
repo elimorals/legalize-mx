@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-la-fiscalia-especializada-en-combate-a-13442
 country: "mx"
 rank: "codigo"
 publication_date: "2019-01-11"
-last_updated: "2019-01-11"
+last_updated: "2024-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO DE ÉTICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 11 de enero de 2019.
 
@@ -215,11 +215,13 @@ Por cada integrante temporal electo se elegirá un suplente, quien ocupará el c
 
 #### SECCIÓN II. DE LA ELECCIÓN DE LOS INTEGRANTES DEL COMITÉ DE ÉTICA
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
 El proceso de Elección de los integrantes con carácter temporal del Comité se llevará a cabo mediante la votación que el personal de la Fiscalía realice mediante el sistema que el presidente determine, preferentemente a través de medios electrónicos.
 
-Los integrantes temporales duraran en su encargo dos años, sin posibilidad de reelegirse.
+Los integrantes temporales duraran en su encargo dos años, sin posibilidad de reelección inmediata. Pudiendo ser electos nuevamente pasado, por lo menos, un periodo intermedio.
 
 Los candidatos deberán ser reconocidos por su honradez, integridad, actitud conciliadora, paciencia, tolerancia, vocación de servicio, responsabilidad, juicio informado, colaboración, trabajo en equipo y compromiso, así como no haber sido sancionado por faltas administrativas y tampoco haber sido condenado por delito doloso.
 
@@ -434,3 +436,13 @@ Cuarto. El Órgano Interno de Control a través de la Fiscalía Especializada en
 San Francisco de Campeche, Campeche a 11 de Enero de 2019.- MTRA. WENDY ADELFA RAMÍREZ DÍAZ, TITULAR DEL ÓRGANO INTERNO DE CONTROL DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE CAMPECHE.
 
 MTRA. WENDY ADELFA RAMÍREZ DÍAZ, TITULAR DEL ÓRGANO INTERNO DE CONTROL DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE CAMPECHE.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- La presente reforma al Código de Ética de la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Campeche para los efectos a que haya lugar, de conformidad con lo establecido en los artículos 4 y 12 fracción VIII de la Ley del Periódico Oficial del Estado de Campeche.
