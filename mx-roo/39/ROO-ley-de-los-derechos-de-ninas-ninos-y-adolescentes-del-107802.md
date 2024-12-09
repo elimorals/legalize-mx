@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2024-07-10"
+last_updated: "2024-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -127,7 +127,15 @@ XVII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 XVIII. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo;
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XVIII-Bis. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
+
 XIX. Niñas, niños y adolescentes en situación de vulnerabilidad: Aquéllos que dentro o fuera del ámbito familiar, por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia; circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales; o bien, situaciones de abandono, desintegración familiar, adicciones, víctimas de cualquier abuso, explotación laboral o sexual, padres privados de la libertad, o cualquier otra circunstancia, situación, contingencia o actividad, de manera temporal o permanente; son sujetos de restricciones y limitaciones en el ejercicio de sus derechos;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XIX-Bis. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: Implica que, en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
 
 XX. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Quintana Roo;
 
@@ -199,9 +207,25 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XIV. La accesibilidad;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XVII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 ###### Artículo 6.
 
@@ -215,9 +239,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 A falta de disposición expresa en la Constitución Federal, en los tratados internacionales, en la Constitución Estatal, en la Ley General, la presente Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 9.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 El Sistema DIF Estatal y los Sistemas DIF Municipales, en el ámbito de sus respectivas competencias establecerán programas interinstitucionales a fin de proteger a niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad.
 
@@ -297,9 +323,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 15.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia.
+Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
 
 #### SECCIÓN SEGUNDA. DEL DERECHO DE PRIORIDAD
 
@@ -312,6 +340,12 @@ I. Se les brinde protección y socorro en cualquier circunstancia y con la oport
 II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones, y
 
 III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 16
+
+Bis. En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
 
 #### SECCIÓN TERCERA. DEL DERECHO A LA IDENTIDAD
 
@@ -351,7 +385,9 @@ Niñas, niños y adolescentes no podrán ser separados de las personas que ejerz
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia, y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone la fracción XI del artículo 100.
 
 ###### Artículo 20.
 
@@ -369,7 +405,9 @@ Las autoridades competentes del Estado, en uso de sus atribuciones deberán prev
 
 Las autoridades estatales y municipales que tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana que sean trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
 
-Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización y reintegración a su familia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización y reintegración a su familia, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
 
 ###### Artículo 22.
 
@@ -489,9 +527,9 @@ En consecuencia, niñas, niños y adolescentes deberán ser protegidos contra to
 
 Para tal efecto, el Sistema DIF Estatal establecerá programas permanentes y gratuitos de asistencia y atención integral a niñas, niños y adolescentes que hayan sido víctimas de maltrato físico y psicológico y abuso sexual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-Artículos 34. Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, incluyendo su alimentación, con leche materna, de manera obligatoria en los primeros 6 meses de vida, y de manera preferencial, hasta los 2 años de edad, en los términos que dispongan las disposiciones aplicables.
+Artículos 34. Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, incluyendo su alimentación, con leche materna, de manera obligatoria en los primeros 6 meses de vida, y de manera preferencial, hasta los 2 años de edad, en los términos que dispongan las disposiciones aplicables.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
@@ -548,6 +586,12 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 41.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil, de la primera infancia y aumentar la esperanza de vida, incluyendo la lactancia materna, así como de políticas y programas contra el uso ilícito de sustancias alcohólicas, estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 41 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán medidas tendientes a que en los servicios de salud, así como en los sistemas educativos, se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental.
 
 #### SECCIÓN DÉCIMA. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
@@ -633,7 +677,9 @@ XVI. Administrarán la disciplina escolar de modo compatible con la dignidad hum
 
 XVII. Erradicarán las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XVIII. Inculcarán en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Inculcarán en niñas, niños y adolescentes el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
 XIX. Establecerán mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
@@ -1145,7 +1191,9 @@ Son obligaciones de los titulares o responsables legales de los Centros de Asist
 
 I. Garantizar el cumplimiento de los requisitos establecidos por la Ley General, esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social;
 
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, la cual actualizarán de manera permanentemente e informarán de inmediato a la Procuraduría de Protección;
 
 III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
 
@@ -1195,7 +1243,9 @@ V. Concertar la suscripción de convenios de coordinación con la Federación, E
 
 VI. Establecer políticas de promoción de la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de conformidad con la presente Ley; de diseño universal y accesibilidad para niñas, niños y adolescentes con discapacidad, y demás orientadas a la protección de los derechos de niñas, niños y adolescentes;
 
-VII. Garantizar la protección de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+VII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones sean atendidas de manera preferente por todas las dependencias a su cargo, en el ámbito de sus respectivas competencias;
 
 VIII. Elaborar un informe anual sobre los avances del Programa Estatal de Protección y de los demás programas al Sistema Nacional de Protección Integral;
 
@@ -1333,7 +1383,9 @@ X. Otorgar a niñas, niños y adolescentes acogimiento correspondiente de confor
 
 XI. Otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial. Se garantizará que reciban todos los cuidados que se requieran por su situación de desamparo familiar y se asegurará de que:
 
-a) Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+a) Sean ubicados con su familia de origen, extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
 
 b) Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -1347,7 +1399,13 @@ Esta medida especial de protección tendrá carácter subsidiario, priorizando l
 
 La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
 
-El Sistema DIF Estatal en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+El Sistema DIF Estatal en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento, y, en su caso, la adopción.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
 XII. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
@@ -1605,11 +1663,15 @@ b) Secretaría de Bienestar del Estado de Quintana Roo;
 
 c) Secretaría de Salud;
 
-d) Secretaría de Educación y Cultura;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-e) Procuraduría General de Justicia del Estado;
+d) Secretaría de Educación;
 
-f) Secretaría de Seguridad Pública;
+e) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+f) Secretaría de Seguridad Ciudadana del Estado de Quintana Roo;
 
 g) Secretaría de Trabajo y Previsión Social;
 
@@ -1623,9 +1685,17 @@ III. De la Comisión de los Derechos Humanos del Estado;
 
 IV. De las Comisiones de Desarrollo Familiar y Grupos Vulnerables; de Derechos Humanos y de Desarrollo Juvenil con Igualdad de Oportunidades del Congreso del Estado;
 
-V. Del Tribunal Superior de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-VI. Representante de la sociedad civil que será nombrado por el Sistema, en los términos del reglamento de esta Ley.
+V. Del Tribunal Superior de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+VI. Representante de la sociedad civil que será nombrado por el Sistema, en los términos del reglamento de esta Ley, y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+VII. Fiscalía General del Estado de Quintana Roo.
 
 Para efectos de lo previsto en la fracción VI de este artículo, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
@@ -1805,9 +1875,13 @@ a) Los servidores públicos estatales o municipales, y
 
 b) Las instituciones de asistencia privada.
 
-II. Cuando cualquier persona o servidor público tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, e indebidamente se abstenga de hacerlo del conocimiento de la autoridad competente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-III. Cuando cualquier persona o servidor público propicie, tolere o se abstenga de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio del que tengan conocimiento, en contra de niñas, niños y adolescentes;
+II. Cuando cualquier persona o servidor público tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, violencia, maltrato, perjuicio, daño, agresión, abuso, acoso, trata de personas, explotación sexual y en cualquier forma, violación de sus derechos, e indebidamente se abstenga de hacerlo del conocimiento de la autoridad competente;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+III. Cuando cualquier persona o servidor público propicie, tolere o se abstenga de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato, trata de personas, explotación sexual o perjuicio del que tengan conocimiento, en contra de niñas, niños y adolescentes;
 
 IV. Las autoridades que en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados;
 
@@ -1825,15 +1899,29 @@ I. Apercibimiento.
 
 II. Amonestación por escrito.
 
-III. Multa de cien a mil días de salario mínimo general vigente en el Estado. En caso de reincidencia, podrá aplicarse hasta el doble de lo previsto.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-Lo anterior sin perjuicio de las sanciones que correspondan de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, la legislación civil o penal del Estado, o cualquier otro ordenamiento jurídico aplicable.
+III. Multa de cien a mil veces el valor de la Unidad de Medida y Actualización vigente. En caso de reincidencia, podrá aplicarse hasta el doble de lo previsto.
+
+Se considerará reincidente al que:
+
+a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley;
+
+b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado, y
+
+c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Lo anterior sin perjuicio de las sanciones que correspondan de conformidad con la Ley de Responsabilidades Administrativas del Estado de Quintana Roo, la legislación civil o penal del Estado, o cualquier otro ordenamiento jurídico aplicable.
 
 ###### Artículo 121.
 
 Las sanciones previstas en el artículo anterior, se aplicarán por las siguientes autoridades:
 
-I. Tratándose de servidores públicos, por la autoridad competente de conformidad con la Ley de Responsabilidades los Servidores Públicos del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+I. Tratándose de servidores públicos, por la autoridad competente de conformidad con la Ley de Responsabilidades Administrativas del Estado de Quintana Roo.
 
 II. Tratándose de instituciones de asistencia social privadas, por la Procuraduría de Protección.
 
@@ -1853,9 +1941,11 @@ IV. La condición económica del infractor, y
 
 V. La reincidencia del infractor.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 123.
 
-Contra las sanciones que las autoridades impongan, los servidores públicos podrán interponer el recurso que señala la Ley de Responsabilidades de los Servidores Públicos; las instituciones de asistencia social privadas y los profesionales referidos en la fracción V del artículo 119 de esta Ley podrán interponer el recurso de revisión que establece la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
+Contra las sanciones que las autoridades impongan, los servidores públicos podrán interponer el recurso que señala la Ley de Responsabilidades Administrativas del Estado de Quintana Roo; las instituciones de asistencia social privadas y los profesionales referidos en la fracción V del artículo 119 de esta Ley podrán interponer el recurso administrativo de revisión que establece en el Código de Procedimientos y Justicia Administrativa del Estado de Quintana Roo.
 
 ## TRANSITORIOS
 
@@ -2000,3 +2090,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En lo relativo a la presentación del Certificado de No Inscripción al Registro Nacional de Obligaciones Alimentarias, se contará con un plazo no mayor a ciento veinte días hábiles a partir de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en concordancia a los lineamientos que establezca el Sistema Nacional DIF.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 045 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO.- El presente Decreto, entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- En tanto entra en vigor la Ley de Responsabilidades Administrativas del Estado de Quintana Roo se seguirá aplicando la Ley de Responsabilidades (sic) los Servidores Públicos del Estado de Quintana Roo.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+CUARTO.- Dentro de los 90 días siguiente (sic) a la entrada en vigor del presente Decreto, el Poder Ejecutivo, deberá llevar a cabo las adecuaciones conducentes a los ordenamientos reglamentarios que correspondan, a efecto de posibilitar el cumplimiento de lo establecido en el presente Decreto.
