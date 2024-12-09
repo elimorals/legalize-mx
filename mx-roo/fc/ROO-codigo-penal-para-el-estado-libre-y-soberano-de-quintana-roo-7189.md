@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-10-09"
+last_updated: "2024-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1620,6 +1620,10 @@ d) Haya sido en los órganos sexuales de la víctima.
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 VII. Cuando se cometan en agravio de periodistas, teniendo como propósito obstaculizar, limitar o impedir su libertad de expresión, o por motivo del desempeño de su actividad profesional.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+VIII. Cuando se cometan en agravio de personas integrantes de alguna institución policial con motivo del desempeño de sus funciones.
 
 ###### ARTICULO 107.
 
@@ -5684,5 +5688,13 @@ P.O. 9 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 250 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO CUARTO Y EL ARTÍCULO 194 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 052 POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 106 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
