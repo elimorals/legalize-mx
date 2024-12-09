@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-11-11"
+last_updated: "2024-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2249,7 +2247,15 @@ IX. Presentar al Presidente Municipal los planes de trabajo, presupuesto y evalu
 
 X. Cubrir las actividades y eventos de la Presidencia Municipal mediante material videograbado, archivándolo y brindando información de apoyo a los miembros del H. Ayuntamiento sobre los temas que se requiera.
 
-XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XI. Auxiliar a la Secretaría de Economía Social y Turismo Municipal en el impulso y seguimiento de las actividades referidas en el artículo 114 TER fracción XXI del presente Código, relacionadas con el desarrollo de campañas de promoción turística y la difusión de la cultura a fin de crear el conocimiento de los beneficios de la actividad turística, conforme a lo previsto en la Ley General de Turismo.
+
+Asimismo, en coordinación con la propia Secretaría de Economía Social y Turismo Municipal, elaborar el proyecto de política municipal de información y difusión en materia turística y conducir su ejecución.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XII. Las demás que le confiera la Legislación vigente, o que le encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2018)</small>
 
@@ -2957,9 +2963,9 @@ VI. Encargarse del resguardo de los documentos de la administración municipal, 
 
 VII. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de edificios e instalaciones, vehículos, combustibles y todo lo relacionado con su uso, control y mantenimiento.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-VIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos (sic) del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+VIII. Mantener el correcto desarrollo de las relaciones con las personas trabajadoras del Municipio y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados; asimismo, promover el turismo social entre las personas trabajadoras del municipio, con apoyo de la Secretaría de Economía Social y Turismo Municipal y de conformidad con la Ley General de Turismo.
 
 IX. Intervenir en la elaboración de presupuestos de las dependencias municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos.
 
@@ -4077,11 +4083,163 @@ XVII. Apoyar actividades agrícolas, pecuarias, forestales, pesca, acuícolas, c
 
 XVIII. Emitir el estudio de impacto socioeconómico que tendrá la instalación y funcionamiento de tiendas de conveniencia en los lugares donde exista comercio de abarrotes, análogos o similares, con el propósito de no favorecer la afectación comercial que por tal motivo obtengan estas últimas contribuir así con su fortalecimiento económico y social. Dicho estudio se concentrará específicamente en la circunferencia de influencia en la venta de servicios y productos de la tienda de conveniencia hasta el detrimento comercial del sector abarrotero, análogo o similar.
 
-XIX. Proyectar la vocación turística de nuestra ciudad y generar programas que promuevan el flujo de visitantes a nuestro Municipio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XX. Promover el turismo local en el territorio Municipal, y
+XIX. Dar seguimiento y en su caso, llevar a cabo las acciones que el Municipio deba instrumentar y que se establezcan en los convenios o acuerdos que celebre con el Poder Ejecutivo Federal, para la ejecución de órdenes de verificación, así como para colaborar en las atribuciones señaladas en el artículo 5º de la Ley General de Turismo.
 
-XXI. Y las demás que le confieran las leyes de la materia.
+Adicionalmente, brindar apoyo a la Secretaría de Turismo del Gobierno Federal, para que ejerza sus facultades de verificación de conformidad con el artículo 66 de la Ley General de Turismo, además de supervisar el cumplimiento de las disposiciones aplicables en materia de turismo accesible, de conformidad con la Ley General en cita.
+
+Para el cumplimiento de lo previsto en la presente fracción, podrán participar otras dependencias o entidades municipales que tengan a su cargo funciones de verificación conforme a lo que se determine en los convenios o acuerdos que se celebren con el Poder Ejecutivo Federal;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XX. Promover la celebración de convenios con el Estado para que éste participe en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable que, en su caso, sean declaradas en el Municipio, así como dar seguimiento a dichos convenios;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXI. Promover el turismo local en el territorio Municipal, además de impulsar y dar seguimiento, con auxilio de la Secretaría de Comunicación Social del Municipio y de conformidad con la Ley General de Turismo, a:
+
+a) La coordinación que debe existir con la Secretaría de Turismo del Gobierno Federal para el desarrollo de campañas de promoción turística en territorio nacional y el extranjero;
+
+b) La coordinación con la Federación y el Estado, para la promoción y fomento entre la población de programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXII. Apoyar a la Secretaría de Administración del Municipio, en la promoción del turismo social entre las personas trabajadoras del municipio, de conformidad con lo previsto en la Ley General de Turismo;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Dar seguimiento y en su caso, ejecutar acciones que se le encomienden a fin de instrumentar mecanismos y programas tendientes a facilitar trámites y gestiones de inversionistas o integrantes del sector turístico para permitir la expedita creación y apertura de negocios y empresas, y en general, promover el impulso de las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Promover, en el ámbito de competencia municipal, entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, así como la concertación con los sectores social y privado, de acciones tendientes a detonar programas a favor de la actividad turística y en su caso, dar seguimiento a la ejecución de dichas acciones;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXV. Coordinar y administrar módulos de información y orientación turística con los que, en su caso, cuente el Municipio; asimismo, coordinar la recepción y canalización de quejas de turistas, para su atención por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Elaborar los proyectos de política turística municipal y de programa municipal de turismo a fin de que sean sometidos a consideración del Ayuntamiento, y una vez aprobados, conducir su ejecución y evaluación, todo lo anterior, en coordinación con el Instituto Municipal de Planeación y Evaluación de Aguascalientes y las demás dependencias y entidades que sea necesario.
+
+Asimismo, en coordinación con la Secretaría de Comunicación Social del Municipio, elaborar el proyecto de política municipal de información y difusión en materia turística y conducir su ejecución.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Dar seguimiento a la participación que, conforme a la Ley General de Turismo, corresponde al Municipio, en:
+
+a) La formulación del Programa de Ordenamiento Turístico General del Territorio;
+
+b) La formulación, expedición, evaluación y ejecución del Programa Local de Ordenamiento Turístico del Territorio;
+
+c) La formulación, en su caso, de programas de ordenamiento turístico regional en cuyo territorio esté comprendido el Municipio, atendiendo a los acuerdos y convenios que para el efecto se celebren con la Federación;
+
+d) El diseño, instrumentación, ejecución y evaluación de los programas locales de investigación para el desarrollo turístico;
+
+e) La coordinación que deba existir con la Federación y el Estado para la formulación de programas de manejo correspondientes a zonas de desarrollo turístico sustentable;
+
+f) La coordinación que en forma concurrente debe existir con la Secretaría de Turismo del Gobierno Federal, para la elaboración del Atlas Turístico de México;
+
+g) Las acciones con relación a la operación del Registro Nacional de Turismo;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Elaborar los análisis conducentes a fin de que, conforme a lo previsto en la Ley General de Turismo, el Municipio:
+
+a) Presente ante la Secretaría de Turismo del Gobierno Federal, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable;
+
+b) Emita opinión ante la Secretaría de Turismo del Gobierno Federal en aquellos casos en que una inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos, dentro del territorio de (sic) Municipio.
+
+Para el cumplimiento de lo previsto en la presente fracción, podrán participar otras dependencias o entidades municipales que, por sus funciones, cuenten con información o elementos útiles en la elaboración de los proyectos y opiniones de referencia;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Dar seguimiento a la participación que corresponda al Municipio, en la ejecución y seguimiento de las acciones necesarias para la aplicación de instrumentos de política turística que les sean atribuidos al Municipio por la Ley de Turismo del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXX. Auxiliar al Presidente Municipal, en el seguimiento de las actividades y acuerdos del Consejo Consultivo Local de Turismo; además de auxiliar en el desahogo de sus sesiones, al Consejo Consultivo Municipal de Turismo, así como dar seguimiento a los acuerdos que emita y en su caso, darles cumplimiento;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Impulsar la coordinación entre el Municipio, la Secretaría de Turismo del Gobierno Federal, el Estado y demás organismos públicos, privados y sociales, para promover el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística, de conformidad con el artículo 65 de la Ley General de Turismo;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXXII. Llevar un registro municipal de personas físicas o morales propietarias o poseedoras legales de inmuebles de uso habitacional puestos a disposición de turistas de forma total o parcial para brindarles servicio de estancia temporal a cambio de una contraprestación, cuando dicho servicio se oferte mediante alguna aplicación digital, página de internet, red social o similares. En el registro deberá obrar, cuando menos, la siguiente información:
+
+a) Nombre, denominación o razón social del propietario o poseedor, exhibiendo los documentos que acrediten tal propiedad o posesión;
+
+b) Exhibir comprobantes que acrediten estar al corriente en el pago del impuesto a la propiedad raíz y de servicio de agua potable, por cada inmueble registrado;
+
+c) Manifestación, bajo protesta de decir verdad, en el sentido de que el inmueble cumple con las medidas de seguridad que derivan de las recomendaciones emitidas por la Coordinación Municipal de Protección Civil, por cada inmueble registrado;
+
+d) Número telefónico y correo electrónico para recibir y resolver quejas respecto al uso y condiciones del inmueble por parte de turistas, por cada inmueble registrado; y
+
+e) En caso de inmueble ubicado dentro de condominio, acuse del escrito presentado ante quien realice funciones de administración, por el que se informe que se prestará el servicio de estancia temporal, así como los datos referidos en el inciso anterior.
+
+Por cada inmueble registrado el Municipio entregará un folio al propietario o poseedor para que éste lo proporcione a las personas turistas con las que contrate junto con la información señalada en el inciso d) de esta fracción. Para que el folio conserve vigencia deberá refrendarse el registro anualmente mediante manifestación del propietario o poseedor de que continúa destinando el inmueble para brindar el servicio de estancia temporal y exhibiendo los comprobantes actualizados que refiere el inciso b) de esta fracción.
+
+El poseedor o propietario del inmueble deberá informar de inmediato a la Secretaría de Economía Social y Turismo Municipal, cualquier cambio de los datos referidos en el inciso d) de esta fracción; la omisión de esto dejará sin efectos el folio otorgado.
+
+El registro, sus refrendos y cambios de datos, podrán realizarse mediante el uso de sistemas electrónicos.
+
+Este registro municipal será adicional a los registros que otras disposiciones legales exijan;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXXIII. Celebrar convenios o acuerdos de colaboración con personas físicas o morales que sean autorizadas para operar, intermediar o administrar alguna aplicación digital, página de internet, redes sociales o similares, en las que se oferten servicios de estancia temporal, con el propósito de fomentar entre sus usuarios, el registro municipal referido en la fracción XXXII del presente artículo y asegurar que las personas turistas accedan:
+
+a) Al número telefónico y correo electrónico por los que podrán presentar quejas relacionadas con el uso y condiciones del inmueble en el que se les brinde el servicio de estancia temporal;
+
+b) El folio del registro municipal, como una medida para constatar que el prestador del servicio es propietario o poseedor legal, se encuentra al corriente en el pago de contribuciones municipales y servicios municipales, que existe una manifestación ante autoridad municipal en el sentido de que el inmueble cumple con las recomendaciones emitidas por la Coordinación Municipal de Protección Civil, y que tratándose de inmuebles ubicados en condominios, quien los administra tiene conocimiento del servicio que se brinda; y
+
+c) A los números telefónicos, domicilios y demás datos de contacto de servicios de emergencia en el municipio de Aguascalientes, y de la Secretaría de Economía Social y Turismo Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Dar seguimiento y en su caso, atender las demás acciones necesarias para aplicar la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas a la Federación o al Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XXXV. Las demás que le confiera la legislación vigente, o que le encomiende el H. Ayuntamiento o la Presidencia Municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 114 TER 1.- Conforme al artículo 10 fracción V de la Ley General de Turismo, se establece el Consejo Consultivo Municipal de Turismo, cuyo objeto es coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio; dicho consejo será presidido por el Presidente Municipal, quien designará mediante oficio, a las demás personas funcionarias que lo integraran, debiendo haber un representante de cada una de las siguientes instancias:
+
+I. Comisión Permanente de Desarrollo Económico, Turismo y Asuntos Internacionales, cuyo representante deberá ser alguno de los regidores que la integran;
+
+II. Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos, cuyo representante deberá ser alguno de los regidores que la integran;
+
+III. Comisión Permanente de Cultura, cuyo representante deberá ser alguno de los regidores que la integran;
+
+IV. Secretaría de Economía Social y Turismo Municipal;
+
+V. Oficina Ejecutiva de la Presidencia Municipal;
+
+VI. Secretaría de Comunicación Social;
+
+VII. Secretaría de Desarrollo Urbano;
+
+VIII. Secretaría de Seguridad Pública;
+
+IX. Secretaría del Medio Ambiente y Desarrollo Sustentable;
+
+X. Coordinación Municipal de Protección Civil;
+
+XI. Instituto Municipal de Planeación y Evaluación de Aguascalientes;
+
+XII. Instituto Municipal Aguascalentense para la Cultura; y
+
+XIII. Funcionarios que sean designados mediante oficio, suscrito por el Presidente Municipal.
+
+Los integrantes del Consejo participarán con voz y voto; asimismo, podrán designar por oficio a sus respectivos suplentes salvo el Presidente Municipal, cuya ausencia será suplidas (sic) por el Secretario de Economía Social y Turismo Municipal; para que las sesiones sean válidas será necesaria la presencia de la mayoría de sus integrantes propietarios o suplentes. Las decisiones se tomarán por mayoría de votos de los presentes y en caso de empate, el Presidente tendrá voto de calidad.
+
+El Presidente Municipal podrá invitar a las sesiones del Consejo, para que participen con derecho a voz, a las instituciones y entidades públicas, privadas y sociales, y demás personas relacionadas con el turismo en el Municipio.
+
+Los integrantes del Consejo podrán acordar reglas complementarias para el desahogo de sus sesiones, siempre que no sean contrarias a las establecidas en el presente artículo.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
@@ -6401,11 +6559,13 @@ ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles, as�
 
 1.- Las mediciones de niveles sonoros se realizarán utilizando sonómetros integradores de precisión, sobre los instrumentos destinados a medir niveles de sonido audible.
 
-2.- Las mediciones de vibraciones se realizarán utilizando sonómetros integradores de precisión, que cuenten con certificación ante la EMA "Entidad Mexicana de Acreditación" según los procedimientos establecidos en la NOM-081-SEMARNAT/1994.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+2.- Las mediciones de vibraciones se realizarán utilizando sonómetros integradores de precisión, que cuenten con certificación ante la EMA "Entidad Mexicana de Acreditación" según los procedimientos establecidos en la NOM-081-SEMARNAT/1994, sus modificaciones, o en su caso, en la norma oficial mexicana que la sustituya.
 
-ARTÍCULO 342 QUATER.- Bastará la denuncia y/o queja del o las personas afectadas, a la Secretaría de Seguridad Pública Municipal y/o a la Dirección de Reglamentos Municipales, para efecto de que los elementos de policía y/o los verificadores respectivamente, se constituyan en el domicilio causante del ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos, establecidos en la NOM-081-SEMARNAT/1994.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 342 QUATER.- Bastará la denuncia y/o queja del o las personas afectadas, a la Secretaría de Seguridad Pública Municipal y/o a la Dirección de Reglamentos Municipales, para efecto de que los elementos de policía y/o los verificadores respectivamente, se constituyan en el domicilio causante del ruido a fin de verificar la existencia de sonidos que por su intensidad, duración o frecuencia, impliquen riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o bien, para llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos, establecidos en la NOM-081-SEMARNAT/1994, sus modificaciones, o en su caso, en la norma oficial mexicana que la sustituya.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -6419,19 +6579,19 @@ ARTÍCULO 342 QUINQUIES.- La facultad de inspección y apercibimiento deberá es
 
 2.- El personal, tendrá la condición de agentes de autoridad, y deberá actuar respetando en todo momento los derechos humanos y las garantías de seguridad jurídica, consagradas en nuestra Constitución Política de los Estados Unidos Mexicanos vigente.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor a cumplir con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
+3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor para que deje de emitir o reduzca los sonidos que por su intensidad, duración o frecuencia, impliquen riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o bien, para que cumpla con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, sus modificaciones o por la norma oficial mexicana que la sustituya, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-4.- El personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, la medición de los focos generadores de ruido se realizará en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
+4.- En su caso, el personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081- SEMARNAT/1994, sus modificaciones o la norma oficial mexicana que la sustituya. Se medirán los focos generadores de ruido en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
 
 5.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994.
+El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, en su caso, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, sus modificaciones o por la norma oficial mexicana que la sustituya.
 
 ARTÍCULO 342 SEXIES.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
@@ -26054,3 +26214,23 @@ La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de
 DECIMO.- La Dirección del Sistema Municipal de Protección Integral de Derechos de las Niñas, Niños y Adolescentes, comenzará a operar con el personal para el cual exista suficiencia presupuestaria, garantizando que la asignacion de recursos para servicios personales se apegue a las exigencias establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios.
 
 La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones presupuestales y administrativas que sean necesarias para el funcionamiento del Departamento que se crea, con estricto apego a los ordenamientos referidos en el párrafo anterior.
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE AGUASCALIENTES Y AL REGLAMENTO INTERNO DE LA SECRETARÍA DE ECONOMÍA SOCIAL Y TURISMO MUNICIPAL".]
+
+PRIMERO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El registro municipal referido en el artículo 114 TER fracción XXXII del Código Municipal de Aguascalientes, comenzará a operar a los 120 días hábiles siguientes al inicio de vigencia de las presentes reformas y adiciones.
+
+La Coordinación Municipal de Protección Civil, dentro de los 90 días hábiles siguientes al inicio de vigencia de las presentes reformas y adiciones, deberá emitir las recomendaciones referidas en el artículo 114 TER fracción XXXII inciso c) del Código Municipal de Aguascalientes. Dichas recomendaciones deberán apegarse a la normatividad vigente en materia de protección civil a fin de salvaguardar la integridad de las personas usuarias de inmuebles de uso habitacional puestos (sic) a disposición de turistas para brindarles el servicio de estancia temporal a cambio de una contraprestación.
+
+La Coordinación Municipal de Protección Civil, con la colaboración de la Secretaría de Economía Social y Turismo Municipal, así como de la Secretaría de Comunicación Social, deberá difundir las recomendaciones referidas en el párrafo anterior.
+
+TERCERO.- El Consejo Consultivo Municipal de Turismo con la integración descrita en el artículo 114 TER 1 del Código Municipal de Aguascalientes, deberá instalarse dentro de los 120 días hábiles siguientes al inicio de vigencia de las presentes reformas y adiciones.
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE “REFORMA AL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
