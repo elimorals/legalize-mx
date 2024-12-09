@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2024-07-01"
+last_updated: "2024-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -469,7 +469,9 @@ XV. Vigilar el cumplimiento de los reglamentos, acuerdos, órdenes, circulares y
 
 XVI. Ejercer las atribuciones conferidas en la Ley del Periódico Oficial del Estado de Aguascalientes;
 
-XVII. Previo acuerdo delegatorio de la persona titular del Poder Ejecutivo del Estado, expedir, otorgar, renovar, suspender, cancelar o revocar las concesiones de competencia estatal, así como expedir permisos, licencias y autorizaciones que no estén asignadas legalmente a otras Dependencias o Entidades;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XVII. Expedir, otorgar, renovar, suspender, revocar, extinguir, rescatar o regularizar las concesiones de competencia estatal, previo acuerdo delegatorio de la persona titular del Poder Ejecutivo del Estado; así como expedir permisos, licencias y autorizaciones que no estén asignadas legalmente a otras Dependencias o Entidades;
 
 XVIII. Coordinarse con las autoridades competentes en materia de transporte y vialidad en los términos que disponga esta Ley y demás normatividad aplicable;
 
@@ -1585,7 +1587,9 @@ XIII. Verificar e inspeccionar la operación en el Estado de los servicios de tr
 
 XIV. Autorizar y modificar el régimen tarifario sujeto a la prestación del servicio público de transporte y establecer la forma e instrumentos de medición de tiempo, distancia y otros factores determinantes en la aplicación de tarifas, así como los mecanismos necesarios para su cobro a los usuarios, de conformidad con las disposiciones jurídicas en la materia;
 
-XV. Autorizar el derecho de transmisión de concesiones convencionales por causa de incapacidad física superviniente o muerte del concesionario, en favor de la persona que éste hubiera designado entre sus familiares;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XV. Autorizar la transmisión del derecho de explotación de las concesiones ordinarias, de conformidad con los supuestos contemplados en la Ley de Movilidad del Estado de Aguascalientes para el seguimiento correspondiente, ante la persona Titular del Poder Ejecutivo;
 
 XVI. Analizar y, en su caso, autorizar la variación de las condiciones de la concesión o permiso para la prestación del servicio de transporte público;
 
@@ -2078,3 +2082,23 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 55.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas al Reglamento de la Ley de Movilidad del Estado de Aguascalientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas del presente Decreto, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efectos todas aquellas disposiciones normativas y reglamentarias que se opongan al presente Decreto
