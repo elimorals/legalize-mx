@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-registro-de-partidos-politicos-locales-13207
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-28"
-last_updated: "2023-09-04"
+last_updated: "2024-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132079&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2018-12-19"
 ---
 # REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLITICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 4 DE SEPTIEMBRE DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 4 DE SEPTIEMBRE DE 2023 Y CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 9 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2023 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 28 de diciembre de 2018.
 
@@ -832,14 +832,28 @@ Segundo. Se abroga el Reglamento del Instituto Electoral para el Registro de Par
 
 Tercero. Los Lineamientos del Sistema de Notificaciones Electrónicas por Internet, a que se refiere el presente Reglamento, serán aprobados por el Consejo General.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y OCHO POR EL QUE SE REFORMA EL ARTÍCULO 111, FRACCIONES III, IV Y V DEL ARTÍCULO 130, FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II PÁRRAFO PRIMERO DEL ARTÍCULO 135 DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS”.]
+G.O. 9 DE DICIEMBRE DE 2024.
 
-Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, ASÍ COMO LA CONVOCATORIA A LAS ORGANIZACIONES DE LA CIUDADANÍA LEGALMENTE CONSTITUIDAS EN ASOCIACIÓN CIVIL O AGRUPACIÓN POLÍTICA LOCAL INTERESADAS EN CONSTITUIRSE EN PARTIDO POLÍTICO LOCAL EN LA CIUDAD DE MÉXICO EN EL PROCESO DE REGISTRO 2025-2026. [IECM/ACU-CG-154/2024]”.]
 
-Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+PRIMERO. Se aprueba el Reglamento para el registro de partidos políticos locales ante el Instituto Electoral de la Ciudad de México, en términos del Anexo que forma parte integral del presente Acuerdo.
 
-Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+SEGUNDO. Se aprueba el contenido de la Convocatoria a las organizaciones ciudadanas legalmente constituidas en asociación civil o agrupación política local, interesadas en constituirse en partido político local en la Ciudad de México en el proceso de registro 2025-2026, así como las tablas de equivalencias del 0.26 por ciento del padrón electoral para alcanzar el cuórum en las asambleas de demarcaciones territoriales y de distritos electorales uninominales locales, en términos de los anexos que forman parte integral del presente Acuerdo.
 
-Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+TERCERO. Se abroga el Reglamento para el Registro de Partidos Políticos Locales ante el Instituto Electoral de la Ciudad de México, aprobado mediante Acuerdo IECM/ACU-CG-334/2018 de fecha 19 de diciembre de 2018.
 
-P.O. 16 DE JULIO DE 2017.
+CUARTO. El presente Acuerdo y sus Anexos entrarán en vigor al momento de su aprobación.
+
+QUINTO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias respecto de la expedición de la acreditación de las personas funcionarias del Instituto Electoral que llevarán a cabo la certificación de las asambleas distritales, de demarcaciones territoriales y las locales constitutivas en el proceso de registro de partidos políticos locales en el año 2025.
+
+SEXTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+SÉPTIMO. Se instruye a la Secretaría Ejecutiva para que realice las gestiones tendentes a fin de que se publique una versión ejecutiva de la Convocatoria en dos diarios de circulación en la Ciudad de México.
+
+OCTAVO. Se instruye a la Secretaría Ejecutiva a fin de que la Convocatoria sea traducida a las principales lenguas indígenas de la Ciudad de México, así como a Lengua de Señas Mexicana, y promueva su difusión a través de las redes sociales en las que participa este Instituto Electoral.
+
+NOVENO. Notifíquese el presente Acuerdo y sus Anexos a las agrupaciones políticas locales con registro vigente en la Ciudad de México.
+
+DÉCIMO. Publíquese el presente Acuerdo y sus Anexos en los estrados de las oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+DÉCIMO PRIMERO. Publíquese el presente Acuerdo y sus Anexos en la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
