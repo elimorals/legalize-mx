@@ -4,7 +4,7 @@ identifier: "FED-convocatoria-publica-abierta-que-emite-el-comite-de-174963"
 country: "mx"
 rank: "otro"
 publication_date: "2024-11-04"
-last_updated: "2024-11-04"
+last_updated: "2024-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174963&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2024-11-04"
 
 CONVOCATORIA PÚBLICA ABIERTA QUE EMITE EL COMITÉ DE EVALUACIÓN DEL PODER JUDICIAL DE LA FEDERACIÓN, EN TÉRMINOS DE LOS ARTÍCULOS 11 Y 12 DEL ACUERDO GENERAL NÚMERO 4/2024, DE VEINTINUEVE DE OCTUBRE DE DOS MIL VEINTICUATRO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, A LAS PERSONAS INTERESADAS EN SER POSTULADAS POR EL PODER JUDICIAL DE LA FEDERACIÓN A CANDIDATURAS EN EL PROCESO ELECTORAL EXTRAORDINARIO 2024-2025, CONFORME A LO PREVISTO EN EL ARTÍCULO 96, PÁRRAFOS PRIMERO, FRACCIÓN II, SEGUNDO Y TERCERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO EN EL ARTÍCULO TRANSITORIO SEGUNDO, PÁRRAFO TERCERO, DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE ÉSTA, EN MATERIA DE REFORMA DEL PODER JUDICIAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL QUINCE DE SEPTIEMBRE DE DOS MIL VEINTICUATRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2024.
 
 Convocatoria publicada en el Número 3 del Diario Oficial de la Federación, el lunes 4 de noviembre de 2024.
 
@@ -1099,11 +1099,13 @@ XI. Para dudas relacionadas con el proceso de selección, problemas técnicos, s
 
 SEXTA. COMPROBANTE DE REGISTRO. Una vez que las personas aspirantes realicen y envíen su registro respectivo, la OCJC les entregará, a través del Portal Electrónico, su comprobante de registro en el que se advierta el folio asignado conforme al orden cronológico de inscripción por cargo y la lista de documentos remitidos. Dicho comprobante no garantiza el cumplimiento de los requisitos constitucionales por las personas interesadas, ni se pronuncia sobre el contenido de los archivos electrónicos recibidos, sólo hará constar el número y nombre de los archivos recibidos.
 
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2024)</small>
+
 SÉPTIMA. VERIFICACIÓN DEL CUMPLIMIENTO DE REQUISITOS CONSTITUCIONALES Y PUBLICACIÓN DE LISTAS DE PERSONAS ELEGIBLES. Una vez recibida una inscripción en el Portal Electrónico y formado el expediente respectivo, en términos del Artículo 15 del AGP 4/2024, la Secretaría Técnica elaborará el dictamen de cumplimiento de requisitos de elegibilidad y lo someterá a consideración del Comité conforme al procedimiento establecido en sus reglas de funcionamiento.
 
-A más tardar el 6 de diciembre de 2024, el Comité concluirá la revisión del cumplimiento de los requisitos constitucionales de elegibilidad, para ello, tendrá la facultad de verificar en todo momento la información y documentos que las personas aspirantes proporcionen y, de advertir alguna omisión o irregularidad, procederá a su descalificación. Se considerará omisión la presentación de documentos incompletos o ilegibles.
+A más tardar el 10 de diciembre de 2024, el Comité concluirá la revisión del cumplimiento de los requisitos constitucionales de elegibilidad, para ello, tendrá la facultad de verificar en todo momento la información y documentos que las personas aspirantes proporcionen y, de advertir alguna omisión o irregularidad, procederá a su descalificación. Se considerará omisión la presentación de documentos incompletos o ilegibles.
 
-Al finalizar la revisión documental, el Comité elaborará y aprobará, a más tardar el 6 de diciembre de 2024, los listados con los folios y nombres de quienes cumplan los requisitos de elegibilidad, organizados por cargo, tipo de órgano, circuito y especialidad. Estos listados se publicarán, a más tardar el 9 de diciembre de 2024, en el Portal Electrónico, en el Diario Oficial de la Federación y en otros medios electrónicos habilitados, y tendrá efectos de notificación para el inicio del plazo para interponer, en su caso, el recurso de inconformidad previsto en el Artículo 18 del AGP 4/2024.
+Al finalizar la revisión documental, el Comité elaborará y aprobará, a más tardar el 12 de diciembre de 2024, los listados con los folios y nombres de quienes cumplan los requisitos de elegibilidad, organizados por cargo, tipo de órgano, circuito y especialidad. Estos listados se publicarán, a más tardar el 15 de diciembre de 2024, en el Portal Electrónico, en el Diario Oficial de la Federación y en otros medios electrónicos habilitados, y tendrá efectos de notificación para el inicio del plazo para interponer, en su caso, el recurso de inconformidad previsto en el Artículo 18 del AGP 4/2024.
 
 OCTAVA. RECURSO DE INCONFORMIDAD, TRAMITE Y RESOLUCIÓN. De acuerdo con los artículos 18, 19 y 20 del AGP 4/2024, las personas respecto de las cuales el Comité haya decidido la no acreditación de los requisitos constitucionales de elegibilidad podrán interponer recurso de inconformidad ante la SCJN, mediante escrito presentado en la OCJC o a través del Portal Electrónico, dentro de los tres días naturales posteriores a la publicación de los listados de personas elegibles. Este escrito deberá incluir, por lo menos, el nombre del recurrente, una dirección de correo electrónico para recibir notificaciones, los motivos de la inconformidad y firma electrónica en caso de ser presentado en el portal electrónico o autógrafa si se presenta de manera presencial.
 
@@ -1415,19 +1417,25 @@ las cuentas oficiales de la SCJN)
 
 interesadas. de noviembre de 2024.
 
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2024)</small>
+
 4. Revisión de los requisitos Conclusión a más tardar
 
-constitucionales de las personas el viernes 6 de diciembre de 2024.
+constitucionales de las personas el martes 10 de diciembre
 
-interesadas.
+interesadas. de 2024.
 
-5. Aprobación de los listados de las A más tardar el viernes 6
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2024)</small>
+
+5. Aprobación de los listados de las A más tardar el jueves 12
 
 personas que cumplieron los de diciembre de 2024.
 
 requisitos de elegibilidad.
 
-6. Publicación de los listados de las A más tardar el lunes 9
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2024)</small>
+
+6. Publicación de los listados de las A más tardar el domingo 15
 
 personas que cumplieron los de diciembre de 2024
 
@@ -1437,13 +1445,17 @@ medios electrónicos habilitados
 
 para tal fin)
 
-7. Plazo para presentación de las Desde el lunes 9 de diciembre
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2024)</small>
+
+7. Plazo para presentación de las Desde el domingo 15 de diciembre
 
 denuncias sobre ausencia de de 2024 hasta el 24 de enero
 
 honestidad y/o buena fama publica de 2025
 
-8. Trámite y resolución de los recursos Entre el martes 10 de diciembre
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2024)</small>
+
+8. Trámite y resolución de los recursos Entre el lunes 16 de diciembre
 
 de inconformidad. de 2024 y el jueves 9 de
 
@@ -1544,3 +1556,13 @@ Esta CONVOCATORIA PÚBLICA ABIERTA QUE EMITE EL COMITÉ DE EVALUACIÓN DEL PODER
 > <small>[N. DE E. VÉASE ANEXO I EN EL D.O.F. DE 4 DE NOVIEMBRE DE 2024, PÁGINAS DE LA 62 A LA 71.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO II EN EL D.O.F. DE 4 DE NOVIEMBRE DE 2024, PÁGINAS DE LA 72 A LA 73.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “INSTRUMENTO NORMATIVO APROBADO POR EL COMITÉ DE EVALUACIÓN DEL PODER JUDICIAL DE LA FEDERACIÓN EL CINCO DE DICIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE MODIFICAN LAS BASES SÉPTIMA Y DÉCIMA NOVENA, EN SUS PUNTOS DEL 4 AL 8, DE LA CONVOCATORIA PÚBLICA ABIERTA QUE EMITE EL COMITÉ DE EVALUACIÓN DEL PODER JUDICIAL DE LA FEDERACIÓN, EN TÉRMINOS DE LOS ARTÍCULOS 11 Y 12 DEL ACUERDO GENERAL NÚMERO 4/2024, DE VEINTINUEVE DE OCTUBRE DE DOS MIL VEINTICUATRO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, A LAS PERSONAS INTERESADAS EN SER POSTULADAS POR EL PODER JUDICIAL DE LA FEDERACIÓN A CANDIDATURAS EN EL PROCESO ELECTORAL EXTRAORDINARIO 2024-2025, CONFORME A LO PREVISTO EN EL ARTÍCULO 96, PÁRRAFOS PRIMERO, FRACCIÓN II, SEGUNDO Y TERCERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO EN EL ARTÍCULO TRANSITORIO SEGUNDO, PÁRRAFO TERCERO, DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE ÉSTA, EN MATERIA DE REFORMA DEL PODER JUDICIAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL QUINCE DE SEPTIEMBRE DE DOS MIL VEINTICUATRO”.]
+
+PRIMERO. Este Instrumento Normativo entrará en vigor del día de su aprobación.
+
+SEGUNDO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación, en el Portal Electrónico previsto en la fracción XXII del artículo 2 del Acuerdo General Plenario 4/2024, y en las redes sociales de la Suprema Corte de Justicia de la Nación para su mayor difusión, sin menoscabo de que la Secretaría Técnica del Comité de Evaluación del Poder Judicial de la Federación difunda el texto actualizado de la Convocatoria en el referido Portal.
