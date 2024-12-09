@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-11-25"
+last_updated: "2024-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -81,9 +81,17 @@ VII. Definir la jerarquía de la movilidad y los principios rectores a que deben
 
 VIII. Establecer las bases para priorizar los modos de transporte de personas, bienes y mercancías, con menor costo ambiental y social, la movilidad no motorizada, vehículos no contaminantes y la intermodalidad;
 
-IX. Establecer los mecanismos y acciones para la gestión de factores de riesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-X. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial.
+IX. Establecer los mecanismos y acciones para la gestión de factores de riesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+X. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XI. Establecer y determinar los procedimientos y requisitos para la tramitación, expedición y regularización de concesiones, de permisos y de autorizaciones del servicio de transporte.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -261,7 +269,9 @@ LXXXI. Paradero: Espacio físico acondicionado para las maniobras de ascenso y d
 
 LXXXII. Peatón: Persona que transita a pie por la vía pública, o aquella con movilidad limitada que transita en vehículos especiales manejados por sí misma o por un tercero;
 
-LXXXIII. Permiso: Es el acto administrativo por medio del cual la autoridad competente autoriza a una persona física o moral a prestar el servicio público de transporte de personas o bienes, en aquellos casos donde de acuerdo con esta Ley dar servicio público no es materia de concesión;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+LXXXIII. Permiso: Es el acto administrativo por medio del cual la CMOV autoriza a una persona física o moral a prestar el servicio público de transporte de personas o bienes, en aquellos casos donde de acuerdo a esta Ley dar servicio público no es materia de concesión;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
 
@@ -283,9 +293,9 @@ XCI. Plataforma tecnológica: Aplicación informática mediante la cual se contr
 
 XCII. Proximidad: Circunstancias que permiten a las personas usuarias desplazarse con facilidad a sus destinos;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XCIII. Revista vehicular: Es la inspección física-mecánica de los vehículos y equipamiento auxiliar destinados a la prestación de los servicios de transporte público, privado y de personas contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, de las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+XCIII. Revista vehicular: Es la inspección física-mecánica de los vehículos destinados a la prestación del servicio de transporte público y transporte de personas contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, de las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
 
 XCIV. Ruta: Recorrido autorizado para la prestación del servicio de transporte público;
 
@@ -731,15 +741,25 @@ V. Incluir en el Plan de Desarrollo del Estado los objetivos, estrategias, metas
 
 VI. Promover la educación y difusión de la cultura de la movilidad en todos los niveles educativos, a través de las Dependencias y Entidades competentes;
 
-VII. Otorgar, suspender, revocar, extinguir o rescatar las concesiones o permisos en materia del servicio de transporte público de personas y bienes, a través de la SEGGOB y la CMOV;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+VII. Expedir, otorgar, suspender, revocar, extinguir, rescatar, renovar o regularizar las concesiones, permisos o autorizaciones en materia del servicio de transporte público de personas y bienes, a través de la SEGGOB y la CMOV, según corresponda;
 
 VIII. Regular la operación de los servicios de transporte contratados por medio de plataformas tecnológicas, de manera que se garantice el adecuado control, la seguridad y calidad en el servicio prestado a través de estos mecanismos;
 
 IX. Emitir las bases y convocatoria para la integración del Observatorio Ciudadano;
 
-X. Expedir la reglamentación estatal para el cumplimiento de la presente Ley; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XI. Las demás que establezca esta Ley y las disposiciones aplicables.
+X. Expedir toda aquella reglamentación y demás instrumentos legales necesarios para el cumplimiento de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XI. Llevar a cabo la planeación de la vialidad, movilidad y de la prestación de los servicios de transporte público, de los servicios conexos y auxiliares, a través de la MOV; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XII. Las demás que establezca esta Ley y las disposiciones aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -747,11 +767,17 @@ Son atribuciones de la Secretaría General de Gobierno:
 
 I. Tramitar y resolver los recursos administrativos que le competan;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-II. Ejecutar los acuerdos de la persona titular del Poder Ejecutivo del Estado en todo lo que se refiere a la materia objeto de esta Ley y su Reglamento; y
+II. Ejecutar los acuerdos de la persona titular del Poder Ejecutivo del Estado en todo lo que se refiere a la materia objeto de esta Ley y su Reglamento;
 
-III. Las demás que en esta materia le confiera la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+III. Recibir por parte de la CMOV la autorización de la transmisión del derecho de explotación de las concesiones ordinarias en los supuestos referidos en la Ley para el otorgamiento correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+IV. Las demás que en esta materia le confiera la normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -843,13 +869,21 @@ XXXVI. Programar, supervisar, vigilar, controlar y evaluar la operación del SIT
 
 XXXVII. Suscribir con entes públicos o privados los instrumentos jurídicos necesarios para el otorgamiento de apoyos, subsidios o subvenciones de conformidad con los programas aprobados por el Comité Técnico del Fondo Estatal para la Movilidad;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XXXVIII. Diseñar, promover, coordinar, ejecutar, controlar y evaluar en el ámbito de su competencia los programas, proyectos, acciones y políticas públicas en materia de movilidad, transporte público y seguridad vial; y
+XXXVIII. Diseñar, promover, coordinar, ejecutar, controlar y evaluar en el ámbito de su competencia los programas, proyectos, acciones y políticas públicas en materia de movilidad, transporte público y seguridad vial;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 26 DE JULIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XXXIX. Las demás que señalen las disposiciones legales o reglamentarias aplicables.
+XXXIX. Autorizar la transmisión del derecho de explotación de las concesiones ordinarias en los supuestos referidos en la Ley y dar el seguimiento correspondiente en coordinación con la SEGGOB para su otorgamiento;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XL. Establecer el esquema y procedimiento de la participación de las empresas concesionarias por el servicio que prestan en el SITMA, con base en lo que establece el título de concesión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XLI. Las demás que señalen las disposiciones legales o reglamentarias aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -1245,17 +1279,21 @@ IV. La persona que ocupe la presidencia de la Comisión de Movilidad Sustentable
 
 V. La persona servidora pública encargada del transporte en cada uno de los municipios;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-VI. Una persona representante de los concesionarios de cada una de las siguientes modalidades del transporte público: taxis, vehículos de carga, transporte de materiales, transporte colectivo foráneo, autobuses urbanos, transporte de personal y transporte escolar; la cual será designada conforme lo establezca el Reglamento de esta Ley;
+VI. Una persona representante de los concesionarios o permisionarios de cada una de las siguientes modalidades del transporte público: taxis, vehículos de carga, transporte de materiales, transporte colectivo foráneo, transporte colectivo urbano, transporte de personal y transporte escolar, miembros que serán designados conforme lo establezca el Reglamento de esta Ley;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-VII. Una persona representante de los operadores de cada una de las modalidades de transporte público y del servicio de transporte de personas contratado a través de plataformas tecnológicas, registradas ante la CMOV; y
+VII. Una persona representante de los operadores de cada una de las modalidades de transporte público y de los que presten el servicio de transporte a través de plataformas tecnológicas;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-VIII. Tres personas académicas especialistas en materia de movilidad y seguridad vial, que representen a las universidades e instituciones de educación superior en el Estado.
+VIII. Tres personas académicas especialistas en materia de movilidad y seguridad vial, que representen a las universidades e instituciones de educación superior en el Estado; y
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+IX. Una persona representante de las empresas de redes de transporte administradoras de plataformas tecnológicas registradas.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
 
@@ -1941,11 +1979,7 @@ Todos los niveles de gobierno implementarán campañas de difusión permanentes 
 
 ###### ARTÍCULO 63.
 
-Para los efectos de la presente Sección, se consideran vehículos similares a la bicicleta, los siguientes:
-
-I. Triciclos; y
-
-II. Bicisillas de ruedas y sillas de ruedas en la que se desplacen las personas con movilidad limitada.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2024)
 
 ###### ARTÍCULO 64.
 
@@ -2739,6 +2773,14 @@ Las autoridades competentes establecerán los requisitos para que las personas p
 
 Asimismo, deberán establecer rutas de transporte público destinadas a facilitar a las personas trabajadoras el desplazamiento a sus centros de trabajo.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 117 TER. - El Estado otorgará el servicio de transporte público a través de:
+
+I. Concesión.- Para las modalidades de transporte público descritas en los incisos a), b), c), d), y j) de la fracción I, del artículo 119 de la presente Ley; y
+
+II. Permiso.- Para las modalidades de transporte público descritas en los incisos e), f), g) e i) de la fracción I, así como los descritos en la fracción II , del artículo 119 de la presente Ley.
+
 ###### ARTÍCULO 118.
 
 El servicio de transporte público de personas se llevará a cabo de manera uniforme, regular y permanente en las vías públicas de comunicación del Estado y los municipios, mediante la utilización de vehículos adecuados para cada tipo de servicio, para satisfacer la demanda de los usuarios, previo pago en numerario, en efectivo o en tarjeta de prepago, que deberán realizar los usuarios, de conformidad con las tarifas previamente aprobadas, o el estipendio establecido por las partes en los casos previstos por esta Ley, su Reglamento y normas técnicas aplicables.
@@ -2785,7 +2827,9 @@ c) Transporte urbano y foráneo en taxis: Es aquel que se presta en vehículos c
 
 d) Transporte colectivo foráneo: es aquel que se presta en vehículos cerrados con capacidad de hasta diecinueve personas con rutas definidas y servicio que une a las áreas suburbanas, zonas conurbadas y comunidades rurales con los principales centros de población del Estado por caminos de jurisdicción local preferentemente;
 
-e) Transporte de personal: Es el que se presta por un permisionario o concesionario, en los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+e) Transporte de personal: Es el que se presta en los siguientes supuestos:
 
 1. El destinado a traslado de personas de lugares predeterminados cercanos a sus domicilios hacia sus centros de trabajo y viceversa, dentro de los límites del territorio estatal o cuando su destino de transportación se relacione con fines laborales; y
 
@@ -2797,13 +2841,17 @@ Para su prestación, este servicio requerirá que además del operario, en los v
 
 g) Turístico: Es el destinado al traslado de personas exclusivamente hacia aquellos lugares situados dentro de los límites del territorio estatal, que atiende a un interés histórico, arqueológico, cultural, arquitectónico o recreativo;
 
-h) Transporte público especializado: Conjunto de medios de transporte de personas que por sus características y especificaciones no estén contempladas en el transporte público convencional;
+h) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2024)
 
-i) Mixto: Es el destinado al traslado de personas y bienes en un mismo vehículo, con las medidas de seguridad necesarias para el traslado de personas de manera cómoda e higiénica; los vehículos deberán ser camionetas de doble cabina con capacidad de carga de hasta 750 kilogramos y podrán circular dentro de los municipios del Estado y zona conurbada;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-j) Bicicleta pública: Es aquel que se presta de forma individual en bicicleta de uso compartido, para satisfacer la demanda de viajes cortos en la zonas autorizadas por la CMOV; y
+i) Mixto: Es el destinado al traslado de personas y bienes en un mismo vehículo, con las medidas de seguridad necesarias para el traslado de personas de manera cómoda e higiénica; los vehículos deberán ser camionetas de doble cabina con capacidad de carga de hasta 750 kilogramos y podrán circular dentro de los municipios del Estado y zona conurbada; y
 
-k) Bici taxi: Es aquel que se presta en las zonas previamente autorizadas por la CMOV, en bicicleta unida a una estructura que cuenta con asientos para el conductor y pasajeros; y
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+j) Bicicleta pública: Es aquel que se presta de forma individual en bicicleta de uso compartido, para satisfacer la demanda de viajes cortos en las zonas autorizadas por la CMOV.
+
+k) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2024)
 
 II. De bienes, con las siguientes modalidades:
 
@@ -3189,9 +3237,17 @@ II. Las obligaciones fiscales que deban ser cubiertas de acuerdo con la normativ
 
 III. Los incrementos que sufra el salario mínimo de acuerdo con las resoluciones de la Comisión Nacional de Salarios Mínimos;
 
-IV. Las variaciones que sufra el Índice Nacional de Precios al Consumidor publicado por el Banco de México; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-V. Las condiciones físicas en que se encuentren las unidades de transporte público.
+IV. Las variaciones que sufra el Índice Nacional de Precios al Consumidor publicado por el Banco de México;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+V. Las condiciones físicas en que se encuentren las unidades de transporte público; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+VI. Evaluación de la prestación del servicio realizado por la CMOV.
 
 ###### ARTÍCULO 143.
 
@@ -3205,15 +3261,25 @@ Las tarifas son las siguientes:
 
 I. Tarifa técnica es el resultado de los costos de operación de los servicios de transporte, dividida entre la cantidad de usuarios del servicio;
 
-II. Tarifa pública es el pago que realiza el usuario del transporte público por el servicio recibido, que incluye la tarifa técnica más la utilidad del prestador del mismo; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-III. Tarifa preferencial es el pago que realiza el usuario que por sus condiciones se encuentra incluido en los supuestos de descuento previstos en esta Ley. El porcentaje de descuento será equivalente al cincuenta por ciento de la tarifa pública, asegurando que no impacte negativamente en la sostenibilidad financiera del sistema. Los beneficiarios de las tarifas preferenciales deberán obtener los dispositivos de prepago que los identifique como tales, según se determine en el Reglamento y normatividad técnica aplicable.
+II. Tarifa pública es el pago que realiza el usuario del transporte público por el servicio recibido, que incluye la tarifa técnica más la utilidad del prestador del mismo;
 
-Las tarifas señaladas en las fracciones anteriores deberán calcularse para cada modalidad de transporte público, a excepción del servicio de taxi, en el cual no aplicará la tarifa preferencial.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+III. Tarifa preferencial es el pago que realiza el usuario que por sus condiciones se encuentra incluido en los supuestos de descuento previstos en esta Ley. El porcentaje de descuento será equivalente al cincuenta por ciento de la tarifa pública, asegurando que no impacte negativamente en la sostenibilidad financiera del sistema. Los beneficiarios de las tarifas preferenciales deberán obtener los dispositivos de prepago que los identifique como tales, según se determine en el Reglamento y normatividad técnica aplicable; y
 
-La determinación de la CMOV, por medio de la cual se fije la cuantía de las tarifas, se publicará para conocimiento de todas las personas usuarias a más tardar el último día de marzo de cada año, en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación, en las páginas oficiales digitales de Gobierno del Estado, así como en cualquier otro medio que se estime oportuno.
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+IV. Tarifa integrada es el pago que realiza el usuario por el servicio público en el SITMA, que le permite transbordar en las diversas rutas y modalidades integradas del transporte, para realizar un viaje completo y llegar a su destino final, a través del pago electrónico.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Las tarifas señaladas en las fracciones anteriores deberán calcularse para cada modalidad de transporte público, a excepción del servicio de taxi, en el cual no aplicará la tarifa preferencial e integrada.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+La determinación de la CMOV por medio de la cual se fije la cuantía de las tarifas, las condiciones y montos de los transbordos se publicará a más tardar el último día de marzo de cada año en el Periódico Oficial del Estado, en los periódicos de mayor circulación en la entidad y en cualquier otro medio que se estime oportuno.
 
 ARTÍCULO 144 BIS.- (DEROGADO, P.O. 1 DE JULIO DE 2024)
 
@@ -3313,9 +3379,17 @@ X. Coadyuvar en la actualización de la información para la programación del s
 
 XI. Requerir a las empresas concesionarias, por la falta de entrega oportuna de información para la programación del servicio;
 
-XII. Evaluación del impacto de eventos ajenos en la operación y determinación de acciones de atención y mitigación; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XIII. Las demás que establezcan las disposiciones aplicables.
+XII. Evaluación del impacto de eventos ajenos en la operación y determinación de acciones de atención y mitigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XIII. Previa la conciliación correspondiente determinar la participación para el pago a las empresas concesionarias por el servicio que prestan en el SITMA, con base en lo que establece el título de concesión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XIV. Las demás que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. Las Concesiones
 
@@ -3323,7 +3397,9 @@ XIII. Las demás que establezcan las disposiciones aplicables.
 
 Para la prestación del servicio de transporte dentro del SITMA, se requiere de concesión exclusiva, otorgada en los términos de esta Ley y su Reglamento, atendiendo siempre al interés público.
 
-Las personas morales que pretendan obtener concesiones para operar servicios de transporte del SITMA, deberán demostrar, a criterio de la autoridad, que cuentan con la capacidad de brindar el servicio a través de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Las concesiones para operar servicios de transporte del SITMA, se otorgarán exclusivamente a personas morales, quienes deberán demostrar a criterio de la autoridad, que cuentan con la capacidad de brindar el servicio a través de:
 
 I. Infraestructura: Instalaciones administrativas, operativas y de servicio que establezca el Reglamento para cada modalidad;
 
@@ -3485,11 +3561,11 @@ El sistema de recaudación deberá de considerar la información generada por la
 
 ### CAPÍTULO QUINTO. Los Servicios Auxiliares y Conexos
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 169.
 
-Los servicios auxiliares apoyan la funcionalidad del SITMA y su operación podrá ser concesionada por la persona Titular del Poder Ejecutivo del Estado a través de la SEGGOB, o en su caso contratada a través de un fideicomiso, de conformidad con las leyes aplicables.
+Los servicios auxiliares apoyan la funcionalidad del SITMA y su operación podrá ser concesionada por la persona titular del Poder Ejecutivo a través de la SEGGOB, o contratada por los concesionarios de transporte, previa autorización de la CMOV, de conformidad con la legislación aplicable.
 
 ###### ARTÍCULO 170.
 
@@ -3517,11 +3593,29 @@ Constituyen servicios conexos los siguientes:
 
 I. Vigilancia, seguridad y mantenimiento de las instalaciones del SITMA y de sus servicios auxiliares;
 
-II. Publicitarios que se efectúen en cualquier bien afecto a la prestación de cualquiera de los servicios relacionados con el SITMA; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-III. Los demás que determine la CMOV.
+II. Publicitarios que se efectúen en cualquier bien afecto a la prestación de cualquiera de los servicios relacionados con el SITMA;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+III. Equipamiento y operación en los vehículos, paraderos, terminales, microterminales o de cualquier bien afecto a la prestación de los servicios relacionados con el SITMA, para proveer el acceso a internet gratuito a los usuarios del servicio de transporte público.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Para la operación de los servicios conexos los concesionarios del SITMA permitirán el acceso, la instalación o cualquier acto necesario en las unidades que prestan el servicio, para su ejecución; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+IV. Los demás que determine la CMOV.
 
 El Reglamento determinará las condiciones jurídicas para la contratación de los servicios conexos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+TÍTUTO SÉPTIMO
+
+CONCESIONES, PERMISOS Y AUTORIZACIONES DE TRANSPORTE
 
 ### CAPÍTULO PRIMERO. El Régimen General de las Concesiones y Permisos
 
@@ -3531,53 +3625,97 @@ Para la prestación del servicio público de transporte se requiere de concesió
 
 En todo lo no previsto en materia de permisos a los que se hace referencia en este Capítulo, se aplicarán supletoriamente las reglas establecidas para las concesiones.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 173.
 
-La persona titular del Poder Ejecutivo del Estado, atendiendo a las necesidades públicas, facultará a la SEGGOB para otorgar, suspender o revocar las concesiones para la prestación del servicio público de transporte de personas y de bienes.
+La persona titular del Poder Ejecutivo del Estado, atendiendo a las necesidades públicas y a los procedimientos establecidos en la presente Ley, podrá expedir, otorgar, suspender, revocar, extinguir, rescatar, renovar o regularizar los Títulos de Concesiones o permisos para la prestación del servicio de transporte público, a través de las dependencias facultadas para cada caso.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+Para la expedición de los Títulos de Concesiones a que se refiere el párrafo anterior la persona titular del Poder Ejecutivo del Estado, podrá delegar dicha facultad a la persona titular de la SEGGOB.
 
 ###### ARTÍCULO 174.
 
 Las concesiones y permisos se otorgarán exclusivamente en favor de personas de nacionalidad mexicana y con residencia en el Estado, de acuerdo a los lineamientos establecidos para cada modalidad de servicio, demostrando la capacidad técnica, jurídica y financiera para poder explotar la concesión o permiso respectivo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 175.
 
-Las concesiones para el servicio de transporte público podrán otorgarse a:
+Las concesiones o permisos para el servicio de transporte público podrán otorgarse, a través de:
 
-I. Personas morales, para el servicio de transporte público de personas en la modalidad de colectivo urbano;
+I. Concesiones:
 
-II. Personas físicas o morales, para el servicio de transporte público de personas en la modalidad de suburbano, colectivo foráneo, de personal, turismo, personas con discapacidad y escolar;
+a) Personas morales, para el servicio de transporte público de personas en la modalidad de colectivo urbano;
 
-III. Personas físicas, para el servicio de transporte público de personas en taxis. En este caso solo se podrá asignar una concesión por persona; y
+b) Personas físicas o morales, para el servicio de transporte público de personas en las modalidades de suburbano, colectivo foráneo y bicicleta publica; y
 
-IV. Personas físicas o morales, para el servicio de transporte público de bienes.
+c) Personas físicas, para el servicio de transporte público de personas en la modalidad de transporte urbano y foráneo en taxis. En este caso cada persona física tendrá derecho a ser titular de hasta cinco concesiones ordinarias.
 
-Podrán introducirse modalidades del servicio diferentes de las que se expresan en las Fracciones anteriores, en cuyo caso, se otorgarán concesiones para su prestación a personas morales o personas físicas, según lo requiera la naturaleza del servicio, la eficacia del mismo y la necesidad de mantener el equilibrio en el mercado.
+II. Permisos
 
-En las concesiones a que se refieren estas Fracciones se establecerán las bases y condiciones que deba cumplir el concesionario. La contravención de estas será causa de suspensión o revocación.
+a) Personas físicas o morales, para el servicio de transporte público de personas en las modalidades de transporte de personal, escolar, turístico y mixto;
+
+b) Personas físicas o morales, para el servicio de transporte público de bienes.
+
+En el título de concesión o permiso para explotar el servicio de transporte público que refiere el presente artículo, se establecerán las condiciones que deba cumplir el concesionario o permisionario. La contravención de estas será causa de suspensión o revocación.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 176.
 
-El interesado en obtener concesión para prestar el servicio de transporte público, deberá presentar la solicitud ante la CMOV y reunir los siguientes requisitos:
+El interesado en obtener concesión o permiso para prestar el servicio de transporte público, deberá presentar la solicitud ante la CMOV y reunir los siguientes requisitos:
 
-I. Ser mayor de edad;
+A. Para personas físicas:
 
-II. Señalar domicilio en el Estado para recibir notificaciones;
+I. Presentar formato de solicitud para el otorgamiento de concesión o permiso;
 
-III. Copia de la cédula donde conste el Registro Federal de Contribuyentes;
+II. Ser de nacionalidad mexicana;
 
-IV. Acreditar la capacidad técnica, económica y aptitud para prestar personalmente el servicio;
+III. Ser mayor de edad;
 
-V. Expresar por escrito el motivo por el que solicita la concesión;
+IV. Tener residencia en el Estado, mínima de dos años previos a la solicitud;
 
-VI. Ser propietario del vehículo objeto de la solicitud, acreditado mediante factura o documento que compruebe el dominio del vehículo o vehículos que vayan a ser utilizados en la prestación del servicio público;
+V. Cédula de inscripción del Registro Federal de Contribuyentes;
 
-VII. Acreditar mediante escritura, la constitución de la persona moral en su caso, siempre y cuando su objeto principal sea la prestación del servicio de transporte público;
+VI. Identificación oficial vigente;
 
-VIII. Copia certificada de la licencia de conducir de quien o quienes se desempeñarán como operadores; y
+VII. Acreditar la capacidad técnica, jurídica y financiera para prestar el servicio de transporte en términos de lo dispuesto por el artículo 195 del Reglamento;
 
-IX. Las demás que se establezcan en el Reglamento.
+VIII. Factura o documento que acredite la propiedad del vehículo o vehículos que serán utilizados en la prestación del servicio y/o carta compromiso firmada por el solicitante, en la cual se compromete a adquirir el vehículo en el plazo establecido en la Convocatoria respectiva;
+
+IX. Señalar domicilio en el Estado para oír y recibir notificaciones;
+
+X. Constancia de opinión de cumplimiento de obligaciones fiscales estatales en sentido positivo expedida por la Secretaría de Finanzas del Estado de Aguascalientes, con fecha de emisión no mayor a treinta días naturales;
+
+XI. Opinión de cumplimiento de obligaciones fiscales federales en sentido positivo expedida por el Servicio de Administración Tributaria, con fecha de emisión no mayor a treinta días naturales; y
+
+XII. Los demás que se establezcan en el Reglamento y en las convocatorias respectivas.
+
+B. Para personas morales:
+
+I. Presentar formato de solicitud para el otorgamiento de concesión o permiso;
+
+II. Presentar copia certificada del acta constitutiva de la persona moral solicitante que acredite tener por objeto social la prestación del servicio de transporte, constituida bajo las leyes de los Estado Unidos Mexicanos y en su caso, el consecutivo instrumental de reformas o modificaciones realizadas;
+
+III. Tener su domicilio fiscal en el Estado;
+
+V. Presentar copia de la identificación oficial del representante legal;
+
+VI. Presentar Cédula de Inscripción del Registro Federal en el Registro Contribuyentes de la persona moral;
+
+VII. Presentar Constancia de cumplimiento de obligaciones fiscales estatales en sentido positivo expedida por la Secretaría de Finanzas del Estado de Aguascalientes, con fecha de emisión no mayor a tres meses;
+
+VIII. Contar con opinión de cumplimiento de obligaciones fiscales federales en sentido positivo, expedida por el Servicio de Administración Tributaria, con fecha de emisión no mayor a tres meses;
+
+IX. Acreditar la capacidad técnica, jurídica y financiera para prestar el servicio, en términos de lo dispuesto por el artículo 195 del Reglamento;
+
+X. Presentar factura o documento que acredite la propiedad del vehículo o vehículos que serán utilizados en la prestación del servicio y/o carta compromiso firmada por el solicitante, en la cual se compromete a adquirir el vehículo en el plazo que establezca la Convocatoria respectiva;
+
+XI. Señalar domicilio en el Estado para oír y recibir notificaciones; y
+
+XII. Los demás que se establezcan en el Reglamento y en la convocatoria, según corresponda.
 
 ###### ARTÍCULO 177.
 
@@ -3605,11 +3743,17 @@ En el otorgamiento de concesiones ordinarias para operar el servicio en la modal
 
 I. Se tomará en cuenta la antigüedad del solicitante en la prestación del servicio, debidamente acreditada ante la autoridad competente;
 
-II. Contar con conocimientos mínimos respecto a la operación de la concesión;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-III. Comprobar que no ha sido sancionado por infracciones graves y reiteradas con motivo de la prestación del servicio;
+II. Contar con tarjetón de operador vigente;
 
-IV. El solicitante deberá manifestar por escrito su compromiso para capacitarse y actualizarse en forma permanente a través de los cursos que promueva la autoridad; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+III. No haber sido sancionado más de dos veces por infracciones graves o muy graves con motivo de la prestación del servicio, en términos de la presente ley; y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+IV. El solicitante deberá manifestar por escrito su compromiso para capacitarse y actualizarse en forma permanente a través de los cursos que promueva la autoridad.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -3619,15 +3763,15 @@ En caso de que dos o más solicitantes para obtener una concesión se encuentren
 
 El procedimiento para la tramitación, sustanciación y resolución de las solicitudes y el contenido de las concesiones a las que se refiere el presente Título, se establecerá en el Reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 182.
 
-La concesión que se otorgue tendrá vigencia de cinco años a partir de su expedición, excepto la del SITMA que tendrá una vigencia de diez años, pudiendo todas renovarse de manera subsecuente, siempre y cuando, tanto el concesionario como los vehículos reúnan los mismos requisitos que se señalan para la obtención.
+Las concesiones ordinarias tendrán una vigencia de cinco años a partir de su expedición y para el caso de las concesiones SITMA tendrán una vigencia de diez años a partir de su expedición. Ambas concesiones podrán renovarse de manera subsecuente, siempre y cuando el concesionario y los vehículos cumplan con los requisitos establecidos para su obtención.
 
-De acuerdo con la modalidad del servicio los permisos a que se refiere el Artículo 172, tendrán la vigencia que se señale en el Reglamento de esta Ley.
+Los permisos que se otorguen de conformidad con la fracción II del artículo 175, tendrán la vigencia que se señale en el Reglamento de esta Ley, pudiendo renovarse de manera subsecuente, siempre y cuando, tanto el permisionario como los vehículos reúnan los mismos requisitos que se señalan para su obtención.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-Anualmente se pagarán los derechos correspondientes por el uso de la concesión en la cantidad que determine la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año correspondiente.
+Anualmente se pagarán los derechos correspondientes por la explotación de la concesión o el permiso correspondiente, en la cantidad que determine la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año correspondiente.
 
 ###### ARTÍCULO 183.
 
@@ -3655,25 +3799,65 @@ VII. Prohibición de variar las condiciones de la concesión o permiso, sin la p
 
 Las concesiones o permisos en materia de transporte público no otorgan exclusividad a los concesionarios en la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 186.
 
-El documento por el que se otorga la concesión será el único válido para acreditar la existencia de la misma. La simple entrega o transmisión de las placas de circulación de los vehículos destinados a la prestación de los servicios, no surtirá efectos jurídicos ni administrativos para ese fin.
+El documento por el que se otorga la concesión o el permiso, según corresponda, será el único válido para acreditar su existencia. La simple entrega o transmisión de las placas de circulación de los vehículos destinados a la prestación de los servicios de transporte público, no surtirá efectos jurídicos ni administrativos para ese fin.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 187.
 
-La concesión que se otorgue es personal e intransferible y sólo podrá hacer uso de ella la persona física o moral a quien se hubiere otorgado.
+La concesión ordinaria que se otorgue es un acto administrativo de carácter personal y solo podrá ser explotada por la persona física o moral a quien se hubiere otorgado.
 
-No deberá prestarse el servicio de transporte público por intermediación de terceros, excepto los operadores que se contraten para su prestación y sean autorizados por la autoridad competente. Cualquier acto jurídico que contravenga el presente precepto será nulo de pleno derecho, sin necesidad de pronunciamiento expreso por autoridad jurisdiccional.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+El servicio de transporte público se prestará por el titular de la concesión o por los operadores autorizados por la Dirección General de Transporte Público de la CMOV que contrate el concesionario. Cualquier acto jurídico que contravenga el presente precepto será nulo de pleno derecho, sin necesidad de pronunciamiento expreso por autoridad jurisdiccional.
 
 Los Fedatarios Públicos se abstendrán de protocolizar cualquier actuación que tenga por efecto transmitir o realizar cualquier acto traslativo de dominio sobre una concesión, debiendo dar aviso a la CMOV dentro de los cinco días siguientes al que haya tenido conocimiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 188.
 
-Tratándose de personas físicas, los concesionarios podrán designar beneficiario de entre su cónyuge, concubino o parientes en línea recta o colateral hasta el cuarto grado, para el caso de muerte, declaración de ausencia, incapacidad total o parcial permanente debidamente comprobada del titular que imposibilite la prestación del servicio.
+El derecho de explotación derivado de las concesiones ordinarias, serán susceptibles de transmisión, previa autorización de la CMOV, en los siguientes supuestos;
+
+I. Por causa de muerte, ausencia o por incapacidad física o mental, que imposibilite al titular la explotación de la concesión, conforme al procedimiento y requisitos que se establezcan en el Reglamento de esta Ley;
+
+Para la transmisión las personas físicas que sean titulares de la concesión, podrán proponer a una persona de entre su cónyuge, concubinario, parientes en línea recta o transversal hasta el cuarto grado, para que sea considerada y evaluada por la Dirección General de Transporte Público de la CMOV; y
+
+II. A solicitud del titular de la concesión en la que proponga a la persona para ejercer el derecho de explotación de la concesión. El concesionario que solicite la transmisión del derecho de explotación de la concesión, quedará imposibilitado para obtener otra concesión, en un plazo de siete años.
+
+Cualquier acto relativo a los derechos de explotación de la concesión sin la autorización de la CMOV en términos de la presente Ley, su Reglamento y de más normativa aplicable, será nulo y no surtirá efecto legal alguno, dando lugar a la revocación de la concesión.
+
+Los procedimientos y requisitos para la transmisión del derecho de explotación de la concesión ordinaria, además de lo establecido en la presente Ley, se regularán en su Reglamento y demás disposiciones normativas aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 189.
 
-En los casos referidos en el Artículo anterior, el beneficiario podrá solicitar nueva concesión en sustitución de la otorgada originalmente, previo reconocimiento del derecho por parte de la CMOV, tras haber cumplido los requisitos establecidos en esta Ley y en el Reglamento respectivo.
+La persona titular de la CMOV podrá autorizar, la transmisión de derechos de explotación de la concesión ordinaria, siempre y cuando se cumpla con lo siguiente:
+
+I. Para el supuesto establecido en la fracción I del artículo 188 de esta Ley:
+
+a) Que acredite mediante documento legalmente expedido por autoridad competente el supuesto;
+
+b) Que el título de concesión este vigente; y
+
+c) Que la persona a quien haya propuesto el titular de la concesión acredite los requisitos establecidos para el otorgamiento de una concesión ordinaria de la modalidad de que se trate, así como el cumplimiento de las demás disposiciones jurídicas y administrativas aplicables para tal efecto.
+
+II. Para el supuesto establecido en la fracción II del artículo 188 de esta Ley deberá cumplirse con lo siguiente:
+
+a) Que el título de concesión ordinaria esté vigente y que su expedición haya sido al menos con cuatro años de anterioridad al de su solicitud;
+
+b) Que la persona a quien haya propuesto el titular de la concesión ordinaria de la modalidad de que se trate, cumpla con las demás disposiciones jurídicas y administrativas aplicables para tal efecto;
+
+c) La carta de aceptación por parte de la persona a quien se haya propuesto para ejercer los derechos de explotación de la concesión; y
+
+d) Que la persona titular de la concesión haya cumplido con todas las obligaciones establecidas en la concesión y en las demás disposiciones jurídicas y administrativas aplicables.
+
+En caso de que la transmisión del derecho de explotación de la concesión sea autorizada por la CMOV, esta solicitará a la persona Titular del Poder Ejecutivo para que por sí o a través de la SEGGOB expida el título de concesión respectivo.
 
 ###### ARTÍCULO 190.
 
@@ -3937,7 +4121,9 @@ I. No iniciar la prestación del servicio dentro del plazo señalado por la auto
 
 II. Suspender la prestación del servicio público, sin causa justificada, en contravención a los términos establecidos en el título de concesión;
 
-III. Ceder, enajenar o de cualquier manera transferir la concesión, o alguno de los derechos en ella establecidos, sin que dichos actos sean previa y formalmente autorizados por la SEGGOB, en los términos de la presente Ley o su Reglamento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+III. Enajenar, arrendar o gravar la concesión ordinaria, o alguno de los derechos en ella establecidos, sin que dichos actos sean previa y formalmente autorizados por la SEGGOB, en los términos de la presente Ley o su Reglamento;
 
 IV. No acatar las disposiciones relativas a modificaciones de la concesión, conforme a esta Ley, su Reglamento o los lineamientos operativos para la prestación del servicio de transporte público o del servicio auxiliar de que se trate;
 
@@ -3965,9 +4151,17 @@ XV. Incumplir las disposiciones relativas a la sustitución o reparación de los
 
 XVI. Que el concesionario incurra en una tercera incidencia relacionada con la falta de seguridad social para los operadores;
 
-XVII. En el caso de taxis, cuando por causa imputable al propio concesionario, de manera sistemática y reiterada, no se brinden los servicios gratuitos de acuerdo a lo establecido en el Artículo 76 de esta Ley; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Que el vehículo no cuente con las adaptaciones para personas con movilidad limitada previstas por esta Ley.
+XVII. En el caso de taxis, cuando por causa imputable al propio concesionario, de manera sistemática y reiterada, no se brinden los servicios gratuitos de acuerdo a lo establecido en el Artículo 76 de esta Ley;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Que el vehículo no cuente con las adaptaciones para personas con movilidad limitada previstas por esta Ley; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+XIX. Transmitir los derechos de explotación de la concesión, sin la previa autorización de la CMOV y en términos de la presente Ley, su Reglamento y disposiciones normativas y legales aplicables.
 
 En todo caso, para resolver sobre la revocación de una concesión, deberá tomarse en cuenta la gravedad y reiteración del incumplimiento en que hubiere incurrido el concesionario.
 
@@ -4047,7 +4241,9 @@ La carta de registro de las unidades se podrá expedir por un período de tres, 
 
 I. Copia certificada del título de propiedad del vehículo;
 
-II. Que la antigüedad del vehículo con el que se prestará el servicio no exceda de cinco años; además deberá contar con cuatro puertas, cinco plazas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire, aire acondicionado, así como el cumplimiento de los requisitos para su circulación previstos en esta Ley y el Reglamento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
+II. Que la antigüedad del vehículo con el que se prestará el servicio no exceda de seis años; además deberá contar con cuatro puertas, cinco plazas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire, aire acondicionado, así como el cumplimiento de los requisitos para su circulación previstos en esta Ley y el Reglamento;
 
 III. Copia de la póliza del seguro vehicular vigente;
 
@@ -4059,9 +4255,11 @@ V. Los demás que señale el Reglamento.
 
 Los propietarios que presten el servicio contratado a través de plataformas tecnológicas, estarán obligados a someter el vehículo a la revisión físico-mecánica correspondiente, con la periodicidad que se señale en el Reglamento. En caso de que se incumpla con esta disposición no será renovada la carta de registro.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 213.
 
-La ficha de identificación tendrá una vigencia de un año y podrá ser renovada siempre que se cumplan los mismos requisitos previstos en esta Ley para su expedición.
+La ficha de identificación tendrá una vigencia de dos años y podrá ser renovada siempre que se cumplan los mismos requisitos previstos en esta Ley para su expedición.
 
 ###### ARTÍCULO 214.
 
@@ -4103,7 +4301,7 @@ VIII. Verificar las condiciones del vehículo, conforme a lo que establezca la a
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2023)</small>
 
-## TÍTULO SÉPTIMO. LAS CONCESIONES, PERMISOS Y AUTORIZACIÓN DE PLATAFORMAS TECNOLÓGICAS
+## TÍTULO OCTAVO. LOS INSTRUMENTOS DE POLÍTICA PÚBLICA DE MOVILIDAD Y SEGURIDAD VIAL PARA LA INFRAESTRUCTURA Y EL EQUIPAMIENTO VIAL
 
 ### CAPÍTULO PRIMERO. Disposiciones Preliminares
 
@@ -4911,7 +5109,7 @@ La violación de este precepto que genere algún hecho de tránsito, implicará 
 
 Corresponde a la SSP o a la dependencia municipal correspondiente establecer zonas de estacionamiento exclusivo, de conformidad con los estudios que sobre el particular se realicen, siempre y cuando no afecten los derechos de terceros.
 
-## TÍTULO OCTAVO. LOS INSTRUMENTOS DE POLÍTICA PÚBLICA DE MOVILIDAD Y SEGURIDAD VIAL PARA LA INFRAESTRUCTURA Y EL EQUIPAMIENTO VIAL
+## TÍTULO NOVENO. LA INSPECCIÓN Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO PRIMERO. La Inspección, Vigilancia y Verificación del Transporte Público
 
@@ -5212,8 +5410,6 @@ Una vez terminados los trámites relativos a la infracción, la SSP o la depende
 Los municipios implementarán acciones permanentes de información para disminuir el consumo de alcohol, estupefacientes, psicotrópicos, estimulantes o sustancias que produzcan efectos similares, en la población y prevenir los accidentes viales, así como llevar a cabo operativos de prevención y seguridad vial previamente determinados en coordinación con las autoridades competentes en la materia, en los términos que señala este capítulo.
 
 ## TÍTULO DÉCIMO. INFRACCIONES Y SANCIONES
-
-## TÍTULO NOVENO. LA INSPECCIÓN Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO PRIMERO. Reglas Generales para la Imposición de Sanciones
 
@@ -6366,3 +6562,23 @@ P.O. 25 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 55.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas al Reglamento de la Ley de Movilidad del Estado de Aguascalientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas del presente Decreto, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efectos todas aquellas disposiciones normativas y reglamentarias que se opongan al presente Decreto
