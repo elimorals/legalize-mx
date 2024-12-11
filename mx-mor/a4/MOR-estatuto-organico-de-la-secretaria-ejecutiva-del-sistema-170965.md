@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-170965
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-10-07"
-last_updated: "2024-01-31"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
 
 Estatuto publicado en el Número 5867 del Periódico Oficial del Estado de Morelos, el miércoles 7 de octubre de 2020.
 
@@ -344,6 +344,10 @@ IV. Encontrándose legalmente integrada la terna, el Órgano de Gobierno convoca
 V. Dentro de los cinco días hábiles siguientes a la entrevista, el Órgano de Gobierno sesionará para realizar la designación del Secretario Técnico, a quien se le tomará protesta en la misma sesión.
 
 VI. Los casos no previstos serán resueltos en sesión del Comité Coordinador, por acuerdo de la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+En el caso de que el Comité de Participación Ciudadana no esté conformado, y se esté en el supuesto del artículo 14, tercer párrafo del presente Estatuto, el Presidente Temporal del Órgano de Gobierno, someterá al mismo, la designación de un Secretario Técnico con carácter de Temporal, quien deberá cumplir con los requisitos señalados en el artículo 36 y contará con todas las facultades establecidas en el artículo 37 de la Ley Estatal. Este ocupará el cargo hasta en tanto se realicen las nuevas designaciones del Comité de Participación Ciudadana y se esté en términos del artículo 35 de la Ley Estatal, en el entendido que el Secretario Técnico Temporal, podrá participar en la terna de candidatos para ser designado Secretario Técnico. En el supuesto de ser elegido, fungirá en el cargo únicamente por el período restante a lo señalado en el artículo 35 de la Ley del Sistema Anticorrupción del Estado de Morelos.
 
 ### CAPÍTULO VI. DE LA COMISIÓN EJECUTIVA
 
@@ -734,3 +738,13 @@ P.O. 31 DE ENERO DE 2024.
 PRIMERO. Publíquese la presente modificación y adición en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO. La presente modificación y adiciones entrarán en vigor a partir de su aprobación por parte del Órgano de Gobierno de la Secretaría Ejecutiva y Comité Coordinador del Sistema Anticorrupción del Estado de Morelos.
+
+P.O. 11 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL EL ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN APRUEBA LA ADICIÓN DE UN PÁRRAFO AL ARTÍCULO 17 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+PRIMERO. La presente adición entrará en vigor a partir de su aprobación por parte del Órgano de Gobierno de la Secretaría Ejecutiva y Comité Coordinador del Sistema Anticorrupción del Estado de Morelos.
+
+SEGUNDO. Publíquese la presente adición en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Morelos, realizar la inscripción del presente acuerdo en el Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
