@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2023-12-20"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -55,27 +55,39 @@ El Escudo y el Himno de Tamaulipas son los símbolos del Estado libre y soberano
 
 De las Características del Escudo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 2.
 
-El Escudo de Tamaulipas se compone de cuatro secciones enmarcadas en un pergamino amarillo oro con las características de diseño del Escudo que al presente ordenamiento se anexa y que al quedar de frente se describe como a continuación se especifica:
+El Escudo de Tamaulipas se compone de cuatro secciones enmarcadas en un pergamino amarillo oro con la inscripción 1824-2024 en su parte superior, así como ESTADO DE TAMAULIPAS en la parte inferior, ambos en color rojo, y al centro con las características de diseño del Escudo que al presente ordenamiento se anexa y que al quedar de frente se describe como a continuación se especifica:
 
-En la primera sección, correspondiente a la parte superior izquierda y en fondo azul, aparecen dispuestas en el siguiente orden: una planta de maíz, una de sorgo con la panoja anaranjada, una de agave y una de caña, todas en color verde como símbolo de las fuentes principales que han dado auge al desarrollo agrícola de Tamaulipas.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
 
-En la segunda sección, correspondiente a la parte superior central, aparece el Escudo de Armas de don José de Escandón y Helguera, Conde de Sierra Gorda, como testimonio de reconocimiento por su obra social, humanitaria y civilizadora, para lo cual se identificará solamente el escudo condal con una cruz amarilla, suprimiéndose los soportes, el timbrado y la corona, para representarse con base en la siguiente descripción:
+En la primera sección, correspondiente a la parte superior izquierda y en fondo azul, aparecen dispuestas en el siguiente orden: una planta de maíz con una mazorca amarilla, una espiga de sorgo rojo, una de agave y una de caña, todas en color verde como símbolo de las fuentes principales que han dado auge al desarrollo agrícola de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+En la segunda sección, correspondiente a la parte superior central, aparece el Escudo de Armas de don José de Escandón y Helguera, Conde de Sierra Gorda, como testimonio de reconocimiento por su obra social, humanitaria y civilizadora, para lo cual se identificará solamente el escudo condal con una cruz dorada, suprimiéndose los soportes, el timbrado y la corona, para representarse con base en la siguiente descripción:
 
 En la parte superior izquierda aparece una torre azul en fondo rojo.
 
-En la parte superior derecha un águila dorada en fondo azul.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
 
-En la parte inferior izquierda un caldero dorado con una bandera roja en fondo azul.
+En la parte superior derecha un águila café con entorno dorada en fondo azul.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+En la parte inferior izquierda un caldero dorado con una bandera del mismo color en fondo azul.
 
 En la parte inferior derecha una torre azul en fondo rojo.
 
-En la tercera sección, correspondiente a la parte superior derecha, en fondo rojo aparecen de arriba hacia abajo un toro de raza cebú en color café obscuro, una vaca de la misma raza en color amarillo ocre, y un ejemplar de ganado caprino en color beige, señalándose con ello la producción pecuaria de Tamaulipas.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
 
-En la cuarta sección, correspondiente a la parte inferior, en fondo azul cielo se presenta arriba y al centro el Cerro del Bernal en color café, mostrando a cada lado de la parte superior del mismo una nube blanca. En la parte inferior izquierda, se presenta un barco camaronero gris claro y un pez anaranjado en un mar azul obscuro, con lo que se identifica la explotación e industria pesquera de Tamaulipas. En la parte inferior y al centro se presenta un tractor blanco en un campo beige surcando la tierra, como testimonio de desarrollo a través de la mecanización del campo. En la parte inferior derecha en fondo verde se presenta una torre petrolera de color negro y dos depósitos de petróleo blancos, significando el potencial de hidrocarburos y la capacidad técnica para su refinación.
+En la tercera sección, correspondiente a la parte superior derecha, en fondo rojo aparecen de arriba hacia abajo un toro de raza cebú en color café obscuro, un venado cola blanca color café claro, y una cabra toggenburg color beige con blanco, señalándose con ello la producción pecuaria y la vida silvestre de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+En la cuarta sección, correspondiente a la parte inferior, en fondo azul cielo se presenta arriba y al centro el Cerro del Bernal en color café, mostrando en la parte superior del mismo y por el lado derecho una nube blanca en formación cúmulos y una más del mismo tipo y color por su lado izquierdo, y en su parte inferior dos turbinas eólicas en color blanco por su lado izquierdo, así como dos torres eléctricas de alta tensión grises en su lado derecho. En la parte inferior izquierda, se presenta un barco camaronero blanco con rojo, un buque portacontenedor cargado en color azul con contenedores amarillos, rojos, naranjas y celestes, y un pez verde saliendo de un mar azul, con lo que se identifica la explotación e industria pesquera de Tamaulipas. En la parte inferior y al centro se presenta un tractor rojo en un campo beige cultivando la tierra y a los costados del camino plantas sembradas en color verde, como testimonio de desarrollo a través de la mecanización del campo. En la parte inferior derecha en fondo verde se presenta una torre petrolera de color negro y un depósito de petróleo blanco, significando el potencial de hidrocarburos y la capacidad técnica para su refinación, así como una maquiladora gris con rojo.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -824,3 +836,15 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-109 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, QUINTO, SEXTO, OCTAVO Y NOVENO DEL ARTÍCULO 2 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las autoridades deberán realizar las modificaciones conducentes para el correcto uso del Escudo de Tamaulipas.
