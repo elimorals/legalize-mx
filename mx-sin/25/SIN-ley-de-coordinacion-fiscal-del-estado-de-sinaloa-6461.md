@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2023-01-20"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -455,9 +455,13 @@ La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se inte
 
 La Secretaría de Administración y Finanzas, la Auditoría Superior del Estado de Sinaloa y por siete municipios, representados por los Tesoreros Municipales elegidos anualmente por los Ayuntamientos, en el número que para cada grupo se indica. Asimismo, se nombrará un suplente por cada uno de los miembros elegidos.
 
-A.- ZONA NORTE: Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado y Mocorito. Se elegirán tres representantes.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
 
-B.- ZONA CENTRO: Badiraguato, Navolato, Culiacán, Elota y Cosalá. Se elegirán dos representantes.
+A.- ZONA NORTE: Ahorne, El Fuerte, Choix, Guasave, Juan José Ríos, Sinaloa, Angostura, Salvador Alvarado y Mocorito. Se elegirán tres representantes.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+B.- ZONA CENTRO: Badiraguato, Navolato, Culiacán, Eldorado, Elota y Cosalá. Se elegirán dos representantes.
 
 C.- ZONA SUR: San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa. Se elegirán dos representantes.
 
@@ -484,6 +488,74 @@ La Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales será p
 ###### ARTICULO 19.
 
 Cuando el Estado o algún Municipio contravengan lo establecido por esta Ley o viole el contenido de alguno de los Convenios de Colaboración Administrativa o sus anexos, previa manifestación expresa de dicha violación por la parte afectada a la autoridad infractora, presentará inconformidad ante la Legislatura del Estado a efecto de dictaminar sobre las medidas correctivas a que haya lugar.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO V. DE LAS PARTICIPACIONES A LOS MUNICIPIOS DE NUEVA CREACIÓN
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+###### ARTICULO 20.
+
+Cuando no se cuente con las cifras de recaudación del impuesto predial (rústico y urbano), de las cuotas por servicio de agua potable y de ingresos propios que precisan las fórmulas de distribución de participaciones que se establecen en los artículos 3o Bis A, 3o Bis D, 4o, 4o Bis 2, 4o Bis 3, 4o Bis 6 y 5o Bis de esta Ley, de cuatro ejercicios fiscales completos, y de dos ejercicios completos para los artículos 3o Bis D, 4o Bis y 4o Bis 3, como es en el caso de los nuevos municipios, al momento de entrar en funciones, se considerará lo siguiente:
+
+A) Para las fórmulas que se establecen en los artículos 3o Bis A, 3o Bis D en lo que respecta a Ci,t, 4o en lo que respecta a C1i,t, C2i,t, C3i,t, y C4i,t, 4o Bis 2, 4o Bis 3 respecto a Ci,t, 4o Bis 6 y 5o Bis, de esta Ley, a partir del inicio de sus funciones, durante los cuatro siguientes ejercicios fiscales completos y en su caso también del primer ejercicio que sea en forma parcial, se considerará la proporción de habitantes de los municipios respecto a los municipios que les dieron origen, de conformidad con la última información oficial que dé a conocer el Instituto Nacional de Estadística y Geografía conforme al decreto de creación de los nuevos municipios, éste como único factor, el de población.
+
+B) Para las fórmulas que se establecen en los artículos 3o Bis D respecto a CPi,t, fracción II del 4o Bis, y 4o Bis 3 respecto a CPi,t, de esta Ley, a partir del inicio de sus funciones, durante los dos siguientes ejercicios fiscales completos y en su caso también del primer ejercicio que sea en forma parcial, se considerará la proporción de habitantes de los municipios respecto a los municipios que les dieron origen, de conformidad con la última información oficial que dé a conocer el Instituto Nacional de Estadística y Geografía conforme al decreto de creación de los nuevos municipios, este como único factor, el de población.
+
+C) De acuerdo a los incisos A) y B) anteriores, se utilizarán las cifras de recaudación disponibles proporcionadas por la Auditoria Superior del Estado en materia de impuesto predial, cuotas por servicio de agua potable e ingresos propios de los municipios incluyendo los de nueva creación, durante los siguientes cuatro ejercicios fiscales completos, y de ser necesario también del ejercicio en forma parcial al inicio de sus funciones, en donde la recaudación de los municipios nuevos se sumará a la de los municipios de origen en forma proporcional (Pti) a la población con la que se originó el municipio de nueva creación al inicio de sus funciones en base en la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINAS DE LA 4 A LA 5.]</small>
+
+D) Una vez integrada la recaudación de impuesto predial, cuotas por servicio de agua potable e ingresos propios de los nuevos municipios en los municipios de origen, se procederá a realizar los cálculos de participaciones federales y estatales conforme a los artículos 3o Bis A, 3o Bis D, 4o, 4o Bis, 4o Bis 2, 4o Bis 3, 4o Bis 6 y 5o de esta Ley, donde la población integrada del municipio de origen i y el municipio de nueva creación i que se considerará será la siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINA 5.]</small>
+
+En caso que durante los periodos señalados en los incisos A) y B) anteriores el Instituto Nacional de Estadística y Geografía actualice la población de todos los municipios del Estado, la población que publique de los nuevos municipios se sumará a la de los municipios de origen bajo la misma proporción de Pti.
+
+Para Fi,15 y Pi,15, como parte de las fórmulas de los artículos 3o Bis D y 4o de esta Ley, se considerarán las participaciones del fondo que el municipio de origen i recibió en 2015 en la integración de participaciones de los municipios de nueva creación i y de origen i, para posteriormente distribuirse de acuerdo a lo indicado en el artículo 21 siguiente.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+###### ARTICULO 21.
+
+Para efecto de distribuir la participación integrada de los municipios de nueva creación y del municipio de origen referida en el inciso D) del artículo 20 anterior, se considerará lo siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINAS DE LA 6 A LA 7.]</small>
+
+Para obtener el valor de las participaciones que deberán recibir los municipios de nueva creación y los municipios de origen, se deberá multiplicar el valor de las participaciones integradas que le correspondan a cada uno de los municipios de origen por los coeficientes Ct1i, Ct2i de acuerdo a lo siguiente:
+
+Fondo Estatal (Artículo 3o Bis A) y Fondo Municipal de Participaciones (Artículo 4o)
+
+Para los municipios de nueva creación:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8.]</small>
+
+Para los municipios de origen:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINA 8.]</small>
+
+Para los municipios de nueva creación:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINAS DE LA 8 A LA 9.]</small>
+
+Para los municipios de origen:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINA 9.]</small>
+
+Para los municipios de nueva creación:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINA 10.]</small>
+
+Para los municipios de origen:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 11 DE DICIEMBRE DE 2024, PÁGINA 10.]</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
+###### ARTICULO 22.
+
+En el supuesto de que se tuviera que aplicar lo indicado en el artículo 4o Bis 4, se tomará como cantidad efectiva obtenida en el mes que se calcula y de acuerdo con el o los coeficientes definitivos que los municipios de origen hayan recibido de dicho concepto en el año 2015, respectivamente, tomando en cuenta la metodología que se indica en el artículo 21 de esta Ley.
 
 T R A N S I T O R I O S :
 
@@ -733,10 +805,22 @@ P.O. 20 DE ENERO DE 2023.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-SEGUNDO. La Auditoría Superior del Estado de Sinaloa será la responsable de proporcionar a la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, toda la información necesaria como base para el cálculo de la distribución de participaciones para los municipios de nueva creación ElDorado (sic) y Juan José Ríos, de los años de 2020 a 2023 y su conformación estará sujeta a los términos que se establezcan en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable.
+SEGUNDO. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2024)
 
 Asimismo, proporcionará la información referente a las participaciones federales para cada fondo que se tomará como base del año 2015, para el cálculo de la distribución del Fondo Municipal de Participaciones y del Fondo de Fomento Municipal en términos de esta Ley.
 
 TERCERO. Las cifras sobre la población de los municipios de nueva creación serán las últimas publicadas por el Instituto Nacional de Estadística y Geografía.
 
 CUARTO. Para la distribución de las participaciones y Aportaciones que correspondan a la Hacienda Pública Municipal, se consideran inclusive, las fracciones de peso, no obstante lo anterior, a partir del ejercicio fiscal 2023 para efectuar su pago, el monto correspondiente se ajustará para que las que contengan cantidades que incluyan de O a 49 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 50 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
+
+P.O. 11 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 8 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Artículo Segundo Transitorio de Decreto No. 375 publicado en el Periódico Oficial "El Estado de Sinaloa" No. 009, de fecha 20 de enero de 2023.
