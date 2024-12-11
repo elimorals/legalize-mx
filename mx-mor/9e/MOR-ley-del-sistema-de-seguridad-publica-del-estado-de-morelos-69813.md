@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2024-09-30"
+last_updated: "2024-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -1221,9 +1221,11 @@ Las relaciones jurídicas entre las Instituciones de Seguridad Pública, el pers
 
 Los agentes del ministerio público, los peritos y los miembros de las instituciones policiales del Estado y de los municipios, serán separados de sus cargos de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza serán removidos por incurrir en responsabilidad en el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 69.
 
-Los integrantes de las Instituciones de Seguridad Publica y sus auxiliares, podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, que en el momento de la separación señalen para permanecer en las Instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación, y en su caso, sólo procederá la indemnización, que será otorgada por un importe de tres meses de salario otorgada por la resolución jurisdiccional correspondiente.
+Los integrantes de las Instituciones de Seguridad Publica y sus auxiliares, podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, que en el momento de la separación señalen para permanecer en las Instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación, y en su caso, sólo procederá la indemnización, que será otorgada por un importe de tres meses de salario otorgada por la resolución jurisdiccional correspondiente, y el pago de hasta nueve meses de remuneraciones dejadas de percibir. Dicho límite de nueve meses también será aplicado en los casos de la determinación de separación injustificada del cargo, así declarado mediante sentencia dictada por la autoridad que resuelva en definitiva el asunto.
 
 ###### Artículo 70.
 
@@ -3318,3 +3320,13 @@ DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las S
 DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
 
 DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
+
+P.O. 11 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DIECIOCHO POR EL QUE SE REFORMA EL ARTÍCULO 69 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. La reforma contenida en el presente Decreto no será aplicable a los integrantes de las instituciones de seguridad pública del Estado de Morelos que hayan sido separados injustificadamente, siempre que cuenten con una resolución del Tribunal correspondiente hasta antes de la publicación de este, y que por ende les haya concedido indemnización por remuneraciones ordinarias diarias o haberes dejados de percibir, superiores a los nueve meses, los que estén en trámite se deben resolver de conformidad con la norma vigente al momento de la admisión de la demanda.
