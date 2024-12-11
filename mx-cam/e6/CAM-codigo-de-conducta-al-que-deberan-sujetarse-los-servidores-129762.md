@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-los-servidores-1297
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-05"
-last_updated: "2018-06-05"
+last_updated: "2024-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "CAM"
 
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 5 de junio de 2018.
 
@@ -317,3 +317,13 @@ SEGUNDO.- El presente Código de Conducta entrará en vigor al día siguiente de
 Aprobado en la Primera Sesión Ordinaria del 2018, del Comité de Ética y Prevención de Conflicto de Intereses de la Secretaría de Medio Ambiente y Recursos Naturales.
 
 RUBRICA DE EL PRESIDENTE EL (SIC) COMITÉ ING. ALBERTO JULIAN ESCAMILLA NAVA, DEL SECRETARIO EJECUTIVO SUPLENTE LIC. LUIS LORENZO HERRERA GOMEZ, DE LOS MIEMBROS TEMPORALES ING. ANDREA CONTRERAS CONTRERAS, C.P. JOSE LUIS SALAZAR MARTINEZ Y LIC. JHONI ARMANDO PULIDO YAH.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE, BIODIVERSIDAD, CAMBIO CLIMÁTICO Y ENERGÍA DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE Y SU ÓRGANO DESCONCENTRADO DENOMINADO LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Conducta al que deberán sujetarse las personas servidoras públicas de la Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía el Poder Ejecutivo del Estado de Campeche, emitido mediante acuerdo de fecha 5 de junio de 2018, y publicado en el Periódico Oficial del Estado el mismo día.
