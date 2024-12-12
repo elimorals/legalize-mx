@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-para-la-transparencia-y-el-acceso-a-la-64863"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-19"
-last_updated: "2018-06-21"
+last_updated: "2024-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL H. CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 19 de octubre de 2008.
 
@@ -77,13 +77,17 @@ IV. Desclasificación: El acto por el cual, previo acuerdo, se determina la publ
 
 V. Ley: Ley de Transparencia y Acceso a la Información Pública del Estado de Durango;
 
-VI. Órganos de Gobierno: El Pleno, la Gran Comisión, la Mesa Directiva, la Comisión Permanente y las Comisiones Legislativas;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+VI. Órganos de Gobierno: El Pleno, la Junta de Gobierno y Coordinación Política, la Mesa Directiva, la Comisión Permanente y las Comisiones Legislativas;
 
 VII. Publicación: El acto mediante el cual se pone a disposición del público la información a través de medios impresos, electrónicos o de cualquier otro que permita a los interesados su consulta o reproducción.
 
 VIII. Reglamento: El Reglamento para la Transparencia y el Acceso a la Información Pública del Congreso del Estado de Durango; y
 
-IX. Unidades Administrativas y de Apoyo: a La Oficialía Mayor, el Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica, la Dirección de Comunicación Social y la Entidad de Auditoria Superior del Estado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+IX. Unidades Administrativas y de Apoyo: a la Secretaría General, al Centro de Investigaciones y Estudios Legislativos, la Secretaría de Asuntos Jurídicos, la Dirección de Comunicación Social y la Auditoria Superior del Estado.
 
 ###### Artículo 6.
 
@@ -223,7 +227,9 @@ XIX. Las leyes, decretos y acuerdos aprobados por el Pleno o la Comisión Perman
 
 XX. Las actas de las sesiones del Pleno y de la Comisión Permanente;
 
-XXI. Las dietas de los legisladores, y las partidas presupuestarias asignadas a los Grupos, Fracciones Parlamentarias, y representantes de partidos, a las comisiones, consejos o comités, a la Mesa Directiva, a la Gran Comisión, y los demás órganos del Congreso, así como los responsables de ejercerlas;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+XXI. Las dietas de los legisladores, y las partidas presupuestarias asignadas a los Grupos, Fracciones Parlamentarias, y representantes de partidos, a las comisiones, consejos o comités, a la Mesa Directiva, a la la (sic) Junta de Gobierno y Coordinación Política, y los demás órganos del Congreso, así como los responsables de ejercerlas;
 
 XXII. Las convocatorias a periodos extraordinarios;
 
@@ -590,3 +596,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 TERCERO. Los asuntos que se encuentren en trámite antes de la entrada en vigor del presente decreto, seguirán su curso hasta su resolución, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, abrogada mediante decreto número 157 de fecha 11 de julio de 2008, y publicada en el Periódico Oficial del Gobierno del Estado número 4 de fecha 13 de julio de 2008, así como lo dispuesto en el presente Reglamento, hasta en tanto no se modifique.
+
+P.O. 12 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 077 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y IX DEL ARTÍCULO 5; Y LA FRACCIÓN XXI DEL ARTÍCULO 11, DEL REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL HONORABLE CONGRESO DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
