@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-para-la-proteccion-de-los-no-fumadores-del-52181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-05"
-last_updated: "2006-10-05"
+last_updated: "2024-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES DEL CONGRESO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 5 de octubre de 2006.
 
@@ -61,9 +61,13 @@ I. Ley.- Ley de Protección a los no fumadores para el Estado de Durango;
 
 II. Reglamento.- Reglamento del H. Congreso para la aplicación de la Ley de protección a los no fumadores para el Estado de Durango;
 
-III. Oficial Mayor.- El Titular de la Oficialía Mayor del H. Congreso del Estado de Durango;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-IV. Órganos administrativos, técnicos y de apoyo.- La Oficialía Mayor, la Entidad de Auditoria Superior del Estado, la Dirección de Comunicación Social y el Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica, y
+III. Secretario General.- El Titular de la Secretaría General del H. Congreso del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+IV. Órganos administrativos, técnicos y de apoyo.- La Secretaria General, la Auditoria Superior del Estado, la Dirección de Comunicación Social, el Centro de Investigaciones y Estudios Legislativos y la Secretaría de Asuntos Jurídicos, y
 
 V. Servidor público.- Las personas físicas que realicen cualquier actividad en nombre o al servicio del H. Congreso del Estado, sus órganos administrativos, técnicos y de apoyo, cualquiera que sea su nivel jerárquico.
 
@@ -93,11 +97,17 @@ Se catalogan como espacios de no fumar en las instalaciones del Congreso del Est
 
 10. Archivo,
 
-11. Unidades de Acceso a la Información Pública de la Oficialía Mayor del Congreso del Estado,
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-12. Oficialía Mayor,
+11. Unidades de Acceso a la Información Pública de la Secretaría General del Congreso del Estado,
 
-13. Gran Comisión, y
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+12. Secretaría General,
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+13. Junta de Gobierno y Coordinación Política, y
 
 14. Las áreas de atención al público.
 
@@ -162,3 +172,13 @@ SECRETARIO.
 DIP. LILIA VELIA CARRANZA GARCÍA
 
 SECRETARIA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 076 POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 3; Y LOS NUMERALES 11, 12 Y 13 DEL ARTÍCULO 4, DEL REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL CONGRESO DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
