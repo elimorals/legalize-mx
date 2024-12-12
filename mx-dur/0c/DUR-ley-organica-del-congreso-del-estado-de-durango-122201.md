@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2024-09-11"
+last_updated: "2024-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -969,9 +971,9 @@ IV. Velar por la integridad del recinto oficial del Congreso.
 
 V. Proponer al Pleno del Congreso, para su designación o remoción, a quien ocupe el cargo de Secretario de Servicios Legislativos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-VI. Presentar a la Comisión de Administración y Contraloría Interna su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto anual del Poder Legislativo;
+VI. Presentar a la Comisión de Administración Interna su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto anual del Poder Legislativo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -1133,9 +1135,9 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Llevar la correspondencia;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-II.- Tomar la protesta de ley al Gobernador o Gobernadora, a la Consejera o Consejero de la Judicatura, a las y los Magistrados del Poder Judicial del Estado, las y los Magistrados del Tribunal de Justicia Administrativa, las y los Consejeros del Poder Judicial del Estado de Durango, a la persona Titular de la Entidad de Auditoria Superior del Estado y a los integrantes de los Órganos constitucionalmente autónomos que deban rendirla;
+II.- Tomar la protesta de ley al Gobernador o Gobernadora, a la Consejera o Consejero de la Judicatura, a las y los Magistrados del Poder Judicial del Estado, las y los Magistrados del Tribunal de Justicia Administrativa, las y los Consejeros del Poder Judicial del Estado de Durango, a la persona Titular de la Auditoría Superior del Estado y a los integrantes de los Órganos constitucionalmente autónomos que deban rendirla;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -1253,7 +1255,9 @@ XI. Determinar los sistemas de estímulos y recompensas del personal del Congres
 
 XII. Designar y remover al titular de la Unidad de Enlace para el Acceso a la Información Pública;
 
-XIII. Designar a los auditores generales de la Entidad de Auditoría Superior del Estado, en los términos de la legislación respectiva;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+XIII. Designar a los auditores generales de la Auditoría Superior del Estado, en los términos de la legislación respectiva;
 
 XIV. Efectuar el proceso de entrega-recepción, en los términos que dispongan los ordenamientos legales aplicables;
 
@@ -1631,7 +1635,9 @@ XXXV. Transparencia y Acceso a la Información.
 
 Las Comisiones Legislativas ordinarias son las siguientes:
 
-I. Vigilancia de la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+I. Vigilancia de la Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2020)</small>
 
@@ -1693,7 +1699,9 @@ III. Autorizaciones al Ejecutivo del Estado y a los Ayuntamientos, para contrata
 
 IV. Autorizaciones al Titular del Poder Ejecutivo para la enajenación de bienes inmuebles propiedad del Estado; y,
 
-V. Cuentas Públicas de gasto anual del Estado y municipios, en base al informe que rinda la Entidad de Auditoria Superior del Estado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+V. Cuentas Públicas de gasto anual del Estado y municipios, en base al informe que rinda la Auditoría Superior del Estado.
 
 ###### Artículo 123.
 
@@ -1705,7 +1713,7 @@ II. La Ley Orgánica del Poder Judicial;
 
 III. Todo tipo de legislación sobre procuración y administración de justicia;
 
-IV. Legislación sobre menores infractores;
+IV. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2024)
 
 V. Dictaminar sobre las leyes y reglamentos que establezcan y regulen los sistemas integrales de tratamiento penal;
 
@@ -1959,23 +1967,31 @@ III.- Vinculación con instituciones públicas y organizaciones de la sociedad c
 
 IV.- Las demás que le encomiende el Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 152.
 
-La Comisión de Vigilancia de la Entidad de Auditoria Superior del Estado, tendrá las obligaciones y atribuciones siguientes:
+La Comisión de Vigilancia de la Auditoría Superior del Estado, tendrá las obligaciones y atribuciones siguientes:
 
-I. Vigilar que la Entidad de Auditoria Superior del Estado cumpla eficazmente con las funciones que le competen, de acuerdo a lo dispuesto por las leyes de la materia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-II. Promover la adopción de medidas que a su juicio tiendan a imprimir mayor eficacia a las labores de la Entidad de Auditoria Superior del Estado; y,
+I. Vigilar que la Auditoría Superior del Estado cumpla eficazmente con las funciones que le competen, de acuerdo a lo dispuesto por las leyes de la materia;
 
-III. Proponer las sanciones administrativas que deban imponerse al personal de la Entidad de Auditoria Superior del Estado, siempre y cuando no esté expresamente determinada su competencia a otra área.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+II. Promover la adopción de medidas que a su juicio tiendan a imprimir mayor eficacia a las labores de la Auditoría Superior del Estado; y,
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+III. Proponer las sanciones administrativas que deban imponerse al personal de la Auditoría Superior del Estado, siempre y cuando no esté expresamente determinada su competencia a otra área.
 
 La certificación de documentos que deban expedirse con motivo del ejercicio de facultades de fiscalización, deberá ser suscrita por el Auditor Superior del Estado o por el funcionario en el que delegue tal facultad.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 152 Bis.
 
-La Comisión de Vigilancia de la Entidad de Auditoria Superior del Estado contara con la Unidad Técnica de Apoyo la cual tendrá las atribuciones que le señala la Ley de Fiscalización Superior del Estado de Durango y demás normatividad aplicable.
+La Comisión de Vigilancia de la Auditoría Superior del Estado, contará con la Unidad Técnica de Apoyo la cual tendrá las atribuciones que le señala la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Durango y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2020)</small>
 
@@ -2079,7 +2095,9 @@ V. Vigilar el adecuado desempeño de las Unidades Administrativas a su cargo, op
 
 VI. Supervisar la elaboración del proyecto de presupuesto anual de egresos del Congreso y someterlo a la consideración de la Junta de Gobierno y Coordinación Política;
 
-VII. Rendir un informe trimestral del ejercicio presupuestal correspondiente ante la Comisión de Administración y Contraloría Interna del Congreso, y un informe anual de esa naturaleza ante el pleno del Congreso, por conducto de la misma comisión, en sesión privada;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+VII. Rendir un informe trimestral del ejercicio presupuestal correspondiente ante la Comisión de Administración Interna del Congreso y, un informe anual de esa naturaleza ante el pleno del Congreso, por conducto de la misma comisión, en sesión privada;
 
 VIII. Intervenir en las adquisiciones, servicios y suministros de las áreas del Congreso, así como en los contratos en los que el Congreso sea parte y cuya celebración suponga una afectación directa al presupuesto de la Secretaria General;
 
@@ -2171,11 +2189,15 @@ III. Dirección de Recursos Materiales, la cual contará con los siguientes Depa
 
 A la Secretaría de Servicios Administrativos y Financieros le corresponden las siguientes atribuciones:
 
-I. Elaborar y presentar a la Secretaría General del Congreso, el anteproyecto de presupuesto de egresos del Congreso del Estado, para los efectos de su presentación a la Comisión de Administración Y Contraloría y posterior aprobación por la Junta de Gobierno y Coordinación Política y coordinar las adquisiciones, servicios y suministros de los diversos órganos legislativos, directivos y administrativos del Congreso del Estado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+I. Elaborar y presentar a la Secretaría General del Congreso, el anteproyecto de presupuesto de egresos del Congreso del Estado, para los efectos de su presentación a la Comisión de Administración Interna y posterior aprobación por la Junta de Gobierno y Coordinación Política y coordinar las adquisiciones, servicios y suministros de los diversos órganos legislativos, directivos y administrativos del Congreso del Estado;
 
 II. Rendir los informes relativos a la Cuenta Pública del Congreso del Estado;
 
-III. Informar trimestralmente a la Comisión de Administración y Contraloría por conducto de la Secretaría General, la situación financiera y el estado que guarda el patrimonio y los recursos materiales y humanos del Congreso, así como rendir los informes que al respecto le sean requeridos por la Junta de Gobierno y Coordinación Política;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+III. Informar trimestralmente a la Comisión de Administración Interna por conducto de la Secretaría General, la situación financiera y el estado que guarda el patrimonio y los recursos materiales y humanos del Congreso, así como rendir los informes que al respecto le sean requeridos por la Junta de Gobierno y Coordinación Política;
 
 IV. Atender el desarrollo del personal administrativo y las relaciones laborales de los trabajadores del Congreso del Estado, manteniendo en (sic) coordinación con la Secretaria de Servicios Jurídicos a efecto de prevenir conflictos y juicios laborales;
 
@@ -2197,9 +2219,9 @@ XII. Proporcionar los servicios de tesorería que comprende: programación y pre
 
 XIII. Tener a su cargo un área de asesoría de calidad y mejora continua y atender los requerimientos administrativos y financieros de la Biblioteca Pública del Congreso en auxilio de la Comisión Editorial y de Biblioteca;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-XIV. Elaborar y presentar a la Secretaría General del Congreso, a efecto de su formulación a la Comisión de Administración y Contraloría y aprobación por la Junta de Gobierno y Coordinación Política, un esquema administrativo interno, orientado a suprimir la adquisición de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo responsable sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual, y
+XIV. Elaborar y presentar a la Secretaría General del Congreso, a efecto de su formulación a la Comisión de Administración Interna y aprobación por la Junta de Gobierno y Coordinación Política, un esquema administrativo interno, orientado a suprimir la adquisición de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo responsable sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -2267,9 +2289,9 @@ V. Publicar y distribuir la gaceta parlamentaria y los documentos que requieran 
 
 VI. Informar a la Mesa Directiva, al término de los periodos ordinarios de sesiones, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta y respecto al desempeño en la prestación de los servicios legislativos;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-VII. Formular y presentar a la Comisión de Administración y Contraloría Interna por conducto de la Mesa Directiva, su programa operativo anual, incorporando los proyectos de las comisiones legislativas;
+VII. Formular y presentar a la Comisión de Administración Interna por conducto de la Mesa Directiva, su programa operativo anual, incorporando los proyectos de las comisiones legislativas;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -2435,13 +2457,15 @@ Los manuales de procedimientos que al efecto se elaboren, prevendrán la mejora 
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO II], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO VI. DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
+### CAPÍTULO VI. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 166.
 
-El Congreso del Estado, para el ejercicio de la facultad que le confiere el artículo 85 de la Constitución Política del Estado Libre y Soberano de Durango, tiene como órgano técnico-contable, a la Entidad de Auditoria Superior del Estado, la cual funcionará con las facultades y atribuciones que le señale la ley de la materia.
+El Congreso del Estado, para el ejercicio de la facultad que le confiere el artículo 85 de la Constitución Política del Estado Libre y Soberano de Durango, tiene como órgano técnico-contable, a la Auditoría Superior del Estado, la cual funcionará con las facultades y atribuciones que le señale la ley de la materia.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -2557,7 +2581,9 @@ IX. Solicitar información o documentación, a la Secretarla de Finanzas y de Ad
 
 X. Elaborar análisis respecto del informe anual de acciones y resultados de la ejecución del Plan Estatal de Desarrollo en los aspectos relacionados con las finanzas públicas;
 
-XI. Solicitar a la Entidad de Auditoría Superior del Estado la información que estime necesaria, para fines estadísticos, previo acuerdo de la Comisión de Vigilancia de la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
+XI. Solicitar a la Auditoría Superior del Estado la información que estime necesaria para fines estadísticos, previo acuerdo de la Comisión de Vigilancia de la Auditoría Superior del Estado;
 
 XII. Analizar los informes sobre la situación económica, las finanzas públicas, la deuda y las obligaciones que presenta trimestralmente la Secretaría de Finanzas y de Administración al Congreso y presentar reporte a la comisión respectiva, sobre los resultados de dichos análisis;
 
@@ -2671,9 +2697,9 @@ q) Los demás elementos que resulten necesarios a la difusión de la informació
 
 Artículo 172 bis.- El Órgano Interno de Control del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control, así como las que establecen la legislación en materia de obras públicas y de adquisiciones, arrendamientos y servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2024)</small>
 
-Artículo 172 ter.- El Órgano Interno de Control dependerá de la Comisión de Administración y Contraloría Interna y tendrá una relación de coordinación con la Secretaría General, sus unidades y áreas administrativas, así como con la Auditoría Superior del Estado.
+Artículo 172 ter.- El Órgano Interno de Control dependerá de la Comisión de Administración Interna y tendrá una relación de coordinación con la Secretaría General, sus unidades y áreas administrativas, así como con la Auditoría Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
 
@@ -3397,9 +3423,11 @@ En el caso de sanciones en materia de responsabilidad administrativa en tratánd
 
 Si las sanciones fueren de sanción económica, inhabilitación, destitución o suspensión, y el servidor público perteneciere a los Poderes Ejecutivo o Judicial, el Congreso en vía de moción de censura, propondrá la imposición de las medidas sancionatorias al órgano que corresponda, previa notificación al Titular del Poder que corresponda.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 249.
 
-Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Entidad de Auditoria Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
+Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Auditoría Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
 
 #### SECCION SEGUNDA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
 
@@ -3970,3 +3998,19 @@ PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- La Comisión de Hacienda, Presupuesto y Cuenta Pública deberá integrarse conforme a lo señalado en el presente Decreto en un plazo que no exceda de cinco días a partir del inicio de su vigencia.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 074 POR EL QUE SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO, EN MATERIA DE LA COMPETENCIA DE LA COMISIÓN DE JUSTICIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 075 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO; EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
