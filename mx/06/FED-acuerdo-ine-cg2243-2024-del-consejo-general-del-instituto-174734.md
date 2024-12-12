@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg2243-2024-del-consejo-general-del-instituto-17473
 country: "mx"
 rank: "acuerdo"
 publication_date: "2024-10-10"
-last_updated: "2024-10-10"
+last_updated: "2024-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174734&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2024-09-26"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL RELATIVO A LA DESIGNACIÓN DE LAS PRESIDENCIAS DE LOS ORGANISMOS PÚBLICOS LOCALES DE LAS ENTIDADES DE CAMPECHE Y CHIAPAS, ASÍ COMO DE LAS CONSEJERÍAS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES DE LAS ENTIDADES DE BAJA CALIFORNIA SUR, CAMPECHE, CIUDAD DE MÉXICO, COLIMA, ESTADO DE MÉXICO, GUANAJUATO, GUERRERO, JALISCO, MICHOACÁN, MORELOS, NUEVO LEÓN, OAXACA, QUERÉTARO, SAN LUIS POTOSÍ, SONORA, TABASCO, TLAXCALA, VERACRUZ, YUCATÁN Y ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 12 DE DICIEMBRE DE 2024, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 10 de octubre de 2024.
 
@@ -384,3 +386,43 @@ https://www.ine.mx/sesion-ordinaria-del-consejo-general-26-de-septiembre-de-2024
 Página DOF
 
 www.dof.gob.mx/2024/INE/CGord202409_26_ap_2.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL ACUERDO INE/CG2243/2024 RESPECTO DE LA DESIGNACIÓN DE UNA CONSEJERÍA ELECTORAL DEL ORGANISMO PÚBLICO LOCAL DE LA ENTIDAD DE GUANAJUATO, EN ACATAMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN RECAÍDA EN EL EXPEDIENTE SUP-JDC-1012/2024".]</small>
+
+ACUERDO
+
+PRIMERO. Se deja sin efectos la designación de Martín García Flores, como Consejero Electoral del OPL de Guanajuato, realizada mediante el Acuerdo INE/CG2243/2024.
+
+SEGUNDO. Se aprueba la designación de una mujer para ocupar la Consejería Electoral del OPL de la entidad de Guanajuato, de conformidad con la verificación del cumplimiento de las etapas correspondientes al proceso de selección y designación, así como, del análisis de la idoneidad (sic) la persona aspirante propuesta, asentado en el Dictamen de la Comisión, que forman parte integral del Acuerdo INE/CG2243/2024, conforme a lo siguiente:
+
+1. Guanajuato
+
+Nombre Cargo Periodo
+
+Aboytes Vega Blanca Marcela Consejería Al 30 de
+
+Electoral septiembre de
+
+2031
+
+TERCERO. Las designaciones de Eduardo Joaquín Del Arco Borja y Gustavo Hernández Martínez como Consejeros Electorales, permanecen vigentes en términos del Acuerdo del Consejo General INE/CG2243/2024.
+
+CUARTO. Se instruye a la Unidad Técnica para que notifique el presente Acuerdo al C. Martín García Flores, a fin de que se haga de su conocimiento la determinación tomada por este Consejo General a través del presente instrumento.
+
+QUINTO. Se instruye a la Unidad Técnica para que notifique el presente Acuerdo a los C.C. Eduardo Joaquín Del Arco Borja y Gustavo Hernández Martínez, designados mediante el Acuerdo del Consejo General INE/CG2243/2024, en las Consejerías del OPL de Guanajuato, a fin de que se impongan de los efectos del presente acatamiento y conozcan el estado que guarda su designación.
+
+SEXTO. Se instruye a la Unidad Técnica para que notifique el presente Acuerdo a la persona que ha sido designada con motivo del presente acatamiento. Asimismo, que realice las gestiones para la publicación en el portal de Internet del Instituto de las cédulas de evaluación integral, correspondientes a la etapa de valoración curricular y entrevistas; y que, por conducto de la Junta Local Ejecutiva del Instituto en la entidad de Guanajuato, se lleven a cabo las acciones necesarias para comunicar el contenido del presente Acuerdo a las autoridades locales competentes para los efectos legales conducentes.
+
+SÉPTIMO. La Consejería Electoral del OPL de la entidad de Guanajuato, tomará posesión del cargo al día siguiente de la aprobación del presente Acuerdo. Asimismo, rendirá protesta de ley en sesión solemne del órgano máximo de dirección del OPL correspondiente.
+
+OCTAVO. La persona designada mediante el presente Acuerdo deberá notificar a la Comisión, a través de la Secretaría Técnica, la constancia documental o declaración en la que manifieste bajo protesta de decir verdad, que no desempeña ningún empleo, cargo o comisión, con excepción de aquéllos relacionados con actividades docentes, científicas, culturales, de investigación o de beneficencia no remunerados, dentro de los cinco días hábiles contados a partir de la toma de posesión del cargo.
+
+NOVENO. Se instruye a la Secretaría Ejecutiva, a través de la Dirección Jurídica, informe a la Sala Superior del Tribunal, el cumplimiento dado a la sentencia emitida en el expediente SUP-JDC-1012/2024.
+
+DÉCIMO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta y (sic) portal de Internet del Instituto y en los estrados de las Juntas Ejecutiva Local y Distritales de la entidad Guanajuato, así como en el portal de Internet del OPL de dicha entidad, y en los medios de difusión correspondiente a la entidad mencionada.
+
+DÉCIMO PRIMERO. Este acuerdo entrará en vigor a partir de su aprobación.
