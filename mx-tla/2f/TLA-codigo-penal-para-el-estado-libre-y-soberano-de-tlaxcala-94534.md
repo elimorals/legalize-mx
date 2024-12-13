@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2024-05-21"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2113,9 +2113,11 @@ A la o el que cometa el delito de tráfico de influencias, se le impondrán de d
 
 Cometen el delito de cohecho:
 
-I. La o el servidor público que, por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-II. La o el que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 167 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
+I. La o el servidor público que, por sí, o por interpósita persona solicite o reciba o condicione ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
+
+II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2024)
 
 III. La o el servidor público que, en el ejercicio de sus funciones o atribuciones, gestione o solicite:
 
@@ -2245,13 +2247,15 @@ Cuando el sujeto activo se atribuya en vías de hecho la condición de miembro d
 
 Al particular que en nombre de un servidor público solicite dinero, valores, servicios o cualquier otra dádiva o promueva una conducta ilícita de un servidor público o se preste para que éste o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a la responsabilidad inherente a su empleo, cargo o comisión, se le impondrán de tres a ocho años de prisión y multa de doscientas dieciséis a quinientas setenta y seis veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 173.
 
-Al particular que le ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto relacionado con sus funciones, se le impondrán las siguientes penas:
+Al particular que espontáneamente ofrezca, prometa o entregue dinero o cualquier otra dádiva a un servidor público, para que este haga u omita un acto relacionado con sus funciones, se le impondrán las siguientes penas:
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-I. De tres meses a tres años de prisión o multa de dieciocho a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización o ambas penas, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, no excedan del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito o no sean cuantificables, y
+I. De tres meses a tres años de prisión o multa de dieciocho a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización o ambas penas, cuando el beneficio obtenido o la cantidad económica o el valor de la dádiva o promesa, no excedan del equivalente de noventa veces de la Unidad de Medida y Actualización o no sean cuantificables, y
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -5960,5 +5964,21 @@ P.O. 21 DE MAYO DE 2024.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 111.- SE REFORMA LA FRACCIÓN I DEL PÁRRAFO PRIMERO DEL ARTÍCULO 164, EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 173 Y SE DEROGA LA FRACCIÓN II DEL PÁRRAFO PRIMERO DEL ARTÍCULO 164, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Los delitos cometidos con anterioridad a la publicación del presente Decreto serán sancionados conforme a lo establecido en el momento de cometerse, observando el principio de irretroactividad de la Ley.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
