@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-de-la-suprema-corte-de-justicia-de-la-nacion-89786
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-04-03"
-last_updated: "2008-04-03"
+last_updated: "2024-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-04-03"
 ---
 # LINEAMIENTOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR LOS QUE SE REGULA EL FUNCIONAMIENTO DEL SERVICIO MEDICO QUE OTORGA ESTE ALTO TRIBUNAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IX/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE NOVIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE EMITEN LOS LINEAMIENTOS POR LOS QUE SE REGULA EL FUNCIONAMIENTO DEL SERVICIO MÉDICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. 13 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS DEL TRES DE ABRIL DE DOS MIL OCHO, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR LOS QUE SE REGULA EL FUNCIONAMIENTO DEL SERVICIO MÉDICO QUE OTORGA ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Lineamientos publicados en el Semanario Judicial de la Federación y su Gaceta, Tomo XXVII, Abril de 2008, páginas de la 2563 a la 2580.
 
@@ -540,3 +542,19 @@ EL LICENCIADO DAVID ESPEJEL RAMÍREZ, SECRETARIO EJECUTIVO DE ASUNTOS JURÍDICOS
 CERTIFICA:
 
 Que esta copia de los Lineamientos del tres de abril de dos mil ocho, de la Suprema Corte de Justicia de la Nación, por los que se regula el funcionamiento del servicio médico que otorga este Alto Tribunal, constante de diecisiete fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a diez de abril de dos mil ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IX/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE NOVIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE EMITEN LOS LINEAMIENTOS POR LOS QUE SE REGULA EL FUNCIONAMIENTO DEL SERVICIO MÉDICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. El presente Acuerdo General de Administración estará vigente hasta en tanto la autoridad que resulte ser competente determine lo conducente, derivado del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado en el Diario Oficial de la Federación el quince de septiembre del año de dos mil veinticuatro.
+
+TERCERO. Se abrogan los Lineamientos del tres de abril de dos mil ocho, de la Suprema Corte de Justicia de la Nación, por los que se regula el funcionamiento del servicio médico que otorga este Alto Tribunal.
+
+CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en el presente Acuerdo General de Administración.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
