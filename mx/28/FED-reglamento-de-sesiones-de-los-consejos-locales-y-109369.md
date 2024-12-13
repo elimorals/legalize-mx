@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-109369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-14"
-last_updated: "2017-09-12"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-07"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 2015.
 
@@ -55,127 +55,191 @@ Criterios para su interpretación.
 
 1. Para la interpretación de las disposiciones de este Reglamento, se estará a los criterios establecidos en el párrafo 2 del artículo 5 de la Ley General de Instituciones y Procedimientos Electorales, a las prácticas que mejor garanticen y reflejen la integración de los Consejos Locales y Distritales, la libre expresión y participación de sus integrantes, así como a la eficacia de los Acuerdos o Resoluciones que se tomen en su seno, en ejercicio de sus atribuciones.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. 13 DE DICIEMBRE DE 2024, PÁGINAS DE LA 92 A LA 93.]</small>
+
 ###### ARTÍCULO 3.
 
 Glosario.
 
 1. Se entenderá por:
 
-a) Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-b) Ley Electoral: La Ley General de Instituciones y Procedimientos Electorales;
+a) Candidatura independiente: Persona ciudadana que obtenga por parte de la autoridad electoral estatal o nacional el Acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establecen las leyes respectivas;
 
-c) Reglamento: El Reglamento de Sesiones de los Consejos Locales y Distritales;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-d) Reglamento Interior: El Reglamento Interior del Instituto Nacional Electoral;
+b) Consejerías Electorales: Las personas Consejeras de los Consejos Locales o Distritales, según corresponda;
 
-e) Instituto: El Instituto Nacional Electoral;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-f) Consejo: Los Consejos Locales o Distritales, respectivos;
+c) Consejo: Los Consejos Locales o Distritales, respectivos;
 
-g) Presidente: El Presidente del Consejo Local o Distrital correspondiente;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-h) Consejeros: Los Consejeros Electorales de los Consejos Locales o Distritales, según corresponda;
+d) Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-i) Representantes: Los Representantes de los Partidos Políticos Nacionales;
+e) Grupo de Trabajo: El integrado por orden de la Presidencia del Consejo Distrital para realizar el recuento de votos respecto de una elección determinada.
 
-j) Secretario: El Secretario del Consejo Local o Distrital respectivo;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-k) Integrantes del Consejo: El Consejero Presidente, el Secretario del Consejo, los Consejeros Electorales y los Representantes de los partidos políticos y los Representantes de los candidatos independientes;
+f) Instituto: El Instituto Nacional Electoral;
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-l) Candidato independiente: El ciudadano que obtenga por parte de la autoridad electoral estatal o nacional el Acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establecen las leyes respectivas;
+g) Integrantes del Consejo: Presidencia, Secretaría del Consejo, Consejerías Electorales y las personas representantes de los partidos políticos y, en su caso, personas representantes de las candidaturas independientes;
 
-m) Cómputo Distrital: La suma que realiza el Consejo Distrital, de los resultados anotados en las actas de escrutinio y cómputo de las casillas instaladas en un distrito electoral; y
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-n) Grupo de Trabajo: El integrado por orden del Presidente del Consejo Distrital para realizar el recuento de votos respecto de una elección determinada.
+h) Ley Electoral: La Ley General de Instituciones y Procedimientos Electorales;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-p) (sic) Representantes locales: Representantes de los partidos políticos estatales con registro local;
+i) OPL: Organismo Público Local;
 
-((REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-q) Representantes de los candidatos independientes: Representantes de los candidatos independientes registrados ante el Consejo o autoridad correspondiente, y
+j) Presidencia: La persona Consejera que preside el Consejo Local o Distrital correspondiente;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-r) OPLE: Órgano Público Local Electoral
+k) Reglamento: El Reglamento de Sesiones de los Consejos Locales y Distritales;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+l) Reglamento Interior: El Reglamento Interior del Instituto Nacional Electoral;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+m) Representantes: Las personas representantes de los partidos políticos nacionales acreditadas ante los Consejos Locales o Distritales;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+n) Representantes de las candidaturas independientes: Las personas representantes de las candidaturas independientes registradas ante el Consejo o autoridad correspondiente;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+ñ) Representantes locales: Las personas Representantes de los partidos políticos estatales con registro local, y
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+o) Secretaría: La persona que actúa como Secretaria del Consejo Local o Distrital respectivo.
 
 ###### ARTÍCULO 4.
 
 Integración
 
-1. Los Consejos Locales y Distritales se integrarán, en términos del artículo 65, párrafos 1 y 2 y 76, párrafos 1 y 2 de la Ley Electoral, por el Consejero Presidente designado por el Consejo General, seis Consejeros Electorales, los Representantes de los partidos políticos y el Secretario del Consejo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2016)</small>
+1. Los Consejos Locales y Distritales se integrarán, en términos del artículo 65, párrafos 1 y 2 y 76, párrafos 1 y 2 de la Ley Electoral, por la Presidencia designada por el Consejo General, seis Consejerías Electorales, las personas representantes de los Partidos Políticos y la Secretaría del Consejo.
 
-2. Los Consejos Locales y Distritales también se integrarán con los representantes de los candidatos independientes acreditados ante la autoridad nacional o, en su caso, la local.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local y Distrital respectiva, concurrirán a sus sesiones con voz pero sin voto.
+2. Los Consejos Locales y Distritales también se integrarán con las personas representantes de las candidaturas independientes acreditadas ante la autoridad nacional o, en su caso, la local.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-4. Asimismo los Partidos Políticos estatales o los candidatos independientes con registro local, podrán solicitar la participación de sus representantes ante los Consejos Locales y Distritales, en las elecciones locales, cuando el Instituto organice el Proceso Electoral local o alguna de sus etapas. Para tal efecto, deberán presentar la documentación emitida por el OPLE en la que los acredite como personas facultadas para tal efecto.
+3. Las personas titulares de las vocalías de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local y Distrital respectiva, concurrirán a sus sesiones con voz, pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. Asimismo, los partidos políticos estatales o las candidaturas independientes con registro local podrán solicitar la participación de sus representantes ante los Consejos Locales y Distritales, en las elecciones locales, cuando el Instituto organice el Proceso Electoral Local o alguna de sus etapas. Para tal efecto, deberán presentar la documentación emitida por el OPL en la que los acredite como personas facultadas para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+5. Exclusivamente en las sesiones que se celebren para tratar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación, no podrán formar parte del Consejo las personas representantes de los partidos políticos.
 
 ###### ARTÍCULO 5.
 
-De los aspirantes y candidatos independientes
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Los aspirantes a candidatos independientes podrán nombrar un representante para asistir a las sesiones del Consejo, sin derecho a voz ni voto, en términos de lo establecido en el artículo 379, inciso d) de la Ley Electoral.
+De las personas aspirantes y candidaturas independientes
 
-2. Los candidatos independientes que hayan obtenido su registro, podrán nombrar un representante para asistir a las sesiones del Consejo Local o Distrital respectivo. La acreditación de representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. Los representantes de los candidatos registrados contarán, como mínimo, con los derechos siguientes:
+1. Las personas aspirantes a candidaturas independientes podrán nombrar una persona representante para asistir a las sesiones del Consejo, sin derecho a voz ni voto, en términos de lo establecido en el artículo 379, inciso d) de la Ley Electoral.
 
-a) Ser convocados a las sesiones con las formalidades y documentación correspondiente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Las candidaturas independientes que hayan obtenido su registro podrán nombrar una persona representante para asistir a las sesiones del Consejo Local o Distrital respectivo. La acreditación de personas representantes ante el Consejo deberá efectuarse en el plazo establecido en la Ley Electoral.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. Las personas representantes de las candidaturas registradas contarán, como mínimo, con los derechos siguientes:
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+a) Ser convocadas a las sesiones con las formalidades y documentación correspondiente.
 
 b) Integrar las sesiones como parte del órgano.
 
 c) Hacer uso de la voz en las sesiones, sin derecho a votar.
 
-d) Ser formalmente notificados de los Acuerdos emitidos, con la documentación correspondiente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+d) Ser formalmente notificadas de los Acuerdos emitidos, con la documentación correspondiente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 5 Bis.
 
-De los nombramientos de los representantes de los partidos políticos estatales o los candidatos independientes con registro local.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Los partidos políticos con registro local, podrán nombrar, respecto de la participación del Instituto Nacional Electoral en los procesos electorales estatales, un representante propietario y un suplente, para asistir a las sesiones del Consejo Local o Distrital respectivo. Igual derecho asiste a los candidatos independientes locales, en el ámbito de la elección en que contienden. En caso de sustitución deberá informarse por escrito con al menos veinticuatro horas de anticipación a la celebración de la sesión y contarán, como mínimo, con los derechos siguientes:
+De los nombramientos de las personas representantes de los partidos políticos estatales o de las candidaturas independientes con registro local
 
-a) Ser convocados a las sesiones con las formalidades y documentación correspondiente;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. Los partidos políticos con registro local podrán nombrar, respecto de la participación del Instituto Nacional Electoral en los procesos electorales estatales, una persona representante propietaria y una suplente, para asistir a las sesiones del Consejo Local o Distrital respectivo. Igual derecho asiste a las candidaturas independientes locales, en el ámbito de la elección en que contienden. En caso de sustitución deberá informarse por escrito con al menos veinticuatro horas de anticipación a la celebración de la sesión y contarán, como mínimo, con los derechos siguientes:
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+a) Ser convocadas a las sesiones con las formalidades y documentación correspondiente;
 
 b) Integrar las sesiones como parte del órgano;
 
 c) Hacer uso de la voz en las sesiones, sin derecho a votar, y
 
-d) Ser formalmente notificados de los acuerdos emitidos, con la documentación correspondiente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+d) Ser formalmente notificadas de los acuerdos emitidos, con la documentación correspondiente.
 
 ###### ARTÍCULO 6.
 
 Cómputo de plazos.
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
 1. Para efectos del presente Reglamento, todos los días y horas se considerarán hábiles. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Esta disposición será aplicable durante Procesos Electorales Federales Ordinarios y Extraordinarios, así como en todo proceso electoral local en que el Instituto participe en alguna de sus etapas.
 
-II. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DE LOS CONSEJOS
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Durante los procesos para renovar cargos del Poder Judicial de la Federación todos los días y horas también serán hábiles.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+II. DE LAS ATRIBUCIONES DE LAS PERSONAS INTEGRANTES DE LOS CONSEJOS
 
 ###### ARTÍCULO 7.
 
-Atribuciones del Presidente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. El Presidente tendrá las atribuciones siguientes:
+Atribuciones de la Presidencia
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. La Presidencia tendrá las atribuciones siguientes:
 
 a) Presidir y participar en las sesiones del Consejo;
 
-b) Convocar a los integrantes del Consejo y conducir las sesiones ordinarias, extraordinarias y especiales;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-c) Tomar la protesta cuando se integre un nuevo miembro en el Consejo;
+b) Convocar a las personas integrantes del Consejo y conducir las sesiones ordinarias, extraordinarias y especiales;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+c) Tomar la protesta cuando se integre una nueva persona en el Consejo;
 
 d) Iniciar y levantar la sesión, además de declarar los recesos que fueren necesarios;
 
@@ -183,103 +247,161 @@ e) Conducir los trabajos y tomar las medidas necesarias para el adecuado funcion
 
 f) Conceder el uso de la palabra, de acuerdo con este Reglamento;
 
-g) Consultar a los integrantes del Consejo si los temas del orden del día han sido suficientemente discutidos;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-h) Ordenar al Secretario que someta a votación los Proyectos de Acuerdo y Resoluciones del Consejo;
+g) Consultar a las personas integrantes del Consejo si los temas del orden del día han sido suficientemente discutidos;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+h) Ordenar a la Secretaría que someta a votación los Proyectos de Acuerdo y Resoluciones del Consejo;
 
 i) Garantizar el orden en las sesiones, ejerciendo las medidas que se señalan en los artículos 92, párrafo 3 de la Ley Electoral y 15, párrafo 4 de este Reglamento;
 
 j) Vigilar la correcta aplicación del Reglamento;
 
-k) Rendir los informes y comunicados que deban ser del conocimiento de los miembros del Consejo, así como aquellos que considere pertinentes;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-l) Solicitar al Secretario, de conformidad con las reglas establecidas en este Reglamento, la inclusión de asuntos en el orden del día;
+k) Rendir los informes y comunicados que deban ser del conocimiento de las personas integrantes del Consejo, así como aquellos que considere pertinentes;
 
-m) Solicitar al Secretario retirar asuntos agendados en el orden del día, previo a que se instale la sesión, de conformidad con las reglas establecidas en el presente Reglamento, tratándose de asuntos que debido a su naturaleza y para la adecuada toma de decisiones, se justifique por escrito el motivo de su presentación para una sesión posterior;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+l) Solicitar a la Secretaría, de conformidad con las reglas establecidas en este Reglamento, la inclusión de asuntos en el orden del día;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+m) Solicitar a la Secretaría retirar asuntos agendados en el orden del día, previo a que se instale la sesión, de conformidad con las reglas establecidas en el presente Reglamento, tratándose de asuntos que debido a su naturaleza y para la adecuada toma de decisiones, se justifique por escrito el motivo de su presentación para una sesión posterior;
 
 n) Tomar las previsiones necesarias y dar seguimiento al cumplimiento de los Acuerdos adoptados por el Consejo;
 
-o (sic) Someter a consideración del Consejo la ampliación del tiempo de duración de la sesión, señalado en el artículo 11, párrafo 2 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+ñ) Someter a consideración del Consejo la ampliación del tiempo de duración de la sesión, señalado en el artículo 11, párrafo 2 de este Reglamento;
 
-o) Ordenar al Secretario que expida las certificaciones que soliciten los partidos políticos, candidatos independientes, ciudadanos y autoridades competentes, en el ámbito de su competencia;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-p) Expedir las certificaciones que le soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Distritales;
+o) Ordenar a la Secretaría que expida las certificaciones que soliciten los partidos políticos, candidaturas independientes, ciudadanía y autoridades competentes, en el ámbito de su competencia;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+p) Expedir las certificaciones que le soliciten los partidos políticos, ciudadanía y autoridades competentes, en el caso de los Consejos Distritales;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
 q) Salvaguardar los paquetes electorales desde su recepción en la sede del Consejo Distrital, durante la sesión de cómputos y hasta la conclusión del Proceso Electoral;
 
-r) Informar de manera inmediata al Secretario Ejecutivo del Instituto, sobre la realización del recuento total de votos respecto de una elección determinada;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+r) Informar de manera inmediata a la Secretaría Ejecutiva del Instituto, sobre la realización del recuento total de votos respecto de una elección determinada;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
 s) Ordenar la creación de Grupos de Trabajo; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
 t) Las demás que le otorgue la Ley Electoral, el Reglamento Interior y este Reglamento.
 
 ###### ARTÍCULO 8.
 
-Atribuciones de los Consejeros.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Los Consejeros tendrán las siguientes atribuciones:
+Atribuciones de las Consejerías Electorales
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. Las Consejerías tendrán las siguientes atribuciones:
 
 a) Concurrir, participar en las deliberaciones y votar en las sesiones del Consejo;
 
 b) Integrar el pleno del Consejo para resolver colegiadamente los asuntos de su competencia;
 
-c) Solicitar al Secretario, de conformidad con las reglas establecidas en este Reglamento, la inclusión y retiro de algún asunto en el orden del día;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+c) Solicitar a la Secretaría, de conformidad con las reglas establecidas en este Reglamento, la inclusión y retiro de algún asunto en el orden del día;
 
 d) Integrar las comisiones del Consejo en ejercicio de sus atribuciones conforme a la Ley Electoral, el Reglamento Interior y este Reglamento;
 
-e) Integrar los Grupos de Trabajo que determine el Presidente; y
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+e) Integrar los Grupos de Trabajo que determine la Presidencia; y
 
 f) Las demás que le otorgue la Ley Electoral, el Reglamento Interior y este Reglamento.
 
 ###### ARTÍCULO 9.
 
-Atribuciones de los Representantes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Los Representantes tendrán las siguientes atribuciones:
+Atribuciones de las personas representantes
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. Las personas representantes tendrán las siguientes atribuciones:
 
 a) Concurrir y participar en las deliberaciones del Consejo;
 
 b) Integrar el pleno del Consejo;
 
-c) Solicitar al Secretario del Consejo, de conformidad con las reglas establecidas en este Reglamento, la inclusión y retiro de asuntos en el orden del día;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+c) Solicitar a la Secretaría del Consejo, de conformidad con las reglas establecidas en este Reglamento, la inclusión y retiro de asuntos en el orden del día;
 
 d) Participar en los trabajos de las comisiones, de conformidad con la Ley Electoral, el Reglamento Interior y el presente Reglamento;
 
-e) Integrar los Grupos de Trabajo que determine el Presidente; y
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+e) Integrar los Grupos de Trabajo que determine la Presidencia; y
 
 f) Las demás que le otorgue la Ley Electoral, el Reglamento Interior y este Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-2. Los representantes de los partidos políticos y candidatos independientes con registro local, tendrán las atribuciones señaladas en este artículo, únicamente por lo que hace a las actividades vinculadas a los Procesos Electorales Locales señaladas en el artículo 32, párrafo 1, inciso a), de la Ley General de Instituciones y Procedimientos Electorales, o que por el ejercicio de las facultades especiales de asunción o atracción ejerza el Instituto.
+2. Las personas representantes de los partidos políticos y candidaturas independientes con registro local tendrán las atribuciones señaladas en este artículo, únicamente por lo que hace a las actividades vinculadas a los Procesos Electorales Locales señaladas en el artículo 32, párrafo 1, inciso a), de la Ley Electoral, o que por el ejercicio de las facultades especiales de asunción o atracción ejerza el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. Las personas representantes no podrán ejercer ninguna de las atribuciones señaladas en el presente artículo cuando las sesiones del Consejo sean convocadas para tratar asuntos relacionados con los procesos para la renovación de cargos del Poder Judicial de la Federación.
 
 ###### ARTÍCULO 10.
 
-Atribuciones del Secretario.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. El Secretario tendrá las siguientes atribuciones:
+Atribuciones de la Secretaría
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. La Secretaría tendrá las siguientes atribuciones:
 
 a) Preparar el proyecto de orden del día de las sesiones;
 
-b) Entregar con toda oportunidad entre los integrantes del Consejo, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día, conforme a lo dispuesto en el artículo 13 de este Reglamento, recabando los acuses de recibo correspondientes;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-c) Verificar la asistencia de los integrantes del Consejo y llevar el registro de ella;
+b) Entregar con toda oportunidad a las personas integrantes del Consejo, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día, conforme a lo dispuesto en el artículo 13 de este Reglamento, recabando los acuses de recibo correspondientes;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+c) Verificar la asistencia de las personas integrantes del Consejo y llevar el registro de ella;
 
 d) Declarar la existencia del quórum legal;
 
 e) Instrumentar el procedimiento de escrutinio y cómputo de una casilla, en los supuestos establecidos en los incisos b) y d), párrafo 1 del artículo 311 de la Ley Electoral;
 
-f) Levantar el acta de las sesiones y someterla a la aprobación del Consejo. El acta será elaborada con base en la grabación del audio de la sesión correspondiente, tomando en cuenta las observaciones realizadas a la misma por los integrantes del Consejo;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-g) Dar cuenta con los escritos presentados al Consejo;
+f) Levantar el acta de las sesiones y someterla a la aprobación del Consejo. El acta será elaborada con base en la grabación del audio de la sesión correspondiente, tomando en cuenta las observaciones realizadas a la misma por las personas integrantes del Consejo;
 
-h) Tomar las votaciones de los integrantes del Consejo con derecho a voto y dar a conocer el resultado de las mismas;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+g) Dar cuenta de los escritos presentados al Consejo;
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+h) Tomar las votaciones de las personas integrantes del Consejo con derecho a voto y dar a conocer el resultado de las mismas;
 
 i) Informar sobre el cumplimiento de los Acuerdos y Resoluciones del Consejo;
 
-j) Firmar, junto con el Presidente, todos los Acuerdos y Resoluciones que emita el Consejo;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+j) Firmar, junto con la Presidencia, todos los Acuerdos y Resoluciones que emita el Consejo;
 
 k) Llevar el archivo del Consejo y un registro de las actas, Acuerdos y Resoluciones aprobados por éste;
 
@@ -287,11 +409,13 @@ l) Dar fe de lo actuado en las sesiones;
 
 m) Entregar a las instancias de enlace en materia de transparencia las actas, Acuerdos y Resoluciones aprobados; votos particulares; así como los informes rendidos en la sesión del Consejo correspondiente, en términos de lo dispuesto en el Reglamento de la materia;
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-n) Expedir las certificaciones que le soliciten los partidos políticos, candidatos independientes, ciudadanos y autoridades competentes, haciéndolo del conocimiento de la Presidencia del Consejo, en el ámbito de su competencia.
+n) Expedir las certificaciones que le soliciten los partidos políticos, candidaturas independientes, ciudadanía y autoridades competentes, haciéndolo del conocimiento de la Presidencia del Consejo, en el ámbito de su competencia;
 
-o) Las demás que le otorgue la Ley Electoral, este Reglamento, el Consejo o su Presidente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+ñ) Las demás que le otorgue la Ley Electoral, este Reglamento, el Consejo o su Presidencia.
 
 III. DE LOS TIPOS DE SESIONES, SU DURACIÓN Y LUGAR
 
@@ -299,77 +423,119 @@ III. DE LOS TIPOS DE SESIONES, SU DURACIÓN Y LUGAR
 
 Tipos de sesiones.
 
-1. Las sesiones del Consejo podrán ser ordinarias, extraordinarias y especiales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-a) Son ordinarias aquellas sesiones que deben celebrarse periódicamente de acuerdo con la Ley Electoral en forma mensual desde la instalación del Consejo, hasta la conclusión de cada Proceso Electoral.
+1. Las sesiones del Consejo podrán ser ordinarias, extraordinarias, especiales, y extraordinarias para tratar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación. Podrán llevarse a cabo de manera presencial o a través de herramientas tecnológicas de forma virtual o en modalidad híbrida:
 
-b) Son extraordinarias aquellas convocadas por el Presidente cuando lo estime necesario o a petición que le formule la mayoría de los consejeros o de los representantes.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+a) Son ordinarias aquellas sesiones que deben celebrarse periódicamente de acuerdo con la Ley Electoral en forma mensual desde la instalación del Consejo, hasta la conclusión de cada Proceso Electoral. No existirá la obligación de sesionar de manera ordinaria por lo menos una vez al mes en los procesos para renovar cargos del Poder Judicial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+b) Son extraordinarias aquellas convocadas por la Presidencia cuando lo estime necesario o a petición que le formule la mayoría de las Consejerías Electorales o de las personas representantes.
 
 c) Son especiales las que se convoquen para el registro de candidaturas y para los Cómputos Distritales.
 
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+d) Son extraordinarias para tratar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación, aquéllas convocadas por la Presidencia cuando lo estime necesario o a petición que le formule la mayoría de las Consejerías Electorales. La convocatoria se realizará con las reglas establecidas en los numerales 2 y 3 del artículo 12 de este Reglamento.
+
 Duración de las sesiones.
 
-2. El tiempo límite para la duración de las sesiones será de ocho horas, salvo en los casos en que el Consejo se declare en sesión permanente. No obstante, el Consejo podrá decidir sin debate, al concluir el punto respectivo, prolongarlas con el acuerdo de la mayoría de sus integrantes con voto. En su caso, después de cada tres horas de prolongada la sesión, al concluir el punto respectivo, el Consejo podrá decidir su continuación siguiendo el mismo procedimiento.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. El tiempo límite para la duración de las sesiones será de ocho horas, salvo en los casos en que el Consejo se declare en sesión permanente. No obstante, el Consejo podrá decidir sin debate, al concluir el punto respectivo, prolongarlas con el acuerdo de la mayoría de las personas integrantes con voto. En su caso, después de cada tres horas de prolongada la sesión, al concluir el punto respectivo, el Consejo podrá decidir su continuación siguiendo el mismo procedimiento.
 
 Aquellas sesiones que sean suspendidas serán citadas para su continuación dentro de las veinticuatro horas siguientes a su suspensión, sin perjuicio de que el propio Consejo acuerde otro plazo para su reanudación.
 
 Sesión permanente.
 
-3. El Consejo se declarará en sesión permanente en los casos previstos por la Ley Electoral y cuando así lo estime pertinente. En las sesiones permanentes no operará el límite de tiempo máximo de duración de ocho horas pero el Presidente, previa consulta con el Consejo, podrá declarar los recesos que fueren necesarios.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. El Consejo se declarará en sesión permanente en los casos previstos por la Ley Electoral y cuando así lo estime pertinente. En las sesiones permanentes no operará el límite de tiempo máximo de duración de ocho horas, pero la Presidencia, previa consulta con el Consejo, podrá declarar los recesos que fueren necesarios.
 
 Lugar donde se celebrarán las sesiones.
 
 4. Las sesiones se llevarán a cabo en la sede del Consejo salvo que, por causas de fuerza mayor, caso fortuito o falta de espacio, en la convocatoria correspondiente se señale un lugar distinto para su celebración, en cuyo caso se deberán garantizar las condiciones necesarias para su adecuado desarrollo.
 
-IV. DE LA CONVOCATORIA DE LAS SESIONES
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+IV. DE LA CONVOCATORIADE (SIC) LAS SESIONES.
 
 ###### ARTÍCULO 12.
 
 Convocatoria a sesión ordinaria o especial.
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Para la celebración de las sesiones ordinarias o especiales del Consejo, el Presidente deberá convocar por escrito y por medios electrónicos y haciendo uso de las Tecnologías de Información y Comunicación (TIC), a cada uno de los integrantes del Consejo por lo menos con seis días previos a la fecha y hora que se fije para la celebración de la sesión.
+1. Para la celebración de las sesiones ordinarias o especiales del Consejo, la Presidencia deberá convocar por escrito y por medios electrónicos y haciendo uso de las Tecnologías de Información y Comunicación (TIC), a cada una de las personas integrantes del Consejo por lo menos con seis días previos a la fecha y hora que se fije para la celebración de la sesión.
 
 Convocatoria a sesión extraordinaria.
 
-2. Se convocará a sesión extraordinaria cuando el Presidente lo estime necesario o a petición que le formule la mayoría de los Consejeros o de los Representantes, conjunta o indistintamente. Será conjunta cuando la petición se formule por la mayoría de los Consejeros y Representantes. La solicitud realizada de forma indistinta será aquella que efectúe la mayoría de los Consejeros o Representantes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. Tratándose de las sesiones extraordinarias, la convocatoria deberá realizarse por lo menos con cuarenta y ocho horas de anticipación. Sin embargo, en aquellos casos que el Presidente considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria la convocatoria por escrito cuando se encuentren presentes en un mismo local todos los integrantes del Consejo.
+2. Se convocará a sesión extraordinaria cuando la Presidencia lo estime necesario o a petición que le formule la mayoría de las Consejerías Electorales o de las personas Representantes, conjunta o indistintamente. Será conjunta cuando la petición se formule por la mayoría de las Consejerías y personas representantes. La solicitud realizada de forma indistinta será aquella que efectúe la mayoría de las Consejerías o personas representantes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+En los casos de las sesiones que se celebren para desahogar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación, la solicitud para la celebración de una sesión solamente podrá realizarse a petición de la mayoría de las Consejerías Electorales.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. Tratándose de las sesiones extraordinarias, la convocatoria deberá realizarse por lo menos con cuarenta y ocho horas de anticipación. Sin embargo, en aquellos casos que la Presidencia considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria la convocatoria por escrito cuando se encuentren presentes en un mismo local todas las personas integrantes del Consejo. Esta disposición también se aplicará para las sesiones extraordinarias urgentes que resulten necesarias para los procesos electorales para renovar cargos del Poder Judicial de la Federación.
 
 Notificación de la convocatoria.
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-4. Los integrantes del Consejo deberán designar un domicilio para las notificaciones dentro de la cabecera de distrito o la capital de la entidad, según corresponda y, proporcionarán un correo electrónico.
+4. Las personas integrantes del Consejo deberán designar un domicilio para las notificaciones dentro de la cabecera de distrito o la capital de la entidad, según corresponda y, proporcionarán un correo electrónico.
 
-La notificación de la convocatoria se realizará en el correo electrónico proporcionado y en el domicilio señalado y, adicionalmente, se publicará en los Estrados. En caso de no designar un domicilio dentro de la cabecera del distrito o de la entidad, pese al requerimiento del Presidente del Consejo, las subsecuentes notificaciones se realizarán por estrados, así como por correo electrónico.
+La notificación de la convocatoria se realizará en el correo electrónico proporcionado y en el domicilio señalado y, adicionalmente, se publicará en los estrados. En caso de no designar un domicilio dentro de la cabecera del distrito o de la entidad, pese al requerimiento de la Presidencia del Consejo, las subsecuentes notificaciones se realizarán por estrados, así como por correo electrónico.
 
 ###### ARTÍCULO 13.
 
 Convocatoria.
 
-1. La convocatoria a sesión deberá contener la fecha, hora y lugar en que la misma se deba celebrar, la mención de ser ordinaria, extraordinaria o especial, así como el orden del día formulado por el Secretario. A dicha convocatoria se acompañarán los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que los integrantes del Consejo cuenten con información suficiente y oportuna.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-2. Los documentos y anexos se distribuirán, preferentemente, en medios digitales, no obstante podrán distribuirse, en medio electrónico a través de la dirección electrónica que de manera previa y por escrito se proporcione al Secretario, o en su caso, mediante el Sistema de Firma Electrónica que para tal efecto se instrumente; excepto cuando ello sea materialmente imposible, o bien, cuando la entrega sea solicitada en forma impresa, previa y expresamente mediante escrito dirigido al Secretario, por alguno de los integrantes que hayan de recibirlos.
+1. La convocatoria a sesión deberá contener la fecha, hora y lugar en que la misma se deba celebrar, la mención de ser ordinaria, extraordinaria o especial, así como el orden del día formulado por la Secretaría. A dicha convocatoria se acompañarán los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que las personas integrantes del Consejo cuenten con información suficiente y oportuna.
 
-Orden del día
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. Los puntos del orden del día se enlistarán conforme se presenten al Secretario, quien ordenará los que estén vinculados, antes de someterlo a la aprobación del Consejo, atento a lo dispuesto en el artículo 16, párrafo 1 del presente Reglamento.
+2. Los documentos y anexos se distribuirán, preferentemente, en medios digitales, no obstante podrán distribuirse, en medio electrónico a través de la dirección electrónica que de manera previa y por escrito se proporcione a la Secretaría, o en su caso, mediante el Sistema de Firma Electrónica que para tal efecto se instrumente; excepto cuando ello sea materialmente imposible, o bien, cuando la entrega sea solicitada en forma impresa, previa y expresamente mediante escrito dirigido a la Secretaría, por alguna de las personas integrantes que hayan de recibirlos.
 
-4. Con el objeto de que la convocatoria y el orden del día puedan ser difundidos a los integrantes del Consejo, con todos y cada uno de los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, las diversas áreas y órganos del Instituto involucradas deberán remitirlos al Secretario, por lo menos con dos días de anticipación a la expedición de la convocatoria.
+Orden del día.
 
-5. Los asuntos del proyecto del orden del día deberán identificar al órgano o integrante de donde provengan.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. Los puntos del orden del día se enlistarán conforme se presenten a la Secretaría, quien ordenará los que estén vinculados, antes de someterlo a la aprobación del Consejo, de conformidad a lo dispuesto en el artículo 16, párrafo 1 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. Con el objeto de que la convocatoria y el orden del día puedan ser difundidos a las personas integrantes del Consejo, con todos y cada uno de los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, las diversas áreas y órganos del Instituto involucradas deberán remitirlos a la Secretaría, por lo menos con dos días de anticipación a la expedición de la convocatoria.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+5. Los asuntos del proyecto del orden del día deberán identificar al órgano o persona integrante de donde provengan.
 
 Disponibilidad de la documentación relacionada.
 
-6. Sólo en aquellos casos en que, derivado de los altos volúmenes de documentación, no sea posible acompañar los anexos necesarios para la discusión de los asuntos contenidos en el orden del día, así como la información y documentación relacionada, éstos se pondrán a disposición de los integrantes del Consejo a partir de la fecha de emisión de la convocatoria, con el propósito de que puedan ser consultados en el local del Consejo respectivo, mismo que se señalará en la propia convocatoria.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+6. Sólo en aquellos casos en que, derivado de los altos volúmenes de documentación, no sea posible acompañar los anexos necesarios para la discusión de los asuntos contenidos en el orden del día, así como la información y documentación relacionada, éstos se pondrán a disposición de las personas integrantes del Consejo a partir de la fecha de emisión de la convocatoria, con el propósito de que puedan ser consultados en el local del Consejo respectivo, mismo que se señalará en la propia convocatoria.
+
+En los supuestos de proyectos de resoluciones y acuerdos que guarden relación con procesos electorales de personas juzgadoras, dicha documentación no será circulada ni puesta a disposición de las personas representantes de partidos políticos y candidaturas independientes.
 
 Inclusión de asuntos al orden del día.
 
-7. Recibida la convocatoria a una sesión ordinaria, cualquier integrante del consejo podrá solicitar al Secretario la inclusión de asuntos en el proyecto del orden del día de la sesión, con cuarenta y ocho horas de anticipación a la fecha señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario estará obligado a incorporar dichos asuntos en el proyecto del orden del día, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, la Secretaría remitirá a los integrantes del Consejo un nuevo proyecto que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto del orden del día de la sesión de que se trate.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-8. Recibida la convocatoria a una sesión extraordinaria, el Presidente, cualquier Consejero o Representante podrá solicitar al Secretario la inclusión de asuntos en el proyecto del orden del día de la sesión con veinticuatro horas de anticipación a la hora señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario estará obligado a incorporar dichos asuntos, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, el Secretario hará del conocimiento de los integrantes del Consejo el nuevo proyecto del orden del día que contenga los asuntos a tratar, y antes de iniciar la sesión entregará los documentos necesarios para su discusión.
+7. Recibida la convocatoria a una sesión ordinaria, cualquier persona integrante del Consejo podrá solicitar a la Secretaría la inclusión de asuntos en el proyecto del orden del día de la sesión, con cuarenta y ocho horas de anticipación a la fecha señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. La Secretaría estará obligada a incorporar dichos asuntos en el proyecto del orden del día, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, la Secretaría remitirá a las personas integrantes del Consejo un nuevo proyecto que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto del orden del día de la sesión de que se trate.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+8. Recibida la convocatoria a una sesión extraordinaria, la Presidencia, cualquier Consejería o persona representante podrá solicitar a la Secretaría la inclusión de asuntos en el proyecto del orden del día de la sesión con veinticuatro horas de anticipación a la hora señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. La Secretaría estará obligada a incorporar dichos asuntos, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, la Secretaría hará del conocimiento de las personas integrantes del Consejo el nuevo proyecto del orden del día que contenga los asuntos a tratar, y antes de iniciar la sesión entregará los documentos necesarios para su discusión. La atribución a que se refiere este párrafo, no podrán ejercerla las personas representantes de los partidos políticos, en el caso de aquellas sesiones que sean convocadas para tratar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación.
 
 Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto del orden del día de la sesión de que se trate.
 
@@ -377,21 +543,33 @@ Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podr�
 
 Retirar asuntos del orden del día previo a la instalación de la sesión.
 
-10. El Presidente, dentro de los plazos previstos para la incorporación de asuntos en el orden del día, podrá solicitar al Secretario que se retire alguno de los asuntos agendados que él hubiere propuesto incluir, que por su naturaleza se justifique plenamente la necesidad de un mayor análisis y presentación en una sesión posterior y no implique el incumplimiento de una disposición de ley o de un Acuerdo del Consejo General o del Consejo Local o Distrital, respectivo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-11. Los Consejeros Electorales, dentro de los plazos previstos para la incorporación de asuntos en el orden del día, en su carácter de Presidentes de alguna Comisión o Comité del Consejo, podrán solicitar por escrito al Presidente que se retire alguno de los asuntos que ellos mismos hayan solicitado su inclusión, o bien que se vinculen con temas que impacten en el ámbito de competencia de la Comisión o Comité, y que por su naturaleza no implique el incumplimiento de una disposición de ley o de un Acuerdo del Consejo General o del Consejo Local o Distrital, respectivo, y se justifique plenamente la necesidad de un mayor análisis para su presentación en una sesión posterior.
+10. La Presidencia, dentro de los plazos previstos para la incorporación de asuntos en el orden del día, podrá solicitar a la Secretaría que se retire alguno de los asuntos agendados que hubiere propuesto incluir, que por su naturaleza se justifique plenamente la necesidad de un mayor análisis y presentación en una sesión posterior y no implique el incumplimiento de una disposición de ley o de un Acuerdo del Consejo General o del Consejo Local o Distrital, respectivo.
 
-12. Los Representantes podrán solicitar dentro de los plazos previstos para la incorporación de asuntos en el orden del día, que se retiren los asuntos que, en su caso, ellos hayan solicitado su inclusión.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-13. El Presidente, recibido el escrito de solicitud de retirar alguno de los asuntos agendados en el orden del día, conforme a lo previsto en los párrafos anteriores, instruirá al Secretario se circule el escrito de solicitud y justificación formulada, junto con un nuevo orden del día en el que se retire el asunto solicitado.
+11. Las Consejerías Electorales, dentro de los plazos previstos para la incorporación de asuntos en el orden del día, en su carácter de Presidente o Presidenta de alguna Comisión o Comité del Consejo, podrán solicitar por escrito a la Presidencia que se retire alguno de los asuntos que ellos mismos hayan solicitado su inclusión, o bien que se vinculen con temas que impacten en el ámbito de competencia de la Comisión o Comité, y que por su naturaleza no implique el incumplimiento de una disposición de ley o de un Acuerdo del Consejo General o del Consejo Local o Distrital, respectivo, y se justifique plenamente la necesidad de un mayor análisis para su presentación en una sesión posterior.
 
-14. El Secretario, recibida la solicitud que le remita el Presidente de retirar un asunto del orden del día, deberá circular a la brevedad el nuevo orden del día en el que se retire el asunto, adjuntando el escrito de justificación respectivo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+12. Las personas representantes podrán solicitar dentro de los plazos previstos para la incorporación de asuntos en el orden del día, que se retiren los asuntos que, en su caso, ellos hayan solicitado su inclusión.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+13. La Presidencia, recibido el escrito de solicitud de retirar alguno de los asuntos agendados en el orden del día, conforme a lo previsto en los párrafos anteriores, instruirá a la Secretaría se circule el escrito de solicitud y justificación formulada, junto con un nuevo orden del día en el que se retire el asunto solicitado.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+14. La Secretaría, recibida la solicitud que le remita la Presidencia de retirar un asunto del orden del día, deberá circular a la brevedad el nuevo orden del día en el que se retire el asunto, adjuntando el escrito de justificación respectivo.
 
 15. Las solicitudes que se formulen para retirar asuntos del orden del día, previo a la instalación de la sesión, no limita la posibilidad de que al momento en que se someta a consideración del Consejo el orden del día, puedan presentarse nuevos planteamientos sobre el retiro de asuntos, según lo prevé el artículo 16, párrafo 3 del presente Reglamento.
 
 Asuntos generales.
 
-16. Únicamente en las sesiones ordinarias, cualquier integrante del Consejo podrá solicitar la discusión en “Asuntos generales” de puntos que no requieran examen previo de documentos, o que el Consejo acuerde que son de obvia y urgente Resolución. El Presidente consultará al Consejo inmediatamente después de la aprobación del proyecto del orden del día y al agotarse la discusión del último punto, si existen “Asuntos Generales”, solicitando en ese segundo momento se indique el tema correspondiente, a fin de que, una vez registrados, el Secretario dé cuenta de ellos al Consejo. El Presidente someterá dichas solicitudes a la aprobación del Consejo para que éste decida, sin debate, sobre su discusión.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+16. Únicamente en las sesiones ordinarias, cualquier persona integrante del Consejo podrá solicitar la discusión en “Asuntos generales” de puntos que no requieran examen previo de documentos, o que el Consejo acuerde que son de obvia y urgente Resolución. La Presidencia consultará al Consejo inmediatamente después de la aprobación del proyecto del orden del día y al agotarse la discusión del último punto, si existen “Asuntos Generales”, solicitando en ese segundo momento se indique el tema correspondiente, a fin de que, una vez registrados, la Secretaría dé cuenta de ellos al Consejo. La Presidencia someterá dichas solicitudes a la aprobación del Consejo para que éste decida, sin debate, sobre su discusión.
 
 V. DE LA INSTALACIÓN Y EL DESARROLLO DE LA SESIÓN
 
@@ -399,21 +577,31 @@ V. DE LA INSTALACIÓN Y EL DESARROLLO DE LA SESIÓN
 
 Instalación de la sesión.
 
-1. El día fijado para la sesión se reunirán en el lugar destinado para tal efecto y tomarán lugar en la mesa los miembros del Consejo que corresponda, es decir, el Presidente, los Consejeros, el Secretario y los Representantes.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Además, concurrirán a la sesión los Vocales del Registro Federal de Electores, de Organización Electoral, y de Capacitación Electoral y Educación Cívica de las Juntas Locales o Distritales Ejecutivas, según corresponda.
+1. El día fijado para la sesión se reunirán en el lugar destinado para tal efecto y tomarán lugar en la mesa las personas integrantes del Consejo que corresponda, es decir, la Presidencia, las Consejerías, la Secretaría y las personas representantes, en su caso.
 
-El Presidente declarará instalada la sesión, previa verificación de asistencia y certificación de la existencia del quórum legal por parte del Secretario.
+Además, concurrirán a la sesión las y los titulares de las vocalías del Registro Federal de Electores, de Organización Electoral, y de Capacitación Electoral y Educación Cívica de las Juntas Locales o Distritales Ejecutivas, según corresponda.
+
+La Presidencia declarará instalada la sesión, previa verificación de asistencia y certificación de la existencia del quórum legal por parte de la Secretaría.
 
 Quórum.
 
-2. Para que el Consejo pueda sesionar, es necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar el Presidente y cuando menos tres de los Consejeros. El Presidente será suplido en sus ausencias momentáneas por el Consejero que él mismo designe.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los integrantes del Consejo que asistan, entre los que deberá estar el Presidente o Secretario. El Secretario informará por escrito sobre la fecha y hora en que se llevará a cabo la sesión a que se refiere este párrafo.
+2. Para que el Consejo pueda sesionar, es necesario que estén presentes la mayoría de las personas integrantes, entre los que deberán estar la Presidencia y cuando menos tres de las Consejerías. La Presidencia será suplida en sus ausencias momentáneas por la Consejería que esta designe. En los casos de las sesiones que se celebren para tratar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación, el quórum se integrará por la mayoría de las personas integrantes, entre quienes deberá estar la Presidencia y cuando menos tres de las Consejerías, sin que puedan integrarse al Consejo las personas representantes de los partidos políticos.
 
-4. Si en el transcurso de la sesión se ausentaran definitivamente de ésta, alguno o algunos de los integrantes del Consejo, y con ello no se alcanzare el quórum legal para continuar con la misma, el Presidente, previa instrucción al Secretario para verificar esta situación, deberá suspenderla y citar para su continuación dentro de las veinticuatro horas siguientes, sin perjuicio de que el propio Consejo decida otro plazo para su continuación.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-El Secretario informará por escrito sobre la reanudación de la sesión a que se refiere este párrafo.
+3. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con las personas integrantes del Consejo que asistan, entre los que deberá estar la Presidencia o Secretaría. La Secretaría informará por escrito sobre la fecha y hora en que se llevará a cabo la sesión a que se refiere este párrafo.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. Si en el transcurso de la sesión se ausentaran definitivamente de ésta, alguna o algunas de las personas integrantes del Consejo, y con ello no se alcanzare el quórum legal para continuar con la misma, la Presidencia, previa instrucción a la Secretaría para verificar esta situación, deberá suspenderla y citar para su continuación dentro de las veinticuatro horas siguientes, sin perjuicio de que el propio Consejo decida otro plazo para su continuación.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría informará por escrito sobre la reanudación de la sesión a que se refiere este párrafo.
 
 ###### ARTÍCULO 15.
 
@@ -421,15 +609,19 @@ Publicidad y orden de las sesiones.
 
 1. Las sesiones del Consejo serán públicas.
 
-2. En las sesiones sólo podrán participar y hacer uso de la palabra el Presidente, los Consejeros, el Secretario, los Representantes de los partidos y los Representantes de los candidatos independientes.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Los Vocales de Registro Federal de Electores, de Organización Electoral, así como el de Capacitación Electoral y Educación Cívica, podrán participar en términos de lo previsto en el numeral 5 del artículo 18 del presente Reglamento.
+2. En las sesiones sólo podrán participar y hacer uso de la palabra la Presidencia, las Consejerías, la Secretaría, las personas representantes de los partidos y las personas representantes de las candidaturas independientes. La única excepción a lo anterior será en los casos de las sesiones que se celebren para tratar asuntos relacionados con los procesos para renovar cargos del Poder Judicial de la Federación, en donde sólo podrán estar presentes y hacer uso de la palabra la Presidencia, las Consejerías Electorales, y la Secretaría.
 
-Los integrantes del Consejo al hacer uso de la palabra deberán de conducirse en todo momento con respeto y tolerancia hacia los demás integrantes.
+Las y los titulares de las vocalías de Registro Federal de Electores, de Organización Electoral, así como de Capacitación Electoral y Educación Cívica, podrán participar en términos de lo previsto en el numeral 5 del artículo 18 del presente Reglamento.
+
+Las personas integrantes del Consejo al hacer uso de la palabra deberán de conducirse en todo momento con respeto y tolerancia hacia las demás personas integrantes.
 
 3. El público asistente deberá guardar el debido orden en el recinto donde se celebren las sesiones, permanecer en silencio y abstenerse de cualquier acto o manifestación que altere el desarrollo de la sesión.
 
-4. Para garantizar el orden, los Presidentes podrán tomar cualquiera de las siguientes medidas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. Para garantizar el orden, las Presidencias podrán tomar cualquiera de las siguientes medidas:
 
 a) Exhortar a guardar el orden;
 
@@ -437,7 +629,9 @@ b) Conminar a abandonar el local, y
 
 c) Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-5. El Presidente podrá suspender la sesión por grave alteración del orden en el lugar destinado para tal efecto, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Presidente decida otro plazo para su continuación.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+5. La Presidencia podrá suspender la sesión por grave alteración del orden en el lugar destinado para tal efecto, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que la Presidencia decida otro plazo para su continuación.
 
 ###### ARTÍCULO 16.
 
@@ -445,49 +639,79 @@ Aprobación del orden del día.
 
 1. Instalada la sesión, se pondrá a consideración del Consejo el contenido del orden del día.
 
-2. El Consejo, a solicitud de alguno de sus integrantes, podrá modificar el orden de los asuntos agendados. En tal caso, el integrante del Consejo que proponga la modificación deberá especificar puntualmente el nuevo orden en que quedarán listados los asuntos.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. El Presidente, los Consejeros Electorales y los Representantes podrán solicitar *cuando se ponga a consideración el orden del día- que se retire algún punto agendado, siempre y cuando sean ellos quienes hayan solicitado su inclusión, conforme a lo previsto en los párrafos 10, 11 y 12 del artículo 13 del presente Reglamento; para tal efecto deberán exponer las consideraciones de hecho y de derecho que funden y motiven su petición, a fin de que, sin entrar al debate de fondo del asunto, el Consejo resuelva sobre su exclusión. En todos los casos se deberá considerar que no implique el incumplimiento de disposiciones normativas y que por su naturaleza se garantice la adecuada toma de decisiones para su presentación en una sesión posterior en la que inclusive el Proyecto originalmente planteado pueda ser modificado para mejor proveer.
+2. El Consejo, a solicitud de alguna de sus personas integrantes, podrá modificar el orden de los asuntos agendados. En tal caso, la persona integrante del Consejo que proponga la modificación deberá especificar puntualmente el nuevo orden en que quedarán listados los asuntos.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. La Presidencia, las Consejerías Electorales y las personas representantes podrán solicitar -cuando se ponga a consideración el orden del día- que se retire algún punto agendado, siempre y cuando sean ellas quienes hayan solicitado su inclusión, conforme a lo previsto en los párrafos 10, 11 y 12 del artículo 13 del presente Reglamento; para tal efecto deberán exponer las consideraciones de hecho y de derecho que funden y motiven su petición, a fin de que, sin entrar al debate de fondo del asunto, el Consejo resuelva sobre su exclusión. En todos los casos se deberá considerar que no implique el incumplimiento de disposiciones normativas y que por su naturaleza se garantice la adecuada toma de decisiones para su presentación en una sesión posterior en la que inclusive el Proyecto originalmente planteado pueda ser modificado para mejor proveer.
 
 Votación del orden del día.
 
-4. En el caso de que no existan planteamientos respecto al orden del día, el Presidente solicitará al Secretario que en votación económica, lo someta a su aprobación.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-5. Las modificaciones al orden del día que se presenten por parte de algún integrante del Consejo deberán someterse a votación. En el supuesto de que no exista coincidencia sobre las propuestas formuladas, sin entrar al debate de fondo del asunto, en primer término el orden del día se someterá a votación en lo general respecto de los asuntos en los que hay consenso, y en segundo lugar se procederá a una votación particular respecto de cada propuesta que se formule.
+4. En el caso de que no existan planteamientos respecto al orden del día, la Presidencia solicitará a la Secretaría que, en votación económica, lo someta a su aprobación.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+5. Las modificaciones al orden del día que se presenten por parte de alguna persona integrante del Consejo deberán someterse a votación. En el supuesto de que no exista coincidencia sobre las propuestas formuladas, sin entrar al debate de fondo del asunto, en primer término, el orden del día se someterá a votación en lo general respecto de los asuntos en los que hay consenso, y en segundo lugar se procederá a una votación particular respecto de cada propuesta que se formule.
 
 Dispensa de lectura de documentos.
 
-6. Aprobado el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos que hayan sido previamente circulados. Sin embargo, el Consejo podrá decidir sin debate y a petición de alguno de sus integrantes, proceder a su lectura en forma completa o parcial, para mejor ilustrar sus argumentaciones.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Posponer la discusión de asuntos agendados en el orden del día aprobado
+6. Aprobado el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos que hayan sido previamente circulados. Sin embargo, el Consejo podrá decidir sin debate y a petición de alguna persona integrante, proceder a su lectura en forma completa o parcial, para mejor ilustrar sus argumentaciones.
 
-7. Cualquier integrante del Consejo podrá solicitar al Presidente previo a iniciar su análisis y discusión, que se posponga algún asunto agendado en el orden del día aprobado, siempre y cuando formule las consideraciones que funden y motiven su propuesta a fin de que el Consejo resuelva sobre la petición.
+Posponer la discusión de asuntos agendados en el orden del día aprobado.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+7. Cualquier persona integrante del Consejo podrá solicitar a la Presidencia previo a iniciar su análisis y discusión, que se posponga algún asunto agendado en el orden del día aprobado, siempre y cuando formule las consideraciones que funden y motiven su propuesta a fin de que el Consejo resuelva sobre la petición.
 
 8. Los asuntos contenidos en el orden del día aprobado, en los que se solicite posponer su discusión, y sea aprobada sin debate por el propio Consejo, deberán incluirse en el orden del día de la siguiente sesión del Consejo, en los términos originalmente presentados.
 
 Observaciones, sugerencias o propuestas.
 
-9. Los integrantes del Consejo que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de Acuerdo o Resolución del propio órgano de dirección, deberán presentarlas por escrito al Secretario, de manera previa o durante el desarrollo de la sesión, sin perjuicio de que durante la discusión del punto correspondiente puedan presentar nuevas observaciones, sugerencias o propuestas verbales o escritas.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-10. Cuando en el transcurso de la sesión se presenten propuestas, cuya complejidad hace imposible su redacción inmediata, el Presidente adoptará las medidas pertinentes para efectuar el engrose correspondiente en términos del artículo 25 del presente Reglamento.
+9. Las personas integrantes del Consejo que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de Acuerdo o Resolución del propio órgano de dirección, deberán presentarlas por escrito a la Secretaría, de manera previa o durante el desarrollo de la sesión, sin perjuicio de que durante la discusión del punto correspondiente puedan presentar nuevas observaciones, sugerencias o propuestas verbales o escritas.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+10. Cuando en el transcurso de la sesión se presenten propuestas, cuya complejidad hace imposible su redacción inmediata, la Presidencia adoptará las medidas pertinentes para efectuar el engrose correspondiente en términos del artículo 25 del presente Reglamento.
 
 ###### ARTÍCULO 17.
 
 Uso de la palabra.
 
-1. Los integrantes del Consejo sólo podrán hacer uso de la palabra con la autorización previa del Presidente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Conducción provisional de las sesiones por un Consejero.
+1. Las personas integrantes del Consejo sólo podrán hacer uso de la palabra con la autorización previa de la Presidencia.
 
-2. En caso de que el Presidente se ausente momentáneamente de la mesa de deliberaciones, designará a un Consejero para que lo auxilie en la conducción de la sesión con el propósito de no interrumpir su desarrollo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Inasistencia o ausencia definitiva del Presidente a la sesión.
+Conducción provisional de las sesiones por una Consejería.
 
-3. En el supuesto de que el Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo designará a uno de los Consejeros presentes para que la presida y ejerza las atribuciones a que se refiere el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Ausencias del Secretario a la sesión.
+2. En caso de que la Presidencia se ausente momentáneamente de la mesa de deliberaciones, designará a una Consejería para que le auxilie en la conducción de la sesión con el propósito de no interrumpir su desarrollo.
 
-4. En caso de ausencia del Secretario a la sesión, sus atribuciones en ésta serán realizadas por alguno de los integrantes del Servicio Profesional Electoral Nacional del Sistema del Instituto, que al efecto designe el Consejo para esa sesión, a propuesta del Presidente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Inasistencia o ausencia definitiva de la Presidencia a la sesión.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. En el supuesto de que la Presidencia no asista o se ausente en forma definitiva de la sesión, el Consejo designará a una de las Consejerías presentes para que la presida y ejerza las atribuciones a que se refiere el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Ausencias de la Secretaría a la sesión.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. En caso de ausencia de la Secretaría a la sesión, sus atribuciones en ésta serán realizadas por alguna de las personas integrantes del Servicio Profesional Electoral Nacional del Sistema del Instituto, que al efecto designe el Consejo para esa sesión, a propuesta de la Presidencia.
 
 ###### ARTÍCULO 18.
 
@@ -497,23 +721,37 @@ Mecanismo para la discusión en las sesiones.
 
 Forma de discusión de los asuntos en la primera ronda.
 
-En la discusión de cada punto del orden del día, el Presidente concederá el uso de la palabra a los miembros del Consejo que quieran hacer uso de ese derecho para el asunto en particular. Los miembros del Consejo podrán intervenir en el orden en que lo soliciten por una sola vez en esta ronda. Los oradores podrán hacer uso de la palabra por diez minutos como máximo. En todo caso, el Presidente o el integrante del Consejo que proponga el punto, tendrá preferencia de iniciar la primera ronda si así lo solicita.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+En la discusión de cada punto del orden del día, la Presidencia concederá el uso de la palabra a las personas integrantes del Consejo que quieran hacer uso de ese derecho para el asunto en particular. Las personas integrantes del Consejo podrán intervenir en el orden en que lo soliciten por una sola vez en esta ronda. Las personas oradoras podrán hacer uso de la palabra por diez minutos como máximo. En todo caso, la Presidencia o la persona integrante del Consejo que proponga el punto, tendrá preferencia de iniciar la primera ronda si así lo solicita.
 
 Forma de discusión de los asuntos en la segunda ronda.
 
-2. Después de haber intervenido todos los oradores que así desearon hacerlo en la primera ronda, el Presidente preguntará si el punto está suficientemente discutido y, en caso de no ser así, se realizará una segunda ronda de debates. Bastará que un solo integrante del Consejo pida la palabra para que la segunda ronda se lleve a cabo. En la segunda ronda los oradores participarán de acuerdo con las reglas fijadas para la primera, pero sus intervenciones no podrán exceder de cuatro minutos.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Después de haber intervenido todas las personas oradoras que así desearon hacerlo en la primera ronda, la Presidencia preguntará si el punto está suficientemente discutido y, en caso de no ser así, se realizará una segunda ronda de debates. Bastará que una sola persona integrante del Consejo pida la palabra para que la segunda ronda se lleve a cabo. En la segunda ronda las personas oradoras participarán de acuerdo con las reglas fijadas para la primera, pero sus intervenciones no podrán exceder de cuatro minutos.
 
 Forma de discusión de los asuntos en la tercera ronda.
 
-3. Después de haber intervenido todos los oradores que así desearon hacerlo en la segunda ronda, el Presidente preguntará si el punto está suficientemente discutido y, en caso de no ser así, se realizará una tercera ronda de debates. Bastará que un solo integrante del Consejo pida la palabra para que la tercera ronda se lleve a cabo. En la tercera ronda los oradores participarán de acuerdo con las reglas fijadas para la primera, pero sus intervenciones no podrán exceder de dos minutos.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Intervención en el debate del Secretario.
+3. Después de haber intervenido todas las personas oradoras que así desearon hacerlo en la segunda ronda, la Presidencia preguntará si el punto está suficientemente discutido y, en caso de no ser así, se realizará una tercera ronda de debates. Bastará que una sola persona integrante del Consejo pida la palabra para que la tercera ronda se lleve a cabo. En la tercera ronda las personas oradoras participarán de acuerdo con las reglas fijadas para la primera, pero sus intervenciones no podrán exceder de dos minutos.
 
-4. El Secretario podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se inscribiere en la lista de oradores. Sus intervenciones no excederán de los tiempos fijados para cada ronda. Lo anterior, no es obstáculo para que en el transcurso del debate, el Presidente o alguno de los Consejeros soliciten que informe o aclare alguna cuestión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Intervención en el debate de los Vocales del Registro Federal de Electores, de Organización Electoral y de Capacitación Electoral y Educación Cívica.
+Intervención en el debate de la Secretaría
 
-5. Los Vocales del Registro Federal de Electores, de Organización Electoral y, de Capacitación Electoral y Educación Cívica, podrán, sin tomar parte en las deliberaciones, hacer uso de la palabra para rendir informes o ilustrar al Consejo acerca de la materia de su responsabilidad. Sus intervenciones no excederán el tiempo establecido a los oradores para su primera ronda, sin perjuicio de que el Consejo pueda, en votación económica, prorrogar dicha intervención hasta agotar definitivamente el punto.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. La Secretaría podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se inscribiere en la lista de personas oradoras. Sus intervenciones no excederán de los tiempos fijados para cada ronda. Lo anterior, no es obstáculo para que, en el transcurso del debate, la Presidencia o alguna de las Consejerías soliciten que informe o aclare alguna cuestión.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Intervención en el debate de las y los titulares de las vocalías del Registro Federal de Electores, de Organización Electoral y de Capacitación Electoral y Educación Cívica
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+5. Las y los titulares de las vocalías del Registro Federal de Electores, de Organización Electoral y, de Capacitación Electoral y Educación Cívica, podrán, sin tomar parte en las deliberaciones, hacer uso de la palabra para rendir informes o ilustrar al Consejo acerca de la materia de su responsabilidad. Sus intervenciones no excederán el tiempo establecido a las personas oradoras para su primera ronda, sin perjuicio de que el Consejo pueda, en votación económica, prorrogar dicha intervención hasta agotar definitivamente el punto.
 
 Procedimiento cuando nadie pida la palabra.
 
@@ -523,17 +761,27 @@ Procedimiento cuando nadie pida la palabra.
 
 Prohibición de diálogos y alusiones personales.
 
-1. En el curso de las deliberaciones, los integrantes del Consejo se abstendrán de entablar polémicas o debates en forma de diálogo con otro miembro del Consejo, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que en su caso se discutan. En dicho supuesto, el Presidente podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. En el curso de las deliberaciones, las personas integrantes del Consejo se abstendrán de entablar polémicas o debates en forma de diálogo con otra persona integrante del Consejo, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que en su caso se discutan. En dicho supuesto, la Presidencia podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarle a que se conduzca en los términos previstos en el presente Reglamento.
 
 ###### ARTÍCULO 20.
 
-Prohibición de interrumpir a los oradores.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en los artículos 21 y 22 de este Reglamento o por la intervención del Presidente para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
+Prohibición de interrumpir a las personas oradoras.
 
-Desvío del asunto en debate por parte del orador.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-2. Si el orador se aparta de la cuestión en debate o hace alguna referencia que ofenda a cualquiera de los integrantes del Consejo, el Presidente le advertirá. Si el orador es reiterativo en su conducta, el Presidente deberá hacerle una segunda advertencia y, en caso de persistir en dicha conducta, le podrá retirar el uso de la palabra.
+1. Las personas oradoras no podrán ser interrumpidas, salvo por medio de una moción siguiendo las reglas establecidas en los artículos 21 y 22 de este Reglamento o por la intervención de la Presidencia para conminarle a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Desvío del asunto en debate por parte de la persona oradora.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Si la persona oradora se aparta de la cuestión en debate o hace alguna referencia que ofenda a cualquiera de las personas integrantes del Consejo, la Presidencia le advertirá. Si la persona oradora es reiterativa en su conducta, la Presidencia deberá hacerle una segunda advertencia y, en caso de persistir en dicha conducta, le podrá retirar el uso de la palabra.
 
 VI. DE LAS MOCIONES
 
@@ -551,7 +799,9 @@ c) Solicitar la Resolución sobre un aspecto del debate en lo particular;
 
 d) Solicitar la suspensión de la sesión por alguna de las causas establecidas en este Reglamento;
 
-e) Pedir la suspensión de una intervención que no se ajuste al orden, que se aparte del punto a discusión o que sea ofensiva o calumniosa para algún miembro del Consejo;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+e) Pedir la suspensión de una intervención que no se ajuste al orden, que se aparte del punto a discusión o que sea ofensiva o calumniosa para alguna persona integrante del Consejo;
 
 f) Ilustrar la discusión con la lectura breve de algún documento;
 
@@ -561,23 +811,37 @@ h) Pedir la aplicación del Reglamento.
 
 Moción de orden (procedimiento).
 
-2. Toda moción de orden deberá dirigirse al Presidente, quien la aceptará o la negará. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso. De estimarlo conveniente o a solicitud de algún integrante del Consejo distinto de aquel a quien se dirige la moción, el Presidente podrá someter a votación del Consejo la moción de orden solicitada, quien sin discusión decidirá su admisión o rechazo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Toda moción de orden deberá dirigirse a la Presidencia, quien la aceptará o la negará. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso. De estimarlo conveniente o a solicitud de alguna persona integrante del Consejo distinta de aquella a quien se dirige la moción, la Presidencia podrá someter a votación del Consejo la moción de orden solicitada, quien sin discusión decidirá su admisión o rechazo.
 
 Moción de procedimiento en la votación.
 
-3. Toda moción establecida en el procedimiento de votación se dirigirá al Presidente del Consejo quien, junto con el Secretario, precisará el punto de Acuerdo o Resolución que se someta a la consideración del Consejo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. Toda moción establecida en el procedimiento de votación se dirigirá a la Presidencia del Consejo quien, junto con la Secretaría, precisará el punto de Acuerdo o Resolución que se someta a la consideración del Consejo.
 
 ###### ARTÍCULO 22.
 
-Moción al orador (objetivo).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Cualquier miembro del Consejo podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
+Moción a la persona oradora (objetivo).
 
-Moción al orador (procedimiento).
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-2. Las mociones al orador, únicamente podrán efectuarse en primera y segunda ronda, deberán dirigirse al Presidente y contar con la anuencia de aquél a quien se hace. Cada uno de los integrantes del Consejo podrá formular hasta tres mociones por punto del orden del día.
+1. Cualquier persona integrante del Consejo podrá realizar mociones a la persona oradora que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
 
-3. En caso de ser aceptadas, la intervención del solicitante de la moción no podrá durar más de un minuto y para dar respuesta a la moción formulada, el orador contará con un minuto.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Moción a la persona oradora (procedimiento).
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Las mociones a la persona oradora, únicamente podrán efectuarse en primera y segunda ronda, deberán dirigirse a la Presidencia y contar con la anuencia de aquella a quien se hace. Cada una de las personas integrantes del Consejo podrá formular hasta tres mociones por punto del orden del día.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. En caso de ser aceptadas, la intervención de la persona solicitante de la moción no podrá durar más de un minuto y para dar respuesta a la moción formulada, la persona oradora contará con un minuto.
 
 VII. DE LAS VOTACIONES
 
@@ -585,45 +849,67 @@ VII. DE LAS VOTACIONES
 
 Obligación de votar.
 
-1. El Presidente y los Consejeros deberán votar todo Proyecto de Acuerdo, programa, Dictamen o Resolución que se ponga a su consideración, y en ningún caso podrán abstenerse de ello, salvo cuando hagan del conocimiento del Consejo la existencia de algún impedimento en términos del artículo 8, fracción XI de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o por cualquier otra disposición legal.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. La Presidencia y las Consejerías deberán votar todo Proyecto de Acuerdo, programa, Dictamen o Resolución que se ponga a su consideración, y en ningún caso podrán abstenerse de ello, salvo cuando hagan del conocimiento del Consejo la existencia de algún impedimento en términos del artículo 7, fracciones IX, X, XI y XII de la Ley General de Responsabilidades Administrativas o por cualquier otra disposición legal.
 
 Forma de tomar los Acuerdos y Resoluciones.
 
-2. Los Acuerdos y Resoluciones del Consejo se tomarán por mayoría simple de votos de los integrantes con derecho a ello, salvo en los casos que la ley disponga una mayoría distinta.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Los Acuerdos y Resoluciones del Consejo se tomarán por mayoría simple de votos de las personas integrantes con derecho a ello, salvo en los casos que la ley disponga una mayoría distinta.
 
 Votación en lo general y en lo particular.
 
-3. La votación se hará en lo general y en lo particular, siempre y cuando así lo solicite un integrante del Consejo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+3. La votación se hará en lo general y en lo particular, siempre y cuando así lo solicite una persona integrante del Consejo.
 
 Forma de tomar la votación.
 
 4. La votación se tomará contando en primer término, el número de votos a favor y, en su caso, el número de votos en contra. El sentido de la votación quedará asentado en el acta.
 
-5. Se considerará unanimidad aquella votación en la que todos los integrantes con derecho a voto presentes se pronuncien en el mismo sentido, ya sea a favor o en contra.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-6. Se entenderá por mayoría la votación ya sea a favor o en contra, cuando el resultado de la misma cuente con el apoyo de la mitad más uno del total de los integrantes con derecho a voto que se encuentren presentes.
+5. Se considerará unanimidad aquella votación en la que todas las personas integrantes con derecho a voto presentes se pronuncien en el mismo sentido, ya sea a favor o en contra.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+6. Se entenderá por mayoría la votación ya sea a favor o en contra, cuando el resultado de la misma cuente con el apoyo de la mitad más uno del total de las personas integrantes con derecho a voto que se encuentren presentes.
 
 Procedimiento para la votación.
 
-7. Los Consejeros votarán levantando la mano y la mantendrán en esa posición el tiempo suficiente para que el Secretario tome nota de sus nombres y del sentido de su voluntad.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+7. Las Consejerías votarán levantando la mano y la mantendrán en esa posición el tiempo suficiente para que la Secretaría tome nota de sus nombres y del sentido de su voluntad.
 
 ###### ARTÍCULO 24.
 
 De los impedimentos, la excusa y la recusación.
 
-1. El Presidente o cualquiera de los Consejeros, estarán impedidos para intervenir, en cualquier forma, en la atención, tramitación o Resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-2. Cuando el Presidente o cualquiera de los Consejeros se encuentren en alguno de los supuestos enunciados en el párrafo anterior, deberá excusarse.
+1. La Presidencia o cualquiera de las Consejerías, estarán impedidas para intervenir, en cualquier forma, en la atención, tramitación o Resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para ellas, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para sociedades de las que la persona servidora pública o las personas antes referidas formen o hayan formado parte.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Cuando la Presidencia o cualquiera de las Consejerías se encuentren en alguno de los supuestos enunciados en el párrafo anterior, deberán excusarse.
 
 3. Para el conocimiento y la calificación del impedimento, se observarán las reglas particulares siguientes:
 
-a) El Consejero que se considere impedido deberá presentar al Presidente, previo al inicio de la discusión del punto correspondiente, un escrito en el cual exponga las consideraciones fácticas o legales por las que no puede conocer el asunto.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-b) En caso de tratarse del Presidente, deberá manifestarlo en la sesión del Consejo, previo al momento de iniciar la discusión del punto particular.
+a) La Consejería que se considere impedida deberá presentar a la Presidencia, previo al inicio de la discusión del punto correspondiente, un escrito en el cual exponga las consideraciones fácticas o legales por las que no puede conocer el asunto.
 
-4. En caso de tener conocimiento de alguna causa que impida al Presidente o a cualquiera de los Consejeros conocer o intervenir en la atención, tramitación o Resolución de algún asunto, se podrá formular recusación, siempre y cuando se efectúe previo al momento de iniciar la discusión del caso particular. Para los efectos del presente artículo, se entenderá por recusación, el acto o petición expresa de inhibir para dejar de conocer sobre determinado asunto, que se formule durante las sesiones del Consejo.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-La solicitud de recusación procederá a petición de parte y la podrán formular los Representantes, la cual deberá sustentarse en elementos de prueba idóneos que soporten la causa ostentada, y estar debidamente motivada y fundada.
+b) En caso de tratarse de la Presidencia, deberá manifestarlo en la sesión del Consejo, previo al momento de iniciar la discusión del punto particular.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. En caso de tener conocimiento de alguna causa que impida a la Presidencia o a cualquiera de las Consejerías conocer o intervenir en la atención, tramitación o Resolución de algún asunto, se podrá formular recusación, siempre y cuando se efectúe previo al momento de iniciar la discusión del caso particular. Para los efectos del presente artículo, se entenderá por recusación, el acto o petición expresa de inhibir para dejar de conocer sobre determinado asunto, que se formule durante las sesiones del Consejo.
+
+La solicitud de recusación procederá a petición de parte y la podrán formular las personas representantes, la cual deberá sustentarse en elementos de prueba idóneos que soporten la causa ostentada, y estar debidamente motivada y fundada.
 
 5. El Consejo deberá resolver de inmediato respecto de la procedencia del impedimento, de la excusa o de la recusación que se haga valer, previo al inicio de la discusión del punto correspondiente.
 
@@ -631,19 +917,27 @@ La solicitud de recusación procederá a petición de parte y la podrán formula
 
 Engrose.
 
-1. Se entiende que un Acuerdo o Resolución es objeto de engrose cuando, durante el desarrollo de la sesión del Consejo, es aprobado con modificaciones o argumentaciones que cambien el sentido original del Proyecto sometido a consideración y que impliquen que el Secretario, a través de la instancia técnica responsable, realice el engrose con posterioridad a su aprobación.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+1. Se entiende que un Acuerdo o Resolución es objeto de engrose cuando, durante el desarrollo de la sesión del Consejo, es aprobado con modificaciones o argumentaciones que cambien el sentido original del Proyecto sometido a consideración y que impliquen que la Secretaría, a través de la instancia técnica responsable, realice el engrose con posterioridad a su aprobación.
 
 Modificación.
 
 2. Se entiende que un Acuerdo o Resolución es objeto de modificación si durante el desarrollo de la sesión del Consejo es aprobado con modificaciones específicas y puntuales que claramente se señala su incorporación en el Proyecto original y se dan a conocer en el pleno del Consejo.
 
-3. El Secretario realizará el engrose del Acuerdo o Resolución correspondiente, el cual deberá notificar personalmente a cada uno de los miembros del Consejo en un plazo que no exceda de dos días siguientes a la fecha en que éste hubiera sido votado, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-4. En caso de que por su complejidad no sea posible realizar las modificaciones o adiciones al proyecto durante el curso de la sesión, el Secretario deberá realizarlas con posterioridad a la misma, apegándose fielmente al contenido de la versión estenográfica.
+3. La Secretaría realizará el engrose del Acuerdo o Resolución correspondiente, el cual deberá notificar personalmente a cada una de las personas integrantes del Consejo en un plazo que no exceda de dos días siguientes a la fecha en que éste hubiera sido votado, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+4. En caso de que por su complejidad no sea posible realizar las modificaciones o adiciones al proyecto durante el curso de la sesión, la Secretaría deberá realizarlas con posterioridad a la misma, apegándose fielmente al contenido de la versión estenográfica.
 
 Voto particular
 
-5. El Consejero que disienta de la mayoría podrá formular voto particular, el cual se insertará al final del Acuerdo o Resolución, siempre y cuando se remita al Secretario dentro de los dos días siguientes a su aprobación.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+5. La Consejería que disienta de la mayoría podrá formular voto particular, el cual se insertará al final del Acuerdo o Resolución, siempre y cuando se remita a la Secretaría dentro de los dos días siguientes a su aprobación.
 
 Devolución
 
@@ -657,11 +951,11 @@ VIII. DEL ENVÍO DE LOS ACUERDOS Y RESOLUCIONES
 
 Envío de los Acuerdos y Resoluciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-1. Dentro de las setenta y dos horas siguientes a la terminación de la sesión en que fueron aprobados, el Secretario deberá remitir, preferentemente en medio electrónico, copia de los Acuerdos y Resoluciones a los integrantes del Consejo, y a los órganos locales o distritales de dirección y ejecutivos del Instituto cuando así corresponda para su debido cumplimiento en el ámbito de sus respectivas atribuciones.
+1. Dentro de las setenta y dos horas siguientes a la terminación de la sesión en que fueron aprobados, la Secretaría deberá remitir, preferentemente en medio electrónico, copia de los Acuerdos y Resoluciones a las personas integrantes del Consejo, y a los órganos locales o distritales de dirección y ejecutivos del Instituto cuando así corresponda para su debido cumplimiento en el ámbito de sus respectivas atribuciones.
 
-El Consejo podrá determinar, cuando así lo estime necesario, que el Secretario realice la remisión de los Acuerdos y Resoluciones en un plazo más breve.
+El Consejo podrá determinar, cuando así lo estime necesario, que la Secretaría realice la remisión de los Acuerdos y Resoluciones en un plazo más breve.
 
 IX. DE LAS ACTAS DE LAS SESIONES
 
@@ -673,13 +967,15 @@ Grabación en audio de la sesión.
 
 Integración del acta de la sesión.
 
-2. El acta contendrá íntegramente los datos de identificación de la sesión, la fecha y hora de su inicio y conclusión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo y el sentido de su voto, así como los Acuerdos y Resoluciones aprobadas.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. El acta contendrá íntegramente los datos de identificación de la sesión, la fecha y hora de su inicio y conclusión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de las personas integrantes del Consejo y el sentido de su voto, así como los Acuerdos y Resoluciones aprobadas.
 
 Entrega del acta de la sesión.
 
-> <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-3. El Secretario deberá poner a disposición de los miembros del Consejo, en la sede del mismo, el proyecto de acta dentro de las setenta y dos horas después de haberse celebrado la sesión. Adicionalmente, el Secretario entregará a los miembros del Consejo, preferentemente por correo electrónico o cualquier otro medio tecnológico, el proyecto de acta de cada sesión en un plazo que no excederá los cuatro días siguientes a su celebración, recabándose el recibo correspondiente por el mismo medio.
+3. La Secretaría deberá poner a disposición de las personas integrantes del Consejo, en la sede del mismo, el proyecto de acta dentro de las setenta y dos horas después de haberse celebrado la sesión. Adicionalmente, la Secretaría entregará a las personas integrantes del Consejo, preferentemente por correo electrónico o cualquier otro medio tecnológico, el proyecto de acta de cada sesión en un plazo que no excederá los cuatro días siguientes a su celebración, recabándose el recibo correspondiente por el mismo medio.
 
 Aprobación de la última acta del Proceso Electoral.
 
@@ -691,11 +987,17 @@ X. DE LAS COMISIONES
 
 Nombramiento de comisiones.
 
-1. El Consejo podrá nombrar las comisiones que sean necesarias para vigilar y organizar el adecuado desempeño de sus atribuciones, con el número de integrantes que para cada caso acuerde.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
 
-Participación de Representantes en comisiones.
+1. El Consejo podrá nombrar las comisiones que sean necesarias para vigilar y organizar el adecuado desempeño de sus atribuciones, con el número de personas integrantes que para cada caso acuerde.
 
-2. Los Representantes, podrán participar en los trabajos de las comisiones de conformidad a lo establecido en la Ley electoral, el Reglamento Interior y el presente Reglamento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Participación de las personas representantes en comisiones
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Las personas representantes, podrán participar en los trabajos de las comisiones de conformidad a lo establecido en la Ley electoral, el Reglamento Interior y el presente Reglamento, con excepción de las que se creen con motivo de los procesos electorales de personas juzgadoras.
 
 No tendrán derecho a votar en la toma de decisiones de las comisiones.
 
@@ -761,7 +1063,9 @@ XII. DE LAS REFORMAS AL REGLAMENTO
 
 1. El Consejo General podrá reformar el contenido del Presente Reglamento cuando se requiera derivado del funcionamiento de los Consejos Locales o Distritales, o cuando se susciten reformas a la legislación electoral que implique modificaciones a este instrumento.
 
-2. Los integrantes de los Consejos Locales y Distritales, por conducto de su Presidente, podrán presentar propuestas de Reforma a este Reglamento.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+2. Las personas integrantes de los Consejos Locales y Distritales, por conducto de su Presidencia, podrán presentar propuestas de Reforma a este Reglamento.
 
 Segundo.- El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su aprobación por el Consejo General.
 
@@ -920,3 +1224,15 @@ D.O.F. 12 DE SEPTIEMBRE DE 2017.
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO TERCERO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 TERCERO. Las reformas aprobadas por el presente Acuerdo entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, por ende, se ordena la misma en forma inmediata. Asimismo, publíquese en la Gaceta y el portal de internet www.ine.mx.
+
+D.O.F. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL”.]
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se encuentren en la normativa interna de este Instituto Nacional Electoral y que sea facultad de este Consejo General su modificación, que se opongan a la presente reforma al Reglamento de Sesiones de los Consejos Locales y Distritales.
+
+TERCERO. Las reformas y adiciones aprobadas por el presente Acuerdo entrarán en vigor al día siguiente de su aprobación por este Consejo General.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación; la Gaceta Electoral; el portal de internet del Instituto y en el portal Norma INE.
