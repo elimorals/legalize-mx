@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2024-11-13"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -487,9 +487,9 @@ No podrán ser electos diputados:
 
 I.- Los ciudadanos que tengan mando de fuerza pública en el Estado;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-II. Los funcionarios de la Federación; los titulares de las dependencias básicas y de las entidades de la organización administrativa del Ejecutivo y los ayuntamientos; los integrantes del Órgano de Administración Judicial; las magistradas y magistrados del Tribunal de Disciplina Judicial; las juezas y jueces, magistradas y magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de Justicia Administrativa; el Fiscal General del Estado;
+II.- Los funcionarios de la Federación, los titulares de las dependencias básicas y de las entidades de la organización administrativa del Ejecutivo y los ayuntamientos, los consejeros del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal en materia Anticorrupción y Administrativa;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -871,9 +871,9 @@ XXIII.- Nombrar a las personas que cubran las vacantes temporales de alguno de l
 
 XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-XXIII A.- Elegir, reelegir y privar del encargo, a los Magistrados del Tribunal de Justicia Administrativa, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
+XXIII-A.- Elegir, reelegir y destituir del encargo, a las magistradas y magistrados del Tribunal en materia Anticorrupción y Administrativa, y aprobar o negar las solicitudes de licencia y renuncia de los mismos;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1029,9 +1029,9 @@ a).- Los que tengan mando de fuerza pública;
 
 b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal;
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-c) Los titulares de las dependencias básicas del Ejecutivo; los integrantes del Órgano de Administración Judicial; las magistradas y magistrados del Tribunal de Disciplina Judicial; las juezas y jueces, magistradas y magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral, del Tribunal de Justicia Administrativa; el Fiscal General del Estado; y,
+c).- Los titulares de las dependencias básicas del Ejecutivo; los Magistrados del Supremo Tribunal de Justicia, del Tribunal en materia Anticorrupción y Administrativa y del Tribunal Electoral; los Consejeros del Poder Judicial; el Fiscal General del Estado; y,
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -1423,11 +1423,11 @@ La duración de las campañas para los cargos señalados en el presente artícul
 
 #### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 70.
 
-La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, en el Tribunal Electoral y en el Tribunal de Justicia Administrativa, en el ámbito de su competencia y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
+La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, en el Tribunal Electoral y en el Tribunal en materia Anticorrupción y Administrativa, en el ámbito de su competencia y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1779,31 +1779,27 @@ Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control
 
 ### CAPITULO I. De los Organismos Autónomos
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-#### SECCION I. Del Tribunal de Justicia Administrativa
+#### SECCION I. Del Tribunal en Materia Anticorrupción y Administrativa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 95.
 
-El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia, legalidad y perspectiva de género. Se integrará por cinco magistrados, de entre los cuales uno será su Presidente electo por sus pares, en los términos que disponga la Ley.
+El Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, será un órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia, legalidad y perspectiva de género.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+Se integrará por cinco magistradas o magistrados, los que conocerán de materia de anticorrupción, responsabilidades administrativas y materia administrativa ordinaria, de entre los cuales uno será su Presidente, electo por sus pares en los términos que disponga la Ley.
 
 Tendrá competencia para dirimir y resolver, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal entre el Poder Ejecutivo, los ayuntamientos, los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales y los particulares.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+Será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la Ley determine como graves, y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales. Lo anterior no será aplicable a los servidores públicos que formen parte del Poder Judicial del Estado, quienes se regirán en términos de su propio Tribunal de Disciplina Judicial.
 
-Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
+Para ser Magistrada o Magistrado del Tribunal en materia Anticorrupción y Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrada o Magistrado del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+El Poder Legislativo elegirá a las magistradas o magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública y observando el principio de paridad de género. Las magistradas o magistrados tendrán un periodo constitucional de nueve años en el ejercicio del cargo y podrán ser reelectos por una única ocasión. Al término de su periodo cesarán en sus funciones.
 
-Para ser Magistrado del Tribunal de Justicia Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública y observando el principio de paridad de género. Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesaran en sus funciones.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las mismas causas que señala el artículo 77 de esta Constitución y determinará su retiro forzoso de conformidad con el artículo 78 de esta Constitución.
+El Congreso del Estado conocerá de las quejas en contra de las magistradas o magistrados, y podrá privarlos de su encargo, en términos del Título Cuarto de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1845,7 +1841,9 @@ El Instituto Michoacano de Transparencia, Acceso a la Información y Protección
 
 Las comisiones de dictamen designadas propondrán al Pleno una terna por cada vacante de Comisionados a elegir. Una vez electos, en su caso, el Pleno procederá a la designación del Comisionado Presidente. Los comisionados durarán en su encargo tres años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V y VI del artículo 76 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, y podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución. En la conformación del organismo garante se procurará la equidad de género.
 
-Las resoluciones del Instituto son vinculatorias para los sujetos obligados. La Ley establecerá los medios de apremio para asegurar el cumplimiento de sus decisiones y, en su caso, denunciará ante el Tribunal de Justicia Administrativa a los sujetos obligados que las incumplieren. Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto y sus integrantes para el buen desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+Las resoluciones del Instituto son vinculatorias para los sujetos obligados. La Ley establecerá los medios de apremio para asegurar el cumplimiento de sus decisiones y, en su caso, denunciará ante el Tribunal en materia Anticorrupción y Administrativa a los sujetos obligados que las incumplieren. Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto y sus integrantes para el buen desempeño de sus funciones.
 
 El organismo garante tendrá un Consejo Consultivo integrado por cinco Consejeros, quienes desempeñaran el cargo de manera honorífica, los cuales serán electos por el voto de dos terceras partes de los miembros presentes del Congreso del Estado.
 
@@ -2089,29 +2087,39 @@ El procedimiento de juicio político estará reglamentado por la Ley.
 
 Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia serán definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 109.
 
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior de Michoacán y los órganos internos de control estatales o municipales, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior de Michoacán y los órganos internos de control estatales o municipales, según corresponda, y serán resueltas por el Tribunal en materia Anticorrupción y Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
-El Tribunal de Justicia Administrativa impondrá a los servidores públicos sanciones que consistirán en apercibimiento, amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+El Tribunal en materia Anticorrupción y Administrativa impondrá a los servidores públicos sanciones que consistirán en apercibimiento, amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 A los particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, podrá imponerles las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Además de lo anterior, a las personas morales también podrá ordenársele la suspensión de actividades, disolución o intervención de la sociedad; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 Los procedimientos para la aplicación de las sanciones mencionadas con anterioridad se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia este artículo. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-Artículo 109 bis.- Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y, en su caso, municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+Artículo 109 bis.- Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal en materia Anticorrupción y Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y, en su caso, municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Artículo 109 ter.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de: Auditoría Superior de Michoacán, Fiscalía Especializada en Combate a la Corrupción y el Órgano de Control Interno del Ejecutivo Estatal; el Presidente del Tribunal de Justicia Administrativa y del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales; por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana; así como tres titulares de las contralorías municipales, electos por sus pares;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de: Auditoría Superior de Michoacán, Fiscalía Especializada en Combate a la Corrupción y el Órgano de Control Interno del Ejecutivo Estatal; el Presidente del Tribunal en materia Anticorrupción y Administrativa y del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales; por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana; así como tres titulares de las contralorías municipales, electos por sus pares;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que acrediten conocimiento y/o contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley; y,
 
@@ -2567,7 +2575,9 @@ La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gest
 
 Sin perjuicio del principio de anualidad, la Auditoría Superior de Michoacán podrá solicitar y revisar de manera casuística y concreta, la información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que respectivamente la Auditoría Superior de Michoacán emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior de Michoacán, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior de Michoacán rendirá un informe específico al Congreso del Estado de Michoacán de Ocampo y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior de Michoacán, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior de Michoacán rendirá un informe específico al Congreso del Estado de Michoacán de Ocampo y, en su caso, promoverá las acciones que correspondan ante el Tribunal en materia Anticorrupción y Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -2587,27 +2597,31 @@ III. Fiscalizar los fondos y valores públicos que ejerzan los particulares;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-IV.- De conformidad con lo que disponga el Congreso del Estado de Michoacán de Ocampo, suscribir convenios con la Auditoría Superior de la Federación para la fiscalización de recursos federales, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, recursos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades;
+IV. De conformidad con lo que disponga el Congreso del Estado de Michoacán de Ocampo, suscribir convenios con la Auditoría Superior de la Federación para la fiscalización de recursos federales, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, recursos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-V.- Entregar al Congreso del Estado de Michoacán de Ocampo, el informe general ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno del Congreso del Estado de Michoacán de Ocampo. El Informe General Ejecutivo será de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior de Michoacán, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+V. Entregar al Congreso del Estado de Michoacán de Ocampo, el informe general ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno del Congreso del Estado de Michoacán de Ocampo. El Informe General Ejecutivo será de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior de Michoacán, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
 Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que presenten las justificaciones y aclaraciones que correspondan.
 
-Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado de Michoacán, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal en materia Anticorrupción y Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
 La Auditoría Superior de Michoacán deberá pronunciarse en un plazo de ciento veinte días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrá por atendidas las recomendaciones y acciones promovidas.
 
 En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior de Michoacán las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
 
-La Auditoría Superior de Michoacán deberá entregar al Congreso del Estado de Michoacán de Ocampo, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes. Dicho informe tendrá carácter público e incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Michoacán.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+La Auditoría Superior de Michoacán deberá entregar al Congreso del Estado de Michoacán de Ocampo, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes. Dicho informe tendrá carácter público e incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal en materia Anticorrupción y Administrativa;
 
 VI. Investigar los actos u omisiones que pudieran implicar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-VII. Imponer los medios de apremio que establezca la ley; y derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Michoacán y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos;
+VII. Imponer los medios de apremio que establezca la ley; y derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal en materia Anticorrupción y Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos;
 
 VIII. Presentar al Congreso del Estado el proyecto de plan anual de fiscalización;
 
@@ -4268,3 +4282,29 @@ DÉCIMO. Conforme al Artículo Transitorio Décimo del Decreto por el que se ref
 DÉCIMO PRIMERO. El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la normativa que correspondan para dar cumplimiento al mismo. En tanto, se aplicarán las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
 
 DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 05 POR EL QUE "SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 24; LA FRACCIÓN XXIII A DEL ARTÍCULO 44; EL INCISO C) DE LA FRACCIÓN II, DEL ARTÍCULO 50; EL ARTÍCULO 70; LA DENOMINACIÓN DE LA SECCIÓN I, DEL CAPÍTULO I, DEL TÍTULO TERCERO A; EL ARTÍCULO 95; EL CUARTO PÁRRAFO DEL ARTÍCULO 97; EL PRIMERO Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 109; EL ARTÍCULO 109 BIS; LA FRACCIÓN I DEL ARTÍCULO 109 TER; ÚLTIMO PÁRRAFO DEL ARTÍCULO 133; TERCERO Y SEXTO PÁRRAFOS DE LA FRACCIÓN V, Y LA FRACCIÓN VII DEL ARTÍCULO 134, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, sustituirá las funciones que desempeñaba el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+
+Todo lo relacionado legalmente al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, será substanciado, tramitado y resuelto por el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo.
+
+TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigencia de la presente reforma, se seguirán sustanciando conforme a las disposiciones normativas vigentes al momento de la concurrencia de los hechos que los suscitaron.
+
+CUARTO. Los recursos humanos, financieros, materiales, bienes muebles e inmuebles del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, pasarán a formar parte desde la entrada en vigor del presente Decreto al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo. El Órgano Interno de Control y la Secretaría de Administración, deberán llevar a cabo las acciones necesarias para la transferencia de dichos recursos en el ámbito de sus competencias.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto, el Congreso del Estado contará con un plazo de ciento veinte días hábiles para iniciar el proceso de designación de quienes ocuparán las titularidades de las Magistraturas que habrán de integrar el Pleno del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, en los términos que establece esta Constitución.
+
+Una vez que el Congreso del Estado realice la designación de los cinco nuevos Magistrados que habrán de integrar el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, dejarán de surtir efecto los nombramientos de los Magistrados integrantes del extinto Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+
+SEXTO. El Pleno del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, deberá de emitir un programa de liquidación conforme al cual se realizarán las indemnizaciones correspondientes, tomando en consideración el tiempo restante de cada Magistrado, y de acuerdo a la suficiencia presupuestal con la que cuente el órgano constitucional autónomo, en los términos de lo establecido en el Presupuesto de Egresos para el ejercicio fiscal correspondiente.
+
+SÉPTIMO. El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la normativa que correspondan para dar cumplimiento al mismo. Hasta en tanto se emitan nuevas disposiciones, los nuevos integrantes del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, deberán apegar sus funciones en lo que corresponda a la legislación vigente.
+
+OCTAVO. El Congreso del Estado deberá realizar las acciones necesarias para que se asigne dentro del Presupuesto de Egresos del Estado de Michoacán al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, los recursos que le correspondían al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, esto con el objeto de que se respete la autonomía constitucional de este organismo.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
