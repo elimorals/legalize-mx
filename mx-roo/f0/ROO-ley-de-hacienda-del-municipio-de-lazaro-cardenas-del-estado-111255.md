@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2024-06-05"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -147,9 +147,13 @@ Son sujetos por deuda ajena y responsabilidad sustituta del Impuesto Predial, lo
 
 #### SECCIÓN III. BASE Y TASA DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 12.
 
-La base del impuesto en los predios urbanos y rústicos será elegida entre el valor catastral, el bancario, el declarado por el contribuyente o la renta que produzca o sea susceptible de producir el predio, tomando en consideración el valor más alto.
+La base del impuesto en los predios urbanos y rústicos será elegida entre el valor catastral, el bancario, el último valor declarado por el contribuyente o la renta que produzca o sea susceptible de producir el predio, tomando en consideración el valor más alto.
+
+Para los efectos de la presente Ley, se entiende por valor declarado, al valor monetario declarado ante la autoridad Municipal, que consta en el instrumento público o título de propiedad, conforme al avalúo con la validación correspondiente conforme la ley de la materia y demás disposiciones aplicables; por el cual se formaliza el acto traslativo de dominio.
 
 ###### Artículo 13.
 
@@ -169,17 +173,19 @@ El Impuesto Predial se determinará, liquidará y recaudará de acuerdo con las 
 
 #### SECCIÓN IV. PAGO DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 15.
 
-El valor Catastral de los predios será determinado por las Unidades de Valuación Catastral Municipal, o en caso de no existir, por la Dirección General de Catastro del Estado.
+El valor Catastral de los predios será determinado por la Dirección de Catastro de la Tesorería Municipal, de conformidad con la normatividad en materia catastral y demás disposiciones aplicables.
 
 ###### Artículo 16.
 
 El Impuesto Predial se cubrirá por bimestres adelantados en los diez primeros días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-Cuando el impuesto causado sea cubierto en una sola emisión por anticipado, cubra todo el año y sea enterado en la tesorería municipal, el Ayuntamiento podrá conceder un descuento de hasta el 25% del importe total, pudiendo ofrecer diversos porcentajes de descuento dentro de los meses de enero a marzo de cada ejercicio fiscal, en los términos que el propio Ayuntamiento determine.
+El pago anticipado de este impuesto no impide el cobro de diferencias que deba hacer la Tesorería Municipal por cambios de la base gravable, a partir de la declaración de la operación de traslado de dominio o desde que haya experimentado una actualización en el valor catastral.
 
 #### SECCIÓN V. DE LAS EXENCIONES
 
@@ -195,9 +201,11 @@ III. El fundo legal, y
 
 IV. La propiedad comunal ejidal, parcelaria, cuando éstos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de solares urbanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal, se faculta al Ayuntamiento a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectué antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, hasta un 15% de descuento del total del importe, previo acuerdo del Ayuntamiento.
+Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal, se faculta al Ayuntamiento a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectué antes del 31 de enero; si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, hasta un 15% de descuento del total del importe, y hasta un 10% de descuento del total del importe si el pago se realiza entre el primero y treinta y uno de marzo; previo acuerdo del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -215,9 +223,11 @@ El impuesto afecta directamente a los predios sea quien fuere su propietario o p
 
 La cuota del impuesto sobre la base del valor catastral, cuando se trate de avalúo o reavalúo del predio, entrará en vigor a partir del bimestre siguiente al de la fecha en que se practique el avalúo o reavalúo conforme a esta ley, siempre que el contribuyente cumpla con lo dispuesto en el artículo 21.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 21.
 
-Los avalúos realizados por la Dirección de Catastro del Municipio de Lázaro Cárdenas, o en caso de no existir, por la Dirección General de Catastro del Estado, tendrán una vigencia de dos años, excepto cuando las construcciones existentes sufran alguna modificación y se realicen obras públicas o privadas que alteren el valor de los predios ubicados en dichas zonas; en este caso, las modificaciones a los avalúos deberán realizarse en cuanto se dé alguno de los supuestos antes mencionados, por lo que en el bimestre anterior a su vencimiento el dueño o poseedor del predio tiene la obligación de solicitar el avalúo. La simple notificación del reavalúo será suficiente para la aplicación y cobro del impuesto.
+Los avalúos realizados por la Dirección de Catastro del Municipio de Lázaro Cárdenas, tendrán una vigencia anual, o cuando fuesen afectados por cualquier factor que modifique los elementos que caracterizan el bien inmueble, por lo que en el bimestre anterior a su vencimiento el dueño o poseedor del predio tiene la obligación de solicitar el avalúo. La simple notificación del reavalúo será suficiente para la aplicación y cobro del impuesto.
 
 ###### Artículo 22.
 
@@ -973,7 +983,7 @@ Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que 
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 118 A LA 121.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 38 A LA 39; 17 DE DICIEMBRE DE 2022, PÁGINA 124.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 38 A LA 39; 17 DE DICIEMBRE DE 2022, PÁGINA 124; 13 DE DICIEMBRE DE 2024, PÁGINA 27.]</small>
 
 Artículo 84 (SIC).- Concluido el plazo que establece el artículo anterior, los alineamientos podrán refrendarse en los términos y bajo las condiciones siguientes:
 
@@ -2218,3 +2228,11 @@ P.O. 5 DE JUNIO DE 2024.
 PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 060 POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
