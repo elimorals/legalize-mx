@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2024-01-29"
+last_updated: "2024-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN EL 29 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -519,9 +517,11 @@ Al archivista de Sala o escribiente que haya sido designado con esa actividad, l
 
 Para los efectos de la impartición y administración de justicia en Primera Instancia, el Estado se divide en los distritos judiciales de: Apatzingán, Ario, Arteaga, Coahuayana, Coalcomán, Hidalgo, Huetamo, Jiquilpan, La Piedad, Lázaro Cárdenas, Los Reyes, Maravatío, Morelia, Pátzcuaro, Puruándiro, Sahuayo, Tacámbaro, Tanhuato, Uruapan, Zacapu, Zamora, Zinapécuaro y Zitácuaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-Los distritos judiciales comprenden los municipios siguientes:
+Los distritos judiciales para la Primera Instancia comprenden los siguientes municipios:
 
 I. Distrito de Apatzingán: Aguililla, Apatzingán, Buenavista, Múgica, Parácuaro y Tepalcatepec;
 
@@ -531,11 +531,13 @@ III. Distrito de Arteaga: Arteaga y Tumbiscatío;
 
 IV. Distrito de Coahuayana: Aquila y Coahuayana;
 
-V. Distrito de Coalcomán: Coalcomán de Vázquez Paliares y Chinicuila;
+V. Distrito de Coalcomán: Coalcomán de Vázquez Pallares y Chinicuila;
 
 VI. Distrito de Hidalgo: Hidalgo e Irimbo;
 
-VII. Distrito de Huetamo: Huetamo, San Lucas y Tiquicheo de Nicolás Romero;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+VII. Distrito de Huetamo: Carácuaro, Huetamo, Nocupétaro, San Lucas y Tiquicheo de Nicolás Romero;
 
 VIII. Distrito de Jiquilpan: Chavinda, Jiquilpan, Marcos Castellanos, Pajacuarán, Venustiano Carranza y Villamar;
 
@@ -555,7 +557,9 @@ XV. Distrito de Puruándiro: Angamacutiro, Huaniqueo, José Sixto Verduzco, More
 
 XVI. Distrito de Sahuayo: Briseñas, Régules y Sahuayo;
 
-XVII. Distrito de Tacámbaro: Carácuaro, Nocupétaro, Tacámbaro y Turicato;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+XVII. Distrito de Tacámbaro: Tacámbaro y Turicato;
 
 XVIII. Distrito de Tanhuato: Tanhuato, Vista Hermosa y Yurécuaro;
 
@@ -568,6 +572,32 @@ XXI. Distrito de Zamora: Cherán, Chilchota, Ecuandureo, Ixtlán, Jacona, Purép
 XXII. Distrito de Zinapécuaro: Álvaro Obregón, Indaparapeo, Queréndaro y Zinapécuaro; y,
 
 XXIII. Distrito de Zitácuaro: Angangueo, Juárez, Jungapeo, Ocampo, Susupuato, Tuxpan, Tuzantla y Zitácuaro.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+La impartición y administración de justicia en Segunda Instancia funcionará con Salas Penales Unitarias y Salas Civiles colegiadas, integradas por tres Magistradas o Magistrados cada una, y conocerán de las materias civil, mercantil y familiar, que serán determinadas en número y competencia por el órgano competente.
+
+Las Salas Penales Unitarias y las Salas Civiles Colegiadas se distribuirán en siete regiones judiciales:
+
+I. Apatzingán, que se integrará con los distritos judiciales de Apatzingán, Ario y Coalcomán;
+
+II. Lázaro Cárdenas, que se integrará con los distritos judiciales de Arteaga, Coahuayana y Lázaro Cárdenas;
+
+III. Morelia, que se integrará con los distritos judiciales de Morelia, Pátzcuaro y Zinapécuaro.
+
+IV. Uruapan, que se integrará con los distritos judiciales de Los Reyes, Tacámbaro y Uruapan;
+
+V. La Piedad, que se integrará con los distritos judiciales de Jiquilpan, La Piedad, Puruándiro, Tanhuato y Sahuayo;
+
+VI. Zamora, que se integrará con los distritos judiciales de Zacapu y Zamora; y,
+
+VII. Zitácuaro, que se integrará con los distritos judiciales de Hidalgo, Huetamo, Maravatío y Zitácuaro.
+
+Cada región judicial funcionará con una sala penal unitaria y una sala civil colegiada, con excepción de la región Morelia que funcionará con dos salas unitarias en materia penal y dos salas colegiadas en materia civil y operarán equitativamente en cargas de trabajo conforme al turno respectivo.
+
+El lugar sede de las salas penales unitarias y las salas civiles colegiadas para cada región, será en el de su denominación.
 
 ###### Artículo 37.
 
@@ -2462,3 +2492,11 @@ El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Mic
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 95 POR EL QUE "SE REFORMAN LAS FRACCIONES VII Y XVII DEL ARTÍCULO 36 Y SE ADICIONA UN ARTÍCULO 36 BIS, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El funcionamiento integral y operativo de las Salas Regionales en Materia Civil será atendiendo a los plazos, términos y condiciones establecidos en los transitorios del Decreto 03 publicado en el Periódico Oficial del Estado el 14 de noviembre de 2024, mediante el cual se reforman, derogan y adicionan distintas disposiciones de la Constitución Política del Estado de Michoacán de Ocampo en Materia del Poder Judicial.
