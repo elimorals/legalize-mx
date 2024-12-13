@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2023-07-19"
+last_updated: "2024-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -359,11 +359,9 @@ III. Llevar a cabo los registros del estado civil de las personas, así como sup
 
 IV. Extender y autorizar las actas del estado civil, relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, y defunciones; así como la inscripción de actos y hechos de mexicanos celebrados en el extranjero;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO 388 PUBLICADO P.O. 31 DE DICIEMBRE DE 2013 Y REFORMADO POR P.O. 18 DE NOVIEMBRE DE 2014.</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-V. Inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio necesario o voluntario por cualquiera de las formas previstas, adopción, la tutela o la interdicción, además en las que así lo ordene la autoridad judicial;
+V. Inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio incausado o voluntario por cualquiera de las formas previstas, adopción, la tutela o la interdicción, además en las en que así lo ordene la autoridad judicial;
 
 VI. Exigir el cumplimiento de los requisitos del Código Familiar para el Estado, y demás normatividad aplicable, que se señalan para los actos y hechos sujetos al registro civil;
 
@@ -525,11 +523,9 @@ V. En casos extraordinarios el Director del Registro Civil.
 
 Los oficiales tendrán fe pública en el desempeño de las labores propias de su cargo, y sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren, y lo que esté expresamente previsto por la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO 388 PUBLICADO P.O. 31 DE DICIEMBRE DE 2013 Y REFORMADO POR P.O. 18 DE NOVIEMBRE DE 2014.</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción, las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, la nulidad de matrimonio, el divorcio necesario, o voluntario en cualquiera de las formas previstas, la adopción, la nulidad de reconocimiento de hijas, o hijos, y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de las actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos en el extranjero.
+Serán objeto de inscripción en el Registro Civil, el nacimiento, el reconocimiento de hijos, el matrimonio, la defunción, las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, la nulidad de matrimonio, el divorcio incausado, o voluntario en cualquiera de las formas previstas, la adopción, la nulidad de reconocimiento de hijas, o hijos, y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de las actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos en el extranjero.
 
 ###### ARTÍCULO 36.
 
@@ -1099,11 +1095,11 @@ Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acue
 
 ### CAPÍTULO VII. De las Actas de Defunción; y Actuaciones Relativas
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 111.
 
-En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la Clave Única del Registro Nacional de Población si la tuvieren, y los datos de ubicación de las actas de nacimiento de los divorciados. Tratándose de divorcio necesario, o voluntario en la vía judicial, la parte resolutiva de la sentencia judicial ejecutoria que lo decretó, fecha de la misma y la autoridad que la dictó; en los casos de divorcio administrativo, el acuerdo pronunciado, la fecha, y la autoridad del Registro Civil que emitió tal acuerdo.
+En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la Clave Única del Registro Nacional de Población si la tuvieren, y los datos de ubicación de las actas de nacimiento de los divorciados. Tratándose de divorcio incausado, o voluntario en la vía judicial, la parte resolutiva de la sentencia judicial ejecutoria que lo decretó, fecha de la misma y la autoridad que la dictó; en los casos de divorcio administrativo, el acuerdo pronunciado, la fecha, y la autoridad del Registro Civil que emitió tal acuerdo.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
@@ -1734,3 +1730,11 @@ P.O. 19 DE JULIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0021.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 29, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 Y EL ARTÍCULO 111, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
