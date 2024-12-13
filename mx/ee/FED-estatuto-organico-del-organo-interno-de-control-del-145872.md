@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-organo-interno-de-control-del-145872"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-01-08"
-last_updated: "2021-01-08"
+last_updated: "2024-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145872&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-12-24"
 
 ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 8 de enero de 2021.
 
@@ -249,7 +249,11 @@ Para el ejercicio de sus facultades y para el cumplimiento de cualquier requerim
 
 La persona titular del OIC podrá expedir acuerdos generales que suspendan plazos legales y normativos, suspendan los efectos de los días hábiles o señalen días hábiles adicionales, cuando las circunstancias generales imperantes lo ameriten o esté en curso un proceso electoral federal o local. Las personas titulares de las unidades del OIC o de las direcciones adscritas a ellas, podrán también autorizar por escrito días y horas hábiles exclusivamente para diligencias específicas, cuando las circunstancias del caso concreto lo requieran.
 
-La Oficina de Correspondencia del OIC ofrecerá atención de lunes a viernes de las 9:00 a las 18:00 horas. En el caso de la correspondencia recibida o remitida fuera de dicho horario, a través del Sistema de Archivos Institucional (SAI) o mediante correo electrónico, se entenderá hecha el día hábil inmediato siguiente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+El Área de Correspondencia del OIC ofrecerá atención de lunes a viernes de las 9:00 a las (sic)
+
+El Área de Correspondencia del OIC ofrecerá atención de lunes a viernes de las 9:00 a las 18:00 horas. En el caso de la correspondencia recibida o remitida fuera de dicho horario, a través del Sistema de Archivos Institucional (SAI) o mediante correo electrónico, se entenderá hecha el día hábil inmediato siguiente.
 
 ### Capítulo III. De las condiciones generales de trabajo de las y los integrantes del OIC
 
@@ -291,7 +295,9 @@ Dentro del año siguiente a la conclusión de sus funciones, las personas servid
 
 Durante un año posterior a la separación de su cargo, las personas servidoras públicas de mando medio y superior que laboren en las unidades administrativas del Instituto y hayan ejercido funciones relacionadas con el manejo de ingresos y egresos de recursos públicos o, desempeñando otro tipo de funciones, su gestión se encuentre en proceso de fiscalización o investigación del OIC, no podrán ser contratadas para laborar en el OIC.
 
-Estos impedimentos no aplicarán para el caso de las designaciones y nombramientos que la ley reserva a la Cámara de Diputados o al Consejo General del Instituto.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+Estos impedimentos no aplicarán para el caso de las designaciones y nombramientos que la ley reserva a la Cámara de Diputados, al Consejo General del Instituto Nacional Electoral, a su Consejera Presidenta o Consejero Presidente, así como a las que realicen directamente las y los titulares de las Direcciones Ejecutivas y Unidades Técnicas o sus homólogos.
 
 ### Capítulo IV. De la estructura orgánica y ocupacional del OIC
 
@@ -331,7 +337,9 @@ b) Dirección de Desarrollo Administrativo; y
 
 IV. Coordinación Técnica y de Gestión.
 
-La Oficina de Correspondencia estará adscrita directamente a la persona titular del OIC, quien se auxiliará de la persona titular de la Secretaría Particular para coordinar y supervisar las funciones de dicha oficina respecto a la recepción, turno y distribución de los documentos que sean presentados ante el OIC.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2024)</small>
+
+El Área de Correspondencia estará adscrita directamente a la persona titular del OIC, quien se auxiliará de la persona titular de la Secretaría Particular para coordinar y supervisar las funciones de dicha área respecto a la recepción, registro, turno, y distribución de los documentos que sean presentados ante el OIC.
 
 ### Capítulo V. De las atribuciones de la persona titular del OIC
 
@@ -918,3 +926,7 @@ t) Las demás que le confiera la normatividad aplicable o le instruya por escrit
 Único.- En tanto se expiden y entran en vigor los Lineamientos del Servicio Profesional de Carrera del personal del OIC, las vacantes de los cargos y puestos del OIC seguirán siendo cubiertas mediante la designación directa por parte de la persona titular del OIC. En los casos cuya candidata o candidato no cuenten con el perfil académico del cargo o puesto, este requisito podrá ser suplido de manera excepcional con la valoración de su experiencia y trayectoria laboral o profesional en la materia de que se trate, siempre y cuando las funciones a realizar lo permitan.
 
 Jesús George Zamora.- Firmado electrónicamente.
+
+D.O.F. 13 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. EL ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
