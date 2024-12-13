@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2024-07-22"
+last_updated: "2024-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -305,9 +305,19 @@ XI. Registrar los títulos o cédulas de abogados expedidos legalmente;
 
 XII. Hacer del conocimiento del Consejo de la Judicatura, las faltas absolutas de los jueces, para efectos de que se nombre al sustituto respectivo;
 
-XIII. Conceder licencias con goce de sueldo a los magistrados hasta por cinco días, y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
-XIV. Las demás que le confiere la presente Ley.
+XIII. Conceder licencias con goce de sueldo a los magistrados hasta por cinco días;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+XIV. Designar el área que deberá elaborar y administrar el Padrón Estatal de Personas Deudoras Alimentarias Morosas, el cual se organizará y funcionará de acuerdo con lo que disponga el Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
+
+XV. Ordenar al área que se designe para el efecto, suministre, sistematice, y actualice la información al Registro Nacional de Obligaciones Alimentarias, y
+
+XVI. Las demás que le confiere la presente Ley.
 
 ### CAPITULO III. De la Secretaría del Supremo Tribunal de Justicia
 
@@ -2942,3 +2952,11 @@ De igual manera, en su caso, se deberá convenir con la institución financiera 
 El porcentaje de los pasivos y deuda pública deberá ser determinado entre el Ayuntamiento de San Luis Potosí, el Concejo Municipal del nuevo Municipio de Villa de Pozos, la Comisión de Hacienda del Estado del Congreso del Estado, y la Secretaría de Finanzas del Gobierno del Estado.
 
 DÉCIMO NOVENO. El Congreso del Estado Libre y Soberano de San Luis Potosí, tendrá facultades para dictar las normas interpretativas y aclaratorias al presente Decreto que resulten necesarias para su adecuada aplicación y vigencia.
+
+P.O. 13 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0020.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 17 Y ADICIONAN LAS FRACCIONES XIV Y XV, DEL MISMO ARTÍCULO 17, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
