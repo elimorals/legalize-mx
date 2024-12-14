@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2024-08-24"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -1235,15 +1235,19 @@ El certificado será el documento por el cual los particulares podrán beneficia
 
 La Gobernadora (or), a través de la Secretaría en coordinación con el IMADES, establecerán el Fideicomiso Ambiental para la investigación, estudio y atención de asuntos en materia ambiental que se consideren de interés para el Estado. La creación del fideicomiso se inscribe en la estrategia estatal para el financiamiento a la gestión ambiental y tendrá las siguientes atribuciones:
 
-I. Seguir los lineamientos establecidos por el Comité Nacional del Sistema de Fondos Ambientales;
+I. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2024)
 
 II. Planear y programar las actividades y presupuestos anuales de ingresos y egresos del Fideicomiso Ambiental;
 
-III. Establecer los lineamientos de operación, mediante un comité técnico, que sean congruentes con el Sistema de Fondos Ambientales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+III. Establecer los lineamientos de operación, a través del Comité Técnico del Fideicomiso Ambiental;
 
 IV. Evaluar la actuación del fiduciario y, en su caso, promover la instrumentación de medidas preventivas y correctivas;
 
-V. Captar recursos fiscales federales, estatales, donaciones privadas, aportaciones de municipios y créditos, canalizándolos a los proyectos ambientales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+V. Captar recursos fiscales federales, estatales, donaciones de personas físicas y morales nacionales e internacionales, aportaciones de municipios y créditos, canalizándolos a los proyectos ambientales susceptibles de financiar;
 
 VI. Promover las donaciones de instituciones o personas nacionales o internacionales;
 
@@ -1257,15 +1261,23 @@ X. Establecer las mezclas y recursos en el financiamiento de los proyectos de ac
 
 XI. Establecer y controlar la cartera de proyectos ambientales;
 
-XII. Acatar las normas y políticas establecidas en materia de contrataciones, adquisiciones y obra pública, para la utilización de los recursos que asigne el Comité Nacional o que provengan del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
-XIII. Proceder conforme a los lineamientos para la selección y evaluación de los proyectos que se financiarán;
+XII. Acatar las normas y políticas establecidas en materia de contrataciones, adquisiciones y obra pública, para la utilización de los recursos que integran el fideicomiso ambiental;
 
-XIV. Vigilar la operación y funcionamiento de los proyectos y aplicar, en su caso, las medidas correctivas necesarias, mediante un sistema de información congruente con los lineamientos del Comité Nacional;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+XIII. Proceder conforme a los lineamientos para la selección, evaluación y seguimiento de los proyectos que se financiarán;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+XIV. Vigilar la operación y funcionamiento de los proyectos financiados y aplicar, en su caso, las medidas correctivas necesarias, mediante los métodos y herramientas aprobados por el Comité Técnico del Fideicomiso Ambiental;
 
 XV. Promover la realización de auditorias anuales al Fideicomiso Ambiental;
 
-XVI. Proporcionar información al Comité Nacional;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+XVI. Proporcionar información cuando se solicite con las formalidades previstas por las normas legales aplicables para cada caso; y
 
 XVII. Las demás que establezca su reglamento interior.
 
@@ -1293,9 +1305,21 @@ IX. El apoyo al desarrollo de programas de educación e investigación en materi
 
 X. La prevención y control de la contaminación atmosférica, de suelos y de agua;
 
-XI. Los incentivos a la aplicación de tecnología ambiental; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
-XII. La vigilancia del cumplimiento de los convenios con los sectores productivos y académicos.
+XI. Los incentivos a la aplicación de tecnología ambiental;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+XII. La vigilancia del cumplimiento de los convenios con los sectores productivo y académico;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+XIII. El fomento de Soluciones Basadas en la Naturaleza, actividades productivas regenerativas, actividades climáticamente inteligentes y medios de vida sostenibles, así como acciones que promuevan la resiliencia de los ecosistemas y su adaptación ante el cambio climático; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+XIV. La ejecución de acciones que impulsen el desarrollo comunitario y la reconversión productiva a prácticas sustentables.
 
 ###### ARTÍCULO 71.
 
@@ -1315,25 +1339,35 @@ V. Los recursos destinados para ese efecto en los presupuestos de egresos de la 
 
 VI. Los demás recursos que se generen por cualquier otro concepto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 72.
 
-El comité técnico del Fideicomiso Ambiental se integrará por:
+El Comité Técnico del Fideicomiso Ambiental se integrará por:
 
-I. Un Presidente, que será el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+I. Una Presidencia, que será la persona titular de la Secretaría;
 
-II. Una Secretaria (o) Técnica, que será la (el) titular del IMADES;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+II. Una Secretaría Técnica, que será la persona titular del IMADES;
 
-III. Cinco Vocales, que serán el Subsecretario de Desarrollo Rural, la Secretaria de Planeación, Finanzas y Administración, la Secretaria de Desarrollo Económico, así como un representante de los diez Ayuntamientos electos entre ellos; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
-IV. Cinco consejeros ciudadanos que, a invitación del titular de la Secretaría, serán: dos representantes del sector privado, dos representantes del sector social y un representante del sector académico, electos por las organizaciones de cada sector o entre las instituciones correspondientes.
+III. Cinco vocales, que serán las personas titulares de la Secretaría de Planeación, Finanzas y Administración, Secretaría de Desarrollo Económico, Subsecretaría de Desarrollo Rural, Subsecretaría de Turismo; así como una presidenta o presidente municipal que represente a los diez Ayuntamientos, que se elegirá de entre ellos, en caso de no haber un consenso, la Presidencia del Comité Técnico podrá realizar la designación directa;
 
-La Secretaría podrá invitar a las sesiones del fideicomiso al Delegado de la Secretaría del Medio Ambiente y Recursos Naturales y al Delegado de Procuraduría Federal de Protección al Ambiente con derecho a voz pero no de voto.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
-El comité técnico se regirá por el reglamento interior que al efecto se expida y contará con un Secretario Técnico, que será designado por el titular de la Secretaría.
+IV. Tres personas Consejeras Ciudadanas que, a invitación de la Presidencia serán: una persona representante del sector privado, una persona representante del sector social, y una persona representante del sector académico, electos entre ellos por las organizaciones de cada sector o entre las instituciones correspondientes. Las personas consejeras ciudadanas deberán tener asociada su actividad, así como ser un referente, en la investigación, cuidado o protección del medio ambiente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+La Presidencia podrá invitar a las sesiones del Comité Técnico del Fideicomiso Ambiental a la persona titular de la oficina de representación de la Secretaría de Medio Ambiente y Recursos Naturales en Colima y a la persona titular de la oficina de representación de la Procuraduría Federal de Protección al Ambiente en colima, con derecho a voz, pero no de voto.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2024)</small>
+
+El comité técnico se regirá por un reglamento interior que al efecto expida la persona titular del Poder Ejecutivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3434,5 +3468,11 @@ P.O. 2 DE DICIEMBRE DE 2023.
 P.O. 24 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 475.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 20, DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 25.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
