@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-etica-del-tribunal-estatal-electoral-del-estado-16767
 country: "mx"
 rank: "codigo"
 publication_date: "2023-08-30"
-last_updated: "2023-08-30"
+last_updated: "2024-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE ETICA DEL TRIBUNAL ESTATAL ELECTORAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL ESTATAL ELECTORAL DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL TRIBUNAL ESTATAL ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2024 (DEROGADO).
 
 Código publicado en el Anexo al no. 69 del Periódico Oficial del Estado de Chihuahua, el miércoles 30 de agosto de 2023.
 
@@ -528,3 +530,21 @@ Chihuahua, Chihuahua, a 28 de agosto del dos mil veintitrés.
 C.P. WENDY AZUCENA SOTO CISNEROS
 
 TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL ESTATAL ELECTORAL DE CHIHUAHUA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO N° AC 03/2024 POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL ESTATAL ELECTORAL”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado de Chihuahua, así como en la página oficial de internet del Tribunal Estatal Electoral, debiendo informarse al Pleno del Tribunal sobre su emisión.
+
+SEGUNDO.- El presente acuerdo deroga el Código de Ética de las Personas Servidoras Públicas del Tribunal Estatal Electoral publicado en el Periódico Oficial del Estado de Chihuahua en fecha 30 de agosto de 2023.
+
+TERCERO.- Deberá de entregarse un ejemplar del presente Código de Ética de manera impresa o electrónica a través de correo institucional a cada una de las personas servidoras públicas del Tribunal Estatal Electoral. En caso de personal de nuevo ingreso, deberá de hacerse del conocimiento del presente Código de Ética a más tardar dentro del término de 30 días naturales a partir de la fecha de ingreso de mismo.
+
+CUARTO.- El Órgano Interno de Control aprobará el Código de Conducta que emita el Tribunal Estatal Electoral, en cumplimiento a lo previsto en el artículo Decimoprimero del Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética publicado en el Diario Oficial de la Federación de 12 de octubre de 2018.
+
+QUINTO.- El pleno del Tribunal Electoral, deberá conformar el Comité de Ética en un plazo no mayor a 120 días naturales a la fecha en que el Órgano Interno de Control emita los Lineamientos Generales para la integración y funcionamiento del Comité de Ética.
+
+SEXTO.- Todo lo no contemplado en el presente Código de Ética y que pudiera ser constitutivo de alguna sanción por homologación, deberá de ser discutido por el Pleno que integra el Tribunal Estatal Electoral, con participación del Órgano Interno de Control para su conocimiento.
