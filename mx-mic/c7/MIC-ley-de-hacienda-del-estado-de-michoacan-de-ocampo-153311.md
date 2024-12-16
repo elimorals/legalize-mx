@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-153311"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-27"
-last_updated: "2023-12-20"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Décima Tercera Sección del Número 33 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 27 de diciembre de 2021.
 
@@ -291,13 +291,11 @@ De los recursos que se obtengan de la recaudación del impuesto sobre servicios 
 
 Se encuentran obligadas al pago del impuesto a la venta final de bebidas con contenido alcohólico, las personas físicas y morales que realicen en el territorio del Estado de Michoacán de Ocampo la venta final de bebidas con contenido alcohólico, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación al ser estos, campos exclusivos a gravar por la Federación.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
 Para efectos del presente impuesto, se entenderá como venta final, la enajenación que se efectúa en el territorio del Estado de Michoacán de Ocampo, cuando en este mismo territorio, se realice la entrega material de los bienes objeto de este Capítulo, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo.
-
-Asimismo, se considerará venta final, el faltante de inventario o el consumo propio de las bebidas con contenido alcohólico objeto del
-
-presente gravamen.
 
 Para los efectos de este artículo, se entenderá como bebidas con contenido alcohólico, aquellas que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
@@ -585,7 +583,9 @@ El impuesto se causará en el momento en que se realicen las erogaciones por el 
 
 I. Se harán pagos provisionales mensuales a más tardar el 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente, o a través de los medios electrónicos en los sitios de internet o en las sucursales de las instituciones autorizadas por el Servicio de Administración Tributaria del Estado de Michoacán de Ocampo; y,
 
-II. El impuesto correspondiente al ejercicio fiscal de que se trate deducidos los pagos provisionales, se pagará mediante declaración anual que se presentará en las oficinas señaladas en la fracción I anterior, deberá efectuarse mediante declaración anual, a más tardar el 31 de marzo del año siguiente a aquel en que se cause el impuesto.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+II. El impuesto correspondiente al ejercicio fiscal de que se trate, disminuidos los pagos provisionales, se pagará mediante declaración anual que se presentará en las oficinas señaladas en la fracción I anterior, deberá efectuarse mediante declaración anual, a más tardar el 31 de marzo del año siguiente a aquel en que se cause el impuesto.
 
 Cuando los días 17 y 31, a que se refieren las fracciones I y II anteriores, sean un día inhábil o las oficinas de la autoridad se encuentren cerradas; el plazo se prorrogará al día hábil siguiente.
 
@@ -829,17 +829,17 @@ Lo referido en el párrafo anterior, también será aplicable tratándose del do
 
 No se pagarán derechos por los servicios que se presten a Dependencias del Poder Ejecutivo del Estado, a sus Organismos Descentralizados cuando se trate de:
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 I. Los derechos por la prestación de servicios públicos, por los conceptos referidos a continuación:
 
-Por expedición de placas de circulación, incluyendo tarjeta de circulación para vehículos automotores;
+1. Por expedición de placas de circulación, incluyendo tarjeta de circulación para vehículos automotores.
 
-Por reposición de placas, en caso de pérdida y/o robo a vehículos oficiales registrados en el Sistema Estatal Vehicular destinados a servicios social;
+2. Por reposición de placas, en caso de pérdida y/o robo a vehículos oficiales registrados en el Sistema Estatal Vehicular destinados a servicio social.
 
-Por requerir la baja por robo, destrucción y/o subasta de vehículos oficiales registrados en el Sistema Estatal Vehicular destinados a servicios social;
+3. Por requerir la baja por robo, destrucción y/o subasta de vehículos oficiales registrados en el Sistema Estatal Vehicular destinados a servicio social.
 
-Por holograma de circulación o refrendo anual de calcomanía de circulación; siempre y cuando sean utilizados para la prestación de
-
-servicios públicos de:
+4. Por holograma de circulación o refrendo anual de calcomanía de circulación; siempre y cuando sean utilizados para la prestación de servicios públicos de:
 
 A) Rescate;
 
@@ -851,13 +851,13 @@ D) Pipas de agua;
 
 E) Servicios funerarios;
 
-F) Las ambulancias dependientes de cualquiera de esas entidades, de organismos descentralizados de ellas, que presten servicios de seguridad social o de instituciones de beneficencia autorizadas por las leyes de la materia; y,
+F) Las ambulancias dependientes de cualquiera de esas entidades, de organismos descentralizados de ellas, que presten servicios de seguridad social o de instituciones de beneficencia autorizadas por las leyes de la materia;
 
 G) Los destinados a cuerpos de bomberos.
 
-La exención anterior, aplicará también a los vehículos de la Federación y de los Municipios.
+La exención anterior, aplicará también a los vehículos de la Federación y de los Municipios; y,
 
-H). Los vehículos oficiales registrados en el sistema estatal vehicular destinados a servicio social.
+H) Los vehículos oficiales registrados en el sistema estatal vehicular destinados a servicio social.
 
 II. Tampoco se pagarán derechos por los servicios del Registro Civil siguientes:
 
@@ -1354,3 +1354,19 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 602 POR EL QUE “SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 5; LOS ARTÍCULOS 11 Y 12; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 15; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 24; LA FRACCIÓN I DEL ARTÍCULO 26; EL ARTÍCULO 27; EL PÁRRAFO PRIMERO DEL ARTÍCULO 32; LA FRACCIÓN I DEL ARTÍCULO 35; EL PÁRRAFO PRIMERO DEL ARTÍCULO 38; LAS FRACCIONES I Y II DEL ARTÍCULO 41; EL ARTÍCULO 46; LA FRACCIÓN I DEL PÁRRAFO TERCERO DEL ARTÍCULO 47; LA FRACCIÓN I DEL ARTÍCULO 50; EL CAPÍTULO VII (SIC) DEL TÍTULO SEGUNDO PARA DENOMINARSE CAPÍTULO VIII DEL MISMO TÍTULO SEGUNDO Y QUE CONTIENE EL ARTÍCULO 53; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL PÁRRAFO CUARTO DEL ARTÍCULO 57; EL ARTÍCULO 61; LA FRACCIÓN III DEL ARTÍCULO 62; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 63; EL ARTÍCULO 64; PÁRRAFO TERCERO DEL ARTÍCULO 65; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 66; EL ARTÍCULO 67, PÁRRAFO PRIMERO; EL ARTÍCULO 70, FRACCIÓN III; EL SEGUNDO PÁRRAFO DEL INCISO B) DE LA FRACCIÓN VI, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XX Y EL INCISO C) DE LA FRACCIÓN XXI, TODOS DEL ARTÍCULO 71; Y, SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15; Y, DOS PÁRRAFOS AL ARTÍCULO 17, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día 1º de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 109.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 21; 47 FRACCIÓN II; Y, 68 FRACCIÓN I DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1º primero de enero de 2025, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Dese cuenta el presente Decreto al Titular de la Secretaría de Finanzas y Administración, para su conocimiento y los efectos correspondientes.
