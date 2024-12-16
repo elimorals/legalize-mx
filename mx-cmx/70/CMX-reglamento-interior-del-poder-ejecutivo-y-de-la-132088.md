@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2024-06-13"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -971,6 +971,10 @@ B) Dirección General de Competitividad Turística;
 C) Dirección General de Servicios al Turismo; y
 
 D) Dirección General del Instituto de Promoción Turística.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2024)</small>
+
+E) Dirección General de Proyectos Especiales.
 
 XIX. A la Consejería Jurídica y de Servicios Legales:
 
@@ -10218,6 +10222,32 @@ XII. Determinar las necesidades de información estadística y de mercado para e
 
 XIII. Promover la medición del impacto y publicidad turística.
 
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 228 Bis.
+
+Corresponde a la Dirección General de Proyectos Especiales:
+
+I. Promover programas para la creación y fortalecimiento de servicios turísticos incluyentes;
+
+II. Promover el desarrollo de proyectos turísticos especiales que incentiven su desarrollo a gran escala en la Ciudad de México;
+
+III. Coadyuvar con las autoridades competentes y el sector privado para otorgar reconocimientos a prestadores de servicios de salud para fomentar el Turismo de Salud;
+
+IV. En colaboración con las autoridades competentes, diseñar programas especiales orientados a la identificación y desarrollo de destinos turísticos emergentes y sostenibles de áreas con potencial turístico no explorado en la Ciudad México;
+
+V. Proponer iniciativas públicas que potencialicen las áreas geográficas de la Ciudad México, que poseen valores culturales, sociales y ambientales para convertirlas en sitios de importancia estratégica para el desarrollo turístico;
+
+VI. Proponer programas y proyectos específicos para fomentar la participación activa de la juventud en el sector turístico, promoviendo la creación de grupos trabajo para el desarrollo y gestión de iniciativas turísticas;
+
+VII. Integrar el programa anual de proyectos especiales;
+
+VIII. Proponer el estudio financiero para determinar el costo beneficio de cada uno de los proyectos especiales programados;
+
+IX. Dar seguimiento a la logística, puesta en marcha, conclusión y costo de recuperación de cada proyecto especial, y
+
+X. En el ámbito de su competencia, promover la suscripción de convenios de colaboración o concertación con personas físicas o morales, nacionales o internacionales.
+
 #### SECCIÓN III
 
 ###### Artículo 229.
@@ -15257,3 +15287,11 @@ TERCERO. Los recursos humanos, financieros y materiales con que cuente la Comisi
 CUARTO. Dentro de un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, las autoridades competentes deberán realizar las adecuaciones normativas correspondientes a fin de armonizar la legislación aplicable.
 
 QUINTO. La Secretaría de Desarrollo Urbano y Vivienda deberá adecuar su estructura orgánica y actualizar su Manual de Organización y Procedimientos en los plazos y condiciones que establezca la Secretaría de Administración y Finanzas.
+
+G.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación.
