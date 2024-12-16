@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2023-12-23"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -61,7 +61,9 @@ El Notario es la persona investida de fe pública para hacer constar los actos y
 
 ###### ARTICULO 3.
 
-1. El Ejecutivo del Estado expedirá fíat a Notarios de número y patente a los aspirantes al Notariado.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+1.- El Ejecutivo del Estado expedirá o revocará los fíat a Notarios de número y patente a los aspirantes al Notariado.
 
 2. Las notarías se numerarán progresivamente.
 
@@ -1543,9 +1545,17 @@ IV. Separación definitiva:
 
 a) Por reincidir en los supuestos señalados en los incisos b) y c) de la fracción III de este párrafo;
 
-b) Por falta grave de probidad en el ejercicio de sus funciones; o
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-c) Por no desempeñar personalmente sus funciones.
+b).- Por falta grave de probidad en el ejercicio de sus funciones;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+c).- Por no desempeñar personalmente sus funciones; o
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+d).- Por revocación de Fiat de Notario o patente a aspirante al Notariado.
 
 3. (DEROGADO, P.O. 8 DE MAYO DE 2017)
 
@@ -1576,6 +1586,28 @@ IV. Desahogada la garantía de audiencia, el Secretario General de Gobierno dict
 2.- El Secretario General de Gobierno, antes de dictar la resolución definitiva, podrá oír la opinión de la Comisión de Honor y Justicia, en términos del artículo 149 de esta ley.
 
 3.- (DEROGADO, P.O. 8 DE MAYO DE 2017)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 135 BIS.
+
+1.- En el supuesto del artículo 133, fracción IV, inciso d), de esta Ley, cuando la persona titular de la Dirección de Asuntos Notariales advierta irregularidades relacionadas con la expedición u otorgamiento de Fiat de Notario o Patentes a aspirantes al Notariado, se observará el siguiente procedimiento:
+
+I.- La persona titular de la Dirección de Asuntos Notariales recopilará la información que sustente las irregularidades y la remitirá a la persona titular de la Secretaría General de Gobierno para determinar si procede o no el inicio del procedimiento de revocación del Fiat de Notario o patente a aspirante al Notariado;
+
+II.- La persona titular de la Secretaría General de Gobierno, al recibir el informe de la Dirección de Asuntos Notariales, analizará las constancias y determinará si existen elementos suficientes para iniciar o no el procedimiento. De no advertirse elementos para proceder, emitirá un acuerdo de improcedencia, dejando constancia de las razones que lo sustentan;
+
+III.- En caso de que existan elementos suficientes, dictará un acuerdo de inicio del procedimiento, ordenando el emplazamiento al Notario el cual deberá notificarse en el domicilio oficial de la Notaría a efecto de que dentro del término de cinco días hábiles formule la contestación de las irregularidades contenidas en el oficio y ofrezca las pruebas que estime pertinentes. La notificación incluirá:
+
+a).- El informe de irregularidades presentado por la Dirección de Asuntos Notariales, con sus anexos; y
+
+b).- El acuerdo de inicio del procedimiento.
+
+IV.- Concluido el término para dar contestación emitirá el acuerdo en el que señalará día y hora para la celebración de la audiencia de pruebas y alegatos, la cual se verificará dentro del término de diez días hábiles, en donde se admitirán y desahogarán las pruebas correspondientes y las partes formularán los alegatos de su intención;
+
+V.- Una vez celebrada la citada audiencia se emitirá acuerdo en el que se declare cerrada la instrucción y de manera inmediata turnará el expediente a la persona titular del Poder Ejecutivo a fin de que se dicte la resolución correspondiente dentro del plazo de diez días hábiles, la cual deberá ser notificada a las partes; y
+
+VI.- En contra de la resolución que decreta la revocación del fiat de notario o patente a aspirante al Notariado, no procede recurso alguno.
 
 ### CAPITULO XIX. INSPECCION DE NOTARIAS
 
@@ -1907,9 +1939,9 @@ La separación en el ejercicio del notariado importa la de cualquier cargo direc
 
 ###### ARTICULO 159.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-1. El Notario podrá interponer el recurso de inconformidad contra las resoluciones definitivas recaídas en los procedimientos de imposición de sanciones administrativas, el cual deberá presentarse por escrito ante el Secretario General de Gobierno, dentro de los quince días siguientes a la notificación de la resolución recurrida. Dicho recurso de inconformidad será resuelto por el Gobernador del Estado.
+1. El Notario o Notaria podrá interponer el recurso de inconformidad contra las resoluciones definitivas recaídas en los procedimientos de imposición de sanciones administrativas, salvo lo dispuesto en el inciso d) de la fracción IV del párrafo 2 del artículo 133, el cual deberá presentarse por escrito ante la persona titular de la Secretaría General de Gobierno, dentro de los quince días siguientes a la notificación de la resolución recurrida. Dicho recurso de inconformidad será resuelto por la persona titular del Poder Ejecutivo del Estado.
 
 2. El escrito por el cual se interponga el recurso de inconformidad, se sujetará a los siguientes requisitos:
 
@@ -2428,3 +2460,15 @@ En un plazo no mayor a 120 días contados a partir de la entrada en vigor del pr
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-114 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
