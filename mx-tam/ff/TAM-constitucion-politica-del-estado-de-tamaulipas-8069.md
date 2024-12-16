@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2024-11-18"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1031,9 +1031,9 @@ La presidencia y suplencia de la mesa directiva de cada periodo ordinario será 
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-Los secretarios integrantes de la Mesa Directiva serán electos por el pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
+Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán electos por el Pleno, mediante la presentación de propuestas formuladas libremente por sus miembros.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1979,7 +1979,9 @@ XXIII.- Visitar durante su período los Municipios del Estado, dictar las provid
 
 XXIV.- Dictar las disposiciones necesarias para combatir los juegos prohibidos;
 
-XXV.- Expedir los Fiats de Notarios y Títulos profesionales con arreglo a las leyes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXV.- Expedir y revocar los Fíats de Notarios y las patentes a aspirantes al Notariado, así como expedir Títulos Profesionales con arreglo a las Leyes;
 
 XXVI.- Conceder indulto de las penas en los términos y con los requisitos que expresa la ley;
 
@@ -5570,3 +5572,27 @@ Para la interpretación y aplicación de este Decreto, los órganos del Estado y
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-113 MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 43, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y SE REFORMA EL PÁRRAFO CUARTO DEL NUMERAL 2 DEL ARTÍCULO 15, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-114 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
