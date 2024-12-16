@@ -4,7 +4,7 @@ identifier: "CNPCF"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-06-07"
-last_updated: "2024-06-04"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166617&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPCF"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 7 de junio de 2023.
 
@@ -4364,9 +4364,11 @@ Las partes estarán obligadas a facilitar el examen de las condiciones físicas 
 
 La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 554.
 
-En los casos de conductas violentas u omisiones graves que afecten a los integrantes de la familia, la autoridad jurisdiccional deberá adoptar las medidas provisionales que se estimen convenientes, para que cesen de plano. En los casos de violencia vicaria, entendida como la violencia ejercida contra las mujeres a través de sus hijos, la autoridad jurisdiccional deberá salvaguardar la integridad de niñas, niños, adolescentes y mujeres, a efecto de evitar la violencia institucional contemplada en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+En los casos de conductas violentas u omisiones graves que afecten a los integrantes de la familia, la autoridad jurisdiccional deberá adoptar las medidas provisionales que se estimen convenientes, para que cesen de plano. En los casos de violencia vicaria, definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la autoridad jurisdiccional deberá salvaguardar la integridad de niñas, niños, adolescentes y mujeres.
 
 ###### Artículo 555.
 
@@ -4552,7 +4554,9 @@ XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Re
 
 XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.
 
-La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 574.
 
@@ -9519,3 +9523,13 @@ D.O.F. 4 DE JUNIO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La Secretaría de Gobernación, a través de la Dirección General del Registro Nacional de Población e Identidad, emitirá los lineamientos para acreditar la autenticidad de los certificados de nacimiento expedidos por autoridades extranjeras, a efecto de darlos a conocer a todas las autoridades del registro civil en el país.
+
+D.O.F. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
+
+Tercero.- Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
