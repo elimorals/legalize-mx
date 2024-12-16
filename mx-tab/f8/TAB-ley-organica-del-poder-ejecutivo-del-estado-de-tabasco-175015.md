@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2024-11-09"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -57,9 +59,11 @@ Ley Orgánica del Poder Ejecutivo del Estado de Tabasco
 
 Esta Ley es de orden público y tiene por objeto regular y organizar a la Administración Pública del Estado de Tabasco, cuya naturaleza es centralizada y paraestatal.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 2.
 
-La Administración Pública centralizada se integra por la Gubernatura, las Secretarías y sus órganos desconcentrados, la Consejería Jurídica del Poder Ejecutivo del Estado y las demás unidades administrativas que refieran las normas.
+La Administración Pública centralizada se integra por la Oficina de la Gubernatura, las Secretarías y sus órganos desconcentrados, la Consejería Jurídica del Poder Ejecutivo del Estado y las demás unidades administrativas que refieran las normas.
 
 ###### Artículo 3.
 
@@ -83,9 +87,13 @@ III. Constitución: la Constitución Política del Estado Libre y Soberano de Ta
 
 IV. Centros Integradores: los espacios destinados al bienestar de las personas, desde los cuales la Administración Pública promoverá la integración y el desarrollo económico, social, cultural, ambiental y productivo de las localidades indígenas y afromexicanas, rurales y suburbanas, especialmente las que se ubican en condiciones de pobreza, marginación y violencia, así como demás grupos vulnerables;
 
-V. Dependencias: la Gubernatura, las Secretarías y la Consejería Jurídica del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VI. Dependencias Globalizadoras: la Secretaría de Gobierno, la Secretaría de Administración y Finanzas, la Secretaría de la Función Pública y la Consejería Jurídica del Poder Ejecutivo del Estado, que tienen a su cargo emitir disposiciones de cumplimiento general para las demás Dependencias, las cuales podrán ser normativas, de vigilancia, planeación y control;
+V. Dependencias: las Secretarías y la Consejería Jurídica del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VI. Dependencias Globalizadoras: la Secretaría de Gobierno, la Secretaría de Administración y Finanzas, la Secretaría Anticorrupción y Buen Gobierno y la Consejería Jurídica del Poder Ejecutivo del Estado, que tienen a su cargo emitir disposiciones de cumplimiento general para las demás Dependencias, las cuales podrán ser normativas, de vigilancia, planeación y control;
 
 VII. Entidades: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
@@ -225,9 +233,11 @@ XXIII. Las demás que le encomiende la persona titular del Poder Ejecutivo, y la
 
 Las personas titulares de las Dependencias y Entidades a que se refiere esta Ley, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo los relacionados con la docencia e investigación y aquellos que, por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador o Gobernadora y que no constituyan conflicto de interés, conforme a las leyes correspondientes.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-Al tomar posesión del cargo o separarse de éste, las personas titulares de las Dependencias y Entidades deberán realizar el proceso de entrega recepción, conforme a la normatividad aplicable, con la participación de sus Órganos Internos de Control, de la Secretaría de la Función Pública y la Secretaría de Administración y Finanzas, como Dependencias Globalizadoras.
+Al tomar posesión del cargo o separarse de éste, las personas titulares de las Dependencias y Entidades deberán realizar el proceso de entrega recepción, conforme a la normatividad aplicable, con la participación de sus Órganos Internos de Control, de la Secretaría Anticorrupción y Buen Gobierno y la Secretaría de Administración y Finanzas, como Dependencias Globalizadoras.
 
 ###### Artículo 15.
 
@@ -251,7 +261,7 @@ La persona titular del Poder Ejecutivo dispondrá la instrumentación de un Tabu
 
 Para el estudio, planeación y despacho de los asuntos de las diversas ramas de la Administración Pública, la persona titular del Poder Ejecutivo contará con las siguientes Dependencias:
 
-I. Gubernatura;
+I. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
 II. Secretaría de Gobierno;
 
@@ -269,7 +279,9 @@ VIII. Secretaría de Desarrollo Agropecuario y Pesca;
 
 IX. Secretaría de Movilidad;
 
-X. Secretaría de la Función Pública;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+X. Secretaría Anticorrupción y Buen Gobierno;
 
 XI. Secretaría de Educación;
 
@@ -281,17 +293,35 @@ XIV. Secretaría de Cultura; y
 
 XV. Consejería Jurídica del Poder Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Además, contará con una Oficina de la Gubernatura que apoyará directamente a la persona titular del Ejecutivo. La administración y ejecución del presupuesto asignado a la Oficina de la Gubernatura será ejercido por la Secretaría de Administración y Finanzas.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 20.
 
-La Gubernatura es la Dependencia de apoyo directo de la persona titular del Poder Ejecutivo, para el despacho de sus asuntos tendrá una persona titular de la Oficina de la Gubernatura, que se auxiliará de las unidades administrativas necesarias para el cumplimiento de sus funciones.
+La Oficina de la Gubernatura tendrá una persona titular que será designada por la persona titular del Poder Ejecutivo, de quien dependerá directamente. Para el despacho de sus asuntos la Oficina de la Gubernatura se auxiliará de las unidades administrativas necesarias para el cumplimiento de sus funciones, y contará con:
 
-La Coordinación General de Asesores, la Representación del Gobierno del Estado en la Ciudad de México y la Coordinación General de Comunicación Social y Vocería estarán adscritos a la Gubernatura. Para la atención y cumplimiento de los asuntos que les correspondan se coordinarán con la persona titular de la Oficina de la Gubernatura. Sus titulares serán designados por el Gobernador o la Gobernadora.
+I. La Coordinación de Asesores;
+
+II. La Representación del Gobierno del Estado en la Ciudad de México;
+
+III. La Coordinación General de Comunicación Social y Vocería, y
+
+IV. Las demás que resulten necesarias para el cumplimiento de sus atribuciones.
+
+Las personas titulares de las unidades administrativas de la Oficina de la Gubernatura serán designadas por la persona titular del Poder Ejecutivo. Para la atención y cumplimiento de los asuntos que les correspondan se coordinarán con la persona titular de la Oficina de la Gubernatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 21.
 
-A la Gubernatura le corresponde el despacho de las siguientes atribuciones:
+A la Oficina de la Gubernatura le corresponde el despacho de las siguientes atribuciones.
 
-I. Coordinar y supervisar la actividad operativa de la Gubernatura, así como realizar propuestas de mejora en materia administrativa y de operación a las Dependencias, Entidades y Órganos, con el propósito de incrementar su eficiencia y productividad, previo acuerdo con la persona titular del Poder Ejecutivo, para su autorización y aplicación;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Coordinar y supervisar la actividad operativa de la Oficina de la Gubernatura, con el propósito de incrementar su eficiencia y productividad, previo acuerdo con la persona titular del Poder Ejecutivo, para su autorización y aplicación;
 
 II. Preparar, desahogar y coordinar la agenda de la persona titular del Poder Ejecutivo de conformidad con sus directrices;
 
@@ -311,7 +341,9 @@ IX. Dar seguimiento a los acuerdos tomados entre la persona titular del Poder Ej
 
 X. Administrar, supervisar y sistematizar el registro, seguimiento, turno y archivo de los documentos oficiales y de los particulares dirigidos a la persona titular del Poder Ejecutivo;
 
-XI. Organizar y conducir las giras de trabajo de la persona titular del Poder Ejecutivo en coordinación con las áreas de la Gubernatura que correspondan;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XI. Organizar y conducir las giras de trabajo de la persona titular del Poder Ejecutivo en coordinación con las unidades administrativas de la Oficina de la Gubernatura que correspondan;
 
 XII. Coordinar a los responsables de atender la logística de la persona titular del Poder Ejecutivo;
 
@@ -347,11 +379,15 @@ XXVII. Informar a la persona titular del Poder Ejecutivo de los avances y result
 
 XXVIII. Instrumentar sistemas de atención e información para la difusión y promoción de las actividades de los ámbitos público, social y privado en la Ciudad de México;
 
-XXIX. Formular y conducir la política de comunicación social del Poder Ejecutivo y garantizar mediante lineamientos de carácter general el modelo organizacional que sobre esta materia se aplicará en la Administración Pública, de conformidad con la determinación que para tal efecto adopte la persona titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Formular y conducir la política de comunicación social del Poder Ejecutivo que se aplicará en la Administración Pública, de conformidad con la determinación que para tal efecto adopte la persona titular del Poder Ejecutivo;
 
 XXX. Instrumentar, desarrollar y aplicar el Programa de Imagen Institucional del Gobierno del Estado, vigilando que las Dependencias y Entidades den estricto cumplimiento a lo dispuesto en materia de propaganda oficial en términos del párrafo octavo del artículo 134, de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables, incluyendo los informes de labores y mensajes que de conformidad con las leyes respectivas se deban presentar;
 
-XXXI. Divulgar entre los sectores público, social y privado, de manera sistemática, la información relevante sobre los objetivos, avances y resultados de las actividades y programas del Poder Ejecutivo, así como conducir y coordinar las relaciones públicas;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Divulgar entre los sectores público, social y privado, de manera sistemática, la información relevante sobre los objetivos, avances y resultados de las actividades y programas del Poder Ejecutivo;
 
 XXXII. Impulsar la imagen institucional del Poder Ejecutivo, asegurando que los medios informativos reciban de manera oportuna, suficiente, sin distinciones ni privilegios, la información relevante sobre el desarrollo de los programas, los objetivos del trabajo y las actividades de la Administración Pública;
 
@@ -359,11 +395,17 @@ XXXIII. Atender las relaciones públicas con los medios de comunicación, procur
 
 XXXIV. Promover, en coordinación con las Dependencias, Entidades y Órganos competentes en cada caso, la difusión estatal, nacional e internacional de las actividades educativas, culturales, turísticas, recreativas, deportivas y económicas de la entidad y la región;
 
-XXXV. Promover la suscripción de convenios que autorice la persona titular del Poder Ejecutivo para la difusión de la propaganda oficial e información sobre la gestión gubernamental en los medios de comunicación social privados impresos, electrónicos y alternativos, locales, nacionales y del extranjero, según sea el caso, acatando lo dispuesto por los ordenamientos correspondientes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXVI. Asistir técnicamente a las Dependencias y Entidades para la correcta operación y uso transmisivo de las frecuencias de radio y televisión, que estuvieren autorizadas por la instancia competente;
+XXXV. Promover la suscripción de convenios que autorice la persona titular del Poder Ejecutivo para la difusión de la propaganda oficial e información sobre la gestión gubernamental en los medios de comunicación públicos, privados, impresos, electrónicos y alternativos, así como locales, nacionales y del extranjero, según sea el caso, acatando lo dispuesto por los ordenamientos correspondientes;
 
-XXXVII. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que le encomiende la persona titular del Poder Ejecutivo del Estado, y formular los estudios y análisis correspondientes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. Asesorar a las Dependencias y Entidades para la correcta operación y uso transmisivo de las frecuencias de radio y televisión, que estuvieren autorizadas por la instancia competente;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXVII. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que le encomiende la persona titular del Poder Ejecutivo del Estado;
 
 XXXVIII. Proveer a la persona titular del Poder Ejecutivo de la información y datos necesarios para sus actividades, toma de decisiones y asistencia a giras o eventos; y
 
@@ -509,7 +551,9 @@ XXXVIII. Las demás que se prevean en otras disposiciones y las que le sean enco
 
 A la Secretaría de Administración y Finanzas le corresponde el despacho de las siguientes atribuciones:
 
-I. Participar en el proceso de planeación del desarrollo del Estado, así como en la elaboración, control y evaluación de los programas, en el ámbito de su competencia conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Participar en el proceso de planeación del desarrollo del Estado; en la elaboración, control, seguimiento y evaluación de los programas, en el ámbito de su competencia, conforme las disposiciones normativas aplicables; así como coordinar la evaluación del desempeño de las políticas públicas y de los programas presupuestarios;
 
 II. Dictar las normas, lineamientos y criterios en materia presupuestal a que deberán sujetarse las Dependencias y Entidades, para la formulación de los programas que servirán de base para la elaboración de sus respectivos anteproyectos de presupuesto, así como para el control, evaluación y seguimiento del gasto público;
 
@@ -605,7 +649,9 @@ XLVII. Elaborar, revisar y actualizar el Tabulador de Remuneraciones de la Admin
 
 XLVIII. Administrar, controlar y mantener actualizado el registro o inventario de los bienes muebles e inmuebles propiedad del Poder Ejecutivo; así como, en coordinación con las instancias competentes, administrar y asegurar la conservación y mantenimiento de los bienes que se encuentren a su cargo, en términos de la normatividad aplicable;
 
-XLIX. Establecer en coordinación con la Secretaría de la Función Pública, los criterios y lineamientos que fortalezcan la concentración en materia de adquisición, arrendamiento, suministro, registro, almacenamiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de las funciones de la Administración Pública;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XLIX. Establecer en coordinación con la Secretaría Anticorrupción y Buen Gobierno, los criterios y lineamientos que fortalezcan la concentración en materia de adquisición, arrendamiento, suministro, registro, almacenamiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de las funciones de la Administración Pública;
 
 L. Proponer a la persona titular del Poder Ejecutivo, en coordinación con la dependencia involucrada y la Consejería Jurídica del Poder Ejecutivo del Estado, la disolución de las Entidades u Órganos, en razón de haber cumplido su cometido, o por la incorporación de sus funciones o atribuciones a otras instancias de la Administración Pública. En caso aprobatorio, deberá coordinarse con las Dependencias que correspondan, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que, en su caso, se les hubiere asignado para el cumplimiento de sus objetivos;
 
@@ -1127,101 +1173,107 @@ XXXVI. En coordinación con la Secretaría de Administración y Finanzas, defini
 
 XXXVII. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 30.
 
-A la Secretaría de la Función Pública le corresponde el despacho de las siguientes atribuciones:
+A la Secretaría Anticorrupción y Buen Gobierno le corresponde el despacho de las siguientes atribuciones:
 
-I. Establecer y organizar el Sistema de Control Interno, Evaluación y Auditoría Gubernamental, a través del Programa de Control Preventivo y Correctivo, así como elaborar los demás programas y estudios en la materia e inspeccionar el ejercicio del gasto público estatal y su congruencia con los presupuestos de egresos;
+I. Elaborar y conducir la política pública en materia de integridad pública, evaluación de la gestión gubernamental, mejora continua, modernización, transparencia en la gestión pública, rendición de cuentas, fiscalización y anticorrupción de la Administración Pública Estatal;
 
-II. Coordinarse con los demás integrantes del Sistema Nacional de Fiscalización, para el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos, así como, para la ejecución de acciones en los rubros relacionados con el ejercicio de recursos federales, dirigidas a evaluar los avances y resultados generales de las Dependencias y Entidades en el desarrollo y cumplimiento de los respectivos planes, programas y presupuestos, conforme a las directrices señaladas en el marco del Sistema Nacional de Fiscalización;
+II. Coordinarse con los sistemas de fiscalización, para el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos, así como, para la ejecución de acciones en los rubros relacionados con el ejercicio de recursos federales, dirigidas a evaluar los avances y resultados generales de las Dependencias y Entidades en el desarrollo y cumplimiento de los respectivos planes, programas y presupuestos, conforme a las directrices señaladas en el marco del Sistema Nacional de Fiscalización;
 
-III. Realizar la evaluación presupuestal de las Dependencias, Entidades y Órganos, con respecto al cumplimiento de los objetivos y metas comprendidas en el ejercicio de sus atribuciones y recursos, la administración de los servicios y la atención de la población, de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas, la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Anticorrupción del Estado de Tabasco, respectivamente;
+III. Emitir las normas en el ámbito de su competencia que regulen los instrumentos y procedimientos de control interno de la Administración Pública, que impulsen la modernización administrativa, conforme a las mejores prácticas en la materia y, en su caso, requerir a las Dependencias y Entidades que resulten aplicables en términos de las disposiciones jurídicas en materia de contrataciones y obras públicas;
 
-IV. Establecer los mecanismos de coordinación necesarios con los integrantes del Sistema Nacional de Fiscalización para la identificación de áreas comunes de auditoría y fiscalización, para la revisión de los ordenamientos legales en la materia y la formulación de propuestas que mejoren la eficacia del combate a la corrupción, así como, para la elaboración y adopción de un marco de referencia general para la prevención, detección y disuasión de actos de corrupción y el fomento de la transparencia y la rendición de cuentas en la gestión gubernamental;
+IV. Promover los mecanismos de coordinación necesarios con los integrantes del Sistema Nacional de Fiscalización y los municipios para la identificación de áreas comunes de auditoría y fiscalización, para la revisión de los ordenamientos legales en la materia y la formulación de propuestas que mejoren la eficacia del combate a la corrupción, así como, para la elaboración y adopción de un marco de referencia general para la prevención, detección y disuasión de actos de corrupción y el fomento de la transparencia y la rendición de cuentas en la gestión gubernamental;
 
-V. Coordinar, supervisar y apoyar a los Órganos Internos de Control de las Dependencias y Entidades procurando su vinculación con el modelo de organización y desarrollo regional del Estado, con criterios de eficiencia, productividad y calidad en los servicios públicos, así como ahorro y transparencia en el ejercicio del gasto público;
+V. Emitir recomendaciones preventivas y normativas en materia de contrataciones públicas;
 
-VI. Procurar que, en la instrumentación y supervisión del Sistema de Control Interno, Evaluación y Auditoria Gubernamental, participen los Órganos Internos de Control de las Dependencias y Entidades, con información de los programas específicos bajo su responsabilidad, que se vinculen con las metas y objetivos de la programación operativa anual. Asimismo, fomentar que en el desarrollo de los sistemas y programas a su cargo se promueva y asegure la participación ciudadana;
+VI. Emitir, en el ámbito de su competencia, las normas que regulen los instrumentos y procedimientos en materia de investigación, fiscalización y auditorías internas, transversales o externas, incluida la fiscalización o auditorías de gabinete y electrónicas o cualquier otro tipo de revisiones, así como realizar las investigaciones, actos de fiscalización o auditorías que se requieran;
 
 VII. Auditar, revisar y evaluar el ejercicio del gasto público de la Administración Pública y su congruencia con el presupuesto de egresos, así como llevar el control, seguimiento y evaluación de las normas y políticas del Estado en materia de austeridad, racionalidad y disciplina presupuestal;
 
-VIII. Auditar, revisar y evaluar técnica y financieramente los recursos federales ejercidos por las Dependencias y Entidades, derivados de los acuerdos o convenios suscritos, así como establecer los esquemas de vigilancia y control preventivo, definiendo los mecanismos de interrelación entre los diferentes instrumentos de control, tales como los Órganos Internos de Control, los comisarios y las auditorías externas;
+VIII. Auditar, revisar y evaluar técnica y financieramente los recursos federales ejercidos por las Dependencias, Órganos y Entidades, derivados de los acuerdos o convenios suscritos;
 
-IX. Ejercer las facultades de coordinación sectorial, reservando a sus áreas centrales las funciones globales de regulación, control, evaluación y auditoría gubernamental, y transfiriendo a los órganos internos respectivos el control, evaluación y auditoría gubernamental directos de la Dependencia y Entidad a la que se encuentren designados. En materia de responsabilidades administrativas, aplicar lo dispuesto por la legislación y normatividad correspondientes, en forma directa o por conducto de los Órganos Internos de Control competentes en la materia;
+IX. Establecer los esquemas de vigilancia y control preventivo, definiendo los mecanismos de interrelación entre los diferentes instrumentos de control, tales como los Órganos Internos de Control, los comisarios y las auditorías externas;
 
-X. Designar y remover a los titulares de los Órganos Internos de Control de las Dependencias, Órganos y Entidades, así como a los titulares de los departamentos de Auditoría y Seguimiento, Control Interno y Mejora de la Gestión Pública, Quejas, y Responsabilidades. En el caso de las Dependencias, los Órganos Internos de Control dependerán jerárquica, funcional y presupuestalmente de esta Secretaría; y en lo que respecta a las Entidades sólo dependerán jerárquica y funcionalmente de esta Secretaría.
+X. Ejercer las facultades de coordinación sectorial, reservando a sus áreas centrales las funciones globales de regulación, control, evaluación y auditoria gubernamental, y transfiriendo a los órganos internos respectivos el control, evaluación y auditoría gubernamental directos de la Dependencia y Entidad a la que se encuentren designados. En materia de responsabilidades administrativas, aplicar lo dispuesto por la legislación y normatividad correspondiente, en forma directa o por conducto de los Órganos Internos de Control competentes en la materia;
 
-La persona titular del órgano interno de control de la Secretaría será designada por la persona titular del Poder Ejecutivo, y se encargará de atender los asuntos de la Secretaría, así como de la Gubernatura, de conformidad con la fracción III de este artículo. Los Órganos Internos de Control de las Dependencias y Entidades, se coordinarán con la Consejería Jurídica del Poder Ejecutivo del Estado para realizar la defensa jurídica en la esfera administrativa y ante los Tribunales, en el ámbito de su competencia;
+XI. Establecer mecanismos para la Administración Pública que prevengan actos u omisiones que puedan constituir responsabilidades administrativas e impulsar la participación ciudadana y la cultura cívica y ética que contribuya a la mejora continua;
 
-XI. Fiscalizar directamente o a través de los Órganos Internos de Control, que las Dependencias y Entidades cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, presupuesto, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública, así como lo dispuesto para los procesos de entrega recepción;
+XII. Organizar y coordinar el sistema de control interno y evaluar la gestión gubernamental y sus resultados, así como concertar con las Dependencias, Órganos y Entidades, los indicadores para dicha evaluación, en los términos de las disposiciones jurídicas aplicables;
 
-XII. Fungir como Comisario Público, o designarlo, en su caso, ante los órganos de gobierno o similares de las Entidades, de conformidad con los ordenamientos e instrumentos jurídicos aplicables. Del mismo modo, designar auditores externos, cuando así proceda y normar, controlar y evaluar su desempeño;
+XIII. Evaluar el sistema de control interno institucional y proponer las medidas que permitan el cumplimiento de las metas y objetivos institucionales, así como la mejora continua;
 
-XIII. Expedir, actualizar, difundir, sistematizar y supervisar la normatividad administrativa estatal y observar la de índole general o federal, en los casos previstos en la ley, que regule los instrumentos y procedimientos de control interno, evaluación y auditoría gubernamental a los que deberán sujetarse las Dependencias y Entidades, para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases, los lineamientos, directrices y recomendaciones que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
+XIV. Fungir como Comisario Público, o designarlo, en su caso, ante los órganos de gobierno o similares de las Entidades, de conformidad con los ordenamientos e instrumentos jurídicos aplicables;
 
-XIV. Coordinar y supervisar el Sistema de Control Interno, Evaluación y Auditoría Gubernamental, así como, establecer, regular, emitir y coordinar las bases para la realización de auditorías internas, transversales y externas en Dependencias y Entidades. De igual manera, realizar las auditorías que requieran dichos entes públicos en sustitución o apoyo de sus propios Órganos Internos de Control;
+XV. Promover en las Dependencias, Órganos y Entidades, el cumplimiento de las disposiciones jurídicas aplicables a la gestión pública;
 
-XV. Coadyuvar con la Secretaría de Administración y Finanzas y la Consejería Jurídica del Poder Ejecutivo del Estado, según sus respectivas atribuciones, en la determinación y supervisión de las normas y procedimientos para regular:
+XVI. Vigilar directamente o a través de los Órganos Internos de Control, que las Dependencias y Entidades cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, presupuesto, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública, así como lo dispuesto para los procesos de entrega recepción;
 
-a) la organización interna, funcionamiento y desarrollo administrativo de las Dependencias y Entidades, y
+XVII. Elaborar el programa anual de fiscalización orientado a promover la eficacia, eficiencia, economía y legalidad en la gestión pública. Dicho programa podrá incluir los actos de fiscalización que propongan la Secretaría de Administración y Finanzas o las coordinadoras de sector, en el ámbito de su competencia;
 
-b) la instrumentación de los criterios y lineamientos para la elaboración, revisión y publicación de los reglamentos interiores, los estatutos y los manuales administrativos de las Dependencias y Entidades;
+XVIII. Promover en las Dependencias, Órganos y Entidades mecanismos de participación ciudadana, en los programas de desarrollo social y obras públicas;
 
-XVI. Colaborar con la Secretaría de Administración y Finanzas, según corresponda, en la promoción y evaluación de los programas y acciones destinados a asegurar la calidad en las funciones y servicios a cargo de las Dependencias y Entidades, a fin de que los recursos humanos, materiales y financieros, sean cabalmente aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia, simplificación administrativa, productividad, ahorro en el gasto público y transparencia, apoyando las acciones para la descentralización o desconcentración de los servicios de conformidad con la normatividad aplicable;
+XIX. Vigilar que las Dependencias, Órganos y Entidades rindan los informes y remitan la información correspondiente al Órgano Superior de Fiscalización, de conformidad a la legislación y normatividad aplicable;
 
-XVII. Establecer mecanismos que modernicen las normas, lineamientos y procedimientos de control y evaluación de la actividad gubernamental, así como dar seguimiento a los mismos;
+XX. Vigilar en el ámbito de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas, adquiridas con el Poder Ejecutivo, solicitándoles la información relacionada con las operaciones que realicen, y determinar las deductivas, sanciones y revocaciones, así como fincar las responsabilidades que en su caso procedan, conforme a la normatividad aplicable.
 
-XVIII. Vigilar que las Dependencias y Entidades den cumplimiento a las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad, bajo administración o al resguardo del Poder Ejecutivo;
+Las unidades administrativas de la Secretaría coadyuvarán para realizar las actividades de vigilancia, inspección y control preventivo de obras públicas y servicios relacionados con las mismas;
 
-XIX. Vigilar que las Dependencias y Entidades rindan los informes y remitan la información correspondiente al Órgano Superior de Fiscalización, de conformidad a la legislación y normatividad aplicable;
+XXI. Opinar, en coadyuvancia con la Consejería Jurídica del Poder Ejecutivo del Estado, sobre los proyectos de normas de contabilidad gubernamental, control presupuestal, programación, administración de recursos humanos, materiales y financieros, de austeridad, contratación de deuda o manejo de fondos y valores, que formulen las Dependencias competentes, así como, sobre las iniciativas de leyes, reglamentos, acuerdos y lineamientos jurídicos que correspondan al ámbito de su competencia. Asimismo, con respecto a la normatividad que expidan las Dependencias competentes para regular las adquisiciones o arrendamiento de bienes y servicios, así como de obras públicas y servicios relacionados con las mismas;
 
-XX. Vigilar en el ámbito de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas, adquiridas con el Poder Ejecutivo, solicitándoles la información relacionada con las operaciones que realicen, y determinar las deductivas y sanciones, así como fincar las responsabilidades que en su caso procedan, conforme a la normatividad aplicable;
+XXII. Designar a los prestadores de servicios profesionales de auditorías externas gubernamentales de las Entidades, así como normar y vigilar su desempeño;
 
-XXI. Opinar, en coadyuvancia con la Consejería Jurídica del Poder Ejecutivo del Estado, sobre los proyectos de normas de contabilidad gubernamental, control presupuestal, programación, administración de recursos humanos, materiales y financieros, contratación de deuda o manejo de fondos y valores, que formulen las Dependencias competentes y, en su caso, sobre las iniciativas de leyes, reglamentos, acuerdos y lineamientos jurídicos que correspondan al ámbito de su competencia. Asimismo, con respecto a la normatividad que expidan las Dependencias competentes para regular las adquisiciones o arrendamiento de bienes y servicios y de obra pública;
+XXIII. Formular y conducir la política de la Administración Pública para establecer medidas que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas, el acceso por parte de los particulares a la información que aquélla genere y la protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como promover dichas acciones hacia la sociedad;
 
-XXII. Participar, en coordinación con las Dependencias competentes, en las acciones de profesionalización y dignificación del servicio público, así como, emitir, implementar, y difundir el Código de Ética en las Dependencias y Entidades, conforme a los lineamientos que determine el Sistema Nacional Anticorrupción;
+XXIV. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables;
 
-XXIII. Vigilar el adecuado funcionamiento de los Órganos Internos de Control de las Dependencias y Entidades, cuando intervengan en la aplicación de la Ley General de Responsabilidades Administrativas como autoridades investigadoras o substanciadoras, por conducto de sus respectivas unidades, en el marco de los procedimientos de responsabilidades administrativas por faltas de servidores públicos o de particulares relacionados con las mismas. Los titulares de esos Órganos Internos de Control podrán representar a la Secretaría, conforme a la normatividad y en los casos que ésta determine;
+XXV. Establecer las políticas, bases y normativa para la determinación de la información de interés público que, en materia de anticorrupción y buen gobierno, se deba difundir proactivamente;
 
-XXIV. Coordinar con la Secretaría de Administración y Finanzas el desarrollo de las tareas de evaluación del ejercicio de los recursos federales aportados, transferidos, asignados y reasignados al Estado para su administración, así como vigilar el estricto cumplimiento de los objetivos establecidos en los acuerdos y convenios respectivos;
+XXVI. Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
 
-XXV. Aplicar los criterios, normas, políticas y lineamientos que la persona titular del Poder Ejecutivo acuerde con el Gobierno Federal para el desarrollo de las tareas de supervisión, vigilancia, control y evaluación de los recursos federales que sean aportados, transferidos, asignados y reasignados al Estado para su administración y en su caso, para los municipios;
+XXVII. Emitir y difundir el Código de Ética de las personas servidoras públicas del gobierno estatal y las Reglas de Integridad para el ejercicio de la gestión pública, así como promover en el sector privado directrices para la emisión de sus Códigos de Ética y modelos de declaración de integridad;
 
-XXVI. Impulsar en coordinación con la Consejería Jurídica del Poder Ejecutivo del Estado, al interior de la Administración Pública la política transversal de transparencia y acceso a la información a la ciudadanía, conforme a la normatividad aplicable;
+XXVIII. Impulsar la transparencia y la publicación de datos en formatos accesibles a la ciudadanía; vigilar la aplicación de las políticas de gobierno digital y las de gobierno y datos abiertos de la Administración Pública, en términos de las disposiciones jurídicas aplicables;
 
-XXVII. Solicitar información a la Secretaría de Administración y Finanzas, para revisar y vigilar que se efectúen las aportaciones, subsidios o transferencias de fondos que el Estado o el Gobierno Federal otorguen a favor de municipios, entidades, instituciones o particulares;
+XXIX. Organizar y coordinar el desarrollo administrativo integral en las Dependencias, Órganos y Entidades y emitir las normas para que los recursos humanos y patrimoniales sean aprovechados y los procedimientos técnicos sean aplicados, con criterios de eficacia, eficiencia, economía, honestidad, transparencia y legalidad;
 
-XXVIII. Informar periódicamente a la persona titular del Poder Ejecutivo y al Comité Coordinador del Sistema Estatal Anticorrupción, sobre el resultado de las evaluaciones respecto de la gestión de las Dependencias y Entidades, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y en su caso, promover ante las autoridades competentes las acciones conducentes a corregir y sancionar las irregularidades detectadas;
+XXX. Impulsar la integridad de las personas servidoras públicas, así como diseñar y aplicar los programas de capacitación que promuevan la mejora de la gestión pública;
 
-XXIX. Recibir, registrar y custodiar las declaraciones patrimoniales y de intereses que presenten las personas servidoras públicas de la Administración Pública, promoviendo el cumplimiento oportuno y adecuado de dicha obligación. Derivado de ello, mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los Declarantes a su cargo, así como verificar su contenido mediante las acciones e instrumentos previstos en la Ley General de Responsabilidades Administrativas;
+XXXI. Opinar la política, normas y criterios, en materia de planeación y administración de recursos humanos para la contratación de las personas servidoras públicas, en coordinación con las Dependencias competentes de conformidad con las normas de control de gasto en materia de servicios personales y demás disposiciones jurídicas aplicables;
 
-XXX. Realizar verificaciones aleatorias de las declaraciones patrimoniales, así como de la evolución del patrimonio de las personas servidoras públicas y llevar el registro de quienes resultaron sancionadas y las sanciones que se hayan impuesto, en términos de la Ley General de Responsabilidades Administrativas;
+XXXII. Emitir opinión respecto a las estructuras orgánicas de las Dependencias, Órganos y Entidades y sus modificaciones, previo dictamen presupuestal favorable de la Secretaría de Administración y Finanzas;
 
-XXXI. Incorporar en los diversos sistemas electrónicos que integran la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, la información que a cada uno de ellos corresponda, de conformidad con las bases que al efecto emita el Comité Coordinador del Sistema Nacional;
+XXXIII. Promover la formación cívica y la participación ciudadana en materia de anticorrupción y buen gobierno;
 
-XXXII. Impulsar la participación y corresponsabilidad de la sociedad civil en las tareas de control, vigilancia y evaluación de la gestión pública, y promover la creación de mayores vínculos y canales de comunicación entre la ciudadanía y el Gobierno;
+XXXIV. Impulsar la participación de los sectores social y privado en la prevención y combate a la corrupción, mejora de la gestión pública y, en su caso, celebrar los convenios correspondientes;
 
-XXXIII. Recibir, registrar, investigar, calificar, substanciar y resolver, en su caso, vistas, quejas o denuncias por actos, omisiones o conductas de los servidores públicos o particulares vinculados, que puedan constituir faltas administrativas, conforme al procedimiento previsto en la Ley General de Responsabilidades Administrativas, la Ley de Justicia Administrativa del Estado de Tabasco y demás ordenamientos aplicables. Asimismo, aplicar las sanciones que correspondan cuando éstas no sean graves o, en su caso, remitir el asunto al Tribunal de Justicia Administrativa del Estado cuando se trate de faltas consideradas como graves o faltas de particulares. Cuando se trate de delitos por hechos de corrupción, presentar las denuncias ante la autoridad competente;
+XXXV. Promover, en coordinación con la Secretaría de Educación e Instituciones de Educación Superior, la inclusión de contenidos educativos sobre integridad pública y combate a la corrupción;
 
-XXXIV. Atender y resolver las quejas e inconformidades que presenten los particulares u otras autoridades, con motivo de convenios, contratos, concesiones, acuerdos y cualquier otro acto jurídico que se celebren con las Dependencias y Entidades, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+XXXVI. Participar en el establecimiento de las bases y principios de coordinación de los integrantes de los Sistemas de Anticorrupción y de Fiscalización;
 
-XXXV. Iniciar de oficio, por sí o por conducto de los Órganos Internos de Control, investigaciones por conductas u omisiones de las personas servidoras públicas, que puedan constituir responsabilidades administrativas, así como substanciar y resolver, en su caso, los procedimientos conforme a lo establecido en la Ley General de Responsabilidades Administrativas y en la Ley de Justicia Administrativa del Estado de Tabasco;
+XXXVII. Ejercer las atribuciones que correspondan al Ejecutivo Estatal en el Sistema Estatal Anticorrupción, en términos de las disposiciones jurídicas aplicables;
 
-XXXVI. Vigilar el cumplimiento de las normas, lineamientos, políticas y procedimientos de carácter interno que deban observar las personas servidoras públicas, aplicando las sanciones disciplinarias correspondientes y en su caso, formular las denuncias o querellas de naturaleza penal, así como las de otra índole jurídica;
+XXXVIII. Implementar las políticas de coordinación que promueva el Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública, en términos de las disposiciones jurídicas aplicables;
 
-XXXVII. Participar en los actos de entrega-recepción de las Dependencias y Entidades, en los términos de la legislación y normatividad respectivas;
+XXXIX. Vigilar el cumplimiento de la política de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Tabasco, y hacer recomendaciones con carácter preventivo en los procedimientos de contratación regulados por las leyes mencionadas, en términos de las disposiciones jurídicas aplicables;
 
-XXXVIII. Colaborar con la Secretaría de Administración y Finanzas, en la gestión de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, tanto federales como estatales;
+XL. Acceder en el ámbito de su competencia, a la información, documentación, datos e imágenes, registros y demás relacionadas en poder de la Administración Pública que contribuyan con las investigaciones, actos de fiscalización, incluida su programación y, en general, con cualquier acción anticorrupción, para lo cual puede celebrar convenios, acuerdos y demás instrumentos jurídicos con instituciones públicas y privadas, así como con el gobierno federal;
 
-XXXIX. Realizar auditorías a los recursos informáticos con que cuenten las Dependencias y Entidades;
+XLI. Nombrar y remover a las personas titulares de los Órganos Internos de Control, así como a las personas titulares de sus jefaturas de departamento en las Dependencias y Entidades, los cuales dependerán jerárquica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno. La persona titular del órgano interno de control de la Secretaría será designada por la persona titular del Poder Ejecutivo, y se encargará de atender los asuntos de la Secretaría. Los órganos Internos de Control de las Dependencias atenderán los asuntos de sus órganos Desconcentrados.
 
-XL. Vigilar, en colaboración con las autoridades que integran el Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los Órganos Internos de Control de las Dependencias y Entidades;
+Los Órganos Internos de Control de las Dependencias y Entidades, se coordinarán con la Consejería Jurídica del Poder Ejecutivo del Estado para realizar la defensa jurídica en la esfera administrativa y ante los Tribunales, en el ámbito de su competencia;
 
-XLI. Implementar, en su ámbito de competencia, las acciones que se acuerden en las respectivas instancias del Sistema Nacional Anticorrupción y del Sistema Estatal Anticorrupción en términos de las disposiciones aplicables;
+XLII. Conocer e investigar las conductas de las personas servidoras públicas de la Administración Pública y de particulares que puedan constituir responsabilidades, así como substanciar los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas; aplicar las sanciones por faltas administrativas no graves y, cuando se trate de faltas administrativas graves, remitir ante el Tribunal de Justicia Administrativa del Estado, así como presentar las denuncias correspondientes ante la Fiscalía Especializada en materia de Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones jurídicas aplicables y, en general, ejercer las atribuciones que en materia de responsabilidades correspondan a la autoridad investigadora, a la autoridad substanciadora y a la autoridad resolutora, en términos de las disposiciones aplicables;
 
-XLII. Fungir como enlace del Poder Ejecutivo para dar seguimiento a los asuntos relacionados con el Sistema Estatal Anticorrupción y su Secretaría Ejecutiva, sin menoscabo de las funciones previstas para la Secretaría en la Ley del Sistema Estatal Anticorrupción; y
+XLIII. Participar en los actos de entrega-recepción de las Dependencias, Órganos y Entidades, en los términos de la legislación y normatividad respectivas;
 
-XLIII. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
+XLIV. Llevar el registro de las actas de entrega recepción de las Dependencias, Órganos y Entidades, y de las sanciones administrativas que les hayan sido impuestas a los servidores públicos o a los particulares;
+
+XLV. Recibir, registrar y custodiar las declaraciones patrimoniales y de intereses que presenten las personas servidoras públicas de las Dependencias, Órganos y Entidades de la Administración Pública, promoviendo el cumplimiento oportuno y adecuado de dicha obligación. Derivado de ello, mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los Declarantes de la Administración Pública, así como verificar su contenido mediante las acciones e instrumentos previstos en la Ley General de Responsabilidades Administrativas; y
+
+XLVI. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
 ###### Artículo 31.
 
@@ -1547,7 +1599,9 @@ A la Consejería Jurídica del Poder Ejecutivo del Estado le corresponde el desp
 
 I. Coordinar la función jurídica de la Administración Pública, con excepción de la materia fiscal;
 
-II. Brindar la asistencia jurídica que requiera la persona titular del Poder Ejecutivo en los asuntos que ésta le encomiende y encargarse de los asuntos jurídicos que requiera la Gubernatura y representación legal;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+II. Brindar la asistencia jurídica que requiera la persona titular del Poder Ejecutivo en los asuntos que ésta le encomiende y encargarse de los asuntos jurídicos que requiera la Oficina de la Gubernatura y representación legal;
 
 III. Asesorar y asistir jurídicamente a las Dependencias, Entidades y Órganos, cuando lo soliciten;
 
@@ -1699,7 +1753,9 @@ PRIMERO. El presente Decreto entrará en vigor el uno de enero del dos mil veint
 
 SEGUNDO. Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, publicada en el Periódico Oficial, extraordinario número 133, Decreto 060, de fecha veintiocho de diciembre de dos mil dieciocho, así como sus subsecuentes reformas y todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
-TERCERO. La Secretaría de Administración y Finanzas deberá llevar a cabo los ajustes administrativos y presupuestales necesarios para la implementación de la nueva estructura de la Administración Pública prevista en esta Ley, para operar a partir del uno de enero de dos mil veinticinco.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+TERCERO. Las Dependencias Globalizadoras deberán trabajar de manera colegiada para instrumentar políticas, programas y acciones, así como, adecuaciones jurídicas, administrativas, reglamentarias, normativas, técnicas, presupuestales, de estructuras orgánicas y de logística, que sean necesarias para la correcta organización de la Administración Pública Estatal, a partir del 1 de enero del 2025.
 
 CUARTO. A las Dependencias que asumen atribuciones que anteriormente correspondían a otras, recibirán el traslado de los recursos humanos, materiales técnicos y financieros correspondientes, mediante los actos jurídicos y administrativos que sean necesarios, bajo los criterios que establezcan las Dependencias Globalizadoras.
 
@@ -1709,9 +1765,11 @@ SEXTO. Tratándose de los organismos públicos descentralizados y desconcentrado
 
 Todos los recursos humanos, financieros y materiales pasarán a la Secretaría de que se trate, sin perjuicio de los derechos laborales de las personas servidoras públicas, así como los activos y pasivos del organismo respectivo.
 
-SÉPTIMO. Los recursos humanos y presupuestales asignados a los titulares de los Órganos Internos de Control de las Dependencias, así como a sus respectivos departamentos, deberán ser transferidos a la Secretaría de la Función Pública, debiendo las Dependencias programar anualmente en sus presupuestos, los gastos de operación necesarios para la atención de los asuntos relacionados con las funciones de los mismos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-En cuanto a las Entidades deberán prever los recursos humanos y presupuestales necesarios para la operación de sus Órganos Internos de Control.
+SÉPTIMO. Cada Dependencia deberá programar anualmente el presupuesto necesario para la operación de los Órganos Internos de Control. El Órgano Interno de Control de la Secretaría de Administración y Finanzas, se encargará de atender los asuntos de la Oficina de la Gubernatura.
+
+Las Entidades deberán programar los recursos necesarios para la creación y operación de sus Órganos Internos de Control.
 
 OCTAVO. Las referencias hechas en otros ordenamientos a las Dependencias que por virtud de esta Ley hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a la Dependencia que establece el presente Decreto.
 
@@ -1748,3 +1806,17 @@ SECRETARIO DE GOBIERNO
 JESÚS MANUEL ARGÁEZ DE LOS SANTOS
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2; 5, FRACCIONES V Y VI; 14; 19, FRACCIÓN X; 20; 21, FRACCIONES I, XI, XXIX, XXXI, XXXV, XXXVI Y XXXVII; 24, FRACCIONES I Y XLIX; 30; 35, FRACCIÓN II; Y LOS TRANSITORIOS TERCERO Y SÉPTIMO; SE ADICIONA: UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; Y SE DEROGA: LA FRACCIÓN I DEL ARTÍCULO 19, DEL DECRETO 013 POR EL QUE SE EXPIDIÓ LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el uno de enero del dos mil veinticinco, previa publicación en el Periódico Oficial.
+
+SEGUNDO.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa que se haga de la Secretaría de la Función Pública, se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno.
+
+TERCERO.- Las autoridades correspondientes deberán llevar a cabo los ajustes normativos y presupuestales necesarios para implementar las disposiciones del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
