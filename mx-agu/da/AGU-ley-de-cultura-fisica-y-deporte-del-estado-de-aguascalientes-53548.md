@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2024-12-02"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -337,7 +337,7 @@ El funcionamiento y requisitos de integración del SIEDE estarán regulados en t
 
 #### SECCION TERCERA. Del Director General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 13.
 
@@ -581,7 +581,7 @@ XXXIV. Ejercer las facultades que la Ley Orgánica de la Administración Públic
 
 ###### Artículo 20.
 
-El Director General del IDEA será nombrado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los requisitos que a continuación se señalan:
+La Persona Titular de la Dirección General del IDEA será nombrada y removida por la Persona titular del Poder Ejecutivo del Estado, debiendo recaer tal nombramiento en la persona que reúna los requisitos que a continuación se señalan:
 
 I. Ser mexicano por nacimiento o por naturalización;
 
@@ -2368,3 +2368,11 @@ P.O. 2 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 36.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
