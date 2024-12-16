@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2023-12-29"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -73,9 +73,15 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones Afirmativas. Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
-(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 2 DE AGOSTO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Discriminación. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+I Bis. Brecha salarial de género. Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
+
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+II. Discriminación. Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 (ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 2 DE AGOSTO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
@@ -84,6 +90,10 @@ III. Discriminación contra la Mujer. Toda distinción, exclusión o restricció
 > <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
 IV. Igualdad de Género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, saludable, cultural y familiar;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+IV Bis. Igualdad salarial. Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -137,9 +147,9 @@ III. Impulsar la vinculación interinstitucional en el marco del Sistema;
 
 IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia nacional, y
 
-> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
+V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida familiar, de cuidados, social, laboral, política, deportiva, cultural y civil.
 
 ###### Artículo 10.
 
@@ -221,17 +231,17 @@ V. Fomentar la participación social, política y ciudadana dirigida a lograr la
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA NACIONAL EN MATERIA DE IGUALDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-La Política Nacional en Materia de Igualdad entre mujeres y hombres deberá establecer las acciones conducentes a lograr la igualdad sustantiva en el ámbito, económico, político, saludable, social y cultural.
+La Política Nacional en Materia de Igualdad entre mujeres y hombres deberá establecer las acciones conducentes para lograr la igualdad sustantiva en los ámbitos familiar, de cuidados, económico, político, de salud, social, laboral y cultural, entre otros.
 
 La Política Nacional que desarrolle el Ejecutivo Federal deberá considerar los siguientes lineamientos:
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida; económico, político, saludable, social y cultural;
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida: familiar, de cuidados, económico, político, de salud, social, laboral y cultural;
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
@@ -258,6 +268,10 @@ VII. Adoptar las medidas necesarias para la erradicación de la violencia contra
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
 VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+VIII Bis. El establecimiento de medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género;
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -345,9 +359,9 @@ VIII. Las demás, que se requieran para el cumplimiento de los objetivos del Sis
 
 El Sistema Nacional tiene los siguientes objetivos:
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo, en los términos del último párrafo del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
+I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo, en los términos del último párrafo del artículo 1o. y primer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Contribuir al adelanto de las mujeres;
 
@@ -417,25 +431,29 @@ II. Desarrollo de acciones para fomentar la integración de políticas públicas
 
 III. Impulsar liderazgos igualitarios;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, y
+IV. Diseño, implementación, ejecución y evaluación de políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social, y
 
 > <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2018)</small>
 
 V. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 34.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes en coordinación con la Secretaría de las Mujeres garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
-I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo o género y la brecha salarial de género;
 
 II. Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
 
-III. Fomentar el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, especialmente;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+III. Fomentar el acceso al trabajo de las personas que debido a su sexo o género están relegadas de puestos directivos, para contribuir a disminuir y erradicar la brecha salarial de género;
 
 IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos nacionales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia nacional laboral;
 
@@ -445,9 +463,15 @@ VI. Financiar las acciones de información y concientización destinadas a fomen
 
 VII. Vincular todas las acciones financiadas para el adelanto de las mujeres;
 
-VIII. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+VIII. Reducir y erradicar la brecha salarial y la segregación de las personas por razón de su sexo o género, del mercado de trabajo;
 
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XI Bis. Expedir Certificados de Igualdad Laboral de Género y No Discriminación y operar un padrón nacional de centros de trabajo certificados en materia de igualdad laboral y no discriminación, en los términos de la normatividad aplicable;
 
 > <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -780,3 +804,13 @@ D.O.F. 29 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan (sic) sus efectos legales y cobren vigencia.
+
+Tercero.- Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
