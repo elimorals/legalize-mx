@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2023-12-20"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -907,9 +907,13 @@ VI. Los auditores, visitadores, inspectores, interventores, notificadores, ejecu
 
 VII. Los Administradores y Receptores de Rentas dentro de sus respectivas jurisdicciones; y,
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VIII. Los demás subalternos de la propia Secretaría, comisionados por el titular de ésta, mediante instrucciones por escrito.
+VIII. El Subsecretario de Finanzas de la Secretaría de Finanzas y Administración; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IX. Los demás subalternos de la propia Secretaría, comisionados por el titular de ésta, mediante instrucciones por escrito.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
@@ -1803,21 +1807,33 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones fisc
 
 Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con las disposiciones aplicables de la ley de ingresos y este Código.
 
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016) (F. DE E., P.O. 23 DE ENERO DE 2017)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 53-A.
 
-Las multas que este Capítulo establece, aplicables a los contribuyentes que tributen conforme al Título Segundo, Capítulo IV, Sección I, de la Ley de Hacienda del Estado, se considerarán reducidas en los casos que durante el ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales el contribuyente corrija su situación fiscal:
+Las multas que este Capítulo establece, aplicables a los contribuyentes que tributen conforme al Título Segundo de la Ley de Hacienda del Estado, se considerarán reducidas en el caso de que, durante el ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales el contribuyente corrija su situación fiscal:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 I. En un 50%, cuando el contribuyente solicite la reducción de multas a que se refiere este artículo antes de que la autoridad emita oficio de observaciones o levante última acta parcial, en el ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 II. En un 30%, cuando el contribuyente solicite la reducción de multas a que se refiere este artículo después de notificado el oficio de observaciones o levantada la última acta parcial, pero antes de que se emita la resolución determinante de crédito fiscal, en ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 III. En un 20% dentro de los 30 días siguientes, cuando se pague después de haberse notificado la resolución correspondiente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 Sólo procederá la reducción de las multas a que se refiere este artículo, respecto de multas firmes o que sean consentidas por el infractor y siempre que un acto administrativo conexo no sea materia de impugnación, así como respecto de multas determinadas por el propio contribuyente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 Se tendrá por consentida la infracción o, en su caso, la resolución que determine las contribuciones, cuando el contribuyente solicite la reducción de multas a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
 
@@ -2117,13 +2133,15 @@ b) Dos placas.
 
 No se considerará infracción cuando el usuario compruebe mediante acta levantada ante el Ministerio Público, que le fue robada.
 
-VI. No realizar el trámite de reposición de tarjetas de circulación en caso de extravío; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VI. No realizar el trámite de reposición de tarjetas de circulación en caso de extravío;
 
 VII. No presentar la baja del vehículo automotor o remolque;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado por el artículo 42 de la Ley de Hacienda del Estado de Michoacán;
+VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado por el artículo 11 de la Ley de Hacienda del Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2133,13 +2151,17 @@ IX. No tramitar o hacerlo extemporáneamente la obtención original de placas de
 
 X. Colocar en los vehículos automotores, placas con características que no correspondan a las de las placas autorizadas por la autoridad competente o colocar placas distintas a las asignadas;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XI. No realizar el refrendo anual de circulación en el plazo que establezcan las disposiciones fiscales o hacerlo a requerimiento de la autoridad fiscal; y,
+XI. No realizar el refrendo anual de circulación en el plazo que establezcan las disposiciones fiscales o hacerlo a requerimiento de la autoridad fiscal;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XII. No contar con la constancia de inscripción al Registro Público Vehicular.
+XII. No contar con la constancia de inscripción al Registro Público Vehicular; y,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XIII. No tramitar el cambio de domicilio dentro del plazo señalado por el artículo 63, último párrafo de la Ley de Hacienda del Estado de Michoacán.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2322,6 +2344,10 @@ III. El que omita la expedición de documentos, cuando sea obligatorio expedirlo
 IV. El que proporcione a las autoridades fiscales falsamente los datos necesarios para determinar una contribución; y
 
 V. El que haciendo uso de engaño o aprovechándose de su error, omita parcial o totalmente el pago de una contribución u obtenga un beneficio indebido en perjuicio del Fisco Estatal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El delito de defraudación fiscal y el delito previsto en el artículo 236 del Código Penal para el Estado de Michoacán, se podrán perseguir simultáneamente. Se presume cometido el delito de defraudación fiscal cuando existan ingresos o recursos que provengan de operaciones con recursos de procedencia ilícita.
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)
 
@@ -3708,3 +3734,19 @@ PRIMERO. El presente Decreto entrará en vigor el día 1° de enero de 2024, pre
 SEGUNDO. Las personas físicas y morales inscritas en el Registro Estatal de Contribuyentes contarán con un plazo de 12 doce meses contados a partir de la entrada en vigor del presente Decreto, para proporcionar o actualizar en el Registro Estatal de Contribuyentes sus datos electrónicos de contacto.
 
 TERCERO. Para los efectos del artículo 16-C, fracción I del presente Decreto, las autoridades fiscales podrán hacer uso del buzón tributario para la notificación electrónica de los actos o resoluciones administrativas que emitan en documentos digitales, incluyendo aquellas que puedan ser recurribles, a partir del 1 de enero de 2025 dos mil veinticinco, por lo que, en tanto entra en vigor, las notificaciones que en el Código Fiscal del Estado hagan referencia al buzón tributario, deberán realizarse de conformidad con las otras formas establecidas en el artículo 113 del Código Fiscal del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 112.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 26 FRACCIÓN VIII, 53-A PRIMER PÁRRAFO; 71 FRACCIONES VI, VIII, XI Y XII; Y SE ADICIONAN UNA FRACCIÓN IX AL ARTÍCULO 26; UNA FRACCIÓN XIII AL ARTÍCULO 71; Y, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 88, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1º primero de enero de 2025, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Dese cuenta el presente Decreto al titular de la Secretaría de Finanzas y Administración, para su conocimiento y los efectos correspondientes.
