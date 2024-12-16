@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2024-04-05"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -5071,6 +5071,10 @@ En caso de que ocurra una vacante temporal, la Legislatura nombrará al magistra
 
 Tratándose de una vacante definitiva de magistrada o magistrado, será comunicada a la Cámara de Senadores, por conducto de la Presidenta o del Presidente de dicho Tribunal Electoral, para que provea el procedimiento de sustitución. La vacante temporal es aquélla que no excede de tres meses.
 
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2024)</small>
+
+En caso de que las vacantes definitivas impidan que el Pleno del Tribunal sesione válidamente, las magistradas o magistrados en funciones deberán habilitar a la persona titular de la Secretaría General de Acuerdos, siempre y cuando tenga una antigüedad mínima de 6 meses en el cargo, para que funja como magistrada hasta en tanto la Cámara de Senadores realice el nombramiento correspondiente; durante este periodo el Pleno del Tribunal, por mayoría de votos, deberá nombrar a la persona que supla a la persona titular de la Secretaría General de Acuerdos.
+
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 385.
@@ -5215,11 +5219,11 @@ Los servidores del Tribunal Electoral serán sujetos del régimen de responsabil
 
 El Tribunal Electoral determinará las condiciones generales de trabajo en que habrán de prestarse los servicios, tomando en consideración la naturaleza de la materia electoral y lo relativo a percepciones, prestaciones, gratificaciones, indemnizaciones, liquidaciones y finiquitos que conforme a la ley laboral corresponda. En todo caso, el reglamento correspondiente deberá respetar las garantías establecidas en el apartado B del artículo 123 de la Constitución Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 393.
 
-El Secretario General de Acuerdos, los notificadores y secretarios proyectistas del Tribunal Electoral, deberán ser ciudadanos del Estado, mayores de veinticinco años, con título de Licenciado en Derecho legalmente registrado y en pleno ejercicio de sus derechos civiles y políticos.
+El Secretario General de Acuerdos, los notificadores y secretarios proyectistas del Tribunal Electoral, deberán ser ciudadanos del Estado, mayores de veinticinco años, con título de Licenciado en Derecho legalmente registrado, en pleno ejercicio de sus derechos civiles y políticos, y no podrán haberse desempeñado como Magistrada o Magistrado del Tribunal Electoral en los dos años previos a su designación.
 
 En ejercicio de sus funciones los notificadores gozarán de fe pública.
 
@@ -7842,3 +7846,23 @@ NOVENO. La persona titular de la Consejería Jurídica deberá designar a las pe
 DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+G.G. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 19.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 393 Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 384 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Las personas notificadoras, secretarias proyectistas y la persona titular de la Secretaría General de Acuerdos continuarán en sus cargos, por lo menos hasta que la Cámara de Senadores realice los nombramientos de magistraturas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Se dejan sin efectos los acuerdos, determinaciones o resoluciones del Pleno del Tribunal Electoral del Estado de México que tengan por objeto impedir su funcionamiento de conformidad con el presente Decreto.
