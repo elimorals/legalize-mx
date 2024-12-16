@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2024-01-26"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPP"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -1590,9 +1590,11 @@ XXIV. Las demás que señale este Código y otras disposiciones aplicables.
 
 ### CAPÍTULO VI. POLICÍA
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 132.
 
-Obligaciones del Policía
+Obligaciones de las y los Policías
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2023)</small>
 
@@ -1644,7 +1646,9 @@ e) Tratándose de delitos por razón de género, deberá actuar con perspectiva 
 
 XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;
 
-XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
 XIV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales, y
 
@@ -1724,9 +1728,11 @@ Si por las circunstancias del caso, las partes que intervienen en el procedimien
 
 ### CAPÍTULO I. MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 137.
 
-Medidas de protección
+Medidas u Órdenes de Protección
 
 El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
 
@@ -1754,7 +1760,9 @@ Dentro de los cinco días siguientes a la imposición de las medidas de protecci
 
 En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este Código.
 
-En la aplicación de estas medidas tratándose de delitos por razón de género, se aplicarán de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 138.
 
@@ -1774,13 +1782,19 @@ Las providencias precautorias serán canceladas si el imputado garantiza o paga 
 
 La providencia precautoria se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria. El embargo se regirá en lo conducente por las reglas generales del embargo previstas en el Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 139.
 
-Duración de las medidas de protección y providencias precautorias
+Duración de las medidas u órdenes de protección y providencias precautorias
 
 La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.
 
 Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ### CAPÍTULO II. LIBERTAD DURANTE LA INVESTIGACIÓN
 
@@ -6169,3 +6183,15 @@ D.O.F. 26 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 258 Y 467 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN MATERIA DEL RECURSO DE APELACIÓN”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES Y DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, EN MATERIA DE MEDIDAS DE PROTECCIÓN Y DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá prever en el Presupuesto de Egresos las partidas suficientes y necesarias para la implementación del Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+
+Tercero.- Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+Cuarto.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto. Todas las referencias que se contengan en la Ley General del Sistema Nacional de Seguridad Pública a la coordinación o cualquiera otra acción entre la Federación, las entidades federativas y los municipios tendrán por incorporada a las demarcaciones territoriales de la Ciudad de México.
