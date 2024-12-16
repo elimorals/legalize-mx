@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2024-06-05"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -71,17 +71,239 @@ La recaudación y administración de los impuestos, derechos, productos y aprove
 
 Para efectos de esta Ley, se entiende por:
 
-I. Ayuntamiento: Al Honorable Ayuntamiento de Isla Mujeres;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Código: Al Código Fiscal Municipal del Estado de Quintana Roo;
+I. Autoridades fiscales: Aquellas autoridades administrativas del Municipio, que conforme a las leyes fiscales estén facultadas para administrar, comprobar, determinar y cobrar ingresos municipales, en el ámbito de sus respectivas competencias;
 
-III. Ley: Ley de Hacienda del Municipio de Isla Mujeres del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-IV. Registro Público: Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo;
+II. Autoridades Municipales: Aquellas unidades administrativas del Ayuntamiento que ejerzan las facultades establecidas en las leyes municipales, en el ámbito de sus respectivas competencias;
 
-V. Tesorería: Tesorería Municipal de Isla Mujeres;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VI. UMA: Valor Diario de la Unidad de Medida y Actualización.
+III. Ayuntamiento: Al Honorable Ayuntamiento de Isla Mujeres, es decir, el órgano de gobierno, integrado por la persona titular de la Presidencia Municipal, la persona titular de la sindicatura y las personas titulares de las Regidurías, elegidas en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IV. Código: Al Código Fiscal Municipal del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+V. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VI. Cédula de inscripción y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas: Es el documento expedido por la Tesorería que acredita la inscripción, pago anual de derechos por refrendo y/o modificaciones al régimen de unidad económica;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VII. Crédito Fiscal: Es la obligación fiscal determinada en cantidad líquida, y deberá pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VIII. CFDI: Comprobante Fiscal Digital por Internet previsto en el Código Fiscal de la Federación y toda su normatividad relacionada;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IX. Dependencias: Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento de Isla Mujeres y órganos descentralizados;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+X. Estado de Cuenta: El documento donde se contiene el reporte de adeudos consolidado o resumido de un contribuyente con fines informativos y que no constituye instancia; mismo que puede ser enviado por mensajería ordinaria o certificada de forma indistinta, o bien generada a través de los portales electrónicos que para tal efecto implemente o contrate la Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XI. Estímulos fiscales: Prestaciones económicas concedidas por el Municipio a una persona o grupo de personas con el objeto de apoyarlas o fomentar su desarrollo económico o social, ante una situación de desventaja o desigualdad;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XII. Firma Digital: Medio gráfico de identificación consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento; Así mismo tendrá el mismo efecto la utilización de contraseña alfanumérica que el municipio otorgue en las plataformas digitales o sitios de internet debidamente autorizados;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XIII. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntado o lógicamente asociado al mismo que permite garantizar la autenticidad del emisor, su procedencia, la integridad de la información firmada y el no repudio de los mismos y que produce los mismos efectos jurídicos que la firma autógrafa. La Tesorería establecerá elementos necesarios para garantizar la autenticidad de certificado utilizado para elaborar la firma;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XIV. Formato: Documento oficial solicitado por las dependencias o secretarías municipales como parte de los requisitos necesarios para realizar un trámite o solicitar un servicio y que deberá ser previamente autorizado para su utilización por la Tesorería;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XV. Hacienda Municipal: La Hacienda Pública Municipal, se formará por los bienes municipales del dominio público y privado, así como por los rendimientos de los bienes que les pertenezcan, de las contribuciones y otros ingresos fiscales que las legislaturas establezcan a su favor;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XVI. Ley de Hacienda o Ley: Ley de Hacienda del Municipio de Isla Mujeres del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XVII. Municipio: El Municipio de Isla Mujeres del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Notificación Electrónica: Acto administrativo jurídico formal por medio del cual, a través del uso de medios electrónicos y telemáticos, tales como páginas web o correos electrónicos, observando las formalidades legales preestablecidas, se hace fehacientemente del conocimiento de los contribuyentes, terceros, responsables solidarios, representantes o personas autorizadas el contenido de un acto o resolución;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XIX. Padrón Fiscal Municipal de Unidades Económicas o Padrón Fiscal Municipal: Para efectos de la presente Ley se entenderá como tal, al registro administrativo de índole fiscal que contempla la información cualitativa y cuantitativa de las unidades económicas, que se encuentran regularizadas en el territorio municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XX. Registro Público: Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXI. Presidente: La persona titular de la presidencia constitucional del Honorable Ayuntamiento del Municipio de Isla Mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXII. QR: Es un código de barras bidimensional cuadrada que puede almacenar los datos codificados, generalmente usado por el municipio para dirigir al portal oficial de pagos del municipio o para facilitar el cumplimiento de diversas obligaciones administrativas o fiscales de los contribuyentes, así como para en su caso verificar la autenticidad de los diferentes documentos que con motivo de cumplimiento de obligaciones expidan las autoridades fiscales;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Reglas, normas o disposiciones de carácter general: Aquellas que el H. Cabildo apruebe y publique, de conformidad por lo establecido por esta Ley, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Refrendo: Es el acto por el cual el contribuyente solicita a las autoridades competentes la actualización de su registro municipal de contribuyentes;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXV. Sello digital: Cadena de caracteres que acredita que un archivo electrónico oficial, fue emitido por la autoridad fiscal;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Sistema: Programa informático, a través del cual, se realiza el registro, refrendo y/o modificaciones al régimen de la Unidades Económicas, permitiendo agilizar su proceso de cobro, mismo que será operado por la Tesorería;
+
+Todas las autoridades y servidores públicos de las diferentes áreas de la Administración Pública Municipal quedan obligadas a coadyuvar con la Tesorería para la actualización de datos y/o alimentación del sistema con la información o registro que tenga en su poder;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXVII. SCIAN: Sistema de Clasificación Industrial de América del Norte;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Tesorería: Tesorería Municipal de Isla Mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Tesorero: La persona titular de la Tesorería del Honorable Ayuntamiento del Municipio de Isla Mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXX. Unidad Económica: Todo establecimiento comercial, industrial o de prestación de servicios que se encuentre dentro del territorio del Municipio de Isla Mujeres del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Unidad de Medida y Actualización diaria (UMA): Es el Valor Diario de la Unidad de Medida y Actualización, es decir, es la unidad que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 5 Bis.
+
+En el Municipio son autoridades fiscales:
+
+I. El Ayuntamiento;
+
+II. La persona titular de la Presidencia;
+
+III. La persona titular de la Tesorería, y las personas titulares de las unidades administrativas que de éste dependen;
+
+IV. Las personas titulares de direcciones, coordinaciones y jefaturas de departamento de la Tesorería quienes conforme a las disposiciones municipales tengan facultades para recaudar y administrar contribuciones, así como ejercer la función de ejecución fiscal;
+
+V. Las personas titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
+
+VI. Las demás personas servidoras públicas que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo, y
+
+VII. Las que así considere el Código Fiscal Municipal del Estado de Quintana Roo, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
+
+Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 5 Ter.
+
+Son obligaciones de los contribuyentes:
+
+I. Inscribirse en el padrón fiscal municipal que les corresponda, dentro del mes siguiente contado a partir de la fecha de inicio de operaciones y durante los primeros 3 meses de cada ejercicio para los refrendos ante la Tesorería;
+
+II. Señalar domicilio fiscal en el Municipio que les corresponda y, en su caso, domicilio para recibir notificaciones;
+
+III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
+
+IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, cumpliendo con los requisitos legales;
+
+V. Firmar todos los documentos dirigidos a las autoridades fiscales municipales;
+
+VI. Mantener actualizados los documentos de control y cumplimiento de sus obligaciones fiscales, que deberán ser proporcionados, en copia fotostática, a la autoridad fiscal cuando sean requeridos;
+
+VII. Conservar toda la documentación fiscal o la relacionada con ésta, así como los elementos contables y comprobatorios del cumplimiento de las obligaciones en dicha materia, en el domicilio fiscal ubicado en el Municipio, durante un término no menor de cinco años;
+
+VIII. Proporcionar a las autoridades fiscales los datos o informes que les soliciten, dentro del plazo fijado para ello;
+
+IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamiento, las licencias, permisos, registros o autorizaciones originales, así como otros documentos diversos de la misma naturaleza de los anteriores que les sean requeridos;
+
+X. Devolver para su cancelación el documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
+
+XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el Padrón Fiscal Municipal;
+
+XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales;
+
+XIII. Recibir estados de cuenta o cartas invitación de carácter informativo con el propósito de proporcionar información de sus adeudos fiscales, los cuales no constituirán instancia alguna, y
+
+XIV. Las demás que dispongan esta Ley, el Código Fiscal Municipal del Estado de Quintana Roo, las leyes, reglamentos y ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 5 Quater.
+
+Son facultades de las autoridades fiscales, además de las previstas (sic) el Código Fiscal Municipal del Estado de Quintana Roo, las siguientes:
+
+I. Proporcionar orientación y asistencia gratuita a los contribuyentes, con respecto a las disposiciones fiscales de su competencia;
+
+II. Contestar las consultas que sobre situaciones reales y concretas le hagan los interesados individualmente. De su resolución favorable se derivarán derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido mediante escrito de la autoridad competente para ello;
+
+III. Expedir circulares para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacerán obligaciones ni derechos para los particulares.
+
+Únicamente se derivarán derechos de las mismas cuando sean publicadas en la Gaceta Municipal;
+
+IV. Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen esta Ley y los demás ordenamientos fiscales;
+
+V. Expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorías, inspecciones, vigilancia, verificaciones, requerimientos y demás actos que se deriven de las disposiciones fiscales municipales;
+
+VI. Reconocer la anulabilidad, declarar la nulidad o revocar de oficio los actos administrativos que sean emitidos en contravención a las disposiciones legales aplicables;
+
+VII. Contestar las demandas e intervenir como parte en los juicios que se susciten con motivo del ejercicio de las facultades conferidas en este ordenamiento al Ayuntamiento;
+
+VIII. Designar abogados con el carácter de delegados o autorizados para oír y recibir notificaciones en su nombre y representación en los juicios en que intervenga;
+
+IX. Emitir o, en su caso, ordenar la publicación de los edictos que procedan en los asuntos de su competencia;
+
+X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, así como los demás registros que establezcan las leyes fiscales;
+
+XI. Determinar, mediante resolución, la responsabilidad solidaria.
+
+XII. Enviar estados de cuenta o cartas invitación de carácter informativo a los domicilios de los contribuyentes sin que se consideren resoluciones administrativas, y sin constituir instancia al tener como finalidad que el contribuyente regularice su situación fiscal;
+
+XIII. Utilizar firmas digitales o firmas electrónicas avanzadas, así como sellos digitales, en sustitución de las firmas autógrafas, en documentos que hagan constar el cumplimiento de disposiciones fiscales;
+
+XIV. Requerir a los contribuyentes el cumplimiento de sus obligaciones, para el caso de incumplimiento ejercer sus facultades de comprobación;
+
+XV. Interpretar a efectos administrativos y resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a las autoridades fiscales, en la materia que no estén expresamente asignadas por esta Ley a otras autoridades administrativas;
+
+XVI. Autorizar convenios de pagos en parcialidades previa solicitud escrita por parte del contribuyente, apreciando discrecionalmente las circunstancias del caso, y
+
+XVII. Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y las que le sean delegadas o encomendadas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 5 Quinquies.
+
+La Tesorería podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de las contribuciones y sus accesorios, infracciones y sanciones, de acuerdo a lo dispuesto en esta Ley.
+
+Corresponde a la Tesorería, el otorgar facilidades administrativas o la emisión de resoluciones de descuentos en el pago de contribuciones, productos, aprovechamientos o accesorios generados, a favor de las personas físicas o morales que lo soliciten en términos de lo establecido en esta Ley.
+
+Asimismo, tratándose de situaciones de emergencia o contingencia provocadas por desastres naturales, situación socioeconómica adversa, epidemias, pandemias o sucesos que generen inestabilidad social, el Presidente Municipal podrá expedir disposiciones de carácter general para el área, zona o región afectada dentro del Municipio de su circunscripción, por medio de las cuales se implementen programas de estímulos fiscales, dando cuenta de inmediato al H. Ayuntamiento.
 
 ###### Artículo 6.
 
@@ -257,11 +479,15 @@ I. La adquisición de bienes inmuebles que consistan en terreno, terreno con con
 
 II. La celebración de contratos que impliquen la compraventa con reserva de dominio o sujeta a condición;
 
-III. La adquisición de propiedad en virtud de remate judicial o administrativo y por adjudicación sucesoria;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+III. La adquisición de propiedad en virtud de remate judicial, administrativo; remate o adjudicación en materia laboral en los términos de lo dispuesto por la fracción II inciso b) del artículo 975 de la Ley Federal del Trabajo y por adjudicación sucesoria;
 
 IV. La permuta, cuando a través de ellas se transmita la propiedad;
 
-V. La transmisión de la propiedad de bienes inmuebles que realice el fideicomitente en la constitución del fideicomiso traslativo de dominio o la aportación de estos a un fideicomiso;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+V. La transmisión de la propiedad de bienes inmuebles, que realice el fideicomitente en el proceso de constitución de un fideicomiso traslativo de dominio o la aportación de éstos, o la contribución a un fideicomiso de cualquier naturaleza, aun cuando se contemple la cláusula del derecho de reversión en la transmisión o aportación en dichos fideicomisos.
 
 VI. La transmisión de la propiedad de bienes inmuebles que haga la fiduciaria en cumplimiento del fideicomiso;
 
@@ -273,7 +499,17 @@ IX. La adquisición de inmuebles en dación de pago, y
 
 X. La transmisión de la propiedad por herencia o legado.
 
-No será objeto de este impuesto, las adquisiciones de inmuebles hechas por dependencias, entidades u organismos estatales o municipales para la realización de acciones o programas de vivienda, su legalización y regularización y, a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XI. La fusión o escisión de sociedades;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XII. La donación, excluyéndose la primera donación en línea recta entre descendientes y ascendientes, que se realice sobre un bien inmueble.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Si al realizar la transmisión de dominio de un predio y el inmueble llegare a contar con construcción, el adquirente deberá acreditar ante la autoridad con documentación oficial, que dichas obras o mejoras fueron realizadas por el mismo; en caso contrario, dichas obras o mejoras deberán ser consideradas en la base para el cálculo del impuesto señalado en este artículo, bajo la presunción de que se transmitió el terreno con dicha construcción en forma preexistente.
 
 #### SECCIÓN II. Sujetos
 
@@ -295,23 +531,41 @@ I. El valor de la adquisición o precio pactado; este será actualizado por el f
 
 II. El avalúo catastral con una antigüedad no mayor de seis meses a la fecha de adquisición, o
 
-III. El avaluó practicado por peritos valuadores que se encuentren inscritos en el registro estatal correspondiente o el avalúo practicado por institución bancaria; en ambos casos con una antigüedad no mayor de seis meses a la fecha de adquisición.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-Cuando no exista el valor o precio pactado a que se refiere la fracción I, se aplicará el avalúo que resulte más alto de las fracciones II y III.
+III. El avalúo practicado por peritos valuadores que se encuentren en el registro estatal correspondiente o el avalúo practicado por institución bancaria; en ambos casos, con una antigüedad no mayor a 180 días previos a la fecha de adquisición, o el último valor declarado por el contribuyente enajenante.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El valor más alto será actualizado de acuerdo a lo previsto en el Código Fiscal de la Federación.
 
 Para los fines de este impuesto se considera que el usufructo o la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-El impuesto se calculará aplicando la tasa del 3% al valor del inmueble.
+El impuesto se calculará aplicando las tasas de conformidad con la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 16 DE DICIEMBRE DE 2024, PÁGINAS 334 Y 335.]</small>
+
+Para el cálculo, a la base del impuesto se le disminuirá el límite inferior que corresponda, el resultado será el excedente del límite inferior y se le aplicará la tasa marginal, el resultado se le sumará la cuota fija que corresponda, y el importe de dicha operación será el impuesto a pagar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 26.
 
-La vivienda de interés social y popular tendrá un deducible equivalente a 10 veces la UMA. elevada al año, mismo que será aplicable a la base para el cálculo del impuesto. Para los efectos de este artículo se considera:
+La vivienda social tendrá un deducible equivalente a 10 veces la UMA elevado al año, mismo que será aplicable a la base para el cálculo del impuesto, únicamente cuando se trate del primer acto de adquisición de la vivienda y que la persona que la adquiera no haya obtenido este beneficio en otra propiedad en el Municipio. El valor de adquisición de la vivienda social no excederá el importe que resulte de multiplicar por 20 veces el valor diario de la UMA elevado al año. Para los efectos de este artículo se considera:
 
-I. Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la cantidad que resulte de multiplicar por veinte la UMA. elevada al año, y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Vivienda popular, aquella cuyo valor al término de su edificación, no exceda del importe que resulte de multiplicar por treinta la UMA. elevado al año.
+I. Vivienda social, aquella que se acredite conforme a los términos establecidos en el artículo 5 fracción XXIII de la Ley de Vivienda del Estado de Quintana Roo.
+
+II. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+A efecto de acreditar dicho supuesto, las autoridades fiscales, en cualquier momento, podrán ejercer sus facultades de comprobación para verificar que el acto que pretende ser sujeto de deducción sea el primero y que no haya sido deducido el Impuesto generado por otro acto traslativo previo sobre el mismo bien inmueble; debiendo, el sujeto obligado, cubrir el importe del Impuesto y los accesorios que llegaren a generarse.
 
 #### SECCIÓN IV. De la Época y forma de pago
 
@@ -325,19 +579,45 @@ II. A la adjudicación de los bienes de la sucesión o a los tres años de la mu
 
 III. Tratándose de adquisiciones, efectuadas a través de fideicomisos, cuando se realicen los supuestos de enajenación en los términos del Código. Cuando se adquieran bienes inmuebles por dación en pago, se tomará como base gravable el avalúo comercial practicado por persona autorizada, a partir de la fecha de la celebración del convenio respectivo;
 
-IV. Al proporcionarse o inscribirse el reconocimiento judicial de la prescripción positiva, remate judicial y administrativo; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IV. Al proporcionarse o inscribirse el reconocimiento judicial de la prescripción positiva, adquisitiva o usucapión, remate judicial, administrativo, remate o adjudicación en materia laboral, y;
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público para poder surtir efectos en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El pago del impuesto se hará de conformidad con lo establecido en el artículo 4 Bis de esta ley y se acompañará una copia del avalúo que corresponda al que se refiere el artículo 26 de esta ley.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Cuando el sujeto obligado no realice la Traslación de Dominio dentro del término establecido en el artículo 28, la Autoridad Fiscal estará facultada, para realizar el cobro de multas por concepto de extemporaneidad conforme a lo establecido en el Código Fiscal Municipal del Estado de Quintana Roo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de adquisiciones que se deriven de los actos mencionados en el artículo 24 de esta Ley, que no se hagan constar en escritura pública, el adquirente tendrá carácter de responsable respecto del impuesto sobre adquisición de inmuebles que se genere a cargo de este y omita su pago.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+En el caso de adquisiciones de inmuebles derivadas de actos consignados en documentos privados, el plazo para el ejercicio de las facultades de comprobación de las autoridades fiscales, así como el de prescripción, comenzarán a correr a partir de que dichas autoridades tengan conocimiento de la celebración de tales actos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El Registro Público de la Propiedad y del Comercio competente se abstendrá de realizar la Inscripción Registral si no se acredita el cumplimiento de esta obligación.
 
 ###### Artículo 28.
 
 En todos los casos el pago del impuesto se hará en la Tesorería Municipal, utilizando las formas que para tal fin autorice esa dependencia y a las que acompañará siempre, una copia del avalúo a que se refiere el artículo 24 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 29.
 
-En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en escritura pública expresamente y lo enterarán mediante declaración autorizada en la Tesorería Municipal que corresponda a su domicilio, expresando:
+En las adquisiciones que se hagan constar en escritura pública, los notarios públicos, jueces, corredores y demás fedatarios públicos que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en escritura pública incluyendo las prescripciones adquisitivas o usucapión y laudos laborales aun cuando sea por sentencia, lo enterarán mediante declaración autorizada, o en los medios electrónicos dispuestos y autorizados, por la tesorería municipal con la manifestación bajo protesta de decir verdad que los documentos digitalizados y presentados en la plataforma oficial son copia íntegra e inalterada del documento impreso, sin que se impida que el Municipio en uso de sus facultades de manera excepcional y en caso de verdadera duda, pueda requerir al contribuyente la exhibición del documento fuente a fin de verificar su coincidencia, expresando:
 
-I. Nombre y domicilio de los contratantes y del adquirente;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Nombre completo, domicilio fiscal o domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes (RFC), correo electrónico y teléfono de ambas partes adquirente y enajenante.
 
 II. Nombre del notario o fedatario, así como el número de la notaría en que se otorgó la escritura;
 
@@ -358,6 +638,24 @@ VIII. Copia del certificado de no adeudo de cooperación por obras; y
 IX. Tratándose de compraventa de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución.
 
 Cuando en los avisos o manifestaciones no se acompañe la documentación requerida, las autoridades fiscales municipales concederán un término de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento. Si transcurrido dicho término no se presenta la documentación requerida, se tendrán por no presentadas dichas manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+X. Tratándose de unidades privativas, de aprovechamiento o propiedad exclusiva pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas, de aprovechamiento o propiedad exclusiva, y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XI. Tratándose de compraventa de inmuebles, o cualquier acto traslativo de dominio que implique la enajenación de bienes inmuebles o adquisición por cualquier medio legal, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la tesorería municipal con el que acrediten estar al corriente en el pago de esta contribución a la fecha de la escritura pública o resolución judicial, conforme a la categoría, condición y vocación del inmueble a transmitir.
+
+Para el caso de que, en el Formato de Declaración y determinación del Impuesto, no expresare el RFC del adquirente o fuere de nacionalidad Extranjera, la Dirección de Ingresos de la Tesorería Municipal, expedirá el Comprobante Fiscal Digital (CFDI) para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el archivo XML del CFDI y su representación gráfica, de conformidad con las reglas vigentes.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XII. Los actos, contratos o convenios relativos a la transmisión de la propiedad deberán contener las cláusulas relativas a la utilización del suelo que determinen los programas municipales a que se refiere el artículo 31 y 75 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XIII. Tratándose de actos de enajenación en el que se pacte la venta del inmueble baldío, sin construcción y se pretenda pagar el impuesto tomando como base este valor, el adquirente deberá acreditar que las construcciones existentes al momento de formalizar la compraventa, las realizó posteriormente con recursos propios y con la finalidad de acreditarlo deberá presentar la licencia de construcción, así como la terminación de obra a nombre del comprador y de igual manera deberá adjuntar el contrato de promesa de compraventa, compraventa a plazos o instrumento legal que corresponda.
 
 ###### Artículo 30.
 
@@ -381,11 +679,11 @@ I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bi
 
 II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad;
 
-III. La persona a quien por rescisión o cualquier otra ineficacia del contrato que conste en resolución judicial ejecutoriada, le hubieren sido devueltos los bienes o derechos que trasmitió;
+III. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
-IV. Cuando por cualquier causa regresen los bienes o derechos al enajenante dentro de los 60 días naturales de la fecha en que se celebró el contrato de transmisión, y
+IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
-V. Los trabajadores que encontrándose en huelga, acepten destinar sus salarios caídos o créditos laborales para la adquisición de partes sociales o activos de la empresa en la que laboran, o de nuevas empresas que reanudarán la producción de sus plantas para la fabricación de los mismos o similares bienes; así como a las empresas que dichos trabajadores constituyan, y a las personas morales donde las empresas de los trabajadores participen como socios o las empresas que adquieran bienes para participar con los trabajadores en conjunto a fin de reactivar las plantas industriales que estén en huelga.
+V. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
 ### CAPITULO III. Del Impuesto sobre Diversiones, Video Juegos y Espectáculos Públicos
 
@@ -765,9 +1063,9 @@ XV. Inversión Pública destinada a la atención de los programas y acciones par
 
 XVI. Pago de servicios personales y equipamiento del personal de seguridad pública del Municipio;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XVII. Cualquier otro rubro que el Ayuntamiento considere necesario para el Saneamiento Ambiental, debidamente avalado por el Comité Técnico del Fideicomiso para el Saneamiento Ambiental del Municipio de isla Mujeres, Quintana Roo.
+XII (sic). Cualquier otro rubro que el Ayuntamiento considere necesario para el Saneamiento Ambiental, y sea aprobado por el Comité Técnico del fideicomiso que administra los recursos del derecho de saneamiento ambiental.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -784,6 +1082,10 @@ Están obligados a pagar los derechos de saneamiento ambiental:
 I. Los visitantes usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje.
 
 II. Los visitantes que no se hospeden en algún establecimiento de los referidos en la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Se entiende por visitantes, a las personas físicas que, sin ser residentes del Municipio de Isla Mujeres ingresen en forma temporal a su territorio y no se ubiquen en los supuestos de exención previstos en el artículo 58 de esta Ley.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
@@ -805,21 +1107,31 @@ Aquellos visitantes que realicen su arribo vía embarcación privada, embarcaci�
 
 #### SECCIÓN III. De la Tasa y Período de Pago
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 56.
 
-El pago del derecho de saneamiento ambiental se causará en razón del:
+El pago del derecho de saneamiento ambiental se causará a razón del 30% del valor correspondiente a la Unidad de Medida y Actualización diaria, respecto de:
 
-1. 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por turista por noche (turista/noche), al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio. En el caso de los visitantes a la parte insular que hayan causado el derecho de saneamiento ambiental de conformidad con el numeral 2 del presente artículo y decidan hospedarse, podrán acreditar el pago de este derecho por única ocasión en la primera noche de ocupación.
+I. Cada visitante, por noche (visitante/noche), al momento del pago de la ocupación de la habitación, sea que esta se efectúe por anticipado, al momento del registro (check in) o al momento de salida (check out) si el pago es prestado después del servicio.
 
-2. 20% del valor correspondiente a la Unidad de Medida y Actualización diaria por visitante. Tratándose de los visitantes a la parte insular del Municipio, que no se hospeden en alguno de los establecimientos previstos en la fracción I del artículo 55 de esta Ley. El cual será retenido por la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio. Los visitantes que realicen su arribo por vía embarcación privada, embarcación menor o turística cubrirán el pago de este derecho al pagar la tarifa por uso de la infraestructura portuaria o a través de los medios que disponga la Tesorería Municipal mediante reglas de carácter general.
+II. Cada visitante, que no se hospede en alguno de los establecimientos referidos en el artículo 55, fracción I, de esta Ley. En este caso, el derecho de saneamiento ambiental será retenido por la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio. Los visitantes que realicen su arribo por embarcación privada, embarcación menor o turística, cubrirán el pago de este derecho al pagar la tarifa por uso de la infraestructura portuaria o a través de las cajas de la Tesorería Municipal, o por los medios electrónicos que ésta disponga.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+En caso de que el visitante haga el pago de servicios portuarios, el concesionario o titular que reciba el pago actuará en calidad de retenedor de esta contribución.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-Los retenedores deberán de enterar y declarar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a los visitantes por noche por la prestación de ese servicio, así como de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que se efectuó la retención, acompañado del entero del derecho correspondiente.
+Los retenedores deberán de enterar y declarar mensualmente, mediante las formas aprobadas por la Tesorería Municipal, o a través de los medios digitales que ésta disponga, la información respecto de las operaciones y contribuyentes causantes del derecho de saneamiento ambiental.
+
+Además, las personas físicas y morales que funjan como retenedores deberán cumplir con las siguientes obligaciones, según corresponda:
+
+I. Tratándose de los retenedores señalados en el artículo 55 Bis, éstos deberán llevar como contabilidad del derecho de saneamiento ambiental, el registro ordenado de las operaciones de ocupación de cuartos y/o habitaciones de hotel, posadas, casas de huéspedes, hostales, moteles y propiedades alquiladas vía plataformas digitales, integrado y soportado con las documentales que acrediten las operaciones de ocupación de habitaciones, en la cual se contendrá el número de ocupantes de las mismas, el período en el que fueron ocupadas, método de pago por la ocupación, y el método de pago del derecho de saneamiento ambiental al retenedor.
+
+II. En el caso de los retenedores señalados en el artículo 55 Ter, deberán llevar como contabilidad correspondiente al derecho de saneamiento ambiental, el registro diario, en el que se contenga el número de operación o folio, el número de pasajeros transportados que causen el pago del derecho, el método de pago del transporte efectuado, y el método de pago de la contribución al retenedor.
+
+La información y operaciones contenidas en los registros señalados en las fracciones anteriores constituirán el soporte contable de las declaraciones y enteros establecidos en el presente artículo.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -831,13 +1143,13 @@ Los retenedores deberán de enterar y declarar mensualmente, mediante formas apr
 
 Quedan exentos del pago de este derecho:
 
-I. Los visitantes que acrediten ser ciudadanos quintanarroenses;
+I. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
 II. Los visitantes que contraten el servicio de transporte marítimo de las sociedades cooperativas locales con domicilio fiscal en el municipio de Isla Mujeres; y
 
 III. Las personas que desempeñen cualquier actividad laboral en el Municipio.
 
-Para efecto de lo dispuesto en la fracción I de este artículo, los contribuyentes de este derecho acreditarán al prestador de servicio ser ciudadanos quintanarroenses con la presentación de una identificación oficial.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO II. De los Derechos de Cooperación por Obras Públicas que realice el Municipio
 
@@ -1343,6 +1655,10 @@ a) sin certificar 0.50
 
 b) certificada 1.00
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VIII. Constancia de Verificación Sanitaria 5
+
 ###### Artículo 78.
 
 No causarán los derechos a que se refiere el artículo anterior la expedición de certificaciones y de copias certificadas en los casos siguientes:
@@ -1465,9 +1781,11 @@ El Municipio concederá las licencias para las exhumaciones y traslado de cadáv
 
 ### CAPÍTULO VIII. Alineamientos de Predios, Constancias del Uso del Suelo, Número Oficial, Medición de Solares del Fundo Legal y Servicios Catastrales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 84.
 
-Se establece la obligación de obtener el alineamiento, constancia de uso de suelo y número oficial de los predios, antes de que se ejecuten obras de construcción, ampliación, reconstrucción o demolición, para los cuales se requiera la correspondiente licencia. La licencia de uso de suelo comercial tendrá vigencia de un año fiscal.
+Se establece la obligación de obtener el alineamiento, constancia de uso de suelo y número oficial de los predios, antes de que se ejecuten obras de construcción, ampliación, reconstrucción o demolición, para los cuales se requiera la correspondiente licencia. Las licencias de uso de suelo comercial, de telecomunicaciones y de radiodifusión tendrán vigencia de un año fiscal, teniendo que actualizarse anualmente.
 
 Los derechos respectivos se cubrirán previamente a la prestación del servicio, conforme a las tarifas siguientes:
 
@@ -1518,6 +1836,10 @@ c) Residencial 5.0 a 20.0
 d) Comercial, Industrial y de Servicios
 
 e) con fines turísticos
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+f) De torre de telecomunicaciones, radiodifusión, telefonía, televisión, radiofrecuencia. 380 UMA
 
 Los derechos correspondientes al inciso d) de la fracción III del artículo 84 de la presente ley, se individualizarán y enterarán conforme a la tabla siguiente:
 
@@ -1733,15 +2055,21 @@ II. Concluidos los tres meses del último refrendo, no podrá concederse otro, d
 
 III. La expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 3.50 UMA.
 
-### CAPÍTULO IX. Licencias y Refrendos de Funcionamiento Comercial, Industrial y de Servicios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IX
+
+De los Derechos por la Inscripción y/o Refrendos al Padrón Fiscal Municipal de Unidades Económicas.
 
 ###### Artículo 87.
 
 Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, deberán solicitar su inscripción en el Padrón Municipal de Contribuyentes a más tardar dentro del mes siguiente a aquel en que se den de alta en el Registro Federal de Contribuyentes en las formas que para tal efecto emita la Tesorería Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 88.
 
-Las personas a que se hace referencia en el artículo anterior deberán solicitar dentro del mismo plazo la expedición de licencia de funcionamiento municipal, la cual tendrá una vigencia anual y se emitirá por cada establecimiento y giro, debiendo cumplir con los requisitos siguientes:
+Las personas a que se hace referencia en el artículo anterior deberán solicitar dentro del mismo plazo la inscripción al Padrón Fiscal Municipal de Unidades Económicas, la cual tendrá una vigencia anual y se emitirá por cada establecimiento y giro, debiendo cumplir con los requisitos siguientes:
 
 l. Llenar el formato de solicitud que proporcionará la tesorería municipal;
 
@@ -1771,17 +2099,91 @@ Para la expedición y entrega de la licencia de funcionamiento y del refrendo an
 
 Las licencias deberán de exhibirse en lugar visible y a la vista del público en el establecimiento o local para el cual fueron expedidas.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Es objeto de este derecho la inscripción y/o refrendo por Ejercicio Fiscal, al Padrón Fiscal Municipal de Unidades Económicas, así como las modificaciones a su régimen de operación y las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Se entiende por despliegue técnico las actividades que tienen como propósito corroborar mediante la supervisión y revisión a los establecimientos comerciales, industriales y de servicios y a la universalidad de éstas, así como las determinaciones, estudios y análisis de los diversos impactos, riesgos y necesidades generadas por las Unidades Económicas, con el fin de verificar el debido cumplimiento de los lineamientos municipales de protección al medio ambiente, a la salud pública, así como de protección civil, seguridad pública, uso de suelo y prevención en materia de vialidad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Las unidades económicas, según su giro, actividad y tamaño y el consecuente incremento de personas o automóviles a su alrededor, generan impactos diferenciados en materias como el orden público, las vialidades dentro del municipio y el medio ambiente; a su vez, presentan distintos riesgos en materia de protección civil, seguridad pública y ecología, lo que obliga al Municipio a destinar recursos crecientes para cumplir con sus obligaciones como autoridad de primer contacto, esto incluye verificaciones, inspecciones, dictámenes, evaluaciones, análisis de riesgos y atención a emergencias; todo con el propósito de mantener el orden público, garantizar la integridad personal, asegurar el derecho a la seguridad pública y a la libertad de tránsito, y promover entornos sanos y seguros para todos los habitantes del municipio, así como un ambiente propicio para la actividad económica en el municipio.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los titulares de las unidades económicas deberán pagar por la prestación de los servicios brindados por el Municipio durante el transcurso del Ejercicio Fiscal, como obligación administrativa por la implicación de una serie de verificaciones y/o inspecciones ordinarias o extraordinarias que se traducen en trabajo de campo y de gabinete derivado de las consecuencias de las actividades realizadas por las unidades económicas. Dichas cuotas por la inscripción, modificación y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas tienden a garantizar los derechos humanos a un ambiente sano, a la vida, a la integridad, física, a la seguridad pública, a la salud y a la urbanización, con la finalidad de ponderar los derechos de los habitantes de este Municipio y con ello optimizar su calidad de vida y satisfacer lo previsto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Verificaciones ordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de diversas dependencias de forma periódica, con la finalidad de verificar si los establecimientos comerciales, industriales y de servicios cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Verificaciones extraordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de sus diversas dependencias de forma espontánea o por caso fortuito, con la finalidad de verificar si los establecimientos comerciales, industriales y de servicios cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+La base para el cálculo de este derecho se fijará de conformidad con el valor de la Unidad de Medida y Actualización Diaria, considerando las cuotas y tarifas de las fracciones I y II del artículo 89.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Para los efectos del presente apartado, las actividades de las unidades económicas se clasificarán de la siguiente manera:
+
+1. GIROS O ACTIVIDADES DE BAJO RIESGO: Son aquellas que, en materia de salud pública, protección civil, ecología y protección al medio ambiente, orden público, planeación, ordenamiento territorial e impacto vial implican bajo o nulo riesgo para la población.
+
+2. GIROS O ACTIVIDADES DE MEDIANO RIESGO: Son aquellas que, en materia de salud pública, protección civil, ecología y protección al medio ambiente, planeación, ordenamiento territorial e impacto vial, alteran el orden público o la seguridad de la población.
+
+3. GIROS O ACTIVIDADES DE ALTO RIESGO: Los giros o actividades que, por su naturaleza, deban sujetarse a normas especiales, así como las de alto impacto, que por sus actividades económicas y características de ubicación, giro, instalación, apertura y operación representen un riesgo alto para la población de este Municipio; se catalogan bajo estas condiciones, con el objetivo de proteger la vida, la salud, el medio ambiente y la seguridad de las personas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+La clasificación de los establecimientos comerciales, industriales y de servicios, consideradas como de bajo, mediano y alto riesgo para la población, en materia de protección civil y demás verificaciones administrativas necesarias para llevar a cabo la inscripción y/o refrendo anual de las actividades económicas en el Padrón Fiscal Municipal de Unidades Económicas será facultad exclusiva de las autoridades fiscales municipales y/o sus Dependencias competentes de conformidad con lo establecido en este artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Cuando los titulares de las Unidades Económicas omitan realizar su inscripción al Padrón Fiscal Municipal, las autoridades fiscales podrán determinar de manera presuntiva el importe que les corresponde pagar conforme a lo establecido en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Para los efectos de la determinación presuntiva a que se refiere el párrafo anterior, ésta se calculará de acuerdo con la tarifa que proceda por concepto de la inscripción o refrendo de los ejercicios fiscales adeudados hasta el actual, según corresponda, tomando como base los datos proporcionados por terceros a solicitud de las autoridades fiscales o con información obtenida en el ejercicio de sus facultades de comprobación.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+La determinación presuntiva a que hace referencia el párrafo anterior no prejuzga ni convalida el funcionamiento del establecimiento comercial, asimismo no pre constituye un derecho y procederá independientemente de las sanciones a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los titulares de las Unidades Económicas están obligados a informar los metros cuadrados con los que cuenta su establecimiento comercial al momento de realizar la inscripción o refrendo al Padrón Fiscal Municipal. En el supuesto, en que se omita tal información, la autoridad fiscal procederá a determinar presuntivamente en uso de sus facultades de comprobación fiscal, el crédito fiscal correspondiente, y a notificarlo a la Unidad Económica. Una vez notificado el crédito, el establecimiento tendrá cinco días hábiles para cubrir su adeudo, en caso contrario se hará acreedor al procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El pago de este derecho para el registro al Padrón Fiscal Municipal de Unidades Económicas se deberá realizar en el momento en el que las personas físicas y morales se encuentren en la situación jurídica o de hecho prevista en la presente Ley, independientemente de cumplir o no con la autorización de las dependencias adscritas a este Municipio para la obtención de alguno de los requisitos señalados para el registro de su unidad económica, debiendo cubrir el derecho respectivo. Para el caso de incumplimiento de alguno de los requisitos señalados por la Ley para la obtención de su registro, este se obtendrá con el carácter de registro preventivo, para lo cual se le extenderá una cédula provisional, en la que se hará constar las verificaciones y dictámenes pendientes a realizar, misma que tendrá una vigencia de tres meses contados a partir de su expedición, periodo en el cual el contribuyente deberá obtener los requisitos faltantes para el otorgamiento del registro y cédula definitiva con vigencia anual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 89.
 
-Las licencias a que se refiere el artículo anterior deberán renovarse en los meses de enero y febrero de cada año, en los medios electrónicos que disponga el Municipio, o físicamente, debiendo acompañar a este trámite los documentos siguientes:
+El pago de este derecho para el refrendo al Padrón Fiscal Municipal de Unidades Económicas se causará de manera anual y se deberá pagar durante los meses de enero, febrero y marzo de cada ejercicio fiscal correspondiente.
 
-I. Licencia de funcionamiento del año inmediato anterior;
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Para el caso de lo plasmado con anterioridad, la autoridad tendrá la facultad de solicitar los requisitos necesarios que considere pertinentes de acuerdo con las características particulares de cada Unidad Económica.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Las personas físicas o morales titulares de las Unidades Económicas deberán exhibir la cédula de registro y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas en un lugar visible del inmueble donde ejerzan su actividad comercial, industrial o de prestación de servicios, debiendo acompañar a este trámite los documentos siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Licencia de funcionamiento o cédula de empadronamiento del año inmediato anterior;
 
 II. Copia del Aviso al Registro Federal de Contribuyentes por cualquier cambio que hubiere efectuado en lo relativo a nombre, denominación o razón social, domicilio fiscal, actividad preponderante o cualquier otro hecho de los que den motivo a la presentación de avisos ante aquella instancia;
 
 III. Copia del último pago predial actualizado, y del pago de los derechos por los servicios de Recolección, Transportación, Tratamiento y Destino Final de Residuos Sólidos;
 
-IV. Original y copia para cotejo de la Licencia de Bebidas Alcohólicas con resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
+IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
 V. Croquis de ubicación del establecimiento, en caso de que se haya realizado cambio de domicilio;
 
@@ -1789,87 +2191,91 @@ VI. En su caso, original y copia para cotejo del contrato de arrendamiento que a
 
 VII. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 90.
 
-El pago de los derechos por licencia de funcionamiento en los casos de apertura o refrendo anual de los ya establecidos, se efectuarán conforme a las tarifas siguientes:
+El pago de los derechos por la Inscripción y/o Refrendo al Padrón Fiscal Municipal de las Unidades Económicas, se efectuarán conforme a las tarifas siguientes:
+
+I. Los giros contenidos en la presente fracción de naturaleza especial del código SCIAN que les corresponda, se pagarán de conformidad con las siguientes tarifas:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 16 DE DICIEMBRE DE 2024, PÁGINAS DE LA 352 A LA 360.]</small>
+
+Para los efectos de este apartado, las unidades económicas que presten servicios complementarios o adicionales al giro o actividad principal deberán pagar por la inscripción y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro complementario, aun cuando este sea de menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional, la actividad o actividades que se ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal.
+
+Sólo a las autoridades fiscales les corresponde emitir órdenes de pago de las unidades económicas que se encuentren debidamente inscritas en el Padrón Fiscal Municipal y así mismo realizar el cálculo y el cobro de los derechos previstos en el presente apartado que deberá efectuarse de forma conjunta con los derechos que sean relacionados al funcionamiento del giro, es decir, los derechos por el manejo integral de residuos sólidos no peligrosos, protección civil, vigencia de uso de suelo comercial, constancia sanitaria, anuncios publicitarios, constancia ambiental, pago de formatos diversos y demás verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en la presente Ley y las demás disposiciones en la materia.
+
+II. Aquellas unidades económicas locales cuyos giros no se encuentren contemplados en los giros especificados en el artículo 90 fracción I, estarán sujetos al pago de los derechos para la inscripción y refrendo en el Padrón Fiscal Municipal de Unidades Económicas, conforme a lo siguiente:
 
 UMA.
 
-I. Agencias Aduanales 3.00 a 10.10
+1 Agencias Aduanales 3.00 a 10.10
 
-II. Agencias, concesionarios y locales de ventas
+2 Agencias de gas doméstico
 
-de automóviles, camiones y maquinaria 3.50 a 14.00
+o industrial, excepto el anhídrido 3.00 a 5.50
 
-III. Agencias de gas doméstico o industrial,
+3 Agendas de lotería 0.50 a 3.00
 
-excepto el anhídrido 3.00 a 5.50
+4 Agencias de viajes 3.00 a 12.00
 
-IV. Agencias de lotería 0.50 a 3.00
+5 Agencias distribuidoras
 
-V. Agencias de viajes 3.00 a 12.00
+de refrescos 3.00 a 8.00
 
-VI. Agencias distribuidoras de refrescos 3.00 a 8.00
+6 Agencias funerarias 3.00 a 12.00
 
-VII. Agencias distribuidoras y depósitos de
+7 Aluminios y vidrios 3.00 a 8.00
 
-cervezas 5.50 a 14.00
+8 Artesanías 2.00 a 8.00
 
-VIII. Agencias funerarias 3.00 a 12.00
+9 Artículos deportivos 2.00 a 12.00
 
-IX. Aluminios y vidrios 3.00 a 8.00
+10 Artículos eléctricos y fotográficos 3.00 a 12.00
 
-X. Artesanías 2.00 a 8.00
+11 Arrendadoras:
 
-XI. Artículos deportivos 2.00 a 12.00
+a) Bicicletas, por unidad 0.1
 
-XII. Artículos eléctricos y fotográficos 3.00 a 12.00
+b) Motocicletas, por unidad 0.2
 
-XIII. Arrendadoras:
-
-a) Bicicletas, por unidad 0.10
-
-b) Motocicletas, por unidad 0.20
-
-e) De automóviles, por unidad 0.30
+c) De automóviles, por unidad 0.3
 
 d) De lanchas y barcos, por unidad 0.50 a 1.60
 
 e) De sillas y mesas 1.00 a 5.50
 
-XIV. Bancos e Instituciones de Crédito 5.50 a 12
+12 Billares 1.10 a 3.00
 
-XV. Billares 1.10 a 3.00
+13 Bodegas 1.10 a 5.50
 
-XVI. Bodegas 1.10 a 5.50
+14 Boneterías y lencerías 1.10 a 3.00
 
-XVII. Boneterías y lencerías 1.10 a 3.00
+15 Cabarets, cantinas, salones de baile
 
-XVIII. Cabarets, cantinas, salones de baile y
+y establecimientos similares 12.00 a 28.00
 
-establecimientos similares 12.00 a 28.00
+16 Carnicerías 1.60 a 5.50
 
-XIX. Carnicerías 1.60 a 5.50
+17 Carpinterías 1.10 a 5.50
 
-XX. Carpinterías 1.10 a 5.50
+18 Cinematógrafos 2.50 a 12.00
 
-XXI. Cinematógrafos 2.50 a 12.00
+19 Comercios y ambulantes 0.50 a 5.50
 
-XXII. Comercios v ambulantes 0.50 a 5.50
+20 Congeladora y empacadora de mariscos 5 50 a 28 00
 
-XXIII. Congeladora y empacadora de mariscos 5.50 a 28.00
+21 Constructoras 5.50 a 14.00
 
-XXIV. Constructoras 5.50 a 14.00
-
-XXV. Consultorios, clínicas médicas y laboratorios
+22 Consultorios, clínicas médicas y laboratorios
 
 de análisis clínicos 3.00 a 12.00
 
-XXVI. Despachos y bufetes de prestación de
+23 Despachos y bufetes de prestación
 
-servicios 3.00 a 12.00
+deservicios 3 00 a 12 00
 
-XXVII. Diversiones y espectáculos públicos:
+24 Diversiones y espectáculos públicos:
 
 a) Por un día 0.30 a 1.60
 
@@ -1879,185 +2285,419 @@ c) De tres a seis meses 1.60 a 3.00
 
 d) De seis meses a un año 3.00 a 5.50
 
-XXVIII. Expendio de bebidas alcohólicas en envase cerrado:
-
-a) Al mayoreo 5.50 a 12.00
-
-b) Al menudeo 5.50 a 10.00
-
-XXIX. Expendio de gasolina y aceite 5.50 a 10.00
-
-XXX. Fábricas de agua purificada o destilada
+25 Fábricas de agua purificada o destilada
 
 no gaseosas 3.00 a 5.50
 
-XXXI. Fábricas de bloques, mosaicos y cal 5.50 a 10.00
+26 Fábricas de bloques, mosaicos y cal 5.50 a 10.00
 
-XXXII. Fábrica de hielo 3.00 a 8.00
+27 Fábrica de hielo 3.00 a 8.00
 
-XXXIII. Farmacias y boticas 3.00 a 5.50
+28 Farmacias y boticas 3.00 a 5.50
 
-XXXIV. Ferreterías 3.10 a 8.50
+29 Ferreterías 3.10 a 8.50
 
-XXXV. Fruterías v verdulerías 1.10 a 5.50
+30 Fruterías y verdulerías 1.10 a 5.50
 
-XXXVI. Hoteles:
+31 Hoteles que no sean de cadena
 
 a) De primera (cuatro y cinco estrellas) 12.00 a 28.00
 
-b) De segunda (dos v tres estrellas) 8.00 a 12.00
+b) De segunda (dos y tres estrellas) 8.00 a 12.00
 
 c) De tercera 3.00 a 8.00
 
 d) De casa de huéspedes 1.60 a 5.50
 
-XXXVII. Imprentas 3.00 a 5.50
+32 Imprentas 3.00 a 5.50
 
-XXXVIII. Inmobiliarias 1.00 a 5.00
+33 Inmobiliarias 1.00 a 5.00
 
-XXXIX. Joyerías 5.50 a 12.00
+34 Joyerías 5.50 a 12.00
 
-XL. Líneas aéreas 8.00 a 12.00
+35 Líneas aéreas 8.00 a 12.00
 
-XLI. Líneas de transportes urbanos 5.50 a 10.00
+36 Líneas de transportes urbanos 5.50 a 10.00
 
-XLII. Líneas transportistas foráneas 8.00 a 12.00
+37 Líneas transportistas foráneas 8.00 a 12.00
 
-XLIII. Loncherías y fondas 1.10 a 3.00
+38 Loncherías y fondas 1.10 a 3.00
 
-XLIV. Molinos y granos 1.10 a 3.00
+39 Molinos y granos 1.10 a 3.00
 
-XLV. Muebles y equipos de oficina 5.50 a 10.00
+40 Muebles y equipos de oficina 5.50 a 10.00
 
-XLVI. Muebles para el hogar 3.50 a 10.00
+41 Muebles para el hogar 3.50 a 10.00
 
-XLVII. Neverías y refresquerías 3.00 a 5.50
+42 Neverías y refresquerías 3.00 a 5.50
 
-XLVIII. Ópticas 3.00 a 8.00
+43 Ópticas 3.00 a 8.00
 
-XLIX. Otros giros 0.50 a 4.00
+44 Otros giros 0.50 a 4.00
 
-L. Otros juegos 1.10 a 5.50
+45 Otros juegos 1.10 a 5.50
 
-LI. Panaderías 1.10 a 5.50
+46 Panaderías 1.10 a 5.50
 
-LII. Papelerías, librerías y artículos de escritorio 3.00 a 5.50
+47 Papelerías, librerías y artículos de escritorio 3.00 a 5.50
 
-LIII. Peluquerías y salones de belleza 2.00 a 5.50
+48 Peluquerías y salones de belleza 2.00 a 5.50
 
-LIV. Perfumes y cosméticos 3.00 a 10.00
+49 Perfumes y cosméticos 3.00 a 10.00
 
-LV. Pescaderías 1.10 a 5.50
+50 Pescaderías 1.10 a 5.50
 
-LVI. Productos forestales:
+51 Productos forestales:
 
 a) Por el otorgamiento de licencias 0.50 a 1.60
 
 b) Por servicios de inspección y vigilancia 0.50 a 3.00
 
-LVII. Refaccionarias 5.50 a 10.00
+52 Refaccionarias 5.50 a 10.00
 
-LVIII. Renta de equipos y accesorios de
+53 Renta de equipos y accesorios de pesca
 
-pesca y buceo 3.00 a 8.00
+y buceo 3 00 a 8 00
 
-LIX. Restaurantes con bebidas alcohólicas,
+54 Restaurantes con bebidas alcohólicas,
 
 con vino de mesa excepto cerveza 8.00 a 14.00
 
-LX. Restaurantes con venta de cerveza
+55 Restaurantes sin venta de bebidas 3.50 a 8.00
 
-bebidas alcohólicas 5.50 a 10.00
+56 Salones de espectáculos 3.00 a 10.00
 
-LXI. Restaurantes sin venta de bebidas 3.50 a 8.00
+57 Sastrerías 1.10 a 3.00
 
-LXII. Salones de espectáculos 3.00 a 10.00
+58 Subagencias 5.50 a 10.00
 
-LXIII. Sastrerías 1.10 a 3.00
+59 Talleres 1.1
 
-LXIV. Subagencias 5.50 a 10.00
+60 Taller de herrería 3
 
-LXV. Supermercados 5.50 a 12.00
+61 Taller de refrigeración y aire
 
-LXVI. Talleres 1.10
+acondicionado 4.00 a 10.00
 
-LXVII. Taller de herrería 3.00
+62 Talleres electromecánicos 3.00 a 5.5
 
-LXVIII. Taller de refrigeración y aire acondicionado 4.00 a 10.00
+63 Talleres mecánicos 3.00 a 8.00
 
-LXIX. Talleres electromecánicos 3.00 a 5.5
+64 Tendejones 0.70 a 1.60
 
-LXX. Talleres mecánicos 3.00 a 8.00
+65 Tienda de Abarrotes 1.60 a 3.00
 
-LXXI. Tendejones 0.70 a 1.60
+66 Tienda de ropas y telas 3.00 a 8.00
 
-LXXII. Tienda de Abarrotes 1.60 a 3.00
+67 Tortillerías 0.70 a 1.60
 
-LXXIII. Tienda de ropas y telas 3.00 a 8.00
-
-LXXIV. Tortillerías 0.70 a 1.60
-
-LXXV. Transportes de materiales para
+68 Transportes de materiales para
 
 construcción por unidad 0.50 a 1.00
 
-LXXVI. Venta de materiales para construcción 5.50 a 12.00
+69 Venta de materiales para construcción 5.50 a 12.00
 
-LXXVII. Vulcanizadoras 1.60 a 5.50
+70 Vulcanizadoras 1.60 a 5.50
 
-LXXVIII. Zapaterías 3.00 a 5.50
+71 Zapaterías 3.00 a 5.50
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2024)</small>
+Los contribuyentes que se encuentren al corriente del pago de sus contribuciones municipales tendrán derecho de un 20%, 15% y 10% de descuento en los meses de enero, febrero y marzo respectivamente, en el pago del refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro correspondiente al ejercicio fiscal vigente.
 
-Quedan exceptuados del pago del derecho que señala este artículo, así como de los trámites correspondientes a la expedición y entrega de la licencia de funcionamiento y del refrendo anual declarativo, las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia.
+III. Los trámites que modifiquen el régimen de funcionamiento de las Unidades Económicas sin venta de bebidas alcohólicas derivados de los derechos de las fracciones I y II, se realizarán mediante los formatos autorizados por las autoridades municipales competentes de conformidad con la reglamentación y demás ordenamientos aplicables y se pagarán de acuerdo con las siguientes tarifas:
+
+a) Por ampliación de horario de funcionamiento 10% del costo del refrendo de la Unidad Económica por cada hora adicional del horario ordinario que se tenga autorizado.
+
+b) Por cambio de denominación de la Unidad Económica, 8 veces la Unidad de Medida y Actualización Diaria;
+
+c) Por afectación de superficie, cuando aumente el número de metros cuadrados de la Unidad Económica, 0.25 veces la Unidad de Medida y Actualización Diaria por metro cuadrado;
+
+d) Por corrección de domicilio, 1.5 veces la Unidad de Medida y Actualización Diaria;
+
+e) Por la instalación de anexos temporales de las Unidades Económicas, siempre que no invada la vía pública ni obstruyan la visibilidad peatonal. Así como dentro de espectáculos públicos conforme a lo siguiente:
+
+SUPERFICIE UMA POR METRO TARIFA ADICIONAL
+
+CUADRADO DIARIA
+
+1. De 1 a 4 m2 30 1 UMA
+
+2. De 4.01 m2 en adelante 40 1 UMA
+
+El monto que resulte amparará únicamente el periodo autorizado y será independiente al pago por el refrendo al Padrón Fiscal Municipal de Unidades Económicas.
+
+f) Cédula de inscripción y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas 2 veces Ja Unidad de Medida y Actualización Diaria.
+
+g) Otros trámites no especificados en las fracciones anteriores 2.5 veces la Unidad de Medida y Actualización Diaria.
+
+Quedan exceptuados del pago del derecho que señala este artículo, las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 91.
 
-Para el caso de expedición de la licencia de funcionamiento por la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del primer año, previa acreditación de los requisitos que establezca el Ayuntamiento.
+Para el caso de la inscripción al Padrón Fiscal Municipal de Unidades Económicas por la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del primer año, previa acreditación de los requisitos que establezca el Ayuntamiento.
 
-Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado la licencia correspondiente, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código. Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del propio Código.
+Los contribuyentes que no se hayan inscrito en el Padrón Municipal o en el Padrón Fiscal Municipal de Unidades Económicas, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código. Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del propio Código.
 
-### CAPÍTULO X. Licencias para funcionamiento de establecimientos Mercantiles en horas extraordinarias
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO X
+
+De los Derechos por la Inscripción y/o Refrendos al Padrón Fiscal Municipal de Unidades Económicas cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 92.
 
-La autorización para el funcionamiento de establecimientos comerciales fuera del horario normal que fijen los reglamentos causarán diariamente derechos por cada hora extraordinaria, como sigue:
+Las personas físicas o morales que realicen actividades comerciales, industriales y de servicios cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, deberán solicitar su inscripción en el Padrón Municipal de Contribuyentes a más tardar dentro del mes siguiente a aquel en que se den de alta en el Registro Federal de Contribuyentes en las formas que para tal efecto emita la Tesorería Municipal.
 
-UMA.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-I. Clubes, centros nocturnos, bares,
+###### Artículo 92 Bis.
 
-cabarets y discotecas, en que se expendan
+Las personas a que se hace referencia en el artículo anterior deberán solicitar dentro del mismo plazo la inscripción al Padrón Fiscal Municipal de Unidades Económicas con venta de bebidas alcohólicas, la cual tendrá una vigencia anual y se emitirá por cada establecimiento y giro, debiendo cumplir con los requisitos siguientes:
 
-bebidas alcohólicas: 15.00 a 30.00
+I. Llenar el formato de solicitud que proporcionará la tesorería municipal;
 
-II. Restaurantes, fondas, loncherías, minisúper
+II. Croquis de ubicación del establecimiento;
 
-y demás en que se expendan bebidas alcohólicas: 2.50 a 15.00
+III. Copia Simple del documento que acredite su inscripción ante el Registro Federal de Contribuyentes y el Padrón Estatal de Contribuyentes;
 
-III. Supermercados, tiendas de autoservicio y
+IV. Copia del último pago predial actualizado, y del pago de los derechos por los servicios de Recolección, Transportación, Tratamiento y Destino Final de Residuos Sólidos.
 
-tiendas departamentales en los que se expendan
+V. Adjuntar a la solicitud:
 
-bebidas alcohólicas: 2.00 a 20.00
+a) Copia de la Constancia de Uso de Suelo del establecimiento;
 
-IV. Hoteles, moteles y centros de hospedaje en
+b) Copia de la Autorización de Protección Civil para Giro de Riesgo Alto o en su caso Constancia de Giro de Riesgo Ordinario, expedida por la autoridad municipal en materia de protección civil, y
 
-los que se preste el servicio a comensales en la
+c) Copia del Permiso Ambiental de Operación.
 
-habitación (servicio a cuartos /room service) con
+VI. Exhibir copia de la Licencia de Bebidas Alcohólicas con el resello actualizado en el domicilio y nombre de propietario, si en el establecimiento se expiden bebidas alcohólicas;
 
-o sin alimentos en los cuales se expendan bebidas
+VII. En caso de tratarse de giros que requieran concesión, autorización o permisos federales o estatales, exhibir los documentos que acrediten contar con ellos, y
 
-alcohólicas: 2.00 a 8.00
+VIII. En su caso, original y copia para cotejo del contrato de arrendamiento que acredite la legal ocupación del inmueble donde esté ubicado el establecimiento mercantil, acompañado de las copias de las identificaciones oficiales de los comparecientes.
 
-V. Otros establecimientos que vendan alimentos
-
-sin bebidas alcohólicas, excepto cerveza: 0.9 a 18.00
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 93.
 
-El derecho por horas extraordinarias a que se refiere el artículo anterior será pagado por mensualidades adelantadas, dentro de los cinco primeros días de cada mes.
+Es objeto de este derecho la inscripción o refrendo al Padrón Fiscal Municipal de Unidades Económicas de establecimientos que enajenen, fabriquen o expendan bebidas alcohólicas total o parcialmente, al público en general, las autorizaciones que modifiquen su régimen de operación, así como las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio conforme a las disposiciones legales aplicables.
+
+Se entiende por despliegue técnico las actividades que tienen como propósito corroborar mediante la supervisión y revisión a las Unidades Económicas y a la universalidad de éstas, con el fin de verificar el debido cumplimiento de los lineamientos municipales de protección al medio ambiente, a la salud pública, así como de protección civil, seguridad pública, uso de suelo y prevención en materia de vialidad.
+
+Las Unidades Económicas de acuerdo a su giro o actividad comercial, industrial o de servicios y por el tamaño y consecuente concentración incremental de personas o automóviles en ellos, generan impactos diferenciados en materias como orden público, impacto sobre las vialidades dentro del municipio, impacto sobre el medio ambiente y presentan distintos riesgos en materia de protección civil, seguridad pública y medio ambiente que genera que el Municipio destine recursos crecientes para ejercer sus obligaciones como autoridad de primer contacto (verificaciones, inspecciones, dictámenes, evaluaciones, análisis de riesgos, atención de llamados de emergencias) con el propósito de mantener el orden público, garantizar la integridad personal y el derecho a la seguridad pública, a la libertad de tránsito efectiva y para generar entornos sanos y saludables para todos los habitantes del Municipio, así como un entorno propicio para la actividad económica de las diversas unidades económicas en el Municipio.
+
+Los titulares de las Unidades Económicas deberán pagar por la prestación de los servicios brindados por el Municipio durante el transcurso del Ejercicio Fiscal, como obligación administrativa por la implicación de una serie de verificaciones y/o inspecciones ordinarias o extraordinarias que se traducen en trabajo de campo y de gabinete derivado de las consecuencias de las actividades realizadas por las mismas según sea el caso específico, dichas cuotas por la inscripción, modificación y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas tienden a garantizar los derechos humanos a un ambiente sano, a la vida, a la seguridad pública, a la salud y a la urbanización, con la finalidad de ponderar los derechos de los habitantes de este Municipio y con ello optimizar su calidad de vida.
+
+Se entiende por verificaciones ordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de diversas dependencias de forma periódica, con la finalidad de verificar si los establecimientos comerciales, industriales y de servicios cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+Se entiende por verificaciones extraordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de sus diversas dependencias de forma espontánea o por caso fortuito, con la finalidad de verificar si las Unidades Económicas cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+Son sujetos al pago de estos derechos las personas físicas, morales, que sean titulares de las Unidades Económicas señaladas en el presente Capítulo, a las que el Municipio les expida la inscripción, modificación o refrendo al Padrón Fiscal Municipal de Unidades Económicas.
+
+Los titulares de las Unidades Económicas relacionadas con la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas deberán obtener la cédula de inscripción, refrendo y/o modificación al Padrón Fiscal Municipal de Unidades Económicas, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar fijo o establecido.
+
+La base para el cálculo de este derecho se fijará de conformidad con el valor de la UMA vigente, considerando las tarifas de este artículo.
+
+I. Para el pago de este derecho, la inscripción deberá realizarse en un plazo máximo de treinta días, contados a partir de la fecha de notificación de la autorización de la Unidad Económica y el refrendo durante los tres primeros meses del año, de conformidad con las tarifas de siguientes:
+
+GIRO INSCRIPCIÓN REFRENDO
+
+CUOTA EN CUOTA
+
+UMA EN UMA
+
+a) Abarrotes con venta de cerveza, vinos
+
+y/o licores, depósito de cerveza, licorerías,
+
+minisúper 100 50
+
+b). Bares de franquicia o de presencia
+
+nacional o internacional 550 110
+
+c) Bares, billares, cantinas, cervecerías,
+
+karaokes, café bar, video bar 100 50
+
+d) Centros deportivos, recreativos o de
+
+eventos sociales 500 100
+
+e) Centros nocturnos o discotecas 3,900 780
+
+f) Clubes sociales 600 200
+
+g) Depósito de cerveza de franquicia o
+
+cadena nacional o internacional 650 455
+
+h) Venta de cerveza, vinos y licores, en
+
+botella cerrada en hoteles y moteles 100 50
+
+i) Venta de cerveza, vinos y licores, en
+
+botella cerrada en hoteles de franquicia
+
+o presencia nacional o internacional 400 80
+
+j) Licorerías de franquicia o presencia
+
+nacional o internacional 550 110
+
+k) Restaurante, loncherías, taquerías,
+
+marisquerías, fondas, coctelerías,
+
+torterías, pizzerías y similares 100 50
+
+l) Restaurante-bar de franquicia o
+
+presencia nacional o internacional 550 110
+
+m) Venta de bebidas alcohólicas en
+
+botella cerrada en tienda departamental
+
+y/o supermercado de presencia nacional
+
+o internacional. 1,650 540
+
+n) Establecimientos en los que se lleven
+
+a cabo juegos con apuestas y sorteos o
+
+casinos. 6,200 1,250
+
+o) Venta de cerveza, vinos y licores, en
+
+botella cerrada en tiendas de conveniencia
+
+o de autoservicio de cadena nacional 1500 1050
+
+p) Agencia de venta de cerveza 23,000 16,100
+
+q) Distribución en el territorio municipal
+
+de agencia o sub agencia de marca
+
+cervecera nacional o internacional,
+
+mediante sistema de red general de
+
+reparto utilizando la vía pública del
+
+Municipio así como el estacionamiento
+
+en la misma, dentro de su proceso de
+
+enajenación. 22,000 15,400
+
+El cobro de los derechos previstos en la presente sección deberá efectuarse de forma conjunta con los derechos que sean relacionados al funcionamiento del giro comercial, los derechos por el manejo integral de residuos sólidos no peligrosos, protección civil, vigencia de uso de suelo comercial, constancia sanitaria, anuncios publicitarios, constancia ambiental, pago de formatos diversos y demás verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en la presente Ley y las demás disposiciones en la materia.
+
+Los contribuyentes que no se hayan inscrito en el Padrón Municipal o en el Padrón Fiscal Municipal de Unidades Económicas, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código. Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del propio Código.
+
+Sólo a las autoridades fiscales les corresponde emitir las órdenes de pago para negocios que ya se encuentren registrados en los padrones fiscales. Mismas autoridades que deberán realizar el cálculo de los derechos en forma conjunta con todos los demás que sean sujetos los titulares de las Unidades Económicas respecto a las demás contribuciones que sean sujetos con motivo de esta para determinar el importe total a liquidar.
+
+II. Las inspecciones que realicen las autoridades municipales competentes tendrán un costo por inspección de 5 UMA.
+
+III. Los trámites que modifiquen el régimen de funcionamiento de las Unidades Económicas derivados de los derechos de la presente fracción, se tramitarán mediante los formatos autorizados por las autoridades fiscales municipales y se pagarán de acuerdo con las siguientes tarifas:
+
+a) Por autorización de la reclasificación de giro se cobrarán los siguientes derechos:
+
+1. La tarifa será la diferencia que resulte entre las tarifas por la inscripción al Padrón Fiscal Municipal de Unidades Económicas entre ambos giros, siempre que el giro solicitado tenga una tarifa mayor de inscripción;
+
+2. Cuando el giro solicitado tenga una tarifa menor de inscripción al Padrón Fiscal Municipal de Unidades Económicas, la tarifa será de 50 UMA;
+
+3. Cuando se trate de reclasificación de giros de venta de bebidas alcohólicas a giros sin venta de bebidas alcohólicas, la tarifa será de 5 UMA.
+
+b) Por autorización de cambio de denominación de Unidades Económicas cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, causará derechos de 10% respecto al pago de refrendo que establece la fracción I del presente artículo siendo obligatorio que coincida la denominación del anuncio con el contenido de la cédula de inscripción al Padrón Fiscal Municipal de Unidades Económicas.
+
+c) Por autorización de ampliación de giro causarán derechos del 30 por ciento del costo de la inscripción del giro solicitado;
+
+d) Por autorización de cambio de domicilio causará derechos del 30 por ciento respecto del monto señalado para la inscripción al Padrón Fiscal Municipal de Unidades Económicas cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas;
+
+e) La autorización para la ampliación de horario extraordinario de funcionamiento fuera del horario normal que fijen los reglamentos causarán diariamente derechos por cada hora extraordinaria, como sigue:
+
+UMA
+
+1. Clubes sociales, centros nocturnos, cantinas,
+
+bares, bares de franquicia o presencia nacional
+
+o internacional, casinos, cabarets y discotecas,
+
+en que se expendan bebidas alcohólicas: 17.00 a 35.00
+
+2. Restaurantes, Restaurante-bar de franquicia
+
+o presencia nacional o internacional, billares,
+
+cervecerías, karaokes, café bar, video bar,
+
+fondas, loncherías, minisuper, y demás en que
+
+se expendan bebidas alcohólicas: 3.00 a 17.00
+
+3. Supermercados, tiendas de
+
+autoservicio o conveniencia y tiendas
+
+departamentales en los que se expendan
+
+bebidas alcohólicas: 2.50 a 25.00
+
+4. Hoteles, hoteles de franquicia o presencia
+
+nacional o internacional, moteles y centros
+
+de hospedaje en los que se preste el servicio
+
+a comensales en la habitación (servicio a
+
+cuartos/room service) con o sin alimentos
+
+en los cuales se expendan bebidas
+
+alcohólicas: 2.50 a 10.00
+
+5. Otros establecimientos que vendan
+
+alimentos sin bebidas, excepto cerveza: 1.50 a 20.00
+
+6. Abarrotes con venta de cerveza, vinos y/o
+
+licores, depósitos de cerveza, depósitos de
+
+cerveza de franquicia o cadena nacional o
+
+internacional, licorerías, licorerías de franquicia
+
+o presencia nacional o internacional, minisuper. 3.00 a 17.00
+
+7. Centros deportivos, recreativos o de
+
+eventos sociales. 5.00 a 15.00
+
+8. Agencia o sub agencia y distribuidora
+
+de marca cervecera nacional o internacional. 17.00 a 35.00
+
+El cobro al que se refiere la tabla anterior se hará de acuerdo con el nivel de riesgo que implica la actividad económica para la sociedad. Este riesgo se refiere no solo a los posibles efectos adversos que la operación pueda generar en términos de seguridad, salud o medio ambiente, sino que también a las implicaciones económicas y sociales que pueda generar.
+
+El derecho por horas extraordinarias será pagado por mensualidades adelantadas, dentro de los cinco primeros días de cada mes.
+
+En el mismo sentido en aquellos casos donde se autorice por día determinado por la autoridad competente, en cuyo caso el costo será el 30 por ciento, por cada hora respecto al pago del refrendo que establece la fracción I del presente artículo;
+
+f) Por afectación de superficie, cuando aumente el número de metros cuadrados del establecimiento, causará derechos de 1 UMA por metro cuadrado, y
+
+g) Por autorización de trámite especial la tarifa será de 10 UMA.
+
+IV. Los contribuyentes que se encuentren al corriente del pago de sus contribuciones municipales, tendrán derecho de un 20%, 15% y 10% de descuento en los meses de enero, febrero y marzo respectivamente, en el pago del refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro correspondiente al ejercicio fiscal vigente.
 
 ### CAPÍTULO XI. Rastro e Inspección sanitaria
 
@@ -2531,13 +3171,283 @@ por el Reglamento de Transporte de Carga, se
 
 establece la siguiente tarifa:
 
-a) Por una hora 0.50
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-b) Por dos horas 0.60
+CONCEPTO Diurno Nocturno
 
-c) Por tres horas 0.90
+De las 07:00 a De las 19:00 a
 
-d) Por más de tres horas 1.20
+las 19:00 horas las 07:00 horas
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+a) Permiso diario para realizar
+
+maniobras de carga y descarga para
+
+vehículos de 3.5 o mas y hasta 12
+
+toneladas. (En los que estarán
+
+contemplados los vehículos
+
+denominados como Rabón,
+
+Torton, Olla, Grúa). 2 UMA 1.5 UMA
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+b) Permiso semanal para realizar
+
+maniobras de carga y descarga
+
+para vehículos de 3.5 o más y hasta
+
+12 toneladas. (En los que estarán
+
+contemplados los vehículos
+
+denominados como Rabón, Torton,
+
+Olla, Grúa). 9 UMA 8 UMA
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+c) Permiso quincenal para
+
+realizar maniobras de carga
+
+y descarga para vehículos de
+
+3.5 o más y hasta 12 toneladas.
+
+(En los que estarán contemplados
+
+los vehículos denominados como
+
+Rabón, Torton, Olla, Grúa). 30 UMA 20 UMA
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+d) Permiso mensual para realizar
+
+maniobras de carga y descarga para
+
+vehículos de 3.5 o más y hasta
+
+12 toneladas. (En los que estarán
+
+contemplados los vehículos
+
+denominados como Rabón, Torton,
+
+Olla, Grúa). 65 UMA 45 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+e) Permiso diario para realizar
+
+maniobras de carga y descarga para
+
+vehículos de más de 12 toneladas.
+
+(En los que estarán contemplados
+
+los vehículos denominados como
+
+Trailer sencillo, Bomba y Grúa
+
+Grande). 3.06 UMA 2.45 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+f) Permiso semanal para realizar
+
+maniobras de carga y descarga para
+
+vehículos de más de 12 toneladas.
+
+(En los que estarán contemplados
+
+los vehículos denominados como
+
+Tráiler sencillo, Bomba y Grúa
+
+Grande). 12.25 UMA 11.02 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+g) Permiso quincenal para realizar
+
+maniobras de carga y descarga para
+
+vehículos de más de 12 toneladas.
+
+(En los que estarán contemplados los
+
+vehículos denominados como Tráiler
+
+sencillo, Bomba y Grúa Grande). 24.59 UMA 22.05 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+h) Permiso mensual para realizar
+
+maniobras de carga y descarga para
+
+vehículos de más de 12 toneladas.
+
+(En los que estarán contemplados
+
+los vehículos denominados como
+
+Tráiler sencillo, Bomba y Grúa
+
+Grande). 49.00 UMA 44.09 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+i) Permiso diario para realizar maniobras
+
+de carga y descarga en horario
+
+restringido para vehículos que tengan
+
+frigorífico, contendor o de más de
+
+5 y hasta 12 toneladas. (En los
+
+que estarán contemplados los
+
+vehículos denominados como Rabón,
+
+Torton, Olla, Grúa). 2.45 UMA 1.84 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+j) Permiso semanal para realizar
+
+maniobras de carga y descarga en
+
+horario restringido para vehículos que
+
+tengan frigorífico, contendor o de más
+
+de 5 y hasta 12 toneladas.
+
+(En los que estarán contemplados los
+
+vehículos denominados como Rabón,
+
+Torton, Olla, Grúa). 9.80 UMA 8.57 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+k) Permiso quincenal para realizar
+
+maniobras de carga y descarga en
+
+horario restringido para vehículos que
+
+tengan frigorífico, contendor o de más
+
+de 5 y hasta 12 toneladas.
+
+(En los que estarán contemplados los
+
+vehículos denominados como Rabón,
+
+Torton, Olla, Grúa). 19.60 UMA 17.15 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+l) Permiso mensual para realizar
+
+maniobras de carga y descarga en
+
+horario restringido para vehículos que
+
+tengan frigorífico, contendor o de más
+
+de 5 y hasta 12 toneladas. (En los
+
+que estarán contemplados los vehículos
+
+denominados como Rabón, Torton,
+
+Olla, Grúa). 39.19 UMA 34.29 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+m) Permiso diario para realizar
+
+maniobras de carga y descarga en áreas
+
+no restringidas, cuya carga sea
+
+destinada a más de un destinatario,
+
+para vehículos hasta de 12 toneladas.
+
+(En los que estarán contemplados
+
+los vehículos denominados como
+
+Rabón, Torton, Olla, Grúa). 3.06 UMA 2.45 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+n) Permiso semanal para realizar
+
+maniobras de carga y descarga en
+
+áreas no restringidas, cuya carga
+
+sea destinada a más de un destinatario,
+
+para vehículos hasta de12 toneladas.
+
+(En los que estarán contemplados
+
+los vehículos denominados como
+
+Rabón, Torton, Olla, Grúa). 11.02 UMA 9.80 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+o) Permiso quincenal para realizar
+
+maniobras de carga y descarga en
+
+áreas no restringidas, cuya carga
+
+sea destinada a más de un destinatario,
+
+para vehículos hasta de
+
+12 toneladas. (En los que estarán
+
+contemplados los vehículos denominados
+
+como Rabón, Torton, Olla, Grúa). 22.05 UMA 19.60 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+p) Permiso mensual para realizar
+
+maniobras de carga y descarga en
+
+áreas no restringidas, cuya carga
+
+sea destinada a más de un destinatario,
+
+para vehículos hasta de12 toneladas.
+
+(En los que estarán contemplados los
+
+vehículos denominados como Rabón,
+
+Torton, Olla, Grúa). 44.09 UMA 39.19 UMA
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -3034,3 +3944,11 @@ P.O. 5 DE JUNIO DE 2024.
 PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 066 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
