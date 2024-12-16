@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2021-09-24"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE SEPTIEMBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -509,11 +507,11 @@ Las transferencias destinadas a cubrir el déficit de operación y los gastos de
 
 Con el objeto de cumplir lo previsto en el artículo 4 Bis y 17 Bis de esta Ley, se señalarán en el Presupuesto de Egresos los programas que estarán sujetos a la emisión de Reglas de Operación, con el objeto de asegurar que la aplicación de los recursos públicos se realice con eficiencia, eficacia, economía, honradez y transparencia, para lo cual deberán elaborar sus Reglas de Operación de acuerdo al contenido mínimo que señalan los Lineamientos Generales emitidos por la Secretaría para tales efectos. Las dependencias, las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas serán responsables de emitir y publicar en el Periódico Oficial del Estado, las Reglas de Operación de los Programas Presupuestarios que inicien su operación en el ejercicio fiscal siguiente o, en su caso, las modificaciones a aquéllas que continúen vigentes, previa manifestación de impacto presupuestario por parte de la Secretaría y dictamen de impacto regulatorio de la Comisión Estatal de Mejora Regulatoria. Las Reglas de Operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 18.
 
-Las obligaciones de pago a cargo de las dependencias y entidades de la administración pública estatal derivadas de los proyectos para prestación de servicios, regulados por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas tendrán el carácter de obligaciones preferentes en el presupuesto de gasto corriente y se incluirán en un rubro especial para cada contrato que celebren las dependencias y entidades conforme a dicha ley.
+Las obligaciones de pago a cargo de las dependencias y entidades de la administración pública estatal derivadas de los proyectos para prestación de servicios y de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos, regulados por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas y la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Tamaulipas, respectivamente, tendrán el carácter de obligaciones preferentes en el presupuesto de gasto corriente y se incluirán en un rubro especial para cada contrato que celebren las dependencias y entidades conforme a dichas leyes.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -926,6 +924,10 @@ En el caso de proyectos para prestación de servicios, las dependencias y entida
 Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales para su justificación y autorización.
 
 Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos tendrán preferencia respecto a otras previsiones de gasto en el rubro de obra pública, debiéndose incluir en los presupuestos de egresos de los ejercicios subsecuentes, hasta la liquidación total de los contratos respectivos.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1436,3 +1438,19 @@ Derivado del cambio en la atribución relativa a la coordinación del Sistema de
 ###### ARTÍCULO TERCERO.
 
 La disposición relativa al resguardo y cuidado de la documentación comprobatoria del gasto por parte de las dependencias ejecutoras del mismo, a que hace referencia el segundo párrafo del artículo 56 del presente Decreto, entrará en vigor a partir del 1° de enero de 2022, ello con la finalidad de que se determinen las medidas necesarias para su implementación por parte de la Secretaría, la Contraloría Gubernamental y las dependencias y entidades involucradas.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-108 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE GASTO PÚBLICO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto la Secretaría de Finanzas y la Secretaría de Obras Públicas deberán realizar las modificaciones administrativas y reglamentarias necesarias, en un término no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
