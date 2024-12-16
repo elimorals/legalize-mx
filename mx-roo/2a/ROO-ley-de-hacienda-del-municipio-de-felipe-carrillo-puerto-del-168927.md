@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-felipe-carrillo-puerto-del-168
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2024-06-05"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACENDA DEL MUNICIPIO DE FELIPE CARRILLO PUERTO, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 205 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de diciembre de 2023.
 
@@ -45,4 +45,6 @@ II. Expedición de certificados de algún hecho ocurrido en presencia de la auto
 
 III. EXPEDICIÓN DE COPIAS CERTIFICADAS DE CONSTANCIAS EXISTENTES EN LOS ARCHIVOS DEL MUNICIPIO, POR CADA HOJA: 1.0. U.M.A.
 
-IV. Por expedición de certificados que emita la Tesorería Municipal: 2.5 U.M.A.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IV. Por expedición de certificados que emita la Tesorería Municipal: 3.0 U.M.A.
