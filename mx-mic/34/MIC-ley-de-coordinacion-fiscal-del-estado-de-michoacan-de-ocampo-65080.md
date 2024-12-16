@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2023-12-20"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -261,11 +261,11 @@ Las participaciones e Incentivos en ingresos federales que reciban los Municipio
 
 Por lo que corresponde al Impuesto sobre Loterías, Rifas, Sorteos y Concursos que es una contribución estatal, se les otorga a los municipios el 80% de la recaudación del mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-Las liquidaciones y pago de las participaciones e Incentivos en ingresos federales que reciban los Municipios, las realizará la Secretaría de Finanzas y Administración en base a la documentación oficial que al respecto proporcione la Secretaría de Hacienda y Crédito Público. Excepto los Incentivos del Impuesto sobre Automóviles Nuevos, y el Impuesto sobre Loterías, Rifas, Sorteos y Concursos; los cuales proporciona la Secretaría de Finanzas y Administración, ya que se recaudan directamente por ésta.
+Las liquidaciones y pago de las participaciones e Incentivos en ingresos federales que reciban los Municipios, las realizará la Secretaría de Finanzas y Administración en base a la documentación oficial que al respecto proporcione la Secretaría de Hacienda y Crédito Público. Excepto los Incentivos del Impuesto sobre Automóviles Nuevos, así como el Impuesto sobre Loterías, Rifas, Sorteos y Concursos e Impuesto a la Venta Final de Bebidas con Contenido Alcohólico; los cuales proporciona la Secretaría de Finanzas y Administración, ya que se recaudan directamente por ésta.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -275,15 +275,25 @@ Las Participaciones e incentivos que se determinen y paguen a los Municipios del
 
 Los pagos por concepto de ajustes cuatrimestrales y del ajuste anual, referidos en el párrafo anterior, se determinarán con los mismos coeficientes aplicables en el ejercicio fiscal vigente.
 
-La entrega del monto de las participaciones referidas en este artículo, las realizará la Secretaría de Finanzas y Administración a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo, y posteriormente la tesorería municipal de cada ayuntamiento deberá expedir Comprobante Fiscal Digitalizado por Internet CFDI, a través del cual describa los conceptos de Participaciones y montos recibidos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-El CFDI deberá ser entregado a la Secretaría de Fianzas (sic) y Administración, cinco días hábiles posteriores a la recepción del monto de las Participaciones en Ingresos Federales y Estatales pagados.
+La entrega del monto de las participaciones referidas en este artículo, así como las Aportaciones dispuestas en el Capítulo III de la presente Ley, las realizará la Secretaría de Finanzas y Administración a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo, o en su caso, la comunidad originaria con presupuesto directo, y posteriormente la tesorería municipal de cada ayuntamiento deberá expedir Comprobante Fiscal Digitalizado por Internet CFDI, a través del cual describa los conceptos de las Participaciones y Aportaciones, así como de los montos recibidos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El CFDI, deberá ser entregado a la Secretaría de Finanzas y Administración, cinco días hábiles posteriores a la recepción del monto de las Participaciones y Aportaciones en Ingresos Federales y Estatales pagados por esta.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Para efecto de lo anterior, y demás información o documentación relativa a la transferencia de las Participaciones y Aportaciones, los Municipios deberán utilizar el Sistema de Participaciones y Aportaciones de la Secretaría de Finanzas y Administración para ingresar la documentación comprobatoria requerida, al cual ésta última les dará acceso, ello en los términos, operatividad, alcances y condiciones que la Secretaría disponga y dé a conocer.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-Las cuentas bancarias referidas en el artículo anterior, deberán de ser aperturadas para cada ejercicio fiscal, mismas que serán entregadas por parte de las tesorerías municipales a la Secretaría de Finanzas y Administración a más tardar el día 2 de enero de cada ejercicio fiscal. También pueden ratificarse las mismas cuentas utilizadas en el ejercicio fiscal inmediato anterior.
+Las cuentas bancarias referidas en el artículo anterior, deberán de ser aperturadas para cada ejercicio fiscal, mismas que serán entregadas por parte de las tesorerías municipales a la Secretaría de Finanzas y Administración a más tardar el día 2 de enero de cada ejercicio fiscal, esto bajo los términos y requerimientos que la Secretaría disponga a través de los lineamientos que emita y dé a conocer. También pueden ratificarse las mismas cuentas utilizadas en el ejercicio fiscal inmediato anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 Cuando se trate de cambios de autoridades municipales, se podrá aplicar lo dispuesto en el párrafo que antecede.
 
@@ -293,19 +303,23 @@ ARTÍCULO 15 BIS. Si como resultado de las liquidaciones que la Federación real
 
 Para efectos de lo dispuesto en el párrafo anterior, el monto a cargo de cada Municipio se determinará con los mismos coeficientes con los que se les hayan efectuado los pagos provisionales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, serán inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas que correspondan al Fondo General, Fondo de Fomento Municipal, e Impuesto a la Venta de Gasolinas y Diésel referidas en el artículo 3° de esta Ley, las que podrán ser afectadas en garantía como fuente de pago de obligaciones contraídas por los municipios y sus organismos descentralizados, previo Acuerdo de Cabildo del Ayuntamiento y autorización del Congreso del Estado, e inscritas en el Registro Público Único referido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios a favor de la Federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana, así como a lo previsto por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, serán inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas que correspondan al Fondo General, Fondo de Fomento Municipal, e Impuesto a la Venta de Gasolinas y Diésel referidas en el artículo 3° de esta Ley, las que podrán ser afectadas, cuando los Municipios tengan una obligación ante el Gobierno del Estado de Michoacán en los términos que esta Ley autorice, así como en garantía como fuente de pago de obligaciones contraídas por los municipios y sus organismos descentralizados, previo Acuerdo de Cabildo del Ayuntamiento y autorización del Congreso del Estado, e inscritas en el Registro Público Único referido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios a favor de la Federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana, así como a lo previsto por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 Solamente podrán ser objeto de retención por parte de la Secretaría de Finanzas y Administración, aquellos montos y sus accesorios correspondientes que la Secretaría de Hacienda y Crédito Público a su vez retiene al Estado, como son entre otros conceptos, los relativos al Impuesto sobre la Renta, y las Cuotas Obrero Patronales no pagadas oportunamente por los municipios y/o de sus organismos paramunicipales, a favor del Servicio de Administración Tributaria, por los descuentos en la proporción que les corresponda, y que en su caso apliquen por el beneficio recibido, derivados de los esquemas de potenciación del Fondo de Estabilización de los Ingresos de las Entidades, a los cuales el Estado se haya adherido e implementados por la Federación, del Instituto Mexicano del Seguro Social y/o del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, respectivamente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 Cuando el total del monto a retener por los conceptos antes referidos, no se descuente en el mes respectivo, la diferencia causará intereses hasta que se cubra el monto total a favor de la Secretaría de Finanzas y Administración, los que se determinarán a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones. Previo Acuerdo de Cabildo correspondiente.
 
-Asimismo, la Secretaría de Finanzas y Administración podrá realizar la retención mensualmente de las participaciones municipales, para cubrir aquellos créditos fiscales que los Municipios y sus organismos paramunicipales hayan originado, como consecuencia de no pagar de (sic) contribuciones estatales oportunamente, previo Acuerdo de Cabildo y la suscripción del Convenio correspondiente.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, la Secretaría de Finanzas y Administración podrá realizar el descuento o compensación mensualmente de las participaciones municipales, para cubrir aquellos créditos fiscales firmes que los Municipios y sus organismos paramunicipales hayan originado, como consecuencia de la omisión total o parcial de pago de contribuciones estatales oportunamente, para estos efectos la Secretaría de Finanzas y Administración emitirá los lineamientos correspondientes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -1052,3 +1066,19 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO 605 POR EL QUE “SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 16; EL ARTÍCULO 20; Y SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 20, TODOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día 1º de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 111.- ARTÍCULO ÚNICO.- SE REFORMAN EL ARTÍCULO 13; EL TERCER Y CUARTO PÁRRAFOS DEL ARTÍCULO 14; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; EL PRIMER Y CUARTO PÁRRAFOS DEL ARTÍCULO 16; Y, SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 14, TODOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1º primero de enero de 2025, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Dese cuenta el (sic) presente Decreto al titular de la Secretaría de Finanzas y Administración, para su conocimiento y los efectos correspondientes.
