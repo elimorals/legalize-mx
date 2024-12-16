@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-del-estado-de-quintana-roo-92421"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-01-15"
-last_updated: "2014-12-09"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de enero de 2013.
 
@@ -59,7 +59,9 @@ I. La Tesorería: Se entenderán las Tesorerías de los Municipios del Estado de
 
 II. La Ley: se referirá a la Ley de Hacienda Municipal que resulte aplicable a cada Municipio del Estado Quintana Roo; y
 
-III. S.M.G: Por estas siglas se entenderá el salario mínimo general diario vigente del Estado de Quintana Roo, en el momento de la realización de la situación jurídica o de hecho previsto en este Código.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+III. U.M.A.: Por estas siglas se entenderá la Unidad de Medida y Actualización, vigente en el momento de la realización de la situación jurídica o de hecho previsto en este Código.
 
 ###### Artículo 3.
 
@@ -115,7 +117,13 @@ En relación con la expedición de licencias, permisos o autorizaciones, los der
 
 III.- CONTRIBUCIONES DE MEJORAS: Son las establecidas en la Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas;
 
-Los recargos, las sanciones, los gastos de ejecución flas Indemnizaciones, que se apliquen con relación a aprovechamientos, son accesorios de éstos y participan de su naturaleza. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones que se apliquen a contribuciones, serán accesorios de éstas y participarán de su naturaleza.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Cuando en este Código se haga referencia únicamente a contribuciones, no se entenderán incluidos los accesorios, salvo que los mismos sean condonados por la autoridad fiscal.
 
 ###### Artículo 7.
 
@@ -357,7 +365,9 @@ III. Señalar la autoridad a la que se dirige. Su actividad o giro comercial, in
 
 IV. Señalar o especificar el propósito de la promoción o declaración y en su caso la determinación de los montos a cubrir, así como de la base gravable;
 
-V. El domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+V. Señalar domicilio para oír y recibir notificaciones en la localidad en la que tenga su domicilio la autoridad fiscal, así como señalar a persona autorizada para recibirlas, y
 
 VI. La descripción de los anexos que se adjuntan al escrito.
 
@@ -381,7 +391,9 @@ La autoridad no quedará vinculada por la respuesta otorgada a las consultas rea
 
 Las respuestas recaídas a las consultas a que se refiere este artículo, no serán obligatorias para los particulares, por lo cual éstos podrán impugnar a través de los medios de defensa establecidos en las disposiciones aplicables, las resoluciones definitivas en las cuales la autoridad aplique los criterios contenidos en dichas respuestas.
 
-Las resoluciones administrativas de carácter individual favorables a los particulares, podrán ser modificadas por la Sala Constitucional y Administrativa, mediante juicio iniciado por la autoridad fiscal.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Las resoluciones administrativas de carácter individual favorables a los particulares podrán ser modificadas o anuladas por las Salas del Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, mediante el juicio de lesividad interpuesto por la autoridad fiscal o su representación legal.
 
 ###### Artículo 22.
 
@@ -395,7 +407,9 @@ Las contribuciones y sus accesorios, los productos y aprovechamientos, se causar
 
 Tratándose de contribuciones y accesorios determinados por operaciones con moneda extranjera, se considerará el tipo de cambio o (sic) que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación, el día anterior a aquél en que se causen las contribuciones. Los días en que el Banco de México no publique dicho tipo de cambio, se aplicará el último publicado con anterioridad al día en que se causen las contribuciones.
 
-Se aceptarán como medios de pago los depósitos bancarios, transferencia electrónica de fondos, los cheques certificados o de caja, los giros postales, telegráficos o bancarios; los cheques personales sin certificar deberán ser de la cuenta del deudor y librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde este establecida la autoridad recaudadora y serán recibidos salvo buen cobro.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Se aceptarán como medios de pago el efectivo, los depósitos bancarios, transferencia electrónica de fondos (incluido SPEI), cheques certificados o de caja, los giros postales, telegráficos o bancarios y los certificados especiales emitidos por la autoridad fiscal municipal. Los cheques personales sin certificar deberán ser de la cuenta del propio contribuyente, y librarse a cargo de las instituciones bancarias donde esté establecida la autoridad recaudadora, y serán recibidos salvo buen cobro.
 
 También podrán aceptarse la dación en pago con bienes muebles o inmuebles de la legítima propiedad del deudor, previo avalúo comercial practicado por perito designado por la propia autoridad. Los honorarios correspondientes serán a cargo del deudor. Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal, y a los accesorios en el siguiente orden:
 
@@ -470,6 +484,46 @@ La devolución se aplicará primero a intereses y, posteriormente, a las cantida
 La devolución también podrá realizarse mediante certificados especiales expedidos a nombre de los contribuyentes o a nombre de terceros, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor.
 
 En este caso, se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad le notifique que el certificado especial está a su disposición. La vigencia de los certificados será de cinco años contados a partir que se notifique al contribuyente, que están a su disposición.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+Los certificados especiales referidos en el artículo anterior, se sujetarán (sic) las siguientes disposiciones:
+
+I. Los certificados especiales serán expedidos por la persona titular de la Tesorería Municipal, y deberán contener la siguiente información:
+
+a) Lugar y fecha de emisión;
+
+b) Número de certificado especial;
+
+c) Nombre y domicilio del contribuyente;
+
+d) Datos que originan la emisión del certificado especial;
+
+e) Monto por el cual se expide el certificado especial, y
+
+f) Nombre, fecha y firma del funcionario que expide el certificado especial.
+
+II. La Tesorería Municipal deberá mantener un control y registro de los certificados especiales que emita a través de un libro de gobierno para tal efecto, y en el cual, se efectuarán las anotaciones respecto de las certificaciones a que se refiere el presente artículo.
+
+De cada certificado especial emitido, la Tesorería Municipal informará al Ayuntamiento por conducto del Síndico Municipal, los datos referidos en la fracción I anterior, e igualmente presentará al final de cada ejercicio fiscal, un informe relacionado con los montos, compensaciones efectuadas, saldos, extinción y/o caducidad de los mismos.
+
+III. Al efectuar la compensación de contribuciones con los certificados especiales, éstos deberán ser presentados en original ante la autoridad fiscal municipal, y mediante escrito libre que cumpliendo con los requisitos del artículo 20 de este Código, tenga por objeto solicitar la compensación de contribuciones con el saldo de el o los certificados especiales que exhiba.
+
+IV. Cuando el certificado especial sea utilizado para cubrir total o parcialmente alguna contribución a cargo del contribuyente, la autoridad fiscal deberá efectuar la certificación al reverso del mismo, indicando la fecha en la cual se efectuó la compensación, el monto de la operación y en su caso, el saldo que en su caso llegare a existir. En caso que el monto consignado en el certificado especial exceda de la obligación a compensarse, y dicha información será registrada también en el libro de gobierno referido en la fracción II, de este articulo;
+
+V. Cuando el monto consignado en el certificado especial se utilice en su totalidad mediante el pago de una o más obligaciones fiscales, la autoridad fiscal certificará al reverso de dicho documento que el mismo se ha extinguido y permanecerá en posesión de dicho certificado, debiendo efectuar las anotaciones correspondientes en el libro de gobierno.
+
+VI. Si el monto del certificado fuere insuficiente para cubrir la obligación fiscal, el remanente deberá ser enterado por el contribuyente, a través de los medios de pago autorizados en el artículo 23, de este Código, debiendo la autoridad fiscal efectuar las anotaciones que correspondan en el libro de gobierno respectivo.
+
+VII. Transcurrido el plazo de vigencia previsto en el artículo 28 de este Código, la autoridad fiscal deberá efectuar la anotación en el libro de gobierno, respecto de la caducidad del certificado especial correspondiente.
+
+En ningún caso tendrá la obligación la autoridad fiscal, de notificar a los contribuyentes titulares de algún certificado especial, los saldos remanentes de los mismos, ni cuando estos hubieren caducado.
+
+VIII. La autoridad fiscal no estará obligada a reponer los certificados especiales que hubieran sufrido daño o pérdida; tampoco estará obligada a recibir y compensar contribución alguna, cuando el certificado especial no le sea exhibido en original, o cuando el que le sea presentado contenga tachaduras, enmendaduras, alteraciones, o no coincida con los registros que sobre el mismo, deban existir en el libro de gobierno referido en la fracción II de este artículo.
+
+IX. Los certificados especiales en ningún caso serán negociables.
 
 ###### Artículo 29.
 
@@ -625,11 +679,15 @@ Las instancias o peticiones que se formulen a las autoridades fiscales deberán 
 
 Cuando se requiera al promovente que cumpla con los requisitos omitidos o proporcione los elementos necesarios para resolver, el plazo que se señala en el párrafo precedente se contará desde que el requerimiento haya sido cumplido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 40.
 
-Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
+Los actos administrativos que deban notificarse contendrán al menos, los siguientes requisitos:
 
-I. Constar por escrito;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Constar por escrito en documento impreso o digital;
 
 II. Señalar a la autoridad que lo emite;
 
@@ -637,7 +695,23 @@ III. Señalar lugar y fecha de emisión;
 
 IV. Estar fundado, motivado y expresar la resolución, objeto o propósito de que se trate; y
 
-V. Ostentar la firma del funcionario competente en su caso, el nombre o nombres de las personas a las que se haya dirigido. Cuando se ignore el nombre, se señalarán los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa. Para la emisión V regulación de la firma electrónica avanzada de los funcionarios pertenecientes a las Tesorerías Municipales, serán aplicables las disposiciones previstas en la Ley de Uso de Medios Electrónicos, Mensajes de Datos y Firma Electrónica Avanzada para el Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+V. Ostentar la firma del funcionario competente. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa, y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VI. Señalar el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigidos (sic), se señalarán los datos suficientes que permitan su identificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Para la utilización de la firma electrónica avanzada, los Municipios podrán celebrar convenios de colaboración con el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, para la emisión y utilización de la firma electrónica avanzada de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+En los documentos digitales, una firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa de la autoridad firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalarán, además, la causa legal de ésta.
 
@@ -789,7 +863,9 @@ I. La solicitud se notificará en el domicilio manifestado ante la Tesorería Mu
 
 II. En la solicitud se indicará el lugar y plazo en el cual se deben proporcionar los informes o documentos;
 
-III. Los informes o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+III. Los informes o documentos requeridos deberán ser proporcionados por el contribuyente al que se dirigió o su representante legal, cumpliendo con el orden, forma y anexos que, en su caso, prevean las leyes fiscales o las reglas de carácter general emitidas por las autoridades fiscales;
 
 IV. La autoridad Fiscal deberá dar a conocer las observaciones que realicen al contribuyente con motivo del ejercicio de las facultades de comprobación fuera de una visita domiciliaria, a fin de que el contribuyente exprese lo que a su derecho convenga y ofrezca pruebas que desvirtúen las observaciones dentro del plazo de seis días contados a partir de que surta efectos la notificación de las observaciones; y
 
@@ -947,61 +1023,69 @@ Cuando las infracciones se estimen leves y consistan en hechos, omisiones o falt
 
 ### CAPITULO II. INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 68.
 
-A las infracciones siguientes cuya responsabilidad recae en los sujetos pasivos de una prestación fiscal, corresponden las sanciones siguientes:
+A las siguientes infracciones relacionadas con las obligaciones a cargo de los contribuyentes, corresponden las siguientes sanciones:
 
-I. Por no cumplir con las obligaciones que señalan las disposiciones de inscribirse, registrarse o hacerlo fuera de los plazos legales; no incluir en las solicitudes la autorización de funcionamiento de todas las actividades por las que deba cubrir un derecho, o sea contribuyente habitual; no proporcionar clara y específicamente todos los datos de localización y registro respectivo, o no citar su número oficial en las manifestaciones que hagan ante las autoridades fiscales municipales, multa de 10S.M.G. a 150 S.M.G.
+I. Por no cumplir con las obligaciones que señalan las disposiciones de inscribirse, registrarse o hacerlo fuera de los plazos legales; no incluir en las solicitudes de licencia de funcionamiento, todas las actividades por las cuales se deba de cubrir una contribución; no proporcionar con claridad sus datos de localización, o no citar su número oficial en las manifestaciones que hagan ante las autoridades fiscales, multa de 22.92 a 343.92 veces el valor diario de la U.M.A.
 
-II. Por utilizar interpósita persona para manifestar negociaciones propias o para percibirse ingresos gravables, dejando de pagar total o parcialmente los impuestos o derechos correspondientes, multa de 10 S.M.G. a 200 S.M.G.
+II. Por la utilización de interpósita persona para obtener las licencias de funcionamiento de negociaciones propias, para evitar cumplir con los pagos de contribuciones, multa de 22.93 a 458.56 veces el valor diario de la U.M.A.
 
-III. Por no obtener previamente los permisos, placas, números oficiales y licencias o cualquier otro documento exigible por las disposiciones fiscales; no tenerlos en lugar visible de las negociaciones o inmuebles respectivos, multa de 10 S.M.G. a 150 S.M.G.
+III. Por operar negociaciones o iniciar cualquier actividad económica, sin previamente obtener las licencias, permisos, autorizaciones, placas, números oficiales o cualesquiera otros requisitos o documentos previstos por las disposiciones fiscales, o por no tenerlos en lugar visible de las negociaciones o inmuebles en los que realiza sus actividades, multa de 22.93 a 573.20 veces el valor diario de la U.M.A.
 
-IV. Por no consignar por escrito actos, convenios o contratos que de acuerdo con las disposiciones fiscales, deban presentarse ante las autoridades fiscales municipales, multa de 7 S.M.G. a 200 S.M.G.
+IV. Por no consignar por escrito actos, convenios o contratos que, de acuerdo con las disposiciones fiscales deban presentarse ante las autoridades fiscales municipales, de 16.05 a 458.56 veces el valor diario de la U.M.A.
 
-V. Por no presentar o no proporcionar o hacer extemporáneamente los avisos, contratos, solicitudes, datos, informes o documentos que exijan las disposiciones fiscales municipales, multa de 10 a 150 S.M.G.
+V. Por no presentar o no proporcionar los avisos, contratos, solicitudes, datos, informes o documentos previstos por las disposiciones fiscales municipales, o hacerlo de forma extemporánea o por presentarlos en forma parcial y/o sin el orden y/o anexos exigidos por la legislación fiscal, de 25 a 250 veces el valor diario de la U.M.A.
 
-VI. Por presentar los avisos, datos, informes y documentos a que se refiere la fracción anterior, alterados o falsificados, multas de 10 a 250 S.M.G.
+VI. Por presentar alterados o falsificados, los documentos señalados en la fracción anterior, o por presentar certificados especiales previstos en los artículos 28 y 28 Bis de este Código, multa de 100 a 2500 veces el valor diario de la U.M.A., con independencia a la presentación de la denuncia correspondiente ante la Fiscalía General del Estado de Quintana Roo.
 
-VII. Por declarar ingresos menores de los percibidos en la explotación de las actividades gravadas con impuestos; así como utilizar las licencias, permisos o autorizaciones de funcionamiento para actividades distintas para los que han sido expedidos, multa de a 150 S.M.G.
+VII. Por declarar ingresos menores de los percibidos en operaciones gravadas con impuestos; o por utilizar las licencias, permisos o autorizaciones de funcionamiento para actividades distintas para los que fueron expedidos, multa de 22.93 a 343.92 veces el valor diario de la U.M.A.
 
-VIII. Por no pagar en forma total o parcial los impuestos o derechos en los plazos señalados por las leyes fiscales, se impondrá multa de 2 a 50 S.M.G.
+VIII. Por no enterar la totalidad de los impuestos o derechos que correspondan al periodo o momento de su causación, o por efectuar el entero fuera del plazo señalado por las leyes fiscales, multa de 10 a 50 veces el valor diario de la U.M.A.
 
-IX. Por no cubrir el pago de impuestos y derechos, como consecuencia de simulaciones, falsificaciones y otras maniobras de mala fe o dolo, se impondrá una multa hasta de cinco tantos de los créditos fiscales omitidos.
+IX. Por no cubrir el pago de impuestos y derechos, como consecuencia de simulaciones, falsificaciones, o cualesquiera otras maniobras efectuadas con mala fe o dolo, se impondrá como multa de dos a cinco tantos de los montos omitidos.
 
-X. Resistirse por cualquier medio a las visitas de verificación, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquellos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales municipales a cargo de los particulares, multa de 50 a 2,500 S.M.G.
+X. Por resistirse por cualquier medio a las visitas de verificación, no suministrar los datos o informe que legalmente puedan exigir las autoridades fiscales municipales, multa de 114.64 a 5732.02 veces el valor diario de la U.M.A.
 
-XI. Por no presentar a las autoridades fiscales municipales cuando éstas lo solicitan, las licencias, autorizaciones o permisos de funcionamiento de los giros comerciales e industriales, multa de 10 a 250 S.M.G.
+XI. Por no presentar a las autoridades fiscales cuando les sea requerido, las licencias, autorizaciones o permisos de funcionamiento de los giros comerciales o industriales, multa de 22.93 a 573.20 veces el valor diario de la U.M.A.
 
-XII. Por iniciar cualquier actividad económica sin haber cubierto los requisitos exigidos por los distintos ordenamientos fiscales municipales, multa de 10 a 250S.M.G.
+XII. Por iniciar cualquier actividad económica sin haber cubierto los requisitos exigidos por los distintos ordenamientos fiscales municipales, multa de 22.93 a 573.20 U.M.A.
 
-XIII. Cuando las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación, respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, detecten irregularidades, procederán a determinar las contribuciones omitidas presuntivamente e impondrán multa en un equivalente de 1 a 4 veces el monto de los créditos presumiblemente omitidos.
+XIII. Cuando las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación detecten irregularidades respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán a determinar las contribuciones omitidas presuntivamente, e impondrán multa equivalente de 1 a 4 veces el monto de los créditos presumiblemente omitidos.
 
-XIV. Traficar con documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos y se sancionará con una multa equivalente de 1 a 4 veces el monto de los créditos presumiblemente omitidos.
+XIV. Por utilizar indebidamente comprobantes de pago de obligaciones fiscales, certificados especiales, o hacer uso ilegal de los mismos, se impondrá de 229.28 a 5732.02 veces el valor diario de la U.M.A.
 
-XV. Por interponer o por entorpecer por cualquier medio para evitar los actos o mandamientos de la autoridad fiscal, en el ejercicio de sus facultades, multas de 100 hasta 500 S.M.G.
+XV. Por interponer recursos legales frívolos o improcedentes para retrasar o entorpecer por cualquier medio la ejecución de los actos o mandamientos de la autoridad fiscal en el ejercicio de sus atribuciones, multa de 100 a 500 veces el valor diario de la U.M.A.
 
-Para los efectos del presente artículo, cuando el contribuyente sostenga diversas conductas infractoras, se determinará la multa correspondiente a cada una de ellas.
+Cuando el contribuyente se ubique dentro de más de uno de los supuestos de infracción señalados en este artículo, se impondrá la multa que corresponda a cada conducta u omisión.
+
+En el caso de las fracciones I, III y X de este artículo, la autoridad fiscal podrá ordenar la clausura temporal de la negociación, en tanto el contribuyente regulariza su situación fiscal.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 69.
 
-Las infracciones cuya responsabilidad corresponda a terceros, se sancionará conforme a lo siguiente:
+Las infracciones cuya responsabilidad corresponda a terceros, se sancionarán conforme a lo siguiente:
 
-I. Por consentir que se inscriban a su nombre en el Registro Fiscal Municipal negociaciones ajenas o percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando este último traiga como consecuencia omisión de ingresos públicos para la hacienda municipal, multa de 10 a 1,000 S.M.G.
+I. Por consentir que se inscriban a su nombre en el padrón municipal de contribuyentes, negociaciones ajenas, o por percibir a nombre propio ingresos gravables que correspondan a otra persona, multa de 22.93 a 2292.81 veces el valor diario de la U.M.A.
 
-II. Por no proporcionar los avisos, datos o documentos que conforme a las disposiciones fiscales deban hacerlo, o no exhibirlas en el plazo fijado, o no aclararlos cuando las autoridades fiscales municipales lo soliciten, multa de 10 a 150 S.M.G.
+II. Por omitir proporcionar a la autoridad fiscal los avisos, datos, informes o documentos que conforme a las disposiciones fiscales deban hacerlo, o por no exhibirlas en el plazo fijado para ese efecto, o no aclararlos cuando las autoridades fiscales municipales lo soliciten, multa de 25 a 250 veces el valor diario de la U.M.A.
 
-III. Por asesorar o aconsejar a los contribuyentes que eludan o evadan el pago de una prestación fiscal o a las disposiciones fiscales municipales, multa de 100 a 1,000 S.M.G.
+III. Por asesorar o aconsejar a los contribuyentes para que eludan o evadan el pago de una prestación fiscal o el cumplimiento a las disposiciones fiscales municipales, multa de 229.28 a 2292.81 veces el valor diario de la U.M.A.
 
-IV. Por no enterar total o parcialmente dentro de los plazos que establezcan las disposiciones legales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar, se impondrá multa hasta de tres tantos de las prestaciones fiscales municipales omitidas o en caso de que no se pueda precisar el monto de la prestación omitida, aplicará una multa hasta por el doble del máximo señalado en la fracción VIII del artículo 68 del presente Código.
+IV. Por no enterar en su totalidad conforme al periodo o momento de causación correspondiente, las contribuciones retenidas, recaudadas, o que debieron retener o recaudar, se impondrá multa equivalente de 2 a 5 tantos de las obligaciones fiscales omitidas; para el caso de que no se pueda precisar el monto de la obligación omitida, se aplicará una multa de 22.93 a 229.28 veces el valor de la U.M.A. elevado al mes.
 
-V. Por no cerciorarse al transportar o almacenar bienes que deban pagar impuestos o derechos, cuando las disposiciones fiscales municipales les impongan esa obligación, multa de 100 a 1,000 S.M.G.
+V. Por no cerciorarse al transportar o almacenar bienes que deban pagar impuestos o derechos establecidos en las disposiciones fiscales o municipales que les impongan dicha obligación, multa de 229.28 a 2292.81 veces el valor diario de la U.M.A.
 
-VI. Por infringir disposiciones fiscales municipales en forma distinta de las previstas en las fracciones precedentes, multa de 100 a 800 S.M.G.
+VI. Por infringir las disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de 229.28 a 1834.25 veces el valor diario de la U.M.A.
 
-VII. Autorizar actos, contratos o escrituras, en donde no se haya cumplido con las disposiciones fiscales, dejar de calcular contribuciones respecto a las escrituras o cualquier contrato que se otorgue ante la fe de los Notarios, o efectuarla sin sujetarse a lo previsto por las disposiciones de éste Código o las leyes fiscales municipales; se sancionará con multa de 50 a 100 días de S.M.G, siempre que no pueda determinarse el monto de la contribución omitida, de lo contrario, la multa será del equivalente de 1 a 2 veces el monto de la contribución;
+VII. A los fedatarios públicos y funcionarios registrales que autoricen actos, contratos, y/o escrituras, o que los registran o inscriban, sin verificar que se cumplan las disposiciones fiscales municipales relacionadas con la determinación, liquidación, retención y/o entero de contribuciones, o lo hagan sin sujeción a las disposiciones fiscales, se impondrá como multa el equivalente de 1 a 4 veces el monto de la obligación omitida; o para el caso que no pueda determinarse el monto de la obligación omitida, se impondrá de 10 a 100 veces el valor de la U.M.A. elevado al mes.
 
-VIII. Resistirse por cualquier medio a las visitas de verificación, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquellos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales municipales a cargo de los particulares, multa de 50 a 2,500 S.M.G.
+VIII. Por resistirse por cualquier medio a las visitas de verificación, y/o no suministrar los datos o informes que durante dichas diligencias puedan legalmente exigir las autoridades fiscales municipales, se impondrá multa de 114.64 a 5732.02 veces el valor diario de la U.M.A.
+
+En el caso de las fracciones I, II, IV, V y VIII de este artículo, la autoridad fiscal podrá ordenar la clausura temporal de la negociación, en tanto el contribuyente regulariza su situación fiscal.
 
 ###### Artículo 70.
 
@@ -1025,7 +1109,9 @@ VIII. Alterar las bases o tasas impositivas que existan en los controles adminis
 
 IX. Infringir las disposiciones fiscales en forma distinta de las infracciones precedentes.
 
-En los casos de las fracciones anteriores, se impondrá una multa de 500 a 1,000 S.M.G., lo que se hará sin perjuicio de que el infractor sea cesado o destituido sin responsabilidad para el Municipio, independientemente de la acción penal que pueda ejercer el fisco municipal, cuando éste considere que ha sufrido perjuicio.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+En los casos de las fracciones anteriores, se impondrá una multa de 1146.40 a 2292.81 veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones que determine el órgano interno de control municipal, y de manera independiente a la denuncia que, en su caso, presente la autoridad municipal ante la Fiscalía General del Estado.
 
 ### CAPITULO III. DE LOS DELITOS FISCALES
 
@@ -1129,9 +1215,13 @@ VI. El que haciendo uso de engaño o aprovechándose de un error, omita parcial 
 
 A los responsables del delito de defraudación fiscal se les impondrán las siguientes sanciones:
 
-I. Prisión de tres meses a un año en los casos a que se refieren las fracciones I a la V del artículo anterior, si el monto de lo defraudado o que se intentó defraudar importa hasta 600 veces el S.M.G. diario vigente en el estado
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Prisión de trece meses a cinco años en los casos de las fracciones I a la V del artículo anterior, si el monto de lo que se defraudó o intentó defraudar excede de 600 veces el salario mínimo general vigente en la región;
+I. Prisión de tres meses a un año en los casos a que se refieren las fracciones I a la V del artículo anterior, si el monto de lo defraudado o que se intentó defraudar importa hasta 263.67 veces el valor diario de la Unidad de Medida y Actualización U.M.A.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+II. Prisión de trece meses a cinco años en los casos de las fracciones I a la V del artículo anterior, si el monto de lo que se defraudó o intentó defraudar excede de 1375.68 veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Prisión de tres meses a tres años en el caso de la fracción VI del artículo anterior, independientemente de las sanciones que les correspondan, si sus actos u omisiones constituyen delito diferente al previsto en el artículo anterior; y
 
@@ -1141,9 +1231,11 @@ IV. Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena se
 
 La determinación de la cantidad a que se refiere el artículo anterior en sus fracciones I y II, se hará tomando en cuenta lo defraudado o lo que se intentó defraudar dentro de un mismo período fiscal, aún cuando se trate de diferentes acciones y omisiones de las previstas con anterioridad y aunque la defraudación haya versado sobre contribuciones diferentes.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 86.
 
-Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco municipal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que por cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 600 veces el S.M.G diario vigente en el estado; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco municipal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que por cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 1375.68 veces el valor diario de la Unidad de Medida y Actualización; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 ###### Artículo 87.
 
@@ -1305,9 +1397,11 @@ IV. Si se resuelve que no hubo notificación, o que fue ilegal, tendrá al recur
 
 V. Si se resuelve que la notificación fue legalmente practicada, y como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se desechará dicho recurso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 103.
 
-Si se declara, en la resolución correspondiente, que ha existido nulidad de notificaciones, se impondrá al notificador correspondiente una multa de 5 a 15 días S.G.M. vigente en el Estado.
+Si se declara, en la resolución correspondiente, que ha existido nulidad de notificaciones, se impondrá al notificador correspondiente una multa de 5 a 15 días del valor diario de la Unidad de Medida y Actualización.
 
 Cuando sea reincidente, se podrá aplicar hasta el doble de la sanción señalada en el párrafo anterior y la suspensión sin goce de sueldo hasta por un periodo de 30 días.
 
@@ -1371,13 +1465,19 @@ II. A los particulares:
 
 a) Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
 
-b) Por correo certificado con acuse de recibo cuando se trate de actos distintos de los señalados en el inciso anterior, o cuando los previstos en la fracción anterior no pudieran ser notificados personalmente por no haberse señalado domicilio para recibir notificaciones en la localidad que sea sede de la autoridad fiscal municipal;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+b) Por correo certificado con acuse de recibo, cuando se trate de actos distintos a los señalados en el inciso anterior;
 
 c) Por telegrama cuando se trate de actos distintos a los señalados en el inciso ala) anterior;
 
-d) Por estrados, cuando la persona a quien deba notificarse se oponga a la diligencia de notificación o desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al registro municipal de contribuyentes, después de la notificación de la orden de visita, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-e) Por edictos, únicamente en caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiere desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el territorio municipal;
+d) Por estrados, cuando la persona a quien deba notificarse se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio a la autoridad fiscal municipal después de la notificación de la orden de visita, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+e) Por edictos, cuando no se hubiera señalado domicilio para recibir notificaciones en la localidad en la cual tenga su sede la Tesorería Municipal, cuando el contribuyente hubiera fallecido y se desconozca al representante de la sucesión, cuando el contribuyente hubiere desparecido, se ignore su domicilio o cuando éste o el de su representante, se encuentren fuera de la localidad en la que tenga su sede la Tesorería Municipal.
 
 f) Por instructivo, solamente los casos que señala este Código y con las formalidades a que se refiere el segundo párrafo del artículo 111.
 
@@ -1415,15 +1515,25 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 En caso de encontrarse cerrado el domicilio del deudor, a pesar del citatorio, o que las personas que se encuentren en el mismo o los vecinos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia, para dar cuenta a la autoridad emisora de dicho acto.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o notificaciones de créditos fiscales, se cobrará a quien incurra en el incumplimiento, en concepto de honorarios por notificación, el equivalente a un dos por ciento del crédito fiscal omitido, debiendo cubrirse conjuntamente con el cumplimiento de la obligación requerida. En caso de que el dos por ciento sea inferior a dos veces el S.M.G. diario vigentes en el estado, se cobrará esta cantidad por concepto de honorarios.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o notificaciones de créditos fiscales, se cobrará a quien incurra en el incumplimiento, en concepto de honorarios por notificación, el equivalente a un dos por ciento del crédito fiscal omitido, debiendo cubrirse conjuntamente con el cumplimiento de la obligación requerida. En caso de que el dos por ciento sea inferior a dos veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad por concepto de honorarios.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 112.
 
-Las notificaciones por estrados se harán fijando durante cinco días hábiles el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día hábil siguiente a aquél en el que se hubiera fijado el documento y comenzará a surtir sus efectos ese mismo día.
+Las notificaciones por estrados se realizarán fijando durante cinco días hábiles, el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación.
+
+La autoridad levantará una constancia en la que señale la fecha y hora en la que se fijó la notificación por estrados y del retiro de la misma, y que se agregará al expediente correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 113.
 
-Las notificaciones por edictos se harán mediante publicaciones por tres días consecutivos en uno de los periódicos de mayor circulación en la entidad, o por una sola ocasión en el Periódico Oficial del Estado, y contendrá un resumen de los actos que se notifican. En este caso, se tendrá como fecha de notificación la de la última publicación.
+Las notificaciones por edictos se harán mediante su publicación durante quince días naturales en la página web oficial del Municipio correspondiente, y contendrá un resumen de los actos que se notifican.
+
+La autoridad levantará una constancia en la que señale la fecha y hora en la cual se publicó el edicto, misma que se agregará al expediente.
 
 ###### Artículo 114.
 
@@ -1445,17 +1555,39 @@ La garantía deberá comprender además de las contribuciones adeudadas, los acc
 
 El Tesorero Municipal podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notarias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 115.
 
-Procede garantizar el interés fiscal cuando:
+El interés fiscal será garantizado cuando:
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Se solicite prórroga para el pago de los créditos fiscales o cuando los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente; y
+I. Se soliciten (sic) la suspensión del procedimiento administrativo de ejecución;
 
-III. En los demás casos que señale este ordenamiento y la Ley.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-Los Presidentes Municipales podrán dispensar la garantía del interés fiscal para el pago de contribuciones en parcialidades, cuando los créditos fiscales no excedan de 200 salarios mínimos generales, y siempre que tal facilidad se contenga en programas de regularización, o cuando se concedan facilidades administrativas para el pago en parcialidades, siempre que los mismos tengan la característica de resoluciones de carácter general, y se publiquen en el Periódico Oficial del Estado.
+II. Se solicite prórroga para el pago de los créditos fiscales, o cuando los mismos sean cubiertos en parcialidades, si dicha facilidad se concedió individualmente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+III. Cuando se solicite en la vía jurisdiccional la suspensión de la ejecución del crédito fiscal, y
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IV. En los demás casos que señale el presente Código, o alguna ley.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Las personas titulares de la Presidencia Municipal o en su caso de la Tesorería Municipal, podrán dispensar la garantía del interés fiscal para el pago de contribuciones en parcialidades, cuando los créditos fiscales no excedan del valor de la U.M.A. elevada al año.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Cuando el crédito fiscal sea superior a dicha cantidad, el Ayuntamiento podrá dispensar la garantía del crédito fiscal siempre que el crédito fiscal no supere de diez veces el valor de la U.M.A. elevada al año y se conceda dicha facilidad administrativa para el pago en parcialidades cuando tengan la característica de resoluciones de carácter general y se publiquen en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Cuando el interés fiscal sea superior a la cantidad señalada en el párrafo anterior, el crédito fiscal podrá garantizase mediante el embargo en la vía administrativa, siempre y cuando el contribuyente así lo solicite mediante escrito presentado ante la autoridad fiscal, en el que autorice dicho medio de garantía, y exhiba el original del comprobante de pago para la inscripción de dicho embargo, ante el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 116.
 
@@ -1511,23 +1643,23 @@ La declaratoria de prescripción de los créditos fiscales, podrá ser declarada
 
 Asimismo se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 122.
 
-El Presidente Municipal podrá cancelar créditos fiscales en las cuentas públicas, por la no localización del contribuyente, prescripción, incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, tomando en consideración el plazo de prescripción establecido en el artículo que antecede. La cancelación de créditos fiscales por la no localización del contribuyente, prescripción incosteabilidad en el cobro o por la insolvencia del sujeto pasivo, de los responsa bies solidarios o de los responsables objetivos, no libera a unos y otros de su obligación.
+La persona titular de la Presidencia Municipal podrá previa autorización del Ayuntamiento, cancelar créditos fiscales en las cuentas públicas, por la no localización del contribuyente, prescripción, incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-Se consideran créditos no localizados aquellos que habiéndose intentado la diligencia en el domicilio fiscal o convencional del deudor o responsable solidario, y agotada la búsqueda en las fuentes de verificación internas y externas, no se encuentre al deudor o a los responsables solidarios, ni bienes de su propiedad.
+En tratándose de la cancelación de los créditos fiscales en las cuentas públicas respecto de la no localización del contribuyente, incosteabilidad en el cobro o insolvencia del deudor o sus responsables solidarios, no libera a unos y otros de la obligación de pago, en tanto no prescriba el crédito fiscal.
 
-Son créditos prescritos, aquellos señalados en el artículo 121 del presente Código.
+Son créditos fiscales prescritos, los señalados en el artículo 121 de este Código.
 
-Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente a 50 S.M.G. de la zona, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+Se considerarán créditos de cobro incosteable, aquellos cuyo importe sea igual o inferior al equivalente a 50 veces el valor diario de la Unidad de Medida y Actualización, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
 
-Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+Cuando el deudor tenga dos o más créditos fiscales a su cargo, se sumarán para determinar si se cumple con el monto señalado en el párrafo anterior.
 
-Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el tercer párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+Se consideran insolventes los deudores o sus responsables solidarios cuando no tengan bienes embargables suficientes para cubrir el crédito fiscal, cuando no se pudieran localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
-La cancelación de los créditos a que se refiere éste artículo no libera de su pago.
-
-Las autoridades fiscales municipales darán a conocer las reglas de carácter general para la aplicación de éste artículo.
+Las autoridades fiscales municipales podrán emitir reglas de carácter general para la aplicación de este artículo.
 
 ###### Artículo 123.
 
@@ -1575,11 +1707,13 @@ II. Por el embargo a que se refiere la fracción II del artículo 127 de este c�
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal a que se refiere la fracción II del artículo 155 del presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-Cuando en los casos de las fracciones anteriores, el cuatro por ciento del crédito sea inferior a 5.5 del salario mínimo general correspondiente al Estado de Quintana Roo, se cobrará esta cantidad en lugar del cuatro por ciento del crédito por cada acción efectuada por la autoridad fiscal.
+Cuando en los casos de las fracciones anteriores, el cuatro por ciento del crédito fiscal sea inferior a 6 veces el valor de la Unidad de Medida y Actualización, se cobrará esta cantidad en lugar del cuatro por ciento del crédito, por cada diligencia efectuada por la autoridad fiscal.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrá exceder de la cantidad equivalente a un salario mínimo general correspondiente al Estado de Quintana Roo, elevado al año.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrá exceder de la cantidad del valor de la Unidad de Medida y Actualización elevada al año.
 
 Para los efectos del penúltimo párrafo de este artículo, las autoridades fiscales del Municipio, determinarán y cobrarán el monto de los gastos extraordinarios que deba pagar el contribuyente, acompañando copia de los documentos que acrediten dicho monto.
 
@@ -1599,7 +1733,9 @@ Se considerarán erogaciones extraordinarias las que se generen con motivo del p
 
 La autoridad recaudadora vigilará que las erogaciones extraordinarias a que se refiere el párrafo anterior sean las estrictamente indispensables y que no excedan a las contraprestaciones normales del mercado, debiendo contratar a las personas que designe el contribuyente, salvo que a juicio de la autoridad ejecutora la persona propuesta no tenga los medios para prestar el servicio o exista peligro de que el depositario se ausente, enajene, oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones.
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora debiendo pagarse junto con las contribuciones omitidas y demás accesorios, en los términos de las disposiciones de éste Código, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con las contribuciones omitidas y demás accesorios, en los términos de las disposiciones de este Código, salvo que se interponga el recurso de revocación al procedimiento administrativo de ejecución.
 
 Los honorarios y gastos de ejecución a que aluden las tarifas que anteceden, no son condonables, ni objeto de convenio alguno con la hacienda pública municipal, pasará a formar parte del fondo de administración tributaria, de la Tesorería Municipal y será distribuido de conformidad con las reglas de carácter general que para tal efecto, emita el Presidente Municipal.
 
@@ -1879,13 +2015,13 @@ Dicho perito deberá comparecer dentro de los dos días siguientes a aceptar su 
 
 Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte una diferencia al valor superior al 10% del determinado por la autoridad exactora, ésta designará dentro del término de seis días, un tercer perito valuador, quien dentro del plazo señalado en la fracción anterior, deberá rendir su dictamen. El avalúo que se fije será la base para la enajenación de los bienes.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 159.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días naturales siguientes a la determinación del precio que deberá servir de base. La última publicación de la convocatoria se hará cuando menos diez días hábiles antes de la fecha del remate.
+El remate deberá ser convocado para una fecha fijada dentro de los treinta días naturales siguientes a la determinación del precio que deberá servir de base. La última publicación de la convocatoria se hará cuando menos diez días hábiles antes de la fecha del remate. Si se trata de bienes muebles o inmuebles cuyo valor de avalúo no exceda de 11461.74 veces el valor diario de la Unidad de Medida y Actualización, la convocatoria se fijará por un término de tres días hábiles, en un sitio visible y usual de la oficina de la autoridad ejecutora y en los lugares públicos que se juzgue conveniente.
 
-Si se trata de bienes muebles o inmuebles cuyo valor de avalúo no exceda de 4999 veces el S.M.G. diario vigente en la región, la convocatoria se fijará por un término de tres días hábiles, en un sitio visible y usual de la oficina de la autoridad ejecutora y en los lugares públicos que se juzgue conveniente.
-
-Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente a 5000 veces el S.M.G. diario vigentes en la región, la convocatoria se publicará además en el Periódico Oficial del Estado, por una vez, y en uno de los periódicos de mayor circulación en la entidad durante tres días consecutivos.
+Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente a 11464.03 veces el valor diario de la Unidad de Medida y Actualización, la convocatoria se publicará además en el Periódico Oficial del Estado, por una vez, y en uno de los periódicos de mayor circulación en la entidad durante tres días consecutivos.
 
 ###### Artículo 160.
 
@@ -2082,3 +2218,11 @@ P.O. 9 DE DICIEMBRE DE 2014.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 066 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
