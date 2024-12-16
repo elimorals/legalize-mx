@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2022-04-06"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -497,9 +497,29 @@ Las instalaciones públicas deberán asegurar la accesibilidad, evacuación y li
 
 En las obras públicas y en los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias, entidades o municipios deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos.
 
-El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente.
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
+Para la autorización presupuestaria de la Secretaría de Finanzas respecto a obras que requieran presupuesto multianual, conforme a lo dispuesto en la Ley de Gasto Público y Ley General de Contabilidad Gubernamental, los ejecutores del gasto deberán:
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Determinar el presupuesto total y el de cada ejercicio presupuestal necesario, sin exceder los ejercicios correspondientes a la administración en turno;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+II. En la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que en su momento se encuentren vigentes, tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos;
+
+> <small>(ADICIONADA [N. DE E. ANTES PÁRRAFO SEGUNDO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+III. El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente;
+
+> <small>(ADICIONADA [N. DE E. ANTES PÁRRAFO TERCERO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+IV. La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo; y,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+V. Observar lo dispuesto en el artículo 60 de la Ley de Gasto Público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -939,7 +959,23 @@ III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios
 
 La Comisión y los Ayuntamientos, podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado y al municipio las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
 
-Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para su ejecución, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Cualquier tipo de contrato de obra pública podrá celebrarse bajo la modalidad de pagos a plazos preestablecidos. En esta modalidad, los pagos se realizarán mediante amortizaciones periódicas programadas en más de un ejercicio fiscal, conforme a los términos y condiciones que establezcan los contratos respectivos, debiéndose emitir certificados de avance de obra con base en las estimaciones autorizadas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los certificados de avance de obra establecerán, entre otros aspectos, las fechas y montos de pago, incluyendo el costo por diferimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos tendrán preferencia respecto a otras previsiones de gasto en el rubro de obra pública, debiéndose incluir en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 52 BIS. Para los contratos de obra pública bajo la modalidad de pagos a plazos preestablecidos, una vez que se adjudique el contrato, independientemente si su adjudicación se dio por licitación pública, invitación a cuando menos tres contratistas o adjudicación directa; la o las personas en quienes recaiga tal adjudicación podrán constituir una nueva persona moral de propósito específico; cuyo objeto social sea exclusivamente realizar las actividades necesarias para desarrollar el proyecto respectivo, para formalizar dicho contrato. Estableciendo las bases o condiciones de contratación, los requisitos correspondientes.
 
 ###### ARTÍCULO 53.
 
@@ -975,19 +1011,27 @@ XIII. Los procedimientos mediante los cuales las partes, entre sí, resolverán 
 
 Para los efectos de esta ley, el contrato, sus anexos y la bitácora de los trabajos, son los instrumentos que vinculan a las partes en sus derechos y obligaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 54.
 
-La adjudicación del contrato obligará a la dependencia, entidad o municipio y a la persona en quien hubiere recaído, a formalizar el documento relativo dentro de los treinta días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en la fracción II del artículo 56 de esta Ley.
+La adjudicación del contrato obligará a la dependencia, entidad o municipio, a la persona en quien hubiere recaído o la constituida para tales efectos, según sea el caso, a formalizar el documento relativo dentro de los treinta días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en la fracción II del artículo 56 de esta Ley.
 
-Las dependencias, las entidades y los Ayuntamientos, sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con los contratistas inscritos en el padrón cuyo registro esté vigente.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Las dependencias, las entidades y los Ayuntamientos, sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con los contratistas inscritos en el padrón cuyo registro esté vigente o con la empresa que estos hayan constituido para tales efectos, según sea el caso.
 
 Si el interesado no firmare el contrato por causas imputables al mismo dentro del plazo a que se refiere el párrafo anterior, la dependencia, entidad o Ayuntamiento, sin necesidad de un nuevo procedimiento, podrán adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 44 de esta ley, y así sucesivamente, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior en más del quince por ciento. Para que la dependencia o entidad procedan a realizar una nueva adjudicación se requerirá haber dado aviso previo al Comité de la ausencia de firma del contrato.
 
 Si la dependencia, entidad o Ayuntamiento no firmaren el contrato respectivo, el ganador de la licitación, sin incurrir en responsabilidad, quedará relevado de la obligación de ejecutar los trabajos. En este supuesto, a solicitud expresa del licitante, la dependencia, entidad o Ayuntamiento cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
-El licitante a quien se adjudique el contrato no podrá hacerlo ejecutar por otro; pero con la autorización previa de la dependencia, entidad o Ayuntamiento de que se trate, podrá hacerlo respecto de alguna parte o partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia, entidad o Ayuntamiento señale específicamente en las bases de la licitación las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el licitante al cual se adjudicó el contrato seguirá siendo el único responsable de la ejecución de los trabajos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-Los derechos y obligaciones que se deriven de los contratos de obra pública o servicios relacionados con la misma no podrán cederse en forma total o parcial a favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o Ayuntamiento de que se trate.
+El contratista que suscriba el contrato no podrá hacerlo ejecutar por otro; pero con la autorización previa de la dependencia, entidad o Ayuntamiento de que se trate, podrá hacerlo respecto de alguna parte o partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia, entidad o Ayuntamiento señale específicamente en las bases de la licitación las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el licitante al cual se adjudicó el contrato seguirá siendo el único responsable de la ejecución de los trabajos.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los derechos y obligaciones que se deriven de los contratos de obra pública o servicios relacionados con la misma no podrán cederse en forma total o parcial a favor de cualquier otra persona, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o Ayuntamiento de que se trate.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1089,9 +1133,19 @@ Bajo su responsabilidad, las estimaciones por trabajos ejecutados deberán pagar
 
 Los pagos de cada una de las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+En el caso de los contratos de obra con pagos a plazos preestablecidos, la convocante emitirá certificados de avance de obra con base en las estimaciones de obra aprobadas, los cuales serán pagaderos en los términos establecidos en los mismos y en el contrato de obra correspondiente, y constituirán obligaciones incondicionales e irrevocables de pago.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Los certificados de avance de obra que deriven de estimaciones por trabajos ejecutados, aprobados y aceptados por la dependencia o entidad emisora, no estarán sujetos a deducciones, ajustes, descuentos, compensaciones, retenciones o penas convencionales de ningún tipo y se cubrirán en las fechas y por los montos que en ellos se establezcan, conforme a los términos pactados en el contrato respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, entidad o Ayuntamiento, a solicitud del contratista, deberá pagar gastos financieros, aplicándose supletoriamente el procedimiento establecido en el Código Fiscal de la Federación, como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo hasta la fecha en que efectivamente se pongan las cantidades a disposición del contratista.
+En caso de incumplimiento en los pagos de estimaciones, certificados de avance de obra y de ajustes de costos, la dependencia, entidad o Ayuntamiento, a solicitud del contratista, deberá pagar gastos financieros, aplicándose supletoriamente el procedimiento establecido en el Código Fiscal de la Federación, como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo hasta la fecha en que efectivamente se pongan las cantidades a disposición del contratista.
 
 Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso más los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales, desde la fecha del pago hasta la fecha en que efectivamente se pongan las cantidades a disposición de la dependencia, entidad o Ayuntamiento.
 
@@ -1654,3 +1708,19 @@ P.O. 6 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-108 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE GASTO PÚBLICO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto la Secretaría de Finanzas y la Secretaría de Obras Públicas deberán realizar las modificaciones administrativas y reglamentarias necesarias, en un término no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
