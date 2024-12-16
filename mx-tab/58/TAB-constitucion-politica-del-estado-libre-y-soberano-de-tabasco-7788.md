@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2024-12-04"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -621,7 +621,9 @@ El Estado de Tabasco es libre y soberano en lo que se refiere a su régimen inte
 
 El pueblo ejerce su soberanía por medio de los Poderes del Estado en los casos de su competencia y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución.
 
-La Renovación de los Poderes Legislativo y Ejecutivo y de los gobiernos municipales, se realizará mediante elecciones libres, auténticas y periódicas, a través del sufragio universal, libre, secreto, directo, personal e intransferible, cuyo ejercicio está garantizado por esta Constitución. Dicha renovación se sujetará a las siguientes bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+La Renovación de los Poderes Legislativo, Ejecutivo, Judicial y de los gobiernos municipales, se realizará mediante elecciones libres, auténticas y periódicas, a través del sufragio universal, libre, secreto, directo, personal e intransferible, cuyo ejercicio está garantizado por esta Constitución. Dicha renovación se sujetará a las siguientes bases:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -739,9 +741,9 @@ Las infracciones a lo dispuesto en este Apartado serán investigadas y sancionad
 
 APARTADO C.- Del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-I.- La organización de las elecciones estatal, distritales y municipales es una función pública del Estado que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Tabasco, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Instituto Nacional Electoral, el Poder Legislativo del Estado, los partidos políticos, nacionales y locales, así como la ciudadanía en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán sus principios rectores. El Instituto cumplirá sus funciones conforme a las siguientes bases:
+I.- La organización de las elecciones estatal, distritales y municipales es una función pública del Estado que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Tabasco, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Instituto Nacional Electoral, el Poder Legislativo del Estado, los partidos políticos, nacionales y locales, así como la ciudadanía en los términos que ordene la ley. De igual manera, en los términos que establezcan las leyes generales y locales aplicables, será el encargado de organizar y llevar a cabo la elección de las personas titulares de las magistraturas del Tribunal de Disciplina Judicial y del Tribunal Superior de Justicia, así como las Juezas y Jueces. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán sus principios rectores. El Instituto cumplirá sus funciones conforme a las siguientes bases:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -827,13 +829,17 @@ IV.- La ley fijará los procedimientos y plazos convenientes para el desahogo de
 
 V.- Los fallos del Pleno del Tribunal Electoral de Tabasco serán definitivos;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VI.- En materia electoral la interposición de los medios de impugnación, constitucionales y legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado; y
+VI.- En materia electoral la interposición de los medios de impugnación, constitucionales y legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VII.- Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución General de la República, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, según lo determine la ley.
+VII.- Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución General de la República, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, según lo determine la ley; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Las impugnaciones derivadas del proceso de elección de personas que ocupen las magistraturas, la de Juezas y Jueces del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, se regirá por lo que establece la legislación secundaria en la materia.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1239,9 +1245,9 @@ El Ejecutivo y los Municipios podrán contratar obligaciones a corto plazo, sin 
 
 XIII.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano Superior de Fiscalización del Estado. Expedir la Ley que regule su organización y atribuciones, así como los ordenamientos que normen la gestión, control y evaluación de los Poderes del Estado, los municipios y demás entes públicos estatales y municipales;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, o ante la Sala Especial Constitucional del Tribunal Superior de Justicia, cuando así resulte procedente, en los supuestos y conforme a lo señalado en los artículos 105 de la Constitución general de la República y 61 de esta Constitución;
+XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando así resulte procedente, en los supuestos y conforme a lo señalado en los artículos 105 de la Constitución General de la República y 61 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -1261,19 +1267,19 @@ XVIII. Conceder a la persona titular del Poder Ejecutivo, por tiempo limitado y 
 
 En caso de ser necesario y de encontrarse reunido el Congreso, se solicitará la intervención de los Poderes de la Unión, en términos del artículo 119 de la Constitución general;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XIX. Designar a la persona titular de la Fiscalía General del Estado y del Órgano Superior de Fiscalización del Estado, a las y los magistrados del Tribunal Superior de Justicia, así como a las consejeras y los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, y a la persona titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana de Tabasco, y de los órganos de control interno de los órganos constitucionales autónomos. Ratificar, en su caso, la designación de magistradas y magistrados del Tribunal de Justicia Administrativa que haga el Gobernador o Gobernadora del Estado; y nombrar a la persona titular de la presidencia del Tribunal de Conciliación y Arbitraje, de una terna propuesta por la persona titular del Poder Ejecutivo. En cada caso, de conformidad con esta Constitución y las leyes aplicables, y debiendo observarse el principio de paridad de género;
+XIX.- Designar a la persona titular de la Fiscalía General del Estado y del Órgano Superior de Fiscalización del Estado, así como a las comisionadas y los comisionados del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, y a la persona titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana de Tabasco, y de los órganos de control interno de los órganos constitucionales autónomos. Ratificar, en su caso, la designación de magistradas y magistrados del Tribunal de Justicia Administrativa que haga el Gobernador o Gobernadora del Estado; y nombrar a la persona titular de la presidencia del Tribunal de Conciliación y Arbitraje, de una terna propuesta por la persona titular del Poder Ejecutivo. En cada caso, de conformidad con esta Constitución y las leyes aplicables, y debiendo observarse el principio de paridad de género;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XX.- Dirimir los conflictos políticos entre uno o más municipios con el Estado o de los municipios entre sí; o de límites territoriales, tratándose de estos últimos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXI. Resolver acerca de las renuncias y licencias de Gobernador o Gobernadora y diputaciones; así como dar trámite a las renuncias de las magistraturas del Tribunal Superior de Justicia y otorgarles licencia cuando sus ausencias sean mayores a sesenta días naturales, en cuyo caso se nombrará un Suplente por el término de la licencia, a propuesta del de la persona titular del Poder Ejecutivo del Estado.
+XXI.- Resolver acerca de las renuncias y licencias del Gobernador o de la Gobernadora y de las diputaciones; así como dar trámite a las renuncias de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y otorgarles licencia en los términos que esta Constitución y las leyes secundarias señalen.
 
-La licencia otorgada a las magistraturas no podrá exceder el término de un año, salvo la que se conceda a quien integre el Consejo de la Judicatura en los términos señalados en el artículo 55 Bis de esta Constitución. En todo caso, el tiempo que dure la licencia se computará como parte del periodo para el que la persona fue designada magistrado o magistrada;
+> <small>(DEROGADO SEGUNDO PÁRRAFO DE ESTA FRACCIÓN, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1429,9 +1435,7 @@ II. Recibir la protesta de ley a las personas dedicadas al servicio público que
 
 III. Conceder las licencias que sean competencia del Congreso a las personas dedicadas al servicio público que la soliciten en los términos establecidos por las leyes aplicables;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-IV. Aprobar o no, con carácter provisional, los nombramientos de magistraturas del Tribunal Superior de Justicia que someta a su consideración el Gobernador o Gobernadora del Estado, con la sola excepción de los Interinos, según lo previsto en el artículo 56 de esta Constitución;
+IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1939,13 +1943,17 @@ La o el Fiscal General del Estado y sus agentes, serán responsables de toda fal
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### ARTICULO 55.
+
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial y los juzgados que esta Constitución y las leyes establecen, los cuales administrarán justicia pronta y gratuita, de manera independiente e imparcial; asimismo, contarán con las atribuciones, competencias, organización, personal y demás funciones inherentes.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Además, el Poder Judicial contará con un Órgano de Administración Judicial y un Centro de Justicia Alternativa, los cuales tendrán la estructura y las atribuciones que señalen esta Constitución, la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables.
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
-
-###### Artículo 55.
-
-Se deposita el ejercicio del Poder Judicial del Estado en los tribunales y juzgados que esta Constitución y las leyes establecen, los cuales administrarán justicia pronta y gratuita, de manera independiente e imparcial; asimismo, contarán con las atribuciones, competencias, organización, personal y demás funciones inherentes.
-
-El Poder Judicial contará además con un Consejo de la Judicatura y un Centro de Justicia Alternativa, con las atribuciones que señalen esta Constitución, la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables.
 
 Las normas relativas a los derechos humanos reconocidos en esta Constitución, particularmente las concernientes a la materia penal, serán interpretadas por los tribunales y juzgados locales de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia y esta Constitución.
 
@@ -1953,25 +1961,45 @@ Las normas relativas a los derechos humanos reconocidos en esta Constitución, p
 
 El proceso penal será acusatorio y oral, estará sujeto a lo dispuesto por el Código Nacional de Procedimientos Penales. Se regirá por los principios generales de publicidad, contradicción, concentración, continuidad, e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger a la persona inocente, procurar que la persona responsable de la comisión del ilícito no quede impune y que los daños causados por el delito se reparen.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 De conformidad con la Ley General de la materia y demás ordenamientos correspondientes, en el Estado operará un sistema integral de justicia aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen sus derechos humanos, así como aquellos derechos específicos por su condición de personas en desarrollo. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social. La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, juzgados y autoridades especializadas.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 Las leyes preverán mecanismos alternativos de solución de controversias para todas las materias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 Para el ejercicio de sus funciones el Poder Judicial del Estado se compone de los siguientes tribunales y juzgados:
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
 I. Tribunal Superior de Justicia, que distribuye los asuntos de su competencia en:
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 a) El Pleno;
 
-b) La Sal a (sic) Especial Constitucional;
+b) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 c) Las salas en materia Civil;
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 d) Las s alas (sic) en materia Penal; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
 II.- Los tribunales y juzgados que las leyes establezcan. La Ley Orgánica regulará su organización y determinará sus respectivas competencias, de conformidad con las disposiciones generales aplicables, en su caso.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 El Tribunal Superior de Justicia del Estado funciona y se organiza de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
 I. Funciona en Pleno o en salas colegiadas y unitarias para conocer de asuntos de legalidad, y como Sala Especial Constitucional para la aplicación e interpretación de esta Constitución;
 
@@ -1983,107 +2011,157 @@ II. El Pleno se integra por el Presidente o Presidenta del Tribunal Superior y l
 
 III. La Sala Especial Constitucional se integra por el Presidente o Presidenta del Tribunal Superior de Justicia, quien la preside, y con las personas titulares de las presidencias de las salas colegiadas en materias penal y civil. La Sala Especial Constitucional es el órgano jurisdiccional supremo de aplicación e interpretación de esta Constitución;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
 IV. En los términos que la Ley disponga, las sesiones del Pleno y de las salas serán públicas o, por excepción, privadas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
 V. Las sentencias que dicten el Pleno o las salas en todo tipo de procesos, serán públicas y de acceso universal en su versión digital, de conformidad con lo que la ley determine para la protección del derecho al honor y a la vida privada, así como por lo establecido en la materia por la Suprema Corte de Justicia de la Nación y la Corte Interamericana de Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 55 BIS.- El Consejo de la Judicatura como órgano integrante del Poder Judicial del Estado, tendrá autonomía técnica, de gestión y de resolución, en el ámbito de su competencia. La administración, capacitación, vigilancia, y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que establezcan las leyes secundarias conforme a las bases que señala esta Constitución.
+ARTICULO 55 BIS. El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+El Tribunal de Disciplina Judicial se integrará por cinco Magistraturas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 56 de esta Constitución.
 
-El Consejo se integrará por cinco personas, de las cuales una será el Presidente o Presidenta del Tribunal Superior de Justicia, quien lo presidirá; un magistrado o magistrada y una jueza o Juez, electos por el Pleno del Tribunal Superior de Justicia por mayoría absoluta; un consejero o consejera designada por la persona titular del Poder Ejecutivo del Estado; y un consejero o consejera designada por el Congreso del Estado. Los consejeros o consejeras, a excepción de la persona titular de la Presidencia, durarán en su cargo un periodo de cinco años, sin posibilidad de reelección.
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, además de reunir los requisitos señalados en el artículo 57 de esta Constitución, deberán ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo período. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quien alcance mayor votación.
 
-Contará en su estructura administrativa, para el cumplimiento de sus atribuciones, con las unidades de apoyo que requiera y las que se determinen en la Ley Orgánica.
+El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+El Pleno será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas del Poder Judicial del Estado que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
 
-Las y los integrantes del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del Presidente o Presidenta, que integre el Pleno en el Tribunal Superior de Justicia y en la Sala Especial Constitucional. Las y los consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo Magistradas, Magistrados, Juezas y Jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y substanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres Magistradas o Magistrados, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de tres votos, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
 
-En el ámbito de su competencia el Consejo de la Judicatura resolverá sobre la designación, adscripción, ratificación, licencias, renuncias, suspensión o remoción de las y los jueces del Poder Judicial del Estado, así como lo relativo a las personas dedicadas al servicio público auxiliares de la función jurisdiccional y al personal que desempeñe tareas administrativas o de apoyo.
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+El Tribunal de Disciplina Judicial podrá dar vista a la Fiscalía General del Estado, ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular, en los casos que sea procedente.
 
-De conformidad con lo que establezcan esta Constitución y la ley, y sin perjuicio de las atribuciones jurisdiccionales del Pleno del Tribunal Superior de Justicia, el Consejo de la Judicatura estará facultado para expedir los acuerdos generales que sean necesarios para el debido ejercicio de sus funciones administrativas, incluyendo las relativas a la carrera judicial; éstos podrán ser revisados por el Pleno del propio Tribunal y, en su caso, revocados por mayoría calificada de dos terceras partes de sus miembros. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+El Tribunal de Disciplina Judicial evaluará el desempeño de las personas integrantes del Poder Judicial que resulten electos, durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
 
-El Consejo de la Judicatura determinará la división del Estado en distritos judiciales, el número de éstos, su competencia territorial y, en su caso, la especialización por materia de los tribunales y juzgados que las leyes establezcan.
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
-Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, con excepción de lo señalado en el párrafo sexto anterior, y de las que se refieran a la designación, adscripción, ratificación, promoción, suspensión y remoción de las y los jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que fueron emitidas conforme a la ley.
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título VII de esta Constitución.
 
-Independientemente de lo señalado en el Título Séptimo de esta Constitución en materia de la responsabilidad política de las personas dedicadas al servicio público del Poder Judicial, al Pleno del Tribunal Superior de Justicia le compete imponer por mayoría absoluta de sus miembros las sanciones disciplinarias de orden administrativo que procedan contra un Magistrado o Magistrada, inclusive la suspensión temporal del cargo, por las faltas que la ley determine. A quien presida el Tribunal Superior de Justicia le corresponde decidir y ejecutar las relativas a las faltas leves que aquélla establezca. La imposición de las medidas disciplinarias sobre las y los integrantes Consejo de la Judicatura, con excepción de las que se impongan por faltas graves mediante juicio político, es competencia de su Pleno.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+ARTICULO 55 TER. El Órgano de Administración Judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo:
 
-ARTICULO 55 TER.- La magistrada o el magistrado Presidente del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura, deberá de elaborar y presentar oportunamente a la consideración de los Plenos, el presupuesto del Poder Judicial, el cual una vez, respectivamente autorizado, en su proyección conjunta, será remitido a la persona titular del Poder Ejecutivo para su inclusión en el proyecto de presupuesto general de egresos del Estado, que será sometido a la aprobación del Congreso. La ley determinará lo concerniente a. la correcta administración y ejercicio de los recursos asignados a los órganos que conforman el Poder Judicial de la Entidad.
+I. La determinación del número, división en distritos, competencia territorial y especialización por materias de las Salas de Segunda Instancia y los Juzgados de Primera Instancia;
 
-Sin perjuicio de las atribuciones de las entidades de fiscalización competentes respecto del manejo, custodia y aplicación de recursos públicos, el Poder Judicial administrará con autonomía su presupuesto y destinará, en renglones separados, los recursos para el Tribunal Superior de Justicia, Consejo de la Judicatura, Juzgados y demás órganos que lo integran, debiendo su presidencia rendir informe anual ante el Congreso del Estado, acerca de su ejercicio.
+II. El ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño;
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+III. La inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y
+
+IV. Las demás que establezcan las leyes.
+
+El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por la persona titular del Poder Ejecutivo; una por el Congreso del Estado, mediante votación calificada de dos tercios de sus integrantes presentes; y tres por el Pleno del Tribunal Superior de Justicia, electo por mayoría simple de votos. La presidencia del Órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial deberán:
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad y experiencia profesional mínima de cinco años;
+
+III. No estar inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+IV. No haber sido condenadas por delito doloso con sanción privativa de la libertad, ni tener suspendidos sus derechos en términos de la fracción III del artículo 8 de esta Constitución.
+
+Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial sólo podrán ser removidas en los términos del Título VII, de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguno de sus integrantes, la autoridad que lo designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de las personas servidoras públicas, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Centro de Especialización Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, y en su caso, de la Fiscalía General del Estado, del Instituto de la Defensoría Pública, la Comisión Estatal de los Derechos Humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
+
+El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial del Estado, se sujetará a la regulación establecida en las disposiciones aplicables.
+
+La Magistrada o el Magistrado que presida el Tribunal Superior de Justicia del Estado, con el auxilio del Órgano de Administración Judicial, deberá de elaborar y presentar oportunamente a la consideración de los Plenos, el presupuesto del Poder Judicial, el cual una vez, respectivamente autorizado, en su proyección conjunta, será remitido a la persona titular del Poder Ejecutivo para su inclusión en el proyecto de presupuesto general de egresos del Estado, que será sometido a la aprobación del Congreso. La ley determinará lo concerniente a la correcta administración y ejercicio de los recursos asignados a los órganos que conforman el Poder Judicial del Estado.
+
+Sin perjuicio de las atribuciones de las entidades de fiscalización competentes respecto del manejo, custodia y aplicación de recursos públicos, el Poder Judicial administrará con autonomía su presupuesto, destinará, en renglones separados, los recursos para el Tribunal Superior de Justicia, el del Órgano de Administración Judicial, el del Tribunal de Disciplina Judicial, Juzgados y demás órganos que lo integran, debiendo su presidencia rendir informe anual ante el Congreso del Estado, acerca de su ejercicio.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 56.
 
-Para nombrar a cada magistrada y magistrado del Tribunal Superior de Justicia, la persona titular del Poder Ejecutivo del Estado someterá una terna a consideración del Congreso, el cual, previa comparecencia de las personas propuestas ante la comisión correspondiente, designará a la persona que deba cubrir la vacante. El Congreso hará la designación por el voto de las dos terceras partes de sus integrantes presentes, dentro del improrrogable plazo de treinta días naturales siguientes a la presentación de la terna. Si el Congreso no resolviere dentro de dicho plazo, ocupará la magistratura la persona que, dentro de dicha terna, designe el Gobernador o Gobernadora del Estado.
+Las Magistradas y Magistrados del Tribunal de Disciplina Judicial y las Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, serán electos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador o la Gobernadora someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Gobernador o Gobernadora del Estado.
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso, los cargos sujetos a elección y demás información que requiera;
 
-Las ausencias temporales en las magistraturas del Tribunal Superior de Justicia, de hasta sesenta días naturales, serán cubiertas por magistradas o magistrados Interinos nombrados por mayoría simple del Pleno de dicho Tribunal. Las que deriven de recusación, excusa, o impedimento para el cumplimiento de su función jurisdiccional, se suplirán en la forma que establezca la ley.
+II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-Las magistraturas del Tribunal Superior de Justicia serán nombradas por un período único de quince años. La ley señalará el procedimiento que deberá seguirse para tales efectos.
+a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes aplicables, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-Las magistradas y los magistrados serán sustituidos antes de que concluya ese plazo, cuando sobrevenga defunción, incapacidad física o mental permanente, o podrán ser destituidos, por incurrir en cualquiera de las causas graves de responsabilidad que establezca la Ley Orgánica, previo juicio de responsabilidad ante el Congreso del Estado.
+b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-Las y los jueces del Poder Judicial y demás personal dedicado al servicio público que integren sus estructuras orgánicas, forman el Servicio Profesional de Carrera del Poder Judicial del Estado de Tabasco, de carácter obligatorio y permanente, conforme al cual se regularán el ingreso, la compensación, la permanencia y la separación o baja del mismo; todo ello, con base en la evaluación periódica y objetiva de su desempeño. Sus integrantes serán seleccionados, nombrados y promovidos en consideración a los principios de mérito y capacidad por el Consejo de la Judicatura mediante concurso de oposición, de acuerdo a los requisitos y procedimientos que establezca la ley.
+c) Los Comités de Evaluación integrarán un listado de las cinco personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado en los términos que establezca la legislación secundaria, para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
 
-En la elección, designación o nombramiento de magistraturas del Tribunal Superior de Justicia, de integrantes del Consejo de la Judicatura, y de personas juzgadoras del Poder Judicial, se observará el principio de paridad de género.
+III. El Congreso recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana de Tabasco a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
-Las juezas y los jueces que en los términos de esta Constitución y de la ley en la materia fueren designados, protestarán el cargo, en su orden, ante los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+IV. El Instituto Electoral y de Participación Ciudadana de Tabasco, efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral de Tabasco, el cual resolverá las impugnaciones antes de que el Congreso instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas rendirán protesta de su encargo ante dicho órgano legislativo.
+
+La elección de Magistradas y Magistrados del Tribunal de Disciplina Judicial y del Tribunal Superior de Justicia, así como las Juezas y Jueces en materia penal, se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes generales y locales aplicables. El titular del Poder Ejecutivo postulará hasta dos personas aspirantes; el Poder Legislativo postulará hasta dos personas, mediante votación calificada de dos tercios de sus integrantes presentes, y el Poder Judicial del Estado por conducto del Pleno, postulará hasta dos personas por mayoría calificada de votos.
+
+Para el caso de Juezas y Jueces civiles, familiares, mercantiles y laborales, la elección se realizará por distrito o región judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes generales y locales aplicables. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación calificada de dos terceras partes de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia por mayoría calificada de votos.
+
+El Congreso incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana de Tabasco a las personas que se encuentren en funciones en los cargos señalados en los dos párrafos anteriores al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo judicial diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el Instituto Electoral y de Participación Ciudadana de Tabasco o en aquéllos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado, estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas para los cargos señalados en el presente artículo será de máximo cuarenta y cinco días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+Las magistraturas del Tribunal Superior de Justicia serán electas por un período de nueve años, podrán ser reelectas y si lo fueren, solo podrán ser privadas de sus puestos en los términos que establece esta Constitución y las leyes secundarias. Al cumplir setenta años de edad, las Magistradas y Magistrados pasarán a retiro.
+
+La ley determinará cómo cubrir las ausencias de los Magistrados, Magistradas, Jueces o Juezas, cuando excedieran de un mes sin licencia, o que dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva.
+
+Las renuncias de las Magistradas y Magistrados del Tribunal de Disciplina Judicial y Magistradas y Magistrados del Tribunal Superior de Justicia, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso, o, en sus recesos, por la Comisión Permanente.
+
+Las licencias de Magistrada o Magistrado del Tribunal de Disciplina Judicial y del Tribunal Superior de Justicia, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal (sic) Disciplina Judicial y por el Pleno del Tribunal Superior de Justicia respectivamente. Para el caso de Juezas y Jueces, las licencias podrán ser concedidas por el Órgano de Administración Judicial. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente.
+
+Ninguna licencia podrá exceder del término de un año.
+
+El personal dedicado al servicio público que integre sus estructuras orgánicas forma el Servicio Profesional de Carrera del Poder Judicial del Estado de Tabasco, de carácter obligatorio y permanente, conforme al cual se regulará el ingreso, la compensación, la permanencia y la separación o baja del mismo; todo ello, con base en la evaluación periódica y objetiva de su desempeño. Sus integrantes serán seleccionados, nombrados y promovidos en consideración a los principios de mérito y capacidad por el Órgano de Administración Judicial mediante concurso de oposición, de acuerdo a los requisitos y procedimientos que establezca la ley.
+
+Las Juezas y los Jueces que en los términos de esta Constitución y de la ley en la materia, fueren electos, rendirán la protesta del cargo, en su orden, ante el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 57.
 
-Para ser magistrado o magistrada del Tribunal Superior de Justicia se requiere:
+Para ser electo Magistrada o Magistrado, Jueza o Juez se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno goce de sus derechos políticos y civiles;
+II. Tener al día de la elección correspondiente, veinticinco años cumplidos para el caso de Jueza o Juez y treinta años cumplidos para el caso de Magistrada o Magistrado;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+III. Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 56 de esta Constitución, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de Magistrada y Magistrado deberá contar además, con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
 
-II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+V. Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 56 de esta Constitución;
 
-III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciatura en derecho, expedido por autoridad o institución legalmente facultada para ello;
+VI. No haber sido en la entidad, titular de una Secretaría o equivalente en la Administración Pública, de la Fiscalía General del Estado de Tabasco, ni senador, senadora, diputado o diputada federal o local, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 56 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+VII. No haber sido sancionado, por sentencia firme, por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o haber sido declarada persona deudora alimentaria morosa; y
 
-IV. Gozar de buena reputación y no haber tenido condena por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+VIII. Las demás que se establezcan en las leyes secundarias.
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
-
-V.- Haber residido en el país durante los dos años anteriores al día de la designación;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-VI. No haber sido en la entidad, titular de una Secretaría o equivalente en la Administración Pública, de la Fiscalía General del Estado de Tabasco, ni senador, senadora, diputado o diputada federal o local, durante el año previo al día de su elección; y
-
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2023)</small>
-
-VII.- Estar en pleno ejercicio de sus derechos.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-Los nombramientos de las magistradas y los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la abogacía, en la academia u otra actividad profesional del derecho. No será impedimento para considerar la residencia a que se contrae la fracción V del párrafo anterior, cuando la persona interesada hubiere permanecido fuera del territorio del país con motivo de la obtención de grados académicos en instituciones de nivel educativo superior o de posgrado.
+La elección de las Magistradas, Magistrados, Juezas y Jueces, se realizará mediante un mecanismo público, abierto, transparente, inclusivo, accesible y paritario de evaluación y selección que garantice la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica, para lo cual, se observarán, en lo que resulten aplicables, las bases, procedimientos, términos, modalidades y requisitos que señalan la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como las leyes generales y locales aplicables.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2091,11 +2169,11 @@ Los nombramientos de las magistradas y los magistrados deberán recaer preferent
 
 Los magistrados y magistradas del Tribunal Superior de Justicia al entrar a ejercer su cargo, rendirán ante el Congreso o ante la Comisión Permanente la protesta siguiente: Presidencia: ¿Protestáis desempeñar leal y patrióticamente el cargo de magistrado(a) del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? magistrado o magistrada: "Sí protesto". Presidencia: "Si no lo hiciereis así, que la Nación o el Estado se lo demande".
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 59.
 
-Presidirá el Tribunal Superior de Justicia del Estado por un periodo de cinco años, el magistrado o magistrada que sea electa para ese efecto por mayoría de los integrantes presentes del Pleno. La persona titular de la presidencia del Tribunal Superior de Justicia ostenta la representación del Poder Judicial del Estado de Tabasco ante los demás Poderes del Estado y de la Unión.
+Presidirá el Tribunal Superior de Justicia del Estado por un periodo de cinco años, el magistrado o magistrada que sea electa para ese efecto por mayoría de los integrantes presentes del Pleno, quien no podrá ser reelecto para otro periodo. La persona titular de la presidencia del Tribunal Superior de Justicia ostenta la representación del Poder Judicial del Estado de Tabasco ante los demás Poderes del Estado y de la Unión.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2115,85 +2193,27 @@ Las faltas temporales del Presidente o Presidenta del Tribunal Superior de Justi
 
 El Tribunal Superior de Justicia residirá en la Capital del Estado y en ningún caso ejercerá sus funciones fuera de ella, a no ser que lo autorice la Legislatura.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
-
 ###### ARTICULO 61.
 
-La Sala Especial Constitucional del Tribunal Superior de Justicia, en los términos que señale la ley reglamentaria, sin perjuicio de lo previsto en el artículo 105 de la Constitución general de la República, conocerá de los asuntos siguientes:
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2024)
 
-I. De las controversias constitucionales estatales que, con excepción de las que se refieran a la materia electoral, se susciten sobre la conformidad con esta Constitución de los actos o disposiciones generales entre:
-
-a) El Poder Ejecutivo y el Congreso del Estado o, en su caso, la Comisión Permanente;
-
-b) El Poder Ejecutivo y un Municipio;
-
-c) El Congreso y un Municipio;
-
-d) Un Municipio y otro;
-
-e) Un Órgano Constitucional Autónomo y el Poder Ejecutivo;
-
-f) Un Órgano Constitucional Autónomo y el Congreso;
-
-g) Un Órgano Constitucional Autónomo y otro Órgano Constitucional Autónomo;
-
-h) Un Órgano Constitucional Autónomo y un Municipio; e
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-i) El equivalente al treinta y tres por ciento o más de quienes integren el Cabildo y el propio Ayuntamiento.
-
-Siempre que las controversias versen sobre disposiciones generales de los municipios impugnadas por el Estado, o entre los poderes Ejecutivo y Legislativo, las resoluciones de la Sala Especial Constitucional sólo podrán declarar la invalidez de las normas impugnadas, siempre que sean aprobadas por unanimidad de sus integrantes. En lo (sic) demás casos, de aprobarse por mayoría, sólo tendrán efectos para las partes en la controversia;
-
-II. De las acciones de inconstitucionalidad estatal que, con excepción de las que se refieran a la materia electoral, tengan por objeto plantear la posible contradicción entre una norma local de carácter general y esta Constitución.
-
-Las acciones de inconstitucionalidad estatal pueden ser ejercitadas, dentro de los treinta días naturales siguientes a la publicación de la norma impugnada, por:
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-a) El equivalente al treinta y tres por ciento de quienes integren el Congreso, en contra de leyes estatales;
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-b) El Gobernador o Gobernadora del Estado en contra de normas estatales o municipales;
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-c) La persona titular de la Fiscalía General, en contra de leyes estatales en materia penal, así como las relacionadas con el ámbito de sus funciones;
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-d) El Municipio, por mayoría absoluta de quienes integren su Ayuntamiento, en contra de leyes estatales;
-
-e) La Comisión Estatal de los Derechos Humanos, en contra de leyes estatales o normas de carácter general de los municipios que vulneren los derechos humanos consagrados en esta Constitución; y
-
-f) El Instituto Tabasqueño de Transparencia y Acceso a la Información Pública contra leyes estatales, o normas de carácter general de los municipios que vulneren el derecho al acceso a la información pública y la protección de datos personales.
-
-Las resoluciones de la Sala Especial Constitucional sólo podrán declarar la invalidez de las normas impugnadas, siempre que sean aprobadas por cuando menos las dos terceras partes de sus integrantes.
-
-En caso de que la acción de inconstitucionalidad verse sobre la presunta violación o contradicción de preceptos constitucionales federales, se estará a lo dispuesto en la Constitución general de la República y la Ley Reglamentaria de las fracciones I y II del artículo 105 de la propia Constitución;
-
-III. De las opiniones consultivas de control previo de constitucionalidad estatal entre la materia de una consulta popular y esta Constitución; y
-
-IV. Del recurso por violación de derechos fundamentales establecidos en la Constitución del Estado, con excepción de la materia penal, de conformidad con lo dispuesto en la ley reglamentaria.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 62.
 
-Quienes desempeñen una función judicial, incluyendo las magistraturas del Tribunal Superior de Justicia y las y los consejeros del Consejo de la Judicatura no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos docentes, literarios, de beneficencia, y honoríficos en asociaciones científicas, así como las funciones electorales que les fueren encomendadas. La infracción de esta disposición, será castigada con la pérdida del cargo.
+Quienes desempeñen una función judicial, incluyendo las magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y a los integrantes del Órgano de Administración Judicial, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos docentes, literarios, de beneficencia, y honoríficos en asociaciones científicas, así como las funciones electorales que les fueren encomendadas. La infracción de esta disposición, será castigada con la pérdida del cargo.
 
-Las personas que hayan ejercido el cargo de magistradas, magistrados, consejeras o consejeros de la Judicatura, y juezas o jueces no podrán, dentro del año siguiente a la fecha de su conclusión, ejercer patrocinio, abogacía o representación en cualquier proceso ante los órganos del Poder Judicial del Estado.
+Las personas que hayan ejercido el cargo de Magistradas, Magistrados, Juezas o Jueces del Tribunal Superior de Justicia, los miembros del Tribunal de Disciplina Judicial y los integrantes del Órgano de Administración Judicial, si fueren abogados o licenciados en derecho, no podrán, dentro del año siguiente a la fecha de su conclusión, ejercer patrocinio, abogacía o representación en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-La competencia del Tribunal Superior de Justicia, los periodos de sesiones, el funcionamiento del Pleno y de las salas, las atribuciones de las y los magistrados, del Consejo de la Judicatura, el número y competencia de los juzgados; así como las responsabilidades en que incurran quienes ejerzan función y empleo en el Poder Judicial del Estado, se regirán por esta Constitución, las leyes aplicables y demás ordenamientos reglamentarios.
+La competencia del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, y del Órgano de Administración Judicial, los periodos de sesiones, el funcionamiento de los Plenos y de las salas, y sus atribuciones; así como las responsabilidades en que incurran quienes ejerzan función y empleo en el Poder Judicial del Estado, se regirán por esta Constitución, las leyes aplicables y demás ordenamientos reglamentarios.
 
-La remuneración que perciban las y los magistrados del Tribunal Superior de Justicia, las consejeras y consejeros de la Judicatura, las juezas y jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
+La remuneración que perciban las Magistradas, Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial y los integrantes del Órgano de Administración Judicial, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
 
-Las juezas y Jueces que integran el Poder Judicial del Estado serán nombrados para un período de cinco años en el ejercicio de su encargo, al término del cual, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezcan esta Constitución y las leyes secundarias aplicables. Al cumplir setenta y cinco años de edad, dichos jueces pasarán a retiro.
+Las Juezas y Jueces que integran el Poder Judicial del Estado serán electos para un período de nueve años en el ejercicio de su encargo, pudiendo ser reelectos de forma consecutiva cada que concluya su periodo. No podrán ser readscritos fuera del distrito o región judicial en el que hayan sido electos, salvo que por causa excepcional o de interés público, lo determine el Tribunal de Disciplina Judicial, y podrán ser removidos en los casos y conforme a los procedimientos que establezca la ley. Al cumplir setenta años de edad, dichos jueces pasarán a retiro.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -2635,11 +2655,11 @@ En el cumplimiento de sus atribuciones, a los órganos responsables de la invest
 
 El Órgano Superior de Fiscalización, la Secretaría de Contraloría del Gobierno del Estado y los órganos internos de control de los entes públicos, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en la normatividad correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 68.
+###### ARTICULO 68.
 
-Podrán ser sujetas de Juicio Político las personas que ejerzan la titularidad del Poder Ejecutivo del Estado, de las diputaciones locales, de las magistraturas del Tribunal Superior de Justicia, de las consejerías del Consejo de la Judicatura, de las magistraturas del Tribunal de Justicia Administrativa, del Órgano Superior de Fiscalización, de las consejerías y la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana de Tabasco, de las magistraturas del Tribunal Electoral de Tabasco, las personas integrantes de los demás órganos constitucionales autónomos, las personas titulares de las Dependencias, de las direcciones de la Administración Pública Estatal, de la Fiscalía General del Estado y quienes en servicio público ejerzan mando superior en la Fiscalía hasta el nivel de dirección, las y los agentes del Ministerio Público, quienes ejerzan las presidencias o concejos municipales, las sindicaturas de Hacienda, las direcciones generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetas de Juicio Político las personas que ejerzan la titularidad del Poder Ejecutivo del Estado, de las diputaciones locales, de las magistraturas del Tribunal Superior de Justicia, de las magistraturas del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial; de las magistraturas del Tribunal de Justicia Administrativa, del Órgano Superior de Fiscalización, de las consejerías y la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana de Tabasco, de las magistraturas del Tribunal Electoral de Tabasco, las personas integrantes de los demás órganos constitucionales autónomos, las personas titulares de las Dependencias, de las direcciones de la Administración Pública Estatal, de la Fiscalía General del Estado y quienes en servicio público ejerzan mando superior en la Fiscalía hasta el nivel de dirección, las y los agentes del Ministerio Público, quienes ejerzan las presidencias o concejos municipales, las sindicaturas de Hacienda, las direcciones generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2759,9 +2779,9 @@ V. La persona que presida el Tribunal de Justicia Administrativa del Estado;
 
 VI. La persona que presida el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; y
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VII. Una persona que represente al Consejo de la Judicatura del Estado.
+VII. Una persona magistrada representante del Tribunal de Disciplina Judicial.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2787,11 +2807,11 @@ Ninguna persona podrá desempeñar a la vez dos o más cargos de elección popul
 
 Toda persona dedicada al servicio público en el Estado o los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 75.
 
-Las personas titulares del Poder Ejecutivo del Estado, de las diputaciones, de las magistraturas de los Tribunales Superior de Justicia, Electoral de Tabasco, de Conciliación y Arbitraje, y de Justicia Administrativa, quienes integran el Instituto Electoral y de Participación Ciudadana de Tabasco y el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, así como quienes ocupan las regidurías de los Ayuntamientos y demás personal de servicio público del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
+Las personas titulares del Poder Ejecutivo del Estado, de las diputaciones, de las magistraturas de los Tribunales: Superior de Justicia, de Disciplina Judicial, Electoral de Tabasco, de Conciliación y Arbitraje, y de Justicia Administrativa, los miembros del Órgano de Administración Judicial; quienes integran el Instituto Electoral y de Participación Ciudadana de Tabasco y el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, quienes ocupen las regidurías de los Ayuntamientos, y demás personal de servicio público del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2907,11 +2927,11 @@ Para los efectos de esta Constitución, la residencia no se pierde por ausencia 
 
 Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a ejercer como Gobernador o Gobernadora de forma provisional quien haya sido la última persona en presidir el Tribunal Superior de Justicia y en su defecto, quien haya sido la última persona en presidir el Congreso desaparecido.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79.
 
-La persona que asuma el Poder Ejecutivo designará con carácter provisional, cuando hubiere desaparecido también el Poder Judicial a los magistrados y magistradas del Tribunal Superior de Justicia y éstos designarán a su vez, con carácter también provisional, a las juezas, jueces y demás personal del Poder Judicial. Si desaparecieren únicamente los Poderes Ejecutivo y Legislativo la persona titular de la presidencia del Tribunal desempeñará la titularidad del Poder Ejecutivo y designará a la persona que lo sustituya interinamente en su magistratura.
+La persona que asuma el Poder Ejecutivo designará con carácter provisional, cuando hubiere desaparecido también el Poder Judicial a los magistrados y magistradas del Tribunal Superior de Justicia y éstos designarán a su vez, con carácter también provisional, a las juezas, jueces y demás personal del Poder Judicial, en tanto se elige popularmente a quienes deban sustituirlos. Si desaparecieren únicamente los Poderes Ejecutivo y Legislativo la persona titular de la presidencia del Tribunal desempeñará la titularidad del Poder Ejecutivo y designará a la persona que lo sustituya interinamente en su magistratura.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -4192,3 +4212,71 @@ SEGUNDO. Dentro de los noventa días siguientes a su publicación, el Congreso d
 TERCERO. Conforme al principio de progresividad y no regresión, el monto de los recursos asignados en el Presupuesto de Egresos del ejercicio fiscal que corresponda, para los programas de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores y de becas para estudiantes de nivel superior que se encuentren en condición de pobreza, no podrá ser disminuido respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 080 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 9, PÁRRAFO TERCERO, LA FRACCIÓN I DE SU APARTADO C, Y LAS FRACCIONES VI Y VII DEL APARTADO D; 36, FRACCIONES XIV, XIX Y XXI; 55, PÁRRAFOS PRIMERO Y SEGUNDO; 55-BIS; 55 TER; 56; 57; 59, PÁRRAFO PRIMERO; 62; 63; 68, PÁRRAFO PRIMERO; 73 TER, PÁRRAFO SEGUNDO, FRACCIÓN VII; 75, PÁRRAFO PRIMERO Y 79. SE ADICIONA: LA FRACCIÓN VIII DEL APARTADO D DEL ARTÍCULO 9. SE DEROGA: EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXI DEL ARTÍCULO 36; LA FRACCIÓN IV DEL ARTÍCULO 39; EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 55; Y EL ARTÍCULO 61; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Proceso Electoral Extraordinario 2024-2025 dará inicio con la primera sesión que el Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco celebre dentro de los siete días posteriores a la entrada en vigor del presente Decreto. En dicha elección se elegirán, las Magistradas y Magistrados integrantes del Tribunal de Disciplina Judicial, el cincuenta por ciento de las Magistradas y Magistrados integrantes del Pleno del Tribunal Superior de Justicia, así como el cincuenta por ciento de las Juezas y Jueces del Poder Judicial del Estado, en los términos del presente artículo.
+
+Las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria que emita el Congreso serán incorporadas a los listados para participar en la elección extraordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo o región judicial diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección extraordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
+
+El Congreso del Estado tendrá un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado, conforme al procedimiento previsto en el artículo 56 de la Constitución del Estado, salvo en lo que respecta a las postulaciones que realice el Pleno del Tribunal Superior de Justicia conforme a los párrafos segundo y tercero de dicho artículo, que deberá hacerse por mayoría calificada de votos de sus integrantes.
+
+Para el caso de las Magistradas y Magistrados integrantes del Pleno del Tribunal Superior de Justicia, Juezas y Jueces, la elección será escalonada, renovándose los cargos establecidos en el párrafo primero del presente transitorio en la elección extraordinaria del año 2025 y la parte restante en la elección ordinaria del año 2027, conforme a lo siguiente:
+
+a) Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Consejo de la Judicatura del Estado entregará al Congreso local un listado con la totalidad de cargos de Magistradas y Magistrados, Juezas y Jueces, indicando su adscripción, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, y
+
+b) El órgano legislativo determinará los cargos a elegir en cada distrito o región judicial considerando en primer término las vacancias, renuncias y retiros programados. Los cargos restantes serán seleccionados mediante insaculación, tomando como base la renovación de un cincuenta por ciento de los cargos que correspondan a cada especialización por materia.
+
+El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco podrá emitir los acuerdos que estime necesarios para la organización, integración de la estructura, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales estatales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo Estatal no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco tendrá a su cargo el diseño de las boletas y demás material electoral que se requiera para cada tipo de elección. La boleta garantizará, que las y los votantes asienten la candidatura de su elección conforme a lo siguiente:
+
+Para Magistradas y Magistrados del Pleno del Tribunal Superior de Justicia y Juezas y Jueces del Poder Judicial del Estado se deberá respetar el principio de paridad de género.
+
+La jornada electoral se celebrará el primer domingo de junio del año 2025. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto, con excepción de representantes o militantes de un partido político.
+
+El Instituto Electoral y de Participación Ciudadana de Tabasco, efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado, quienes resolverán las impugnaciones a más tardar el 15 de agosto de 2025.
+
+Las personas Magistradas y Magistrados que resulten electos tomarán protesta de su encargo ante el Congreso del Estado el 1o. de septiembre de 2025. El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de septiembre de 2025.
+
+TERCERO.- El período de las Magistradas y Magistrados, y de las Juezas y Jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durará ocho años, por lo que vencerá en el año 2033, con el propósito de homologar los procesos electorales locales con las federales.
+
+Los cargos de Magistradas, Magistrados, Juezas y Jueces que no hayan sido seleccionados para la renovación en la elección extraordinaria del 2025, y que estén en funciones a la entrada en vigor del presente Decreto permanecerán en su encargo hasta el año 2027, concluyendo en la fecha que tomen protesta las personas servidoras públicas que emanan de la elección estatal ordinaria que se celebre para tal efecto.
+
+CUARTO.- El Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura en funciones a la entrada en vigor del presente Decreto que concluyan antes de la fecha de la elección extraordinaria del año 2025, se prorrogarán hasta la fecha que tomen protesta las Magistradas y Magistrados del Tribunal (sic) Disciplina Judicial que emanen de la elección extraordinaria que se celebre para tal efecto, salvo cuando sean electas por la ciudadanía para integrar el Tribunal de Disciplina Judicial por el periodo que corresponda, conforme al procedimiento señalado en el artículo segundo transitorio de este Decreto.
+
+El periodo de los nombramientos de las Magistradas y Magistrados del Tribunal de Disciplina Judicial, que sean electos conforme al presente artículo transitorio vencerá el año 2030 para tres de ellos, y el año 2033 para los dos restantes. Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un período mayor a quienes alcancen mayor votación.
+
+Las Consejeras y Consejeros de la Judicatura del Estado que se encuentren en funciones a la entrada en vigor del presente Decreto podrán postularse y participar en la elección para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial del Estado por el periodo que corresponda cuando cumplan con los requisitos constitucionales y legales aplicables.
+
+QUINTO.- El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre en el año 2025. En esta misma fecha, el Consejo de la Judicatura del Estado quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado; y al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Consejo de la Judicatura del Estado aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Consejo de la Judicatura del Estado continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial a que se refiere el artículo 55 TER del presente Decreto deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial.
+
+SEXTO.- Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente Decreto no podrán ser mayores a la establecida para el Presidente de la República en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de la Constitución Política de los Estados Unidos mexicanos en los casos que corresponda.
+
+SÉPTIMO.- El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes locales que correspondan para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+La renovación de la totalidad de cargos de elección del Poder Judicial del Estado deberá concluir en la elección federal ordinaria del año 2027, en los términos y modalidades que estas se determinen; en cualquier caso, las elecciones locales deberán coincidir con la fecha de la elección extraordinaria del año 2025 o de la elección ordinaria del año 2027.
+
+OCTAVO.- Los procedimientos que al momento de la entrada en vigor del presente decreto, excedan de los plazos previstos en el párrafo segundo del artículo 17 y la fracción VII del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, deberá observarse el procedimiento establecido en éstos.
+
+NOVENO.- Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables. Las Magistradas, Magistrados, Juezas y Jueces que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme al segundo párrafo del artículo Segundo transitorio de este Decreto, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con los recursos estatales al momento de su retiro.
+
+No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, tal y como lo establece el artículo 75 fracción IV de la Constitución Política del Estado Libre y Soberano de Tabasco, toda vez que la Ley prevé la forma en la cual quedan garantizados los derechos laborales de las personas que prestaron su servicio al Estado.
+
+DÉCIMO.- Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+DÉCIMO PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
