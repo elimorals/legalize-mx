@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2024-11-25"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -135,7 +135,9 @@ a).- Que sus actividades estén relacionadas con la producción de bienes y serv
 
 b).- La prestación de un servicio público o social, o
 
-c).- La obtención o aplicación de recursos para fines de asistencia o seguridad social.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+c).- La obtención o aplicación de recursos para fines de asistencia o seguridad social, procurando en todo momento el mantener o incrementar su patrimonio, lo anterior en términos de lo dispuesto en el artículo 41, Fracción XVI de la presente Ley.
 
 IV.- Las aportaciones y fuentes de recursos para integrar su patrimonio así como aquellas que se determinen para su incremento,
 
@@ -471,7 +473,9 @@ XII.- Nombrar y remover a propuesta de su Presidente, al Secretario y, a propues
 
 XIII.- Aprobar la constitución de reservas y aplicación de las utilidades de las entidades paraestatales,
 
-XIV.- Establecer con sujeción a las disposición legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la ley considere como del dominio público,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Establecer con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la ley considere como del dominio público, (sic)
 
 XV.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios,
 
@@ -920,3 +924,9 @@ P.O. 25 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 34.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
