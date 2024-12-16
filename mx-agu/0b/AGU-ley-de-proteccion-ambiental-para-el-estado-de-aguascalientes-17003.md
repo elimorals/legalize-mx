@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-09-23"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -437,9 +437,9 @@ I. Promover y realizar las acciones relacionadas con la prevención de daños y 
 
 II. Conducir y evaluar la política ambiental en el Estado, así como los planes y programas que de ésta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-III. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia y en su caso, hacer uso de los medios de apremio;
+III. Hacer efectivas las obligaciones derivadas de la Ley General, de esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia y en su caso, hacer uso de los medios de apremio;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -449,17 +449,17 @@ IV. Aplicar los instrumentos de política ambiental previstos en esta Ley para p
 
 V. Proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VI. Promover y participar, en la elaboración y celebración de convenios o acuerdos de coordinación con la Federación;
+VI. Promover y participar en la elaboración y celebración de convenios y/o acuerdos de coordinación con la Federación;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VII. Promover y participar en la elaboración y celebración de convenios o acuerdos de coordinación y colaboración administrativa, que se lleven a cabo entre el Ejecutivo del Estado y otras Entidades Federativas, con el propósito de atender y resolver agendas ambientales comunes;
+VII. Promover y participar en la elaboración y/o celebración de convenios, acuerdos de coordinación administrativa, que se lleven a cabo entre el Ejecutivo Estatal y otras entidades federativas, como el propósito de atender y resolver agendas ambientales comunes;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-VIII. Promover y participar en la elaboración y celebración de convenios de coordinación que se lleven a cabo entre el Ejecutivo del Estado y los Municipios;
+VIII. Promover y participar en la elaboración y/o celebración de convenios de coordinación que se lleven a cabo entre el Ejecutivo Estatal y los municipios;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -469,29 +469,29 @@ IX. Emitir recomendaciones a las autoridades federales, estatales y municipales,
 
 X. Coordinar la participación de las dependencias y entidades de la administración pública estatal, en las acciones de cultura ambiental, de prevención y control del deterioro ambiental, preservación, protección y restauración del ambiente en el territorio del Estado, así como celebrar con éstas los acuerdos que sean necesarios con el propósito de dar cumplimiento a la legislación ambiental, estableciendo acciones transversales específicas en la materia;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XI. Participar en coordinación con la Federación, en asuntos que afecten significativamente el ambiente del Estado con otras Entidades Federativas;
+XI. Participar en coordinación con la Federación, en asuntos que afecten significativamente el ambiente del Estado con otras entidades federativas;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XII. Coordinar los asuntos que afecten el ambiente de dos o más Municipios del Estado;
+XII. Coordinar los asuntos que afecten el ambiente de dos o más municipios del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XIII. Participar conforme a las políticas y programas de protección civil, en las contingencias ambientales cuando se afecten áreas de dos o más Municipios de la Entidad, o bien cuando por su magnitud o repercusiones así se requiera;
+XIII. Participar conforme a las políticas y programas de protección civil, en las contingencias ambientales cuando se afecten áreas de dos o más municipios de la Entidad, o bien cuando por su magnitud o repercusiones así se requiera;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XIV. Formular, ejecutar y vigilar los programas de ordenamiento ecológico regionales y estatal e intermunicipales y los planes que de éstos se deriven, con la participación de los Municipios del Entidad;
+XIV. Formular, ejecutar, vigilar y evaluar los programas de ordenamiento ecológico regionales, estatal e intermunicipales, así como los planes que (sic) éstos se deriven, con la participación de los municipios de la Entidad;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XV. Evaluar el impacto ambiental de las obras o actividades de su competencia;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XVI. Regular, prevenir y controlar la contaminación lumínica, visual y la atmosférica, por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales al ambiente y a la salud, provenientes de fuentes fijas y móviles que no estén sujetas a la jurisdicción federal;
+XVI. Regular, prevenir y controlar todo tipo de contaminación perjudiciales al ambiente y a la salud provenientes de fuentes fijas y móviles que no estén sujetas a la jurisdicción federal;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -501,81 +501,89 @@ XVII. Regular el manejo y gestión integral de los residuos de manejo especial, 
 
 XVIII. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos e industriales que no estén considerados como peligrosos;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XIX. Regular las actividades que no sean consideradas altamente riesgosas para el ambiente;
+XIX. Regular y vigilar las actividades que no sean consideradas altamente riesgosas para el ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XX. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal; así como de las aguas nacionales que tengan asignadas;
+XX. Regular el aprovechamiento sustentable de aguas de jurisdicción estatal y nacionales que tengan asignadas, así como la prevención y el control de la contaminación de éstas;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXI. Formular, ejecutar, evaluar y seguir el programa estatal de protección al ambiente;
+XXI. Formular, ejecutar, evaluar y dar seguimiento al programa estatal de protección ambiental;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXII. Establecer los mecanismos y sistemas que garanticen la transparencia y acceso ágil a la información ambiental y de recursos naturales;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXIII. Promover y realizar acciones tendientes a lograr, entre los diferentes sectores de la comunidad, un mejor conocimiento de ésta Ley y de los demás ordenamientos que de ella emanen, con el fin de desarrollar en la población una mayor cultura ambiental;
+XXIII. Promover y realizar campañas de difusión para dar a conocer esta Ley y de (sic) los demás ordenamientos que de ella emanen a la población, con el fin de desarrollar mayor cultura ambiental en el estado y sus municipios;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXIV. Ejercer todas aquellas acciones tendientes a la preservación y restauración del ambiente, así como la regulación, prevención y control de la contaminación ambiental que no sean de competencia Federal;
+XXIV. Realizar acciones para la preservación y restauración del ambiente, así como la regulación, prevención y control de la contaminación ambiental que no sea competencia federal;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXV. Crear el Plan Estatal de Contingencia Ambiental, el cual se formulará, se someterá a consulta pública, se evaluará y se expedirá conforme a los lineamientos de la Ley de Participación Ciudadana del Estado y las reglas que señale el Reglamento respectivo, con la participación de los sectores empresarial, académico y social, y con la aprobación del Congreso del Estado;
+XXV. Crear el Plan Estatal de Contingencia Ambiental, el cual se someterá a Consulta Ciudadana conforme a los lineamientos de la Ley de Participación Ciudadana del Estado y las reglas que señale el Reglamento respectivo, con la participación de los sectores empresarial, académico y social, y con la aprobación del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXVI. Promover la creación de estándares e indicadores de calidad ambiental;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXVII. Vigilar el manejo adecuado de los residuos sólidos municipales, verificando en todo momento el cumplimiento de la prohibición de incineración de éstos;
+XXVII. Vigilar el manejo adecuado de los residuos sólidos municipales;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXVIII. Vigilar y promover el cumplimiento de esta Ley y los demás ordenamientos aplicables;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXIX. Las demás atribuciones que conforme a esta u otras leyes o disposiciones reglamentarias le correspondan;
+XXIX. Promover la investigación y el desarrollo de tecnología que permitan sustituir el uso de productos plásticos de un solo uso; así como del poliestireno expandido;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXX. Formular y difundir el "Programa de Sustitución de Plásticos no Biodegradables por productos biodegradables", a que hace mención esta Ley;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXI. Integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, así como materiales y residuos de competencia; cuya información se integrará con los datos y los documentos contenidos en las autorizaciones, cédulas de operación, informes, reportes, licencias, permisos y concesiones en materia ambiental (sic) se tramiten ante la Secretaría, y en su caso ante los Municipios;
+XXXI. Integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, así como materiales y residuos de competencia; cuya información se integrará con los datos y los documentos contenidos en las autorizaciones, cédulas de operación, informes, reportes, licencias, permisos y concesiones (sic) en materia ambiental se tramiten ante la Secretaría, y en su caso ante los municipios;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXXII. Elaborar un catalogo de áreas prioritarias para conservación del Estado, y en las cuales se fomentarán las actividades que sean compatibles con el cuidado, preservación y uso sustentable de sus recursos naturales, en coordinación con las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXIII. Generar conocimientos que contribuyan al aprovechamiento racional y la conservación de la biodiversidad, vestigios paleontológicos y demás recursos naturales;
+XXXIII. Generar conocimientos a través de la investigación y la publicación de documentos que contribuyan al aprovechamiento racional y la conservación de la biodiversidad, vestigios paleontológicos y demás recursos naturales;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXIV. Promover la creación de la Bolsa de Residuos en la Entidad;
+XXXIV. Promover la creación de la Bolsa de Residuos que favorezca la separación de residuos en la Entidad;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXV. Promover y facilitar el aprovechamiento de energías limpias en favor del desarrollo del estado;
+XXXV. Promover y realizar campañas y programas permanentes encaminadas a la separación, reutilización y reciclado de los residuos sólidos; así como promover la educación ambiental a la sociedad para separar y controlar los residuos desde la casa;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXVI. Promover el fortalecimiento del sistema de estaciones meteorológicas, así como la elaboración de estudios hidrológicos del estado; y
+XXXVI. Realizar campañas de difusión y concientización dirigidas a la sociedad en general sobre la importancia de la reducción y del uso responsable de los plásticos de un solo uso, así como dar a conocer las alternativas de reúso o sustitución de estos productos, y las ventajas que esto conlleva para la salud y el medio ambiente;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXVII. Las demás atribuciones que conforme a ésta u otras leyes o disposiciones reglamentarias le correspondan.
+XXXVII. Promover el uso de fuentes de energía alterna, así como de sistemas y equipos para prevenir o reducir las emisiones contaminantes de los vehículos en los que se preste el servicio público local de transporte de pasajeros o carga; así como procurar su utilización de los demás tipos de automotores;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXVIII. Proporcionar a solicitud de los municipios, el apoyo, la asesoría técnica, capacitación e información para la elaboración de los programas de ordenamiento ecológico local; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXIX. Las demás atribuciones que conforme a ésta u otras leyes o disposiciones reglamentarias le correspondan.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -4641,85 +4649,13 @@ P.O. 23 DE SEPTIEMBRE DE 2024.
 
 El presente Decreto entrará en vigor al día siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 49/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS SEXTO Y SÉPTIMO DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TUXTLA GUTIÉRREZ, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS REFERIDOS ÓRGANOS JURISDICCIONALES Y LOS JUZGADOS DE DISTRITO DE AMPARO Y JUICIOS FEDERALES, EN LA MISMA ENTIDAD FEDERATIVA Y SEDE”.]
+P.O. 16 DE DICIEMBRE DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de diciembre de dos mil dieciséis, con excepción de lo previsto en los transitorios TERCERO y CUARTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 35.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito de Amparo y Juicios Federales en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, continuará aplicándose hasta el 5 de diciembre de 2016, en específico:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 28 de noviembre al 5 de Juzgado Quinto de Amparo y Juicios
-
-de diciembre de 2016 Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-A partir del propio 5 de diciembre de 2016 y posteriormente, las guardias de turno quedarán como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 5 al 12 de diciembre de 2016 Juzgado Sexto de Amparo y Juicios
-
-Federales y Juzgado Primero de
-
-Procesos Penales Federales
-
-Del 12 al 19 de diciembre de 2016 Juzgado Séptimo de Amparo y Juicios
-
-Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-Del 19 al 26 de diciembre de 2016 Juzgado Primero de Amparo y Juicios
-
-Federales y Juzgado Primero de
-
-Procesos Penales Federales
-
-Del 26 de diciembre de 2016 al Juzgado Segundo de Amparo y Juicios
-
-2 de enero de 2017 Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-Del 2 al 9 de enero de 2017 Juzgado Tercero de Amparo y Juicios
-
-Federales y Juzgado Primero de
-
-Procesos Penales Federales
-
-Del 9 al 16 de enero de 2017 Juzgado Cuarto de Amparo y Juicios
-
-Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-Y así sucesivamente de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XX, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XIX. ...
-
-XX. ...
-
-1. a 2. ...
-
-3. Once juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
-
-XXI. a XXXII. …”.
-
-D.O.F. 30 DE NOVIEMBRE DE 2016.
+El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES UNITARIOS PRIMERO, SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL DECIMOSEXTO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, FECHA DE COMIENZO DE FUNCIONES Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN LA MATERIA, CIRCUITO Y RESIDENCIA INDICADOS, ASÍ COMO A LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN.]
 
