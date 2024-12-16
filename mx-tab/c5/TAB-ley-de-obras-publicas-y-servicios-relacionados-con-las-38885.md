@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-y-servicios-relacionados-con-las-38885"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2018-10-13"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
 
@@ -286,6 +288,12 @@ Por disposición especial o en caso de recibir líneas de crédito especificas p
 ###### Artículo 18.
 
 Los actos, contratos y convenios que las Dependencias y Entidades realicen o celebren en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 18 Bis.
+
+En la vigilancia de la obra pública y los servicios relacionados con la misma, se privilegiará la participación ciudadana a través de los comités de contraloría social.
 
 ## TÍTULO SEGUNDO. De la Planeación, Programación y Presupuestación
 
@@ -1580,3 +1588,15 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Re
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE "SE ADICIONA EL ARTÍCULO 18 BIS A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el uno de enero del dos mil veinticinco, previa publicación en el Periódico Oficial.
+
+SEGUNDO.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa que se haga de la Secretaría de la Función Pública, se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno.
+
+TERCERO.- Las autoridades correspondientes deberán llevar a cabo los ajustes normativos y presupuestales necesarios para implementar las disposiciones del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
