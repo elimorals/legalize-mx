@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-austeridad-del-estado-de-tabasco-175016"
 country: "mx"
 rank: "ley"
 publication_date: "2024-11-09"
-last_updated: "2024-11-09"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE AUSTERIDAD DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AUSTERIDAD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento J del Número 8575 del Periódico Oficial del Estado de Tabasco, sábado 9 de noviembre de 2024.
 
@@ -95,7 +97,9 @@ V. Nepotismo: La designación, otorgamiento de nombramiento o contratación que 
 
 VI. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones económicas, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, y
 
-VII. Secretaría: Secretaría de la Función Pública del Poder Ejecutivo del Estado de Tabasco.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+VII. Secretaría: Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo del Estado de Tabasco.
 
 ###### Artículo 5.
 
@@ -167,7 +171,7 @@ Queda prohibida toda duplicidad de funciones en las unidades administrativas que
 
 El gasto neto total asignado anualmente a la difusión de propaganda o publicidad oficial por los entes públicos, se sujetará a las disposiciones que para el efecto emitan la Secretaría, la Secretaría de Administración y Finanzas y la Gubernatura, a través de la Coordinación General de Comunicación Social y Vocería. Dicho gasto se ajustará a lo estrictamente indispensable para dar cumplimiento a los fines informativos, educativos o de orientación social cuya difusión se determine necesaria.
 
-Las asignaciones dispuestas en el párrafo anterior, no podrán ser objeto de incrementos durante el ejercicio fiscal correspondiente, salvo el necesario para atender situaciones de carácter emergente, caso fortuito o fuerza mayor.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 14.
 
@@ -364,3 +368,17 @@ SECRETARIO DE GOBIERNO
 JESÚS MANUEL ARGÁEZ DE LOS SANTOS
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE "SE REFORMA EL ARTÍCULO 4, FRACCIÓN VII Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 DE LA LEY DE AUSTERIDAD DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el uno de enero del dos mil veinticinco, previa publicación en el Periódico Oficial.
+
+SEGUNDO.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa que se haga de la Secretaría de la Función Pública, se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno.
+
+TERCERO.- Las autoridades correspondientes deberán llevar a cabo los ajustes normativos y presupuestales necesarios para implementar las disposiciones del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
