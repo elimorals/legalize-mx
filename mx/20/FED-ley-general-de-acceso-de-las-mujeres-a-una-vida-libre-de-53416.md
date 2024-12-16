@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2024-01-26"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -45,11 +45,11 @@ LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1.
 
-La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios para prevenir, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, así como para garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos.
+La presente ley es reglamentaria del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección del derecho de las mujeres, adolescentes y niñas a una vida libre de violencias y los deberes reforzados del Estado, sus disposiciones son de orden público y de observancia general en toda la República, y tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, así como para garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
 
@@ -63,9 +63,13 @@ La Federación, las entidades federativas, las demarcaciones territoriales de la
 
 La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
 
-> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-La Federación y las entidades federativas deberán contar con fiscalías especializadas para atender los delitos contra las mujeres y Centros de Justicia para las Mujeres.
+La Federación y las entidades federativas deberán contar con fiscalías especializadas para atender los delitos relacionados con las violencias de género en contra de las mujeres y Centros de Justicia para las Mujeres.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Para garantizar el derecho a una vida libre de violencias se crea el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños; como un instrumento de política pública tendiente a la erradicación de las violencias en contra de las mujeres, adolescentes, niñas y niños.
 
 ###### ARTÍCULO 3.
 
@@ -174,6 +178,14 @@ XVII. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e i
 > <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2024)</small>
 
 XVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIX. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XX. Medidas u Órdenes de Protección: A las medidas y órdenes de protección a que se refiere la presente ley y el Código Nacional de Procedimientos Penales.
 
 ###### ARTÍCULO 6.
 
@@ -683,7 +695,9 @@ VII. La estrategia de difusión en la entidad federativa de los resultados alcan
 
 La Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
 
-Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de la violencia identificada en la Declaratoria de la Alerta de Violencia de Género contra las mujeres.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de las violencias identificadas en la Declaratoria de la Alerta de Violencia de Género contra las mujeres, de acuerdo a lo establecido en el Reglamento de la presente ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -717,13 +731,19 @@ d) La verificación de los hechos y la publicidad de la verdad.
 
 Toda medida reparatoria deberá tener un enfoque transformador del contexto y cultura discriminatoria, siempre con el objetivo de erradicarla.
 
-### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2021)</small>
+### CAPÍTULO VI. DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-Las órdenes de protección: Son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Las medidas u órdenes de protección, son actos de urgente aplicación, en función del interés superior de la víctima; son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas y niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Tienen como propósito prevenir o hacer cesar un acto de violencia, o impedir la comisión de un nuevo acto de violencia o delito.
 
 > <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -735,7 +755,9 @@ En materia de violencia política contra las mujeres en razón de género, el Tr
 
 Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
 
-I. Administrativas: que son emitidas por el Ministerio Público y las autoridades administrativas, y
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas. Tendrán esta misma naturaleza las medidas u órdenes de protección proporcionadas y/o dictadas de forma directa por cualquier autoridad policial, y
 
 II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 
@@ -751,23 +773,37 @@ Quien en ejercicio de funciones públicas tenga conocimiento de la probable exis
 
 Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+Las medidas u órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
 
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
 
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
 
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
 
@@ -825,31 +861,45 @@ Las autoridades administrativas, el Ministerio Público y los órganos jurisdicc
 
 Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizará las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
 
-> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 34 Bis.
 
-Las órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+Las medidas u órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
 
-Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 34 Ter.
 
-Las órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 II. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General de la República o las procuradurías o fiscalías de las entidades federativas, según corresponda. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública de los tres órdenes de gobierno.
 
 Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 18 DE MARZO DE 2021)</small>
 
 V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
 
@@ -859,13 +909,27 @@ b) Anticoncepción de emergencia, y
 
 c) Interrupción legal y voluntaria del embarazo en el caso de violación;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 VI. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 VII. Los demás gastos indispensables, dentro o fuera del país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 VIII. Facilitar a la mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 IX. Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+IX Bis. En casos de peligro inminente o extrema urgencia, el Ministerio Público bajo su más estricta responsabilidad, podrá determinar la desocupación inmediata por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 X. Reingreso de la mujer y en su caso a sus hijas e hijos en situación de violencia al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
 
@@ -873,19 +937,35 @@ Para el cumplimiento de esta orden se garantizará el acompañamiento, del Minis
 
 En caso de que no haya personal ministerial disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de la mujer;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 XI. Protección policíaca permanente a la mujer, o la niña, así como a su familia;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 XII. Protección por seguridad privada, en los casos que sea necesario;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 XIII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 XIV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 XV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso, a sus hijas e hijos;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 XVI. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
 XVII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
 XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
 
@@ -904,6 +984,8 @@ XXI. Solicitar a la autoridad judicial competente la recuperación y entrega inm
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
 XXII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -1019,13 +1101,65 @@ ARTÍCULO 34 Quaterdecies.- En caso de que la persona agresora incumpla la orden
 
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
 
-### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+### CAPÍTULO VII. DEL REGISTRO NACIONAL DE MEDIDAS U ÓRDENES DE PROTECCIÓN DE LAS MUJERES, ADOLESCENTES, NIÑAS Y NIÑOS
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 A.- El Registro Nacional es un mecanismo institucional de coordinación y colaboración entre los tres órdenes de gobierno de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en materia de seguridad, procuración y administración de justicia. Tiene por objeto garantizar la trazabilidad, estado y efectividad de las medidas u órdenes de protección ordenadas por las autoridades administrativas y jurisdiccionales; en éste se organiza y concentra la información sobre las medidas u órdenes de protección ordenadas por las autoridades competentes de los tres órdenes de gobierno.
+
+El Registro Nacional se conforma con los datos e información que se genera e integra a partir de las medidas u órdenes de protección, ordenadas, implementadas o ejecutadas por las autoridades competentes de forma originaria o en colaboración, previstas en el Código Nacional de Procedimientos Penales y la presente Ley General que aportan las autoridades administrativas y jurisdiccionales competentes de los tres órdenes de gobierno.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 B.- Corresponde a la Secretaría de Seguridad y Protección Ciudadana administrar y coordinar la operación del Registro Nacional. Es obligación de las autoridades de las entidades federativas y de la Federación integrar, procesar y actualizar la información para el Registro Nacional, en términos que establezcan los lineamientos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 C.- Corresponde a la Secretaría de las Mujeres crear indicadores, dar seguimiento y evaluar el Registro Nacional.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 D.- La integración y funcionamiento del Registro Nacional deberá garantizar el acceso a las autoridades competentes que ordenen, soliciten, verifiquen o den seguimiento al cumplimiento de las medidas u órdenes de protección determinadas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 E.- La base de datos del Registro Nacional, formará parte del Sistema Nacional de Información a que se refiere la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 F.- Las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales tendrán acceso a la plataforma del Registro Nacional, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 34 G.- El Registro Nacional contendrá al menos, los siguientes rubros:
+
+I. Datos de la autoridad que ordena las medidas u órdenes de protección y de la autoridad o autoridades destinatarias;
+
+II. Datos de la o las víctimas, y en su caso de los padres o tutores;
+
+III. Datos de la persona agresora y en su caso, relación de parentesco o afinidad con la víctima;
+
+IV. Descripción o síntesis de la medida u orden de protección otorgada;
+
+V. Fecha de inicio y terminación;
+
+VI. Conductas por las que se impusieron las medidas u órdenes, en su caso si fueron modificadas;
+
+VII. Nivel de riesgo, y
+
+VIII. Plazo o término para que la autoridad o autoridades requeridas cumplimenten y den contestación a la autoridad emisora, el cual no podrá exceder de 48 horas.
+
+La información contenida en el Registro Nacional permitirá entre otras acciones, la verificación de antecedentes de violencia a víctimas por el mismo agresor.
+
+La información y datos contenidos en el Registro Nacional se clasifica como reservada para todos los efectos legales, su posesión, uso y transmisión tendrá como único objetivo, el plasmado en la presente ley y las autoridades deberán dar cumplimiento a las responsabilidades establecidas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 ## TITULO III
 
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 35.
 
@@ -1095,9 +1229,7 @@ XIV. El Instituto Nacional Electoral.
 
 La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 38.
 
@@ -1157,7 +1289,9 @@ XVI. Difundir la oferta institucional de servicios especializados que brinden lo
 
 El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
 
-### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
@@ -1415,11 +1549,45 @@ XI. Realizar una página de Internet específica en la cual se encuentren los da
 
 XII. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-XIII. Proponer al Consejo Nacional de Seguridad Pública que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional, y
+XIII. Proponer al Consejo Nacional de Seguridad Pública que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional;
 
-XIV. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIV. Implementar de manera directa e inmediata las medidas u órdenes de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la presentación de una denuncia o querella.
+
+Tratándose de delitos relacionados con violencias de género contra las mujeres, la información deberá incorporarse al Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XV. Implementar el Registro Nacional en términos del artículo 34 A de esta ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XVI. Verificar la trazabilidad, estado y efectividad de las medidas y órdenes de protección impuestas por las autoridades competentes de los tres órdenes de gobierno;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XVII. Garantizar la incorporación de los datos de las medidas u órdenes de protección en el Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Determinar la forma de coordinación entre las autoridades administrativas y jurisdiccionales competentes de los tres órdenes de gobierno, para dar seguimiento a las medidas u órdenes de protección emitidas con independencia del lugar en que hayan sido ordenadas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIX. Verificar la atención de la solicitud de medidas u órdenes de protección, con independencia del lugar en que hayan sido ordenadas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XX. Solicitar información a las autoridades administrativas y jurisdiccionales competentes sobre la atención, seguimiento y ejecución de las medidas u órdenes de protección que forman parte del Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XXI. Coadyuvar con la Secretaría de las Mujeres para el cumplimiento de las funciones previstas con relación al Registro Nacional, y
+
+XXII. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Quinta.. De la Secretaría de Educación Pública
 
@@ -1475,7 +1643,9 @@ XVI. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Secretaría de Salud:
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de las violencias en su contra, para lo cual tomará en cuenta la información contenida en el Registro Nacional;
 
 II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
 
@@ -1525,7 +1695,9 @@ ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
 
 I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
 
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres, así como para reducir y erradicar la brecha salarial de género;
 
 III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
 
@@ -1619,17 +1791,21 @@ XI. Crear una base nacional de información genética que contenga la informaci�
 
 La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas, y
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-XII. Las demás previstas para el cumplimiento de la presente ley.
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y
+
+XIII. Las demás previstas para el cumplimiento de la presente ley.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], D.O.F. 4 DE JUNIO DE 2015)
 
 #### Sección Décima.. Del Instituto Nacional de las Mujeres
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Corresponde al Instituto Nacional de las Mujeres:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
 
@@ -1649,9 +1825,31 @@ VII. Promover y vigilar que la atención ofrecida en las diversas instituciones 
 
 VIII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-X. Las demás previstas para el cumplimiento de la ley.
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+X. Participar en conjunto con la Secretaría de Seguridad Ciudadana, en la elaboración de los Lineamientos para la operación y funcionamiento del Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XI. Establecer indicadores respecto al funcionamiento, eficiencia y efectividad del Registro Nacional, considerando especialmente la trazabilidad de las medidas u órdenes de protección ordenadas por las autoridades administrativas y jurisdiccionales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XII. Dar seguimiento a los mecanismos de coordinación y atención a las solicitudes de medidas u órdenes de protección previstas en el artículo 44 de esta ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIII. Llevar a cabo la evaluación del Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIV. Difundir información sobre el funcionamiento y aprovechamiento del Registro Nacional, y
+
+XV. Las demás previstas para el cumplimiento de la ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -1755,11 +1953,15 @@ XXIII. Integrar registros públicos sistemáticos de los delitos cometidos en co
 
 XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de Gobernación, y
+XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de Gobernación;
 
-XXVI. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y
+
+XXVII. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
 
 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
 
@@ -1801,17 +2003,17 @@ IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la pob
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-XI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres, y
+XI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-XII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y
 
-### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
+XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### ARTÍCULO 51.
 
@@ -1873,9 +2075,9 @@ Los refugios y los Centros de Justicia para las Mujeres deberán contar con toda
 
 El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
-### CAPÍTULO VI. DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
+### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
 
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1943,9 +2145,9 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE MAYO DE 2023)</small>
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO VI. DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
 
-> <small>(ADICIONADO D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 59 Bis.
 
@@ -2128,6 +2330,10 @@ Para la creación de los Centros de Justicia para las Mujeres, se deberán prior
 ## TITULO IV. DE LAS RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### Artículo 60.
 
@@ -2434,3 +2640,13 @@ D.O.F. 26 DE ENERO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
+
+Tercero.- Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
