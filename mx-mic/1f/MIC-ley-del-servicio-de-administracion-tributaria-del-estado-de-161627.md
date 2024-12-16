@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-servicio-de-administracion-tributaria-del-estado-de-161
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-23"
-last_updated: "2023-10-06"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Novena Sección del Número 92 del Periódico Oficial del Estado de Michoacán, el viernes 23 de diciembre de 2022.
 
@@ -181,7 +181,9 @@ VII. Las demás contenidas en la presente Ley y otras disposiciones normativas a
 
 Para el cumplimiento de su objeto, al SATMICH le corresponde el ejercicio de las atribuciones siguientes:
 
-I. Participar en la elaboración del proyecto anual de Ley de Ingresos del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Participar, en coordinación con la Secretaría, en la elaboración del anteproyecto anual de la Ley de Ingresos del Gobierno del Estado;
 
 II. Evaluar y proponer al Titular de la Secretaría, los proyectos de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos fiscales y tributarios del Estado, materia de su competencia;
 
@@ -247,9 +249,17 @@ XXXII. Acreditar a los servidores públicos y personal autorizado para la práct
 
 XXXIII. Elaborar y emitir las formas oficiales, formatos de declaraciones, avisos e instructivos para el pago de contribuciones estatales y publicarlos en los medios de difusión oficial;
 
-XXXIV. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales, que le sea solicitada por las dependencias y entidades de la administración pública estatal y contribuyentes, así como realizar una labor permanente de difusión, orientación y asistencia fiscal; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XXXV. Las demás atribuciones previstas en el Código Fiscal, esta Ley, la Ley de Hacienda del Estado de Michoacán de Ocampo, el Convenio y las demás disposiciones jurídicas en la materia.
+XXXIV. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales, que le sea solicitada por las dependencias y entidades de la administración pública estatal y contribuyentes, así como realizar una labor permanente de difusión, orientación y asistencia fiscal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXV. Solicitar ante la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda o bien, a las Entidades Financieras y Sociedades Cooperativas de Ahorro y Préstamos, que ejecuten embargo o aseguramiento de los bienes, así como la inmovilización y transferencias de los recursos, a que se refieren los artículos 40-A fracción III, inciso a), 156 Bis, 156 Ter y relativos del Código Fiscal de la Federación y los correlativos del Código fiscal del Estado, de conformidad con las disposiciones jurídico fiscales aplicables, y en el caso que corresponda, solicitar el levantamiento de los mismos y el traslado de los fondos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. Las demás atribuciones previstas en el Código Fiscal, esta Ley, la Ley de Hacienda del Estado de Michoacán de Ocampo, el Convenio y las demás disposiciones jurídicas en la materia.
 
 ### CAPÍTULO IV. DIRECCIÓN GENERAL
 
@@ -285,7 +295,9 @@ III. Formular y presentar al Titular de la Secretaría la propuesta de política
 
 IV. Informar al Titular de la Secretaría, la cancelación de los créditos fiscales incobrables estatales y municipales coordinados, así como las relativas a los créditos fiscales federales ante las autoridades competentes, de conformidad con las disposiciones fiscales aplicables;
 
-V. Proponer a la Secretaría la cuenta comprobada de la recaudación de los ingresos federales coordinados, que se deberá rendir a la Secretaría de Hacienda y Crédito Público a través de la Secretaría, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+V. Participar, respecto a la recaudación de los ingresos a su cargo, con las instancias competentes de la Secretaría, en la preparación de la cuenta comprobada de la recaudación de los ingresos federales coordinados de su competencia;
 
 VI. Emitir los acuerdos por los que se otorguen condonación y reducción de multas y recargos, así como, la cancelación de créditos fiscales en favor de los contribuyentes, en los términos que establecen las disposiciones fiscales aplicables;
 
@@ -297,31 +309,43 @@ IX. Participar, previo acuerdo del Titular de la Secretaría, en los Comités y 
 
 X. Participar en las reuniones del grupo técnico de fiscalización de la Comisión Permanente de Servidores Públicos Fiscales y en las reuniones de los grupos de trabajo que se deriven de los asuntos tratados en el mismo;
 
-XI. Coordinar y supervisar la elaboración de la estimación anual de ingresos del Estado, así como del anteproyecto de Ley de Ingresos del Gobierno del Estado de Michoacán de Ocampo y promover esquemas de recaudación con el fin de ampliar la base tributaria, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, ingresos por venta de bienes, participaciones e incentivos en ingresos federales, aportaciones federales, apoyos extraordinarios de la Federación, transferencias federales y municipales por convenio, financiamientos, ingresos extraordinarios, percibidos por las dependencias y entidades de la administración pública estatal, bajo cualquier concepto y cualesquiera otros que anualmente se establezcan como ingreso, para cubrir los gastos públicos generados por el ejercicio de la función pública;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+XI. Participar de manera coordinada con las instancias correspondientes de la Secretaría, en la elaboración de la estimación anual de ingresos del Estado, del anteproyecto de la Ley de Ingresos y promover esquemas de recaudación con el fin de ampliar la base tributaria, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones e incentivos en ingresos federales por convenio, para cubrir los gastos públicos generados por el ejercicio de la función pública;
 
-XII. Establecer las medidas necesarias en las unidades administrativas competentes a su cargo, a fin de conocer el comportamiento de la transferencia de los Fondos de Aportaciones Federales, Participaciones Federales y los correspondientes a los demás convenios de coordinación, acuerdos o anexos de ejecución, que suscriba el Gobierno del Estado con dependencias y entidades de la Administración Pública Federal, así como evaluar el comportamiento de los mismos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XIII. Participar ante los órganos del Sistema Nacional de Coordinación Fiscal, o en su caso, Hacendaria, así como en los grupos técnicos y de trabajo, en los que se le designe como representante del grupo de zona a que pertenece el Estado y, en su caso, como coordinador del grupo de que se trate, debiéndose rendir los informes correspondientes;
+XII. Establecer las medidas necesarias en las unidades administrativas competentes a su cargo, a fin de conocer el comportamiento de los incentivos correspondientes al convenio de colaboración administrativa en materia fiscal y sus anexos, que suscriba el Gobierno del Estado con dependencias y entidades de la Administración Pública Federal, así como evaluar el comportamiento de estos;
 
-XIV. Representar al Titular de la Secretaría, previo acuerdo, en los foros y grupos de trabajo que se constituyan por los órganos del Sistema Nacional de Coordinación Fiscal y de la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XV. Coordinar y supervisar el cumplimiento de los convenios, derivados del Sistema Nacional de Coordinación Fiscal, así como de sus reuniones zonales;
+XIII. Participar en coordinación con la Secretaría, ante los órganos del Sistema Nacional de Coordinación Fiscal, o en su caso, Hacendaria, así como en los grupos técnicos y de trabajo, relacionados con la actividad tributaria y recaudadora a su cargo, debiendo rendir los informes correspondientes;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XVI. Participar de manera coordinada con otras unidades administrativas de la Secretaría en las acciones necesarias a fin de que se efectúe la vigilancia de los procesos de actualización de los coeficientes correspondientes al Estado, para la distribución de los diferentes fondos de participaciones en ingresos federales, conforme a las disposiciones normativas aplicables;
+XIV. Participar en coordinación con la Secretaría, en los foros y grupos de trabajo que se constituyan por los órganos del Sistema Nacional de Coordinación Fiscal y de la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-XVII. Participar en la coordinación de actividades para la obtención y envío de la información relacionada con las contribuciones locales asignables, para su incorporación en el cálculo del coeficiente para la distribución de Participaciones Federales, ante la Secretaría de Hacienda y Crédito Público;
+XV. Coordinar y supervisar el cumplimiento del convenio de colaboración administrativa en materia fiscal federal y sus anexos, derivados del Sistema Nacional de Coordinación Fiscal, así como participar, en la materia de su competencia, en coordinación con la Secretaría, en sus reuniones zonales;
 
-XVIII. Coordinar y participar en el funcionamiento y los trabajos de los organismos del Sistema de Coordinación Fiscal del Estado, en materia de su competencia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XVI. Solicitar ante la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a las Entidades Financieras y Sociedades Cooperativas de Ahorro y Préstamo, que ejecuten embargo o aseguramiento de los bienes, así como la inmovilización y transferencia de los recursos, a que se refieren los artículos 40-A fracción III, inciso a), 156 Bis, 156 Ter y relativos del Código Fiscal de la Federación y los correlativos del Código Fiscal del Estado, de conformidad con las disposiciones jurídico fiscales aplicables, y en el caso que corresponda, solicitar el levantamiento de los mismos;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XVII. Dirigir los procesos de capacitación y profesionalización fiscal de las personas servidoras públicas adscritas al SATMICH, coordinándose, en la materia de su competencia, con la Dirección de Profesionalización de la Secretaría y otros entes públicos;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Participar, en coordinación con la Secretaría, en el funcionamiento y los trabajos de los organismos del Sistema de Coordinación Fiscal del Estado, en materia de su competencia;
 
 XIX. Revisar y emitir las resoluciones administrativas, de carácter individual, no favorables a un particular, propuestas por las unidades administrativas a su cargo, de conformidad con las disposiciones fiscales aplicables;
 
-XX. Presentar al Titular de la Secretaría el anteproyecto de Ley de Ingresos del Estado de Michoacán de Ocampo, que contenga los ingresos que perciba el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XX. Participar en la estimación de ingresos que perciba el Gobierno del Estado, para su análisis e integración posterior en el anteproyecto de la Ley de Ingresos del Estado de Michoacán;
 
 XXI. Planear, programar, supervisar, dirigir, evaluar y coordinar el desarrollo de las ,actividades de las unidades administrativas del SATMICH previstas en el reglamento interior para lograr el cumplimiento de los objetivos y metas institucionales;
 
@@ -347,7 +371,9 @@ XXXI. Proponer al Titular de la Secretaría la celebración de convenios con ins
 
 XXXII. Dictar las disposiciones que normen la evaluación del desempeño de los servidores públicos adscritos al SATMICH;
 
-XXXIII. Dictar las disposiciones que normen la promoción interna y estímulos de los servidores públicos adscritos al SATMICH, en apego a las normas aplicables y presupuestos autorizados;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+XXXIII. Dictar las disposiciones que normen los estímulos, remuneraciones o prestaciones de los servidores públicos adscritos al SATMICH, en apego a las normas aplicables y presupuestos autorizados;
 
 XXXIV. Proponer al Titular de la Secretaría, el nombramiento o remoción del personal de confianza del SATMICH;
 
@@ -363,7 +389,9 @@ XXXVI. Aquellas que le ordene o, en su caso, delegue, el Consejo Asesor y las de
 
 Con el objeto de hacer un uso más eficiente, eficaz y profesional de los recursos humanos, el SATMICH tendrá la facultad para dictar las políticas adecuadas sobre éstos, incluyendo la de definir las aptitudes académicas o técnicas para cada categoría funcional, así como los criterios y procedimientos para contratar y promover a los servidores públicos.
 
-El SATMICH, deberá crear y desarrollar programas de capacitación, formación y promoción de personal, así como establecer estándares para la prestación de servicios que garanticen la igualdad de oportunidades y erradiquen todo tipo de discriminación, para lo cual, entre otras acciones, se implementará el Servicio Fiscal de Carrera.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+El SATMICH, deberá crear y desarrollar programas de capacitación y formación, así como establecer estándares para la prestación de servicios que garanticen la igualdad de oportunidades y erradiquen todo tipo de discriminación, para lo cual, entre otras acciones, se implementará el Servicio Fiscal de Carrera.
 
 ###### Artículo 19.
 
@@ -373,11 +401,15 @@ El Servicio Fiscal de Carrera tendrá como objetivo dotar al SATMICH de un cuerp
 
 El Servicio Fiscal de Carrera se regirá por los principios siguientes:
 
-I. Igualdad de oportunidades para el ingreso, promoción y permanencia en el servicio, con base en el perfil del puesto, la experiencia, desempeño, aptitudes, conocimientos, capacidades e indicadores de productividad de los servidores públicos fiscales. Para ello, estos procesos se realizarán con base en concursos de oposición y la evaluación de los elementos señalados;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+I. Igualdad de oportunidades, con base en el perfil del puesto, la experiencia, desempeño, aptitudes, conocimientos y capacidades de los servidores públicos;
 
 II. La especialización y profesionalización en cada actividad atenderá a un catálogo de perfiles de puestos específicos, en el que se determinen los requerimientos, naturaleza, funciones, aptitudes, restricciones, salario y prestaciones de cada puesto;
 
-III. La retribución y prestaciones estarán vinculadas al desempeño y productividad y deberán ser suficientes para asegurar al servidor público el desarrollo óptimo de sus capacidades y al SATMICH, la contratación y la permanencia de los mejores servidores públicos fiscales, en los términos que se establezcan en el Estatuto del Servicio Fiscal de Carrera;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+III. Para los estímulos, remuneraciones y prestaciones, debe tomarse en consideración el resultado de la evaluación al desempeño del servidor público y el desarrollo óptimo de sus capacidades, en los términos que establezca el Estatuto del Servicio Fiscal de Carrera;
 
 IV. La capacitación, profesionalización, formación y desarrollo integral serán de carácter obligatorio y permanente, estarán estrechamente vinculados con la actividad sustantiva del SATMICH, a fin de asegurar la eficiencia en el ejercicio de sus atribuciones y la prestación de los servicios; y,
 
@@ -387,11 +419,15 @@ V. La integridad, responsabilidad, ética y conducta adecuada de los funcionario
 
 Los trabajadores de base de la Administración Pública del Estado tendrán acceso al servicio fiscal de carrera, sujetándose, en su caso, a los procedimientos de reclutamiento, selección y nombramiento previstos en esta Ley.
 
-Para la incorporación al Sistema del trabajador de base será necesario contar con licencia o haberse separado de la plaza que ocupa, no pudiendo permanecer activo en ambas situaciones, de conformidad a lo establecido en la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y las Condiciones Generales de Trabajo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Para la incorporación al Servicio Fiscal de Carrera el trabajador de base deberá contar con licencia o haberse separado de la plaza que ocupa; sin que sea posible permanecer activo en ambas, de conformidad a lo establecido en la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y las Condiciones Generales de Trabajo.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 22.
 
-El régimen específico del Servicio Fiscal de Carrera quedará establecido, integrado y funcionará de conformidad con lo dispuesto en el Estatuto del Servicio Fiscal de Carrera que para tales efectos expida el SATMICH.
+El Servicio Fiscal de Carrera quedará establecido, integrado y funcionará de conformidad con lo dispuesto en el Estatuto del Servicio Fiscal de Carrera que para tales efectos expida el SATMICH, que definirá en forma clara los procedimientos de reclutamiento, selección y nombramiento previstos en esta Ley.
 
 ## TÍTULO IV
 
@@ -427,7 +463,9 @@ En caso de que los recursos asignados conforme al párrafo anterior no se ejerza
 
 Las relaciones laborales entre el SATMICH y sus trabajadores se regirán por lo dispuesto en el apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios, tratándose de los trabajadores de base por lo dispuesto en las Condiciones Generales de Trabajo.
 
-Las unidades administrativas del SATMICH y su personal tendrán las facultades y funciones que se determinen en el Reglamento Interior y demás disposiciones normativas aplicables que regulen el funcionamiento del SATMICH.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+Las unidades administrativas del SATMICH y su personal tendrán las facultades y funciones que se determinen en el Reglamento Interior, el Manual de Organización, el Acuerdo por el que se establecen las facultades y circunscripción territorial de las unidades administrativas regionales y las demás disposiciones normativas aplicables que regulen el funcionamiento del SATMICH.
 
 T R A N S I T O R I O S
 
@@ -514,3 +552,23 @@ P.O. 6 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 453 POR EL QUE "SE REFORMA EL ARTÍCULO 6, LA FRACCIÓN III DEL ARTÍCULO 10, LAS FRACCIONES XII, XVI Y XVII DEL ARTÍCULO 17; LOS ARTÍCULOS PRIMERO, SEGUNDO, CUARTO, QUINTO, SÉPTIMO, OCTAVO Y DÉCIMO TRANSITORIOS; Y, SE DEROGA EL ARTÍCULO VIGÉSIMO TRANSITORIO, TODOS DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 109.-ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 21; 47 FRACCIÓN II; Y, 68 FRACCIÓN I DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1º primero de enero de 2025, previa su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Dese cuenta el presente Decreto al Titular de la Secretaría de Finanzas y Administración, para su conocimiento y los efectos correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Dese cuenta el presente Decreto al Titular del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
