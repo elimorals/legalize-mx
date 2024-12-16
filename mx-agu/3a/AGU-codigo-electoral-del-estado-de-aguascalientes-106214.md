@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2023-06-26"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -4103,11 +4103,21 @@ a) Indemnización de la víctima;
 
 b) Restitución inmediata en la candidatura o cargo partidista al que fue obligada a renunciar por motivos de violencia;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-c) Disculpa pública dirigida a la ofendida, la cual deberá de ser realizada en los términos previstos en el Lineamiento que para tal efecto emitan en coordinación las autoridades electorales locales, y
+c) Disculpa pública dirigida a la ofendida, la cual deberá de ser realizada en los términos previstos en el Lineamiento que para tal efecto emitan en coordinación las autoridades electorales locales;
 
-d) Medidas de no repetición
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+d) Medidas de no repetición; y
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+e) Tratamiento médico y/o psicoterapéutico especializado para víctima, a costa de la persona sancionada.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
+En la resolución correspondiente, el Tribunal deberá pronunciarse sobre todas y cada una de las medidas de reparación previstas en este artículo, argumentando de manera suficiente, las razones concretas que lo llevaron a determinar su aplicación o no.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
 
@@ -6608,3 +6618,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 37.- SE REFORMA EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
