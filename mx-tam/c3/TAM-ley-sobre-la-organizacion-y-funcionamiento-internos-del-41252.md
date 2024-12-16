@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-11-21"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -241,9 +241,9 @@ La presidencia y suplencia de la mesa directiva de cada periodo ordinario será 
 
 > <small>(DEROGADO TERCER PÁRRAFO DEL NUMERAL 2, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
-Las y los secretarios integrantes de la Mesa Directiva serán electos por el Pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, las y los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
+Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán electos por el Pleno, mediante la presentación de propuestas formuladas libremente por sus miembros.
 
 3. En caso de existir dos o más propuestas distintas, se someterán a votación conjuntamente, resultando electa la propuesta que obtenga el mayor número de cédulas sufragadas.
 
@@ -4284,3 +4284,15 @@ P.O. 21 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor a partir de su expedición y se publicará inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-113 MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 43, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y SE REFORMA EL PÁRRAFO CUARTO DEL NUMERAL 2 DEL ARTÍCULO 15, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, surtirá efectos a partir de la expedición del presente Decreto.
