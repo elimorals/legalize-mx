@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2023-03-08"
+last_updated: "2024-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE ATENCION A VICTIMAS PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Anexo al Extraordinario Número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -2002,3 +2004,71 @@ P.O. 8 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-119 MEDIANTE EL CUAL SE EXPIDE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Estatal de Atención a Víctimas deberá instalarse en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Estatal de Atención a Víctimas, emitirá la convocatoria pública para establecer los criterios de selección de la Asamblea Consultiva, en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Administración, y Secretaría de Finanzas, así como a la Contraloría Gubernamental y a la Comisión Estatal de Atención a Víctimas, a realizar, en el ámbito de sus competencias, los procedimientos correspondientes para llevar a cabo las adecuaciones reglamentarias, normativas, de lineamientos, protocolos, de estatuto y estructura orgánica a las que haya lugar, derivados de la presente Ley, sin que tales adecuaciones puedan exceder de 90 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento de la Comisión Estatal de Atención a Víctimas, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor de la presente Ley, en lo que no se opongan al mismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los municipios del Estado deberán realizar las modificaciones normativas, administrativas y presupuestales a efecto de dar cumplimiento a la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El Sistema Estatal de Atención a Víctimas y la Comisión Estatal de Atención a Víctimas, deberán, conforme a sus competencias, elaborar y aprobar el Plan Anual de Atención a Víctimas y el Programa Estatal de Atención Integral a Víctimas, en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+La implementación del sistema o programa informático a que se refiere el tercer párrafo del artículo 90 de la presente Ley, destinado a registrar, depurar y procesar los registros de víctimas con el fin de garantizar que el padrón se mantenga actualizado, se realizará en tres etapas: la primera etapa deberá completarse en un plazo de 30 días naturales contados a partir de la entrada en vigor de la presente Ley, consistiendo en la adquisición y configuración inicial del sistema; la segunda etapa se llevará a cabo durante el primer trimestre de 2025 e incluirá la integración de la base de datos de las personas víctimas del delito y de violaciones a derechos humanos, así como la capacitación del personal encargado de su operación; y la tercera etapa deberá concluir en el segundo trimestre de 2025, consistiendo en la validación, depuración y puesta en marcha definitiva del sistema, asegurando su operatividad plena y el mantenimiento actualizado de los registros.
+
+###### ARTÍCULO DÉCIMO.
+
+La Fiscalía General de Justicia del Estado de Tamaulipas, deberá iniciar y operar el registro referido en el artículo 15 de la presente Ley, en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Secretaría de Salud del Estado, deberá realizar las acciones necesarias a efecto de dar cumplimiento al otorgamiento del carnet de identificación, referido en el artículo 31 de la presente Ley, en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Sistema Estatal de Seguridad Pública, deberá realizar las acciones necesarias a efecto de dar cumplimiento a la concentración de información, referida en el artículo 43 de la presente Ley, en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La Secretaría de Finanzas realizará las adecuaciones normativas necesarias para la creación, operación y administración del Fondo de Ayuda, Asistencia y Reparación Integral de la Comisión Estatal, asimismo contemplará lo conducente para el ejercicio fiscal del año 2025.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La persona titular de la Comisión Estatal de Atención a Víctimas continuará en su encargo conforme a lo establecido en el artículo 86 de la presente Ley.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Poder Judicial del Estado de Tamaulipas, conforme a sus competencias y facultades, deberá realizar las adecuaciones normativas, administrativas y presupuestales necesarias, para dar cumplimiento a lo establecido en el artículo 122 de la presente Ley, en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se abroga la Ley de Atención a Víctimas para el Estado de Tamaulipas, expedida mediante Decreto número LXIII-156, del 11 de abril de 2017 y publicada en el Anexo al Periódico Oficial del Estado Extraordinario, número 6, de fecha 8 de mayo de 2017.
