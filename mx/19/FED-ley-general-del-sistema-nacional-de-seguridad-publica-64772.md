@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2023-04-25"
+last_updated: "2024-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -60,11 +60,11 @@ La seguridad pública es una función a cargo de la Federación, las entidades f
 
 El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 3.
+###### Articulo 3.
 
-La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, de Procuración de Justicia, de las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas cautelares, de suspensión condicional del procedimiento de los responsables de la prisión preventiva y ejecución de penas, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, de Procuración de Justicia, de las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas u órdenes de protección para mujeres, adolescentes, niñas y niños y de medidas cautelares, de suspensión condicional del procedimiento de los responsables de la prisión preventiva y ejecución de penas, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
 ###### Artículo 4.
 
@@ -80,9 +80,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Academias: a las Instituciones de Formación, de Capacitación y de Profesionalización Policial;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Bases de Datos: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en Registros Nacionales en materias relativas a detenciones, armamento, equipo y personal de seguridad pública, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales de los tres órdenes de gobierno relativas a la información criminalística, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, personas sentenciadas y servicios de seguridad privada, así como las demás necesarias para la prevención, investigación y persecución de los delitos. El conjunto de bases de datos conformará el Sistema Nacional de Información;
+II. Bases de Datos: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en Registros Nacionales, archivos digitales o bancos de datos en materias relativas a detenciones, armamento, equipo y personal de seguridad pública, medidas u órdenes de protección para mujeres, adolescentes, niñas y niños, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales de los tres órdenes de gobierno relativas a la información criminalística, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, personas sentenciadas y servicios de seguridad privada, así como las demás necesarias para la prevención, investigación y persecución de los delitos. El conjunto de bases de datos conformará el Sistema Nacional de Información;
 
 III. Carrera Ministerial: al Servicio Profesional de Carrera Ministerial;
 
@@ -153,6 +153,14 @@ VIII. Determinar criterios uniformes para la organización, operación y moderni
 IX. Generar, compartir, intercambiar, ingresar, almacenar y proveer información, archivos y contenidos a las Bases de Datos que integran el Sistema Nacional de Información, de conformidad con lo dispuesto en la legislación en la materia.
 
 Tratándose de manejo de datos que provengan del Registro Nacional de Detenciones se atendrá a lo dispuesto en la Ley Nacional del Registro de Detenciones;
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de los datos relacionados con el otorgamiento, ejecución, implementación y seguimiento de medidas u órdenes de protección, también se estará a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en el Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+IX Bis. Participar en la ejecución y seguimiento de las medidas u órdenes de protección en los términos previstos en esta Ley, en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en el Código Nacional de Procedimientos Penales;
 
 X. Realizar acciones y operativos conjuntos de las Instituciones de Seguridad Pública;
 
@@ -430,6 +438,10 @@ c) Prevenir la violencia generada por el uso de armas, el abuso de drogas y alco
 
 d) Garantizar la atención integral a las víctimas.
 
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Para efectos de lo dispuesto en esta fracción deberá utilizar la información generada en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños;
+
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
 IV. Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública nacional; para ello, podrá allegarse de la información estadística que integra el Sistema Nacional de Información;
@@ -536,6 +548,10 @@ XVI. Fomentar la cultura de respeto a los derechos humanos y garantías reconoci
 
 XVII. Formular estrategias de coordinación en materia de combate a la corrupción, protección de personas, atención a víctimas y ofendidos de delitos;
 
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XVII Bis. Promover mecanismos de coordinación y colaboración para la ejecución, cumplimiento y seguimiento de las medidas u órdenes de protección, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y el Código Nacional de Procedimientos Penales;
+
 XVIII. Proponer programas de cooperación internacional en materia de procuración de justicia;
 
 XIX. Establecer lineamientos para el desahogo de procedimientos de extradición y asistencia jurídica;
@@ -603,6 +619,10 @@ X. Emitir las bases y reglas generales para la realización de operativos conjun
 XI. Impulsar las acciones necesarias para que los integrantes del Sistema establezcan un servicio para la localización de personas y bienes;
 
 XII. Promover el establecimiento de un servicio de comunicación que reciba los reportes de la comunidad, sobre emergencias, faltas y delitos;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XII Bis. Generar mecanismos de coordinación y colaboración para la aplicación, ejecución, cumplimiento y seguimiento de medidas u órdenes de protección, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y el Código Nacional de Procedimientos Penales;
 
 XIII. Procurar que en las Instituciones Policiales se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación;
 
@@ -806,6 +826,10 @@ IV. Constituir y operar las Comisiones y las Academias a que se refiere esta Ley
 
 V. Proporcionar al Sistema Nacional de Información las Bases de Datos correspondientes para su interconexión y consulta, de conformidad con esta Ley y otras disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+V Bis. Garantizar el cumplimiento de las disposiciones en materia de medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y el Código Nacional de Procedimientos Penales;
+
 VI. Designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
 
 VII. Integrar y consultar en las bases de datos de personal de Seguridad Pública, los expedientes de los aspirantes a ingresar en las Instituciones Policiales;
@@ -849,6 +873,10 @@ I. Conducirse siempre con dedicación y disciplina, así como con apego al orden
 II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
 III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de las mujeres, adolescentes, niñas y niños víctimas, el auxilio se prestará con perspectiva de género y con la debida diligencia, lo cual implica actuar oportunamente y salvaguardando en todo momento su seguridad para evitar el contacto del o las personas agresoras. Las acciones para su resguardo y protección se implementarán de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y el Código Nacional de Procedimientos Penales;
 
 IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
@@ -913,6 +941,10 @@ II. Remitir a la instancia que corresponda la información recopilada, en el cum
 III. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos bajo el mando y conducción del Ministerio Público, así como en situaciones de grave riesgo, catástrofes o desastres;
 
 IV. Ejecutar los mandamientos judiciales y ministeriales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+IV Bis. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes y niñas en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y el Código Nacional de Procedimientos Penales;
 
 V. Obtener y mantener actualizado su Certificado Único Policial;
 
@@ -1242,9 +1274,11 @@ Las legislaciones correspondientes establecerán la forma para calcular la cuant
 
 El Programa Rector de Profesionalización es el instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de las Instituciones de Procuración de Justicia.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 62.
 
-Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos.
+Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos. En su formulación deberán integrarse de forma transversal las perspectivas de género, interés superior de la niñez, interculturalidad e interseccionalidad, entre otras.
 
 ###### Artículo 63.
 
@@ -1360,9 +1394,9 @@ c) Los actos que se deban realizar de forma inmediata; o
 
 d) La comisión de un delito en flagrancia.
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
+II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, así como proporcionar medidas u órdenes de protección inmediatas en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
 > <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2022)</small>
 
@@ -1424,7 +1458,9 @@ XI. Emitir los informes, partes policiales y demás documentos que se generen, c
 
 XII. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
 
-a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables, tratándose de medidas u órdenes de protección inmediata para las mujeres, adolescentes, niñas y niños, se aplicará de manera supletoria con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
 b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
 
@@ -1434,7 +1470,9 @@ d) Preservar los indicios y elementos de prueba que la víctima y ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones, y
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+XIII. Dar cumplimiento a las medidas u órdenes de protección para las mujeres, adolescentes, niñas y niños; a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones, y
 
 XIV. Las demás que le confieran las disposiciones aplicables.
 
@@ -1926,9 +1964,9 @@ Para efecto de dar cumplimiento al párrafo anterior, se adoptarán los mecanism
 
 La información contenida en las Bases de Datos del Sistema Nacional de Información, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones legales determinen.
 
-(NOTA: EL 2 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 66/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
-Se clasifica como reservada la información contenida en todas y cada una de las Bases de Datos del Sistema Nacional de Información, así como los Registros Nacionales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados y las demás necesarias para la operación del Sistema, CUYA CONSULTA ES EXCLUSIVA DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA QUE ESTÉN FACULTADAS EN CADA CASO, A TRAVÉS DE LOS SERVIDORES PÚBLICOS QUE CADA INSTITUCIÓN DESIGNE, POR LO QUE EL PÚBLICO NO TENDRÁ ACCESO A LA INFORMACIÓN QUE EN ELLOS SE CONTENGA.
+Se clasifica como reservada la información contenida en todas y cada una de las Bases de Datos del Sistema Nacional de Información, así como los Registros Nacionales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas u órdenes de protección para las mujeres, adolescentes, niñas y niños, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados y las demás necesarias para la operación del Sistema.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
@@ -2098,11 +2136,21 @@ III. La suspensión condicional, el proceso aprobado por el juez de control, esp
 
 IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
 
-### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VII. Del Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 127 Ter.
+
+Las autoridades competentes de la Federación, de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, mantendrán permanentemente actualizada la Base de Datos del Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños. Estas Bases de Datos formarán parte del Sistema Nacional de Información y su acceso y consulta estará garantizado para las autoridades competentes con el objeto de dar cumplimiento a los objetivos y obligaciones establecidas en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+El Registro se articula con los datos e información que se genera e integra a partir de las medidas u órdenes de protección dictadas, implementadas o ejecutadas, previstas en el Código Nacional de Procedimientos Penales y en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia que permitirá a las autoridades competentes verificar la trazabilidad, cumplimiento y seguimiento de las medidas u órdenes de protección otorgadas, sus modificaciones, su conclusión o cese; así como facilitar la coordinación y colaboración entre las distintas autoridades de los tres órdenes de gobierno a efecto de garantizar la continuidad, efectividad y no interrupción de la medida otorgada, con independencia del lugar en que se encuentre la persona protegida y garantizar el derecho de las mujeres, las adolescentes, niñas y niños a una vida libre de violencias.
 
 ## TÍTULO OCTAVO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
 
 ###### Artículo 128.
 
@@ -2168,25 +2216,23 @@ Los resultados de los estudios deberán ser entregados a las Instituciones de Se
 
 El Centro Nacional de Información deberá proporcionar la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana. No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 134.
 
-Las legislaciones de la Federación y de las entidades federativas establecerán políticas públicas de atención a la víctima, que deberán prever, al menos, los siguientes rubros:
+Las legislaciones de las entidades federativas establecerán políticas públicas de atención a las víctimas, que prevean al menos, los siguientes rubros:
 
-I. Atención de la denuncia en forma pronta y expedita;
+I. Atención de la denuncia en forma pronta y expedita, con enfoque en las necesidades, dignidad de las personas, perspectivas de género, interés superior de la niñez, interculturalidad e interseccionalidad, entre otras. Para tal efecto se establecerán diversos canales y mecanismos de recepción, atención, seguimiento y resolución de casos;
 
-II. Atención jurídica, médica y psicológica especializada;
+II. Atención jurídica, médica y psicológica especializadas;
 
-III. Medidas de protección a la víctima, y
+III. Medidas u órdenes de protección a la víctima. Tratándose de delitos relacionados con las violencias en contra de las mujeres deberá estarse a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y
 
-IV. Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+IV. Otras, en términos de los artículos 4o., 20 y 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO II. De los Delitos contra el funcionamiento del Sistema Nacional de Seguridad Pública
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 135.
 
@@ -2204,7 +2250,9 @@ Las responsabilidades administrativas, civiles y penales en que incurran los ser
 
 La Auditoría Superior de la Federación fiscalizará los recursos federales que ejerzan la Federación, las entidades federativas y los Municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables.
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO II. De los Delitos contra el funcionamiento del Sistema Nacional de Seguridad Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 138.
 
@@ -2246,7 +2294,7 @@ Las autoridades del fuero federal serán las competentes para conocer y sanciona
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS DE AYUDA FEDERAL
 
-### CAPÍTULO II. De la Cancelación y Suspensión de Ministración de los Recursos
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 142.
 
@@ -2275,6 +2323,8 @@ II. Efectuar, en cualquier momento, visitas de verificación y revisiones de gab
 III. Las demás acciones que resulten necesarias para la consecución de lo dispuesto en este artículo.
 
 De manera supletoria a lo previsto en este artículo se aplicará la Ley Federal de Procedimiento Administrativo y el Código Civil Federal.
+
+### CAPÍTULO II. De la Cancelación y Suspensión de Ministración de los Recursos
 
 ###### Artículo 144.
 
@@ -2649,3 +2699,15 @@ D.O.F. 25 DE ABRIL DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES Y DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, EN MATERIA DE MEDIDAS DE PROTECCIÓN Y DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá prever en el Presupuesto de Egresos las partidas suficientes y necesarias para la implementación del Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+
+Tercero.- Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+Cuarto.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto. Todas las referencias que se contengan en la Ley General del Sistema Nacional de Seguridad Pública a la coordinación o cualquiera otra acción entre la Federación, las entidades federativas y los municipios tendrán por incorporada a las demarcaciones territoriales de la Ciudad de México.
