@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2024-09-30"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -1078,9 +1078,11 @@ El salario debe ser remunerador y nunca menor al fijado como mínimo de acuerdo 
 
 En el salario por unidad de obra, la retribución que se pague será tal, que para un trabajo normal, en una jornada de ocho horas, dé por resultado el monto del salario mínimo, por lo menos.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 86.
 
-A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual.
+A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual; en cumplimiento de las obligaciones del Estado de reducir la brecha salarial de género se promoverán acciones para erradicar las prácticas retributivas desiguales de conformidad con lo dispuesto en la Ley General para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 87.
 
@@ -16379,3 +16381,11 @@ D.O.F. 30 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 74 DE LA LEY FEDERAL DEL TRABAJO, PARA ESTABLECER EL 1o. DE OCTUBRE DE CADA SEIS AÑOS, DÍA DE DESCANSO OBLIGATORIO CON MOTIVO DE LA TRANSMISIÓN DEL PODER EJECUTIVO FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL, EN MATERIA DE ERRADICACIÓN DE LA BRECHA SALARIAL POR RAZONES DE GÉNERO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
