@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-12-02"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -313,9 +313,11 @@ La familia y la sociedad asegurarán el cumplimiento de este principio de manera
 
 Las leyes del Estado de Aguascalientes deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral pleno.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 8°.
 
-Las autoridades del Estado de Aguascalientes y las de sus Municipios, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de los derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
+Las autoridades del Estado de Aguascalientes y las de sus Municipios, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de los derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley, pudiendo hacer uso de las tecnologías de la información y de la comunicación para lograr mayor alcance en la difusión de estos derechos.
 
 ###### Artículo 9°.
 
@@ -3268,6 +3270,14 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 P.O. 2 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 29.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 16 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 38.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
