@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2024-10-03"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -104,19 +104,21 @@ X. Cultura física: Sistema de categorías desprendidas de la actividad motriz d
 
 XI. Liga: Organismo deportivo que tiene como finalidad agrupar, coordinar y estimular la formación de equipos para la práctica de una disciplina, independientemente de la denominación que adopte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ABRIL DE 2022)</small>
+> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 2024)</small>
+
+XII. Autocuidados: La capacidad de las personas, las familias y las comunidades para promover la salud, prevenir las enfermedades, mantener la salud y hacer frente a las enfermedades y discapacidades con o sin el apoyo de un profesional de la salud.
+
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 3.
 
-La función social del deporte y la educación física es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud física y mental, así como la prevención de enfermedades.
+La función social del deporte y la educación física es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular el autocuidado, la actividad y recreación física como medios importantes para la preservación de la salud física y mental, así como la prevención de enfermedades.
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
-
-Los titulares de las oficinas de dependencias de la Administración Pública local, tendrán la obligación de fomentar la práctica de actividades físicas o deportivas entre sus trabajadores; se promoverán, de acuerdo a las características de cada área y oficina, programas de activación física en donde se dediquen al menos 20 minutos de la jornada laboral para estas actividades.
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 4.
 
-La Función Educativa del Deporte debe implicar además de la enseñanza de técnicas y el desarrollo de las cualidades físicas de los alumnos, la transmisión de hábitos, valores y actitudes.
+La Función Educativa del Deporte debe implicar además de la enseñanza de técnicas y desarrollo de cualidades físicas de los alumnos, la adopción de hábitos, valores y actitudes, que promuevan el autocuidado.
 
 > <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
 
@@ -366,7 +368,9 @@ II.- Establecer el procedimiento de coordinación en materia deportiva con los �
 
 III.- En lo referente al deporte adaptado, así como en el deporte para las personas mayores dará opinión, para que se efectúen las adecuaciones necesarias a la infraestructura deportiva, las cuales serán tomadas en cuenta en toda instalación deportiva que se construya y/o se remodele;
 
-IV.- Promover la participación y conjunción de esfuerzos en materia deportiva entre los sectores público, social y privado;
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2024)</small>
+
+IV.- Promover la participación y conjunción de esfuerzos en materia deportiva, señalando su relación con los autocuidados entre los sectores público, social y privado;
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2021)</small>
 
@@ -696,9 +700,9 @@ Los Comités Deportivos de los Órganos Político-Administrativos de cada una de
 
 I.- Ejecutar los planes y programas en materia deportiva y recreativa que apruebe el Instituto del Deporte;
 
-> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2024)</small>
 
-II.- Difundir, promover y fomentar el deporte entre todos los sectores y habitantes de la Demarcación Territorial;
+II.- Difundir, promover y fomentar el deporte señalando su relación con los autocuidados entre todos los sectores y habitantes de la Demarcación Territorial;
 
 III.- Promover la creación, mantenimiento y preservación de instalaciones y espacios deportivos;
 
@@ -914,11 +918,11 @@ Se establecerán, igualmente acciones que permitan generar y difundir la cultura
 
 Se promoverán programas de fomento deportivo y recreativo, para la participación incluyente de grupos de atención prioritaria y sus intersecciones, en especial para las personas mayores, personas con discapacidad y personas que se encuentran en zonas de alta marginación.
 
-> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-La cultura del deporte en la Ciudad de México se asociará a la participación social, a la libre y respetuosa manifestación de las ideas y a la conveniencia del compromiso colectivo.
+La cultura del deporte en la Ciudad de México se asociará a la participación social, el autocuidado, a la libre y respetuosa manifestación de las ideas y a la conveniencia del compromiso colectivo.
 
 ### CAPÍTULO DUODÉCIMO
 
@@ -1303,3 +1307,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Gobierno de la Ciudad por conducto de la Secretaría de Finanzas, deberá realizar las previsiones presupuestales correspondientes para dar cumplimiento al presente Decreto.
 
 CUARTO. La persona titular de la Jefatura de Gobierno, por conducto del Instituto del Deporte de la Ciudad de México, en un término que no exceda de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir los lineamientos correspondientes para dar cumplimiento al presente Decreto.
+
+G.O. 17 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO, EN MATERIA DE AUTOCUIDADOS, PREVENCIÓN DE ENFERMEDADES Y GENERACIÓN DE BIENESTAR”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
