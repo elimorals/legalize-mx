@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-167794"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-11"
-last_updated: "2023-12-28"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Número 46 de la Gaceta de Gobierno del Estado de México, el lunes 11 de septiembre de 2023.
 
@@ -137,7 +137,9 @@ La persona titular del Poder Ejecutivo del Estado contará con el apoyo de las u
 
 Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 64 de esta Ley, deberán conducir sus actividades bajo el principio de igualdad de género, en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
 
-Asimismo, vigilarán que sus planes, programas y acciones, sean realizados de manera incluyente y con perspectiva de género y crearán Unidades de Igualdad de Género y Erradicación de la Violencia, adscritas orgánicamente a la persona titular de la dependencia u organismo auxiliar correspondiente.
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, vigilarán que sus planes, programas y acciones, sean realizados de manera incluyente y con perspectiva de género, y crearán Unidades de Igualdad de Género y Erradicación de la Violencia, para la incorporación de la perspectiva de género en la planeación, organización, ejecución y evaluación de las políticas públicas al interior de la administración pública estatal. Dichas Unidades estarán adscritas orgánicamente a la persona titular de la dependencia u organismo auxiliar correspondiente y contarán con los recursos financieros, materiales, presupuestales y humanos autorizados para llevar a cabo sus funciones.
 
 De igual forma, deberán implementar un programa permanente, coordinado y continuo de Mejora Regulatoria y Gobierno Digital, conforme a las reglas que establecen las leyes y demás disposiciones de dichas materias.
 
@@ -1882,3 +1884,17 @@ SEXTO.- Lo previsto en las Secciones Novena denominada “Del Impuesto Ecológic
 SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
 
 OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
+
+G.G. 17 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 25.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 34 BIS Y LA FRACCIÓN I DEL ARTÍCULO 34 TER DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes Legislativo y Judicial, los organismos autónomos y los municipios deberán realizar las adecuaciones que correspondan con el objeto de integrar las Unidades de Género y Erradicación de la Violencia conforme a lo dispuesto en el presente Decreto y con base a la suficiencia presupuestal correspondiente.
+
+CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
