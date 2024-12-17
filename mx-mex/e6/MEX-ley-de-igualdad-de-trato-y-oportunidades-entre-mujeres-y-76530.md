@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2024-04-05"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -563,11 +563,11 @@ XI. Establecer medidas educativas destinadas al reconocimiento y enseñanzas del
 
 ### CAPÍTULO NOVENO BIS. DE LAS UNIDADES DE IGUALDAD DE GÉNERO Y ERRADICACIÓN DE LA VIOLENCIA
 
-> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 34 Bis.
 
-Las dependencias del Ejecutivo, sus organismos auxiliares, los Poderes Legislativo y Judicial, organismos autónomos y municipios crearán Unidades de Igualdad de Género y Erradicación de la Violencia, mediante criterios transversales, que tengan por objeto implementar e institucionalizar la perspectiva de género y fungir como órgano de consulta y asesoría en la instancia correspondiente.
+Las Dependencias del Ejecutivo, sus organismos auxiliares, los Poderes Legislativo y Judicial, organismos autónomos y municipios crearán Unidades de Igualdad de Género y Erradicación de la Violencia, mediante criterios transversales, que tengan por objeto planear, organizar, ejecutar y evaluar las políticas institucionales, programas y proyectos en materia de igualdad de género y erradicación de la violencia, así como la implementación de acciones afirmativas, además de fungir como órgano de consulta y asesoría en la instancia correspondiente.
 
 > <small>(ADICIONADO, G.G. 10 DE MAYO DE 2018)</small>
 
@@ -575,7 +575,9 @@ Las dependencias del Ejecutivo, sus organismos auxiliares, los Poderes Legislati
 
 Son atribuciones de las Unidades de Igualdad de Género y Erradicación de la Violencia, las siguientes:
 
-I. Promover y vigilar que sus planes, programas y acciones sean realizados con perspectiva de género;
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2024)</small>
+
+I. Promover y vigilar que sus planes, programas y acciones sean realizados con perspectiva de género, conforme a lo establecido en el Programa Integral y el Programa de Cultura Institucional para la Igualdad entre Mujeres y Hombres;
 
 II. Generar acciones con perspectiva de género que garanticen el acceso de las mujeres a una vida libre de violencia, promuevan la igualdad, el empoderamiento de las mujeres, el respeto a los derechos humanos y la eliminación de la discriminación;
 
@@ -846,3 +848,17 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 25.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 34 BIS Y LA FRACCIÓN I DEL ARTÍCULO 34 TER DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes Legislativo y Judicial, los organismos autónomos y los municipios deberán realizar las adecuaciones que correspondan con el objeto de integrar las Unidades de Género y Erradicación de la Violencia conforme a lo dispuesto en el presente Decreto y con base a la suficiencia presupuestal correspondiente.
+
+CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
