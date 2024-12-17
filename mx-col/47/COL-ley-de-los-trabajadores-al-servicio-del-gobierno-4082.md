@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2023-03-11"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -627,9 +627,11 @@ Se prohibe la imposición de multas a los trabajadores en su centro de trabajo, 
 
 El pago de sueldos será preferente a cualquiera otra erogación de las Entidades públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 67.
 
-Los trabajadores tendrán derecho a un aguinaldo anual, que estará comprendido en el presupuesto de egresos, equivalente por lo menos a cuarenta y cinco días de sueldo, mismo que deberá pagarse en una sola exhibición antes del diecinueve de diciembre de cada año. El pago de aguinaldo no estará sujeto a deducción impositiva alguna.
+Los trabajadores tendrán derecho a un aguinaldo anual, que estará comprendido en el presupuesto de egresos, equivalente por lo menos a cuarenta y cinco días de sueldo, mismo que deberá pagarse en una sola exhibición antes del diecinueve de diciembre de cada año. La prestación del aguinaldo se sujetará en materia impositiva a lo que determinen las leyes fiscales aplicables.
 
 Los trabajadores que no hayan cumplido un año de labores, tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
 
@@ -2096,3 +2098,9 @@ SEGUNDO.- Los entes patronales señalados en esta Ley de los Trabajadores al Ser
 TERCERO.- Los entes patronales que, en su caso, no establezcan para el ejercicio fiscal 2023 una partida presupuestal para brindar el servicio de guardería, deberán realizar los ajustes presupuestales a fin de garantizar dicho derecho.
 
 CUARTO.- El servicio de guardería que presten los entes patronales señalados en esta Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, deberán observar y cumplir en todo momento lo establecido en la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Colima.
+
+P.O. 17 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 50.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 67 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
