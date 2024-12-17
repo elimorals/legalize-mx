@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-de-la-ciudad-de-mexico-137538"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2022-10-27"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137538&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-12"
 
 LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 154 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 12 de agosto de 2019.
 
@@ -1116,9 +1116,11 @@ Las personas integrantes de las Comisiones de Participación Comunitaria no son 
 
 La participación del Instituto Electoral en el proceso electivo se limita a la colaboración institucional para darles certeza y legalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 96.
 
-Las Comisiones de Participación Comunitaria serán electas cada tres años en una Jornada Electiva Única a realizarse el primer domingo de mayo, misma fecha prevista para la respectiva Consulta Ciudadana sobre Presupuesto Participativo.
+Las Comisiones de Participación Comunitaria serán electas cada tres años en una Jornada Electiva Única a realizarse el primer domingo de mayo, misma fecha prevista para la respectiva Consulta Ciudadana sobre Presupuesto Participativo, con excepción de celebración de procesos electorales extraordinarios en el que se elijan cargos de elección popular federal o local, causa fortuita o fuerza mayor, por lo que en estos supuestos el Congreso de la Ciudad de México determinará la fecha de la jornada electiva.
 
 Las Comisiones de Participación Comunitaria tendrán una duración de tres años. El proceso electivo iniciará con la instalación del Consejo General del Instituto Electoral y la emisión de la convocatoria respectiva, en la primera quincena de enero.
 
@@ -1392,6 +1394,8 @@ La ciudadanía, a través del Comité de Ejecución, tiene la obligación de eje
 
 Las alcaldías pueden destinar un presupuesto mayor al asignado a través del índice de asignación de recursos mencionado anteriormente. En ningún caso el ejercicio de los proyectos o acciones financiados por el presupuesto participativo deberá depender de la asignación de recursos adicionales.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 17 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 120.
 
 El proceso para el presupuesto participativo será de la siguiente manera:
@@ -1412,7 +1416,9 @@ g) Ejecución de proyectos: La ejecución de los proyectos seleccionados en cada
 
 h) Asambleas de Evaluación y Rendición de Cuentas: En cada Unidad Territorial se convocará a tantas Asambleas Ciudadanas como sea necesario, a fin de que sean dados a conocer de manera puntual informes de avance del proyecto y ejecución del gasto.
 
-De conformidad con lo previsto en el artículo 25, apartado F, numeral 2 de la Constitución de la Ciudad, en el año en que se realice la elección de autoridades constitucionales no podrá realizarse la elección de Comisiones de Participación Comunitaria ni la consulta en materia de presupuesto participativo. En dicho supuesto, en la consulta de presupuesto participativo del año previo a la elección constitucional, se decidirán los proyectos para el año en curso y para el año posterior. El proyecto más votado será ejecutado en el año en que tenga lugar la consulta y el segundo lugar se ejecutará el año siguiente
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2024)</small>
+
+De conformidad con lo previsto en el artículo 25, apartado F, numeral 2 de la Constitución de la Ciudad, en el año en que se realice la elección ordinaria de autoridades constitucionales no podrá realizarse la elección de Comisiones de Participación Comunitaria ni la consulta en materia de presupuesto participativo. En dicho supuesto, en la consulta de presupuesto participativo del año previo a la elección constitucional, se decidirán los proyectos para el año en curso y para el año posterior. El proyecto más votado será ejecutado en el año en que tenga lugar la consulta y el segundo lugar se ejecutará el año siguiente
 
 Asimismo, en los años en que la consulta en materia de presupuesto participativo coincida con la elección de las Comisiones de Participación Comunitaria, el Instituto Electoral emitirá una Convocatoria para participar en ambos instrumentos en una Jornada Electiva Única, en la que la ciudadanía emitirá su voto y opinión, respectivamente. En materia de presupuesto participativo se decidirán los proyectos para el año en curso y para el año posterior. El proyecto más votado será ejecutado en el año en que tenga lugar la consulta y el segundo lugar se ejecutará el año siguiente.
 
@@ -2367,3 +2373,15 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO.- Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México;
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 17 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTICULO 96 Y 120 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Para el ejercicio fiscal 2025, la consulta ciudadana de Presupuesto Participativo se realizará el tercer domingo de agosto de 2025.
+
+TERCERO. Para garantizar la eficiencia y eficacia de la organización y celebración de la consulta ciudadana en materia de Presupuesto Participativo 2025, salvaguardando en todo momento los derechos políticos y de participación de la ciudadanía consagrados en las leyes aplicables, el Instituto Electoral de la Ciudad de México, ajustará y determinará las fechas, modalidades, etapas y procesos para que la consulta se realice en la fecha establecida en el segundo transitorio, con excepción de la publicación de la convocatoria, la cual deberá cumplir con lo señalado en el artículo 120, inciso a) de esta Ley.
+
+CUARTO. Para garantizar la eficiencia y eficacia de la organización y celebración de la consulta ciudadana en materia de Presupuesto Participativo 2025, salvaguardando en todo momento los derechos políticos y de participación de la ciudadanía consagrados en las leyes aplicables, la Secretaría de Administración y Finanzas de la Ciudad de México emitirá la Guía Operativa para la Ejecución de los Recursos ajustando sus tiempos a lo establecido en el Segundo Transitorio del Presente Decreto.
