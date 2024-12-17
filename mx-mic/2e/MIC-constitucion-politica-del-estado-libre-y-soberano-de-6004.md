@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2024-12-13"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -93,85 +93,165 @@ La movilidad es el derecho humano a trasladarse y a disponer de un sistema de mo
 
 Artículo 2° bis.- En el Estado de Michoacán de Ocampo, las personas tienen derecho al disfrute pleno de la ciudad, de sus espacios públicos, bajo los principios de sustentabilidad, justicia social, respeto a la diversidad cultural y equilibrio entre lo urbano y lo rural. El ejercicio del derecho a la ciudad se basa en la gestión democrática de ésta, en la función social, ambiental de la propiedad y de la distribución equitativa de bienes públicos de la ciudad.
 
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, EXCEPTUANDO LOS PÁRRAFOS SEGUNDO Y TERCERO, REFORMADOS EL 25 DE JUNIO DE 2014. DICHA INVALIDEZ SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 3°.
 
-El Estado de Michoacán tiene una composición multicultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas.
+El Estado de Michoacán tiene una composición pluricultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Se reconoce la existencia de los pueblos indígenas, originarios, p'urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia.
+Se reconoce la existencia de los pueblos indígenas, originarios, P’urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno y, en consecuencia, el derecho a elegir en los municipios con población indígena, representantes ante los Ayuntamientos, o a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad, en los términos de la ley de la materia.
+Ninguno de los derechos previstos en esta Constitución o en la legislación local, podrá ser invocado para conculcar otras prerrogativas obtenidas por los pueblos y comunidades indígenas del país en otras normas y/o resoluciones.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+Esta Constitución reconoce la composición pluricultural del Estado y en consecuencia, la demodiversidad materializada en los diferentes sistemas, principios, normas, instituciones, prácticas democráticas y de gobierno de los pueblos y de las comunidades indígenas del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 La conciencia de identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. En la aplicación serán considerados los principios de autoidentidad y autoadscripción.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía en sus ámbitos comunal, regional y como pueblo indígena.
+El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía y autogobierno en sus ámbitos comunal, municipal, regional y como pueblo indígena.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-El Estado reconoce a los pueblos y comunidades indígenas como personas morales, con personalidad jurídica y patrimonio propio, para ejercer derechos y contraer obligaciones.
+El Estado reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 Los pueblos y las comunidades indígenas tendrán los derechos siguientes:
 
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
 I. A decidir y ejercer sus formas internas de gobierno, sus propios sistemas de participación, elección y organización social, económica, política y cultural, a través de las diversas formas y ámbitos de autonomía comunal, regional y como pueblo indígena;
 
-II. A la libre asociación y coordinación de sus acciones y aspiraciones como comunidades, regiones y pueblos indígenas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+II. A decidir y ejercer sus formas de autogobierno indígena;
+
+Se reconocen como dimensiones mínimas del derecho al autogobierno indígena, las siguientes:
+
+a) La elección por sistemas normativos o usos y costumbres de sus autoridades y Gobiernos Comunales;
+
+b) La integración de los Gobiernos Comunales, como manifestación de las formas de gobierno y organización políticas propias de las comunidades;
+
+c) La administración directa del presupuesto y el ejercicio de funciones de gobierno por parte de comunidades indígenas con carácter de tenencias y encargaturas del orden independientes, de conformidad con lo señalado en la Ley; y,
+
+d) Contar con representación dentro de los ayuntamientos que cuenten con población indígena privilegiando para tal efecto los sistemas normativos o usos y costumbres de las comunidades y observando el principio de paridad de género conforme a las normas aplicables.
+
+El Estado garantiza el derecho de las mujeres indígenas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud y demás derechos humanos.
+
+Se reconoce al Concejo Mayor de Gobierno Comunal de Cherán, así como aquellos que logren dicha categoría, a los Concejos Comunales, a los Concejos de Autogobierno y a la Coordinación Comunal como expresiones de Gobierno Comunal y autoridades representativas investidas de personalidad jurídica y patrimonio propio. La máxima autoridad al interior de las comunidades bajo el régimen del autogobierno indígena en el Estado de Michoacán es la Asamblea General de Habitantes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+I. Bis. Las faenas y servicios comunales son reconocidas por esta constitución como una institución, un valor y una práctica de fundamental importancia para la vida de las comunidades indígenas y para la demodiversidad de Michoacán. Las faenas derivadas de acuerdos de asambleas y en favor del beneficio general de las comunidades serán consideradas como contribuciones a la hacienda municipal y estatal, sin que la práctica de éstas excluyan o sustituyan de algún modo la responsabilidad de los gobiernos estatal y municipal de asignar las partidas necesarias para garantizar el desarrollo de los pueblos indígenas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+II (SIC). A la libre asociación y coordinación de sus acciones y aspiraciones como comunidades, regiones y pueblos indígenas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 III. A participar en la integración plural en los órganos y entidades de gobierno estatal y municipal;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-IV. A elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables;
+IV. A la seguridad, en tanto derecho humano garantizado por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales, y especialmente a la seguridad comunal entendida como un conjunto de principios, instituciones, autoridades, procedimientos y prácticas que tienen como objetivo principal salvaguardar a la comunidad indígena como unidad integral; a las personas que en ella habitan, a los territorios donde se asientan, a los valores, culturas, idiomas y conocimientos.
+
+Esta Constitución reconoce a las kuarichas, a las K’uajpirichas, a las guardias comunales y a los rondines comunales en comunidades indígenas, integrados conforme a los sistemas normativos o usos y costumbres y a la legislación aplicable federal y estatal en materia de seguridad, como instituciones de la seguridad comunal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 V. A la consulta y a los mecanismos de participación ciudadana previstos en esta Constitución, cuando se prevean ejecutar acciones y medidas administrativas o legislativas que los afecten;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
 VI. A la aplicación de sus sistemas normativos para la regulación y solución de sus conflictos en la jurisdicción interna, respetando la interpretación intercultural de los derechos humanos y los principios generales de esta Constitución. La ley establecerá los casos y procedimientos de validación por los jueces y tribunales correspondientes;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 VII. Al acceso a la procuración e impartición de justicia en su propia lengua; en los juicios y procedimientos en que sean parte de forma individual o colectiva, se considerarán durante todo el proceso y en las resoluciones, sus sistemas normativos y especificidades culturales; serán asistidos preferentemente con defensores, y con traductores intérpretes en lenguas, culturas y sistemas normativos indígenas;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
 VIII. Al acceso, uso, disfrute, protección y conservación de sus tierras, territorios, recursos naturales y biodiversidad, conforme a las formas y modalidades de propiedad y tenencia de la tierra;
 
-IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. El Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. El Gobierno del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 X. A preservar, desarrollar, controlar, difundir y promover su patrimonio cultural tangible e intangible. La ley reglamentaria y las autoridades indígenas establecerán las medidas que permitan proteger la titularidad de los derechos sobre el patrimonio de los pueblos indígenas;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
 XI. Al ejercicio, fortalecimiento y desarrollo de la medicina tradicional e indígena; y a los sistemas de salud comunitaria;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 XII. Al reconocimiento, uso, rescate, preservación, fortalecimiento y difusión de las lenguas indígenas. El Estado y los pueblos indígenas fomentarán las políticas públicas y creación de instancias para el estudio y desarrollo de las lenguas originarias;
 
-XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. El Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas siempre acorde con lo establecido en la Constitución Federal y las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. El Gobierno del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 XV. Al desarrollo local con identidad cultural y territorial, a partir de modelos propios de economía, en los ámbitos comunal y regional, que de forma coordinada se implementen con los diferentes órdenes de gobierno;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
 XVI. A la participación y consulta en la elaboración del Plan Estatal de Desarrollo y en los Planes de Desarrollo Municipales, incorporando las recomendaciones y propuestas que se realicen en los presupuestos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 XVII. Al reconocimiento y protección de derechos de las mujeres indígenas, a través de normas, políticas y acciones que garanticen su desarrollo y la igualdad de oportunidades en los ámbitos económico, social, cultural, político, educativo, civil y agrario; considerando la especificidad cultural comunitaria y promoviendo su participación ciudadana;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
 XVIII. A la protección de derechos de los migrantes indígenas, mediante normas, políticas y acciones que garanticen el desarrollo de las personas, familias y comunidades migrantes. Los migrantes indígenas de otras entidades federativas, que residan temporal o permanentemente en el Estado, gozarán de los mismos derechos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 XIX. A que la normatividad en la materia, procure asegurar el acceso a la representación política de los pueblos y comunidades indígenas en los cargos de elección y representación popular;
 
-XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular; y,
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-XXI. El Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas;
+XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular;
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+XXI. El Gobierno del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+XXII. A que los Ayuntamientos respectivos, sesionen y emitan el Acuerdo de cabildo correspondiente en aquellos casos en los que las comunidades indígenas decidan ejercer su derecho al autogobierno y administrar directamente el presupuesto público, conforme a lo señalado en la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+El presupuesto anual del Gobierno del Estado relativo a programas establecidos de infraestructura social, educativa e hídrica deberá contemplar presupuesto para ser administrado por las comunidades indígenas de autogobierno y presupuesto directo, con base en los criterios poblacional, compensatorios, equitativos, justos y proporcionales, en los términos de las leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, el presupuesto anual deberá de contemplar dentro de los programas de seguridad pública estatal un rubro en seguridad pública para garantizar sus prácticas de seguridad comunal, el cual deberá ser administrado directamente por el Gobierno Comunal de Autogobierno en términos de la legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 Las leyes correspondientes fijarán los medios, formas y términos para garantizar el ejercicio de los derechos de los pueblos y comunidades indígenas establecidos en esta Constitución.
 
@@ -357,6 +437,14 @@ Esta Constitución garantiza que los ciudadanos con discapacidad ejerzan plename
 
 Asimismo, se garantiza el derecho al voto de los michoacanos que radican en el extranjero, en los términos que establezca la Ley.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En las comunidades indígenas que hayan decidido, mediante las leyes correspondientes, hacer ejercicio de su derecho al autogobierno indígena para elegir a sus autoridades por sistema normativo o usos y costumbres, los partidos políticos, sus dirigentes, militantes o simpatizantes, así como sus diputados locales, presidentes municipales, síndicos o regidores, deberán abstenerse de realizar cualquier acción u omisión que ponga en riesgo tal decisión comunal. Cualquier acción que contradiga esta disposición deberá ser considerada como violatoria de los derechos humanos de los pueblos y comunidades indígenas de Michoacán, por lo que será sancionada administrativa o penalmente conforme a la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+De la misma forma, reconoce, protege y promueve la demodiversidad derivada de la pluriculturalidad del Estado y concretizada en los diferentes sistemas, principios, normas, instituciones y prácticas democráticas, de participación política y de gobierno de los pueblos y de las comunidades indígenas que se asientan en el Estado de Michoacán de Ocampo.
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPITULO II. Del Territorio del Estado
@@ -380,6 +468,10 @@ El Estado tendrá como base de su división territorial y de su organización po
 El Estado de Michoacán está conformado por los siguientes municipios: Acuitzio, Aguililla, Álvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Áporo, Aquila, Ario, Arteaga, Briseñas, Buenavista, Carácuaro, Coahuayana, Coalcomán, Coeneo, Cojumatlán, Contepec, Copándaro, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, Jiquilpan, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Lázaro Cárdenas, Los Reyes, Madero, Maravatío, Marcos Castellanos, Morelia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Peribán, Purépero, Puruándiro, Queréndaro, Quiroga, Sahuayo, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tingüindín, Tiquicheo, Tlalpujahua, Tlazazalca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro y Zitácuaro.
 
 Cada Municipio conservará la extensión y límites que le señale la legislación correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En caso de que un Municipio tenga comunidades indígenas y éstas decidan ejercer su derecho al autogobierno y administrar directamente el presupuesto, éstas serán responsables de las atribuciones que ejercía el Ayuntamiento del Municipio, a través de un Gobierno Comunal que será un cuarto orden de gobierno, en su territorio en el que se aplicarán sus sistemas normativos o usos y costumbres en términos de la ley correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -631,9 +723,13 @@ II.- A los Diputados;
 
 III.- Al Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-IV.- A los ayuntamientos; y,
+IV.- A los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+IV.- bis. A los Gobiernos Comunales; y,
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -1253,7 +1349,11 @@ VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de
 
 Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, contará con una Agencia de Coordinación de los Pueblos y Comunidades Indígenas en Michoacán, la cual estará encargada de coordinar los trabajos de las comunidades indígenas y los Gobiernos Comunales con las diversas dependencias y entidades de la administración pública estatal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 El Titular del Poder Ejecutivo del Estado, observará y garantizará el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de estado, así como en la integración de los organismos autónomos, descentralizados se observará el mismo principio.
 
@@ -2025,6 +2125,14 @@ Se consideran servidores públicos a los representantes de elección popular, a 
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de conflicto de intereses ante las autoridades competentes y en los términos que determine la ley.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+Los servidores públicos señalados en el presente artículo están obligados a atender directamente a los integrantes de los Gobiernos Comunales. Será motivo de sanción a dichos servidores públicos, cualquier intento de intervención en los procesos de consulta previa, libre e informada, así como la falta de cumplimiento en lo señalado en el presente párrafo, para lo cual se establecerá un procedimiento en la Ley de la materia, a efecto de sancionar las conductas por violaciones a derechos humanos de las comunidades indígenas del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+Los integrantes de los Ayuntamientos y Gobiernos Comunales deberán de atender, dar trámite y coadyuvar, en los términos de las leyes aplicables, las peticiones de las comunidades indígenas con carácter de tenencia para acceder al ejercicio del derecho al autogobierno indígena. En caso de no hacerlo serán sujetos a sanciones administrativas o penales, en términos de la legislación aplicable.
+
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 105.
@@ -2161,13 +2269,15 @@ El Estado adopta como base de su división territorial y de su organización pol
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que deberá residir en la cabecera que señala la Ley. La competencia que esta Constitución otorga al gobierno municipal se ejercerá de manera exclusiva por el Ayuntamiento y no habrá autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+En el caso de que la cabecera del municipio corresponda a una comunidad indígena; esta podrá gobernarse por un Gobierno Comunal, en función del derecho al autogobierno que esta Constitución reconoce y garantiza. El procedimiento para hacer esta transición deberá observar los preceptos de las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 113.
 
-El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
+El Ayuntamiento y en su caso el Gobierno Comunal tendrá personalidad jurídica para todos los efectos legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
 
@@ -2191,6 +2301,10 @@ La ley de la materia establecerá los mecanismos para que en los municipios con 
 
 Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En municipios donde la cabecera corresponda a una comunidad indígena, el Gobierno Comunal será integrado de conformidad al sistema normativo o usos y costumbres de la comunidad indígena cabecera. Su integración deberá observar desde una perspectiva intercultural la paridad de género. Los servicios prestados al Gobierno Comunal serán considerados como parte del trabajo y servicio comunal que prestan sus habitantes a sus poblaciones; esto es como una faena.
+
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
 ###### Artículo 115.
@@ -2209,13 +2323,15 @@ Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos electos 
 
 Los funcionarios antes mencionados, cuando teniendo el carácter de suplentes, hayan ejercido el cargo de propietarios, se les contabilizará como un período. Lo anterior, también será aplicable a las autoridades electas por los sistemas normativos y de gobierno interno de las comunidades indígenas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 117.
 
-Los ayuntamientos tendrán un período de ejercicio de tres años, con opción de elegirse por un periodo más. La elección de la totalidad de sus integrantes se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección.
+Los ayuntamientos y los Gobiernos Comunales establecidos en municipios donde la cabecera corresponda a una comunidad indígena tendrán un período de ejercicio de tres años, con opción de elegirse por un periodo más. La elección de la totalidad de sus integrantes se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección.
 
 Por cada Síndico y Regidor, se elegirá un suplente.
+
+El periodo de duración de los Gobiernos Comunales de aquellas comunidades indígenas que ejerzan el derecho al autogobierno, será determinado por la asamblea, y en ningún caso podrá durar más de 3 años.
 
 ###### Artículo 118.
 
@@ -2275,11 +2391,11 @@ Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por 
 
 Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad. El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 123.
 
-Son facultades y obligaciones de los ayuntamientos y de los concejos municipales:
+Son facultades y obligaciones de los ayuntamientos, de los concejos Municipales y de los Gobiernos Comunales:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2291,9 +2407,9 @@ II.- Administrar libremente su hacienda, la cual se formará de los rendimientos
 
 a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Los ayuntamientos podrán celebrar convenios con la Secretaría de Finanzas, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
+Los ayuntamientos y los Gobiernos Comunales podrán celebrar convenios con la Secretaría de Finanzas, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2305,9 +2421,13 @@ c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 No se establecerán exenciones o subsidios respecto de los incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos y los Gobiernos Comunales, o bien por quien ellos autoricen, conforme a la Ley. Esta atribución incluye la transferencia del presupuesto a las comunidades indígenas en los términos de las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En el caso de que una comunidad indígena decida ejercer su derecho al autogobierno y administrar directamente el presupuesto público conforme lo señalado en la Ley, el Ayuntamiento respectivo está obligado a sesionar para emitir el acuerdo de cabildo correspondiente. De no hacerlo en los tiempos establecidos, serán sujetos a sanciones administrativas o penales, en términos de la legislación aplicable.
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2317,9 +2437,9 @@ II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las c
 
 III.- Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio dentro de un plazo de treinta días naturales después de concluido el trimestre. La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado de Michoacán de Ocampo a más tardar el treinta y uno de marzo del año siguiente;
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Cada Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;
+Cada Ayuntamiento y Gobierno Comunal deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;
 
 > <small>(REFORMADA, P.O., 3 DE JULIO DE 2001)</small>
 
@@ -2355,23 +2475,27 @@ h) Seguridad pública, en los términos del artículo 21 de la Constitución Pol
 
 La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue de fuerza mayor o alteración grave del orden público. El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde éste resida habitual o transitoriamente; e
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En el caso de las Comunidades Indígenas con autogobierno, la seguridad comunal será brindada por los Gobiernos Comunales a sus poblaciones y tendrán el mando de las kuarichas, k’uajpirichas, guardias, rondas o rondines comunales de las comunidades indígenas, en términos de las normas generales federales y leyes estatales en materia de seguridad.
+
 i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2001)</small>
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones, o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto en las leyes federales y estatales.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Los municipios, previo acuerdo de sus ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse entre sí o con los de otras Entidades Federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; en este último caso, deberán contar con la aprobación del Congreso.
+Los municipios o comunidades indígenas con autogobierno, previo acuerdo de sus ayuntamientos o Gobiernos Comunales respectivamente y con sujeción a la Ley, podrán coordinarse y asociarse entre sí o con los de otras Entidades Federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; en este último caso, deberán contar con la aprobación del Congreso.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+Cuando a juicio del ayuntamiento o Gobierno Comunal respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-Las controversias que se susciten entre los ayuntamientos o entre éstos y el Gobierno del Estado, con motivo de los convenios que se celebren en materia de servicios públicos, se dirimirán conforme a lo que establezca la Ley.
+Las controversias que se susciten entre los ayuntamientos, los Gobiernos Comunales o entre éstos y el Gobierno del Estado, con motivo de los convenios que se celebren en materia de servicios públicos, se dirimirán conforme a lo que establezca la Ley.
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -2454,6 +2578,14 @@ XXIV.- Las demás que señalen las leyes.
 ###### Artículo 124.
 
 La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En las comunidades indígenas con carácter de tenencia o encargatura del orden independiente de que conforme a las leyes aplicables hayan determinado autogobernarse, la administración comunal estará a cargo de un Gobierno Comunal integrado y renovado conforme al sistema normativo o usos y costumbres de la comunidad en específico y en concordancia con un principio intercultural de paridad de género. Los servicios prestados al Gobierno Comunal serán considerados como parte del trabajo y servicio comunal que prestan sus habitantes a sus poblaciones, esto es, como una Faena. En ejercicio de su derecho al autogobierno indígena reconocido por esta Constitución contarán, al interior de su comunidad, con las mismas funciones que un gobierno municipal, con la misma personalidad jurídica y con la administración y ejercicio directo del presupuesto público que les corresponda.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+El porcentaje poblacional del municipio, junto a otros que compensen la marginación y pobreza, serán determinantes para establecer un criterio de dispersión de las participaciones, rubros y recursos económicos a las comunidades indígenas con carácter de tenencias o de encargaturas del orden independientes que se autogobiernen.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2571,7 +2703,9 @@ Habrá en el Estado, una Secretaría de Finanzas a quien corresponderá la recau
 
 La Auditoría Superior de Michoacán, como entidad de fiscalización dependiente del Congreso del Estado, tendrá autonomía técnica, de gestión y capacidad para que en el ejercicio de sus atribuciones decida sobre su organización interna, ejercicio de su presupuesto, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejan fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes, bajo los principios de legalidad, definitividad, imparcialidad y confiabilidad, en forma simultánea, anual, posterior, externa, independiente y autónoma.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos, de los Gobiernos Comunales y de todas las demás entidades públicas estatales y municipales que manejan fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes, bajo los principios de legalidad, definitividad, imparcialidad, interculturalidad y confiabilidad, en forma simultánea, anual, posterior, externa, independiente y autónoma.
 
 Sin perjuicio del principio de anualidad, la Auditoría Superior de Michoacán podrá solicitar y revisar de manera casuística y concreta, la información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que respectivamente la Auditoría Superior de Michoacán emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
@@ -2625,9 +2759,13 @@ VII. Imponer los medios de apremio que establezca la ley; y derivado de sus inve
 
 VIII. Presentar al Congreso del Estado el proyecto de plan anual de fiscalización;
 
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-IX. Emitir los lineamientos y procedimientos técnicos, que deberán observar las entidades fiscalizables, conforme a las leyes y normas que expida el Congreso; y,
+IX. Emitir los lineamientos y procedimientos técnicos, que deberán observar las entidades fiscalizables, conforme a las leyes y normas que expida el Congreso.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En el caso de los Gobiernos Comunales los lineamientos y procedimientos técnicos que se establezcan deberán respetar los mecanismos propios de rendición de cuentas de las comunidades indígenas y crear un modelo especifico de fiscalización que sea culturalmente adecuado y tome en cuenta sus realidades económicas; y,
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -2670,6 +2808,10 @@ Los poderes del Estado y demás sujetos de fiscalización facilitarán los auxil
 ###### Artículo 136.
 
 Los empleados que manejen fondos públicos otorgarán fianza en la forma que la ley señale.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+
+En el caso de los Gobiernos Comunales las leyes específicas establecerán un modelo de fianza que sea culturalmente adecuado y responda a la realidad socioeconómica de las comunidades indígenas.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2993,11 +3135,11 @@ II.- Que sea examinada por la Comisión respectiva del Congreso, la cual emitir�
 
 III.- Que el dictamen de adiciones o reformas se someta a discusión y se apruebe con el voto de la mayoría absoluta de los miembros del Congreso;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
 
-IV.- Que una vez aprobado en los términos de la fracción anterior, se someta a discusión y aprobación de la mayoría de los Ayuntamientos Municipales del Estado;
+IV.- Que una vez aprobado en los términos de la fracción anterior, se someta a discusión y aprobación de la mayoría de los Ayuntamientos Municipales y de los Gobiernos Comunales del Estado;
 
-Si transcurre un mes después de recibido el decreto por los Ayuntamientos, sin que remitan al Congreso el resultado de su votación, se entenderá que aceptan la adición o reforma; y
+Si transcurre un mes después de recibido el decreto por los Ayuntamientos y de los Gobiernos Comunales, sin que remitan al Congreso el resultado de su votación, se entenderá que aceptan la adicción (sic) o reforma; y,
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -4308,3 +4450,19 @@ SÉPTIMO. El Congreso del Estado tendrá un plazo de noventa días naturales a p
 OCTAVO. El Congreso del Estado deberá realizar las acciones necesarias para que se asigne dentro del Presupuesto de Egresos del Estado de Michoacán al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, los recursos que le correspondían al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, esto con el objeto de que se respete la autonomía constitucional de este organismo.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 252 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3°; 36 FRACCIÓN IV; 62; 113; 117; 123 PRIMER PÁRRAFO, SEGUNDO PÁRRAFO DEL INCISO A) Y PÁRRAFO TERCERO DEL INCISO C), PÁRRAFO SEGUNDO DE LA FRACCIÓN III Y PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL INCISO I); Y 133 SEGUNDO PÁRRAFO; 164 FRACCIÓN IV; Y, SE ADICIONAN UN PENÚLTIMO Y ÚLTIMO PÁRRAFO AL ARTÍCULO 13; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15; UNA FRACCIÓN IV BIS AL ARTÍCULO 36; UN PENÚLTIMO Y ÚLTIMO PÁRRAFO AL ARTÍCULO 104; UN SEGUNDO PÁRRAFO AL ARTÍCULO 112; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 114; UN ÚLTIMO PÁRRAFO AL INCISO C) DE LA FRACCIÓN II, UN TERCER PÁRRAFO AL INCISO H) DE LA FRACCIÓN V DEL ARTÍCULO 123; UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 124; UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 134 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 136, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado, la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Transcurrido el mes concedido a los Ayuntamientos y los Concejos Municipales, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+CUARTO. El Congreso del Estado tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes que correspondan para dar cumplimiento al mismo.
+
+QUINTO. A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán de destinar los recursos necesarios para su cumplimiento.
+
+SEXTO. El Ejecutivo del Estado, contará con un término no mayor a 180 días hábiles para la creación de la Agencia de Coordinación de los Pueblos y Comunidades Indígenas en Michoacán.
