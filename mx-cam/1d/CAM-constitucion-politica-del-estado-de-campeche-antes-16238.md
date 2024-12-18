@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-11-05"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -1591,7 +1591,9 @@ La función de Consejero Jurídico del Gobernador estará a cargo de la Dependen
 
 ARTICULO 76 BIS.- Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Sus servicios serán gratuitos, quedando, en consecuencia, prohibidas las costas judiciales. En ningún caso podrá producirse indefensión, por lo que, quienes acrediten insuficiencia de recursos para litigar serán asistidos por el Estado, quien tiene la responsabilidad del recto funcionamiento del derecho de acceso a la justicia.
 
-Para estos efectos y para los de la reparación del daño y pago de los perjuicios, la ley establecerá el Instituto de Acceso a la Justicia del Estado de Campeche, como organismo descentralizado de la Administración Pública Estatal que tendrá personalidad jurídica, autonomía técnica y financiera y formará su patrimonio con la partida presupuestal que se le asigne así como con los montos de las penas de multa que se hagan efectivas y con los productos de toda naturaleza provenientes de la extinción de dominio, de los decomisos dictados por las autoridades judiciales y de los bienes asegurados que hayan causado abandono en ajuste a la legislación local. De igual modo, la ley establecerá los términos y condiciones de la asistencia jurídica gratuita, en la que contribuirán subsidiariamente los integrantes de los colegios de abogados o de licenciados en derecho o de despachos jurídicos libres o agrupados por la ley o por particular convenio permanente, así como los integrantes del Colegio de Notarios del Estado de Campeche.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Para estos efectos y para los de la reparación del daño y pago de los perjuicios, la ley establecerá el Instituto de Acceso a la Justicia del Estado de Campeche, como organismo descentralizado de la Administración Pública Estatal que tendrá personalidad jurídica, autonomía técnica y financiera y formará su patrimonio con la partida presupuestal que se le asigne en cada ejercicio fiscal, destinando los recursos suficientes para la efectiva garantía de las y los beneficiarios de este organismo; dicha partida presupuestal deberá incrementarse en cada ejercicio fiscal de tal modo que se tenga la suficiencia financiera para el adecuado ejercicio de sus funciones y cumpliendo con el derecho fundamental de acceso a la justicia de las personas beneficiarias del Instituto, de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, así como con los Criterios de Política Económica emitidos por la Secretaría de Hacienda y Crédito Público. De igual modo, la ley establecerá los términos y condiciones de la asistencia jurídica gratuita, en la que contribuirán subsidiariamente los integrantes de los colegios de abogados o de licenciados en derecho o de despachos jurídicos libres o agrupados por la ley o por particular convenio permanente, así como los integrantes del Colegio de Notarios del Estado de Campeche.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE JULIO DE 2018)</small>
 
@@ -3580,3 +3582,13 @@ Las y los Magistrados Supernumerarios del H. Tribunal Superior de Justicia podr�
 En ningún caso, a la entrada en vigor del presente decreto, si alguna o algún Magistrado Supernumerario renuncia a su encargo, o concluye el periodo del mismo, se podrá hacer un nuevo nombramiento.
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan a lo contenido del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 22 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 76 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal deberá realizar todas las acciones que correspondan para garantizar el efectivo cumplimiento de lo dispuesto en el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
