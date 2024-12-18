@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2020-12-24"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -93,7 +93,9 @@ VI. Las demás que establezcan las leyes.
 
 Los notarios tendrán fe pública en lo que se refiere exclusivamente al ejercicio propio de sus funciones.
 
-## TITULO SEGUNDO. DE LOS NOTARIOS Y DE LA EXPEDICION DE SUS PATENTES
+> <small>(REFORMADA SU DEOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SEGUNDO. DE LA FUNCIÓN NOTARIAL Y DE LA EXPEDICIÓN DE SUS PATENTES
 
 ### CAPITULO I. DE LOS NOTARIOS
 
@@ -139,57 +141,73 @@ Cuando ocurra la renuncia, muerte, separación o suspensión definitiva del titu
 
 Si la vacante ocurre en una notaría que no cuente con adscrito, o si éste no llenare el requisito a que se refiere el párrafo que antecede, el titular del Poder Ejecutivo convocará a los aspirantes para sustituir a quien fue su titular, con sujeción al procedimiento previsto en el artículo anterior.
 
-### CAPITULO II. DE LOS REQUISITOS PARA SER ASPIRANTE AL NOTARIADO Y NOTARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LOS REQUISITOS PARA SER ASPIRANTE A LA FUNCIÓN NOTARIAL Y NOTARIAS O NOTARIOS TITULARES, Y ADSCRITOS
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 16.
 
-Para obtener la constancia de aspirante al notariado, el interesado deberá satisfacer los siguientes requisitos:
+Para obtener la constancia de aspirante a la función notarial, la persona interesada deberá cumplir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2020)</small>
+I. Ser ciudadana o ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos, y acreditar mediante información testimonial de dos vecinos recibida con audiencia del Ministerio Público, tener y haber tenido buena conducta;
+II. Tener una residencia efectiva en el Estado de dos años anteriores a la solicitud que realice para obtener la constancia de aspirante a la función notarial;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+III. Contar con título profesional de licenciatura en derecho, abogada o abogado, y cédula profesional, expedidos por autoridad o institución legalmente facultada para ello;
 
-II. Ser profesional del derecho, con título de Abogado o Licenciado en Derecho, que cuente con cédula profesional y acredite cuando menos tres años de práctica profesional, a partir de la fecha del examen de licenciatura;
+IV. Gozar de buena reputación personal y profesional;
 
-III. Comprobar que por lo menos durante dos años ininterrumpidos e inmediatamente anteriores a la solicitud del examen, haya realizado prácticas notariales bajo la dirección y responsabilidad de algún notario del Estado, o en su caso comprobar haber realizado estudios cuando menos a nivel especialidad de postgrado en derecho notarial en una institución de educación superior debidamente reconocida y contar con el diploma o título correspondiente registrado ante la autoridad competente, así como con la cédula de autorización respectiva.
+V. Presentar dos cartas de recomendación de un colegio o Asociación de abogados, o una institución académica que avale la conducta ética y profesional del aspirante.
 
-Para comprobar las prácticas notariales, el notario responsable dará aviso al inicio y término de las mismas, a la Dirección del Notariado y a la Secretaría del Consejo del Colegio de Notarios del Estado. La Dirección del Notariado deberá comprobar periódicamente, la realización efectiva de dichas prácticas;
+VI. No haber sido condenado o condenada por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de delitos contra el patrimonio, contra la fidelidad profesional, o contra la fe pública, no podrá acceder a la constancia de aspirante a la función notarial, cualquiera que haya sido la pena;
 
-IV. No haber sido condenado por sentencia ejecutoriada por delito intencional, y
+VII. No estar en alguno de los siguientes supuestos:
 
-V. Solicitar ante la Dirección del Notariado, el examen correspondiente y ser aprobado en el mismo.
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
+
+VIII. No haber sido inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+IX. Comprobar que cuenta con por lo menos 3 años de experiencia en el ejercicio profesional en el ámbito del derecho, preferentemente en áreas relacionadas con el derecho civil, mercantil o notarial; o comprobar haber realizado estudios cuando menos a nivel especialidad de postgrado en derecho notarial en una institución de educación superior debidamente reconocida, y contar con el título correspondiente registrado ante la autoridad competente, así como con la cédula de autorización respectiva;
+
+X. Acreditar las prácticas notariales, para lo cual la o el notario titular de la notaria en donde haya realizado las mismas, dará aviso al inicio y término de éstas a la Secretaría del Consejo del Colegio de Notarios del Estado; y a la Dirección del Notariado quien comprobará periódicamente la realización efectiva de dichas prácticas, y
+
+XI. Solicitar ante la Dirección del Notariado el examen correspondiente y aprobar el mismo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 17.
 
-Para obtener la patente de notario adscrito se requiere:
+Para obtener la patente de notario o notaria adscrita se requiere:
 
-I. Presentar la constancia de aspirante al notariado, expedida por el titular del Poder Ejecutivo del Estado;
+I. Acreditar y actualizar el cumplimiento de los requisitos previstos por el artículo 16 de esta Ley;
 
-II. No haber sido condenado por sentencia ejecutoriada por delito intencional que haya ameritado pena privativa de libertad;
+II. Presentar la constancia de aspirante a la función notarial, expedida por la o el titular del Poder Ejecutivo del Estado, y
 
-III. Gozar de buena reputación personal y profesional, y
+III. Acompañar la solicitud a que se refiere el párrafo segundo del artículo 11 de esta Ley.
 
-IV. Acompañar la solicitud a que se refiere el párrafo segundo del artículo 11 de esta Ley.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 18.
 
-Para obtener la patente de notario titular se requiere:
+Para obtener la patente de notario o notaria titular se requiere:
 
-I. Presentar la patente de aspirante al notariado, expedida por el titular del Poder Ejecutivo;
+I. Presentar la patente de aspirante de notario o notaria, expedida por la o el titular del Poder Ejecutivo del Estado;
 
-II. No haber sido condenado por sentencia ejecutoriada por delito intencional que haya ameritado pena privativa de libertad;
+II. Acreditar y actualizar el cumplimiento de los requisitos previstos por el artículo 16 de esta Ley, y
 
-III. Gozar de buena reputación personal y profesional, y
+III. Haber obtenido la calificación correspondiente en los términos del artículo 25, si no estuviere en el caso previsto por el primer párrafo del artículo 15 de esta Ley.
 
-IV. Haber obtenido la calificación correspondiente en los términos del artículo 25, si no estuviere en el caso previsto por el primer párrafo del artículo 15 de esta Ley.
-
-> <small>(F. DE E., P.O. 8 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 19.
 
-La Dirección del Notariado, personalmente o por correo certificado con acuse de recibo, notificará a los interesados en obtener el carácter de aspirante o la patente de notario titular, el día, hora y lugar para la celebración de los exámenes correspondientes.
+La Dirección del Notariado, personalmente o por correo certificado con acuse de recibo, notificará a las personas interesadas en obtener el carácter de aspirante a la función notarial o la patente de notario o notaria titular o adscrito, el día, hora y lugar para la celebración de los exámenes correspondientes.
 
 ### CAPITULO III. DE LOS EXAMENES DE ASPIRANTES Y DE OPOSICION, Y DEL OTORGAMIENTO DE LAS PATENTES RESPECTIVAS
 
@@ -1756,3 +1774,11 @@ P.O. 24 DE DICIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0026.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEGUNDO Y DE SU CAPÍTULO II, LOS ARTÍCULOS 16, 17, 18 Y 19, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
