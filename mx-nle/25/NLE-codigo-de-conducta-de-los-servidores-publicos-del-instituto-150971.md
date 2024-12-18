@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-del-instituto-150
 country: "mx"
 rank: "codigo"
 publication_date: "2021-09-01"
-last_updated: "2021-09-01"
+last_updated: "2024-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO DE INNOVACION Y TRANSFERENCIA DE TECNOLOGIA DE NUEVO LEON (I2T2)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO DE INNOVACION Y TRANSFERENCIA DE TECNOLOGIA DE NUEVO LEÓN (12T2)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en el No. 107 del Periódico Oficial del Estado de Nuevo León, el miércoles 1 de septiembre de 2021.
 
@@ -280,3 +282,15 @@ Así lo acuerda y firma en la Ciudad de Apodaca, Nuevo León siendo el 16 de ago
 EL C. DIRECTOR GENERAL DEL INSTITUTO DE INNOVACIÓN Y TRASFERENCIA DE TECNOLOGÍA DE NUEVO LEÓN.
 
 DR. JAIME PARÁDA AVILA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA DE NUEVO LEÓN".]
+
+PRIMERO. El presente Código de Conducta, entrara en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Conducta de los servidores públicos del Instituto de Innovación y Transferencia de Tecnología publicado en el periódico oficial el día 1 de septiembre del 2021.
+
+TERCERO. Las personas servidoras públicas del Instituto de Innovación y Transferencia de Tecnología, a la entrada en vigor del presente Código de Conducta, contarán con un plazo de 30 días hábiles para protestar y suscribir una carta compromiso en la que asentarán conocer, comprender y dar cumplimiento, tanto al presente Código de Conducta como al Código de Ética.
