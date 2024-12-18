@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2024-08-12"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -171,9 +171,7 @@ Toda persona tiene derecho a ser protegida por el Estado y sus Municipios ante d
 
 El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario y transversal, que propicien su inclusión en el ámbito político, social, económico y cultural de la Entidad.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
-
-Toda persona tiene derecho a un recurso sencillo, rápido y efectivo ante los juzgados o tribunales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por esta Constitución y las leyes, así como a desahogar cualquier acusación que se formule en su contra o para hacer valer sus derechos y obligaciones de orden civil, laboral, fiscal, administrativo o de cualquier otro carácter. En todo lo referente al acceso a la justicia deberá observarse la perspectiva de género.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -267,6 +265,24 @@ Las organizaciones civiles podrán participar en la realización de actividades 
 
 La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 7o.
+
+B.- Toda persona tiene derecho a que se le administre justicia por juzgados y tribunales que estarán expeditos para impartirla en los plazos y términos que fijen esta Constitución y las leyes.
+
+Toda persona tiene derecho a que existan juzgados y tribunales que sean integrados por personal calificado, profesional y con la capacidad técnica especializada requerida para resolver libre e imparcialmente, a fin de que sea solucionada cualquier acusación que se formule en su contra o para hacer valer sus derechos y obligaciones de orden civil, laboral, fiscal, administrativo o de cualquier otro carácter.
+
+Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+Toda persona tiene derecho a un recurso sencillo, rápido y efectivo ante los juzgados o tribunales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por esta Constitución y las leyes, así como a desahogar cualquier acusación que se formule en su contra o para hacer valer sus derechos y obligaciones de orden civil, laboral, fiscal, administrativo o de cualquier otro carácter. En todo lo referente al acceso a la justicia deberá observarse la perspectiva de género.
+
+Los tribunales y jueces deberán emitir sus resoluciones de manera pronta, completa e imparcial en un máximo de seis meses con las modalidades y excepciones que establezca la ley, salvo en los asuntos en materia penal, que atenderán a los plazos establecidos en la fracción VII, del apartado B, del artículo 20, (sic) la Constitución Política de los Estados Unidos Mexicanos.
+
+Si la resolución del asunto se excede de los plazos señalados en el párrafo anterior, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato, con la justificación de las razones de dicha demora, al Tribunal de Disciplina Judicial de Aguascalientes o, en su caso, dar vista al órgano interno de control tratándose del Tribunal de Justicia Administrativa.
+
+Los servicios de administración de justicia serán gratuitos y, en consecuencia, las costas judiciales estarán prohibidas.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ### CAPITULO SEGUNDO
@@ -333,6 +349,10 @@ I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio 
 
 II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridad de género; y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación;
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Cuando se trate de personas candidatas para el cargo de Titular de una Magistratura del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas juzgadoras del Poder Judicial del Estado de Aguascalientes, corresponderá a los Poderes del Estado remitir las postulaciones para esos cargos al Instituto Estatal Electoral, conforme lo establecido en el artículo 54 de esta Constitución y las leyes correspondientes.
+
 Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
@@ -389,11 +409,11 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas, libres auténticas y periódicas, a través del ejercicio del sufragio universal, libre, secreto, directo e intransferible.
+En el Estado la renovación de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos se verificará por medio de elecciones democráticas, libres auténticas y periódicas, a través del ejercicio del sufragio universal, libre, secreto, directo e intransferible.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
@@ -449,7 +469,13 @@ La Ley de la materia determinará la organización del Instituto Estatal Elector
 
 Los servidores públicos de los órganos ejecutivos y técnicos del Instituto Estatal Electoral formarán parte del Servicio Profesional Electoral Nacional.
 
-En todo caso, la duración de las campañas será de sesenta días para la elección de gobernador, de cuarenta y cinco días para la elección de diputados locales y de treinta a sesenta días para la elección de ayuntamientos en términos de lo que disponga la ley; las precampañas no podrán durar más de dos terceras partes de las respectivas campañas electorales.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+En todo caso, la duración de las campañas será de sesenta días para la elección de persona Titular del Poder Ejecutivo; de cuarenta y cinco días para personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes y para personas Diputadas locales; de treinta días para personas Juzgadoras del Poder Judicial del Estado; y de treinta a sesenta días para la elección de ayuntamientos, en términos de lo que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Las precampañas no podrán durar más de dos terceras partes de las respectivas campañas electorales. No habrá etapa de precampaña para los cargos de elección popular del Poder Judicial del Estado.
 
 Las elecciones ordinarias deberán celebrase, el primer domingo de junio del año de la elección.
 
@@ -541,9 +567,9 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como del Tribunal de Justicia Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
+II.- Las personas Magistradas, tanto del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, del Tribunal Electoral, y las Personas Juzgadoras; personas Secretarias de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; a la persona Titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes; y las personas delegadas de las dependencias federales en el Estado.
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -693,15 +719,15 @@ XIII.- Decidir sobre la renuncia del cargo de Gobernador;
 
 XIV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2015)
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-XV.- Designar a las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa, de las ternas correspondientes propuestas por la persona titular del Poder Ejecutivo del Estado.
+XV.- Designar a las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa del Estado, de las ternas correspondientes propuestas por la persona titular del Poder Ejecutivo del Estado.
 
-Los nombramientos de las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa deberán recaer preferentemente entre aquellas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica;
+Los nombramientos de las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa deberán recaer preferentemente entre aquellas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-XVI.- Conocer de las renuncias que de sus cargos presenten las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades;
+XVI.- Conocer de las renuncias que de sus cargos presenten las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades;
 
 XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
 
@@ -757,9 +783,9 @@ XXXI.- Aprobar, mediante el voto de la mayoría de los diputados presentes, el c
 
 XXXII.- Elegir y nombrar al Fiscal General del Estado, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con lo establecido en el Artículo 59 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-XXXIII.- Nombrar a una persona integrante del Consejo de la Judicatura Estatal en los términos de esta Constitución y legislar en materia del Servicio Profesional de Carrera Judicial, y demás legislación necesaria para el ejercicio de la función jurisdiccional en el Estado.
+XXXIII.- Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado en los términos de esta Constitución y legislar en materia del Servicio Profesional de Carrera Judicial, y demás legislación necesaria para el ejercicio de la función jurisdiccional en el Estado;
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -781,9 +807,17 @@ XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de 
 
 XXXVIII.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en ésta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una consulta a la sociedad para recibir propuestas de candidatos, lo anterior con excepción del Titular del Órgano Interno de Control del Tribunal Electoral; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-XXXIX.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
+XXXIX.- Postular el número de personas aspirantes que le corresponda para cada uno de los cargos de elección popular del Poder Judicial del Estado, en los términos que determina esta Constitución y las leyes aplicables.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XL.- Emitir, en los términos de esta Constitución, la convocatoria para la integración del listado de candidaturas para los cargos de Titular de una Magistratura del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas Juzgadoras del Poder Judicial del Estado;
+
+(REUBICADA, P.O. 18 DE DICIEMBRE DE 2024)
+
+XLI.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -1161,9 +1195,9 @@ XV.- Decretar la expropiación, por causa de utilidad pública, con los requisit
 
 XVI.- Disponer de la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-XVII.- Proponer al Congreso del Estado las ternas para nombrar a las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa, en términos de los Artículos 50 B y 54, y de acuerdo a las disposiciones del Artículo 27, Fracción XV de esta Constitución;
+XVII.- Postular el número de personas aspirantes que le corresponda para cada uno de los cargos de elección popular del Poder Judicial del Estado, en los términos que determina esta Constitución y las leyes aplicables.
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -1193,9 +1227,13 @@ XXII.- Fomentar, promover e impulsar valores sociales y políticas públicas des
 
 XXIII.- Regir al Poder Ejecutivo bajo el principio de gobierno abierto, lo cual involucra un ejercicio gubernamental orientado en los principios de transparencia, rendición de cuentas, participación ciudadana, accesibilidad e innovación tecnológica; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-XXIV.- Las demás que esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, y otras disposiciones jurídicas le confieren.
+XXIV.- Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, conforme lo dispuesto (sic) esta Constitución.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXV.- Las demás que esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y otras disposiciones jurídicas le confieran.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1291,55 +1329,45 @@ La ley contemplará los casos en que procedan mecanismos de mediación para la s
 
 Del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 51.
 
 El Poder Judicial del Estado es el encargado de administrar justicia, de manera pronta, expedita, completa, imparcial y gratuita. El ejercicio de la función jurisdiccional se regirá por los principios de profesionalismo, excelencia, objetividad, imparcialidad, independencia, legalidad, razonabilidad, proporcionalidad, máxima publicidad, respeto a los derechos humanos y perspectiva de género.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+El Poder Judicial del Estado se deposita en un Supremo Tribunal de Justicia, en el Tribunal de Disciplina Judicial del Poder Judicial del Estado, en los juzgados que determine la ley en la materia y en el Órgano de Administración Judicial del Poder Judicial del Estado, con las facultades, competencias, organización, personal y demás funciones inherentes que establezca esta Constitución y las leyes aplicables.
 
-El Poder Judicial del Estado se deposita en un Supremo Tribunal de Justicia, en los juzgados que determine la ley en la materia, y el Consejo de la Judicatura, con las facultades, competencias, organización, personal y demás funciones inherentes que establezca esta Constitución y la ley aplicable.
+Las condiciones para el ingreso, formación y permanencia del personal en los diversos órganos jurisdiccionales que conforman al Poder Judicial se regirán por lo dispuesto en las leyes que emita el Congreso del Estado en materia del Servicio Profesional de Carrera Judicial, con excepción de las personas Magistradas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, así como de las personas Juzgadoras, quienes serán electos por el voto libre, directo y secreto de la ciudadanía, conforme a las bases previstas en el artículo 116, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+Las facultades y obligaciones de las personas servidoras públicas del Poder Judicial se regirán por lo dispuesto en esta Constitución, la Ley Orgánica del Poder Judicial y demás legislación aplicable.
 
-Las condiciones para el ingreso, formación y permanencia en los diversos órganos jurisdiccionales que conforman al Poder Judicial se regirán por lo dispuesto en las leyes que emita el Congreso del Estado en materia del Servicio Profesional de Carrera Judicial. Sus facultades y obligaciones se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley Orgánica del Poder Judicial y demás legislación aplicable.
+El Supremo Tribunal de Justicia del Estado contará con once Magistraturas que serán electas por el voto de la ciudadanía. El cargo tendrá una duración de nueve años y podrá ser reelecto por un periodo igual conforme a los procedimientos de elección que se determinen en la ley de la materia, al término del cual, en todo caso, concluirá su encargo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+La representación del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, por conducto de la persona titular de su Presidencia, que se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quien obtenga la votación más alta, y se alternará con quien resulte la persona de mayor votación del otro género.
 
-El Supremo Tribunal de Justicia contará con once Magistraturas. El cargo tendrá una duración de siete años y podrá ser ratificado por un periodo igual conforme a los procedimientos de evaluación que se determinen en la ley de la materia y con la intervención que corresponda de los Poderes Ejecutivo y Legislativo del Estado.
+El Supremo Tribunal de Justicia del Estado funcionará en Pleno o en Salas. De entre las personas Magistradas, una será titular de su Presidencia; tres integrarán la Sala Penal; tres la Sala Civil; tres la Sala Familiar; y una diversa encabezará la Magistratura de la Sala Unitaria de Justicia Integral para Adolescentes. Las magistraturas, con excepción de la presidencia, podrán formar parte de la Sala Constitucional en los términos del artículo 52 de esta Constitución. Cuando se requiera habilitar una diversa materia por disposición de la ley aplicable, la Ley Orgánica del Poder Judicial fijará las bases para su conocimiento por parte del Pleno o las Salas del Supremo Tribunal de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+La administración y formación del Poder Judicial, estarán a cargo del Órgano de Administración Judicial del Poder Judicial del Estado, en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
-Cada cuatro años, el Pleno elegirá de entre sus miembros a la persona titular de la Presidencia, quien también lo será del Consejo de la Judicatura, misma que podrá ser reelecta por una sola ocasión, para el período inmediato posterior. La representación del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, por conducto de la persona titular de su Presidencia.
+La disciplina y vigilancia del Poder Judicial y su personal estará a cargo del Tribunal de Disciplina Judicial de Aguascalientes, de acuerdo a las bases que determina esta Constitución y lo que establezcan las leyes.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+Durante su encargo, las personas titulares de las Magistraturas del Poder Judicial, sólo podrán ser sustituidas por renuncia al cargo con motivo de causas graves, por haber concluido el periodo de su nombramiento sin resultar reelectas, por defunción o situación de discapacidad física o mental permanente que les impida ejercer el cargo, o cuando sean destituidas por resolución condenatoria emitida por el Congreso del Estado en el respectivo Juicio Político.
 
-El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. De entre las personas titulares de las Magistraturas, una será titular de su Presidencia; tres integrarán la Sala Penal; tres la Sala Civil; tres la Sala Familiar; y una diversa encabezará la Magistratura de la Sala Unitaria de Justicia Integral para Adolescentes. Cuando se requiera habilitar una diversa materia por disposición de la ley aplicable, la Ley Orgánica del Poder Judicial fijará las bases para su conocimiento por parte del Pleno o las Salas del Supremo Tribunal.
+La remuneración que perciban las personas titulares de las Magistraturas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, las integrantes del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, y de los Juzgados, por los servicios que presten a estos, no podrá ser disminuida durante su encargo, ni podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+Así mismo, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia.
 
-La administración, formación, vigilancia y disciplina del Poder Judicial, con excepción ésta última del Supremo Tribunal de Justicia y su personal, estarán a cargo del Consejo de la Judicatura en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
+Las personas que hayan ocupado el cargo de titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes o del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Aguascalientes. Por lo que respecta a las personas juzgadoras, no podrán intervenir en los asuntos de los que hayan conocido.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+Las renuncias de las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes y de los Juzgados, solamente procederán por causas graves y se someterán al Congreso del Estado para su aprobación por la mayoría de los miembros presentes o, en sus recesos, por la Comisión Permanente.
 
-Durante su encargo, las personas titulares de las Magistraturas, sólo podrán ser sustituidas cuando sobrevenga defunción o situación de discapacidad física o mental permanente que les impida ejercer el cargo; o removidas por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o mediante resolución condenatoria emitida por el Congreso del Estado en el Juicio Político correspondiente, en cuyo caso serán destituidas.
+Cuando la falta de una persona titular de una Magistratura del Supremo Tribunal del (sic) Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes excediere de un mes sin licencia, sea por renuncia, defunción o por cualquier otra causa de separación definitiva, la vacante será ocupada por la persona del mismo género que haya obtenido la mayor votación que no resultara electa en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+En lo relativo a las licencias de las personas servidoras públicas señaladas en el párrafo anterior, cuando no excedan de un mes, serán concedidas, para el caso de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, por votación de sus respectivos Plenos; y por lo que respecta a las personas Juzgadoras, lo serán por el Órgano de Administración Judicial del Poder Judicial del Estado.
 
-La remuneración que perciban las personas titulares de las Magistraturas del Supremo Tribunal de Justicia, Consejerías de la Judicatura y titulares de los Juzgados, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
+Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
-
-Las personas que hayan ocupado el cargo de titulares de las Magistraturas del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, de los Juzgados o Consejerías de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Aguascalientes.
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
-
-Las personas titulares de las Magistraturas que integren el Pleno del Supremo Tribunal de Justicia percibirán un haber por retiro al concluir el período para el que fueron designadas, conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y el Presupuesto de Egresos respectivo.
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
-
-Las renuncias de las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado se someterán al Congreso del Estado para su aprobación.
+Las ausencias menores a tres meses serán suplidas conforme a lo que disponga su respectiva ley orgánica.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
@@ -1371,9 +1399,15 @@ Artículo 51 B.- El Poder Judicial está facultado para administrar con autonom�
 
 Artículo 51 C.- El presupuesto asignado en su conjunto al Poder Judicial, podrá ser mayor pero no menor al dos punto tres por ciento del total del presupuesto general de egresos del Estado, previsto para el ejercicio anual respectivo, y deberá ministrarse conforme al calendario autorizado en los términos que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-Artículo 51 D.- El fondo auxiliar para la impartición de justicia estará bajo la administración del Consejo de la Judicatura, y se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales y, además, con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorizada por la ley, en ejercicio de las atribuciones del Poder Judicial. Dicho fondo será aplicado exclusivamente al mejoramiento de la impartición de justicia. Con el fin de garantizar el principio de transparencia activa, el Consejo de la Judicatura, deberá transparentar los montos de ingresos y egresos, así como el origen y destino de dichos recursos, en los términos de la legislación correspondiente.
+Artículo 51 D.- Los recursos financieros, técnicos, humanos y materiales necesarios para el funcionamiento del Poder Judicial estarán bajo la administración del Órgano de Administración Judicial del Poder Judicial del Estado.
+
+El fondo auxiliar para la impartición de justicia estará bajo la administración del Órgano de Administración Judicial del Poder Judicial del Estado, y se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales y, además, con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorizada por la ley, en ejercicio de las atribuciones del Poder Judicial.
+
+Dicho fondo será aplicado exclusivamente al mejoramiento de la impartición de justicia en los términos de la legislación aplicable.
+
+Con el fin de garantizar el principio de transparencia activa, el Órgano de Administración Judicial del Poder Judicial del Estado, deberá transparentar los montos de ingresos y egresos, así como el origen y destino de dichos recursos, en los términos de la legislación correspondiente.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
 
@@ -1387,109 +1421,251 @@ Las sesiones del Pleno y las Salas del Poder Judicial del Estado, serán públic
 
 Artículo 51 F.- Se establecerá una ley estatal de mediación, arbitraje y mecanismos alternativos de solución de controversias, salvo aquellas materias que se encuentren reservadas a la federación, donde se establezcan los requisitos para ejercer dicha función, los cuales deberán obedecer los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanan.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 52.
 
-El Supremo Tribunal de Justicia contará, además, con una Sala Constitucional conformada por cinco Magistraturas, cuyas personas titulares serán electas por el voto de la mayoría del Pleno por un plazo de cinco años, sin que puedan coincidir tres Magistraturas integrantes por cada Sala colegiada. Quienes ocupen la Presidencia del Supremo Tribunal de Justicia o de alguna de sus Salas colegiadas, no podrán ser elegibles para la integración inmediata como integrantes de la Sala Constitucional.
+El Supremo Tribunal de Justicia contará, además, con una Sala Constitucional conformada por cinco Magistraturas, cuyas personas titulares serán electas por el voto de la mayoría del Pleno por un plazo de cinco años. Quienes ocupen la Presidencia del Supremo Tribunal de Justicia o de alguna de sus Salas colegiadas, no podrán ser elegibles para la integración inmediata como integrantes de la Sala Constitucional.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
 
 La Sala constitucional tendrá competencia para resolver los siguientes medios de control de constitucionalidad local: a) Controversia constitucional local; b) Acción de Inconstitucionalidad local; y c) Juicio para la protección de los derechos humanos de carácter local.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 53.
 
-Para ser titular de una Magistratura del Supremo Tribunal de Justicia del Estado se requiere:
+Para ser titular de una Magistratura del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, se requiere:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-I. - Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de cinco años inmediatamente anteriores a la fecha de la designación.
+I.- Contar con ciudadanía mexicana por nacimiento, ser originaria del Estado o con residencia en él no menor de un año inmediatamente anteriores a la fecha de la publicación de la convocatoria a elección;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación;
+II.- Poseer Título de Licenciatura en Derecho o equivalente, expedido legalmente, contar con un promedio general no menor a ocho puntos o su equivalente, y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado; además, deberá acreditar que cuenta con experiencia práctica en el ejercicio de la actividad jurídica afín a su candidatura por una antigüedad mínima de tres años anteriores al día de la publicación de la convocatoria respectiva a la elección del cargo por el que se postule, conforme al proceso de evaluación establecido, con base en esta Constitución, en la Convocatoria del Congreso;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
-
-III.- Tener cuando menos 35 años cumplidos el día de la designación;
+III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Senador, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación;
+V.- No haber sido titular de una Secretaría o su equivalente en el Poder Ejecutivo del Estado, de la Fiscalía General del Estado, Senador o Senadora, o Diputado o Diputada Federal o Local, o dirigente de Partido Político durante el año previo al día de la publicación de la convocatoria señalada en la facción I del artículo 54 de esta Constitución;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
 
 VI.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-VII.- No ser sujeto de suspensión de los derechos o prerrogativas de los ciudadanos, ni haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
+VII.- Gozar de buena reputación y no haber sido condenada por delito doloso con sanción privativa de la libertad o por sentencia que haya causado estado por faltas administrativas graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+VIII. Aprobar las evaluaciones que prevé esta Constitución.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-Las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado se elegirán, de manera escalonada, de la siguiente forma:
+Las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, y personas juzgadoras, serán electos de manera libre, secreta y directa por la ciudadanía, el día de la elección local ordinaria que corresponda.
 
-El Consejo de la Judicatura Estatal, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco personas candidatas por cada magistratura vacante, remitiendo los expedientes correspondientes a la persona titular del Poder Ejecutivo del Estado, quien, de entre ellos, formulará una terna por cada magistratura vacante, la cual enviará al Congreso del Estado para que la designe con la aprobación de la mayoría de los diputados que integren la legislatura.
+La elección se desarrollará conforme el siguiente procedimiento:
 
-Las ausencias de las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado, mayores a tres meses se suplirán con un magistrado interino designado conforme al procedimiento establecido en este artículo. Las ausencias menores a tres meses serán suplidas conforme a lo que disponga su respectiva ley orgánica.
+I. En el año anterior al día de la elección ordinaria, el Órgano de Administración Judicial del Poder Judicial del Estado, notificará al Congreso y al Poder Ejecutivo, los cargos que deban someterse a elección, la especialización por materia en caso de personas juzgadoras, y demás información que resulte necesaria a ese efecto.
 
-Si dentro del término de siete días hábiles de haber sometido la terna a la consideración del Congreso del Estado, éste nada resolviere, el derecho pasará a la persona titular del Poder Ejecutivo del Estado, quien nombrará a la persona que ocupe la magistratura y lo comunicará al Consejo de la Judicatura Estatal.
+II. El Congreso, dentro de los cinco días naturales contados a partir del inicio del proceso electoral respectivo, publicará la convocatoria a la elección correspondiente, que contendrá el listado de los cargos a elegir, requisitos, las etapas completas del procedimiento, las fechas y plazos, los cuales serán improrrogables y los que se determinen en ley;
 
-Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por la persona titular del Poder Ejecutivo del Estado, ésta propondrá una nueva terna de entre la que el Congreso del Estado deberá elegir a la persona que ocupe la magistratura en un término de cinco días hábiles.
+III. Dentro de los tres días posteriores a la emisión de la Convocatoria, cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, responsable, en una primera fase, de:
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+a) Recibir los expedientes de las personas aspirantes y evaluar el cumplimiento de los requisitos constitucionales y legales;
+
+b) Identificar a las personas que cumplan con todos los requisitos constitucionales y legales;
+
+c) Remitir la lista de esas personas para la evaluación técnica jurídica correspondiente conforme al cargo al que se aspire;
+
+Para solicitar su registro ante cualquiera de los Comités, los interesados deberán presentar un ensayo sucinto donde justifiquen los motivos de su postulación, su experiencia, su capacidad profesional, formación jurídica e idoneidad para desempeñar el cargo para el cual se postulan, y se precise el cumplimiento de los demás requisitos, además de entregar cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
+
+Las personas aspirantes podrán registrarse para diversos cargos, pero sólo podrán ser postulados en la boleta para uno sólo. No podrán ser postulados en la boleta quienes lo sean en la elección de integrantes del Poder Judicial de la Federación.
+
+IV. Quienes cumplan con los requisitos constitucionales se someterán a una evaluación técnica-jurídica, elaborada con parámetros objetivos, razonables y acordes a la especialidad de las funciones a desempeñar, con base a lo establecido en la ley y en la convocatoria, que será aplicada por el Órgano de Administración Judicial del Poder Judicial del Estado, auxiliado por sus órganos especializados.
+
+Una vez que el Órgano de Administración Judicial del Poder Judicial del Estado obtenga los resultados de la evaluación técnica-jurídica, integrará una lista de hasta seis personas por género que la hayan acreditado y resulten mejor evaluadas, en orden decreciente, por cada uno de los cargos a elegir y la enviará a cada Poder. El resultado de esta evaluación será inatacable.
+
+V. En los términos de la Convocatoria, las personas que integran la lista a que se refiere el inciso anterior pasarán a la segunda fase de la evaluación ante el Comité de Evaluación que corresponda. Cada Comité evaluará, conforme a los parámetros establecidos en ley, la idoneidad del aspirante para el cargo, así como su honestidad, buena fama pública, antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Los resultados de estas evaluaciones serán inatacables.
+
+VI. Al concluir la segunda fase, los Comités de Evaluación, conformarán un listado de hasta cuatro personas, por género, que la hayan acreditado y resulten mejor evaluadas para cada cargo, respecto de la elección de integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, y un listado de hasta cuatro personas por género, mejor evaluadas para ocupar la titularidad de cada juzgado. Los Comités remitirán los listados a la autoridad que represente a cada Poder del Estado para que realicen la postulación correspondiente. La decisión del Comité será inatacable.
+
+Cada uno de los Poderes Ejecutivo, Legislativo y Judicial podrán postular hasta dos candidaturas por cargo, de manera paritaria.
+
+VII. Cada Poder integrará el expediente definitivo de la persona postulada, con los documentos que acrediten el cumplimiento de todos los requisitos y lo remitirá al Instituto Estatal Electoral en el plazo definido en la convocatoria;
+
+VIII. El Órgano de Administración Judicial del Poder Judicial del Estado, remitirá al Instituto Estatal Electoral el listado de las personas que se encuentren en funciones al cierre de la convocatoria respectiva cuando manifiesten su intención de participar en la elección en el plazo definido en la Convocatoria;
+
+IX. Los Poderes podrán postular a la misma persona para el cargo a elegir. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
+
+X. Las personas magistradas y juzgadoras que ocupen un cargo de los que hayan de someterse a elección popular, deberán manifestar su deseo de participar en la elección, antes del cierre de registros previsto en la convocatoria.
+
+XI. El Instituto Estatal Electoral será el responsable de todas las etapas del proceso electivo.
+
+XII. La etapa de preparación de la elección de cargos de personas juzgadoras será declarada en la misma sesión en la que se dé inicio al proceso electoral local ordinario por el Instituto Estatal Electoral. El Instituto Estatal Electoral podrá suscribir los convenios de colaboración que sean necesarios para el cumplimiento de sus funciones.
+
+XIII. Las personas que resulten candidatas tendrán derecho a acceder a tiempos de radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley, podrán, además, participar en foros de debate organizados por el Instituto Estatal Electoral o en aquellos organizados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+XIV. Queda prohibido cualquier tipo de financiamiento público o privado para las campañas de todos los cargos sometidos a elección del Poder Judicial del Estado, de igual forma está prohibido que las personas candidatas adquirir por sí o por interpósita persona, espacios en radio y televisión o en cualquier otro medio de comunicación para promocionarse.
+
+XV. Los partidos políticos y las personas servidoras públicas tendrán prohibido realizar actos de proselitismo, promoción o manifestarse a favor o en contra de cualquier candidatura.
+
+XVI. La ley establecerá la forma en la que se desarrollarán las campañas, así como las restricciones y sanciones aplicables a las personas candidatas y servidoras públicas cuyas acciones, manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales alterando los principios de equidad y neutralidad en la contienda.
+
+XVII. La ley secundaria determinará las características de las boletas, en los términos de esta Constitución.
+
+XVIII. En la etapa de resultados, el Instituto Estatal Electoral debe realizar los cómputos de la elección, publicar los resultados, entregar las constancias de mayoría y asignar los cargos, observando el principio de paridad de género. Tendrá la facultad de declarar la validez de la elección;
+
+XIX. La ley establecerá los medios de impugnación con los que puedan controvertirse actos u omisiones de todas las autoridades involucradas en el proceso;
+
+XX. El Tribunal Electoral del Estado, deberá resolver la totalidad de las impugnaciones que se hubieren presentado antes de la instalación del Primer Periodo Ordinario de Sesiones, fecha en que las personas electas tomarán protesta ante el Congreso Local.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Artículo 54 A.- Las personas titulares de las Magistraturas integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, serán electas mediante una boleta en la que se podrá votar hasta por el número de cargos a elegir; el voto será válido siempre que se vote hasta por ese número de candidaturas.
+
+El Instituto Estatal Electoral emitirá las constancias de mayoría de manera paritaria conforme a los cargos a elegir, iniciando con las mujeres más votadas.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 55.
 
-Los Juzgados estarán a cargo de las personas titulares que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad, de conformidad a lo establecido en la Ley del Servicio Profesional de Carrera Judicial y la Ley Orgánica del Poder Judicial del Estado de Aguascalientes; las personas aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos para ser titular de una Magistratura, a excepción de la edad y experiencia profesional que se fijarán en las leyes secundarias correspondientes.
+Los Juzgados estarán a cargo de las personas que hayan obtenido la mayor votación en la elección correspondiente al Partido Judicial, conforme al procedimiento previsto en el artículo 54, y las siguientes disposiciones:
+
+I. Para los cargos de jurisdicción en todo territorio del Estado, la elección será estatal mediante una boleta que contendrá todas las candidaturas contendientes, divididos por jurisdicción y por materia; solo se podrá votar hasta por el número de candidaturas a elegir; para lo cual el voto será válido siempre que se emita hasta por el número total de candidaturas contendientes. Dentro de los límites que establece esta Constitución, la ley determinará las características particulares de la boleta que, en todo caso, llevarán impresos los nombres completos y numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda;
+
+II. Los juzgados mixtos de primera instancia, serán electos por la ciudadanía de esos partidos, para el efecto de que puedan tener jurisdicción en cualquiera de ellos. Dentro de los límites que establece esta Constitución, la ley determinará las características de las boletas y la forma de ejercer el voto, de realizar los cómputos y de hacer las declaratorias de validez y otorgar las constancias de mayoría que corresponda;
+
+III. El Instituto Estatal Electoral emitirá las constancias de mayoría de manera paritaria conforme al número de cargos a elegir, iniciando con las mujeres más votadas.
+
+Las personas que resulten electas durarán en su encargo nueve años y podrán ser reelectos de forma consecutiva, por una sola vez. En todo caso, concluirán su encargo en la fecha límite de su último periodo.
+
+Para ser electo como persona Juzgadora se requiere:
+
+I.- Contar con ciudadanía mexicana por nacimiento, originaria del Estado o con residencia en él no menor de un año inmediatamente anteriores a la fecha de la publicación de la convocatoria a elección.
+
+II.- Poseer Título de Licenciatura en Derecho expedido legalmente, contar con un promedio general no menor a ocho puntos o su equivalente, y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en licenciatura, especialidad, maestría o doctorado; además, deberá acreditar que cuenta con experiencia práctica en el ejercicio de la actividad jurídica afín a su candidatura de cuando menos tres años anteriores al día de la publicación de la convocatoria respectiva a la elección del cargo por el que se postule, conforme al proceso de evaluación establecido, con base en esta Constitución y en la Convocatoria del Congreso;
+
+III.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto;
+
+IV.- No ser persona titular de una Secretaría o su equivalente en el Poder Ejecutivo del Estado, de la Fiscalía General del Estado, personas Senadora, persona Diputada Federal o Local, o persona dirigente de Partido Político durante el año previo al día de la publicación de la convocatoria a elección;
+
+V.- No ser persona o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda;
+
+VI.- Gozar de buena reputación y no haber sido condenada por delito doloso con sanción privativa de la libertad o por sentencia que haya causado estado por faltas administrativas graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia; y
+
+VII.- Aprobar las evaluaciones que prevé esta Constitución.
 
 Su número, categoría y especialidad se determinarán con base en, al menos, los siguientes parámetros:
 
-I.- Habrá, por lo menos, cinco partidos judiciales en el Estado. La ley establecerá los mecanismos para la creación de nuevos partidos judiciales. En los municipios que no sean sede de partido habrá una Unidad de Justicia que funcionará, al menos, como oficialía de partes, sede de audiencias, auxiliar de actuaría y recinto de auxilio en acceso a tecnologías de la información y comunicaciones.
+I.- Conforme a las necesidades y la disponibilidad presupuestal, podrá haber, por lo menos, cinco partidos judiciales en el Estado. La ley establecerá los mecanismos para la creación de nuevos partidos judiciales. En los municipios que no sean sede de partido habrá una Unidad de Justicia que funcionará, al menos, como oficialía de partes, sede de audiencias, auxiliar de actuaría y recinto de auxilio en acceso a tecnologías de la información y comunicaciones.
 
-II.- Existirá rotación de jueces en los cinco partidos judiciales de acuerdo con las reglas establecidas en la legislación secundaria.
+II.- Solo podrá haber rotación entre partidos judiciales, en el caso de las personas electas para los juzgados mixtos de primera instancia. No se entenderá como rotación el cambio de sede o partido para las personas juzgadoras electas en jurisdicción estatal.
 
-III.- Habrá cuando menos tres juzgados en cada partido judicial, excepto en la capital del Estado en la que habrá al menos siete juzgados mercantiles, cinco juzgados civiles, ocho juzgados familiares, doce juzgados de oralidad penal, tres juzgados laborales, y dos juzgados de ejecución penal.
+III.- Conforme a las necesidades y la disponibilidad presupuestal, podrá haber cuando menos tres personas Juzgadoras en cada partido judicial, excepto en la capital del Estado en la que habrá al menos siete personas Juzgadoras mercantiles, cinco personas Juzgadoras civiles, ocho personas Juzgadoras familiares, doce personas Juzgadoras de oralidad penal, tres personas Juzgadoras laborales, y dos personas Juzgadoras de ejecución penal.
 
-IV.- Se podrán habilitar jueces auxiliares a efecto de evitar o disminuir rezago judicial en su caso, conforme a las reglas establecidas en la legislación secundaria.
+IV.- Se podrán habilitar juzgados auxiliares a efecto de evitar o disminuir rezago judicial en su caso, conforme a las reglas establecidas en la legislación secundaria. Las personas juzgadoras de estos juzgados serán las que hubieran obtenido el siguiente lugar en número de votos en las elecciones para personas Juzgadoras de primera instancia y que no hubieran accedido al cargo; en caso de declinación o imposibilidad, seguirán en orden de prelación las personas que haya obtenido mayor votación.
 
-V.- Se podrán establecer mecanismos para homologar cargas de trabajo entre jueces, para lo cual podrán auxiliarse de otros partidos judiciales y conforme a las reglas establecidas en la legislación secundaria.
+Si por necesidades del servicio se requiere la creación de juzgados y no estuviere cercano un proceso electoral ordinario para elegir personas juzgadoras, se seguirá el mismo procedimiento, en tanto se pueda convocar a elección para ese cargo. En ambas hipótesis, en caso de agotarse la lista de personas votadas sin que haya sido ocupado el cargo, una persona secretaria de Acuerdos en funciones, designada por el Órgano de Administración Judicial del Poder Judicial del Estado,, (sic) asumirá el cargo hasta en tanto se celebre la elección subsecuente. La legislación secundaria preverá el mecanismo de designación.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+V- Se podrán establecer mecanismos para homologar cargas de trabajo entre personas juzgadoras, para lo cual podrán auxiliarse de otros partidos judiciales y conforme a las reglas establecidas en la legislación secundaria.
 
-Artículo 55 A. El Consejo de la Judicatura Estatal se integrará por cinco Consejerías de las cuales, una la ocupará la persona titular de la Presidencia del Supremo Tribunal de Justicia, quien también lo será del Consejo; una Consejería designada por el Pleno del Supremo Tribunal de Justicia de entre las personas titulares de las Magistraturas; una Consejería designada por el Pleno del Supremo Tribunal de Justicia de entre los Jueces, debiendo recaer en la o el mejor calificado, quienes no ejercerán función jurisdiccional durante su encargo; una Consejería designada por el Congreso del Estado, y una por la persona titular del Poder Ejecutivo del Estado.
+Cuando la falta de una persona titular de juzgado excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. En caso de agotarse la lista sin que haya sido ocupado el cargo vacante, una persona secretaria de Acuerdos en funciones en ese juzgado, designada por el Órgano de Administración Judicial del Poder Judicial del Estado, asumirá el cargo hasta en tanto inicie funciones la persona electa en la elección que estuviera prevista para la renovación de dicho cargo. La legislación secundaria preverá el mecanismo de designación.
 
-Todas las personas titulares de una Consejería deberán reunir los requisitos señalados en el artículo 53 de esta Constitución, salvo el de la pertenencia al servicio profesional de carrera judicial, en su caso, y ser personas que se hayan distinguido por su capacidad profesional y administrativa honestidad y honorabilidad en el ejercicio de sus actividades.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, ratificación y remoción de jueces, así como de los demás asuntos que la ley determine.
+Artículo 55 A. El Tribunal de Disciplina Judicial de Aguascalientes y el Órgano de Administración Judicial del Poder Judicial del Estado, formarán parte del Poder Judicial del Estado.
 
-Salvo la persona titular de la Presidencia del Consejo, las demás Consejerías durarán cinco años en su cargo, serán sustituidas de manera escalonada, y no podrán ser nombradas para un nuevo período inmediato posterior.
+A. El Tribunal de Disciplina Judicial de Aguascalientes será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones, que serán definitivas e inatacables.
 
-Las personas titulares de las Consejerías no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidas en los términos que establece esta Constitución.
+Se integrará por cinco magistraturas electas de manera libre, secreta y directa por la ciudadanía a nivel estatal, conforme al procedimiento establecido en esta Constitución y en las leyes, su Presidencia será rotativa cada dos años, en función del número de votos obtenidos en la elección respectiva, y le corresponderá a quienes alcancen mayor votación, alternando el género.
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en su contra, con excepción de las que se refieran a la designación, adscripción, ratificación, promoción, suspensión y remoción de los jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, únicamente para verificar que fueron emitidas conforme a la ley.
+Las personas titulares de una magistratura deberán reunir los requisitos señalados en el artículo 53 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán en su cargo nueve años, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo.
 
-De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
+El Tribunal funcionará en Pleno o en comisiones. El Pleno resolverá en segunda instancia los asuntos de su competencia; podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves y no graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia; además de los asuntos que la ley determine.
 
-El Consejo de la Judicatura del Estado formulará el presupuesto de egresos del Poder Judicial y lo enviará al Poder Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado.
+El Tribunal llevará a cabo el procedimiento de responsabilidades administrativas en primera instancia de conformidad con la competencia y lineamientos que fije la ley, a través de una unidad sustanciadora y de una comisión resolutora conformada por dos magistraturas; la presidencia no podrá integrar esta comisión. Las resoluciones podrán ser impugnadas ante una comisión de tres magistraturas que no formen parte de la resolutora, que resolverá por mayoría de votos, en los términos que señale la ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial de Aguascalientes hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial Estatal a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial de Aguascalientes conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
+
+El Tribunal podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de los titulares de los Juzgados electos por voto popular ante el Congreso Local.
+
+Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con la excepción de la remoción de los Magistrados del Supremo Tribunal de Justicia sólo podrá ser en los términos que establece esta Constitución.
+
+Cuando, a raíz de los resultados de los procesos de evaluación y seguimiento de resultados, el Órgano de Administración Judicial del Poder Judicial del Estado, se lo solicite, el Tribunal podrá aplicar las medidas correctivas o sancionadoras siguientes:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+Las personas titulares de las Magistraturas ejercerán su función con independencia e imparcialidad.
+
+Durante su encargo, sólo podrán ser removidas en los términos que establece esta Constitución.
+
+B. El Órgano de Administración Judicial de Aguascalientes tendrá independencia técnica y de gestión, será integrado por personas que no desempeñen funciones jurisdiccionales y tendrá las siguientes responsabilidades y funciones:
+
+I. La responsabilidad de la Administración y el Servicio de Carrera del Poder Judicial del Estado; y del ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño conforme a las leyes aplicables.
+
+II. Evaluar el desempeño de las personas Titulares de las Magistraturas del Supremo Tribunal de Justicia y de los Juzgados que corresponda, durante su primer año de ejercicio para que, en su caso, el Tribunal de Disciplina Judicial de Aguascalientes adopta las medidas a que se refieren los incisos a) y b) del párrafo décimo del apartado A de este artículo. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+III. Será el encargado de determinar la división y conformación de los partidos judiciales, especialización por materia de los Juzgados locales.
+
+IV. La inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que le confieran las leyes.
+
+El Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, estará conformado por cinco personas consejeras que ejercerán su cargo por un periodo de seis años sin posibilidad de ser designadas para otro periodo, de las cuales una será designada por el Titular del Poder Ejecutivo, una designada por el Congreso del Estado mediante la votación calificada de las dos terceras partes de los legisladores presentes, y tres serán designadas por el Pleno del Supremo Tribunal de Justicia del Estado por mayoría.
+
+Las Consejerías no podrán recaer en personas titulares de magistraturas ni en personas juzgadoras. La presidencia del órgano será rotatoria cada dos años de acuerdo con lo que establezcan las leyes, alternando los géneros.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, deberán:
+
+I. Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano, con antigüedad mínima de cinco años;
+
+III. No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad; y
+
+IV. Distinguirse por su capacidad profesional y administrativa honestidad y honorabilidad en el ejercicio de sus actividades.
+
+El Órgano de Administración Judicial del Poder Judicial del Estado, funcionará en Pleno o en comisiones.
+
+El Pleno del órgano contará con una Secretaría Ejecutiva, responsable del cumplimiento de los acuerdos del Pleno y de los órganos de dirección, ejecutivos, técnicos y de evaluación que determine la ley, cuya persona titular será designada por el voto de la mayoría de las personas consejeras.
+
+Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado sólo podrán ser removidas en los términos de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+De conformidad con lo que establezca la ley, el Órgano estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
+
+El Tribunal de Disciplina Judicial de Aguascalientes podrá solicitar al Órgano de Administración Judicial del Poder Judicial del Estado, la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
+
+Las decisiones del Órgano de Administración Judicial del Poder Judicial del Estado, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en su contra.
+
+El Órgano de Administración Judicial del Poder Judicial del Estado, formulará el presupuesto de egresos del Poder Judicial y lo enviará al Poder Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 56.
 
-Los jueces del Poder Judicial y demás personal que integren sus estructuras orgánicas, así como del Supremo Tribunal de Justicia del Estado, forman parte del servicio profesional de carrera del Poder Judicial del Estado, de carácter obligatorio y permanente, basado en la evaluación continua y objetiva de su desempeño, bajo los principios establecidos en la ley correspondiente.
+Las Juezas y jueces del Poder Judicial del Estado serán elegidos a través de elección libre, directa y secreta de la ciudadanía, conforme al procedimiento establecido en esta Constitución.
 
-El ingreso, formación y permanencia de los jueces y demás personal del servicio profesional de carrera judicial del Poder Judicial del Estado, se sujetarán a los principios del ejercicio de la función jurisdiccional y a la regulación establecida en las disposiciones aplicables.
+El personal que integre las estructuras orgánicas de los juzgados de primera instancia del Poder Judicial del Estado, así como del Supremo Tribunal de Justicia del Estado, distinto a los cargos de elección popular, forman parte del servicio profesional de carrera del Poder Judicial del Estado de Aguascalientes, que será de carácter obligatorio y permanente, basado en la evaluación continua y objetiva de su desempeño, bajo los principios establecidos en la ley correspondiente.
 
-Los Jueces, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación, podrán ser ratificados.
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
 
-El Consejo de la Judicatura contará con un Instituto de Formación Judicial, encargado de implementar los procesos de formación, capacitación y actualización del personal jurisdiccional y administrativo del Poder Judicial del Estado y sus órganos auxiliares, así como de llevar a cabo los concursos de oposición que determinen las disposiciones aplicables.
+El Órgano de Administración Judicial del Poder Judicial del Estado, contará con un órgano auxiliar con autonomía técnica y de gestión denominado Instituto de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y, en su caso, del personal de la Fiscalía General del Estado de Aguascalientes, del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, del organismo de protección de los derechos humanos, de las instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+El servicio de defensoría pública en asuntos del fuero local será proporcionado por el Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, en coordinación con el Órgano de Administración Judicial del Poder Judicial del Estado, en los términos que establezcan las disposiciones aplicables. El Instituto de Formación Judicial será el encargado de capacitar a las y los defensores públicos, así como de intervenir en los concursos de oposición en los términos que determine la ley.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
 
@@ -1557,27 +1733,33 @@ I.- Conocer en los juicios civiles y penales de las instancias y recursos que se
 
 II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
-III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
+III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
 
 IV.- Resolver los medios de control de la constitucionalidad local, a través de su Sala Constitucional;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, en términos de lo previsto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes;
+V.- Conceder licencia a sus personas Magistradas en funciones para separarse de sus cargos, cuando no excedan de un mes.
 
 VI.- (DEROGADA, P.O. 8 DE AGOSTO DE 2023)
 
 VII.- (DEROGADA, P.O. 8 DE AGOSTO DE 2023)
 
-VIII.- Las demás facultades que le concede esta Constitución y las que establezca la ley que regule su estructura y funcionamiento, así como las que le confieran otros ordenamientos legales aplicables.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+VIII.- Expedir acuerdos generales, a fin de lograr una adecuada distribución de los asuntos de su competencia, así como para mayor prontitud en el despacho de éstos;
+
+> <small>(ADICIONADA [REUBICADA], P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+IX.- Las demás facultades que le concede esta Constitución y las que establezca la ley que regule su estructura y funcionamiento, así como las que le confieran otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 58.
 
-Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
+Las personas Magistradas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, así como las personas Juzgadoras del Poder Judicial del Estado de Aguascalientes, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1823,6 +2005,10 @@ Es de interés público preservar la vida e integridad física de las personas t
 
 Para el caso de los demás funcionarios públicos que realicen actividades relacionadas con la seguridad pública, procuración e impartición de justicia, que asuman riesgos en el desempeño de sus atribuciones, el Consejo del Sistema Estatal de Seguridad Pública deberá considerar las medidas de seguridad y protección adecuadas y suficientes para su protección, ya sea de forma temporal o por todo el período que se permanezca en el ejercicio de su función, según las circunstancias del caso y respecto de la solicitud hecha por el funcionario público interesado.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de las personas juzgadoras en materia penal, en caso de ser necesario y con el objetivo de preservar su seguridad, el Órgano de Administración Judicial Órgano de Administración Judicial (sic) del Poder Judicial del Estado podrá disponer las medidas necesarias para resguardar la integridad de las personas juzgadoras y de su familia, conforme al procedimiento que establezca la ley.
+
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
 
 Ningún servidor público podrá tener protección por dos cargos diversos, por lo tanto, cesará la protección si se es nombrado en uno nuevo que sea sujeto de protección.
@@ -2015,19 +2201,23 @@ IV.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al cor
 
 V.- No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-No pueden ser electos Presidente Municipal, Regidor o Síndico:
+No pueden ser electos persona Titular de la Presidencia Municipal, persona Regidora o Síndica:
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
+II. Las personas Magistradas, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial de Aguascalientes, del Tribunal Electoral y las personas Juzgadoras; personas Titulares de una Secretaría de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes; y las personas delegadas de las dependencias federales en el Estado;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE AGOSTO DE 2024)</small>
 
 III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
 
@@ -2209,9 +2399,9 @@ Serán sujetos de responsabilidad política los servidores públicos que en el e
 
 No procede el juicio político por el sólo hecho de la manifestación de ideas.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Fiscal General del Estado, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
+Serán sujetos de Juicio Político la persona titular de la Gubernatura del Estado, las Diputadas de Legislatura Local, las personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial Órgano de Administración Judicial (sic) del Poder Judicial del Estado, así como las personas Juzgadoras del Poder Judicial del Estado, las personas Titulares de las Dependencias del Poder Ejecutivo, la persona Fiscal General del Estado, la persona Consejera Presidenta y las personas Consejeros Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta de la y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes, a las personas Titulares de los órganos organismos (sic) públicos descentralizados, las personas Titulares de los organismos autónomos y las personas Directoras generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; la persona Titular de la Presidencia Municipal, personas Regidoras o Síndicas de los Ayuntamientos.
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2225,7 +2415,9 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la normatividad penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
 
-Para proceder penalmente en contra de los Diputados Locales, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo de la Judicatura, del Poder Judicial, el Secretario General de Gobierno, el Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Para proceder penalmente en contra de las personas Diputadas Locales, la persona titular de la Gubernatura del Estado, las personas Magistradas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, del Tribunal de Justicia Administrativa, la persona Titular de la Secretaría General de Gobierno, la persona Titular de la Fiscalía General del Estado, la persona Titular de la Presidencia Municipal, personas Regidoras o Síndicas de los Ayuntamientos, así la persona Consejera Presidenta y las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de las personas Diputadas, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
@@ -2233,7 +2425,9 @@ Para proceder penalmente en contra de los Diputados Locales, el Gobernador, los 
 
 El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
 
-Para proceder penalmente en contra de los jueces del Poder Judicial, se requiere declaratoria del Pleno del Supremo Tribunal de Justicia que dé ha lugar a formación de causa.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Para proceder penalmente en contra de las personas Juzgadoras del Poder Judicial, se requiere declaratoria del Pleno del Tribunal de Disciplina Judicial de Aguascalientes que dé ha lugar a formación de causa.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
@@ -2327,7 +2521,9 @@ d) El titular de la secretaría del Ejecutivo del Estado, responsable del contro
 
 e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa;
 
-f) Un representante del Consejo de la Judicatura Estatal; y
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+f) Una persona representante del Tribunal de Disciplina Judicial de Aguascalientes; y
 
 g) Un representante del Instituto de Transparencia del Estado.
 
@@ -4222,3 +4418,185 @@ P.O. 12 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 79.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Públicos del Estado deberán considerar las asignaciones presupuestales necesarias para la implementación de la presente reforma al Poder Judicial.
+
+###### ARTÍCULO TERCERO.
+
+El proceso electoral extraordinario 2024-2025 para elegir la totalidad de Magistraturas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes y titulares de Juzgados del Poder Judicial del Estado de Aguascalientes, incluyendo los del Centro de Justicia Auxiliar, dará inicio el día de la entrada en vigor del presente decreto; la elección extraordinaria se llevará a cabo el primer domingo de junio de 2025 o de manera concurrente con la elección de los integrantes del Poder Judicial de la Federación conforme a las bases establecidas en el presente artículo:
+
+Las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria que emita el Congreso del Estado serán incorporadas a los listados para participar en la elección extraordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o se postulen para un cargo o partido judicial diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán en la fecha que tomen protesta las personas que emanen de la elección extraordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
+
+En el caso de que durante el periodo que transcurra entre la entrada en vigor del presente decreto y la toma de protesta de las personas electas en el proceso electoral extraordinario del 2025, se generen vacantes en el Pleno del Supremo Tribunal de Justicia del Estado de Aguascalientes, el Consejo de la Judicatura insaculará de entre todas las personas titulares de los juzgados de primera instancia del mismo género que la vacante, quien ejercerá las funciones de Magistrado, hasta en tanto entre en funciones la persona electa para ocupar dicho cargo. Lo anterior, no extingue su derecho para participar como juez en funciones en la elección correspondiente a su juzgado de primera instancia.
+
+Las vacantes de las personas titulares de los juzgados de primera instancia serán cubiertas por medio de acuerdo tomado por mayoría de los integrantes del Consejo de la Judicatura, hasta en tanto entre en funciones la persona electa en el referido proceso electoral.
+
+El Congreso del Estado tendrá un plazo de cinco días naturales posteriores a la entrada en vigor del presente Decreto, para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para elegir los cargos del Poder Judicial del Estado, conforme al procedimiento previsto en el artículo 54 de este Decreto.
+
+El Consejo General del Instituto Estatal Electoral podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales locales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General del Instituto Estatal Electoral celebre en la fecha que determine la Convocatoria.
+
+Para el proceso electoral extraordinario del 2025, todas las campañas para elegir a integrantes del Poder Judicial del Estado de Aguascalientes tendrán una duración máxima de 30 días, conforme al calendario que apruebe el Consejo General del Instituto Estatal Electoral.
+
+La jornada electoral se celebrará el primer domingo de junio del año 2025, o de manera concurrente con la elección de los integrantes del Poder Judicial de la Federación. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto Estatal Electoral, con excepción de representantes o militantes de un partido político.
+
+Para el proceso electoral extraordinario 2025, el Instituto Estatal Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones a más tardar treinta días naturales después de la presentación de la demanda respectiva.
+
+Por lo que hace al Pleno del Supremo Tribunal de Justicia del Estado, serán magistradas las seis mujeres que obtengan la mayor votación, y serán magistrados los cinco hombres que obtengan la mayor votación.
+
+Por lo que hace al Tribunal de Disciplina Judicial de Aguascalientes, serán magistradas las tres mujeres que obtengan la mayor votación, y serán magistrados los dos hombres que obtengan la mayor votación.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado en la fecha que se establezca en el calendario que emita el Consejo General del Instituto Estatal Electoral.
+
+El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar diez días después de la toma de protesta.
+
+El Consejo General del Instituto Estatal Electoral podrá ajustar los plazos y acciones de manera razonable respecto de los establecidos en el artículo 54 del presente Decreto a fin de que se pueda llevar a cabo la elección en el mes de junio de 2025, o de manera concurrente con la elección de los integrantes del Poder Judicial de la Federación así como la toma de protesta de las personas electas.
+
+###### ARTÍCULO CUARTO.
+
+El periodo de ejercicio de las y los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes y las y los Jueces que resulten electos en el proceso extraordinario de 2025, por única ocasión, será de ocho años, para concluir su encargo en el año 2033, con posibilidad de ser reelectos para un periodo de nueve años.
+
+No obstante, para efectos del escalonamiento en el Tribunal de Disciplina Judicial de Aguascalientes a que se refiere el tercer párrafo del apartado A del artículo 55 A de esta Constitución, se estará a lo siguiente:
+
+a) Las dos personas del género femenino más votadas ejercerán por un periodo de ocho años;
+
+b) La persona del género masculino más votada ejercerá por un periodo de ocho años;
+
+c) La persona del género femenino que haya obtenido el siguiente lugar en la votación ejercerá por un periodo de cinco años;
+
+d) La persona del género masculino que haya obtenido el siguiente lugar en la votación ejercerá por un periodo de cinco años;
+
+La disposición del primer párrafo de este artículo no será aplicable a las Magistraturas en funciones del Supremo Tribunal de Justicia del Estado que sean electos en la elección extraordinaria del año 2025, quienes ejercerán el cargo por el periodo que reste de su nombramiento original, observando lo siguiente:
+
+a) Cuando el periodo del nombramiento concluya el mismo año en que se realice la elección estatal ordinaria que corresponda, el cargo se renovará en esa elección, tomando protesta la persona que resulte electa el día en que concluya el nombramiento respectivo, y
+
+b) Cuando el periodo del nombramiento no concluya el mismo año en que se realice la elección federal ordinaria que corresponda, el periodo del nombramiento se prorrogará por el tiempo adicional hasta la próxima elección.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura Estatal continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción esta última del Supremo Tribunal de Justicia y su personal, hasta en tanto sean creados el Tribunal de Disciplina Judicial de Aguascalientes y el Órgano de Administración Judicial Estatal, y será quien ejerza las atribuciones de ambos órganos hasta en tanto se encuentren conformados. Será también el Consejo de la Judicatura Estatal quien realice la evaluación prevista en la fracción IV del artículo 54 de esta Constitución, hasta en tanto entre en funciones el Órgano de Administración de Justicia del Poder Judicial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+El Tribunal de Disciplina Judicial de Aguascalientes y el Órgano de Administración Judicial del Poder Judicial del Estado, iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial de Aguascalientes que emanen de la elección extraordinaria que se celebre en el año 2025. En esta misma fecha, el Consejo de la Judicatura Estatal quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura Estatal deberá implementar un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial de Aguascalientes en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial Estatal; y al Órgano de Administración Judicial del Poder Judicial del Estado en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+Dentro de los treinta días posteriores a la entrada en vigor del presente decreto, y de conformidad con lo establecido en los artículos 77, fracción XVI y 93 de la Ley Orgánica del Poder Judicial del Estado de Aguascalientes, el Consejo de la Judicatura Estatal emitirá los Lineamientos para el Proceso de Entrega Recepción de los servidores públicos salientes, conforme a lo siguiente:
+
+I. Los servidores públicos salientes deberán cumplir las obligaciones que les imponen los artículos 6 y 36, fracción VII, de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en relación con el artículo 10 de la Ley General de Archivos, así como los diversos 7 y 49, fracción VII de la Ley General de Responsabilidades Administrativas, para garantizar que los servidores públicos informen de los asuntos a su cargo y del estado que guardan y de formalizar la entrega recepción de los recursos públicos que tuvieren asignados al separarse de su cargo;
+
+II. Los Lineamientos establecerán que el proceso de entrega recepción iniciará, a más tardar, treinta días hábiles previos a la fecha de inicio de funciones del servidor público entrante y detallará su intervención en el proceso;
+
+III. Establecerán que el acta de entrega recepción deberá iniciarse en la fecha de inicio de funciones del servidor público entrante con la intervención que corresponda al Órgano Interno de Control y concluir, a más tardar, en los treinta días naturales siguientes;
+
+IV. Otorgarán a los servidores públicos entrantes un periodo de treinta días naturales para formular observaciones relacionadas con la información y los recursos públicos entregados;
+
+V. Establecerá el procedimiento para el desahogo de las observaciones que, en su caso, se presenten.
+
+El Consejo de la Judicatura aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Consejo continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial de Aguascalientes o al Órgano de Administración Judicial del Poder Judicial del Estado según corresponda.
+
+Las personas nombradas consejeros de la Judicatura Estatal por el Poder Ejecutivo y por el Poder Legislativo conforme al Decreto de reformas a la Constitución Política del Estado de Aguascalientes número 405, así como la integrante del Poder Judicial designada en términos del segundo párrafo del artículo Séptimo de los Transitorios del decreto referido, conformarán el primer Pleno del Órgano de Administración Judicial por un periodo de seis años, para concluir su encargo el 31 de agosto del 2031; esta misma regla y período aplicarán para quien ocupa el cargo de Secretario del Consejo de la Judicatura, quien se convertirá en el Secretario Ejecutivo del Órgano de Administración Judicial del Estado.
+
+La persona integrante del Consejo de la Judicatura a que se refiere el párrafo anterior, estará en el supuesto de formar parte del Pleno del Órgano de Administración Judicial siempre y cuando decline participar en el proceso electivo del año 2025 antes del cierre de registros previsto en la Convocatoria.
+
+Estas tres personas Consejeros del actual Consejo de la Judicatura que pasaran a formar parte del primer Pleno del Órgano de Administración Judicial, serán las encargadas de realizar y vigilar el proceso completo de entrega recepción, en los términos que se señalan en los presentes transitorios.
+
+Conforme a lo establecido en el artículo Séptimo de los transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial, las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente Decreto no podrán ser mayores a la establecida para la persona titular del Poder Ejecutivo Federal en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de esa Constitución en los casos que corresponda, sin responsabilidad para el Poder Judicial.
+
+Los derechos laborales relacionados con las jubilaciones de las Magistraturas que integran el Pleno del Supremo Tribunal de Justicia y que concluyan su encargo por no postularse o no haber sido electos en la elección extraordinaria del año 2025, se calcularan conforme a su último salario devengado antes de la entrada en vigor del presente decreto.
+
+Las Magistraturas que integran el Pleno del Supremo Tribunal de Justicia y que concluyan su encargo por no postularse o no haber sido electos en la elección extraordinaria del año 2025, no serán beneficiarias de un haber por retiro, salvo cuando presenten su renuncia al cargo, con efectos al 31 de agosto de 2025, antes de la fecha de cierre de la convocatoria señalada en el artículo 54 de este Decreto; en estos casos, el haber de retiro será proporcional al tiempo de su desempeño.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial Órgano de Administración Judicial del Poder Judicial del Estado a que se refiere el artículo 55 A del presente Decreto y que no están consideradas en este artículo, deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial de Aguascalientes, atendiendo a lo dispuesto en este artículo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado tendrá un plazo de 15 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes locales que correspondan para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+En atención a lo dispuesto en el último párrafo del artículo octavo transitorio del Decreto de reforma constitucional publicado en el Diario Oficial de la Federación el 15 de septiembre de 2024, que determina que para efectos de la organización del proceso electoral extraordinario del año 2025, no será aplicable lo dispuesto en el penúltimo párrafo de la fracción II, del artículo 105 de la Constitución Federal, el Instituto Estatal Electoral y demás autoridades observarán las leyes que se emitan en los términos del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos que al momento de la entrada en vigor del presente Decreto excedan de los plazos previstos en el artículo 7B del presente Decreto, deberán observar el procedimiento establecido en estos.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad y el régimen para sus jubilaciones, se regirá conforme a la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes vigente a la fecha en que ingresaron al servicio público estatal. El presupuesto de egresos del Poder Judicial del ejercicio fiscal que corresponda considerará los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+Las Magistradas y Magistrados y Juezas y Jueces de Primera Instancia del Poder Judicial del Estado, que concluyan su encargo al 31 de agosto de 2025 por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo, serán acreedoras al pago de un importe equivalente a tres meses de salario, a veinte días de salario por cada año de servicios prestados y a las demás prestaciones a que tengan derecho.
+
+Los órganos del Poder Judicial del Estado llevarán a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Finanzas.
+
+Los recursos a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos en la Secretaría de Finanzas y se destinarán a la implementación del presente Decreto y a los demás fines que esta determine.
+
+###### ARTÍCULO DÉCIMO.
+
+Las personas juzgadoras y magistradas que, en el proceso electoral de 2025, no resulten electas para continuar ejerciendo la función jurisdiccional o bien que hayan declinado su candidatura y que, al 31 de agosto de 2027 tuvieran el derecho a su jubilación por vejez o por antigüedad, conforme a la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes vigente a la fecha en que ingresaron al servicio público estatal, podrán acceder a una pensión, con base en el porcentaje que les corresponda por los años de servicio efectivamente laborados e igual tiempo de cotización ante el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes al 31 de agosto de 2025, y de acuerdo a la cantidad que les corresponda de conformidad con la legislación que les resulte aplicable, en términos de la siguiente tabla:
+
+15 años de aportación 50%
+
+16 años de aportación 53%
+
+17 años de aportación 56%
+
+18 años de aportación 60%
+
+19 años de aportación 64%
+
+20 años de aportación 68%
+
+21 años de aportación 72%
+
+22 años de aportación 76%
+
+23 años de aportación 80%
+
+24 años de aportación 84%
+
+25 años de aportación 88%
+
+26 años de aportación 92%
+
+27 años de aportación 96%.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las personas magistradas que, en el proceso electoral de 2027, no resulten electas para continuar ejerciendo la función jurisdiccional o bien que hayan declinado su candidatura y que tengan la edad mínima de 50 años cumplidos a esa fecha y 20 años de servicio efectivamente laborados e igual tiempo de cotización ante el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, podrán acceder a una pensión, con base en los años de servicio efectivamente laborados e igual tiempo de cotización ante el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes al 31 de agosto de 2027, y de acuerdo a la cantidad que les corresponda de conformidad con la legislación que les resulte aplicable, en términos de la siguiente tabla:
+
+20 años de aportación 68%
+
+21 años de aportación 72%
+
+22 años de aportación 76%
+
+23 años de aportación 80%
+
+24 años de aportación 84%
+
+25 años de aportación 88%
+
+26 años de aportación 92%
+
+27 años de aportación 96%
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
