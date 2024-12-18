@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2024-12-04"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE DICIEMBRE DE 2024.]</small>
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -779,13 +779,17 @@ XXVIII.- Emitir opinión en la formulación de los programas deportivos de las A
 
 XXVIII Bis.- Instrumentar e implementar el Programa de Fomento al Deporte de Alto Rendimiento y de Personas Deportistas Destacadas, para el desarrollo integral de atletas chihuahuenses.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024) (F. DE E., P.O. 18 DE DICIEMBRE DE 2024)
 
-XXIX. En coordinación con la Secretaría de Salud, generar certificaciones dirigidas a Asociaciones y Sociedades Deportivas, y en general al sector público y privado pertenecientes al ramo de la cultura física y deporte, con el objeto de fomentar el consumo responsable de suplementos alimenticios.
+XXIX.- Promover, dentro de las asociaciones deportivas, la implementación de unidades de atención, políticas y protocolos de prevención y atención del hostigamiento y acoso sexual en contra de las mujeres en el deporte.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 4 DE DICIEMBRE DE 2024)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2024) (F. DE E., P.O. 18 DE DICIEMBRE DE 2024)
 
-XXX. Las demás que esta Ley u otras disposiciones legales determinen.
+XXX.- En coordinación con la Secretaría de Salud, generar certificaciones dirigidas a Asociaciones y Sociedades Deportivas, y en general al sector público y privado pertenecientes al ramo de la cultura física y deporte, con el objeto de fomentar el consumo responsable de suplementos alimenticios.
+
+(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE DICIEMBRE DE 2024) (F. DE E., P.O. 18 DE DICIEMBRE DE 2024)
+
+XXXI.- Las demás que esta Ley u otras disposiciones legales determinen.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2006)</small>
 
