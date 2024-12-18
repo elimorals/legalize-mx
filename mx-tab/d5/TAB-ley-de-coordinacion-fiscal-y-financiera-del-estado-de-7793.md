@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-coordinacion-fiscal-y-financiera-del-estado-de-7793"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2023-12-20"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -251,11 +251,11 @@ LA RELACION CONTENIDA EN EL ARTICULO ANTERIOR NO LIMITA A LOS MUNICIPIOS PARA QU
 
 #### SECCION PRIMERA. PERIODICIDAD DEL CALCULO Y LIQUIDACION DE PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 4.
 
-EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE FINANZAS, CALCULARA Y ENTREGARA CON PERIODICIDAD MENSUAL Y DEFINITIVO LAS PARTICIPACIONES FEDERALES QUE LES CORRESPONDAN A LOS MUNICIPIOS, INCLUYENDO EN DICHO CALCULO AQUELLAS QUE SE DERIVEN DE LOS AJUSTES QUE REFIERE EL TERCER PARRAFO DEL ARTICULO 7 DE LA LEY DE COORDINACION FISCAL, 5 DIAS POSTERIORES DE QUE ESTAS FUERAN RECIBIDAS POR EL ESTADO DE ACUERDO A LOS FONDOS QUE ESTABLECE ESTA LEY.
+EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS, CALCULARA Y ENTREGARA CON PERIODICIDAD MENSUAL Y DEFINITIVO (SIC) LAS PARTICIPACIONES FEDERALES QUE LES CORRESPONDAN A LOS MUNICIPIOS, INCLUYENDO EN DICHO CALCULO, AQUELLAS QUE SE DERIVEN DE LOS AJUSTES QUE REFIERE EL TERCER PARRAFO DEL ARTICULO 7 DE LA LEY DE COORDINACION FISCAL, 5 DIAS POSTERIORES DE QUE ESTAS FUERAN RECIBIDAS POR EL ESTADO DE ACUERDO A LOS FONDOS QUE ESTABLECE ESTA LEY.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -349,19 +349,19 @@ LOS MUNICIPIOS PERCIBIRAN POR CONCEPTO DE PARTICIPACION EL 100% DEL MONTO DEL FO
 
 CADA MUNICIPIO PERCIBIRA PARTICIPACIONES DEL FONDO PREDIAL EQUIVALENTE A DOS VECES LA RECAUDACION DEL IMPUESTO PREDIAL, REZAGO Y ACCESORIOS, REGISTRADA EN EL MUNICIPIO EN EL MES INMEDIATO ANTERIOR A LA FECHA DEL CALCULO DE LAS PARTICIPACIONES, SALVO AQUELLOS CUYAS PARTICIPACIONES TOTALES EXCEDAN EL 25% DEL FONDO MUNICIPAL DE PARTICIPACIONES.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12.
 
-EN CADA EJERCICIO FISCAL, EL FONDO RECAUDATORIO SE CONSTITUIRA DE UN MONTO EQUIVALENTE A LA RECAUDACION MUNICIPAL DE IMPUESTOS Y SUS ACCESORIOS (EXCEPTO EL PREDIAL Y SUS ACCESORIOS), DERECHOS Y SUS ACCESORIOS Y LOS APROVECHAMIENTOS DERIVADOS DE MULTAS MUNICIPALES Y MULTAS FEDERALES NO FISCALES, QUE SE REGISTRE EN EL MES INMEDIATO ANTERIOR A LA FECHA DEL CALCULO DE LAS PARTICIPACIONES. CADA MUNICIPIO PERCIBIRA UNA PARTICIPACION DEL FONDO RECAUDATORIO EQUIVALENTE AL MONTO DE SU RECAUDACION DE LOS RUBROS SEÑALADOS EN ESTE ARTICULO, EN EL MISMO EJERCICIO FISCAL.
+EN CADA EJERCICIO FISCAL, EL FONDO RECAUDATORIO SE CONSTITUIRA DE UN MONTO EQUIVALENTE A LA RECAUDACION MUNICIPAL DE IMPUESTOS Y SUS ACCESORIOS (EXCEPTO EL PREDIAL Y SUS ACCESORIOS), DERECHOS Y SUS ACCESORIOS Y LOS APROVECHAMIENTOS DERIVADOS DE MULTAS GENERADAS POR LAS DIRECCIONES DE SEGURIDAD PUBLICA Y DE TRANSITO MUNICIPALES Y MULTAS FEDERALES NO FISCALES, QUE SE REGISTRE (SIC) EN EL MES INMEDIATO ANTERIOR A LA FECHA DEL CALCULO DE LAS PARTICIPACIONES. CADA MUNICIPIO PERCIBIRA UNA PARTICIPACION DEL FONDO RECAUDATORIO EQUIVALENTE AL MONTO DE SU RECAUDACION DE LOS RUBROS SEÑALADOS EN ESTE ARTICULO, EN EL MISMO EJERCICIO FISCAL.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12-A.
 
-LA SECRETARIA DE FINANZAS PODRA SOLICITAR EN CUALQUIER TIEMPO AL MUNICIPIO LA INFORMACION QUE ESTIME NECESARIA PARA VERIFICAR LAS CIFRAS O CANTIDADES RECAUDADAS Y, EN SU CASO, PODRA PROCEDER CONFORME LO DISPONE EL CAPITULO QUINTO DE ESTA LEY.
+LA SECRETARIA DE ADMINISTRACION Y FINANZAS PODRA SOLICITAR EN CUALQUIER TIEMPO AL MUNICIPIO LA INFORMACION QUE ESTIME NECESARIA PARA VERIFICAR LAS CIFRAS O CANTIDADES RECAUDADAS Y, EN SU CASO, PODRA PROCEDER CONFORME LO DISPONE EL CAPITULO QUINTO DE ESTA LEY.
 
-LA ENTREGA DE INFORMACION A LA SECRETARIA DE FINANZAS, EN CONTRAVENCION A LO DISPUESTO EN EL PRIMER PARRAFO DEL PRESENTE ARTICULO, SE SANCIONARA CONFORME LO ESTABLECE EL CAPITULO DE DELITOS FISCALES DEL CODIGO FISCAL DEL ESTADO.
+LA ENTREGA DE INFORMACION A LA SECRETARIA DE ADMINISTRACION Y FINANZAS, EN CONTRAVENCION A LO DISPUESTO EN EL PRIMER PARRAFO DEL PRESENTE ARTICULO, SE SANCIONARA CONFORME LO ESTABLECE EL CAPITULO DE DELITOS FISCALES DEL CODIGO FISCAL DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -425,9 +425,9 @@ PARA ACCEDER A LOS RECURSOS DEL FONDO QUE ESTABLECE EL PRESENTE ARTICULO, LOS MU
 
 LAS MULTAS, RECARGOS Y GASTOS DE EJECUCION, QUE EN SU CASO ENTEREN LOS MUNICIPIOS, SERAN PARTICIPABLES EN EL FONDO QUE ESTABLECE ESTE ARTICULO, DEBIENDO REALIZARSE EN SU CASO, EL PAGO DE LOS MISMOS CUANDO SE INCURRA EN EXTEMPORANEIDAD, CONFORME A LA LEY DE HACIENDA DEL ESTADO DE TABASCO.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-SI ASI LO ACUERDAN LOS MUNICIPIOS Y LA SECRETARIA DE FINANZAS, PODRAN CELEBRAR CONVENIOS PARA LA COMPENSACION DE FONDOS.
+SI ASI LO ACUERDAN LOS MUNICIPIOS Y LA SECRETARIA DE ADMINISTRACION Y FINANZAS, PODRAN CELEBRAR CONVENIOS PARA LA COMPENSACION DE FONDOS.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -439,9 +439,9 @@ SI ASI LO ACUERDAN LOS MUNICIPIOS Y LA SECRETARIA DE FINANZAS, PODRAN CELEBRAR C
 
 TER.- LOS MUNICIPIOS PARTICIPARAN DEL 100% DE LA RECAUDACION DEL IMPUESTO SOBRE LA RENTA CORRESPONDIENTE AL SALARIO DEL PERSONAL QUE PRESTE O DESEMPEÑE UN SERVICIO PERSONAL SUBORDINADO EN EL MUNICIPIO, ASI COMO EN SUS RESPECTIVAS ENTIDADES PARAMUNICIPALES, QUE EFECTIVAMENTE ENTEREN SUS DEPENDENCIAS Y ENTIDADES PARAMUNICIPALES A LA FEDERACION, SIEMPRE Y CUANDO SE CUMPLA CON LOS SUPUESTOS Y REQUISITOS ESPECIFICADOS EN EL ARTICULO 3-B DE LA LEY DE COORDINACION FISCAL Y DEMAS DISPOSICIONES QUE PARA TALES EFECTOS EMITA LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-LA DISTRIBUCION DE DICHA PARTICIPACION SE REALIZARA DE CONFORMIDAD CON LOS MONTOS, QUE POR MUNICIPIO INFORME LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO A LA SECRETARIA DE FINANZAS. EN CASO DE QUE DICHA DEPENDENCIA FEDERAL INFORME DEVOLUCIONES EFECTUADAS CON POSTERIORIDAD A LA TRANSFERENCIA DE LA PARTICIPACION QUE LE CORRESPONDA A LOS MUNICIPIOS Y EXISTA UNA DIFERENCIA, LA SECRETARIA DE FINANZAS REALIZARA LOS AJUSTES NECESARIOS HASTA QUE DICHA DIFERENCIA SEA CUBIERTA.
+LA DISTRIBUCION DE DICHA PARTICIPACION SE REALIZARA DE CONFORMIDAD CON LOS MONTOS, QUE POR MUNICIPIO INFORME LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO A LA SECRETARIA DE ADMINISTRACION Y FINANZAS. EN CASO DE QUE DICHA DEPENDENCIA FEDERAL INFORME DEVOLUCIONES EFECTUADAS CON POSTERIORIDAD A LA TRANSFERENCIA DE LA PARTICIPACION QUE LE CORRESPONDA A LOS MUNICIPIOS Y EXISTA UNA DIFERENCIA, LA SECRETARIA DE ADMINISTRACION Y FINANZAS REALIZARA LOS AJUSTES NECESARIOS HASTA QUE DICHA DIFERENCIA SEA CUBIERTA.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -451,9 +451,9 @@ LA DISTRIBUCION DE DICHA PARTICIPACION SE REALIZARA DE CONFORMIDAD CON LOS MONTO
 
 ARTICULO 16 QUATER.- SE ESTABLECE EL FONDO POR COORDINACION EN PREDIAL, EL CUAL SE CONSTITUYE CON EL PORCENTAJE A QUE SE REFIERE EL INCISO C) DE LA FRACCION II DEL ARTICULO 7 DE LA PRESENTE LEY, Y SERA DISTRIBUIDO EN LOS MUNICIPIOS QUE SE ENCUENTREN EN LOS SUPUESTOS SIGUIENTES:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-I. TENGAN CELEBRADO CON LA SECRETARIA DE FINANZAS, CONVENIO DE COORDINACION PARA LA ADMINISTRACION DEL IMPUESTO PREDIAL Y QUE ESTE SE ENCUENTRE PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO.
+I. TENGAN CELEBRADO CON LA SECRETARIA DE ADMINISTRACION Y FINANZAS, CONVENIO DE COORDINACION PARA LA ADMINISTRACION DEL IMPUESTO PREDIAL Y QUE ESTE SE ENCUENTRE PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
@@ -503,11 +503,11 @@ EL INFORME A QUE SE REFIERE EL PARRAFO ANTERIOR DEBERA SER PUBLICADO, POR CADA M
 
 #### SECCION SEGUNDA. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 20.
 
-LOS RECURSOS DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL D.F., PROVENIENTES DEL FONDO DE INFRAESTRUCTURA SOCIAL QUE ES DETERMINADO EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACION, SERAN ENTERADOS A LOS MUNICIPIOS POR CONDUCTO DEL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE FINANZAS.
+LOS RECURSOS DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL D.F., PROVENIENTES DEL FONDO DE INFRAESTRUCTURA SOCIAL QUE ES DETERMINADO EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACION, SERAN ENTERADOS A LOS MUNICIPIOS POR CONDUCTO DEL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -577,11 +577,11 @@ LOS MUNICIPIOS DEBERAN LLEVAR CUENTA Y ORDEN DEL GASTO Y SUS MODIFICACIONES POR 
 
 #### SECCION TERCERA. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 29.
 
-SON RECURSOS DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS LOS QUE SE DETERMINEN ANUALMENTE EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACION, Y SERAN ENTERADOS A LOS MUNICIPIOS POR CONDUCTO DEL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE FINANZAS.
+SON RECURSOS DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS LOS QUE SE DETERMINEN ANUALMENTE EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACION, Y SERAN ENTERADOS A LOS MUNICIPIOS POR CONDUCTO DEL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -743,23 +743,23 @@ III.- COEFICIENTE POBLACIONAL.- LA PROPORCION DIRECTA AL NUMERO DE HABITANTES QU
 
 #### SECCION PRIMERA. DE LA INFORMACION
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 39.
 
-LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES DEBERAN PROPORCIONAR DE MANERA IMPRESA Y HOJA DE CALCULO ELECTRONICA A LA SECRETARIA DE FINANZAS EL INFORME DE LA RECAUDACION OBTENIDA EN SUS MUNICIPIOS DEL MES INMEDIATO ANTERIOR, DURANTE LOS PRIMEROS DIEZ DIAS NATURALES DEL MES SIGUIENTE, PARA ESTAR EN CONDICIONES DE PAGAR LA PARTICIPACION DE LOS INCENTIVOS CORRESPONDIENTES. EN EL CASO QUE NO SE RINDA DICHO INFORME, LA SECRETARIA DE FINANZAS PODRA CALCULAR LAS PARTICIPACIONES MUNICIPALES, CON EL 70% DE LA ULTIMA CIFRA INFORMADA POR EL MUNICIPIO DE QUE SE TRATE.
+LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES DEBERAN PROPORCIONAR DE MANERA IMPRESA Y HOJA DE CALCULO ELECTRONICA A LA SECRETARIA DE ADMINISTRACION Y FINANZAS EL INFORME DE LA RECAUDACION OBTENIDA EN SUS MUNICIPIOS DEL MES INMEDIATO ANTERIOR, A MAS TARDAR EL DIA 10 DE CADA MES O DIA HABIL SIGUIENTE, PARA ESTAR EN CONDICIONES DE PAGAR LA PARTICIPACION DE LOS INCENTIVOS CORRESPONDIENTES. EN EL CASO QUE NO SE RINDA DICHO INFORME, LA SECRETARIA DE ADMINISTRACION Y FINANZAS PODRA CALCULAR LAS PARTICIPACIONES MUNICIPALES, CON EL 70% DE LA ULTIMA CIFRA INFORMADA POR EL MUNICIPIO DE QUE SE TRATE.
 
-CUANDO EXISTAN INCONSISTENCIAS EN LA INFORMACION A QUE SE REFIERE EL PARRAFO ANTERIOR, LA SECRETARIA DE FINANZAS REQUERIRA AL MUNICIPIO MEDIANTE OFICIO, LA ACLARACION Y DOCUMENTACION COMPROBATORIA QUE LE PERMITA VALIDAR DICHAS CIFRAS, PARA ELLO LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES CONTARAN CON UN PLAZO DE 5 DIAS NATURALES CONTADOS A PARTIR DEL DIA SIGUIENTE A LA RECEPCION DEL REQUERIMIENTO.
+CUANDO EXISTAN INCONSISTENCIAS EN LA INFORMACION A QUE SE REFIERE EL PARRAFO ANTERIOR, LA SECRETARIA DE ADMINISTRACION Y FINANZAS REQUERIRA AL MUNICIPIO MEDIANTE OFICIO, LA ACLARACION Y DOCUMENTACION COMPROBATORIA QUE LE PERMITA VALIDAR DICHAS CIFRAS, PARA ELLO LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES CONTARAN CON UN PLAZO DE 5 DIAS NATURALES CONTADOS A PARTIR DEL DIA SIGUIENTE A LA RECEPCION DEL REQUERIMIENTO.
 
-EN EL SUPUESTO DE QUE EL MUNICIPIO NO ACREDITE LA VERACIDAD DE SU INFORMACION O NO PRESENTE LA DOCUMENTACION REQUERIDA POR LA SECRETARIA DE FINANZAS, SE COMPENSARA EN EL MES SIGUIENTE, LA DIFERENCIA ENTRE EL EXCEDENTE DE LO PARTICIPADO Y LO RECAUDADO EN EL MES INMEDIATO ANTERIOR DE AQUEL EN QUE SE HAYAN OBSERVADO LAS INCONSISTENCIAS, DE CONFORMIDAD CON EL ARTICULO 6 DE LA PRESENTE LEY.
+EN EL SUPUESTO DE QUE EL MUNICIPIO NO ACREDITE LA VERACIDAD DE SU INFORMACION O NO PRESENTE LA DOCUMENTACION REQUERIDA POR LA SECRETARIA DE ADMINISTRACION Y FINANZAS, SE COMPENSARA EN EL MES SIGUIENTE, LA DIFERENCIA ENTRE EL EXCEDENTE DE LO PARTICIPADO Y LO RECAUDADO EN EL MES INMEDIATO ANTERIOR DE AQUEL EN QUE SE HAYAN OBSERVADO LAS INCONSISTENCIAS, DE CONFORMIDAD CON EL ARTICULO 6 DE LA PRESENTE LEY.
 
-DE IGUAL FORMA LA SECRETARIA DE FINANZAS PODRA SOLICITAR A LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES EL OTORGAMIENTO DE INFORMACION CUANDO SE PRESENTEN CONDICIONES QUE ASI LO JUSTIFIQUEN DURANTE EL EJERCICIO FISCAL.
+DE IGUAL FORMA LA SECRETARIA DE ADMINISTRACION Y FINANZAS PODRA SOLICITAR A LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES EL OTORGAMIENTO DE INFORMACION CUANDO SE PRESENTEN CONDICIONES QUE ASI LO JUSTIFIQUEN DURANTE EL EJERCICIO FISCAL.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 40.
 
-EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE FINANZAS Y LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES, A TRAVES DE SUS DIRECCIONES DE FINANZAS O TESORERIAS MUNICIPALES, PUBLICARAN EN AL MENOS DOS PERIODICOS DE CIRCULACION ESTATAL, A MAS TARDAR EN EL MES DE MES DE (SIC) SEPTIEMBRE, EL ESTADO FINANCIERO DE LA HACIENDA PUBLICA DE SU COMPETENCIA, CORRESPONDIENTE AL PRIMER SEMESTRE DE ESE AÑO, INCLUYENDO UN DESGLOSE DE SUS INGRESOS, EGRESOS Y EXISTENCIAS. ASIMISMO, EFECTUARAN OTRA PUBLICACION RESPECTO AL ESTADO FINANCIERO DE SUS HACIENDAS PUBLICAS DURANTE EL SEGUNDO SEMESTRE, A MAS TARDAR DURANTE EL MES DE ABRIL DEL AÑO SIGUIENTE.
+EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS Y LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES, A TRAVES DE SUS DIRECCIONES DE FINANZAS O TESORERIAS MUNICIPALES, PUBLICARAN EN AL MENOS DOS PERIODICOS DE CIRCULACION ESTATAL, A MAS TARDAR EN EL MES DE SEPTIEMBRE, EL ESTADO FINANCIERO DE LA HACIENDA PUBLICA DE SU COMPETENCIA, CORRESPONDIENTE AL PRIMER SEMESTRE DE ESE AÑO, INCLUYENDO UN DESGLOSE DE SUS INGRESOS, EGRESOS Y EXISTENCIAS. ASIMISMO, EFECTUARAN OTRA PUBLICACION RESPECTO AL ESTADO FINANCIERO DE SUS HACIENDAS PUBLICAS DURANTE EL SEGUNDO SEMESTRE, A MAS TARDAR DURANTE EL MES DE ABRIL DEL AÑO SIGUIENTE.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -767,23 +767,23 @@ EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE FINANZAS Y LOS AYUNTAM
 
 #### SECCION SEGUNDA. DE LA OBLIGACION
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 40
 
-BIS.- LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES ENTREGARAN A LA SECRETARIA DE FINANZAS LOS COMPROBANTES FISCALES DIGITALES POR INTERNET (CFDI) EN MEDIO DIGITAL E IMPRESO CORRESPONDIENTES A LAS TRANSFERENCIAS DE CADA UNO DE LOS RECURSOS ENTREGADOS POR DICHA DEPENDENCIA, EN UN LAPSO DE 5 DIAS NATURALES POSTERIORES A LA RECEPCION DE LOS RECURSOS EN LAS CUENTAS BANCARIAS REGISTRADAS PARA ESE FIN.
+BIS.- LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES ENTREGARAN A LA SECRETARIA DE ADMINISTRACION Y FINANZAS LOS COMPROBANTES FISCALES DIGITALES POR INTERNET (CFDI) EN MEDIO DIGITAL E IMPRESO CORRESPONDIENTES A LAS TRANSFERENCIAS DE CADA UNO DE LOS RECURSOS ENTREGADOS POR DICHA DEPENDENCIA, EN UN LAPSO DE 5 DIAS NATURALES POSTERIORES A LA RECEPCION DE LOS RECURSOS EN LAS CUENTAS BANCARIAS REGISTRADAS PARA ESE FIN.
 
-EN EL CASO DE INCUMPLIMIENTO, LA SECRETARIA DE FINANZAS HARA EL REQUERIMIENTO OFICIAL Y DARA A CONOCER DENTRO DE LAS REUNIONES QUE LLEVE A CABO LA COMISION ESTATAL DE COORDINACION HACENDARIA LA LISTA DE LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES QUE NO HAYAN ENTREGADO LOS COMPROBANTES A QUE SE REFIERE EL PARRAFO ANTERIOR, A FIN DE CONTAR EN TIEMPO Y FORMA CON LOS COMPROBANTES FALTANTES Y ESTAR EN POSIBILIDAD DE CONCLUIR CON LOS CIERRES MENSUALES PARA LA CUENTA PUBLICA DEL ESTADO.
+EN EL CASO DE INCUMPLIMIENTO, LA SECRETARIA DE ADMINISTRACION Y FINANZAS HARA EL REQUERIMIENTO OFICIAL Y DARA A CONOCER DENTRO DE LAS REUNIONES QUE LLEVE A CABO LA COMISION ESTATAL DE COORDINACION HACENDARIA LA LISTA DE LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES QUE NO HAYAN ENTREGADO LOS COMPROBANTES A QUE SE REFIERE EL PARRAFO ANTERIOR, A FIN DE CONTAR EN TIEMPO Y FORMA CON LOS COMPROBANTES FALTANTES Y ESTAR EN POSIBILIDAD DE CONCLUIR CON LOS CIERRES MENSUALES PARA LA CUENTA PUBLICA DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO SEXTO. DE LOS ACUERDOS FISCALES Y FINANCIEROS
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 41.
 
-EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE FINANZAS, PODRA CELEBRAR ACUERDOS DE COLABORACION ADMINISTRATIVA PARA COORDINARSE EN EL EJERCICIO DE LAS FUNCIONES EN MATERIA FISCAL Y FINANCIERA CON LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES.
+EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS, PODRA CELEBRAR ACUERDOS DE COLABORACION ADMINISTRATIVA PARA COORDINARSE EN EL EJERCICIO DE LAS FUNCIONES EN MATERIA FISCAL Y FINANCIERA CON LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -805,11 +805,11 @@ VI.- INFORMATICA; Y
 
 VII.- CAPACITACION.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 43.
 
-LA SECRETARIA DE FINANZAS Y LOS AYUNTAMIENTOS PODRAN IGUALMENTE CONVENIR EL INTERCAMBIO DE INFORMACION RELACIONADA CON LAS MATERIAS CONVENIDAS Y QUE TIENDA AL BUEN DESARROLLO DE LAS FUNCIONES FISCALES Y FINANCIERAS.
+LA SECRETARIA DE ADMINISTRACION Y FINANZAS Y LOS AYUNTAMIENTOS PODRAN IGUALMENTE CONVENIR EL INTERCAMBIO DE INFORMACION RELACIONADA CON LAS MATERIAS CONVENIDAS Y QUE TIENDA AL BUEN DESARROLLO DE LAS FUNCIONES FISCALES Y FINANCIERAS.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -831,11 +831,11 @@ IV. ATENDER LAS PETICIONES Y OPINIONES DEL GOBIERNO DEL ESTADO Y LOS AYUNTAMIENT
 
 V. IMPLEMENTAR, HOMOGENIZAR Y COMPLEMENTAR EL CATALOGO DE LOS CONCEPTOS DE LA RECAUDACION MUNICIPALES.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 45.
 
-LA COMISION ESTATAL DE COORDINACION HACENDARIA SE INTEGRARA POR UN PRESIDENTE, QUE SERA EL SECRETARIO DE FINANZAS Y SUS AUSENCIAS SERAN SUPLIDAS POR EL SUBSECRETARIO DE INGRESOS; UN SECRETARIO TECNICO, QUE SERA EL DIRECTOR DE COORDINACION HACENDARIA DE LA SECRETARIA DE FINANZAS; Y PARTICIPARAN COMO VOCALES LOS 17 PRESIDENTES MUNICIPALES, CUYAS AUSENCIAS SERAN CUBIERTAS POR LOS TESOREROS O DIRECTORES DE FINANZAS DE LA ADMINISTRACION MUNICIPAL A LA QUE PERTENEZCAN.
+LA COMISION ESTATAL DE COORDINACION HACENDARIA SE INTEGRARA POR UN PRESIDENTE, QUE SERA EL SECRETARIO DE ADMINISTRACION Y FINANZAS Y SUS AUSENCIAS SERAN SUPLIDAS POR EL SUBSECRETARIO DE INGRESOS; UN SECRETARIO TECNICO, QUE SERA EL DIRECTOR DE COORDINACION HACENDARIA DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS; Y PARTICIPARAN COMO VOCALES LOS 17 PRESIDENTES MUNICIPALES, CUYAS AUSENCIAS SERAN CUBIERTAS POR LOS TESOREROS O DIRECTORES DE FINANZAS DE LA ADMINISTRACION MUNICIPAL A LA QUE PERTENEZCAN.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -1620,3 +1620,137 @@ DÉCIMO QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días háb
 DÉCIMO SEXTO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2019, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+P.O. 18 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 033 POR EL QUE “SE REFORMAN SE REFORMAN: LOS ARTÍCULOS 4; 12; 12-A; 16-BIS, PÁRRAFO SEXTO; 16- TER, PÁRRAFO SEGUNDO; 16 QUÁTER, FRACCIÓN I; 20; 29; 39; 40; 40-BIS; 41; 43; Y 45; TODOS DE LA LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veinticinco, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2025 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2025 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2025 no contempla los recursos refrendados del ejercicio fiscal 2024, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2025.
+
+QUINTO. En el caso de los organismos públicos descentralizados y empresas de participación estatal mayoritaria, firmarán convenios de colaboración con la Secretaría de Administración y Finanzas, para que mediante plataforma web administrada por esa Secretaría, se supervisen e informen en tiempo real sus ingresos por concepto de derechos, productos y aprovechamientos, conforme a los mecanismos y lineamientos que en materia de ingresos se establezcan por esa misma dependencia.
+
+SEXTO. Por el periodo comprendido del 1 de enero al 30 de abril de 2025, se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que realicen el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía 2025 en las cajas de las receptorías y en la página web de la Secretaría de Administración y Finanzas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85, fracción IV, y 86, fracción IV, de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2025; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2025, y deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulos Ejercicio Periodo
+
+fiscal de pago
+
+Derecho de 20% 01 al 31
+
+refrendo anual de enero
+
+de placas, de 2025
+
+tarjeta de
+
+circulación y 15% 01 al 28
+
+calcomanías. 2025 de febrero
+
+Pago de 2025.
+
+presencial
+
+y en la 10% 01 al 31
+
+página Web. de marzo
+
+de 2025.
+
+5% 01 al 30
+
+de abril
+
+de 2025.
+
+SÉPTIMO. Por el periodo comprendido del 1 de enero al 30 de abril de 2025, se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que realicen el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía 2025 en la APP FIDI (Finanzas digital) de la Secretaría de Administración y Finanzas, consistente en un 20%, 17%, 14% y 10% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2025; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2025, y deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulos Ejercicio Periodo
+
+fiscal de pago
+
+Derecho de 20% 01 al 31
+
+refrendo anual de enero
+
+de placas, de 2025
+
+tarjeta de
+
+circulación y 17% 01 al 28
+
+calcomanías. de febrero
+
+Pago en la 2025 de 2025.
+
+APP FIDI.
+
+14% 01 al 31
+
+de marzo
+
+de 2025.
+
+10% 01 al 30
+
+de abril
+
+de 2025.
+
+OCTAVO. Por el periodo comprendido del 1 de enero al 30 de abril de 2025, se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que se encuentren omisas en el pago de las contribuciones establecidas en el artículo 85, fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, del ejercicio fiscal 2020 y anteriores, en los siguientes términos:
+
+Por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública correspondiente al ejercicio fiscal 2020, y por el refrendo anual de placa de circulación, tarjeta de circulación y calcomanía de los ejercicios fiscales 2022, 2023, 2024 y 2025, se cobrará el costo histórico de cada derecho con el valor de la Unidad de Medida y Actualización (UMA) del ejercicio fiscal correspondiente; asimismo, se otorgan estímulos consistentes en descuentos del 100% en actualizaciones, multas y recargos generados por la omisión del pago de los derechos antes referidos.
+
+NOVENO. Se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que se encuentren omisas en el pago de la contribución establecida en el artículo 85, fracción IV de la Ley de Hacienda del Estado de Tabasco, de los ejercicios fiscales 2021, 2022, 2023 y 2024, en los siguientes términos:
+
+Por concepto de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía de los ejercicios fiscales 2022, 2023, 2024 y 2025, se cobrará únicamente el costo histórico de cada derecho con el valor de la Unidad de Medida y Actualización (UMA) del ejercicio fiscal correspondiente; asimismo, se otorgan estímulos consistentes en descuentos del 100% en actualizaciones, multas y recargos generados por la omisión del pago de los derechos antes referidos.
+
+DÉCIMO. Se otorgan estímulos fiscales a las personas físicas y jurídico colectivas tenedoras, usuarias o propietarias de vehículos automotores que cuenten con placas de otra entidad federativa o que no cuenten con placas y quieran obtener placas en el Estado de Tabasco, en los siguientes términos:
+
+Por concepto de registro, emisión de tarjeta de circulación, calcomanía y otorgamiento de juego de placas 2025, se cobrará únicamente el costo del derecho establecido en el artículo 85, fracción I de la Ley de Hacienda del Estado de Tabasco; asimismo, se otorgan estímulos consistentes en descuentos del 100% en actualizaciones, multas y recargos generados por la omisión del pago de los derechos antes referidos.
+
+De igual manera, se otorga el 100% de descuento en el Impuesto sobre traslado de dominio de bienes muebles usados, establecido en el Título Segundo, Capítulo Primero de la Ley de Hacienda del Estado de Tabasco.
+
+DÉCIMO PRIMERO. Se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que se encuentren omisas en el pago de la contribución establecida en el artículo 85, fracción VI inciso b), de la Ley de Hacienda del Estado de Tabasco de los ejercicios fiscales anteriores a 2025, en los siguientes términos:
+
+Por concepto de cambio de propietario correspondiente a los ejercicios fiscales 2025 y anteriores, se otorga estímulo consistente en descuento del 100% en el pago de este derecho, así como el 100% de descuento en actualizaciones, multas y recargos generados por la omisión del pago de esta contribución.
+
+DÉCIMO SEGUNDO. Para todos beneficios señalados en los puntos anteriores, se otorga un estímulo fiscal consistente en un descuento del 100% en el pago del derecho por concepto de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía establecido en el artículo 85, fracción IV de la Ley de Hacienda del Estado de Tabasco, correspondiente al ejercicio fiscal 2021 y anteriores, así como el 100% de descuento en actualizaciones, multas y recargos generados por la omisión del pago del derecho y periodo antes referido.
+
+DÉCIMO TERCERO. Adicionalmente, para todos los beneficios señalados en los puntos anteriores, se otorga un estímulo fiscal consistente en un descuento del 70% en gastos de ejecución y honorarios causados por la omisión en el pago de los derechos establecidos en el artículo 85, fracciones I, IV, V y VI inciso b) de la Ley de Hacienda del Estado de Tabasco, así como en multas y/o infracciones por violaciones a la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento, impuestas por la Dirección General de la Policía Estatal de Caminos de la Secretaría de Seguridad y Protección Ciudadana del Estado de Tabasco.
+
+DÉCIMO CUARTO. Con la finalidad de actualizar el Registro Estatal de Vehículos, todos los estímulos fiscales determinados en los transitorios que anteceden, incluyendo el 100% de descuentos en el Impuesto sobre traslado de dominio de bienes muebles usados establecido en el Título Segundo, Capítulo Primero de la Ley de Hacienda del Estado de Tabasco, serán aplicables para todas aquellas personas físicas y jurídico colectivas tenedoras, usuarias o propietarias de vehículos automotores, que deseen realizar el cambio de propietario con el objeto se (sic) regularizar el estatus de sus unidades motrices.
+
+DÉCIMO QUINTO. Para que los contribuyentes puedan acceder a los beneficios referidos, deberán cumplir con las condiciones siguientes:
+
+I. Pagar en una sola exhibición los importes de las contribuciones y accesorios que no tengan descuentos; y en caso de trasladar el dominio del vehículo, deberán tramitar la baja por cambio de propietario dentro de los 15 días hábiles siguientes de haberse realizado la operación, conforme con lo establecido en el artículo 82, fracción II de la Ley de Hacienda del Estado de Tabasco, cubriendo al efecto el pago de la contribución correspondiente por el servicio prestado.
+
+II. Comprobar haberse desistido ante la autoridad correspondiente del medio de defensa que en su caso haya interpuesto en contra de los créditos fiscales materia del otorgamiento de los beneficios contenidos en este Decreto.
+
+III. Cumplir con las Reglas de Operación que para tal efecto establezca la Secretaría de Administración y Finanzas.
+
+DÉCIMO SEXTO. Los beneficios descritos en los transitorios anteriores, se sujetarán a lo siguiente:
+
+I. Los montos pagados se desglosarán dentro del formato de pago correspondiente, siendo innecesario que se emita una resolución por la autoridad fiscal para tal efecto.
+
+II. En ningún caso, el beneficio fiscal dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno sobre contribuciones o créditos fiscales pagados con anterioridad a la entrada en vigor del presente Decreto.
+
+III. Para efectos del pago de la parte que no cuenta con descuentos, no se aceptará pago en especie, ni compensación.
+
+IV. El contribuyente beneficiado deberá efectuar dentro del plazo legal conforme a la legislación aplicable, el pago de las contribuciones objeto de los beneficios que se causen en los ejercicios fiscales 2026, 2027 y 2028.
+
+V. Los interesados que presenten solicitud de trámites o movimientos en materia del Registro Estatal Vehicular a más tardar el 30 de abril de 2025, cuya realización requiera validación con otras entidades federativas, podrán acceder a los beneficios que establece el presente Decreto, siempre que culminen el tramité dentro del plazo de treinta días hábiles de vigencia establecido en la constancia de cambio de entidad federativa emitida por la Unidad Administrativa competente, adscrita a la Subsecretaría de Ingresos de la Secretaría de Administración y Finanzas del Estado de Tabasco.
+
+DÉCIMO SÉPTIMO. Se faculta a la Secretaría de Administración y Finanzas, a través de la Dirección de Recaudación, para revocar los beneficios fiscales concedidos mediante el presente Decreto, cuando se determine, de manera posterior, que el contribuyente declaró con falsedad, presentó documentación apócrifa, no cumplió con la regularización de sus obligaciones, no pagó las contribuciones objeto de los beneficios correspondientes a los ejercicios fiscales 2026, 2027 y 2028 o no tramitó la baja por cambio de propietario ante el traslado de dominio del vehículo, debiendo el contribuyente cubrir las contribuciones causadas en términos de la legislación fiscal estatal aplicable.
+
+DÉCIMO OCTAVO. La presentación del comprobante de pago de derechos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, de vehículos, motocicletas, motocarro de 3 llantas, motocarro de 4 llantas, vehículos todo terreno y remolques para el servicio particular, establecidos en el artículo 85, fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, hará las veces de tarjeta de circulación en tanto el contribuyente reciba dichos documentos. Lo anterior no será aplicable cuando se realicen modificaciones en el Registro Estatal de Vehículos.
+
+DÉCIMO NOVENO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2020, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo. Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
