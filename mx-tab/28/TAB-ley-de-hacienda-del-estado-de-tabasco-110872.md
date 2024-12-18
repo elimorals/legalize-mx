@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2023-12-20"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -55,11 +55,11 @@ LEY DE HACIENDA DEL ESTADO DE TABASCO
 
 La presente Ley es de orden público y de interés social. Tiene por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos tributarios y no tributarios que corresponden al Estado, que estén previstos en esta Ley y en las disposiciones fiscales aplicables, para cubrir el gasto público.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 2.
 
-La presente Ley será aplicada por el Ejecutivo del Estado a través de la Secretaría de Finanzas y demás autoridades fiscales. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
+La presente Ley será aplicada por el Ejecutivo del Estado a través de la Secretaría de Administración y Finanzas y demás autoridades fiscales. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
 
 ###### Artículo 3.
 
@@ -67,9 +67,9 @@ Para los efectos de esta Ley se considera:
 
 I. Autoridades Fiscales: Las señaladas en el artículo 8 del Código Fiscal del Estado de Tabasco, así como aquellas que conforme a las disposiciones locales o municipales se les dé ese carácter, de igual forma las que conforme a la legislación vigente cuenten con facultades para vigilar, verificar y comprobar el cumplimiento de las disposiciones fiscales en el Estado;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-II. Secretaría: La Secretaría de Finanzas del Estado de Tabasco;
+II. Secretaría: La Secretaría de Administración y Finanzas;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -205,13 +205,9 @@ I. Las personas que lleven a cabo las operaciones traslativas a que este impuest
 
 II. Tratándose de vehículos, las autoridades de tránsito en el Estado, no darán trámite a ninguna solicitud de alta o baja si no se hubiere cubierto previamente el impuesto a que se refiere este capítulo, así como lo referente al pago sobre refrendo anual de placa de circulación, tarjeta de circulación y calcomanía.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 
-III. Si la firma que se encuentra plasmada en el anverso de la factura o comprobante que ampare la propiedad del bien mueble, no coincide con la identificación oficial del otorgante, se ratificará la firma del mismo ante las autoridades fiscales, notario o fedatario público y ante testigos, acompañando copia de la identificación del otorgante, previo cotejo de su original.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
-
-IV. En caso que la factura original o comprobante que ampare la propiedad del bien mueble usado, posea más de dos traslados de dominio, posteriores al propietario inscrito en el Registro Estatal de Vehículos, se solicitará copia de la identificación oficial de la persona que se encuentra registrada y del último cedente.
+IV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 
 ###### Artículo 13.
 
@@ -517,23 +513,25 @@ Es base de este impuesto, el monto total de los pagos a que se refiere el artíc
 
 Este impuesto se causará, liquidará y pagará en razón de las siguientes tasas, sobre el monto total de los pagos a que se refiere el artículo anterior, aun cuando no excedan del valor diario de la Unidad de Medida y Actualización:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-I. Cuando se trate de los Poderes
+I. Cuando se trate de los Poderes de la Federación y
 
-de la Federación y del Estado, sus
+del Estado, sus dependencias, órganos
 
-dependencias, órganos administrativos
+administrativos desconcentrados, entidades y empresas
 
-desconcentrados, entidades y empresas
+productivas, Órganos Autónomos de la Federación
 
-productivas, así como los Órganos
+y del Estado, así como los Municipios y sus
 
-Autónomos de la Federación y del Estado. 3.0%
+dependencias y entidades. 3.0 %
 
-II. Cuando se trate de los demás sujetos
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-pasivos de la relación jurídico tributaria. 2.5%
+II. Cuando se trate de los demás sujetos pasivos
+
+de la relación jurídico tributaria. 3.5 %
 
 ###### Artículo 31.
 
@@ -647,13 +645,13 @@ Cuando las personas físicas operen organizadas en agrupaciones profesionales, a
 
 Cuando se trate de procedimientos quirúrgicos, incluyendo al responsable de aplicar la anestesia, las personas físicas y jurídico colectivas, que en sus instalaciones permitan la prestación de esos servicios lucrativos, estarán obligados (sic) presentar aviso que contenga 1) nombre del prestador de servicios, 2) RFC del prestador de servicios, 3) nombre del servicio prestado, 4) Lugar donde ejecutó el servicio, 5) Fecha en la que prestó el servicio, 6) Nombre del paciente al que se le realizó el procedimiento quirúrgico, 7) Honorarios cobrados por el prestador de servicios; información que deberá ser proporcionada por el prestador de servicios independientes a más tardar dentro de los 5 días hábiles siguientes a aquel en que preste el servicio.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-El aviso referido en el párrafo anterior, se presentará bimestralmente a más tardar el día 20 de los meses de: marzo, mayo, julio, septiembre, noviembre, así como, de enero del siguiente año, en la Dirección Técnica de Recaudación de la Subsecretaría de Ingresos de la Secretaría de Finanzas del Gobierno del Estado de Tabasco.
+El aviso referido en el párrafo anterior, se presentará bimestralmente a más tardar el día 20 de los meses de: marzo, mayo, julio, septiembre, noviembre, así como, de enero del siguiente año, en la Dirección de Recaudación de la Subsecretaría de Ingresos de la Secretaría.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-Será obligación de las personas físicas y jurídicas colectivas, que en sus instalaciones permitan la prestación de procedimientos quirúrgicos, incluyendo al responsable de aplicar la anestesia, el recaudar y enterar a la Secretaría de Finanzas, el Impuesto Sobre Honorarios por actividades profesionales y ejercicios lucrativos no gravados por la Ley del Impuesto al Valor Agregado que por estos procedimientos le corresponda pagar a los prestadores de servicio.
+Será obligación de las personas físicas y jurídicas colectivas, que en sus instalaciones permitan la prestación de procedimientos quirúrgicos, incluyendo al responsable de aplicar la anestesia, el recaudar y enterar a la Secretaría, el Impuesto Sobre Honorarios por actividades profesionales y ejercicios lucrativos no gravados por la Ley del Impuesto al Valor Agregado que por estos procedimientos le corresponda pagar a los prestadores de servicio.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -1005,13 +1003,13 @@ Se consideran ingresos gravados los pagos totales a que se refiere el artículo 
 
 #### SECCIÓN SEGUNDA. TASA Y PAGO DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 58.
 
-El impuesto se causará, liquidará y pagará a la tasa del 2.0 por ciento, sobre los ingresos a que se refiera el artículo anterior.
+El impuesto se causará, liquidará y pagará a la tasa del 3.0 por ciento, sobre los ingresos a que se refiera el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-En el caso de los prestadores de servicios de hospedaje ofertados a través de internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares contemplados por esta Ley, la tasa será del 2.0 por ciento.
+En el caso de los prestadores de servicios de hospedaje ofertados a través de internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares contemplados por esta Ley, la tasa será del 3.0 por ciento.
 
 ###### Artículo 59.
 
@@ -1541,7 +1539,7 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 #### SECCIÓN PRIMERA. CATASTRO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 73-A.
 
@@ -1923,7 +1921,9 @@ Tratándose de los derechos establecidos en los incisos b) y h) de la fracción 
 
 1) El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
 
-2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores del Estado de Tabasco; o
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado ante el Registro Estatal de Valuadores del Estado de Tabasco; o
 
 3) El valor catastral.
 
@@ -1965,7 +1965,7 @@ Por cada escritura o documento hecho o elaborado en otras Entidades Federativas 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE FINANZAS
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -2527,25 +2527,33 @@ i) Costo del servicio solicitado.
 
 j) Firma del solicitante del servicio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 #### SECCIÓN QUINTA. CUMPLIMIENTO DE OBLIGACIONES FISCALES
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 78.
 
-Por los servicios prestados por la Secretaría de Finanzas, relacionados con la Dirección de Catastro, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Administración y Finanzas relacionados con la Dirección de Catastro, se causarán y pagarán los derechos siguientes:
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 I. Por la expedición y certificación del valor catastral de la propiedad raíz a petición de parte. 4.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 II. Por la expedición de cada plano. 10.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 III. Certificación de documentos catastrales. 5.0 UMA
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 IV. Rectificación de medidas y colindancias:
 
@@ -2559,25 +2567,41 @@ b) Predio rústico:
 
 (c) De 10-00-01 Hectáreas en adelante. 100.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 V. Copia de los planos cartográficos:
 
 a) Tamaño carta (21 x 27 centímetros) a color, oficio (20 x 32 centímetros) 4.0 UMA
 
 b) Plano tamaño lámina con medidas 60 x 90 centímetros digital en formato jpg en resolución de 300 ppi (o alta resolución). 5.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 VI. Planos manzaneros de 90 x 60 centímetros digital en formato jpg en resolución de 300 ppi (o alta resolución). 15.0 UMA
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 VII. A solicitud del interesado verificación de predio, planos, de fraccionamientos urbanizados, por cada manzana. 7.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 VIII. Verificación de la poligonal del terreno de los predios rústicos en caso de fraccionamiento, por metro cuadrado. 0.05 UMA
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 IX. Por trámites efectuados vía Sistema Catastral y Registral del Estado de Tabasco:
 
 a) Consulta de información documental almacenada en disco compacto, por documento. 1.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 X. Constancia de no propiedad. 3.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 XI. Constancia de propiedad por predio. 5.0 UMA
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 XII. Por levantamiento topográfico: incluye generación del polígono, georreferenciación de puntos con coordenadas métricas UTM, impreso en papel tamaño carta, en la escala que se requiera:
 
@@ -2595,17 +2619,45 @@ XIII. Por la expedición anual de constancia que acredite su inscripción como p
 
 XIV. Por la expedición anual de constancia que acredite su inscripción como perito dibujante en el Estado. 14.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 XV. Por revisión y validación de avalúo comercial a peritos registrados ante la Secretaría. 25.0 UMA
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 XVI. Por revisión y validación de avalúo catastral a peritos registrados ante la Secretaría. 25.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 XVII. Expedición de cada folio para realizar Avalúo Comercial de predio urbano. 2.0 UMA
+
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 XVIII. Expedición de cada folio para realizar Avalúo Comercial de predio rústico. 1.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 XIX. Expedición de cada folio para realizar Avalúo Catastral en predios rústicos y urbanos. 1.0 UMA
 
+> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 XX. Cédula Catastral. 5.0 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXI. Rectificación de Plano Catastral hasta 15 Coordenadas UTM. 1.0 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXII. Rectificación de Plano Catastral de 16 hasta 50 Coordenadas UTM. 2.0 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Rectificación de Plano Catastral de 51 Coordenadas UTM en adelante. 3.0 UMA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Expedición de Folio para realizar plano cartográfico para trámites catastrales (Predio Rústico y Predio Urbano). 1.0 UMA
 
 Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I y II del presente artículo.
 
@@ -2639,9 +2691,9 @@ Cuando se trate de viviendas de interés social o popular, se cobrará en el pri
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
+#### SECCIÓN SEXTA. USO DE BIENES DE DOMINIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 79.
 
@@ -2949,9 +3001,9 @@ menudeo por cada unidad. 20.0 UMA
 
 El importe correspondiente al 10% del monto total de los derechos que se obtengan por los conceptos establecidos en este artículo será destinados al auxilio y estímulo de las acciones en materia de salud efectuadas por instituciones humanitarias de asistencia pública o privada, tales como servicio de urgencias médicas o de emergencia y socorro para víctimas. Los recursos serán otorgados de conformidad con los convenios que para tal efecto suscriban con la Secretaría.
 
-#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
+#### SECCIÓN SÉPTIMA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 80.
 
@@ -2993,9 +3045,7 @@ VII. Por modificación de cada permiso de
 
 cada establecimiento. 100.0 UMA
 
-#### SECCIÓN ÚNICA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
 
 ###### Artículo 81.
 
@@ -3009,9 +3059,9 @@ La tarjeta de circulación digital será intransferible por lo que no podrá ser
 
 Los conductores contarán con un comprobante de vigencia de la tarjeta de circulación emitido por la Secretaría, el cual deberán portar dentro del vehículo de forma impresa.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-Conforme a lo establecido en esta sección, a fin de validar la información o datos que se encuentran en los documentos proporcionados y en la unidad automotriz, todos los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, que realicen ante el Registro Estatal de Vehículos: altas, cambio de propietario, cambio de motor o color, deberán cumplir previamente con la verificación física y documental de dichas unidades ante la Secretaría de Finanzas, atendiendo el procedimiento que para tal efecto dicte la propia dependencia.
+Conforme a lo establecido en esta sección, a fin de validar la información o datos que se encuentran en los documentos proporcionados y en la unidad automotriz, todos los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, que realicen ante el Registro Estatal de Vehículos: altas, cambio de propietario, cambio de motor o color, deberán cumplir previamente con la verificación física y documental de dichas unidades ante la Secretaría, atendiendo el procedimiento que para tal efecto dicte la propia dependencia.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -3046,6 +3096,10 @@ III. Los propietarios, usuarios o tenedores de vehículos están obligados a pre
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 a) Que como resultado de algún accidente o siniestro sea declarada la pérdida total o destrucción del vehículo, mediante documento oficial emitido por la Fiscalía General del Estado, Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos, por las autoridades homólogas en otras entidades o por la Fiscalía General de la República.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+En el supuesto de que ninguna autoridad haya intervenido, si el vehículo estaba asegurado, podrán presentar constancia que expida la compañía aseguradora en la que se indique la fecha del siniestro.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -3551,11 +3605,11 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN SEGUNDA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”
+#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
 
 ###### Artículo 88.
 
-Por los servicios prestados por la Secretaría de Finanzas, relacionados con la emisión de la constancia de cumplimiento de obligaciones fiscales, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Administración y Finanzas, relacionados con la emisión de la constancia de cumplimiento de obligaciones fiscales, se causarán y pagarán los derechos siguientes:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -3563,171 +3617,147 @@ I. Por la expedición de la constancia de
 
 cumplimiento de obligaciones. 5.00 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88 Bis.
+
+Por los servicios prestados por la Secretaría de Administración y Finanzas, relacionados con el uso diario de los bienes de dominio público del Estado, se causarán y pagarán los derechos siguientes:
+
+I. Gran Salón del Centro de Convenciones. 1191.68 UMA
+
+II. Salón Framboyanes del Centro de Convenciones. 878.73 UMA
+
+III. Salón Tulipanes del Centro de Convenciones. 507.47 UMA
+
+IV. Salón Bugambilias del Centro de Convenciones. 292.91 UMA
+
+V. Salón Girasoles del Centro de Convenciones. 292.91 UMA
+
+VI. Salón Gardenias del Centro de Convenciones. 292.91 UMA
+
+VII. Nave I, II y III del Parque Tabasco Dora María, por cada una. 585.82 UMA
+
+VIII. Teatro al Aire Libre del Parque Tabasco Dora María. 439.37 UMA
+
+IX. Palenque de Gallos del Parque Tabasco Dora María. 732.28 UMA
+
+X. Estacionamiento I, II y III del Parque Tabasco Dora
+
+María, por cada uno. 219.68 UMA
+
+XI. Casa de la Laguna. 219.68 UMA
+
+XII. Zona Rodeo del Parque Tabasco Dora María. 219.68 UMA
+
+XIII. Bailódromo del Parque Tabasco Dora María. 219.68 UMA
+
+XIV. Cualquier espacio interior con medidas de 9 metros 10.00 UMA
+
+cuadrados dentro del Parque Tabasco Dora María distinto
+
+a los arriba señalados.
+
+XV. Por día adicional utilizado para montar o desmontar en 146.45 UMA
+
+alguno de los inmuebles señalados en las fracciones anteriores.
+
+XVI. Los estacionamientos I, II y III del Parque 0.46 UMA
+
+Tabasco Dora María, por vehículo, cuando no se actualice
+
+el supuesto de la fracción X del presente artículo.
+
+Para el caso de los derechos contemplados en las fracciones I a la XV del presente artículo, se sujetará a lo siguiente:
+
+a) El contribuyente adquirente del servicio deberá garantizar, con un 40 por ciento del monto del derecho que corresponda, el buen uso y cuidado de los bienes proporcionados. Dicha garantía se efectuará a través de un depósito de dinero ante la Secretaría;
+
+b) Al finalizar la prestación del servicio, la Secretaría a través de la unidad competente verificará el estado de los bienes de que se trate con la finalidad de constatar que no existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo;
+
+c) La verificación referida se practicará en presencia del contribuyente y deberá estar debidamente circunstanciada, cumpliendo con las formalidades establecidas en el derecho común para las inspecciones judiciales; y
+
+d) Para el caso en que existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, la garantía se hará efectiva hasta por el monto que derive de los mismos, en caso de ser insuficiente para repararlos, la diferencia estará a cargo del contribuyente; cuando en la verificación se constate que no existen daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, la Secretaría devolverá la garantía previa solicitud del contribuyente de conformidad con el Código Fiscal del Estado, a la que además deberá anexar la constancia de verificación.
+
+La Secretaría podrá exentar o en su caso reducir el pago de los derechos establecidos en el presente artículo, a los Poderes del Estado, sus dependencias, órganos administrativos desconcentrados y organismos descentralizados, así como a los órganos dotados de autonomía constitucional, siempre que utilicen los bienes de dominio público a que se refiere el presente artículo, para el desarrollo o promoción de actividades relacionadas con el ejercicio de sus atribuciones y no se releve de la obligación a un particular.
+
+La Secretaría, con motivo de eventos de promoción turística o cultural que emprenda el Gobierno del Estado, podrá exentar o en su caso reducir el pago de los derechos establecidos en el presente artículo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88 Ter.
+
+Por los servicios prestados por la Secretaría de Administración y Finanzas, relacionados con el Registro de Proveedores de Bienes Muebles y Servicios del Estado de Tabasco, se causarán y pagarán los derechos siguientes:
+
+I. Inscripción en el Registro de Proveedores de 12.0 UMA
+
+Bienes Muebles y Servicios del Estado de Tabasco.
+
+II. Revalidación por término de vigencia en el Registro de 12.0 UMA
+
+Proveedores de Bienes Muebles y
+
+Servicios del Estado de Tabasco.
+
+III. Revalidación por modificación o actualización de datos 6.0 UMA
+
+en el Registro de Proveedores de Bienes Muebles y
+
+Servicios del Estado de Tabasco.
+
+> <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 #### SECCIÓN PRIMERA. ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
 ### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
-#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
+#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 89.
 
-Por los servicios prestados por la Secretaría de Administración e Innovación Gubernamental, relacionados con el uso diario de los bienes de dominio público del Estado, se causarán y pagarán los derechos siguientes:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-I. Gran Salón del Centro de Convenciones. 1191.68 UMA
+#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-II. Salón Framboyanes del Centro de Convenciones. 878.73 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-III. Salón Tulipanes del Centro de Convenciones. 507.47 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-IV. Salón Bugambilias del Centro de Convenciones. 292.91 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-V. Salón Girasoles del Centro de Convenciones. 292.91 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-VI. Salón Gardenias del Centro de Convenciones. 292.91 UMA
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-VII. Nave I, II y III del Parque Tabasco Dora María, por cada una. 585.82 UMA
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-VIII. Teatro al Aire Libre del Parque Tabasco Dora María. 439.37 UMA
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-IX. Palenque de Gallos del Parque Tabasco Dora María. 732.28 UMA
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-X. Estacionamiento I, II y III del Parque Tabasco Dora María,
-
-por cada uno. 219.68 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-XI. Casa de la Laguna 219.68 UMA
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-XII. Zona Rodeo del Parque Tabasco Dora María. 219.68 UMA
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-XIII. Bailodromo del Parque Tabasco Dora María. 219.68 UMA
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-XIV. Cualquier espacio interior con medidas de 9 metros
-
-cuadrados dentro del Parque Tabasco Dora María distinto
-
-a los arriba señalados. 10.00 UMA
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-XV. Por el uso de alguno de los inmuebles
-
-señalados en las fracciones anteriores,
-
-se cobrará por días adicionales proporcionados
-
-para montar o desmontar. 146.45 UMA
-
-El contribuyente adquirente del servicio, deberá garantizar con un 40 por ciento del monto del derecho que corresponda el buen uso y cuidado de los bienes proporcionados, dicha garantía se efectuará a través de un depósito de dinero ante la Secretaría.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-Al finalizar la prestación del servicio la Secretaría de Administración e Innovación Gubernamental a través de la unidad competente verificará el estado de los bienes de que se trate con la finalidad de constatar que no existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo.
-
-Dicha verificación se practicará en presencia del contribuyente y deberá estar debidamente circunstanciada, cumpliendo con las formalidades establecidas en el derecho común para las inspecciones judiciales.
-
-Para el caso en que existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, la garantía se hará efectiva hasta por el monto que derive de los mismos, en caso de ser insuficiente para repararlos, la diferencia estará a cargo del contribuyente; cuando en la verificación se constate que no existen daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, la Secretaría devolverá la garantía previa solicitud del contribuyente de conformidad con el Código Fiscal del Estado a la que además deberá anexar la constancia de verificación.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-Se exenta del pago de los derechos establecidos en el presente artículo, a los Poderes del Estado, sus dependencias, órganos administrativos desconcentrados y organismos descentralizados, así como a los órganos dotados de autonomía constitucional, siempre que utilicen los bienes de dominio público a que se refiere el presente artículo, para el desarrollo o promoción de actividades relacionadas con el ejercicio de sus atribuciones y no se releve de la obligación a un particular.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
-
-La Secretaría, con motivo de eventos de promoción turística o cultural que emprenda el Gobierno del Estado, podrá exentar o en su caso reducir el pago, de los derechos establecidos en el presente artículo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-#### SECCIÓN PRIMERA. DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 90.
 
-Por los servicios prestados por la Secretaría de Administración e Innovación Gubernamental, relacionados con el Registro de Proveedores de Bienes Muebles y Servicios del Estado de Tabasco, se causarán y pagarán los derechos siguientes:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
-I. Inscripción en el Registro de
+### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE Y SU ÓRGANO DESCONCENTRADO
 
-Proveedores de Bienes Muebles y
-
-Servicios del Estado de Tabasco. 12.0 UMA
-
-II. Revalidación por término de
-
-vigencia en el Registro de
-
-Proveedores de Bienes Muebles y
-
-Servicios del Estado de Tabasco. 12.0 UMA
-
-III. Revalidación por modificación o
-
-actualización de datos en el Registro
-
-de Proveedores de Bienes Muebles y
-
-Servicios del Estado de Tabasco. 6.0 UMA
-
-### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO
-
-> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN ÚNICA], P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 91.
 
 Por los servicios prestados por la Secretaría de Educación, sus órganos desconcentrados, así como los organismos descentralizados sectorizados a ésta, se causarán y pagarán los derechos conforme al Anexo Primero de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
-#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 91-A.
 
-Por los servicios prestados por la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Medio Ambiente y Desarrollo Sostenible, se causarán y pagarán los derechos siguientes:
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Derechos por trámites en materia de impacto y riesgo ambiental:
 
@@ -3787,6 +3817,8 @@ i) Por la recepción y revisión de estudio de Evaluación
 
 de Daños Ambientales. 150.0 UMA
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 II. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
 
 a) Por el aprovechamiento y extracción
@@ -3803,19 +3835,23 @@ como arena, arcilla, suelo o cualquier otro material,
 
 por metro cúbico. 0.10 UMA
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 III. Derechos por trámites en materia de manejo integral de residuos de manejo especial.
 
 a) Por el registro como generador de residuos
 
 de manejo especial. 40.0 UMA
 
-b) Por la presencia de la Secretaría de Bienestar,
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-Sustentabilidad y Cambio Climático para la realización
+b) Por la presencia de la Secretaría de Medio Ambiente
 
-del protocolo de pruebas tecnológicas para el
+y Desarrollo Sostenible para la realización del protocolo
 
-tratamiento de residuos de manejo especial. 60.0 UMA
+de pruebas tecnológicas para el tratamiento
+
+de residuos de manejo especial. 60.0 UMA
 
 c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 
@@ -3897,6 +3933,8 @@ del tratamiento de residuos de manejo especial
 
 de competencia estatal, por tonelada. 1.00 UMA
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 IV. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
 
 a) Por la recepción, evaluación y emisión de la
@@ -3918,6 +3956,8 @@ anual - Cédula de Operación Anual o Cédula
 de Operación Anual de Registro de Emisiones y
 
 Transferencia de Contaminantes. 30.0 UMA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 V. Derechos por actividades dentro de áreas naturales protegidas:
 
@@ -3945,17 +3985,25 @@ de recursos en las áreas naturales protegidas de
 
 competencia estatal. 100.0 UMA
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 VI. Por los servicios de monitoreo de una muestra
 
 realizada por el laboratorio ambiental. 5.0 UMA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 VII. Por los servicios de análisis de una muestra en
 
 el laboratorio ambiental. 15.0 UMA
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 VIII. Por el servicio de opiniones técnicas de
 
 compatibilidad. 35.08 UMA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 IX. Por expedición de la constancia de reducción
 
@@ -3999,13 +4047,47 @@ fabricación, elaboración, producción o
 
 manufactura de bolsas y popotes de plástico. 150.0 UMA
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN ÚNICA. DESARROLLO AGROPECUARIO Y PESCA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 91-B.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
+Por los servicios prestados por la Comisión Estatal Forestal en materia de desarrollo forestal, se causarán y pagarán los derechos siguientes:
+
+I. Por plantas forestales
+
+a) Plantas forestales nativas. 0.060 UMA
+
+(a) Con descuento del 20%. 0.048 UMA
+
+(b) Con descuento del 40%. 0.036 UMA
+
+(c) Con descuento del 60%. 0.024 UMA
+
+b) Plantas forestales introducidas. 0.060 UMA
+
+(a) Con descuento del 20%. 0.048 UMA
+
+(b) Con descuento del 40%. 0.036 UMA
+
+(c) Con descuento del 60%. 0.024 UMA
+
+c) Plantas para arborización, paisaje, sombra, etc. 0.060 UMA
+
+(a) Con descuento del 20%. 0.048 UMA
+
+(b) Con descuento del 40%. 0.036 UMA
+
+(c) Con descuento del 60%. 0.024 UMA
+
+d) Planta clonada. 0.103 UMA
+
+II. Servicio de asesoría técnica. 14.79 UMA
+
+III. Servicio de asesoría técnica especializada. 29.58 UMA
 
 ### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
 
@@ -4019,9 +4101,9 @@ El paciente cubrirá los derechos a que se refiere esta Ley, de acuerdo al resul
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2019)</small>
 
-### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
+### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 93.
 
@@ -4345,23 +4427,23 @@ o) Otros. 10.0 UMA
 
 V. Corrección o cancelación de trámite. 5.0 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS Y SUS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 94.
 
-Por los servicios prestados por la Secretaría para el Desarrollo Económico y la Competitividad, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Turismo y Desarrollo Económico, se causarán y pagarán los siguientes derechos:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 I. Por concepto de inscripción o revalidación en el Registro Estatal de Agentes Inmobiliarios del Estado de Tabasco. 6.0 UMA
 
-### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO Y PESCA
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
 
 ###### Artículo 95.
 
@@ -4423,7 +4505,7 @@ relacionados con el mismo, previo a la emisión
 
 del Dictamen. 50,000 UMA
 
-#### SECCIÓN ÚNICA. COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+#### SECCIÓN PRIMERA
 
 ###### Artículo 96.
 
@@ -4803,9 +4885,7 @@ En caso de que se requiera pagar peaje por cuotas de carreteras o autopistas, de
 
 Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobras complejas y equipo adicional para su traslado, se aumentará el costo de los servicios establecidos en los incisos a), b), c), d) y e) de la fracción III del presente artículo en un 10 por ciento.
 
-#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 97.
 
@@ -4923,9 +5003,9 @@ k) Mayor de 10 hectáreas a 15 hectáreas. 75.0 UMA
 
 l) Mayor a 15 hectáreas a 20 hectáreas. 83.0 UMA
 
-#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
+#### SECCIÓN ÚNICA. CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 98.
 
@@ -4933,17 +5013,21 @@ Por los servicios prestados por la Junta Estatal de Caminos, se causará y pagar
 
 I. Permiso carretero 585.83 UMA
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO DÉCIMO TER. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE CULTURA
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
+#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 98-A.
 
-Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Desarrollo Agropecuario y Pesca, se causarán y pagarán los derechos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Por la producción de plantas y semillas:
 
@@ -5077,6 +5161,8 @@ agroindustriales. 46.04 UMA
 
 a) Costo de asesoría técnica por hora. 34.00 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 V. Los costos para la autorización en materia de acopio, distribución, tránsito y movilización de ganado, se cobrarán de acuerdo al cuadro siguiente:
 
 a) Folio de guía de transito asignado al organismo
@@ -5092,6 +5178,8 @@ c) Clave de autorización de prestadores de servicios
 ganaderos (PSG) de centros de acopio o centro de
 
 distribución. 10.00 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 VI. El CECAREM, expenderá al público en general sus productos, bajo el siguiente esquema:
 
@@ -5225,6 +5313,8 @@ ddd) Cayuco: de fibra de vidrio de 5 mts.
 
 de espejo para motor (pz). 83.69 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 VII. En materia de acuacultura, la comercialización de productos se realizará de la forma siguiente:
 
 a) Paq. de 100 alevines sin hormonar. 1.00 UMA
@@ -5245,55 +5335,15 @@ VIII. Asesoría técnica por hora (incluye traslado). 5.75 UMA
 
 IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
+#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 98-B.
 
-Por los servicios prestados por la Comisión Estatal Forestal, se causarán y pagarán los derechos siguientes:
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-I. Por plantas forestales:
-
-a) Plantas forestales nativas. 0.060 UMA
-
-(a) Con descuento del 20%. 0.048 UMA
-
-(b) Con descuento del 40%. 0.036 UMA
-
-(c) Con descuento del 60%. 0.024 UMA
-
-b) Plantas forestales introducidas. 0.060 UMA
-
-(a) Con descuento del 20%. 0.048 UMA
-
-(b) Con descuento del 40%. 0.036 UMA
-
-(c) Con descuento del 60%. 0.024 UMA
-
-c) Plantas para arborización, paisaje,
-
-sombra, etc. 0.060 UMA
-
-(a) Con descuento del 20%. 0.048 UMA
-
-(b) Con descuento del 40%. 0.036 UMA
-
-(c) Con descuento del 60%. 0.024 UMA
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
-
-d) Planta clonada. 0.103 UMA
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-II. Servicio de asesoría técnica. 14.79 UMA
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-III. Servicio de asesoría técnica especializada. 29.58 UMA
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -6105,17 +6155,21 @@ XVII. Uso de la plaza de la librería del Fondo de
 
 Cultura Económica "José Carlos Becerra". 47.34 UMA
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
 XVIII. Por el uso del espacio del local 9 ubicado
 
 en el Centro de Investigaciones de la Cultura
 
-Olmeca y Maya, por mes. 355.07 UMA
+Olmeca y Maya, por mes. 598.69 UMA
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 XIX. Por el uso del espacio del local 10 ubicado
 
 en el Centro de Investigaciones de la Cultura
 
-Olmeca y Maya, por mes. 118.36 UMA
+Olmeca y Maya, por mes. 138.19 UMA
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
@@ -6145,15 +6199,19 @@ I Servicios relacionados con el Registro Único de Contratistas del Estado de Ta
 
 a) Por inscripción:
 
-(a) Vigencia de 1 año. 25.00 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) Vigencia de 2 años. 38.00 UMA
+(a) Vigencia de 1 año. 40.0 UMA
+
+(b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
 b) Por revalidación:
 
-(a) Vigencia de 1 año. 20.00 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) Vigencia de 2 años. 30.00 UMA
+(a) Vigencia de 1 año. 35.0 UMA
+
+(b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
 c) Por aumento de capital o especialidades. 15.00 UMA
 
@@ -6163,9 +6221,9 @@ e) Por reposición de cédula. 2.00 UMA
 
 II. Servicios relacionados con la constancia de no inhabilitación:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-a) Expedición. 3.00 UMA
+a) Expedición. 5.0 UMA
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -6173,11 +6231,11 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
 
-#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
 
 ###### Artículo 100.
 
@@ -6185,25 +6243,25 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
 
 ###### Artículo 101.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
 ### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-#### SECCIÓN SÉPTIMA. MUSEO INTERACTIVO PAPAGAYO
+#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 102.
 
-Por los servicios prestados por la Coordinación General de Asuntos Jurídicos, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Consejería Jurídica del Poder Ejecutivo del Estado, se causarán y pagarán los derechos siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -6223,9 +6281,9 @@ Poder Ejecutivo para la venta de cartuchos de uso deportivo. 52.0 UMA
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
 
-#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 103.
 
@@ -6295,7 +6353,9 @@ XVII. Servicio mensual Centro de Atención Infantil (CAI) lista de raya, contrat
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SÉPTIMA. MUSEO INTERACTIVO PAPAGAYO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 110.
 
@@ -6621,7 +6681,9 @@ b) Por 8 horas. 30.00 UMA
 
 XLVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
+#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 111.
 
@@ -6819,7 +6881,7 @@ XXXIII. Por el uso anual de espacio
 
 para publicidad en espectacular F. 133.90 UMA
 
-#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 112.
 
@@ -6853,6 +6915,22 @@ documentos relacionados con la
 
 venta de lotes y viviendas. 2.80 UMA
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+V. Por el uso del estacionamiento ubicado en Avenida Los Ríos Tabasco 2000, por vehículo:
+
+a) Por hora o fracción. 0.14 UMA
+
+b) Por mes (pensión). 4.60 UMA
+
+c) Por boleto perdido de 0.92 UMA
+
+estacionamiento.
+
+d) Por el uso de la explanada por día. 23.02 UMA
+
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
+
 ###### Artículo 113.
 
 Por los servicios prestados por la Comisión Estatal de Agua y Saneamiento, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes abajo descritos.
@@ -6863,49 +6941,81 @@ I. USO DOMÉSTICO. Por la recaudación de los Derechos de Agua Uso Doméstico, m
 
 A) Popular:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 0.37 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.03 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 0.92 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.08 UMA
 
 B) Medio:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 0.47 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.04 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 1.15 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.10 UMA
 
 C) Múltiple:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 0.71 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.06 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 1.73 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.15 UMA
 
 D) Residencial sin alberca:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 1.10 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.09 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 2.68 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.23 UMA
 
 E) Residencial alberca uso común:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 1.52 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.12 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 3.71 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.31 UMA
 
 F) Residencial alberca uso privado:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 1.60 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.13 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 3.90 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.33 UMA
 
 G) Comercial:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 2.42 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-(b) De 26 m3 en adelante precio por m3. 0.19 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 5.90 UMA
 
-H) Viviendas abandonadas. 0.19 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-I) Solo drenaje 0.19 UMA
+(b) De 26 m3 en adelante precio por m3. 0.49 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+H) Viviendas abandonadas. 0.46 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+I) Solo drenaje 0.46 UMA
 
 Los usuarios a que se refiere el artículo 4, fracción LVII de la Ley de Usos de Agua del Estado de Tabasco, que sean personas de la tercera edad, propietarios de un inmueble con toma de uso de agua doméstico, y que se encuentren afiliados al Instituto Nacional de las Personas Adultas Mayores, recibirán un descuento del 50% sobre el adeudo total a pagar al presentar la credencial del INAPAM vigente.
 
@@ -6915,43 +7025,57 @@ A) Básico:
 
 (a) De 0 hasta 25 m3 (Cuota mínima). 3.22 UMA
 
-(b) De 26 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.51 UMA
 
 B) General:
 
 (a) De 0 hasta 25 m3 (Cuota mínima). 5.60 UMA
 
-(b) De 26 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.51 UMA
 
 C) Especial:
 
 (a) De 0 hasta 25 m3 (Cuota mínima). 23.11 UMA
 
-(b) De 26 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 26 m3 en adelante precio por m3. 0.51 UMA
 
 D) Lavadoras de autos y camiones:
 
 (a) De 0 hasta 50m3 (Cuota mínima). 24.77 UMA
 
-(b) De 51 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 51 m3 en adelante precio por m3. 0.51 UMA
 
 E) Purificadoras de agua en casa habitación o módulos independientes:
 
 (a) De 0 hasta 50 m3 (Cuota mínima). 15.58 UMA
 
-(b) De 51 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 51 m3 en adelante precio por m3. 0.51 UMA
 
 F) Lavado y planchado de ropa:
 
 (a) De 0 hasta 50 m3 (Cuota mínima). 22.23 UMA
 
-(b) De 51 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 51 m3 en adelante precio por m3. 0.51 UMA
 
 G) Macromedición (Tomas de 1" hasta 2”):
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 76.19 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.20 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.51 UMA
 
 H) Locales comerciales abandonados. 1.04 UMA
 
@@ -6963,13 +7087,17 @@ A) Servicios (Tomas hasta de 1"):
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 22.23 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.30 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.77 UMA
 
 B) Producción (Tomas de 1” hasta 2"):
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 125.81 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.30 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.77 UMA
 
 C) Solo drenaje 5.20 UMA
 
@@ -6979,25 +7107,33 @@ A) Oficinas, Parques, Jardines, Centros de Salud y dependencias generales:
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 13.39 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.05 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+b) De 101 m3 en adelante precio por m3. 0.13 UMA
 
 B) Mercados en zona húmeda, por local:
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 14.35 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.10 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.26 UMA
 
 C) Hospitales:
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 14.35 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.05 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.13 UMA
 
 D) Universidades y Escuelas Públicas
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 14.35 UMA.
 
-(b) De 101 m3 en adelante precio por m3. 0.05 UMA.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.13 UMA
 
 E) Locales públicos abandonados. 3.34 UMA
 
@@ -7009,29 +7145,49 @@ A) Módulos
 
 (a) De 0 hasta 100 m3 (Cuota mínima). 62.90 UMA
 
-(b) De 101 m3 en adelante precio por m3. 0.30 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+(b) De 101 m3 en adelante precio por m3. 0.77 UMA
 
 B) Solo drenaje 10.40 UMA
 
 VI. CONTRATOS. Por los contratos de adhesión de los servicios de agua potable:
 
-a) Doméstico popular. 9.67 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-b) Doméstico medio. 10.48 UMA
+a) Doméstico popular. 5.80 UMA
 
-c) Doméstico múltiple. 10.80 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-d) Doméstico residencial sin alberca. 22.56 UMA
+b) Doméstico medio. 6.29 UMA
 
-e) Doméstico residencial con alberca de uso común. 23.36 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-f) Doméstico residencial con alberca de uso privado. 24.17 UMA
+c) Doméstico múltiple. 6.48 UMA
 
-g) Doméstico comercial. 23.19 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-h) Comercial básico. 32.24 UMA
+d) Doméstico residencial sin alberca. 13.54 UMA
 
-i) Comercial general. 40.29 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+e) Doméstico residencial con alberca de uso común. 14.02 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+f) Doméstico residencial con alberca de uso privado. 14.50 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+g) Doméstico comercial. 13.91 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+h) Comercial básico. 19.34 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+i) Comercial general. 24.17 UMA
 
 j) Comercial especial. 56.40 UMA
 
@@ -7291,47 +7447,79 @@ IX. PIPAS.
 
 A) SUMINISTRO DE AGUA POTABLE:
 
-1. Suministro de 5 mil litros de agua potable (incluye renta de la pipa). 3.59 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+1. Suministro de 5 mil litros de agua potable (incluye renta de la pipa). 11.78 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 2. Suministro de 10 mil litros de agua potable (no incluye renta de la pipa):
 
-a. Zona Ríos, Chontalpa y Sierra 4.48 UMA.
+a. Zona Ríos, Chontalpa y Sierra 14.69 UMA
 
-b. Zona Costera 6.72 UMA.
+b. Zona Costera 22.04 UMA
 
-3. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará). 8.96 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-4. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará). 13.44 UMA
+3. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará). 29.39 UMA
 
-5. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 17.92 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-6. Suministro de 10 mil litros de agua potable para uso industrial (incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 22.40 UMA
+4. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará). 44.08 UMA
 
-7. Suministro de un litro de agua potable. 0.01 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+5. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 58.78 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+6. Suministro de 10 mil litros de agua potable para uso industrial (incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 58.78 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+7. Suministro de un litro de agua potable. 0.03 UMA
 
 B) SUMINISTRO DE AGUA TRATADA DE PLANTAS DE TRATAMIENTO DE AGUA RESIDUALES, PARA USO INDUSTRIAL Y AGRICOLA:
 
-1. Suministro de 1 metro cúbico de agua tratada sin pipa. 0.18 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-2.Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará) 6.27 UMA
+1. Suministro de 1 metro cúbico de agua tratada sin pipa. 0.39 UMA
 
-3. Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará) 9.40 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-4.Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 12.54 UMA
+2.Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará) 13.42 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+3. Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará) 20.12 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+4.Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 26.84 UMA
 
 X. TOMAS DOMICILIARIAS. Por los costos relacionados con la toma de agua domiciliaria (por inmueble):
 
 A) Instalación.
 
-1. De media pulgada (1/2”) de diámetro en terracería/arcilla hasta un metro cúbico de excavación (no incluye material). 8.64 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-2. Por cada metro cúbico de excavación adicional en terracería/arcilla (no incluye material). 3.5 UMA
+1. De media pulgada (1/2”) de diámetro en terracería/arcilla hasta un metro cúbico de excavación (no incluye material). 9.13 UMA
 
-3. De media pulgada (1/2”) de diámetro en asfalto/concreto hasta un metro cúbico de excavación (no incluye material). 14.39 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-4. Por cada metro cúbico de excavación adicional en asfalto/concreto (no incluye material). 4.76 UMA
+2. Por cada metro cúbico de excavación adicional en terracería/arcilla (no incluye material). 3.70 UMA
 
-B) Reinstalación/reconexión. 14.00 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+3. De media pulgada (1/2”) de diámetro en asfalto/concreto hasta un metro cúbico de excavación (no incluye material). 15.21 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+4. Por cada metro cúbico de excavación adicional en asfalto/concreto. 5.03 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+B) Reinstalación/reconexión. 14.80 UMA
 
 XI. MEDIDORES, CUADROS Y VÁLVULAS. Por suministro e instalación de medidor, cuadro y válvula. (Por inmueble).
 
@@ -7377,19 +7565,33 @@ t) Suministro e instalación de macro medidor ultrasónico con sistema remoto, d
 
 XII. DESAZOLVE. Por los costos del servicio de desazolve:
 
-a) De fosa séptica en un radio de hasta 10 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 15.00 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-b) De fosa séptica en un radio de hasta 20 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 16.50 UMA
+a) De fosa séptica en un radio de hasta 10 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 32.10 UMA
 
-c) De fosa séptica en un radio de hasta 30 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 20.00 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-d) Metro cúbico de descarga de aguas residuales a la planta de tratamiento de agua residuales. 2.8 UMA
+b) De fosa séptica en un radio de hasta 20 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 35.31 UMA
 
-e) Servicio de un equipo hidroneumático tipo Vactor para desazolve de alcantarillado hasta 100 metros lineales. 15.00 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-f) Servicio de un equipo hidroneumático tipo Váctor para desazolve de un pozo de visita de tipo común, incluye limpieza con agua a presión 3.80 UMA
+c) De fosa séptica en un radio de hasta 30 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 42.80 UMA
 
-g) Servicio de un equipo hidroneumático tipo Váctor para desazolve de un pozo de sedimentos y desarenador, incluye limpieza con agua a presión 109.85 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+d) Metro cúbico de descarga de aguas residuales a la planta de tratamiento de agua residuales. 3.20 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+e) Servicio de un equipo hidroneumático tipo Vactor para desazolve de alcantarillado hasta 100 metros lineales. 17.10 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+f) Servicio de un equipo hidroneumático tipo Váctor para desazolve de un pozo de visita de tipo común, incluye limpieza con agua a presión 4.33 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+g) Servicio de un equipo hidroneumático tipo Váctor para desazolve de un pozo de sedimentos y desarenador, incluye limpieza con agua a presión 125.23 UMA
 
 XIII. CAMBIOS, CONSTANCIAS, BAJAS. Por los costos de cambios, constancias, bajas y reactivación:
 
@@ -7537,15 +7739,33 @@ a. Por Habitación. 1.20 UMA
 
 XV. AGUA PURIFICADA. Por los costos de la prestación del servicio de agua purificada:
 
-a) Suministro de agua purificada, en planta, para rellenar garrafón de 20 lts. público en general (no incluye garrafón). 0.11 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-b) Suministro de agua purificada en garrafón de 20 lts. con reparto al público en general (no incluye garrafón). 0.26 UMA
+b) Suministro de agua purificada en garrafón de 20 Its. con reparto al público en general (no incluye garrafón) dentro del Periférico de la Ciudad de Villahermosa. 0.32 UMA
 
-c) Suministro de agua purificada en botella en presentación de 500 ml. 0.04 UMA
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-d) Suministro de agua purificada en botella en presentación de 350 ml. 0.02 UMA
+c) Suministro de agua purificada en botella en presentación de 500 ml. 0.06 UMA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+d) Suministro de agua purificada en botella en presentación de 350 ml. 0.04 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+e) Envío de 80 a 100 garrafones de agua purificada de 20 Its (no incluye garrafón ni llenado) fuera del Periférico de la Ciudad de Villahermosa hasta 10 kilómetros a la redonda. 12.42 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+f) Envío de 80 a 100 garrafones de agua purificada de 20 Its (no incluye garrafón ni llenado) fuera del Periférico de la Ciudad de Villahermosa hasta 20 kilómetros a la redonda. 21.32 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+g) Envío de 80 a 100 garrafones de agua purificada de 20 Its (no incluye garrafón ni llenado) fuera del Periférico de la Ciudad de Villahermosa hasta 30 kilómetros a la redonda. 28.60 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
 
 ###### Artículo 113 Bis.
 
@@ -7929,7 +8149,7 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68; 18 DE DICIEMBRE DE 2024, PAGÍNAS DE LA 69 A LA 74.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
 
@@ -8988,3 +9208,115 @@ DÉCIMO QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días háb
 DÉCIMO SEXTO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2019, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+P.O. 18 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 033 POR EL QUE SE “SE REFORMAN LOS ARTÍCULOS 2; 3, FRACCIÓN II; 30, FRACCIONES I Y II; 40, PÁRRAFOS CUARTO Y QUINTO; 58; 73-A, PÁRRAFO CUARTO, NUMERAL 2; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DE TÍTULO TERCERO; 78, PÁRRAFO PRIMERO; 81, PÁRRAFO CUARTO; 88, PÁRRAFO PRIMERO; LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS DEL TÍTULO TERCERO Y SU SECCIÓN ÚNICA PARA QUEDAR COMO SECCIÓN PRIMERA; 91-A, PÁRRAFO PRIMERO, FRACCIÓN III, INCISO B); LA DENOMINACIÓN DEL CAPÍTULO NOVENO DEL TÍTULO TERCERO; 94, PÁRRAFO PRIMERO; LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO BIS PERTENECIENTE AL TÍTULO TERCERO Y SU SECCIÓN PRIMERA; 98-C, FRACCIONES XVIII Y XIX; 99, FRACCIONES I, INCISO A), SUBINCISO (A) E INCISO B), SUBINCISO (A), Y II, INCISO A); LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO TERCERO DEL TÍTULO TERCERO, Y SU SECCIÓN ÚNICA; 102, PÁRRAFO PRIMERO; 113, FRACCIÓN I, INCISO A), SUBINCISOS (A) Y (B), INCISO B), SUBINCISOS (A) Y (B), INCISO C), SUBINCISOS (A) Y (B), INCISO D), SUBINCISOS (A) Y (B), INCISO E), SUBINCISOS (A) Y (B), INCISO F), SUBINCISOS (A) Y (B), INCISO G), SUBINCISOS (A) Y (B), INCISO H), E I), FRACCIÓN II, INCISO A), SUBINCISO (B), INCISO B), SUBINCISO (B), INCISO C), SUBINCISO (B), INCISO D), SUBINCISO (B), INCISO E), SUBINCISO (B), INCISO F), SUBINCISO (B), INCISO G), SUBINCISO (B), FRACCIÓN III, INCISO A), SUBINCISO (B), INCISO B), SUBINCISO (B), FRACCIÓN IV, INCISO A), SUBINCISO (B), INCISO B), SUBINCISO (B), INCISO C), SUBINCISO (B), INCISO D), SUBINCISO (B), FRACCIÓN V, INCISO A), SUBINCISO (B), FRACCIÓN VI, INCISOS A), B), C), D), E), F), G), H), I), FRACCIÓN IX, INCISO A), NUMERALES 1, 2, 3, 4, 5, 6 Y 7, INCISO B), NUMERALES 1, 2, 3 Y 4, FRACCIÓN X, INCISO A), INCISOS 1, 2, 3 Y 4, INCISO B), FRACCIÓN XII, INCISOS A), B), C), D), E), F) Y G) Y FRACCIÓN XV, INCISOS B), C) Y D); NOVENO DEL ANEXO PRIMERO, FRACCIONES I, III, IV, V, VI, VII, IX, X, XIII, XIV, XV, XVI, XVII Y XVIII; DÉCIMO PRIMERO DEL ANEXO PRIMERO, FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LIV, LV, LVI, LVII, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII Y LXIX; SE ADICIONAN LAS FRACCIONES XXI, XXII, XXIII Y XXIV AL ARTÍCULO 78; UN PÁRRAFO SEGUNDO AL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 82; LA SECCIÓN SEXTA AL CAPÍTULO CUARTO DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 88 BIS; LA SECCIÓN SÉPTIMA AL CAPÍTULO CUARTO DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 88 TER; LA SECCIÓN SEGUNDA AL CAPÍTULO SEXTO BIS DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 91-B; LA FRACCIÓN V AL ARTÍCULO 112; LOS INCISOS E), F) Y G) A LA FRACCIÓN XV, DEL ARTÍCULO 113; LAS FRACCIONES VII Y VIII AL ARTÍCULO QUINTO DEL ANEXO PRIMERO; LAS FRACCIONES XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI Y XXXVII AL ARTÍCULO OCTAVO DEL ANEXO PRIMERO; LAS FRACCIONES XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII Y XXXVIII; Y SE DEROGAN LAS FRACCIONES III Y IV DEL PÁRRAFO DÉCIMO DEL ARTÍCULO 12; EL CAPÍTULO QUINTO DEL TÍTULO TERCERO, ASÍ COMO SUS SECCIONES PRIMERA Y SEGUNDA, INTEGRADAS POR LOS ARTÍCULOS 89 Y 90; LA SECCIÓN SEGUNDA DEL CAPÍTULO DÉCIMO BIS DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 98-B; EL SUBINCISO (B) DEL INCISO A) Y EL SUBINCISO (B) DEL INCISO B), DE LA FRACCIÓN I DEL ARTÍCULO 99; LA FRACCIÓN II, VIII, XI, XII, XIX Y XX DEL ARTÍCULO NOVENO DEL ANEXO PRIMERO; LAS FRACCIONES XXX, XXXI, XXXVIII, XXXIX, LII, LIII, LVIII, LIX, LX, LXI Y LXX DEL ARTÍCULO DÉCIMO PRIMERO DEL ANEXO PRIMERO; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veinticinco, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2025 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2025 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2025 no contempla los recursos refrendados del ejercicio fiscal 2024, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2025.
+
+QUINTO. En el caso de los organismos públicos descentralizados y empresas de participación estatal mayoritaria, firmarán convenios de colaboración con la Secretaría de Administración y Finanzas, para que mediante plataforma web administrada por esa Secretaría, se supervisen e informen en tiempo real sus ingresos por concepto de derechos, productos y aprovechamientos, conforme a los mecanismos y lineamientos que en materia de ingresos se establezcan por esa misma dependencia.
+
+SEXTO. Por el periodo comprendido del 1 de enero al 30 de abril de 2025, se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que realicen el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía 2025 en las cajas de las receptorías y en la página web de la Secretaría de Administración y Finanzas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85, fracción IV, y 86, fracción IV, de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2025; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2025, y deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulos Ejercicio Periodo
+
+fiscal de pago
+
+Derecho de 20% 01 al 31 de enero de 2025
+
+refrendo anual
+
+anual de placas, 15% 01 al 28 de febrero de 2025.
+
+tarjeta de 2025
+
+circulación y 10% 01 al 31 de marzo de 2025.
+
+calcomanías.
+
+Pago presencial y 5% 01 al 30 de abril de 2025.
+
+en la página Web.
+
+SÉPTIMO. Por el periodo comprendido del 1 de enero al 30 de abril de 2025, se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que realicen el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía 2025 en la APP FIDI (Finanzas digital) de la Secretaría de Administración y Finanzas, consistente en un 20%, 17%, 14% y 10% de descuento por concepto del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2025; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2025, y deberán realizar el pago del derecho de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulos Ejercicio Periodo
+
+fiscal de pago
+
+Derecho de 20% 01 al 31 de enero de 2025
+
+refrendo
+
+anual de placas, 17% 01 al 28 de febrero de 2025.
+
+tarjeta de 2025
+
+circulación y 14% 01 al 31 de marzo de 2025.
+
+calcomanías.
+
+Pago en la APP 10% 01 al 30 de abril de 2025.
+
+FIDI.
+
+OCTAVO. Por el periodo comprendido del 1 de enero al 30 de abril de 2025, se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que se encuentren omisas en el pago de las contribuciones establecidas en el artículo 85, fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, del ejercicio fiscal 2020 y anteriores, en los siguientes términos:
+
+Por concepto de canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública correspondiente al ejercicio fiscal 2020, y por el refrendo anual de placa de circulación, tarjeta de circulación y calcomanía de los ejercicios fiscales 2022, 2023, 2024 y 2025, se cobrará el costo histórico de cada derecho con el valor de la Unidad de Medida y Actualización (UMA) del ejercicio fiscal correspondiente; asimismo, se otorgan estímulos consistentes en descuentos del 100% en actualizaciones, multas y recargos generados por la omisión del pago de los derechos antes referidos.
+
+NOVENO. Se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que se encuentren omisas en el pago de la contribución establecida en el artículo 85, fracción IV de la Ley de Hacienda del Estado de Tabasco, de los ejercicios fiscales 2021, 2022, 2023 y 2024, en los siguientes términos:
+
+Por concepto de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía de los ejercicios fiscales 2022, 2023, 2024 y 2025, se cobrará únicamente el costo histórico de cada derecho con el valor de la Unidad de Medida y Actualización (UMA) del ejercicio fiscal correspondiente; asimismo, se otorgan estímulos consistentes en descuentos del 100% en actualizaciones, multas y recargos generados por la omisión del pago de los derechos antes referidos.
+
+DÉCIMO. Se otorgan estímulos fiscales a las personas físicas y jurídico colectivas tenedoras, usuarias o propietarias de vehículos automotores que cuenten con placas de otra entidad federativa o que no cuenten con placas y quieran obtener placas en el Estado de Tabasco, en los siguientes términos:
+
+Por concepto de registro, emisión de tarjeta de circulación, calcomanía y otorgamiento de juego de placas 2025, se cobrará únicamente el costo del derecho establecido en el artículo 85, fracción I de la Ley de Hacienda del Estado de Tabasco; asimismo, se otorgan estímulos consistentes en descuentos del 100% en actualizaciones, multas y recargos generados por la omisión del pago de los derechos antes referidos.
+
+De igual manera, se otorga el 100% de descuento en el Impuesto sobre traslado de dominio de bienes muebles usados, establecido en el Título Segundo, Capítulo Primero de la Ley de Hacienda del Estado de Tabasco.
+
+DÉCIMO PRIMERO. Se otorgan estímulos fiscales a las personas físicas y jurídico colectivas que se encuentren omisas en el pago de la contribución establecida en el artículo 85, fracción VI inciso b), de la Ley de Hacienda del Estado de Tabasco de los ejercicios fiscales anteriores a 2025, en los siguientes términos:
+
+Por concepto de cambio de propietario correspondiente a los ejercicios fiscales 2025 y anteriores, se otorga estímulo consistente en descuento del 100% en el pago de este derecho, así como el 100% de descuento en actualizaciones, multas y recargos generados por la omisión del pago de esta contribución.
+
+DÉCIMO SEGUNDO. Para todos (sic) beneficios señalados en los puntos anteriores, se otorga un estímulo fiscal consistente en un descuento del 100% en el pago del derecho por concepto de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía establecido en el artículo 85, fracción IV de la Ley de Hacienda del Estado de Tabasco, correspondiente al ejercicio fiscal 2021 y anteriores, así como el 100% de descuento en actualizaciones, multas y recargos generados por la omisión del pago del derecho y periodo antes referido.
+
+DÉCIMO TERCERO. Adicionalmente, para todos los beneficios señalados en los puntos anteriores, se otorga un estímulo fiscal consistente en un descuento del 70% en gastos de ejecución y honorarios causados por la omisión en el pago de los derechos establecidos en el artículo 85, fracciones I, IV, V y VI inciso b) de la Ley de Hacienda del Estado de Tabasco, así como en multas y/o infracciones por violaciones a la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento, impuestas por la Dirección General de la Policía Estatal de Caminos de la Secretaría de Seguridad y Protección Ciudadana del Estado de Tabasco.
+
+DÉCIMO CUARTO. Con la finalidad de actualizar el Registro Estatal de Vehículos, todos los estímulos fiscales determinados en los transitorios que anteceden, incluyendo el 100% de descuentos en el Impuesto sobre traslado de dominio de bienes muebles usados establecido en el Título Segundo, Capítulo Primero de la Ley de Hacienda del Estado de Tabasco, serán aplicables para todas aquellas personas físicas y jurídico colectivas tenedoras, usuarias o propietarias de vehículos automotores, que deseen realizar el cambio de propietario con el objeto se (sic) regularizar el estatus de sus unidades motrices.
+
+DÉCIMO QUINTO. Para que los contribuyentes puedan acceder a los beneficios referidos, deberán cumplir con las condiciones siguientes:
+
+I. Pagar en una sola exhibición los importes de las contribuciones y accesorios que no tengan descuentos; y en caso de trasladar el dominio del vehículo, deberán tramitar la baja por cambio de propietario dentro de los 15 días hábiles siguientes de haberse realizado la operación, conforme con lo establecido en el artículo 82, fracción II de la Ley de Hacienda del Estado de Tabasco, cubriendo al efecto el pago de la contribución correspondiente por el servicio prestado.
+
+II. Comprobar haberse desistido ante la autoridad correspondiente del medio de defensa que en su caso haya interpuesto en contra de los créditos fiscales materia del otorgamiento de los beneficios contenidos en este Decreto.
+
+III. Cumplir con las Reglas de Operación que para tal efecto establezca la Secretaría de Administración y Finanzas.
+
+DÉCIMO SEXTO. Los beneficios descritos en los transitorios anteriores, se sujetarán a lo siguiente:
+
+I. Los montos pagados se desglosarán dentro del formato de pago correspondiente, siendo innecesario que se emita una resolución por la autoridad fiscal para tal efecto.
+
+II. En ningún caso, el beneficio fiscal dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno sobre contribuciones o créditos fiscales pagados con anterioridad a la entrada en vigor del presente Decreto.
+
+III. Para efectos del pago de la parte que no cuenta con descuentos, no se aceptará pago en especie, ni compensación.
+
+IV. El contribuyente beneficiado deberá efectuar dentro del plazo legal conforme a la legislación aplicable, el pago de las contribuciones objeto de los beneficios que se causen en los ejercicios fiscales 2026, 2027 y 2028.
+
+V. Los interesados que presenten solicitud de trámites o movimientos en materia del Registro Estatal Vehicular a más tardar el 30 de abril de 2025, cuya realización requiera validación con otras entidades federativas, podrán acceder a los beneficios que establece el presente Decreto, siempre que culminen el tramité dentro del plazo de treinta días hábiles de vigencia establecido en la constancia de cambio de entidad federativa emitida por la Unidad Administrativa competente, adscrita a la Subsecretaría de Ingresos de la Secretaría de Administración y Finanzas del Estado de Tabasco.
+
+DÉCIMO SÉPTIMO. Se faculta a la Secretaría de Administración y Finanzas, a través de la Dirección de Recaudación, para revocar los beneficios fiscales concedidos mediante el presente Decreto, cuando se determine, de manera posterior, que el contribuyente declaró con falsedad, presentó documentación apócrifa, no cumplió con la regularización de sus obligaciones, no pagó las contribuciones objeto de los beneficios correspondientes a los ejercicios fiscales 2026, 2027 y 2028 o no tramitó la baja por cambio de propietario ante el traslado de dominio del vehículo, debiendo el contribuyente cubrir las contribuciones causadas en términos de la legislación fiscal estatal aplicable.
+
+DÉCIMO OCTAVO. La presentación del comprobante de pago de derechos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, de vehículos, motocicletas, motocarro de 3 llantas, motocarro de 4 llantas, vehículos todo terreno y remolques para el servicio particular, establecidos en el artículo 85, fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, hará las veces de tarjeta de circulación en tanto el contribuyente reciba dichos documentos. Lo anterior no será aplicable cuando se realicen modificaciones en el Registro Estatal de Vehículos.
+
+DÉCIMO NOVENO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2020, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
