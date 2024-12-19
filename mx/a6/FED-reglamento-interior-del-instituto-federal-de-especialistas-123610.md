@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-especialistas-1236
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-10-03"
-last_updated: "2021-09-20"
+last_updated: "2024-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-07-20"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ESPECIALISTAS DE CONCURSOS MERCANTILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en la Primera Sección al No. 2 del Diario Oficial de la Federación, el martes 3 de octubre de 2017.
 
@@ -159,7 +159,9 @@ IV. Aprobar los criterios, políticas y lineamientos necesarios para constituir 
 
 V. Establecer políticas para incentivar que profesionistas independientes obtengan del Instituto su inscripción en el Registro como Especialistas;
 
-VI. Establecer los mecanismos de supervisión para la prestación de los servicios de los Especialistas, y evaluar su desempeño;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+VI. Expedir los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna, para la supervisión administrativa de la prestación de los servicios de los Especialistas, y evaluar su desempeño;
 
 VII. Aprobar los lineamientos y procedimientos para el cálculo de honorarios, así como para la revisión de los proyectos de cuenta prestados por los Especialistas, conforme a la propuesta realizada por el Vocal ponente;
 
@@ -485,9 +487,15 @@ En caso de ausencia temporal y a falta de designación, los Vocales para el ejer
 
 Corresponde al titular de la Vocalía Contable:
 
-I. Supervisar desde un punto de vista administrativo, la prestación de los servicios de los visitadores en el procedimiento concursal en el que sean designados por el Instituto;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-II. Requerir a los visitadores la información que resulte necesaria para supervisar su actividad, por cualquier medio, inclusive mediante entrevista o reunión;
+I. Supervisar desde un punto de vista administrativo, la prestación de los servicios de los visitadores en el procedimiento concursal en el que sean designados por el Instituto, conforme a los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna aplicable;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Requerir a los visitadores la debida integración de la información prevista en las plataformas tecnológicas, conforme a los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna aplicable.
+
+En todo caso, podrá requerir a los visitadores cualquier información que resulte necesaria para supervisar su actividad, por cualquier medio, inclusive mediante entrevista o reunión;
 
 III. Atender las consultas de los visitadores en su carácter de órganos del concurso mercantil, así como de los órganos jurisdiccionales, en términos de los Lineamientos para la atención telefónica y/o vía correo electrónico a los órganos jurisdiccionales y los especialistas de concursos mercantiles emitidos por la Junta Directiva, respecto de la fase de visita;
 
@@ -509,9 +517,15 @@ VII. Lo demás que le confiera la Junta Directiva, de conformidad con las dispos
 
 Corresponde al titular de la Vocalía Económico Financiera:
 
-I. Supervisar desde un punto de vista administrativo, la prestación de los servicios de los conciliadores, en el procedimiento concursal en que sean designados por el Instituto;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-II. Requerir a los conciliadores la información que resulte necesaria para supervisar su actividad, por cualquier medio, inclusive mediante entrevista o reunión;
+I. Supervisar desde un punto de vista administrativo, la prestación de los servicios de los conciliadores en el procedimiento concursal en el que sean designados por el Instituto, conforme a los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna aplicable;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Requerir a los conciliadores la debida integración de la información prevista en las plataformas tecnológicas, conforme a los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna aplicable.
+
+En todo caso, podrá requerir a los conciliadores cualquier información que resulte necesaria para supervisar su actividad, por cualquier medio, inclusive mediante entrevista o reunión;
 
 III. Atender las consultas de los conciliadores, en su carácter de órganos del concurso mercantil, así como de los órganos jurisdiccionales, en términos de los Lineamientos para la atención telefónica y/o vía correo electrónico a los órganos jurisdiccionales y los especialistas de concursos mercantiles emitidos por la Junta Directiva, respecto a la etapa de conciliación;
 
@@ -533,9 +547,15 @@ VII. Lo demás que le confiera la Junta Directiva, de conformidad con las dispos
 
 Corresponde al titular de la Vocalía Administrativa:
 
-I. Supervisar desde un punto de vista administrativo la prestación de los servicios de los síndicos en el procedimiento concursal en que sean designados por el Instituto;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-II. Requerir a los síndicos la información que resulte necesaria para supervisar su actividad, por cualquier medio, inclusive mediante entrevista o reunión;
+I. Supervisar desde un punto de vista administrativo, la prestación de los servicios de los síndicos en el procedimiento concursal en el que sean designados por el Instituto, conforme a los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna aplicable;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Requerir a los síndicos la debida integración de la información prevista en las plataformas tecnológicas, conforme a los Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles y demás normativa interna aplicable.
+
+En todo caso, podrá requerir a los síndicos cualquier información que resulte necesaria para supervisar su actividad, por cualquier medio, inclusive mediante entrevista o reunión;
 
 III. Atender las consultas de los síndicos, en su carácter de órganos del concurso mercantil, así como de los órganos jurisdiccionales, en términos de los Lineamientos para la atención telefónica y/o vía correo electrónico a los órganos jurisdiccionales y los especialistas de concursos mercantiles emitidos por la Junta Directiva, respecto de la etapa de quiebra;
 
@@ -724,3 +744,11 @@ www.dof.gob.mx/2021/CJF/Reglamento_Interior_IFECOM.pdf
 ## TRANSITORIO
 
 ÚNICO. La reforma por la cual se modifican, adicionan y derogan, diversas disposiciones al Reglamento Interior del Instituto Federal de Especialistas de Concursos Mercantiles, aprobados por la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles, en la Décimo Sexta Sesión Ordinaria, celebrada el veintinueve de abril de dos mil veintiuno, entrará en vigor al día siguiente de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ESPECIALISTAS DE CONCURSOS MERCANTILES".]
+
+Primera.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segunda.- Se mantienen vigentes los "Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles", publicados en el Diario Oficial de la Federación el treinta de mayo de dos mil veintidós y sus modificaciones publicadas en el mismo medio de difusión oficial el treinta de abril de dos mil veinticuatro.
