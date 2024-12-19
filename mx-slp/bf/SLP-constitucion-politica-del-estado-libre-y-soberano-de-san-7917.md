@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2024-11-28"
+last_updated: "2024-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -679,9 +679,9 @@ Durante el tiempo que comprendan las campañas electorales, y hasta la conclusi�
 
 El Consejo Estatal Electoral y de Participación Ciudadana es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propio; integrado conforme lo disponga la ley respectiva; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de consulta ciudadana e integración de los organismos de participación ciudadana de los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-La calificación de las elecciones de Gobernador, diputados locales, y ayuntamientos, corresponde al Consejo Estatal Electoral y de Participación Ciudadana o, en su caso, al Instituto Nacional Electoral, de conformidad con la Constitución Federal y de acuerdo a las leyes federales y locales electorales.
+La calificación de las elecciones de Gobernador, Diputados locales, ayuntamientos, personas Magistradas que integran el Supremo Tribunal de Justicia, de las personas Juzgadoras de Primera Instancia y de la Persona Magistrada Titular del Tribunal Unitario de Disciplina Judicial del Poder Judicial del Estado, corresponde al Consejo Estatal Electoral y de Participación Ciudadana o, en su caso, al Instituto Nacional Electoral, de conformidad con la Constitución Federal y de acuerdo con las Leyes federales y locales electorales.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -933,9 +933,9 @@ V.- Los ministros de culto religioso;
 
 VI.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-VII.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado, no podrán ser electos en la Entidad de sus respectivas jurisdicciones;
+VII.- Las personas Magistradas del Supremo Tribunal de Justicia del Estado, las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, la Persona Magistrada Titular del Tribunal Unitario de Disciplina Judicial del Poder Judicial del Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -1061,7 +1061,9 @@ El Instituto de Fiscalización Superior del Estado debe guardar reserva de sus a
 
 La titularidad del Instituto de Fiscalización Superior del Estado recaerá en una persona que se denominará Auditora o Auditor Superior, durará en su cargo nueve años, y será nombrada por el Congreso del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes en la sesión que corresponda. La ley determinará el procedimiento para su nombramiento.
 
-Para ser titular del Instituto de Fiscalización Superior del Estado se requiere contar con experiencia al menos de cinco años en materia de control, auditoría financiera y de responsabilidades, y cumplir además con los requisitos previstos en las fracciones, I y IV, del artículo 99, de esta Constitución, y los que al efecto señale la ley.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Para ser titular del Instituto de Fiscalización Superior del Estado se requiere contar con experiencia al menos de cinco años en materia de control, auditoría financiera y de responsabilidades, ser ciudadana o ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de su nombramiento y los que al efecto señale la Ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1139,6 +1141,12 @@ XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anua
 
 XX.- (DEROGADA, P.O. 18 DE MAYO DE 2006)
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+XX BIS.- Emitir la convocatoria dirigida a los titulares de los Poderes Ejecutivo y Judicial del Estado, para la integración de los Comités de Evaluación que coadyuvarán en el proceso de elección popular de personas Juzgadoras, personas Magistradas del Poder Judicial del Estado y persona Magistrada del Tribunal Unitario de Disciplina Judicial;
+
+El Pleno del Congreso del Estado, a propuesta de la Junta de Coordinación Política, deberá integrar el Comité de Evaluación correspondiente a la Legislatura Local;
+
 XXI.- Otorgar al Gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública. Las facultades extraordinarias quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
 XXII.- Nombrar al Gobernador interino, provisional o substituto en los casos que esta Constitución determina;
@@ -1169,17 +1177,17 @@ XXXI.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
 XXXII.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-XXXIII. Elegir, en los términos de esta Constitución, a los magistrados del Supremo Tribunal de Justicia, así como a los magistrados del Tribunal Estatal de Justicia Administrativa;
+XXXIII.- Elegir, en los términos de esta Constitución, a las personas Magistradas del Tribunal Estatal de Justicia Administrativa;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-XXXIV.- Ratificar, en los términos de esta Constitución, a dos integrantes del Consejo de la Judicatura del Estado; y designar a uno más;
+XXXIV.- Designar, en los términos de esta Constitución, a una persona Consejera integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones que (sic) establecidas en la Ley;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-XXXV.- Calificar las renuncias de los magistrados de los tribunales del Estado y de los consejeros de la Judicatura, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
+XXXV.- Calificar las renuncias de las personas Magistradas del Supremo Tribunal de Justicia, de la persona Magistrada del Tribunal Unitario de Disciplina Judicial, de las personas Consejeras del Órgano de Administración Judicial, de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, de las personas Magistradas del Tribunal Estatal de Justicia Administrativa, así como conocer y resolver las solicitudes de destitución de estos, en los términos de la presente Constitución;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1389,7 +1397,13 @@ a) Tener sentencia condenatoria que haya causado estado, por violencia familiar;
 
 b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+VIII. No ser persona Magistrada del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial, ni personas Consejera (sic) del Órgano de Administración Judicial, ni persona Juzgadoras de Primera Instancia del Poder Judicial del Estado, a menos de que se separe de su encargo, cuando menos ciento veinte días antes del día de la elección;
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1453,9 +1467,9 @@ Si al comenzar un período constitucional no se presentara el Gobernador electo 
 
 El cargo de Gobernador del Estado es irrenunciable y el individuo que lo desempeñe sólo podrá separarse del mismo con licencia del Congreso, por causa grave o justificada.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO II. De las atribuciones del Gobernador
+### CAPÍTULO II. De las Atribuciones del Gobernador
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1499,11 +1513,13 @@ XI.- Designar y remover libremente a los Secretarios de Despacho, así como a lo
 
 XII.- Proponer al Congreso a los candidatos a ocupar los cargos de, Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y Fiscal Especializado en Delitos Electorales; así como removerlos por causas graves, y hacerlo del conocimiento del Congreso del Estado para los efectos de la fracción XXXVII del artículo 57 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Proponer al Congreso, a los candidatos a ocupar los cargos de magistrados del Supremo Tribunal de Justicia; del Tribunal Estatal de Justicia Administrativa; y designar a un integrante del Consejo de la Judicatura del Estado, de conformidad con la presente Constitución;
+XIII.- Proponer al Congreso del Estado, a las personas candidatas a ocupar las Magistraturas del Tribunal Estatal de Justicia Administrativa, así como designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones legales correspondientes;
 
-XIV.- Prestar apoyo a los Poderes Legislativo y Judicial y a los Ayuntamientos, cuando le sea solicitado por los mismos para el mejor ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Prestar apoyo a los Poderes Legislativo y Judicial y a los Ayuntamientos, cuando le sea solicitado por los mismos, para el mejor ejercicio de sus funciones; así como integrar el Comité de Evaluación correspondiente al Poder Ejecutivo del Estado;
 
 XV.- Fomentar la educación en el Estado, de conformidad con lo establecido por la legislación de la materia;
 
@@ -1623,15 +1639,21 @@ Los titulares de las dependencias del Ejecutivo serán responsables de todas las
 
 ### CAPÍTULO V. De la Consejería Jurídica del Estado
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 87.
 
-La Consejería Jurídica del Estado estará a cargo de un Consejero que dependerá directamente del titular del Ejecutivo, quien para serlo deberá cumplir con los requisitos que se exigen para ser Magistrado del Supremo Tribunal de Justicia.
+La Consejería Jurídica del Estado estará a cargo de una o un Consejero que dependerá directamente del titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 El Consejero intervendrá en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando se vea afectado el interés del Estado o de alguno de sus municipios.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+
 El Consejero intervendrá en todos los negocios en que el Estado sea parte, o en los que sea vea afectado el interés público. A solicitud de los ayuntamientos y sus entidades, también podrá prestarles la asesoría que requieran.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 La ley y los reglamentos establecerán la organización y las atribuciones de la Consejería Jurídica del Estado; las atribuciones del Consejero, de las consejerías adjuntas, así como los requisitos para ocupar la titularidad de las mismas.
 
@@ -1673,279 +1695,279 @@ Los agentes del Ministerio Público, los peritos, y el personal de las instituci
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 90.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Supremo Tribunal de Justicia, en Juzgados de Primera Instancia, y en Juzgados Menores.
+El Poder Judicial del Estado tiene la potestad de impartir justicia mediante el control constitucional estatal y la aplicación de las Leyes en los asuntos que le correspondan. Actuará de manera autónoma, neutral y diligente, sometido únicamente a la autoridad de la Ley.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+El Poder Judicial del Estado se deposita en un Supremo Tribunal de Justicia, un Órgano de Administración Judicial, en el Tribunal Unitario de Disciplina Judicial y en las personas Juzgadoras de Primera Instancia.
 
-El Poder Judicial contará con el apoyo de Jueces Auxiliares cuando así lo requiera, de conformidad con lo previsto por la ley de la materia.
+El Poder Judicial del Estado contará con el apoyo de personas Juzgadoras Auxiliares cuando así lo requiera y en su integración se establecerán las formas y procedimientos necesarios para garantizar el principio de paridad de género, conforme a lo previsto por la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2020)</small>
+El Supremo Tribunal de Justicia funcionará en Pleno o en Salas colegiadas. Las sesiones del Pleno serán públicas, excepto aquellas que por su naturaleza deban ser reservadas.
 
-En la integración del Poder Judicial su ley establecerá la forma y procedimientos mediante la cual se observará el principio de paridad de género.
+La Administración del Poder Judicial estará a cargo del Órgano de Administración Judicial y la disciplina de su personal corresponderá al Tribunal Unitario de Disciplina Judicial. Ambos órganos son independientes en términos técnicos, de gestión y en la emisión de sus resoluciones.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+El Poder Judicial del Estado ejercerá autónomamente su presupuesto a través del Órgano de Administración Judicial.
 
-El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas, excepto aquellas que por su naturaleza se considere que deban ser reservadas.
+La Ley establecerá las disposiciones necesarias para la integración, elección, organización y funcionamiento del Poder Judicial, garantizando el principio de paridad de género. Además, reforzará las disposiciones para asegurar la igualdad sustantiva y no discriminación en todos los procesos y decisiones judiciales.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+La elección ciudadana de personas Magistradas del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial, así como de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, se regirá por las bases previstas en esta Constitución y las disposiciones legales aplicables.
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado, así como la carrera judicial, estarán a cargo del Consejo de la Judicatura, en los términos de esta Constitución y conforme lo establezcan las leyes. La vigilancia respecto de la función jurisdiccional de las y los magistrados, así como las resoluciones disciplinarias sobre los mismos, estarán a cargo del Pleno del Supremo Tribunal de Justicia.
+La elección ciudadana se realizará mediante convocatoria y voto público para garantizar la transparencia y la participación ciudadana en el proceso electoral que se realice para tal efecto. Se exceptúa de este procedimiento la elección de las y los Jueces Auxiliares, la cual continuará realizándose conforme a las prácticas y procedimientos vigentes.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+El período de ejercicio de funciones de las personas Magistradas del Poder Judicial del Estado, será de doce años sin posibilidad de reelección.
 
-El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado, con independencia técnica, de gestión y para emitir sus resoluciones; funcionará en Pleno o en comisiones, y tendrá las atribuciones que determine la ley.
+Para las personas Juzgadoras de Primera Instancia el período de ejercicio de funciones será de nueve años, con posibilidad de reelección, por voto ciudadano, por una única ocasión, por un período adicional de nueve años.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+La persona titular del Tribunal Unitario de Disciplina Judicial y las de las Consejerías que conforman el Órgano de Administración Judicial, durarán en su encargo seis años, sin posibilidad de reelección ni ratificación.
 
-El Consejo se integrará con cuatro personas, de los (sic) cuales una será quien presida el Supremo Tribunal de Justicia, quien también lo será del Consejo; una designada por el Congreso del Estado; otra por el Supremo Tribunal de Justicia; y una más, por quien sea titular del Poder Ejecutivo. Las personas designadas por estos dos últimos, serán ratificadas por el Congreso del Estado. Para su integración se observará el principio de paridad de género.
+Las personas Magistradas que integran el Supremo Tribunal de Justicia, las personas Juzgadoras de Primera Instancia que forman parte del Poder Judicial del Estado, la persona Magistrada del Tribunal Unitario de Disciplina Judicial y las personas Consejeras del Órgano (sic) Administración Judicial, estarán sujetas a un límite de edad para el desempeño de sus funciones, de setenta y tres años.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+Para las personas electas conforme a este artículo, así como para las Consejeras designadas para conformar el Órgano de Administración Judicial no se concederá haber de retiro ni indemnización, una vez concluido el período para el cual fueron designadas o haber alcanzado el límite de edad, salvo las prestaciones que les correspondan por año trabajado, conforme a la Ley vigente en la materia.
 
-Todas las personas consejeras deben reunir los requisitos señalados en el artículo 99 de esta Constitución, y distinguirse por su capacidad profesional, experiencia y honorabilidad en el ejercicio de sus actividades.
+Las personas electas conforme a este artículo no podrán ser readscritos fuera del distrito judicial en el que hayan sido electos y, salvo que por causa excepcional lo determine el Órgano de Administración del Poder Judicial del Estado, podrán ser removidos en los casos y conforme a los procedimientos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+Las personas funcionarias judiciales durante la vigencia del ejercicio de su cargo estarán impedidos para el ejercicio libre de la abogacía y no podrán desempeñar ningún otro cargo, empleo o comisión, ya sea público o privado, con excepción de la docencia y los cargos de carácter honorífico, en observancia de los principios de imparcialidad y dedicación exclusiva a las funciones judiciales.
 
-Las decisiones del Consejo serán definitivas e inatacables; salvo las que se refieren a la designación, adscripción, remoción y no ratificación de jueces o juezas, las cuales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia del Estado.
+En caso de que una persona Magistrada del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial o persona Juzgadora de Primera Instancia del Poder Judicial del Estado se ausente de sus funciones temporalmente por más de un mes sin licencia, la vacante será ocupada por la persona subsecuente que haya obtenido el mayor número de votos en la elección para ese cargo, respetando el mismo género de la persona que lo ocupaba.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+En caso de declinación, defunción o imposibilidad de la persona que deba ocupar la vacante, seguirá en orden de prelación la persona que haya obtenido mayor votación, en el entendido que la vacante será ocupada por la persona del mismo género que la persona que decline o se encuentre imposibilitada para ejercer el cargo.
 
-Las personas consejeras no representan a quien las designa, por lo que ejercerán sus funciones con independencia e imparcialidad. Durante su encargo sólo podrán ser removidas en los términos del Título Décimo Segundo de esta Constitución.
+El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el período restante del encargo.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+Las licencias, ausencias, suplencia o renuncia de las personas que conforman el Órgano de Administración Judicial y que fueron designadas por los Poderes Ejecutivo y Legislativo del Estado, serán resueltas en los mismos términos que su designación y conforme a las disposiciones que establezca la Ley.
 
-La organización, funcionamiento y demás atribuciones del Consejo de la Judicatura del Estado, serán determinados por la ley, conforme a lo establecido en esta Constitución.
+Los cargos de las personas electas por voto popular conforme a este artículo no serán renunciables, sino por causa justificada, calificada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 
-Salvo quien presida el Consejo, las y los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada. Al concluir su periodo tendrán derecho a un haber de retiro consistente en un único emolumento equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Dicha remuneración se cubrirá con base en el último salario percibido. Quienes sean designadas para concluir el término del cargo de otro consejero o consejera, podrán ser propuestas para el encargo de un periodo completo.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
-
-El Consejo funcionará en Pleno o en comisiones, y sus decisiones plenarias se tomarán válidamente por mayoría calificada de tres votos.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
-
-De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Supremo Tribunal de Justicia podrá solicitar al Consejo, la expedición de aquellos acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función judicial.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
-
-El Consejo de la Judicatura determinará el número y especialización por materia, de los juzgados y de las salas.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996) (REUBICADO, P.O. 19 DE DICIEMBRE DE 2024)
 
 ### CAPÍTULO II. Del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 91.
+
+El Supremo Tribunal de Justicia estará integrado por quince Magistraturas electas mediante voto ciudadano libre, directo y secreto. Las personas Magistradas residirán en la Capital del Estado y desempeñarán sus funciones en el Pleno y en Salas Colegiadas según lo disponga la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 92.
+
+Para postularse a los cargos de persona Magistrada del Supremo Tribunal de Justicia, persona Magistrada del Tribunal Unitario de Disciplina Judicial y persona Juzgadoras de Primera Instancia del Poder Judicial del Estado, se requiere:
+
+I. Ser persona ciudadana potosina en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Contar el día de la publicación de la convocatoria con título de licenciatura en derecho o Abogado, expedido legalmente, cédula profesional con una antigüedad de por lo menos cinco años y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente en licenciatura, o de nueve puntos o equivalente en maestría o doctorado;
+
+III. Acreditar práctica profesional como licenciado en derecho o Abogado, de al menos cinco años previos al día de la publicación de la convocatoria por parte del Comité de Evaluación;
+
+IV. No encontrarse en alguno de los siguientes supuestos:
+
+a) Haber sido sujeto a sentencia condenatoria que haya causado estado, por los delitos de violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Haber sido sujeto a sentencia condenatoria que haya causado estado por delitos contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual;
+
+c) Registrado o registrada en el padrón de personas deudoras alimentarias morosas;
+
+d) Haber sido sujeto a resolución sancionatoria firme emitida por el Tribunal Unitario de Disciplina Judicial ni encontrarse en el registro de personas servidoras públicas inhabilitadas por el Instituto de Fiscalización del Estado, o su similar en el ámbito federal;
+
+e) Haber sido persona titular de la Fiscalía General del Estado; Diputado o Diputada local, o titular de Presidencia Municipal, en el año inmediato anterior al día de la publicación de la convocatoria por parte del Comité de Evaluación que lo proponga;
+
+V. Haber residido en el Estado de San Luis Potosí, durante los cinco años anteriores al día de la publicación de la convocatoria por parte del Comité de Evaluación que lo proponga;
+
+VI. Haber servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho; y
+
+VII. Los demás requisitos que contemple la Ley de la materia.
+
+Para la primera elección de funcionarios judiciales, se considerará como elegibles a las personas que a la fecha de emisión de la primera convocatoria se encuentren en funciones de Magistrados, Magistradas, Jueces o Juezas del Poder Judicial del Estado, por lo que serán incorporadas automáticamente y sin necesidad de integrar expediente, a los listados de los Comités de Evaluación para participar en la elección extraordinaria del año 2025, salvo que informen que deseen participar en la elección para un cargo diverso al que se encuentran ocupando, o bien, declinen de su candidatura previo al cierre de la convocatoria.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 93.
 
 Son atribuciones del Supremo Tribunal de Justicia:
 
 I. Resolver las controversias judiciales en segunda instancia y las demás cuestiones jurisdiccionales de su competencia;
 
-II. Establecer jurisprudencia en los términos que fije la ley;
+II. Establecer jurisprudencia en los términos que fije la Ley;
 
-III. Resolver sobre las contradicciones de criterios generales sustentados por las salas del Tribunal, sin perjuicio de observar la jurisprudencia de los tribunales del Poder Judicial Federal;
+III. Resolver sobre las contradicciones de criterios generales sustentados por las salas del Supremo Tribunal de Justicia del Estado, sin perjuicio de observar la jurisprudencia de los tribunales del Poder Judicial Federal;
 
-IV. Iniciar leyes o decretos relacionados con la impartición de justicia;
+IV. Iniciar Leyes o decretos relacionados con la impartición de justicia;
 
-V. Elegir de entre los magistrados a su Presidente, quien también lo será del Consejo de la Judicatura; y designar a un integrante del Consejo de la Judicatura, en los términos de esta Constitución;
+V. Elegir de entre las personas Magistradas a su Presidente o Presidenta, quien también integrará sala;
 
-VI. Solicitar al Consejo de la Judicatura el cambio de adscripción de jueces y en su caso, su remoción por causa justificada;
+VI. Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones legales correspondientes;
 
-VII. Recibir y en su caso, aceptar la renuncia al cargo de Presidente del Tribunal;
+VII. Solicitar al Órgano de Administración Judicial el cambio justificado de adscripción en el mismo distrito judicial para el cual fue electa la persona juzgadora de Primera Instancia y en su caso la remoción por causa legitima, previo procedimiento que se substancie ante el Tribunal Unitario de Disciplina Judicial.
 
-VIII. Calificar las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones con causa que se promuevan en contra de los magistrados, en asuntos de la competencia del Pleno;
+VIII. Recibir y en su caso, aceptar la renuncia al cargo del Presidente o Presidenta del Tribunal;
 
-IX. Proponer al Consejo de la Judicatura, a través de su Presidente, los acuerdos generales y las medidas administrativas tendientes a mejorar el registro, control y procedimiento de los asuntos que sean tramitados ante el Poder Judicial del Estado, procurando la incorporación de métodos modernos para la expedita y eficaz impartición de justicia;
+IX. Calificar las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones con causa que se promuevan en contra de las y los magistrados en asuntos de la competencia del Pleno;
 
-X. Resolver las quejas que supongan responsabilidad administrativa, que se presenten en contra de sus integrantes;
+X. Proponer al Órgano de Administración Judicial, a través de la persona que ocupe la Presidencia, los acuerdos generales y las medidas administrativas tendientes a mejorar el registro, control y procedimiento de los asuntos que sean tramitados ante el Poder Judicial del Estado, procurando la incorporación de métodos modernos para la expedita y eficaz impartición de justicia;
 
-XI. Dictar las medidas necesarias para que la impartición de justicia sea pronta y expedita;
+XI. Remitir las quejas que supongan responsabilidad administrativa, que se presenten en contra de sus integrantes al Tribunal Unitario de Disciplina Judicial;
 
-XII. Conocer de los asuntos cuya resolución esté expresamente atribuida a su competencia, y
+XII. Dictar las medidas necesarias para que la impartición de justicia sea pronta y expedita;
 
-XIII. Las demás que le confiera la ley.
+XIII. Rendir en forma anual, a través de su Presidente o Presidenta, un informe público de sus actividades;
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+XIV. Conocer de los asuntos cuya resolución esté expresamente atribuida a su competencia, y
 
-###### ARTÍCULO 92.
+XV. Las demás que le confiera la Ley.
 
-El Poder Judicial ejercerá autónomamente su presupuesto, a través del Consejo de la Judicatura.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
-
-El presupuesto será formulado por el Consejo de la Judicatura, con la aprobación del Supremo Tribunal de Justicia; el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, y será remitido al Ejecutivo para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
-
-El Consejo de la Judicatura será responsable de rendir al Congreso un informe trimestral del estado financiero y anualmente la Cuenta Pública del Poder Judicial del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
-
-###### ARTÍCULO 93.
-
-Los nombramientos del funcionariado judicial serán hechos, preferentemente, de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con la Ley Orgánica del Poder Judicial, y observando el principio de paridad de género.
-
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2005)</small>
-
-La Ley establecerá las bases para la formación y actualización de los funcionarios del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 94.
 
-Los funcionarios judiciales estarán impedidos para el libre ejercicio de la abogacía y no podrán desempeñar ningún otro cargo, empleo o comisión públicos o privados, salvo los de docencia y los de carácter honorífico, y percibirán una remuneración adecuada e irrenunciable.
+El cargo de persona Magistrada no es renunciable, sino por causa justificada calificada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 95.
 
-El Supremo Tribunal de Justicia y el Consejo de la Judicatura, deberán rendir en forma anual, a través de su Presidente, un informe público de sus actividades.
+El Presidente o Presidenta del Supremo Tribunal de Justicia, será la persona Magistrada que se elija en la sesión de Pleno que al efecto se realice, de acuerdo con las formalidades señaladas en la Ley. Durará en su encargo cuatro años e integrará Sala indistintamente de la función que realice como Presidente o Presidenta.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+El cargo de Presidente o Presidenta es renunciable y corresponderá al Supremo Tribunal de Justicia, constituido en Pleno, calificar la renuncia.
 
-###### ARTICULO 96.
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-El Supremo Tribunal de Justicia se integra con dieciséis magistraturas numerarias, electas por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso; además, por quince magistraturas supernumerarias. Para su elección, el Gobernador propondrá al Congreso, al triple de personas respecto del número de cargos por cubrir, dentro de los cuales la Legislatura hará la elección respectiva en el término de treinta días. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+###### ARTÍCULO 96.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+En cada Distrito o Región Judicial, que comprenderán los municipios que establezca la Ley, habrá Juzgados de Primera Instancia y Tribunales que determine el Órgano de Administración Judicial, los que conocerán de los negocios judiciales que les competan.
 
-En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
-
-Cuando cese o concluya el ejercicio de una magistratura por cualquier causa, el Ejecutivo presentará al Congreso las respectivas propuestas.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2020)</small>
-
-Para la integración de las dieciséis magistraturas se observará el principio de paridad de género.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 97.
 
-Las y los magistrados del Supremo Tribunal de Justicia durarán en su encargo diez años; y sólo podrán ser privados de sus puestos en los términos establecidos en la presente Constitución.
+Las personas Juzgadoras de Primera Instancia tendrán las atribuciones que esta Constitución y la Ley les confiera, además de cumplir con los requisitos previstos por el artículo 92 de esta Constitución y durarán en el cargo nueve años con posibilidad de reelección por voto ciudadano por única ocasión.
 
-Las magistraturas en ningún caso podrán ser ejercidas después de los setenta y tres años de edad de su titular. Al vencimiento de su periodo, o término de su función por edad, tendrá derecho a un haber de retiro en los términos que marque la ley.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 98.
 
-En la misma forma que las magistraturas numerarias, serán nombradas las magistraturas supernumerarias, pudiendo elegirse también dentro de la lista de las propuestas como numerarias. Las y los magistrados supernumerarios tendrán las funciones que les asigne la ley y sustituirán, en el orden en que hayan sido nombrados por el Congreso del Estado, a aquéllos en sus faltas temporales y, provisionalmente, en las absolutas. En este último caso, los supernumerarios permanecerán en el desempeño del cargo hasta que tome posesión la persona titular de la Magistratura Numeraria nombrada para cubrir la vacante.
+El Órgano de Administración Judicial, cuenta con independencia técnica y de gestión, encargándose de la administración de los recursos humanos, financieros y los bienes muebles e inmuebles, de la promoción de la carrera judicial, así como del control interno del Poder Judicial del Estado.
 
-Sólo las y los supernumerarios que ejerzan como numerarios formarán parte del Pleno del Supremo Tribunal de Justicia. Éste podrá llamar a los supernumerarios que requiera y asignarles sus funciones.
+También se responsabilizará de la determinación del número, división, competencia territorial y especialización en la integración del Poder Judicial del Estado y ejercerá las demás facultades y obligaciones que la Ley le otorguen.
 
-Los nombramientos de las y los magistrados supernumerarios serán por seis años y podrán ser designados, por una sola vez, para un período igual, sin perjuicio de que sean propuestos por el Ejecutivo para ser nombrados numerarios.
+La conformación del Órgano de Administración Judicial será colegiada y compuesta por tres Consejerías del Órgano de Administración Judicial.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
+Las tres Consejerías serán designadas directamente y no por voto ciudadano; una Consejería será designada por el titular del Poder Ejecutivo del Estado, otra Consejería será designada por el Pleno del Congreso del Estado mediante votación por mayoría calificada del mismo, a propuesta de la Junta de Coordinación Política, y la tercera Consejería será designada por mayoría del Pleno del Supremo Tribunal de Justicia del Estado. La duración del cargo de persona Consejera será de seis años sin posibilidad de reelegirse por un segundo período, conforme a las determinaciones que establezca la Ley.
 
-### CAPÍTULO III. De los Jueces y Tribunales
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+### CAPÍTULO III. De los Juzgados de Primera Instancia, Órgano de Administración y Tribunal Unitario de Disciplina Judicial
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 99.
 
-Para ser Magistrado o Magistrada del Supremo Tribunal de Justicia se requiere:
+Para ser persona Consejera del Órgano de Administración Judicial, se requiere acreditar los requisitos que, para ser Magistrado o Magistrada del Supremo Tribunal de Justicia, con excepción del voto ciudadano.
 
-I. Ser ciudadana o ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
+Para este cargo, el promedio general de calificación que establece la fracción II del numeral 92 de esta Constitución será cuando menos nueve puntos o su equivalente en licenciatura, maestría o doctorado.
 
-II. Tener al día de su nombramiento, título profesional de licenciatura en derecho, abogada o abogado, con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
+El presupuesto del Poder Judicial del Estado será formulado por el Órgano de Administración Judicial, con la aprobación del Pleno del Supremo Tribunal de Justicia, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos y será remitido al Poder Ejecutivo del Estado para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
 
-III. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+El Órgano de Administración Judicial será responsable de rendir al Congreso del Estado un informe trimestral del estado financiero y anualmente la Cuenta Pública del Poder Judicial del Estado.
 
-IV. Haber residido en el Estado durante los dos años anteriores al día de su nombramiento;
-
-V. No haber sido titular de Secretaría de Despacho o su equivalente; de la Fiscalía General del Estado; diputado o diputada local, o titular de presidencia municipal, en el año inmediato anterior al día de su nombramiento. Para ser titular de magistratura supernumeraria deberán cumplirse los mismos requisitos, y
-
-VI. No estar en alguno de los siguientes supuestos:
-
-a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
-
-b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
-
-c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
-
-Los nombramientos de las magistradas y los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 100.
 
-El cargo de Magistrado no es renunciable, sino por causa justificada calificada por el Congreso del Estado.
+La Ley establecerá las bases para la formación y actualización de los funcionarios del Poder Judicial del Estado, así como para el desarrollo de la carrera judicial. Esto implica la capacitación y actualización continua a las personas funcionarias judiciales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 101.
 
-En cada Distrito o Región Judicial, que comprenderán los municipios que establezca la Ley Orgánica del Poder Judicial, habrá los jueces y tribunales que determine el Consejo de la Judicatura, los que conocerán de los negocios judiciales que les competan. La ley establecerá la forma de cubrir sus faltas temporales.
+El Tribunal Unitario de Disciplina Judicial es un órgano con independencia técnica y de gestión, integrado por una persona Magistrada del Tribunal Unitario de Disciplina Judicial electo por voto de la ciudadanía. La duración de su cargo será de seis años, sin posibilidad de reelegirse por un segundo período. Sus funciones incluyen la supervisión, evaluación, investigación de conductas irregulares y aplicación de sanciones administrativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2020)</small>
+El objetivo principal del Tribunal Unitario de Disciplina Judicial es preservar la integridad, eficacia y legitimidad del Poder Judicial del Estado, garantizando que todos los operadores judiciales actúen con los más altos estándares éticos y profesionales.
+
+El Tribunal Unitario de Disciplina desahogará el procedimiento de responsabilidades administrativas de manera uniinstancial a través de dos Secretarías Ejecutivas, una fungirá como autoridad investigadora y la otra como autoridad substanciadora en los asuntos de su competencia, recayendo la actividad resolutora en el Magistrado o Magistrada del Tribunal Unitario de Disciplina Judicial, conforme a las disposiciones previstas en la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 102.
 
-Las y los jueces serán nombrados, removidos, ratificados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos que establezca la ley para la carrera judicial, observando el principio de paridad de género. Durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+Las resoluciones del Tribunal Unitario de Disciplina Judicial son definitivas, asegurando que las decisiones sean firmes y vinculantes, garantizando así un proceso disciplinario efectivo y transparente.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-El cargo de juez no podrá ejercerse después de los setenta y tres años de edad. Al término de su función tendrá derecho al haber de retiro que marque la ley.
+### CAPÍTULO IV. De la Elección Ciudadana y del Comité de Evaluación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
-
-### CAPÍTULO IV. De los Jueces Auxiliares
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 103.
 
-Para ser Juez se requiere:
+Las personas Magistradas del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial y las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, serán elegidas de manera libre, directa y secreta por la ciudadanía, el día que se celebre el proceso electoral local ordinario del año que corresponda, conforme al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+El Órgano de Administración Judicial notificará al Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo, la región, así como cualquier otra información requerida.
 
-I.- Ser ciudadano potosino en pleno ejercicio de sus derechos civiles y políticos;
+Una vez notificado el Congreso del Estado de San Luis Potosí conforme al párrafo anterior, dentro del término de 5 días naturales posteriores, emitirá una convocatoria dirigida a los otros dos Poderes del Estado para que integren su propio Comité de Evaluación, cada Comité deberá integrarse con tres personas que deberán contar con los conocimientos técnicos jurídicos y experiencia necesarios, distinguidas por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-II.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
+Por lo que respecta al Congreso del Estado para la integración de su Comité de Evaluación, la Junta de Coordinación Política propondrá al Pleno a las tres personas que deberán integrar el Comité de Evaluación del Congreso del Estado, en el entendido que, quienes resulten electos o electas, deberán reunir los requisitos descritos en el párrafo que antecede.
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Las funciones de las personas que integren los citados Comités de Evaluación la realizarán de manera honorífica, por lo que no recibirán retribución alguna y únicamente fungirán durante el período electoral para el cual fueron designadas o designados.
 
-III.- Tener, al día de su nombramiento, título profesional de licenciado en derecho con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo; y
+En lo individual, los tres Comités deberán instalarse dentro de los 5 días naturales posteriores a la notificación de la convocatoria del Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+La convocatoria señalará los cargos a elegir, requisitos, documentos para acreditarlos, ámbito territorial electivo y fechas de cumplimiento, asegurándose que se cumpla con la paridad de género y de que sea ampliamente difundida entre los profesionales del derecho en las cuatro regiones del Estado de San Luis Potosí.
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+Una vez instalados los Comités de Evaluación, estos emitirán dentro de los 5 días naturales siguientes, las reglas para su funcionamiento conforme a los parámetros de elaboración que establezca la Ley Electoral del Estado de San Luis Potosí y demás disposiciones legales correspondientes.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+Los Comités de Evaluación podrán celebrar convenios con instituciones públicas que colaboren en sus respectivos procesos y privilegiará el uso de las tecnologías de la información para la recepción de solicitudes, la evaluación y la selección de postulaciones.
+
+Los Comités de Evaluación en lo particular dentro de los 5 días naturales siguientes a la emisión de sus reglas de funcionamiento, emitirán cada uno su propia convocatoria dirigida a profesionales del derecho en el Estado de San Luis Potosí, interesados en participar en la evaluación y selección de postulaciones para la elección de las personas juzgadoras que ocuparán los cargos, de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado.
+
+La convocatoria señalará los cargos a elegir, requisitos, documentos para acreditarlos, ámbito territorial electivo y fechas de cumplimiento, asegurándose que se cumpla con la paridad de género y de que sea ampliamente difundida entre los profesionales del derecho en las cuatro regiones del estado de San Luis Potosí.
+
+Los Comités de Evaluación en lo particular, en términos de la convocatoria que cada uno emita, recibirán los expedientes de las personas aspirantes, evaluarán el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+
+Los Comités de Evaluación en lo particular deberán integrar su listado de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado. Por cada cargo a elegir mediante voto ciudadano cada Comité integrará un listado con no más de tres candidatos o candidatas que hayan resultado mejor evaluados, asegurando siempre la paridad de género en su conformación, el cual remitirán al Consejo Estatal Electoral y de Participación Ciudadana para que éste prosiga con los actos necesarios para la elección ciudadana correspondiente.
+
+El procedimiento de selección por parte de los Comités de Evaluación es de orden público e interés social, ya que la sociedad está interesada en su prosecución y conclusión, pues de este procedimiento depende la integración y funcionamiento del ejercicio jurisdiccional.
+
+La campaña para la elección de personas candidatas se llevará a cabo conforme a las disposiciones que emita el Consejo Estatal Electoral y de Participación Ciudadana. La campaña debe iniciar conforme a las determinaciones de la autoridad electoral local, y no podrán durar más de 30 treinta días naturales y no se proporcionará ningún tipo de subsidio, ayuda o recurso financiero ni en especie a las personas candidatas para efectuar sus campañas.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos.
+
+Los candidatos podrán emplear redes sociales para divulgar su plataforma o perfil, siempre y cuando no efectúen la compra de publicidad.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+Cualquier persona servidora pública que se encuentre en funciones y que se postule a un cargo de persona Juzgadora del Poder Judicial del Estado, no será necesario que solicite licencia a su encargo, pero deberá abstenerse de utilizar recursos públicos con fines electorales.
+
+Concluida la campaña y el proceso electoral correspondiente, la autoridad administrativa electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres y especialización por materia.
+
+Una vez que ya no exista medio de impugnación por resolver, el Consejo Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de validez de la elección de personas Juzgadoras, personas Magistradas de Primera Instancia del Poder Judicial del Estado, así como de la persona Magistrada del Tribunal Unitario de Disciplina Judicial y comunicará los resultados al Supremo Tribunal de Justicia del Estado y al Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 104.
 
-En el Estado habrá juzgados menores. El Consejo de la Judicatura determinará su número conforme a las necesidades del servicio. Sus facultades, obligaciones y competencia por materia y cuantía, serán establecidas por la ley, y la territorial corresponderá fijarla al Consejo de la Judicatura.
+Los Comités de Evaluación deberán asegurarse de que el resultado del proceso de selección de candidatos sea transparente y se publique adecuadamente para que la ciudadanía esté informada y pueda participar activamente.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 105.
 
-Los jueces menores serán nombrados por el Consejo de la Judicatura, mediante examen de oposición, conforme preceptúe la ley secundaria, y observando el principio de paridad de género. El Consejo de la Judicatura podrá separarlos de su cargo o cambiarlos de adscripción.
+Los Comités de Evaluación deberán garantizar que el uso de tecnologías de la información no sólo se limite a la recepción de solicitudes, sino que también se utilice para la transparencia y la rendición de cuentas en todo el proceso.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 106.
 
-Para ser Juez Menor se requiere:
+En lo no previsto respecto del proceso de elección de personas Juzgadoras del Poder Judicial del Estado, así como de persona Magistradas (sic) titular del Tribunal Unitario de Disciplina Judicial, se estará por lo dispuesto en la Ley Electoral del Estado de San Luis Potosí y demás disposiciones legales correspondientes, siempre y cuando estas normas complementen y no contradigan ni desvirtúen la Constitución Local. En caso de conflicto, prevalecerán las disposiciones Constitucionales.
 
-I.- Ser ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-II.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
-
-III.- Tener, al día de su nombramiento, título profesional de licenciado en derecho con antigüedad mínima de dos años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo; y
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-### CAPÍTULO I. Del Patrimonio
+### CAPÍTULO V. De los Jueces Auxiliares
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1953,11 +1975,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que haya am
 
 Habrá Jueces Auxiliares en todas las poblaciones que señale la ley y sus atribuciones serán las que ésta determine.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 108.
 
-Los jueces auxiliares serán nombrados por el Consejo de la Judicatura, a elección que las comunidades hagan, de conformidad con lo establecido por la ley de la materia, la que determinará también los requisitos para desempeñar el cargo y la duración del mismo.
+Las personas Juzgadoras Auxiliares serán nombradas por el Órgano de Administración Judicial, a elección que las comunidades hagan, de conformidad con lo establecido por la ley de la materia, la que determinará también los requisitos para desempeñar el cargo y la duración de éste.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1965,7 +1987,7 @@ Los jueces auxiliares serán nombrados por el Consejo de la Judicatura, a elecci
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De la Hacienda Pública
+### CAPÍTULO I. Del Patrimonio
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2001,7 +2023,7 @@ II.- Del dominio privado, los que ingresen a su patrimonio no comprendidos en la
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. De los Municipios del Estado
+### CAPÍTULO II. De la Hacienda Pública
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2029,9 +2051,9 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De los Requisitos para ser Miembro del Ayuntamiento, Concejo Municipal o Delegado
+### CAPÍTULO I. De los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 114.
 
@@ -2213,9 +2235,9 @@ Los Ayuntamientos podrán someter a plebiscito los actos que por su trascendenci
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO III. De la Formación, Fusión y Supresión de Municipios y Delegaciones Municipales
+### CAPÍTULO II. De los Requisitos para ser Miembro del Ayuntamiento, Concejo Municipal o Delegado
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 117.
 
@@ -2295,9 +2317,9 @@ Los síndicos reunirán además los requisitos previstos en la ley orgánica res
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO IV. De la Suspensión y Desaparición de Ayuntamientos y de la Suspensión y Revocación del Mandato de Alguno de sus Integrantes
+### CAPÍTULO III. De la Formación, Fusión y Supresión de Municipios y Delegaciones Municipales
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 119.
 
@@ -2311,49 +2333,9 @@ En las Delegaciones Municipales la autoridad será ejercida por un Delegado Muni
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. De la Suspensión y Desaparición de Ayuntamientos y de la Suspensión y Revocación del Mandato de Alguno de sus Integrantes
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
-
-ARTÍCULO 122 BIS. En San Luis Potosí todas las personas tienen derecho a la justicia penal, y el Estado deberá garantizar el acceso efectivo a ella.
-
-El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público dotado de personalidad jurídica y patrimonio propio; así como de autonomía presupuestal, técnica y de gestión.
-
-La Fiscalía General del Estado estará a cargo del Fiscal General del Estado, que durará en su encargo siete años, sin posibilidad de reelección, y deberá cumplir los mismos requisitos que esta Constitución exige para ser Magistrado.
-
-Corresponde al Gobernador del Estado proponer al Congreso, al triple de personas para ocupar el cargo del Fiscal General del Estado, dentro de los cuales la Legislatura hará la elección en el término de treinta días y por el voto de cuando menos las dos terceras partes de los diputados presentes en la sesión correspondiente. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
-
-En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva terna en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
-
-El Fiscal General sólo podrá ser removido por el titular del Poder Ejecutivo del Estado, por las causas graves que establezca la ley, la remoción podrá ser objetada por el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, dentro de un plazo de diez días hábiles posteriores a que el Ejecutivo haga de su conocimiento la remoción, en cuyo caso, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción y podrá el Ejecutivo iniciar el procedimiento de la elección del nuevo titular de la Fiscalía en términos de los párrafos anteriores.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2023)</small>
-
-En caso de que la persona titular de la Fiscalía General fallezca, se ausente definitivamente, o presente renuncia ante el Congreso del Estado, declarada la vacante por este último, dará aviso al Ejecutivo del Estado para que en un término de treinta días naturales, envíe propuesta de terna de profesionistas para que dé entre éstos, en un término de treinta días y por el voto de cuando menos las dos terceras partes de las diputadas y los diputados presentes en la sesión correspondiente, se elija a quien ocupará el cargo por el tiempo para el que fue electa la persona que se está supliendo.
-
-Para efecto de lo dispuesto en los párrafos anteriores de este artículo, si el Congreso del Estado se encontrare en receso, la Diputación Permanente lo convocará de inmediato a periodo extraordinario.
-
-Las ausencias temporales del Fiscal General se suplirán en los términos que determine la ley.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
-
-ARTÍCULO 122 TER. Corresponde al Ministerio Público la investigación y la persecución ante los tribunales, de todos los delitos del fuero común; para ello contará con facultades para solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
-
-La Fiscalía General contará, al menos, con las fiscalías especializadas en delitos relacionados con hechos de corrupción, y en materia de delitos electorales; los titulares de las mismas serán electos y removidos en los mismos términos que para el caso del Fiscal General del Estado; los titulares de las demás fiscalías, así como los servidores públicos de esa institución, serán designados y removidos por el Fiscal General en los términos que la ley determine.
-
-La ley establecerá un servicio profesional de carrera que reglamente las bases para el ingreso, permanencia, ascensos, formación, profesionalización, y actualización de los servidores públicos de la Fiscalía, regido por los principios de, legalidad, objetividad, eficiencia, mérito, profesionalismo, honradez y respeto a los derechos humanos
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
-
-El Fiscal General presentaraì (sic) a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades, la primera quincena del mes de noviembre de cada año; con excepción del último año de su periodo constitucional, en cuyo caso deberá hacerlo la primera quincena del mes de octubre; y, en su caso, compareceráì (sic) personalmente al Congreso del Estado a la glosa del mismo, en un plazo no mayor a treinta días posteriores a la entrega del informe escrito.
-
-(REUBICADO [N. DE E. ANTES TÍTULO DECIMOPRIMERO], P.O. 2 DE OCTUBRE DE 2017)
-
-TÍTULO DECIMOSEGUNDO
-
-DE LA JUSTICIA ADMINISTRATIVA
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 121.
 
@@ -2409,13 +2391,55 @@ En todos los casos señalados en este artículo, invariablemente si el supuesto 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2017)</small>
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 122 BIS. En San Luis Potosí todas las personas tienen derecho a la justicia penal, y el Estado deberá garantizar el acceso efectivo a ella.
+
+El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público dotado de personalidad jurídica y patrimonio propio; así como de autonomía presupuestal, técnica y de gestión.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+La Fiscalía General del Estado estará a cargo del o de la Fiscal General del Estado, que durará en su encargo siete años, sin posibilidad de reelección y deberá cumplir los requisitos establecidos en el artículo 92 de esta Constitución, con excepción del voto ciudadano.
+
+Corresponde al Gobernador del Estado proponer al Congreso, al triple de personas para ocupar el cargo del Fiscal General del Estado, dentro de los cuales la Legislatura hará la elección en el término de treinta días y por el voto de cuando menos las dos terceras partes de los diputados presentes en la sesión correspondiente. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+
+En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva terna en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
+
+El Fiscal General sólo podrá ser removido por el titular del Poder Ejecutivo del Estado, por las causas graves que establezca la ley, la remoción podrá ser objetada por el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, dentro de un plazo de diez días hábiles posteriores a que el Ejecutivo haga de su conocimiento la remoción, en cuyo caso, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción y podrá el Ejecutivo iniciar el procedimiento de la elección del nuevo titular de la Fiscalía en términos de los párrafos anteriores.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+
+En caso de que la persona titular de la Fiscalía General fallezca, se ausente definitivamente, o presente renuncia ante el Congreso del Estado, declarada la vacante por este último, dará aviso al Ejecutivo del Estado para que en un término de treinta días naturales, envíe propuesta de terna de profesionistas para que dé entre éstos, en un término de treinta días y por el voto de cuando menos las dos terceras partes de las diputadas y los diputados presentes en la sesión correspondiente, se elija a quien ocupará el cargo por el tiempo para el que fue electa la persona que se está supliendo.
+
+Para efecto de lo dispuesto en los párrafos anteriores de este artículo, si el Congreso del Estado se encontrare en receso, la Diputación Permanente lo convocará de inmediato a periodo extraordinario.
+
+Las ausencias temporales del Fiscal General se suplirán en los términos que determine la ley.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+
+ARTÍCULO 122 TER. Corresponde al Ministerio Público la investigación y la persecución ante los tribunales, de todos los delitos del fuero común; para ello contará con facultades para solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La Fiscalía General contará, al menos, con las fiscalías especializadas en delitos relacionados con hechos de corrupción, y en materia de delitos electorales; los titulares de las mismas serán electos y removidos en los mismos términos que para el caso del Fiscal General del Estado; los titulares de las demás fiscalías, así como los servidores públicos de esa institución, serán designados y removidos por el Fiscal General en los términos que la ley determine.
+
+La ley establecerá un servicio profesional de carrera que reglamente las bases para el ingreso, permanencia, ascensos, formación, profesionalización, y actualización de los servidores públicos de la Fiscalía, regido por los principios de, legalidad, objetividad, eficiencia, mérito, profesionalismo, honradez y respeto a los derechos humanos
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+El Fiscal General presentaraì (sic) a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades, la primera quincena del mes de noviembre de cada año; con excepción del último año de su periodo constitucional, en cuyo caso deberá hacerlo la primera quincena del mes de octubre; y, en su caso, compareceráì (sic) personalmente al Congreso del Estado a la glosa del mismo, en un plazo no mayor a treinta días posteriores a la entrega del informe escrito.
+
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOPRIMERO], P.O. 2 DE OCTUBRE DE 2017)
+
+TÍTULO DECIMOSEGUNDO
+
+DE LA JUSTICIA ADMINISTRATIVA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
+
 ### CAPÍTULO ÚNICO. Del Tribunal Estatal de Justicia Administrativa
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 123.
 
@@ -2423,19 +2447,39 @@ La justicia administrativa se deposita en el Tribunal Estatal de Justicia Admini
 
 El Tribunal Estatal de Justicia Administrativa es el órgano competente para imponer las sanciones a los servidores públicos locales y municipales por las responsabilidades administrativas que la ley determine como graves, y a los particulares que incurran en actos vinculados con faltas administrativas graves, así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o municipal, o al patrimonio de los entes públicos estatales o municipales.
 
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Los Magistrados durarán en su cargo diez años y no podrán ser ratificados; y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley, con la misma votación requerida para su nombramiento.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Las personas Magistradas del Tribunal Estatal de Justicia Administrativa deberán reunir los requisitos establecidos en el artículo 92 de esta Constitución, con excepción del voto ciudadano, debiendo además contar con experiencia en materia administrativa y fiscal.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Las referidas magistraturas serán designadas discrecionalmente por el Congreso del Estado. Para su elección, el Gobernador propondrá al Congreso, al triple de personas respecto del número de cargos por cubrir, dentro de los cuales la Legislatura hará la elección respectiva en el término de treinta días, considerando que las personas que cubran los cargos, cuenten con los conocimientos técnicos jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Cuando cese o concluya el ejercicio de una magistratura por cualquier causa, el Ejecutivo presentará al Congreso las respectivas propuestas.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Para la integración de las magistraturas se observará el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Las personas Magistradas durarán en su cargo diez años y no podrán ser ratificadas; sólo podrán ser removidos de sus cargos por las causas graves que señale la ley, con la misma votación requerida para su nombramiento.
 
 (REUBICADO [N. DE E. ANTES TÍTULO DECIMOSEGUNDO], P.O. 2 DE OCTUBRE DE 2017)
 
-TÍTULO DECIMOTERCERO
-
-DE LAS RESPONSABILIDADES, JUICIO POLÍTICO, Y SISTEMA ANTICORRUPCIÓN
+## TÍTULO DECIMO TERCERO. DE LAS RESPONSABILIDADES, JUICIO POLÍTICO, Y SISTEMA ANTICORRUPCIÓN
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 124.
 
@@ -2487,9 +2531,9 @@ III. Se aplicarán sanciones administrativas a los servidores públicos por los 
 
 Las faltas administrativas graves serán investigadas y substanciadas por el Instituto de Fiscalización Superior del Estado y los órganos internos de control, o por sus homólogos en los municipios, según corresponda; y serán sancionadas por el Tribunal Estatal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán del conocimiento y sancionadas por los órganos internos de control.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 90 de esta Constitución, sin perjuicio de las atribuciones del Instituto de Fiscalización Superior del Estado en materia de fiscalización, sobre el manejo, la custodia y aplicación de recursos públicos.
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto por esta Constitución y las Leyes de la materia, sin perjuicio de las atribuciones del Instituto de Fiscalización Superior del Estado en materia de fiscalización, sobre el manejo, la custodia y aplicación de recursos públicos.
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley, y
 
@@ -2501,11 +2545,11 @@ IV. El Tribunal Estatal de Justicia Administrativa impondrá a los particulares 
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 126.
 
-Podrán ser sujetos de juicio político en el Estado, los diputados, magistrados, consejeros de la Judicatura, jueces de Primera Instancia, secretarios de Despacho, Auditor Superior del Estado, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción, y en delitos electorales, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
+Podrán ser sujetos de juicio político en el Estado, las personas Diputadas, las personas Magistradas del Supremo Tribunal de Justicia del Estado, la persona Magistrada del Tribunal Unitario de Disciplina, las personas Consejeras del Órgano de Administración Judicial, las personas Juzgadoras de Primera Instancia, Secretarios de Despacho, Auditor Superior del Estado, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción y en delitos electorales, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2579,7 +2623,7 @@ PREVENCIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. De las Reformas
+### CAPÍTULO ÚNICO
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2609,7 +2653,9 @@ Dicha remuneración será determinada anual y equitativamente, en los presupuest
 
 I.- Se considera remuneración o retribución, toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra; con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo, y los gastos de viaje en actividades oficiales;
 
-II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+II.- Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente o Presidenta de la República;
 
 III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el gobernador del Estado, en el presupuesto correspondiente;
 
@@ -2663,7 +2709,7 @@ DE LAS REFORMAS E INVIOLABILIDAD A LA CONSTITUCIÓN
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De la Inviolabilidad
+### CAPÍTULO I. De las Reformas
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2684,6 +2730,10 @@ Los ayuntamientos tendrán un plazo no mayor de dos meses para pronunciarse a fa
 Una vez cumplida cualquiera de las hipótesis señaladas en los párrafos anteriores, el Congreso del Estado, o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
 Tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de los diputados, para que éstas formen parte de la misma.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+### CAPÍTULO II. De la Inviolabilidad
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3786,3 +3836,75 @@ P. O. 28 DE NOVIEMBRE DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0029.- SE REFORMAN LOS ARTÍCULOS 31 PÁRRAFO SEGUNDO, 47 FRACCIÓN VII, 54 EN SU ÚLTIMO PÁRRAFO, 57 FRACCIONES XXXIII, XXXIV Y XXXV, 73 FRACCIÓN VII INCISO C), 80 FRACCIONES XIII Y XIV, 87 EN SU PÁRRAFO PRIMERO, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 108, 122 BIS EN SU PÁRRAFO TERCERO, 123 EN SU PÁRRAFO TERCERO, 125 FRACCIÓN III EN SU PÁRRAFO TERCERO, 126 EN SU PÁRRAFO PRIMERO, 133 EN SU PÁRRAFO TERCERO, FRACCIÓN II; SE ADICIONA, LA FRACCIÓN XX BIS AL ARTÍCULO 57, LA FRACCIÓN VIII AL ARTÍCULO 73, UN CAPÍTULO IV AL TÍTULO OCTAVO DEL PODER JUDICIAL, ESTE SE CONFORMARÁ CON LOS ARTÍCULOS 103, 104, 105 Y 106, SE ADICIONAN CUATRO PÁRRAFOS AL NUMERAL 123, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REFORMA DEL PODER JUDICIAL DEL ESTADO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+TERCERO. El Proceso Electoral Extraordinario, dará inicio el día 2 de enero de 2025, en el cual se elegirán por voto popular:
+
+A. La totalidad de las personas Magistradas del Supremo Tribunal de Justicia;
+
+B. La persona Magistrada titular del Tribunal Unitario de Disciplina Judicial;
+
+C. La totalidad de las personas Juzgadoras de Primera Instancia;
+
+CUARTO. Las personas que a la fecha ya se encuentren en funciones de Magistrados, Magistradas, Jueces o Juezas de Primera Instancia del Poder Judicial del Estado, serán incorporadas automáticamente y sin necesidad de integrar expediente a los listados del Comité de Evaluación del Poder Judicial del Estado para participar en la elección extraordinaria del año 2025, salvo que declinen de su candidatura previo al cierre de la convocatoria.
+
+Aquellos Magistrados, Magistradas, Jueces o Juezas de Primera Instancia del Poder Judicial del Estado que deseen participar en el mismo o en diverso cargo, o bien, se encuentren gozando de licencia o permiso temporal, deberán informar al Comité de Evaluación del Poder Judicial del Estado, a efecto de que éste determine la inclusión de la persona candidata en el listado que se le notifique al Consejo Estatal Electoral y de Participación Ciudadana.
+
+En caso de no resultar electas o electos por la ciudadanía o que decidan no participar en la elección extraordinaria del año 2025, concluirán su encargo en la fecha que tomen protesta ante el Congreso del Estado las personas que resultaron con mayor votación para ese cargo.
+
+Dado que las funciones que ejercen las personas Consejeras del actual Consejo de la Judicatura del Estado se centran en aspectos administrativos y de supervisión y no jurisdiccionales, no serán incorporados al listado del Comité de Evaluación para participar en la elección extraordinaria del año 2025; por lo que, en el supuesto que deseen participar en la referida elección, deberán satisfacer los requisitos constitucionales y seguir el proceso ordinario para su postulación.
+
+QUINTO. Por única ocasión y para determinar cuáles serán los cargos de Magistradas y Magistrados, Juezas y Jueces a elegir durante el Proceso Electoral Extraordinario 2025, el actual Consejo de la Judicatura del Poder Judicial del Estado, entregará en un término no mayor a 15 días naturales a partir de la entrada en vigor de este Decreto al Congreso del Estado, un listado con la totalidad de cargos de personas juzgadoras susceptibles de ser electas popularmente, indicando sus circunscripciones territoriales, especialización por materia, género, vacancias, renuncias, retiros programados y la demás información que se le requiera, para seguir el siguiente procedimiento:
+
+1. El Congreso del Estado, dispondrá de un plazo de cinco días naturales posteriores a la notificación que le realice el Consejo de la Judicatura Local, para emitir la convocatoria a los Poderes Ejecutivo y Judicial para la integración de sus Comités de Evaluación; asimismo, el Pleno del Congreso del Estado, a propuesta de la Junta de Coordinación Política, deberá en igual término, integrar a su propio Comité de Evaluación.
+
+2. Instalados los Comités de Evaluación, emitirán, dentro de los cinco días naturales siguientes, sus reglas para su funcionamiento conforme a la Ley Electoral del Estado de San Luis Potosí y demás disposiciones legales correspondientes. Una vez emitidas las reglas de funcionamiento, los Comités de Evaluación contará (sic) con un plazo de cinco días para emitir su convocatoria dirigida a profesionales del derecho en el Estado de San Luis Potosí, interesados en participar en la evaluación y selección de postulaciones para la elección extraordinaria de las personas juzgadoras que ocuparán los cargos, en los términos descritos en el presente Decreto.
+
+3. Los interesados a participar en la elección extraordinaria 2025, contarán con 10 días naturales para registrarse, en términos de la convocatoria que emitan los Comités de Evaluación, quien recibirá los expedientes de las personas aspirantes, revisará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+
+4. Una vez concluido el período de registro para los que deseen postularse, los Comités de Evaluación contará con 10 días naturales para integrar su propio listado con no más de tres candidatos o candidatas que hayan resultado mejor evaluados, asegurando siempre la paridad de género en su conformación.
+
+5. Los Comités de Evaluación remitirán su lista de candidatos y candidatas al Consejo Estatal Electoral y de Participación Ciudadana, para que éste prosiga con los actos necesarios para la elección ciudadana correspondiente.
+
+La campaña para la elección de personas candidatas se llevará a cabo conforme a las disposiciones que emita el Consejo Estatal Electoral y de Participación Ciudadana. La campaña debe iniciar conforme a las disposiciones que emita el Consejo Estatal Electoral y de Participación Ciudadana y la Ley de la materia, debiendo observar que se cumplan los 30 días de campaña previo a la elección.
+
+Las campañas no podrán durar más de 30 treinta días naturales y no se entregará ningún tipo de subsidio, ayuda o recurso financiero ni en especie a las personas candidatas para efectuar sus campañas.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos.
+
+Las y los candidatos podrán emplear redes sociales para divulgar su plataforma o perfil, siempre y cuando no efectúen la compra de publicidad.
+
+Concluida la campaña y el proceso electoral correspondiente, la autoridad administrativa electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres y especialización en la materia.
+
+Una vez que ya no exista medio de impugnación por resolver, el Consejo Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de validez de la elección de personas Juzgadoras, personas Magistradas de Primera Instancia del Poder Judicial del Estado, así como de persona Magistradas titular del Tribunal Unitario de Disciplina Judicial y comunicará los resultados a cada poder, e inmediatamente las personas que resulten electas serán protestadas de su encargo por el Congreso del Estado a más tardar el 15 de septiembre de 2025.
+
+El Órgano de Administración Judicial del Estado ya en funciones, adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 30 de septiembre de 2025.
+
+SEXTO. Por única ocasión, el período de las personas candidatas que resulten electos en el proceso electoral local extraordinario que se celebre en el año 2025, para los cargos de personas Magistradas del Supremo Tribunal de Justicia, durarán en su encargo once años, por lo (sic) cesarán en sus funciones en el año 2036, a fin (sic) empatar la jornada comicial de proceso electoral local ordinario.
+
+SÉPTIMO. Por única ocasión, el período de las personas candidatas que resulten electos en el proceso electoral local extraordinario que se celebre en el año 2025, para los cargos de persona Juzgadora de Primera Instancia del Poder Judicial del Estado, durarán en su encargo ocho años, por lo que cesarán en sus funciones en el año 2033, a fin empatar la jornada comicial de proceso electoral local ordinario.
+
+OCTAVO. El Tribunal Unitario de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones a partir de la protesta de su encargo ante el Congreso del Estado. En esa misma fecha, el Consejo de la Judicatura del Poder Judicial del Estado quedará extinto.
+
+Por única ocasión, el período de la persona candidata que resulte electa en el proceso electoral local extraordinario que se celebre en el año 2025, para el cargo de persona Magistrada del Tribunal Unitario de Disciplina Judicial, así como las tres personas designadas para los cargos de Consejeras del Órgano de Administración Judicial, durarán en su encargo cinco años, por lo que concluirán sus funciones en el año 2030, a fin empatar la jornada comicial de proceso electoral local ordinario.
+
+El Tribunal Unitario de Disciplina Judicial y el Órgano de Administración Judicial, implementarán un plan de trabajo para la entrega recepción de los recursos materiales, humanos, financieros y presupuestales conforme a la competencia de sus funciones.
+
+NOVENO. Las personas Magistradas del Supremo Tribunal de Justicia, las personas Consejeras del Consejo de la Judicatura, las personas Juzgadoras (sic) Primera Instancia del Poder Judicial del Estado, que concluyan su encargo por declinar a la elección extraordinaria del año 2025, no serán beneficiarios del haber de retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria que emita el Comité de Evaluación del Poder Judicial del Estado, misma que tendrá efectos hasta en tanto las personas electas tomen protesta del cargo ante el Congreso del Estado. En estos casos, el haber de retiro será proporcional al tiempo de su desempeño.
+
+Lo anterior no será aplicable a las personas Magistradas, a las personas Juzgadoras de Primera Instancia y a las personas Consejeras de la Judicatura del Poder Judicial del Estado, que se encuentren en funciones a la entrada en vigor de este Decreto cuyo nombramiento original concluya antes de la fecha de cierre de la convocatoria respectiva, o se jubilen por haber cumplido los años de servicio conforme a la normatividad de la materia en cuyo caso se ajustarán a dicha normatividad.
+
+Las personas Magistradas del Supremo Tribunal de Justicia, las personas Consejeras del Consejo de la Judicatura y las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado que se encuentren en funciones, que participen en el proceso de elección extraordinaria del año 2025 y que no resulten electas, tendrán derecho al haber de retiro, mismo que será proporcional al tiempo de su desempeño.
+
+DÉCIMO. El Congreso del Estado tendrá un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las Leyes que correspondan para dar viabilidad a la elección de las personas juzgadoras. Con excepción de las modificaciones a las leyes electorales, las cuales deberán efectuarse a la par de esta modificación constitucional.
+
+DÉCIMO PRIMERO. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado que no se encuentren en las hipótesis antes previstas serán respetados en su totalidad.
+
+DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
