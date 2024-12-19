@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-de-las-mujeres-en-tamaulipas-15
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-11-24"
-last_updated: "2021-11-24"
+last_updated: "2024-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE LAS MUJERES EN TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS MUJERES EN TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS MUJERES EN TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2021.
 
@@ -1062,3 +1064,37 @@ En un plazo no mayor de sesenta días naturales contados a partir de la entrada 
 Dado en la residencia del Poder Ejecutivo en Ciudad Victoria, Tamaulipas, a los tres días del mes de diciembre del año dos mil veinte.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.- EL SECRETARIO DE BIENESTAR SOCIAL.- RÓMULO GARZA MARTÍNEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS MUJERES EN TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico del Instituto de las Mujeres en Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico del Instituto de las Mujeres en Tamaulipas, publicado en el Periódico Oficial del Estado Anexo al número 140, de fecha 24 de noviembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones administrativas que se opongan al presente Estatuto Orgánico del Instituto de las Mujeres en Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Los reglamentos y demás disposiciones normativas del Instituto de las Mujeres en Tamaulipas deberán de emitirse conforme al presente Estatuto Orgánico del Instituto de las Mujeres en Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+El presente Estatuto Orgánico del Instituto de las Mujeres en Tamaulipas, deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor de sesenta días naturales contados a partir de la entrada en vigor del presente Estatuto, la Junta de Gobierno del Instituto deberá expedir la convocatoria para la integración del Consejo Consultivo Ciudadano.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al entrar en vigor el presente Estatuto, los asuntos en trámite serán resueltos hasta su conclusión en términos del Estatuto que se deroga.
