@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2024-04-23"
+last_updated: "2024-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2024.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2023.
 
@@ -369,11 +369,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 I. Visitante sin permiso para realizar
 
-actividades remuneradas $717.14 $717
+actividades remuneradas $860.56
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -473,7 +473,9 @@ II. Visitantes sin permiso para realizar actividades remuneradas que se ubiquen 
 
 a). Ingresen a territorio nacional por vía terrestre, siempre que su estancia en el país no exceda de siete días. En caso de que se exceda dicho periodo el derecho se pagará al momento de la salida del territorio nacional.
 
-b). Pasajeros o miembros de la tripulación a bordo de buques de crucero en travesía internacional, que desembarquen para visitar el país en los puertos mexicanos que formen parte de su travesía turística y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de veintiún días, contados a partir del primer arribo a territorio nacional.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+b). Miembros de la tripulación a bordo de buques de crucero en travesía internacional, que desembarquen en los puertos mexicanos y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de veintiún días, contados a partir del primer arribo a territorio nacional.
 
 c). Miembros de la tripulación que ingresen al país a bordo de cualquier tipo de buque distinto al previsto en el inciso anterior y desembarquen en puertos mexicanos y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de quince días, contados a partir del primer arribo a territorio nacional.
 
@@ -483,11 +485,11 @@ e). Cuando sean autorizados bajo los convenios de cooperación o intercambio edu
 
 > <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12.
 
-Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $185.91 $186
+Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $223.09
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -643,17 +645,19 @@ Los extranjeros a los que se les autorice la condición de estancia bajo los sup
 
 No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 18-A.
 
-Los ingresos que se obtengan por la recaudación del derecho relativo al visitante sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, a que se refiere el artículo 8o., fracción I, de esta Ley, se destinarán al fideicomiso público federal sin estructura que constituya la empresa de participación estatal mayoritaria, sectorizada a la Secretaría de la Defensa Nacional, denominada Tren Maya, S.A. de C.V., en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, para el pago de la operación, prestación de servicios, administración, explotación, construcción, planeación, adquisición, proyectos o programas, arrendamiento, obra complementaria, equipamiento, instalación, estudio, proyecto e inversión en infraestructura, entre otros, relacionados con el objeto social de la citada entidad paraestatal.
+El 67% de los ingresos que se obtengan por la recaudación del derecho relativo al visitante sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos a que se refiere el artículo 8o., fracción I, de esta Ley, se destinarán a la Secretaría de la Defensa Nacional para el pago de la operación, prestación de servicios, administración, explotación, construcción, planeación, adquisición, proyectos o programas, arrendamiento, obra complementaria, equipamiento, instalación, estudio, proyecto e inversión en infraestructura, entre otros, relacionados con los objetos sociales de las empresas de participación estatal mayoritaria, sectorizadas a la Secretaría de la Defensa Nacional. Dichos recursos deberán aportarse por la citada dependencia al fideicomiso público federal sin estructura previsto en el artículo 220-A, párrafo segundo, de esta Ley, en el que esa Secretaría funge como unidad responsable para que, por conducto de dicho fideicomiso se realicen los pagos referidos. La recaudación del 33% restante deberá concentrarse en la Tesorería de la Federación y no tendrá destino específico en los términos de la Ley Federal de Derechos.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+El 83% de los ingresos que se obtengan por la recaudación del derecho relativo a la prestación de servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional a que se refiere el artículo 12 de esta Ley, se deberá destinar a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país, así como a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración. La recaudación del 17% restante deberá concentrarse en la Tesorería de la Federación y no tendrá destino específico en los términos de la Ley Federal de Derechos.
 
-Los demás ingresos que se obtengan por la recaudación de los derechos establecidos en esta Sección, serán destinados a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país y a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+El 100% de los demás ingresos que se obtengan por la recaudación de los derechos establecidos en esta Sección, se deberá destinar al Instituto Nacional de Migración para los programas señalados en el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -2557,17 +2561,7 @@ La cuota que resulte, en ningún
 
 caso será inferior a $324,392.18 $324,392
 
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-XIV. Financiera Rural:
-
-La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
-
-a). Una cuota de $3,385,587.83 $3,385,588
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-b). El resultado de multiplicar 0.240474 al millar, por el total de sus activos.
+XIV. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -4735,11 +4729,11 @@ Los ingresos que se obtengan por el pago de derechos por los servicios que sean 
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024, D.O.F. DEL 29 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-Por el estudio, trámite y resolución de cada solicitud de concesión o asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
+Por la expedición del título de concesión minera o por la recepción de la solicitud, estudio, trámite y, en su caso, expedición del título de asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla:
 
 Rango de Superficie
 
@@ -7849,6 +7843,10 @@ a). Por la expedición del título de concesión 2,112.14 $2,112
 
 b). Por la prórroga $1,081.21 $1,081
 
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+No pagarán los derechos a que se refiere esta fracción, los integrantes de Grupos Voluntarios que desempeñen labores de rescate y auxilio, siempre que cuenten con la constancia de registro nacional o regional, ni los servidores públicos que obtengan la certificación de competencia en materia de protección civil, en términos de las disposiciones jurídicas aplicables.
+
 C. Para uso público y social:
 
 I. Por la expedición del título de concesión $43,829.27 $43,829
@@ -8223,9 +8221,9 @@ I. Tratándose de las concesiones para uso público y social, previstas en el ar
 
 II. Tratándose de las concesiones para uso social y público, previstas en el artículo 174-B, se pagará el 20% de las cuotas establecidas en las fracciones II y III del mismo, respectivamente.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-III. No se pagarán los derechos a que se refieren los artículos 5, fracciones I y III, 173, 174-A, 174-B y 174-C, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
+III. No se pagarán los derechos a que se refieren los artículos 5o., fracciones I y III, 173, 174-A, 174-B y 174-C, de esta Ley cuando el servicio se vincule a concesiones para uso social comunitario o de pueblos y comunidades indígenas y afromexicanas.
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -14037,7 +14035,9 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 Por el uso o aprovechamiento no extractivo de los elementos naturales y escénicos que se realizan en las Áreas Naturales Protegidas marinas, insulares y terrestres sujetos al régimen de dominio público de la Federación, derivado de actividades recreativas, turísticas y deportivas de buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas, observación de fauna marina en general, pesca deportiva en cualquiera de sus modalidades, la navegación en mares, canales, esteros, rías y lagunas costeras, ciclismo, paseo a caballo, rappel, montañismo, excursionismo, alta montaña, campismo, pernocta, observación de aves y otra fauna y flora silvestre, espeleología, escalada en roca, visitas guiadas y no guiadas, descenso en ríos, uso de kayak y otras embarcaciones a remo o motorizadas y recorridos en vehículos motorizados se pagarán derechos, conforme a las siguientes cuotas:
 
-I. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga baja por la alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $108.66 $109
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+I. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga baja por la alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $217.32
 
 - Parque Nacional Bahía de Loreto
 
@@ -14077,13 +14077,17 @@ I. Por persona, por día, por cada Área Natural Protegida considerada como de c
 
 - Área de Protección de Flora y Fauna Yum Balam
 
-I Bis. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $1,811.01 $1,811
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+I Bis. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $3,622.02
 
 - Parque Nacional Revillagigedo
 
 - Reserva de la Biosfera Isla Guadalupe
 
-I Ter. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga media por la mediana vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $60.37 $60
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+I Ter. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga media por la mediana vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $120.74
 
 - Parque Nacional Arrecife de Puerto Morelos
 
@@ -14197,9 +14201,9 @@ I Ter. Por persona, por día, por cada Área Natural Protegida considerada como 
 
 - Parque Nacional Isla Isabel
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $362.20 $362
+I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $724.40
 
 - Reserva de la Biosfera Banco Chinchorro
 
@@ -14209,11 +14213,15 @@ Reserva de la Biosfera Islas Marías
 
 - Parque Nacional Arrecife Alacranes
 
-II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis, I Ter y I Quáter por persona, por día, por Área Natural Protegida: $46.23 $46
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis, I Ter y I Quáter por persona, por día, por Área Natural Protegida: $92.46
 
 No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en las fracciones I, I Bis, I Ter y I Quáter de este artículo, siempre y cuando la visita a las Áreas Naturales Protegidas por las que se efectúa el pago previsto en esta fracción se realice el mismo día.
 
-III. Las personas podrán optar por pagar los derechos a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas, con excepción de las señaladas en la fracción I Bis del presente artículo: $1,811.01 $1,811
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+III. Las personas podrán optar por pagar los derechos a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas, con excepción de las señaladas en la fracción I Bis del presente artículo: $3,622.02
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -14223,9 +14231,9 @@ La obligación del pago de los derechos previstos en las fracciones I, I Bis, I 
 
 No pagarán los derechos a que se refieren las fracciones I, I Bis, I Ter, I Quáter y II de este artículo, quienes por el servicio que prestan realicen estas actividades dentro del Área Natural Protegida, la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, el transporte público y de carga, así como los recorridos de vehículos automotores en tránsito o de paso realizados en vías pavimentadas, ni los residentes permanentes que se encuentren dentro de las Áreas Naturales Protegidas, los de las localidades contiguas a las mismas, ni los de la zona de influencia de éstas, acreditando dicha condición con una identificación oficial con domicilio en dichas localidades y/o con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-Estarán exentos del pago de los derechos a que se refieren las fracciones I, I Bis, I Ter, I Quáter y II de este artículo, los menores de 12 años, los discapacitados, los adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento, así como los habitantes de los municipios que se ubiquen en las zonas de alta y muy alta marginación, identificados en el listado de la Declaratoria de las Zonas de Atención Prioritaria, siempre que se acredite con una identificación oficial con domicilio en dichos municipios.
+Estarán exentos del pago de los derechos a que se refieren las fracciones I, I Bis, I Ter, I Quáter y II de este artículo, los menores de 12 años, las personas con discapacidad, las personas adultas mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente, así como los habitantes de los municipios que se ubiquen en las zonas de alta y muy alta marginación, identificados en el listado de la Declaratoria de las Zonas de Atención Prioritaria, siempre que se acredite con una identificación oficial con domicilio en dichos municipios, tendrán un 75% de descuento. Los visitantes nacionales y los extranjeros residentes en el país, que acrediten su nacionalidad y residencia, respectivamente, tendrán un 50% de descuento.
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para el manejo sustentable de las Áreas Naturales Protegidas.
 
@@ -14234,6 +14242,10 @@ El pago del derecho a que se refiere este artículo, no exime a los obligados de
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I, I Bis, I Ter, I Quáter y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos, insulares y terrestres de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
 ###### ARTICULO 198-A.
 
@@ -14765,7 +14777,9 @@ Tratándose de servicios complementarios, por lo que se refiere al suministro de
 
 Las personas titulares de concesiones a que se refiere la Ley de Aeropuertos, determinarán el derecho, por cada ejercicio fiscal, aplicando la tasa del 9% a la suma de los ingresos brutos por servicios aeroportuarios, complementarios y comerciales, señalados en la Ley de Aeropuertos y su Reglamento, conforme a sus estados financieros dictaminados.
 
-Los ingresos que se obtengan por la recaudación de este derecho se concentrarán en la Tesorería de la Federación y se destinarán a las secretarías de la Defensa Nacional y de Marina para el fortalecimiento del sistema aeroportuario bajo su coordinación, a través de los fideicomisos públicos federales sin estructura que se constituyan para tal fin, en términos de la Ley de Presupuesto y Responsabilidad Hacendaria y su Reglamento. Dichas secretarías fungirán como unidades responsables, respectivamente, de los fideicomisos a que se refiere el presente párrafo.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+Los ingresos que se obtengan por la recaudación de este derecho se concentrarán en la Tesorería de la Federación y se destinarán en un 60% a la Secretaría de la Defensa Nacional y en un 40% a la Secretaría de Marina para el fortalecimiento de los sistemas aeroportuarios bajo la coordinación de dichas dependencias. Estas secretarías aportarán dichos recursos a los fideicomisos públicos federales sin estructura constituidos para esos efectos, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, en los que dichas secretarías fungen como unidades responsables, respectivamente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
@@ -15009,13 +15023,11 @@ El cumplimiento de calidad del agua a que se refieren las fracciones V y VI del 
 
 Los contribuyentes de los derechos a que se refiere el presente Capítulo, al momento de presentar sus declaraciones, podrán disminuir del pago del derecho respectivo las cantidades siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-I.- El costo comprobado de los aparatos de medición y los gastos de su instalación que se efectúen a partir de 1998, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones, para calcular el volumen de agua explotada, usada o aprovechada, en los términos de la presente Ley.
+I.- El costo comprobado de los aparatos de medición que adquieran y cumplan con las características y especificaciones señaladas en las reglas de carácter general emitidas por la Comisión Nacional del Agua, así como los gastos de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones, para calcular el volumen de agua explotada, usada o aprovechada, en los términos de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del aparato de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán conservar y presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación, el comprobante fiscal de la compra del aparato de medición y de su instalación, que deberá cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
 II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -15033,9 +15045,13 @@ El contribuyente deberá utilizar las lecturas de los medidores a que se refiere
 
 Hasta que la Comisión Nacional del Agua instale el aparato de medición a que se refiere el presente artículo el contribuyente estará obligado a:
 
-I. Adquirir e instalar directamente un aparato de medición que cumpla con las reglas de carácter general que emita la Comisión Nacional del Agua o, en su caso, conservar el que tenga instalado.
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-II. Calcular y pagar el derecho conforme a los artículos 223 y 226 de esta Ley, utilizando para tales efectos las lecturas del aparato de medición con el que cuenten.
+I. Adquirir e instalar o, en su caso, conservar un aparato de medición que cumpla con las reglas de carácter general que emita la Comisión Nacional del Agua.
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Calcular y pagar el derecho conforme a los artículos 223 y 226 de esta Ley, utilizando para tales efectos las lecturas del aparato de medición a que hace referencia la fracción anterior.
 
 III. Determinar el volumen usado, explotado o aprovechado a través de métodos indirectos cuando se trate de contribuyentes con uso agrícola y pecuario.
 
@@ -15451,21 +15467,21 @@ Las zonas a que se refiere el artículo 232-C de esta Ley, son las siguientes:
 
 ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenabo; Estado de Chiapas: Acapetahua, Arriaga, Huixtla, Mapastepec, Mazatán, Pijijiapan, Suchiate y Villa Comaltitlán; Estado de Guerrero: Cuajinicuilapa, Coyuca de Benítez, Florencio Villarreal y San Marcos; Estado de Oaxaca: San Dionisio del Mar, San Francisco del Mar, San Francisco lxhuatán, San Mateo del Mar, San Miguel del Puerto, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Tapanatepec, San Pedro Tututepec, Santa María Huazolotitlán, Santa María Tonameca, Santa María Xadani, Santiago Astata, Santiago Jamiltepec, Santiago Pinotepa Nacional, Santiago Tapextla, Santo Domingo Armenta, Santos Reyes Nopala, Santo Domingo Tehuantepec y Santo Domingo Zanatepec; Estado de Sinaloa: Angostura, Elota, Escuinapa de Hidalgo, Guasave, Rosario y San Ignacio; Estado de Sonora: Bacum, Benito Juárez, Cajeme, Empalme, Etchojoa, Pitiquito, San Ignacio Río Muerto, y San Luis Río Colorado; Estado de Tabasco: Cárdenas, Centla y Paraíso.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-ZONA II.- Estado de Guerrero: Azoyu, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza, y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
+ZONA II. Estado de Guerrero: Marquelia, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín y Tantima.
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-ZONA III. Estado de Campeche: Champotón y Seybaplaya; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: San Rafael, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
+ZONA III. Estado de Campeche: Champotón y Seybaplaya; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
 
-> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
+ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala y Rosamorada; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-ZONA V. Estado de Baja California: Mexicali y San Felipe; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum e Ixil.
+ZONA V. Estado de Baja California: Mexicali y San Felipe; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum, Dzemul e Ixil.
 
 > <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -15903,9 +15919,9 @@ Nación y en los centros para la conservación
 
 e investigación de la vida silvestre: $477.75 $478
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-Estarán exentos del pago del derecho a que se refiere la fracción I de este artículo, los menores de 12 años, los discapacitados, los adultos mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento.
+Estarán exentos del pago del derecho a que se refiere la fracción I de este artículo, los menores de 12 años, las personas con discapacidad, las personas adultas mayores con credencial del Instituto Nacional de las Personas Adultas Mayores, los pensionados y los jubilados. Los estudiantes y profesores con credencial vigente tendrán un 50% de descuento.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -15922,6 +15938,10 @@ Los ingresos que se obtengan por la recaudación del derecho a que se refiere es
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Los residentes de la zona de influencia de las Áreas Naturales Protegidas que realicen algunas de las actividades a que se hace referencia en este precepto, que demuestren dicha calidad ante la autoridad competente, pagarán el 50% de la cuota establecida en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -17537,11 +17557,11 @@ La cancelación de una concesión o asignación minera por el incumplimiento en 
 
 (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 268.
 
-Los titulares de concesiones y asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones que obtengan ingresos derivados de la enajenación o venta de la actividad extractiva, pagarán anualmente el derecho especial sobre minería, aplicando la tasa del 7.5% a la diferencia positiva que resulte de disminuir a dichos ingresos, las deducciones permitidas en este artículo, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+Los titulares de concesiones y asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones que obtengan ingresos derivados de la enajenación o venta de la actividad extractiva, pagarán anualmente el derecho especial sobre minería, aplicando la tasa del 8.5% a la diferencia positiva que resulte de disminuir a dichos ingresos, las deducciones permitidas en este artículo, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -17595,11 +17615,11 @@ El pago del derecho a que se refiere este artículo deberá efectuarse semestral
 
 Para el caso de que la determinación del cumplimiento del plazo de dos años a que se refieren los párrafos primero y segundo de este artículo, se efectúe en el transcurso de un semestre, los concesionarios deberán pagar la parte proporcional del derecho por el periodo que corresponda, a partir del mes en que se cumplió el plazo de los dos años y hasta el último mes del semestre de que se trate, para tales efectos, el derecho se deberá pagar dentro de los treinta días naturales siguientes a esa fecha.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 270.
 
-Los titulares de concesiones y asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones, pagarán anualmente el derecho extraordinario sobre minería, aplicando la tasa del 0.5% a los ingresos derivados de la enajenación del oro, plata y platino, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+Los titulares de concesiones y asignaciones mineras, así como los adquirentes de derechos relativos a esas concesiones, pagarán anualmente el derecho extraordinario sobre minería, aplicando la tasa del 1% a los ingresos derivados de la enajenación del oro, plata y platino, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -17661,9 +17681,9 @@ V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas
 
 Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará por la Secretaría de Hacienda y Crédito Público en un 85% a la Secretaría de Educación Pública, a la Secretaría de Salud, así como a otras dependencias y entidades de la Administración Pública Federal que lleven a cabo las acciones a que se refiere el artículo 271 de esta Ley, mismas que, en un 80% de la recaudación total de los derechos citados, deberán aplicar en términos de lo dispuesto por el citado artículo 271 y el 5% restante para que desempeñen las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará por la Secretaría de Hacienda y Crédito Público en un 69% a la Secretaría de Educación Pública, a la Secretaría de Salud, así como a otras dependencias y entidades de la Administración Pública Federal que lleven a cabo las acciones a que se refiere el artículo 271 de esta Ley, mismas que, en un 65% de la recaudación total de los derechos citados, deberán aplicar en términos de lo dispuesto por el citado artículo 271 y el 4% restante para los costos y erogaciones en los que incurran directamente las dependencias y entidades citadas, para realizar las acciones a que se refiere el mencionado artículo 271; en un 4% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera, y en un 8% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -17785,9 +17805,9 @@ El monto del derecho a pagar será enterado por el contribuyente en los término
 
 Los contribuyentes a que se refieren las fracciones I y III del artículo 277-B de esta Ley, podrán acreditar contra el derecho del trimestre a su cargo la cantidad que resulte de aplicar el siguiente procedimiento:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-I. Se deberán obtener las concentraciones de contaminantes de la descarga de sólidos suspendidos totales, demanda química de oxígeno y carbono orgánico total, expresadas en miligramos por litro, mediante el muestreo y análisis a que se refiere el artículo 278-B de esta Ley.
+I. Se deberán obtener las concentraciones de contaminantes de la descarga de sólidos suspendidos totales, demanda química de oxígeno o carbono orgánico total, expresadas en miligramos por litro, mediante el muestreo y análisis a que se refiere el artículo 278-B de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2023)</small>
 
@@ -18225,15 +18245,15 @@ Cuando los recursos asignados no sean devueltos por el contribuyente en el plazo
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 281-A.
 
-Los contribuyentes del derecho a que se refiere el presente Capítulo, al momento de presentar sus declaraciones podrán disminuir del pago del derecho respectivo, el costo comprobado de los aparatos de medición y de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones.
+Los contribuyentes del derecho a que se refiere el presente Capítulo, al momento de presentar sus declaraciones podrán disminuir del pago del derecho respectivo, el costo comprobado de los aparatos de medición que adquieran y cumplan con las características y especificaciones señaladas en las reglas de carácter general emitidas por la Comisión Nacional del Agua, así como los gastos de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra de los aparatos de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán conservar y presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el comprobante fiscal de la compra de los aparatos de medición y de su instalación, que deberá cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -18249,7 +18269,7 @@ No estarán obligados al pago del derecho federal a que se refiere el presente C
 
 I.- Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales.
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O.F. DE 19 DE DICIEMBRE DE 2024, PÁGINA 44.]</small>
 
 Para tales efectos, el contribuyente deberá medir el volumen en cada punto de descarga en términos del artículo 277-A de esta Ley y acompañar a la declaración del trimestre respectivo el reporte que emita el laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, que acredite que la calidad de la descarga se efectúa en términos del párrafo anterior.
 
@@ -18905,7 +18925,9 @@ I.- Para el caso de la fracción I, el derecho se pagará como sigue:
 
 El usuario deberá calcular y enterar mensualmente el derecho, a través de cualquier medio de pago autorizado por el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la presentación de declaración, a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, entregando a la Secretaría de Comunicaciones y Transportes a través de SENEAM, dentro de los cinco días siguientes a aquél en el que se efectuó el pago, copia de la Declaración General de Pago de Derechos con el sello legible de la oficina autorizada, así como el archivo electrónico que contenga los datos de las operaciones que dieron lugar al pago del derecho.
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+En el caso de que el contribuyente incumpla con la presentación del comprobante de pago que contenga el cálculo de las operaciones aeronáuticas realizadas, SENEAM llevará a cabo el procedimiento previsto en el artículo 3o. de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -18939,7 +18961,7 @@ I.- Que presten servicios de búsqueda o salvamento, auxilio en zonas de desastr
 
 II.- En misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
 
-III.- Vuelos de enseñanza, que realicen las escuelas de aviación.
+III.- (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2024)
 
 IV.- Destinadas a la verificación y certificación de radares y radioayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes.
 
@@ -23868,3 +23890,39 @@ D.O.F. 23 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 232-A DE LA LEY FEDERAL DE DERECHOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS".]
+
+Primero.- El presente Decreto entrará en vigor a partir del 1 de enero de 2025.
+
+Segundo.- Durante el año 2025, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2025, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2024 hubieren optado por pagar para el referido ejercicio fiscal, más el 4.5% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2025 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2025, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, XI, XIII, XVIII y XIX, de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2024, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2025 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2025 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+II. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV, de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2024 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2025, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2024, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2025 conforme a la citada fracción del referido artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+III. Las bolsas de valores a que se refiere el artículo 29-E, fracción III, de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2025, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere la presente fracción, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II, de la Ley Federal de Derechos.
+
+IV. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos en las fracciones I, II y III de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2025, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+V. Para los efectos de lo dispuesto en los artículos 244, 244-A, 244-B, 244-E, 244-E-1, 244-G, 244-H, 244-I y 244-J de la Ley Federal de Derechos, las cuotas previstas en dichas disposiciones no se actualizarán de conformidad con el párrafo cuarto del artículo 1o. de la citada Ley, durante el ejercicio fiscal de 2025.
+
+Las personas concesionarias de las bandas de frecuencias del espectro radioeléctrico sujetas al pago de los derechos mencionados en el párrafo anterior, deberán pagar durante el ejercicio fiscal de 2025, los derechos vigentes correspondientes al ejercicio fiscal de 2024.
+
+Tercero.- Se instruye a la empresa de participación estatal mayoritaria Tren Maya, S.A. de C.V., para que, en un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, lleve a cabo todos los actos necesarios para la extinción del fideicomiso público de administración y pago sin estructura orgánica denominado "Fideicomiso del artículo 18-A de la Ley Federal de Derechos", en términos de las disposiciones jurídicas aplicables.
+
+Los remanentes del patrimonio del fideicomiso referido en el párrafo anterior que se generen a su extinción, previo pago de los honorarios fiduciarios que en su caso correspondan, deben transferirse en su totalidad al fideicomiso público previsto en el artículo 220-A, párrafo segundo, de la Ley Federal de Derechos, en el que la Secretaría de la Defensa Nacional funge como unidad responsable, sin necesidad de que se concentren en la Tesorería de la Federación.
+
+Asimismo, se deben transferir o ceder al fideicomiso público previsto en el artículo 220-A, párrafo segundo, de la Ley Federal de Derechos, en el que la Secretaría de la Defensa Nacional funge como unidad responsable, todos los recursos, derechos y obligaciones que, hasta la fecha de publicación del presente Decreto en el Diario Oficial de la Federación, se hayan adquirido con cargo al patrimonio del "Fideicomiso del artículo 18-A de la Ley Federal de Derechos", por lo que a partir de ese día, este último fideicomiso no debe adquirir compromisos adicionales con cargo a su patrimonio.
+
+Cuarto.- La Secretaría de la Defensa Nacional, en su carácter de unidad responsable del fideicomiso público sin estructura previsto en el artículo 220-A, párrafo segundo, de la Ley Federal de Derechos, debe realizar las gestiones necesarias para que, dentro de los 20 días naturales posteriores a la entrada en vigor del presente Decreto, se modifique el contrato del citado fideicomiso con el objeto de adicionar dentro de sus fines lo señalado en el párrafo primero del artículo 18-A de la Ley Federal de Derechos, y que dentro de su patrimonio se puedan recibir los recursos remanentes, derechos y obligaciones que se transfieran o cedan derivado de la extinción del "Fideicomiso del artículo 18-A de la Ley Federal de Derechos".
+
+El fideicomiso a que hace referencia el artículo 220-A, párrafo segundo, de la Ley Federal de Derechos, en el cual funge como unidad responsable la Secretaría de la Defensa Nacional, deberá contar con las subcuentas necesarias que permitan distinguir el origen de los recursos, montos, el porcentaje y la entidad paraestatal a quien se le asignarán los mismos, en términos de las disposiciones aplicables, así como el fin al cual serán aplicados los recursos de cada subcuenta.
