@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-para-el-estado-de-san-luis-potosi-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-15"
-last_updated: "2022-09-28"
+last_updated: "2024-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el lunes 15 de junio de 2020.
 
@@ -97,11 +97,15 @@ V. Ley General: la Ley General de Instituciones y Procedimientos Electorales;
 
 VI. Ley: la presente Ley de Justicia Electoral para el Estado de San Luis Potosí;
 
-VII. Medios de impugnación o recursos: los previstos en el artículo 5º de esta Ley;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-VIII. Procesos Electorales; los que tengan por objeto la renovación de los poderes, Legislativo, y Ejecutivo del Estado; así como la integración de los ayuntamientos, y
+VII. Personas juzgadoras del Poder Judicial del Estado: los magistrados, magistradas del Supremo Tribunal de Justicia, el magistrado o magistrada del Tribunal Unitario de Disciplina Judicial y los jueces y juezas de primera instancia del Poder Judicial del Estado de San Luis Potosí;
 
-IX. Tribunal Electoral: el Tribunal Electoral del Estado de San Luis Potosí.
+VIII. Medios de impugnación o recursos: los previstos en el artículo 5º de esta Ley;
+
+IX. Procesos Electorales; los que tengan por objeto la renovación de los poderes, Legislativo, y Ejecutivo del Estado; así como la integración de los ayuntamientos, y
+
+X. Tribunal Electoral: el Tribunal Electoral del Estado de San Luis Potosí.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN
 
@@ -207,9 +211,13 @@ e) En el caso de las coaliciones la representación legal se acreditará en los 
 
 II. Los candidatos independientes por su propio derecho, o a través de su representante acreditado ante el órgano electoral correspondiente. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
 
-III. Aquéllos que acrediten tener un interés jurídico derivado del acto o resolución que se pretenda impugnar, y
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-IV. Los ciudadanos, por su propio derecho, o a través de su representante legal.
+III. Las personas candidatas a un cargo del Poder Judicial del Estado;
+
+IV. Aquéllos que acrediten tener un interés jurídico derivado del acto o resolución que se pretenda impugnar, y
+
+V. Los ciudadanos, por su propio derecho, o a través de su representante legal.
 
 ### Capítulo V. De los Requisitos de los Medios de Impugnación
 
@@ -621,13 +629,17 @@ Los medios de apremio y las correcciones disciplinarias a que se refieren las fr
 
 Durante el tiempo que transcurra entre dos procesos electorales, y dentro de un proceso electoral exclusivamente en la etapa de preparación de la elección, el recurso de revocación procederá para impugnar los actos o resoluciones que causen un perjuicio a quien teniendo interés jurídico lo promueva, y que provengan del Consejo Estatal, comisiones distritales, o comités municipales.
 
-Durante el proceso electoral, en la etapa de resultados y declaraciones de validez de las elecciones, los actos o resoluciones de los órganos electorales del Consejo Estatal que causen un perjuicio real al interés jurídico del partido político recurrente, cuya naturaleza sea diversa a los que puedan recurrirse por la vía del juicio de nulidad electoral, y que no guarden relación con el proceso electoral y los resultados del mismo, serán resueltos por el Pleno del Consejo Estatal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Durante el proceso electoral, en la etapa de resultados y declaraciones de validez de las elecciones, los actos o resoluciones de los órganos electorales del Consejo que causen un perjuicio real al interés jurídico del partido político recurrente o a las personas candidatas a juzgadoras del Poder Judicial del Estado, cuya naturaleza sea diversa a los que puedan recurrirse por la vía del juicio de nulidad electoral, y que no guarden relación con el proceso electoral y los resultados del mismo, serán resueltos por el Pleno del Consejo.
 
 #### Sección Segunda. De la Legitimación
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
-Podrán interponer el recurso de revocación, los representantes de los partidos políticos que estuvieran acreditados ante el organismo respectivo, o bien, aquéllos quienes cuenten con un interés jurídico, por causarle agravio la resolución o acto a impugnar.
+Podrán interponer el recurso de revocación, los representantes de los partidos políticos que estuvieran acreditados ante el organismo respectivo, las personas candidatas a juzgadoras del Poder Judicial del Estado, o bien, aquéllos quienes cuenten con un interés jurídico, por causarle agravio la resolución o acto a impugnar.
 
 #### Sección Tercera. Del Trámite y de la Resolución
 
@@ -661,7 +673,9 @@ Durante el tiempo que transcurra entre dos procesos electorales, y dentro de un 
 
 I. Las resoluciones que recaigan a los recursos de revocación previstos en el capítulo I del Título Tercero, y
 
-II. Los actos o resoluciones del Consejo, comisiones distritales, o comités municipales, que causen un perjuicio al partido político o agrupación política con registro, o quien teniendo interés jurídico lo promueva.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Los actos o resoluciones del Consejo, comisiones distritales, o comités municipales, que causen un perjuicio al partido político o agrupación política con registro, a las personas candidatas a juzgadoras del Poder Judicial del Estado, o quien teniendo interés jurídico lo promueva.
 
 Todos los recursos de revisión, derivados del proceso electoral, interpuestos dentro de los cinco días anteriores al de la elección, serán enviados a la Sala del Tribunal Electoral, para que sean resueltos junto con los juicios de nulidad electoral con los que guarden relación. El promovente deberá señalar la conexidad de la causa, o en su caso, el Tribunal Electoral podrá declararla de oficio. Cuando los recursos a que se refiere este párrafo no guarden relación con algún juicio de nulidad electoral, serán archivados como asuntos definitivamente concluidos.
 
@@ -671,13 +685,23 @@ El recurso de revisión será procedente para impugnar la resolución del órgan
 
 #### Sección Segunda. De la Legitimación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-Podrán interponer el recurso de revisión:
+Pueden interponer el recurso de revisión:
 
-I. Los partidos políticos o las coaliciones, a través de sus representantes legítimos, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-II. Cualquier persona por su propio derecho, o a través de sus representantes legítimos, según corresponda, y de conformidad con la legislación aplicable, o agrupación política estatal que resulte afectada por un acto o resolución de la autoridad u órgano electoral, en cuanto a la determinación y aplicación de sanciones administrativas.
+I. Los partidos políticos o las coaliciones, a través de sus representantes legítimos;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Las personas candidatas a juzgadoras del Poder Judicial del Estado, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+III. Cualquier persona por su propio derecho, o a través de sus representantes legítimos, según corresponda, y de conformidad con la legislación aplicable, o agrupación política estatal que resulte afectada por un acto o resolución de la autoridad u órgano electoral, en cuanto a la determinación y aplicación de sanciones administrativas.
 
 #### Sección Tercera. Del Trámite y de la Resolución
 
@@ -693,15 +717,23 @@ Los recursos de revisión serán resueltos por el Tribunal dentro de los doce d�
 
 #### Sección Cuarta. De las Notificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-Las resoluciones que recaigan a los recursos de revisión serán notificadas de la siguiente manera:
+Las resoluciones que recaigan a los recursos de revisión se notificarán de la siguiente manera:
 
-I. A los partidos políticos o las coaliciones que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado, o por estrados;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-II. Al órgano de la autoridad electoral cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia de la resolución, y
+I. A los partidos políticos o las coaliciones que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado para el efecto, o por estrados;
 
-III. A los terceros interesados, mediante cualquier medio que considere oportuno el Tribunal, o por correo certificado.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+II. A las personas candidatas a juzgadoras del Poder Judicial del Estado, se le hará de manera personal en el domicilio que hubiere señalado, o por estrados, y
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+III. Al órgano de la autoridad electoral cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia de la resolución.
 
 ### Capítulo III. Del Juicio de Nulidad Electoral
 
@@ -781,11 +813,13 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 
 VI. (SIC) Las demás que señale la presente Ley y la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 53.
 
-Las nulidades establecidas en este capítulo podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección de ayuntamientos; o la elección para Gobernador del Estado. Para la impugnación de la elección de diputados o regidores por el principio de representación proporcional, se estará a lo dispuesto por la parte aplicable de las fracciones II y III del artículo 58 de esta Ley.
+Las nulidades establecidas en este capítulo podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección de ayuntamientos; la elección para Gobernador del Estado; o la elección de personas juzgadoras del Poder Judicial del Estado. Para la impugnación de la elección de diputados o regidores por el principio de representación proporcional, se estará a lo dispuesto por la parte aplicable de las fracciones II y III del artículo 58 de esta Ley.
 
-Los efectos de las nulidades decretadas por el Tribunal, respecto de la votación emitida en una o varias casillas, o de una elección de Gobernador, de diputados, o de ayuntamientos, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de nulidad electoral, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
+Los efectos de las nulidades decretadas por el Tribunal, respecto de la votación emitida en una o varias casillas, o de una elección de Gobernador, de diputados, de ayuntamientos, o de personas juzgadoras del Poder Judicial del Estado, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de nulidad electoral, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
 
 ###### ARTÍCULO 54.
 
@@ -813,6 +847,24 @@ III. Si es de ayuntamientos por el principio de mayoría relativa, tomarán el l
 
 IV. Si se declara la inelegibilidad de candidatos a quien le correspondiera la asignación de una diputación, o de una regiduría, ambos por el principio de representación proporcional, la nulidad sólo afectará a aquellos candidatos que se encuentren en ese supuesto; si el candidato propietario resultare inelegible, tomará el lugar correspondiente su suplente, y en el supuesto de que este último también sea inelegible, el lugar lo ocupará el candidato que se siga en orden decreciente en la lista correspondiente del mismo partido político o coalición.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 57 BIS. Serán causales de nulidad de la elección de personas juzgadoras del Poder Judicial del Estado, adicionalmente a las previstas en la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos:
+
+I. Cuando alguna o algunas de las causales de nulidad previstas en el párrafo primero del artículo 52 de esta Ley, se acrediten en por lo menos el veinticinco por ciento de las casillas instaladas en el Estado y no se hayan corregido durante el recuento de votos;
+
+II. Cuando en el territorio del Estado o en el respectivo distrito judicial, no se instale el veinticinco por ciento o más de las casillas, y consecuentemente la votación no hubiere sido recibida;
+
+III. Cuando la candidatura ganadora de la elección resulte inelegible;
+
+IV. Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido por la Ley General, o
+
+V. Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente una campaña de una persona candidata.
+
+Las causales de nulidad señaladas en este artículo deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
+
+Cuando la candidatura resulte inelegible o bien, en el caso de nulidad de la elección de personas juzgadoras, ocupará el lugar vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo.
+
 #### Sección Segunda. Del Objeto y de la Procedencia
 
 ###### ARTÍCULO 58.
@@ -823,9 +875,17 @@ Son actos impugnables a través del juicio de nulidad electoral, en los término
 
 I. En la elección de Gobernador del Estado, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por la nulidad de la votación recibida en una o varias casillas o por error aritmético; por nulidad de toda la elección; por la declaración provisional de validez de la elección y la expedición provisional de la constancia de mayoría;
 
-II. En la elección de diputados por ambos principios, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-III. En la elección de integrantes de ayuntamientos por ambos principios, los resultados consignados en las actas de cómputo municipal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso.
+II. En la elección de diputados por ambos principios, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+III. En la elección de integrantes de ayuntamientos por ambos principios, los resultados consignados en las actas de cómputo municipal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+IV. En la elección de integrantes de personas juzgadoras del Poder Judicial del Estado, los resultados consignados en las actas de cómputo municipal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, o la expedición de las constancias de mayoría.
 
 ###### ARTÍCULO 59.
 
@@ -877,7 +937,9 @@ El juicio de nulidad sólo podrá ser promovido por:
 
 I. Los partidos políticos o las coaliciones a través de sus legítimos representantes, y
 
-II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad, la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en el artículo 12 de la presente Ley.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+II. Las y los candidatos, así como las personas candidatas a juzgadoras del Poder Judicial del Estado, exclusivamente cuando por motivos de inelegibilidad, la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en el artículo 12 de la presente Ley.
 
 #### Sección Cuarta. Del Trámite y de la Resolución
 
@@ -909,9 +971,11 @@ El Tribunal, podrá modificar el acta o las actas de cómputo respectivas en la 
 
 Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de diputado o integrantes de ayuntamientos previstos en esta Ley, el Tribunal decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 66.
 
-Los juicios de nulidad electoral de las elecciones de diputados e integrantes de ayuntamientos deberán quedar resueltos los días, quince, y treinta de agosto, respectivamente; los relativos a la elección de Gobernador del Estado, a más tardar el veinticinco de agosto, todas fechas del año de la elección que corresponda.
+Los juicios de nulidad electoral de las elecciones de diputaciones e integrantes de ayuntamientos deberán quedar resueltos los días, quince, y treinta de agosto, respectivamente; los relativos a la elección de Gobernador del Estado, y de personas juzgadoras del Poder Judicial del Estado, a más tardar el veinticinco de agosto, todas fechas del año de la elección que corresponda.
 
 #### Sección Quinta. De las Notificaciones
 
@@ -977,9 +1041,17 @@ I. Considere que se violó su derecho político-electoral de ser votado cuando, 
 
 II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal, o agrupación política estatal;
 
-III. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de sus derechos político-electorales, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-IV. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular, aun cuando no estén afiliados al partido político estatal señalado como responsable.
+III. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de sus derechos político-electorales;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+IV. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular, aun cuando no estén afiliados al partido político estatal señalado como responsable, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+V. Considere que un acto o resolución de la autoridad viola su derecho para ser electo o electa en la titularidad de los cargos del Poder Judicial del Estado electos por votación libre, directa y secreta.
 
 ###### ARTÍCULO 76.
 
@@ -1072,3 +1144,21 @@ P.O. 28 DE SEPTIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0030.- DECRETO POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ Y DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Por única ocasión, el período de función del cargo de magistrados y magistradas del Supremo Tribunal de Justicia del Estado, que resulten electos en el proceso electoral local extraordinario 2025, será de once años, para efecto de que el proceso electoral se homologue al proceso electoral ordinario.
+
+TERCERO. Por única ocasión, el período de función del cargo de Magistrado o Magistrada del Tribunal Unitario de Disciplina Judicial que resulte electo o electa en el proceso electoral local extraordinario 2025, será de cinco años, para efecto de que el proceso electivo se homologue al proceso electoral ordinario.
+
+CUARTO. Por única ocasión, el período de función del cargo de Juez o Jueza de Primera Instancia del Poder Judicial del Estado que resulten electas en el proceso electoral local extraordinario 2025, será de ocho años, para efecto de que el proceso electivo se homologue al proceso electoral ordinario.
+
+QUINTO. Se faculta al Consejo Estatal Electoral y de Participación Ciudadana del Estado de San Luis Potosí para emitir los acuerdos, lineamientos y disposiciones de carácter general que sean necesarios para regular las situaciones no previstas en el presente Decreto a efecto de implementar el proceso electoral local extraordinario 2025.
+
+Dichos acuerdos deberán garantizar el cumplimiento de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y equidad que rigen los procesos electorales, y estarán vigentes durante el proceso electoral local extraordinario 2025.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
