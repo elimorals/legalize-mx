@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-las-y-los-174074"
 country: "mx"
 rank: "codigo"
 publication_date: "2024-07-19"
-last_updated: "2024-07-19"
+last_updated: "2024-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LAS Y LOS SERVIDORES PUBLICOS DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 2213 del Periódico Oficial del Estado de Campeche, el viernes 19 de julio de 2024.
 
@@ -484,3 +486,13 @@ ANEXO 2
 FORMATO PARA LA PRESENTACIÓN DE UNA DENUNCIA
 
 > <small>[N. DE E. VÉASE ANEXO EN EL P.O. DE 19 DE JULIO DE 2024, PÁGINAS DE LA 28 A LA 29.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo. El presente Acuerdo abroga el Acuerdo por el que se emite el Código de Conducta de los Servidores Públicos del Instituto de Capacitación para el Estado de Campeche, emitido mediante Sesión Celebrada el 31 de enero del 2014, publicado en el Periódico Oficial del Estado el 19 de julio de 2024.
