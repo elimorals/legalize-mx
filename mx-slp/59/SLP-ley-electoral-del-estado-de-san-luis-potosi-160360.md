@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2023-10-12"
+last_updated: "2024-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -51,7 +51,9 @@ LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 La presente Ley es de orden público y de interés general, y tiene por objeto:
 
-I. Regular la preparación, el desarrollo y la vigilancia de los procesos electorales ordinarios y extraordinarios de elección de, Gobernador o Gobernadora del Estado; diputadas y diputados; y ayuntamientos dentro de su circunscripción política;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+I. Regular la preparación, el desarrollo y la vigilancia de los procesos electorales ordinarios y extraordinarios de elección de, Gobernador o Gobernadora del Estado; diputadas y diputados; y ayuntamientos dentro de su circunscripción política; y de las personas juzgadoras del Poder Judicial del Estado, dentro del marco geográfico que corresponda;
 
 II. Regular el ejercicio de las obligaciones y los derechos políticos de las y los ciudadanos;
 
@@ -87,9 +89,11 @@ Las autoridades electorales del Estado, los partidos políticos, las personas pr
 
 El Consejo, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 3°.
 
-La organización, preparación, desarrollo y vigilancia de los procesos electorales ordinarios y extraordinarios de elección de Gobernador o Gobernadora del Estado; diputadas y diputados; y ayuntamientos, estará a cargo del Consejo, y del Instituto Nacional Electoral, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, el Reglamento de Elecciones, y la presente Ley en los términos siguientes:
+La organización, preparación, desarrollo y vigilancia de los procesos electorales ordinarios y extraordinarios de elección de Gobernador o Gobernadora del Estado; diputadas y diputados; ayuntamientos y personas juzgadoras del Poder Judicial del Estado, estará a cargo del Consejo, y del Instituto Nacional Electoral, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, el Reglamento de Elecciones, y la presente Ley en los términos siguientes:
 
 I. Corresponderá al Instituto:
 
@@ -125,7 +129,9 @@ h) Efectuar el escrutinio y cómputo total de las elecciones estatales, con base
 
 i) Expedir las constancias de mayoría y declarar la validez de la elección a las candidatas y los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la legislatura local y de los ayuntamientos, conforme al cómputo y declaración de validez que efectúe el propio Consejo.
 
-j) Efectuar el cómputo de la elección de Gobernador o Gobernadora del Estado, debiendo observar los lineamientos y medidas de seguridad que para tal efecto establezca el Consejo General.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+j) Efectuar el cómputo de la elección de Gobernador o Gobernadora del Estado, y personas juzgadoras del Poder Judicial del Estado, debiendo observar los lineamientos y medidas de seguridad que para tal efecto establezca el Consejo General.
 
 k) Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la Entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional Electoral.
 
@@ -251,43 +257,47 @@ XXXVII. Partidos políticos: las entidades de interés público, dotados de pers
 
 XXXVIII. Periódico Oficial: el Periódico Oficial del Estado “Plan de San Luis”;
 
-XXXIX. Plebiscito: el mecanismo de participación ciudadana mediante el cual se consulta a las y los ciudadanos del Estado para que expresen su opinión afirmativa o negativa, respecto de un acto de los poderes, Ejecutivo, y Legislativo, o de los ayuntamientos, que sean considerados como acción trascendente para la vida pública del Estado o de los municipios, según sea el caso, o para la formación, supresión o fusión de municipios;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
-XL. Precampaña: el conjunto de actividades que realizan los partidos políticos, sus militantes, las y los precandidatos a candidaturas a cargos de elección popular, debidamente registrados por cada partido;
+XXXIX. Personas juzgadoras del Poder Judicial del Estado: los magistrados, magistradas del Supremo Tribunal de Justicia, el magistrado o magistrada del Tribunal Unitario de Disciplina Judicial y los jueces y juezas de primera instancia del Poder Judicial del Estado de San Luis Potosí;
 
-XLI. Prerrogativas de los partidos políticos: los derechos que la Ley otorga a estas entidades para el ejercicio de sus funciones;
+XL. Plebiscito: el mecanismo de participación ciudadana mediante el cual se consulta a las y los ciudadanos del Estado para que expresen su opinión afirmativa o negativa, respecto de un acto de los poderes, Ejecutivo, y Legislativo, o de los ayuntamientos, que sean considerados como acción trascendente para la vida pública del Estado o de los municipios, según sea el caso, o para la formación, supresión o fusión de municipios;
+
+XLI. Precampaña: el conjunto de actividades que realizan los partidos políticos, sus militantes, las y los precandidatos a candidaturas a cargos de elección popular, debidamente registrados por cada partido;
+
+XLII. Prerrogativas de los partidos políticos: los derechos que la Ley otorga a estas entidades para el ejercicio de sus funciones;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XLII. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, a celebrarse el dos de enero del año de la elección, de conformidad con el artículo 255 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y las y los ciudadanos, dentro de este término;
+XLIII. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, a celebrarse el dos de enero del año de la elección, de conformidad con el artículo 255 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y las y los ciudadanos, dentro de este término;
 
-XLIII. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, las y los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las respectivas candidaturas;
+XLIV. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, las y los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las respectivas candidaturas;
 
-XLIV. Propaganda política: es el género de los medios de comunicación a través de los cuales los partidos, las y los ciudadanos, y organizaciones difunden su ideología, programas y acciones con el fin de influir en la ciudadanía para que adopten determinadas conductas sobre temas de interés social, y que no se encuentran necesariamente vinculadas a un proceso electoral;
+XLV. Propaganda política: es el género de los medios de comunicación a través de los cuales los partidos, las y los ciudadanos, y organizaciones difunden su ideología, programas y acciones con el fin de influir en la ciudadanía para que adopten determinadas conductas sobre temas de interés social, y que no se encuentran necesariamente vinculadas a un proceso electoral;
 
-XLV. Propaganda utilitaria: son los artículos que tienen un valor de uso y que contienen imágenes, signos, emblemas y expresiones con el objeto de difundir la imagen y propuestas del partido político, coalición, candidata o candidato que lo distribuye, los cuales sólo podrán ser elaborados con material textil o biodegradable;
+XLVI. Propaganda utilitaria: son los artículos que tienen un valor de uso y que contienen imágenes, signos, emblemas y expresiones con el objeto de difundir la imagen y propuestas del partido político, coalición, candidata o candidato que lo distribuye, los cuales sólo podrán ser elaborados con material textil o biodegradable;
 
-XLVI. Referéndum: el mecanismo de participación ciudadana mediante el cual las y los ciudadanos del Estado expresan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución del Estado, o a las leyes que expida el Congreso del Estado;
+XLVII. Referéndum: el mecanismo de participación ciudadana mediante el cual las y los ciudadanos del Estado expresan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución del Estado, o a las leyes que expida el Congreso del Estado;
 
-XLVII. Registros electorales: los documentos de contenido electoral y otros elementos de control con que operen los organismos electorales en términos de esta Ley;
+XLVIII. Registros electorales: los documentos de contenido electoral y otros elementos de control con que operen los organismos electorales en términos de esta Ley;
 
-XLVIII. Representación proporcional: el término con el que se denomina al principio por el cual se elige a las y los candidatos a diputadas, diputados, regidoras, o regidores, que estando registrados en las listas o planillas correspondientes ante el organismo electoral respectivo, y que habiendo obtenido el partido político, que los postula el porcentaje de votación requerido al efecto, tienen derecho en razón de los sufragios obtenidos proporcionalmente a la votación efectiva, a acceder al Congreso del Estado o a los ayuntamientos, según el caso, mediante las fórmulas que esta Ley establece al efecto.
+XLIX. Representación proporcional: el término con el que se denomina al principio por el cual se elige a las y los candidatos a diputadas, diputados, regidoras, o regidores, que estando registrados en las listas o planillas correspondientes ante el organismo electoral respectivo, y que habiendo obtenido el partido político, que los postula el porcentaje de votación requerido al efecto, tienen derecho en razón de los sufragios obtenidos proporcionalmente a la votación efectiva, a acceder al Congreso del Estado o a los ayuntamientos, según el caso, mediante las fórmulas que esta Ley establece al efecto.
 
 Solo para el caso de candidaturas independientes, el principio de representación proporcional aplicará en las planillas registradas para los ayuntamientos en los términos del párrafo anterior;
 
-XLIX. Representantes partidistas: las y los ciudadanos que los organismos electorales reconozcan como tales, previa acreditación de los partidos políticos;
+XL. Representantes partidistas: las y los ciudadanos que los organismos electorales reconozcan como tales, previa acreditación de los partidos políticos;
 
-L. Sección electoral: la unidad geográfica electoral integrada por un mínimo de cien electores;
+LI. Sección electoral: la unidad geográfica electoral integrada por un mínimo de cien electores;
 
-LI. Seguridad del proceso electoral: el conjunto de medidas adoptadas por las autoridades administrativas electorales de acuerdo con la Ley, para garantizar la observancia de los cauces democráticos, así como las necesarias en materia de auxilio de las autoridades competentes, para que la ciudadanía concurra durante la jornada electoral sin riesgos de ninguna especie, adoptando incluso las medidas preventivas mínimas para resolver contingencias en el caso de que se presenten;
+LII. Seguridad del proceso electoral: el conjunto de medidas adoptadas por las autoridades administrativas electorales de acuerdo con la Ley, para garantizar la observancia de los cauces democráticos, así como las necesarias en materia de auxilio de las autoridades competentes, para que la ciudadanía concurra durante la jornada electoral sin riesgos de ninguna especie, adoptando incluso las medidas preventivas mínimas para resolver contingencias en el caso de que se presenten;
 
-LII. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+LIII. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado, así como en la presente Ley, y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; candidatas o candidatos independientes; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares, y
 
-LIII. Votación:
+LIV. Votación:
 
 a) Emitida: la que se obtiene después de sumar la totalidad de los votos depositados en las urnas.
 
@@ -339,11 +349,19 @@ La distritación respectiva deberá aprobarse antes de que inicie el proceso ele
 
 Las elecciones ordinarias se verificarán el primer domingo de junio de cada seis años para Gobernador o Gobernadora del Estado, y el mismo día de cada tres años para diputaciones y ayuntamientos del año correspondiente, según se trate.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Las elecciones de personas juzgadoras del Poder Judicial del Estado, tendrán verificativo el primer domingo de junio de cada seis años para el cargo de magistrado o magistrada del Tribunal Unitario de Disciplina Judicial, de cada nueve años para el cargo de jueces y juezas de primera instancia y de cada doce años para el cargo de magistrados y magistradas del Supremo Tribunal de Justicia.
+
 ###### ARTÍCULO 15.
 
 Cuando conforme a la ley se declare nula una elección de diputaciones, según el principio de mayoría relativa, o las o los candidatos triunfadores resulten inelegibles conforme resolución definitiva que emita el Tribunal Electoral del Estado, o Federal, se celebrarán elecciones extraordinarias dentro de los noventa días naturales siguientes a la conclusión de la última etapa del proceso electoral respectivo, previa convocatoria que para el caso de diputaciones expida el Consejo General.
 
 Asimismo, se efectuará la elección extraordinaria respectiva en los términos previstos en el párrafo anterior, si un Tribunal Electoral, ya sea estatal o federal, anula la elección de un ayuntamiento o declara la inelegibilidad de las o los candidatos de la planilla triunfadora. En tal caso, se estará a lo previsto en la Constitución del Estado, y en la Ley Orgánica del Municipio, para los efectos de cubrir el inicio del periodo constitucional para el que debe ser electo el ayuntamiento de que se trate.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Cuando se declare nula la elección de personas juzgadoras del Poder Judicial del Estado, el cargo será ocupado por quien haya obtenido más votos en orden de prelación.
 
 ###### ARTÍCULO 16.
 
@@ -419,6 +437,10 @@ Las y los ministros de culto no podrán asociarse con fines políticos, ni reali
 
 Son elegibles para ocupar el cargo de Gobernador o Gobernadora del Estado, diputaciones, y miembros de los ayuntamientos, las personas que reúnan los requisitos y no tengan los impedimentos que la Constitución Federal, y la particular del Estado precisan para cada cargo, esta Ley, y en lo conducente, la Ley Orgánica del Municipio.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, son elegibles para ocupar el cargo de persona juzgadora del Poder Judicial del Estado, las personas que reúnan los requisitos y no tengan los impedimentos que señala la Constitución del Estado.
+
 ###### ARTÍCULO 29.
 
 Las y los diputados, y los miembros de los ayuntamientos podrán ser reelectos.
@@ -426,6 +448,10 @@ Las y los diputados, y los miembros de los ayuntamientos podrán ser reelectos.
 Las y los diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido político o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 Las personas que integran los ayuntamientos, pueden ser electas por dos periodos consecutivos por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido político o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Los jueces y juezas de primera instancia durarán nueve años y podrán ser reelectos de manera consecutiva por una única ocasión, la persona magistrada del Tribunal Unitario de Disciplina Judicial durará en el ejercicio de su encargo seis años sin posibilidad de reelección, y los magistrados y magistradas del Supremo Tribunal de Justicia del Estado, durarán en el ejercicio de su encargo doce años sin posibilidad de reelección.
 
 ### Capítulo II. Del voto de la Ciudadanía Potosina Residente en el Extranjero
 
@@ -611,7 +637,9 @@ d) Resolver sobre las solicitudes de registro de los partidos políticos estatal
 
 e) Revocar de manera fundada y motivada el nombramiento de las y los integrantes de las comisiones distritales, y comités municipales electorales.
 
-f) Registrar a las y los candidatos para Gobernador o Gobernadora, diputaciones de mayoría relativa y las planillas y las listas de candidaturas a integrar los ayuntamientos, y las de diputaciones de representación proporcional.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+f) Registrar a las y los candidatos para Gobernador o Gobernadora, diputaciones de mayoría relativa y las planillas y las listas de candidaturas a integrar los ayuntamientos, las de diputaciones de representación proporcional, y recibir los listados que los comités de evaluación que envíen de candidatos y candidatas de personas juzgadoras del Poder Judicial del Estado.
 
 g) Registrar a las y los representantes de los partidos políticos, y candidaturas independientes ante el Consejo General por conducto de los órganos y de conformidad con el procedimiento contenido en el Reglamento que para tal efecto emita en (sic) el Consejo.
 
@@ -619,11 +647,15 @@ h) Registrar a las agrupaciones políticas estatales cuando proceda, en los tér
 
 i) Expedir las constancias relativas a la asignación de diputadas y diputados electos bajo el principio de representación proporcional, así como de regidoras y regidores electos bajo ese mismo principio.
 
-j) Expedir la constancia de mayoría de votos en el caso de la elección de Gobernador o Gobernadora.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+j) Expedir la constancia de mayoría de votos en el caso de la elección de Gobernador o Gobernadora, así como de la elección de personas juzgadoras del Poder Judicial del Estado.
 
 k) Resolver los recursos que legalmente le competen.
 
-l) Declarar la validez, de las elecciones de Gobernador o Gobernadora del Estado, de diputaciones por ambos principios, y de ayuntamientos, en los términos de la presente Ley; así como ordenar la publicación de la declaratoria correspondiente, en el Periódico Oficial.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+l) Declarar la validez, de las elecciones de Gobernador o Gobernadora del Estado, de diputaciones por ambos principios, de ayuntamientos, y de personas juzgadoras del Poder Judicial del Estado, en los términos de la presente Ley; así como ordenar la publicación de la declaratoria correspondiente, en el Periódico Oficial.
 
 m) En coordinación con el Ejecutivo del Estado, una vez declarada válida la elección de Gobernadora o Gobernador electo, en el mes de septiembre del año que corresponda, instrumentar lo relativo para la publicación del Bando Solemne, el que deberá estar publicado, a más tardar, tres días antes de la respectiva formal protesta.
 
@@ -651,7 +683,9 @@ III. OPERATIVAS:
 
 a) Proporcionar a las comisiones distritales electorales, y los comités municipales electorales, la documentación y elementos necesarios para su funcionamiento.
 
-b) Efectuar el cómputo total de las elecciones de diputaciones de mayoría relativa, para efectos de la asignación de diputaciones por el principio de representación proporcional; así como de la elección de Gobernador o Gobernadora.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+b) Efectuar el cómputo total de las elecciones de diputaciones de mayoría relativa, para efectos de la asignación de diputaciones por el principio de representación proporcional; así como de la elección de Gobernador o Gobernadora y efectuar la sumatoria final de la elección de personas juzgadoras del Poder Judicial del Estado.
 
 c) Aplicar la fórmula electoral y hacer la asignación de diputaciones, y regidurías de representación proporcional, en los términos de los artículos, 392, 393, 402, y demás relativo (sic) de esta Ley.
 
@@ -877,7 +911,9 @@ XIII. Supervisar el cumplimiento de las normas aplicables a los partidos políti
 
 XIV. Tomar formal protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado, las leyes que de ellas emanen, y desempeñar con lealtad, imparcialidad y patriotismo, la función que se encomienda, a los miembros de las comisiones distritales electorales, y comités municipales electorales, designados por el Consejo General;
 
-XV. Entregar la constancia de mayoría y validez de la elección de Gobernador o Gobernadora del Estado, así como las constancias de asignación de diputaciones, y regidurías por el principio de representación proporcional, a los partidos políticos o, en su caso, a las y los candidatos independientes, que la hayan obtenido;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+XV. Entregar la constancia de mayoría y validez de la elección de Gobernador o Gobernadora del Estado, la de personas juzgadoras del Poder Judicial del Estado electas, así como las constancias de asignación de diputaciones, y regidurías por el principio de representación proporcional, a los partidos políticos o, en su caso, a las y los candidatos independientes, que la hayan obtenido;
 
 XVI. Solicitar a la Gobernadora o el Gobernador del Estado los fondos necesarios para la operación de las autoridades administrativas electorales, de conformidad con el Presupuesto de Egresos aprobado;
 
@@ -1693,9 +1729,11 @@ XV. Lo demás que le sea conferido por esta Ley, el pleno de la comisión y su p
 
 ### Capítulo XI. De los Comités Municipales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 115.
 
-Los comités municipales electorales son organismos dependientes del Consejo, encargados de preparar, desarrollar y vigilar el proceso de elección para ayuntamientos en sus respectivos ámbitos, conforme lo señala la presente Ley.
+Los comités municipales electorales son organismos dependientes del Consejo, encargados de preparar, desarrollar y vigilar el proceso de elección para ayuntamientos en sus respectivos ámbitos, así como el proceso de elección de personas juzgadoras del Poder Judicial del Estado, conforme lo señala la presente Ley.
 
 Habrá un comité municipal electoral durante el proceso electoral, que tenga domicilio, preferentemente en cada una de las cabeceras de los municipios de la Entidad.
 
@@ -1759,13 +1797,17 @@ V. Proveer, cuando proceda, a los directivos de las casillas las listas nominale
 
 VI. Registrar, cuando proceda, los nombramientos de los representantes generales de partidos políticos, coaliciones, y candidaturas independientes, que habrán de fungir ante las mesas directivas de las casillas;
 
-VII. Realizar el cómputo total de los votos emitidos en las elecciones para ayuntamientos en su respectivo municipio, salvo que el Consejo General disponga, justificadamente, que atraerá el cómputo, en cuyo caso se limitará a recibir los paquetes electorales y turnarlos a dicho organismo electoral;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+VII. Realizar el cómputo total de los votos emitidos en las elecciones para ayuntamientos en su respectivo municipio, salvo que el Consejo General disponga, justificadamente, que atraerá el cómputo, en cuyo caso se limitará a recibir los paquetes electorales y turnarlos a dicho organismo electoral; así como realizar el cómputo total de votos emitidos en las elecciones para personas juzgadoras del Poder Judicial del Estado en su respectivo municipio;
 
 VIII. Expedir las constancias de mayoría a las candidatas y los candidatos integrantes de la planilla que la hubiese obtenido, en las elecciones de su competencia;
 
 IX. Remitir a la comisión distrital de su adscripción, los paquetes electorales que haya recibido, correspondientes a la elección de diputaciones, y Gobernador o Gobernadora del Estado;
 
-X. Enviar al Consejo la documentación relativa al cómputo de la elección de ayuntamientos, en forma inmediata a la conclusión del mismo. Los paquetes electorales serán remitidos una vez resueltos (sic) la totalidad de los recursos que hayan sido interpuestos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+X. Enviar al Consejo la documentación relativa al cómputo de la elección de ayuntamientos, así como la relativa al cómputo de la elección de personas juzgadoras del Poder Judicial del Estado, en forma inmediata a la conclusión del mismo. Los paquetes electorales serán remitidos una vez resueltos la totalidad de los recursos que hayan sido interpuestos;
 
 XI. Realizar el cómputo total de los votos emitidos en el municipio;
 
@@ -3393,11 +3435,11 @@ III. De resultados y declaración de validez de las elecciones: que se inicia co
 
 Tratándose de elección extraordinaria, en la convocatoria respectiva deberá establecerse la fecha exacta para la celebración de la jornada electoral, para que con base en la misma, la Secretaría Ejecutiva del Consejo esté en la posibilidad de elaborar el calendario electoral correspondiente, en el que deberán respetarse todos los plazos que se fijan en esta Ley para cada una de las etapas del proceso electoral ordinario, las que deberán adecuarse al proceso extraordinario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 257.
 
-El proceso de las elecciones ordinarias a la Gubernatura, diputaciones, y ayuntamientos, comienza a partir de la sesión del Consejo General celebrada el dos de enero del año de la elección; y culmina con la declaración de validez formal pronunciada por el Consejo General, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 49 fracción II inciso l) de esta Ley. Sus fases serán:
+El proceso de las elecciones ordinarias a la Gubernatura, diputaciones, ayuntamientos, y personas juzgadoras del Poder Judicial del Estado, comienza a partir de la sesión del Consejo General celebrada el dos de enero del año de la elección; y culmina con la declaración de validez formal pronunciada por el Consejo General, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 49 fracción II inciso l) de esta Ley. Sus fases serán:
 
 I. Proveer la debida integración de las comisiones distritales electorales, comprobando la legal instalación de éstas, a más tardar el último día del mes de enero del año de la elección;
 
@@ -3407,7 +3449,9 @@ III. Convocar oportunamente a los partidos políticos y a la ciudadanía, en lo 
 
 Realizar todos los demás actos preparatorios de las elecciones durante el periodo del proceso y hasta antes del día de la jornada electoral;
 
-IV. Recibir la votación el primer domingo de junio, para las tres elecciones;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+IV. Recibir la votación el primer domingo de junio, para las cuatro elecciones;
 
 V. Efectuar los cómputos de la elección a la Gubernatura, diputaciones, y ayuntamientos; y hacer la asignación de diputadas y diputados, y regidoras y regidores electos bajo el principio de representación proporcional, aplicando la fórmula electoral a que se refieren respectivamente los artículos 393, y 402 de esta Ley; igualmente, serán expedidas las constancias de mayoría y de asignación de representación proporcional, mismas que en su oportunidad serán registradas por el Consejo, y
 
@@ -3420,6 +3464,10 @@ En las elecciones extraordinarias a la Gubernatura, diputaciones, y ayuntamiento
 ###### ARTÍCULO 258.
 
 El registro de candidatas y candidatos a la Gubernatura estará abierto del día veintiuno al veintisiete de febrero del año de la elección.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+Por lo que se refiere a las candidaturas de personas juzgadoras del Poder Judicial del Estado, el Consejo recibirá del Comité de Evaluación los listados correspondientes.
 
 ###### ARTÍCULO 259.
 
@@ -5865,6 +5913,452 @@ El Consejo deberá regular las condiciones generales de trabajo de todo su perso
 
 Para efectos de responsabilidad de servidoras y servidores públicos, tienen ese carácter las consejeras y los consejeros electorales del Consejo General, la o el titular de la Secretaría Ejecutiva; la o el titular del órgano interno de control; y, en general, toda funcionaria o funcionario del Consejo que pertenezca al servicio profesional electoral nacional, que desempeñe una función administrativa en el Consejo, o que con el carácter de consejera o consejero ciudadano presidente, integre organismos electorales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, en los términos y para los efectos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO DÉCIMO SÉPTIMO. De la integración del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 473.
+
+Las personas juzgadoras del Poder Judicial del Estado de San Luis Potosí, serán electas por mayoría relativa y voto directo de la ciudadanía conforme las bases, procedimientos y requisitos establecidos en la Constitución Política del Estado de San Luis Potosí y esta ley.
+
+La elección ordinaria de las personas juzgadoras del Poder Judicial del Estado, se llevará a cabo el primer domingo de junio del año que corresponda de manera concurrente con los procesos electorales en que se renueve cualquiera de las Cámaras del Congreso de la Unión.
+
+El Consejo Estatal Electoral y de Participación Ciudadana, será la autoridad responsable de la organización del proceso electivo, su jornada electoral y los cómputos de los resultados electorales del proceso de elección de personas juzgadoras del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 474.
+
+Las personas juzgadoras del Poder Judicial del Estado, serán electas dentro del marco geográfico que corresponda, considerando la información proporcionada por el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 475.
+
+En caso de ausencia de disposición expresa dentro de este Título, se aplicará supletoriamente lo dispuesto para los procesos electorales en esta Ley.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 476.
+
+El proceso electoral de las personas juzgadoras del Poder Judicial del Estado, es el conjunto de actos, ordenados por la Constitución del Estado y esta ley, realizado por las autoridades electorales, los Poderes del Estado y la ciudadanía, con el objeto de renovar periódicamente a las personas juzgadoras que integran el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 477.
+
+Para los efectos de esta ley, el proceso de elección de las personas juzgadoras del Poder Judicial del Estado, comprende las siguientes etapas:
+
+I. Preparación de la elección, que inicia con la primera sesión que el Consejo celebre el dos de enero del año de la elección, y concluye con el inicio de la jornada electoral;
+
+II. Convocatoria y postulación de candidaturas, inicia con la publicación de la convocatoria que emita el Congreso del Estado conforme a lo establecido en el artículo 103 de la Constitución Política del Estado, y concluye con la remisión que el Comité de Evaluación realice de los listados de candidaturas al Consejo;
+
+III. Jornada electoral, inicia a las 08:00 horas del primer domingo de junio del año de la elección y concluye con el cómputo de los votos en casilla;
+
+IV. Cómputos y sumatoria, inicia con la remisión de la documentación y los expedientes electorales a los comités municipales electorales y concluye con la sumatoria de los cómputos de la elección que realice el Consejo;
+
+V. Asignación de cargos, inicia con la identificación por el Consejo de las candidaturas que hayan obtenido el mayor número de votos y la asignación de éstas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, y concluye con la entrega por el Consejo de las constancias de mayoría de las candidaturas que resulten ganadoras, y
+
+VI. Entrega de constancias de mayoría y declaración de validez de la elección, inicia al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno, y concluye con la emisión de la declaración de validez respectiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. De la Convocatoria y Postulación de Candidaturas
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 478.
+
+Durante el mes de diciembre del año anterior al de la elección que corresponda, el Congreso del Estado emitirá la convocatoria dirigida a los titulares de los Poderes del Estado para integrar los comités de evaluación.
+
+La convocatoria deberá observar los procedimientos y requisitos que establece la Constitución del Estado.
+
+Para la emisión de la convocatoria, el órgano de administración judicial comunicará de manera oportuna al Congreso del Estado los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia, el distrito judicial respectivo, la región y demás información que se requiera.
+
+En caso de que el órgano de administración judicial no remita oportunamente la información a que se refiere el párrafo anterior, el Congreso del Estado lo integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 479.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución y esta Ley.
+
+El Congreso del Estado, emitirá una convocatoria dirigida a los poderes del Estado para que, dentro de los cinco días naturales posteriores a su publicación integren su propio comité de evaluación, que deberá conformarse con tres personas con conocimientos técnicos, jurídicos y experiencia necesarios, distinguidos por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+
+Dichos comités emitirán las reglas para su funcionamiento y podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+
+Una vez que los comités de evaluación haya emitido sus reglas de funcionamiento, emitirán cada uno dentro de los cinco días naturales siguientes, su propia convocatoria dirigida a profesionales del derecho en el Estado de San Luis Potosí, interesados en participar en la evaluación y selección de postulaciones para la elección de personas juzgadoras del Poder Judicial del Estado y deberá señalar los cargos a elegir, requisitos, documentos para acreditarlos, el ámbito territorial que corresponda y fechas de cumplimiento, asegurándose que se cumpla con la paridad de género y que sea ampliamente difundida entre los profesionales del derecho en las cuatro regiones del Estado de San Luis Potosí.
+
+Los comités de evaluación en lo particular, en términos de la convocatoria que cada uno emita, recibirán los expedientes de las personas aspirantes, evaluarán el cumplimiento de los requisitos constitucionales y legales, e identificaran a las personas mejor evaluadas que cuenten con los conocimientos técnicos y jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+
+Los comités de evaluación en lo particular integrarán un listado de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado, con no más de tres candidatos o candidatas por cada cargo a elegir, que hayan resultado mejor evaluados, garantizando la paridad de género en su conformación.
+
+Los comités de evaluación, remitirán los listados de candidatos y candidatas de personas juzgadoras del Poder Judicial del Estado, al Consejo para que lleve a cabo la organización de la elección de las personas juzgadoras del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 480.
+
+En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, podrá realizar la sustitución de la persona candidata hasta antes del inicio de la impresión de las boletas electorales, sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. De la Organización de la Elección
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 481.
+
+El Consejo es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras del Poder Judicial del Estado. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad y paridad de género.
+
+La etapa de preparación de la elección iniciará con la primera sesión que el Consejo General celebre el dos de enero del año de la elección.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 482.
+
+Corresponde al Consejo:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en esta ley y en los lineamientos que al efecto emita el Instituto;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección a nivel local, por distrito judicial, de conformidad con el ámbito territorial que determine el órgano de administración judicial;
+
+V. Realizar la sumatoria de los cómputos de la elección;
+
+VI. Solicitar al Instituto, la asignación de tiempos de radio y televisión que se requieran, así como aprobar los proyectos de distribución de los mismos;
+
+VII. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VIII. Vigilar que ninguna persona candidata reciba financiamiento público o privado en sus campañas;
+
+IX. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura;
+
+X. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+XI. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas;
+
+XII. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo, y XIII. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este párrafo y las demás que establezcan las leyes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. De la Propaganda
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 483.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado, podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 484.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas integrantes del Poder Judicial, de conformidad con lo dispuesto por el artículo 134 de la Constitución Federal.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+Cualquier servidor público que se encuentre en funciones y que se postule a un cargo de persona juzgadora del Poder Judicial del Estado, no será necesario que solicite licencia a su encargo, pero deberá abstenerse de utilizar recursos públicos con fines electorales.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 485.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 486.
+
+La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 487.
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VI. Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 488.
+
+El Consejo verificará el cumplimiento de las reglas, lineamientos y criterios que las personas físicas o morales deberán adoptar para realizar encuestas o sondeos de opinión que en el marco del proceso de elección de personas juzgadoras emita el Instituto.
+
+Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Consejo, un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral.
+
+Queda prohibida la contratación, por parte de personas candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Consejo en su página de Internet.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VII. De la Elección por Distritos Judiciales
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 489.
+
+De conformidad con los listados e información de los candidatos y candidatas a personas juzgadoras del Poder Judicial del Estado que remitan los comités de evaluación, el Consejo, elaborará un plan de coordinación en materia de organización electoral, en el cual indicará los Comités Municipales Electorales que coadyuvarán en la organización de la elección, así como en la respectiva etapa de cómputos de las elecciones.
+
+El Consejo aprobará el plan de coordinación y llevará a cabo la instalación de los Comités Municipales Electorales estrictamente indispensables para la realización de la elección que corresponda, teniendo las mismas atribuciones a que se refiere esta Ley.
+
+En el caso de los procesos de elección de personas juzgadoras del Poder Judicial Federal, el Consejo podrá coadyuvar en las tareas que determine el Instituto.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VIII. De las Mesas Directivas de Casilla
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 490.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, se realizará en los términos dispuestos por la LGIPE y por los acuerdos que emitan el Instituto y el Consejo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IX. De las Boletas y Materiales Electorales
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 491.
+
+El Consejo aprobará el modelo de boletas electorales, la documentación y los materiales que serán utilizados en el proceso de elección de las personas integrantes del Poder Judicial del Estado, conforme a lo dispuesto por la LGIPE, esta ley y los acuerdos generales del Instituto.
+
+El Consejo será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección, en términos de los lineamientos que al efecto emita el Instituto.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 492.
+
+Las boletas para las elecciones de personas juzgadoras contendrán como mínimo:
+
+I. El municipio y sección electoral que corresponda;
+
+II. La fecha de la elección;
+
+III. Cargo para el que se postula la persona candidata;
+
+IV. El nombre completo y apellidos de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar.
+
+Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas en su caso;
+
+V. Los nombres y firmas impresas de la presidenta o presidente, y de la secretaria o secretario ejecutivo del Consejo;
+
+VI. Las boletas electorales deberán elaborarse utilizando los mecanismos de seguridad aprobados por el Instituto;
+
+VII. El distrito judicial, y
+
+VIII. Especialidad por materia a la que se postula cada persona candidata.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO X. De la observación Electoral
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 493.
+
+La ciudadanía podrá ejercitar sus derechos como persona observadora electoral en términos de lo dispuesto por el artículo 217 de la LGIPE, conforme a los acuerdos que al efecto emita el Instituto.
+
+Las personas observadoras acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+Las organizaciones a las que pertenezcan las personas observadoras acreditadas serán responsables de supervisar las actividades que realicen, así como del cumplimiento de los requisitos y obligaciones que establece esta Ley. Las organizaciones que tengan conocimiento de alguna falta, omisión o irregularidad de una de sus personas observadoras en el desarrollo de sus funciones deberán solicitar al Consejo el retiro de su acreditación. La falta de supervisión imputable a la organización respectiva será causa para que se niegue o retire la acreditación a la organización participante.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XI. Del acceso a los Tiempos en Radio y Televisión
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 494.
+
+El Consejo aprobará los proyectos de distribución de los tiempos de radio y televisión, así como su distribución durante el lapso legal de campaña.
+
+Los monitoreos y mecanismos para verificar el cumplimiento de los tiempos de radio y televisión estarán a cargo del Consejo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 495.
+
+El Consejo pondrá a disposición de las personas candidatas espacios digitales para difundir mensajes en redes sociales o Internet.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XII. De las Campañas Electorales
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 496.
+
+La campaña electoral, para los efectos de este Título, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución Federal, y la LGIPE.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 497.
+
+Las personas candidatas podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que al efecto emitan el Instituto y el Consejo, en observancia a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 498.
+
+Las campañas electorales para la promoción de las candidaturas de personas juzgadoras del Poder Judicial del Estado, no podrán durar más de treinta días naturales, debiendo concluir el miércoles previo al día de la elección.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 499.
+
+Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura dentro del periodo de campaña.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo en función del tipo de elección que se trate.
+
+La fiscalización de dichos gastos será realizada conforme a lo dispuesto por la LGIPE.
+
+Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XIII. De las Actividades en Materia Registral y del Listado Nominal
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 500.
+
+Durante la jornada electoral se utilizará la lista nominal de electores con fotografía, de forma física o digital, conforme lo determine el Instituto.
+
+El corte definitivo del estadístico de la lista nominal de electores con fotografía aprobado por el Instituto, será el insumo para el procedimiento de integración y determinación del número de mesas directivas de casilla a emplearse en la elección. La aprobación de la lista nominal de electores con fotografía y su verificación se realizará bajo los procedimientos y disposiciones contenidas en la LGIPE y en los acuerdos que se emitan sobre el particular.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XIV. De la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 501.
+
+El Consejo promoverá la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información, y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público y de conformidad con la metodología aprobada por el Instituto.
+
+El Consejo a través de un micrositio en su página oficial informará a la ciudadanía sobre el proceso electoral y las candidaturas registradas, difundiendo la identidad, perfil e información curricular de las personas candidatas, así como información relativa al proceso electoral.
+
+La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para la difusión de actividades y promoción de la participación ciudadana en el proceso de elección de personas juzgadoras del Poder Judicial del Estado, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Consejo, medios electrónicos o digitales institucionales, y periódicos de mayor circulación, y cobertura en el Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XV. De la Jornada Electoral
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 502.
+
+La jornada electoral se desarrollará en los términos establecidos en esta Ley.
+
+La documentación que llenarán las personas funcionarias de las mesas directivas de casilla, se realizará de conformidad con la estrategia de integración y lineamientos que al efecto se emitan por la autoridad electoral.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 503.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+I. Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta;
+
+II. El Consejo determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir, y
+
+III. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 504.
+
+El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial del Estado se realizará de forma simultánea a los cómputos a que se refiere el artículo 336 de esta Ley, en el orden siguiente:
+
+I. Personas magistradas o magistrados del Supremo Tribunal de Justicia del Estado;
+
+II. Persona magistrada del Tribunal Unitario de Disciplina Judicial, y
+
+III. Personas jueces o juezas de Primera Instancia;
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVI. De los Cómputos y Sumatoria
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 505.
+
+Los comités municipales electorales realizarán el cómputo de la elección de personas juzgadoras del Poder Judicial del Estado, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete.
+
+El Consejo emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 506.
+
+El comité municipal levantará un acta en la que consignará el cómputo de cada elección, mismo que deberá ser remitido al Consejo para que proceda a realizar la sumatoria final por tipo de elección.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVII. De la Asignación de Cargos
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 507.
+
+Una vez que el Consejo realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos y observando la alternancia de mujeres y hombres.
+
+Deberá darse máxima publicidad a los resultados de la elección y ser publicados en el Periódico Oficial.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVIII. Entrega de Constancias de Mayoría y Declaración de Validez de la Elección
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 508.
+
+El Consejo hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Una vez que ya no exista medio de impugnación por resolver, el Consejo, emitirá la declaratoria de validez de la elección de personas juzgadoras del Poder Judicial del Estado, y comunicará los resultados al Supremo Tribunal de Justicia del Estado y al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 509.
+
+Las personas juzgadoras del Poder Judicial del Estado electas, deberán tomar protesta ante el Congreso del Estado el quince de septiembre del año de la elección que corresponda.
+
 T R A N S I T O R I O S
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
@@ -5942,3 +6436,21 @@ P.O. 12 DE OCTUBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0030.- DECRETO POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ Y DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Por única ocasión, el período de función del cargo de magistrados y magistradas del Supremo Tribunal de Justicia del Estado, que resulten electos en el proceso electoral local extraordinario 2025, será de once años, para efecto de que el proceso electoral se homologue al proceso electoral ordinario.
+
+TERCERO. Por única ocasión, el período de función del cargo de Magistrado o Magistrada del Tribunal Unitario de Disciplina Judicial que resulte electo o electa en el proceso electoral local extraordinario 2025, será de cinco años, para efecto de que el proceso electivo se homologue al proceso electoral ordinario.
+
+CUARTO. Por única ocasión, el período de función del cargo de Juez o Jueza de Primera Instancia del Poder Judicial del Estado que resulten electas en el proceso electoral local extraordinario 2025, será de ocho años, para efecto de que el proceso electivo se homologue al proceso electoral ordinario.
+
+QUINTO. Se faculta al Consejo Estatal Electoral y de Participación Ciudadana del Estado de San Luis Potosí para emitir los acuerdos, lineamientos y disposiciones de carácter general que sean necesarios para regular las situaciones no previstas en el presente Decreto a efecto de implementar el proceso electoral local extraordinario 2025.
+
+Dichos acuerdos deberán garantizar el cumplimiento de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y equidad que rigen los procesos electorales, y estarán vigentes durante el proceso electoral local extraordinario 2025.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
