@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2024-12-16"
+last_updated: "2024-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -1470,9 +1470,11 @@ El derecho de los trabajadores a participar en las utilidades no implica la facu
 
 ### CAPITULO I. Obligaciones de los Patrones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 132.
 
-Son obligaciones de los patrones:
+Son obligaciones de las personas empleadoras:
 
 I. Cumplir las disposiciones de las normas de trabajo aplicables a sus empresas o establecimientos;
 
@@ -1482,7 +1484,9 @@ III. Proporcionar oportunamente a los trabajadores los útiles, instrumentos y m
 
 IV. Proporcionar local seguro para la guarda de los instrumentos y útiles de trabajo pertenecientes al trabajador, siempre que deban permanecer en el lugar en que prestan los servicios, sin que sea lícito al patrón retenerlos a título de indemnización, garantía o cualquier otro. El registro de instrumentos o útiles de trabajo deberá hacerse siempre que el trabajador lo solicite;
 
-V. Mantener el número suficiente de asientos o sillas a disposición de los trabajadores en las casas comerciales, oficinas, hoteles, restaurantes y otros centros de trabajo análogos. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+V. Proveer el número suficiente de asientos o sillas con respaldo a disposición de todas las personas trabajadoras en los sectores de servicios, comercio y centros de trabajo análogos, para la ejecución de sus funciones o para el descanso periódico durante la jornada laboral. En el caso de descansos periódicos, los asientos o sillas con respaldo deberán estar ubicados en áreas específicas que para tal efecto se designen en las mismas instalaciones del lugar de trabajo. La misma disposición se observará en los establecimientos industriales cuando lo permita la naturaleza del trabajo;
 
 VI. Guardar a los trabajadores la debida consideración, absteniéndose de mal trato de palabra o de obra;
 
@@ -1590,11 +1594,11 @@ XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo 
 
 XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 133.
 
-Queda prohibido a los patrones o a sus representantes:
+Queda prohibido a las personas empleadoras o a sus representantes:
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1648,9 +1652,13 @@ XV. Despedir a una trabajadora o coaccionarla directa o indirectamente para que 
 
 XVI. Dar de baja o terminar la relación laboral de un trabajador que tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
 
-> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
-XVII. Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores, y
+XVII. Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+XVII Bis. Obligar a las personas trabajadoras a permanecer de pie durante la totalidad de la jornada laboral y prohibirles tomar asiento periódicamente durante el desarrollo de sus funciones, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -5510,6 +5518,8 @@ En los casos de disolución del sindicato de trabajadores titular del contrato c
 
 ### CAPITULO V. Reglamento Interior de Trabajo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 404.
 
 Contrato-ley es el convenio celebrado entre uno o varios sindicatos de trabajadores y varios patrones, o uno o varios sindicatos de patrones, con objeto de establecer las condiciones según las cuales debe prestarse el trabajo en una rama determinada de la industria, y declarado obligatorio en una o varias Entidades Federativas, en una o varias zonas económicas que abarquen una o más de dichas Entidades, o en todo el territorio nacional.
@@ -5686,7 +5696,7 @@ II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 ###### Artículo 422.
 
-Reglamento interior de trabajo es el conjunto de disposiciones obligatorias para trabajadores y patrones en el desarrollo de los trabajos en una empresa o establecimiento.
+Reglamento interior de trabajo es el conjunto de disposiciones obligatorias para personas trabajadoras y empleadoras en el desarrollo de los trabajos en una empresa o establecimiento.
 
 No son materia del reglamento las normas de orden técnico y administrativo que formulen directamente las empresas para la ejecución de los trabajos.
 
@@ -5694,7 +5704,9 @@ No son materia del reglamento las normas de orden técnico y administrativo que 
 
 El reglamento contendrá:
 
-I. Horas de entrada y salida de los trabajadores, tiempo destinado para las comidas y períodos de reposo durante la jornada;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+I. Horas de entrada y salida de las personas trabajadoras, tiempo destinado para las comidas y períodos obligatorios de reposo durante la jornada;
 
 II. Lugar y momento en que deben comenzar y terminar las jornadas de trabajo;
 
@@ -5702,7 +5714,9 @@ III. Días y horas fijados para hacer la limpieza de los establecimientos, maqui
 
 IV. Días y lugares de pago;
 
-V. Normas para el uso de los asientos o sillas a que se refiere el artículo 132, fracción V;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+V. Normas que regulen el derecho de las personas trabajadoras para usar los asientos o sillas con respaldo durante la jornada laboral, de conformidad con lo previsto por el artículo 132, fracción V;
 
 VI. Normas para prevenir los riesgos de trabajo e instrucciones para prestar los primeros auxilios;
 
@@ -5710,11 +5724,15 @@ VI. Normas para prevenir los riesgos de trabajo e instrucciones para prestar los
 
 VII.- Labores insalubres y peligrosas que no deben desempeñar los menores y la protección que deben tener las trabajadoras embarazadas;
 
-VIII. Tiempo y forma en que los trabajadores deben someterse a los exámenes médicos, previos o periódicos, y a las medidas profilácticas que dicten las autoridades;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+VIII. Tiempo y forma en que las personas trabajadoras deben someterse a los exámenes médicos, previos o periódicos, y a las medidas profilácticas que dicten las autoridades;
 
 IX. Permisos y licencias;
 
-X. Disposiciones disciplinarias y procedimientos para su aplicación. La suspensión en el trabajo, como medida disciplinaria, no podrá exceder de ocho días. El trabajador tendrá derecho a ser oído antes de que se aplique la sanción; y
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+
+X. Disposiciones disciplinarias y procedimientos para su aplicación. La suspensión en el trabajo, como medida disciplinaria, no podrá exceder de ocho días. La persona trabajadora tendrá derecho a ser oída antes de que se aplique la sanción, y
 
 XI. Las demás normas necesarias y convenientes, de acuerdo con la naturaleza de cada empresa o establecimiento, para conseguir la mayor seguridad y regularidad en el desarrollo del trabajo.
 
@@ -16389,3 +16407,13 @@ D.O.F. 16 DE DICIEMBRE DE 2024.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 19 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO".]
+
+Primero.- El presente Decreto entrará en vigor a los 180 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría del Trabajo y Previsión Social deberá emitir las normas correspondientes sobre los factores de riesgos de trabajo en un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Tercero.- Las personas empleadoras o empresas contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna para dar cumplimiento a lo establecido en la fracción V del artículo 132 de la Ley Federal del Trabajo.
