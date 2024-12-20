@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2023-12-23"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -116,6 +116,10 @@ Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
 Los recargos, las sanciones, los gastos de ejecución y de cobranza y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Los aprovechamientos por concepto de multas impuestas por infracciones a las disposiciones legales o reglamentarias que no sean de carácter fiscal, podrán ser destinados a cubrir los gastos de operación e inversión de las dependencias encargadas de aplicar o vigilar el cumplimiento de los ordenamientos cuya infracción dio lugar a la imposición de la multa, cuando dicho destino se encuentre especificado en las normas jurídicas aplicables.
 
 Son productos, las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -251,11 +255,11 @@ Cuando las leyes fiscales establezcan que las contribuciones se calcularán por 
 
 En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá un ejercicio por todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o surja presentará las declaraciones de la sociedad que desaparece.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 13.
 
-En los plazos fijados en días no se contarán los sábados, ni los domingos; como tampoco el 1° de enero; el primer lunes de febrero; el tercer lunes de marzo; el 1° y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre; el 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y, el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, ni los domingos; como tampoco el 1° de enero; el primer lunes de febrero; el tercer lunes de marzo; el 1° y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre; el 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y, el 25 de diciembre.
 
 Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales si se llegan a otorgar en forma escalonada.
 
@@ -811,6 +815,34 @@ La declaración complementaria se presentará conforme a lo previsto por el art�
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 33 BIS.- Cualquier autoridad, ente público, entidad, órgano u organismo de los Poderes Legislativo, Ejecutivo y Judicial del Estado y de los Municipios, previamente a realizar la contratación de adquisiciones, arrendamientos, servicios u obra pública con personas físicas, morales o entes jurídicos, deberán solicitar la constancia de cumplimiento de obligaciones fiscales estatales que emitirá la Secretaría de Finanzas.
+
+Así mismo los sujetos antes señalados en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
+
+I. Tengan a su cargo créditos fiscales firmes, determinados, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+II. No se encuentren inscritos en el Registro Estatal o Federal de Contribuyentes, según se trate de impuestos estatales o federales, respectivamente;
+
+III. Habiendo vencido el plazo para presentar alguna declaración, provisional y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada;
+
+IV. Estando inscritos en el Registro Estatal de Contribuyentes, se encuentren como no localizados;
+
+V. Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que cause firmeza la sentencia; y
+
+VI. Se encuentren en los listados a que se refieren los artículos 69-B, o 69-B Bis, del Código Fiscal de la Federación.
+
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables en el Estado, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción II, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+Los sujetos establecidos en el primer párrafo de este artículo que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción II, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+Quienes se ubiquen en los supuestos de la fracción I de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones II y III, contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de obligaciones fiscales del subcontratante.
+
+Los contribuyentes que requieran obtener la constancia de cumplimiento de obligaciones fiscales para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal estatal, así como para las contrataciones por adquisición de bienes, arrendamiento, prestación de servicio y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que establezca la Secretaría de Finanzas.
+
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
 ### CAPITULO UNICO
@@ -941,9 +973,9 @@ En el caso de resoluciones administrativas que consten en documentos digitales, 
 
 El Gobernador del Estado, mediante resolución de carácter general, podrá:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+I.- Reducir o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
@@ -1693,11 +1725,13 @@ Siempre que se omita el pago de una contribución cuya determinación correspond
 
 La Secretaría de Finanzas podrá reducir las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
+La solicitud de reducción de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Sólo procederá la reducción de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
 ###### ARTICULO 75.
 
@@ -1887,29 +1921,29 @@ A quien comete las infracciones relacionadas con la obligación de presentar dec
 
 I.- Para la señalada en la fracción I:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-a) De cuatro a veinte veces el valor diario de la Unidad de Medida y Actualización tratándose de declaraciones por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración se impuso la multa, el contribuyente presenta declaraciones adicionales, sobre las mismas se aplicará también la multa a que se refiere este inciso.
+a).- De diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización tratándose de declaraciones por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración se impuso la multa, el contribuyente presenta declaraciones adicionales, sobre las mismas se aplicará también la multa a que se refiere este inciso.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-b) Por presentar una declaración, solicitud, aviso, constancia y demás documentos, fuera del plazo señalado en el requerimiento o por su incumplimiento, se impondrá una multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+b).- De diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, por presentar una declaración, solicitud, aviso, constancia y demás documentos, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
 c).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1996)
 
 II.- Respecto de la señalada en la fracción II:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-a) De cinco a quince veces el valor diario de la Unidad de Medida y Actualización por no poner el nombre o domicilio o ponerlos equivocadamente.
+a).- De ocho a veinte veces el valor diario de la Unidad de Medida y Actualización por no poner el nombre o domicilio o ponerlos equivocadamente.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-b) De cinco a diez veces el valor diario de la Unidad de Medida y Actualización en los demás casos.
+b).- De ocho a quince veces el valor diario de la Unidad de Medida y Actualización en los demás casos.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-III.- De cuatro a veinte veces el valor diario de la Unidad de Medida y Actualización tratándose de la señalada en la fracción III, por cada uno de los requerimientos.
+III.- De diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización tratándose de la señalada en la fracción III, por cada uno de los requerimientos.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1959,9 +1993,9 @@ IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1996)
 
 V.- De diez a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización a la señalada en la fracción VI.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VI.- De veinte a trescientos noventa y cinco veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción VII.
+VI.- De cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción VII.
 
 VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
 
@@ -2008,6 +2042,10 @@ Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
 
 II.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III.- A los distribuidores y comerciantes de motocicletas que entreguen la unidad a los adquirientes, sin que se haya realizado el registro en el Padrón Vehicular y la obtención de la placa y la tarjeta de circulación, salvo que se acredite que la unidad será matriculada en otra entidad federativa.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2817,8 +2855,6 @@ Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán 
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 145.
@@ -2831,13 +2867,13 @@ II.- Por la de embargo, incluyendo los señalados en los artículos 43 fracción
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-Cuando en los casos de las fracciones anteriores, el 2 por ciento del crédito sea inferior a dos veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad en vez del 2 por ciento del crédito.
+Cuando en los casos de las fracciones anteriores, el 2 por ciento del crédito sea inferior a seis veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad en sustitución del 2 por ciento del crédito.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de la cantidad equivalente a un valor diario de la Unidad de Medida y Actualización elevado al año.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de la cantidad equivalente a dos veces el valor diario de la Unidad de Medida y Actualización elevados al año.
 
 Así mismo, se pagaran por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los articulos 43 fracción II y 139 fracción V de este Código, que únicamente comprenderá los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Instituto Registral y Catastral que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichas personas renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión del dominio de los bienes inmuebles que sean adjudicados al Estado y las que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate.
 
@@ -3726,3 +3762,27 @@ En un plazo no mayor a 120 días contados a partir de la entrada en vigor del pr
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS".]
+
+PRIMERO (SIC). El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-120 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan las disposiciones normativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas del Gobierno del Estado deberá prever los mecanismos y otorgar las facilidades administrativas y operativas necesarias a los distribuidores y comerciantes de motocicletas para el cumplimiento de lo dispuesto en el primer párrafo de la fracción XXVII del artículo 73 de la Ley de Hacienda del Estado de Tamaulipas que se reforma por este Decreto. Dichas medidas deberán garantizar que los trámites de emplacamiento se realicen de manera eficiente y expedita, evitando retrasos injustificados, facilitando el cumplimiento de esta disposición.
+
+En un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas deberá emitir las directrices y lineamientos específicos para la implementación de este Decreto, asegurando su eficacia y operatividad, debiendo preverse alternativas de cumplimiento al mismo en caso de retraso en los procesos de registro y emplacamiento vehicular.
