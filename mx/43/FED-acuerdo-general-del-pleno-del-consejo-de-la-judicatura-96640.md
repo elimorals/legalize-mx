@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2024-07-15"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -107,9 +107,13 @@ VIII. Bis. Ley de Carrera Judicial: Ley de Carrera Judicial del Poder Judicial d
 
 IX. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Información Pública;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-IX. Bis. Ley General de Transparencia: Ley General de Transparencia y Acceso a la Información Pública;
+IX. Bis. Ley General de Mecanismos Alternativos: Ley General de Mecanismos Alternativos de Solución de Controversias;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IX. Ter. Ley General de Transparencia: Ley General de Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
@@ -285,9 +289,11 @@ Asimismo, podrá remover a los titulares de las áreas administrativas a que se 
 
 Las Consejeras y los Consejeros que integren la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación serán designados por el Pleno, de conformidad con el artículo 186 de la Ley.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 17.
 
-El Pleno supervisará el funcionamiento administrativo de los Institutos Federales de Defensoría Pública y de Especialistas de Concursos Mercantiles, en los términos de las leyes que los regulan.
+El Pleno supervisará el funcionamiento administrativo de los Institutos Federales de Defensoría Pública, y de Especialistas de Concursos Mercantiles, así como del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación, en los términos de las leyes que los regulan.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)</small>
 
@@ -2879,11 +2885,11 @@ Artículo 98 Undecies. De conformidad con lo dispuesto en el artículo 103 de la
 
 Para el ejercicio de sus funciones, el Consejo contará con los órganos auxiliares determinados en el artículo 93 de la Ley y demás disposiciones legales aplicables, a fin de propiciar una organización administrativa que permita el tratamiento especializado y eficaz de los asuntos de su competencia. Dichos órganos contarán con la estructura y personal determinado por el Pleno y el presupuesto asignado.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 100.
 
-Los titulares de los órganos auxiliares deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar; experiencia mínima de cinco años; en el caso del titular de la Unidad General de Investigación de Responsabilidades Administrativas, preferentemente en materia de responsabilidades administrativas; gozar de buena reputación; y no haber sido condenados por delito intencional con sanción privativa de la libertad mayor de un año; así como reunir los requisitos que, en su caso, prevea el acuerdo o reglamento interior de cada uno de dichos órganos, con excepción del titular de la Visitaduría Judicial y del Director General del Instituto Federal de Defensoría Pública cuyos requisitos para ser designados se mencionan en las leyes de la materia correspondientes.
+Las personas titulares de los órganos auxiliares deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar; experiencia mínima de cinco años; en el caso de la persona titular de la Unidad General de Investigación de Responsabilidades Administrativas, preferentemente en materia de responsabilidades administrativas; gozar de buena reputación; y no haber sido condenadas por delito intencional con sanción privativa de la libertad mayor de un año; así como reunir los requisitos que, en su caso, prevea el acuerdo o reglamento interior de cada uno de dichos órganos, con excepción de las personas titulares de la Visitaduría Judicial, de la Dirección General del Instituto Federal de Defensoría Pública y del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación, cuyos requisitos para ser designados se mencionan en las leyes de la materia correspondientes.
 
 ###### Artículo 101.
 
@@ -2961,13 +2967,17 @@ IV. El Instituto Federal de Especialistas de Concursos Mercantiles;
 
 V. La Unidad General de Investigación de Responsabilidades Administrativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-VI. La Visitaduría Judicial; y
+VI. La Visitaduría Judicial;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-VII. Los demás que determine el Pleno.
+VII. El Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+VIII. Los demás que determine el Pleno.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
@@ -3206,6 +3216,60 @@ En forma previa a la firma de cualquier convenio, el Director General del Instit
 > <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
 
 Para la suscripción de los convenios en materia de servicio social, así como de préstamo interbibliotecario con instituciones públicas, sociales y privadas, sólo deberá contarse con la opinión de la Dirección General de Asuntos Jurídicos, y no deberán comprometerse recursos presupuestales ni la creación de estructuras administrativas para su cumplimiento.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 113 Bis.
+
+El Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación se regirá conforme a la Ley, a la Ley General de Mecanismos Alternativos y demás Acuerdos Generales emitidos por el Pleno y normativa aplicable.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 113 Ter.
+
+El Centro de Mecanismos Alternativos de Solución de Controversias es el órgano auxiliar del Poder Judicial de la Federación encargado de coordinar, conducir y supervisar los mecanismos alternativos de solución de controversias, así como de administrar las plataformas y sistemas tecnológicos, conforme a la Ley General de Mecanismos Alternativos.
+
+Además, está a cargo de coordinar, con la colaboración con la Escuela Judicial, la capacitación y certificación de las personas facilitadoras; dirigir y supervisar las actividades de su personal; llevar a cabo la evaluación de las personas facilitadoras; así como coordinar las políticas públicas, planes y programas para el desarrollo de sus actividades, su difusión y vinculación con organismos públicos y privados.
+
+El Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación establecerá, a propuesta de la persona titular, y previa autorización del Pleno, representaciones para la provisión de sus servicios, de acuerdo con los requerimientos en la materia.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 113 Quater.
+
+La persona Titular del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación tendrá, además de las establecidas en la Ley General de Mecanismos Alternativos, las atribuciones siguientes:
+
+I. Instruir las acciones necesarias para la conducción de los mecanismos alternativos de solución de controversias y, en su caso, ordenar las medidas y ajustes necesarios para garantizar su accesibilidad y asequibilidad, conforme a la Ley General de Mecanismos Alternativos y la normatividad aplicable;
+
+La persona titular del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación propondrá al Pleno para su autorización, el número y ubicación de las representaciones del propio Centro para la provisión de sus servicios, atendiendo a su presupuesto;
+
+II. Elaborar, con la colaboración de las áreas administrativas del Consejo, según corresponda, los protocolos, instructivos y disposiciones técnicas y operativas necesarias para el funcionamiento del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación y sus sistemas electrónicos;
+
+III. Elaborar las propuestas de modificación de los Acuerdos Generales del Consejo que se relacionen con su ámbito de competencia para la consideración del Pleno, de conformidad con la Ley, la Ley General de Mecanismos Alternativos, el Acuerdo y demás normativa aplicable;
+
+IV. Proponer la designación de las personas facilitadoras del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación a las instancias correspondientes del Consejo, conforme a lo dispuesto por la Ley General de Mecanismos Alternativos y la normativa del Consejo;
+
+V. Establecer el procedimiento para conocer y calificar las excusas que presenten las personas facilitadoras y las solicitudes de recusación de las partes en los mecanismos alternativos de solución de controversias en caso de impedimentos, conforme a lo dispuesto por la Ley General de Mecanismos Alternativos y la normativa aplicable;
+
+VI. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la Ley, la Ley General de Mecanismos Alternativos, el presente Acuerdo, la normativa del Consejo y las demás disposiciones aplicables a los servicios proporcionados por el Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación;
+
+VII. Coordinar, con la participación de las áreas administrativas competentes, la estrategia de difusión de las actividades del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación e instruir las acciones necesarias para proveer de información accesible al público;
+
+VIII. Suscribir convenios de colaboración, previo dictamen de la Dirección General de Asuntos Jurídicos y aprobación del Pleno, con otros centros de mecanismos alternativos de solución de controversias, organismos internacionales, instituciones públicas y privadas, tanto nacionales como extranjeras, en materia de capacitación, difusión y actividades que contribuyan al cumplimiento de los fines de la Ley General de Mecanismos Alternativos;
+
+IX. Coordinar con las áreas administrativas competentes del Consejo, la realización de análisis, estudios, diagnósticos e investigaciones, así como la organización de coloquios, seminarios o cualquier evento relacionado con el desarrollo de los mecanismos alternativos de solución de controversias, objetivo y funciones del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación, atendiendo a lo dispuesto en las disposiciones específicas aplicables;
+
+X. Coordinar la revisión de convenios y, de ser procedente, realizar su validación tratándose de convenios elaborados en el ámbito privado, conforme a la Ley General de Mecanismos Alternativos de Solución de Controversias, así como ordenar su registro en el Sistema de Convenios;
+
+XI. Establecer y supervisar los mecanismos de recepción y revisión de solicitudes de servicio del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación para su registro en el sistema en línea, así como la determinación de procedencia;
+
+XII. Coordinar la implementación de los sistemas y mecanismos de supervisión y monitoreo de las actividades y servicios del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación y sus representaciones, de su personal y personas facilitadoras, incluyendo los objetivos estratégicos e indicadores clave para su evaluación y rendición de cuentas; y, en su caso, implementar las medidas adecuadas para su mejora;
+
+XIII. Coordinar con la Dirección General de Tecnologías de la Información y la Dirección General de Estrategia y Transformación Digital, la creación, implementación y mantenimiento del Registro de Personas Facilitadoras, la Plataforma Nacional de Personas Facilitadoras, el Sistema de Convenios, el Sistema Nacional de Información de Convenios y el sistema en línea de mecanismos alternativos de solución de controversias del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación; y encargarse de su administración y actualización;
+
+XIV. Elaborar y coordinar, en colaboración con la Escuela Judicial, el programa de capacitación y el proceso de certificación de personas facilitadoras y abogadas colaborativas, conforme a los Lineamientos que emita el Consejo Nacional de Mecanismos Alternativos de Solución de Controversias; así como la elaboración e implementación de los procesos de revisión, renovación, revocación o suspensión de la certificación emitida por el Poder Judicial de la Federación a través del Centro de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación; y
+
+XV. Las demás que le sean conferidas por la Ley, los Acuerdos Generales emitidos por el Pleno y demás normatividad aplicable.
 
 ###### Artículo 114.
 
@@ -7634,3 +7698,11 @@ SÉPTIMO. El presente Acuerdo se aplicará en irrestricto apego a los derechos l
 OCTAVO. La interpretación del presente Acuerdo corresponderá a las Comisiones de Carrera Judicial y Administración del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo en intranet e internet.
