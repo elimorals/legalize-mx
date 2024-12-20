@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-para-las-personas-servidoras-publicas-de-166
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-17"
-last_updated: "2023-05-17"
+last_updated: "2024-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE LAS MUJERES DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA PARA EL PERSONAL DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 63 del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2023.
 
@@ -668,3 +670,13 @@ Monterrey, Nuevo León, a 08 de mayo del 2023.
 SECRETARIA DE LAS MUJERES
 
 MTRA. GRACIELA GUADALUPE BUCHANAN ORTEGA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA PARA EL PERSONAL DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- Publíquese el presente Código de Conducta para e (sic) personal de la Secretaría de las Mujeres del Estado de Nuevo León en el Periódico Oficial del Estado de Nuevo León, el cual entrará en vigor a la fecha de su publicación.
+
+Segundo.- Se abroga el Código de Conducta para las Personas Servidoras Públicas de la Secretaría de las Mujeres del Estado de Nuevo León, publicado el 17 de mayo de 2023 en el Periódico Oficial ce (sic) Estado de Nuevo León.
