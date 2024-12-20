@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-149709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-06-07"
-last_updated: "2024-01-26"
+last_updated: "2024-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149709&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LOPJF"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL D.O.F. DE 20 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -3061,3 +3063,85 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Poder Judicial de la Federación, contará con un plazo máximo de 180 días naturales, para la expedición de las disposiciones aplicables para el cumplimiento del presente Decreto.
 
 Tercero. El Consejo de la Judicatura Federal, contará con un plazo máximo de 180 días naturales, para la creación de la Plataforma Nacional de Personas Facilitadoras y del Sistema Nacional de Información de Convenios.
+
+D.O.F. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 7 de junio de 2021.
+
+Tercero.- Hasta en tanto las Ministras y Ministros electos tomen protesta de su encargo ante el Senado de la República el 1o. de septiembre de 2025, la Suprema Corte de Justicia de la Nación se regirá para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial la Federación, publicada en el Diario Oficial de la Federación el 7 de junio de 2021; con excepción de la materia electoral tal como está previsto en la Ley General de Instituciones y Procedimientos Electorales. En consecuencia, hasta la fecha señalada en el enunciado anterior, la Suprema Corte de Justicia de la Nación seguirá funcionando en Pleno o en Salas.
+
+Cuarto.- Las Ministras y Ministros de la Suprema Corte de Justicia de la Nación que concluyan su encargo por no postularse o no haber sido electos en la elección extraordinaria del año 2025, no serán beneficiarias de un haber por retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria señalada en la fracción I del artículo 96 de este Decreto, misma que tendrá efectos al 31 de agosto de 2025; en estos casos, el haber de retiro será proporcional al tiempo de su desempeño.
+
+Quinto.- Las remuneraciones de las personas servidoras públicas del Poder Judicial de la Federación se mantendrán hasta el 31 de diciembre de 2024, fecha en la que los tabuladores y organigramas correspondientes deberán estar ajustados en términos del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos. Las remuneraciones subsecuentes de todas las personas servidoras públicas del Poder Judicial de la Federación, no podrán ser mayores a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente.
+
+Sexto.- Hasta en tanto los miembros del Tribunal de Disciplina Judicial tomen protesta de su encargo ante el Senado de la República el 1o. de septiembre de 2025, y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura Federal continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación.
+
+Séptimo.- Los Plenos Regionales y los Plenos Regionales especializados seguirán en funcionamiento conforme a su competencia, hasta que las personas juzgadoras electas en el proceso de elección del 2025 tomen protesta. Con posterioridad, el Órgano de Administración Judicial designará a las y los integrantes de la totalidad de los Plenos Regionales, de entre las personas que hubiesen obtenido mayor votación en el proceso de elección judicial 2024-2025. En el caso de los Plenos Regionales especializados las Magistradas o Magistrados deberán ser seleccionados conforme a la especialización para la cual fueron elegidos.
+
+Las vacantes que se generen a partir de la elección de las y los Magistrados que integrarán los Plenos Regionales se ocuparán por las personas que hayan obtenido el segundo lugar de la votación que corresponda, según el año de su elección.
+
+Octavo.- A partir de la entrada en vigor del presente Decreto, la Comisión de Transición será el ente encargado de auxiliar en sus funciones al Consejo de la Judicatura Federal para implementar un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales a los distintos órganos y áreas del Poder Judicial Federal, de acuerdo con las atribuciones señaladas en la presente Ley.
+
+Dicha Comisión estará integrada por cinco miembros: la Ministra Presidenta del Pleno de la Suprema Corte de Justicia de la Nación; la Magistrada Presidenta de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; el Consejero electo por la persona titular del Ejecutivo Federal; la Consejera decana elegida por el Senado de la República; y, el Consejero decano electo por el Poder Judicial de la Federación. Los acuerdos de la Comisión se aprobarán por mayoría de votos.
+
+I. Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de disciplina y control interno, tanto de la Suprema Corte de Justicia de la Nación, del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial de la Federación, conforme a lo siguiente:
+
+a) Del Consejo de la Judicatura Federal los siguientes órganos auxiliares: la Visitaduría Judicial (ahora Órgano de Evaluación de Desempeño Judicial) y la Unidad General de Investigación de Responsabilidades Administrativas. Las siguientes secretarías ejecutivas: Secretaría Ejecutiva de Vigilancia y Secretaría Ejecutiva de Disciplina.
+
+b) De la Suprema Corte de Justicia de la Nación: la Unidad General de Investigación de Responsabilidades Administrativas.
+
+c) Del Tribunal Electoral del Poder Judicial de la Federación: la Visitaduría Judicial y la Dirección General de Investigación de Responsabilidades Administrativas.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura Federal al Tribunal de Disciplina Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+II. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, tanto de la Suprema Corte de Justicia de la Nación, del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial de la Federación, conforme a lo siguiente:
+
+a) Del Consejo de la Judicatura Federal los siguientes órganos auxiliares: la Escuela Federal de Formación Judicial, la Contraloría, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles. Las siguientes secretarías ejecutivas: Secretaría Ejecutiva de Administración, Secretaría Ejecutiva de Adscripción, Secretaría Ejecutiva de Carrera Judicial y Secretaría Ejecutiva de Creación de Nuevos Órganos. De la Secretaría General de la Presidencia las siguientes unidades: Coordinación de Seguridad, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, Unidad de Implementación de la reforma en materia de justicia laboral, Unidad de Transparencia, Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual, Unidad de Peritos Judiciales, Dirección General de Asuntos Jurídicos, Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, Dirección General de Vinculación y Relaciones Interinstitucionales, Dirección General de Comunicación Social y Vocería y la Coordinación General de Planeación Institucional con sus direcciones generales.
+
+b) De la Suprema Corte de Justicia de la Nación: la Oficialía Mayor con sus direcciones generales, la Contraloría y la Unidad General de Transparencia y Sistematización de la Información Judicial.
+
+c) Del Tribunal Electoral del Poder Judicial de la Federación: todas las áreas dependientes de la Comisión de Administración del Tribunal, a excepción de la Visitaduría Judicial y la Dirección General de Investigación de Responsabilidades Administrativas.
+
+d) El Centro Público de Mecanismos Alternativos de Solución de Controversias del Poder Judicial Federal contemplado en la Ley General de Mecanismos Alternativos de Solución de Controversias será un órgano auxiliar del Órgano de Administración Judicial a partir del día de toma de protesta de las personas integrantes del Órgano de Administración.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura Federal al Órgano de Administración Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+La Comisión de Transición deberá instruir a las áreas de tecnologías de información y comunicación de la Suprema Corte de Justicia de la Nación, del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial Federal para que conjuntamente determinen la estrategia para unificar los sistemas de los referidos órganos, procurando la homologación de los sistemas jurisdiccionales y administrativos.
+
+Noveno.- Para dar cumplimiento al párrafo cuarto del artículo Sexto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, previo a que las áreas administrativas u órganos auxiliares de la Suprema Corte de Justicia de la Nación, del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial de la Federación sometan a consideración de los Comités, Comisiones o del Pleno cualquier acuerdo de trámite o resolución, deberán someter a consideración de la Comisión de Transición su procedencia, a efecto de que esta última determine si es indispensable que la propuesta de acuerdo se resuelva en el periodo de transición o si el acuerdo se reserva para su posterior análisis y, en su caso, resolución por el Tribunal de Disciplina Judicial o el Órgano de Administración Judicial, según corresponda.
+
+Décimo.- El Órgano de Administración Judicial determinará la forma y términos en que la Escuela Judicial Electoral será incorporada a la Escuela Nacional de Formación Judicial, para que continúe desarrollando sus funciones como una institución educativa especializada en la formación, capacitación, investigación y difusión en la materia, conforme al plan de trabajo que para ello implemente la Comisión de Transición.
+
+Décimo Primero.- La Sala Regional Especializada del Tribunal Electoral de la Federación se extinguirá el 31 de agosto de 2025, por lo que sus magistraturas no se renovarán en la elección extraordinaria del 2024-2025.
+
+El personal que a la fecha de su extinción se encuentre adscrito a la Sala Regional Especializada será readscrito a otras áreas del Tribunal Electoral de la Federación conforme a lo que determine la Sala Superior para tal efecto.
+
+Décimo Segundo.- La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación deberán garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial Federal, previendo que las vigencias de los instrumentos contractuales no superen el último trimestre del año 2025, de conformidad con el presupuesto aprobado por el Congreso de la Unión para el año fiscal correspondiente.
+
+Décimo Tercero.- La Presidencia del Órgano de Administración Judicial que entre en funciones el 1o. de septiembre de 2025 será designada mediante insaculación, de conformidad con el artículo 72 de la presente Ley.
+
+Décimo Cuarto.- Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor del presente Decreto, en los que se haya emitido el informe o dictamen conclusivo de la etapa de investigación, se substanciarán por el Tribunal de Disciplina Judicial, o el Órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+Décimo Quinto.- Para efectos del artículo anterior, las competencias de la Secretaría Ejecutiva de Disciplina serán asumidos por la o el Magistrado Instructor del Tribunal de Disciplina Judicial que le corresponda conocer del asunto, o por el o la Integrante Instructor del Órgano de Administración Judicial según corresponda; las de la Comisión de Disciplina del Consejo de la Judicatura Federal por la Comisión correspondiente del Tribunal de Disciplina Judicial o bien del Órgano de Administración Judicial, según corresponda; y las del Pleno del Consejo de la Judicatura Federal por el Pleno del Tribunal de Disciplina Judicial o bien por el Pleno del Órgano de Administración Judicial, según corresponda.
+
+En el caso de los procedimientos a cargo de la Contraloría del Consejo de la Judicatura Federal, las competencias de la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial serán asumidas por la o el Magistrado Instructor del Tribunal de Disciplina Judicial o por el o la Integrante Instructor del Órgano de Administración Judicial; las de la Comisión de Disciplina del Consejo de la Judicatura Federal por la Comisión correspondiente del Tribunal de Disciplina Judicial o del Órgano de Administración Judicial, según corresponda; las del Pleno del Consejo de la Judicatura Federal por el Pleno del Tribunal de Disciplina Judicial o por el Pleno del Órgano de Administración Judicial, según corresponda; y las competencias resolutorias de la Contraloría del Consejo de la Judicatura Federal serán asumidas por la Comisión correspondiente del Tribunal de Disciplina Judicial o del Órgano de Administración Judicial, según sea el caso.
+
+Décimo Sexto.- Los procesos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial y sus órganos auxiliares, o en su caso por el Órgano de Administración Judicial, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el propio Tribunal.
+
+Décimo Séptimo.- En todo lo no previsto en el presente Decreto, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura Federal mediante acuerdo general.
+
+Décimo Octavo.- Los precedentes, tesis, jurisprudencias y criterios obligatorios de los órganos jurisdiccionales del Poder Judicial de la Federación que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su vigencia y, por tanto, su carácter orientativo o vinculante según corresponda.
+
+Para su modificación, las nuevas personas servidoras públicas electas para cargos de decisión jurisdiccional deberán observar y respetar los requisitos previstos para ello en los términos y procedimientos que para tal efecto establezcan las leyes.
+
+La nueva integración del Pleno de la Suprema Corte de Justicia de la Nación estará facultado para dilucidar la posible contradicción de criterios sostenidos entre las anteriores Salas de la Suprema Corte de Justicia de la Nación.
+
+Décimo Noveno.- Los Acuerdos Generales emitidos por el Consejo de la Judicatura Federal continuarán vigentes en todo lo que no se oponga a la Constitución Política de los Estados Unidos Mexicanos y a la presente Ley hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
+
+Vigésimo.- Las Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito del Poder Judicial de la Federación que concluyan su encargo por no participar en la elección respectiva o no resultar electas por la ciudadanía para el cargo que ocupaban o para un cargo o circuito judicial diverso, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado dentro del Poder Judicial de la Federación, conforme al salario integrado que perciban a la fecha de entrada en vigor del presente Decreto, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con los recursos federales a los que se refiere el artículo Décimo transitorio del Decreto por el que se reformaron, adicionaron y derogaron diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, de 15 de septiembre de 2024. Este beneficio no aplicará para las personas juzgadoras en funciones que hayan resultado electas para un cargo o circuito judicial diverso al que ocupaban.
+
+Vigésimo Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
