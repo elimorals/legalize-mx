@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2024-04-05"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2024.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6869,6 +6869,10 @@ La Secretaría de Movilidad deberá proporcionar en forma mensual, de manera fí
 
 8.- Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios; así como realizar todos aquellos trámites de control vehicular que modifiquen y actualicen el registro del vehículo.
 
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, podrá realizar la inspección física de los medios de identificación de los vehículos, cuando existan indicios razonables de la alteración de los mismos, dejando a salvo los derechos respectivos de conformidad con las disposiciones jurídicas aplicables.
+
 Para tal efecto, la Secretaría de Finanzas emitirá Reglas de Carácter General a través de las cuales se definan los procedimientos y requisitos para trámites de control vehicular, considerando, en su caso, el uso de medios electrónicos, debiendo publicarse en el Periódico Oficial "Gaceta del Gobierno".
 
 > <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
@@ -8437,9 +8441,11 @@ Una vez expedidos los programas a que se refiere esta fracción, por las autorid
 
 ### CAPITULO SEGUNDO. De los vehículos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-11.- El tránsito de vehículos se condiciona al cumplimiento de los requisitos siguientes:
+11.- El tránsito de todo tipo de vehículos incluyendo motocicletas, motonetas, trimotos y cuatrimotos, se condiciona al cumplimiento de los requisitos siguientes:
 
 I. Que estén matriculados o registrados en la República Mexicana o el extranjero;
 
@@ -19296,3 +19302,21 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 31 POR EL QUE “SE REFORMA EL ARTÍCULO 8.11 EN SU PÁRRAFO PRIMERO, Y SE ADICIONA AL ARTÍCULO 7.8 UN PÁRRAFO SEGUNDO, TODOS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2025.
+
+TERCERO.- Se derogan, en su caso, todas las disposiciones legales y administrativas del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido de este Decreto.
+
+CUARTO.- La Secretaría de Finanzas, supervisará y evaluará de conformidad con lo dispuesto en el artículo 3 fracción XXIX del Código Financiero del Estado de México y Municipios y demás normativa aplicable, el cumplimiento de los fines de los fideicomisos públicos de carácter estatal e instrumentará en coordinación con las Dependencias competentes, el proceso de extinción para aquellos que hayan cumplido con su objeto, previa opinión y autorización de los órganos de decisión competentes de acuerdo a su naturaleza jurídica, con base en el procedimiento que establezca el ordenamiento o acto jurídico de su creación, la normativa aplicable y de conformidad con la reglamentación que al efecto se emita.
+
+QUINTO.- El derecho previsto en el artículo 106 Bis del Código Financiero del Estado de México y Municipios entrará en vigor a partir del 1º de febrero de 2025.
+
+SEXTO.- La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de su competencia y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el Artículo CUARTO del presente Decreto y de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
+
+Respecto de las operaciones de regularización previstas en los Programas establecidos en el Artículo CUARTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 95 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
