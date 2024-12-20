@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2024-11-22"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "COA"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -752,7 +754,9 @@ I. Inscribirse en el padrón del Municipio de su residencia.
 
 II. Votar en las elecciones populares en los términos que prescriban las leyes.
 
-III. Desempeñar los cargos de elección popular y el de jurado en asuntos judiciales, en la forma que establezca la ley.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III. Desempeñar los cargos de elección popular, en la forma que establezca la ley;
 
 IV. Alistarse en la Guardia Nacional y servir en ella en los términos que designe la ley respectiva.
 
@@ -775,6 +779,10 @@ Las candidaturas independientes se sujetarán a los requisitos, condiciones y t�
 (ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 19 DE FEBRERO DE 2016)
 
 Los coahuilenses podrán ejercer su derecho a votar, aún estando en territorio extranjero, acorde a las disposiciones legales en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+El derecho a elegir y a ser electo a un cargo de elección popular que forme parte del Poder Judicial del Estado, se sujetará a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución y demás leyes aplicables;
 
 II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejercer en ellos los derechos que las leyes les conceden.
 
@@ -937,6 +945,64 @@ g) El Instituto Electoral de Coahuila contará con una oficialía electoral inve
 EL TRIBUNAL ELECTORAL SERÁ, CON EXCEPCIÓN DE LO DISPUESTO EN LAS FRACCIONES I Y II DEL ARTÍCULO 158 DE ESTA CONSTITUCIÓN, LA MÁXIMA AUTORIDAD JURISDICCIONAL EN LA MATERIA Y ÓRGANO ESPECIALIZADO, EN LOS TÉRMINOS QUE ESTABLECE EL ARTÍCULO 136 DE ESTA CONSTITUCIÓN Y DEMÁS LEYES APLICABLES.
 
 7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 27 Bis.
+
+La renovación del Poder Judicial del Estado se realizará mediante elección libre y auténtica basada en el sufragio universal, directo, libre y secreto, conforme a las bases siguientes:
+
+I. En materia competencial:
+
+1. La convocatoria de la elección judicial, según corresponda, se realizará por el Congreso del Estado, o en sus recesos, por la Diputación Permanente, previa información de los cargos judiciales a elegir por parte del Poder Judicial, en los términos que establezca esta Constitución y las demás leyes aplicables;
+
+2. La inscripción de aspirantes, elegibilidad, participación y evaluación conforme a la garantía del perfil judicial idóneo, le corresponderá al Comité de Evaluación de cada poder que se conformen en los términos que establezca esta Constitución y la Ley;
+
+3. La selección de los listados de las candidaturas para elegir los cargos judiciales populares, le corresponderá de manera exclusiva a los poderes ejecutivo, legislativo y judicial, en los términos previstos por esta Constitución y las demás leyes aplicables;
+
+4. La preparación, organización, cómputo y calificación de la jornada del proceso judicial electoral le corresponderá de manera exclusiva al Instituto Electoral de Coahuila, en los términos que establezca esta Constitución y las demás leyes aplicables; y
+
+5. El (sic) Tribunal Electoral del Estado le corresponderá conocer y resolver las controversias que únicamente presenten las personas aspirantes y/o candidatas conforme a la Ley.
+
+II. En materia procedimental:
+
+1. El proceso electoral de la elección judicial se realizará mediante mecanismos públicos, abiertos, transparentes, inclusivos y accesibles previstos en la Ley para asegurar, en igualdad de condiciones, la participación de las personas interesadas que reúnan los requisitos establecidos en esta Constitución y demás leyes aplicables;
+
+2. La Ley establecerá la demarcación territorial para celebrar la jornada de la elección popular de los cargos judiciales de que se trate;
+
+3. La duración de las campañas para cualquier cargo judicial será de 20 ó 10 días, en los términos previstos en la Ley;
+
+4. La ley establecerá las restricciones, prohibiciones y sanciones aplicables a las personas candidatas, servidoras públicas y demás personas y/o instituciones, públicas o privadas, que contravengan las reglas del proceso judicial previstas en esta Constitución y demás leyes aplicables;
+
+5. El día de la jornada electoral se celebrará de manera ordinaria para conformar los órganos de elección popular del Poder Judicial del Estado, el primer domingo del mes de junio del año que corresponda de manera concurrente con los procesos electorales en que se renueve cualquiera de las Cámaras del Congreso de la Unión, salvo las elecciones judiciales extraordinarias o las que tengan por objeto conformar nuevos órganos judiciales que serán electos conforme a los plazos previstos en la convocatoria que expida el Congreso del Estado, o en sus recesos, la Diputación Permanente; y
+
+6. El primero de septiembre del año siguiente a la elección judicial iniciará de manera ordinaria las funciones judiciales de las personas electas por el período constitucional del cargo popular de que se trate, previa su toma de protesta en términos de Ley.
+
+III. En materia de derechos:
+
+1. Las personas candidatas a los cargos judiciales populares tendrán derecho de acceso a radio y televisión para difundir su imagen, conforme a la distribución del tiempo que les corresponda conforme a las leyes federales, a través del Instituto Nacional Electoral;
+
+2. Podrán participar en entrevistas, mesas de discusión o foros de debate organizados por el propio Instituto Electoral de Coahuila o en aquellos que se organicen de manera gratuita por el sector público, privado o social, en condiciones de equidad;
+
+3. La carrera judicial es la garantía para asegurar el perfil idóneo a los cargos judiciales populares mediante reglas meritocráticas de ingreso, formación, ascenso y permanencia del personal del Poder Judicial del Estado, en los términos que establezca esta Constitución y la Ley;
+
+4. La paridad de género es la garantía de igualdad entre hombres y mujeres que tiene por objeto conformar mediante acciones paritarias los cargos de elección popular del Poder Judicial, unipersonales y colegiados, en los términos que establezca la Ley; y
+
+5. Las personas electas tendrán derecho a las garantías judiciales previstas en esta Constitución y demás leyes aplicables, para asegurar su independencia judicial.
+
+IV. En materia de prohibiciones:
+
+1. Se prohíben los actos anticipados de campaña. La ley establecerá las sanciones correspondientes;
+
+2. Se prohíbe cualquier financiamiento público y/o privado. Solo se permiten los gastos personales de las personas candidatas que serán autorizados, auditados y sancionados por el Instituto Electoral de Coahuila, en los términos previstos por la Ley;
+
+3. Se prohíbe la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar las candidaturas;
+
+4. Los partidos políticos tienen prohibido participar en cualquier etapa del proceso judicial. En ningún caso, podrán intervenir, participar, observar o hacer proselitismo en el proceso electoral judicial, directa o indirectamente, ni mucho menos podrán expresarse, a través de sus dirigentes, liderazgos y/o militantes, a favor o en contra de las personas candidatas que participen en el proceso;
+
+5. Los funcionarios públicos deberán observar el principio de neutralidad gubernamental previsto en esta Constitución y demás leyes aplicables; y
+
+6. Los sindicatos, la iglesia y las personas extranjeras tienen prohibido hacer proselitismo electoral dentro del proceso.
 
 ###### Artículo 28.
 
@@ -1502,15 +1568,17 @@ XV. Recibir para su conocimiento las declaratorias de validez de las elecciones 
 
 XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
+XVII. Expedir la convocatoria, ordinaria o extraordinaria, para la elección de los cargos judiciales populares, en los términos de esta Constitución y la Ley;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
 Igualmente, integrar la lista de candidatos a Fiscal General de la (sic) Estado; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo del Estado, en los términos y conforme al procedimiento establecido en esta Constitución y leyes aplicables.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, así como de los miembros de los Ayuntamientos y Concejos Municipales.
+XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, así como de los miembros de los Ayuntamientos y Concejos Municipales. En caso de las renuncias de personas magistradas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial solamente procederán por causas graves y serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1524,9 +1592,9 @@ XX. Nombrar comisiones permanentes y especiales, para el estudio de los proyecto
 
 XXI. Conceder o negar permiso a los diputados para desempeñar algún empleo, cargo o comisión federal, estatal y municipal, de conformidad con el artículo 43 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XXII. Recibir la protesta de Ley a los Diputados, al Fiscal General del Estado, al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
+XXII. Recibir la protesta de Ley a las personas titulares del Congreso del Estado, del Poder Ejecutivo, de magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial y de la Fiscalía General del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1630,9 +1698,9 @@ XXXIX. Velar por la observancia de la Constitución y las leyes.
 
 Con este propósito, emitirá la ley reglamentaria que regule la justicia constitucional local a que se refiere el artículo 158 de esta Constitución.
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XL. Solicitar informes al Ejecutivo del Estado y al Supremo Tribunal de Justicia sobre asuntos de su competencia, cuando lo estime conveniente para el mejor ejercicio de sus funciones.
+XL. Solicitar informes al Poder Ejecutivo y al Poder Judicial del Estado sobre asuntos de su competencia, cuando lo estime conveniente para el mejor ejercicio de sus funciones;
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1750,9 +1818,9 @@ III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatu
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-V. Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
+V. Expedir la convocatoria, ordinaria o extraordinaria, para elegir a las personas titulares de los cargos de elección popular del Poder Judicial del Estado; así como recibir la protesta de Ley de su cargo, en los términos de esta Constitución y las demás leyes aplicables;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2048,9 +2116,9 @@ XXI. Sancionar con conocimiento de causa a los que infrinjan los reglamentos gub
 
 XXII. Nombrar apoderados para asuntos administrativos y judiciales que se tramiten dentro o fuera del Estado.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XXIII. Someter al Congreso del Estado, en los términos de esta Constitución y demás disposiciones aplicables, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje.
+XXIII. Autorizar y presentar ante el Instituto Electoral de Coahuila los listados de candidaturas que le corresponda para que se sometan a la elección popular de los cargos judiciales de que se trate, en los términos que establezca esta Constitución y las demás leyes;
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -2776,133 +2844,97 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 135.
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Tribunales Laborales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes. El Pleno del Tribunal Superior de Justicia se integrará con el número de magistraturas que establezca la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza. Será titular de su Presidencia, la persona magistrada que designe el Pleno por tres años, con posibilidad de ser reelecto por igual período. La representación del Poder Judicial recaerá en ella.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+El Poder Judicial del Estado contará con un Órgano de Administración Judicial, mientras que la vigilancia, disciplina, evaluación y contraloría de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que señala esta Constitución y demás leyes aplicables.
 
 El período constitucional de los integrantes del Poder Judicial será:
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+I. De nueve años, para las personas magistradas del Tribunal Superior de Justicia;
 
-I.- De quince años, para los Magistrados del Tribunal Superior de Justicia;
+II. De nueve años, para las personas magistradas del Tribunal de Disciplina Judicial;
 
-II.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
+III. De nueve años, para las personas magistradas de los Tribunales Distritales;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+IV. De nueve años, para las personas juzgadoras de primera instancia; y
 
-III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del estado y de los Tribunales Distritales, que se contará a partir de la fecha de su designación.
+V. De seis años, para las personas integrantes del Órgano de Administración Judicial.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-Al término del citado periodo las y los Magistrados del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del estado podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2007)</small>
-
-Al vencimiento de los periodos descritos en las fracciones anteriores, los Magistrados tendrán derecho a un haber por retiro en los términos que establezca la ley.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 136.
 
-La competencia, organización y atribuciones del Tribunal Superior de Justicia, así como facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo cinco años y podrá ser reelecto por igual término. Mientras ejerza su función no integrara sala.
+La competencia, organización, funcionamiento y atribuciones del Tribunal Superior de Justicia y demás órganos jurisdiccionales, así como las facultades, deberes, responsabilidades, licencias, retiros y demás comisiones de las personas magistradas o juzgadoras, se regirán por esta Constitución y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza. Las sesiones del Pleno y de las Salas serán públicas, en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2018)</small>
+El Tribunal Superior de Justicia se compondrá por trece integrantes electos popularmente, propietarios y suplentes, respectivamente. Funcionará en Pleno y en Salas, en los términos que establezca la Ley.
 
-El Tribunal Superior de Justicia se compondrá de dieciséis Magistrados y funcionará en Pleno o en Salas.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2018)</small>
-
-Se establecerá una Sala Regional del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Torreón y San Pedro de las Colonias y tendrá la competencia que determine la propia ley. Esta Sala Regional se integrará por cinco Magistrados numerarios y cinco Magistrados supernumerarios. El Presidente de la Sala Regional será integrante del Pleno.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-Los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Distritales no integrarán el Pleno.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-La competencia, procedimientos, organización del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los Tribunales Laborales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+Por cada listado de candidaturas propietarias del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, se elegirá también un listado de candidaturas suplentes que preferentemente se conformarán entre las personas del Poder Judicial para garantizar la carrera judicial, en los términos que establezca la Ley. Las magistraturas suplentes cubrirán las ausencias temporales o definitivas de los propietarios que correspondan en los términos de Ley, por el período constitucional de que se trate. Las ausencias definitivas y temporales de los demás cargos judiciales del Poder Judicial se suplirán en los términos que establezca la Ley.
 
 ###### Artículo 136-A.
 
-El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2024)
 
-I. Funcionará con una Sala Superior y Salas Especiales en los términos que establezca la Ley;
-
-II. La Sala Superior se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios;
-
-III. El Tribunal de Conciliación y Arbitraje será competente para conocer y resolver, en los términos de las leyes de la materia, los conflictos que se susciten entre:
-
-a. El Poder Legislativo y sus trabajadores;
-
-b. El Poder Ejecutivo y sus trabajadores;
-
-c. El Poder Judicial y sus trabajadores, con excepción de los del Tribunal Superior de Justicia, el que conocerá de los conflictos laborales con sus trabajadores;
-
-d. Los Municipios y sus trabajadores;
-
-e. Los organismos públicos autónomos y sus trabajadores;
-
-f. Los trabajadores al servicio de la Educación y sus Sindicatos, con cualquiera de los tres Poderes y organismos públicos autónomos.
-
-IV. El procedimiento de designación de los Magistrados del Tribunal de Conciliación y Arbitraje se sujetará a lo dispuesto por el artículo 146 de esta Constitución y demás disposiciones aplicables;
-
-V. Los Magistrados del Tribunal de Conciliación y Arbitraje deberán cumplir con los requisitos establecidos en el artículo 138 de esta Constitución y tener como mínimo tres años de experiencia acreditable en materia laboral;
-
-VI. El presidente del Tribunal de Conciliación y Arbitraje será elegido, de entre sus miembros, para ejercer el cargo por tres años y podrá ser reelecto por igual período;
-
-VII. La administración, vigilancia y disciplina del Tribunal de Conciliación y Arbitraje corresponderán, en los términos que señale la ley, al Consejo de la Judicatura. El Presidente del Tribunal de Conciliación y Arbitraje formará parte del Consejo de la Judicatura siempre con voz, y voto únicamente en los asuntos que le competan al Tribunal que preside.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 137.
 
-El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal de Conciliación y Arbitraje y los Tribunales Distritales, están facultados para formar jurisprudencia local en los términos que establezca la ley.
+El Pleno y las Salas del Tribunal Superior de Justicia del Estado, así como el Tribunal de Disciplina Judicial y los Tribunales Distritales, están facultados para formar jurisprudencia local, en los términos que establezca la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 138.
 
-Para ser nombrado Magistrado del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje se requiere:
+Para ser electo titular de una magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o del Tribunal Distrital, se requiere:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, y contar con treinta y cinco años de edad a la fecha de la convocatoria respectiva;
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+II. Contar al día de la publicación de la convocatoria respectiva con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+III. Gozar de buena reputación, buena fama y honorabilidad y tener una experiencia profesional jurídica acreditada de por lo menos diez años;
 
-II. Tener, cuando menos, treinta y cinco años cumplidos el día de su designación;
+IV. Haber residido en el estado durante el año anterior al día de la publicación de la convocatoria respectiva;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+V. Contar con la certificación de perfil judicial idóneo, por parte de la institución que se encargue de la formación judicial del Poder Judicial del Estado, en los términos que disponga la Ley;
 
-III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
+VI. Emitir por escrito una declaración de no conflicto de interés;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+VII. No haber ocupado el cargo de Secretaría del Ramo o su equivalente, en la Administración Pública Estatal, de la Fiscalía General del Estado, del Congreso del Estado o alguno de los cargos a que se refiere el artículo 97, fracción V de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de la convocatoria;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+VIII. No tener sentencia firme por la comisión intencional de delitos contra la función pública, la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
+IX. No ser declarada, por juez competente, como persona deudora alimentaria morosa, o culpable de sanción administrativa o pena de inhabilitación del cargo público, o suspendida de sus derechos políticos, en los términos de Ley; y
 
-V. Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+X. Los demás que establezca la Ley.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-VI. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, de Fiscal General del Estado, de Diputado local, de Presidente Municipal o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
-
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 139.
 
-Los requisitos para ser Juez serán determinados en la ley de la materia.
+Para ser electo Juez de Primera Instancia se requiere:
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar el día de la publicación de la convocatoria con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente. En caso de aspirar a un juzgado especializado señalado en la convocatoria respectiva, se deberá tener en la licenciatura, especialidad, maestría o doctorado, según corresponda, nueve puntos o equivalente en las materias relacionadas con el cargo especializado al que se postula;
+
+III. Gozar de buena reputación, buena fama y honorabilidad y tener una experiencia profesional jurídica acreditada de por lo menos cinco años;
+
+IV. Haber residido en el estado durante el año anterior al día de la publicación de la convocatoria respectiva;
+
+V. Contar con la certificación de perfil judicial idóneo, por parte de la institución encargada de la formación judicial del Poder Judicial del Estado, en los términos que disponga la Ley;
+
+VI. Emitir por escrito una declaración de no conflicto de interés;
+
+VII. No haber ocupado el cargo de Secretaría del Ramo o su equivalente, en la Administración Pública Estatal, de la Fiscalía General del Estado, del Congreso del Estado o alguno de los cargos a que se refiere el artículo 97, fracción V de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de la convocatoria;
+
+VIII. No tener sentencia firme por la comisión intencional de delitos contra la función pública, la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+IX. No ser declarada, por juez competente, como persona deudora alimentaria morosa, o culpable de sanción administrativa o pena de inhabilitación del cargo público, o suspendida de sus derechos políticos, en los términos de Ley; y
+
+X. Los demás que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2916,107 +2948,127 @@ El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde
 
 La Justicia se imparte en nombre del pueblo y se administra por el Estado a través de la función jurisdiccional, ejercida por Magistrados y Jueces integrantes del Poder Judicial, independientes, imparciales, responsables, profesionales y sometidos únicamente al imperio de esta Constitución y la ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Es obligatorio para toda autoridad cumplir las sentencias y demás resoluciones de los órganos del Poder Judicial del Estado, así como prestar la colaboración requerida por éstos. La autoridad requerida está obligada a proporcionar las garantías, recursos y elementos necesarios para hacer efectiva la orden judicial.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 142.
 
-Es obligatorio para toda autoridad, cumplir las sentencias y demás resoluciones firmes del Tribunal Superior de Justicia, de las Salas que lo integran, de los Magistrados y de los Jueces, así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, sin ponderar su bondad, debe proporcionar los elementos necesarios para ello.
+El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica y de gestión para emitir sus resoluciones que le correspondan conforme a la Ley, el cual se regirá conforme a las bases siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+I. El Tribunal de Disciplina se integrará por tres personas electas popularmente, en los términos de esta Constitución y la Ley. La Presidencia del Tribunal se renovará en los términos que establezca la Ley;
+
+II. Las magistraturas del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durarán nueve años en su encargo. No podrán ser electos para un nuevo período. Durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución;
+
+III. Para ser elegibles, las personas Magistradas del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados para las personas Magistradas del Tribunal Superior de Justicia y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades;
+
+IV. El Tribunal de Disciplina Judicial funcionará en Pleno o en Ponencias. El Pleno será la autoridad máxima en los términos que establezca la Ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar por denuncia u oficio el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos; ordenar medidas cautelares y de apremio; y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo y excelencia, además de los asuntos que la ley determine. En todo caso, la Ley establecerá con certeza las faltas administrativas judiciales, sus sanciones y el procedimiento respectivo con garantía de audiencia;
+
+V. El Tribunal conducirá sus investigaciones a través de una unidad técnica e imparcial, responsable de integrar y presentar al Pleno o a sus ponencias los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes. El titular de esta unidad será designado en los términos que establezca La ley, con base en los principios de publicidad, imparcialidad e independencia;
+
+VI. El Tribunal desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de ponencias, que fungirán como autoridad unipersonal substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso ordinario alguno en contra de estas;
+
+VII. El Tribunal Pleno podrá dar vista al Ministerio Público competente ante la posible comisión de delitos. Sin perjuicio de sus atribuciones sancionadoras, podrá solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado;
+
+VIII. El Tribunal Pleno podrá sancionar actos de personas físicas o morales privadas cuando determine que hay conductas que afecten la administración de la justicia, en los términos que establece la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
+
+IX. Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de las personas Magistradas del Tribunal Superior de Justicia y de los propios del Tribunal, que serán sujetas de responsabilidad política conforme a esta Constitución y la Ley General de Responsabilidades Administrativas;
+
+X. El Tribunal Pleno de Disciplina Judicial podrá solicitar al Pleno del Tribunal Superior de Justicia o al Órgano de Administración Judicial, según corresponda, la expedición de iniciativas de ley o reformas, reglamentos, acuerdos generales o la ejecución de las resoluciones que considere necesarias para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia;
+
+XI. El Tribunal Pleno evaluará, con el auxilio de la institución encargada de la formación judicial del Poder Judicial del Estado, el desempeño judicial. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación. La ley señalará las áreas que participen en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+1. De fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación; y
+
+2. De sanción cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+XII. Para garantizar el principio de justicia pronta y expedita en los términos y plazos previstos en esta Constitución y las leyes aplicables para asegurar la garantía de breve juicio, las personas interesadas en los juicios respectivos podrán presentar excitativa de justicia ante el Tribunal de Disciplina Judicial, a fin de que el órgano jurisdiccional de que se trate rinda de inmediato un informe y justifique las razones de la demora, en los términos que establezca la Ley;
+
+XIII. El Tribunal de Disciplina Judicial conocerá y resolverá de asuntos, de oficio o a petición de parte, para establecer si los litigantes realizaron acciones tendientes a prolongar, dilatar u obstaculizar en forma indebida la sustanciación o resolución del juicio, en cuyo caso serán sancionados en términos de la Ley; y
+
+XIV. El Tribunal Pleno de Disciplina Judicial conocerá y resolverá de los conflictos laborales entre el Poder Judicial del Estado y todos sus servidores públicos conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 143.
 
-El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
+El Órgano de Administración Judicial será un órgano del Poder Judicial responsable de la administración, de la carrera judicial, del servicio profesional, así como de los demás servicios no jurisdiccionales del Poder Judicial, conforme a las bases siguientes:
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+I. Contará con independencia técnica y de gestión. Tendrá a su cargo la determinación de la adscripción de las magistraturas del Tribunal Distrital, de las personas juzgadoras de primera instancia, cualquiera que sea su denominación; de igual forma determinará la competencia, número, división de distrito judiciales (sic), competencia territorial y especialización por materias de los Tribunales Distritales y juzgados de primera instancia; el ingreso, permanencia y separación del personal de carrera judicial y servicio profesional, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; los procedimientos de gestión judicial y apoyo a la función jurisdiccional; y las demás que establezcan las leyes;
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. El Presidente del Tribunal de Conciliación y Arbitraje, formará parte siempre del Consejo con voz, pero sólo tendrá voto cuando se trate de asuntos relativos al Tribunal que preside.
+II. El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto del Gobernador del Estado; uno por el Congreso del Estado y tres por el Pleno del Tribunal Superior de Justicia del Estado de Coahuila. La coordinación se elegirá en los términos que establezca la Ley;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+III. Quienes integren el Pleno del Órgano de Administración Judicial deberán tener la ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años en las actividades relacionadas con las funciones del órgano de administración judicial; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por los delitos previstos en el artículo 138, fracción VII, de esta Constitución;
 
-Los consejeros deberán reunir los requisitos para ser magistrados y durarán tres años en su cargo, salvo su Presidente. Por cada uno de los consejeros, habrá un suplente.
+IV. Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Título Séptimo de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al período de designación respectivo;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+V. La Ley establecerá las bases para la formación, evaluación, certificación y actualización del personal judicial, así como para el desarrollo de la carrera judicial y servicio profesional, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género;
 
-Las ausencias temporales del Presidente, serán suplidas por el Consejero Magistrado del Tribunal Superior.
+VI. El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y servicio profesional del Poder Judicial del Estado, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial, así como para elaborar y aplicar los exámenes de conocimientos para poder participar en la selección de las candidaturas de la elección judicial popular, en los términos de las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+VII. El servicio jurídico de defensoría en asuntos del fuero común será proporcionado por el Órgano de Administración Judicial, a través del Instituto que se encargue de la defensoría pública, en los términos que establezca la Ley;
 
-Los consejeros ejercerán su función con independencia e imparcialidad y durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
+VIII. Los demás servicios de conciliación, mediación o cualquier otro de justicia alternativa o servicios no jurisdiccionales se prestarán por la institución que determine la Ley;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+IX. De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Órgano de Administración Judicial, a solicitud del Pleno del Tribunal Superior de Justicia, podrá concentrar en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia;
 
-El Consejo designará a cinco abogados de reconocido prestigio en el Estado para que integren un Comité Consultivo que funcionará según lo disponga la ley.
+X. Las decisiones del Órgano de Administración Judicial se tomarán por mayoría de votos y serán definitivas e inatacables por recurso ordinario; y
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+XI. En el ámbito del Poder Judicial del Estado de Coahuila, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
-El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, readscripción y remoción de Magistrados de Tribunales Distritales y Jueces, así como de los demás asuntos que la ley determine y estará facultado para expedir los reglamentos y acuerdos generales con el fin de regular el adecuado funcionamiento del Poder Judicial, de conformidad con lo que establezca la ley. Las comisiones tendrán la duración, objeto y funciones que acuerde el Pleno del Consejo.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-Las decisiones del Consejo se tomarán por mayoría de votos y serán definitivas e inatacables.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 144.
 
-De conformidad con las bases que esta Constitución establece, la Ley Orgánica del Poder Judicial regulará el estatuto jurídico de los Magistrados y Jueces de carrera, que formarán un cuerpo único, y del personal de servicio de la administración de justicia, así como las condiciones para su ingreso, formación, permanencia, ascenso y retiro.
+La Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, regulará el Estatuto Jurídico que formarán un cuerpo único de los titulares de la función judicial y del personal de carrera judicial y servicio profesional de la administración de justicia, así como las condiciones para su ingreso, ascenso, permanencia y retiro.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+La formación y actualización de los servidores públicos judiciales estará a cargo de la escuela de formación judicial que es la garantía de la carrera judicial y del servicio profesional de carrera, los cuales se regirán por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y honorabilidad.
 
-La formación y actualización de los servidores públicos judiciales, estará a cargo del Consejo de la Judicatura, así como el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y honorabilidad.
-
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 145.
 
-Los nombramientos de los Magistrados y Jueces, integrantes del Poder Judicial, serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Las listas de candidaturas que realicen libremente los Poderes del Estado a los cargos judiciales populares serán preferentemente entre aquellas personas que hayan prestado sus servicios en la administración de justicia con eficiencia y probidad, o por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, en los términos que establece esta Constitución y la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 146.
 
-Los nombramientos de los magistrados del Tribunal Superior de Justicia serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
+Las personas magistradas y juzgadoras del Poder Judicial del Estado serán electas conforme a las bases previstas en esta Constitución y al siguiente procedimiento:
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
+I. El Congreso del Estado o, en sus recesos, la Diputación Permanente, expedirá la convocatoria después del mes de junio del año anterior al de la jornada de la elección judicial que corresponda. La convocatoria contendrá las etapas completas del proceso, el calendario, los plazos definitivos e improrrogables, los cargos a elegir y demás bases que establezca la legislatura conforme a la Ley;
 
-El procedimiento de designación de los magistrados del Tribunal de Conciliación y Arbitraje se hará en base a la propuesta que haga el Consejo de la Judicatura entre las ternas que le hayan presentado los Poderes del Estado, organismos públicos autónomos, Municipios y los trabajadores por conducto de sus representantes sindicales, en los términos de la ley de la materia.
+II. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado o la Diputación Permanente, según corresponda, los cargos sujetos a elección judicial, la especialización por materia y demás información que se requiera;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+III. Cada Poder integrará el Comité de Evaluación en los términos de Ley, conformado por tres personas reconocidas en la actividad jurídica, que recibirán los expedientes de las personas aspirantes, dictaminará el cumplimiento de los requisitos de elegibilidad y evaluará con el dictamen de idoneidad a las mejores personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. El Comité se encargará de remitir a cada poder el listado de las personas que reúnan este perfil idóneo judicial, en los términos que establezca la Ley;
 
-Cuando el Congreso o la Diputación Permanente no resuelva dentro del término que se señala para el efecto, se tendrán por aprobados los nombramientos.
+IV. Los Poderes del Estado postularán en un listado el número de candidaturas que corresponda para conformar cada órgano judicial, conforme a la Ley;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+V. El Instituto Electoral recibirá de cada poder los listados de las candidaturas a los cargos judiciales a elegir, conforme al plazo señalado en la convocatoria en los términos de Ley, para integrar las boletas;
 
-La lista de Candidatos podrá ser rechazada por el Ejecutivo en una sola ocasión, en cuyo caso el Consejo de la Judicatura someterá a su consideración una nueva para que formule nuevo nombramiento.
+VI. Las personas candidatas podrán registrarse y ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+VII. El Instituto Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a los listados de las candidaturas que obtengan el mayor número de votos; y
 
-En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego en sus funciones el Magistrado Provisional.
+VIII. En todo caso, se incorporará de manera directa a los listados de candidaturas que se remita al Instituto Electoral de Coahuila a las personas que se encuentren en funciones en los cargos judiciales a elegir o reelegir, excepto cuando manifiesten la declinación de su candidatura, renuncien, retiren o sean postuladas para un cargo diverso, en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 147.
 
-Los Magistrados Distritales, los Jueces de Primera Instancia, cualquiera que sea su denominación, y los titulares de los demás órganos jurisdiccionales que integran el Poder Judicial, serán nombrados por el Consejo de la Judicatura del Estado, en los términos previstos por la propia Ley.
+Los Magistrados Distritales, los Jueces de Primera Instancia, cualquiera que sea su denominación, y los titulares de los demás órganos jurisdiccionales que integran el Poder Judicial, serán nombrados en los términos previstos en esta Constitución y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
 ### CAPITULO II.. De las Garantías de la Función Jurisdiccional
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 148.
 
-Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-Los Magistrados Distritales, las y los Jueces Laborales y los de Primera Instancia, cualquiera que sea su denominación, lo harán ante el Consejo de la Judicatura o ante el titular del Órgano Judicial que él autorice.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
-
-De igual manera lo harán los demás titulares de los órganos jurisdiccionales que con cualesquiera otros nombres establezcan las leyes.
+Las personas titulares del Poder Judicial del Estado, así como los integrantes del Órgano de Administración Judicial, rendirán protesta conforme a esta Constitución y la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -3024,13 +3076,15 @@ De igual manera lo harán los demás titulares de los órganos jurisdiccionales 
 
 La Ley establecerá el régimen de incompatibilidad de los miembros del Poder Judicial, que asegurará la total independencia de los mismos.
 
-También establecerá el régimen de sustituciones de tal manera que las faltas temporales o absolutas del personal al servicio de la administración de justicia, sean cubiertas oportunamente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+Las personas titulares de cargos judiciales no podrán, dentro del siguiente año a la fecha de su conclusión del cargo o retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 150.
 
-Los Magistrados al cumplir un período constitucional, en los términos del artículo 135, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Sexto de esta Constitución. Los requisitos y condiciones para la permanencia de los Jueces, se determinarán en la Ley Orgánica del Poder Judicial.
+Los Magistrados y Jueces al cumplir un período constitucional, en los términos del artículo 135, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Séptimo de esta Constitución. El procedimiento de la reelección se establecerá en la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -3042,31 +3096,23 @@ I. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2015)
 
 II. Padecer incapacidad física incurable o mental, incluso cuando esta fuese parcial o transitoria.
 
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 152.
 
-El Tribunal Superior de Justicia, por conducto de su Presidente, propondrá ante el Ejecutivo el proyecto de presupuesto de egresos del Poder Judicial, para que, si lo encuentra adecuado a los recursos financieros disponibles, lo haga llegar ante el Congreso del Estado.
+El Órgano de Administración Judicial, a través de su Coordinador, propondrá ante el Pleno del Tribunal Superior de Justicia el proyecto de presupuesto de egresos del Poder Judicial, para su discusión y aprobación, a fin de que sea presentando por conducto de la Presidencia del Tribunal Superior de Justicia ante el Ejecutivo, para que lo incluya en el Presupuesto de Egresos del Estado.
 
-Los recursos que se asignen para satisfacer el presupuesto aprobado, serán administrados directamente por el Poder Judicial.
+Los recursos materiales, humanos y financieros que se asignen para satisfacer el presupuesto aprobado por el Congreso del Estado serán administrados directamente por el Órgano de Administración Judicial, en términos de la Ley.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1998)</small>
-
-El Congreso del Estado revisará la relación de gastos, que el Presidente del Tribunal deberá presentar dentro del término que disponga la Ley, y si encontrare discrepancia entre las cantidades gastadas y las partidas autorizadas, o no existiera exactitud y justificación de los gastos hechos, determinará la responsabilidad de acuerdo a la Ley.
-
-> <small>(F. DE E., P.O. 5 DE JULIO DE 1988)</small>
-
-Los ingresos que se produzcan por la administración de valores, por el pago de multas impuestas por los órganos del Poder Judicial o por cualquier otra prestación autorizada por la Ley que se genere con motivo de su función, serán aplicados íntegramente al mejoramiento de la administración de justicia.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 153.
 
-Los Magistrados y Jueces recibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Las personas magistradas y juzgadoras percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente conforme al artículo 127 de la Constitución Federal, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(F. DE E., P.O. 5 DE JULIO DE 1988)</small>
+No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos dentro del Poder Judicial, sin que estas se encuentren asignadas por la Ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, conforme al artículo 127 de la Constitución Federal.
 
-Esta remuneración les será cubierta en los términos que establezcan las leyes, con todas las prestaciones y en igual cantidad como si estuviesen en activo, en los casos de pensión, jubilación, retiro obligatorio e incapacidad declarada. En caso de defunción, de ella disfrutarán sus beneficiarios.
+Las personas magistradas, juzgadoras y demás personal del Poder Judicial del Estado tendrán derecho a una pensión en los términos, condiciones y límites establecidos en la Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -4070,11 +4116,11 @@ Las leyes aplicables, sancionarán el enriquecimiento ilícito con el decomiso, 
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado de Coahuila de Zaragoza; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado de Coahuila de Zaragoza; los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial; los integrantes del órgano de administración judicial; los Magistrados del Tribunal Electoral; los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -4118,7 +4164,9 @@ Si el servidor público ha vuelto a ejercer sus funciones propias o ha sido nomb
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Delitos por Hechos de Corrupción; de la secretaría del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; el Presidente del Instituto Coahuilense de Acceso a la Información; así como por un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana, que será quien presida el Comité de Coordinación en los términos que establece la ley de la materia.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Delitos por Hechos de Corrupción; de la secretaria del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; el Presidente del Instituto Coahuilense de Acceso a la Información; así como por un representante del Tribunal de Disciplina Judicial y otro del Consejo de Participación Ciudadana, que será quien presida el Comité de Coordinación en los términos que establece la ley de la materia.
 
 II. El Consejo de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -6151,3 +6199,127 @@ Se deberán llevar a cabo las adecuaciones necesarias a la Ley Orgánica de la F
 ###### ARTÍCULO TERCERO.
 
 Una vez creada la Fiscalía a que se refiere el presente Decreto, se deberá establecer anualmente en el Presupuesto de Egresos del Estado de Coahuila de Zaragoza, los recursos necesarios para el eficaz ejercicio de sus funciones, de conformidad con la disponibilidad presupuestaria y las normas legales y administrativas aplicables en la materia.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 218.- SE MODIFICAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado, en los términos y modalidades que establece (sic) las reglas transitorias de este Decreto conforme al artículo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado el 15 de septiembre del año en curso en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado realizará las adecuaciones secundarias al régimen interno, conforme a los siguientes términos y modalidades:
+
+I. El Congreso del Estado deberá discutir y, en su caso, aprobar en el mes de diciembre de 2024, las adecuaciones necesarias al Código Electoral y la Ley de Medios de Impugnación en Materia Político-Electoral y de Participación Ciudadana, ambas para el Estado de Coahuila de Zaragoza, para ser promulgadas en tiempo y forma por el titular del Poder Ejecutivo del Estado a fin de garantizar la Elección Extraordinaria a celebrarse el 1 de junio de 2025, para elegir los cargos populares del Poder Judicial del Estado que se determinen conforme a la Convocatoria que expida el Congreso del Estado o, en sus recesos, la Diputación Permanente, en los términos de este Decreto y demás disposiciones legales aplicables.
+
+II. Para las iniciativas de ley que resulten necesarias para cumplir este Decreto, el Congreso del Estado tendrá hasta 100 días naturales, a partir de la entrada en vigor de este Decreto, para expedir la siguiente legislación:
+
+1. La Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, y
+
+2. Las demás leyes que resulten necesarias.
+
+III. Para las restantes reformas, derogaciones y/o adiciones a la legislación secundaria del Estado que, en su caso, resulten aplicables adecuar conforme a este Decreto, el Congreso del Estado podrá aprobarlas dentro del plazo de un año contado a partir de su entrada en vigor;
+
+IV. En tanto entran en vigor de manera plena este Decreto, la nueva legislación judicial, las reformas y/o adiciones aplicables conforme a este artículo transitorio, seguirá vigente y aplicándose, en lo conducente y de manera ultra activa y retrospectivamente, las normas constitucionales, legales y reglamentarias del Estado vigentes con anterioridad a este Decreto, con la finalidad de asegurar la organización y el funcionamiento adecuado del Poder Judicial, así como los derechos laborales de que se trate, y
+
+V. El Tribunal de Conciliación y Arbitraje a que se refiere el artículo 136-A que deroga este Decreto, se convertirá en el órgano de Conciliación y Arbitraje que se integrará, funcionará y se adscribirá al Poder Ejecutivo en los términos que establezca la Ley, para conocer y resolver la conciliación, arbitraje y demás controversias laborales que se susciten en el régimen interno del estado, con base en el apartado B del artículo 123 de la Constitución Federal, para asegurar la protección de los derechos laborales de las Personas Trabajadoras al Servicio Público del Estado, salvo las del Poder Judicial que le corresponderá al Tribunal de Disciplina Judicial.
+
+Los asuntos pendientes de resolución en este Tribunal seguirán resolviéndose conforme a las disposiciones vigentes con anterioridad, mientras se expiden las reformas correspondientes. En todo caso, el Poder Judicial, a través del Consejo de la Judicatura, acordará con el Poder Ejecutivo un plan de transferencia de los recursos materiales, humanos y financieros del Tribunal de Conciliación y Arbitraje.
+
+###### ARTÍCULO TERCERO.
+
+Para la renovación de la totalidad de los cargos de elección popular del Poder Judicial del Estado en los procesos 2025 y 2027, respectivamente, se observarán, conforme a este Decreto, los términos y modalidades siguientes:
+
+I. Para llevar a cabo la jornada electoral del primero de junio de 2025 de la Elección Extraordinaria, se observarán las reglas siguientes:
+
+1. El Proceso Electoral Judicial 2024-2025 para el régimen local dará inicio el veinte de diciembre de dos mil veinticuatro, por lo que a partir de esa fecha todos los días y horas son hábiles para las actuaciones de las autoridades que se encargarán de este proceso conforme a este Decreto y se regirá por las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución, el Código Electoral de Coahuila, la Ley de Medios de Impugnación en Materia Político Electoral y de Participación Ciudadana y demás disposiciones aplicables.
+
+2. Se autoriza habilitar y facultar expresamente desde el inicio del proceso, para que, en forma urgente, puedan sesionar o reunirse válidamente el Congreso del Estado, a través de la Diputación Permanente, la Junta de Gobierno, la Comisión de Gobernación, Puntos Constitucionales y Justicia, según corresponda; el Poder Judicial del Estado, a través del Pleno del Tribunal Superior de Justicia o el Consejo de la Judicatura, según corresponda; y el Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, a fin de que se emitan los actos, acuerdos o lineamientos necesarios para implementar este Decreto.
+
+3. En términos de lo dispuesto por el párrafo tercero del artículo Octavo Transitorio del Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Reforma del Poder Judicial, publicado en el Diario Oficial de la Federación el quince de septiembre de dos mil veinticuatro, no será aplicable lo dispuesto en el penúltimo párrafo de la fracción II del artículo 105 de la Constitución Federal.
+
+4. El Congreso del Estado o, en sus recesos, la Diputación Permanente, expedirá la Convocatoria General de la Elección Judicial Extraordinaria, por esta única ocasión, una vez que determine el Pleno del Tribunal Superior de Justicia los cargos a elegir en la jornada electoral del primero de junio de 2025, el cual deberá informar oportunamente al Poder Legislativo los cargos a elegir en la jornada electoral del primero de junio de 2025 y demás información necesaria, para la elaboración de la Convocatoria General que se expedirá a más tardar dentro de los diez días naturales siguientes al inicio de este proceso electoral.
+
+5. Los Poderes del Estado, a partir del inicio del proceso electoral, crearán e instalarán libremente sus Comités de Evaluación, a más tardar el siete de enero del dos mil veinticinco para que inicien sus funciones, expidan de inmediato sus convocatorias y se implementen las diversas etapas previstas en esta Constitución y en el Código Electoral para el Estado de Coahuila de Zaragoza, con las modalidades, requisitos y excepciones previstos en la Convocatoria General y que, además, determinen los propios Comités por razón del tiempo.
+
+6. En la Convocatoria General además de cumplir, en lo conducente, las disposiciones previstas en este Decreto y el Código Electoral, el Congreso de Estado deberá establecer los plazos y fechas improrrogables que serán especiales, por esta única ocasión, para llevar a cabo de manera pronta y expedita:
+
+a) La etapa de convocatoria pública para el registro de aspirantes a cargo de los Comités de Evaluación;
+
+b) La etapa del dictamen de elegibilidad a cargo de los Comités de Evaluación;
+
+c) La etapa del dictamen de idoneidad a cargo de los Comités de Evaluación;
+
+d) La publicación de la lista de los mejores perfiles calificados a cargo de los Comités de Evaluación, y su envío a los poderes del Estado;
+
+e) El período del registro para la presentación de los listados de las candidaturas judiciales por parte de cada uno de los poderes ejecutivo, legislativo y judicial, ante el Instituto para asegurar la preparación de la jornada electoral;
+
+f) El plazo fatal en el que los funcionarios judiciales en funciones solicitarán a los Poderes del Estado su derecho a la incorporación a los listados de las candidaturas, en los términos que establezca el Código Electoral.
+
+7. En la Convocatoria General se establecerán los criterios que los Comités de Evaluación deberán seguir de manera uniforme para homologar los méritos y la calificación de los mejores perfiles a seleccionar, para asegurar la igualdad de condiciones.
+
+8. El Pleno del Tribunal Superior de Justicia, una vez de (sic) inicie el proceso electoral judicial y en coordinación con el Congreso del Estado, establecerá e informará oportunamente el acuerdo que determine los términos y modalidades de los cargos a elegir en la jornada electoral del primero de junio de dos mil veinticinco, a fin de que el Congreso del Estado pueda emitir, en forma urgente, la Convocatoria General respectiva para que puedan iniciar sus funciones, en los términos de la Constitución Local, el primer día hábil del inicio del Segundo Período Ordinario de Sesiones del Tribunal Superior de Justicia, previa toma de protesta de Ley. Los cargos judiciales populares que no vayan a la elección por acuerdo del Pleno del Tribunal se renovarán a más tardar el primero de junio del dos mil veintisiete, en los términos de la Convocatoria General respectiva.
+
+9. Una vez que el Congreso del Estado reciba del Pleno del Tribunal la información anterior para llevar a cabo la elección, se turnará y citará de manera urgente a la Comisión de Gobernación, Puntos Constitucionales y Justicia, para la elaboración del proyecto de la Convocatoria General que deberá aprobar el Congreso en los términos previstos en este Decreto.
+
+10. La preparación, organización, validación e impugnación de las elecciones judiciales estarán a cargo del Instituto Electoral y el Tribunal Electoral del Estado, conforme a este Decreto y demás disposiciones aplicables.
+
+11. Para la elección extraordinaria solo se establecerá una circunscripción estatal única para facilitar la votación, la boleta y la jornada electoral en todo el Estado.
+
+12. En el Presupuesto de Egresos para el ejercicio fiscal del año siguiente, el Congreso del Estado aprobará la partida que corresponda para llevar a cabo la elección judicial extraordinaria.
+
+13. Las personas que se encuentren en funciones en los cargos a elegir, serán incorporadas en los términos y plazos que establezca este Decreto, el Código Electoral y la Convocatoria General, a los listados de candidaturas para participar en el Proceso Extraordinario 2025, excepto cuando renuncien, se retiren en forma anticipada, declinen su participación antes del registro de las candidaturas o sean postuladas para un cargo diverso. En caso de no resultar electas por la ciudadanía para ejercer el cargo concerniente a la postulación por un nuevo período, concluirán su encargo en la fecha establecida para el inicio de las funciones por las personas servidoras públicas que resulten de la elección extraordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
+
+14. Respecto al requisito de certificado de perfil idóneo previsto en los artículos 138 y 139, fracciones V, de este Decreto, por única ocasión para participar en el Proceso Electoral Extraordinario 2025, el mismo será cumplido con la certificación o evaluación equivalente que determine el actual Instituto de Especialización Judicial del Poder Judicial en los términos siguientes:
+
+a) Las personas aspirantes, a partir del inicio del proceso judicial electoral, podrán solicitar ante el Pleno dicha certificación, con los documentos que estimen convenientes para acreditar su perfil judicial idóneo, a fin de que el Instituto de Especialización Judicial expida la certificación en tiempo y forma antes de que inicie el período de registro de aspirantes.
+
+b) En caso de que el aspirante no obtenga la certificación correspondiente, deberá manifestarlo así en su solicitud para que el Comité de Evaluación de que se trate determine la fecha del examen correspondiente, con auxilio del Instituto de Especialización Judicial, según el cargo judicial a aspirar. Si el aspirante no obtiene una calificación mínima de 80/100, el Comité de Evaluación lo declarará inelegible e inidóneo.
+
+c) Para la elección judicial de la jornada de primero de junio de dos mil veintisiete, la certificación del perfil idóneo se cumplirá en la forma que determine la escuela de formación judicial conforme los programas o cursos que se convoquen para tal efecto.
+
+15. El Tribunal Superior de Justicia, los Tribunales Distritales, los Juzgados de Primera Instancia, cualquiera que sea su denominación, que resulten electos o que continúen con el ejercicio de su encargo, seguirán funcionando conforme a las reglas transitorias, ultraactivas y retrospectivas, de la fracción IV del Artículo Segundo Transitorio de este Decreto, mientras se adecúa la nueva legislación que ordena este Decreto.
+
+16. En el caso de las personas magistradas supernumerarias que estén en funciones al momento de la publicación del presente Decreto, su encargo se prórroga hasta la toma de protesta de las personas magistradas electas en la jornada del primero de junio del 2025 que iniciarán sus funciones el primer día hábil del inicio del Segundo Período de Sesiones del Tribunal Pleno.
+
+II. Para llevar a cabo la Elección Extraordinaria Judicial Local 2026-2027, que tendrá lugar el día de la elección federal ordinaria del año 2027, se observarán las reglas que establezca la legislación local aplicable, pero en todo caso el Congreso del Estado o, en sus recesos, la Diputación Permanente, expedirá la convocatoria respectiva conforme a este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Electoral de Coahuila, en forma extraordinaria, podrá emitir los acuerdos que estime necesarios para la preparación, organización y desarrollo de las elecciones judiciales 2025 y 2027, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género que establece este Decreto.
+
+Los partidos políticos, nacionales y locales, no podrán participar en ningún caso en las acciones, sesiones, reuniones, debates, casillas, centros de votación o cualquier actividad relacionada con este proceso judicial electoral.
+
+El Instituto Electoral, en lo conducente, se coordinará con el Instituto Nacional Electoral para llevar a cabo el proceso judicial conforme al Código Electoral de Coahuila.
+
+El Instituto Electoral podrá realizar las adecuaciones presupuestales necesarias para el cumplimiento de este Decreto. Las elecciones extraordinarias se ajustarán al principio de austeridad conforme a la disponibilidad presupuestaria.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura del Estado vigente con anterioridad a este Decreto continuará ejerciendo sus facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial del Estado de Coahuila de Zaragoza, hasta en tanto se efectúe la elección de las personas Magistradas del Tribunal de Disciplina Judicial y se designen a las personas integrantes del órgano de administración judicial, en los términos de este Decreto y la nueva legislación.
+
+Previo a la entrada en funciones del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, el Consejo de la Judicatura implementará en su momento un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial; y al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas, de carrera judicial, servicio profesional y demás funciones aplicables.
+
+El Consejo de la Judicatura aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos y términos que establezca la Ley.
+
+El Consejo de la Judicatura continuará la substanciación y resolución de los procedimientos que se encuentren pendientes hasta la entrada en funciones de los nuevos órganos y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración del Poder Judicial, según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado de Coahuila de Zaragoza que estén en funciones al momento de la entrada en vigor del presente Decreto, no podrán ser mayores a la establecida para la persona Presidenta de la República para el Presupuesto de Egresos 2026, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos en los casos que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado de Coahuila de Zaragoza serán respetados en su totalidad conforme a las normas constitucionales, legales y reglamentarias vigentes al momento de su designación, con base en el Artículo Décimo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado el 15 de septiembre del año en curso en el Diario Oficial de la Federación, a fin de que las jubilaciones o pensiones por retiro anticipado se asignen con base en la Constitución Local, la Ley, el decreto legislativo, contrato colectivo o condiciones generales de trabajo que establece el artículo 127, fracción IV, de la Constitución Federal. Las personas juzgadoras en funciones que tengan derecho a un retiro anticipado por jubilación o pensión concluirán su encargo una vez que inicien sus funciones las personas electas en la elección extraordinaria de que se trate.
+
+El Consejo de la Judicatura, o en su caso, el Órgano de Administración Judicial emitirá los acuerdos necesarios para garantizar los derechos laborales previos conforme a las normas constitucionales locales, contratos colectivos o condiciones generales de trabajo vigentes con anterioridad.
+
+###### ARTÍCULO OCTAVO.
+
+Para la implementación y aplicación de este Decreto, los órganos del Estado de Coahuila de Zaragoza y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan y quedan sin efecto, todas las disposiciones que contravengan este Decreto.
