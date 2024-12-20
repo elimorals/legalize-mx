@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2024-11-15"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -173,9 +173,9 @@ III. TERCER CIRCUITO:
 
 2. Dos tribunales colegiados de apelación con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 10/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 24/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-3. Treinta y un juzgados de Distrito especializados: siete en materia penal con residencia en Puente Grande; ocho en materia administrativa, siete con residencia en Zapopan y uno con sede en Puente Grande; ocho en materia civil con residencia en Zapopan; y ocho en materia de trabajo, siete con sede en Zapopan y uno con residencia en Puente Grande.
+3. Treinta y un juzgados de Distrito especializados: siete en materia penal con residencia en Puente Grande; ocho en materia administrativa con residencia en Zapopan; ocho en materia civil con residencia en Zapopan; y ocho en materia de trabajo con residencia en Zapopan.
 
 > <small>(REFORMADO POR EL ARTÍCULO 2 DEL ACUERDO GENERAL 22/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2024)</small>
 
@@ -415,9 +415,9 @@ XIX. DECIMONOVENO CIRCUITO:
 
 2. Un tribunal colegiado de apelación, con residencia en Matamoros, Tamaulipas.
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 17/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 25/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-3. Quince Juzgados de Distrito en el Estado de Tamaulipas: cinco con sede en Ciudad Victoria, uno con residencia en Nuevo Laredo, dos con sede en Tampico, uno con sede en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de procesos penales federales.
+3. Quince Juzgados de Distrito en el Estado de Tamaulipas: cinco con sede en Ciudad Victoria, uno con residencia en Nuevo Laredo, tres con sede en Tampico, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de procesos penales federales.
 
 XX. VIGESIMO CIRCUITO:
 
@@ -727,9 +727,9 @@ XVIII. DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
 El tribunal colegiado de apelación también ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Vigésimo Primer Circuito, que comprende el Estado de Guerrero, al tratarse del tribunal más cercano a la residencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 116/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 25/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XIX. DECIMONOVENO CIRCUITO: En los tribunales colegiados con sede en Ciudad Victoria, y el localizado en Tampico, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Ciudad Victoria, Ciudad Madero y en Tampico.
+XIX. DECIMONOVENO CIRCUITO: En los tribunales colegiados con sede en Ciudad Victoria, y el localizado en Tampico, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Ciudad Victoria y en Tampico.
 
 Para los tribunales colegiados con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
 
@@ -1007,9 +1007,9 @@ Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros
 
 Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
 
-> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 22/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 25/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
 
 XX. VIGESIMO CIRCUITO:
 
@@ -11344,3 +11344,31 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para
 TERCERO. Los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Jalisco, Especializados en Juicios Orales, con sede en Zapopan; así como la respectiva Oficina de Correspondencia Común que le prestará servicio, fijarán avisos en lugar visible con relación a la medida objeto del presente Acuerdo.
 
 CUARTO. Las menciones hechas en otros Acuerdos Generales y normatividad del Consejo de la Judicatura Federal a los Juzgados Tercero y Sexto de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con sede en Zapopan, Jalisco, se entenderán referidas a los Juzgados Primero y Segundo de Distrito en Materia Mercantil Federal en el Estado de Jalisco, Especializados en Juicios Orales, respectivamente.
+
+D.O.F. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 24/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO OCTAVO DE DISTRITO EN MATERIA ADMINISTRATIVA Y DEL JUZGADO OCTAVO DE DISTRITO EN MATERIA DE TRABAJO, AMBOS EN EL ESTADO DE JALISCO, CON RESIDENCIA EN PUENTE GRANDE; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Juzgado Octavo de Distrito en Materia Administrativa y el Juzgado Octavo de Distrito en Materia de Trabajo, ambos en el Estado de Jalisco, así como las Oficinas de Correspondencia Común que les prestan servicio deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado de los órganos jurisdiccionales que cambian de residencia y domicilio.
+
+QUINTO. Se deroga cualquier disposición contraria a lo contenido en el presente Acuerdo.
+
+D.O.F. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 25/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO DÉCIMO TERCERO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON SEDE EN CIUDAD MADERO, Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Juzgado Décimo Tercero de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Madero, Tamaulipas, así como la Oficina de Correspondencia Común que le presta servicio deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del órgano jurisdiccional que cambia de residencia y domicilio.
+
+QUINTO. Se deroga cualquier disposición contraria a lo contenido en el presente Acuerdo.
