@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2023-12-23"
+last_updated: "2024-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -1558,3 +1558,23 @@ En un plazo no mayor a 120 días contados a partir de la entrada en vigor del pr
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2025.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez entrada en vigor la presente Ley, se abroga la Ley Reglamentaria para Establecimientos de Bebidas Alcohólicas, publicada en el Periódico Oficial del Estado número 28 de fecha 05 de abril del 2000.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que estuvieran en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las disposiciones vigentes al momento de que dieron inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
