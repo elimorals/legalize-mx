@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132250&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de diciembre de 2018.
 
@@ -43,13 +43,23 @@ LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y M
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto agilizar, accesibilizar y simplificar los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal, promoviendo y fomentando:
+La presente Ley es de orden público e interés general y tiene como finalidad agilizar, incrementar la accesibilidad y simplificar los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal, por medio de la regulación, promoción y el fomento de:
 
-I. El uso de medios electrónicos en las relaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, y entre éstos y los particulares, y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-II. El uso de la firma electrónica certificada, su eficacia jurídica y la prestación de servicios de certificación relacionados con la misma.
+I. El uso de medios electrónicos en las relaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, y entre éstos y los particulares;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+II. El uso de la firma electrónica avanzada, su eficacia jurídica y la prestación de servicios de certificación relacionados con la misma; y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III. La homologación de la firma electrónica avanzada con las firmas electrónicas o las firmas electrónicas avanzadas reguladas por otros ordenamientos legales, en los términos establecidos en esta ley.
 
 ###### Artículo 2.
 
@@ -65,55 +75,109 @@ IV. Los Organismos Autónomos;
 
 V. Los Ayuntamientos;
 
-VI. Cualquier dependencia o entidad de la administración pública Estatal o municipal, y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VII. Los particulares que decidan utilizar la firma electrónica certificada, por medios electrónicos, en los términos de la presente Ley.
+VI. Cualquier dependencia o entidad de la administración pública Estatal o municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VII. Los servidores públicos de cualquiera de los Poderes, Entidades, Organismos o dependencias señaladas en las fracciones anteriores que en la realización de los actos a que se refiere esta ley, utilicen la firma electrónica avanzada; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VIII. Los particulares que decidan utilizar la firma electrónica avanzada en los términos de la presente Ley.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Autoridad Certificadora: Organismo público facultado para otorgar un certificado de Firma Electrónica Avanzada y prestar otros servicios relacionados con la Firma Electrónica Avanzada;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-II.- Certificado de firma electrónica: El documento firmado electrónicamente por la autoridad certificadora, mediante el cual se confirma el vínculo existente entre el firmante y la firma electrónica;
+I. Autoridad Certificadora: Organismo público facultado para otorgar un certificado de Firma Electrónica Avanzada y prestar otros servicios relacionados con la Firma Electrónica Avanzada, así como los proveedores o prestadores de servicios de certificación que conforme a las disposiciones jurídicas federales tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para proporcionar servicios relacionados con los mismos;
 
-III.- Datos de creación de firma electrónica o clave privada: Los datos únicos que, con cualquier tecnología, el firmante genera de manera secreta y utiliza para crear su firma electrónica, a fin de lograr el vínculo entre dicha firma electrónica y su autor;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IV.- Datos de verificación de firma electrónica o clave pública: Los datos únicos que con cualquier tecnología se utilizan para verificar la firma electrónica;
+II. Acuse de recibo electrónico: El mensaje de datos que se emite o genera a través de medios de comunicación electrónica para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por esta ley;
 
-V.- Destinatario: La persona designada por el firmante para recibir el mensaje de datos, pero que no esté actuando a título de intermediario con respecto a dicho mensaje;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VI.- Dispositivo de creación de firma electrónica: El programa o sistema informático que sirve para aplicar los datos de creación de firma electrónica;
+III. Certificado de firma electrónica: El mensaje de datos o registro que conforme al vínculo entre (sic)
 
-VII.- Dispositivo de verificación de firma electrónica: El programa o sistema informático que sirve para aplicar los datos de verificación de firma electrónica;
+Un firmante y la clave privada;
 
-VIII.- Fecha electrónica: El conjunto de datos en firma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IX.- Firma electrónica: El conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o emisor;
+IV. Clave privada: Los datos que el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada, a fin de lograr el vínculo entre dicha firma electrónica avanzada y el firmante;
 
-X.- Firma electrónica certificada: Aquélla que ha sido certificada por la autoridad certificadora en los términos que señale esta Ley, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de ésta y la identidad del firmante;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XI.- Firmante: La persona que posee los datos de creación de firma electrónica y que actúa en nombre propio o en el de una persona a la que representa;
+V. Clave pública: los datos contenidos en un certificado digital que permiten la verificación de la autenticidad de la firma electrónica avanzada del firmante;
 
-XII.- Intermediario: Toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho mensaje o preste algún otro servicio con respecto a él, en relación con un determinado mensaje de datos;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+VI. Datos de creación de firma electrónica o clave privada: los datos únicos que, con cualquier tecnología, el firmante genera de manera secreta y utiliza para crear su firma electrónica, a fin de lograr el vínculo entre dicha firma electrónica y su autor;
 
-XIV.- Mensaje de datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XV.- Sistema de información: Todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna firma un mensaje de datos, y
+VII. Datos de verificación de firma electrónica o clave pública: los datos únicos que con cualquier tecnología se utilizan para verificar la firma electrónica;
 
-XVI.- Titular: La persona en cuyo favor se expide un certificado de firma electrónica.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VIII. Destinatario: la persona designada por el firmante para recibir el mensaje de datos, pero que no esté actuando a título de intermediario con respecto a dicho mensaje;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+IX. Dispositivo de creación de firma electrónica: el programa o sistema informático que sirve para aplicar los datos de creación de firma electrónica;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+X. Dispositivo de verificación de firma electrónica: el programa o sistema informático que sirve para aplicar los datos de verificación de firma electrónica;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XI. Documento digital: aquel que es generado, consultado, modificado o procesado por medios electrónicos, ópticos o de cualquier otra tecnología;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XII. Firma electrónica: el conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o emisor;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII. Firma electrónica avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV. Firmante: toda persona que utiliza su firma electrónica avanzada para suscribir documentos electrónicos, actuando en nombre propio o en el de una persona a la que representa;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XV. Medios electrónicos: los dispositivos tecnológicos para el procesamiento, impresión, despliegue, conservación y, en su caso, modificación de información, así como para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XVI. Mensaje de datos: la información generada, enviada, recibida, archivada o comunicada por medios de comunicación electrónica, que puede contener documentos electrónicos;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XVII. Sistema de información: todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna firma un mensaje de datos, y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Titular: la persona en cuyo favor se expide un certificado de firma electrónica.
 
 ###### Artículo 4.
 
 Esta Ley se aplicará en los procedimientos seguidos en forma de juicio ante los tribunales u órganos jurisdiccionales que autoricen las leyes respectivas.
 
-En los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, podrá emplearse la firma electrónica certificada contenida en un mensaje de datos, mediante el uso de medios electrónicos, bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, inclusive las autoridades fiscales del Estado, aún actuando en funciones de Autoridad Fiscal Federal, con motivo del ejercicio de las facultades delegadas en el convenio de colaboración administrativa en materia fiscal federal celebrado con la Secretaría de Hacienda y Crédito Público y sus respectivos anexos, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, podrá emplearse la firma electrónica avanzada contenida en un mensaje de datos, mediante el uso de medios electrónicos, bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
 
 La neutralidad tecnológica implica utilizar cualquier tecnología sin que se favorezca alguna en particular.
 
-En virtud de la equivalencia funcional, la firma electrónica certificada se equipara a la firma autógrafa y un mensaje de datos a los documentos escritos.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En virtud de la equivalencia funcional, la firma electrónica avanzada se equipará a la firma autógrafa y un mensaje de datos a los documentos escritos.
 
 La autenticidad, ofrece la certeza de que un mensaje de datos ha sido emitido por el firmante y, por lo tanto, le es atribuible su contenido y las consecuencias jurídicas que del mismo se deriven por ser expresión de su voluntad.
 
@@ -131,19 +195,27 @@ Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para lo
 
 La utilización de los medios electrónicos en ningún caso podrá implicar la existencia de restricciones o discriminaciones de cualquier naturaleza en el acceso de los particulares a la prestación de servicios públicos o a cualquier trámite, acto o actuación de cualquier autoridad estatal o municipal.
 
-### Capítulo Segundo. Del Uso de la Firma Electrónica Certificada
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### Capítulo Segundo. Del Uso de la Firma Electrónica Avanzada
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 7.
 
-En las comunicaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga la firma electrónica certificada del servidor público competente.
+En las comunicaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga la firma electrónica avanzada del servidor público competente.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-Para hacer más accesibles, ágiles y sencillos los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a cualquier entidad o dependencia de la administración pública estatal o municipal, se podrá utilizar la firma electrónica contenida en un mensaje de datos y el uso de medios electrónicos, en los términos de los reglamentos que en el ámbito de sus respectivas competencias se expidan.
+Para hacer más accesibles, ágiles y sencillos los actos, convenios, comunicaciones, procedimientos administrativos, tramites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, inclusive las autoridades fiscales del Estado, aún actuando en funciones de Autoridad Fiscal Federal, al Poder Legislativo, al Poder, Judicial, a los Organismos Autónomos, a los Ayuntamientos y a cualquier entidad o dependencia de la administración pública estatal o municipal, se podrá utilizar la firma electrónica avanzada contenida en un mensaje de datos y el uso de medios electrónicos, en los términos de los reglamentos que en el ámbito de sus respectivas competencias se expidan.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 9.
 
-El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, deberán verificar la firma electrónica certificada, la vigencia del certificado de firma electrónica y, en su caso, la fecha electrónica, en los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan a éstos; así como en las solicitudes y promociones que en relación con los mismos realicen los particulares.
+El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, deberán verificar la firma electrónica avanzada y la vigencia del certificado de firma electrónica en los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan a éstos; así como en las solicitudes y promociones que en relación con los mismos realicen los particulares.
 
 ###### Artículo 10.
 
@@ -157,25 +229,39 @@ Para que surta efectos un mensaje de datos, se requiere de un acuse de recibo el
 
 Se considera que el mensaje de datos ha sido enviado y recibido, cuando se pruebe la existencia del acuse de recibo electrónico respectivo.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 11 Bis.
+
+Los sujetos obligados deberán contar con una dirección de correo electrónico para recibir, cuando corresponda, mensajes de datos y documentos electrónicos en la realización de los actos previstos en esta ley.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 12.
 
-El contenido de los mensajes de datos que contengan firma electrónica, relativos a los actos, convenios, comunicaciones, procedimientos administrativos, trámites, prestación de los servicios públicos y las solicitudes y promociones que se realicen utilizando medios electrónicos, deberán conservarse en archivos electrónicos y hacerse constar íntegramente en forma impresa, integrando expediente, cuando así lo soliciten expresamente los interesados o lo determine la autoridad competente.
+El contenido de los mensajes de datos que contengan firma electrónica avanzada, relativos a los actos, convenios, comunicaciones, procedimientos administrativos, trámites, prestación de los servicios públicos y las solicitudes y promociones que se realicen utilizando medios electrónicos, deberán conservarse en archivos electrónicos y hacerse constar íntegramente en forma impresa, integrando expediente, cuando así lo soliciten expresamente los interesados o lo determine la autoridad competente.
 
 ###### Artículo 13.
 
 Todo mensaje de datos se tendrá por expedido en el lugar donde el emisor tenga su domicilio legal y, por recibido, en el lugar donde el destinatario tenga el suyo, salvo prueba o acuerdo en contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-Los documentos presentados por los particulares por medios electrónicos que contengan la firma electrónica certificada, producirán, en términos de esta Ley, los mismos efectos que los documentos firmados de manera autógrafa.
+Los documentos presentados por los particulares por medios electrónicos que contengan la firma electrónica avanzada, producirán, en términos de esta Ley, los mismos efectos que los documentos firmados de manera autógrafa.
 
-Las autoridades podrán expedir documentos por medios electrónicos que contengan la firma electrónica certificada cuando reúnan los requisitos señalados en esta Ley.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Las autoridades podrán expedir documentos por medios electrónicos que contengan la firma electrónica avanzada cuando reúnan los requisitos señalados en esta Ley.
 
 ###### Artículo 15.
 
 Los mensajes de datos tendrán valor probatorio pleno, salvo lo que dispongan al respecto otras leyes en la materia que ellas regulan, cuando se acredite lo siguiente:
 
-I. Que contengan la firma electrónica certificada;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+I. Que contengan la firma electrónica avanzada;
 
 II. La fiabilidad del método en que hayan sido generados, archivados o conservados, y
 
@@ -193,9 +279,11 @@ I. Autentificar que la firma electrónica pertenece a determinada persona, y
 
 II. Verificar la vigencia de la firma electrónica.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-Se presumirá, salvo prueba en contrario, que un mensaje de datos proviene de una persona determinada, cuando contenga su firma electrónica certificada.
+Se presumirá, salvo prueba en contrario, que un mensaje de datos proviene de una persona determinada, cuando contenga su firma electrónica avanzada.
 
 ###### Artículo 19.
 
@@ -209,7 +297,9 @@ II. De no haber un sistema de información designado, en el momento en que el de
 
 Cuando los particulares realicen comunicaciones o soliciten la prestación de servicios públicos o promuevan cualquier trámite por medios electrónicos en hora o día inhábil, se tendrán por presentados en la primera hora hábil del siguiente día hábil.
 
-Los documentos a que se refiere el párrafo anterior se tendrán por no presentados, cuando no contengan la firma electrónica certificada.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Los documentos a que se refiere el párrafo anterior se tendrán por no presentados, cuando no contengan la firma electrónica avanzada.
 
 ###### Artículo 21.
 
@@ -239,7 +329,9 @@ I. Expedir certificados de firma electrónica y prestar servicios relacionados c
 
 II. Llevar el registro de certificados de firma electrónica;
 
-III. Celebrar los convenios necesarios con las demás autoridades certificadoras, a efecto de establecer los estándares tecnológicos y operativos de la infraestructura de la firma electrónica certificada y servicios electrónicos, aplicables en el ámbito de su competencia;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III. Celebrar los convenios necesarios con las demás autoridades certificadoras, a efecto de establecer los estándares tecnológicos y operativos de la infraestructura de la firma electrónica avanzada y servicios electrónicos, aplicables en el ámbito de su competencia;
 
 IV. Colaborar en el desarrollo de sistemas informáticos internos y externos para la prestación de servicios, y
 
@@ -249,11 +341,15 @@ V. Las demás que les otorgue esta Ley y su reglamento.
 
 El Poder Legislativo, el Poder Judicial, los Organismos Autónomos y los Ayuntamientos, podrán celebrar convenios de colaboración con la Secretaría de Finanzas y Administración para el ejercicio de las atribuciones a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-Las autoridades certificadoras, dentro del ámbito de sus respectivas competencias, podrán autorizar a otra entidad o dependencia de la administración pública estatal o municipal, a expedir certificados de firma electrónica y a prestar servicios relacionados con la certificación.
+Las autoridades certificadoras, dentro del ámbito de sus respectivas competencias, podrán autorizar a prestar servicios relacionados con la certificación a los prestadores o proveedores de servicios de certificación autorizados por la Secretaría de Economía o el Servicio de Administración Tributaria, siempre y cuando acrediten tener dicha autorización y que la misma no haya sido revocada.
 
-La acreditación deberá publicarse en el Boletín Oficial del Gobierno del Estado, previamente al inicio de la prestación de los servicios.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Las autorizaciones deberán publicarse en el Boletín Oficial del Gobierno del Estado, previamente al inicio de la prestación de los servicios.
 
 ###### Artículo 26.
 
@@ -277,11 +373,15 @@ V. Cuando el firmante actúe de manera negligente, en cuanto a los posibles usos
 
 VI. Uso indebido o fraudulento de la Firma Electrónica Avanzada.
 
-### Capítulo Cuarto. De las Características de la Firma Electrónica Certificada
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### Capítulo Cuarto. De las Características de la Firma Electrónica Avanzada
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 28.
 
-La firma electrónica tendrá el carácter de certificada cuando:
+La firma electrónica tendrá el carácter de avanzada cuando:
 
 I. Cuente con un certificado de firma electrónica vigente;
 
@@ -293,7 +393,9 @@ IV. Sea posible detectar cualquier alteración de la firma electrónica hecha de
 
 V. Esté vinculada al mensaje de datos de modo tal que cualquier modificación de los datos del mensaje ponga en evidencia su alteración.
 
-La firma electrónica certificada podrá formar parte integrante del mensaje de datos o estar inequívocamente asociada a éste.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+La firma electrónica avanzada podrá formar parte integrante del mensaje de datos o estar inequívocamente asociada a éste.
 
 ### Capítulo Quinto. De los Servicios de Certificación
 
@@ -301,9 +403,11 @@ La firma electrónica certificada podrá formar parte integrante del mensaje de 
 
 Las autoridades certificadoras de conformidad con los reglamentos respectivos establecerán los requisitos jurídicos, técnicos, materiales y financieros necesarios para la expedición y, en su caso, homologación de certificados de firma electrónica. En el caso de homologación de certificados de firma electrónica, podrán celebrar los convenios que tengan como objeto unificar los requisitos a que se refiere este artículo.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 30.
 
-Las autoridades certificadoras podrán prestar el servicio de consignación de fecha electrónica, respecto de los mensajes de datos.
+Las autoridades certificadoras y los prestadores o proveedores de servicios de certificación autorizados a los que se refiere el segundo párrafo del artículo 25 podrán prestar el servicio de certificación respecto de los mensajes de datos.
 
 ###### Artículo 31.
 
@@ -319,9 +423,11 @@ III. Los procedimientos de consulta, actualización y mantenimiento del registro
 
 IV. Los servicios que deberá prestar el registro de certificados de firma electrónica.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-La firma electrónica certificada y los certificados de firma electrónica expedidos de conformidad con esta Ley y su reglamento, sólo surtirán efectos respecto de los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a cualquier entidad o dependencia de la administración pública estatal o municipal. Así como respecto de las promociones y solicitudes de los particulares que hayan optado por estos medios.
+La firma electrónica avanzada y los certificados de firma electrónica expedidos de conformidad con esta Ley y su reglamento, sólo surtirán efectos respecto de los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, inclusive las autoridades fiscales del Estado, aún actuando en funciones de Autoridad Fiscal Federal, con motivo del ejercicio de las facultades delegadas en el convenio de colaboración administrativa en materia fiscal federal celebrado con la Secretaría de Hacienda y Crédito Público y sus respectivos anexos, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a cualquier entidad o dependencia de la administración pública estatal o municipal. Así como respecto de las promociones y solicitudes de los particulares que hayan optado por estos medios, siendo optativo siempre y cuando las condiciones lo permitan.
 
 ###### Artículo 33.
 
@@ -335,7 +441,9 @@ III. Guardar confidencialidad respecto de la información que hayan recibido par
 
 IV. Poner a disposición del firmante los dispositivos de creación y de verificación de firma electrónica;
 
-V. No almacenar ni copiar los datos de creación de firma electrónica certificada de la persona a la que hayan prestado sus servicios;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+V. No almacenar ni copiar los datos de creación de firma electrónica avanzada de la persona a la que hayan prestado sus servicios;
 
 VI. Antes de expedir un certificado de firma electrónica, informar a la persona que solicite sus servicios, sobre el costo, características y las condiciones precisas de utilización del certificado;
 
@@ -361,13 +469,17 @@ II. El código único de identificación;
 
 III. Los datos de autorización de la autoridad certificadora que lo expide;
 
-IV. La firma electrónica certificada de la autoridad certificadora que lo expide;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+IV. La firma electrónica avanzada de la autoridad certificadora que lo expide;
 
 V. El nombre y apellidos del firmante. Se podrá consignar en el certificado de firma electrónica cualquier otra circunstancia personal del titular, en caso de que sea significativa en función del fin propio del certificado y siempre que aquél otorgue su consentimiento;
 
 VI. En los supuestos de representación, la indicación del documento que acredite las facultades del firmante para actuar en nombre de la persona a la que represente;
 
-VII. Los datos de verificación de firma electrónica certificada que correspondan a los datos de creación de firma que se encuentren bajo el control del firmante;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VII. Los datos de verificación de firma electrónica avanzada que correspondan a los datos de creación de firma que se encuentren bajo el control del firmante;
 
 VIII. El período de validez del certificado de firma electrónica;
 
@@ -393,9 +505,11 @@ VI. Inexactitudes en los datos aportados por el firmante para la obtención del 
 
 VII. Por haberse comprobado que, al momento de su expedición, el certificado de firma electrónica no cumplió con los requisitos establecidos en esta Ley, situación que no afectará los derechos de terceros de buena fe.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 37.
 
-Cuando un servidor público deje de prestar sus servicios y cuente con un certificado de firma electrónica en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo.
+Cuando un servidor público deje de prestar sus servicios y cuente con un certificado de firma electrónica emitido por los Organismos Públicos Estatales en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo.
 
 ###### Artículo 38.
 
@@ -410,6 +524,12 @@ Toda suspensión deberá inscribirse sin demora en el registro respectivo.
 ###### Artículo 40.
 
 Todo certificado de firma electrónica expedido fuera del Estado de Baja California Sur, producirá los mismos efectos jurídicos que un certificado de firma electrónica expedido dentro de su territorio, si presenta un grado de fiabilidad equivalente a los contemplados por esta Ley. Lo anterior sin perjuicio de la obligación de registrar el certificado que se homologa en términos de esta Ley, en el registro de certificados de firma electrónica, que al efecto lleve la autoridad certificadora correspondiente.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 40 Bis.
+
+Los certificados de firma electrónica avanzada emitidos por la Secretaría de Economía y el Sistema de Administración Tributaria, se tendrán por homologados con los certificados emitidos por las autoridades certificadoras en los términos de esta ley y surtirán plenos efectos jurídicos en los términos del artículo 32 de este ordenamiento.
 
 ### Capítulo Séptimo
 
@@ -482,3 +602,15 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3120 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, ASÍ COMO DEL CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Para efectos de lo dispuesto en el tercer párrafo del artículo 32 A del Código Fiscal del Estado y Municipios del Estado de Baja California Sur, los contribuyentes contarán con un plazo de cuarenta días habiles para presentar los medios de contacto ante la autoridad fiscal según las formas que se establezcan mediante reglas de carácter general.
+
+TERCERO. Se derogan todas las disposiciones normativas que se opongan a lo establecido en el presente decreto.
