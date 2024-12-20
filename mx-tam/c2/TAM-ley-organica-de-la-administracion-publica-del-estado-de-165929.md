@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2024-11-18"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -353,7 +353,9 @@ XXVI. Organizar, editar y publicar el Periódico Oficial del Estado, y mantener 
 
 XXVII. Intervenir en la elaboración y suscripción de los reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
 
-XXVIII. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos. En materia de juegos y sorteos, llevará a cabo el trámite, para, previo estudio correspondiente, el Ejecutivo del Estado, expida el documento que avale o emita la opinión favorable para la instalación de centros para operar la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como, para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, en territorio del Estado, señalada en el artículo 22 del Reglamento de la Ley Federal de Juegos y Sorteos;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos.
 
 XXIX. Llevar el registro de mediadores públicos y privados que ejerzan la mediación en el Estado, así como su capacitación, certificación y supervisión conforme a la ley de la materia;
 
@@ -443,11 +445,25 @@ XXXIII. Realizar la estimación del impacto presupuestario de las iniciativas de
 
 XXXIV. Otorgar apoyo técnico a los municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población oficial, en la formulación de las proyecciones y resultados de sus finanzas públicas, en la elaboración de su Ley de Ingresos y del proyecto de Presupuesto de Egresos, las cuales comprenderán solo un año;
 
-XXXV. Efectuar la evaluación del cumplimiento de obligaciones de responsabilidad hacendaria en materia de deuda estatal garantizada a cargo de los municipios, debiendo remitirla trimestralmente a la Secretaría de Hacienda y Crédito Público del Gobierno Federal, debiendo publicar a través de su respectiva página oficial de internet el resultado de la citada evaluación; así como también enviar trimestralmente la información correspondiente a cada financiamiento y obligación del Estado y de cada uno de sus entes públicos para la actualización del Registro Público Único a cargo de la citada dependencia federal;
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XXXVI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
+XXXV. Interpretar, aplicar y vigilar el cumplimiento a la Ley para la Operación y Funcionamiento de Establecimientos de Bebidas Alcohólicas para el Estado de Tamaulipas;
 
-XXXVII. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. Expedir la opinión favorable para la instalación y operación de centros con cruce de apuestas en hipódromos, galgódromos, frontones, así como, para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, en territorio del Estado, señalada en el artículo 22 del Reglamento de la Ley Federal de Juegos y Sorteos;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXVII. Ejercer las atribuciones conferidas en la Ley para Regular la Apertura, Instalación y Funcionamiento de las Casas de Empeño en el Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXVIII. Efectuar la evaluación del cumplimiento de obligaciones de responsabilidad hacendaria en materia de deuda estatal garantizada a cargo de los municipios, debiendo remitirla trimestralmente a la Secretaría de Hacienda y Crédito Público del Gobierno Federal, debiendo publicar a través de su respectiva página oficial de internet el resultado de la citada evaluación; así como también enviar trimestralmente la información correspondiente a cada financiamiento y obligación del Estado y de cada uno de sus entes públicos para la actualización del Registro Público Único a cargo de la citada dependencia federal; y
+
+XXXIX. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
+
+XL. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección IV. De la Secretaría de Administración
 
@@ -1672,3 +1688,9 @@ En tanto no se emita la normatividad jurídica y administrativa indispensable pa
 ###### ARTÍCULO OCTAVO.
 
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Unidad de Inteligencia Financiera y Económica, serán atendidos por ésta hasta su conclusión.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
