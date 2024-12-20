@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2023-09-29"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -47,13 +47,15 @@ Esta ley es de orden público y de observancia general en el régimen interior d
 
 El sistema de medios de impugnación previsto en esta ley, tiene por objeto garantizar:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-I. La constitucionalidad y legalidad de los actos, omisiones, acuerdos y resoluciones de los órganos del Instituto o de los partidos políticos, así como del Poder Ejecutivo y Legislativo o de los Ayuntamiento (sic), a fin de salvaguardar la forma democrática de gobierno, y la validez y eficacia de las normas aplicables en la materia.
+I. La constitucionalidad y legalidad de los actos, omisiones, acuerdos y resoluciones de los órganos del Instituto o de los partidos políticos, los Comités de Evaluación, de los Poderes Legislativo, Ejecutivo y Judicial o de los Ayuntamientos, según corresponda, a fin de salvaguardar la forma democrática de gobierno, y la validez y eficacia de las normas aplicables en la materia.
 
 II. La constitucionalidad y legalidad de los actos, omisiones, acuerdos o resoluciones del Poder Ejecutivo, del Poder Legislativo o de los Ayuntamientos del Estado, para salvaguardar los resultados vinculatorios del plebiscito o del referendo o el trámite de la iniciativa popular, así como la validez y eficacia de las normas aplicables en la materia.
 
-III. La salvaguarda, validez, eficacia y actualización democrática de los derechos político-electorales y de participación pública de los ciudadanos.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III. La salvaguarda, validez, eficacia y actualización democrática de los derechos político-electorales, político-judiciales y de participación pública de la ciudadanía.
 
 IV. La definitividad de los distintos actos y etapas de los procesos electorales y de los procedimientos de plebiscito o de referendo.
 
@@ -95,6 +97,10 @@ VI. El recurso de inconformidad.
 
 VII. El asunto general
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VIII. El juicio para la protección de los derechos políticos-judiciales.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 4°.
@@ -112,6 +118,10 @@ I. El Tribunal Electoral: el Tribunal Electoral del Estado de Coahuila.
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
 II. El Instituto: el Instituto Electoral de Coahuila.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III. Comité de Evaluación: grupo de personas expertas conforme a la Constitución Política del Estado de Coahuila de Zaragoza y el Código Electoral para el Estado de Coahuila de Zaragoza, cuya función es facilitar la inscripción de los aspirantes a las candidaturas judiciales, determinar su elegibilidad, evaluar y calificar el perfil judicial idóneo para los órganos populares del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO II. EL TRIBUNAL ELECTORAL
 
@@ -256,6 +266,14 @@ II. Las coaliciones, a través de su representante legítimo que se acreditará 
 III. Las organizaciones y agrupaciones políticas o ciudadanas, a través de su representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable.
 
 IV. Los ciudadanos por su propio derecho o a través de su representante legal.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+V. Las personas aspirantes o candidatas a obtener una candidatura judicial por su propio derecho o por conducto de su legítima representación, deberán acompañar el original o copia certificada del documento en el que conste su registro.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VI. Quienes resulten sancionados por la violación a las reglas del proceso judicial electoral.
 
 ###### Artículo 20.
 
@@ -833,11 +851,13 @@ VIII. Los demás que determine el Pleno.
 
 En todo caso, el acto o resolución impugnado o su parte conducente se dejará subsistente en los términos que establezca el Tribunal Electoral en su resolución.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFP, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 71 Bis.
 
-Una vez que se encuentren debidamente integrados, los medios de impugnación relacionados con un proceso electoral local se resolverán en un plazo no mayor de veinte días naturales; aquellos que no lo estén, se resolverán en un plazo máximo de treinta días hábiles, con excepción del recurso de inconformidad, el cual se resolverá en un plazo máximo de quince días hábiles.
+Una vez que se encuentren debidamente integrados, los medios de impugnación relacionados con un proceso electoral local se resolverán en un plazo no mayor de veinte días naturales; aquellos que no lo estén, se resolverán en un plazo máximo de treinta días hábiles, con excepción del recurso de inconformidad, el cual se resolverá en un plazo máximo de quince días hábiles, y el juicio para la protección de los derechos políticos-judiciales, se resolverá en un plazo no mayor a diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 Los plazos para la presentación, sustanciación y resolución de los juicios sobre conflictos laborales entre el Instituto y su personal o entre el Tribunal Electoral y su personal se sujetarán a lo dispuesto en la legislación laboral aplicable, el Reglamento Interior del Instituto y del Tribunal y los Lineamientos que se expidan para tal efecto.
 
@@ -887,7 +907,9 @@ Los medios de apremio y las correcciones disciplinarias a que se refiere el art�
 
 Las nulidades establecidas en este capítulo, podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada.
 
-Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas o de una elección de gobernador, de diputados o de Ayuntamientos, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio electoral.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas, centros de votación o de una elección de gobernador, de diputados, de Ayuntamientos, de magistraturas y personas juzgadoras populares, respectivamente, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de que se trate.
 
 ###### Artículo 78.
 
@@ -911,9 +933,13 @@ La votación recibida en una casilla será nula cuando se acredite cualesquiera 
 
 I. Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el órgano del Instituto correspondiente.
 
-II. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales al Comité Distrital o Municipal que corresponda, fuera de los plazos que establezca la ley de la materia.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-III. Realizar, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el Comité Distrital o Municipal respectivo.
+II. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales a loa (sic) Comités Distrital, Municipal o Judicial Electoral que corresponda, fuera de los plazos que establezca la ley de la materia.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+III. Realizar, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por los Comités Distrital, Municipal o Judicial Electoral, según corresponda.
 
 IV. Recibir la votación en fecha distinta a la señalada para la celebración de la elección.
 
@@ -931,15 +957,17 @@ X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 82.
 
-Son causales de nulidad de una elección de diputación de mayoría relativa, Ayuntamiento o gubernatura del estado, cualesquiera de las siguientes:
+Son causales de nulidad de una elección de diputación de mayoría relativa, Ayuntamiento, gubernatura del Estado, o de un cargo de elección judicial popular, cualesquiera de las siguientes:
 
 I. Cuando alguna o algunas de las causales señaladas en el artículo anterior, se acrediten en por lo menos el veinte por ciento de las casillas en el distrito, municipio o en el estado, según sea el caso.
 
-II. Cuando no se instalen las casillas en el veinte por ciento de las secciones en el distrito, municipio o en el estado, según sea el caso de que se trate y consecuentemente la votación no hubiere sido recibida.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+II. Cuando no se instalen las casillas o centros de votación, según corresponda, en el veinte por ciento de las secciones en el distrito, municipio, comité judicial electoral o en el Estado, según sea el caso de que se trate y consecuentemente la votación no hubiere sido recibida.
 
 III. Cuando los candidatos a diputados, propietario y suplente, que hubieren obtenido constancia de mayoría sean ambos inelegibles.
 
@@ -967,13 +995,19 @@ IX. Cuando se acredite que quien gane la elección cometió violencia política 
 
 X. Cuando se acredite la inelegibilidad de la candidatura ganadora de la elección, por haber cometido fraude a la ley por indebida sustitución, siempre que sea determinante para el resultado de la elección.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XI. Cuando la candidatura judicial sea declarada inelegible por el Tribunal Electoral, por haberse demostrado plenamente que no cumple con los requisitos legales para desempeñar ese cargo, la nulidad tendrá como efecto, sustituir la candidatura inelegible por otra entre la lista de los suplentes conforme a la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, atendiendo al principio constitucional de paridad género.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 Tratándose de lo establecido en las fracciones VI, VII, VIII, IX anteriores, las violaciones deberán acreditarse de manera objetiva y material, y se presumirá que son determinantes cuando la diferencia entre la votación obtenida por el ganador y el segundo lugar sea menor al cinco por ciento.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 83.
 
-El Tribunal Electoral podrá declarar la nulidad de una elección de diputados, Ayuntamientos o gobernador, cuando se hayan cometido en forma generalizada violaciones substanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o a sus candidatos.
+El Tribunal Electoral podrá declarar la nulidad de una elección de diputaciones, Ayuntamientos, gubernatura, de magistraturas o de personas juzgadoras, cuando se hayan cometido en forma generalizada violaciones sustanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito, distrito judicial o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes, sus candidaturas o las candidaturas judiciales.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1239,13 +1273,55 @@ Cuando el recurso de inconformidad sea fundado, se dejará sin efectos el acuerd
 
 Asimismo, cuando la omisión reclamada sea fundada, se ordenará practicar la diligencia o subsanarla.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN QUINTA BIS. EL JUICIO PARA LA PROTECCIÓN DE DERECHOS POLÍTICOS-JUDICIALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 110-A.
+
+El juicio para la protección de derechos políticos-judiciales tiene por objeto:
+
+I. Garantizar la constitucionalidad y legalidad de los acuerdos emitidos por los Comités de Evaluación, respecto a las cuestiones de elegibilidad e idoneidad de las personas aspirantes a candidaturas del proceso electoral de magistraturas y personas juzgadoras en los términos señalados en la Ley.
+
+II. Garantizar la constitucionalidad y legalidad del debido proceso judicial electoral para que no se afecten irreparablemente, de manera personal y directa, los derechos políticos-judiciales de las personas aspirantes o candidatas respecto de decisiones del Instituto.
+
+III. Garantizar la constitucionalidad y legalidad de la imposición de las sanciones en el debido proceso electoral judicial.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 110-B.
+
+El plazo para interponer el juicio para la protección de los derechos políticos-judiciales es de tres días, contados a partir del día siguiente al que surta efectos la notificación del acuerdo impugnado, o a partir de que se tenga conocimiento de la omisión.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 110-C.
+
+El juicio para la protección de derechos políticos-judiciales será promovido solamente en los casos siguientes:
+
+I. Cuando una persona aspirante a un cargo de elección popular del Poder Judicial del Estado de Coahuila de Zaragoza, considere que los acuerdos emitidos por los Comités de Evaluación vulneran los principios constitucionales de legalidad, imparcialidad, objetividad, no discriminación y paridad de género.
+
+II. Contra los dictámenes de elegibilidad e idoneidad emitidos por el Comité de Evaluación de que se trate.
+
+III. Contra las sanciones impuestas a las personas infractoras por violación al debido proceso judicial electoral.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 110-D.
+
+El juicio para la protección de derechos políticos-judiciales, solo podrá ser promovido por quienes aspiran a obtener una candidatura judicial o son afectados de manera personal y directa por la imposición de las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 110-E.
+
+El juicio para la protección de derechos políticos-judiciales se presentará, sustanciará y resolverá en los términos previstos en esta Ley para los medios de impugnación, en lo conducente.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 #### SECCIÓN SEXTA. DEL ASUNTO GENERAL
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1271,7 +1347,7 @@ La magistratura ponente, agotados los trámites de ley y hecho el estudio del as
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN SEGUNDA. PRESENTACIÓN DE LA DEMANDA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1347,7 +1423,7 @@ VII. Sentencia.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN TERCERA. CONTESTACIÓN A LA DEMANDA
+#### SECCIÓN SEGUNDA. PRESENTACIÓN DE LA DEMANDA
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1431,9 +1507,9 @@ III. Cuando no se agote el principio de definitividad.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN CUARTA. AUDIENCIA DE CONCILIACIÓN
+#### SECCIÓN TERCERA. CONTESTACIÓN A LA DEMANDA
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 128.
 
@@ -1443,9 +1519,9 @@ En caso de no dar contestación en el plazo señalado en el párrafo anterior, p
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN QUINTA. OFRECIMIENTO, ADMISIÓN Y DESAHOGO DE PRUEBAS
+#### SECCIÓN CUARTA. AUDIENCIA DE CONCILIACIÓN
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 129.
 
@@ -1467,7 +1543,7 @@ III. Si se determina que no existieron irregularidades en la audiencia de concil
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN SEXTA. ALEGATOS Y CIERRE DE INSTRUCCIÓN
+#### SECCIÓN QUINTA. OFRECIMIENTO, ADMISIÓN Y DESAHOGO DE PRUEBAS
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1553,7 +1629,7 @@ XIII. Incorporación a los sistemas de seguridad social.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN SÉPTIMA. SENTENCIA
+#### SECCIÓN SEXTA. ALEGATOS Y CIERRE DE INSTRUCCIÓN
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1569,7 +1645,7 @@ Presentados los escritos de alegatos o habiendo transcurrido el plazo para ello,
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN OCTAVA. DE LOS INCIDENTES
+#### SECCIÓN SÉPTIMA. SENTENCIA
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1580,6 +1656,10 @@ Los efectos de la sentencia del Tribunal podrán ser en el sentido de confirmar,
 En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor, el demandado podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN OCTAVA. DE LOS INCIDENTES
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 140.
 
@@ -1742,3 +1822,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 225.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para las elecciones judiciales extraordinarias del primero junio de dos mil veinticinco, el Pleno del Tribunal Electoral del Estado, emitirá los acuerdos generales que resulten necesarios para regular el juicio de protección de los derechos políticos-judiciales, a fin de asegurar el acceso a la justicia para proteger el derecho a ser electo a un cargo judicial de elección popular.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan y quedan sin efecto alguno, todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
