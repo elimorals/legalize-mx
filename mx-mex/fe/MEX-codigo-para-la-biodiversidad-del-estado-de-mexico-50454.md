@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2024-04-05"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2024.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -3029,9 +3029,9 @@ Se harán acreedores a la incautación por parte de la autoridad de las materias
 
 265. A los propietarios o poseedores de vehículos automotores que infrinjan las disposiciones que emita la Secretaría para realizar la verificación periódica o rebasen los límites permisibles de emisiones contaminantes, se sancionarán de la siguiente manera:
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2024)</small>
 
-I. Se impondrá una multa de veinte veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien no verifique dentro del periodo determinado, o no porte el holograma correspondiente.
+I. Se impondrá una multa de treinta a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien no verifique dentro del periodo determinado, o no porte el holograma correspondiente.
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -8452,3 +8452,21 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2025.
+
+TERCERO.- Se derogan, en su caso, todas las disposiciones legales y administrativas del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido de este Decreto.
+
+CUARTO.- La Secretaría de Finanzas, supervisará y evaluará de conformidad con lo dispuesto en el artículo 3 fracción XXIX del Código Financiero del Estado de México y Municipios y demás normativa aplicable, el cumplimiento de los fines de los fideicomisos públicos de carácter estatal e instrumentará en coordinación con las Dependencias competentes, el proceso de extinción para aquellos que hayan cumplido con su objeto, previa opinión y autorización de los órganos de decisión competentes de acuerdo a su naturaleza jurídica, con base en el procedimiento que establezca el ordenamiento o acto jurídico de su creación, la normativa aplicable y de conformidad con la reglamentación que al efecto se emita.
+
+QUINTO.- El derecho previsto en el artículo 106 Bis del Código Financiero del Estado de México y Municipios entrará en vigor a partir del 1° de febrero de 2025.
+
+SEXTO.- La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de su competencia y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el Artículo CUARTO del presente Decreto y de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
+
+Respecto de las operaciones de regularización previstas en los Programas establecidos en el Artículo CUARTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 95 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
