@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2024-07-11"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -315,6 +315,10 @@ Una diligencia de notificación iniciada en horas hábiles, podrá concluirse en
 
 Las autoridades fiscales, para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de aseguramiento de bienes, podrán habilitar los días y horas inhábiles. Una diligencia de notificación iniciada en horas hábiles, podrá concluirse en hora inhábil sin afectar su validez; también se podrá continuar en días u horas inhábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+El buzón tributario se regirá conforme al horario de la zona pacifico de conformidad con la Ley del Sistema de Horario de los Estados Unidos Mexicanos.
+
 ###### Artículo 20.
 
 Se entiende por enajenación de bienes:
@@ -459,27 +463,41 @@ Cuando el resultado de la operación a que se refiere el primer párrafo de este
 
 Cuando las leyes fiscales obliguen a presentar documentos digitales, éstos deberán contener una firma electrónica avanzada del autor, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general, podrán autorizar el uso de otras firmas electrónicas.
 
-Para los efectos mencionados en el párrafo anterior, se deberá contar con un certificado que confirme el vínculo entre un firmante y los datos de creación de una firma electrónica avanzada, expedido por la Secretaría de Finanzas o en su caso por las tesorerías municipales.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
 
-En los documentos digitales, una firma electrónica avanzada amparada por un certificado vigente que sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+Para los efectos mencionados en el párrafo anterior, se deberá contar con un certificado vigente que confirme el vínculo entre un firmante y los datos de creación de una firma electrónica avanzada, expedido por la Secretaría de Finanzas y Administración o por las Tesorerías Municipales, o en su caso, por el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, de conformidad con las leyes, reglamentos y demás disposiciones reglamentarias de carácter general que en materia fiscal federal correspondan.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En los documentos digitales, una firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
 Se entiende por documento digital todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
 
-Los datos de creación de firmas electrónicas avanzadas serán tramitados por los contribuyentes ante la Secretaría de Finanzas o en su caso ante las tesorerías municipales.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Los datos de creación de firmas electrónicas avanzadas podrán ser tramitados por los contribuyentes ante la Secretaría de Finanzas y Administración o en su caso ante las Tesorerías Municipales.
 
 Los interesados deberán de comparecer personalmente ante la Secretaría de Finanzas o en su caso ante las tesorerías municipales para acreditar su identidad.
 
 La comparecencia de las personas físicas a que se refiere el párrafo anterior, no podrá efectuarse mediante apoderado o representante legal, sino únicamente para los efectos de tramitar la firma electrónica avanzada de las personas morales de conformidad con lo dispuesto en el artículo 36 de este Código, caso en el que se requerirá el poder previsto en dicho artículo.
 
-Para los efectos fiscales, los certificados tendrán una vigencia máxima de dos años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el período de vigencia de un certificado, su titular podrá solicitar uno nuevo. En el supuesto mencionado La Secretaría de Finanzas o en su caso las tesorerías municipales podrán, mediante reglas de carácter general, relevar a los titulares del certificado de la comparecencia personal ante dichas autoridades para acreditar su identidad y, en el caso de las personas morales, la representación legal correspondiente, cuando los contribuyentes cumplan con los requisitos que se establezcan en las propias reglas. Si dichas autoridades no emiten las reglas de carácter general, se estará a lo dispuesto en los párrafos sexto y séptimo de este artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Cuando los datos de creación de firmas electrónicas avanzadas se tramiten ante el Servicio de Administración Tributaria de conformidad con las Leyes, Reglamentos y demás disposiciones reglamentarias de carácter general que en materia fiscal federal correspondan, la identidad del interesado se tendrá por acreditada ante la Secretaría de Finanzas y Administración o en su caso ante las Tesorerías Municipales.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Para los efectos fiscales, los certificados expedidos por la Secretaría de Finanzas y Administración o en su caso por las Tesorerías Municipales, tendrán una vigencia máxima de cuatro años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el período de vigencia de un certificado, su titular podrá solicitar uno nuevo. En el supuesto mencionado la Secretaría de Finanzas y Administración o en su caso las tesorerías municipales podrán, mediante reglas de carácter general, relevar a los titulares del certificado de la comparecencia personal ante dichas autoridades para acreditar su identidad y, en el caso de las personas morales, la representación legal correspondiente, cuando los contribuyentes cumplan con los requisitos que se establezcan en las propias reglas. Si dichas autoridades no emiten las reglas de carácter general, se estará a lo dispuesto en los párrafos sexto y séptimo de este artículo.
 
 ###### Artículo 26 Bis.
 
 (DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo que contenga el sello digital. El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. La Secretaría de Finanzas y las tesorerías municipales establecerán los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
+Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo electrónico que contenga el sello digital. El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. La Secretaría de Finanzas y Administración y las tesorerías municipales establecerán los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
 
 ###### Artículo 28.
 
@@ -514,6 +532,10 @@ a) Proporcionar información sobre los certificados emitidos por la Secretaría 
 7) Si se ofrece un servicio de terminación de vigencia de los certificados;
 
 b) Proporcionar los servicios de acceso al registro de certificados. A dicho registro podrá accederse por medios electrónicos.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría de Finanzas y Administración podrá autorizar a personas que cumplan con los requisitos que para tales efectos se publiquen, así como a los prestadores o proveedores de servicios de certificación autorizados por la Secretaría de Economía o el Servicio de Administración Tributaria, previa acreditación de tener dicha autorización y que la misma no haya sido revocada, para que proporcionen los servicios mencionados en la fracción VI sin perjuicio de que dichos servicios puedan ser prestados directamente en cualquier tiempo por la Secretaría de Finanzas y Administración o en su caso por las Tesorerías Municipales, pudiendo hacerlo en forma separada o conjunta con las personas autorizadas en los términos de este párrafo.
 
 ###### Artículo 29.
 
@@ -579,6 +601,20 @@ III. Solicitar la revocación del certificado ante cualquier circunstancia que p
 
 El titular del certificado será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente con las obligaciones previstas en el presente artículo.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Artículo 32 A.- Las personas físicas y morales inscritas en el Registro Estatal o Municipal de contribuyentes tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de internet de la Secretaría de Finanzas y Administración o las de los Ayuntamientos según corresponda, a través del cual:
+
+I. La Autoridad Fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido y podrá enviar mensajes de interés; y
+
+II. Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales.
+
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría de Finanzas y Administración o en su caso por las Tesorerías Municipales, a cualquiera de los mecanismos de comunicación que el contribuyente registre. La Autoridad Fiscal enviará por única ocasión, mediante los mecanismos elegidos, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+Para efectos de lo previsto en el párrafo anterior, los contribuyentes deberán habilitar el buzón tributario, registrar y mantener actualizados los medios de contacto, los cuales son dirección de correo electrónico y número de teléfono móvil, de acuerdo con el procedimiento que para tales efectos publique la Secretaría de Finanzas y Administración o en su caso las Tesorerías Municipales, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Cuando el contribuyente no habilite el buzón tributario o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados se entenderá que se opone a la diligencia de notificación y la autoridad podrá notificarle conforme a lo señalado en el artículo 165, fracción III de este Código.
+
 ## Titulo II. De los derechos y obligaciones de los contribuyentes
 
 ### Capitulo único
@@ -605,7 +641,9 @@ Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes 
 
 Toda promoción dirigida a las autoridades fiscales, deberá presentarse mediante documento digital que contenga firma electrónica avanzada. La Secretaría de Finanzas y las tesorerías municipales, mediante reglas de carácter general, podrá determinar las promociones que se presentarán mediante documento impreso.
 
-Las promociones deberán enviarse por los medios electrónicos que autorice la Secretaría de Finanzas y las tesorerías municipales mediante reglas de carácter general, a las direcciones electrónicas que al efecto aprueben dichas autoridades. Los documentos digitales deberán tener por lo menos los siguientes requisitos:
+REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2024)
+
+Las promociones deberán enviarse a través del buzón tributario y deberán tener por lo menos los siguientes requisitos:
 
 I. El nombre, la denominación o razón social, y el domicilio fiscal manifestado al registro estatal o municipal de contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que le correspondió en dicho registro;
 
@@ -1085,7 +1123,9 @@ Los actos administrativos que se deban notificar, deberán tener por lo menos lo
 
 I. Constar por escrito en documento impreso o digital.
 
-Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente, deberán transmitirse codificados a los destinatarios;
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio de buzón tributario deberán transmitirse codificados a los destinatarios;
 
 II. Señalar la autoridad que lo emite;
 
@@ -1093,9 +1133,27 @@ III. Estar fundado y motivado y expresar la resolución, objeto o propósito de 
 
 IV. Ostentar la firma del funcionario competente y el nombre o nombres de las personas físicas o morales a las que vaya dirigido y su domicilio fiscal o aquel que hubieren designado para oír y recibir notificaciones. Cuando se ignore el nombre o domicilio de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación;
 
-En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará además la causa legal de la responsabilidad.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+La integridad y autoría del documento que contenga el sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, podrá ser comprobada a través de los medios que la Secretaría de Finanzas y Administración o en su caso, las Tesorerías Municipales establezcan.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará además la causa legal de la responsabilidad.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Las autoridades fiscales podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, o en su caso, de manera personal, dependiendo las circunstancias particulares, siendo aplicable para tal efecto lo dispuesto en los párrafos segundo a quinto del presente artículo.
 
 ###### Artículo 65.
 
@@ -1147,7 +1205,9 @@ Las autoridades fiscales, a fin de comprobar que los contribuyentes, responsable
 
 I. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio fiscal, establecimientos, o en las oficinas de las propias autoridades, su contabilidad para efectos de su revisión, así como proporcionar los datos, documentos o informes que les requieran;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio fiscal, establecimientos, o en las oficinas de las propias autoridades o dentro del buzón tributario, dependiendo de la forma en que se efectuó el requerimiento, su contabilidad para efectos de su revisión, así como proporcionar los datos, documentos o informes que les requieran;
 
 III. Practicar visitas domiciliarias a los contribuyentes, los responsables solidarios o terceros relacionados con ellos, revisar su contabilidad, bienes, mercancías, y asegurarlos previo inventario que al efecto se formule;
 
@@ -1164,6 +1224,10 @@ VII. Allegarse las pruebas necesarias para formular la denuncia, querella o decl
 VIII. Ejecutar los convenios de colaboración administrativa que el Estado celebre con la Federación, y en su caso con los Municipios;
 
 IX. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales y de presentación de solicitudes o avisos en materia del registro estatal o municipal de contribuyentes, de conformidad con el procedimiento previsto en el artículo 79 de este Código.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+X. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
 
 Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción en el citado registro e inscribir a quienes de conformidad con las leyes y disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
@@ -1339,7 +1403,9 @@ XII. Al final contener las firmas y nombres de las personas que intervinieron en
 
 Cuando las autoridades soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I. La solicitud se notificará en el domicilio manifestado ante el Registro Estatal o Municipal de Contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren. Si al presentarse el notificador en el lugar donde deba practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal, lo esperen a hora determinada del día siguiente para recibir la solicitud, si no lo hicieren, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+I. La solicitud se notificará al contribuyente de conformidad con lo establecido en el artículo 165 del presente ordenamiento;
 
 II. En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos;
 
@@ -1349,7 +1415,9 @@ IV. Como consecuencia de la revisión de los informes, datos, documentos o conta
 
 V. Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente, mediante oficio, la conclusión de la revisión de los documentos presentados;
 
-VI. El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción citada. El contribuyente o el responsable solidario, contará con un plazo de quince días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado, se ampliará el plazo por diez días más, siempre que el contribuyente presente aviso dentro del plazo inicial de 15 días.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VI. El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará por buzón tributario, o bien, cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción citada. El contribuyente o el responsable solidario, contará con un plazo de quince días, contados a partir del día siguiente al que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado, se ampliará el plazo por diez días más, siempre que el contribuyente presente aviso dentro del plazo inicial de 15 días.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
@@ -1385,9 +1453,11 @@ V.- Si al cierre del acta de visita domiciliaria el visitado o la persona con qu
 
 VI.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las leyes y disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 80.
 
-Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 78 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 78 de este Código.
+Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 78 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente o por medio del buzón tributario, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 78 de este Código.
 
 El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II, III y IV del artículo 75 de este Código y se reanudaran de acuerdo a lo señalado en los incisos del numeral mencionado.
 
@@ -1456,6 +1526,32 @@ Cuando las autoridades fiscales revisen el dictamen y demás información a que 
 I. Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando el contador público registrado tenga su domicilio fuera de la localidad en que se ubica la autoridad solicitante, el plazo será de quince días;
 
 II. Quince días, tratándose de otra documentación o información relacionada con el dictamen que este en poder del contribuyente.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Artículo 85 A.- Para los efectos de lo dispuesto en el artículo 69, fracción X de este Código, las revisiones electrónicas se realizarán conforme a lo siguiente:
+
+I. Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer los hechos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional que, en su caso, contenga la preliquidación respectiva;
+
+II. En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero, para que en un plazo de quince días siguientes a la notificación de la citada resolución, manifieste lo que a su derecho convenga y proporcione la información y documentación, tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o aprovechamientos consignados en la resolución provisional.
+
+En caso de que el contribuyente acepte la preliquidación por los hechos que se hicieron de su conocimiento, podrá optar por corregir su situación fiscal dentro del plazo señalado en el párrafo que antecede, mediante el pago total de las contribuciones y aprovechamientos omitidos, junto con sus accesorios, en cuyo caso, gozará del beneficio de pagar una multa equivalente al 20% de las contribuciones omitidas;
+
+III. Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, si la Autoridad Fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
+
+A) Efectuará un segundo requerimiento al contribuyente, dentro del plazo de los diez días siguientes a aquél en que la Autoridad Fiscal reciba las pruebas, el cual deberá ser atendido por el contribuyente dentro del plazo de diez días siguientes contados a partir de la notificación del segundo requerimiento, mismo que suspenderá el plazo señalado en la fracción IV primer párrafo de este artículo; y
+
+B) Solicitará información y documentación de un tercero, en cuyo caso, desde el día en que se formule la solicitud y hasta aquel en que el tercero conteste, se suspenderá el plazo previsto en la fracción IV de este artículo, situación que deberá notificársele al contribuyente dentro de los diez días siguientes a la solicitud de la información. Dicha suspensión no podrá exceder de seis meses.
+
+Una vez obtenida la información solicitada, la Autoridad Fiscal contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución.
+
+IV. En caso de que el contribuyente exhiba pruebas, la autoridad contara con un plazo máximo de cuarenta días contados a partir de su desahogo para la emisión y notificación de la resolución con base en la información que se cuente en el expediente.
+
+En el supuesto de que el contribuyente no aporte pruebas, ni manifieste lo que a su derecho convenga para desvirtuar los hechos u omisiones dentro del plazo establecido en la fracción II de este artículo, la resolución provisional se volverá definitiva y las cantidades determinadas se harán efectivas mediante el procedimiento administrativo de ejecución.
+
+Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción X del artículo 69 de este Código, se tendrá por perdido el derecho para realizarlo.
+
+Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
 
 ###### Artículo 86.
 
@@ -1963,6 +2059,14 @@ I. De 40 a 140 veces el valor diario de la Unidad de Medida y Actualización par
 
 II. De 50 a 200 veces el valor diario de la Unidad de Medida y Actualización a la establecida en la fracción II;
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Artículo 118 A.- Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo 32-A de este Código, el no habilitar el buzón tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Artículo 118 B.- A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 118-A, se impondrá una multa de 50 a 200 veces el valor diario de la unidad de medida y actualización.
+
 ###### Artículo 119.
 
 Son infracciones relacionadas con la obligación de garantizar el interés fiscal, el solicitar la autorización de pago a plazos en términos del artículo 95 de este Código, cuando las autoridades fiscales comprueben que el contribuyente pudo haber ofrecido garantías adicionales y la garantía ofrecida no cubra el total del interés fiscal.
@@ -2158,6 +2262,10 @@ V. Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de 
 VI. Al que proporcione o presente informes falsos al Registro Estatal o Municipal de Contribuyentes;
 
 VII. Omita manifestar actividades por las que deba pagar contribuciones.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VIII. Modifique, destruya o provoque la pérdida de la información que contenga el buzón tributario con el objeto de obtener indebidamente un beneficio propio o para terceras personas en perjuicio del fisco Estatal, o bien, ingrese de manera no autorizada a dicho buzón, a fin de obtener información de terceros.
 
 No se formulará querella si, quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita, o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares manifestados al Registro Estatal o Municipal de Contribuyentes en el caso de la fracción V de este artículo.
 
@@ -2437,9 +2545,39 @@ Los plazos para el cumplimiento de la resolución que establece este artículo, 
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente o por correo certificado o electrónico con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+I. Personalmente, por buzón tributario o por correo certificado o electrónico con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
 
 En el caso de notificaciones por correo electrónico, el acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Para los efectos de este párrafo, se entenderá como firma electrónica del particular notificado, la que se genere al utilizar la clave que la Secretaría de Finanzas o las tesorerías municipales le proporcione para abrir el documento digital que le hubiere sido enviado.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+La notificación electrónica de documentos digitales se realizará en el buzón tributario. Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en los artículos 27 y 64, Fracción IV, segundo párrafo de este Código.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al autenticarse y abrir el documento digital que le hubiera sido enviado.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En caso de que el contribuyente ingrese a su buzón tributario para consultar los documentos digitales pendientes de notificar en día u hora inhábil, generando el acuse de recibo electrónico, la notificación se tendrá por practicada al día hábil siguiente.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo 32-A de este Código.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -3672,3 +3810,13 @@ B.O. 11 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+B.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3120 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, ASÍ COMO DEL CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Para efectos de lo dispuesto en el tercer párrafo del artículo 32 A del Código Fiscal del Estado y Municipios del Estado de Baja California Sur, los contribuyentes contarán con un plazo de cuarenta días hábiles para presentar los medios de contacto ante la autoridad fiscal según las formas que se establezcan mediante reglas de carácter general.
+
+TERCERO. Se derogan todas las disposiciones normativas que se opongan a lo establecido en el presente decreto.
