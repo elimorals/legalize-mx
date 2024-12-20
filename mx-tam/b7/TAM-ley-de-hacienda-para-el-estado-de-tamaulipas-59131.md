@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-09-24"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1667,11 +1667,11 @@ En los casos en que el pago de los derechos no se efectúe previamente a la pres
 
 El cobro de los derechos establecidos en el presente Título III dará lugar, en su caso, al ejercicio de la facultad económico coactiva, la cual se ejercerá por conducto de la Secretaría de Finanzas del Estado o la oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas, y opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas, se causarán conforme a la siguiente tarifa:
+Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas, opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas, y la adquisición de bases de licitación pública para poder participar en los procedimientos licitatorios, se causarán conforme a la siguiente tarifa:
 
 > <small>(REFORMADO [N. DE .E ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1713,9 +1713,9 @@ VII.- Copia certificada o simple de los registros electrónicos de las audiencia
 
 VIII.- Registro de Valuador Profesional, seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IX.- Dictamen de viabilidad financiera para la instalación de establecimientos operadores de cruces y captación de apuestas, el valor anual de la Unidad de Medida y Actualización; y
+IX.- Dictamen de viabilidad financiera para la instalación de establecimientos operadores de cruces y captación de apuestas, el valor anual de la Unidad de Medida y Actualización;
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
@@ -1742,6 +1742,30 @@ e).- Resguardo de motocicleta, automóvil, SUV o camioneta, en encierros de la F
 f).- Constancia de Antecedentes Penales, tres veces el valor diario de la Unidad de Medida y Actualización; y
 
 g).- (DEROGADO, P.O. 22 DE DICIEMBRE DE 2022).
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XII.- La adquisición de bases de licitación pública para obtener el derecho de participar en los procedimientos de licitación, dieciocho veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Tratándose de expedientes dentro de procedimientos de responsabilidades administrativas, se causarán conforme a lo siguiente:
+
+a).- Por la expedición de copia simple, se pagará el cuatro por ciento del valor diario de la Unidad de Medida y Actualización, por hoja;
+
+b).- Por la expedición de copia certificada, se pagará el seis por ciento del valor diario de la Unidad de Medida y Actualización, por hoja;
+
+c).- Por cada imagen digitalizada, se pagará el dos por ciento del valor diario de la Unidad de Medida y Actualización, y el solicitante deberá proporcionar el medio magnético de almacenamiento; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Por la expedición de la constancia de cumplimiento de obligaciones fiscales, el importe de tres veces el valor de la Unidad de Medida y Actualización.
+
+Esta constancia se referirá al cumplimiento formal de obligaciones fiscales, incluyendo los derechos de control vehicular, así como a la inexistencia de créditos fiscales determinados en materia de ingresos estatales y federales coordinados.
+
+El servicio comprende el análisis que deriva en un resultado específico, ya sea positivo o negativo.
+
+La cuota de los derechos a que se refiere esta fracción se causará independientemente de la información que contenga la constancia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1867,9 +1891,11 @@ IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalizaci
 
 V. Las certificaciones y copias certificadas de los documentos solicitados por las víctimas del delito dentro de procesos penales, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas y el Código Nacional de Procedimientos Penales;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VI. Expedición de copias simples, certificadas o autenticadas de averiguaciones previas, carpetas de investigación, expedientes de procedimientos administrativos;
+VI. La expedición de copias simples, certificadas o autenticadas de averiguaciones previas y carpetas de investigación.
+
+Por la primera expedición de copias simples, certificadas o autenticadas de expedientes de procedimientos de responsabilidades administrativas.
 
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 1 DE DICIEMBRE DE 2021)</small>
 
@@ -2053,9 +2079,13 @@ III. La inscripción de la escritura constitutiva, cualquier modificación a la 
 
 IV. Por la inscripción, revocación o renuncia de los poderes en materia inmobiliaria, por cada apoderado se cobrará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, cuatro al millar; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización. La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
+V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, cuatro al millar; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización. En el caso de las autoridades fiscales federales, la base para el cálculo del derecho será el avalúo del bien inmueble embargado a través del Procedimiento Administrativo de Ejecución.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -2147,9 +2177,9 @@ XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
 XVII. Por la expedición de Certificados con Reserva de Prioridad y/o avisos preventivos en los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión total o parcial de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad;
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-Por el servicio urgente para la expedición de certificados con reserva de prioridad y avisos preventivos, en el cual la solicitud cuente con número de finca, el importe de quince veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad; el cual será entregado al día siguiente;
+Por el servicio urgente para la expedición de certificados con reserva de prioridad y avisos preventivos, en el cual la solicitud cuente con número de finca, adicionalmente pagarán el importe de quince veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad; el cual será entregado al día siguiente;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2307,19 +2337,33 @@ VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
 VII. Por la inscripción de fraccionamiento de terrenos, así como los actos, contratos, convenios o resoluciones por las que se lotifique o relotifique, divida o subdivida un inmueble, que por cualquier medio los organismos encargados de regularización de la tenencia de la tierra, federales, estatales o municipales, realicen o efectúen para regularizar la tenencia de la tierra a sus ocupantes, mediante su enajenación;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental; y
+VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IX. Por la inscripción del embargo de un inmueble, cuando deriva de una sentencia laboral.
+IX. Por la inscripción del embargo de un inmueble cuando deriva de una sentencia laboral; o de un inmueble adjudicado al trabajador en ejecución de laudos o sentencias laborales;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+X. Por la inscripción del acta constitutiva de las asociaciones civiles sin fines de lucro que contribuyan al desarrollo de programas sociales del Gobierno del Estado, a solicitud de la dependencia promotora; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XI. Por la inscripción del embargo de un bien inmueble por resolución judicial en favor del acreedor alimentario.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 67.
 
-No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales en causas penales, juicios de amparo, juicios de alimentos atendiendo al principio pro-persona, a las personas que se encuentren registradas en el Registro Estatal de la Comisión Estatal de Atención a Víctimas del Estado de Tamaulipas, además por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
+No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Ley:
+
+1. Por los informes que soliciten las autoridades judiciales en causas penales, juicios de amparo y juicios de alimentos atendiendo al principio pro-persona, a las personas que se encuentren inscritas en el Registro Estatal de la Comisión Estatal de Atención a Víctimas del Estado de Tamaulipas.
+
+2. Por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado.
+
+3. Por la inscripción de embargos de bienes, solicitados por los servidores públicos en ejercicio de sus facultades, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
 
 #### Sección Tercera. del Registro Público del Comercio
 
@@ -2709,6 +2753,14 @@ b).- Por expedición, reposición o canje de placas de vehículos de motor o rem
 
 Las personas físicas o morales que adquieran vehículos de motor o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días siguientes a la fecha de adquisición.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de motocicletas, una vez adquirida la unidad y previo a la entrega de la misma, deberá tramitarse inmediatamente el registro en el Padrón Vehicular, la placa y la tarjeta de circulación. Los distribuidores y comerciantes de motocicletas estarán obligados a realizar la entrega material al adquirente hasta que acredite que ha realizado la matriculación e inscripción en el Registro Estatal Vehicular.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Para efectos de lo anterior, los distribuidores autorizados de venta de motocicletas, así como los comerciantes en el ramo de motocicletas deberán expedir el comprobante fiscal digital por internet, con todos los datos necesarios para realizar el registro en el Padrón Vehicular y la obtención de la placa y la tarjeta de circulación.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 II. La asignación del número de control vehicular y de la documentación correspondiente a vehículos del servicio público de transporte y de los servicios auxiliares del transporte de arrastre o traslado y salvamento:
@@ -2895,11 +2947,7 @@ c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 4.- Aprendiz, cuya vigencia comprenderá a partir de que el solicitante una vez cumplidos los dieciséis años, realice el pago y hasta que cumpla la mayoría de edad, ocho veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-Se entenderá que la vigencia de la licencia de conducir, según se trate de su expedición por primera vez o renovación de la misma, comprenderá a partir de la fecha de expedición de la misma hasta los años calendario por los cuales se haya realizado el pago correspondiente.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2909,17 +2957,21 @@ Tratándose de extranjeros la vigencia de la licencia de conducir, no podrá ser
 
 XVII Bis.- Por la reposición de licencia de conducir diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Por el envío de documentación oficial a domicilio, se cobrará lo siguiente:
+XVIII. Por el envío de documentación oficial a domicilio, enviada a municipio distinto al de registro dentro del Estado o a un Estado diferente, se cobrará lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-a).- Documentación enviada a domicilio dentro del mismo municipio de registro o zona conurbada dentro del Estado, una vez y media el valor diario de la Unidad de Medida y Actualización; y
+a).- Envío de documentación de hasta 5 vehículos, tres veces la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-b).- Documentación enviada a municipio distinto al de registro dentro del Estado o a un Estado diferente al de Tamaulipas, dos veces y media la Unidad de Medida y Actualización.
+b).- Envío de documentación de 6 a 10 vehículos, cuatro veces la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+c).- Envío de documentación de 11 a 25 vehículos, cinco veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2953,9 +3005,21 @@ XXV.- Por el refrendo anual de la Constancia de Registro de las Empresas de Rede
 
 XXVI.- Por la expedición anual del Certificado de Persona Operadora Titular o Adhesiva de las Empresas de Redes de Transporte, con el importe de veinte veces el valor diario de la Unidad de Medida de Actualización; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XXVII.- Los distribuidores autorizados de venta de vehículos así como los comerciantes en el ramo de vehículos, tendrán la obligación de presentar durante el mes de mayo, declaración anual informativa sobre las enajenaciones de vehículos nuevos o seminuevos realizadas en territorio del Estado en el ejercicio anterior.
+XXVII.- Los distribuidores autorizados de venta de vehículos y motocicletas, así como los comerciantes en el ramo de vehículos y motocicletas, tendrán la obligación de presentar durante el mes de mayo de cada año, declaración anual informativa sobre las enajenaciones de vehículos y motocicletas nuevos o seminuevos realizadas en territorio del Estado en el ejercicio inmediato anterior.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVII, P.O. 20 DE DICIEMBRE DE 2024]</small>
+
+Para efectos de lo anterior, la Secretaría de Finanzas establecerá el formato a través del cual se presentará la declaración de referencia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVII, P.O. 20 DE DICIEMBRE DE 2024]</small>
+
+Tratándose de la venta de motocicletas, los distribuidores y comerciantes estarán obligados a informar en la declaración los datos sobre el registro que se haga en el Padrón Vehicular de la Entidad, así como la nomenclatura de placas de circulación, el folio de la tarjeta de circulación y la Entidad que matriculó.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVII, P.O. 20 DE DICIEMBRE DE 2024]</small>
+
+El incumplimiento de esta obligación se considerará infracción conforme lo establecido en el artículo 81, y será sancionado en términos del artículo 82, ambos del Código Fiscal del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -2967,9 +3031,9 @@ Se exime del pago de los derechos previstos en el artículo anterior, en los sig
 
 I. De un 50 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado;
+II.- De un 50 por ciento, a los comprendidos en las fracciones XVII y XVII Bis; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3307,6 +3371,10 @@ a).- Por recepción, evaluación de la Solicitud del Registro del Plan de Manejo
 
 b).- Por la actualización anual del Plan de Manejo, quince veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XXV. Por la obtención del sello bajo en carbono del Estado de Tamaulipas en cualquiera de sus modalidades, treinta y cinco veces la Unidad de Medida de Actualización vigente y tendrá una vigencia de un año.
+
 ###### Artículo 76.
 
 (DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
@@ -3459,41 +3527,73 @@ V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diar
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-I.- Restaurantes, cafés cantantes, centros recreativos y deportivos o club, casino, círculo o club social, salones de fiestas y eventos, billares y boliches, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización. Los bares de los hoteles y moteles, con el importe de quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Los centros nocturnos, centros de espectáculos, discotecas y establecimiento con cruce o captación de apuestas, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+I.- Restaurantes, centros recreativos y deportivos, cines VIP, club social, salones de fiestas y eventos, billares y boliches, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-II.- Loncherías, fondas, coctelerías, taquerías, cafeterías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
+II.- Los hoteles y moteles, con el importe de seiscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-III.- Supermercados y tiendas de conveniencia, con el importe de cuatrocientas noventa y cinco veces el valor diario de la Unidad de Medida y Actualización;
+III.- Los centros nocturnos y discotecas con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IV.- Minisúper y abarrotes, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; licorerías, depósitos y expendios, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización; las agencias, subagencias, almacenes, bodegas, envasadoras y distribuidoras, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+IV.- Los centros de espectáculos y establecimientos con cruce o captación de apuestas, con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-V.- Cantinas, tabernas, cervecerías, bares y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe setecientas setenta veces el valor diario de la Unidad de Medida y Actualización; restaurantes bar con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización.
+V.- Fondas, taquerías o coctelerías y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermeses, salones de baile y eventos deportivos; únicamente para consumo de bebidas en el establecimiento se cobrarán diez veces el valor diario de la Unidad de Medida y Actualización; en caso de que en el evento se considere la venta de bebidas alcohólicas se cobrarán cincuenta veces el valor diario de la Unidad de Medida y Actualización, por fecha;
+VI.- Cafeterías con el importe de ciento ochenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN III], P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VII.- Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez veces el valor diario de la Unidad de Medida y Actualización.
+VII.- Supermercados y tiendas de conveniencia, con el importe de cuatrocientas noventa y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización; microcervecerías y micromezcalerías con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización; y
+VIII.- Minisúper y abarrotes, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IX.- Palapas o salones con alberca, con el importe de ciento noventa y dos veces el valor diario de la Unidad de Medida y Actualización.
+IX.- Licorerías y depósitos, con el importe de cuatrocientas cuarenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+X.- Las agencias, agencias distribuidoras, almacenes, envasadoras y fábricas con el importe de mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XI.- Cantinas, cervecerías, bares y otros establecimientos similares no comprendidos en las fracciones III y IV de este artículo, con el importe de setecientas setenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XII.- Restaurantes bar con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermeses, salones de baile y eventos deportivos; únicamente para consumo de bebidas en el establecimiento se cobrarán diez veces el valor diario de la Unidad de Medida y Actualización; en caso de que en el evento se considere la venta de bebidas alcohólicas se cobrarán cincuenta veces el valor diario de la Unidad de Medida y Actualización, por fecha;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XV.- Salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, con el importe de doscientas veinte veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XVI.- Microfábricas con el importe de quinientas setenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XVII.- Palapas o salones con alberca, con el importe de ciento noventa y dos veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -3546,6 +3646,10 @@ IV.- Por la expedición de Constancias de Dictamen de congruencia a los Ayuntami
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 V.- Por la expedición de Constancia de No Inconveniente para la inscripción en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano y continuar con el proceso ante el Instituto Registral y Catastral referente a tramites de divisiones, subdivisiones y fusiones, tres veces el valor diario de la Unidad de Medida de Actualización.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+VI.- Por la expedición del Dictamen de Impacto de Movilidad, el diez por ciento del valor total del Dictamen de Impacto Urbano aplicable.
 
 ###### Artículo 83.
 
@@ -3639,13 +3743,97 @@ VII. Por la capacitación, actualización, especialización y profesionalizació
 
 VIII. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-IX. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de cuarenta veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
+IX.- Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de veinticinco veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
 Artículo 85 BIS. Por los servicios de evaluación que presta el Centro Estatal de Evaluación y Control de Confianza, para las evaluaciones a que se refiere la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se cobrará lo equivalente a noventa veces el valor diario de la Unidad de Medida y Actualización, por evaluación.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 85 Ter.
+
+El servicio de alineación, evaluación y certificación, proporcionados en materia de evaluación de competencias laborales para el sector público, causarán derechos conforme a lo siguiente:
+
+I.- Por la alineación:
+
+a).- En primer nivel, cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- En segundo nivel, ocho veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- En tercer nivel, once veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- En cuarto nivel, trece veces el valor diario de la Unidad de Medida y Actualización; y
+
+e).- En quinto nivel, catorce veces el valor diario de la Unidad de Medida y Actualización.
+
+II.- Por la evaluación:
+
+a).- En primer nivel, ocho veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- En segundo nivel, nueve veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- En tercer nivel, once veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- En cuarto nivel, trece veces el valor diario de la Unidad de Medida y Actualización; y
+
+e).- En quinto nivel, dieciséis veces el valor diario de la Unidad de Medida y Actualización.
+
+III.- Por la certificación:
+
+a).- En primer nivel, cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- En segundo nivel, cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- En tercer nivel, cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- En cuarto nivel, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+e).- En quinto nivel, cinco veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 85 Quater.
+
+El servicio de alineación, evaluación y certificación, proporcionados en materia de evaluación de competencias laborales para el sector privado, causarán derechos conforme a lo siguiente:
+
+I.- Por la alineación:
+
+a).- En primer nivel, once veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- En segundo nivel, diecisiete veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- En tercer nivel, veintitrés veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- En cuarto nivel, veintiséis veces el valor diario de la Unidad de Medida y Actualización; y
+
+e).- En quinto nivel, veintiocho veces el valor diario de la Unidad de Medida y Actualización.
+
+II.- Por la evaluación:
+
+a).- En primer nivel, quince veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- En segundo nivel, diecinueve veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- En tercer nivel, veintidós veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- En cuarto nivel, veinticinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+e).- En quinto nivel, treinta y tres veces el valor diario de la Unidad de Medida y Actualización.
+
+III.- Por la certificación:
+
+a).- En primer nivel, diez veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- En segundo nivel, diez veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- En tercer nivel, diez veces el valor diario de la Unidad de Medida y Actualización;
+
+d).- En cuarto nivel, diez veces el valor diario de la Unidad de Medida y Actualización; y
+
+e).- En quinto nivel, diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3919,7 +4107,7 @@ X.- Por visita a petición de parte para la verificación sanitaria de:
 
 a).- Establecimientos sujetos a control sanitario, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
 
-b).- Medicamentos que sean o contengan estupefacientes o psicotrópicos de balance y/o de destrucción, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización.
+b).- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4784,3 +4972,27 @@ P.O. 24 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-120 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan las disposiciones normativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas del Gobierno del Estado deberá prever los mecanismos y otorgar las facilidades administrativas y operativas necesarias a los distribuidores y comerciantes de motocicletas para el cumplimiento de lo dispuesto en el primer párrafo de la fracción XXVII del artículo 73 de la Ley de Hacienda del Estado de Tamaulipas que se reforma por este Decreto. Dichas medidas deberán garantizar que los trámites de emplacamiento se realicen de manera eficiente y expedita, evitando retrasos injustificados, facilitando el cumplimiento de esta disposición.
+
+En un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas deberá emitir las directrices y lineamientos específicos para la implementación de este Decreto, asegurando su eficacia y operatividad, debiendo preverse alternativas de cumplimiento al mismo en caso de retraso en los procesos de registro y emplacamiento vehicular.
