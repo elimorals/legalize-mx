@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2022-11-23"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -95,17 +95,27 @@ VII. Ley: la Ley General de Desarrollo Social;
 
 VIII. Ley de las Entidades: la Ley Federal de las Entidades Paraestatales;
 
-IX. Órgano Interno: el Órgano Interno de Control del Consejo, en términos de lo dispuesto por los artículos 62 de la Ley de las Entidades; 18 y 19 del Decreto y 34 del Reglamento de la Ley de las Entidades;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-X. Órgano de Vigilancia: El Comisario Público Propietario y Suplente previstos por los artículos 60 de la Ley de las Entidades; 16 del Decreto y 29 del Reglamento de la Ley de las Entidades;
+IX. Órgano Interno de Control Especializado: el Órgano Interno de Control con facultades para actuar exclusivamente en una de las materias determinadas en el Reglamento Interior de la Secretaría de la Función Pública;
 
-XI. Reglamento: el Reglamento de la Ley General de Desarrollo Social;
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XII. Reglamento de Ley de las Entidades; el Reglamento de la Ley Federal de las Entidades Paraestatales;
+X. Oficina de Representación: la Unidad Administrativa destinada a auxiliar a los Órganos Internos de Control Especializados, en términos de lo dispuesto por el artículo 104 del Reglamento Interior de la Secretaría de la Función Pública;
 
-XIII. Secretaría: la Secretaría de Desarrollo Social del Gobierno Federal,
+XI. Órgano de Vigilancia: El Comisario Público Propietario y Suplente previstos por los artículos 60 de la Ley de las Entidades; 16 del Decreto y 29 del Reglamento de la Ley de las Entidades;
 
-XIV. Secretario Ejecutivo: el Secretario Ejecutivo del Consejo y Titular del mismo, en términos de lo previsto por el artículo 2o., fracción IV, del Reglamento de la Ley de las Entidades.
+XII. Reglamento: el Reglamento de la Ley General de Desarrollo Social;
+
+XIII. Reglamento de Ley de las Entidades; el Reglamento de la Ley Federal de las Entidades Paraestatales;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV. Secretaría: la Secretaría de Desarrollo Social del Gobierno Federal, ahora Secretaría de Bienestar;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XV. Secretario Ejecutivo: la persona titular de la Secretaría Ejecutiva, en términos de lo previsto por el artículo 2o., fracción IV, del Reglamento de la Ley de las Entidades.
 
 ###### Artículo 6.
 
@@ -127,11 +137,15 @@ I. El Comité;
 
 II. La Comisión Ejecutiva;
 
-III. El Órgano Interno de Control;
+III. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2024)
 
 IV. La Secretaría Ejecutiva, y
 
 V. Las Unidades Administrativas a las que se refiere el Capítulo del Título Segundo de este Estatuto.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+VI. Oficina de Representación
 
 ### Capítulo II. De las resoluciones del Consejo
 
@@ -143,7 +157,9 @@ Además de las atribuciones que los ordenamientos jurídicos y administrativos c
 
 I. Recomendaciones: las propuestas de corrección, modificación, adición o reorientación que emita en relación con las evaluaciones aplicadas a los programas, metas, fondeo y acciones de la Política de Desarrollo Social, sobre la base de las evaluaciones de las políticas y programas de desarrollo social y estudios en materia de pobreza que realice por sí o a través de organismos evaluadores independientes;
 
-II. Acuerdo de delegación: la norma individual por la que se transfiere a la Comisión Ejecutiva o al Secretario Ejecutivo una determinada atribución, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+II. Acuerdo de delegación: la norma individual por la que se transfiere a la Comisión Ejecutiva o a la persona titular de la Secretaría Ejecutiva una determinada atribución, y
 
 III. Acuerdos: las disposiciones generales y demás actos administrativos en virtud de los cuales se resuelve un asunto de naturaleza distinta a los previstos en los dos incisos anteriores.
 
@@ -173,7 +189,9 @@ IV. Por un Secretario Técnico y un Prosecretario designados por el Comité.
 
 El órgano de vigilancia formará parte del Comité en términos de lo dispuesto por los artículos 16 del Decreto y 29 del Reglamento de la Ley de las Entidades.
 
-El Comité, a propuesta de su Presidente y por mayoría absoluta de los miembros presentes en sesión, designará y removerá libremente a la persona que desempeñará el cargo de Secretario Técnico. Asimismo, a propuesta del Secretario Ejecutivo y por idéntico quórum de votación, el Comité designará a la persona que ocupará el cargo de Prosecretario.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+Así mismo, a propuesta de la persona titular de la Secretaría Ejecutiva y por idéntico quórum de votación, el Comité designará a la persona que ocupará el cargo de Prosecretario.
 
 ###### Artículo 11.
 
@@ -241,13 +259,17 @@ III. Velar por la ejecución de los acuerdos y resoluciones que adopte el Comit�
 
 IV. Solicitar, en caso de que lo considere necesario, informes o la opinión técnica de la Secretaría Ejecutiva en relación con los asuntos que corresponden al ámbito de competencia del Comité;
 
-V. Comunicar al Secretario Ejecutivo los acuerdos y resoluciones que adopte el Comité;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+V. Comunicar a la persona titular de la Secretaría Ejecutiva los acuerdos y resoluciones que adopte el Comité;
 
 VI. Proponer al Comité la designación y remoción del Secretario Técnico, y
 
 VII. Presentar al Comité opiniones técnicas sobre los asuntos cuya atención o resolución corresponda a éste.
 
-El Secretario Ejecutivo podrá someter a la consideración del Comité los asuntos cuya resolución le corresponda. El presidente del Comité velará por la oportuna atención de los asuntos turnados por el Secretario Ejecutivo.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+La persona titular de la Secretaría Ejecutiva podrá someter a la consideración del Comité los asuntos cuya resolución le corresponda. El presidente del Comité velará por la oportuna atención de los asuntos turnados por la persona titular de la Secretaría Ejecutiva.
 
 ###### Artículo 17.
 
@@ -293,7 +315,9 @@ La Comisión Ejecutiva se integrará de la siguiente forma:
 
 I. Por los sujetos a los que se refiere la fracción II del artículo 82 de la Ley, y
 
-II. El Secretario Ejecutivo.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+II. La persona titular de la Secretaría Ejecutiva.
 
 Los integrantes de la Comisión Ejecutiva concurrirán al órgano colegiado con voz y voto.
 
@@ -343,7 +367,9 @@ XVIII. Promover mecanismos de acceso e interconexión de las bases de datos de l
 
 XIX. Presentar al Comité los criterios y lineamientos para la definición, identificación y medición de la pobreza, tomando en cuenta los indicadores a los que se refiere el artículo 36 de la Ley y realizar los estudios correspondientes con la periodicidad y desagregación geográfica establecidos en el artículo 37 de la misma;
 
-XX. Proponer los mecanismos para garantizar la transparencia, objetividad y rigor técnico en el cumplimiento de la atribución que establece la fracción anterior, utilizando la información que genere el Instituto Nacional de Estadística, Geografía e Informática, con independencia de otros datos que se estime convenientes, en términos de lo dispuesto por el artículo 36 de la ley;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XX. Proponer los mecanismos para garantizar la transparencia, objetividad y rigor técnico en el cumplimiento de la atribución que establece la fracción anterior, utilizando la información que genere el Instituto Nacional de Estadística y Geografía, con independencia de otros datos que se estime convenientes, en términos de lo dispuesto por el artículo 36 de la ley;
 
 XXI. Dar a conocer y difundir los resultados sobre la medición de la pobreza;
 
@@ -357,7 +383,9 @@ XXV. Proponer al Comité los acuerdos necesarios para hacer efectivas las atribu
 
 XXVI. Las demás que le atribuya el presente Estatuto y el Comité.
 
-La Comisión, con base en sus capacidades técnicas e información disponible, por sí o a través de terceros, realizará la evaluación de la Política de Desarrollo Social y el informe de avances de los programas de desarrollo social que implementen las entidades y dependencias de la Administración Pública Federal. Para tal efecto, establecerá los mecanismos de coordinación necesarios con la Secretaría de Hacienda y Crédito Público y con el Instituto Nacional de Estadística, Geografía e Informática. Los resultados obtenidos se harán del conocimiento de la Secretaría, de las instancias que conforme a la Ley integran el Sistema Nacional de Desarrollo Social, así como de las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión. El ejercicio de esta facultad se realizará conforme a las reglas, términos y plazos previstos en los ordenamientos jurídicos y administrativos aplicables.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+La Comisión, con base en sus capacidades técnicas e información disponible, por sí o a través de terceros, realizará la evaluación de la Política de Desarrollo Social y el informe de avances de los programas de desarrollo social que implementen las entidades y dependencias de la Administración Pública Federal. Para tal efecto, establecerá los mecanismos de coordinación necesarios con la Secretaría de Hacienda y Crédito Público y con el Instituto Nacional de Estadística y Geografía. Los resultados obtenidos se harán del conocimiento de la Secretaría, de las instancias que conforme a la Ley integran el Sistema Nacional de Desarrollo Social, así como de las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión. El ejercicio de esta facultad se realizará conforme a las reglas, términos y plazos previstos en los ordenamientos jurídicos y administrativos aplicables.
 
 ###### Artículo 21.
 
@@ -365,7 +393,9 @@ Sesiones
 
 La Comisión Ejecutiva celebrará sesiones ordinarias y extraordinarias.
 
-Las sesiones serán convocadas por el Secretario Ejecutivo. La convocatoria señalará el tipo de sesión, así como la hora y el lugar en los que habrán de celebrarse. Asimismo, se hará acompañar del proyecto de orden del día y de la documentación que servirá de base para la deliberación de los diversos asuntos enlistados.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+Las sesiones serán convocadas por la persona titular de la Secretaría Ejecutiva. La convocatoria señalará el tipo de sesión, así como la hora y el lugar en los que habrán de celebrarse. Asimismo, se hará acompañar del proyecto de orden del día y de la documentación que servirá de base para la deliberación de los diversos asuntos enlistados.
 
 La Comisión Ejecutiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes.
 
@@ -399,7 +429,9 @@ Sesiones Ordinarias y Extraordinarias
 
 La Comisión Ejecutiva se reunirá en sesión ordinaria cuando menos una vez al mes. Las sesiones ordinarias de la Comisión Ejecutiva se celebrarán conforme al calendario y horarios aprobados en la primera reunión anual.
 
-A propuesta del Secretario Ejecutivo, se podrá diferir hasta por siete días naturales la celebración de una sesión ordinaria. Ninguna sesión ordinaria podrá diferirse más de una ocasión.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+A propuesta de la persona titular de la Secretaría Ejecutiva, se podrá diferir hasta por siete días naturales la celebración de una sesión ordinaria. Ninguna sesión ordinaria podrá diferirse más de una ocasión.
 
 Para la celebración de las sesiones ordinarias de la Comisión Ejecutiva, el Secretario Ejecutivo deberá convocar por escrito a cada uno de los integrantes que formen parte del órgano colegiado, por lo menos con cinco días de anticipación a la fecha que se fije para la celebración de la sesión respectiva.
 
@@ -407,11 +439,23 @@ Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el p�
 
 En aquellos casos en que no sea posible acompañar física o en medio electrónico los anexos necesarios para la discusión de los asuntos contenidos en el orden del día, así como la información y documentación relacionada, éstos se pondrán a disposición de los integrantes de la Comisión Ejecutiva a partir de la fecha de emisión de la convocatoria para que puedan ser consultados en las oficinas de la Secretaría Ejecutiva, situación que se señalará en la propia convocatoria.
 
-Artículo 25 (sic).- Coordinación de los trabajos
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-El Secretario Ejecutivo coordinará los trabajos de la Comisión Ejecutiva. Para tal efecto, tendrá las siguientes atribuciones:
+###### Artículo 24.
 
-I. Delegar, en caso de ausencia, en un funcionario del nivel inmediato inferior al del secretario ejecutivo, la facultad de conducir una determinada sesión;
+Los investigadores académicos, previo acuerdo emitido por la Comisión Ejecutiva y sujeto a la disponibilidad presupuestaria, podrán participar dentro del territorio nacional en ponencias seminarios y/o congresos, relacionados con el objeto del Consejo y que contribuyan al cumplimiento de los objetivos institucionales que le confiere la Ley General de Desarrollo Social.
+
+###### Artículo 25.
+
+Coordinación de los trabajos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+La persona titular de la Secretaría Ejecutiva coordinará los trabajos de la Comisión Ejecutiva. Para tal efecto, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+I. Delegar, en caso de ausencia, en un funcionario del nivel inmediato inferior al de la persona titular de la Secretaría Ejecutiva, la facultad de conducir una determinada sesión;
 
 II. Abrir, prorrogar, suspender y levantar las sesiones de la Comisión Ejecutiva;
 
@@ -423,47 +467,47 @@ V. Proponer a la Comisión Ejecutiva el calendario anual de sesiones;
 
 VI. Presentar a la Comisión Ejecutiva opiniones técnicas sobre los asuntos cuya atención o resolución corresponda a ésta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
 Secretaría Técnica de la Comisión Ejecutiva
 
-El Secretario Ejecutivo ejercerá, sin perjuicio de las prerrogativas asociadas a la calidad de integrante, las funciones de Secretaría Técnica de la Comisión Ejecutiva, para tal efecto, preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro y dará seguimiento a las decisiones que se adopten.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+La persona titular de la Secretaría Ejecutiva ejercerá, sin perjuicio de las prerrogativas asociadas a la calidad de integrante, las funciones de Secretaría Técnica de la Comisión Ejecutiva, para tal efecto, preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro y dará seguimiento a las decisiones que se adopten.
 
-La Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional auxiliará al Secretario Ejecutivo en el ejercicio de la atribución a la que se refiere el numeral que antecede.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+La Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional auxiliará a la persona titular de la Secretaría Ejecutiva en el ejercicio de la atribución a la que se refiere el numeral que antecede.
 
-En caso de ausencia del Secretario Ejecutivo, la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional asumirá las funciones de la Secretaría Técnica de la Comisión Ejecutiva, concurriendo al órgano colegiado con voz y voto.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-### Capítulo V. Del Organo Interno
+En caso de ausencia de la persona titular de la Secretaría Ejecutiva, la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional asumirá las funciones de la Secretaría Técnica de la Comisión Ejecutiva, concurriendo al órgano colegiado con voz y voto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+### Capítulo V. Del Órgano Interno
 
 ###### Artículo 27.
 
-Organo Interno
-
-El Consejo contará con un órgano interno, su titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal.
-
-En el ejercicio de sus facultades el titular del órgano interno se auxiliará por auditores de control y evaluación e interno.
-
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 2024)
 
 ### Capítulo VI. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-Facultades y Obligaciones del Secretario Ejecutivo
+Facultades y Obligaciones de la persona titular de la Secretaría Ejecutiva
 
 Al frente de la Secretaría Ejecutiva habrá un Secretario Ejecutivo nombrado en términos de lo previsto por los artículos 21 de la Ley de las Entidades; 82, fracción III, de la Ley; 10 del Decreto y 14 del Reglamento de la Ley de las Entidades.
 
 El Secretario Ejecutivo tiene a su cargo la coordinación, ejecución y supervisión de los servicios técnicos, así como la administración de los recursos con los que cuenta el Consejo.
 
-Además de las facultades y obligaciones conferidas al Secretario Ejecutivo por los artículos 22 y 59 de la Ley de las Entidades; 83 de la Ley; 11 y 12 del Decreto y 15 del Reglamento de la Ley de las Entidades; son atribuciones del Secretario Ejecutivo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+Además de las facultades y obligaciones conferidas a la persona titular de la Secretaría Ejecutiva por los artículos 22 y 59 de la Ley de las Entidades; 83 de la Ley; 11 y 12 del Decreto y 15 del Reglamento de la Ley de las Entidades; son atribuciones de la persona titular de la Secretaría Ejecutiva:
 
 I. Ejercer las funciones de Secretario Técnico de la Comisión Ejecutiva;
 
@@ -507,13 +551,19 @@ XIX. Coordinar y supervisar la integración de los archivos de las sesiones y ac
 
 XX. Diseñar e implementar, con la aprobación de la Comisión Ejecutiva, mecanismos de coordinación con los programas y políticas de desarrollo social;
 
-XXI. Coordinarse con el Instituto Nacional de Estadística, Geografía e Informática y demás entidades, órganos o institutos relacionados, para el mejor desarrollo e implementación de las actividades de medición e identificación de la pobreza;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XXII. Coordinarse con el Instituto Nacional de Estadística, Geografía e Informática para solicitar al Congreso de la Unión que se incluyan en el Decreto de Presupuesto de Egresos las previsiones presupuestarias a que alude el artículo 37 de la Ley;
+XXI. Coordinarse con el Instituto Nacional de Estadística y Geografía y demás entidades, órganos o institutos relacionados, para el mejor desarrollo e implementación de las actividades de medición e identificación de la pobreza;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXII. Coordinarse con el Instituto Nacional de Estadística y Geografía para solicitar al Congreso de la Unión que se incluyan en el Decreto de Presupuesto de Egresos las previsiones presupuestarias a que alude el artículo 37 de la Ley;
 
 XXIII. Emitir la convocatoria, en su caso, para los organismos evaluadores independientes que participen en las evaluaciones que realice el Consejo conforme a los lineamientos que apruebe el Comité;
 
-XXIV. Concretar acuerdos y convenios con las autoridades de desarrollo social de entidades federativas y municipios y, en su caso, con organizaciones de los sectores social y privado, para promover la evaluación de programas y acciones. El Secretario Ejecutivo informará periódicamente sobre el ejercicio de esta atribución al Comité y a la Comisión Ejecutiva, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Concretar acuerdos y convenios con las autoridades de desarrollo social de entidades federativas y municipios y, en su caso, con organizaciones de los sectores social y privado, para promover la evaluación de programas y acciones. La persona titular de la Secretaría Ejecutiva informará periódicamente sobre el ejercicio de esta atribución al Comité y a la Comisión Ejecutiva, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
 
@@ -583,9 +633,9 @@ IV. Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento 
 
 4. Dirección de Servicios Técnicos.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-En el Manual Administrativo del Consejo se precisarán las unidades administrativas de nivel jerárquico inferior que tendrá cada una de las Coordinaciones Generales, asignándoles sus atribuciones y los procedimientos aplicables a cada una de ellas.
+En el Capítulo Tercero del Manual de Organización General y Específico del Consejo Nacional de Evaluación de la Política de Desarrollo Social, se precisarán las unidades administrativas de nivel jerárquico inferior que tendrá cada una de las Coordinaciones Generales, asignándoles sus atribuciones y los procedimientos aplicables a cada una de ellas.
 
 ###### Artículo 30.
 
@@ -597,15 +647,23 @@ I. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento
 
 II. Participar en el desarrollo y evaluación de la estructura programática-presupuestal del Consejo;
 
-III. Elaborar y proponer el programa interno de trabajo de la unidad administrativa a su cargo y someterlo a la consideración del Secretario Ejecutivo para su autorización, así como informar periódicamente a éste sobre los avances del mismo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-IV. Formular los dictámenes, opiniones, estudios e informes que le sean solicitados por el Secretario Ejecutivo o por autoridad competente;
+III. Elaborar y proponer el programa interno de trabajo de la unidad administrativa a su cargo y someterlo a la consideración de la persona titular de la Secretaría Ejecutiva para su autorización, así como informar periódicamente a ésta sobre los avances del mismo;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IV. Formular los dictámenes, opiniones, estudios e informes que le sean solicitados por la persona titular de la Secretaría Ejecutiva o por autoridad competente;
 
 V. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que les sean señalados por delegación de facultades de su superior o les correspondan por suplencia;
 
-VI. Acordar con el Secretario Ejecutivo los asuntos a cargo de sus unidades administrativas, coordinar sus actividades con las demás áreas del Consejo y, cuando corresponda, con otras dependencias y entidades de los tres órdenes de gobierno;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-VII. Desempeñar las comisiones que el Secretario Ejecutivo les encomiende e informarle sobre el desarrollo y resultado de las mismas;
+VI. Acordar con la persona titular de la Secretaría Ejecutiva los asuntos a cargo de sus unidades administrativas, coordinar sus actividades con las demás áreas del Consejo y, cuando corresponda, con otras dependencias y entidades de los tres órdenes de gobierno;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+VII. Desempeñar las comisiones que la persona titular de la Secretaría Ejecutiva les encomiende e informarle sobre el desarrollo y resultado de las mismas;
 
 VIII. Proponer y realizar estudios, proyectos para el cumplimiento del objeto del Consejo;
 
@@ -613,11 +671,17 @@ IX. Vigilar que se cumplan estrictamente las disposiciones legales en todos los 
 
 X. Solventar legal y oportunamente las observaciones de las auditorías que se practiquen en las áreas a su cargo;
 
-XI. Proponer al Secretario Ejecutivo el ingreso, promoción, licencia y remoción del personal a su cargo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XII. Hacer del conocimiento del órgano interno de control en el Consejo, las quejas, denuncias e inconformidades que le sean presentadas por servidores públicos, personas o grupos sociales;
+XI. Proponer a la persona titular de la Secretaría Ejecutiva el ingreso, promoción, licencia y remoción del personal a su cargo;
 
-XIII. Las demás que le confieran otras disposiciones jurídicas aplicables, el Consejo o el Secretario Ejecutivo.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XII. Hacer del conocimiento del Órgano Especializado en Quejas, Denuncias e Investigaciones del Ramo, así como a la Oficina de Representación en el Consejo, las quejas, denuncias e inconformidades que le sean presentadas por servidores públicos, personas o grupos sociales;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII. Las demás que le confieran otras disposiciones jurídicas aplicables, el Consejo o la persona titular de la Secretaría Ejecutiva.
 
 > <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -639,13 +703,19 @@ La Coordinación General de Administración es la unidad administrativa encargad
 
 La Coordinación General de Administración tendrá las siguientes funciones:
 
-I. Determinar y presentar al Secretario Ejecutivo las políticas, normas, lineamientos, sistemas y procedimientos para la programación, presupuestación, organización, y administración en general de los recursos que disponga el Consejo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+I. Determinar y presentar a la persona titular de la Secretaría Ejecutiva las políticas, normas, lineamientos, sistemas y procedimientos para la programación, presupuestación, organización, y administración en general de los recursos que disponga el Consejo;
 
 II. Establecer la metodología interna para la formulación del anteproyecto del programa-presupuesto del Consejo, así como su calendarización de acuerdo a la estacionalidad marcada por la Secretaría de Hacienda y Crédito Público;
 
-III. Determinar y proponer al Secretario Ejecutivo del Consejo, las modificaciones programáticas presupuestarias y de calendario financiero de los conceptos y partidas de gasto autorizadas al Consejo en el presupuesto de egresos de la federación, y gestionar su aprobación ante la Coordinadora de Sector;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-IV. Establecer y presentar al Secretario Ejecutivo, las políticas en materia de adquisiciones, arrendamientos, servicios y bases generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio del Consejo;
+III. Determinar y proponer a la persona titular de la Secretaría Ejecutiva del Consejo, las modificaciones programáticas presupuestarias y de calendario financiero de los conceptos y partidas de gasto autorizadas al Consejo en el presupuesto de egresos de la federación, y gestionar su aprobación ante la Coordinadora de Sector;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IV. Establecer y presentar a la persona titular de la Secretaría Ejecutiva, las políticas en materia de adquisiciones, arrendamientos, servicios y bases generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio del Consejo;
 
 V. Controlar el Sistema Integral de Administración Financiera Federal (SIAFF);
 
@@ -657,7 +727,9 @@ VIII. Mantener actualizada la estructura organizacional del Consejo;
 
 IX. Planear, organizar y dirigir el funcionamiento de las áreas del Consejo;
 
-X. Establecer y someter a la consideración del Secretario Ejecutivo del Consejo los mecanismos para el control y evaluación de los resultados obtenidos en el programa de administración de personal;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+X. Establecer y someter a la consideración de la persona titular de la Secretaría Ejecutiva del Consejo los mecanismos para el control y evaluación de los resultados obtenidos en el programa de administración de personal;
 
 XI. Supervisar que se cumplan las reglas para implantar, administrar, controlar y evaluar los sistemas y procedimientos de administración de personal, de acuerdo con las políticas autorizadas por el Comité;
 
@@ -665,7 +737,7 @@ XII. Vigilar la aplicación de las sanciones y medidas disciplinarias al persona
 
 XIII. Determinar el formato de las cédulas de identificación del personal que se utilicen para su acreditación laboral;
 
-XIV. Emitir las constancias de percepciones y retenciones del personal;
+XIV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2018)</small>
 
@@ -673,9 +745,13 @@ XV. Autorizar los manuales de organización y de procedimientos del Consejo, pre
 
 XVI. Coordinar los proyectos y programas de Innovación Gubernamental y Calidad Total, mediante la implantación de sistemas emprendedores, de acuerdo a los programas rectores establecidos por el Gobierno Federal;
 
-XVII. Definir y proponer a la Secretaría Ejecutiva el paquete de prestaciones del personal del Consejo, y vigilar su aplicación en el sistema de nómina;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Determinar y presentar al Secretario Ejecutivo las políticas que regirán las relaciones laborales del personal del Consejo;
+XVII. Definir y proponer a la persona titular de la Secretaría Ejecutiva el paquete de prestaciones del personal del Consejo, y vigilar su aplicación en el sistema de nómina;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Determinar y presentar a la persona titular de la Secretaría Ejecutiva las políticas que regirán las relaciones laborales del personal del Consejo;
 
 XIX. Conducir las relaciones laborales de acuerdo con las políticas aprobadas por el Comité, que creen un ambiente propicio para el trabajo y de satisfacción personal;
 
@@ -693,29 +769,41 @@ XXV. Asegurar los bienes patrimoniales para garantizar la protección de los act
 
 XXVI. Establecer los mecanismos de control que permitan evaluar los resultados obtenidos en los programas de adquisiciones, de conservación y mantenimiento de bienes muebles;
 
-XXVII. Determinar y proponer a la Secretaria Ejecutiva, las políticas y criterios para racionalizar y optimizar el desarrollo de los programas de adquisiciones y conservación y mantenimiento de bienes muebles;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Determinar y proponer a la persona titular de la Secretaría Ejecutiva, las políticas y criterios para racionalizar y optimizar el desarrollo de los programas de adquisiciones y conservación y mantenimiento de bienes muebles;
 
 XXVIII. Suscribir los contratos, convenios y los documentos relativos al ejercicio de sus funciones;
 
 XXIX. Autorizar y dotar a las áreas del Consejo los bienes y servicios requeridos para el logro de los objetivos institucionales, en apego a las políticas generales, criterios técnicos y lineamientos establecidos;
 
-XXX. Dirigir las acciones tendientes a proporcionar la información a que obliga el artículo 7 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XXX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2024)
 
-XXXI. Proponer al Comité de Información los procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Proponer al Comité de Transparencia los procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
 XXXII. Facultar a los servidores públicos del Consejo para recibir y dar trámite a las solicitudes de acceso a la información;
 
 XXXIII. Dirigir el apoyo a los usuarios que lo requieran y proveer todo tipo de asistencia para los trámites y servicios que demanden del Consejo;
 
-XXXIV. Proponer al Secretario Ejecutivo procedimientos, normas y reglamentos sobre la administración y mantenimiento de la infraestructura informática y de telecomunicaciones del Consejo, para la presentación y aprobación del Comité;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Proponer a la persona titular de la Secretaría Ejecutiva procedimientos, normas y reglamentos sobre la administración y mantenimiento de la infraestructura informática y de telecomunicaciones del Consejo, para la presentación y aprobación del Comité;
 
 XXXV. Coordinar la aplicación de las políticas, planes y programas generales de trabajo aprobados por el Comité, en materia de informática y telecomunicaciones;
 
-XXXVI. Proponer al Secretario Ejecutivo los proyectos estratégicos de actualización, expansión y modernización, en materia de informática y telecomunicaciones, que soporten el desarrollo de las actividades automatizadas de las áreas del Consejo, para la presentación y autorización del Comité;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XXXVII. Presentar al Secretario Ejecutivo, un informe anual respecto del ejercicio presupuestal;
+XXXVI. Proponer a la persona titular de la Secretaría Ejecutiva los proyectos estratégicos de actualización, expansión y modernización, en materia de informática y telecomunicaciones, que soporten el desarrollo de las actividades automatizadas de las áreas del Consejo, para la presentación y autorización del Comité.
 
-XXXVIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXVII. Presentar a la persona titular de la Secretaría Ejecutiva, un informe anual respecto del ejercicio presupuestal;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXXVIII. Acordar con la persona titular de la Secretaría Ejecutiva los asuntos de su competencia; y
 
 XXXIX. Las demás que le confieran otras disposiciones aplicables en la materia.
 
@@ -763,7 +851,9 @@ XVII. Supervisar que se apliquen las políticas de las relaciones laborales apro
 
 XVIII. Difundir las normas y medidas del Sistema Nacional de Protección Civil al personal del Consejo;
 
-XIX. Coordinar la elaboración de las cédulas de identificación del personal y las constancias de percepciones y retenciones;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XIX. Coordinar la elaboración de las cédulas de identificación del personal;
 
 XX. Controlar los recursos de los programas de adquisiciones, aseguramiento de bienes patrimoniales y conservación y mantenimiento;
 
@@ -787,11 +877,13 @@ La Dirección de Transparencia tiene las siguientes funciones:
 
 I. Administrar la información pública que deba ponerse a disposición de los ciudadanos;
 
-II. Administrar el contenido de la página Web del Consejo;
+II. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2024)
 
 III. Dirigir la elaboración e integración de la información pública de oficio;
 
-IV. Proponer al Comité de Información los procedimientos internos para asegurar la eficiencia en la gestión de las solicitudes de acceso a la información;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IV. Proponer al Comité de Transparencia los procedimientos internos para asegurar la eficiencia en la gestión de las solicitudes de acceso a la información;
 
 V. Administrar el sistema de registro de las solicitudes de acceso a la información, sus resultados y costos;
 
@@ -895,9 +987,9 @@ Para el cumplimiento de su objeto la Coordinación General de Análisis de la Po
 
 I. Planear y coordinar las actividades relacionadas con la generación de lineamientos, metodologías, normas, modelos e instrumentos de medición, identificación y definición de la pobreza a nivel nacional, estatal y municipal;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-II. Planear y proponer a la Secretaría Ejecutiva los criterios y lineamientos para medir, identificar y definir la pobreza a nivel nacional, estatal y municipal;
+II. Planear y proponer a la persona titular de la Secretaría Ejecutiva los criterios y lineamientos para medir, identificar y definir la pobreza a nivel nacional, estatal y municipal;
 
 III. Definir criterios de resultados que apoyen el establecimiento de las zonas de atención prioritaria;
 
@@ -925,7 +1017,9 @@ XII. Dirigir la revisión del trabajo estadístico y de campo de los estudios in
 
 XIII. Apoyar el establecimiento de metodologías de evaluación de programas y/o medición de la pobreza;
 
-XIV. Proponer al Secretario Ejecutivo las medidas tendientes al desarrollo de las encuestas nacionales, regionales y locales que solicite el Consejo, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV. Proponer a la persona titular de la Secretaría Ejecutiva las medidas tendientes al desarrollo de las encuestas nacionales, regionales y locales que solicite el Consejo;
 
 > <small>[N. DE E. DE LA APLICACIÓN DEL ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL, PUBLICADO EN EL D.O.F. DE 23 DE OCTUBRE DE 2015, SE OBSERVA QUE EL CONTENIDO DE LA FRACCIÓN XV, ES SIMILAR A LA FRACCIÓN XXVII DEL PRESENTE ARTÍCULO.]</small>
 
@@ -979,9 +1073,9 @@ XXVI. Participar en los comités y grupos de trabajo relacionados con sus ámbit
 
 XXVII. Planificar sistemas de información estadística y territorial sobre indicadores de pobreza y de acceso efectivo a los derechos sociales; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XXVIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
+XXVIII. Acordar con la persona titular de la Secretaría Ejecutiva los asuntos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1025,7 +1119,9 @@ II. Dirigir las actividades de medición y análisis de los resultados de los di
 
 III. Coordinar los trabajos para la definición de los lineamientos y criterios para el diseño de las evaluaciones de impacto de los diferentes Programas Sociales.
 
-IV. Planear y dirigir los trabajos de coordinación con el Instituto Nacional de Estadística, Geografía e Informática, así como con las demás dependencias y entidades públicas en materia de generación de información estadística, para medición de la pobreza y la evaluación de los Programas Sociales.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IV. Planear y dirigir los trabajos de coordinación con el Instituto Nacional de Estadística y Geografía, así como con las demás dependencias y entidades públicas en materia de generación de información estadística, para medición de la pobreza y la evaluación de los Programas Sociales;
 
 V. Definir criterios de resultados, de acuerdo a un rigoroso (sic) análisis estadístico de la información disponible y del impacto esperado de los diferentes Programas Sociales, que apoyen el establecimiento de las zonas de atención prioritaria;
 
@@ -1037,7 +1133,9 @@ VII. Poner a consideración de la Coordinación General de Análisis de la Pobre
 
 VIII. Establecer los criterios técnicos para la selección de muestras, diseño de trabajo de campo, realización de encuestas y análisis estadístico de los estudios que realice y/o coordine el Consejo;
 
-IX. Planear las actividades de diseños de muestra de forma coordinada con el Director de Análisis y Medición de la Pobreza así como el Director de Normas y Metodología de la Pobreza;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IX. Planear las actividades de diseños de muestra de forma coordinada con la Dirección de Normas y Metodología de Medición de la Pobreza y las áreas competentes en la materia adscritas a la Coordinación General de Análisis de la Pobreza.
 
 X. Contribuir en la realización de estudios para el análisis de metodologías de medición de la pobreza a nivel nacional, estatal y/o municipal;
 
@@ -1127,9 +1225,9 @@ XVI. Normar y coordinar un inventario de programas de desarrollo social como her
 
 XVII. Establecer criterios para la definición e identificación de los programas y/o acciones de desarrollo social con el objetivo de brindar información oportuna para la toma de decisiones en materia de desarrollo social; y
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Acordar con la Secretaría Ejecutiva los asuntos de su competencia.
+XVIII. Acordar con la persona titular de la Secretaría Ejecutiva los asuntos de su competencia.
 
 XIX. (DEROGADA, D.O.F. 4 DE ABRIL DE 2022)
 
@@ -1277,9 +1375,13 @@ I. Coordinar los servicios de asesoría jurídica mediante la gestión de la rep
 
 II. Coordinar la representación legal del Consejo ante cualquier tribunal y autoridad administrativa y judicial;
 
-III. Asesorar al Secretario Ejecutivo, a los investigadores académicos y a las Coordinaciones Generales, sobre la normatividad en general para su adecuada interpretación;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-IV. Proponer disposiciones normativas a la consideración de la Secretaría Ejecutiva y del Comité, así como dirigir su análisis, revisión y dictaminación;
+III. Asesorar a la persona titular de la Secretaria Ejecutiva, a los investigadores académicos y a las Coordinaciones Generales, sobre la normatividad en general para su adecuada interpretación;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+IV. Proponer disposiciones normativas a la consideración de la persona titular de la Secretaría Ejecutiva y del Comité, así como dirigir su análisis, revisión y dictaminación;
 
 V. Planear y dirigir la estrategia de información, comunicación social y la representación oficial del Consejo a través de los diversos medios de comunicación;
 
@@ -1297,7 +1399,9 @@ XI. Conducir la integración, seguimiento y evaluación de la planeación instit
 
 XII. Establecer un sistema de administración de proyectos para integrar las investigaciones individuales que realicen los consejeros sobre medición de la pobreza y evaluación de programas sociales;
 
-XIII. Coordinar los servicios de apoyo técnico al Secretario Ejecutivo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII. Coordinar los servicios de apoyo técnico a la persona titular de la Secretaría Ejecutiva;
 
 XIV. Dirigir la estrategia del fortalecimiento de sistemas de monitoreo y evaluación, así como el uso de la información del Consejo en las entidades federativas, municipios y sociedad civil.
 
@@ -1305,7 +1409,9 @@ XV. Coordinar el seguimiento a las observaciones que hagan las Comisiones de Des
 
 XVI. Coordinar el seguimiento a las propuestas, sugerencias y observaciones que hagan la Comisión Nacional de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Consejo Consultivo de Desarrollo Social, el Ejecutivo Federal y cualquier otro organismo de participación social;
 
-XVII. Dirigir la integración de la información y darle seguimiento a los compromisos de trabajo entre el Secretario Ejecutivo y las Coordinaciones Generales;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XVII. Dirigir la integración de la información y darle seguimiento a los compromisos de trabajo entre la persona titular de la Secretaría Ejecutiva y las Coordinaciones Generales;
 
 XVIII. Planear y coordinar la actividad del gobierno federal en materia de monitoreo de la política y/o los programas de desarrollo social;
 
@@ -1315,7 +1421,9 @@ XX. Planear la realización de diagnósticos de los sistemas de monitoreo a nive
 
 XXI. Planear y proponer el intercambio de apoyo técnico en materia de monitoreo, con las autoridades de desarrollo social en las entidades federativas y municipios, así como con organizaciones del sector académico, social y/o privado; nacional o internacional; y
 
-XXII. Acordar con la Secretaría Ejecutiva la atención y el despacho de los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+XXII. Acordar con la persona titular de la Secretaría Ejecutiva la atención y el despacho de los asuntos de su competencia;
 
 > <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2022)</small>
 
@@ -1367,9 +1475,9 @@ III. Determinar y revisar los proyectos de acuerdos, convenios y lineamientos qu
 
 IV. Asesorar a la Coordinación General de Administración en los trámites y actividades de arrendamientos y contratación de servicios que requiera celebrar el Consejo ante terceros;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-V. Conducir en coordinación con el Secretario Ejecutivo la representación legal del Consejo ante cualquier autoridad, institución o persona que le demande algún asunto legal o jurídico de interés del Consejo;
+V. Conducir en coordinación con la persona titular de la Secretaría Ejecutiva la representación legal del Consejo ante cualquier autoridad, institución o persona que le demande algún asunto legal o jurídico de interés del Consejo;
 
 > <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
@@ -1383,13 +1491,13 @@ VII. Dirigir los trabajos de compilación de los tratados internacionales, leyes
 
 VIII. Asesorar en materia jurídica y legal a las diversas áreas que conforman al Consejo para la celebración de acuerdos de cooperación y bases de colaboración entre los diversos órdenes de gobierno y organismos públicos privados y académicos tanto nacionales como internacionales;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-IX. Coordinar la asesoría sobre la normatividad en general para orientar al Secretario Ejecutivo, a los investigadores académicos del Consejo y a las Coordinaciones Generales;
+IX. Coordinar la asesoría sobre la normatividad en general para orientar a la persona titular de la Secretaría Ejecutiva, a los investigadores académicos del Consejo y a las Coordinaciones Generales;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-X. Colaborar con las dependencias de los gobiernos federal, estatal y municipal y demás instancias, para revisar la normatividad relacionada con la evaluación, monitoreo, indicadores y medición de pobreza que, por necesidades de las funciones y programas específicos, obliguen a realizar acciones conjuntas, previo acuerdo con el Secretario Ejecutivo;
+X. Colaborar con las dependencias de los gobiernos federal, estatal y municipal y demás instancias, para revisar la normatividad relacionada con la evaluación, monitoreo, indicadores y medición de pobreza que, por necesidades de las funciones y programas específicos, obliguen a realizar acciones conjuntas, previo acuerdo con la persona titular de la Secretaría Ejecutiva;
 
 > <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
@@ -1457,17 +1565,17 @@ XVII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y
 
 La Dirección de Servicios Técnicos tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-I. Proporcionar los servicios de asesoría técnica que requiera el Secretario Ejecutivo de la planeación institucional del Consejo;
+I. Proporcionar los servicios de asesoría técnica que requiera la persona titular de la Secretaría Ejecutiva de la planeación institucional del Consejo;
 
 > <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
 II. Coordinar la preparación y distribución de los insumos necesarios para que se realicen las sesiones ordinarias y extraordinarias a que convoquen la Comisión Ejecutiva;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-III. Consolidar la información sobre los asuntos que deba presentar el Secretario Ejecutivo ante la Comisión Ejecutiva;
+III. Consolidar la información sobre los asuntos que deba presentar la persona titular de la Secretaría Ejecutiva ante la Comisión Ejecutiva;
 
 > <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
@@ -1481,9 +1589,9 @@ V. Controlar y consolidar la integración de los archivos de la Comisión Ejecut
 
 VI. Coordinar y supervisar los acuerdos que se aprueben en las sesiones de la Comisión Ejecutiva mediante el ajuste y adecuación de los planes de trabajo de las áreas del Consejo;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-VII. Coordinar junto con el Secretario Ejecutivo el seguimiento de los acuerdos aprobados en las sesiones de la Comisión Ejecutiva;
+VII. Coordinar junto con la persona titular de la Secretaría Ejecutiva el seguimiento de los acuerdos aprobados en las sesiones de la Comisión Ejecutiva;
 
 VIII. Coordinar el seguimiento a las observaciones que hagan las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión y las Secretarías de Estado;
 
@@ -1501,35 +1609,53 @@ XI. Dirigir los análisis de resultados de las actividades de las áreas del Con
 
 XII. Definir los mecanismos para medir la eficiencia del desempeño y actuación de las áreas del Consejo;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XIII. Dirigir los mecanismos de autoevaluación bianual de las áreas del Consejo para medir la eficiencia y eficacia de la gestión y poner los resultados a la consideración del Secretario Ejecutivo y de la Comisión Ejecutiva;
+XIII. Dirigir los mecanismos de autoevaluación bianual de las áreas del Consejo para medir la eficiencia y eficacia de la gestión y poner los resultados a la consideración de la persona titular de la Secretaría Ejecutiva y de la Comisión Ejecutiva;
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XIV. Coordinar los sistemas de evaluación y monitoreo para corregir las deficiencias, observaciones y acciones de mejora que le reporten al Secretario Ejecutivo y al Comité, el Comisario y el titular del Órgano Interno de Control;
+XIV. Coordinar los sistemas de evaluación y monitoreo para corregir las deficiencias, observaciones y acciones de mejora que le reporten a la persona titular de la Secretaría Ejecutiva y al Comité, el Comisario y la persona titular de la Jefatura de la Oficina de Representación.
 
-> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-XV. Coordinar el apoyo técnico que requiera el Secretario Ejecutivo para la elaboración, en conjunto con las Coordinaciones Generales, de la Planeación Institucional del Consejo, a fin de dar seguimiento al cumplimiento de los objetivos del Consejo; y
+XV. Coordinar el apoyo técnico que requiera la persona titular de la Secretaría Ejecutiva para la elaboración, en conjunto con las Coordinaciones Generales, de la Planeación Institucional del Consejo, a fin de dar seguimiento al cumplimiento de los objetivos del Consejo; y
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 XVI. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional los asuntos de su competencia.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+### Capítulo XII. De la Oficina de Representación
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 51.
+
+La Oficina de Representación tendrá el carácter de Unidad Administrativa adscrita al Consejo y estará a cargo de un Jefe (a) de Oficina, quien será designado o nombrado y, en su caso, removido por el Coordinador General de Gobierno de Órganos de Control y Vigilancia de la Secretaría de la Función Pública, de quien dependerá jerárquicamente. Lo anterior en términos de los artículos 89 fracción X, 90 fracción VII y 104 del Reglamento Interior de dicha Secretaría.
+
+Para efectos de su funcionamiento, también tendrán el carácter de superiores jerárquicos los Titulares de los Órganos Internos de Control Especializados y los Titulares de las áreas de especialidad, estos últimos en la materia que les corresponda.
+
+El personal adscrito a la Oficina de Representación podrá ser comisionado para coadyuvar con otras Unidades Administrativas de la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables.
+
+La Oficina de Representación, continuará disponiendo de los recursos con que cuenta actualmente para el cumplimiento de sus actividades, en términos de lo dispuesto por el artículo Cuarto transitorio del Acuerdo por el que se extinguen órganos internos de control específicos, se crean oficinas de representación, y se asigna la dependencia, entidad paraestatal y órgano administrativo desconcentrado que integran el ramo en que ejercerán sus funciones los órganos internos de control especializados y las unidades administrativas que los auxilian.
+
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ### Capítulo XII. De las Suplencias en las Unidades Administrativas del Consejo
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 1 DE SEPTIEMBRE DE 2021, PÁGINA 161; SE ADVIERTE QUE CAMBIÓ LA ESTRUCTRUA DEL PRESENTE ARTÍCULO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 51], D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 52.
 
-###### Artículo 51.
-
-Durante las ausencias del Secretario Ejecutivo el despacho y resolución de los asuntos correspondientes al Consejo estarán a cargo de los Coordinadores Generales de Monitoreo, Entidades Federativas y Fortalecimiento Institucional, Análisis de la Pobreza, Evaluación y Administración, en el orden mencionado. En las ausencias de los Coordinadores Generales de Evaluación, Monitoreo, Entidades Federativas y Fortalecimiento Institucional, Análisis de la Pobreza y Administración, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el titular de la Dirección de Área adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
+Durante las ausencias de la persona titular de la Secretaría Ejecutiva el despacho y resolución de los asuntos correspondientes al Consejo estarán a cargo de los Coordinadores Generales de Monitoreo, Entidades Federativas y Fortalecimiento Institucional, Análisis de la Pobreza, Evaluación y Administración, en el orden mencionado. En las ausencias de los Coordinadores Generales de Evaluación, Monitoreo, Entidades Federativas y Fortalecimiento Institucional, Análisis de la Pobreza y Administración, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por el titular de la Dirección de Área adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
 
 Los titulares las Direcciones de Área serán suplidos durante sus ausencias por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
+
+Las suplencias del personal adscrito a la Oficina de Representación serán conforme lo determine el Reglamento Interior de la Secretaría de la Función Pública y demás normatividad aplicable.
 
 ## TRANSITORIOS
 
@@ -1610,6 +1736,16 @@ SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Org
 TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 D.O.F. 23 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+D.O.F. 20 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
 
