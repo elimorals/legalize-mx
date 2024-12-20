@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-78424"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2022-12-22"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE ADQUISICIONES PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2010.
 
@@ -555,7 +557,9 @@ Los servidores públicos de la autoridad convocante no deberán proporcionar a t
 
 ###### ARTICULO 47.
 
-Las bases que emitan la Secretaría y las entidades para las licitaciones públicas se pondrán a disposición de los interesados, tanto en el domicilio señalado por la convocante como en Internet, a partir del día en que se publique la convocatoria y hasta, inclusive, el día hábil anterior señalado para la junta de aclaraciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período. Las bases contendrán, en lo aplicable, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Las bases que emitan la Secretaría y las entidades para las licitaciones públicas se pondrán a disposición de los interesados, tanto en el domicilio señalado por la convocante como en Internet, a partir del día en que se publique la convocatoria y hasta, inclusive, el día hábil anterior señalado para la junta de aclaraciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período, para poder participar en el procedimiento licitatorio. Las bases contendrán, en lo aplicable, lo siguiente:
 
 I. La denominación de la dependencia o entidad estatal convocante o del Ayuntamiento, en su caso;
 
@@ -1270,3 +1274,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se instruye a la Fiscalía General de Justicia del Estado y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes a efecto de realizar las adecuaciones normativas y presupuestarias a las que haya lugar, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
