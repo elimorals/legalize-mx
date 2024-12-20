@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-la-apertura-instalacion-y-funcionamiento-13223
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-09"
-last_updated: "2023-12-23"
+last_updated: "2024-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Tamaulipas, el miércoles 9 de enero de 2019.
 
@@ -87,9 +87,21 @@ IX. Fiscalía. Fiscalía General de Justicia del Estado de Tamaulipas;
 
 X. Secretaría. Secretaría de Finanzas del Gobierno del Estado de Tamaulipas;
 
-XI. Secretaría de Seguridad. Secretaría de Seguridad Pública del Gobierno del Estado de Tamaulipas; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XII. Código QR. Código de barras bidimensional cuadrada que puede almacenar los datos codificados.
+XI. Secretaría de Seguridad. Secretaría de Seguridad Pública del Gobierno del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XII. Código QR. Código de barras bidimensional cuadrada que puede almacenar los datos codificados;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII. Clausura. Es un acto de orden público, que tiene por objeto suspender el funcionamiento de un establecimiento o negociación que contravenga las disposiciones de esta Ley, conforme a las causales que se establecen en el siguiente artículo. La clausura podrá ser temporal o definitiva; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV. Visitador. Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta Ley.
 
 ### CAPÍTULO II. DE LOS PERMISOS
 
@@ -347,9 +359,23 @@ X. En caso de no contar el pignorante con la documentación que acredite la prop
 
 XI. Anexar al informe descrito en la fracción II del presente artículo, copia de la factura, contrato de compra venta, cesión de derechos, acta notarial o cualquier otro documento con que acredite la propiedad del bien dado en prenda;
 
-XII. Registrar en la plataforma informática determinada por la Secretaría de Seguridad Púbica, la información necesaria que permita la identificación de las personas que celebren contratos de mutuo con garantía prendaria en el establecimiento, el día que se realice la operación; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XIII. Las demás que establezca esta ley y disposiciones aplicables.
+XII. Registrar en la plataforma informática determinada por la Secretaría de Seguridad Púbica, la información necesaria que permita la identificación de las personas que celebren contratos de mutuo con garantía prendaria en el establecimiento, el día que se realice la operación;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIII. Iniciar las actividades autorizadas en el permiso en un plazo no mayor de noventa días naturales a partir de la fecha en que fue expedido el mismo, de lo contrario se procederá con la sanción contemplada en la fracción I, del artículo 36 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XIV. Informar a la Secretaría la suspensión de las actividades señaladas en el permiso, por un lapso no mayor a treinta días naturales consecutivos, debiendo utilizar para este efecto la forma autorizada por la Secretaría, misma que se presentará ante la Oficina Fiscal correspondiente dentro de los siete días hábiles siguientes al inicio de la suspensión, de lo contrario se hará acreedor a la sanción contemplada en la fracción IV del artículo 36 de la presente ley;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+XV. Pagar los derechos correspondientes del permiso dentro del plazo que fijen las leyes. Los comprobantes de pago deberán conservarse en el establecimiento en el que se opere, para que los visitadores puedan verificarlos; y
+
+XVI. Las demás que establezca esta ley y disposiciones aplicables.
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE FINANZAS
 
@@ -387,11 +413,69 @@ La vigilancia y supervisión de las operaciones y exacto cumplimiento de la Ley,
 
 Si del resultado de la diligencia de inspección o auditoría, la Secretaría determina infracciones de carácter fiscal cometidas por los permisionarios, deberá imponer la sanción correspondiente prevista en el Código Fiscal para el Estado de Tamaulipas.
 
-### CAPÍTULO X. DE LA FISCALIZACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO X. DE LA FISCALIZACIÓN Y VISITAS DOMICILIARIAS
 
 ###### ARTÍCULO 27.
 
 Las casas de empeño tienen la obligación de llevar contabilidad, la cual deberán conservar en el domicilio que se señale para efectos fiscales. Dicha contabilidad, estará a disposición de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 27 Bis.
+
+La Secretaría podrá ordenar y practicar diligencias de inspección o auditorías, la vigilancia y supervisión de la operación a los establecimientos que se dediquen a las actividades que regula la presente Ley, para verificar el cumplimiento de la misma.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 27 Ter.
+
+La vigilancia para el cumplimiento de las disposiciones a que esta Ley se refiere, estará a cargo de los visitadores que designe la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 27 Quater.
+
+Los visitadores en el ejercicio de sus funciones, se presentarán en los establecimientos a que se refiere esta Ley, debiendo identificarse previamente con su credencial expedida por la Secretaría, ante la persona con quien entienda la diligencia.
+
+Los permisionarios, sus representantes legales o los encargados del establecimiento objeto de la visita domiciliaria estarán obligados a permitir el acceso inmediato a los visitadores, a darles las facilidades e informes necesarios para el desarrollo de su labor y, en general, a proporcionar todos los elementos y datos que estos requieran para la comprobación del cumplimiento de las disposiciones que a esta Ley se refiere.
+
+El incumplimiento de las disposiciones contenidas en este artículo, traerá como consecuencia la imposición de la sanción prevista en la fracción III del artículo 34 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 27 Quinquies.
+
+La visita domiciliaria a que se refiere el artículo anterior, se practicará con el permisionario del establecimiento, su representante legal o, en su caso, con quien se encuentre al frente del mismo, requiriéndole la presentación de la documentación siguiente:
+
+I. Original de la licencia o permiso vigente;
+
+II. Identificación de la persona con quien se entiende la visita;
+
+III. Tratándose de representantes legales, documento notarial con el que se acredite su personalidad;
+
+IV. Comprobante de solicitud para la expedición de un nuevo permiso en trámite, en su caso; y
+
+V. Pago por la Expedición, Revalidación, Modificación y/o Reposición del Permiso de Instalación y Funcionamiento de Casas de Empeño en el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 27 Sexies.
+
+Las visitas a los establecimientos se sujetarán a las siguientes bases:
+
+I. El visitador deberá contar con una orden por escrito que contendrá la fecha, la ubicación del establecimiento a visitar, el nombre, razón social o denominación, el fundamento legal y la motivación de la misma; el nombre y la firma de la autoridad que expida la orden y el nombre del visitador. La orden deberá estar firmada por el titular de la Secretaría o por el servidor público facultado por éste. En la orden podrán designarse uno o varios visitadores según se requiera;
+
+II. El visitador deberá identificarse ante el permisionario o administrador del establecimiento o su representante legal o el encargado del establecimiento en su caso, con la credencial vigente que para el efecto le expida la Secretaría y procederá a entregar el original de la orden de visita del establecimiento;
+
+III. Para la realización de la visita domiciliaria al establecimiento se considerarán todos los días del año y las veinticuatro horas del día como hábiles;
+
+IV. Al inicio de la visita domiciliaria al establecimiento, el visitador deberá requerir a la persona con quien se entienda la visita, que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, el visitador los designará, haciendo constar esta situación en el acta que levante, sin que esta circunstancia invalide los resultados de la visita;
+
+V. De toda visita se levantará acta circunstanciada en las formas aprobadas por la Secretaría, en las que se harán constar las incidencias y el resultado de estas. El acta deberá ser firmada por el visitador, por la persona con quien se entendió la diligencia y por los testigos. Si alguna de las personas señaladas se niega a firmar, el visitador lo hará constar en el acta, sin que ésta circunstancia altere el valor probatorio del documento; y
+
+VI. El visitador deberá entregar a la persona con quien se entendió la visita una copia legible del acta, con el fin de que el interesado pueda, si así lo desea, presentar escrito de inconformidad con los hechos señalados en la misma y exhibir las pruebas y alegatos que a su derecho convengan, dentro de los cinco días hábiles siguientes a la formulación de ésta, ante la Secretaría. Transcurrido dicho plazo, si no se hubiera presentado inconformidad y las pruebas respectivas, se tendrán por consentidos los hechos consignados en el acta.
 
 ### CAPÍTULO XI. DE LA FISCALÍA
 
@@ -491,6 +575,28 @@ II. Las condiciones del infractor; y
 
 III. La conveniencia de evitar prácticas tendientes a contravenir las disposiciones de la Ley.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 37 Bis.
+
+Son causas de clausura las siguientes:
+
+I. Procede la clausura temporal cuando:
+
+a). El permisionario no revalide el permiso;
+
+b). El permiso de casas de empeño sea utilizado en un domicilio distinto al que se señala en el mismo; y
+
+c). Exigida la presentación del original del permiso de funcionamiento por la autoridad competente, ésta no se realice.
+
+II. Procede la clausura definitiva cuando:
+
+a). Haya reincidencia por incumplir las disposiciones de la presente ley;
+
+b). Cuando el propietario, el encargado o el empleado de los establecimientos impidan de cualquier forma o dificulten la entrada a las autoridades encargadas de la aplicación y vigilancia del cumplimiento de las disposiciones de esta ley; y
+
+c). El establecimiento se encuentre operando sin el permiso correspondiente.
+
 ### CAPÍTULO XIII. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 38.
@@ -499,9 +605,11 @@ Las notificaciones, citatorios, solicitud de informes o documentos y resolucione
 
 ### CAPÍTULO XIV. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 39.
 
-En caso de inconformidad por la aplicación de alguna de las disposiciones o resoluciones contenidas en esta Ley, los permisionarios podrán interponer el recurso de revocación conforme a lo establecido en el Código Fiscal del Estado de Tamaulipas, o promover directamente contra dicho acto, juicio de nulidad ante el Tribunal Fiscal del Estado.
+En caso de inconformidad por la aplicación de alguna de las disposiciones o resoluciones contenidas en esta Ley, los permisionarios podrán interponer el recurso de revocación conforme a lo establecido en el Código Fiscal del Estado de Tamaulipas, o promover directamente contra dicho acto, juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
 T R A N S I T O R I O S
 
@@ -580,3 +688,9 @@ En un plazo no mayor a 120 días contados a partir de la entrada en vigor del pr
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
