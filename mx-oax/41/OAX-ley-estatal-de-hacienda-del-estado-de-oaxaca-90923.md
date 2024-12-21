@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2023-12-16"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -157,7 +157,9 @@ I. Presentar ante la Secretaría, Centro Integral de Atención al Contribuyente 
 
 a) El aviso en el formato que para tal efecto emita la Secretaría;
 
-b) Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante billete de depósito, efectivo o cheque de caja, y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+b) Garantizar el interés fiscal que ampare el 6 por ciento del valor total del boletaje a vender, mediante efectivo o a través de medios electrónicos de pago autorizados, y
 
 c) En los casos de ampliación o suspensión del evento, presentar el aviso correspondiente a más tardar un día antes de la realización prevista.
 
@@ -225,15 +227,19 @@ El impuesto se pagará una vez que haya sido determinado por el interventor hast
 
 El interventor deberá observar las formalidades que para tal efecto se establecen en el Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-Los sujetos de este impuesto, tendrán a su cargo las siguientes obligaciones:
+Los sujetos de este impuesto, tendrán a su cargo la obligación de presentar a más tardar tres días antes de realizarse el evento de diversión o espectáculo público, lo siguiente:
 
-Presentar a más tardar tres días antes de realizarse el evento o espectáculo público:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 I. El aviso en el formato que para tal efecto emita la Secretaría;
 
-II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante billete de depósito, efectivo o cheque de caja, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante efectivo o medios electrónicos de pago autorizados, y
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
@@ -283,15 +289,35 @@ III. Las representaciones culturales que se realicen por artistas o grupos indep
 
 Para efectos del presente artículo se entenderá por:
 
-a) Organización Directa: Cuando el pago por las diversiones o espectáculos públicos ingresen al erario Federal, Estatal o Municipal, según el caso y consten en recibos oficiales.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-b) Artista Independiente: Al creador o intérprete que no depende de institución o empresa alguna, comercializando por sí mismo sus productos culturales y que de manera autónoma financia sus actividades.
+I. Organización Directa: cuando el pago por las diversiones o espectáculos públicos ingresen al erario Federal, Estatal o Municipal, o bien, al patrimonio de la institución de beneficencia pública, según sea el caso, y acrediten el ingreso del pago total obtenido por las diversiones o espectáculos públicos con el comprobante en medio físico y/o electrónico correspondiente;
 
-c) Grupo independiente a dos o más individuos interactuantes e interdependientes, que se reúnen para crear o interpretar por si mismos sus productos culturales y que financian con recursos propios la realización de sus actividades.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+II. Artista Independiente: al creador o intérprete que no depende de institución o empresa alguna, comercializando por sí mismo sus productos culturales y que de manera autónoma financia sus actividades, y
 
-Los sujetos que se encuentren en este artículo deberán cumplir con las obligaciones señaladas en el artículo 15 de esta Ley, a excepción de lo establecido en la fracción II.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. Grupo Independiente: a dos o más individuos interactuantes e interdependientes, que se reúnen para crear o interpretar por sí mismos sus productos culturales y que financian con recursos propios la realización de sus actividades.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Los sujetos a que se refiere este artículo, deberán cumplir con las siguientes obligaciones:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Las establecidas en el artículo 15 de esta Ley, a excepción de la fracción II;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+II. Permitir la intervención de la autoridad fiscal para vigilar la entrada, constatar y determinar el ingreso del pago total obtenido por la organización directa de las diversiones o espectáculos públicos.
+
+Para efectos de lo anterior, se observará el procedimiento establecido en el artículo 173 del Código, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. Que los boletos o pases de cortesía otorgados, no excedan del 5 por ciento del total de boletos que se hayan declarado por cada función de la diversión o espectáculo de que se trate.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -991,7 +1017,9 @@ Los vehículos eléctricos, así como de aquellos que además cuenten con motor 
 
 El pago de este impuesto se efectuará dentro de los tres primeros meses de cada año, excepto para vehículos nuevos, que deberán enterar el impuesto dentro de los 30 días hábiles contados a partir de la fecha de adquisición o importación, según sea el caso.
 
-El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en la Ley Estatal de Derechos de Oaxaca, a partir del ejercicio fiscal en que se registre en el padrón vehicular.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular y de verificación de emisiones a la atmósfera que conforme al programa obligatorio estatal de verificación vehicular vigente corresponda, establecidos en la Ley Estatal de Derechos de Oaxaca, a partir del ejercicio fiscal en que se registre en el padrón vehicular.
 
 ###### ARTÍCULO 43.
 
@@ -1413,23 +1441,35 @@ VIII. Los instrumentos de trabajo tales como herramientas, ropa y otros similare
 
 IX. Participaciones de los trabajadores en las utilidades de las empresas;
 
-X. Aportaciones al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Oficina de Pensiones del Estado y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), de las cuotas a cargo del patrón;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+X. Aportaciones al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Oficina de Pensiones del Estado y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), de las cuotas a cargo del patrón;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 XI. Los pagos por tiempo extraordinario cuando este no rebase tres horas diarias ni tres veces por semana de trabajo, en caso de existir excedentes por este concepto, estos formarán parte de la base del impuesto y deberán enterarse conforme al artículo 63 de esta ley.
 
-XII. Alimentación y habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-La excepción establecida se limitará al 10 por ciento del salario del trabajador, para cada uno de los conceptos aludidos en esta fracción;
+XII. Alimentación y habitación cuando reúnan los siguientes requisitos:
 
-XIII. Gastos funerarios;
+a) Se entreguen en forma onerosa a los trabajadores. Se entiende que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el 20 por ciento del salario mínimo general diario vigente en la Ciudad de México, y
+
+b) Estar amparadas con documentación que acredite que las cantidades entregadas por estos conceptos se destinaron para satisfacer dichas necesidades.
+
+La excepción establecida se limitará al 10 por ciento del salario del trabajador, para cada uno de los conceptos aludidos en esta fracción.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+XIII. Vales de despensa, siempre y cuando su entrega se realice a través de los monederos electrónicos que autorice el Servicio de Administración Tributaria, y que su importe no rebase el 40 por ciento del salario mínimo general diario vigente en la Ciudad de México;
+
+XIV. Gastos funerarios;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-XIV. El ahorro cuando se integra por una cantidad igual del trabajador y del patrón, la aportación del contribuyente no exceda del trece por ciento del salario del trabajador y sin que en ningún caso dicha aportación exceda del monto equivalente de 1.3 veces el salario mínimo general elevado al año, siempre y cuando no sea retirado por el trabajador más de una vez al año, y
+XV. El ahorro cuando se integra por una cantidad igual del trabajador y del patrón, la aportación del contribuyente no exceda del trece por ciento del salario del trabajador y sin que en ningún caso dicha aportación exceda del monto equivalente de 1.3 veces el salario mínimo general elevado al año, siempre y cuando no sea retirado por el trabajador más de una vez al año, y
 
-XV. Pagos realizados a personas físicas, morales o unidades económicas, por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
+XVI. Pagos realizados a personas físicas, morales o unidades económicas, por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
 
 Para que los conceptos anteriormente señalados se exceptúen deberán estar debidamente registrados en la contabilidad, en términos de lo dispuesto por el Código.
 
@@ -1595,15 +1635,15 @@ Son contribuciones de mejoras las establecidas en Ley a cargo de las personas f�
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 71.
 
-Quedan comprendidos dentro de este Título, los ingresos que obtenga el Estado por los siguientes conceptos:
+Son productos las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
-I. Por el uso, aprovechamiento o enajenación de bienes del dominio privado del Estado, y
+I. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-II. Por los rendimientos financieros.
+II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
 ###### ARTÍCULO 72.
 
@@ -1613,31 +1653,43 @@ Los productos por conceptos diversos de los señalados, en el artículo que ante
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 73.
 
-Se consideran aprovechamientos, los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal mismas que se clasifican de la siguiente manera:
+Se consideran aprovechamientos, los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-I. De tipo corriente;
+I. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-II. De capital, y
+II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-III. Los no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-## TÍTULO SEXTO. DE LOS INGRESOS POR VENTAS DE BIENES Y SERVICIOS
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 26 del Código, que se apliquen en relación con los aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SEXTO. DE LOS INGRESOS POR VENTAS DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 74.
 
-Son los ingresos que obtienen las diversas dependencias y entidades de la Administración Pública por sus actividades de producción y/o comercialización, entre los cuales se encuentran:
+Son los ingresos propios obtenidos por las Instituciones Públicas de Seguridad Social, las Empresas Productivas del Estado, las entidades de la administración pública paraestatal y paramunicipal, los poderes legislativo y judicial, y los órganos autónomos federales y estatales, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
 
-I. Los provenientes por las ventas de bienes y servicios de organismos descentralizados;
+I. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-II. Los provenientes de operaciones de empresas de participación estatal, y
+II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-III. Los provenientes por ventas de bienes y servicios producidos en establecimientos del gobierno central.
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
-## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES Y APORTACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL Y FONDOS DISTINTOS DE APORTACIONES
 
 ### CAPÍTULO ÚNICO
 
@@ -1647,13 +1699,17 @@ III. Los provenientes por ventas de bienes y servicios producidos en establecimi
 
 Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; inclúye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
 
-## TÍTULO OCTAVO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO OCTAVO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES, Y PENSIONES Y JUBILACIONES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 76.
 
-Son los recursos destinados en forma directa o indirecta a los sectores públicos, privado y externo, organismos y empresas paraestatales y apoyos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
+Son los recursos que reciben en forma directa o indirecta los entes públicos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
 
 ## TÍTULO NOVENO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTO
 
@@ -1828,3 +1884,11 @@ P.O. 16 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 18.- MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
