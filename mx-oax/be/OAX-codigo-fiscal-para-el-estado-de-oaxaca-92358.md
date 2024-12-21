@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2023-12-16"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -471,21 +471,19 @@ El plazo para que se configure la prescripción, en ningún caso, incluyendo cua
 
 La prescripción, se podrá declarar de oficio por la autoridad, por acción o excepción ejercidas por el deudor.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-La Secretaría podrá ordenar la cancelación administrativa de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro, o por insolvencia del deudor y los responsables solidarios.
+La Secretaría podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión; aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito; así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
-La Secretaría a través de Reglas dará a conocer los criterios mediante los cuales se considerará la incosteabilidad en el cobro de un crédito fiscal.
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
-Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables suficientes para cubrir el crédito.
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el tercer párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
 
-También procederá la cancelación señalada en este artículo en los casos que el deudor no se pueda localizar, y no se conozcan bienes que puedan ser objeto del procedimiento administrativo de ejecución.
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-La cancelación de los créditos a que se refiere este artículo no libera de su pago a los obligados.
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ###### ARTÍCULO 35.
 
@@ -719,7 +717,11 @@ De ser procedente la conclusión señalada, se hará constar la corrección fisc
 
 XXXV. A que previa solicitud, cuando corrijan su situación fiscal con posterioridad a la conclusión del ejercicio de las facultades de comprobación y las autoridades fiscales verifiquen que el contribuyente ha corregido en su totalidad las obligaciones fiscales que se conocieron con motivo del ejercicio de las facultades mencionadas, se comunique al contribuyente mediante oficio dicha situación, en el plazo de un mes contado a partir de la fecha en que la autoridad fiscal haya recibido la declaración de corrección fiscal y la solicitud del contribuyente, y
 
-XXXVI. A que no sean determinadas nuevas omisiones de las contribuciones revisadas durante el periodo objeto del ejercicio de las facultades de comprobación, salvo cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información que el propio contribuyente proporcione al hacer valer los medios de impugnación a que tiene derecho, o en información, datos o documentos de terceros, o bien, en la revisión de conceptos específicos que no se hayan revisado con anterioridad.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. A que cuando los contribuyentes presenten la declaración de corrección fiscal con posterioridad a la conclusión del ejercicio de las facultades de comprobación y hayan trascurrido al menos cinco meses del plazo a que se refiere el artículo 131 de este ordenamiento, sin que las autoridades fiscales hayan emitido la resolución que determine las contribuciones omitidas, dichas autoridades contarán con un plazo de un mes, adicional al previsto en el numeral mencionado, y contado a partir de la fecha en que los contribuyentes presenten la declaración de referencia para llevar a cabo la determinación de contribuciones omitidas que, en su caso, proceda.
+
+XXXVII. A que no sean determinadas nuevas omisiones de las contribuciones revisadas durante el periodo objeto del ejercicio de las facultades de comprobación, salvo cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información que el propio contribuyente proporcione al hacer valer los medios de impugnación a que tiene derecho, o en información, datos o documentos de terceros, o bien, en la revisión de conceptos específicos que no se hayan revisado con anterioridad.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -1613,9 +1615,9 @@ III. Practicar visitas domiciliarias a los contribuyentes, los responsables soli
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre impuestos estatales y su relación con el cumplimiento de disposiciones fiscales estatales;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-V. Practicar visitas de inspección a los contribuyentes, a fin de verificar el pago de contribuciones, presentación de declaraciones, expedición de comprobantes fiscales y/o la presentación de solicitudes o avisos en materia del registro estatal de contribuyentes; operación de los sistemas y registros electrónicos que se realicen conforme lo establecen las disposiciones fiscales; la documentación o los comprobantes que amparen la legal propiedad o posesión de mercancías; así como revisar que los permisos otorgados por la Secretaría cumplan con el fin para el que fueron expedidos;
+V. Practicar visitas de inspección a los contribuyentes, a fin de verificar el pago de contribuciones, presentación de declaraciones, expedición de comprobantes fiscales y/o la presentación de solicitudes o avisos presentados por los contribuyentes; operación de los sistemas y registros electrónicos que se realicen conforme lo establecen las disposiciones fiscales; la documentación o los comprobantes que amparen la legal propiedad o posesión de mercancías; así como revisar que los permisos otorgados por la Secretaría cumplan con el fin para el que fueron expedidos;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1689,13 +1691,17 @@ VI. Cuando tratándose de responsables solidarios en términos de las fracciones
 
 La determinación presuntiva realizada por la autoridad en los términos de este artículo, será independiente de las sanciones a que se haga acreedor el contribuyente o responsables solidarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 110.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar plazos para el pago de las contribuciones omitidas y de sus accesorios, incluso cuando sean determinadas en cantidad líquida por el propio deudor en parcialidades, sin que el plazo que se autorice exceda de treinta y seis meses, siempre y cuando los contribuyentes:
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, incluso cuando sean determinadas en cantidad líquida por el propio deudor en parcialidades, sin que el plazo exceda de doce meses para pago diferido, y de treinta y seis meses para el pago en parcialidades, siempre y cuando los contribuyentes:
 
 I. Presenten solicitud en el formato que se establezca para tales efectos, por la Secretaría.
 
-El plazo elegido por el contribuyente en el formato de la solicitud de autorización, podrá modificarse para el crédito de que se trate por una sola ocasión, en cuyo caso el plazo en su conjunto no deberá exceder del plazo máximo establecido en el presente artículo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el pago en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
 II. Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
@@ -1715,7 +1721,9 @@ Las autoridades fiscales, a petición de los contribuyentes que corrijan su situ
 
 I. El contribuyente presentará la solicitud, así como un proyecto de pagos estableciendo fechas y montos concretos.
 
-II. La autoridad, una vez recibida la solicitud y el proyecto de pagos, procederá a efectuar la valoración y emitirá una resolución de aceptación o negación de la propuesta de pagos, según corresponda, la que se notificará de manera personal al contribuyente.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+II. La autoridad, una vez recibida la solicitud y el proyecto de pagos, procederá a efectuar la valoración y emitirá una resolución de aceptación o negación de la propuesta de pagos, según corresponda, dentro del plazo de quince días contados a partir del día siguiente a aquel en que se recibió la solicitud, la que se notificará de manera personal al contribuyente.
 
 III. La respuesta de la autoridad fiscal a la solicitud formulada por el contribuyente, dará lugar a los siguientes supuestos:
 
@@ -1741,15 +1749,21 @@ El monto a liquidar por el contribuyente, se calculará adicionando al monto ref
 
 El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago diferido;
 
-IV. Una vez recibida la solicitud de autorización de pago en parcialidades de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 110 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IV. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 110 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I, II y III de este artículo.
 
 La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 112.
 
-Se revocará la autorización para pagar en parcialidades, por las siguientes causas:
+Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, por las siguientes causas:
 
-I. Aun cuando se hubiere convenido el pago del crédito fiscal en parcialidades, dicho convenio quedará revocado, exigiéndose de inmediato el total del crédito fiscal pendiente de pago, en los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Aun cuando se hubiere convenido el pago del crédito fiscal a plazos, ya sea en parcialidades o diferido, dicho convenio quedará revocado, exigiéndose de inmediato el total del crédito fiscal pendiente de pago, en los siguientes supuestos:
 
 a) No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, en los casos que no se hubiere dispensado, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente;
 
@@ -1761,9 +1775,17 @@ d) El deudor sea declarado en estado de quiebra, concurso, suspensión de pagos,
 
 e) El deudor impugne el crédito fiscal por cualquiera de los medios de defensa permitidos por las disposiciones fiscales, lo cual además de la consecuencia establecida en el presente artículo, hará inmediatamente efectiva a favor de las autoridades fiscales la garantía ofrecida para tales efectos;
 
-f) Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con dos parcialidades sucesivas o en su caso, con cualquiera de las tres últimas, y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-g) Por el incumplimiento a cualquiera de las obligaciones consignadas a su cargo, en el convenio de pago en parcialidades.
+f) Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con dos parcialidades sucesivas o en su caso, con cualquiera de las tres últimas;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+g) Por el incumplimiento a cualquiera de las obligaciones consignadas a su cargo, en el convenio a que se refiere la fracción I de este numeral, y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+h) Tratándose del pago diferido, se venza el plazo para realizar el pago y éste no se efectúe.
 
 En los supuestos señalados en los incisos anteriores, las autoridades fiscales mediante resolución fundada y motivada en la que se determine y liquide en términos de las disposiciones aplicables el saldo insoluto, requerirán y harán efectivo éste mediante el procedimiento administrativo de ejecución.
 
@@ -1795,7 +1817,9 @@ b) Contribuciones retenidas, trasladadas o recaudadas, salvo las excepciones que
 
 La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir las contribuciones y aprovechamientos que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores, al mes en el que se solicite la autorización; o cuando se trate de contribuciones retenidas, trasladadas o recaudadas; o bien, cuando procediendo el pago a plazos, no se presente la solicitud de autorización correspondiente en los plazos establecidos en las Reglas que establezca la Secretaría, o cuando dicha solicitud no se presente con todos los requisitos a que se refiere el artículo 110 de este Código, o no se otorgue dentro de los plazos que correspondan la garantía del interés fiscal que sea procedente.
 
-Durante el periodo en que el contribuyente se encuentre pagando a plazos, las cantidades determinadas no serán objeto de actualización.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Durante el periodo en que el contribuyente se encuentre pagando a plazos, en los términos de las fracciones I, II y III del artículo 111, las cantidades determinadas no serán objeto de actualización debido a que la tasa de recargos por prórroga la incluye.
 
 Lo dispuesto en el párrafo anterior no es aplicable cuando el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se actualizará ésta de conformidad con lo previsto por el artículo 23 de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
 
@@ -1971,7 +1995,9 @@ Cuando se ignore el nombre de la persona a quién deba ser dirigido, deberán se
 
 En los plazos establecidos en este Código en días, sólo se computarán los días hábiles.
 
-Se consideran días inhábiles y no se computarán en los plazos fijados en días, los sábados y los domingos, el 1 de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1 y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o de diciembre de cada 6 años, cuando corresponda a la Transmisión del Poder Ejecutivo Federal y el 25 de diciembre. Asimismo, se consideran días inhábiles todos aquéllos en que las oficinas de las autoridades fiscales ante las que deban realizarse los trámites correspondientes, permanezcan cerradas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Se consideran días inhábiles y no se computarán en los plazos fijados en días, los sábados y los domingos, el 1 de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1 y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o de octubre de cada 6 años, cuando corresponde a la Transmisión del Poder Ejecutivo Federal; y el 25 de diciembre. Asimismo, se consideran días inhábiles todos aquéllos en que las oficinas de las autoridades fiscales ante las que deban realizarse los trámites correspondientes, permanezcan cerradas.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -2193,15 +2219,15 @@ Toda notificación personal que se realice con el afectado por el acto que se no
 
 Cuando los interesados en el ejercicio de sus derechos hubiesen señalado domicilio para recibir notificaciones al iniciar, o en el curso de alguna promoción o instancia, las notificaciones referentes a las actuaciones derivadas de dicha promoción o la resolución de los mismos, deberán realizarse y surtirán plenamente sus efectos legales si se realizan en el domicilio señalado para ello, hasta en tanto no designen expresamente otro domicilio para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 140.
 
-Cuando la notificación se efectué personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil posterior que se señale en el mismo.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior al que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-Si la persona citada o su representante legal no lo esperaren, practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado y requerir nuevamente la presencia del destinatario y notificarlo, pero sí la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en el artículo 133 de este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2217,11 +2243,11 @@ La manifestación tácita o expresa que haga el interesado o su representante le
 
 Las notificaciones realizadas en términos de este artículo se consideran efectuadas el día en que el documento a notificar fue entregado al contribuyente, su representante legal o la persona con quien se entendió la diligencia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 142.
 
-Las notificaciones por estrados previo acuerdo de la autoridad competente, se harán fijando en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y en el portal electrónico de la Secretaría durante quince días, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado y publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado y publicado el documento.
+Las notificaciones por estrados previo acuerdo de la autoridad competente, se realizarán publicando el documento que se pretenda notificar en el portal electrónico de la Secretaría durante diez días; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue publicado; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
 
 ###### ARTÍCULO 143.
 
@@ -2591,25 +2617,33 @@ I. La orden deberá reunir los requisitos establecidos en el artículo 146 de es
 
 II. Se realizarán en el domicilio fiscal, o cualquier otro establecimiento, sucursal, local, o puesto fijo o semifijo en la vía pública, que tengan los contribuyentes dentro del Estado y en ellos se realicen actividades de enajenación, prestación de servicios, contratación u otorgamiento del uso o goce temporal de bienes; o bien, se almacenen mercancías, o se realicen actividades relacionadas con permisos y concesiones, o que sean reguladas en su funcionamiento por la legislación estatal;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-III. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección.
+III. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de visita de inspección al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la vísita de ínspección;
 
 IV. Al inicio de la visita, los visitadores deberán identificarse con la persona con quien se entienda la diligencia, y requerirle para que designe dos testigos, y si se niega a ello, los testigos serán designados por los propios visitadores, sin que esta circunstancia invalide el resultado de la visita de inspección;
 
 V. Se levantará acta circunstanciada en la que se harán constar los hechos, omisiones o irregularidades que siendo conocidos por los visitadores durante su desarrollo, pudiesen constituirse en infracciones a las leyes fiscales aplicables;
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Si se observa que el visitado no se encuentra inscrito en el registro estatal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión;
+
 > <small>(REFORMADOA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 VI. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos, se niegan a firmar el acta, o se niegan a aceptar copia de la misma, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-VII. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el registro estatal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+VII. Si con motivo de la visita de inspección a que se refiere este artículo, las autoridades conocieron infracciones a las disposiciones fiscales, se procederá como sigue:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+a) En el acta en la que se concluye la visita de inspección se hará saber al interesado que cuenta con un plazo de tres días hábiles siguientes al levantamiento del acta para presentar las pruebas y formular los alegatos que a sus intereses convengan respecto de las irregularidades detectadas.
 
-VIII. Cuando de las irregularidades conocidas se constituyan hechos por los cuales se deba efectuar el procedimiento de clausura, los visitadores actuarán en términos del artículo 173 A de este código.
+b) Se procederá a la formulación del oficio de conclusión o la resolución correspondiente.
+
+c) Cuando de las irregularidades conocidas se constituyan hechos por los cuales se deba efectuar el procedimiento de clausura, los visitadores actuarán en términos del artículo 173 A de este código.
+
+VIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -2631,7 +2665,9 @@ El plazo a que se refiere el párrafo anterior podrá ampliarse a solicitud del 
 
 Se entiende que la visita de inspección concluye con el levantamiento del acta a que se refiere el artículo anterior.
 
-Dentro de un plazo que no excederá de tres meses, las autoridades que hubieren practicado las visitas de inspección, procederán a emitir la resolución correspondiente, en la que se determinen las consecuencias que se hubieren generado por el incumplimiento de disposiciones legales o reglamentarias.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Dentro de un plazo que no excederá de seis meses contado a partir de la fecha en que se levante el acta a que se refiere la fracción V del artículo 160 de este Código, las autoridades que hubieren practicado las visitas de inspección procederán a emitir la resolución correspondiente, en la que se determinen las consecuencias que se hubieren generado por el incumplimiento de disposiciones legales o reglamentarías.
 
 En el caso que se hubiere clausurado el establecimiento por existir causa justificada, el levantamiento de dicha clausura estará sujeto a las disposiciones que para ello sean aplicables.
 
@@ -2649,9 +2685,9 @@ Para la determinación presuntiva de la base del impuesto, el remanente, sus ing
 
 I. Los contenidos en la contabilidad del contribuyente, o los que en su caso debieran formar parte de ella;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-II. Los contenidos en las declaraciones mensuales, provisionales o del ejercicio correspondientes (sic) a cualquier contribución, sea del mismo ejercicio o de cualquier otro. Las declaraciones que se podrán utilizar son las que el contribuyente hubiere presentado tanto en materia de contribuciones estatales, como federales;
+II. Los contenidos en las declaraciones mensuales, bimestrales, provisionales o del ejercicio correspondientes (sic) a cualquier contribución, sea del mismo ejercicio o de cualquier otro. Las declaraciones que se podrán utilizar son las que el contribuyente hubiere presentado tanto en materia de contribuciones estatales, como federales;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -2772,6 +2808,10 @@ I. Requerirán por una sola ocasión, la presentación del documento omitido oto
 II. Si después de efectuado el requerimiento establecido en la fracción anterior, el contribuyente persiste en conducta omisa, la autoridad fiscal, emitirá resolución fundada y motivada en la que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente, la cual deberá ser notificada personalmente.
 
 La inscripción realizada en términos de este artículo genera a cargo del contribuyente todas las obligaciones que de ella se deriven.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Cuando derivado de las facultades citadas en el primer párrafo, las autoridades fiscales adviertan que el inicio de operaciones de las actividades que generan una contribución es anterior a la fecha de inscripción en el Registro Estatal de Contribuyentes, se concederá al contribuyente un plazo de 10 días hábiles para modificar ante la autoridad correspondiente la fecha de inicio de operaciones; en caso de no cumplir con lo anterior se procederá a realizarlo de oficio.
 
 #### SECCIÓN TERCERA. COBRO DE CRÉDITOS RESULTANTES POR CHEQUES DEVUELTOS
 
@@ -4037,13 +4077,13 @@ Siempre que se omita el pago de una contribución cuya determinación correspond
 
 Para efectos de este artículo, se considera que la notificación surte efectos en el momento en que se realiza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 264.
 
-La Secretaría podrá condonar hasta el 100% las multas por infracciones a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría, mediante reglas de carácter general, establecerá los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
+La Secretaría podrá reducir hasta el 100% las multas por infracciones a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría, mediante reglas de carácter general, establecerá los requisitos y supuestos por los cuales procederá la reducción, así como la forma y plazos para el pago de la parte no reducida.
 
-La solicitud de condonación de multas, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia, por tanto, las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+La solicitud de reducción de multas, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia, por tanto, las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 ###### ARTÍCULO 265.
 
@@ -4690,3 +4730,11 @@ P.O. 16 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 17.- MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
