@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-aseguramiento-administracion-enajenacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2021-09-08"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -95,6 +95,12 @@ Los vehículos a que se refiere este Capítulo, no serán considerados bienes mo
 
 El Poder Ejecutivo a través de la (sic) Secretarías de Finanzas, Salud, Desarrollo Urbano y Medio Ambiente y Seguridad Pública; así como los Ayuntamientos, en el ámbito de sus respectivas competencias, quedan facultados para aplicar la presente Ley y demás disposiciones aplicables, asegurando el respeto de los derechos de los gobernados en lo relativo a los bienes referidos en este ordenamiento.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 7 BIS.
+
+Los Ayuntamientos aplicarán la presente Ley, a través de la Tesorería Municipal, Secretaría de Seguridad Pública, Secretaría de Desarrollo Urbano y Ecología, Dirección de Medio Ambiente y Desarrollo Sustentable, y/o cualquier dependencia administrativa equivalente, por separado o de manera mancomunada.
+
 ###### ARTÍCULO 8.
 
 La Comisión tendrá como objeto la supervisión, control y administración de los vehículos abandonados.
@@ -112,6 +118,10 @@ III. El Titular de la Secretaría de Desarrollo Urbano y Medio Ambiente;
 IV. El Titular de la Secretaría de Seguridad Pública; y
 
 V. El Titular de la Subsecretaría de Egresos, quien fungirá como Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Los Ayuntamientos podrán integrar una Comisión Municipal, conformada por los titulares de las dependencias administrativas municipales análogas a las del Poder Ejecutivo del Estado de Tamaulipas, para la aplicación de la Ley, en el ámbito respectivo.
 
 2. El Presidente de la Comisión será suplido por el servidor público que éste designe, en tanto que los suplentes de los demás integrantes de la misma no podrán tener una responsabilidad administrativa inferior a la de Subsecretario o su equivalente.
 
@@ -191,9 +201,11 @@ La autoridad facultada que haya asegurado el vehículo, accesorio o componente, 
 
 Los vehículos no motorizados, como bicicletas y similares que acompañaren al vehículo asegurado al momento de su depósito, podrán ser sujetos del procedimiento establecido en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
-Una vez transcurridos tres meses contados a partir de la fecha del aseguramiento, la Comisión deberá publicar en el Periódico Oficial del Estado y en al menos dos diarios de mayor circulación en el Estado, la Declaratoria de Abandono procedente, otorgando un término de tres días hábiles para efecto de que, quien se considere interesado o su legítimo representante, manifieste lo que a su interés convenga.
+Una vez transcurridos 45 días naturales contados a partir de la fecha del aseguramiento, la Comisión deberá publicar en el Periódico Oficial del Estado y en al menos dos diarios de mayor circulación en el Estado o de los Municipios donde se aplique la ley según corresponda, la Declaratoria de Abandono procedente, otorgando un término de tres días hábiles para efecto de que, quien se considere interesado o su legítimo representante, manifieste lo que a su interés convenga.
 
 ###### ARTÍCULO 18.
 
@@ -203,7 +215,9 @@ Una vez transcurrido el término referido en el artículo anterior, sin que exis
 
 La Declaratoria referida en el artículo 17 del presente ordenamiento, se dará a conocer conforme a lo siguiente:
 
-I. Se publicará en el Periódico Oficial del Estado y en al menos dos diarios de mayor circulación en el Estado, una vez transcurridos tres meses contados a partir de la emisión del Acuerdo de Aseguramiento;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Se publicará en el Periódico Oficial del Estado y en al menos dos diarios de mayor circulación en el Estado o de los Municipios, una vez transcurridos 45 días naturales contados a partir de la emisión del Acuerdo de Aseguramiento;
 
 II. La publicación deberá contener un resumen de la Declaratoria de Abandono, otorgando un término perentorio de tres días hábiles para que, quien se considere interesado o su legítimo representante, manifieste lo que a su derecho convenga y demuestre a través de medios idóneos, la propiedad del vehículo, accesorio o componente asegurado; y
 
@@ -280,6 +294,10 @@ El producto de la enajenación de los vehículos, accesorios o componentes decla
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
 
 En caso de que los vehículos, accesorios o componentes declarados abandonados hayan estado o estén en depósitos o áreas que no son del Estado, previo a integrar al erario público los aprovechamientos correspondientes, se cubrirá el adeudo por el resguardo de que se trate, mismo que solo podrá ser hasta el 50% del valor total del precio de la enajenación de que se trate.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Cuando los Ayuntamientos efectúen los procedimientos administrativos de aplicación de la Ley, el producto de la enajenación de los vehículos, accesorios o componentes declarados abandonados, será considerado como aprovechamiento para el Ayuntamiento respectivo del 80% del valor total del precio, y el 20% restante será otorgado a favor del Estado.
 
 ###### ARTÍCULO 30.
 
@@ -366,6 +384,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 8 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-633 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1 DE LA LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-121 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17 Y 19, FRACCIÓN 1 (SIC); Y SE ADICIONAN EL ARTÍCULO 7 BIS, UN PÁRRAFO SEGUNDO AL NUMERAL 1 DEL ARTÍCULO 9; Y UN PÁRRAFO TERCERO AL ARTÍCULO 29; DE LA LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
