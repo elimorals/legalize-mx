@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2023-12-16"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -168,6 +168,10 @@ Los Municipios, además de las Participaciones establecidas en la presente Ley r
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 Cuando sea aplicable el monto garantizado pagado en el ejercicio 2013, dado a conocer mediante Decreto anual por el que se establecen los Porcentajes, Fórmulas y Variables utilizadas para la Distribución de los Fondos que integran las Participaciones a los Municipios del Estado de Oaxaca del ejercicio que corresponda, respecto a los fondos establecidos en las fracciones I, II, III, V, VI y VII de este artículo, el importe mensual a distribuir para cada fondo, será aquel que se obtenga de dividir entre doce la cantidad total que cada municipio recibió por los mismos conceptos en el ejercicio 2013. Para ello será necesario que la operación se realice por cada uno de los fondos a que se refieren las fracciones señaladas en este párrafo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+En caso de haber una actualización en las variables publicadas en el Decreto por el que se establecen los porcentajes, fórmulas, variables utilizadas, coeficientes de distribución, así como los montos estimados de los Fondos de Participaciones que les correspondan a los Municipios para el ejercicio fiscal de que se trate, utilizadas para realizar el cálculo de los coeficientes de distribución relacionadas con los fondos mencionados en los artículos 6, 6A, 6B, 6C, 6D, 7, 7A, 7B y 7D, de la presente Ley; éstas se actualizarán y publicarán en el Acuerdo por el que se den a conocer los montos estimados, coeficientes, porcentajes, fórmulas y variables utilizadas para la distribución de las Participaciones Federales del ejercicio que corresponda, realizando los ajustes correspondientes a los que dé lugar dicha actualización.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -387,23 +391,25 @@ Conforme a la fórmula siguiente:
 
 Las Participaciones que correspondan a los Municipios, resultantes de los fondos que establece la Ley de Coordinación, se calcularán y distribuirán por conducto de la Secretaría con base en el Decreto que anualmente el Congreso apruebe.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-Las Participaciones se transferirán a las cuentas bancarias productivas específicas aperturadas para cada uno de los fondos que la integran y que sean notificadas a la Secretaría anualmente, mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clabe interbancaria y el número de referencia de éstas.
+Las Participaciones y Aportaciones se transferirán a las cuentas bancarias productivas específicas aperturadas para cada uno de los fondos que la integran y que sean notificadas a la Secretaría anualmente dentro de los primeros diez días hábiles del inicio de cada ejercicio fiscal, mediante acta de cabildo aprobada por mayoría calificada, donde conste la institución financiera, clabe interbancaria y el número de referencia de éstas.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 La entrega de Participaciones se realizará al Ayuntamiento dentro de los cinco días siguientes a la fecha en que se reciban de la Federación.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-Una vez notificada la liquidación de ajustes de participaciones que realice la Federación al Estado, la Secretaría efectuará igualmente los ajustes de participaciones que correspondan a los Municipios, realizando la liquidación y entero que resulte a favor de los mismos, en los términos y plazos que establezca la Ley de Coordinación Fiscal, para lo cual expedirá trimestralmente constancias de liquidación por las participaciones federales pagadas a los municipios en las que se deberán precisar los importes pagadas (sic) por fondo, incentivo o deducciones, así como el periodo correspondiente.
+Una vez notificada la liquidación de ajustes de participaciones que realice la Federación al Estado, la Secretaría efectuará igualmente los ajustes de participaciones que correspondan a los Municipios, realizando la liquidación y entero que resulte a favor de los mismos en los términos y plazos que establezca la Ley de Coordinación Fiscal, para lo cual expedirá mensualmente constancias de liquidación por las participaciones federales pagadas a los municipios en las que se deberán precisar los importes pagados por fondo, incentivo o deducciones, así como el período correspondiente.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-Recibidos los recursos de los fondos de Participaciones, así como de los fondos de Aportaciones en las cuentas bancarias productivas específicas, los Municipios deberán registrarlos como ingresos y expedir el Comprobante Fiscal Digital por Internet a favor del Gobierno del Estado de Oaxaca, remitiéndolo a la Secretaría, dentro de los primeros diez días naturales del mes inmediato posterior a aquel en que se hayan recíbidos (sic) los recursos.
+Recibidos los recursos de los fondos de Participaciones así como de los fondos de Aportaciones en las cuentas bancarias productivas específicas, los Municipios deberán registrarlos como ingresos y expedir el Comprobante Fiscal Digital por Internet a favor del Gobierno del Estado de Oaxaca, remitiéndolo a la Secretaría en los formatos y términos que para tal efecto ésta les requiera, dentro de los primeros diez días naturales del mes inmediato posterior a aquel en que se hayan recibido los recursos.
 
-El retraso en la entrega de los fondos de Participaciones y fondos de Aportaciones ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+El retraso en la entrega de los fondos de Participaciones y fondos de Aportaciones, siempre que éste sea imputable a la Secretaría, ocasionará el pago de intereses a la tasa de recargos que establezca el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -417,7 +423,9 @@ I. La notificación de la resolución judicial en donde se determine la suspensi
 
 II. La declaratoria de revocación de mandato y/o sustitución de concejales determinada por el Congreso, que impidan la instalación del Ayuntamiento o el nombramiento del tesorero municipal, o
 
-III. Cuando el Ayuntamiento no notifique a la Secretaría de Finanzas las cuentas bancarias productivas específicas mediante el acta de cabildo a que alude el Artículo 8.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. Cuando el Ayuntamiento no notifique a la Secretaría las cuentas bancarias productivas específicas en la forma y términos que para tal efecto establece el artículo 8 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -429,7 +437,9 @@ Son causales que imposibilitan la ministración de recursos de Participaciones y
 
 I. La declaración de nulidad de elecciones de autoridades municipales declarada por el órgano electoral competente;
 
-II. La ausencia legalmente notificada de concejos municipales y/o administradores municipales, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+II. La ausencia legalmente notificada de concejos municipales y/o comisionados municipales provisionales, y
 
 III. Cualquier otra que impida tener certeza jurídica de quien o quienes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
 
@@ -437,11 +447,17 @@ III. Cualquier otra que impida tener certeza jurídica de quien o quienes son lo
 
 Una vez superado (sic) las causales de imposibilidad la Secretaría de Finanzas ordenará al Fiduciario la transferencia de recursos a las cuentas bancarias productivas específicas que señalen las autoridades municipales, incluidas en ellas los rendimientos financieros que se hayan generado en las cuentas del Fideicomiso a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 8C.- Cuando exista alguna de las causales de imposibilidad en la entrega de los Fondos de Participaciones y Fondos de Aportaciones mencionadas en el artículo 8 A, durante un período de tiempo igual o menor a 60 días hábiles, los recursos se mantendrán en la cuenta de controversias aperturada por la Secretaria de Finanzas, así también en el caso de que exista un rechazo al momento de enviar los recursos por cuenta bloqueada, suspendida o cancelada por la institución bancaria, o por cualquier circunstancia que dependa directamente del municipio y/o la institución financiera correspondiente, siempre que los hechos no sean imputables a la Secretaría.
+ARTICULO 8 C.- Cuando exista alguna de las causales de imposibilidad en la entrega de los Fondos de Participaciones y Fondos de Aportaciones mencionadas en las fracciones I y II del artículo 8 A de esta Ley, los recursos se transferirán y mantendrán durante un período de tiempo no mayor a sesenta días hábiles en la cuenta de controversias aperturada por la Secretaría.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+En caso de que exista un rechazo al momento del pago de los Fondos de Participaciones y de Aportaciones que correspondan a los municipios por cuenta bloqueada, suspendida o cancelada por la institución bancaria, o por cualquier circunstancia que dependa directamente del municipio y/o la institución financiera correspondiente, siempre que los hechos no sean imputables a la Secretaría, los recursos serán transferidos a la cuenta de controversias dentro del plazo de tres días hábiles contados a partir de que se genere el rechazo respectivo.
+
+De los recursos de los Fondos de Participaciones y de Aportaciones que se mantengan en la cuenta de controversias, se pagarán rendimientos financieros a los municipios conforme a la tasa bruta anual reflejada en el estado de cuenta del mes inmediato anterior al que se realice el pago.
+
+Cuando exista la causal de imposibilidad en la entrega de los Fondos de Participaciones y de Aportaciones prevista en la fracción III del artículo 8 A de esta Ley, los recursos permanecerán en las cuentas de los Fondos de Participaciones y de Aportaciones aperturadas por la Secretaría, por un plazo de hasta sesenta días hábiles; una vez que el municipio notifique a la Secretaría sus cuentas bancarias productivas específicas, los recursos de los Fondos de Participaciones y de Aportaciones que les correspondan les serán ministrados incluyendo los rendimientos financieros que se hayan generado, en un plazo máximo de cinco días hábiles.
+
+Transcurrido el plazo de sesenta días hábiles, los recursos serán enviados a las cuentas del Fideicomiso a que se refiere el artículo 8 B de esta Ley.
 
 Lo anterior sin perjuicio de la normatividad aplicable.
 
@@ -1150,3 +1166,11 @@ P.O. 16 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el día uno de enero de dos mil veinticuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 20.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN, DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
