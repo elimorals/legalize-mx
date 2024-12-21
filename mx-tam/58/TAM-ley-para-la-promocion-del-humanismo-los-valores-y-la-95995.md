@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-promocion-del-humanismo-los-valores-y-la-95995"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2021-05-05"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY PARA LA PROMOCION DEL HUMANISMO, LOS VALORES Y LA CULTURA DE LA LEGALIDAD -- ANTES LEY PARA LA PROMOCION DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD -- DEL ESTADO DE TAMAULIPAS
 
-LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS
+LEY PARA LA PROMOCIÓN DEL HUMANISMO, LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -39,7 +39,9 @@ D E C R E T O No. LXI-885
 
 MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS.
 
-LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+LEY PARA LA PROMOCIÓN DEL HUMANISMO, LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -49,15 +51,21 @@ LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE
 
 1. La presente Ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas.
 
-2. Tiene por objeto regular, coordinar, desarrollar, gestionar y establecer acciones para promover los valores universales; asimismo, para fomentar la cultura de la legalidad en la sociedad para contribuir al fortalecimiento del Estado de Derecho.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+2. Tiene por objeto regular, coordinar, desarrollar, gestionar y establecer acciones para promover el humanismo y los valores universales; asimismo, para fomentar la cultura de la legalidad en la sociedad para contribuir al fortalecimiento del Estado de Derecho.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán los valores y la cultura de la legalidad en todos los ámbitos de la vida política, social, económica y educativa, mediante el establecimiento de programas y acciones en todas las dependencias de la administración pública estatal y municipal.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán el humanismo, los valores y la cultura de la legalidad en todos los ámbitos de la vida política, social, económica y educativa, mediante el establecimiento de programas y acciones en todas las dependencias de la administración pública estatal y municipal.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 3.
 
-Para la administración, gestión, asesoría, evaluación y coordinación de programas y acciones que impulsen el ejercicio de los valores y la cultura de la legalidad, se establece como área rectora, de coordinación y de dirección a la Secretaría de Educación de Tamaulipas.
+Para la administración, gestión, asesoría, evaluación y coordinación de programas y acciones que impulsen el ejercicio del humanismo, los valores y la cultura de la legalidad, se establece como área rectora, de coordinación y de dirección a la Secretaría de Educación de Tamaulipas.
 
 ###### ARTÍCULO 4.
 
@@ -73,6 +81,10 @@ IV. Centro: el Centro de Promoción de los Valores y la Cultura de la Legalidad 
 
 V. Cultura de la legalidad: el Conocimiento del orden jurídico que genera el compromiso de los integrantes de la sociedad por la observancia de las disposiciones jurídicas que los rigen;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+V Bis. Humanismo: principio de que el ser humano es bueno por naturaleza, centrado en valores éticos y buenas intenciones.
+
 VI. Ley: la Ley para la Promoción de los Valores y la Cultura de la Legalidad del Estado de Tamaulipas;
 
 VII. Programa: el Programa de la Promoción de los Valores y Cultura de la Legalidad del Estado de Tamaulipas; y,
@@ -85,19 +97,25 @@ ARTÍCULO 4 BIS.
 
 Son principios rectores en la observancia, interpretación y aplicación de esta Ley:
 
-I.- El interés superior del Estado para fomentar los valores y la cultura de la legalidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I.- El interés superior del Estado para fomentar el humanismo, los valores y la cultura de la legalidad;
 
 II.- El respeto irrestricto a los derechos humanos;
 
 III.- El reconocimiento de la familia como el núcleo de la sociedad y la primera célula transmisora de valores;
 
-IV.- La participación conjunta de los sectores público, privado y social en el fomento de los valores y la cultura de la legalidad, a fin de fortalecer nuestro estado de derecho; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IV.- La participación conjunta de los sectores público, privado y social en el fomento del humanismo, los valores y la cultura de la legalidad, a fin de fortalecer nuestro estado de derecho; y
 
 V.- La construcción de ciudadanía a través de la instrumentación de procesos educativos y de formación cívica orientados a los propósitos sociales de paz, armonía, orden público, convivencia democrática, solidaridad y cohesión social de las y los tamaulipecos.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-El Estado propiciará y apoyará la participación de las instituciones públicas, privadas y sociales, para la realización de acciones orientadas a la promoción de los valores y la cultura de la legalidad, que defina y fortalezca la identidad y solidaridad de los 43 Municipios del Estado de Tamaulipas, además de alentar el respeto a las reglas de convivencia armónica en la sociedad.
+El Estado propiciará y apoyará la participación de las instituciones públicas, privadas y sociales, para la realización de acciones orientadas a la promoción del humanismo, los valores y la cultura de la legalidad, que defina y fortalezca la identidad y solidaridad de los 43 Municipios del Estado de Tamaulipas, además de alentar el respeto a las reglas de convivencia armónica en la sociedad.
 
 ###### ARTÍCULO 6.
 
@@ -107,13 +125,17 @@ Las acciones que se realicen al amparo de la presente Ley se ejercerán privileg
 
 ### CAPÍTULO I. DE SU DENOMINACIÓN Y OBJETO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 7.
 
-El Ejecutivo del Estado establecerá un Consejo, el cual se denominará Consejo para la Promoción de los Valores y la Cultura de la Legalidad del Estado de Tamaulipas.
+El Ejecutivo del Estado establecerá un Consejo, el cual se denominará Consejo para la Promoción del Humanismo, los Valores y la Cultura de la Legalidad del Estado de Tamaulipas.
 
 ###### ARTÍCULO 8.
 
-1. El Consejo tendrá por objeto coordinar las acciones de los órganos que la integran para elaborar y poner en práctica el Programa, el cual deberá incluir políticas públicas de promoción de los valores y la cultura de la legalidad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+1. El Consejo tendrá por objeto coordinar las acciones de los órganos que la integran para elaborar y poner en práctica el Programa, el cual deberá incluir políticas públicas de promoción del humanismo, los valores y la cultura de la legalidad.
 
 2. El Consejo será un órgano colegiado, propositivo, incluyente, plural y democrático, de carácter honorífico y se integrará con los representantes de los sectores público, privado y social.
 
@@ -183,17 +205,29 @@ El Reglamento Interior del Consejo establecerá, además de los aspectos relacio
 
 El Consejo tendrá las siguientes atribuciones:
 
-I. Elaborar y coordinar la ejecución del Programa para fomentar los valores y la cultura de la legalidad en la sociedad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-II. Fomentar, promover, gestionar, asesorar y evaluar las acciones que en materia de valores y la cultura de la legalidad se apliquen en el Estado, en los ámbitos público, privado y social;
+I. Elaborar y coordinar la ejecución del Programa para fomentar el humanismo, los valores y la cultura de la legalidad en la sociedad;
 
-III. Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones educativas, vinculadas con los valores y la cultura de la legalidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-IV. Promover convenios con autoridades federales, estatales y municipales para la promoción y desarrollo de los valores y la cultura de la legalidad, así como en la ampliación del alcance y formulación del Programa;
+II. Fomentar, promover, gestionar, asesorar y evaluar las acciones que en materia de humanismo, valores y la cultura de la legalidad se apliquen en el Estado, en los ámbitos público, privado y social;
 
-V. Integrar, conducir y coordinar las campañas públicas de promoción de valores y la cultura de la legalidad, en la sociedad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-VI. Fungir como órgano de asesoría y consulta de las instancias públicas para la aplicación de las políticas de fortalecimiento de los valores y la cultura de la legalidad;
+III. Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones educativas, vinculadas con el humanismo, los valores y la cultura de la legalidad;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IV. Promover convenios con autoridades federales, estatales y municipales para la promoción y desarrollo del humanismo, los valores y la cultura de la legalidad, así como en la ampliación del alcance y formulación del Programa;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+V. Integrar, conducir y coordinar las campañas públicas de promoción del humanismo, los valores y la cultura de la legalidad, en la sociedad;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+VI. Fungir como órgano de asesoría y consulta de las instancias públicas para la aplicación de las políticas de fortalecimiento del humanismo, los valores y la cultura de la legalidad;
 
 VII. Promover y establecer las condiciones para la participación de los demás integrantes de los sectores y organizaciones de la sociedad, en la realización de las acciones derivadas del Programa;
 
@@ -249,7 +283,9 @@ XII. Las demás que le instruya el Presidente.
 
 ###### ARTÍCULO 16.
 
-1. En cada municipio se integrará un Consejo como instancia de coordinación e implementación del Programa Estatal para la Promoción de los Valores y la Cultura de la Legalidad. Los Consejos Municipales se integrarán de la siguiente manera:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+1. En cada municipio se integrará un Consejo como instancia de coordinación e implementación del Programa Estatal para la Promoción del Humanismo, los Valores y la Cultura de la Legalidad. Los Consejos Municipales se integrarán de la siguiente manera:
 
 I. El Presidente Municipal, quien lo presidirá;
 
@@ -261,7 +297,9 @@ IV. La Presidenta del DIF Municipal; y
 
 V. Las asociaciones de padres de familia del municipio.
 
-2. El Presidente del Consejo Municipal podrá invitar a personas, instituciones, organismos, dependencias municipales que por su experiencia, conocimientos o atribuciones, se vinculen con la materia de promoción de los valores y cultura de la legalidad, previa aprobación de sus integrantes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+2. La Presidenta del Consejo Municipal podrá invitar a personas, instituciones, organismos, dependencias municipales que por su experiencia, conocimientos o atribuciones, se vinculen con la materia de promoción del humanismo, los valores y cultura de la legalidad, previa aprobación de sus integrantes.
 
 3. El Consejo Municipal se regirá en su funcionamiento conforme a las disposiciones establecidas en esta Ley para el Consejo Estatal.
 
@@ -269,19 +307,25 @@ V. Las asociaciones de padres de familia del municipio.
 
 ### CAPÍTULO I. DE SU CONTENIDO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
-El Programa para la Promoción de Valores y Cultura de la Legalidad del Estado de Tamaulipas, será el instrumento guía para orientar las políticas públicas y las acciones que en forma coordinada realicen los Poderes del Estado y los Ayuntamientos, así como las instituciones y organismos que integran el Consejo.
+El Programa para la Promoción del Humanismo, los Valores y Cultura de la Legalidad del Estado de Tamaulipas, será el instrumento guía para orientar las políticas públicas y las acciones que en forma coordinada realicen los Poderes del Estado y los Ayuntamientos, así como las instituciones y organismos que integran el Consejo.
 
 ###### ARTÍCULO 18.
 
 El Consejo, en el diseño del Programa, deberá incluir los siguientes aspectos:
 
-I. Un diagnóstico de la situación que prevalezca en la materia de valores en la familia y la sociedad, así como la identificación de la problemática a superar;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Un diagnóstico de la situación que prevalezca en la materia de humanismo, valores en la familia y la sociedad, así como la identificación de la problemática a superar;
 
 II. El diseño de las políticas y estrategias para fomentar la cultura de la legalidad en la sociedad;
 
-III. La definición de los valores que se promoverán en la sociedad y la manera de fomentarlos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. La definición de humanismo y de los valores que se promoverán en la sociedad y la manera de fomentarlos;
 
 IV. Los objetivos generales y específicos del Programa;
 
@@ -293,13 +337,17 @@ VII. Elaboración de estrategias sobre la participación activa y propositiva de
 
 VIII. Los criterios de vinculación, colaboración y corresponsabilidad con la sociedad civil organizada;
 
-IX. El diseño de campañas de difusión en los medios de comunicación, para sensibilizar a la sociedad sobre los valores y la cultura de la legalidad; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IX. El diseño de campañas de difusión en los medios de comunicación, para sensibilizar a la sociedad sobre el humanismo, los valores y la cultura de la legalidad; y
 
 X. Establecer metodología de evaluación y seguimiento de las actividades que deriven de este Programa, fijando indicadores para evaluar los resultados.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 19.
 
-Las autoridades encargadas de hacer cumplir el Programa colaborarán entre sí, intercambiando información, a fin de fortalecer las acciones encaminadas a promover los valores y la cultura de la legalidad.
+Las autoridades encargadas de hacer cumplir el Programa colaborarán entre sí, intercambiando información, a fin de fortalecer las acciones encaminadas a promover el humanismo, los valores y la cultura de la legalidad.
 
 ### CAPÍTULO II. DEL CENTRO DE PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS
 
@@ -307,19 +355,29 @@ Las autoridades encargadas de hacer cumplir el Programa colaborarán entre sí, 
 
 El Centro será el órgano operativo del Programa y tendrá las siguientes atribuciones:
 
-I. Programar a corto, mediano y largo plazos, la formación de los valores y la cultura de la legalidad en la sociedad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-II. Proponer la metodología y estrategias para la promoción de los valores y la cultura de la legalidad;
+I. Programar a corto, mediano y largo plazos, la formación de humanismo, valores y la cultura de la legalidad en la sociedad;
 
-III. Diseñar los instrumentos educativos para fomentar los valores y la cultura de la legalidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+II. Proponer la metodología y estrategias para la promoción del humanismo, los valores y la cultura de la legalidad;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. Diseñar los instrumentos educativos para fomentar el humanismo, los valores y la cultura de la legalidad;
 
 IV. Diseñar la estrategia de comunicación social y de participación ciudadana sobre el contenido del Programa;
 
-V. Capacitar en materia de promoción de valores y la cultura de la legalidad a los servidores públicos encargados de hacer cumplir la presente Ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+V. Capacitar en materia de promoción de humanismo, valores y la cultura de la legalidad a los servidores públicos encargados de hacer cumplir la presente Ley;
 
 VI. Promover la vinculación de la sociedad civil agrupada en el cumplimiento del Programa;
 
-VII. Organizar y realizar foros, cursos, talleres y demás acciones para la promoción de los valores y la cultura de la legalidad; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+VII. Organizar y realizar foros, cursos, talleres y demás acciones para la promoción del humanismo, los valores y la cultura de la legalidad; y
 
 VIII. Las demás que le instruya el Consejo.
 
@@ -370,3 +428,15 @@ P.O. 5 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-106 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES, ASÍ COMO LA DENOMINACIÓN DE LA LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo contará con un plazo de seis meses para realizar las modificaciones necesarias en el programa, en materia de humanismo.
