@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2023-12-16"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -155,13 +155,17 @@ II. Museo de Arte Popular "Oaxaca": 28.00
 
 III. Museo de Arqueología "Ervin Frissell" 28.00
 
-IV. Museo de Arte Prehispánico de México
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IV. Museo de Arte Precolombino
 
 "Rufino Tamayo": 60.00
 
-V. Museo de Arte Contemporáneo
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-de Oaxaca: 28.00
+V. Museo de Arte Contemporáneo y de las
+
+Culturas Oaxaqueñas (MACCO): 28.00
 
 Número de UMA
 
@@ -181,6 +185,8 @@ Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 2.]</small>
+
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 10.
@@ -198,6 +204,12 @@ Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamie
 Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones públicas, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 2.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+No pagarán el derecho a que se refiere el inciso a) de la fracción V de este artículo, las personas mayores de 60 años, personas con discapacidad, profesores y estudiantes en activo de escuelas ubicadas en municipios con alto y muy alto grado de marginación.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -241,29 +253,37 @@ f) Cancha de frontón: 1.50
 
 Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento del Archivo General del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 Conceptos Número de UMA
 
-Hora Mes
+Hora Recorrido
 
-I. Patio del Pirul o salas: 17.00
+I. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
 II. Vestíbulo principal: 17.00
 
 III. Sala privada de consulta: 5.00
 
-IV. Auditorio: 22.00
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IV. Auditorio: 16.00
 
 V. Aulas para seminarios: 9.00
 
-VI. Establecimiento comercial
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-(Librería, tienda, cafetería): 40.00
+VI. Cafetería 8.00
 
 VII. Sesión fotográfica: 17.00
 
 VIII. Filmación o grabación del
 
 inmueble, instalaciones y equipo: 6.17
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IX. Servicio de guía por visitante: 0.50
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -273,7 +293,11 @@ Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 3.]</small>
 
-No pagarán el derecho a que se refiere la fracción VIII de este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 2 A LA 3.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+No pagarán el derecho a que se refiere el inciso a) de la fracción IX de este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, con discapacidad, profesores y estudiantes en activo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -281,53 +305,143 @@ No pagarán el derecho a que se refiere la fracción VIII de este artículo, las
 
 Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de los bienes de dominio público que se enlistan, de conformidad con las siguientes cuotas:
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 Número de UMA
 
-Conceptos 8 horas 24 horas
+Conceptos Hora 8 horas 24 horas
 
 I. Centro Cultural y de Convenciones de Oaxaca
 
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
 a) Gran salón o salón multifuncional,
 
-por metro cuadrado: 0.43
+por metro cuadrado: 0.32
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 b) Recinto ferial o vestíbulo, por
 
-metro cuadrado: 0.33
+metro cuadrado: 0.25
 
-c) Auditorio panorámico, por metro cuadrado: 0.43
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-d) Salas de reuniones, por metro cuadrado: 0.74
+c) Auditorio panorámico, por metro cuadrado: 0.32
 
-e) Salas de descanso, por metro cuadrado: 0.27
+d) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2024)
 
-f) Cocina, por metro cuadrado: 0.43
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+e) Salas de descanso, por metro cuadrado: 0.20
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+f) Cocina, por metro cuadrado: 0.32
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 g) Bodegas, almacenes o área de
 
-traducción, por metro cuadrado: 0.27
+traducción y salas exprés,
 
-h) Áreas al aire libre, por metro cuadrado: 0.27
+por metro cuadrado: 0.20
 
-i) Día adicional de montaje o
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-desmontaje en todas las áreas, por
+h) Áreas al aire libre, por metro cuadrado: 0.20
 
-metro cuadrado: 0.27
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-j) Sesión fotográfica o video: 20.00
+i) Tiempo adicional de
+
+montaje o desmontaje
+
+en todas las áreas
+
+por metro cuadrado: 0.01 0.20
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+j) Sesión fotográfica o video: 15.00
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 NÚMERO DE UMA
 
-Mes M2
+Mes 24 horas
 
 II. Centro Gastronómico de Oaxaca:
 
 a) Locales, por metro cuadrado: 15.00
 
-b) Terraza, viernes-sábado: 1.12
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-c) Terraza, jueves-domingo 0.75
+b) Terraza, viernes-sábado, 1.12
+
+por metro cuadrado:
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+c) Terraza, domingo-jueves,
+
+por metro cuadrado: 0.75
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+d) Patio arcos, viernes-sábado,
+
+por metro cuadrado: 1.12
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+e) Patio arcos, domingo-jueves,
+
+por metro cuadrado: 0.75
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+f) Salón “Expendio de Mexcal”: 70.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+g) Salón “Hasta no ver la cruz”: 65.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+NÚMERO DE UMA
+
+24 Horas 12 horas
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. Foro Huatulco:
+
+a) Auditorio Principal: 525.00 263.00
+
+b) Salones, por metro cuadrado: 0.32
+
+c) Espacios comerciales,
+
+por metro cuadrado: 3.00
+
+d) Área al aire libre,
+
+por metro cuadrado: 0.20
+
+e) Área de exposición
+
+por metro cuadrado: 0.20
+
+f) Corredores, por metro cuadrado: 0.20
+
+g) Recepción, por metro cuadrado: 0.20
+
+h) Ágora: 30.00 15.00
+
+i) Tiempo adicional de montaje
+
+o desmontaje en todas las áreas: 18.00
 
 > <small>(DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -359,9 +473,39 @@ Pesos
 
 II. Estacionamiento
 
-a) Evento: 50.00
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-b) Pensión, por mes: 500.00
+a) Evento: 100.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+b) Pensión, por mes: 1000.00
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+c) Aire libre por metro cuadrado: 0.29
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 15 Bis.
+
+Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones del Parque Primavera que se enlistan conforme las cuotas siguientes:
+
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 3 A LA 4.]</small>
+
+Para el otorgamiento del uso, goce o aprovechamiento de las instalaciones mencionadas en las fracciones anteriores, el solicitante deberá observar y cumplir con lo siguiente:
+
+a) Presentar la solicitud de forma oficial ante el administrador del espacio público quince días naturales antes de la fecha del evento.
+
+b) Dicha solicitud deberá indicar la fecha y horarios de ocupación del bien de dominio público del Estado.
+
+El administrador del bien de dominio público deberá:
+
+a) Informar al solicitante oficialmente la procedencia o no del espacio en la fecha y horario señalado, acompañado del formato de pago correspondiente.
+
+b) Una vez recibido el formato de pago con el sello de pagado o la transferencia bancaria realizada, informará al solicitante la fecha para la suscripción del permiso correspondiente.
+
+Los administradores de los espacios públicos del Estado son la única instancia competente para el otorgamiento del uso, goce o aprovechamiento de dichos espacios.
 
 ###### Artículo 16.
 
@@ -415,7 +559,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 15 A LA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 6; Y 26 DE DICIEMBRE DE 2020, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 6; 26 DE DICIEMBRE DE 2020, PÁGINA 15; 21 DE DICIEMBRE DE 2024, PÁGINA 4.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -439,13 +583,15 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16; Y 24 DE DICIEMBRE DE 2019, PÁGINA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 7; 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 4 A LA 5.]</small>
 
 ###### Artículo 21.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de vialidad, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5.]</small>
 
 ### CAPÍTULO V. SECRETARÍA DE INFRAESTRUCTURAS Y COMUNICACIONES
 
@@ -456,6 +602,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de vigilancia y control sanitario, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 17.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5.]</small>
 
 ###### Artículo 23.
 
@@ -501,7 +649,9 @@ b) Mediana complejidad: 20.00
 
 V. Revalidación técnica de estudios y proyectos de obra: 30.00
 
-VI. Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la administración pública y aquellas que celebren con los Municipios donde la fuente de financiamiento provenga de recursos estatales autorizados en el programa de inversión, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado el dos punto cinco por ciento, por los servicios de supervisión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+VI. Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencia y entidades de la Administración Pública y aquellas que celebren con los Municipios donde la fuente de financiamiento provenga de recursos, estatales o de Fondos de Aportaciones Federales regulados en la Ley de Coordinación Fiscal, autorizados en el programa de inversión, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado, el dos punto cinco por ciento, por los servicios de supervisión.
 
 El procedimiento y términos de la retención del derecho antes citado, se establecerá en Reglas de Carácter General.
 
@@ -534,6 +684,8 @@ Los servicios públicos antes enlistados, se entenderán referidos a una toma o 
 Se causarán y pagarán derechos por los servicios públicos en materia de suministro de agua potable, alcantarillado y drenaje, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 4 A LA 5.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5.]</small>
 
 Los servicios públicos que se presten por los Organismos Operadores de Agua en la Entidad causarán y pagarán derechos conforme las cuotas que se autoricen por la Comisión Estatal del Agua para el Bienestar, las que se darán a conocer mediante Acuerdo que se publique en el Periódico Oficial del Gobierno del Estado.
 
@@ -625,7 +777,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 19 A LA 20.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 18 A LA 19.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 18 A LA 19; 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 5 A LA 6.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -657,11 +809,11 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 21 A LA 22.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6; Y 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6; 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 8; 21 DE DICIEMBRE DE 2024, PÁGINA 6.]</small>
 
 ### CAPÍTULO XII. SECRETARÍA DE HONESTIDAD, TRANSPARENCIA Y FUNCIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
@@ -737,17 +889,19 @@ b) Documento digitalizado, por hoja: 0.28
 
 ###### Artículo 38.
 
-Por el servicio de vigilancia, inspección y control de obra que las leyes de la materia encomiendan a la Secretaría de la Contraloría y Transparencia Gubernamental, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por el servicio de vigilancia, inspección y control de obra que las leyes de la materia encomiendan a la Secretaría de Honestidad, Transparencia y Función Pública, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 Las oficinas pagadoras de las dependencias de la administración pública central y descentralizada, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato conforme al procedimiento que para tal efecto determine la Secretaría mediante reglas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-Una vez recibidos los ingresos en la Secretaría, por la recaudación de este derecho, conforme al procedimiento establecido en reglas, estos serán destinados a la Secretaría de la Contraloría y Transparencia Gubernamental, para el fortalecimiento del servicio de inspección y vigilancia a que se refiere este artículo.
+Una vez recibidos los ingresos en la Secretaría, por la recaudación de este derecho, conforme al procedimiento establecido en reglas, éstos serán destinados a la Secretaría de Honestidad, Transparencia y Función Pública, para el fortalecimiento del servicio de inspección y vigilancia a que se refiere este artículo.
 
-Para efectos de lo anterior, la Secretaría de la Contraloría y Transparencia Gubernamental deberá realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre lo recaudado para que se proceda al registro de los ingresos y egresos que correspondan a efecto de informar en la Cuenta Pública del Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Para efectos de lo anterior, la Secretaría de Honestidad, Transparencia y Función Pública deberá realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre lo recaudado para que se proceda al registro de los ingresos y egresos que correspondan a efecto de informar en la Cuenta Pública del Estado.
 
 La omisión total o parcial en lo antes señalado, afectará el presupuesto de la dependencia en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
 
@@ -789,9 +943,13 @@ I. Instalación de Stand de:
 
 a) Mezcal: 80.00 70.00
 
-b) Café: 70.00 60.00
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-c) Alimentos y bebidas alcohólicas: 70.00 60.00
+b) Café: 50.00 40.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+c) Alimentos y bebidas alcohólicas: 50.00 40.00
 
 d) Sector Manufacturero: 80.00 70.00
 
@@ -801,9 +959,13 @@ y/o maquinaria: 50.00 40.00
 
 f) Productos tradicionales y artesanías: 30.00 20.00
 
-g) Productos agroindustriales: 60.00 50.00
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-h) Informativo o difusión: 15.00 10.00
+g) Productos agroindustriales: 50.00 40.00
+
+> <small>(REFORMADO EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+h) Informativo o difusión: 20.00 10.00
 
 i) Otros: 15.00 10.00
 
@@ -881,9 +1043,13 @@ Artículo 42 A. Se causarán y pagarán derechos por los servicios públicos que
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 7 A LA 8.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 6 A LA 7.]</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO I. BÁSICA
+### CAPÍTULO XVII. SECRETARÍA DE EDUCACIÓN PÚBLICA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 43.
 
@@ -999,17 +1165,27 @@ Se causarán y pagarán derechos por los servicios públicos que se enlistan, co
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 8 A LA 9.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 7.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+Para efectos del presente artículo, se entenderá por localidad urbana la localizada en el territorio del Estado, con más de 2,500 habitantes y cuya ubicación geográfica no sea de difícil acceso; y, por localidad rural, la localizada en el territorio del Estado, con menos de 2,500 habitantes y cuya ubicación geográfica sea de difícil acceso.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. BÁSICA
+
+###### Artículo 47 Bis.
+
+Se causarán y pagarán derechos por los servicios públicos en materia de educación Media Superior y Superior de conformidad con las siguientes cuotas:
+
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 9.]</small>
+
 ### CAPÍTULO II. MEDIA Y SUPERIOR
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
-
-### CAPÍTULO III. SISTEMA DE ESTUDIOS TECNOLÓGICOS
 
 ## TÍTULO CUARTO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS EDUCATIVOS
 
-### CAPÍTULO IV. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+### CAPÍTULO III. SISTEMA DE ESTUDIOS TECNOLÓGICOS
 
 ###### Artículo 48.
 
@@ -1019,13 +1195,13 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 9 A LA 11.]</small>
 
+### CAPÍTULO IV. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
 ###### Artículo 49.
 
-Se causarán y pagarán derechos por los servicios públicos que realice la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología de conformidad con las siguientes cuotas:
-
-> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 11 A LA 13.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; 24 DE DICIEMBRE DE 2019, PÁGINA 11; Y 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 19 A LA 20; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1049,7 +1225,9 @@ VI. Expedición de duplicado de certificado total: 6.67
 
 VII. Expedición de dictamen de revalidación: 7.46
 
-VIII. Expedición de diario de aprendizaje: 0.49
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+VIII. Expedición de diario de aprendizaje: 0.00
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1067,7 +1245,9 @@ I. Inscripción: 0.00 0.00
 
 II. Reinscripción: 0.00 0.00
 
-III. Impartición de curso propedéutico: 3.30
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+III. Impartición de curso propedéutico: 0.00
 
 IV. Aplicación de evaluaciones:
 
@@ -1091,7 +1271,9 @@ portabilidad de estudios: 8.80 3.00
 
 VIII. Duplicado de credencial: 0.66 0.66
 
-IX. Ficha de admisión: 1.65
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+IX. Ficha de admisión: 0.00
 
 X. Constancia de calificaciones: 2.00
 
@@ -1111,9 +1293,13 @@ Conceptos Educación Educación
 
 Presencial a distancia
 
-I. Ficha de selección: 1.65 1.21
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-II. Curso de Inducción: 3.30
+I. Ficha de selección: 0.00 0.00
+
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+II. Curso de Inducción: 0.00
 
 III. Inscripción y/o reinscripción: 0.00
 
@@ -1141,9 +1327,13 @@ asignatura o módulo: 3.40 1.00
 
 XI. Asignatura o módulo a recursar: 3.40
 
-XII. Expedición y reposición
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-de credencial: 0.65 0.65
+XII. Emisión de credencial:
+
+a) Expedición: 0.00 0.00
+
+b) Reposición: 0.65 0.65
 
 XIII. Examen extraordinario: 1.00 1.37
 
@@ -1169,7 +1359,7 @@ Se causarán y pagarán derechos por los servicios públicos que se (sic) realic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 16 DE DICIEMBRE DE 2023, PÁGINA 9.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 16 DE DICIEMBRE DE 2023, PÁGINA 9; 21 DE DICIEMBRE DE 2024, PÁGINA 9.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1179,7 +1369,9 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Univ
 
 Conceptos Número de UMA
 
-I. Ficha para examen de selección: 3.95
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Ficha para examen de selección: 0.00
 
 II. Inscripción y/o reinscripción
 
@@ -1199,7 +1391,9 @@ Se causarán y pagarán derechos por los servicios públicos que realice el Inst
 
 Conceptos Número de UMA
 
-I. Ficha para examen de selección: 3.95
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Ficha para examen de selección: 0.00
 
 II. Inscripción y/o reinscripción: 0.00
 
@@ -1219,7 +1413,9 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Univ
 
 Conceptos Número de UMA
 
-I. Ficha de examen para selección: 3.95
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Ficha de examen para selección: 0.00
 
 II. Expedición de constancias de estudios: 0.79
 
@@ -1239,7 +1435,9 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Univ
 
 Conceptos Número de UMA
 
-I. Ficha de examen para selección: 3.95
+> <small>(REFORMADA EN SU CUOTA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+
+I. Ficha de examen para selección: 0.00
 
 II. Inscripción y/o reinscripción: 0.00
 
@@ -1264,6 +1462,8 @@ IX. Curso Básico: 5.58
 Se causarán y pagarán derechos por los servicios públicos que realicen las universidades (sic) parte del Sistema de Universidades Estatales, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 9.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 9.]</small>
 
 El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
 
@@ -1352,3 +1552,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el uno de enero de dos mil veint
 TERCERO.- La Secretaría de Turismo contará con un plazo de quince días naturales a partir de la entrada en vigor del presente Decreto, para que realice la entrega a la Secretaría de Administración de las instalaciones y bienes muebles utilizados para la operación y mantenimiento del Auditorio Guelaguetza y de su estacionamiento, en términos de las disposiciones legales aplicables.
 
 CUARTO.- La Universidad Tecnológica de los Valles Centrales de Oaxaca contará con un plazo de quince días naturales a partir de la entrada en vigor del presente Decreto, para que realice la entrega a la Secretaría de Administración de los espacios localizados en el Centro Gastronómico de Oaxaca, señalados en el artículo 14, fracción II de la presente ley, de conformidad con las disposiciones legales aplicables.
+
+P.O. 21 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 19.- MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
