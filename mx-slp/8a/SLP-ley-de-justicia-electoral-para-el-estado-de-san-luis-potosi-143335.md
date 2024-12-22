@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-para-el-estado-de-san-luis-potosi-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-15"
-last_updated: "2024-12-19"
+last_updated: "2024-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el lunes 15 de junio de 2020.
 
@@ -97,9 +97,9 @@ V. Ley General: la Ley General de Instituciones y Procedimientos Electorales;
 
 VI. Ley: la presente Ley de Justicia Electoral para el Estado de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-VII. Personas juzgadoras del Poder Judicial del Estado: los magistrados, magistradas del Supremo Tribunal de Justicia, el magistrado o magistrada del Tribunal Unitario de Disciplina Judicial y los jueces y juezas de primera instancia del Poder Judicial del Estado de San Luis Potosí;
+VII. Las personas juzgadoras del Poder Judicial del Estado: las personas Magistradas del Supremo Tribunal de Justicia, las personas magistradas del Tribunal de Disciplina Judicial, y las personas juzgadoras de Primera Instancia del Poder Judicial del Estado de San Luis Potosí;
 
 VIII. Medios de impugnación o recursos: los previstos en el artículo 5º de esta Ley;
 
@@ -1162,3 +1162,11 @@ QUINTO. Se faculta al Consejo Estatal Electoral y de Participación Ciudadana de
 Dichos acuerdos deberán garantizar el cumplimiento de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y equidad que rigen los procesos electorales, y estarán vigentes durante el proceso electoral local extraordinario 2025.
 
 SEXTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0033.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, ASÍ COMO DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DEL PODER JUDICIAL Y PROCESOS ELECTORALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
