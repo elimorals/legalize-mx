@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2024-12-18"
+last_updated: "2024-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -145,39 +145,37 @@ Si la vacante ocurre en una notaría que no cuente con adscrito, o si éste no l
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA SER ASPIRANTE A LA FUNCIÓN NOTARIAL Y NOTARIAS O NOTARIOS TITULARES, Y ADSCRITOS
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 16.
 
-Para obtener la constancia de aspirante a la función notarial, la persona interesada deberá cumplir los siguientes requisitos:
+Para obtener la constancia de aspirante a la función notarial, la persona interesada deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadana o ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
+I. Tener ciudadanía potosina en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener una residencia efectiva en el Estado de dos años anteriores a la solicitud que realice para obtener la constancia de aspirante a la función notarial;
+II. Residir en el Estado por lo menos cinco años anteriores a la solicitud del examen;
 
-III. Contar con título profesional de licenciatura en derecho, abogada o abogado, y cédula profesional, expedidos por autoridad o institución legalmente facultada para ello;
+III. Gozar de buena reputación personal y honestidad profesional;
 
-IV. Gozar de buena reputación personal y profesional;
+IV. No ser ministro de culto religioso;
 
-V. Presentar dos cartas de recomendación de un colegio o Asociación de abogados, o una institución académica que avale la conducta ética y profesional del aspirante.
+V. Contar con cédula profesional de abogado, abogada, o de licenciatura en derecho;
 
-VI. No haber sido condenado o condenada por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de delitos contra el patrimonio, contra la fidelidad profesional, o contra la fe pública, no podrá acceder a la constancia de aspirante a la función notarial, cualquiera que haya sido la pena;
+VI. Contar con experiencia profesional como abogada, abogado, licenciada o licenciado en derecho;
 
-VII. No estar en alguno de los siguientes supuestos:
+VII. Comprobar que por lo menos durante dos años ininterrumpidos e inmediatamente anteriores a la solicitud del examen, ha realizado prácticas notariales bajo la dirección y responsabilidad de algún notario o notaria del Estado; o en su caso comprobar haber realizado estudios cuando menos a nivel especialidad de postgrado en derecho notarial en una institución de educación superior debidamente reconocida, y contar con el diploma o título correspondiente registrado ante la autoridad competente, así como con la cédula de autorización respectiva.
+
+Para comprobar las prácticas notariales, el notario o notaria responsable dará aviso del inicio y término de las mismas, a la Dirección del Notariado y a la Secretaría del Consejo del Colegio de Notarios del Estado. La Dirección del Notariado deberá comprobar periódicamente, la realización efectiva de dichas prácticas;
+
+VIII. No estar en alguno de los siguientes supuestos:
 
 a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
 
 b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios, y
 
-VIII. No haber sido inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
-
-IX. Comprobar que cuenta con por lo menos 3 años de experiencia en el ejercicio profesional en el ámbito del derecho, preferentemente en áreas relacionadas con el derecho civil, mercantil o notarial; o comprobar haber realizado estudios cuando menos a nivel especialidad de postgrado en derecho notarial en una institución de educación superior debidamente reconocida, y contar con el título correspondiente registrado ante la autoridad competente, así como con la cédula de autorización respectiva;
-
-X. Acreditar las prácticas notariales, para lo cual la o el notario titular de la notaria en donde haya realizado las mismas, dará aviso al inicio y término de éstas a la Secretaría del Consejo del Colegio de Notarios del Estado; y a la Dirección del Notariado quien comprobará periódicamente la realización efectiva de dichas prácticas, y
-
-XI. Solicitar ante la Dirección del Notariado el examen correspondiente y aprobar el mismo.
+IX. Solicitar ante la Dirección del Notariado, el examen correspondiente y ser aprobado en el mismo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
@@ -1103,47 +1101,55 @@ Los directores de las diversas oficinas del Registro Público de la Propiedad, e
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 123.
 
-El titular del Poder Ejecutivo del Estado, para vigilar que las notarías funcionen con regularidad y con sujeción a lo dispuesto en esta Ley y demás disposiciones aplicables, practicará por conducto de la Dirección del Notariado, visitas generales y especiales de inspección y vigilancia a las notarías, previa comunicación por escrito, fundada y motivada, en la que expresará el nombre del notario, número de su notaría y domicilio en que está ubicada, el tipo de inspección a realizarse, el motivo de la visita, la fecha y la firma del Director del Notariado.
+La Dirección del Notariado, realizará visitas de inspección y vigilancia a las notarías para asegurar su correcto funcionamiento conforme a esta Ley y otras disposiciones aplicables. Esta visita, se llevará a cabo previa notificación escrita, detallando el nombre de la notaria o notario titular, adscrita o adscrito, número y ubicación de la notaría, fundamento y motivo de la inspección, así como el personal jurídico habilitado para participar en la diligencia de inspección, junto con la fecha y firma del o la Titular de la Dirección del Notariado.
 
 ###### ARTICULO 124.
 
 (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 125.
 
-Los notarios estarán obligados a dar las facilidades que requiera el Director del Notariado para que pueda practicar las visitas ordenadas. En caso de que no se den las facilidades necesarias, se impondrá al notario la sanción que corresponda.
+Las y los notarios estarán obligados a dar las facilidades que requiera a quien se ostente como Titular de la Dirección del Notariado para que pueda practicar las visitas ordenadas. En caso de que no se den las facilidades necesarias, se levantará un acta donde se relacionarán los hechos acontecidos, donde se impondrá a la notaria o notario público titular, adscrita o adscrito la sanción que corresponda de conformidad con el artículo 138 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 126.
 
-El Director del Notariado podrá auxiliarse de visitadores que le ayuden a practicar las inspecciones, quienes deberán ser abogados y se sujetarán a las reglas establecidas en los artículos siguientes.
+La persona Titular de la Dirección del Notariado podrá habilitar para (sic) a las y los licenciados en derecho para que le auxilien a practicar la diligencia de visita de inspección, quienes se sujetarán a las reglas establecidas en los artículos siguientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 127.
 
-Las visitas de inspección pueden ser generales o especiales, y tiene por objeto vigilar que los notarios cumplan con todas las obligaciones que las leyes les señalen; para tal efecto, el visitador examinará el protocolo, apéndices e índices y asentará en el acta referida en el artículo 134 de esta Ley, todo cuanto con relación a la visita le parezca conveniente.
+La visita de inspección tiene por objeto vigilar que las y los notarios cumplan con todas las obligaciones que las leyes les señalen; para tal efecto, la visitadora o el visitador, asentará en el acta referida en el artículo 134 de esta Ley, todo con relación al ejercicio de la función notarial, que perciba en el desarrollo de la diligencia.
+
+La persona Titular de la Dirección del Notariado podrá ordenar visitas de inspección en cualquier tiempo, y cuando una notaria o notario titular, adscrita o adscrito haya incurrido en una contravención a la ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 128.
 
-Las visitas se practicarán en el domicilio de la notaría, en días y horas hábiles.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Cuando la visita fuere especial, el notario deberá ser notificado por lo menos con cinco días hábiles de anticipación por la Dirección del Notariado, teniendo en cuenta lo que dispone el párrafo anterior por lo que se refiere a la falta de notificación.
+Las visitas se practicarán en días y horas hábiles, la o el notario público titular y/o adscrita o adscrito deberá ser notificado por la Dirección del Notariado por lo menos con cinco días hábiles de anticipación.
 
 ###### ARTICULO 129.
 
 Al presentarse el visitador ante la notaría en que se vaya a practicar la visita se identificará ante el notario. En caso de no estar presente éste, le dejará citatorio en el que se indicará el día y la hora en que se efectuará la visita de inspección y, en el supuesto de que no atienda al citatorio, se entenderá la diligencia con su adscrito, suplente, o en su caso, con su asociado y, en ausencia de éstos, con la persona que esté encargada de la notaría en el momento de la diligencia, a quien se le mostrará la orden escrita que autorice la inspección.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 130.
 
-En las visitas de inspección se observarán las siguientes reglas:
+En la visita de inspección se observarán en lo conducente, las reglas siguientes:
 
-I. Si la visita fuere general el visitador revisará todo el protocolo o diversas partes de él según estime necesario, para cerciorarse de la observancia de los requisitos legales. En ningún caso se examinará el contenido de las declaraciones y de los asuntos consignados en el protocolo, y
+I. Se cerciorarán los hechos que fundan y motivan la visita; si están empastados los folios del protocolo, apéndice, libros de cotejos e índice y así lo hará constar en el acta respectiva, se inspeccionarán todos aquellos instrumentos que resulten necesarios para cumplimiento de las obligaciones de las y los notarios, titulares, adscritas o adscritos, y
 
-> <small>(F. DE E., P.O. 8 DE JUNIO DE 2000)</small>
-
-II. Si la visita fuere especial el visitador se limitará a examinar el cumplimiento de los requisitos de forma, en un tomo determinado. Si la visita tiene por objeto un instrumento en particular, se examinará la redacción, sus cláusulas y declaraciones cuando el instrumento sea de los sujetos a registro.
+II. Si la visita tiene por objeto un instrumento determinado, se examinará la redacción, sus cláusulas y declaraciones, así como en su caso su situación catastral y registral.
 
 ###### ARTICULO 131.
 
@@ -1187,7 +1193,9 @@ El notario responsable del incumplimiento de sus obligaciones derivadas de esta 
 
 I. Amonestación por escrito:
 
-a) Por tardanza injustificada en alguna actuación o trámites solicitados y expensados totalmente por un cliente, relacionados con el ejercicio de las funciones del notario;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+a) Por no dar respuesta en término a la notificación de los requerimientos de la Dirección del Notariado, solicitudes de información y peticiones solicitadas por las y los ciudadanos, a las y los notarios y/o las y los adscritos de conformidad con el artículo 8°de la Constitución Federal.
 
 b) Por separase del ejercicio de sus funciones sin dar aviso o sin la licencia correspondiente;
 
@@ -1195,19 +1203,37 @@ c) Por cualquier otra violación menor, tal como no llevar índices, y no empast
 
 d) Por incumplimiento de las obligaciones estipuladas en el artículo 6º de esta Ley;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-II. Multa de cien a cuatrocientas veces el valor de la unidad de medida y actualización vigente:
+II. Multa de cien a cuatrocientas veces el valor de la unidad de medida y actualización vigente, por alguna de las siguientes causas:
 
-a) Por reincidir en alguna de las infracciones antes señaladas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-b) Por provocar por negligencia, imprudencia o dolo debidamente probada, la nulidad de algún instrumento o testimonio;
+a) Reincidir en alguna de las infracciones antes señaladas.
 
-c) Por no ajustarse al arancel aprobado, que tiene carácter de obligatorio;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-d) Por negarse sin causa justificada al ejercicio de sus funciones, cuando hubiere sido requerido para ello, y
+b) Provocar por negligencia, imprudencia o dolo debidamente probada, la nulidad de algún instrumento o testimonio.
 
-e) Por competencia desleal en el ejercicio de sus funciones;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+c) No ajustarse al arancel aprobado, que tiene carácter de obligatorio.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+d) Negarse sin causa justificada al ejercicio de sus funciones, cuando hubiere sido requerido para ello.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+e) La competencia desleal en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+f) Tardar injustificadamente alguna actuación o trámites solicitados y expensados totalmente por la o el ciudadano que realizó trámites ante la notaría, relacionados con el ejercicio de las funciones de las y los notarios públicos, o
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+g) Ser reincidente en la omisión de dar respuesta a requerimientos hechos por la Dirección del Notariado en ejercicio de sus facultades de inspección y vigilancia;
 
 III. Suspensión del cargo hasta por un año:
 
@@ -1778,6 +1804,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0026.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEGUNDO Y DE SU CAPÍTULO II, LOS ARTÍCULOS 16, 17, 18 Y 19, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0034.- SE REFORMAN LOS ARTÍCULOS 16, 123, 125, 126, 127, 128, 130, 138 LAS FRACCIONES I EL INCISO A), Y LA FRACCIÓN II; Y ADICIONA EL INCISO F) Y G) A LA FRACCIÓN II DEL ARTÍCULO 138 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
