@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2024-12-19"
+last_updated: "2024-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -257,9 +257,9 @@ XXXVII. Partidos políticos: las entidades de interés público, dotados de pers
 
 XXXVIII. Periódico Oficial: el Periódico Oficial del Estado “Plan de San Luis”;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-XXXIX. Personas juzgadoras del Poder Judicial del Estado: los magistrados, magistradas del Supremo Tribunal de Justicia, el magistrado o magistrada del Tribunal Unitario de Disciplina Judicial y los jueces y juezas de primera instancia del Poder Judicial del Estado de San Luis Potosí;
+XXXIX. Personas juzgadoras del Poder Judicial del Estado: los magistrados, magistradas del Supremo Tribunal de Justicia, las personas magistradas del Tribunal de Disciplina Judicial, y las personas juzgadoras de Primera Instancia del Poder Judicial del Estado de San Luis Potosí, y
 
 XL. Plebiscito: el mecanismo de participación ciudadana mediante el cual se consulta a las y los ciudadanos del Estado para que expresen su opinión afirmativa o negativa, respecto de un acto de los poderes, Ejecutivo, y Legislativo, o de los ayuntamientos, que sean considerados como acción trascendente para la vida pública del Estado o de los municipios, según sea el caso, o para la formación, supresión o fusión de municipios;
 
@@ -349,9 +349,9 @@ La distritación respectiva deberá aprobarse antes de que inicie el proceso ele
 
 Las elecciones ordinarias se verificarán el primer domingo de junio de cada seis años para Gobernador o Gobernadora del Estado, y el mismo día de cada tres años para diputaciones y ayuntamientos del año correspondiente, según se trate.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-Las elecciones de personas juzgadoras del Poder Judicial del Estado, tendrán verificativo el primer domingo de junio de cada seis años para el cargo de magistrado o magistrada del Tribunal Unitario de Disciplina Judicial, de cada nueve años para el cargo de jueces y juezas de primera instancia y de cada doce años para el cargo de magistrados y magistradas del Supremo Tribunal de Justicia.
+Las elecciones del Poder Judicial del Estado, tendrán verificativo el primer domingo de junio de cada seis años; cada nueve años para el cargo de las personas juzgadoras de Primera Instancia, y cada doce años para el cargo de personas Magistradas del Supremo Tribunal de Justicia.
 
 ###### ARTÍCULO 15.
 
@@ -449,9 +449,9 @@ Las y los diputados podrán ser electos hasta por cuatro periodos consecutivos. 
 
 Las personas que integran los ayuntamientos, pueden ser electas por dos periodos consecutivos por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido político o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-Los jueces y juezas de primera instancia durarán nueve años y podrán ser reelectos de manera consecutiva por una única ocasión, la persona magistrada del Tribunal Unitario de Disciplina Judicial durará en el ejercicio de su encargo seis años sin posibilidad de reelección, y los magistrados y magistradas del Supremo Tribunal de Justicia del Estado, durarán en el ejercicio de su encargo doce años sin posibilidad de reelección.
+Las personas juzgadoras de Primera Instancia, durarán nueve años y podrán ser reelectos de manera consecutiva por una única ocasión por un periodo igual; las personas magistradas del Tribunal de Disciplina Judicial durarán en el ejercicio de su encargo seis años, sin posibilidad de reelección; y las personas Magistradas del Supremo Tribunal de Justicia del Estado, durarán en el ejercicio de su encargo doce años, sin posibilidad de reelección.
 
 ### Capítulo II. Del voto de la Ciudadanía Potosina Residente en el Extranjero
 
@@ -637,9 +637,9 @@ d) Resolver sobre las solicitudes de registro de los partidos políticos estatal
 
 e) Revocar de manera fundada y motivada el nombramiento de las y los integrantes de las comisiones distritales, y comités municipales electorales.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-f) Registrar a las y los candidatos para Gobernador o Gobernadora, diputaciones de mayoría relativa y las planillas y las listas de candidaturas a integrar los ayuntamientos, las de diputaciones de representación proporcional, y recibir los listados que los comités de evaluación que envíen de candidatos y candidatas de personas juzgadoras del Poder Judicial del Estado.
+f) Registrar a las y los candidatos para Gobernador o Gobernadora, diputaciones de mayoría relativa y las planillas y las listas de candidaturas a integrar los ayuntamientos, las de diputaciones de representación proporcional, y recibir los listados que los Comités de Evaluación del Congreso del Estado, del Poder Judicial de Estado y del Poder Ejecutivo del Estado presenten, los que contendrán a los candidatos y las candidatas al cargo de personas juzgadoras del Poder Judicial del Estado.
 
 g) Registrar a las y los representantes de los partidos políticos, y candidaturas independientes ante el Consejo General por conducto de los órganos y de conformidad con el procedimiento contenido en el Reglamento que para tal efecto emita en (sic) el Consejo.
 
@@ -3465,9 +3465,9 @@ En las elecciones extraordinarias a la Gubernatura, diputaciones, y ayuntamiento
 
 El registro de candidatas y candidatos a la Gubernatura estará abierto del día veintiuno al veintisiete de febrero del año de la elección.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-Por lo que se refiere a las candidaturas de personas juzgadoras del Poder Judicial del Estado, el Consejo recibirá del Comité de Evaluación los listados correspondientes.
+Por lo que se refiere a las candidaturas de personas juzgadoras del Poder Judicial del Estado, el Consejo recibirá los listados del Congreso del Estado, del Poder Judicial de Estado y del Poder Ejecutivo del Estado, correspondientes.
 
 ###### ARTÍCULO 259.
 
@@ -5963,7 +5963,9 @@ Para los efectos de esta ley, el proceso de elección de las personas juzgadoras
 
 I. Preparación de la elección, que inicia con la primera sesión que el Consejo celebre el dos de enero del año de la elección, y concluye con el inicio de la jornada electoral;
 
-II. Convocatoria y postulación de candidaturas, inicia con la publicación de la convocatoria que emita el Congreso del Estado conforme a lo establecido en el artículo 103 de la Constitución Política del Estado, y concluye con la remisión que el Comité de Evaluación realice de los listados de candidaturas al Consejo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+II. Convocatoria y postulación de candidaturas, inicia con la publicación de la convocatoria que emita el Congreso del Estado, conforme a lo establecido en el artículo 103 de la Constitución Política del Estado, y concluye con la remisión del listado que cada Comité de Evaluación de los poderes, Legislativo, Ejecutivo y Judicial, al Consejo.
 
 III. Jornada electoral, inicia a las 08:00 horas del primer domingo de junio del año de la elección y concluye con el cómputo de los votos en casilla;
 
@@ -5989,23 +5991,35 @@ Para la emisión de la convocatoria, el órgano de administración judicial comu
 
 En caso de que el órgano de administración judicial no remita oportunamente la información a que se refiere el párrafo anterior, el Congreso del Estado lo integrará con la información pública que disponga.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 479.
 
-Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución y esta Ley.
+Es derecho de la ciudadanía a participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución y esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 El Congreso del Estado, emitirá una convocatoria dirigida a los poderes del Estado para que, dentro de los cinco días naturales posteriores a su publicación integren su propio comité de evaluación, que deberá conformarse con tres personas con conocimientos técnicos, jurídicos y experiencia necesarios, distinguidos por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 Dichos comités emitirán las reglas para su funcionamiento y podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Una vez que los comités de evaluación haya emitido sus reglas de funcionamiento, emitirán cada uno dentro de los cinco días naturales siguientes, su propia convocatoria dirigida a profesionales del derecho en el Estado de San Luis Potosí, interesados en participar en la evaluación y selección de postulaciones para la elección de personas juzgadoras del Poder Judicial del Estado y deberá señalar los cargos a elegir, requisitos, documentos para acreditarlos, el ámbito territorial que corresponda y fechas de cumplimiento, asegurándose que se cumpla con la paridad de género y que sea ampliamente difundida entre los profesionales del derecho en las cuatro regiones del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 Los comités de evaluación en lo particular, en términos de la convocatoria que cada uno emita, recibirán los expedientes de las personas aspirantes, evaluarán el cumplimiento de los requisitos constitucionales y legales, e identificaran a las personas mejor evaluadas que cuenten con los conocimientos técnicos y jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-Los comités de evaluación en lo particular integrarán un listado de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado, con no más de tres candidatos o candidatas por cada cargo a elegir, que hayan resultado mejor evaluados, garantizando la paridad de género en su conformación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-Los comités de evaluación, remitirán los listados de candidatos y candidatas de personas juzgadoras del Poder Judicial del Estado, al Consejo para que lleve a cabo la organización de la elección de las personas juzgadoras del Poder Judicial del Estado.
+Los comités de evaluación, en lo particular integrarán, un listado de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado, con no más de diez candidatos o candidatas por cada cargo a elegir, que hayan resultado mejor evaluados; garantizando la paridad de género en su conformación. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de dos postulaciones para cada cargo, observando el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+Cada Comité de Evaluación, remitirá los listados de candidatos y candidatas de personas juzgadoras del Poder Judicial del Estado a la autoridad que represente a cada Poder de la Entidad para su aprobación, debiendo ser remitidas directamente al Consejo, para que lleve a cabo la organización de la elección de las personas juzgadoras del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -6297,17 +6311,17 @@ II. El Consejo determinará la cantidad de votos válidos que pueda emitir cada 
 
 III. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 504.
 
-El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial del Estado se realizará de forma simultánea a los cómputos a que se refiere el artículo 336 de esta Ley, en el orden siguiente:
+El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial del Estado, se realizará de forma simultánea a los cómputos a que se refiere el artículo 336 de esta Ley, en el orden siguiente:
 
-I. Personas magistradas o magistrados del Supremo Tribunal de Justicia del Estado;
+I. Las personas Magistradas del Supremo Tribunal de Justicia del Estado;
 
-II. Persona magistrada del Tribunal Unitario de Disciplina Judicial, y
+II. Las personas Magistradas del Tribunal de Disciplina Judicial, y
 
-III. Personas jueces o juezas de Primera Instancia;
+III. Las personas juzgadoras de Primera Instancia.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -6454,3 +6468,11 @@ QUINTO. Se faculta al Consejo Estatal Electoral y de Participación Ciudadana de
 Dichos acuerdos deberán garantizar el cumplimiento de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y equidad que rigen los procesos electorales, y estarán vigentes durante el proceso electoral local extraordinario 2025.
 
 SEXTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0033.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, ASÍ COMO DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DEL PODER JUDICIAL Y PROCESOS ELECTORALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
