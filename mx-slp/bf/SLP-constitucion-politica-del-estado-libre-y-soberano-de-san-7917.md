@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2024-12-19"
+last_updated: "2024-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -679,9 +679,9 @@ Durante el tiempo que comprendan las campañas electorales, y hasta la conclusi�
 
 El Consejo Estatal Electoral y de Participación Ciudadana es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propio; integrado conforme lo disponga la ley respectiva; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de consulta ciudadana e integración de los organismos de participación ciudadana de los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-La calificación de las elecciones de Gobernador, Diputados locales, ayuntamientos, personas Magistradas que integran el Supremo Tribunal de Justicia, de las personas Juzgadoras de Primera Instancia y de la Persona Magistrada Titular del Tribunal Unitario de Disciplina Judicial del Poder Judicial del Estado, corresponde al Consejo Estatal Electoral y de Participación Ciudadana o, en su caso, al Instituto Nacional Electoral, de conformidad con la Constitución Federal y de acuerdo con las Leyes federales y locales electorales.
+La calificación de las elecciones de Gobernador, Diputados locales, ayuntamientos, personas Magistradas que integran el Supremo Tribunal de Justicia, de las personas Juzgadoras de Primera Instancia y las personas Magistradas del Tribunal de Disciplina Judicial del Poder Judicial del Estado, corresponde al Consejo Estatal Electoral y de Participación Ciudadana o, en su caso, al Instituto Nacional Electoral, de conformidad con la Constitución Federal y de acuerdo con las Leyes federales y locales electorales.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -933,9 +933,9 @@ V.- Los ministros de culto religioso;
 
 VI.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-VII.- Las personas Magistradas del Supremo Tribunal de Justicia del Estado, las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, la Persona Magistrada Titular del Tribunal Unitario de Disciplina Judicial del Poder Judicial del Estado;
+VII.- Las personas Magistradas del Supremo Tribunal de Justicia del Estado, las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, las personas Magistradas del Tribunal de Disciplina Judicial del Poder Judicial del Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -1141,9 +1141,11 @@ XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anua
 
 XX.- (DEROGADA, P.O. 18 DE MAYO DE 2006)
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-XX BIS.- Emitir la convocatoria dirigida a los titulares de los Poderes Ejecutivo y Judicial del Estado, para la integración de los Comités de Evaluación que coadyuvarán en el proceso de elección popular de personas Juzgadoras, personas Magistradas del Poder Judicial del Estado y persona Magistrada del Tribunal Unitario de Disciplina Judicial;
+XX BIS.- Emitir la convocatoria dirigida a los titulares de los Poderes Ejecutivo y Judicial del Estado, para la integración de los Comités de Evaluación que coadyuvarán en el proceso de elección popular de personas Juzgadoras, personas Magistradas del Poder Judicial del Estado y personas Magistradas del Tribunal de Disciplina Judicial.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 El Pleno del Congreso del Estado, a propuesta de la Junta de Coordinación Política, deberá integrar el Comité de Evaluación correspondiente a la Legislatura Local;
 
@@ -1185,9 +1187,9 @@ XXXIII.- Elegir, en los términos de esta Constitución, a las personas Magistra
 
 XXXIV.- Designar, en los términos de esta Constitución, a una persona Consejera integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones que (sic) establecidas en la Ley;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-XXXV.- Calificar las renuncias de las personas Magistradas del Supremo Tribunal de Justicia, de la persona Magistrada del Tribunal Unitario de Disciplina Judicial, de las personas Consejeras del Órgano de Administración Judicial, de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, de las personas Magistradas del Tribunal Estatal de Justicia Administrativa, así como conocer y resolver las solicitudes de destitución de estos, en los términos de la presente Constitución;
+XXXV.- Calificar las renuncias de las personas Magistradas del Supremo Tribunal de Justicia, de las personas Magistradas del Tribunal de Disciplina Judicial, de las personas Consejeras del Órgano de Administración Judicial, de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, de las personas Magistradas del Tribunal Estatal de Justicia Administrativa, así como conocer y resolver las solicitudes de destitución de estos, en los términos de la presente Constitución;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1401,9 +1403,9 @@ b) Tener sentencia condenatoria que haya causado estado por los delitos: contra 
 
 c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios, y
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-VIII. No ser persona Magistrada del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial, ni personas Consejera (sic) del Órgano de Administración Judicial, ni persona Juzgadoras de Primera Instancia del Poder Judicial del Estado, a menos de que se separe de su encargo, cuando menos ciento veinte días antes del día de la elección;
+VIII. No ser persona Magistrada del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial, ni persona Consejera del Órgano de Administración Judicial, ni persona Juzgadoras de Primera Instancia del Poder Judicial del Estado, a menos de que se separe de su encargo, cuando menos ciento veinte días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1701,19 +1703,25 @@ Los agentes del Ministerio Público, los peritos, y el personal de las instituci
 
 El Poder Judicial del Estado tiene la potestad de impartir justicia mediante el control constitucional estatal y la aplicación de las Leyes en los asuntos que le correspondan. Actuará de manera autónoma, neutral y diligente, sometido únicamente a la autoridad de la Ley.
 
-El Poder Judicial del Estado se deposita en un Supremo Tribunal de Justicia, un Órgano de Administración Judicial, en el Tribunal Unitario de Disciplina Judicial y en las personas Juzgadoras de Primera Instancia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+El Poder Judicial del Estado se deposita en un Supremo Tribunal de Justicia, un Órgano de Administración Judicial, en el Tribunal de Disciplina Judicial y en las personas Juzgadoras de Primera Instancia.
 
 El Poder Judicial del Estado contará con el apoyo de personas Juzgadoras Auxiliares cuando así lo requiera y en su integración se establecerán las formas y procedimientos necesarios para garantizar el principio de paridad de género, conforme a lo previsto por la Ley de la materia.
 
 El Supremo Tribunal de Justicia funcionará en Pleno o en Salas colegiadas. Las sesiones del Pleno serán públicas, excepto aquellas que por su naturaleza deban ser reservadas.
 
-La Administración del Poder Judicial estará a cargo del Órgano de Administración Judicial y la disciplina de su personal corresponderá al Tribunal Unitario de Disciplina Judicial. Ambos órganos son independientes en términos técnicos, de gestión y en la emisión de sus resoluciones.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+La Administración del Poder Judicial estará a cargo del Órgano de Administración Judicial y la disciplina de su personal corresponderá al Tribunal de Disciplina Judicial. Ambos órganos son independientes en términos técnicos, de gestión y en la emisión de sus resoluciones.
 
 El Poder Judicial del Estado ejercerá autónomamente su presupuesto a través del Órgano de Administración Judicial.
 
 La Ley establecerá las disposiciones necesarias para la integración, elección, organización y funcionamiento del Poder Judicial, garantizando el principio de paridad de género. Además, reforzará las disposiciones para asegurar la igualdad sustantiva y no discriminación en todos los procesos y decisiones judiciales.
 
-La elección ciudadana de personas Magistradas del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial, así como de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, se regirá por las bases previstas en esta Constitución y las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+La elección ciudadana de personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial, así como de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, se regirá por las bases previstas en esta Constitución y las disposiciones legales aplicables.
 
 La elección ciudadana se realizará mediante convocatoria y voto público para garantizar la transparencia y la participación ciudadana en el proceso electoral que se realice para tal efecto. Se exceptúa de este procedimiento la elección de las y los Jueces Auxiliares, la cual continuará realizándose conforme a las prácticas y procedimientos vigentes.
 
@@ -1721,9 +1729,13 @@ El período de ejercicio de funciones de las personas Magistradas del Poder Judi
 
 Para las personas Juzgadoras de Primera Instancia el período de ejercicio de funciones será de nueve años, con posibilidad de reelección, por voto ciudadano, por una única ocasión, por un período adicional de nueve años.
 
-La persona titular del Tribunal Unitario de Disciplina Judicial y las de las Consejerías que conforman el Órgano de Administración Judicial, durarán en su encargo seis años, sin posibilidad de reelección ni ratificación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-Las personas Magistradas que integran el Supremo Tribunal de Justicia, las personas Juzgadoras de Primera Instancia que forman parte del Poder Judicial del Estado, la persona Magistrada del Tribunal Unitario de Disciplina Judicial y las personas Consejeras del Órgano (sic) Administración Judicial, estarán sujetas a un límite de edad para el desempeño de sus funciones, de setenta y tres años.
+Las personas titulares del Tribunal de Disciplina Judicial y las de las Consejerías que conforman el Órgano de Administración Judicial, durarán en su encargo seis años, sin posibilidad de reelección ni ratificación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+Las personas Magistradas que integran el Supremo Tribunal de Justicia, las personas Juzgadoras de Primera Instancia que forman parte del Poder Judicial del Estado, las personas Magistradas del Tribunal de Disciplina Judicial y las personas Consejeras del Órgano de Administración Judicial, estarán sujetas a un límite de edad para el desempeño de sus funciones, de setenta y tres años.
 
 Para las personas electas conforme a este artículo, así como para las Consejeras designadas para conformar el Órgano de Administración Judicial no se concederá haber de retiro ni indemnización, una vez concluido el período para el cual fueron designadas o haber alcanzado el límite de edad, salvo las prestaciones que les correspondan por año trabajado, conforme a la Ley vigente en la materia.
 
@@ -1731,7 +1743,9 @@ Las personas electas conforme a este artículo no podrán ser readscritos fuera 
 
 Las personas funcionarias judiciales durante la vigencia del ejercicio de su cargo estarán impedidos para el ejercicio libre de la abogacía y no podrán desempeñar ningún otro cargo, empleo o comisión, ya sea público o privado, con excepción de la docencia y los cargos de carácter honorífico, en observancia de los principios de imparcialidad y dedicación exclusiva a las funciones judiciales.
 
-En caso de que una persona Magistrada del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial o persona Juzgadora de Primera Instancia del Poder Judicial del Estado se ausente de sus funciones temporalmente por más de un mes sin licencia, la vacante será ocupada por la persona subsecuente que haya obtenido el mayor número de votos en la elección para ese cargo, respetando el mismo género de la persona que lo ocupaba.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+En caso de que una persona Magistrada del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial o persona Juzgadora de Primera Instancia del Poder Judicial del Estado se ausente de sus funciones temporalmente por más de un mes sin licencia, la vacante será ocupada por la persona subsecuente que haya obtenido el mayor número de votos en la elección para ese cargo, respetando el mismo género de la persona que lo ocupaba.
 
 En caso de declinación, defunción o imposibilidad de la persona que deba ocupar la vacante, seguirá en orden de prelación la persona que haya obtenido mayor votación, en el entendido que la vacante será ocupada por la persona del mismo género que la persona que decline o se encuentre imposibilitada para ejercer el cargo.
 
@@ -1753,17 +1767,25 @@ En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en
 
 El Supremo Tribunal de Justicia estará integrado por quince Magistraturas electas mediante voto ciudadano libre, directo y secreto. Las personas Magistradas residirán en la Capital del Estado y desempeñarán sus funciones en el Pleno y en Salas Colegiadas según lo disponga la Ley.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 92.
 
-Para postularse a los cargos de persona Magistrada del Supremo Tribunal de Justicia, persona Magistrada del Tribunal Unitario de Disciplina Judicial y persona Juzgadoras de Primera Instancia del Poder Judicial del Estado, se requiere:
+Para postularse a los cargos de persona Magistrada del Supremo Tribunal de Justicia, personas Magistradas del Tribunal de Disciplina Judicial y persona Juzgadoras de Primera Instancia del Poder Judicial del Estado, se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 I. Ser persona ciudadana potosina en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Contar el día de la publicación de la convocatoria con título de licenciatura en derecho o Abogado, expedido legalmente, cédula profesional con una antigüedad de por lo menos cinco años y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente en licenciatura, o de nueve puntos o equivalente en maestría o doctorado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+II. Contar el día de la publicación de la convocatoria con título de licenciatura en derecho o Abogado, expedido legalmente, cédula profesional con una antigüedad de por lo menos cinco años y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 III. Acreditar práctica profesional como licenciado en derecho o Abogado, de al menos cinco años previos al día de la publicación de la convocatoria por parte del Comité de Evaluación;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 IV. No encontrarse en alguno de los siguientes supuestos:
 
@@ -1773,15 +1795,25 @@ b) Haber sido sujeto a sentencia condenatoria que haya causado estado por delito
 
 c) Registrado o registrada en el padrón de personas deudoras alimentarias morosas;
 
-d) Haber sido sujeto a resolución sancionatoria firme emitida por el Tribunal Unitario de Disciplina Judicial ni encontrarse en el registro de personas servidoras públicas inhabilitadas por el Instituto de Fiscalización del Estado, o su similar en el ámbito federal;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+d) Haber sido sujeto a resolución sancionatoria firme, emitida por el Tribunal de Disciplina Judicial ni encontrarse en el registro de personas servidoras públicas inhabilitadas por el Instituto de Fiscalización del Estado, o su similar en el ámbito federal;
 
 e) Haber sido persona titular de la Fiscalía General del Estado; Diputado o Diputada local, o titular de Presidencia Municipal, en el año inmediato anterior al día de la publicación de la convocatoria por parte del Comité de Evaluación que lo proponga;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 V. Haber residido en el Estado de San Luis Potosí, durante los cinco años anteriores al día de la publicación de la convocatoria por parte del Comité de Evaluación que lo proponga;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 VI. Haber servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho; y
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 VII. Los demás requisitos que contemple la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Para la primera elección de funcionarios judiciales, se considerará como elegibles a las personas que a la fecha de emisión de la primera convocatoria se encuentren en funciones de Magistrados, Magistradas, Jueces o Juezas del Poder Judicial del Estado, por lo que serán incorporadas automáticamente y sin necesidad de integrar expediente, a los listados de los Comités de Evaluación para participar en la elección extraordinaria del año 2025, salvo que informen que deseen participar en la elección para un cargo diverso al que se encuentran ocupando, o bien, declinen de su candidatura previo al cierre de la convocatoria.
 
@@ -1797,29 +1829,43 @@ II. Establecer jurisprudencia en los términos que fije la Ley;
 
 III. Resolver sobre las contradicciones de criterios generales sustentados por las salas del Supremo Tribunal de Justicia del Estado, sin perjuicio de observar la jurisprudencia de los tribunales del Poder Judicial Federal;
 
-IV. Iniciar Leyes o decretos relacionados con la impartición de justicia;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+IV. Presentar ante el Congreso del Estado, iniciativas de leyes o decretos relacionados con la impartición de justicia;
 
 V. Elegir de entre las personas Magistradas a su Presidente o Presidenta, quien también integrará sala;
 
 VI. Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con la presente Constitución y disposiciones legales correspondientes;
 
-VII. Solicitar al Órgano de Administración Judicial el cambio justificado de adscripción en el mismo distrito judicial para el cual fue electa la persona juzgadora de Primera Instancia y en su caso la remoción por causa legitima, previo procedimiento que se substancie ante el Tribunal Unitario de Disciplina Judicial.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+VII. Solicitar al Órgano de Administración Judicial el cambio justificado de adscripción en el mismo distrito judicial para el cual fue electa la persona juzgadora de Primera Instancia y en su caso la remoción por causa legitima, previo procedimiento que se substancie ante el Tribunal de Disciplina Judicial;
 
 VIII. Recibir y en su caso, aceptar la renuncia al cargo del Presidente o Presidenta del Tribunal;
 
-IX. Calificar las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones con causa que se promuevan en contra de las y los magistrados en asuntos de la competencia del Pleno;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-X. Proponer al Órgano de Administración Judicial, a través de la persona que ocupe la Presidencia, los acuerdos generales y las medidas administrativas tendientes a mejorar el registro, control y procedimiento de los asuntos que sean tramitados ante el Poder Judicial del Estado, procurando la incorporación de métodos modernos para la expedita y eficaz impartición de justicia;
+IX. Calificar las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones por causa justificada que se promuevan en contra de las y los magistrados en asuntos de la competencia del Pleno;
 
-XI. Remitir las quejas que supongan responsabilidad administrativa, que se presenten en contra de sus integrantes al Tribunal Unitario de Disciplina Judicial;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+X. Proponer al Órgano de Administración Judicial, a través de la persona que ocupe la Presidencia, los acuerdos generales y las medidas administrativas tendientes a mejorar el registro, control y procedimiento de los asuntos que sean tramitados ante el Poder Judicial del Estado, procurando la incorporación de métodos modernos para la expedita, eficiente y eficaz impartición de justicia;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+XI. Remitir las quejas que supongan responsabilidad administrativa, que se presenten en contra de sus integrantes al Tribunal de Disciplina Judicial;
 
 XII. Dictar las medidas necesarias para que la impartición de justicia sea pronta y expedita;
 
 XIII. Rendir en forma anual, a través de su Presidente o Presidenta, un informe público de sus actividades;
 
-XIV. Conocer de los asuntos cuya resolución esté expresamente atribuida a su competencia, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-XV. Las demás que le confiera la Ley.
+XIV. Conocer de los asuntos cuya resolución esté expresamente atribuida al ámbito de su competencia, y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+XV. Las demás que le confieran las Leyes.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -1827,15 +1873,17 @@ XV. Las demás que le confiera la Ley.
 
 El cargo de persona Magistrada no es renunciable, sino por causa justificada calificada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 95.
 
-El Presidente o Presidenta del Supremo Tribunal de Justicia, será la persona Magistrada que se elija en la sesión de Pleno que al efecto se realice, de acuerdo con las formalidades señaladas en la Ley. Durará en su encargo cuatro años e integrará Sala indistintamente de la función que realice como Presidente o Presidenta.
+La Presidencia del Supremo Tribunal de Justicia del Estado se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, por orden de prelación.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 El cargo de Presidente o Presidenta es renunciable y corresponderá al Supremo Tribunal de Justicia, constituido en Pleno, calificar la renuncia.
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 96.
 
@@ -1847,31 +1895,41 @@ En cada Distrito o Región Judicial, que comprenderán los municipios que establ
 
 Las personas Juzgadoras de Primera Instancia tendrán las atribuciones que esta Constitución y la Ley les confiera, además de cumplir con los requisitos previstos por el artículo 92 de esta Constitución y durarán en el cargo nueve años con posibilidad de reelección por voto ciudadano por única ocasión.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 98.
 
-El Órgano de Administración Judicial, cuenta con independencia técnica y de gestión, encargándose de la administración de los recursos humanos, financieros y los bienes muebles e inmuebles, de la promoción de la carrera judicial, así como del control interno del Poder Judicial del Estado.
+El Órgano de Administración Judicial, cuenta con independencia técnica y de gestión, encargándose de la administración de los recursos humanos, financieros y los bienes muebles e inmuebles, de la promoción de la carrera judicial, así como del control interno del Poder Judicial del Estado y de la elaboración del presupuesto del Poder Judicial de la Estado, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos y será remitido al Poder Ejecutivo del Estado para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 También se responsabilizará de la determinación del número, división, competencia territorial y especialización en la integración del Poder Judicial del Estado y ejercerá las demás facultades y obligaciones que la Ley le otorguen.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 La conformación del Órgano de Administración Judicial será colegiada y compuesta por tres Consejerías del Órgano de Administración Judicial.
 
-Las tres Consejerías serán designadas directamente y no por voto ciudadano; una Consejería será designada por el titular del Poder Ejecutivo del Estado, otra Consejería será designada por el Pleno del Congreso del Estado mediante votación por mayoría calificada del mismo, a propuesta de la Junta de Coordinación Política, y la tercera Consejería será designada por mayoría del Pleno del Supremo Tribunal de Justicia del Estado. La duración del cargo de persona Consejera será de seis años sin posibilidad de reelegirse por un segundo período, conforme a las determinaciones que establezca la Ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+Las tres Consejerías serán designadas directamente y no por voto ciudadano; una Consejería será designada por el titular del Poder Ejecutivo del Estado, otra Consejería será designada por el Pleno del Congreso del Estado mediante votación por mayoría calificada del mismo, a propuesta de la Junta de Coordinación Política, y la tercera Consejería será designada por el voto de las dos terceras partes de los integrantes del Pleno del Supremo Tribunal de Justicia del Estado. La duración del cargo de persona Consejera será de seis años sin posibilidad de reelegirse por un segundo período, conforme a las determinaciones que establezca la Ley.
 
-### CAPÍTULO III. De los Juzgados de Primera Instancia, Órgano de Administración y Tribunal Unitario de Disciplina Judicial
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO III. De los Juzgados de Primera Instancia, Órgano de Administración de Judicial y Tribunal de Disciplina Judicial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 99.
 
-Para ser persona Consejera del Órgano de Administración Judicial, se requiere acreditar los requisitos que, para ser Magistrado o Magistrada del Supremo Tribunal de Justicia, con excepción del voto ciudadano.
+Para ser persona Consejera del Órgano de Administración Judicial, se requiere acreditar los requisitos para ser Magistrado o Magistrada del Supremo Tribunal de Justicia, con excepción del voto ciudadano, además de los establecidos en este artículo. La presidencia del órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
 
-Para este cargo, el promedio general de calificación que establece la fracción II del numeral 92 de esta Constitución será cuando menos nueve puntos o su equivalente en licenciatura, maestría o doctorado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-El presupuesto del Poder Judicial del Estado será formulado por el Órgano de Administración Judicial, con la aprobación del Pleno del Supremo Tribunal de Justicia, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos y será remitido al Poder Ejecutivo del Estado para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
+Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 El Órgano de Administración Judicial será responsable de rendir al Congreso del Estado un informe trimestral del estado financiero y anualmente la Cuenta Pública del Poder Judicial del Estado.
 
@@ -1881,71 +1939,111 @@ El Órgano de Administración Judicial será responsable de rendir al Congreso d
 
 La Ley establecerá las bases para la formación y actualización de los funcionarios del Poder Judicial del Estado, así como para el desarrollo de la carrera judicial. Esto implica la capacitación y actualización continua a las personas funcionarias judiciales.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 101.
 
-El Tribunal Unitario de Disciplina Judicial es un órgano con independencia técnica y de gestión, integrado por una persona Magistrada del Tribunal Unitario de Disciplina Judicial electo por voto de la ciudadanía. La duración de su cargo será de seis años, sin posibilidad de reelegirse por un segundo período. Sus funciones incluyen la supervisión, evaluación, investigación de conductas irregulares y aplicación de sanciones administrativas.
+El Tribunal de Disciplina Judicial es un órgano con independencia técnica y de gestión, integrado por tres personas Magistradas del Tribunal de Disciplina Judicial electas por voto de la ciudadanía. La duración de su cargo será de seis años, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación. Sus funciones incluyen la supervisión, evaluación, investigación de conductas irregulares y aplicación de sanciones administrativas.
 
-El objetivo principal del Tribunal Unitario de Disciplina Judicial es preservar la integridad, eficacia y legitimidad del Poder Judicial del Estado, garantizando que todos los operadores judiciales actúen con los más altos estándares éticos y profesionales.
+El objetivo principal del Tribunal de Disciplina Judicial es preservar la integridad, eficacia y legitimidad del Poder Judicial del Estado, garantizando que todos los operadores judiciales actúen con los más altos estándares éticos y profesionales.
 
-El Tribunal Unitario de Disciplina desahogará el procedimiento de responsabilidades administrativas de manera uniinstancial a través de dos Secretarías Ejecutivas, una fungirá como autoridad investigadora y la otra como autoridad substanciadora en los asuntos de su competencia, recayendo la actividad resolutora en el Magistrado o Magistrada del Tribunal Unitario de Disciplina Judicial, conforme a las disposiciones previstas en la Ley.
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas de manera biinstancial, conforme a las disposiciones previstas en la Ley.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 102.
 
-Las resoluciones del Tribunal Unitario de Disciplina Judicial son definitivas, asegurando que las decisiones sean firmes y vinculantes, garantizando así un proceso disciplinario efectivo y transparente.
+Las resoluciones del Tribunal de Disciplina Judicial son definitivas en segunda instancia, asegurando que las decisiones sean firmes y vinculantes, garantizando así un proceso disciplinario efectivo y transparente.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO IV. De la Elección Ciudadana y del Comité de Evaluación
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 103.
 
-Las personas Magistradas del Supremo Tribunal de Justicia, del Tribunal Unitario de Disciplina Judicial y las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, serán elegidas de manera libre, directa y secreta por la ciudadanía, el día que se celebre el proceso electoral local ordinario del año que corresponda, conforme al siguiente procedimiento:
+Las personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, serán elegidas de manera libre, directa y secreta por la ciudadanía, el día que se celebre el proceso electoral local ordinario del año que corresponda, conforme al siguiente procedimiento:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 El Órgano de Administración Judicial notificará al Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo, la región, así como cualquier otra información requerida.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 Una vez notificado el Congreso del Estado de San Luis Potosí conforme al párrafo anterior, dentro del término de 5 días naturales posteriores, emitirá una convocatoria dirigida a los otros dos Poderes del Estado para que integren su propio Comité de Evaluación, cada Comité deberá integrarse con tres personas que deberán contar con los conocimientos técnicos jurídicos y experiencia necesarios, distinguidas por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Por lo que respecta al Congreso del Estado para la integración de su Comité de Evaluación, la Junta de Coordinación Política propondrá al Pleno a las tres personas que deberán integrar el Comité de Evaluación del Congreso del Estado, en el entendido que, quienes resulten electos o electas, deberán reunir los requisitos descritos en el párrafo que antecede.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2024)</small>
+
 Las funciones de las personas que integren los citados Comités de Evaluación la realizarán de manera honorífica, por lo que no recibirán retribución alguna y únicamente fungirán durante el período electoral para el cual fueron designadas o designados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 En lo individual, los tres Comités deberán instalarse dentro de los 5 días naturales posteriores a la notificación de la convocatoria del Congreso del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 La convocatoria señalará los cargos a elegir, requisitos, documentos para acreditarlos, ámbito territorial electivo y fechas de cumplimiento, asegurándose que se cumpla con la paridad de género y de que sea ampliamente difundida entre los profesionales del derecho en las cuatro regiones del Estado de San Luis Potosí.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Una vez instalados los Comités de Evaluación, estos emitirán dentro de los 5 días naturales siguientes, las reglas para su funcionamiento conforme a los parámetros de elaboración que establezca la Ley Electoral del Estado de San Luis Potosí y demás disposiciones legales correspondientes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 Los Comités de Evaluación podrán celebrar convenios con instituciones públicas que colaboren en sus respectivos procesos y privilegiará el uso de las tecnologías de la información para la recepción de solicitudes, la evaluación y la selección de postulaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Los Comités de Evaluación en lo particular dentro de los 5 días naturales siguientes a la emisión de sus reglas de funcionamiento, emitirán cada uno su propia convocatoria dirigida a profesionales del derecho en el Estado de San Luis Potosí, interesados en participar en la evaluación y selección de postulaciones para la elección de las personas juzgadoras que ocuparán los cargos, de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 La convocatoria señalará los cargos a elegir, requisitos, documentos para acreditarlos, ámbito territorial electivo y fechas de cumplimiento, asegurándose que se cumpla con la paridad de género y de que sea ampliamente difundida entre los profesionales del derecho en las cuatro regiones del estado de San Luis Potosí.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Los Comités de Evaluación en lo particular, en términos de la convocatoria que cada uno emita, recibirán los expedientes de las personas aspirantes, evaluarán el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-Los Comités de Evaluación en lo particular deberán integrar su listado de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado. Por cada cargo a elegir mediante voto ciudadano cada Comité integrará un listado con no más de tres candidatos o candidatas que hayan resultado mejor evaluados, asegurando siempre la paridad de género en su conformación, el cual remitirán al Consejo Estatal Electoral y de Participación Ciudadana para que éste prosiga con los actos necesarios para la elección ciudadana correspondiente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+Los Comités de Evaluación en lo particular deberán integrar su listado de acuerdo con la estructura judicial que les fue notificada por parte del Congreso del Estado. Por cada cargo a elegir mediante voto ciudadano cada Comité integrará un listado de las diez personas mejor evaluadas para cada cargo, asegurando siempre la paridad de género en su conformación. Posteriormente, cada Comité depurará dicho listado mediante insaculación pública para ajustarlo al número de dos postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Entidad para su aprobación y envío al Congreso del Estado. El cual remitirá al Consejo Estatal Electoral y de Participación Ciudadana, para que éste prosiga con los actos necesarios para la elección ciudadana correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 El procedimiento de selección por parte de los Comités de Evaluación es de orden público e interés social, ya que la sociedad está interesada en su prosecución y conclusión, pues de este procedimiento depende la integración y funcionamiento del ejercicio jurisdiccional.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 La campaña para la elección de personas candidatas se llevará a cabo conforme a las disposiciones que emita el Consejo Estatal Electoral y de Participación Ciudadana. La campaña debe iniciar conforme a las determinaciones de la autoridad electoral local, y no podrán durar más de 30 treinta días naturales y no se proporcionará ningún tipo de subsidio, ayuda o recurso financiero ni en especie a las personas candidatas para efectuar sus campañas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 Los candidatos podrán emplear redes sociales para divulgar su plataforma o perfil, siempre y cuando no efectúen la compra de publicidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+
 Cualquier persona servidora pública que se encuentre en funciones y que se postule a un cargo de persona Juzgadora del Poder Judicial del Estado, no será necesario que solicite licencia a su encargo, pero deberá abstenerse de utilizar recursos públicos con fines electorales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
 Concluida la campaña y el proceso electoral correspondiente, la autoridad administrativa electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres y especialización por materia.
 
-Una vez que ya no exista medio de impugnación por resolver, el Consejo Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de validez de la elección de personas Juzgadoras, personas Magistradas de Primera Instancia del Poder Judicial del Estado, así como de la persona Magistrada del Tribunal Unitario de Disciplina Judicial y comunicará los resultados al Supremo Tribunal de Justicia del Estado y al Congreso del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+Una vez que ya no exista medio de impugnación por resolver, el Consejo Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de validez de la elección de personas Juzgadoras de Primera Instancia, personas Magistradas del Supremo Tribunal de Justicia, así como de las personas Magistradas del Tribunal de Disciplina Judicial y comunicará los resultados al Supremo Tribunal de Justicia del Estado y al Congreso del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -1959,11 +2057,11 @@ Los Comités de Evaluación deberán asegurarse de que el resultado del proceso 
 
 Los Comités de Evaluación deberán garantizar que el uso de tecnologías de la información no sólo se limite a la recepción de solicitudes, sino que también se utilice para la transparencia y la rendición de cuentas en todo el proceso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 106.
 
-En lo no previsto respecto del proceso de elección de personas Juzgadoras del Poder Judicial del Estado, así como de persona Magistradas (sic) titular del Tribunal Unitario de Disciplina Judicial, se estará por lo dispuesto en la Ley Electoral del Estado de San Luis Potosí y demás disposiciones legales correspondientes, siempre y cuando estas normas complementen y no contradigan ni desvirtúen la Constitución Local. En caso de conflicto, prevalecerán las disposiciones Constitucionales.
+En lo no previsto respecto del proceso de elección de personas Juzgadoras y Magistradas del Supremo Tribunal de Justicia, así como de las personas Magistradas del Tribunal de Disciplina Judicial, se estará por lo dispuesto en la Ley Electoral del Estado de San Luis Potosí y demás disposiciones legales correspondientes, siempre y cuando estas normas complementen y no contradigan ni desvirtúen la Constitución Local. En caso de conflicto, prevalecerán las disposiciones Constitucionales.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -2545,11 +2643,11 @@ IV. El Tribunal Estatal de Justicia Administrativa impondrá a los particulares 
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 126.
 
-Podrán ser sujetos de juicio político en el Estado, las personas Diputadas, las personas Magistradas del Supremo Tribunal de Justicia del Estado, la persona Magistrada del Tribunal Unitario de Disciplina, las personas Consejeras del Órgano de Administración Judicial, las personas Juzgadoras de Primera Instancia, Secretarios de Despacho, Auditor Superior del Estado, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción y en delitos electorales, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
+Podrán ser sujetos de juicio político en el Estado, las personas Diputadas, las personas Magistradas del Supremo Tribunal de Justicia del Estado, las personas Magistradas del Tribunal de Disciplina Judicial, las personas Consejeras del Órgano de Administración Judicial, las personas Juzgadoras de Primera Instancia, Secretarios de Despacho, Auditor Superior del Estado, Fiscal General del Estado, fiscales especializados, en materia de delitos relacionados con hechos de corrupción y en delitos electorales, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3845,11 +3943,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado "Pl
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-TERCERO. El Proceso Electoral Extraordinario, dará inicio el día 2 de enero de 2025, en el cual se elegirán por voto popular:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+TERCERO. El Proceso Electoral Extraordinario Local, dará inicio el día 2 de enero de 2025, en el cual se elegirán por voto popular:
 
 A. La totalidad de las personas Magistradas del Supremo Tribunal de Justicia;
 
-B. La persona Magistrada titular del Tribunal Unitario de Disciplina Judicial;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+B. La totalidad de las Magistraturas del Tribunal de Disciplina Judicial, y
 
 C. La totalidad de las personas Juzgadoras de Primera Instancia;
 
@@ -3883,7 +3985,9 @@ Las y los candidatos podrán emplear redes sociales para divulgar su plataforma 
 
 Concluida la campaña y el proceso electoral correspondiente, la autoridad administrativa electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres y especialización en la materia.
 
-Una vez que ya no exista medio de impugnación por resolver, el Consejo Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de validez de la elección de personas Juzgadoras, personas Magistradas de Primera Instancia del Poder Judicial del Estado, así como de persona Magistradas titular del Tribunal Unitario de Disciplina Judicial y comunicará los resultados a cada poder, e inmediatamente las personas que resulten electas serán protestadas de su encargo por el Congreso del Estado a más tardar el 15 de septiembre de 2025.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+
+Una vez que ya no exista medio de impugnación por resolver, el Consejo Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de validez de la elección de personas Juzgadoras de Primera Instancia, personas Magistradas del Supremo Tribunal de Justicia, así como de las personas Magistradas del Tribunal de Disciplina Judicial y comunicará los resultados a cada poder, e inmediatamente las personas que resulten electas serán protestadas de su encargo por el Congreso del Estado a más tardar el 15 de septiembre de 2025.
 
 El Órgano de Administración Judicial del Estado ya en funciones, adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 30 de septiembre de 2025.
 
@@ -3891,11 +3995,13 @@ SEXTO. Por única ocasión, el período de las personas candidatas que resulten 
 
 SÉPTIMO. Por única ocasión, el período de las personas candidatas que resulten electos en el proceso electoral local extraordinario que se celebre en el año 2025, para los cargos de persona Juzgadora de Primera Instancia del Poder Judicial del Estado, durarán en su encargo ocho años, por lo que cesarán en sus funciones en el año 2033, a fin empatar la jornada comicial de proceso electoral local ordinario.
 
-OCTAVO. El Tribunal Unitario de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones a partir de la protesta de su encargo ante el Congreso del Estado. En esa misma fecha, el Consejo de la Judicatura del Poder Judicial del Estado quedará extinto.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
-Por única ocasión, el período de la persona candidata que resulte electa en el proceso electoral local extraordinario que se celebre en el año 2025, para el cargo de persona Magistrada del Tribunal Unitario de Disciplina Judicial, así como las tres personas designadas para los cargos de Consejeras del Órgano de Administración Judicial, durarán en su encargo cinco años, por lo que concluirán sus funciones en el año 2030, a fin empatar la jornada comicial de proceso electoral local ordinario.
+OCTAVO. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones a partir de la protesta de su encargo ante el Congreso del Estado. En esa misma fecha, el Consejo de la Judicatura del Poder Judicial del Estado quedará extinto.
 
-El Tribunal Unitario de Disciplina Judicial y el Órgano de Administración Judicial, implementarán un plan de trabajo para la entrega recepción de los recursos materiales, humanos, financieros y presupuestales conforme a la competencia de sus funciones.
+Por única ocasión, el período de la persona candidata que resulte electa en el proceso electoral local extraordinario que se celebre en el año 2025, para el cargo de personas Magistradas del Tribunal de Disciplina Judicial, así como las tres personas designadas para los cargos de Consejeras del Órgano de Administración Judicial, durarán en su encargo cinco años, por lo que concluirán sus funciones en el año 2030, a fin empatar la jornada comicial del proceso electoral local ordinario.
+
+El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, implementarán un plan de trabajo para la entrega recepción de los recursos materiales, humanos, financieros y presupuestales conforme a la competencia de sus funciones.
 
 NOVENO. Las personas Magistradas del Supremo Tribunal de Justicia, las personas Consejeras del Consejo de la Judicatura, las personas Juzgadoras (sic) Primera Instancia del Poder Judicial del Estado, que concluyan su encargo por declinar a la elección extraordinaria del año 2025, no serán beneficiarios del haber de retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria que emita el Comité de Evaluación del Poder Judicial del Estado, misma que tendrá efectos hasta en tanto las personas electas tomen protesta del cargo ante el Congreso del Estado. En estos casos, el haber de retiro será proporcional al tiempo de su desempeño.
 
@@ -3908,3 +4014,11 @@ DÉCIMO. El Congreso del Estado tendrá un plazo de 90 días naturales a partir 
 DÉCIMO PRIMERO. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado que no se encuentren en las hipótesis antes previstas serán respetados en su totalidad.
 
 DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0033.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, ASÍ COMO DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DEL PODER JUDICIAL Y PROCESOS ELECTORALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
