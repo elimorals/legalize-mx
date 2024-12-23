@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2022-12-23"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -257,13 +257,9 @@ El pago mensual definitivo será la cantidad que resulte de aplicar la tasa del 
 
 Las obligaciones de presentar declaraciones de pagos mensuales definitivos subsistirán aun cuando no hubiese cantidad a cubrir.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTÍCULO 14.
 
-Los retenedores que presten servicios de hospedaje presentarán declaración informativa anual, dentro de los cuatro meses siguientes al cierre del ejercicio, en los medios electrónicos dispuestos por la Secretaría a través del SATQ.
-
-La declaración informativa anual contendrá información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
 ## TÍTULO V. DE LAS OBLIGACIONES
 
@@ -297,9 +293,9 @@ En las declaraciones que se presenten en los términos del párrafo anterior, de
 
 Los retenedores que presten servicios de hospedaje que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago mensual definitivo, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Los retenedores que presten servicios de hospedaje, deberán de proporcionar mensualmente, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes posterior al que corresponda dicha información.
+Los retenedores que presten servicios de hospedaje, deberán de proporcionar mensualmente, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 10 del mes posterior al que corresponda dicha información.
 
 ###### ARTÍCULO 18.
 
@@ -309,15 +305,21 @@ Los retenedores que presten servicios de hospedaje, deberán de proporcionar men
 
 ## TÍTULO VI. DE LOS FIDEICOMISOS
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 19.
+###### Artículo 19.
 
-Se constituyen los fideicomisos de promoción turística, de bienestar y de salud, cuya fuente de financiamiento se obtendrá aplicando la tasa establecida en el párrafo primero artículo 8 de esta Ley, los cuales se administrarán de la siguiente manera:
+Se constituyen los fideicomisos de promoción turística, de bienestar y de salud, cuya fuente de financiamiento se obtendrá indistintamente tanto de la recaudación del impuesto al hospedaje como de otros ingresos que la Secretaría designe, los cuales se aportarán conforme a los siguientes porcentajes:
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 I. Fideicomiso de Promoción Turística: Se destinará el 20% del total de lo aprobado por concepto del Impuesto al Hospedaje en la Ley de Ingresos del ejercicio fiscal que corresponda, hasta alcanzar el monto proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal correspondiente;
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
 II. Fideicomiso del Bienestar: Se destinará el 10% del total de lo aprobado por concepto del Impuesto al Hospedaje, en la Ley de Ingresos del ejercicio fiscal que corresponda, hasta alcanzar el monto proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal correspondiente, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 III. Fideicomiso de la Salud: Se destinará el 10% del total de lo aprobado por concepto del Impuesto al Hospedaje en la Ley de Ingresos del ejercicio fiscal que corresponda, hasta alcanzar el monto proporcional del Ingreso aprobado en la Ley de Ingresos del ejercicio fiscal correspondiente.
 
@@ -412,3 +414,11 @@ TERCERO. Los Anfitriones deberán inscribirse en el padrón de anfitriones a que
 CUARTO. La Secretaría dentro del plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar los trámites administrativos y legales pertinentes para la formalización de los fideicomisos de promoción turística, de bienestar y de salud previstos en el artículo 19 de la presente ley.
 
 QUINTO. Quedan sin efectos todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 076 POR EL QUE SE REFORMAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero de 2025.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
