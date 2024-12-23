@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2024-07-01"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -855,27 +855,53 @@ II. Atención a víctimas y ofendidos del delito: Proporcionar auxilio en los t�
 
 III. Investigación: Que tendrá por objeto la prevención, la realización de peritajes y bajo la conducción y el mando del Ministerio Público, la persecución de conductas que pudieran ser constitutivas de delito, para lo que, a través de sistemas homologados, recolectarán, clasificarán, registrarán, analizarán, evaluarán y usarán la información conducente;
 
-IV. Reacción: Para lo que garantizarán, mantendrán y restablecerán la paz y el orden públicos, y ejecutarán los mandamientos ministeriales y judiciales; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. Custodia: Que implica la protección de las instalaciones, el personal de los tribunales, los centros de reinserción social y de internamiento para adolescentes, así como de los intervinientes en el proceso penal y de requerirse, el traslado y la vigilancia de los imputados.
+IV. Reacción: Para lo que garantizarán, mantendrán y restablecerán la paz y el orden públicos, y ejecutarán los mandamientos ministeriales y judiciales;
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Artículo 39 B.- Para el debido ejercicio de las atribuciones enumeradas en el Artículo anterior, la policía podrá contar con las siguientes divisiones, cuyas actividades específicas se regularán en el Reglamento:
+V. Custodia: Que implica la protección de las instalaciones, el personal de los tribunales, los centros de reinserción social y de internamiento para adolescentes, así como de los intervinientes en el proceso penal y de requerirse, el traslado y la vigilancia de los imputados; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Ciberseguridad: Implementar estrategias y programas de seguridad digital que prevengan y auxilien a las y los ciudadanos de cualquier situación que ponga en riesgo su integridad física y patrimonial en la red informática. Promover la conciencia sobre prácticas seguras en entornos digitales y ofrecer recursos educativos para prevenir incidentes cibernéticos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Artículo 39 B.- Para el debido ejercicio de las atribuciones enumeradas en el Artículo anterior, las Instituciones Policiales podrán contar con las siguientes divisiones, cuyas actividades específicas se regularán en el Reglamento:
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
 
 I. De proximidad;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
 II De atención a víctimas;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
 
 III De investigación;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
 IV. De inteligencia;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
 
 V. De reacción;
 
-VI. De protección y custodia; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VII. De policía procesal.
+VI. De protección y custodia;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VII. De policía procesal; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VIII. De policía cibernética.
 
 ###### Artículo 40.
 
@@ -2960,3 +2986,11 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 41.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
