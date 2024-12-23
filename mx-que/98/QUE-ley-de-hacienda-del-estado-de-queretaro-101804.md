@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2024-09-20"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -467,7 +467,9 @@ I. Los eléctricos y aquellos eléctricos que además cuenten con motor de combu
 
 II. Los importados temporalmente, en los términos de la legislación aduanera;
 
-III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y los vehículos propiedad de instituciones de beneficencia autorizadas por las leyes de la materia, que sean utilizados para el cumplimiento de sus fines, con excepción de aquellos cuyo valor total, en términos del artículo 22, fracción VIII de esta Ley, exceda de $400,000.00 pesos; así como los destinados a los cuerpos de bomberos y las ambulancias dependientes de las entidades e instituciones a las que hace referencia esta fracción;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Los vehículos de la Federación, Estados, Municipios y Ciudad de México, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y los vehículos propiedad de instituciones de beneficencia autorizadas por las leyes de la materia, que sean utilizados para el cumplimiento de sus fines, con excepción de aquellos cuyo valor total, en términos del artículo 22, fracción VIII de esta Ley, exceda de $800,000.00 pesos; así como los destinados a los cuerpos de bomberos y las ambulancias dependientes de las entidades e instituciones a las que hace referencia esta fracción;
 
 IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
 
@@ -907,13 +909,15 @@ En la integración de la base del impuesto, no se incluirán los alimentos, bebi
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje que incluyan los conceptos referidos en el párrafo anterior, los contribuyentes deberán desglosar o comprobar la prestación de estos últimos. En caso contrario, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 Tasa
 
 ###### Artículo 46.
 
-El impuesto a pagar será el que resulte de aplicar la tasa del 3.5% sobre la base del mismo correspondiente al total del valor de las contraprestaciones que se perciban por servicios de hospedaje.
+El impuesto a pagar por los contribuyentes contemplados en las fracciones I, II y III del artículo 43 de la presente Ley, será el que resulte de aplicar la tasa del 3.5% sobre la base del mismo, correspondiente al total del valor de las contraprestaciones que se perciban por servicios de hospedaje.
+
+Tratándose del supuesto previsto en la fracción IV del artículo 43 de esta Ley, el facilitador, promotor, intermediario, administrador, propietario, o quien cobre las contraprestaciones por los servicios de hospedaje, calculará el impuesto aplicando la tasa del 5% sobre la base del mismo, correspondiente al total del valor de las contraprestaciones que se perciban por servicios de hospedaje.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2455,9 +2459,9 @@ VII. Certificado de historial registral de más de 20 años, 30 UMA; y,
 
 VIII. Expedición de copias certificadas de cada plano, 7.5 UMA.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Las solicitudes emitidas por autoridades judiciales y administrativas no causarán derechos, siempre y cuando su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
+Las autoridades judiciales y administrativas estarán exentas del pago de los derechos establecidos en el presente artículo, con motivo de las solicitudes que formulen para la expedición de certificados, copias certificadas o la realización de algún acto de inscripción, siempre que dichas solicitudes se emitan en ejercicio de atribuciones que correspondan a funciones de derecho público, y ello se justifique ante la autoridad registral competente, en términos del artículo 21 del Código Fiscal del Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2581,125 +2585,209 @@ Son objeto de los derechos contenidos en este Capítulo, la prestación de servi
 
 Por los servicios relativos a la expedición de copias, constancia de ubicación geográfica, impresiones de planos y croquis de ubicación, causarán y pagarán conforme a lo siguiente:
 
-I. Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, 4 UMA por plano;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 6 UMA por plano;
+I. Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, 5 UMA por plano;
 
-III. Copia certificada de levantamiento topográfico o deslinde catastral en tamaño carta, oficio o doble carta, sin ampliación o reducción, 7 UMA por plano;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 8 UMA por plano;
+II. Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 7 UMA por plano;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Copia certificada de levantamiento topográfico o deslinde catastral en tamaño carta, oficio o doble carta, sin ampliación o reducción, 8 UMA por plano;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 9 UMA por plano;
 
 V. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción:
 
-a) 8 UMA por plano, en blanco y negro; y,
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) 11 UMA por plano, a color;
+a) 9 UMA por plano, en blanco y negro; y,
 
-VI. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 10 UMA por plano;
-
-VII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción:
-
-a) 10 UMA por plano, en blanco y negro; y,
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 b) 12 UMA por plano, a color;
 
-VIII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 11 UMA por plano;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 11 UMA por plano;
+
+VII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción:
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+a) 11 UMA por plano, en blanco y negro; y,
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+b) 13 UMA por plano, a color;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VIII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 12 UMA por plano;
 
 IX. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción:
 
-a) 11 UMA por metro cuadrado, en blanco y negro; y,
-
-b) 14 UMA por metro cuadrado, a color;
-
-X. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 12 UMA por metro cuadrado;
-
-XI. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción:
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 a) 12 UMA por metro cuadrado, en blanco y negro; y,
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 b) 15 UMA por metro cuadrado, a color;
 
-XII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 14 UMA por metro cuadrado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIII. Copia de los planos municipales existentes, 10 UMA por metro cuadrado;
+X. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 13 UMA por metro cuadrado;
 
-XIV. Copias simples de planos que obran en los archivos catastrales, no previstos en el resto de los artículos del presente Capítulo, 7 UMA, por metro cuadrado;
+XI. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción:
 
-XV. Copias certificadas de planos que obran en los archivos catastrales, no previstos en el resto de los artículos del presente Capítulo, 10 UMA por metro cuadrado;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 4 UMA;
+a) 13 UMA por metro cuadrado, en blanco y negro; y,
 
-XVII. Impresión certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 7 UMA;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, 8 UMA;
+b) 16 UMA por metro cuadrado, a color;
 
-XIX. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, 8 UMA por metro cuadrado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XX. Impresión certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, 14 UMA;
+XII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 15 UMA por metro cuadrado;
 
-XXI. Impresión certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, 14 UMA por metro cuadrado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXII. Impresión de croquis de ubicación de una manzana, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 4 UMA;
+XIII. Copia de los planos municipales existentes, 11 UMA por metro cuadrado;
 
-XXIII. Impresión certificada de croquis de ubicación de una manzana, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 6.5 UMA;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXIV. Expedición de constancia de ubicación geográfica de domicilio, en un predio registrado en el padrón catastral, tamaño carta, 4 UMA;
+XIV. Copias simples de planos que obran en los archivos catastrales, no previstos en el resto de los artículos del presente Capítulo, 8 UMA, por metro cuadrado;
 
-XXV. Copia del plano general del Estado, 14 UMA;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXVI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 6 UMA;
+XV. Copias certificadas de planos que obran en los archivos catastrales, no previstos en el resto de los artículos del presente Capítulo, 11 UMA por metro cuadrado;
 
-XXVII. Copia certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 8 UMA;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXVIII. Copia simple de la carta catastral con división predial escala 1:1000, en papel bond (60x90 cm), 14 UMA;
+XVI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 5 UMA;
 
-XXIX. Copia simple de la carta catastral con curvas de nivel escala 1:1000, en papel bond (60x90 cm), 10 UMA;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXX. Copia simple de la carta de sector catastral con división manzanera escala 1:5000, en papel bond (60x90 cm), 10 UMA;
+XVII. Impresión certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 8 UMA;
 
-XXXI. Copia simple de la carta de manzana catastral con división predial escala 1:500, en papel bond (60x90 cm), 14 UMA;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXXII. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 4 UMA;
+XVIII. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, 9 UMA;
 
-XXXIII. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 6 UMA;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXXIV. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, 8 UMA;
+XIX. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, 9 UMA por metro cuadrado;
 
-XXXV. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, 8 UMA por metro cuadrado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXXVI. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, con ortofoto digital de fondo, 14 UMA;
+XX. Impresión certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, 15 UMA;
 
-XXXVII. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 14 UMA por metro cuadrado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXXVIII. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en tamaño carta, oficio o doble carta, 6 UMA;
+XXI. Impresión certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, 15 UMA por metro cuadrado;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXXIX. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas de 40X60 cm hasta un metro cuadrado, 8 UMA;
+XXII. Impresión de croquis de ubicación de una manzana, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 5 UMA;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XL. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas mayores de un metro cuadrado, 8 UMA por metro cuadrado;
+XXIII. Impresión certificada de croquis de ubicación de una manzana, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 7.5 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XLI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40x60 hasta un metro cuadrado, con ortofoto digital de fondo, 12 UMA;
+XXIV. Expedición de constancia de ubicación geográfica de domicilio, en un predio registrado en el padrón catastral, tamaño carta, 5 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XLII. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 12 UMA por metro cuadrado;
+XXV. Copia del plano general del Estado, 15 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XLIII. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 10.5 UMA;
+XXVI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 7 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XLIV. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40x60 hasta un metro cuadrado, con ortofoto digital de fondo, 18 UMA; y
+XXVII. Copia certificada del croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 9 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XLV. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 18 UMA por metro cuadrado.
+XXVIII. Copia simple de la carta catastral con división predial escala 1:1000, en papel bond (60x90 cm), 15 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Copia simple de la carta catastral con curvas de nivel escala 1:1000, en papel bond (60x90 cm), 11 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXX. Copia simple de la carta de sector catastral con división manzanera escala 1:5000, en papel bond (60x90 cm), 11 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Copia simple de la carta de manzana catastral con división predial escala 1:500, en papel bond (60x90 cm), 15 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXII. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, 5 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXIII. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 7 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, 9 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXV. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, 9 UMA por metro cuadrado;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40X60 cm hasta un metro cuadrado, con ortofoto digital de fondo, 15 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXVII. Copia digital en formato de documento portátil (PDF) de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 15 UMA por metro cuadrado;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXVIII. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en tamaño carta, oficio o doble carta, 7 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXIX. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas de 40X60 cm hasta un metro cuadrado, 9 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XL. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas mayores de un metro cuadrado, 9 UMA por metro cuadrado;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XLI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40x60 hasta un metro cuadrado, con ortofoto digital de fondo, 13 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XLII. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 13 UMA por metro cuadrado;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XLIII. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 11.5 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XLIV. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40x60 hasta un metro cuadrado, con ortofoto digital de fondo, 19 UMA; y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XLV. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 19 UMA por metro cuadrado.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -2713,11 +2801,15 @@ I. De acuerdo a la superficie del predio causará y pagará conforme a lo siguie
 
 > <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31630.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 23 DE DICIEMBRE DE 2024, PÁGINA 65407.]</small>
+
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 II. Cuando el contribuyente opte por efectuar el procedimiento de deslinde catastral con apoyo de un dictaminador catastral o un topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se pagará el 70 por ciento de los montos establecidos en la fracción I del presente artículo, siempre y cuando dicho dictaminador catastral o topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad, así como la solicitud y la documentación requerida para el trámite de deslinde catastral.
 
-El expediente referido en el párrafo anterior se someterá a revisión por parte de la Dirección de Catastro y en caso de que ésta detectara alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que motive una nueva revisión del expediente, se causarán y pagarán 21 UMA por la citada revisión. El dictaminador catastral o topógrafo externo a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de deslinde catastral; cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o, asistiendo, se niegue a señalarlos, se causará y pagará un 20 por ciento de los montos establecidos en la fracción I del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes contado a partir de la fecha de programación inicial de la diligencia de deslinde; en caso contrario, se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El expediente referido en el párrafo anterior se someterá a revisión por parte de la Dirección de Catastro y en caso de que ésta detectara alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que motive una nueva revisión del expediente, se causarán y pagarán 22 UMA por la citada revisión. El dictaminador catastral o topógrafo externo a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de deslinde catastral; cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o, asistiendo, se niegue a señalarlos, se causará y pagará un 20 por ciento de los montos establecidos en la fracción I del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes contado a partir de la fecha de programación inicial de la diligencia de deslinde; en caso contrario, se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
 
 III. Cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o, asistiendo, se niegue a señalarlos, se causará y pagará un 20 por ciento de los montos establecidos en la fracción I del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes contado a partir de la fecha de programación inicial de la diligencia de deslinde; en caso contrario, se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
 
@@ -2733,13 +2825,13 @@ VI. Cuando una vez concluido el procedimiento de deslinde catastral sea necesari
 
 VII. Cuando el interesado solicite la reactivación de un procedimiento de deslinde catastral que se hubiese declarado caduco, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VIII. Cuando el interesado solicite la suspensión de un procedimiento de deslinde catastral, por cada solicitud subsecuente a la primera hasta la sexta, se pagarán 25 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo; y
+VIII. Cuando el interesado solicite la suspensión de un procedimiento de deslinde catastral, por cada solicitud subsecuente a la primera hasta la sexta, se pagarán 26 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo; y
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IX. Por la cancelación de un procedimiento de deslinde catastral concluido que no haya sido protocolizado a solicitud del interesado por causas ajenas a la Dirección de Catastro, se causará y pagará el equivalente a 15 UMA.
+IX. Por la cancelación de un procedimiento de deslinde catastral concluido que no haya sido protocolizado a solicitud del interesado por causas ajenas a la Dirección de Catastro, se causará y pagará el equivalente a 16 UMA.
 
 ###### Artículo 118.
 
@@ -2751,29 +2843,47 @@ IX. Por la cancelación de un procedimiento de deslinde catastral concluido que 
 
 Por la ejecución de replanteos topográficos se causarán y pagarán, respecto de predios con superficie:
 
-Metros Cuadrados UMA Adicionar 1.25 UMA
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-por cada
+Metros UMA Adicionar 1.25
 
-Hasta de 150 85 Costo fijo
+Cuadrados UMA por cada
 
-De más de 150 85 4.5 m2 hasta llegar a 500 m2
+Hasta de 150 86 Costo fijo
 
-De más de 500 182.22 5 m2 hasta llegar a 1,000 m2
+De más de 150 86 4.5 m2 hasta llegar
 
-De más de 1,000 307.22 26 m2 hasta llegar a 5,000 m2
+a 500 m2
 
-De más de 5,000 499.53 32 m2 hasta llegar a 20,000 m2
+De más de 500 183.22 5 m2 hasta llegar a
 
-De más de 20,000 1,085.47 37 m2 hasta llegar a 50,000 m2
+1,000 m2
 
-De más de 50,000 2,098.98 80 m2 hasta llegar a 100,000 m2
+De más de 1,000 308.22 26 m2 hasta llegar a
 
-De más de 100,000 2,880.23 100 m2 hasta llegar a 500,000 m2
+5,000 m2
 
-De más de 500,000 7,046.90 120 m2 hasta llegar a 1,000,000 m2
+De más de 5,000 500.53 32 m2 hasta llegar a
 
-De más de 1,000,000 11,213.56 150 m2 excedentes
+20,000 m2
+
+De más de 20,000 1,086.47 37 m2 hasta llegar
+
+a 50,000 m2
+
+De más de 50,000 2,099.98 80 m2 hasta llegar
+
+a 100,000 m2
+
+De más de 100,000 2,881.23 100 m2 hasta llegar
+
+a 500,000 m2
+
+De más de 500,000 7,047.90 120 m2 hasta llegar
+
+a 1,000,000 m2
+
+De más de 1,000,000 11,214.56 150 m2 excedentes
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2789,89 +2899,105 @@ Por la ejecución de plano catastral que contenga elementos físicos o virtuales
 
 I. Cuando impliquen la realización de trabajos técnicos de topografía o geodesia, de un predio o un desarrollo inmobiliario con superficie de:
 
-Metros Cuadrados UMA Adicionar 1.25 UMA
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-por cada:
+Metros UMA Adicionar 1.25
 
-Hasta de 150 39 Costo fijo
+Cuadrados UMA por cada:
 
-De más de 150 39 14 m2 hasta llegar
+Hasta de 150 40 Costo fijo
+
+De más de 150 40 14 m2 hasta llegar
 
 a 500 m2
 
-De más de 500 70.25 23 m2 hasta llegar
+De más de 500 71.25 23 m2 hasta llegar
 
 a 1,000 m2
 
-De más de 1,000 97.42 117 m2 hasta llegar
+De más de 1,000 98.42 117 m2 hasta llegar
 
 a 5,000 m2
 
-De más de 5,000 140.16 135 m2 hasta llegar
+De más de 5,000 141.16 135 m2 hasta llegar
 
 a 20,000 m2
 
-De más de 20,000 279.05 163 m2 hasta llegar
+De más de 20,000 280.05 163 m2 hasta llegar
 
 a 50,000 m2
 
-De más de 50,000 509.11 265 m2 hasta llegar
+De más de 50,000 510.11 265 m2 hasta llegar
 
 a 100,000 m2
 
-De más de 100,000 744.96 580 m2 hasta llegar
+De más de 100,000 745.96 580 m2 hasta llegar
 
 a 500,000 m2
 
-De más de 500,000 1,607.03 1,000 m2 hasta llegar
+De más de 500,000 1,608.03 1,000 m2 hasta
 
-a 1,000,000 m2
+llegar a 1,000,000
 
-De más de 1,000,000 2,232.03 1,500 m2 excedentes
+m2
+
+De más de 1,000,000 2,233.03 1,500 m2
+
+excedentes
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 II. Cuando impliquen la realización de trabajos de cartografía o aerofotografía, de un predio o un desarrollo inmobiliario con superficie de:
 
-Metros Cuadrados UMA Adicionar 1.00 UMA
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-por cada:
+Metros UMA Adicionar 1.00 UMA
 
-Hasta de 150 21 Costo fijo
+Cuadrados por cada:
 
-De más de 150 21 50 m2 hasta llegar
+Hasta de 150 22 Costo fijo
+
+De más de 150 22 50 m2 hasta llegar
 
 a 500 m2
 
-De más de 500 28 140 m2 hasta llegar
+De más de 500 29 140 m2 hasta llegar
 
 a 1,000 m2
 
-De más de 1,000 31.57 360 m2 hasta llegar
+De más de 1,000 32 57 360 m2 hasta
 
-a 5,000 m2
+llegar a 5,000 m2
 
-De más de 5,000 42.68 450 m2 hasta llegar
+De más de 5,000 43.68 450 m2 hasta
 
-a 20,000 m2
+llegar a 20,000 m2
 
-De más de 20,000 76.02 680 m2 hasta llegar
+De más de 20,000 77.02 680 m2 hasta
 
-a 50,000 m2
+llegar a 50,000 m2
 
-De más de 50,000 120.13 1,100 m2 hasta llegar
+De más de 50,000 121.13 1,100 m2 hasta
 
-a 100,000 m2
+llegar a 100,000
 
-De más de 100,000 165.59 1,500 m2 hasta llegar
+m2
 
-a 500,000 m2
+De más de 100,000 166.59 1,500 m2 hasta
 
-De más de 500,000 432.25 2,100 m2 hasta llegar
+llegar a 500,000
 
-a 1,000,000 m2
+m2
 
-De más de 1,000,000 670.35 3,200 m2 excedentes
+De más de 500,000 433.25 2,100 m2 hasta
+
+llegar a 1,000,000
+
+m2
+
+De más de 1,000,000 671.35 3,200 m2
+
+excedentes
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2881,49 +3007,55 @@ Con ortofoto de fondo, se adicionarán 6 UMA.
 
 III. Cuando el plano catastral se genere con información obtenida de un procedimiento de deslinde catastral, que se haya realizado dentro de un periodo no mayor de cinco años a partir de la solicitud del plano catastral, siempre y cuando el predio conserve las condiciones físicas o jurídicas; para un predio con superficie de:
 
-Metros Cuadrados UMA Adicionar 1.25 UMA
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-por cada:
+Metros UMA Adicionar 1.25
 
-Hasta de 150 20 Costo fijo
+Cuadrados UMA por cada:
 
-De más de 150 20 24 m2 hasta llegar
+Hasta de 150 21 Costo fijo
+
+De más de 150 21 24 m2 hasta llegar
 
 a 500 m2
 
-De más de 500 38.23 65 m2 hasta llegar
+De más de 500 39.23 65 m2 hasta llegar a
 
-a 1,000 m2
+1,000 m2
 
-De más de 1,000 47.84 175 m2 hasta llegar
+De más de 1,000 48.84 175 m2 hasta llegar
 
 a 5,000 m2
 
-De más de 5,000 76.42 210 m2 hasta llegar
+De más de 5,000 77.42 210 m2 hasta llegar
 
 a 20,000 m2
 
-De más de 20,000 165.70 365 m2 hasta llegar
+De más de 20,000 166.7 365 m2 hasta llegar
 
 a 50,000 m2
 
-De más de 50,000 268.44 550 m2 hasta llegar
+De más de 50,000 269.44 550 m2 hasta llegar
 
 a 100,000 m2
 
-De más de 100,000 382.08 750 m2 hasta llegar
+De más de 100,000 383.08 750 m2 hasta llegar
 
 a 500,000 m2
 
-De más de 500,000 1,048.74 1,100 m2 hasta llegar
+De más de 500,000 1,049.74 1,100 m2 hasta
 
-a 1,000,000 m2
+llegar a 1,000,000
 
-De más de 1,000,000 1,616.93 1,600 m2 excedentes
+m2
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+De más de 1,000,000 1,617.93 1,600 m2
 
-IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante dictaminador catastral o topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho dictaminador catastral o topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que ocasionará una nueva revisión, pagará 21 UMA por la misma. El dictaminador catastral o topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral;
+excedentes
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante dictaminador catastral o topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el cincuenta por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho dictaminador catastral o topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que ocasionará una nueva revisión, pagará 22 UMA por la misma. El dictaminador catastral o topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2941,9 +3073,9 @@ VII. Cuando una vez concluido el procedimiento de plano catastral sea necesario 
 
 VIII. Cuando el interesado solicite la reactivación de un procedimiento de plano catastral que se hubiese declarado caduco, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos por las fracciones I, II y III del presente artículo;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IX. Cuando el interesado solicite la suspensión de un procedimiento de plano catastral, por cada solicitud subsecuente de la primera hasta la sexta, se pagarán 23 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos por las fracciones I, II y III del presente artículo; y,
+IX. Cuando el interesado solicite la suspensión de un procedimiento de plano catastral, por cada solicitud subsecuente de la primera hasta la sexta, se pagarán 24 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al cincuenta por ciento de los derechos establecidos por las fracciones I, II y III del presente artículo; y,
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2959,57 +3091,87 @@ Por la prestación de los siguientes servicios, se causarán y pagarán derechos
 
 I. Por la reproducción de cartas catastrales o planos en medios digitales, se causarán y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 TIPO DE PLANO ESCALA UMA
 
 MATERIAL
 
-Carta catastral con división predial en 1:1000 79
+Carta catastral con 1:1000 80
 
-formato digital dxf o shape.
+división predial en
 
-Carta catastral con curvas de nivel en 1:1000 53
+formato digital dxf
 
-formato digital dxf o shape.
-
-Carta catastral con división manzanera 1:1000 40
-
-en formato digital dxf o shape.
-
-Carta catastral con división manzanera 1:5000 33
-
-en formato digital dxf o shape.
+o shape
 
 Medios
 
-digitales
+digitales Carta catastral con 1:1000 54
 
-Carta catastral con curvas de nivel en 1:5000 53
+curvas de nivel en
 
-formato digital dxf o shape.
+formato digital dxf
 
-Carta catastral (0.40 km2) con ortofoto 1:1000 40
+o shape.
 
-en formato de imagen digital estándar,
+Carta catastral con 1:1000 41
+
+división manzanera
+
+en formato digital
+
+dxf o shape.
+
+Carta catastral con 1:5000 34
+
+división manzanera
+
+en formato digital
+
+dxf o shape.
+
+Carta catastral con 1:5000 54
+
+curvas de nivel en
+
+formato digital
+
+dxf o shape.
+
+Carta catastral 1:1000 41
+
+(0.40 km2) con ortofoto
+
+en formato de imagen
+
+digital estándar,
 
 píxel de 10 cm.
 
-Carta catastral (10 km2) con ortofoto 1:5000 27
+Carta catastral 1:5000 28
 
-en formato de imagen digital estándar,
+(10 km2) con ortofoto
+
+en formato de imagen
+
+digital estándar,
 
 píxel de 40 cm.
 
-Asentamiento humano en formato 1:1000 40
+Asentamiento humano 1:1000 41
 
-digital dxf o shape
+en formato digital dxf
+
+o shape
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 Se exceptúa del pago de los derechos previstos en el apartado de carta catastral con división predial en formato digital dxf o shape, cuando el servicio respectivo sea solicitado por las dependencias u organismos federales, estatales o municipales encargados de la elaboración de proyectos y ejecución de obras de infraestructura, siempre que proporcionen las características de la obra específica y el trazo o polígono geo-referenciado de la misma, en el formato digital dxf o shape.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Por la expedición de archivo digital en formato de imagen digital estándar, 40 UMA, por fotografía.
+II. Por la expedición de archivo digital en formato de imagen digital estándar, 41 UMA, por fotografía.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3021,91 +3183,95 @@ Por la expedición de copia impresa de plano general de cabecera municipal o pla
 
 I. Con división manzanera y red de calles de:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 MUNICIPIO UMA
 
-Amealco de Bonfil 7
+Amealco de Bonfil 8
 
-Pinal de Amoles 7
+Pinal de Amoles 8
 
-Arroyo Seco 7
+Arroyo Seco 8
 
-Cadereyta de Montes 7
+Cadereyta de Montes 8
 
-Colón 7
+Colón 8
 
-Corregidora 7
+Corregidora 8
 
-Ezequiel Montes 7
+Ezequiel Montes 8
 
-Huimilpan 7
+Huimilpan 8
 
-Jalpan de Serra 7
+Jalpan de Serra 8
 
-Landa de Matamoros 7
+Landa de Matamoros 8
 
-El Marqués 7
+El Marqués 8
 
-Pedro Escobedo 7
+Pedro Escobedo 8
 
-Peñamiller 7
+Peñamiller 8
 
-Querétaro 10
+Querétaro 11
 
-San Joaquín 7
+San Joaquín 8
 
-San Juan del Río 7
+San Juan del Río 8
 
-Tequisquiapan 7
+Tequisquiapan 8
 
-Tolimán 7
+Tolimán 8
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 II. Con división manzanera, red de calles y ortofoto de fondo:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 MUNICIPIO UMA
 
-Amealco de Bonfil 11
+Amealco de Bonfil 12
 
-Pinal de Amoles 11
+Pinal de Amoles 12
 
-Arroyo Seco 11
+Arroyo Seco 12
 
-Cadereyta de Montes 11
+Cadereyta de Montes 12
 
-Colón 11
+Colón 12
 
-Corregidora 11
+Corregidora 12
 
-Ezequiel Montes 11
+Ezequiel Montes 12
 
-Huimilpan 11
+Huimilpan 12
 
-Jalpan de Serra 11
+Jalpan de Serra 12
 
-Landa de Matamoros 11
+Landa de Matamoros 12
 
-El Marqués 11
+El Marqués 12
 
-Pedro Escobedo 11
+Pedro Escobedo 12
 
-Peñamiller 11
+Peñamiller 12
 
-Querétaro 16
+Querétaro 17
 
-San Joaquín 11
+San Joaquín 12
 
-San Juan del Río 11
+San Juan del Río 12
 
-Tequisquiapan 11
+Tequisquiapan 12
 
-Tolimán 11
+Tolimán 12
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 122.
 
-Por la expedición de copias de aerofotografías de 23x23 cm, impresas en papel opalina o similar tamaño carta se causarán y pagarán 20 UMA, por fotografía.
+Por la expedición de copias de aerofotografías de 23x23 cm, impresas en papel opalina o similar tamaño carta se causarán y pagarán 21 UMA, por fotografía.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -3113,13 +3279,13 @@ Por la expedición de copias de aerofotografías de 23x23 cm, impresas en papel 
 
 Por la prestación del servicio de acceso remoto, se causarán y pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. A la consulta electrónica del Sistema de Gestión Catastral, 40 UMA, por un año de servicio, por cada usuario autorizado por la Dirección de Catastro, cuando dicha cuota se entere en su totalidad durante el primer mes de ejercicio de que se trate. En caso contrario se causarán y pagarán 4 UMA por cada mes de servicio, por cada usuario autorizado por la Dirección de Catastro, y
+I. A la consulta electrónica del Sistema de Gestión Catastral, 41 UMA, por un año de servicio, por cada usuario autorizado por la Dirección de Catastro, cuando dicha cuota se entere en su totalidad durante el primer mes de ejercicio de que se trate. En caso contrario se causarán y pagarán 5 UMA por cada mes de servicio, por cada usuario autorizado por la Dirección de Catastro, y
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. A la consulta de cartografía catastral digital, 40 UMA, por un año de servicio, por cada usuario autorizado por la Dirección de Catastro, cuando dicha cuota se entere en su totalidad durante el primer mes de ejercicio de que se trate. En caso contrario se causarán y pagarán 4 UMA por cada mes de servicio, por cada usuario autorizado por la Dirección de Catastro.
+II. A la consulta de cartografía catastral digital, 41 UMA, por un año de servicio, por cada usuario autorizado por la Dirección de Catastro, cuando dicha cuota se entere en su totalidad durante el primer mes de ejercicio de que se trate. En caso contrario se causarán y pagarán 5 UMA por cada mes de servicio, por cada usuario autorizado por la Dirección de Catastro.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3135,31 +3301,35 @@ Por la elaboración de avalúos individuales para efectos catastrales, realizado
 
 > <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31633.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 23 DE DICIEMBRE DE 2024, PÁGINA 65411.]</small>
+
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 125.
 
 Por los servicios relativos a la expedición de documentos en donde conste la información de vértices geodésicos en coordenadas UTM, se causarán y pagarán derechos, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Copia fotostática de información de vértice geodésico, 2 UMA por vértice;
+I. Copia fotostática de información de vértice geodésico, 3 UMA por vértice;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, sin monumentación, 18 UMA por vértice;
+II. Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, sin monumentación, 19 UMA por vértice;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 III. Documento oficial en el que se den a conocer las observaciones obtenidas de la Estación Fija de la Dirección de Catastro:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 TIEMPO AIRE UMA
 
-Primera hora 0.66
+Primera hora 1
 
-Horas subsecuentes hasta 10 horas 0.33
+Horas subsecuentes hasta 10 horas 0.5
 
-Más de 10 horas hasta 24 horas 8
+Más de 10 horas hasta 24 horas 9
 
 IV. (DEROGADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2021)
 
@@ -3171,11 +3341,11 @@ Por los servicios catastrales relativos a fraccionamientos y condominios, se cau
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28570.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55698; P.O. DE 27 DE DICIEMBRE DE 2023, PÁGINA 47182.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55698; P.O. DE 27 DE DICIEMBRE DE 2023, PÁGINA 47182; P.O. 23 DE DICIEMBRE DE 2024, PÁGINA 65412.]</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-En caso de que, tras la primera revisión, y derivado del incumplimiento de alguno de los requisitos, no sea posible realizar el alta de un fraccionamiento, unidad condominal o condominio, se causará y pagará un derecho de 4 UMA por cada revisión subsecuente que se requiera.
+En caso de que, tras la primera revisión, y derivado del incumplimiento de alguno de los requisitos, no sea posible realizar el alta de un fraccionamiento, unidad condominal o condominio, se causará y pagará un derecho de 5 UMA por cada revisión subsecuente que se requiera.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -3191,61 +3361,61 @@ Tratándose de la regularización de asentamientos humanos derivado de programas
 
 Por los servicios a cargo de la Dirección de Catastro que a continuación se indican, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Por la cédula de registro catastral solicitada por los contribuyentes o usuarios, excepto cuando la emisión de la notificación catastral se realice como producto de la conclusión de un trámite o servicio catastral, 4 UMA;
+I. Por la cédula de registro catastral solicitada por los contribuyentes o usuarios, excepto cuando la emisión de la notificación catastral se realice como producto de la conclusión de un trámite o servicio catastral, 5 UMA;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 II. Por los servicios catastrales prestados dentro del procedimiento del programa para regularizar y titular predios urbanos y rústicos, se causarán y pagarán los siguientes derechos, por predio a regularizar:
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-a) Por la expedición del informe de registro en el padrón catastral, 8 UMA;
+a) Por la expedición del informe de registro en el padrón catastral, 9 UMA;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) Por la expedición del plano catastral, 8 UMA;
+b) Por la expedición del plano catastral, 9 UMA;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-c) Por la estimación del valor catastral, 16 UMA, y,
+c) Por la estimación del valor catastral, 17 UMA, y,
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 d) Por la ejecución del levantamiento topográfico con cinta o con receptor móvil del Sistema de Posicionamiento Global (GPS), que permita verificar las medidas, superficie y georreferenciación aproximada, se causarán y pagarán el 20 por ciento de los derechos establecidos en la fracción I, del artículo 119 BIS de esta Ley;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-III. Por la expedición del oficio o constancia de la información de un predio registrado en el padrón catastral, 8 UMA.
+III. Por la expedición del oficio o constancia de la información de un predio registrado en el padrón catastral, 9 UMA.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 No estarán obligadas al pago del derecho a que se refiere esta fracción, las autoridades federales, estatales o municipales, siempre que soliciten la prestación del servicio en ejercicio de sus funciones de derecho público;
 
-(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021) (F. DE E., P.O. 7 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 7 UMA y por cada foja excedente, 0.13 UMA;
+IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 8 UMA y por cada foja excedente, 0.15 UMA.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MARZO DE 2024)</small>
+Se exceptúa del pago del derecho a que se refiere esta fracción a las autoridades federales, estatales y municipales, siempre y cuando sus actividades correspondan a funciones de derecho público;
 
-V. Por la autorización de folios físicos o electrónicos para la elaboración de los avalúos para efectos hacendarios que realicen los tasadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de dichos avalúos y la supervisión de la actividad de dichos tasadores, el 1 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 3 UMA.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021
+V. Por la autorización de folios físicos o electrónicos para la elaboración de los avalúos para efectos hacendarios que realicen los tasadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de dichos avalúos y la supervisión de la actividad de dichos tasadores, el 1 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 4 UMA.
 
-Cuando se trate de avalúos que se realicen para operaciones traslativas de dominio de vivienda de interés social o popular con crédito hipotecario de instituciones u organismos federales o estatales, se pagará por este concepto 2 UMA.
+Cuando se trate de avalúos que se realicen para operaciones traslativas de dominio de vivienda de interés social o popular con crédito hipotecario de instituciones u organismos federales o estatales, se pagará por este concepto 3 UMA.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] P.O. 27 DE DICIEMBRE DE 2023)</small>
+Cuando se trate de avalúos que se realicen para la primera operación traslativa de dominio de un predio regularizado a través de un programa federal, estatal o municipal de regularización de asentamientos humanos irregulares, se causará y pagará por este concepto 3 UMA.
 
-Cuando se trate de avalúos que se realicen para la primera operación traslativa de dominio, de la subdivisión o la fusión de un predio para su regularización a través de un programa estatal, federal o municipal de regularización de la titulación de predios, se causará y pagará por este concepto 2 UMA.
+Cuando se trate de avalúos que se realicen para la primera operación traslativa de dominio, de la subdivisión o la fusión de un predio para su regularización a través de un programa estatal, federal o municipal de regularización de la titulación de predios, se causará y pagará por este concepto 3 UMA.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+En estos tres últimos supuestos, el tasador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente;
 
-En los dos últimos supuestos, el tasador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+VI. Por la expedición del archivo digital en formato de dibujo (DWG) del área de dibujo del plano de levantamiento topográfico, plano catastral o deslinde catastral en coordenadas terrestres o UTM, 15 UMA.
 
-VI. Por la expedición del archivo digital en formato de dibujo (DWG) del área de dibujo del plano de levantamiento topográfico, plano catastral o deslinde catastral en coordenadas terrestres o UTM, 14 UMA.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Estos archivos sólo se expedirán a los solicitantes de los levantamientos topográficos, planos o deslindes catastrales que correspondan;
 
@@ -3253,65 +3423,67 @@ Estos archivos sólo se expedirán a los solicitantes de los levantamientos topo
 
 VII. Por la modificación y certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, el 25 por ciento de los derechos causados por el deslinde catastral correspondiente. La modificación, rectificación o aclaración respectiva se deberá manifestar en un plazo máximo de seis meses calendario posteriores a la fecha de haber concluido el procedimiento de deslinde;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VIII. Por la inscripción en el Padrón de Topógrafos Externos, a cargo de la Dirección de Catastro, 14 UMA.
+VIII. Por la inscripción en el Padrón de Topógrafos Externos, a cargo de la Dirección de Catastro, 15 UMA.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 La constancia de registro que al efecto se emita, tendrá vigencia de un año a partir de su expedición;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IX. Por la renovación de datos en el Padrón de Topógrafos Externos con especialidad en geodesia, 14 UMA;
+IX. Por la renovación de datos en el Padrón de Topógrafos Externos con especialidad en geodesia, 15 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-X. Por el registro de fusión de hasta dos predios, 7 UMA y por cada predio adicional, 4 UMA;
+X. Por el registro de fusión de hasta dos predios, 8 UMA y por cada predio adicional, 5 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XI. Por el alta de predios producto de subdivisión para una fracción y resto de predio, 7 UMA y por cada fracción adicional, 4 UMA;
+XI. Por el alta de predios producto de subdivisión para una fracción y resto de predio, 8 UMA y por cada fracción adicional, 5 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XII. Por la aplicación de deméritos a solicitud del interesado, 4 UMA;
+XII. Por la aplicación de deméritos a solicitud del interesado, 5 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XII. BIS. Por la revisión de valor catastral asignado a un predio o el valor unitario de suelo provisional asignado a un desarrollo inmobiliario, solicitada por el propietario o su representante, 4 UMA;
+XII. BIS. Por la revisión de valor catastral asignado a un predio o el valor unitario de suelo provisional asignado a un desarrollo inmobiliario, solicitada por el propietario o su representante, 5 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIII. Por la inspección de un predio, a solicitud del interesado, para verificar los tipos de construcción y características del predio, sin incluir mediciones de la poligonal del predio o de las construcciones, ni la ubicación geodésica del mismo, 9 UMA;
+XIII. Por la inspección de un predio, a solicitud del interesado, para verificar los tipos de construcción y características del predio, sin incluir mediciones de la poligonal del predio o de las construcciones, ni la ubicación geodésica del mismo, 10 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIV. Por la cancelación de trámites a solicitud del interesado, por causas ajenas a la Dirección de Catastro, 4 UMA;
+XIV. Por la cancelación de trámites a solicitud del interesado, por causas ajenas a la Dirección de Catastro, 5 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XV. Por la expedición de copias simples de documentos catastrales con fojas de una hasta cinco, 4 UMA y por cada foja excedente 0.10 UMA;
+XV. Por la expedición de copias simples de documentos catastrales con fojas de una hasta cinco, 5 UMA y por cada foja excedente 0.15 UMA;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVI. Por el marcaje de vértices de predios producto del procedimiento de deslinde catastral o plano catastral, cuando se cuente con los elementos técnicos para su realización, de 1 a 5 vértices, 20 UMA y por vértice adicional, 3 UMA.
+XVI. Por el marcaje de vértices de predios producto del procedimiento de deslinde catastral o plano catastral, cuando se cuente con los elementos técnicos para su realización, de 1 a 5 vértices, 21 UMA y por vértice adicional, 4 UMA.
 
 La prestación de este servicio no incluye monumentación;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVII. Por la emisión de dictamen técnico, 10 UMA;
+XVII. Por la emisión de dictamen técnico, 11 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Por la emisión de dictamen técnico, con inspección de campo, 14 UMA;
+XVIII. Por la emisión de dictamen técnico, con inspección de campo, 15 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIX. Por la emisión de dictamen técnico que incluya trabajos de brigada de topografía, 27 UMA;
+XIX. Por la emisión de dictamen técnico que incluya trabajos de brigada de topografía, 28 UMA;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XX. Por el empadronamiento de los avisos de traslado de dominio, 4 UMA.
+XX. Por el empadronamiento de los avisos de traslado de dominio, 5 UMA.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -3321,25 +3493,27 @@ Para efectos de esta fracción, se entenderá por empadronamiento del aviso de t
 
 Se exceptúa del pago del derecho a que se refiere esta fracción, cuando el aviso a empadronar corresponda a la primera operación traslativa de dominio de un predio regularizado a través de un programa federal, estatal o municipal de regularización de asentamientos humanos;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XX. BIS. Por el empadronamiento de aviso rectificatorio de traslado de dominio o solicitud de corrección de alguno de los datos manifestados en un aviso de traslado de dominio, 8 UMA;
+XX. BIS. Por el empadronamiento de aviso rectificatorio de traslado de dominio o solicitud de corrección de alguno de los datos manifestados en un aviso de traslado de dominio, 9 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXI. Por la expedición del informe de valor referido de un predio, a petición del interesado, por cada ejercicio administrativo que se requiera, 4 UMA;
+XXI. Por la expedición del informe de valor referido de un predio, a petición del interesado, por cada ejercicio administrativo que se requiera, 5 UMA;
 
-Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando los servicios respectivos sean solicitados por las autoridades federales, estatales o municipales;
+Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando los servicios respectivos sean solicitados por las autoridades federales, estatales o municipales, siempre y cuando sus actividades correspondan a funciones de derecho público;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXII. Por el alta de predio omiso, 4 UMA;
+XXII. Por el alta de predio omiso, 5 UMA;
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando la solicitud para empadronar un predio, provenga de una dependencia u organismo federal, encargado de emitir títulos de propiedad derivados de la desincorporación del régimen de propiedad social; y,
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXIII. Por la validación y complementación de un expediente para ingreso de la solicitud de deslinde catastral, plano catastral o replanteo topográfico, 5 UMA.
+XXIII. Por la validación y complementación de un expediente para ingreso de la solicitud de deslinde catastral, plano catastral o replanteo topográfico, 6 UMA.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3491,7 +3665,7 @@ Por certificación profesional. 15
 
 Por los servicios que presta la Dirección de Educación, se causarán y pagarán los siguientes derechos:
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31634 A LA 31535.]</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31634 A LA 31535; P.O. 23 DE DICIEMBRE DE 2024, PÁGINAS DE LA 65415 A LA 65416.]</small>
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
@@ -3515,23 +3689,25 @@ Son objeto de los derechos contenidos en este Capítulo, la prestación de servi
 
 Por la expedición de copias de documentos que contengan la información de instrumentos de planeación urbana vigentes, se causarán los siguientes derechos:
 
-CONCEPTO MEDIO DE REPRODUCCIÓN UMA
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Programa de
+CONCEPTO MEDIO DE UMA
 
-Desarrollo Urbano 2.5
+REPRODUCCIÓN
 
-(Documento y Planos)
+Programa de 3
 
-Electrónico o impresión
+Desarrollo Urbano Electrónico o
+
+(Documento y Planos) impresión
 
 en bond
 
 Plano individual anexo
 
-a Programa de 1.25
+a Programa de Desarrollo
 
-Desarrollo Urbano
+Urbano 1.5
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3543,17 +3719,17 @@ No pagarán los derechos a que se refiere este artículo, las personas físicas 
 
 Por los servicios prestados respecto de agentes y empresas inmobiliarias, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Por la expedición y renovación de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará el equivalente a 7 UMA;
+I. Por la expedición y renovación de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará el equivalente a 10 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Por la reposición de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará el equivalente a 3 UMA; y,
+II. Por la reposición de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará el equivalente a 5 UMA; y,
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-III. Por la expedición de constancias e información relativa al Registro de Agentes y Empresas Inmobiliarias del Estado de Querétaro, se causará y pagará el equivalente a 4 UMA.
+III. Por la expedición de constancias e información relativa al Registro de Agentes y Empresas Inmobiliarias del Estado de Querétaro, se causará y pagará el equivalente a 6 UMA.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3561,53 +3737,67 @@ III. Por la expedición de constancias e información relativa al Registro de Ag
 
 Por otros servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas, referentes a desarrollos inmobiliarios, causará y pagará conforme a lo siguiente:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 CONCEPTO UMA
 
-Por la expedición de copias simples de oficio o
+Por la expedición de copias simples
 
-documento distinto a los planos, constancias y
+de oficio o documento distinto a los
 
-expedientes a que se refiere este artículo. 3
+planos, constancias y expedientes a
 
-Por la expedición de copias certificadas de oficio o
+que se refiere este artículo. 5
 
-documento distinto a los planos, constancias y
+Por la expedición de copias certificadas
 
-expedientes a que se refiere este artículo. 4
+de oficio o documento distinto a los
 
-Por la expedición de copia simple de plano de
+planos, constancias y expedientes a
 
-licencia de construcción, fusiones o subdivisiones 5
+que se refiere este artículo. 6
 
-Por la expedición de copia certificada de plano de
+Por la expedición de copia simple
 
-licencia de construcción, fusiones o subdivisiones. 5.5
+de plano de licencia de construcción,
 
-Por la expedición de copia simple de plano relativo
+fusiones o subdivisiones 8
 
-a desarrollos inmobiliarios. 5
+Por la expedición de copia certificada
 
-Por la expedición de copia certificada de plano
+de plano de licencia de construcción,
 
-relativo a desarrollos inmobiliarios. 5.5
+fusiones o subdivisiones. 10
 
-Por la expedición de constancia de licencia de
+Por la expedición de copia simple de
 
-construcción y/o dictamen de uso de suelo. 4
+plano relativo a desarrollos inmobiliarios. 8
 
-Por la expedición de constancia de desarrollos
+Por la expedición de copia certificada
 
-inmobiliarios. 4
+de plano relativo a desarrollos inmobiliarios. 10
 
-Por la reproducción de expediente de desarrollos
+Por la expedición de constancia de
 
-inmobiliarios en medios electrónicos. 4
+licencia de construcción y/o dictamen
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+de uso de suelo. 6
+
+Por la expedición de constancia de
+
+desarrollos inmobiliarios. 6
+
+Por la reproducción de expediente
+
+de desarrollos inmobiliarios en medios
+
+electrónicos. 6
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 139 Bis.
 
-Por la inscripción en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 56 UMA; por la renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 46 UMA.
+Por la inscripción en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 60 UMA; por la renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 50 UMA.
 
 ###### Artículo 139 Ter.
 
@@ -3967,21 +4157,23 @@ Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San J
 
 Por los servicios prestados por la Secretaría de la Contraloría, en materia de expedición de copias de documentos que obren en los expedientes relativos a las investigaciones y procedimientos administrativos instaurados en contra de servidores públicos y, en su caso, particulares, se causarán y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 CONCEPTO UMA
 
-Copia simple tamaño carta, por hoja 0.0335
+Copia simple tamaño carta, por hoja 0.05
 
-Copia simple tamaño oficio, por hoja. 0.0447
+Copia simple tamaño oficio, por hoja. 0.09
 
-Copia certificada tamaño carta, por hoja. 0.1005
+Copia certificada tamaño carta, por hoja. 0.13
 
-Copia certificada tamaño oficio, por hoja. 0.1395
+Copia certificada tamaño oficio, por hoja. 0.18
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 150.
 
-Por la expedición de la constancia de no inhabilitación a favor de las personas que pretendan ingresar al servicio público, se causará y pagará un derecho equivalente a 1.40 UMA.
+Por la expedición de la constancia de no inhabilitación a favor de las personas que pretendan ingresar al servicio público, se causará y pagará un derecho equivalente a 2 UMA.
 
 ### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
 
@@ -3991,57 +4183,83 @@ Por la expedición de la constancia de no inhabilitación a favor de las persona
 
 Por los servicios prestados por la Secretaría de Seguridad Ciudadana, en materia de seguridad privada, se causarán y pagarán los derechos correspondientes, conforme a lo siguiente:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 CONCEPTO UMA
 
-a). Por el trámite y, en su caso, autorización a personas
+a). Por el trámite y, en su caso, autorización
 
-físicas y morales para la prestación de servicios de seguridad
+a personas físicas y morales para
 
-privada en el Estado de Querétaro 126
+la prestación de servicios de seguridad
 
-b). Por el trámite de registro para la prestación de servicios de
+privada en el Estado de Querétaro 130
 
-seguridad privada en el Estado a personas físicas y morales
+b). Por el trámite de registro para
 
-con autorización de la Secretaría de Gobernación 69
+la prestación de servicios de seguridad
 
-c). Por el trámite y, en su caso, refrendo anual de la autorización
+privada en el Estado a personas físicas
 
-a personas físicas y morales para la prestación de servicios de
+y morales con autorización de la
 
-seguridad privada en el Estado de Querétaro 69
+Secretaría de Gobernación 70
 
-d). Por el trámite y, en su caso, modificación de las modalidades
+c). Por el trámite y, en su caso, refrendo
 
-para la prestación de los servicios de seguridad privada 6
+anual de la autorización a personas físicas
 
-e). Por el trámite y, en su caso, expedición de la credencial
+y morales para la prestación de servicios
 
-de habilitación como guardia o vigilante 3
+de seguridad privada en el Estado de
 
-f). Por la reposición de credencial de habilitación como
+Querétaro 70
 
-guardia o vigilante 2
+d). Por el trámite y, en su caso, modificación
 
-g). Aplicación de prueba adicional toxicológica 3
+de las modalidades para la prestación
 
-h). Por el trámite y, en su caso, autorización de vehículos
+de los servicios de seguridad privada 7
+
+e). Por el trámite y, en su caso, expedición
+
+de la credencial de habilitación como
+
+guardia o vigilante 4
+
+f). Por la reposición de credencial de
+
+habilitación como guardia o vigilante 3
+
+g). Aplicación de prueba adicional
+
+toxicológica 4
+
+h). Por el trámite y, en su caso, autorización
+
+de vehículos en el Padrón de Vehículos
+
+Escolta 4
+
+i). Por el trámite y, en su caso, refrendo
+
+anual de la autorización de vehículos
 
 en el Padrón de Vehículos Escolta 3
 
-i). Por el trámite y, en su caso, refrendo anual de la autorización
+j). Por baja en el Padrón de Vehículos
 
-de vehículos en el Padrón de Vehículos Escolta 2
+Escolta 3
 
-j). Por baja en el Padrón de Vehículos Escolta 2
+k). Por el trámite de cada persona de
 
-k). Por el trámite de cada persona de seguridad privada en el
+seguridad privada en el Registro Nacional
 
-Registro Nacional de Personal de Seguridad Pública 1
+de Personal de Seguridad Pública 2
 
-l). Expedición de constancia o historial de la empresa de
+l). Expedición de constancia o historial
 
-Seguridad Privada 2
+de la empresa de Seguridad Privada 3
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -4055,73 +4273,111 @@ I. En materia de licencias de conducir:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28575.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55704.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55704, P.O. 23 DE DICIEMBRE DE 2024, PÁGINA 65418.]</small>
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 II. En materia de permisos provisionales y constancias:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 CONCEPTO UMA
 
-Permiso temporal para circular sin placas, calcomanía y/o tarjeta
+Permiso temporal para circular
 
-de circulación de vehículo usado, por 30 días naturales 6
+sin placas, calcomanía y/o
 
-Permiso temporal para circular sin placas, calcomanía y/o tarjeta
+tarjeta de circulación de vehículo
 
-de circulación de vehículo nuevo, por 30 días naturales 21
+usado, por 30 días naturales 7
 
-Renovación única de permiso temporal para circular sin placas,
+Permiso temporal para circular
 
-calcomanía y/o tarjeta de circulación de vehículo usado, por
+sin placas, calcomanía y/o
 
-30 días naturales 4
+tarjeta de circulación de vehículo
 
-Renovación única de permiso temporal para circular sin placas,
+nuevo, por 30 días naturales 22
 
-calcomanía y/o tarjeta de circulación de vehículo nuevo, por
+Renovación única de permiso
 
-30 días naturales 11
+temporal para circular sin placas,
 
-Constancia de antecedentes de licencia para conducir, con
+calcomanía y/o tarjeta de circulación
 
-vigencia de 30 días naturales 3
+de vehículo usado, por 30 días naturales 5
 
-Constancia de no infracción o historial de infracción, con
+Renovación única de permiso
 
-vigencia de 30 días naturales 3
+temporal para circular sin placas,
 
-Constancia de no accidentes, con vigencia de 30 días naturales 3
+calcomanía y/o tarjeta de circulación
 
-Permiso para traslado de vehículo usado, vigencia de 10 días
+de vehículo nuevo, por 30 días naturales 12
 
-naturales 2
+Constancia de antecedentes de
 
-Permiso para traslado de vehículo nuevo, vigencia de 10 días
+licencia para conducir, con vigencia
 
-naturales 3
+de 30 días naturales 4
+
+Constancia de no infracción o
+
+historial de infracción, con vigencia
+
+de 30 días naturales 4
+
+Constancia de no accidentes, con
+
+vigencia de 30 días naturales 4
+
+Permiso para traslado de vehículo
+
+usado, vigencia de 10 días naturales 3
+
+Permiso para traslado de vehículo
+
+nuevo, vigencia de 10 días naturales 4
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 III. En materia del padrón de vehículos:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 CONCEPTO UMA
 
-Trámite para el Registro en el Padrón de vehículos agrícolas,
+Trámite para el Registro en el Padrón
 
-con vigencia de 2 años 3
+de vehículos agrícolas, con vigencia
 
-Trámite para el refrendo en el Padrón de vehículos agrícolas,
+de 2 años 4
 
-con vigencia de 2 años 2
+Trámite para el refrendo en el Padrón
 
-Trámite para el Registro en el Padrón de maquinaria destinada
+de vehículos agrícolas, con vigencia
 
-o de uso para la construcción, con vigencia de 2 años 3
+de 2 años 3
 
-Trámite para el refrendo en el Padrón de maquinaria destinada
+Trámite para el Registro en el Padrón
 
-o de uso para la construcción, con vigencia de 2 años 2
+de maquinaria destinada o de uso
+
+para la construcción, con vigencia
+
+de 2 años 4
+
+Trámite para el refrendo en el Padrón
+
+de maquinaria destinada o de uso
+
+para la construcción, con vigencia
+
+de 2 años 3
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Por la expedición y refrendo anual del tarjetón para estacionamiento en lugares preferentes a personas con discapacidad temporal, movilidad limitada o enfermedades crónico degenerativas, se causará y pagará un derecho equivalente a 5 UMA.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -4133,17 +4389,25 @@ Las personas adultas mayores, pensionados, jubilados o con haber de retiro por l
 
 Por los servicios prestados por la Secretaría de Seguridad Ciudadana, en materia de escuelas de manejo, se causarán y pagarán los derechos correspondientes, conforme a lo siguiente:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 CONCEPTO UMA
 
-Registro y autorización para operar escuelas de manejo, con
+Registro y autorización para operar
 
-vigencia de un año 50
+escuelas de manejo, con vigencia
 
-Refrendo anual de autorización para operar escuela de manejo 25
+de un año 55
 
-Constancia de instructor de manejo 3
+Refrendo anual de autorización
 
-Autorización de vehículo para impartir clases de manejo 3
+para operar escuela de manejo 30
+
+Constancia de instructor de manejo 4
+
+Autorización de vehículo para
+
+impartir clases de manejo 4
 
 ### Capítulo Décimo Segundo. Por los servicios prestados por Autoridades Fiscales
 
@@ -4151,13 +4415,13 @@ Autorización de vehículo para impartir clases de manejo 3
 
 Por los servicios prestados por las autoridades fiscales se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Por localización e identificación de documentos de archivo, 1.5 UMA; y
+I. Por localización e identificación de documentos de archivo, 2 UMA; y
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Por certificación de copias de documentos de archivo por cada hoja 0.20 UMA.
+II. Por certificación de copias de documentos de archivo por cada hoja 0.30 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -4193,7 +4457,9 @@ El plazo para realizar o manifestar los actos antes señalados, será de 15 día
 
 En caso de vehículos del servicio público del transporte, las concesiones y permisos respectivos deberán estar aprobados por la autoridad competente, previamente a que la Secretaría de Finanzas efectúe el registro o modificación de los datos de los vehículos asociados a dichas concesiones y permisos en el Padrón Vehicular Estatal; debiendo constar tal situación en los expedientes administrativos que al respecto se integren.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Sin perjuicio de lo establecido en el presente artículo, los propietarios de los vehículos a los que se les expida placas de circulación dentro de la jurisdicción territorial del Estado estarán obligados, en cada ejercicio fiscal, a actualizar ante la autoridad competente la información proporcionada para efectos del Padrón Vehicular Estatal, a fin de garantizar la prestación de los servicios contemplados en este Capítulo.
 
 ###### Artículo 156.
 
@@ -4203,9 +4469,9 @@ a) Alta o registro en el Padrón Vehicular Estatal.
 
 b) Refrendo anual.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-c) Expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación.
+c) Expedición de placas metálicas, tarjeta de circulación en formato físico o digital y calcomanía de identificación.
 
 d) Baja del vehículo del Padrón Vehicular Estatal.
 
@@ -4225,53 +4491,65 @@ Por los servicios de control vehicular, se pagarán los siguientes derechos:
 
 I. Por el servicio de registro o refrendo en el Padrón Vehicular Estatal:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 TRANSPORTE TIPO UMA
 
-Privado Automóvil, camión, autobús y remolque 9
+Privado Automóvil, camión,
+
+autobús y remolque 9
 
 Motocicleta 9
 
-Demostración 22
+Demostración 25
 
-Público Automóvil, camión y autobús 10
+Público Automóvil,
+
+camión y autobús 15
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 II. Por la expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación vehicular, realizada con motivo del alta o registro en el Padrón Vehicular Estatal y en el canje de placas, cuando esto ocurra:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 TRANSPORTE TIPO UMA
 
-Privado Automóvil, camión, autobús, remolque 26
+Privado Automóvil, camión,
 
-Motocicleta 8.5
+autobús, remolque 31
+
+Motocicleta 9
 
 Demostración 50
 
-Público Automóvil, camión y autobús 26
+Público Automóvil,
+
+camión y autobús 31
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 III. La expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación vehicular para auto antiguo, para personas con discapacidad y de policía, causarán los derechos correspondientes de acuerdo al transporte y tipo a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 4 UMA;
+IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 5 UMA;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. Por la reposición de la tarjeta de circulación se pagará 3 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular;
+V. Por la reposición de la tarjeta de circulación se pagará 4 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VI. Por el trámite relativo al aviso a otras entidades federativas sobre el alta de vehículos provenientes de otras entidades en el Padrón Vehicular Estatal, se pagarán 4 UMA;
+VI. Por el trámite relativo al aviso a otras entidades federativas sobre el alta de vehículos provenientes de otras entidades en el Padrón Vehicular Estatal, se pagarán 5 UMA;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VII. Por la actualización al Padrón Vehicular Estatal derivada del cambio de propietario se pagarán 3.5 UMA;
+VII. Por la actualización al Padrón Vehicular Estatal derivada del cambio de propietario se pagarán 5 UMA;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VIII. Por la obtención de placas metálicas de circulación con características especiales, las cuales estarán sujetas a los requisitos y procedimientos que para tal efecto establezca la Secretaría de Finanzas, se pagarán 6 UMA adicionales a los derechos correspondientes de acuerdo al transporte y tipo a que se refieren las fracciones II y III del presente;
+VIII. Por la obtención de placas metálicas de circulación con características especiales, las cuales estarán sujetas a los requisitos y procedimientos que para tal efecto establezca la Secretaría de Finanzas, se pagarán 8 UMA adicionales a los derechos correspondientes de acuerdo al transporte y tipo a que se refieren las fracciones II y III del presente;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
@@ -4291,9 +4569,9 @@ La emisión de una nueva tarjeta de circulación derivada de la actualización d
 
 Para los efectos del presente artículo, los vehículos de transporte funerario y los camiones con características especiales dedicados a prestar servicios públicos, se equiparan al transporte público, tipo camión.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-La Dirección de Ingresos podrá sustituir las placas, tarjeta de circulación y calcomanía de identificación vehicular sin que se cubran los derechos a que hace referencia este Capítulo, de aquellos vehículos a los cuales se les haya asignado una combinación alfanumérica de placas metálicas de circulación, conforme a las disposiciones que para tal efecto fijó la Secretaría de Comunicaciones y Transportes, la cual coincida con la misma combinación alfanumérica asignada en anteriores canjes totales de placas metálicas de circulación a otro vehículo sobre el cual exista reporte de robo vigente. Dicha sustitución sólo procederá cuando se valide ante las autoridades de seguridad pública que el número de serie del vehículo del cual se pretende realizar dicha sustitución es diferente del que presenta reporte de robo vigente.
+La Dirección de Ingresos podrá sustituir las placas, tarjeta de circulación y calcomanía de identificación vehicular sin que se cubran los derechos a que hace referencia este Capítulo, de aquellos vehículos a los cuales se les haya asignado una combinación alfanumérica de placas metálicas de circulación, conforme a las disposiciones que para tal efecto fijó la Secretaría de Infraestructura, Comunicaciones y Transportes, la cual coincida con la misma combinación alfanumérica asignada en anteriores canjes totales de placas metálicas de circulación a otro vehículo sobre el cual exista reporte de robo vigente. Dicha sustitución sólo procederá cuando se valide ante las autoridades de seguridad pública que el número de serie del vehículo del cual se pretende realizar dicha sustitución es diferente del que presenta reporte de robo vigente.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -4325,7 +4603,9 @@ ii) En el caso de vehículos usados, se deberá presentar el comprobante fiscal,
 
 Además de lo anterior se deberá presentar la factura o comprobante fiscal digital en el que conste la primera enajenación de la unidad al consumidor.
 
-En el supuesto de que no se cuente con documento idóneo del que se desprenda el valor del vehículo, la autoridad fiscal asignará a la unidad de que se trate el valor de un vehículo con características similares, inscrito en el Padrón Vehicular Estatal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+En el supuesto de que no se cuente con documento idóneo del que se desprenda el valor del vehículo, la autoridad fiscal asignará a la unidad de que se trate el valor de un vehículo con características similares, inscrito en el Padrón Vehicular Estatal y, adicionalmente, el sujeto obligado deberá presentar el vehículo para revisión física, con lo cual se determinará la asignación de clave vehicular por parte de la autoridad competente, previo pago de los derechos establecidos por el artículo 157, fracción X, de la presente Ley.
 
 Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando éste haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
 
@@ -4361,17 +4641,19 @@ Las personas físicas o morales que pretendan realizar el cambio de propietario 
 
 Tratándose de vehículos nuevos, el contribuyente solo deberá presentar la documentación señalada en las fracciones I, II, y III de este artículo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-El contribuyente o su representante legal deberán presentar el vehículo a revisión física cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo. Cuando a petición del contribuyente, la revisión física de los vehículos se realice fuera de las instalaciones de las autoridades fiscales, causará y pagará 7 UMA.
+El contribuyente o su representante legal deberán presentar el vehículo a revisión física cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo. Cuando a petición del contribuyente, la revisión física de los vehículos se realice fuera de las instalaciones de las autoridades fiscales, causará y pagará 10 UMA.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 Se deberá presentar la constancia de revisión alfanumérica emitida por la Fiscalía General del Estado de Querétaro, cuando así lo determine la autoridad fiscal.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 159.
 
-Si el vehículo que se pretende registrar, cuenta con placas de circulación expedidas por la Secretaría de Comunicaciones y Transportes, el contribuyente deberá presentar, además de los requisitos contemplados en el artículo 158 de esta Ley, la tarjeta de circulación expedida por dicha Secretaría.
+Si el vehículo que se pretende registrar, cuenta con placas de circulación expedidas por la Secretaría de Infraestructura, Comunicaciones y Transportes, el contribuyente deberá presentar, además de los requisitos contemplados en el artículo 158 de esta Ley, la tarjeta de circulación expedida por dicha Secretaría.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -4461,15 +4743,17 @@ VI. Tratándose de trámites de baja de vehículos destinados al servicio de tra
 
 Las bajas de vehículos señaladas en las fracciones III, V y VI, no causarán los derechos que establece la fracción IV del artículo 157 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 163.
 
-Las autoridades fiscales no autorizarán movimientos en el Padrón Vehicular Estatal, sin haberse cerciorado de que no existan adeudos por concepto del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal y/o en el Capítulo Segundo del Título Tercero de esta Ley, según sea el caso.
+Las autoridades fiscales autorizarán movimientos en el Padrón Vehicular Estatal, siempre y cuando se hayan cerciorado previamente que la unidad vehicular objeto del movimiento solicitado se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal y/o en el Capítulo Segundo del Título Tercero de esta Ley, según sea el caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 164.
 
-Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia o por cualquier otra autoridad competente, causarán y pagarán un 50% de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
+Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales, así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia o por cualquier otra autoridad competente, pagarán el cincuenta por ciento de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -4567,7 +4851,9 @@ Por los servicios prestados por la Oficialía Mayor, se causarán y pagarán:
 
 I. El importe de la suscripción al Padrón de Proveedores y Prestadores de Servicios del Poder Ejecutivo del Estado de Querétaro, que será la cantidad de 6 UMA, para personas físicas, y de 14 UMA, en el caso de personas morales; y
 
-II. El importe de refrendo o revalidación al Padrón de Proveedores y Prestadores de Servicios del Poder Ejecutivo del Estado de Querétaro, que será la cantidad de 3 UMA, para personas físicas, y de 5 UMA, en el caso de personas morales.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. El importe de refrendo o revalidación al Padrón de Proveedores y Prestadores de Servicios del Poder Ejecutivo del Estado de Querétaro, que será la cantidad de 4 UMA, para personas físicas, y de 6 UMA, en el caso de personas morales.
 
 ### Capítulo Décimo Sexto. Por los servicios prestados por Otras Autoridades Administrativas
 
@@ -4577,127 +4863,139 @@ II. El importe de refrendo o revalidación al Padrón de Proveedores y Prestador
 
 Por los servicios prestados por la Secretaría de Desarrollo Sustentable, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SU TABLA], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Por las autorizaciones para operar centros de verificación vehicular causará y pagará, por cada línea de verificación, el equivalente correspondiente, de acuerdo a lo siguiente:
+I. Por las autorizaciones y refrendo anual para operar centros de verificación vehicular causará y pagará, por cada línea de verificación, el equivalente correspondiente, de acuerdo a lo siguiente:
 
 ZONA MUNICIPIO UMA
 
-I Querétaro, San Juan del Río, Corregidora y El Marqués 289
+I Querétaro, San Juan del Río,
 
-II Cadereyta de Montes, Ezequiel Montes, Tequisquiapan,
+Corregidora y El Marqués 294
 
-Pedro Escobedo, Huimilpan y Amealco de Bonfil 237
+II Cadereyta de Montes, Ezequiel
 
-III Jalpan de Serra, Landa de Matamoros, Peñamiller,
+Montes, Tequisquiapan,
 
-Pinal de Amoles, San Joaquín, Arroyo Seco,
+Pedro Escobedo, Huimilpan
 
-Tolimán y Colón 151
+y Amealco de Bonfil 242
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+III Jalpan de Serra, Landa de
 
-II. Por la expedición de constancia de la emisión de certificado de verificación vehicular se pagarán 0.80 UMA;
+Matamoros, Peñamiller, Pinal
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+de Amoles, San Joaquín,
 
-III. Por cada certificado y holograma de verificación vehicular tipo cero de que se dote a los centros de verificación autorizados, se pagará el equivalente a 3 UMA;
+Arroyo Seco, Tolimán y Colón 155
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. Por cada certificado y holograma de verificación vehicular tipo doble cero de que se dote a los centros de verificación autorizados, se pagará el equivalente a 5 UMA;
+II. Por la expedición de constancia de la emisión de certificado de verificación vehicular se pagará 1 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. Por cada certificado y holograma de verificación vehicular tipo 1 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 2 UMA;
+III. Por cada certificado y holograma de verificación vehicular tipo cero de que se dote a los centros de verificación autorizados, se pagará el equivalente a 3.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VI. Por cada certificado y holograma de verificación vehicular tipo 2 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 1 UMA;
+IV. Por cada certificado y holograma de verificación vehicular tipo doble cero de que se dote a los centros de verificación autorizados, se pagará el equivalente a 5.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VII. Por cada certificado de rechazo de verificación vehicular de que se dote a los centros de verificación autorizados, se pagará el equivalente a 0.70 UMA;
+V. Por cada certificado y holograma de verificación vehicular tipo 1 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 2.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VIII. Por la reposición del certificado y holograma de verificación vehicular tipo cero, se pagará el equivalente a 3 UMA;
+VI. Por cada certificado y holograma de verificación vehicular tipo 2 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 1.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IX. Por la reposición del certificado y holograma de verificación vehicular tipo doble cero, se pagará el equivalente a 5 UMA;
+VII. Por cada certificado de rechazo de verificación vehicular de que se dote a los centros de verificación autorizados, se pagará el equivalente a 0.75 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-X. Por la reposición del certificado y holograma de verificación vehicular tipo 1, se pagará el equivalente a 2 UMA;
+VIII. Por la reposición del certificado y holograma de verificación vehicular tipo cero, se pagará el equivalente a 3.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XI. Por la reposición del certificado y holograma de verificación vehicular tipo 2, se pagará el equivalente a 2 UMA;
+IX. Por la reposición del certificado y holograma de verificación vehicular tipo doble cero, se pagará el equivalente a 5.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XII. Por la reposición del certificado y holograma de verificación vehicular tipo exento, se pagará el equivalente a 7 UMA;
+X. Por la reposición del certificado y holograma de verificación vehicular tipo 1, se pagará el equivalente a 2.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIII. Por la expedición de la licencia ambiental, se pagará el equivalente a 36 UMA;
+XI. Por la reposición del certificado y holograma de verificación vehicular tipo 2, se pagará el equivalente a 2.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIV. Por la autorización del informe preventivo de impacto ambiental, se pagará el equivalente a 158 UMA; para los proyectos que se encuentren en unidades de gestión ambiental con categoría de aprovechamiento sustentable, de acuerdo al Programa de Ordenamiento Ecológico Regional vigente, se pagará adicionalmente 3 UMA por cada 100 m2 de superficie afectada por el proyecto;
+XII. Por la reposición del certificado y holograma de verificación vehicular tipo exento, se pagará el equivalente a 7.05 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XV. Por la autorización de la manifestación de impacto ambiental en modalidad particular, se pagará el equivalente a 197 UMA y en modalidad regional, se pagará el equivalente a 394 UMA; para los proyectos que se encuentren en unidades de gestión ambiental con categoría de aprovechamiento sustentable, de acuerdo al Programa de Ordenamiento Ecológico Regional vigente, se pagará adicionalmente 3 UMA por cada 100 m2 de superficie afectada por el proyecto;
+XIII. Por la evaluación para la expedición de la licencia ambiental, se pagará el equivalente a 40 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVI. Por la resolución de riesgo ambiental, se pagará el equivalente a 158 UMA;
+XIV. Por la evaluación del informe preventivo de impacto ambiental, se pagará el equivalente a 168 UMA; para los proyectos que se encuentren en unidades de gestión ambiental con categoría de aprovechamiento sustentable, de acuerdo al Programa de Ordenamiento Ecológico Regional vigente, para su autorización, se pagará adicionalmente 3 UMA por cada 100 m2 de superficie afectada por el proyecto;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVII. Por el registro al padrón de prestadores de servicios ambientales para las categorías de: Manejo Integral de Residuos; perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación se pagará el equivalente a 37.5 UMA
+XV. Por la evaluación de la manifestación de impacto ambiental en modalidad particular, se pagará el equivalente a 207 UMA y en modalidad regional, se pagará el equivalente a 399 UMA; para los proyectos que se encuentren en unidades de gestión ambiental con categoría de aprovechamiento sustentable, de acuerdo al Programa de Ordenamiento Ecológico Regional vigente, para su autorización, se pagará adicionalmente 3 UMA por cada 100 m2 de superficie afectada por el proyecto;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Por el refrendo al padrón de prestadores de servicios ambientales para las categorías de: Manejo Integral de Residuos; perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación se pagará el equivalente a 14 UMA;
+XVI. Por la resolución de riesgo ambiental, se pagará el equivalente a 160 UMA;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIX. Por la autorización y refrendo anual para operar Centros Integrales de Residuos de la Construcción y Demolición (CIRCD) se pagará el equivalente a 389 UMA;
+XVII. Por la evaluación a la inscripción al padrón de prestadores de servicios ambientales para las categorías de: Manejo Integral de Residuos; perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación se pagará el equivalente a 40 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XX. Por la autorización de bancos de tiro para el depósito de residuos no peligrosos, se pagará el equivalente a 40 UMA;
+XVIII. Por la evaluación al refrendo al padrón de prestadores de servicios ambientales para las categorías de: Manejo Integral de Residuos; perito responsable para bancos de material, consultoría ambiental; capacitación ambiental; laboratorios de estudios ambientales y de calibración; unidades de verificación ambiental; auditoría ambiental; talleres de diagnósticos de emisiones vehiculares y manejo de vegetación se pagará el equivalente a 16 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXI. Por la autorización de combustión a cielo abierto, se pagará el equivalente a 21 UMA;
+XIX. Por la autorización y refrendo anual para operar Centros Integrales de Residuos de la Construcción y Demolición (CIRCD) se pagará el equivalente a 394 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXII. Por la actualización de licencia ambiental, se pagará el equivalente a 19 UMA;
+XX. Por la resolución de la licencia para bancos de tiro para el depósito de residuos no peligrosos, se pagará el equivalente a 45 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXIII. Por la autorización de la licencia para la explotación de bancos de material, se pagará el equivalente a 84 UMA;
+XXI. Por la autorización de combustión a cielo abierto, se pagará el equivalente a 25 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXIV. Por la modificación de datos del registro de prestadores de servicios ambientales, se pagará el equivalente a 11 UMA;
+XXII. Por la actualización de licencia ambiental, se pagará el equivalente a 20 UMA;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXV. Por el registro de Plan de Manejo de Residuos de Manejo Especial, se pagará el equivalente a 40 UMA;
+XXIII. Por la resolución de la licencia para la explotación de bancos de material, se pagará el equivalente a 89 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXVI. Por la actualización de planes de manejo de residuos urbanos y de manejo especial, se pagará el equivalente a 21 UMA; y,
+XXIV. Por la evaluación de modificación de datos del registro de prestadores de servicios ambientales, se pagará el equivalente a 13 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXVII. Por la expedición de copias simples de expedientes a cargo de la Secretaría de Desarrollo Sustentable, se pagará el equivalente a 0.07 UMA por foja y el equivalente a 0.15 UMA por foja, para la expedición de copias certificadas.
+XXV. Por la evaluación del registro de Plan de Manejo de Residuos de Manejo Especial, se pagará el equivalente a 45 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Por la evaluación de la actualización de planes de manejo de residuos urbanos y de manejo especial, se pagará el equivalente a 25 UMA;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Por la expedición de copias simples de expedientes a cargo de la Secretaría de Desarrollo Sustentable, se pagará el equivalente a 0.10 UMA por foja y el equivalente a 0.20 UMA por foja, para la expedición de copias certificadas; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Por las bases de participación en el procedimiento para la selección de un Centro Integral de Residuos de la Construcción y Demolición (CIRCD) en el Estado de Querétaro, se pagará el equivalente a 180 UMA.
 
 Para los efectos de este artículo, se atenderá a la estratificación de empresas establecida por las autoridades federales competentes, que al efecto se publique en el Diario Oficial de la Federación.
 
@@ -4709,25 +5007,27 @@ Los cuerpos voluntarios de bomberos, cuerpos de atención médica prehospitalari
 
 Por los servicios prestados por la Secretaría de Turismo en materia de promoción turística, se causarán y pagarán los siguientes derechos:
 
-CONCEPTO UMA
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Por la prestación del recorrido de Circuito Turístico
+CONCEPTO TIPO UMA
 
-dentro de la Ciudad de Santiago de Querétaro:
+Por la prestación del General 5.8
 
-General 5.775
+recorrido de Circuito Menores de 12 años,
 
-Menores de 12 años, estudiantes, maestros
+Turístico dentro de la estudiantes, maestros
 
-y personas adultas mayores 4.8125
+Ciudad de Santiago y personas
 
-Por la prestación del recorrido del Circuito Turístico
+de Querétaro: adultas mayores 4.9
 
-Ruta Arte, Queso y Vino:
+Por la prestación del General 2.9
 
-General 2.8875
+recorrido del Circuito Menores de 12 años
 
-Menores de 12 años y personas adultas mayores: 2.3125
+Turístico Ruta Arte, y personas
+
+Queso y Vino: adultas mayores 2.5
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -4735,17 +5035,21 @@ Menores de 12 años y personas adultas mayores: 2.3125
 
 Por el uso y aprovechamiento del Querétaro Centro de Congresos, se causarán y pagarán:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Por el uso de espacios del Querétaro Centro de Congresos (sic) causará y pagará, conforme a los (sic) siguiente:
+I. Por el uso de espacios del Querétaro Centro de Congresos (sic) causará y pagará, conforme a lo siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31638 A LA 31639.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2024, PÁGINAS DE LA 65425 A LA 65426.]</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Por el uso de bienes dentro del Querétaro Centro de Congresos (sic) causará y pagará, conforme a los (sic) siguiente:
+II. Por el uso de bienes dentro del Querétaro Centro de Congresos causará y pagará, conforme a lo siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31640.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2024, PÁGINA 65426.]</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Quien haga uso de espacios destinados a cafetería en el Querétaro Centro de Congresos, causará y pagará diez por ciento de lo obtenido por la venta de alimentos y bebidas, de conformidad con el instrumento que para tal efecto se suscriba.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -4753,7 +5057,11 @@ II. Por el uso de bienes dentro del Querétaro Centro de Congresos (sic) causar�
 
 Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, se causarán y pagarán, por evento, los siguientes derechos:
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31640 A LA 31641.]</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31640 A LA 31641, P.O. 23 DE DICIEMBRE DE 2024, PÁGINAS DE LA 65427 A LA 65428.]</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Quien haga uso de espacios destinados a cafetería en el Querétaro Teatro Metropolitano, causará y pagará diez por ciento de lo obtenido por la venta de alimentos y bebidas, de conformidad con el instrumento que para tal efecto se suscriba.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
@@ -4761,9 +5069,13 @@ Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, 
 
 Estarán obligadas al pago de los derechos por concepto de admisión al recinto identificado como Planetario ubicado en el Museo de Ciencia y Tecnología “El Péndulo”, a cargo de la Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro, las personas que tengan acceso a los mismos, conforme a las siguientes cuotas:
 
-I. Adultos: 0.9640 UMA; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Menores de edad, personas adultas mayores y personas con alguna discapacidad física: 0.4820 UMA.
+I. Adultos: $100.00 y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Menores de edad, estudiantes, personas adultas mayores y personas con discapacidad: $50.00
 
 El pago de este derecho deberá hacerse previamente al ingreso al espacio a que se refiere este artículo.
 
@@ -4773,71 +5085,83 @@ El pago de este derecho deberá hacerse previamente al ingreso al espacio a que 
 
 Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, consistentes en la admisión a las instalaciones del Parque Recreativo Cimacuático, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-I. Adultos $30.00;
+I. Niñas y niños de 0 a 3 años: Gratis;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Niños y adultos mayores $20.00; y
+II. Niñas y niños de 4 a 12 años: $20.00;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-III. Grupos:
+III. Personas de 13 a 59 años: $30.00;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Adultos mayores de 60 años o más: $15.00, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+V. Grupos:
 
 a) Escuelas $15.00 por persona.
 
-b) Sector empresarial y de servicios $25.00 por persona.
+b) Sector empresarial y de servicios $30.00 por persona.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 171.
 
-Por la obtención de bases de licitación pública que emitan las autoridades administrativas, con excepción de contrataciones de obra pública, causará y pagará los valores establecidos en el siguiente el (sic) tabulador:
+Por la obtención de bases que emitan las autoridades administrativas, se causará y pagará lo siguiente:
+
+I. Por bases de licitación pública, con excepción de contrataciones de obra pública, se pagarán los valores establecidos en el siguiente el tabulador:
 
 UMA MONTO
 
-51 De $1.00 a $30,000,000.00
+55 De $1.00 a $30,000,000.00
 
-76 De $30,000,000.01 a $40,000,000.00
+80 De $30,000,000.01 a $40,000,000.00
 
-102 De $40,000,000.01 a $60,000,000.00
+107 De $40,000,000.01 a $60,000,000.00
 
-127 De $60,000,000.01 a $80,000,000.00
+130 De $60,000,000.01 a $80,000,000.00
 
-152 De $80,000,000.01 o más
+157 De $80,000,000.01 o más
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+II. Por bases para participar en procedimientos de adquisición de bienes inmuebles del Estado, que no estén sujetos al régimen de dominio público, 80 UMA.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 171 Bis.
 
-Por la obtención de bases de licitación pública en materia de obra pública que emitan las autoridades administrativas, causará y pagará los valores establecidos en el siguiente el tabulador:
+Por la obtención de bases de licitación pública en materia de obra pública que emitan las autoridades administrativas, se causarán y pagarán los valores establecidos en el siguiente el tabulador:
 
 UMA MONTO
 
-104 De $0.00 a $15,000,000.00
+109 De $0.00 a $15,000,000.00
 
-144 De $15,000,000.01 a $30,000,000.00
+149 De $15,000,000.01 a $30,000,000.00
 
-184 De $30,000,000.01 a $45,000,000.00
+189 De $30,000,000.01 a $45,000,000.00
 
-224 De $45,000,000.01 a $60,000,000.00
+229 De $45,000,000.01 a $60,000,000.00
 
-254 De $60,000,000.01 a $80,000,000.00
+259 De $60,000,000.01 a $80,000,000.00
 
-304 De $80,000,000.01 a $100,000,000.00
+309 De $80,000,000.01 a $100,000,000.00
 
-354 De $100,000,000.01 a $250,000,000.00
+359 De $100,000,000.01 a $250,000,000.00
 
-404 De $250,000,000.01 a $400,000,000.00
+409 De $250,000,000.01 a $400,000,000.00
 
-454 De $400,000,000.01 a $600,000,000.00
+459 De $400,000,000.01 a $600,000,000.00
 
-504 De $600,000,000.01 a $750,000,000.00
+509 De $600,000,000.01 a $750,000,000.00
 
-554 De $750,000,000.01 a $1,000,000,000.00
+559 De $750,000,000.01 a $1,000,000,000.00
 
-604 De $1,000,000,000.01 o más
+609 De $1,000,000,000.01 o más
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -4845,7 +5169,7 @@ UMA MONTO
 
 Por los servicios prestados por el Poder Ejecutivo del Estado de Querétaro, cuando su costo no se encuentre previsto por esta Ley, así como cuando se trate de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro o de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31642.]</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31642; P.O. 23 DE DICIEMBRE DE 2024, PÁGINA 65430.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -4926,6 +5250,12 @@ Por el uso de los espacios administrados por la Secretaría de Cultura, referido
 > <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31643.]</small>
 
 El pago a que se refiere este artículo se efectuará previamente a la realización del evento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 172 Quinquies.
+
+Por el Código Pentadimensional que tiene por objeto constituir un mecanismo de seguridad adicional, adherido a los documentos emitidos por las autoridades contempladas en esta Ley, con motivo de los servicios que presten en términos del presente Título, se causará y pagará 1 UMA adicional a los derechos respectivos.
 
 ## Título Quinto. De los Productos
 
@@ -6840,3 +7170,205 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 01 de enero de 2025, bajo las modalidades previstas en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor de la presente Ley, quedarán suspendidas para el ejercicio fiscal 2025, las disposiciones relativas al impuesto sobre diversiones y espectáculos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, respecto de la circunscripción territorial de aquellos Municipios en cuyas Leyes de Ingresos se prevea el impuesto de entretenimientos públicos municipales y que tengan celebrado convenio de colaboración en materia fiscal con el Poder Ejecutivo del Estado, en el que se establezcan las bases para la recaudación de dicho impuesto municipal, de conformidad con lo establecido en la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
+
+Las obligaciones nacidas antes de la entrada en vigor de la presente Ley por concepto del impuesto sobre diversiones y espectáculos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, deberán cumplirse en los términos previstos en dicha Ley respecto de los montos, formas y plazos establecidos, así como en las demás disposiciones fiscales estatales.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, deberán substanciarse y resolverse en términos de las disposiciones fiscales estatales vigentes conforme al ejercicio fiscal que corresponda.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los otros ingresos derivados del Sistema de Colaboración Administrativa Estatal Intermunicipal previstos en el segundo párrafo del artículo 2 de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, se incluyen los relativos a la recaudación que obtenga el Estado por concepto del impuesto por la prestación del servicio de hospedaje establecido en la Ley de Hacienda del Estado de Querétaro, la cual será distribuida entre los municipios que cumplan con los siguientes elementos de elegibilidad:
+
+I. Consideren en su Ley de Ingresos el cobro del impuesto que tenga por objeto el uso de la propiedad inmobiliaria destinada para la prestación de servicios de hospedaje.
+
+II. Acrediten haber recaudado ingresos por dicho impuesto en los dos ejercicios fiscales anteriores a la suscripción del convenio correspondiente o en su caso, hayan suscrito el convenio con la Secretaría de Finanzas establecido en la fracción III del Artículo Octavo Transitorio de la Ley que reforma, adiciona y deroga diversas disposiciones de la Ley de Hacienda del Estado de Querétaro, de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, de la Ley de Hacienda de los Municipios del Estado de Querétaro, del Código Fiscal del Estado de Querétaro, de la Ley de Procedimientos Administrativos del Estado de Querétaro, de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro y de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 22 de diciembre de 2022.
+
+III. Suscriban convenio de colaboración administrativa con la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, respecto del impuesto señalado en la fracción I del presente artículo.
+
+Para aquellos municipios que hayan suscrito el convenio en comento, se les participará el uno por ciento de los recursos autorizados por la Legislatura del Estado en el Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2025 por concepto del Impuesto por la Prestación del Servicio de Hospedaje, con relación a la circunscripción territorial del municipio de que se trate y en términos de la calendarización que para tal efecto realice la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro pondrá a disposición de los municipios el convenio al que hace referencia el artículo 33 de Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, para la suscripción correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Para efectos de lo establecido en el artículo 49 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con relación a las disponibilidades de las Entidades de ejercicios fiscales anteriores, se destinarán como parte de las ministraciones calendarizadas del monto aprobado dentro del Decreto de Presupuesto de Egresos del Estado de Querétaro del ejercicio fiscal 2025, exceptuando de lo anterior a las entidades en materia de seguridad.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2025, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, se autoriza al titular en materia de catastro para realizar la aplicación del cobro del derecho equivalente a 1.25 UMA, respecto de bienes considerados como vivienda de interés social o popular;
+
+II. Se autoriza a las autoridades registrales y catastrales emitir un programa de beneficios para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento en el cobro de los derechos generados por los servicios que prestan dichas autoridades previstos en los Capítulos Segundo y Cuarto del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, para los propietarios de predios que en ejercicios fiscales anteriores o durante el presente, han sufrido afectaciones por obras de nivel Federal, Estatal o Municipal y que exista instrumento que tenga por objeto la donación del predio, ya sea su superficie total o varias fracciones en favor de un Municipio y/o el Estado, y que el predio cuente con características de derecho de paso, siempre que se acredite la utilidad pública del mismo, lo anterior, previa validación del programa correspondiente por la Secretaría de Finanzas;
+
+III. Se causará una tasa cero con motivo de los derechos a que se refiere el Capítulo Cuarto del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades federales, estatales y municipales, siempre que éstas soliciten la prestación de los servicios previstos en dicho Capítulo en ejercicio de sus funciones de derecho público, así como aquellos vinculados con la ejecución de programas y proyectos de los citados órdenes de gobierno;
+
+IV. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo y conforme a los requisitos que para tal efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se causará una tasa cero por los derechos correspondientes, debiendo dicha dependencia emitir el Acuerdo correspondiente, previa validación de la Secretaría de Finanzas, así como publicar el mismo en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, y notificarlo al titular en materia registral;
+
+V. Durante el periodo que al efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, del cual notificará a la Secretaría de Finanzas, se causará una tasa cero por la prestación de los servicios previstos en el artículo 142 de la Ley de Hacienda del Estado de Querétaro, de conformidad con lo siguiente:
+
+a) Rectificación de acta;
+
+b) Expedición de copias certificadas de actas del estado civil de las personas, levantadas en el Estado de Querétaro, por cada hoja, bajo los siguientes supuestos:
+
+1. La expedición de la primera copia certificada, que con motivo de un procedimiento administrativo de rectificación de acta haya sido resuelto por la Dirección Estatal del Registro Civil, cuyo formato se imprima en español o en lengua indígena.
+
+2. La expedición de una copia certificada de acta de nacimiento impresa en sistema braille, que soliciten las personas físicas ciegas o débiles visuales; y
+
+c) La expedición de copias certificadas de actas del estado civil de las personas, levantadas en otra entidad federativa, por medio de la Base de Datos Nacional a partir de la Conexión Interestatal, tratándose de copia certificada de acta de nacimiento impresa en sistema braille que soliciten las personas físicas ciegas o débiles visuales;
+
+VI. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+PERIODO DE PAGO DESCUENTO
+
+Enero 2025 10 por ciento
+
+Febrero 2025 8 por ciento
+
+Marzo 2025 5 por ciento
+
+VII. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo, para que, en el ámbito de su competencia, realice la recepción, aplicación y asignación de los recursos que se deriven con motivo de las actividades y servicios que presten las dependencias y los organismos descentralizados estatales durante el ejercicio fiscal 2025, conforme a la normativa correspondiente;
+
+VIII. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo 2021-2027, de beneficios administrativos y fiscales de reducciones de hasta el noventa y cinco por ciento de las contribuciones y aprovechamientos, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro en el ejercicio fiscal 2025;
+
+IX. Se autoriza a las autoridades fiscales a realizar la cancelación de los créditos fiscales por incosteabilidad en el cobro durante el ejercicio fiscal 2025.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2024, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión, incluyendo las sanciones emitidas por los Juzgados.
+
+Se autoriza a las autoridades fiscales la aplicación de la cancelación de los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2020 y anteriores, a petición de parte o a través de la autorización de un programa.
+
+Se autoriza a las autoridades fiscales para que realicen los movimientos correspondientes a la baja administrativa en el Padrón Vehicular Estatal, respecto del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2020 y anteriores, sin que ello constituya la cancelación de adeudos por el impuesto y derechos antes referidos;
+
+X. Los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago para el ejercicio fiscal 2025 del Impuesto Sobre Tenencia o Uso de Vehículos y los derechos correspondientes, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro, y cumplido lo anterior, se entenderá que las tarjetas de circulación a que se refiere el artículo 157 de la citada Ley, que hubiesen sido expedidas en los ejercicios fiscales 2022, 2023 y 2024, continuarán su vigencia dentro del Padrón Vehicular Estatal hasta el 31 de diciembre de 2025.
+
+Los citados contribuyentes, tenedores o usuarios, para comprobar la vigencia de las tarjetas de circulación señaladas en el párrafo anterior, exhibirán la representación impresa del recibo de pago respectivo ante las autoridades que así lo requieran.
+
+La tarjeta de circulación en formato digital a que se refiere el artículo 156, inciso c) de la Ley de Hacienda del Estado de Querétaro que, con plena validez, sea expedida por la autoridad competente, podrá tramitarse por los contribuyentes, tenedores o usuarios de vehículos que se encuentren al corriente de sus obligaciones y registrados en el Padrón Vehicular Estatal, sin costo alguno, a través de la plataforma digital autorizada por el Poder Ejecutivo del Estado de Querétaro;
+
+XI. El sector empresarial que contrate personal con discapacidad podrá gozar de un beneficio consistente en la reducción de la base gravable del impuesto sobre nóminas a su cargo, previsto en la Ley de Hacienda del Estado de Querétaro, a través del mecanismo establecido por la Secretaría de Finanzas del Poder Ejecutivo. La Secretaría del Trabajo del Poder Ejecutivo emitirá los lineamientos para la aplicación del beneficio correspondiente, previa validación de la Secretaría de Finanzas;
+
+XII. Para efectos del artículo 135 de la Ley de Hacienda del Estado de Querétaro, se estará a lo señalado en las disposiciones que, previo estudio de mercado, y una vez validadas por la Secretaría de Finanzas del Poder Ejecutivo, emita la Secretaría de Educación del Poder Ejecutivo;
+
+XIII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, de hasta el noventa y nueve por ciento; debiendo la Secretaría de Finanzas del Poder Ejecutivo realizar las autorizaciones a través de los lineamientos de aplicación correspondientes;
+
+XIV. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, derivados de medios de defensa, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad en el que se haya declarado a su favor la inaplicabilidad de los derechos a que hace referencia el primer párrafo de esta fracción; y
+
+b) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado de la Subsecretaría de Política Fiscal e Ingresos de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, se generarán las acciones administrativas correspondientes;
+
+XV. En caso de robo de placas metálicas, se causarán y pagarán al cincuenta por ciento los derechos establecidos en el artículo 157, fracción II de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2025, siempre y cuando el contribuyente acredite dicha circunstancia de conformidad con los criterios normativos autorizados por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Para el supuesto en que la unidad haya sido dada de baja del Padrón Vehicular Estatal, derivado de una solicitud oficial interestatal, y que el contribuyente acredite que ésta continúa en la Entidad Federativa, a través de los documentos correspondientes y de conformidad con los criterios normativos autorizados por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, se causará y pagará el cincuenta por ciento de los derechos por concepto de alta, siempre y cuando realice la entrega de las placas metálicas a la autoridad fiscal;
+
+XVI. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para realizar la aplicación del beneficio contemplado en el artículo 164 de la Ley de Hacienda del Estado de Querétaro, hasta por tres unidades vehiculares por cada contribuyente que actualice el supuesto previsto en dicho artículo, quedando facultada para autorizar la ampliación del beneficio de conformidad con los lineamientos que al efecto emita dicha Secretaría;
+
+XVII. Se autoriza al Centro de Congresos y Querétaro Teatro Metropolitano para que en términos de los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, apliquen un factor de reducción de hasta el cincuenta por ciento del cobro de los derechos respectivos, de conformidad a los lineamientos emitidos por el mismo Centro de Congresos y Teatro Metropolitano, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XVIII. A las personas adultas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores, estudiantes en activo, y a los visitantes que accedan a los espacios los días domingos y días festivos, se les aplicará una tasa cero por la prestación de los servicios previstos en el artículo 172 Ter de la Ley de Hacienda del Estado de Querétaro, así como a los pasantes o investigadores que cuenten con permiso por parte de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, para realizar estudios afines a los espacios a que se refiere el artículo 172 Ter de la Ley de Hacienda del Estado de Querétaro;
+
+XIX. A las instituciones públicas o privadas que realicen conjuntamente con la Secretaría de Cultura del Poder Ejecutivo, eventos culturales, educativos, cívicos o de asistencia social, así como las personas físicas o morales que realicen actividades de promoción, difusión y comercialización culturales, educativas, artísticas, cívicas o de asistencia social, se les aplicará una tasa cero respecto de los conceptos referidos en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, previa celebración del convenio correspondiente;
+
+XX. Se faculta a la Secretaría de Cultura del Poder Ejecutivo para llevar a cabo la aplicación de lo establecido en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, en función del uso de los espacios y a través de los lineamientos que para tal efecto se emitan, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XXI. Los derechos por vivienda de interés social o popular que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado, se causarán al cincuenta por ciento conforme a las siguientes:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XXII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa de viviendas de interés social o popular. Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XXIII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste la autoridad en materia registral en el Estado que a continuación se describen, se causarán al cincuenta por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que acrediten tener su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que acrediten tener su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que acrediten tener su domicilio fiscal en el Estado;
+
+XXIV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste la autoridad en materia registral en el Estado, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha autoridad se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos en el Estado.
+
+Para la aplicación del párrafo anterior, se requerirá un dictamen de viabilidad de generación de empleos e inversión en el Estado, emitido por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo respecto a la procedencia del otorgamiento del beneficio.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos en el Estado.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+e) La inscripción de los actos provenientes de los Programas de Regularización, siempre y cuando se presenten mediante oficio de petición de la autoridad que regularizó.
+
+f) La expedición de los certificados previstos en la fracción I del artículo 107 de la Ley de Hacienda del Estado de Querétaro, respecto de asentamientos que deriven de cualquier Programa de Regularización federal, estatal y municipal en dicha materia, siempre y cuando se acredite lo anterior y se solicite mediante oficio de petición por parte de la autoridad correspondiente;
+
+XXV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por autoridad competente, estarán exceptuadas del pago de los derechos relativos a la expedición de certificado de única propiedad por parte de la autoridad en materia registral en el Estado, contenida en el artículo 107, fracción IV, de la Ley de Hacienda del Estado de Querétaro, para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+
+XXVI. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere el Código Ambiental del Estado de Querétaro y los Programas que para tal efecto se autoricen;
+
+XXVII. Se autoriza a la Secretaría de Seguridad Ciudadana para la creación de Programas Estatales para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento del cobro por concepto de los derechos que, de conformidad con lo previsto en el Capítulo Décimo Primero del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas;
+
+XXVIII. Se autoriza a la Secretaría de Seguridad Ciudadana para la aplicación de un factor de reducción de hasta el treinta por ciento en el cobro de los derechos por concepto de renovación de licencia para conducir Tipo A (automovilista), establecidos en la fracción I del artículo 152 de la Ley de Hacienda del Estado de Querétaro, cuando la misma se tramite a través de las plataformas digitales autorizadas por el Poder Ejecutivo, a través del Programa de aplicación que para tal efecto se emita, previa validación de la Secretaría de Finanzas;
+
+XXIX. Se autoriza la aplicación de un factor de reducción de hasta el cincuenta por ciento durante el ejercicio fiscal 2025, respecto del cobro por concepto de los derechos establecidos en el artículo 152, fracción I, de la Ley de Hacienda del Estado de Querétaro con relación a la expedición y renovación de licencia para conducir, tipos C y D, conforme a lo que establezca la Secretaría de Finanzas, previa solicitud de la Secretaría de Seguridad Ciudadana;
+
+XXX. Se faculta al Titular de la Secretaría de Seguridad Ciudadana para emitir, en ejercicio de sus facultades, los lineamientos correspondientes para la aplicación del tarjetón establecido en la fracción IV del artículo 152 de la Ley de Hacienda del Estado de Querétaro, previa validación de la Secretaría de Salud y de la Secretaría de Finanzas;
+
+XXXI. La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro realizará las acciones administrativas conducentes para efecto de elaborar las formas oficiales a través de las cuales los sujetos obligados enterarán los impuestos previstos en los Capítulos Sexto y Sexto Bis del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXXII. Se faculta al Titular de la Secretaría de Finanzas del Poder Ejecutivo para que, en el ejercicio de sus facultades, expida los acuerdos y lineamientos administrativos necesarios para el manejo de los asuntos económicos, financieros y tributarios del Estado.
+
+Asimismo, estará facultado para expedir aquellos que autoricen los estímulos fiscales a través de disposiciones y procesos relativos a los numerales 70 al 73 de la Ley de Hacienda del Estado de Querétaro que tengan por objeto establecer los mecanismos para optimizar la recaudación estatal.
+
+Para el ejercicio fiscal 2025, se autoriza a la Secretaría de Finanzas del Poder Ejecutivo para que por su conducto autorice los esquemas necesarios a efecto de otorgar estímulos fiscales directos respecto al capítulo noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXXIII. Se faculta a las autoridades fiscales para emitir y autorizar los esquemas necesarios a efecto de otorgar beneficios fiscales o estímulos del Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2025, a través de programas estatales vinculados al Plan Estatal de Desarrollo 2021-2027, así como aquellos generados por declaración oportuna o anticipada de dichas contribuciones;
+
+XXXIV. Los contribuyentes de los impuestos establecidos en las Secciones II, III y IV del Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, podrán reducir de la base gravable, las toneladas o su correspondiente conversión, que se certifiquen mediante los sellos de bajas de emisiones otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Sustentable del Poder Ejecutivo, relativos a la compensación de emisiones de gases de efecto invernadero a la atmósfera y la absorción de bióxido de carbono por actividades de conservación de zonas forestales, energía, ganadería sustentable y reducción de emisiones en el manejo de residuos, en términos de lo previsto en la Ley de Cambio Climático para el Estado de Querétaro, debiendo para tal efecto emitir la disposición o los lineamientos correspondientes, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XXXV. Los recursos obtenidos en términos de lo previsto en el Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, serán destinados principalmente a obras de infraestructura en el Estado, así como para proyectos ambientales;
+
+XXXVI. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo, para la aplicación de estímulos fiscales de hasta el veinte por ciento por concepto del impuesto por remediación ambiental causado por la erosión del suelo, establecido en el artículo 83 BIS-5 de la Ley de Hacienda del Estado de Querétaro, en términos de los lineamientos que para tal efecto se emitan;
+
+XXXVII. En el caso de los derechos que se causen en términos de la Ley de Hacienda del Estado de Querétaro, se utilizará la Unidad de Medida y Actualización para su determinación y cálculo, de conformidad con lo establecido en la Ley de la Unidad de Medida y Actualización del Estado de Querétaro y demás disposiciones que al efecto resulten aplicables. Así mismo, en términos de los numerales 169 QUÁTER y 170 de la Ley de Hacienda del Estado de Querétaro se fijan los derechos en pesos, a efecto de que su cobro resulte más dinámico;
+
+XXXVIII. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana por las infracciones establecidas en el artículo 48 del Reglamento de la Ley de Tránsito para el Estado de Querétaro, serán destinados preferentemente a proyectos y programas de Seguridad, de conformidad a lo establecido en el Plan Estatal de Desarrollo 2021-2027;
+
+XXXIX. Se faculta a la Secretaría de Gobierno para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo 2021-2027, en que se autoricen reducciones hasta en un noventa por ciento de las multas administrativas generadas por conceptos vinculados al Capítulo Octavo del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2025, de conformidad con los criterios de procedencia que para tal efecto establezca la Secretaría de Finanzas; y
+
+XL. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+###### ARTÍCULO SÉPTIMO.
+
+De los recursos obtenidos por concepto de los derechos establecidos en las fracciones III a la XII del artículo 168 de la Ley de Hacienda del Estado de Querétaro se destinará, por cada operación realizada conforme a dichas disposiciones, un monto de $5.00 (cinco pesos 00/100 M.N.), para la ejecución de acciones en materia de protección al ambiente, preservación y restauración del equilibrio ecológico de las entidades pertenecientes a la Comisión Ambiental de la Megalópolis durante la vigencia del convenio que para tal efecto se celebre entre el Poder Ejecutivo del Estado de Querétaro y la Secretaría de Medio Ambiente y Recursos Naturales.
+
+###### ARTÍCULO OCTAVO.
+
+Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
