@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2023-11-13"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE JUNIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 13 DE NOVIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -72,7 +70,9 @@ II. Las prerrogativas y obligaciones de los Partidos Políticos Nacionales, Loca
 
 III. La constitución, derechos y obligaciones de las Agrupaciones Políticas Locales;
 
-IV. Las elecciones para Jefa o Jefe de Gobierno, Diputadas y Diputados al Congreso de la Ciudad de México, Alcaldesas o Alcaldes y Concejales;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Las elecciones para Jefa o Jefe de Gobierno, Diputadas y Diputados al Congreso de la Ciudad de México, Alcaldesas o Alcaldes, Concejales y Concejalas y personas Magistradas y Juzgadoras del Poder Judicial de la Ciudad de México;
 
 V. Las bases del régimen sancionador electoral y el régimen sancionador en materia de participación ciudadana;
 
@@ -194,6 +194,10 @@ XXII. Organizaciones ciudadanas. Aquellas personas morales sin fines de lucro, c
 
 XXIII. Originarias. Las personas nacidas en la Ciudad de México, así como a sus hijos e hijas;
 
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXIII Bis. Personas Juzgadoras. Las Magistradas y Magistrados, Jueces y Juezas, integrantes del Poder Judicial de la Ciudad de México, electas por el voto secreto y directo de la ciudadanía;
+
 XXIV. Pleno del Tribunal. El Pleno del Tribunal Electoral de la Ciudad de México;
 
 XXV. Titular. La persona servidora pública en cargo de elección popular que pretenda y contienda para ser reelecto de manera consecutiva al mismo cargo que desempeña;
@@ -232,6 +236,10 @@ II Quáter. Estado de postración. Es un abatimiento por enfermedad o aflicción
 
 Para tal efecto, deberá garantizarse, conforme a los principios rectores de la materia electoral y bajo supervisión y vigilancia de los partidos políticos, un mecanismo previo a la jornada electoral que permita el ejercicio del voto de dichas personas ciudadanas. Los votos serán abiertos y computados hasta la etapa correspondiente, el domingo de la elección.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para el caso de la elección de las personas integrantes del Poder Judicial de la Ciudad de México, los partidos políticos no podrán vigilar y supervisar el mecanismo para el ejercicio del voto de las personas en estado de postración.
+
 (REFORMADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
 III. Paridad de género. Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical.
@@ -258,9 +266,9 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley De Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-(REFORMADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VIII. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
+VIII. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular, incluidas las correspondientes a personas juzgadoras.
 
 (ADICIONADA, G.O. 29 DE JULIO DE 2020) (F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)
 
@@ -290,17 +298,17 @@ En la Ciudad de México, son derechos de las ciudadanas y de los ciudadanos:
 
 I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables.
 
-> <small>(F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno y para las personas Diputadas y Diputados Locales exclusivamente para el caso de candidatos a Diputada o Diputado Migrante, de conformidad con lo dispuesto en la Constitución Federal, las Leyes Generales, la Constitución Local, y este Código;
+Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno, para las personas Diputadas y Diputados Locales exclusivamente para el caso de candidatura a la diputación migrante, personas magistradas y juzgadoras, de conformidad con lo dispuesto en la Constitución Federal, las Leyes Generales, la Constitución Local, y este Código;
 
 > <small>(F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)</small>
 
 Las personas en estado de postración con credencial de elector de la Ciudad de México, tendrán a salvo sus derechos para ejercer su voto en los términos mencionados en el primer párrafo de esta fracción.
 
-> <small>(F. DE E., G.O. 13 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Las personas que se encuentren sujetas a prisión preventiva sin sentencia firme tienen derecho a emitir su voto en la elección para la Jefatura de Gobierno, las diputaciones del Congreso, Alcaldías y presupuesto participativo en la Ciudad de México.
+Las personas que se encuentren sujetas a prisión preventiva sin sentencia firme tienen derecho a emitir su voto en la elección para la Jefatura de Gobierno, las diputaciones del Congreso, Alcaldías, cargos del Poder Judicial de la Ciudad de México y presupuesto participativo en la Ciudad de México.
 
 II. Asociarse libre, individual y voluntariamente a una Asociación Política para participar en forma pacífica en los asuntos políticos de la Ciudad de México;
 
@@ -309,6 +317,10 @@ III. Participar como observadores en todas las etapas de los procesos electorale
 IV. Ser votados para todos los cargos de elección popular en la Ciudad de México, así como para contender para ser reelectos en los casos y con las calidades que establece la ley de la materia; así como solicitar su registro para su candidatura sin partido, cuando cumplan los requisitos, condiciones y términos que determine este Código.
 
 El derecho de solicitar el registro como candidata o candidato sin partido a la Jefatura de Gobierno de la Ciudad de México, diputaciones al Congreso Local, Alcaldesa o Alcalde y Concejales ante la autoridad electoral corresponde a los partidos políticos, así como a las y los ciudadanos que cumplan con los requisitos, condiciones y términos que establezca la Constitución Federal, los Tratados Internacionales de Derechos Humanos, la Constitución Local, este Código y la demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para la elección de personas juzgadoras, éstas deberán sujetarse igualmente a los requisitos, reglas y procedimientos establecidos en la Constitución Federal, la Constitución Local, este Código y la demás normatividad aplicable.
 
 V. Solicitar la información pública a las autoridades electorales y a las asociaciones políticas de conformidad con la Ley de Transparencia y a los Partidos Políticos con relación a sus compromisos de campaña y el cumplimiento de sus plataformas electorales;
 
@@ -692,6 +704,20 @@ VI. No haber sido sentenciada o sentenciado por el delito de violencia política
 
 Los requisitos para ser concejal serán los mismos que para las personas titulares de las alcaldías, con excepción de la edad que será de 18 años.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+Para ser Persona Juzgadora se requiere:
+
+I. Que la persona candidata presente su declaración patrimonial en los tiempos y términos que determine el Instituto Electoral;
+
+II. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias, ni en el Registro de Personas Agresoras Sexuales que se encuentren vigentes en la Ciudad de México;
+
+III. No estar inscrito en el Registro de Personas Sancionadas en materia de violencia política contra las mujeres en razón de género en la Ciudad de México, y
+
+IV. No haber sido condenado por el delito de violencia familiar y en cualquiera de sus modalidades.
+
 > <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 22.
@@ -1010,9 +1036,11 @@ Las autoridades electorales podrán requerir el apoyo y colaboración de los ór
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-A través del Instituto Electoral se realiza la organización, el desarrollo y la vigilancia de los procesos electorales para las elecciones de Jefatura de Gobierno, diputaciones al Congreso y de las alcaldías en la Ciudad de México, así como de los procesos de participación ciudadana; también tendrá a su cargo el diseño y la implementación de las estrategias, programas, materiales y demás acciones orientadas al fomento de la educación cívica y la construcción de ciudadanía.
+A través del Instituto Electoral se realiza la organización, el desarrollo y la vigilancia de los procesos electorales para las elecciones de Jefatura de Gobierno, diputaciones al Congreso, alcaldías, y de las personas juzgadoras del Poder Judicial de la Ciudad de México, así como de los procesos de participación ciudadana; también tendrá a su cargo el diseño y la implementación de las estrategias, programas, materiales y demás acciones orientadas al fomento de la educación cívica y la construcción de ciudadanía.
 
 En el ejercicio de esta función, serán principios rectores la certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad.
 
@@ -1032,7 +1060,9 @@ III. Garantizar a la ciudadanía el ejercicio de los derechos político-electora
 
 III Bis. Garantizar el derecho al voto de las personas en prisión preventiva sin sentencia firme, de conformidad con lo establecido en el presente Código.
 
-IV. Garantizar la celebración periódica, auténtica y pacífica de las elecciones para renovar a los integrantes del Congreso de la Ciudad de México, al Jefe de Gobierno y de las Alcaldías;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Garantizar la celebración periódica, auténtica y pacífica de las elecciones para renovar a las y los integrantes del Congreso de la Ciudad de México, a las personas titulares de la Jefatura de Gobierno, Alcaldías y personas del Poder Judicial;
 
 > <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
@@ -1084,7 +1114,9 @@ l) Ordenar la realización de conteos rápidos basados en las actas de escrutini
 
 m) Implementar el Programa de Resultados Electorales Preliminares de las elecciones de la Ciudad de México, de conformidad con el Reglamento de Elecciones y demás lineamientos que emita el Instituto Nacional;
 
-n) Efectuar el escrutinio y cómputo total de las elecciones y emitir la declaración de validez y el otorgamiento de constancias de mayoría en las elecciones de Jefe de Gobierno, alcaldías, concejales y diputaciones del Congreso de la Ciudad de México;
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+n) Efectuar el escrutinio y cómputo total de las elecciones y emitir la declaración de validez y el otorgamiento de constancias de mayoría en las elecciones de las personas titulares de la Jefatura de Gobierno, alcaldías, concejalías, diputaciones del Congreso, e integrantes del Poder Judicial de la Ciudad de México;
 
 ñ) Fiscalizar el origen, monto y destino de los recursos erogados por las agrupaciones políticas locales y las organizaciones de ciudadanos que pretendan constituirse como partido político local.
 
@@ -1262,9 +1294,15 @@ Cada Partido Político, a través de sus órganos de dirección en la Ciudad de 
 
 Los representantes, propietario y suplente, podrán ser sustituidos libremente en todo tiempo por el órgano directivo facultado para su designación.
 
-Durante los procesos electorales, los Candidatos sin partido al cargo de Jefe de Gobierno comunicarán por escrito al Consejero Presidente la designación de sus representantes para que asistan a las sesiones del Consejo General y sus Comisiones, a efecto de tratar exclusivamente asuntos relacionados con dicha elección, quienes no contarán para efectos de quórum y sólo tendrán derecho a voz. El Instituto Electoral no tendrá con los representantes mencionados vinculación de tipo laboral o administrativa, ni les otorgará recursos humanos o materiales.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Durante los procesos electorales, las Personas Candidatas sin partido al cargo de la titularidad de la Jefatura de Gobierno comunicarán por escrito a la o el Consejero Presidente la designación de sus representantes para que asistan a las sesiones del Consejo General y sus Comisiones, a efecto de tratar exclusivamente asuntos relacionados con dicha elección, quienes no contarán para efectos de quórum y sólo tendrán derecho a voz. El Instituto Electoral no tendrá con los representantes mencionados vinculación de tipo laboral o administrativa, ni les otorgará recursos humanos o materiales.
 
 Los representantes de los mencionados Candidatos sin partido serán notificados de las convocatorias a las sesiones del Consejo General y las Comisiones en el domicilio que acrediten dentro de la Ciudad de México que al afecto señalen o en los estrados del Instituto Electoral.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Durante los procesos electorales para la integración del Poder Judicial, los partidos políticos y las personas candidatas sin partido no contarán con representantes. Cuando la elección de personas juzgadoras sea concurrente con otros procesos electorales, los partidos políticos y las personas candidatas sin partido designarán a sus representantes para los efectos dispuestos en el presente artículo, manteniéndose la excepción referida en este párrafo.
 
 El Instituto Electoral no tendrá con los representantes de Candidatos sin partido vínculo de tipo laboral o administrativo, ni les otorgará recursos humanos o materiales.
 
@@ -1434,7 +1472,9 @@ XXXII. Verificar el cumplimiento de los criterios generales que emita el Institu
 
 XXXIII. Determinar la viabilidad de realizar conteos rápidos y ordenar su realización con base en las actas de escrutinio y cómputo de casilla, a fin de conocer las tendencias de los resultados el día de la jornada electoral, tratándose de las elecciones de Diputaciones al Congreso Local y de Alcaldías. Será obligatoria su realización en el caso de la elección de Jefatura de Gobierno.
 
-XXXIV. Efectuar el cómputo total de las elecciones de la Jefatura de Gobierno, Diputaciones de representación proporcional, Alcaldías y Concejales de representación proporcional, así como otorgar las constancias respectivas;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Efectuar el cómputo total de las elecciones de la Jefatura de Gobierno, Diputaciones de representación proporcional, Alcaldías y Concejalías de representación proporcional, y del Poder Judicial de la Ciudad de México, así como otorgar las constancias respectivas;
 
 XXXV. Emitir los acuerdos generales, y realizar el cómputo total de los procesos de participación ciudadana, conforme a lo previsto en la normatividad de la materia;
 
@@ -1505,6 +1545,10 @@ Para el desempeño de sus atribuciones, cumplimiento de obligaciones y supervisi
 ###### Artículo 53.
 
 Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Se integrarán por Consejera o Consejero Presidente y dos Consejeras o Consejeros Electorales bajo el principio de paridad de género, contando con derecho a voz y voto; y serán integrantes con derecho a voz las y los representantes de los partidos políticos y Candidatos sin partido, a partir de su registro y exclusivamente durante el proceso electoral, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización, y no conformarán quórum. La presidencia de cada una de las Comisiones se determinará por acuerdo del Consejo General.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Los representantes de los partidos políticos y las personas candidatas sin partido no integrarán las Comisiones en las que se traten asuntos de los cargos de elección popular del Poder Judicial de la Ciudad de México.
 
 Contarán con un Secretario Técnico sólo con derecho a voz, designado por sus integrantes a propuesta de su Presidente y tendrán el apoyo y colaboración de los órganos ejecutivos y técnicos del Instituto Electoral.
 
@@ -1878,13 +1922,21 @@ Las Comisiones Provisionales tendrán la integración que determine el Consejo G
 
 El Consejo General aprobará una Comisión Provisional para que formule el proyecto de Programa General de Desarrollo del Instituto Electoral, el cual deberá presentarse para su aprobación a más tardar en enero del año que corresponda.
 
-> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 70 Bis.
 
-Para garantizar el derecho al voto de las personas en prisión preventiva sin sentencia firme, durante las elecciones para la Jefatura de Gobierno, Diputaciones al Congreso local, así como Alcaldías, el Consejo General conformará una Comisión provisional encargada de coordinar las actividades tendientes a recabar el voto.
+Para garantizar el derecho al voto de las personas en prisión preventiva sin sentencia firme, durante las elecciones para la Jefatura de Gobierno, Diputaciones al Congreso local, Alcaldías y cargos del Poder Judicial de la Ciudad de México, el Consejo General conformará una Comisión provisional encargada de coordinar las actividades tendientes a recabar el voto.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
 
 Serán personas integrantes de esta comisión, tres personas Consejeras Electorales con derecho a voz y voto, una persona representante de cada Partido Político quienes sólo tendrán derecho a voz. La Secretaría de Seguridad Ciudadana de la Ciudad de México podrá emitir a la comisión, únicamente opiniones en materia logística-administrativa en las tareas en que se vea involucrada, dentro del marco de sus atribuciones y a partir de los instrumentos electorales aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Cuando se discutan asuntos respecto de la elección de las personas integrantes del Poder Judicial de la Ciudad de México, las personas representantes de cada partido político no podrán participar en la Comisión a la que se refiere el presente artículo.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
 
 Dicha Comisión deberá instalarse el año anterior en que se verifique la jornada electoral y tendrá las siguientes atribuciones:
 
@@ -1900,6 +1952,8 @@ V. Presentar bajo el principio de austeridad y máxima eficacia al Consejo Gener
 
 VI. Las demás que establezca este Código, demás leyes y ordenamientos aplicables en la materia.
 
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
 La Comisión observará en el ejercicio de sus atribuciones los lineamientos que al efecto emita el Instituto Nacional, cuando esto sea aplicable.
 
 ###### Artículo 71.
@@ -1914,7 +1968,9 @@ III. Dar seguimiento a los Sistemas Informáticos que apruebe el propio Consejo 
 
 La Comisión señalada en la fracción I deberá quedar instalada a más tardar en la primera quincena de octubre del año anterior al en que se verifique la jornada electoral. Las indicadas en las fracciones II y III dentro de los treinta días siguientes al inicio formal del proceso electoral ordinario.
 
-En estas Comisiones Provisionales participarán como integrantes, sólo con derecho a voz y sin efectos en el quórum, un representante de cada Partido Político o Coalición y uno por cada Grupo Parlamentario.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+En estas Comisiones Provisionales participarán como integrantes, sólo con derecho a voz y sin efectos en el quórum, un representante de cada Partido Político o Coalición y uno por cada Grupo Parlamentario, con excepción para la elección de las personas integrantes del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 72.
 
@@ -1938,15 +1994,21 @@ Durante los Procesos Electorales funcionará un Comité Especial que dé seguimi
 
 Se integrará por las y los Consejeros Electorales que formen parte de las Comisiones de Organización Electoral y Geoestadística y de Participación Ciudadana y Capacitación, quienes tendrán derecho a voz y voto; una o un representante de cada Partido Político o Coalición y de cada Grupo Parlamentario; de las y los titulares de la Secretaría Ejecutiva, de la Dirección Ejecutiva de Organización Electoral y Geoestadística, quien fungirá como la o el Secretario del Comité, y quien ocupe la titularidad de la Unidad de Sistemas Informáticos, quienes tendrán derecho a voz y no contarán para el quórum.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para el caso de la elección de las personas integrantes del Poder Judicial de la Ciudad de México, los representantes de cada Partido Político o Coalición y de cada Grupo Parlamentario no podrán ser integrantes del Comité Especial al que se refiere este artículo.
+
 El Consejo General declarará, mediante acuerdo, el inicio formal de los trabajos del Comité Especial y designará al Consejero Electoral que lo presidirá.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 76.
 
-En los procesos electorales en que tenga verificativo la elección de Jefa o Jefe de Gobierno, Alcaldías, renovación del Congreso Local y/o de Persona Diputada Migrante, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las personas originarias de la Ciudad de México residentes en el extranjero y de las personas en estado de postración.
+En los procesos electorales en que tenga verificativo la elección de Jefa o Jefe de Gobierno, Alcaldías, renovación del Congreso Local y/o de Persona Diputada Migrante y, en su caso, del Poder Judicial de la Ciudad de México, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las personas originarias de la Ciudad de México residentes en el extranjero, personas en prisión preventiva y de las personas en estado de postración.
 
-Serán integrantes de este Comité, tres Consejeros Electorales con derecho a voz y voto, y un representante de cada Partido Político quienes sólo tendrán derecho a voz.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Serán integrantes de este Comité, tres personas consejeras Electorales con derecho a voz y voto, y una persona representante de cada Partido Político quienes sólo tendrán derecho a voz, con excepción de los procesos electorales para los cargos de elección popular de personas juzgadoras donde los representantes de partido no cuentan con participación. Cuando la elección de personas juzgadoras sea concurrente con otros procesos electorales, los partidos políticos designarán a sus representantes manteniéndose la excepción referida en este párrafo.
 
 Deberá instalarse el mes de febrero del año anterior en que se verifique la jornada electoral y tendrá, en las siguientes atribuciones:
 
@@ -2086,7 +2148,9 @@ Son derechos y obligaciones de los Representantes de los Partidos Políticos y G
 
 I. Cumplir con lo dispuesto en este Código, las Leyes Generales y los acuerdos del Consejo General;
 
-II. Ser convocados oportunamente a las sesiones del Consejo General y asistir a las mismas;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Ser convocados oportunamente a las sesiones del Consejo General y asistir a las mismas, salvo lo vinculado con la elección de las personas integrantes del Poder Judicial de la Ciudad de México;
 
 III. Recibir junto con la convocatoria respectiva, la documentación necesaria para el análisis de los puntos del orden del día de las sesiones del Consejo General, proponer algún punto en el orden del día y, en su caso, solicitar mayor información y copia simple o certificada de los documentos que obren en los archivos del Instituto Electoral;
 
@@ -2103,6 +2167,10 @@ VIII. Integrar las Comisiones y Comités conforme a las hipótesis establecidas 
 IX. Ser convocados a las actividades institucionales vinculadas a los asuntos competencia del Consejo General.
 
 X. Solicitar a la Secretaría Ejecutiva las copias certificadas que estime pertinentes, las cuales serán expedidas sin costo alguno.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de procesos electorales para los cargos de elección popular de personas juzgadoras, lo previsto en este artículo no será aplicable en términos de lo dispuesto por el párrafo quinto del artículo 46 de este Código.
 
 ### CAPÍTULO V. DE LA JUNTA ADMINISTRATIVA
 
@@ -3022,6 +3090,10 @@ Son integrantes del Consejo Distrital con derecho a voz y voto, la persona que p
 
 Son también integrantes del Consejo Distrital con derecho a voz, un representante por cada Partido Político o Coalición y el Secretario de Órgano Desconcentrado de la Dirección Distrital correspondiente, quien fungirá como Secretario del Consejo Distrital.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para el caso de la elección de las personas integrantes del Poder Judicial de la Ciudad de México, los representantes de cada partido o coalición no podrán ser integrantes del Consejo Distrital.
+
 Para efectos del escrutinio y cómputo de votos, los Candidatos sin partido podrán designar un representante ante la instancia correspondiente del Instituto electoral, únicamente durante los procesos electorales en que participen.
 
 Igualmente, los Candidatos sin partido registrados podrán designar a un representante ante el Consejo Distrital que corresponda, con derecho a voz.
@@ -3334,7 +3406,9 @@ b) Conminar a abandonar el local, y
 
 c) Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-En las mesas de sesiones de los consejos sólo ocuparán lugar y tomarán parte en las deliberaciones las Consejeras y los Consejeros y los representantes de los partidos políticos.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+En las mesas de sesiones de los consejos sólo ocuparán lugar y tomarán parte en las deliberaciones las Consejeras y los Consejeros y las personas representantes de los partidos políticos; estos últimos no participarán en la elección del Poder Judicial.
 
 Las autoridades federales, de las entidades federativas y municipales están obligadas a proporcionar a los órganos del Instituto Electoral, a petición de los presidentes respectivos, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
 
@@ -3524,7 +3598,9 @@ El Tribunal Electoral es la autoridad jurisdiccional especializada en materia el
 
 Es competente para conocer y resolver de forma definitiva:
 
-I. Los medios de impugnación en materia electoral y de participación ciudadana sometida a su competencia, relacionada con probables irregularidades en el desarrollo de estos procesos,
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I. Los medios de impugnación en materia electoral y de participación ciudadana sometida a su competencia, relacionada con probables irregularidades en el desarrollo de estos procesos, así como el relativo al proceso de elección de personas juzgadoras del Poder Judicial,
 
 II. De las violaciones a los derechos político electorales de las personas,
 
@@ -3704,7 +3780,9 @@ El Pleno adopta sus determinaciones por mayoría de votos de las Magistradas y M
 
 Es atribución del Tribunal Electoral sustanciar y resolver en forma definitiva e inatacable, las controversias sometidas a su competencia, a través de los medios de impugnación y juicios siguientes:
 
-I. Los juicios relativos a las elecciones de la jefatura de Gobierno, las Diputaciones del Congreso de la Ciudad de México y de las personas integrantes de las Alcaldías;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I. Los juicios relativos a las elecciones de la jefatura de Gobierno, las Diputaciones del Congreso de la Ciudad de México, de las personas integrantes de las Alcaldías; así como de personas juzgadoras del Poder Judicial;
 
 II. Los juicios por actos y resoluciones de las autoridades electorales en los procedimientos de participación ciudadana que expresamente establezcan este Código y la ley de la materia;
 
@@ -4796,11 +4874,11 @@ Los Partidos Políticos locales se constituirán por ciudadanas y ciudadanos de 
 
 Los partidos políticos respetarán los derechos de militancia, asociación y libre expresión de sus integrantes.
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 242.
 
-Los Partidos Políticos con registro nacional y los Partidos Políticos con registro local en la Ciudad de México tienen el derecho a solicitar el registro de candidaturas a cargos locales de elección popular, sin perjuicio de las candidaturas sin partidos y en los términos y condiciones establecidas en la Ley de Partidos, el presente ordenamiento y las demás disposiciones aplicables, una vez que hayan acreditado ante el Instituto Electoral el respectivo Protocolo para Prevenir, Atender y Erradicar la Violencia Política en Razón de Género al interior del partido político.
+Los Partidos Políticos con registro nacional y los Partidos Políticos con registro local en la Ciudad de México tienen el derecho a solicitar el registro de candidaturas a cargos locales de elección popular, con excepción de los procesos electorales para los cargos de las personas juzgadoras del Poder Judicial, sin perjuicio de las candidaturas sin partidos y en los términos y condiciones establecidas en la Ley de Partidos, el presente ordenamiento y las demás disposiciones aplicables, una vez que hayan acreditado ante el Instituto Electoral el respectivo Protocolo para Prevenir, Atender y Erradicar la Violencia Política en Razón de Género al interior del partido político.
 
 ## TÍTULO SEGUNDO. DE LA NATURALEZA, CONSTITUCIÓN Y REGISTRO DE LAS ASOCIACIONES POLÍTICAS
 
@@ -4980,9 +5058,17 @@ XI. Garantizar la participación de las mujeres en la toma de decisiones e incor
 
 XII. Adoptar los procedimientos que garanticen los derechos de los militantes y permitan impugnar las resoluciones de sus órganos internos;
 
-XIII. No utilizar en su promoción los símbolos patrios, símbolos religiosos, o expresiones, alusiones o fundamentaciones de carácter religioso, y
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIV. No utilizar bajo ninguna circunstancia, las denominaciones de "partido" o "partido político".
+XIII. No utilizar en su promoción los símbolos patrios, símbolos religiosos, o expresiones, alusiones o fundamentaciones de carácter religioso;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XIV. No utilizar bajo ninguna circunstancia, las denominaciones de "partido" o "partido político", y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XV. Abstenerse de participar activamente, o a través de terceros, en la elección de personas juzgadoras del Poder Judicial y que se lleven a cabo en la Ciudad de México.
 
 #### SECCIÓN TERCERA. DE LA FUSIÓN
 
@@ -5076,9 +5162,9 @@ I. Nacionales, los que hayan obtenido y conserven vigente su registro ante el In
 
 II. Locales, los que obtengan su registro como tales ante el Instituto Electoral, en los términos de la Constitución Local y este Código.
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Los Partidos Políticos nacionales que cuenten con el registro respectivo ante el Instituto Nacional, y los locales ante el Instituto Electoral, durante el mes de septiembre previo a la elección tendrán derecho a solicitar por escrito su acreditación en términos del artículo 258 de este Código, a fin de participar en los procesos electorales de la Ciudad de México, para elegir Diputadas o Diputados Locales por los principios de mayoría relativa y de representación proporcional, a las personas titulares de la Jefatura de Gobierno, y de las Alcaldías, así como Concejalías por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Federal, la Constitución Local, la Ley de Partidos, este Código y demás ordenamientos aplicables.
+Los Partidos Políticos nacionales que cuenten con el registro respectivo ante el Instituto Nacional, y los locales ante el Instituto Electoral, durante el mes de septiembre previo a la elección tendrán derecho a solicitar por escrito su acreditación en términos del artículo 258 de este Código, a fin de participar en los procesos electorales de la Ciudad de México, para elegir Diputadas o Diputados Locales por los principios de mayoría relativa y de representación proporcional, a las personas titulares de la Jefatura de Gobierno, y de las Alcaldías, así como Concejalías por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Federal, la Constitución Local, la Ley de Partidos, este Código y demás ordenamientos aplicables; salvo para la elección del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 258.
 
@@ -5304,7 +5390,9 @@ Los Partidos Políticos de nuevo registro no podrán convenir frentes, coalicion
 
 Son prerrogativas de los Partidos Políticos:
 
-I. Participar, conforme a lo dispuesto en la Constitución Federal, en la Constitución Local y en este Código, en el proceso electoral;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I. Participar, conforme a lo dispuesto en la Constitución Federal, en la Constitución Local y en este Código, en el proceso electoral, con excepción de los procesos electorales para los cargos de personas juzgadoras del Poder Judicial;
 
 II. Gozar de las garantías que este Código les otorga para realizar sus actividades;
 
@@ -5441,6 +5529,10 @@ XXII. Garantizar la participación de la juventud en la toma de decisiones e inc
 (NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA PLANTEADA EN LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2017, ATRIBUIDA A LA FRACCIÓN XXIII DE ESTE ARTÍCULO, RELATIVA A ESTABLECER EN ESTE CÓDIGO MECANISMOS POLÍTICO-ELECTORALES ESPECÍFICOS RELACIONADOS CON EL ACCESO A CARGOS DE ELECCIÓN POPULAR DE LAS PERSONAS INTEGRANTES DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO; EN LA INTELIGENCIA DE QUE LA ASAMBLEA LEGISLATIVA DE LA CIUDAD DE MÉXICO DEBERÁ EMITIR, PREVIA CONSULTA A LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE LA CIUDAD DE MÉXICO, EL ACTO LEGISLATIVO QUE SUBSANE ESA OMISIÓN, EL CUAL DEBERÁ ENTRAR EN VIGOR ANTES DEL PROCESO ELECTORAL SIGUIENTE AL QUE INICIE EN ESA LOCALIDAD EN EL MES DE OCTUBRE DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 XXIII. Garantizar la participación política de los integrantes de pueblos y comunidades indígenas e incorporar en sus acciones de formación y capacitación política programas específicos para ellos, además procurarán su acceso efectivo a los cargos de representación;
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXIII Bis. Abstenerse de participar de manera directa e indirecta en la elección de personas integrantes del Poder Judicial, y
 
 XXIV. Las demás que establezcan este Código y los ordenamientos aplicables.
 
@@ -6528,6 +6620,8 @@ Para el ejercicio de sus atribuciones, las autoridades de la Ciudad de México, 
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 354.
 
 Los Partidos Políticos nacionales o locales, que de acuerdo con la legislación aplicable, pierdan su registro, se estarán a lo dispuesto en la Constitución Federal, La (sic) Leyes Generales, la Constitución Local y este Código. Los triunfos obtenidos en la última elección les serán respetados y, de ser el caso, tendrán derecho a la asignación de Diputaciones por el principio de representación proporcional, en los términos que dispone este Código.
@@ -6600,9 +6694,11 @@ g) En todo tiempo deberá garantizarse al partido político de que se trate el e
 
 ### CAPÍTULO II. DEL PROCESO ELECTORAL ORDINARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 356.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, las Leyes Generales, la Constitución Local, este Código y demás leyes relativas, realizado por las autoridades electorales, los Partidos Políticos o Coaliciones y los ciudadanos, que tiene por objeto la renovación periódica de Diputaciones del Congreso de la Ciudad de México, de la Jefatura de Gobierno y de las Alcaldías.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, las Leyes Generales, la Constitución Local, este Código y demás leyes relativas, realizado por las autoridades electorales, los Partidos Políticos o Coaliciones y los ciudadanos, que tiene por objeto la renovación periódica de Diputaciones del Congreso de la Ciudad de México, de la Jefatura de Gobierno, Alcaldías y del Poder Judicial de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
 
@@ -6620,7 +6716,7 @@ Durante los procesos electorales y de participación ciudadana todos los días y
 
 ###### Artículo 358.
 
-Las elecciones ordinarias de Diputaciones del Congreso de la Ciudad de México, de la Jefatura de Gobierno y Alcaldías deberán celebrarse el primer domingo de junio del año que corresponda.
+Las elecciones ordinarias de Diputaciones del Congreso de la Ciudad de México, de la Jefatura de Gobierno, y Alcaldías y del Poder Judicial de la Ciudad de México, deberán celebrarse el primer domingo de junio del año que corresponda.
 
 La totalidad del proceso electoral de la Ciudad de México será concurrente en sus fechas al proceso federal.
 
@@ -6641,6 +6737,10 @@ III. Cómputo y resultados de las elecciones, que se inicia con la recepción de
 IV. Declaratorias de validez, que se inicia al concluir el cómputo de cada elección y concluye con la entrega de las constancias de mayoría y las declaratorias de validez de las elecciones de Diputaciones del Congreso de la Ciudad de México y Alcaldes hechas por los órganos del Instituto Electoral, o en su caso, con las resoluciones que emita el Tribunal Electoral de la Ciudad de México, en este tipo de elecciones.
 
 En el caso de la elección de Jefatura de Gobierno, esta etapa concluirá con el bando expedido por el Congreso de la Ciudad de México, para dar a conocer a los habitantes de la Ciudad de México, la declaración de titular de la Jefatura de Gobierno electo que hubiere hecho el Tribunal Electoral de la Ciudad de México en términos de la Constitución Local y del presente Código.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para la elección del Poder Judicial, se atenderán las etapas previstas en el apartado específico del presente Código.
 
 ### CAPÍTULO IV. DE LOS PROCEDIMIENTOS Y MECANISMOS DE PARTICIPACIÓN CIUDADANA
 
@@ -6772,9 +6872,11 @@ Cada sección tendrá como mínimo 100 electores y como máximo 3,000.
 
 El fraccionamiento en secciones electorales estará sujeto a la revisión de la división del territorio nacional en distritos electorales, en los términos del artículo 53 de la Constitución Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 374.
 
-Durante el año de la elección y a fin de entregarlas a los representantes de los Partidos Políticos acreditados ante el Consejo General, y en su caso a los representantes de los candidatos sin partido, el organismo local realizará las acciones tendientes a obtener de las autoridades nacionales electorales, las Listas Nominales de Electores.
+Salvo lo relacionado con la elección del Poder Judicial de la Ciudad de México, durante el año de la elección y a fin de entregar a los representantes de los Partidos Políticos acreditados ante el Consejo General, y en su caso a los representantes de los candidatos sin partido, el organismo local realizará las acciones tendientes a obtener de las autoridades nacionales electorales, las Listas Nominales de Electores.
 
 Los Partidos Políticos acreditados ante el Consejo General podrán presentar las observaciones que consideren pertinentes al Padrón Electoral y las Listas Nominales de Electores bajo el siguiente procedimiento:
 
@@ -6790,9 +6892,11 @@ IV. La Dirección Ejecutiva de Organización Electoral y Geoestadística deberá
 
 El Instituto Electoral celebrará los convenios y acciones necesarias con el Instituto Nacional en materia de Padrón Electoral y Listas Nominales de Electores y cualquier otra medida que tienda al logro de los fines del propio Instituto Electoral, así como para la realización de procedimientos de participación ciudadana que determine la Ley en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 376.
 
-El Instituto Electoral en su caso aplicará la normatividad electoral a efecto de recibir en tiempo y forma el Registro Federal de Electores y las listas nominales para la jornada electoral, que se entregarán a los partidos políticos locales y candidatos sin partido.
+El Instituto Electoral en su caso aplicará la normatividad electoral a efecto de recibir en tiempo y forma el Registro Federal de Electores y las listas nominales para la jornada electoral, que se entregarán a los partidos políticos locales y candidatos sin partido, salvo para la elección del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 377.
 
@@ -7346,6 +7450,8 @@ IV. La Secretaría Ejecutiva del Consejo General ordenará la publicación de la
 
 ### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS SIN PARTIDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 414.
 
 El programa de integración de mesas directivas de casilla y capacitación electoral será elaborado por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica del Instituto Nacional y establecerá los procedimientos para la integración de las mesas directivas de casilla y la capacitación electoral de las ciudadanas y los ciudadanos.
@@ -7394,7 +7500,7 @@ El Instituto Electoral, promoverá la participación de los ciudadanos en las ta
 
 ###### Artículo 416.
 
-Los Partidos Políticos y Candidatos sin partido tendrán derecho a nombrar representantes ante las Mesas Directivas de Casilla, de acuerdo con lo siguiente:
+Salvo para la elección del Poder Judicial de la Ciudad de México, los Partidos Políticos y Candidatos sin partido tendrán derecho a nombrar representantes ante las Mesas Directivas de Casilla, de acuerdo con lo siguiente:
 
 I. Deberán ser acreditados por escrito ante el Consejo Distrital respectivo, durante el mes de mayo y hasta trece días antes del día de la elección, por quien tenga facultades de representación en los términos de este Código;
 
@@ -7710,7 +7816,9 @@ Tendrán derecho de acceso a las casillas:
 
 I. Los electores en el orden que se presenten a votar;
 
-II. Los representantes de los Partidos Políticos y Candidatos sin partido ante la Mesa Directiva de Casilla, debidamente acreditados en los términos de este Código;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Los representantes de los Partidos Políticos y Candidatos sin partido ante la Mesa Directiva de Casilla, debidamente acreditados en los términos de este Código, salvo en la elección del Poder Judicial;
 
 III. Los notarios públicos que deban dar fe de cualquier acto relacionado con la integración de la Mesa Directiva de Casilla, la instalación de la casilla y, en general, con el desarrollo de la votación siempre y cuando se hayan identificado ante el Presidente de la Mesa Directiva de Casilla y precisada la índole de la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación;
 
@@ -7756,6 +7864,8 @@ El acta deberá ser firmada por los funcionarios y representantes de los Partido
 
 ### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y LA REMISIÓN AL CONSEJO DISTRITAL
 
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 442.
 
 Una vez cerrada la votación, los integrantes de la Mesa Directiva de Casilla, procederán al escrutinio y cómputo de los votos sufragados en la casilla para determinar:
@@ -7792,6 +7902,10 @@ VII. Tratándose de partidos coaligados, si apareciera cruzado más de uno de su
 
 VIII. En el supuesto de que deba realizarse una o más elecciones extraordinarias, el Instituto Electoral proveerá los recursos, documentación y material electoral necesarios para el adecuado funcionamiento de las mesas directivas de casilla.
 
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IX. Para la elección del Poder Judicial, se atenderá lo previsto en el apartado correspondiente del presente Código
+
 ###### Artículo 444.
 
 Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
@@ -7816,6 +7930,10 @@ VI. Además de las causales enunciadas en las fracciones anteriores, se estará 
 
 En cuanto al empleo de programas gubernamentales o acciones institucionales extraordinarias, el desvió de recursos públicos con fines electorales, la compra o adjudicación de tiempos en radio y televisión, el rebase de los gastos de campaña y la violencia política, de conformidad con el artículo 27, apartado D, de la constitución local.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Las reglas de validez o nulidad de los votos para la elección del Poder Judicial, serán las previstas en el apartado correspondiente del presente Código.
+
 ###### Artículo 445.
 
 Concluido el escrutinio y el cómputo de todas las votaciones se levantarán las actas correspondientes de cada elección, asentándose en ellas lo siguiente:
@@ -7837,6 +7955,10 @@ VII. El número de electores que votaron de acuerdo a la Lista Nominal.
 Todos los funcionarios y los representantes de los Partidos Políticos, Coaliciones y Candidatos sin partido que actuaron en la casilla, deberán firmar las actas de escrutinio y cómputo de cada elección. Se entregará copia legible de dichas actas a los representantes de los Partidos Políticos, Coaliciones y Candidatos sin partido, recabando el acuse de recibo y procediendo a anular las actas que no hayan sido utilizadas.
 
 Quien represente a los Partidos Políticos, Coaliciones y Candidatos sin partido ante las casillas, tendrán derecho a firmar el acta bajo protesta, señalando los motivos de la misma.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para la elección del Poder Judicial, se atenderán las reglas previstas en el presente Código.
 
 ###### Artículo 446.
 
@@ -7874,11 +7996,15 @@ Cumplidas las acciones a que se refiere el artículo anterior, quienes presidan 
 
 ###### Artículo 448.
 
-Concluidas las operaciones establecidas en el Capítulo inmediato anterior por los funcionarios de la Mesa Directiva de Casilla, la Secretaría levantará constancia de la hora de clausura de la casilla y el nombre de los funcionarios y representantes que harán la entrega del paquete que contenga los expedientes de casilla. La constancia será firmada por los funcionarios de la casilla y los representantes de los Partidos Políticos y Candidatos sin partido que deseen hacerlo, recibiendo, estos últimos, copia de la misma.
+Concluidas las operaciones establecidas en el Capítulo inmediato anterior por los funcionarios de la Mesa Directiva de Casilla, la Secretaría levantará constancia de la hora de clausura de la casilla y el nombre de los funcionarios y representantes que harán la entrega del paquete que contenga los expedientes de casilla. La constancia será firmada por los funcionarios de la casilla y los representantes de los Partidos Políticos y Candidatos sin partido que deseen hacerlo, recibiendo, estos últimos, copia de la misma, esto último salvo, para la elección del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 449.
 
 Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad y en compañía de representantes de Partido Político, Candidatas y Candidatos sin partido que deseen hacerlo, entregarán sin dilación al Consejo Distrital que corresponda el paquete electoral de la casilla.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para la entrega del paquete electoral de la casilla que verse sobre la elección de integrantes del Poder Judicial de la Ciudad de México, las personas representantes de los Partidos Políticos y Candidatas y Candidatos sin partido, no podrán participar en la entrega del mismo.
 
 Lo establecido en el párrafo anterior se deberá realizar dentro de los plazos siguientes, contados a partir de la hora de clausura:
 
@@ -7920,7 +8046,9 @@ IV. La información de los hechos que puedan influir o alterar el resultado de l
 
 Los juzgados de distrito y los de la Ciudad de México, permanecerán abiertos durante el día de la elección. Igual obligación tienen las agencias del Ministerio Público y las oficinas que hagan sus veces.
 
-Los titulares de las Notarías Públicas en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, las y los ciudadanos y representantes de partidos políticos y de Candidatas o Candidatos sin partido, para dar fe de hechos o certificar documentos concernientes a la elección. Para estos efectos, el Colegio de Notarios publicará, cinco días antes del día de la elección, los nombres de sus miembros y los domicilios de sus oficinas.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Los titulares de las Notarías Públicas en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, las y los ciudadanos y representantes de partidos políticos y de Candidatas o Candidatos sin partido, o candidaturas a integrar el Poder Judicial, para dar fe de hechos o certificar documentos concernientes a la elección. Para estos efectos, el Colegio de Notarios publicará, cinco días antes del día de la elección, los nombres de sus miembros y los domicilios de sus oficinas.
 
 ## TITULO OCTAVO. OBTENCION DE RESULTADOS ELECTORALES
 
@@ -7978,6 +8106,10 @@ III. El de la votación de Alcaldesas, Alcaldes, y Concejales.
 
 Cada uno de los cómputos se realizará de forma sucesiva e ininterrumpidamente hasta su conclusión.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para la elección de las personas integrantes del Poder Judicial se atenderán las reglas que se prevén en el presente ordenamiento.
+
 ###### Artículo 455.
 
 Los Consejos Distritales harán las sumas de las actas de escrutinio y cómputo de las casillas, conforme a las reglas siguientes:
@@ -7988,7 +8120,9 @@ II. Si los resultados de las actas no coinciden, o se detectaren alteraciones ev
 
 Para ello, la Secretaría del Consejo Distrital, abrirá el paquete y cerciorado de su contenido, contabilizará en voz alta, las boletas no utilizadas, los votos nulos y los votos válidos, asentando la cantidad que resulte en el espacio del acta correspondiente.
 
-Al momento de contabilizar la votación nula y válida, los representantes de los partidos políticos que así lo deseen y un consejero electoral, verificarán que se haya determinado correctamente la validez o nulidad del voto emitido, de acuerdo a lo dispuesto por el artículo 368 de este Código.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Al momento de contabilizar la votación nula y válida, los representantes de los partidos políticos que así lo deseen y un consejero electoral, verificarán que se haya determinado correctamente la validez o nulidad del voto emitido, de acuerdo a lo dispuesto por el artículo 444 de este Código, para la elección del Poder Judicial se atenderá a las reglas previstas en este ordenamiento.
 
 Los resultados se anotarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se harán constar en dicha acta las objeciones que hubiese manifestado cualquiera de los representantes ante el consejo, quedando a salvo sus derechos para impugnar ante el Tribunal Electoral el cómputo de que se trate.
 
@@ -8038,6 +8172,10 @@ Los originales del acta circunstanciada de la sesión de cómputo y del informe 
 
 Quien ostente la Presidencia del Consejo Distrital, una vez cumplido el plazo para la interposición del medio de impugnación respectivo en contra de la elección de Diputaciones de mayoría relativa y no habiéndose presentado ninguno, enviará el expediente a la Secretaría Ejecutiva del Instituto Electoral para su resguardo. Los Consejos Distritales Cabeceras de la Demarcación Territorial, realizarán la operación anterior de igual forma en lo que se refiere a la elección de Alcaldesa, Alcaldes y Concejales.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para la elección de las personas integrantes del Poder Judicial se atenderán las reglas que se prevén en el presente ordenamiento.
+
 ###### Artículo 457.
 
 Recuento de votos.
@@ -8071,6 +8209,10 @@ Asimismo y en presencia de los representantes de los Partidos Políticos, Coalic
 El Consejo General acordará lo necesario para la destrucción de la documentación y del material electoral, dentro de los seis meses posteriores a la conclusión del proceso electoral.
 
 Se podrá exceptuar de lo anterior el material electoral que pueda ser reutilizado en otros procesos electorales o de participación ciudadana.
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 459.
 
@@ -8126,7 +8268,767 @@ VI. La Secretaría Ejecutiva integrará el expediente del cómputo de la Jefatur
 
 El Instituto Electoral conocerá de los efectos de las resoluciones del Tribunal Electoral de la Ciudad de México y, en su caso, del Tribunal Electoral del Poder Judicial de la Federación. El Instituto Electoral, de ser necesario, realizará las rectificaciones a los cómputos afectados por las resoluciones de dichos Tribunales, así como las expediciones o cancelaciones de constancias de mayoría o asignación, según corresponda.
 
-La Presidencia del Consejo General una vez verificados los hechos a que se refiere el artículo anterior y previamente al día que deba instalarse el Congreso de la Ciudad de México, rendirá informe del desarrollo y de la conclusión del proceso electoral al propio Congreso de la Ciudad de México, acompañando copia certificada de las constancias de mayoría de la Jefatura de Gobierno, de las fórmulas de candidatos a Diputaciones de mayoría relativa, Alcaldesas, Alcaldes y Concejales que las hubiesen obtenido, así como de las constancias de asignación de las fórmulas de candidatos a Diputados y Concejales de representación proporcional que las hubiesen obtenido.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+La Presidencia del Consejo General una vez verificados los hechos a que se refiere el artículo anterior y previamente al día que deba instalarse el Congreso de la Ciudad de México, rendirá informe del desarrollo y de la conclusión del proceso electoral al propio Congreso de la Ciudad de México, acompañando copia certificada de las constancias de mayoría de la Jefatura de Gobierno, de las fórmulas de candidatos a Diputaciones de mayoría relativa, Alcaldesas, Alcaldes y Concejales que las hubiesen obtenido, así como de las constancias de asignación de las fórmulas de candidatos a Diputados y Concejales de representación proporcional que las hubiesen obtenido, así como las relativas a la elección de las personas integrantes del Poder Judicial.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+# LIBRO QUINTO. DE LA INTEGRACIÓN DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO PRIMERO. DE LA RENOVACIÓN DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO ÚNICO (SIC). DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+# LIBRO QUINTO (SIC). DE LA INTEGRACIÓN DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO PRIMERO (SIC). DE LA RENOVACIÓN DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. REGLAS GENERALES
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 462.
+
+Las personas juzgadoras integrantes del Poder Judicial de la Ciudad de México, serán electas por mayoría relativa y voto, libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución Federal, la Ley General, la Constitución local y este Código, así como la normativa que emita el Instituto Nacional y el Instituto Electoral.
+
+Las personas juzgadoras del Poder Judicial de la Ciudad de México serán electas en el ámbito territorial de la Ciudad de México, que será considerada como una sola circunscripción, conforme a las bases y procedimientos que establece la Constitución Local.
+
+La elección ordinaria de las personas juzgadoras se llevará a cabo el primer domingo del mes de junio del año que corresponda de manera concurrente con el proceso electoral federal.
+
+El Instituto Nacional y el Instituto Electoral, en el ámbito de sus competencias, serán las autoridades responsables de la organización del proceso electivo, su jornada electoral y los cómputos de los resultados electorales.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 463.
+
+La elección de las personas juzgadoras se llevará a cabo de conformidad con las bases y procedimientos que se establezcan en la Constitución Local, normativa de la materia y la Convocatoria que el Congreso de la Ciudad de México, emita para tal efecto.
+
+En caso de ausencia de disposición expresa dentro de este Libro, se aplicará supletoriamente lo dispuesto para los procesos electorales dentro de este Código.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado para la elección de personas integrantes del Poder Judicial de la Ciudad de México.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SEGUNDO. DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 464.
+
+El proceso electoral de las personas juzgadoras del Poder Judicial de la Ciudad de México es el conjunto de actos, ordenados por la Constitución Federal, la Ley General, la Constitución Local y este Código, y las normas que emita el Instituto Electoral realizado por las autoridades electorales, los Poderes Públicos de la Ciudad de México, así como la ciudadanía, que tiene por objeto la renovación periódica de las personas juzgadoras.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 465.
+
+Para los efectos de este Código, el proceso de elección de las personas juzgadoras comprende las siguientes etapas:
+
+I. Preparación de la elección;
+
+II. Convocatoria y postulación de candidaturas;
+
+III. Jornada electoral;
+
+IV. Cómputos y sumatoria;
+
+V. Asignación de cargos, y
+
+VI. La entrega de constancias de mayoría, calificación y declaración de validez de la elección.
+
+La etapa de preparación de la elección inicia con la primera sesión que el Consejo General del Instituto Electoral celebre en la primera semana del mes de septiembre del año anterior a la elección, y concluye al iniciarse la jornada electoral.
+
+La etapa de convocatoria y postulación de candidaturas inicia con la publicación de la convocatoria a los Poderes de la Ciudad de México para integrar los listados de las candidaturas a los cargos de elección popular del Poder Judicial que emita el Congreso de la Ciudad de México, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Instituto.
+
+La etapa de la jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con la entrega de los paquetes electorales a los Órganos Desconcentrados del Instituto Electoral.
+
+La etapa de cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los Órganos Desconcentrados, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General.
+
+La etapa de asignación de cargos inicia con la identificación por el Instituto Electoral de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, y concluye con la entrega por el Instituto Electoral de las constancias de mayoría a las candidaturas que resulten ganadoras y la emisión de la declaración de validez respectiva.
+
+La etapa de calificación y declaración de validez inicia al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno, y concluye al aprobar el Tribunal Electoral el dictamen que contenga el cómputo final de la elección.
+
+Para la elección de las personas juzgadoras, el Instituto Electoral publicará en los estrados las determinaciones emitidas por las autoridades electorales, privilegiando los principios de transparencia y máxima publicidad, en términos del presente Código.
+
+Para la notificación de acuerdos y resoluciones dirigidas a las personas candidatas, el Instituto Electoral podrá realizarlo a través de medios electrónicos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. DE LA ORGANIZACIÓN DE LA ELECCIÓN
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 466.
+
+El Congreso de la Ciudad de México, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria para integrar el listado de candidaturas para la elección de las personas juzgadoras.
+
+La convocatoria deberá observar las bases, procedimientos y requisitos que establece la Constitución Federal, La Ley General, la Constitución Local y este Código, y deberá contener lo siguiente:
+
+I. Fundamentos constitucionales y legales aplicables;
+
+II. La Convocatoria a los poderes de la Ciudad para que integren e instalen sus Comités de Evaluación;
+
+III. La Convocatoria a la ciudadanía para que participe en el proceso de selección de candidaturas a cargos de elección popular del Poder Judicial de la Ciudad de México;
+
+IV. Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia;
+
+V. Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución Local y Ley de la materia;
+
+VI. Documentación para acreditar el cumplimiento de los requisitos;
+
+VII. Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapa de postulación hasta la de calificación y declaración de validez;
+
+VIII. Fechas y plazos que deberán observar los Poderes de la Ciudad de México para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas, y
+
+IX. Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+La convocatoria no podrá establecer requisitos adicionales a los establecidos por la Constitución Federal, la Ley General, la Constitución Local y este Código, para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 467.
+
+Para la emisión de la convocatoria para la integración del listado de las candidaturas, el órgano de administración judicial de la Ciudad de México, comunicará oportunamente al Congreso, los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia, y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el órgano de administración judicial lo comunicará de inmediato al Congreso para su incorporación en la convocatoria respectiva.
+
+En caso de que el órgano de administración judicial no remita oportunamente la información que requiera el Congreso para la elaboración de la convocatoria, el órgano legislativo lo integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 468.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para los cargos de elección del Poder Judicial de la Ciudad de México; serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución Local, la Ley de la materia y este Código.
+
+Cada Poder de la Ciudad de México instalará un Comité de Evaluación a través de los mecanismos que determinen dentro de los treinta días naturales posteriores a la publicación de la convocatoria que emita el Congreso. Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+
+Estarán conformados cada uno, por cinco personas de reconocido prestigio en la actividad jurídica, observando la paridad de género:
+
+Son facultades de los Comités de Evaluación de cada poder:
+
+I. Verificar el cumplimiento de los requisitos constitucionales y legales de las personas aspirantes;
+
+II. Seleccionar los perfiles mejor calificados para ocupar los cargos de elección del poder Judicial, observando los principios de paridad de género, inclusión, accesibilidad, profesionalismo, ética y transparencia;
+
+III. Llevar a cabo la insaculación para determinar a las personas que participarán como candidatas a los cargos de elección del Poder Judicial;
+
+IV. Proponer al Pleno del Congreso a las Personas candidatas a los cargos de elección popular del Poder Judicial.
+
+El Congreso de la Ciudad de México recibirá la documentación de las personas aspirantes a cargos de elección popular del poder judicial y remitirá los expedientes correspondientes a cada uno de los Comités de Evaluación de los Poderes.
+
+Una vez recibidos los expedientes, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución Federal, Ley General, Constitución Local, Ley de la materia y este Código.
+
+Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las candidaturas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral, dentro del plazo y conforme al procedimiento que determine la Ley y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo.
+
+Las personas aspirantes podrán participar en una o más convocatorias de manera simultánea, siempre que sea para el mismo cargo.
+
+Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas, para el Tribunal de Disciplina Judicial y seis para personas magistradas y juezas, y las publicará en los estrados que para tal efecto habiliten.
+
+Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a su especialidad por materia y observando la paridad de género, publicarán los resultados en los estrados habilitados y los remitirán a cada Poder para su aprobación en términos de lo previsto en la Constitución Local, la Ley de la materia y de conformidad con lo siguiente:
+
+I. El Poder Ejecutivo, por conducto de la persona titular de la Jefatura de Gobierno;
+
+II. El Poder Legislativo, por conducto del pleno de la (sic) Congreso de la Ciudad de México, mediante votación calificada de dos tercios de sus integrantes presentes, y
+
+III. El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia de la Ciudad de México, por votación favorable de la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 469.
+
+Los listados aprobados de los Poderes de la Ciudad de México serán remitidos al Congreso en el mes de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidas para hacerlo posteriormente.
+
+El Congreso integrará los listados y expedientes de las personas postuladas por cada Poder conforme al tipo de elección, e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria, y a quienes hayan sido postuladas para un cargo judicial diverso al que ocupen.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 470.
+
+Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo judicial diverso, deberán informarlo al Congreso, dentro de los treinta días posteriores a la publicación de la convocatoria, a efecto de no ser incorporadas en los listados de candidaturas. El Congreso cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes para un cargo judicial diverso al que ocupen.
+
+El Congreso Local estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Instituto Electoral a más tardar la segunda semana de marzo del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 471.
+
+En el mes de agosto del año previo al de la elección, el Poder Judicial de la Ciudad de México remitirá al Congreso de la Ciudad de México, el número y materia de cargos que se someterán a elección. En caso de que el Poder Judicial no remita dicha información, el Congreso determinará lo conducente con la información pública que disponga.
+
+En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, el Poder Público postulante podrá solicitar al Congreso su sustitución antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. DE LA PROPAGANDA
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 472.
+
+El Instituto Electoral es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, así como la paridad de género.
+
+La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral celebre en la primera semana de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 473.
+
+Corresponde al Consejo General del Instituto Electoral:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en la Constitución Federal, Ley General y este Código, así como las determinaciones que emita el Instituto Nacional;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección, en términos de la normativa federal y local, y en concordancia con las determinaciones que emita el Consejo General;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Realizar los cómputos de la elección;
+
+V. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VI. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura;
+
+VII. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+VIII. Garantizar la equidad e igualdad de condiciones en el desarrollo de las campañas entre las personas candidatas;
+
+IX. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo, y
+
+X. Emitir los lineamientos para que se cumpla con el principio constitucional de paridad de género, y
+
+XI. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este artículo y las demás que establezcan las leyes.
+
+Las Direcciones Distritales del Instituto Electoral coordinarán, en su ámbito territorial, la organización y desarrollo de la elección de los cargos que integran el Poder Judicial de la Ciudad de México y realizarán el cómputo, conforme a lo previsto en la Constitución Local, este Código y los acuerdos emitidos por el Consejo General.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 474.
+
+El Consejo General del Instituto Electoral no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras.
+
+El proceso electoral de personas juzgadoras no podrá suspenderse o interrumpirse derivado de acto o resolución de autoridad jurisdiccional
+
+El Instituto Electoral podrá determinar la instalación y funcionamiento de los Consejos Distritales, y en su caso, emitirá las determinaciones para ello.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. DE LAS ENCUESTAS Y SONDEOS DE OPINIÓN
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 475.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 476.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas integrantes del Poder Judicial, de conformidad con lo dispuesto por el artículo 134 de la Constitución.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y legalidad en los asuntos que conozcan.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 477.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o conceda algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con la normativa de la materia y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 478.
+
+La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, la cual solo podrá ser difundida o exhibida en el periodo de campaña, y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+La propaganda impresa que utilicen las personas candidatas deberá contener, en todo caso, una identificación precisa del cargo y materia a la que se postulan y nombre de la persona, la cual tendrá por objeto propiciar la exposición, desarrollo y discusión de las propuestas e ideas que se difundan ante el electorado.
+
+Los elementos propagandísticos que se difundan por cualquier medio no deberán contener símbolos, signos o motivos religiosos; ni generar expresiones, ideas, grabaciones, imágenes o cualquier otro elemento que, de manera directa o indirecta genere violencia política, violencia política contra las mujeres en razón de género; así como calumnia en perjuicio de otras candidaturas.
+
+El incumplimiento a esta disposición será sancionado en términos de la Ley Procesal.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 479.
+
+Las personas candidatas tendrán derecho al uso de espacios en radio y televisión, durante el periodo de campaña, en términos de lo previsto por el artículo 41, fracción III de la Constitución Federal, de acuerdo con la administración que realice el Instituto Nacional.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 480.
+
+Durante la campaña, el Instituto Nacional administrará y gestionará el acceso a los tiempos del Estado que correspondan a radio y televisión.
+
+Los monitoreos y mecanismos para verificar el cumplimiento de los tiempos de radio y televisión estarán a cargo del Instituto Nacional.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 481.
+
+El Instituto Nacional observará que los contenidos de los promocionales de radio y televisión se ajusten a los formatos y parámetros que se establezcan.
+
+El Instituto Electoral promoverá los perfiles de las personas candidatas a través de las plataformas digitales habilitadas para tal efecto, por lo que pondrá a disposición de las personas candidatas espacios digitales para difundir mensajes en redes sociales o Internet.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VI. DE LOS FOROS DE DEBATES
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 482.
+
+El Consejo General del Instituto Nacional emitirá las reglas, lineamientos y criterios que las personas físicas o morales deberán adoptar para realizar encuestas o sondeos de opinión en el marco del proceso de elección de personas juzgadoras.
+
+El Instituto Electoral realizará las funciones en materia, de conformidad con las reglas, lineamientos y criterios que emita el Instituto Nacional.
+
+Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto Electoral un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral correspondiente.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 483.
+
+Queda prohibida la contratación, por parte de personas candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Instituto Electoral en su página de Internet y redes sociales en las que participe.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VII. DE LAS CAMPAÑAS ELECTORALES
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 484.
+
+El Instituto Electoral, el sector público, privado o social podrán llevar a cabo foros de debate de manera gratuita en condiciones de equidad, en los términos y directrices que establezca el Consejo General, en observancia a lo dispuesto en la Constitución Local y el Código.
+
+Las personas candidatas podrán participar durante el periodo de campaña en entrevistas de carácter noticioso y foros de debate que, en su caso, lleve a cabo el Instituto Electoral, sector público, privado o social.
+
+El Instituto Electoral, determinará la organización y desarrollo de los debates de las personas candidatas, observando para ello, los principios de equidad y trato igualitario, su realización estará sujeto a las consideraciones que emita el Consejo General.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 485.
+
+Los foros de debates que puede organizar el Instituto Electoral serán conforme a las siguientes bases y principios:
+
+I. Los debates tienen por objeto proporcionar a la sociedad la difusión y confrontación de las ideas y propuestas de las personas candidatas, por lo que, en su celebración, se asegurará el más amplio ejercicio de la libertad de expresión, garantizando condiciones de equidad en el formato, trato igualitario y el concurso de quienes participan en ésta;
+
+II. El Instituto Electoral promoverá ante los medios de comunicación, instituciones académicas, sociedad civil, así como ante personas físicas y morales, la organización y celebración de estos ejercicios de información, análisis y contraste de ideas y propuestas;
+
+III. El Instituto Electoral convocará a las y los candidatos que cuentan con registro para contender por el cargo de elección en cuestión. Los debates deberán contar con la participación de por lo menos dos de las y los candidatos que cuenten con registro para contender por el cargo de elección en cuestión, garantizando condiciones de equidad en el formato y trato igualitario. La inasistencia de uno o más de las y los candidatos invitados, no será causa para la no realización de los mismos;
+
+IV. El esquema del formato de los foros de debate será acordado por el Consejo General, de acuerdo a la disponibilidad presupuestal con que cuente el Instituto Electoral.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 486.
+
+Las entrevistas en las que participen las personas candidatas y sean difundidas por cualquier medio de comunicación deberán ser de carácter noticioso y gratuito, observando las reglas y directrices que emita el Instituto Nacional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VIII. DE LA OBSERVACIÓN ELECTORAL
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 487.
+
+La campaña electoral, para los efectos de este Libro, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución Federal, Ley General, Constitución Local y el Código.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 488.
+
+Las campañas electorales para la promoción de las candidaturas establecidas en este Libro tendrán una duración de cuarenta y cinco días improrrogables.
+
+Las campañas electorales deberán concluir tres días antes de la celebración de la jornada electoral. El día de la jornada electoral y durante los tres días anteriores no se permitirá la difusión de propaganda o proselitismo de las personas candidatas, la contravención a esta disposición será sancionada en los términos de la Ley Procesal.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 489.
+
+Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial de la Ciudad de México para difundir su candidatura dentro del periodo de campaña.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas sin partido a diputaciones.
+
+Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas. El Instituto Nacional, a través de su Unidad Técnica de Fiscalización, vigilará el cumplimiento a esta disposición.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 490.
+
+La propaganda electoral deberá ser retirada por el Gobierno de la Ciudad de México y las Alcaldías en cada una de sus demarcaciones. La propaganda retirada de la vía pública deberá ser enviada a centros de reciclaje, acreditando mediante las constancias que éstos emiten, la entrega de dichos materiales.
+
+El Instituto Electoral emitirá las reglas y criterios para la colocación y retiro de la propaganda que se exhiba en la vía pública. Las personas candidatas serán corresponsables junto con el Gobierno de la Ciudad y Alcaldías de su retiro.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 491.
+
+La propaganda que se exhiba en la vía pública deberá observar al menos las siguientes reglas:
+
+I. Podrá colgarse en bastidores y mamparas del equipamiento urbano, siempre que sus características lo permitan y se cuente con permiso para tal efecto;
+
+II. Podrá colgarse, adherirse o pegarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario a favor de la persona candidata;
+
+III. No podrá adherirse, pintarse, pegarse o colocarse en elementos de equipamiento urbano; accidentes geográficos, elementos carreteros o ferroviarios; señalizaciones viales; puentes vehiculares y peatonales; mobiliario urbano; edificios públicos; monumentos históricos, arqueológicos o artísticos; construcciones de valor cultural; árboles o arbustos; cables de suministro de energía eléctrica o de telecomunicaciones; postes, brazos y luces de semáforos de tránsito peatonal o vehicular; señalización vial o nomenclatura de calles o avenidas; soportes o postes de cualquier tipo de señalética de cultura vial, información cívica o seguridad pública; estructuras de protección de circulación peatonal de transeúntes, automóviles, motocicletas, bicicletas o cualquier otro medio de transporte; postes o vallas de contención; postes de delimitación vial; rampas para personas con discapacidad; y, muros o alambrados de contención que se encuentren en cualquier tipo de vialidad.
+
+IV. En todos los casos no se podrán utilizar para adherir o pegar propagandas materiales adhesivos que dañen el mobiliario o equipamiento como engrudo, pegamento blanco, cemento, o cualquier elemento que dificulte su remoción.
+
+El incumplimiento a las disposiciones del presente artículo será sancionado conforme a la Ley Procesal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IX. DE LAS ACTIVIDADES DEL INSTITUTO ELECTORAL PARA LA PROMOCIÓN DE LA ELECCIÓN DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 492.
+
+La ciudadanía podrá ejercitar sus derechos como persona observadora electoral en términos de lo dispuesto (sic) la Ley General y conforme a los acuerdos que al efecto emita el Consejo General del Instituto Nacional.
+
+Las personas observadoras acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto Nacional, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+Las organizaciones a las que pertenezcan las personas observadoras acreditadas serán responsables de supervisar las actividades que realicen, así como del cumplimiento de los requisitos y obligaciones que establece la Ley General. Las organizaciones que tengan conocimiento de alguna falta, omisión o irregularidad de una de sus personas observadoras en el desarrollo de sus funciones deberán solicitar al Instituto Nacional el retiro de su acreditación. La falta de supervisión imputable a la organización respectiva será causa para que se niegue o retire la acreditación a la organización participante.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 493.
+
+El Instituto Electoral podrá, de acuerdo a la suficiencia presupuestal, determinar la instrumentación de acciones para la observación de expertos nacionales y personas visitantes extranjeras que coadyuven en la observancia de las etapas del proceso electoral del Poder Judicial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO X. DE LA ORGANIZACIÓN ELECTORAL
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 494.
+
+El Consejo General aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del Instituto Electoral para informar a la ciudadanía sobre el proceso electivo y dar a conocer las candidaturas registradas.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+I. No será un medio de propaganda política;
+
+II. Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+III. Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+IV. La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Instituto Electoral, que deberá supervisar que se ajuste al Código y los parámetros que al efecto determine el Consejo General, y
+
+V. La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para efectos de las actividades que realice el Instituto Electoral para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Instituto Electoral, medios electrónicos o digitales institucionales, entre otros.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 495.
+
+El Instituto Nacional es la autoridad en materia de fiscalización que garantiza el cumplimiento de las reglas establecidas para la elección de los cargos del Poder Judicial de la Ciudad de México, en términos de la Constitución Federal y la Ley General.
+
+En caso de incumplimiento de algunas de las reglas en materia de fiscalización para la elección de cargos de elección del Poder Judicial de la Ciudad de México, será el Instituto Nacional quien conozca y en su caso, sancione las irregularidades en dicha materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XI. DE LA ELECCIÓN POR UNA CIRCUNSCRIPCIÓN
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 496.
+
+El Instituto Electoral podrá determinar la instalación de los Consejos Distritales, siempre que se determine necesario conforme a las actividades vinculadas a la organización de la elección. En caso de que no se integren, el Consejo General emitirá las determinaciones para el desarrollo de la recepción de paquetes electorales y cómputos que realicen los órganos desconcentrados.
+
+De integrarse los Consejos Distritales, coadyuvarán con el Instituto Electoral en la elección de personas juzgadoras, teniendo las atribuciones previstas en el presente Código.
+
+De instalarse los Consejos Distritales coadyuvarán con la organización y cómputo de la elección de las personas juzgadoras, los cuales son órganos colegiados de carácter temporal, que funcionarán durante la jornada electoral y los cómputos y tendrán facultades de decisión en el ámbito territorial que les corresponda.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 497.
+
+Son integrantes del Consejo Distrital con derecho a voz y voto, la persona que preside el Consejo Distrital y seis Consejeras o Consejeros Distritales, nombrados por el Consejo General, quienes serán designados de conformidad con lo previsto en el Código. Además, integrará con derecho a voz la persona Secretaria del Consejo Distrital.
+
+Fungirá como Consejera o Consejero Presidente Distrital la o el titular del Órgano Desconcentrado correspondiente. Será Secretario del Consejo, quien funja como persona Secretaria del Órgano Desconcentrado o, quien realice esas funciones en términos de lo previsto en el presente Código.
+
+En ningún caso podrán participar, integrar o estar presentes en las sesiones de los Consejos Distritales, personas representantes de partidos políticos o coaliciones.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 498.
+
+Para el desempeño de sus atribuciones, los Consejos Distritales contarán con el apoyo del personal de la correspondiente Dirección Distrital. Así se podrá contratar personal eventual para la ejecución de las actividades que les correspondan.
+
+El Consejo Distrital funciona en forma colegiada, mediante la celebración de sesiones públicas de carácter ordinario o extraordinario, convocadas por escrito, por la Consejera o el Consejero Presidente Distrital.
+
+El Consejo Distrital asume sus determinaciones por mayoría de votos. En caso de empate el Consejero Presidente Distrital tiene voto de calidad.
+
+La operación y funcionamiento de los Consejos Distritales se sujetará a las disposiciones de este Código y las contenidas en el Reglamento que expida el Consejo General, para la elección de las personas juzgadoras.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XII. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 499.
+
+En el mes de agosto del año previo al de la elección, el órgano de administración judicial remitirá al Congreso de la Ciudad de México la información del número de cargos de personas juzgadoras a ocupar, así como materias; y demás información que estime necesaria. En caso de que el órgano de administración judicial no remita dicha información, el Congreso de la Ciudad de México determinará lo conducente con la información pública que disponga.
+
+El Consejo General, con base en la información remitida por el órgano de administración judicial, elaborará y aprobará un plan de coordinación en materia de organización electoral, así como en la etapa de cómputos de las elecciones.
+
+El Instituto determinará la viabilidad de instalar Consejos Distritales Locales de acuerdo a las necesidades institucionales y la suficiencia presupuestal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XIII. DE LAS BOLETAS Y MATERIALES ELECTORALES
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 500.
+
+La capacitación, designación de las personas funcionarias e integración de mesas directivas de casilla, su ubicación e instalación para la recepción de la votación se realizará en los términos dispuestos en la Ley General, este Código y de los acuerdos que emita el Consejo General del Instituto Nacional.
+
+El Instituto Nacional diseñará para cada tipo de elección una estrategia diferenciada para integrar las mesas directivas de casilla que considere el tipo y número de cargos a elegir. Dicha estrategia podrá considerar personas secretarias y escrutadoras adicionales, su incorporación a la mesa directiva de casilla durante la jornada electoral o a su conclusión.
+
+La capacitación y los simulacros de las personas funcionarias adicionales de mesas directivas de casilla para la elección de las personas integrantes del Poder Judicial podrá realizarse a través de medios electrónicos.
+
+El Instituto Electoral de la Ciudad de México participará en la elaboración de los contenidos de los materiales de la capacitación así como para prácticas y simulacros, todos ellos relativos a las particularidades de las elecciones locales, en términos de lo previsto en la Ley General y de conformidad con los lineamientos que al efecto emita el Consejo General del Instituto Nacional.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 501.
+
+El Instituto Nacional, determinará el número, ubicación, tipo de casillas, requisitos, procedimientos de identificación de lugares para instalarlas, y mecanismos de difusión junto con la integración de las mesas, en términos de lo previsto en la Ley General y de conformidad con los lineamientos que al efecto emita el Consejo General del Instituto Nacional.
+
+Para la ubicación e instalación de la casilla única en los procesos electorales concurrentes, además de la normativa que establezca el Instituto Nacional, se deberán seguir los siguientes principios generales:
+
+I. La participación del Instituto Electoral en las actividades de ubicación de casillas únicas, se realizará en coordinación con los órganos desconcentrados del Instituto Nacional, bajo las directrices que para tal efecto establece la Ley General, así como con lo previsto en la estrategia de capacitación y asistencia electoral aprobada para la elección respectiva, y demás normativa aplicable;
+
+II. El Instituto Nacional y el Instituto Electoral, podrán realizar de manera conjunta, los recorridos para la localización de los lugares donde se ubicarán las casillas únicas;
+
+III. El Instituto Nacional entregará al Instituto Electoral, los listados preliminares y definitivos de ubicación de casillas únicas, para que sean de su conocimiento y, en su caso, realice observaciones;
+
+IV. El Instituto Nacional y el Instituto Electoral contarán con el archivo electrónico que contendrá la lista definitiva de ubicación de casillas únicas e integración de mesas directivas de casilla, para su resguardo;
+
+V. La publicación y circulación de las listas de ubicación de casillas únicas e integración de mesas directivas de casilla, se realizará bajo la responsabilidad del Instituto Nacional, quien, en su caso, establecerá los mecanismos de coordinación con el Instituto Electoral; y
+
+VI. El Instituto Electoral deberá entregar la documentación y material electoral correspondiente a la elección local, a quien presida las mesas directivas de casillas, por conducto de las y los Capacitadores-asistentes electorales, a través del mecanismo establecido con el Instituto.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 502.
+
+En los supuestos de que no exista casilla única, así como en las elecciones extraordinarias, el procedimiento para determinar la ubicación de las casillas, será de conformidad con lo previsto en el artículo 413 del Código.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XIV. DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 503.
+
+Para la emisión del voto, el Consejo General, tomando en cuenta las medidas de certeza que estime pertinentes y la suficiencia presupuestal, determinará el modelo de las boletas electorales y sus medidas de seguridad, la documentación del proceso de elección de las personas juzgadoras, y los materiales que serán utilizados en ésta.
+
+El Instituto será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+El Instituto determinará la cantidad de urnas que sean necesarias en cada casilla, garantizando la funcionalidad del ejercicio respectivo.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas, una vez que inicie el proceso para su impresión.
+
+Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+
+a) Cargo para el que se postula la persona candidata;
+
+b) Especialidad por materia por la que se postula cada persona candidata;
+
+c) Primer apellido, segundo apellido y nombre completo de las personas candidatas y, en su caso sobrenombre, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar,
+
+d) Número consecutivo único para cada candidatura,
+
+e) Espacio para marcar el voto al lado de cada candidatura,
+
+f) Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto;
+
+g) Logotipo del Instituto;
+
+h) Con la finalidad de garantizar el principio de paridad en el ejercicio de votación, el Instituto podrá determinar la impresión de boletas diferenciadas de mujeres y hombres;
+
+i) Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa y tipo de elección. El número de folio será progresivo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XV. DE LA JORNADA ELECTORAL
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 504.
+
+Durante la jornada electoral se utilizará el Listado Nominal de Electores de forma física o digital, conforme lo determine el Consejo General del Instituto Nacional.
+
+El Instituto Nacional emitirá en términos de la Ley General los plazos y términos para el uso del padrón electoral y la Lista Nominal de Electores, así como la actualización del padrón electoral.
+
+El corte definitivo del estadístico del Listado Nominal será aprobado por el Consejo General del Instituto Nacional en términos de lo previsto en la Ley General. Dicho estadístico será el insumo para el procedimiento de integración y determinación del número de mesas directivas de casilla a emplearse en la elección. La aprobación del listado y su verificación se realizará bajo los procedimientos y disposiciones contenidas en la Ley General y los acuerdos que se emitan (sic) el Instituto Nacional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVI. DE LOS CÓMPUTOS Y SUMATORIA
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 505.
+
+La jornada electoral se desarrollará en los términos establecidos en la Ley General, la Constitución Local, este Código y demás normativa que para tal efecto se emita, debiéndose requisitar la documentación que apruebe el Instituto Nacional por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto Nacional.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 506.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+I. Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable.
+
+II. El Instituto Electoral determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+
+III. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+IV. Se considerará voto nulo cuando se exceda de la cantidad de votos posibles por elección en la misma boleta.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 507.
+
+Concluida la votación las personas integrantes de la Mesa Directiva de Casilla, procederán al escrutinio de los votos sufragados en la casilla para determinar:
+
+I. El número de electores que votó en la casilla;
+
+II. El número de votos nulos; y
+
+III. El número de boletas sobrantes, no utilizadas de cada elección.
+
+Concluido el escrutinio en casilla se instrumentarán las actas correspondientes.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 508.
+
+En la mesa directiva de casilla, para el caso de los cargos de elección del Poder Judicial local, se realizará únicamente el escrutinio de los votos emitidos por tipo de cargo, lo cual se realizará de manera simultánea como se refiere el artículo 443 del Código, en el siguiente orden:
+
+I. Personas magistradas integrantes del Tribunal de Disciplina Judicial;
+
+II. Personas magistradas integrantes del Tribunal Superior de Justicia de la Ciudad de México, y
+
+III. Personas juezas integrantes del Poder Judicial en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 509.
+
+Las personas funcionarias de las mesa directiva de casilla, deberán firmar el acta de escrutinio de cada elección para integrar el expediente de casilla con la documentación siguiente:
+
+I. Un ejemplar del acta de la jornada electoral;
+
+II. Un ejemplar del acta final de escrutinio, y
+
+III. En su caso, los escritos de incidentes o protesta que se hubiesen recibido.
+
+También se remitirán, en sobres por separado, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los votos nulos para cada elección; en su caso, la Lista Nominal de Electores; y demás documentación electoral sobrante.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 510.
+
+La recepción, depósito y custodia de los paquetes en que se contengan los expedientes de casilla, por parte de los Consejos Distritales, se hará conforme al procedimiento siguiente:
+
+I. Se recibirán en el orden en que sean entregados por los funcionarios de casilla;
+
+II. La o el Consejero Presidente y/o Secretario(a), Consejeros Distritales, o en su caso, personal de los Órganos desconcentrados autorizados, extenderán el recibo señalando la hora en que fueron entregados;
+
+III. La o el Consejero Presidente del Consejo Distrital o Titular del Órgano Desconcentrado dispondrá su depósito, en orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del consejo o Dirección Distrital que reúna las condiciones de seguridad, realizado el cómputo de cada uno de los paquetes electorales en el orden que vayan llegando.
+
+IV. Una vez concluido el cómputo total de los paquetes electorales, la persona Consejera Presidente del Consejo Distrital o Titular del Órgano Desconcentrado, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados.
+
+La custodia del lugar de depósito de los paquetes, se hará con el apoyo de los cuerpos de seguridad pública o, en su caso, de las fuerzas armadas;
+
+V. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se hará constar, en su caso, aquellos que no reúnan los requisitos que señala este Código, o presenten muestras de alteración. De igual forma, se hará constar las causas que se invoquen para el retraso en la entrega de los paquetes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVII. DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 511.
+
+El cómputo distrital de una elección es la suma que realiza el Consejo Distrital o personal de la Dirección Distrital, de las boletas correspondiente a los votos emitidos a favor de las candidaturas, votos nulos y boletas sobrantes.
+
+El cómputo se realizará de manera pública, para lo cual el Instituto Electoral implementará las acciones necesarias para su difusión, que se llevará a cabo en los Órganos Desconcentrados o Consejos Distritales del Instituto Electoral, de conformidad con lo previsto en este Código y los criterios emitidos por el Consejo General
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 512.
+
+Los Consejos Distritales u Órganos Desconcentrados realizarán el cómputo de las boletas que contengan las votaciones de las elecciones de las personas juzgadoras, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete, de forma ininterrumpida.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en el Código.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 513.
+
+Concluidos los cómputos de cada elección, el Consejo Distrital o Dirección Distrital publicará los resultados obtenidos en cada elección.
+
+Una vez que se haya computado la totalidad de las elecciones, los Consejos Distritales o Direcciones Distritales, remitirán al Consejo General los resultados obtenidos para que proceda a realizar la sumatoria por tipo de elección.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 514.
+
+Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, y publicará los resultados de la elección.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 515.
+
+El Instituto Electoral hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Emitida la declaración de validez de la elección, el Instituto comunicará los resultados al Tribunal Electoral según corresponda.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 516.
+
+El Tribunal Electoral y, en su caso, el Tribunal Electoral del Poder Judicial de la Federación, resolverán las impugnaciones que se hayan presentado contra las constancias de mayoría y declaración de validez, a más tardar tres días antes de que el Congreso de la Ciudad de México instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 517.
+
+Las personas juzgadoras electas deberán tomar protesta ante el Congreso Local el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
 
 ## TRANSITORIOS
 
@@ -8387,3 +9289,23 @@ G.O. 2 DE JUNIO DE 2023.
 PRIMERO. REMÍTASE EL PRESENTE DECRETO A LA PERSONA TITULAR DE LA JEFATURA DE GOBIERNO DE LA CIUDAD DE MÉXICO PARA EFECTOS DE SU PUBLICACIÓN EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO.
 
 SEGUNDO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO.
+
+G.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 1; SE ADICIONA LA FRACCIÓN XXIII BIS, Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II QUÁTER Y SE REFORMA LA FRACCIÓN VIII DEL INCISO C) DEL ARTÍCULO 4; SE MODIFICAN EL SEGUNDO Y EL CUARTO PÁRRAFO DE LA FRACCIÓN I, Y SE ADICIONA UN PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 6; SE ADICIONA EL ARTÍCULO 21 BIS; SE MODIFICA EL PRIMER PÁRRAFO, LA FRACCIÓN IV. Y EL INCISO N) DEL ARTÍCULO 36; SE MODIFICA EL TERCER PÁRRAFO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 46; SE MODIFICA LA FRACCIÓN XXXIV DEL ARTÍCULO 50, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 53; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 70 BIS; SE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 71; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 75; SE MODIFICA EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 76; SE MODIFICA LA FRACCIÓN II Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 80; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 116; SE MODIFICA EL CUARTO PÁRRAFO DEL ARTÍCULO 138; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 165; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 179; SE MODIFICA EL ARTÍCULO 242; SE MODIFICAN LAS FRACCIONES XIII, XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 251; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 257; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 272; SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 273; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 356; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 358; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 359; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 374; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 376; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 416; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 443; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 444; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 445; SE MODIFICA EL ARTÍCULO 448; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 449; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 450; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 454; SE MODIFICA EL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL ARTÍCULO 455; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 456; SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 461; SE ADICIONA EL LIBRO QUINTO DE LA INTEGRACIÓN DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, TÍTULO PRIMERO DE LA RENOVACIÓN DEL PODER JUDICIAL Y CAPÍTULO ÚNICO DISPOSICIONES GENERALES, Y LOS ARTÍCULOS 462 Y 463; SE ADICIONA EL TÍTULO SEGUNDO DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, CAPÍTULO I, REGLAS GENERALES Y SE ADICIONAN LOS ARTÍCULOS 464 Y 465; SE ADICIONA EL CAPÍTULO II DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS, Y SE ADICIONAN LOS ARTÍCULOS 466, 467, 468, 469, 470 Y 471; SE ADICIONA EL CAPÍTULO III DE LA ORGANIZACIÓN DE LA ELECCIÓN, Y SE ADICIONAN LOS ARTÍCULOS 472, 473 Y 474; SE ADICIONA EL CAPÍTULO IV DE LA PROPAGANDA, Y SE ADICIONAN LOS ARTÍCULOS 475, 476, 477, 478, 479, 480 Y 481; SE ADICIONA EL CAPÍTULO V DE LAS ENCUESTAS Y SONDEOS DE OPINIÓN Y SE ADICIONAN LOS ARTÍCULOS 482 Y 483; SE ADICIONA EL CAPÍTULO VI DE LOS FOROS DE DEBATES Y SE ADICIONAN LOS ARTÍCULOS 484, 485 Y 486; SE ADICIONA EL CAPÍTULO VII DE LAS CAMPAÑAS ELECTORALES Y SE ADICIONAN LOS ARTÍCULOS 487, 488, 489, 490 Y 491; SE ADICIONA EL CAPÍTULO VIII DE LA OBSERVACIÓN ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 492 Y 493; SE ADICIONA EL CAPÍTULO IX DE LAS ACTIVIDADES DEL INSTITUTO ELECTORAL PARA LA PROMOCIÓN DE LA ELECCIÓN DEL PODER JUDICIAL Y SE ADICIONAN LOS ARTÍCULOS 494 Y 495; SE ADICIONA EL CAPÍTULO X DE LA ORGANIZACIÓN ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 496, 497 Y 498; SE ADICIONA EL CAPÍTULO XI DE LA ELECCIÓN POR UNA CIRCUNSCRIPCIÓN Y SE ADICIONA EL ARTÍCULO 499; SE ADICIONA EL CAPÍTULO XII DE LAS MESAS DIRECTIVAS DE CASILLA Y SE ADICIONAN LOS ARTÍCULOS 500, 501 Y 502; SE ADICIONA EL CAPÍTULO XIII DE LAS BOLETAS Y MATERIALES ELECTORALES Y SE ADICIONA EL ARTÍCULO 503, SE ADICIONA EL CAPÍTULO XIV DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL Y SE ADICIONA EL ARTÍCULO 504; SE ADICIONA EL CAPÍTULO XV DE LA JORNADA ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 505, 506, 507, 508, 509 Y 510; SE ADICIONA EL CAPÍTULO XVI DE LOS CÓMPUTOS Y SUMATORIA Y SE ADICIONAN LOS ARTÍCULOS 511, 512, 513 Y 514; SE ADICIONA EL CAPÍTULO XVII DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN Y SE ADICIONAN LOS ARTÍCULOS 515, 516 Y 517, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; Y SE ADICIONA LA FRACCIÓN XV BIS DEL ARTÍCULO 1; SE MODIFICA EL PRIMER Y TERCER PÁRRAFO, LA FRACCIÓN II, EL INCISO B) Y F) Y SE ADICIONA EL INCISO I) AL ARTÍCULO 3; SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 7; SE ADICIONA EL ARTÍCULO 10 BIS; SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 19; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 28; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 46; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 102; SE ADICIONA LA FRACCIÓN II BIS Y SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 103; SE MODIFICAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 112; SE ADICIONA EL ARTÍCULO 114 BIS; SE MODIFICAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 122; SE MODIFICA LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 123; TODOS DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los Poderes de la Ciudad de México atenderán lo dispuesto en el presente Decreto y acatarán, en lo que corresponda, las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral e Instituto Electoral de la Ciudad de México, en lo que sea aplicable a los procesos electorales locales, respecto a la renovación del Poder Judicial en la Ciudad de México.
+
+CUARTO. El Instituto Electoral emitirá las determinaciones, acuerdos y resoluciones, así como la normativa necesaria, en el ámbito de sus atribuciones, para llevar a cabo el Proceso Local Extraordinario 2025.
+
+QUINTO. El Proceso Electoral Extraordinario 2025 dará inicio el día de la entrada en vigor del presente Decreto. La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión del Consejo General del Instituto Electoral de la Ciudad de México.
+
+SEXTO. El Congreso Local dotará al Instituto Electoral de la Ciudad de México y al Tribunal Electoral de la Ciudad de México, de recursos financieros para la realización el Proceso Electoral Extraordinario 2025, para la elección de personas juzgadoras integrantes del Poder Judicial observando para ello los principios de racionalidad, austeridad, transparencia, eficacia y rendición de cuentas.
+
+Para tal efecto tomará en consideración la presupuestación que al efecto realice el Instituto Electoral de la Ciudad de México y el Tribunal Electoral de la Ciudad de México, una vez que entre en vigor el presente Decreto.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
