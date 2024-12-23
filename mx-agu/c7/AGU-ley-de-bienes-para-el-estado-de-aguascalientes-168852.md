@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-para-el-estado-de-aguascalientes-168852"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2023-12-27"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -351,17 +351,23 @@ Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos lo
 
 Para efectos del presente artículo, en el caso de bienes de dominio público se requerirá previamente el acuerdo de desafectación para disponer de ellos en actos de dominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 28.
 
-Los actos de dominio, cuyo objeto sea el desarrollo de vivienda y el otorgamiento de las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado, siempre que sean ejecutados por los organismos públicos descentralizados del Poder Ejecutivo de manera directa sobre sus bienes inmuebles de dominio privado, estarán sujetos al siguiente procedimiento:
+Los actos de dominio, incluyendo las ventas, permutas, cuyo objeto sea el desarrollo de instalaciones educativas, de salud, de infraestructura hidrosanitaria, acciones urbanísticas, de vivienda y el otorgamiento de las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado, siempre que sean ejecutados por los organismos públicos descentralizados del Poder Ejecutivo de manera directa sobre sus bienes inmuebles de dominio privado, estarán sujetos al siguiente procedimiento:
 
 I. Su realización estará exenta de la autorización del Poder Legislativo a que hace referencia el artículo 27 de la presente Ley.
 
-II. Previo a su celebración, se requerirá la autorización del Órgano de Gobierno que corresponda, una vez que exista el Dictamen de Viabilidad, que para tal efecto expida su Comité de Bienes.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Previo a su celebración, se requerirá la autorización del órgano de Gobierno que corresponda, una vez que exista el Dictamen de Viabilidad, que para tal efecto expida su Comité de Bienes y el Análisis de Conveniencia que emita el Comité de Bienes de la Administración Pública Estatal.
 
 III. El Dictamen de Viabilidad, señalado en la fracción anterior, deberá contener y anexar, al menos, lo siguiente:
 
-a) La viabilidad, la oportunidad, el mérito y los beneficios que tendrá para la sociedad o el Estado la limitación de dominio de que se trate;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+a) La viabilidad, la oportunidad, el mérito y los beneficios que tendrá para la sociedad o el Estado la limitación de dominio de que se trate, considerando las medidas necesarias para garantizar el interés patrimonial del Estado y la utilidad, la calidad de las obras y cualesquiera otras medidas de compensación que se estipulen como contraprestación en los contratos traslativos de dominio que celebre el Organismo Público Descentralizado del que se trate;
 
 b) El avalúo que servirá para fijar las compensaciones o contraprestaciones correspondientes; y
 
@@ -1255,7 +1261,9 @@ Los bienes inmuebles propiedad del Poder Ejecutivo que no sean de dominio públi
 
 I. Enajenarse a título oneroso;
 
-II. Permutarse con las Entidades Paraestatales, Poderes y Órganos Constitucionales Autónomos de carácter estatal, Gobierno Federal, con otras entidades federativas y de los municipios, con sus respectivas entidades paraestatales o paramunicipales, o con los particulares respecto de bienes inmuebles que, por su ubicación, características y aptitudes, satisfagan necesidades de las partes;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Permutarse con las Entidades Paraestatales, Poderes y Órganos Constitucionales Autónomos de carácter estatal, Gobierno Federal, con otras entidades federativas y de los municipios, con sus respectivas entidades paraestatales o paramunicipales, o con los particulares respecto de bienes inmuebles que, por su ubicación, características y aptitudes, satisfagan necesidades de las partes. En las permutas de bienes inmuebles propiedad del Poder Ejecutivo celebradas con particulares, se podrá recibir como contraprestación la ejecución de obras de infraestructura en beneficio del Estado, atendiendo a lo dispuesto en la fracción II del articulo 28 de la presente ley;
 
 III. Enajenarse a título oneroso o gratuito, de conformidad con los criterios que determine el Comité de Bienes, atendiendo la opinión del Instituto de Vivienda Social y Ordenamiento de la Propiedad, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
 
@@ -1285,11 +1293,23 @@ Los procedimientos por los actos a que se refiere este artículo, podrán inicia
 
 En la donación de bienes inmuebles a que se refieren las fracciones V y X de este artículo, la Dependencias y Entidades Paraestatales, según corresponda, vigilará el uso y aprovechamiento de los mismos, y en caso procedente, informarán al Poder Ejecutivo para que se ejerza el derecho de reversión sobre los bienes donados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 104.
 
-De los actos previstos en el artículo 103 de la presente Ley, los de dominio requerirán autorización del Poder Legislativo, en términos del artículo 27 fracción VI de la Constitución Política del Estado de Aguascalientes y de conformidad con el Artículo 27 de esta Ley; los de enajenación de bienes inmuebles, señalados en las fracciones I y XIII del artículo anterior, se realizarán mediante licitación pública, cuando la enajenación sea determinada por la autoridad administrativa o en su caso, se realizarán por adjudicación directa cuando exista una solicitud de algún interesado y éste cubra por lo menos un 10% adicional al monto que corresponda al valor base mínimo de enajenación; y, los contemplados en las fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI y XII del mismo artículo, se realizarán a través de adjudicación directa, previa acreditación de los supuestos a que se refieren dichas acciones.
+De los actos previstos en el artículo 103 de la presente Ley, los de dominio requerirán autorización del Poder Legislativo, en términos del artículo 27 fracción VI de la Constitución Política del Estado de Aguascalientes y de conformidad con el Artículo 27 de esta Ley, excepto los previstos en el artículo 28; los de enajenación de bienes inmuebles, señalados en las fracciones I y XIII del artículo anterior, se realizarán mediante licitación pública, cuando la enajenación sea determinada por la autoridad administrativa o en su caso, se realizarán por adjudicación directa cuando exista una solicitud de algún interesado y éste cubra por lo menos un 10% adicional al monto que corresponda al valor base mínimo de enajenación; y, los contemplados en las fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI y XII del mismo artículo, se realizarán a través de adjudicación directa, previa acreditación de los supuestos a que se refieren dichas acciones.
 
 El valor base mínimo de enajenación, será el que determine el avalúo que solicite la Dependencia o Entidad Paraestatal al Instituto Registral y Catastral del Estado, a las instituciones de crédito, a los corredores públicos, o a los especialistas en materia de valuación con cédula profesional expedida por (sic) autoridad competente, en el cual se establecerá la vigencia del avalúo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Para las permutas a que se refiere la fracción II del artículo 103 de esta ley, el valor base mínimo de enajenación será determinado por su Órgano de Gobierno con base en el avalúo Comercial que emita el Instituto Registral y Catastral del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El Organismo Público Descentralizado decretará la recisión administrativa cuando por causas no imputables a este, el particular no haya iniciado las obras objeto de la permuta ciento ochenta días naturales despúes de celebrado el respectivo contrato.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO CON SUS FRACCIONES], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 Si realizada una licitación pública, el bien inmueble del Estado de que se trate, no se enajena, la Secretaría de Administración o la Entidad Paraestatal a fin de asegurar al Estado las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, deberá realizar las siguientes acciones, en el orden que se precisan:
 
@@ -1300,6 +1320,8 @@ II. Desarrollar por conducto del Comité de Bienes el procedimiento de subasta d
 III. Adjudicar de manera directa el bien inmueble a la persona que llegare a cubrir el valor mínimo base; o
 
 IV. Adjudicar de manera directa el bien inmueble, en caso de haberse efectuado la segunda o tercera licitaciones públicas sin enajenarse el bien y no existir propuesta para cubrir el valor mínimo base, a la persona que cubra la postura legal de la última licitación que se hubiere realizado.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 En los casos enunciados en las fracciones precedentes, sólo se mantendrá el valor mínimo base utilizado para la licitación anterior, si el respectivo dictamen valuatorio continúa vigente. Si fenece la vigencia del dictamen, deberá practicarse un nuevo avalúo, que emita la autoridad estatal.
 
@@ -1736,3 +1758,13 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de diciembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 101.- SE REFORMAN LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
