@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-10-03"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1800,7 +1800,9 @@ e) El equivalente al diez por ciento de los Comités Ciudadanos o las Asambleas 
 
 f) El equivalente al diez por ciento de los pueblos y barrios originarios y comunidades indígenas residentes.
 
-2. La consulta popular se realizará el mismo día de la jornada electoral local. Ningún instrumento de participación ciudadana, excluyendo la consulta popular, podrá llevarse a cabo cuando exista proceso electoral en la Ciudad de México.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+2. La consulta popular se realizará el mismo día de la jornada electoral local. Ningún instrumento de participación ciudadana, excluyendo la consulta popular, podrá llevarse a cabo cuando exista proceso electoral ordinario en la Ciudad de México.
 
 3. No podrán ser objeto de consulta popular las decisiones en materia de derechos humanos, penal, tributaria y fiscal.
 
@@ -1842,9 +1844,9 @@ B. Presupuesto participativo
 
 Artículo 27
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Democracia representativa.
+Democracia Representativa
 
 A. Candidaturas sin partido
 
@@ -1866,7 +1868,9 @@ B. Partidos políticos
 
 4. La selección de las candidaturas se hará de conformidad con lo que dispone la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la legislación electoral y los estatutos de los partidos políticos; se salvaguardarán los derechos políticos de las y los ciudadanos, la postulación de personas jóvenes e integrantes de pueblos y comunidades indígenas, y cumplirán las obligaciones en materia de transparencia, declaración patrimonial, de interés y fiscal, protección de datos personales, paridad de género, y las demás que establezca la ley.
 
-5. En las elecciones locales podrán participar los partidos políticos nacionales, así como los locales que obtengan el registro correspondiente en la ciudad, de conformidad con lo previsto por la ley.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+5. En las elecciones locales podrán participar los partidos políticos nacionales, así como los locales que obtengan el registro correspondiente en la ciudad, de conformidad con lo previsto por la ley, a excepción de la elección correspondiente de las personas titulares de magistraturas y juzgados del Poder Judicial local.
 
 6. Los requisitos que deberán cumplirse para el registro de un partido político ante el Instituto Electoral de la Ciudad de México, así como las causas de pérdida de éste, serán establecidos por la ley.
 
@@ -1908,7 +1912,9 @@ C. De las agrupaciones políticas locales
 
 D. Sistema de nulidades en materia electoral y de participación ciudadana
 
-1. La ley contará con un sistema de nulidades a través del cual se determinarán las causales que generarán la invalidez de elecciones de la Jefatura de Gobierno, diputaciones locales y alcaldías, así como de los procesos de participación ciudadana en la Ciudad de México.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+1. La ley contará con un sistema de nulidades a través del cual se determinarán las causales que generarán la invalidez de elecciones de la Jefatura de Gobierno, diputaciones locales, así como personas titulares de Magistraturas y Juzgados y alcaldías, así como de los procesos de participación ciudadana en la Ciudad de México.
 
 (NOTA: EL 17 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2017 Y SUS ACUMULADAS 16/2017, 18/2017 Y 19/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DEL APARTADO D DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1988,11 +1994,15 @@ c) Ser originario o contar con al menos dos años de vecindad efectiva en la Ciu
 
 d) No estar en servicio activo en el Ejército Federal ni tener mando en la policía de la Ciudad de México, cuando menos antes del inicio del proceso electoral local correspondiente;
 
-e) No ser titular de alguna Secretaría o Subsecretaría de Estado, de la Fiscalía General de la República, ni ministra o ministro de la Suprema Corte de Justicia de la Nación o integrante del Consejo de la Judicatura Federal, a menos que se haya separado definitivamente de sus funciones al menos 120 días antes de la jornada electoral local correspondiente o dos años antes en el caso de los y las ministros e integrantes del Consejo de (sic) Judicatura Federal;
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+e) No ser secretario, subsecretario de Estado, Fiscal General de la República a menos que se separe de sus funciones 120 días antes de la jornada electoral. No ser ministro de la Suprema Corte de Justicia de la Nación, integrante del Tribunal de Disciplina Judicial o del órgano de administración del Poder Judicial de la Federación, salvo que se hubiere separado de su cargo, de manera definitiva, dos años antes del día (sic) la elección.
 
 f) No ser magistrada o magistrado de Circuito o Juez de Distrito en la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;
 
-g) No ser magistrada o magistrado del Poder Judicial, del Tribunal de Justicia Administrativa, consejera o consejero de la Judicatura de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+g) No ser magistrada o magistrado del Poder Judicial, del Tribunal de Justicia Administrativa o integrante del Órgano de Administración o del Tribunal de Disciplina Judicial de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;
 
 h) No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni titular de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la administración pública o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado de sus funciones 120 días antes de la jornada electoral local correspondiente;
 
@@ -2038,7 +2048,23 @@ p) Elaborar un sistema de evaluación de resultados de su trabajo legislativo, a
 
 q) Promover la conformación del Parlamento Metropolitano; y
 
-r) Las demás que establezcan esta Constitución y las leyes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+r) Con relación a la elección de personas titulares de magistraturas y juzgados integrantes del Poder Judicial de la Ciudad de México:
+
+I. Nombrar por el voto de las dos terceras partes de los miembros presentes, a una persona integrante del órgano de administración del poder judicial;
+
+II. Emitir la convocatoria para la integración de las candidaturas de (sic) Poder Judicial Local;
+
+III. Integrar el Comité de Evaluación del Poder Legislativo;
+
+IV. Recibir las candidaturas del Poder Ejecutivo, del Poder Judicial, integrar las del poder legislativo y remitirlas al Instituto Electoral de la Ciudad de México; y
+
+V. Otorgar o negar las solicitudes de licencia o separación definitiva de las personas servidoras públicas del Poder Judicial en los términos que establezcan las leyes;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+s) Las demás que establezcan esta Constitución y las leyes.
 
 E. Del funcionamiento del Congreso de la Ciudad de México
 
@@ -2158,9 +2184,9 @@ f) No tener mando en instituciones militares o policiales, a menos que se separe
 
 g) No ejercer una magistratura de Circuito o ser Juez de Distrito en la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-h) No ejercer una magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante del Consejo de la Judicatura de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
+h) No ejercer una magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante de alguno de los órganos que integran el Tribunal Superior de Justicia, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
 
 i) No ser legislador local o federal, ni ser titular o concejal de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la Administración Pública de la Ciudad de México o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones al menos 180 días antes de la jornada electoral local correspondiente;
 
@@ -2182,29 +2208,39 @@ d) Presentar al Congreso de la Ciudad de México la iniciativa de Ley de Ingreso
 
 e) Proponer al Congreso a la persona titular encargada del control interno de la Ciudad de México observando lo dispuesto en el numeral 3 del artículo 61 de esta Constitución;
 
-f) Remitir en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos la propuesta de los montos de endeudamiento necesarios para el financiamiento del Presupuesto de Egresos de la Ciudad e informar sobre el ejercicio de los recursos correspondientes, en los términos que disponga la ley en la materia;
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-g) Realizar estudios, análisis e investigaciones apropiadas que permitan proponer al Gobierno Federal la implementación de políticas de recuperación de los salarios mínimos históricos de las personas trabajadoras de la Ciudad de México;
+f) Con relación a la elección de personas integrantes del Poder Judicial:
 
-h) Presentar la Cuenta de la hacienda pública de la Ciudad;
+I. Nombrar una persona integrante del Órgano de Administración del Poder Judicial;
 
-i) Rendir al Congreso de la Ciudad los informes anuales sobre la ejecución y cumplimiento de los planes, programas y presupuestos;
+II. Integrar el Comité de Evaluación para el Proceso de Selección de personas candidatas del poder judicial;
 
-j) Presentar observaciones a las leyes y decretos expedidos por el Congreso de la Ciudad, en los plazos y bajo las condiciones señaladas en las leyes;
+III. Postular a las personas candidatas para la elección de las personas integrantes del Poder Judicial de la Ciudad de México, conforme al procedimiento previsto en la presente constitución y la ley;
 
-k) Dirigir las instituciones de seguridad ciudadana de la entidad, así como nombrar y remover libremente a la persona servidora pública que ejerza el mando directo de la fuerza pública;
+g) Remitir en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos la propuesta de los montos de endeudamiento necesarios para el financiamiento del Presupuesto de Egresos de la Ciudad e informar sobre el ejercicio de los recursos correspondientes, en los términos que disponga la ley en la materia;
 
-l) Expedir las patentes de Notario para el ejercicio de la función notarial en favor de las personas que resulten triunfadoras en el examen público de oposición correspondiente y acrediten los demás requisitos que al efecto establezca la ley de la materia, misma que invariablemente será desempeñada por profesionales del Derecho independientes económica y jerárquicamente del poder público;
+h) Realizar estudios, análisis e investigaciones apropiadas que permitan proponer al Gobierno Federal la implementación de políticas de recuperación de los salarios mínimos históricos de las personas trabajadoras de la Ciudad de México;
 
-m) (DEROGADO, G.O. 26 DE JULIO DE 2019)
+i) Presentar la Cuenta de la hacienda pública de la Ciudad;
 
-n) Informar de manera permanente y completa mediante el sistema de gobierno abierto;
+j) Rendir al Congreso de la Ciudad los informes anuales sobre la ejecución y cumplimiento de los planes, programas y presupuestos;
 
-o) Garantizar los derechos laborales de las personas trabajadoras del Poder Ejecutivo y de sus alcaldías;
+k) Presentar observaciones a las leyes y decretos expedidos por el Congreso de la Ciudad, en los plazos y bajo las condiciones señaladas en las leyes;
 
-p) Las que señala la Constitución Política de los Estados Unidos Mexicanos; y
+l) Dirigir las instituciones de seguridad ciudadana de la entidad, así como nombrar y remover libremente a la persona servidora pública que ejerza el mando directo de la fuerza pública;
 
-q) Las demás expresamente conferidas en la presente Constitución y las leyes.
+m) Expedir las patentes de Notario para el ejercicio de la función notarial en favor de las personas que resulten triunfadoras en el examen público de oposición correspondiente y acrediten los demás requisitos que al efecto establezca la ley de la materia, misma que invariablemente será desempeñada por profesionales del Derecho independientes económica y jerárquicamente del poder público;
+
+n) (DEROGADO, G.O. 26 DE JULIO DE 2019)
+
+o) Informar de manera permanente y completa mediante el sistema de gobierno abierto;
+
+p) Garantizar los derechos laborales de las personas trabajadoras del Poder Ejecutivo y de sus alcaldías;
+
+q) Las que señala la Constitución Política de los Estados Unidos Mexicanos; y
+
+r) Las demás expresamente conferidas en la presente Constitución y las leyes.
 
 2. La persona titular de la Jefatura de Gobierno deberá remitir al Congreso de la Ciudad de México los convenios generales suscritos con otras entidades federativas para su ratificación. El Congreso contará con un plazo de noventa días para su análisis y votación; de no ratificarse dentro de este plazo, el convenio se tendrá por aprobado.
 
@@ -2270,61 +2306,91 @@ Del Poder Judicial
 
 A. De la función judicial
 
-La función judicial se regirá por los principios de legalidad y honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El derecho a la buena administración de justicia de los habitantes de la Ciudad de México, estará garantizado por el Tribunal Superior de Justicia, quien regirá su función autónoma por los principios pro persona, de legalidad y honradez, imparcialidad, accesibilidad, transparencia, máxima publicidad, rendición de cuentas y perspectiva de género y derechos humanos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Al Tribunal Superior de Justicia corresponde administrar justicia a los habitantes de la Ciudad de México, para lo cual tendrá, entre otras, las siguientes funciones:
+
+a) Ejercer el control de constitucionalidad, convencionalidad y legalidad en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, y determinar la inaplicación de las leyes o decretos contrarios a esta Constitución, en las materias de sus respectivas competencias; y
+
+b) Proteger y salvaguardar los derechos humanos y sus garantías reconocidos por esta Constitución y por los tratados internacionales.
 
 > <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
 Aunado a lo anterior, en la función jurisdiccional se privilegiarán los principios de igualdad sustantiva, justicia restaurativa y justicia redistributiva, y los fines de la justicia social, a fin de que respecto de los elementos no esenciales en el procedimiento impere un sistema auténtico que garantice y favorezca la tutela efectiva, sin dilaciones indebidas, de los derechos humanos, especialmente, de grupos sociales y personas que se encuentren en situaciones de pobreza, exclusión, marginación, desigualdad, discriminación o desventaja social.
 
-> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Para garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial, a través del Consejo de la Judicatura; el Tribunal Electoral, el Sistema de Justicia Laboral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, contarán con un Sistema de Justicia Electrónica, acorde con el principio de equivalencia funcional y mediante el uso de las tecnologías de la información y la comunicación, a efecto de proporcionar las herramientas para tramitar los juicios y sus instancias, en forma electrónica, de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales.
+Para garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial, el Tribunal Electoral, el Sistema de Justicia Laboral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, contarán con un Sistema de Justicia Electrónica, acorde con el principio de equivalencia funcional y mediante el uso de las tecnologías de la información y la comunicación, a efecto de proporcionar las herramientas para tramitar los juicios y sus instancias, en forma electrónica, de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales.
 
 B. De su integración y funcionamiento
 
-1. El Poder Judicial de la Ciudad de México se deposita en un Tribunal Superior de Justicia que contará con una Sala Constitucional; un Consejo de la Judicatura y Juzgados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+1. El Poder Judicial de la Ciudad de México se deposita en un Tribunal Superior de Justicia que contará con una Sala Constitucional; un Órgano de Administración Judicial, Tribunal de Disciplina Judicial, Salas y Juzgados.
 
-2. La administración, gestión vigilancia, evaluación, disciplina y servicio de carrera del Poder Judicial de la Ciudad de México estarán a cargo del Consejo de la Judicatura local.
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-3. El Consejo de la Judicatura designará a las y los jueces conforme a lo previsto por esta Constitución y la ley en la materia.
+El Órgano de Administración Judicial determinará el número de salas, magistraturas, jueces y demás personal con el que contará. Son principios fundamentales la autonomía e independencia de las personas que integran el Poder Judicial los cuales deberán garantizarse en su ley orgánica.
 
-Las y los jueces deberán presentar el respectivo examen de oposición, con base en lo dispuesto en el apartado E, numeral 11 del presente artículo y en lo dispuesto por la ley orgánica.
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2024)</small>
+La presidencia del Tribunal Superior de Justicia se renovará cada tres años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-Las y los jueces durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública, en los términos ya descritos. Durarán en el cargo hasta los setenta y cinco años de edad, y sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Las y los jueces no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
+2. La administración, gestión, evaluación y servicio de carrera del Poder Judicial de la Ciudad de México estarán a cargo del Órgano de Administración Judicial; y la vigilancia y disciplina estarán a cargo del Tribunal de Disciplina Judicial, en términos de lo previsto en esta Constitución y las Leyes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-4. A propuesta del Consejo de la Judicatura las y los magistrados del Tribunal Superior de Justicia serán designados y en su caso ratificados por las dos terceras partes de las y los diputados del Congreso.
+3. Las personas titulares de Magistraturas y Juzgados serán electas por voto libre, directo y secreto de la ciudadanía, conforme a lo previsto por esta Constitución y demás disposiciones relativas.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+Las personas titulares de Magistraturas y Juzgados durarán nueve años en su cargo y podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes.
 
-Las personas aspirantes propuestas deberán cumplir los requisitos establecidos en el apartado E, numeral 11 del presente artículo.
+Las personas titulares de Magistraturas y Juzgados no podrán desempeñar ningún otro empleo o comisión, salvo los cargos no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2024)</small>
+Las personas titulares de Magistraturas y Juzgados del Poder Judicial, incluyendo al Tribunal de Disciplina Judicial y a los integrantes del Órgano de Administración Judicial, no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro o término del encargo.
 
-Las y los magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en esta Constitución y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta y cinco años de edad, y sólo podrán ser privados del mismo en los términos que establecen esta Constitución y las leyes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Las y los magistrados no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México, mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
+4. Para ser magistrado o magistrada se deberán acreditar los requisitos establecidos en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos y los que disponga la ley. Mientras que, para ser jueza o juez, deberán acreditar los requisitos establecidos por las fracciones I a IV del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos y los que disponga la ley.
 
-5. Para ser magistrado o magistrada se deberán acreditar los requisitos establecidos en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos y los que disponga la ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-6. Los Tribunales del Poder Judicial funcionarán en pleno y en salas. El Consejo de la Judicatura determinará el número de salas, magistraturas, jueces y demás personal con el que contará. Son principios fundamentales la autonomía e independencia de las personas que integran el Poder Judicial los cuales deberán garantizarse en su ley orgánica.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-7. Las y los jueces y magistrados percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-8. En la integración del Poder Judicial se garantizará en todo momento, el principio de paridad de género.
+5. (DEROGADO, G.O. 23 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-9. Las y los Magistrados integrantes del Pleno del Tribunal Superior de Justicia elegirán por mayoría de votos en sesión pública y mediante sufragio secreto, a la persona que lo presidirá. Quien lo presida durará en su encargo cuatro años; la persona que haya ocupado la Presidencia bajo cualquier supuesto del presente numeral, no podrá volver a ocuparla posteriormente bajo ningún concepto, ni sucesiva, ni alternadamente, independientemente de la calidad con que pueda ostentarla.
+6. Las personas titulares de Magistraturas y Juzgados percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
 
-C. Facultades y atribuciones del Tribunal Superior de Justicia
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+7. El ingreso, formación, ascenso, permanencia y separación del personal que forme parte de la carrera judicial del Poder Judicial de la Ciudad de México se sujetará a la regulación establecida en las disposiciones aplicables, y se basará en los resultados del desempeño y el reconocimiento de méritos. Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+8. La separación definitiva de Magistradas y Magistrados del Tribunal de Disciplina Judicial y Magistradas y Magistrados del Tribunal Electoral, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+9. Las licencias de las personas magistradas o juezas, cuando no excedan de un mes, podrán ser concedidas por el Órgano de Administración Judicial; para el caso de Magistradas o Magistrados, esto se hará por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes; y será el Pleno del Tribunal Electoral quien las conceda para el caso de Magistradas y Magistrados Electorales.
+
+Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+10. Cuando la falta de una Magistrada, Magistrado, Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso de la Ciudad de México tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+C. De la elección de personas Magistradas y Jueces.
 
 El Tribunal Superior de Justicia de la Ciudad de México tendrá las siguientes funciones:
 
@@ -2336,65 +2402,143 @@ a) Ejercer el control de constitucionalidad, CONVENCIONALIDAD y legalidad EN LOS
 
 b) Proteger y salvaguardar los derechos humanos y sus garantías reconocidos por esta Constitución Y POR LOS TRATADOS INTERNACIONALES.
 
-D. Medios alternativos de solución de controversias
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-1. El sistema integral de justicia de la Ciudad de México privilegiará los medios alternativos de solución de controversias. Para garantizar el acceso a estos medios se establecerá el Centro de Justicia Alternativa.
+1. Las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las Juezas y Jueces, que integran el Poder Judicial de la Ciudad de México, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias locales del año que corresponda conforme al procedimiento siguiente:
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+a) El Congreso de la Ciudad de México publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del proceso, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial informará al Congreso los cargos sujetos a elección, la especialización por materia y la demás información que se requiera;
 
-2. El Centro de Justicia Alternativa dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México; su titular será nombrado por éste última (sic) de conformidad con lo previsto por la ley orgánica y durará seis años en su cargo, sin posibilidad de reelección.
+b) Cada Poder de la Ciudad de México postulará un listado de personas candidatas conforme a lo establecido en el presente apartado. Para la evaluación y selección de sus postulaciones, se observará lo siguiente:
+
+i. Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas interesadas que acrediten los requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes, considerando la presentación de un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
+
+ii. Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales y seleccionará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+iii. Cada Comité de Evaluación integrará un listado de las diez personas mejor evaluadas para cada cargo de Magistradas y Magistrados integrantes del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo Magistraturas, Juezas y Jueces. Posteriormente, depurarán cada listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder de la Ciudad de México para su aprobación y envío al Congreso.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+2. El Congreso recibirá las postulaciones y remitirá los listados al Instituto Electoral de la Ciudad de México a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes de la Ciudad de México, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+3. El Instituto Electoral de la Ciudad de México efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, observando el principio de paridad de género, acatando los lineamientos que al efecto emita.
+
+También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral de la Ciudad de México, quien resolverá las impugnaciones antes de que el Congreso instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante el órgano legislativo.
+
+El Instituto Electoral de la Ciudad de México estará facultado para emitir los acuerdos generales o lineamientos que resulten necesarios para dar cumplimiento a lo dispuesto en el presente numeral.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+4. Cada uno de los Poderes de la Ciudad de México postulará hasta dos personas para cada cargo de Magistrada o Magistrado, Jueza o Juez; y hasta tres personas para cada cargo del Tribunal de Disciplina Judicial: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará mediante la votación calificada de las dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará mediante la votación de las dos terceras partes de sus integrantes presentes.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+5. El Congreso incorporará a los listados que remita al Instituto Electoral de la Ciudad de México a las personas que se encuentren en funciones en los cargos señalados en el numeral anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos, observando la paridad de género.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+6. La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral de la Ciudad de México celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+7. La ley determinará la forma en que las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria. Podrán, además, participar en foros de debate organizados por el Instituto Electoral de la Ciudad de México o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+8. Para todos los cargos de elección dentro del Poder Judicial de la Ciudad de México estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+9. La duración de las campañas para los cargos señalados en el presente artículo será de 45 días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+10. Las personas titulares de Magistraturas y Juzgados protestarán ante el Congreso de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+D. Medios Alternativos de Solución de Controversias.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+1. El sistema integral de justicia de la Ciudad de México privilegiará los medios alternativos de solución de controversias. Para garantizar el acceso a estos medios se establecerá el Centro de Justicia Alternativa, sin perjuicio de los medios privados que se ofrezcan de conformidad con lo que establezca la ley de la materia.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+2. El Centro de Justicia Alternativa dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México; su titular será nombrado por esta última de conformidad con lo previsto por la ley orgánica y durará seis años en su cargo, sin posibilidad de reelección.
 
 3. El Centro de Justicia Alternativa tendrá las siguientes facultades:
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, NUMERAL 4 Y APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 97/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO a) DEL NUMERAL 3 DEL APARTADO D DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-a) Facilitar la mediación como mecanismo de solución de controversias civiles, mercantiles, familiares, penales CUANDO SE TRATE DE DELITOS NO GRAVES y de justicia para adolescentes;
+a) Facilitar los métodos alternativos de solución de controversias, para controversias civiles, mercantiles, familiares, penales cuando se trate de delitos no graves y de justicia para adolescentes;
 
-b) Mediar en controversias vinculadas con el régimen de condominios;
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+b) Certificar a facilitadores privados y negociadores colaborativos, debiendo proporcionar la información relacionada con éstos y sus servicios a quienes acudan al Centro de Justicia Alternativa;
 
 c) Coordinar con las instancias de acción comunitaria establecidas por la ley para la mediación y resolución de conflictos vecinales, comunitarios, de barrios y pueblos; y
 
 d) Las demás que prevea la ley.
 
-E. Consejo de la Judicatura
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-1. El Consejo de la Judicatura de la Ciudad de México es un órgano del Poder Judicial dotado de autonomía, independencia técnica y de gestión para realizar sus funciones. Sus resoluciones serán definitivas e inatacables.
+E. Del Órgano de Administración Judicial
 
-> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-2. El Consejo se integrará por quien presida el Tribunal y seis Consejeras o Consejeros, que serán una o un Magistrado y dos Juezas o Jueces, elegidos por, al menos las dos terceras partes del Pleno del Tribunal en votación; asimismo, dos Consejeras o Consejeros electos por el voto de las dos terceras partes de las y los Diputados presentes del Congreso de la Ciudad de México y una o uno designado por la o el Jefe de Gobierno de la Ciudad de México.
+1. La administración del Poder Judicial estará a cargo de un Órgano de Administración Judicial, que contará con independencia técnica, de gestión y para tomar sus decisiones y adoptar sus resoluciones, conforme a las bases establecidas en esta Constitución y las leyes aplicables.
 
-La designación de las tres últimas Consejeras o Consejeros que refiere el párrafo anterior, deberá recaer en personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas y administrativas, y no representarán los intereses del Órgano que los haya elegido.
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-La persona que presida el Tribunal Superior de Justicia también presidirá el Consejo de la Judicatura.
+Determinará el número y especialización por materia de las Salas y Juzgados, y la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
-> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-3. Las y los Consejeros de la Judicatura, a excepción del Presidente, durarán seis años en el cargo y no podrán ser nombrados para un nuevo período, ni sucesiva ni alternadamente, con independencia de la forma en que hayan sido electos. En caso de ausencia definitiva de algún integrante, según corresponda, el Pleno del Tribunal Superior de Justicia, el Congreso de la Ciudad de México, la o el Jefe de Gobierno, deberán iniciar el proceso de elección o designación, según sea el caso, a que se refiere el numeral anterior, para que en cualquiera de los supuestos, en un plazo no mayor a treinta días naturales desde que se produjo la vacante, sea nombrada la persona que deba ocupar ésta, quien habrá de ocuparlo hasta concluir con el periodo que debió cubrir la o el Consejero ausente. En el caso de ausencias temporales, se estará a lo dispuesto en la ley de la materia.
+2. El Órgano de Administración Judicial será responsable del servicio de carrera del personal del Poder Judicial a quienes les apliquen las categorías previstas en la ley de la materia. Asimismo, del ingreso, permanencia, separación, formación, promoción y evaluación del desempeño del personal administrativo que sirva en el Poder Judicial.
 
-Asimismo, las y los Consejeros serán sustituidos escalonadamente, conforme se produzcan las vacantes una vez concluido el periodo para el cual se les hubiere designado; la persona que presida el Consejo será sustituida conforme lo sea en la Presidencia del Tribunal.
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Tribunal Superior de Justicia de la Ciudad de México contará con un órgano auxiliar con autonomía técnica y de gestión denominado Instituto de Estudios Judiciales responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial de la Ciudad de México, sus órganos auxiliares; así como llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables. El Instituto de Estudios Judiciales podrá prestar sus servicios a fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y al público en general.
 
-4. Para ser integrante del Consejo de la Judicatura se requiere cubrir los requisitos previstos en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos y los que dispongan esta Constitución.
+EI (sic) servicio de defensoría pública en asuntos del fuero común será proporcionado por el Instituto de Defensoría Pública, en los términos que establezcan las disposiciones aplicables. El Instituto de Estudios Judiciales será el encargado de capacitar a las y los defensores públicos, así como de llevar a cabo los concursos de oposición.
 
-5. Las y los consejeros ejercerán su función con independencia e imparcialidad. Las sesiones del Consejo de la Judicatura serán públicas, salvo lo dispuesto en la normatividad aplicable. Los actos y decisiones del Consejo de la Judicatura, en ningún caso, podrán modificar las resoluciones o invadir la función jurisdiccional depositada en los órganos del Poder Judicial de la Ciudad de México, ni podrán afectar las resoluciones de las y los jueces y magistradas o magistrados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-6. Las y los consejeros sólo podrán ser removidos en los términos establecidos en esta Constitución, estarán sujetos a las mismas responsabilidades que las y los magistrados del Tribunal Superior de Justicia y la Sala Constitucional; recibirán el mismo salario y prestaciones que estos.
+3. El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular de la Jefatura de Gobierno; uno por el Congreso de la Ciudad de México mediante votación calificada de dos tercios de sus integrantes presentes; y tres por el Tribunal Superior de Justicia, mediante votación calificada de dos tercios de sus integrantes presentes. La presidencia del Órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
 
-7. Las y los consejeros no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-8. Las y los consejeros se abstendrán de intervenir de cualquier manera en los asuntos a cargo del Tribunal Superior de Justicia, la Sala Constitucional, el Tribunal Electoral y los juzgados.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-9. El Consejo de la Judicatura seguirá los principios de legalidad y honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas.
+4. Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
 
-El Consejo de la Judicatura funcionará en pleno y en comisiones y contará con los órganos auxiliares necesarios para el desempeño de sus atribuciones. Será competente en la adscripción y remoción de jueces y magistrados; velará por los derechos humanos laborales de las personas servidoras públicas para nombrar y remover al personal administrativo; nombrará y removerá al personal administrativo del Poder Judicial respetando el servicio civil de carrera, a propuesta de las y los titulares de los órganos; y en la aplicación de las normas que regulan las relaciones de trabajo de las personas servidoras públicas y los poderes de la Ciudad, así como las demás facultades que la ley señale.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
+5. Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial sólo podrán ser removidas en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos o del Título Sexto de esta Constitución, según corresponda. En caso de defunción, separación o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
-10. El Consejo de la Judicatura elaborará el proyecto de presupuesto del Poder Judicial, mismo que deberá someter a la aceptación del Pleno del Tribunal Superior de Justicia. Una vez realizado lo anterior, se incorporará en el Proyecto de Presupuesto de Egresos de la Ciudad de México, por conducto de la o el Jefe de Gobierno.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+6. De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el ejercicio de sus atribuciones y funciones. EI (sic) Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional local en los asuntos de su competencia.
 
-11. El ingreso, formación, permanencia y especialización de la carrera judicial se basará en los resultados del desempeño y el reconocimiento de méritos. Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia. El ingreso se hará mediante concursos públicos de oposición a cargo del Instituto de Estudios Judiciales que dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, contará con un Consejo Académico. La permanencia estará sujeta al cumplimiento de los requisitos para el cargo, así como a la evaluación y vigilancia sobre el desempeño en los términos previstos en la ley y en los acuerdos generales que con arreglo a ésta, emita este Consejo Académico. La ley regulará el servicio de carrera para el personal de la rama administrativa.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+7. El Órgano de Administración Judicial, a solicitud del Tribunal Superior de Justicia de la Ciudad de México, podrá concentrar facultades en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+8. El Órgano de Administración Judicial elaborará el presupuesto del Poder Judicial de la Ciudad de México. Los presupuestos serán remitidos por dicho órgano para su inclusión en el proyecto de Presupuesto de Egresos de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+9. En el ámbito del Poder Judicial de la Ciudad de México, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+10. (DEROGADO, G.O. 23 DE DICIEMBRE DE 2024)
+
+11. (DEROGADO, G.O. 23 DE DICIEMBRE DE 2024)
 
 F. Instituto de Servicios Periciales y Ciencias Forenses
 
@@ -2403,6 +2547,36 @@ F. Instituto de Servicios Periciales y Ciencias Forenses
 Es un órgano dependiente de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley.
 
 En el ejercicio de sus funciones deberá garantizar la objetividad e imparcialidad de los dictámenes que emita, de conformidad con las leyes y los estándares nacionales e internacionales en la materia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+G. Del Tribunal de Disciplina Judicial
+
+1. La disciplina del personal del Poder Judicial de la Ciudad de México estará a cargo de un Tribunal de Disciplina Judicial, que contará con independencia técnica y de gestión para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución y las leyes aplicables.
+
+2. El Tribunal de Disciplina se integrará por cinco personas electas por la ciudadanía en el ámbito territorial de la Ciudad de México, conforme al procedimiento establecido en el Apartado B, numeral 3 del artículo 35 de esta Constitución.
+
+3. Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 35 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo período. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
+
+4. El Tribunal de Disciplina Judicial funcionará en comisiones y en Pleno, el cual será la autoridad sustanciadora.
+
+El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar a sus comisiones los informes de probable responsabilidad, recolectar indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas. EI (sic) Tribunal podrá dar vista al Ministerio Público ante la posible comisión de delitos.
+
+5. El Tribunal de conformidad con lo que prevea la ley correspondiente, desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres de sus integrantes, que fungirán como autoridad sustanciadora y resolutora en los asuntos de su competencia. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
+
+6. EI (sic) Tribunal evaluará el desempeño de las personas titulares de Magistraturas y Juzgados que resulten electas en la elección local que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+7. La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+8. Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de la Constitución general o del Título Sexto de esta Constitución.
+
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial, incluyendo magistrados y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
 Artículo 36
 
@@ -2450,7 +2624,9 @@ e) Cualquier magistrado o magistrada del Tribunal Superior, de la Sala Constituc
 
 f) Los criterios de las resoluciones de la Sala Constitucional con relación a la acción de protección efectiva de derechos humanos serán vinculantes para las y los jueces de tutela; y
 
-g) El Consejo de la Judicatura a través de acuerdos generales, establecerá juzgados de tutela en las demarcaciones territoriales.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+g) El Órgano de Administración Judicial local a través de acuerdos generales, establecerá juzgados de tutela en las demarcaciones territoriales.
 
 4. (DEROGADO, G.O. 26 DE JULIO DE 2019)
 
@@ -2536,7 +2712,9 @@ Tribunal Electoral de la Ciudad de México
 
 3. Concluido el encargo de la magistratura, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
-4. El Tribunal Electoral de la Ciudad de México es competente para resolver los medios de impugnación en materia electoral y de participación ciudadana en la Ciudad, relacionados con probables irregularidades en el desarrollo de estos procesos; actos o resoluciones de las autoridades en la materia, aún fuera de procesos electorales; cuando se consideren violentados los derechos político electorales de las personas; conflictos entre órganos de representación ciudadana o sus integrantes; conflictos laborales entre este Tribunal y sus servidores o el Instituto Electoral y sus servidores; así como para verificar que los actos y resoluciones de las autoridades electorales y de participación ciudadana se ajusten a lo previsto por esta Constitución, de conformidad con los requisitos y procedimientos que determine la ley.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+4. El Tribunal Electoral de la Ciudad de México es competente para resolver los medios de impugnación en materia electoral, de participación ciudadana en la Ciudad de México y de elección de las personas integrantes del poder judicial de la Ciudad de México, relacionados con probables irregularidades en el desarrollo de estos procesos; actos o resoluciones de las autoridades en la materia, aún fuera de procesos electorales; cuando se consideren violentados los derechos político electorales de las personas; conflictos entre órganos de representación ciudadana o sus integrantes; conflictos laborales entre este Tribunal y sus servidores o el Instituto Electoral y sus servidores; así como para verificar que los actos y resoluciones de las autoridades electorales y de participación ciudadana se ajusten a lo previsto por esta Constitución, de conformidad con los requisitos y procedimientos que determine la ley.
 
 5. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y en materia de participación ciudadana, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y a los procesos de participación ciudadana y garantizará la protección de los derechos político-electorales de las y los ciudadanos.
 
@@ -2575,6 +2753,10 @@ V. Recibir y resolver los recursos que interpongan las y los ciudadanos por incu
 VI. Conocer y resolver sobre las faltas administrativas graves cometidas por personas servidoras públicas de los Poderes Ejecutivo y Legislativo, de las alcaldías y de los organismos autónomos en el ámbito local.
 
 3. La ley regulará y garantizará la transparencia en el proceso de nombramiento de las y los magistrados que integren el Tribunal y sus respectivas salas. Para garantizar el desempeño profesional de sus integrantes, el Tribunal, por conducto del órgano que señale la ley, tendrá a su cargo la capacitación y especialización de su personal. Para garantizar el desempeño profesional y el reconocimiento a sus méritos, la ley establecerá el servicio civil de carrera, determinará sus derechos y obligaciones, así como el régimen disciplinario al que estarán sujetos.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+4. Las leyes preverán las cuantías y supuestos en materia tributaria en los cuales el Tribunal deberá resolver en un máximo de seis meses, contados a partir del conocimiento del asunto. En caso de cumplirse con el plazo señalado y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Órgano Interno de Control y justificar las razones de dicha demora.
 
 ### CAPÍTULO IV. SEGURIDAD CIUDADANA Y PROCURACIÓN DE JUSTICIA
 
@@ -2900,7 +3082,9 @@ Artículo 50
 
 Instituto Electoral de la Ciudad de México
 
-1. La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Jefatura de Gobierno, diputaciones al Congreso y alcaldías de la Ciudad de México, así como de los procesos de participación ciudadana en la Ciudad, mediante los cuales se ejerce la ciudadanía, son funciones que se realizan a través del Instituto Electoral de la Ciudad de México. Asimismo, tendrá a su cargo el diseño e implementación de las estrategias, programas, materiales y demás acciones orientadas al fomento de la educación cívica y la construcción de ciudadanía.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+1. La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Jefatura de Gobierno, diputaciones al Congreso y alcaldías de la Ciudad de México, personas Magistradas y Juzgadoras integrantes del Poder Judicial de la Ciudad de México, así como de los procesos de participación ciudadana en la Ciudad, mediante los cuales se ejerce la ciudadanía, son funciones que se realizan a través del Instituto Electoral de la Ciudad de México. Asimismo, tendrá a su cargo el diseño e implementación de las estrategias, programas, materiales y demás acciones orientadas al fomento de la educación cívica y la construcción de ciudadanía.
 
 2. Este Instituto contará con un órgano superior de dirección, integrado por una persona Consejera o Consejero Presidente y seis personas Consejeras Electorales, con derecho a voz y voto, designadas por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con un Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o local, quienes concurrirán a las sesiones sólo con derecho a voz. Participarán también como invitadas e invitados permanentes a las sesiones del Consejo, sólo con derecho a voz, una o un diputado de cada grupo parlamentario del Congreso de la Ciudad.
 
@@ -3892,7 +4076,9 @@ Del Sistema Anticorrupción de la Ciudad de México
 
 1. La Ciudad de México contará con un Sistema Anticorrupción, instancia de coordinación de las autoridades competentes en la prevención, detección, investigación y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos.
 
-2. El Sistema Anticorrupción contará con un Comité Coordinador, conformado por las personas titulares de la entidad de fiscalización, de la Fiscalía Especializada en Combate a la Corrupción; del Tribunal de Justicia Administrativa, del Instituto de Transparencia y Acceso a la Información, del Consejo de Evaluación, del órgano de control del Congreso y de la secretaría encargada del control interno, todos de la Ciudad de México; así como por un representante del Consejo de la Judicatura y por un representante del Comité de Participación Ciudadana del Sistema, quien lo presidirá.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+2. El Sistema Anticorrupción contará con un Comité Coordinador, conformado por las personas titulares de la entidad de fiscalización, de la Fiscalía Especializada en Combate a la Corrupción; del Tribunal de Justicia Administrativa, del Instituto de Transparencia y Acceso a la Información, del Consejo de Evaluación, del órgano de control del Congreso y de la secretaría encargada del control interno, todos de la Ciudad de México; así como por un representante del Tribunal de Disciplina Judicial y por un representante del Comité de Participación Ciudadana del Sistema, quien lo presidirá.
 
 Corresponderá al Comité Coordinador del Sistema, sin perjuicio de las facultades otorgadas a cada uno de los órganos que lo integran:
 
@@ -3964,7 +4150,9 @@ Artículo 65
 
 De la responsabilidad política
 
-1. Quienes ocupen un cargo de elección popular, ostenten un cargo de magistratura dentro de la función judicial, sean titulares del Consejo de la Judicatura de la Ciudad, de los organismos autónomos, de las secretarías del gabinete, de la consejería jurídica del Poder Ejecutivo, del sistema anticorrupción, de los organismos descentralizados o fideicomisos, así como todo servidor público que haya sido nombrado o ratificado por el Congreso serán sujetos de juicio político por violaciones graves a esta Constitución y las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos públicos de la Ciudad de México.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+1. Quienes ocupen un cargo de elección popular, ostenten un cargo de magistratura dentro de la función judicial, sean titulares del Tribunal de Disciplina Judicial u Órgano de Administración Judicial de la Ciudad, de los organismos autónomos, de las secretarías del gabinete, de la consejería jurídica del Poder Ejecutivo, del sistema anticorrupción, de los organismos descentralizados o fideicomisos, así como todo servidor público que haya sido nombrado o ratificado por el Congreso serán sujetos de juicio político por violaciones graves a esta Constitución y las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos públicos de la Ciudad de México.
 
 2. Toda solicitud deberá ser presentada ante el Congreso de la Ciudad y dictaminada en un plazo no mayor a treinta días. En su sustanciación se citará a comparecer ante el Congreso de la Ciudad al acusado a efecto de respetar su garantía de audiencia. Cumplido este requisito, el pleno determinará mediante resolución de las dos terceras partes de los miembros presentes en sesión, si ha lugar a separarlo del cargo.
 
@@ -4603,3 +4791,81 @@ G.O. 3 DE OCTUBRE DE 2024.
 PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO EN MATERIA DE REFORMA AL PODER JUDICIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El proceso electoral extraordinario 2024-2025, dará inicio el día de la entrada en vigor del presente decreto. En dicha elección, se elegirá la totalidad de las personas integrantes del Tribunal de Disciplina Judicial, así como, magistraturas y personas juzgadoras que se encuentren vacantes, renuncias y retiros programados, así como las personas Magistradas y Juzgadoras que se encuentren en funciones y que decidan participar en el proceso electoral extraordinario; en ningún caso el porcentaje podrá ser menor al 25% de la totalidad de personas juzgadoras y tampoco podrá ser menor al 40% en el caso de la totalidad de las personas magistradas. En caso de ser necesario, se insacularán las personas magistradas y juzgadoras para integrar el porcentaje señalado.
+
+Las personas Magistradas y Juzgadoras que se encuentran en funciones a la publicación del presente Decreto serán incorporadas a la lista para participar en la elección ordinaria del año 2027. Las y los Magistrados, las y los Jueces que decidan participar en el proceso electoral extraordinario 2025 deberán manifestar su intención por escrito dentro de los dos días posteriores a la entrada en vigor del presente Decreto a la Presidencia del Consejo de la Judicatura de la Ciudad de México, quien deberá remitir al día siguiente al Congreso el listado de personas magistradas y juzgadoras sujetas a la elección.
+
+El Congreso tendrá un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas que participan en la elección extraordinaria para renovar los cargos del Poder Judicial de la Ciudad de México, conforme al procedimiento previsto en este Decreto.
+
+El Congreso emitirá a más tardar el 30 de diciembre del 2024, la convocatoria para integrar los listados de las personas que participarán en la elección.
+
+El Congreso constituirá una Comisión Especial para tramitar, desahogar y resolver los asuntos relacionados con las disposiciones relacionados (sic) con la reforma al Poder Judicial de la Ciudad de México y de conformidad con lo que establezca su régimen interno y las leyes aplicables.
+
+TERCERO. El Consejo General del Instituto Electoral de la Ciudad de México podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales locales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las consejerías del Poder Legislativo y las representaciones de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+Las boletas electorales contendrán, entre otros datos, los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, materno y nombre, e indicando la especialización por materia cuando corresponda. El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección.
+
+La boleta garantizará que las y los votantes asienten la candidatura de su elección conforme a lo siguiente:
+
+a) Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir hasta 3 mujeres y hasta 2 hombres;
+
+b) Para Magistradas, Magistrados, Juezas y Jueces podrán elegir hasta 5 mujeres y hasta 5 hombres para cada cargo.
+
+La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General del Instituto Electoral de la Ciudad de México celebre dentro de los siete días posteriores a que se emita el presente Decreto.
+
+La Jornada del Proceso Electoral Extraordinario 2025 de la Ciudad de México se celebrará el primer domingo de junio del año 2025, de manera concurrente con el proceso Electoral Extraordinario para la elección de integrantes del Poder Judicial de la Federación. En la Jornada Electoral podrán participar como observadoras las personas o agrupaciones acreditadas por el INE con excepción de representantes o militantes de un partido político.
+
+El Instituto Electoral de la Ciudad de México efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer.
+
+También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral de la Ciudad de México quien resolverá las impugnaciones a más tardar el 26 de julio de 2025.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso de la Ciudad de México el 1o. de septiembre de 2025. El órgano de administración judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de septiembre de 2025.
+
+CUARTO. El Consejo de la Judicatura continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial de la Ciudad, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura en funciones a la entrada en vigor del presente Decreto que concluyan antes de la fecha de la elección extraordinaria del año 2025, se prorrogarán hasta la fecha que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre para tal efecto, salvo cuando sean electas por la ciudadanía para integrar el Tribunal de Disciplina Judicial por el periodo que corresponda, conforme al procedimiento señalado en el artículo Segundo transitorio del presente Decreto.
+
+Para el caso del Tribunal de Disciplina Judicial electo en la elección extraordinaria del año 2025 las personas que ocupen las dos votaciones más altas cubrirán el periodo correspondiente al año 2025-2033 y las tres restantes cubrirán el periodo 2025-2030.
+
+Las Consejeras y Consejeros de la Judicatura que se encuentren en funciones a la entrada en vigor del presente Decreto podrán postularse y participar en la elección extraordinaria del año 2025 para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial por el periodo que corresponda cuando cumplan con los requisitos constitucionales y legales aplicables.
+
+QUINTO. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre en el año 2025. En esta misma fecha, el Consejo de la Judicatura quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura, implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial; y al órgano de administración judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Consejo de la Judicatura aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Consejo de la Judicatura continuará la sustanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al órgano de administración judicial, según corresponda.
+
+Las personas que integren el Pleno del órgano de administración judicial deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial. Para la designación de las tres personas integrantes del órgano de administración judicial que correspondan al Pleno del Tribunal Superior de Justicia de la Ciudad, se requerirá, el voto de las dos terceras del Pleno del Tribunal.
+
+SEXTO. El Congreso de la Ciudad de México tendrá un plazo de 40 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes que correspondan para dar cumplimiento. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+SÉPTIMO. Los derechos laborales de las personas trabajadoras del Poder Judicial de la Ciudad de México serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables. Las personas titulares de magistratura y juzgados que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme al segundo párrafo del artículo SEGUNDO transitorio de este Decreto, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado dentro del Poder Judicial de la Ciudad de México, así como a las demás prestaciones a que tengan derecho.
+
+Los órganos del Poder Judicial de la Ciudad de México, llevarán a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Administración y Finanzas de la Ciudad de México.
+
+Los recursos a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos en la Secretaría de Administración y Finanzas de la Ciudad de México y se destinarán por dicha dependencia a la implementación del presente Decreto y a los demás fines que esta determine.
+
+La Secretaría de Administración y Finanzas de la Ciudad de México deberá informar en un apartado especial, tanto en los informes de cierre preliminar y de Cuenta Pública de 2024, por concepto y monto que resulte de los enteros que les sean reportados según se establece el segundo párrafo de este artículo; y por otra parte, en los Informes de Avance Trimestral de 2025, los destinos de gasto que se asignó a cada concepto de recursos que fueron recibidos, donde, ambos casos, fuente de recursos y destino de gasto deben guardar congruencia.
+
+OCTAVO. Para la interpretación y aplicación de este Decreto, los órganos de gobierno de la Ciudad de México y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+NOVENO. La Jornada de votación para la Elección Extraordinaria de las personas integrantes del Poder Judicial de la Ciudad de México, deberá realizarse el 1 de junio de 2025.
+
+El periodo de las Magistradas, Magistrados, Juezas y Jueces del Poder Judicial de la Ciudad de México que sean electos en la elección extraordinaria del año 2025 durará ocho años, por lo que vencerá en el año 2033.
+
+DÉCIMO. Para determinar las personas que deberán ocupar la presidencia del Tribunal Superior de Justicia de la Ciudad de México, el Instituto Electoral integrará un listado con las personas magistradas que obtengan el mayor porcentaje de votación en el proceso electoral extraordinario del 2025 y el proceso ordinario de 2027.
+
+La persona que encabece el listado iniciará el mandato en 2027 una vez que sean electos la totalidad de los cargos del Tribunal Superior de Justicia de la Ciudad de México y de manera sucesiva las personas ocuparán los siguientes lugares en orden descendente.
+
+La presidencia del Tribunal Superior de Justicia de la Ciudad de México para el periodo 2025-2027 será electa por las dos terceras partes del Pleno que se integre a partir del 1° de septiembre de 2025, pudiendo ser electa cualquiera de las personas integrantes del Pleno.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
