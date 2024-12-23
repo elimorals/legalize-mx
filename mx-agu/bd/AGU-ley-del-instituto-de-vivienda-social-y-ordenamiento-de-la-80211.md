@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-80211
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-28"
-last_updated: "2024-06-24"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2024.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 28 de febrero de 2011.
 
@@ -165,7 +165,9 @@ I) Propiciar la participación de la comunidad en acciones de autoconstrucción 
 
 J) Vigilar y asesorar que la construcción de vivienda, se realice preservando el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las familias;
 
-K) Comercializar los predios propiedad del Instituto teniendo la facultad de vender, permutar ·o realizar cualquier contrato traslativo de dominio sobre los mismos a favor de terceros, con el propósito de que se construya vivienda, fraccionamientos o proyectos turísticos, industriales o de impacto social o económico para la comunidad;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+K) Comercializar los predios del Instituto teniendo la facultad de desincorporarlos bajo cualquier contrato traslativo de dominio sobre los mismos a favor de terceros; estipulando para ello contraprestaciones, como venta, permuta, ejecución de obras, mejoramiento y renovación de la infraestructura existente, implementación de nueva en áreas de reserva urbana, con el propósito de que se construya vivienda, unifamiliar, plurifamiliar horizontal, plurifamiliar vertical, o de usos comercial y de servicios, turístico, industrial o cualesquiera otra acción urbanística cuyos impactos sean benéficos social o económicamente para la comunidad.
 
 L) Promover y participar en la introducción de servicios públicos;
 
@@ -361,11 +363,17 @@ XVII. Autorizar la contratación de servicios de asesoría, relacionados con los
 
 XVIII. Aprobar, atendiendo a las circunstancias del caso, el pago en especie, que establece el Artículo 8º de esta Ley;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIX. Autorizar los términos y condiciones de las asociaciones con dependencias y entidades de la Administración Pública Federal, Estatal o municipal, los sectores privado o social conforme a lo establecido en el Reglamento de esta Ley; y
+XIX. Autorizar los términos y condiciones de las asociaciones con dependencias y entidades de la Administración Pública Federal, Estatal o municipal, los sectores privado o social conforme a lo establecido en el Reglamento de esta Ley;
 
-XX. Las demás que se requieran para el cumplimiento del objeto del Instituto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XX. Autorizar los actos de dominio a que se refiere el artículo 4, fracción III, inciso K) de esta ley, tomando las medidas necesarias para garantizar el interés patrimonial del Estado, el orden público y el interés social de conformidad a las contraprestaciones y/o medidas de compensación estipuladas para ello, en los contratos traslativos de dominio que celebre el Instituto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXI. Las demás que se requieran para el cumplimiento del objeto del Instituto.
 
 ###### ARTÍCULO 21.
 
@@ -716,3 +724,11 @@ P.O. 24 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 101.- SE REFORMAN LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
