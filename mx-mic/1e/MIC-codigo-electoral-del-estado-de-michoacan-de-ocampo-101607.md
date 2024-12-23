@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2024-09-27"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -47,7 +47,9 @@ CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 Las disposiciones de este Código son de orden público y de observancia general en el Estado Libre y Soberano de Michoacán de Ocampo y reglamenta las normas constitucionales y generales relativas a:
 
-I. La función de organizar las elecciones de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I. La función de organizar las elecciones de los integrantes de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos;
 
 II. La organización, funcionamiento, derechos, obligaciones, prerrogativas y demás acciones relativas a los partidos políticos; y,
 
@@ -117,21 +119,25 @@ XIII. Tribunal: Tribunal Electoral del Estado de Michoacán;
 
 XIV. UMA: Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad; y,
+XV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XVI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+XVI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 7 DE JULIO DE 2020]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+XVII. Poder Judicial: Poder Judicial del Estado de Michoacán de Ocampo;
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 7 DE JULIO DE 2020]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+XVIII. Ley de Justicia: Ley de Justicia en Materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XIX. Ley General: Ley General del Sistema de Medios de Impugnación en Materia Electoral.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -6567,6 +6573,574 @@ a) En caso de la fórmula o quien encabezó la planilla postulada por la coalici
 
 b) En caso de la fórmula o quien encabezó la planilla postulada por la coalición o la candidatura común, haya sido integrada por personas del género masculino, los Partidos Políticos podrán optar por la postulación del mismo género, o en su defecto por un género distinto.
 
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+# LIBRO SÉPTIMO. DE LA INTEGRACIÓN DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO PRIMERO. DE LA PARTICIPACIÓN DE LA CIUDADANÍA EN LA RENOVACIÓN DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 358.
+
+Las personas magistradas y juezas del Poder Judicial, serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución General, y leyes secundarias de la materia, la Constitución Local y este Código.
+
+La elección ordinaria de las personas juzgadoras se celebrará el primer domingo del mes de junio del año que corresponda de manera concurrente con los procesos electorales en que se renueve el Congreso.
+
+Los poderes del Estado, el Instituto y el Tribunal, en el ámbito de sus competencias, serán autoridades responsables para la emisión de la convocatoria, postulación de candidaturas, autoridad responsable de la organización de la elección, su jornada electoral, los cómputos, asignación de cargos, los resultados electorales y entrega de constancias y declaración de validez de la elección.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 359.
+
+La elección de las personas magistradas integrantes del Tribunal de Disciplina Judicial se llevará a cabo a nivel estatal.
+
+Las personas magistradas y magistrados, y de juezas y jueces en materia penal, su elección será estatal, en una sola circunscripción en el Estado.
+
+Las personas magistradas y magistrados y juezas y jueces en materias civil, familiar, mercantil, laboral y mixtos, se elegirán por las circunscripciones, distritos o regiones acordadas por el órgano de administración judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 360.
+
+En caso de ausencia de disposición expresa dentro de este Libro, se estará a lo que este Código señala.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SEGUNDO. DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO PRIMERO. REGLAS GENERALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 361.
+
+El proceso electoral de las personas juzgadoras es el conjunto de actos, ordenados por la Constitución General, la Constitución Local, la Ley General, y este Código, realizado por las autoridades electorales, los Poderes del Estado, así como la ciudadanía, que tiene por objeto la renovación periódica de las personas juzgadoras.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 362.
+
+Para los efectos de este Código, el proceso de elección de las personas juzgadoras del Poder Judicial comprende las siguientes etapas:
+
+a) Preparación de la elección;
+
+b) Convocatoria y postulación de candidaturas;
+
+c) Jornada electoral;
+
+d) Cómputos y sumatoria;
+
+e) Asignación de cargos; y,
+
+f) La entrega de constancias de mayoría y declaración de validez de la elección.
+
+La etapa de Preparación de la elección inicia con la primera sesión que el Consejo General del Instituto celebre en los primeros siete días del mes de septiembre del año anterior a la elección, y concluye al iniciarse la Jornada electoral.
+
+La etapa de Convocatoria y postulación de candidaturas inicia con la publicación de la convocatoria general que emita el Congreso conforme a la fracción I del artículo 69 de la Constitución Local, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Instituto.
+
+La etapa de la Jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con el cómputo de los votos en casilla.
+
+La etapa de Cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los consejos distritales o municipales, y concluye con la sumatoria de los cómputos de las elecciones la elección que realice el Consejo General del Instituto.
+
+La etapa de asignación de cargos inicia con la identificación por el Instituto de las candidaturas que hayan obtenido el mayor número de votos y la asignación de éstas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, iniciando con mujer cis género y concluye con la entrega por el Instituto de las constancias de mayoría a las candidaturas que resulten ganadoras y la emisión de la declaración de validez respectiva.
+
+La etapa de calificación y declaración de validez estará a cargo del Tribunal e inicia al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno, y concluye con la emisión al aprobar el Tribunal o la Sala Superior del Tribunal Electoral, el dictamen de validez de las elecciones que contenga el cómputo final de la elección.
+
+Atendiendo al principio de definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la persona Secretaria Ejecutiva del Instituto titular de la Secretaría Ejecutiva del Instituto, difundirá su realización y conclusión por los medios que estime pertinentes.
+
+El Instituto habilitará a las personas candidatas un buzón electrónico a través del cual recibirán notificaciones personales de acuerdos y resoluciones emitidas por la autoridad electoral, en los términos de este Código, la Ley General, la Ley de Justicia, y la Ley General del Sistema.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 363.
+
+El Congreso, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes Ejecutivo, Legislativo y Judicial del Estado de Michoacán para integrar el listado de candidaturas para la elección de las personas juzgadoras del Poder Judicial del Estado.
+
+La convocatoria general deberá observar las bases, procedimientos y requisitos que establece la Constitución General, la Constitución Local, la Ley General y este Código, y deberá contener lo siguiente:
+
+a) Fundamentos constitucionales y legales aplicables;
+
+b) Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, distrito judicial o región judicial respectiva cuando resulte aplicable;
+
+c) Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución Local;
+
+d) Ámbito territorial para el que se elegirán a las personas juzgadoras;
+
+e) Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapa de postulación hasta la de calificación y declaración de validez;
+
+f) Fechas y plazos que deberán observar los Poderes Ejecutivo, Legislativo y Judicial para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas; y,
+
+g) Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+La convocatoria general no podrá establecer requisitos adicionales a los establecidos por la Constitución General, la Constitución Local, la Ley General y este Código para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes del Estado.
+
+Para la emisión de la convocatoria general, el Órgano de Administración Judicial comunicará oportunamente al Congreso los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia, el distrito judicial o región judicial respectiva y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el Órgano de Administración Judicial lo comunicará de inmediato al Congreso para su incorporación en la convocatoria respectiva.
+
+En caso de que el Órgano de Administración Judicial no remita oportunamente la información que requiera el Congreso para la elaboración de la convocatoria general, el órgano legislativo lo integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 364.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución General, la Constitución Local, la Ley General y este Código.
+
+Cada Poder del Estado instalará un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita el Congreso. Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven con sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones. Estarán conformados por tres personas de reconocido prestigio en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, garantizando la paridad de género:
+
+a) Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+b) No haber sido condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+c) Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica; y,
+
+d) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+Los Comités de Evaluación deberán observar los criterios y lineamientos que al efecto emita el Comité Estatal de Evaluación, conforme lo dispone el artículo 69 de la Constitución Local.
+
+Los Comités publicarán dentro de los quince días naturales posteriores a su integración las convocatorias para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
+
+a) La información pertinente contenida en la convocatoria general que publique el Congreso;
+
+b) Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de postulaciones por el Comité;
+
+c) Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso; y,
+
+d) La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización, la cual incluirá, por lo menos, lo dispuesto en el presente artículo.
+
+Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución.
+
+Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las candidaturas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal, la Sala Regional, o la Sala Superior según corresponda, dentro del plazo y conforme al procedimiento que determine la Ley y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para definir criterios uniformes y homologados, los comités de evaluación de los tres poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar los acuerdos sobre mecanismos, requisitos y otros criterios, que deberán observar los comités de evaluación de cada poder para elegir a los perfiles mejor evaluados.
+
+La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes del Estado por el mismo cargo y distrito judicial o región judicial no afectará el resultado de la evaluación.
+
+Los Comités remitirán a cada poder el listado para su aprobación en términos del artículo 69 de la Constitución Local y de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular del Gobierno del Estado de Michoacán;
+
+b) El Poder Legislativo, por conducto del pleno del Congreso, mediante votación calificada de dos tercios de sus integrantes presentes; y,
+
+c) El Poder Judicial, por conducto del pleno del Supremo Tribunal de Justicia del Estado, por votación favorable de dos tercios de sus integrantes presentes.
+
+Los listados aprobados en términos del párrafo anterior por los Poderes Ejecutivo, Legislativo y Judicial serán remitidos al Congreso a más tardar el primer día del mes de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidas para hacerlo posteriormente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 365.
+
+El Congreso integrará los listados y expedientes de las personas postuladas por cada Poder del Estado conforme al tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria general, y a quienes hayan sido postuladas para un cargo o circuito distrito o región judicial diverso al que ocupen.
+
+Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo o distrito judicial diverso deberán informar al Congreso dentro de los treinta días posteriores a la publicación de la convocatoria general, a efectos de no ser incorporadas en los listados de candidaturas.
+
+El Congreso cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes Ejecutivo, Legislativo y Judicial para un cargo o distrito judicial diverso al que ocupen.
+
+El Congreso estará impedido para pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar, y remitir los listados, y sus expedientes digitales, así como las versiones públicas al Instituto, a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 366.
+
+En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, el Poder Estatal postulante podrá solicitar al Congreso su sustitución antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO TERCERO. DE LA ORGANIZACIÓN DE LA ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 367.
+
+El Instituto en el ámbito de las atribuciones conferidas es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, así como la paridad de género.
+
+La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 368.
+
+Corresponde al Consejo General del Instituto:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en este Código;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección a nivel estatal, por distrito judicial o región judicial, de conformidad con el ámbito territorial que determine el Órgano de Administración Judicial;
+
+V. Realizar los cómputos de la elección;
+
+VI. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VII. Vigilar que ninguna persona candidata reciba financiamiento público o privado en sus campañas y de ser el caso le dé vista a la autoridad competente;
+
+VIII. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura y establecer las reglas de fiscalización y formatos para comprobar dicha información;
+
+IX. Garantizar que ninguna persona candidata contrate por sí o por interpósita persona espacios en radio y televisión, Internet o cualquier otro medio de comunicación para promocionar sus candidaturas;
+
+X. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+XI. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas;
+
+XII. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+XIII. Realizar los ajustes necesarios para garantizar la paridad de género en la asignación; y,
+
+XIV. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este Código y las demás que establezcan las leyes.
+
+El Consejo General del Instituto no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LA PROPAGANDA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 369.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 370.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas integrantes del Poder Judicial, de conformidad con lo dispuesto por el artículo 69 de la Constitución Local.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 371.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de dádiva o material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con este Código y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 372.
+
+La difusión de propaganda electoral sólo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 373.
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. ENCUESTAS Y SONDEOS DE OPINIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 374.
+
+El Instituto aplicará las reglas, lineamientos y criterios aprobados por el Consejo General del Instituto Nacional para que las personas físicas o morales realicen encuestas o sondeos de opinión en el marco del proceso de elección de personas juzgadoras locales.
+
+Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral correspondiente.
+
+Queda prohibida la contratación, por parte de personas candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Instituto en su página de Internet.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. DE LA ELECCIÓN POR DISTRITOS JUDICIALES Y REGIONES JUDICIALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 375.
+
+En el mes de agosto del año previo al de la elección, el Órgano de Administración Judicial remitirá al Instituto la división del territorio estatal por distrito judicial o región judicial, indicando el municipio o municipios que abarcan, así como el número y materia de los juzgados civiles y familiares de primera instancia que tengan residencia en cada distrito judicial, y la sede de las regiones judiciales en materias penal de primera instancia y en materias penal y civil de segunda instancia. En caso de que el Órgano de Administración Judicial no remita dicha información, el Instituto determinará lo conducente con la información pública que disponga.
+
+La Junta Estatal Ejecutiva, con base en la información remitida por el órgano de administración judicial, elaborará un plan de coordinación en materia de organización electoral, en el cual indicará los órganos locales y distritales del Instituto que coadyuvarán en la organización de la elección, así como en la respectiva etapa de cómputos de las elecciones.
+
+El Consejo General del Instituto aprobará el plan de coordinación y llevará a cabo la instalación de los consejos distritales y municipales estrictamente indispensables para la realización de la elección que corresponda.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 376.
+
+El Instituto instalará los consejos distritales y municipales a que hacen referencia los artículos 65 a 70 de la Ley General, que coadyuvarán con el Instituto Nacional en la elección de personas magistradas y juezas del Poder Judicial Federal.
+
+El Instituto Nacional instalará los consejos distritales a que hacen referencia los artículos 76 a 80 de la Ley General, que coadyuvarán con los consejos locales en la organización y cómputo de la elección de personas magistradas y juezas del Poder Judicial Federal.
+
+El Instituto deberá coadyuvar con el Instituto Nacional, en los términos que determine el Consejo General, en la organización y cómputo de la elección de personas magistradas de los Tribunales Colegiados de Circuito y Tribunales Colegiados de Apelación, así como juezas de Juzgados de Distrito, teniendo las mismas atribuciones a que se refiere la Ley General.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN CUARTA. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 377.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, será realizada por el Instituto Nacional en los términos dispuestos en la Ley General y en los acuerdos que emita su Consejo General.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN QUINTA. DE LAS BOLETAS Y MATERIALES ELECTORALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 378.
+
+Para la emisión del voto el Consejo General del Instituto, de conformidad con los criterios establecidos por el Instituto Nacional, aprobará el modelo de las boletas electorales, la documentación del proceso de elección de las personas integrantes del Poder Judicial y los materiales que serán utilizados en la Jornada electoral y cómputos.
+
+El Instituto será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas, si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 379.
+
+Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+
+a) Cargo para el que se postula la persona candidata;
+
+b) Distrito judicial o región judicial, según el caso;
+
+c) Primer apellido, segundo apellido y nombre completo de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas;
+
+d) Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto; y,
+
+e) Especialidad por materia a la que se postula cada persona candidata.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa, en su caso, región, judicial, y/o distrito judicial. El número de folio será progresivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEXTA. DE LA OBSERVACIÓN ELECTORAL
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 380.
+
+La ciudadanía podrá ejercitar sus derechos como persona observadora electoral en términos de lo dispuesto en la Ley General, este Código y conforme a los acuerdos que al efecto emita el Consejo General del Instituto.
+
+Las personas observadoras acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SÉPTIMA. DEL ACCESO A LOS TIEMPOS EN RADIO Y TELEVISIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 381.
+
+Durante el lapso legal de campaña, el Instituto Nacional será la autoridad que administrará y gestionará el acceso a los tiempos del Estado que correspondan a radio y televisión.
+
+Los monitoreos y mecanismos para verificar el cumplimiento de los tiempos de radio y televisión estarán a cargo del Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 382.
+
+El Instituto observará que los contenidos de los promocionales de radio y televisión se ajusten a los formatos y parámetros que establezca el Instituto Nacional, promoviendo la consulta de los perfiles de las personas candidatas a través de las plataformas digitales habilitadas para tal efecto.
+
+El Instituto pondrá a disposición de las personas candidatas espacios digitales para difundir mensajes en redes sociales o Internet.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN OCTAVA. DE LAS CAMPAÑAS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 383.
+
+La campaña electoral, para los efectos de este Libro, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución y este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 384.
+
+Las personas candidatas podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que al efecto emita el Consejo General del Instituto en observancia a lo dispuesto en este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 385.
+
+Las campañas electorales para la promoción de las candidaturas establecidas en este Libro tendrán una duración de cuarenta y cinco días improrrogables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 386.
+
+Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura dentro de los periodos de campaña respectivos.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General del Instituto en función del tipo de elección que se trate y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas independientes a diputaciones.
+
+Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN NOVENA. DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 387.
+
+Durante la Jornada electoral se utilizará el Listado Nominal de Electores de forma física o digital, conforme lo determine el Consejo General del Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 388.
+
+El Consejo General del Instituto Nacional deberá aprobar, a más tardar en el mes de diciembre del año previo al de la elección, los plazos y términos para el uso de la Lista Nominal de Electores.
+
+El corte definitivo del estadístico del Listado Nominal aprobado por el Consejo General del Instituto Nacional, será el 15 de febrero del año de la elección. Dicho estadístico será el insumo para el procedimiento de integración y determinación del número de mesas directivas de casilla a emplearse en la elección. La aprobación del listado y su verificación se realizará bajo los procedimientos y disposiciones contenidas en esta Ley y en los acuerdos que se emitan sobre el particular.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN DÉCIMA. DE LAS ACTIVIDADES DEL INSTITUTO PARA LA PROMOCIÓN DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 389.
+
+El Consejo General del Instituto aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del Instituto para informar a la ciudadanía sobre el proceso electivo y dar a conocer las candidaturas registradas.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+a) No será un medio de propaganda política;
+
+b) Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+c) Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+d) La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Instituto, que deberá supervisar que se ajuste a este Código y los parámetros que al efecto determine el Consejo General; y,
+
+e) La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la Jornada electoral.
+
+Para efectos de las actividades que realice el Instituto para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Instituto, medios electrónicos o digitales institucionales y periódicos de mayor circulación y cobertura en la entidad que corresponda, entre otros.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO CUARTO. DE LA JORNADA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 390.
+
+El Consejo General del Instituto Nacional emitirá los lineamientos en materia de fiscalización que garanticen el cumplimiento de las reglas establecidas en este Libro.
+
+El Instituto Nacional podrá requerir a las personas candidatas la información necesaria para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos. Asimismo, podrá solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando de su declaración patrimonial y de intereses o de la revisión de la información en materia de fiscalización que proporcione, se adviertan movimientos inusuales o elementos que no justifiquen la procedencia lícita de los bienes o recursos reportados.
+
+En el cumplimiento de sus atribuciones, el Consejo General no estará limitado por los secretos bancario, fiduciario y fiscal. La Unidad Técnica de Fiscalización del Instituto Nacional será el conducto para superar la limitación referida, incluso en el caso de que delegue esta función.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 391.
+
+La Jornada electoral se desarrollará en los términos establecidos en la Ley General y este Código, debiéndose llenar al efecto la documentación que apruebe el Consejo General del Instituto por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 392.
+
+El Instituto Nacional emitirá los lineamientos correspondientes para regular esta disposición.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 393.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta;
+
+b) El Instituto determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir; y,
+
+c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 394.
+
+El escrutinio y cómputo de las votaciones en casilla para los cargos de elección de las personas del Poder Judicial se realizará a la conclusión de los escrutinios y cómputos de la gubernatura, las diputaciones locales y los ayuntamientos, en el orden siguiente:
+
+a) Personas magistradas integrantes del Supremo Tribunal de Justicia del Estado;
+
+b) Personas magistradas integrantes del Tribunal de Disciplina Judicial;
+
+c) Personas juezas integrantes de los Juzgados de Primera Instancia; y,
+
+d) Personas juezas integrantes de los Juzgados menores.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO QUINTO. DE LOS CÓMPUTOS Y SUMATORIA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 395.
+
+Los consejos distritales y municipales, respectivamente, realizarán el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete. El Consejo General del Instituto emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 396.
+
+Concluidos los cómputos de cada elección, el consejo correspondiente distrital o municipal emitirá a cada candidatura ganadora una Constancia de Mayoría.
+
+Una vez que se hayan computado la totalidad de las elecciones por parte de los consejos distritales, y municipales, se remitirán al Consejo General del Instituto para que proceda a realizar el cómputo de la sumatoria por tipo de las elecciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO. DE LA ASIGNACIÓN DE LAS PERSONAS JUZGADORAS DE LOS CARGOS QUE SE ELIGEN A NIVEL ESTATAL
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 397.
+
+Una vez que el Consejo General del Instituto realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, entre mujeres y hombres e iniciando con mujeres cis género y publicará los resultados de la elección.
+
+El Instituto hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Emitida la declaración de validez de la elección, el Instituto comunicará los resultados al Tribunal.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 398.
+
+El Tribunal o en su caso, la Sala Regional o Superior del Tribunal Electoral, resolverán las impugnaciones que se hayan presentado contra las constancias de mayoría y declaración de validez, tres días antes de que el Congreso instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SÉPTIMO. ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 399.
+
+Las personas juzgadoras locales electas deberán tomar protesta ante el Congreso el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
@@ -6866,3 +7440,39 @@ P.O. 27 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 409.- ARTÍCULO ÚNICO.- SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 3 BIS Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4; SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 158; Y, SE ADICIONA EL INCISO G) A LA FRACCIÓN VII DEL ARTÍCULO 230 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 264 OCTIES, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 140 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, FRACCIÓN I, Y 3; Y SE ADICIONA EL LIBRO SÉPTIMO DE LA INTEGRACIÓN DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO; EL TÍTULO PRIMERO DE LA PARTICIPACIÓN DE LA CIUDADANÍA EN LA RENOVACIÓN DEL PODER JUDICIAL, AL LIBRO SÉPTIMO; EL CAPÍTULO ÚNICO DISPOSICIONES GENERALES, AL TÍTULO PRIMERO; LOS ARTÍCULOS 358, 359 Y 360, AL CAPÍTULO ÚNICO; EL TÍTULO SEGUNDO DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN, AL LIBRO SÉPTIMO; EL CAPÍTULO PRIMERO REGLAS GENERALES, AL TÍTULO SEGUNDO; LOS ARTÍCULOS 361 Y 362, AL CAPÍTULO PRIMERO; EL CAPÍTULO SEGUNDO DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS, AL TÍTULO SEGUNDO; LOS ARTÍCULOS 363, 364, 365 Y 366, AL CAPÍTULO SEGUNDO; EL CAPÍTULO TERCERO DE LA ORGANIZACIÓN DE LA ELECCIÓN, AL TÍTULO SEGUNDO; LOS ARTÍCULOS 367 Y 368, AL CAPÍTULO TERCERO; LA SECCIÓN PRIMERA DE LA PROPAGANDA, AL CAPÍTULO TERCERO; LOS ARTÍCULOS 369, 370, 371, 372, 373, A LA SECCIÓN PRIMERA; LA SECCIÓN SEGUNDA ENCUESTAS Y SONDEOS DE OPINIÓN, AL CAPÍTULO TERCERO; EL ARTÍCULOS 374, A LA SECCIÓN SEGUNDA; LA SECCIÓN TERCERA DE LA ELECCIÓN POR DISTRITOS JUDICIALES Y REGIONES JUDICIALES, AL CAPÍTULO TERCERO; LOS ARTÍCULOS 375 Y 376, A LA SECCIÓN TERCERA; LA SECCIÓN CUARTA DE LAS MESAS DIRECTIVAS DE CASILLA, AL CAPÍTULO TERCERO; EL ARTÍCULO 377, A LA SECCIÓN CUARTA; LA SECCIÓN QUINTA DE LAS BOLETAS Y MATERIALES ELECTORALES, AL CAPÍTULO TERCERO; LOS ARTÍCULOS 378 Y 379, A LA SECCIÓN QUINTA; LA SECCIÓN SEXTA DE LA OBSERVACIÓN ELECTORAL, AL CAPÍTULO TERCERO; EL ARTÍCULO 380, A LA SECCIÓN SEXTA; LA SECCIÓN SÉPTIMA DEL ACCESO A LOS TIEMPOS EN RADIO Y TELEVISIÓN, AL CAPÍTULO TERCERO; LOS ARTÍCULOS 381 Y 382, A LA SECCIÓN SÉPTIMA; LA SECCIÓN OCTAVA DE LAS CAMPAÑAS ELECTORALES, AL CAPÍTULO TERCERO; LOS ARTÍCULOS 383, 384, 385 Y 386, A LA SECCIÓN OCTAVA; LA SECCIÓN NOVENA DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL, AL CAPÍTULO TERCERO; LOS ARTÍCULOS 387 Y 388, A LA SECCIÓN NOVENA; LA SECCIÓN DÉCIMA DE LAS ACTIVIDADES DEL INSTITUTO PARA LA PROMOCIÓN DE LA PARTICIPACIÓN CIUDADANA, AL CAPÍTULO TERCERO; EL ARTÍCULO 389, A LA SECCIÓN DÉCIMA; EL CAPÍTULO CUARTO DE LA JORNADA ELECTORAL, AL TÍTULO SEGUNDO; LOS ARTÍCULOS 390, 391, 392, 393 Y 394, AL CAPÍTULO CUARTO; EL CAPÍTULO QUINTO DE LOS CÓMPUTOS Y SUMATORIA, AL TÍTULO SEGUNDO; LOS ARTÍCULOS 395 Y 396, AL CAPÍTULO QUINTO; EL CAPÍTULO SEXTO DE LA ASIGNACIÓN DE LAS PERSONAS JUZGADORAS DE LOS CARGOS QUE SE ELIGEN A NIVEL ESTATAL, AL TÍTULO SEGUNDO; LOS ARTÍCULOS 397 Y 398, AL CAPÍTULO SEXTO; EL CAPÍTULO SÉPTIMO ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN, AL TÍTULO SEGUNDO; Y EL ARTÍCULO 399, AL CAPÍTULO SÉPTIMO; TODAS LAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán.
+
+Segundo. El Congreso y el Instituto, atenderán lo dispuesto en este Código y acatarán, en lo que corresponda, los acuerdos y lineamientos emitidos por el Consejo General del Instituto Nacional en lo que sea aplicable al proceso electoral local, respecto a la renovación de las personas magistradas y juzgadoras que integran el Poder Judicial de esta entidad federativa.
+
+Tercero. En lo que respecta a la etapa de convocatoria y postulación de candidaturas de las personas juzgadoras del Poder Judicial del Estado en el marco del Proceso Electoral Extraordinario 2024- 2025, las autoridades competentes observarán, por única ocasión, lo dispuesto en el Decreto 03, conforme a los plazos siguientes:
+
+1. El Congreso emitirá la convocatoria general dirigida a los Poderes Ejecutivo, Legislativo y Judicial para integrar el listado de candidaturas a que hace referencia el artículo 363, a más tardar el 14 de diciembre del 2024.
+
+2. Los Poderes del Estado instalarán sus respectivos Comité Estatal de Evaluación y Comités de Evaluación de cada Poder del Estado, en los términos del artículo 69, fracción II, inciso b), del Decreto Número 03 que reforma la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia del Poder Judicial; y del artículo 364, párrafo segundo de este Código, a más tardar el 21 de diciembre de 2024.
+
+3. Los Comités publicarán las convocatorias para participar en el proceso de evaluación y selección de postulaciones en los términos del artículo 364, a más tardar el 31 de diciembre de 2024;
+
+4. El plazo para que las personas interesadas se inscriban en las convocatorias emitidas por los Comités de Evaluación comprenderá del 02 de enero al 22 de enero de 2025.
+
+5. Los Comités de Evaluación verificarán que las personas aspirantes que hayan concurrido a la convocatoria reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, en los términos del párrafo cuarto del artículo 364, a más tardar el 30 de enero de 2025.
+
+6. Los Comités de Evaluación calificarán la idoneidad de las personas elegibles y remitirán a la autoridad que representa a cada Poder del Estado para su aprobación, a más tardar el 05 de febrero de 2025.
+
+7. Los listados aprobados, en términos del numeral anterior, serán remitidos al Congreso a más tardar el 07 de febrero de 2025.
+
+8. El Congreso integrará los listados y expedientes de las personas postuladas por cada poder del Estado en los términos del artículo 365 y los remitirá al Instituto a más tardar el 12 de febrero de 2025 a efecto de que organice el proceso electivo.
+
+Cuarto. Las disposiciones aplicables del presente Decreto, para el Órgano de Administración Judicial corresponderán al Consejo del Poder Judicial del Estado hasta su extinción, en los términos del artículo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia de reforma del Poder Judicial, publicada en el Periódico Oficial del Estado el 13 de noviembre de 2024.
+
+Quinto. El Consejo del Poder Judicial del Estado entregará al Congreso, a más tardar al cierre de la convocatoria general a que hace referencia el artículo 69 de la Constitución, el listado de las personas que se encuentren en funciones en los cargos que serán materia del Proceso Electoral Extraordinario 2024-2025, para que sean incorporadas al listado de candidaturas por pase directo, excepto cuando manifiesten al órgano legislativo la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo o circuito judicial diverso.
+
+Sexto. Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral Extraordinario 2024-2025 y pretendan una postulación para un cargo o distrito o región judicial diversos, deberán informarlo al Congreso con cuando menos cinco días previos al cierre de la convocatoria general a que hace referencia el artículo 69 de la Constitución, a efectos de no ser incorporadas en los listados de candidaturas.
+
+El Congreso cancelará las candidaturas de las personas servidoras públicas que omitan informar al Consejo del Poder Judicial del Estado lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo o distrito judicial diverso al que ocupen.
+
+Séptimo. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
