@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2024-07-01"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
@@ -365,11 +365,13 @@ IX. Expedir reglas técnicas, procedimientos, métodos y sistemas de archivo de 
 
 X. Expedir oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XI. Designar a los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control, de la Dirección General de Administración, titulares de unidades, directores de área, coordinadores, jefaturas, auditores, asesores jurídicos y demás servidores públicos, así como expedir nombramientos del personal de la Auditoría Superior del Estado.
+XI. Designar y remover a los titulares de las auditorías especiales de Auditoría Financiera, de Auditoría de Obra Pública, de Auditoría al Desempeño, de la Dirección General de Asuntos Jurídicos, de la Secretaría Ejecutiva, del Órgano Interno de Control, de la Dirección General de Administración, titulares de unidades, directores de área, coordinadores, jefaturas, auditores, asesores jurídicos y demás servidores públicos, así como expedir nombramientos del personal de la Auditoría Superior del Estado.
 
-Los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control y de la Dirección General de Administración durarán un periodo de 4 años en el cargo y podrán ser ratificados hasta por un periodo adicional;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Esta atribución no la podrán ejercer los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y la Dirección General de Asuntos Jurídicos cuando hagan las veces de encargado de despacho de la Auditoría Superior.
 
 XII. Requerir a los titulares de los sujetos fiscalizables, la remisión de información y documentación específica para el cumplimiento de la función de Fiscalización Superior;
 
@@ -397,13 +399,7 @@ XXII. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción 
 
 XXIII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
-
-XXIV. Designar o remover a los titulares de las auditorías especiales de Auditoría Financiera, de Auditoría de Obra Pública, de Auditoría al Desempeño y de la Dirección General de Asuntos Jurídicos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2020)</small>
-
-Esta atribución no la podrán ejercer los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y la Dirección General de Asuntos Jurídicos cuando hagan las veces de encargado de despacho de la Auditoría Superior;
+XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
 
@@ -413,15 +409,17 @@ XXV. Solicitar información y documentación complementaria de los avances de Ge
 
 XXVI. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-Corresponde originalmente al Auditor Superior el trámite y resolución de los asuntos de la competencia de la Auditoría Superior del Estado, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto las mencionadas en las fracciones II, V, VI, VIII, XI y XXIV del artículo anterior, o aquellas que señale de manera expresa el Reglamento Interior de la Auditoría Superior del Estado, las cuales no podrán ser delegables. Para su validez, los actos de delegación deberán constar por escrito y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+Corresponde originalmente al Auditor Superior el trámite y resolución de los asuntos de la competencia de la Auditoría Superior del Estado, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto las mencionadas en las fracciones II, V, VI, VIII y XI del artículo anterior, o aquellas que señale de manera expresa el Reglamento Interior de la Auditoría Superior del Estado, las cuales no podrán ser delegables. Para su validez, los actos de delegación deberán constar por escrito y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-En caso de falta absoluta o renuncia del Auditor Superior, la presidencia de la Mesa Directiva la hará del conocimiento del Congreso y solicitará a la Comisión que proceda de conformidad a lo previsto por el artículo 11 de la presente ley, a efecto de designar al Auditor Superior que iniciará un nuevo periodo. En tanto el Congreso realiza la designación fungirá de encargado el subalterno que señale el Reglamento Interior de la Auditoría Superior del Estado.
+En caso de falta absoluta o renuncia del Auditor Superior, la presidencia de la Mesa Directiva la hará del conocimiento del Congreso y solicitará a la Comisión que proceda de conformidad a lo previsto por el artículo 11 de la presente ley, a efecto de designar al Auditor Superior que iniciará un nuevo periodo.
 
 El Auditor Superior para poder ausentarse del ejercicio de la función temporalmente hasta por quince días naturales deberá dar aviso al Congreso, por conducto de la Comisión.
 
@@ -429,9 +427,9 @@ Las ausencias temporales mayores a quince días naturales deberán ser autorizad
 
 No requerirán autorización las ausencias temporales que se motiven por la comisión de actividades oficiales propias del encargo dentro o fuera del Estado o aquellas que deriven del goce de los periodos vacacionales a los cuales tenga derecho. De éstas sólo deberá dar aviso a la Comisión.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-En cualquier caso, las ausencias temporales del Auditor Superior serán suplidas por los auditores especiales designados por el Congreso del Estado de Auditoría Financiera, de Obra Pública o del Desempeño o por el titular de la Dirección General de Asuntos Jurídicos, en el respectivo orden de prelación.
+En cualquier caso, las ausencias temporales del Auditor Superior serán suplidas por los auditores especiales de Auditoría Financiera, de Auditoría de Obra Pública, de Auditoría al Desempeño o por el titular de la Dirección General de Asuntos Jurídicos, en el respectivo orden de prelación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
@@ -441,35 +439,47 @@ Para el mejor desempeño de sus funciones, la Auditoría Superior del Estado en 
 
 La Auditoría Superior del Estado, en los términos de su reglamento interior, contará además con un órgano interno de control, con las facultades para prevenir, corregir e investigar actos u omisiones que, en el ámbito de su competencia pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Articulo 18.
 
-Para ejercer el cargo de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y la Dirección General de Asuntos Jurídicos se deberán cumplir los siguientes requisitos:
+Para ejercer el cargo de titulares de las auditorías especiales de Auditoría Financiera, de Auditoría de Obra Pública, de Auditoría al Desempeño y de la Dirección General de Asuntos Jurídicos se deberán cumplir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
 I. Ser mexicano, en pleno ejercicio de sus derechos, sin tener antes o durante el encargo la doble nacionalidad;
 
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
 II. Haber residido en el Estado durante los últimos tres años, salvo el caso de ausencia en servicio de la República o del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
 III. Tener cuando menos, treinta años cumplidos al día de la designación;
 
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
 IV. Poseer al día del nombramiento, título y cédula profesional en las áreas contables, económico-administrativas, jurídicas, financieras, de obra pública o infraestructura para los perfiles afines, expedido por autoridad o institución facultada para ello, y con una antigüedad mínima de cinco años;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
 VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Sindico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución General y la ley de la materia, y
 
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
 VIII. Contar al momento de su designación con una experiencia de al menos tres años en la Administración Pública, preferentemente en el control, manejo o fiscalización de recursos públicos.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Los Auditores Especiales y el titular de la Dirección General de Asuntos Jurídicos durarán en su encargo cuatro años y serán designados por el Auditor Superior; al término de su encargo podrán ser nombrados nuevamente por un periodo adicional.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
-
-Podrán ser removidos por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit y las normas aplicables.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
@@ -1243,26 +1253,12 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias en lo que s
 
 TERCERO. En un plazo que no exceda de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, habrán de realizarse las modificaciones al marco reglamentario y normativo para la armonización con el presente instrumento.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2092.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA Y POR. EL QUE SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA".]
+P.O. 23 DE DICIEMBRE DE 2024.
 
-PRIMERO.- El presente Decreto entrará en vigor al día primero de diciembre de dos mil dieciséis.
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT".]
 
-SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-TERCERO.- La Junta de Gobierno del Instituto de la Función Registral del Estado de Oaxaca deberá expedir la normatividad reglamentaria, para dar cumplimiento a lo dispuesto en el presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
 
-En tanto, seguirán vigentes las disposiciones reglamentarias que rigen al Registro Público y del Comercio en lo que no se oponga al presente Decreto.
-
-CUARTO.- Cuando se haga referencia al Secretario General de Gobierno, respecto de las atribuciones que les han sido derogadas en términos del presente Decreto, se entenderá al Consejero Jurídico del Gobierno del Estado.
-
-QUINTO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias, los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
-
-SEXTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de la Secretaría de Administración, en el ámbito de sus respectivas facultades, y respetando los derechos laborales de los actuales trabajadores, deberá de dar cumplimiento a lo establecido en el presente Decreto.
-
-OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
-
-El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
-
-P.O. 28 DE ENERO DE 2017.
+TERCERO. En un plazo que no exceda de sesenta días hábiles, habrán de realizarse las modificaciones al marco legal para la armonización con el presente Decreto.
