@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2022-12-23"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -151,13 +151,13 @@ Los propietarios de inmuebles que contraten los servicios de personas físicas o
 
 Son sujetos pasivos de este impuesto las personas físicas, morales o unidades económicas, que realicen las erogaciones a que se refiere el artículo 2 de la presente Ley, aun cuando tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Los sujetos a que se refiere el párrafo anterior que contraten la prestación de servicios de personal o ejecución de obras a través de un tercero, cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán presentar Aviso en el que se especificará el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador, tipo de servicio especializado o de ejecución de obras especializadas que se haya contratado, el número de empleados, con independencia del tiempo por el que fueron contratados, el monto de la operación contratada, la vigencia del contrato, el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría.
+Los sujetos a que se refiere el párrafo anterior que contraten la prestación de servicios especializados de personal o de ejecución de obras especializadas a través de un tercero, cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán presentar Aviso en el que se especificará el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador, tipo de servicio especializado o de ejecución de obras especializadas que se haya contratado, el número de empleados, con independencia del tiempo por el que fueron contratados, el monto de la operación contratada, la vigencia del contrato, el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Cuando se contrate servicios de personal para más de un establecimiento, se deberá presentar aviso por cada uno mediante las formas aprobadas por la Secretaría en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios de personal se encuentra registrada en el Registro Estatal de Contribuyentes; en caso de no hacerlo, la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
+Cuando se contraten servicios especializados de personal o de ejecución de obras especializadas para más de un establecimiento, se deberá presentar aviso por cada uno mediante las formas aprobadas por la Secretaría en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios se encuentra registrada en el Registro Estatal de Contribuyentes; en caso de no hacerlo, la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
 
 Asimismo, deberán presentar el Aviso de Alta o Aumento de Obligación como Retenedor.
 
@@ -175,9 +175,11 @@ Asimismo, previo a la celebración del instrumento jurídico, deberán inscribir
 
 ## TÍTULO III. DE LA BASE Y DE LA TASA
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 5.
 
-Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 2, calculados por ejercicios fiscales, salvo lo señalado por el artículo 11, ambos de esta ley.
+Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 2, calculados de forma mensual, salvo lo señalado por el artículo 11, ambos de esta ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -185,9 +187,13 @@ Será base de este impuesto, el total de las erogaciones efectuadas en términos
 
 El presente impuesto se causará y pagará aplicando la tasa del 4% sobre la base gravable señalada en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-De la tasa mencionada en el presente artículo se destinará el 12.5% del total de lo recaudado en el presente impuesto, hasta alcanzar un monto equivalente al aprobado en la Ley de Ingresos del ejercicio fiscal que corresponda, al fideicomiso creado para el fortalecimiento de la seguridad en el Estado.
+De la recaudación del impuesto antes referido, se destinará al fideicomiso público sin estructura constituido para el Fortalecimiento de la Seguridad e Impartición de Justicia el 12.5% del total del monto aprobado para tal efecto en la Ley de Ingresos del Estado para el Ejercicio Fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El monto antes referido, podrá alcanzarse a través de otros ingresos que para tal efecto la Secretaría determine.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -201,9 +207,9 @@ Las personas físicas, morales o unidades económicas, aun cuando tengan su domi
 
 Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Están obligados a presentar aviso en términos del segundo párrafo del artículo 4 de esta ley quienes contraten a empresas que presten servicios de personal, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas, morales o unidades económicas, serán sujetas del pago de este impuesto.
+Están obligados a presentar aviso en términos del segundo párrafo del artículo 4 de esta ley quienes contraten a empresas que presten servicios especializados de personal o de ejecución de obras especializadas, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas, morales o unidades económicas, serán sujetas del pago de este impuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -215,11 +221,11 @@ La obligación de presentar declaraciones mensuales subsistirá aun cuando no hu
 
 El pago mensual será la cantidad que resulte de aplicar a las erogaciones previstas en el artículo 2 de esta ley por cada período en que se efectúe el pago, la tasa del 4%, hasta alcanzar un monto equivalente al proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal que corresponda, en el entendido que el recurso que exceda dicho monto será destinado a los conceptos y en los términos establecidos en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 9.
 
-Los retenedores de este impuesto, deberán presentar Declaración Informativa Anual dentro de los cuatro meses siguientes al cierre del ejercicio, en las formas que al efecto determine la Secretaría, a través de los medios electrónicos dispuestos por ésta.
+Los retenedores de este impuesto, deberán presentar Declaración Informativa mensual, en las formas que al efecto determine la Secretaría, a través de los medios electrónicos dispuestos por ésta.
 
 ###### Artículo 10.
 
@@ -329,15 +335,15 @@ El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes
 
 ### CAPÍTULO II. DE LAS RETENCIONES POR PRESTACIÓN DE SERVICIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Artículo 16 BIS. Las personas físicas, morales o unidades económicas con domicilio fiscal en el Estado, que contraten la prestación de servicios especializados de personal o de ejecución de obras especializadas por la que se tenga la obligación de pagar el impuesto, con personas domiciliadas dentro o fuera del territorio del Estado, deberán:
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I. Retener el impuesto que se cause conforme a las disposiciones de esta Ley y expedir al prestador del servicio constancia de la retención a más tardar el día 10 del mes siguiente a aquel en que se efectúa la retención y pago correspondiente en el formato que para tal efecto autorice la Secretaría. La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados, y
+
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
-
-###### Artículo 16 Bis.
-
-Las personas físicas, morales o unidades económicas con domicilio fiscal en el Estado, que contraten la prestación de servicios por la que se tenga la obligación de pagar el impuesto, con personas domiciliadas dentro o fuera del territorio del Estado, deberán:
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-I. Retener el impuesto que se cause conforme a las disposiciones de esta Ley y expedir al prestador del servicio constancia de la retención dentro de los 15 días siguientes a la fecha en que se efectuó dicha retención y pago correspondiente en el formato que para tal efecto autorice la Secretaría. La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados, y
 
 II. Declarar y enterar el impuesto retenido, en el plazo ordinario previsto en la presente Ley.
 
@@ -365,9 +371,9 @@ Los retenedores de este impuesto tendrán, además de las obligaciones señalada
 
 I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Presentar declaraciones mensuales del impuesto retenido y enterarlo a más tardar el día 17 del mes siguiente a aquel en que se efectúa la retención, en caso de no hacerlo se harán acreedores a las sanciones previstas en el Código Fiscal del Estado con independencia de la responsabilidad penal a que diere lugar.
+II. Presentar declaraciones mensuales del impuesto retenido y enterarlo a más tardar el día 10 del mes siguiente a aquel en que se efectúa la retención, en caso de no hacerlo se harán acreedores a las sanciones previstas en el Código Fiscal del Estado con independencia de la responsabilidad penal a que diere lugar.
 
 Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista contribución a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor;
 
@@ -510,3 +516,13 @@ SEGUNDO. Para efectos de lo dispuesto en el segundo párrafo del Artículo 6, la
 TERCERO. Hasta en tanto no se encuentre constituido el fideicomiso para el fortalecimiento de la seguridad del Estado, la Secretaría de Finanzas y Planeación del Estado de Quintana Roo, concentrará en una cuenta creada para ese fin, los monto que correspondan al porcentaje referido en el segundo párrafo del artículo 6 de lo recaudado en el Impuesto Sobre Nóminas.
 
 CUARTO. Quedan sin efectos todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 075 POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero de 2025.
+
+SEGUNDO. Para efectos de lo dispuesto en el segundo párrafo del Artículo 6, la Secretaría, dentro del plazo de 270 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las gestiones jurídicas y administrativas ante la institución fiduciaria, para la modificación al contrato del fideicomiso constituido para el fortalecimiento de la seguridad del Estado.
+
+TERCERO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
