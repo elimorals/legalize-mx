@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-de-la-ciudad-de-mexico-121815"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-07"
-last_updated: "2023-06-02"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -110,6 +110,10 @@ XIV. Paridad de género: Es el principio constitucional que ordena el acceso al 
 
 XV. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México;
 
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XV Bis. Personas juzgadoras: Personas magistradas y juezas que integran el Poder Judicial de la Ciudad de México, electas por mayoría relativa y voto directo de la ciudadanía;
+
 XVI. Pleno: Pleno del Tribunal Electoral de la Ciudad de México;
 
 XVII. Proceso democrático: El organizado por una autoridad de la Ciudad de México que tenga por objeto consultar a la ciudadanía o someter a elección algún cargo o decisión, siempre y cuando, guarden similitud con alguna o algunas etapas de los procesos electorales constitucionales;
@@ -156,19 +160,19 @@ Para la sustanciación y resolución de dichos procedimientos serán aplicables,
 
 #### SECCIÓN SEGUNDA. De los Procedimientos
 
-> <small>(REFORMADO, [N. DE E. REPUBLICADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 3.
 
-Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales por los Partidos Políticos, las candidaturas sin partido, la ciudadanía, observadoras u observadores electorales y en general cualquier sujeto bajo el imperio de las mismas, el Instituto Electoral iniciará el trámite y sustanciación de alguno de los siguientes procedimientos:
+Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales por los Partidos Políticos, las candidaturas sin partido, candidaturas de personas juzgadoras, la ciudadanía, observadoras u observadores electorales y en general cualquier sujeto bajo el imperio de las mismas, el Instituto Electoral iniciará el trámite y sustanciación de alguno de los siguientes procedimientos:
 
 > <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
 I. Procedimiento Ordinario Sancionador Electoral. Procede cuando a instancia de parte o de oficio, el Instituto Electoral tenga conocimiento de la comisión de conductas infractoras de los sujetos obligados. Se encontrará sujeto al principio dispositivo, que faculta a las partes a instar al órgano competente para la apertura de la instancia y a ofrecer las pruebas que estime conducentes. El procedimiento ordinario sancionador electoral será aplicable por faltas cometidas dentro y fuera de los procesos electorales, incluido el incumplimiento de la aplicación de los protocolos de atención (sic) erradicación de la Violencia Política contra las Mujeres en Razón de Género, con excepción de las señaladas en el procedimiento especial sancionador electoral. Dicho procedimiento será resuelto por el Consejo General del Instituto Electoral; y
 
-> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Procedimiento Especial Sancionador Electoral. Será instrumentado dentro del proceso electoral respecto de las conductas contrarias a la norma electoral; es primordialmente inquisitivo y el órgano instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes. Dicho procedimiento será resuelto por el Tribunal Electoral.
+II. Procedimiento Especial Sancionador Electoral. Será instrumentado dentro del proceso electoral, incluyendo el de personas juzgadoras respecto de las conductas contrarias a la norma electoral; es primordialmente inquisitivo y el órgano instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes. Dicho procedimiento será resuelto por el Tribunal Electoral.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
 
@@ -176,9 +180,9 @@ El Procedimiento Especial Sancionador Electoral será instrumentado en los casos
 
 a) La Comisión de Fiscalización del Instituto Electoral, en el caso de que el Instituto Nacional delegue dicha función podrá llevar a cabo los procedimientos de investigación conforme a la normatividad aplicable.
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) Por propaganda política o electoral de partidos políticos, candidatas o candidatos sin partidos que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género, que degraden o discriminen a las instituciones, a los propios partidos políticos o a las personas. En este caso, la queja o denuncia solo procederá a instancia de parte;
+b) Por propaganda política o electoral de partidos políticos, candidatas o candidatos sin partidos o de personas juzgadoras que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género, que degraden o discriminen a las instituciones, a los propios partidos políticos o a las personas. En este caso, la queja o denuncia solo procederá a instancia de parte;
 
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
@@ -192,9 +196,9 @@ d) Por actos anticipados de precampaña o campaña;
 
 e) Por quejas o denuncias por violencia política contra las mujeres en razón de género;
 
-> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-f) Por campañas negativas en contra de cualquier partido político o persona candidata, la cual, solo procederá a instancia de parte;
+f) Por campañas negativas en contra de cualquier partido político, persona candidata o candidaturas de personas juzgadoras, la cual, solo procederá a instancia de parte;
 
 > <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
 
@@ -204,9 +208,13 @@ g) En la solicitud de votos por paga, promesa de dinero u otra contraprestación
 
 h) En los informes de las personas titulares de las alcaldías y de la Jefatura de Gobierno que contravengan lo dispuesto en la normatividad aplicable.
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Cuando se tenga conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución Federal y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones y adquisiciones de la persona que ostente las candidaturas sin partido, partidos políticos o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género o que degraden, denigren o discriminen a las personas o a las instituciones y los partidos políticos; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, la Secretaría Ejecutiva, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la fórmula al Instituto Nacional, a través de la Secretaría del Consejo.
+i) Por violaciones en el proceso para la elección de personas juzgadoras.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Cuando se tenga conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución Federal y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones y adquisiciones de la persona que ostente las candidaturas sin partido, partidos políticos, candidaturas de personas juzgadoras o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos y candidaturas de personas juzgadoras que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género o que degraden, denigren o discriminen a las personas o a las instituciones y los partidos políticos; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, la Secretaría Ejecutiva, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la fórmula al Instituto Nacional, a través de la Secretaría del Consejo.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 29 DE JULIO DE 2020)</small>
 
@@ -382,7 +390,9 @@ I. Los partidos políticos;
 
 II. Las agrupaciones políticas;
 
-III. Quien aspire a las candidaturas sin partido, las precandidatas y los precandidatos, candidatas y candidatos sin partido a cargos de elección popular;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Quien aspire a las candidaturas sin partido, las precandidatas y los precandidatos, candidatas, candidatos sin partido a cargos de elección popular y candidaturas a personas juzgadoras;
 
 IV. Las persona (sic) físicas y jurídicas;
 
@@ -509,6 +519,22 @@ VIII. No usar el material previsto por el Código para la confección o elaborac
 IX. Menoscabar, limitar o impedir el ejercicio de derechos político electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso; y
 
 X. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 10 Bis.
+
+Constituyen infracciones de las candidaturas a personas juzgadoras en el Código:
+
+I. La realización de actos anticipados de campaña;
+
+II. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
+
+III. No usar el material previsto por el Código para la confección o elaboración de propaganda electoral;
+
+IV. Menoscabar, limitar o impedir el ejercicio de derechos político-electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso; y
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
 
 ###### Artículo 11.
 
@@ -644,7 +670,9 @@ c) La suspensión de su registro, en cuyo caso no podrá ser menor a cuatro mese
 
 d) La cancelación de su registro cuando exista sentencia condenatoria por conductas que sean consideradas delitos de Violencia Política Contra las Mujeres.
 
-III. Respecto de las precandidaturas y candidaturas a cargos de elección popular:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Respecto de las precandidaturas, candidaturas a cargos de elección popular y candidaturas a personas juzgadoras:
 
 a) Con amonestación;
 
@@ -856,7 +884,9 @@ El sistema de medios de impugnación regulado por ésta ley tiene por objeto gar
 
 I. Que los actos y resoluciones electorales locales se sujeten a los principios de constitucionalidad, convencionalidad y legalidad;
 
-II. La constitucionalidad, convencionalidad y legalidad de los actos, acuerdos o resoluciones de la Jefatura de Gobierno, del Congreso de la Ciudad, de las Alcaldías, del Instituto Electoral, de las autoridades tradicionales o de cualquier otra autoridad local, para salvaguardar los resultados vinculantes de los procesos electorales, electivos y democráticos, será competencia del Tribunal;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. La constitucionalidad, convencionalidad y legalidad de los actos, acuerdos o resoluciones de la Jefatura de Gobierno, del Congreso de la Ciudad, de las Alcaldías, del Instituto Electoral, de las autoridades tradicionales o de cualquier otra autoridad local, para salvaguardar los resultados vinculantes de los procesos electorales, incluyendo el de las personas juzgadoras, electivos y democráticos, será competencia del Tribunal;
 
 III. La definitividad de los distintos actos y etapas de los procesos electorales; y
 
@@ -1028,7 +1058,9 @@ c) Los miembros de los comités regionales, distritales y de las Alcaldías, o s
 
 d) Las personas que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
-II. Las ciudadanas y ciudadanos, candidatas y candidatos, ya sean sin partido o propuestos por los partidos políticos, por su propio derecho o a través de representantes legítimos, entendiéndose por éstos los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnada o quien cuente con poder otorgado en escritura pública. Las candidatas y candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Las ciudadanas y ciudadanos, candidatas y candidatos, ya sean sin partido, propuestos por los partidos políticos o de la elección de personas juzgadoras, por su propio derecho o a través de representantes legítimos, entendiéndose por éstos los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnada o quien cuente con poder otorgado en escritura pública. Las candidatas y candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
 
 III. Las organizaciones ciudadanas solicitantes de registro como agrupación o de observación electoral; deberán presentarlos por conducto de quien ostente la representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable;
 
@@ -1762,6 +1794,10 @@ El juicio electoral tiene por objeto garantizar la constitucionalidad, convencio
 
 El juicio electoral será aplicable y procederá fuera y durante los procesos electorales, electivos o democráticos ordinarios y extraordinarios, en los términos y formas que establece esta Ley.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Son actos impugnables a través del Juicio Electoral, en los términos del Código de Instituciones y Procedimientos Electorales y de la presente ley, la elección de las personas juzgadoras.
+
 ###### Artículo 103.
 
 Podrá ser promovido el juicio electoral en los siguientes términos:
@@ -1770,9 +1806,15 @@ I. En contra de actos, resoluciones u omisiones de los órganos distritales, uni
 
 II. Por las asociaciones políticas, coaliciones y candidaturas sin partido, por violaciones a las normas electorales, cuando hagan valer presuntas violaciones a sus derechos;
 
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II Bis. Por las y los candidatos a personas juzgadoras del Poder Judicial de la Ciudad de México en contra de las determinaciones de las autoridades electorales de la Ciudad de México que violen normas constitucionales o legales, en los términos señalados por esta ley;
+
 III. Por la ciudadanía y las organizaciones ciudadanas en términos de la Ley de Participación Ciudadana, a través de sus representantes acreditados, en contra de actos, resoluciones u omisiones de los órganos desconcentrados, unidades técnicas, del Consejo General del Instituto Electoral por violaciones a las normas que rigen los instrumentos de participación ciudadana, exclusivamente dentro de dichos procesos y siempre y cuando sean competencia del Tribunal;
 
-IV. Por los partidos políticos, coaliciones y candidaturas sin partido, en contra de los cómputos totales y entrega de constancias de mayoría o asignación, según sea el caso, en las elecciones reguladas por el Código;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Por los partidos políticos, coaliciones, candidaturas sin partido y candidaturas de personas juzgadoras, en contra de los cómputos totales y entrega de constancias de mayoría o asignación, según sea el caso, en las elecciones reguladas por el Código;
 
 V. Aquellos que cuestionen actos y resoluciones dictadas dentro de un procedimiento administrativo sancionador electoral susceptibles de afectar su interés jurídico, siempre y cuando, los derechos reclamados en dicho juicio no se refieran a aquéllos de naturaleza político-electoral concedidos normativamente a los ciudadanos; y
 
@@ -1854,9 +1896,17 @@ IV. La elección de las Diputaciones por los principios de mayoría relativa o r
 
 V. La elección de las y los Alcaldes;
 
-VI. La elección de Concejales por los principios de mayoría relativa o representación proporcional; y
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VII. Los resultados del procedimiento de participación ciudadana.
+VI. La elección de Concejales por los principios de mayoría relativa o representación proporcional;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VII. Los resultados del procedimiento de participación ciudadana; y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VIII. Los resultados de las elecciones de personas juzgadoras integrantes del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 113.
 
@@ -1913,6 +1963,24 @@ Las irregularidades mencionadas en las fracciones VI, VII, VIII, IX, X y XI debe
 Se calificarán como dolosas, aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
 
 Se presumirá que las violaciones son determinantes, cuando la diferencia entre la votación obtenida entre el primero y segundo lugares sea menor al cinco por ciento.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 114 Bis.
+
+Son causales de nulidad de la elección de personas juzgadoras del Poder Judicial de la Ciudad de México, adicionalmente a las aplicables previstas en el Artículo 27, letra D de la Constitución Política de la Ciudad de México:
+
+a) Cuando alguna o algunas de las causales de nulidad previstas en el artículo 114 de esta Ley, se acrediten en por lo menos el 25% de las casillas instaladas en el ámbito correspondiente a cada elección;
+
+b) Cuando en el ámbito correspondiente a la elección de que se trate, no se instale el 25% o más de las casillas y consecuentemente la votación no hubiere sido recibida;
+
+c) Cuando la candidatura ganadora de la elección resulte inelegible;
+
+d) Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido por el Código de Instituciones y Procedimientos Electorales de la Ciudad de México, o
+
+e) Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente la campaña de una persona candidata.
+
+Las causales de nulidad señaladas en el párrafo anterior deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
 
 ###### Artículo 115.
 
@@ -2034,13 +2102,17 @@ II. En controversias que se susciten entre diversos órganos partidistas en la C
 
 III. En contra de sanciones impuestas por algún órgano del Instituto Electoral o de un partido político, siempre y cuando implique violación a un derecho político-electoral;
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales; y
+IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. En contra de cualquier acto u omisión que transgreda los derechos humanos de las personas en el ámbito político-electoral, de forma individual o colectiva, incluyendo los que actualicen violencia política contra las mujeres en razón de género, en los términos establecidos en la Constitución, la Ley General, la Ley de Acceso, esta Ley y el Código.
+V. En contra de cualquier acto u omisión que transgreda los derechos humanos de las personas en el ámbito político-electoral, de forma individual o colectiva, incluyendo los que actualicen violencia política contra las mujeres en razón de género, en los términos establecidos en la Constitución, la Ley General, la Ley de Acceso, esta Ley y el Código; y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Para impugnar los actos y resoluciones por quien, teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar la titularidad de los diversos cargos del Poder Judicial de la Ciudad de México electos por votación libre, directa y secreta, en los que se afecten los derechos político-electorales de la ciudadanía en términos de la Constitución Federal y de la Constitución Local.
 
 Para el efecto de restituir a las ciudadanas o ciudadanos en el derecho político electoral violado, el Tribunal tendrá amplias facultades para decretar la nulidad de los procesos electivos, democráticos, e internos de los partidos políticos y de las agrupaciones políticas, así como en las controversias que surjan entre sus órganos.
 
@@ -2054,9 +2126,21 @@ II. Considere que se violó su derecho político-electoral de ser votado cuando,
 
 III. Cuando habiéndose asociado con otras y otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como agrupación política;
 
-IV. Cuando estando afiliado a un partido político o agrupación política, considere que un acto o resolución de los órganos partidarios o de la agrupación responsables, es violatorio de cualquiera de sus derechos político-electorales; y
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. Considere que los actos o resoluciones de la autoridad electoral son violatorios de cualquiera de sus derechos político-electorales.
+IV. Cuando estando afiliado a un partido político o agrupación política, considere que un acto o resolución de los órganos partidarios o de la agrupación responsables, es violatorio de cualquiera de sus derechos político-electorales;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+V. Considere que los actos o resoluciones de la autoridad electoral son violatorios de cualquiera de sus derechos político-electorales; y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Considere que se violó su derecho político-electoral de ser votado o votada a alguno de los cargos del Poder Judicial de la Ciudad de México electos por votación libre, directa y secreta.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+En estos casos no operará la suplencia de la queja.
 
 ###### Artículo 124.
 
@@ -3203,3 +3287,23 @@ G.O. 2 DE JUNIO DE 2023.
 Primero. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 1; SE ADICIONA LA FRACCIÓN XXIII BIS, Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II QUÁTER Y SE REFORMA LA FRACCIÓN VIII DEL INCISO C) DEL ARTÍCULO 4; SE MODIFICAN EL SEGUNDO Y EL CUARTO PÁRRAFO DE LA FRACCIÓN I, Y SE ADICIONA UN PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 6; SE ADICIONA EL ARTÍCULO 21 BIS; SE MODIFICA EL PRIMER PÁRRAFO, LA FRACCIÓN IV. Y EL INCISO N) DEL ARTÍCULO 36; SE MODIFICA EL TERCER PÁRRAFO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 46; SE MODIFICA LA FRACCIÓN XXXIV DEL ARTÍCULO 50, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 53; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 70 BIS; SE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 71; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 75; SE MODIFICA EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 76; SE MODIFICA LA FRACCIÓN II Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 80; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 116; SE MODIFICA EL CUARTO PÁRRAFO DEL ARTÍCULO 138; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 165; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 179; SE MODIFICA EL ARTÍCULO 242; SE MODIFICAN LAS FRACCIONES XIII, XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 251; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 257; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 272; SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 273; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 356; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 358; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 359; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 374; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 376; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 416; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 443; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 444; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 445; SE MODIFICA EL ARTÍCULO 448; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 449; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 450; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 454; SE MODIFICA EL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL ARTÍCULO 455; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 456; SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 461; SE ADICIONA EL LIBRO QUINTO DE LA INTEGRACIÓN DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, TÍTULO PRIMERO DE LA RENOVACIÓN DEL PODER JUDICIAL Y CAPÍTULO ÚNICO DISPOSICIONES GENERALES, Y LOS ARTÍCULOS 462 Y 463; SE ADICIONA EL TÍTULO SEGUNDO DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, CAPÍTULO I, REGLAS GENERALES Y SE ADICIONAN LOS ARTÍCULOS 464 Y 465; SE ADICIONA EL CAPÍTULO II DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS, Y SE ADICIONAN LOS ARTÍCULOS 466, 467, 468, 469, 470 Y 471; SE ADICIONA EL CAPÍTULO III DE LA ORGANIZACIÓN DE LA ELECCIÓN, Y SE ADICIONAN LOS ARTÍCULOS 472, 473 Y 474; SE ADICIONA EL CAPÍTULO IV DE LA PROPAGANDA, Y SE ADICIONAN LOS ARTÍCULOS 475, 476, 477, 478, 479, 480 Y 481; SE ADICIONA EL CAPÍTULO V DE LAS ENCUESTAS Y SONDEOS DE OPINIÓN Y SE ADICIONAN LOS ARTÍCULOS 482 Y 483; SE ADICIONA EL CAPÍTULO VI DE LOS FOROS DE DEBATES Y SE ADICIONAN LOS ARTÍCULOS 484, 485 Y 486; SE ADICIONA EL CAPÍTULO VII DE LAS CAMPAÑAS ELECTORALES Y SE ADICIONAN LOS ARTÍCULOS 487, 488, 489, 490 Y 491; SE ADICIONA EL CAPÍTULO VIII DE LA OBSERVACIÓN ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 492 Y 493; SE ADICIONA EL CAPÍTULO IX DE LAS ACTIVIDADES DEL INSTITUTO ELECTORAL PARA LA PROMOCIÓN DE LA ELECCIÓN DEL PODER JUDICIAL Y SE ADICIONAN LOS ARTÍCULOS 494 Y 495; SE ADICIONA EL CAPÍTULO X DE LA ORGANIZACIÓN ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 496, 497 Y 498; SE ADICIONA EL CAPÍTULO XI DE LA ELECCIÓN POR UNA CIRCUNSCRIPCIÓN Y SE ADICIONA EL ARTÍCULO 499; SE ADICIONA EL CAPÍTULO XII DE LAS MESAS DIRECTIVAS DE CASILLA Y SE ADICIONAN LOS ARTÍCULOS 500, 501 Y 502; SE ADICIONA EL CAPÍTULO XIII DE LAS BOLETAS Y MATERIALES ELECTORALES Y SE ADICIONA EL ARTÍCULO 503, SE ADICIONA EL CAPÍTULO XIV DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL Y SE ADICIONA EL ARTÍCULO 504; SE ADICIONA EL CAPÍTULO XV DE LA JORNADA ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 505, 506, 507, 508, 509 Y 510; SE ADICIONA EL CAPÍTULO XVI DE LOS CÓMPUTOS Y SUMATORIA Y SE ADICIONAN LOS ARTÍCULOS 511, 512, 513 Y 514; SE ADICIONA EL CAPÍTULO XVII DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN Y SE ADICIONAN LOS ARTÍCULOS 515, 516 Y 517, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; Y SE ADICIONA LA FRACCIÓN XV BIS DEL ARTÍCULO 1; SE MODIFICA EL PRIMER Y TERCER PÁRRAFO, LA FRACCIÓN II, EL INCISO B) Y F) Y SE ADICIONA EL INCISO I) AL ARTÍCULO 3; SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 7; SE ADICIONA EL ARTÍCULO 10 BIS; SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 19; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 28; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 46; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 102; SE ADICIONA LA FRACCIÓN II BIS Y SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 103; SE MODIFICAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 112; SE ADICIONA EL ARTÍCULO 114 BIS; SE MODIFICAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 122; SE MODIFICA (SIC) LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 123; TODOS DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los Poderes de la Ciudad de México atenderán lo dispuesto en el presente Decreto y acatarán, en lo que corresponda, las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral e Instituto Electoral de la Ciudad de México, en lo que sea aplicable a los procesos electorales locales, respecto a la renovación del Poder Judicial en la Ciudad de México.
+
+CUARTO. El Instituto Electoral emitirá las determinaciones, acuerdos y resoluciones, así como la normativa necesaria, en el ámbito de sus atribuciones, para llevar a cabo el Proceso Local Extraordinario 2025.
+
+QUINTO. El Proceso Electoral Extraordinario 2025 dará inicio el día de la entrada en vigor del presente Decreto. La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión del Consejo General del Instituto Electoral de la Ciudad de México.
+
+SEXTO. El Congreso Local dotará al Instituto Electoral de la Ciudad de México y al Tribunal Electoral de la Ciudad de México, de recursos financieros para la realización el (sic) Proceso Electoral Extraordinario 2025, para la elección de personas juzgadoras integrantes del Poder Judicial observando para ello los principios de racionalidad, austeridad, transparencia, eficacia y rendición de cuentas.
+
+Para tal efecto tomará en consideración la presupuestación que al efecto realice el Instituto Electoral de la Ciudad de México y el Tribunal Electoral de la Ciudad de México, una vez que entre en vigor el presente Decreto.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
