@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2024-07-24"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -1047,11 +1047,131 @@ Decies. Los Municipios tendrán participación del 20% del monto de la recaudaci
 
 La distribución será en términos del artículo 23-Bis de la Ley de Coordinación Fiscal del Estado de Quintana Roo.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. Del Impuesto Sobre las Erogaciones por Participar en Actividades con Animales Acuáticos
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Del objeto
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Undecies. Es objeto de este impuesto la erogación que se haga por participar en actividades que se realicen con animales acuáticos, entre estas la recreación, relajación, educación, terapia, natación y cualquiera que requiera una interacción física con animales acuáticos en cautiverio, ya sea que se desarrollen en instalaciones naturales o artificiales dentro del territorio del Estado.
+
+Para estos efectos se considera que se da el supuesto de la erogación efectiva por las actividades citadas, los anticipos, intereses, penalizaciones o cualquier otro concepto relacionado que derive de dichas actividades.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De los Sujetos
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Duodecies. Están obligados al pago del impuesto, las personas físicas, morales y unidades económicas que efectúen las erogaciones por participar en las actividades a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De la Base
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Terdecies. Será base de este impuesto, las erogaciones que hagan las personas físicas, morales y unidades económicas que derive de las actividades a que se refiere el artículo 60 Undecies.
+
+Cuando las erogaciones se realicen de manera conjunta por más de una persona, el impuesto se considerará de manera individual por cada una de ellas.
+
+Cada erogación por participar en actividades que se realicen con animales acuáticos se considerará de manera independiente, aún si esta fue adquirida de forma conjunta con servicios adicionales como accesos a parques, balnearios, centros recreativos, alimentación, bebidas, transportación, entre otros.
+
+Cuando las actividades que se realicen con animales acuáticos, sean proporcionadas en conjunto con el servicio de hospedaje, la persona retenedora deberá realizar el desglose de los servicios adicionales, como alimentación, transportación y otros similares, incluyendo el hospedaje; en concordancia con lo señalado en el artículo 10 de la Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De la Cuota
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Quaterdecies. El impuesto se calculará aplicando a la base una cuota fija de 50 pesos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De la Causación
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Quindecies. El impuesto se causará en el momento que se realicen las erogaciones por participar en las actividades señaladas en el artículo 60 Undecies.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De la Retención
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Sexdecies. Están obligadas a retener este impuesto, las personas físicas, morales y unidades económicas que presten servicios para el desarrollo de actividades señaladas en el artículo 60 Undecies.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Del Pago
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Septendecies. Las personas retenedoras del impuesto deberán enterar las retenciones efectuadas mediante la presentación de declaraciones mensuales definitivas, a más tardar el día 10 del mes siguiente a aquel en que se causó, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, mismas que se darán a conocer mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Octodecies. La persona retenedora que preste los servicios para el desarrollo de actividades con animales acuáticos que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones, compensará en las siguientes declaraciones de pagos mensuales definitivos el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto siempre que expresamente se haga constar que el presente impuesto se hubiere retenido, se cancele o se restituya, según sea el caso.
+
+De los ingresos que se obtengan por la recaudación del presente impuesto, se destinará el 40% del total de la recaudación al Fideicomiso sin estructura denominado Fondo de Protección de Especies Marinas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De las Obligaciones de las Personas Retenedoras
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Novodecies. Las personas retenedoras además de cumplir con las obligaciones señaladas en la presente Ley, tendrán las siguientes obligaciones:
+
+I. Presentar aviso de alta de la obligación en su carácter de retenedora, utilizando las formas autorizadas por la Secretaría a través del SATQ, en los términos y plazos que señale el Código;
+
+II Presentar los avisos y cumplir con las obligaciones que se señalan en el Código, en los formatos oficiales presentados ante el Registro Estatal de Contribuyentes y en los plazos establecidos en el propio Código;
+
+III. Expedir comprobantes fiscales, señalando en los mismos, el impuesto retenido a que se refiere este capítulo, a quien reciba los servicios para el desarrollo de actividades con animales acuáticos;
+
+IV. Llevar contabilidad de conformidad con el Código Fiscal del Estado de Quintana Roo, y
+
+V. Proporcionar mensualmente en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio para el desarrollo de actividades que se realicen con animales acuáticos, a más tardar el día 10 del mes posterior al que corresponda dicha información.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+De la Exención
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 60
+
+Vicies. No pagarán el impuesto que se establece en esta sección las personas quintanarroenses.
+
+### CAPÍTULO IV. DE LOS IMPUESTOS ECOLÓGICOS
+
 #### SECCIÓN ÚNICA. Del Impuesto Sobre la Extracción de Materiales del Suelo y Subsuelo
 
 Del Objeto
-
-### CAPÍTULO IV. DE LOS IMPUESTOS ECOLÓGICOS
 
 ###### Artículo 61.
 
@@ -1129,17 +1249,25 @@ Son los ingresos que se perciben por concepto de recargos, sanciones, gastos de 
 
 Son los ingresos que se recauden en el ejercicio corriente, por impuestos pendientes de liquidación o pago causados en ejercicios fiscales anteriores, no incluidos en la Ley de Ingresos del Estado de Quintana Roo.
 
-### CAPÍTULO I. PRODUCTOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO VII. DE LOS OTROS IMPUESTOS
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 69
+
+Bis. Son los ingresos que se perciben por conceptos no incluidos en los tipos anteriores, de conformidad con la legislación aplicable en la materia.
 
 ## TÍTULO III. DE LOS PRODUCTOS
 
-### CAPÍTULO II. DE LOS PRODUCTOS DE EJERCICIOS FISCALES ANTERIORES
+### CAPÍTULO I. PRODUCTOS
 
-### CAPÍTULO I. DE LOS APROVECHAMIENTOS EN GENERAL
+### CAPÍTULO II. DE LOS PRODUCTOS DE EJERCICIOS FISCALES ANTERIORES
 
 ## TÍTULO IV. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO II. DE LOS APROVECHAMIENTOS PATRIMONIALES
+### CAPÍTULO I. DE LOS APROVECHAMIENTOS EN GENERAL
 
 ###### Artículo 70.
 
@@ -1177,7 +1305,7 @@ XII. Otros diversos de los señalados en las fracciones anteriores que perciba e
 
 (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
-### CAPÍTULO III. DE LOS ACCESORIOS DE LOS APROVECHAMIENTOS
+### CAPÍTULO II. DE LOS APROVECHAMIENTOS PATRIMONIALES
 
 ###### Artículo 72.
 
@@ -1185,13 +1313,13 @@ Son los ingresos que se recaudan en el ejercicio corriente, por productos pendie
 
 ## TÍTULO V. DE LOS INGRESOS POR VENTA DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS
 
-### CAPÍTULO IV. DE LOS APROVECHAMIENTOS DE EJERCICIOS FISCALES ANTERIORES
+### CAPÍTULO III. DE LOS ACCESORIOS DE LOS APROVECHAMIENTOS
 
 ###### Artículo 73.
 
 Son los ingresos que se perciben por funciones de derecho público, cuyos elementos pueden no estar previstos en una Ley, sino en una disposición administrativa de carácter general, provenientes de multas e indemnizaciones no fiscales, reintegros, juegos y sorteos, donativos, entre otros.
 
-### CAPÍTULO I. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
+### CAPÍTULO IV. DE LOS APROVECHAMIENTOS DE EJERCICIOS FISCALES ANTERIORES
 
 ###### Artículo 74.
 
@@ -1201,13 +1329,13 @@ Son los ingresos que percibe el Estado por uso o enajenación de bienes muebles,
 
 Bis. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2022)
 
-### CAPÍTULO II. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES EMPRESARIALES NO FINANCIERAS CON PARTICIPACIÓN ESTATAL MAYORITARIA
+### CAPÍTULO I. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
 
 ###### Artículo 75.
 
 Son los ingresos que percibe el Estado, por concepto de recargos, sanciones, garantías, gastos de ejecución e indemnizaciones, entre otros, asociados a los aprovechamientos, cuando éstos no se cubran oportunamente de conformidad con la legislación aplicable en la materia.
 
-### CAPÍTULO III. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE LOS PODERES LEGISLATIVO Y JUDICIAL Y DE LOS ÓRGANOS AUTÓNOMOS
+### CAPÍTULO II. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES EMPRESARIALES NO FINANCIERAS CON PARTICIPACIÓN ESTATAL MAYORITARIA
 
 ###### Artículo 76.
 
@@ -1219,9 +1347,9 @@ Son los ingresos que se recauden en el ejercicio corriente, por aprovechamientos
 
 Son los ingresos propios obtenidos por las entidades de la administración pública paraestatal, los Poderes Legislativo y Judicial y los Órganos Autónomos por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
 
-Los ingresos propios señalados en el párrafo anterior, tendrán una naturaleza distinta de los recursos presupuestales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO I. DE LAS PARTICIPACIONES
+### CAPÍTULO III. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE LOS PODERES LEGISLATIVO Y JUDICIAL Y DE LOS ÓRGANOS AUTÓNOMOS
 
 ###### Artículo 78.
 
@@ -1231,13 +1359,13 @@ Son los ingresos propios obtenidos por las entidades paraestatales y fideicomiso
 
 Las entidades paraestatales y fideicomisos en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Estado, mediante la prestación de diversos servicios públicos o sociales, obtendrán sus ingresos mediante el cobro de los rubros, conceptos, cuotas y tarifas que señale su órgano de gobierno respectivo, los cuales deberán ser publicados en el Periódico Oficial del Estado para su vigencia y aplicabilidad.
 
-### CAPÍTULO II. DE LAS APORTACIONES
+### CAPÍTULO I. DE LAS PARTICIPACIONES
 
 ###### Artículo 80.
 
 Son los ingresos propios obtenidos por las Entidades Paraestatales Empresariales No Financieras con Participación Estatal Mayoritaria por sus actividades de producción, comercialización o prestación de servicios.
 
-### CAPÍTULO III. DE LOS CONVENIOS
+### CAPÍTULO II. DE LAS APORTACIONES
 
 ###### Artículo 81.
 
@@ -1245,19 +1373,19 @@ Son los ingresos propios obtenidos por los Poderes Legislativo y Judicial y los 
 
 ## TÍTULO VII. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES
 
-### CAPÍTULO IV. DE LOS INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
+### CAPÍTULO III. DE LOS CONVENIOS
 
 ###### Artículo 82.
 
 Son los ingresos que recibe el Estado, derivados de la adhesión al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes.
 
-### CAPÍTULO V. DE LOS INGRESOS EXTRAORDINARIOS
+### CAPÍTULO IV. DE LOS INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
 
 ###### Artículo 83.
 
 Son los ingresos que recibe el Estado previstos en la Ley de Coordinación Fiscal, cuyo gasto está condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la legislación aplicable a la materia.
 
-### CAPÍTULO I. DE LAS TRANSFERENCIAS Y ASIGNACIONES
+### CAPÍTULO V. DE LOS INGRESOS EXTRAORDINARIOS
 
 ###### Artículo 84.
 
@@ -1265,19 +1393,21 @@ Son los ingresos que recibe el Estado, derivados de convenios de coordinación, 
 
 Las dependencias y entidades que durante el ejercicio fiscal celebren convenios con la federación, que impliquen ingresos para la hacienda pública estatal, deberán comunicarlos formalmente a la Secretaría mediante el mecanismo que para ello establezca.
 
-### CAPÍTULO II. DE LOS SUBSIDIOS Y SUBVENCIONES
+### CAPÍTULO I. DE LAS TRANSFERENCIAS Y ASIGNACIONES
 
 ###### Artículo 85.
 
 Son los ingresos que recibe el Estado derivados del ejercicio de facultades delegadas por la Federación y/o municipios mediante la celebración de convenios de colaboración administrativa en materia fiscal que comprenden las funciones de recaudación, fiscalización y administración de ingresos federales y/o municipales y por las que a cambio, el Estado recibe incentivos económicos que implican la retribución de su colaboración.
 
-### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO INTERNO
+### CAPÍTULO II. DE LOS SUBSIDIOS Y SUBVENCIONES
 
 ###### Artículo 86.
 
 Los ingresos extraordinarios que tendrá derecho a recibir el Estado además de los señalados en la presente ley o en cualquier otra ley fiscal estatal, se obtendrán por: aportaciones extraordinarias de la Federación, de entidades públicas o de los sectores social o privado.
 
 ## TÍTULO VIII. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
+
+### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO INTERNO
 
 ###### Artículo 87.
 
@@ -1410,3 +1540,17 @@ QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Admi
 SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
 
 SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del "Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023", publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 078 POR EL QUE SE DEROGA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo. Su entrada en vigor será a partir del primero de enero de 2025.
+
+SEGUNDO. Tratándose de lo previsto en la SECCIÓN TERCERA denominada Del Impuesto Sobre las Erogaciones por Participar en Actividades con Animales Acuáticos, artículos 60 Undecies, 60 Duodecies, 60 Terdecies, 60 Quaterdecies, 60 Quindecies, 60 Sexdecies, 60 Septendecies, 60 Octodecies, 60 Novodecies y 60 Vicies, entrará en vigor el primer día del mes de mayo de 2025.
+
+TERCERO. Las personas físicas, morales y unidades económicas que tengan el carácter de retenedoras en el Impuesto Sobre las Erogaciones por Participar en Actividades con Animales Acuáticos, se les otorga un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, para inscribirse como personas retenedoras ante el Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+CUARTO. Para el cumplimiento de lo previsto en el último párrafo del artículo 60 Octodecies, la Secretaría de Finanzas y Planeación dentro del plazo de 180 días naturales, contados a partir del inicio de la vigencia del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el Fideicomiso sin estructura denominado Fondo de Protección de Especies Marinas.
+
+QUINTO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
