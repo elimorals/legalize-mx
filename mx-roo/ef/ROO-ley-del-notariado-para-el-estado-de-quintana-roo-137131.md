@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-137131"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-02"
-last_updated: "2024-10-15"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 2 de julio de 2019.
 
@@ -2333,6 +2333,18 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Las adecuaciones conducentes al Arancel de Honorarios de Notarios Públicos para el Estado de Quintana Roo, que se desprendan del contenido del presente Decreto, deberán ser emitidas por la Secretaría de Gobierno del Estado, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Las disposiciones contenidas en el artículo 22 bis del presente Decreto comenzarán su vigencia a partir del 1 de febrero del año 2025.
+
 TERCERO. En tanto sean emitidas las adecuaciones al Arancel de Honorarios de Notarios Públicos, se podrán autorizar las exenciones a que se refiere el artículo 15 mediante oficio de la persona titular de la Secretaría de Gobierno en favor de la dependencia o entidad que requiera ejercer sus facultades conforme a lo dispuesto por el presente decreto.
 
 CUATRO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 083 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO TRANSITORIO SEGUNDO, DEL DECRETO NÚMERO 011, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO EL QUINCE DE OCTUBRE DEL AÑO DOS MIL VEINTICUATRO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
