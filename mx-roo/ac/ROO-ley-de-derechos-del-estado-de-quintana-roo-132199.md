@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-07-24"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -195,9 +197,13 @@ CONCEPTO UMA
 
 I. Certificación de documentos
 
-a) Apostillamiento de documentos 6.00
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) Legalización de firmas 3.00
+a) Apostillamiento de documentos 8.00
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+b) Legalización de firmas 4.00
 
 II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
 
@@ -222,6 +228,22 @@ a) Vigencia en la función notarial 10.00
 b) Inexistencia de sanción por
 
 responsabilidad en la función notarial 10.00
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Por análisis y calificación de documentos
+
+para nombramiento de Notario Público Auxiliar
+
+o Suplente 100.00
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VII. Por análisis y calificación de documentos
+
+de propuesta de Notario Público Auxiliar a
+
+Notario Público Titular 200.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -285,7 +307,9 @@ IV. Por el registro de firma y antefirma de los Notarios Públicos Auxiliares 6.
 
 V. Reposición de sellos 6.00
 
-VI. Por expedición de testimonios de escrituras públicas o actas notariales 8.05
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Por expedición de testimonios de escrituras públicas o actas notariales 30.00
 
 VII. Por reconocimiento y certificación de firmas 1.15
 
@@ -351,17 +375,31 @@ IX. Anotación marginal. 1.00
 
 X. Autorización de registro extemporáneo. 2.75
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 XI. Por la expedición de fotocopias de actos
 
-registrados certificados. 0.50
+registrados certificados. 1.50
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XII. Reposición de los Actos del Estado 2.00
+XII. Reposición de los Actos del Estado 5.50
 
 Civil de las personas.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XIII. Por la expedición de la Constancia de
+
+Inexistencia de Registro de Deudor
+
+Alimentario Moroso. 3.50
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XIV. Por la expedición del Certificado de
+
+Registro de Deudor Alimentario Moroso. 3.50
 
 ###### Artículo 20.
 
@@ -567,6 +605,14 @@ especialidad inscrita en el Registro Estatal
 
 de Peritos Valuadores 25.00
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Por el análisis y calificación de documentos
+
+para el refrendo y actualización de la credencial
+
+de Perito Valuador. 15.00
+
 > <small>(REFORMADA [N. DE E. ANTES APARTADO E], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN QUINTA. DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
@@ -695,21 +741,19 @@ Lo dispuesto en la fracción I, inciso c) del presente artículo, se aplicará �
 
 II. Venta de ejemplares.
 
-a) Ejemplar de hasta 8 hojas. 1.00
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) Ejemplar de 9 hasta100 hojas. 1.50
+a) Por cada página en blanco y negro. 0.25
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-c) Ejemplar de 101 hasta 500 hojas 3.00
+b) Por cada página a color. 0.50
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+c) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
-d) Ejemplar de 501 hasta 1000 hojas 6. 00
+d) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-e) Ejemplar de 1001 hojas en adelante 9.00
+e) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
 III. Otros servicios
 
@@ -743,11 +787,27 @@ k) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2022)
 
 l) Convenio de Suplencia entre Notarios Públicos Titulares. 60.00
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+m) Nombramiento de Notario Público Suplente o
+
+Auxiliar Requisitado 42.00
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+n) Conclusión del cargo de Notario Público Suplente o
+
+Auxiliar a petición del Notario Titular 42.00
+
 Esta tarifa será aplicable para las ediciones ordinarias o extraordinarias.
 
 El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
 
 Las personas físicas representadas por el Instituto de Defensoría Pública del Estado de Quintana Roo, gozarán de un descuento del 80% para la publicación de edictos derivados de acuerdos emitidos por autoridad jurisdiccional en asuntos de índole familiar.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Las dependencias, órganos desconcentrados y entidades paraestatales que soliciten la publicación de documentos en cumplimiento a las obligaciones previstas en la Ley de Mejora Regulatoria del Estado de Quintana Roo y sus Municipios; así como los documentos normativos que expida la Comisión Estatal de Mejora Regulatoria, quedarán exentas del pago de los derechos a que se refiere la fracción I de este artículo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -879,25 +939,37 @@ XIII. Revisión de
 
 proyectos de factibilidad 236.71 355.07
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XIV. Emisión de Opinión Favorable para la fabricación de armas de fuego, armas de gas y municiones, fabricación de pólvoras, explosivos, artificios o de substancias químicas relacionadas con los explosivos 591.79
+XIV. Emisión del dictamen de anuencia para la
+
+expedición de la opinión favorable. 591.79
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 La administración pública centralizada estatal y la municipal, no serán sujetos a la obligación de pago de los derechos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, y X del presente artículo.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN OCTAVA. DE LOS SERVICIOS DE LA OFICINA ESTATAL DE ENLACE
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 32 Ter.
+
+Por el servicio que presta la Oficina Estatal de Enlace con la Secretaría de Relaciones Exteriores, para la gestión y trámite para la expedición de pasaporte, se causará un derecho con una tarifa de 4.00 UMA.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN NOVENA. CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Artículo. 32 Quáter. Por el servicio que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88.00 UMA por persona.
+
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. SECRETARÍA DE DESARROLLO SOCIAL
-
-#### SECCIÓN PRIMERA. DE LA EXPEDICIÓN DE LICENCIAS DE BEBIDAS ALCOHÓLICAS
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE CONTROL VEHICULAR
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 33.
 
@@ -955,7 +1027,9 @@ EXPEDICIÓN DE LICENCIAS DE FUNCIONAMIENTO
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. POR EL CONTROL, VIGILANCIA Y EVALUACIÓN
+#### SECCIÓN PRIMERA. DE LA EXPEDICIÓN DE LICENCIAS DE BEBIDAS ALCOHÓLICAS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 42
 
@@ -977,13 +1051,13 @@ IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al may
 
 V. Bodega o almacén de bebidas alcohólicas como sucursal sin venta directa al público. SIN COSTO
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+VI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-VI. Servicio en línea y/o a domicilio. 2,898.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+VII. Licencia adicional de venta
 
-VII. Servicio en línea y/o a domicilio para su distribución al mayoreo. 5,072.00
+en línea y/o a domicilio 5,072.00
 
 Para la expedición de licencias únicas, se pagará la tarifa correspondiente por cada giro o establecimiento, que incluya esta licencia.
 
@@ -1001,9 +1075,7 @@ III. Venta de bebidas alcohólicas en envase cerrado; 483.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 604.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
-V. Servicio en línea y/o a domicilio. 483.00
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -1023,13 +1095,13 @@ III. Venta de bebidas alcohólicas en envase cerrado; 289.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 363.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-V. Servicio en línea y/o a domicilio. 289.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+VI. Licencia adicional de venta en línea
 
-VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 363.00
+y/o a domicilio 363.00
 
 El derecho por cambio de giro corresponderá a la diferencia entre el costo del giro autorizado y el giro solicitado.
 
@@ -1049,13 +1121,13 @@ III. Venta de bebidas alcohólicas en envase cerrado; 118.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 307.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-V. Servicio en línea y/o a domicilio. 118.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+VI. Licencia adicional de venta en línea
 
-VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 307.00
+y/o a domicilio 307.00
 
 Las licencias de bebidas alcohólicas se deberán refrendar anualmente en la Secretaría, dentro de los primeros dos meses del año, de acuerdo con las tarifas siguientes:
 
@@ -1073,13 +1145,13 @@ III. Venta de bebidas alcohólicas en envase cerrado; 106.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 276.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-V. Servicio en línea y/o a domicilio. 106.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+VI. Licencia adicional de venta en línea
 
-VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 276.00
+y/o a domicilio 276.00
 
 CONCEPTO TARIFA
 
@@ -1097,17 +1169,11 @@ de venta 80.00
 
 III. Servicio público especializado. 110.00
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+IV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-IV. Restaurante, Restaurante-Bar 240.00
+> <small>(DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-Para el caso de la fracción IV, si el trámite se realiza dentro de los dos primeros meses del año, los contribuyentes no serán sujetos del pago de este derecho.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-Tratándose de la apertura del establecimiento a que se refiere la fracción IV, si el permiso se tramita dentro de los dos primeros meses contados a partir de su apertura, tampoco serán sujetos del pago de este derecho.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 CONCEPTO TARIFA
 
@@ -1123,13 +1189,13 @@ III. Venta de bebidas alcohólicas en envase cerrado; 80.00
 
 IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 150.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-V. Servicio en línea y/o a domicilio. 80.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+VI. Licencia adicional de venta en
 
-VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 150.00
+línea y/o a domicilio 150.00
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -1145,7 +1211,7 @@ II. Reposición de licencia 53.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. DE LA APERTURA DE CASA DE EMPEÑO O PRÉSTAMO
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE CONTROL VEHICULAR
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1233,15 +1299,23 @@ CONCEPTO UMA
 
 III. Derechos por control vehicular por refrendo:
 
-a) Para los incisos a) y b) de la fracción anterior por el servicio de refrendo de placas vehiculares 3.45
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+a) Para los incisos a) y b) de la fracción anterior por el servicio de refrendo de placas vehiculares 5.45
 
 b) Para el inciso c) de la fracción anterior por el servicio de refrendo de placas vehiculares para el:
 
-1. Servicio particular 1.15
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-2. Servicio público 2.00
+1. Servicio particular 3.15
 
-c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+2. Servicio público 2.50
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+c) Para el inciso h) de la fracción anterior por su refrendo anual 5.10
 
 El plazo del pago de los derechos a que se refiere esta fracción será los primeros tres meses de cada año.
 
@@ -1269,7 +1343,7 @@ VIII. Por la búsqueda de registro vehicular en otras entidades federativas 2.00
 
 IX. Expedición de Constancia de Registro Vehicular. 3.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 X. Por solicitud de análisis y calificación
 
@@ -1277,7 +1351,7 @@ de documentos para movimientos de baja y alta
 
 de vehículos que se encuentren inscritos
 
-en el Registro Estatal Vehicular. 1.0
+en el Registro Estatal Vehicular. 1.50
 
 ###### Artículo 44.
 
@@ -1305,13 +1379,9 @@ V. Informar a la Secretaría de Hacienda y Crédito Público de los movimientos 
 
 Los contribuyentes tendrán la obligación de efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el Reglamento del Código.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
-
 ###### Artículo 46
 
-Bis. Por la expedición de la constancia de validación de avalúos realizados por peritos valuadores inmobiliarios para fines fiscales en los términos de la Ley de Valuación del Estado de Quintana Roo y demás ordenamientos aplicables se causará un derecho con una tarifa de 2.0 UMA.
-
-El derecho previsto en este artículo deberá ser enterado por los medios autorizados por la Secretaría a través del SATQ que se dará a conocer a través de reglas de carácter general.
+Bis. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1325,9 +1395,7 @@ DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN QUINTA. DEL INSTITUTO GEOGRÁFICO Y CATASTRAL DEL ESTADO
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN TERCERA. POR EL CONTROL, VIGILANCIA Y EVALUACIÓN
 
 ###### Artículo 48.
 
@@ -1335,9 +1403,9 @@ Por llevar a cabo el control, vigilancia y evaluación de los recursos que se re
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO D], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. DE LOS SERVICIOS EN ZONAS ARQUEOLÓGICAS
+#### SECCIÓN CUARTA. DE LA APERTURA DE CASA DE EMPEÑO O PRÉSTAMO
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
@@ -1353,9 +1421,9 @@ III. Por el análisis y calificación de documentos para la modificación o canc
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO E], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. SERVICIOS DE ALMACENAJE
+#### SECCIÓN QUINTA. DEL INSTITUTO GEOGRÁFICO Y CATASTRAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 50.
 
@@ -1747,53 +1815,117 @@ XIII. Constancia de Actualización de datos catastrales 8.00
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. DE LOS SERVICIOS DE LA OFICINA ESTATAL DE ENLACE
+#### SECCIÓN SEXTA. DE LOS SERVICIOS EN ZONAS ARQUEOLÓGICAS
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO , P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 51
 
-Bis. Por el Uso de las Unidades de Servicio en sitios inmediatos a las zonas arqueológicas, se causarán los derechos, conforme a la tarifa siguiente:
+Bis.
+
+I. Municipio de Bacalar:
 
 CONCEPTO UMA
 
-I. Cobá 0.8876
+a) IchkabaI (Nacionales). 1.50
 
-II. Chacchoben 0.7101
+b) Ichkabal (Extranjeros). 4.25
 
-III. Dzibanché-Kinichná 0.7101
+c) Chacchoben (Nacionales). 0.83
 
-IV. El Meco 0.6509
+d) Chacchoben (Extranjeros). 2.00
 
-V. El Rey 0.6509
+II. Municipio de Othón P. Blanco:
 
-VI. Museo Maya de Cancún 0.8876
+CONCEPTO UMA
 
-VII. Kohunlich 0.8876
+a). Dzibanché-Kinichná (Nacionales) 0.83
 
-VIII. Muyil 0.5326
+b). Dzibanché-Kinichná (Extranjeros) 2.00
 
-IX. Oxtankah 0.6509
+c) Kohunlich (Nacionales) 1.50
 
-X. San Gervasio 0.8876
+d) Kohunhich (Extranjeros) 4.25
 
-XI. San Miguelito 0.8876
+e) Oxtankah (Nacionales) 0.83
 
-XII. Tulum 0.8876
+f) Oxtankah (Extranjeros) 2.00
 
-XIII. Xelhá 0.8876
+III. Municipio de Felipe Carrillo Puerto:
 
-XIV. Xcaret 0.8876
+CONCEPTO UMA
 
-Pagarán el 50% de los derechos a que se refiere este artículo las personas mayores de 60 años, menores de 10 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
+a) Muyil (Nacionales) 1.50
+
+b) Muyil (Extranjeros) 4.25
+
+IV. Municipio de Tulum:
+
+CONCEPTO UMA
+
+a) Tulum (Nacionales) 1.50
+
+b) Tulum (Extranjeros) 4.25
+
+c) Cobá (Nacionales) 1.50
+
+d) Cobá (Extranjeros) 4.25
+
+e) Xelhá (Nacionales) 1.50
+
+f) Xelhá (Extranjeros) 4.25
+
+V. Municipio de Solidaridad:
+
+CONCEPTO UMA
+
+a) Xcaret (Nacionales) 150
+
+b) Xcaret (Extranjeros) 4.25
+
+VI. Municipio de Isla Mujeres:
+
+CONCEPTO UMA
+
+a) El Meco (Nacionales) 0.83
+
+b) El Meco (Extranjeros) 2.00
+
+VII. Municipio de Benito Juárez:
+
+CONCEPTO UMA
+
+a) El Rey (Nacionales) 0.83
+
+b) El Rey (Extranjeros) 2.00
+
+c) Museo Maya de Cancún (Nacionales) 1.50
+
+d) Museo Maya de Cancún (Extranjeros) 4.25
+
+e) San Miguelito (Nacionales) 1.50
+
+f) San Miguelito (Extranjeros) 4.25
+
+VIII Municipio de Cozumel:
+
+CONCEPTO UMA
+
+a) San Gervasio (Nacionales) 1.50
+
+b) San Gervasio (Extranjeros 4.25
+
+Pagarán el 50% de los derechos a que se refieren los incisos a) y c) de la fracción I, incisos a), c) y e) de las fracciones II, IV y VII, inciso a) de las fracciones III, V, VI y VIII de este artículo las personas mayores de 60 años, menores de 10 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
 
 Estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en México, los domingos.
 
+Estarán exentos del pago de este derecho los quintanarroenses.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN NOVENA. DEL DERECHO A VISITANTES EXTRANJEROS
+#### SECCIÓN SÉPTIMA. SERVICIOS DE ALMACENAJE
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 51
 
@@ -1815,27 +1947,19 @@ Quinquies. Los interesados dispondrán de tres días hábiles para el retiro de 
 
 Sexies. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN DÉCIMA. DEL DERECHO A LOS PASAJEROS DE CRUCEROS
+#### SECCIÓN OCTAVA. DE LOS SERVICIOS DE LA OFICINA ESTATAL DE ENLACE
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+###### Artículo 51 Septies.
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
-
-###### Artículo 51
-
-Septies. Por los servicios que presta la Oficina Estatal de Enlace con la Secretaría de Relaciones Exteriores, se causarán los derechos conforme a la tarifa siguiente:
-
-CONCEPTO UMA
-
-l. Gestión y trámite para la expedición de Pasaporte. 4.00
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
+#### SECCIÓN NOVENA. DEL DERECHO A VISITANTES EXTRANJEROS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 51
 
@@ -1855,45 +1979,83 @@ Estarán exentos del pago de los derechos a que se refiera el presente artículo
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+#### SECCIÓN DÉCIMA. DEL DERECHO A LOS PASAJEROS DE CRUCEROS
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 51
 
-Nonies. Los pasajeros de cruceros turísticos cuya embarcación ingrese en algún puerto del Estado, deberán pagar en el momento de adquirir su pasaje, un derecho por el uso y goce de los bienes del dominio público del Estado, con una tarifa de cinco dólares de los EE.UU., en su equivalente en moneda nacional al tipo de cambio vigente en la fecha de adquisición del pasaje.
+Nonies. Los pasajeros de cruceros turísticos cuya embarcación ingrese en algún puerto del Estado, deberán pagar en el momento de adquirir su pasaje, un derecho por el uso y goce de los bienes del dominio público del Estado, con una tarifa de cinco dólares de los EEUU.
 
-El derecho previsto en este artículo deberá ser cobrado y retenido por las empresas navieras u operadoras de embarcaciones que se dediquen a la actividad de cruceros turísticos en el momento de adquisición del pasaje y será enterado por sí o a través de sus agentes consignatarios, en los medios autorizados por la Secretaría a través del SATQ.
+El derecho previsto en este artículo deberá ser cobrado y retenido por las empresas navieras u operadores de embarcaciones que se dediquen a la actividad de cruceros turísticos, en el momento de adquisición del pasaje y será enterado por sí o a través de sus agentes consignatarios dentro de los primeros diez días posteriores al termino de cada trimestre calendario, en su equivalente en moneda nacional al tipo de cambio de la fecha del entero, en los medios autorizados por la Secretaría a través del SATQ.
+
+Para efectos de lo dispuesto en el párrafo anterior, los retenedores del derecho estarán obligados a presentar declaraciones informativas y definitivas con base en las formas, medios y tiempos determinados por el SATQ.
 
 En caso de que los pasajeros de cruceros turísticos cuya embarcación ingrese a dos o más puertos del Estado para el uso y goce de los bienes del dominio público del Estado, durante la misma travesía turística, el derecho se causará sólo por el primer ingreso.
 
-Estarán exentos del pago de los derechos a que se refiere el presente artículo, los miembros de la tripulación.
+Estarán exentos del pago del derecho a que se refiere el presente artículo, los miembros de la tripulación.
 
 El acreditamiento del pago de este derecho exime a los pasajeros de cruceros turísticos de pagar el derecho previsto en el artículo 51-Octies de esta Ley.
 
-Los ingresos que se obtengan por la recaudación de este derecho en cada ejercicio fiscal, serán administrados a través de fideicomisos sin estructura, con las aportaciones siguientes:
+Los ingresos que se obtengan por la recaudación de este derecho en cada ejercicio fiscal se destinarán al fideicomiso público estatal sin estructura que constituya la Secretaría. Dicho fideicomiso se conformará por los siguientes fondos:
 
-l. FONDO PARA LA ATENCIÓN DE DESASTRES NATURALES: 30% del total de lo aprobado por concepto de este derecho en la Ley de Ingresos del ejercicio fiscal que corresponda.
+I. FONDO PARA LA ATENCIÓN Y PREVENCIÓN DE DESASTRES NATURALES Y EMERGENCIAS SANITARIAS 30% del monto total recaudado por concepto de este derecho en cada ejercicio fiscal.
 
-II. FIDEICOMISO PARA LA INFRAESTRUCTURA TURÍSTICA: 70% del total de lo aprobado por concepto de este derecho en la Ley de Ingresos del ejercicio fiscal que corresponda.
+En caso de que el saldo del Fondo para la Atención y Prevención de Desastres Naturales y Emergencias Sanitarias alcance el monto objetivo que la Secretaría determine en el propio fideicomiso, las aportaciones subsecuentes se destinarán al Fondo para el Fortalecimiento de la Infraestructura y Desarrollo Turístico y de Seguridad Ciudadana.
 
-Al patrimonio del fideicomiso se le sumarán los recursos autorizados en el Presupuesto de Egresos del Gobierno del Estado en el ejercido fiscal correspondiente, en cantidad igual al porcentaje previsto en esta fracción.
+II. FONDO PARA EL FORTALECIMIENTO DE LA INFRAESTRUCTURA Y DESARROLLO TURÍSTICO Y DE SEGURIDAD CIUDADANA: 70% del monto total recaudado por concepto de este derecho en cada ejercicio fiscal.
 
-III. PARTICIPACIÓN A LOS MUNICIPIOS. Los Municipios de Cozumel y Othón P. Blanco participarán de la recaudación por este derecho en los términos previstos en los convenios de coordinación y colaboración administrativa, conforme a lo dispuesto en el artículo 39 de la Ley de Coordinación Fiscal del Estado de Quintana Roo.
+El Gobierno del Estado podrá utilizar hasta un 5% del patrimonio del fideicomiso a gastos de operación que apoyen el ejercicio de los fines del fideicomiso y la aplicación de los recursos que integren los fondos señalados en las fracciones I y II anteriores.
 
-La participación a los Municipios que se adhieran al Sistema Estatal de Coordinación Fiscal, en términos de lo previsto en el artículo 23-Ter de la Ley de Coordinación Fiscal del Estado de Quintana Roo, se calculará previo a la determinación de los porcentajes a que se refieren las fracciones l y II de este artículo.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS SERVICIOS PARA EL TRÁMITE DEL PERMISO DE PESCA-DEPORTIVA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 51
+
+Decies. Por el servicio para la gestión y trámite para la expedición del permiso individual para efectuar la pesca deportivo-recreativa en embarcaciones y de manera subacuática, se causará un derecho con una tarifa de 2.5 UMA.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. DEL REGISTRO ESTATAL DE PERITOS VALUADORES INMOBILIARIOS PARA FINES FISCALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 51
+
+Undecies. Por los servicios que preste el SATQ, relacionados con el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales de conformidad con la Ley de Valuación para el Estado de Quintana Roo, se causarán los derechos conforme a la tarifa siguiente:
+
+CONCEPTO UMA
+
+I. Por el análisis y calificación de documentos para la
+
+inscripción en el Registro Estatal de Peritos
+
+Valuadores Inmobiliarios para Fines Fiscales 50.00
+
+II. Por el análisis y calificación de documentos para
+
+el refrendo de cada especialidad inscrita en el
+
+Registro Estatal de Peritos Valuadores Inmobiliarios
+
+para Fines Fiscales 25.00
+
+III. Por la expedición de la constancia de validación
+
+de avalúos realizados por Peritos Valuadores
+
+Inmobiliarios para Fines Fiscales 2.00
+
+En el caso de los Peritos Valuadores Inmobiliarios para fines fiscales que realicen su inscripción o refrendo, además del Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, en el Registro Estatal de Peritos Valuadores a cargo de la Secretaría de Gobierno y que acrediten haber realizado el pago de los derechos correspondientes, estarán exentos del pago ante el SATQ.
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DEL INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
 ### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
 
-#### SECCIÓN TERCERA. DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
 ###### Artículo 52.
 
@@ -1955,21 +2117,39 @@ obtener la Matrícula y Acreditación de Asesor
 
 Inmobiliario. 130.00
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+a) 2 años 25.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+b) 4 años 50.00
+
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
 II. Por el análisis y calificación para renovar la
 
 Acreditación de Asesor Inmobiliario 25.00
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+a) 2 años 25.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+b) 4 años 50.00
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 III. Por la reposición de la Acreditación de Asesor
 
-Inmobiliario 15.00
+Inmobiliario 20.00
 
-> <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
+#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE CONGRUENCIA URBANÍSTICA ESTATAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 54.
 
@@ -2291,21 +2471,21 @@ Los servicios que presta la Secretaría de Obras Públicas se pagarán conforme 
 
 CONCEPTO UMA
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 I. Por el análisis y calificación de la documentación
 
 para obtener el registro anual al Padrón de Contratistas
 
-del Estado de Quintana Roo. 15.00
+del Estado de Quintana Roo. 47.00
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 II. Por el análisis y calificación de la documentación
 
 para la renovación del registro en el Padrón de
 
-Contratistas del Estado de Quintana Roo. 10.00
+Contratistas del Estado de Quintana Roo. 37.00
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN SEXTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2313,7 +2493,9 @@ Contratistas del Estado de Quintana Roo. 10.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 56.
 
@@ -2387,155 +2569,153 @@ I. Por concepto de recepción y evaluación en materia de impacto ambiental como
 
 a) Evaluación y Resolución de la Manifestación de Impacto Ambiental modalidad Ordinaria, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-1. Menor o igual a 3 hectáreas. 350.00
+1. Menor o igual a 1 hectárea. 550.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-2. Mayor a 3 y menor o igual a 5 hectáreas. 400.00
+2. Mayor a 1 y menor o igual a 5 hectáreas. 650.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-3. Mayor a 5 y menor o igual a 10 hectáreas. 450.00
+3. Mayor a 5 y menor o igual a 10 hectáreas. 700.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-4. Mayor a 10 y menor o igual a 15 hectáreas. 500.00
+4. Mayor a 10 y menor o igual a 15 hectáreas. 750.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-5. Mayor a 15 y menor o igual a 20 hectáreas. 550.00
+5. Mayor a 15 y menor o igual a 20 hectáreas. 800.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-6. Mayor a 20 y menor o igual a 30 hectáreas. 650.00
+6. Mayor a 20 y menor o igual a 30 hectáreas. 850.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-7. Mayor a 30 y menor o igual a 40 hectáreas. 750.00
+7. Mayor a 30 y menor o igual a 40 hectáreas. 900.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-8. Mayor a 40 y menor o igual a 50 hectáreas. 850.00
+8. Mayor a 40 y menor o igual a 50 hectáreas. 950.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-9. Mayor a 50 hectáreas. 950.00
+9. Mayor a 50 hectáreas. 1,000.00
 
 b) Evaluación y Resolución de la Manifestación de Impacto Ambiental, modalidad Detallada, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-1. Menor o igual a 3 hectáreas. 400.00
+1. Menor o igual a 1 hectárea. 600.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-2. Mayor a 3 y menor o igual a 5 hectáreas. 450.00
+2. Mayor a 1 y menor o igual a 5 hectáreas. 650.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-3. Mayor a 5 y menor o igual a 10 hectáreas. 500.00
+3. Mayor a 5 y menor o igual a 10 hectáreas. 700.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-4. Mayor a 10 y menor o igual a 15 hectáreas. 550.00
+4. Mayor a 10 y menor o igual a 15 hectáreas. 750.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-5. Mayor a 15 y menor o igual a 20 hectáreas. 600.00
+5. Mayor a 15 y menor o igual a 20 hectáreas. 800.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-6. Mayor a 20 y menor o igual a 30 hectáreas. 700.00
+6. Mayor a 20 y menor o igual a 30 hectáreas. 850.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-7. Mayor a 30 y menor o igual a 40 hectáreas. 800.00
+7. Mayor a 30 y menor o igual a 40 hectáreas. 900.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-8. Mayor a 40 y menor o igual a 50 hectáreas. 900.00
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+8. Mayor a 40 y menor o igual a 50 hectáreas. 950.00
 
 9. Mayor a 50 hectáreas. 1000.00
 
 c) Evaluación y Resolución de la Manifestación de Impacto Ambiental, que identifique los impactos negativos generados al ambiente y establezca las medidas para mitigar, rehabilitar y compensar dichos impactos, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-1. Menor o igual a 3 hectáreas. 500.00
+1. Menor o igual a 1 hectárea. 700.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-2. Mayor a 3 y menor o igual a 5 hectáreas. 550.00
+2. Mayor a 1 y menor o igual a 5 hectáreas. 750.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-3. Mayor a 5 y menor o igual a 10 hectáreas. 600.00
+3. Mayor a 5 y menor o igual a 10 hectáreas. 850.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-4. Mayor a 10 y menor o igual a 15 hectáreas. 650.00
+4. Mayor a 10 y menor o igual a 15 hectáreas. 900.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-5. Mayor a 15 y menor o igual a 20 hectáreas. 700.00
+5. Mayor a 15 y menor o igual a 20 hectáreas. 950.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-6. Mayor a 20 y menor o igual a 30 hectáreas. 800.00
+6. Mayor a 20 y menor o igual a 30 hectáreas. 1,000.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-7. Mayor a 30 y menor o igual a 40 hectáreas. 900.00
+7. Mayor a 30 y menor o igual a 40 hectáreas. 1,050.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-8. Mayor a 40 y menor o igual a 50 hectáreas. 1000.00
+8. Mayor a 40 y menor o igual a 50 hectáreas. 1,100.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-9. Mayor a 50 hectáreas. 1100.00
+9. Mayor a 50 hectáreas. 1,150.00
 
 d) Evaluación y Resolución del Informe Preventivo en materia de impacto ambiental, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-1. Menor o igual a 3 hectáreas. 200.00
+1. Menor o igual a 1 hectárea. 225.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-2. Mayor a 3 y menor o igual a 5 hectáreas. 225.00
+2. Mayor a 1 y menor o igual a 5 hectáreas. 250.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-3. Mayor a 5 y menor o igual a 10 hectáreas. 250.00
+3. Mayor a 5 y menor o igual a 10 hectáreas. 275.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-4. Mayor a 10 y menor o igual a 15 hectáreas. 275.00
+4. Mayor a 10 y menor o igual a 15 hectáreas. 300.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-5. Mayor a 15 y menor o igual a 20 hectáreas. 300.00
+5. Mayor a 15 y menor o igual a 20 hectáreas. 350.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-6. Mayor a 20 y menor o igual a 30 hectáreas. 350.00
+6. Mayor a 20 y menor o igual a 30 hectáreas. 400.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-7. Mayor a 30 y menor o igual a 40 hectáreas. 400.00
+7. Mayor a 30 y menor o igual a 40 hectáreas. 450.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-8. Mayor a 40 y menor o igual a 50 hectáreas. 450.00
+8. Mayor a 40 y menor o igual a 50 hectáreas. 500.00
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-9. Mayor a 50 hectáreas. 500.00
+9. Mayor a 50 hectáreas. 550.00
 
 e) (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)
 
@@ -2753,7 +2933,7 @@ II. Análisis y calificación para emitir la congruencia de uso de suelo de los 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
+#### SECCIÓN SEGUNDA. DEL INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2863,15 +3043,27 @@ III. RESERVA ECOLÓGICA ESTATAL “LAGUNA MANATÍ”.
 
 1. Admisión
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-a) Nacionales (Excepto quintanarroenses) 0.3102
+a) Locales (Cancunenses) 0.0800
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) Extranjeros .0.7055
+b) Quintanarroenses 0.1300
 
-c) Menores de 8 años, mayores de 65 años y personas con discapacidad. EXENTO
+(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO A), P.O. 23 DE DICIEMBRE DE 2024)
+
+c) Nacionales (Excepto quintanarroenses) 0.3102
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO B)], P.O. 23 DE DICIEMBRE DE 2024)
+
+d) Extranjeros 0.7055
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO C)], P.O. 23 DE DICIEMBRE DE 2024)
+
+e) Menores de 8 años, mayores de 65 años y
+
+personas con discapacidad. EXENTO
 
 2. Prestadores de Servicios
 
@@ -2883,17 +3075,31 @@ b) Por ingreso diario a zonas de aprovechamientos de bajo impacto; pesca deporti
 
 IV. SANTUARIO DEL MANATI (BAHÍA DE CHETUMAL).
 
-1. Admisión
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+1. Admisión al Público (CARMA)
 
-a) Nacionales (Excepto quintanarroenses) 0.3102
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+a) Locales (Municipio Othón P. Blanco y Bacalar) 0.0800
 
-b) Extranjeros. 0.7055
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-c) Menores de 8 años, mayores de 65 años y personas con discapacidad. EXENTO
+b) Quintanarroenses 0.1300
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO A)], P.O. 23 DE DICIEMBRE DE 2024)
+
+c) Nacionales (Excepto quintanarroenses) 0.3102
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO B)], P.O. 23 DE DICIEMBRE DE 2024)
+
+d) Extranjeros 0.7055
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO C)], P.O. 23 DE DICIEMBRE DE 2024)
+
+e) Menores de 8 años, mayores de 65 años y
+
+personas con discapacidad. EXENTO
 
 2. Otros Servicios
 
@@ -2909,15 +3115,27 @@ V. PARQUE LAGUNA DE BACALAR.
 
 1. Admisión
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-a) Nacionales (Excepto quintanarroenses) 0.3102
+a) Locales (Municipio Bacalar) 0.0800
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) Extranjeros. 0.7055
+b) Quintanarroenses 0.1300
 
-c) Menores de 8 años. Mayores de 65 años y personas con discapacidad. EXENTOS
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO A)], P.O. 23 DE DICIEMBRE DE 2024)
+
+c) Nacionales (Excepto quintanarroenses) 0.3102
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO B)], P.O. 23 DE DICIEMBRE DE 2024)
+
+d) Extranjeros 0.7055
+
+(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO C)], P.O. 23 DE DICIEMBRE DE 2024)
+
+e) Menores de 8 años, mayores de 65 años y
+
+personas con discapacidad. EXENTO
 
 2. Otros servicios
 
@@ -2929,7 +3147,9 @@ c) Servicio público/Vans. 0.5755
 
 > <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
+#### SECCIÓN TERCERA. DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 62.
 
@@ -2953,7 +3173,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
+#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 63.
 
@@ -2961,7 +3181,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
+#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
 
 ###### Artículo 64.
 
@@ -3003,7 +3223,9 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 66.
 
@@ -3049,11 +3271,13 @@ XVI. Gestión para la adición de carreras ante la Dirección General de Profesi
 
 XVII. Cambio de nomenclatura de Institución Educativa, Carrera y/o Estudios de Posgrado de Educación Media Superior y Superior Particulares con Reconocimiento de Validez Oficial de Estudios vigente 5.9179
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Gestión de registro de título y/o diploma y/o grado de maestro(a) o doctor(a) electrónico por alumno(a) ante la Dirección General de Profesiones de la SEP. 3.8557
+
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A] , P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 67.
 
@@ -3071,7 +3295,7 @@ III. Peritos valuadores. 17.25
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
 
-#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
+#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
 ###### Artículo 68.
 
@@ -3083,11 +3307,11 @@ El pago de los derechos por este concepto se hará en la caja de los propios hos
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las oficinas autorizadas por la Secretaría cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 69.
 
-Tratándose de personas que carezcan de seguridad social, la prestación de los servicios de salud, medicamentos y demás insumos asociados, podrá estar exenta de costos en los términos y de acuerdo a los supuestos previstos en el artículo 77 Bis 1 de la Ley General de Salud, Tabuladores vigentes, instrumentos y demás disposiciones jurídicas aplicables para tal efecto.
+Tratándose de personas que carezcan de seguridad social, la prestación de los servicios de salud, medicamentos y demás insumos asociados, estará exenta de costos en los términos y de acuerdo a los supuestos previstos en el artículo 77 Bis 1 de la Ley General de Salud, Tabuladores vigentes, instrumentos y demás disposiciones jurídicas aplicables para tal efecto.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -3103,7 +3327,7 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
 
 ###### Artículo 70.
 
@@ -3119,7 +3343,7 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 72.
 
@@ -3131,7 +3355,9 @@ Por el análisis de la documentación para participar en la designación de desp
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
+#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 73
 
@@ -3421,253 +3647,181 @@ IV. Por el servicio de vigilancia especial de instalaciones por el tiempo de vei
 
 Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el tipo de servicio requerido, el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del mismo, el domicilio en el cual se llevará a cabo la ejecución del servicio, el nombre del solicitante o la denominación o razón social y el domicilio del beneficiario del servicio.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 APARTADO D
 
 CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 ###### Artículo 82.
 
-Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88.00 UMA por persona.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 APARTADO E
 
-ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
+UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 82
+###### Artículo 82 Bis.
 
-Bis. Por los servicios de capacitación, adiestramiento y certificación, dirigida a los cuerpos de seguridad ciudadana estatal y municipal, personal de custodia, policía ministerial, peritos, guías técnicos, personal de ayudantía y personal de seguridad privada, que presta la Secretaría de Seguridad Ciudadana a través de la Academia Estatal de Seguridad Pública, se causarán derechos conforme a la tarifa siguiente:
+Por los servicios de capacitación, adiestramiento y certificación, dirigida a los cuerpos de seguridad ciudadana estatal y municipal, personal de custodia, policía ministerial, peritos, guías técnicos, personal de ayudantía y personal de seguridad privada, que presta la Secretaría de Seguridad Ciudadana a través de la Universidad de Ciencias, y Disciplinas de la Seguridad de Quintana Roo, se causarán derechos conforme a la tarifa siguiente:
 
-CONCEPTO UMA
+CONCEPTO TARIFA UMAS
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+I. SERVICIOS DE INSCRIPCIÓN
 
-I. Programas de Formación Inicial Costo por elemento
+2) REVALIDACIÓN EQUIVALENCIA DE
 
-1) Formación Inicial para Policía Preventivo
+ESTUDIOS 10.00
 
-de Nuevo Ingreso. 483.4
+2) EXAMEN CENEVAL EXANI-II 5.00
 
-2) Formación Inicial para Policía Preventivo
+3) INSRIPCIÓN ESTUDIANTES DE NUEVO
 
-en Activo. 264.7
+INGRESO/REINGRESO 18.00
 
-3) Formación Inicial para Policía de
+4) INSCRIPCIÓN A MATERIA AISLADA 3.00
 
-Investigación. 345.3
+5) INSCRIPCIÓN A EVALUÁCIÓN ESPECIAL 4.00
 
-4) Formación Inicial para Ministerios Públicos. 345.3
+6) INSCRIPCIÓN ESTUDIANTES REINGRESO
 
-5) Formación Inicial para Perito. 345.3
+QUE CURSAN DOBLE CARRERA 14.5
 
-6) Formación Inicial para Custodios. 368.2
+7) ALTAS Y BAJAS ACADEMICAS 1.00
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+II. TRÁMITES Y SERVICIOS ESCOLARES
 
-II. Programas de Formación Continua. Costo por elemento
+1 BAJA TEMPORAL O DEFINITIVA 1.00
 
-1) Competencias Básicas de la Función Policial. 42.3
+2) CAMBIO DE CARRERA O CAMBIO DE
 
-2) Actualización de Estrategia Policial. 76.7
+UNIDAD ACADÉMICA 9.00
 
-3) Derechos Humanos. 46.00
+3) CONSTANCIA DE LIBERACIÓN DEL
 
-4) Marco Legal Policial. 46.00
+SERVICIO SOCIAL 3.5
 
-5) Informe Policial Homologado. 46.00
+4) REPOSICIÓN DE CREDENCIAL DE
 
-6) Cadena de Custodia. 46.00
+ESTUDIANTE 1.00
 
-7) Preservación del Lugar de los Hechos. 46.00
+5) CREDENCIAL DE VISITANTE 1.00
 
-8) Manual Básico del Policía Preventivo. 46.00
+6) CONSTANCIA DE ESTUDIOS 1.00
 
-9) Nuevo Modelo Policial. 46.00
+7) CERTIFICADOS TOTALES, PARCIALES
 
-10) Ética Policial. 46.00
+O CARTAS DE PASANTE 5.50
 
-11) Prevención del Delito. 46.00
+8) DERECHOS DE TITULACIÓN 37.00
 
-12) Técnicas de Investigación Policial. 46.00
+9) REGISTRO DE TÍTULO ELECTRÓNICO 5.00
 
-13) Uso Legítimo de la Fuerza. 46.00
+10) DERECHOS DE TITULACIÓN
 
-14) Uso Racional de la Fuerza, por elemento. 46.00
+ESPECIALIDADES 39.00
 
-15) Manejo de Estrés. 46.00
+11) REGISTRO DE TÍTULO ELECTRÓNICO
 
-16) Manejo y Solución de Conflictos. 46.00
+ESPECIALIDADES. 14.00
 
-17) Proximidad Social. 46.00
+12) CERTIFICADOS TOTALES O PARCIALES
 
-18) Adiestramiento Básico en Armamento y Tiro. 46.00
+ESPECIALIDADES 11.00
 
-19) Operación Táctica del Vehículo Policial. 46.00
+13) VALE PARA IMPRESIONES 0.50
 
-20) Técnicas de Defensa Policial. 46.00
+14) CERTIFICADOS TOTALES, PARCIALES O
 
-21) Registro de Personas. 46.00
+CARTA DE PASANTE 11.00
 
-22) Técnica de Operación y procedimientos de
+15) CERTIFICACIÓN DE PLAN DE ESTUDIOS 14.00
 
-Revisión. 46.00
+16) COPIA CERTIFICADA DE UN DOCUMENTO
 
-23) Técnica de Control y Conducción de
+OFICIAL 5.00
 
-Detenidos. 46.00
+17) TÍTULO DE MAESTRÍA 46.00
 
-24) Redacción de Informes Policiales. 46.00
+18) TÍTULO DE DOCTORADO 56.00
 
-25) Manejo de casos. 46.00
+III. PROGRAMAS DE POSGRADO
 
-26) Acondicionamiento Físico. 90.2
+1) PROCESO DE ADMISIÓN 9.00
 
-27) Disciplina. 90.2
+2) INSCRIPCIÓN (ESPECIALIDADES) 16.00
 
-28) Hechos de Tránsito Terrestre. 90.2
+3) CUOTA POR ASIGNATURA AISLADA
 
-29) Asertividad y Negociación Policial. 90.2
+(ESPECIALIDADES) 18.00
 
-30) Manejo de Conflicto. 90.2
+4) INSCRIPCIÓN (MAESTRÍAS) 16.00
 
-31) Comunicación Oral. 90.2
+5) CUOTA POR ASIGNATURA AISLADA
 
-32) Lenguaje Corporal. 90.2
+(MAESTRÍAS) 18.00
 
-33) Integración de Equipos de Trabajo. 90.2
+6) INSCRIPCIÓN (DOCTORADOS) 18.00
 
-34) Investigación e Identificación de Vehículos
+7) CUOTA POR ASIGNATURA AISLADA
 
-Robados. 90.2
+(DOCTORADOS) 28.00
 
-35) Narcomenudeo. 90.2
+IV.CURSOS, TALLERES, CONGRESOS, SEMINARIOS Y SIMPOSIOS
 
-36) Técnicas de Entrevista e Interrogatorio. 90.2
+1) CURSO/TALLER TEÓRICO
 
-37) Sistema de Justicia para Adolescentes. 90.2
+ESPECIALIZADO A 1.00
 
-38) Argumentación Jurídica. 90.2
+2) CURSO DE ALINEACIÓN A 11.0
 
-39) Teoría del Delito. 90.2
+3) CURSO DE ALINEACIÓN B 7.50
 
-40) Teoría del caso. 90.2
+4) CONGRESO A. 5.50
 
-41) Operación de Equipos de Radiocomunicación. 90.2
+5) CONGRESO B 3.00
 
-42) Manejo del Bastón Policial. 90.2
+6) CONGRESO C 4.00
 
-43) Relaciones Humanas. 45.12
+7) CONGRESO D 2.00
 
-44) Comunicación. 45.12
+8) CONGRESO E 4.00
 
-45) Integración Grupal. 45.12
+9) CONSTANCIA DE PARTICIPACIÓN
 
-46) Formación de instructores. 45.12
+EN CONGRESO 5.00
 
-47) Psicología Policial. 45.12
+10) DIPLOMADO TEÓRICO 83.00
 
-48) Negociación. 45.12
+11) DIPLOMADO DE TITULACIÓN A 111.00
 
-49) Orientado a Resultado. 45.12
+V. OTROS SERVICIOS
 
-50) Liderazgo policial. 45.12
+1) REPOSICIÓN DE CREDENCIAL DE
 
-51) Normatividad Específico. 45.12
+EGRESADOS 1.00
 
-52) Sistema Penal Acusatorio. 146.6
+2) EVALUACIÓN EN ESTÁNDAR DE
 
-53) Medios Alternativos de Justicia. 138.00
+COMPETENCIA A 32.00
 
-54) Grupo Táctico. 138.00
+3) EVALUACIÓN EN ESTÁNDAR DE
 
-55) La Prueba Pericial en el Sistema Penal
+COMPETENCIA B 37.00
 
-Acusatorio. 138.00
+VI. ACCIONES FORMATIVAS DE DESARROLLO DEL TALENTO DIGITAL
 
-56) Sensibilización del Juicio Oral. 138.00
-
-57) Intervención Policial y Uso Táctico de
-
-Armamento (swat). 138.00
-
-58) Operaciones Especiales de Reacción. 138.00
-
-59) Detección y conducción de vehículos robados. 138.00
-
-60) Armamento y Tiro Policial. 138.00
-
-61) Diseño de Operativos Especiales. 138.00
-
-62) Policía de Proximidad con Perspectiva de
-
-Género. 138.00
-
-63) Inteligencia para el Combate al
-
-narcomenudeo. 138.00
-
-64) Investigación de Delitos. 138.00
-
-65) Conducción de Reos y Detección de Droga. 138.00
-
-66) Grupos Tácticos de Reacción Penitenciaria. 138.00
-
-67) Criminología en el Sistema Penitenciario. 138.00
-
-68) Oratoria y Redacción en los Juicios Orales. 138.00
-
-69) Metodología de la Investigación Policial. 138.00
-
-70) Investigación sobre el Crimen Organizado. 138.00
-
-71) Bases Metodológicas para la Proximidad
-
-Social. 138.00
-
-72) Diplomado para Mandos Medios. 138.00
-
-73) Sistema Penal Acusatorio para Mandos. 146.6
-
-74) Desarrollo de Habilidades Directivas. 135.4
-
-75) Integración de Trabajo en Equipo. 135.4
-
-76) Diplomado en Seguridad Penitenciaria. 135.4
-
-77) Administración de la Seguridad Pública. 135.4
-
-78) Formador de Formadores. 135.4
-
-79) Planeación Táctica Operativa. 135.4
-
-80) Planeación y Control Policial. 135.4
-
-81) Habilidades Gerenciales para Mandos. 135.4
-
-82) Gestión y Administración Policial. 135.4
-
-83) Toma de decisiones. 135.4
-
-84) Nuevo Modelo Policial para Mandos. 135.4
-
-85) Comunicación y Lenguaje. 135.4
-
-86) Diplomado en Juicios Orales. 135.4
-
-87) Liderazgo y Ética Policial. 135.4
-
-88) Evaluación de las Competencias Básicas
-
-Policiales. 9.67
+1) DIPLOMADO TEÓRICO PRÁCTICO VIRTUAL 74.00
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
 
-#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
+#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
 ###### Artículo 83.
 
@@ -3675,7 +3829,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
 ###### Artículo 84.
 
@@ -3683,7 +3837,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
+#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
 
 ###### Artículo 85.
 
@@ -3691,7 +3845,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
 
 ###### Artículo 86.
 
@@ -3699,7 +3853,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
+#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
 
 ###### Artículo 87.
 
@@ -3707,7 +3861,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
+#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 88.
 
@@ -3715,7 +3869,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
+#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
 
 ###### Artículo 89.
 
@@ -3723,7 +3877,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
+#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 90.
 
@@ -3731,7 +3885,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
+#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
 
 ###### Artículo 91.
 
@@ -3739,7 +3893,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
+#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
 
 ###### Artículo 92.
 
@@ -3747,7 +3901,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
+#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
 
 ###### Artículo 93.
 
@@ -3755,7 +3909,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
+#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
 
 ###### Artículo 94.
 
@@ -3763,7 +3917,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
 
 ###### Artículo 95.
 
@@ -3771,7 +3925,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
 
 ###### Artículo 96.
 
@@ -3779,7 +3933,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
+#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
 
 ###### Artículo 97.
 
@@ -3787,7 +3941,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
+#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
 
 ###### Artículo 98.
 
@@ -3795,7 +3949,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
+#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
 
 ###### Artículo 99.
 
@@ -3803,7 +3957,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
+#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 100.
 
@@ -3811,7 +3965,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 101.
 
@@ -3827,7 +3981,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
+#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
 
 ###### Artículo 104.
 
@@ -3839,7 +3993,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
+#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
 
 ###### Artículo 106.
 
@@ -3847,7 +4001,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
 
 ###### Artículo 107.
 
@@ -3855,7 +4009,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
+#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 108.
 
@@ -3863,7 +4017,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 109.
 
@@ -3871,7 +4025,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
+#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 110.
 
@@ -3879,11 +4033,15 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
+#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+
 ###### Artículo 111.
 
 (DEROGADO, P.O. 22 DE ABRIL DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
 
 ###### Artículo 112.
 
@@ -3891,11 +4049,15 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
+#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+
 ###### Artículo 113.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
 
 ###### Artículo 114.
 
@@ -4458,3 +4620,13 @@ QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Admi
 SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
 
 SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del "Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023", publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 077 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero del año 2025.
+
+SEGUNDO. Para el cumplimiento de lo previsto en el artículo 51-Nonies, la Secretaría dentro del plazo de 60 días naturales, contados a partir del inicio de la vigencia del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el fideicomiso público estatal sin estructura.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
