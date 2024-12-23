@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2022-12-23"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -85,13 +85,13 @@ III.- Licencia de Bebidas alcohólicas: Al documento otorgado por el Ejecutivo a
 
 IV.- U.M.A.: Al valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V.- Venta al mayoreo: Es la actividad comercial de compra - venta continua de bebidas alcohólicas, cuya finalidad está dirigida únicamente a clientes subsecuentes y comerciales que cuenten con una licencia para la venta de bebidas alcohólicas.
+V.- Venta al mayoreo: Es la actividad comercial de compraventa de bebidas alcohólicas, en el caso de cerveza cuando la venta sea mayor a dos hectolitros por cliente, por día y tratándose de destilados y demás bebidas alcohólicas, cuando la venta sea mayor a quince litros por cliente, por día;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VI.- Venta al menudeo: Es la actividad comercial de compra - venta de bebidas alcohólicas cuya finalidad está dirigida únicamente al último consumidor o público en general.
+VI.- Venta al menudeo: Es la actividad comercial de compra-venta de bebidas alcohólicas cuya finalidad está dirigida únicamente al último consumidor o público en general. En el caso de cerveza cuando la venta sea menor a dos hectolitros por cliente, por día y tratándose de destilados y demás bebidas alcohólicas, cuando la venta sea menor a quince litros por cliente, por día;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -265,9 +265,9 @@ En todos los casos se deberá dar aviso a través de los medios de comunicación
 
 La Licencia de Bebidas Alcohólicas en lo general será personal e inembargable. Podrá ser transferible a un tercero cuando el titular de la Licencia solicite por escrito este acto al Ejecutivo, y sea autorizado a través de la Secretaría mediante un documento de carácter oficial que será emitido cuando se hayan satisfecho los requisitos que se establecen en el Artículo 12, y a lo señalado en la fracción III del Artículo 9 de la presente Ley, así como lo que estipule el Reglamento de la misma, y toda vez que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la Licencia.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Los titulares de licencia de venta de bebidas alcohólicas en envase cerrado que opten por vender bebidas alcohólicas en la modalidad “en línea y/o a domicilio” deberán solicitar su licencia adicional, misma que estará vinculada a la licencia principal y sujeta a las mismas restricciones. La licencia de venta en línea y/o a domicilio será otorgada previo pago de los derechos correspondientes.
+Los titulares de licencia de venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo que opten por vender bebidas alcohólicas en la modalidad en línea y/o a domicilio deberán solicitar su licencia adicional, misma que estará vinculada a la licencia principal y sujeta a las mismas restricciones. La licencia adicional de venta en línea y/o a domicilio será otorgada previo pago de los derechos correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -451,13 +451,9 @@ b) Cuando el contribuyente enajene bebidas alcohólicas en envase cerrado con pr
 
 c) Cuando el contribuyente preste el servicio público especializado a que se refiere el artículo 91 de la Ley de Movilidad del Estado de Quintana Roo, y dentro de este servicio expenda bebidas alcohólicas para su venta o consumo, y que por la naturaleza de su actividad comercial, no cuente con Licencia de Bebidas Alcohólicas, deberá tramitar este permiso con vigencia de hasta un año, previo pago de derechos que determine la Ley de Derechos del Estado de Quintana Roo. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+d) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
-d) Cuando el contribuyente lleve a cabo transacciones de venta de bebidas alcohólicas como complemento de alimentos, en línea o vía telefónica a domicilio, y su establecimiento se encuentre dentro de los supuestos del artículo 25, inciso B fracciones I y II de esta Ley, deberá solicitar la expedición de un permiso especial con vigencia de hasta un año. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
-
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN II], P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-Este permiso especial deberá especificar los datos de la licencia principal y establecimiento en el que esta domiciliada, encontrándose el titular sujeto a los derechos y responsabilidades señaladas en esta Ley y su Reglamento para cada uno de ellos en lo particular.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -491,35 +487,37 @@ Todo establecimiento deberá apegarse al giro que le fue autorizado en la Licenc
 
 En todos los establecimientos sujetos a la presente Ley, se responsabiliza al titular de la Licencia de Bebidas Alcohólicas, administrador o responsable del mismo, a preservar en su interior el orden público, evitando actos que afecten la vida privada de la comunidad.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
 Los establecimientos que podrán vender bebidas alcohólicas son los siguientes:
 
-a) En envase cerrado:
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos:
 
-I. Fábrica y/o micro fábrica: Lugar con o sin espacio abierto al público, cuyos fines son la elaboración, envasado y comercialización directa y/o con fines promocionales y publicitarios preponderantemente.
+a) Restaurante: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo exclusivamente con alimentos.
 
-II. Agencia: Lugar de recepción directa de fábrica de bebidas alcohólicas, para su venta y distribución de mayoreo a temperatura ambiente, en envase cerrado a negocios subsecuentes y a clientes comerciales.
+II. Venta de bebidas alcohólicas en envase abierto o al copeo:
 
-III. Depósito: Lugar de recepción directa de una Distribuidora o Agencia de bebidas alcohólicas, para su venta y distribución de mayoreo en envase cerrado a negocios subsecuentes y a clientes comerciales.
+a) Restaurante-Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo con o sin alimentos, según el horario que la presente ley indique, y
 
-IV. Minisúper: Lugar donde se pueden vender bebidas alcohólicas en envase cerrado a clientes comerciales o a particulares, en donde de manera relevante se venden mercancías diversas contando con un área de 59 metros cuadrados como máximo y que deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas.
+b) Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo.
 
-V. Tienda de Autoservicio Mayor: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimentos, ropa, telas, latería y bebidas alcohólicas en envase cerrado.
+III. Venta de bebidas alcohólicas en envase cerrado:
 
-VI. Tienda de Conveniencia: Son los establecimientos cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas de contenido alcohólico. En estos establecimientos podrán enajenarse indistintamente cervezas, vinos y licores, para su consumo en lugar diferente, debiendo contar con un área de 60 metros cuadrados como mínimo, cuando menos con 5 giros comerciales como son: artículos básicos, carnes, frutas, carnes frías, leche y sus derivados, conservas, ferreterías, tlapalería, locería, cristalería y otros, independientemente del destinado a vinos y licores y deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas. En los casos en que cuenten con neveras y/o enfriadores para bebidas alcohólicas, estas deberán ser a lo sumo en la misma cantidad que para productos perecederos.
+a) Minisúper: Lugar donde se pueden vender bebidas alcohólicas en envase cerrado a clientes comerciales o a particulares, en donde de manera relevante se venden mercancías diversas contando con un área de 59 metros cuadrados como máximo y que deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas, y
 
-El Consejo Estatal Consultivo, podrá rendir opinión sobre la inclusión de aquellos establecimientos no señalados en el presente artículo.
+b) Tienda de conveniencia: Son los establecimientos cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas de contenido alcohólico. En estos establecimientos podrán enajenarse indistintamente cervezas, vinos y licores para su consumo en lugar diferente, debiendo contar con un área de 60 metros cuadrados como mínimo, cuando menos con 5 giros comerciales como son: artículos básicos, carnes, frutas, carnes frías, leche y sus derivados, conservas, ferreterías, tlapalería, locería, cristalería y otros, independientemente del destinado a vinos y licores y deberán contar permanentemente con un 70% del área del establecimiento con productos diferentes a las bebidas alcohólicas. En los casos en que cuenten con neveras y/o enfriadores para bebidas alcohólicas, estas deberán ser a lo sumo en la misma cantidad que para productos perecederos.
 
-b) En envase abierto o al copeo:
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo:
 
-I. Restaurante: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo exclusivamente con alimentos.
+a) Fábrica y/o micro-fábrica: Lugar con o sin espacio abierto al público, cuyos fines son la elaboración, envasado y comercialización directa y/o con fines promocionales y publicitarios preponderantemente;
 
-II. Restaurante - Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo con o sin alimentos, según el horario que la presente ley indique.
+b) Agencia: Lugar de recepción directa de fábrica de bebidas alcohólicas, para su venta y distribución de mayoreo a temperatura ambiente en envase cerrado a negocios subsecuentes y a clientes comerciales;
 
-III. Bar: Lugar donde se pueden vender bebidas alcohólicas en envase abierto o al copeo.
+c) Depósito: Lugar de recepción directa de una Distribuidora o Agencia de bebidas alcohólicas para su venta y distribución de mayoreo en envase cerrado a negocios subsecuentes y a clientes comerciales, y
+
+d) Tienda de autoservicio mayor: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimentos, ropa, telas, latería y bebidas alcohólicas en envase cerrado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
 
@@ -571,11 +569,9 @@ b) Restaurante bar: en horario ordinario, de lunes a domingo de las 10:00 horas 
 
 c) Bar: en horario ordinario de lunes a domingo de las 11:00 horas a las 23:00 horas y en horario extraordinario, de lunes a domingo de las 23:00 horas a las 04:00 horas del día siguiente.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
 ###### ARTÍCULO 25
 
-TER.- Los establecimientos señalados en las fracciones I, II, III, IV, V y VI del inciso a) del artículo 25 que cuenten con una licencia de bebidas alcohólicas podrán solicitar una licencia para la venta de bebidas alcohólicas en línea y/o a domicilio, la cual será otorgada previo pago del derecho correspondiente.
+TER.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
 ### CAPÍTULO IV. DE LAS RESTRICCIONES
 
@@ -703,13 +699,13 @@ Si del resultado de las inspecciones realizadas se desprende la comisión de hec
 
 Se consideran infracciones a las disposiciones establecidas en esta Ley, las siguientes:
 
-I.- La venta de bebidas alcohólicas sin la Licencia de Bebidas Alcohólicas o el Permiso correspondiente;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I.- La venta de bebidas alcohólicas sin la Licencia de Bebidas Alcohólicas, Licencia adicional para venta en línea y/o a domicilio, el Permiso o la autorización de comodato correspondiente;
 
 II.- Transferir la Licencia de Bebidas Alcohólicas en contravención a lo dispuesto en los Artículos 11 y 12 de esta Ley;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a personas físicas y/o morales, que no cuenten con la Licencia de Bebidas Alcohólicas o Permiso correspondiente, hecha por el titular de una Licencia de Bebidas Alcohólicas cuyo giro autorizado sea de lo especificado en las fracciones III y V del Artículo 17 de esta Ley.
+III.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
 IV.- Vender bebidas alcohólicas en establecimientos no autorizados por esta ley u otras que lo prohíban expresamente;
 
@@ -721,11 +717,15 @@ VI.- Vender bebidas alcohólicas a menores de 18 años de edad, y permitir su en
 
 VII.- Vender bebidas alcohólicas los días y horas en que exista prohibición expresa por la autoridad competente;
 
-VIII.- No respetar los términos contenidos en la Licencia de Bebidas Alcohólicas o Permiso correspondiente, respecto al giro y/o establecimiento para los cuales fueron autorizados;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VIII.- No respetar los términos contenidos en la Licencia de Bebidas Alcohólicas, Licencia adicional para venta en línea y/o a domicilio o el Permiso o la autorización de comodato correspondiente, respecto al giro y/o establecimiento para los cuales fueron autorizados;
 
 IX.- Negarse el administrador, empleado, titular o quien legalmente explote la Licencia de Bebidas Alcohólicas, a mostrar al personal autorizado la Licencia de Bebidas Alcohólicas, el Permiso o la autorización de comodato correspondiente, cuando le sea requerida, así como obstaculizar y/o impedir o pretender obstaculizar y/o impedir que se lleve a cabo el procedimiento de inspección ordenado por la autoridad competente;
 
-X.- Operar en un domicilio distinto al autorizado en la Licencia de Bebidas Alcohólicas o Permiso correspondiente;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+X.- Operar en un domicilio distinto al autorizado en la Licencia de Bebidas Alcohólicas, Licencia adicional para venta en línea y/o a domicilio o el Permiso o la autorización de comodato correspondiente;
 
 XI.- En el caso de las visitas de inspección, no proporcionar información relacionada con la venta de bebidas alcohólicas o suministrarla de manera falsa a las autoridades competentes;
 
@@ -927,9 +927,11 @@ Si quien resulte responsable del rompimiento de los sellos es el titular de la l
 
 ### CAPÍTULO VIII. DEL CLANDESTINAJE
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 51.
 
-Se entiende por clandestinaje la venta de bebidas alcohólicas sin contar con la Licencia de Bebidas Alcohólicas o Permiso correspondiente.
+Se entiende por clandestinaje la venta de bebidas alcohólicas sin contar con la Licencia de Bebidas Alcohólicas, la Licencia adicional de venta en línea y/o a domicilio, el Permiso o la Autorización de comodato correspondiente, así como la venta en horario distinto al autorizado y la venta en días y horas en que exista prohibición expresa por parte de la autoridad competente.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -1494,3 +1496,11 @@ P.O. 23 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1º de enero de 2023.
 
 SEGUNDO. Quedan sin efectos todas las demás disposiciones de Igual o menor Jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 074 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero de 2025.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
