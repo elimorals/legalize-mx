@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-16
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-12-27"
-last_updated: "2023-12-27"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 60 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -63,21 +63,43 @@ c) Familiares;
 
 d) Mixtos;
 
-e) Laborales; y
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-f) Penales, del Sistema Tradicional, de Control, de Juicio Oral, de Ejecución y del Sistema Integral de Justicia Penal para Adolescentes.
+e) Laborales;
 
-III. El Consejo de la Judicatura Estatal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-El Poder Judicial contará con un órgano interno de control, así como aquéllos necesarios para su funcionamiento con base en la disponibilidad presupuestal.
+f) Penales, del Sistema Tradicional, de Control, de Juicio Oral, de Ejecución y del Sistema Integral de Justicia Penal para Adolescentes; y
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+g) Auxiliares.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. El Órgano de Administración Judicial del Poder Judicial del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. El Tribunal de Disciplina Judicial de Aguascalientes;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Cuando en las leyes o reglamentos aplicables se haga referencia al Órgano de Administración Judicial se entenderá hecha al organismo referido en la fracción III anterior; cuando se refieren al Tribunal de Disciplina Judicial, lo será al expuesto en la fracción IV.
 
 ###### Artículo 2.
 
 Los Magistrados del Supremo Tribunal de Justicia, en Pleno y sus Salas, así como los Jueces del Poder Judicial, ejercerán su función jurisdiccional respectiva en el lugar, grado y términos conforme a la legislación Federal, Nacional, General y Local, los tratados internacionales de los que el Estado Mexicano sea parte y demás normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Las personas Magistradas del Tribunal de Disciplina Judicial ejercerán su función conforme a la legislación Federal, Nacional, General y Local, los tratados internacionales de los que el Estado Mexicano sea parte y demás normatividad aplicable.
+
 El lenguaje empleado en la presente Ley no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción representan a ambos sexos, sin discriminación alguna.
 
-El Poder Judicial deberá, en todo momento, privilegiar el acceso efectivo a la justicia, para lo cual, el Pleno del Consejo de la Judicatura Estatal, a través de acuerdos generales, dictará las medidas necesarias a fin de implementar el uso de las tecnologías de la información y comunicaciones, en términos de lo dispuesto por el artículo 51 A de la Constitución Política del Estado de Aguascalientes, así como para utilizar las herramientas electrónicas e informáticas del Poder Judicial de la Federación para la tramitación de asuntos de su competencia, en los que sea parte cualquier órgano de la Institución. Además, establecerá las excepciones para exigir comparecencias personales atendiendo a la naturaleza del caso.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El Poder Judicial deberá, en todo momento, privilegiar el acceso efectivo a la justicia, para lo cual, el Pleno del Órgano de Administración Judicial, a través de acuerdos generales, dictará las medidas necesarias a fin de implementar el uso de las tecnologías de la información y comunicaciones, en términos de lo dispuesto por el artículo 51 A de la Constitución Política del Estado de Aguascalientes, así como para utilizar las herramientas electrónicas e informáticas del Poder Judicial de la Federación para la tramitación de asuntos de su competencia, en los que sea parte cualquier órgano de la Institución. Además, establecerá las excepciones para exigir comparecencias personales atendiendo a la naturaleza del caso.
 
 ###### Artículo 3.
 
@@ -147,7 +169,7 @@ III. Conocer las competencias que se susciten entre los Jueces del Estado y entr
 
 IV. Conocer en los términos de la Constitución Local, de los procesos que por delitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Fiscal General del Estado y de los Regidores y Síndicos de los Ayuntamientos;
 
-V. Declarar si ha lugar a formación de causa en contra de los Jueces, por delitos oficiales o de orden común;
+V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
 VI. Conocer de los impedimentos, recusaciones y excusas de los Jueces del Estado;
 
@@ -157,105 +179,139 @@ VIII. Determinar las adscripciones de los Magistrados a las Salas;
 
 IX. Designar a Magistrados de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento, en términos de esta Ley;
 
-X. Aplicar a los servidores públicos subalternos del Supremo Tribunal de Justicia las correcciones disciplinarias a que se hagan acreedores, siempre que las faltas cometidas no constituyan una infracción de carácter laboral, de acuerdo al reglamento, la cual se pondrá en conocimiento de la Oficialía Mayor, o bien, administrativa, en cuyo caso se procederá conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+X. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
 XI. Registrar en el libro correspondiente los oficios que envíen los Notarios Públicos al Supremo Tribunal de Justicia, en cumplimiento de lo ordenado por el artículo 93 de la Ley del Notariado;
 
 XII. Resolver las recusaciones y excusas del Presidente o de algún Magistrado del Supremo Tribunal de Justicia, en los asuntos de la competencia del Pleno del Tribunal;
 
-XIII. Revisar la designación, adscripción, ratificación, promoción, suspensión y remoción de Jueces realizada por el Consejo de la Judicatura Estatal, únicamente para verificar su legalidad, conforme al procedimiento establecido en el reglamento; y
+XIII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
 XIV. Ejercitar las demás facultades que le confieren la Constitución Política del Estado de Aguascalientes, las leyes y su reglamento.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-Para nombrar a los Magistrados del Supremo Tribunal de Justicia, el Consejo de la Judicatura Estatal emitirá, con por lo menos seis meses de anticipación a que se genere una vacante, cuando esto sea posible, la convocatoria correspondiente para que los aspirantes que cumplan con los requisitos establecidos en el artículo 53 de la Constitución Política del Estado de Aguascalientes, sean sometidos a exámenes de carácter psicométrico y aptitud, así como de conocimientos; ponderándose su experiencia laboral y formación académica. Elementos todos que, agregados a los resultados que se obtengan de las evaluaciones respectivas, permitirán se formen las quintetas por cada magistratura vacante para realizar el trámite que establece el diverso 54 del citado ordenamiento constitucional.
+Para la elección de las personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y las Personas Juzgadoras del Poder Judicial se seguirá el trámite que establece el artículo 54 del citado ordenamiento constitucional.
 
-Se deberá garantizar la paridad y equidad entre mujeres y hombres en la integración de los órganos jurisdiccionales contenidos en la presente ley.
+Se deberá garantizar la paridad y equidad entre mujeres y hombres en la elección de los integrantes y titulares de los órganos jurisdiccionales contenidos en la presente ley.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo siete años y podrán ser ratificados por un periodo igual; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o mediante resolución condenatoria emitida por el Congreso del Estado en el Juicio Político correspondiente, en cuyo caso serán destituidos.
+Las personas Magistradas del Supremo Tribunal de Justicia durarán en su encargo nueve años y podrán ser reelectos por un periodo igual; al termino del cual concluirá su mandato; durante su encargo sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Tribunal de Disciplina Judicial o mediante resolución condenatoria emitida por el Congreso del Estado en el Juicio Político correspondiente, en cuyo caso serán destituidos.
 
-Para su ratificación por otro periodo de siete años, el Magistrado de que se trate, deberá expresar al Consejo de la Judicatura Estatal por escrito y por los menos seis meses antes de que concluya su primer nombramiento, el deseo de continuar en el cargo, a fin de que sea sometido al procedimiento establecido en el artículo 10 de esta Ley, de lo contrario se emitirá la convocatoria correspondiente.
+Para su reelección por otro periodo de nueve años, la persona Magistrada de que se trate, deberá expresar al Órgano de Administración Judicial por escrito, dentro de los treinta días posteriores a la publicación de la convocatoria, el deseo de reelegirse en el cargo, a fin de que sea sometido al procedimiento establecido en el artículo 10 de esta Ley, de lo contrario no será tomado en cuenta para la integración de las listas de personas que se someterán a elección.
 
-Los Magistrados, en el despacho de los asuntos de su competencia, deberán portar toga, la cual contará con las características que determine el Consejo de la Judicatura Estatal.
+La persona Magistrada, en el despacho de los asuntos de su competencia, deberán portar toga, la cual contará con las características que determine el Órgano de Administración Judicial.
 
 ###### Artículo 12.
 
 Luego de que, por denuncia o querella, se tenga conocimiento de la posible comisión de un delito del fuero común por parte de un Juez, la Fiscalía General del Estado, procederá de inmediato a la investigación de los hechos, de conformidad con el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-Si de la investigación realizada por el Ministerio Público, resultara procedente el ejercicio de la acción penal, el Fiscal General del Estado, se dirigirá por escrito al Supremo Tribunal de Justicia, acompañando los indicios que tuviere, solicitando a éste, la declaración de que ha lugar a formación de causa.
+Si de la investigación realizada por el Ministerio Público, resultara procedente el ejercicio de la acción penal, el Fiscal General del Estado, se dirigirá por escrito al Tribunal de Disciplina Judicial, acompañando los indicios que tuviere, solicitando a éste, la declaración de que ha lugar a formación de causa.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 14.
 
-Recibida la solicitud del Fiscal General del Estado, el Presidente del Supremo Tribunal de Justicia citará al Juzgador a una audiencia, que se celebrará dentro de las 48 horas siguientes a la recepción de la solicitud, en la que, éste último podrá ofrecer pruebas y formular alegatos; una vez oído, el Supremo Tribunal de Justicia declarará si ha lugar o no a formación de causa en contra del Juez.
+Recibida la solicitud del Fiscal General del Estado, la persona titular de la presidencia del Tribunal de Disciplina Judicial turnará a la Comisión resolutora que citará a la persona Juzgadora a una audiencia, que se celebrará dentro de las 48 horas siguientes a la recepción de la solicitud, en la que, esta última podrá ofrecer pruebas y formular alegatos; una vez oído, la Comisión resolutora del Tribunal de Disciplina Judicial declarará si ha lugar o no a formación de causa en contra de la persona Juzgadora. La falta de asistencia de la persona juzgadora a su audiencia no impedirá la celebración de ésta.
 
-La falta de asistencia del Juez a su audiencia, no impedirá la celebración de ésta.
+Contra la determinación de la Comisión resolutora procederá el recurso de revisión que será resuelto por las otras tres Magistraturas que no integren la Comisión referida.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-Si la resolución se pronuncia en el sentido de no haber lugar a formación de causa, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para que cuando el Juez deje de desempeñar su cargo, se proceda conforme a derecho.
+Si la resolución se pronuncia en el sentido de no haber lugar a formación de causa, se devolverá todo lo allegado al Tribunal de Disciplina Judicial y a la Fiscalía General del Estado, para que cuando la persona juzgadora deje de desempeñar su cargo, se proceda conforme a derecho.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-Si se declarare que ha lugar a formación de causa, se suspenderá en sus funciones al Juez y con testimonio de dicha resolución, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para en su caso formule imputación ante el Juez legalmente competente, atendiendo a las reglas que al efecto establezca el Código Nacional de Procedimientos Penales.
+Si se declarare que ha lugar a formación de causa, se suspenderá en sus funciones la persona juzgadora y con testimonio de dicha resolución, se devolverá todo lo allegado al Tribunal de Disciplina Judicial y a la Fiscalía General del Estado, para en su caso formule imputación ante la persona juzgadora legalmente competente, atendiendo a las reglas que al efecto establezca el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-Los Magistrados del Supremo Tribunal de Justicia no serán recusables cuando se trate de resolver sobre si ha o no lugar a formación de causa.
+Las personas Magistradas del Tribunal de Disciplina Judicial no serán recusables cuando se trate de resolver sobre si ha o no lugar a formación de causa.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 18.
 
-No será motivo de recusación o excusa para los Magistrados del Supremo Tribunal de Justicia que conozcan en segunda instancia de algún caso en contra de los Jueces, el hecho de haber resuelto sobre la formación de causa.
+No será motivo de recusación o excusa para las personas Magistradas del Tribunal de Disciplina Judicial que conozcan en segunda instancia de algún caso en contra de las personas juzgadoras, el hecho de haber resuelto sobre la formación de causa.
 
-### CAPÍTULO IV. De la Presidencia del Tribunal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. De la Presidencia del Supremo Tribunal de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 19.
 
-Son atribuciones del Presidente del Supremo Tribunal de Justicia:
+Son atribuciones de la Presidencia del Supremo Tribunal de Justicia:
 
 I. Representar al Supremo Tribunal de Justicia en particular o en general al Poder Judicial del Estado, en los términos que establezcan las leyes, así como en los actos oficiales que se verifiquen, pudiendo para estos efectos designar como su representante a uno de los Magistrados;
 
-II. Designar, para el caso de que se ausente de manera temporal, a la Magistrada o al Magistrado que se encargará del despacho de los asuntos de la Presidencia del Tribunal y del Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-III. Presentar anualmente a más tardar el último día del mes de marzo, ante el Pleno del Congreso del Estado un informe por escrito correspondiente al año inmediato anterior, sobre el estado que guarda la administración de justicia, en cuanto a la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como la actividad administrativa, precisando lo relativo al ejercicio de los recursos financieros del Poder Judicial;
+II. Designar, para el caso de que se ausente de manera temporal, a la persona Magistrada que se encargará del despacho de los asuntos de la Presidencia del Tribunal;
 
-IV. Llevar la correspondencia oficial del Tribunal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Presentar anualmente, a más tardar el último día del mes de marzo, ante el Pleno del Congreso del Estado un informe por escrito correspondiente al año inmediato anterior, sobre el estado que guarda la administración de justicia, en cuanto a la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como la actividad administrativa, precisando lo relativo al ejercicio de los recursos financieros del Poder Judicial proporcionados por el Órgano de Administración Judicial;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Llevar la correspondencia oficial del Supremo Tribunal de Justicia;
 
 V. Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno, las cuales pueden ser presenciales, o bien virtuales, conforme a lo dispuesto por el artículo 8° de esta Ley;
 
 VI. Turnar entre los Magistrados los asuntos de la competencia del Pleno, cuando estime necesario oír su parecer, para acordar algún trámite, o para que formulen el proyecto de resolución que deba ser discutido por el mismo Pleno;
 
-VII. Informar al Pleno del Supremo Tribunal de Justicia el nombramiento definitivo e interino de los Jueces y demás servidores públicos que nombre el Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VII. Informar al Pleno del Supremo Tribunal de Justicia el nombramiento de las personas juzgadoras electas y demás personas servidoras públicas que adscriba o nombre el Órgano de Administración Judicial;
 
 VIII. Remitir al Juez competente los exhortos y despachos de acuerdo con el turno que al efecto se lleven; y
 
 IX. Ejercer las atribuciones que le confieran la Constitución Política del Estado de Aguascalientes, las demás leyes y el reglamento.
 
-### CAPÍTULO V. De los Servidores Públicos del Tribunal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. De los Servidores Públicos del Supremo Tribunal de Justicia
 
 ###### Artículo 20.
 
 En el Supremo Tribunal de Justicia habrá, cuando menos, un Secretario General de Acuerdos, un Notificador y un Archivista, así como los demás servidores públicos necesarios para su funcionamiento y que establezca el reglamento, con base en la disponibilidad presupuestal.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 21.
 
-Son obligaciones del Secretario General de Acuerdos del Tribunal:
+Son obligaciones de la persona titular de la Secretaría General de Acuerdos del Supremo Tribunal de Justicia:
 
 I. Autorizar las resoluciones judiciales y demás actos que competen al Pleno; y
 
-II. Tendrá fe pública en todo lo relativo al ejercicio de sus funciones; en lo conducente serán las mismas que se asignan a los Secretarios de los Juzgados y las demás que determinen las leyes, el reglamento o el Presidente del Tribunal.
+II. Tendrá fe pública en todo lo relativo al ejercicio de sus funciones; en lo conducente serán las mismas que se asignan a las personas Secretarias de los Juzgados y las demás que determinen las leyes, el reglamento o la Presidencia del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 22.
 
-El Notificador del Tribunal tendrá fe pública en el ejercicio de sus funciones, las cuales son:
+La persona Notificadora del Supremo Tribunal de Justicia tendrá fe pública en el ejercicio de sus funciones, las cuales son:
 
 I. Notificar diligentemente los asuntos de su competencia, y
 
-II. Aquellas que le encomienden las leyes, el reglamento o la Presidencia del Tribunal.
+II. Aquellas que le encomienden las leyes, el reglamento o la Presidencia del Supremo Tribunal de Justicia.
 
 ###### Artículo 23.
 
@@ -277,9 +333,11 @@ La Sala Constitucional se integrará por cinco Magistrados que serán elegidos d
 
 Quienes ocupen la Presidencia del Supremo Tribunal de Justicia o de alguna de sus salas colegiadas, no podrán ser elegibles para la integración inmediata como miembros de la Sala Constitucional.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 26.
 
-Las salas estarán siempre integradas por los Magistrados. En caso de falta temporal, excusa o recusación, se integrarán con los Magistrados de otra Sala; mientras que, tratándose de falta absoluta, la integración se hará con el Magistrado designado conforme al procedimiento previsto en la Constitución Política del Estado de Aguascalientes y en esta Ley, tiempo en el que, de manera provisional, la vacante se cubrirá por el Secretario de Sala o el Secretario Proyectista que designe el Consejo de la Judicatura Estatal, en términos del reglamento.
+Las salas estarán siempre integradas por las personas Magistradas. En caso de falta temporal, excusa o recusación, se integrarán con las personas Magistradas de otra Sala; mientras que, tratándose de falta absoluta, la integración se hará con la persona Magistrada designado conforme al procedimiento previsto en la Constitución Política del Estado de Aguascalientes y en esta Ley, tiempo en el que, de manera provisional, la vacante se cubrirá por la persona titular de la Secretaría de Sala o de la Secretaría Proyectista que designe el propio Pleno del Supremo Tribunal de Justicia, en términos del reglamento.
 
 ###### Artículo 27.
 
@@ -315,9 +373,11 @@ La Salas Colegiadas sesionarán en Pleno, de manera presencial o virtual conform
 
 Las Salas calificarán las excusas e impedimentos de los Magistrados que las integran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-Los Presidentes de las salas colegiadas y los titulares de las salas unitarias, en lo que les aplique, tendrán las obligaciones siguientes:
+Las presidencias de las salas colegiadas y los titulares de las salas unitarias, en lo que les aplique, tendrán las obligaciones siguientes:
 
 I. Presidir y representar a la Sala;
 
@@ -335,7 +395,9 @@ VII. Poner a votación los asuntos al concluir el debate;
 
 VIII. Firmar las actas de las sesiones de manera conjunta con los demás integrantes de la Sala, ante la fe de su Secretario, a excepción de la jurisdicción en materia penal donde los magistrados estarán investidos de fe pública para constancia y certificación de sus actos; y
 
-IX. Rendir a la Presidencia del Supremo Tribunal de Justicia y del Consejo de la Judicatura Estatal, un informe mensual respecto al número de sesiones celebradas, de asuntos resueltos y asuntos en trámite.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IX. Rendir a la Presidencia del Supremo Tribunal de Justicia, al Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, un informe mensual respecto al número de sesiones celebradas, de asuntos resueltos y asuntos en trámite.
 
 ###### Artículo 33.
 
@@ -369,39 +431,47 @@ II. Desempeñar las demás funciones que determinen las leyes, el reglamento o d
 
 ### CAPÍTULO I. De los Juzgados
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 103 PUBLICADO EN EL P.O. 23 DE DICIEMBRE DE 2024, PÁGINA 34.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 37.
 
-En el Estado habrá, por lo menos, cinco partidos Judiciales, con mínimo tres juzgados en cada uno de ellos, excepto en la Capital, que contará, en todo caso, con siete juzgados mercantiles, cinco juzgados civiles, ocho juzgados familiares, doce juzgados de oralidad penal, tres juzgados laborales y dos juzgados de ejecución penal.
+En el Estado habrá, de acuerdo a la suficiencia presupuestal, por lo menos, cinco partidos Judiciales, con mínimo tres juzgados en cada uno de ellos, excepto en la Capital, que contará, en todo caso, con siete juzgados mercantiles, cinco juzgados civiles, ocho juzgados familiares, doce juzgados de oralidad penal, tres juzgados laborales, dos juzgados de ejecución penal y los juzgados auxiliares que determine el Órgano de Administración Judicial.
 
-El Consejo de la Judicatura determinará, por acuerdos generales, la creación de nuevos partidos judiciales, así como la competencia territorial y, en su caso, la especialización por materia de los juzgados.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El Órgano de Administración Judicial determinará, por acuerdos generales, la creación de nuevos partidos judiciales, así como la competencia territorial y, en su caso, la especialización por materia de los juzgados.
 
 Para establecer los Partidos Judiciales, se deberá tomar en cuenta las condiciones demográficas, geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios que integren cada partido judicial, buscando facilitar el acceso a la impartición de justicia a los habitantes del Estado.
 
-En los municipios donde no existan juzgados, se establecerá una Unidad de Justicia que funcionará, por lo menos, como oficialía de partes para el Partido Judicial que corresponda, sede de audiencias, auxiliar de actuaría y recinto de auxilio en acceso a tecnologías de la información y comunicaciones. El Consejo de la Judicatura Estatal determinará el número y ubicación de estas Unidades, así como la designación de los funcionarios que ocuparán los cargos con base en la disponibilidad presupuestal y sus facultades.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Se privilegiará ubicar las Unidades de Justicia en espacios proporcionados por las autoridades municipales mediante la suscripción del convenio correspondiente.
+En los municipios donde no existan juzgados, se establecerá una Unidad de Justicia que funcionará, por lo menos, como oficialía de partes para el Partido Judicial que corresponda, sede de audiencias, auxiliar de actuaría y recinto de auxilio en acceso a tecnologías de la información y comunicaciones. El Órgano de Administración Judicial determinará el número y ubicación de estas Unidades, así como la designación de los funcionarios que ocuparán los cargos con base en la disponibilidad presupuestal y sus facultades.
 
-Tratándose de diligencias que deban de practicarse en partido judicial distinto al del Juez competente, se estará a lo que dispone el artículo 98 del Código de Procedimientos Civiles del Estado de Aguascalientes, en asuntos de materia civil, familiar y mercantil.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
-Los Juzgados funcionarán en su forma tradicional o bien, como Tribunales con varios Jueces bajo la dirección de una Administración Judicial y se distinguirán por la materia de su especialización, así como por los números ordinales que les correspondan.
+Los Juzgados funcionarán en su forma tradicional o bien, como Tribunales con varios Jueces bajo la dirección de una Administración Judicial y se distinguirán por la materia de su especialización, así como por los números ordinales que les correspondan. Para la creación de Juzgados se estará a lo que determine y acuerde el Órgano de Administración Judicial.
 
-Para la creación de Juzgados se estará a lo que determine y acuerde el Consejo de la Judicatura Estatal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-En cada uno de los Juzgados Civiles, Mercantiles, Familiares, Mixtos, Penales del Sistema Tradicional y Laborales, que funcionen en su forma tradicional habrá un Juez, los Secretarios de Acuerdos y los Secretarios de Estudio y Proyectos, o bien, los Secretarios Instructores, según sea el caso, numerados progresivamente, así como los Notificadores, Ejecutores, Actuarios y demás personal necesario para la administración de justicia, que establezca el Consejo de la Judicatura Estatal con base en la disponibilidad presupuestal.
+En cada uno de los Juzgados Civiles, Mercantiles, Familiares, Mixtos, Penales del Sistema Tradicional y Laborales, que funcionen en su forma tradicional habrá una persona juzgadora, la persona titular de la Secretaría de Acuerdos y la Secretaria de Estudio y Proyectos, o bien, las personas titulares de las Secretarías Instructoras, según sea el caso, numerados progresivamente, así como las personas Notificadoras, Ejecutoras, Actuarias y demás personal necesario para la administración de justicia, que establezca el Órgano de Administración Judicial con base en la disponibilidad presupuestal.
 
-El Primer Secretario de Acuerdos será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella de acuerdo con las instrucciones del Juez.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 40.
 
-Los Juzgados Civiles, Mercantiles, Familiares, Mixtos, Penales de Control, de Juicio Oral, de Ejecución y del Sistema Integral de Justicia Penal para Adolescentes, que funcionen como Tribunales con varios jueces, contarán con los Secretarios de Acuerdo, los Secretarios de Estudio y Proyectos, o bien, los Secretarios Instructores, según sea el caso, así como con los Notificadores, Ejecutores, Actuarios y demás personal necesario para la impartición de justicia, que establezca el Consejo de la Judicatura Estatal, con base en la disponibilidad presupuestal y que estarán bajo la dirección de una administración judicial.
+Los Juzgados Civiles, Mercantiles, Familiares, Mixtos, Penales de Control, de Juicio Oral, de Ejecución y del Sistema Integral de Justicia Penal para Adolescentes, que funcionen como Tribunales con varias personas juzgadoras, contarán con las personas titulares de las Secretarías de Acuerdos, las Secretarías de Estudio y Proyectos, o bien, las personas titulares de las Secretarías Instructoras, según sea el caso, así como con las personas Notificadoras, Ejecutoras, Actuarias y demás personal necesario para la impartición de justicia, que establezca el Órgano de Administración Judicial, con base en la disponibilidad presupuestal y que estarán bajo la dirección de una administración judicial.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 41.
 
-Tanto los Juzgados Civiles, Mercantiles, Familiares, Laborales y Penales del Sistema Tradicional, recibirán demandas y, en su caso, consignaciones, por turno, cuando y en la forma que lo disponga el Consejo de la Judicatura Estatal.
+Tanto los Juzgados Civiles, Mercantiles, Familiares, Laborales y Penales del Sistema Tradicional, recibirán demandas y, en su caso, consignaciones, por turno, cuando y en la forma que lo disponga el Órgano de Administración Judicial.
 
 ### CAPÍTULO II. De la Competencia de los Juzgados
 
@@ -417,6 +487,8 @@ III. La diligenciación de exhortos que se reciban de tribunales del país; y
 
 IV. Los demás asuntos que les asignen las leyes.
 
+> <small>(REFORMADO [ N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 43.
 
 Los Juzgados de lo Mercantil conocerán de:
@@ -427,7 +499,9 @@ II. La diligenciación de exhortos que se reciban de tribunales del país en mat
 
 III. De los demás asuntos que les asignen las leyes.
 
-Tratándose del Juicio Oral Mercantil, serán competentes para conocer del mismo, los Juzgados Mercantiles que en número determine el Consejo de la Judicatura Estatal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Tratándose del Juicio Oral Mercantil, serán competentes para conocer del mismo, los Juzgados Mercantiles que en número determine el Órgano de Administración Judicial.
 
 ###### Artículo 44.
 
@@ -497,7 +571,9 @@ Los Juzgados Penales del Sistema Tradicional conocerán de la Primera Instancia 
 
 La jurisdicción de primera instancia en materia penal, con excepción del Sistema Tradicional, estará a cargo de los juzgados de Control, de Juicio Oral y de Ejecución, y su competencia será conforme a lo establecido en el Código Nacional de Procedimientos Penales, las Leyes Federales que les atribuyan competencia, esta Legislación y demás normas relacionadas.
 
-Los Jueces de Juicio Oral, según lo determine el Consejo de la Judicatura Estatal, podrán funcionar como Tribunales Unitarios o Tribunales Colegiados, integrados por tres juzgadores, cuyas decisiones se tomarán por unanimidad o mayoría de votos, con la posibilidad de redactar voto particular que se agregará a la resolución.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Los Jueces de Juicio Oral, según lo determine el Órgano de Administración Judicial, podrán funcionar como Tribunales Unitarios o Tribunales Colegiados, integrados por tres personas juzgadoras, cuyas decisiones se tomarán por unanimidad o mayoría de votos, con la posibilidad de redactar voto particular que se agregará a la resolución.
 
 Los Jueces deberán estar presentes en todas las audiencias y trámites que les competan en el procedimiento penal.
 
@@ -643,21 +719,27 @@ Cuando un Juez de la referida materia utilice los medios indicados en el primer 
 
 Las autoridades judiciales penales del Sistema Oral podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación.
 
-El Consejo de la Judicatura Estatal dictará los reglamentos o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El Órgano de Administración Judicial dictará los reglamentos o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
 
 ### CAPÍTULO III. Del Personal de los Juzgados
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 58.
 
-Los Jueces serán nombrados por el Consejo de la Judicatura Estatal, conforme al procedimiento de selección previsto en la Ley del Servicio Profesional de Carrera Judicial. Obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
+Las personas juzgadoras serán electas de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda, atendiendo lo dispuesto en el artículo 54 de la Constitución local. Serán electas para un periodo de nueve años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Tribunal de Disciplina Judicial.
 
-Al término del ejercicio de su encargo, los Jueces podrán ser ratificados, atendiendo a los procedimientos de evaluación señalados en la Ley del Servicio Profesional de Carrera Judicial y su reglamento: (sic)
+Al término del ejercicio de su encargo, las personas Juzgadoras podrán ser reelectos para un periodo igual, al término del cual concluirá su mandato, atendiendo a los procedimientos de evaluación señalados en la Constitución y la presente Ley
 
-Los jueces, en el despacho de los asuntos de su competencia, deberán portar toga, la cual contará con las características que determine el Consejo de la Judicatura Estatal.
+Las personas Juzgadoras, en el despacho de los asuntos de su competencia, deberán portar toga, la cual contará con las características que determine el Órgano de Administración Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-El Consejo de Judicatura Estatal, a través de acuerdos generales, podrá habilitar, previo concurso de oposición y atendiendo a las cargas de trabajo existentes, Jueces y demás servidores públicos del Servicio Profesional de Carrera Judicial con el carácter de auxiliares, a efecto de evitar o disminuir rezago judicial, así como Jueces, Secretarios de Acuerdo, Secretarios de Estudio y Proyecto, Notificadores, Ejecutores y Actuarios que se desempeñarán en juzgados itinerantes, con el propósito administrar justicia en las zonas más alejadas del Estado; dichos acuerdos generales, determinarán expresamente lo siguiente:
+El Órgano de Administración Judicial, a través de acuerdos generales que se adecuarán a lo dispuesto por el artículo 55 de la Constitución del Estado al respecto, podrá habilitar, atendiendo a las cargas de trabajo existentes, a las personas juzgadoras y demás personas Servidoras Públicas del Servicio Profesional de Carrera Judicial con el carácter de auxiliares, a efecto de evitar o disminuir rezago judicial, así como personas Juzgadoras, personas titulares de las Secretarias de Acuerdos, Secretarias de Estudio y Proyecto, Notificadoras, Ejecutoras y Actuarias que se desempeñarán en juzgados itinerantes, con el propósito de administrar justicia en las zonas más alejadas del Estado; dichos acuerdos generales, determinarán expresamente lo siguiente:
 
 I. La competencia territorial;
 
@@ -669,9 +751,11 @@ IV. Los asuntos que conocerá, los alcances de su actuación y sus mecanismos de
 
 V. Cualquier modificación a las condiciones de trabajo de la persona habilitada conforme a las reglas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-En el orden administrativo, cada juzgado que funcione como Tribunal con varios jueces estará a cargo de una Administración Judicial autorizada por el Consejo de la Judicatura que podrá integrarse por uno o más Administradores Judiciales designados por el propio Consejo, que tendrá como objetivo estructurar, organizar y planear los proyectos para implementar el adecuado funcionamiento de los órganos jurisdiccionales que operen como tribunales, para ello tendrá las facultades que establezca el reglamento.
+En el orden administrativo, cada juzgado que funcione como Tribunal con varias personas juzgadoras estará a cargo de una Administración Judicial autorizada por el Órgano de Administración Judicial que podrá integrarse por una o más personas Administradoras Judiciales designadas por el propio Órgano, que tendrá como objetivo estructurar, organizar y planear los proyectos para implementar el adecuado funcionamiento de los órganos jurisdiccionales que operen como tribunales, para ello tendrá las facultades que establezca el reglamento.
 
 La Administración Judicial podrá contar con las unidades administrativas necesarias para el cumplimiento eficaz y eficiente de sus funciones, cuyas atribuciones, al igual que las del personal que las integra o que dependa directamente del Administrador Judicial, así como los requisitos para desempeñarse en el cargo, se establecerán en su reglamento.
 
@@ -725,11 +809,13 @@ I. Auxiliar al Juez en la elaboración de proyectos de sentencias interlocutoria
 
 II. Desempeñar las demás funciones que le encomienden las leyes, reglamentos y el Juez o el Administrador Judicial.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 65.
 
-Los Notificadores, Ejecutores y Actuarios tendrán fe pública en el desempeño de sus funciones.
+Las personas Notificadoras, Ejecutoras y Actuarias tendrán fe pública en el desempeño de sus funciones.
 
-El Consejo de la Judicatura Estatal determinará la adscripción de Notificadores, Ejecutores y Actuarios; no obstante, para la debida ejecución de las diligencias que les sean encomendadas conforme al reglamento, dichos servidores públicos ejercerán sus atribuciones en todo el territorio del Estado, con independencia del órgano jurisdiccional u órgano auxiliar al que hayan sido adscritos.
+El Órgano de Administración Judicial determinará la adscripción de las personas Notificadoras, Ejecutoras y Actuarias; no obstante, para la debida ejecución de las diligencias que les sean encomendadas conforme al reglamento, dichas personas servidoras públicas ejercerán sus atribuciones en todo el territorio del Estado, con independencia del órgano jurisdiccional u órgano auxiliar al que hayan sido adscritos.
 
 ###### Artículo 66.
 
@@ -749,29 +835,35 @@ Es atribución del personal adscrito al Poder Judicial con personal a su cargo, 
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO I. Del Consejo de la Judicatura Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. Del Órgano de Administración Judicial
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 70.
 
-La administración, formación a través del Servicio Profesional de Carrera Judicial, vigilancia y disciplina del Poder Judicial, con excepción esta última del Supremo Tribunal de Justicia, estarán a cargo del Consejo de la Judicatura Estatal.
+El Órgano de Administración Judicial contará con independencia técnica y de gestión, tendrá a su cargo la administración del Poder Judicial del Estado y velará por su buen funcionamiento, autonomía, independencia, imparcialidad y legitimidad.
 
-El Consejo de la Judicatura Estatal velará, en todo momento, por la autonomía del Poder Judicial, así como por la independencia, imparcialidad y la legitimidad de sus servidores públicos.
+La administración y formación a través del Servicio Profesional de Carrera Judicial del Poder Judicial, estarán a cargo del Órgano de Administración Judicial.
 
-El Consejo de la Judicatura Estatal se integrará en términos de lo dispuesto por el artículo 55 A de la Constitución Política del Estado de Aguascalientes; será presidido por quien ostenta la Presidencia del Supremo Tribunal de Justicia y no podrán formar parte del mismo, los Jueces que tengan menos de cinco años en el ejercicio del encargo.
+El Órgano de Administración Judicial se integrará en términos de lo dispuesto por el artículo 55 A, apartado B de la Constitución Política del Estado de Aguascalientes; su presidencia será electa por mayoría de votos de entre sus integrantes y será rotativa cada dos años, alternando el género.
 
-El Consejo de la Judicatura Estatal funcionará en Pleno o en comisiones, en los términos previstos en el reglamento; bastará la presencia de cuatro de sus miembros para que pueda operar, pero siempre deberá contarse con la asistencia del Consejero Presidente.
+El Órgano de Administración Judicial funcionará en Pleno o en comisiones, en los términos previstos en el reglamento; bastará la presencia de tres de sus miembros para que pueda operar, pero siempre deberá contarse con la asistencia del Presidente. En todos los casos, la validez de sus acuerdos requerirá, de por lo menos, tres votos.
 
-Las sesiones del Consejo de la Judicatura Estatal serán públicas y se transmitirán en tiempo real por internet, salvo acuerdo en contrario de sus integrantes debidamente fundado y motivado. Las ordinarias se celebrarán una vez al mes, de manera presencial o virtual, el día que fije el reglamento; mientras que las extraordinarias se efectuarán cuando lo crea necesario el Consejero Presidente o lo pida alguna Consejería.
+Las sesiones del Órgano de Administración Judicial serán públicas y se transmitirán en tiempo real por internet, salvo acuerdo en contrario de sus integrantes debidamente fundado y motivado. Las ordinarias se celebrarán una vez al mes, de manera presencial o virtual, el día que fije el reglamento; mientras que las extraordinarias se efectuarán cuando lo crea necesario la persona titular de la Presidencia o lo pidan, cuando menos tres de sus integrantes.
 
-Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, quienes no podrán abstenerse de votar sino en los casos en que se tengan impedimentos legales. En caso de empate, el Consejero Presidente tendrá voto de calidad.
+Los integrantes del Órgano de Administración Judicial no podrán abstenerse de votar sino en los casos en que se tengan impedimentos legales. En caso de empate, la Persona Titular de la Presidencia tendrá voto de calidad.
 
-El Consejo de la Judicatura Estatal contará con una Secretaría, cuyo titular será designado por el Pleno, quien deberá reunir los requisitos y tendrá las funciones que señale el reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 71.
 
-En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, o cuando así lo determinen, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas, que permitan por lo menos:
+En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los integrantes en un mismo lugar, o cuando así lo determinen, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas, que permitan por lo menos:
 
-I. La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+I. La identificación visual plena de los integrantes, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
 
 II. La interacción e intercomunicación en tiempo real para propiciar la correcta deliberación de ideas y asuntos; y
 
@@ -779,29 +871,41 @@ III. Dejar registro audiovisual de la sesión y sus acuerdos.
 
 En estos supuestos, la convocatoria, celebración de las sesiones virtuales, redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones previstas en el reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 72.
 
-Son facultades del Consejo de la Judicatura Estatal en Pleno:
+Son facultades del Órgano de Administración Judicial en Pleno:
 
 I. Presentar Iniciativas de Ley ante la Legislatura del Estado, en lo que corresponde a sus atribuciones;
 
 II. Expedir acuerdos generales y reglamentos para el adecuado ejercicio de sus funciones de administración, de formación, de vigilancia y de disciplina; para lograr pronta y eficaz administración de justicia; así como para determinar la organización y funcionamiento de los órganos jurisdiccionales y órganos auxiliares del Poder Judicial;
 
-III. Establecer las comisiones necesarias para su funcionamiento y designar a los Consejeros que deban integrarlas;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. Calificar los impedimentos legales de los Consejeros;
+III. Establecer las comisiones necesarias para su funcionamiento y designar a los integrantes que deban conformarlas;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Calificar los impedimentos legales de los integrantes;
 
 V. Determinar el número y los límites territoriales de los partidos judiciales en que se divida el Estado, así como la ubicación y funcionamiento de las Unidades de Justicia;
 
-VI. Resolver sobre la designación, adscripción, ratificación, promoción, suspensión y remoción de jueces;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Resolver sobre la adscripción de las personas juzgadoras;
 
 VII. Habilitar, previo concurso de oposición y atendiendo a las cargas de trabajo existentes, personal de la administración de justicia con el carácter de auxiliar o de itinerante, en términos de esta Ley;
 
 VIII. Realizar la rotación de los Jueces del Poder Judicial, conforme al procedimiento establecido en el reglamento;
 
-IX. Autorizar las renuncias de los Jueces, así como las licencias de éstos y de los Magistrados, en éste último caso cuando sean menores a treinta días, para lo cual designarán al servidor público que suplirá la ausencia;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-X. Acordar el retiro voluntario o forzoso de los Jueces;
+IX. Autorizar las licencias de las personas juzgadoras, cuando sean menores a treinta días, para lo cual designarán a la persona Servidor Público que suplirá la ausencia;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+X. Acordar el retiro de las personas juzgadoras;
 
 XI. Formular y aprobar el Presupuesto Anual de Egresos del Poder Judicial;
 
@@ -809,13 +913,17 @@ XII. Emitir las bases para que las contrataciones de adquisiciones, arrendamient
 
 XIII. Administrar los bienes, recursos y valores que se adquieran por el Poder Judicial, así como los documentos integrados al archivo, garantizando su mantenimiento, conservación y acondicionamiento;
 
-XIV. Administrar el Fondo Auxiliar para la Impartición de Justicia;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XIV. Administrar los recursos financieros, técnicos, humanos y materiales del Poder Judicial y el Fondo Auxiliar para la Impartición de Justicia;
 
 XV. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial;
 
 XVI. Excitar a los servidores públicos para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas, de conformidad con la presente Ley;
 
-XVII. Comisionar a las Consejerías para practicar las visitas generales o especiales de los juzgados, según lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XVII. Comisionar a los integrantes para practicar las visitas generales o especiales de los juzgados, según lo dispuesto en esta Ley;
 
 XVIII. Publicar anualmente la lista de profesionistas que desempeñarán el cargo de peritos y corredores públicos, en términos de la presente Ley y demás disposiciones aplicables;
 
@@ -825,53 +933,113 @@ XX. Autorizar el calendario anual de labores del Poder Judicial;
 
 XXI. Dar cumplimiento a las obligaciones previstas en (sic) Ley General de Transparencia y Acceso a la Información Pública, en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
 
-XXII. Aprobar la celebración de convenios con las instituciones de enseñanza superior u organismos e instituciones de investigación jurídica para lograr el mejoramiento profesional del personal del Poder Judicial: y
+XXII. Aprobar la celebración de convenios con las instituciones de enseñanza superior u organismos e instituciones de investigación jurídica para lograr el mejoramiento profesional del personal del Poder Judicial; y
 
-XXIII. Las demás funciones que establezca la Constitución Política del Estado de Aguascalientes y las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Nombrar por la mayoría de votos de sus integrantes a la persona titular de la Secretaría Ejecutiva del Órgano de Administración Judicial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Las demás funciones que establezca la Constitución Política del Estado de Aguascalientes y las leyes.
 
 ###### Artículo 73.
 
 El Consejo de la Judicatura Estatal incorporará la perspectiva de género, de forma transversal, progresiva y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará porque los órganos auxiliares del Poder Judicial, así lo hagan.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 74.
 
-Las Comisiones del Consejo de la Judicatura Estatal tendrán las funciones y atribuciones, así como la integración que determine el Pleno en el acuerdo general para su creación.
+Las Comisiones del Órgano de Administración Judicial tendrán las funciones y atribuciones, así como la integración que determine el Pleno en el acuerdo general para su creación.
 
 ### CAPÍTULO II. De la Presidencia (sic) Consejo de la Judicatura Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 75.
 
-Son atribuciones del Presidente del Consejo de la Judicatura Estatal:
+Son atribuciones de la Presidencia del Órgano de Administración Judicial:
 
-I. Representar al Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-II. Tramitar los asuntos de la competencia del Pleno del Consejo de la Judicatura Estatal;
+I. Representar al Órgano de Administración Judicial;
 
-III. Llevar la correspondencia oficial del Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno del Consejo de la Judicatura Estatal;
+II. Tramitar los asuntos de la competencia del Pleno del Órgano de Administración Judicial;
 
-V. Cumplir y dar seguimiento a los acuerdos del Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Llevar la correspondencia oficial del Órgano de Administración Judicial;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno del Órgano de Administración Judicial;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+V. Cumplir y dar seguimiento a los acuerdos del Órgano de Administración Judicial;
 
 VI. Dirigir, con base en los reglamentos, el adecuado funcionamiento y operación de los Órganos Auxiliares del Poder Judicial;
 
 VII. Celebrar convenios con las instituciones de enseñanza superior u organismos e instituciones de investigación jurídica para lograr el mejoramiento profesional del personal del Poder Judicial; y
 
-VIII. Las demás funciones que establezca la Constitución Política del Estado de Aguascalientes, las Leyes y el reglamento, que no correspondan al Pleno del Consejo de la Judicatura Estatal.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VIII. Las demás funciones que establezca la Constitución Política del Estado de Aguascalientes, las Leyes y el reglamento, que no correspondan al Pleno del Órgano de Administración Judicial.
 
 ### CAPÍTULO III. Del Personal del Consejo de la Judicatura Estatal
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 76.
 
-El Consejo de la Judicatura Estatal contará, cuando menos, con un Secretario quien deberá contar con título profesional de licenciado en derecho; y con los demás servidores públicos necesarios para su funcionamiento y que establezca el reglamento, con base en la disponibilidad presupuestal.
+El Órgano de Administración Judicial contará con una Secretaría Ejecutiva del Pleno, de carácter unipersonal, cuya estructura será determinada por el Pleno del Órgano de Administración Judicial mediante acuerdos generales.
 
-Los servidores públicos del Consejo de la Judicatura Estatal, a quienes esta Ley no fije determinados requisitos, ni prevea sus facultades, deberán llenar los que determine el reglamento y tendrán las atribuciones y obligaciones a que se refiere el mismo.
+La persona titular de la Secretaría Ejecutiva del Pleno deberá tener título profesional en Derecho, expedido legalmente, con experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+
+La persona titular de la Secretaría Ejecutiva integra la Junta de Coordinación, conduce la administración y supervisa las actividades de los órganos auxiliares del Poder Judicial del Estado.
+
+Son atribuciones de la Secretaría Ejecutiva:
+
+I. Actuar como Secretario del Pleno del Órgano de Administración Judicial y representarlo legalmente cuando la Presidencia le delegue esa representación y convocar a sesión del Pleno cuando lo ordene la Presidencia o lo soliciten, por lo menos, tres de sus integrantes;
+
+II. Someter al conocimiento y, en su caso, a la aprobación del Pleno del Órgano de Administración Judicial, los asuntos de su competencia;
+
+III. Coadyuvar con la persona titular del Órgano Interno de Control en los procedimientos de su competencia;
+
+IV. Aprobar la estructura de los órganos auxiliares del Poder Judicial del Estado;
+
+V. Expedir los nombramientos aprobados por el Pleno del Órgano de Administración Judicial de los titulares de los órganos auxiliares del Poder Judicial del Estado;
+
+VI. Designar encargados de despacho de los órganos auxiliares hasta que se realice el nombramiento correspondiente por el Pleno del Órgano de Administración Judicial;
+
+VII. Nombrar a los funcionarios adscritos a los órganos auxiliares;
+
+VIII. Proveer a los órganos auxiliares del Poder Judicial del Estado de los elementos necesarios para el cumplimiento de sus funciones;
+
+IX. Elaborar anualmente, de acuerdo con las leyes aplicables, el anteproyecto de presupuesto del Poder Judicial del Estado para someterlo a la aprobación del Órgano de Administración Judicial;
+
+X. Ejercer el Presupuesto aprobado por el Congreso del Estado y por el Pleno del Órgano de Administración Judicial, con base en los planes y programas aprobados por este último;
+
+XI. Proponer al Pleno del Órgano de Administración Judicial, durante el ejercicio fiscal correspondiente, las modificaciones presupuestales que sean necesarias;
+
+XII. Coordinar la Dirección de Asuntos Jurídicos y a las demás personas Servidoras Públicas necesarios para su funcionamiento que establezca el reglamento, con base en la disponibilidad presupuestal;
+
+XIII. Tramitar la publicación en el Periódico Oficial del Estado de Aguascalientes, los Reglamentos y Acuerdos expedidos por el Órgano de Administración Judicial, así como los demás documentos que, conforme a ley, deban ser publicados, o cuando se tenga interés en hacerlo;
+
+XIV. Las demás que le encomiende el Pleno del Órgano de Administración Judicial, su presidencia y esta ley;
+
+Las personas Servidoras Públicas del Órgano de Administración Judicial, a quienes esta Ley no fije determinados requisitos, ni prevea sus facultades, deberán llenar los que determine el reglamento y tendrán las atribuciones y obligaciones a que se refiere el mismo
 
 ### CAPÍTULO IV. De los Órganos Auxiliares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 77.
 
-El Poder Judicial contará con los siguientes órganos auxiliares, dependientes del Consejo de la Judicatura Estatal:
+El Poder Judicial contará con los siguientes órganos auxiliares, dependientes de la Secretaría Ejecutiva del Órgano de Administración Judicial:
 
 I. De Oficialía Mayor;
 
@@ -907,13 +1075,17 @@ XVI. El Interno de Control; y
 
 XVII. Los demás que sean necesarios para el funcionamiento del Poder Judicial, cuya creación se hará de acuerdo con la capacidad presupuestal y cumplimiento de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 78.
 
-La Oficialía Mayor es el área encargada de auxiliar en el control y manejo del presupuesto, de realizar las contrataciones de adquisiciones, arrendamientos y servicios, de administrar el activo fijo, el almacén, y el personal de la Institución, de gestionar los asuntos de recursos humanos, así como de dirigir los servicios de intendencia, mantenimiento y vigilancia en los inmuebles del Poder Judicial.
+La Oficialía Mayor es el área encargada de auxiliar a la Secretaría Ejecutiva, en el control y manejo del presupuesto, de realizar las contrataciones de adquisiciones, arrendamientos y servicios, de administrar el activo fijo, el almacén, y el personal de la Institución, de gestionar los asuntos de recursos humanos, así como de dirigir los servicios de intendencia, mantenimiento y vigilancia en los inmuebles del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 79.
 
-La Oficialía de Partes es el área que se encarga de recibir, sellar y turnar toda la documentación dirigida a los órganos jurisdiccionales y auxiliares del Poder Judicial, así como al Consejo de la Judicatura Estatal.
+La Oficialía de Partes es el área que se encarga de recibir, sellar y turnar toda la documentación dirigida a los órganos jurisdiccionales y auxiliares del Poder Judicial, así como al Órgano de Administración Judicial y el Tribunal de Disciplina Judicial.
 
 ###### Artículo 80.
 
@@ -967,39 +1139,61 @@ El área de Igualdad de Género y Derechos Humanos es la responsable de impulsar
 
 El área de Comunicación Social es la que tiene a su cargo la generación y difusión de contenidos institucionales a través de los medios de comunicación.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 93.
 
-El órgano interno de control cuenta con la facultad de comprobar, vigilar y supervisar el cumplimiento de las obligaciones derivadas de las disposiciones en materia administrativa, de registro y contabilidad, contratación de adquisiciones, arrendamientos y servicios, conservación, uso, afectación, enajenación y baja de almacenes y demás activos, planeación, presupuestación, ingresos, egresos, financiamiento, inversión, fondos y valores de propiedad, así como intervenir en la entrega y recepción de las distintas áreas de la Institución.
+El órgano interno de control cuenta con la facultad de comprobar, vigilar y supervisar el cumplimiento de las obligaciones derivadas de las disposiciones en materia administrativa, de registro y contabilidad, contratación de adquisiciones, arrendamientos y servicios, conservación, uso, afectación, enajenación y baja de almacenes y demás activos, planeación, presupuestación, ingresos, egresos, financiamiento, inversión, recursos y valores de propiedad, así como intervenir en la entrega y recepción de las distintas áreas de la Institución.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 94.
 
-El Consejo de la Judicatura Estatal a través de reglamentos o acuerdos generales, dictará las medidas conducentes para la correcta operación de los órganos auxiliares previstos en el artículo 77 de esta Ley, determinando su denominación, número, ubicación, adscripción, atribuciones y estructura, así como los requisitos, facultades y obligaciones de su personal.
+El Órgano de Administración Judicial a través de reglamentos o acuerdos generales, dictará las medidas conducentes para la correcta operación de los órganos auxiliares previstos en el artículo 77 de esta Ley, determinando su denominación, número, ubicación, adscripción, atribuciones y estructura, así como los requisitos, facultades y obligaciones de su personal.
 
 ###### Artículo 95.
 
 El personal de los órganos auxiliares podrá utilizar los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación.
 
-El Consejo de la Judicatura Estatal emitirá los reglamentos o los acuerdos generales necesarios para regular el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la Ley.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+El Órgano de Administración Judicial emitirá los reglamentos o los acuerdos generales necesarios para regular el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 95 Bis.
+
+El Órgano de Administración Judicial contará con una Junta de Coordinación que dependerá administrativamente de éste, pero fungirá como agencia permanente de coordinación y comunicación institucional entre el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial.
+
+La Junta de Coordinación estará encabezada por la persona titular de la Secretaría Ejecutiva del Pleno del Órgano de Administración Judicial y por la persona titular de la Secretaría de Acuerdos del Tribunal de Disciplina Judicial.
+
+La Junta de Coordinación tendrá las atribuciones contenidas en esta ley y las que determine el Órgano de Administración Judicial mediante acuerdo general.
 
 ### CAPÍTULO V. De las Renuncias, Licencias y Maneras de Suplir las Faltas
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 96.
 
-Las renuncias de los Magistrados serán sometidas ante el Congreso del Estado, en los términos del Artículo 51 de la Constitución Política del Estado; las de los Jueces y demás servidores públicos del Poder Judicial las conocerá el Consejo de la Judicatura Estatal.
+Las renuncias de las personas Magistradas del Supremo Tribunal y del Tribunal de Disciplina Judicial, así como de las personas juzgadoras, serán sometidas ante el Congreso del Estado, en los términos del Artículo 51 de la Constitución Política del Estado; las de los demás servidores públicos del Poder Judicial las conocerá el Órgano de Administración Judicial.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 97.
 
-Las licencias de los Magistrados del Supremo Tribunal de Justicia, para dejar de concurrir al despacho son irrenunciables e irrevocables; aquéllas que sean por más de treinta días con o sin goce de sueldo, sólo pueden serles concedidas por la Legislatura del Estado o por la Diputación Permanente; mientras que las menores a treinta días serán autorizadas por el Consejo de la Judicatura Estatal y se cubrirán por el Secretario de Sala o el Secretario Proyectista en términos del reglamento. Las ausencias mayores a tres meses se suplirán con una Magistratura interina designada conforme al procedimiento establecido en la Constitución Política del Estado de Aguascalientes.
+Las licencias de las personas Magistradas del Supremo Tribunal de Justicia, para dejar de concurrir al despacho son irrenunciables e irrevocables; aquéllas que sean por más de treinta días con o sin goce de sueldo, sólo pueden serles concedidas por la Legislatura del Estado o por la Diputación Permanente; mientras que las menores a treinta días serán autorizadas por el propio Pleno del Supremo Tribunal y se cubrirán por la persona titular de la Secretaría de Sala o la Secretaría Proyectista en términos del reglamento. Las ausencias mayores a tres meses se suplirán con una Magistratura interina designada conforme al procedimiento establecido en la Constitución Política del Estado de Aguascalientes.
 
 ###### Artículo 98.
 
 Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas encaminadas a proveer la sustitución y al abono de sueldos a quien o quienes deban percibirlos.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 99.
 
-Las faltas absolutas de los Jueces se cubrirán con nuevos nombramientos interinos que durarán en su cargo un año, previa aprobación del concurso de oposición, quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos de esta Ley.
+Las faltas absolutas de las personas juzgadoras se cubrirán de acuerdo con lo dispuesto en el artículo 51 de la Constitución Política del Estado.
 
-Las faltas temporales que no excedan de diez días en materias distintas al Sistema Oral Penal y Laboral se suplirán por el Secretario de Estudio y Proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias, y en materia laboral, por el Secretario Instructor que no haya sido prevenido en los asuntos asignado (sic) al juzgador ausente; mientras que aquéllas que excedan de ese tiempo, en todas las materias, se cubrirán por jueces auxiliares.
+Las faltas temporales que no excedan de diez días en materias distintas al Sistema Oral Penal y Laboral se suplirán por la persona titular de la Secretaría de Estudio y Proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias, y en materia laboral, por la persona titular de la Secretaría de Instrucción que no haya sido prevenida en los asuntos asignados a la persona juzgadora ausente; mientras que aquéllas que excedan de ese tiempo, en todas las materias, se cubrirán por las personas Juzgadoras Auxiliares.
 
 ###### Artículo 100.
 
@@ -1011,9 +1205,11 @@ Las faltas absolutas de los Secretarios de Estudio y Proyectos, así como de los
 
 Las faltas absolutas de los Secretarios de Acuerdo se suplirán por nuevos nombramientos, las temporales o accidentales con testigos de asistencia designados por el Juez o Administrador Judicial respectivo; las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del Juez o del Administrador Judicial las demás funciones que la ley señale a los Secretarios.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 102.
 
-Las faltas absolutas del Secretario General de Acuerdos del Supremo Tribunal de Justicia, se suplirán con nuevo nombramiento; mientras que las temporales o accidentales por el Secretario de alguna de la (sic) Salas, conforme lo determine la Presidencia del Tribunal.
+Las faltas absolutas de la persona titular de la Secretaría General de Acuerdos del Supremo Tribunal de Justicia, se suplirán con nuevo nombramiento; mientras que las temporales o accidentales por la persona titular de la Secretaría de alguna de la (sic) Salas, conforme lo determine la Presidencia del Supremo Tribunal de Justicia.
 
 ###### Artículo 103.
 
@@ -1037,9 +1233,11 @@ e) Las multas y sustituciones de pena impuesta por los órganos jurisdiccionales
 
 f) El monto de la reparación del daño cuando la víctima u ofendido renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo se hará de oficio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 105.
 
-El Consejo de la Judicatura Estatal, tendrá a su cargo el manejo y administración del fondo auxiliar para la impartición de justicia, bajo las siguientes bases:
+El Órgano de Administración Judicial, tendrá a su cargo el manejo y administración del fondo auxiliar para la impartición de justicia, bajo las siguientes bases:
 
 I. Deberá invertir las cantidades que integren el fondo auxiliar, en la adquisición de títulos de renta fija o plazo fijo, cuenta de cheques u otros semejantes, en representación del Supremo Tribunal de Justicia, que será el titular de los documentos que expidan las Instituciones de crédito con motivo de las inversiones que se hagan;
 
@@ -1049,33 +1247,43 @@ a) El otorgamiento de estímulos y recompensas económicas a los servidores púb
 
 b) La participación de Magistrados y Jueces en congresos de Derecho;
 
-c) La adquisición de equipo, mobiliario y libros de consulta que se necesiten en el Supremo Tribunal de Justicia, sus Salas y en los Juzgados, que no estén autorizados en su presupuesto;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+c) La adquisición de equipo, mobiliario y libros de consulta que se necesiten en el Supremo Tribunal de Justicia, sus Salas y en los Juzgados, el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, que no estén autorizados en su presupuesto;
 
 d) La capacitación, mejoramiento y especialización profesional del personal del Poder Judicial.
 
 ### CAPÍTULO VII. De las Excitativas de Justicia
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 106.
 
-El Consejo de la Judicatura Estatal conocerá de las excitativas de justicia promovidas en contra de los servidores públicos que hayan sido designados por su parte, quien la despachará o denegará previo informe justificado de aquéllos con audiencia del Ministerio Público conforme al procedimiento previsto en el reglamento.
+El Órgano de Administración Judicial conocerá de las excitativas de justicia promovidas en contra de las personas servidoras públicas que hayan sido designadas por su parte, quien la despachará o denegará previo informe justificado de aquéllos con audiencia del Ministerio Público conforme al procedimiento previsto en el reglamento.
 
 ### CAPÍTULO VIII. De las Visitas
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 107.
 
-El Consejo de la Judicatura Estatal comisionará a las Consejerías que practicarán visitas generales o especiales para revisar el buen funcionamiento de los juzgados, en el tiempo y conforme al procedimiento que se fijen en el reglamento, instaurándose, en su caso, los procedimientos para imponer sanciones conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+El Órgano de Administración Judicial comisionará a sus integrantes que practicarán visitas generales o especiales para revisar el buen funcionamiento de los juzgados, en el tiempo y conforme al procedimiento que se fijen en el reglamento, instaurándose, en su caso, los procedimientos para imponer sanciones conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, que deberá realizar el Tribunal de Disciplina Judicial.
 
-La visita general tendrá por objeto percatarse del despacho general de los negocios radicados en el juzgado, anotando todas las irregularidades que se tengan y las quejas que se presenten, para lo cual se anunciará en la puerta del juzgado dicha visita. Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado como cometidas en determinados asuntos, y en todos los casos rendirán informe tanto al Consejo de la Judicatura Estatal.
+La visita general tendrá por objeto percatarse del despacho general de los negocios radicados en el juzgado, anotando todas las irregularidades que se tengan y las quejas que se presenten, para lo cual se anunciará en la puerta del juzgado dicha visita. Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado como cometidas en determinados asuntos, y en todos los casos rendirán informe tanto al Órgano de Administración Judicial como al Tribunal de Disciplina Judicial.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 108.
 
-Las visitas de que trate el artículo anterior serán presididas por la Consejería Visitadora, el acta respectiva la firmarán además el Juez y los Secretarios del Juzgado en que se practique la visita.
+Las visitas de que trate el artículo anterior serán presididas por la persona integrante Visitadora, el acta respectiva la firmarán además la persona juzgadora y las personas Secretarias del Juzgado en que se practique la visita
 
 ### CAPÍTULO IX. De los Peritos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 109.
 
-El Consejo de la Judicatura Estatal formulará anualmente una lista de connotados profesionales de la localidad que desempeñarán el cargo de peritos y corredores públicos, de entre los cuales se designarán los que sean terceros en discordia, los que se nombrarán en rebeldía de los litigantes y los que deban llevar a cabo el avalúo de bienes conforme al Código de Comercio, así como aquéllos que emitirán dictamen en materia laboral, en términos de la Ley Federal del Trabajo.
+El Órgano de Administración Judicial formulará anualmente una lista de connotados profesionales de la localidad que desempeñarán el cargo de peritos y corredores públicos, de entre los cuales se designarán los que sean terceros en discordia, los que se nombrarán en rebeldía de los litigantes y los que deban llevar a cabo el avalúo de bienes conforme al Código de Comercio, así como aquéllos que emitirán dictamen en materia laboral, en términos de la Ley Federal del Trabajo.
 
 La lista mencionada se dará a conocer oportunamente a todos los órganos jurisdiccionales.
 
@@ -1087,13 +1295,17 @@ En caso de que en la localidad no existan profesionales en la materia de que se 
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 111.
 
-La remuneración que los Consejeros, Magistrados y Jueces perciban por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
+La remuneración que los integrantes del Pleno del Órgano de Administración Judicial, personas Magistradas y Juzgadoras perciban por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 112.
 
-Los Consejeros, Magistrados, Jueces y servidores públicos del Poder Judicial, deberán concurrir a sus oficinas todos los días hábiles en las horas que determine el reglamento.
+Los integrantes del Pleno del Órgano de Administración Judicial, personas Magistradas, Juzgadoras y Servidoras Públicas del Poder Judicial, deberán concurrir a sus oficinas todos los días hábiles en las horas que determine el reglamento.
 
 ###### Artículo 113.
 
@@ -1107,63 +1319,67 @@ Salvo lo previsto en el artículo 55 A de la Constitución Política del Estado 
 
 Tampoco podrán los servidores públicos del Poder Judicial tener ocupación que los constituya en dependientes de alguna corporación o persona; quedan exceptuados los cargos de instrucción pública.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 116.
 
-Cuando el servicio de administración de justicia lo requiera y no existan servidores públicos habilitados por concurso de oposición para desempeñarse en algún cargo del Servicio Profesional de Carrera Judicial, el Consejo de la Judicatura Estatal, por excepción, podrá habilitar personas para ocupar las vacantes, cuyas funciones tendrán la misma validez que aquéllas que la ley reconoce respecto del personal con el mismo encargo, pero no ingresarán al Servicio Profesional de Carrera Judicial.
+Cuando el servicio de administración de justicia lo requiera y no existan servidores públicos habilitados por concurso de oposición para desempeñarse en algún cargo del Servicio Profesional de Carrera Judicial, el Órgano de Administración Judicial, por excepción, podrá habilitar personas para ocupar las vacantes, cuyas funciones tendrán la misma validez que aquéllas que la ley reconoce respecto del personal con el mismo encargo, pero no ingresarán al Servicio Profesional de Carrera Judicial.
 
 ## TÍTULO QUINTO
 
 ### CAPÍTULO I. De la Investigación, Substanciación y Resolución de los Procedimientos de Responsabilidad Administrativa instaurados a Servidores Públicos del Poder Judicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 117.
 
-En términos del artículo 7°, fracción V, de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, las autoridades facultadas para aplicar dicha Ley a los servidores públicos del Poder Judicial, con excepción del Supremo Tribunal de Justicia y su personal, son las siguientes:
+En términos del artículo 7°, fracción V, de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, las autoridades facultadas para aplicar dicha Ley a los servidores públicos del Poder Judicial, son las establecidas en el apartado A del artículo 55 A.
 
-I. En las faltas no graves, la Autoridad Investigadora y la Autoridad Substanciadora y Resolutora serán los servidores públicos titulares de las unidades adscritas al órgano interno de control que para ese efecto establezca el reglamento, las que no podrán coincidir en una misma persona.
+I. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-II. En las faltas graves:
+II. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-a) La Autoridad Investigadora será el servidor público titular de la unidad adscrita al órgano interno de control que para ese efecto establezca el reglamento;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-b) La Autoridad Substanciadora será el Consejero del Consejo de la Judicatura Estatal que el Pleno de dicho Órgano comisione para ese propósito; y
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-c) La Autoridad Resolutora será el Pleno del Consejo de la Judicatura Estatal.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-En faltas no graves y graves que se imputen al titular del órgano interno de control, como Autoridad Investigadora y Autoridad Substanciadora fungirán los Consejeros del Consejo de la Judicatura Estatal (sic) que el Pleno de dicho Órgano comisione para ese propósito, las que no podrán coincidir en una misma persona; mientras que el Pleno integrado con cuatro Consejeros, distintos al que se desempeñó como Autoridad Investigadora, actuará en carácter de Autoridad Resolutora.
-
-En cambio, en faltas no graves y graves del personal de la Unidad Investigadora del órgano interno de control, el Pleno del Consejo de la Judicatura Estatal habilitará a un servidor público adscrito a dicho órgano auxiliar y distinto al que integra la referida Unidad para llevar a cabo la investigación, en tanto que para la etapa de substanciación y resolución se estará a lo previsto por las fracciones I y II de este artículo, en lo que no se oponga a la presente disposición.
-
-Por cuanto a las faltas no graves del personal de la Unidad Substanciadora y Resolutora del órgano interno de control, el Pleno del Consejo de la Judicatura Estatal habilitará a un servidor público adscrito a dicho órgano auxiliar y distinto al que integra la referida Unidad para llevar a cabo la substanciación y resolución, en tanto que para la etapa de investigación se estará a lo contemplado por la fracción I del presente artículo, en lo que no se oponga a esta disposición.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 118.
 
-El titular del órgano interno de control será el encargado de recibir las denuncias que se formulen por actos u omisiones que pudieran constituir o vincularse con faltas administrativas; salvo aquellas promovidas en su contra, que deberán presentarse ante el Consejo de la Judicatura Estatal.
+La persona titular del Órgano Interno de Control podrá recibir las denuncias que se formulen por actos u omisiones que pudieran constituir o vincularse con faltas administrativas; salvo aquellas promovidas en su contra, que deberán presentarse ante el Tribunal de Disciplina Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 119.
 
-Tratándose de las denuncias que se formulen por actos u omisiones que pudieran constituir o vincularse con faltas administrativas del personal del Supremo Tribunal de Justicia, las autoridades competentes, en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, son las siguientes:
+Tratándose de las denuncias que se formulen por actos u omisiones que pudieran constituir o vincularse con faltas administrativas del personal del Tribunal de Disciplina Judicial, las autoridades competentes, en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, son las siguientes:
 
-I. La Presidencia del Tribunal tendrá la facultad de recibir las denuncias;
+I. La Presidencia del Tribunal de Disciplina Judicial tendrá la facultad de recibir las denuncias;
 
-II. Para la investigación y substanciación la Presidencia del Tribunal designará a los Magistrados que fungirán como Autoridades en tales etapas, ya que no podrán coincidir en una misma persona; y
+II. Para la investigación y substanciación la Presidencia del Tribunal de Disciplina Judicial designará a las personas Magistradas que fungirán como Autoridades en tales etapas, ya que no podrán coincidir en una misma persona; y
 
-III. La resolución se dictará por el Pleno del Supremo Tribunal de Justicia integrado por los Magistrados distintos al que fungió como Autoridad Investigadora.
+III. La resolución se dictará por el Pleno del Tribunal de Disciplina Judicial integrado por las personas Magistradas distintas al que fungió como Autoridad Investigadora.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 120.
 
-El procedimiento de responsabilidad administrativa de los servidores públicos del Poder Judicial, se seguirá conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, con las siguientes excepciones:
+El procedimiento de responsabilidad administrativa de las personas servidoras públicas del Poder Judicial, se seguirá conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en el Reglamento o en los acuerdos generales que para tal efecto emita el Pleno del Tribunal de Disciplina Judicial, con las siguientes excepciones:
 
-I. En los servidores públicos distintos al personal del Supremo Tribunal de Justicia:
+I. En las personas servidoras públicas distintas al personal del Tribunal de Disciplina Judicial:
 
-a) De la impugnación de la resolución que se dicte por el órgano interno de control en el recurso de revocación tratándose de faltas no graves, conocerá el Pleno del Consejo de la Judicatura Estatal; y
+a) De la impugnación de la resolución que se dicte tratándose de faltas no graves, conocerán los tres magistrados que no integren la comisión resolutoria.
 
-b) El recurso de reclamación promovido en las faltas no graves y graves, se resolverá por el Consejero que el Pleno del Consejo de la Judicatura comisione para esa finalidad, lo que no será motivo de recusación o excusa para integrar dicho Pleno a fin de decidir la causa.
+b) El recurso de reclamación promovido en las faltas graves, los tres Magistraturas que no integren la comisión resolutoria.
 
-II. En el personal del Supremo Tribunal de Justicia:
+II. En el personal del Tribunal de Disciplina Judicial:
 
-a) La resolución que decida el recurso de revocación en las faltas no graves no admitirá recurso alguno; y
+a) La resolución que decida las faltas no graves no admitirá recurso alguno; y
 
-b) El recurso de reclamación promovido en las faltas no graves y graves, se resolverá por el Magistrado Instructor que la Presidencia del Tribunal designe para esa finalidad, lo que no será motivo de recusación o excusa para integrar el Pleno a fin de decidir la causa.
+b) El recurso de reclamación promovido en las faltas graves, se resolverá por la Magistratura Instructora que la Presidencia del Tribunal de Disciplina Judicial designe para esa finalidad, lo que no será motivo de recusación o excusa para integrar el Pleno a fin de decidir la causa.
 
 ## TÍTULO SEXTO
 
@@ -1176,6 +1392,172 @@ La Seguridad en los órganos jurisdiccionales en materia penal estará a cargo d
 La Secretaría de Seguridad Pública del Estado designará a los elementos que formen parte de la policía procesal, y estarán asignados única y exclusivamente para ejercer las funciones de vigilancia y seguridad de los jueces, de los órganos jurisdiccionales y de la Administración Judicial, sus unidades administrativas y su personal, así como para realizar funciones de cumplimiento de mandatos judiciales, seguridad de las audiencias, resguardo de detenidos en los tribunales, seguridad y control del público y los sujetos intervinientes en las audiencias, y las demás que les indiquen los Jueces, la Administración Judicial y las leyes.
 
 Los elementos de policía procesal estarán coordinados por la Administración Judicial.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SÉPTIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO I. Del Tribunal de Disciplina Judicial
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 122.
+
+El Tribunal de Disciplina Judicial es el órgano encargado de la supervisión, investigación y sanción de las conductas de los servidores públicos del Poder Judicial del Estado de Aguascalientes, que puedan constituir responsabilidades administrativas, con independencia técnica, de gestión y para emitir sus resoluciones.
+
+El Tribunal de Disciplina Judicial estará facultado para investigar y sancionar las faltas graves o cualquier conducta de las personas Servidoras Públicas que contravenga los principios de la administración de justicia, como son la imparcialidad, objetividad, independencia, profesionalismo, honorabilidad y excelencia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 123.
+
+El Tribunal de Disciplina Judicial estará integrado por cinco personas, quienes serán electos por votación popular directa y secreta, quienes deberán reunir los requisitos establecidos en la Constitución Política del Estado de Aguascalientes de conformidad con su artículo 55 A.
+
+Las personas magistradas del Tribunal de Disciplina Judicial durarán en su encargo nueve años, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo.
+
+La presidencia del Tribunal de Disciplina Judicial será rotatoria y se renovará cada dos años, asignándose a quien obtenga la mayor cantidad de votos en la elección respectiva, alternando el género.
+
+El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. De las atribuciones del Tribunal de Disciplina Judicial
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 124.
+
+El Tribunal de Disciplina Judicial tendrá las siguientes atribuciones:
+
+I. Iniciar investigaciones por hechos que pudieran constituir faltas administrativas o penales cometidas por las personas servidoras públicas del Poder Judicial del Estado, a través de denuncias presentadas por cualquier persona o autoridad, o por oficio.
+
+II. Conducir, substanciar y resolver los procedimientos disciplinarios de manera imparcial, expedita, garantizando el derecho de defensa de las personas acusadas.
+
+III. Imponer sanciones a las personas servidoras públicas según la gravedad de la conducta.
+
+IV. Atender y resolver los casos de faltas graves relacionadas con la imparcialidad, profesionalismo, objetividad e independencia judicial, o el ejercicio indebido de funciones del personal del Poder Judicial del Estado.
+
+V. Ordenar la recolección de indicios, la realización de inspecciones, la solicitud de documentos, y la comparecencia de testigos y personas involucradas, actuando tanto de oficio como a petición de parte.
+
+VI. Solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de resoluciones necesarias para asegurar el adecuado ejercicio de la función jurisdiccional.
+
+VII. Dar vista al Ministerio Público cuando considere que las conductas investigadas pudieran constituir un delito, sin perjuicio de sus competencias sancionadoras.
+
+VIII. Solicitar la iniciación de un juicio político ante el Congreso del Estado para la remoción de personas servidoras públicas electas que hayan incurrido en faltas graves o que afecten la imparcialidad e independencia judicial.
+
+IX. A solicitud del Órgano de Administración Judicial y conforme a los resultados de las evaluaciones aplicadas en el primer año de ejercicio, iniciar los procedimientos para aplicar las medidas correctivas o sancionadoras a que se refieren los incisos a) y b) del párrafo décimo, del apartado A, del artículo 55 A de la Constitución Política del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 125.
+
+Las sesiones del Pleno del Tribunal de Disciplina Judicial se celebrarán en los días y horas que fije el reglamento correspondiente y de éstas se levantará acta que firmarán las personas Magistradas y la persona titular de la Secretaría serán públicas o privadas, según lo determine por acuerdo el Pleno del Tribunal de Disciplina Judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 126.
+
+Las personas magistradas del Tribunal de Disciplina Judicial no podrán ser removidos, suspendidos ni sustituidos durante su mandato, salvo por las causas de remoción que establece la Constitución del Estado por incumplir con sus deberes o por faltas graves en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. De la Presidencia del Tribunal de Disciplina Judicial
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 127.
+
+La Presidencia del Tribunal de Disciplina Judicial tendrá las siguientes facultades:
+
+I. Representar al Tribunal de Disciplina Judicial, en los términos que establezcan las leyes, así como en los actos oficiales que se verifiquen, pudiendo para estos efectos designar como su representante a una de las personas Magistradas;
+
+II. En caso de ausencia temporal, designar a la Magistratura que será la encargada del despacho de los asuntos del Tribunal de Disciplina Judicial;
+
+III. Rendir informe ante el Congreso del Estado sobre sus resoluciones, sentencias y la ejecución de estas, a más tardar el último día del mes de marzo;
+
+IV. Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno, las cuales pueden ser presenciales o virtuales, según lo determine por acuerdo el Pleno del Tribunal de Disciplina Judicial;
+
+V. Cuando lo estime conveniente, turnar entre las Magistraturas los asuntos de la competencia del Pleno, para acordar algún trámite, o para que formulen el proyecto de resolución que deba ser discutido por el mismo Pleno;
+
+VI. Cumplir y dar seguimiento a las resoluciones del Pleno del Tribunal de Disciplina Judicial;
+
+VII. Llevar la correspondencia oficial del Tribunal de Disciplina Judicial;
+
+VIII. Las demás atribuciones que le confieran la Constitución Política del Estado de Aguascalientes, las leyes y el reglamento.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. Del personal del Tribunal de Disciplina Judicial
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 128.
+
+El Tribunal de Disciplina Judicial contará con una Secretaría General, así como las demás personas servidoras públicas necesarias para su funcionamiento y que establezca el reglamento, con base en la disponibilidad presupuestal, y quienes deberán cumplir con los requisitos y tendrán las obligaciones y atribuciones que determine el reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. Del procedimiento ante el Tribunal de Disciplina Judicial
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 129.
+
+El procedimiento ante el Tribunal de Disciplina Judicial se llevará a cabo en tres fases:
+
+I. Fase de Investigación Preliminar: La que se llevará a cabo a través de la Unidad de Investigación. Esta podrá ordenar la recolección de pruebas, la intervención de peritos, y la comparecencia de las personas señaladas para presentar su defensa.
+
+II. Fase de substanciación. Que llevará a cabo la Unidad Substanciadora conforme al procedimiento que se desarrolle en el reglamento.
+
+III. Fase de Resolución: La Comisión resolutora integrada por dos Magistraturas emitirá una resolución fundamentada y motivada en la que se determine si la persona investigada incurrió en una falta y, en su caso, se impondrán las sanciones correspondientes.
+
+La Presidencia y las dos Magistraturas restantes resolverán en segunda instancia los recursos que se presenten contra las determinaciones de la Comisión resolutora.
+
+La Presidencia no integrará la Comisión resolutora, y los miembros de esta la integrarán durante dos años, al término de los cuales serán sustituidos por las otras dos Magistraturas.
+
+El procedimiento se desarrollará conforme a las especificaciones que se determinen en el Reglamento o en los acuerdos generales que para tal efecto emita el Pleno del Tribunal de Disciplina Judicial.
+
+El Tribunal de Disciplina Judicial, a través de sus órganos podrá ordenar medidas cautelares, tales como suspensión temporal de funciones o medidas de apremio, para asegurar el cumplimiento de sus resoluciones o la efectividad de las investigaciones.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 130.
+
+Tribunal de Disciplina Judicial podrá imponer como sanciones las siguientes:
+
+I. Amonestación: En caso de faltas leves que no afecten de forma grave el ejercicio de la función judicial.
+
+II. Suspensión: En caso de faltas que ameriten la separación temporal del cargo, con el fin de proteger la administración de justicia.
+
+III. Sanción económica: Cuando la conducta implique un perjuicio económico para la administración pública o para las partes involucradas.
+
+IV. Destitución: En caso de faltas graves que afecten la imparcialidad, la independencia o el ejercicio legítimo de la función judicial.
+
+V. Inhabilitación: En casos de faltas que impliquen la imposibilidad de ejercer funciones judiciales por un tiempo determinado, en virtud de la gravedad de la conducta.
+
+Las sanciones impuestas por el Tribunal de Disciplina Judicial serán aplicadas de acuerdo con el principio de proporcionalidad, considerando la gravedad de la falta, la actitud del servidor público y las circunstancias del caso.
+
+Las resoluciones del Tribunal de Disciplina Judicial serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 131.
+
+El Tribunal de Disciplina Judicial ejercerá sus funciones con total independencia de los otros órganos del Poder Judicial del Estado, garantizando que sus decisiones no sean influenciadas por ningún poder externo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 132.
+
+El Tribunal de Disciplina Judicial deberá rendir cuentas de su actividad ante el Congreso del Estado en el ámbito de su competencia, informando sobre el número de investigaciones realizadas, las sanciones impuestas y las resoluciones adoptadas, de conformidad con la normativa aplicable en materia de transparencia y acceso a la información.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 133.
+
+El Tribunal garantizará la transparencia en los procedimientos, permitiendo el acceso a la información pública, respetando siempre los principios de protección de datos personales y la confidencialidad de las investigaciones.
 
 ## TRANSITORIOS
 
@@ -1238,3 +1620,33 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de diciembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- SE REFORMAN LA LEY ORGÁNICA DEL PODER JUDICIAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado. Hasta en tanto queden instalados el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial se seguirán aplicando las disposiciones que resulten de la Ley Orgánica del Poder Judicial del Estado de Aguascalientes del 27 de diciembre del 2023.
+
+###### ARTÍCULO SEGUNDO.
+
+El presupuesto del Poder Judicial del del Estado deberá considerar las asignaciones presupuestales necesarias para la implementación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la integración del primer Pleno del Órgano de Administración Judicial se estará a lo ordenado en el artículo sexto de los transitorios, párrafos sexto y séptimo, del decreto número 79 de reformas a la Constitución Política del Estado de Aguascalientes en materia judicial publicado en el periodico oficial del estado el 18 de diciembre de 2024.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo ordenado en el artículo sexto transitorio del decreto referido en el artículo anterior, el Consejo de la Judicatura establecerán la Comisión de Transición e inciarán (sic) los trabajos de cargo de los integrantes señalados en el párrafo octavo de ese precepto, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de Responsabilidad Administrativas que a la entrada en vigor del presente Decreto se encuentren en trámite, para las faltas no graves, continuarán a cargo de la Contraloría Interna hasta su conclusión. Para las faltas graves, la investigación continuará a cargo de la Autoridad investigadora que corresponda, serán sustanciados y resueltos por el Pleno del Tribunal de Disciplina Judicial cuando entre en funciones.
+
+###### ARTÍCULO SEXTO.
+
+Quedan sin efecto todas aquellas porciones normativas que se opongan a las disposiciones del presente Decreto.
