@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-12-09"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2395,6 +2395,26 @@ V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
 
 Si en los actos mencionados llegara a participar algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, así como también tenga la guarda de vehículos en lugares destinados para su depósito, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el periodo igual a la pena de prisión impuesta.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTICULO 146
+
+TER-1.- Comete el delito de robo equiparado de vehículos quien, tras arrendar un vehículo automotor terrestre, dolosamente:
+
+I.- No devuelva el vehículo arrendado en el plazo o en las condiciones establecidas en el contrato, sin causa justificada o sin el consentimiento del arrendador.
+
+II.- Utilice el vehículo arrendado en la comisión de cualquier delito.
+
+El delito de robo equiparado de vehículos se sancionará con cuatro a ocho años de prisión y con cien a trescientos días multa.
+
+No se considerará robo equiparado de vehículos cuando el arrendatario, por causas justificadas, no pueda devolver el vehículo en el tiempo estipulado y lo comunique de manera inmediata al arrendador, sujetándose al pago de la compensación previamente acordada con el arrendador del vehículo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### ARTICULO 146
+
+TER-2.- La pena prevista en el artículo anterior, aumentará hasta una mitad más, si el sujeto activo del delito de robo equiparado de vehículos, incurriera en alguna de las conductas establecidas en las fracciones I a IV y segundo párrafo del artículo 146 Ter de este Código.
+
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)</small>
 
 ###### ARTICULO 146
@@ -2574,6 +2594,10 @@ VIII. Comercialice o fabrique dispositivos falsos de identificación oficial de 
 ###### ARTICULO 150.
 
 Al que con perjuicio de tercero, disponga para sí o para otro, de una cosa mueble ajena, de la cual se le haya transmitido la tenencia pero no el dominio, se le impondrá de seis meses a siete años de prisión y de veinticinco a cuatrocientos días multa.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+No se considerará abuso de confianza cuando se actualicen las hipótesis contenidas en los artículos 146-Ter-1 o 146 Ter-2.
 
 ###### ARTICULO 151.
 
@@ -5698,3 +5722,9 @@ P.O. 9 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 082 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
