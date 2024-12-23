@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-12-16"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -625,9 +625,13 @@ VI. Formular, expedir y vigilar el cumplimiento de los programas de ordenamiento
 
 VII. Participar en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 
-VIII. Conforme a los convenios de coordinación entre el Estado y los Municipios, evaluar el impacto ambiental en obras o actividades de su competencia, y en su caso, autorizar condicionadamente o negar la realización de las obras y actividades;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IX. Formular y conducir la política municipal de Información y difusión en materia ambiental;
+VIII. Conforme a los convenios de coordinación entre el Estado y los municipios, evaluar el impacto ambiental en obras o actividades de su competencia, y en su caso, autorizar condicionalmente o negar la realización de las obras y actividades;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IX. Formular y conducir la política municipal de información y difusión en materia ambiental;
 
 X. Garantizar los espacios de participación de la sociedad en materia ambiental;
 
@@ -635,7 +639,9 @@ X. Garantizar los espacios de participación de la sociedad en materia ambiental
 
 XI. Participar activamente en el Consejo Estatal para la Protección del Medio Ambiente;
 
-XII. Crear y administrar zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en esta Ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XII. Crear y administrar zonas de preservación ambiental de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en esta Ley; en la medida de sus competencias destinar al menos un 15% de éstas áreas verdes con especímenes de la vegetación endémica del Estado o región, evitando vegetación invasiva;
 
 XIII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
 
@@ -645,13 +651,17 @@ XV. Aplicar las disposiciones jurídicas relativas a la prevención y control de
 
 XVI. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo de los residuos municipales e industriales que no estén considerados como peligrosos, de conformidad con lo dispuesto por la Ley General, la presente Ley y demás ordenamientos aplicables;
 
-XVII. Conservar, preservar, preservar, restaurar y proteger el ambiente en los centros de población, en relación con los efectos derivados de los servicios públicos, de su competencia;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XVII. Conservar, preservar, restaurar y proteger el ambiente en los centros de población, en relación con los efectos derivados de los servicios públicos, de su competencia;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
 XVIII. Hacer del conocimiento de la Secretaría los casos concretos en los que se considere necesario su estudio, con el fin de solicitarle la emisión de las recomendaciones dirigidas a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XIX. Promover y, en su caso, coordinar la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno en las acciones de preservación, protección, educación ambiental, prevención y control del deterioro ambiental y restauración del ambiente, en su jurisdicción territorial; así como celebrar con estás los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XIX. Promover y, en su caso, coordinar la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno en las acciones de conservación, preservación, restauración, protección y control ambiental, en su jurisdicción territorial, las acciones encaminadas a la educación ambiental, así como celebrar con éstas los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
 XX. Promover y en su caso coordinar la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno, en las acciones de educación ambiental, de prevención y control del deterioro ambiental, preservación, protección y restauración del ambiente en su jurisdicción territorial, así como celebrar con estás los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
@@ -665,21 +675,25 @@ XXIV. Crear el Plan Municipal de Contingencia Ambiental, el cual se formulará, 
 
 XXV. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las Fracciones III, IV, VI y VII de este Artículo;
 
-XXVI. Atender los demás asuntos relativos a la conservación, preservación y protección al ambiente, de acuerdo a las prioridades establecidas en las agendas y de conformidad con lo dispuesto en ésta Ley y los demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXVII. Establecer los criterios y lineamientos para la regulación de los residuos sólidos urbanos;
+XXVI. Atender los demás asuntos relativos a la conservación, preservación y protección al ambiente, de acuerdo con las prioridades establecidas en las agendas y de conformidad con lo dispuesto en esta Ley y los demás ordenamientos aplicables;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Establecer los criterios y lineamientos para la regulación y manejo de los residuos sólidos urbanos;
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos y, en coordinación con el Ejecutivo del Estado, a través de la Secretaria de Sustentabilidad, Medio Ambiente y Agua, aprovechar la materia orgánica en procesos de generación de energía;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría;
+XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte, transferencia, reciclado, reutilización, procesamiento y tratamiento de los residuos y de manejo especial, así como supervisar el buen funcionamiento de los sitios de disposición final, conforme a los convenios de coordinación celebrados con la Secretaría;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
+XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que generen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
 
@@ -4656,3 +4670,11 @@ P.O. 16 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 44.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
