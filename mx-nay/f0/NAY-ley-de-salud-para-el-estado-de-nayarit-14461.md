@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2024-08-26"
+last_updated: "2024-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 26 DE AGOSTO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -151,9 +149,9 @@ XVIII.- Ejercer la verificación y el control sanitario de los establecimientos 
 
 XIX.- Prevención de la violencia familiar e intrafamiliar;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-XX.- La prevención del consumo de narcóticos, atención a las adicciones y aplicación de las medidas de seguridad de los delitos contra la salud, en los términos del artículo 478 de la Ley General de Salud;
+XX.- La prevención del consumo de narcóticos, atención a las adicciones, persecución y aplicación de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -3075,6 +3073,22 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, solo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+## TITULO DECIMO CUARTO BIS. DE LA PARTICIPACIÓN DEL ESTADO EN LA PERSECUCIÓN DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 268 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos y ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el artículo 474 de la propia Ley, siempre que no existan elementos suficientes para presumir delincuencia organizada, en los términos previstos en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 268 TER.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por el delito a que se refiere este Capítulo, se regirán por las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 268 QUÁTER.- El Ministerio Público o la autoridad judicial del conocimiento, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a la Secretaría, para los efectos del tratamiento que corresponda.
+
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
@@ -3664,3 +3678,9 @@ P.O. 22 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA OBSTÉTRICA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITOS CONTRA LA SALUD, EN LA MODALIDAD DE NARCOMENUDEO.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
