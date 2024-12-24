@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2024-12-20"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,11 @@ state: "COA"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA EL 24 DE DICIEMBRE DE 2024.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -976,7 +976,9 @@ II. En materia procedimental:
 
 5. El día de la jornada electoral se celebrará de manera ordinaria para conformar los órganos de elección popular del Poder Judicial del Estado, el primer domingo del mes de junio del año que corresponda de manera concurrente con los procesos electorales en que se renueve cualquiera de las Cámaras del Congreso de la Unión, salvo las elecciones judiciales extraordinarias o las que tengan por objeto conformar nuevos órganos judiciales que serán electos conforme a los plazos previstos en la convocatoria que expida el Congreso del Estado, o en sus recesos, la Diputación Permanente; y
 
-6. El primero de septiembre del año siguiente a la elección judicial iniciará de manera ordinaria las funciones judiciales de las personas electas por el período constitucional del cargo popular de que se trate, previa su toma de protesta en términos de Ley.
+> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2024)</small>
+
+6. El primero de septiembre del año de la elección judicial, iniciarán de manera ordinaria las funciones judiciales de las personas electas por el período constitucional del cargo popular de que se trate, previa su toma de protesta en términos de Ley.
 
 III. En materia de derechos:
 
