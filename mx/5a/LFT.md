@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2024-12-19"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -796,11 +796,17 @@ II. Si comprueba ante el Tribunal que el trabajador, por razón del trabajo que 
 
 III. En los casos de trabajadores de confianza;
 
-> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
 
-IV. En el trabajo del hogar, y
+IV. En el trabajo del hogar;
 
-V. Cuando se trate de trabajadores eventuales.
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+V. Cuando se trate de trabajadores eventuales, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+VI. Cuando se trate de personas trabajadoras en plataformas digitales. Únicamente procederá la reinstalación obligatoria en caso de violación a derechos colectivos, tales como la libertad de asociación, autonomía sindical, el derecho de huelga y de contratación colectiva.
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -816,11 +822,17 @@ Las indemnizaciones a que se refiere el artículo anterior consistirán:
 
 I. Si la relación de trabajo fuere por tiempo determinado menor de un año, en una cantidad igual al importe de los salarios de la mitad del tiempo de servicios prestados; si excediera de un año, en una cantidad igual al importe de los salarios de seis meses por el primer año y de veinte días por cada uno de los años siguientes en que hubiese prestado sus servicios;
 
-II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados;
 
-III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley.
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+IV. Para las personas trabajadoras de plataformas digitales la indemnización consistirá en tres meses de salario. Adicionalmente se pagarán veinte días de salario por cada uno de los años de servicios prestados, tomando en cuenta el tiempo efectivamente laborado, como lo establece el artículo 291-D del mismo ordenamiento y los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 48 de esta Ley.
 
 ###### Artículo 51.
 
@@ -1440,15 +1452,19 @@ IV Bis. Los trabajadores del establecimiento de una empresa forman parte de ella
 
 V. En la industria de la construcción, después de determinar qué trabajadores tienen derecho a participar en el reparto, la Comisión a que se refiere el artículo 125 adoptará las medidas que juzgue conveniente para su citación;
 
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
 
-VI. Los trabajadores del hogar no participarán en el reparto de utilidades, y
+VI. Los trabajadores del hogar no participarán en el reparto de utilidades;
 
 VII. Los trabajadores eventuales tendrán derecho a participar en las utilidades de la empresa cuando hayan trabajado sesenta días durante el año, por lo menos.
 
-> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
 
-VIII. El monto de la participación de utilidades tendrá como límite máximo tres meses del salario del trabajador o el promedio de la participación recibida en los últimos tres años; se aplicará el monto que resulte más favorable al trabajador.
+VIII. El monto de la participación de utilidades tendrá como límite máximo tres meses del salario del trabajador o el promedio de la participación recibida en los últimos tres años; se aplicará el monto que resulte más favorable al trabajador, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+IX. Las personas trabajadoras en plataformas digitales tendrán derecho a participar en las utilidades de la empresa cuando el tiempo efectivamente laborado, en términos del artículo 291-D de esta Ley, sea superior a 288 horas anuales.
 
 ###### Artículo 128.
 
@@ -3656,9 +3672,257 @@ Los trabajadores no podrán ser removidos de la zona o ruta que se les haya asig
 
 Es causa especial de rescisión de las relaciones de trabajo la disminución importante y reiterada del volumen de las operaciones, salvo que concurran circunstancias justificativas.
 
-### CAPITULO X. Deportistas profesionales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
 
-### CAPITULO XI. Trabajadores Actores y Músicos
+### CAPITULO IX BIS. Trabajo en Plataformas Digitales
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-A.
+
+Es una relación laboral subordinada que consiste en el desempeño de actividades remuneradas que requieran la presencia física de la persona trabajadora para la prestación del servicio, las cuales son gestionadas por una persona física o moral en favor de terceros a través de una plataforma digital, utilizando las tecnologías de la información y la comunicación para ejercer el mando y la supervisión sobre la persona trabajadora.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-B.
+
+Se entenderá por plataforma digital al conjunto de mecanismos, aplicaciones informáticas, sistemas y dispositivos que asignan tareas, servicios, obras, trabajos o similares a personas trabajadoras en favor de terceros, considerando el uso de las tecnologías de la información y la comunicación definidas en el artículo 330-A de esta Ley.
+
+Los usuarios, consumidores o beneficiarios de tareas, servicios, obras o trabajos que se oferten a través de aplicaciones informáticas, no serán considerados patrones, ni responsables solidarios de personas trabajadoras en plataformas digitales o similares, ya que dicho carácter lo tendrá la persona física o moral que gestione o administre los servicios a través de la misma.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-C.
+
+La persona trabajadora de plataformas digitales será quien preste servicios personales, remunerados y subordinados, bajo el mando y supervisión de una persona física o moral que ofrece servicios a terceros, a través de una plataforma digital, y genere ingresos netos mensuales equivalentes a por lo menos un salario mínimo mensual de la Ciudad de México por su trabajo, independientemente del tiempo efectivamente trabajado.
+
+Las personas trabajadoras que presten servicios a través de plataformas digitales serán consideradas trabajadoras independientes, si al final de cada mes no alcanzan a generar la percepción mencionada. Sin embargo, en dicho periodo y durante el tiempo efectivamente trabajado, se les extenderán los derechos estipulados en este capítulo, con la excepción de lo dispuesto en las fracciones V relativa a la retención y entero de cuotas de seguridad social y VI del artículo 291-K. En todos los casos, las personas físicas y morales que administren plataformas digitales, serán responsables del pago del aseguramiento en el régimen del seguro social cuando ocurra un riesgo de trabajo durante el tiempo de trabajo efectivamente laborado.
+
+Si la persona trabajadora de plataformas digitales deja de tener actividad por un periodo consecutivo de 30 días naturales, se entenderá terminada la relación laboral automáticamente, sin que proceda responsabilidad o indemnización por parte del empleador. En el caso en el que dicha persona vuelva a cumplir con las condiciones para ser una persona trabajadora de plataformas digitales, se entenderá como el inicio de una nueva relación laboral.
+
+Para el caso del cálculo e integración del salario, se atenderá a lo dispuesto en el artículo 291-F de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-D.
+
+El trabajo en plataformas digitales será primordialmente flexible y discontinuo, por lo que se entenderá que existe relación laboral durante el tiempo efectivamente laborado por la persona trabajadora de plataforma digital.
+
+Se entenderá por tiempo de trabajo efectivamente laborado el comprendido desde que la persona trabajadora acepta prestar una tarea, servicio, obra o trabajo en la plataforma digital, hasta el momento en el que dicha prestación concluye definitivamente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-E.
+
+El tiempo de trabajo destinado para la plataforma será definido por la persona trabajadora y tendrá completa libertad para determinarse sin horarios fijos, pudiendo conectarse y desconectarse a discreción cuando así lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-F.
+
+El salario en el trabajo en plataformas se fijará por tarea, servicio, obra o trabajo realizado. En atención a la naturaleza flexible del trabajo, dicho pago contemplará el proporcional de día de descanso semanal, vacaciones, prima vacacional, aguinaldo y horas extras, sin que proceda el pago o reconocimiento de algún valor adicional por cualquiera de esos conceptos.
+
+Para efectos del cálculo de cuotas de seguridad social, no se considerarán como parte integrante del salario base de cotización los montos que las personas trabajadoras de plataformas digitales reciban por concepto de propinas.
+
+La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen los procedimientos relativos al cálculo del ingreso neto al que se refiere el artículo 291-C de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-G.
+
+El trabajo en plataformas digitales deberá fijarse mediante un contrato que será distinto de los términos y condiciones de la prestación del servicio en la plataforma y podrá ser firmado de manera digital. El modelo de contrato será autorizado y registrado por el Centro Federal de Conciliación y Registro Laboral.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-H.
+
+Además de lo establecido en el artículo 25 de esta Ley, el contrato al que se refiere el artículo 291-G, contendrá lo siguiente:
+
+I. Nombre, nacionalidad, edad, sexo y domicilio de las partes;
+
+II. Naturaleza y características del trabajo;
+
+III. Determinación del sistema de contabilización de ingresos generados y de tiempo efectivamente laborado;
+
+IV. El equipo e insumos de trabajo que en su caso se proporciona a la persona trabajadora, incluyendo lo relacionado con obligaciones de seguridad y salud en el trabajo para esta modalidad;
+
+V. El porcentaje del monto o método que el patrón pagará a la persona trabajadora de plataformas digitales por cada tarea, servicio, obra o trabajo, además del porcentaje o monto que puedan recibir por concepto de bonos, en caso (sic) que los hubiere;
+
+VI. Los mecanismos de contacto y de supervisión, entre la plataforma y las personas trabajadoras, y
+
+VII. Otras condiciones de trabajo que se convengan.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-I.
+
+Las personas trabajadoras en plataformas digitales disfrutarán de todos los derechos, incluyendo los colectivos reconocidos por la presente Ley, para lo cual las empresas de plataformas digitales deberán establecer mecanismos que garanticen su ejercicio pleno.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-J.
+
+Las reglas para la asignación de tareas, servicios, obras o trabajos, a través de algoritmos o mecanismos análogos deberán ser transparentes, claras y conocidas por todas las personas trabajadoras en plataformas digitales. Se entenderá por algoritmo el uso de sistemas de toma de decisiones que permitan ejercer de manera automatizada o análoga el mando y supervisión sobre la persona trabajadora de plataforma digital. Los prestadores de servicios en plataformas digitales deberán elaborar un documento de política de gestión algorítmica del trabajo que informe a las personas trabajadoras, utilizando un lenguaje sencillo y claro, y evitando el uso de frases inexactas, ambiguas o vagas, los elementos utilizados por los algoritmos para la toma de decisiones que puedan afectar la relación laboral. Dicho documento deberá contener lo siguiente:
+
+I. Las consecuencias del cumplimiento o incumplimiento de instrucciones otorgadas a las personas trabajadoras, incluyendo las expectativas en tiempos de espera, traslado y prestación de los servicios, obras, trabajos o análogos;
+
+II. Las consecuencias e impacto de calificaciones otorgadas por terceros a las tareas, servicios, obras, trabajos o análogos proporcionados por las personas trabajadoras;
+
+III. Los incentivos y penalizaciones utilizados para incidir en la intensidad, calidad, frecuencia, tiempo o ritmo del trabajo;
+
+IV. En su caso, la existencia de categorías cuya pertenencia incida en sentido positivo o negativo en la asignación de tareas, servicios, obras, trabajos o análogos y las características o reglas generales de dichas categorías, y
+
+V. Otros criterios que podrán ser tomados en cuenta para la toma de decisiones del algoritmo, incluyendo aquellas que tengan consecuencias para el acceso o restricción a futuras tareas, bonos o sanciones y que permitan reducir la asimetría en la información con la que cuenta la persona trabajadora con motivo de su labor.
+
+La política de gestión algorítmica del trabajo formará parte del contrato de trabajo de plataformas digitales y deberá ser conocido por todas las personas trabajadoras al inicio de la relación laboral, así como de manera inmediata en caso (sic) que existan cambios en los elementos antes descritos en el presente artículo, mismos que deberán ser aceptados por cada trabajador, y explicados de manera clara y sencilla. El algoritmo deberá ser razonable en sus requisitos y elementos, atendiendo a las condiciones objetivas del trabajo y no poner en riesgo la salud e integridad del trabajador, ni ser factor de discriminación en su contra.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-K.
+
+En cualquier caso, las personas físicas y morales que administren o gestionen servicios a través de plataformas digitales, en su carácter de patrón, tendrán las obligaciones especiales siguientes:
+
+I. Pagar los trabajos derivados de los servicios otorgados, en un plazo no mayor a una semana;
+
+II. Establecer mecanismos para llevar registro de las horas trabajadas y tiempos de espera;
+
+III. Emitir semanalmente recibos de pagos realizados donde se haga constar el número de tareas, servicios, obras o trabajos realizados, el tiempo efectivamente trabajado, el tiempo durante el que la persona trabajadora está a disposición de la plataforma para la asignación de una tarea, servicio, obra o trabajo, las retenciones legales que en su caso apliquen y demás conceptos análogos que resulten procedentes;
+
+IV. Implementar mecanismos que garanticen la seguridad de la información y datos personales de las personas trabajadoras utilizados desde la plataforma, así como el ejercicio de los derechos de Acceso, Rectificación, Cancelación, Oposición y Portabilidad de estos, en términos de la legislación aplicable;
+
+V. Inscribir a las personas trabajadoras en plataformas digitales ante el Instituto Mexicano del Seguro Social y, en su caso, determinar, retener y enterar el pago de cuotas obrero patronales en los términos que establezcan las disposiciones en la materia;
+
+VI. Realizar las aportaciones correspondientes al Fondo Nacional de la Vivienda para los Trabajadores, en términos de la legislación aplicable;
+
+VII. Establecer mecanismos de adiestramiento, capacitación y asesoría necesarios para garantizar la adaptación y el uso adecuado de las plataformas digitales, además de otros materiales, insumos o herramientas necesarias para su trabajo, cuando así se convenga;
+
+VIII. Informar sobre las medidas de seguridad y salud en el trabajo que deberán considerar las personas trabajadoras de plataformas en el ejercicio de sus labores;
+
+IX. Establecer mecanismos específicos de atención y seguimiento de quejas o denuncias, respecto de faltas de probidad u honradez, actos de violencia laboral o violencia sexual, actos de violencia, amenazas, injurias, hostigamiento o acoso sexual, malos tratamientos, actos discriminatorios u otros similares, en contra de las personas trabajadoras en plataformas digitales con motivo de su trabajo;
+
+X. Informar a las personas trabajadoras en plataformas digitales el pago que recibirán por cada tarea, servicio, obra o trabajo, desglosando los conceptos aplicables en la integración del pago, y
+
+XI. Proporcionar toda la información que le requieran las autoridades laborales y de cualquier otro tipo, en relación con la prestación de servicios a través de plataformas digitales, incluyendo, en su caso, los datos de terceros que presten servicios a través de las plataformas digitales.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-L.
+
+Las personas trabajadoras en plataformas digitales, tienen las obligaciones especiales siguientes:
+
+I. Conducirse con apego a las disposiciones en materia de seguridad y salud en el trabajo, así como de seguridad vial, en su caso, de acuerdo con la normativa vigente y las establecidas por el patrón;
+
+II. Poner el mayor cuidado en la guarda, conservación y entrega de insumos, las tareas, servicios, obras o trabajos mandatados durante el tiempo efectivamente trabajado;
+
+III. Recibir, entregar y prestar las tareas, servicios, obras o trabajos aceptados a través de la plataforma digital en los horarios, condiciones y lugares convenidos;
+
+IV. Atender y utilizar los mecanismos y sistemas de las plataformas digitales para el seguimiento de la conexión y de las horas laboradas, así como en su caso para la comunicación con la plataforma;
+
+V. En su caso, aportar los instrumentos necesarios para la correcta entrega de las tareas, servicios, obras o trabajos instruidos por el patrón;
+
+VI. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso, y
+
+VII. Conducirse con probidad, honradez y abstenerse de realizar prácticas de discriminación, violencia laboral, hostigamiento y acoso sexual u otros análogos, durante y con motivo del trabajo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-M.
+
+Además de las causas establecidas en el artículo 47 de esta Ley, se podrá rescindir la relación laboral, sin responsabilidad para el patrón, en los siguientes supuestos:
+
+I. Presentar documentación falsa al realizar el registro de datos en la plataforma digital;
+
+II. Comprometer, por su imprudencia o descuido inexcusable, la seguridad, o la privacidad de la persona usuaria o cliente de la plataforma digital;
+
+III. Incurrir en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento y/o acoso sexual, malos tratamientos, actos discriminatorios u otros análogos, durante y con motivo de su trabajo, y
+
+IV. Incurrir de manera reiterada en incumplimiento de las tareas, servicios, obras o trabajos aceptados por la persona trabajadora, así como de las instrucciones relacionadas con el trabajo sin causa justificada.
+
+Para el caso de las fracciones I a III del presente artículo, la rescisión podrá surtir efectos inmediatos, previa notificación escrita o digital al trabajador.
+
+Para el caso de la fracción IV, se deberá avisar a la persona trabajadora con al menos tres días de anticipación, previo agotamiento de los mecanismos de revisión establecidos por la empresa de plataforma digital en términos del artículo 291-P de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-N.
+
+Para efectos de cálculo en las indemnizaciones a las que se refiere el artículo 50 de la presente Ley, se computará como salario el promedio de lo ingresado por la persona trabajadora en la plataforma digital en los últimos seis meses.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-O.
+
+No será imputable a las personas trabajadoras ni podrá limitarse o prohibirse la conexión, vinculación o acceso a la plataforma digital, cuando se incumpla la entrega o prestación de un servicio bajo cualquiera de los siguientes supuestos:
+
+I. El engaño de la empresa de plataforma digital a la persona trabajadora para que incurra en algún error y con esto verse afectado su trabajo;
+
+II. La existencia de un peligro grave para la seguridad o salud del trabajador en el desempeño de su trabajo;
+
+III. La no aceptación de nuevas tareas, servicios, obras o trabajos por no recibir el salario correspondiente en la fecha y forma convenidas o acostumbradas;
+
+IV. Comprometer la empresa de plataforma digital con su imprudencia, omisión o descuido inexcusables, la seguridad de las personas trabajadoras o de las personas usuarias o clientes de la plataforma digital, y
+
+V. La no aceptación de tareas, servicios, obras o trabajos cuando el ingreso ofrecido sea desproporcionadamente bajo o no cubra los costos operativos, de tiempo y esfuerzo, afectando negativamente a la persona trabajadora.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-P.
+
+Las personas físicas y morales que administren plataformas digitales, pondrán a disposición de las personas trabajadoras mecanismos para la atención y revisión de decisiones que afecten o interrumpan la conexión, vinculación o acceso a la plataforma digital y deberán garantizar que dichos mecanismos sean gestionados por personal con autonomía y poder de revisión sobre dichas decisiones y no por algoritmos o mecanismos similares.
+
+Será nula toda rescisión, limitante o prohibición en la conexión, vinculación o acceso a la plataforma en la que no se entregue un aviso escrito, de forma análoga o a través de la plataforma digital, que refiera inmediatamente y de manera clara la conducta o las conductas que motivan la decisión.
+
+Este aviso deberá ir acompañado del reporte detallado con datos de tareas, servicios, obras o trabajos, así como fecha o fechas de conexión, tiempo de conexión, observaciones y calificaciones de los servicios prestados por la persona trabajadora.
+
+En caso de no llegar a un acuerdo o solución, las partes deberán acudir ante las autoridades conciliatorias, conforme a lo previsto en el artículo 684-B de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-Q.
+
+Será causa especial de terminación de la relación de trabajo, la deshabilitación o cierre de la empresa de plataforma digital por causa justificada y previo aviso a las personas trabajadoras.
+
+El aviso deberá darse en un plazo no menor a quince días, contados a partir que el patrón tuvo conocimiento de la causa justificada de la deshabilitación o cierre de la plataforma digital.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-R.
+
+Las empresas de plataformas digitales deberán observar una perspectiva de género que proteja a las personas trabajadoras de actos de discriminación, violencia laboral, violencia sexual, acoso u hostigamiento con motivo de su trabajo, y que permita conciliar el trabajo con la vida personal y familiar.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-S.
+
+Las empresas de plataformas digitales tienen prohibido:
+
+I. El cobro a las personas trabajadoras por la inscripción, uso, separación o conceptos similares, relacionados con la relación laboral;
+
+II. El trabajo de personas menores de edad;
+
+III. La retención de dinero a las personas trabajadoras adicional a los conceptos establecidos en la ley;
+
+IV. Establecer restricciones de conexión a las personas trabajadoras en plataformas digitales, salvo en los casos que establece el artículo 291-M de esta Ley;
+
+V. El encubrimiento o la simulación que busque desvirtuar el vínculo laboral mediante contratos de carácter civil, mercantil u otros;
+
+VI. La prestación de servicios de puesta a disposición de personal propio en beneficio de otra persona física o moral, y
+
+VII. Manipular el ingreso de las personas trabajadoras para evitar su calificación como trabajadores subordinados de plataformas digitales.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-T.
+
+Queda prohibido transferir a las personas trabajadoras que se encuentren sujetas a una relación laboral tradicional a un esquema de trabajo en plataformas digitales, con el fin de buscar desvirtuar el vínculo laboral, los derechos asociados con el mismo o con el objeto de reducir las cargas fiscales, de seguridad social o laborales que se desprendan de la relación de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 291-U.
+
+Las empresas de plataformas digitales podrán contratar a personas trabajadoras bajo esquemas laborales continuos y tradicionales, a quienes les serán aplicables las disposiciones correspondientes de la ley respectiva.
+
+### CAPITULO X. Deportistas profesionales
 
 ###### Artículo 292.
 
@@ -3734,9 +3998,7 @@ I. La indisciplina grave o las faltas repetidas de indisciplina; y
 
 II. La pérdida de facultades.
 
-### CAPITULO XII. Trabajo a domicilio
-
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+### CAPITULO XI. Trabajadores Actores y Músicos
 
 ###### Artículo 304.
 
@@ -3772,9 +4034,9 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XII BIS. Teletrabajo
+### CAPITULO XII. Trabajo a domicilio
 
-> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### Artículo 311.
 
@@ -3936,9 +4198,9 @@ VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE ENERO DE 2021)</small>
 
-### CAPITULO XIII. Personas Trabajadoras del Hogar
+### CAPITULO XII BIS. Teletrabajo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### Artículo 330-A.
 
@@ -4066,9 +4328,9 @@ III. Constatar el debido cumplimiento de las obligaciones especiales establecida
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE JULIO DE 2019)</small>
 
-### CAPITULO XIII Bis. De Los Trabajadores en Minas
+### CAPITULO XIII. Personas Trabajadoras del Hogar
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 331.
 
@@ -4296,7 +4558,9 @@ La persona empleadora podrá dar por terminada dentro de los treinta días sigui
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
+### CAPITULO XIII Bis. De Los Trabajadores en Minas
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 343-A.
 
@@ -4374,7 +4638,7 @@ III. Multa de hasta 5,000 veces la Unidad de Medida y Actualización, cuando por
 
 Lo anterior, sin perjuicio de que la Oficina de Inspección de Trabajo o el Tribunal que conozca del caso, dé vista de los hechos al Ministerio Público.
 
-### CAPITULO XV. Industria Familiar
+### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
 
 ###### Artículo 344.
 
@@ -4414,9 +4678,7 @@ II. Verificar que las propinas correspondan en su totalidad a los trabajadores; 
 
 III. Vigilar que se respeten las normas sobre jornada de trabajo.
 
-### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+### CAPITULO XV. Industria Familiar
 
 ###### Artículo 351.
 
@@ -4432,9 +4694,9 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO XVII. Trabajo en las Universidades e Instituciones de Educación Superior Autónomas por Ley
+### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### Artículo 353-A.
 
@@ -4526,7 +4788,9 @@ Las disposiciones de este Capítulo no serán aplicables a aquellas personas que
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
-### CAPITULO I. Coaliciones
+### CAPITULO XVII. Trabajo en las Universidades e Instituciones de Educación Superior Autónomas por Ley
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
 ###### Artículo 353-J.
 
@@ -4616,7 +4880,7 @@ Los trabajadores de las universidades e instituciones a las que se refiere este 
 
 ## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
-### CAPITULO II. Sindicatos, Federaciones y Confederaciones
+### CAPITULO I. Coaliciones
 
 ###### Artículo 354.
 
@@ -4626,7 +4890,7 @@ La Ley reconoce la libertad de coalición de trabajadores y patrones.
 
 Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para la defensa de sus intereses comunes.
 
-### CAPITULO III. Contrato Colectivo de Trabajo
+### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
 ###### Artículo 356.
 
@@ -5180,7 +5444,7 @@ IV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva
 
 La documentación se autorizará de conformidad con lo dispuesto en el párrafo final del artículo 365.
 
-### CAPITULO IV. Contrato-Ley
+### CAPITULO III. Contrato Colectivo de Trabajo
 
 ###### Artículo 386.
 
@@ -5516,9 +5780,7 @@ Si firmado un contrato colectivo, un patrón se separa del sindicato que lo cele
 
 En los casos de disolución del sindicato de trabajadores titular del contrato colectivo o de terminación de éste, las condiciones de trabajo continuarán vigentes en la empresa o establecimiento.
 
-### CAPITULO V. Reglamento Interior de Trabajo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
+### CAPITULO IV. Contrato-Ley
 
 ###### Artículo 404.
 
@@ -5690,9 +5952,9 @@ I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+### CAPITULO V. Reglamento Interior de Trabajo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 422.
 
@@ -5764,7 +6026,9 @@ El texto íntegro de los reglamentos interiores de trabajo deberá estar disponi
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
 
-### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
+### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 426.
 
@@ -5776,7 +6040,7 @@ II. Cuando el aumento del costo de la vida origine un desequilibrio entre el cap
 
 La solicitud se ajustará a lo dispuesto en los artículos 398 y 419, fracción I, y se tramitará de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
-### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
+### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 427.
 
@@ -5848,9 +6112,7 @@ Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, lo
 
 Lo establecido en el presente artículo no será aplicable en el caso a que se refiere la fracción VII del artículo 427. En este supuesto, los trabajadores estarán obligados a reanudar sus labores tan pronto concluya la contingencia.
 
-### CAPITULO I
-
-Disposiciones Generales.
+### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 433.
 
@@ -5908,7 +6170,9 @@ Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo
 
 ## TITULO OCTAVO. Huelgas
 
-### CAPITULO II. Objetivos y Procedimientos de Huelga
+### CAPITULO I
+
+Disposiciones Generales.
 
 ###### Artículo 440.
 
@@ -5960,7 +6224,7 @@ No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por 
 
 El Tribunal y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Objetivos y Procedimientos de Huelga
 
 ###### Artículo 450.
 
@@ -8866,9 +9130,7 @@ TITULO ONCE
 
 Autoridades del Trabajo y Servicios Sociales
 
-### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 523.
 
@@ -8934,7 +9196,9 @@ El Poder Judicial de la Federación y los poderes judiciales locales establecer�
 
 Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las obligaciones que esta Ley impone a los patrones en materia educativa e intervenir coordinadamente con la Secretaría del Trabajo y Previsión Social, en la capacitación y adiestramiento de los trabajadores, de acuerdo con lo dispuesto en el Capítulo IV de este Título.
 
-### CAPITULO III. Procuraduría de la Defensa del Trabajo
+### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 527.
 
@@ -9052,9 +9316,7 @@ VI.- Auxiliar en la realización de los trámites relativos a constancias de hab
 
 VII.- Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
 
-### CAPITULO IV. Del Servicio Nacional de Empleo
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
 ###### Artículo 530.
 
@@ -9124,7 +9386,9 @@ Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los d
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO V. Inspección del Trabajo
+### CAPITULO IV. Del Servicio Nacional de Empleo
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 537.
 
@@ -9330,7 +9594,7 @@ Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines
 
 Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social.
 
-### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
+### CAPITULO V. Inspección del Trabajo
 
 ###### Artículo 540.
 
@@ -9490,9 +9754,7 @@ III. Cuando a juicio del Director General la sanción aplicable sea la destituci
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO VII. Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
 ###### Artículo 551.
 
@@ -9706,7 +9968,7 @@ V. Los demás que le confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO VIII. Procedimiento ante la Comisión Nacional de los Salarios Mínimos
+### CAPITULO VII. Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
@@ -9796,7 +10058,9 @@ VII. Los demás que le confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO VIII. Procedimiento ante la Comisión Nacional de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 570.
 
@@ -9866,9 +10130,7 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO IX BIS. Del Centro Federal de Conciliación y Registro Laboral
-
-> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 575.
 
@@ -10026,7 +10288,7 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO IX TER. De los Centros de Conciliación de las Entidades Federativas y de la Ciudad de México
+### CAPITULO IX BIS. Del Centro Federal de Conciliación y Registro Laboral
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -10130,7 +10392,9 @@ IX. Las demás facultades expresamente establecidas en la presente Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO X
+### CAPITULO IX TER. De los Centros de Conciliación de las Entidades Federativas y de la Ciudad de México
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 590-E.
 
@@ -10162,7 +10426,7 @@ La conciliación que imparta deberá ajustarse al procedimiento contemplado en l
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XI
+### CAPITULO X
 
 ###### Artículo 591.
 
@@ -10206,9 +10470,7 @@ La conciliación que imparta deberá ajustarse al procedimiento contemplado en l
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XII. De la Competencia de los Tribunales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XI
 
 ###### Artículo 601.
 
@@ -10224,7 +10486,9 @@ La conciliación que imparta deberá ajustarse al procedimiento contemplado en l
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+### CAPITULO XII. De la Competencia de los Tribunales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 604.
 
@@ -10324,9 +10588,7 @@ VI. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 (DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-### CAPITULO I. De los procedimientos de designación de representantes de los trabajadores y de los patrones
-
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
 
 ###### Artículo 621.
 
@@ -10478,9 +10740,9 @@ Representantes de los Trabajadores y de los Patrones
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
+### CAPITULO I. De los procedimientos de designación de representantes de los trabajadores y de los patrones
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 648.
 
@@ -10692,7 +10954,9 @@ Las faltas temporales o definitivas de los representantes serán cubiertas por l
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 676.
 
@@ -10758,9 +11022,7 @@ IV. El término para la designación de representantes, los requisitos que deber
 
 V. El lugar y fecha en el que se iniciarán formalmente los trabajos de la Comisión Consultiva.
 
-### CAPITULO I. Del Procedimiento de Conciliación Prejudicial
-
-> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 683.
 
@@ -10782,7 +11044,7 @@ TITULO TRECE BIS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO II. De los Conciliadores
+### CAPITULO I. Del Procedimiento de Conciliación Prejudicial
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -10874,7 +11136,7 @@ En caso de que las partes establezcan pagos diferidos, en una o más parcialidad
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO III. Del Procedimiento para la Selección de Conciliadores
+### CAPITULO II. De los Conciliadores
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -10964,9 +11226,9 @@ Los conciliadores y el personal de las Autoridades Conciliadoras no podrán ser 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO I. Principios Procesales
+### CAPITULO III. Del Procedimiento para la Selección de Conciliadores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 684-K.
 
@@ -11092,9 +11354,9 @@ Derecho Procesal del Trabajo
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO II. De la Capacidad, Personalidad y Legitimación
+### CAPITULO I. Principios Procesales
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 685.
 
@@ -11164,9 +11426,9 @@ Las autoridades administrativas están obligadas, en la esfera de sus respectiva
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO III. De las Competencias
+### CAPITULO II. De la Capacidad, Personalidad y Legitimación
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 689.
 
@@ -11260,7 +11522,9 @@ El representante común tendrá los derechos, obligaciones y responsabilidad inh
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO IV. De los Impedimentos y Excusas
+### CAPITULO III. De las Competencias
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 698.
 
@@ -11384,9 +11648,7 @@ Con el propósito de facilitar el acceso a la justicia, los poderes judiciales l
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO V. De la Actuación de los Tribunales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO IV. De los Impedimentos y Excusas
 
 ###### Artículo 707.
 
@@ -11546,9 +11808,9 @@ El procedimiento no se suspenderá mientras se tramite la denuncia de impediment
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO VI. De los Términos Procesales
+### CAPITULO V. De la Actuación de los Tribunales
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 712.
 
@@ -11806,9 +12068,9 @@ Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO VII. De las Notificaciones
+### CAPITULO VI. De los Términos Procesales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 733.
 
@@ -11846,7 +12108,7 @@ Transcurridos los términos fijados a las partes, se tendrá por perdido su dere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO VIII. De los Exhortos y Despachos
+### CAPITULO VII. De las Notificaciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -12160,9 +12422,9 @@ Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO IX. De los Incidentes
+### CAPITULO VIII. De los Exhortos y Despachos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 753.
 
@@ -12226,9 +12488,9 @@ El oferente devolverá el exhorto diligenciado bajo su más estricta responsabil
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO X. De la Acumulación
+### CAPITULO IX. De los Incidentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 761.
 
@@ -12288,7 +12550,7 @@ Si en autos consta que una persona se manifiesta sabedora de una resolución, la
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
+### CAPITULO X. De la Acumulación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -12348,9 +12610,9 @@ Será competente para conocer de la acumulación el Tribunal que hubiere preveni
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XII. De las Pruebas
+### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 771.
 
@@ -12396,9 +12658,9 @@ Reunidos los requisitos a que se refieren los artículos que anteceden, cesará 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIII. De las Resoluciones Laborales
+### CAPITULO XII. De las Pruebas
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Primera. Reglas Generales
 
@@ -13284,7 +13546,9 @@ Para el desahogo de la prueba a que se refiere este artículo, el Tribunal en to
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIV. De la Revisión de los Actos de Ejecución
+### CAPITULO XIII. De las Resoluciones Laborales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 837.
 
@@ -13394,9 +13658,7 @@ Las partes pueden exigir la responsabilidad en que incurran los miembros de los 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XV. De las Providencias Cautelares
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XIV. De la Revisión de los Actos de Ejecución
 
 ###### Artículo 849.
 
@@ -13432,7 +13694,9 @@ Las partes pueden exigir la responsabilidad en que incurran los miembros de los 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVI
+### CAPITULO XV. De las Providencias Cautelares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 857.
 
@@ -13532,9 +13796,7 @@ Tratándose de inmuebles, a petición del interesado, el Tribunal solicitará la
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XVII. Del procedimiento ordinario
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XVI
 
 ###### Artículo 865.
 
@@ -13558,9 +13820,9 @@ Tratándose de inmuebles, a petición del interesado, el Tribunal solicitará la
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XVIII. Del Procedimiento Especial
+### CAPITULO XVII. Del procedimiento ordinario
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 870.
 
@@ -13892,9 +14154,9 @@ Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva f
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
+### CAPITULO XVIII. Del Procedimiento Especial
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 892.
 
@@ -14242,7 +14504,7 @@ El Consejo de la Judicatura Federal integrará un cuerpo de peritos médicos ofi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XX. Procedimiento de Huelga
+### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -14496,9 +14758,9 @@ El Tribunal, a fin de conseguir el equilibrio y la justicia social en las relaci
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO I
+### CAPITULO XX. Procedimiento de Huelga
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 920.
 
@@ -14810,7 +15072,7 @@ Procedimientos de Ejecución
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
+### CAPITULO I
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -15302,9 +15564,9 @@ III. Firmada la escritura, se pondrá al adquirente en posesión del inmueble.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO III. Procedimientos paraprocesales o voluntarios
+### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Primera. De las tercerías
 
@@ -15391,6 +15653,10 @@ Cuando en los juicios seguidos ante el Tribunal se haya dictado sentencia por ca
 Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deberá cubrirse con éste el importe de los créditos laborales en que se hubiese hecho la prevención.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO III. Procedimientos paraprocesales o voluntarios
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 982.
 
@@ -15619,6 +15885,20 @@ A la persona empleadora que viole las normas protectoras del trabajo del campo, 
 I. De 250 a 2500 veces la Unidad de Medida y Actualización, cuando no conste por escrito el contrato de trabajo y/o no establezca los mecanismos a que se refiere el artículo 282; y no lleve o sea deficiente el registro especial de las personas trabajadoras temporales a que se refiere el artículo 280, y
 
 II. De 250 a 5000 veces la Unidad de Medida y Actualización, cuando no proporcione habitaciones o estas no cuenten con las condiciones mínimas requeridas; no proporcione alimentación, agua y sanitarios; no proporcione educación; no proporcione el traslado seguro y cómodo; no proporcione servicios de guardería a que se refieren las fracciones II, IV, X, XI y XIII del artículo 283; y no observe las disposiciones protectoras de las trabajadoras a que se refiere el artículo 283 Ter.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 997-B.
+
+Las personas físicas o morales que administren plataformas digitales, en su carácter de patrón, que violen las normas protectoras del trabajo en plataformas digitales, con independencia de las sanciones que correspondan en las leyes respectivas, se les impondrá una multa por el equivalente a:
+
+I. De 2000 a 25000 veces la Unidad de Medida y Actualización, cuando no se registre el modelo de contrato en términos del artículo 291-G de esta Ley;
+
+II. De 1000 a 25000 veces la Unidad de Medida y Actualización, cuando no emitan o informen de cambios en el documento de política de gestión algorítmica al que se refiere el artículo 291-J de esta Ley;
+
+III. De 250 a 5000 veces la Unidad de Medida y Actualización, cuando violen las disposiciones contenidas en el artículo 291-K de esta Ley, y
+
+IV. De 500 a 25000 veces la Unidad de Medida y Actualización, cuando no establezcan los mecanismos contemplados en el artículo 291-P de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -16417,3 +16697,21 @@ Primero.- El presente Decreto entrará en vigor a los 180 días naturales siguie
 Segundo.- La Secretaría del Trabajo y Previsión Social deberá emitir las normas correspondientes sobre los factores de riesgos de trabajo en un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto.
 
 Tercero.- Las personas empleadoras o empresas contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna para dar cumplimiento a lo establecido en la fracción V del artículo 132 de la Ley Federal del Trabajo.
+
+D.O.F. 24 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE PLATAFORMAS DIGITALES".]
+
+Primero.- El presente Decreto entrará en vigor 180 días después de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Consejo Técnico del Instituto Mexicano del Seguro Social y, en su caso, el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicarán en el Diario Oficial de la Federación, dentro de los 5 días siguientes a la entrada en vigor del presente Decreto, las reglas de carácter general que garanticen el cumplimiento de las obligaciones contenidas en las fracciones V y VI del artículo 291-K de esta Ley, a través de una prueba piloto de participación obligatoria para el aseguramiento de personas trabajadoras de plataformas digitales.
+
+Tercero.- El Instituto Mexicano del Seguro Social contará con un plazo de 180 días naturales, contados a partir de la publicación de las reglas de carácter general, para que considerando los resultados que arroje la prueba piloto para el aseguramiento de personas trabajadoras de plataformas digitales, se preparen las iniciativas que con mayor detalle definirán los aspectos relativos al cumplimiento de dichas obligaciones, mismas que serán presentadas ante el Poder Legislativo para su discusión. En su caso, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores podrá proponer adecuaciones normativas equivalentes en el ámbito de su competencia.
+
+Cuarto.- La Secretaría del Trabajo y Previsión Social podrá recopilar, elaborar, procesar y divulgar información con el fin de facilitar la comprensión de los derechos y obligaciones que se desprendan de las relaciones de trabajo en plataformas digitales.
+
+Quinto.- La temporalidad indicada en la fracción IX del artículo 127 de esta Ley, se obtiene considerando el tiempo de trabajo en 45 minutos por cada hora y 15 minutos de tiempo de espera para la recepción de tareas, servicios y, obras o trabajos; lo que se traduce en un factor de 0.75 de actividad efectivamente laborada por cada hora.
+
+Al aplicar el factor a una jornada de 8 horas da como resultado 6 diarias, lo que representa 36 semanales o 144 mensuales, por lo que al tomar en consideración la temporalidad establecida en la fracción VII del artículo citado, se equipara a 288 horas de actividad efectivamente laborada.
+
+Sexto.- La Secretaría del Trabajo y Previsión Social contará con 5 días posteriores a la entrada en vigor del presente Decreto para publicar las disposiciones de carácter general que definirán el cálculo del ingreso neto a las que se refiere el artículo 291-F.
