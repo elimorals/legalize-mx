@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-de-la-ciudad-de-165
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-04-11"
-last_updated: "2023-10-25"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165518&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2023-03-24"
 ---
 # REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en el Número 1081 de la Gaceta Oficial de la Ciudad de México, el martes 11 de abril de 2023.
 
@@ -246,9 +248,11 @@ Para el ejercicio de esta atribución se podrán realizar las acciones administr
 
 III. Establecer mecanismos de coordinación con las instancias competentes a efecto de realizar el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-La Secretaría ejercerá sus atribuciones en materia de publicidad exterior por conducto de la persona titular de la Dirección General del Ordenamiento Urbano, quien contará con las siguientes facultades:
+La Secretaría ejercerá sus atribuciones en materia de publicidad exterior por conducto de la persona titular de la Dirección General de Publicidad Exterior, quien contará con las siguientes facultades:
 
 I. Evaluar y, en su caso, otorgar el visto bueno a los proyectos de medios publicitarios que presenten los solicitantes de Licencias, siempre y cuando reúnan los requisitos previstos por la Ley y el presente Reglamento;
 
@@ -256,15 +260,11 @@ II. Auxiliar a la persona titular de la Secretaría en la distribución de espac
 
 III. Requerir el retiro de los medios publicitarios instalados en contravención a la Ley y al Reglamento;
 
-IV. Realizar las acciones administrativas pertinentes para lograr el retiro de los medios publicitarios señalados en el numeral anterior, tales como avisos comunicados, circulares o cualquier otro;
-
-> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2023)</small>
+IV. Realizar las acciones administrativas pertinentes para lograr el retiro de los medios publicitarios señalados en el numeral anterior, tales como avisos, comunicados, circulares o cualquier otro;
 
 V. Suscribir los instrumentos jurídicos que se requieran con motivo de las atribuciones con las que cuente en la materia, así como celebrar convenios con otras instituciones del Gobierno; y
 
-VI. Las demás que le sean encomendadas por la persona titular de la Secretaría para la aplicación de la Ley, el presente Reglamento y lo dispuesto por otros ordenamientos aplicables en la materia.
-
-Lo anterior, sin perjuicio del ejercicio directo de dichas atribuciones por parte de la persona titular de la Secretaría.
+VI. Las demás que le sean encomendadas por la persona titular de la Secretaría para la aplicación de la Ley, el presente Reglamento y lo dispuesto por otros ordenamientos aplicables en la materia. Lo anterior, sin perjuicio del ejercicio directo de dichas atribuciones por parte de la persona titular de la Secretaría.
 
 ###### Artículo 14.
 
@@ -1467,3 +1467,17 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Las referencias a anuncios realizadas en el Código Fiscal de la Ciudad de México y en otros ordenamientos se entenderán hechas a los medios publicitarios considerados como tales en la Ley de Publicidad Exterior de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO Y DEL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del 1 de enero de 2025.
+
+TERCERO.- Todas las referencias que se hagan a la Secretaría de Desarrollo Urbano y Vivienda en el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y demás disposiciones, deberán entenderse a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, únicamente por lo que respecta a su competencia.
+
+CUARTO.- Las menciones que otros ordenamientos y disposiciones hagan a las unidades administrativas que por virtud del presente Decreto se suprimen o modifican, se entenderán referidas a las unidades administrativas que asuman sus funciones.
+
+QUINTO.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Administración y Finanzas en el ámbito de su competencia.
