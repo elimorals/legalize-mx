@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2024-12-16"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2024.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -188,9 +188,7 @@ E) Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la qu
 
 3. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
 
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-4. Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales; y
+4. (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
 
@@ -564,33 +562,39 @@ D) Coordinación General de la Central de Abasto a la que quedan adscritas:
 
 E) Dirección General de Desarrollo y Sustentabilidad Energética.
 
-VI. A la Secretaría de Desarrollo Urbano y Vivienda:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-A) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
+VI. A la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana:
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS NUMERALES], G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-B) Dirección General de Política Urbanística;
+A) Subsecretaría de Planeación y Ordenamiento Territorial:
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+1. Dirección General de Política Urbanística;
 
-C) Dirección General de Asuntos Jurídicos; y
+2. Dirección General del Ordenamiento Urbano; y
 
-> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2024)</small>
+3. Dirección General de Publicidad Exterior.
 
-D) Dirección General del Ordenamiento Urbano; y
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+B) Subsecretaría de Coordinación Metropolitana:
 
-E) Comisión para la Reconstrucción de la Ciudad de México;
+1. Dirección Ejecutiva de Vinculación Interinstitucional.
 
-> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-1. Dirección General de Atención a Personas Damnificadas;
+C) Dirección General de Regularización Territorial; y
 
-> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+REFORMADO, G.O. 24 DE DICIEMBRE DE 2024)
 
-2. Dirección General Operativa;
+D) Dirección General de Asuntos Jurídicos.
+
+E) (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
+
+1. (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
+
+2. (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
 
 VII. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
@@ -986,7 +990,7 @@ C) Dirección General del Registro Público de la Propiedad y de Comercio;
 
 D) Dirección General del Registro Civil;
 
-E) Dirección General de Regularización Territorial; y
+E) (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
 
 F) Dirección Ejecutiva de Justicia Cívica.
 
@@ -1334,25 +1338,25 @@ La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental tendrá 
 
 I. Acordar con la persona titular de la Secretaría de Gobierno el despacho de los asuntos que guarden relación con los Gobiernos de las Entidades Federativas y los Municipios que colindan con la Ciudad de México, en los asuntos que correspondan a su ámbito de competencia;
 
-II. Acordar con la persona titular de la Secretaría de Gobierno el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad;
+II. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 III. Mantener informada a la persona titular de la Secretaría de Gobierno sobre el cumplimiento de los convenios suscritos por el Gobierno de la Ciudad de México con gobiernos de las Entidades Federativas que colindan con la Ciudad;
 
-IV. Participar en el diseño e instrumentación de la planeación metropolitana, en coordinación con las Unidades Administrativas competentes de la Administración Pública de la Ciudad;
+IV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 V. Participar en las actividades materia de límites territoriales en términos de las disposiciones jurídicas y administrativas aplicables, así como coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad con las Entidades Federativas colindantes;
 
-VI. Representar a la Administración Pública de la Ciudad ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los convenios y demás instrumentos jurídicos;
+VI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-VII. Proponer a la persona titular de la Jefatura de Gobierno, en coordinación con las personas titulares de las Dependencias, Alcaldías, Federación, Estados y Municipios de que se trate, previa opinión de la persona titular de la Secretaría de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación vigente sobre coordinación metropolitana;
+VII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-VIII. Promover y coordinar las relaciones institucionales de las Alcaldías limítrofes con los Municipios de la Zona Metropolitana del Valle de México;
+VIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-IX. Promover las relaciones de colaboración entre las Alcaldías y los Municipios limítrofes con la Ciudad, de conformidad con las normas aplicables;
+IX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-X. Promover la realización de estudios y proyectos técnicos que propicien formas eficientes de coordinación metropolitana con los distintos órdenes de gobierno que inciden en la Ciudad;
+X. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XI. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
+XI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 XII. Apoyar las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
 
@@ -1662,15 +1666,113 @@ XXXIX. Las demás que le atribuyan expresamente los reglamentos y demás disposi
 
 #### SECCIÓN III. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-#### SECCIÓN IV. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+#### SECCIÓN III BIS. DE LA SECRETARÍA DE PLANEACIÓN, ORDENAMIENTO TERRITORIAL Y COORDINACIÓN METROPOLITANA
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+Artículo 31 BIS.- Corresponde a la Subsecretaría de Planeación y Ordenamiento Territorial:
+
+I. Colaborar en la propuesta, coordinación y ejecución de las políticas en materia de planeación urbana, así como en la formulación, coordinación, elaboración y evaluación del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial, los de las Alcaldías, Programas Parciales; así como el Programa de Gobierno de la Ciudad de México, programas sectoriales, programas especiales, institucionales y demás instrumentos en materia de planeación que resulten aplicables;
+
+II. Promover la realización de estudios necesarios para la aplicación de la Leyes (sic) de Asentamientos Humanos y del Desarrollo Urbano de la Ciudad de México, así como del Plan General de Desarrollo y del Programa General de Ordenamiento Territorial, y de las leyes correspondientes a los asentamientos humanos y el desarrollo urbano de la Ciudad de México;
+
+III. Apoyar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana respecto de la información que le sea requerida para la integración de los instrumentos de planeación de conformidad con lo previsto en la normatividad aplicable;
+
+IV. Colaborar con las autoridades correspondientes en la elaboración, modificación y ejecución de los programas parciales de desarrollo urbano, así como prestar la asesoría y el apoyo técnico necesario;
+
+V. Coordinar las acciones necesarias para llevar a cabo la supervisión de los actos administrativos de las Alcaldías, así como la revisión periódica de las manifestaciones de construcción emitidas por las mismas, para vigilar el cumplimiento de los programas, las leyes en materia de desarrollo urbano y de la normatividad en la materia;
+
+VI. Supervisar la expedición de los Certificados Únicos de Zonificación de Uso del Suelo;
+
+VII. Colaborar en la ejecución de la política, estrategia, líneas de acción y sistemas técnicos a que debe sujetarse la planeación urbana y ordenamiento territorial;
+
+VIII. Coordinar la elaboración de los proyectos estratégicos urbanos, conforme a lo previsto en la normatividad aplicable;
+
+IX. Coordinarse con las autoridades competentes para proponer las normas y proyectos para la ejecución de las obras en sitios y monumentos del patrimonio cultural de su competencia;
+
+X. Vigilar el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en la Ley de Desarrollo Urbano de la Ciudad de México, y demás disposiciones en la materia;
+
+XI. Participar en la integración de las propuestas de expropiación, ocupación temporal y de limitación de los derechos de dominio en la Ciudad de México;
+
+XII. Coordinar los estudios y evaluaciones necesarias para proponer la adquisición de las reservas territoriales para el desarrollo urbano, con base en un programa de corto, mediano y largo plazo, así como dictaminar la desincorporación de inmuebles del patrimonio de la Ciudad de México;
+
+XIII. Apoyar en el diseño de los mecanismos e instrumentos técnicos y administrativos de fomento para el desarrollo urbano en general;
+
+XIV. Coadyuvar en la determinación del pago de las afectaciones y expropiaciones que se realicen por causa de utilidad pública, en temas de su competencia;
+
+XV. Incentivar la inversión inmobiliaria, tanto del sector público como el privado, para el equipamiento, los servicios y la instrumentación de los programas que deriven del Programa General de Ordenamiento Territorial de la Ciudad de México y demás disposiciones aplicables;
+
+XVI. Apoyar en la coordinación de las actividades de las comisiones que se conformen para el establecimiento oficial de límites territoriales y nomenclaturas de vías públicas, espacios públicos y colonias;
+
+XVII. Coordinar las acciones necesarias para el registro y supervisión de las actividades de Peritos en Desarrollo Urbano, Peritos Responsables de la Explotación de Yacimientos, Corresponsables en Instalaciones y Corresponsables en Diseño Urbano y Arquitectónico;
+
+XVIII. Conducir las acciones para autorizar y vigilar en colaboración con las autoridades competentes, los trabajos de explotación de yacimientos de arena, cantera, tepetate, piedra y arcilla; así como para revocar las autorizaciones y rehabilitar las zonas minadas para el desarrollo urbano;
+
+XIX. Observar que se emitan los dictámenes de los estudios de Impacto Urbano e Impacto Urbano Ambiental, que sean sometidos a consideración de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
+
+XX. Proponer a la persona titular de (sic) Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana los criterios técnicos, para realizar diagnósticos en materia de desarrollo urbano;
+
+XXI. Coadyuvar con la integración y actualización del sistema de información geográfica del patrimonio ambiental y urbano de la Ciudad de México, en coordinación con las dependencias y entidades competentes;
+
+XXII. Supervisar el funcionamiento y operación del Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México;
+
+XXIII. Participar en el diseño y ejecución en la política para el uso, aprovechamiento y explotación del espacio público en la Ciudad de México;
+
+XXIV. Brindar la información y datos sobre el patrimonio cultural y natural de la Ciudad de México, a la autoridad competente para su registro;
+
+XXV. Coordinar las acciones que le correspondan a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana respecto de publicidad exterior, de conformidad con lo previsto en la normatividad aplicable;
+
+XXVI. Coadyuvar las acciones para la ejecución y evaluación de las políticas, estrategias y acciones para la instalación, mantenimiento, distribución, permanencia y retiro de los medios publicitarios de su competencia;
+
+XXVII. Observar el cumplimiento de la normatividad aplicable para el otorgamiento y revocación de las licencias relativas a la instalación de los medios publicitarios;
+
+XXVIII. Supervisar los procesos para la determinación de los corredores publicitarios; y
+
+XXIX. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+Artículo 31 TER.- Corresponde a la Subsecretaría de Coordinación Metropolitana:
+
+I. Acordar con la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México;
+
+II. Auxiliar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en la gestión y coordinación de las relaciones de carácter metropolitano con los organismos y poderes públicos locales y federales, así como con los gobiernos de las Alcaldías y los órganos de representación ciudadana;
+
+III. Participar con las autoridades competentes en el proceso de la planeación metropolitana, y regional, en representación de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
+
+IV. Auxiliar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en las acciones de representación del Gobierno de la Ciudad de México para la coordinación metropolitana y regional, con los actores del sector público, social y privado;
+
+V. Apoyar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en las acciones de representación de la Administración Pública de la Ciudad de México ante los diversos mecanismos de coordinación metropolitana y regional, en términos de lo dispuesto por los convenios y demás instrumentos jurídicos;
+
+VI. Analizar y proponer reformas al marco normativo y modificaciones a los instrumentos y programas de intercambio, para recomendar líneas de acción de coordinación metropolitana y regional;
+
+VII. Impulsar la suscripción de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación vigente sobre coordinación metropolitana y regional;
+
+VIII. Promover la realización de estudios y proyectos técnicos que propicien formas eficientes de coordinación metropolitana y regional con los distintos órdenes de gobierno que inciden en la Ciudad de México;
+
+IX. Impulsar con los distintos órdenes de gobierno, el desarrollo de proyectos estratégicos en materia de coordinación metropolitana y regional;
+
+X. Fomentar la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana y regional;
+
+XI. Elaborar la cartera de proyectos en materia de coordinación metropolitana, y regional, a cargo de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
+
+XII. Hacer el seguimiento de los proyectos que integran las políticas en materia de coordinación metropolitana y regional, e impulsar la evaluación de sus resultados;
+
+XIII. Participar en los grupos de trabajo que se generen con motivo de la coordinación metropolitana y regional, así como dar seguimiento a los compromisos que surjan de los mismos;
+
+XIV. Proponer mejoras en el diseño de políticas públicas y procesos intergubernamentales para resolver problemas públicos en el ámbito metropolitano y regional; y
+
+XV. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
 
 ###### Artículo 31.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-#### SECCIÓN V. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN VI. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+#### SECCIÓN IV. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+#### SECCIÓN V. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
 ###### Artículo 32.
 
@@ -1830,23 +1932,21 @@ XXVII Bis. Dirigir, coordinar, supervisar y evaluar la actividad institucional d
 
 XXVIII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
-#### SECCIÓN VII. DE LA SECRETARÍA DE MOVILIDAD
+#### SECCIÓN VI. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
 
 ###### Artículo 34.
 
 (DEROGADO, G.O. 16 DE FEBRERO DE 2023)
 
-#### SECCIÓN VIII. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
+#### SECCIÓN VII. DE LA SECRETARÍA DE MOVILIDAD
 
-#### SECCIÓN IX. DE LA SECRETARÍA DE SALUD
+#### SECCIÓN VIII. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
 ###### Artículo 35.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-#### SECCIÓN I. JEFATURA DE GOBIERNO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
+#### SECCIÓN IX. DE LA SECRETARÍA DE SALUD
 
 ###### Artículo 36.
 
@@ -1970,9 +2070,9 @@ XVI. Participar en comités técnicos en materias relativas al desarrollo integr
 
 XVII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
 
-#### SECCIÓN II. DE LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN I. JEFATURA DE GOBIERNO
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
 
 ###### Artículo 38.
 
@@ -2018,7 +2118,9 @@ VII. Proponer a la persona titular de la Secretaría, los proyectos de iniciativ
 
 VIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos administrativos correspondientes o la persona Titular de la Secretaría.
 
-#### SECCIÓN III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+#### SECCIÓN II. DE LA SECRETARÍA DE GOBIERNO
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 40.
 
@@ -2070,7 +2172,7 @@ XXII. Evaluar la atención integral a distancia de los solicitantes de servicios
 
 XXIII. Las demás que señalen las disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL
+#### SECCIÓN III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
 ### CAPÍTULO IV
 
@@ -2118,9 +2220,7 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
-#### SECCIÓN V. DE LA SECRETARÍA DE CULTURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
+#### SECCIÓN IV. DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL
 
 ###### Artículo 42.
 
@@ -2562,7 +2662,9 @@ XXXVII. Las demás que le señalen las disposiciones jurídicas y/o administrati
 
 (DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
-#### SECCIÓN VI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+#### SECCIÓN V. DE LA SECRETARÍA DE CULTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
 
 ###### Artículo 50.
 
@@ -2784,73 +2886,7 @@ VIII. Las demás que se deriven de otras disposiciones legales y las que le asig
 
 (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-Artículo 64 BIS.- Corresponde a la Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales:
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-I. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental en el despacho de los asuntos que guarden relación con los Gobiernos de las Entidades Federativas y sus poderes legislativos, así como los Municipios que colindan con la Ciudad, en los asuntos que correspondan a su ámbito de competencia;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-II. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental en el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-III. Dar seguimiento a los convenios suscritos entre el Gobierno de la Ciudad y los gobiernos de las Entidades Federativas que colindan con la Ciudad;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-IV. Apoyar en el diseño e instrumentación de los mecanismos de planeación metropolitana de la Ciudad;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-V. Coordinar los trabajos técnicos y coadyuvar en las actividades en materia de límites territoriales, en términos de las disposiciones jurídicas y administrativas aplicables;
-
-VI. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-VII. Coordinar la elaboración y revisión de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación aplicable sobre coordinación metropolitana;
-
-VIII. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-IX. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-X. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-XI. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-XII. Coadyuvar en la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
-
-XIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
-
-XIV. (DEROGADA, G.O. 16 DE AGOSTO DE 2021)
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-XV. Asistir a la persona titular de la Subsecretaría en las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
-
-XVI. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-XVII. Coadyuvar con la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, en el establecimiento de vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados y Municipios limítrofes con la Ciudad;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-XVIII. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental en el establecimiento de enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales para fortalecer las relaciones con la Administración Pública de la Ciudad; y
-
-XIX. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-XX. (DEROGADA, G.O. 1 DE OCTUBRE DE 2021)
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-XXI. Las demás que se deriven de otras disposiciones legales aplicables y las que le sean conferidas por sus superiores jerárquicos.
+Artículo 64 BIS.- (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
 
 ###### Artículo 65.
 
@@ -3068,7 +3104,7 @@ XIV. Analizar la problemática a la que se enfrenten los grupos y núcleos agrar
 
 XV. Las demás que le atribuyan otras disposiciones legales y administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
-#### SECCIÓN VII. DE LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA
+#### SECCIÓN VI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 71.
 
@@ -5082,11 +5118,11 @@ XX. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, 
 
 XXI. Las demás que le sean conferidas por la persona titular de la Secretaría de Administración y Finanzas, por sí o por conducto de alguna de las Subsecretarías.
 
+#### SECCIÓN VII. DE LA SECRETARÍA DE PLANEACIÓN, ORDENAMIENTO TERRITORIAL Y COORDINACIÓN METROPOLITANA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
 #### SECCIÓN VIII. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
-
-#### SECCIÓN IX. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 130.
 
@@ -5502,9 +5538,9 @@ XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que c
 
 XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las direcciones generales de Coordinación de Órganos Internos de Control, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo adscritas; así como las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN X. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+#### SECCIÓN IX. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 137.
 
@@ -5760,7 +5796,9 @@ V. Elaborar informes anuales sobre los resultados de las acciones en materia de 
 
 VI. Proponer todos los mecanismos e instrumentos tendientes a la protección de los derechos culturales que le competan a la Secretaría, a fin de orientar las políticas públicas en materia de cultura, atendiendo a todas las disposiciones legales que así lo dispongan.
 
-#### SECCIÓN XI. DE LA SECRETARÍA DEL MEDIO AMBIENTE
+#### SECCIÓN X. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 144.
 
@@ -6118,223 +6156,425 @@ XIII. Fomentar la capacitación especializada de técnicos en el área de eficie
 
 XIV. Los demás que le atribuyan las leyes y otros ordenamientos.
 
-#### SECCIÓN XII. DE LA SECRETARÍA DE MOVILIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN XI. DE LA SECRETARÍA DEL MEDIO AMBIENTE
 
 ###### Artículo 153.
 
-(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
+Corresponde a la Dirección General de Política Urbanística:
 
-> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+I. Aplicar los programas y demás instrumentos de planeación del desarrollo urbano, del ordenamiento urbano, las políticas y estrategias en la materia, así como coordinar y evaluar su ejecución y resultados;
+
+II. Aprobar los planos oficiales que contendrán la determinación de vía pública y su nomenclatura, el alineamiento, los derechos de vía, la traza urbana y sus modificaciones;
+
+III. Coordinar la formulación de los requisitos, formatos, procedimientos y manuales necesarios para el trámite de permisos, licencias, autorizaciones, dictámenes, certificados, constancias, previstos en la Ley de Desarrollo Urbano de la Ciudad de México y en los Reglamentos aplicables en la materia;
+
+IV. Integrar las comisiones que se establezcan en materia de desarrollo urbano, así como del ordenamiento territorial, en los términos que dispongan las leyes aplicables;
+
+V. Registrar, operar y actualizar el padrón de Peritos en Desarrollo Urbano, Peritos Responsables de la Explotación de Yacimientos, Corresponsables en Instalaciones y Corresponsables en Diseño Urbano y Arquitectónico;
+
+VI. Coadyuvar con las instancias competentes en la supervisión de las actividades de los Peritos en Desarrollo Urbano, Peritos Responsables de la Explotación de Yacimientos, Corresponsables en Instalaciones y Corresponsables en Diseño Urbano y Arquitectónico;
+
+VII. Evaluar y proponer la adquisición de reserva territorial necesaria para el desarrollo urbano, el equilibrio ecológico y el ordenamiento territorial de la Ciudad de México, e integrar su inventario;
+
+VIII. Autorizar la explotación de minas, canteras y yacimientos pétreos, la cual contendrá las normas técnicas correspondientes, así como coadyuvar en la vigilancia de los trabajos de explotación respectivos;
+
+IX. Detectar zonas de la Ciudad de México con problemas de inestabilidad en el subsuelo para su regeneración y aprovechamiento urbano;
+
+X. Coadyuvar con las autoridades competentes en el análisis de estudios que permitan determinar la atención de los asentamientos humanos irregulares y las condiciones que deban observarse para su reconocimiento;
+
+XI. Emitir dictamen sobre la condición urbana de los inmuebles que sean materia de asignación o desincorporación respecto del patrimonio de la Ciudad de México, el cual incluirá zonificación, límites, alineamiento, restricciones y/o afectaciones por proyectos viales y demás que permitan la individualización de cada uno de ellos;
+
+XII. Intervenir en la transmisión a título gratuito de propiedad de los inmuebles que los particulares hagan a favor del patrimonio de la Ciudad de México, en los términos de la Ley de Desarrollo Urbano de la Ciudad de México, y que será destinada para reserva territorial para el desarrollo urbano, el equilibrio ecológico y el ordenamiento territorial de la Ciudad de México;
+
+XIII. Prestar a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México el apoyo necesario para la obtención de los requisitos establecidos en la normatividad aplicable, con la finalidad de llevar a cabo afectaciones viales o expropiaciones de bienes inmuebles;
+
+XIV. Participar en el procedimiento de asignación y desincorporación de inmuebles del patrimonio inmobiliario de la Ciudad de México;
+
+XV. Coadyuvar con las autoridades competentes en la regularización territorial de la tenencia de la tierra, en el ámbito de su competencia;
+
+XVI. Asesorar a las Alcaldías en la celebración de los actos administrativos relacionados con la competencia de esta Dirección General;
+
+XVII. Establecer mecanismos para supervisar los actos administrativos de las Alcaldías y las manifestaciones de construcción emitidas por las mismas, para vigilar el cumplimiento de los programas, las leyes en materia de desarrollo urbano y de la normatividad en la materia;
+
+XVIII. Analizar el Estudio de Impacto Urbano y Ambiental para la emisión del Dictamen de Impacto correspondiente;
+
+XIX. Gestionar ante las Unidades Administrativas correspondientes y las Alcaldías, las opiniones de factibilidad de servicios ambientales, en materia de agua, movilidad, riesgo y protección civil, entorno urbano y las demás que se requieran para la emisión del Dictamen de Impacto correspondiente;
+
+XX. Coordinar las actividades de las comisiones que se conformen para el establecimiento oficial de límites territoriales y nomenclaturas de vías públicas, espacios públicos y colonias;
+
+XXI. Expedir las licencias de construcción especial y sus revalidaciones, cuando se trata de obras que se realicen en el espacio público o requieran del otorgamiento de permisos administrativos temporales revocables; cuando la obra se ejecute en un predio ubicado en el límite territorial de dos o más Alcaldías;
+
+XXII. Expedir las constancias o licencias de fusión, subdivisión o relotificación y sus revalidaciones, así como sus exenciones, de conformidad con la normatividad aplicable;
+
+XXIII. Registrar los avisos de obra, manifestaciones, sus revalidaciones y avisos de terminación de obra, así como expedir las autorizaciones de uso y ocupación, cuando se trate de obras que se realicen en el espacio público o requieran del otorgamiento de permisos administrativos temporales revocables; cuando sea para proyectos de obra pública local o federal promovidos por la Administración Pública local o federal que se desarrollen en la Ciudad de México; cuando la obra se ejecute en un predio ubicado en el límite territorial de dos o más Alcaldías; se realice o se relacione con la Ciudad de México o se ejecute por la Administración Pública;
+
+XXIV. Emitir a los interesados la opinión que permita conocer la afectación o no, respecto de inmuebles de su propiedad, derivadas de expropiaciones y/o proyectos de vía pública; y
+
+XXV. Las demás que le instruya la persona titular de la Secretaría y Subsecretaría, así como las previstas en otras leyes y ordenamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 153 Bis.
 
-Corresponde a la persona Titular de la Comisión para la Reconstrucción de la Ciudad de México:
+Corresponde a la Dirección General del Ordenamiento Urbano:
 
-I. Coordinar, evaluar, ejecutar y dar seguimiento a las acciones contempladas en la Ley para la Reconstrucción Integral de la Ciudad de México y Plan Integral para la Reconstrucción de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-II. Coordinar las acciones que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías, realicen con motivo de la demolición, rehabilitación, y/o reconstrucción de infraestructura, equipamiento y vivienda, afectados por el sismo a que se refiere la Ley para la Reconstrucción Integral de la Ciudad de México.
+I. Realizar proyectos relacionados con el desarrollo urbano y ordenamiento territorial, así como participar con las autoridades competentes en la elaboración del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial, los de las Alcaldías, Programas Parciales; así como el Programa de Gobierno de la Ciudad de México, programas sectoriales, programas especiales e institucionales, y demás instrumentos en materia de planeación que resulten aplicables;
 
-III. Nombrar a los subcomisionados en términos de la Ley para la Reconstrucción Integral de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-IV. Coordinar y dar seguimiento a los trabajos realizados por los subcomisionados, el Comité Científico y de Grietas, la Mesa Técnica, la Mesa Legal, el Comité de Transparencia y el Consejo Consultivo, órganos colegiados contemplados en la Ley de Reconstrucción Integral de la Ciudad de México;
+II. Proponer y participar en materia de desarrollo urbano y ordenamiento territorial en la elaboración de Planes Maestros y Planes de Manejo de conformidad con la normatividad aplicable;
 
-V. Llevar a cabo las acciones de mando y coordinación para alcanzar los objetivos establecidos en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VI. Representar a la Comisión para la Reconstrucción ante las instancias públicas y/o privadas en materia de reconstrucción de conformidad con lo establecido en la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México, así como dar seguimiento a los acuerdos que en su caso se establezcan;
+III. Coadyuvar en la definición de lineamientos normativos, en materia de ordenamiento territorial, aplicables en la Ciudad de México, Zona Metropolitana y Región Centro del país;
 
-VII. Celebrar, suscribir y expedir los instrumentos, actos jurídicos y/o administrativos necesarios para el cumplimiento de sus atribuciones, así como para llevar a cabo, en su caso, las acciones legales que se deriven de éstos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VIII. Gestionar la obtención de recursos o fuentes de financiamiento público y/o privado, para la ejecución de acciones definidas en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México;
+IV. Establecer criterios y estrategias de control para el mejoramiento del paisaje urbano en la Ciudad de México;
 
-IX. Realizar el seguimiento y evaluación del proceso de Reconstrucción, su ejecución y los resultados obtenidos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-X. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales, de conformidad con la normativa aplicable;
+V. Coadyuvar y participar en la formulación, seguimiento y evaluación con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, en la aplicación de las leyes y normatividad que corresponda en la Ciudad de México, en materia de desarrollo urbano y del ordenamiento territorial, así como del Plan General de Desarrollo de la Ciudad de México, Programa General de Ordenamiento Territorial, programas territoriales, parciales, sectoriales y demás instrumentos aplicables;
 
-XI. Coordinar y conducir las reuniones que se lleven a cabo con motivo de las acciones, avances, y/o temas relacionados con el proceso de Reconstrucción;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XII. Coordinar las acciones de seguimiento técnico y supervisión de la correcta ejecución de las obras de demolición, rehabilitación y/o reconstrucción que se lleven a cabo en los inmuebles afectados por el sismo;
+VI. Vigilar a sus Unidades Administrativas de Apoyo Técnico-Operativo, en la aplicación y el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en la Ley de Desarrollo Urbano de la Ciudad de México y demás disposiciones en la materia;
 
-XIII. Establecer los mecanismos y llevar a cabo las acciones que se requieran para que ningún proceso de reconstrucción de inmuebles afectados se suspenda o retrase con motivo de la acreditación de la propiedad;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XIV. Coordinar los trabajos de la mesa legal para resolver de manera conjunta y, en su caso, canalizar a las instancias competentes los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
+VII. Analizar y proponer las normas que regulen el ordenamiento territorial en las áreas y sectores específicos de la Ciudad de México, para su presentación ante las instancias gubernamentales y/o intergubernamentales correspondientes;
 
-XV. Establecer el mecanismo para conformar el Censo de las personas damnificadas, con la finalidad de que pueda acceder a los beneficios de la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVI. Actualizar o modificar el Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
+VIII. Proponer lineamientos para el desarrollo urbano y el ordenamiento territorial, así como la definición de políticas, estrategias, normas e instrumentos, que regulen las acciones del ámbito local, metropolitano y regional, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para garantizar un ordenamiento urbano que responda a las limitantes y áreas de oportunidad en territorios específicos;
 
-XVII. Solicitar informes a las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, la mesa legal y órganos colegiados que participen en el proceso de Reconstrucción;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Coordinar, las acciones para la integración y administración del padrón de personas damnificadas desplazadas de sus viviendas a causa del sismo, para el pago de apoyo de renta en términos del Plan Integral para la Reconstrucción de la Ciudad de México;
+IX. Participar en la definición de las políticas de desarrollo urbano y ordenamiento territorial orientadas al crecimiento urbano, en el ámbito local, metropolitano y regional, en beneficio de la población de la Ciudad de México;
 
-XIX. Realizar acuerdos con las Cámaras, Colegios y/o empresas que intervienen en el proceso de Reconstrucción, con la finalidad de conciliar los costos más bajos, en beneficio de las personas damnificadas;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XX. Implementar mecanismos para seleccionar, organizar y asignar a las empresas demoledoras, proyectistas, constructoras y supervisoras que participen en el proceso de Reconstrucción en beneficio de las personas damnificadas;
+X. Coordinar los sistemas de actuación y proponer a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana su procedencia o improcedencia;
 
-XXI. Gestionar los recursos necesarios para atender las acciones del proceso de Reconstrucción en términos de la Ley para la Reconstrucción Integral de la Ciudad de México, el Plan Integral para la Reconstrucción de la Ciudad de México, y conforme a los mecanismos establecidos en las Reglas de Operación que apruebe el Fideicomiso para la Reconstrucción Integral de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XXII. Fungir como Secretaria (o) Técnica (o) del Comité Técnico del Fideicomiso para la Reconstrucción Integral de la Ciudad de México;
+XI. Coordinar los Sistemas de Actuación por Cooperación y proponer a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, su procedencia o improcedencia;
 
-XXIII. Coordinar las acciones para determinar las soluciones sobre los tipos de intervención de inmuebles dañados por el sismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XXIV. Resolver, gestionar o proponer soluciones a las cuestiones sociales y/o técnicas u otras relacionadas con el Proceso de Reconstrucción que no se encuentra prevista en la Ley, con la finalidad de que éste no se retrase; y
+XII. Inscribir en el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México, los instrumentos y demás actos relativos al desarrollo urbano y ordenamiento territorial de la Ciudad de México;
 
-XXV. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o que sean necesarias para el cumplimiento de su objeto;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+XIII. Integrar y operar el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIV. Expedir los certificados de zonificación previstos en la Ley de Desarrollo Urbano, su Reglamento y demás normatividad aplicable en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XV. Orientar a los particulares respecto a la presentación y seguimiento de modificación a los programas de desarrollo urbano para predios específicos en el ámbito de sus atribuciones;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVI. Integrar expedientes sobre cambios de uso del suelo en predios particulares y públicos, así como emitir proyectos de resolución para consideración de la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana de conformidad con el procedimiento señalado en la ley de la materia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVII. Elaborar en el ámbito de su competencia el proyecto de tabla de compatibilidades de los usos de suelo y remitirlo a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana para su aprobación;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Dictaminar en el ámbito de sus atribuciones las solicitudes de constitución de polígonos de actuación o de aplicación del sistema de transferencia de potencialidades del desarrollo urbano en los que se proponga la procedencia o improcedencia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIX. Elaborar estudios e informes, así como emitir dictámenes sobre la aplicación de los instrumentos de planeación en materia de desarrollo urbano y ordenamiento territorial;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XX. Aplicar la normatividad vigente en materia de Patrimonio Cultural Urbano y Espacio Público en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXI. Implementar y ejecutar acciones para la conservación, el fomento y acrecentamiento del patrimonio cultural urbano en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXII. Realizar estudios que permitan determinar acciones relativas a la planeación, generación, conservación, protección, consolidación, recuperación, restauración, acrecentamiento, investigación, identificación, catalogación y rehabilitación de los inmuebles relacionados con el Patrimonio Cultural Urbano, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondientes;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Coadyuvar en las visitas de supervisión, verificación y en el reconocimiento de hechos que realicen las autoridades competentes en materia de patrimonio cultural urbano, así como de espacio público;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Opinar y dictaminar sobre los proyectos arquitectónicos, urbanos y similares, sobre las acciones de intervención en las áreas de conservación patrimonial, los inmuebles afectos al Patrimonio Cultural Urbano, sus colindantes y elementos aislados dentro y fuera de las áreas de conservación patrimonial y zonas de monumentos históricos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXV. Proponer lineamientos y criterios de carácter general y observancia obligatoria, así como políticas para la puesta en valor, planeación, diseño, generación, conservación, protección, consolidación, recuperación, rehabilitación, restauración y acrecentamiento del Patrimonio Cultural Urbano en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Elaborar los certificados de restauración para los inmuebles declarados o catalogados por las instancias federales competentes o por la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, para la aplicación de reducciones fiscales previstas en el Código Fiscal de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Establecer los criterios que deberán observarse en los proyectos urbano-arquitectónicos en predios o inmuebles afectos al Patrimonio Cultural Urbano, colindantes a estos y/o ubicados en áreas de conservación patrimonial que incluyen las zonas de monumentos históricos, en coordinación con las instancias federales en el ámbito de su competencia, tales como el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, para su integración al contexto urbano;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVIII (SIC). Proponer y coadyuvar en el desarrollo de un marco normativo que permita ejecutar las acciones para la creación, recuperación, mantenimiento, acrecentamiento y protección del uso común del espacio público en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Dictaminar y emitir opiniones técnicas para los proyectos arquitectónicos en materia de espacio público, así como los referentes a la imagen urbana que se lleven a cabo en la Ciudad de México por particulares y por las autoridades competentes;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXX. Desarrollar estudios que permitan la ampliación de la cobertura de espacios públicos, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondientes;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Coadyuvar en el desarrollo de lineamientos y criterios de diseño de observancia obligatoria, bajo los principios de seguridad, accesibilidad, sustentabilidad e inclusión; en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondientes; para la planeación y diseño de los espacios públicos de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXII. Otorgar asesoría técnica en materia de espacio público a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, así como a particulares;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXIII. Autorizar el emplazamiento o reubicación del mobiliario urbano en el territorio de la Ciudad de México, con fundamento en la normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Analizar y evaluar los proyectos de mobiliario urbano, para presentarlos ante la comisión que corresponda;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXV. Integrar y mantener actualizado el inventario del mobiliario urbano;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. Hacer del conocimiento de las autoridades competentes el emplazamiento irregular del mobiliario urbano, para que éstas en el ámbito de sus atribuciones realicen las acciones que conforme a derecho corresponda;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXVII. Gestionar las herramientas en tecnologías de la información y comunicaciones, que apoyen técnicamente la operación de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, y los servicios para la atención a la Ciudadanía;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXVIII. Coadyuvar con las instancias competentes en el establecimiento de las políticas, lineamientos y estándares para la integración de la cartografía digital y la georreferenciación del territorio de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXXIX. Participar en el ámbito de sus atribuciones, intra e interinstitucionalmente, en la generación, acopio o intercambio de información geoestadística necesaria para la operación de las aplicaciones y sistemas en operación;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XL. Supervisar la compilación y normalización de la información en materia de desarrollo urbano y ordenamiento territorial de la Ciudad de México de fuentes oficiales para que pueda ser operada a través de los sistemas de información;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XLI. Proponer con las autoridades competentes del Gobierno de la Ciudad de México los estándares cartográficos, así como las aplicaciones tecnológicas de Geomática para lograr la interoperabilidad de los sistemas;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XLII. Desarrollar, implementar, operar y actualizar los sistemas de información que establezca la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana para proporcionar elementos de planeación, operación, gestión y toma de decisiones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XLIII. Las demás que le instruya la persona titular de la Secretaría y Subsecretaría, así como las previstas en otras leyes y ordenamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 153 Ter.
 
-Corresponde a la Dirección General de Atención a Personas Damnificadas:
+Corresponde a la Dirección General de Publicidad Exterior:
 
-I. Dirigir, organizar, planificar y coordinar las acciones de atención a personas damnificadas contempladas en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-II. Dirigir la ventanilla única de atención a las personas damnificadas por el sismo en términos de la normativa aplicable;
+I. Participar en la coordinación, ejecución y evaluación de las políticas, estrategias y acciones para la instalación, mantenimiento, distribución, permanencia y retiro de los medios publicitarios de su competencia;
 
-III. Informar a las personas damnificadas por el sismo sobre los requisitos y lineamientos generales para acceder a los derechos de la Reconstrucción y brindarles acompañamiento durante su proceso;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-IV. Planear y coordinar la atención de personas damnificadas en las diferentes zonas territoriales en las que se dividió la atención ciudadana;
+II. Proponer proyectos de disposiciones legales y reglamentarias en materia de publicidad exterior, así como sus reformas;
 
-V. Coordinar e instalar los módulos de orientación y atención en las zonas con mayor afectación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VI. Integrar el censo de las personas damnificadas por el sismo de manera conjunta con la Dirección General Operativa, en términos de la normativa aplicable:
+III. Establecer los lineamientos para conservar en forma ordenada y sistemática toda la documentación que genere la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana con motivo del ejercicio de las atribuciones que le confiere la Ley de Publicidad Exterior de la Ciudad de México, su reglamento y demás normatividad aplicable;
 
-VII. Resolver las solicitudes de atención de las personas damnificadas por el sismo, así como los casos cuya complejidad social requiera una atención especial;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VIII. Organizar y dirigir las asambleas y/o reuniones informativas en las colonias, barrios, pueblos u otros y de vivienda multifamiliar sobre sus proceso (sic) de Reconstrucción;
+IV. Conducir la integración del expediente electrónico de los publicistas asociados con lo relativo a los medios publicitarios de su competencia; lo anterior, en términos de lo establecido en la Ley de Ciudadanía Digital de la Ciudad de México;
 
-IX. Coordinar con las dependencias, órganos desconcentrados, entidades y alcaldías, la programación y organización de jornadas notariales y asesoría legales sobre acreditación de propiedad, posesión legítima o causahabientes de personas damnificadas por el sismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-X. Integrar de manera conjunta con la Dirección General Operativa, los expediente (sic) únicos de las personas damnificadas por el sismo y las carpetas de inmuebles de vivienda multifamiliar en términos de la normativa aplicable;
+V. Autorizar las licencias para la instalación de medios publicitarios previstos en el artículo 28 fracción III de la Ley de Publicidad Exterior de La Ciudad de México, conforme a lo dispuesto en la misma, su reglamento y demás normatividad aplicable;
 
-XI. Promover y difundir las acciones de Reconstrucción con instituciones, organismos públicos y privados, y otros sectores de la sociedad civil para que coadyuven en el proceso de Reconstrucción;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XII. Participar y dar seguimiento a los acuerdos que en materia de Reconstrucción se tomen con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, ciudadanías e iniciativa privada;
+VI. Determinar la revocación de las licencias otorgadas para la instalación de medios publicitarios conforme a lo dispuesto en esta Ley de Publicidad Exterior de la Ciudad de México, su reglamento y demás normatividad aplicable;
 
-XIII. Promover las (sic) resolución de conflictos entre personas damnificadas y/o comunidades afectadas, que impidan el avance del proceso de Reconstrucción, a través de los mecanismos alternativos para la solución de conflictos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XIV. Realizar un diagnóstico de la situación legal de los inmuebles afectados.
+VII. Integrar la información de la emisión y revocación de las licencias, así como de las resoluciones judiciales o administrativas que establezcan derechos respecto de medios publicitarios o las dejen sin efectos, que deba ser reportada al Instituto de Verificación Administrativa de la Ciudad de México y a la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México a través de la Plataforma Digital de Publicidad Exterior de la Ciudad de México;
 
-XV. Dar seguimiento a la Mesa Legal para resolver de manera conjunta los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVI. Impulsar acciones comunitarias para el mejoramiento de barrios y/o pueblos afectados por el sismo a que refiere la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México.
+VIII. Proponer las visitas de verificación administrativa y, en su caso, la imposición de medidas cautelares y de seguridad que deba realizar el Instituto de Verificación Administrativa de la Ciudad de México y las Alcaldías en el ámbito de sus respectivas competencias;
 
-XVII. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y/o Comunidades Indígenas Residentes;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas que se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Naturales Protegidas; y
+IX. Integrar la información de las licencias emitidas por la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, incluyendo los datos de ubicación de los medios publicitarios, que deba ser actualizada en la Plataforma Digital de Publicidad Exterior de la Ciudad de México, así como la del Registro de Publicistas, de conformidad con la normatividad aplicable;
 
-XIX. Implementar, en su caso, las acciones de coordinación y/o colaboración con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, sociedad civil y/o academia para atender el estrés postraumático de las personas y familias afectadas por el sismo a que se refiere la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XX. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+X. Determinar los requerimientos para la ejecución de los trabajos de conservación y mantenimiento de los medios publicitarios instalados que sean necesarios para garantizar la seguridad de las personas y sus bienes, de conformidad con lo dispuesto en la Ley de Publicidad Exterior de la Ciudad de México, su reglamento y la normativa en materia de construcciones;
 
-XXI. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o que sean necesarias para el cumplimiento de su objeto;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+XI. Proponer a las dependencias y autoridades correspondientes el retiro de los materiales relacionados con los medios publicitarios abandonados;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XII. Conducir las relaciones de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana con otras dependencias, órganos o entidades de la Administración Pública de la Ciudad de México y Alcaldías para el ejercicio de sus atribuciones en materia de publicidad exterior, de conformidad con lo previsto en la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIII. Evaluar y dar visto bueno para la determinación de los corredores publicitarios.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIV. Participar en la determinación de la distribución de los espacios respectivos para la instalación de los medios publicitarios en los corredores publicitarios;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XV. Emitir dictámenes respecto de las solicitudes para la colocación de medios publicitarios ubicados en Áreas de Conservación Patrimonial, Áreas de Valor Ambiental y Áreas Naturales Protegidas o en Suelos de Conservación e inmuebles afectos al Patrimonio Cultural Urbano de la Ciudad de México, de conformidad con la Ley de Publicidad Exterior, su reglamento y demás normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVI. Coadyuvar en las denuncias correspondientes cuando tenga conocimiento de hechos que puedan constituir algún delito en materia de publicidad exterior, así como en las acciones civiles por posibles daños al erario o bienes públicos en contra de las personas responsables de la instalación de medios publicitarios sin contar con la licencia, permiso o autorización que corresponda;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVII. Determinar la inscripción de los interesados en el Registro de Publicistas, previa solicitud de éstos y en cumplimiento con lo dispuesto en la Ley de Publicidad Exterior de la Ciudad de México, su reglamento y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Proponer la suspensión o revocación en el registro de publicistas en los casos que se acrediten irregularidades graves, se generen daños o se cometa alguna infracción en esta materia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIX. Llevar el registro de las personas titulares de licencias que deberán ceder el porcentaje de sus medios publicitarios a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana para difusión de publicidad institucional, de conformidad con lo previsto en la Ley de Publicidad Exterior de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XX. Proponer y actualizar el manual ilustrado que incluirá textos, fotografías, infografías y/o dibujos de los medios publicitarios permitidos de conformidad con la Ley de Publicidad Exterior de la Ciudad de México y su reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXI. Integrar el Catálogo Oficial de las Licencias, Permisos y Autorizaciones otorgadas conforme a lo previsto en la Ley de Publicidad Exterior de la Ciudad de México; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXII. Las demás que le instruya la persona titular de la Secretaría y Subsecretaría, así como las previstas en otras leyes y ordenamientos.
 
 ###### Artículo 153 Quater.
 
-Corresponde a la Dirección General Operativa:
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
 
-I. Dirigir, organizar, planificar y coordinar las acciones de inspección, dictaminación, demolición, rehabilitación, reconstrucción, seguimiento técnico y supervisión de obras de vivienda, equipamiento y/o infraestructura afectada por el sismo en términos de la normativa aplicable;
-
-II. Revisar y dar visto bueno a los proyectos ejecutivos y programas de obra, de las obras que se realicen como parte del proceso de Reconstrucción, así como llevar a cabo el seguimiento técnico de éstas;
-
-III. Integrar el padrón de empresas que participen en el proceso de Reconstrucción, y organizarlas en función de las necesidades en el territorio para la dictaminación, demolición, reconstrucción y/o rehabilitación de vivienda afectada.
-
-IV. Vigilar que las empresas contratadas para la ejecución y supervisión de las obras que se realicen como parte del proceso de Reconstrucción, cumplan con las obligaciones a su cargo;
-
-V. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
-
-VI. Gestionar las constancias de Derechos Adquiridos y de Redensificación;
-
-VII. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en pueblos, barrios y colonias u otros;
-
-VIII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de las personas damnificadas por el sismo y las carpetas de inmuebles de vivienda multifamiliar;
-
-IX. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el Censo de las personas damnificadas por el sismo;
-
-X. Establecer las relaciones interinstitucionales necesarias con las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, para la atención y seguimiento técnico de las obras que se realicen como parte del Proceso de Reconstrucción;
-
-XI. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión para la Reconstrucción de la Ciudad de México, velando siempre por el beneficio de las personas damnificadas;
-
-XII. Llevar a cabo el seguimiento con el Instituto de Vivienda de la Ciudad de México, de las acciones que en materia de Reconstrucción realice para la atención de las personas damnificadas por el sismo;
-
-XIII. Coordinar las acciones de seguimiento y evaluación del proceso de Reconstrucción, así como las (sic) difusión a través del Portal para la Reconstrucción;
-
-XIV. Coordinar los mecanismos para dar seguimiento del gasto ejercido en proyectos, obras y apoyos para rentas, de conformidad con la normativa y disposiciones aplicables;
-
-XV. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
-
-XVI. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas que se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Naturales Protegidas; y
-
-XVII. Coordinar las acciones del Comité Científico y de Grietas para determinar las zonas de riesgo y cuidar que las obras en dichas zonas cumplan con las medidas de mitigación y seguridad de que requieran:
-
-XVIII. Integrar y administrar el padrón de personas damnificadas desplazadas de sus (sic) vivienda a causa del sismo y gestionar el pago de apoyo para renta en términos del Plan Integral para la Reconstrucción de la Ciudad de México;
-
-XIX. Realizar la revisión de costos y alcances de las obras a ejecutar, a fin de edificar los recursos disponibles para la Reconstrucción.
-
-XX. Solicitar los recursos para atender las acciones del proceso de Reconstrucción en términos de la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
-
-XXI. Evaluar y determinar las soluciones sobre los tipos de intervención de inmuebles dañados por el sismo, así como resolver técnicamente los casos de procesos constructivos complejos que requieran una atención especial:
-
-XXII. Emitir las opiniones técnicas que le sean solicitadas en el marco de las acciones que se realicen en el proceso de Reconstrucción;
-
-XXIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
-
-XXIV. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o que sean necesarias para el cumplimiento de su objeto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 154.
 
-Corresponde a la Dirección General de Política Urbanística:
+Corresponde a la Dirección General de Regularización Territorial:
 
-I. Aplicar los programas y demás instrumentos de planeación del desarrollo urbano, las políticas y estrategias en la materia, así como coordinar y evaluar su ejecución y resultados;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-II. Aprobar los planos oficiales que contendrán la determinación de vía pública, el alineamiento, los números oficiales, los derechos de vía y las modificaciones de la traza urbana;
+I. Promover y apoyar las acciones de regularización de la tenencia de la tierra en la Ciudad de México, así como ejecutar los programas que se deriven, con la colaboración de las Alcaldías y los habitantes de las demarcaciones territoriales;
 
-III. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-IV. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
+II. Asesorar a los habitantes en materia de regularización de la tenencia de la tierra en la Ciudad de México para la resolución de los problemas relacionados con la misma;
 
-V. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VI. Coordinar la formulación de los requisitos, formatos, procedimientos y manuales necesarios para el trámite de permisos, licencias, autorizaciones, dictámenes y certificados previstos en la Ley de Desarrollo Urbano de la Ciudad de México y en sus Reglamentos;
+III. Proporcionar, a solicitud de las personas Titulares de las Alcaldías, los elementos técnicos disponibles para evitar la invasión de los predios y para que obtengan su desalojo, mediante el ejercicio de las acciones judiciales o administrativas que procedan;
 
-VII. Dictaminar las solicitudes sobre subsidios y reducciones fiscales en materia de desarrollo urbano y vivienda para su aplicación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VIII. Integrar las comisiones que se establezcan en materia de desarrollo urbano, en los términos que dispongan las leyes aplicables;
+IV. Llevar el registro de las colonias y zonas urbanas populares susceptibles de incorporarse a los programas de regularización;
 
-IX. Integrar, operar y actualizar el padrón de Peritos en Desarrollo Urbano y Peritos Responsables de la Explotación de Yacimientos Pétreos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-X. Proponer las adquisiciones de las reservas territoriales para el desarrollo urbano y el equilibrio ecológico de la Ciudad de México, e integrar el inventario de la reserva territorial;
+V. Ser el conducto de la Administración Pública ante la Secretaría de Desarrollo Agrario, Territorial y Urbano y el Instituto Nacional del Suelo Sustentable en los asuntos de su competencia;
 
-XI. Autorizar la explotación de minas, canteras y yacimientos pétreos, la cual contendrá las normas técnicas correspondientes, así como coadyuvar en la vigilancia de los trabajos de explotación respectivos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XII. Detectar zonas de la Ciudad de México con problemas de inestabilidad en el subsuelo, para su regeneración y aprovechamiento urbano;
+VI. Intervenir, dentro del ámbito de su competencia, en el otorgamiento y firma de escrituras públicas de los convenios y contratos que lo requieran;
 
-XIII. Coadyuvar con las autoridades competentes en la elaboración de estudios que permitan determinar el desalojo, o en su defecto, la consolidación de asentamientos humanos en suelo de conservación y las condiciones que deban observarse para dicha consolidación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XIV. Emitir dictamen sobre la condición urbana de los inmuebles que sean materia de asignación o desincorporación respecto del patrimonio de la Ciudad de México, el cual incluirá zonificación, riesgo, límites, alineamiento y número oficial, levantamiento topográfico y demás que permitan la individualización de cada uno de ellos;
+VII. Actuar cuando lo estime conveniente o a solicitud de parte interesada, como árbitro y conciliador en los conflictos inmobiliarios que se presenten en las colonias y zonas urbanas populares;
 
-XV. Intervenir en la transmisión de propiedad de los inmuebles que los particulares hagan a favor del patrimonio de la Ciudad de México en los términos de la Ley de Desarrollo Urbano de la Ciudad de México, e informar a la Secretaría de Administración y Finanzas de los actos administrativos que celebre con motivo de su intervención;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVI. Prestar a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en coordinación con la Dirección General de Asuntos Jurídicos, el apoyo necesario para llevar a cabo afectaciones viales o expropiaciones de bienes inmuebles y la integración del expediente técnico respectivo;
+VIII. Diagnosticar la factibilidad de los programas de regularización de la tenencia de la tierra;
 
-XVII. Participar en el procedimiento de asignación y desincorporación de inmuebles del patrimonio inmobiliario de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Coadyuvar con las autoridades competentes en la regularización territorial de la tenencia de la tierra, en el ámbito de su competencia;
+IX. Elaborar y proponer el proyecto técnico e integrar el expediente de expropiación por causa de utilidad pública, de aquellos predios donde se encuentren asentamientos humanos irregulares, salvo aquellos que sean de origen ejidal o comunal;
 
-XIX. Integrar y actualizar de manera permanente el inventario de la reserva territorial;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XX. Asesorar y supervisar a las Alcaldías en la celebración de los actos administrativos relacionados con la competencia de esta Dirección General;
+X. Asesorar y coordinar la instrumentación del pago de las escrituras públicas para coadyuvar al cumplimiento de los programas de regularización;
 
-XXI. Supervisar, y en su caso, hacer del conocimiento de las autoridades competentes presuntas irregularidades de los actos administrativos que celebren las Alcaldías en materia de desarrollo urbano, para que éstas en el ámbito de sus atribuciones realicen las acciones que conforme a derecho corresponda;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de asuntos de su competencia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XII. Participar en la Comisión Interinstitucional de la Regularización Territorial, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIII. Implementar el Sistema Integral de Información de Regularización Territorial, con el apoyo de las tecnologías de la información;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIV. Coordinar con la Consejería Jurídica y de Servicios Legales la integración de la información para constituir y actualizar el Sistema Integral de Información de Regularización Territorial;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XV. Llevar a cabo la Jornada Notarial en coordinación con el Colegio de Notarios de la Ciudad de México a través de la Consejería Jurídica y de Servicios Legales y con las autoridades fiscales y administrativas competentes; y
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVI. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
+
+XVII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XVIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XIX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 XXII. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-XXIII. Analizar los proyectos que requieren Estudio de Impacto Urbano para emitir su dictamen correspondiente;
+XXIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXIV. Gestionar ante las Unidades Administrativas correspondientes y las Alcaldías, las opiniones de factibilidad de servicios en materia de agua, movilidad, protección civil y las demás que se requieran;
+XXIV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 XXV. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
@@ -6344,161 +6584,217 @@ XXVII. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
 XXVIII. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-XXIX. Coordinar las actividades de las comisiones que se conformen para el establecimiento oficial de límites y nomenclaturas;
+XXIX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXX. Registrar las manifestaciones y licencias de construcción y sus prórrogas y avisos de terminación de obra, así como expedir las autorizaciones de uso y ocupación, cuando se trate de obras que se realicen en el espacio público o requieran del otorgamiento de permisos administrativos temporales revocables; cuando sea para vivienda de interés social o popular promovida por la Administración Pública de la Ciudad de México; cuando la obra se ejecute en un predio ubicado en dos o más Alcaldías o incida, se realice o se relacione con el conjunto de la Ciudad de México o se ejecute por la Administración Pública Centralizada, y
+XXX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXI. Las demás atribuciones que le asignen otros ordenamientos aplicables.
+XXXI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 155.
 
 Corresponde a la Dirección General de Asuntos Jurídicos:
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-I. Establecer, dirigir y coordinar las acciones y defensa jurídica de los intereses de la Secretaría de Desarrollo Urbano y Vivienda, para lo cual, podrá promover las acciones legales procedentes, presentar demandas, denuncias y cualquier promoción, así como los recursos y demás medios de defensa procedentes, incluyendo la demanda de amparo y su desistimiento, así como incidentes y cualquier promoción procedente durante la tramitación y seguimiento de cualquier tipo de juicio o procedimiento, además de sustanciar cualquier tipo de procedimiento jurídico;
+I. Establecer, dirigir y coordinar las acciones y defensa jurídica de los intereses de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, para lo cual, podrá promover las acciones legales conducentes, presentar demandas, denuncias, recursos, medios de defensa y cualquier promoción, incluyendo la demanda de amparo y su desistimiento, así como incidentes y cualquier promoción procedente durante la tramitación, seguimiento y/o substanciación de cualquier tipo de juicio o procedimiento;
 
-II. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares, y demás ordenamientos que incidan en el ámbito de competencia de la Secretaría;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+II. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que incidan en el ámbito de competencia de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-III. Atender los requerimientos de información y documentos que le formulen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México, así como los poderes Judicial y Legislativo de la Ciudad, relacionados con aspectos jurídicos en materias que sean competencia de la Secretaría de Desarrollo Urbano y Vivienda;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-IV. Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México que sean competentes, la realización de verificaciones administrativas en las materias que sean competencia de la Secretaría;
+III. Atender los requerimientos que hagan las instituciones que conforman los poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Autónomos y demás autoridades de los tres órdenes de gobierno, relacionados con aspectos jurídicos en materias que sean competencia de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-V. Revisar y validar todos los actos jurídicos que deban ser suscritos por la persona titular de la Secretaría;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VI. Establecer vínculos de coordinación con instancias jurídicas de las Alcaldías, otras Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México;
+IV. Solicitar a las autoridades locales y federales para que, en el ámbito de sus competencias, lleven a cabo verificaciones administrativas, supervisiones, inspecciones o visitas, en temas relacionados con las atribuciones de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-VII. Coordinarse con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, para atender los requerimientos formulados a la Secretaría por parte de los órganos garantes de derechos humanos, así como los relacionados con las demandas de atención Ciudadana que sean canalizados por la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VIII. Coordinar y establecer sistemas de colaboración de la Secretaría, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en el desahogo de los requerimientos formulados por el Ministerio Público y los jueces, a efecto de auxiliarlos en la procuración e impartición de justicia;
+V. Revisar y validar todos los actos jurídicos que deban ser suscritos por la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-IX. Coordinar los actos de la Secretaría relacionados con los juicios de amparo, nulidad, y aquellos en los que la persona titular de la Secretaría, sus Unidades Administrativas o Unidades Administrativas de Apoyo Técnico-Operativo sean parte;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-X. Coadyuvar en la substanciación de los procedimientos y recursos administrativos, promovidos ante la persona titular de la Secretaría o Unidades Administrativas de la misma y, en su caso, proponer la resolución que proceda, conforme a las disposiciones jurídicas aplicables;
+VI. Establecer vínculos de coordinación con instancias jurídicas de los tres órdenes de gobierno en temas relacionados con las atribuciones de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-XI. Solicitar información y documentos a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, cuando sea necesario para resolver los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XII. Establecer y coordinar sistemas de colaboración orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas de la Secretaría y la Dirección General de Asuntos Jurídicos;
+VII. Coordinarse con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo para atender los requerimientos formulados a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana por parte de las instituciones que conforman los poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Autónomos y demás autoridades de los tres órdenes de gobierno;
 
-XIII. Solicitar, cuando fuere necesario, el apoyo de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como el auxilio de la fuerza pública, para hacer cumplir sus resoluciones;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XIV. Coordinar sus funciones con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, cuando así proceda;
+VIII. Coadyuvar en la substanciación de los procedimientos y recursos administrativos, promovidos ante la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana o Unidades Administrativas de la misma y, en su caso, proponer la resolución que proceda conforme a las disposiciones jurídicas aplicables;
 
-XV. Efectuar el pago de las afectaciones y expropiaciones que se realicen por causa de utilidad pública, derivados de expedientes previamente substanciados por la Consejería Jurídica y de Servicios Legales;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVI. Coadyuvar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en la regularización inmobiliaria de predios propiedad de la Ciudad de México;
+IX. Solicitar información a las autoridades de los tres órdenes de gobierno para que, en el ámbito de sus competencias, cuando sea necesario para resolver los temas relacionados con las atribuciones de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-XVII. Analizar y, en su caso, formular observaciones a los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia de la Secretaría;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+X. Establecer y coordinar sistemas de colaboración orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas y Unidades Administrativas de apoyo técnico-operativo, de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana y la Dirección General de Asuntos Jurídicos;
 
-XVIII. Verificar que la política de vivienda que se desarrolle en la Ciudad de México cumpla con la normatividad aplicable, garantizando la protección del derecho humano a la vivienda;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XIX. Coadyuvar con la persona titular de la Secretaría en el ejercicio de sus atribuciones, en los asuntos que se relacionen con el Instituto de Vivienda de la Ciudad de México;
+XI. Solicitar, cuando fuere necesario, el apoyo de las autoridades de los tres órdenes de gobierno, así como el auxilio de la fuerza pública, para el desarrollo de las atribuciones de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-XX. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XXI. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
+XII. Establecer mecanismos de coordinación con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, en los temas relacionados con la competencia de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-XXII. Coordinar y fungir como la Unidad responsable de las solicitudes de información pública remitidas por la Unidad de Transparencia, de la Secretaría en los plazos y términos establecidos en las disposiciones jurídicas en materia de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XIII. Efectuar el pago de las afectaciones y expropiaciones que se realicen por causa de utilidad pública, derivados de expedientes previamente substanciados por la Consejería Jurídica y de Servicios Legales, en los cuales se haya determinado que la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana es la Entidad encargada de materializar el pago;
 
-XXIII. Llevar a cabo verificaciones administrativas en los casos que por su relevancia así lo considere la Secretaría de Desarrollo Urbano y Vivienda;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XIV. Coadyuvar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en la regularización inmobiliaria de predios propiedad de la Ciudad de México;
 
-XXIV. Auxiliar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Desarrollo Urbano y Vivienda, así como demás Entidades de la Administración Pública de la Ciudad de México, a través de las acciones u opiniones jurídicas que le sean requeridas en las materias competencia de la referida Secretaría; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XXV. Las demás atribuciones que le confieran otros ordenamientos aplicables.
+XV. Analizar y, en su caso, formular observaciones a los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVI. Asistir y asesorar en materia jurídica a la persona titular y al personal adscrito a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, en temas relacionados con sus atribuciones;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVII. Practicar las diligencias de notificación de los actos emitidos por las diversas Unidades Administrativas de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, en cumplimiento de las normas jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Coordinar las actividades de la Unidad de Transparencia de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, respecto de las obligaciones que tenga en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XIX. Auxiliar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como demás Entidades de la Administración Pública de la Ciudad de México, a través de las acciones u opiniones jurídicas que le sean requeridas en las materias competencia de la referida Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XX. Habilitar al personal adscrito a la Dirección General de Asuntos Jurídicos para la realización de diligencias de notificación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2024)</small>
+
+XXI. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
+
+XXII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXIV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 156.
 
-Corresponde a la Dirección General del Ordenamiento Urbano:
+Corresponde a la Dirección Ejecutiva de Vinculación Interinstitucional:
 
-I. Participar en la realización de proyectos relacionados con el sistema de planeación del desarrollo y ordenamiento territorial, así como participar, en su caso, con las autoridades competentes en la elaboración del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los de las Alcaldías; así como el Programa de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-II. Coadyuvar en la definición de lineamientos normativos aplicables en la Ciudad de México, a través de los trabajos interinstitucionales realizados para homologar los criterios aplicables en materia de ordenamiento territorial de la Zona Metropolitana del Valle de México y Región Centro del país;
+I. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana en el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México;
 
-III. Establecer criterios y estrategias de control para el mejoramiento del paisaje urbano en la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-IV. Coordinar las facultades que le correspondan a la Secretaría de Desarrollo Urbano y Vivienda respecto a publicidad exterior, de conformidad con la ley de la materia;
+II. Apoyar a la persona titular de la Subsecretaría de Coordinación Metropolitana, en la gestión y coordinación de las relaciones de carácter metropolitano con los organismos y poderes públicos locales y federales, así como con los gobiernos de las Alcaldías y los órganos de representación ciudadana;
 
-V. Coadyuvar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Desarrollo Urbano y Vivienda, en la aplicación de las leyes y normatividad que corresponda en la Ciudad de México, en materia de asentamientos humanos y desarrollo urbano, así como del Plan General de Desarrollo de la Ciudad de México, Programa General de Ordenamiento Territorial, programas territoriales, parciales, sectoriales y demás instrumentos aplicables;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VI. Vigilar a sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en la aplicación y el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en la Ley de Desarrollo Urbano aplicable en la Ciudad de México, y demás disposiciones en la materia;
+III. Promover las relaciones de colaboración entre las Alcaldías con los Municipios de la Zona Metropolitana de la Ciudad de México para dar continuidad y atención a los asuntos de orden metropolitano;
 
-VII. Implementar y ejecutar acciones para la conservación, el fomento y acrecentamiento del patrimonio cultural urbano y el espacio público en la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-VIII. Aplicar la normatividad vigente en materia de Patrimonio Cultural Urbano y Espacio Público en la Ciudad de México;
+IV. Coadyuvar con las autoridades competentes el proceso de la planeación metropolitana y regional;
 
-IX. Opinar y dictaminar sobre las acciones de intervención en los inmuebles afectos al Patrimonio Cultural Urbano, así como los proyectos arquitectónicos y de imagen urbana en materia de Espacio Público en la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-X. Realizar estudios que permitan determinar acciones relativas a la planeación, generación, conservación, protección, consolidación, recuperación, restauración, acrecentamiento, investigación, identificación, catalogación, rehabilitación y conservación de los inmuebles relacionados con el Patrimonio Cultural Urbano, así como del Espacio Público, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondientes;
+V. Contribuir en las acciones de representación de la Administración Pública de la Ciudad de México ante los diversos mecanismos de coordinación metropolitana y regional, en términos de lo dispuesto por los convenios y demás instrumentos jurídicos;
 
-XI. Proponer lineamientos y criterios de carácter general y observancia obligatoria, así como políticas para la puesta en valor, planeación, diseño, generación, conservación, protección, consolidación, recuperación, rehabilitación, restauración y acrecentamiento del Patrimonio Cultural Urbano y del Espacio Público en la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XII. Consolidar el desarrollo, revisión y aprobación de los proyectos arquitectónicos en materia de espacio público, en coordinación con las autoridades competentes;
+VI. Generar agendas de trabajo, para la implementación de políticas públicas de planeación estratégica, que fomenten el desarrollo armónico y sustentable, así como una adecuada coordinación entre los diferentes órdenes de gobierno que interactúan en las áreas metropolitanas de la Ciudad de México y su vinculación con la Zona Metropolitana de la Ciudad de México y la Región Centro del país;
 
-XIII. Analizar y proponer las normas que regulen el ordenamiento territorial en las áreas y sectores específicos de la Ciudad de México, para su presentación ante las instancias gubernamentales y/o intergubernamentales correspondientes;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XIV. Proponer lineamientos para el ordenamiento territorial y la definición de políticas, estrategias, normas e instrumentos, que regulen las acciones del ámbito local, metropolitano y regional, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para garantizar un ordenamiento urbano que responda a las limitantes y áreas de oportunidad en territorios específicos;
+VII. Manejar diagnósticos y estudios para procesos de planeación, en coordinación con las entidades y municipios que componen la zona metropolitana;
 
-XV. Participar en la definición de las políticas de desarrollo urbano integral, equilibrado y sustentable orientadas al crecimiento urbano, en el ámbito local, metropolitano y regional, para atender el crecimiento urbano controlado en beneficio de la población de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVI. Inscribir en el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México, los instrumentos y demás actos relativos al desarrollo urbano de la Ciudad de México;
+VIII. Promover que, en las temáticas de desarrollo metropolitano, se incluya la participación de la comunidad científica y tecnológica, lo que permitirá que los proyectos o líneas de acción cuenten con análisis especifico;
 
-XVII. Orientar a los particulares respecto a la presentación y seguimiento de modificación a los programas de desarrollo urbano para predios específicos, en el ámbito de sus atribuciones;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Dictaminar en el ámbito de sus atribuciones las solicitudes de constitución de polígonos de actuación o de aplicación del sistema de transferencia de potencialidades del desarrollo urbano (predio emisor y predio receptor) en los que se proponga la procedencia o improcedencia;
+IX. Coordinar la elaboración y revisión de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación aplicable sobre coordinación metropolitana;
 
-XIX. Coordinar los sistemas de actuación y proponer a la persona titular de la Secretaría de Desarrollo Urbano y Vivienda su procedencia o improcedencia;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XX. Gestionar las herramientas en tecnologías de la información y comunicaciones, que apoyen técnicamente la operación de la Secretaría de Desarrollo Urbano y Vivienda, y los servicios para la atención a la Ciudadanía;
+X. Promover el cumplimiento de compromisos y acuerdos adquiridos con Gobiernos de los Estados de la Región Centro, a fin de mejorar la relación entre las instancias participantes;
 
-XXI. Coadyuvar con las instancias competentes en el establecimiento de las políticas, lineamientos y estándares para la integración de la cartografía digital y la georreferenciación del territorio de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XXII. Participar en el ámbito de sus atribuciones, intra e interinstitucionalmente, en la generación, acopio o intercambio de información geoestadística necesaria para la operación de las aplicaciones y sistemas en operación;
+XI. Emitir informes de las acciones realizadas con motivo de la vinculación interinstitucional metropolitana y regional; y
 
-XXIII. Supervisar la compilación y normalización de la información en materia de desarrollo urbano de la Ciudad de México de fuentes oficiales, para que pueda ser operada a través de los sistemas de información;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-XXIV. Proponer con las autoridades competentes del Gobierno de la Ciudad de México, los estándares cartográficos y definir las aplicaciones tecnológicas de Geomática para lograr la interoperabilidad de los sistemas;
+XII. Las demás que le instruya la persona titular de la Secretaría y Subsecretaría, así como las previstas en otras leyes y ordenamientos.
 
-XXV. Integrar expedientes sobre cambios de uso del suelo en predios particulares y públicos, y emitir proyectos de resolución para consideración de la persona titular de la Secretaría de Desarrollo Urbano y Vivienda, de conformidad con el procedimiento señalado en la ley de la materia;
+XIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXVI. Elaborar en el ámbito de su competencia el proyecto de tabla de compatibilidades de los usos de suelo, y remitirlo a la persona titular de la Secretaría de Desarrollo Urbano y Vivienda para su aprobación;
+XIV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXVII. Elaborar los certificados de restauración para los inmuebles declarados o catalogados por las instancias federales competentes o por la Secretaría de Desarrollo Urbano y Vivienda, para la aplicación de reducciones fiscales previstas en el Código Fiscal de la Ciudad de México;
+XV.(DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXVIII. Establecer los criterios que deberán observarse en los proyectos urbano-arquitectónicos en predios o inmuebles afectos al Patrimonio Cultural Urbano, colindantes a estos y/o ubicados en áreas de conservación patrimonial que incluyen las zonas de monumentos históricos, en coordinación con las instancias federales en el ámbito de su competencia, tales como el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, para su integración al contexto urbano;
+XVI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXIX. Integrar y operar el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México;
+XVII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXX. Expedir los certificados de zonificación previstos en la Ley de Desarrollo Urbano aplicable en la Ciudad de México;
+XVIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXI. Emitir dictámenes respecto de las solicitudes para instalar, modificar o retirar anuncios y sus estructuras de soporte;
+XIX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXII. Autorizar el emplazamiento o reubicación del mobiliario urbano en el territorio de la Ciudad de México, con fundamento en la normativa aplicable;
+XX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXIII. Analizar y evaluar los proyectos de mobiliario urbano, para presentarlos ante la comisión que corresponda;
+XXI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXIV. Integrar y mantener actualizado el inventario del mobiliario urbano;
+XXII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXV. Hacer del conocimiento de las autoridades competentes el emplazamiento irregular del mobiliario urbano, para que éstas en el ámbito de sus atribuciones realicen las acciones que conforme a derecho corresponda;
+XXIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXVI. Elaborar estudios e informes, así como emitir dictámenes sobre la aplicación de los instrumentos de planeación en materia de desarrollo urbano;
+XXIV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXVII. Desarrollar, implementar, operar y actualizar los sistemas de información que establezca la Secretaría de Desarrollo Urbano y Vivienda, para proporcionar elementos de planeación, operación, gestión y toma de decisiones; y
+XXV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-XXXVIII. Las demás que le atribuyan las leyes y otros ordenamientos.
+XXVI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-#### SECCIÓN XIII. DE LA SECRETARÍA DE LAS MUJERES
+XXVII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+XXVIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXIX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXIV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXVI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXVII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+XXXVIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
+
+#### SECCIÓN XII. DE LA SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 157.
 
@@ -6892,7 +7188,9 @@ XXIV. Las demás que le sean encomendadas por la persona titular de la Secretar�
 
 (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-#### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
+#### SECCIÓN XIII. DE LA SECRETARÍA DE LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 166.
 
@@ -7172,11 +7470,11 @@ XIV. Elaborar los informes institucionales que se le requieran; y
 
 XV. Las demás que el presente Reglamento y otras disposiciones le asignen.
 
+#### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
+
 #### SECCIÓN XV. DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2021)</small>
-
-#### SECCIÓN XVI. DE LA SECRETARÍA DE SALUD
 
 ###### Artículo 171.
 
@@ -7648,7 +7946,7 @@ XVI. Las demás que le instruya la persona Titular de la Secretaría, y las que 
 
 (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-#### SECCIÓN XVII. DE LA SECRETARÍA DE TRABAJO Y FOMENTO AL EMPLEO
+#### SECCIÓN XVI. DE LA SECRETARÍA DE SALUD
 
 ###### Artículo 183.
 
@@ -8312,7 +8610,7 @@ XII. Suscribir los documentos relativos al ejercicio de sus atribuciones o en ca
 
 XIII. Las demás conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
+#### SECCIÓN XVII. DE LA SECRETARÍA DE TRABAJO Y FOMENTO AL EMPLEO
 
 ###### Artículo 192.
 
@@ -8778,7 +9076,7 @@ VII. Incentivar y difundir, de conformidad con los planes y proyectos de la Subs
 
 VIII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
 
-#### SECCIÓN XIX. DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES
+#### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
 
 ###### Artículo 202.
 
@@ -9096,7 +9394,7 @@ XVIII. Administrar y aplicar los recursos que le sean asignados; y
 
 XIX. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría y/o la persona Titular de la Dirección General de Igualdad y Atención a la Violencia de Género, que favorezcan, promuevan y reconozcan los derechos humanos de las mujeres y las niñas.
 
-#### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
+#### SECCIÓN XIX. DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES
 
 ###### Artículo 206.
 
@@ -9616,7 +9914,7 @@ XIV. Coordinar los procedimientos administrativos para mantener o recuperar la p
 
 XV. Las demás atribuciones conferidas por las personas Titulares de la Secretaría y de la Consejería Jurídica y de Servicios Legales, conforme las funciones de la unidad a su cargo, así como las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN II. DE LA SUBTESORERÍA DE FISCALIZACIÓN
+#### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
 
 ###### Artículo 214.
 
@@ -9650,7 +9948,7 @@ XIII. Crear un canal de radio difusión dirigido a los pueblos indígenas; y
 
 XIV. Contar con un registro de intérpretes de lenguas indígenas.
 
-#### SECCIÓN III. DE LA COORDINACIÓN EJECUTIVA DE VERIFICACIÓN DE COMERCIO EXTERIOR
+#### SECCIÓN II. DE LA SUBTESORERÍA DE FISCALIZACIÓN
 
 ###### Artículo 215.
 
@@ -9926,7 +10224,7 @@ XXX. Integrar los informes respecto del Sistema de Protección Social en Salud d
 
 XXXI. Las demás que señalen las disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA SUBTESORERÍA DE POLÍTICA FISCAL
+#### SECCIÓN III. DE LA COORDINACIÓN EJECUTIVA DE VERIFICACIÓN DE COMERCIO EXTERIOR
 
 ###### Artículo 220.
 
@@ -10110,9 +10408,9 @@ XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de 
 
 XIV. Establecer mesas de conciliación entre empleadores y trabajadores, para disminuir el número de demandas a presentar antelas (sic) autoridades jurisdiccionales en materia de trabajo de competencia local, en el ámbito de la Ciudad de México.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
+#### SECCIÓN IV. DE LA SUBTESORERÍA DE POLÍTICA FISCAL
 
-#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y APOYO TÉCNICO
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 225.
 
@@ -10248,7 +10546,7 @@ IX. Dar seguimiento a la logística, puesta en marcha, conclusión y costo de re
 
 X. En el ámbito de su competencia, promover la suscripción de convenios de colaboración o concertación con personas físicas o morales, nacionales o internacionales.
 
-#### SECCIÓN III
+#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y APOYO TÉCNICO
 
 ###### Artículo 229.
 
@@ -10442,29 +10740,7 @@ XVI. Rotar a las y los Jueces del Registro Civil de adscripción.
 
 ###### Artículo 233.
 
-Corresponde a la Dirección General de Regularización Territorial:
-
-I. Promover y apoyar las acciones de regularización de la tenencia de la tierra en la Ciudad de México, así como ejecutar los programas que se deriven, con la colaboración de las Alcaldías y los habitantes de las demarcaciones territoriales;
-
-II. Asesorar a los habitantes en materia de regularización de la tenencia de la tierra en la Ciudad de México, para la resolución de los problemas relacionados con la misma;
-
-III. Proporcionar, a solicitud de las personas Titulares de las Alcaldías, los elementos técnicos disponibles, para evitar la invasión de los predios y para que obtengan su desalojo, mediante el ejercicio de las acciones judiciales o administrativas que procedan;
-
-IV. Llevar el registro de las colonias y zonas urbanas populares susceptibles de incorporarse a los programas de regularización;
-
-V. Ser el conducto de la Administración Pública ante la Secretaría de Desarrollo Agrario, Territorial y Urbano y el Instituto Nacional del Suelo Sustentable, en los asuntos de su competencia;
-
-VI. Intervenir, dentro del ámbito de su competencia, en el otorgamiento y firma de escrituras públicas de los convenios y contratos que lo requieran;
-
-VII. Actuar cuando lo estime conveniente o a solicitud de parte interesada, como árbitro y conciliador en los conflictos inmobiliarios que se presenten en las colonias y zonas urbanas populares;
-
-VIII. Diagnosticar la factibilidad de los programas de regularización de la tenencia de la tierra;
-
-IX. Elaborar y proponer el proyecto técnico e integrar el expediente de expropiación por causa de utilidad pública, de aquellos predios donde se encuentren asentamientos humanos irregulares, salvo aquellos que sean de origen ejidal o comunal;
-
-X. Asesorar y coordinar la instrumentación del pago de las escrituras públicas, para coadyuvar al cumplimiento de los programas de regularización; y
-
-XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de asuntos de su competencia.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
 
 ###### Artículo 234.
 
@@ -10628,7 +10904,7 @@ XVII. Las demás atribuciones que les sean conferidas por sus superiores jerárq
 
 DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE APOYO TÉCNICO OPERATIVO ADSCRITAS A LA TESORERÍA DE LA CIUDAD DE MÉXICO DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS QUE SE INDICAN.
 
-#### SECCIÓN I. DE LAS ATRIBUCIONES GENERALES
+#### SECCIÓN III
 
 ###### Artículo 239.
 
@@ -10770,7 +11046,7 @@ X. Brindar orientación y asesoría al contribuyente; e
 
 XI. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
-#### SECCIÓN II. DE LAS AUTORIDADES INVESTIGADORAS
+#### SECCIÓN I. DE LAS ATRIBUCIONES GENERALES
 
 ###### Artículo 245.
 
@@ -10920,7 +11196,7 @@ XII. Suscribir los acuerdos de mediación y los conclusivos en términos de lo d
 
 XIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en las leyes fiscales aplicables a la Ciudad de México o de las leyes federales de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
-#### SECCIÓN III. DE LAS AUTORIDADES SUBSTANCIADORAS
+#### SECCIÓN II. DE LAS AUTORIDADES INVESTIGADORAS
 
 ###### Artículo 250.
 
@@ -11034,7 +11310,7 @@ XI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancía
 
 XII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
-#### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
+#### SECCIÓN III. DE LAS AUTORIDADES SUBSTANCIADORAS
 
 ###### Artículo 252.
 
@@ -11068,11 +11344,7 @@ IX. Coordinar la comunicación entre las áreas correspondientes de la Secretar�
 
 DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE APOYO TÉCNICO OPERATIVO ADSCRITAS A LA SECRETARÍA DE LA CONTRALORÍA GENERAL QUE SE INDICAN.
 
-#### SECCION I
-
-ADSCRITO A LA JEFATURA DE GOBIERNO.
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+#### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
 
 ###### Artículo 253.
 
@@ -11276,11 +11548,11 @@ XVI. Expedir previo cotejo, copias certificadas de los documentos que obren en s
 
 XVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCION II
+#### SECCION I
 
-ADSCRITO A LA SECRETARIA DE GOBIERNO.
+ADSCRITO A LA JEFATURA DE GOBIERNO.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 258.
 
@@ -11702,7 +11974,11 @@ XIV. Expedir, copias certificadas de los documentos que obren en sus archivos, a
 
 XV. Las demás que le instruya la persona Titular de la Dirección General de Coordinación de Órganos Internos de Control Sectorial, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DE CULTURA
+#### SECCION II
+
+ADSCRITO A LA SECRETARIA DE GOBIERNO.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
 ###### Artículo 267.
 
@@ -11758,7 +12034,7 @@ XXIII. Las demás que le instruya la persona titular de la Secretaría de la Con
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS PERSONAS TITULARES DE LAS UNIDADES DE INVESTIGACIÓN, SUBSTANCIACIÓN Y DE RESOLUCIÓN DE LA SECRETARÍA DE CONTRALORÍA GENERAL
 
-#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DE CULTURA
 
 ###### Artículo 268.
 
@@ -11890,7 +12166,7 @@ XXIX. Someter en conjunto con las direcciones generales de coordinación de órg
 
 XXX. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuya este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
-#### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
+#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### Artículo 269.
 
@@ -11952,9 +12228,7 @@ XXVII. Solicitar mediante exhorto, la colaboración de las Dependencias, órgano
 
 XXVIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
-
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
+#### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 270.
 
@@ -12000,7 +12274,9 @@ XIX. Solicitar mediante exhorto, la colaboración de las Dependencias, órganos 
 
 XX. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
+#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 271.
 
@@ -12030,7 +12306,7 @@ X. Las demás que las disposiciones legales y administrativas le confieran y las
 
 DE LAS PERSONAS TITULARES DE LOS PUESTOS DE LÍDER COORDINADOR DE PROYECTOS Y DE LOS DE ENLACE EN TODA UNIDAD ADMINISTRATIVA Y UNIDAD ADMINISTRATIVA DE APOYO TÉCNICO-OPERATIVO DE LAS DEPENDENCIAS Y ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
+#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
 
 ### CAPÍTULO I
 
@@ -12098,7 +12374,7 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE MAYO DE 2019)</small>
 
-#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
 
 ###### Artículo 276.
 
@@ -13513,6 +13789,8 @@ X. Certificar y expedir copias certificadas de los documentos que obren en sus a
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 XI. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
+
+#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
 
 ###### Artículo 296.
 
@@ -15295,3 +15573,17 @@ G.O. 16 DE DICIEMBRE DE 2024.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación.
+
+G.O. 24 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO Y DEL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del 1 de enero de 2025.
+
+TERCERO.- Todas las referencias que se hagan a la Secretaría de Desarrollo Urbano y Vivienda en el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y demás disposiciones, deberán entenderse a la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, únicamente por lo que respecta a su competencia.
+
+CUARTO.- Las menciones que otros ordenamientos y disposiciones hagan a las unidades administrativas que por virtud del presente Decreto se suprimen o modifican, se entenderán referidas a las unidades administrativas que asuman sus funciones.
+
+QUINTO.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Administración y Finanzas en el ámbito de su competencia.
