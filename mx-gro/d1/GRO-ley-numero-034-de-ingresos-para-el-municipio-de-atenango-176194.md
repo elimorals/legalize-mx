@@ -1,0 +1,50 @@
+---
+title: "LEY NUMERO 034 DE INGRESOS PARA EL MUNICIPIO DE ATENANGO DEL RIO DEL ESTADO DE GUERRERO, PARA EL EJERCICIO FISCAL 2025"
+identifier: "GRO-ley-numero-034-de-ingresos-para-el-municipio-de-atenango-176194"
+country: "mx"
+rank: "ley"
+publication_date: "2024-12-24"
+last_updated: "2024-12-24"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176194&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-gro"
+scjn_id: "176194"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "103 ALCANCE IV"
+reform_count: "0"
+scjn_last_update: "2024-12-24"
+issue_date: "2024-12-24"
+municipality: "Atenango del Río"
+municipality_inegi: "12008"
+state: "GRO"
+---
+# LEY NUMERO 034 DE INGRESOS PARA EL MUNICIPIO DE ATENANGO DEL RIO DEL ESTADO DE GUERRERO, PARA EL EJERCICIO FISCAL 2025
+
+LEY NÚMERO 034 DE INGRESOS PARA EL MUNICIPIO DE ATENANGO DEL RÍO DEL ESTADO DE GUERRERO, PARA EL EJERCICIO FISCAL 2025
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Alcance IV en el Número 103 del Periódico Oficial del Estado de Guerrero, el martes 24 de diciembre de 2024.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 51.
+
+Por el otorgamiento y refrendo de licencias, permisos y autorizaciones para el funcionamiento de establecimientos o locales comerciales cuyos giros no incluyan la enajenación de bebidas alcohólicas o la prestación de servicios que incluyen el expendio de dichas bebidas, siempre que se encuentren en los supuestos siguientes, pagarán conforme a la siguiente tarifa:
+
+EXPEDICIÓN REFRENDO
+
+1 a 30 […]
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 36/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 31 DE ESTE ARTÍCULO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+31 depósito de gas lp 1,030.00 1,000.00
+
+32 FONDAS, LONCHERÍAS, TAQUERÍAS
+
+Y SIMILARES 485.13 485.13
+
+Cualquier giro que no esté contemplado en los numerales anteriores, será el Cabildo Municipal la única encargada para autorizar el importe de cobro, de lo contrario se aplicará el que se asimile a dicho concepto.
