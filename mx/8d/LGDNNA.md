@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2024-05-27"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -2650,6 +2650,12 @@ D.O.F. 27 DE MAYO DE 2024.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
+D.O.F. 24 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 101 BIS 3 A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE ACCESO A INTERNET LIBRE DE VIOLENCIA CONTRA NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
 ###### Artículo 93.
@@ -2727,6 +2733,12 @@ El Estado garantizará a niñas, niños y adolescentes su integración a la soci
 ###### Artículo 101 Bis 2.
 
 Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 101 Bis 3.
+
+El Estado garantizará el acceso y uso seguro del Internet promoviendo políticas de prevención, protección, atención y sanción del ciberacoso y de todas las formas de violencia que causen daño a su intimidad, privacidad, seguridad y/o dignidad realizada mediante el uso de tecnologías de la información y la comunicación, sin afectar los derechos previstos en esta Ley.
 
 ###### Artículo 102.
 
