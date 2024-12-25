@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2023-12-06"
+last_updated: "2024-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -2191,7 +2191,7 @@ XXI. Establecer las bases para la formación y actualización profesional de los
 
 XXII. Supervisar que la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso o para promover al personal en funciones a cargo superior, se hagan con imparcialidad, objetividad y excelencia académica, en los términos del reglamento de examen de oposición;
 
-XXIII. Establecer con aprobación del Pleno del Tribunal, los términos, cuantía y condiciones del haber por retiro de los Magistrados y Jueces, con sujeción a lo dispuesto en el reglamento respectivo;
+XXIII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2024)
 
 XXIV. Llevar un control estadístico de las resoluciones emitidas por los Jueces, cuando éstas sean confirmadas, modificadas o revocadas por sus superiores, con la finalidad de tomar medidas para lograr una mejor administración de justicia;
 
@@ -5214,3 +5214,15 @@ SEGUNDO. El Consejo de la Judicatura, en el ámbito de su competencia, adoptará
 TERCERO. Los tribunales de enjuiciamiento colegiados continuarán conociendo de los asuntos ya iniciados hasta su total conclusión.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 031 POR EL QUE "SE DEROGA LA FRACCIÓN XXIII DEL ARTÍCULO 97 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales o administrativas que se opongan al presente Decreto.
