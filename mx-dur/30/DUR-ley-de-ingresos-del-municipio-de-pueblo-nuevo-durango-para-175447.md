@@ -1,0 +1,200 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE PUEBLO NUEVO, DURANGO PARA EL EJERCICIO FISCAL DEL AÑO 2025"
+identifier: "DUR-ley-de-ingresos-del-municipio-de-pueblo-nuevo-durango-para-175447"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2024-12-26"
+last_updated: "2024-12-26"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175447&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-dur"
+scjn_id: "175447"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "103 BIS"
+reform_count: "0"
+scjn_last_update: "2024-12-26"
+issue_date: "2024-12-15"
+municipality: "Pueblo Nuevo"
+municipality_inegi: "10023"
+state: "DUR"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE PUEBLO NUEVO, DURANGO PARA EL EJERCICIO FISCAL DEL AÑO 2025
+
+LEY DE INGRESOS DEL MUNICIPIO DE PUEBLO NUEVO, DGO. PARA EL EJERCICIO FISCAL DEL AÑO 2025
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Número 103 Bis del Periódico Oficial del Estado de Durango, el jueves 26 de diciembre de 2024.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### ARTÍCULO 75.
+
+Los Derechos por los Servicios Catastrales Municipales, se cobrarán conforme a la siguiente tarifa:
+
+CONCEPTO UNIDAD CUOTA O
+
+Y/O TARIFA
+
+BASE UMA
+
+l. Constancias y a) Expedición de cédula Por trámite 4
+
+certificaciones catastral
+
+b) Alta en el padrón catastral Por trámite 1
+
+Certificado de no inscripción Por trámite 1
+
+en el padrón catastral
+
+Certificado de inscripción Por trámite 1
+
+en el padrón catastral
+
+e (sic)) Información con Por trámite 0.5
+
+expedición de constancia
+
+f) Consulta de archivos Por trámite 0.5
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2025, DECLARÓ LA INVALIDEZ DEL INCISO g) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+g) COPIA FOTOSTÁTICA POR TRÁMITE 0.5
+
+DE DOCUMENTO
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. DESLINDE COPIA CERTIFICADA POR TRÁMITE 1
+
+CATASTRAL DE DESLINDE O
+
+LEVANTAMIENTO
+
+CATASTRAL
+
+A) HASTA 300 M2 2.5
+
+B) MÁS DE 300 HASTA 500 M2 3.5
+
+C) MÁS DE 500 HASTA 750 M2 5
+
+D) MÁS DE 750 HASTA 1,000 M2 6
+
+E) MÁS DE 1,000 HASTA 1,500 M2 8
+
+F) MÁS DE 1,500 HASTA 2,000 M2 10
+
+G) MÁS DE 2,000 HASTA 3,000 M2 13
+
+H) MÁS DE 3,000 HASTA 4,000 M2 15.5
+
+I) MÁS DE 4,000 HASTA 5,000 M2 18
+
+J) MÁS DE 5,000 HASTA 6,000 M2 19
+
+K) MÁS DE 6,000 HASTA 8,000 M2 22.5
+
+L) MÁS DE 8,000 HASTA 10,000 M2 24
+
+M) MÁS DE 1 HASTA 2 HECTÁREA 32
+
+N) MÁS DE 2 HASTA 3 HECTÁREA 36
+
+LEVANTAMIENTO O) MÁS DE 3 HASTA 4 HECTÁREA 40
+
+CATASTRAL
+
+P) MÁS DE 4 HASTA 5 HECTÁREA 44
+
+Q) MÁS DE 5 HASTA 6 HECTÁREA 48
+
+R) MÁS DE 6 HASTA 8 HECTÁREA 52
+
+S) MÁS DE 8 HASTA 10 HECTÁREA 54
+
+T) HASTA 100,000 VALOR CATASTRAL 2
+
+U) MÁS DE 100,000 VALOR CATASTRAL 2.5
+
+HASTA 150,000
+
+V) MÁS DE 150,000 VALOR CATASTRAL 3
+
+HASTA 200,000
+
+W) MÁS DE 200,000 VALOR CATASTRAL 3.5
+
+HASTA 250,000
+
+X) MÁS DE 250,000 VALOR CATASTRAL 4
+
+HASTA 300,000
+
+Y) MÁS DE 300,000 VALOR CATASTRAL 4.5
+
+HASTA 400,000
+
+Z) MÁS DE 400,000 VALOR CATASTRAL 5
+
+HASTA 500,000
+
+AA) MÁS DE 500,000 VALOR CATASTRAL 5.5
+
+HASTA 750,000
+
+BB) MÁS DE 750,001 VALOR CATASTRAL 6
+
+HASTA 1,000,000
+
+CC) MÁS DE 1,000,001 VALOR CATASTRAL 6.5
+
+HASTA 1,500,000
+
+DD) MÁS DE 1,500,001 VALOR CATASTRAL 7
+
+HASTA 2,000,000
+
+EE) MÁS DE 2,000,001 VALOR CATASTRAL 9
+
+A) Hasta Valor del 4
+
+235,000 Inmueble
+
+B) Más de 235,001 Valor del 1.3 al
+
+hasta 500,000 Inmueble millar
+
+IV (SIC). AVALÚOS
+
+C) Más de 500,001 Valor del 1.4 al
+
+hasta 1,000,000 Inmueble millar
+
+D) Más de Valor del 1.5 al
+
+1,000,001 inmueble millar
+
+###### ARTÍCULO 76.
+
+Con excepción de las certificaciones, legalizaciones y expedición de copias certificadas solicitadas de oficio, por las autoridades de la Federación, Estados u otros Municipios, los Derechos que se causen por los servicios a que se refiere este Capítulo, se pagarán conforme a las cuotas y tarifas que se señalan a continuación:
+
+CONCEPTO UNIDAD Y/O BASE CUOTA O
+
+TARIFA UMA
+
+I. Expedición de certificado Por documento De 0.25 a 1
+
+II. Legalización de firmas Por documento De 0.25 a 1
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. EXPEDICIÓN DE COPIAS POR DOCUMENTO DE 0.25 A 1
+
+CERTIFICADAS
+
+IV. Otros Por documento De 0.25 a 1
