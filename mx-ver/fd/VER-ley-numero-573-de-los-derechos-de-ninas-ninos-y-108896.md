@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2021-03-11"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -109,6 +109,14 @@ VII. Constitución Federal. Constitución Política de los Estados Unidos Mexica
 
 VIII. Constitución Local. Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
 
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VIII Bis. Crianza positiva. Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones.
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VIII Ter. Cultura de la Paz. Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
+
 IX. Diseño Universal. El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
 X. Discriminación Múltiple. La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
@@ -136,6 +144,14 @@ XVIII. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional D
 XIX. Ley. Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Veracruz de Ignacio de la Llave;
 
 XX. Ley General. Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XX Bis. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos. Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XX Ter. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos. Implica que, en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
 
 XXI. Órgano Jurisdiccional. Los juzgados y tribunales del Poder Judicial del Estado;
 
@@ -227,9 +243,25 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia; y
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XIV. La accesibilidad;
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVI. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos; y
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVII. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
 
@@ -577,9 +609,9 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
-Corresponde a quienes ejerzan la patria potestad, tutela, guarda y custodia, así como aquellas personas que por razón de sus funciones o actividades tengan bajo su cuidado a niñas, niños o adolescentes, la obligación primordial de proporcionarles un ambiente de desarrollo y crecimiento en armonía y bienestar, tanto en su integridad física como mental, espiritual, cultural y ética, y evitar incitarlos o coaccionarlos a participar en cualquier clase de conflictos.
+Corresponde a quienes ejerzan la patria potestad, tutela, guarda y custodia, así como aquellas personas que por razón de sus funciones o actividades tengan bajo su cuidado a niñas, niños o adolescentes, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionarles un ambiente de desarrollo y crecimiento en armonía y bienestar, tanto en su integridad física como mental, espiritual, cultural y ética, y evitar incitarlos o coaccionarlos a participar en cualquier clase de conflictos.
 
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2020)</small>
 
@@ -588,6 +620,14 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia deberán, dentro 
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2020)</small>
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dichos fines, mediante la adopción de las medidas apropiadas
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 39 Bis.
+
+La edad mínima para contraer matrimonio es de dieciocho años.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas de cesión a título oneroso o gratuito con fines de unión formal, informal o consuetudinaria.
 
 ### CAPÍTULO VIII. Del Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -615,9 +655,17 @@ c. Trata de personas menores de dieciocho años de edad, abuso sexual infantil, 
 
 d. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Federal y demás disposiciones aplicables;
 
-e. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables: y
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
-f. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+e. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables;
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+f. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+g. El tráfico de menores.
 
 II. Implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad; así como considerar la perspectiva de género en las situaciones de violencia;
 
@@ -773,11 +821,17 @@ XIX. Administrar la disciplina escolar de modo compatible con la dignidad humana
 
 XX. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XXI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XXII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+XXI. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
-XXIII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXII. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
+
+XXIII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+
+XXIV. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -787,7 +841,9 @@ Las autoridades estatales fomentarán el respeto a la educación intercultural y
 
 La educación, además de lo dispuesto en la legislación aplicable, tendrá los siguientes fines:
 
-I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto a la identidad propia, así como a las diferencias culturales y opiniones diversas;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales, la cultura de la paz, la educación cívica y el respeto a la identidad propia, así como a las diferencias culturales y opiniones diversas;
 
 II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes;
 
@@ -803,7 +859,9 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Proporcionar información sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes;
 
-IX. Inculcar el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+IX. Inculcar el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
 
 X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
 
@@ -815,7 +873,9 @@ Para efectos del párrafo anterior, las autoridades estatales y municipales, en 
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+II. Desarrollar actividades de capacitación sobre igualdad de género, prevención y atención de los diferentes tipos de violencia, y cultura de la paz, dirigidas a servidores públicos, personal administrativo y docente;
 
 III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y
 
@@ -845,7 +905,9 @@ Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por e
 
 Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a establecer políticas tendientes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, podrán aprovechar su infraestructura y recursos y promover el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendientes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Federal, ni de los principios rectores de esta Ley.
 
@@ -1159,9 +1221,13 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
-VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad a través de la crianza positiva;
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, la educación cívica, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
 
@@ -1255,7 +1321,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrute en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -1347,7 +1415,9 @@ Corresponden a las autoridades estatales, de manera concurrente con las autorida
 
 I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley General;
 
-II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de la Ley General y esta Ley;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley;
 
 III. Garantizar el cabal cumplimiento de la presente Ley, la Ley General y de los instrumentos internacionales aplicables;
 
@@ -1391,9 +1461,17 @@ XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atenci
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
 
-XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la Ley General y la presente Ley; y
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la Ley General y la presente Ley;
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene; y
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
 
 ###### Artículo 100.
 
@@ -2033,7 +2111,9 @@ I. Respecto de servidores públicos estatales, personal de instituciones de salu
 
 a) Cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto en esta Ley y demás ordenamientos aplicables; y
 
-b) Propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+b) Ejerzan, permitan, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
 
 II. Respecto de profesionales en trabajo social, psicología o cualquiera otra disciplina, que intervengan en procedimientos de adopción, no contar con la autorización del Sistema DIF Estatal a que se refiere esta Ley; y
 
@@ -2196,3 +2276,11 @@ SEGUNDO. El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus
 TERCERO. La obligación de elaborar, aprobar y ejecutar los Programas Municipales de Protección a Niñas, Niños y Adolescentes, en los términos del presente Decreto, será aplicable para todos los Ayuntamientos que entren en funciones a partir del día primero de enero del año dos mil veintidós, y deberán considerarse en el marco de sus respectivos Planes Municipales de Desarrollo.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 225 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
