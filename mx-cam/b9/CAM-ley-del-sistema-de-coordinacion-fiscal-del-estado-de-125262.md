@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-125262"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2024-07-05"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE EL 5 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección al Número 592 del Periódico Oficial de Campeche, el miércoles 27 de diciembre de 2017.
 
@@ -49,67 +47,71 @@ El objeto de esta ley es regular las relaciones fiscales del Estado con los Muni
 
 La Secretaría de Finanzas tendrá la facultad de fijar criterios generales de interpretación y aplicación de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
 Para efectos de esta Ley se entenderá por:
 
-I. Administrador del SEAFI: El Administrador General del Servicio de Administración Fiscal del Estado de Campeche;
+I. La o el Administrador del SEAFI: La o el Administrador General del Servicio de Administración Fiscal del Estado de Campeche;
 
-II. Aportaciones: Los recursos que la Federación transfiere a las haciendas públicas de las entidades federativas y los municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación se establece en el Capítulo V de la Ley de Coordinación Fiscal;
+II. Aportaciones: Los recursos que la Federación transfiere a las haciendas públicas de las entidades federativas y los municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que, para cada tipo de aportación, se establecen en el Capítulo V de la Ley de Coordinación Fiscal;
 
 III. Comisión para el Desarrollo: La Comisión para el Desarrollo Técnico Fiscal;
 
-IV. Convenio de Colaboración Administrativa: El Convenio de Colaboración Administrativa en materia Fiscal Federal y sus Anexos celebrado entre el Gobierno Federal por conducto de la SHCP y el Estado de Campeche, en los términos de la Ley de Coordinación Fiscal;
+IV. Convenio de Colaboración Administrativa: El Convenio de Colaboración Administrativa en materia Fiscal Federal y sus Anexos, celebrado entre el Gobierno Federal, por conducto de la SHCP, y el Estado de Campeche, en los términos de la Ley de Coordinación Fiscal;
 
-V. Convenio de Colaboración entre Estado y Municipio: Convenio que celebra el Estado con cada Municipio y sus Anexos, para la administración de contribuciones estatales o municipales que se coordinen por disposición de los ordenamientos jurídicos aplicables;
+V. Convenio de Colaboración entre Estado y Municipio: El convenio que celebra el Estado con cada Municipio y sus Anexos, para la administración de contribuciones estatales o municipales que se coordinen por disposición de los ordenamientos jurídicos aplicables;
 
 VI. Coordinación Fiscal: La coordinación en ingresos entre el Estado y sus Municipios;
 
-VII. Cuenta Pública: Informe a que se refiere el artículo 54, fracción XXII de la Constitución Política del Estado de Campeche, que integran cada uno de los Municipios y presentan al H. Congreso del Estado para su revisión, calificación y fiscalización, el cual contiene la información contable, presupuestaria, programática y complementaria de los mismos, que deberán contener lo establecido en los artículos 48 y 55 de la Ley General de Contabilidad Gubernamental.
+VII. Cuenta Pública: El informe a que se refiere el artículo 54, fracción XXII, de la Constitución Política del Estado de Campeche, que integra cada uno de los Municipios y presentan al H. Congreso del Estado para su revisión, calificación y fiscalización, el cual contiene la información contable, presupuestaria, programática y complementaria de los mismos, y que deberá incluir lo establecido en los artículos 48 y 55 de la Ley General de Contabilidad Gubernamental;
 
 VIII. Entidad o Estado: El Estado Libre y Soberano de Campeche;
 
 IX. Fondos: Las Participaciones, Aportaciones, contribuciones y/o transferencias según estos sean sustituidos, modificados, adicionados o complementados de tiempo en tiempo, que correspondan a los Municipios, de conformidad con la Ley de Coordinación Fiscal, los Convenios de Colaboración entre Estado y Municipio, esta Ley y las leyes aplicables, que el Estado distribuye a los Municipios de conformidad con la presente Ley;
 
-X. Grupos de Trabajo: grupos creados por la Reunión Estatal de Funcionarios Fiscales para el logro de los objetivos del Sistema Estatal de Coordinación Fiscal y están integrados por funcionarios públicos.
+X. Grupos de Trabajo: Los grupos creados por la Reunión Estatal de Funcionarios Fiscales para el logro de los objetivos del Sistema Estatal de Coordinación Fiscal y están integrados por funcionarios públicos;
 
-XI. Incentivos Económicos: los ingresos que reciben el Estado y los Municipios por el ejercicio de las facultades derivadas del Convenio de Colaboración Administrativa y el Convenio de Colaboración entre el Estado y cada Municipio;
+XI. Incentivos Económicos: Los ingresos que reciben el Estado y los Municipios por el ejercicio de las facultades derivadas del Convenio de Colaboración Administrativa y el Convenio de Colaboración entre el Estado y cada Municipio;
 
-XII. INEGI: Instituto Nacional de Estadística y Geografía;
+XII. INEGI: El Instituto Nacional de Estadística y Geografía;
 
-XIII. Ley: Ley del Sistema de Coordinación Fiscal del Estado de Campeche;
+XIII. Ley: La Ley del Sistema de Coordinación Fiscal del Estado de Campeche;
 
-XIV. Ley de Disciplina Financiera: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+XIV. Ley de Disciplina Financiera: La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XV. Ley de Disciplina Financiera del Estado: Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios;
+XV. Ley de Disciplina Financiera del Estado: La Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios;
 
-XVI. Ley de Coordinación Fiscal: Ley de Coordinación Fiscal que rige al Sistema Nacional de Coordinación Fiscal;
+XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal que rige al Sistema Nacional de Coordinación Fiscal;
 
-XVII. Participaciones: son los ingresos federales que se le asignen al Estado y a los Municipios de acuerdo a lo dispuesto en el Capítulo I de la Ley de Coordinación Fiscal;
+XVII. Participaciones: Los ingresos federales que se le asignen al Estado y a los Municipios de acuerdo a lo dispuesto en el Capítulo I de la Ley de Coordinación Fiscal;
 
-XVIII. POE: Periódico Oficial del Estado;
+XVIII. POE: El Periódico Oficial del Estado;
 
-XIX. Reglamento: Reglamento Interior de los Órganos de la Coordinación Fiscal;
+XIX. Reglamento: El Reglamento Interior de los Órganos de la Coordinación Fiscal;
 
 XX. Reunión Estatal: La Reunión Estatal de Funcionarios Fiscales del Estado de Campeche;
 
-XXI. SEAFI: Servicio de Administración Fiscal del Estado de Campeche;
+XXI. SEAFI: El Servicio de Administración Fiscal del Estado de Campeche;
 
-XXII. SHCP: Secretaría de Hacienda y Crédito Público;
+XXII. SHCP: La Secretaría de Hacienda y Crédito Público;
 
-XXIII. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado;
+XXIII. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
 
-XXIV. Secretario: El Secretario de Finanzas del Poder Ejecutivo del Estado;
+XXIV. La o el Secretario: La persona titular de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
 
-XXV. Sistema Estatal de Coordinación Fiscal: Sistema Estatal de Coordinación Fiscal;
+XXV. La o el Subsecretario de Administración y Finanzas: La persona titular de la Subsecretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
 
-XXVI. Subsecretario de Egresos: El Subsecretario de Egresos de la Secretaría de Finanzas;
+XXVI. Sistema Estatal: El Sistema Estatal de Coordinación Fiscal;
 
-XXVII. Subsecretario de Ingresos: El Subsecretario de Ingresos de la Secretaría de Finanzas;
+XXVII. La o el Tesorero: La persona titular de la Tesorería de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
 
-XXVIII. Subsecretario de Programación y Presupuesto: El Subsecretario de Programación y Presupuesto de la Secretaría de Finanzas; y
+XXVIII. La o el Director General de Ingresos: La persona titular de la Dirección General de Ingresos de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado;
 
-XXIX. Tesoreros: Los Tesoreros de cada uno de los Municipios del Estado.
+XXIX. La o el Subsecretario de Programación y Presupuesto: La persona titular de la Subsecretaría de Programación y Presupuesto de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado; y
+
+XXX. Las o los Tesoreros Municipales: Las personas titulares de las Tesorerías de cada uno de los Municipios del Estado de Campeche.
 
 ### CAPÍTULO II. DE LAS PARTICIPACIONES DEL ESTADO Y MUNICIPIOS EN INGRESOS FEDERALES
 
@@ -337,6 +339,44 @@ Una vez realizados los ajustes a las Participaciones por cada fondo, se realizar
 
 La liquidación y el cálculo definitivo de los Fondos a distribuir a los Municipios y el ajuste respectivo a estos, se realizarán y aplicarán en el transcurso de los seis meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieran afectado provisionalmente.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 16 BIS.- El monto que del Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF), previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que recibe el Estado para compensar la caída en las Participaciones Federales respecto a los ingresos previstos en la Ley de Ingresos de la Federación, se distribuirá a los Municipios de conformidad con lo establecido en el artículo 4 fracciones I, II y VII de esta Ley.
+
+Para la integración de los montos recibidos de los Fondos a compensar del FEIEF referentes a las fracciones I, II y III del presente artículo, se deberán incluir las compensaciones provisionales del FEIEF participadas en el periodo señalado.
+
+Las cifras del FEIEF por concepto del Fondo de Fomento Municipal se integrarán de la siguiente manera:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 26 DE DICIEMBRE DE 2024, PÁGINAS DE LA 21 A LA 22.]</small>
+
+El Estado distribuirá el FEIEF a los Municipios en el plazo establecido en el artículo 15 primer párrafo de la Ley del Sistema de Coordinación Fiscal del Estado de Campeche y de conformidad con los artículos 16 BIS A, 16 BIS B y 16 BIS C de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 16 BIS A.- Para la distribución de los montos a compensar por concepto del FEIEF del Fondo Municipal de Participaciones a los Municipios, la Secretaría considerará el monto determinado en el artículo 16 BIS fracción I, aplicando el siguiente cálculo:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 26 DE DICIEMBRE DE 2024, PÁGINAS DE LA 23 A LA 24.]</small>
+
+Para efectos del cálculo previsto en este artículo, se considerará la información relativa de recaudación de los impuestos y derechos, contenida en la última Cuenta Pública correspondiente, presentada al H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 16 BIS B.- Para la distribución de los montos a compensar por concepto del FEIEF del Fondo por Colaboración Administrativa del Predial a los Municipios, la Secretaría considerará el monto determinado en el artículo 16 BIS fracción II, aplicando el siguiente cálculo:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 26 DE DICIEMBRE DE 2024, PÁGINAS DE LA 24 A LA 25.]</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 16 BIS C. Para la distribución de los montos a compensar por concepto del FEIEF del Fondo de Fiscalización y Recaudación Compensado a los Municipios, la Secretaría considerará el monto determinado en el artículo 16 BIS fracción III, aplicando el siguiente cálculo:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 26 DE DICIEMBRE DE 2024, PÁGINAS DE LA 25 A LA 26.]</small>
+
+Para efectos del cálculo previsto en este artículo, se considerará la información relativa de recaudación de los impuestos y derechos, contenida en la última Cuenta Pública correspondiente, presentada al H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 16 BIS D.- En caso de crearse un Municipio, y en tanto no se genere la información conforme el artículo 18 bis de la presente Ley, a la participación resultante de aplicar las fórmulas descritas en los artículos 16 BIS A, 16 BIS B y 16 BIS C, se le aplicarán los coeficientes de participación poblacional sobre el monto correspondiente al Municipio de origen, establecido en el artículo 11 bis de la presente Ley.
+
 ###### ARTÍCULO 17.
 
 Para efectos de la aplicación de las fórmulas de distribución de los Fondos señalados en este capítulo, se utilizarán los datos más recientes de población de los Municipios del Estado de Campeche que haya publicado el INEGI.
@@ -505,27 +545,31 @@ El Estado y los Municipios podrán celebrar Convenios de Colaboración en materi
 
 ### CAPÍTULO VI. DE LOS ORGANISMOS EN MATERIA DE COORDINACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-El Ejecutivo del Estado, a través del Secretario, y los Municipios, a través de los Tesoreros, participarán en el desarrollo del Sistema Estatal de Coordinación por medio de la Reunión Estatal.
+El Ejecutivo del Estado, a través de la o el Secretario, y los Municipios, a través de las o los Presidentes de los HH. Ayuntamientos del Estado, participarán en el desarrollo del Sistema Estatal por medio de la Reunión Estatal.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
 La Reunión Estatal estará integrada por:
 
-I. El Secretario, quien la presidirá;
+I. La o el Secretario, quien la presidirá, y podrá ser sustituido por la o el Subsecretario de Administración y Finanzas;
 
-II. Los Presidentes de los HH. Ayuntamientos del Estado, pudiendo sustituirlos los Tesoreros;
+II. Las o los presidentes de los HH. Ayuntamientos del Estado, quienes podrán ser sustituidos por las o los Tesoreros Municipales;
 
-III. El Subsecretario de Ingresos;
+III. La o el Director General de Ingresos;
 
-IV. El Administrador del SEAFI;
+IV. La o el Administrador del SEAFI;
 
-V. El Subsecretario de Egresos; y
+V. La o el Tesorero; y
 
-VI. El Subsecretario de Programación y Presupuesto.
+VI. La o el Subsecretario de Programación y Presupuesto.
 
-Como invitado de honor, podrá asistir el Gobernador cuando la trascendencia de los temas lo amerite.
+Como invitada o invitado de honor podrá asistir la o el Gobernador del Estado, cuando la trascendencia de los temas lo amerite.
 
 ###### ARTÍCULO 40.
 
@@ -583,11 +627,11 @@ VIII. Recibir las inconformidades que presenten el Estado o los Municipios, a tr
 
 IX. Las demás que deriven de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Los Grupos de Trabajo estarán integrados por el Secretario, el Subsecretario de Ingresos y cuatro Tesoreros nombrados por la Reunión Estatal. Se reunirán por lo menos una vez al mes, y serán convocados por el Secretario, quien los coordinará atendiendo la agenda que la Reunión Estatal les encomiende conforme las reglas, atribuciones y funciones que el Presidente de la misma emita. Dependiendo de los temas que se desahoguen en los grupos de trabajo, se podrá invitar a expertos y especialistas en materia hacendaria para que emitan su opinión y sirva de apoyo en el análisis y concertación de acuerdos.
-
-Para la celebración de sus reuniones, adopción de acuerdos y documentación de los mismos se estará a lo dispuesto por esta Ley y en las Reglas de su funcionamiento.
+Los Grupos de Trabajo estarán integrados por la o el Secretario, la o el Director General de Ingresos y cuatro de las o los Tesoreros Municipales nombrados por la Reunión Estatal. Se reunirán, por lo menos, una vez al mes, y serán convocados por la o el Secretario quien los coordinará, atendiendo la agenda que la Reunión Estatal les encomiende conforme las reglas, atribuciones y funciones que la o el Presidente de la misma emita. Dependiendo de los temas que se desahoguen en los grupos de trabajo, se podrá invitar a expertos y especialistas en materia hacendaria para que emitan su opinión y sirva de apoyo en el análisis y concertación de acuerdos.
 
 ###### ARTÍCULO 44.
 
@@ -758,3 +802,11 @@ P.O. 30 DE MARZO DE 2022.
 P.O. 17 DE MARZO DE 2023.
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 28 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, 38, 39 Y 43”; “SE ADICIONAN LOS ARTÍCULOS 16 BIS, 16 BIS A, 16 BIS B, 16 BIS C, 16 BIS D A LA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 2025, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
