@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-para-magistrados-de-85877"
 country: "mx"
 rank: "otro"
 publication_date: "2009-09-09"
-last_updated: "2024-09-23"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-09"
 
 CONDICIONES GENERALES DE TRABAJO PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2024.
 
 Condiciones publicadas en el Semanario Judicial de la Federación y su Gaceta, Tomo XXX, Noviembre de 2009, páginas de la 965 a la 982.
 
@@ -481,9 +481,13 @@ La jubilación será forzosa cuando el Magistrado de Circuito o Juez de Distrito
 
 La jubilación puede ser anticipada cuando los magistrados de Circuito o jueces de Distrito tengan la posibilidad de solicitar su retiro voluntario cuando cuenten con alguna de las pensiones otorgadas en términos de la Ley del Instituto.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES RELACIONADAS CON EL PLAN DE PENSIONES COMPLEMENTARIAS, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL DIVERSO PUBLICADO EL VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, D.O.F. 26 DE DICIEMBRE DE 2024)</small>
 
-Lo anterior, siempre que cuenten con al menos veinticinco años de servicios en el Poder Judicial de la Federación y hayan sido ratificados.
+Lo anterior, siempre que cuenten con al menos veinticinco años de servicios en el Poder Judicial de la Federación y hayan ejercido funciones de juzgador como titular de cualquier órgano jurisdiccional del Poder Judicial de la Federación por seis años, contados a partir de su primera adscripción, ya sea en el Consejo de la Judicatura Federal o en el Tribunal Electoral.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL DIVERSO PUBLICADO EL VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, D.O.F. 26 DE DICIEMBRE DE 2024)</small>
+
+Las personas juzgadoras que no cumplan los veinticinco años de servicio en el Poder Judicial de la Federación, pero que cuenten con alguna de las pensiones otorgadas por la Ley del Instituto y tengan seis años ejerciendo funciones como persona titular de un órgano jurisdiccional, podrán jubilarse anticipadamente con un porcentaje de pensión complementaria que disminuirá en un punto porcentual progresivamente conforme disminuyan los años de servicio.
 
 ###### Artículo 74.
 
@@ -588,3 +592,17 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación. Publí
 SEGUNDO. Para su mayor difusión, publíquese en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
+
+D.O.F. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL DIVERSO PUBLICADO EL VEINTITRÉS DE SEPTIEMBRE DE DOS MIL VEINTICUATRO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y para su mayor difusión, publíquese en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Hasta en tanto el órgano de administración judicial inicie funciones, el Consejo de la Judicatura Federal cumplirá lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito y emitirá las determinaciones y Acuerdos Generales necesarios para hacer efectivo el derecho a percibir una pensión complementaria en los supuestos procedentes.
+
+El órgano de administración judicial, una vez inicie funciones, continuará cubriendo el pago de las pensiones complementarias autorizadas de conformidad con los porcentajes, salarios y disposiciones previstas en los Acuerdos Generales vigentes al momento de la baja de la persona juzgadora, de igual manera, continuará el trámite de las solicitudes de pensión complementaria pendientes de resolver conforme la normatividad aplicable al momento de su baja.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
