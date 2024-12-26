@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-entrega-recepcion-de-las-administraciones-74606"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2020-12-27"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ENTREGA-RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de noviembre de 2009.
 
@@ -197,7 +197,9 @@ La Entrega-Recepción que establece esta Ley, se realizará mediante el acto adm
 
 Para que el acta tenga validez, debe cumplir con las formalidades del caso, la ausencia de la Contraloría u Órgano Interno de Control, según corresponda, en el acto de Entrega-Recepción, se considera como una falta de formalidad del mismo.
 
-El acta se elaborará en cinco tantos, quedándose un original bajo la custodia del servidor público o sujeto obligado que recibe; otro tanto en original para el responsable de la entrega; una copia se entregará a la Contraloría o al Órgano Interno de Control, según corresponda; otra copia se remitirá por conducto del superior jerárquico a la Entidad de Auditoría Superior del Estado, para los efectos correspondientes, de acuerdo a la Ley de Fiscalización Superior del Estado de Durango; y una copia se integrará a los archivos del área que se entrega, haciéndose constar dicha situación en el acta de Entrega-Recepción.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+El acta se elaborará en cinco tantos, quedándose un original bajo la custodia del servidor público o sujeto obligado que recibe; otro tanto en original para el responsable de la entrega; una copia se entregará a la Contraloría o al Órgano Interno de Control, según corresponda; otra copia se remitirá por conducto del superior jerárquico a la Auditoría Superior del Estado, para los efectos correspondientes, de acuerdo a la Ley de Fiscalización Superior del Estado de Durango; y una copia se integrará a los archivos del área que se entrega, haciéndose constar dicha situación en el acta de Entrega-Recepción.
 
 ###### Artículo 15.
 
@@ -363,11 +365,15 @@ XIV.- Las hojas que integran el acta deben foliarse en forma consecutiva;
 
 XV.- Hacer el señalamiento del domicilio legal del servidor público entrante y saliente;
 
-XVI.- El apercibimiento de conducir con la verdad ante la autoridad administrativa en el acto de Entrega-Recepción, de conformidad con lo dispuesto en el Código Penal para el Estado de Durango;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVI.- El apercibimiento de conducir con la verdad ante la autoridad administrativa en el acto de Entrega-Recepción, de conformidad con lo dispuesto en el Código Penal del Estado Libre y Soberano de Durango;
 
 XVII.- La manifestación de que los formatos y/o anexos forman parte integrante del acta; y
 
 XVIII.- La mención de la entrega del despacho y de los asuntos, no eximen de la responsabilidad en que hubiera incurrido el servidor público saliente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 32.
 
@@ -401,7 +407,9 @@ e) Inventario de almacén, describiendo el número y nombre del artículo, unida
 
 f) La situación de los bienes inmuebles; ubicación y contenido de los expedientes respectivos, señalando los datos del título de propiedad, Registro Público, descripción del bien, tipo de predio, municipio, ubicación y el uso actual que se le da al bien inmueble.
 
-En el caso de la entrega-recepción final por cambio de administración municipal, además de lo estipulado en la presente fracción, se deberá entregar una copia del último inventario remitido a la Entidad de Auditoría Superior a que se hace referencia en la fracción VIII del artículo 75 de la Ley Orgánica del Municipio Libre del Estado de Durango.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+En el caso de la entrega-recepción final por cambio de administración municipal, además de lo estipulado en la presente fracción, se deberá entregar una copia del último inventario remitido a la Auditoría Superior del Estado a que se hace referencia en la fracción VIII del artículo 75 de la Ley Orgánica del Municipio Libre del Estado de Durango.
 
 V.- Recursos Financieros:
 
@@ -710,3 +718,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 128 QUE CONTIENE REFORMAS A LA LEY PARA LA ENTREGA-RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
