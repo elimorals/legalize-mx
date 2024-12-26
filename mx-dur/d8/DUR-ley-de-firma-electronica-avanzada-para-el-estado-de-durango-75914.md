@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-firma-electronica-avanzada-para-el-estado-de-durango-759
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-03"
-last_updated: "2018-07-19"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el periódico Oficial del Estado de Durango, el jueves 3 de junio de 2010.
 
@@ -87,7 +87,9 @@ V.- Los Ayuntamientos;
 
 VI.- Los servidores públicos de las dependencias señaladas en las fracciones I a la V del presente artículo que, en la realización de los actos a que se refiere esta Ley utilicen la firma electrónica avanzada; y
 
-VII.- Los particulares que decidan utilizar la firma electrónica avanzada, por medios electrónicos, en los términos del presente ordenamiento.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VII.- Los particulares que por otras disposiciones legales deban utilizar la firma electrónica avanzada, por medios electrónicos, en los términos del presente ordenamiento.
 
 ###### Artículo 3.
 
@@ -559,6 +561,10 @@ IV.- Las demás que establezcan las disposiciones legales aplicables.
 
 La autoridad certificadora que corresponda dentro del ámbito de su competencia, podrá autorizar a otra entidad o dependencia, a expedir certificados de firma electrónica avanzada y a prestar servicios relacionados con la certificación. La acreditación deberá publicarse en el Periódico Oficial del Gobierno del Estado, previamente al inicio de la prestación de los servicios. Adquiriendo las responsabilidades expresas detalladas en la presente Ley y las definidas en el convenio que se firme.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Las Autoridades Fiscales de la Entidad podrán establecer mecanismos de coordinación con el Servicio de Administración Tributaria, para la generación y uso de los certificados de firma electrónica avanzada, para la prestación de los servicios de atención a contribuyentes, así como de la contraseña en los trámites, servicios y actos de autoridad electrónicos de la Entidad.
+
 ### CAPÍTULO VIII. DE LOS DERECHOS Y OBLIGACIONES DE LOS TITULARES DE CERTIFICADOS DE FIRMA ELECTRÓNICA AVANZADA
 
 ###### Artículo 49.
@@ -686,3 +692,15 @@ SEGUNDO.- La Comisión Estatal de Gobierno Digital de Durango, deberá integrars
 TERCERO.- A falta de disposición expresa en esta ley o en las demás disposiciones que de ellas se deriven, se aplicaran supletoriamente la Ley de Justicia Administrativa del Estado de Durango y la Legislación Procesal Civil aplicable.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 124 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
