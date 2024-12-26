@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2023-12-21"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -438,9 +438,9 @@ XXVII. Las demás que le confieran esta ley y otros ordenamientos.
 
 La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
-I. Multa de $350.57 a $35,057.35;
+I. Multa de $366.52 a $36,651.99;
 
 > <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -450,9 +450,9 @@ II. El auxilio de la fuerza pública;
 
 III. Ordenar arresto administrativo hasta por 36 horas, y
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
-IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $14,022.94, por un período no mayor a 180 días.
+IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $14,660.80, por un período no mayor a 180 días.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -1614,9 +1614,9 @@ f) Que la representación y gestión se realiza de manera gratuita, y
 
 g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $701,147.34.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $733,040.22.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1868,9 +1868,9 @@ En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas p
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $701,147.34.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $733,040.22.
 
 ###### ARTICULO 118.
 
@@ -1930,27 +1930,27 @@ ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a l
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $350.57 a $1’121,835.75.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $366.52 a $1’172,864.36.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $701.15 a $2’243,671.49.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $733.04 a $2´345,728.71.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $1,007.20 a $3’939,305.36.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $1,053.01 a $4´118,491.38.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
-ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $210,344.21 a $5’889,637.72. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $219,912.08 a $6´157,537.94. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -2060,9 +2060,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2023)
+(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2024)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $11’779,275.40.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $12´315,075.83.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -2568,31 +2568,17 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2024.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 1330.- MEDIANTE EL CUAL EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE OAXACA".]
+D.O.F. 26 DE DICIEMBRE DE 2024.
 
-PRIMERO. El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL PUNTO NOVENO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
-SEGUNDO. Se abroga la Ley Estatal para Prevenir y Sancionar la Tortura publicada en el Periódico Oficial del Estado de Oaxaca, el 20 de noviembre de 1993, aprobada mediante decreto número 153 por la Quincuagésima Quinta Legislatura del Estado
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre del 2025.
 
-TERCERO. La Fiscalía General del Estaco contará con un plazo de ciento ochenta dias siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Estatal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Estatal del Delito de Tortura.
+Para efectuar el pago de las cantidades que resulten de la actualización, para las fracciones del peso, el monto se adecuará para que las multas que contengan cantidades que incluyan de 1 hasta 50 centavos, se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, la Fiscalía Especializada deberá poner en marcha sus registros correspondientes
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL VEINTICINCO".]
 
-CUARTO. La Fiscalía General del Estado, contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente debiendo informar al Congreso del Estado a efecto de tomar las previsiones para los ejercicios fiscales subsecuentes.
-
-QUINTO. Las autoridades de estatales y municipales, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-
-SEXTO. Las autoridades de estatales y municipales, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
-
-SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Estatal, se cubrirán con cargo a sus presupuestos del ejercicio fiscal 2018 y los subsecuentes. Así mismo, se deberán realizar las previsiones y adecuaciones presupuestales necesarias, para dar cumplimiento a las obligaciones establecidas en este decreto.
-
-OCTAVO. Una vez que, en términos de lo dispuesto en el Artículo Tercero Transitorio del presente Decreto, la Fiscalía General del Estado comience a operar el Registro Estatal del delito de Tortura, la Comisión Ejecutiva Estatal y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
-
-NOVENO. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Estatal de Atención a Víctimas, deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
-
-DÉCIMO. A fin de dar cumplimiento a las atribuciones que se establecen en esta Ley, la Comisión Ejecutiva Estatal de Atención a Víctimas, realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria. así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo del ciento ochenta días contados a partir de su entrada en vigor.
-
-P.O. 12 DE MAYO DE 2018.
+ÚNICO.- El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación y entrará en vigor el 01 de enero del 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1459.- MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA.
 
