@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2024-10-09"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -71,7 +71,9 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Accidente: Al hecho súbito que ocasione daños a la salud, y que se produzca por la concurrencia de condiciones potencialmente prevenibles y cuyos efectos adversos son atenuables;
 
-II. Autoridades Administrativas Estatales: A las Secretarías o Dependencias y Entidades de la Administración Pública del Estado de Campeche, encargadas de la aplicación de la presente Ley: se incluyen a los órganos desconcentrados y a las unidades administrativas que puedan ser competentes en los actos administrativos que deriven de este ordenamiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+II. Autoridades Administrativas Estatales: A las Secretarías, Dependencias y Entidades de la Administración Pública del Estado de Campeche, encargadas de la aplicación de la presente Ley;
 
 III. Ambiente: Al conjunto de elementos naturales e inducidos por la humanidad, que hacen posible la existencia y desarrollo de la vida de los seres humanos y demás organismos que interactúan en un espacio y tiempo determinados;
 
@@ -165,9 +167,13 @@ XLVII. Sensibilización: Transmisión de información a la población, con el fi
 
 XLVIII. Señalización: Conjunto integrado de dispositivos, marcas y señales que indican la geometría de las vías, sus acotamientos, las velocidades máximas, la dirección de tránsito, así como sus bifurcaciones, cruces y pasos a nivel, garantizando su adecuada visibilidad de manera permanente;
 
-XLIX. Servicio de transporte: Actividad mediante la cual las Entidades federativas y los municipios, otorgan concesión, permiso o autorización a personas físicas o morales para que suministren el servicio de transporte para satisfacer las necesidades de movilidad de las personas, bienes y mercancías, de conformidad con su normatividad aplicable;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-L. Servicio de transporte público: Actividad a través de la cual las Entidades federativas y los municipios, satisfacen las necesidades de transporte accesible e incluyente de pasajeros o carga en todas sus modalidades, dentro del área de su jurisdicción;
+XLIX. Servicio de transporte: Actividad mediante la cual las Entidades Federativas otorgan concesión, permiso o autorización a personas físicas o morales para que suministren el servicio de transporte para satisfacer las necesidades de movilidad de las personas, bienes y mercancías, de conformidad con su normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+L. Servicio de transporte público: Actividad a través de la cual las Entidades Federativas, satisfacen las necesidades de transporte accesible e incluyente de pasajeros o carga en todas sus modalidades, dentro del área de su jurisdicción;
 
 LI. Servicios auxiliares: Son todos los bienes muebles o inmuebles e infraestructura, así como los servicios a los que hace referencia la Ley de Caminos, Puentes y Autotransporte Federal y que resulten complementarios a la prestación del servicio de transporte público, previstos en la legislación aplicable y que son susceptibles de autorización, permiso o concesión a particulares, por parte de los tres órdenes de gobierno;
 
@@ -615,31 +621,35 @@ II. Las autoridades locales harán compatibles el ordenamiento ecológico del te
 
 El Sistema Estatal de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial en el Estado de Campeche, así como con los sectores de la sociedad en la materia, a fin de cumplir el objeto, los objetivos y principios de esta Ley, el Plan Estatal de Desarrollo, el Sistema Nacional y la Estrategia Nacional de Seguridad y Movilidad Vial, así como los instrumentos de planeación específicos.
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 El Sistema Estatal estará integrado por:
 
-I. La o el Depositario del Poder Ejecutivo, quien podrá designar a la persona que la represente o supla:
+I. La o el Depositario del Poder Ejecutivo, quien podrá designar a la persona que la represente o supla;
 
-II. La o el titular de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas del Estado de Campeche, quien presidirá el Sistema;
+II. La o el titular de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicasdel (sic) Estado de Campeche, quien presidirá el Sistema;
 
 III. La o el titular de la Secretaría de Gobierno;
 
-IV. La o el titular de la Secretaría de Protección y Seguridad Ciudadana;
+IV. La o el titular de la Secretaría de Administración y Finanzas;
 
 V. La o el titular de la Secretaría de Modernización Administrativa e Innovación Gubernamental;
 
-VI. La o el titular de la Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía;
+VI. La o el titular de la Secretaría de Salud;
 
-VII. La o el titular de la Secretaría de Administración y Finanzas;
+VII. La o el titular de la Secretaría de Inclusión;
 
-VIII. La o el titular de la Secretaría de Salud;
+VIII. La o el titular de la Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía;
 
-IX. Las o los Presidentes Municipales;
+IX. La o el titular de la Secretaría de Protección y Seguridad Ciudadana;
 
-X. El o los Observatorios Ciudadanos, por conducto de sus representantes;
+X. La o el titular de la Agencia Reguladora del Transporte del Estado de Campeche;
 
-XI. La o el titular de la Secretaría de Inclusión; y
+XI. Las o los Presidentes Municipales;
 
-XII. La o el titular del Instituto de la Mujer.
+XII. El o los Observatorios Ciudadanos, por conducto de sus representantes; y
+
+XIII. La o el titular del Instituto de la Mujer.
 
 Cada una o uno de los integrantes contará con voz y voto, pudiendo designar a la persona que los supla en las sesiones respectivas. Asimismo, a petición de cualquiera de las personas integrantes, se podrá invitar a personas de las diversas Dependencias y Entidades de la Administración Pública, de los otros dos Poderes, de los organismos constitucionales autónomos, así como representantes de la Administración Pública Federal, quienes podrán acudir con voz, pero sin voto.
 
@@ -705,27 +715,31 @@ XIV. Las demás que se establezcan para el funcionamiento del Sistema (sic) el c
 
 En la aplicación de esta Ley y sus reglamentos, concurrirán el Poder Ejecutivo del Estado y los HH. Ayuntamientos, en los ámbitos de sus respectivas competencias constitucionales y conforme a las atribuciones que establece el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 31.
 
-Corresponde a la Administración Pública Estatal, en coordinación con las autoridades Federales y Municipales cuando corresponda, la aplicación y vigilancia de la presente Ley, a través de las siguientes Secretarías, Entidades y órganos desconcentrados:
+Corresponde a la Administración Pública Estatal, en coordinación con las autoridades Federales y Municipales cuando corresponda, la aplicación y vigilancia de la presente Ley, a través de las siguientes Secretarías, Dependencias y Entidades de la Administración Pública del Estado:
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
+II. Secretaría de Administración y Finanzas;
 
-III. Secretaría de Protección y Seguridad Ciudadana;
+III. Secretaría de Modernización Administrativa e Innovación Gubernamental;
 
-IV. Secretaría de Administración y Finanzas;
+IV. Secretaría de Salud;
 
-V. Secretaría de Modernización Administrativa e Innovación Gubernamental;
+V. Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
 
 VI. Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía;
 
-VII. Secretaría de Salud;
+VII. Secretaría de Protección y Seguridad Ciudadana;
 
-VIII. Comisión Estatal de Desarrollo de Suelo y Vivienda; y
+VIII. Agencia Reguladora del Transporte del Estado de Campeche;
 
-IX. Las demás Secretarías, Dependencias o Entidades de la Administración Pública Estatal y Municipal a la que expresamente se le atribuyen facultades por esta Ley.
+IX. Comisión Estatal de Desarrollo de Suelo y Vivienda; y
+
+X. Las demás Secretarías, Dependencias y/o Entidades de la Administración Pública Estatal y Municipal a la que expresamente se le atribuyen facultades por esta Ley.
 
 ###### Artículo 32.
 
@@ -737,7 +751,9 @@ II. Participar y brindar asesoría técnica en la elaboración, así como dar vi
 
 III. Aprobar el Programa Integral del Transporte a nivel metropolitano respecto al servicio de transporte a escala metropolitana en el marco del respeto por los derechos humanos, la seguridad, el medio ambiente y la calidad del entorno urbano, elaborado por la Secretaría de Modernización Administrativa e Innovación Gubernamental, en coordinación con la Secretaría de Desarrollo Urbano Movilidad y Obras Públicas;
 
-IV. Elaborar, en coordinación con las demás Secretarías, Entidades y órganos desconcentrados, según el caso, las normas generales de carácter técnico en las materias objeto de esta Ley, que deba expedir la o el Depositario del Ejecutivo Estatal; así como los proyectos de reglamentos Estatales que resulten necesarios para proveer su observancia, en materia del servicio de transporte;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+IV. Elaborar, en coordinación con las demás Secretarías, Dependencias y Entidades, según el caso, las normas generales de carácter técnico en las materias objeto de esta Ley, que deba expedir la o el Depositario del Ejecutivo Estatal; así como los proyectos de reglamentos Estatales que resulten necesarios para proveer su observancia, en materia del servicio de transporte;
 
 V. Celebrar, convenios o acuerdos de coordinación y concertación con otros órdenes de gobierno, así como con los sectores privado, académico y social, a efecto de promover la planeación y el desarrollo de acciones e inversiones concertadas en materia del servicio de transporte, atendiendo a los principios de esta Ley y a la opinión de la Secretaría de Modernización Administrativa e Innovación Gubernamental, en coordinación con la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
 
@@ -793,7 +809,9 @@ XV. Promover la inversión en la construcción de ciclovías o infraestructura d
 
 XVI. Emitir manuales o lineamientos técnicos para el diseño de la infraestructura y equipamiento para la movilidad en el Estado, que considere lo establecido en la presente Ley;
 
-XVII. Elaborar, en coordinación con las demás Secretarías, Entidades y órganos desconcentrados, según el caso, las normas generales de carácter técnico en las materias objeto de esta Ley, que deba expedir la o el Depositario del Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVII. Elaborar, en coordinación con las demás Secretarías, Dependencias y Entidades, según el caso, las normas generales de carácter técnico en las materias objeto de esta Ley, que deba expedir la o el Depositario del Ejecutivo Estatal;
 
 XVIII. Realizar las acciones que en materia de movilidad se hayan dispuesto en el artículo anterior, en coordinación con la Secretaría de Gobierno y demás Secretarías allí señaladas;
 
@@ -811,9 +829,13 @@ III. Desarrollar el reglamento en materia de tránsito, control y operación via
 
 IV. Las demás establecidas en la presente Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
 Corresponde a la Secretaría de Administración y Finanzas proponer en la Ley de Presupuesto de Egresos del Estado de Campeche del ejercicio fiscal que corresponda, los recursos suficientes para el correcto funcionamiento y aplicación de la presente Ley.
+
+El Ejecutivo Estatal podrá destinar recursos para el otorgamiento de apoyos a través de programas y proyectos cuyo objeto se relacione con el mejoramiento de la movilidad y del transporte. Los programas y proyectos que sean aprobados para este fin serán considerados como prioritarios y deberán sujetarse a las Reglas de Operación que para tal efecto se emitan.
 
 ###### Artículo 36.
 
@@ -953,9 +975,11 @@ b) Seguimiento a la ejecución de obras, la evaluación de los programas y la op
 
 Toda persona tiene derecho a la información en materia de movilidad. El Estado conducirá la política de movilidad bajo el principio de datos abiertos, de conformidad con la Ley General y Estatal en materia de transparencia y acceso a la información pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 45.
 
-Las Secretarías de Gobierno, de Modernización Administrativa e Innovación Gubernamental y de Desarrollo Urbano, Movilidad y Obras Públicas, en coordinación con las autoridades Estatales y Municipales correspondientes monitorearán y suministrarán información sobre los orígenes, destinos, modos, tiempos, entre otras variables sobre los desplazamientos de la población y sus bienes, tales como la evolución de la participación modal, tasa de motorización, accidentes viales, emisión de GEI y otros contaminantes; entre otras externalidades de la movilidad. La información recabada, deberá ser compatible con el Sistema de Información Territorial y Urbano y su actualización deberá seguir los “Lineamientos de Interoperabilidad” de los sistemas de información geográfica proporcionados por la Federación.
+Las Secretarias de Gobierno, de Modernización Administrativa e Innovación Gubernamental y de Desarrollo Urbano, Movilidad y Obras Públicas, así como la Agencia Reguladora del Transporte, en coordinación con las autoridades Estatales y Municipales correspondientes monitorearán y suministrarán información sobre los orígenes, destinos, modos, tiempos, entre otras variables sobre los desplazamientos de la población y sus bienes, tales como la evolución de la participación modal, tasa de motorización, accidentes viales, emisión de GEI y otros contaminantes; entre otras externalidades de la movilidad. La información recabada, deberá ser compatible con el Sistema de Información Territorial y Urbano y su actualización deberá seguir los “Lineamientos de Interoperabilidad” de los sistemas de información geográfica proporcionados por la Federación.
 
 Todo lo anterior, de conformidad con lo que dispone el artículo 27 de la Ley General de Movilidad y Seguridad Vial.
 
@@ -1051,9 +1075,11 @@ b) Prevenir conflictos de tránsito; desestimular el uso del automóvil particul
 
 c) Promover el uso intensivo del transporte público y activo buscando la participación en la promoción de los beneficios de la movilidad más allá de las agendas personales, privadas y gubernamentales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 61.
 
-En caso de emergencias o contingencias por caso fortuito o fuerza mayor, las Secretarías de Gobierno y la Secretaría de Protección y Seguridad Ciudadana podrán coordinarse con la Secretaría de Protección Civil, en el ámbito de sus competencias, para establecer las medidas de movilidad necesarias para enfrentar dichas situaciones, priorizando soluciones de movilidad activa y transporte público. Asimismo, se implementarán acciones de movilidad como una herramienta para atender las necesidades de las personas durante situaciones de emergencia o contingencia.
+En caso de emergencias o contingencias por caso fortuito o fuerza mayor; la Secretaría de Protección y Seguridad Ciudadana y la Agencia Reguladora del Transporte podrán coordinarse con la Secretaría de Protección Civil, en el ámbito de sus competencias, para establecer las medidas de movilidad necesarias para enfrentar dichas situaciones, priorizando soluciones de movilidad activa y transporte público. Asimismo, se implementarán acciones de movilidad como una herramienta para atender las necesidades de las personas durante situaciones de emergencia o contingencia.
 
 Las autoridades Municipales realizarán lo señalado en el párrafo anterior, en el ámbito de sus respectivas competencias.
 
@@ -1079,9 +1105,11 @@ Las Secretarías de Gobierno, de Protección y Seguridad Ciudadana, y de Desarro
 
 Las Secretarías de Gobierno de Protección y Seguridad Ciudadana, y de Desarrollo Urbano, Movilidad y Obras Públicas, en el ámbito de sus competencias, asegurarán y promoverán el acceso de mujeres y niñas a espacios públicos y en los diferentes medios de transporte de calidad, seguro y eficiente, incluyendo acciones para prevenir la violencia basada en género y el acoso sexual.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-Las Secretarías de Protección y Seguridad Ciudadana y de Desarrollo Urbano, Movilidad y Obras Públicas, así como los Municipios en el ámbito de sus competencias, establecerá (sic) acciones para la prevención de accidentes y el Mejoramiento de la infraestructura vial y de Movilidad.
+Las Secretarías de Protección y Seguridad Ciudadana y de Desarrollo Urbano, Movilidad y Obras Públicas, y la Agencia Reguladora del Transporte del Estado de Campeche, así como los Municipios en el ámbito de sus competencias, establecerán acciones para la prevención de accidentes y el mejoramiento de la infraestructura vial y de movilidad.
 
 ###### Artículo 67.
 
@@ -1101,9 +1129,11 @@ La Secretaría de Gobierno y la Secretaría de Desarrollo Urbano, Movilidad y Ob
 
 Asimismo, podrán promover la entrega de estímulos y reconocimientos a las escuelas y empresas que participen en las iniciativas de movilidad escolar y empresarial y que contribuyan a fomentar nuevos esquemas de desplazamiento entre alumnos, profesores y empleados, orientados a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento de la micromovilidad, redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 71.
 
-La Secretaría de Gobierno, en coordinación con la Secretaría de Protección y Seguridad Ciudadana y de Desarrollo Urbano, Movilidad y Obras Públicas promoverán políticas que integren al transporte de carga y fomenten la movilidad institucional, entendida esta última como aquella realizada por el sector público y privado o instituciones académicas orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo con su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines.
+La Agencia Reguladora del Transporte, en coordinación con la Secretaría de Protección y Seguridad Ciudadana; y de Desarrollo Urbano, Movilidad y Obras Públicas promoverán políticas que integren al transporte de carga y fomenten la movilidad institucional, entendida esta última como aquella realizada por el sector público y privado o instituciones académicas orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo con su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines.
 
 ###### Artículo 72.
 
@@ -1497,9 +1527,11 @@ Las licencias de conducción, expedidas en otro país, que se encuentren vigente
 
 #### SECCIÓN I. DEFINICIÓN Y COMPONENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 119.
 
-El Sistema de movilidad integrada (SMI) es el conjunto de servicios y componentes de movilidad y transporte público de pasajeros que están articulados de manera física, operacional, informativa, de imagen y que tienen un mismo medio de pago; el cual integra tanto a los elementos y servicios contratados, así como los proporcionados por el Estado por medio de sus instancias del sector central, paraestatal y/o desconcentrado.
+El Sistema de movilidad integrada (SMI) es el conjunto de servicios y componentes de movilidad y transporte público de pasajeros que están articulados de manera física, operacional, informativa, de imagen y que tienen un mismo medio de pago; el cual integra tanto a los elementos y servicios contratados, así como los proporcionados por el Estado por medio de sus instancias del sector central y paraestatal.
 
 I. Con el Sistema de Movilidad Integrada se planifica, regula y gestiona la movilidad de las personas y bienes considerando los componentes: territorial y urbano, vial, tránsito, infraestructura, servicios, operación, control, tecnología, entre otros.
 
@@ -1561,17 +1593,17 @@ B) Movilidad Motorizada
 
 I. Transporte de pasajeros
 
-1. Público:
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+1. Público
 
 a) Masivo;
 
 b) Colectivo;
 
-c) Individual;
+c) Individual; y
 
-d) Mototaxis; y
-
-e) Tricitaxis
+d) Mototaxi
 
 2. Mercantil:
 
@@ -1633,11 +1665,13 @@ II) Concesiones y Permisos.
 
 El transporte de personas en cualquier zona del territorio del Estado a cambio de un precio o tarifa constituye un servicio público para cuya prestación se requiere de una concesión o permiso otorgados conforme a la presente Ley y los artículos contenidos en el reglamento de Transporte del Estado de Campeche.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 III) Tarifas y peajes.
 
-Los usuarios del servicio de transporte público, están obligados a realizar el pago de una tarifa por la obtención de ese servicio. La política tarifaria deberá establecer la estructura de financiamiento de los servicios de transporte público en sus diferentes modalidades, considerando que el ingreso proviene del usuario, actores privados y públicos que contribuyen a la provisión del servicio, buscando el mayor beneficio, calidad y equidad en el precio de los mismos. De igual forma, en todo momento se buscará considerar el componente social para la asequibilidad del servicio público, principalmente en los grupos de personas usuarias que se encuentran en grupos en situación de vulnerabilidad económica y/o social.
+Los usuarios del servicio de transporte público están obligados a realizar el pago de una tarifa por la obtención de ese servicio. La política tarifaria deberá establecer la estructura de financiamiento de los servicios de transporte público en sus diferentes modalidades, considerando que el ingreso proviene del usuario, actores privados y públicos que contribuyen a la provisión del servicio, buscando el mayor beneficio, calidad y equidad en el precio de los mismos. De igual forma, en todo momento se buscará considerar el componente social para la asequibilidad del servicio público, principalmente en los grupos de personas usuarias que se encuentran en grupos en situación de vulnerabilidad económica y/o social.
 
-Las tarifas de transporte público de pasajeros en todas sus modalidades, serán determinadas por el Consejo Estatal del Transporte.
+Las tarifas de transporte público de pasajeros en todas sus modalidades, serán determinadas por la Junta de Gobierno de la Agencia Reguladora del Transporte del Estado de Campeche.
 
 IV) Intercambio modal.
 
@@ -1649,11 +1683,13 @@ V) Equipamiento auxiliar.
 
 El equipamiento auxiliar se conforma de los accesorios directos e indirectos que resulten complementarios a la prestación del servicio de transporte público de pasajeros y de carga, que sean susceptibles de permiso o autorización por parte de la autoridad de la movilidad.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 VI) Incorporación tecnológica.
 
-Para la integración/operación del Sistema de Movilidad Integrada se podrán emplear soluciones apoyadas en tecnología para almacenar, procesar y distribuir información que permita contar con nuevos sistemas, aplicaciones y servicios que contribuyan a una gestión eficiente, tendiente a la automatización, así como a la reducción de las externalidades negativas de los desplazamientos.
+Para la integración / operación del Sistema de Movilidad Integrada se podrán emplear soluciones apoyadas en tecnología para almacenar, procesar y distribuir información que permita contar con nuevos sistemas, aplicaciones y servicios que contribuyan a una gestión eficiente, tendiente a la automatización, así como a la reducción de las externalidades negativas de los desplazamientos.
 
-En el caso del cobro tarifario por medio de los sistemas de recaudo basados en tecnología, la Secretaría de Gobierno definirá las especificaciones que deberán contener los equipos del sistema de cobro.
+En el caso del cobro tarifario por medio de los sistemas de recaudo basados entecnología (sic), la Agencia Reguladora del Transporte del Estado de Campeche definirá las especificaciones que deberán contener los equipos del sistema de cobro.
 
 ###### Artículo 124.
 
@@ -1677,11 +1713,13 @@ Los componentes de integración que sirven de base para la gestión operativa de
 
 6. Sistemas de Control de la Operación.
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ii) Criterios de integralidad, calidad y eficiencia.
 
-Los servicios prestados en (sic) por el Sistema de Movilidad Integrada deberán garantizar el poder de elección a las personas usuarias, lo cual les permita el efectivo desplazamiento en condiciones de seguridad, accesibilidad, comodidad, eficiencia, calidad, igualdad y sustentabilidad, que satisfaga las necesidades de las personas y el desarrollo de la sociedad en su conjunto.
+Los servicios prestados por el Sistema de Movilidad Integrada deberán garantizar el poder de elección a las personas usuarias, lo cual les permita el efectivo desplazamiento en condiciones de seguridad, accesibilidad, comodidad, eficiencia, calidad, igualdad y sustentabilidad, que satisfaga las necesidades de las personas y el desarrollo de la sociedad en su conjunto.
 
-Asimismo, el SMI deberá contar con un mecanismo de información a las personas usuarias que les permita conocer (sic) estado del sistema de movilidad con el propósito de que:
+Asimismo, el SMI deberá contar con un mecanismo de información a las personas usuarias que les permita conocer el estado del sistema de movilidad con el propósito de:
 
 1. Planear sus trayectos;
 
@@ -1695,9 +1733,11 @@ Asimismo, el SMI deberá contar con un mecanismo de información a las personas 
 
 B) Vehículos
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 i) Tipología.
 
-Con el propósito de definir la mejor oferta de servicios y las condiciones de calidad de servicio a las personas usuarias, la tipología se definirá mediante reglas/lineamientos/normas técnicas, la tipología vehicular que se utilizará en el territorio del estado, para cada modo de transporte urbano o servicio de movilidad; en cuyo caso se especificarán las características físicas, mecánicas y tecnológicas de los vehículos disponibles en el mercado mexicano.
+Con el propósito de definir la mejor oferta de servicios y las condiciones de calidad de servicio a las personas usuarias, se definirá mediante reglas / lineamientos / normas técnicas, la tipología vehicular que se utilizará en el territorio del Estado, para cada modo de transporte urbano o servicio de movilidad; en cuyo caso se especificarán las características físicas, mecánicas y tecnológicas de los vehículos disponibles en el mercado.
 
 ii) Criterios sustentables.
 
@@ -1729,9 +1769,11 @@ La concesión o el permiso confiere al prestador del servicio el derecho de pres
 
 Asimismo, le confiere el derecho de utilizar las instalaciones e infraestructura necesarias para la prestación del servicio a que se refiere el párrafo anterior. Entre otras, podrá utilizar los espacios asignados en los Centros de Transferencia Modal, la vialidad, lugares de ascenso y descenso, bases, andenes, entre otros; el uso de las instalaciones e infraestructura se efectuará de conformidad con las disposiciones previstas en la normatividad de la materia y observando las disposiciones establecidas por el Sistema Estatal de Movilidad y Seguridad Vial. En ninguno de los casos, el presente se (sic) concede al prestador del servicio los derechos reales o adquiridos sobre los bienes o infraestructura señalada.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 B. Obligaciones del prestador del servicio
 
-El prestador del servicio deberá prestar éstos conforme a las disposiciones de esta Ley y demás disposiciones jurídicas, administrativas y técnicas aplicables, así como las que establezcan en el (sic) la concesión o el permiso. Asimismo, será responsable ante la (sic) Sistema Estatal de Movilidad y Seguridad Vial del cumplimiento de las obligaciones establecidas en la concesión o el permiso, los cuales estén relacionados con el servicio público que presta el concesionario o permisionario sin que ello implique una subrogación de sus obligaciones.
+El prestador del servicio deberá prestar éstos conforme a las disposiciones de esta Ley y demás disposiciones jurídicas, administrativas y técnicas aplicables, así como las que establezcan en la concesión o el permiso. Asimismo, será responsable ante el Sistema Estatal de Movilidad y Seguridad Vial del cumplimiento de las obligaciones establecidas en la concesión o el permiso, los cuales estén relacionados con el servicio público que presta el concesionario o permisionario sin que ello implique una subrogación de sus obligaciones.
 
 #### SECCIÓN II. DEL TRANSPORTE Y LA MOVILIDAD
 
@@ -1857,23 +1899,31 @@ E. Carga en general.
 
 IV. Servicio particular.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 131.
 
-El Servicio de Transporte Mixto será el Servicio Público que se preste con vehículos con cabina integrada y espacio dedicado al traslado de cinco pasajeros incluidos el conductor, dividido del área de carga.
+El Servicio de Transporte Mixto será el Servicio Público que se preste con vehículos con cabina integrada y espacio dedicado al traslado de hasta cinco pasajeros incluidos el conductor, dividido del área de carga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 132.
 
-Para efectos de la presente Ley, se entiende por sistema BRT (Bus Rapid Transit) al servicio de transporte público de pasajeros, con operación regulada, controlada y con un recaudo centralizado, que opera de manera preferencial o exclusiva en una vialidad, total o parcialmente confinados, que cuenta con paradas predeterminadas y con una infraestructura para el ascenso y descenso de pasajeros, terminales en su origen y destino, con una organización para la prestación del servicio con personas morales.
+Para efectos de la presente Ley, se entiende por sistema BRT (Bus Rapid Transit) al servicio de transporte público de pasajeros, con operación regulada, controlada y con un recaudo centralizado, que cuenta con paradas predeterminadas y con una infraestructura para el ascenso y descenso de pasajeros, terminales en su origen y destino, con una organización para la prestación del servicio con personas morales.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 De igual forma, para efectos de la presente Ley, se entiende por DRT (Digital Rail Transit) al o los vehículos del tipo BRT eléctrico con sistema de guiado semiautomático, sin catenaria ni rieles, que utiliza neumáticos de caucho común para el transporte urbano de pasajeros, similar a otros autobuses guiados.
 
-#### SECCIÓN III. DEL INSTITUTO ESTATAL DEL TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN III. DE LA AGENCIA REGULADORA DEL TRANSPORTE DEL ESTADO DE CAMPECHE
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 133.
 
-El Instituto Estatal del Transporte será una unidad administrativa adscrita a la Secretaría de Gobierno, la cual tendrá rango de Subsecretaría o Dirección General, de conformidad con lo que permita su disponibilidad presupuestal y se establezca así en el Reglamento Interior de dicha Secretaría, la cual tiene por objeto:
+Se crea la Agencia Reguladora del Transporte del Estado de Campeche, como Organismo Descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Gobierno de la Administración Pública Estatal, el cual tiene por objeto:
 
 I. Vigilar la prestación del servicio público de transporte en todo el territorio del Estado y prestar el mismo, de conformidad con la legislación correspondiente;
 
@@ -1883,35 +1933,99 @@ III. Velar porque la satisfacción del servicio público de transporte se realic
 
 IV. Prevenir que en la prestación del servicio público de transporte se realicen prácticas monopólicas o de competencia desleal;
 
-V. Proponer a la o el Secretario de Gobierno, la determinación de los términos y condiciones para la prestación del servicio público de transporte y las concesiones y permisos para su prestación;
+V. Determinar los términos y condiciones para la prestación del servicio público, privado y mercantil de transporte; para el otorgamiento de las concesiones y permisos, así como para su prestación;
 
-VI. Proponer a la o el Secretario de Gobierno, la determinación de los términos y condiciones para la prestación del servicio mercantil y privado de transporte y otorgar permisos a particulares para su prestación;
+VI. Vigilar el cumplimiento de esta Ley, la legislación general en materia de transporte y movilidad y las disposiciones que conforme a ella se emitan;
 
-VII. Vigilar el cumplimiento de esta Ley, la legislación general en materia de transporte y movilidad y las disposiciones que conforme a ella se emitan;
+VII. Imponer sanciones e infracciones, en los términos de la presente ley y del Reglamento en materia de transporte que emane de ésta;
 
-VIII. Imponer sanciones e infracciones, en los términos de la presente ley y del reglamento en materia de transporte que emane de ésta;
+VIII. Llevar un Registro Público de Transporte, de conformidad con lo que disponga el Reglamento en materia de Transporte; y
 
-IX. Llevar un Registro Público de Transporte, de conformidad con lo que disponga el Reglamento en materia de Transporte; y
+IX. Las demás que le señalen otras disposiciones legales.
 
-X. Las demás que le señalen otras disposiciones legales.
+La Agencia Reguladora de Transporte tendrá su sede en la ciudad de San Francisco de Campeche, Municipio de Campeche, capital del Estado de Campeche, sin perjuicio de poder establecer oficinas en los Municipios del mismo Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 133 Bis.
+
+La administración de la Agencia Reguladora del Transporte del Estado de Campeche estará a cargo de su Junta de Gobierno y de un Director General.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 133 Ter.
+
+La Junta de Gobierno es el Órgano de Gobierno de la Agencia Reguladora del Transporte, y estará integrado por:
+
+I. Una o un presidente, que será la persona titular de la Secretaría de Gobierno;
+
+II. Como vocales, las y los titulares de las siguientes Secretarías de la Administración Pública Estatal:
+
+a) Secretaría de Administración y Finanzas;
+
+b) Secretaría de Modernización Administrativa e Innovación Gubernamental;
+
+c) Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
+
+d) Secretaría de Desarrollo Económico;
+
+e) Secretaría de Medio Ambiente, Cambio Climático y Energía;
+
+f) Secretaría de Protección y Seguridad Ciudadana; y
+
+g) Secretaría de la Contraloría.
+
+El cargo de integrante de la Junta de Gobierno será honorífico, por lo que no dará derecho a percepción alguna. Las personas con carácter de vocales tendrán derecho a voz y voto. Cada integrante de la Junta de Gobierno nombrará a una persona suplente que asistirá a las sesiones en sus ausencias.
+
+En ningún caso podrán ser integrantes de la Junta de Gobierno, las personas que prevé el artículo 19 de la Ley de la Administración Pública Paraestatal del Estado de Campeche. La o el Director General participará en las sesiones de la Junta de Gobierno como Secretaria o Secretario Técnico de la misma, y tendrá derecho a voz, pero en ningún caso tendrá derecho a voto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 133 Quáter.
+
+Las facultades y obligaciones de la Junta de Gobierno, del Director General y de sus órganos de vigilancia; la periodicidad con la que sesionará el órgano de gobierno y la forma en la que se tomarán sus resoluciones serán aquellas que se establezcan en el Reglamento Interior de la Agencia Reguladora del Transporte, de conformidad con lo previsto en la Ley de la Administración Pública Paraestatal del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 133 Quinquies.
+
+El Patrimonio de la Agencia Reguladora del Transporte estará constituido por:
+
+I. Los bienes muebles e inmuebles, así como los derechos que por cualquier título legal obtenga;
+
+II. Los ingresos que perciba por los servicios, productos, asociaciones, convenios y acciones que realice en cumplimiento de sus objetivos o que pueda obtener por cualquier otro medio legal;
+
+III. Las cantidades que por diferentes conceptos se le asignen en el Presupuesto de Egresos del Estado para el cumplimiento de sus objetivos y fines;
+
+IV. Los rendimientos y demás ingresos que obtenga de la inversión de los recursos a que se refiere este artículo;
+
+V. Las donaciones, herencias y legados que se hicieren a su favor, así como en los fideicomisos en los que tenga el carácter de fideicomisario; y
+
+VI. Los demás bienes, derechos o recursos que adquiera u obtenga por cualquier otro título legal, para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Artículo 133 Sexties.- Las relaciones laborales entre la Agencia Reguladora del Transporte y su personal se regirán por el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche.
 
 #### SECCIÓN IV. DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 134.
 
-Corresponde a la Secretaría de Gobierno, así como a los Municipios, en el ámbito de sus respectivas competencias, la planeación, establecimiento, regulación, aprobación, supervisión, organización, ampliación y en su caso modificación, del conjunto de operaciones, tecnología, operación y administración, para proporcionar el acceso de la población al Transporte seguro, asequible, accesible, resiliente y sostenible, tanto de personas como de mercancías.
+Corresponde a la Secretaría de Gobierno y a la Agencia Reguladora del Transporte, así como a los Municipios, en el ámbito de sus respectivas competencias, la planeación, establecimiento, regulación, aprobación, supervisión, organización, ampliación y en su caso modificación, del conjunto de operaciones, tecnología, operación y administración, para proporcionar el acceso de la población al Transporte seguro, asequible, accesible, resiliente y sostenible, tanto de personas como de mercancías.
 
-En todas sus modalidades, se ajustará a lo establecido en el Programa Integral de Movilidad, prestando especial atención a las necesidades de las personas en situación de vulnerabilidad, las mujeres, los niños, las personas con discapacidad y las personas adultas mayores; así como a la jerarquía establecida en la presente Ley.
+En todas sus modalidades, se ajustará a lo establecido en el Programa Integral de Movilidad, prestando especial atención a las necesidades de las personas en situación de vulnerabilidad, las mujeres, las niñas, niños y adolescentes, las personas con discapacidad y las personas adultas mayores; así como a la jerarquía establecida en la presente Ley.
 
 Se realizarán las acciones necesarias para incrementar la oferta de servicios y modos de transporte a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan desarrollar nuevas alternativas al transporte público y aumentar el número de opciones de servicios y modos de transporte.
 
 Se promoverá el acceso de mujeres y niñas al transporte de calidad, seguro y eficiente, incluyendo acciones para eliminar la violencia basada en género y el acoso sexual.
 
-De igual forma, se crea el Consejo Estatal del Transporte, presidido por la persona titular de la Secretaría de Gobierno e integrado por las personas titulares de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, de la Secretaría de Protección y Seguridad Ciudadana, de la Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía y de la Secretaría de Administración y Finanzas, el cual tiene por objeto fungir como ente coadyuvante de la Administración Pública del Estado de Campeche en la determinación e implementación de las políticas públicas en materia de transporte. Su organización y funcionamiento se determinarán en el Reglamento correspondiente en materia de transporte y tendrá las atribuciones que expresamente le determina esta Ley y las que se le otorguen en dicho Reglamento.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 135.
 
-La prestación del servicio público de transporte se realizará mediante concesión o permiso, según sea el caso, otorgado por la Secretaría de Gobierno a personas físicas o morales que cumplan con lo dispuesto en la presente Ley y el Reglamento en materia de transporte.
+La prestación del servicio público de transporte se realizará mediante concesión o permiso, según sea el caso, otorgado por la Agencia Reguladora del Transporte a personas físicas o morales que cumplan con lo dispuesto en la presente Ley y el Reglamento en materia de transporte.
 
 En el caso de las concesiones, podrán otorgarse para prestar el servicio público de transporte a las personas físicas o morales de nacionalidad mexicana siempre que satisfagan los requisitos siguientes:
 
@@ -1921,7 +2035,7 @@ A. Ser mayor de edad;
 
 B. Tener domicilio en el Estado;
 
-C. Contar con la solvencia económica requerida.
+C. Contar con solvencia económica; y
 
 D. No estar sujeto a ninguno de los impedimentos que señale este artículo y el Reglamento de transporte que emane de la presente Ley.
 
@@ -1933,55 +2047,51 @@ B. Sus socios deberán satisfacer lo previsto en la fracción I y no estar sujet
 
 C. Que sus estatutos señalen como su objeto principal la prestación del servicio de transporte; su domicilio social dentro del territorio del Estado; la transmisión de las acciones o partes sociales se sujete a autorización de su órgano máximo de Gobierno; que a dicho órgano de gobierno corresponda autorizar el ingreso de nuevos socios; la forma de elección de sus órganos de dirección y representación; y que cuente con cláusula de exclusión de extranjeros;
 
-D. Acreditar la capacidad técnica y administrativa necesaria;
+D. Acreditar la capacidad técnica y administrativa necesaria; y
 
 E. Contar con la solvencia económica requerida.
 
-Estarán impedidos para ser titular de una concesión del servicio público de transporte quienes:
+Estarán impedidos para tener una concesión del servicio público de transporte quienes:
 
-I. Sean titulares de otra concesión de servicio público de transporte, a menos que se trate de una modalidad distinta;
+I. Les haya sido revocada una concesión o permiso;
 
-II. Les haya sido revocada una concesión;
+II. Hubiesen sido sancionados por prestar el servicio público de transporte en cualquiera de sus modalidades sin contar con la concesión o permiso correspondiente, en términos de esta Ley; y
 
-III. Hubiesen sido sancionados por prestar el servicio público de transporte en cualquiera de sus modalidades sin contar con la concesión correspondiente, en términos de esta Ley;
-
-IV. Les hubiese sido revocada la licencia de conducir o la certificación expedida por la Secretaría de Gobierno por infracciones a las disposiciones de tránsito o transporte;
+III. Les hubiese sido revocado el tarjetón de conductor certificado expedido por la Agencia Reguladora del Transporte por infracciones a las disposiciones de tránsito o transporte.
 
 Sin perjuicio de los impedimentos anteriores, estarán impedidos para obtener una concesión para prestar el servicio público de transporte:
 
-I. Secretarios, Subsecretarios o Directores de dependencias de la Administración Pública Estatal; Miembros de órganos de gobierno, titulares y directores de Entidades de la Administración Pública Federal, Estatal o Municipal; integrantes del Cabildo de los Ayuntamientos y Juntas Municipales; servidores públicos de la Secretaría de Gobierno; Legisladores Federales y Locales, Jueces y Magistrados del poder Judicial del Estado y de la Federación, así como los titulares y directores de los Órganos autónomos;
+I. Titulares, Subsecretarias, Subsecretarios, Directoras y Directores de cualquiera de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal; titulares y directores de los Entes Públicos de la Administración Pública Federal o Municipal; integrantes del Cabildo de los Ayuntamientos y Juntas Municipales; servidores públicos de la Agencia Reguladora del Transporte; Legisladores Federales y Locales, Jueces y Magistrados del Poder Judicial del Estado y de la Federación, así como los titulares y directores de los Órganos Constitucionales Autónomos;
 
-II. Cónyuges, ascendientes, descendientes y parientes consanguíneos en primer grado en línea recta, de los servidores públicos a que se refiere la fracción anterior;
+II. Cónyuges, ascendientes, descendientes y parientes consanguíneos en primer grado en línea recta, de las y los servidores públicos a que se refiere la fracción anterior;
 
-III. Sociedades en las que cualquiera de los referidos en las fracciones anteriores tenga o hubiese tenido alguna participación accionaria, sea o hubiese sido miembro de su consejo de administración o su representante legal;
+III. Sociedades en las que cualquiera de los referidos en las fracciones anteriores tenga o hubiese tenido alguna participación accionaria, sea o hubiese sido miembro de su consejo de administración o su representante legal; y
 
-IV. Personas morales en las que alguno de sus integrantes sea titular de una concesión en la misma modalidad de servicio de transporte o forme parte de una sociedad titular de una concesión en la misma modalidad de servicio de transporte;
+IV. En los demás supuestos previstos por las leyes.
 
-V. En los demás supuestos previstos por las leyes.
-
-En el Reglamento en materia de transporte se fijará el plazo de vigencia de las concesiones para la prestación del servicio, el cual podrá prorrogarse a solicitud del interesado cuando la Secretaría de Gobierno determine que:
+En el Reglamento en materia de transporte se fijará el plazo de vigencia de las concesiones para la prestación del servicio, el cual podrá prorrogarse a solicitud del interesado cuando la Agencia Reguladora del Transporte determine que:
 
 I. El concesionario haya cumplido con las condiciones conforme a las que se otorgó la concesión;
 
 II. No haber sido sancionado por infracciones graves a esta Ley;
 
-III. Los vehículos autorizados dentro de la concesión cumplan los requisitos técnicos, mecánicos y de buen estado requeridos;
+III. Los vehículos autorizados dentro de la concesión cumplan los requisitostécnicos (sic), mecánicos y de buen estado requeridos;
 
-IV. Tratándose de personas morales no existen controversias entre los órganos de gobierno o de administración de las mismas y sus socios que afecten la debida prestación del servicio público de transporte;
+IV. Tratándose de personas morales no existan controversias entre los órganos de gobierno o de administración de las mismas y sus socios que afecten la debida prestación del servicio público de transporte;
 
-V. El interesado se obligue a satisfacer las modificaciones al título de concesión que determine la Secretaría de Gobierno conforme a las disposiciones que al efecto establezca el Reglamento de transporte que emane de la presente Ley para la modalidad del servicio de que se trate y que tengan por objeto satisfacer los principios de generalidad, regularidad, seguridad y eficiencia en la prestación del servicio público del transporte.
+V. El interesado se obligue a satisfacer las modificaciones al título de concesión que determine la Agencia Reguladora del Transporte conforme a las disposiciones que al efecto establezca el Reglamento de transporte que emane de la presente Ley para la modalidad del servicio de que se trate y que tengan por objeto satisfacerlos (sic) principios de generalidad, regularidad, seguridad y eficiencia en la prestación del servicio público del transporte.
 
-Cualquier persona física o moral que aspire a obtener una concesión, deberá presentar su solicitud a la Secretaría de Gobierno, por conducto del Instituto Estatal del Transporte, quien integrará un expediente y realizará el análisis correspondiente de conformidad con esta Ley y en el Reglamento de transporte.
+Cualquier persona física o moral que aspire a obtener una concesión, deberá presentar su solicitud ante la Agencia Reguladora del Transporte, quien integrará un expediente y realizará el análisis correspondiente de conformidad con esta Ley y en el Reglamento de transporte.
 
 En el Reglamento de transporte que emane de la presente Ley, se detallará todo lo relativo a concesiones, su vigencia, prórroga, los derechos y obligaciones, las condiciones para su otorgamiento, las causas de extinción, la suspensión del servicio público de transporte, así como cualquier disposición relativa a las concesiones; todo lo anterior de conformidad con la presente Ley y lo dispuesto en este artículo.
 
-Las concesiones para la prestación del servicio de BRT, únicamente se otorgarán a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en este artículo, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social. La acreditación de la capacidad técnica, administrativa y financiera para la prestación del servicio de corredores de transporte, deberá asegurar la prestación del servicio en condiciones de calidad, seguridad, oportunidad y permanencia.
+Las concesiones para la prestación del servicio de BRT, únicamente se otorgarán a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en este artículo, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así comoel (sic) número de accionistas y capital social. La acreditación de la capacidad técnica, administrativa y financiera para la prestación del servicio de corredores de transporte, deberá asegurar la prestación del servicio en condiciones de calidad, seguridad, oportunidad y permanencia.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 135 Bis.
 
-Para la prestación del servicio público de transporte de pasajeros, a través del DRT, se podrán otorgar concesiones a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en el artículo anterior, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social.
+Para la prestación del servicio público de transporte de pasajeros, a través del DRT, se podrán otorgar concesiones a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en el artículo anterior, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social. De forma excepcional, cuando las condiciones para la prestación del servicio lo requieran, la Agencia Reguladora del Transporte podrá autorizar la prestación del servicio público de pasajeros en esta modalidad a personas morales públicas de la Federación.
 
 En el Reglamento correspondiente, se deberá establecer las características de esta modalidad de servicio, las especificaciones técnicas, los horarios y rutas, el establecimiento de terminales y todo aquello que sea necesario para la adecuada prestación del servicio.
 
@@ -1991,7 +2101,9 @@ A fin de brindar un óptimo funcionamiento que satisfaga las necesidades de la p
 
 La prestación del servicio público de transporte de pasajeros deberá realizarse de forma regular, continua, uniforme, permanente y en las mejores condiciones de seguridad, comodidad, higiene y eficiencia; en el Reglamento de transporte se establecerán los criterios para evaluar y garantizar la prestación del Servicio con calidad.
 
-La Secretaría de Gobierno, realizará las acciones necesarias que permitan que en los sistemas de transporte público existan las condiciones de diseño universal y se eviten actos de discriminación. Los prestadores del servicio público de transporte de pasajeros, están obligados a otorgar el servicio a cualquier persona, únicamente podrán negar el servicio por causas justificadas de acuerdo a lo establecido en el Reglamento señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría de Gobierno y la Agencia Reguladora del Transporte realizarán las acciones necesarias que permitan que en los sistemas de transporte público existan las condiciones de diseño universal y se eviten actos de discriminación. Las y los prestadores del servicio público de transporte de pasajeros, están obligados a otorgar el servicio a cualquier persona, únicamente podrán negar el servicio por causas justificadas de acuerdo a lo establecido en el Reglamento señalado en el párrafo anterior.
 
 Las y los usuarios del servicio público de transporte tienen los siguientes derechos y obligaciones:
 
@@ -2009,7 +2121,9 @@ VI. A recibir el pago de los daños y los gastos que resulte de algún percance 
 
 VII. Disponer de todas las medidas especiales en los vehículos del servicio público de transporte para personas con discapacidad, mujeres embarazadas, adultos mayores y, de cualquier persona que, conforme a esta Ley, se requiere alguna medida especial;
 
-VIII. Conservar su boleto durante el viaje, o comprobar el pago del servicio mediante la acreditación por el medio que corresponda, y hacer las reclamaciones a que tenga derecho, sin perjuicio de comprobar esta circunstancia en alguna otra forma;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VIII. Comprobar el pago del servicio mediante la acreditación por el medio que corresponda, y hacer las reclamaciones a que tenga derecho, sin perjuicio de comprobar esta circunstancia en alguna otra forma;
 
 IX. Solicitar ascenso y descenso únicamente en los lugares autorizados;
 
@@ -2025,11 +2139,15 @@ XIV. No ocupar ninguno de los asientos especiales, así como evitar cualquier ac
 
 XV. Los demás que se establezcan en el Reglamento de transporte emane (sic) de la presente Ley.
 
-La Secretaría de Gobierno y la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, en coordinación con la Secretaría de Protección y Seguridad Ciudadana, deberán tomar todas las medidas que correspondan para garantizar los derechos de las personas usuarias, así como para hacerles cumplir con las obligaciones que correspondan.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría de Gobierno, la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, y la Agencia Reguladora del Transporte en coordinación con la Secretaría de Protección y Seguridad Ciudadana, deberán tomar todas las medidas que correspondan para garantizar los derechos de las personas usuarias, así como para hacerles cumplir con las obligaciones que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 137.
 
-El precio del Servicio de Transporte Público de pasajeros se determinará en las tarifas que establezca el Consejo Estatal del Transporte, su pago correlativo se hará mediante los diversos medios de prepago, sea electrónico o dinero en efectivo. Para las modalidades de transporte que correspondan, se podrá considerar el pago por kilómetro recorrido.
+El precio del Servicio de Transporte Público de pasajeros se determinará en las tarifas que establezca la Junta de Gobierno de la Agencia Reguladora del Transporte, su pago correlativo se hará mediante los diversos medios de prepago. El pago por kilómetro recorrido solo será autorizado en las modalidades que expresamente autorice la Agencia Reguladora del Transporte, de conformidad con lo previsto en el Reglamento en materia de Transporte.
 
 Los usuarios del servicio de transporte público están obligados a realizar el pago correspondiente por la obtención de dicho servicio.
 
@@ -2037,25 +2155,33 @@ Las tarifas de servicio de transporte público de pasajeros en todas sus modalid
 
 Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás equipamiento auxiliar con acceso a los usuarios, la tarifa aprobada de acuerdo al servicio de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 138.
 
-Para la propuesta de establecimiento o modificación de tarifas para el servicio de transporte público, se deberán considerar diversos factores económicos y en general todos los costos directos o indirectos que incidan en la prestación del servicio; asimismo, se podrá considerar, según la modalidad de transporte, el cobro por kilómetro recorrido.
+Para la propuesta de establecimiento o modificación de tarifas para el servicio de transporte público se deberán considerar diversos factores económicos y en general todos los costos directos o indirectos que incidan en la prestación del servicio.
 
-Para la determinación de las tarifas, el Consejo Estatal del Transporte podrá solicitar a la Secretaría de Gobierno, por conducto del Instituto Estatal del Transporte, que se realicen las evaluaciones técnicas para el establecimiento o modificación de las tarifas.
+Para la determinación de las tarifas, la Junta de Gobierno de la Agencia Reguladora del Transporte podrá solicitar que se realicen las evaluaciones técnicas para el establecimiento o modificación de las tarifas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 139.
 
-Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés general, la conveniencia de eficientar o acreditar el servicio de transporte público, el Consejo Estatal del Transporte podrá autorizar el establecimiento de tarifas especiales, promocionales, o preferenciales, así como exenciones del pago de tarifa, que se aplicarán de manera general, abstracta e impersonal a sectores específicos de la población. En el transporte público de pasajeros colectivo, se deberá priorizar que las exenciones del pago de tarifa sean para personas en situación de vulnerabilidad.
+Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés general, la conveniencia de eficientar o acreditar el servicio de transporte público, la Junta de Gobierno de la Agencia Reguladora del Transporte podrá autorizar el establecimiento de tarifas especiales, promocionales, o preferenciales, que se aplicarán de manera general, abstracta e impersonal a sectores específicos de la población.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 140.
 
-El Consejo Estatal del Transporte será el ente encargado de evaluar el establecimiento de los requisitos y procedimiento para autorizar sistemas para el cobro de las tarifas de servicio de transporte público de pasajeros, incorporando en lo posible, los avances tecnológicos existentes que permitan homologar la forma de cobro de la tarifa de transporte público, mediante un sistema único automático de recaudo centralizado.
+La Junta de Gobierno de la Agencia Reguladora del Transporte será el ente encargado de evaluar el establecimiento de los requisitos y procedimiento para autorizar sistemas para el cobro de las tarifas de servicio de transporte público de pasajeros, incorporando en lo posible, los avances tecnológicos existentes que permitan homologar la forma de cobro de la tarifa de transporte público, mediante un sistema único automático de recaudo centralizado.
 
 Todo lo anterior deberá constar en el Acuerdo que se emita para el establecimiento o modificación de las tarifas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 141.
 
-Las unidades destinadas a la prestación del Servicio de Transporte Público de Pasajeros, se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Secretaría de Gobierno, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos de la población mexicana para usuarios con discapacidad, y económicos correspondientes, sujetándose a lo establecido en la Ley Federal sobre Metrología y Normalización y Normas Oficiales Mexicanas de la materia.
+Las unidades destinadas a la prestación del Servicio de Transporte Público de Pasajeros, se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Agencia Reguladora del Transporte, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos de la población mexicana para usuarios con discapacidad, y económicos correspondientes, sujetándose a lo establecido en la Ley Federal sobre Metrología y Normalización y Normas Oficiales Mexicanas de la materia.
 
 Para lo anterior, se emitirá el reglamento y la norma técnica correspondiente, incluyendo las características de aquellos con tecnologías sustentables.
 
@@ -2067,13 +2193,17 @@ En el Reglamento de Transporte, se establecerán los lineamientos de la cromáti
 
 Con el objeto de facilitar y promover la intermodalidad en el Servicio de Transporte Público de Pasajeros, las autoridades correspondientes, realizarán acciones para promover el uso de la movilidad no motorizada.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 144.
 
-En el Reglamento de Transporte, se establecerán los mecanismos para que la población denuncie cualquier irregularidad en la prestación del servicio de transporte público de pasajeros. Para ello, se deberán observar los principios de prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención al quejoso e informándole sobre las resoluciones adoptadas. Para este efecto, se establecerán unidades de información en las oficinas de la Secretaría de Gobierno.
+En el Reglamento de Transporte, se establecerán los mecanismos para que la población denuncie cualquier irregularidad en la prestación del servicio de transporte público de pasajeros. Para ello, se deberán observar los principios de prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención al quejoso e informándole sobre las resoluciones adoptadas. Para este efecto, se establecerán unidadesde (sic) información en las oficinas de la Agencia Reguladora del Transporte.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 145.
 
-La Secretaría de Gobierno y la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, evaluarán de manera semestral el estado, control, ubicación, mantenimiento y preservación de la infraestructura vial por donde circulen los distintos modos utilizados para prestar el Servicio Público de Transporte de Pasajeros, con la finalidad de implementar los proyectos necesarios para su mejora, conforme a los estudios técnicos correspondientes, considerando en su diseño la jerarquía establecida en la presente Ley.
+La Secretaría de Gobierno, la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, y la Agencia Reguladora del Transporte evaluarán de manera semestral el estado, control, ubicación, mantenimiento y preservación de la infraestructura vial por donde circulen los distintos modos utilizados para prestar el Servicio Público de Transporte de Pasajeros, con la finalidad de implementar los proyectos necesarios para su mejora, conforme a los estudios técnicos correspondientes, considerando en su diseño la jerarquía establecida en la presente Ley.
 
 ###### Artículo 146.
 
@@ -2097,21 +2227,31 @@ El servicio de arrastre consiste en llevar a cabo las maniobras necesarias e ind
 
 El servicio de arrastre y/o salvamento, consiste en llevar a cabo aquellas maniobras mecánicas y/o manuales necesarios (sic) para rescatar y colocar sobre la carpeta asfáltica del camino, en condiciones de poder realizar las maniobras propias de su arrastre, a los vehículos accidentados, sus partes o su carga.
 
-En la operación de los servicios de arrastre, arrastre y/o salvamento, los permisionarios se sujetarán a las tarifas, reglas de aplicación y sus modificaciones, que aprueben las autoridades competentes. Las tarifas autorizadas estarán a la vista del público y serán las máximas. A partir de ellas, los permisionarios podrán convenir cobros menores con el usuario, en función del tipo de servicio y vehículo accidentado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-Los servicios de arrastre, arrastre y/o salvamento se sujetarán a las condiciones de operación y modalidades establecidas en los reglamentos respectivos.
+En la operación de los servicios de arrastre y/o salvamento, los concesionarios y permisionarios se sujetarán a las tarifas, reglas de aplicación y sus modificaciones, que aprueben las autoridades competentes. Las tarifas autorizadas estarán a la vista del público y serán las máximas. A partir de ellas, los concesionarios y permisionarios podrán convenir cobros menores con el usuario, en función del tipo de servicio y vehículo accidentado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Los servicios de arrastre y/o salvamento se sujetarán a las condiciones de operación y modalidades establecidas en los reglamentos respectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 149.
 
-El Servicio de Transporte Público Mixto es el que se presta con vehículos con cabina integrada y espacio dedicado al traslado de cinco pasajeros incluidos el conductor, dividido del área de carga, en la que se permite trasladar carga general no especializada, que hagan factible el transporte en óptimas condiciones de seguridad, con equipajes y/o mercancías de carga, que se accede a él en la vía pública, por teléfono, radiocomunicación, aplicación de gestión de la demanda o en sitio, que sólo puede ser prestado mediante permiso para la prestación del servicio.
+El Servicio de Transporte Público Mixto es el que se presta con vehículos con cabina integrada y espacio dedicado al traslado de hasta cinco pasajeros incluido el conductor, dividido del área de carga, en la que se permite trasladar carga general no especializada, que hagan factible el transporte en óptimas condiciones de seguridad, con equipajes y/o mercancías de carga, que se accede a él en la vía pública, por teléfono, radiocomunicación, aplicación de gestión de la demanda o en sitio, que sólo puede ser prestado mediante concesión o permiso para la prestación del servicio.
 
 A fin de brindar un óptimo funcionamiento que satisfaga las necesidades de la población y la demanda de los usuarios del Servicio de Transporte Público Mixto, se deberá establecer en el Reglamento las disposiciones referentes a la tecnología, operación y administración del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 150.
 
-La Secretaría de Gobierno determinará de conformidad con los estudios y datos proporcionados por las instituciones técnicas, el número de concesiones o permisos que se otorgarán en cada modalidad del transporte público de pasajeros, de carga y mixto, y aprobará la convocatoria, para que los interesados presenten sus solicitudes, cuando corresponda.
+La Agencia Reguladora del Transporte determinará, de conformidad con los estudios y datos proporcionados por las instituciones técnicas, el número de concesiones o permisos que se otorgarán en cada modalidad del transporte público de pasajeros, de carga y mixto, y publicará la correspondiente convocatoria, previa autorización de su Junta de Gobierno, para que los interesados presenten sus solicitudes, cuando corresponda.
 
-Los derechos y obligaciones derivados de la concesión o permiso para la prestación del servicio de transporte público de pasajeros, de carga y mixto, no podrán enajenarse o negociarse bajo ninguna circunstancia; sólo podrán cederse o transmitirse previo análisis y consideración de los instrumentos jurídicos idóneos que presenten los solicitantes y posterior autorización de la Secretaría de Gobierno; cualquier acto que se realice sin cumplir con este requisito, será nulo y no surtirá efecto legal alguno.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Los derechos y obligaciones derivados de la concesión o permiso para la prestación del servicio de transporte público de pasajeros, de carga y mixto, no podrán enajenarse o negociarse bajo ninguna circunstancia; sólo podrán cederse o transmitirse previo análisis y consideración de los instrumentos jurídicos idóneos que presenten los solicitantes y posterior autorización de la Agencia Reguladora del Transporte; cualquier acto que se realice sin cumplircon (sic) este requisito, será nulo y no surtirá efecto legal alguno.
 
 En el otorgamiento de las concesiones o permisos, las autoridades correspondientes evitarán prácticas monopólicas, por lo que se hará bajo los principios de imparcialidad, legalidad y transparencia.
 
@@ -2250,3 +2390,27 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Estatal, a partir de la entrada en vigor del presente decreto, cuenta con un plazo de noventa días naturales para modificar el Reglamento en Materia de Transporte de la Ley de Movilidad y Seguridad Vial del Estado de Campeche.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 26 POR EL QUE "SE REFORMAN LAS FRACCIONES II, XLIX Y L DEL ARTÍCULO 2; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 28; EL ARTÍCULO 31; LA FRACCIÓN IV DEL ARTÍCULO 32; LA FRACCIÓN XVII DEL ARTÍCULO 33; EL ARTÍCULO 35; EL PÁRRAFO PRIMERO DEL ARTÍCULO 45; EL PÁRRAFO PRIMERO DEL ARTÍCULO 61; LOS ARTÍCULOS 66; 71; EL PÁRRAFO PRIMERO DEL ARTÍCULO 119; EL NUMERAL 1 DE LA FRACCIÓN I DEL INCISO B) DEL APARTADO I), EL APARTADO III) Y EL APARTADO VI) DEL ARTÍCULO 123; LA FRACCIÓN II) DEL INCISO A), LA FRACCIÓN I) DEL INCISO B), EL APARTADO B DE LA FRACCIÓN III) DEL INCISO C) DEL ARTÍCULO 124; EL ARTÍCULO 131; EL PÁRRAFO PRIMERO DEL ARTÍCULO 132; LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO V DEL TÍTULO SEXTO PARA QUEDAR COMO "DE LA AGENCIA REGULADORA DEL TRANSPORTE DEL ESTADO DE CAMPECHE"; LOS ARTÍCULOS 133; 134; 135; 135 BIS; EL PÁRRAFO TERCERO, LA FRACCIÓN VIII DEL PÁRRAFO CUARTO Y EL PÁRRAFO QUINTO DEL ARTÍCULO 136; EL PÁRRAFO PRIMERO DEL ARTÍCULO 137; LOS ARTÍCULOS 138; 139; 140; 141; 144; 145; LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 148; EL PÁRRAFO PRIMERO DEL ARTÍCULO 149; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 150; Y SE ADICIONAN LOS ARTÍCULOS 133 BIS; 133 TER; 133 QUÁTER; 133 QUINQUIES Y 133 SEXTIES, TODOS DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal tendrá un plazo no mayor a noventa días naturales para la instalación de la Junta de Gobierno de la Agencia Reguladora del Transporte del Estado de Campeche como organismo descentralizado de la Administración Pública Paraestatal del Estado de Campeche.
+
+Los recursos materiales y financieros con los que actualmente cuenta el Instituto Estatal del Transporte serán transferidos al organismo descentralizado de nueva creación, para lo cual la Secretaría de Gobierno deberá, en un plazo no mayor a quince días naturales a partir de la entrada en vigor del presente Decreto, transferir todos los recursos humanos, económicos, financieros y presupuestales con los que cuente el Instituto Estatal de Transporte a la Secretaría de Administración y Finanzas.
+
+Para efectos de lo establecido en el párrafo anterior, la Secretaría de Gobierno deberá informar por escrito a la Secretaría de Administración y Finanzas de todas las obligaciones pendientes de cumplimiento y las deudas pendientes de pago. De igual manera, se abstendrá de contraer obligaciones que deban concluir con posterioridad al cierre del ejercicio fiscal y, en su caso, deberá reintegrar a la Secretaría de Administración y Finanzas el importe de los recursos que no haya ejercido ni devengado al cierre del mismo ejercicio, en términos de lo que dispone la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios y en las demás disposiciones jurídicas y administrativas aplicables. En el procedimiento de transferencia de recursos humanos, económicos, financieros y presupuestales se contará con la participación de la Secretaría de la Contraloría, en ejercicio de las atribuciones que le otorga el artículo 41 de la Ley Orgánica de la Administración Pública del Estado de Campeche, en vigor.
+
+El patrimonio mobiliario de la Agencia Reguladora del Transporte del Estado de Campeche de nueva creación, se constituirá por la totalidad de los bienes muebles del inventario físico del Instituto Estatal del Transporte de la Administración Pública del Estado de Campeche; debiendo la Secretaría de Administración y Finanzas hacer las anotaciones registrales, a efecto de aplicar las bajas definitivas del Patrimonio del Poder Ejecutivo; así como notificar a la Agencia la relación de bienes muebles que deberá incorporar a su inventario para que los siga usando en el desarrollo de las funciones asignadas.
+
+En relación con el patrimonio inmobiliario propiedad del Poder Ejecutivo del Estado de Campeche que estuviere destinado al Instituto Estatal del Transporte del Estado de Campeche, una vez designado el Director General de la Agencia Reguladora del Transporte deberá solicitar, en un plazo no mayor a los 60 días hábiles a partir de su designación, el destino de los mismos.
+
+La Secretaría de Gobierno de la Administración Pública Estatal promoverá y gestionará los cambios y adecuaciones a los instrumentos jurídicos que correspondan para la adecuada transición del Instituto del Transporte del Estado de Campeche hacia un organismo descentralizado, ante los entes que correspondan.
+
+En todo momento los derechos laborales de los trabajadores del "Instituto Estatal del Transporte", serán respetados y garantizados.
+
+TERCERO.- El Ejecutivo del Estado contará con un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar las modificaciones correspondientes al Reglamento en Materia de Transporte de la Ley de Movilidad y Seguridad Vial del Estado de Campeche.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico Estatal que se opongan a lo contenido en el presente Decreto.
