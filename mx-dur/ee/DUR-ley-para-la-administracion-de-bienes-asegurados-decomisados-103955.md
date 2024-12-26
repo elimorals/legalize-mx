@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-de-bienes-asegurados-decomisados-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2022-10-23"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de noviembre de 2014
 
@@ -147,9 +147,13 @@ La Autoridad supervisora
 
 La Comisión tendrá como objeto supervisar la administración de los bienes asegurados, los sujetos a proceso de extinción de dominio, decomisados o abandonados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 5.
 
 Integración de la Comisión.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 La Comisión se integrará por:
 
@@ -163,9 +167,9 @@ IV. El Secretario de Salud del Estado.
 
 V. El Titular del Servicio de Administración, quien será el Secretario Técnico y tendrá voz pero no voto.
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-VI. Un auditor designado por la Entidad de Auditoria Superior del Estado de Durango, con voz pero sin voto, el cual contará con todas las facultades para la inspección, supervisión y vigilancia sobre la administración de los bienes asegurados, decomisados o abandonados.
+VI. Un auditor designado por la Auditoría Superior del Estado, con voz pero sin voto, el cual contará con todas las facultades para la inspección, supervisión y vigilancia sobre la administración de los bienes asegurados, decomisados o abandonados.
 
 Los integrantes de la misma podrán nombrar a sus respectivos suplentes.
 
@@ -471,11 +475,11 @@ Se impondrá multa a quien no cumpla las disposiciones contenidas en la presente
 
 Las multas consignadas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que por daños y perjuicios le resulten al infractor.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
-Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por la Entidad de Auditoria Superior del Estado, quien podrá delegar el ejercicio de esta facultad en los funcionarios subordinados que estime conveniente, mediante acuerdo que se publique en el Periódico Oficial que corresponda.
+Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por la Auditoría Superior del Estado, quien podrá delegar el ejercicio de esta facultad en los funcionarios subordinados que estime conveniente, mediante acuerdo que se publique en el Periódico Oficial que corresponda.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
 
@@ -536,3 +540,11 @@ P.O. 23 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 126 QUE CONTIENE REFORMAS A LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
