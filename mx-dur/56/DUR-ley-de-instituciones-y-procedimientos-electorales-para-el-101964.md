@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2023-08-06"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE AGOSTO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -71,7 +69,11 @@ II. El registro de las candidaturas independientes para participar en las elecci
 
 III. El registro de los partidos políticos estatales y el reconocimiento de sus prerrogativas; así como el régimen aplicable a las agrupaciones políticas estatales.
 
-IV. Faltas administrativas y sanciones electorales.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+IV. Renovación de personas juzgadoras del Poder Judicial del Estado.
+
+V. Faltas administrativas y sanciones electorales.
 
 ARTÍCULO 2
 
@@ -157,13 +159,21 @@ XV. Paridad de Género: Igualdad política entre mujeres y hombres, la cual se g
 
 XVI. Periódico Oficial: Periódico Oficial del Gobierno del Estado de Durango;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVII. Personas juzgadoras: Personas magistradas y juezas que integran el Poder Judicial del Estado de Durango, electas por voto libre, secreto y directo de la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Tope de gastos personales: Será el monto máximo que el Instituto autorice aportar de sus recursos propios a las candidaturas a personas juzgadoras para sufragar gastos de campaña.
+
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XVII. Tribunal Electoral: Tribunal Electoral del Estado de Durango; y
+XIX. Tribunal Electoral: Tribunal Electoral del Estado de Durango; y
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XVIII. Violencia política contra las mujeres en razón de género: Toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+XX. Violencia política contra las mujeres en razón de género: Toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 ARTÍCULO 4
 
@@ -179,7 +189,9 @@ ARTÍCULO 5
 
 2. Votar en las elecciones constituye un derecho y una obligación del ciudadano, que se ejerce para cumplir la función pública de integrar los órganos del Estado de elección popular. También es derecho de los ciudadanos y obligación para los partidos políticos, la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
 
-3. Las elecciones de Gobernador, diputados locales y de los integrantes de los ayuntamientos, se realizarán mediante el voto que es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+3. Las elecciones de gubernatura, diputaciones locales, personas juzgadoras y de las y los integrantes de los ayuntamientos, se realizarán mediante el voto que es universal, libre, secreto, directo, personal e Intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
 4. Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las cualidades que establece la ley de la materia; y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley.
 
@@ -239,7 +251,9 @@ VI. Las demás que señale esta Ley, de conformidad con la Ley General.
 
 ARTÍCULO 10
 
-1. Los ciudadanos que reúnan los requisitos establecidos en la Constitución Local y en esta Ley, son elegibles en los términos de la misma para los cargos de diputados al Congreso, de Gobernador, de presidentes municipales, síndicos y regidores de los ayuntamientos, según corresponda.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+1. Los ciudadanos que reúnan los requisitos establecidos en la Constitución Local y en esta Ley, son elegibles en los términos de la misma para los cargos de diputaciones, gubernatura, personas juzgadoras, presidencias municipales, sindicaturas y regidurías de los ayuntamientos, según corresponda.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
@@ -297,7 +311,9 @@ ARTÍCULO 11
 
 3. Los consejeros y funcionarios de los Consejos Municipales, deberán separarse de sus funciones, cuando menos, seis meses antes del inicio del proceso electoral.
 
-## TÍTULO TERCERO. DE LA ELECCIÓN DE LOS PODERES LEGISLATIVO, EJECUTIVO Y DE LOS INTEGRANTES DE LOS AYUNTAMIENTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO TERCERO. DE LA ELECCIÓN DE LOS PODERES LEGISLATIVO, EJECUTIVO, JUDICIAL Y DE INTEGRANTESDE (SIC) LOS AYUNTAMIENTOS
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN DEL CONGRESO
 
@@ -357,6 +373,32 @@ ARTÍCULO 18
 
 1. La elección de Gobernador del Estado se llevará a cabo cada seis años, será directa y por el principio de mayoría relativa en todo el territorio de la Entidad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO II BIS. DE LA ELECCIÓN DE LAS PERSONAS JUZGADORAS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 18 BIS
+
+1. El Poder Judicial se deposita en las instancias jurisdiccionales que para tal efecto determinen la Constitución Local y la Ley Orgánica del Poder Judicial del Estado. Las personas juzgadoras serán electas mediante voto libre, secreto y directo de la ciudadanía, conforme a las bases, procedimientos, requisitos y periodos que establezcan la Constitución, la Constitución Local, esta Ley y demás disposiciones aplicables.
+
+2. La elección ordinaria de las personas señaladas en el párrafo anterior, se llevará a cabo el primer domingo del mes de junio del año que corresponda, de maneraconcurrente (sic) con los procesos electorales en que se renueven el Poder Ejecutivo, el Poder Legislativo o integrantes de ayuntamientos.
+
+3. El Instituto será la autoridad responsable de organizar el proceso electivo, su jornada electoral y los cómputos de los resultados electorales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 18 TER
+
+1. Las personas juzgadoras, serán electas conforme a las bases y procedimientos que establecen la Constitución y la Constitución Local.
+
+2. Para la organización del proceso se estará a lo dispuesto por los artículos 163, 164 y 165 BIS de esta Ley.
+
+En caso de ausencia de disposición expresa, se aplicará supletoriamente lo dispuesto para los procesos electorales en esta Ley.
+
+3. En ningún caso los medios de impugnación en esta materia, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
 ### CAPÍTULO III. DE LA ELECCIÓN DE LOS INTEGRANTES Y CONFORMACIÓN DE LOS AYUNTAMIENTOS
 
 ARTÍCULO 19
@@ -411,6 +453,10 @@ ARTÍCULO 24
 
 1. En ningún caso podrá participar en elecciones ordinarias o extraordinarias, el partido político que hubiere perdido su registro, con anterioridad a la fecha en que éstas deban celebrarse.
 
+# LIBRO SEGUNDO. DE LOS PARTIDOS POLÍTICOS Y AGRUPACIONES POLÍTICAS
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
 ### CAPÍTULO I. DE LOS PARTIDOS POLÍTICOS Y SU FUNCIÓN
 
 ARTÍCULO 25
@@ -434,10 +480,6 @@ ARTÍCULO 26
 4. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 5. Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Constitución, la Constitución Local, la Ley General, la Ley General de Partidos, y las que conforme a las mismas establezcan sus estatutos.
-
-# LIBRO SEGUNDO. DE LOS PARTIDOS POLÍTICOS Y AGRUPACIONES POLÍTICAS
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS PARTIDOS POLÍTICOS
 
@@ -545,7 +587,9 @@ ARTÍCULO 32
 
 ARTÍCULO 32 BIS
 
-1. Los partidos políticos, tendrán derecho a postular candidaturas comunes para la elección de Gobernador, diputados de mayoría y planillas de ayuntamientos. Los partidos políticos que postulen candidato común deberán suscribir un convenio firmado por sus representantes y dirigentes, el que deberán presentar para su registro ante el Consejo General, hasta cinco días antes del inicio del periodo de registro de candidatos de la elección de que se trate.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+1. Los partidos políticos, tendrán derecho a postular candidaturas comunes para la elección de gubernatura, diputaciones de mayoría y planillas de ayuntamientos. Los partidos políticos que postulen candidatura común deberán suscribir un convenio firmado por sus representantes y dirigentes, el que deberán presentar para su registro ante el Consejo General, hasta diez días antes del inicio del periodo de registro de candidaturas de la elección de que se trate.
 
 2. Los partidos políticos que postulen candidato a Gobernador en común deberán también suscribir convenio de candidatura común para los cargos a integrar los ayuntamientos en todos los municipios que conforman la geografía electoral del Estado.
 
@@ -579,7 +623,9 @@ II. Las actas que acrediten que los órganos internos de los partidos aprobaron 
 
 ARTÍCULO 32 QUÁTER
 
-1. El Consejo General dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo, mandando publicar su resolución en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+1. El Consejo General dentro de los diez días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo, mandando publicar su resolución en el Periódico Oficial del Gobierno del Estado.
 
 2. Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron la candidatura común.
 
@@ -606,6 +652,8 @@ ARTÍCULO 34
 3. En su caso, una vez que el Tribunal Electoral resuelva las impugnaciones que se interpongan en contra de la declaratoria del Consejo General, los estatutos únicamente podrán impugnarse por la legalidad de los actos de su aplicación.
 
 4. Los partidos políticos locales deberán comunicar al Instituto los reglamentos que emitan, en un plazo no mayor de diez días posteriores a su aprobación. El propio Instituto verificará el apego de dichos reglamentos a las normas legales y estatutarias y los registrará en el libro respectivo.
+
+## TÍTULO SEGUNDO. DEL FINANCIAMIENTO Y PRERROGATIVAS DE LOS PARTIDOS POLÍTICOS
 
 ### CAPÍTULO I. DEL FINANCIAMIENTO
 
@@ -661,8 +709,6 @@ ARTÍCULO 38
 
 1. El financiamiento privado que reciban los partidos políticos por la militancia, de simpatizantes, autofinanciamiento y por rendimientos financieros, fondos y fideicomisos, se sujetará a las reglas establecidas en el Capítulo II, del Título Quinto de la Ley General de Partidos.
 
-## TÍTULO SEGUNDO. DEL FINANCIAMIENTO Y PRERROGATIVAS DE LOS PARTIDOS POLÍTICOS
-
 ### CAPÍTULO II. DE LOS TOPES DE GASTOS DE CAMPAÑA
 
 ARTÍCULO 39
@@ -678,6 +724,8 @@ ARTÍCULO 40
 ARTÍCULO 41
 
 1. Son prerrogativas de los partidos políticos las contenidas en el artículo 26 de la Ley General de Partidos, en los términos dispuestos por dicho ordenamiento, de conformidad a lo establecido en el Capítulo Primero, Título Segundo del Libro Cuarto de la Ley General.
+
+## TÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS ESTATALES
 
 ### CAPÍTULO I. DE SU CONSTITUCIÓN Y REGISTRO
 
@@ -759,8 +807,6 @@ ARTÍCULO 50
 
 2. En caso de que la organización interesada no presente su solicitud de registro en el plazo previsto en esta Ley, dejará de tener efecto la notificación formulada.
 
-## TÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS ESTATALES
-
 ### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES
 
 ARTÍCULO 51
@@ -825,6 +871,8 @@ f). Si realizado lo anterior quedasen bienes o recursos remanentes, los mismos s
 
 g). En todo tiempo deberá garantizarse al partido político de que se trate, el ejercicio de las garantías que la Constitución, la Constitución Local y las leyes establecen para estos casos. Los acuerdos del Consejo General serán impugnables ante el Tribunal Electoral.
 
+## TÍTULO CUARTO. DE LOS PARTIDOS POLÍTICOS NACIONALES
+
 ### CAPÍTULO ÚNICO. ACREDITACIÓN DE LOS PARTIDOS POLÍTICOS NACIONALES
 
 ARTÍCULO 58
@@ -843,7 +891,7 @@ ARTÍCULO 61
 
 1. Los partidos políticos nacionales que no hayan participado u obtenido en la elección ordinaria inmediata anterior el tres por ciento de la votación válida emitida en alguna de las elecciones para Ayuntamientos, legislaturas locales o de Gobernador, perderán su acreditación ante el Instituto.
 
-## TÍTULO CUARTO. DE LOS PARTIDOS POLÍTICOS NACIONALES
+## TÍTULO QUINTO. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
 ### CAPÍTULO I. DE LAS AGRUPACIONES POLÍTICAS ESTATALES, SU FINANCIAMIENTO Y LA PÉRDIDA DEL REGISTRO
 
@@ -924,8 +972,6 @@ V. Por incumplir de manera grave con las disposiciones contenidas en esta Ley;
 VI. Haber dejado de cumplir con los requisitos necesarios para obtener el registro; y
 
 VII. Las demás que establezca esta Ley.
-
-## TÍTULO QUINTO. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
 ### CAPÍTULO II. DE LA FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
@@ -1021,6 +1067,10 @@ VII. Las agrupaciones políticas estatales podrán impugnar ante el Tribunal Ele
 
 VIII. El Consejo General deberá publicar en su sitio de Internet y en el Periódico Oficial, una vez cumplido el plazo para la interposición del medio de impugnación o presentado éste y habiendo sido resuelto por el Tribunal Electoral, el dictamen y en su caso la resolución recaída al medio de impugnación interpuesto.
 
+# LIBRO TERCERO. DE LAS AUTORIDADES ELECTORALES
+
+## TÍTULO PRIMERO. DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ARTÍCULO 74
@@ -1081,9 +1131,13 @@ Cuando se traté de la emisión de reglas, lineamientos y acuerdos relacionados 
 
 XXI. Auxiliar, instruir y asesorar en la elección de las autoridades auxiliares administrativas de los municipios, a través de un convenio en el que se precise la forma y los términos en que se llevará a cabo la participación del Instituto. La facultad, se llevará a cabo únicamente a petición de parte y con los recursos del solicitante, siempre y cuando no se contravengan disposiciones de orden público y sea material y temporalmente posible;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XXII. Las demás que establezca la Ley General, la Ley General de Partidos, y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
+XXII. En la elección de personas juzgadoras, expedir las constancias respectivas a quienes resulten electos conforme al cómputo y declaración de validez que efectúe el propio organismo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Las demás que establezca la Ley General, la Ley General de Partidos, salvo para el caso de la elección de personas juzgadoras y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
 
 2. Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, imparcialidad, objetividad, independencia y máxima publicidad.
 
@@ -1101,11 +1155,43 @@ ARTÍCULO 77
 
 1. El Instituto tiene su domicilio en la capital del Estado, y ejercerá sus funciones en todo el territorio de la Entidad, mediante un Consejo por cada uno de los municipios, los que iniciarán sus funciones a más tardar la primera semana del mes de noviembre del año anterior a la elección y las concluirán al término del proceso electoral.
 
-# LIBRO TERCERO. DE LAS AUTORIDADES ELECTORALES
-
-## TÍTULO PRIMERO. DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO
-
 ### CAPÍTULO II. DE LOS ÓRGANOS CENTRALES Y LOS SERVIDORES PÚBLICOS INVESTIDOS DE FE PÚBLICA EN MATERIA ELECTORAL
+
+#### Sección Primera. De los Órganos Centrales
+
+ARTÍCULO 78
+
+1. Los órganos centrales del Instituto son:
+
+I. El Consejo General;
+
+II. La Presidencia del Consejo General;
+
+III. La Secretaría Ejecutiva;
+
+IV. El Secretariado Técnico; y
+
+V. La Contraloría General.
+
+#### Sección Segunda. De los Servidores Públicos Investidos de fe Pública en Materia Electoral
+
+ARTÍCULO 79
+
+1. Los servidores públicos que estarán investidos de fe pública para actos o hechos de naturaleza electoral en el Estado serán:
+
+I. El Secretario Ejecutivo del Instituto, el que, a su vez, podrá delegar de manera formal esta facultad a otros servidores públicos del organismo público electoral local que estime pertinente; y
+
+II. Los Secretarios de los Consejos Municipales del Instituto, los que, a su vez, podrán delegar formalmente esta facultad a otros servidores públicos del organismo público electoral municipal que estimen pertinente.
+
+ARTÍCULO 80
+
+1. Los servidores públicos a los que se refiere el artículo anterior, deberán ejercer oportunamente la fe pública en materia electoral, y tendrán, entre otras, las siguientes atribuciones:
+
+I. A petición de los partidos políticos, dar fe de la realización de actos y hechos de naturaleza electoral que pudieran influir o afectar la equidad en las contiendas electorales locales;
+
+II. Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales; y
+
+III. Las demás que se establezcan en la Ley General, Ley General de Partidos y en la Ley de Medios de Impugnación en Materia Electoral y de Participación Ciudadana para el Estado de Durango.
 
 ### CAPÍTULO III. DEL CONSEJO GENERAL
 
@@ -1178,122 +1264,6 @@ ARTÍCULO 87
 2. Durante los años de receso electoral, el Consejo General se reunirá en sesión ordinaria trimestralmente. El Consejo General podrá sesionar en forma extraordinaria a convocatoria expresa que haga su Presidente, siempre y cuando el asunto a tratar así lo amerite, o los tiempos legales fijados por esta Ley, así lo requieran.
 
 3. El Consejo General ordenará la publicación en el Periódico Oficial y en el sitio oficial de Internet, de los acuerdos y resoluciones de carácter general que pronuncie y de aquellos que así lo determinen, así como los nombres de los miembros de los Consejos Municipales, designados en los términos de esta Ley.
-
-#### Sección Primera. De los Órganos Centrales
-
-ARTÍCULO 78
-
-1. Los órganos centrales del Instituto son:
-
-I. El Consejo General;
-
-II. La Presidencia del Consejo General;
-
-III. La Secretaría Ejecutiva;
-
-IV. El Secretariado Técnico; y
-
-V. La Contraloría General.
-
-#### Sección Segunda. De los Servidores Públicos Investidos de fe Pública en Materia Electoral
-
-ARTÍCULO 79
-
-1. Los servidores públicos que estarán investidos de fe pública para actos o hechos de naturaleza electoral en el Estado serán:
-
-I. El Secretario Ejecutivo del Instituto, el que, a su vez, podrá delegar de manera formal esta facultad a otros servidores públicos del organismo público electoral local que estime pertinente; y
-
-II. Los Secretarios de los Consejos Municipales del Instituto, los que, a su vez, podrán delegar formalmente esta facultad a otros servidores públicos del organismo público electoral municipal que estimen pertinente.
-
-ARTÍCULO 80
-
-1. Los servidores públicos a los que se refiere el artículo anterior, deberán ejercer oportunamente la fe pública en materia electoral, y tendrán, entre otras, las siguientes atribuciones:
-
-I. A petición de los partidos políticos, dar fe de la realización de actos y hechos de naturaleza electoral que pudieran influir o afectar la equidad en las contiendas electorales locales;
-
-II. Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales; y
-
-III. Las demás que se establezcan en la Ley General, Ley General de Partidos y en la Ley de Medios de Impugnación en Materia Electoral y de Participación Ciudadana para el Estado de Durango.
-
-### CAPÍTULO IV. DE LA PRESIDENCIA Y SECRETARÍA DEL CONSEJO GENERAL
-
-ARTÍCULO 89
-
-1. Son atribuciones del Presidente del Consejo General:
-
-I. Velar por la unidad y cohesión de las actividades de los órganos del Instituto;
-
-II. Establecer los vínculos entre el Instituto y las autoridades federales, estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del Instituto;
-
-III. Convocar y conducir las sesiones del Consejo General;
-
-IV. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo General;
-
-V. Elaborar y someter a la consideración del Ejecutivo del Estado, el presupuesto de egresos propuesto por el Instituto, a más tardar en el mes de Octubre de cada año, y vigilar su ejercicio;
-
-VI. Solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran;
-
-VII. Convocar en tiempo a los partidos políticos, para que nombren a sus representantes a efecto de integrar debidamente en los términos de esta Ley el Consejo General;
-
-VIII. Formular los convenios que sean necesarios suscribir con el Instituto Nacional Electoral y los demás que se requieran para el cumplimiento de las atribuciones del Instituto;
-
-IX. Proponer al Consejo General el nombramiento de los Consejeros Electorales y para los cargos de Presidente y Secretario de los Consejos Municipales Electorales;
-
-X. Presidir las sesiones ordinarias y extraordinarias del Consejo General con todas las facultades que esta Ley le concede;
-
-XI. Remitir para su publicación en el Periódico Oficial, la integración del Consejo General y de los Consejos Municipales;
-
-XII. Enviar para su publicación en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, la relación completa de candidatos registrados por los partidos políticos y candidatos independientes para la elección que corresponda, y de igual forma, la cancelación de registro y sustitución de candidatos, conforme a lo dispuesto por esta Ley;
-
-XIII. (DEROGADA, P.O. 15 DE FEBRERO DE 2015)
-
-XIV. Garantizar el orden durante las sesiones del Consejo General, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico de la jornada electoral, pudiendo solicitar el auxilio de la fuerza pública en caso necesario;
-
-XV. Recibir de los partidos políticos las solicitudes de registro de candidatos a Gobernador del Estado, las candidaturas independientes y las de candidatos a Diputados por el principio de representación proporcional, así como las de Diputados de mayoría y de los integrantes de los ayuntamientos, en caso de registro supletorio y someterlas al Consejo General para su registro;
-
-XVI. Rendir un informe anual de actividades ante el Consejo General; y
-
-XVII. Las demás que señale esta Ley.
-
-ARTÍCULO 90
-
-1. Corresponde al Secretario del Consejo General:
-
-I. Auxiliar al propio Consejo y a su Presidente en el ejercicio de sus atribuciones;
-
-II. Preparar el orden del día de las sesiones del Consejo General; declarar la existencia del quórum legal necesario para sesionar; dar fe de lo actuado en las sesiones; levantar las actas correspondientes y autorizarlas conjuntamente con el Presidente;
-
-III. Dar cuenta con los proyectos de las comisiones;
-
-IV. Expedir los documentos que acrediten la personalidad de los representantes de los partidos políticos y de los candidatos independientes;
-
-V. Recabar de los Consejos Municipales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
-
-VI. Llevar el archivo del Consejo General;
-
-VII. Llevar el Libro de Registro de Partidos Políticos y Agrupaciones Políticas Estatales, así como el de convenios de coaliciones, frentes y fusiones, y expedir copias certificadas de estos registros;
-
-VIII. Llevar el registro de los representantes de los partidos políticos acreditados ante los órganos electorales;
-
-IX. Proveer lo necesario a fin de que se hagan, oportunamente, las publicaciones que ordena esta Ley y las que disponga el Consejo General;
-
-X. Recibir de los partidos políticos y de los candidatos independientes, las solicitudes del registro de candidatos que competan al Consejo General, de manera directa, concurrente o supletoria; e informar de estos registros por la vía más rápida, a los Consejos Municipales;
-
-XI. Recibir los informes sobre los medios de impugnación que se interpongan en contra de los actos o resoluciones de los Consejos Municipales;
-
-XII. Recibir y dar el trámite previsto en la ley de la materia a los recursos que se interpongan en contra de los actos o resoluciones del Consejo, informándole sobre los mismos en su sesión inmediata;
-
-XIII. Informar al Consejo General de las resoluciones que le competa cumplimentar, dictadas por el Tribunal Electoral;
-
-XIV. Ejecutar los acuerdos del Consejo General, relativos a la Impresión de los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional Electoral;
-
-XV. Integrar los expedientes con la documentación necesaria a fin de que el Consejo General efectúe los cómputos y realice la declaración de validez, así como expedir las constancias que, conforme a esta Ley deba realizar;
-
-XVI. Preparar, para la aprobación del Consejo General, el proyecto de calendario para las elecciones extraordinarias, cuando éstas deban celebrarse;
-
-XVII. Integrar las listas de las propuestas de los Presidentes, Secretarios y Consejeros Electorales de los Consejos Municipales, las que entregará al Presidente del Consejo General; y
-
-XVIII. Las demás que señale esta Ley o el Consejo General.
 
 #### Sección Primera. De las Atribuciones Del Consejo General
 
@@ -1387,7 +1357,111 @@ XXXIX. Desarrollar y ejecutar los programas de educación cívica, de paridad de
 
 XL. Las demás que establezca la Ley General, la Ley General de Partidos, y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
 
-2. El Consejo General, en ocasión de la celebración de los procesos electorales, podrá invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes que acudan a conocer las modalidades de su desarrollo en cualesquiera de sus etapas.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2. En el caso de la elección de personas juzgadoras, son atribuciones del Consejo General:
+
+I. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+II. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+III. Llevar a cabo la elección, de conformidad con el ámbito territorial que determine el Órgano de Administración del Poder Judicial;
+
+IV. Realizar el cómputo de la elección a los cargos de Magistrada, Magistrado, Jueza o Juez, realizar la declaración de validez de la elección y otorgar las constancias respectivas, en los términos previstos en esta Ley;
+
+V. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen, en condiciones de equidad;
+
+VI. Determinar los topes de gastos personales de campaña aplicables para cada candidatura;
+
+VII. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+VIII. Garantizar la equidad en el desarrollo de las campañas;
+
+IX. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+X. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este artículo y las demás que establezcan las leyes.
+
+El Consejo General del Instituto no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras, salvo por causas excepcionales debidamente fundadas y motivadas, y con la aprobación de las dos terceras partes de sus integrantes.
+
+### CAPÍTULO IV. DE LA PRESIDENCIA Y SECRETARÍA DEL CONSEJO GENERAL
+
+ARTÍCULO 89
+
+1. Son atribuciones del Presidente del Consejo General:
+
+I. Velar por la unidad y cohesión de las actividades de los órganos del Instituto;
+
+II. Establecer los vínculos entre el Instituto y las autoridades federales, estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del Instituto;
+
+III. Convocar y conducir las sesiones del Consejo General;
+
+IV. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo General;
+
+V. Elaborar y someter a la consideración del Ejecutivo del Estado, el presupuesto de egresos propuesto por el Instituto, a más tardar en el mes de Octubre de cada año, y vigilar su ejercicio;
+
+VI. Solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran;
+
+VII. Convocar en tiempo a los partidos políticos, para que nombren a sus representantes a efecto de integrar debidamente en los términos de esta Ley el Consejo General;
+
+VIII. Formular los convenios que sean necesarios suscribir con el Instituto Nacional Electoral y los demás que se requieran para el cumplimiento de las atribuciones del Instituto;
+
+IX. Proponer al Consejo General el nombramiento de los Consejeros Electorales y para los cargos de Presidente y Secretario de los Consejos Municipales Electorales;
+
+X. Presidir las sesiones ordinarias y extraordinarias del Consejo General con todas las facultades que esta Ley le concede;
+
+XI. Remitir para su publicación en el Periódico Oficial, la integración del Consejo General y de los Consejos Municipales;
+
+XII. Enviar para su publicación en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, la relación completa de candidatos registrados por los partidos políticos y candidatos independientes para la elección que corresponda, y de igual forma, la cancelación de registro y sustitución de candidatos, conforme a lo dispuesto por esta Ley;
+
+XIII. (DEROGADA, P.O. 15 DE FEBRERO DE 2015)
+
+XIV. Garantizar el orden durante las sesiones del Consejo General, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico de la jornada electoral, pudiendo solicitar el auxilio de la fuerza pública en caso necesario;
+
+XV. Recibir de los partidos políticos las solicitudes de registro de candidatos a Gobernador del Estado, las candidaturas independientes y las de candidatos a Diputados por el principio de representación proporcional, así como las de Diputados de mayoría y de los integrantes de los ayuntamientos, en caso de registro supletorio y someterlas al Consejo General para su registro;
+
+XVI. Rendir un informe anual de actividades ante el Consejo General; y
+
+XVII. Las demás que señale esta Ley.
+
+ARTÍCULO 90
+
+1. Corresponde al Secretario del Consejo General:
+
+I. Auxiliar al propio Consejo y a su Presidente en el ejercicio de sus atribuciones;
+
+II. Preparar el orden del día de las sesiones del Consejo General; declarar la existencia del quórum legal necesario para sesionar; dar fe de lo actuado en las sesiones; levantar las actas correspondientes y autorizarlas conjuntamente con el Presidente;
+
+III. Dar cuenta con los proyectos de las comisiones;
+
+IV. Expedir los documentos que acrediten la personalidad de los representantes de los partidos políticos y de los candidatos independientes;
+
+V. Recabar de los Consejos Municipales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+
+VI. Llevar el archivo del Consejo General;
+
+VII. Llevar el Libro de Registro de Partidos Políticos y Agrupaciones Políticas Estatales, así como el de convenios de coaliciones, frentes y fusiones, y expedir copias certificadas de estos registros;
+
+VIII. Llevar el registro de los representantes de los partidos políticos acreditados ante los órganos electorales;
+
+IX. Proveer lo necesario a fin de que se hagan, oportunamente, las publicaciones que ordena esta Ley y las que disponga el Consejo General;
+
+X. Recibir de los partidos políticos y de los candidatos independientes, las solicitudes del registro de candidatos que competan al Consejo General, de manera directa, concurrente o supletoria; e informar de estos registros por la vía más rápida, a los Consejos Municipales;
+
+XI. Recibir los informes sobre los medios de impugnación que se interpongan en contra de los actos o resoluciones de los Consejos Municipales;
+
+XII. Recibir y dar el trámite previsto en la ley de la materia a los recursos que se interpongan en contra de los actos o resoluciones del Consejo, informándole sobre los mismos en su sesión inmediata;
+
+XIII. Informar al Consejo General de las resoluciones que le competa cumplimentar, dictadas por el Tribunal Electoral;
+
+XIV. Ejecutar los acuerdos del Consejo General, relativos a la Impresión de los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional Electoral;
+
+XV. Integrar los expedientes con la documentación necesaria a fin de que el Consejo General efectúe los cómputos y realice la declaración de validez, así como expedir las constancias que, conforme a esta Ley deba realizar;
+
+XVI. Preparar, para la aprobación del Consejo General, el proyecto de calendario para las elecciones extraordinarias, cuando éstas deban celebrarse;
+
+XVII. Integrar las listas de las propuestas de los Presidentes, Secretarios y Consejeros Electorales de los Consejos Municipales, las que entregará al Presidente del Consejo General; y
+
+XVIII. Las demás que señale esta Ley o el Consejo General.
 
 ### CAPÍTULO V. DEL SECRETARIADO TÉCNICO
 
@@ -1723,8 +1797,6 @@ XIV. Las demás que le confiera esta Ley y el Secretario Ejecutivo del Instituto
 
 ### CAPÍTULO IX. DE LOS CONSEJOS MUNICIPALES ELECTORALES
 
-### CAPÍTULO X. DE LAS MESAS DIRECTIVAS DE CASILLA
-
 #### Sección Primera. Disposiciones Generales
 
 ARTÍCULO 104
@@ -1736,6 +1808,10 @@ ARTÍCULO 104
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
 3. Los Consejos Municipales iniciarán sus funciones a más tardar la primera semana del mes de enero del año de la elección y las concluirá al término del proceso electoral. A partir de su instalación y hasta el término del proceso sesionarán por lo menos una vez al mes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+4. Los Consejos Municipales Electorales deberán coadyuvar con el Instituto, en los términos que determine el Consejo General, en la organización y cómputo de laelección (sic) de personas juzgadoras, teniendo las mismas atribuciones a que se refiere esta Ley.
 
 ARTÍCULO 105
 
@@ -1891,91 +1967,7 @@ X. Expedir copia certificada de las constancias que obran en sus archivos; y
 
 XI. Las demás que le sean encomendadas por el Presidente del Consejo Municipal, así como por el reglamento respectivo.
 
-### CAPÍTULO XI. DISPOSICIONES COMUNES
-
-ARTÍCULO 118
-
-1. Los integrantes de los Consejos Municipales, antes de tomar posesión de su cargo, deberán rendir la protesta de ley correspondiente, ante el Consejo General o su representante y, los Representantes de los Partidos Políticos y de los candidatos independientes ante el Consejo correspondiente.
-
-ARTÍCULO 119
-
-1. Los partidos políticos deberán acreditar a sus representantes ante los Consejos Municipales, a más tardar dentro de los treinta días siguientes a la fecha de la sesión de Instalación del consejo de que se trate.
-
-2. Vencido este plazo, los partidos que no hayan acreditado a sus representantes, no formarán parte del Consejo respectivo durante el proceso electoral.
-
-3. Los partidos políticos y candidatos independientes, podrán sustituir en todo tiempo a sus representantes en el Consejo General y en los Consejos Municipales.
-
-ARTÍCULO 120
-
-1. Cuando el representante propietario de un partido o de un candidato independiente y en su caso el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del órgano ante el cual se encuentren acreditados, el partido político y el candidato dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirá al representante para que concurra a la sesión y se dará aviso al partido político y al candidato, a fin de que compela a asistir a su representante.
-
-2. Los Consejos Municipales, informarán por escrito al Consejo General de cada ausencia, con el propósito de que entere a los representantes de los partidos políticos.
-
-3. La resolución del Consejo General correspondiente se notificará al partido político y al candidato respectivo.
-
-ARTÍCULO 121
-
-1. El Consejo General y los Consejos Municipales, expedirán, a solicitud de los representantes de los partidos políticos y de los candidatos, copias certificadas de las actas de las sesiones que celebren, a más tardar a los cinco días de haberse aprobado aquellas.
-
-2. El Secretario del Consejo correspondiente recabará el recibo de las copias certificadas que expida conforme a este artículo.
-
-ARTÍCULO 122
-
-1. Las sesiones del Consejo General y de los Consejos Municipales serán públicas.
-
-2. Los concurrentes deberán guardar el debido orden en el recinto donde se celebren las sesiones.
-
-3. Para garantizar el orden, los Presidentes podrán tomar las siguientes medidas:
-
-I. Exhortación a guardar el orden;
-
-II. Conminar a abandonar el local; y
-
-III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quiénes lo hayan alterado.
-
-ARTÍCULO 123
-
-1. En las mesas de sesiones de los Consejos General y Municipales, sólo ocuparán lugar y tomarán parte en las deliberaciones quienes los integran, conforme a lo dispuesto en la presente Ley.
-
-ARTÍCULO 124
-
-1. Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a petición de los Presidentes respectivos, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
-
-ARTÍCULO 125
-
-1. Los Consejos Municipales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al Secretario Ejecutivo del Instituto para dar cuenta al Consejo General.
-
-2. En idéntica forma procederán respecto de las subsecuentes sesiones.
-
-ARTÍCULO 126
-
-1. Los Consejos Municipales, laborarán en el horario que para tal efecto determine el Consejo General, teniendo en cuenta que en materia electoral todos los días y horas son hábiles.
-
-2. Los Consejos Municipales informarán del horario a los partidos políticos y a los candidatos independientes que hayan acreditado representantes ante el mismo.
-
-ARTÍCULO 127
-
-1. En conformidad por lo previsto en la Constitución y en la Ley General, en el Estatuto del Servicio Profesional Electoral Nacional, además de las normas para la organización del Servicio Profesional Electoral Nacional, se establecerán las relativas a los empleados administrativos y de trabajadores auxiliares del Instituto.
-
-2. El Estatuto fijará las normas para su composición, ascensos, movimientos, procedimientos para la determinación de sanciones, medios ordinarios de defensa y demás condiciones de trabajo.
-
-ARTÍCULO 128
-
-1. Por la naturaleza de la función estatal que tiene encomendada el Instituto, todo su personal hará prevalecer el respeto a la Constitución y las leyes, y la lealtad a la Institución, por encima de cualquier interés particular.
-
-2. El Instituto podrá determinar el cambio de adscripción o de horario de su personal, cuando por necesidades del servicio se requiera, en la forma y términos que se establezcan en esta Ley y el Estatuto.
-
-3. Los miembros del Servicio Profesional Electoral, con motivo de la carga laboral que representa el año electoral, al ser todos los días y horas hábiles, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado.
-
-ARTÍCULO 129
-
-1. Todo el personal del Instituto será considerado de confianza.
-
-2. El personal del Instituto será incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-3. Las diferencias o conflictos entre el Instituto y sus servidores serán resueltas por el Tribunal Electoral, conforme al procedimiento previsto en la ley de la materia.
-
-4. Los miembros del Servicio Profesional Electoral Nacional estarán sujetos al régimen de responsabilidades administrativas de los servidores públicos previsto en el Título Cuarto de la Constitución, conforme a lo establecido en el Libro Octavo de la Ley General.
+### CAPÍTULO X. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 #### Sección Primera. Disposiciones Generales
 
@@ -1996,6 +1988,14 @@ ARTÍCULO 112
 2. En los procesos en que se realicen elecciones federales y locales concurrentes, se deberá instalar una mesa directiva de casilla única para ambos tipos de elección, cuya integración será conforme a lo señalado en la Ley General.
 
 3. Las mesas directivas de casilla se integrarán conforme al procedimiento señalado en esta Ley, y en el supuesto de elecciones concurrentes con la federal, de acuerdo con el procedimiento señalado por la Ley General.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+4. Para la elección de personas juzgadoras, la integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas o en su caso de los centros receptores de votación, así como su capacitación, se realizará en los términos dispuestos en la Ley General y de los acuerdos que emita el Consejo General del Instituto Nacional Electoral.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 4, P.O. 26 DE DICIEMBRE DE 2024]</small>
+
+La capacitación y los simulacros de las personas funcionarias adicionales de mesas directivas de casilla para la elección de las personas juzgadoras, podrá realizarse a través de medios electrónicos.
 
 ARTÍCULO 113
 
@@ -2083,6 +2083,94 @@ III. Auxiliar al Presidente o al Secretario en las actividades que les encomiend
 
 IV. Las demás que les confiera esta Ley.
 
+### CAPÍTULO XI. DISPOSICIONES COMUNES
+
+ARTÍCULO 118
+
+1. Los integrantes de los Consejos Municipales, antes de tomar posesión de su cargo, deberán rendir la protesta de ley correspondiente, ante el Consejo General o su representante y, los Representantes de los Partidos Políticos y de los candidatos independientes ante el Consejo correspondiente.
+
+ARTÍCULO 119
+
+1. Los partidos políticos deberán acreditar a sus representantes ante los Consejos Municipales, a más tardar dentro de los treinta días siguientes a la fecha de la sesión de Instalación del consejo de que se trate.
+
+2. Vencido este plazo, los partidos que no hayan acreditado a sus representantes, no formarán parte del Consejo respectivo durante el proceso electoral.
+
+3. Los partidos políticos y candidatos independientes, podrán sustituir en todo tiempo a sus representantes en el Consejo General y en los Consejos Municipales.
+
+ARTÍCULO 120
+
+1. Cuando el representante propietario de un partido o de un candidato independiente y en su caso el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del órgano ante el cual se encuentren acreditados, el partido político y el candidato dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirá al representante para que concurra a la sesión y se dará aviso al partido político y al candidato, a fin de que compela a asistir a su representante.
+
+2. Los Consejos Municipales, informarán por escrito al Consejo General de cada ausencia, con el propósito de que entere a los representantes de los partidos políticos.
+
+3. La resolución del Consejo General correspondiente se notificará al partido político y al candidato respectivo.
+
+ARTÍCULO 121
+
+1. El Consejo General y los Consejos Municipales, expedirán, a solicitud de los representantes de los partidos políticos y de los candidatos, copias certificadas de las actas de las sesiones que celebren, a más tardar a los cinco días de haberse aprobado aquellas.
+
+2. El Secretario del Consejo correspondiente recabará el recibo de las copias certificadas que expida conforme a este artículo.
+
+ARTÍCULO 122
+
+1. Las sesiones del Consejo General y de los Consejos Municipales serán públicas.
+
+2. Los concurrentes deberán guardar el debido orden en el recinto donde se celebren las sesiones.
+
+3. Para garantizar el orden, los Presidentes podrán tomar las siguientes medidas:
+
+I. Exhortación a guardar el orden;
+
+II. Conminar a abandonar el local; y
+
+III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quiénes lo hayan alterado.
+
+ARTÍCULO 123
+
+1. En las mesas de sesiones de los Consejos General y Municipales, sólo ocuparán lugar y tomarán parte en las deliberaciones quienes los integran, conforme a lo dispuesto en la presente Ley.
+
+ARTÍCULO 124
+
+1. Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a petición de los Presidentes respectivos, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
+
+ARTÍCULO 125
+
+1. Los Consejos Municipales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al Secretario Ejecutivo del Instituto para dar cuenta al Consejo General.
+
+2. En idéntica forma procederán respecto de las subsecuentes sesiones.
+
+ARTÍCULO 126
+
+1. Los Consejos Municipales, laborarán en el horario que para tal efecto determine el Consejo General, teniendo en cuenta que en materia electoral todos los días y horas son hábiles.
+
+2. Los Consejos Municipales informarán del horario a los partidos políticos y a los candidatos independientes que hayan acreditado representantes ante el mismo.
+
+ARTÍCULO 127
+
+1. En conformidad por lo previsto en la Constitución y en la Ley General, en el Estatuto del Servicio Profesional Electoral Nacional, además de las normas para la organización del Servicio Profesional Electoral Nacional, se establecerán las relativas a los empleados administrativos y de trabajadores auxiliares del Instituto.
+
+2. El Estatuto fijará las normas para su composición, ascensos, movimientos, procedimientos para la determinación de sanciones, medios ordinarios de defensa y demás condiciones de trabajo.
+
+ARTÍCULO 128
+
+1. Por la naturaleza de la función estatal que tiene encomendada el Instituto, todo su personal hará prevalecer el respeto a la Constitución y las leyes, y la lealtad a la Institución, por encima de cualquier interés particular.
+
+2. El Instituto podrá determinar el cambio de adscripción o de horario de su personal, cuando por necesidades del servicio se requiera, en la forma y términos que se establezcan en esta Ley y el Estatuto.
+
+3. Los miembros del Servicio Profesional Electoral, con motivo de la carga laboral que representa el año electoral, al ser todos los días y horas hábiles, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado.
+
+ARTÍCULO 129
+
+1. Todo el personal del Instituto será considerado de confianza.
+
+2. El personal del Instituto será incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+3. Las diferencias o conflictos entre el Instituto y sus servidores serán resueltas por el Tribunal Electoral, conforme al procedimiento previsto en la ley de la materia.
+
+4. Los miembros del Servicio Profesional Electoral Nacional estarán sujetos al régimen de responsabilidades administrativas de los servidores públicos previsto en el Título Cuarto de la Constitución, conforme a lo establecido en el Libro Octavo de la Ley General.
+
+## TÍTULO SEGUNDO. DEL TRIBUNAL ELECTORAL DEL ESTADO DE DURANGO
+
 ### CAPÍTULO I. DE SU INTEGRACION Y FUNCIONAMIENTO
 
 ARTÍCULO 130
@@ -2160,6 +2248,20 @@ b) Los resultados consignados en las actas, por error aritmético; y
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
 c) La asignación indebida de diputados en contravención a las reglas y fórmulas de asignación establecidas en la Constitución Local y en la ley de la materia.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+III BIS.- En la elección de personas juzgadoras, para resolver impugnaciones a las determinaciones de la autoridad electoral local que violen normas constitucionales o legales, en los términos señalados por esta ley, en los siguientes casos:
+
+a) Para las candidaturas que hayan sido rechazadas, una vez que los Comités publiquen la lista de quienes hayan cumplido con los requisitos constitucionales de elegibilidad;
+
+b) Los resultados consignados en las actas de cómputo municipal, respectivas, por nulidad de la votación recibida en una o varias casillas;
+
+c) Los resultados consignados en las actas de cómputo municipal respectivas, por error aritmético, y
+
+d) Los resultados consignados en el acta de cómputo estatal, la declaración de validezde (sic) la elección y la entrega de la constancia de elección, por nulidad de votación recibida en una o varias casillas o nulidad de elección.
+
+Los medios de impugnación no producirán efectos suspensivos sobre la resolución o acto impugnado.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
@@ -2257,8 +2359,6 @@ XIV. Designar al titular del Órgano Interno de Control; y
 
 XV. Las demás que le señalen las leyes.
 
-## TÍTULO SEGUNDO. DEL TRIBUNAL ELECTORAL DEL ESTADO DE DURANGO
-
 ### CAPÍTULO II. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL
 
 ARTÍCULO 133
@@ -2314,8 +2414,6 @@ XVII. Vigilar que se cumplan las disposiciones del Reglamento Interno del Tribun
 XVIII. Las demás que señalen las leyes, el reglamento interno o aquéllas que sean necesarias para el correcto funcionamiento del Tribunal Electoral.
 
 ### CAPÍTULO III. DE LOS MAGISTRADOS ELECTORALES
-
-### CAPÍTULO IV. DE LA COMISIÓN DE ADMINISTRACIÓN
 
 #### Sección Primera. Del Procedimiento de su Elección
 
@@ -2399,43 +2497,7 @@ XI. Informar, al presidente de la Sala, sobre el funcionamiento de las áreas a 
 
 XII. Las demás que le señalen las leyes.
 
-### CAPÍTULO V. DISPOSICIONES ESPECIALES
-
-ARTÍCULO 147
-
-1. Para ser designado Secretario Instructor o de Estudio y Cuenta en la Sala del Tribunal, se requiere:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
-
-II. Tener veintiocho años de edad, por lo menos, al momento de la designación;
-
-III. Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año;
-
-IV. Contar con título de licenciado en derecho expedido legalmente y práctica profesional de cuando menos cinco años, contados a partir de la recepción de dicho título;
-
-V. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine la Comisión de Administración; y
-
-VI. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años.
-
-ARTÍCULO 148
-
-1. Para ser designado Secretario Auxiliar, Actuario, y Oficial de Partes en la Sala del Tribunal Electoral, se requiere:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
-
-II. Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año;
-
-III. Contar con título de licenciado en derecho expedido legalmente;
-
-IV. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos, determine la Comisión de Administración; y
-
-V. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años.
-
-ARTÍCULO 149
-
-1. El presidente del Tribunal Electoral y la Comisión de Administración, en el ámbito de sus respectivas competencias, podrán establecer otras categorías de personal jurídico para atender las necesidades de la Sala.
-
-2. Cuando las cargas de trabajo extraordinarias así lo exijan, la Comisión de Administración podrá autorizar la contratación, con carácter de eventual, del personal jurídico y administrativo necesario para hacer frente a tal situación, sin necesidad de seguir los procedimientos ordinarios para su contratación e ingreso.
+### CAPÍTULO IV. DE LA COMISIÓN DE ADMINISTRACIÓN
 
 #### Sección Primera. De la Integración y Funcionamiento
 
@@ -2522,6 +2584,44 @@ ARTÍCULO 145
 ARTÍCULO 146
 
 1. El Centro de Documentación y Estadística Jurisdiccional se sujetará a las reglas de organización y funcionamiento que determine la Comisión de Administración y tendrá a su cargo la actualización, incremento y vigilancia del acervo documental y lo relacionado con los servicios de consulta, difusión e intercambio bibliotecario que al efecto precise el reglamento interno del propio Tribunal, así como registrar, clasificar y compilar los criterios relevantes sustentados por la Sala, sistematizando los datos cuantitativos de la actividad jurisdiccional del Tribunal Electoral.
+
+### CAPÍTULO V. DISPOSICIONES ESPECIALES
+
+ARTÍCULO 147
+
+1. Para ser designado Secretario Instructor o de Estudio y Cuenta en la Sala del Tribunal, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
+
+II. Tener veintiocho años de edad, por lo menos, al momento de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año;
+
+IV. Contar con título de licenciado en derecho expedido legalmente y práctica profesional de cuando menos cinco años, contados a partir de la recepción de dicho título;
+
+V. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine la Comisión de Administración; y
+
+VI. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años.
+
+ARTÍCULO 148
+
+1. Para ser designado Secretario Auxiliar, Actuario, y Oficial de Partes en la Sala del Tribunal Electoral, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
+
+II. Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año;
+
+III. Contar con título de licenciado en derecho expedido legalmente;
+
+IV. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos, determine la Comisión de Administración; y
+
+V. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años.
+
+ARTÍCULO 149
+
+1. El presidente del Tribunal Electoral y la Comisión de Administración, en el ámbito de sus respectivas competencias, podrán establecer otras categorías de personal jurídico para atender las necesidades de la Sala.
+
+2. Cuando las cargas de trabajo extraordinarias así lo exijan, la Comisión de Administración podrá autorizar la contratación, con carácter de eventual, del personal jurídico y administrativo necesario para hacer frente a tal situación, sin necesidad de seguir los procedimientos ordinarios para su contratación e ingreso.
 
 ### CAPÍTULO VI. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
@@ -2649,6 +2749,14 @@ VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el 
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
+###### Artículo 162 Quater.
+
+1.- El titular del Órgano de Control Interno será designado por la mayoría del Pleno del Tribunal Electoral, previa convocatoria pública que expida; durará en su encargo cinco años y no podrá ser removido sino en los casos que establezcan las leyes de la materia.
+
+# LIBRO CUARTO. DEL PROCESO ELECTORAL
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ARTÍCULO 163
@@ -2656,6 +2764,10 @@ ARTÍCULO 163
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
 1. El proceso electoral es el conjunto de actos ordenados por la Constitución y esta Ley, realizados por las autoridades electorales, los partidos políticos con registro o acreditación y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo, así como de integrantes de los Ayuntamientos del Estado. En la elección e integración de ayuntamientos existirá la paridad de género vertical y horizontal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2. En la elección de las personas juzgadoras, el proceso electoral es el conjunto de actos ordenados por la Constitución, la Constitución Local y esta Ley, realizado por las autoridades electorales, los Poderes del Estado, así como la ciudadanía, teniendo por objeto la renovación periódica de las personas juzgadoras.
 
 ARTÍCULO 164
 
@@ -2665,6 +2777,10 @@ ARTÍCULO 164
 
 2. En las elecciones ordinarias para la renovación del Congreso y de los integrantes de los Ayuntamientos, en donde no se elija al Gobernador del Estado, concluirá con la declaración de validez de la elección de diputados por el principio de representación proporcional. En todo caso, la conclusión será una vez que el Tribunal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2 BIS. El proceso electoral ordinario para la elección de personas juzgadoras, se inicia dentro de los primeros siete días del mes de noviembre del año anterior al de la elección y concluye con la declaración de validez de la elección o en su caso al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o bien, cuando se tenga constancia de que no se presentó ninguno.
+
 3. Para los efectos de esta Ley, el proceso electoral ordinario comprende las etapas siguientes:
 
 I. Preparación de la elección;
@@ -2672,6 +2788,30 @@ I. Preparación de la elección;
 II. Jornada electoral, y
 
 III. Resultados y declaraciones de validez de las elecciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+3. BIS.-
+
+I. Para los efectos de esta Ley, el proceso de elección de las personas juzgadoras, comprende las siguientes etapas:
+
+a) Preliminar, que inicia con la notificación del Órgano de Administración del Poder Judicial al Congreso del Estado, de la conclusión del encargo de integrantes delreferido (sic) Poder, una vez realizado lo anterior, el Congreso del Estado emitirá la convocatoria para la integración del listado de las personas candidatas que participarán en la elección de personas juzgadoras, así como para conformar los comités de evaluación de cada Poder, responsables de convocar, evaluar y seleccionar a aquellas personas que cumplan con los requisitos de idoneidad, así como la conformación del Comité estatal de evaluación, en términos de la constitución política local.
+
+b) Preparación de la elección, la cual inicia con la primera sesión que el Consejo General del Instituto celebre dentro de los primeros siete días del mes de noviembre del año anterior a la elección, y concluye al iniciarse la jornada electoral;
+
+c) Postulación de candidaturas, que inicia con la publicación de la convocatoria de los Comités de Evaluación a la ciudadanía para participar en el proceso de selección, y concluye con la remisión del Congreso del Estado de los listados definitivos de las candidaturas al Instituto;
+
+d) Jornada electoral, inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con el cómputo de los votos en casilla;
+
+e) Cómputos y sumatoria, inicia con la remisión de la documentación y los expedienteselectorales (sic) a los Consejos Municipales, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General;
+
+f) Asignación de cargos, cuyo inicio es con la identificación por el Instituto de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en su caso en función de su especialización por materia, alternando entre mujeres y hombres, y concluye con la entrega por parte del instituto de las constancias de elección a las candidaturas que resulten ganadoras y la emisión de la declaración de validez respectiva por parte del Instituto; y
+
+g) Declaración de validez de la elección, la que realiza el Consejo General una vez resuelto el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas, o bien, cuando se tenga constancia de que no se presentó ninguno.
+
+Una vez que el instituto reciba del Congreso del Estado los listados de personas candidatas, habilitará un buzón electrónico a través del cual, estas puedan recibir notificaciones personales de acuerdos y resoluciones emitidas por esta autoridad electoral, en los términos de esta ley y la Ley de Medios de Impugnación en Materia Electoral y de Participación Ciudadana en el Estado de Durango.
+
+Atendiendo al principio de definitividad que rige la materia electoral, a la conclusiónde (sic) cualquiera de sus etapas o de alguno de los actos o actividades trascendentes del proceso, la instancia responsable, podrá difundir su realización y conclusión por los medios que estime pertinentes.
 
 4. La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General celebre durante la primera semana del mes de octubre del año anterior en que deban realizarse las elecciones ordinarias y concluye al iniciarse la jornada electoral.
 
@@ -2721,9 +2861,121 @@ XII. El registro de convenios de coaliciones, candidaturas comunes, fusiones y f
 
 XIII. Los actos y resoluciones dictados por los órganos electorales, relacionados con las actividades y tareas señaladas o con otras que resulten en cumplimiento de sus atribuciones y que se produzca hasta la víspera de la elección.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 165 BIS.-
+
+1. El Congreso del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas para la elección de las personas juzgadoras.
+
+2. La convocatoria general observará las bases, procedimientos y requisitos que establecen la Constitución, la Constitución Local y esta Ley, y deberá contener lo siguiente:
+
+a) Fundamentos constitucionales y legales aplicables;
+
+b) Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, cuando resulte aplicable;
+
+c) Requisitos para cada tipo de cargo;
+
+d) Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapade (sic) postulación hasta la de calificación y declaración de validez;
+
+e) Fechas y plazos que deberán observar los Poderes del Estado para la postulación delas (sic) personas candidatas, así como los procedimientos para la recepción de las candidaturas, y
+
+f) Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+3. La convocatoria general no podrá establecer requisitos adicionales a los establecidos en la Constitución y la Constitución Local; para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes del Estado.
+
+4. Para la emisión de la convocatoria general, el Órgano de Administración del Poder Judicial, por lo menos con sesenta días de anticipación a la fecha de inicio del proceso electoral, informará al Congreso del Estado la conclusión del encargo de los integrantes del Poder Judicial que se encuentren próximos al término de su período.
+
+De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de ésta, el Órgano de Administración Judicial lo comunicará de inmediato al Congreso del Estado para su incorporación en la convocatoria respectiva.
+
+5. En caso de que el Órgano de Administración del Poder Judicial no remita oportunamente la información que requiera el Congreso del Estado para la elaboración de la convocatoria general, el órgano legislativo lo integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 165 TER.-
+
+1. Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y garantizarán la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución Local.
+
+2. Cada Poder del Estado, a través de los mecanismos que al efecto determinen, instalará un Comité de Evaluación dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita el Congreso del Estado, así mismo los Poderes se notificarán oficial y oportunamente la integración de sus Comités.
+
+Los Comités de Evaluación de cada Poder, estarán conformados por tres personas de reconocido prestigio en la actividad jurídicaquienes (sic) deberán reunir al menos los siguientes requisitos, observando la paridad de género:
+
+a) Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+b) No haber sido condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+c) Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica, y
+
+d) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+Dentro de los cinco días posteriores, dichos Comités integrarán el Comité Estatal de Evaluación, el cual emitirá las reglas para el funcionamiento de éstos, los criterios de evaluación, y los elementos necesariospara (sic) llevar a cabo el análisis sobre la idoneidad de las personas aspirantes que hayan solicitado su registro, privilegiando el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+
+3. Los Comités publicarán dentro de los quince días posteriores a su integración las convocatorias para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
+
+a) La información pertinente contenida en la convocatoria general que publique el Congreso del Estado;
+
+b) Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación yselección (sic) de postulaciones por el Comité;
+
+c) Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso;
+
+d) La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y, en sucaso (sic), materia de especialización, la cual incluirá, por lo menos, su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine el Comité Estatal para valorar su honestidad y buena fama pública.
+
+4. Concluido el plazo establecido para la inscripción, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos de elegibilidad a través de la documentación que presenten.
+
+Las personas aspirantes que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral del Estado, dentro del plazo y conforme al procedimiento que determine la Ley y los acuerdos generales en la materia.
+
+Las impugnaciones serán resueltas de la forma más expedita posible dentro de un plazo que permita a las y los aspirantes a participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+5. Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo, tomando en consideración lo establecido en el inciso d), del numeral 3, del presente artículo.
+
+6. La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por los Poderes del Estado por el mismo cargo, no afectará el resultado de la evaluación.
+
+7. Los Comités seleccionarán los perfiles mejor evaluados en una proporción de dos personas para los cargos en disputa, y remitirán los listados correspondientes a la autoridad que represente a cada Poder del Estado para que determinen su conformidad de acuerdo a lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular de la gubernatura del Estado;
+
+b) El Poder Legislativo, por conducto del pleno del Congreso del Estado, mediante mayoría simple, y
+
+c) El Poder Judicial, por conducto del pleno del Tribunal Superior de Justicia, pormayoría (sic) del cincuenta más uno de los integrantes presentes en la sesión.
+
+8. Una vez que los Poderes determinen su conformidad sobre los listados de las personas idóneas, serán devueltos a los Comités respectivos para que efectúen las postulaciones que correspondan, atendiendo, en su caso a su especialización por materia y observando la paridad de género, conforme a lo siguiente:
+
+a) Para la elección de magistraturas integrantes del Poder Judicial, los listados podrán contemplar hasta dos personas para cada cargo, y
+
+b) Para la elección de personas juezas integrantes del Poder Judicial, los listadospodrán (sic) contemplar hasta dos personas para cada cargo.
+
+Realizado lo anterior, los listados resultantes, serán remitidos al Congreso del Estado a más tardar el primero de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañadas de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas, vencido el plazo establecido no se podrán remitir con posterioridad.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 165 QUÁTER.-
+
+1. El Congreso del Estado integrará los listados y expedientes de las personas postuladas por cada uno de los Poderes, conforme al tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria general, y a quienes hayan sido postuladas para un cargo diverso al que ocupen.
+
+2. Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo judicial diverso, deberán informarlo al Congreso del Estado dentro de los treinta días posteriores a la publicación de la convocatoria general, a efectos de no ser incorporadas en los listados de candidaturas. El Congreso cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo diverso al que ocupen, así mismo, cuando en un proceso electoral federal concurrente determine contender por un cargo dentro del poder judicial de la federación.
+
+El Congreso del Estado estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Instituto a más tardar el quince de febrero del año de laelección (sic) que corresponda, a efecto de que organice el proceso electivo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 165 QUINQUIES.-
+
+1. En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, antes del inicio de la impresión de las boletas, el Poder del Estado postulante, podrá solicitar al Poder Legislativo su sustitución, el cual se tomará del listado de las personas idóneas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
 ARTÍCULO 166
 
 1. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+En lo que corresponde a las candidaturas de las personas juzgadoras, la propaganda electoral solo podrá ser impresa en papel, el cual deberá ser reciclable, fabricado con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, su distribución solo podrá realizarse durante el periodolegal (sic) que duren las campañas quedando prohibida la misma tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las candidaturas, así como de espacios publicitarios y de promoción personal en cualquier medio de comunicación impresos o digitales, y solo podrán hacer uso de sus redes sociales personales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+El Instituto podrá contemplar la creación de un micrositio en su página oficial en el que informará a la ciudadanía de forma imparcial y objetiva sobre el proceso electivo y dará a conocer las candidaturas registradas, difundiendo la identidad, perfil e información curricular de cada una de las personas candidatas, en total apego al cuidado y manejo de datos personales.
 
 2. Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye.
 
@@ -2731,7 +2983,13 @@ ARTÍCULO 166
 
 4. La entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos, coaliciones o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, candidatos, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con la Ley General y se presumirá como indicio de presión al elector para obtener su voto.
 
-5. El partido político, candidato registrado o simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la Ley General.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Queda prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio,ya (sic) sea por sí o interpósita persona, partidos políticos y/o servidores públicos, en la que se oferte, se promocione o incida a votar en favor de alguna de las candidaturas a personas juzgadoras.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+5. La persona servidora pública, partido político, candidatura registrada a alguno de los Poderes del Estado, militante o simpatizante que viole lo dispuesto en este artículo, serásancionado (sic) en los términos previstos en la Ley General.
 
 ARTÍCULO 167
 
@@ -2747,13 +3005,23 @@ ARTÍCULO 168
 
 ARTÍCULO 169
 
-1. El Consejo General del Instituto Nacional Electoral emitirá las reglas, lineamientos y criterios que las personas físicas o morales deberán adoptar para realizar encuestas o sondeos de opinión en el marco de los procesos electorales federales y locales. El Instituto realizará las funciones en esta materia de conformidad con las citadas reglas, lineamientos y criterios.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-2. Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+1. El Consejo General del Instituto Nacional Electoral emitirá las reglas, lineamientos y criterios que las personas físicas o morales deberán adoptar para realizar encuestas o sondeos de opinión en el marco de los procesos electorales federales y locales, así como de elección de personas juzgadoras. El Instituto realizará las funciones en esta materia de conformidad con las citadas reglas, lineamientos y criterios.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2. Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales para ningún tipo de candidatura.
 
 3. Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral correspondiente.
 
-4. La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas en la página de Internet del Instituto.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+4. La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas tanto por el Instituto Nacional Electoral, como por el Instituto Electoral en su página de internet.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+5. Queda prohibida la contratación, por parte de servidores públicos, personas candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
 
 ARTÍCULO 170
 
@@ -2795,6 +3063,10 @@ III. Se establezcan condiciones de equidad en el formato.
 
 4. La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+5. En el caso de las candidaturas a personas juzgadoras del Poder Judicial del Estado, podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el sector público, privadoo (sic) social en condiciones de equidad, observando al efecto lo previsto en la Ley General, y las directrices y acuerdos que al efecto emita el Consejo General del Instituto en observancia a lo dispuesto en esta Ley.
+
 ARTÍCULO 174
 
 1. En términos de lo previsto por la Ley General, el Instituto Nacional Electoral emitirá las reglas, lineamientos y criterios en materia de resultados preliminares, a los que se sujetarán el Instituto.
@@ -2807,13 +3079,7 @@ ARTÍCULO 175
 
 1. La coordinación en materia de inteligencia financiera, se hará de conformidad con lo señalado por la Ley General.
 
-###### Artículo 162 Quater.
-
-1.- El titular del Órgano de Control Interno será designado por la mayoría del Pleno del Tribunal Electoral, previa convocatoria pública que expida; durará en su encargo cinco años y no podrá ser removido sino en los casos que establezcan las leyes de la materia.
-
-# LIBRO CUARTO. DEL PROCESO ELECTORAL
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
 ### CAPÍTULO I. DE LAS PRECAMPAÑAS
 
@@ -2890,8 +3156,6 @@ ARTÍCULO 182
 ARTÍCULO 183
 
 1. El Consejo General emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en esta Ley.
-
-## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
 ### CAPÍTULO II. DEL REGISTRO DE CANDIDATOS
 
@@ -3065,17 +3329,23 @@ ARTÍCULO 185
 
 2. La plataforma electoral deberá presentarse para su registro ante el Consejo General, dentro de los quince primeros días de enero del año de la elección. Del registro se expedirá constancia.
 
-ARTÍCULO 186
+###### ARTÍCULO 186.
 
 1. Los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
 I. Para la elección del titular del Poder Ejecutivo, todos los candidatos serán registrados entre el quince y veintidós de febrero, por el Consejo General.
 
-II. Para la elección de los integrantes del Poder Legislativo y los Ayuntamientos, todos los candidatos serán registrados entre el veintidós y el veintinueve de marzo, por los siguientes órganos:
+> <small>(REFORMADO [E. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-a) Los candidatos a Diputados de Mayoría Relativa por los Consejos Municipales de la Cabecera de Distrito que corresponda;
+II. Para la elección de los integrantes del Poder Legislativo y los Ayuntamientos, todas las candidaturas serán registradas entre el diecisiete y veinticuatro de marzo, por los siguientes órganos:
 
-b) Los candidatos a Diputados electos por el principio de Representación Proporcional, por el Consejo General; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+a) Las candidaturas a diputaciones por el principio de Mayoría Relativa por los Consejos Municipales de la Cabecera de Distrito que corresponda;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+b) Las candidaturas a diputaciones por el principio de Representación Proporcional por el Consejo General; y
 
 c) Los candidatos a integrantes de los Ayuntamientos, por los consejos Municipales correspondientes.
 
@@ -3171,11 +3441,27 @@ ARTÍCULO 191
 
 1. La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones o candidaturas comunes a través de sus candidatos registrados para la obtención del voto.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+En la elección de personas juzgadoras, la campaña electoral, para los efectos de esta ley, es el conjunto de actividades llevadas a cabo para la obtención del voto por parte de la ciudadanía.
+
 2. Se entienden por actos de campaña las reuniones públicas, asambleas, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos, se dirigen al electorado para promover sus candidaturas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Se entiende por actos de campaña las actividades que realicen las candidaturas a personas juzgadoras dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución y esta Ley.
 
 3. Se entiende por propaganda electoral el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+En el caso de las candidaturas a personas juzgadoras, se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
 4. Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
 
 5. (DEROGADO, P.O. 15 DE FEBRERO DE 2015)
 
@@ -3251,6 +3537,10 @@ ARTÍCULO 200
 
 2. Las campañas electorales para Diputados locales, tendrán una duración de cincuenta días.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2 BIS. Las campañas electorales para la promoción de las candidaturas a personas juzgadoras tendrán una duración de treinta días.
+
 3. Las campañas electorales para integrantes de los Ayuntamientos de los Municipios de Durango, Gómez Palacio y Lerdo, tendrán una duración de cincuenta días; para los Municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Nuevo Ideal, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, El Oro, Tamazula, Tlahualilo y Vicente Guerrero tendrán una duración de cuarenta días; y en el resto de los Municipios tendrán una duración de treinta días.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
@@ -3312,6 +3602,18 @@ a). En cada distrito electoral habrá un tope diferente atendiendo a sus condici
 b). El Consejo General fijará el tope para cada distrito sumando las cantidades a cada uno de los municipios que lo conforman. Esta cantidad constituirá el tope máximo de gastos de campaña para cada fórmula en la elección de diputados por el principio de mayoría respectiva de que se trate; y
 
 c). En el caso de que en un mismo municipio se ubiquen dos o más distritos electorales, el tope fijado para el municipio correspondiente, será dividido entre los distritos respectivos y el resultado de dicha operación constituirá el tope de gastos de campaña para ese distrito.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 203 BIS
+
+1. Las candidaturas a personas juzgadoras podrán erogar recursos propios con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura en los periodos de campaña respectivos.
+
+2. Los topes de gastos personales, por cada persona candidata al Poder Judicial, serán determinados por el Consejo General del Instituto en función del tipo de elección que se trate y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas independientes a diputaciones.
+
+3. Queda prohibido que las personas candidatas, por sí o por interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas. El Instituto, en coordinación con la Unidad Técnica de Fiscalización del Instituto Nacional Electoral, vigilará el cumplimiento a esta disposición.
+
+4. Para los efectos de este artículo, se estará a lo dispuesto en la Ley General, así como los reglamentos, acuerdos, lineamientos y demás disposiciones que emita el Instituto Nacional Electoral en materia de fiscalización de las candidaturas a personas juzgadoras.
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -3571,9 +3873,37 @@ V. Las boletas para elección de la Gubernatura del Estado, diputaciones por pri
 
 2. Una vez aprobado el modelo de boletas electorales por el Instituto Nacional Electoral, será facultad del Instituto mandarlas a imprimir.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 218 BIS
+
+1. Para la emisión del voto en la elección de las personas juzgadoras, el Consejo General del Instituto Nacional Electoral, tomando en cuenta las medidas de certeza que estime pertinentes, aprobará el modelo de las boletas electorales, la documentación del proceso de elección de las personas juzgadoras y los materiales que serán utilizados en ésta, atendiendo a lo siguiente:
+
+I. El Instituto es el facultado para imprimir las boletas que se empleen para cada tipo de elección, de conformidad con el presupuesto asignado, mismas que contendrán la siguiente información:
+
+a) Cargo para el que se postula la persona candidata;
+
+b) Entidad federativa, municipio y región judicial;
+
+c) Primer apellido, segundo apellido y nombre completo de las personas candidatas, numeradas y distribuidas por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas, y
+
+d) Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto.
+
+II. De ser el caso, para la elección de personas juezas del Poder Judicial, la boleta contendrá, además la especialidad por materia a la que se postula cada persona candidata.
+
+III. Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa y municipio. El número de folio será progresivo.
+
+2. El Instituto será el responsable de la distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+3. El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley.
+
 ARTÍCULO 219
 
 1. No habrá modificación de las boletas en caso de cancelación de registro o sustitución de uno o más candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos, y los candidatos que estuviesen legalmente registrados ante los Consejos General o Municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2. En la elección de personas juzgadoras no habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
 
 ARTÍCULO 220
 
@@ -3677,13 +4007,13 @@ VI. Auxiliar en la recepción de los paquetes electorales; y
 
 VII. Cumplir las tareas que por escrito le ordene el Presidente, y los acuerdos que determine el Consejo Municipal.
 
+## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ARTÍCULO 227
 
 1. La etapa denominada de la Jornada Electoral comprende los actos, resoluciones, tareas y actividades que los órganos electorales, los partidos políticos y los ciudadanos en general, realizan desde la instalación de la casilla hasta la clausura.
-
-## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
 
 ### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
@@ -3923,6 +4253,20 @@ II. De diputados; y
 
 III. De integrantes de los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 244 BIS
+
+1. El escrutinio y cómputo de las votaciones de casilla para los cargos de elección de personas juzgadoras se realizará de forma simultánea a los cómputos que se refiere el artículo 275 Bis, de la presente ley, en el orden siguiente:
+
+a) Magistraturas del Tribunal Superior de Justicia;
+
+b) Magistraturas del Tribunal de Disciplina Judicial;
+
+c) Magistratura del Tribunal de Justicia Penal para Adolescentes;
+
+d) Juezas y jueces del Poder Judicial.
+
 ARTÍCULO 245
 
 1. El escrutinio y cómputo de cada elección se realizará conforme a las reglas siguientes:
@@ -3954,6 +4298,16 @@ I. Se contará un voto válido por la marca que haga el elector en un solo espac
 II. Se contará como nulo cualquier voto emitido en forma distinta a la señalada, y
 
 III. Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+2. En el caso de la elección de personas juzgadoras, para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta.
+
+b) El Instituto determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+
+c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
 
 ARTÍCULO 247
 
@@ -4071,6 +4425,8 @@ ARTÍCULO 257
 
 2. Para estos efectos, los colegios de notarios publicarán, cinco días antes del día de la elección, los nombres de sus miembros y los domicilios de sus oficinas.
 
+## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ARTÍCULO 258
@@ -4086,8 +4442,6 @@ III. Los Presidentes de los Consejos Municipales, dispondrán su depósito, en o
 IV. Los Presidentes de los Consejos Municipales, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados, en presencia de los representantes de los partidos.
 
 2. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta Ley.
-
-## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
 
 ### CAPÍTULO II. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
@@ -4317,6 +4671,44 @@ IV. Remitir el expediente integrado al Tribunal Electoral en caso de impugnació
 
 V. A petición oficial del Congreso, o del Tribunal Electoral, remitirá informe circunstanciado de la elección de Gobernador del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V BIS. DE LOS CÓMPUTOS DE ELECCIÓN DE PERSONAS JUZGADORAS Y ASIGNACIÓN DE CARGOS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 275 BIS.-
+
+1. Los Consejos Municipales Electorales realizarán el cómputo de las boletas o las actasque (sic) contengan las votaciones de las elecciones de personas juzgadoras, dentro los días siguientes a la conclusión del cómputo de la elección correspondiente, en términos del artículo 244 de esta Ley.
+
+2. El Consejo General del Instituto, emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 275 TER.-
+
+1. Concluidos los cómputos de cada elección, cada Consejo Municipal Electoral de la forma más expedita, remitirá al Consejo General del Instituto, las actas que contengan los resultados de los votos obtenidos por cada candidatura a persona juzgadora para que proceda a realizar la sumatoria por tipo de elección.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 275 QUÁTER.-
+
+1. Una vez que el Consejo del Instituto realice la sumatoria final, procederá a asignar los cargos entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, en su caso la materia de especialización y publicará los resultados de la elección.
+
+Para el caso de las magistraturas tanto del Tribunal Superior de Justicia, así como, del Tribunal de Disciplina Judicial, para su asignación se estará de acuerdo a lo siguiente:
+
+a) Una vez computados los resultados de la elección estatal por el Consejo General, se agruparán en dos listas, una por cada género, ordenándose cada una de forma descendente de acuerdo a la votación obtenida;
+
+b) Realizado lo anterior, se procederá a la asignación de espacios de forma intercalada, comenzando por el género que encabece la mayor votación y así sucesivamente hasta agotar los espacios disponibles;
+
+c) Si de los listados aún quedasen personas sin asignar a un cargo, sin perder el orden en que se encuentran, se creará una lista de reserva de la que, en caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, se irá asignando de acuerdo al género de la persona juzgadora ausente.
+
+2. El Instituto hará entrega de las constancias de elección a las candidaturas que resulten ganadoras.
+
+3. Emitida la declaración de validez de la elección, el Instituto comunicará los resultados obtenidos al Poder Legislativo para los efectos constitucionales conducentes.
+
+4. Las personas juzgadoras electas deberán tomar protesta ante al Poder Legislativoel (sic) día en que se instale el primer período ordinario de sesiones del año de la elección que corresponda.
+
 ### CAPÍTULO VI. DE LA ELECCIÓN DE DIPUTADOS
 
 ARTÍCULO 276
@@ -4437,34 +4829,6 @@ ARTÍCULO 287
 
 2. Una vez resueltas las impugnaciones que se hubieren presentado, en contra de la asignación de diputados electos por el principio de representación proporcional, el Consejo General, a más tardar el día veinte de agosto del año de la elección, sesionará a fin de realizar la asignación definitiva y declarar la validez de esta elección.
 
-### CAPÍTULO I. DE LA CONVOCATORIA
-
-ARTÍCULO 297
-
-1. El Consejo General, emitirá la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
-
-2. La convocatoria deberá de emitirse dentro de los plazos señalados por esta Ley para las precampañas electorales.
-
-3. El Instituto dará amplia difusión a la convocatoria.
-
-### CAPÍTULO II. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
-
-ARTÍCULO 298
-
-1. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto por escrito en el formato que éste determine.
-
-2. Durante los procesos electorales en que se renueven el titular del Poder Ejecutivo, el Congreso del Estado, e integrantes de los ayuntamientos, la manifestación de la intención se realizará a partir del día siguiente al en que se emita la Convocatoria y hasta que dé inicio el periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
-
-I. Los aspirantes al cargo de Gobernador, ante el Secretario Ejecutivo del Instituto; y
-
-II. Los aspirantes al cargo de Diputado o integrantes de los ayuntamientos, ante el Secretario del Consejo Municipal Electoral correspondiente. En caso de que aún no se encuentren en funciones los Consejos Municipales, la manifestación se presentará ante el Secretario Ejecutivo del Instituto.
-
-3. Una vez hecha la comunicación a que se refiere el párrafo 1 de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
-
-4. Con la manifestación de intención, el candidato independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en Asociación Civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Instituto establecerá el modelo único de estatutos de la asociación civil. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria aperturada a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.
-
-5. La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
-
 # LIBRO QUINTO. DE LAS CANDIDATURAS INDEPENDIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
@@ -4540,6 +4904,34 @@ II. De los actos previos al registro de Candidatos independientes;
 III. De la obtención del apoyo ciudadano; y
 
 IV. Del registro de Candidatos independientes.
+
+### CAPÍTULO I. DE LA CONVOCATORIA
+
+ARTÍCULO 297
+
+1. El Consejo General, emitirá la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
+
+2. La convocatoria deberá de emitirse dentro de los plazos señalados por esta Ley para las precampañas electorales.
+
+3. El Instituto dará amplia difusión a la convocatoria.
+
+### CAPÍTULO II. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
+
+ARTÍCULO 298
+
+1. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto por escrito en el formato que éste determine.
+
+2. Durante los procesos electorales en que se renueven el titular del Poder Ejecutivo, el Congreso del Estado, e integrantes de los ayuntamientos, la manifestación de la intención se realizará a partir del día siguiente al en que se emita la Convocatoria y hasta que dé inicio el periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
+
+I. Los aspirantes al cargo de Gobernador, ante el Secretario Ejecutivo del Instituto; y
+
+II. Los aspirantes al cargo de Diputado o integrantes de los ayuntamientos, ante el Secretario del Consejo Municipal Electoral correspondiente. En caso de que aún no se encuentren en funciones los Consejos Municipales, la manifestación se presentará ante el Secretario Ejecutivo del Instituto.
+
+3. Una vez hecha la comunicación a que se refiere el párrafo 1 de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
+
+4. Con la manifestación de intención, el candidato independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en Asociación Civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Instituto establecerá el modelo único de estatutos de la asociación civil. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria aperturada a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.
+
+5. La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
 
 ### CAPÍTULO III. DE LA OBTENCIÓN DEL APOYO CIUDADANO
 
@@ -4667,90 +5059,6 @@ X. Las demás establecidas por esta Ley.
 
 ### CAPÍTULO V. DEL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
-### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES
-
-ARTÍCULO 321
-
-1. Son derechos de los candidatos independientes registrados:
-
-I. Participar en la campaña electoral correspondiente y en la elección al cargo para el que hayan sido registrados;
-
-II. Tener acceso a los tiempos de radio y televisión, como si se tratara de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate, únicamente en la etapa de las campañas electorales;
-
-III. Obtener financiamiento público y privado, en los términos de esta Ley;
-
-IV. Realizar actos de campaña y difundir propaganda electoral en los términos de esta Ley;
-
-V. Replicar y aclarar la información que generen los medios de comunicación, cuando consideren que se deforma su imagen o que se difundan hechos falsos o sin sustento alguno;
-
-VI. Designar representantes ante los órganos del Instituto, en los términos dispuestos por esta Ley;
-
-VII. Solicitar a los órganos electorales copia de la documentación electoral, a través de sus representantes acreditados; y
-
-VIII. Las demás que les otorgue esta Ley, y los demás ordenamientos aplicables.
-
-ARTÍCULO 322
-
-1. Son obligaciones de los candidatos independientes registrados:
-
-I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución y en la presente Ley;
-
-II. Respetar y acatar los acuerdos que emita el Consejo General;
-
-III. Respetar y acatar los topes de gastos de campaña en los términos de la presente Ley;
-
-IV. Proporcionar al Instituto la información y documentación que éste solicite, en los términos de la presente Ley;
-
-V. Ejercer las prerrogativas y aplicar el financiamiento exclusivamente para los gastos de campaña;
-
-VI. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias. Tampoco podrán aceptar aportaciones o donativos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia de:
-
-a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas, y los ayuntamientos, salvo en el caso del financiamiento público establecido en la Constitución y esta Ley;
-
-b) Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno del Distrito Federal;
-
-c) Los organismos autónomos federales, estatales y del Distrito Federal;
-
-d) Los partidos políticos, personas físicas o morales extranjeras;
-
-e) Los organismos internacionales de cualquier naturaleza;
-
-f) Las personas morales; y
-
-g) Las personas que vivan o trabajen en el extranjero.
-
-VII. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y realizar todos los egresos de los actos de campaña con dicha cuenta;
-
-VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
-
-IX. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros candidatos, partidos políticos, personas, instituciones públicas o privadas;
-
-X. Insertar en su propaganda de manera visible la leyenda: “candidato independiente”;
-
-XI. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos nacionales;
-
-XII. Abstenerse de realizar actos que generen presión o coacción a los electores;
-
-XIII. Abstenerse de recibir aportaciones y donaciones en efectivo, así como metales y piedras preciosas por cualquier persona física o moral;
-
-XIV. Presentar, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo, en conformidad con lo dispuesto por la Ley General de Partidos, la Ley General de Instituciones y Procedimientos Electorales, y demás ordenamientos aplicables;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
-
-XVI (SIC). Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes;
-
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
-
-XVII. Abstenerse de ejercer violencia política contra las mujeres por razón de género o recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas; y
-
-XVIII. Las demás que establezcan esta Ley, y los demás ordenamientos.
-
-ARTÍCULO 323
-
-1. Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, serán sancionados en términos de esta Ley y los ordenamientos aplicables.
-
-### CAPÍTULO II. DE LAS PRERROGATIVAS
-
 #### Sección Primera. De los Requisitos de Elegibilidad
 
 ARTÍCULO 310
@@ -4867,19 +5175,87 @@ ARTÍCULO 320
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
 
-### CAPÍTULO I. DE LA BOLETA ELECTORAL
+### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES
 
-ARTÍCULO 353
+ARTÍCULO 321
 
-1. Los candidatos independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con esta Ley.
+1. Son derechos de los candidatos independientes registrados:
 
-2. Se utilizará un recuadro para cada candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+I. Participar en la campaña electoral correspondiente y en la elección al cargo para el que hayan sido registrados;
 
-ARTÍCULO 354
+II. Tener acceso a los tiempos de radio y televisión, como si se tratara de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate, únicamente en la etapa de las campañas electorales;
 
-1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes.
+III. Obtener financiamiento público y privado, en los términos de esta Ley;
 
-ARTÍCULO 355 (DEROGADO, P.O. 31 DE JULIO DE 2023)
+IV. Realizar actos de campaña y difundir propaganda electoral en los términos de esta Ley;
+
+V. Replicar y aclarar la información que generen los medios de comunicación, cuando consideren que se deforma su imagen o que se difundan hechos falsos o sin sustento alguno;
+
+VI. Designar representantes ante los órganos del Instituto, en los términos dispuestos por esta Ley;
+
+VII. Solicitar a los órganos electorales copia de la documentación electoral, a través de sus representantes acreditados; y
+
+VIII. Las demás que les otorgue esta Ley, y los demás ordenamientos aplicables.
+
+ARTÍCULO 322
+
+1. Son obligaciones de los candidatos independientes registrados:
+
+I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución y en la presente Ley;
+
+II. Respetar y acatar los acuerdos que emita el Consejo General;
+
+III. Respetar y acatar los topes de gastos de campaña en los términos de la presente Ley;
+
+IV. Proporcionar al Instituto la información y documentación que éste solicite, en los términos de la presente Ley;
+
+V. Ejercer las prerrogativas y aplicar el financiamiento exclusivamente para los gastos de campaña;
+
+VI. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias. Tampoco podrán aceptar aportaciones o donativos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia de:
+
+a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas, y los ayuntamientos, salvo en el caso del financiamiento público establecido en la Constitución y esta Ley;
+
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno del Distrito Federal;
+
+c) Los organismos autónomos federales, estatales y del Distrito Federal;
+
+d) Los partidos políticos, personas físicas o morales extranjeras;
+
+e) Los organismos internacionales de cualquier naturaleza;
+
+f) Las personas morales; y
+
+g) Las personas que vivan o trabajen en el extranjero.
+
+VII. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y realizar todos los egresos de los actos de campaña con dicha cuenta;
+
+VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
+
+IX. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros candidatos, partidos políticos, personas, instituciones públicas o privadas;
+
+X. Insertar en su propaganda de manera visible la leyenda: “candidato independiente”;
+
+XI. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos nacionales;
+
+XII. Abstenerse de realizar actos que generen presión o coacción a los electores;
+
+XIII. Abstenerse de recibir aportaciones y donaciones en efectivo, así como metales y piedras preciosas por cualquier persona física o moral;
+
+XIV. Presentar, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo, en conformidad con lo dispuesto por la Ley General de Partidos, la Ley General de Instituciones y Procedimientos Electorales, y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XVI (SIC). Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+
+XVII. Abstenerse de ejercer violencia política contra las mujeres por razón de género o recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas; y
+
+XVIII. Las demás que establezcan esta Ley, y los demás ordenamientos.
+
+ARTÍCULO 323
+
+1. Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, serán sancionados en términos de esta Ley y los ordenamientos aplicables.
 
 #### Sección Primera. De los Representantes ante los Órganos del Instituto
 
@@ -4903,15 +5279,7 @@ ARTÍCULO 325
 
 1. Los candidatos independientes tendrán derecho a nombrar representantes ante las mesas directivas de casilla y generales. El registro de estos nombramientos, se realizará en los términos previstos en esta Ley.
 
-### CAPÍTULO II. DEL CÓMPUTO DE LOS VOTOS
-
-ARTÍCULO 356
-
-1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un candidato independiente, en términos de lo dispuesto por esta Ley.
-
-ARTÍCULO 357
-
-1. Para determinar la votación estatal emitida que servirá de base para la asignación de diputados por el principio de representación proporcional, no serán contabilizados los votos recibidos a favor de candidatos independientes.
+### CAPÍTULO II. DE LAS PRERROGATIVAS
 
 #### Sección Primera. Del Financiamiento
 
@@ -5067,6 +5435,34 @@ ARTÍCULO 352
 
 ## TÍTULO SEXTO. DE LOS ACTOS DE LA JORNADA ELECTORAL
 
+### CAPÍTULO I. DE LA BOLETA ELECTORAL
+
+ARTÍCULO 353
+
+1. Los candidatos independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con esta Ley.
+
+2. Se utilizará un recuadro para cada candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+
+ARTÍCULO 354
+
+1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes.
+
+ARTÍCULO 355 (DEROGADO, P.O. 31 DE JULIO DE 2023)
+
+### CAPÍTULO II. DEL CÓMPUTO DE LOS VOTOS
+
+ARTÍCULO 356
+
+1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un candidato independiente, en términos de lo dispuesto por esta Ley.
+
+ARTÍCULO 357
+
+1. Para determinar la votación estatal emitida que servirá de base para la asignación de diputados por el principio de representación proporcional, no serán contabilizados los votos recibidos a favor de candidatos independientes.
+
+# LIBRO SEXTO. DEL PROCEDIMIENTO SANCIONADOR ELECTORAL
+
+## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
+
 ### CAPÍTULO I. SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
 
 ARTÍCULO 358
@@ -5145,13 +5541,17 @@ V. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y
 
 VI. La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-VII. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, en los términos de la presente Ley, la Ley General y la Ley General de Partidos Políticos; y
+VII. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, en los términos de la presente Ley, la Ley General y la Ley General de Partidos Políticos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VIII. Los partidos políticos no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas que aspiren a ocupar el cargo de Magistrada, Magistrado, Jueza o Juez del Poder Judicial, y
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
 
-VIII. La comisión de cualquier otra falta de las previstas en la Ley.
+IX. La comisión de cualquier otra falta de las previstas en la Ley.
 
 ARTÍCULO 361
 
@@ -5247,11 +5647,19 @@ III. El incumplimiento a los párrafos séptimo y octavo del artículo 134 de la
 
 IV. La utilización de programas sociales y de sus recursos, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-V. Ejercer violencia política contra las mujeres en razón de género; y
+V. Ejercer violencia política contra las mujeres en razón de género;
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VI. Las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas que aspiren a ocupar el cargo de Magistrada, Magistrado, Jueza o Juez del Poder Judicial, de conformidad con lo dispuesto por el artículo 134 de la Constitución;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VII. Las personas juzgadoras en funciones que sean candidatas a un cargo de eleccióndeberán (sic) actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos yfinancieros (sic) a su cargo con fines electorales, y
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ARTÍCULO 366
 
@@ -5530,10 +5938,6 @@ ARTÍCULO 378
 1. Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTENGRAN, P.O. 19 DE AGOSTO DE 2021)</small>
-
-# LIBRO SEXTO. DEL PROCEDIMIENTO SANCIONADOR ELECTORAL
-
-## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
 
 ### CAPÍTULO II BIS. DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN EN LOS PROCEDIMIENTOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES
 
@@ -5839,6 +6243,8 @@ V. Las resoluciones que se aprueben ante el Pleno del Tribunal podrán ser impug
 
 2. En los supuestos establecidos en el párrafo 1 del presente artículo, si la conducta denunciada constituye una infracción generalizada o reviste gravedad, el Tribunal Electoral podrá atraer el asunto, para su sustanciación y resolución.
 
+## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
+
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ARTÍCULO 390
@@ -5980,8 +6386,6 @@ ARTÍCULO 399
 3. La Contraloría General, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
 
 4. Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
-
-## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -6136,3 +6540,37 @@ TERCERO. Los diputados que busquen la elección consecutiva por el principio de 
 CUARTO. En un plazo no mayor a quince días naturales a la entrada en vigor del presente decreto, el Instituto Electoral y de Participación Ciudadana del Estado de Durango y el Tribunal Electoral del Estado de Durango deberán acoplar su reglamentación y normatividad interna.
 
 QUINTO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 130 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Electoral y de Participación Ciudadana, y los Consejos Municipales Electorales, atenderán lo dispuesto en la Ley General, así como en esta Ley y darán cumplimiento en lo que corresponda a las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral y del Consejo General del Instituto, en lo quesea (sic) aplicable al proceso electoral local respecto a la renovación del Poder Judicial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En lo relativo a las etapas preliminares y de postulación de candidaturas de las personas juzgadoras del Poder Judicial en el marco del Proceso Electoral Ordinario 2024-2025, las autoridades competentes deberán observar, lo que para el efecto establece la Convocatoria Pública General que para tal fin emitió el Congreso del Estado el día 05 de diciembre de 2024 y publicada en el Periódico Oficial del Gobierno del Estado de Durango número 98 de fecha 08 de diciembre de 2024.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones aplicables del presente Decreto para el Órgano de Administración Judicial corresponderán al Consejo de la Judicatura hasta en tanto no ocurra su extinción, en los términos del artículo Sexto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Durango, publicada en el Periódico Oficial del Gobierno del Estado de Durango número 93 BIS, de fecha 21 de noviembre de 2024.
+
+###### ARTÍCULO QUINTO.
+
+En caso de que las personas servidoras públicas en funciones a que se refiere el artículo anterior pretendan una postulación para un cargo diverso o determinen no postularse para cargo alguno, deberán informarlo al Congreso delEstado (sic) cuando menos cinco días previos al cierre de la convocatoria general a que hace referencia este Decreto, a efecto de no ser incorporada en los listados de candidaturas, mismo caso en el supuesto en el que la persona decida declinar su participación en cualquier cargo.
+
+El Congreso del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar al Consejo de la Judicatura lo anterior y sean postuladas por alguno de los Poderes Locales para un cargo judicial diverso al que ocupen, o bien, se hayan postulado para contender para algún cargo en la estructura del Poder Judicial de la Federación.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones legales contenidas en los artículos 32 BIS, 32 QUÁTER y 186 fracción II incisos a) y b) del presente Decreto, iniciarán su vigencia a partir de la conclusión del proceso electoral 2024-2025.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
