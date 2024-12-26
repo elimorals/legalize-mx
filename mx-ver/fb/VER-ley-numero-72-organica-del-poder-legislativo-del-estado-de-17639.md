@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2024-08-12"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -935,7 +935,9 @@ XXII. Juventud, Deporte y Atletas con Discapacidad;
 
 XXIII. Límites Territoriales Intermunicipales;
 
-XXIV. Medio Ambiente, Recursos Naturales y Cambio Climático;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Medio Ambiente, Recursos Naturales, Cambio Climático y de Protección y Bienestar Animal;
 
 XXV. Organización Política y Procesos Electorales;
 
@@ -2102,3 +2104,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Comisión Permanente para la Atención y Seguimiento de la Regularización y Situación Jurídica de los Predios Escolares, entrará en función a partir de que quede formalmente instalada la Sexagésima Séptima Legislatura del H. congreso del Estado.
+
+G.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 226 POR EL QUE SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
