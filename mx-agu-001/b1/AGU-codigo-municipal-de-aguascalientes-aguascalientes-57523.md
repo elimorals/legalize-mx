@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-12-09"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -28,6 +28,8 @@ state: "AGU"
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE DICIEMBRE DE 2024.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1365,39 +1367,69 @@ Presidencia del Sistema D.I.F. Municipal.
 
 Coordinación Operativa General de Voluntariado.
 
-> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 11 DE NOVIEMBRE DE 2024)</small>
+(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 11 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 26 DE DICIEMBRE DE 2024)
 
 VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
 
-Departamento de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes.
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Departamento de Comunicación Social.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Departamento de Trabajo Social y Atención a personas con discapacidad.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Coordinación Operativa de Peritaje de Trabajo Social.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Dirección Jurídica.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Departamento Jurídico.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Dirección Administrativa.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Departamento de Recursos Materiales.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Departamento de Recursos Humanos.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Dirección de Programas Institucionales.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Departamento de Servicios Médicos.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Dirección de Desarrollo Familiar Comunitario.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Departamento de Atención a Adultos Mayores.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Departamento de Desarrollo Infantil.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 Coordinación de CEDECOS.
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Dirección de Procuraduría de Protección Municipal de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 12 DE DICIEMBRE DE 2022)</small>
 
@@ -2681,15 +2713,15 @@ XVI. Planear, ordenar y ejecutar todas las acciones que tengan relación con la 
 
 XVII. Tener bajo su mando la Unidad de Derechos Humanos, encargada de atender y dar seguimiento a las quejas que presenten los usuarios de los servicios municipales, así como los servidores públicos adscritos a cualquier dependencia municipal cuando se presuma la comisión de alguna violación a sus derechos humanos;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 26 DE DICIEMBRE DE 2024)
 
 XVIII. Implementar un sistema de consulta normativa municipal, para lo cual se podrá auxiliar de la Coordinación General de Infraestructura y Desarrollo Tecnológico;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 26 DE DICIEMBRE DE 2024)
 
-XIX. Implementar sistemas de notificación que permitan el fácil acceso a los (sic) ordenes del día y archivos a consideración en las sesiones de Cabildo y demás órganos colegiados del Municipio;
+XIX. Implementar sistemas de notificación que permitan el fácil acceso a los (sic) órdenes del día y archivos a consideración en las sesiones de Cabildo y demás órganos colegiados del Municipio;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2024) (F. DE E., P.O. 26 DE DICIEMBRE DE 2024)
 
 XX. Las demás que señale la ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidencia Municipal.
 
