@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2021-10-17"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -44,6 +46,10 @@ LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 ###### Artículo 1.
 
 La presente ley es de orden público e interés social, reglamentaria en lo conducente del artículo 99 de la Constitución Política del Estado Libre y Soberano de Durango; y tiene por objeto establecer las bases de organización y funcionamiento de las entidades paraestatales de la Administración Pública del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+El Ejecutivo del Estado a través de las Secretarías de Finanzas y de Administración y la de Contraloría, ejercerá, conforme a esta ley, la planeación financiera, vigilancia, y control de los recursos financieros, humanos y materiales, así como a la evaluación de las actividades y programas de dichas entidades paraestatales, a fin de garantizar su adecuado funcionamiento y el cumplimiento de sus objetivos conforme a los principios de eficiencia, eficacia, transparencia y rendición de cuentas.
 
 ###### Artículo 2.
 
@@ -89,9 +95,9 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 
 Las relaciones del Titular del Poder Ejecutivo y sus dependencias con las entidades paraestatales, se sujetarán a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Durango, en la presente Ley y sus disposiciones reglamentarias y a otras disposiciones según la materia que corresponda.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-La operación de las entidades paraestatales y su control, vigilancia y evaluación por parte del Titular del Poder Ejecutivo del Estado, se efectuará en los términos de esta ley, por conducto de las Secretarías de Finanzas y de Administración, la de Contraloría, en el respectivo ámbito de sus atribuciones y por las Secretarías del ramo coordinadoras de sector.
+La operación y administración de las entidades paraestatales estarán bajo la coordinación, control, vigilancia y evaluación por parte del Titular del Poder Ejecutivo del Estado, y en este sentido, acatarán la normatividad que se emita para tales efectos, así como la que emitan las Secretarías de Finanzas y de Administración, de la Contraloría y de aquellas Secretarías del ramo coordinadoras de sector, en el ámbito de sus respectivas atribuciones.
 
 ###### Artículo 8.
 
@@ -107,17 +113,23 @@ I. Establecer políticas de desarrollo para las entidades del sector que le corr
 
 II. Coordinar la planeación, programación y presupuestación de conformidad, con los lineamientos generales de gasto y financiamiento previamente establecidos y autorizados;
 
-III. Conocer la operación y evaluar sus resultados en relación a los objetivos y metas del Plan Estatal de Desarrollo y sus respectivos programas; y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-IV. Las demás atribuciones que les confiera la presente Ley y demás ordenamientos aplicables.
+II (SIC). Conocer la operación y evaluar sus resultados en relación a los objetivos y metas del Plan Estatal de Desarrollo y sus respectivos programas; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+III. Las demás atribuciones que les confiera la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 10.
 
 Las (sic) Secretaría de Finanzas y de Administración tendrá miembros en los órganos de gobierno de las entidades paraestatales. Por acuerdo del Gobernador del Estado también participarán otras dependencias y entidades, en la medida en que tenga relación con el objeto de la entidad paraestatal de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
-Las entidades paraestatales deberán proporcionar a las demás dependencias y entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten así como los que les requieran las secretarías del ramo coordinadoras del sector.
+Las entidades paraestatales deberán proporcionar, invariablemente a las Secretarías de Finanzas y de Administración de la Contraloría, Coordinadoras de Sector y a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, o que se encuentre contemplado en la presente Ley y demás normatividad aplicable a fin de que éstas se encuentren en condiciones de ejercer sus atriciones.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
 
@@ -563,21 +575,53 @@ VII. Las previsiones respecto a la posible modificación a sus estructuras admin
 
 En cada ejercicio fiscal las entidades paraestatales formularán su programa operativo anual que deberá integrarse al programa operativo anual del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 55.
 
-Las entidades paraestatales administrarán sus recursos propios por medio de sus órganos, de conformidad con las leyes aplicables.
+Las entidades paraestatales administrarán sus recursos propios por medio de sus órganos, de conformidad con las leyes aplicables y conforme las autorizaciones que para tal efecto les otorgue la Secretaría de Finanzas y de Administración.
 
 Los recursos que se recauden por los diversos conceptos que establece la Ley de Ingresos del Estado deberán registrarse en la contabilidad Gubernamental.
 
-La percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas y de Administración, en los términos y condiciones que establezca la Ley de Egresos del Estado y demás ordenamientos aplicables debiendo sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+La percepción de subsidios y transferencias los recibirá de la Secretaría de Finanzas y de Administración, en los términos y condiciones que establezcan la Ley de Egresos del Estado y demás ordenamientos aplicables, incluyendo los lineamientos y demás disposiciones reglamentarias que al efecto emitan el Titular del Ejecutivo del Estado y la Secretaría de Finanzas y de Administración, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+La administración y ejercicio de losen recursos de las entidades paraestatales, independientemente de su origen, se sujetarán a los controles e informes respectivos de conformidad con la legislación aplicable, desde su etapa de planeación, hasta su integración en la cuenta pública, pasando por su ejercicio, conforme la normatividad que se emita para tal efecto por parte de la Secretaría de Finanzas y de Administración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 56.
 
-Los programas financieros de las entidades paraestatales deberán formularse conforme a las leyes relativas y a los lineamientos generales que establezca la Secretaría de Finanzas y de Administración; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción.
+Las entidades paraestatales deberán elaborar sus anteproyectos de Presupuesto de Ingresos y Egresos de conformidad a las leyes relativas y a los lineamientos generales que establezcan la Secretaría de Finanzas y de Administración y en estricta coordinación con esta dependencia.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Deberán incluir también los programas financieros de las entidades paraestatales y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-El Director General o equivalente de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo; una vez aprobado remitirá a la Secretaría de Finanzas y de Administración la parte correspondiente a la suscripción de créditos para su trámite correspondiente y registro en los términos de la Ley correspondiente.
+El Director General o equivalente de la entidad paraestatal será el responsable de elaborar el anteproyecto de Presupuesto de Ingresos y Egresos y Programa Financiero, en su caso.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Para ello deberá acatar y seguir la normatividad secundaria y los lineamientos que para tal efecto emita el Titular del Ejecutivo por si o a través de la Secretaría de Finanzas y de Administración y una vez que se haya cubierto en tiempo y forma con el proceso de coordinación que para tal efecto se establezca, y con el visto bueno de la Secretaría referida, lo someterá para autorización de su órgano de gobierno.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Una vez aprobado el anteproyecto, remitirá a la Secretaría de Finanzas y de Administración el acta de junta de Gobierno en la que se haya acordado lo conducente para su inscripción y registro.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, previo al ejercicio de su presupuesto, deberá obtener la autorización correspondiente de la Secretaría de Finanzas y de Administración.
+
+> <small>(ADICIONADO, P.O 26 DE DICIEMBRE DE 2024)</small>
+
+Las facultades atribuidas al Ejecutivo Estatal, en el párrafo anterior, serán ejercidas con el objeto de lograr la integración de las actividades de dichos organismos a la planeación general de las finanzas en el Estado y de obtener la máxima eficacia y eficiencia en el resultado de la administración de sus recursos, sus ingresos y egresos.
 
 ###### Artículo 58.
 
@@ -585,13 +629,15 @@ El órgano de gobierno, a propuesta de su Presidente o cuando menos de la tercer
 
 ### CAPÍTULO VI. DEL CONTROL Y EVALUACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-Corresponde al Titular del Poder Ejecutivo del Estado, el control y vigilancia de las entidades paraestatales, a través de las Secretarías de Finanzas y de Administración, de Contraloría, así como de las Secretarías del Ramo Coordinadoras de Sector respectivas, en los términos de la presente Ley.
+Corresponde al Titular del Poder Ejecutivo del Estado, la planeación, coordinación, vigilancia, control, programación, presupuestación y evaluación de las entidades paraestatales, a través de las Secretarías de Finanzas y de Administración, de Contraloría, así como de las Secretarías del Ramo Coordinadoras de Sector respectivas, en los términos de la presente Ley y de conformidad con los lineamientos generales de gasto y financiamiento establecidos.
 
-Las atribuciones conferidas al Titular del Poder Ejecutivo, en el párrafo anterior, serán ejercidas con el objeto de lograr la integración de las actividades de las entidades paraestatales a la planeación general, sectorial, regional y especial del desarrollo del Estado y de obtener la máxima eficacia y eficiencia en el resultado de sus operaciones.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Las atribuciones conferidas al Titular del Poder Ejecutivo, en el párrafo anterior, serán ejercidas con el objeto de lograr la integración de las actividades de las entidades paraestatales a la planeación general, sectorial, regional y especial del desarrollo del Estado y de obtener la máxima eficacia y eficiencia en el resultado de sus operaciones y la administración de sus recursos financieros, humanos y materiales, ingresos y egresos, incluyendo las autorizaciones del ejercicio de los recursos presupuestales a las entidades paraestatales.
 
 ###### Artículo 60.
 
@@ -599,7 +645,9 @@ La Secretaría de Finanzas tendrá respecto de las entidades paraestatales las s
 
 I. Fijar los lineamientos y políticas, así como aprobar las condiciones generales de los financiamientos;
 
-II. Autorizar la contratación de financiamientos de conformidad con las políticas que al efecto se establezcan, en términos de las aplicables;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+II. Autorizar y en su caso suscribir la contratación de financiamientos o cualquier tipo de empréstitos de conformidad con las políticas que al efecto se establezcan, en términos de las aplicables;
 
 III. Aprobar los montos y llevar el registro y control de la deuda pública, de acuerdo a lo que disponga la Ley de la materia;
 
@@ -617,15 +665,65 @@ IX. Vigilar que los Acuerdos de Coordinación que se realicen con las Dependenci
 
 X. Establecer normas para el ejercicio de su gasto público y programas de inversión, así como vigilar su cumplimiento;
 
-XI. Requerir la información financiera y contable de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, para efectos de consolidación de estados financieros y preparación de la cuenta pública, conforme a la Ley de la materia;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XI. Requerir la información financiera y contable de acuerdo con los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, para efectos de consolidación de estados financieros y preparación de la cuenta pública, conforme a la Ley de la materia;
 
 XII. Hacer que las entidades paraestatales cumplan las disposiciones fiscales;
 
-XIII. Emitir disposiciones administrativas y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XIII. Emitir disposiciones administrativas en materia de elaboración de presupuestos de egresos y propuesta de conceptos y montos de ingreso propio y vigilar su cumplimiento;
 
 XIV. Dictar las disposiciones administrativas, relativas a la adquisición, enajenación, arrendamiento y uso de bienes muebles e inmuebles y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la Ley de la materia; y
 
-XV. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XV. Emitir las disposiciones para el control administrativo de los recursos humanos, materiales, bienes muebles e inmuebles, incluyendo lo relativo a la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos, así como lo relacionado con la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servidores necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la ley de la materia y vigilar su observancia;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVI. Emitir los lineamientos para la elaboración y registro de sus manuales de organización, así como diseño o modificación de estructuras orgánicas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVII. Opinar sobre las solicitudes de adquisición de equipo de informática o contratación de servicios técnicos de cómputo y acordar lo que se integre a los planes generales y sectoriales en la materia;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Dictar lineamientos para la capacitación del personal de las entidades paraestatales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XIX. Coordinar la elaboración de los programas anuales de adquisiciones y determinar las compras y contratos que deban realizarse de manera consolidada con la administración pública centralizada;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XX. Dictaminar las solicitudes de adquisición de bienes muebles e inmuebles y acordar las que procedan, así como operar los procedimientos para su adjudicación;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXI. Verificar que la enajenación de bienes muebles e inmuebles se efectúe en términos establecidos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXII. Trabajar coordinadamente con las entidades paraestatales a fin de que se cumpla con lo dispuesto en la legislación fiscal, con especial énfasis en el cálculo, entero y recuperación de los impuestos sobre productos del trabajo;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Autorizar las erogaciones que le soliciten las Entidades Paraestatales, cerciorándose de que se encuentra conforme el presupuesto de egresos, que se han cumplido con los requisitos que las leyes y reglamentos determinen en materia de gasto público, que se encuentra acorde con el calendario de gasto aprobado y que se cuenta con recursos financieros disponibles;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Aprobar y en su caso efectuar las ministraciones de las transferencias a entidades paraestatales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXV. Acordar la reducción de una o varias de las partidas contenidas en los programas previstos en la Ley de Egresos, cuando haya una contracción en la Hacienda Pública, no se perciban los ingresos estimados, no se cuente con los fondos necesarios o se requiera por razones de economía presupuestaria; y
+
+> <small>[N. DE E. REUBICADA, P.O. 26 DE DICIEMBRE DE 2024]</small>
+
+XXVI. Las demás que le confieran otros ordenamientos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2015)</small>
 
@@ -916,3 +1014,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 123 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE ESTIDADES PARAESTATALES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
