@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2024-06-28"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -73,11 +73,13 @@ Son sujetos de este impuesto, las personas físicas o morales que adquieran veh�
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 6º.
 
-La base del impuesto será la que resulte de aplicar al valor total del automotor contenido en la factura, el factor de la siguiente tabla de acuerdo al año de antigüedad de la unidad:
+La base del impuesto será la que resulte de aplicar al valor total del automotor contenido en la factura inicial, el factor de la siguiente tabla de acuerdo al año de antigüedad de la unidad:
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 Años de antigüedad Factor
 
@@ -491,7 +493,9 @@ El Impuesto se causará, liquidará y pagará aplicando la tasa del tres por cie
 
 El impuesto se causará en el momento en que se efectúen las erogaciones por el trabajo personal.
 
-Los contribuyentes pagarán mediante declaración mensual, a través del formato que para esos efectos expida la Secretaría de Finanzas, a más tardar el día quince del mes siguiente al de la causación del impuesto, ante las oficinas recaudadoras o establecimientos autorizados de la jurisdicción a que pertenezcan el domicilio del contribuyente, o en las instituciones bancarias autorizadas para ello.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Los contribuyentes pagarán mediante declaración mensual, a través del formato que para esos efectos expida la Secretaría de Finanzas, a más tardar el día diecisiete del mes siguiente al de la causación del impuesto, ante las oficinas recaudadoras o establecimientos autorizados de la jurisdicción a que pertenezcan el domicilio del contribuyente, o en las instituciones bancarias autorizadas para ello.
 
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
@@ -707,13 +711,17 @@ Para estos efectos, el prestador del servicio de hospedaje deberá realizar el d
 
 Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 32.
 
-El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, la tasa del tres por ciento.
+El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, la tasa del cuatro por ciento.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2022)</small>
 
 La retención a la que se refiere el párrafo último del artículo 29 de esta Ley, será del tres por ciento del importe pagado por el servicio total del hospedaje de conformidad con el artículo anterior.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2022)</small>
 
 Cuando el servicio de hospedaje sea pagado a los intermediarios, promotoras o facilitadoras a través de las aplicaciones, plataformas tecnológicas y similares, y el prestador de servicio de hospedaje no pueda acreditarlo, la retención se considerará como pago definitivo.
 
@@ -871,19 +879,57 @@ Asimismo, se deberá presentar una declaración anual por este impuesto a más t
 
 Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
 
-ARTICULO 36 NONIES. (DEROGADO, P.O. 7 DE JUNIO DE 2024)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
+### CAPITULO VII. IMPUESTO CEDULAR POR LA ENAJENACIÓN DE BIENES INMUEBLES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
+ARTICULO 36 NONIES. Objeto del Impuesto: El impuesto tiene como objeto gravar los ingresos obtenidos por personas físicas derivados de la enajenación de bienes inmuebles ubicados en el territorio de San Luis Potosí.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 DECIES. Sujetos Obligados: Son sujetos obligados las personas físicas que realicen enajenaciones de bienes inmuebles gravables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 UNDECIES. Base Gravable: La base gravable será el ingreso neto, calculado conforme a las deducciones aplicables del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 DUODECIES. Tasa: La tasa del impuesto será del 3% sobre la base gravable.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 TERDECIES. Exenciones: Estarán exentas las transacciones cuyo valor sea menor a un monto equivalente a 6,447 veces el valor de la UMA, así como aquellas en las que los contribuyentes sean adultos mayores enajenando su única propiedad y que así lo demuestren.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 QUATERDECIES. Declaración y Pago: El impuesto será retenido y enterado por los notarios públicos que intervengan en la operación, quienes deberán presentar la declaración correspondiente en los plazos establecidos en el reglamento aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO VIII. IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 QUINDECIES. Objeto del Impuesto: El impuesto tiene como objeto gravar la venta final de bebidas alcohólicas realizadas dentro del territorio del estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 SEXDECIES. Sujetos Obligados: Son sujetos obligados las personas físicas o morales que realicen la venta final de bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 SEPTENDECIES. Base Gravable y Tasa: La base gravable será el precio de venta al consumidor final antes de impuestos, aplicando una tasa del 3%.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 36 OCTADECIES. Exenciones: Quedan exentas las ventas al por mayor destinadas a distribución y las bebidas con contenido alcohólico menor al 2%.
 
 ## TITULO TERCERO. DERECHOS
 
-### CAPÍTULO III. SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
+### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -1401,9 +1447,9 @@ Por la autorización que otorgue la Dirección General de Protección Social y V
 
 Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis Potosí, impone a peritos dictaminadores y valuadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de la credencial de identificación de perito, el importe de 10.1 veces el valor de la UMA vigente y, por revalidación y/ o refrendo anual de la misma, el importe de 5.5 veces el valor de la UMA vigente.
 
-### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
+### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 64.
 
@@ -1463,9 +1509,9 @@ Existe obligación de efectuar canje de placas cada tres años, de conformidad c
 
 La reposición de placas para el servicio público y particular debe realizarse dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente, debiendo pagar 20 veces el valor de la UMA vigente.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-Los propietarios de los vehículos de servicio particular a que se refiere el inciso a) de la fracción I de este artículo, cuyo valor incluyendo el impuesto al valor agregado sea de hasta $500,000.00 pesos, no pagarán los derechos previstos para la dotación de placas.
+Los propietarios de los vehículos de servicio particular a que se refiere el inciso a) de la fracción I de este artículo, cuyo valor incluyendo el impuesto al valor agregado sea de hasta $350,000.00 pesos, no pagarán los derechos previstos para la dotación de placas.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
 
@@ -1503,51 +1549,29 @@ d) Bicicletas de motor 0.17 0.17
 
 Recibir
 
-III. Reposición de tarjeta de circulación, con igual vigencia a la de las placas, la que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-Tipo Servicio Servicio
+III. Por la reposición y/o renovación de tarjeta de circulación con igual vigencia a la de las placas que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción se cobrará 6.6 veces el valor de la UMA vigente.
 
-público particular
+a) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+b) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-a) Automóviles, camionetas, 2.89 2.89
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-camiones y ómnibus
+d) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-b) Remolques 2.13 2.13
+IV. Por el trámite de baja administrativa en el Registro Estatal Vehicular se cobrará 5.2 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+a) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-c) Motocicletas y motonetas 2.13 2.13
+b) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
-d) Bicicletas de motor 0.30 0.30
-
-IV. Por trámite de baja:
-
-Tipo Servicio Servicio
-
-público particular
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-a) Automóviles, camiones y ómnibus 2.13 2.13
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-b) Remolques 1.52 1.52
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-c) Motocicletas y motonetas 1.52 1.52
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-d) Bicicletas de motor 0.20 0.20
+d) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1589,13 +1613,33 @@ d) Bicicletas de Motor 0.20 0.20
 
 VII. Dotación de holograma para identificar facturas electrónicas a vehículos nuevos, cuando realice el movimiento de alta se cobrará 3.3 veces el valor de la UMA vigente, la que deberá adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-La incorporación del holograma antes aludido a la factura electrónica, la valida como original y única para efectos de control vehicular. Entiéndase por factura electrónica la que es expedida conforme a las disposiciones fiscales y resoluciones administrativas emitidas por la Secretaría de Hacienda y Crédito Público, y
+La incorporación del holograma antes aludido a la factura electrónica, la valida como original y única para efectos de control vehicular. Entiéndase por factura electrónica la que es expedida conforme a las disposiciones fiscales y resoluciones administrativas emitidas por la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 VIII. Reposición de holograma para identificar facturas electrónicas a vehículos nuevos, la que deberá efectuarse dentro de los cinco días posteriores a la fecha del acta o documento donde conste su extravío o destrucción, se cobrará 3.3 veces el valor de la UMA vigente.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+IX. Por validación de pagos realizados en el Estado se cobrará 3.3 veces el valor de la UMA vigente.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+X. Por validación de pagos realizados en otra Entidad Federativa se cobrará 6.0 veces el valor de la UMA vigente.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XI. Por expedición de constancia de licencia de conducir se cobrará 3.5 veces el valor de la UMA vigente.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XII. Por expedición de constancia de control vehicular se cobrará 3.5 veces el valor de la UMA vigente, y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XIII. Por corrección de datos en el Registro Estatal Vehicular se cobrará 3.2 veces el valor de la UMA vigente.
 
 ###### ARTICULO 65.
 
@@ -1957,7 +2001,7 @@ n) Por búsqueda de datos en los archivos 1.38
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2014)</small>
 
-### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
+### CAPÍTULO III. SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2165,7 +2209,9 @@ Los cursos de capacitación para conductor del servicio de transporte público, 
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
 
-### CAPITULO VI. OTROS SERVICIOS
+### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 81.
 
@@ -2204,6 +2250,194 @@ II. Los prestados por el Hospital Central Dr. Ignacio Morones Prieto:
 Los derechos se cobrarán conforme a los conceptos y cuotas establecidas en el Anexo Único de la Ley de Ingresos correspondiente a cada ejercicio fiscal.
 
 El monto del cobro se realizará en función de los tabuladores establecidos, los cuales se determinarán en función del estudio socioeconómico que se le realice al paciente o familiar por parte del Departamento de Trabajo Social del Hospital, y podrán ser del A al D. El tabulador E únicamente aplicará a los pacientes con Seguro Popular, y los derechos correspondientes se les cobrarán a los Servicios de Salud del Estado de conformidad con los convenios celebrados.
+
+### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 84.
+
+Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas UMA vigente:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 110.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Por la recepción y la evaluación de una manifestación, modalidad particular, cuando en el municipio donde se pretendan desarrollar los proyectos, no cuenten con plan de centro de población o se pretenda modificar el uso de suelo, por la operación de un banco de materiales o de préstamo menor a 100 hectáreas, 165.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+a) Por la evaluación de una manifestación en su modalidad regional (cuando los proyectos abarquen una superficie mayor a 100 hectáreas o su área de afectación sea similar a esta superficie), 220.
+
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad particular, 110;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad regional, 165;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 55;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 33, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VII. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de presentación de un informe preventivo o manifestación de impacto ambiental y riesgo, 33.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 85.
+
+Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en UMA vigente:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I. Por la recepción y evaluación de solicitud de permiso, 35.2, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Actualización del permiso de operación, 22.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 22, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de permiso de operación de fuente fija, 33.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 86.
+
+Por los servicios de verificación y de certificación de equipos de medición de contaminantes de vehículos automotores en circulación, en centros autorizados, se pagará el derecho de prevención y control de la contaminación, conforme a las tarifas siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I. Verificación con vigencia de 6 meses, 3.3 veces el valor de la UMA vigente, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Verificación con vigencia de 12 meses, 6.6 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 87.
+
+Por la autorización o licencia de operación de centros de verificación de emisiones contaminantes de vehículos automotores, 5500 veces el valor de la UMA vigente; existe la obligación de pagar refrendo anual durante el mes de enero de cada ejercicio fiscal, de 550 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 88.
+
+Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, de manejo especial, se pagará el derecho de prevención y de control de la contaminación, conforme a las siguientes tarifas, expresadas en UMA vigente:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I. Inscripción en el registro de generadores de residuos industriales no peligrosos de manejo especial, 44;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Autorización a empresas de servicios de recolección y transporte de residuos industriales no peligrosos de manejo especial, 44;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos de manejo especial, 44;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 44;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. Por las solicitudes de transferencia, modificación o renovación de la autorización otorgada, se pagarán 22, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+VI. Por la renovación o modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro del plan de manejo de residuos de manejo especial, se pagará el derecho de prevención de la generación y la valorización de los residuos, conforme a las siguientes tarifas expresadas en UMA vigente:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM-161-SEMARNAT-2011, 12;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6.6, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+III. Por la renovación o la modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 89.
+
+Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 90.
+
+Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental, se pagará el 50% de la tarifa establecida en el presente artículo.
+
+### CAPITULO VI. OTROS SERVICIOS
+
+###### ARTICULO 91.
+
+La búsqueda de antecedentes en expedientes, libros o legajos de los archivos del Estado será gratuita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 92.
+
+Por los servicios que se citan a continuación se causarán los derechos que se mencionan enseguida, expresados en UMA vigente:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I. Certificado de no adeudo, 2.2;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Carta de no antecedentes penales, 1.1;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de los poderes del Estado, 1.1 por foja, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.02 por foja.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
+###### ARTICULO 93.
+
+Todos los derechos previstos en esta Ley se incrementarán a una tasa del veinticinco por ciento, cuyo importe se destinará, preferentemente, a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias, o grupos en situación vulnerable, sin fines lucrativos. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado, sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la administración pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
+
+###### ARTICULO 93-A.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
@@ -2537,150 +2771,6 @@ Los conceptos y tarifas estarán descritos en la Ley de Ingresos vigente para el
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 84.
-
-Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas UMA vigente:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 110.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Por la recepción y la evaluación de una manifestación, modalidad particular, cuando en el municipio donde se pretendan desarrollar los proyectos, no cuenten con plan de centro de población o se pretenda modificar el uso de suelo, por la operación de un banco de materiales o de préstamo menor a 100 hectáreas, 165.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-a) Por la evaluación de una manifestación en su modalidad regional (cuando los proyectos abarquen una superficie mayor a 100 hectáreas o su área de afectación sea similar a esta superficie), 220.
-
-b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-III. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad particular, 110;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-IV. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad regional, 165;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 55;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 33, y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-VII. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de presentación de un informe preventivo o manifestación de impacto ambiental y riesgo, 33.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 85.
-
-Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en UMA vigente:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-I. Por la recepción y evaluación de solicitud de permiso, 35.2, y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Actualización del permiso de operación, 22.
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 22, y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-IV. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de permiso de operación de fuente fija, 33.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 86.
-
-Por los servicios de verificación y de certificación de equipos de medición de contaminantes de vehículos automotores en circulación, en centros autorizados, se pagará el derecho de prevención y control de la contaminación, conforme a las tarifas siguientes:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-I. Verificación con vigencia de 6 meses, 3.3 veces el valor de la UMA vigente, y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Verificación con vigencia de 12 meses, 6.6 veces el valor de la UMA vigente.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 87.
-
-Por la autorización o licencia de operación de centros de verificación de emisiones contaminantes de vehículos automotores, 5500 veces el valor de la UMA vigente; existe la obligación de pagar refrendo anual durante el mes de enero de cada ejercicio fiscal, de 550 veces el valor de la UMA vigente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 88.
-
-Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, de manejo especial, se pagará el derecho de prevención y de control de la contaminación, conforme a las siguientes tarifas, expresadas en UMA vigente:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-I. Inscripción en el registro de generadores de residuos industriales no peligrosos de manejo especial, 44;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Autorización a empresas de servicios de recolección y transporte de residuos industriales no peligrosos de manejo especial, 44;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-III. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos de manejo especial, 44;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 44;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-V. Por las solicitudes de transferencia, modificación o renovación de la autorización otorgada, se pagarán 22, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-VI. Por la renovación o modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro del plan de manejo de residuos de manejo especial, se pagará el derecho de prevención de la generación y la valorización de los residuos, conforme a las siguientes tarifas expresadas en UMA vigente:
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM-161-SEMARNAT-2011, 12;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6.6, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-III. Por la renovación o la modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 89.
-
-Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 90.
-
-Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental, se pagará el 50% de la tarifa establecida en el presente artículo.
-
 ### CAPÍTULO VIII. SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
@@ -2712,48 +2802,6 @@ Por la revalidación anual de personas físicas y 8.8
 morales en el Registro de Agentes Inmobiliarios del
 
 Estado de San Luis Potosí
-
-###### ARTICULO 91.
-
-La búsqueda de antecedentes en expedientes, libros o legajos de los archivos del Estado será gratuita.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-###### ARTICULO 92.
-
-Por los servicios que se citan a continuación se causarán los derechos que se mencionan enseguida, expresados en UMA vigente:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-I. Certificado de no adeudo, 2.2;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-II. Carta de no antecedentes penales, 1.1;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de los poderes del Estado, 1.1 por foja, y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.02 por foja.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
-
-###### ARTICULO 93.
-
-Todos los derechos previstos en esta Ley se incrementarán a una tasa del veinticinco por ciento, cuyo importe se destinará, preferentemente, a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias, o grupos en situación vulnerable, sin fines lucrativos. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado, sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la administración pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
-
-###### ARTICULO 93-A.
-
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
-
-### CAPITULO UNICO
-
-### CAPITULO UNICO
 
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
 
@@ -3005,6 +3053,8 @@ La cuota a cargo de los propietarios o poseedores de los predios no cultivados s
 
 ## TITULO QUINTO. PRODUCTOS
 
+### CAPITULO UNICO
+
 ###### ARTICULO 118.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtiene el fisco del Estado por concepto de:
@@ -3248,6 +3298,8 @@ IX. Por ocupación de auditorio para capacitación con capacidad para 150 person
 ARTICULO 121 TER. El Gobierno del Estado a través de la Secretaría de Finanzas, pondrá a la venta al público en general, calcomanías en alusión al deporte, cuya recaudación será destinada al apoyo y fomento al deporte en el Estado, mismas que serán proporcionadas para su venta en las oficinas recaudadoras y otros puntos y que tendrán un costo de $100.00.
 
 ## TITULO SEXTO. APROVECHAMIENTOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 122.
 
@@ -3692,3 +3744,13 @@ P.O. 28 DE JUNIO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0036.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6°, EL PRIMER PÁRRAFO DEL ARTÍCULO 24, EL PRIMER PÁRRAFO DEL ARTÍCULO 32, EL CUARTO PÁRRAFO DE LA FRACCIÓN I Y EL PRIMER PÁRRAFO DE LA FRACCIÓN IV Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VII DEL ARTÍCULO 64; SE ADICIONA UN CAPITULO VII DENOMINADO “IMPUESTO CEDULAR POR LA ENAJENACIÓN DE BIENES INMUEBLES” CON LOS ARTÍCULOS 36 DECIES, 36 UNDECIES, 36 DUODECIES, 36 TERDECIES, 36 QUATERDECIES Y 36 QUINDECIES; UN CAPITULO VIII DENOMINADO “IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO” CON LOS ARTÍCULOS 36 SEXDECIES, 36 SEPTENDECIES, 36 OCTODECIES Y 36 NOVODECIES, ASÍ COMO LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 64; Y SE DEROGAN LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN III, ASÍ COMO LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN IV DEL ARTÍCULO 64, TODOS DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ. SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2025”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Finanzas del Poder Ejecutivo del Estado previo a la entrada en vigor de la Ley de Ingresos 2025, deberá emitir las Reglas de Operación necesarias para la correcta y debida aplicación de las disposiciones establecidas en los Capítulos VII y VIII del presente Decreto.
