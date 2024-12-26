@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2023-12-26"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -327,7 +327,9 @@ Las personas físicas, las personas morales y las unidades económicas que en el
 
 I. Que hayan realizado erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, a un promedio mensual de cien o más trabajadores, o
 
-II. Que hayan realizado erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, acumulados por un millón de pesos o más.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+II. Que hayan realizado, en un mes o más, erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, acumulados por un millón de pesos o más.
 
 Las personas físicas, las personas morales y las unidades económicas obligadas al pago del Impuesto sobre Nóminas, en términos del Título Segundo, Capítulo III de esta Ley, que no se encuentren obligadas a presentar el dictamen mencionado en el párrafo anterior, podrán optar por dictaminarse respecto del año de calendario inmediato anterior, presentando el aviso correspondiente, y aplicando, para ello, los términos y las condiciones que establezcan el Código Fiscal del Estado de Campeche y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
 
@@ -1665,6 +1667,20 @@ Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas d
 
 El Estado podrá implementar descuentos en las tarifas, en el entendido de que éstas no podrán exceder a las autorizadas por la Secretaría de Comunicaciones y Transportes, en términos de la Concesión. En el caso de existir algún Programa de Residentes, dicho programa deberá aplicarse para los habitantes del municipio de Carmen.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 70 BIS.- Por el uso y aprovechamiento de instalación marginal dentro del derecho de vía del "Nuevo Puente La Unidad", tal como instalación o tendido de ductos, cableados, fibra óptica y similares.
+
+Tarifa Unidad de Medidas
+
+y Actualización
+
+Por la instalación o tendido de
+
+ductos, cableados, fibra óptica y similares. 158.12
+
+Estos derechos se pagarán mensualmente dentro de los 20 días hábiles siguientes al vencimiento de cada mes, o bien de manera anual anticipada a más tardar el 31 de enero de cada año.
+
 ###### ARTÍCULO 71.
 
 Por el uso del camino de acceso a la zona arqueológica de Calakmul, se cobrarán los siguientes derechos:
@@ -2085,7 +2101,7 @@ informativo prevista en el artículo 17 del Código
 
 Fiscal del Estado de Campeche. 3
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 XXIV.- Por los servicios prestados en materia de transporte y movilidad de pasajeros y carga en sus diversas modalidades, de conformidad con la legislación aplicable, se causarán y pagarán los siguientes derechos:
 
@@ -2093,219 +2109,317 @@ Concepto Unidades de Medidas
 
 y Actualización
 
-a) Por el estudio para la solicitud de concesión de
+a) Por el estudio para la solicitud de
 
-servicio público de transporte de pasajeros y carga
+concesión de servicio público de
 
-en las modalidades de autobuses, colectivos, taxis,
+transporte de pasajeros y carga en
 
-carga en general, grúas, BRT y servicio mixto. 42
+las modalidades de autobuses,
 
-b) Por el estudio para la solicitud de concesión de
+colectivos, taxis, carga en general,
 
-servicio especializado de transporte para la
+grúas, BRT, DRT y servicio mixto. 50
 
-modalidad de mototaxis. 10
+b) Por el estudio para la solicitud
 
-c) Por el otorgamiento de una concesión de servicio
+de concesión de servicio
 
-público de transporte, a solicitud de la parte
+especializado de transporte para la
 
-interesada, en las modalidades de autobuses,
+modalidad de mototaxis. 12
 
-colectivos, taxis, carga en general y grúas. 30
+c) Por el otorgamiento de una
 
-d) Por el otorgamiento de una concesión de servicio
+concesión de servicio público de
 
-público de transporte, a solicitud de la parte interesada,
+transporte, a solicitud de la parte
 
-para la modalidad de mototaxis. 5
+interesada, en las modalidades de
 
-e) Por el otorgamiento de una concesión en la modalidad
+autobuses, colectivos, taxis, carga
 
-de BRT. 4820
+en general y grúas. 40
 
-f) Por el otorgamiento de la concesión en la modalidad
+d) Por el otorgamiento de una concesión
 
-de servicio mixto. 20
+de servicio público de transporte, a
 
-g) Por la prórroga de una concesión de servicio público
+solicitud de la parte interesada, para
 
-de transporte de pasajeros y carga, en las modalidades
+la modalidad de mototaxis. 8
 
-de autobuses, colectivos, taxis, carga en general y grúas. 30
+e) Por el otorgamiento de una
 
-h) Por la prórroga de una concesión del servicio de
+concesión en la modalidad de BRT o DRT. 4820
 
-transporte público en la modalidad de mototaxis. 5
+f) Por el otorgamiento de la
 
-i) Por la prórroga de una concesión del servicio público
+concesión en la modalidad de
 
-de transporte, en la modalidad de BRT. 4820
+servicio mixto. 20
 
-j) Por la prórroga de una concesión del servicio público
+g) Por la próroga (sic) de una
 
-de transporte, en la modalidad de servicio mixto. 20
+concesión de servicio público
 
-k) Por la expedición de un nuevo título de concesión de
+de transporte de pasajeros y carga,
 
-servicio público de transporte, con motivo del cambio
+en las modalidades de autobuses,
 
-de titular por la incapacidad física o mental, declaración
+colectivos, taxis, carga en general y grúas. 40
 
-de ausencia o fallecimiento del concesionario, en las
+h) Por la prórroga de una concesión
 
-modalidades de autobuses, colectivos, taxis, carga en
+del servicio de transporte público
 
-general, grúas y servicio mixto. 24
+en la modalidad de mototaxis. 8
 
-l) Por la expedición de un nuevo título de concesión de
+i) Por la prórroga de una concesión
 
-servicio público de transporte, con motivo del cambio
+del servicio público de transporte,
 
-de titular por la incapacidad física o mental, declaración
+en la modalidad de BRT o DRT. 4820
 
-de ausencia o fallecimiento del concesionario, en la
+j) Por la prórroga de una
 
-modalidad de mototaxis. 5
+concesión del servicio público
 
-m) Por la reposición de un título de concesión de
+de transporte, en la modalidad de
 
-servicio público de transporte, por modificación, robo
+servicio mixto. 20
 
-o extravío, en las modalidades de autobuses, colectivos,
+k) Por la expedición de un nuevo
 
-taxis, carga en general, grúas, BRT y servicio mixto. 24
+título de concesión de servicio público
 
-n) Por la reposición de un título de concesión de
+de transporte, con motivo del cambio
 
-servicio público de transporte, por modificación, robo
+de titular por la incapacidad física
 
-o extravío, en la modalidad de mototaxi. 5
+o mental, declaración de ausencia
 
-o) Por la revisión física y mecánica de los vehículos
+o fallecimiento del concesionario,
 
-destinados al transporte público y mercantil, en las
+en las modalidades de autobuses,
 
-modalidades de autobuses, colectivos, taxis, carga en
+colectivos, taxis, carga en general,
 
-general, grúas, BRT y servicio mixto. 3
+grúas y servicio mixto. 25
 
-p) Por la revisión física y mecánica de los vehículos
+l) Por la expedición de un nuevo
 
-destinados al transporte público y mercantil, en la
+título de concesión de servicio público
 
-modalidad de mototaxis. 2
+de transporte, con motivo del cambio
 
-q) Por la tramitación, estudio y diagnóstico de
+de titular por la incapacidad física
 
-factibilidad para la autorización de modificación,
+o mental, declaración de ausencia
 
-ampliación o creación de ruta de transporte público
+o fallecimiento del concesionario,
 
-en las modalidades de autobuses, colectivos, BRT y
+en la modalidad de mototaxis. 6
+
+m) Por la reposición de un título
+
+de concesión de servicio público de
+
+transporte, por modificación, robo
+
+o extravío, en las modalidades de
+
+autobuses, colectivos, taxis, carga
+
+en general, grúas, BRT y servicio mixto. 25
+
+n) Por la reposición de un título de
+
+concesión de servicio público de
+
+transporte, por modificación, robo
+
+o extravío, en la modalidad de mototaxi. 6
+
+o) Por la revisión física y mecánica de
+
+los vehículos destinados al transporte
+
+público y mercantil, en las modalidades
+
+de autobuses, colectivos, taxis, carga
+
+en general, grúas, BRT, DRT y
+
+servicio mixto. 10
+
+p) Por la revisión física y mecánica de
+
+los vehículos destinados al transporte
+
+público y mercantil, en la modalidad
+
+de mototaxis. 3
+
+q) Por la tramitación, estudio y
+
+diagnóstico de factibilidad para la
+
+autorización de modificación,
+
+ampliación o creación de ruta de
+
+transporte público en las modalidades
+
+de autobuses, colectivos, BRT, DRT
+
+y servicio mixto. 20
+
+r) Por la modificación, ampliación
+
+o creación de una ruta de transporte
+
+público, en las modalidades de
+
+autobuses, colectivos, BRT, DRT y
 
 servicio mixto. 15
 
-r) Por la modificación, ampliación o creación de una
+s) Por la ampliación del parque vehicular
 
-ruta de transporte público, en las modalidades de
+del servicio público de grúas. 62
 
-autobuses, colectivos, BRT y servicio mixto. 15
+t) Por la capacitación de conductores
 
-s) Por la ampliación del parque vehicular del servicio
+certificados en cualquiera de
 
-público de grúas. 60
+sus modalidades. 12
 
-t) Por la capacitación de conductores certificados en
+u) Por la expedición o reimpresión
 
-cualquiera de sus modalidades. 12
+de la identificación de conductor de
 
-u) ) Por la expedición o reimpresión de la identificación
+vehículo de servicio de transporte
 
-de conductor de vehículo de servicio de transporte
+público y mercantil, en todas las
 
-público y mercantil, en todas las modalidades excepto
+modalidades excepto mototaxis. 12
 
-mototaxis. 10
+v) Por la expedición o reimpresión de
 
-v) Por la expedición o reimpresión de la identificación de
+la identificación de conductor de
 
-conductor de vehículo de servicio de transporte público y
+vehículo de servicio de transporte
 
-mercantil, en la modalidad de mototaxi. 4
+público y mercantil, en la modalidad
 
-w) Por el resello de la identificación de conductor de
+de mototaxi. 6
 
-vehículo del servicio de transporte, en todas sus
+w) Por el resello de la identificación
 
-modalidades, excepto mototaxi. 5
+de conductor de vehículo del
 
-x) Por el resello de la identificación de conductor de
+servicio de transporte, en todas sus
 
-vehículo de servicio público o mercantil de transporte
+modalidades, excepto mototaxi. 7
 
-para la modalidad de mototaxi. 2
+x) Por el resello de la identificación
 
-y) Por el resello anual por vehículo del servicio público
+de conductor de vehículo de
 
-de transporte, en la modalidad de BRT 60
+servicio público o mercantil de
 
-z) Por el resello anual por vehículo del servicio público
+transporte para la modalidad de mototaxi. 4
 
-de transporte, en la modalidad de servicio mixto. 20
+y) Por el resello anual por vehículo
 
-aa) Por el dictamen favorable para el alta y baja de
+del servicio público de transporte,
 
-socios y cambio de los estatutos sociales de las
+en la modalidad de BRT o DRT. 62
 
-sociedades cooperativas y mercantiles. 50
+z) Por el resello anual por
 
-bb) Por la tramitación y expedición de un permiso
+vehículo del servicio público de
 
-temporal de hasta por un año, de un servicio de
+transporte, en la modalidad de
 
-transporte público, privado y mercantil de transporte,
+servicio mixto. 22
 
-cuando exista una necesidad de servicio inmediata o
+aa) Por el dictamen favorable para
 
-emergente, para las modalidades de autobuses,
+el alta y baja de socios y
 
-colectivos, taxis, carga en general, grúas, BRT y
+cambio de los estatutos sociales
 
-servicio mixto. En el caso de que la vigencia de la
+de las sociedades cooperativas
 
-autorización sea menor se cobrará la parte proporcional. 18
+y mercantiles. 50
 
-cc) Por la tramitación y expedición de un permiso
+bb) Por la tramitación y expedición
 
-temporal de hasta por un año, de un servicio de
+de un permiso temporal de hasta
 
-transporte público y mercantil de transporte,
+por un año, de un servicio de
 
-cuando exista una necesidad de servicio inmediata,
+transporte público, privado y
 
-en la modalidad de mototaxi. 2
+mercantil de transporte,
 
-dd) Por la expedición de la constancia de transporte de
+cuando exista una necesidad
 
-pasajeros a las empresas de redes de transporte
+de servicio inmediato emergente,
 
-tecnológicas. 4820
+para las modalidades de autobuses,
 
-ee) Por la expedición del certificado de operador titular de
+colectivos, taxis, carga en general,
 
-transporte de pasajeros contratado a través de plataformas
+grúas, BRT, DRT y servicio mixto.
 
-tecnológicas. 10
+En el caso de que la vigencia
 
-ff) Por la expedición de la constancia para el vehículo
+de la autorización sea menor
 
-registrado como transporte de pasajeros contratado a
+se cobrará la parte proporcional. 20
 
-través de plataformas tecnológicas. 10
+cc) Por la tramitación y expedición
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2023)</small>
+de un permiso temporal de hasta
+
+por un año, de un servicio de
+
+transporte público y mercantil
+
+de transporte, cuando exista
+
+una necesidad de servicio inmediata,
+
+en la modalidad de mototaxi. 3
+
+dd) Por la expedición de la
+
+constancia de transporte de
+
+pasajeros a las empresas de redes
+
+de transporte tecnológicos 4820
+
+ee) Por la expedición del certificado
+
+de operador titular de transporte de
+
+pasajeros contratado a través de
+
+plataformas tecnológicas. 10
+
+ff) Por la expedición de la constancia
+
+para el vehículo registrado como
+
+transporte de pasajeros contratado
+
+a través de plataformas tecnológicas. 10
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 XXV.- Por los servicios relativos al Registro Público de Transporte, prestados en materia de transporte y movilidad de pasajeros y carga en sus diversas modalidades, de conformidad con la legislación aplicable, se causarán y pagarán los siguientes derechos:
 
@@ -2313,55 +2427,83 @@ Concepto Unidades de Medidas
 
 y Actualización
 
-a) Por la inscripción del concesionario o permisionario
+a) Por la inscripción del
 
-de servicio público y mercantil de transporte, así
+concesionario o permisionario
 
-como por la inscripción del título de concesión o
+de servicio público y mercantil de
 
-permiso; así como para la modificación de sus datos
+transporte, así como por la
 
-en dicho registro para las modalidades de autobuses,
+inscripción del título de concesión
 
-colectivos, taxis, carga en general, grúas, BRT y
+o permiso; así como para la
 
-servicio mixto. 6
+modificación de sus datos en
 
-b) Por la inscripción del concesionario o permisionario
+dicho registro para las modalidades
 
-de servicio público y mercantil de transporte, así
+de autobuses, colectivos, taxis,
 
-como por la inscripción del título de concesión o
+carga en general, grúas, BRT, DRT
 
-permiso; así como para la modificación de sus datos
+y servicio mixto. 10
 
-en dicho registro para la modalidad de mototaxis. 2
+b) Por la inscripción del concesionario
 
-c) Por la inscripción de la designación de beneficiarios
+o permisionario de servicio público
 
-por persona física titular de una concesión de servicio
+y mercantil de transporte, así como
 
-de transporte público, para las modalidades de autobuses,
+por la inscripción del título de concesión
 
-colectivos, taxis, carga en general, grúas y servicio mixto. 6
+o permiso; así como para la modificación
 
-d) Por la inscripción de la designación de beneficiarios
+de sus datos en dicho registro para
 
-por persona física titular de una concesión de servicio
+la modalidad de mototaxis. 4
 
-público de transporte, para la modalidad de mototaxis. 2
+c) Por la inscripción de la designación
 
-e) Por la inscripción de beneficiario entre un titular con
+de beneficiarios por persona física
 
-concesión y un particular, por vehículo. 200
+titular de una concesión de servicio
 
-f) Por la integración de expediente de solicitud de
+de transporte público, para las
 
-cambio de beneficiario, en cualquier modalidad. 10
+modalidades de autobuses, colectivos,
 
-g) Por la expedición de copias certificadas de la
+taxis, carga en general, grúas
 
-información del Registro Estatal de Transporte. 1
+y servicio mixto. 6
+
+d) Por la inscripción de la designación
+
+de beneficiarios por persona física
+
+titular de una concesión de servicio
+
+público de transporte, para la
+
+modalidad de mototaxis. 2
+
+e) Por la inscripción de beneficiario
+
+entre un titular con concesión
+
+y un particular, por vehículo 200
+
+f) Por la integración de expediente
+
+de solicitud de cambio de
+
+beneficiario, en cualquier modalidad. 15
+
+g) Por la expedición de copias
+
+certificadas de la información del
+
+Registro Estatal de Transporte. 2
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
@@ -2513,7 +2655,9 @@ Coctelería. 1620
 
 VII. Supermercado. 3400
 
-Por la expedición de licencias especiales en materia de bebidas alcohólicas en Polígonos Turísticos con vigencia de un año, se pagarán derechos a razón de 500 veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Por la expedición de licencias especiales en materia de bebidas alcohólicas, con vigencia de un año, se pagarán derechos a razón de 645 veces el valor diario de la Unidad de Medida y Actualización.
 
 En el caso de Fábrica de Bebidas Alcohólicas que a su vez opere como Distribuidora, bastará con la expedición de una sola licencia en la que se consignará la doble actividad, previo pago del derecho establecido en la fracción I de este artículo, que amparará los dos conceptos por 2,650 veces al valor diario de la Unidad de Medida y Actualización.
 
@@ -3788,3 +3932,13 @@ Primero. La presente Ley entrará en vigor el día uno de enero de dos mil veint
 Segundo. Los recursos que no pertenecen a la hacienda pública que contablemente constituyen fondos ajenos, representan el monto de los depósitos ajenos que, eventualmente, se tendrán que devolver y se aplicarán de acuerdo con los mandamientos que emitan las autoridades administrativas o judiciales que hayan ordenado su depósito conforme a las disposiciones de las leyes que correspondan; las retenciones de seguridad social se aplicarán conforme a las leyes que las rijan, y cualquier otro recurso conceptualizado como fondo ajeno tendrá la aplicación correspondiente conforme a la ley, reglamento, disposición administrativa, acuerdo o convenio que lo regule.
 
 Tercero. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 27 POR EL QUE "SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 27; LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 72 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 73, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2025, previa publicación en el Periódico Oficial del Estado de Campeche, salvo lo expresamente establecido en el artículo transitorio siguiente.
+
+SEGUNDO.- La reforma a la fracción II del artículo 27 de la Ley de Hacienda del Estado de Campeche, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido del presente Decreto.
