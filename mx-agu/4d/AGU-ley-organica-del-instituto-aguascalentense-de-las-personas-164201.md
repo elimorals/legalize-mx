@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-aguascalentense-de-las-personas-1642
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-02-03"
-last_updated: "2023-02-03"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario del Número 3 del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -69,7 +69,13 @@ IV.- Gobierno: Gobierno del Estado de Aguascalientes;
 
 V.- Instituto: Instituto Aguascalentense de las Personas Migrantes; y
 
-VI.- Oficina de Enlace: Aquellas oficinas en los municipios de Aguascalientes o en cualquier otra ciudad donde haya presencia de migrantes aguascalentenses con las funciones que precisa la presente ley.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VI.- Oficina de Enlace: Aquellas oficinas en los municipios de Aguascalientes o en cualquier otra ciudad donde haya presencia de migrantes aguascalentenses con las funciones que precisa la presente ley; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VII.- Programa: Programa para la Repatriación de Restos Humanos.
 
 ### CAPÍTULO II. Instituto Aguascalentense de las Personas Migrantes
 
@@ -85,9 +91,17 @@ III.- Proteger, promover y difundir el respeto a los derechos de las personas mi
 
 IV.- Suscribir convenios públicos o privados, nacionales o internacionales de colaboración, para la implementación y ejecución de políticas públicas tendientes a promover la inclusión de las personas migrantes en la vida pública del Estado, promoviendo la prosperidad, el bienestar y el desarrollo humano de todos los aguascalentenses que vivan fuera del territorio nacional y de sus familias y comunidades en el territorio del Estado;
 
-V.- Implementar y coordinar los programas y acciones necesarios para que las personas migrantes cuenten con los satisfactores necesarios, tales como: alimentos, salud, vivienda digna, inclusión laboral de acuerdo con sus capacidades y condiciones, esparcimiento, educación, cultura, accesos libres de obstáculos arquitectónicos en la infraestructura urbana para su libre tránsito y todas aquéllas que sean necesarios para procurarles una vida digna; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-VI.- Respetar todos los derechos establecidos en la Ley de Migración, teniendo como base el respeto absoluto de los derechos humanos, la defensa y respeto a los derechos humanos de la persona migrante, independientemente de su condición migratoria, que constituye una prioridad para el Estado de Aguascalientes.
+V.- Implementar y coordinar los programas y acciones necesarios para que las personas migrantes cuenten con los satisfactores necesarios, tales como: alimentos salud, vivienda digna, inclusión laboral de acuerdo con sus capacidades y condiciones, esparcimiento, educación, cultura, accesos libres de obstáculos arquitectónicos en la infraestructura urbana para su libre tránsito y todas aquellas que sean necesarios (sic) para procurarles una vida digna;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VI.- Respetar todos los derechos establecidos en la Ley de Migración, teniendo como base el respeto absoluto de los derechos humanos, la defensa y respeto a los derechos humanos de la persona migrante, independientemente de su condición migratoria, que constituye una prioridad para el Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VII.- Apoyar a los familiares de las personas migrantes aguascalentenses residentes en el extranjero, que por alguna circunstancia han fallecido fuera del territorio nacional, con el servicio de traslado de repatriación de restos humanos, en los términos previstos, en esta Ley, el Presupuesto de Egresos para el ejercicio fiscal del año que corresponda, así como las reglas de operación del Programa que para tal efecto se expida.
 
 ###### Artículo 6°.
 
@@ -139,9 +153,19 @@ XXII.- El Instituto procurará dar asistencia a todos los migrantes que lleguen 
 
 XXIII.- Realizar acciones en conjunto con el Instituto Nacional de Migración, instancia facultada para garantizar a las personas migrantes en tránsito, el respeto a sus derechos humanos e integridad; y,
 
-XXIV.- En coordinación con los Municipios, crear y promover un Protocolo de Atención para las Personas Migrantes o en Retorno al Estado de Aguascalientes que los identifique, atienda y vincule con las instancias competentes, para poder acceder de manera integral a los derechos y servicios previstos por esta Ley, así como los previstos por las instituciones federales, estatales y municipales; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XXV.- Las demás que se requieran para cumplir con sus objetivos y las que se deriven de esta Ley.
+XXIV.- En coordinación con los Municipios, crear y promover un Protocolo de Atención para las Personas Migrantes o en Retorno al Estado de Aguascalientes que los identifique, atienda y vincule con las instancias competentes, para poder acceder de manera integral a los derechos y servicios previstos por esta Ley, así como los previstos por las instituciones federales, estatales y municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXV.- Crear y administrar el Programa para Repatriación de Restos Humanos, para brindar el servicio de traslado funerario de las personas migrantes aguascalentenses residentes en el extranjero que por alguna circunstancia han fallecido fuera del territorio nacional, de conformidad con las disposiciones de la Ley General de Salud y las normativas aplicables en materia sanitaria y consular, siendo su función exclusivamente apoyar con los costos asociados para Repatriación de Restos Humanos y de acuerdo a la suficiencia presupuestaria del Instituto.
+
+En ningún caso el Instituto podrá entregar recursos económicos a los familiares de las personas fallecidas; la erogación y pago se realizará al proveedor del servicio de traslado funerario que sea contratado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXVI.- Las demás que se requieran para cumplir con sus objetivos y las que se deriven de esta Ley.
 
 ### CAPÍTULO III. Patrimonio
 
@@ -261,9 +285,21 @@ XI.- Autorizar previamente a la Secretaría Ejecutiva para llevar a cabo la adqu
 
 XII.- Aprobar, conforme a las disposiciones aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o pedidos que deban celebrar el Instituto con terceros, en materia de obra pública, adquisiciones, arrendamiento, administración de bienes y prestación de servicios;
 
-XIII.- Autorizar, supervisar y evaluar la aplicación y desarrollo de los planes y programas turísticos que correspondan al Instituto; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XIV.- Las demás funciones que le asigne esta Ley y otros ordenamientos aplicables;
+XIII.- Autorizar, supervisar y evaluar la aplicación y desarrollo de los planes y programas turísticos que correspondan al Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Vigilar el adecuado ejercicio del Programa a fin de garantizar su optimo y eficaz funcionamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XV.- Emitir las Reglas de Operación del Programa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XVI.- Las demás funciones que le asigne esta Ley y otros ordenamientos aplicables.
 
 Las atribuciones establecidas en el artículo 41 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, serán facultades indelegables de la Junta de Gobierno.
 
@@ -644,3 +680,25 @@ FRANCISCO SÁNCHEZ ESPARZA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, "Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de febrero de 2023".- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 77.- SE REFORMA LA LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero del año 2025.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta de Gobierno del Instituto deberá hacer las previsiones administrativas y presupuestales necesarias para la operación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Gobierno del Instituto, emitirá dentro de los 180 días siguientes a la publicación del presente Decreto, las Reglas de Operación del Programa para la Repatriación de Restos Humanos.
+
+###### ARTÍCULO CUARTO.
+
+El Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2025 deberá establecer y destinar los recursos económicos necesarios al Instituto Aguascalentense de las Personas Migrantes para el cumplimiento de las disposiciones establecidas en el presente Decreto.
