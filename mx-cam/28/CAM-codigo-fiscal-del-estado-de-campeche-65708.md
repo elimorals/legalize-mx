@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2023-12-29"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -135,7 +135,9 @@ Las autoridades fiscales podrán habilitar los días y horas inhábiles para fac
 
 Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, éstos coincidirán con el año calendario; cuando las personas físicas o morales inicien sus actividades con posterioridad al 1 de enero, en dicho año el ejercicio fiscal será irregular; debiendo iniciarse el día que comiencen actividades y terminarse el 31 de diciembre del año de que se trate.
 
-En el caso de que las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que corresponde al mes de calendario y que son pagos definitivos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+En el caso de que las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que corresponde al mes de calendario y que son pagos definitivos, salvo que la misma ley establezca que son pagos provisionales.
 
 ###### Artículo 8.
 
@@ -1011,7 +1013,9 @@ Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fis
 
 Las personas físicas, las personas morales y las unidades económicas que en el año de calendario inmediato anterior de que se trate, estén obligados o que hayan optado por dictaminar el correcto cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, regulado en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, deberán presentar el dictamen, a más tardar, el 31 de julio del año de calendario siguiente a aquel que se dictamina, en términos de lo que establecen la Ley de Hacienda del Estado de Campeche, este Código y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
 
-Cuando las personas físicas, las personas morales y las unidades económicas opten por dictaminar la determinación y pago del Impuesto sobre Nóminas, deberán presentar el aviso correspondiente, a través de los medios que establezca la Secretaría, ante la Dirección de Auditoría Fiscal dependiente del Servicio de Administración Fiscal del Estado de Campeche.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Cuando las personas físicas, las personas morales y las unidades económicas estén obligadas o hayan optado por dictaminar la determinación y pago del Impuesto sobre Nóminas, deberán presentar el aviso correspondiente, a través de los medios que establezca el Servicio de Administración Fiscal del Estado de Campeche.
 
 El aviso para dictaminarse se presentará, a más tardar, el 31 de enero del año de calendario siguiente al que se opte por dictaminar.
 
@@ -1021,11 +1025,15 @@ a) No se presente en el formato publicado;
 
 b) La o el Contador Público propuesto no cuente con el registro correspondiente ante las autoridades fiscales del Estado de Campeche antes de la presentación del aviso y compruebe haber cumplido con lo dispuesto en el artículo 72-B, o su registro se encuentre suspendido o cancelado en los términos del artículo 90-A, de este Código;
 
-c) Cuando se presente de manera extemporánea; no obstante, lo anterior, los contribuyentes a que hace referencia el artículo 27 de la Ley de Hacienda del Estado de Campeche, deberán cumplir con esta obligación.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+c) Cuando se presente de manera extemporánea.
 
 El período del dictamen deberá abarcar el cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, reguladas en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, correspondiente al año calendario inmediato anterior.
 
-La presentación del dictamen se realizará ante la Dirección de Auditoría Fiscal, dependiente del Servicio de Administración Fiscal del Estado de Campeche.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+La presentación del dictamen se realizará ante el Servicio de Administración Fiscal del Estado de Campeche.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -1211,63 +1219,79 @@ Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o
 
 Las autoridades del Servicio de Administración Fiscal del Estado de Campeche que estén ejerciendo las facultades de comprobación previstas en las fracciones II y III del presente artículo, y que detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente, a su representante legal y en el caso de personas morales a sus órganos de dirección por conducto de aquél, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial o del oficio de observaciones, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que se hayan detectado, indicando el lugar, fecha y hora correspondientes, con el propósito de que los contribuyentes puedan corregir su situación fiscal.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitirá la última acta parcial o el oficio de observaciones, señalando en estas actuaciones, la asistencia o inasistencia de las personas interesadas para ejercer su derecho a conocer el estado del procedimiento a que están siendo sujetas; previamente a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 62.
 
-En la comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes se presumirá, salvo prueba en contrario:
+En la comprobación del cumplimiento de las obligaciones fiscales de las y los contribuyentes se presumirá, salvo prueba en contrario:
 
-I. Que la información contenida en libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
+I. Que la información contenida en libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder de la o del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por la o el contribuyente;
 
-II. Que la información contenida en libros, registros y sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
+II. Que la información contenida en libros, registros y sistemas de contabilidad, a nombre de la o del contribuyente, localizados en poder de personas a su servicio o de accionistas o propietarias de la empresa, corresponde a operaciones de la o del contribuyente;
 
-III. Que la información escrita o documentos de terceros relacionados con el contribuyente, corresponde a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+III. Que la información escrita o documentos de terceros relacionados con la o el contribuyente, corresponde a operaciones realizadas por éste, en cualquiera de los casos siguientes:
 
-a) Cuando se refieran al contribuyente designado por su nombre, denominación o razón social;
+a) Cuando se refieran a la o el contribuyente designado por su nombre, denominación o razón social;
 
-b) Cuando señalen como lugar para la entrega o recibo de bienes o prestaciones de servicios cualquiera de los establecimientos del contribuyente, aun cuando exprese el nombre o denominación o razón social de un tercero real o ficticio;
+b) Cuando señalen como lugar para la entrega o recibo de bienes o prestaciones de servicios cualquiera de los establecimientos de la o del contribuyente, aun cuando exprese el nombre o denominación o razón social de un tercero real o ficticio;
 
-c) Cuando señalen el nombre o domicilio de un tercero real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio; y
+c) Cuando señalen el nombre o domicilio de un tercero real o ficticio, si se comprueba que la o el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio; y
 
-d) Cuando se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
+d) Cuando se refieran a cobros o pagos efectuados por la o el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
+IV. Que los depósitos y erogaciones o pagos en la cuenta bancaria de la o del contribuyente que no correspondan a registros de su contabilidad, son conceptos por los que debieron pagarse contribuciones estatales.
 
-IV. Que los depósitos y erogaciones o pagos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son conceptos por los que debieron pagarse contribuciones estatales.
+Para los efectos de esta fracción, se considera que la o el contribuyente no registró en su contabilidad los depósitos y erogaciones o pagos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación;
 
-Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos y erogaciones o pagos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación; y
+V. Que corresponden a actos o actividades gravables de la empresa los depósitos hechos en cuenta personal de cheques de las o los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa y ésta no los registre en contabilidad; y
 
-V. Que corresponden a actos o actividades gravables de la empresa los depósitos hechos en cuenta personal de cheques de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa y ésta no los registre en contabilidad.
+VI. Que forma parte del volumen de metros cúbicos del material extraído en términos del objeto del Impuesto Sobre la Extracción de Materiales del Suelo y Subsuelo por el que se debió efectuar el pago del mismo, y se entiende extraído por la o el propio contribuyente:
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
+a) El volumen de material extraído localizado en las instalaciones de la o del contribuyente.
+
+b) El volumen de material que fue utilizado para elaborar productos que obren en su poder, y para los que se requiera dicho material.
+
+c) El volumen de material enajenado en el periodo sujeto a revisión, incluyendo el utilizado para la elaboración de productos conforme a lo dispuesto en el inciso anterior.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 63.
 
-Las autoridades fiscales podrán determinar, presuntivamente, la base gravable de las contribuciones a cargo de los contribuyentes, para efectos de establecer en cantidad líquida las cantidades que, teniendo derecho a percibir el fisco estatal, se consideren omitidas, en los siguientes casos:
+Las autoridades fiscales podrán determinar presuntivamente la base gravable de las contribuciones a cargo de las y los contribuyentes, para efectos de establecer en cantidad líquida las cantidades que, teniendo derecho a percibir el fisco estatal, se consideren omitidas, en los siguientes casos:
 
 I. Cuando exista oposición o se obstaculice el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales, u omitan presentar la declaración de cualquiera contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate;
 
-II. En el ejercicio de las facultades de comprobación por parte de la autoridad fiscal, los contribuyentes no presenten los libros o registros de contabilidad, así como la documentación comprobatoria de más del tres por ciento de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales;
+II. En el ejercicio de las facultades de comprobación por parte de la autoridad fiscal, las o los contribuyentes no presenten los libros o registros de contabilidad, así como la documentación comprobatoria de más del tres por ciento de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales;
 
 III. Omitan o alteren en el registro de las operaciones, por más del tres por ciento sobre lo declarado;
 
-IV. Cuando existan registros de contraprestaciones no realizadas o recibidas; y
+IV. Cuando existan registros de contraprestaciones no realizadas o recibidas;
 
-V. En el caso en que no hayan solicitado su inscripción en el registro estatal de contribuyentes después de 6 meses de haber iniciado actividades.
+V. En el caso en que no hayan solicitado su inscripción en el registro estatal de contribuyentes después de 6 meses de haber iniciado actividades; y
+
+VI. Omitan registrar o alteren el registro del material extraído, en el libro de registros de extracción, para efectos del Impuesto sobre la Extracción de Materiales del Suelo y Subsuelo.
 
 La determinación presuntiva realizada por la autoridad fiscal de conformidad con las fracciones anteriores, procederá independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-Artículo 63 bis.- Para los efectos de la determinación presuntiva de la base gravable para el pago de las contribuciones a cargo de los contribuyentes, las autoridades fiscales podrán basarse en los elementos siguientes:
+Artículo 63 bis.- Para los efectos de la determinación presuntiva de la base gravable para el pago de las contribuciones a cargo de las y los contribuyentes, las autoridades fiscales podrán basarse en los elementos siguientes:
 
-I. Los contenidos en la contabilidad del contribuyente;
+I. Los contenidos en la contabilidad de la o del contribuyente;
 
 II. Los contenidos en las declaraciones correspondientes a cualquier contribución, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación;
 
-III. La información proporcionada por terceros a solicitud de las autoridades fiscales, que se encuentren referidas a operaciones relacionadas con el contribuyente sujeto a la determinación presuntiva;
+III. La información proporcionada por terceros a solicitud de las autoridades fiscales, que se encuentren referidas a operaciones relacionadas con la o el contribuyente sujeto a la determinación presuntiva;
 
-IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación; y
+IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación;
 
-V. Los medios indirectos de investigación económica o de cualquier otra clase.
+V. Los medios indirectos de investigación económica o de cualquier otra clase; y
+
+VI. Tratándose del Impuesto sobre la Extracción de Materiales del Suelo y Subsuelo, el volumen de material extraído y localizado en las instalaciones de la o del contribuyente, que constituyan depósitos de igual naturaleza a los componentes de los terrenos, incluso el utilizado para la elaboración de productos que obren en su poder.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2018)</small>
 
@@ -1527,7 +1551,9 @@ b) La información que se considere pertinente para cerciorarse del cumplimiento
 
 La revisión a que se refiere esta fracción se llevará a cabo con la o el contador público que haya formulado el dictamen. Esta revisión no deberá exceder de un plazo de seis meses contados a partir de que se notifique a la o el contador público la solicitud de información.
 
-Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso b) de esta fracción o no ejerza directamente con la o el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
 
 En caso de que la autoridad fiscal inicie facultades de comprobación directamente con el contribuyente, podrá solicitar información mediante compulsa a la o el contador público registrado que haya emitido el dictamen de que se trate.
 
@@ -2065,7 +2091,9 @@ II. Señalar la autoridad que los emite, así como el lugar y fecha de emisión 
 
 III. Estar fundados y motivados y expresar la resolución, objeto o propósito de que se trate;
 
-IV. Ostentar la firma autógrafa de la autoridad competente; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+IV. Ostentar la firma autógrafa de la autoridad competente. En el caso de resoluciones administrativas y requerimientos para la presentación de declaraciones, manifestaciones y demás documentos a que obliguen las disposiciones fiscales, se podrá usar la firma electrónica avanzada de la o del funcionario competente, la que tendrá el mismo valor que la firma autógrafa; y
 
 V. En su caso, el nombre o nombres de las personas a las que vayan dirigidos.
 
@@ -3700,3 +3728,15 @@ P.O. 29 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 2024, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 29 POR EL QUE “SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 7; EL PÁRRAFO SEGUNDO, EL INCISO C) DEL PÁRRAFO CUARTO Y EL ÚLTIMO PÁRRAFO, TODOS DEL ARTÍCULO 51; LOS ARTÍCULOS 62; 63; 63-BIS; EL PÁRRAFO TERCERO DE LA FRACCIÓN I DEL ARTÍCULO 72-C Y LA FRACCIÓN IV DEL ARTÍCULO 102, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1° de enero de 2025, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
