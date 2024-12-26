@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-160429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-02"
-last_updated: "2023-05-04"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el No. 79 del Periódico Oficial del Estado de Durango, el domingo 2 de octubre de 2022.
 
@@ -35,11 +35,11 @@ Con fecha 21 de junio del presente año, el C. DR. JOSÉ ROSAS AISPURO TORRES, e
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 Con base en los anteriores Considerandos esta H. LXIX Legislatura del Estado, expide el siguiente:
 
@@ -465,7 +465,9 @@ LXI. Vigilar y dictar las normas necesarias para el cumplimiento en las dependen
 
 LXII. Coordinar la elaboración de los programas presupuestarios con base en la metodología y procedimientos que aseguren la consolidación de un presupuesto basado en resultados;
 
-LXIII. Elaborar y presentar a la persona titular del Ejecutivo, la cuenta pública de conformidad con los plazos estipulados en la ley y en caso de aumento o creación del gasto del Presupuesto de Egresos deberá revelar en la misma y en los informes trimestrales, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado, asimismo, deberá mantener relaciones de coordinación con el Congreso, a través de la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+LXIII. Elaborar y presentar a la persona titular del Ejecutivo, la cuenta pública de conformidad con los plazos estipulados en la ley y en caso de aumento o creación del gasto del Presupuesto de Egresos deberá revelar en la misma y en los informes trimestrales, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado, asimismo, deberá mantener relaciones de coordinación con el Congreso, a través de la Auditoría Superior del Estado;
 
 LXIV. Reportar en los informes trimestrales y en la Cuenta Pública que entregue al Congreso y a través de su página oficial de internet, el avance de las acciones previstas en el caso de que la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos prevean un balance presupuestario de recursos disponibles negativo conforme a la legislación aplicable, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles;
 
@@ -485,7 +487,9 @@ LXXXI. Enviar trimestralmente a la Secretaría de Hacienda y Crédito Público d
 
 LXXXII. Inscribir y transparentar la totalidad de los financiamientos y obligaciones a cargo de los entes públicos en el Registro Estatal de Deuda Pública;
 
-LXXXIII. Publicar la información financiera de la administración pública estatal, centralizada y paraestatal, de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, deberán presentar la opinión de la Entidad de Auditoría Superior del Estado, en la que se manifieste el cumplimiento de dicha publicación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+LXXXIII. Publicar la información financiera de la administración pública estatal, centralizada y paraestatal, de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, deberán presentar la opinión de la Auditoría Superior del Estado, en la que se manifieste el cumplimiento de dicha publicación;
 
 LXXXIV. Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita;
 
@@ -1523,9 +1527,17 @@ II. Procuraduría Fiscal;
 
 III. Dirección de Recaudación;
 
-IV. Dirección de Auditoría Fiscal; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-V. Recaudación de Rentas.
+IV. Dirección de Auditoría Fiscal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+V. Dirección de Comercio Exterior; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+VI. Recaudación de Rentas.
 
 ###### ARTÍCULO 42.
 
@@ -1757,9 +1769,95 @@ XXII. Determinar, mediante firma electrónica avanzada en forma digital, la cant
 
 XXIII. Dar a conocer, mediante firma electrónica avanzada en forma digital, a los contribuyentes, responsables solidarios y terceros con ellos relacionados y demás obligados, los hechos y omisiones que entrañen o puedan entrañar violaciones a las disposiciones fiscales, que se conozcan con motivo del ejercicio de sus facultades de comprobación, previstas tanto en las leyes fiscales estatales o en alguna otra ley de carácter fiscal;
 
-XXIV. Mediante firma electrónica avanzada en forma digital, citar e informar al contribuyente, a su representante legal y a los órganos de dirección cuando se trate de personas morales, de los hechos u omisiones que se vayan conociendo en el desarrollo del ejercicio de la facultad fiscalizadora; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-XXV. Las demás que le señalen las leyes, reglamentos convenios, decretos, y otras disposiciones legales, así como las que le confieran las personas titulares de la Secretaría o de la Subsecretaría de Ingresos.
+XXIV. Mediante firma electrónica avanzada en forma digital, citar e informar al contribuyente, a su representante legal y a los órganos de dirección cuando se trate de personas morales, de los hechos u omisiones que se vayan conociendo en el desarrollo del ejercicio de la facultad fiscalizadora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXV. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales, descubiertas con motivo del ejercicio de sus atribuciones de comprobación, conforme a las atribuciones y facultades que le otorgan el Código Fiscal del Estado, el Código Fiscal de la Federación y los convenios celebrados con la Federación; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Las demás que le señalen las leyes, reglamentos, convenios, decretos y otras disposiciones legales, así como las que le confieran las personas titulares de la Secretaría o de la Subsecretaría de Ingresos.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 45-A.
+
+Derivado de la publicación del Anexo 8 del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Durango, corresponde a la persona titular de la Dirección de Comercio Exterior, las siguientes facultades y atribuciones:
+
+I. Formular las propuestas sobre los actos de Fiscalización de Comercio Exterior que serán contabilizadas en cumplimiento del Programa Operativo Anual de Fiscalización Federal, en los términos del Convenio de Colaboración Administrativa en materia Fiscal Federal;
+
+II. Solicitar de los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos, para planear y programar sus actos de fiscalización;
+
+III. Verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de las mercancías y los vehículos de procedencia extranjera, excepto aeronaves, ferrocarriles y embarcaciones, así como de su legal almacenaje, estancia o tenencia, transporte o manejo en el país cuando circulen en la jurisdicción del Estado y en su caso la determinación de los créditos fiscales, de acuerdo con lo dispuesto en las disposiciones jurídicas aplicables; mismas que se citan a continuación:
+
+a) El correcto cálculo y pago de los impuestos generales de importación y de exportación, así como del derecho de trámite aduanero;
+
+b) El correcto cálculo y pago de los impuestos al valor agregado, especial sobre producción y servicios y sobre automóviles nuevos causados por la importación a territorio nacional;
+
+c) El cumplimiento de regulaciones y restricciones no arancelarias, las normas oficiales mexicanas la resolución de precios estimados, el pago de cuotas compensatorias, así como medidas de transición; y
+
+d) El correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves, ferrocarriles y embarcaciones; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
+
+IV. Ordenar y practicar las visitas domiciliarias, auditorias, inspecciones, verificaciones de origen y verificaciones de mercancías de procedencia extranjera, en el domicilio fiscal, establecimientos, sucursales, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para la venta de las mercancías, mercados sobre ruedas, bodegas, puestos fijos y semifijos en la vía pública, inclusive en transporte, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables, y en su caso, el embargo precautorio de los mismos; levantar actas circunstanciadas con todas las formalidades establecidas en la Ley Aduanera y en el Código Fiscal de la Federación y demás disposiciones aplicables;
+
+V. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación y mercancía en transporte, aun cuando no se encuentren en movimiento, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables, y en su caso, el embargo precautorio de los mismos;
+
+VI. Ordenar y practicar visitas domiciliarias, auditorías, verificaciones de origen que establezcan las disposiciones fiscales y aduaneras en el ámbito de su competencia, para verificar el correcto cumplimiento de tales disposiciones por los contribuyentes, responsables solidarios o terceros con ellos relacionados y demás obligados en materia de contribuciones y sus accesorios, regulaciones y restricciones no arancelarias, inclusive normas oficiales mexicanas y cuotas compensatorias;
+
+VII. Llevar a cabo revisiones electrónicas, emitir resolución provisional a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones;
+
+VIII. Decretar el embargo precautorio de las mercancías y de los vehículos, excepto aeronaves, ferrocarriles y embarcaciones; así como declarar que esas mercancías o vehículos han causado abandono en favor del fisco, de conformidad con la legislación fiscal y aduanera aplicables;
+
+IX. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el artículo 152 de la Ley Aduanera y notificar dicho inicio al interesado; así como tramitar y resolver los citados procedimientos hasta su conclusión, de conformidad con las disposiciones jurídicas federales aplicables;
+
+X. Declarar que las mercancías, vehículos excepto aeronaves, ferrocarriles y embarcaciones pasan a propiedad del fisco federal;
+
+XI. Verificar y determinar, en su caso, la naturaleza, las características, origen, el valor de la aduana y el valor comercial de mercancías y vehículos y su correcta clasificación arancelaria, de conformidad con las disposiciones legales aplicables;
+
+XII. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con la revisión de las obligaciones señaladas en la fracción anterior, para lo cual podrá solicitar dictámenes o apoyos técnicos a la Secretaría de Hacienda y Crédito Público, al agente aduanal, o a cualquier otro perito en la materia;
+
+XIII. Requerir a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos, instrumentos e informes, a fin de comprobar el cumplimiento de las disposiciones legales aplicables, así como autorizar o negar prórrogas para su presentación, emitir el oficio de observaciones y el oficio de conclusión de revisión;
+
+XIV. Determinar contribuciones omitidas, su actualización y sus accesorios, cuotas compensatorias, medidas de transición, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, e imponer sanciones por infracciones a las disposiciones fiscales que sean descubiertas en el ejercicio de las facultades que se refiere este artículo;
+
+XV. Notificar, incluso a través de medios electrónicos, los actos administrativos y las resoluciones en las que se determinen contribuciones omitidas y sus accesorios, así como las sanciones por infracciones a las disposiciones fiscales, derivadas del ejercicio de las facultades de comprobación establecidas en las disposiciones jurídicas federales aplicables, sin perjuicio de las atribuciones que correspondan a otras unidades administrativas de la Secretaría; así como, en su caso, apoyar en la notificación de los actos administrativos y resoluciones de otras Entidades respecto de contribuyentes que se encuentren domiciliados en su jurisdicción;
+
+XVI. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de las atribuciones señaladas en este artículo y hacer constar los hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante;
+
+XVII. Reducir o condonar las multas que correspondan conforme a las disposiciones jurídicas aplicables;
+
+XVIII. Cancelar, revocar o dejar sin efectos los certificados de sello digital, de conformidad con lo dispuesto en el Código Fiscal de la Federación, así como restringir el uso del certificado de la firma electrónica avanzada o cualquier otro mecanismo permitido en las disposiciones jurídicas aplicables, y resolver las aclaraciones o solicitudes que presenten los contribuyentes para subsanar o desvirtuar las irregularidades detectadas en el ejercicio de las atribuciones a que se refiere este artículo;
+
+XIX. Presumir la inexistencia de las operaciones amparadas en comprobantes fiscales, conforme al procedimiento establecido en el Código Fiscal de la Federación y de conformidad con el Convenio de Colaboración en materia fiscal federal celebrado con la Federación;
+
+XX. Resguardar y custodiar las mercancías, medios de transporte o vehículos embargados en términos de este artículo, hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de la mercancía o vehículo de que se trate;
+
+XXI. Constituirse depositarias de las mercancías, o medios de transporte o vehículos embargador (sic) precautoriamente, o designar depositarias de las mercancías a terceras personas e incluso al propio interesado; e informar de ello a la Secretaría de Hacienda y Crédito Público;
+
+XXII. Con excepción de los vehículos, tratándose de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, se estará a lo dispuesto en la legislación aduanera para proceder a su donación, asignación, venta o llevar a cabo el procedimiento de destrucción;
+
+XXIII. Someter a la consideración de la persona titular de la Subsecretaría de Ingresos y a la Dirección de Patrimonio, adscritas a la Secretaría de Finanzas y de Administración el reporte de las adjudicaciones de mercancías, para que sea integrado a la Cuenta Pública;
+
+XXIV. Registrar ante la Secretaría de Hacienda y Crédito Público los lugares en que habrán de ser depositadas las mercancías y los vehículos, objeto de este artículo y que podrán ser utilizados para efectuar los actos de fiscalización señalados en la Ley Aduanera que han sido delegados al Estado, mismos que, de acuerdo con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público, serán habilitados para tales fines, los cuales adquirirán la categoría de recintos fiscales;
+
+XXV. Habilitar días y horas hábiles para la práctica de diligencias y actuaciones, relacionadas con las facultades conferidas dentro de este ordenamiento y las derivadas de la ley, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+XXVI. Expedir las constancias de identificación que acrediten al personal para el desarrollo de visitas domiciliarias, auditorías, notificaciones, inspecciones, verificaciones, para la realización de embargos precautorios y demás actos derivados del ejercicio de sus facultades;
+
+XXVII. Suscribir acuerdos conclusivos, en relación con actos o resoluciones emitidos en ejercicio de las facultades que le confiere el Estado al Convenio de Colaboración en materia fiscal federal celebrado con la Federación;
+
+XXVIII. Recabar de los servidores públicos y de los fedatarios públicos los informes y datos que tengan con motivo de sus funciones;
+
+XXIX. Ser enlace de la Secretaría de Hacienda y Crédito Público, el Servicio de Administración Tributaria y demás autoridades federales y locales, para la coordinación en el ejercicio de las atribuciones conferidas en el presente ordenamiento;
+
+XXX. Dejar sin efectos las órdenes de visita domiciliaria, verificación en transporte, los requerimientos de información que se formulen a los contribuyentes, las revisiones electrónicas, y la revisión de papeles de trabajo que se haga a los contadores públicos, cuando proceda legalmente;
+
+XXXI. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de uno o varias contribuciones; y
+
+XXXII. Las demás que se requieran para el ejercicio de las atribuciones delegadas en las disposiciones jurídicas aplicables y el Anexo 8 del Convenio de Colaboración Administrativa en materia fiscal federal celebrado entre la Secretaría de Hacienda y Crédito Público y el Estado de Durango; las leyes, reglamentos, convenios, decretos y otras disposiciones legales, así como las que le confieran las personas titulares de la Secretaría de Finanzas y de Administración o de la Subsecretaría de Ingresos.
 
 ###### ARTÍCULO 46.
 
@@ -1992,3 +2090,23 @@ TERCERO.- La Secretaría de Finanzas y de Administración deberá instrumentar l
 CUARTO.- En un plazo que no exceda de 120 días hábiles a partir de la entrada en vigor del presente decreto, deberá realizarse el nombramiento de la persona titular de la Unidad de Inteligencia Financiera y Patrimonial.
 
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 125 QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 127 QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
