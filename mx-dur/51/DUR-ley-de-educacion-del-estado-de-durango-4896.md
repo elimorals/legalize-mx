@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2024-06-23"
+last_updated: "2024-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -663,19 +663,35 @@ XLVI.- Disponer que en los planteles de Educación Básica y Media Superior, el 
 
 XLVII. La Secretaría promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, bibliotecas, estancias infantiles o por parte del personal docente o administrativo del Sistema Educativo Estatal. Así mismo difundirá entre la comunidad académica el respeto a la diversidad.
 
-Para tales efectos, llevara a cabo entre otras acciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+Para tales efectos, llevará a cabo entre otras acciones:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 a) Hacer los ajustes curriculares a los programas de educación, para la incorporación y oportuna canalización de las personas con discapacidad en todos los niveles del Sistema Educativo Estatal; así como verificar el cumplimiento de las normas para su integración educativa en apego a lo establecido a la Ley Estatal para la Integración Social de las Personas con Discapacidad;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 b) Promover el establecimiento de un programa estatal de becas educativas y becas de capacitación para personas con discapacidad en todos los niveles del Sistema Educativo Estatal;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 c) Diseñar e implementar programas de formación y certificación de intérpretes estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas; así como de las formas de comunicación de las personas con discapacidad visual entre ellas el sistema de escritura Braille y otras tecnologías;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
+
 d) Promover que los estudiantes de escuelas normales y licenciaturas afines con la educación, presten su servicio social apoyando a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 e) Firmar Convenios de Colaboración con los Ayuntamientos, a fin de que en las bibliotecas y salas de lectura, entre otros, se incorporen equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad;
 
-f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+
+f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 g) Las demás que sean necesarias para el cumplimiento de la presente Ley.
 
@@ -697,43 +713,21 @@ L.- Promover, por sí misma o mediante convenios de colaboración, proyectos de 
 
 LI.- Implementar acciones a fin de evitar el ausentismo, abandono y la deserción escolar, y establecer los mecanismos para notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, de los casos identificados conforme la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-LII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables. Para tales efectos, llevara a cabo entre otras acciones:
+LII.- La Secretaría procurará la promoción de la investigación y el desarrollo de la ciencia y la tecnología, y fomentará su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico sea financiado con recursos públicos o que haya utilizado infraestructura pública en su realización sin perjuicio de los derechos de propiedad intelectual correspondientes y de la información que, por razón de su naturaleza o decisión del autor debe reservarse.
 
-(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-a) HACER LOS AJUSTES CURRICULARES A LOS PROGRAMAS DE EDUCACIÓN, PARA LA INCORPORACIÓN Y OPORTUNA CANALIZACIÓN DE LAS PERSONAS CON DISCAPACIDAD EN TODOS LOS NIVELES DEL SISTEMA EDUCATIVO ESTATAL; ASÍ COMO VERIFICAR EL CUMPLIMIENTO DE LAS NORMAS PARA SU INTEGRACIÓN EDUCATIVA EN APEGO A LO ESTABLECIDO A LA LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD;
+LIII.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar. Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades;
 
-(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-b) PROMOVER EL ESTABLECIMIENTO DE UN PROGRAMA ESTATAL DE BECAS EDUCATIVAS Y BECAS DE CAPACITACIÓN PARA PERSONAS CON DISCAPACIDAD EN TODOS LOS NIVELES DEL SISTEMA EDUCATIVO ESTATAL;
+LIV.- Realizar convenios con Universidades Públicas y Privadas, para que sus alumnos en el área de Psicología y Trabajo Social presten servicio social estudiantil en escuelas públicas de educación básica, con la Intención de promover acciones de prevención en materia de salud mental de la comunidad escolar, así como de prevención de la conducta suicida, y
 
-(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
-c) DISEÑAR E IMPLEMENTAR PROGRAMAS DE FORMACIÓN Y CERTIFICACIÓN DE INTÉRPRETES ESTENÓGRAFOS DEL ESPAÑOL Y DEMÁS PERSONAL ESPECIALIZADO EN LA DIFUSIÓN Y USO CONJUNTO DEL ESPAÑOL Y LA LENGUA DE SEÑAS; ASÍ COMO DE LAS FORMAS DE COMUNICACIÓN DE LAS PERSONAS CON DISCAPACIDAD VISUAL ENTRE ELLAS EL SISTEMA DE ESCRITURA BRAILLE Y OTRAS TECNOLOGÍAS;
-
-d) Promover que los estudiantes de escuelas normales y licenciaturas afines con la educación, presten su servicio social apoyando a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
-
-(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO e) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-e) FIRMAR CONVENIOS DE COLABORACIÓN CON LOS AYUNTAMIENTOS, A FIN DE QUE EN LAS BIBLIOTECAS Y SALAS DE LECTURA, ENTRE OTROS, SE INCORPOREN EQUIPOS DE CÓMPUTO CON TECNOLOGÍA ADAPTADA, ESCRITURA E IMPRESIÓN EN EL SISTEMA DE ESCRITURA BRAILLE, AMPLIADORES Y LECTORES DE TEXTO, ESPACIOS ADECUADOS Y DEMÁS INNOVACIONES TECNOLÓGICAS QUE PERMITA SU USO A LAS PERSONAS CON DISCAPACIDAD;
-
-f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
-
-g) Las demás que sean necesarias para el cumplimiento de la presente Ley,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
-
-LIII.- La Secretaría procurará la promoción de la investigación y el desarrollo de la ciencia y la tecnología, y fomentará su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico sea financiado con recursos públicos o que haya utilizado infraestructura pública en su realización sin perjuicio de los derechos de propiedad intelectual correspondientes y de la información que, por razón de su naturaleza o decisión del autor deba reservarse,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
-
-LIV.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar. Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades, y
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2023)</small>
-
-LV.- Realizar convenios con Universidades Públicas y Privadas, para que sus alumnos en el área de Psicología y Trabajo Social presten servicio social estudiantil en escuelas públicas de educación básica, con la intención de promover acciones de prevención en materia de salud mental de la comunidad escolar, así como de prevención de la conducta suicida.
+LV.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
 
@@ -3334,3 +3328,11 @@ P.O. 23 DE JUNIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 122 QUE CONTIENE REFORMAS A LAS FRACCIONES XLVII, LII, LIII, LIV Y LV DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
