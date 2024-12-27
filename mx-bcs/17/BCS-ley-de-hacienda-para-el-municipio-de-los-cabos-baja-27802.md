@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2023-12-21"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2025 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -119,7 +121,11 @@ Son participaciones, las cantidades de dinero que el Ayuntamiento de Los Cabos t
 
 Además de los ingresos que forman parte de la Hacienda Pública Municipal, el Ayuntamiento de Los Cabos percibirá las aportaciones federales para fines específicos, que a través de los diferentes fondos, establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos, así como los ingresos extraordinarios que tengan como fuente organismos descentralizados, desconcentrados, de participación municipal, así como ingresos derivados de la colaboración administrativa con Entidades Federales.
 
-ARTÍCULO 13º En la Ley de Ingresos Municipal se establecerá anualmente los ingresos ordinarios y extraordinarios de naturaleza fiscal que deban recaudarse, mismos que deberán integrarse al acervo común de la hacienda pública municipal.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 13°.
+
+En la Ley de Ingresos Municipal se establecerá anualmente los ingresos (sic) ordinarios extraordinarios de naturaleza fiscal que deban recaudarse, mismos que deberán integrarse al acervo común de la hacienda pública municipal o a los fideicomisos que para tal efecto se constituyan.
 
 ### Capítulo Segundo. De las Autoridades Fiscales Municipales
 
@@ -133,9 +139,11 @@ El Presidente Municipal, el Ayuntamiento, el Síndico y el Tesorero Municipal, s
 
 La administración de la Hacienda Pública del Municipio estará a cargo de un Tesorero Municipal, quien recaudará y controlará los ingresos, satisfaciendo al mismo tiempo las obligaciones del fisco, pudiendo actuar a través de sus dependencias o auxiliado por otras autoridades.
 
-###### ARTÍCULO 16º.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Las Autoridades Fiscales del Municipio quedan sometidas a las disposiciones legales respectivas. Con el objeto de simplificar las obligaciones de los causantes, de facilitar la recaudación de los impuestos y de hacer efectivos y prácticos los sistemas de control fiscal, el Presidente Municipal, previa autorización del cabildo, podrá dictar medidas o acuerdos necesarios para modificar o adicionar el control, forma de pago y procedimientos, sin variar en ninguna forma las relativas al sujeto, objeto, cuota, tasa o tarifa del gravamen, infracciones o sanciones.
+###### ARTÍCULO 16°.
+
+Las Autoridades Fiscales del Municipio quedan sometidas a las disposiciones legales respectivas. Con el objeto de simplificar las obligaciones de los causantes, de facilitar la recaudación de las contribuciones y de hacer efectivos y prácticos los sistemas de control fiscal, la persona titular de la Presidencia Municipal, previa autorización del Cabildo podrá dictar medidas o acuerdos necesarios para modificar o adicionar el control, forma de pago y procedimientos, sin variar en ninguna forma las relativas al sujeto, objeto, cuota, tasa o tarifa del gravamen, infracciones o sanciones.
 
 ###### ARTÍCULO 17º.
 
@@ -371,25 +379,33 @@ V. Las sociedades, agrupaciones, empresas o personas físicas que exploten bosqu
 
 ### Capítulo Segundo. Impuesto Sobre Adquisición de Inmuebles
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 35°.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta Ley, las personas físicas, las personas morales y las entidades económicas que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Municipio de Los Cabos, así como los derechos relacionados con los mismos a que este capítulo se refiere. El impuesto se calculará aplicando la tasa del 2% al valor del inmueble, después de reducirlo en cinco veces al valor diario de la Unidad de Medida y Actualización, elevado al año. En los siguientes casos y para efectos de esta contribución, esta ley dispone que:
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en ésta ley, las personas físicas, las personas morales y las entidades económicas que adquieran inmuebles que consistan en el suelo y las (sic)
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+(sic) construcciones adheridas a él, ubicados en el Territorio del Municipio de Los Cabos, así como los derechos relacionados con los mismos a que este capítulo se refiere. El impuesto se calculará aplicando la tasa del 3% al valor del inmueble, después de reducirlo en cinco veces al valor diario de la Unidad de Medida y Actualización, elevado al año. En los siguientes casos y para efectos de ésta contribución, ésta ley dispone que:
 
-I. En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en veinte veces el valor diario de la Unidad de Medida y Actualización elevado al año. Esta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se considera vivienda de interés social aquella que su costo de adquisición no rebase 7,500 veces el valor diario de la Unidad de Medida y Actualización. Siempre y cuando el adquiriente ó su cónyuge demuestre no tener otra propiedad.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+I. En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculará aplicando la tasa del 3% al valor del inmueble después de reducirlo en veinte veces el valor diario de la Unidad de Medida y Actualización elevado al año. Ésta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se considera vivienda de interés social aquella que su costo de adquisición no rebase 7,500 veces el valor diario de la Unidad de Medida y Actualización. Siempre y cuando el adquiriente o su cónyuge demuestren no tener otra propiedad.
 
-II. En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% del valor del inmueble, después de reducirlo en diez veces el valor diario de la Unidad de Medida y Actualización elevado al año. En caso de donación, la regla anterior será aplicable a una sola operación dentro del término de un año.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+II. En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculará aplicando la tasa del 1.5% del valor del inmueble, después de reducirlo en diez veces el valor diario de la Unidad de Medida y Actualización elevado al año. En caso de donación, la regla anterior será aplicable a una sola operación dentro del término de un año.
 
 III. Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa prevista en el primer párrafo de este Artículo, independientemente de que se cause por el cesionario, por la sucesión o por el adquiriente.
 
 IV. El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el segundo párrafo de la Fracción IV del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, siempre que estos bienes sean destinados y utilizados para la prestación de los servicios públicos.
 
 V. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las Autoridades del Trabajo, Judiciales o Administrativas, el enajenante se vea obligado al pago, el objeto de este impuesto será el valor de la Transmisión de Dominio.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 35º BIS. Los ingresos que correspondan a un punto porcentual de la tasa referida en el párrafo primero y en la fracción I del artículo 35 de la presente Ley, así como los que correspondan a medio punto porcentual de la tasa establecida en la fracción II del (sic)
+
+(sic) mismo artículo serán transferidos directamente por la Tesorería Municipal al patrimonio del Fideicomiso de Saneamiento Ambiental a que hace referencia el párrafo segundo del artículo 137 BIS de la presente ley para ser destinados en obras y acciones de saneamiento ambiental.
 
 ###### ARTÍCULO 36º.
 
@@ -567,11 +583,11 @@ VIII. Permitir que la autoridad o su representante vigile el cumplimiento de los
 
 En caso de que, solicitada la autorización correspondiente y cumplidos los requisitos legales, la autoridad municipal no expida la mencionada autorización en un plazo máximo de cinco días hábiles, se considerará que dicha solicitud fue aprobada, quedando obligada la autoridad competente a sellar los boletos que exhiba el contribuyente para la realización del evento.
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 48º.
+###### ARTÍCULO 48°.
 
-Se faculta al Presidente Municipal en términos de la Constitución Política de los Estados Unidos Mexicanos, para condonar o eximir total o parcialmente el pago de impuestos y sus accesorios, autorizar su pago a plazos, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar del municipio, una rama de actividad, la producción o venta de productos o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos metereológicos, plagas o epidemias.
+Se faculta a la persona titular de la Presidencia Municipal en términos de la Constitución Política de los Estado (sic) Unidos Mexicanos, para otorgar estímulos fiscales sobre el pago parcial o total de impuestos y sus accesorios previstos en el presente Capítulo, así como autorizar su pago a plazos, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar del municipio, una rama de actividad, la producción o venta de productos o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
 ###### ARTÍCULO 49º.
 
@@ -617,11 +633,13 @@ III. Apuestas por eventos deportivos y otros, en vivo u otro medio de comunicaci
 
 En los casos de las Fracciones I y II los causantes cubrirán el impuesto al momento de la obtención del ingreso. En el caso de la fracción III lo cubrirán mensualmente o cuando se realice el evento en vivo.
 
-###### ARTÍCULO 53º.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 53°.
 
 Quienes celebren loterías, rifas, sorteos y juegos permitidos por la ley de manera ocasional por las que deban pagar el impuesto en los términos de este Capítulo, deberán presentar declaración en las oficinas de Recaudación de Rentas del Municipio dentro de los cinco días siguientes a aquel en que se celebre el evento. Los causantes de este impuesto se sujetarán a lo establecido en lo conducente por el Reglamento de Espectáculos Públicos y demás disposiciones vigentes del H. Ayuntamiento de Los Cabos.
 
-Se faculta al Presidente Municipal para condonar proporcionalmente estos impuestos cuando se trate de los espectáculos cuyos productos se destinen en todo o en parte a alguna beneficencia u obra pública del Municipio.
+Se faculta la persona titular de la Presidencia Municipal para otorgar estímulos fiscales proporcionalmente sobre estos impuestos cuando se trate de los espectáculos cuyos productos se destinen en todo o en parte a alguna beneficencia u obra pública del Municipio.
 
 ### Capítulo Quinto. Impuesto sobre Urbanización
 
@@ -2827,17 +2845,61 @@ La tarifa anterior se cobrará por meses y a partir de la fecha en que se solici
 
 ARTÍCULO 137º BIS. Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el Municipio, en razón de la ocupación de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales, moteles, plataformas digitales de hospedaje y similares.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 137° BIS 1. Con la recaudación del derecho de saneamiento ambiental se cubrirán los costos del cumplimiento de las funciones que se realizan y la prestación de los servicios de que disfruta toda persona en el Municipio, a fin de que el Ayuntamiento establezca políticas públicas y lleve a cabo acciones para el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental, a través de la ejecución de obras relacionadas a la mejora del espacio público, la conservación y mantenimiento de playas; el tratamiento integral de residuos sólidos urbanos, obras relativas al alumbrado público que garanticen la mitigación de emisiones de Gases de Efecto Invernadero y la eficiencia energética; el tratamiento de aguas residuales y la potabilización de agua para consumo humano; así como la mejora de la movilidad en el traslado de las personas y la disminución de las emisiones contaminantes que se encuentran en el entorno del territorio municipal.
+
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ARTÍCULO 137º TER. Están obligados a pagar los derechos de saneamiento ambiental él o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, plataformas digitales de hospedaje y similares; este derecho deberá ser retenido por los prestadores de servicios del ramo, o en su caso, por quienes determine el convenio de coordinación que al efecto se suscriba.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-ARTÍCULO 137º QUÁTER. El pago del derecho de saneamiento ambiental se causará en razón del 35% del valor diario de la Unidad de Medida y Actualización por cuarto y/o habitación ocupada, al momento en el que se realice el pago de dicha ocupación.
+ARTÍCULO 137° TER 1. De igual manera están obligados a pagar el derecho de saneamiento ambiental:
+
+I. Las personas clientes de cantinas, cervecerías, discotecas, cabarets, centro nocturnos, centros botaneros, bares, anexo de bar, micro-cervecerías, Pub de cerveza artesanal, restaurantes, cafés, salones de billar o boliche, coctelerias, fondas, loncherías o cenadurías a que se refieren las fracciones I y II del artículo 11 de la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur, y que se encuentren establecidos en este Municipio;
+
+II. Las personas clientes que celebren contratos de arrendamiento de todo tipo de vehículos automotores dentro de la demarcación municipal, y
+
+III. Las personas clientes que celebren contratos de arrendamiento de embarcaciones marítimas recreativas y/o deportivas dentro de la demarcación municipal.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 137º QUÁTER. El pago del derecho de saneamiento ambiental por personas usuarias de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, se causará en razón del 70% del valor diario de la Unidad de Medida y Actualización por cuarto y/o habitación ocupada.
+
+Los propietarios o poseedores de los inmuebles en los cuales se realiza el hospedaje deberán retener el importe del derecho causado por cuarto y/o habitación ocupada al momento que se realice el pago de dicha ocupación y deberán de proporcionar, mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 137° QUATER 1. Asimismo, el pago del derecho de saneamiento ambiental que se cause para los servicios de hospedaje a través de plataformas digitales y similares será de 2 veces el valor diario de la Unidad de Medida y Actualización por cuarto, casa o departamento ocupado.
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ARTÍCULO 137º QUINQUIES. Los retenedores de este derecho deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a los cuartos y/o habitaciones ocupados por la prestación de ese servicio, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 137º SEXIES. Están obligados a pagar el derecho de saneamiento ambiental todas las personas clientes de los establecimientos y locales a que se refiere la fracción II del artículo 137° TER 1 del presente ordenamiento, con un monto de 10% del valor diario de la Unidad de Medida y Actualización por consumos que en la factura simplificada o ticket de compra sean superiores al equivalente de 4 Unidades de Medida y Actualización.
+
+El importe de este derecho deberá ser retenido por los propietarios o poseedores de restaurantes y bares en los cuales se comercialicen alimentos y bebidas alcohólicas, mismo que deberá desglosarse en el comprobante de compra, desglosado después del importe por el consumo y su respectivo Impuesto al Valor Agregado y quienes deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 137º SEPTIES. Están obligados a pagar el derecho de saneamiento ambiental todas las personas que, en carácter de arrendatarios, suscriban contratos de prestación de servicios para la renta de todo tipo de vehículos automotores dentro de la demarcación del Municipio.
+
+El pago por derecho de saneamiento ambiental bajo ésta modalidad se causará en razón del 50% del valor diario de la Unidad de Medida y Actualización por día de renta.
+
+El importe de este derecho deberá ser retenido por los arrendadores, quienes deberán proporcionar, mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 137º OCTIES. Están obligados a pagar el derecho de saneamiento ambiental todas las personas que, en carácter de arrendatarios, contraten la prestación de servicios para la renta de (sic)
+
+todo tipo de embarcaciones marítimas recreativas y/o deportivas dentro de la demarcación del Municipio.
+
+El pago por derecho de saneamiento ambiental bajo ésta modalidad se causará en razón del 50% del valor diario de la Unidad de Medida y Actualización por evento de renta dentro de un día de calendario.
+
+El importe de este derecho deberá ser retenido por los arrendadores, quienes deberán proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
 ## TITULO CUARTO. PRODUCTOS
 
@@ -4011,7 +4073,7 @@ I. Impuesto Predial, únicamente sobre el inmueble donde vivan dichas personas y
 
 II. Derechos causados por los servicios que presta el Registro Público de la Propiedad y del Comercio, únicamente por lo que se refiere a los servicios que presta en materia de propiedad sobre bienes de dichas personas.
 
-III. Derechos por servicios del Registro Civil, únicamente en actos relativos a dichas personas, así como de su cónyuge o sus descendientes menores de edad.
+III. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
 IV. Derechos por Legalización de Firmas, expedición de certificados y copias certificadas, únicamente en actos en los que exista interés directo de dichas personas.
 
@@ -4023,15 +4085,21 @@ VI. Un 20% hasta un 50% de descuento en la entrada a todo evento deportivo, recr
 
 Se establece, a favor de los Pensionados, Jubilados, discapacitados y personas de la tercera (sic) una reducción que será del 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado cuando se trate de la casa habitación donde este resida.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 184°.
 
-Se otorgarán las reducciones que señalan en el presente título a aquellas personas pertenecientes a la tercera edad y que acrediten previamente mediante identificación oficial expedida por el INSTITUTO NACIONAL DE LA SENECTUD.
+Se otorgarán las reducciones que señalan en el presente título a aquellas personas pertenecientes a la tercera edad y que acrediten previamente mediante identificación oficial expedida por el Instituto Nacional de las Personas Adultas Mayores.
 
 ## TITULO DECIMO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
 
-###### ARTÍCULO 185º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Para el fomento de la inversión productiva y la generación de empleos en el Municipio de Los Cabos, el Presidente Municipal estará facultado para otorgar a favor de los sujetos beneficiarios los siguientes estímulos fiscales, con base a la Ley de Fomento Económico del Estado de Baja California Sur.
+###### ARTÍCULO 185°.
+
+Para el fomento de la inversión productiva y la generación de empleos en el Municipio de Los Cabos, la persona titular de la Presidencia Municipal estará facultada para otorgar a favor de los sujetos beneficiarios los siguientes estímulos fiscales, (sic)
+
+con base a la Ley de Fomento Económico del Estado de Baja California Sur:
 
 I. Reducción en el pago del impuesto predial, establecido en el Capítulo Primero del Título Segundo de esta Ley;
 
@@ -4039,13 +4107,7 @@ II. Reducción en el pago del Impuesto sobre Adquisiciones de inmuebles establec
 
 III. Devolución del monto que resulte por el pago de derechos por inscripción en el Registro Público, de la Propiedad y de Comercio de las escrituras constitutivas de personas morales, a las que se refiere el artículo 73 fracción III de la presente Ley;
 
-IV. Condonación del pago de derechos por inscripción en el Registro Público de la Propiedad y del Comercio de los siguientes documentos:
-
-a). Actas de asamblea mediante las cuales se acuerde el incremento al capital social de sociedades, a que se refieren los artículos 73, fracción III y 75, fracción III de la presente Ley.
-
-b). Contratos de crédito a los que se refieren los artículos 73, fracción VI y 75 fracción XVI de la presente Ley.
-
-c). Estatutos de personas morales extranjeras, de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles y en la Ley de Inversión Extranjera.
+IV. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
 V. Reducción en el pago de derechos por expedición de licencias de construcción a las que se refiere la Sección Única, Capítulo Tercero del Título Tercero de la presente Ley. Así mismo y en el pago de derechos por conexión a las redes de agua potable y alcantarillado a los que se refiere la Ley Estatal en la materia.
 
@@ -4176,3 +4238,41 @@ B.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. El H. Ayuntamiento del Municipio de Los Cabos a partir de la publicación del presente Decreto, contará con en un plazo no mayor de 120 días naturales, a efecto de adecuar los reglamentos y demás disposiciones administrativas aplicables para el debido cumplimiento del presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3134 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto se publicará en el Boletín Oficial del Gobierno del Estado de Baja California Sur y entrará en vigor el día 1 de enero de 2025.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. Durante el ejercicio fiscal del año 2025 los ingresos recaudados relativos a un punto porcentual del Impuesto sobre adquisición de bienes inmuebles que correspondan a los supuestos previstos en el artículo 35 BIS fracciones I y II de la Ley de Hacienda para el Municipio de Los Cabos, Baja California Sur, podrán ser destinados por única ocasión, al pago de pasivos laborales, siempre y cuando:
+
+El Honorable XV Ayuntamiento de Los Cabos apruebe en el mes de enero del año 2025 un Programa de Austeridad, Racionalidad y Disciplina del Gasto, que permita el uso eficiente de los recursos humanos y materiales de la administración pública, municipal a fin de reorientarlos al logro de objetivos, evitar la duplicidad de funciones, promover la eficiencia y eficacia en la gestión pública, modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de (sic)
+
+Las Dependencias y Entidades y reducir gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+
+Dicho programa será de observancia obligatoria para todas las Dependencias de la administración pública municipal y deberá incluir al menos los siguientes aspectos:
+
+I.- Establecer mecanismos para monitorear anualmente la evolución de los recursos ejercidos por concepto de gasto corriente;
+
+II.- Promover el uso intensivo de las tecnologías de la información y comunicaciones a fin de reducir el costo de los recursos materiales y servicios generales del gobierno;
+
+III.- Simplificar los procesos internos y eliminar aquellos que no están relacionados con las actividades sustantivas de los Ejecutores de gasto contribuyendo a la transparencia y a la rendición de cuentas;
+
+IV.- Establecer los lineamientos para reorientar los recursos de la administración pública, en caso de que se realicen reestructuras a las Dependencias y Entidades;
+
+V.- Establecer las medidas para lograr una distribución de los recursos humanos al servicio de la administración pública que permita hacer más eficiente la actuación del gobierno;
+
+VI.- Estrategias para modernizar la estructura de la administración pública a fin de reorientar recursos para ofrecer mejores bienes y servicios públicos; y
+
+VII.- Estrategias para enajenar aquellos bienes improductivos u obsoletos, ociosos o innecesarios.
+
+CUARTO. En caso de que se proceda conforme al artículo transitorio anterior, deberá constituirse un fideicomiso público municipal denominado “Fideicomiso de Saneamiento Financiero” al que la Tesorería Municipal le transferirá directamente dichos ingresos, teniendo este fideicomiso la obligación de administrarlos y aplicarlos al pago de los referidos pasivos laborales conforme a los acuerdos que para ese efecto adopte el Comité Técnico del propio fideicomiso.
+
+El Comité Técnico de este Fideicomiso durante la vigencia del Programa de Austeridad, Racionalidad y Disciplina del Gasto a que refiere el artículo Tercero, deberá presentar ante el Congreso del Estado un informe trimestral sobre la administración y aplicación de los recursos transferidos por la Tesorería Municipal, a más tardar dentro de los treinta días naturales siguientes al trimestre concluido, mismo que será turnado a las comisiones permanentes de Vigilancia de la Auditoría Superior del Estado y de Asuntos Fiscales y Administrativos.
+
+El ejercicio del gasto llevado a cabo por este fideicomiso municipal será revisado y fiscalizado por la Auditoría Superior del Estado, conforme a la reglas aplicables a los entes públicos sujetos a fiscalización.
+
+En caso de existir remanentes al cierre del ejercicio 2025, estos deberán ser transferidos al Fideicomiso de Saneamiento Ambiental para su aplicación conforme al objeto de dicho fideicomiso.
