@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2024-11-25"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -165,9 +165,9 @@ XXIV.- Ejecutores de Gasto del Estado: Los Poderes Ejecutivo, Legislativo y Judi
 
 XXV.- Ejecutores de Gasto del Municipio: Las Dependencias y Entidades que forman parte de la Administración Pública Municipal, conforme a lo establecido por la Ley Municipal para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-XXVI.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo las universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 5° de la Ley Orgánica de la Administración Pública Estatal, mismas que son objeto de control presupuestario indirecto por parte de la Secretaria;
+XXVI.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo las universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 6° de la Ley Orgánica de la Administración Pública Estatal, mismas que son objeto de control presupuestario indirecto por parte de la Secretaría;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -413,7 +413,13 @@ III.- De evaluación del desempeño con el objeto de propiciar que los recursos 
 
 En la constitución de fideicomisos por parte de la Administración Pública Centralizada, la Secretaría comparecerá como fideicomitente único.
 
-En la constitución de fideicomisos por parte de la Administración Pública Paraestatal, se deberá contar con la autorización previa de la Secretaría y deberán informar a la misma sobre el manejo del patrimonio de los fideicomisos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría llevará un registro de los fideicomisos que sean constituidos, modificados o extintos por las Entidades del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Para efectos de dicho registro, las Entidades del Ejecutivo deberán informar a la Secretaría sobre la constitución, modificación o extinción de fideicomisos, así como el manejo del patrimonio fiduciario, y cumplir con los requisitos establecidos por la Secretaría.
 
 ###### Artículo 6°.
 
@@ -1880,3 +1886,19 @@ P.O. 25 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día iniciará su vigencia (sic) al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97.- SE REFORMA LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las solicitudes de autorización de la constitución de fideicomisos por parte de Entidades Paraestatales, que se hubieran presentado ante la Secretaría de Finanzas con anterioridad al inicio de la vigencia del presente Decreto, se concluirán conforme a la legislación vigente al momento de que la Entidad Paraestatal presentara su solicitud de autorización.
