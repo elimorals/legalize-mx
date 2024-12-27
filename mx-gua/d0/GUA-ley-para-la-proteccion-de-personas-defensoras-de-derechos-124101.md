@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-personas-defensoras-de-derechos-12410
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-26"
-last_updated: "2017-10-26"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Parte al Número 185 del Periódico Oficial del Estado de Guanajuato, el jueves 26 de octubre de 2017.
 
@@ -93,7 +93,9 @@ XI. Peticionario: persona que solicita alguna de las medidas ya sea para sí o p
 
 XII. Periodistas: las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen;
 
-XIII. Personas defensoras de derechos humanos: las personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales, cuya finalidad sea la promoción o defensa de los derechos humanos; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIII. Personas defensoras de derechos humanos: las personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales, cuya finalidad sea la promoción o defensa de los derechos humanos. Así como toda persona, grupo o colectivo involucrado en el proceso de búsqueda de personas desaparecidas; y
 
 XIV. Secretaría: Secretaría de Gobierno del estado de Guanajuato.
 
@@ -612,3 +614,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 56, POR EL QUE SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
