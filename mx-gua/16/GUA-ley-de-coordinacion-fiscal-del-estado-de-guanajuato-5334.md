@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2021-12-31"
+last_updated: "2024-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -259,27 +259,33 @@ I. El 80% en razón directa a la población que registre cada municipio, de acue
 
 II. El 20% por partes iguales entre la totalidad de los municipios del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 6o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3o. de la presente Ley, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo y sin condicionamiento alguno. Para el caso de los días 10 se considerará un anticipo equivalente al 50% del Fondo General de Participaciones que correspondió al municipio conforme al importe recibido en el mes de cálculo del 2007; además del 100% de aquellos recursos participables a los que se refieren las fracciones V y VIII del artículo 3o.; para el caso de la fracción VIII se referirá únicamente a los recaudados por concepto de rezago y no a los transferidos por la Tesorería de la Federación.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3o. de la presente Ley, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo y sin condicionamiento alguno. Para el caso de los días 10 se considerará un anticipo equivalente al 50% del Fondo General de Participaciones que correspondió al municipio conforme al importe recibido en el mes de cálculo del 2007; además del 100% de aquellos recursos participables a los que se refieren las fracciones V y VIII del artículo 3o.; para el caso de la fracción VIII se referirá únicamente a los recaudados por concepto de rezago y no a los transferidos por la Tesorería de la Federación.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 Sin perjuicio de lo establecido en el párrafo anterior, las participaciones a que se refiere el artículo 3o., fracciones VIII y X, de esta Ley y las diferencias que se tengan por ajustes, se pagarán dentro de los 5 días siguientes a su recepción. Para el caso de ajustes a cargo de los municipios, los ajustes se aplicarán cuando exista la suficiencia presupuestal necesaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 6o-A.
 
-Los municipios del estado deberán enviar a la Secretaría de Finanzas, Inversión y Administración la información de la recaudación del impuesto predial y los derechos por suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, a que se refieren los artículos 4 y 5-A de la presente ley, a más tardar el último día hábil del mes de febrero del ejercicio posterior al que se informe; mediante el portal de internet o medios que para tal efecto habilite la Secretaría de Finanzas, Inversión y Administración.
+Los municipios del estado deberán enviar a la Secretaría de Finanzas la información de la recaudación del impuesto predial y los derechos por suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, a que se refieren los artículos 4 y 5-A de la presente ley, a más tardar el último día hábil del mes de febrero del ejercicio posterior al que se informe; mediante el portal de internet o medios que para tal efecto habilite la Secretaría de Finanzas.
 
-Los reportes finales de recaudación se enviarán en forma física a la Secretaría de Finanzas, Inversión y Administración, por parte del municipio a través del Tesorero Municipal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Los reportes finales de recaudación se enviarán en forma física a la Secretaría de Finanzas, por parte del municipio a través del Tesorero Municipal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Cuando la recaudación de los derechos por suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, se realice a través de un organismo operador descentralizado; los formatos deberán ser validados por el titular del organismo operador y por el tesorero municipal. Cuando la recaudación la realice directamente el municipio, los formatos deberán ser validados por el tesorero municipal.
 
-Hasta en tanto esta información no se encuentre validada por el Sistema Nacional de Coordinación Fiscal, la Secretaría de Finanzas, Inversión y Administración realizará el cálculo del monto de las participaciones que correspondan a los municipios en forma provisional; para tales efectos, aplicará los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes a la fecha en que se cuente con la validación de dicha información.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Hasta en tanto esta información no se encuentre validada por el Sistema Nacional de Coordinación Fiscal, la Secretaría de Finanzas realizará el cálculo del monto de las participaciones que correspondan a los municipios en forma provisional; para tales efectos, aplicará los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes a la fecha en que se cuente con la validación de dicha información.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -293,31 +299,31 @@ En el supuesto que durante un ejercicio se lleve a cabo la actualización de la 
 
 ### CAPITULO TERCERO. DE LA VIGILANCIA DEL CALCULO Y LIQUIDACION DE LAS PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 8o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá publicar en el Periódico Oficial del Gobierno del Estado, así como en su página oficial de internet el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados de las participaciones que la Entidad reciba y de las que tenga obligación de participar a sus municipios. Para tal fin se atenderá lo establecido en la Ley de Coordinación Fiscal vigente en el ámbito federal.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, deberá publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, así como en su página oficial de internet el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados de las participaciones que la Entidad reciba y de las que tenga obligación de participar a sus municipios. Para tal fin se atenderá lo establecido en la Ley de Coordinación Fiscal vigente en el ámbito federal.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 9o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración pondrá a disposición de los ayuntamientos que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como el monto de las mismas.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas pondrá a disposición de los ayuntamientos que lo requieran, la información necesaria que les permita comprobar la correcta determinación de sus factores de participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como el monto de éstas.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 10.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, independientemente de la publicación a que se refiere el artículo 8, deberá proporcionar por escrito a cada uno de los municipios del estado, dentro del mes de enero de cada año, el monto anual estimado de sus participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como un informe sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, independientemente de la publicación a que se refiere el artículo 8, deberá proporcionar por escrito a cada uno de los municipios del estado, dentro del mes de enero de cada año, el monto anual estimado de sus participaciones e incentivos económicos derivados del convenio de colaboración administrativa en materia fiscal federal, así como un informe sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
 
 ### CAPITULO CUARTO. DE LA COORDINACION FISCAL Y COLABORACION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 11.
 
-Para el fortalecimiento del sistema fiscal en la entidad, el Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, y los ayuntamientos podrán celebrar convenios de coordinación fiscal y colaboración administrativa, a efecto de intercambiar información y establecer programas que permitan actualizar las bases de datos, en los términos y disposiciones que al efecto se establezcan.
+Para el fortalecimiento del sistema fiscal en la entidad, el Gobierno del Estado, por conducto de la Secretaría de Finanzas, y los ayuntamientos podrán celebrar convenios de coordinación fiscal y colaboración administrativa, a efecto de intercambiar información y establecer programas que permitan actualizar las bases de datos, en los términos y disposiciones que al efecto se establezcan.
 
 ###### ARTICULO 12.
 
@@ -325,19 +331,19 @@ En los Convenios a que se refiere el Artículo anterior, se establecerán los in
 
 ### CAPITULO QUINTO. DE LOS ORGANISMOS DE COORDINACION FISCAL
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 13.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, y los ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de coordinación fiscal del estado, por medio de la 6 reunión estatal de funcionarios fiscales, integrada por el Secretario de Finanzas, Inversión y Administración y por el titular del órgano hacendario de cada municipio del Estado.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, y los ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de coordinación fiscal del estado, por medio de la reunión estatal de funcionarios fiscales, integrada por la persona titular de la Secretaría de Finanzas y por quienes sean titulares del órgano hacendario de cada municipio del Estado.
 
-El Secretario de Finanzas, Inversión y Administración podrá ser suplido por la persona que al efecto designe, y los titulares de los órganos hacendarios de cada municipio por la persona que al efecto designen.
+La persona titular de la Secretaría de Finanzas podrá ser suplida por la persona que al efecto designe, y quienes sean titulares de los órganos hacendarios de cada municipio por la persona que al efecto designen.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 14.
 
-La reunión a que se refiere el artículo anterior deberá sesionar cuando menos una vez al año, en el municipio que se elija por sus integrantes y será presidida por el Secretario de Finanzas, Inversión y Administración.
+La reunión a que se refiere el artículo anterior deberá sesionar cuando menos una vez al año, en el municipio que se elija por sus integrantes y será presidida por la persona titular de la Secretaría de Finanzas.
 
 ###### ARTICULO 15.
 
@@ -371,7 +377,9 @@ II.- Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las De
 
 Los importes que integrarán los Fondos de Aportaciones señalados en el presente artículo, serán los que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
 
-Los Fondos de Aportaciones se calcularán y distribuirán de conformidad con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, y conforme a los Lineamientos que la Secretaría de Desarrollo Social y Humano publicará en el Periódico Oficial del Gobierno del Estado, a más tardar el 31 de enero de cada año, ajustándose a las previsiones contenidas en la Ley de Coordinación Fiscal y demás legislación aplicable.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Los Fondos de Aportaciones se calcularán y distribuirán de conformidad con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, y conforme a los Lineamientos que la Secretaría del Nuevo Comienzo publicará en el Periódico Oficial del Gobierno del Estado de Guanajuato, a más tardar el 31 de enero de cada año, ajustándose a las previsiones contenidas en la Ley de Coordinación Fiscal y demás legislación aplicable.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -413,9 +421,11 @@ La firma de los convenios por parte de los municipios no será obligatoria, pero
 
 Los ingresos propios del Gobierno del Estado que se consideran como otros recursos estatales, previa firma del convenio respectivo, son:
 
-I. El 50% de la recaudación de cada Municipio correspondiente a los Derechos recaudados por las licencias y permisos para la producción o almacenaje, y enajenación de bebidas alcohólicas; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-II. El 25%. de la recaudación de cada municipio correspondiente al Impuesto por Servicios de Hospedaje.
+I. El 50% de la recaudación de los Derechos recaudados por las licencias y permisos para la producción o almacenaje, y enajenación de bebidas alcohólicas; se distribuirán entre los municipios conforme al número de licencias y permisos para la producción o almacenaje, y enajenación que tenga cada Municipio al cierre del ejercicio fiscal anterior al que se realiza el cálculo.
+
+II. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
 
 Para que un Municipio acceda a los recursos antes señalados deberá de cumplir con lo establecido en el convenio respectivo.
 
@@ -560,3 +570,41 @@ Artículo Segundo. Para el ejercicio fiscal de 2022, la distribución del Fondo 
 Contribuyentes que opten por seguir tributando en el Régimen de Incorporación Fiscal
 
 Artículo Tercero. En atención al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto Sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos, publicado en la edición vespertina del DiarioOficial (sic) de la Federación en fecha 12 de noviembre de 2021, en tanto los contribuyentes opten por seguirtributando (sic) en el Régimen de Incorporación Fiscal, se sumarán a la variable señalada en el artículo 5°-A, fracción I de la presente Ley, los contribuyentes por municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 52, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2025, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Las disposiciones contenidas en la Sección II denominada "Impuesto sobre Juegos y Sorteos con Apuestas", integrada con los artículos 51-A, 51-B, 51-C 51-D 51-E y 51-F del Capítulo Cuarto del TÍTULO SEGUNDO; entrarán en vigor el 1 de abril de 2025.
+
+Por su parte, los sujetos obligados del impuesto establecido en el Título Segundo, Capítulo Octavo, Sección II del presente Decreto, presentarán las declaraciones mensuales y, en su caso, en entero del impuesto que resulte a cargo, correspondiente a enero y febrero del ejercicio fiscal 2025, a partir del 1 y hasta el 22 de abril del mismo ejercicio. Dentro del periodo señalado, en caso de que resultara impuesto a cargo de los contribuyentes, este no será objeto de actualización y causación de accesorios.
+
+Reforma del Artículo Cuarto Transitorio del Decreto Legislativo 204
+
+Artículo Segundo. Se reforma el Artículo Cuarto Transitorio del Decreto Legislativo 204, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, tercera parte, de fecha 31 de mayo de 2023, mediante el cual se reformaron y adicionaron diversas disposiciones de la Ley de Hacienda para el Estado de Guanajuato, para quedar en los siguientes términos:
+
+"Estímulo en la ...
+
+Artículo Cuarto. A los sujetos ...
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2024, PÁGINA 29.]</small>
+
+Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley. Para el caso de los contribuyentes participantes del Sistema de Comercio de Emisiones se aplicará la cuota que resulte de la reducción establecida en la fracción III del artículo 78-Y de esta Ley."
+
+Derogación
+
+Artículo Tercero. Se derogan los Artículos Quinto y Séptimo Transitorios del Decreto Legislativo 204, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, tercera parte, de fecha 31 de mayo de 2023, mediante el cual se reformaron y adicionaron diversas disposiciones de la Ley de Hacienda para el Estado de Guanajuato.
+
+Determinación y entero del impuesto de juegos y sorteos con apuestas
+
+Artículo Cuarto. La determinación y entero del impuesto al que hace referencia el artículo 51 D del presente Decreto, correspondientes a los meses de abril a junio del ejercicio fiscal 2025, se realizarán a partir del 1 y hasta el 22 de julio del mismo ejercicio. En caso de que, dentro del periodo señalado, resultara impuesto a cargo de los contribuyentes, este no será objeto de actualización y causación de accesorios.
+
+Plazo para obtener los incentivos pendientes
+
+Artículo Quinto. Los municipios que tengan suscrito convenio con el Gobierno del estado de Guanajuato, respecto a los incentivos de la recaudación del Impuesto por Servicios de Hospedaje, tendrán un plazo no mayor a 180 días posteriores a la entrada en vigor del presente Decreto, a fin de realizar las gestiones necesarias ante el Servicio de Administración Tributaria del Estado de Guanajuato, para obtener los incentivos derivados de este impuesto, previo cumplimiento a las acciones que dicho instrumento señale.
+
+En caso de que el municipio no realice las gestiones dentro del periodo previsto en el párrafo que antecede, perderá el derecho a percibir los incentivos, por lo que dichos recursos se destinarán al fondo al que hace referencia el artículo 60 de la Ley de Hacienda para el Estado de Guanajuato.
