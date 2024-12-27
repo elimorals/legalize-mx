@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-89412
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2020-11-13"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE INCLUSION PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de septiembre de 2012.
 
@@ -63,21 +65,27 @@ III. Ayudas técnicas: cualquier dispositivo o material que permita habilitar, r
 
 IV. Barreras: los obstáculos físicos o arquitectónicos de cualquier naturaleza que dificulten o impidan a las personas con discapacidad el libre desplazamiento en lugares públicos, privados, abiertos o cerrados, o la accesibilidad al ejercicio pleno de sus derechos;
 
-V. Consejo Consultivo: el Consejo Consultivo para la Atención de las Personas con Discapacidad del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-VI. Consejo Directivo: el órgano de gobierno del Instituto Guanajuatense para las Personas con Discapacidad;
+V. Consejo Consultivo: el Consejo Consultivo auxiliar de la Secretaría de Derechos Humanos;
+
+VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
 
 VII. Educación especial: la educación destinada a las personas que tengan alguna discapacidad, que deberá atender sus condiciones particulares, mediante la aplicación de métodos, técnicas y materiales que garanticen la inclusión educativa;
 
 VIII. Inclusión: la integración de las personas con discapacidad en todos los ámbitos de la vida en comunidad;
 
-IX. Instituto: el Instituto Guanajuatense para las Personas con Discapacidad;
+IX. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
 
 X. Personas con discapacidad: aquéllas que presentan alguna deficiencia física, mental, intelectual, sensorial, de trastorno de talla o peso, ya sea de naturaleza congénita o adquirida, permanente o temporal, que limite su capacidad de ejercer una o más actividades esenciales de la vida diaria, y que puede impedir su desarrollo;
 
 XI. Perspectiva de inclusión: el conjunto de acciones encaminadas a incluir en los programas, políticas públicas y presupuestos, el enfoque de atención y desarrollo dirigido a personas con discapacidad; y
 
 XII. Rehabilitación: el conjunto de medidas encaminadas a facilitar que una persona con discapacidad alcance un nivel físico, mental, intelectual y sensorial óptimo de acuerdo a sus circunstancias, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social y calidad de vida.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIII. Secretaría: la Secretaría de Derechos Humanos.
 
 Principios rectores
 
@@ -100,8 +108,6 @@ VI. El respeto de la dignidad, la autonomía individual, incluida la libertad de
 ### Capítulo II. Derechos de las Personas con Discapacidad
 
 Derechos de las personas con discapacidad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -141,13 +147,9 @@ XIV. Al deporte y a contar con las instalaciones adecuadas para su práctica; y
 
 XV. A la cultura y a la recreación, además del acceso a los servicios culturales y artísticos que promueva la administración pública estatal y municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XVI. A no ser discriminado por motivos de su discapacidad; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -163,9 +165,13 @@ Son autoridades para la aplicación de esta Ley, en el ámbito de sus respectiva
 
 I. En el ámbito estatal:
 
-a) El titular del Poder Ejecutivo;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-b) El Instituto; y
+a) La persona titular del Poder Ejecutivo;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+b) La Secretaría;
 
 c) Las dependencias y entidades de la administración pública estatal; y
 
@@ -175,11 +181,15 @@ a) Los ayuntamientos; y
 
 b) Las dependencias y entidades de la administración pública municipal.
 
-Atribuciones del Ejecutivo del Estado y los municipios
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Atribuciones de la persona titular del Ejecutivo del Estado y los municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-El Ejecutivo del Estado y los municipios para garantizar la inclusión de las personas con discapacidad, contarán con las siguientes atribuciones:
+La persona titular del Ejecutivo del Estado y los municipios para garantizar la inclusión de las personas con discapacidad, contarán con las siguientes atribuciones:
 
 I. Impulsar en los sectores público y social una cultura de inclusión;
 
@@ -227,27 +237,33 @@ En los términos de esta Ley, son prioridades de la administración pública est
 
 Información de servicios públicos
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 9.
 
-Las autoridades de la administración pública estatal y municipal dentro de sus respectivos ámbitos de competencia deberán informar al Instituto sobre los servicios, atención y trámites que hayan realizado a personas con discapacidad.
+Las autoridades de la administración pública estatal y municipal dentro de sus respectivos ámbitos de competencia deberán informar a la Secretaría sobre los servicios, atención y trámites que hayan realizado a personas con discapacidad.
 
-### Capítulo IV. Instituto Guanajuatense para las Personas con Discapacidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Naturaleza del Instituto
+### Capítulo IV. Secretaría de Derechos Humanos
 
 ###### Artículo 10.
 
-El Instituto es un organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, responsable de la ejecución, promoción e impulso de las acciones en materia de atención, protección, rehabilitación e inclusión de las personas con discapacidad en el Estado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
-Al titular del Poder Ejecutivo del Estado le corresponde designar y remover libremente al Director del Instituto.
+> <small>(REFORMADO SU ACÁPITE, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Atribuciones del Instituto
+Atribuciones de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-El Instituto tendrá las siguientes atribuciones:
+La Secretaría tendrá las siguientes atribuciones:
 
-I. Promover en coordinación con las autoridades de la administración pública estatal y municipal, así como con la sociedad en general, la difusión, concientización y promoción de los derechos de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+I. Promover en coordinación con las autoridades de la administración pública federal, estatal y municipal, así como con la sociedad en general, la difusión, concientización y promoción de los derechos de las personas con discapacidad;
 
 II. Promover la participación de la sociedad en la prevención, detección temprana y control de las causas que provocan la discapacidad;
 
@@ -261,23 +277,29 @@ V. Elaborar un sistema de base de datos para el registro de personas con discapa
 
 VI. Coadyuvar con las autoridades de la administración pública estatal y municipal para elaborar políticas públicas de atención a las personas con discapacidad;
 
-VII. Promover la creación y asignación de apoyos económicos para las personas que tengan a su cuidado a una o más personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+VII. Promover la creación y asignación de apoyos económicos para las personas con discapacidad y las que tengan a su cuidado a una o más personas con discapacidad;
 
 VIII. Coordinarse con las autoridades competentes y con empresas privadas, con la finalidad de elaborar lineamientos que garanticen la accesibilidad, seguridad, comodidad y calidad en los medios de transporte público para las personas con discapacidad;
 
-IX. Orientar a los prestadores de servicios privados, para que cumplan con los requerimientos necesarios para proporcionar un servicio adecuado a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+IX. Orientar y capacitar a los prestadores de servicios públicos y privados, para que cumplan con los requerimientos necesarios para proporcionar un servicio adecuado a las personas con discapacidad;
 
 X. Promover la accesibilidad en la infraestructura física de instalaciones públicas y el diseño, adecuación, instalación y supresión de barreras arquitectónicas dentro de la vía pública, para permitir el fácil desplazamiento de las personas con discapacidad;
 
-XI. Informar a la sociedad y a las familias de las personas con discapacidad, sobre acciones y planes en materia de convivencia, apoyo y tratamiento de la discapacidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XI. Informar ampliamente sobre acciones y planes en materia de convivencia, apoyo y tratamiento de la discapacidad;
 
 XII. Colaborar con instituciones públicas y privadas para organizar encuentros deportivos para personas con discapacidad;
 
 XIII. Promover que en los centros de trabajo se contrate a personas con discapacidad;
 
-XIV. Denunciar ante la autoridad competente, la existencia de algún delito cometido en contra de alguna persona con discapacidad, cuando tenga conocimiento de éste;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XIV. Denunciar ante la autoridad, la existencia de algún delito cometido en contra de alguna persona con discapacidad, cuando tenga conocimiento de éste, y vincularla para su asistencia y asesoría legal.
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -285,7 +307,7 @@ XV. Establecer programas especializados para la atención de niñas, niños y ad
 
 XVI. Colaborar con las instancias públicas, sociales y privadas que soliciten su asistencia y orientación en materia de discapacidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+.
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -295,147 +317,61 @@ XVIII. Coordinar acciones de impulso a instituciones de apoyo a personas con dis
 
 XIX. Promover y celebrar convenios con la finalidad de coordinar las acciones relativas al tratamiento, protección e inclusión a la sociedad de las personas con discapacidad;
 
-XX. Proponer e implementar modelos de rehabilitación;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-XXI. Proponer dentro de la elaboración del proyecto del presupuesto de egresos los recursos necesarios para impulsar los programas de adquisición y obtención de órtesis, prótesis, ayudas técnicas y medicamentos para la rehabilitación de las personas con discapacidad;
+XX. Proponer la implementación de modelos de rehabilitación;
 
-XXII. Proponer al Consejo Directivo estrategias para la obtención de recursos que se destinen al cumplimiento de los fines de esta Ley; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XXI. Proponer en el anteproyecto del presupuesto de egresos los recursos para impulsar los programas de adquisición y obtención de órtesis, prótesis, ayudas técnicas y medicamentos para la rehabilitación de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XXII. Proponer y elaborar estrategias y programas para el cumplimiento de los fines de esta Ley, y
 
 XXIII. Las demás que le otorgue la presente Ley u otras disposiciones legales aplicables.
 
-Atribuciones del Director del Instituto
-
 ###### Artículo 12.
 
-El Director del Instituto tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
-I. Formular y someter a la aprobación del Consejo Directivo el programa operativo anual del Instituto;
-
-II. Rendir un informe anual de actividades;
-
-III. Ejecutar los acuerdos del Consejo Directivo;
-
-IV. Presentar anualmente al Consejo Directivo, el anteproyecto del presupuesto de egresos; y de manera trimestral los estados financieros del Instituto;
-
-V. Celebrar toda clase de actos, contratos, acuerdos y convenios inherentes al objeto del Instituto;
-
-VI. Otorgar y revocar poderes generales o especiales y comunicarlo al Consejo Directivo;
-
-VII. Representar jurídicamente al Instituto; esta facultad la podrá delegar en la persona que designe;
-
-VIII. Proponer al Consejo Directivo el nombramiento o la remoción de los servidores públicos del organismo;
-
-IX. Promover la celebración de eventos y programas del Instituto en colaboración con todos los sectores de la población;
-
-X. Someter a consideración del Consejo Directivo, los proyectos de fuentes alternas de financiamiento del Instituto;
-
-XI. Asesorar al titular del Poder Ejecutivo del Estado y a los ayuntamientos en la definición de estrategias en proyectos de discapacidad;
-
-XII. Rendir informes del ejercicio de su función en cada sesión ordinaria del Consejo Directivo; y
-
-XIII. Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ### Capítulo V. Consejo Directivo
 
-Consejo Directivo
-
 ###### Artículo 13.
 
-El Consejo Directivo estará integrado por:
-
-I. El titular de la Secretaría de Desarrollo Social y Humano;
-
-II. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado, quien lo presidirá;
-
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
-
-II bis. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
-
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
-
-II ter. El titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
-
-III. El Director del Instituto, quien será el Secretario Técnico; y
-
-IV. Tres representantes de organizaciones sociales de reconocido prestigio y amplia representatividad entre las personas con discapacidad.
-
-El Procurador de los Derechos Humanos del Estado de Guanajuato, el Secretario de Salud y el Secretario de Educación de Guanajuato, serán invitados permanentes al Consejo Directivo, contando con voz.
-
-Cada miembro del Consejo Directivo y los invitados permanentes designarán un suplente quien lo cubrirá en sus ausencias y deberá tener preferentemente conocimientos en materia de discapacidad y derechos humanos.
-
-Los suplentes que se designen, preferentemente, no podrán ser sustituidos a efecto de dar continuidad a los acuerdos tomados en el Consejo Directivo.
-
-Los representantes de las organizaciones sociales serán nombrados por el titular del Poder Ejecutivo, a propuesta del Secretario Técnico.
-
-El reglamento determinará los criterios conforme a los cuales el Secretario Técnico integrará la propuesta para el nombramiento de los representantes de las organizaciones sociales.
-
-Los representantes de las organizaciones sociales durarán en sus funciones dos años, pudiendo ser ratificados hasta por un segundo periodo.
-
-Carácter honorífico del cargo
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 ###### Artículo 14.
 
-El cargo de los integrantes del Consejo Directivo será honorífico, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
-
-Regulación del Consejo Directivo
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 ###### Artículo 15.
 
-El Consejo Directivo se regirá en su organización, estructura y funcionamiento, además de lo dispuesto por esta Ley, por lo que establezca su reglamento.
-
-Sesiones del Consejo
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 ###### Artículo 16.
 
-El Consejo Directivo celebrará sesiones ordinarias una vez cada tres meses y las extraordinarias que proponga el Presidente o a petición de la mayoría de sus integrantes.
-
-El Consejo Directivo sesionará válidamente con la asistencia de la mitad más uno de sus integrantes.
-
-Voz y voto en el Consejo Directivo
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 ###### Artículo 17.
 
-Los integrantes del Consejo Directivo tendrán derecho a voz y voto. Los acuerdos se tomarán por mayoría de votos de los integrantes; en caso de empate el Presidente tendrá voto de calidad.
-
-Se podrá invitar a participar a las sesiones del Consejo Directivo a ciudadanos de los sectores público, social y privado, quienes sólo tendrán derecho a voz.
-
-Atribuciones del Consejo Directivo
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 ###### Artículo 18.
 
-El Consejo Directivo tendrá las siguientes atribuciones:
-
-I. Dar seguimiento y evaluar el desarrollo de las estrategias para la equiparación de oportunidades y atención de las personas con discapacidad y, en su caso, formular observaciones a las dependencias y entidades de la administración pública estatal para su cumplimiento, por conducto del Secretario Técnico;
-
-II. Proponer al titular del Poder Ejecutivo del Estado la obtención de recursos provenientes de fuentes alternas de financiamiento, para el cumplimiento del objeto de esta Ley;
-
-III. Difundir las políticas públicas que contribuyan al desarrollo integral de las personas con discapacidad, con la finalidad de concientizar e informar a la sociedad respecto de las mismas;
-
-IV. Solicitar información a las instituciones públicas, sociales y privadas, que le permita el cumplimiento de las atribuciones que le confiere la presente Ley;
-
-V. Proponer al titular del Poder Ejecutivo del Estado, anteproyectos de iniciativas de Ley que contengan las adecuaciones al marco jurídico estatal para la protección de los derechos de las personas con discapacidad;
-
-VI. Promover la colaboración e intercambio de información entre las dependencias, entidades, instituciones, organizaciones, agrupaciones docentes, de investigación o de asistencia, que se relacionen con el objeto de esta Ley;
-
-VII. Celebrar acuerdos de colaboración con organismos públicos y privados, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
-
-VIII. Rendir un informe público anual sobre el cumplimiento de sus objetivos por conducto del Secretario Técnico.
-
-Para la elaboración del informe público anual el Secretario Técnico del Consejo Directivo deberá recabar información de las dependencias y entidades de la administración pública, sobre la ejecución y evaluación de las políticas públicas encaminadas a la equiparación de oportunidades y atención de las personas con discapacidad y el objeto de la presente Ley; y
-
-IX. Las demás que le otorgue la presente Ley u otras disposiciones legales aplicables.
-
-Para el ejercicio de las atribuciones establecidas en las fracciones anteriores, el Consejo Directivo deberá atender las opiniones y recomendaciones del Consejo Consultivo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 ### Capítulo VI. Consejo Consultivo para la Atención de las Personas con Discapacidad del Estado de Guanajuato
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 Consejo Consultivo
 
 ###### Artículo 19.
 
-El Consejo Consultivo es un organismo de vinculación, consulta y auxiliar del Instituto.
-
-El Consejo Consultivo se regirá en su organización, estructura y funcionamiento, por lo dispuesto en esta Ley y por el reglamento que se expida para tal efecto.
+El Consejo Consultivo es un organismo de vinculación, consulta y auxiliar de la Secretaría en materia de atención a las personas con discapacidad.
 
 Integración del Consejo Consultivo
 
@@ -443,7 +379,9 @@ Integración del Consejo Consultivo
 
 El Consejo Consultivo estará integrado por:
 
-I. El Director del Instituto, quien lo presidirá;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+I. La persona titular de la Secretaría, quien lo presidirá;
 
 II. Cuatro representantes de los municipios;
 
@@ -459,7 +397,9 @@ Los representantes contemplados en la fracción V de este artículo serán desig
 
 El número de representantes de las organizaciones sociales se establecerá en el reglamento respectivo.
 
-El Procurador de los Derechos Humanos del Estado de Guanajuato, el Secretario de Salud y el Secretario de Educación de Guanajuato, serán invitados permanentes al Consejo Consultivo, contando con voz.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Las personas titulares de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, de la Secretaría de Salud y de Educación de Guanajuato, serán invitados permanentes al Consejo Consultivo, contando con voz.
 
 Se podrá invitar a las sesiones del Consejo Consultivo a las personas que tengan injerencia en la materia de discapacidad, para que participen con voz pero sin voto.
 
@@ -475,7 +415,9 @@ II. Proponer criterios para la planeación y ejecución de las políticas públi
 
 III. Consultar a las personas con discapacidad y hacerles partícipes en el diagnóstico y evaluación social de las políticas públicas destinadas a las personas con discapacidad;
 
-IV. Canalizar al Consejo Directivo los proyectos y propuestas de la ciudadanía en materia de discapacidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+IV. Canalizar a la Secretaría los proyectos y propuestas de la ciudadanía en materia de discapacidad;
 
 V. Vincular a los sectores sociales y productivos con las autoridades estatales y municipales para generar acuerdos de participación en materia de discapacidad;
 
@@ -493,9 +435,11 @@ Durarán en su cargo dos años y podrán ser reelectos por un periodo más.
 
 Secretario Técnico del Consejo Consultivo
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 23.
 
-El Consejo Consultivo contará con un Secretario Técnico, que será designado por el Director del Instituto y tendrá derecho a voz.
+El Consejo Consultivo contará con un Secretario Técnico, que será designado por la persona titular de la Secretaría y tendrá derecho a voz.
 
 Sesiones del Consejo Consultivo
 
@@ -661,19 +605,23 @@ Las políticas públicas en materia de equiparación de oportunidades y atenció
 
 Participación de los sectores social y privado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-El titular del Poder Ejecutivo y los ayuntamientos en el ámbito de sus respectivas competencias, determinarán las políticas públicas, las estrategias, acciones y objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal o municipal, con la participación que corresponda a los sectores social y privado, para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con discapacidad en el Estado.
+La Persona titular del Poder Ejecutivo y los ayuntamientos en el ámbito de sus respectivas competencias, determinarán las políticas públicas, las estrategias, acciones y objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal o municipal, con la participación que corresponda a los sectores social y privado, para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con discapacidad en el Estado.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 También determinarán el otorgamiento de aparatos de movilidad asistida a las personas con discapacidad que se encuentren en situación de vulnerabilidad y que así lo requieran, para lo cual deberán de prever la partida correspondiente en sus presupuestos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 Colaboración y convenios
 
 ###### Artículo 36.
 
-El titular del Poder Ejecutivo y los ayuntamientos podrán convenir entre ellos, así como con el Poder Ejecutivo federal y con la sociedad organizada, la coordinación que se requiera a efecto de que participen en la realización de acciones previstas en esta Ley.
+La persona titular del Poder Ejecutivo y los ayuntamientos podrán convenir entre ellos, así como con el Poder Ejecutivo federal y con la sociedad organizada, la coordinación que se requiera a efecto de que participen en la realización de acciones previstas en esta Ley.
 
 ### Capítulo IX. Responsabilidades
 
@@ -852,3 +800,29 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente al de
 Plazos para ajustar reglamentos y decretos
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos, programas y de acuerdo a la suficiencia presupuestal para el cumplimiento del presente decreto, en un plazo de ciento ochenta días contados a partir de que este inicie su vigencia.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 50 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente al de su publicación, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Secretaría de Derechos Humanos, sustituye en su ámbito de competencia, en todas sus obligaciones y asume los compromisos adquiridos por el Instituto Guanajuatense para las Personas con Discapacidad.
+
+El Instituto Guanajuatense para las Personas con Discapacidad. entrará en un proceso de liquidación, para tales efectos, en un término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar su órgano de gobierno para nombrar a un liquidador de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría de Derechos Humanos.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción que generará los lineamientos para la liquidación de dicha entidad y le dará seguimiento a este proceso.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones de la entidad paraestatal correspondiente y deberá enviar reportes mensuales de su avance al Comité señalado en el párrafo anterior. Los bienes inmuebles, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan resultado del proceso de liquidación serán transferidos o la Secretaría de Derechos Humanos, a través de la entrega-recepción respectiva.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto Guanajuatense para las Personas con Discapacidad no deberá adquirir nuevos derechos u obligaciones, correspondiéndole al liquidador llevar a cabo todos los actos respectivos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Se instalará un Comité de Estructura Administrativa por parte del Poder Ejecutivo para definir la estructura de personal del Instituto Guanajuatense para las Personas con Discapacidad, que pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones de la entidad y una vez transferido la totalidad del patrimonio, resultante de la liquidación, así como que la contabilidad se encuentre liquidada, el liquidador cesará sus funciones, debiendo presentar un informe final al Comité de Extinción.
+
+La Secretaría de Gobierno transferirá a la Secretaría de Derechos Humanos, los programas, proyectos y procesos, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones en materia de derechos humanos, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Gobierno, que atienda los temas de derechos humanos, pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente decreto.
+
+Artículo Tercero. A partir de la entrada en vigor del presente Decreto la persona titular del Poder Ejecutivo expedirá y adecuará los reglamentos y demás disposiciones para el cumplimiento, en un término que no exceda de 90 días naturales. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
