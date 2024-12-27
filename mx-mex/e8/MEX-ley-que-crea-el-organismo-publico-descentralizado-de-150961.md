@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-150961"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-06"
-last_updated: "2021-09-06"
+last_updated: "2024-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER MUNICIPAL DENOMINADO INSTITUTO MUNICIPAL DE PLANEACION DE VALLE DE BRAVO, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 55, PUBLICADO EN LA GACETA DEL GOBIERNO DE 27 DE DICIEMBRE DE 2024, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER MUNICIPAL DENOMINADO INSTITUTO MUNICIPAL DE PLANEACIÓN DE VALLE DE BRAVO, ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Ley publicada en la Sección Primera del Número 45 de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2021.
 
@@ -426,3 +428,13 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 31 de agosto de 2021.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, MTRO. ERNESTO NEMER ALVAREZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 55.- POR EL QUE SE ABROGA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER MUNICIPAL DENOMINADO INSTITUTO MUNICIPAL DE PLANEACIÓN DE VALLE DE BRAVO, ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
