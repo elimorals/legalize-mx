@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2023-12-28"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -149,11 +149,11 @@ Las leyes fiscales, sus reglamentos y las disposiciones administrativas de cará
 
 En los plazos sobre vigencia y demás disposiciones a que este artículo se refiere, se computarán los días inhábiles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 9°.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el 24 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 17 de julio; el 15 y 16 de septiembre; el 12 de octubre; el 2 y el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el 24 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 17 de julio; el 15 y 16 de septiembre; el 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 12 de octubre; el 2 y el tercer lunes de noviembre en conmemoración del 20 de noviembre, y el 25 de diciembre.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -325,6 +325,48 @@ VI.- Las silvícolas que son las de cultivo de los bosques o montes, así como l
 
 Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen, parcial o totalmente, las citadas actividades empresariales.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 14 BIS.- Para efectos fiscales se considera enajenación de bienes:
+
+I.- Toda transmisión de propiedad, aún en la que el enajenante se reserve el dominio del bien enajenado.
+
+II.- Las adjudicaciones, aun cuando se realicen a favor del acreedor.
+
+III.- Las aportaciones a una sociedad o asociación.
+
+IV.- La que se realice mediante el arrendamiento financiero.
+
+V.- La que se realice a través del fideicomiso, en los siguientes casos:
+
+a).- En el acto en el que el fideicomitente designe o se obligue a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b).- En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+VI.- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a).- En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+b).- En el acto en el que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las leyes fiscales para la enajenación de tales títulos.
+
+VII.- La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de los derechos que lo representen.
+
+Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+
+VIII.- La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada así como en el caso de transmisión de derechos de crédito a cargo de personas físicas, en los que se considerará que existe enajenación hasta el momento en que se cobren los créditos correspondientes, y
+
+IX.- La que se realice mediante fusión o escisión de sociedades, salvo los supuestos contenidos en el artículo 14 B del Código Fiscal de la Federación.
+
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses. Se consideran operaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes fiscales simplificados que cumplan con los requisitos establecidos en el Código Fiscal de la Federación y su Reglamento.
+
+Se considera que la enajenación se efectúa en territorio del Estado, entre otros casos, si el bien se encuentra en dicho territorio al efectuarse el envío al adquirente y cuando no habiendo envío, en el estado se realiza la entrega material del bien por el enajenante.
+
+Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
+
 ###### ARTÍCULO 15.
 
 Se considera domicilio fiscal:
@@ -337,7 +379,9 @@ b).- Cuando no realicen las actividades señaladas en el inciso anterior y prest
 
 c).- En los demás casos, el lugar donde tengan el asiento principal de sus actividades.
 
-d).- A falta de los anteriores, su casa habitación.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+d).- Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -359,9 +403,11 @@ Tratándose de personas físicas y morales, residentes o establecidas fuera de l
 
 Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que se realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio fiscal, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 22 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran, o en caso, los contratos o concesiones.
+Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
 
 Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
@@ -673,13 +719,7 @@ Cuando en la solicitud de inscripción al Registro Estatal, o en los avisos corr
 
 Tratándose de personas físicas o morales cuyas actividades (sic) reguladas por leyes administrativas en el Estado y tengan la obligación de efectuar un pago anual, bianual o trianual por conceptos de Derechos en los términos de la Ley de Hacienda del Estado, deberán de solicitar su inscripción en el Registro Estatal de Contribuyentes en los 45 días siguientes al pago efectuado o presentar un aumento de obligaciones fiscales si ya están inscritos; cumplido el plazo la Secretaría de Hacienda podrá realizar su registro de contribuyente de conformidad con lo dispuesto en el artículo 34 de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
-
-ARTÍCULO 33 BIS.- Las personas físicas o morales que contraten la prestación de servicios especializados, en términos del artículo 13 de la Ley Federal del Trabajo, deberán presentar el aviso correspondiente, dentro de los diez días siguientes a la fecha de contratación, ante la oficina recaudadora que corresponda a su domicilio fiscal, debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de personas que presten el servicio, así como el nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate, así como los avisos que esta última debe presentar ante el Instituto Mexicano del Seguro Social.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Las autoridades fiscales podrán requerir a las personas físicas o morales a que se refiere este artículo, la presentación de documentos o información adicional, a fin de que en un plazo máximo de diez días cumplan con lo solicitado. En este caso, no se considera que se inicie el ejercicio de facultades de comprobación.
+ARTÍCULO 33 BIS.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1359,25 +1399,41 @@ Cuando la autoridad constate que el aseguramiento precautorio se practicó por u
 
 Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro estatal de contribuyentes.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 51.
 
-Cuando las personas obligadas a presentar avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de la siguiente manera:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de la siguiente manera:
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 I. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido, para que sea exhibido en un plazo de quince días para el primero y de seis días para los subsecuentes requerimientos. Si no se atiende el requerimiento se impondrá la multa correspondiente, que tratándose de declaraciones será una multa por cada obligación omitida. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión, pudiendo en este caso, si resulta procedente, formular querella en los términos del artículo 94 de este Código.
 
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 II. Tratándose de la omisión en la presentación de una declaración periódica que implique omisión en el pago de algunas contribuciones, una vez realizadas las acciones previstas en la fracción anterior, la autoridad fiscal podrá hacer efectiva al contribuyente que haya incurrido en la omisión o a los responsables solidarios, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 En caso del incumplimiento a tres o más requerimientos respecto de la misma obligación, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 En el caso de la fracción I de este artículo y agotados los actos señalados en el mismo, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 Lo anterior, sin perjuicio de que las autoridades fiscales ejerzan sus facultades de comprobación.
 
@@ -1645,11 +1701,11 @@ Si durante el plazo para concluir la visita domiciliaria o la revisión de la co
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones o, en su caso, el de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente cuando el visitado se encuentre obligado a dictaminar sobre el cumplimiento de las disposiciones fiscales por contador público autorizado o cuando el contribuyente haya ofrecido la opción a que se refiere el párrafo quinto del artículo 32-A del Código Fiscal de la Federación. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 67 de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no se presente dentro de los plazos que establece el artículo 67-Bis de este ordenamiento, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión negativa o salvedades, que tengan implicaciones fiscales.
+Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente cuando el visitado se encuentre obligado o en términos del artículo 41 Bis de este mismo Código, haya optado por dictaminar sobre el cumplimiento de las disposiciones fiscales por contador público autorizado. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 67 de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no se presente dentro de los plazos que establece el artículo 67-Bis de este ordenamiento, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión negativa o salvedades, que tengan implicaciones fiscales.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1713,9 +1769,11 @@ En dicha resolución deberán señalarse los plazos en que la misma puede ser im
 
 Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados· por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, de conformidad con lo previsto en el último párrafo del artículo 58 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente responsable solidario o tercero, se estará a lo siguiente:
+En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, se estará a lo siguiente:
 
 I.- Se tendrán los siguientes plazos para su presentación:
 
@@ -2943,9 +3001,9 @@ De las diligencias en que conste la notificación o cita, el notificador tomara 
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad de $180.00 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará anualmente de conformidad con el artículo 149 de este Ordenamiento.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad de $695.45 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará anualmente de conformidad con el artículo 149 de este ordenamiento.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -3189,29 +3247,21 @@ Son aplicables al embargo precautorio a que se refiere este artículo las dispos
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 146.
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos o a través del juicio contencioso administrativo, El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 133 de este Código, también se suspenderá el plazo de la prescripción.
 
-La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad fiscal o petición de los contribuyentes.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Asimismo, se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere escalado de manera incorrecta su domicilio fiscal.
 
 El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
-Cuando se suspende el procedimiento administrativo de ejecución en los términos del artículo 133 de este Código, también se suspenderá el plazo de la prescripción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3291,17 +3341,13 @@ II.- Por la de embargo, incluyendo el señalado en el artículo 130, fracción V
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $560.00, se cobrará esa cantidad en vez del 2% del crédito.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $380.00, se cobrará esa cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $30,000.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $86,460.00.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4544,3 +4590,15 @@ B.O. 28 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 10, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2025, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
