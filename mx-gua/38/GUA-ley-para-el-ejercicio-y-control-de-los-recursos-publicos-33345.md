@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2021-01-26"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 115 PUBLICADO EN LA CUARTA PARTE DEL P.O. 28 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO EN EL ÁMBITO ESTATAL, ENTRARÁ EN VIGENCIA PARA EFECTOS DEL EJERCICIO FISCAL 2017 Y PARA LOS MUNICIPIOS ENTRARÁ EN VIGENCIA PARA EFECTOS DEL EJERCICIO FISCAL 2018, CON LAS SALVEDADES PREVISTAS EN SUS ARTÍCULOS TRANSITORIOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -107,9 +105,9 @@ VII. Balance presupuestario de recursos disponibles: La diferencia entre los ing
 
 VIII. Banco Integrado de Proyectos (BIP): La herramienta dispuesta para recibir, analizar y valorar la preparación técnica, impacto social y atingencia estratégica de las iniciativas de proyectos de inversión promovidas por las dependencias y entidades, organismos autónomos y poderes Legislativo y Judicial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-IX. Cartera de programas y proyectos de inversión: Los programas y proyectos de inversión que cuenten con el análisis correspondiente, conforme a los distintos niveles de evaluación y que se encuentran registrados en el Banco Integrado de Proyectos o en el sistema que para tal efecto determine la Secretaría de Finanzas, Inversión y Administración;
+IX. Cartera de programas y proyectos de inversión: Los programas y proyectos de inversión que cuenten con el análisis correspondiente, conforme a los distintos niveles de evaluación y que se encuentran registrados en el Banco Integrado de Proyectos o en el sistema que para tal efecto determine la Secretaría de Finanzas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
@@ -251,9 +249,9 @@ XLIII. Organismos Autónomos: Aquellos que por disposición constitucional o leg
 
 XLIV. Órgano de Administración: El área encargada de la administración de los recursos en los poderes Legislativo y Judicial y en los Organismos Autónomos;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-XLV. Órganos internos de control: La Secretaría de la Transparencia y Rendición de Cuentas, las contralorías de los poderes Legislativo y Judicial y de los organismos autónomos; así como las contralorías municipales y los órganos de vigilancia de las entidades municipales;
+XLV. Órganos internos de control: La Secretaría de la Honestidad, las contralorías de los poderes Legislativo y Judicial y de los organismos autónomos; así como las contralorías municipales y los órganos de vigilancia de las entidades municipales.
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -299,9 +297,9 @@ LV. Reglas de operación: Las disposiciones a las cuales se sujetan determinados
 
 LVI. Remuneración integrada: La percepción total que reciben los servidores públicos de manera ordinaria por la prestación de sus servicios, con independencia de la denominación que se dé a los rubros que la integran;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-LVII. Secretaría: La Secretaría de Finanzas, Inversión y Administración;
+LVII. Secretaría: La Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -381,19 +379,19 @@ Los sujetos de la Ley coordinarán las actividades de programación-presupuestac
 
 El Comité de Gestión para Resultados es un organismo técnico del Poder Ejecutivo del Estado, cuyo objetivo es coordinar el ciclo presupuestario mediante el uso de la Metodología de Marco Lógico, la aplicación del Presupuesto basado en Resultados y la operación del Sistema de Evaluación del Desempeño.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 6° Ter.
+###### Artículo 6 Ter.
 
-Los integrantes del Comité de Gestión para Resultados, en el ámbito de sus atribuciones y conforme a las disposiciones normativas, son:
+Las personas integrantes del Comité de Gestión para Resultados, en el ámbito de sus atribuciones y conforme a las disposiciones normativas, son:
 
-I. Un representante de la Secretaría de Finanzas, Inversión y Administración;
+I. Una representante de la Secretaría de Finanzas;
 
-II. Un representante del Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
+II. Una representante del Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
 
-III. Un representante de la Secretaría de la Transparencia y Rendición de Cuentas; y
+III. Una representante de la Secretaría de la Honestidad; y
 
-IV. Un representante de la Jefatura de Gabinete del Poder Ejecutivo.
+IV. Una representante de la dependencia o entidad que determine la persona titular del Poder Ejecutivo.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -1541,11 +1539,11 @@ XIII.- En su caso, los procesos administrativos que deberán observarse para que
 
 XIV.- Los responsables de resguardar la documentación original comprobatoria que justifique las erogaciones con cargo a recursos estatales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-Artículo 78 octies.- Con el objeto de asegurar una aplicación eficiente, eficaz, equitativa y transparente de los programas, las dependencias, las entidades y los municipios, deberán ejercer los recursos estatales derivados de los mismos, de conformidad con lo establecido en las reglas de operación de cada uno de ellos, los lineamientos generales que establezca la Secretaría y con base en lo siguiente:
+###### Artículo 78 Octies.
+
+Con el objeto de asegurar una aplicación eficiente, eficaz, equitativa y transparente de los programas, las dependencias, las entidades y los municipios, deberán ejercer los recursos estatales derivados de los mismos, de conformidad con lo establecido en las reglas de operación de cada uno de ellos, los lineamientos generales que establezca la Secretaría y con base en lo siguiente:
 
 I.- Los recursos de los programas sólo se podrán destinar a financiar obras y acciones previstas en sus reglas de operación y para cubrir los gastos administrativos derivados del manejo de los mismos, observando las proporciones que establezcan las dependencias y las entidades normativas;
 
@@ -1557,7 +1555,9 @@ IV.- En materia de adquisiciones, arrendamientos y contratación de servicios, l
 
 V.- El ejercicio de los recursos financieros de los programas que realicen los municipios, quedará bajo su estricta responsabilidad. Los titulares de las áreas de tesorería y de obras públicas, observarán la correcta aplicación de los recursos en las obras y acciones aprobadas por los ayuntamientos; y
 
-VI.- Para asegurar que los recursos a que se refiere este Capítulo, sean aplicados en los términos expresados en la fracción I de este artículo, las contralorías municipales, así como la Secretaría de la Transparencia y Rendición de Cuentas, deberán, en el ámbito de su competencia, revisar y constatar la adjudicación, ejecución y liberación de recursos, así como la documentación soporte de la aplicación del gasto. En caso de encontrarse irregularidades se aplicarán a los servidores públicos estatales o municipales las sanciones que correspondan.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+VI.- Para asegurar que los recursos a que se refiere este Capítulo sean aplicados los términos expresados en la fracción I de este artículo, las contralorías municipales, así como la Secretaría de la Honestidad, deberán, en el ámbito de su competencia, revisar y constatar la adjudicación, ejecución y liberación de recursos, así como la documentación soporte de la aplicación del gasto. En caso de encontrarse irregularidades se aplicarán a las personas servidoras públicas estatales o municipales las sanciones que correspondan.
 
 Para contribuir con el propósito señalado en la fracción anterior, así como para coadyuvar en la evaluación de los resultados del ejercicio de los recursos, los ayuntamientos deberán operar las contralorías sociales en cada una de las obras que se realicen por los municipios.
 
@@ -1569,11 +1569,13 @@ Artículo 78 nonies.- Para la aplicación de los recursos estatales que sean rea
 
 De igual manera, los municipios podrán celebrar convenios entre sí, con el propósito de llevar a cabo obras y acciones de beneficio común y, a su vez, optimizar los recursos derivados de los programas correspondientes a cada uno de ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 78 Decies.
+
+La Secretaría suspenderá las ministraciones de los recursos que integran los programas mencionados en este Capítulo, cuando así lo solicite la Secretaría de la Honestidad, como consecuencia de las irregularidades que ésta detecte en las revisiones que realice sobre la aplicación de los recursos, o por falta de información sobre el ejercicio de los mismos.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-(sic) 78 decies.- La Secretaría suspenderá las ministraciones de los recursos que integran los programas mencionados en este Capítulo, cuando así lo solicite la Secretaría de la Transparencia y Rendición de Cuentas, como consecuencia de las irregularidades que ésta detecte en las revisiones que realice sobre la aplicación de los recursos, o por falta de información sobre el ejercicio de los mismos.
 
 Dicha suspensión surtirá efectos hasta que se notifique la debida solventación de las irregularidades.
 
@@ -1977,13 +1979,17 @@ Los poderes Legislativo, Judicial y organismos autónomos, en su caso deberán i
 
 Artículo 102 decies.- Los estados financieros y demás información financiera, presupuestal o contable que deban reportar los poderes, organismos autónomos y municipios, de conformidad con lo dispuesto por los ordenamientos legales, se presentarán en los informes financieros trimestrales respectivos y en la cuenta pública que anualmente se entregue al Congreso para efectos de su fiscalización.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Artículo 102 undecies.- El Ejecutivo del Estado, en la presentación de los informes financieros trimestrales, así como en su cuenta pública, informará al Congreso sobre la ejecución del Presupuesto de Egresos del Estado; asimismo, sobre la situación económica y las finanzas públicas del ejercicio. La información incluirá a las entidades y se realizarán las aclaraciones que el Congreso le solicite, conjuntamente con la Secretaría de la Transparencia y Rendición de Cuentas, sobre la detección de irregularidades y el fincamiento de las responsabilidades.
+Artículo 102 Undecies.- El Ejecutivo del Estado, en la presentación de los informes financieros trimestrales, así como en su cuenta pública, informará al Congreso sobre la ejecución del Presupuesto de Egresos del Estado; asimismo, sobre la situación económica y las finanzas públicas del ejercicio. La información incluirá a las entidades y se realizarán las aclaraciones que el Congreso le solicite, conjuntamente con la Secretaría de la Honestidad, sobre la detección de irregularidades y el fincamiento de las responsabilidades.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 En los informes trimestrales, y en la cuenta pública, el Ejecutivo incorporará un capítulo especial en el que informará de manera analítica sobre las transferencias y subsidios ejercidos durante el periodo y podrá incluir proyecciones a futuro. Lo anterior aplicará en relación con las transferencias distintas a las contenidas en el capítulo 4000 del presupuesto autorizado para el ejercicio, de conformidad con el clasificador por objeto del gasto que difunda la Secretaría.
 
-Para tal fin dispondrá lo conducente para que se lleven a cabo las inspecciones y auditorías que se requieran, así como para que se finquen las responsabilidades y se apliquen las sanciones que procedan conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las sanciones penales y demás efectos legales que deriven. La Secretaría de la Transparencia y Rendición de Cuentas pondrá en conocimiento de tales hechos a la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Para tal fin dispondrá lo conducente para que se lleven a cabo las inspecciones y auditorías que se requieran, así como para que se finquen las responsabilidades y se apliquen las sanciones que procedan conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las sanciones penales y demás efectos legales que deriven. La Secretaría de la Honestidad pondrá en conocimiento de tales hechos a la Auditoría Superior del Estado.
 
 ## TÍTULO QUINTO. LA CONTABILIDAD GUBERNAMENTAL
 
@@ -2025,15 +2031,15 @@ En los poderes Legislativo y Judicial, así como en los organismos autónomos, l
 
 Del cumplimiento a lo dispuesto en este artículo se informará al Congreso del Estado en las cuentas públicas respectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+###### Artículo 105 Ter.
 
-Artículo 105 ter.- La Secretaría de la Transparencia y Rendición de Cuentas, en el ejercicio de las atribuciones que en materia de fiscalización, auditoría, control y vigilancia le confiere la legislación vigente y los acuerdos de coordinación con la Secretaría de la Función Pública, comprobará el cumplimiento por parte de las dependencias y las entidades de las obligaciones derivadas de esta Ley y del Presupuesto de Egresos del Estado.
+La Secretaría de la Honestidad, en el ejercicio de las atribuciones que en materia de fiscalización, auditoría, control y vigilancia le confiere la legislación vigente y los acuerdos de coordinación con la Secretaría de la Función Pública, comprobará el cumplimiento por parte de las dependencias y las entidades de las obligaciones derivadas de esta Ley y del Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Para tal fin dispondrá lo conducente para que se lleven a cabo las inspecciones y auditorías que se requieran, así como para que se finquen las responsabilidades y se apliquen las sanciones que procedan conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las sanciones penales y demás efectos legales que deriven. La Secretaría de la Transparencia y Rendición de Cuentas pondrá en conocimiento de tales hechos a la Auditoría Superior del Estado.
+Para tal fin dispondrá lo conducente para que se lleven a cabo las inspecciones y auditorías que se requieran, así como para que se finquen las responsabilidades y se apliquen las sanciones que procedan conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las sanciones penales y demás efectos legales que deriven. La Secretaría de la Honestidad pondrá en conocimiento de tales hechos a la Auditoría Superior del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -2043,17 +2049,17 @@ Los órganos internos de control, en el ejercicio de las atribuciones que en mat
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 106.
 
-Cuando se detecten irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación, administración de bienes, fondos, valores y de recursos económicos públicos, se emitirá resolución en la que se finquen las responsabilidades correspondientes, de acuerdo al procedimiento previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+Cuando se detecten irregularidades por actos u omisiones de personas servidoras públicas en el manejo, aplicación, administración de bienes, fondos, valores y de recursos económicos públicos, se emitirá resolución en la que se finquen las responsabilidades correspondientes, de acuerdo al procedimiento previsto en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 107.
 
-Cuando en la resolución se determine la existencia de daños y perjuicios causados al patrimonio o a la hacienda pública del Estado o de los Municipios, se procederá en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+Cuando en la resolución se determine la existencia de daños y perjuicios causados al patrimonio o a la hacienda pública del Estado o de los Municipios, se procederá en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 ## TRANSITORIOS
 
@@ -2178,3 +2184,9 @@ P.O. 26 DE ENERO DE 2021.
 Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La Secretaría emitirá los Lineamientos de Gestión para Resultados en un plazo de sesenta días, contados a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 53, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE GUANAJUATO".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
