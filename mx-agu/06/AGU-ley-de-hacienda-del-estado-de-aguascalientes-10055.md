@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2022-12-31"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -469,9 +469,9 @@ III.- Los demás que señale el Código Fiscal del Estado.
 
 La base para el pago de este impuesto es el monto total de los ingresos obtenidos con motivo de la venta de boletos para la asistencia a los espectáculos públicos, así como los ingresos que se perciban en calidad de donativos, por cuotas de cooperación o por cualquier otro concepto que condicione el acceso al espectáculo público, ya sea directamente o por conducto de un tercero, incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acceso al espectáculo público.
 
-Se considerará ingreso acumulable el valor de los boletos de cortesía y pases que permitan el acceso al espectáculo público en forma gratuita cuando excedan al tope señalado en el último párrafo de este Artículo. De igual manera, se considerará ingreso acumulable aquellos pases que mediante pago distinto al valor real del boleto de que se trate, ya sea económico o en especie, se efectúe en beneficio de los sujetos del impuesto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Los boletos de cortesía no podrán exceder del 5% de la capacidad total de las localidades del recinto cuando este no sea utilizado de manera parcial, en este último caso y cuando no sea posible determinar el aforo se considerará el porcentaje citado de acuerdo con el tiraje total de boletos expedidos, por cada evento o función del espectáculo público. Se presume que los boletos de cortesía que excedan el porcentaje citado adquieren el valor más alto de las localidades ofertadas.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -641,9 +641,9 @@ III.- De $10,000.00 a $20,000.00 a la comprendida en la fracción IV.
 
 IV.- De $10,000.00 a $20,000.00 a la comprendida en la fracción V. Lo anterior no libera al contribuyente de pagar el impuesto que se hubiese causado.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-V.- Del 30% al 55% del impuesto omitido, a la comprendida en la fracción VII;
+V.- Del 50% al 90% del impuesto omitido, a la comprendida en la fracción VII;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1743,9 +1743,9 @@ I.- Solicitar su inscripción al Padrón de Contribuyentes del Estado de Aguasca
 
 La Secretaría de Finanzas del Estado estará a cargo del Padrón de Contribuyentes del Estado de Aguascalientes, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de impuestos Federales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-II.- Presentar en las fechas establecidas las declaraciones provisionales mensuales y la declaración del ejercicio en las formas autorizadas por la Secretaría de Finanzas del Estado;
+II.- Presentar en las fechas establecidas las declaraciones mensuales en las formas autorizadas por la Secretaría de Finanzas del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2405,11 +2405,11 @@ IV. Las adquisiciones que realicen las instituciones de beneficencia autorizadas
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-Son objeto de este impuesto todas las erogaciones en dinero, en especie o en servicios por concepto de remuneraciones al trabajo personal subordinado o por concepto de remuneraciones asimiladas a este de conformidad con la Ley del Impuesto Sobre la Renta, prestados dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
+Son objeto de este impuesto todas las erogaciones efectuadas en dinero, en especie o en servicios por concepto de remuneraciones al trabajo personal subordinado, los salarios y demás prestaciones derivadas de una relación laboral, así como aquellas remuneraciones que se asimilen a éstos, de conformidad con la Ley del Impuesto Sobre la Renta, prestados dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2429,15 +2429,9 @@ V.- Pagos por gastos funerarios;
 
 VI.- Gastos de representación y viáticos erogados por cuenta del patrón, comprobados en los mismos términos que para su deducibilidad exija la Ley del Impuesto sobre la Renta;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 VII.- Aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores del Estado, al Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las Cuotas al Instituto Mexicano del Seguro Social a cargo del patrón, las cuotas que en términos de ley le corresponde cubrir al patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) y las aportaciones al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE).
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-En los conceptos señalados en las Fracciones IX, X y XIV, cuando el importe de las referidas prestaciones rebase el porcentaje establecido, solamente se integrarán los excedentes al salario base del objeto del impuesto.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Para efectos de la presente regla, el salario base corresponde al total de las percepciones que reciban los trabajadores por la aportación de su trabajo personal;
 
@@ -2455,7 +2449,11 @@ X. Los pagos por tiempo extraordinario, cuando éste no rebase tres horas diaria
 
 XI.- La alimentación y habitación, cuando se otorguen con cargo al salario del trabajador;
 
-XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo o deportivos, festejos de convivios, becas para los trabajadores o sus familiares;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo, becas para los trabajadores o sus familiares directos, siempre y cuando las prestaciones se otorguen de forma general a los trabajadores, de acuerdo con las leyes o por contratos de trabajo, estén amparadas con los comprobantes fiscales digitales que cumplan con los requisitos establecidos en la legislación fiscal federal aplicable, y cuenten con la documentación comprobatoria que respalde la materialidad de las prestaciones.
+
+Las prestaciones previstas en esta fracción solo estarán exentas hasta el 15% del salario mínimo general mensual, vigente en el estado, por cada trabajador;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
@@ -2476,6 +2474,10 @@ XVI.- Remuneraciones a favor de trabajadores con discapacidad.
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Para que los conceptos mencionados en este precepto, se excluyan como integrantes de la base del Impuesto sobre Nóminas, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso. Así mismo, la Secretaría de Finanzas del Estado, podrá requerir la documentación que compruebe que esos conceptos se excluyen del salario del trabajador.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+En los conceptos señalados en las Fracciones IX, X, XII y XIV, cuando el importe de las referidas prestaciones rebase el porcentaje establecido, solamente se integrarán los excedentes al salario base del objeto del impuesto.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -3091,11 +3093,11 @@ III.- Los que perciba el Estado por concepto de los accesorios de las contribuci
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 87.
 
-La hacienda estatal percibirá los ingresos por venta de bienes y prestación de servicios, de los recursos propios que obtienen las diversas entidades que conforman el sector paraestatal por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos, provenientes de los siguientes conceptos:
+La hacienda estatal percibirá los ingresos por venta de bienes, prestación de servicios y otros ingresos de los recursos propios que obtienen las diversas entidades que conforman el sector paraestatal por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos, provenientes de los siguientes conceptos:
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3105,11 +3107,13 @@ I. Ingresos por ventas de bienes y servicios producidos por organismos descentra
 
 II. Ingresos de operación de entidades paraestatales empresariales;
 
-III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+III. La operación de resultados de establecimientos, empresas del Estado, organismos públicos descentralizados, órganos autónomos y órganos desconcentrados que realicen funciones de derecho privado; y
 
-IV. La operación de resultados de establecimientos, empresas del Estado, organismos públicos descentralizados, órganos autónomos y órganos desconcentrados que realicen funciones de derecho privado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+IV. Los otros ingresos que se perciban de conformidad con la legislación aplicable.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -3536,3 +3540,19 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil veint
 ###### ARTÍCULO SEGUNDO.
 
 Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican conforme al Artículo Único de este Decreto, deberán cumplirse en los términos, montos, formas y plazos establecidos en la normatividad vigente al momento en que se generaron.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99.- SE REFORMA LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se deben llevar a cabo de conformidad con la normatividad vigente al momento de su inicio hasta su conclusión.
