@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2023-12-21"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 62 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 31 de Diciembre de 2018.
 
@@ -81,9 +81,11 @@ Contribuciones de mejoras, son las establecidas en Ley a cargo de las personas f
 
 Derechos, son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Municipio de La Paz en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las leyes correspondientes. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio de La Paz.
 
-###### Artículo 8º.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Productos, son los ingresos por contraprestaciones por los servicios que preste el Municipio de La Paz en sus funciones de derecho privado.
+###### Artículo 8°.
+
+Productos, son los ingresos por contraprestaciones por los servicios que preste el Municipio de La Paz en sus funciones de derecho privado, así como, por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
 ###### Artículo 9º.
 
@@ -909,7 +911,9 @@ Artículo 87 BIS.- A todos los contribuyentes en comercio establecido que realic
 
 ### CAPÍTULO II. DERECHOS POR EL USO, GOCE, APROVECHAMIENTO O EXPLOTACIÓN DE BIENES DE DOMINIO PÚBLICO
 
-#### SECCIÓN ÚNICA. BIENES DE USO COMÚN Y OCUPACIÓN DE LA VÍA PÚBLICA
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN I. BIENES DE USO COMÚN Y OCUPACIÓN DE LA VÍA PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -965,11 +969,77 @@ Para efectos de cobro en la sectorización establecida en las fracciones III, VI
 
 3. Vías secundarias (Colectoras).- Espacio físico cuya función es recolectar los flujos de las vías terciarias para llevarlos hacia la red vial primaria, pueden tener faja separadora y estacionamiento en vía pública.
 
-#### SECCIÓN I. SERVICIOS CATASTRALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN II. DE LA RENTA Y CONCESIÓN DE LOCALES POR OCUPACIÓN EN LOS MERCADOS MUNICIPALES
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88
+
+BIS.- Por la ocupación de locales, almacenes y/o el uso de cuartos fríos en los mercados municipales, se pagará una renta de acuerdo a la siguiente:
+
+T A R I F A:
+
+I. Accesorios, locales, expendios y 0.02 del valor de la Unidad
+
+puestos, según ubicación y superficie, de Medida y Actualización.
+
+diariamente por m2
+
+II. Servicio de frigoríficos, 0.1 del valor de la Unidad
+
+diariamente por m2 de Medida y Actualización.
+
+III. Servicio de almacenamiento, por 0.02 del valor de la Unidad
+
+m2 diariamente de Medida y Actualización.
+
+Por la renta de ocupación de locales, almacenes y/o el uso de cuartos fríos en los mercados municipales, no se pagará la contribución establecida en el artículo 70 de esta ley.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88
+
+TER.- Por el otorgamiento o traspaso de concesión de un local o establecimiento que preste el servicio público de mercados, se pagará la siguiente
+
+TARIFA:
+
+I. Locales de hasta 12 m2 de 260 veces el valor de la Unidad
+
+superficie de Medida y Actualización.
+
+II. Locales de 12.1 a 18 m2 de 290 veces el valor de la Unidad
+
+superficie de Medida y Actualización.
+
+III. Locales de 18.1 a 24 m2 de 320 veces el valor de la Unidad
+
+superficie de Medida y Actualización.
+
+IV. Locales de 24.1 m2 de 350 veces el valor de la Unidad
+
+superficie en adelante de Medida y Actualización.
+
+Cuando se realice el otorgamiento de concesión de locales que estén ubicados en el exterior de los mercados públicos municipales se cobrará adicionalmente el 15% de la tarifa respectiva.
+
+Por el otorgamiento o traspaso de concesión de un local o establecimiento que preste el servicio público de mercados, no se pagará la contribución establecida en el artículo 70 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88
+
+QUÁTER. - El gasto de la energía eléctrica y fuerza motriz de los locales arrendados en los mercados, será pagado por los locatarios y el proveniente de las áreas comunes será pagado equitativamente por cada uno de los locatarios, y se acumulará al importe del arrendamiento el cual no se considerará cubierto íntegramente si no ha sido solventado lo correspondiente a este consumo.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88
+
+QUINQUIES.- Los causantes sujetos a pagos periódicos presentarán, al efectuar cualquier pago, el recibo anterior, y en caso de ser requeridos para ello, hasta los tres últimos recibos.
 
 ### CAPÍTULO III. DERECHOS POR LA PRESTACIÓN DE SERVICIOS
 
-#### SECCIÓN II. LICENCIAS PARA CONSTRUCCIÓN
+#### SECCIÓN I. SERVICIOS CATASTRALES
 
 ###### Artículo 89.
 
@@ -1319,7 +1389,7 @@ XVIII. Examen y revisión de documentos en operaciones de adquisición de bienes
 
 Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto sobre adquisición de bienes inmuebles.
 
-#### SECCIÓN III. LEGALIZACIÓN DE FIRMAS, EXPEDICIÓN DE CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
+#### SECCIÓN II. LICENCIAS PARA CONSTRUCCIÓN
 
 ###### Artículo 90.
 
@@ -1403,7 +1473,7 @@ II. Casa habitación:
 
 > <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 99.]</small>
 
-#### SECCIÓN IV. SERVICIOS FUNERARIOS PANTEÓN SAN JUANES Y DELEGACIONES
+#### SECCIÓN III. LEGALIZACIÓN DE FIRMAS, EXPEDICIÓN DE CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
 ###### Artículo 94.
 
@@ -1427,9 +1497,7 @@ IV. Búsqueda de documentos del archivo municipal, cuando no se precisen los dat
 
 2 veces el valor de la Unidad de Medida y Actualización.
 
-#### SECCIÓN V
-
-SERVICIOS FUNERARIOS PANTEÓN JARDINES DEL RECUERDO Y ANEXOS.
+#### SECCIÓN IV. SERVICIOS FUNERARIOS PANTEÓN SAN JUANES Y DELEGACIONES
 
 ###### Artículo 95.
 
@@ -1501,7 +1569,9 @@ No causarán los derechos señalados en este capítulo las inhumaciones de perso
 
 Por el otorgamiento de permisos para la construcción de obras dentro de los panteones o para la colocación de placas, lápidas o mausoleos, se cobrará un derecho equivalente al 2.5% del monto de la inversión.
 
-#### SECCIÓN VI. SERVICIOS DE RASTROS
+#### SECCIÓN V
+
+SERVICIOS FUNERARIOS PANTEÓN JARDINES DEL RECUERDO Y ANEXOS.
 
 ###### Artículo 101.
 
@@ -1717,7 +1787,7 @@ j) Renta de ataúd metálico
 
 26.25 veces el valor de la Unidad de Medida y Actualización.
 
-#### SECCIÓN VII. ALINEAMIENTO DE PREDIOS, NÚMEROS OFICIALES Y MEDICIÓN DE TERRENOS
+#### SECCIÓN VI. SERVICIOS DE RASTROS
 
 ###### Artículo 102.
 
@@ -1775,7 +1845,7 @@ I. Traslado por cabeza
 
 II. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN VIII. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL
+#### SECCIÓN VII. ALINEAMIENTO DE PREDIOS, NÚMEROS OFICIALES Y MEDICIÓN DE TERRENOS
 
 ###### Artículo 105.
 
@@ -1809,7 +1879,7 @@ Los alineamientos de predios tendrán vigencia por seis meses, contados a partir
 
 Por la medición que haga el Municipio de La Paz de terrenos propios, para efectos de regularización, se pagarán tres veces el valor de la Unidad de Medida y Actualización por lote o fracción.
 
-#### SECCIÓN IX. SERVICIOS DE SEGURIDAD PÚBLICA Y TRÁNSITO
+#### SECCIÓN VIII. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL
 
 ###### Artículo 109.
 
@@ -1831,9 +1901,7 @@ II. De morada conyugal
 
 1 vez el valor de la Unidad de Medida y Actualización.
 
-#### SECCIÓN X. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+#### SECCIÓN IX. SERVICIOS DE SEGURIDAD PÚBLICA Y TRÁNSITO
 
 ###### Artículo 110.
 
@@ -1921,7 +1989,9 @@ V. Servicios a domicilio:
 
 Los derechos por los servicios a domicilio deberán cubrirse de acuerdo con la tarifa de arrastre y maniobras de salvamento.
 
-#### SECCIÓN XI. POR SERVICIOS DE INSPECCIÓN MUNICIPAL
+#### SECCIÓN X. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 111.
 
@@ -1935,7 +2005,7 @@ I. Recolección de basura a giros:
 
 > <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 111 A LA 112]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 21 DE DICIEMBRE DE 2023, PÁGINA 543.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 21 DE DICIEMBRE DE 2023, PÁGINA 543; B.O. 27 DE DICIEMBRE DE 2024, PÁGINA 3.]</small>
 
 II. Otros servicios:
 
@@ -1981,15 +2051,13 @@ b) Establecimientos comerciales, industriales y de servicios, que saquen la basu
 
 De 1 a 50 veces el valor de la Unidad de Medida y Actualización.
 
-#### SECCIÓN XII. REGISTRO, LICENCIAS Y PERMISOS DE GIROS COMERCIALES
+#### SECCIÓN XI. POR SERVICIOS DE INSPECCIÓN MUNICIPAL
 
 ###### Artículo 112.
 
 Los derechos por el servicio de inspección municipal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realicen en el Municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o persona moral que lo solicite y/o cuando la autoridad municipal lo dicte conveniente. Los derechos se cobrarán de 3 a 4 veces el valor de la Unidad de Medida y Actualización.
 
-#### SECCIÓN XIII
-
-POR EXPEDICIÓN DE LICENCIAS, REVALIDACIONES, PERMISOS O AUTORIZACIONES Y CAMBIO DE DOMICILIO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
+#### SECCIÓN XII. REGISTRO, LICENCIAS Y PERMISOS DE GIROS COMERCIALES
 
 ###### Artículo 113.
 
@@ -2085,7 +2153,9 @@ III. Actividades de prestación de servicios de manera semifija 1 vez el valor d
 
 IV. Cuando los contribuyentes eventuales o ambulantes a que se refiere la fracción anterior, empleen vehículos, pagarán además de la cuota establecida, pagarán el 50% sobre la cuota correspondiente.
 
-#### SECCIÓN XIV. DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD EN LA VÍA PÚBLICA O PRIVADA
+#### SECCIÓN XIII
+
+POR EXPEDICIÓN DE LICENCIAS, REVALIDACIONES, PERMISOS O AUTORIZACIONES Y CAMBIO DE DOMICILIO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
 
 ###### Artículo 127.
 
@@ -2349,9 +2419,7 @@ El Ayuntamiento podrá cancelar la licencia de establecimientos que expendan beb
 
 Todos los establecimientos que ofrezcan actividades de recreación y esparcimiento con venta de bebidas alcohólicas deberán de contar con un contrato de prestación de servicios de seguridad comercial y de vigilancia, con el número de elementos policiacos que para tal efecto autorice la Dirección General de Seguridad y Tránsito Municipal.
 
-#### SECCIÓN XV
-
-EMISIÓN DE DICTAMENES, AUTORIZACIONES E INSPECCIÓN EN MATERIA AMBIENTAL.
+#### SECCIÓN XIV. DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD EN LA VÍA PÚBLICA O PRIVADA
 
 ###### Artículo 138.
 
@@ -2389,7 +2457,9 @@ II. Los que se deriven de las Entidades Gubernamentales en sus funciones de dere
 
 III. El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que éste se localice en los límites de construcción del mismo, sin ser éste la vía pública.
 
-#### SECCIÓN XVI. SERVICIOS DE PROTECCIÓN CIVIL
+#### SECCIÓN XV
+
+EMISIÓN DE DICTAMENES, AUTORIZACIONES E INSPECCIÓN EN MATERIA AMBIENTAL.
 
 ###### Artículo 145.
 
@@ -2419,7 +2489,7 @@ V. Autorización de sonido en giros comerciales, en los horarios y con el volume
 
 3 veces el valor de la Unidad de Medida y Actualización.
 
-#### SECCIÓN XVII. SERVICIOS DE BOMBEROS
+#### SECCIÓN XVI. SERVICIOS DE PROTECCIÓN CIVIL
 
 ###### Artículo 146.
 
@@ -2815,7 +2885,7 @@ XIV. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
 
 XV. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2023)
 
-#### SECCIÓN XVIII. SERVICIOS DE CONTRALORÍA
+#### SECCIÓN XVII. SERVICIOS DE BOMBEROS
 
 ###### Artículo 147.
 
@@ -3155,7 +3225,7 @@ i) Por el servicio de emergencia contra incendios en terrenos baldíos generados
 
 20.45 veces la Unidad de Medida y Actualización
 
-#### SECCIÓN I. POR RESPONSABILIDAD OBJETIVA
+#### SECCIÓN XVIII. SERVICIOS DE CONTRALORÍA
 
 ###### Artículo 148.
 
@@ -3181,7 +3251,9 @@ IV. Expedición de Constancia de No Situación de Mora
 
 ### CAPÍTULO IV. ACCESORIOS DE LOS DERECHOS
 
-#### SECCIÓN II. EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
+#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES DE DOMINIO PRIVADO
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO V. DERECHOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
@@ -3217,7 +3289,9 @@ Son derechos no comprendidos en la ley de ingresos vigente causadas en ejercicio
 
 ## TÍTULO QUINTO. PRODUCTOS
 
-### CAPÍTULO II. PRODUCTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+### CAPÍTULO I-BIS. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 151.
 
@@ -3227,37 +3301,91 @@ I. Intereses bancarios.
 
 II. Intereses no bancarios.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
+III. Venta de bienes muebles e inmuebles;
 
-#### SECCIÓN IV. VENTA DE FORMATOS OFICIALES
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO II. MULTAS ADMINISTRATIVAS NO FISCALES
+IV. Venta de terrenos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN V. SERVICIO DE FOTOCOPIADO
+V. Explotación de bienes muebles e inmuebles; y
 
-#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 162.
+VI. Enajenación de bienes no sujetos a ser inventariados.
 
-La venta de bienes muebles e inmuebles de dominio privado pertenecientes al Municipio, sólo podrá llevarse a cabo en subasta pública al mejor postor. La postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO I-TER. ENAJENACIÓN DE BIENES NO SUJETOS A SER INVENTARJADOS
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN II. VENTA DE TERRENOS PROPIEDAD DEL MUNICIPIO
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 151
+
+BIS.- La venta de bienes muebles e inmuebles de dominio privado pertenecientes al Municipio, sólo podrá llevarse a cabo en subasta pública al mejor postor. La postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
 
 Sólo se podrán explotar los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado, y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
 
-###### Artículo 163.
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Con los mismos requisitos señalados en el artículo anterior, se podrán dar en pago de crédito u obligaciones a cargo del Municipio los bienes de dominio privado pertenecientes a la Hacienda Pública Municipal.
+###### Artículo 151
+
+TER.- Con los mismos requisitos señalados en el artículo anterior, se podrán dar en pago de crédito u obligaciones a cargo del Municipio los bienes de dominio privado pertenecientes a la Hacienda Pública Municipal.
 
 En todos los casos en los que se autorice la enajenación de bienes del Municipio, y se estipule, entre las condiciones conforme a las cuales ha de llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable, sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
 
-###### Artículo 164.
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que sólo podrá cambiarse mediante autorización del Cabildo.
+###### Artículo 151
 
-### CAPÍTULO III. OTROS APROVECHAMIENTOS
+QUÁTER.- Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que sólo podrá cambiarse mediante autorización del Cabildo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN I. VENTA DE BIENES SUBASTADOS POR EL FISCO MUNICIPAL
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Artículo 151 SEPTIES.- Constituyen el ingreso producto liquidado de los bienes muebles e inmuebles que sean rematados y vendidos de conformidad con la legislación fiscal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 151
+
+QUINQUIES.- Todas las personas con capacidad legal tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno de propiedad Municipal, susceptible de ser transmitido; sí la enajenación es procedente, el valor unitario se aplicará conforme al Avalúo Pericial que en cada caso se practique.
+
+El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la Escritura o Título de Propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 veces el valor de la Unidad de Medida y Actualización por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 151
+
+SIXTIES.- Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco veces el valor de la Unidad de Medida y Actualización.
+
+Aquellas personas a las que se les hubiere expedido el Título de Propiedad y que soliciten la cancelación administrativa de cláusula, con la finalidad de enajenar el terreno, pagarán una cuota de 3 veces la Unidad de Medida y Actualización.
+
+Por expedición de acta aclaratoria por corrección de datos en Título de propiedad, solo si es causa imputable al comprador, se causará una cuota de 3 veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. PRODUCTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+
+#### SECCIÓN II. VENTA DE BIENES MOSTRENCOS
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Artículo 151 OCTIES.- Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
+
+#### SECCIÓN I. POR RESPONSABILIDAD OBJETIVA
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 152.
 
@@ -3265,7 +3393,9 @@ Son productos no comprendidos en la ley de ingresos vigente causadas en ejercici
 
 ## TÍTULO SEXTO. APROVECHAMIENTOS
 
-### CAPÍTULO IV. APROVECHAMIENTOS PATRIMONIALES
+### CAPÍTULO II. MULTAS ADMINISTRATIVAS NO FISCALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 153.
 
@@ -3279,15 +3409,19 @@ III. Donativos, Herencias y Legados.
 
 IV. Otros Aprovechamientos.
 
-V. Venta de bienes inmuebles.
+V. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
-VI. Venta de terrenos.
+VI. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
-VII. Explotación de bienes inmuebles.
+VII. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
-VIII. Enajenación de bienes muebles no sujetos a ser inventariados.
+VIII. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
-### CAPÍTULO V. ACCESORIOS DE APROVECHAMIENTOS
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+IX. Recuperaciones de capital.
+
+### CAPÍTULO III. OTROS APROVECHAMIENTOS
 
 ###### Artículo 154.
 
@@ -3297,15 +3431,9 @@ Las sanciones por desacato al Bando de Policía, Buen Gobierno y Justicia Cívic
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 21 DE DICIEMBRE DE 2023, PÁGINAS DE LA 553 A LA 554.]</small>
 
-### CAPÍTULO VI. APROVECHAMIENTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+### CAPÍTULO IV. APROVECHAMIENTOS PATRIMONIALES
 
-#### SECCIÓN II. VENTA DE TERRENOS PROPIEDAD DEL MUNICIPIO
-
-###### Artículo 165.
-
-Todas las personas con capacidad legal tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno de propiedad Municipal, susceptible de ser transmitido; si la enajenación es procedente, el valor unitario se aplicará conforme al Avalúo Pericial que en cada caso se practique.
-
-El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la Escritura o Título de Propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 veces el valor de la Unidad de Medida y Actualización por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
+#### SECCIÓN II. EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
 
 ###### Artículo 155.
 
@@ -3315,67 +3443,13 @@ Son sujetos de este aprovechamiento, las personas físicas o jurídicas que llev
 
 El pago deberá realizarse conforme al dictamen o presupuesto emitido por la Autoridad Municipal, a más tardar dentro de los quince días siguientes en que se notifique al contribuyente, el resultado de la cuantificación de los daños o deterioros causados.
 
-#### SECCIÓN III. RENTA DE LOCALES POR OCUPACIÓN EN LOS MERCADOS MUNICIPALES
-
-###### Artículo 166.
-
-Por la ocupación de locales, almacenes y/o el uso de cuartos fríos en los mercados municipales, se pagará una renta de acuerdo a la siguiente:
-
-T A R I F A :
-
-I. Accesorios, locales, expendios y puestos, según ubicación y superficie, diariamente por m2
-
-0.02 del valor de la Unidad de Medida y Actualización.
-
-II. Servicio de frigoríficos, diariamente por m2
-
-0.1 del valor de la Unidad de Medida y Actualización.
-
-III. Servicio de almacenamiento, por m2 diariamente
-
-0.02 del valor de la Unidad de Medida y Actualización.
-
-###### Artículo 167.
-
-Por el otorgamiento o traspaso de concesión de un local o establecimiento que presten servicio público de mercados, se pagará la siguiente
-
-TARIFA:
-
-I. Locales de hasta 12 m2 de superficie
-
-260 veces el valor de la Unidad de Medida y Actualización.
-
-II. Locales de 12.1 a 18 m2 de superficie
-
-290 veces el valor de la Unidad de Medida y Actualización.
-
-III. Locales de 18.1 a 24 m2 de superficie
-
-320 veces el valor de la Unidad de Medida y Actualización.
-
-IV. Locales de 24.1 m2 de superficie en adelante
-
-350 veces el valor de la Unidad de Medida y Actualización.
-
-Cuando se realice el otorgamiento de concesión de locales que estén ubicados en el exterior de los mercados públicos municipales se cobrará adicionalmente el 15% de la tarifa respectiva.
-
-###### Artículo 168.
-
-El gasto de la energía eléctrica y fuerza motriz de los locales arrendados en los mercados, será pagado por los locatarios y el proveniente de las áreas comunes será pagado equitativamente por cada uno de los locatarios, y se acumulará al importe del arrendamiento el cual no se considerará cubierto íntegramente si no ha sido solventado lo correspondiente a este consumo.
-
-###### Artículo 169.
-
-Los causantes sujetos a pagos periódicos presentarán, al efectuar cualquier pago, el recibo anterior, y en caso de ser requeridos para ello, hasta los tres últimos recibos.
+#### SECCIÓN III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
 
 ###### Artículo 156.
 
-Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco veces el valor de la Unidad de Medida y Actualización.
+(DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
-Aquellas personas a las que se les hubiere expedido el Título de Propiedad y que soliciten la cancelación administrativa de cláusula, con la finalidad de enajenar el terreno, pagarán una cuota de 3 veces la Unidad de Medida y Actualización.
-
-Por expedición de acta aclaratoria por corrección de datos en Título de propiedad, solo si es causa imputable al comprador, se causará una cuota de 3 veces la Unidad de Medida y Actualización.
-
-#### SECCIÓN IV. VENTA DE BIENES MOSTRENCOS
+#### SECCIÓN IV. VENTA DE FORMATOS OFICIALES
 
 ###### Artículo 157.
 
@@ -3389,9 +3463,19 @@ La erogación por el concepto a que se refiere el párrafo anterior será a carg
 
 Si al mes siguiente de la publicación, no se presenta el propietario del vehículo a pagar o garantizar el crédito fiscal adeudado, se iniciará el procedimiento administrativo de ejecución.
 
+#### SECCIÓN V. SERVICIO DE FOTOCOPIADO
+
 ###### Artículo 159.
 
 Por la expedición de los formatos oficiales para todos los cobros de la Hacienda Municipal, se cobrará una cuota de $2.00
+
+#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
+
+Artículos 162.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 163.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 164.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 ###### Artículo 160.
 
@@ -3409,13 +3493,37 @@ Servicio de fotocopiado de planos del
 
 Los aprovechamientos no especificados en este Capítulo se recaudarán de conformidad con las Leyes, convenios o contratos que los establezcan.
 
-### CAPÍTULO ÚNICO. AGUA POTABLE, DRENAJE, ALCANTARILLADO, SANEAMIENTO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
+### CAPÍTULO V. ACCESORIOS DE APROVECHAMIENTOS
 
-###### Artículo 170.
+#### SECCIÓN II. VENTA DE TERRENOS PROPIEDAD DEL MUNICIPIO
 
-Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
+Artículos 165.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
-### CAPÍTULO ÚNICO. CLASIFICACIÓN
+#### SECCIÓN III. RENTA DE LOCALES POR OCUPACIÓN EN LOS MERCADOS MUNICIPALES
+
+Artículos 166.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 167.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 168.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 169.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+#### SECCIÓN IV. VENTA DE BIENES MOSTRENCOS
+
+Artículos 170.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN V. RECUPERACIONES DE CAPITAL
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 170
+
+BIS.- Son los ingresos que se perciben por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia y otros conceptos análogos.
+
+### CAPÍTULO VI. APROVECHAMIENTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
 ###### Artículo 171.
 
@@ -3441,7 +3549,7 @@ Todos los gastos de ejecución son a cargo del contribuyente y en ningún caso, 
 
 Cuando las diligencias practicadas resultaran improcedentes, porque estuviera cumplida la obligación o ésta hubiese quedado insubsistente por la resolución de autoridad competente, no procederá el cobro de gastos de ejecución.
 
-### CAPÍTULO ÚNICO. CLASIFICACIÓN
+### CAPÍTULO ÚNICO. AGUA POTABLE, DRENAJE, ALCANTARILLADO, SANEAMIENTO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
 ###### Artículo 172.
 
@@ -3449,7 +3557,7 @@ Son los ingresos que se recaudan en el ejercicio corriente, por aprovechamientos
 
 ## TÍTULO SÉPTIMO. INGRESOS POR VENTA DE BIENES, PRESTACION DE SERVICIO Y OTROS INGRESOS
 
-### CAPÍTULO I. PENSIONADOS Y JUBILADOS
+### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
 ###### Artículo 173.
 
@@ -3459,7 +3567,7 @@ En los casos que estos servicios sean prestados directamente por el propio Munic
 
 ## TÍTULO OCTAVO. PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE COLABORACIÓN FISCAL Y FONDOS DISTINTOS DE APORTACIONES
 
-### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
+### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
 ###### Artículo 174.
 
@@ -3477,7 +3585,7 @@ V. Fondos Distintos de Aportaciones.
 
 ## TÍTULO NOVENO. TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES, Y PENSIONES Y JUBILACIONES
 
-### CAPÍTULO III. PERSONAS ADULTAS MAYORES
+### CAPÍTULO I. PENSIONADOS Y JUBILADOS
 
 ###### Artículo 175.
 
@@ -3489,7 +3597,7 @@ II. Subsidios y subvenciones
 
 ## TÍTULO DÉCIMO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS ADULTAS MAYORES
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 176.
 
@@ -3517,7 +3625,7 @@ IV. Recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 Quienes obtengan este beneficio de carácter fiscal, no podrán obtener reducciones o descuentos adicionales que se contemplen en programas generales.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. PERSONAS ADULTAS MAYORES
 
 ###### Artículo 178.
 
@@ -3543,6 +3651,8 @@ IV. Recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 Quienes obtengan este beneficio de carácter fiscal, no podrán obtener reducciones o descuentos adicionales que se contemplen en programas generales.
 
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
 ###### Artículo 181.
 
 Para los efectos de este Capítulo se consideran personas Adultas Mayores aquéllas personas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Baja California Sur, en términos de lo establecido por la Ley de los Derechos de las Personas Adultas Mayores en el Estado de Baja California Sur y que, además, acrediten dicha calidad con la credencial expedida por el Instituto Nacional de las Personas Adultas Mayores, estableciéndose en su favor una reducción que será del 50% en el pago de los conceptos que a continuación se indican:
@@ -3558,6 +3668,8 @@ IV. Recargos y gastos de ejecución originados por la falta de pago de un crédi
 Quienes obtengan este beneficio de carácter fiscal, no podrán obtener reducciones o descuentos adicionales que se contemplen en programas generales.
 
 ## TÍTULO DÉCIMO PRIMERO. ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 182.
 
@@ -3698,3 +3810,15 @@ B.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día 01 de enero de 2024 previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3129 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
