@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2023-12-26"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -53,9 +53,11 @@ La presente Ley es de orden público y de observancia general, la cual tiene por
 
 Aplicabilidad de la Ley
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponderá al Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración y del Servicio de Administración Tributaria del Estado de Guanajuato.
+La aplicación de la presente Ley corresponderá al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y del Servicio de Administración Tributaria del Estado de Guanajuato.
 
 Supletoriedad de la Ley
 
@@ -91,7 +93,9 @@ VI. Remuneración: a la percepción de un trabajador o retribución monetaria o 
 
 VII. SATEG: al Servicio de Administración Tributaria del Estado de Guanajuato; y
 
-VIII. Secretaría: a la Secretaría de Finanzas, Inversión y Administración.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+VIII. Secretaría: a la Secretaría de Finanzas.
 
 ## Título Segundo. Impuestos
 
@@ -177,11 +181,13 @@ En caso de que el prestador de servicios no determine el impuesto a retener, las
 
 Los sujetos obligados deberán entregar a la persona física o moral o unidad económica de que se trate, la constancia de retención correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 Base del impuesto
 
 ###### Artículo 8.
 
-La base de este impuesto es el monto de las erogaciones efectuadas en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, prestado dentro del territorio del estado; los pagos en dinero o en especie realizados a administradores, directores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de cualquier especie o tipo de sociedades o asociaciones; y los pagos a personas físicas por concepto de honorarios, por la prestación de servicios personales independientes o por actividades empresariales, cuando no causen el Impuesto al Valor Agregado por estar asimilados a las remuneraciones por salarios, de conformidad con la Ley del Impuesto Sobre la Renta; así como las erogaciones cuando las personas físicas o morales contraten la prestación de servicios de contribuyentes domiciliados en otra Entidad Federativa, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado, en términos de lo dispuesto por los artículos 6 y 9 de esta Ley.
+La base de este impuesto es el monto de las erogaciones efectuadas en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, prestado dentro del territorio del Estado; los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción, así como los anticipos que reciban los miembros de sociedades y asociaciones civiles; los pagos en dinero o en especie realizados a administradores, directores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de cualquier especie o tipo de sociedades o asociaciones; y los pagos a personas físicas por concepto de honorarios, por la prestación de servicios personales independientes o por actividades empresariales, cuando no causen el Impuesto al Valor Agregado por estar asimilados a las remuneraciones por salarios, de conformidad con la Ley del Impuesto Sobre la Renta; así como las erogaciones cuando las personas físicas o morales contraten la prestación de servicios de contribuyentes domiciliados en otra Entidad Federativa, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado, en términos de lo dispuesto por los artículos 6 y 9 de esta Ley.
 
 Exención del impuesto
 
@@ -363,15 +369,23 @@ II. Los contribuyentes determinarán y enterarán el impuesto en forma mensual a
 
 Los sujetos obligados que opten por el procedimiento señalado en este artículo quedarán exentos del cumplimiento de las obligaciones señaladas en las fracciones II y IV del artículo 12 de la presente Ley.
 
-#### Sección I. Disposiciones Generales
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Objeto y sujeto de los impuestos cedulares
+#### Sección III. Destino del Impuesto Sobre Nóminas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Destino de los recursos
+
+###### Artículo 17-A.
+
+Los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el presente Capítulo, deberán aplicarse preferentemente en los rubros de gasto social de inversión o capital, al saneamiento financiero de la hacienda pública estatal, así como para el fortalecimiento de la seguridad pública. El Ejecutivo del Estado, adicionalmente a la información que rinda en la cuenta pública estatal, remitirá de manera trimestral un informe al Congreso del Estado sobre el uso y aplicación de estos recursos.
 
 ### Capítulo Segundo. Impuestos Cedulares sobre los Ingresos de las Personas Físicas
 
-#### Sección II. Impuesto Cedular por la Prestación de Servicios Profesionales
+#### Sección I. Disposiciones Generales
 
-Objeto y sujetos obligados
+Objeto y sujeto de los impuestos cedulares
 
 ###### Artículo 18.
 
@@ -439,9 +453,9 @@ Los contribuyentes que integran un coordinado conforme a lo dispuesto en el Titu
 
 Para los efectos de esta Ley, el coordinado se considerará como responsable del cumplimiento de las obligaciones fiscales a cargo de sus integrantes, respecto de las operaciones realizadas a través del coordinado, siendo los integrantes responsables solidarios respecto de dicho cumplimiento por la parte que les corresponda.
 
-#### Sección III. Impuesto Cedular por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles
+#### Sección II. Impuesto Cedular por la Prestación de Servicios Profesionales
 
-Sujetos obligados
+Objeto y sujetos obligados
 
 ###### Artículo 22.
 
@@ -479,9 +493,9 @@ Los contribuyentes deberán presentar sus declaraciones mensuales provisionales 
 
 Contra el pago provisional determinado conforme a este artículo, se acreditan los pagos provisionales y, en su caso, el impuesto retenido del mismo ejercicio efectuados con anterioridad.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Cuando los contribuyentes presten servicios profesionales a personas morales residentes en el Estado, éstas deberán retener por concepto del impuesto correspondiente, el total del monto que resulte de aplicar a sus pagos efectuados la tasa prevista en el párrafo segundo del presente artículo, sin deducción alguna.
+Cuando los contribuyentes presten servicios profesionales a personas morales con domicilio fiscal dentro del territorio del estado de Guanajuato, y aquellos tengan domicilio fiscal fuera del mismo, estas deberán retener por concepto del impuesto correspondiente, el total del monto que resulte de aplicar a sus pagos efectuados la tasa prevista en el párrafo segundo del presente artículo, sin deducción alguna.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -529,9 +543,9 @@ V. Presentar declaraciones provisionales y anual; y
 
 VI. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código.
 
-#### Sección IV. Impuesto Cedular por Actividades Empresariales
+#### Sección III. Impuesto Cedular por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles
 
-Objeto y sujetos obligados
+Sujetos obligados
 
 ###### Artículo 28.
 
@@ -593,11 +607,9 @@ V. Presentar declaraciones provisionales y anual; y
 
 VI. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código.
 
-#### Sección IV Bis. Régimen Simplificado de Confianza
+#### Sección IV. Impuesto Cedular por Actividades Empresariales
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Contribuyentes sujetos del Régimen
+Objeto y sujetos obligados
 
 ###### Artículo 32.
 
@@ -737,9 +749,11 @@ El SATEG podrá incorporar al Registro Estatal de Contribuyentes, a los sujetos 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### Sección V. Impuesto Cedular por Enajenación de Bienes Inmuebles
+#### Sección IV Bis. Régimen Simplificado de Confianza
 
-Objeto y sujetos del impuesto
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Contribuyentes sujetos del Régimen
 
 ###### Artículo 37-C.
 
@@ -853,11 +867,9 @@ El SATEG podrá actualizar el régimen a los contribuyentes ante el Registro Est
 
 El SATEG podrá suspender ante el Registro Estatal de Contribuyentes a los contribuyentes de este régimen, cuando en el Registro Federal de Contribuyentes cuenten con el mismo estatus y no hayan presentado el aviso correspondiente ante el Registro Estatal de Contribuyentes. Sin perjuicio del ejercicio de las facultades de comprobación que lleve a cabo la autoridad, así como la imposición de sanciones.
 
-#### Sección I. Disposiciones Generales
+#### Sección V. Impuesto Cedular por Enajenación de Bienes Inmuebles
 
-Objetivo y finalidad de los impuestos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+Objeto y sujetos del impuesto
 
 ###### Artículo 38.
 
@@ -937,11 +949,17 @@ Práctica de avalúos
 
 Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o persona con Cédula Profesional de especialista en valuación o maestría en valuación debidamente registrada ante la autoridad oficial. El SATEG estará facultado para ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
 
-#### Sección II. Impuesto para Remediación Ambiental por la emisión de Gases Contaminantes
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+#### Sección VI. Destino de los Impuestos Cedulares sobre Ingresos de las Personas Físicas
 
-Objeto del impuesto
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Destino de los recursos
+
+###### Artículo 42-A.
+
+Los ingresos que se obtengan por la recaudación de los Impuestos Cedulares sobre los Ingresos de las Personas Físicas a que hace referencia el presente Capítulo, deberán aplicarse preferentemente en los rubros de gasto social de inversión o capital, al saneamiento financiero de la hacienda pública estatal, así como para el fortalecimiento de la seguridad pública. El Ejecutivo del Estado, adicionalmente a la información que rinda en la cuenta pública estatal, remitirá de manera trimestral un informe al Congreso del Estado sobre el uso y aplicación de estos recursos.
 
 ### Capítulo Tercero. Impuesto por Adquisición de Vehículos de Motor Usados
 
@@ -985,13 +1003,13 @@ Condición para registro o inscripción, baja o modificación en el padrón vehi
 
 La autoridad fiscal correspondiente no autorizará ningún registro o inscripción, baja o modificación en el padrón vehicular, cuando no se hubiera cubierto previamente este impuesto.
 
-### Capítulo Cuarto. Impuesto sobre Loterías, Rifas, Sorteos y Concursos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Objeto del impuesto
+### Capítulo Cuarto. Impuestos sobre Loterías, Rifas, Sorteos y Concursos y Juegos y Sorteos con Apuestas
 
-#### Sección III. Impuesto para Remediación Ambiental por la Emisión de Contaminantes al Suelo, Subsuelo y Agua
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+#### Sección I. Impuesto sobre Loterías, Rifas, Sorteos y Concursos
 
 Objeto del impuesto
 
@@ -1015,11 +1033,129 @@ Este impuesto se determinará de acuerdo con la tasa del 6 por ciento, sobre la 
 
 Los organismos descentralizados, sus sucursales o expendios autorizados, a que se refiere el artículo 49 de esta Ley, retendrán el impuesto causado y lo enterarán al SATEG, mediante declaración mensual en el formato autorizado, que deberán presentar dentro de los quince días del mes siguiente a aquél al que corresponda el pago en la que se señalarán los datos relativos a la identificación de los premios pagados y el impuesto retenido en el territorio del Estado.
 
-#### Sección IV. Impuesto para Remediación Ambiental por el Depósito de Residuos
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+#### Sección II. Impuesto sobre Juegos y Sorteos con Apuestas
 
-Objeto del impuesto
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Objeto del Impuesto
+
+###### Artículo 51-A.
+
+Son objeto de este impuesto:
+
+I. Las erogaciones que realicen las personas físicas o morales dentro del territorio del Estado que les permitan participar en juegos y sorteos con apuestas.
+
+Se incluyen como erogaciones aquellas que le permitan participar en juegos y sorteos con apuestas, las cantidades propias o aquellas obtenidas del premio, que entreguen a los operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones o cualquier medio en el que se realicen los juegos y sorteos con apuestas, cualquiera que sea el nombre con el que se les designe; y
+
+II. Los premios que obtengan las personas físicas o morales dentro del territorio del Estado derivados de la celebración de juegos y sorteos con apuestas, independientemente del lugar o medio donde se celebren.
+
+Para los efectos del presente artículo, se incluyen dentro de los juegos y sorteos con apuestas independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos y sorteos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético, en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Quedan comprendidos en los juegos y sorteos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, que se realicen a través de sitios de internet o aplicaciones tecnológicas autorizados por autoridad competente para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+Quedan comprendidos en los juegos y sorteos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas derivados de cualquier actividad.
+
+También, los establecimientos o agencias que reciban información con fines de lucro en los que se apuesten sobre carreras de caballos, galgos o cualquier otra especie para tal fin en cualquier evento, en los términos de la Ley Federal de Juegos y Sorteos o la que regule la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Sujetos obligados
+
+###### Artículo 51-B.
+
+Son sujetos de este impuesto:
+
+I. Las personas físicas o morales que realicen erogaciones dentro del territorio del Estado que les permitan participar en juegos y sorteos con apuestas; y
+
+II. Las personas físicas o morales que obtengan ingresos por premios dentro del territorio del estado derivados de la celebración de juegos y sorteos con apuestas, independientemente del lugar o medio donde se celebren.
+
+Para efectos de este impuesto, se entenderá como operador de los establecimientos, la persona física o moral que reciba las erogaciones de los sujetos obligados.
+
+Son responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y sorteos con apuestas o en los que se instalen máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+a) Las que organicen, administren, exploten o patrocinen los juegos o sorteos referidos en el objeto del impuesto;
+
+b) Las personas arrendatarias o legítimas poseedoras de los establecimientos en los que se realicen los juegos o sorteos objeto del impuesto;
+
+c) Las que reciban cantidades a fin de permitir a terceros la participación en los juegos y sorteos objeto del impuesto; y
+
+d) Las personas arrendatarias o legítimas poseedoras de las máquinas de juegos objeto del impuesto.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Base del impuesto
+
+###### Artículo 51-C.
+
+La base del impuesto se constituirá conforme a lo siguiente:
+
+I. Cuando se trate de las erogaciones, será el monto de aquellas efectuadas por la persona que le permitan participar en juegos y sorteos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio.
+
+Las erogaciones referidas en el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos y sorteos con apuestas a que se refiere el objeto del impuesto, o el uso o acceso a las máquinas a que se refiere el objeto del impuesto, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior; y
+
+II. Cuando se trate de ingresos por premios, se considerará el valor total del permio (sic) correspondiente al de cada boleto, billete o cualquier otro medio electrónico o digital, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Determinación y entero del impuesto
+
+###### Artículo 51-D.
+
+Este impuesto se determinará de acuerdo con las siguientes tasas:
+
+I. 10 por ciento sobre las erogaciones que realicen las personas físicas o morales dentro del territorio del Estado que les permitan participar en juegos y sorteos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio electrónico o digital.
+
+El operador del establecimiento en el que se realicen los juegos y sorteos con apuestas o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos y sorteos con apuestas, al momento de recibir el pago correspondiente, y deberá enterarlo a la Secretaría mediante declaración, a más tardar el día veintidós del mes calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que este pueda recaudar el impuesto.
+
+El impuesto por erogaciones se causará en el momento en que el sujeto pague al operador del establecimiento los montos que le permitan participar en dichos juegos y sorteos con apuestas.
+
+Los operadores de los establecimientos en los que se realicen los juegos y sorteos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere esta fracción, están obligados a expedir comprobantes por cada erogación, en la que conste expresamente y por separado el importe recaudado; y
+
+II. 6 por ciento, sobre el monto de la percepción de premios dentro del territorio del estado derivados de la celebración de juegos y sorteos con apuestas, independientemente del lugar o medio donde se celebren.
+
+Para efectos de lo establecido en esta fracción, el impuesto será retenido por las personas que paguen los premios, quienes deberán enterarlo mediante declaración a la Secretaría, a más tardar el día veintidós del mes siguiente al que se realice la retención.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Obligaciones de los contribuyentes
+
+###### Artículo 51-E.
+
+Los operadores a que se refiere este Capítulo tendrán las siguientes obligaciones:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, ante la autoridad fiscal mediante el aviso correspondiente.
+
+El aviso a que se refiere esta fracción deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado;
+
+II. Presentar declaraciones mensuales definitivas;
+
+III. Poner a disposición del SATEG, para los efectos del ejercicio de sus respectivas facultades, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto;
+
+IV. La información de las personas físicas o morales que realicen las erogaciones a que se refiere este impuesto, y de aquellas que recibieron premios derivados de la participación en juegos y sorteos con apuestas; y
+
+V. Llevar la contabilidad, de conformidad con el Código.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Determinación de presuntiva
+
+###### Artículo 51-F.
+
+El SATEG podrá determinar presuntivamente este impuesto, cuando se presente cualquiera de los siguientes supuestos:
+
+I. Cuando no se realice el entero de este impuesto;
+
+II. Cuando los operadores de los establecimientos no lleven los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de la contabilidad a que legalmente están obligados;
+
+III. Cuando los operadores de los establecimientos no registren en su contabilidad las erogaciones recibidas o los premios que entregue a los sujetos obligados, cuando estos se encuentren gravados por este impuesto; o
+
+IV. Cuando los operadores de los establecimientos imposibiliten, por cualquier medio, el conocimiento de las operaciones que realicen, cuando las mismas sean objeto de este impuesto.
 
 ### Capítulo Quinto. Impuesto por Servicios de Hospedaje
 
@@ -1159,21 +1295,27 @@ II. No proporcionen a las autoridades fiscales la información, contabilidad, co
 
 III. Imposibiliten, por cualquier medio, el conocimiento de las operaciones que realicen, cuando las mismas sean objeto de este impuesto.
 
-Distribución de los ingresos del Impuesto por Servicios de Hospedaje
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Destino de los ingresos del impuesto por servicios de hospedaje
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 60.
 
-Del total de los ingresos obtenidos de la recaudación de este impuesto, se destinarán de la siguiente forma:
+El total de los ingresos obtenidos de la recaudación de este impuesto, se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, a la inversión y desarrollo en paraderos turísticos, así como la participación del Estado en los fondos concurrentes con los gobiernos federal y municipales, y el sector privado en esta materia y se destinarán por conducto de la dependencia competente.
 
-I. Cuarenta y cinco por ciento a la constitución de un fondo de promoción y difusión para el turismo del Estado, a la inversión y desarrollo en paraderos turísticos públicos, así como la participación del Estado en los fondos concurrentes con los gobiernos federal y municipales y el sector privado en esta materia y se destinarán por conducto de la dependencia respectiva.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-La Secretaría asignará a la dependencia correspondiente los ingresos a que hace referencia la fracción I del presente artículo, dentro de los treinta días siguientes al mes en que se deba pagar este impuesto;
+La Secretaría, asignará a la dependencia correspondiente los ingresos a que hace referencia el párrafo anterior, dentro de los treinta días siguientes al mes en que se deba pagar este impuesto.
 
-II. Treinta por ciento a la Secretaría para los programas y proyectos que contemple el Ejecutivo del Estado para promoción turística, así como para los gastos de administración integral del impuesto; y
+I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
 
-III. Veinticinco por ciento para los gastos relacionados con la provisión de servicios derivados de la materia turística de cada Municipio, siempre y cuando tengan celebrado y vigente un convenio de colaboración con el Estado.
+II. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
 
-Para efectos de la fracción anterior, la distribución se hará en proporción a la recaudación que registre cada Municipio, de no tener convenio celebrado, los recursos serán destinados en términos de la fracción II del presente artículo.
+III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en los términos de esta Ley.
 
@@ -1333,9 +1475,9 @@ Determinación del impuesto
 
 El impuesto Sobre Tenencia o Uso de Vehículos se calculará como a continuación se indica:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Todos los vehículos, incluidas motocicletas contarán con un monto exento de $500,000.00. Cuando el valor total del vehículo sea superior al monto exento, el impuesto causado será la cantidad que resulte de disminuir a dicho valor el monto exento y aplicar al excedente la tasa que le corresponda conforme a la siguiente tabla:
+Todos los vehículos, incluidas motocicletas contarán con un monto exento de $450,000.00. Cuando el valor total del vehículo sea superior al monto exento, el impuesto causado será la cantidad que resulte de disminuir a dicho valor el monto exento y aplicar al excedente la tasa que le corresponda conforme a la siguiente tabla:
 
 Límite inferior Límite superior Tasa para aplicarse
 
@@ -1349,13 +1491,13 @@ vehículo el el monto exento
 
 monto exento
 
-$0.01 $500,000.00 3 por ciento
+$0.01 $450,000.00 3 por ciento
 
-$500,000.01 $1,000,000.00 4 por ciento
+$450,000.01 $900,000.00 4 por ciento
 
-$1,000,000.01 $1,500,000.00 5 por ciento
+$900,000.01 $1,350,000.00 5 por ciento
 
-$l,500,000.01 En adelante 6 por ciento
+$1,350,000.01 En adelante 6 por ciento
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -1465,23 +1607,31 @@ V. Conservar la contabilidad y los comprobantes de los asientos respectivos, as�
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-#### Sección V. Estímulos y Destino de los Impuestos Ecológicos de Remediación Ambiental
+#### Sección I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+Objetivo y finalidad de los impuestos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 78-A.
 
 El objetivo y finalidad de estos impuestos es que la Hacienda Pública del Estado cuente con recursos que le permitan atender su obligación a la protección de la salud y a un medio ambiente sano para la población, de conformidad con lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 1, décimo tercer párrafo de la Constitución Política para el Estado de Guanajuato, a través del establecimiento de figuras impositivas que al mismo tiempo incentiven cambios en la conducta de los sujetos obligados para que favorezcan al medio ambiente.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 Supletoriedad
 
 ###### Artículo 78-B.
 
-Para efectos del presente Capítulo serán aplicables de manera supletoria la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y demás disposiciones vigentes en el Estado en materia medioambiental, que no sean contrarias a la naturaleza del derecho fiscal.
+Para efectos del presente Capítulo serán aplicables de manera supletoria la normativa y demás disposiciones vigentes en materia ambiental de competencia federal, estatal o municipal, que no sean contrarias a la naturaleza del derecho fiscal.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+#### Sección II. Impuesto para Remediación Ambiental por la emisión de Gases Contaminantes
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Objeto del impuesto
 
 ###### Artículo 78-C.
 
@@ -1505,9 +1655,11 @@ También quedan comprendidos como sujetos de este impuesto, la Federación, el E
 
 Base del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 78-E.
 
-La base de este impuesto son las emisiones directas de los gases de efecto invernadero establecidos en el presente artículo, expresadas en toneladas, fracción o ambas en su caso, generadas en las fuentes fijas por cada ejercicio fiscal, las cuales se calcularán de acuerdo con las metodologías establecidas por la autoridad competente en materia ambiental para el llenado de la Cédula de Operación Anual estatal o federal según corresponda.
+La base de este impuesto son las emisiones directas de los gases de efecto invernadero establecidos en el presente artículo, expresadas en toneladas, fracción o ambas en su caso, generadas en las fuentes fijas por cada ejercicio fiscal, las cuales se calcularán de acuerdo con las metodologías establecidas por la autoridad competente en materia ambiental para el llenado de la Cédula de Operación Anual.
 
 Para la determinación de la base, el contribuyente deberá obtener el bióxido de carbono equivalente en toneladas, para lo cual, realizará la conversión de los gases establecidos en el artículo 78-C, párrafo segundo de esta Ley, multiplicando la tonelada, fracción o ambas en su caso del tipo de gas emitido por el factor al que corresponda conforme a la siguiente tabla:
 
@@ -1551,15 +1703,13 @@ SF6 23,500
 
 Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 Causación y determinación del impuesto
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
-
 ###### Artículo 78-F.
 
-El impuesto se causará al momento de que los sujetos obligados emitan a la atmósfera los gases de efecto invernadero referidos en la tabla del artículo 78-E de esta Ley y se pagará una cuota de 45 pesos por cada tonelada emitida de bióxido de carbono equivalente, una vez aplicado el mecanismo de conversión previsto en el artículo aludido.
+El impuesto se causará al momento de que los sujetos obligados emitan a la atmósfera los gases de efecto invernadero referidos en la tabla del artículo 78-E de esta Ley y se pagará una cuota de 100 pesos por cada tonelada emitida de bióxido de carbono equivalente, una vez aplicado el mecanismo de conversión previsto en el artículo aludido.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1575,9 +1725,13 @@ I. Al total de toneladas emitidas de bióxido de carbono equivalente en término
 
 La metodología utilizada para la estimación de los gases de efecto invernadero que conformen el cálculo del impuesto en términos de esta fracción deberá ser la misma durante todo el ejercicio; o
 
-II. Al total de toneladas emitidas de gases de efecto invernadero reportadas en la última Cédula de Operación Anual del ámbito estatal o federal presentada, se le aplicará el mecanismo de conversión previsto en el artículo 78-E de esta Ley; el bióxido de carbono equivalente que se obtenga se multiplicará por el 80 por ciento; el resultado se dividirá entre doce meses; y a la cantidad que se obtenga, se le aplicará la cuota establecida en el artículo 78-F de esta Ley.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Los contribuyentes presentarán declaración anual en agosto del año siguiente al que corresponda la declaración, manifestando el número total de emisiones de bióxido de carbono equivalente que correspondan a las emisiones de gases de efecto invernadero reportadas en la Cédula de Operación Anual del ámbito estatal o federal del año que se declara, y se multiplicará por la cuota referida en el artículo 78-F. Al resultado se le acreditarán los pagos provisionales mensuales efectuados de este impuesto; en el supuesto de que resulte impuesto a cargo, se realizará el entero correspondiente.
+II. Al total de toneladas emitidas de gases de efecto invernadero reportadas en la última Cédula de Operación Anual, del orden de gobierno competente, se le aplicará el mecanismo de conversión previsto en el artículo 78-E de esta Ley; el bióxido de carbono equivalente que se obtenga se multiplicará por el 80 por ciento; el resultado se dividirá entre doce meses; y a la cantidad que se obtenga, se le aplicará la cuota establecida en el artículo 78-F de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Los contribuyentes presentarán declaración anual en agosto del año siguiente al que corresponda la declaración, manifestando el número total de emisiones de bióxido de carbono equivalente que correspondan a las emisiones de gases de efecto invernadero reportadas en la Cédula de Operación Anual del año que se declara, del orden de gobierno competente, y se multiplicará por la cuota referida en el artículo 78-F de esta Ley. Al resultado se le acreditarán los pagos provisionales mensuales efectuados de este impuesto; en el supuesto de que resulte impuesto a cargo, se realizará el entero correspondiente.
 
 Los contribuyentes no deberán presentar declaraciones provisionales en el ejercicio de iniciación de operaciones, el impuesto se pagará hasta la presentación de la declaración anual del ejercicio que corresponda.
 
@@ -1608,6 +1762,12 @@ IV. Poner a disposición de las autoridades, para los efectos del ejercicio de s
 (DEROGADO, P.O. 31 DE MAYO DE 2023)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+#### Sección III. Impuesto para Remediación Ambiental por la Emisión de Contaminantes al Suelo, Subsuelo y Agua
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Objeto del impuesto
 
 ###### Artículo 78-J.
 
@@ -1861,13 +2021,13 @@ Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanci
 
 Con el objetivo de corroborar la información de las declaraciones en la determinación de la base, las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 Estimación presuntiva
 
 ###### Artículo 78-O.
 
-Para efectos del momento de causación y pago de este impuesto, las autoridades fiscales podrán estimar presuntivamente la causación y el pago del mismo, salvo prueba en contrario, a partir de los libros y registros sea cual fuera su denominación, que los sujetos obligados a su pago deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente; y, a falta de estos, a partir de las manifestaciones de impacto ambiental, cédulas de operación anual y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a presentar ante la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Ordenamiento Territorial, así como todos aquellos entes públicos estatales o municipales competentes en la materia, correspondiente al último ejercicio fiscal que se hubieran presentado.
+Para efectos del momento de causación y pago de este impuesto, las autoridades fiscales podrán estimar presuntivamente la causación y el pago del mismo, salvo prueba en contrario, a partir de los libros y registros sea cual fuera su denominación, que los sujetos obligados a su pago deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente; y, a falta de estos, a partir de las manifestaciones de impacto ambiental, cédulas de operación anual y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a presentar ante la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría del Agua y Medio Ambiente, así como todos aquellos entes públicos estatales o municipales competentes en la materia, correspondiente al último ejercicio fiscal que se hubieran presentado.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1881,7 +2041,9 @@ I. Inscribirse en el Registro Estatal de Contribuyentes dentro de los diez días
 
 El aviso a que se refiere esta fracción deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado;
 
-II. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino, así como las cantidades que en estado físico sólido, semisólido o líquido se emitieron al suelo, subsuelo o agua; el cual estará a disposición de la Secretaría de Medio Ambiente y Ordenamiento Territorial, la Comisión Estatal del Agua de Guanajuato y el SATEG, de conformidad con sus atribuciones;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+II. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino, así como las cantidades que en estado físico sólido, semisólido o líquido se emitieron al suelo, subsuelo o agua; el cual estará a disposición de la Secretaría del Agua y Medio Ambiente y el SATEG, de conformidad con sus atribuciones;
 
 III. Realizar las pruebas mensuales de muestreo previstas en las Normas Oficiales Mexicanas señaladas en esta Sección;
 
@@ -1890,6 +2052,12 @@ IV. Presentar declaraciones provisionales mensuales y declaración anual; y
 V. Poner a disposición de las autoridades, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)</small>
+
+#### Sección IV. Impuesto para Remediación Ambiental por el Depósito de Residuos
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Objeto del impuesto
 
 ###### Artículo 78-Q.
 
@@ -2015,6 +2183,10 @@ VII. Poner a disposición de las autoridades, para los efectos del ejercicio de 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
+#### Sección V. Estímulos y Destino de los Impuestos Ecológicos de Remediación Ambiental
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 78-Y.
 
 Para efectos de lo establecido en la Sección III de este Capítulo, cuando exista una disminución de los contaminantes objeto de los impuestos y esta sea equivalente a un 20 por ciento o más entre un año fiscal y otro, se efectuará una reducción en un 20 por ciento del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
@@ -2023,63 +2195,25 @@ El SATEG emitirá las bases para acceder al esquema de reducción establecido en
 
 Para efectos de lo establecido en la Sección II de este Capítulo, los contribuyentes podrán ser sujetos de alguno de los estímulos siguientes, según corresponda:
 
-I. Los sujetos obligados del impuesto contenido en la Sección II del presente Capítulo, no pagarán el impuesto por las primeras 50 toneladas de emisiones de bióxido de carbono equivalente generadas en un ejercicio.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Cuando se superen las 50 toneladas previamente aludidas, el impuesto se pagará por cada tonelada excedente.
+I. Los sujetos obligados del impuesto contenido en la Sección II del presente Capítulo, no pagarán el impuesto por las primeras 35 toneladas de emisiones de bióxido de carbono equivalente generadas en un ejercicio.
 
-II. Los sujetos obligados del impuesto contenido en la Sección II del presente Capítulo podrán acceder a un máximo de 25 por ciento de reducción de la base del impuesto.
+Cuando se superen las 35 toneladas previamente aludidas, el impuesto se pagará por cada tonelada excedente.
+
+II. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+III. Los contribuyentes participantes del Sistema de Comercio de Emisiones podrán acceder a un 25 por ciento de reducción de la cuota prevista en el artículo 78-F de la presente Ley por cada tonelada emitida de bióxido de carbono equivalente, en los términos de lo previsto en el artículo 78-G.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 Para acceder al esquema de reducción establecido en la presente fracción, el SATEG emitirá disposiciones de carácter general.
 
-III. Los contribuyentes participantes del Sistema de Comercio de Emisiones podrán optar por pagar el impuesto contenido en la Sección II del presente Capítulo, en términos de lo siguiente:
+a) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
-a) En los términos que establece el artículo 78-G y las fracciones I y II de este artículo; o
-
-b) Realizando pagos provisionales mensuales del mes a declarar considerando el total de toneladas emitidas de bióxido de carbono equivalente que se obtengan a través de metodologías establecidas por la autoridad competente para el llenado de la Cédula de Operación Anual estatal o federal según corresponda del mes que se declara, y al resultado se le aplicará la cuota de acuerdo con la siguiente tabla:
-
-Límite inferior Límite superior Impuesto a pagar
-
-Ton bióxido de Ton bióxido de
-
-carbono equivalente carbono equivalente
-
-8,333 20 833 $83,333
-
-20,834 83,333 $208,333
-
-83 334 166,667 $833,333
-
-166,668 416,667 $1,666,667
-
-416 668 en adelante $4,166,667
-
-Cuando los contribuyentes participantes del Sistema de Comercio de Emisiones generen menos de 8,333 toneladas de bióxido de carbono equivalente del mes que se declara, pagarán el impuesto conforme al primer rango de la tabla que antecede.
-
-Los contribuyentes presentarán declaración anual en agosto del año siguiente al que corresponda la declaración, manifestando el número total de emisiones de bióxido de carbono equivalente que correspondan a las emisiones de gases de efecto invernadero reportadas en la Cédula de Operación Anual del ámbito estatal o federal del año que se declara, y se pagará de acuerdo con la siguiente tabla:
-
-Límite inferior Límite superior Impuesto a pagar
-
-Ton bióxido de Ton bióxido de carbono
-
-Carbono equivalente
-
-equivalente
-
-100,000 250,000 $1,000,000
-
-250,001 1,000,000 $2,500,000
-
-1,000,001 2,000,000 $10,000,000
-
-2,000,001 5,000,000 $20,000,000
-
-5,000,001 En adelante $50,000,000
-
-Cuando los contribuyentes participantes del Sistema de Comercio de Emisiones generen menos de 100,000 toneladas de bióxido de carbono equivalente en un ejercicio fiscal, pagarán el impuesto conforme al primer rango de la tabla que antecede.
-
-En caso de que se opte por pagar el impuesto en términos del esquema establecido en el inciso b de la presente fracción, no podrán aplicar los estímulos de las fracciones I y II de este artículo.
-
-Cuando se haya optado por algún esquema de pago de los descritos en el párrafo primero de esta fracción, permanecerán en el mismo por todo el ejercicio fiscal, con la posibilidad de cambiar de esquema en el ejercicio fiscal siguiente, de conformidad con las disposiciones de carácter general que al efecto emita el SATEG.
+b) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2024)
 
 Los sujetos obligados del impuesto establecido en la Sección IV de este Capítulo, podrán acceder a un máximo de reducción de la base del impuesto del 25 por ciento.
 
@@ -2093,15 +2227,23 @@ Destino de los recursos
 
 Los ingresos que se obtengan de la recaudación de los impuestos establecidos en este Capítulo se destinarán prioritariamente, a las áreas de mayor afectación ambiental y de rezago económico e incluirán las de coinversión con el Gobierno Federal o algún otro mecanismo financiero que permita potenciar estos recursos, en los rubros siguientes:
 
-I. Obras, infraestructura y operación de los servicios de salud;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-II. Obras, infraestructura, mejoramiento, restauración o remediación del equilibrio ecológico;
+I. Programas y proyectos ambientales;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+II. Obras, infraestructura y proyectos de inversión para el mejoramiento, restauración o remediación del equilibrio ecológico y protección al ambiente;
 
 III. Acciones estatales de inspección y vigilancia de fuentes fijas de contaminantes y de cumplimiento de las disposiciones ambientales aplicables;
 
-IV. Desastres naturales, contingencias ambientales, sequías, ciclones, sismos, entre otros;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-V. Generación de proyectos para desarrollo sustentable y sostenible;
+IV. Atención a desastres naturales, sequías, acciones relacionadas con la adaptación y mitigación ante el cambio climático, así como de contingencias ambientales;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+V. Generación y ejecución de proyectos para desarrollo sustentable y sostenible;
 
 VI. Vivienda, para reubicación de los habitantes de zonas de riesgo; y
 
@@ -2781,6 +2923,12 @@ P.O. 30 DE DICIEMBRE DE 2022.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
+P.O. 26 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 296, POR EL QUE SE REFORMAN LOS ARTÍCULOS 78-A Y 87, FRACCIÓN II DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
 P.O. 31 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 204, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
@@ -2849,7 +2997,9 @@ por gas natural
 
 2030 75
 
-Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley.
+> <small>(REFORMADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LEGISLATIVO 52, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley. Para el caso de los contribuyentes participantes del Sistema de Comercio de Emisiones se aplicará la cuota que resulte de la reducción establecida en la fracción III del artículo 78-Y de esta Ley.
 
 Reducción de la base del impuesto por la emisión de gases contaminantes
 
@@ -2871,7 +3021,9 @@ del impuesto
 
 2027 20
 
-Reducción de la base del impuesto por el depósito de residuos Artículo Sexto. Para efectos de la reducción a que hace referencia el artículo 78- Y, penúltimo párrafo, será progresivamente, conforme a la siguiente tabla:
+Reducción de la base del impuesto por el depósito de residuos
+
+Artículo Sexto. Para efectos de la reducción a que hace referencia el artículo 78- Y, penúltimo párrafo, será progresivamente, conforme a la siguiente tabla:
 
 Ejercicio fiscal Porcentaje máximo de
 
@@ -2889,7 +3041,9 @@ del impuesto
 
 2027 20
 
-Contribuyentes participantes del Sistema de Comercio de Emisiones Artículo Séptimo. Los participantes del Sistema de Comercio de Emisiones, que opten por pagar el impuesto correspondiente al ejercicio fiscal de 2023 bajo el esquema de la tabla establecida en el artículo 78-Y, fracción III de esta Ley, deberán aplicar para la declaración anual del impuesto la siguiente tabla:
+Contribuyentes participantes del Sistema de Comercio de Emisiones
+
+Artículo Séptimo. Los participantes del Sistema de Comercio de Emisiones, que opten por pagar el impuesto correspondiente al ejercicio fiscal de 2023 bajo el esquema de la tabla establecida en el artículo 78-Y, fracción III de esta Ley, deberán aplicar para la declaración anual del impuesto la siguiente tabla:
 
 Límite inferior Ton Límite superior Impuesto a
 
@@ -2915,8 +3069,56 @@ Inicio de vigencia de las obligaciones del impuesto por la emisión de contamina
 
 Artículo Octavo. Las obligaciones establecidas en la Sección III, Capítulo Octavo, Título Segundo, relativas al Impuesto para Remediación Ambiental por la Emisión de Contaminantes al Suelo, Subsuelo y Agua se originarán a partir del 1 de abril de 2027.
 
-P.O. 26 DE DICIEMBRE DE 2023.
+P.O. 27 DE DICIEMBRE DE 2024.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 296, POR EL QUE SE REFORMAN LOS ARTÍCULOS 78-A Y 87, FRACCIÓN II DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 52, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO”.]
 
-Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2025, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Las disposiciones contenidas en la Sección II denominada «Impuesto sobre Juegos y Sorteos con Apuestas», integrada con los artículos 51-A, 51-B, 51-C 51-D 51-E y 51-F del Capítulo Cuarto del TÍTULO SEGUNDO; entrarán en vigor el 1 de abril de 2025.
+
+Por su parte, los sujetos obligados del impuesto establecido en el Título Segundo, Capítulo Octavo, Sección II del presente Decreto, presentarán las declaraciones mensuales y, en su caso, en entero del impuesto que resulte a cargo, correspondiente a enero y febrero del ejercicio fiscal 2025, a partir del 1 y hasta el 22 de abril del mismo ejercicio. Dentro del periodo señalado, en caso de que resultara impuesto a cargo de los contribuyentes, este no será objeto de actualización y causación de accesorios.
+
+Reforma del Artículo Cuarto Transitorio del Decreto Legislativo 204
+
+Artículo Segundo. Se reforma el Artículo Cuarto Transitorio del Decreto Legislativo 204, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, tercera parte, de fecha 31 de mayo de 2023, mediante el cual se reformaron y adicionaron diversas disposiciones de la Ley de Hacienda para el Estado de Guanajuato, para quedar en los siguientes términos:
+
+«Estímulo en la…
+
+Artículo Cuarto. A los sujetos…:
+
+... ...
+
+... ...
+
+... ...
+
+... ...
+
+... ...
+
+... ...
+
+... ...
+
+... ...
+
+... ...
+
+Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley. Para el caso de los contribuyentes participantes del Sistema de Comercio de Emisiones se aplicará la cuota que resulte de la reducción establecida en la fracción III del artículo 78-Y de esta Ley.»
+
+Derogación
+
+Artículo Tercero. Se derogan los Artículos Quinto y Séptimo Transitorios del Decreto Legislativo 204, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, tercera parte, de fecha 31 de mayo de 2023, mediante el cual se reformaron y adicionaron diversas disposiciones de la Ley de Hacienda para el Estado de Guanajuato.
+
+Determinación y entero del impuesto de juegos y sorteos con apuestas
+
+Artículo Cuarto. La determinación y entero del impuesto al que hace referencia el artículo 51 D del presente Decreto, correspondientes a los meses de abril a junio del ejercicio fiscal 2025, se realizarán a partir del 1 y hasta el 22 de julio del mismo ejercicio. En caso de que, dentro del periodo señalado, resultara impuesto a cargo de los contribuyentes, este no será objeto de actualización y causación de accesorios.
+
+Plazo para obtener los incentivos pendientes
+
+Artículo Quinto. Los municipios que tengan suscrito convenio con el Gobierno del estado de Guanajuato, respecto a los incentivos de la recaudación del Impuesto por Servicios de Hospedaje, tendrán un plazo no mayor a 180 días posteriores a la entrada en vigor del presente Decreto, a fin de realizar las gestiones necesarias ante el Servicio de Administración Tributaria del Estado de Guanajuato, para obtener los incentivos derivados de este impuesto, previo cumplimiento a las acciones que dicho instrumento señale.
+
+En caso de que el municipio no realice las gestiones dentro del periodo previsto en el párrafo que antecede, perderá el derecho a percibir los incentivos, por lo que dichos recursos se destinarán al fondo al que hace referencia el artículo 60 de la Ley de Hacienda para el Estado de Guanajuato.
