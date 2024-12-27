@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-vigilancia-de-medidas-cautelares-y-de-la-suspension-1089
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-06"
-last_updated: "2015-07-06"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE VIGILANCIA DE MEDIDAS CAUTELARES Y DE LA SUSPENSION CONDICIONAL DEL PROCESO EN EL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE VIGILANCIA DE MEDIDAS CAUTELARES Y DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO EN EL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS SIGUIENTES A LOS DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 6 de 2015.
 
@@ -55,7 +55,9 @@ Las disposiciones comprendidas en esta Ley son de orden público, interés socia
 
 El objeto de la Ley es regular la ejecución, control y vigilancia de las medidas cautelares del proceso penal y las condiciones de la suspensión condicional del proceso, así como la coordinación entre autoridades judiciales y administrativas, para evitar la materialización de los riesgos que sustentan aquéllas, a través de:
 
-I. Evaluar el nivel de riesgo que un imputado representa al seguir en libertad en un proceso penal, a fin de determinar la idoneidad de las medidas cautelares proporcionadas al caso, en concordancia con lo previsto en el Código de Procedimientos Penales para el Estado de México.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+I. Evaluar el nivel de riesgo que un imputado representa al seguir en libertad en un proceso penal, a fin de determinar la idoneidad de las medidas cautelares proporcionadas al caso, en concordancia con lo previsto en el Código Nacional de Procedimientos Penales.
 
 II. Administrar, aplicar y supervisar el cumplimiento de las medidas cautelares.
 
@@ -63,9 +65,11 @@ III. Gestionar, aplicar y supervisar el cumplimiento de las condiciones impuesta
 
 IV. Las demás atribuciones que se prevean en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 3.
 
-En todo lo no previsto en esta Ley, se aplicará supletoriamente el Código Penal del Estado de México y el Código de Procedimientos Penales para el Estado de México.
+En todo lo no previsto en esta Ley, se aplicará supletoriamente el Código Penal del Estado de México.
 
 Serán admisibles y válidas aquellas formas que resulten adecuadas para lograr los fines del mismo, siempre que no se contrapongan a sus disposiciones ni a los principios constitucionales y de derechos humanos.
 
@@ -77,7 +81,9 @@ I. Autoridad: a la autoridad de supervisión de medidas cautelares y de la suspe
 
 II. Centro Estatal: al Centro Estatal de Medidas Cautelares.
 
-III. Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de México.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+III. Código: al Código Nacional de Procedimientos Penales.
 
 IV. Condiciones: al sometimiento del imputado a una o varias de las condiciones que refiere el Código de Procedimientos Penales que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse, pueda dar lugar a la extinción de la acción penal.
 
@@ -105,9 +111,11 @@ IV. Contingencia: la aplicación y vigilancia debe ser eficaz a la exigencia del
 
 V. Mínima injerencia: la forma de ejecución y de supervisión de las medidas cautelares será lo menos restrictiva posible para asegurar que el imputado cumpla con sus obligaciones procesales y se proteja la seguridad de la investigación, de las víctimas, los testigos y de la sociedad, lo mismo sucederá en las condiciones en cuanto a su propia finalidad.
 
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 6.
 
-Se le garantizará al imputado el respeto de los derechos humanos que la Constitución Política de los Estados Unidos Mexicanos reconoce a su favor, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de México, el Código de Procedimientos Penales, esta Ley y demás disposiciones aplicables, durante la ejecución y supervisión de las medidas cautelares y de la suspensión condicional del proceso.
+Se le garantizará al imputado el respeto de los derechos humanos que la Constitución Política de los Estados Unidos Mexicanos reconoce a su favor, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de México, el Código, esta Ley y demás disposiciones aplicables, durante la ejecución y supervisión de las medidas cautelares y de la suspensión condicional del proceso.
 
 ###### Artículo 7.
 
@@ -139,7 +147,9 @@ Corresponde a la Autoridad por conducto del Centro Estatal, cumplimentar las dec
 
 I. Realizar el procedimiento de investigación y evaluación de riesgos procesales, conforme a lo previsto en esta Ley.
 
-II. Llevar el registro de todas las medidas cautelares y condiciones de la suspensión condicional del proceso impuestas a que se refiere el Código de Procedimientos Penales.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+II. Llevar el registro de todas las medidas cautelares y condiciones de la suspensión condicional del proceso impuestas a que se refiere el Código.
 
 III. Vigilar y coordinar la ejecución de las medidas cautelares y el cumplimiento de las condiciones impuestas conforme a lo establecido en la presente Ley.
 
@@ -249,19 +259,25 @@ IV. Coordinarse con las autoridades competentes del orden federal, estatal o mun
 
 V. Desarrollar las estrategias que permitan una ejecución y supervisión efectiva de las medidas cautelares o condiciones que hayan sido impuestas.
 
-VI. Reportar mensualmente cuando sea requerido o lo estime oportuno, a la Procuraduría General de Justicia del Estado, el cumplimiento de las medidas cautelares o condiciones cuya ejecución o vigilancia se le encomiende.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+VI. Reportar mensualmente cuando sea requerido o lo estime oportuno, a la Fiscalía General de Justicia del Estado de México, el cumplimiento de las medidas cautelares o condiciones cuya ejecución o vigilancia se le encomiende.
 
 VII. Las demás que le confieran otras disposiciones aplicables.
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO A PRUEBA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO
 
 ###### Artículo 20.
 
 Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución auxiliar observa o se da cuenta de la inobservancia o de cualquier irregularidad en su ejecución, dará aviso inmediato al Centro Estatal, que a su vez, si lo estima cierto, informará a las partes a efecto de que, en su caso, puedan solicitar al Juez de Control la revisión de la medida cautelar.
 
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 21.
 
-Cuando se modifiquen, sustituyan o cancelen las medidas cautelares impuestas al imputado, el Juez de Control informará al Centro Estatal dicha determinación, así como de la revocación o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
+Cuando se modifiquen, sustituyan o cancelen las medidas cautelares impuestas al imputado, el Órgano Jurisdiccional informará al Centro Estatal dicha determinación, así como de la revocación o cesación provisional de los efectos de la suspensión del proceso, en su caso.
 
 ###### Artículo 22.
 
@@ -357,9 +373,11 @@ En caso de que la presentación periódica del imputado deba hacerse ante autori
 
 La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el Juez. Al dictarse la medida, el Juez de Control dará aviso inmediato al Centro Estatal, a fin de estar en posibilidades de ejecutarla o registrar ante quién será la presentación. El Centro Estatal informará oportunamente al Ministerio Público sobre el cumplimiento de la medida, quien integrará el informe a la carpeta de investigación para hacerlo del conocimiento de la defensa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-Cuando se determine la medida cautelar de prohibición de salir del país sin autorización, el Juez requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, de aviso a las autoridades en materia de migración y relaciones exteriores, y a las consulares de otros países para hacer efectiva la medida.
+Cuando se determine la medida cautelar de prohibición de salir del país sin autorización, el órgano jurisdiccional requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional y (sic) Centro Estatal deberá remitir constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, de aviso a las autoridades en materia de migración y relaciones exteriores y a las consulares de otros países para hacer efectiva la medida.
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida. El Centro Estatal establecerá un lugar específico para el resguardo del pasaporte y demás documentos requeridos por la autoridad para el fin de esta medida.
 
@@ -497,9 +515,11 @@ En todo caso, el Juez notificará la imposición de una medida cautelar o condic
 
 A petición de parte, el Centro Estatal elaborará reportes de cumplimiento con el fin de que sean utilizados para solicitar la revocación, sustitución o modificación de la medida cautelar o de las condiciones.
 
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-El personal del Centro Estatal supervisará el cumplimiento de las obligaciones impuestas por los jueces en aquellas medidas cautelares, distintas a la prisión preventiva, que ameriten seguimiento, así como aquellas que se desprendan de la suspensión del proceso a prueba, para lo cual se auxiliarán de la policía y demás autoridades o instituciones que estime conveniente.
+El personal del Centro Estatal supervisara el cumplimiento de las obligaciones impuestas por el Órgano jurisdiccional en aquellas medidas cautelares, distintas a la prisión preventiva, que ameriten seguimiento, así como aquellas que se desprendan de la suspensión condicional del proceso, para lo cual se auxiliarán de la policía y demás autoridades o instituciones que estime conveniente.
 
 ###### Artículo 58.
 
@@ -513,9 +533,11 @@ En el supuesto de que el supervisor de medidas cautelares y de la suspensión co
 
 ### CAPÍTULO IX. EJECUCIÓN DE LAS CONDICIONES DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir, durante la suspensión del proceso a prueba, además de las aplicables en igual forma que para las medidas cautelares, y en los términos que señala el Código de Procedimientos Penales, se llevará a cabo de la siguiente manera:
+La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir, durante la suspensión condicional del proceso, además de las aplicables en igual forma que para las medidas cautelares, y en los términos que señala el Código, se llevará a cabo de la siguiente manera:
 
 I. Residir en un lugar determinado: se comunicará tal circunstancia a la Autoridad y al Municipio que corresponda, y se prevendrá al imputado para que se presente ante dichas autoridades con la periodicidad que el Juez A (SIC) establezca al imponer la medida. En caso de incumplimiento, la Autoridad y el Director de Seguridad Pública Municipal darán aviso inmediato al Centro Estatal para los actos legales a que haya lugar.
 
@@ -525,11 +547,17 @@ III. Frecuentar o dejar de visitar determinados lugares o personas: se comunicar
 
 IV. Abstenerse de consumir drogas, estupefacientes o abusar de las bebidas alcohólicas: el imputado quedará sujeto a la revisión del Centro Estatal y con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes le brindará el tratamiento para la deshabituación al consumo, y practicará, periódicamente o en cualquier momento, exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes.
 
-V. Participar en programas especiales para la prevención y el tratamiento de adicciones: quedará sujeto a la revisión por parte del Centro Estatal y con el auxilio de la Secretaría de Salud, la que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento; lo anterior, sin perjuicio de los programas aplicados por la suspensión condicional del procedimiento a prueba para personas que presentan abuso y dependencia de sustancias psicoactivas, en los cuales se podrá colaborar.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
 
-VI. Aprender una profesión u oficio, o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control: quedará sujeta a la revisión por parte del Centro Estatal y con el auxilio de la Secretaría de Educación que dará seguimiento a la incorporación del imputado a alguno de los centros o instituciones públicas que ofrezcan servicios educativos o de capacitación para el trabajo, informando al Centro Estatal sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
+V. Participar en programas especiales para la prevención y el tratamiento de adicciones: quedará sujeto a la revisión por parte del Centro Estatal y con el auxilio de la Secretaría de Salud, la que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento; lo anterior, sin perjuicio de los programas aplicados por la suspensión condicional del proceso para personas que presentan abuso y dependencia de sustancias psicoactivas, en los cuales se podrá colaborar.
 
-VII. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública: quedará sujeta a la revisión del Centro Estatal y con auxilio de la Secretaría de Desarrollo Social, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente e informará sobre su cumplimiento.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+VI. Aprender una profesión u oficio, o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control: quedará sujeta a la revisión por parte del Centro Estatal y con el auxilio de la Secretaría de Educación, Ciencia, Tecnología e Innovación que dará seguimiento a la incorporación del imputado a alguno de los centros o instituciones públicas que ofrezcan servicios educativos o de capacitación para el trabajo, informando al Centro Estatal sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+VII. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública: quedará sujeta a la revisión del Centro Estatal y con auxilio de la Secretaría de Bienestar, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente e informará sobre su cumplimiento.
 
 VIII. Someterse a tratamiento médico o psicológico de preferencia en instituciones públicas: se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento o sometimiento al cuidado o vigilancia de una persona o institución determinada.
 
@@ -587,9 +615,11 @@ Corresponde a los ayuntamientos, a través de sus instituciones, dependencias y 
 
 ### CAPÍTULO XI. FALTAS ADMINISTRATIVAS Y MEDIDAS DISCIPLINARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 64.
 
-Sin perjuicio de las responsabilidades previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, serán consideradas como faltas:
+Sin perjuicio de las responsabilidades previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, serán consideradas como faltas:
 
 I. No entregar en tiempo y forma el estudio de riesgo a las partes procesales del caso.
 
@@ -658,3 +688,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIGILANCIA DE MEDIDAS CAUTELARES Y DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
