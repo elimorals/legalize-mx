@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-12-28"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -117,9 +117,11 @@ Las autorizaciones señaladas se sujetarán, sin perjuicio de lo que dispongan o
 
 En las construcciones, remodelaciones y acondicionamientos de los establecimientos señalados en este artículo, se deberán observar las normas de los reglamentos municipales de construcciones, así como las disposiciones legales relativas al equilibrio ecológico y la protección al ambiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-Tratándose de bebidas alcohólicas regionales, cuyo nombre característico se encuentre reconocido por la costumbre, como es el caso del bacanora, la apertura y funcionamiento de los establecimientos dedicados a su fabricación, elaboración, envasamiento, distribución y venta, sólo se autorizará cuando se reúnan los requisitos que se establecen en las leyes y reglamentos de salud, así como en los demás ordenamientos aplicables que regulen aspectos relacionados con esta materia.
+Tratándose de bebidas alcohólicas regionales, cuyo nombre característico se encuentre reconocido por la costumbre, como es el caso del bacanora, la apertura y funcionamiento de los establecimientos dedicados a su fabricación, elaboración, envasamiento, distribución y venta, sólo se autorizará cuando se reúnan los requisitos que se establecen en las leyes, reglamentos, así como en los demás ordenamientos jurídicos del orden estatal aplicables en la materia.
 
 La autorización a que se refiere este artículo, estará condicionada a la circunstancia de que no se causen daños ecológicos con motivo de la fabricación de la bebida regional del caso, debiendo acreditarse tal situación, en todos los casos, mediante constancia expedida por las autoridades competentes.
 
@@ -323,15 +325,7 @@ Los permisos para esa actividad preferentemente se otorgarán a aquellas negocia
 
 XIII Bis.- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación Sonorense.- La persona física o moral dedicada a la transportación de bebidas alcohólicas cuya fabricación se realiza en el Estado de Sonora por fabricantes que cuenten con licencia vigente en los giros Fábrica de Producto Regional Típico y Fábrica de Cerveza Artesanal contemplados en esta ley.
 
-> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-XIII Bis 1.- PORTEADORA POR APLICACIÓN. La persona física o moral dedicada a la transportación de bebidas con contenido alcohólico derivadas de una operación de compra venta por medio de una aplicación digital debidamente registrada y que dicha transportación se lleve a cabo dentro de la demarcación territorial o asentamiento urbano en que se encuentre el expendedor.
-
-Los permisos para la actividad señalada en el párrafo anterior, se otorgarán exclusivamente a todas aquellas personas o negociaciones que, además de encontrarse inscritos en el Registro Estatal de Contribuyentes a que se refiere el artículo 33 del Código Fiscal del Estado, utilicen cualquier tipo de aplicaciones digitales para que el consumidor final pueda solicitarles la prestación de los servicios de transportación a que se refiere esta fracción, siempre y cuando la cantidad de litros de bebidas alcohólicas adquiridos mediante la aplicación digital, no supere la establecida en el artículo 51 de la presente ley.
-
-El producto que se adquiera por medio de aplicación deberá ser entregado únicamente en el domicilio en que fue solicitado el servicio y por ningún motivo se deberá realizar la entrega de bebidas con contenido alcohólico a los menores de 18 años de edad, y para tal efecto deberá de cumplir por lo dispuesto en el artículo 20 fracción I, de este ordenamiento.
-
-En caso de presentarse alguna infracción a la presente ley, serán corresponsables el titular de la aplicación y quien físicamente lleve a cabo la transportación.
+XIII Bis 1.- (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -389,11 +383,27 @@ X.- Proponer, a las autoridades federales competentes, la coordinación de accio
 
 XI.- Celebrar convenios de coordinación con los ayuntamientos y de concertación con los sectores social y privado, para el cumplimiento del objeto de la presente Ley;
 
-XII.- Ordenar el análisis y verificación de bebidas con contenido alcohólico en los establecimientos autorizados conforme a la presente Ley, para cerciorarse de que expenden bebidas con contenido alcohólico cumpliendo con las características y normas a que se refiere el artículo 2º de este ordenamiento; y
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Las demás que le señale la presente Ley y otras disposiciones aplicables.
+XII.- Ordenar el análisis y verificación de bebidas con contenido alcohólico en los establecimientos autorizados conforme a la presente Ley, para cerciorarse de que expenden bebidas con contenido alcohólico cumpliendo con las características y normas a que se refiere el artículo 2º de este ordenamiento.
 
-Las atribuciones señaladas en las fracciones III, IV, V, VI, VII, VIII, IX, XI, XII y XIII de este artículo serán ejercidas por el Ejecutivo del Estado por conducto de la Secretaría.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Ordenar la clausura parcial o total del establecimiento cuando se afecte el interés general, con independencia de que el lugar se encuentre operando con licencia, permiso provisional o cuente con la autorización a la que se refiere el artículo 52 de esta Ley.
+
+Se entenderá que afecta el interés general, cuando se altere el orden y la seguridad pública, o afecte la armonía de la comunidad.
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Autorizar o negar los permisos y autorizaciones a que se refiere la presente ley.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XV.- Las demás que le señale la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Las atribuciones señaladas en las fracciones III, IV, V, VI, VII, VIII, IX, XI, XII, XIII, XIV y XV de este artículo serán ejercidas por el Ejecutivo del Estado por conducto de la Secretaría.
 
 ###### Artículo 13.
 
@@ -459,6 +469,10 @@ VIII.- Contar con los cajones de estacionamiento en los casos establecidos en la
 
 IX.- Las demás que se deriven de la presente Ley.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Los dependientes y empleados de los establecimientos que suministren bebidas con contenido alcohólico, estarán obligados a observar el comportamiento de los consumidores y a negar el suministro a quienes se encuentren en evidente estado de ebriedad.
+
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 14 Bis.
@@ -493,6 +507,10 @@ XII. Sin perjuicio de lo establecido en el Código Fiscal del Estado de Sonora, 
 
 XIII. Los permisionarios tendrán a su alcance los recursos y medios de defensa que procedan, en los términos de las disposiciones legales respectivas, contra los actos dictados por las autoridades fiscales, así como a que en la notificación de dichos actos se indique el recurso o medio de defensa procedente, el plazo para su interposición y el órgano ante el que debe formularse. Cuando en la resolución administrativa se omita el señalamiento de referencia, los permisionarios contarán con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
 
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIV.- El permisionario, sus encargados o empleados podrán negar la venta y/o consumo de bebidas con contenido alcohólico a cualquier persona dentro de los establecimientos autorizados por la licencia respectiva.
+
 ###### Artículo 15.
 
 En los establecimientos denominados como agencia distribuidora, expendio, tienda de autoservicio, tienda departamental y tienda de abarrotes, podrá expenderse la cerveza, ya sea por cartón o caja, paquete de 6 unidades, botella, bote o en cualesquiera otras presentaciones, enfriada previamente en refrigerador o en hielo.
@@ -505,15 +523,17 @@ Los conductores de automóviles de alquiler, autobuses, camiones de pasajeros o 
 
 Los particulares o empresas que intervengan en una o más de las actividades que en esta Ley se regulan, tienen la obligación de participar la apertura del establecimiento o despacho de su propiedad, así como el inicio de actividades tratándose de porteadores, a las autoridades correspondientes, y contar con previa licencia de funcionamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 18.
 
-En los establecimientos a que se refieren las fracciones IV, IX, X, XI y XV del artículo 10 de esta Ley, deberán contar con suficientes guardias de seguridad.
+En los establecimientos a que se refieren las fracciones IV, IX, IX Bis, X y XI del artículo 10 de esta Ley, se deberá contar con elementos de seguridad certificados y con un número suficiente de estos, en todo momento para efectos de prevenir y/o controlar cualquier situación de riesgo.
 
 El Ejecutivo del Estado, por conducto de la Secretaría, podrá exigir a los propietarios, administradores o encargados de los establecimientos de cualquier giro, la vigilancia necesaria para la seguridad de los concurrentes y vecinos del lugar.
+
+El incumplimiento de las obligaciones y/o exigencias señaladas en los párrafos primero y segundo de este artículo, será causa de clausura inmediata del establecimiento.
+
+Corresponderá a la Secretaría de Seguridad Pública del Estado, expedir el certificado correspondiente para los elementos de seguridad requeridos en los establecimientos referidos en el párrafo primero del presente artículo.
 
 ###### Artículo 19.
 
@@ -715,7 +735,9 @@ Los interesados en obtener licencia para la apertura y funcionamiento de los est
 
 I.- Nombre del solicitante, nacionalidad, Clave de su Registro Federal de Contribuyentes, Clave de su Registro Estatal de Contribuyentes y designación de domicilio para oír y recibir notificaciones independientemente del domicilio del establecimiento;
 
-II.- Original o copia certificada del acta constitutiva, modificaciones, en su caso, y poderes de sus representantes legales, tratándose de personas morales; o copia certificada de acta de nacimiento y copia certificada de su alta en la Secretaría de Hacienda y Crédito Público en caso de personas físicas; además, en este último supuesto, copia de una identificación oficial vigente con fotografía;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+II.- Original o copia certificada del acta constitutiva y en su caso, sus modificaciones, copia simple de su constancia de inscripción ante el Servicio de Administración Tributaria y poderes de sus representantes legales, tratándose de personas morales; o copia certificada del acta de nacimiento, copia de una identificación oficial vigente con fotografía y copia simple de su constancia de inscripción ante el Servicio de Administración Tributaria, en (sic) tratándose de personas físicas. La constancia de inscripción antes mencionada, se podrá verificar por parte del personal de la Dirección General de Bebidas Alcohólicas de la Secretaría de Hacienda.
 
 III.- Croquis expedido por perito o persona especialista en la materia, donde se indique en forma clara y precisa, la ubicación del local en que se pretenda establecer el giro señalado y la distancia a la esquina más cercana, así como el documento que acredite la legitima posesión del inmueble donde operará, en su caso, el establecimiento;
 
@@ -733,7 +755,9 @@ IX.- No estar inhabilitado por la Ley o por sentencia de autoridad competente;
 
 X.- Constancia que acredite no tener antecedentes penales;
 
-XI.- Documento o constancia expedida por las autoridades federales correspondientes, en donde se manifieste su opinión para la instalación, operación y funcionamiento de un establecimiento de los señalados en el artículo 10 de esta Ley, cuya actividad preponderante sea la venta y consumo de bebidas alcohólicas en envase abierto, que pretende ubicarse en los márgenes de carreteras federales, en terminales aéreas o terrestres y zonas consideradas como reserva federal o de riesgo; y
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XI.- Documento o constancia expedida por las autoridades federales correspondientes, en donde se manifieste su opinión para la instalación, operación y funcionamiento de un establecimiento de los señalados en el artículo 10 de esta Ley, cuya actividad preponderante sea la venta y consumo de bebidas alcohólicas en envase abierto, que pretende ubicarse en los 30 márgenes de carreteras federales, en terminales aéreas o terrestres y zonas consideradas como reserva federal o de riesgo.
 
 XII.- La manifestación, bajo protesta de decir verdad, expresada en el sentido de que se cumple, además de lo ordenado en el presente ordenamiento, con lo dispuesto por la normatividad en materia de salud, protección al ambiente y conservación ecológica, desarrollo urbano y protección civil, así como con los demás ordenamientos que regulen el funcionamiento de los establecimientos.
 
@@ -742,6 +766,10 @@ XII.- La manifestación, bajo protesta de decir verdad, expresada en el sentido 
 > <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
 
 XIII.- En el caso de que la solicitud sea para la autorización de venta y consumo de bebidas con contenido alcohólico a que se refiere la fracción XV del artículo 10 de esta Ley, copia certificada de la autorización de funcionamiento expedida por la autoridad competente en los términos y condiciones establecidos en la Ley Federal de Juegos y Sorteos y su Reglamento.
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Dictamen favorable de protección civil, expedido por la Coordinación Estatal de Protección Civil.
 
 En el supuesto de que el solicitante no pueda llenar los requisitos mencionados en las fracciones V y VI de este artículo, en virtud de que el proyecto de inversión a realizar contempla la construcción del local correspondiente, la Secretaría podrá autorizar el otorgamiento de un plazo para la realización del proyecto, y establecer la condición de que el local se deberá construir, cumpliéndose con los requisitos señalados por la normatividad precisada en la fracción que antecede.
 
@@ -791,6 +819,10 @@ La Secretaría podrá tomar las medidas que considere convenientes en los casos 
 
 En los supuestos contemplados en este artículo, se seguirá el procedimiento administrativo de cancelación de licencia a que se refiere esta Ley.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Artículo 44 BIS.- Las licencias, permisos y revalidaciones que se expidan en contravención a las disposiciones establecidas en esta ley, son nulos de pleno derecho. Los servidores públicos que intervengan o hayan intervenido en la emisión de esos actos o que dispensen algún requisito esencial u obligatorio, serán sujetos a lo establecido en la Ley de Responsabilidades y Sanciones para el Estado de Sonora y en el Código Penal del Estado de Sonora, en caso de que la conducta constituya un delito.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
@@ -828,6 +860,14 @@ I.- Licencia original.
 II.- Carta de no adeudo.
 
 III.- Comprobante de pago de los derechos respectivos.
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+IV.- En el caso de los establecimientos señalados en el párrafo primero del artículo 18 de esta Ley, además se deberá presentar comprobante de solicitud del dictamen favorable de protección civil, expedido por la Coordinación Estatal de Protección Civil.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IV, B.O. 27 DE DICIEMBRE DE 2024.]</small>
+
+Este requisito también será exigible tratándose de establecimientos de cualquier giro que realicen modificaciones considerables a sus instalaciones, el permisionario deberá hacerlo del conocimiento de la autoridad estatal de protección civil, solicitando la emisión de un dictamen favorable.
 
 Una vez recibida la solicitud y la documentación antes referida, la Secretaría podrá efectuar visitas para verificar que el solicitante cumple con lo establecido en la presente Ley. Realizado lo anterior y verificado el cumplimiento de la normatividad correspondiente, la Secretaría expedirá el respectivo canje de la licencia en mención.
 
@@ -983,7 +1023,9 @@ V.- Relación de cambios de giro, horario y domicilio; y
 
 VI.- El permisionario de una licencia podrá conceder autorización de uso a un tercero mediante convenio, siendo éste último quien exclusivamente podrá operar el giro correspondiente.
 
-Dicha autorización deberá ser inscrita ante la Dirección General de Bebidas de (sic) Alcohólicas dentro de los treinta días siguientes a la celebración del convenio y procederá su cancelación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Dicha autorización deberá ser inscrita ante la Dirección General de Bebidas Alcohólicas de la Secretaría de Hacienda del Estado, donde se deberá cumplimentar la solicitud correspondiente dentro de los treinta días siguientes a la celebración de convenio y previo al inicio de operaciones, a dicha solicitud se deberá acompañar carta de no antecedentes penales del tercero autorizado, ya sea de la persona física solicitante o, tratándose de personas morales, de cada uno de sus socios, administradores o integrantes y procederá su cancelación:
 
 a) Cuando la soliciten conjuntamente el permisionario y el tercero autorizado o cuando expire en su vigencia el convenio celebrado entre ambos;
 
@@ -1050,6 +1092,14 @@ IV.- Durante los 75 días sumados a que se refieren las fracciones I y III de es
 ###### Artículo 63.
 
 La Secretaría podrá ordenar y practicar visitas de inspección a los establecimientos que se dediquen en forma eventual o permanente a las actividades que regula la presente Ley, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los presidentes municipales coadyuvarán en el cumplimiento de dicha función, por conducto de los funcionarios que los mismos designen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Para la realización de las visitas domiciliarias que tengan por objeto inspeccionar, vigilar, verificar y comprobar el cumplimiento de las disposiciones de esta ley, se considerarán hábiles las veinticuatro horas de todos los días del año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría por conducto de la Dirección General de Bebidas Alcohólicas podrá solicitar a la Secretaría de Salud la verificación y control sanitario de los establecimientos en que se realice la venta o consumo de bebidas alcohólicas. La Secretaría de Salud deberá remitir un informe de la verificación realizada a la Secretaría dentro de los diez días siguientes a los que se haya realizado la verificación.
 
 La Policía Estatal de Seguridad Pública y las policías municipales estarán obligadas a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta circunstanciada por escrito, la cual remitirán a la Secretaría para que determine lo conducente.
 
@@ -1129,17 +1179,17 @@ IX.- Por operar fuera de los horarios establecidos en la licencia de funcionamie
 
 X.- Por vender o permitir el consumo de bebidas con contenido alcohólico a menores de edad o incapacitados legales, en el interior del establecimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+XI.- A petición del titular de la licencia. En estos casos el procedimiento de cancelación no incluirá las acciones previstas en el artículo 72, sino solamente lo ordenado en los artículos 73 y 74 de la presente ley.
 
-XI.- Tratándose de la autorización que expida la Secretaría para el giro contemplado en la fracción XV del artículo 10 de esta Ley, al cancelarse la autorización que para su funcionamiento se otorgue en base a la Ley Federal de Juegos y Sorteos y su Reglamento por la autoridad competente, se cancelará la autorización para la venta y consumo de bebidas con contenido alcohólico.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XII.- Cuando, después de analizar el expediente respectivo y los motivos expuestos en la convocatoria correspondiente, por unanimidad de votos el Comité Evaluador de Trámites y Licencias solicite el inicio del procedimiento de cancelación.
 
-> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-XII.- En los demás casos que expresamente señalan las disposiciones de esta Ley.
+XIII.- En los demás casos que expresamente señalan las disposiciones de esta Ley.
 
 ### CAPÍTULO X. DEL PROCEDIMIENTO ADMINISTRATIVO DE CANCELACIÓN DE LICENCIAS DE FUNCIONAMIENTO
 
@@ -1188,6 +1238,10 @@ V.- Cuando el establecimiento opere con venta o consumo de bebidas con contenido
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 VI.- Por vender o permitir, en forma reiterada, el consumo de bebidas con contenido alcohólico a menores de edad o incapaces legales. En este caso, la clausura solo procederá cuando al responsable del establecimiento se le acredite que tuvo conocimiento directo de la infracción.
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+VII.- Cuando, durante las visitas de inspección realizadas a establecimientos dedicados a la venta y/o consumo de bebidas con contenido alcohólico, en los cuales la ley exige contar con los elementos de seguridad suficientes, se constate que el establecimiento está operando con la ausencia total de dichos elementos.
 
 En todos los casos, la persona que proporcionó o generó directamente la venta de las bebidas con contenido alcohólico a menores, por no cerciorarse de la edad de las personas, se hará acreedor a la multa establecida en el artículo 82, fracción IV de esta ley.
 
@@ -1239,9 +1293,9 @@ Cumplido el plazo que señala el artículo anterior, tratándose de bebidas lega
 
 Las infracciones a las disposiciones establecidas en esta Ley, serán sancionadas en la siguiente forma:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-I.- Con multa equivalente de catorce a ciento cuarenta Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
+I.- Con multa equivalente de diecisiete a ciento sesenta y ocho Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
 
 a).- Por operar con venta y consumo de bebidas con contenido alcohólico en días prohibidos por las autoridades encargadas de su aplicación, conforme a lo señalado en la presente Ley;
 
@@ -1269,9 +1323,9 @@ j).- Cuando se opere en domicilio distinto al que indica su licencia de funciona
 
 k).- A quienes no cumplan con lo establecido en las fracciones VII, VIII y IX del artículo 14 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-II.- Con multa equivalente de quince a setecientas Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en cada caso:
+II.- Con multa equivalente de dieciocho a ochocientas cuarenta Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en cada caso:
 
 a).- Cuando se impida o dificulte a las autoridades correspondientes, la inspección de los establecimientos completos o vehículos a que se refiere esta Ley, o bien, cuando sin causa justificada agredan físicamente al inspector que en ejercicio de sus funciones realiza una visita o inspección a cualesquiera de los establecimientos o vehículos regulados por esta Ley;
 
@@ -1303,9 +1357,9 @@ j).- Por operar en contravención a lo señalado en las fracciones X, XI, XII, y
 
 Tratándose de las infracciones señaladas en los incisos a), b), c) y g) de esta fracción, a la primera reincidencia se aplicará el doble de la sanción impuesta y la segunda será causal de cancelación de la licencia de funcionamiento y clausura del establecimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-III.- Con multa equivalente de setenta a setecientas Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos:
+III.- Con multa equivalente de ochenta y cuatro a ochocientas cuarenta Unidades de Medida y Actualización o arresto hasta por 24 horas, según las circunstancias que medien en los siguientes casos;
 
 a).- Al que utilice algún establecimiento o su propio domicilio para la fabricación, distribución, almacenamiento, venta o consumo de bebidas alcohólicas, así como a los que transportan los productos a que esta Ley se refiere, careciendo de la licencia respectiva.
 
@@ -1339,9 +1393,9 @@ i).- Por cualquier otro acto u omisión que infrinja las disposiciones de esta L
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia, se estará a lo dispuesto por el Capítulo X de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-IV.- Con multa equivalente de 1000 a 3100 Unidades de Medida y Actualización o arresto de hasta 36 horas en el siguiente caso:
+IV.- Con multa equivalente de mil doscientas a tres mil setecientas veinte Unidades de Medida y Actualización o arresto de hasta 36 horas en el siguiente caso:
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1860,3 +1914,15 @@ B.O. 28 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 10, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2025, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
